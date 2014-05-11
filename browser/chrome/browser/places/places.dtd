@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Num">
 <!ENTITY col.tags.label          "Chavazzins">
 <!ENTITY col.url.label           "Adressa">
-<!ENTITY col.mostrecentvisit.label "Ultima visita">
+<!ENTITY col.mostrecentvisit.label "L'ultima visita">
 <!ENTITY col.visitcount.label    "Visità il pli savens">
 <!ENTITY col.keyword.label       "Pled magic">
 <!ENTITY col.description.label   "Descripziun">
