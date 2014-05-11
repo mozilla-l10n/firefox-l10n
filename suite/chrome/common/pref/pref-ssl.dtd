@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "f">
 <!ENTITY warn.leavingsecure "užveriant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.leavingsecure.accesskey       "u">
-<!ENTITY warn.viewmixed "peržiūrint tinklalapį, turintį ir šifruotų, ir nešifruotų duomenų">
-<!ENTITY warn.viewmixed.accesskey           "ž">
 
+<!ENTITY mixed.description                  "Šifruotuose tinklalapiuose gali būti ir nešifruoto turinio, kurį gali matyti ir pašaliniai. Programa „&brandShortName;“ tokį turinį gali aptikti ir jo neįkelti.">
 <!ENTITY warn.mixedactivecontent            "Įspėti, kai šifruotame tinklalapyje yra prastai šifruoto turinio">
 <!ENTITY warn.mixedactivecontent.accesskey  "p">
 <!ENTITY block.activecontent                "Neįkelti prastai šifruoto turinio šifruotuose tinklalapiuose">
