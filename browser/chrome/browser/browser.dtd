@@ -97,11 +97,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Recolliar a &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconnectar cun &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; vegn immediat a cumenzar a sincronisar.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a  sincronisar.">
 <!ENTITY syncErrorPanel.heading "Impussibel da connectar cun &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "S'annunzia per cuntinuar da sincronisar.">
+<!ENTITY syncErrorPanel.subTitle "T'annunzia per cuntinuar da sincronisar.">
 <!ENTITY syncErrorPanel.signInButton.label "S'annunziar">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
@@ -330,13 +330,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Persunalisar">
-<!ENTITY appMenuCustomize.tooltip "Persunalisar il menu ed las travs d'utensils">
-<!ENTITY appMenuCustomizeExit.label "Terminar il modus da persunalisar">
-<!ENTITY appMenuCustomizeExit.tooltip "Finir da persunalisar">
+<!ENTITY appMenuCustomize.tooltip "Persunalisar il menu e las travs d'utensils">
+<!ENTITY appMenuCustomizeExit.label "Serrar il modus da persunalisar">
+<!ENTITY appMenuCustomizeExit.tooltip "Terminar il persunalisar">
 <!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Mussar l'entira cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
-<!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sessiun">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
 <!ENTITY appMenuHistory.viewSidebar.label "Vesair la trav laterala da la cronologia">
 <!ENTITY appMenuHelp.tooltip "Avrir il menu d'agid">
 
@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Agiuntar al menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Spustar sin la trav d'utensils">
+<!ENTITY customizeMenu.moveToToolbar.label "Spustar en la trav d'utensils">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
@@ -643,7 +643,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Co pos jau vesair sche mia connexiun ad ina pagina d'internet è segira?">
+<!ENTITY identity.help.tooltip "Co poss jau vesair sche mia connexiun ad ina pagina d'internet è segira?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

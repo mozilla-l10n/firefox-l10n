@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Bainvegni tar &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "S'annunzia per sincronisar tes tabs, segnapaginas, pleds-clav e dapli.">
+<!ENTITY aboutAccountsConfig.description "T'annunzia per sincronisar tes tabs, segnapaginas, pleds-clav e dapli.">
 <!ENTITY aboutAccountsConfig.startButton.label "Cumenzar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Utiliseschas ina versiun pli veglia da Sync?">
 <!ENTITY aboutAccountsConfig.manage.label "Administrar">
