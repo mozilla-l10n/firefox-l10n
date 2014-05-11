@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "Э-паштовыя ашуканствы">
 <!ENTITY itemPasswords.label "Паролі">
 <!ENTITY itemAntiVirus.label "Антывірус">
-<!ENTITY itemCookies.label "Змесціва Сеціва">
 <!ENTITY junkMail.intro "Прызначэнне змоўчных наладжванняў пошты-лухты. Асаблівыя для рахункаў наладжванні могуць быць вызначаны ў Наладжваннях Рахунку.">
 <!ENTITY manualMark.label "Калі я пазначаю лісты як лухту:">
 <!ENTITY manualMark.accesskey "К">
@@ -38,17 +37,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; можа палегчыць антывірусным праграмам аналіз уваходных паштовых лістоў да іх мясцовага захавання.">
 <!ENTITY antiVirus.label "Дазволіць спажыўцам-антывірусам змяшчаць асобныя ўваходныя лісты ў карантын">
 <!ENTITY antiVirus.accesskey "а">
-<!ENTITY cookies.intro "&brandShortName; дазваляе вам вызначыць дзённікі, жывільнікі навінаў і іншыя пляцоўкі сеціва, якім давзволена ўстлёўваць біркі.">
-<!ENTITY acceptCookies.label "Набываць біркі з пляцовак">
-<!ENTITY acceptCookies.accesskey "Н">
-<!ENTITY keepUntil.label "Трымаць пакуль:">
-<!ENTITY keepUntil.accesskey "Т">
-<!ENTITY expire.label "яны не састарэюць">
-<!ENTITY close.label "Я не закрыю &brandShortName;">
-<!ENTITY askEachTime.label "пытаць мяне кожнага разу">
-<!ENTITY cookieExceptions.label "Выключэнні…">
-<!ENTITY cookieExceptions.accesskey "В">
-<!ENTITY showCookies.label "Паказаць біркі…">
-<!ENTITY showCookies.accesskey "П">
-<!ENTITY doNotTrack.label "Паведамляць сеціўным пляцоўкам, што я не жадаю, каб за мною сачылі">
-<!ENTITY doNotTrack.accesskey "П">

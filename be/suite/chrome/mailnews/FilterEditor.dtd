@@ -6,6 +6,7 @@
 <!ENTITY filterEditorDialog.dimensions "width: 115ch;">
 <!ENTITY filterName.label "Назва сіта:">
 <!ENTITY filterName.accesskey "і">
+<!ENTITY recentFolders.label "Нядаўні">
 <!ENTITY junk.label "Лухта">
 <!ENTITY notJunk.label "Не лухта">
 <!ENTITY lowestPriorityCmd.label "Найніжэйшы">

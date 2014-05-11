@@ -11,7 +11,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Знайсці і замяніць…">
+<!ENTITY findBarCmd.label "Знайсці…">
+<!ENTITY findReplaceCmd.label "Знайсці і замяніць">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
@@ -32,6 +33,8 @@
 <!ENTITY insertTableCmd.accesskey "Т">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Знакі і сімвалы…">
 <!ENTITY insertCharsCmd.accesskey "З">
 <!ENTITY insertBreakAllCmd.label "Разрыў пад выявай(-мі)">

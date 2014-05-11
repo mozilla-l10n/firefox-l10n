@@ -82,18 +82,20 @@
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "у">
-<!ENTITY findCmd.label "Знайсці і замяніць…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "З">
+<!ENTITY findBarCmd.label "Знайсці…">
+<!ENTITY findBarCmd.accesskey "З">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Знайсці і замяніць…">
+<!ENTITY findReplaceCmd.accesskey "м">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Знайсці зноў">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "ў">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Знайсці папярэдні">
+<!ENTITY findPrevCmd.accesskey "я">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "я">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
@@ -162,11 +164,11 @@
 <!ENTITY addressBookCmd.label "Адрасная кніга">
 <!ENTITY addressBookCmd.accesskey "а">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
-<!ENTITY accountManagerCmd.accesskey "р">
-<!ENTITY accountManagerCmdUnix.accesskey "р">
-<!ENTITY preferencesCmd.label "Наладжванні…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY accountManagerCmd2.label "Наладжванні рахунку">
+<!ENTITY accountManagerCmd2.accesskey "Н">
+<!ENTITY accountManagerCmdUnix2.accesskey "Н">
+<!ENTITY preferencesCmd2.label "Наладжванні">
+<!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY minimizeWindow.key "m">

@@ -65,8 +65,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "П">
 <!ENTITY synchronizeOfflineCmd.label "Загрузіць і сінхранізаваць зараз…">
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
-<!ENTITY settingsOfflineCmd.label "Наладжванні працы па-за сеткаю…">
-<!ENTITY settingsOfflineCmd.accesskey "Н">
+<!ENTITY settingsOfflineCmd2.label "Наладжванні працы па-за сеткаю">
+<!ENTITY settingsOfflineCmd2.accesskey "п">
 <!ENTITY downloadSelectedCmd.label "Атрымаць вылучаныя лісты">
 <!ENTITY downloadSelectedCmd.accesskey "л">
 <!ENTITY downloadStarredCmd.label "Атрымаць лісты з зоркамі">
@@ -101,9 +101,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "з">
 <!ENTITY menuFavoriteFolder.label "Улюбёная папка">
 <!ENTITY menuFavoriteFolder.accesskey "л">
-<!ENTITY folderPropsCmd.label "Уласцівасці…">
-<!ENTITY folderPropsFolderCmd.label "Уласцівасці папкі…">
-<!ENTITY folderPropsNewsgroupCmd.label "Уласцівасці навінакупы…">
+<!ENTITY folderPropsCmd2.label "Уласцівасці">
+<!ENTITY folderPropsFolderCmd2.label "Уласцівасці папкі">
+<!ENTITY folderPropsNewsgroupCmd2.label "Уласцівасці навінакупы">
 <!ENTITY folderPropsCmd.accesskey "ц">
 <!ENTITY undoDeleteMsgCmd.label "Адмяніць выдаленне ліста">
 <!ENTITY redoDeleteMsgCmd.label "Вярнуць выдаленне ліста">
@@ -147,6 +147,8 @@
 <!ENTITY favoriteFolders.accesskey "л">
 <!ENTITY recentFolders.label "Нядаўнія">
 <!ENTITY recentFolders.accesskey "я">
+<!ENTITY compactVersion.label "Шчыльная праява">
+<!ENTITY compactVersion.accesskey "Ш">
 <!ENTITY sortMenu.label "Размеркаваць па">
 <!ENTITY sortMenu.accesskey "м">
 <!ENTITY sortByDateCmd.label "Дата">
@@ -430,8 +432,8 @@
 <!ENTITY savedFiles.label "Захаваныя файлы">
 <!ENTITY savedFiles.accesskey "ф">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Сіты лістоў…">
-<!ENTITY filtersCmd.accesskey "С">
+<!ENTITY filtersCmd2.label "Сіты лістоў">
+<!ENTITY filtersCmd2.accesskey "С">
 <!ENTITY filtersApply.label "Ужыць сіты на папцы">
 <!ENTITY filtersApply.accesskey "У">
 <!ENTITY filtersApplyToSelection.label "Выканаць сіты на вылучаных лістах">
@@ -449,9 +451,9 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY clearRecentHistory.accesskey "ч">
-<!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
-<!ENTITY accountManagerCmd.accesskey "н">
-<!ENTITY accountManagerCmdUnix.accesskey "р">
+<!ENTITY accountManagerCmd2.label "Наладжванні рахунку">
+<!ENTITY accountManagerCmd2.accesskey "Н">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
 <!ENTITY allowRemoteDebugging.accesskey "д">
 <!ENTITY getMsgButton1.label "Атрымаць лісты">
@@ -524,8 +526,10 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Накіраваць як далучэнне">
 <!ENTITY remoteContentOptionsAllowForMsg.label "Паказаць адлеглае змесціва ў гэтым лісце">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "П">
-<!ENTITY remoteContentOptionAllowForAddress.label "Паказаць адлеглае змесціва ад гэтага дасылальніка">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "а">
+<!ENTITY editRemoteContentSettings.label "Праўка наладжванняў адлеглага змесціва…">
+<!ENTITY editRemoteContentSettings.accesskey "П">
+<!ENTITY editRemoteContentSettingsUnix.label "Праўка перавагаў адлеглага змесціва…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "П">
 <!ENTITY phishingOptionIgnore.label "Ігнараваць папярэджанне для гэтага ліста">
 <!ENTITY phishingOptionIgnore.accesskey "І">
 <!ENTITY phishingOptionSettings.label "Правіць наладжванні выяўлення ашукаў…">
@@ -574,12 +578,12 @@
 <!ENTITY folderContextSubscribe.accesskey "п">
 <!ENTITY folderContextSearchForMessages.label "Пошук лістоў…">
 <!ENTITY folderContextSearchForMessages.accesskey "ш">
-<!ENTITY folderContextProperties.label "Уласцівасці…">
-<!ENTITY folderContextProperties.accesskey "ц">
+<!ENTITY folderContextProperties2.label "Уласцівасці">
+<!ENTITY folderContextProperties2.accesskey "У">
 <!ENTITY folderContextFavoriteFolder.label "Улюбёная папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "л">
-<!ENTITY folderContextSettings.label "Наладжванні…">
-<!ENTITY folderContextSettings.accesskey "Н">
+<!ENTITY folderContextSettings2.label "Наладжванні">
+<!ENTITY folderContextSettings2.accesskey "л">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
 <!ENTITY glodaSearchBar.placeholder "Пошук лістоў…">
@@ -635,6 +639,8 @@
 <!ENTITY contextOpenNewTab.accesskey "у">
 <!ENTITY contextOpenConversation.label "Адкрыць ліст у гутарцы">
 <!ENTITY contextOpenConversation.accesskey "г">
+<!ENTITY contextOpenContainingFolder.label "Адчыніць ліст у змяшчальнай папцы">
+<!ENTITY contextOpenContainingFolder.accesskey "ч">
 <!ENTITY contextEditMsgAsNew.label "Правіць як новы ліст">
 <!ENTITY contextEditMsgAsNew.accesskey "П">
 <!ENTITY contextArchive.label "Архіў">
@@ -737,7 +743,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
 <!ENTITY zoomWindow.label "Павялічыць">
-<!ENTITY preferencesCmdMac.label "Перавагі…">
+<!ENTITY preferencesCmdMac2.label "Перавагі">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Службы">

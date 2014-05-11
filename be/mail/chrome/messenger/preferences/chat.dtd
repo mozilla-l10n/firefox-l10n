@@ -13,3 +13,16 @@
 <!ENTITY andSetStatusToAway.accesskey "ы">
 <!ENTITY sendTyping.label "Дасылаць апавяшчэнне набору ў гутарках">
 <!ENTITY sendTyping.accesskey "н">
+<!ENTITY chatNotifications.label "Калі прыбываюць паведамленні, накіраваныя вам:">
+<!ENTITY desktopChatNotifications.label "Паказаць апавяшчэнне">
+<!ENTITY desktopChatNotifications.accesskey "в">
+<!ENTITY chatSound.accesskey "г">
+<!ENTITY chatSound.label "Прайграць гук">
+<!ENTITY play.label "Граць">
+<!ENTITY play.accesskey "Г">
+<!ENTITY systemSound.label "Змоўчны сістэмны гук для новай пошты">
+<!ENTITY systemSound.accesskey "З">
+<!ENTITY customsound.label "Карыстацца наступным файлам гуку">
+<!ENTITY customsound.accesskey "У">
+<!ENTITY browse.label "Агляд…">
+<!ENTITY browse.accesskey "г">

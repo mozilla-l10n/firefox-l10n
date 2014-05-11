@@ -61,8 +61,10 @@
 <!ENTITY preferencesCmd.label "Перавагі…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "П">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "З">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "З">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmd.accesskey "м">
 <!ENTITY findAgainCmd.label "Знайсці зноў">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">

@@ -49,3 +49,9 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY statusText.label "Гатова">
 <!ENTITY popupIcon.tooltiptext "Не затрымліваць вынырцы з гэтай сеціўнай пляцоўкі">
+<!ENTITY viewSecurityInfo.label "Праглядзець звесткі пра бяспеку">
+<!ENTITY viewSecurityInfo.accesskey "б">
+<!ENTITY viewCertificate.label "Пабачыць пасведчанне">
+<!ENTITY viewCertificate.accesskey "п">
+<!ENTITY viewCertManager.label "Адчыніць кіраўнік пасведчанняў">
+<!ENTITY viewCertManager.accesskey "к">

@@ -28,8 +28,8 @@
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "л">
-<!ENTITY preferencesCmd.label "Наладжванні…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmd2.label "Наладжванні">
+<!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY viewMenu.label "Прагляд">
@@ -38,8 +38,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Паліца з статусам">
 <!ENTITY showTaskbarCmd.accesskey "с">
-<!ENTITY proxy.label "Наладка пасярэднікаў…">
-<!ENTITY proxy.accesskey "л">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">

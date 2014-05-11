@@ -31,13 +31,6 @@
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Невядома">
 <!ENTITY chatName.label "Назва гутаркі:">
-<!ENTITY allowRemoteContent1.label "Дазволіць адлеглае змесціва.">
-<!ENTITY allowRemoteContent1.accesskey "д">
-<!ENTITY allowRemoteContent1.tooltip "Лісты ў фармаце HTML могуць змяшчаць
-змесціва з адлеглых крыніцаў. Адкрыццё такіх лістоў выкліча
-ўсталяванне злучэння з гэтымі вонкавымі крыніцамі. Гэта дазваляе даведацца,
-што ліст быў прачытаны. Адзначэнне гэтай скрынкі дазваляе такое вонкавае
-ўбудаванае змесціва ў лістах HTML з гэтага адраса.">
 <!ENTITY WorkPhone.label "Працоўны:">
 <!ENTITY WorkPhone.accesskey "ц">
 <!ENTITY HomePhone.label "Хатні:">
