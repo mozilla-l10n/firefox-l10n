@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Priminimo savybės">
 <!ENTITY reminder.action.label                             "Parinkite priminimo būdą">
 
-<!ENTITY reminder.relation.before.label                    "iki">
-<!ENTITY reminder.relation.after.label                     "po">
-
 <!ENTITY reminder.action.alert.label                       "Rodyti pranešimą">
 <!ENTITY reminder.action.email.label                       "Atsiųsti laišką el. paštu">
 

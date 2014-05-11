@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Naujas įvykis…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Naujas darbas…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "d">
 
-<!ENTITY calendar.new.server.label              "Naujas kalendorius…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Spausdinti…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "S">
-
 <!ENTITY calendar.import.label                  "Importuoti…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Eksportuoti…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Eksportuoti pažymėtus įvykius…">
-<!ENTITY calendar.export.selection.accesskey    "o">
 
 <!ENTITY calendar.publish.label                 "Publikuoti…">
 <!ENTITY calendar.publish.accesskey             "P">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Rodyti darbus kalendoriuje">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "R">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Kelių savaičių kalendoriaus apimtis">
-<!ENTITY calendar.menu.numberofweeks.2          "Dvi savaitės">
-<!ENTITY calendar.menu.numberofweeks.3          "Trys savaitės">
-<!ENTITY calendar.menu.numberofweeks.4          "Keturios savaitės">
-<!ENTITY calendar.menu.numberofweeks.5          "Penkios savaitės">
-<!ENTITY calendar.menu.numberofweeks.6          "Šešios savaitės">
 
 <!ENTITY goTodayCmd.label                       "Į šiandieną">
 <!ENTITY goTodayCmd.accesskey                   "š">
