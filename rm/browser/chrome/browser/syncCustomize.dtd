@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Pleds-clav">
 <!ENTITY engine.passwords.accesskey       "P">
-<!ENTITY engine.addons.label              "Supplements per desktop">
+<!ENTITY engine.addons.label              "Supplements dal desktop">
 <!ENTITY engine.addons.accesskey          "A">
 <!ENTITY engine.prefs.label               "Preferenzas dal desktop">
 <!ENTITY engine.prefs.accesskey           "S">

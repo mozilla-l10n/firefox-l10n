@@ -107,4 +107,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamais">
-<!ENTITY languages.customize.Fallback.other       "Auter (incl. Europa occidentala)">
+<!ENTITY languages.customize.Fallback.other       "Auter (incl. Europa Occidentala)">
