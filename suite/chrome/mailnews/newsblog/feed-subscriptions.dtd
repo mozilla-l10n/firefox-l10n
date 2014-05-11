@@ -13,6 +13,11 @@
 <!ENTITY feedFolder.accesskey "ў">
 <!ENTITY quickMode.label "Паказваць зводку артыкула замест сцягвання сеціўнай старонкі">
 <!ENTITY quickMode.accesskey "к">
+<!ENTITY autotagEnable.label "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.accesskey "c">
+<!ENTITY autotagUsePrefix.label "Prefix tags with:">
+<!ENTITY autotagUsePrefix.accesskey "P">
+<!ENTITY autoTagPrefix.placeholder "Enter a tag prefix">
 <!ENTITY locationValidate.label "Праверыць">
 <!ENTITY validateText.label "Правяраць і атрымліваць спраўны URL.">
 <!ENTITY button.addFeed.label "Дадаць">

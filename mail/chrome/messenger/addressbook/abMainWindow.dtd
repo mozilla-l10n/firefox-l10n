@@ -67,8 +67,8 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Абменяць імя/прозвішча">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "м">
 <!ENTITY hideSwapFnLnUI "false">
-<!ENTITY propertiesCmd.label "Уласцівасці…">
-<!ENTITY propertiesCmd.accesskey "і">
+<!ENTITY propertiesCmd2.label "Уласцівасці">
+<!ENTITY propertiesCmd2.accesskey "У">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
@@ -109,8 +109,8 @@
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY exportCmd.label "Экспарт…">
 <!ENTITY exportCmd.accesskey "Э">
-<!ENTITY preferencesCmd.label "Наладжванні…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmd2.label "Наладжванні">
+<!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY newContactButton.label "Новая сувязь">
