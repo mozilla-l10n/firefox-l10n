@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "bet kur, pirmenybę teikiant žodžių riboms">
 <!ENTITY autoCompleteMatchWords                "tik ties žodžių ribomis">
 <!ENTITY autoCompleteMatchStart                "tik adreso ar pavadinimo pradžioje">
+<!ENTITY showInternetSearch.label              "Rodyti numatytąją ieškyklę">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatavimas">
 <!ENTITY domainFormatting.label                "Paryškinti bazinę vardų sritį svetainių ir FTP aplankų adresuose">
 <!ENTITY domainFormatting.accesskey            "b">
-
-<!ENTITY searchEngine.label                    "Saityno ieškyklė">
-<!ENTITY showSearchEngine.label                "Parodyti numatytąją ieškyklę">
-<!ENTITY showSearchEngine.accesskey            "P">
+<!ENTITY highlightSecure.label                 "Paryškinti tinklalapius, ryšys su kuriais yra aukšto saugumo lygio">
+<!ENTITY highlightSecure.accesskey             "P">
 
 <!ENTITY unknownLocations.label                "Nežinomi adresai">
 <!ENTITY domainGuessing.label                  "Neradus tinklalapio nurodytu adresu, prie jo pridėti „www“ ir „.com“">
