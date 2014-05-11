@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                                "Iki" >
 <!ENTITY newevent.attendees.notify.label                  "Pranešti dalyviams">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Kvietimuose neatskleisti dalyvių sąrašo">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Pažymėjus, dalyviai vienas kito kvietimuose nematys. Tai galioja tik el. paštu siunčiamiems kvietimams.">
+
 <!ENTITY newevent.status.label                            "Būsena" >
 <!ENTITY newevent.status.accesskey                        "B" >
 <!ENTITY newevent.eventStatus.none.label                  "Neapibrėžta" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "N">
 <!ENTITY  event.menu.options.attendees.label                  "Pakviesti dalyvius…">
 <!ENTITY  event.menu.options.attendees.accesskey              "d">
-<!ENTITY  event.menu.options.spellcheck.label                 "Tikrinti rašybą…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "T">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Renkant tekstą tikrinti rašybą">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "R">
-<!ENTITY  event.menu.options.link.label                       "Pridėti saitą…">
-<!ENTITY  event.menu.options.link.accesskey                   "s">
 <!ENTITY  event.menu.options.timezone2.label                  "Rodyti laiko juostas">
 <!ENTITY  event.menu.options.timezone2.accesskey              "j">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritetas">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Įrašyti ir užverti">
 <!ENTITY  event.toolbar.delete.label                      "Pašalinti">
 <!ENTITY  event.toolbar.attendees.label                   "Pakviesti dalyvius">
-<!ENTITY  event.toolbar.spellcheck.label                  "Tikrinti rašybą">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Įrašyti ir užverti">
 <!ENTITY  event.toolbar.delete.tooltip                    "Pašalinti">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pakviesti dalyvių">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Patikrinti rašybą">
 <!ENTITY  event.toolbar.attachments.tooltip               "Pridėti priedų">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Keisti viešumą">
 <!ENTITY  event.toolbar.priority.tooltip                  "Keisti prioritetą">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Pridėti naują kategoriją" >
-<!ENTITY event.categories.textbox.accesskey               "n">
 <!ENTITY event.calendar.label                             "Kalendorius:" >
 <!ENTITY event.calendar.accesskey                         "o">
 <!ENTITY event.attendees.label                            "Dalyviai:" >
@@ -380,5 +374,4 @@
 <!ENTITY read.only.reminder.label        "Priminimas:">
 <!ENTITY read.only.attendees.label       "Dalyviai">
 <!ENTITY read.only.description.label     "Aprašas">
-<!ENTITY read.only.documents.label       "Dokumentai">
 <!ENTITY read.only.link.label            "Saitas">

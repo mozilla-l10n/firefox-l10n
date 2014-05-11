@@ -26,32 +26,35 @@
 <!ENTITY calendar.events.filter.next31Days.label "Įvykiai per artimiausią 31 dieną">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Šio kalendorinio mėnesio įvykiai">
 
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label          "Atlikta">
-<!ENTITY calendar.unifinder.tree.done.tooltip        "Spustelėkite, jei reikia surikiuoti pagal tai, ar atlikta">
+<!ENTITY calendar.unifinder.tree.done.tooltip2       "Rikiuoti pagal tai, ar atlikta">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritetas">
-<!ENTITY calendar.unifinder.tree.priority.tooltip    "Spustelėkite, jei reikia surikiuoti pagal prioritetą">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2   "Rikiuoti pagal prioritetą">
 <!ENTITY calendar.unifinder.tree.title.label         "Pavadinimas">
-<!ENTITY calendar.unifinder.tree.title.tooltip       "Spustelėkite, jei reikia surikiuoti pagal pavadinimą">
+<!ENTITY calendar.unifinder.tree.title.tooltip2      "Rikiuoti pagal pavadinimą">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Įvykdyta">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Spustelėkite, jei reikia surikiuoti pagal įvykdymo procentą">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2 "Rikiuoti pagal įvykdymo procentą">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Pradžia">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip   "Spustelėkite, jei reikia surikiuoti pagal pradžios datą">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2  "Rikiuoti pagal pradžios datą">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Pabaiga">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip     "Spustelėkite, jei reikia surikiuoti pagal pabaigos datą">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2    "Rikiuoti pagal pabaigos datą">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Terminas">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip     "Spustelėkite, jei reikia surikiuoti pagal termino datą">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2    "Rikiuoti pagal termino datą">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Užbaigtas">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Spustelėkite, jei reikia surikiuoti pagal tai, ar užbaigtas">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2 "Rikiuoti pagal tai, ar užbaigtas">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
-<!ENTITY calendar.unifinder.tree.categories.tooltip  "Spustelėkite, jei reikia surikiuoti pagal kategoriją">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2 "Rikiuoti pagal kategoriją">
 <!ENTITY calendar.unifinder.tree.location.label      "Vieta">
-<!ENTITY calendar.unifinder.tree.location.tooltip    "Spustelėkite, jei reikia surikiuoti pagal vietą">
+<!ENTITY calendar.unifinder.tree.location.tooltip2   "Rikiuoti pagal vietą">
 <!ENTITY calendar.unifinder.tree.status.label        "Eiga">
-<!ENTITY calendar.unifinder.tree.status.tooltip      "Spustelėkite, jei reikia surikiuoti pagal eigą">
+<!ENTITY calendar.unifinder.tree.status.tooltip2     "Rikiuoti pagal eigą">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendoriaus pavadinimas">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Spustelėkite, jei reikia surikiuoti pagal kalendoriaus pavadinimą">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2 "Rikiuoti pagal kalendoriaus pavadinimą">
 <!ENTITY calendar.unifinder.tree.duration.label      "Likęs laikas">
-<!ENTITY calendar.unifinder.tree.duration.tooltip    "Spustelėkite, jei reikia surikiuoti pagal likusį laiką">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2   "Rikiuoti pagal likusį laiką">
 <!ENTITY calendar.unifinder.close.tooltip            "Užverti įvykių paiešką ir įvykių sąrašą">
 
 <!ENTITY calendar.today.button.tooltip            "Eiti į šios dienos kalendorių" >
@@ -84,10 +87,8 @@
 
 <!ENTITY calendar.newtask.button.label          "Naujas darbas" >
 <!ENTITY calendar.newevent.button.label         "Naujas įvykis" >
-
 <!ENTITY calendar.print.button.label            "Spausdinti" >
-
-<!ENTITY calendar.export.calendar                "Eksportuoti kalendorių…" >
+<!ENTITY calendar.print.button.accesskey        "S">
 
 <!ENTITY calendar.day.button.label          "Diena" >
 <!ENTITY calendar.week.button.label         "Savaitė" >
@@ -130,8 +131,6 @@
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Aktualius darbus">
 <!ENTITY calendar.task.filter.current.accesskey     "k">
-<!ENTITY calendar.task.filter.repeating.label       "Pasikartojančius darbus">
-<!ENTITY calendar.task.filter.repeating.accesskey   "P">
 
 <!ENTITY calendar.task-details.title.label           "pavadinimas">
 <!ENTITY calendar.task-details.organizer.label       "nuo">
@@ -153,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtruoti darbus… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Vald+Lyg2+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-
-<!-- Statusbar -->
-<!ENTITY statusText.label            "Dokumentas baigtas">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Atverti">
@@ -230,7 +226,6 @@
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
 <!ENTITY calendar.taskview.delete.label                "Pašalinti">
-<!ENTITY calendar.taskview.delete.accesskey            "š">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Naujas kalendorius…">
@@ -334,7 +329,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Pažymėtus įvykius/darbus">
 <!ENTITY calendar.print.tasks.label "Darbus">
 <!ENTITY calendar.print.events.label "Įvykius">
-<!ENTITY calendar.print.selected.label "Pažymėtus įvykius">
 <!ENTITY calendar.print.custom.label "Parinktą laiko tarpą:">
 <!ENTITY calendar.print.from.label "Nuo:">
 <!ENTITY calendar.print.to.label "Iki:">
