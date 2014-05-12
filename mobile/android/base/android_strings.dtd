@@ -54,6 +54,7 @@
 <!ENTITY back "뒤로">
 <!ENTITY stop "중지">
 <!ENTITY site_security "보안 정보">
+<!ENTITY save "저장">
 
 <!ENTITY close_tab "탭 닫기">
 <!ENTITY one_tab "한 개의 탭">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "고급">
 <!ENTITY pref_category_customize "사용자 설정">
 <!ENTITY pref_category_search3 "검색">
+<!ENTITY pref_category_search_summary "검색 엔진 커스터마이즈">
 <!ENTITY pref_category_display "디스플레이">
 <!ENTITY pref_category_privacy_short "개인 정보">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_search_restore_defaults "기본값 복원">
 <!ENTITY pref_search_restore_defaults_summary "기본값 복원">
 <!ENTITY pref_category_datareporting "데이터 선택">
-<!ENTITY pref_category_devtools "개발자 도구">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "팁: 검색창을 길게 눌러 검색 엔진 목록에 웹사이트를 추가하세요">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
+<!ENTITY pref_category_devtools "개발자 도구">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
 <!ENTITY pref_developer_remotedebugging_docs "더 알아보기">
 <!ENTITY pref_remember_signons "암호 저장">
 
 <!ENTITY pref_category_home "홈">
+<!ENTITY pref_category_home_summary "홈페이지 커스터마이즈">
 <!ENTITY pref_category_home_panels "패널">
+<!ENTITY pref_home_add_panel "패널 추가">
+<!ENTITY home_add_panel_title "새 패널 추가">
+<!ENTITY home_add_panel_empty "죄송합니다, 추가 할 수 있는 패널을 찾을 수 없습니다.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "홈페이지에 \'&formatS;\' 추가됨">
+<!ENTITY pref_category_home_content_settings "콘텐츠 설정">
+<!ENTITY pref_home_updates "자동 업데이트">
+<!ENTITY pref_home_updates_enabled "사용함">
+<!ENTITY pref_home_updates_wifi "Wi-Fi에서만 사용함">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "사용자 설정">
@@ -210,6 +226,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY save_as_pdf "PDF로 저장">
 <!ENTITY find_in_page "페이지내 검색">
 <!ENTITY desktop_mode "PC웹으로 보기">
+<!ENTITY page "페이지">
 <!ENTITY tools "도구">
 <!ENTITY new_tab "새 탭">
 <!ENTITY new_private_tab "새 사생활 탭">
@@ -273,6 +290,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
+<!ENTITY reading_list_add "읽기 목록에 추가">
 <!ENTITY reading_list_added "페이지를 읽기 목록에 추가 완료">
 <!ENTITY reading_list_removed "페이지를 읽기 목록에 삭제 완료">
 <!ENTITY reading_list_failed "페이지를 읽기 목록에 추가 실패">
@@ -310,12 +328,16 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY home_reading_list_empty "저장한 글이 여기에 표시됩니다.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "팁: 주소창에 &#37;I 아이콘이 나타나면, 길게 눌러 읽기 목록에 글을 저장하세요.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "팁: 주소창에 &formatI; 아이콘이 나타나면, 길게 눌러 읽기 목록에 글을 저장하세요.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "팁: 주소창에 읽기 모드 버튼이 나타나면, 길게 눌러 읽기 목록에 글을 저장하세요.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "패널에 콘텐츠가 없습니다.">
 
 <!ENTITY pin_site_dialog_hint "검색어를 입력하세요">
 
@@ -357,12 +379,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
 <!ENTITY bookmarkhistory_import_wait "잠시 기다리세요…">
 
-
-
-
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "&formatS; 검색 자동완성을 사용하시겠습니까?">
+<!ENTITY suggestions_prompt3 "검색 자동완성을 사용하시겠습니까?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
