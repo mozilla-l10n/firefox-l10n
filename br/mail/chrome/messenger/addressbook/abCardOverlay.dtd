@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Dianav">
 <!ENTITY chatName.label                 "Anv postelerezh prim :">
 
-<!ENTITY allowRemoteContent1.label      "Aotren an endalc'hadoù a-bell.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "Er c'hemennadoù mod HTML ez eo posupl enframmañ endalc'had eus tarzhoù a-bell. An digor eus un hevelep kemennadenn a zigero ur c'hennask ouzh an tarzh a-bell-mañ. An dra-se a ro tro da gaout ur roud eus lennadenn ur gemennadenn. Mar kevaskit a log-mañ, e vo aotreet un hevelep endalc'had diavaez er c'hemennadoù mod HTML evit an darempred-mañ.">
-
 <!ENTITY WorkPhone.label                "Labour :">
 <!ENTITY WorkPhone.accesskey            "L">
 <!ENTITY HomePhone.label                "Er gêr :">

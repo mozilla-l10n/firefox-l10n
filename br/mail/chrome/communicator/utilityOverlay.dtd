@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Restr">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Diuzañ pep tra">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Dibarzhioù…">
-<!ENTITY preferencesCmd.accesskey      "o">
+<!ENTITY preferencesCmd2.label "Dibarzhioù…">
+<!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "B">
 <!ENTITY showTaskbarCmd.label          "Barrenn stad">
 <!ENTITY showTaskbarCmd.accesskey        "s">
-
-<!ENTITY proxy.label                                    "Kefluniadur ar proksi…">
-<!ENTITY proxy.accesskey                                "f">
 
 <!ENTITY closeCmd.label      "Serriñ">
 <!ENTITY closeCmd.key      "W">

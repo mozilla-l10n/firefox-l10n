@@ -21,7 +21,7 @@
 <!ENTITY saveMessageDlg.label "Diskouez ar voestad kendiviz kadarnaat pa vez enrollet ar c'hemennadennoù">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Teuliad &quot;Kaset&quot; e-barzh :">
+<!ENTITY sentFolderOn.label "Teuliad &quot;Kaset&quot;» e-barzh :">
 <!ENTITY sentFolderOn.accesskey "K">
 <!ENTITY sentInOtherFolder.label "All :">
 <!ENTITY sentInOtherFolder.accesskey "A">
@@ -38,13 +38,13 @@
 <!ENTITY specialFolders.label "Brouilhedoù ha Patromoù">
 <!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Teuliad &quot;Brouilhedoù&quot; e-barzh :">
+<!ENTITY draftsFolderOn.label "Teuliad ar &quot;Brouilhedoù&quot; e-barzh :">
 <!ENTITY draftsFolderOn.accesskey "B">
 <!ENTITY draftInOtherFolder.label "All :">
 <!ENTITY draftInOtherFolder.accesskey "A">
 <!ENTITY keepTemplates.label "Mirout patromoù ar c'hemennadennoù e-barzh :">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Teuliad &quot;Patromoù&quot; e-barzh :">
+<!ENTITY templatesFolderOn.label "Teuliad ar &quot;Patromoù&quot; e-barzh :">
 <!ENTITY templatesFolderOn.accesskey "P">
 <!ENTITY templateInOtherFolder.label "All :">
 <!ENTITY templateInOtherFolder.accesskey "A">

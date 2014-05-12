@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Diuzañ pep tra">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Kavout hag amsaviñ…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "K">
+<!ENTITY findBarCmd.label "Klask…">
+<!ENTITY findBarCmd.accesskey "K">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Kavout hag amsaviñ…">
+<!ENTITY findReplaceCmd.accesskey "a">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Kavout c'hoazh">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "K">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Kavout an hini kent">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Gwelout">
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Karned chomlec'hioù">
 <!ENTITY addressBookCmd.accesskey "K">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Arventennoù kontoù…">
-<!ENTITY accountManagerCmd.accesskey "k">
-<!ENTITY accountManagerCmdUnix.accesskey "k">
-<!ENTITY preferencesCmd.label "Dibarzhioù…">
-<!ENTITY preferencesCmd.accesskey "o">
-<!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
-<!ENTITY preferencesCmdUnix.accesskey   "w">
+<!ENTITY accountManagerCmd2.label "Arventennoù ar c'hontoù">
+<!ENTITY accountManagerCmd2.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "c">
+<!ENTITY preferencesCmd2.label "Dibarzhioù…">
+<!ENTITY preferencesCmd2.accesskey "D">
+<!ENTITY preferencesCmdUnix.label "Gwellvezioù">
+<!ENTITY preferencesCmdUnix.accesskey "w">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">

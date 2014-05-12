@@ -11,7 +11,7 @@
 <!ENTITY removepermission.accesskey   "D">
 <!ENTITY removeallpermissions.label   "Dilemel an holl lec'hiennoù">
 <!ENTITY removeallpermissions.accesskey "l">
-<!ENTITY address.label                "Chomlec'h al lec'hienn:">
+<!ENTITY address.label                "Chomlec'h al lec'hienn :">
 <!ENTITY address.accesskey            "C">
 <!ENTITY block.label                  "Herzel">
 <!ENTITY block.accesskey              "H">

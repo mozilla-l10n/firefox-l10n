@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Diskouez krennad ar pennad e lec'h kargañ ar bajennad web">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "Krouiñ klavioù ent emgefreek diouzh anvioù &lt;rummadoù&gt; al lanv">
+<!ENTITY autotagEnable.accesskey     "K">
+<!ENTITY autotagUsePrefix.label      "Rakgeriañ ar c'hlavioù gant :">
+<!ENTITY autotagUsePrefix.accesskey  "R">
+<!ENTITY autoTagPrefix.placeholder   "Enankit ur rakger klav">
+
 <!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 

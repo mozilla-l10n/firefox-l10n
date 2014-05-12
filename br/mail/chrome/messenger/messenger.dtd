@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Pellgargañ/Goubredañ bremañ…">
 <!ENTITY synchronizeOfflineCmd.accesskey "P">
-<!ENTITY settingsOfflineCmd.label "Arventennoù ez-linenn…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Arventennoù ezlinenn…">
+<!ENTITY settingsOfflineCmd2.accesskey "A">
 <!ENTITY downloadSelectedCmd.label "Kerc'hat ar c'hemennadennoù diuzet">
 <!ENTITY downloadSelectedCmd.accesskey "m">
 <!ENTITY downloadStarredCmd.label "Tapout ar c'hemennadennoù gant steredennoù">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Teuliad gwell ganin">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Perzhioù…">
-<!ENTITY folderPropsFolderCmd.label "Perzhioù an teuliad…">
-<!ENTITY folderPropsNewsgroupCmd.label "Perzhioù ar strollad-keleier…">
-<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY folderPropsCmd2.label "Perzhioù…">
+<!ENTITY folderPropsFolderCmd2.label "Perzhioù an teuliad">
+<!ENTITY folderPropsNewsgroupCmd2.label "Perzhioù ar strollad-keleier">
+<!ENTITY folderPropsCmd.accesskey "s">
 <!ENTITY undoDeleteMsgCmd.label "Dizober Dilemel ar gemennadenn">
 <!ENTITY redoDeleteMsgCmd.label "Adober Dilemel ar gemennadenn">
 <!ENTITY undoMoveMsgCmd.label "Dizober Dilec'hiañ ar gemennadenn">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "w">
 <!ENTITY recentFolders.label "Nevesañ">
 <!ENTITY recentFolders.accesskey "v">
+<!ENTITY compactVersion.label "Gwel fetis">
+<!ENTITY compactVersion.accesskey "f">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rummañ dre">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Restroù enrollet">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Siloù ar c'hemennadennoù…">
-<!ENTITY filtersCmd.accesskey "S">
+<!ENTITY filtersCmd2.label "Siloù ar c'hemennadennoù">
+<!ENTITY filtersCmd2.accesskey "S">
 <!ENTITY filtersApply.label "Lañsañ ar siloù war an teuliad">
 <!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Lañsañ ar siloù war ar c'hemennadennoù diuzet">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Skarzhañ ar roll istor nevesañ…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Arventennoù ar c'hontoù…">
-<!ENTITY accountManagerCmd.accesskey "A">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Arventennoù ar c'hontoù">
+<!ENTITY accountManagerCmd2.accesskey "A">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Aotren an diveugañ a-bell">
 <!ENTITY allowRemoteDebugging.accesskey "A">
 <!-- Mail Toolbar -->
@@ -563,8 +565,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Diskouez an endalc'hadoù a-bell er gemennadenn-mañ">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
-<!ENTITY remoteContentOptionAllowForAddress.label "Diskouez an endalc'hadoù a-bell evit ar c'haser-mañ">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "a">
+<!ENTITY editRemoteContentSettings.label "Embann dibarzhioù an endalc'hadoù a-bell…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Embann gwellvezioù an endalc'hadoù a-bell…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Leuskel ar c'hemennoù a-gostez evit ar gemennadenn-mañ">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "o">
 <!ENTITY folderContextSearchForMessages.label "Klask kemennadennoù…">
 <!ENTITY folderContextSearchForMessages.accesskey "K">
-<!ENTITY folderContextProperties.label "Perzhioù…">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties2.label "Perzhioù">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Teuliad gwell ganin">
 <!ENTITY folderContextFavoriteFolder.accesskey "T">
-<!ENTITY folderContextSettings.label "Arventennoù…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "Arventennoù">
+<!ENTITY folderContextSettings2.accesskey "A">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Enderc'hel a ra Anv pe Postel :">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "m">
 <!ENTITY contextOpenConversation.label "Digeriñ ar gemennadenn e-barzh ar gaozeadenn">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Digeriñ ar gemennadenn e-barzh he zeuliad">
+<!ENTITY contextOpenContainingFolder.accesskey "z">
 <!ENTITY contextEditMsgAsNew.label "Embann evel ur gemennadenn nevez">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Diellaouiñ">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zoum">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label        "Gwellvezioù…">
+<!ENTITY preferencesCmdMac2.label       "Gwellvezioù">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Gwazerezhioù">

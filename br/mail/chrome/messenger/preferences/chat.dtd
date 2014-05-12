@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Kas rebuziñ e-barzh ar c'haozeadennoù pa'z emaon o vizskrivañ">
 <!ENTITY  sendTyping.accesskey          "b">
+
+<!ENTITY  chatNotifications.label             "Pa vez degemeret kemennadennoù kaset deoc'h :">
+<!ENTITY  desktopChatNotifications.label      "Diskouez ur rebuzadur">
+<!ENTITY  desktopChatNotifications.accesskey  "r">
+<!ENTITY  chatSound.accesskey                 "S">
+<!ENTITY  chatSound.label                     "Seniñ ur son">
+<!ENTITY  play.label                          "Lenn">
+<!ENTITY  play.accesskey                      "L">
+<!ENTITY  systemSound.label                   "Son ar reizhiad dre ziouer evit ur postel nevez">
+<!ENTITY  systemSound.accesskey               "S">
+<!ENTITY  customsound.label                   "Ober gant ar restr son da heul">
+<!ENTITY  customsound.accesskey               "u">
+<!ENTITY  browse.label                        "Furchal…">
+<!ENTITY  browse.accesskey                    "F">
+
