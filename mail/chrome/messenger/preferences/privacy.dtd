@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "L">
 <!ENTITY remoteContentExceptions.label "Excepziuns…">
 <!ENTITY remoteContentExceptions.accesskey "x">
-<!ENTITY acceptRemoteContentInfo.label "Dapli infurmaziuns davart il problem per tia sfera privata da cuntegn extern">
+<!ENTITY acceptRemoteContentInfo.label "Ulteriuras infurmaziuns davart cuntegns externs ed il problem per la sfera privata">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Cuntegn dal web">

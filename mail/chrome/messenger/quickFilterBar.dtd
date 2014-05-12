@@ -184,7 +184,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanMode.tooltip "Modus da filtrar tags">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Modus da filtrar etichettas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
@@ -194,7 +194,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Almain in dals criteris dad etichettas tschernids sto correspunder">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Almain in dals criteris d'etichettas tschernids sto correspunder">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
@@ -204,7 +204,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tut ils criteris dad etichettas tschernids ston correspunder">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tut ils criteris d'etichettas tschernids ston correspunder">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.

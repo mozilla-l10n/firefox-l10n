@@ -565,15 +565,15 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mussar il cuntegn extern en quest messadi">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY editRemoteContentSettings.label "Modifitgar las preferenzas da cuntegn extern…">
+<!ENTITY editRemoteContentSettings.label "Modifitgar las preferenzas per cuntegn extern…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
-<!ENTITY editRemoteContentSettingsUnix.label "Modifitgar las preferenzas da cuntegn extern…">
+<!ENTITY editRemoteContentSettingsUnix.label "Modifitgar las preferenzas per cuntegn extern…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
-<!ENTITY phishingOptionIgnore.label "Ignorar l'avis per quest messadi">
+<!ENTITY phishingOptionIgnore.label "Ignorar l'avertiment per quest messadi">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Modifitgar las opziuns per chattar scam…">
+<!ENTITY phishingOptionSettings.label "Modifitgar las preferenzas per chattar scam…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Modifitgar las preferenzas per chattar scam…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
@@ -583,7 +583,7 @@
 <!ENTITY appmenuNewContactCmd.label "Contact en il cudeschet d'adressas…">
 <!ENTITY appmenuEditMenu.label "Modifitgar">
 <!ENTITY appmenuToolbarLayout.label "Design da las travs d'utensils…">
-<!ENTITY appmenuSelectThread.label "Tscherner in thread">
+<!ENTITY appmenuSelectThread.label "Tscherner in tema">
 <!ENTITY appmenuSelectFlagged.label "Tscherner messadis cun staila">
 
 <!-- Tags Menu Popup -->
@@ -672,8 +672,8 @@
 <!ENTITY attachmentColumn.label "Agiuntas">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Tscherna las colonnas che duain vegnir mussadas">
-<!ENTITY threadColumn2.tooltip "Mussar gruppas da temas">
+<!ENTITY columnChooser2.tooltip "Tscherner las colonnas che duain vegnir mussadas">
+<!ENTITY threadColumn2.tooltip "Mussar gruppà tenor tema">
 <!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
 <!ENTITY subjectColumn2.tooltip "Zavrar tenor object">
@@ -689,7 +689,7 @@
 <!ENTITY readColumn2.tooltip "Zavrar tenor 'Legì'">
 <!ENTITY receivedColumn2.tooltip "Zavrar tenor la data da retschavida">
 <!ENTITY starredColumn2.tooltip "Zavrar tenor staila">
-<!ENTITY locationColumn2.tooltip "Zavrar tenor posiziun">
+<!ENTITY locationColumn2.tooltip "Zavrar tenor lieu">
 <!ENTITY idColumn2.tooltip "Zavrar tenor successiun da retschavida">
 <!ENTITY attachmentColumn2.tooltip "Zavrar tenor agiuntas">
 
@@ -704,7 +704,7 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Avrir il messadi sco conversaziun">
 <!ENTITY contextOpenConversation.accesskey "v">
-<!ENTITY contextOpenContainingFolder.label "Avrir il messadi en l'ordinatur cuntegnend">
+<!ENTITY contextOpenContainingFolder.label "Avrir il messadi en l'ordinatur che cuntegna el">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Modifitgar sco nov messadi">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
