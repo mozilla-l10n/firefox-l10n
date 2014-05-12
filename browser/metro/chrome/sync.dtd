@@ -14,7 +14,7 @@
 <!ENTITY sync.flyout.setup.description1        "If you have a &syncBrand.shortName.label; account, select &quot;Pair a Device&quot; on your other device and enter this code.">
 <!ENTITY sync.flyout.setup.description2        "If you don&apos;t have a &syncBrand.shortName.label; account, you can create one on your &brandShortName; desktop browser.">
 <!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m not near my computer…">
-<!ENTITY sync.flyout.setup.description3        "Note:">
+<!ENTITY sync.flyout.setup.description3        "Notă:">
 <!ENTITY sync.flyout.setup.description4_2      "To find &quot;Pair a Device&quot;,">
 <!ENTITY sync.flyout.setup.description5_2      "[Desktop] Open &quot;Options&quot; or &quot;Preferences&quot; and then select &quot;&syncBrand.shortName.label;&quot;">
 <!ENTITY sync.flyout.setup.description6_2      "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">

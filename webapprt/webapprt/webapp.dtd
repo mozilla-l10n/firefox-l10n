@@ -45,7 +45,7 @@
 <!ENTITY pasteCmd.accesskey                 "I">
 <!ENTITY deleteCmd.label                    "Șterge">
 <!ENTITY deleteCmd.key                      "Ș">
-<!ENTITY deleteCmd.accesskey                "Ș">
+<!ENTITY deleteCmd.accesskey                "g">
 <!ENTITY selectAllCmd.label                 "Selectează tot">
 <!ENTITY selectAllCmd.key                   "a">
 <!ENTITY selectAllCmd.accesskey             "a">

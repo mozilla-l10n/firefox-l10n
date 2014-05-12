@@ -73,6 +73,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Verificare email">
 <!ENTITY forget.label                "Uită acest email">
 
+<!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
 <!ENTITY welcome.signIn.label "Autentificare">
 <!ENTITY welcome.createAccount.label "Creare cont">
 

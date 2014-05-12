@@ -8,8 +8,8 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "Se caută actualizări…">
-<!ENTITY update.checkForUpdatesButton.accesskey   "S">
+<!ENTITY update.checkForUpdatesButton.label       "Caută pentru actualizări">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label                "Repornește pentru actualizare">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplică actualizările...">

@@ -53,9 +53,11 @@
 <!ENTITY viewMenu.label               "Vizualizare">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "Afișează numerele de linie">
+<!ENTITY lineNumbers.accesskey         "l">
 
-
-
+<!ENTITY wordWrap.label                "Încadrează text">
+<!ENTITY wordWrap.accesskey            "x">
 
 <!ENTITY highlightTrailingSpace.label     "Evidențiere spații terminale">
 <!ENTITY highlightTrailingSpace.accesskey "s">

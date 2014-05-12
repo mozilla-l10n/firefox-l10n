@@ -72,7 +72,7 @@
 <!ENTITY languages.customize.Fallback.accesskey   "R">
 <!ENTITY languages.customize.Fallback.desc        "Această codificare caracter este utilizată pentru conținutul moștenit care nu reușește să declare codificarea sa.">
 
-<!ENTITY languages.customize.Fallback.auto        "Default for Current Locale">
+<!ENTITY languages.customize.Fallback.auto        "Implicit pentru limba curentă">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabic">
@@ -107,4 +107,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">
-<!ENTITY languages.customize.Fallback.other       "Other (incl. Western European)">
+<!ENTITY languages.customize.Fallback.other       "Altul (inclusiv vest european)">

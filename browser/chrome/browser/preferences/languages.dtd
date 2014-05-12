@@ -5,14 +5,14 @@
 <!ENTITY window.width                                   "32em">
 
 <!ENTITY languages.customize.Header                     "Limbi">
-
+<!ENTITY languages.customize.description                "Uneori paginile web sunt oferite în mai multe limbi. Selectați limbile pentru afișarea aceste pagini web, în ordinea preferințelor:">
 <!ENTITY languages.customize.moveUp.label               "Mută mai sus">
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Mută mai jos">
 <!ENTITY languages.customize.moveDown.accesskey         "o">
 <!ENTITY languages.customize.deleteButton.label         "Șterge">
 <!ENTITY languages.customize.deleteButton.accesskey     "e">
-<!ENTITY languages.customize.selectLanguage.label       "Alegeți o limbă de adăugat...">
+<!ENTITY languages.customize.selectLanguage.label       "Alegeți o limbă de adăugat…">
 <!ENTITY languages.customize.addButton.label            "Adaugă">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
