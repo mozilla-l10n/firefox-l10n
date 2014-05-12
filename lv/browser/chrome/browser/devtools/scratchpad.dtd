@@ -84,6 +84,26 @@
 <!ENTITY pprint.key                   "P">
 <!ENTITY pprint.accesskey             "G">
 
+<!ENTITY viewMenu.label               "Skats">
+<!ENTITY viewMenu.accesskey           "S">
+
+<!ENTITY lineNumbers.label             "Rādīt rindu numurus">
+<!ENTITY lineNumbers.accesskey         "r">
+
+<!ENTITY wordWrap.label                "Aplauzt tekstu">
+<!ENTITY wordWrap.accesskey            "a">
+
+<!ENTITY highlightTrailingSpace.label     "Izcelt atstarpes">
+<!ENTITY highlightTrailingSpace.accesskey "i">
+
+<!ENTITY largerFont.label             "Lielāki fonti">
+<!ENTITY largerFont.accesskey         "l">
+<!ENTITY largerFont.commandkey        "+">
+
+<!ENTITY smallerFont.label            "Mazāki fonti">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
+
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
