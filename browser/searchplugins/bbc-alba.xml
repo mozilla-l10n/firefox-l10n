@@ -11,7 +11,7 @@
   <Param name="format" value="opensearch"/>
   <Param name="q" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" template="http://search.bbc.co.uk/search" resultdomain="bbc.co.uk" resultdomain="bbc.co.uk">
+<Url type="text/html" template="http://search.bbc.co.uk/search" resultdomain="bbc.co.uk">
   <Param name="opensearch" value="all-1"/>
   <Param name="q" value="{searchTerms}"/>
 </Url>
