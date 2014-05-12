@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label "Skrá">
@@ -32,8 +30,8 @@
 <!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Valkostir…">
-<!ENTITY preferencesCmd.accesskey "V">
+<!ENTITY preferencesCmd2.label "Valkostir">
+<!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
 <!ENTITY viewMenu.label "Skoða">
@@ -42,8 +40,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "V">
 <!ENTITY showTaskbarCmd.label "Stöðuslá">
 <!ENTITY showTaskbarCmd.accesskey "ö">
-<!ENTITY proxy.label "Milliþjóna (Proxy) stillingar…">
-<!ENTITY proxy.accesskey "P">
 <!ENTITY closeCmd.label "Loka">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">

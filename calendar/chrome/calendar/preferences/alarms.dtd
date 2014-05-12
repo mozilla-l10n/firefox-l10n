@@ -33,3 +33,5 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "f">
 <!ENTITY pref.defaultemail.label "Sjálfgefið póstfang til að senda áminngar á:">
 <!ENTITY pref.defaulttext.label "Sjálfgefinn texti fyrir áminningar:">
+<!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blunds:">
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

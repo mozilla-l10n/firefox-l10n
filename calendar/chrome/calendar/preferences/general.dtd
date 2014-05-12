@@ -12,10 +12,19 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Langt">
 <!ENTITY pref.dateformat.short "Stutt">
-<!ENTITY pref.defaultlength.label "Sjálfgefin lengd atburða:">
-<!ENTITY pref.defaultlength.accesskey "a">
-<!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blunds:">
-<!ENTITY pref.defaultsnoozelength.accesskey "b">
+<!ENTITY pref.defaults.label "Sjálfgefin gildi fyrir nýja hluti">
+<!ENTITY pref.events.label "Atburðir">
+<!ENTITY pref.tasks.label "Verkefni">
+<!ENTITY pref.default_event_length.label "Sjálfgefin lengd:">
+<!ENTITY pref.default_event_length.accesskey "e">
+<!ENTITY pref.default_task_none.label "Enginn">
+<!ENTITY pref.default_task_start_of_day.label "Byrjun dags">
+<!ENTITY pref.default_task_end_of_day.label "Lok dags">
+<!ENTITY pref.default_task_tomorrow.label "Á morgun">
+<!ENTITY pref.default_task_next_week.label "Næsta vika">
+<!ENTITY pref.default_task_offset_current.label "Miðað við núverandi tíma">
+<!ENTITY pref.default_task_offset_start.label "Miðað við byrjunartíma">
+<!ENTITY pref.default_task_offset_next_hour.label "Miðað við næstu klukkustund">
 <!ENTITY pref.accessibility.label "Auðveldað aðgengi">
 <!ENTITY pref.systemcolors.label "Finna bestu liti fyrir aðgengi">
 <!ENTITY pref.systemcolors.accesskey "ð">

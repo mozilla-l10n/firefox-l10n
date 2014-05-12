@@ -70,8 +70,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "V">
 <!ENTITY synchronizeOfflineCmd.label "Niðurhala/Samstilla núna…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Stillingar fyrir vinna án nettengingar…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Stillingar fyrir ónettengdur">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Ná í valinn póst">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Ná í stjörnumerktan póst">
@@ -107,9 +107,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Eftirlætismappa">
 <!ENTITY menuFavoriteFolder.accesskey "t">
-<!ENTITY folderPropsCmd.label "Eiginleikar…">
-<!ENTITY folderPropsFolderCmd.label "Eiginleikar möppu…">
-<!ENTITY folderPropsNewsgroupCmd.label "Eiginleikar fréttahóps…">
+<!ENTITY folderPropsCmd2.label "Eiginleikar">
+<!ENTITY folderPropsFolderCmd2.label "Eiginleikar möppu">
+<!ENTITY folderPropsNewsgroupCmd2.label "Eiginleikar fréttahóps">
 <!ENTITY folderPropsCmd.accesskey "g">
 <!ENTITY undoDeleteMsgCmd.label "Hætta við að eyða pósti">
 <!ENTITY redoDeleteMsgCmd.label "Eyða aftur pósti">
@@ -154,6 +154,8 @@
 <!ENTITY favoriteFolders.accesskey "f">
 <!ENTITY recentFolders.label "Nýlegt">
 <!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Þjöppuð sýn">
+<!ENTITY compactVersion.accesskey "Þ">
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Raða eftir">
 <!ENTITY sortMenu.accesskey "R">
@@ -443,8 +445,8 @@
 <!ENTITY savedFiles.label "Vistaðar skrár">
 <!ENTITY savedFiles.accesskey "V">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Póstsíur…">
-<!ENTITY filtersCmd.accesskey "P">
+<!ENTITY filtersCmd2.label "Póstsíur">
+<!ENTITY filtersCmd2.accesskey "s">
 <!ENTITY filtersApply.label "Keyra síur á möppu">
 <!ENTITY filtersApply.accesskey "K">
 <!ENTITY filtersApplyToSelection.label "Keyra síur á valinn póst">
@@ -462,11 +464,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Hreinsa nýlega ferla…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Stillingar reiknings…">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Stillingar reiknings">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Leyfa fjartengda aflúsun">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
@@ -543,8 +545,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Sýna fjarlægt innihald í þessum pósti">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY remoteContentOptionAllowForAddress.label "Sýna fjarlægt frá þessum sendanda">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY editRemoteContentSettings.label "Breyta fjartengdum stillingum innihalds…">
+<!ENTITY editRemoteContentSettings.accesskey "e">
+<!ENTITY editRemoteContentSettingsUnix.label "Breyta fjartengdum stillingum innihalds…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "e">
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Hunsa aðvörun fyrir þennan póst">
 <!ENTITY phishingOptionIgnore.accesskey "n">
@@ -598,12 +602,12 @@
 <!ENTITY folderContextSubscribe.accesskey "e">
 <!ENTITY folderContextSearchForMessages.label "Leita í pósti…">
 <!ENTITY folderContextSearchForMessages.accesskey "s">
-<!ENTITY folderContextProperties.label "Eiginleikar…">
-<!ENTITY folderContextProperties.accesskey "g">
+<!ENTITY folderContextProperties2.label "Eiginleikar">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Eftirlætismappa">
 <!ENTITY folderContextFavoriteFolder.accesskey "t">
-<!ENTITY folderContextSettings.label "Stillingar…">
-<!ENTITY folderContextSettings.accesskey "S">
+<!ENTITY folderContextSettings2.label "Stillingar">
+<!ENTITY folderContextSettings2.accesskey "t">
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang inniheldur:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
@@ -669,6 +673,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Opna póst í samtali">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Opna póst í þeirri möppu sem hann er í">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Breyta sem nýjum pósti">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Skjalageymsla">
@@ -842,7 +848,7 @@
 <!ENTITY bringAllToFront.label "Endurheimta">
 <!ENTITY zoomWindow.label "Aðdráttur">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label "Valkostir…">
+<!ENTITY preferencesCmdMac2.label "Valkostir">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Þjónustur">

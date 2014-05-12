@@ -19,3 +19,16 @@ sentence. -->
 <!ENTITY andSetStatusToAway.accesskey "a">
 <!ENTITY sendTyping.label "Senda tilkynningu um innslátt í spjalli">
 <!ENTITY sendTyping.accesskey "t">
+<!ENTITY chatNotifications.label "Þegar póstur sem er sendur beint á þig kemur:">
+<!ENTITY desktopChatNotifications.label "Sýna tilkynningu">
+<!ENTITY desktopChatNotifications.accesskey "t">
+<!ENTITY chatSound.accesskey "ð">
+<!ENTITY chatSound.label "Spila hljóð">
+<!ENTITY play.label "Spila">
+<!ENTITY play.accesskey "p">
+<!ENTITY systemSound.label "Sjálfgefið hljóð fyrir nýjan póst">
+<!ENTITY systemSound.accesskey "ð">
+<!ENTITY customsound.label "Nota hljóðskrá">
+<!ENTITY customsound.accesskey "N">
+<!ENTITY browse.label "Velja…">
+<!ENTITY browse.accesskey "V">
