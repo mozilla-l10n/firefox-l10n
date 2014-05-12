@@ -25,7 +25,7 @@
 <!ENTITY account.movedown.label       "Engiu">
 <!ENTITY account.cancelReconnection.label         "Interrumper il reconnectar">
 <!ENTITY account.cancelReconnection.accesskey     "a">
-<!ENTITY account.copyDebugLog.label     "Copiar il protocol da debugar">
+<!ENTITY account.copyDebugLog.label     "Copiar il protocol dal debugar">
 <!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Connectar…">
 <!ENTITY account.disconnecting        "Deconnectar…">

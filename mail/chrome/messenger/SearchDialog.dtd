@@ -17,7 +17,7 @@
 <!ENTITY deleteButton.accesskey      "z">
 <!ENTITY searchDialogTitle.label     "Tschertgar messadis">
 <!ENTITY results.label               "Resultats">
-<!ENTITY moveButton.label            "Spustar a">
+<!ENTITY moveButton.label            "Spustar en">
 <!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Avrir en l'ordinatur">
@@ -58,7 +58,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tscherner las colonnas per mussar">
-<!ENTITY threadColumn2.tooltip "Mussar gruppas da temas"> 
+<!ENTITY threadColumn2.tooltip "Mussar gruppà tenor tema"> 
 <!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
 <!ENTITY subjectColumn2.tooltip "Zavrar tenor object">
@@ -74,5 +74,5 @@
 <!ENTITY readColumn2.tooltip "Zavrar tenor 'Legì'">
 <!ENTITY receivedColumn2.tooltip "Zavrar tenor la data da retschavida">
 <!ENTITY starredColumn2.tooltip "Zavrar tenor staila">
-<!ENTITY locationColumn2.tooltip "Zavrar tenor posiziun">
+<!ENTITY locationColumn2.tooltip "Zavrar tenor lieu">
 <!ENTITY idColumn2.tooltip "Zavrar tenor successiun da retschavida">
