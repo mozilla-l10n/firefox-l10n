@@ -27,14 +27,15 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive innloggingar">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Hugs passord">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Vis navigasjonsknappar">
 <!ENTITY doNotTrack.title                                        "Ikkje spor">
-<!ENTITY doNotTrack.options.doNotTrack                           "Fortel nettsider at eg ikkje ønskjer å verte spora">
-<!ENTITY doNotTrack.options.doTrack                              "Fortel nettsiser at eg ønskjer å verte spora">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fortel nettsider at eg ikkje ønskjer å verta spora">
+<!ENTITY doNotTrack.options.doTrack                              "Fortel nettsiser at eg ønskjer å verta spora">
 <!ENTITY doNotTrack.options.default                              "Ikkje fortel nettsider om sporingsreferansane mine">
 <!ENTITY doNotTrack.learnMoreLink                                "Les meir &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
-<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapportar for å hjelpe Mozilla med å gjere nettlesaren meir stabil og trygg">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapportar for å hjelpa Mozilla med å gjera nettlesaren meir stabil og trygg">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ta med adressa til sida eg var på i rapporten">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
-<!ENTITY optionsHeader.telemetry.label                            "Deler bruksstatistikk frå &brandShortName; med Mozilla for å hjelpe oss med å gjere nettlesaren betre">
+<!ENTITY optionsHeader.telemetry.label                            "Deler bruksstatistikk frå &brandShortName; med Mozilla for å hjelpa oss med å gjera nettlesaren betre">
