@@ -19,7 +19,7 @@
 <!ENTITY printerInput.label "Imprimantă:">
 <!ENTITY printerInput.accesskey "n">
 
-<!ENTITY printrangeGroup.label "Ce se tipărește?">
+<!ENTITY printrangeGroup.label "Interval de tipărire">
 <!ENTITY allpagesRadio.label "Toate paginile">
 <!ENTITY allpagesRadio.accesskey "a">
 <!ENTITY rangeRadio.label  "Paginile">

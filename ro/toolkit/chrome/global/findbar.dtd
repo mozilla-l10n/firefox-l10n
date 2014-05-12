@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Evidențiază toate">
 <!ENTITY highlightAll.accesskey "E">
 <!ENTITY highlightAll.tooltiptext "Evidențiază toate aparițiile textului">
-
-
+<!ENTITY caseSensitive.label "Potrivire litere">
+<!ENTITY caseSensitive.accesskey "P">
 <!ENTITY caseSensitive.tooltiptext "Căutare cu potrivire litere">

@@ -11,12 +11,18 @@
 <!ENTITY  pluginupdateslink.label         "Vedeți cum să vă actualizați plugin-urile.">
 
 <!ENTITY  noupdatesfound.title            "Nu s-au găsit actualizări">
-<!ENTITY  noupdatesautoenabled.intro      "Nu sunt actualizări disponibile. &brandShortName; va verifica periodic dacă există actualizări.">
-<!ENTITY  noupdatesautodisabled.intro     "Nu sunt actualizări disponibile. Încercați din nou mai târziu sau activați verificarea automată de actualizări &brandShortName;.">
+<!ENTITY  noupdatesautoenabled.intro      "Nu sunt actualizări disponibile. &brandShortName; va verifica 
+periodic dacă există actualizări.">
+<!ENTITY  noupdatesautodisabled.intro     "Nu sunt actualizări disponibile. Încercați din nou mai târziu sau activați 
+verificarea automată de actualizări &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Imposibil de actualizat">
-<!ENTITY  manualUpdate.desc               "E disponibilă o actualizare de securitate și stabilitate, dar nu aveți permisiunile necesare pentru a o instala. Vă rugăm să contactați administratorul de sistem sau să încercați din nou dintr-un alt cont care are permisiunea de a instala programe pe acest calculator.">
-<!ENTITY  manualUpdate.space.desc         "E disponibilă o actualizare de securitate și stabilitate, dar nu aveți suficient spațiu liber să o instalați.">
+<!ENTITY  manualUpdate.desc               "E disponibilă o actualizare de securitate și stabilitate, dar nu aveți 
+permisiunile necesare pentru a o instala. Vă rugăm să contactați 
+administratorul de sistem sau să încercați din nou dintr-un alt cont care are permisiunea 
+de a instala programe pe acest calculator.">
+<!ENTITY  manualUpdate.space.desc         "E disponibilă o actualizare de securitate și stabilitate, dar 
+nu aveți suficient spațiu liber să o instalați.">
 <!ENTITY  manualUpdateGetMsg.label        "Puteți obține oricând ultima versiune de &brandShortName; la:">
 
 <!ENTITY  unsupported.title               "Sistem nesuportat">
@@ -33,7 +39,8 @@ Nu veți mai vedea această notă din nou, dar puteți">
 <!ENTITY  evangelism.desc                 "Vă recomandăm cu tărie să instalați această 
 actualizare de &brandShortName; cât mai curând.">
 
-<!ENTITY  license.instructions            "Dacă sunteți de acord cu termenii din acest acord, apăsați „Sunt de acord” pentru a continua instalarea actualizării.">
+<!ENTITY  license.instructions            "Dacă sunteți de acord cu termenii din acest acord, apăsați pe „Sunt de acord” 
+de mai jos pentru a continua instalarea actualizării.">
 
 <!ENTITY  license.titleText               "Acord de licențiere software">
 <!ENTITY  license.introText               "Termeni și condiții pentru folosirea acestui program.">
@@ -48,7 +55,9 @@ actualizare de &brandShortName; cât mai curând.">
 <!ENTITY  downloadPage.title              "Se descarcă &brandShortName;">
 <!ENTITY  downloading.intro               "Se descarcă actualizarea...">
 <!ENTITY  connecting.label                "Conectare la serverul de actualizare...">
-<!ENTITY  verificationFailedText.label    "&brandShortName; nu a putut verifica integritatea actualizării incrementale pe care a transferat-o, astfel că acum descarcă întregul pachet de actualizare.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; nu a putut verifica integritatea 
+actualizării incrementale pe care a transferat-o, astfel că acum descarcă 
+întregul pachet de actualizare.">
 
 <!ENTITY  viewDetails.tooltip             "Vezi detaliile acestei actualizări">
 
@@ -56,15 +65,21 @@ actualizare de &brandShortName; cât mai curând.">
 
 <!ENTITY  error.title                     "Actualizare eșuată">
 
-<!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; nu a putut fi actualizat deoarece:">
+<!ENTITY  error.label                     "Au existat probleme cu verificarea, descărcarea sau instalarea 
+acestei actualizări. &brandShortName; nu poate fi actualizat pentru că:">
                                            
-<!ENTITY  errorManual.label               "Puteți actualiza  &brandShortName; manual vizitând această legătură și descărcând ultima versiune:">
+<!ENTITY  errorManual.label               "Puteți actualiza &brandShortName; manual vizitând această legătură 
+și descărcând ultima versiune:">
                                            
-<!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. &brandShortName; va încerca din nou, de data aceasta descărcând o actualizare completă.">
+<!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. 
+&brandShortName; va încerca din nou, de data aceasta descărcând o actualizare completă.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; nu poate detecta dacă sunt actualizări disponibile. Vă rugăm să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Ceva împiedică &brandShortName; să fie actualizat în mod securizat. Vă rugăm să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Cineva încearcă să păcălească &brandShortName; să accepte o actualizare nesigură. Vă rugăm să contactați administratorul de rețea în legătură cu această problemă.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nu poate detecta dacă sunt actualizări disponibile. Vă rugăm 
+să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Ceva împiedică &brandShortName; să fie actualizat în mod securizat. 
+Vă rugăm să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Cineva încearcă să păcălească &brandShortName; să accepte o 
+actualizare nesigură. Vă rugăm să contactați administratorul de rețea în legătură cu această problemă.">
 
 <!ENTITY  finishedPage.title              "Actualizarea este gata de instalare">
 <!ENTITY  finishedPage.text               "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți 

@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Lucrează offline">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "Utilizează profilul selectat fără a mai întreba la pornire">
+<!ENTITY            useSelected.accesskey   "s">

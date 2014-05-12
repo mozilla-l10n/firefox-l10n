@@ -8,16 +8,17 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetria este <span>dezactivată</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "     Declarații SQL lente ">
+<!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  Blocări navigator ">
+<!ENTITY aboutTelemetry.chromeHangsSection " Blocări navigator">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograme">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Măsurători simple">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on Details">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalii supliment">
 
 <!ENTITY aboutTelemetry.lateWritesSection "   Scrieri întârziate">
 
@@ -27,7 +28,7 @@
 
 <!ENTITY aboutTelemetry.toggle "  Clic pentru a comuta secțiunea">
 
-<!ENTITY aboutTelemetry.emptySection " (Nu sunt date colectate) ">
+<!ENTITY aboutTelemetry.emptySection "  (Nu sunt date colectate)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTĂ: Depanarea lentă SQL este activată. Șirurile SQL pot fi afișate mai jos, dar ele nu vor fi transmise de Telemetrie.">
 

@@ -92,7 +92,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterFonts  "Fonturi ">
+<!ENTITY netmonitorUI.footer.filterFonts  "Fonturi">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
 

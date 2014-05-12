@@ -8,9 +8,9 @@
 <!ENTITY muteButton.unmuteLabel "Activează sonorul">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pe tot ecranul">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Revenire la ecran normal">
+<!ENTITY castingButton.castingLabel "Proiectat pe ecran">
 
-
-<!ENTITY stats.media "Media">
+<!ENTITY stats.media "Multimedia">
 <!ENTITY stats.size "Dimensiune">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "În pauză">

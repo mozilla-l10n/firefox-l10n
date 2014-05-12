@@ -22,7 +22,7 @@
 <!ENTITY appbarViewPageSource.label    "View page source">
 
 <!ENTITY topSitesHeader.label        "Top Sites">
-<!ENTITY bookmarksHeader.label       "Bookmarks">
+<!ENTITY bookmarksHeader.label       "Semne de carte">
 <!ENTITY recentHistoryHeader.label   "Istoric recent">
 <!ENTITY remoteTabsHeader.label      "File de la alte dispozitive">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
@@ -44,13 +44,13 @@
 <!ENTITY downloadOpen2.label       "Deschide">
 <!ENTITY downloadCancel.label      "Cancel">
 <!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Resume">
-<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadResume.label      "Reia">
+<!ENTITY downloadRetry.label       "Reîncearcă">
 <!ENTITY downloadRemove.label      "Remove">
 <!ENTITY downloadDelete.label      "Delete">
 <!ENTITY downloadFailed.label      "Failed">
 
-<!ENTITY allBookmarks.label        "See all bookmarks">
+<!ENTITY allBookmarks.label        "Afișează toate semnele de carte">
 
 <!ENTITY consoleHeader.label       "Error Console">
 <!ENTITY consoleAll.label          "All">
@@ -73,11 +73,11 @@
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextPasteAndGo.label       "Inserează și accesează">
 <!ENTITY contextTextSelect.label           "Select">
-<!ENTITY contextTextSelectAll.label        "Select all">
+<!ENTITY contextTextSelectAll.label        "Selectează tot">
 <!-- LINK CONTEXT MENU -->
 
-<!ENTITY contextOpenLinkTab.label          "Open link in new tab">
-<!ENTITY contextCopyLinkHref.label         "Copy link">
+<!ENTITY contextOpenLinkTab.label          "Deschide legătura în filă nouă">
+<!ENTITY contextCopyLinkHref.label         "Copiază legătura">
 <!ENTITY contextBookmarkLinkHref.label     "Bookmark link">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
@@ -130,7 +130,7 @@
 <!ENTITY firstRunBookmarks.label "Find pages you've saved for later">
 <!ENTITY firstRunMenu.label "Access more features and options">
 <!ENTITY firstRunHistory.label "See where you've been on the Web">
-<!ENTITY firstRunWelcome.label "Welcome to &brandShortName;">
+<!ENTITY firstRunWelcome.label "Bun venit la &brandShortName;">
 <!ENTITY firstRunDifferent.label "Different by design">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,

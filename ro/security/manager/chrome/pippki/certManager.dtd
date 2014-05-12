@@ -11,7 +11,7 @@
 <!ENTITY certmgr.tab.orphan2                  "Extra">
 
 <!ENTITY certmgr.ca.builtins                  "AC-uri predefinite">
-<!ENTITY certmgr.ca.mycas                     "AC-uri gestionate de dumneavoastră.">
+<!ENTITY certmgr.ca.mycas                     "AC-uri gestionate de dumneavoastră">
 
 <!ENTITY certmgr.mine                         "Posedați certificate de la următoarele organizații care vă identifică:">
 <!ENTITY certmgr.others                       "Aveți stocate certificate care identifică următoarele persoane:">

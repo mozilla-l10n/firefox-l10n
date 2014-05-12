@@ -112,7 +112,7 @@
 
 <!ENTITY debuggerUI.searchFunction           "Căutați definiția funcției">
 <!ENTITY debuggerUI.searchFunction.key       "D">
-
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 

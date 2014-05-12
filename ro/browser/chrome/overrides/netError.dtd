@@ -96,7 +96,11 @@ cookie-uri.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security  
+Manager.</li> 
+<li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
 <!ENTITY nssFailure2.longDesc "<ul> 
@@ -145,8 +149,9 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server. </p> 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server. </p> 
+  
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
