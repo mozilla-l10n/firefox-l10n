@@ -52,7 +52,7 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Organisar la pagina…">
 <!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printPreviewCmd.label "Prevista da stampar">
+<!ENTITY printPreviewCmd.label "Prevista da stampa">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Stampar…">
 <!ENTITY printCmd.key "P">

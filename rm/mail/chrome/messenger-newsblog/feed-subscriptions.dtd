@@ -18,7 +18,7 @@
 <!ENTITY quickMode.label             "Mussar la resumaziun da l'artitgel empè da chargiar la website">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.label         "Crear automaticamain etichettas dals nums da &lt;categoria&gt; dal feed">
+<!ENTITY autotagEnable.label         "Crear automaticamain etichettas cun ils nums da la &lt;categoria&gt; dal feed">
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Prefix per las etichettas:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
