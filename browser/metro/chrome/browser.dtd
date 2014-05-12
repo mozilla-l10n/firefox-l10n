@@ -41,7 +41,7 @@
 <!ENTITY downloadsHeader.label     "Nedlastingar">
 <!ENTITY downloadShowPage.label    "Gå til side">
 <!ENTITY downloadShow2.label       "Finn">
-<!ENTITY downloadOpen2.label       "Opne">
+<!ENTITY downloadOpen2.label       "Opna">
 <!ENTITY downloadCancel.label      "Avbryt">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Hald fram">
@@ -62,7 +62,7 @@
 <!ENTITY consoleCopyAll.label      "Kopier">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kjeldefil:">
-<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 <!ENTITY consoleFollowCheckbox.label "Følg">
 
@@ -143,7 +143,7 @@
        references.
        -->
 <!ENTITY firstRunBack.label "Trykk for å gå tilbake til tidlegare side">
-<!ENTITY firstRunNewTab.label "Legg til ei ny fane for å utforske ein annan nettstad">
+<!ENTITY firstRunNewTab.label "Legg til ei ny fane for å utforska ein annan nettstad">
 <!ENTITY firstRunStar.label "Bruk bokmerke for å ta vare på sider for seinare bruk">
 <!ENTITY firstRunPin.label "Lås ein nettstad til Windows-startskjermen for rask tilgang">
 <!ENTITY firstRunGotIt.label "Skjønar!">
