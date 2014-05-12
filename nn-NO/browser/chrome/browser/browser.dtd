@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Logg inn på &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Kopla til &syncBrand.shortName.label; på nytt">
-<!ENTITY syncStartPanel.heading "&brandShortName; synkroniserer">
-<!ENTITY syncStartPanel.subTitle "Du kan stilla inn &syncBrand.shortName.label; i Innstillinger.">
-<!ENTITY syncStartPanel.subTitleUnix "Du kan stilla inn &syncBrand.shortName.label; i Innstillinger.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; slått på">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; startar å synkronisera snart.">
 <!ENTITY syncErrorPanel.heading "Klarte ikkje å kopla til &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Logg in for å halda fram synkroniseringa.">
 <!ENTITY syncErrorPanel.signInButton.label "Logg inn">
@@ -614,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "ø">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
@@ -659,7 +659,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "K">
 <!ENTITY syncSyncNowItem.label        "Synkroniser no">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncReAuthItem.label         "Kopla til &syncBrand.shortName.label; på nytt …">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "Synkroniser">
 
 <!ENTITY socialToolbar.title        "Sosial verktøylinje-knapp">
 
@@ -674,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Vis varsel">
 <!ENTITY social.toggleNotifications.accesskey "a">
 
-<!ENTITY social.activated.description "Tenester frå <label/> er påslått. Du kan endre tenesteinnstillingar <label class='text-link'>Utvidingshandsaming</label>.">
+<!ENTITY social.activated.description "Tenester frå <label/> er slått på. Du kan endra tenesteinnstillingar under <label class='text-link'>Utvidingshandsaming</label>.">
 <!ENTITY social.activated.undo.label "Oops, angra dette!">
 <!ENTITY social.activated.undo.accesskey "O">
 <!ENTITY social.learnMore.label "Les meir …">
@@ -684,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Tilpass &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Meny og verktøylinjer">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Fleire verktøy og funksjonar">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
@@ -709,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofontilgang">
 <!ENTITY webrtcIndicatorButton.tooltip "Viser nettstad som du deler kamera eller mikrofonen med">
 
-<!ENTITY mixedContentBlocked.helplink "Les meir">
 <!ENTITY mixedContentBlocked.moreinfo "Dei fleste nettstadar vil framleis fungere rett sjølv om dette innhaldet er blokkert.">
 
 <!ENTITY pointerLock.notification.message "Trykk ESC når som helst for å vise den igjen.">

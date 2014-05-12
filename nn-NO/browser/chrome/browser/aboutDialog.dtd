@@ -36,8 +36,7 @@
 <!ENTITY community.middle2          ", eit ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end3             " arbeider saman for å halda verdsveven open, allmenn, og tilgjengeleg for alle.
-  	">
+<!ENTITY community.end3             " som arbeider saman for å halda verdsveven open, allmenn, og tilgjengeleg for alle.">
 
 <!ENTITY contribute.start           "Høyrest dette interessant ut? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
