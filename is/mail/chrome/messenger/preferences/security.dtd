@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "Svikapóstur">
 <!ENTITY itemPasswords.label "Lykilorð">
 <!ENTITY itemAntiVirus.label "Vírusvörn">
-<!ENTITY itemCookies.label "Vefur">
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Stilla sjálfgefnar ruslpóstsstillingar. Stillingar fyrir ruslpóst fyrir ákveðinn reikning er hægt að stilla í stillingum reiknings.">
 <!ENTITY manualMark.label "Þegar ég flokka póst sem ruslpóst:">
@@ -42,19 +41,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; gerir vírusvörnum kleyft að athuga allan innkominn póst varðandi vírusa áður en pósturinn er geymdur.">
 <!ENTITY antiVirus.label "Leyfa vírusvörn að setja einstaka innkomna pósta í sóttkví">
 <!ENTITY antiVirus.accesskey "L">
-<!-- Cookies -->
-<!ENTITY cookies.intro "&brandShortName; getur takmarkað hvaða blogg, fréttaveitur, og önnur vefsvæði geti vistað smákökur.">
-<!ENTITY acceptCookies.label "Þiggja smákökur frá vefsvæðum">
-<!ENTITY acceptCookies.accesskey "Þ">
-<!ENTITY keepUntil.label "Eiga þangað til:">
-<!ENTITY keepUntil.accesskey "E">
-<!ENTITY expire.label "þær renna út">
-<!ENTITY close.label "ég loka &brandShortName;">
-<!ENTITY askEachTime.label "spyrja í hvert skipti">
-<!ENTITY cookieExceptions.label "Undanþágur…">
-<!ENTITY cookieExceptions.accesskey "U">
-<!ENTITY showCookies.label "Sýna smákökur…">
-<!ENTITY showCookies.accesskey "S">
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
-<!ENTITY doNotTrack.accesskey "ð">

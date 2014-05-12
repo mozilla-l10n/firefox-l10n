@@ -43,13 +43,6 @@
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Ekki vitað">
 <!ENTITY chatName.label "Nafn spjalls:">
-<!ENTITY allowRemoteContent1.label "Leyfa fjartengt efni.">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "Í HTML pósti er hægt að setja inn efni
-sem er tengt við fjarlægjan netþjón. Ef þú opnar svoleiðis póst mun hann opna
-tengingu á fjarlægjan netþjón. Þetta er hugsanlega hægt að nota til að fylgjast með
-hvort pósturinn sé lesinn. Ef þú hakar við þetta leyfirðu svoleiðis efni
-í HTML pósti frá þessum tengilið.">
 <!ENTITY WorkPhone.label "Vinnusími:">
 <!ENTITY WorkPhone.accesskey "n">
 <!ENTITY HomePhone.label "Heimasími:">
