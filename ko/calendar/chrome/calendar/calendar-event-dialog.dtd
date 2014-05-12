@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "종료일" >
 <!ENTITY newevent.attendees.notify.label    "참석자 알림">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "참석자를 비공개로 유지하기">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "활성화 하면 참석자는 서로를 볼 수 없습니다. E-mail 초대에만 적용됩니다."
+
 <!ENTITY newevent.status.label                "상태" >
 <!ENTITY newevent.status.accesskey            "S" >
 <!ENTITY newevent.eventStatus.none.label           "지정 없음" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "참석자 초대…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "철자 검사…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Spell Check As You Type">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "링크 추가…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                   "시간대 표시">
 <!ENTITY  event.menu.options.timezone2.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "중요도">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "저장 후 종료">
 <!ENTITY  event.toolbar.delete.label                      "삭제">
 <!ENTITY  event.toolbar.attendees.label                   "초대">
-<!ENTITY  event.toolbar.spellcheck.label                  "철자 검사">
 <!ENTITY  event.toolbar.privacy.label                     "공개여부">
 
 <!ENTITY  event.toolbar.save.tooltip                      "저장하고 닫기">
 <!ENTITY  event.toolbar.delete.tooltip                    "삭제">
 <!ENTITY  event.toolbar.attendees.tooltip                 "참석자 초대하기">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "맞춤법 검사">
 <!ENTITY  event.toolbar.attachments.tooltip               "첨부하기">
 <!ENTITY  event.toolbar.privacy.tooltip                   "공개 범위 바꾸기">
 <!ENTITY  event.toolbar.priority.tooltip                  "중요도 바꾸기">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "분류:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "분류 추가" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "캘린더:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "참석자:" >
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "알림:">
 <!ENTITY read.only.attendees.label       "참석자">
 <!ENTITY read.only.description.label     "설명">
-<!ENTITY read.only.documents.label       "문서">
 <!ENTITY read.only.link.label            "관련 링크">

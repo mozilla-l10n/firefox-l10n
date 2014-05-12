@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName; 시작 페이지">
 <!ENTITY enableStartPage.label            "프로그램 시작시 메시지 창에 시작 페이지 출력">
 <!ENTITY enableStartPage.accesskey        "W">
@@ -6,8 +10,9 @@
 <!ENTITY useDefault.label                 "기본 설정 복원">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "움직이는 오리 아이콘">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "독 아이콘 설정">
+<!ENTITY dockOptions.label                "독 아이콘 옵션…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "메시지 도착 알림">
 <!ENTITY playSound.label                  "소리로 알리기">

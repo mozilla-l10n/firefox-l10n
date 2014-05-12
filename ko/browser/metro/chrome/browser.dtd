@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "메시지">
 <!ENTITY consoleCodeEval.label     "코드:">
 <!ENTITY consoleClear.label        "지우기">
+<!ENTITY consoleCopyAll.label      "복사하기">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "소스 파일:">
 <!ENTITY consoleErrLine.label      "줄:">
 <!ENTITY consoleErrColumn.label    "열:">
+<!ENTITY consoleFollowCheckbox.label "따라가기">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "잘라내기">
@@ -136,12 +138,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 <!ENTITY firstRunBack.label "이전 페이지로 넘어가기">
 <!ENTITY firstRunNewTab.label "새 탭을 열어 새로운 페이지 탐험하기">

@@ -73,9 +73,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "업데이트 기록 보기">
 <!ENTITY updateHistory.accesskey         "p">
-<!ENTITY updateOthers.label              "자동으로 업데이트하기:">
-<!ENTITY enableAddonsUpdate3.label       "설치된 부가 기능">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY useService.label	"업데이트 설치를 위해 백그라운드 서비스를 이용">
 <!ENTITY useService.accesskey			"b">
