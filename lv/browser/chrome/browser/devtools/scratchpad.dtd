@@ -19,6 +19,10 @@
 <!ENTITY fileMenu.label               "Fails">
 <!ENTITY fileMenu.accesskey           "F">
 
+<!ENTITY normalSize.label             "Normāls izmērs">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
+
 <!ENTITY newWindowCmd.label           "Jauns logs">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
