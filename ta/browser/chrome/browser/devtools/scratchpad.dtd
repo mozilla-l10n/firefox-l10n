@@ -43,8 +43,8 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "இப்படி&amp; சேமி…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "இப்படி சேமி…">
+<!ENTITY saveFileAsCmd.accesskey      " ">
 
 <!ENTITY closeCmd.label               "மூடவும்">
 <!ENTITY closeCmd.key                 "W">
@@ -56,18 +56,23 @@
 <!ENTITY lineNumbers.label             "வரி எண்களை காட்டு(L)">
 <!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "உரை மடிப்பு(W)">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "பின்பற்றும் இடத்தை உயர்த்திக்காட்டு(H)">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "பெரிய எழுத்துரு(a)">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "சிறிய எழுத்துரு(m)">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "இயல்பான அளவு(N)">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "திருத்து">
 <!ENTITY editMenu.accesskey           "த">
@@ -84,8 +89,9 @@
 <!ENTITY display.accesskey            "க">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "அழகான அச்சு(P)">
 <!ENTITY pprint.key                   "p">
-
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -124,8 +130,8 @@
   -->
 
 
-<!ENTITY resetContext2.label          "மாறிகளை&amp; மீட்டமை">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.label          "மாறிகளை மீட்டமை">
+<!ENTITY resetContext2.accesskey      " ">
 
 <!ENTITY reloadAndRun.label           "மீளேற்றி இயக்கு (e)">
 <!ENTITY reloadAndRun.accesskey       "e">
