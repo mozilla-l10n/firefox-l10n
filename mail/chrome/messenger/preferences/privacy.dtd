@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Obsah e-mailu">
+
+<!ENTITY acceptRemoteContent.label "Povolit vzdálený obsah ve zprávách">
+<!ENTITY acceptRemoteContent.accesskey "P">
+<!ENTITY remoteContentExceptions.label "Výjimky…">
+<!ENTITY remoteContentExceptions.accesskey "V">
+<!ENTITY acceptRemoteContentInfo.label "Zjistit více o problémech se soukromím u vzdáleného obsahu">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webový obsah">
+
+<!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
+<!ENTITY acceptCookies.accesskey "o">
+<!ENTITY acceptThirdParty.pre.label "Povolit cookies třetích stran:">
+<!ENTITY acceptThirdParty.pre.accesskey "v">
+<!ENTITY acceptThirdParty.always.label "Vždy">
+<!ENTITY acceptThirdParty.never.label "Nikdy">
+<!ENTITY acceptThirdParty.visited.label "Pouze navštívené">
+<!ENTITY keepUntil.label "Ponechat do:">
+<!ENTITY keepUntil.accesskey "n">
+<!ENTITY expire.label "konce doby platnosti">
+<!ENTITY close.label "ukončení aplikace &brandShortName;">
+<!ENTITY askEachTime.label "vždy se dotázat">
+<!ENTITY cookieExceptions.label "Výjimky…">
+<!ENTITY cookieExceptions.accesskey "m">
+<!ENTITY showCookies.label "Správce cookies…">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY dntTrackingNopref.label2 "Nesdělovat webovým stránkám nic o mém nastavení sledování">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Informovat servery, že nechci být sledován">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Informovat servery, že můžu být sledován">
+<!ENTITY dntTrackingOkay.accesskey "r">
+<!ENTITY doNotTrackInfo.label "Zjistit více o Do Not Track">
+

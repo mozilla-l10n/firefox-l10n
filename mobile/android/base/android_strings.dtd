@@ -55,7 +55,7 @@
 <!ENTITY back "Zpět">
 <!ENTITY stop "Zastavit">
 <!ENTITY site_security "Zabezpečení stránky">
-<!ENTITY save "Uložit">
+<!ENTITY edit_mode_cancel "Zrušit">
 
 <!ENTITY close_tab "Zavřít panel">
 <!ENTITY one_tab "1 panel">
@@ -74,6 +74,7 @@
 <!ENTITY pref_category_privacy_short "Soukromí">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
+<!ENTITY pref_learn_more "Zjistit více">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
 <!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
 <!ENTITY pref_category_search_restore_defaults "Obnovit vyhledávací moduly">
@@ -87,7 +88,6 @@
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
-<!ENTITY pref_developer_remotedebugging_docs "Zjistit více">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 
 <!ENTITY pref_category_home "Domů">
@@ -159,14 +159,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Import z Androidu">
-<!ENTITY pref_private_data_history "Historie a stahování">
+<!ENTITY pref_private_data_history2 "Historie prohlížení">
 <!ENTITY pref_private_data_formdata "Formuláře a hledání">
 <!ENTITY pref_private_data_cookies2 "Cookies a přihlášení">
 <!ENTITY pref_private_data_passwords "Uložená hesla">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
-<!ENTITY pref_private_data_downloadFiles "Stažené soubory">
+<!ENTITY pref_private_data_downloadFiles2 "Stahování">
 
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -180,6 +180,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Zobrazit">
 <!ENTITY pref_panels_hide "Skrýt">
+<!ENTITY pref_panels_reorder "Změna pořadí">
+<!ENTITY pref_panels_move_up "Posunout nahoru">
+<!ENTITY pref_panels_move_down "Posunout dolu">
 
 <!ENTITY datareporting_notification_title "Statistiky a data k aplikaci &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Zvolte, jaké informace chcete sdílet">
@@ -203,8 +206,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
-<!ENTITY datareporting_wifi_title "Geolokační služby od &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Pomáhá vylepšovat geolokační služby pro otevřený web odesíláním anonymních informací o mobilní síti organizaci &brandShortName;.">
+<!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Při běhu na pozadí sbírá informace o umístění wi-fi sítí a buněk mobilních vysílačů, které sdílí s organizací &vendorShortName;, která je využívá pro vylepšování našich geolokačních služeb">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -291,7 +294,6 @@ size. -->
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
-<!ENTITY reading_list_add "Přidat do Seznamu ke čtení">
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
@@ -339,6 +341,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Pro tento panel nebyl nalezen žádný obsah.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Zpět na &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Vložení hledaného klíčového slova">
 
@@ -418,6 +424,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
 <!ENTITY exit_guest_session_text "Data o prohlížení z této relace budou smazána.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
