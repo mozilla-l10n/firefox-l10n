@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Najít/nahradit…">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.accesskey "r">
+<!ENTITY findBarCmd.label "Najít…">
+<!ENTITY findBarCmd.accesskey "N">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Najít a nahradit…">
+<!ENTITY findReplaceCmd.accesskey "h">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Najít další">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Najít předchozí">
+<!ENTITY findPrevCmd.accesskey "N">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "N">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobrazení">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Nastavení účtu…">
-<!ENTITY accountManagerCmd.accesskey "t">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY accountManagerCmd2.label "Nastavení účtu">
+<!ENTITY accountManagerCmd2.accesskey "t">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">
 

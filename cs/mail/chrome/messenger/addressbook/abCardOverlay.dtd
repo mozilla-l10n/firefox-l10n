@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label "Neznámý">
 <!ENTITY chatName.label "Jméno v chatu:">
 
-<!ENTITY allowRemoteContent1.label "Povolit vzdálený obsah">
-<!ENTITY allowRemoteContent1.accesskey "v">
-<!ENTITY allowRemoteContent1.tooltip "Do HTML zprávy lze vložit obsah ze vzdálených zdrojů. Při otevření takovéto zprávy dojde k navázaní spojení ke vzdálenému serveru. Toto chování lze použít k určení zda zpráva byla přečtena. Povolením vzdáleného obsahu umožníte načítání takovéhoto obsahu v HTML zprávách od tohoto kontaktu.">
-
-
-
-
-
 <!ENTITY WorkPhone.label "Zaměstnání:">
 <!ENTITY WorkPhone.accesskey "m">
 <!ENTITY HomePhone.label "Domů:">
