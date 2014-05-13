@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nepodařilo se připojit. Klepněte pro přihlášení.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Pro přihlášení potřebujete aktualizovat &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Pro začátek synchronizace klepněte.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'Historie'>
 <!ENTITY fxaccount_status_passwords 'Hesla'>

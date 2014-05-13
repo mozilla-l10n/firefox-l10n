@@ -67,13 +67,13 @@
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
-<!ENTITY offlineMenu.accesskey "R">
+<!ENTITY offlineMenu.accesskey "R">    
 <!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Stáhnout/Synchronizovat…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Nastavení režimu offline">
-<!ENTITY settingsOfflineCmd.accesskey "N">
+<!ENTITY settingsOfflineCmd2.label "Nastavení režimu offline">
+<!ENTITY settingsOfflineCmd2.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Stáhnout vybrané zprávy">
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadStarredCmd.label "Stáhnout zprávy s hvězdičkou">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "h">
 <!ENTITY menuFavoriteFolder.label "Oblíbená složka">
 <!ENTITY menuFavoriteFolder.accesskey "O">
-<!ENTITY folderPropsCmd.label "Vlastnosti…">
-<!ENTITY folderPropsFolderCmd.label "Vlastnosti složky…">
-<!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusní skupiny…">
+<!ENTITY folderPropsCmd2.label "Vlastnosti">
+<!ENTITY folderPropsFolderCmd2.label "Vlastnosti složky">
+<!ENTITY folderPropsNewsgroupCmd2.label "Vlastnosti diskusní skupiny">
 <!ENTITY folderPropsCmd.accesskey "i">
 <!ENTITY undoDeleteMsgCmd.label "Zpět smazání zprávy">
 <!ENTITY redoDeleteMsgCmd.label "Znovu smazat zprávu">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "O">
 <!ENTITY recentFolders.label "Poslední">
 <!ENTITY recentFolders.accesskey "P">
+<!ENTITY compactVersion.label "Kompaktní zobrazení">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle sloupce">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Uložené soubory">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtry zpráv…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filtry zpráv">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
 <!ENTITY filtersApply.accesskey "p">
 <!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Vymazat nedávnou historii…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Nastavení účtu…">
-<!ENTITY accountManagerCmd.accesskey "t">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Nastavení účtu">
+<!ENTITY accountManagerCmd2.accesskey "t">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Povolit vzdálené ladění">
 <!ENTITY allowRemoteDebugging.accesskey "o">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Zobrazit vzdálený obsah v této zprávě">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
-<!ENTITY remoteContentOptionAllowForAddress.label "Zobrazit vzdálený obsah od tohoto odesílatele">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "b">
+<!ENTITY editRemoteContentSettings.label "Upravit nastavení pro vzdálený obsah…">
+<!ENTITY editRemoteContentSettings.accesskey "U">
+<!ENTITY editRemoteContentSettingsUnix.label "Upravit nastavení pro vzdálený obsah…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "U">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorovat upozornění pro tuto zprávu">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "S">
 <!ENTITY folderContextSearchForMessages.label "Hledat ve zprávách…">
 <!ENTITY folderContextSearchForMessages.accesskey "H">
-<!ENTITY folderContextProperties.label "Vlastnosti…">
-<!ENTITY folderContextProperties.accesskey "V">
+<!ENTITY folderContextProperties2.label "Vlastnosti">
+<!ENTITY folderContextProperties2.accesskey "V">
 <!ENTITY folderContextFavoriteFolder.label "Oblíbená složka">
 <!ENTITY folderContextFavoriteFolder.accesskey "b">
-<!ENTITY folderContextSettings.label "Nastavení…">
-<!ENTITY folderContextSettings.accesskey "t">
+<!ENTITY folderContextSettings2.label "Nastavení">
+<!ENTITY folderContextSettings2.accesskey "t">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail obsahuje:">
@@ -700,7 +704,9 @@
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextOpenConversation.label "Otevřít zprávu v konverzaci">
 <!ENTITY contextOpenConversation.accesskey "k">
-<!ENTITY contextEditMsgAsNew.label "Upravit jako novou zprává">
+<!ENTITY contextOpenContainingFolder.label "Otevřít zprávu ve složce">
+<!ENTITY contextOpenContainingFolder.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Upravit jako novou zprávu">
 <!ENTITY contextEditMsgAsNew.accesskey "U">
 <!ENTITY contextArchive.label "Archivovat">
 <!ENTITY contextArchive.accesskey "A">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zvětšit okno">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label "Předvolby…">
+<!ENTITY preferencesCmdMac2.label "Předvolby">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Služby">
