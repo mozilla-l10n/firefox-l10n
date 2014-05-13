@@ -1,3 +1,5 @@
+bing
+eBay-in
 google
-twitter
 wikipedia-pa
+yahoo-in
