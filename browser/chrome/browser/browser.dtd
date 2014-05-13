@@ -131,6 +131,7 @@
 <!ENTITY stopButton.tooltip "Detiene la carga de la página">
 <!ENTITY goEndCap.tooltip "Ir a la dirección en la barra de direcciones.">
 <!ENTITY printButton.label "Imprimir">
+<!ENTITY printButton.tooltip "Imprime esta página">
 <!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
