@@ -146,7 +146,7 @@
 <!ENTITY detail.size                          "పరిమాణము">
 
 <!ENTITY detail.checkForUpdates.label         "నవీకరణల కొరకు పరిశీలించుము">
-<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించుము">
 <!ENTITY detail.showPreferencesWin.label      "ఐచ్ఛికములు">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
@@ -222,7 +222,9 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "ఇది ఏమిటి? టెలీమెట్రీ అప్పుడప్పుడూ ప్రయోగాలను స్థాపించి నడుపుతూండవచ్చు.">
 <!ENTITY experiment.info.learnmore "మరింత నేర్చుకోండి">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "టెలీమెట్రీ అమరికలు">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
