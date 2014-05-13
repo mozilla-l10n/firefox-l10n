@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "ఆఫ్‌లైన్ గా  పనిచేయి">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "మొదలయ్యేప్పుడు అడగకుండా ఎంచుకున్న ప్రొఫైలుని వాడు (s)">
+<!ENTITY            useSelected.accesskey   "s">

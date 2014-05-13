@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "పేజీ అమర్పు">
 
+<!ENTITY basic.tab           "రూపు  ఎంపికలు">
 
 <!ENTITY formatGroup.label   "రూపం">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "ఐచ్ఛికాలు">
 
+<!ENTITY printBG.label       "వెనుతలాన్ని ముద్రించు (రంగులు  బొమ్మలు B) ">
+<!ENTITY printBG.accesskey   " ">
 
-
+<!ENTITY advanced.tab        "మార్జిన్లు  పీఠిక/భూమిక">
 
 <!ENTITY marginGroup.label   "మార్జిన్లు (#1)">
 <!ENTITY marginUnits.inches  "అంగుళాలు">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "కుడి:">
 <!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "పీఠికలు  భూమికలు">
 
 <!ENTITY hfLeft.label        "ఎడమ:">
 <!ENTITY hfCenter.label      "మద్య:">

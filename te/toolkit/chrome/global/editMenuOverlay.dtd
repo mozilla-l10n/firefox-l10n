@@ -3,27 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "సరిచేయు">
-<!ENTITY editMenu.accesskey        "E">
+<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "చేయవద్దు">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY undoCmd.accesskey         "u">
 <!ENTITY redoCmd.label             "తిరిగిచేయి">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.accesskey         "r">
 <!ENTITY cutCmd.label              "కత్తిరించు">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "నకలుతీయు">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY copyCmd.accesskey         "c">
 <!ENTITY pasteCmd.label            "అతికించు">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "తొలగించు">
-<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY deleteCmd.accesskey       "d">
 <!ENTITY selectAllCmd.label        "అన్నిటిని ఎంపికచేయి">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "కనుగొను">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
