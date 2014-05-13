@@ -140,7 +140,7 @@
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
 
 
-<!ENTITY securityOverride.getMeOutOfHereButton "મને અંહિથી બહાર લઈ જાવ">
+<!ENTITY securityOverride.getMeOutOfHereButton "મને અહીંથી બહાર લઈ જાવ">
 
 <!ENTITY nssBadCert.longDesc2 "
 <ul>

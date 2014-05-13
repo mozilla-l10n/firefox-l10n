@@ -4,16 +4,16 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox સીંક">
-<!ENTITY syncBrand.shortName.label "સુમેળ">
+<!ENTITY syncBrand.shortName.label "સીંક">
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label "&amp;syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "&amp;syncBrand.shortName.label; સાથે જોડાવ">
-<!ENTITY sync.title.adddevice.label "&amp;syncBrand.fullName.label; ખાતુ ઉમેરો">
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; સાથે જોડાવ">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; ખાતુ ઉમેરો">
 <!ENTITY sync.title.pair.label "ઉપકરણની જોડી બનાવો">
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર “&amp;syncBrand.shortName.label; સુયોજીત કરો” પસંદ કરો.">
+<!ENTITY sync.subtitle.connect.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર “&syncBrand.shortName.label; સુયોજીત કરો” પસંદ કરો.">
 <!ENTITY sync.subtitle.header2.label "તમારા અન્ય ઉપકરણ પર આ કોડ દાખલ કરો">
-<!ENTITY sync.subtitle.connectlocation2.label "“&amp;sync.title.pair.label;” ને તમારા અન્ય ઉપકરણના Firefox વિકલ્પોના &amp;syncBrand.shortName.label; વિભાગમાં પસંદ કરો.">
+<!ENTITY sync.subtitle.connectlocation2.label "“&sync.title.pair.label;” ને તમારા અન્ય ઉપકરણના Firefox વિકલ્પોના &syncBrand.shortName.label; વિભાગમાં પસંદ કરો.">
 <!ENTITY sync.subtitle.pair.label "સક્રિય કરવા માટે, તમારા અન્ય ઉપકરણમાં “ઉપકરણની જોડી બનાવો” પસંદ કરો.">
 <!ENTITY sync.pin.default.label "...n...n...n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -23,44 +23,44 @@
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label "અન્ય ઉપકરણ માટે રાહ જોઇ રહ્યા છીએ…">
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "તમારી &amp;syncBrand.fullName.label; ખાતા જાણકારી દાખલ કરો">
+<!ENTITY sync.subtitle.account.label "તમારી &syncBrand.fullName.label; ખાતા જાણકારી દાખલ કરો">
 <!ENTITY sync.input.username.label "ખાતા નામ">
 <!ENTITY sync.input.password.label "પાસવર્ડ">
 <!ENTITY sync.input.key.label "પુનઃપ્રાપ્તિ કી">
 <!ENTITY sync.checkbox.server.label "વૈવિધ્યપૂર્ણ સર્વર વાપરો">
 <!ENTITY sync.input.server.label "સર્વર URL">
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "&amp;syncBrand.shortName.label; સુયોજીત કરી શકતા નથી">
-<!ENTITY sync.subtitle.fail.label "&amp;syncBrand.fullName.label; સર્વર સાથે જોડાઇ શક્યું નહિં. શું તમે ફરી પ્રયાસ કરવા માંગો છો?">
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; સુયોજીત કરી શકતા નથી">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; સર્વર સાથે જોડાઇ શક્યું નહિં. શું તમે ફરી પ્રયાસ કરવા માંગો છો?">
 <!ENTITY sync.button.tryagain.label "ફરી પ્રયાસ કરો">
 <!ENTITY sync.button.manual.label "સ્વયં સુયોજન">
 <!ENTITY sync.subtitle.nointernet.label "કોઇ ઇન્ટરનેટ જોડાણ ઉપલબ્ધ નથી.">
 <!ENTITY sync.subtitle.failaccount.label "તમારા ઉપકરણ પર ખાતા બનાવટ નિષ્ફળ.">
-<!ENTITY sync.subtitle.failmultiple.label "શું તમારી પાસે એક કરતાં વધુ Firefox સ્થાપિત થયેલ છે? હાલમાં, &amp;syncBrand.fullName.label; એક સમયે માત્ર એક Firefox સ્થાપનને આધાર આપે છે. મહેરબાની કરીને &amp;syncBrand.shortName.label; વાપરવા માટે અન્ય ઘટકો વિસ્થાપિત કરો.">
+<!ENTITY sync.subtitle.failmultiple.label "શું તમારી પાસે એક કરતાં વધુ Firefox સ્થાપિત થયેલ છે? હાલમાં, &syncBrand.fullName.label; એક સમયે માત્ર એક Firefox સ્થાપનને આધાર આપે છે. મહેરબાની કરીને &syncBrand.shortName.label; વાપરવા માટે અન્ય ઘટકો વિસ્થાપિત કરો.">
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "સુયોજન સમાપ્ત">
 <!ENTITY sync.subtitle.success.label1 "તમારી માહિતી હવે પાશ્વભાગમાં ડાઉનલોડ થઇ રહી છે. તમે તમારા ખાતાની વ્યવસ્થા કરવા માટે, અથવા &brandShortName; ની મદદથી બ્રાઉઝ કરવા માટે સેટીંગમાં જઇ શકો.">
 <!ENTITY sync.settings.label "સુયોજનો">
-<!ENTITY sync.subtitle.manage.label1 "તમારું &amp;syncBrand.fullName.label; ખાતું પહેલાથી જ સેટઅપ થયેલું છે. તમે તમારા ખાતાની વ્યવસ્થા કરવા માટે , અથવા &brandShortName; લૉન્ચ કરવા માટે સેટીંગમાં જઇ શકો.">
+<!ENTITY sync.subtitle.manage.label1 "તમારું &syncBrand.fullName.label; ખાતું પહેલાથી જ સેટઅપ થયેલું છે. તમે તમારા ખાતાની વ્યવસ્થા કરવા માટે , અથવા &brandShortName; લૉન્ચ કરવા માટે સેટીંગમાં જઇ શકો.">
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "મહેરબાની કરીને ફરી પ્રયાસ કરો.">
-<!ENTITY sync.pair.connectlocation.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, &amp;syncBrand.shortName.label; સેટઅપ કરો” ને ઉપકરણ પર પસંદ કરો, અને પછી “મારી પાસે ખાતું છે” પસંદ કરો.">
+<!ENTITY sync.pair.connectlocation.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, &syncBrand.shortName.label; સેટઅપ કરો” ને ઉપકરણ પર પસંદ કરો, અને પછી “મારી પાસે ખાતું છે” પસંદ કરો.">
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "વિકલ્પો">
-<!ENTITY sync.summary.pair.label "તમારા &amp;syncBrand.shortName.label; ખાતા સાથે અન્ય ઉપકરણની કડી જોડો">
+<!ENTITY sync.summary.pair.label "તમારા &syncBrand.shortName.label; ખાતા સાથે અન્ય ઉપકરણની કડી જોડો">
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label "શું સુમેળ કરવું છે">
-<!ENTITY sync.configure.engines.sync.my.title.label "તમારું સુમેળ કરો...">
+<!ENTITY sync.configure.engines.title.label "શું સીંક કરવું છે">
+<!ENTITY sync.configure.engines.sync.my.title.label "તમારું સીંક કરો...">
 <!ENTITY sync.configure.engines.title.bookmarks "બુકમાર્કો">
 <!ENTITY sync.configure.engines.title.passwords "પાસવર્ડો">
-<!ENTITY sync.configure.engines.title.history "ઈતિહાસ">
+<!ENTITY sync.configure.engines.title.history "ઇતિહાસ">
 <!ENTITY sync.configure.engines.title.tabs "ટૅબ">
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "રદ કરો">
 <!ENTITY sync.button.connect.label "જોડો">
 <!ENTITY sync.button.ok.label "બરાબર">
 <!-- Account strings -->
-<!ENTITY sync.account.label "&amp;syncBrand.fullName.label; (જૂનું થઇ ગયેલ)">
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (જૂનું થઇ ગયેલ)">
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "બુકમાર્કો મેનુ">
 <!ENTITY bookmarks.folder.places.label "">
@@ -73,7 +73,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "પીન થયેલ">
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "માત્ર એક &amp;syncBrand.fullName.label; ખાતું આધારભૂત છે.">
+<!ENTITY sync.notification.oneaccount.label "માત્ર એક &syncBrand.fullName.label; ખાતું આધારભૂત છે.">
 <!ENTITY sync.notification.configure.saved "તમારી પસંદગીઓ સંગ્રહાઇ છે.">
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label "અયોગ્ય ખાતા નામ અથવા પાસવર્ડ.">
@@ -83,9 +83,9 @@
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label "ઉપકરણોમાં ટૅબ મોકલો">
 <!ENTITY sync.button.send.label "મોકલો">
-<!ENTITY sync.button.set.up.sync.label "&amp;syncBrand.shortName.label; સેટઅપ કરો">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "ટૅબ મોકલવા માટે &amp;syncBrand.shortName.label; સેટઅપ કરો">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "ટૅબને અન્ય ઉપકરણો પર મોકલવા માટે &amp;syncBrand.fullName.label; ને તમારા ઉપકરણ પર સેટઅપ કરો.">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; સેટઅપ કરો">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "ટૅબ મોકલવા માટે &syncBrand.shortName.label; સેટઅપ કરો">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "ટૅબને અન્ય ઉપકરણો પર મોકલવા માટે &syncBrand.fullName.label; ને તમારા ઉપકરણ પર સેટઅપ કરો.">
 <!ENTITY sync.text.tab.sent.label "તમારી ટૅબ મોકલાઇ હતી!">
 <!ENTITY sync.text.tab.not.sent.label "તમારી ટૅબ મોકલવામાં સમસ્યા હતી.">
 <!-- Firefox Account strings. -->
@@ -107,10 +107,10 @@
      the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos "સેવાની શરતો">
 <!ENTITY fxaccount_policy_linkprivacy "ખાનગીપણાની સૂચના">
-<!ENTITY fxaccount_getting_started_welcome_to_sync "&amp;syncBrand.shortName.label; માં સ્વાગત છે">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; માં સ્વાગત છે">
 <!ENTITY fxaccount_getting_started_description "તમારી ટૅબ, બુકમાર્કો, પાસવર્ડો અને વધુ સીંક કરવા માટે પ્રવેશ કરો.">
 <!ENTITY fxaccount_getting_started_get_started "શરૂઆત કરો">
-<!ENTITY fxaccount_getting_started_old_firefox "&amp;syncBrand.shortName.label; ની જૂની આવૃત્તિ વાપરી રહ્યા છો?">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ની જૂની આવૃત્તિ વાપરી રહ્યા છો?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -145,15 +145,15 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "પ્રવેશ કરી શક્યા નહિ">
 <!ENTITY fxaccount_status_header2 "Firefox ખાતું">
 <!ENTITY fxaccount_status_signed_in_as "આ રીતે પ્રવેશ કરેલો છે">
-<!ENTITY fxaccount_status_sync "&amp;syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&amp;syncBrand.shortName.label;: સક્રિયકૃત">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: સક્રિયકૃત">
 <!ENTITY fxaccount_status_needs_verification2 "તમારા ખાતાની ખાતરી કરવાની જરૂર છે. તપાસ ઇમેલ પુનઃમોકલવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_needs_credentials "જોડાઇ શકતા નથી. પ્રવેશ કરવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_needs_upgrade "પ્રવેશ કરવા માટે તમારે &brandShortName; ને અપગ્રેડ કરવાની જરૂર છે.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&amp;syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.">
-<!ENTITY fxaccount_status_needs_account_enabled "&amp;syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. સીંક શરૂ કરવા માટે ઠપકારો.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. સીંક શરૂ કરવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_bookmarks "બુકમાર્કો">
-<!ENTITY fxaccount_status_history "ઈતિહાસ">
+<!ENTITY fxaccount_status_history "ઇતિહાસ">
 <!ENTITY fxaccount_status_passwords "પાસવર્ડો">
 <!ENTITY fxaccount_status_tabs "ટૅબ ખોલો">
 <!ENTITY fxaccount_status_legal "કાયદાકીય">
@@ -171,8 +171,8 @@
      Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-<!ENTITY fxaccount_options_title "&amp;syncBrand.shortName.label; વિકલ્પો">
-<!ENTITY fxaccount_options_configure_title "&amp;syncBrand.shortName.label; રૂપરેખાંકિત કરો">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; વિકલ્પો">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; રૂપરેખાંકિત કરો">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
@@ -186,7 +186,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "સર્વર વ્યસ્ત છે, જલદી ફરી પ્રયાસ કરો">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ત્યાં સમસ્યા હતી">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "નેટવર્કમાં જોડાઇ શકતા નથી">
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&amp;syncBrand.shortName.label; એ જોડાયેલું નથી">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; એ જોડાયેલું નથી">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; તરીકે પ્રવેશ કરવા માટે ઠપકારો">

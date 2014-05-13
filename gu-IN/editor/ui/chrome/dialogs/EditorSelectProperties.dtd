@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "M">
 <!ENTITY SelectDisabled.label "નિષ્ક્રિય કરેલ">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "ટેબ અનુક્રમ:">
+<!ENTITY SelectTabIndex.label "ટૅબ અનુક્રમ:">
 <!ENTITY SelectTabIndex.accesskey "I">
 
 <!ENTITY OptGroup.label "વિકલ્પ જૂથ">

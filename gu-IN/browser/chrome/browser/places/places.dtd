@@ -44,7 +44,7 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "નવી વિન્ડોમાં ખોલો">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_tab.label              "નવી ટેબમાં ખોલો">
+<!ENTITY cmd.open_tab.label              "નવી ટૅબમાં ખોલો">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "બધું ટૅબમાં ખોલો">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
