@@ -37,7 +37,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading மோசில்லா பையர்பாக்ஸ்
+#define firefox_heading மோசில்லா பயர்பாக்ஸ்
 
 
 # LOCALIZATION NOTE (firefox_help):

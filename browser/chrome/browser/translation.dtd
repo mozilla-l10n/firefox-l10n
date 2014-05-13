@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "இடத்தில் இந்த பக்கம்">
+<!ENTITY translation.translateThisPage.label    "இந்த பக்கத்தை மொழிபெயர்க்கவா?">
+<!ENTITY translation.translate.button           "மொழிபெயர்">
+<!ENTITY translation.notNow.button              "இப்போது வேண்டாம்">
 
-
-
+<!ENTITY translation.translatingContent.label   "பக்கத்தை மொழிபெயர்க்கிறது...">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "இலிருந்து இந்த பக்கம் மொழிபெயர்க்கப்பட்டது">
 <!ENTITY translation.translatedTo.label         "முடிவு">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "அசலை காண்பி">
+<!ENTITY translation.showTranslation.button     "மொழிபெயர்ப்பை காண்பி">
 
-
+<!ENTITY translation.errorTranslating.label     "இந்த பக்கத்தை மொழிபெயர்ப்பதில் பிழை.">
 <!ENTITY translation.tryAgain.button            "மீண்டும் முயற்சிக்கவும்">
 
 <!ENTITY translation.options.menu               "விருப்பங்கள்">
