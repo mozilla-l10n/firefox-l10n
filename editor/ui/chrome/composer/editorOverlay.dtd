@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Vložit jako citaci">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Najít/nahradit…">
+<!ENTITY findBarCmd.label "Najít…">
+<!ENTITY findReplaceCmd.label "Najít a nahradit…">
 <!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matematika…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znaky a symboly…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Zalomení pod obrázkem">
