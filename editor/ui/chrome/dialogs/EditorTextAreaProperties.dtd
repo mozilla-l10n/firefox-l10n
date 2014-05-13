@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "નિષ્ક્રિય કરેલ">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "ટેબ અનુક્રમ:">
+<!ENTITY TextAreaTabIndex.label "ટૅબ અનુક્રમ:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "વાપરવાની કી:">
 <!ENTITY TextAreaAccessKey.accessKey "K">

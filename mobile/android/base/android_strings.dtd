@@ -49,7 +49,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ટૅબ">
-<!ENTITY new_tab_opened "નવી ટેબ ખૂલી">
+<!ENTITY new_tab_opened "નવી ટૅબ ખૂલી">
 <!ENTITY settings "સુયોજનો">
 <!ENTITY settings_title "સુયોજનો">
 <!ENTITY pref_category_advanced "અદ્યતન">
@@ -100,10 +100,10 @@
 <!ENTITY pref_cookies_accept_all "સક્રિય કરેલ">
 <!ENTITY pref_cookies_not_accept_foreign "સક્રિય કરેલ, ત્રીજી વ્યક્તિને નહિ સમાવીને">
 <!ENTITY pref_cookies_disabled "નિષ્ક્રિય કરેલ">
-<!ENTITY pref_donottrack_menu "ટ્રેકીંગ">
-<!ENTITY pref_donottrack_disallow_tracking "સાઇટોને કહો કે મારે ટ્રેક થવું નથી">
-<!ENTITY pref_donottrack_allow_tracking "સાઇટોને કહો કે મારે ટ્રેક થવું છે">
-<!ENTITY pref_donottrack_no_pref "સાઇટોને મારી ટ્રેકીંગ પસંદગીઓ વિશે કંઇ કહેશો નહિ">
+<!ENTITY pref_donottrack_menu "ટ્રૅકીંગ">
+<!ENTITY pref_donottrack_disallow_tracking "સાઇટોને કહો કે મારે ટ્રૅક થવું નથી">
+<!ENTITY pref_donottrack_allow_tracking "સાઇટોને કહો કે મારે ટ્રૅક થવું છે">
+<!ENTITY pref_donottrack_no_pref "સાઇટોને મારી ટ્રૅકીંગ પસંદગીઓ વિશે કંઇ કહેશો નહિ">
 <!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
 <!ENTITY pref_char_encoding_off "મેનુ બતાવશો નહિં">
@@ -134,7 +134,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "ઝડપી કેસરી શિયાળ તમારી આશાઓ ઉપર વધુ ઝડપથી, વધુ નમ્રતાથી અને વધુ સુરક્ષા સાથે કૂદે છે. બિન-ફાયદાકીય સંસ્થા તરીકે, અમે તમારા વતી કોઇપણ દબાણ હેઠળ કામ કર્યા વિના સંશોધન કરવા માટે મુક્ત છીએ. એનો અર્થ એ થાય કે તમારા માટે શ્રેષ્ઠ અનુભવ અને વેબ માટે તેજસ્વી ભવિષ્ય.">
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
 <!ENTITY pref_show_product_announcements "પ્રોડક્ટ જાહેરાતો બતાવો">
-<!ENTITY pref_sync "સુમેળ">
+<!ENTITY pref_sync "સીંક">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
 <!ENTITY pref_import_android "Android માંથી આયાત કરો">
 <!ENTITY pref_private_data_history2 "બ્રાઉઝીંગ ઇતિહાસ">
@@ -200,12 +200,12 @@ size. -->
 <!ENTITY desktop_mode "ડૅસ્કટોપ સાઇટની અરજી">
 <!ENTITY page "પાનું">
 <!ENTITY tools "સાધનો">
-<!ENTITY new_tab "નવી ટેબ">
+<!ENTITY new_tab "નવી ટૅબ">
 <!ENTITY new_private_tab "નવી ખાનગી ટૅબ">
 <!ENTITY close_all_tabs "બધી ટૅબ બંધ કરો">
 <!ENTITY tabs_normal "ટૅબ">
 <!ENTITY tabs_private "ખાનગી">
-<!ENTITY tabs_synced "સુમેળ થયેલ">
+<!ENTITY tabs_synced "સીંક થયેલ">
 <!ENTITY set_image_fail "ચિત્ર ગોઠવવામાં અસમર્થ">
 <!ENTITY set_image_chooser_title "ચિત્ર આ પ્રમાણે ગોઠવો">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -220,7 +220,7 @@ size. -->
 <!ENTITY media_play "વગાડો">
 <!ENTITY media_pause "અટકાવો">
 <!ENTITY media_stop "બંધ">
-<!ENTITY contextmenu_open_new_tab "નવી ટેબમાં ખોલો">
+<!ENTITY contextmenu_open_new_tab "નવી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_open_in_reader "વાંચકમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
@@ -275,8 +275,8 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "સાઇટ ઉમેરો">
-<!ENTITY home_history_title "ઈતિહાસ">
-<!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અંહિ બતાવે છે.">
+<!ENTITY home_history_title "ઇતિહાસ">
+<!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
 <!ENTITY home_last_tabs_title "છેલ્લા સમયની ટૅબ">
 <!ENTITY home_last_tabs_open "છેલ્લા સમયની બધી ટૅબ ખોલો">
 <!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં ખોલો.">

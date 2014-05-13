@@ -33,7 +33,7 @@
 <!ENTITY InputReadOnly.accesskey "R">
 <!ENTITY InputDisabled.label "નિષ્ક્રિય કરેલ">
 <!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "ટેબ અનુક્રમ:">
+<!ENTITY tabIndex.label "ટૅબ અનુક્રમ:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "ક્ષેત્ર માપ:">
 <!ENTITY TextSize.accesskey "F">

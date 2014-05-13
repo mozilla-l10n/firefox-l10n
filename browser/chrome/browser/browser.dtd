@@ -12,7 +12,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "નવી ટેબ">
+<!ENTITY tabCmd.label "નવી ટૅબ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "સ્થાન ખોલો...">
@@ -95,7 +95,7 @@
 <!ENTITY bookmarksButton.label          "બુકમાર્કો">
 <!ENTITY bookmarksButton.tooltip        "તમારી બુકમાર્કો દર્શાવો">
 
-<!ENTITY historyButton.label            "ઈતિહાસ">
+<!ENTITY historyButton.label            "ઇતિહાસ">
 <!ENTITY historyButton.tooltip          "તમે છેલ્લે જુએલા પાનાંઓ દર્શાવો">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
@@ -161,7 +161,7 @@
 <!ENTITY viewCustomizeToolbar.accesskey     "C"> 
 
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
-<!ENTITY historyMenu.label "ઈતિહાસ">
+<!ENTITY historyMenu.label "ઇતિહાસ">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ">
 
@@ -200,11 +200,11 @@
 
 <!ENTITY openLinkCmd.label            "નવી વિન્ડોમાં કડી ખોલો">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkCmdInTab.label       "નવી ટેબમાં કડી ખોલો">
+<!ENTITY openLinkCmdInTab.label       "નવી ટૅબમાં કડી ખોલો">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "નવી વિન્ડોમાં ચોકઠું ખોલો">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openFrameCmdInTab.label      "નવી ટેબમાં ચોકઠું ખોલો">
+<!ENTITY openFrameCmdInTab.label      "નવી ટૅબમાં ચોકઠું ખોલો">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "માત્ર આ ચોકઠું જ બતાવો">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -339,7 +339,7 @@
 
 <!ENTITY identity.moreInfoLinkText "મને આ વેબસાઈટ વિશે વધુ કહો...">
 
-<!ENTITY showAllHistoryCmd2.label "બધો ઈતિહાસ બતાવો…">
+<!ENTITY showAllHistoryCmd2.label "બધો ઇતિહાસ બતાવો…">
 
 <!ENTITY fullZoomToggleCmd.label        "માત્ર લખાણ નાનુંમોટું કરો">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -406,7 +406,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
-<!ENTITY newTabButton.tooltip           "નવી ટેબ ખોલો">
+<!ENTITY newTabButton.tooltip           "નવી ટૅબ ખોલો">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addonBarCmd.label "ઍડ-ઑન પટ્ટી">
 <!ENTITY addons.commandkey            "A">
@@ -459,12 +459,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY showAllTabsCmd.label "બધા ટૅબને બતાવો">
-<!ENTITY syncBrand.shortName.label    "સુમેળ">
+<!ENTITY syncBrand.shortName.label    "સીંક">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; સુયોજિત કરો…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncSyncNowItem.label        "હવે સુમેળ કરો">
-<!ENTITY syncToolbarButton.label      "સુમેળ">
+<!ENTITY syncSyncNowItem.label        "હવે સીંક કરો">
+<!ENTITY syncToolbarButton.label      "સીંક">
 <!ENTITY tabGroupsButton.label        "ટૅબ જૂથો">
 <!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબનું જૂથ બનાવો">
 <!ENTITY tabView.commandkey           "e">
@@ -500,8 +500,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webDeveloperMenu.accesskey   "W">
 <!ENTITY webDeveloperMenu.label       "વેબ ડેવલપર">
 
-<!ENTITY backForwardButtonMenu.tooltip "ઈતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો">
-<!ENTITY backForwardButtonMenuMac.tooltip "ઈતિહાસ બતાવવા માટે નીચે ખેંચો">
+<!ENTITY backForwardButtonMenu.tooltip "ઇતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો">
+<!ENTITY backForwardButtonMenuMac.tooltip "ઇતિહાસ બતાવવા માટે નીચે ખેંચો">
 
 <!ENTITY inspectContextMenu.accesskey "Q">
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
@@ -561,7 +561,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkInPrivateWindowCmd.label "કડીને નવી ખાનગી વિન્ડોમાં ખોલો">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  pinTab.label                       "ટેબને જોડો">
+<!ENTITY  pinTab.label                       "ટૅબને જોડો">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY playPluginCmd.label          "આ પ્લગઇન સક્રિય કરો">
 <!ENTITY remoteWebConsoleCmd.label    "દૂરસ્થ વેબ કન્સોલ">
@@ -578,7 +578,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "બાજુપટ્ટી બતાવો">
 <!ENTITY syncTabsMenu2.label     "અન્ટ ઉપકરણોમાંથી ટૅબો">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  unpinTab.label                     "ટેબ છોડો">
+<!ENTITY  unpinTab.label                     "ટૅબ છોડો">
 <!ENTITY urlbar.placeholder2          "સરનામું શોધો અથવા દાખલ કરો">
 <!ENTITY webrtcIndicatorButton.label "કૅમેરા / માઇક્રોફોન વપરાશ">
 <!ENTITY webrtcIndicatorButton.tooltip "તમારા કૅમેરા કે માઇક્રોફોન સાથે તમે વહેંચેલી સાઇટો દર્શાવે છે">

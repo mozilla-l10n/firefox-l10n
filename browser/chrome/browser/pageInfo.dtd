@@ -71,7 +71,7 @@
 <!ENTITY  securityView.identity.domain   "વેબ સાઈટ: ">
 <!ENTITY  securityView.identity.verifier "ચકાસનાર: ">
 
-<!ENTITY  securityView.privacy.header                   "ખાનગીપણું &amp; ઈતિહાસ">
+<!ENTITY  securityView.privacy.header                   "ખાનગીપણું &amp; ઇતિહાસ">
 <!ENTITY  securityView.privacy.history                  "શું મેં આ વેબસાઈટની આજે પહેલાં મુલાકાત લીધી છે?">
 <!ENTITY  securityView.privacy.cookies                  "શું આ વેબ સાઈટ મારા કમ્પ્યૂટર પર જાણકારી (કુકીઓ) સંગ્રહી રહી છે?">
 <!ENTITY  securityView.privacy.viewCookies              "કુકીઓ જુઓ">

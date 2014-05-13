@@ -16,7 +16,7 @@
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "કિંમત:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "ટેબ અનુક્રમ:">
+<!ENTITY tabIndex.label "ટૅબ અનુક્રમ:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "નિષ્ક્રિય કરેલ">
 <!ENTITY ButtonDisabled.accesskey "D">
