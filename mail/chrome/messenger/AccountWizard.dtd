@@ -9,11 +9,11 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "સંદેશાઓ મેળવવા માટે, તમારે પ્રથમ મેઈલ અથવા સમાચાર જૂથ ખાતુ સુયોજિત કરવાની જરુર છે.">
+<!ENTITY accountSetupInfo.label "સંદેશાઓ મેળવવા માટે, તમારે પ્રથમ મેલ અથવા સમાચાર જૂથ ખાતુ સુયોજિત કરવાની જરુર છે.">
 <!ENTITY accountTypeTitle.label "નવું ખાતા સુયોજન">
-<!ENTITY accountTypeDesc.label "આ વિઝાર્ડ મેઈલ અથવા સમાચાર જૂથ સુયોજિત કરવા માટે જરુરી જાણકારીનો સંગ્રહ કરશે. જો તમે માંગણી થયેલ જાણકારી જાણતા નહિં હોય, તો મહેરબાની કરીને તમારા સિસ્ટમ સંચાલક અથવા ઈન્ટરનેટ સેવા પૂરી પાડનારનો સંપર્ક કરો.">
+<!ENTITY accountTypeDesc.label "આ વિઝાર્ડ મેલ અથવા સમાચાર જૂથ સુયોજિત કરવા માટે જરુરી જાણકારીનો સંગ્રહ કરશે. જો તમે માંગણી થયેલ જાણકારી જાણતા નહિં હોય, તો મહેરબાની કરીને તમારા સિસ્ટમ સંચાલક અથવા ઈન્ટરનેટ સેવા પૂરી પાડનારનો સંપર્ક કરો.">
 <!ENTITY accountTypeDirections.label "તમે સુયોજિત કરવા માંગતા હોય તેવા ખાતાનો પ્રકાર પસંદ કરો:">
-<!ENTITY accountTypeMail.label "ઈમેઈલ ખાતુ">
+<!ENTITY accountTypeMail.label "ઈમેલ ખાતુ">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "સમાચાર જૂથ ખાતુ">
 <!ENTITY accountTypeNews.accesskey "w">
@@ -33,9 +33,9 @@
 <!ENTITY fullnameLabel.label "તમારું નામ:">
 <!ENTITY fullnameLabel.accesskey "Y">
 
-<!ENTITY emailLabel.label "ઈમેઈલ સરનામુ:">
+<!ENTITY emailLabel.label "ઈમેલ સરનામુ:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "તમારુ ઈમેઈલ સરનામુ દાખલ કરો; આ સરનામુ છે કે જેનો બીજા તમને ઈમેઈલ મોકલવા માટે ઉપયોગ કરશે">
+<!ENTITY emailDesc.label "તમારુ ઈમેલ સરનામુ દાખલ કરો; આ સરનામુ છે કે જેનો બીજા તમને ઈમેલ મોકલવા માટે ઉપયોગ કરશે">
 <!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
 <!ENTITY emailExample.label "(ઉગાહરણ તરીકે: user@example.net).">
 
@@ -77,17 +77,17 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "તમારું હાલનું આઉટગોઈંગ સર્વર (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, સંગ્રહાશે. તમે મેઈલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
+<!ENTITY haveSmtp1.suffix "&quot;, સંગ્રહાશે. તમે મેલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "વપરાશકર્તા સુયોજનો">
-<!ENTITY usernameDesc.label "તમારા ઈમેઈલ પૂરો પાડનાર દ્વારા આપવામાં આવેલ ઈનકમીંગ વપરાશકર્તા નામ દાખલ કરો">
+<!ENTITY usernameDesc.label "તમારા ઈમેલ પૂરો પાડનાર દ્વારા આપવામાં આવેલ ઈનકમીંગ વપરાશકર્તા નામ દાખલ કરો">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(ઉદાહરણ તરીકે, &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "ઈનકમીંગ વપરાશકર્તા નામ:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "તમને ઈમેઈલ પૂરો પાડનાર દ્વારા આપવામાં આવેલ આઉટગોઈંગ વપરાશકર્તા નામ દાખલ કરો (આ મોટે ભાગે ઈનકમીંગ વપરાશકર્તા નામ જ હોય છે).">
+<!ENTITY usernameSmtpDesc.label "તમને ઈમેલ પૂરો પાડનાર દ્વારા આપવામાં આવેલ આઉટગોઈંગ વપરાશકર્તા નામ દાખલ કરો (આ મોટે ભાગે ઈનકમીંગ વપરાશકર્તા નામ જ હોય છે).">
 <!ENTITY usernameSmtpLabel.label "આઉટગોઈંગ વપરાશકર્તા નામ:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -95,13 +95,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "તમારું હાલનું આઉટગોઈંગ (SMTP) વપરાશકર્તા નામ, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, વપરાશે. તમે મેઈલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
+<!ENTITY haveSmtp2.suffix "&quot;, વપરાશે. તમે મેલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "તમારું આઉટગોઈંગ (SMTP) સર્વર, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, એ તમારા ઈનકમીંગ સર્વર જેવું જ છે, તમારું ઈનકમીંગ વપરાશકર્તા નામ તેને વાપરવા માટે વપરાશે. તમે મેઈલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
+<!ENTITY haveSmtp3.suffix "&quot;, એ તમારા ઈનકમીંગ સર્વર જેવું જ છે, તમારું ઈનકમીંગ વપરાશકર્તા નામ તેને વાપરવા માટે વપરાશે. તમે મેલ &amp; સમાચાર જૂથો ખાતા સુયોજનોને ફેરફાર કરો મેનુમાંથી પસંદ કરીને આઉટગોઈંગ સર્વર સુયોજનો સુધારી શકો છો.">
 
 <!-- Entities for Account name page -->
 
@@ -121,6 +121,6 @@
 <!ENTITY smtpServerNamePrefix.label "આઉટગોઈંગ સર્વર નામ (SMTP):">
 <!ENTITY newsServerNamePrefix.label "સમાચાર સર્વર નામ (NNTP):">
 <!ENTITY downloadOnLogin.label "સંદેશાઓ હમણાં ડાઉનલોડ કરો">
-<!ENTITY deferStorageDesc.label "આ ખાતાના તેની પોતાની ડિરેક્ટરીમાં જ મેઈલ સંગ્રહવા માટે ચકાસણીબોક્સની ચકાસણી દૂર કરો. આ ખાતાને ઉચ્ચ-સ્તરમાં દેખાતું ખાતું બનાવશે. નહિંતર, તે ઈનબોક્સ ખાતાના સ્થાનિક ફોલ્ડરોનો ભાગ બનશે.">
-<!ENTITY deferStorage.label "ઉમદા ઈનબોક્સ વાપરો (સ્થાનિક ફોલ્ડરોમાં મેઈલ સંગ્રહો)">
+<!ENTITY deferStorageDesc.label "આ ખાતાના તેની પોતાની ડિરેક્ટરીમાં જ મેલ સંગ્રહવા માટે ચકાસણીબોક્સની ચકાસણી દૂર કરો. આ ખાતાને ઉચ્ચ-સ્તરમાં દેખાતું ખાતું બનાવશે. નહિંતર, તે ઈનબોક્સ ખાતાના સ્થાનિક ફોલ્ડરોનો ભાગ બનશે.">
+<!ENTITY deferStorage.label "ઉમદા ઈનબોક્સ વાપરો (સ્થાનિક ફોલ્ડરોમાં મેલ સંગ્રહો)">
 <!ENTITY clickFinish.label "આ સુયોજનોનો સંગ્રહ કરવા માટે પૂર્ણ કરો પર ક્લિક કરો અને ખાતા વિઝાર્ડમાંથી બહાર નીકળો.">

@@ -46,7 +46,7 @@
 <!ENTITY cellSelectPrevious.label         "પહેલાનું">
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "પસંદગી બદલતાં પહેલા ફેરફારો લાગુ પાડો">
-<!ENTITY cellKeepCurrentData.label        "વર્તમાન સુયોજનો સાચવી રાખો">
+<!ENTITY cellKeepCurrentData.label        "વર્તમાન સેટીંગ સાચવી રાખો">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
 <!ENTITY applyBeforeChange1.label         "વર્તમાન ફેરફારો લાગુ પડાશે">
 <!ENTITY applyBeforeChange2.label         "પસંદગી બદલતા પહેલા.">

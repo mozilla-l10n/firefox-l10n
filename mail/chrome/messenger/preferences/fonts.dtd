@@ -70,12 +70,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "જતો મેઈલ:">
+<!ENTITY sendDefaultCharset.label         "જતો મેલ:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label				    "અક્ષર સંગ્રહપદ્ધતિઓ">
-<!ENTITY composingDescription.label       "મેઈલ મોકલવા અને મેળવવા માટે મૂળભૂત અક્ષર સંગ્રહપદ્ધતિઓ સુયોજિત કરો">
+<!ENTITY composingDescription.label       "મેલ મોકલવા અને મેળવવા માટે મૂળભૂત અક્ષર સંગ્રહપદ્ધતિઓ સુયોજિત કરો">
 
-<!ENTITY viewDefaultCharsetList.label     "આવતો મેઈલ:">
+<!ENTITY viewDefaultCharsetList.label     "આવતો મેલ:">
 <!ENTITY viewDefaultCharsetList.accesskey	"I">
 <!ENTITY forceCharsetOverride.label       "આવતા બધા સંદેશાઓ માટે મૂળભૂત અક્ષર સંગ્રપદ્ધતિઓ લાગુ પાડો">
 <!ENTITY forceCharsetOverride.accesskey   "A">

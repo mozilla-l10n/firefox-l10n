@@ -260,7 +260,7 @@
 <!ENTITY copyImageContentsCmd.label   "ચિત્રની  નકલ કરો">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 
-<!ENTITY copyEmailCmd.label           "ઈમેઈલ સરનામાની નકલ કરો">
+<!ENTITY copyEmailCmd.label           "ઈમેલ સરનામાની નકલ કરો">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "આ ચોકઠું">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -306,7 +306,7 @@
 <!ENTITY pageStylePersistentOnly.label "મૂળભૂત પાનાં શૈલી">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "આ વેબ સાઈટ માટે પોપઅપ બ્લોકીંગ સુયોજનો બદલો">
+<!ENTITY pageReportIcon.tooltip            "આ વેબ સાઈટ માટે પોપઅપ બ્લોકીંગ સેટીંગ બદલો">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -531,13 +531,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "ઇમેઇલ ઓડિયો…">
+<!ENTITY emailAudioCmd.label          "ઇમેલ ઓડિયો…">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailImageCmd.label          "ઇમેઇલ ઇમેજ…">
+<!ENTITY emailImageCmd.label          "ઇમેલ ઇમેજ…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY emailPageCmd.label           "ઇમેઇલ કડી…">
+<!ENTITY emailPageCmd.label           "ઇમેલ કડી…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "ઇમેઇલ વીડિયો…">
+<!ENTITY emailVideoCmd.label          "ઇમેલ વીડિયો…">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY social.notLoggedIn.label   "પ્રવેશેલ નથી">
 
@@ -610,7 +610,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY shareSelectCmd.label "પસંદગી વહેંચો">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "આ વિડિયોને વહેંચો">
-<!ENTITY social.activated.description "<label/> માંથી સેવાઓને સક્રિય કરી દેવામાં આવ્યુ છે. તમે <label class='text-link'>ઍડ-ઓન સંચાલક</label> માં સેવાઓ માટે તમારાં સુયોજનોને બદલી શકો છો.">
+<!ENTITY social.activated.description "<label/> માંથી સેવાઓને સક્રિય કરી દેવામાં આવ્યુ છે. તમે <label class='text-link'>ઍડ-ઓન સંચાલક</label> માં સેવાઓ માટે તમારાં સેટીંગને બદલી શકો છો.">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.activated.undo.label "અરે, આને ફરી પાછુ લાવો!">
 <!ENTITY social.closeNotificationItem.label "અત્યારે નહિં">

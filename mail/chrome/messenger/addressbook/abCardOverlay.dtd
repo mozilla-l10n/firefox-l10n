@@ -37,9 +37,9 @@
 <!ENTITY NickName.accesskey             "N">
 
 <!ENTITY Internet.box                   "ઈન્ટરનેટ">
-<!ENTITY PrimaryEmail.label             "ઈમેઈલ:">
+<!ENTITY PrimaryEmail.label             "ઈમેલ:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "વધારાના ઈમેઈલ:">
+<!ENTITY SecondEmail.label              "વધારાના ઈમેલ:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "આ રીતે બંધારણ ઘડાયેલ સંદેશાઓને મેળવવાનું પસંદ કરે છે:">
 <!ENTITY PreferMailFormat.accesskey     "r">
@@ -49,7 +49,7 @@
 <!ENTITY ScreenName.label               "સ્ક્રીન નામ:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "HTML મેઈલમાં દૂરસ્થ ચિત્રોને પરવાનગી આપો.">
+<!ENTITY allowRemoteContent.label       "HTML મેલમાં દૂરસ્થ ચિત્રોને પરવાનગી આપો.">
 <!ENTITY allowRemoteContent.accesskey   "g">
 
 <!ENTITY Phones.box                     "ફોન">

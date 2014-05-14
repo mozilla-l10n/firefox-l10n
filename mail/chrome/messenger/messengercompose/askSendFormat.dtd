@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "HTML મેઈલ પ્રશ્ન">
+<!ENTITY windowTitle.label "HTML મેલ પ્રશ્ન">
 
-<!ENTITY recipient.label "અમુક મેળવનારાઓ HTML મેઈલ મેળવવા માટે સમર્થ નથી એ રીતે યાદી થયેલા છે.">
+<!ENTITY recipient.label "અમુક મેળવનારાઓ HTML મેલ મેળવવા માટે સમર્થ નથી એ રીતે યાદી થયેલા છે.">
 
 <!ENTITY convertibleDefault.label "">
 <!ENTITY convertibleYes.label "તમારો સંદેશો સાદા લખાણમાં જાણકારીના ખોવાયા વિના ફેરવી શકાશે.">

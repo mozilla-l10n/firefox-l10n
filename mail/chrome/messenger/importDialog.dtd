@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY importDialog.windowTitle "આયાત">
-<!ENTITY importDialog.mailTitle   "મેઈલ">
+<!ENTITY importDialog.mailTitle   "મેલ">
 <!ENTITY importDialog.addressbookTitle "સરનામા પુસ્તિકાઓ">
 <!ENTITY importDialog.settingsTitle "સુયોજનો">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; મેઈલ આયાત વિઝાર્ડ">
-<!ENTITY importDesc.label         "અન્ય કાર્યક્રમોમાંથી મેઈલ, સરનામા પુસ્તિકાઓ અને સુયોજનો આયાત કરો">
+<!ENTITY importTitle.label        "&brandShortName; મેલ આયાત વિઝાર્ડ">
+<!ENTITY importDesc.label         "અન્ય કાર્યક્રમોમાંથી મેલ, સરનામા પુસ્તિકાઓ અને સુયોજનો આયાત કરો">
 
-<!ENTITY importDescription.label  "આ વિઝાર્ડ અન્ય મેઈલ કાર્યક્રમો અને સામાન્ય સરનામા પુસ્તિકા બંધારણોમાંથી મેઈલ સંદેશાઓ, સરનામા પુસ્તિકા પ્રવેશો, અને/અથવા પસંદગીઓ &brandShortName; મેઈલમાં આયાત કરે છે.">
-<!ENTITY importDescription2.label "એકવાર જ્યારે તે આયાત થઈ જાય, ત્યારે તમે તેમને &brandShortName; મેઈલ અને/અથવા સરનામા પુસ્તિકામાંથી આયાત કરવા સમર્થ હશો.">
+<!ENTITY importDescription.label  "આ વિઝાર્ડ અન્ય મેલ કાર્યક્રમો અને સામાન્ય સરનામા પુસ્તિકા બંધારણોમાંથી મેલ સંદેશાઓ, સરનામા પુસ્તિકા પ્રવેશો, અને/અથવા પસંદગીઓ &brandShortName; મેલમાં આયાત કરે છે.">
+<!ENTITY importDescription2.label "એકવાર જ્યારે તે આયાત થઈ જાય, ત્યારે તમે તેમને &brandShortName; મેલ અને/અથવા સરનામા પુસ્તિકામાંથી આયાત કરવા સમર્થ હશો.">
 
 <!ENTITY selectDescription.label  "કાર્યક્રમ પસંદ કરો કે જેમાંથી તમે આયાત કરવા માંગો છો:">
 
@@ -28,8 +28,8 @@
 <!ENTITY title.label              "શીર્ષક">
 <!ENTITY processing.label         "આયાત કરી રહ્યા છીએ...">
 
-<!ENTITY FieldDiscInputText1.label  "નેટસ્કેપ સંદેશાવાહક 4.x પાસે દરેક કાર્ડ માટે એક મેઈલિંગ સરનામું છે, જ્યારે &brandShortName; પાસે બે છે (ઘર અને કાર્યસ્થાન).">
-<!ENTITY FieldDiscInputText2.label  "વર્ગ પસંદ કરો કે જેમાં તમે આયાત થયેલ મેઈલના સરનામાઓ સંગ્રહ કરવા માંગો છો:">
+<!ENTITY FieldDiscInputText1.label  "નેટસ્કેપ સંદેશાવાહક 4.x પાસે દરેક કાર્ડ માટે એક મેલિંગ સરનામું છે, જ્યારે &brandShortName; પાસે બે છે (ઘર અને કાર્યસ્થાન).">
+<!ENTITY FieldDiscInputText2.label  "વર્ગ પસંદ કરો કે જેમાં તમે આયાત થયેલ મેલના સરનામાઓ સંગ્રહ કરવા માંગો છો:">
 <!ENTITY FieldDiscWarning.label  "પસંદિત સરનામા પુસ્તિકાના બધા પ્રવેશો માટે આ વર્ગ વપરાશે: ">
 <!ENTITY importDialog.homeTitle  "ઘર">
 <!ENTITY importDialog.workTitle  "કાર્યસ્થાન">

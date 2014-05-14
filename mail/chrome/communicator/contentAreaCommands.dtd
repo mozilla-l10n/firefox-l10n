@@ -80,7 +80,7 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY metadataCmd.label            "ગુણધર્મો">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "ઈમેઈલ સરનામાની નકલ કરો">
+<!ENTITY copyEmailCmd.label           "ઈમેલ સરનામાની નકલ કરો">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY pasteCmd.label               "ચોંટાડો">
 <!ENTITY pasteCmd.accesskey           "P">

@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY startpage.welcome "&brandFullName; માં સ્વાગત છે!">
-<!ENTITY startpage.intro "&brandFullName; એ શક્તિશાળી, ઓપન-સોર્સ મેઈલ અને સમાચાર ક્લાઈન્ટ છે.">
+<!ENTITY startpage.intro "&brandFullName; એ શક્તિશાળી, ઓપન-સોર્સ મેલ અને સમાચાર ક્લાઈન્ટ છે.">
 
 <!ENTITY startpage.features "લક્ષણો">
 
-<!ENTITY startpage.junkControl "એડેપ્ટીવ જંક મેઈલ નિયંત્રણો">
+<!ENTITY startpage.junkControl "એડેપ્ટીવ જંક મેલ નિયંત્રણો">
 <!ENTITY startpage.rssReader "RSS વાંચનાર">
 <!ENTITY startpage.globalInbox "વૈશ્વિક ઈનબોક્સ આધાર">
 <!ENTITY startpage.searchFolders "સંગ્રહાયેલ શોધ ફોલ્ડરો">

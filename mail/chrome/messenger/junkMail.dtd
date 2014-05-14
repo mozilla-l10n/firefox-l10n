@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "બગડેલા મેઈલ નિયંત્રણો">
-<!ENTITY mainDescription.label "&brandShortName; પાસે બગડેલા મેઈલ, અથવા ખરાબ મેઈલ શોધવા માટે ઘણા માર્ગો છે. આ નિયંત્રણો આવતા સંદેશાઓને ઉકેલી શકે છે અને તેઓને ઓળખી શકે છે કે જેઓ મોટે ભાગે બગડેલ મેઈલ જેવા હોય છે. બગડેલું ચિહ્ન પ્રદર્શિત થાય છે જો સંદેશો બગડેલા મેઈલ તરીકે ઓળખાયેલ હોય.">
+<!ENTITY window.title "બગડેલા મેલ નિયંત્રણો">
+<!ENTITY mainDescription.label "&brandShortName; પાસે બગડેલા મેલ, અથવા ખરાબ મેલ શોધવા માટે ઘણા માર્ગો છે. આ નિયંત્રણો આવતા સંદેશાઓને ઉકેલી શકે છે અને તેઓને ઓળખી શકે છે કે જેઓ મોટે ભાગે બગડેલ મેલ જેવા હોય છે. બગડેલું ચિહ્ન પ્રદર્શિત થાય છે જો સંદેશો બગડેલા મેલ તરીકે ઓળખાયેલ હોય.">
 
 <!-- Tab titles -->
 <!ENTITY settingsTab.label "સુયોજનો">
 <!ENTITY adaptiveTab.label "એડેપ્ટીવ ગાળક">
 
 <!-- Settings tab -->
-<!ENTITY move.label "આવતા સંદેશાઓ કે જે બગડેલા મેઈલ તરીકે ઓળખાયેલ હોય તેને આમાં ખસેડો:">
+<!ENTITY move.label "આવતા સંદેશાઓ કે જે બગડેલા મેલ તરીકે ઓળખાયેલ હોય તેને આમાં ખસેડો:">
 <!ENTITY otherFolder.label "અન્ય:">
 <!ENTITY junkFolderOn.label "&quot;Junk&quot; પર ફોલ્ડર:">
 <!ENTITY purge1.label "કરતાં જૂના સંદેશાઓને આપોઆપ કાઢી નાંખો">
@@ -25,16 +25,16 @@
 
 <!ENTITY account.label "માટેના બગડેલા સુયોજનો રૂપરેખાંકિત કરો:">
 <!ENTITY account.accesskey "C">
-<!ENTITY viewLog.label "બગડેલ મેઈલ લોગ">
+<!ENTITY viewLog.label "બગડેલ મેલ લોગ">
 <!ENTITY viewLog.accesskey "j">
 
-<!ENTITY loggingDescription.label "બગડેલ મેઈલ લોગ કરવાનું જુઓ અને રૂપરેખાંકિત કરો.">
+<!ENTITY loggingDescription.label "બગડેલ મેલ લોગ કરવાનું જુઓ અને રૂપરેખાંકિત કરો.">
 
 <!-- Adaptive Filter tab -->
 
 <!ENTITY adaptiveCaption.label "એડેપ્ટીવ ગાળક">
-<!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે બગડેલ સાધનપટ્ટી બટનની મદદથી બગડેલા મેઈલને ઓળખવા માટે  સંદેશાઓ બગડેલ છે કે નહિં એમ ચિહ્નિત કરવા માટે &brandShortName; ને પ્રથમ પ્રશિક્ષિત કરવાની જરૂર છે જ. તમારે બગડેલા અને નહિં બગડેલા એમ બંને સંદેશાઓ ઓળખવાની જરૂર છે.">
-<!ENTITY level.label "એડેપ્ટીવ બગડેલ મેઈલ શોધને સક્રિય કરો">
+<!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે બગડેલ સાધનપટ્ટી બટનની મદદથી બગડેલા મેલને ઓળખવા માટે  સંદેશાઓ બગડેલ છે કે નહિં એમ ચિહ્નિત કરવા માટે &brandShortName; ને પ્રથમ પ્રશિક્ષિત કરવાની જરૂર છે જ. તમારે બગડેલા અને નહિં બગડેલા એમ બંને સંદેશાઓ ઓળખવાની જરૂર છે.">
+<!ENTITY level.label "એડેપ્ટીવ બગડેલ મેલ શોધને સક્રિય કરો">
 <!ENTITY level.accesskey "E">
 
 <!ENTITY resetTrainingDescription.label "એડેપ્ટીવ ગાળક દ્વારા વપરાતી પ્રશિક્ષણ માહિતીને પુનઃસુયોજિત કરવામાં તમને ગાળક ફરીથી પ્રશિક્ષિત કરવાની જરૂર રહેશે:">
@@ -42,9 +42,9 @@
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- White List tab -->
-<!ENTITY whitelist.label "જો મોકલનાર મારી સરનામા પુસ્તિકામાં હોય તો સંદેશાઓને બગડેલા મેઈલ તરીકે ચિહ્નિત કરો નહિં:">
+<!ENTITY whitelist.label "જો મોકલનાર મારી સરનામા પુસ્તિકામાં હોય તો સંદેશાઓને બગડેલા મેલ તરીકે ચિહ્નિત કરો નહિં:">
 <!ENTITY whitelist.accesskey "D">
 
 <!-- Black List tab -->
-<!ENTITY ispHeaders.label "આના દ્વારા સુયોજિત થયેલ બગલેડ મેઈલ હેટરો પર વિશ્વાસ કરો: ">
+<!ENTITY ispHeaders.label "આના દ્વારા સુયોજિત થયેલ બગલેડ મેલ હેટરો પર વિશ્વાસ કરો: ">
 <!ENTITY ispHeaders.accesskey "T">

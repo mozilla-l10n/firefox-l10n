@@ -5,10 +5,10 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label         "પ્રકાશન પાનું">
-<!ENTITY windowTitleSettings.label "પ્રકાશન સુયોજનો">
+<!ENTITY windowTitleSettings.label "પ્રકાશન સેટીંગ">
 
 <!ENTITY publishTab.label         "પ્રકાશન કરો">
-<!ENTITY settingsTab.label        "સુયોજનો">
+<!ENTITY settingsTab.label        "સેટીંગ">
 
 <!ENTITY publishButton.label      "પ્રકાશન કરો">
 

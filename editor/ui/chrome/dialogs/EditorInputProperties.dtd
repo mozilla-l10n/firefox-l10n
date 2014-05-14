@@ -18,7 +18,7 @@
 <!ENTITY image.value "ઈમેજ">
 <!ENTITY button.value "બટન">
 
-<!ENTITY InputSettings.label "ક્ષેત્ર સુયોજનો">
+<!ENTITY InputSettings.label "ક્ષેત્ર સેટીંગ">
 <!ENTITY InputName.label "ક્ષેત્ર નામ:">
 <!ENTITY GroupName.label "જૂથ નામ:">
 <!ENTITY Name.accesskey "N">

@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "બગડેલ સુયોજનો">
-<!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે પ્રથમ &brandShortName; ને બગડેલ મેઈલ ઓળખવા માટે પ્રશિક્ષિત કરવું જ જોઈએ બગડેલ સાધનપટ્ટી બટનની મદદથી સંદેશો બગડેલ છે કે નહિં એમ ચિહ્નિત કરીને. તમારે બગડેલ હોય એવા અને નહિં બગડેલ હોય એવા બંને સંદેશાઓ ઓળખાવવા પડે.">
-<!ENTITY level.label "આ ખાતા માટે અનૂકુલનાત્મક બગડેલ મેઈલ નિયંત્રણો સક્રિય કરો">
+<!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે પ્રથમ &brandShortName; ને બગડેલ મેલ ઓળખવા માટે પ્રશિક્ષિત કરવું જ જોઈએ બગડેલ સાધનપટ્ટી બટનની મદદથી સંદેશો બગડેલ છે કે નહિં એમ ચિહ્નિત કરીને. તમારે બગડેલ હોય એવા અને નહિં બગડેલ હોય એવા બંને સંદેશાઓ ઓળખાવવા પડે.">
+<!ENTITY level.label "આ ખાતા માટે અનૂકુલનાત્મક બગડેલ મેલ નિયંત્રણો સક્રિય કરો">
 <!ENTITY level.accesskey "E">
 
 <!ENTITY move.label "નવા બગડેલ સંદેશાઓને આમાં ખસેડો:">
 <!ENTITY junkFolderOn.label "&quot;બગડેલ&quot; ફોલ્ડર પર:">
 <!ENTITY otherFolder.label "અન્ય:">
-<!ENTITY purge1.label "કરતાં જૂના બગડેલ મેઈલ આપોઆપ કાઢી નાંખો">
+<!ENTITY purge1.label "કરતાં જૂના બગડેલ મેલ આપોઆપ કાઢી નાંખો">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "દિવસો">
 
-<!ENTITY whitelist.label "જો મોકલનાર આમાં હોય તો મેઈલને બગડેલ એમ ચિહ્નિત કરો નહિં: ">
+<!ENTITY whitelist.label "જો મોકલનાર આમાં હોય તો મેલને બગડેલ એમ ચિહ્નિત કરો નહિં: ">
 <!ENTITY whitelist.accesskey "D">
 
-<!ENTITY ispHeaders.label "આના દ્વારા સુયોજિત થયેલ બગડેલ મેઈલ હેડરોનો વિશ્વાસ કરો: ">
+<!ENTITY ispHeaders.label "આના દ્વારા સુયોજિત થયેલ બગડેલ મેલ હેડરોનો વિશ્વાસ કરો: ">
 <!ENTITY ispHeaders.accesskey "T">

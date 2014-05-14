@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemDefaults.label              "સિસ્ટમ મૂળભૂતો">
-<!ENTITY alwaysCheckDefault.label          "શું &brandShortName; એ શરૂઆત કરવા પર મૂળભૂત મેઈલ ક્લાઈન્ટ છે તે જોવા માટે હંમેશા ચકાસો">
+<!ENTITY alwaysCheckDefault.label          "શું &brandShortName; એ શરૂઆત કરવા પર મૂળભૂત મેલ ક્લાઈન્ટ છે તે જોવા માટે હંમેશા ચકાસો">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
@@ -36,7 +36,7 @@
 <!ENTITY soundNotification1.caption       "ધ્વનિ">
 <!ENTITY play.label                       "વગાડો">
 <!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "નવા મેઈલ માટે મૂળભૂત સિસ્ટમ ધ્વનિ">
+<!ENTITY systemsound.label                "નવા મેલ માટે મૂળભૂત સિસ્ટમ ધ્વનિ">
 <!ENTITY systemsoundMac.label             "સિસ્ટમ ચેતવણી ધ્વનિ">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">

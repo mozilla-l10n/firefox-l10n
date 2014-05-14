@@ -49,7 +49,7 @@
 <!ENTITY wrapOutMsg.accesskey                 "l">
 <!ENTITY char.label                           "અક્ષરોમાં લપેટો">
 
-<!ENTITY emailCollectionPicker.label           "જતા ઈ-મેઈલ સંદેશાઓને આપોઆપ આમાં ઉમેેરો:">
+<!ENTITY emailCollectionPicker.label           "જતા ઈ-મેલ સંદેશાઓને આપોઆપ આમાં ઉમેેરો:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "સરનામા આપોઆપસમાપ્તિ">
 <!ENTITY autocompleteText.label                "જ્યારે સંદેશાઓને સરનામું આપી રહ્યા હોય, ત્યારે આમાં બંધબેસતાત પ્રવેશો માટે જુઓ:">

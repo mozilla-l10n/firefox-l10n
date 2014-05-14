@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "ઈમેઈલ"> 
+<!ENTITY emailSectionHdr.label        "ઈમેલ"> 
 <!ENTITY readMsgsLink.label           "સંદેશાઓ વાંચો"> 
 <!ENTITY composeMsgLink.label         "નવો સંદેશો લખો"> 
 
@@ -18,7 +18,7 @@
 <!ENTITY advFeaturesSectionHdr.label  "અદ્યતન લાક્ષણિકતાઓ"> 
 <!ENTITY searchMsgsLink.label         "શોધ સંદેશાઓ"> 
 <!ENTITY filtersLink.label            "સંદેશા ગાળકોની વ્યવસ્થા કરો">
-<!ENTITY junkSettings.label           "બગડેલ મેઈલ સુયોજનો">
+<!ENTITY junkSettings.label           "બગડેલ મેલ સુયોજનો">
 <!ENTITY offlineLink.label            "ઓફલાઈન સુયોજનો">
 
 <!ENTITY rssSectionHdr.label          "RSS સમાચારો &amp; બ્લોગો"> 

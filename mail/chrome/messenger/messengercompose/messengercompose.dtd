@@ -99,7 +99,7 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "સાધનપટ્ટીઓ"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "મેઈલ સાધનપટ્ટી">
+<!ENTITY showComposeToolbarCmd.label "મેલ સાધનપટ્ટી">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "સાધનપટ્ટીનું બંધારણ કરી રહ્યા છીએ">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
@@ -163,7 +163,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "સાધનો">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "મેઈલ &amp; સમાચાર જૂથો">
+<!ENTITY messengerCmd.label "મેલ &amp; સમાચાર જૂથો">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "સરનામા પુસ્તિકા">

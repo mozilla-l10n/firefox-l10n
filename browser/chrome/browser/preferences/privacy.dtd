@@ -32,10 +32,10 @@
 <!ENTITY  clearOnClose.label             "જ્યારે &brandShortName; બંધ થાય ત્યારે ઇતિહાસ સાફ કરો">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "સુયોજનો…">
+<!ENTITY  clearOnCloseSettings.label     "સેટીંગ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સુયોજનો વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -47,7 +47,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ઇતિહાસ યાદ રાખો">
 <!ENTITY  historyHeader.dontremember.label "ક્યારેય ઇતિહાસ યાદ રાખશો નહિં">
-<!ENTITY  historyHeader.custom.label       "ઇતિહાસ માટે વૈવિધ્યપૂર્ણ સુયોજનો વાપરો">
+<!ENTITY  historyHeader.custom.label       "ઇતિહાસ માટે વૈવિધ્યપૂર્ણ સેટીંગ વાપરો">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  locationBar.label             "સ્થાન પટ્ટી">

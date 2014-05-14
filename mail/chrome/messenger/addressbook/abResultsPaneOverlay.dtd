@@ -4,7 +4,7 @@
 
 <!ENTITY GeneratedName.label                   "નામ">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "ઈમેઈલ">
+<!ENTITY PrimaryEmail.label                    "ઈમેલ">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "સંસ્થા">
 <!ENTITY Company.accesskey                     "z">
@@ -12,7 +12,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "લાડકું નામ">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "વધારાના ઈમેઈલ">
+<!ENTITY SecondEmail.label                     "વધારાના ઈમેલ">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "વિભાગ">
 <!ENTITY Department.accesskey                  "r">
@@ -36,13 +36,13 @@
 <!ENTITY sortDescending.accesskey              "D">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "ના પ્રતિ ઈમેઈલ કમ્પોઝ કરો">
+<!ENTITY composeEmail.label                    "ના પ્રતિ ઈમેલ કમ્પોઝ કરો">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY deleteAddrBookCard.label              "કાઢી નાંખો">
 <!ENTITY deleteAddrBookCard.accesskey          "D">
 <!ENTITY newAddrBookCard.label                 "નવો કાર્ડ...">
 <!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "નવી મેઈલની યાદી...">
+<!ENTITY newAddrBookMailingList.label          "નવી મેલની યાદી...">
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "ગુણધર્મો">
 <!ENTITY addrBookCardProperties.accesskey      "P">

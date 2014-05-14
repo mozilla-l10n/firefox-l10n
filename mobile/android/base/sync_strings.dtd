@@ -40,7 +40,7 @@
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "સુયોજન સમાપ્ત">
 <!ENTITY sync.subtitle.success.label1 "તમારી માહિતી હવે પાશ્વભાગમાં ડાઉનલોડ થઇ રહી છે. તમે તમારા ખાતાની વ્યવસ્થા કરવા માટે, અથવા &brandShortName; ની મદદથી બ્રાઉઝ કરવા માટે સેટીંગમાં જઇ શકો.">
-<!ENTITY sync.settings.label "સુયોજનો">
+<!ENTITY sync.settings.label "સેટીંગ">
 <!ENTITY sync.subtitle.manage.label1 "તમારું &syncBrand.fullName.label; ખાતું પહેલાથી જ સેટઅપ થયેલું છે. તમે તમારા ખાતાની વ્યવસ્થા કરવા માટે , અથવા &brandShortName; લૉન્ચ કરવા માટે સેટીંગમાં જઇ શકો.">
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "મહેરબાની કરીને ફરી પ્રયાસ કરો.">
@@ -118,7 +118,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction "ઓછામાં ઓછું ૮ અક્ષરો હોવું જ જોઇએ">
 <!ENTITY fxaccount_create_account_year_of_birth "જન્મનું વર્ષ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "પ્રક્રિયા કરીને, હું &formatS1; અને&formatS2; ની Firefox ક્લાઉડ સેવાઓ સાથે સંમત છું.">
+<!ENTITY fxaccount_create_account_policy_text2 "પ્રક્રિયા કરીને, હું &formatS1; અને &formatS2; ની Firefox ક્લાઉડ સેવાઓ સાથે સંમત છું.">
 <!ENTITY fxaccount_create_account_button "આગળ">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "શું સીંક કરવું છે તે પસંદ કરો">
 <!ENTITY fxaccount_create_account_sign_in_instead "પહેલાથી જ ખાતું છે? પ્રવેશ કરો">

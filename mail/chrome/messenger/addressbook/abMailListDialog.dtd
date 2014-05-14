@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "મેઈલની યાદી">
+<!ENTITY mailListWindow.title           "મેલની યાદી">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "માં એડ-ઓન: ">
 
@@ -11,7 +11,7 @@
 <!ENTITY ListNickName.label             "લાડકા નામની યાદી: ">
 <!ENTITY ListDescription.label          "વર્ણન: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "ઈમેઈલ સરનામાઓને મેઈલની યાદીમાં ઉમેરવા માટે લખો:">
+<!ENTITY AddressTitle.label             "ઈમેલ સરનામાઓને મેલની યાદીમાં ઉમેરવા માટે લખો:">
 <!ENTITY RemoveButton.label             "દૂર કરો">
 <!ENTITY UpButton.label                 "ઉપર ખસેડો">
 <!ENTITY DownButton.label               "નીચે ખસેડો">
