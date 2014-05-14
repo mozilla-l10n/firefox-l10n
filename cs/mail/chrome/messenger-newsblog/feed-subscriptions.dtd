@@ -19,7 +19,7 @@
 <!ENTITY quickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
 <!ENTITY quickMode.accesskey "o">
 
-<!ENTITY autotagEnable.label         "Automaticky vytvořit štítky z názvu &lt;kategorie&gt; v kanálech>
+<!ENTITY autotagEnable.label         "Automaticky vytvořit štítky z názvu &lt;kategorie&gt; v kanálech">
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Přidávat předponu:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
