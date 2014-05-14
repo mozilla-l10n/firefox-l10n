@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "কাটা (t)">
+<!ENTITY cutCmd.label "কাট করুন (t)">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "অনুলিপি (C)">
+<!ENTITY copyCmd.label "কপি করুন (C)">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
+<!ENTITY pasteCmd.label "পেস্ট করুন (P)">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "পূর্বাবস্থায় ফেরানো (U)">
+<!ENTITY undoCmd.label "পূর্বাবস্থা (U)">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
+<!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন (A)">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "মুছে ফেলা (D)">
+<!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
 <!ENTITY deleteCmd.accesskey "D">
 
-<!ENTITY spellAddToDictionary.label "অভিধানে যোগ (o)">
+<!ENTITY spellAddToDictionary.label "অভিধানে যোগ করুন (o)">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellUndoAddToDictionary.label "অ্যাড টু ডিকসনারী এর পূর্বাবস্থায় ফিরুন">
+<!ENTITY spellUndoAddToDictionary.label "অভিধানে সংযোজন নাকচ করুন (n)">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "বানান পরীক্ষা করুন g">
+<!ENTITY spellCheckToggle.label "বানান পরীক্ষা করুন (g)">
 <!ENTITY spellCheckToggle.accesskey "g">
-<!ENTITY spellNoSuggestions.label "(কোন বানান পরামর্শ নেই)">
+<!ENTITY spellNoSuggestions.label "(প্রস্তাবিত বানান অনুপস্থিত)">
 <!ENTITY spellDictionaries.label "ভাষা (L)">
 <!ENTITY spellDictionaries.accesskey "L">

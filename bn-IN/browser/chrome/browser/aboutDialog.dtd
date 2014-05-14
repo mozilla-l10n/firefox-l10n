@@ -1,72 +1,72 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; সম্পর্কিত">
+<!ENTITY aboutDialog.title          "&brandFullName; পরিচিতি">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই C">
+<!ENTITY update.checkForUpdatesButton.label       "আপডেটের উপস্থিতি পরীক্ষা করুন C">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "হালনাগাদ করার জন্য পুনরায় চালু করা হবে R">
+<!ENTITY update.updateButton.label                "আপডেট করতে পুনরারম্ভ করুন R">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "হালানাগাদ প্রয়োগ… A">
+<!ENTITY update.applyButtonBillboard.label        "আপডেট প্রয়োগ করুন A… ">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; হচ্ছে পরীক্ষামূলক এবং সম্ভবত পরিবর্তনশীল।">
+<!ENTITY warningDesc.version        "&brandShortName; বর্তমানে পরীক্ষামূলক পর্যায়ে রয়েছে এবং স্থায়ী না হতে পারে।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "এটি স্বয়ংক্রিয়ভাবে কার্যকারীতা,হার্ডওয়ার,ব্যবহার এবং স্বনির্বাচনগুলোর তথ্য  vendorShortName  এর নিকটপ্রদান করে; যাতে brandShortName কে আরো ভালভাবে তৈরী করা যায়।">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName;-কে উন্নত করার উদ্দেশ্যে, কর্মক্ষমতা, হার্ডওয়্যার, ব্যবহার ও স্বনিরর্ধারণের তথ্যাদি &vendorShortName;-কে স্বয়ংক্রিয়ভাবে পাঠানো হয়।">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "দেখান">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "হচ্ছে">
+<!ENTITY community.exp.middle       " দ্বারা, একটি ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "আন্তর্জাতিক সম্প্রদায়">
-<!ENTITY community.exp.end          " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
+<!ENTITY community.exp.creditsLink  "বিশ্বব্যাপী সম্প্রদায়">
+<!ENTITY community.exp.end          " যা ওয়েবকে মুক্ত, সার্বজনীন ও সকলের ব্যবহারযোগ্য করার উদ্দেশ্যে একযোগে কাজ করে চলেছে।">
 
-<!ENTITY community.start2           "&brandShortName;  নকশা করেছে">
+<!ENTITY community.start2           "&brandShortName; পরিকল্পিত হয়েছে ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          " দ্বারা, একটি ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "আন্তর্জাতিক সম্প্রদায়">
-<!ENTITY community.end3             "ওয়েব উন্মুক্ত রাখা এবং সকলের প্রবেশ যোগ্যতার জন্য একসাথে কাজ করছি।">
+<!ENTITY community.creditsLink      "বিশ্বব্যাপী সম্প্রদায়">
+<!ENTITY community.end3             " যা ওয়েবকে মুক্ত, সার্বজনীন ও সকলের ব্যবহারযোগ্য করার উদ্দেশ্যে একযোগে কাজ করে চলেছে।">
 
-<!ENTITY contribute.start           "আকর্ষণীয় মনে হচ্ছে? ">
+<!ENTITY contribute.start           "আকর্ষক মনে হচ্ছে কি? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "এখনই যোগ দিন!">
+<!ENTITY contribute.getInvolvedLink "আসুন, যোগ দিন!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "লাইসেন্স এর তথ্য">
+<!ENTITY bottomLinks.license        "লাইসেন্স সংক্রান্ত তথ্য">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "প্রান্তিক ব্যবহারকারীর অধিকার">
+<!ENTITY bottomLinks.rights         "ব্যবহারকারীদের অধিকার">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "গোপনীয়তা নীতি">
+<!ENTITY bottomLinks.privacy        "গোপনীয়তা সংক্রান্ত নীতি">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "হালনাগাদ পরীক্ষা করা হচ্ছে...">
+<!ENTITY update.checkingForUpdates  "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; হালনাগাদ করা হয়েছে">
+<!ENTITY update.noUpdatesFound      "&brandShortName; আপডেট করা অবস্থায় রয়েছে">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে">
+<!ENTITY update.adminDisabled       "সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা আপডেট প্রাপ্তি নিষ্ক্রিয় করা হয়েছে">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; অন্য স্থানে হালনাগাদ হয়েছে">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; আরেকটি প্রতিলিপিতে আপডেট হচ্ছে ">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "হালনাগাদ ব্যর্থ। ">
+<!ENTITY update.failed.start        "আপডেট করতে ব্যর্থ। ">
 <!ENTITY update.failed.linkText     "সর্বশেষ সংস্করণ ডাউনলোড করুন">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -74,7 +74,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "হালনাগাদ পাওয়া যাবে ">
+<!ENTITY update.manual.start        "আপডেট উপলব্ধ রয়েছে এইখানে ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -83,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। ">
+<!ENTITY update.unsupported.start    "আপনি এই সিস্টেমে আর আপডেট করতে পারবেন না।">
 <!ENTITY update.unsupported.linkText "আরও জানুন">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -92,13 +92,13 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "হালনাগাদ ডাউনলোড করা হচ্ছে — ">
+<!ENTITY update.downloading.start   "আপডেট ডাউনলোড করা হচ্ছে — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "হালানাগাদ প্রয়োগ করা হচ্ছে…">
+<!ENTITY update.applying            "আপডেট প্রয়োগ করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "আপনি বর্তমানে রয়েছেন ">
-<!ENTITY channel.description.end    " হালনাগাদ চ্যানেল। ">
+<!ENTITY channel.description.start  "আপনি বর্তমানে ">
+<!ENTITY channel.description.end    " আপডেট চ্যানেলে রয়েছেন। ">

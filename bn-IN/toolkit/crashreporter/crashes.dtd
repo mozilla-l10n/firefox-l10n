@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "জমা দেয়া ক্র্যাশ প্রতিবেদনসমূহ">
-<!ENTITY id.heading                 "প্রতিবেদন আইডি">
-<!ENTITY date.heading               "জমা দেয়ার তারিখ">
-<!ENTITY noReports.label            "কোনো ক্র্যাশ প্রতিবেদন জমা দেয়া হয়নি।">
-<!ENTITY noConfig.label             "এই অ্যাপ্লিকেশনটি ক্র্যাশ প্রতিবেদন দেখানোর জন্য কনফিগার করা হয়নি। <code>breakpad.reportURL</code> নির্ধারণ করা আবশ্যক।">
-<!ENTITY clearAllReports.label      "সব প্রতিবেদন অপসারণ">
+<!ENTITY crashes.title              "দায়ের করা বিপর্যয়ের রিপোর্ট">
+<!ENTITY id.heading                 "রিপোর্টের ID">
+<!ENTITY date.heading               "জমা দেওয়ার তারিখ">
+<!ENTITY noReports.label            "বিপর্যয়ের কোনো রিপোর্ট দায়ের করা হয়নি।">
+<!ENTITY noConfig.label             "বিপর্যয়ের রিপোর্ট প্রদর্শনের জন্য এই অ্যাপ্লিকেশনটি কনফিগার করা হয়নি।  <code>breakpad.reportURL</code> পছন্দসই মান নির্ধারণ করা আবশ্যক।">
+<!ENTITY clearAllReports.label      "সকল রিপোর্ট মুছে ফেলা হবে">
 

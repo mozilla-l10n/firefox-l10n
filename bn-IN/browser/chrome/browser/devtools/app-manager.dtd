@@ -2,100 +2,96 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY index.title "অ্যাপ ম্যানেজার">
-<!ENTITY index.projects2 "অ্যাপস">
-<!ENTITY index.device2 "ডিভাইস">
-<!ENTITY index.help "সাহায্য">
 
 
-<!ENTITY device.screenshot "স্ক্রিনশট">
 
-<!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
-<!ENTITY device.notConnected "সংযুক্ত নেই। দয়া করে নিচে আপনার ডিভাইসটি সংযুক্ত করুন।">
-<!ENTITY device.startApp "আরম্ভ">
 
-<!ENTITY device.stopApp "থামাও">
 
-<!ENTITY device.debugApp "ডিবাগ">
+
+
+
+<!ENTITY device.startApp "Start">
+
+<!ENTITY device.stopApp "Stop">
+
+
 
 <!ENTITY device.name "নাম">
-<!ENTITY device.plain "সমতল (পূর্বনির্ধারিত)">
-<!ENTITY device.privileged "বিশেষ সুবিধাপ্রাপ্ত">
-<!ENTITY device.certified "অনুমোদিত">
-<!ENTITY device.allow "অনুমোদন">
+
+
+
+<!ENTITY device.allow "অনুমতি প্রদান করুন">
 
 <!ENTITY device.prompt "প্রম্পট">
 
-<!ENTITY device.deny "প্রত্যাখ্যান">
+<!ENTITY device.deny "প্রত্যাখ্যান করুন">
 
-<!ENTITY device.installedApps "ইন্সটলকৃত অ্যাপস">
-<!ENTITY device.installedAppsTooltip "ডিভাইসে ইনস্টল করা অ্যাপস এর তালিকা দেখুন । কিছু অ্যাপস, যেমন অনুমোদিত অ্যাপস, সম্ভবত এই প্রদর্শন থেকে বাদ দেওয়া হতে পারে ।">
-<!ENTITY device.permissions "অনুমোদন (P)">
 
-<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+<!ENTITY device.permissions "অনুমতি">
 
 
 
 
-<!ENTITY device.help "সাহায্য">
 
-<!ENTITY connection.disconnect "বিচ্ছিন্ন">
 
-<!ENTITY connection.notConnected2 "সংযুক্ত নয়।">
-<!ENTITY connection.connectTo "সংযোগ করুন:">
-<!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি। একটি ডিভাইস যুক্ত করুন">
-<!ENTITY connection.changeHostAndPort "পরিবর্তন">
 
-<!ENTITY connection.startSimulator "সিমুলেটর চালু করুন">
 
-<!ENTITY connection.saveConnectionInfo "সংরক্ষণ">
+<!ENTITY connection.disconnect "বিচ্ছিন্ন করুন">
 
-<!ENTITY connection.connecting "সংযুক্ত করা হচ্ছে …">
-<!ENTITY connection.disconnecting "বিচ্ছিন্ন করা হচ্ছে...">
+
+
+
+<!ENTITY connection.changeHostAndPort "পরিবর্তন করুন">
+
+
+
+
+
+
+
 <!ENTITY connection.cancel "বাতিল">
 
 
-<!ENTITY connection.or "অথবা">
-<!ENTITY connection.noSimulatorInstalled "কোনো সিমুলেটর ইনস্টল করা নেই।">
-<!ENTITY connection.installOneSimulator "সিমুলেটর ইনস্টল করুন">
-
-<!ENTITY connection.installAnotherSimulator "যোগ">
-
-<!ENTITY connection.startRegisteredSimulator "আরম্ভ:">
-
-<!ENTITY projects.localApps "স্থানীয় অ্যাপস">
-<!ENTITY projects.addApp "যোগ">
-<!ENTITY projects.addPackaged "প্যাকেজকৃত অ্যাপ যোগ">
-
-<!ENTITY projects.addHosted "হোস্টকৃত অ্যাপ যোগ">
-
-<!ENTITY projects.title "স্থানীয় অ্যাপ">
-<!ENTITY projects.appDetails "অ্যাপ বিবরণ">
-<!ENTITY projects.removeAppFromList "আপনি যে অ্যাপগুলো নিয়ে কাজ করছেন তার তালিকা হতে এই অ্যাপটি অপসারণ করুন। এতে কোনো ডিভাইস বা সিমুলেটর হতে অ্যাপটিকে অপসারিত হবে না।">
-<!ENTITY projects.updateApp "হালনাগাদ">
-<!ENTITY projects.updateAppTooltip "বৈধতা পরীক্ষা চালান এবং সংযুক্ত ডিভাইসে অ্যাপটি হালনাগাদ করুন">
-<!ENTITY projects.debugApp "ডিবাগ">
-<!ENTITY projects.debugAppTooltip "এই অ্যাপের সাথে সংযক্ত ডেভেলপার টুলস খুলুন">
-<!ENTITY projects.saveManifest "সংরক্ষণ">
-
-<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProjects "কোন প্রকল্প নেই।একটি নতুন প্যাকেজকৃত অ্যাপ (স্থানীয় ডিরেক্টরি) অথবা একটি হোস্টকৃত অ্যাপ(একটি ম্যানিফেস্ট ফাইলের সাথে লিঙ্ককৃত) নিচে যোগ করুন।">
-<!ENTITY projects.manifestEditor "ম্যানিফেস্ট সম্পাদক">
-<!ENTITY projects.manifestEditorTooltip "নিচের প্যানেলে আপনার অ্যাপের ম্যানিফেস্ট সম্পাদনা করুন। হালনাগাদ বোতাম আপনার পরিবর্তন সংরক্ষণ এবং অ্যাপ হালনাগাদ করবে।">
-<!ENTITY projects.manifestViewer "ম্যানিফেস্ট প্রদর্শক">
-
-<!ENTITY projects.valid "কার্যকর">
-<!ENTITY projects.error "ত্রুটি">
-<!ENTITY projects.warning "সতর্কীকরণ">
 
 
 
-<!ENTITY help.title "অ্যাপ ম্যানেজার">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.valid "মেয়াদ">
+
+
+
+
+
 <!ENTITY help.close "বন্ধ">
-<!ENTITY help.intro "এই টুল আপনাকে সামঞ্জস্যপূর্ণ ডিভাইসের (যেমন ফায়ারফক্স ওএস) উপর ওয়েব অ্যাপ তৈরি এবং ইনস্টলে সাহায্য করে। <strong>অ্যাপস</strong> ট্যাবটি আপনার অ্যাপের বৈধতা এবং ইনস্টলেশন প্রক্রিয়ায় আপনাকে সহযোগিতা করবে। <strong> ডিভাইস </strong> ট্যাব আপনাকে সংযুক্ত ডিভাইস সম্পর্কে তথ্য প্রদান করবে। কোনো ডিভাইসের সাথে সংযোগ করতে বা সিমুলেটর চালু করতে নিচের টুলবার ব্যবহার করুন।">
-<!ENTITY help.usefullLinks "উপকারী লিংক সমূহ:">
-<!ENTITY help.appMgrDoc "ডকুমেন্টেশন: অ্যাপ ম্যানেজারের ব্যবহার">
-<!ENTITY help.configuringDevice "কিভাবে আপনার ফায়ারফক্স ওএস ডিভাইস সেটআপ করবেন">
-<!ENTITY help.troubleShooting "ট্রাবলশুটিং">
-<!ENTITY help.simulatorAddon "সিমুলেটর অ্যাড-অন ইন্সটল করুন">
-<!ENTITY help.adbHelperAddon "Adb Helper অ্যাড-অন ইনস্টল">
+
+
+
+
+
+
+

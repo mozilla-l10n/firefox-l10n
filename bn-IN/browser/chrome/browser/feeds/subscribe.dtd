@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedPage.title "ফিড প্রদর্শন">
-<!ENTITY feedSubscribeNow "সাবস্ক্রাইব করা হবে">
+<!ENTITY feedPage.title "ফিড প্রদর্শনের ব্যবস্থা">
+<!ENTITY feedSubscribeNow "এই মুহূর্তে সাবস্ক্রাইব করুন">
 <!ENTITY feedLiveBookmarks "লাইভ বুকমার্ক">

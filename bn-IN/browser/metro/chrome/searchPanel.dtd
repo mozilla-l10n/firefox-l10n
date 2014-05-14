@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY searchFlyoutHeader.title  "অনুসন্ধান">
-<!ENTITY searchSetting.title  "পূর্বনির্ধারিত অনুসন্ধান প্রদানকারী">
+<!ENTITY searchFlyoutHeader.title  "অনুসন্ধান করুন">
+<!ENTITY searchSetting.title  "ডিফল্ট অনুসন্ধান সরবরাহকারী">

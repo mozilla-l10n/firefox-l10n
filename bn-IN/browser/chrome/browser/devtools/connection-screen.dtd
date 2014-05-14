@@ -7,22 +7,22 @@
   - -->
 
 
-<!ENTITY title      "সংযুক্ত করুন">
-<!ENTITY header     "দূরবর্তী ডিভাইসের সাথে সংযুক্ত করুন">
-<!ENTITY host       "হোস্ট:">
-<!ENTITY port       "পোর্ট (P):">
-<!ENTITY connect    "সংযুক্ত করুন">
-<!ENTITY connecting "সংযুক্ত করা হচ্ছে …">
+<!ENTITY title      "Connect">
+<!ENTITY header     "Connect to remote device">
+<!ENTITY host       "Host:">
+<!ENTITY port       "Port:">
+<!ENTITY connect    "Connect">
+<!ENTITY connecting "Connecting…">
 
-<!ENTITY availableTabs "সম্ভাব্য রিমোট ট্যাবসমূহ:">
-<!ENTITY availableProcesses "বিদ্যমান দূরবর্তী প্রক্রিয়া:">
-<!ENTITY connectionError "ত্রুটি:">
-<!ENTITY errorTimeout "ত্রুটি: সংযোগের সময় শেষ।">
-<!ENTITY errorRefused "ত্রুটি: সংযোগ বাতিল করা হয়েছে।">
-<!ENTITY errorUnexpected "অপ্রত্যাশিত ত্রুটি।">
+<!ENTITY availableTabs "Available remote tabs:">
+<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY connectionError "Error:">
+<!ENTITY errorTimeout "Error: connection timeout.">
+<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY errorUnexpected "Unexpected error.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteDocumentation "ডকুমেন্টেশন">
-<!ENTITY remoteHelpSuffix ".">
+
+
 
