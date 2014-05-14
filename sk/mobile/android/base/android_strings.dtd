@@ -67,6 +67,18 @@
 <!ENTITY settings_title "Nastavenia">
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Jazyk">
+<!ENTITY pref_browser_locale "Jazyk prehliadača">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Predvolený v systéme">
+
 <!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
 <!ENTITY pref_category_display "Zobrazovanie">
@@ -108,6 +120,7 @@
 <!ENTITY pref_header_display "Zobrazovanie">
 <!ENTITY pref_header_privacy_short "Súkromie">
 <!ENTITY pref_header_help "Pomocník">
+<!ENTITY pref_header_language "Jazyk">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Vývojárske nástroje">
 
