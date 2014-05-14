@@ -51,6 +51,9 @@
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
+<!ENTITY pref_category_language "Язык">
+<!ENTITY pref_browser_locale "Язык браузера">
+<!ENTITY locale_system_default "Системный по умолчанию">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
@@ -82,6 +85,7 @@
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
 <!ENTITY pref_header_help "Справка">
+<!ENTITY pref_header_language "Язык">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Инструменты разработки">
 <!ENTITY pref_cookies_menu "Куки">
