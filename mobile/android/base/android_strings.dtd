@@ -51,6 +51,9 @@
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_customize "Personalizzazione">
+<!ENTITY pref_category_language "Lingua">
+<!ENTITY pref_browser_locale "Lingua del browser">
+<!ENTITY locale_system_default "Predefinita del sistema">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
@@ -82,6 +85,7 @@
 <!ENTITY pref_header_display "Visualizzazione">
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_help "Aiuto">
+<!ENTITY pref_header_language "Lingua">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Strumenti di sviluppo">
 <!ENTITY pref_cookies_menu "Cookie">
