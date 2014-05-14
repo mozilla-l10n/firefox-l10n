@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY closeNotification.tooltip "এই বার্তার প্রদর্শন বন্ধ করুন">
+<!ENTITY closeNotification.tooltip "এই বার্তা বন্ধ">
 
-<!ENTITY closeNotificationItem.label "এখন নয়">
+<!ENTITY closeNotificationItem.label "এখনই নয়">
 
-<!ENTITY checkForUpdates "আপডেটের উপস্থিতি পরীক্ষা করা হবে…">
+<!ENTITY checkForUpdates "হালনাগাদের জন্য পরীক্ষা...">
 
-<!ENTITY learnMore "আরও জানুন ...">
+<!ENTITY learnMore "আরও জানুন…">

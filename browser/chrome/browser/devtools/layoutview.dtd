@@ -16,8 +16,8 @@
 
 
 
-<!ENTITY title                  "বক্স মডেল">
+<!ENTITY title                  "বাক্স মডেল">
 
 
 <!ENTITY padding.tooltip        "প্যাডিং">
-<!ENTITY content.tooltip        "তথ্য">
+<!ENTITY content.tooltip        "বিষয়বস্তু">

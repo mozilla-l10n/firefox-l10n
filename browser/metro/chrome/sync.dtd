@@ -6,53 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
-<!ENTITY sync.flyout.presetup.description1     "আপনার বুকমার্ক, পাসওয়ার্ড, এবং আপনার ডিভাইসে ওপেন ট্যাব অ্যাক্সেস করুন">
-<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; প্রস্তুত করুন">
+<!ENTITY sync.flyout.presetup.description1     "আপনার ডিভাইসসমূহে বুকমার্ক,পাসওয়ার্ড এবং খোলা ট্যাবসমূহের প্রবেশাধিকার পান">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label;সেটআপ">
 <!-- Flyout when setting up sync -->
 
-<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; প্রস্তুত করুন">
-<!ENTITY sync.flyout.setup.description1        "&syncBrand.shortName.label;অ্যাকাউন্ট যদি অাপনার থাকে,নির্বাচন করুন আপনার অন্য ডিভাইসে &quot;একটি ডিভাইস পেয়ার&quot; এবং এই কোড লিখুন।">
-<!ENTITY sync.flyout.setup.description2        "যদি অাপনার don&apos; &syncBrand.shortName.label; অ্যাকাউন্ট না থাকে,আপনি আপনার একটি &brandShortName; তৈরি করতে পারেন ডেস্কটপ ব্রাউজারে।">
-<!ENTITY sync.flyout.setup.manual.label_2      "অামি&apos; অামার কম্পিউটারের কাছে নেই…">
-<!ENTITY sync.flyout.setup.description3        "উল্লেখ্য:">
-<!ENTITY sync.flyout.setup.description4_2      "&quot;জুড়ি একটি ডিভাইস&quot; খুঁজে বের করতে,">
-<!ENTITY sync.flyout.setup.description5_2      "[ডেস্কটপ] খুলুন &quot;বিকল্প&quot; বা &quot;পছন্দ&quot; এবং নির্বাচন করুন &quot;&syncBrand.shortName.label;&quot;">
-<!ENTITY sync.flyout.setup.description6_2      "[অ্যানড্রইড] আরো &gt; সেটিংস &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;সেটআপ">
+<!ENTITY sync.flyout.setup.description1        "যদি আপনার একটি &syncBrand.shortName.label; একাউন্ট থাকে,তবে &quot;ডিভাইস যুগলবন্দি করুন&quot; নির্বাচন করুন আপনার অন্য ডিভাইসে এবং এই কোডটি প্রবেশ করান।">
+<!ENTITY sync.flyout.setup.description2        "যদি আপনার কোন &syncBrand.shortName.label; একাউন্ট না থাকে , তবএ আপনি আপনার brandShortName ডেস্কটপ ব্রাউজার এ একটি তৈরী করতে পারেন।">
+<!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m আমার কম্পিউটার এর সামনে নেই...">
+<!ENTITY sync.flyout.setup.description3        "নোট:">
+<!ENTITY sync.flyout.setup.description4_2      "খোঁজার জন্য &quot;ডিভাইস যুগলবন্দি করুন&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[ডেস্কটপ] &quot;অপশন&quot; বা &quot;অগ্রাধিকার&quot; খুলুন এবং এর পর &quot;&syncBrand.shortName.label;&quot; নির্বাচন করুন">
+<!ENTITY sync.flyout.setup.description6_2      "[এন্ড্রয়েড] আরো &gt; সেটিং &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-<!ENTITY sync.flyout.manualsetup.description1_2  "দয়া করে অপনার &syncBrand.shortName.label;অ্যাকাউন্ট তথ্য এবং আপনার কম্পিউটারে দ্বারা উত্পন্ন রিকভারি কী লিখুন">
+<!ENTITY sync.flyout.manualsetup.description1_2  "অনুগ্রহ করে আপনার &syncBrand.shortName.label; একাউন্ট তথ্য এবং আপনার কম্পিউটারে সৃষ্ট পুনরুদ্ধার কী টি প্রবেশ করান">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "অ্যাকাউন্টের নাম">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "পাসওয়ার্ড">
-<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "পুনরুদ্ধারের কি">
-<!ENTITY sync.flyout.manualsetup.connect.label           "Connect">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "পুনরুদ্ধার কী">
+<!ENTITY sync.flyout.manualsetup.connect.label           "সংযুক্ত করুন">
 <!-- Flyout when user has just connected -->
 
-<!ENTITY sync.flyout.setupsuccess.description1      "আপনাকে যুক্ত ছিলেন &brandShortName; &syncBrand.shortName.label; অ্যাকাউন্টের সাথে">
-<!ENTITY sync.flyout.setupsuccess.description2      "অাপনার &syncBrand.shortName.label; তথ্য এখন ব্যাকগ্রাউন্ডে ডাউনলোড হচ্ছে।আপনার সিঙ্ক করা ট্যাব &brandShortName; প্রারম্ভিক পেজে পাওয়া যাবে">
+<!ENTITY sync.flyout.setupsuccess.description1      "মাত্রই আপনি &brandShortName; একটি &syncBrand.shortName.label; একাউন্টের সাথে যুক্ত করলেন">
+<!ENTITY sync.flyout.setupsuccess.description2      "পটভূমিতে আপনার &syncBrand.shortName.label; তথ্য ডাউনলোড হচ্ছে। আপনার সিঙ্ককৃত ট্যাবসমূহ &brandShortName; প্রারম্ভিক পৃষ্ঠাতে পাওয়া যাবে">
 <!-- Flyout when setup failed -->
 
-<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; অ্যাকাউন্ট আপনার &syncBrand.shortName.label; সংযোগ করতে পারে না।">
-<!ENTITY sync.flyout.setupfailure.cancelButton      "বাতিল করুন">
-<!ENTITY sync.flyout.setupfailure.tryAgainButton    "পুনরায় চেষ্টা করুন">
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; আপনার syncBrand.shortName.label একাউন্টের সাথে সংযুক্ত করতে ব্যর্থ।">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "বাতিল">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "পুনরায় চেষ্টা">
 <!-- Flyout when connected and functioning normally -->
 
-<!ENTITY sync.flyout.connected.account                    "অ্যাকাউন্ট:">
+<!ENTITY sync.flyout.connected.account                    "অ্যাকাউন্ট">
 <!ENTITY sync.flyout.connected.device                     "আপনার ডিভাইস:">
 <!ENTITY sync.flyout.connected.disconnect                 "বিচ্ছিন্ন করুন">
-<!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; সঙ্গে আপনার ডিভাইসের সংযোগ বিচ্ছিন্ন কি?">
-<!ENTITY sync.flyout.connected.disconnectWarning          "আপনার সব ব্যক্তিগত তথ্য উভয় ডিভাইসে ও &syncBrand.shortName.label; অ্যাকাউন্ট অক্ষত থাকবে।">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "আপনার ডিভাইসের সংযোগ বিচ্ছিন্ন করতে চান &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "আপনার সমস্ত ব্যক্তিগত তথ্য উভয় জায়গাতে এই ডিভাইস এবং &syncBrand.shortName.label; একাউন্টেঅক্ষত থাকবে।">
 <!ENTITY sync.flyout.connected.cancel                     "বাতিল">
-<!ENTITY sync.flyout.connected.pair                       "একটি ডিভাইসের সাথে যুক্ত করুন">
+<!ENTITY sync.flyout.connected.pair                       "একটি ডিভাইস পেয়ার করুন">
 <!-- Flyout when pairing a device -->
 
-<!ENTITY sync.flyout.pairNewDevice.description            "অাপনি নতুন ডিভাইসের সাথো জুড়তো চান,নির্বাচন করুন &quot;সেট আপ &syncBrand.shortName.label;&quot;এবং ডিভাইস দ্বারা উৎপন্ন কোড লিখুন">
-<!ENTITY sync.flyout.pairNewDevice.pair                   "জুটি">
-<!ENTITY sync.flyout.pairNewDevice.note1                  "উল্লেখ্য:">
-<!ENTITY sync.flyout.pairNewDevice.note2_2                "খুঁজুন কোডটিকে,">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ডেস্কটপ] খুলুন &quot;বিকল্প&quot; বা &quot;পছন্দ&quot; এবং তারপর পদক্ষেপগুলি অনুসরণ করুন:&syncBrand.shortName.label; -&gt; সেট আপ&syncBrand.shortName.label; -&gt;আমার একটা একাউন্ট আছে">
-<!ENTITY sync.flyout.pairNewDevice.note4                  "[অ্যানড্রইড] আরো &gt; সেটিংস &gt;&syncBrand.shortName.label;">
-<!ENTITY sync.flyout.pairNewDevice.failure                "অনুগ্রহ করে পুনরায় প্রচেষ্টা করুন">
+<!ENTITY sync.flyout.pairNewDevice.description            "নতুন ডিভাইস যেখানে আপনি যুগলবন্দি করতে চান, নির্বাচন করুন &quot;সেট করুন &syncBrand.shortName.label;&quot; এবং কোড প্রবেশ করান যা ডিভাইসে সৃষ্ট হয়েছে">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "জোড়া">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "নোট:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "কোড খুঁজতে,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ডেস্কটপ] &quot;অপশন&quot; অথবা &quot;অগ্রাধিকার&quot; খুলুন এবং নিম্নের ধাপগুলো অনুসরণ করুন:&syncBrand.shortName.label;-&gt; সেট করুন &syncBrand.shortName.label;-&gt; আমার একাউন্ট আছে">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[এন্ড্রয়েড] আরও &gt; সেটিং &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "অনুগ্রহ করে আবার চেষ্ট করুন">
 <!-- Flyout when a device has been successfully paired -->
 
-<!ENTITY sync.flyout.pairSuccess.description1             "নতুন ডিভাইস সফলভাবে যোগ করা হয়েছে.">
-<!ENTITY sync.flyout.pairSuccess.description2             "অাপনার &syncBrand.shortName.label; তথ্য এখন ব্যাকগ্রাউন্ডে ডাউনলোড করা হচ্ছে। আপনার দূরবর্তী ট্যাব &brandShortName; পাওয়া যাবে প্রারম্ভিক পোজে।">
+<!ENTITY sync.flyout.pairSuccess.description1             "নতুন ডিভাইস সফলভাবে যোগ হয়েছে।">
+<!ENTITY sync.flyout.pairSuccess.description2             "আপনার &syncBrand.shortName.label; তথ্য পটভূমিতে ডাউনলোড হচ্ছে। আপনার রিমোট ট্যাবগুলো &brandShortName;প্রারম্ভিক পৃষ্ঠায় পাওয়া যাবে।">
