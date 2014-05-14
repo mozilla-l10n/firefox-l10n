@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "Podvodná pošta">
 <!ENTITY itemPasswords.label "Uložená hesla">
 <!ENTITY itemAntiVirus.label "Antivir">
-<!ENTITY itemCookies.label "Webový obsah">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.">
