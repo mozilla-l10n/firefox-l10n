@@ -152,7 +152,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "এই ক্ষিপ্র কমলা রঙের শিয়ালটি আপনার কল্পনার থেকেও দ্রুত গতিতে এগিয়ে চলেছে, আরও বেশি স্থিতিস্থাপকতা এবং নিরাপত্তার সঙ্গে। অমূনাফালাভী প্রতিষ্ঠান হিসেবে আমরা মুক্তভাবে আবিষ্কার করে চলেছি কোনরকমভাবে আপোষের কাছে  মাথা নিচু না করেই। এর অর্থ আপনার আরও উন্নত অভিজ্ঞতা এবং ওয়েবের উজ্জ্বল ভবিষ্যৎ।">
 
-<!ENTITY pref_use_master_password "প্রধান পাসওয়ার্ড ব্যবহার করুন">
+<!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_show_product_announcements "পণ্য ঘোষণাপত্র দেখানো হোক">
 <!ENTITY pref_sync "সিঙ্ক">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
@@ -258,7 +258,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_open_in_reader "রিডারে খুলুন">
 <!ENTITY contextmenu_remove "সরিয়ে ফেলুন">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
+<!ENTITY contextmenu_add_to_launcher "হোম স্ক্রিনে যুক্ত করুন">
 <!ENTITY contextmenu_share "শেয়ার করুন">
 <!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "পেস্ট করুন">
@@ -402,7 +402,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY devtools_remote_debugging_forward "পোর্ট ফরওয়ার্ডিং স্থাপন করতে ভুলবেন না!">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_title2 "আপডেট উপলব্ধ &brandShortName; জন্য">
 <!ENTITY updater_start_select2 "ডাউনলোড করার জন্যে স্পর্শ করুন">
 
 <!ENTITY updater_downloading_title2 "ডাউনলোড করা হচ্ছে &brandShortName;">
@@ -410,7 +410,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ডাউনলোড ব্যর্থ হয়েছে">
 <!ENTITY updater_downloading_retry2 "পুনরায় চেষ্টা করুন">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_title2 "আপডেট উপলব্ধ &brandShortName; জন্য ">
 <!ENTITY updater_apply_select2 "আপডেট করার জন্যে স্পর্শ করুন">
 <!-- Guest mode -->
 

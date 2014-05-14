@@ -6,8 +6,8 @@
 <!ENTITY aboutPage.telemetryStart               " এটি স্বয়ংক্রিয়ভাবে তথ্য প্রেরণ করে,কর্মক্ষমতা, হার্ডওয়্যার, ব্যবহার এবং কাস্টমাইজেশান সম্পর্কে ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " &brandShortName; এর উন্নয়ন এর জন্যে।">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
-<!ENTITY aboutPage.checkForUpdates.checking     "আপডেট এসেছে কিনা তা দেখা হচ্ছে...">
+<!ENTITY aboutPage.checkForUpdates.link         "আপডেটের জন্য পরীক্ষা করুন »">
+<!ENTITY aboutPage.checkForUpdates.checking     "আপডেট এসেছে কিনা তা দেখা হচ্ছে…">
 <!ENTITY aboutPage.checkForUpdates.none         "কোন আপডেট পাওয়া যায়নি">
 <!ENTITY aboutPage.checkForUpdates.available2   "আপডেট ডাউনলোড করুন">
 <!ENTITY aboutPage.checkForUpdates.downloading  "আপডেট ডাউনলোড করা হচ্ছে">
