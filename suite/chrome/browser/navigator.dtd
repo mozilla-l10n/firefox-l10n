@@ -73,3 +73,10 @@
 <!ENTITY statusText.label "Hotovo">
 
 <!ENTITY popupIcon.tooltiptext "Odblokuje vyskakovací okna z tohoto serveru">
+
+<!ENTITY viewSecurityInfo.label      "Zobrazit informace o zabezpečení">
+<!ENTITY viewSecurityInfo.accesskey  "Z">
+<!ENTITY viewCertificate.label       "Zobrazit certifikát">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Otevřít Správce certifikátů">
+<!ENTITY viewCertManager.accesskey   "p">
