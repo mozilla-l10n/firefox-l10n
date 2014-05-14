@@ -97,7 +97,6 @@
 <!ENTITY pref_home_updates "Automātiskie atjauninājumi">
 <!ENTITY pref_home_updates_enabled "Aktivēti">
 <!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
-<!ENTITY reading_list_add "Pievienot lasīšanas sarakstam">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Pielāgošana">
@@ -201,11 +200,9 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Avārijas ziņojums">
-<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumus atvērtajam tīmeklim, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē redzamajiem mobilo sakaru torņiem">
-
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; atrašanās vietas">
-
-<!ENTITY datareporting_wifi_geolocation_summary "Darbojoties fonā saņem datus par Wi-Fi un mobilo sakaru torņiem un sūta šo informāciju &brandShortName;, lai uzlabotu ģeolokācijas pakalpojumu">
+<!ENTITY datareporting_wifi_geolocation_summary "Darbojoties fonā saņem datus par Wi-Fi un mobilo sakaru torņiem un sūta šo informāciju &vendorShortName;, lai uzlabotu ģeolokācijas pakalpojumu">
+<!ENTITY reading_list_added "Lapa pievienota lasīšanas sarakstam">
 
 
 
