@@ -27,6 +27,8 @@
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Gaida otru ierīci…'>
 
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” Android iestatījumu sadaļā Datu lietojums.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Pieskarieties, lai sāktu sinhronizēt.'>
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Ievadiet &syncBrand.fullName.label; konta informāciju'>
 <!ENTITY sync.input.username.label 'Konta nosaukums'>
