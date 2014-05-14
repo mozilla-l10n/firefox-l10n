@@ -7,10 +7,10 @@
 <!ENTITY pageColors.label "પાનાંના રંગો">
 <!ENTITY defaultColorsRadio.label "વાંચકના મૂળભુત રંગો (પાનાંમાં રંગો સુયોજિત કરશો નહિં)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "માત્ર દર્શક (વાંચક) બ્રાઉઝરમાંથી જ રંગ સુયોજનો વાપરો">
+<!ENTITY defaultColorsRadio.tooltip "માત્ર દર્શક (વાંચક) બ્રાઉઝરમાંથી જ રંગ સેટીંગ વાપરો">
 <!ENTITY customColorsRadio.label "વૈવિધ્યપૂર્ણ રંગો વાપરો:">
 <!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "આ રંગ સુયોજનો દર્શકના બ્રાઉઝર સુયોજનો પર ફરીથી લખશે">
+<!ENTITY customColorsRadio.tooltip "આ રંગ સેટીંગ દર્શકના બ્રાઉઝર સેટીંગ પર ફરીથી લખશે">
 
 <!ENTITY normalText.label "સામાન્ય લખાણ">
 <!ENTITY normalText.accessKey "N">

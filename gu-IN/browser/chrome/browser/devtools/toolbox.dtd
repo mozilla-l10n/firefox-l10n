@@ -16,7 +16,7 @@
 <!ENTITY options.selectDefaultTools.label     "મૂળભૂત Firefox ડેવલપર સાધનો">
 <!ENTITY options.selectDevToolsTheme.label   "DevTools થીમ પસંદ કરો:">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!ENTITY options.context.advancedSettings "ઉન્નત સુયોજનો">
+<!ENTITY options.context.advancedSettings "ઉન્નત સેટીંગ">
 <!ENTITY options.context.triggersPageRefresh2  "ફક્ત હાલનું સત્ર, પાનાંને પુન:લાવો">
 <!ENTITY options.disableJavaScript.label2    "JavaScript નિષ્ક્રિય કરો">
 <!ENTITY options.disableJavaScript.tooltip   "આ વિકલ્પને ચાલુ રાખવાથી વર્તમાન ટૅબ માટે JavaScript નિષ્ક્રિય થઇ જશે. જો ટૅબ અથવા સાધનબોક્સ બંધ થયેલ છે પછી આ સુયોજન ભૂલ થઇ જશે.">

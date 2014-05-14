@@ -12,7 +12,7 @@
 <!ENTITY identityDesc.label "દરેક ખાતાને ઓળખ હોય છે, કે જે જ્યારે લોકો સંદેશાઓ વાંચે ત્યારે આ જાણકારી જુએ.">
 <!ENTITY name.label "તમારું નામ:">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "ઈમેઈલ સરનામુ:">
+<!ENTITY email.label "ઈમેલ સરનામુ:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "વળતો જવાબ આપવાનું સરનામુ:">
 <!ENTITY replyTo.accesskey "s">

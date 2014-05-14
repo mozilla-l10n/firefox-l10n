@@ -4,14 +4,14 @@
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 
-<!ENTITY messengerCmd.label					"મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY messengerCmd.label					"મેલ &amp; સમાચારજૂથો">
 <!ENTITY messengerCmd.accesskey				"m">
 <!ENTITY messengerCmd.commandkey			"1">
 <!ENTITY addressBookCmd.label				"સરનામા પુસ્તિકા">  
 <!ENTITY addressBookCmd.accesskey			"a">
 <!ENTITY addressBookCmd.commandkey			"2">
 
-<!ENTITY taskMessenger.tooltip  "મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY taskMessenger.tooltip  "મેલ &amp; સમાચારજૂથો">
 <!ENTITY taskAddressBook.tooltip  "સરનામા પુસ્તિકા">
 
 <!-- searchAddressesCmd is also used by addressbook -->

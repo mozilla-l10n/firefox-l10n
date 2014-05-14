@@ -50,8 +50,8 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ટૅબ">
 <!ENTITY new_tab_opened "નવી ટૅબ ખૂલી">
-<!ENTITY settings "સુયોજનો">
-<!ENTITY settings_title "સુયોજનો">
+<!ENTITY settings "સેટીંગ">
+<!ENTITY settings_title "સેટીંગ">
 <!ENTITY pref_category_advanced "અદ્યતન">
 <!ENTITY pref_category_customize "વિધ્યપૂર્ણ કરો">
 <!ENTITY pref_category_search3 "શોધો">
@@ -173,8 +173,8 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "તમારા બ્રાઉઝરના આરોગ્ય વિશે &vendorShortName; સાથે માહિતી વહેંચે છે અને તમને તમારી બ્રાઉઝર પસંદગી સમજવામાં મદદ કરે છે">
 <!ENTITY datareporting_abouthr_title "મારો આરોગ્ય અહેવાલ જુઓ">
 <!ENTITY datareporting_telemetry_title "ટેલીમેટ્રી">
-<!ENTITY datareporting_telemetry_summary "પરફોર્મન્સ, વપરાશ, હાર્ડવેર અને તમારા બ્રાઉઝર વિશે વૈવિધ્યપૂર્ણ માહિતી &vendorShortName; ની સાથે વહેંચે છે &brandShortName; ને સારું બનાવવા માટે">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ભંગાણ અહેવાલ જમા કરે છે &vendorShortName; ને મદદ કરવા માટે તમારું બ્રાઉઝર વધુ મજબૂત અને સુરક્ષિત બનાવવા માટે">
+<!ENTITY datareporting_telemetry_summary "&brandShortName; ને સારું બનાવવા માટે પરફોર્મન્સ, વપરાશ, હાર્ડવેર અને તમારા બ્રાઉઝર વિશે વૈવિધ્યપૂર્ણ માહિતી &vendorShortName; ની સાથે વહેંચે છે">
+<!ENTITY datareporting_crashreporter_summary "&vendorShortName; ને મદદ કરવા માટે તમારું બ્રાઉઝર વધુ મજબૂત અને સુરક્ષિત બનાવવા માટે &brandShortName; ભંગાણ અહેવાલ જમા કરે છે">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ભંગાણનો અહેવાલ આપનાર">
@@ -252,7 +252,7 @@ size. -->
 <!ENTITY site_settings_title3 "સાઇટ સેટીંગ">
 <!ENTITY site_settings_cancel "રદ કરો">
 <!ENTITY site_settings_clear "સાફ કરો">
-<!ENTITY site_settings_no_settings "સાફ કરવા માટે કોઇપણ સુયોજનો નથી.">
+<!ENTITY site_settings_no_settings "સાફ કરવા માટે કોઇપણ સેટીંગ નથી.">
 <!ENTITY reading_list_added "પાનું તમારી વાંચન યાદીમાં ઉમેરાઇ ગયું">
 <!ENTITY reading_list_removed "પાનું તમારી વાંચન યાદીમાંથી દૂર થઇ ગયું">
 <!ENTITY reading_list_failed "પાનાંને તમારી વાંચન યાદીમાં ઉમેરવામાં નિષ્ફળ">
@@ -357,7 +357,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ચાલુ રાખો">
 <!ENTITY guest_session_dialog_cancel "રદ કરો">
 <!ENTITY new_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
-<!ENTITY new_guest_session_text "તેને વાપરી રહેલી વ્યક્તિ તમારા કોઇપણ વ્યક્તિગત બ્રાઉઝીંગ માહિતી જોવા માટે સમર્થ હશે નહિ (જેમ કે સંગ્રહાયેલા પાસવર્ડો, ઇતિહાસ અને બુકમાર્કો).nnજ્યારે તમારા મહેમાનનું કામ પૂરું થઇ જાય, ત્યારે તેમની બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવસે અને તમારો સત્ર પુનઃસંગ્રહાશે.">
+<!ENTITY new_guest_session_text "તેને વાપરી રહેલી વ્યક્તિ તમારી કોઇપણ વ્યક્તિગત બ્રાઉઝીંગ માહિતી (જેમ કે સંગ્રહાયેલા પાસવર્ડો, ઇતિહાસ અને બુકમાર્કો) જોવા માટે સમર્થ હશે નહિ.\n\nજ્યારે તમારા મહેમાનનું કામ પૂરું થઇ જાય, ત્યારે તેમની બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવશે અને તમારો સત્ર પુનઃસંગ્રહાશે.">
 <!ENTITY exit_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
 <!ENTITY exit_guest_session_text "આ સત્રમાંથી બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવશે.">
 <!-- Miscellaneous -->

@@ -30,128 +30,123 @@
 <!ENTITY fileNotFound.title "ફાઇલ મળી નહિં">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
+  <li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li>
+  <li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li>
 </ul>
 ">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "અરર.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
+<p>કોઇક કારણસર &brandShortName; આ પાનું લાવી શકતું નથી.</p>
 ">
 
-<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.title "સરનામું બરાબર નથી">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Web addresses are usually written like
+  <li>વેબ સરનામાઓ સામાન્ય રીતે આ પ્રમાણે લખાય છે
     <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
+  <li>ખાતરી કરો કે તમે આગળ આવતા સ્લેશ વાપરી રહ્યા છો (એટલે કે
     <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "જોડાણ તૂટી ગયું હતુ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
+<!ENTITY notCached.longDesc "<p>અરજી થયેલ દસ્તાવેજ &brandShortName; ની કૅશમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવધાની હેઠળ, &brandShortName; સંવેદનશીલ દસ્તાવેજો માટે આપોઆપ પુનઃઅરજી કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની પુનઃઅરજી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+  <li>ફરી પ્રયાસ કરો. &brandShortName; જોડાણ ખોલવાનો અને પાનું પુનઃલાવવાનો પ્રયાસ કરશે.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "વસ્તુ સંગ્રહપદ્ધતિ ક્ષતિ">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "અસુરક્ષિત ફાઇલ પ્રકાર">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "જોડાણ રીસેટ થઇ ગયું હતુ">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+  <li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li>
+  <li>પ્રૉક્સી સેટીંગ ચાલુ છે કે નથી તેની ખાતરી કરવા માટે તમારા નેટવર્ક સંચાલકનો સંપર્ક કરો.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "પ્રૉક્સી સર્વર શોધવામાં અસમર્થ">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+  <li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li>
+  <li>તમારા ઉપકરણમાં કામ આપતું ડૅટા કે Wi-Fi જોડાણ છે તેની ખાતરી કરો.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "પાનું બરાબર પુનઃદિશામાન થતું નથી">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
+  <li>આ સમસ્યા અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે નકારવાથી પણ આવી શકે.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "સર્વર તરફથી અનિચ્છનિય પ્રત્યુત્તર">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>ખાતરી કરો કે તમારી સિસ્ટમમાં વ્યક્તિગત સુરક્ષા વ્યવસ્થાપક સ્થાપિત થયેલ છે.</li>
+  <li>આ સર્વર પરના બિન-પ્રમાણિત રૂપરેખાંકનને કારણે હોઇ શકે.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિ કારણ કે પ્રાપ્ત થયેલ માહિતીની સાત્વિકતા તપાસી શકાઇ નહિ.</li>
+  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો. વૈકલ્પિકરૂપે, આ ભાંગેલી સાઇટનો અહેવાલ આપવા માટે મદદ મેનુમાંથી મળી આવતા આદેશનો ઉપયોગ કરો.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+  <li>સર્વરના રૂપરેખાંકન સાથે સમસ્યા હોઇ શકે, અથવા કોઇક સર્વર સાથે છેડછાડ કરવાનો પ્રયાસ કરી રહ્યું હોઇ શકે.</li>
+  <li>જો તમે ભૂતકાળમાં આ સર્વર સાથે સફળતાપૂર્વક જોડાણ કર્યું હોય, તો ક્ષતિ ક્ષણિક હોઇ શકે, અને તમે પછીથી ફરી પ્રયાસ કરી શકો.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc2 "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+  <li>સાઇટ ક્ષણિકવાર માટે ઉપલબ્ધ નહિ હોઇ શકે અથવા ખૂબ વ્યસ્ત હોઇ શકે. થોડી ક્ષણોમાં ફરી પ્રયાસ કરો.</li>
+  <li>જો તમે કોઇપણ પાનાં લાવવામાં અસમર્થ હોવ, તો તમારા મોબાઇલ ઉપકરણના ડૅટા અથવા Wi-Fi જોડાણને તપાસો.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "વસ્તુ સુરક્ષા પૉલીસિ દ્વારા બ્લૉક કરવામાં આવેલ છે">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; એ આ પાનાને આ રીતે લાવવાથી અટકાવ્યું છે કારણ કે પાનામાં વસ્તુ સુરક્ષા પૉલીસિ છે કે જે તેને પરવાનગી આપતું નથી.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "બગડેલ વસ્તુ ક્ષતિ">
+<!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "અથવા તમે અપવાદ ઉમેરી શકો…">
+<!ENTITY securityOverride.getMeOutOfHereButton "મને અહીંથી બહાર કાઢો!">
+<!ENTITY securityOverride.exceptionButtonLabel "અપવાદ ઉમેરો…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -159,18 +154,18 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>જો તમે એવું ઇન્ટરનેટ જોડાણ વાપરી રહ્યા હોય જેના પર તમને સંપૂર્ણ વિશ્વાસ નહિ હોય અથવા જો તમને આ સર્વર પર આવી ચેતવણી જોવાની આદત નહિ હોય તો તમારે અપવાદ ઉમેરવો જોઇએ નહિ.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "દૂરસ્થ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul></p>">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.title "સરનામું સમજાયું નહિ">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li>
 </ul>
 ">

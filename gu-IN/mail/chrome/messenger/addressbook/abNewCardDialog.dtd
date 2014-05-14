@@ -35,9 +35,9 @@
 <!ENTITY NickName.label                 "લાડકું નામ:">
 <!ENTITY NickName.accesskey             "N">
 <!ENTITY Internet.box                   "ઈન્ટરનેટ">
-<!ENTITY PrimaryEmail.label             "ઈમેઈલ:">
+<!ENTITY PrimaryEmail.label             "ઈમેલ:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "વધારાના ઈમેઈલ:">
+<!ENTITY SecondEmail.label              "વધારાના ઈમેલ:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "આ રીતે બંધારણ ઘડાયેલ સંદેશાઓને મેળવવાનું પસંદ કરે છે:">
 <!ENTITY PreferMailFormat.accesskey     "r">

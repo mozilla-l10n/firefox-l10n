@@ -10,7 +10,7 @@
 <!ENTITY urlFieldset.label		"હોટસ્પોટ URL:">
 <!ENTITY altFieldset.label		"હોટસ્પોટ વૈકલ્પિક લખાણ:">
 <!ENTITY browseButton.label		"બ્રાઉઝ કરો...">
-<!ENTITY targetFieldset.label	"લક્ષ્ય સુયોજનો">
+<!ENTITY targetFieldset.label	"લક્ષ્ય સેટીંગ">
 <!ENTITY target.label			"હોટસ્પોટ લક્ષ્ય">
 
 <!-- Targets -->

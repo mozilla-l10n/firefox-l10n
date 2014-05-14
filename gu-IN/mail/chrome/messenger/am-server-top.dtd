@@ -7,12 +7,12 @@
 <!ENTITY securitySettings.label "સુરક્ષા સુયોજનો">
 <!ENTITY serverSettings.label "સર્વર સુયોજનો">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP મેઈલ સર્વર">
+<!ENTITY popServer.label "POP મેલ સર્વર">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP મેઈલ સર્વર">
+<!ENTITY imapServer.label "IMAP મેલ સર્વર">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
 <!ENTITY newsServer.label "સમાચાર સર્વર (NNTP)">
-<!ENTITY webmail.label "વેબમેઈલ ખાતુ">
+<!ENTITY webmail.label "વેબમેલ ખાતુ">
 <!ENTITY serverType.label "સર્વર પ્રકાર:">
 <!ENTITY serverName.label "સર્વર નામ:">
 <!ENTITY serverName.accesskey "S">
@@ -84,7 +84,7 @@
 <!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "સ્થાનિક ડિરેક્ટરી:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY abbreviate.label "મેઈલ ફોલ્ડર તકતીમાં આ રીતે સમાચાર જૂથ નામો બતાવો:">
+<!ENTITY abbreviate.label "મેલ ફોલ્ડર તકતીમાં આ રીતે સમાચાર જૂથ નામો બતાવો:">
 <!ENTITY abbreviateOn.label "સંપૂર્ણ નામો (ઉદાહરણ તરીકે, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "ટુંકા નામો (ઉદાહરણ તરીકે, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "ઉન્નત...">

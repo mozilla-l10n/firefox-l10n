@@ -25,13 +25,13 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "સર્વરને આ નામ જગ્યાઓ પર ફરીથી લખવા દો">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "જ્યારે આ સર્વર માટે pop3 મેઈલ ડાઉનલોડ કરી રહ્યા હોય, ત્યારે તમે તેને ઉમદા ઈનબોક્સમાં (સ્થાનિક ફોલ્ડરોના ખાતાના ઈનબોક્સમાં), આ ખાતાના ઈનબોક્સમાં, અથવા અન્ય POP3 ખાતાના ઈનબોક્સમાં સંગ્રહ કરી શકો છો" >
-<!ENTITY folderStorage.label "મેઈલને ક્યાં સાચવવો">
+<!ENTITY pop3Desc.label "જ્યારે આ સર્વર માટે pop3 મેલ ડાઉનલોડ કરી રહ્યા હોય, ત્યારે તમે તેને ઉમદા ઈનબોક્સમાં (સ્થાનિક ફોલ્ડરોના ખાતાના ઈનબોક્સમાં), આ ખાતાના ઈનબોક્સમાં, અથવા અન્ય POP3 ખાતાના ઈનબોક્સમાં સંગ્રહ કરી શકો છો" >
+<!ENTITY folderStorage.label "મેલને ક્યાં સાચવવો">
 <!ENTITY globalInbox.label "ઉમદા ઈનબોક્સ (સ્થાનિક ફોલ્ડરો ખાતુ)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "આ સર્વરના ખાતા માટે ઈનબોક્સ">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "વિવિધ ખાતાઓ માટે ઈનબોક્સ">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "જ્યારે નવા મેઈલ મેળવી રહ્યા હોય ત્યારે આ સર્વરનો સમાવેશ કરો">
+<!ENTITY deferGetNewMail.label "જ્યારે નવા મેલ મેળવી રહ્યા હોય ત્યારે આ સર્વરનો સમાવેશ કરો">
 <!ENTITY deferGetNewMail.accesskey "I">

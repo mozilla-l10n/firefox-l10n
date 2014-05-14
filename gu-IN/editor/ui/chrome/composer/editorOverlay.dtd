@@ -60,7 +60,7 @@
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteAs.label "આ રીતે ચોંટાડો">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "સાઈટ સુયોજનોનું પ્રકાશન કરી રહ્યા છીએ...">
+<!ENTITY publishSettings.label "સાઈટ સેટીંગનું પ્રકાશન કરી રહ્યા છીએ...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- For a "Paste" submenu when more than 1 

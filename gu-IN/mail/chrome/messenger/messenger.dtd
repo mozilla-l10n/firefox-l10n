@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY messengerWindow.title "મેલ &amp; સમાચારજૂથો">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -117,7 +117,7 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "મેઈલ સાધનપટ્ટી">
+<!ENTITY showMessengerToolbarCmd.label "મેલ સાધનપટ્ટી">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "વૈવિધ્યપૂર્ણ બનાવો...">
 <!ENTITY customizeToolbar.accesskey "C">
@@ -301,7 +301,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "તારાવાળો સંદેશો">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY startPageCmd.label "મેઈલ શરૂઆત પાનું">
+<!ENTITY startPageCmd.label "મેલ શરૂઆત પાનું">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "સંદેશો">
 <!ENTITY msgMenu.accesskey "M">
@@ -391,7 +391,7 @@
 <!ENTITY markAsNotJunkCmd.label "નહિં બગડેલ તરીકે">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "બગડેલ મેઈલ નિયંત્રણો ચલાવો"> 
+<!ENTITY recalculateJunkScoreCmd.label "બગડેલ મેલ નિયંત્રણો ચલાવો"> 
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "સંદેશો ખોલો">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -406,17 +406,17 @@
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "એડ-ઓન">
 <!ENTITY addons.accesskey "d">
-<!ENTITY messengerCmd.label "મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY messengerCmd.label "મેલ &amp; સમાચારજૂથો">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "સરનામા પુસ્તિકા">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY junkMailCmd.label "બગડેલ મેઈલ નિયંત્રણો...">
+<!ENTITY junkMailCmd.label "બગડેલ મેલ નિયંત્રણો...">
 <!ENTITY junkMailCmd.accesskey "J">
-<!ENTITY runJunkControls.label "ફોલ્ડર પર બગડેલ મેઈલ નિયંત્રણો ચલાવો">
+<!ENTITY runJunkControls.label "ફોલ્ડર પર બગડેલ મેલ નિયંત્રણો ચલાવો">
 <!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "ફોલ્ડરમાં બગડેલ તરીકે ચિહ્નિત થયેલ મેઈલ કાઢી નાંખો">
+<!ENTITY deleteJunk.label "ફોલ્ડરમાં બગડેલ તરીકે ચિહ્નિત થયેલ મેલ કાઢી નાંખો">
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY errorConsoleCmd.label "ભૂલ કન્સોલ">
 <!ENTITY errorConsoleCmd.accesskey "n">
@@ -443,7 +443,7 @@
 <!ENTITY aboutCmd.accesskey "A">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "મેઈલ મેળવો">
+<!ENTITY getMsgButton.label "મેલ મેળવો">
 <!ENTITY newMsgButton.label "લખો">
 <!ENTITY replyButton.label "પ્રત્યુત્તર">
 <!ENTITY replyAllButton.label "બધાને પ્રત્યુત્તર">
@@ -463,7 +463,7 @@
 <!ENTITY notJunkButton.label "બગડેલ નથી">
 <!ENTITY addressBookButton.label "સરનામા પુસ્તિકા">
 <!ENTITY searchItem.title "ઝડપી શોધ">
-<!ENTITY mailViewsToolbarItem.title "મેઈલ દૃશ્યો">
+<!ENTITY mailViewsToolbarItem.title "મેલ દૃશ્યો">
 <!ENTITY folderLocationToolbarItem.title "ફોલ્ડર સ્થાન">
 <!ENTITY tagButton.label "ટેગ">
 
@@ -532,7 +532,7 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "નામ અથવા ઈમેઈલ આ સમાવે:">
+<!ENTITY SearchNameOrEmail.label "નામ અથવા ઈમેલ આ સમાવે:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY clearButton.label "સાફ કરો">
 <!ENTITY clearButton.accesskey "C">
@@ -633,7 +633,7 @@
 <!ENTITY loadRemoteContentButton1.label "ચિત્રો લાવો">
 
 <!-- Phshing bar Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; ને લાગે છે કે આ ઈમેઈલ સ્કેમ છે.">
+<!ENTITY phishingBarMessage.label "&brandShortName; ને લાગે છે કે આ ઈમેલ સ્કેમ છે.">
 <!ENTITY removePhishingBarButton.label "સ્કેમ નથી">
 
 <!-- Search Bar -->
@@ -642,9 +642,9 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "સરનામા પુસ્તિકામાં એડ-ઓન...">
 <!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY SendMailTo.label "આના પ્રતિ મેઈલ કમ્પોઝ કરો">
+<!ENTITY SendMailTo.label "આના પ્રતિ મેલ કમ્પોઝ કરો">
 <!ENTITY SendMailTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "ઈમેઈલ સરનામાની નકલ કરો">
+<!ENTITY CopyEmailAddress.label "ઈમેલ સરનામાની નકલ કરો">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilter.label "સંદેશામાંથી ગાળક બનાવો...">
 <!ENTITY CreateFilter.accesskey "F">
