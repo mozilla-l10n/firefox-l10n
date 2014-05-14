@@ -40,7 +40,32 @@
 <!ENTITY lightning.calendarproperties.email.label "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Tato zpráva obsahuje pozvání na událost.">
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Přijmout">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Přijme pozvání na událost">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Přijmout vše">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Přijme pozvání na všechna opakování události">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Přidat">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Přidá událost do kalendáře">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Odmítnout">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odmítne pozvání na událost">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odmítnout vše">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odmítne pozvání na všechna opakování události">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Smazat">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Smaže z kalendáře">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaily…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Zobrazí detaily události">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Více">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Po klepnutí se zobrazí více možností">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znovu potvrdit">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošle znovu potvrzení organizátorovi">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Nezávazně">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Přijme nezávazně pozvání na událost">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Nezávazně vše">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Přijme nezávazně pozvání na všechna opakování události">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizovat">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aktualizuje událost v kalendáři">
+<!ENTITY lightning.imipbar.description                                      "Tato zpráva obsahuje pozvání na událost.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
