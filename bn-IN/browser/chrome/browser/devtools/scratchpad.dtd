@@ -20,36 +20,38 @@
 
 
 
-<!ENTITY window.title                 "খসড়া খাতা">
+<!ENTITY window.title                 "স্ক্র্যাচপ্যাড">
 
-<!ENTITY fileMenu.label               "ফাইল">
+<!ENTITY fileMenu.label               "ফাইল (F)">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "নতুন উইন্ডো">
+<!ENTITY newWindowCmd.label           "নতুন উইন্ডো (N)">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "ফাইল খুলুন…">
+<!ENTITY openFileCmd.label            "ফাইল খুলুন… (O)">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "সম্প্রতি ব্যবহৃত ফাইল খুলুন">
+<!ENTITY openRecentMenu.label         "Recent খুলুন">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "প্রত্যাবর্তন করুন…">
+<!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "সংরক্ষণ">
+<!ENTITY saveFileCmd.label            "সংরক্ষণ (S)">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "নতুন রূপে সংরক্ষণ…">
+<!ENTITY saveFileAsCmd.label          "নতুন ভাবে সংরক্ষণ করুন...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "বন্ধ করুন">
+<!ENTITY closeCmd.label               "বন্ধ (C)">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "প্রদর্শন (V)">
+<!ENTITY viewMenu.accesskey           "V">
 
 
 
@@ -66,23 +68,22 @@
 
 
 
-
-<!ENTITY editMenu.label               "সম্পাদনা">
+<!ENTITY editMenu.label               "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "সঞ্চালনা">
+<!ENTITY run.label                    "চালান R">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "পরীক্ষণ">
-<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.label                "পরীক্ষা (t)">
+<!ENTITY inspect.accesskey            "t">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "প্রদর্শন">
+<!ENTITY display.label                "প্রর্দশন করুন D">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
+<!ENTITY pprint.key                   "p">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -91,11 +92,11 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "পরিবেশ">
+<!ENTITY environmentMenu.label        "Environment">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "তথ্য">
+<!ENTITY contentContext.label         "বিষয়বস্তু C">
 <!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -104,32 +105,32 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "ব্রাউজার">
+<!ENTITY browserContext.label         "ব্রাউজ B">
 <!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "সাহায্য">
+<!ENTITY helpMenu.label               "সহায়তা H">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "সাহায্য">
+<!ENTITY helpMenuWin.label            "সহায়তা H">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সাহায্য">
-<!ENTITY documentationLink.accesskey  "D">
+<!ENTITY documentationLink.label      "M  DN এর স্ক্র্যাচপ্যাড সহায়তা">
+<!ENTITY documentationLink.accesskey  " ">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "ভেরিয়েবলের মান পুনরায় নির্ধারণ করুন">
+<!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "পুনঃ লোড করুন এবং চালান">
+<!ENTITY reloadAndRun.label           "পুনরায় লোড এবং চালু করুন e">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "কর্ম সঞ্চালন">
+<!ENTITY executeMenu.label            "Execute">
 <!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
@@ -141,4 +142,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "বর্তমান ফাংশন নির্ণয় v">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">

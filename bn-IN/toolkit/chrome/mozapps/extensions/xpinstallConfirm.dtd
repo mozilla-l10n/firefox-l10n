@@ -4,10 +4,10 @@
 <!-- extracted from institems.xul -->
 
 
-<!ENTITY dialog.title            "সফ্টওয়্যার ইনস্টলেশন">
+<!ENTITY dialog.title            "সফটওয়্যার ইনস্টল প্রক্রিয়া">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "শুধুমাত্র বিশ্বস্ত নির্মাতাদের থেকে প্রাপ্ত অতিরিক্ত সামগ্রী ইনস্টল করুন।">
-<!ENTITY warningSecondary.label  "অনিষ্টকারী সফ্টওয়্যার আপনার কম্পিউটারের ক্ষয়ক্ষতি ও আপনার গোপনীয়তার হানী করতে সক্ষম।">
+<!ENTITY warningPrimary.label    "যে সকল নির্মাতাকে আপনি বিশ্বাস করেন শুধু তাদের অ্যাড-অন ইনস্টল করুন।">
+<!ENTITY warningSecondary.label  "অনিষ্টকারী সফ্টওয়্যার আপনার কম্পিউটারের ক্ষতি করতে বা আপনার গোপনীয়তা লঙ্ঘন করতে পারে।">
 
-<!ENTITY from.label "উৎসস্থল:">
+<!ENTITY from.label "হতে:">
 

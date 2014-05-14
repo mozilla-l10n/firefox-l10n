@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ocspDialog.title             "পরিচয় প্রমাণ ব্যবস্থা">
-<!ENTITY enableOCSP.label             "সার্টিফিকেটের বর্তমান বৈধতা যাচাই করার জন্য অনলাইন সার্টিফিকেট স্ট্যাটাস প্রোটোকল (OCSP) ব্যবহার করুন।">
+<!ENTITY ocspDialog.title             "সার্টিফিকেট যাচাইকরণ">
+<!ENTITY enableOCSP.label             "সার্টিফিকেটের বর্তমান কার্যকারীতা যাচাই করার জন্য অনলাইন সার্টিফিকেট স্ট্যাটাস প্রোটোকল (OCSP) ব্যবহার করুন (U)">
 <!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY requireOCSP.label            "OCSP সার্ভারের সাথে সংযোগ স্থাপন সম্ভব না হলে, সংশ্লিষ্ট সার্টিফিকেটকে অবৈধ ধার্য করা হবে">
+<!ENTITY requireOCSP.label            "OCSP সার্ভারের সাথে সংযোগ ব্যর্থ হলে, সার্টিফিকেটকে অকার্যকর হিসেবে বিবেচনা করা হবে (W)">
 <!ENTITY requireOCSP.accesskey        "W">

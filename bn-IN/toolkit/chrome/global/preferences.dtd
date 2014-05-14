@@ -4,6 +4,6 @@
 
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "পছন্দসমূহ">
-<!ENTITY  preferencesDefaultTitleWin.title        "বিকল্পসমূহ">
-<!ENTITY  preferencesCloseButton.label            "বন্ধ করুন (C)">
+<!ENTITY  preferencesDefaultTitleWin.title        "অপশন">
+<!ENTITY  preferencesCloseButton.label            "বন্ধ (C)">
 <!ENTITY  preferencesCloseButton.accesskey        "C">
