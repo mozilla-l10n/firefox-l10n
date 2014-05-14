@@ -11,22 +11,22 @@
   -  should be displayed or not. -->
 
 
-<!ENTITY browserStylesLabel    "ব্রাউজার শৈলী">
+<!ENTITY browserStylesLabel    "ব্রাউজার স্টাইল">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
-<!ENTITY userStylesSearch      "অনুসন্ধান">
+<!ENTITY userStylesSearch      "Search">
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 
-<!ENTITY selectedElementLabel  "নির্বাচিত বিষয়বস্ত:">
+<!ENTITY selectedElementLabel  "Selected element:">
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 
-<!ENTITY noPropertiesFound     "কোনো CSS বৈশিষ্ট্যাবলী পাওয়া যায়নি।">
+<!ENTITY noPropertiesFound     "No CSS properties found.">
 <!-- FIXME: notes -->
 
-<!ENTITY computedViewTitle     "নির্ণিত">
+<!ENTITY computedViewTitle     "গণণিত">
 <!ENTITY ruleViewTitle         "নিয়ম">

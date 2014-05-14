@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 
-<!ENTITY printWindow.title "মুদ্রণ করা হচ্ছে"> 
+<!ENTITY printWindow.title "প্রিন্ট কর্ম"> 
 <!ENTITY title    "শিরোনাম:"> 
-<!ENTITY progress "অগ্রগতি:">
-<!ENTITY preparing "প্রস্তুতি নেয়া হচ্ছে…">
-<!ENTITY printComplete "মুদ্রণ সম্পন্ন।">
+<!ENTITY progress "প্রগতি:">
+<!ENTITY preparing "প্রস্তুতি...">
+<!ENTITY printComplete "প্রিন্ট কর্ম সমাপ্ত।">
 
 <!ENTITY dialogCancel.label "বাতিল"> 
-<!ENTITY dialogClose.label "বন্ধ">
+<!ENTITY dialogClose.label "বন্ধ করুন">
 <!-- LOCALIZATION NOTE (percentPrint):
 
     This string is used to format the text to the right of the progress

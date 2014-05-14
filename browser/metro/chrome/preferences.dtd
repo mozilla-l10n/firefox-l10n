@@ -6,36 +6,36 @@
 <!-- ## Options Flyout Panel ## -->
 
 
-<!ENTITY optionsHeader.title                                     "অপশন">
+<!ENTITY optionsHeader.title                                     "বিকল্পগুলি">
 <!ENTITY optionsHeader.char.title                                "ক্যারেক্টার এনকোডিং">
-<!ENTITY optionsHeader.char.autodetect.label                     "স্বয়ংক্রিয়-সনাক্তকরণ">
-<!ENTITY optionsHeader.char.options.label                        "অ্যাপ বারে এনকোডিং অপশন দেখান">
+<!ENTITY optionsHeader.char.autodetect.label                     "স্বয়ংক্রিয়রূপে সনাক্ত">
+<!ENTITY optionsHeader.char.options.label                        "অ্যাপ বারে এনকোডিং বিকল্পগুলি দেখান">
 
-<!ENTITY clearPrivateData.title                                  "ব্যক্তিগত তথ্য মুছুন">
-<!ENTITY clearPrivateData.label                                  "এই ডিভাইস থেকে আপনার ব্রাউজিং ইতিহাস,পাসওয়ার্ড,কুকি এবং ফর্মডাটাগুলো পরিষ্কার করুন">
+<!ENTITY clearPrivateData.title                                  "পরিষ্কার ব্যক্তিগত তথ্য">
+<!ENTITY clearPrivateData.label                                  "এই ডিভাইস থেকে আপনার ব্রাউজিং ইতিহাস, পাসওয়ার্ড, কুকি, এবং ফর্ম ডেটা মুছে ফেলুন">
 <!ENTITY clearPrivateData.button                                 "মুছে ফেলুন">
-<!ENTITY clearPrivateData.done                                   "সম্পন্ন!">
-<!ENTITY clearPrivateData.history                                "ব্রাউজ ইতিহাস">
-<!ENTITY clearPrivateData.otherdata                              "অন্যান্য তথ্য (পাসওয়ার্ড, ক্যাশ, কুকি, ইত্যাদি)">
-<!ENTITY clearPrivateData.downloadHist                           "ডাউনলোড ইতিহাস">
+<!ENTITY clearPrivateData.done                                   "সমাপ্ত!">
+<!ENTITY clearPrivateData.history                                "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
+<!ENTITY clearPrivateData.otherdata                              "অন্য তথ্য (পাসওয়ার্ড, ক্যাশে, কুকি, ইত্যাদি)">
+<!ENTITY clearPrivateData.downloadHist                           "হিস্ট্রী ডাউনলোড করুন">
 <!ENTITY clearPrivateData.cookies                                "কুকি">
-<!ENTITY clearPrivateData.cache                                  "ক্যাশ">
-<!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসমূহ">
-
+<!ENTITY clearPrivateData.cache                                  "ক্যাশে">
+<!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসই মান">
+<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম &amp; অনুসন্ধানের ইতিহাস">
 <!ENTITY clearPrivateData.passwords                              "সংরক্ষিত পাসওয়ার্ড">
-<!ENTITY clearPrivateData.offline                                "অফলাইন ওয়েবসাইটের তথ্য">
-<!ENTITY clearPrivateData.logins                                 "সক্রিয় লগইন">
+<!ENTITY clearPrivateData.offline                                "অফ-লাইন ওয়েব-সাইটের তথ্য">
+<!ENTITY clearPrivateData.logins                                 "সক্রিয় লগ-ইন">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "পাসওয়ার্ড মনে রাখুন">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "ন্যাভিগেশন বাটন প্রদর্শন করুন">
 <!ENTITY doNotTrack.title                                        "ট্র্যাক করবেন না">
-<!ENTITY doNotTrack.options.doNotTrack                           "ওয়েবসাইটদের জানান আমি অনুসরিত হতে চাই না">
-<!ENTITY doNotTrack.options.doTrack                              "ওয়েবসাইটদের জানান যে আমি অনুসরিত হতে চাই">
-<!ENTITY doNotTrack.options.default                              "ওয়েবসাইটদের আমার অনুসরণের অগ্রাধিকারের ব্যাপারে কিছু জানানো হবে না">
-<!ENTITY doNotTrack.learnMoreLink                                "আরো জানুন &#x2026;">
+<!ENTITY doNotTrack.options.doNotTrack                           "আমি ট্র্যাক হতে চাই না, সেই ওয়েবসাইট বলুন">
+<!ENTITY doNotTrack.options.doTrack                              "আমি ট্র্যাক হতে চাই , সেই ওয়েবসাইট বলুন">
+<!ENTITY doNotTrack.options.default                              "ওয়েবসাইট থেকে আমার ট্র্যাকিং পছন্দ সম্পর্কে কিছু বলুন না">
+<!ENTITY doNotTrack.learnMoreLink                                "আরও জানুন&#x2026;">
 
-<!ENTITY optionsHeader.reporting.title                           "ক্র্যাশ প্রতিবেদক">
-<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ক্র্যাশ প্রতিবেদন জমা দিয়ে মজিলা কে সাহায্য করে, এতে আপনার ব্রাউজারে আরো স্থিতিশীল ও নিরাপদ হয়">
-<!ENTITY optionsHeader.reporting.crashes.submitURLs             "আমি যে পাতায় ছিলাম সেই পাতার ঠিকানা অন্তর্ভুক্ত করো                ">
-<!ENTITY optionsHeader.telemetry.title                            "দূরমাপন">
-<!ENTITY optionsHeader.telemetry.label                            "brandShortName সম্পর্কিত ব্যবহার পরিসংখ্যান শেয়ার করুন; মজিলার সাথে যাতে আপনার ব্রাউজার আরও ভাল করা যায়">
+<!ENTITY optionsHeader.reporting.title                           "বিপর্যয়ের রিপোর্ট">
+<!ENTITY optionsHeader.reporting.crashes.label                   "আপনার ব্রাউজারকে আরো স্থিতিশীল এবং নিরাপদ করে তুলতে সাহাজ্য করার জন্য &brandShortName; ক্র্যাশ প্রতিবেদনগুলির কাছে জমা দেয়">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "পরিদর্শিত পৃষ্ঠার ঠিকানা অন্তর্ভুক্ত করা হবে">
+<!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্রি">
+<!ENTITY optionsHeader.telemetry.label                            "শেয়ার করুন &brandShortName; ব্যবহারের পরিসংখ্যান; মজিলা সঙ্গে আপনার ব্রাউজার আরও ভাল করতে আমাদেরকে সাহায্য কররন">

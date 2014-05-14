@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ইংরেজী (যুক্তরাষ্ট্র)
+#define MOZ_LANG_TITLE Bengali (India)

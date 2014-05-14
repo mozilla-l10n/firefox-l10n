@@ -13,33 +13,25 @@
 
 
 
-<!ENTITY debuggerUI.closeButton.tooltip "বন্ধ">
+<!ENTITY debuggerUI.closeButton.tooltip "বন্ধ করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
 
-<!ENTITY debuggerUI.panesButton.tooltip "প্যান বদলাও">
+<!ENTITY debuggerUI.panesButton.tooltip "ফলকগুলি টগল করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.label "এই সোর্সটি ব্লাক বক্সড করা হয়েছে: এর ব্রেকপয়েন্ট নিষ্ক্রিয় রয়েছে, এবং যার ফলে উপেক্ষা করে এগিয়ে যাবে।">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "এই উৎসের ব্ল্যাক বাক্সিং স্থগিত করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
-<!ENTITY debuggerUI.optsButton.tooltip  "ডিবাগার অপশন">
+<!ENTITY debuggerUI.optsButton.tooltip  "ডিবাগার সংক্রান্ত বিকল্প">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-
-<!ENTITY debuggerUI.sources.blackBoxTooltip "টগল ব্ল্যাক বক্সিং">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-
-<!ENTITY debuggerUI.sources.prettyPrint "উৎস সুন্দর করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 
@@ -49,6 +41,8 @@
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "মুছে ফেলুন">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
@@ -74,8 +68,6 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-
-<!ENTITY debuggerUI.searchPanelOperators    "অপারেটরগুলো:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile.key       "P">
@@ -110,7 +102,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
-<!ENTITY debuggerUI.condBreakPanelTitle "শুধুমাত্র প্রদত্ত অভিব্যক্তি সত্যি হলেই এই ব্রেকপয়েন্ট সঞ্চালন করা বন্ধ করবে">
+<!ENTITY debuggerUI.condBreakPanelTitle "নিম্নলিখিত এক্সপ্রেশন সত্য হলে, তবেই এই ব্রেকপয়েন্ট সঞ্চালন বন্ধ হবে">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak.key "B">
@@ -121,11 +113,9 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-<!ENTITY debuggerUI.tabs.sources        "সোর্স">
 
-<!ENTITY debuggerUI.tabs.callstack      "কল ষ্ট্যাক">
-<!ENTITY debuggerUI.tabs.variables      "ভেরিয়েবল">
-<!ENTITY debuggerUI.tabs.events         "ঘটনাসমূহ">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
@@ -140,11 +130,9 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
-<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
-<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
-<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
-<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
-<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
-<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
-<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+
+
+
+
+
+
