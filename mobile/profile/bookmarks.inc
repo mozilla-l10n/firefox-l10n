@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title Móvil
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: Acerca de tu navegador
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Personalizar con complementos
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Ayuda
 
 
 
