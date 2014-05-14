@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Додаци">
 <!ENTITY aboutAddons.header2                    "Ваши додаци">
 <!ENTITY aboutAddons.options                    "Опције">
+<!ENTITY aboutAddons.browseAll                  "Прикажи све Firefox додатке">
 
 <!ENTITY addonAction.enable                     "Укључи">
-<!ENTITY addonAction.disable                    "Disable">
-<!ENTITY addonAction.uninstall                  "Избриши">
+<!ENTITY addonAction.disable                    "Искључи">
+<!ENTITY addonAction.uninstall                  "Деинсталирај">
 <!ENTITY addonAction.undo                       "Опозови">
-<!ENTITY addonAction.setDefault                 "Set as Default">

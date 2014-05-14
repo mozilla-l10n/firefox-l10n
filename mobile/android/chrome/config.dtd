@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Search Settings">
-<!ENTITY clear.altText          "Очисти">
-<!ENTITY newpref.label2         "Add a New Setting">
+
+<!ENTITY toolbar.searchPlaceholder     "Претрага">
+
+<!ENTITY newPref.namePlaceholder       "Име">
+
+<!ENTITY newPref.valueBoolean          "Boolean">
+<!ENTITY newPref.valueString           "String">
+<!ENTITY newPref.valueInteger          "Integer">
+
+<!ENTITY newPref.stringPlaceholder     "Унесите string">
+<!ENTITY newPref.numberPlaceholder     "Унесите број">
+
+<!ENTITY newPref.toggleButton          "Промени стање">
+<!ENTITY newPref.cancelButton          "Откажи">
+
+<!ENTITY contextMenu.copyPrefName      "Копирај име">
+<!ENTITY contextMenu.copyPrefValue     "Копирај вредност">
