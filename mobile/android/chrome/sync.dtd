@@ -8,7 +8,7 @@
 <!ENTITY sync.connected             "সংযুক্ত">
 <!ENTITY sync.details               "বিবরণ">
 <!ENTITY sync.deviceName            "এই ডিভাইসটি">
-<!ENTITY sync.disconnect            "Disconnect">
+<!ENTITY sync.disconnect            "বিচ্ছিন্ন করুন">
 <!ENTITY sync.syncNow               "অবিলম্বে সিঙ্ক করুন">
 
 <!ENTITY sync.setup.title           "সিঙ্ক করার জন্যে যুক্ত করুন">
