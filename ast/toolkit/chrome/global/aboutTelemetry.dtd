@@ -27,9 +27,8 @@
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogrames recopilaos por complementos
 ">
+<!ENTITY aboutTelemetry.toggle "
   Calca pa estenderexar la seición
-">
-  Calca pa endolcar la seición
 ">
 <!ENTITY aboutTelemetry.emptySection "
   (Nun se recopilaron datos)
