@@ -20,7 +20,7 @@
 <!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "অতিরিক্ত সার্চ ইঞ্জিন প্রাপ্ত করুন...">
-<!ENTITY  addEngine.accesskey       "a">
+<!ENTITY  addEngine.accesskey       "A">
 
 <!ENTITY  enableSuggest.label       "অনুসন্ধানের প্রস্তাবিত ফলাফল প্রদর্শন করা হবে">
 <!ENTITY  enableSuggest.accesskey   "S">

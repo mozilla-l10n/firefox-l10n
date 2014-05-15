@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "কুকি">
 <!ENTITY clearPrivateData.cache                                  "ক্যাশে">
 <!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসই মান">
-<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম &amp; অনুসন্ধানের ইতিহাস">
+<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম  অনুসন্ধানের ইতিহাস">
 <!ENTITY clearPrivateData.passwords                              "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY clearPrivateData.offline                                "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY clearPrivateData.logins                                 "সক্রিয় লগ-ইন">
