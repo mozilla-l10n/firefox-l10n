@@ -151,7 +151,6 @@
 <!ENTITY keywordfield.label "Añadir una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey "v">
 <!ENTITY downloads.label "Descargas">
-<!ENTITY downloads.tooltip "Muestra el progreso de las descargas en curso">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -419,10 +418,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "p">
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "m">
-<!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
-<!ENTITY newWindowButton.tooltip "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
-<!ENTITY fullScreenButton.tooltip "Mostrar la ventana en pantalla completa">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
 <!ENTITY quitApplicationCmdWin.tooltip "Salir de &brandShortName;">
