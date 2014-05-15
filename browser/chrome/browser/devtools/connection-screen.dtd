@@ -13,6 +13,7 @@
 <!ENTITY port       "പോര്‍ട്ട്‌:">
 <!ENTITY connect    "കണക്ട് ചെയ്യുക">
 <!ENTITY connecting "കണക്ട് ചെയ്യുന്നു…">
+
 <!ENTITY availableTabs "ലഭ്യമായ വിദൂര റ്റാബുകള്‍:">
 <!ENTITY availableProcesses "ലഭ്യമായ വിദൂര പ്രക്രിയകള്‍:">
 <!ENTITY connectionError "തെറ്റു്">

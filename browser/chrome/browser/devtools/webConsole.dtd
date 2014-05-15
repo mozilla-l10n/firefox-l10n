@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "മുന്നറിയിപ്പുകള്‍">
 <!ENTITY btnConsoleLog          "ലോഗ്">
 
+
 <!ENTITY filterOutput.placeholder "ഔട്ട്പുട്ട് ഫില്‍റ്റര്‍ ചെയ്യുക">
 <!ENTITY btnClear.label        "rവെടിപ്പാക്കുക">
 <!ENTITY btnClear.tooltip      "വെബ് കണ്‍സോള്‍ ഔട്ട്പുട്ട് വെടിപ്പാക്കുക">

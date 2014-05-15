@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "റ്റാബ് അടയ്ക്കുക">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
 
@@ -72,7 +72,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "മെനു ബാര്‍">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "നാവിഗേഷന്‍ ടൂള്‍ബാര്‍">
+
 <!ENTITY personalbarCmd.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍">
@@ -135,7 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY shareSelectCmd.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക">
-<!ENTITY shareSelectCmd.accesskey "S">
+<!ENTITY shareSelectCmd.accesskey "s">
 
 
 
@@ -228,6 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -240,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "സ്ക്രാച്പാഡ്">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -422,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "വിവരണം കാണുക">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "വീഡിയോ കാണുക">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "പശ്ചാത്തല ചിത്രം കാണുക">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "പണിയിട പശ്ചാത്തലമായി സജ്ജമാക്കുക">
@@ -435,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
 <!ENTITY savePageCmd.label            "താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -577,9 +578,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "താള്‍ ശൈലി">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ശൈലി ഇല്ലാതെ">
-<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "അടിസ്ഥാന താള്‍ ശൈലി">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "ഈ താളിന്റെ പോപ്പപ്പ് തടയല്‍ നിയന്ത്രണങ്ങള്‍ മാറ്റുക">
 
@@ -671,7 +672,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undo.label "ദയവായി ഇതു് uഉപേക്ഷിയ്ക്കുക!">
 <!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "കൂടുതല്‍ അറിയുക...">
-<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
 
@@ -722,47 +723,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.tryAgain "വീണ്ടും ശ്രമിയ്ക്കുക">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "ആഡ്-ഓണ്‍ ബാര്‍">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "പ്രവര്‍ത്തന സൂചിക">
-<!ENTITY appMenuButton.label           "മെനു">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; മെനു തുറക്കുക">
-
-<!ENTITY feedButton.tooltip            "ഈ താളില്‍ അംഗമാകുക…">
-<!ENTITY bookmarksButton.tooltip       "അടയാളങ്ങള്‍ കാണിക്കുക">
-<!ENTITY historyButton.tooltip         "അടുത്തിടെ സന്ദര്‍ശിച്ച താളുകള്‍ കാണിക്കുക">
-<!ENTITY viewTabsOnTop.label           "റ്റാബുകള്‍ മുകളില്‍">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "ചിട്ടപ്പെടുത്തുക">
-<!ENTITY appMenuToolbarLayout.label    "ടൂള്‍ബാര്‍ ശൈലി…">
 <!ENTITY appMenuSidebars.label         "സൈഡ്ബാറുകള്‍">
-<!ENTITY appMenuFind.label             "കണ്ടുപിടിയ്ക്കുക…">
-<!ENTITY appMenuUnsorted.label         "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
-<!ENTITY appMenuWebDeveloper.label     "വെബ് ഡവലപ്പര്‍">
-<!ENTITY appMenuGettingStarted.label   "തുടക്കം">
-<!ENTITY appMenuSafeMode.label         "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "മുറിക്കുക">
-<!ENTITY copyButton.tooltip            "പകര്‍ത്തുക">
-<!ENTITY pasteButton.tooltip           "ഒട്ടിക്കുക">
-<!ENTITY zoomOutButton.tooltip         "ചെറുതാക്കുക">
-<!ENTITY zoomInButton.tooltip          "വലുതാക്കുക">
-<!ENTITY zoomControls.label            "കണ്ട്രോളുകള്‍">
-<!ENTITY addonBarCloseButton.tooltip   "ആഡ്-ഓണ്‍ ബാര്‍ അടയ്ക്കുക">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "പുറകോട്ട്/മുമ്പോട്ട്">
-<!ENTITY viewBookmarksSidebar.label    "സൈഡ്ബാറില്‍ കാണിയ്ക്കുക">
-<!ENTITY bookmarksItem.title           "അടയാളങ്ങള്‍">
-<!ENTITY openLocationCmd.label         "വിലാസം തുറക്കുക...">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍ കാണിയ്ക്കുക">
 
-<!ENTITY tabGroupsButton.tooltip       "റ്റാബുകള്‍ ഒന്നിച്ചാക്കുക">
-<!-- end of strings to be removed post-Australis -->
+
