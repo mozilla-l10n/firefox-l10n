@@ -6,18 +6,18 @@
 <!ENTITY charsetMenu.label             "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "ಸ್ವಯಂ-ಹುಡುಕು">
-<!ENTITY charsetMenuAutodet.accesskey  "A">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "ಇನ್ನಷ್ಟು ಎನ್ಕೋಡಿಂಗ್‌ಗಳು">
-<!ENTITY charsetMenuMore.accesskey     "M">
+<!ENTITY charsetMenuMore.accesskey     "m">
 <!ENTITY charsetMenuMore1.label        "ಪಶ್ಚಿಮ ಯುರೋಪಿಯನ್">
-<!ENTITY charsetMenuMore1.accesskey    "W">
+<!ENTITY charsetMenuMore1.accesskey    "w">
 <!ENTITY charsetMenuMore2.label        "ಪೂರ್ವ ಯುರೋಪಿಯನ್">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "ಪೂರ್ವ ಏಶಿಯನ್">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE &amp; SW ಏಶಿಯನ್">
+<!ENTITY charsetMenuMore4.label        "SE  SW ಏಶಿಯನ್">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "ಮಧ್ಯ ಪೂರ್ವ">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "ಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetCustomize.accesskey    "c">

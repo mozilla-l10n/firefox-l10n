@@ -75,7 +75,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 
-
+<!ENTITY languages.customize.Fallback.ceiso       "ಸೆಂಟ್ರಲ್‍ ಯೂರೋಪಿಯನ್‍, ISO">
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->

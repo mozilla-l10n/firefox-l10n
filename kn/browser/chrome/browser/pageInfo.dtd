@@ -72,9 +72,9 @@
 
 
 <!ENTITY  securityView.identity.header   "ಜಾಲ ತಾಣದ ಗುರುತು">
-<!ENTITY  securityView.identity.owner    "ಮಾಲಿಕ: ">
-<!ENTITY  securityView.identity.domain   "ಜಾಲ ತಾಣ: ">
-<!ENTITY  securityView.identity.verifier "ಇವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ: ">
+<!ENTITY  securityView.identity.owner    "ಮಾಲಿಕ:">
+<!ENTITY  securityView.identity.domain   "ಜಾಲ ತಾಣ:">
+<!ENTITY  securityView.identity.verifier "ಇವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ:">
 
 <!ENTITY  securityView.privacy.history                  "ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?">
 <!ENTITY  securityView.privacy.cookies                  "ನನ್ನ ಗಣಕದಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು (ಕುಕಿಗಳು) ಶೇಖರಿಸಿಡುವ ಜಾಲತಾಣವು ಇದೇನಾ?">
