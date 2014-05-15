@@ -12,10 +12,18 @@
 <!ENTITY pref.dateformat.accesskey "f">
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Koart"  >
-<!ENTITY pref.defaultlength.label "Standert barrensdjoer:" >
-<!ENTITY pref.defaultlength.accesskey "b">
-<!ENTITY pref.defaultsnoozelength.label "Standert slommerdjoer:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.default_event_length.label "Standert djoer:" >
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_task_none.label "Gjin">
+<!ENTITY pref.default_task_start_of_day.label "Begjin fan de dei">
+<!ENTITY pref.default_task_end_of_day.label "Ein fan de dei">
+<!ENTITY pref.default_task_tomorrow.label "Moarn">
+<!ENTITY pref.default_task_next_week.label "Folgjende wike">
+<!ENTITY pref.default_task_offset_current.label "Relatyf oan aktuele tiid">
+<!ENTITY pref.default_task_offset_start.label "Relatyf oan begjin">
+<!ENTITY pref.default_task_offset_next_hour.label "Relatyf oan folgjende oere">
 
 <!ENTITY pref.accessibility.label "Tagonklikheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimalisearje foar tagonklikheid" >

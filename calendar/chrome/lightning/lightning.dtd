@@ -37,10 +37,34 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+<!ENTITY lightning.calendarproperties.email.label             		    "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Dit berjocht hat in útnoeging foar in barren.">
+<!ENTITY lightning.imipbar.btnAccept.label                              "Akseptearje">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                       "Barrensútnoeging akseptearje ">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                   "Alles akseptearje">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext            "Barrensútnoeging akseptearje foar alle gelegenheden fan it barren">
+<!ENTITY lightning.imipbar.btnAdd.label                                 "Tafoegje">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                           "Foegje it barren ta oan de aginda">
+<!ENTITY lightning.imipbar.btnDecline.label                             "Ofwize">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                      "Barrensútnoeging ôfwize">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                  "Alles ôfwize">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext           "Barrensútnoeging ôfwize foar alle gelegenheden fan it barren">
+<!ENTITY lightning.imipbar.btnDelete.label                              "Fuortsmite">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                        "Fuortsmite út aginda">
+<!ENTITY lightning.imipbar.btnDetails.label                             "Details…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                       "Toan details barren">
+<!ENTITY lightning.imipbar.btnMore.label                                "Mear">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                          "Klik om mear opsjes te toanen">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                          "Befêstigje opnij">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                     "Ferstjoert in nij befêstiging nei de organisearder">
+<!ENTITY lightning.imipbar.btnTentative.label                           "Foarearst">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                    "Barrensútnoeging foarearst akseptearje">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                "Foarearst alles">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext         "Barrensútnoeging foarearst akseptearje foar alle gelegenheden fan it barren">
+<!ENTITY lightning.imipbar.btnUpdate.label                              "Fernij">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                        "Barren fernije yn aginda">
+<!ENTITY lightning.imipbar.description 									"Dit berjocht hat in útnoeging foar in barren.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
