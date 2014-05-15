@@ -293,3 +293,4 @@
 <!ENTITY ellipsis "…">
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
+<!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
