@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Fan" >
 <!ENTITY newevent.to.label                  "Oant" >
-<!ENTITY newevent.attendees.notify.label	"Dielnimmers ynljochtsje">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Hâld dielnimmers ûnsichtber yn útnoegingen">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "As ynskeakele, sille dielnimmers net útnoegingen fan oaren sjen. Allinnich by e-mailútnoegingen.">
 
 <!ENTITY newevent.status.label              "Steat" >
 <!ENTITY newevent.status.accesskey          "S" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; foltôge">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Dielnimmers ynljochtsje">
+<!ENTITY event.attendees.notifyundisclosed.label    "Utnoeging skiede per dielnimmer">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Dizze opsje stjoert ien útnoegingse-mail per dielnimmer. Eltse útnoeging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">

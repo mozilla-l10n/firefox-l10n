@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "t">
 <!ENTITY pref.defaultemail.label "Standert adres om alarmen nei ta te stjoeren:">
 <!ENTITY pref.defaulttext.label "Standert tekst foar alarmen:">
+
+<!ENTITY pref.defaultsnoozelength.label "Standert slommerdjoer:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

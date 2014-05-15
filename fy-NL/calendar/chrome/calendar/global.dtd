@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "freed" >
 <!ENTITY day.7.name "sneon" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minút">
-<!ENTITY calendar.global.units.minutes  "minuten">
-<!ENTITY calendar.global.units.hour     "oer">
-<!ENTITY calendar.global.units.hours    "oeren">
-<!ENTITY calendar.global.units.day      "dei">
-<!ENTITY calendar.global.units.days     "dagen">
-
 <!ENTITY month.1.name "jannewaris" >
 <!ENTITY month.2.name "febrewaris" >
 <!ENTITY month.3.name "maart" >
