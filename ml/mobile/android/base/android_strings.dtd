@@ -54,7 +54,7 @@
 <!ENTITY back "പുറകോട്ട്">
 <!ENTITY stop "നിര്‍ത്തുക">
 <!ENTITY site_security "സൈറ്റ് സുരക്ഷ">
-<!ENTITY save "സംരക്ഷിക്കുക">
+<!ENTITY edit_mode_cancel "റദ്ദാക്കുക">
 
 <!ENTITY close_tab "റ്റാബ് അടയ്ക്കുക">
 <!ENTITY one_tab "ഒരു ടാബ്">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
+<!ENTITY pref_learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY pref_category_installed_search_engines "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന തിരയല്‍ യന്ത്രങ്ങള്‍">
 <!ENTITY pref_category_add_search_providers "കൂടുതല്‍ തിരയല്‍ സേവന ദാതാക്കളെ ചേര്‍ക്കുക">
 <!ENTITY pref_category_search_restore_defaults "തിരയല്‍ യന്ത്രങ്ങള്‍ പഴയപടിയാക്കുക">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
 <!ENTITY pref_category_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
 <!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
-<!ENTITY pref_developer_remotedebugging_docs "കൂടുതല്‍ അറിയുക">
 <!ENTITY pref_remember_signons "രഹസ്യവാക്കുകള്‍ ഓര്‍ത്തിരിക്കുക">
 
 <!ENTITY pref_category_home "ആസ്ഥാനം">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "സിന്‍ക്">
 <!ENTITY pref_search_suggestions "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
 <!ENTITY pref_import_android "ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക">
-<!ENTITY pref_private_data_history "ബ്രൗസിംഗ്, ഡൗണ്‍ലോഡിംഗ് നാള്‍വഴി">
+<!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 <!ENTITY pref_private_data_formdata "ഫോം, തിരയല്‍ നാള്‍വഴി">
 <!ENTITY pref_private_data_cookies2 "സജീവമായ ലോഗിനുകളും  കൂക്കികളും">
 <!ENTITY pref_private_data_passwords "സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍">
 <!ENTITY pref_private_data_cache "കാഷ്">
 <!ENTITY pref_private_data_offlineApps "ഓഫ്‌ലൈന്‍ വെബ്സൈറ്റ് ഡേറ്റ">
 <!ENTITY pref_private_data_siteSettings2 "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
-<!ENTITY pref_private_data_downloadFiles "ഡൗണ്‍ലോഡ് ചെയ്തവ">
+<!ENTITY pref_private_data_downloadFiles2 "ഡൌണ്‍ലോഡുകള്‍">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "പ്രദര്‍ശിപ്പിക്കുക">
 <!ENTITY pref_panels_hide "ഒളിപ്പിക്കുക">
+<!ENTITY pref_panels_reorder "ക്രമം  മാറ്റുക">
+<!ENTITY pref_panels_move_up "മുകളിലേക്കു് നീക്കൂ">
+<!ENTITY pref_panels_move_down "താഴേക്കു് നീക്കൂ">
 
 <!ENTITY datareporting_notification_title "&brandShortName;കണക്കും വിവരങ്ങളും">
 <!ENTITY datareporting_notification_action_long "എന്തു വിവരമാണ് പങ്കിടേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക ">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
-<!ENTITY datareporting_wifi_title "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
-<!ENTITY datareporting_wifi_summary "തുറന്ന വെബിന്റെ ഭൗമസ്ഥാന സേവനങ്ങള്‍ മെച്ചപെടുത്തുന്നതിന് സഹായിയായി അജ്ഞാതമായ സെല്ലുലാര്‍ ടവറുകളേകുറിച്ചുള്ള വിവരം ശേഖരിക്കാനും അയക്കാനും &brandShortName; - നെ അനുവദിക്കുക.">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
+<!ENTITY datareporting_wifi_geolocation_summary "പശ്ത്താലത്തില്‍ പ്രവര്‍ത്തിയ്ക്കുമ്പോള്‍ വൈഫൈ, സെല്ലുലാര്‍ സ്ഥാന വിവരങ്ങള്‍ ലഭ്യമാക്കി, പ്രദേശ വിവരങ്ങള്‍ മെച്ചപ്പെടുത്തുന്നതിനു് &vendorShortName;-മായി പങ്കിടുന്നു">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "വൃത്തിയാക്കുക">
 <!ENTITY site_settings_no_settings  "വൃത്തിയാക്കാന്‍ സജ്ജീകരണങ്ങള്‍ ഒന്നുമില്ല.">
 
-<!ENTITY reading_list_add "വായനാ പട്ടികയിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY reading_list_added "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ ചേർത്തു">
 <!ENTITY reading_list_removed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്തു">
 <!ENTITY reading_list_failed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ ചേർക്കാൻ സാധിച്ചില്ല">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ഈ പാനലിൽ ഒന്നും കാണാൻ സാധിച്ചില്ല">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; വരെ">
 
 <!ENTITY pin_site_dialog_hint "ഒരു സൂചകപദം അടിക്കുക">
 
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ഇപ്പോൾ പുനരാരംഭിക്കും">
 <!ENTITY exit_guest_session_text "ഈ സെഷനിലെ ബ്രൗസിങ്ങ് ഡേറ്റ നീക്കം ചെയ്യുന്നതാണ്.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
