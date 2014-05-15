@@ -8,7 +8,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "Check ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ">
+<!ENTITY update.checkForUpdatesButton.label       "Check ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label                "ಪರಿಷ್ಕರಣೆಗಳಿಗಾಗಿ Restart ಮಾಡು">
 <!ENTITY update.updateButton.accesskey            "R">
@@ -83,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "ಈ ವ್ಯವಸ್ಥೆಗೆ ಇನ್ನು ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ">
+<!ENTITY update.unsupported.start    "ಈ ವ್ಯವಸ್ಥೆಗೆ ಇನ್ನು ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.">
 <!ENTITY update.unsupported.linkText "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

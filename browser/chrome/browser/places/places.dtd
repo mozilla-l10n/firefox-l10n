@@ -22,14 +22,14 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "ವಿಂಗಡಿಸದೆ ಇರುವ">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "ವಿಂಗಡಣಾ ಕ್ರಮ ಅ > ಳ ">
+<!ENTITY view.sortAscending.label       "A > Z ವಿಂಗಡಣಾ ಕ್ರಮ">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "ವಿಂಗಡಣಾ ಕ್ರಮ ಳ > ಎ">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "ಎಚ್‌ಟಿಎಮ್‌ಎಲ್ ಅನ್ನು ಇಲ್ಲಿಂದ ಆಮದು ಮಾಡಿ…">
+<!ENTITY importBookmarksFromHTML.label     "Import ಪುಟಗುರುತುಗಳನ್ನು HTML ನಿಂದ…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "ಎಚ್‌ಟಿಎಮ್‌ಎಲ್ ಅನ್ನು ಇಲ್ಲಿಂದ ರಫ್ತು ಮಾಡಿ…">
+<!ENTITY exportBookmarksToHTML.label       "Export ಪುಟಗುರುತುಗಳು HTML ಗೆ…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "ಇನ್ನೊಂದು ವೀಕ್ಷಕದಿಂದ ಮಾಹಿತಿಯನ್ನು ಆಮದು ಮಾಡಿ…">
 <!ENTITY importOtherBrowser.accesskey      "A">

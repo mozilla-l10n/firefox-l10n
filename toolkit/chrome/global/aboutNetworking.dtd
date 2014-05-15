@@ -5,7 +5,7 @@
 <!ENTITY aboutNetworking.title                 "ಜಾಲಬಂಧದ ಕುರಿತು">
 <!ENTITY aboutNetworking.warning               "ಇದು ಕೇವಲ ಪ್ರಾಯೋಗಿಕವಷ್ಟೆ. ವಯಸ್ಕರ ಮೇಲ್ವಿಚಾರಣೆ ಇಲ್ಲದೆ ಬಳಸಬೇಡಿ.">
 <!ENTITY aboutNetworking.showNextTime          "ಈ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವನ್ನು ಮುಂದಿನ ಬಾರಿ ತೋರಿಸು">
-<!ENTITY aboutNetworking.ok                    "ಸರಿ">
+<!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.http                  "Http">
 <!ENTITY aboutNetworking.sockets               "ಸಾಕೆಟ್‌ಗಳು">
 <!ENTITY aboutNetworking.dns                   "DNS">

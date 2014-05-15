@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Kannada (IN)
+#define MOZ_LANG_TITLE ಇಂಗ್ಲೀಷ್ (US)
