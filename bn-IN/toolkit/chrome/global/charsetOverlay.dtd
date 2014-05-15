@@ -6,18 +6,18 @@
 <!ENTITY charsetMenu.label             "ক্যারেক্টার এনকোডিং">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "স্বয়ংক্রিয়রূপে সনাক্ত">
-<!ENTITY charsetMenuAutodet.accesskey  "A">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "অধিক এনকোডিং">
-<!ENTITY charsetMenuMore.accesskey     "M">
+<!ENTITY charsetMenuMore.accesskey     "m">
 <!ENTITY charsetMenuMore1.label        "পশ্চিম ইউরোপিয়ান">
-<!ENTITY charsetMenuMore1.accesskey    "W">
+<!ENTITY charsetMenuMore1.accesskey    "w">
 <!ENTITY charsetMenuMore2.label        "পূর্ব ইউরোপিয়ান">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "পূর্বে এশিয়ান">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE &amp; SW এশিয়ান">
+<!ENTITY charsetMenuMore4.label        "SE  SW এশিয়ান">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "মধ্য প্রাচ্য">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "নিজের পছন্দসই তালিকা...">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetCustomize.accesskey    "c">

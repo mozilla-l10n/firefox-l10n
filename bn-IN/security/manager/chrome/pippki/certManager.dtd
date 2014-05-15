@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "বর্তমানে চিহ্নিত সার্টিফিকেট পরীক্ষা করা হচ্ছে…">
 <!ENTITY certmgr.subjectinfo.label            "প্রাপক">
 <!ENTITY certmgr.issuerinfo.label             "প্রকাশক">
-
+<!ENTITY certmgr.periodofvalidity.label       "বৈধতার সময়কাল" >
 <!ENTITY certmgr.fingerprints.label           "ফিঙ্গারপ্রিন্ট">
 <!ENTITY certmgr.certdetail.title             "সার্টিফিকেটের বিবরণ">
 <!ENTITY certmgr.certdetail.cn                "সাধারণ নাম (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "সার্ভার">
 <!ENTITY certmgr.override_lifetime            "সীমাহীন মেয়াদ">
 <!ENTITY certmgr.tokenname                    "নিরাপত্তা ডিভাইস">
-
+<!ENTITY certmgr.begins                       "আরম্ভ হল">
 <!ENTITY certmgr.expires                      "মেয়াদ পূরণের তারিখ">
 <!ENTITY certmgr.email                        "ই-মেইল ঠিকানা">
 <!ENTITY certmgr.serial                       "ক্রমিক সংখ্যা">
