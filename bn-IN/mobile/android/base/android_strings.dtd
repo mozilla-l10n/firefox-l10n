@@ -48,7 +48,7 @@
 
 <!ENTITY go "এগিয়ে চলুন">
 <!ENTITY search "অনুসন্ধান">
-<!ENTITY reload "Reload">
+<!ENTITY reload "পুনরায় লোড করুন">
 <!ENTITY forward "ফরওয়ার্ড">
 <!ENTITY menu "মেনু">
 <!ENTITY back "পূর্ববর্তী">
@@ -235,7 +235,7 @@ size. -->
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সকল ট্যাব বন্ধ করুন">
 <!ENTITY tabs_normal "ট্যাবগুলি">
-<!ENTITY tabs_private "Private">
+<!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "সিঙ্ককরা হয়েছে">
 <!ENTITY set_image_fail "ছবি স্থাপন করা গেল না">
 <!ENTITY set_image_chooser_title "ছবিটি স্থাপন করুন এইভাবে">
@@ -406,7 +406,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_select2 "ডাউনলোড করার জন্যে স্পর্শ করুন">
 
 <!ENTITY updater_downloading_title2 "ডাউনলোড করা হচ্ছে &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_title_failed2 "ডাউনলোড অসমাপ্ত">
 <!ENTITY updater_downloading_select2 "ডাউনলোড ব্যর্থ হয়েছে">
 <!ENTITY updater_downloading_retry2 "পুনরায় চেষ্টা করুন">
 
@@ -433,4 +433,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "মেনু">
-<!ENTITY actionbar_done "Done">
+<!ENTITY actionbar_done "সমাপ্ত">

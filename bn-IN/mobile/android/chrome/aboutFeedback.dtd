@@ -52,5 +52,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "তা নাহলে">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
+<!ENTITY feedback.privacy          "গোপনীয়তার জন্য, দয়া করে আপনার মতামতে কোনো ব্যক্তিগতভাবে শনাক্তযোগ্য তথ্য অন্তর্ভুক্ত করবে না।">
 <!ENTITY feedback.send             "প্রতিক্রিয়া পাঠান">
