@@ -72,3 +72,19 @@
 <!ENTITY languages.customize.Fallback.grouplabel "Codificación de caráuteres pa conteníu antiguu">
 <!ENTITY languages.customize.Fallback.desc "Esta codificación de caráuteres úsase pa conteníu antiguu que nun declara la to codificación.">
 <!ENTITY languages.customize.Fallback.accesskey "C">
+<!ENTITY languages.customize.Fallback.vietnamese "Vietnamés">
+<!ENTITY languages.customize.Fallback.turkish "Turcu">
+<!ENTITY languages.customize.Fallback.traditional "Chinu, tradicional">
+<!ENTITY languages.customize.Fallback.thai "Tailandés">
+<!ENTITY languages.customize.Fallback.simplified "Chinu, simplificáu">
+<!ENTITY languages.customize.Fallback.other "Otros (incl. européu occidental)">
+<!ENTITY languages.customize.Fallback.korean "Coreanu">
+<!ENTITY languages.customize.Fallback.japanese "Xaponés">
+<!ENTITY languages.customize.Fallback.hebrew "Hebréu">
+<!ENTITY languages.customize.Fallback.greek "Griegu">
+<!ENTITY languages.customize.Fallback.cyrillic "Cirílicu">
+<!ENTITY languages.customize.Fallback.cewindows "Centroeuropéu, Microsoft">
+<!ENTITY languages.customize.Fallback.ceiso "Centroeuropéu, ISO">
+<!ENTITY languages.customize.Fallback.baltic "Bálticu">
+<!ENTITY languages.customize.Fallback.auto "Predetermináu pa la llingua actual">
+<!ENTITY languages.customize.Fallback.arabic "Árabe">

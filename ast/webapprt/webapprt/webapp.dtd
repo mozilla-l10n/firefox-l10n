@@ -8,7 +8,6 @@
 <!ENTITY quitApplicationCmdWin.accesskey "C">
 <!ENTITY quitApplicationCmd.label "Quitar">
 <!ENTITY quitApplicationCmd.accesskey "u">
-<!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY hideThisAppCmdMac.key "A">
 <!ENTITY hideOtherAppsCmdMac.label "Anubrir otros">
 <!ENTITY hideOtherAppsCmdMac.key "A">
@@ -36,3 +35,4 @@
 <!ENTITY selectAllCmd.label "Esbillar too">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "b">
+<!ENTITY quitApplicationCmdUnix.key "Q">

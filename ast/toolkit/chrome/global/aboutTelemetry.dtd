@@ -27,10 +27,8 @@
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogrames recopilaos por complementos
 ">
-<!ENTITY aboutTelemetry.toggleOn "
   Calca pa estenderexar la seición
 ">
-<!ENTITY aboutTelemetry.toggleOff "
   Calca pa endolcar la seición
 ">
 <!ENTITY aboutTelemetry.emptySection "
@@ -46,3 +44,7 @@
   Amosar datos non procesaos de cuelgues
 ">
 <!ENTITY aboutTelemetry.lateWritesSection "">
+<!ENTITY aboutTelemetry.toggle "">
+<!ENTITY aboutTelemetry.threadHangStatsSection "">
+<!ENTITY aboutTelemetry.filterText "">
+<!ENTITY aboutTelemetry.addonDetailsSection "">
