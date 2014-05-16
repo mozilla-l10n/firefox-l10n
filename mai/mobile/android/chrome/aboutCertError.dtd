@@ -25,7 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.expert.content " जँ अहाँ समझैत छी जे चलि रहल अछि, अहाँ &brandShortName; केँ कहि सकैत छी जे ओ साइटक पहचान पर भरोसा कएनाइ शुरू करू. 
 <b>मुदा अहाँ एहि साइट पर भरोस करैत छी, एहि त्रुटिक मतलब भए सकैत अछि जे कोनो व्यक्ति अहाँक कनेक्शनक सँग छेड़छाड़ कए रहल अछि.</b>">
 <!ENTITY certerror.expert.contentPara2 "कोनो अपवाद नहि जोड़ू जखन तकि अहाँ नहि जानैत छी जे किअ ई साइट भरोसेमंद पहचानक प्रयोग नहि करैत अछि .">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+<!ENTITY certerror.addTemporaryException.label "साइट देखू">
+<!ENTITY certerror.addPermanentException.label "स्थायी अपवाद जोड़ू">
 
 <!ENTITY certerror.technical.heading "तकनीकी विवरण">
