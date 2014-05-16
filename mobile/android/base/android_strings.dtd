@@ -165,7 +165,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "ਤੇਜ਼ ਸੰਤਰੀ ਲੂੰਬੜ ਵੱਧ ਤੇਜ਼ ਗਤੀ, ਵੱਧ ਆਗਿਆਕਾਰੀ ਸੁਭਾਅ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਆ ਨਾਲ ਤੁਹਾਡੀਆਂ ਉਮੀਦ ਤੋਂ ਅੱਗੇ ਲੰਘ ਗਿਆ ਹੈ। ਗ਼ੈਰ-ਫਾਇਦਾ ਹੋਣ ਕਰਕੇ, ਅਸੀਂ ਬਿਨਾਂ ਕਿਸੇ ਸਮਝੌਤੇ ਕਰਨ ਦੇ ਦਬਾਅ ਦੇ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਖੋਜਾਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਤੇ ਭਵਿੱਖ ਦੇ ਵੈੱਬ ਨੂੰ ਵਧੀਆ ਅਨੁਭਵ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_show_product_announcements "ਪ੍ਰੋਡੱਕਟ ਐਲਾਨ ਵੇਖਾਓ">
@@ -193,9 +193,9 @@ size. -->
 
 <!ENTITY pref_panels_show "ਵੇਖਾਓ">
 <!ENTITY pref_panels_hide "ਓਹਲੇ">
-<!ENTITY pref_panels_reorder "Change order">
-<!ENTITY pref_panels_move_up "Move up">
-<!ENTITY pref_panels_move_down "Move down">
+<!ENTITY pref_panels_reorder "ਕ੍ਰਮ ਬਦਲੋ">
+<!ENTITY pref_panels_move_up "ਉੱਤੇ ਭੇਜੋ">
+<!ENTITY pref_panels_move_down "ਹੇਠਾਂ ਭੇਜੋ">
 
 <!ENTITY datareporting_notification_action_long "ਚੁਣੋ ਕਿ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰਨੀ ਹੈ">
 <!ENTITY datareporting_notification_title "&brandShortName; ਅੰਕੜੇ &amp; ਡਾਟਾ">
@@ -351,7 +351,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "ਟੋਟਖਾ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
+<!ENTITY home_reading_list_hint2 "ਗੁਰ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ਟੋਟਕਾ: ਲੇਖ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਰੀਡਰ ਮੋਡ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖਣ ਨਾਲ ਜੋੜੋ, ਜਦੋਂ ਇਹ ਟਾਈਟਲ ਪੱਟੀ ਉੱਤੇ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ।.">
