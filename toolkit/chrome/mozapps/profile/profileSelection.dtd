@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "ആരംഭത്തില്‍ ചോദിയ്ക്കാതെ തെരഞ്ഞെടുത്ത പ്രൊഫൈല്‍ ഉപയോഗിയ്ക്കുക">
+<!ENTITY            useSelected.accesskey   "ഉ">

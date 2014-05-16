@@ -6,7 +6,7 @@
 <!ENTITY charsetMenu.label             "ക്യാരക്ടര്‍ എന്‍കോഡിങ്">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "സ്വയം കണ്ടുപിടിക്കുക">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "ക">
 <!ENTITY charsetMenuMore.label         "കൂടുതല്‍ എന്‍കോഡിങുകള്‍">
 <!ENTITY charsetMenuMore.accesskey     "m">
 <!ENTITY charsetMenuMore1.label        "പടിഞ്ഞാറന്‍ യൂറോപ്യന്‍">
@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "കിഴക്ക് ഏഷ്യന്‍">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-
-
+<!ENTITY charsetMenuMore4.label        "തെക്ക് കിഴക്കനും തെക്ക് പടിഞ്ഞാറന്‍ ഏഷ്യനും">
+<!ENTITY charsetMenuMore4.accesskey    "ഴ">
 <!ENTITY charsetMenuMore5.label        "മിഡില്‍ ഈസ്റ്റ്">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "പട്ടിക തയ്യാറാക്കുക...">
