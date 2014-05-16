@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY certerror.pagetitle "Conexón non confiable">
+<!ENTITY certerror.longpagetitle "Esta conexón nun ta verificada">
+<!ENTITY certerror.introPara1 "Pidióse a &brandShortName; que se coneute de forma segura a <b>#1</b>, pero nun pue confirmase que la conexón seya segura.">
+<!ENTITY certerror.whatShouldIDo.heading "¿Qué puedo facer?">
+<!ENTITY certerror.whatShouldIDo.content "Si accedíes normalmente a esti sitiu ensin problemes, esti fallu pue debese a que daquién ta intentando suplantar al sitiu, y nun s'aconseya continuar.">
+<!ENTITY certerror.getMeOutOfHere.label "¡Sacáime d'equí!">
+<!ENTITY certerror.expert.heading "Pescancio'l riesgu">
+<!ENTITY certerror.expert.content "Si sabes lo que tas faciendo, pues obligar a &brandShortName; a confiar na identificación d'esti sitiu.
+<b>Magar que confíes nesti sitiu, esti fallu pue significar que daquién ta interfiriendo na to conexón.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición sacante que sepas qu'hai una razón seria pola qu'esti sitiu nun use identificación confiable.">
+<!ENTITY certerror.addTemporaryException.label "Visitar sitiu">
+<!ENTITY certerror.addPermanentException.label "Amestar esceición de mou permanente">
+<!ENTITY certerror.technical.heading "Detalles téunicos">
