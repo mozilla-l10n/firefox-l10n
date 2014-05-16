@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "सत्र क लेल स्वीकारू">
 <!ENTITY  permBlock             "रोकू">
 <!ENTITY  permissionsFor        "एकटार लेल अनुमति:">
-<!ENTITY  permImage             "छवि लोड  करू ">
-<!ENTITY  permPopup             "पाप-अप विंडो खोलू">
-<!ENTITY  permCookie            "कुकी सेट  करू ">
-<!ENTITY  permNotifications     "सूचना देखाउ">
-<!ENTITY  permInstall           "विस्तार अथवा प्रसंग संस्थापित  करू ">
-<!ENTITY  permGeo               "स्थान साझा  करू ">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय करू">
-<!ENTITY  permFullscreen        "सौंसे स्क्रीन मे जाउ">
-<!ENTITY  permPointerLock2      "माउस पॉइंटर नुकाउ">
 
-<!ENTITY  permIndexedDB              "आफ़लाइन भंडारण बनेने राखू">
 <!ENTITY  permClearStorage           "भंडारण साफ़ करू ">
 <!ENTITY  permClearStorage.accesskey "C">
 
@@ -85,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "वेब साइट: ">
 <!ENTITY  securityView.identity.verifier "एकटार द्वारा सत्यापित: ">
 
-<!ENTITY  securityView.privacy.header                   "गोपनीयता &amp; इतिहास">
 <!ENTITY  securityView.privacy.history                  "की हम ई वेब साइट आइसँ पहिने देखने छी?">
 <!ENTITY  securityView.privacy.cookies                  "की ई वेब साइट हमर कंप्यूटर पर सूचना (कुकी) जमा कए रहल अछि?">
 <!ENTITY  securityView.privacy.viewCookies              "कुकी देखू">

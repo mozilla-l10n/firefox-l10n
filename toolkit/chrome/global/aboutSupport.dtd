@@ -8,15 +8,37 @@
 <!ENTITY aboutSupport.pageSubtitle "  This  page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!ENTITY aboutSupport.crashes.title "क्रैश रिपोर्टर">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Report ID">
+<!ENTITY aboutSupport.crashes.sendDate "सौंपल">
+<!ENTITY aboutSupport.crashes.allReports "सभ क्रैश रिपोर्टर">
+<!ENTITY aboutSupport.crashes.noConfig "इ अनुप्रयोगक क्रैश रिपोट देखाबैमे विन्यस्त कएल गेल अछि.">
+
 <!ENTITY aboutSupport.extensionsTitle "विस्तार">
 <!ENTITY aboutSupport.extensionName "नाम">
 <!ENTITY aboutSupport.extensionEnabled "सक्रिय">
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.experimentsTitle "प्रायोगिक फीचर">
+<!ENTITY aboutSupport.experimentName "नाम">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "विवरण">
+<!ENTITY aboutSupport.experimentActive "सक्रिय करू ">
+<!ENTITY aboutSupport.experimentEndDate "समाप्ति तिथि ">
+<!ENTITY aboutSupport.experimentHomepage "होमपेज">
+
+
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "अद्यतन इतिहास">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "अद्यतन इतिहास देखाउ">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल निर्देशिका">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -27,7 +49,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्रिय प्लगिन">
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोक्ता प्रतिनिधि">
-<!ENTITY aboutSupport.appBasicsCrashIDs "क्रैश रिपोर्ट">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
 
 <!ENTITY aboutSupport.showDir.label "खुलल निर्देशिका">
@@ -59,7 +80,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "लाइब्रेरी संस्करण">
 
 <!ENTITY aboutSupport.installationHistoryTitle "संस्थापन इतिहास">
-<!ENTITY aboutSupport.updateHistoryTitle "अद्यतन इतिहास">
+<!ENTITY aboutSupport.updateHistoryTitle "इतिहास अद्यतन करू">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "सभक क्लिपबोर्ड मे नकल लिअ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "कच्चा डाटा क्लिपबोर्ड मे नकल लिअ">

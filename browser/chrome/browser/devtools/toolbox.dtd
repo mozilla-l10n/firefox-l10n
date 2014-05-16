@@ -9,34 +9,71 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "डेवलेपरक टूलबार बन्न करू">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
 
-<!ENTITY options.context.label         "उन्नत सेटिंग (ब्राउजर फेर आरंभक जरूरी)">
-<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
+
+
+<!-- + is above this key on many keyboards -->
+
+
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
+
+<!ENTITY options.context.inspector "इंस्पेक्टर">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label    "क्रोम डिबगिंग सक्रिय करू">
-<!ENTITY options.enableChrome.tooltip  "ई विकल्पकेँ चालू कएनाइ विभिन्न डेवलेपर अओजारक उपयोग ब्राउजर संदर्भमे अनुमति दैछ">
-<!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label    "दूरस्थ डिबगिंग सक्रिय करू">
-<!ENTITY options.enableRemote.tooltip  "ई विकल्पकेँ चालू कएनाइ डेवलेपर अओजारक उपयोग ब्राउजर संदर्भमे फायरफाक्सकेँ तरहसँ दूरसँ">
+<!ENTITY options.enableRemote.label3    "दूरस्थ डिबगिंग सक्रिय करू">
+<!ENTITY options.enableRemote.tooltip   "ई विकल्पकेँ चालू कएनाइ डेवलेपर अओजारक उपयोग ब्राउजर संदर्भमे फायरफाक्सकेँ तरहसँ दूरसँ">
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
 <!ENTITY options.selectDefaultTools.label     "तयशूदा फ़ायरफ़ॉक्स डेवलेपर टूल">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
 <!ENTITY options.selectAdditionalTools.label  "डेवलेपर टूल एड-ऑन द्वारा संस्थापित कएल गेल">
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
@@ -44,3 +81,39 @@
 <!ENTITY options.selectDevToolsTheme.label   "DevTools थीम चुनू:">
 <!ENTITY options.darkTheme.label             "डार्क थीम">
 <!ENTITY options.lightTheme.label            "हल्का थीम">
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "वेबक कंसोल">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "शैली संपादक">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "मूल स्रोत देखाउ">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+

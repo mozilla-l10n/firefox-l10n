@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                " मोजुदा  जाँचकर्ता प्रमाणपत्र…">
 <!ENTITY certmgr.subjectinfo.label            "एकटारामे निर्गत">
 <!ENTITY certmgr.issuerinfo.label             "एकटार द्वारा निर्गत">
-<!ENTITY certmgr.validity.label               "वैधता" >
+
 <!ENTITY certmgr.fingerprints.label           "फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
 <!ENTITY certmgr.certdetail.cn                "सामान्य नाम (CN)">
@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र जमावट संपादित  करू ">
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू ">
-<!ENTITY certmgr.editsslcert.title            "वेबसाइट प्रमाणपत्र ट्रस्ट जमावट संपादित  करू ">
 <!ENTITY certmgr.editcert.edittrust           "ट्रस्ट जमावट संपादित  करू :">
 <!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत अछि .">
 <!ENTITY certmgr.editcert.trustemail          "ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत अछि .">
 <!ENTITY certmgr.editcert.trustobjsign        "ई प्रमाणपत्र साफ्टवेयर निर्माता केँ पहचान सकैत अछि .">
-<!ENTITY certmgr.editsslcert.edittrust        "प्रमाणपत्र ट्रस्ट जमावट संपादित करू :">
-<!ENTITY certmgr.editsslcert.dotrust          "ई प्रमाणपत्र क प्रमाणिकता जाँचू.">
-<!ENTITY certmgr.editsslcert.donttrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोस नहि करू .">
 <!ENTITY certmgr.editemailcert.title          "ईमेल प्रमाणपत्र ट्रस्ट सेटिंग संपादित करू ">
-<!ENTITY certmgr.editemailcert.edittrust      "प्रमाणपत्र ट्रस्ट जमावट क संपादित करू :">
-<!ENTITY certmgr.editemailcert.dotrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोस करू .">
-<!ENTITY certmgr.editemailcert.donttrust      "ई प्रमाणपत्र क प्रमाणिकता पर भरोस नहि करू .">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेटाउ">
 <!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल आग्रह पठोअने छी:">
@@ -63,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "सर्वर">
 <!ENTITY certmgr.override_lifetime            "जीवनपर्यंत">
 <!ENTITY certmgr.tokenname                    "सुरक्षा युक्ति">
-<!ENTITY certmgr.issued                       "एतय निर्गत">
+
 <!ENTITY certmgr.expires                      "एकरा पर समाप्त">
 <!ENTITY certmgr.email                        "ईमेल पता">
 <!ENTITY certmgr.serial                       "क्रम संख्या">

@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "डाउनलोड">
 
-<!ENTITY showWhenDownloading.label     "फाइल डाउनलोडिंगक दौरान डाउनलोडिंग विंडो देखाउ">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label " एकटारा बन्न करू जखन सबहि डाउनलोड समाप्त भ' जाएत  अछि ">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "एतय फाइल सहेजू">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ब्राउज करू …">

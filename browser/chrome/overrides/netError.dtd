@@ -70,8 +70,8 @@
 <!ENTITY netTimeout.title "कनेक्शनक समय समाप्त भए गेल">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "पता समझाएल नहि गेल छल">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "पता समझाएल नहि गेल छल">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>अहाँ आन साफ्टवेयर केँ एहि पता केँ खोलबाक लेल संस्थापित कए सकैत अछि.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "प्राक्सी सर्वर कनेक्शन अस्वीकार कए रहल अछि ">

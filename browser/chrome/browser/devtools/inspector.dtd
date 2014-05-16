@@ -1,3 +1,6 @@
+
+
+
 <!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नकल लिअ">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -14,3 +17,4 @@
 
 <!ENTITY inspectorSearchHTML.label          "खोजू HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
+

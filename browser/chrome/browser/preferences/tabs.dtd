@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "टैब">
