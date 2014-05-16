@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title "Tocante al tráficu de rede">
+<!ENTITY aboutNetworking.warning "Esto ye mui esperimental. Nun ha usase ensin supervisión d'un adultu.">
+<!ENTITY aboutNetworking.showNextTime "Amosar esti avisu la próxima vegada">
+<!ENTITY aboutNetworking.ok "Aceutar">
+<!ENTITY aboutNetworking.http "Http">
+<!ENTITY aboutNetworking.sockets "Sockets">
+<!ENTITY aboutNetworking.dns "DNS">
+<!ENTITY aboutNetworking.websockets "WebSockets">
+<!ENTITY aboutNetworking.refresh "Refrescar">
+<!ENTITY aboutNetworking.autoRefresh "Refrescar automáticamente cada 3 segundos">
+<!ENTITY aboutNetworking.hostname "Nome del sirvidor">
+<!ENTITY aboutNetworking.port "Puertu">
+<!ENTITY aboutNetworking.spdy "SPDY">
+<!ENTITY aboutNetworking.ssl "SSL">
+<!ENTITY aboutNetworking.active "Activáu">
+<!ENTITY aboutNetworking.idle "Inactivu">
+<!ENTITY aboutNetworking.host "Sirvidor">
+<!ENTITY aboutNetworking.tcp "TCP">
+<!ENTITY aboutNetworking.sent "Unviao">
+<!ENTITY aboutNetworking.received "Recibío">
+<!ENTITY aboutNetworking.family "Familia">
+<!ENTITY aboutNetworking.addresses "Direiciones">
+<!ENTITY aboutNetworking.expires "Espira (segundos)">
+<!ENTITY aboutNetworking.messagesSent "Mensaxes unviaos">
+<!ENTITY aboutNetworking.messagesReceived "Mensaxes recibíos">
+<!ENTITY aboutNetworking.bytesSent "Bytes unviaos">
+<!ENTITY aboutNetworking.bytesReceived "Bytes recibíos">
