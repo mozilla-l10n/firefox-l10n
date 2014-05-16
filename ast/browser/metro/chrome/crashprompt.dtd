@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY crashprompt.title "¿Prestaríate unviar informes de fallos a Mozilla?">
+<!ENTITY crashprompt.message "Sentímoslo, &brandShortName; acaba de recuperase d'un fallu. Unviar informes de fallu pue ayudar a Mozilla a facer &brandShortName; más estable y seguru. Siempre pues camudar les preferencies en Configuración/Opciones.">
+<!ENTITY crashprompt.detailsLink "¿Qué ye un informe de fallu?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallu contién dalgunos detalles sobre'l fallu, la máquina, asina como una instantánea del estáu del restolador web cuando falló.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Esto pue incluyir coses como páxines abiertes, testu rellenáu en formularios y conteníu de mensaxes abiertos, l'historial de navegación recién o la xeollocalización compartida con un sitiu.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Usamos informes de fallos pa intentar iguar problemes y ameyorar los nuesos productos. Remanamos la información talo y como describimos na nuesa ">
+<!ENTITY crashprompt.privacyPolicyLink "política de privacidá de &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Incluyir la direición de la páxina na que taba">
+<!ENTITY crashprompt.acceptbutton "Unviar informes">
+<!ENTITY crashprompt.refusebutton "Nun unviar">
+<!ENTITY crashprompt.privacyPolicy.title "política de privacidá de &brandShortName;">

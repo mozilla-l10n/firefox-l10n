@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.description1 "Accede a los tos marcadores, contraseñes y llingüetes abiertes en tolos preseos">
+<!ENTITY sync.flyout.presetup.setup.label "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Si tienes una cuenta &syncBrand.shortName.label;, seleiciona &quot;Empareyar un preséu&quot; nel otru preséu ya inxerta esti códigu.">
+<!ENTITY sync.flyout.setup.description2 "Si nun tienes una cuenta de &syncBrand.shortName.label;, pues facer una nel restolador &brandShortName; d'escritoriu.">
+<!ENTITY sync.flyout.setup.manual.label_2 "Nun toi cerca'l mio equipu…">
+<!ENTITY sync.flyout.setup.description3 "Nota:">
+<!ENTITY sync.flyout.setup.description4_2 "P'alcontrar &quot;Empareyar un preséu&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[Escritoriu] Abri &quot;Opciones&quot; o &quot;Preferencies&quot; y llueu seleiciona &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Por favor, introduz la información de la cuenta de &syncBrand.shortName.label; y la clave de recuperación xenerada pol equipu">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nome de cuenta">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Contraseña">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clave de recuperación">
+<!ENTITY sync.flyout.manualsetup.connect.label "Coneutar">
+<!ENTITY sync.flyout.setupsuccess.description1 "Acabes de coneutar &brandShortName; a la cuenta &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Los tos datos de &syncBrand.shortName.label; tán descargándose en segundu planu. Les llingüetes sincronizaes puen alcontrase na páxina d'aniciu de &brandShortName;">
+<!ENTITY sync.flyout.setupfailure.description "&brandShortName; nun pudo coneutase a la to cuenta &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Encaboxar">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Reintentar">
+<!ENTITY sync.flyout.connected.account "Cuenta:">
+<!ENTITY sync.flyout.connected.device "Preséu:">
+<!ENTITY sync.flyout.connected.disconnect "Desconeutar">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "¿Desconeutar el preséu de &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Tolos datos personales tanto nesti preséu como na cuenta de &syncBrand.shortName.label; van permanecer intactos.">
+<!ENTITY sync.flyout.connected.cancel "Encaboxar">
+<!ENTITY sync.flyout.connected.pair "Empareyar un preséu">
+<!ENTITY sync.flyout.pairNewDevice.description "Nel preséu nuevu que quies empareyar con esti, seleiciona &quot;Configurar &syncBrand.shortName.label;&quot; ya inxerta'l códigu que produz el preséu">
+<!ENTITY sync.flyout.pairNewDevice.pair "Empareyar">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Nota:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "P'alcontrar el códigu,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Escritoriu] Abri &quot;Opciones&quot; o &quot;Preferencies&quot; y llueu sigui los pasos: &syncBrand.shortName.label; -&gt; Configurar &syncBrand.shortName.label; -&gt; Yá tengo una cuenta">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Vuelvi a intentalo">
+<!ENTITY sync.flyout.pairSuccess.description1 "El preséu nuevu amestóse correutamente.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Los tos datos de &syncBrand.shortName.label; tán descargándose en segundu planu. Les llingüetes remotes puen alcontrase na páxina d'aniciu de &brandShortName;.">

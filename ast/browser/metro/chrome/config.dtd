@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label "Guetar">
+<!ENTITY addpref.name "Nome">
+<!ENTITY cancel.label "Encaboxar">
+<!ENTITY toggle.label "Alternar">
+<!ENTITY integer.label "enteru">
+<!ENTITY string.label "cadena">
+<!ENTITY boolean.label "sí/non">
+<!ENTITY string.placeholder "Introduz una cadena">
+<!ENTITY number.placeholder "Introduz un númberu">
