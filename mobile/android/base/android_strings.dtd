@@ -53,7 +53,7 @@
 <!ENTITY pref_category_customize "Настройка">
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_browser_locale "Язык браузера">
-<!ENTITY locale_system_default "Системный по умолчанию">
+<!ENTITY locale_system_default "Язык устройства">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
