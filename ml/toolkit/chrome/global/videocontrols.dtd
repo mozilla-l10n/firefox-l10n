@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "ശബ്ദം വയ്ക്കുക">
 <!ENTITY fullscreenButton.enterfullscreenlabel "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
 <!ENTITY fullscreenButton.exitfullscreenlabel "സ്ക്രീന്‍ പൂര്‍വ്വഃവസ്ഥയിലാക്കുക">
-
+<!ENTITY castingButton.castingLabel "സ്ക്രീനിലേക്കു് കാസ്റ്റ് ചെയ്യൂ">
 
 <!ENTITY stats.media "മീഡിയാ">
 <!ENTITY stats.size "വ്യാപ്തി">

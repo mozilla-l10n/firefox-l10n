@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "എല്ലാം അടയാളപ്പെടുത്തുക ">
 <!ENTITY highlightAll.accesskey "എ">
 <!ENTITY highlightAll.tooltiptext "വാചകത്തിന്റെ എല്ലാ ആവര്‍ത്തനങ്ങളും അടയാളപ്പെടുത്തുക ">
-
-
+<!ENTITY caseSensitive.label "അക്ഷരങ്ങള്‍ ഒത്തുനോക്കുക">
+<!ENTITY caseSensitive.accesskey "ഒ">
 <!ENTITY caseSensitive.tooltiptext "കേസ് സെന്‍സിറ്റിവിറ്റി ഉപയോഗിച്ചു് തെരയുക">
