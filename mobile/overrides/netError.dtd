@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "पृष्ठक लोडिंगमे समस्या">
-<!ENTITY retry.label "Try Again">
+<!ENTITY retry.label "फेर कोशिश करू">
 <!-- Specific error messages -->
 
 
@@ -17,14 +17,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहि भेटल">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>पताकेँ टाइपिंग गलतीक लेल जाँचू जहिना 
+<strong>ww</strong>.example.com 
+<strong>www</strong>.example.com</li>क बदला 
+<li>जँ अहाँ कोनो पृष्ठ लोड करबामे असमर्थ अछि, अपन युक्ति आँकड़ा जाँचू अथवा Wi-Fi कनेक्शन.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहि भेटल">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -47,27 +45,23 @@
 <!ENTITY netInterrupt.title "कनेक्शन बाधित कएल गेल छल">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.title "दस्ताबेज क समय समाप्त">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>फेर कोसिस करू. &brandShortName; कनेक्शन खोलबाक कोशिश करताह आओर पृष्ठ फेर लोड करताह.</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>कृपया वेबसाइट मालिक सँ हुनका एहि समस्याक संबंधमे बताबैक लेल संपर्क करू.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>कृपया वेबसाइट मालिक सँ हुनका एहि समस्याक संबंधमे बताबैक लेल संपर्क करू.</li> 
+</ul>">
 
 <!ENTITY netReset.title "कनेक्शन रिसेट कएल गेल छल">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -75,9 +69,10 @@
 <!ENTITY netTimeout.title "कनेक्शनक समय समाप्त भए गेल">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "पता समझाएल नहि गेल छल">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>अहाँ आन साफ्टवेयर केँ एहि पता केँ खोलबाक लेल संस्थापित कए सकैत अछि.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "पता समझल नहिगेल छला">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>अहाँक ई पताकेँ खोलबाक लेल दोसर साफ्टवेयरकेँ संस्थापित करै पड़त.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "प्राक्सी सर्वर कनेक्शन अस्वीकार कए रहल अछि ">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -86,12 +81,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़वमे असमर्थ">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>प्राक्सी सेटिंग जाँचू जाहिसँ पक्का कए सकू जे ओ सही अछि.</li> 
+<li>जाँचू पक्का करबाक लेल जे अहाँक युक्तिक संग कार्यशील आँकड़ा अछि अथवा Wi-Fi कनेक्शन.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीकसँ पुनर्निर्देशित नहि कए रहल अछि ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -116,17 +109,15 @@
 <li>जँ अहाँ सर्वरसँ पाछाँ सफलतापूर्वक कनेक्ट भए चुकल अछि, त्रुटि अस्थायी भए सकैत अछि, आओर अहाँ एकरा बादमे फेर कोशिश कए सकैत  अछि.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>साइट अस्थायी रूपेँ मोजुद नहि अछि अथवा बहुत व्यस्त अछि. किछु क्षणमे फेर कोसिस करू.</li> 
+<li>जँ अहाँ कोनो पन्ना लोड करबामे असमर्थ छी, अपन मोबाइल युक्ति आँकड़ा जाँचू या Wi-Fi कनेक्शन.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "अथवा अहाँ एकटा अपवाद जोड़ि सकैत अछि …">
