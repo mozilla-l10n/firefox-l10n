@@ -5,7 +5,7 @@
 
 <!ENTITY charsetMenu.label             "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "ಸ್ವಯಂ-ಹುಡುಕು">
+<!ENTITY charsetMenuAutodet.label      "ಸ್ವಯಂ-ಹುಡುಕಾಟ">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "ಇನ್ನಷ್ಟು ಎನ್ಕೋಡಿಂಗ್‌ಗಳು">
 <!ENTITY charsetMenuMore.accesskey     "m">
