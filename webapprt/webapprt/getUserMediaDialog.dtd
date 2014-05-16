@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY getUserMediaDialog.title "Compartir medios">
+<!ENTITY getUserMediaDialog.button.accept.label "Compartir">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label "Encaboxar">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "a">
+<!ENTITY getUserMediaDialog.video.label "Seleiciona la cámara">
+<!ENTITY getUserMediaDialog.video.noVideo "Nun hai videu">
+<!ENTITY getUserMediaDialog.audio.label "Seleiciona micrófonu">
+<!ENTITY getUserMediaDialog.audio.noAudio "Nun hai audiu">
