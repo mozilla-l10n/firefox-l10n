@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "ಪ್ರಸ್ತುತ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY certmgr.subjectinfo.label            "ಇವರಿಗೆ ಒದಗಿಸಲಾಗಿದೆ">
 <!ENTITY certmgr.issuerinfo.label             "ಒದಗಿಸಿದವರು">
-
+<!ENTITY certmgr.periodofvalidity.label       "ಸಿಂಧುವಾಗಿರುವ ಅವಧಿ" >
 <!ENTITY certmgr.fingerprints.label           "ಬೆರಳಚ್ಚುಗಳು">
 <!ENTITY certmgr.certdetail.title             "ಪ್ರಮಾಣಪತ್ರದ ವಿವರಗಳು">
 <!ENTITY certmgr.certdetail.cn                "ಸಾಮಾನ್ಯ ಹೆಸರು (CN)">
@@ -44,7 +44,7 @@
 <!ENTITY certmgr.editcert.trustemail          "ಈ ಪ್ರಮಾಣಪತ್ರವು ಮೇಲ್‍ ಬಳೆಕದಾರರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.">
 <!ENTITY certmgr.editcert.trustobjsign        "ಈ ಪ್ರಮಾಣಪತ್ರವು ತಂತ್ರಾಂಶ ತಯಾರಕರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.">
 <!ENTITY certmgr.editemailcert.title          "ಈಮೇಲ್ ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">
-
+<!ENTITY certmgr.editemailcert.edittrust      "ನಂಬಿಕಾ ಪ್ರಮಾಣಪತ್ರದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು:">
 <!ENTITY certmgr.editemailcert.dotrust        "ಈ ಪ್ರಮಾಣಪತ್ರದ ನಂಬಿಕಾರ್ಹತೆಯನ್ನು ನಂಬು.">
 <!ENTITY certmgr.editemailcert.donttrust      "ಈ ಪ್ರಮಾಣ ಪತ್ರದ ನಂಬಿಕಾರ್ಹತೆಯನ್ನು ನಂಬದಿರು.">
 
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "ಪರಿಚಾರಕ">
 <!ENTITY certmgr.override_lifetime            "ಜೀವಿತಾವಧಿ">
 <!ENTITY certmgr.tokenname                    "ಸುರಕ್ಷತಾ ಸಾಧನ">
-
+<!ENTITY certmgr.begins                       "ಆರಂಭಗೊಳ್ಳುವುದು">
 <!ENTITY certmgr.expires                      "ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ">
 <!ENTITY certmgr.email                        "ಇ-ಮೇಲ್ ವಿಳಾಸ">
 <!ENTITY certmgr.serial                       "ಅನುಕ್ರಮ ಸಂಖ್ಯೆ">

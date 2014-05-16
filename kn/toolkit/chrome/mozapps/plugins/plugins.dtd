@@ -28,7 +28,7 @@
 <!ENTITY unsupportedPlatform.pre                             "ಕ್ಷಮಿಸಿ, &brandShortName; ನಿಂದ ಈ ಸಾಧನದಲ್ಲಿ ಫ್ಲಾಶ್ ಅನ್ನು ಚಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
+<!ENTITY unsupportedPlatform.learnMore                       "L">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
