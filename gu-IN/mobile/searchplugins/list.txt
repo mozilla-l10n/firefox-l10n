@@ -1,4 +1,6 @@
-amazondotcom
+amazon-in
+bing
+eBay-in
 google
-twitter
-wikipedia
+wikipedia-gu
+yahoo-in
