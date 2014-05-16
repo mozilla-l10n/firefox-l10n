@@ -23,6 +23,9 @@ install software on this computer.">
 not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "अहाँ एतय सँ  हरदम  &brandShortName; क नवीनतम संस्करण पा सकैत  अछि :">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "सहयुक्ति सुसंगता जाँच रहल अछि ">
 <!ENTITY  incompatibleCheck.label         "अहाँक सहयुक्ति क नव संस्करणक लेल देख रहल अछि …">
 

@@ -4,12 +4,11 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
-<!ENTITY dntTrackingNopref.label        "वेबसाइट केँ हमर ट्रैकिंग वरीयताक जानकारी नहि दिअ.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "वेबसाइट केँ बताउ जे हम नहि चाहैत छी हमरा ट्रैक कएल जाएनाइ चाहैत छी">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "वेबसाइट केँ बताउ जे हम चाहैत छी जे हमरा ट्रैक कएल जाए.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
+
+
+
+
 <!ENTITY doNotTrackInfo.label           "आओर जानू">
 
 <!ENTITY  history.label                 "इतिहास">

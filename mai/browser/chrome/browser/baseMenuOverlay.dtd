@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName;  मदति ">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
@@ -30,6 +33,8 @@
 
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिअ…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
+
+
 
 <!ENTITY preferencesCmdMac.label        "वरीयता…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

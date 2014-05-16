@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "अद्यतन  करू ">
 
 <!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
-<!ENTITY updateAuto.accesskey            "A">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
+<!ENTITY updateAuto1.accesskey           "A">
+
+
 <!ENTITY updateCheck.label               "अद्यतन जाँचू मुदा हमरा चुनै दिअ जे कतए ओकरा संस्थापित कएनाइ अछि">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "हमरा चेताउ जँ ई कोनो सहयुक्ति केँ निष्क्रिय करैत अछि">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 
 <!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "वापसी सूची">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "सत्यापन">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">

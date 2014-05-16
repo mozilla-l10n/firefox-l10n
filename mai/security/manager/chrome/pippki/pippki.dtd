@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "नीति">
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्र जाँचू">
 <!ENTITY downloadCert.viewPolicy.text "CA नीति आओर प्रक्रिया जाँचू">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "प्रमाणपत्र  मोजुद अछि ">
-<!ENTITY caCertExists.message "प्रमाणपत्र पहिने सँ  मोजुद अछि .">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "प्रयोक्ता पहचान आग्रह">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "मुदा अहाँक गोपन कुँजी केँ सर्टिफिकेट आथोरिटी क द्वारा जमा कएल जएताह, आओर अहाँक गोपित इमेल केँ पढ़बाक लेल प्रयुक्त कएल जाए सकत बिनु अहाँक अनुमतिक.">
 <!ENTITY examineCert.label "प्रमाणपत्र देखू">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message " मदतिक लेल सिस्टम प्रशासक सँ पूछू">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "एकटा निज कुँजी उत्पन्न कए रहल अछि ">

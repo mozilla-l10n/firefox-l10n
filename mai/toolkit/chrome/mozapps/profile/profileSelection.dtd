@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "आफ़लाइन कार्य (o)">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       " स्टार्टअप पर नहि पूछू (s)">
-<!ENTITY            autoSelect.accesskey   "s">
+
