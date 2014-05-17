@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Да ли бисте желели да пошаљете Mozilla-и извештај о паду система?">
+<!ENTITY crashprompt.message         "Жао нам је, &brandShortName; се управо опоравио од пада система. Слање извештаја о паду система ће помоћи Mozilla фондацији да учини &brandShortName; стабилнијим и сигурнијим. Увек можете променити параметре у Поставке/Опције.">
+<!ENTITY crashprompt.detailsLink     "Шта се налази у извештају о паду система?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Извештај о паду система садржи поједине детаље о квару, Вашем уређају, као и приказ стања Вашег прегледача у тренутку када је дошло до пада.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Ово може садржати ствари као отворене странице, текст уписан унутар форма и садржај порука, недавна историја прегледача или геоликацију дељену са сајтом.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Ми користимо извештаје о паду да бисмо покушали да побољшамо наше производе. Користимо Ваше информације као што смо описали у нашим">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; полиси приватности">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Узми у обзир адресу странице коју сам посетио">
+<!ENTITY crashprompt.acceptbutton    "Пошаљи извештаје">
+<!ENTITY crashprompt.refusebutton    "Немој послати">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; полиса приватности">

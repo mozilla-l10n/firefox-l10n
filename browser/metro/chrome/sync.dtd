@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Приступите Вашим забелешкама, шифрама и отворите језичке преко уређаја">
+<!ENTITY sync.flyout.presetup.setup.label      "Подеси &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Подеси &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Ако имаш &syncBrand.shortName.label; налог, означи &quot;Упари уређај&quot; на Вашем другом уређају и укуцајте овај код.">
+<!ENTITY sync.flyout.setup.description2        "Ако don&apos;t имаш &syncBrand.shortName.label; налог, можете направити један на Вашем &brandShortName; прегледачу радне површине.">
+<!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m није близу мог рачунара…">
+<!ENTITY sync.flyout.setup.description3        "Белешка:">
+<!ENTITY sync.flyout.setup.description4_2      "Да нађете &quot;Упари уређај&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Радна површина] Отвори &quot;Опције&quot; или &quot;Подешавања&quot; и онда означи &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Више &gt; Подешавања &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Молимо да унесете Ваше &syncBrand.shortName.label; информације о налогу и кључ за опоравак који генерише Ваш рачунар">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Име налога">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Лозинка">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Кључ за опоравак">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Конекција">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Управо си повезао &brandShortName; на &syncBrand.shortName.label; налог">
+<!ENTITY sync.flyout.setupsuccess.description2      "Ваш &syncBrand.shortName.label; податак је преузет на позадину. Ваши ускађени језичци могу бити пронађени на &brandShortName; почетној страници">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; не може се конектовати на Ваш &syncBrand.shortName.label; налог.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Откажи">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Покушај поново">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Налог:">
+<!ENTITY sync.flyout.connected.device                     "Ваш уређај:">
+<!ENTITY sync.flyout.connected.disconnect                 "Прекини конекцију">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Прекини конекцију Вашег уређаја са &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Сви твоји лични подаци на овом уређају и на &syncBrand.shortName.label; налогу ће остати нетакнути.">
+<!ENTITY sync.flyout.connected.cancel                     "Откажи">
+<!ENTITY sync.flyout.connected.pair                       "Упари уређај">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "На новом уређају који желите да упариш, означи &quot;Подесите &syncBrand.shortName.label;&quot; и унесите код који уређај произведе">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Упари">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Белешка:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "За проналазак кода,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Радна површина] Отвори &quot;Options&quot; или &quot;Подешавања&quot; и прати кораке: &syncBrand.shortName.label; -&gt; Подеси &syncBrand.shortName.label; -&gt; Имам налог">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Више &gt; Подешавања &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Молим покушајте поново">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Нови уређај је успешно додат.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Ваш &syncBrand.shortName.label; податак је преузет на позадину. Ваши удаљени језичци могу бити пронађени на &brandShortName; почетној страници.">
