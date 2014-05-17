@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Одведи ме одавде!">
+<!ENTITY safeb.palm.decline.label "Игнориши ово упозорење">
+<!ENTITY safeb.palm.notforgery.label2 "Ово није веб фалсификат…">
+<!ENTITY safeb.palm.reportPage.label "Зашто је ова страница блокирана?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Пријављена злонамерна стваница!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Ова стваница <span id='malware_sitename'/> је пријављена као злонамерна страница која Вас напада и блокирана је према Вашим сигурносним параметрима.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Странице покушавају да инсталирају програме који краду приватне информације, користе Ваш рачунар да би напали друге или да оштете Ваш систем.</p><p>Неке нападајуће странице намерно расподељују штетне програме, али многи су угрожени без знања или дозволе њихових власника.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Сумњља се да је веб фалсификат…!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Уношењем било којих приватних информација може да доведе до крађе идентитета или неке друге преваре.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ови типови веб фалсификата се користе као преваре које се називају "phishing", у којима се варљиве веб странице и адресе е-поште користе да имитирају изворе којима можете веровати.</p>">

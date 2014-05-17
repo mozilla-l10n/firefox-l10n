@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Опције">
+<!ENTITY optionsHeader.char.title                                "Кодирање карактера">
+<!ENTITY optionsHeader.char.autodetect.label                     "Аутоматско препознавање">
+<!ENTITY optionsHeader.char.options.label                        "Прикажи опције кодирања на палети апликације">
+
+<!ENTITY clearPrivateData.title                                  "Брисање приватних података">
+<!ENTITY clearPrivateData.label                                  "Обришите Вашу историју прегледавања, лозинке, колачиће, и формулар податке на овом уређају">
+<!ENTITY clearPrivateData.button                                 "Обриши">
+<!ENTITY clearPrivateData.done                                   "Обављено!">
+<!ENTITY clearPrivateData.history                                "Историја прегледавања">
+<!ENTITY clearPrivateData.otherdata                              "Други подаци (лозинке, кеш, колачићи, итд.)">
+<!ENTITY clearPrivateData.downloadHist                           "Историја преузимања">
+<!ENTITY clearPrivateData.cookies                                "Колачићи">
+<!ENTITY clearPrivateData.cache                                  "Кеш">
+<!ENTITY clearPrivateData.sitePref                               "Поставке сајта">
+<!ENTITY clearPrivateData.formSearchHist                         "Formа &amp; историја прегледа">
+<!ENTITY clearPrivateData.passwords                              "Сачуване лозинке">
+<!ENTITY clearPrivateData.offline                                "Подаци сајта ван мреже">
+<!ENTITY clearPrivateData.logins                                 "Активна логовања">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Запамти лозинке">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Прикажи дугмад за навигацију">
+<!ENTITY doNotTrack.title                                        "Немој ме пратити">
+<!ENTITY doNotTrack.options.doNotTrack                           "Реци сајту да не желим да ме прати">
+<!ENTITY doNotTrack.options.doTrack                              "Реци сајту да желим да ме прати">
+<!ENTITY doNotTrack.options.default                              "Немој рећи сајту ништа о праћењу">
+<!ENTITY doNotTrack.learnMoreLink                                "Научи још&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Извештај о паду система">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ће поднети извештај о паду система да помогнете Mozilla-и да учини Ваш прегледач стабилнијим и сигурнијим">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Укључити адресу странице на којој сам био">
+<!ENTITY optionsHeader.telemetry.title                            "Телеметрија">
+<!ENTITY optionsHeader.telemetry.label                            "Размењује статистику употребе о &brandShortName; са Mozilla-ом да нам помогне да направимо Ваш прегледач бољим">
