@@ -554,7 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Marker meddelelser">
 <!ENTITY printButton.tooltip "Udskriv denne meddelelse">
 <!ENTITY stopButton.tooltip "Stop den aktuelle overførsel">
-<!ENTITY junkButton.tooltip "Marker meddelelsen som spam (eller fjern markeringen)">
+<!ENTITY junkButton.tooltip "Marker de valgte meddelelser som spam">
 <!ENTITY notJunkButton.tooltip "Marker den valgte meddelelse, som ikke-spam">
 <!ENTITY addressBookButton.tooltip "Gå til adressebogen">
 <!ENTITY chatButton.tooltip "Vis fanebladet Chat">
