@@ -164,6 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip             "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label              "Tlačiť">
+<!ENTITY printButton.tooltip            "Umožní vytlačiť túto stránku">
 
 <!ENTITY locationItem.title             "Panel s adresou">
 <!ENTITY searchItem.title               "Vyhľadávanie">
