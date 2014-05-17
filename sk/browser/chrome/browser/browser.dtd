@@ -164,7 +164,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip             "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label              "Tlačiť">
-<!ENTITY printButton.tooltip            "Umožní vytlačiť túto stránku">
 
 <!ENTITY locationItem.title             "Panel s adresou">
 <!ENTITY searchItem.title               "Vyhľadávanie">
@@ -199,7 +198,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey "d">
 
 <!ENTITY downloads.label "Správca preberania súborov">
-<!ENTITY downloads.tooltip "Zobraziť stav preberania súborov">
 <!ENTITY downloads.accesskey "S">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -563,11 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
-<!ENTITY newTabButton.tooltip           "Otvorí novú kartu">
-<!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
-
-<!ENTITY fullScreenButton.tooltip       "Zobrazí stránku na celú obrazovku">
 
 <!ENTITY quitApplicationCmdWin.label    "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
