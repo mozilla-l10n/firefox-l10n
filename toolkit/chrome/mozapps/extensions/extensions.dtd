@@ -196,7 +196,7 @@
 
 <!ENTITY addon.createdBy.label                "ਵਲੋਂ ">
 
-<!ENTITY eula.title                           "ਅੰਤ ਯੂਜ਼ਰ ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ">
+<!ENTITY eula.title                           "ਅੰਤਿਮ ਯੂਜ਼ਰ ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "…ਮਨਜ਼ੂਰ ਤੇ ਇੰਸਟਾਲ">

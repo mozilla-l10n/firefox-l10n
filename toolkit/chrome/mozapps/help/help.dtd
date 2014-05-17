@@ -10,10 +10,10 @@
 
 <!ENTITY backButton.label               "ਪਿੱਛੇ">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "ਇੱਕ ਪੇਜ਼ ਪਿੱਛੇ ਜਾਓ">
+<!ENTITY backButton.tooltip             "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY forwardButton.label            "ਅੱਗੇ">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
+<!ENTITY forwardButton.tooltip          "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
 <!ENTITY copyCmd.label                  "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "ਸਭ ਚੁਣੋ">
@@ -21,9 +21,9 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "ਘਰ">
-<!ENTITY homeButton.tooltip             "ਮੱਦਦ ਸਟਾਰਟ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY homeButton.tooltip             "ਮਦਦ ਸਟਾਰਟ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label              "ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY printButton.tooltip            "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY printButton.tooltip            "ਇਹ ਸਫ਼ਾ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "ਖੋਜ">
