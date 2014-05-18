@@ -71,6 +71,7 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
+<!ENTITY fxaccount_full_label "Аккаунты Firefox">
 <!ENTITY fxaccount_email_hint "Эл. почта">
 <!ENTITY fxaccount_password_hint "Пароль">
 <!ENTITY fxaccount_password_hide "Скрыть">
