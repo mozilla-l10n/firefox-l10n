@@ -210,7 +210,7 @@
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY pref_scroll_title_bar "Прокручивать панель заголовка">
-<!ENTITY history_removed "Страница удалена">
+<!ENTITY page_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
@@ -220,7 +220,6 @@
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
-<!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
 <!ENTITY reading_list_duplicate "Страница уже в вашем Списке для чтения">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
