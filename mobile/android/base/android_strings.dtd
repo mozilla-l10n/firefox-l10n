@@ -67,6 +67,18 @@
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzada">
 <!ENTITY pref_category_customize "Personalizar">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Idioma">
+<!ENTITY pref_browser_locale "Idioma del navegador">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Configuración predeterminada del sistema">
+
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
@@ -279,7 +291,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Desplazar barra de título">
 
-<!ENTITY history_removed "Página eliminada">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Página eliminada">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -294,7 +309,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
-<!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya agregada a tu lista de lectura">
 
