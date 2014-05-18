@@ -10,7 +10,7 @@
 <!ENTITY options.label "Opziuns">
 <!ENTITY optionInline.label "Modus integrà">
 <!ENTITY optionInline.accesskey "N">
-<!ENTITY optionDisplay.label "Modus da visualisar">
+<!ENTITY optionDisplay.label "Modus da visualisaziun">
 <!ENTITY optionDisplay.accesskey "D">
 <!ENTITY optionLTR.label "Direcziun 'da sanester a dretga'">
 <!ENTITY optionLTR.accesskey "s">
