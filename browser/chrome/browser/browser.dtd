@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Ընտրացանկի վահանակ">
 <!ENTITY menubarCmd.accesskey "Ը">
-
+<!ENTITY navbarCmd.label "Ուղղորդման Վահանակ">
 <!ENTITY personalbarCmd.label "Էջանիշերի Վահանակ">
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի տարրերը">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "Տ">
 <!ENTITY shareVideoCmd.label "Տարածել տեսանյութը">
 <!ENTITY shareVideoCmd.accesskey "յ">
-
+<!ENTITY feedsMenu.label "Բաժանորդագրվել">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
@@ -232,7 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "Պ">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "Գործիք">
+<!ENTITY eyedropper.accesskey "ո">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -257,8 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
 <!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">
 <!ENTITY devToolbarMenu.accesskey          "գ">
-
-
+<!ENTITY devAppMgrMenu.label               "Ծրագրի կառավարիչ">
+<!ENTITY devAppMgrMenu.accesskey           "Ծ">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
