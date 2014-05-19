@@ -94,7 +94,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "वातावरण">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "अंतर्वस्तु">
@@ -125,14 +125,14 @@
 
 
 <!ENTITY resetContext2.label          "चर फिर सेट करें">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "फिर लोड करें और चलाएँ (e)">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "चलाएँ">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
