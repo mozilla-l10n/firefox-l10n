@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
+<!ENTITY getUserMediaDialog.title                   "မီဒီယာ မျှဝေခြင်း">
+<!ENTITY getUserMediaDialog.button.accept.label     "(S)မျှဝေ">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "(n)ဖျက်">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-
-
-
-
-
+<!ENTITY getUserMediaDialog.video.label             "ကင်မရာရွေးပါ">
+<!ENTITY getUserMediaDialog.video.noVideo           "ဗီဒီယို မရှိ">
+<!ENTITY getUserMediaDialog.audio.label             "မိုက်ကရိုဖုန်းအား​ ရွေးပါ">
+<!ENTITY getUserMediaDialog.audio.noAudio           "အသံ မရှိ">

@@ -47,6 +47,8 @@
 <!ENTITY prefs.ppLink.label         "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "ပရိုက်ဗစ်ဆီ သတိပေးချက်">
+<!ENTITY determiningAcctStatus.label     "သင့်အကောင့်အခြေအနေ အားရယူနေသှ် ...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -54,21 +56,25 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "​သှ် အတည်မပြု ရသေးပါ">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "ပြန်လည်ချိတ်ဆက် ရန် အကောင့်ဖြင့် ဝင်ရောက်ပါ ">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "အကောင့်ဖြင့် မဝင်ထားပါ">
+<!ENTITY signIn.label                "ဝင်ပါ">
 <!ENTITY manage.label                "စီမံ">
+<!ENTITY disconnect.label            "ချိတ်ဆက်ဖြုတ်...">
+<!ENTITY verify.label                "အီးမေလ်း အတည်ပြု">
+<!ENTITY forget.label                "အခု အီးမေလ်းအား ဖျက်">
 
-
-
-
+<!ENTITY welcome.description "သင်၏ တပ်ဗ်များ ၊ စာအမှတ်များ နှင့် လျှို့ဝှက်စကားလုံးများကို &brandShortName; ဖြင့် မည်သည့်နေရာမှ မဆို ရယူသုံးဆွဲပါ ">
 <!ENTITY welcome.signIn.label "၀င်ပါ">
-
+<!ENTITY welcome.createAccount.label "အကောင့် အသစ်လုပ်ပါ">
 
 <!ENTITY welcome.useOldSync.label "ချိတ်ဆက်ဝန်ဆောင်မှူ​အဟောင်းသုံးနေသလား?">

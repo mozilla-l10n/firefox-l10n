@@ -12,8 +12,8 @@
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; အားတပ်ဆင်မည်">
 <!ENTITY sync.flyout.setup.description1        "သင့်မှာ &syncBrand.shortName.label; အကောင့်ရှိရင် &quot;ပစ္စည်းတစ်ခုဖြင့်တွဲပါ&quot; အား ရွေးပြီး သင့် စက်တွင် ဤကုဒ်အား ထည့်ပါ">
-<!ENTITY sync.flyout.setup.description2        "သင့်တွင် &syncBrand.shortName.label; အကောင့်မရှိပါက &brandShortName; အတွက် အသစ်တစ်ခု လုပ်နိုင်ပါသှ်">
-<!ENTITY sync.flyout.setup.manual.label_2      "ကွန်ပျူတာနားတွင်မရှိပါ">
+<!ENTITY sync.flyout.setup.description2        "(&apos;)သင့်တွင် &syncBrand.shortName.label; အကောင့်မရှိပါက &brandShortName; အတွက် အသစ်တစ်ခု လုပ်နိုင်ပါသှ်">
+<!ENTITY sync.flyout.setup.manual.label_2      "(&apos;)ကွန်ပျူတာနားတွင်မရှိပါ">
 <!ENTITY sync.flyout.setup.description3        "မှတ်စု:">
 <!ENTITY sync.flyout.setup.description4_2      "&quot;ပစ္စည်းတစ်ခုဖြင့်တွဲပါ&quot; အားရှာရန်,">
 <!ENTITY sync.flyout.setup.description5_2      "[ဒတ်စ်တော့ခ်] &quot;အပြင်အဆင်&quot; သို့ &quot;ဦးစားပေးအချက်အလက်များ&quot; များထဲမှ &quot;&syncBrand.shortName.label;&quot; အားဖွင့်ပါ">

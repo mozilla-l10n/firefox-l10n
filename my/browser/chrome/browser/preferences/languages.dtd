@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "ဘာသာ စကားများ">
-
+<!ENTITY languages.customize.description                "တခါတရံ ကွန်ရက် စာမျက်နှာများကို ဘာသာ စကား တခုထက် ပိုပြီး ပံ့ပိုးပေးတယ်။ ဦးစားပေးချက်နဲ့ အညီ ကွန်ရက် စာမျက်နှာများပေါ် ​ဖေါ်ပြဖို့ ဘာသာ စကားများကို ရွေးပါ :">
 <!ENTITY languages.customize.moveUp.label               "ရွေ့ပါ Uအထက်">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "ရွေ့ပါ Dအောက်">

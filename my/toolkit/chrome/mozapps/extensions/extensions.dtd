@@ -226,5 +226,5 @@
 <!ENTITY experiment.info.label "ဒါဘာလဲ? Telemetry ဟာ စမ်းသပ်ချက်များ ကို တပ်ဆင်ပြီး လုပ်ဆောင်ကောင်းလုပ်နေလိမ့်မည်">
 <!ENTITY experiment.info.learnmore "ဆက်လက်ဖတ်ရှူရန်">
 <!ENTITY experiment.info.learnmore.accesskey "L">
-
-
+<!ENTITY experiment.info.changetelemetry "Telemetry အပြင်အဆင်များ">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

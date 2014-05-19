@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "oအင်တာနက်မဲ့">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "(s) ရွေးထားသော ပရိုဖိုင်အား စံအဖြစ်သုံးမည်">
+<!ENTITY            useSelected.accesskey   "s">

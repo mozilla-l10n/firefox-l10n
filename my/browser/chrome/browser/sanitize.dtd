@@ -34,8 +34,8 @@ that require it.  -->
 
 <!ENTITY itemHistoryAndDownloads.label     "B​ အင်တာနက်ရှာဖွေသုံးဆွဲခြင်း နှင့် ဒေါင်းလုဒ်ရယူခြင်းမှတ်တမ်း">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-
-
+<!ENTITY itemFormSearchHistory.label       "(F)ဖြည့်စွတ်ပုံစံ &amp; ရှာဖွေရေး မှတ်တမ်း">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY itemPasswords.accesskey           "စ">
 <!ENTITY itemCookies.label                 "Cကွတ်ကီးများ">

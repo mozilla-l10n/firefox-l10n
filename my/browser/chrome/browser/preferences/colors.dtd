@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
-
-
+<!ENTITY  textColor.label                 "(t)စာသား:">
+<!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Bနောက်ခံ၊">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "sနည်းစနစ် အရောင်များကို ‌သုံးစွဲပါ">

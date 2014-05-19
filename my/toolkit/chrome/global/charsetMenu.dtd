@@ -5,13 +5,18 @@
 <!ENTITY charsetMenu.label             "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY charsetMenu.accesskey         "C">
 <!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
+<!ENTITY charsetMenuAutodet.label      "(D)အလိုအလျှောက်သိ">
 <!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "D">
 
-
-
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.off.label     "(o)ပိတ်">
+<!ENTITY charsetMenuAutodet.off.accesskey "o">
+<!ENTITY charsetMenuAutodet.ja.label      "(J)ဂျပန်ဘာသာ">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
+<!ENTITY charsetMenuAutodet.ru.label      "(R)ရုရှား">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+<!ENTITY charsetMenuAutodet.uk.label      "(U)ယူကနေးနီးယန်း">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 

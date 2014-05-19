@@ -26,19 +26,19 @@
 
 <!ENTITY  font.langGroup.latin1                   "အနောက်တိုင်း စာလုံး">
 <!ENTITY  font.langGroup.latin2                   "ဥရောပ အလယ်‌ပိုင်း စာလုံး">
-
+<!ENTITY  font.langGroup.japanese                 "ဂျပန်">
 <!ENTITY  font.langGroup.trad-chinese             "တရုတ်ရိုးရာ (ထိုင်ဝမ်) စာလုံး">
 <!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတဲ့ တရုတ်">
 <!ENTITY  font.langGroup.trad-chinese-hk          "တရုတ်ရိုးရာ (ဟောင်ကောင်) စာလုံး">
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "ကိုရီးယား">
+<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရိလ်လစ်">
+<!ENTITY  font.langGroup.baltic                   "ဘောလ်တစ်">
+<!ENTITY  font.langGroup.el                       "ဂရိ">
+<!ENTITY  font.langGroup.turkish                  "တာရ်ကူရှ်">
 <!ENTITY  font.langGroup.unicode                  "အခြား ဘာသာ စကားများ">
-
-
-
+<!ENTITY  font.langGroup.thai                     "ထိုင်း">
+<!ENTITY  font.langGroup.hebrew                   "ဟီးဗရူး">
+<!ENTITY  font.langGroup.arabic                   "အာရေဗစ်">
 <!ENTITY  font.langGroup.devanagari               "ဒေဗာနာဂါရီ စာလုံး">
 <!ENTITY  font.langGroup.tamil                    "တမီးလ်">
 <!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်း">
@@ -72,29 +72,39 @@
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
 
+<!ENTITY languages.customize.Fallback.auto        "လက်ရှိဘာသာစကား အပြင်အဆင်စံ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "အာရေဗစ်">
+<!ENTITY languages.customize.Fallback.baltic      "ဘောလ်တစ်">
+<!ENTITY languages.customize.Fallback.ceiso       "ဥရောပ အလယ်‌ပိုင်း ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "ဥရောပအလယ်ပိုင်း, မိုက်ကရိုဆော့ဖ်">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "တရုတ်စာ, ရိုးရှင်း">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-
+<!ENTITY languages.customize.Fallback.traditional "ရိုးရာ တရုတ်စာ">
+<!ENTITY languages.customize.Fallback.cyrillic    "ဆိုင်ရိလ်လစ်">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "ဂရိ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "ဟီးဗရူး">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "ဂျပန်">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "ကိုရီးယား">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "ထိုင်း">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "တာရ်ကူရှ်">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ဗီယက်နမ်မီး">
-
+<!ENTITY languages.customize.Fallback.other       "အခြား(incl. အနောက်ဥရောပ)">

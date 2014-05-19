@@ -42,5 +42,5 @@
 <!ENTITY popup.label                     "ပေါ့အပ်ဝင်းဒိုးအားဖွင့်ပါ">
 
 <!ENTITY fullscreen.label                "ဖန်သားပြင်အပြည့်">
-
-
+<!ENTITY camera.label                    "ကင်မရာအားသုံးပါ">
+<!ENTITY microphone.label                "မိုက်ကရိုဖုန်းအားသုံးပါ">
