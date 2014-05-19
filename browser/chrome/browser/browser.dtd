@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "P">
 <!ENTITY shareVideoCmd.label "Partejar la vidèo">
 <!ENTITY shareVideoCmd.accesskey "a">
-<!ENTITY feedsMenu.label "S'abonar">
+<!ENTITY feedsMenu.label "S'inscriure">
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
@@ -231,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Vista adaptativa">
 <!ENTITY responsiveDesignTool.accesskey "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -245,18 +247,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.label             "Lausa JavaScript">
 <!ENTITY scratchpad.accesskey         "a">
 <!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 <!ENTITY browserToolboxMenu.label     "Bóstia d'aisinas del navigador">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.accesskey "i">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Tampar la Barra de desvolopament">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Gestionari d'aplicacions">
-<!ENTITY devAppMgrMenu.accesskey           "G">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "VK_F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
@@ -444,7 +446,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
-<!ENTITY switchToMetroCmd.label       "Tornar dobrir amb &brandShortName; per Windows 8 tactile">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
@@ -734,47 +735,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Ensajatz tornarmai">
 
 <!ENTITY uiTour.infoPanel.close "Tampar">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "n">
-<!ENTITY addonBarCmd.label             "Barra dels moduls">
-<!ENTITY addonBarCmd.accesskey         "d">
-<!ENTITY throbberItem.title            "Indicador d'activitat">
-<!ENTITY appMenuButton.label           "Menú">
-<!ENTITY appMenuButton.tooltip         "Dobrir lo menú &brandShortName;">
-<!ENTITY feedButton.label              "S'abonar">
-<!ENTITY feedButton.tooltip            "S'abonar a aquesta pagina…">
-<!ENTITY bookmarksButton.tooltip       "Afichar lo panèl dels marcapaginas">
-<!ENTITY historyButton.tooltip         "Visualizar las paginas visitadas recentament">
-<!ENTITY viewTabsOnTop.label           "Afichar las paginas visitadas recentament">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "Edicion">
-<!ENTITY appMenuToolbarLayout.label    "Personalizar las barras d'aisinas…">
 <!ENTITY appMenuSidebars.label         "Panèl lateral">
-<!ENTITY appMenuFind.label             "Recercar dins la pagina...">
-<!ENTITY appMenuUnsorted.label         "Marcapaginas pas triats">
-<!ENTITY appMenuWebDeveloper.label     "Desvolopament Web">
-<!ENTITY appMenuGettingStarted.label   "Per començar">
-<!ENTITY appMenuSafeMode.label         "Reaviar amb los moduls desactivats…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "Talhar">
-<!ENTITY copyButton.tooltip            "Copiar">
-<!ENTITY pasteButton.tooltip           "Pegar">
-<!ENTITY zoomOutButton.tooltip         "Zoom arrièr">
-<!ENTITY zoomInButton.tooltip          "Zoom avant">
-<!ENTITY zoomControls.label            "Nivèl de zoom">
-<!ENTITY addonBarCloseButton.tooltip   "Tampar la barra dels moduls">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Pagina precedenta/seguenta">
-<!ENTITY viewBookmarksSidebar.label    "Afichar lo panèl dels marcapaginas">
-<!ENTITY bookmarksItem.title           "Marcapaginas">
-<!ENTITY openLocationCmd.label         "Dobrir una adreça...">
-<!ENTITY openLocationCmd.accesskey     "a">
-<!ENTITY bookmarksMenuButton.tooltip   "Marcapaginas">
+
 <!ENTITY switchToMetroCmd2.label       "Tornar dobrir amb &brandShortName; per Windows 8 tactile">
-<!ENTITY tabGroupsButton.tooltip       "Organizar los onglets per gropes">
-<!-- end of strings to be removed post-Australis -->
+
