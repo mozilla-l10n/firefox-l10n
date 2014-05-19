@@ -7,7 +7,8 @@
 <!ENTITY index.device2 "Aygıt">
 <!ENTITY index.help "Yardım">
 
-
+<!ENTITY device.debugMainProcess "Ana işlemde hata ayıkla">
+<!ENTITY device.debugMainProcessTooltip "Cihazdaki ana işleme bağlı Geliştirici Araçları'nı aç">
 <!ENTITY device.screenshot "Ekran görüntüsü">
 <!ENTITY device.screenshotTooltip "Cihazıın şu anki durumunun ekran görüntüsünü yeni bir sekmede aç">
 <!ENTITY device.title "Aygıt Denetim Merkezi">
@@ -81,22 +82,22 @@
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
 <!ENTITY projects.noProjects "Proje yok. Aşağıdan yeni bir paketlenmiş uygulama (yerel dizin) veya barındırılan uygulama (manifest dosyası bağlantısı) ekleyin.">
-
-
-
-
+<!ENTITY projects.manifestEditor "Bildirge Editörü">
+<!ENTITY projects.manifestEditorTooltip "Uygulamanızın bildirgesini aşağıdaki panelde düzenleyin. Güncelle düğmesi değişiklikleri kaydedecek ve uygulamayı güncelleyecektir.">
+<!ENTITY projects.manifestViewer "Bildirge Görüntüleyici">
+<!ENTITY projects.manifestViewerTooltip "Uygulamanızın bildirgesini aşağıdaki panelde inceleyin">
 <!ENTITY projects.valid "Geçerli">
 <!ENTITY projects.error "Hata">
 <!ENTITY projects.warning "Uyarı">
-
-
+<!ENTITY projects.hosted "Barındırılan">
+<!ENTITY projects.packaged "Paketlenmiş">
 
 <!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
 
 <!ENTITY help.usefullLinks "İşe yarar bağantılar:">
-
-
+<!ENTITY help.appMgrDoc "Yardım: Uygulama Yöneticisi'nin kullanımı">
+<!ENTITY help.configuringDevice "Firefox OS cihazınızı nasıl kurabilirsiniz?">
 <!ENTITY help.troubleShooting "Sorun Giderme">
 <!ENTITY help.simulatorAddon "Simülatör eklentisini kur">
-
+<!ENTITY help.adbHelperAddon "Adb Helper eklentisini yükleyin">

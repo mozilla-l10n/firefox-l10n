@@ -9,6 +9,7 @@
 <!ENTITY  popupExceptions.label       "Ayrıcalıklar...">
 <!ENTITY  popupExceptions.accesskey   "A">
 
+<!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 
 <!ENTITY  defaultFont.label           "Varsayılan yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">

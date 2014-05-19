@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Bu sayfa">
+<!ENTITY translation.translateThisPage.label    "Sayfa çevrilsin mi?">
+<!ENTITY translation.translate.button           "Çevir">
 <!ENTITY translation.notNow.button              "Şimdi değil">
 
+<!ENTITY translation.translatingContent.label   "Sayfa içeriği çevriliyor…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedTo.label         "nereye">
-<!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.translatedFrom.label       "Bu sayfa">
+<!ENTITY translation.translatedTo.label         "dilinden">
+<!ENTITY translation.translatedToSuffix.label   "diline çevrildi">
 
+<!ENTITY translation.showOriginal.button        "Özgün sayfayı göster">
+<!ENTITY translation.showTranslation.button     "Çeviriyi göster">
 
-
+<!ENTITY translation.errorTranslating.label     "Bu sayfa çevrilirken bir hata oluştu.">
+<!ENTITY translation.tryAgain.button            "Yeniden dene">
 
 <!ENTITY translation.options.menu               "Seçenekler">

@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
-
+<!ENTITY navbarCmd.label "Gezinti araç çubuğu">
 <!ENTITY personalbarCmd.label "Yer imi araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
 <!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu ögeleri">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "p">
 <!ENTITY shareVideoCmd.label "Bu videoyu paylaş">
 <!ENTITY shareVideoCmd.accesskey "p">
-
+<!ENTITY feedsMenu.label "Abone ol">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
@@ -232,7 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "U">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "Damlalık">
+<!ENTITY eyedropper.accesskey "D">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -257,8 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Geliştirici araç çubuğunu kapat">
 <!ENTITY devToolbarMenu.label              "Geliştirici araç çubuğu">
 <!ENTITY devToolbarMenu.accesskey          "G">
-
-
+<!ENTITY devAppMgrMenu.label               "Uygulama Yöneticisi">
+<!ENTITY devAppMgrMenu.accesskey           "U">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Araçları aç/kapat">
@@ -615,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
