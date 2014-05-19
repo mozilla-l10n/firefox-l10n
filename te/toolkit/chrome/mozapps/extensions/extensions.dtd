@@ -146,7 +146,7 @@
 <!ENTITY detail.size                          "పరిమాణము">
 
 <!ENTITY detail.checkForUpdates.label         "నవీకరణల కొరకు పరిశీలించుము">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించుము">
 <!ENTITY detail.showPreferencesWin.label      "ఐచ్ఛికములు">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
