@@ -33,7 +33,7 @@
 <!ENTITY engine.passwords.label     "পাসওয়ার্ড">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "পছন্দ">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "অতিরিক্ত সামগ্রী">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->

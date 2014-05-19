@@ -92,7 +92,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "পরিবেশ">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "তথ্য">
@@ -123,14 +123,14 @@
 
 
 <!ENTITY resetContext2.label          "ভেরিয়েবলের মান পুনরায় নির্ধারণ করুন">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "পুনঃ লোড করুন এবং চালান">
-<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "কর্ম সঞ্চালন">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

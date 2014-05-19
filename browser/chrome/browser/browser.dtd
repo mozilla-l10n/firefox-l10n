@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "সকল ট্যাবের তালিকা প্রদর্শন করা হবে">
 
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "খসড়া খাতা">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -433,7 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "দৃশ্যাবলী এবং বিবরণী(D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ভিডিও দেখুন">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "পটভূমির ছবি প্রদর্শন">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন......">
@@ -587,9 +587,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "পৃষ্ঠার বিন্যাস">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "বিন্যাস বিহীন">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "পৃষ্ঠার মৌলিক বিন্যাস">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "বর্তমান ওয়েব-সাইটে পপ-আপ উইন্ডো প্রদর্শন রোধ করার জন্য নির্ধারিত বৈশিষ্ট্য পরিবর্তন করুন">
 
@@ -680,7 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> এর পরিসেবাগুলি সক্ষম করে দেওয়া হয়েছে। <label class='text-link'>অ্যাড-অন পরিচালক</label> ব্যবহার করে আপনি আপনার পরিসেবার জন্য সেটিংসগুলি ব্যক্তিগতকৃত করতে পারেন।">
 <!ENTITY social.activated.undo.label "ওহো, পূর্বাবস্থায় ফিরুন!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "আরও জানুন (L)...">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এই মুহূর্তে নয়">
