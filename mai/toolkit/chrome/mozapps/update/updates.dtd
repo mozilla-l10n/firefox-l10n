@@ -23,8 +23,11 @@ install software on this computer.">
 not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "अहाँ एतय सँ  हरदम  &brandShortName; क नवीनतम संस्करण पा सकैत  अछि :">
 
-
-
+<!ENTITY  unsupported.title               "तंत्र असमर्थित">
+<!ENTITY  unsupported.label               "अहाँ &brandShortName; समयातीत अछि, मुदा नवीनतम संस्करण
+अहाँक तंत्र पर समर्थित नहि अछि. अपन तंत्रकेँ उन्नत बनाउ फेर कोसिस करू. 
+अहाँ ई सूचनाक फेर नहि देखब मुदा अहाँ कए सकैछी">
+<!ENTITY  unsupportedLink.label           "आओर जानू.">
 
 <!ENTITY  incompatibleCheck.title         "सहयुक्ति सुसंगता जाँच रहल अछि ">
 <!ENTITY  incompatibleCheck.label         "अहाँक सहयुक्ति क नव संस्करणक लेल देख रहल अछि …">
