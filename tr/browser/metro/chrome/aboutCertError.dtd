@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; uygulamasının güvenli olarak 
+<!ENTITY certerror.introPara1 "&brandShortName; tarayıcısının güvenli olarak 
 <b>#1</b> konumuna bağlanmasını istediniz, ancak bağlantınızın güvenli olup olmadığını doğrulayamıyoruz.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ne yapmalıyım?">
@@ -25,9 +25,9 @@ siteyi taklit ediyor olabilir, dolayısıyla devam etmemelisiniz.">
 <!ENTITY certerror.getMeOutOfHere.label "Beni buradan kurtar!">
 
 <!ENTITY certerror.expert.heading "Tehlikenin farkındayım">
-<!ENTITY certerror.expert.content "Neler olup bittiğinin farkındaysanız &brandShortName; uygulamasına 
+<!ENTITY certerror.expert.content "Neler olup bittiğinin farkındaysanız &brandShortName; tarayıcısına 
 bu sitenin kimlik bilgilerine güvenmesini söyleyebilirsiniz. 
-<b>Siteye güvenseniz bile, bu hata birisinin bağlantınızı kurcaladığı 
+<b>Siteye güvenseniz bile bu hata, birisinin bağlantınızı kurcaladığı 
 anlamına gelebilir.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu siteye, güvenilir kimlik bilgisi sunmaması için geçerli bir nedeni 
 olmadıkça ayrıcalık tanımayın.">
