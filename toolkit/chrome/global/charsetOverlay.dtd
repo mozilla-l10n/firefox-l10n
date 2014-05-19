@@ -6,18 +6,18 @@
 <!ENTITY charsetMenu.label             "అక్షరపు ఎన్కోడింగ్">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "ఆటో-డిటెక్టు">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "ఎక్కువ  ఎన్కోడింగ్స్">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "M">
 <!ENTITY charsetMenuMore1.label        "వెస్ట్     యూరోపియన్">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "ఈస్ట్   యూరోపియన్">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "ఈస్ట్   ఏసియన్">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE  SW ఏసియన్">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW ఏసియన్">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "మిడిల్   ఈస్ట్రన్">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "వాడుకరి  మలుచుకున్న  జాబితా...">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetCustomize.accesskey    "C">

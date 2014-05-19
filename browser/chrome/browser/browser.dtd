@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "మూసినటాబ్ తిరిగివుంచు">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "టాబ్ మూసివేయి">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "అన్ని టాబ్‌ల జాబితా">
 
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "ఈ బొమ్మను పంచుకోండి (S)">
 <!ENTITY shareImageCmd.accesskey "S">
 <!ENTITY shareSelectCmd.label "భాగస్వామ్య యెంపిక">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "ఈ వీడియోను పంచుకోండి (S)">
 <!ENTITY shareVideoCmd.accesskey "S">
 <!ENTITY feedsMenu.label "చందాచేరు">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "స్క్రాచ్‌పాడ్">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -433,7 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "వివరణను చూడండి (D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "దృశ్యాన్ని చూడు">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "బ్యాక్‌గ్రౌండ్ చిత్రాన్ని దర్శించు">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్ వెనుతలంగా అమర్చు…">
@@ -587,9 +587,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "పేజీ శైలి">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ఏశైలి లేదు">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "ప్రాధమిక పేజీ శైలి">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు కొరకు సమూహ బ్లాకింగ్ అమరికలను మార్చు">
 
@@ -679,7 +679,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "సేవలు <label/> నుండి చేతనపరచబడెను. మీ అమరికలను <label class='text-link'>Add-on Manager</label> నందలి సేవల కొరకు మీరు మార్చగలరు.">
 <!ENTITY social.activated.undo.label "అయ్యో, దీనిని రద్దుచేయి!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "మరింత తెలుసుకోండి… (L)">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ఇప్పుడు కాదు">
