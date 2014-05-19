@@ -38,4 +38,4 @@
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ক্র্যাশ প্রতিবেদন জমা দিয়ে মজিলা কে সাহায্য করে, এতে আপনার ব্রাউজারে আরো স্থিতিশীল ও নিরাপদ হয়">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "আমি যে পাতায় ছিলাম সেই পাতার ঠিকানা অন্তর্ভুক্ত করো                ">
 <!ENTITY optionsHeader.telemetry.title                            "দূরমাপন">
-<!ENTITY optionsHeader.telemetry.label                            "brandShortName সম্পর্কিত ব্যবহার পরিসংখ্যান শেয়ার করুন; মজিলার সাথে যাতে আপনার ব্রাউজার আরও ভাল করা যায়">
+<!ENTITY optionsHeader.telemetry.label                            "&amp;brandShortName সম্পর্কিত ব্যবহার পরিসংখ্যান শেয়ার করুন; মজিলার সাথে যাতে আপনার ব্রাউজার আরও ভাল করা যায়">

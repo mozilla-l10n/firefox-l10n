@@ -12,7 +12,7 @@
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;সেটআপ">
 <!ENTITY sync.flyout.setup.description1        "যদি আপনার একটি &syncBrand.shortName.label; একাউন্ট থাকে,তবে &quot;ডিভাইস যুগলবন্দি করুন&quot; নির্বাচন করুন আপনার অন্য ডিভাইসে এবং এই কোডটি প্রবেশ করান।">
-<!ENTITY sync.flyout.setup.description2        "যদি আপনার কোন &syncBrand.shortName.label; একাউন্ট না থাকে , তবএ আপনি আপনার brandShortName ডেস্কটপ ব্রাউজার এ একটি তৈরী করতে পারেন।">
+<!ENTITY sync.flyout.setup.description2        "যদি আপনার কোন &syncBrand.shortName.label; একাউন্ট না থাকে , তবএ আপনি আপনার &amp;brandShortName ডেস্কটপ ব্রাউজার এ একটি তৈরী করতে পারেন।">
 <!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m আমার কম্পিউটার এর সামনে নেই...">
 <!ENTITY sync.flyout.setup.description3        "নোট:">
 <!ENTITY sync.flyout.setup.description4_2      "খোঁজার জন্য &quot;ডিভাইস যুগলবন্দি করুন&quot;,">
@@ -31,7 +31,7 @@
 <!ENTITY sync.flyout.setupsuccess.description2      "পটভূমিতে আপনার &syncBrand.shortName.label; তথ্য ডাউনলোড হচ্ছে। আপনার সিঙ্ককৃত ট্যাবসমূহ &brandShortName; প্রারম্ভিক পৃষ্ঠাতে পাওয়া যাবে">
 <!-- Flyout when setup failed -->
 
-<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; আপনার syncBrand.shortName.label একাউন্টের সাথে সংযুক্ত করতে ব্যর্থ।">
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; আপনার &amp;syncBrand.shortName.label একাউন্টের সাথে সংযুক্ত করতে ব্যর্থ।">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "বাতিল">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "পুনরায় চেষ্টা">
 <!-- Flyout when connected and functioning normally -->

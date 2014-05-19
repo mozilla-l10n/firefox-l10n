@@ -100,7 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "আমাকে সতর্ক করুন যদি এটি আমার কোন অ্যাডঅনে নিষ্ক্রিয় থাকে W">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY updateAutoMetroWarn.label       "(brandShortName উইন্ডোজ ৮ শৈলী; এড-অন সামঞ্জস্যতা পরীক্ষা করে না)">
+<!ENTITY updateAutoMetroWarn.label       "(&amp;brandShortName উইন্ডোজ ৮ শৈলী; এড-অন সামঞ্জস্যতা পরীক্ষা করে না)">
 
 <!ENTITY updateHistory.label             "হালনাগাদের ইতিহাস প্রদর্শন P">
 <!ENTITY updateHistory.accesskey         "P">
