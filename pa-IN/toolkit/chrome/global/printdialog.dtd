@@ -20,7 +20,7 @@
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "ਪਰਿੰਟ ਰੇਜ਼">
-<!ENTITY allpagesRadio.label "ਸਭ ਪੇਜ਼">
+<!ENTITY allpagesRadio.label "ਸਭ ਸਫ਼ੇ">
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "ਸਫ਼ਾ">
 <!ENTITY rangeRadio.accesskey  "P">
