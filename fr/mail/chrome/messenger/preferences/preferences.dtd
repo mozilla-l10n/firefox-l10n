@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Rédaction">
 <!ENTITY paneChat.title           "Messagerie instantanée">
 <!ENTITY paneAttachments.title    "Pièces jointes">
+<!ENTITY panePrivacy.title        "Vie privée">
 <!ENTITY paneSecurity.title       "Sécurité">
 <!ENTITY paneAdvanced.title       "Avancé">

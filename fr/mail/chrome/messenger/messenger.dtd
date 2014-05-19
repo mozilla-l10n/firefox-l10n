@@ -569,6 +569,10 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "h">
 <!ENTITY remoteContentOptionAllowForAddress.label "Afficher le contenu distant de cet expéditeur">
 <!ENTITY remoteContentOptionAllowForAddress.accesskey "l">
+<!ENTITY editRemoteContentSettings.label "Modifier les options pour le contenu distant…">
+<!ENTITY editRemoteContentSettings.accesskey "M">
+<!ENTITY editRemoteContentSettingsUnix.label "Modifier les préférences pour le contenu distant…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "M">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer l'avertissement pour ce message">
