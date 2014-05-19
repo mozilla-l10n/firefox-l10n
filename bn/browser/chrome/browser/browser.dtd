@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "মেনু বার (M)">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "ন্যাভিগেশন টুলবার (N)">
+<!ENTITY navbarCmd.label "ন্যাবিগেশন টুলবার (&amp;N)">
 <!ENTITY personalbarCmd.label "বুকমার্ক টুলবার (B)">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন s">
 <!ENTITY shareVideoCmd.accesskey "s">
-<!ENTITY feedsMenu.label "সাবস্ক্রাইব">
+
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
@@ -231,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন R">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -334,8 +336,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "মেনু এবং টুলবার সাজান">
 <!ENTITY appMenuCustomizeExit.label "সাজানো থেকে প্রস্থান">
 <!ENTITY appMenuCustomizeExit.tooltip "সাজানো সম্পন্ন">
-
-
+<!ENTITY appMenuHistory.label "ইতিহাস">
+<!ENTITY appMenuHistory.showAll.label "সব ইতিহাস প্রদর্শন">
 <!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইডবার প্রদর্শন">
@@ -444,7 +446,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "উইন্ডোজ ৮ স্টাইলে &brandShortName; পুনরায় চালু করুন">
 <!ENTITY savePageCmd.label            "পৃষ্ঠা নতুনভাবে সংরক্ষণ… (A)">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -688,10 +689,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ করুন">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত টুল এবং ফিচার">
+<!ENTITY customizeMode.menuAndToolbars.empty "আরো টুলস চান?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
 
-
-
-
+<!ENTITY customizeMode.toolbars "টুলবার প্রদর্শন / লুকান">
 
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -735,47 +736,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; কে এই ক্রাশ সম্পর্কে জানান যেন তারা এটি ঠিক করতে পারে।">
 <!ENTITY tabCrashed.tryAgain "পুনরায় চেষ্টা করুন">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
+<!ENTITY uiTour.infoPanel.close "বন্ধ">
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "অ্যাড-অন বার">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "ব্যস্তচিহ্ন">
-<!ENTITY appMenuButton.label           "মেনু">
-<!ENTITY appMenuButton.tooltip         "&brandShortName;মেনু খুলুন ">
-
-<!ENTITY feedButton.tooltip            "এই পৃষ্ঠায় সাবস্ক্রাইব করুন…">
-<!ENTITY bookmarksButton.tooltip       "আপনার বুকমার্কগুলো প্রদর্শন করা হবে">
-<!ENTITY historyButton.tooltip         "সম্প্রতি পরিদর্শিত পৃষ্ঠা প্রদর্শন করা হবে">
-<!ENTITY viewTabsOnTop.label           "শীর্ষ ট্যাব (T)">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "সম্পাদনা">
-<!ENTITY appMenuToolbarLayout.label    "টুলবারের বহির্বিন্যাস…">
 <!ENTITY appMenuSidebars.label         "সাইডবার">
-<!ENTITY appMenuFind.label             "খোঁজা…">
-<!ENTITY appMenuUnsorted.label         "অগোছানো বুকমার্ক">
-<!ENTITY appMenuWebDeveloper.label     "ওয়েব ডেভেলপার">
-<!ENTITY appMenuGettingStarted.label   "শুরু করা হচ্ছে">
-<!ENTITY appMenuSafeMode.label         "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু…(R)">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "কাটা">
-<!ENTITY copyButton.tooltip            "অনুলিপি">
-<!ENTITY pasteButton.tooltip           "প্রতিলেপন">
-<!ENTITY zoomOutButton.tooltip         "ছোট আকারে প্রদর্শন">
-<!ENTITY zoomInButton.tooltip          "বড় আকারে প্রদর্শন">
-<!ENTITY zoomControls.label            "বড় আকারে প্রদর্শন কন্ট্রোল">
-<!ENTITY addonBarCloseButton.tooltip   "অ্যাড-অন বার বন্ধ">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "পূর্ববর্তী/পরবর্তী">
-<!ENTITY viewBookmarksSidebar.label    "সাইডবারে প্রদর্শন">
-<!ENTITY bookmarksItem.title           "বুকমার্ক">
-<!ENTITY openLocationCmd.label         "নতুন ঠিকানা… (L)">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "আপনার বুকমার্ক প্রদর্শন">
 
-<!ENTITY tabGroupsButton.tooltip       "আপনার ট্যাবের গ্রুপ">
-<!-- end of strings to be removed post-Australis -->
+<!ENTITY switchToMetroCmd2.label       "উইন্ডোজ ৮ টাচ এর জন্য &brandShortName; পুনরায় চালু করুন">
+

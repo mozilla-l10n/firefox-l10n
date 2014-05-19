@@ -13,6 +13,7 @@
 <!ENTITY port       "পোর্ট (P):">
 <!ENTITY connect    "সংযুক্ত করুন">
 <!ENTITY connecting "সংযুক্ত করা হচ্ছে …">
+
 <!ENTITY availableTabs "সম্ভাব্য রিমোট ট্যাবসমূহ:">
 <!ENTITY availableProcesses "বিদ্যমান দূরবর্তী প্রক্রিয়া:">
 <!ENTITY connectionError "ত্রুটি:">

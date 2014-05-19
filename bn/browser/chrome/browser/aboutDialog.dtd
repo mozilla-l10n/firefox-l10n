@@ -12,14 +12,14 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label                "হালনাগাদ করার জন্য পুনরায় চালু করা হবে R">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "হালানাগাদ প্রয়োগ… P">
-<!ENTITY update.applyButtonBillboard.accesskey    "P">
+<!ENTITY update.applyButtonBillboard.label        "হালানাগাদ প্রয়োগ… A">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
 <!ENTITY warningDesc.version        "&brandShortName; হচ্ছে পরীক্ষামূলক এবং সম্ভবত পরিবর্তনশীল।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "এটি স্বয়ংক্রিয়ভাবে কার্যকারীতা,হার্ডওয়ার,ব্যবহার এবং স্বনির্বাচনগুলোর তথ্য  vendorShortName  এর নিকটপ্রদান করে; যাতে brandShortName কে আরো ভালভাবে তৈরী করা যায়।">
+<!ENTITY warningDesc.telemetryDesc  "এটি স্বয়ংক্রিয়ভাবে কার্যকারীতা,হার্ডওয়ার,ব্যবহার এবং স্বনির্বাচনগুলোর তথ্য  &amp;vendorShortName  এর নিকটপ্রদান করে; যাতে &amp;brandShortName কে আরো ভালভাবে তৈরী করা যায়।">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "দেখান">

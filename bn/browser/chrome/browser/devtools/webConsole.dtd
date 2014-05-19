@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "সতর্কবার্তা">
 <!ENTITY btnConsoleLog          "লগ">
 
+
 <!ENTITY filterOutput.placeholder "ফিল্টার আউটপুট">
 <!ENTITY btnClear.label        "মুছে ফেলুন r">
 <!ENTITY btnClear.tooltip      "ওয়েব কনসোল আউটপুট পরিষ্কার করুন">
