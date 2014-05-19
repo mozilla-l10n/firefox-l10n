@@ -79,8 +79,10 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "ചൈനീസ്, ലളിതമായ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "ചൈനീസ്, പരമ്പരാഗത">
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->

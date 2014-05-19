@@ -143,7 +143,7 @@
 <!ENTITY detail.size                          "വ്യാപ്തി">
 
 <!ENTITY detail.checkForUpdates.label         "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "ഈ ആഡ്-ഓണിനുള്ള പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക">
 <!ENTITY detail.showPreferencesWin.label      "ഐച്ഛികങ്ങള്‍">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">

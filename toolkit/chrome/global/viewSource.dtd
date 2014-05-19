@@ -56,7 +56,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "സിന്റാക്സ് എടുത്ത് കാണിക്കുക">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "ടെക്സ്റ്റ്‌ വലുപ്പം">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.accesskey "z">
 <!ENTITY menu_textEnlarge.label "കൂട്ടുക ">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "കുറയ്ക്കുക">

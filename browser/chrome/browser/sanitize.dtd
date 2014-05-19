@@ -40,7 +40,7 @@ that require it.  -->
 <!ENTITY itemCookies.label                 "കുക്കികള്‍ ">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "കാഷ്">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "ഓഫ്‌ലൈന്‍ ആയ വെബ്സൈറ്റിനുള്ള ഡേറ്റാ">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "സജീവമായ ലോഗിനുകള്‍">

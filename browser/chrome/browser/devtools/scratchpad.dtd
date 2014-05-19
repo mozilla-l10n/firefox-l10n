@@ -93,7 +93,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "എന്‍വയണ്മെന്റ്">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "ഉള്ളടക്കം">
@@ -124,14 +124,14 @@
 
 
 <!ENTITY resetContext2.label          "വേരിയബിളുകള്‍ വീണ്ടും സജ്ജമാക്കുക">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "വീണ്ടും ലഭ്യമാക്കി പ്രവര്‍ത്തിയ്ക്കുക">
 <!ENTITY reloadAndRun.accesskey       "ല">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "പ്രവര്‍ത്തിപ്പിയ്ക്കുക">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
