@@ -8,16 +8,13 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+  -  in the network table when empty to start performance analysis. -->
+
+<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
-
-
-
-<!ENTITY netmonitorUI.emptyNotice2        "Hãa wala moɲoo zumandi taaga ka dii alhabar šilbayhayante sankay goyyan ga.">
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-
-<!ENTITY netmonitorUI.toolbar.status      "√">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -62,6 +59,8 @@
   -  in the network details pane identifying the timings tab. -->
 
 <!ENTITY netmonitorUI.tab.timings         "Waati fondawey">
+<!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
+  -  in the network details pane identifying the preview tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -98,6 +97,14 @@
   -  in the network details footer for the "Flash" filtering button. -->
 
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
+  -  in the network details footer for the "Other" filtering button. -->
+<!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
+  -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "Koonandi">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
+  -  in the network details footer for the performance analysis button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -168,14 +175,26 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "Goo ma duu:">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
+  -  on the context menu that shows the performance analysis tools -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
+  -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
-<!ENTITY netmonitorUI.context.copyUrl      "URL berandi">
+<!ENTITY netmonitorUI.context.copyUrl     "URL berandi">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
-<!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
+  -  on the context menu that copies the selected image as data uri -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
+  -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
@@ -211,3 +230,5 @@
   -  on the button which cancels and closes the custom request form -->
 
 <!ENTITY netmonitorUI.custom.cancel       "Naŋ">
+<!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
+  -  on the button which exists the performance statistics view -->

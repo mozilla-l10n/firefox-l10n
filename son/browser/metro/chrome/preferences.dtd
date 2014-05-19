@@ -31,7 +31,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "Kaŋyan bayrandikaw">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Moɲoo kaŋ boŋ ay cindi aderesoo dam">
 <!ENTITY optionsHeader.telemetry.title                            "Mooruneešiyan">
 

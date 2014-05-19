@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "D">
 
+<!ENTITY viewMenu.label               "Gunari">
+<!ENTITY viewMenu.accesskey           "G">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Fasal">
 <!ENTITY editMenu.accesskey           "F">
 
@@ -64,6 +82,7 @@
 <!ENTITY display.label                "Cebe">
 <!ENTITY display.accesskey            "C">
 <!ENTITY display.key                  "l">
+
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -119,3 +138,8 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+

@@ -8,6 +8,8 @@
 
 
 
+
+
 <!ENTITY device.startApp "Šintin">
 
 <!ENTITY device.stopApp "Kayandi">
@@ -31,6 +33,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.disconnect "Ciyari dunbu">
 
 
@@ -40,7 +46,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "Gaabu">
+
 
 <!ENTITY connection.connecting "Goo ma ciya…">
 
@@ -70,6 +76,13 @@
 
 
 
+
+
+
+
+
+<!ENTITY projects.valid "Boori">
+<!ENTITY projects.error "Firka">
 
 
 

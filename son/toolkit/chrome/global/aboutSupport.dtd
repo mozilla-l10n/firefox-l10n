@@ -11,8 +11,7 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Bayrandi boŋtammaasa">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
+
 
 
 
@@ -20,7 +19,15 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Maa">
 <!ENTITY aboutSupport.extensionEnabled "Tunante">
 <!ENTITY aboutSupport.extensionVersion "Dumi">
-<!ENTITY aboutSupport.extensionId "Boŋ-šilbay">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Šilbayyan">
+<!ENTITY aboutSupport.experimentActive "Dirante">
+
+<!ENTITY aboutSupport.experimentHomepage "Šintinmoo">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Porogaram šintin hayey">
 <!ENTITY aboutSupport.appBasicsName "Maa">

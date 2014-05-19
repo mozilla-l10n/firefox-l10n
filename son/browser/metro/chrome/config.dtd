@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY empty.label            "Ceeci">
 <!ENTITY addpref.name           "Maa">
-<!ENTITY addpref.value          "Hinna">
 
 <!ENTITY cancel.label           "Naŋ">
+<!ENTITY toggle.label           "Kanjari">
 
+<!ENTITY integer.label          "Hinna timmante">
+<!ENTITY string.label           "Tenjiri">
+<!ENTITY boolean.label          "Cimi wala taari hãayan">
 
-
-
-
+<!ENTITY string.placeholder     "Tenjiri foo dam">
+<!ENTITY number.placeholder     "Hinna foo dam">

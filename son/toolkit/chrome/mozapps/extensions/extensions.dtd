@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kaa">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
+
 <!ENTITY cmd.showPreferencesWin.label         "Suubarey">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
 <!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
@@ -215,3 +216,12 @@ tontoni kul ihenney nda bayrantey war šiiyanoo še.">
 <!ENTITY eula.accept                          "Yadda nd'a sinji…">
 
 <!ENTITY settings.path.button.label           "Ceeci…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Bešere caw">
+
+
+

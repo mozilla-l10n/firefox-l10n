@@ -13,6 +13,7 @@
 <!ENTITY port       "Kotay-mee:">
 <!ENTITY connect    "Ciya">
 <!ENTITY connecting "Goo ma ciya…">
+
 <!ENTITY availableTabs "Nor loku moorante barantey:">
 <!ENTITY availableProcesses "Koyjineyan moorante barantey:">
 <!ENTITY connectionError "Firka:">

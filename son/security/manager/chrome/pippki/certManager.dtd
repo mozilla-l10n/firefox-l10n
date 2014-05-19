@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda…">
 <!ENTITY certmgr.subjectinfo.label            "Wallafi woo še">
 <!ENTITY certmgr.issuerinfo.label             "Woo n'a wallafi">
-<!ENTITY certmgr.validity.label               "Ga boori hala" >
+
 <!ENTITY certmgr.fingerprints.label           "Kabežeerey">
 <!ENTITY certmgr.certdetail.title             "Tabatiyan-tiira šilbayhayey">
 <!ENTITY certmgr.certdetail.cn                "Hankul maa (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Feršikaw">
 <!ENTITY certmgr.override_lifetime            "Hundimee">
 <!ENTITY certmgr.tokenname                    "Saajaw jinay">
-<!ENTITY certmgr.issued                       "Wallafi han">
+
 <!ENTITY certmgr.expires                      "Waati ben han">
 <!ENTITY certmgr.email                        "Bataga aderesu">
 <!ENTITY certmgr.serial                       "Fannu lanba">

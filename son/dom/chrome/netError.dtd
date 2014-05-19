@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Sankay waati ben">
 <!ENTITY netTimeout.longDesc "<p>Nungoo kaŋ war n'a ceeci ši tuuru ciyari še nda ceecikaa ši zaabi batu koyne.</p><ul><li>A ga hin ka tee kaŋ feršikaa goo goy šenda ra wala a ši goy ra?  Taare ceeci koyne.</li><li>War ši hin ka nungu tanayaŋ ceeci? War ordinateroo sankay ciyaroo koroši koyne.</li><li>Nuneceta wala tokore ga war ordinateroo wala sankaa jejebu?  Kayandiyan laalayaŋ ga hin ka war Interneti naarumaa nakaši.</li><li>Šenday goo no hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Berehaw šibayante">
-<!ENTITY protocolNotFound.longDesc "<p>Aderesoo ga berehaw tabatandi (sanda <q>wxyz://</q>) kaŋ feršikaa ši a bay, adiši ceecikaa ši hin ka nungoo cee ka boori.</p><ul><li>War n'ma wiri ka too hẽenandikaw boobo wala manti-hantum goyyaŋ doo? Nungoo ceeci ka waažibi tontoney bay.</li><li>A hin ka tee kaŋ berehawey ga baa goyjinay waaniyaŋ wala sukariyaŋ hala i ga hin ka tontoney bay.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Berehaw šibayante">
+<!ENTITY unknownProtocolFound.longDesc "<p>Aderesoo ga berehaw tabatandi (sanda <q>wxyz://</q>) kaŋ feršikaa ši a bay, adiši ceecikaa ši hin ka nungoo cee ka boori.</p><ul><li>War n'ma wiri ka too hẽenandikaw boobo wala manti-hantum goyyaŋ doo? Nungoo ceeci ka waažibi tontoney bay.</li><li>A hin ka tee kaŋ berehawey ga baa goyjinay waaniyaŋ wala sukariyaŋ hala i ga hin ka tontoney bay.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Tokore feršikaa wanga ciyaroo">
 <!ENTITY proxyConnectFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaa, amma tokoraa wanga ciyaroo.</p><ul><li>Ceecikaa tokore hanseyanoo ga boori wala? Hanseyaney koroši, de ma ceeci koyne.</li><li>Tokore goydoo ga yadda ciyarey kaŋ ga hun sankaa woo doo ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">

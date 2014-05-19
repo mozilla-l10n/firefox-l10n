@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "CSS fesu-feršiyan firkawey hantum">
+
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "JavaScript hasarawey hantum">
@@ -71,6 +71,7 @@
 <!ENTITY btnConsoleInfo         "Alhabar">
 <!ENTITY btnConsoleWarnings     "Yaamarey">
 <!ENTITY btnConsoleLog          "Hantum">
+
 
 <!ENTITY filterOutput.placeholder "Fattari fay">
 

@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Hoorayjinay žemnayan">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Žemna">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Naŋ">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "Hoorayjinay žemnayan">
 
-<!ENTITY getUserMediaDialog.video.label           "Biizaahaya suuba">
-<!ENTITY getUserMediaDialog.video.noVideo         "Widewo kul šii">
-<!ENTITY getUserMediaDialog.audio.label           "Mikro suuba">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Jinde kul šii">
+
+
+
+
+<!ENTITY getUserMediaDialog.video.label             "Biizaahaya suuba">
+<!ENTITY getUserMediaDialog.video.noVideo           "Widewo kul šii">
+<!ENTITY getUserMediaDialog.audio.label             "Mikro suuba">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Jinde kul šii">

@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Interneti ceecikaw fokuyan">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "--Titilawey">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Neešiyan faalantey">
@@ -23,9 +24,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Titilawey kaŋ tontoney n'i marga">
 
-<!ENTITY aboutTelemetry.toggleOn "  Naagu ka dunboo hayandi">
-
-<!ENTITY aboutTelemetry.toggleOff "  Naagu ka dunboo kankam">
 
 <!ENTITY aboutTelemetry.emptySection "  (Bayhaya kul mana margandi)">
 
@@ -34,3 +32,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Ceeci goymee maaɲey foku dekerey še">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Foku bayhaya ganey sanba">
+
