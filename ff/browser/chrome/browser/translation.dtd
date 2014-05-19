@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Ngoo hello woni ko e">
+<!ENTITY translation.translateThisPage.label    "Fir ngoo hello?">
+<!ENTITY translation.translate.button           "Fir">
 <!ENTITY translation.notNow.button              "Wonaa Jooni">
 
+<!ENTITY translation.translatingContent.label   "Nana fira loowdi hello…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "Ngoo hello firaama ummoraade e">
 <!ENTITY translation.translatedTo.label         "to">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Hollu Yummawol">
+<!ENTITY translation.showTranslation.button     "Hollu Firo">
 
-
-
+<!ENTITY translation.errorTranslating.label     "Waɗii juumre e firo ngoo hello.">
+<!ENTITY translation.tryAgain.button            "Fuɗɗito">
 
 <!ENTITY translation.options.menu               "Cuɓe">
