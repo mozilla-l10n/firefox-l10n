@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "संजालनक परिचय">
+<!ENTITY aboutNetworking.warning               "ई बहुत प्रायोगिक अछि. बिनु व्यस्कक संग एकर उपयोग नहि करू.">
+<!ENTITY aboutNetworking.showNextTime          "Show this warning next time">
+<!ENTITY aboutNetworking.ok                    "बेस">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "साकेट">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "वेबसाकेट">
+<!ENTITY aboutNetworking.refresh               "ताजा करू">
+<!ENTITY aboutNetworking.autoRefresh           "हर 3 सेकेंडमे फेर ताजा करू">
+<!ENTITY aboutNetworking.hostname              "मेजबाननाम">
+<!ENTITY aboutNetworking.port                  "पोर्ट">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "सक्रिय करू ">
+<!ENTITY aboutNetworking.idle                  "निष्क्रिय">
+<!ENTITY aboutNetworking.host                  "मेजबान">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "भेजल-डाक">
+<!ENTITY aboutNetworking.received              "भेटल">
+<!ENTITY aboutNetworking.family                "परिवार">
+<!ENTITY aboutNetworking.addresses             "पता">
+<!ENTITY aboutNetworking.expires               "खतम होइछ (सेकंड)">
+<!ENTITY aboutNetworking.messagesSent          "भेजल गेल सन्देश">
+<!ENTITY aboutNetworking.messagesReceived      "संदेश प्राप्त">
+<!ENTITY aboutNetworking.bytesSent             "बाइट भेजल">
+<!ENTITY aboutNetworking.bytesReceived         "पाओल बाइट">

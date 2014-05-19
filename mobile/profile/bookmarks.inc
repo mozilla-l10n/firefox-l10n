@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons फ़ायरफ़ॉक्स : सहयुक्ति मनपसंद बनाउ
+#define bookmarks_addons फायरफाक्स : सहयुक्ति मनपसिन्न बनाउ
 
 
 
