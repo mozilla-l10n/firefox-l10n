@@ -59,5 +59,5 @@
 <!ENTITY report.comment                                      "Fikrinizi yazın. (Yazılan fikirlər hamı tərəfindən görünə bilər.)">
 <!ENTITY report.pageURL                                      "Səhifənin URL-unu əlavə edin">
 
-<!ENTITY plugin.file                                         "Dosya">
+<!ENTITY plugin.file                                         "Fayl">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

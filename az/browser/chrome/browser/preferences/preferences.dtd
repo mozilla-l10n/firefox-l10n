@@ -11,9 +11,9 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 55em; min-height: 52em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 50em;">
 
-<!ENTITY  paneGeneral.title       "Genel">
+<!ENTITY  paneGeneral.title       "Ümumi">
 <!ENTITY  paneTabs.title          "Vərəqlər">
-<!ENTITY  paneContent.title       "İçerik">
+<!ENTITY  paneContent.title       "Məzmun">
 <!ENTITY  paneApplications.title  "Proqramlar">
 <!ENTITY  panePrivacy.title       "Gizlilik">
 <!ENTITY  paneSecurity.title      "Güvenlik">

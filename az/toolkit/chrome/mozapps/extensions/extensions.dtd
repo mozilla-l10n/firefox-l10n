@@ -9,7 +9,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Yüklənir…">
-<!ENTITY listEmpty.installed.label            "Bu növden qurulmuş bir əlavəniz yoxdur">
+<!ENTITY listEmpty.installed.label            "Bu növ qurulmuş əlavəniz yoxdur">
 <!ENTITY listEmpty.availableUpdates.label     "Yenilənmə tapılmadı">
 <!ENTITY listEmpty.recentUpdates.label        "Yaxın vaxtlarda hər hansı bir əlavəni yeniləmədiniz">
 <!ENTITY listEmpty.findUpdates.label          "Yeniləmələri yoxla">
@@ -25,10 +25,10 @@
 
 <!ENTITY warning.safemode.label                    "Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.">
 <!ENTITY warning.checkcompatibility.label          "Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.">
-<!ENTITY warning.checkcompatibility.enable.label   "Etkinleştir">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktiv et">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Əlavə uyğunluq nəzarətini aktivləşdir">
 <!ENTITY warning.updatesecurity.label              "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.">
-<!ENTITY warning.updatesecurity.enable.label       "Etkinleştir">
+<!ENTITY warning.updatesecurity.enable.label       "Aktiv et">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir">
 <!-- global informations -->
 
@@ -57,11 +57,11 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Bütün əlavələri avtomatik yeniləcək şəkildə nizamla">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "a">
-<!ENTITY updates.resetUpdatesToManual.label          "Bütün əlavələri əllə yeniləcək şəkildə nizamla">
+<!ENTITY updates.resetUpdatesToManual.label          "Bütün əlavələri əllə yeniləyəcək şəkildə nizamla">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "a">
-<!ENTITY updates.updating.label               "Eklentiler güncelleniyor">
+<!ENTITY updates.updating.label               "Əlavələr yenilənir">
 <!ENTITY updates.installed.label              "Əlavələriniz yenilənir.">
 <!ENTITY updates.downloaded.label             "Əlavələrçün yeniləmələr yükləndi.">
 <!ENTITY updates.restart.label                "Quraşdırmanı tamamlamaq üçün indi yenidən başladın">
@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "u">
 <!ENTITY cmd.uninstallAddon.label             "Sil">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
 <!ENTITY cmd.showPreferencesWin.label         "Nizamlar">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.showPreferencesUnix.label        "Nizamlamalar">
@@ -129,7 +130,7 @@
 <!ENTITY detail.homepage.label                "Ana səhifə">
 <!ENTITY detail.numberOfDownloads.label       "Yükləmə">
 
-<!ENTITY detail.contributions.description     "Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi yardım edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.">
+<!ENTITY detail.contributions.description     "Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi kömək edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.">
 
 <!ENTITY detail.updateType                    "Avtomatik yeniləmə">
 <!ENTITY detail.updateDefault.label           "Standart">
@@ -144,7 +145,7 @@
 
 <!ENTITY detail.checkForUpdates.label         "Yeniləmələrə bax…">
 <!ENTITY detail.checkForUpdates.accesskey     "b">
-<!ENTITY detail.checkForUpdates.tooltip       "Bu eklentinin güncellemelerine bak">
+<!ENTITY detail.checkForUpdates.tooltip       "Bu əlavənin yeniləmələri üçün bax">
 <!ENTITY detail.showPreferencesWin.label      "Nizamlar">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Bu əlavənin seçimlərini dəyiş">
@@ -172,7 +173,7 @@
 <!ENTITY sort.price.tooltip                   "Fiyata göre sırala">
 
 <!ENTITY search.filter2.label                 "Axtar:">
-<!ENTITY search.filter2.installed.label       "Eklentilerim">
+<!ENTITY search.filter2.installed.label       "Əlavələrim">
 <!ENTITY search.filter2.installed.tooltip     "Qurulmuş əlavələri göstər">
 <!ENTITY search.filter2.available.label       "Mövcud əlavələr">
 <!ENTITY search.filter2.available.tooltip     "Qurula biləcək əlavələri göstər">
@@ -196,9 +197,9 @@
 <!ENTITY addon.undoRemove.tooltip             "Bu əlavəni saxla">
 <!ENTITY addon.restartNow.label               "Şimdi yeniden başlat">
 <!ENTITY addon.install.label                  "Qur">
-<!ENTITY addon.install.tooltip                "Bu eklentiyi kur">
+<!ENTITY addon.install.tooltip                "Bu əlavəni qur">
 <!ENTITY addon.updateNow.label                "İndi yenilə">
-<!ENTITY addon.updateNow.tooltip              "Bu eklentinin güncellemesini kur">
+<!ENTITY addon.updateNow.tooltip              "Bu əlavənin yeniləməsini qur">
 <!ENTITY addon.includeUpdate.label            "Yeniləməyə daxil et">
 <!ENTITY addon.updateAvailable.label          "Bir yeniləmə var">
 <!ENTITY addon.checkingForUpdates.label       "Yeniləmələr yoxlanılır…">
@@ -214,3 +215,12 @@
 <!ENTITY eula.accept                          "Qəbul et və qur...">
 
 <!ENTITY settings.path.button.label           "Bax…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Ətraflı">
+
+
+

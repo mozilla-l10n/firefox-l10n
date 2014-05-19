@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Menyu sətri">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Naviqasiya alət sətri">
+<!ENTITY navbarCmd.label "Naviqasiya Alət Sətri">
 <!ENTITY personalbarCmd.label "Əlfəcin Paneli">
 <!ENTITY personalbarCmd.accesskey "Ə">
 <!ENTITY bookmarksToolbarItem.label "Əlfəcin alət sətri obyektləri">
@@ -199,12 +199,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Endirilənlər">
-<!ENTITY downloads.tooltip            "Davam edən yükləmələrin statusunu göstər">
+<!ENTITY downloads.tooltip            "Davam edən endirmələrin statusunu göstər">
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Eklentiler">
-<!ENTITY addons.accesskey             "E">
+<!ENTITY addons.label                 "Əlavələr">
+<!ENTITY addons.accesskey             "Ə">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Veb Proqramçı">
@@ -231,6 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Uyğun dizayn görünüşü">
 <!ENTITY responsiveDesignTool.accesskey "U">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "GözDamlası">
+<!ENTITY eyedropper.accesskey "D">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -256,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
 <!ENTITY devToolbarMenu.accesskey          "P">
 <!ENTITY devAppMgrMenu.label               "Proqram İdarəçisi">
-<!ENTITY devAppMgrMenu.accesskey           "d">
+<!ENTITY devAppMgrMenu.accesskey           "P">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
@@ -337,13 +340,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Tarixçə">
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Sil…">
+<!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
+<!ENTITY appMenuHistory.viewSidebar.label "Tarixçə Alət Sətrini Göstər">
+<!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Menyuya Əlavə et">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Alət sətrinə daşı">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -443,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Ə">
 <!ENTITY emailPageCmd.label           "Bağlantını e-poçt ilə göndər…">
 <!ENTITY emailPageCmd.accesskey       "B">
-<!ENTITY switchToMetroCmd.label       "&brandShortName; səyyahını Windows 8 stilində yenidən başlat">
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
@@ -613,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Lüğət əlavə et…">
 <!ENTITY spellAddDictionaries.accesskey "ə">
@@ -659,8 +662,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "k">
 <!ENTITY syncSyncNowItem.label        "İndi Sinxronizə et">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; yenidən qoşul…">
+<!ENTITY syncReAuthItem.accesskey     "q">
 <!ENTITY syncToolbarButton.label      "Sinxronlaşdırma">
 
 <!ENTITY socialToolbar.title        "Sosial Alət Sətiri Düyməsi">
@@ -668,7 +671,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "Kənar sətri göstər">
+<!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "Xidmətləri idarə et…">
 
@@ -685,12 +689,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "&brandShortName;u Şəxsiləşdir">
-
-
-
-
-
-
+<!ENTITY customizeMode.menuAndToolbars.header2 "Əlavə alət və özəlliklər">
+<!ENTITY customizeMode.menuAndToolbars.empty "e">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Minlərlə əlavələrdən seç">
+<!ENTITY customizeMode.restoreDefaults "İlkin Seçənəkləri Bərpa et">
+<!ENTITY customizeMode.toolbars "Alət Sətrini Göstər  / Gizlə">
+<!ENTITY customizeMode.titlebar "Başlıq Paneli">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Çatlara keç">
@@ -734,47 +738,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Təkrar Yoxla">
 
 <!ENTITY uiTour.infoPanel.close "Qapat">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "t">
-<!ENTITY addonBarCmd.label             "Əlavələr Paneli">
-<!ENTITY addonBarCmd.accesskey         "Ə">
-<!ENTITY throbberItem.title            "Fəaliyyət göstəricisi">
-<!ENTITY appMenuButton.label           "Menyu">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; menyusunu aç">
-<!ENTITY feedButton.label              "Abunə ol">
-<!ENTITY feedButton.tooltip            "Bu səhifəyə abunə ol…">
-<!ENTITY bookmarksButton.tooltip       "Sizin əlfəcinlərinizi göstər">
-<!ENTITY historyButton.tooltip         "Yaxında baxılan səhifələri göstər">
-<!ENTITY viewTabsOnTop.label           "Vərəqlər Başda">
-<!ENTITY viewTabsOnTop.accesskey       "V">
-<!ENTITY appMenuEdit.label             "Düzəlt">
-<!ENTITY appMenuToolbarLayout.label    "Alətlər Paneli Görünüşü…">
 <!ENTITY appMenuSidebars.label         "Kənar sətirlər">
-<!ENTITY appMenuFind.label             "Axtar…">
-<!ENTITY appMenuUnsorted.label         "Sıralanmamış Əlfəcinlər">
-<!ENTITY appMenuWebDeveloper.label     "Web inkişaf etdirici">
-<!ENTITY appMenuGettingStarted.label   "İlk addım">
-<!ENTITY appMenuSafeMode.label         "Əlavələr Söndürülmüş halda Yenidən Başlat…">
-<!ENTITY appMenuSafeMode.accesskey     "Y">
-<!ENTITY cutButton.tooltip             "Kes">
-<!ENTITY copyButton.tooltip            "Kopyala">
-<!ENTITY pasteButton.tooltip           "Yapıştır">
-<!ENTITY zoomOutButton.tooltip         "Uzaqlaş">
-<!ENTITY zoomInButton.tooltip          "Yaxınlaş">
-<!ENTITY zoomControls.label            "Yaxınlaşma seçimləri">
-<!ENTITY addonBarCloseButton.tooltip   "Əlavələr sətrini bağla">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Geri/İrəli">
-<!ENTITY viewBookmarksSidebar.label    "Kənar sətirdə göstər">
-<!ENTITY bookmarksItem.title           "Əlfəcinlər">
-<!ENTITY openLocationCmd.label         "Ünvanı Aç…">
-<!ENTITY openLocationCmd.accesskey     "Ü">
-<!ENTITY bookmarksMenuButton.tooltip   "Əlfəcinləri göstər">
+
 <!ENTITY switchToMetroCmd2.label       "&brandShortName; Windows 8 Touch üçün yenidən başlatılsın">
-<!ENTITY tabGroupsButton.tooltip       "Vərəqlərinizi qruplandırın">
-<!-- end of strings to be removed post-Australis -->
+

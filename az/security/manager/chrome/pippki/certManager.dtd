@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Hazırda təsdiq sənədi yoxlanır…">
 <!ENTITY certmgr.subjectinfo.label            "Təsdiqlənən">
 <!ENTITY certmgr.issuerinfo.label             "Redaktə edən">
-<!ENTITY certmgr.validity.label               "Etibarlılıq" >
+
 <!ENTITY certmgr.fingerprints.label           "Parmak izleri">
 <!ENTITY certmgr.certdetail.title             "Təsdiq sənədi detalları">
 <!ENTITY certmgr.certdetail.cn                "Ümumi ad (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Sunucu">
 <!ENTITY certmgr.override_lifetime            "Xidmət müddəti">
 <!ENTITY certmgr.tokenname                    "Təhlükəsizlik cihazları">
-<!ENTITY certmgr.issued                       "Yayınlanma tarixi">
+
 <!ENTITY certmgr.expires                      "Bitmə tarixi">
 <!ENTITY certmgr.email                        "E-poçt ünvanı">
 <!ENTITY certmgr.serial                       "Seriya nömrəsi">

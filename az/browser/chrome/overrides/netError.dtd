@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Ünvan tapılmadı">
+<!ENTITY dnsNotFound.title "Server tapılmadı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn 
 <strong>www</strong>.mozilla.org əvəzinə 
@@ -27,7 +27,7 @@ bağlantısını yoxlayın.</li>
 &brandShortName; Veb-ə giriş icazəsinə malikdir.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Fayla tapılmadı">
+<!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> 
 <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> 

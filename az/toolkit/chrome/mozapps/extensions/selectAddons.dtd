@@ -33,7 +33,7 @@
 
 <!ENTITY action.disable.heading      "Aşağıdaki əlavələr söndürüləcək:">
 <!ENTITY action.incompatible.heading "Aşağıdaki əlavələr söndürüldü, amma uyğun versiyalar çıxdıqda aktivləşdiriləcək:">
-<!ENTITY action.update.heading       "Aşağıdakı əlavələr yeniləcək:">
+<!ENTITY action.update.heading       "Aşağıdakı əlavələr yenilənəcək:">
 <!ENTITY action.enable.heading       "Aşağıdakı əlavələr aktivləşəcək:">
 
 <!ENTITY update.heading              "Əlavələriniz yenilənir">

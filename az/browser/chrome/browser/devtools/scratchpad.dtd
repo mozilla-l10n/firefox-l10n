@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "K">
 <!ENTITY closeCmd.accesskey           "Q">
 
+<!ENTITY viewMenu.label               "Görünüş">
+<!ENTITY viewMenu.accesskey           "G">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Düzəlt">
 <!ENTITY editMenu.accesskey           "D">
 
@@ -93,10 +111,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Yardım">
-<!ENTITY helpMenu.accesskey           "Y">
-<!ENTITY helpMenuWin.label            "Yardım">
-<!ENTITY helpMenuWin.accesskey        "Y">
+<!ENTITY helpMenu.label               "Kömək">
+<!ENTITY helpMenu.accesskey           "K">
+<!ENTITY helpMenuWin.label            "Kömək">
+<!ENTITY helpMenuWin.accesskey        "K">
 
 <!ENTITY documentationLink.label      "MDN-də qaralama dəftəri köməyi">
 <!ENTITY documentationLink.accesskey  "D">

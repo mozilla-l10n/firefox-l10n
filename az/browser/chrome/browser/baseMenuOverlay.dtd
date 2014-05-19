@@ -8,12 +8,12 @@
 <!ENTITY zoomWindow.label         "Böyüt">
 <!ENTITY windowMenu.label         "Pəncərə">
 
-<!ENTITY helpMenu.label           "Yardım"> 
-<!ENTITY helpMenu.accesskey       "Y"> 
+<!ENTITY helpMenu.label           "Kömək"> 
+<!ENTITY helpMenu.accesskey       "K"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Yardım"> 
-<!ENTITY helpMenuWin.accesskey    "Y">
+<!ENTITY helpMenuWin.label        "Kömək"> 
+<!ENTITY helpMenuWin.accesskey    "K">
 <!ENTITY aboutProduct.label       "&brandShortName; haqqında">
 <!ENTITY aboutProduct.accesskey   "h">
 <!ENTITY productHelp.label        "&brandShortName; Kömək">

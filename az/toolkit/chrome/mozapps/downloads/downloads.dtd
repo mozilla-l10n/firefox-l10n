@@ -46,7 +46,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Yükləmə tamamlananda pəncərəni bağla">
-<!ENTITY closeWhenDone.tooltip            "Bütün yükləmələr tamamlananda pəncərəni bağla">
+<!ENTITY closeWhenDone.tooltip            "Bütün Endirmələr tamamlananda pəncərəni bağla">
 
 <!ENTITY showFolder.label                 "Qovluqları göstər">
 <!ENTITY searchBox.label                  "Axtar…">

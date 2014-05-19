@@ -7,7 +7,7 @@
 <!ENTITY  engineManager.intro       "Quraşdırılmış axtarış mühərrikləri:">
 
 <!ENTITY  columnLabel.name          "Ad">
-<!ENTITY  columnLabel.keyword       "Anahtar kelime">
+<!ENTITY  columnLabel.keyword       "Açar söz">
 <!-- Buttons -->
 
 <!ENTITY  up.label                  "Yuxarıya">

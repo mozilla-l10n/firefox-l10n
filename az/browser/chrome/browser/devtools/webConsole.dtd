@@ -71,6 +71,7 @@
 <!ENTITY btnConsoleWarnings     "Uyarılar">
 <!ENTITY btnConsoleLog          "Qeyd">
 
+
 <!ENTITY btnClear.label        "Təmizlə">
 <!ENTITY btnClear.tooltip      "Web Konsulu çıxışını təmizlə">
 <!ENTITY btnClear.accesskey    "l">

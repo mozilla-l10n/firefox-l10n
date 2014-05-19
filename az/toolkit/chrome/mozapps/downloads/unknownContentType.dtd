@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Siz açmaq üçün seçdiniz:">
 <!ENTITY  from.label                  "ünvan:">
-<!ENTITY  actionQuestion.label        "&brandShortName; bu dosya ile ne yapsın?">
+<!ENTITY  actionQuestion.label        "&brandShortName; bu fayl ilə nə etsin?">
 
 <!ENTITY  openWith.label              "Bununla aç">
 <!ENTITY  openWith.accesskey          "a">

@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY index.help "Kömək">
+
 
 
 
@@ -33,7 +35,7 @@
 
 
 
-
+<!ENTITY device.help "Kömək">
 
 
 

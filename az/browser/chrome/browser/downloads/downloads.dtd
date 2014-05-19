@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Yükləmələr">
+<!ENTITY downloads.title                  "Endirmələr">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -72,17 +72,20 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Bütün yükləmələri göstər">
+<!ENTITY downloadsHistory.label           "Bütün endirmələri göstər">
 <!ENTITY downloadsHistory.accesskey       "s">
 
 <!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
-<!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan yükləmələri təmizləyir">
+<!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
 
 <!ENTITY downloadsListEmpty.label         "Yükləmə yoxdur.">
+<!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
+     This string is shown when there are no items in the Downloads Panel.
+     -->
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
