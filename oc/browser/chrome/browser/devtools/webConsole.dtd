@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Avertiments">
 <!ENTITY btnConsoleLog          "Log">
 
+
 <!ENTITY filterOutput.placeholder "Filtre de sortida">
 <!ENTITY btnClear.label        "Netejar">
 <!ENTITY btnClear.tooltip      "Voidar la Consòla Web">

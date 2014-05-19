@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
+<!ENTITY cmd.debugAddon.label                 "Desbugatge">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Modificar las opcions d'aqueste modul complementari">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferéncias">
@@ -216,3 +217,12 @@ certans dels melhors moduls complementaris e tanben los mai populars.">
 <!ENTITY eula.accept                          "Acceptar e installar...">
 
 <!ENTITY settings.path.button.label           "Percórrer...">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "N'aprendre mai">
+
+
+
