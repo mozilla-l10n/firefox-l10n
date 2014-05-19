@@ -232,7 +232,7 @@ size. -->
 <!ENTITY page "Page">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
-<!ENTITY new_private_tab "Nouvel onglet nav. privée">
+<!ENTITY new_private_tab "Nouvel onglet de nav. privée">
 <!ENTITY close_all_tabs "Fermer tous les onglets">
 <!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privés">
@@ -265,11 +265,11 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 <!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
-<!ENTITY contextmenu_site_settings "Modifier paramètres de site">
+<!ENTITY contextmenu_site_settings "Modifier les paramètres de site">
 <!ENTITY contextmenu_top_sites_edit "Modifier">
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
 <!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
-<!ENTITY contextmenu_add_search_engine "Ajouter moteur de recherche">
+<!ENTITY contextmenu_add_search_engine "Ajouter un moteur de recherche">
 
 <!ENTITY pref_titlebar_mode "Barre de titre">
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
@@ -412,11 +412,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nouvelle session invité">
-<!ENTITY exit_guest_session "Quitter session invité">
+<!ENTITY exit_guest_session "Quitter la session invité">
 <!ENTITY guest_session_dialog_continue "Continuer">
 <!ENTITY guest_session_dialog_cancel "Annuler">
 <!ENTITY new_guest_session_title "&brandShortName; va redémarrer">
-<!ENTITY new_guest_session_text "L\u0027utilisateur actuel ne pourra pas accéder à vos données personnelles de navigation (comme par exemple les mots de passe enregistrés, l\u0027historique ou les marque-pages).\n\nLorsque votre invité aura terminé, ses données de navigation seront supprimées et votre session sera restaurée.">
+<!ENTITY new_guest_session_text "L\u0027utilisateur invité ne pourra pas accéder à vos données personnelles de navigation (comme par exemple les mots de passe enregistrés, l\u0027historique ou les marque-pages).\n\nLorsque votre invité aura terminé, ses données de navigation seront supprimées et votre session sera restaurée.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va redémarrer">
 <!ENTITY exit_guest_session_text "Les données de navigation de cette session vont être supprimées.">
