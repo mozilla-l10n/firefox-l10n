@@ -146,7 +146,7 @@
 <!ENTITY detail.size                          "ಗಾತ್ರ">
 
 <!ENTITY detail.checkForUpdates.label         "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "ಈ ಆಡ್-ಆನ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು">
 <!ENTITY detail.showPreferencesWin.label      "ಆಯ್ಕೆಗಳು">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
