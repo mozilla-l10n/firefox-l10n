@@ -7,7 +7,8 @@
 <!ENTITY index.device2 "Սարք">
 <!ENTITY index.help "Օգնություն">
 
-
+<!ENTITY device.debugMainProcess "Վրիպազերծել հիմ. ընթացքը">
+<!ENTITY device.debugMainProcessTooltip "Բացել այս ծրագրի հետ կապված Ծրագրավորման գործիքները այս սարքում">
 <!ENTITY device.screenshot "Պատկերը">
 <!ENTITY device.screenshotTooltip "Տվյալ սարքի գործող վիճակի պատկերը բացել նոր ներդիրում">
 <!ENTITY device.title "Սարքի կառավարման կենտրոն">
@@ -81,7 +82,7 @@
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
-
+<!ENTITY projects.manifestEditor "Մանիֆեստի խմբագիր">
 
 
 
