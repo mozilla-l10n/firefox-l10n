@@ -21,6 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "रंग कड़ीबद्ध करें">
 <!ENTITY  linkColor.label                 "अनदेखी कड़ियाँ:">
-<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "देखी कड़ियाँ:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  visitedLinkColor.accesskey      "v">
