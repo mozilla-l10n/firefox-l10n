@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "প্রদর্শন (V)">
+<!ENTITY viewMenu.accesskey           "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey           "E">
 
@@ -98,8 +116,8 @@
 <!ENTITY helpMenuWin.label            "সহায়তা H">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "M  DN এর স্ক্র্যাচপ্যাড সহায়তা">
-<!ENTITY documentationLink.accesskey  " ">
+<!ENTITY documentationLink.label      "M &amp; DN এর স্ক্র্যাচপ্যাড সহায়তা">
+<!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->

@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "পূর্বাবস্থায় আনা।">
 <!ENTITY newtab.undo.restoreButton "সবকিছু পুনরুদ্ধার।">
 <!ENTITY newtab.undo.closeTooltip "আড়াল">
+
+
+<!ENTITY newtab.panel.link.text "আরও জানুন…">
