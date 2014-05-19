@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY safeb.palm.decline.label "ई चेतावनी केँ अनदेखा  करू ">
+
+<!ENTITY safeb.palm.reportPage.label "ई पृष्ठ किअ रोकल गेल छल?">
+
+<!ENTITY safeb.blocked.malwarePage.title "रिपोर्ट कएल वेब हमला!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>हमला पृष्ठ प्रोग्राम केँ संस्थापित करबाक लेल कोशिश करैत अछि  जे निज सूचना केँ चोराबैछ, अहाँक कंप्यूटर केँ दोसरक हमला अथवा अपन सिस्टमकेँ क्षतिसँ बचाबैक लेल प्रयोग करू .</p><p>किछु हमला साइट जान बूझकए नुकसान दिअबला साफ्टवेयरकेँ वितरित करैत अछि,  मुदा बहुत लोकनिसभकेँ हुनकर मालिक कए अनुमति अथवा ज्ञान कए क्षति पहुँचाएल जाइछ.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "संदेहास्पद वेब धोखाधड़ी!">
+
+

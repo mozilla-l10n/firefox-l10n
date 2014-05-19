@@ -11,11 +11,11 @@
 <!ENTITY  noProxyTypeRadio.label        "कोनो प्राक्सी नहि">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "तंत्र प्राक्सी सेटिंगक प्रयोग  करू ">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "ई सँजालक लेल प्राक्सी सेटिंग स्वतः जाँचू">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "दस्ती प्राक्सी विन्यास:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "स्वचालित प्राक्सी विन्यास URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "फेर लोड  करू ">
@@ -40,7 +40,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "एकरा लेल कोनो प्राक्सी नहि:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "सभटा प्रोटोकाल क लेल प्राक्सी सर्वरक प्रयोग  करू ">
 <!ENTITY  shareproxy.accesskey          "s">
