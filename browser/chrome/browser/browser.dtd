@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "बन्द गरिएको ट्याबलाई पूर्वस्थितिमा ल्याउनुहोस्">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ट्याब बन्द गर्नुहोस्">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "सब ट्याबहरुको सूचि बनाउनुहोस्">
 
@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "मेनु बार">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "नेभिगेसन उपकरणपट्टी">
+
 <!ENTITY personalbarCmd.label "पुस्तकचिनो टुलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "पुस्तकचिनोहरू उपकरणपट्टी वस्तु">
@@ -137,10 +137,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "यो तस्विर बाँड्नुहोस्">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "चयन गरिएकालाई बाँड्नुहोस्">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "यो चलदृष्यलाई बाँड्नुहोस्">
 <!ENTITY shareVideoCmd.accesskey "s">
-<!ENTITY feedsMenu.label "सदस्यता लिनुहोस्">
+
 <!ENTITY subscribeToPageMenupopup.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्">
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
 <!ENTITY addCurPagesCmd.label "सब ट्याबहरुलाई पुस्तकचिनो बनाउनुहोस्...">
@@ -230,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "उत्तरदायी डिजाइन अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -242,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "स्क्र्याचप्याड">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -254,8 +256,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "डेभलोपर टुलबार बन्द गर्नुहोस्">
 <!ENTITY devToolbarMenu.label              "डेभलोपर टुलबार">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "एप प्रबन्धक">
-<!ENTITY devAppMgrMenu.accesskey           "a">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टोगल उपकरण">
@@ -343,14 +345,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 
 
-
-
+<!ENTITY customizeMenu.moveToToolbar.label "टुलबारमा थप्नुहोस्">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
+<!ENTITY customizeMenu.moveToPanel.label "मेनुमा थप्नुहोस्">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 
 
 
@@ -428,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "विवरणहरु हेर्नुहोस्">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "भिडियो हेर्नुहोस्">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "पृष्ठभूमिको छवि हेर्नुहोस्">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रुपमा बसाउनुहोस्…">
@@ -441,7 +444,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "लिङ्कलाई ई-मेल गर्नुहोस्">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "विन्डोज ८ शैलीमा brandShortName; पुनः सुरु गर्नुहोस्">
 <!ENTITY savePageCmd.label            "यस रूपमा पृष्ठ बचत गर्नुहोस्...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -583,9 +585,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "पृष्ठको शैली">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "शैली नभएको">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "आधारभूत पृष्ठ शैली">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "यो वेबसाइटको लागि पप-अप अवरुद्ध ढाँचा बदल्नुहोस्">
 
@@ -611,7 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "शब्दकोषहरु थप्नुहोस...">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -676,9 +678,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> बाट सेवाहरु सक्षम गरिएका छन्। तपाईँले <label class='text-link'> एड-अन प्रबन्धक </label> मा सेवाहरुका लागि आफ्ना सेटिङ्गहरु बदल्न सक्नुहुन्छ।">
 <!ENTITY social.activated.undo.label "ला , यसलाई पहिलेकै स्थितिमा लानुहोस्!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "अझ जान्नुहोस्">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "अहिले होईन">
 
 
@@ -688,7 +690,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरु चाहिन्छ?">
 
 
-
+<!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् वा लुकाउनुहोस्">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -733,47 +735,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "पुन:प्रयास गर्नुहोस्">
 
 <!ENTITY uiTour.infoPanel.close "बन्द गर्नुहोस्">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "एड-अन बार">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "क्रियाकलाप सङ्केतक">
-<!ENTITY appMenuButton.label           "सुची ">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; को सूची  खोल्नुहोस्">
-<!ENTITY feedButton.label              "सदस्यता लिनुहोस्">
-<!ENTITY feedButton.tooltip            "यस पृष्ठको सदस्यता लिनुहोस्...">
-<!ENTITY bookmarksButton.tooltip       "तपाईको पुस्तकचिनोहरु देखाउनुहोस्">
-<!ENTITY historyButton.tooltip         "तपाईले हालसालै हेर्नुभएका पृष्ठहरु देखाउनुहोस्">
-<!ENTITY viewTabsOnTop.label           "ट्याबहरु माथि">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "परिमार्जित गर्नुहोस्">
-<!ENTITY appMenuToolbarLayout.label    "टुलबारको संरचना">
 <!ENTITY appMenuSidebars.label         "साइडबार">
-<!ENTITY appMenuFind.label             "खोज ">
-<!ENTITY appMenuUnsorted.label         "नमिलाइएका पुस्तकचिनोहरु">
-<!ENTITY appMenuWebDeveloper.label     "वेब विकासकर्ता">
-<!ENTITY appMenuGettingStarted.label   "शूरु गर्ने">
-<!ENTITY appMenuSafeMode.label         "एड-अनहरु अक्षम पारेर पुन: शुरु गर्नुहोस...">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "काट्नुहोस्">
-<!ENTITY copyButton.tooltip            "प्रतिलिपि गर्नुहोस्">
-<!ENTITY pasteButton.tooltip           "टाँस्नुहोस्">
-<!ENTITY zoomOutButton.tooltip         "सानो बनाउनुहोस् ">
-<!ENTITY zoomInButton.tooltip          "सानो बनाउनुहोस्">
-<!ENTITY zoomControls.label            "जुम नियन्त्रकहरु">
-<!ENTITY addonBarCloseButton.tooltip   "एड-अन बार बन्द गर्नुहोस्">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "पछाडि/अगाडि">
-<!ENTITY viewBookmarksSidebar.label    "साइडबारमा देखाउनुहोस्">
-<!ENTITY bookmarksItem.title           "पुस्तकचिनोहरू">
-<!ENTITY openLocationCmd.label         "स्थान खोल्नुहोस्...">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "तपाईका पुस्तकचिनोहरु देखाउनुहोस्">
 
-<!ENTITY tabGroupsButton.tooltip       "तपाईका ट्याबहरुलाई समूहगत पार्नुहोस्">
-<!-- end of strings to be removed post-Australis -->
+<!ENTITY switchToMetroCmd2.label       "Windows 8 Touchका लागि &brandShortName;मा पुन: सुरु गरर्नुहोस्">
+

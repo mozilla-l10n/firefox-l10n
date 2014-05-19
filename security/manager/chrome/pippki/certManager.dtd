@@ -25,7 +25,7 @@
 
 <!ENTITY certmgr.subjectinfo.label            "यसलाई जारी गरिएको">
 <!ENTITY certmgr.issuerinfo.label             "जारी गरिएको">
-<!ENTITY certmgr.validity.label               "वैधता" >
+
 <!ENTITY certmgr.fingerprints.label           "औंठाछापहरु">
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
 <!ENTITY certmgr.certdetail.cn                "जातिवाचक नाम (जा . ना)">
@@ -57,7 +57,7 @@
 
 
 <!ENTITY certmgr.tokenname                    "सुरक्षा यन्त्र">
-<!ENTITY certmgr.issued                       "जारी मिति:">
+
 <!ENTITY certmgr.expires                      "म्याद समाप्त हुन्छ">
 
 

@@ -6,11 +6,11 @@
 <!ENTITY charsetMenu.label             "वर्ण सङ्केतन">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "स्वत: पत्ता लगाउनुहोस्">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "थप सङ्केतन">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "M">
 <!ENTITY charsetMenuMore1.label        "पश्चिम यूरोपेली">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "पूर्वी युरोपेली">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "पूर्व एसियाली">

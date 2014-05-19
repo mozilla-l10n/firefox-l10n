@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "तपाई प्रयोग सेटिंग , प्राथमिकता र अरु प्रयोग कर्ता सम्बन्धित तथ्यांक संचित गरिएको छ ">
 <!ENTITY profileDefaultName             "पूर्वनिर्धारित प्रयोगकर्ता">
-<!ENTITY button.choosefolder.label      " फोल्डर छान्नुहोस् ">
-<!ENTITY button.choosefolder.accesskey  " ">
+<!ENTITY button.choosefolder.label      "&amp; फोल्डर छान्नुहोस् ">
+<!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "पूर्वनिर्धारित फोल्डर प्रयोग गर्नुहोस्">
 <!ENTITY button.usedefault.accesskey    "U">

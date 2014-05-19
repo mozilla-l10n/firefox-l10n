@@ -33,14 +33,14 @@ that require it.  -->
 <!ENTITY dataSection.label            "डाटा">
 
 
-<!ENTITY itemFormSearchHistory.label       "Form  इतिहास खोजि खोज्नुहोस्">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; इतिहास खोजि खोज्नुहोस्">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "बचत गरिएको Passwords">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "कुकिज">
 <!ENTITY itemCookies.accesskey             "क">
 <!ENTITY itemCache.label                   "केच ">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Offline वेबसाइट डाटा">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "सक्रिय Logins">

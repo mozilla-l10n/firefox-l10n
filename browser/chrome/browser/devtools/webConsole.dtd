@@ -68,6 +68,7 @@
 <!ENTITY btnConsoleWarnings     "चेतावनीहरु">
 <!ENTITY btnConsoleLog          "लग">
 
+
 <!ENTITY filterOutput.placeholder "फिल्टर निर्गत">
 
 <!ENTITY btnClear.tooltip      "वेब कन्सोल निर्गत खाली गर्नुहोस्">
