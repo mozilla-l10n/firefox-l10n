@@ -7,8 +7,8 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          " अंक्षरको लागि ">
-<!ENTITY  language.accesskey                      " ">
+<!ENTITY  language.label                          "&amp; अंक्षरको लागि ">
+<!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "साइज:">
 <!ENTITY  sizeProportional.accesskey              "z">
@@ -64,8 +64,8 @@
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ">
 <!ENTITY  useDefaultFontSansSerif.label           "सान सेरिफ">
 
-<!ENTITY  allowPagesToUse.label                   " मेरा माथिका छनोट को ठाउँमा पेजको आफ्नै अंक्षरहरु छान्न दिनुहोस ">
-<!ENTITY  allowPagesToUse.accesskey               " ">
+<!ENTITY  allowPagesToUse.label                   "&amp; मेरा माथिका छनोट को ठाउँमा पेजको आफ्नै अंक्षरहरु छान्न दिनुहोस ">
+<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "विरासत सामग्रीको लागि वर्ण एन्कोडिंग">
 

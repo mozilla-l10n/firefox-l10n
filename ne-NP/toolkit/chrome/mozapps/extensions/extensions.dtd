@@ -87,6 +87,7 @@
 
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
 <!ENTITY cmd.uninstallAddon.accesskey         "ह">
+<!ENTITY cmd.debugAddon.label                 "त्रुटि सच्याउनुहोस्">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
 
 
@@ -105,7 +106,7 @@
 
 <!-- detail view -->
 
-
+<!ENTITY detail.creator.label                 "बिकासकर्ता">
 
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
 
@@ -180,5 +181,14 @@
 
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
+
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
+
 
 

@@ -18,7 +18,7 @@
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "क">
 <!ENTITY importFromFirefox.label        "फायरफक्स">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "x">
 
 <!ENTITY noMigrationSources.label       "पुस्तकचिन्हहरु, इतिहास अथवा पासवर्ड डाटा नभएका कार्यक्रमहरु भेटिन सक्छन ।">
 

@@ -42,6 +42,24 @@
 <!ENTITY closeCmd.key                 "W">
 
 
+<!ENTITY viewMenu.label               "दृश्य">
+<!ENTITY viewMenu.accesskey           "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "सम्पादन">
 <!ENTITY editMenu.accesskey           "E">
 
@@ -67,7 +85,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "परिवेश">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -91,13 +109,13 @@
 
 
 <!ENTITY resetContext2.label          "चलहरु रिसेट गर्नुहोस्">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "कार्यान्वयन गर्नुहोस्">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

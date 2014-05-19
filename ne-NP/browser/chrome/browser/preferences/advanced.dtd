@@ -37,19 +37,19 @@
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरु">
 
 <!ENTITY healthReportSection.label       "&brandShortName; स्वास्थ्य विवरण">
-<!ENTITY healthReportDesc.label          "तपाईलाई तपाईको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ v">
+<!ENTITY healthReportDesc.label          "तपाईलाई तपाईको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ &amp;v">
 <!ENTITY enableHealthReport.label        "सुरु &brandShortName; स्वास्थ्य रिपोर्ट">
 <!ENTITY enableHealthReport.accesskey    "र">
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY telemetrySection.label          "टेलीमेट्री">
-<!ENTITY telemetryDesc.label             "हिस्सा प्रदर्शन, प्रयोग भएको, यन्त्र र तपाईको ब्राउजरले बनाएको डाटा व्रिकेताछोटोनाम सहित; हामीलाई ब्रान्डको छोटोनामस बनाउन; राम्रो">
+<!ENTITY telemetryDesc.label             "हिस्सा प्रदर्शन, प्रयोग भएको, यन्त्र र तपाईको ब्राउजरले बनाएको डाटा &amp;व्रिकेताछोटोनाम सहित; हामीलाई &amp;ब्रान्डको छोटोनामस बनाउन; राम्रो">
 <!ENTITY enableTelemetry.label           "Telemetry सक्षम पार्नुहोस्">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
 
 <!ENTITY crashReporterSection.label      "बिग्रिएको रिपोटर">
-<!ENTITY crashReporterDesc.label         "ब्यापारिक चिन्ह को छोटोनाम;सहयोग को लागी पतन प्रतिवेदनहरु पेश गर्नु बिक्रेता को छोटोनाम ; तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि">
+<!ENTITY crashReporterDesc.label         "&amp;ब्यापारिक चिन्ह को छोटोनाम;सहयोग को लागी पतन प्रतिवेदनहरु पेश गर्नु &amp;बिक्रेता को छोटोनाम ; तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि">
 <!ENTITY enableCrashReporter.label       "क्र्यास विवरण सक्षम पार्नुहोस् C">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "अझ जान्नुहोस्">
@@ -111,8 +111,8 @@
 <!ENTITY enableSearchUpdate.label        "सर्च ईन्जिनहरू">
 <!ENTITY enableSearchUpdate.accesskey    "ई">
 
-<!ENTITY offlineNotify.label             " इन्टरनेट नहुदा चलाउन को लागि वेबसाइटले तथ्यांक संचित गर्न अनुमति माग्दा मलाई भन्नु होस् ">
-<!ENTITY offlineNotify.accesskey         " ">
+<!ENTITY offlineNotify.label             "&amp; इन्टरनेट नहुदा चलाउन को लागि वेबसाइटले तथ्यांक संचित गर्न अनुमति माग्दा मलाई भन्नु होस् ">
+<!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "अपवादहरु....">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
@@ -130,7 +130,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरु हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "ह">
-<!ENTITY verify2.label                   " वैधता">
-<!ENTITY verify2.accesskey               " ">
+<!ENTITY verify2.label                   "&amp; वैधता">
+<!ENTITY verify2.accesskey               "V">
 
 

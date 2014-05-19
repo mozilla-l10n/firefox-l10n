@@ -4,8 +4,8 @@
 <!ENTITY window.width                 "36em">
 
 <!ENTITY treehead.status.label        "स्थिति">
-<!ENTITY removepermission.label       " साइट हटाउनुस ">
-<!ENTITY removepermission.accesskey   " ">
+<!ENTITY removepermission.label       "&amp; साइट हटाउनुस ">
+<!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "सबै साइट हटाउनुस">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Address of web site:">

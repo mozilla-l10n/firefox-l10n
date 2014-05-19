@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "सेवाहरु">
 
-<!ENTITY hideThisAppCmdMac.label        "brandShortName लुकाउनुहोस ;">
+<!ENTITY hideThisAppCmdMac.label        "&amp;brandShortName लुकाउनुहोस ;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "अन्य लुकाउनुहोस्">
