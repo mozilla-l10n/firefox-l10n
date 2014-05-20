@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Deskargatu/sinkronizatu orain…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd.label "Lineaz kanpoko ezarpenak…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Lineaz kanpoko ezarpenak">
+<!ENTITY settingsOfflineCmd2.accesskey "k">
 <!ENTITY downloadSelectedCmd.label "Eskuratu hautatutako mezuak">
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadStarredCmd.label "Eskuratu mezu izardunak">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "z">
 <!ENTITY menuFavoriteFolder.label "Karpeta gogokoa">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Propietateak…">
-<!ENTITY folderPropsFolderCmd.label "Karpetaren propietateak…">
-<!ENTITY folderPropsNewsgroupCmd.label "Berri-taldeen propietateak…">
+<!ENTITY folderPropsCmd2.label "Propietateak">
+<!ENTITY folderPropsFolderCmd2.label "Karpetaren propietateak">
+<!ENTITY folderPropsNewsgroupCmd2.label "Berri-taldeen propietateak">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Desegin ezabatu mezua">
 <!ENTITY redoDeleteMsgCmd.label "Berregin ezabatu mezua">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "G">
 <!ENTITY recentFolders.label "Oraintsukoa">
 <!ENTITY recentFolders.accesskey "r">
+<!ENTITY compactVersion.label "Ikuspegi trinkoa">
+<!ENTITY compactVersion.accesskey "n">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Gordetako fitxategiak">
 <!ENTITY savedFiles.accesskey "t">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Mezu iragazkiak…">
-<!ENTITY filtersCmd.accesskey "r">
+<!ENTITY filtersCmd2.label "Mezuen iragazkiak">
+<!ENTITY filtersCmd2.accesskey "r">
 <!ENTITY filtersApply.label "Exekutatu iragazkiak karpetan">
 <!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Exekutatu iragazkiak hautatutako mezuetan">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Garbitu azkenaldiko historia…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Posta eta berri-taldeen kontu-ezarpenak…">
-<!ENTITY accountManagerCmd.accesskey "P">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Kontu-ezarpenak">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Baimendu urruneko arazketa">
 <!ENTITY allowRemoteDebugging.accesskey "z">
 <!-- Mail Toolbar -->
@@ -563,8 +565,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Erakutsi mezu honetako urruneko edukia">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "E">
-<!ENTITY remoteContentOptionAllowForAddress.label "Erakutsi bidaltzaile honen urruneko edukia">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "b">
+<!ENTITY editRemoteContentSettings.label "Editatu urruneko edukiaren aukerak…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Editatu urruneko edukiaren hobespenak…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Ezikusi abisua mezu honetarako">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "r">
 <!ENTITY folderContextSearchForMessages.label "Bilatu mezuak…">
 <!ENTITY folderContextSearchForMessages.accesskey "B">
-<!ENTITY folderContextProperties.label "Propietateak…">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties2.label "Propietateak">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Karpeta gogokoa">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Ezarpenak…">
-<!ENTITY folderContextSettings.accesskey "E">
+<!ENTITY folderContextSettings2.label "Ezarpenak">
+<!ENTITY folderContextSettings2.accesskey "E">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Izenak edo e-postak badauka:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Ireki mezua hizketaldian">
 <!ENTITY contextOpenConversation.accesskey "k">
+<!ENTITY contextOpenContainingFolder.label "Ireki mezua dagoen karpetan">
+<!ENTITY contextOpenContainingFolder.accesskey "k">
 <!ENTITY contextEditMsgAsNew.label "Editatu mezu berri gisa">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Artxibatu">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zooma">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label        "Hobespenak…">
+<!ENTITY preferencesCmdMac2.label       "Hobespenak">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Zerbitzuak">

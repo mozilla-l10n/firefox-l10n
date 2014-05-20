@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Posta-iruzurrak">
 <!ENTITY itemPasswords.label     "Pasahitzak">
 <!ENTITY itemAntiVirus.label     "Antibirusa">
-<!ENTITY itemCookies.label       "Web edukia">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfigura daitezke.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName;(e)k lana erraz diezaioke antibirus softwareari datozen posta-mezuak birusik duten ala ez aztertzerako garaian lokalki gorde aurretik.">
 <!ENTITY antiVirus.label      "Baimendu antibirus-bezeroek datozen mezu indibidualak kuarentenan jartzea">
 <!ENTITY antiVirus.accesskey  "B">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName;(e)k zehaz dezake zein blog, berri-jario eta bestelako webgunek ezar ditzaketen cookieak.">
-<!ENTITY acceptCookies.label            "Onartu guneetako cookieak">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Mantentze-epea:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "iraungi arte">
-<!ENTITY close.label                    "&brandShortName; itxi arte">
-<!ENTITY askEachTime.label              "galdetu niri beti">
-<!ENTITY cookieExceptions.label         "Salbuespenak…">
-<!ENTITY cookieExceptions.accesskey     "S">
-<!ENTITY showCookies.label              "Erakutsi cookieak…">
-<!ENTITY showCookies.accesskey          "E">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Esan webguneei nire jarraipenik ez egiteko">
-<!ENTITY doNotTrack.accesskey           "r">

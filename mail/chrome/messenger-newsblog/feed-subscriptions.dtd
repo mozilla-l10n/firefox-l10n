@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Lehenespenez, erakutsi artikuluaren laburpena web orria kargatu ordez">
 <!ENTITY quickMode.accesskey         "L">
 
+<!ENTITY autotagEnable.label         "Sortu etiketak automatikoki &lt;kategorien&gt; izenetatik">
+<!ENTITY autotagEnable.accesskey     "m">
+<!ENTITY autotagUsePrefix.label      "Erabili aurrizkia etiketentzat:">
+<!ENTITY autotagUsePrefix.accesskey  "z">
+<!ENTITY autoTagPrefix.placeholder   "Idatzi etiketaren aurrizkia">
+
 <!ENTITY locationValidate.label      "Balidatu">
 <!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
 
