@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "O">
 <!ENTITY synchronizeOfflineCmd.label "Nu downloaden/synchroniseren…">
 <!ENTITY synchronizeOfflineCmd.accesskey "d">
-<!ENTITY settingsOfflineCmd.label "Offline-instellingen…">
-<!ENTITY settingsOfflineCmd.accesskey "i">
+<!ENTITY settingsOfflineCmd2.label "Offline-instellingen">
+<!ENTITY settingsOfflineCmd2.accesskey "i">
 <!ENTITY downloadSelectedCmd.label "Geselecteerde berichten ophalen">
 <!ENTITY downloadSelectedCmd.accesskey "c">
 <!ENTITY downloadStarredCmd.label "Berichten met ster ophalen">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Favoriete map">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Eigenschappen…">
-<!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
-<!ENTITY folderPropsNewsgroupCmd.label "Nieuwsgroepeigenschappen…">
+<!ENTITY folderPropsCmd2.label "Eigenschappen">
+<!ENTITY folderPropsFolderCmd2.label "Mapeigenschappen">
+<!ENTITY folderPropsNewsgroupCmd2.label "Nieuwsgroepeigenschappen">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Bericht verwijderen ongedaan maken">
 <!ENTITY redoDeleteMsgCmd.label "Bericht verwijderen opnieuw uitvoeren">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Compacte weergave">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorteren op">
@@ -455,12 +457,12 @@
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Accounts tonen…">
 <!ENTITY joinChatCmd.label "Chat bijwonen…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.accesskey "b">
 <!ENTITY savedFiles.label "Opgeslagen bestanden">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Berichtenfilters…">
-<!ENTITY filtersCmd.accesskey "B">
+<!ENTITY filtersCmd2.label "Berichtenfilters">
+<!ENTITY filtersCmd2.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Filters toepassen op geselecteerde berichten">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Recente geschiedenis wissen…">
 <!ENTITY clearRecentHistory.accesskey "g">
-<!ENTITY accountManagerCmd.label "Accountinstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Accountinstellingen">
+<!ENTITY accountManagerCmd2.accesskey "c">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Externe debugverbinding toestaan">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
@@ -561,10 +563,12 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Doorsturen als bijlagen">
 
 <!-- Remote Content Button Popup -->
-<!ENTITY remoteContentOptionsAllowForMsg.label "Niet-ingebedde inhoud in dit bericht tonen">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Externe inhoud in dit bericht tonen">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
-<!ENTITY remoteContentOptionAllowForAddress.label "Niet-ingebedde inhoud van deze afzender tonen">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "v">
+<!ENTITY editRemoteContentSettings.label "Opties voor externe inhoud bewerken…">
+<!ENTITY editRemoteContentSettings.accesskey "o">
+<!ENTITY editRemoteContentSettingsUnix.label "Voorkeuren voor externe inhoud bewerken…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "v">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Waarschuwing voor dit bericht negeren">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "Berichten zoeken…">
 <!ENTITY folderContextSearchForMessages.accesskey "z">
-<!ENTITY folderContextProperties.label "Eigenschappen…">
-<!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextProperties2.label "Eigenschappen">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriete map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Instellingen…">
-<!ENTITY folderContextSettings.accesskey "I">
+<!ENTITY folderContextSettings2.label "Instellingen">
+<!ENTITY folderContextSettings2.accesskey "I">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Bericht openen in conversatie">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Bericht openen in bijbehorende map">
+<!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Als nieuw bericht bewerken…">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Archiveren">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Voorkeuren…">
+<!ENTITY preferencesCmdMac2.label       "Voorkeuren">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Voorzieningen">
