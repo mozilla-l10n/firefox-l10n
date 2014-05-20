@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Nondik" >
 <!ENTITY newevent.to.label                  "Nora" >
-<!ENTITY newevent.attendees.notify.label    "Jakinarazi partaideak">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Mantendu gonbidapenetan partaideak ezkutuan">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Gaituta badago, partaideek ezingo dute elkar ikusi gonbidapenetan. Posta elektroniko bidezko gonbidapenei eragiten die soilik.">
 
 <!ENTITY newevent.status.label                    "Egoera" >
 <!ENTITY newevent.status.accesskey                "r" >
@@ -32,6 +28,13 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; osatua">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Jakinarazi partaideak">
+<!ENTITY event.attendees.notifyundisclosed.label    "Partaide bakoitzeko gonbidapen bana">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aukera honek partaide bakoitzeko gonbidapen bana bidaltzen du. Gonbidapen bakoitzak gonbidatutako hartzailearen helbidea dauka soilik eta beste partaideak ez dira aditzera emango.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">

@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Mezu honek gertaera bateko gonbidapena du.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Onartu">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Onartu gonbidapena">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Onartu guztiak">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Onartu gonbidapena gertaeraren agerpen guztietarako">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Gehitu">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Gehitu gertaera egutegira">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Ukatu">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Baztertu gonbidapena">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Baztertu guztiak">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Baztertu gonbidapena gertaeraren agerpen guztietarako">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Ezabatu">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ezabatu egutegitik">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Xehetasunak…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Erakutsi gertaeraren xehetasunak">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Gehiago">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Egin klik aukera gehiago erakusteko">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Birberretsi">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Birberrespena bidaltzen dio antolatzaileari">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Behin-behinekoa">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Onartu gonbidapena behin-behinean">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Behin-behinekoak guztiak">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Onartu behin-behinean gonbidapena gertaeraren agerpen guztietarako">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Eguneratu">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Eguneratu gertaera egutegian">
+<!ENTITY lightning.imipbar.description                                      "Mezu honek gertaera bateko gonbidapena du.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

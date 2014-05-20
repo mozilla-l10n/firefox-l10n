@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Luzea" >
 <!ENTITY pref.dateformat.short "Laburra"  >
-<!ENTITY pref.defaultlength.label "Lehetsiriko gertaera iraupena:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Atzerapen iraupen lehenetsia:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "A">
+
+<!ENTITY pref.defaults.label "Elementu berrien balio lehenetsiak">
+<!ENTITY pref.events.label "Gertaerak">
+<!ENTITY pref.tasks.label "Zereginak">
+
+<!ENTITY pref.default_event_length.label "Luzera lehenetsia:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Bat ere ez">
+<!ENTITY pref.default_task_start_of_day.label "Egunaren hasiera">
+<!ENTITY pref.default_task_end_of_day.label "Egunaren amaiera">
+<!ENTITY pref.default_task_tomorrow.label "Bihar">
+<!ENTITY pref.default_task_next_week.label "Hurrengo astea">
+<!ENTITY pref.default_task_offset_current.label "Uneko orduarekiko erlatiboa">
+<!ENTITY pref.default_task_offset_start.label "Hasierarekiko erlatiboa">
+<!ENTITY pref.default_task_offset_next_hour.label "Hurrengo orduarekiko erlatiboa">
 
 <!ENTITY pref.accessibility.label "Erabilgarritasuna" >
 <!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >

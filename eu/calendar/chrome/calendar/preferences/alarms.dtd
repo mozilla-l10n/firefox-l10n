@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "r">
 <!ENTITY pref.defaultemail.label "Gogorarazleak bidaltzeko lehenetsitako helbidea:">
 <!ENTITY pref.defaulttext.label "Gogorarazleen testu lehenetsia:">
+
+<!ENTITY pref.defaultsnoozelength.label "Geroko uzteko luzera lehenetsia:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "G">
