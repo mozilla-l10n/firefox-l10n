@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Zure kontua egiaztatu egin behar da. Sakatu egiaztapen-mezua birbidaltzeko.">
 <!ENTITY fxaccount_status_needs_credentials "Ezin da konektatu. Sakatu saioa hasteko.">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; bertsio-berritu behar duzu saioa hasteko.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \&quot;Auto-sinkronizatu datuak\&quot; aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Sakatu sinkronizatzen hasteko.">
 <!ENTITY fxaccount_status_bookmarks "Laster-markak">
 <!ENTITY fxaccount_status_history "Historia">
 <!ENTITY fxaccount_status_passwords "Pasahitzak">
