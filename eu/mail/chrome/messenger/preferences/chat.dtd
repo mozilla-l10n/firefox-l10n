@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Bidali idazketa-jakinarazpenak berriketetan">
 <!ENTITY  sendTyping.accesskey          "d">
+
+<!ENTITY  chatNotifications.label             "Zuri zuzendutako mezuak iristean:">
+<!ENTITY  desktopChatNotifications.label      "Erakutsi jakinarazpena">
+<!ENTITY  desktopChatNotifications.accesskey  "n">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Erreproduzitu soinua">
+<!ENTITY  play.label                          "Erreproduzitu">
+<!ENTITY  play.accesskey                      "p">
+<!ENTITY  systemSound.label                   "Lehenetsitako sistema-soinua posta berriarentzat">
+<!ENTITY  systemSound.accesskey               "i">
+<!ENTITY  customsound.label                   "Erabili hurrengo soinu-fitxategia">
+<!ENTITY  customsound.accesskey               "u">
+<!ENTITY  browse.label                        "Arakatu…">
+<!ENTITY  browse.accesskey                    "A">
+
