@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Osteguna" >
 <!ENTITY day.6.name "Ostirala" >
 <!ENTITY day.7.name "Larunbata" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "minutu">
-<!ENTITY calendar.global.units.minutes  "minutu">
-<!ENTITY calendar.global.units.hour     "ordu">
-<!ENTITY calendar.global.units.hours    "ordu">
-<!ENTITY calendar.global.units.day      "egun">
-<!ENTITY calendar.global.units.days     "egun">
 
 <!ENTITY month.1.name "urtarrila" >
 <!ENTITY month.2.name "otsaila" >
