@@ -1,10 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncCustomize.dialog.title       "Sync नीवड">
 <!ENTITY syncCustomize.acceptButton.label "सुरू करा">
 
-
-
+<!ENTITY syncCustomize.title              "तुम्हाला काय तळमेळ करायचे?">
+<!ENTITY syncCustomize.description        "पर्यायमध्ये हे बदल बदलणे शक्य आहे.">
+<!ENTITY syncCustomizeUnix.description    "प्राधान्यतामध्ये ही निवड बदलणे शक्य आहे.">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
@@ -18,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "पासवर्डज">
 <!ENTITY engine.passwords.accesskey       "P">
-
-
-
-
+<!ENTITY engine.addons.label              "डेस्कटॉप ॲडऑन्स">
+<!ENTITY engine.addons.accesskey          "A">
+<!ENTITY engine.prefs.label               "डेस्कटॉप प्रधान्यता">
+<!ENTITY engine.prefs.accesskey           "S">

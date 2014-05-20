@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
+<!ENTITY getUserMediaDialog.title                   "मिडीया शेअरिंग">
+<!ENTITY getUserMediaDialog.button.accept.label     "शेअर करा">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "रद्द करा">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-
-
-
-
-
+<!ENTITY getUserMediaDialog.video.label             "कॅमेरा निवडा">
+<!ENTITY getUserMediaDialog.video.noVideo           "व्हिडिओ नाही">
+<!ENTITY getUserMediaDialog.audio.label             "माइक्रोफोन निवडा">
+<!ENTITY getUserMediaDialog.audio.noAudio           "ऑडिओ नाही">

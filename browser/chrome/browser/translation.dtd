@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "हे पृष्ठ येथे आहे">
+<!ENTITY translation.translateThisPage.label    "ह्या पृष्ठाचे भाषांतरन करायचे?">
+<!ENTITY translation.translate.button           "भाषांतरन करा">
+<!ENTITY translation.notNow.button              "आता नाही">
 
-
-
+<!ENTITY translation.translatingContent.label   "पृष्ठ अंतर्भुत माहितीचे भाषांतरन करत आहे…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "ह्या पृष्ठाचे ह्यापासून भाषांतरन झाले आहे">
 <!ENTITY translation.translatedTo.label         "पर्यंत">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "मूळ दाखवा">
+<!ENTITY translation.showTranslation.button     "भाषांतरन दाखवा">
 
-
-
+<!ENTITY translation.errorTranslating.label     "ह्या पृष्ठाच्या भाषांतरनवेळी त्रुटी आढळली.">
+<!ENTITY translation.tryAgain.button            "पुनः प्रयत्न करा">
 
 <!ENTITY translation.options.menu               "पर्याय">

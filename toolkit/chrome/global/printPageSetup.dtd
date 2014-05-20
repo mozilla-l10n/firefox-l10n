@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "पानाची मांडणी">
 
+<!ENTITY basic.tab           "रूपण आणि पर्याय">
 
 <!ENTITY formatGroup.label   "स्वरूपण">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "पर्याय">
 
+<!ENTITY printBG.label       "पार्श्वभूमीची छपाई करा (रंग आणि चित्र)">
+<!ENTITY printBG.accesskey   "B">
 
-
+<!ENTITY advanced.tab        "समास आणि शिर्षलेख/तळलेख">
 
 <!ENTITY marginGroup.label   "समास (#1)">
 <!ENTITY marginUnits.inches  "इंच">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "उजवा:">
 <!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "शिर्षलेख आणि तळलेख">
 
 <!ENTITY hfLeft.label        "डावी:">
 <!ENTITY hfCenter.label      "मध्य:">

@@ -7,32 +7,35 @@
 
 
 <!ENTITY optionsHeader.title                                     "पर्याय">
+<!ENTITY optionsHeader.char.title                                "कॅरेक्टर एनकोडिंग">
+<!ENTITY optionsHeader.char.autodetect.label                     "स्व-शोधा">
+<!ENTITY optionsHeader.char.options.label                        "ॲप पट्टीमध्ये एनकोडिंग पर्याय दाखवा">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "वैयक्तिक डाटा नष्ट करा">
+<!ENTITY clearPrivateData.label                                  "ह्या साधनावरील ब्राउजिंग इतिहास, पासवर्ड्ज, कूकिज, आणि फॉर्म डाटा नेहमी नष्ट करा">
+<!ENTITY clearPrivateData.button                                 "नष्ट करा">
+<!ENTITY clearPrivateData.done                                   "पूर्ण झाले!">
+<!ENTITY clearPrivateData.history                                "ब्राउजिंग इतिहास">
+<!ENTITY clearPrivateData.otherdata                              "इतर डाटा (पासवर्ड्ज, कॅशे, कूकिज, इत्यादि)">
+<!ENTITY clearPrivateData.downloadHist                           "डाऊनलोड इतिहास">
 <!ENTITY clearPrivateData.cookies                                "कूकिज">
-
-
+<!ENTITY clearPrivateData.cache                                  "कॅशे">
+<!ENTITY clearPrivateData.sitePref                               "साईट पसंती">
 <!ENTITY clearPrivateData.formSearchHist                         "फॉर्म आणि शोध इतिहास">
+<!ENTITY clearPrivateData.passwords                              "साठवलेले पासवर्ड">
+<!ENTITY clearPrivateData.offline                                "ऑफलाइन संकेतस्थळ माहिती">
+<!ENTITY clearPrivateData.logins                                 "सक्रिय प्रवेश">
 
+<!ENTITY optionsHeader.privacy.passwords.label                   "पासवर्ड्ज लक्षात ठेवा">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "संचारन बटना दाखवा">
+<!ENTITY doNotTrack.title                                        "ट्रॅक करू नका">
+<!ENTITY doNotTrack.options.doNotTrack                           "साईट्स्ने मला ट्रॅक करू नये">
+<!ENTITY doNotTrack.options.doTrack                              "संकेतस्थळांना मला ट्रॅक करण्याचे, असे सांगा">
+<!ENTITY doNotTrack.options.default                              "माझ्या ट्रॅकिंग प्राधान्यानबद्दल साईट्सला सांगू नका">
+<!ENTITY doNotTrack.learnMoreLink                                "आणखी शिका &#x2026;">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.reporting.title                           "क्रॅश रिपोर्टर">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; क्रॅश अहवाल सुपूर्द करून, Mozilla ला आपले ब्राउजर अाणखी स्थीर व सुरक्षीत करण्यास मदत करते">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-
+<!ENTITY optionsHeader.telemetry.label                            "ब्राउजर उत्तम बनवण्याकरिता &brandShortName; विषय़ी वापर आकडेवारि Mozilla सह शेअर करते">
