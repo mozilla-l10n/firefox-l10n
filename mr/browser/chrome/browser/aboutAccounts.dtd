@@ -4,6 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;वर आपले स्वागत">
 
+<!ENTITY aboutAccountsConfig.description "टॅब्स, वाचनखुणा, पासवर्ड्ज आणि आणखीकरिता प्रवेशसाठी प्रवेश करा.">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरुवात करा">
-
+<!ENTITY aboutAccountsConfig.useOldSync.label "सिंकच्या जुण्या आवृत्तीचा वापर करत आहात?">
 <!ENTITY aboutAccountsConfig.manage.label "व्यवस्थापन करा">

@@ -1,12 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "शोधा">
 <!ENTITY addpref.name           "नाव">
 
 <!ENTITY cancel.label           "रद्द करा">
+<!ENTITY toggle.label           "टॉगल करा">
 
+<!ENTITY integer.label          "इंटीजर">
+<!ENTITY string.label           "स्ट्रिंग">
+<!ENTITY boolean.label          "बूलियन">
 
-
-
-
-
+<!ENTITY string.placeholder     "स्ट्रिंग द्या">
+<!ENTITY number.placeholder     "क्रमांक द्या">

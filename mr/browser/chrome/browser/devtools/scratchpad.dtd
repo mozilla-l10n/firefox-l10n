@@ -53,20 +53,26 @@
 <!ENTITY viewMenu.label               "दृष्य">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "ओळ क्रमांक दाखवा">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "पाठ व्रॅप रचनाबध्द करा">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "समाप्तिची मोकळी जागा ठळक करत आहे">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "मोठे फाँट">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "लहान फाँट">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "सामान्य आकार">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "संपादित करा">
 <!ENTITY editMenu.accesskey           "E">
@@ -83,8 +89,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "सुरेख छपाई">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -93,7 +100,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "वातावरण">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "अंतर्भूत माहिती">
@@ -124,14 +131,14 @@
 
 
 <!ENTITY resetContext2.label          "वेरियेबल्स् मूळस्थितीत आणा">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.label           "पुन्हा लोड करा व चालवा">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "चालवा">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.accesskey        "X">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
@@ -142,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "सध्याच्या फंक्शनचे विश्लेषण करा">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">

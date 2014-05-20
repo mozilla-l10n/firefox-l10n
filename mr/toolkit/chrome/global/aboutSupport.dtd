@@ -23,11 +23,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "आवृत्ती">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "प्रयोगिक गुणविशेष">
+<!ENTITY aboutSupport.experimentName "नाव">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "वर्णन">
+<!ENTITY aboutSupport.experimentActive "सक्रिय">
+<!ENTITY aboutSupport.experimentEndDate "समाप्ति दिनांक">
 <!ENTITY aboutSupport.experimentHomepage "मुख्यपृष्ठ">
 
 

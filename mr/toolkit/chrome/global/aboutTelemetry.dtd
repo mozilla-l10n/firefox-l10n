@@ -26,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ॲडऑन्सतर्फे एकत्र केलेले हिस्टोग्राम्स">
 
+<!ENTITY aboutTelemetry.toggle "  भाग निपतनकरिता क्लिक करा">
 
 <!ENTITY aboutTelemetry.emptySection "  (माहिती एकत्र केली नाही)">
 
@@ -35,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  हँग्स पासून कच्ची माहिती दाखवा">
 
+<!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग्ज किंवा /regexp/)">

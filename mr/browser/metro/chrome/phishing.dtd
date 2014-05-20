@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY safeb.palm.decline.label "ह्या सावधानतेस दुर्लक्ष करा">
 
+<!ENTITY safeb.palm.accept.label "मला येथून बाहेर काढा!">
+<!ENTITY safeb.palm.decline.label "ह्या सावधानतेस दुर्लक्ष करा">
+<!ENTITY safeb.palm.notforgery.label2 "हे वेब बनावट नाही…">
 <!ENTITY safeb.palm.reportPage.label "हे पृष्ठ का रोखले गेले?">
 
 <!ENTITY safeb.blocked.malwarePage.title "प्रहार पृष्ठ कळवले गेले!">
@@ -11,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>दोखादायी पृष्ठ व्यक्तिगत माहिती चोरून प्राप्त करणे, तसेच आपल्या संगणकाचा वापर इतर संगणकावर प्रवेश किंवा प्रणाली नष्ट करण्यासाठी कार्यक्रम प्रतिष्ठापीत करतात.</p><p>काहिक प्रहार पाने जबरनरित्या वापरकर्त्याच्या परवानगीविना, हानीकराक सॉफ्टवेअर प्रतिष्ठापीत करतात.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "संशयास्पद वेब बनावटीकरण!">
-
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ह्या पृष्ठावरील कोणतीही वैयक्तिक माहिती दिल्यास आइडेंटिटि थेफ्ट किंवा इतर दोष होऊ शकतात.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ह्या प्रकारच्या वेब फोर्जरिजचा वापर फिशिंग अटॅक्स सारख्या स्कॅम्समध्ये होतो, ज्यामध्ये दोषीत वेब पृष्ठ आणि ईमेल्सचा वापर विश्वासर्ह स्रोतची नक्कल करण्यास होतो.</p>">

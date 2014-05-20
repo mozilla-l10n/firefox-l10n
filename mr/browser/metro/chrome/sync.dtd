@@ -5,40 +5,54 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
-<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label;ची मांडणी करा">
+
+<!ENTITY sync.flyout.presetup.description1     "साधनांकरिता वाचनखुणा, पासवर्ड्ज, आणि खुले टॅब्जकरिता प्रवेश करा">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; ची मांडणी करा">
 <!-- Flyout when setting up sync -->
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; ची मांडणी करा">
-
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.description1        "&syncBrand.shortName.label; खाते असल्यास, साधनावरील &quot;साधनाचे जोड करा&quot; नीवडा आणि हे कोड द्या.">
+<!ENTITY sync.flyout.setup.description2        "&syncBrand.shortName.label; खाते नसल्यास, &brandShortName; डेस्कटॉप ब्राउजरवर स्वतः निर्माण करा.">
+<!ENTITY sync.flyout.setup.manual.label_2      "मी संगणकाच्या समक्ष नाही…">
+<!ENTITY sync.flyout.setup.description3        "टीप:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;साधनाची जोडी करा&quot; शोधण्यासाठी,">
+<!ENTITY sync.flyout.setup.description5_2      "[डेस्कटॉप] &quot;पर्याय&quot; किंवा &quot;प्राधान्यता&quot; उघडा आणि त्यानंतर &quot;&syncBrand.shortName.label;&quot; ची नीवड करा">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] अधिक &gt; सेटिंग्ज &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "कृपया आपले &syncBrand.shortName.label; खाते माहिती आणि संगणकातर्फे निर्मीत रिकव्हरि कि द्या">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "खाते नाव">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "पासवर्ड">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "पुनःप्राप्ति कि">
 <!ENTITY sync.flyout.manualsetup.connect.label           "जोडणी करा">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "नुकतेच &brandShortName; ला &syncBrand.shortName.label; खातेसह जोडणी केली">
+<!ENTITY sync.flyout.setupsuccess.description2      "तुमचा &syncBrand.shortName.label; डाटा आत्ता पार्श्वभूमीमध्ये डाउनोलड होत आहे. तुमचे सिंक केलेले टॅब्ज &brandShortName; प्रारंभ पृष्ठात आढळेल">
 <!-- Flyout when setup failed -->
 
-
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; हे &syncBrand.shortName.label; खातेसह जोडणी करू शकले नाही.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "रद्द करा">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "पुनः प्रयत्न करा">
 <!-- Flyout when connected and functioning normally -->
 
-
-
-
-
+<!ENTITY sync.flyout.connected.account                    "खाते:">
+<!ENTITY sync.flyout.connected.device                     "तुमचे साधन:">
+<!ENTITY sync.flyout.connected.disconnect                 "खंडीत करा">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "साधनाला &syncBrand.shortName.label; सह खंडीत करा?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "दोन्ही साधन आणि &syncBrand.shortName.label; खातेवरील तुमचा वैयक्तिक डाटा शाबूत राहील.">
+<!ENTITY sync.flyout.connected.cancel                     "रद्द करा">
 <!ENTITY sync.flyout.connected.pair                       "साधनाची जोडणी करा">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "नवीन साधनावर तुम्हाला यासह जोड करावे लागेल, &quot;सेटअप &syncBrand.shortName.label;&quot; नीवडा आणि साधनतर्फे निर्मीत कोड द्या">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "जोडी">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "टीप:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "कोड शोधण्याकरिता,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[डेस्कटॉप] &quot;पर्याय&quot; किंवा &quot;प्राधान्यता&quot; उघडा आणि त्यानंतर टप्पे बाळगा: &syncBrand.shortName.label; -&gt;  &syncBrand.shortName.label; ची मांडणी करा-&gt; माझ्याकडे खाते आहे">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] अधिक &gt; सेटिंग्ज &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "कृपया पुन्हा प्रयत्न करा">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "नवीन साधन यशस्वीरित्या समाविष्ट केले.">
+<!ENTITY sync.flyout.pairSuccess.description2             "आपले &syncBrand.shortName.label; डाटा आत्ता पार्श्वभूमीमध्ये डाइनलोड होत आहे. तुमचे दुरस्त टॅब्ज &brandShortName; प्रारंभ पृष्ठावर आढळेल.">
