@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Opstellen">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Bijlagen">
+<!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneSecurity.title       "Beveiliging">
 <!ENTITY paneAdvanced.title       "Geavanceerd">

@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Zoeken en vervangen…">
+<!ENTITY findBarCmd.label "Zoeken…">
+<!ENTITY findReplaceCmd.label "Zoeken en vervangen…">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Spelling controleren…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Wiskunde…">
+<!ENTITY insertMathCmd.accesskey "W">
 <!ENTITY insertCharsCmd.label "Tekens en symbolen…">
 <!ENTITY insertCharsCmd.accesskey "s">
 <!ENTITY insertBreakAllCmd.label "Afbreken na afbeelding(en)">
