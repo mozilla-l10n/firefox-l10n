@@ -56,6 +56,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nová karta">
 <!ENTITY tabCmd.accesskey "a">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+  displayed on OS X, and only on windows that aren't main browser windows, or
+  when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Otvoriť umiestnenie…">
 <!ENTITY openFileCmd.label "Otvoriť súbor…">
 <!ENTITY openFileCmd.accesskey "s">
 <!ENTITY openFileCmd.commandkey "o">
