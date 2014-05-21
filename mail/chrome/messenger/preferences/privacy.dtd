@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+
+
+
+
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Susbaint-lìn">
+
+
+
+
+
+
+
+<!ENTITY keepUntil.label "Cum gus:">
+<!ENTITY keepUntil.accesskey "C">
+<!ENTITY expire.label "am falbh an ùine orra">
+<!ENTITY close.label "an dùin mi &brandShortName;">
+<!ENTITY askEachTime.label "faighnich dhìom gach turas">
+<!ENTITY cookieExceptions.label "Eisgeachdan…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Seall na briosgaidean…">
+<!ENTITY showCookies.accesskey "S">
+
+
+
+
+
+
+
+

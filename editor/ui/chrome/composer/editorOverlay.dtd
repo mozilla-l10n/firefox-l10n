@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Cuir ann mar luaidh">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Lorg is cuir 'na àite…">
+<!ENTITY findBarCmd.label "Lorg…">
+<!ENTITY findReplaceCmd.label "Lorg is cuir 'na àite…">
 <!ENTITY enableInlineSpellChecker.label "Ceartaich an litreachadh 's tu a' sgrìobhadh">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Ceartaich an litreachadh">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "C">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matamataig…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caractairean is samhlaidhean…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Loidhne bhàn fo dhealbh(an)">

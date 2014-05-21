@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Fallsaidheachdan puist-dhealain">
 <!ENTITY itemPasswords.label     "Faclan-faire">
 <!ENTITY itemAntiVirus.label     "Ana-bhìoras">
-<!ENTITY itemCookies.label       "Susbaint-lìn">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Suidhich na roghainnean bunaiteach agad airson post-truilleis. &apos;S urrainn dhut roghainnean a shònrachadh ann an &quot;Roghainnean nan cunntasan&quot; aig am bi buaidh air cunntasan fa leth.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "Nì &brandShortName; èasgaidh e do bhathar-bog ana-bhìorais teachdaireachdan puist a sgrùdadh a thig a-steach, air eagal 's gum bi bìorasan annta, mus dèid an stòradh gu h-ionadail.">
 <!ENTITY antiVirus.label      "Leig le cliantan ana-bhìorais teachdaireachdan a thig a-steach a chur ann an cuarantain">
 <!ENTITY antiVirus.accesskey  "a">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "Le &brandShortName;, 's urrainn dhut sònrachadh dè na blogaichean, na h-inbhirean naidheachd is na làraichean-lìn eile aig a bhios cead briosgaidean a shuidheachadh.">
-<!ENTITY acceptCookies.label            "Gabh ri briosgaidean o làraichean">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Cum gus:">
-<!ENTITY keepUntil.accesskey            "C">
-<!ENTITY expire.label                   "am falbh an ùine orra">
-<!ENTITY close.label                    "an dùin mi &brandShortName;">
-<!ENTITY askEachTime.label              "faighnich dhìom gach turas">
-<!ENTITY cookieExceptions.label         "Eisgeachdan…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Seall na briosgaidean…">
-<!ENTITY showCookies.accesskey          "S">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Innis do làraichean-lìn gun a bhith 'gam lorgadh">
-<!ENTITY doNotTrack.accesskey           "d">
