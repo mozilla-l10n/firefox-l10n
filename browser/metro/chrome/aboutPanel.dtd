@@ -6,7 +6,7 @@
 <!ENTITY aboutHeader.title "Um">
 <!ENTITY aboutHeader.product.label "&brandShortName;">
 <!ENTITY aboutHeader.company.label "Frá &vendorShortName;">
-<!ENTITY aboutHeader.policy.label "Lesa &brandShortName; friðhelgisreglur á netinu">
+<!ENTITY aboutHeader.policy.label "Lesa persónuverndarstefnu &brandShortName; á netinu">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates "Athuga með uppfærslur…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
