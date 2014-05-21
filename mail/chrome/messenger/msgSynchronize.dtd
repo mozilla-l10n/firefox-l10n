@@ -17,7 +17,7 @@
 <!ENTITY workOffline.label "Աշխատել անցանց՝ բեռնելուց և/կամ համաժամեցնելուց հետո">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Ընտրել...">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Ընտրեք փոստային թղթապ. և նորությունները՝ անցանց օգտ. համար։">
 <!ENTITY MsgSelectInd.label "Բեռնել">
 <!ENTITY MsgSelectItems.label "Թղթապ. և Նորություններ">

@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "Նամակի բովանդակությունը">
+
+<!ENTITY acceptRemoteContent.label "Թույլատրել նամակի հեռակա բովանդակությունը">
+<!ENTITY acceptRemoteContent.accesskey "Թ">
+<!ENTITY remoteContentExceptions.label "Բացառություններ...">
+<!ENTITY remoteContentExceptions.accesskey "ց">
+<!ENTITY acceptRemoteContentInfo.label "Մանրամասներ՝ հեռակա բովանդակության անվտանգության մասին">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Վեբ բովանդակություն">
+
+<!ENTITY acceptCookies.label "Ընդունել cookie-ներ հետևյալ կայքերից՝">
+<!ENTITY acceptCookies.accesskey "Ը">
+<!ENTITY acceptThirdParty.pre.label "Ընդունել երրորդ կողմի cookie-ները.">
+<!ENTITY acceptThirdParty.pre.accesskey "ն">
+<!ENTITY acceptThirdParty.always.label "Միշտ">
+<!ENTITY acceptThirdParty.never.label "Երբեք">
+<!ENTITY acceptThirdParty.visited.label "Այցելածներից">
+<!ENTITY keepUntil.label "Պահել մինչև՝">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "ավարտման ժամկերը">
+<!ENTITY close.label "&brandShortName;-ի փակումը">
+<!ENTITY askEachTime.label "հարցնել ամեն անգամ">
+<!ENTITY cookieExceptions.label "Բացառություններ">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Ցուցադրել Cookie-ները...">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY dntTrackingNopref.label2 "Կայքերին չհաղորդել հետևելու իմ կարգավորումների մասին">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Տեղեկացնել վեբ կայքերին, ես չեմ ցանկանում, որ ինձ հետևեն">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Հաղորդել կայքերին, որ ես ցանկանում եմ, որ ինձ հետևեն">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Մանամասներ Չհետևելու մասին">
+

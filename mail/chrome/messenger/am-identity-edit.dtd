@@ -7,5 +7,5 @@
 <!ENTITY identityListDesc.label "Կազմաձևել նույնականացման կարգ-ը.">
 
 <!ENTITY settingsTab.label       "Կարգավորումներ">
-<!ENTITY copiesFoldersTab.label "Թղթապանակներ  Պատճենում">
-<!ENTITY addressingTab.label    "Նոր նամակ  Հասցեավորում">
+<!ENTITY copiesFoldersTab.label "Թղթապանակներ &amp; Պատճենում">
+<!ENTITY addressingTab.label    "Նոր նամակ &amp; Հասցեավորում">

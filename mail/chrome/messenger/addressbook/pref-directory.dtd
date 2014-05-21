@@ -10,8 +10,8 @@
 <!ENTITY directoriesText.label     "Ընրեք LDAP սպասարկիչներ.">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "Ավելացնել">
-<!ENTITY addDirectory.accesskey    "a">
+<!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "Խմբագրել">
-<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY editDirectory.accesskey   "E">
 <!ENTITY deleteDirectory.label     "Ջնջել">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY deleteDirectory.accesskey "D">

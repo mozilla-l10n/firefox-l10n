@@ -4,13 +4,13 @@
 
 <!ENTITY newDirectoryTitle.label           "Թղթ. սպասարկիչի հատկությունները">
 <!ENTITY directoryName.label               "Անուն.">
-<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Հոսթի անունը.">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Բազայի DN-ն.">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Փնտրել">
-<!ENTITY findButton.accesskey              "f">
+<!ENTITY findButton.accesskey              "F">
 <!ENTITY directorySecure.label             "Օգտ. անվտանգ միացում (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
@@ -19,7 +19,7 @@
 <!ENTITY Offline.tab                       "Անցանց">
 <!ENTITY Advanced.tab                      "Ընդլայնված">
 <!ENTITY portNumber.label                  "Պորտի համարը.">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Փնտրելու ֆիլտրը.">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Շրջանը.">

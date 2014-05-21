@@ -69,11 +69,11 @@
 <!ENTITY offlineMenu.label "Անցանց">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
 <!ENTITY synchronizeOfflineCmd.label "Բեռնել/Համաժամեցնել">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Անցանցի կարգավորումներ...">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Անցանցի կարգավորումներ...">
+<!ENTITY settingsOfflineCmd2.accesskey "ց">
 <!ENTITY downloadSelectedCmd.label "Բեռնել ընտրվածները">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Ստանալ աստղիկով նամակները">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Ընտրյալ թղթապանակ">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Հատկություններ...">
-<!ENTITY folderPropsFolderCmd.label "Թղթ. հատկությունները...">
-<!ENTITY folderPropsNewsgroupCmd.label "Նորությունների հատկությունը...">
+<!ENTITY folderPropsCmd2.label "Հատկություններ...">
+<!ENTITY folderPropsFolderCmd2.label "Թղթ. հատկությունները">
+<!ENTITY folderPropsNewsgroupCmd2.label "Նորությունների հատկությունը">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Հետ՝ Ջնջել նամակը">
 <!ENTITY redoDeleteMsgCmd.label "Առաջ՝ Ջնջել նամակը">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Վերջին">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Հավաք տեսք">
+<!ENTITY compactVersion.accesskey "Հ">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Խմբավորել ըստ">
@@ -221,7 +223,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Դիտված շղթաներ՝ Չընթերցվածների հետ">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "Անտեսված շղթաներ">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Գլխագրեր">
 <!ENTITY headersMenu.accesskey "H">
@@ -312,7 +314,7 @@
 <!ENTITY prevStarredMsgCmd.label "Աստղիկով նամակ">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Թղթապանակ">
-<!ENTITY folderMenu.accesskey "O">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY goRecentlyClosedTabs.label "Փակված վերջին ներդիրները ">
 <!ENTITY goRecentlyClosedTabs.accesskey "Փ">
 <!ENTITY startPageCmd.label "Մեկնարկային էջը">
@@ -439,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ  Նորություններ">
-<!ENTITY messengerCmd.accesskey " ">
+<!ENTITY messengerCmd.label "Փոստ &amp; Նորություններ">
+<!ENTITY messengerCmd.accesskey "Ն">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "Հ">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Պահպանված ֆայլեր">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "Պ">
-<!ENTITY filtersCmd.label "Նամակի ֆիլտրեր...">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Նամակի ֆիլտրեր">
+<!ENTITY filtersCmd2.accesskey "ֆ">
 <!ENTITY filtersApply.label "Կատարել ֆիլտրերը՝">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Կատարել ֆիլտրերը ընտրված նամակներում">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ջնջել Վերջին Պատմությունը...">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Փոստարկղի կարգավորումներ...">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Փոստարկղի կարգավորումներ">
+<!ENTITY accountManagerCmd2.accesskey "կ">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
@@ -561,10 +563,12 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Փոխանցել որպես կցորդ">
 <!-- Remote Content Button Popup -->
 
-<!ENTITY remoteContentOptionsAllowForMsg.label "Ցուցադրել այս նամակի հեռադիր բովանդակությունը">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Ցուցադրել այս նամակի հեռակա բովանդակությունը">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Ց">
-<!ENTITY remoteContentOptionAllowForAddress.label "Ցուցադրել այս ուղարկողի հեռադիր բովանդակությունը">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "ո">
+<!ENTITY editRemoteContentSettings.label "Խմբագրել հեռակա բովանդակության ընտրանքները...">
+<!ENTITY editRemoteContentSettings.accesskey "Խ">
+<!ENTITY editRemoteContentSettingsUnix.label "Խմբագրել հեռակա բվանդակության կարգավորումները...">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "Խ">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Անտեսել զգուշացումը այս նամակի համար">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Փնտրել նամակներ...">
 <!ENTITY folderContextSearchForMessages.accesskey "Փ">
-<!ENTITY folderContextProperties.label "Հատկություններ...">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties2.label "Հատկություններ">
+<!ENTITY folderContextProperties2.accesskey "Հ">
 <!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակ">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Կարգավորել…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "Կարգավորել">
+<!ENTITY folderContextSettings2.accesskey "ր">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Անունը կամ նամակի ունի՝">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ն">
 <!ENTITY contextOpenConversation.label "Բացել նամակը երկխոսությունում">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Բացել նամակը թղթապանակից">
+<!ENTITY contextOpenContainingFolder.accesskey "ց">
 <!ENTITY contextEditMsgAsNew.label "Խմբագրել որպես նոր նամակ">
 <!ENTITY contextEditMsgAsNew.accesskey "Խ">
 <!ENTITY contextArchive.label "Արխիվ">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Չափը">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">
+<!ENTITY preferencesCmdMac2.label       "Կարգավորումներ">
 <!ENTITY preferencesCmdMac.commandkey   "Կ">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">

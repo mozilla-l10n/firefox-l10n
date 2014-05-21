@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Էլ. խաբկանք">
 <!ENTITY itemPasswords.label     "Գաղտնաբառեր">
 <!ENTITY itemAntiVirus.label     "Հակավիրուս">
-<!ENTITY itemCookies.label       "Վեբ բովանդակություն">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ բեռնելը։">
 <!ENTITY antiVirus.label      "Թույլատրել հակավիրուսին նամակները տեղափոխել կարանտին։">
 <!ENTITY antiVirus.accesskey  "A">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName;-ը հաղորդում է, թե որ բլոգները, նորության շղթաները կամ վեբ կայքերն են թույլատրում cookie-ներ։">
-<!ENTITY acceptCookies.label            "Ընդունել cookie-ներ կայքերից՝">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Պահել մինչև՝">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "ավարտման ժամկերը">
-<!ENTITY close.label                    "&brandShortName;-ի փակումը">
-<!ENTITY askEachTime.label              "հարցնել ամեն անգամ">
-<!ENTITY cookieExceptions.label         "Բացառություններ">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Ցուցադրել Cookie-ները...">
-<!ENTITY showCookies.accesskey          "S">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
-<!ENTITY doNotTrack.accesskey           "d">
