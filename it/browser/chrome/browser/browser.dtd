@@ -35,6 +35,7 @@
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
 <!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Apri indirizzo…">
 <!ENTITY openFileCmd.label "Apri file…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
