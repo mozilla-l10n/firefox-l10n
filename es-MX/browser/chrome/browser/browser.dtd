@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Denegar">
 
-<!ENTITY fullscreenExitHint2.value "Presionar ESC en cualquier momento para salir.">
+<!ENTITY fullscreenExitHint2.value "Presiona ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
