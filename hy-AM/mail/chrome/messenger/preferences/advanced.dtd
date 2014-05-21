@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Ընդհանուր">
-<!ENTITY itemDisplay.label       "Ընթերցումը  Ցուցադրումը">
+<!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
-<!ENTITY itemNetworking.label    "Ցանցը  Ազատ տեղը">
+<!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
 <!-- General Settings -->
 
@@ -26,7 +26,7 @@
 <!ENTITY alwaysCheckDefault.label      "Բացելիս միշտ ստուգել, թե արդյոք &brandShortName;-ը փոստային հիմնական ծրագիրն է">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
-<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Ստուգել...">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Ընդլայնված կարգավորում">

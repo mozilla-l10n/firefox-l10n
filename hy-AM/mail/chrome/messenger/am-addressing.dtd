@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Նոր նամակ  Հասցեավորում">
+<!ENTITY addressing.label          "Նոր նամակ &amp; Հասցեավորում">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

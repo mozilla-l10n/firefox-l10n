@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Ֆայլ">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "Կարգավորումներ...">
-<!ENTITY preferencesCmd.accesskey      "Կ">
+<!ENTITY preferencesCmd2.label "Կարգավորումներ...">
+<!ENTITY preferencesCmd2.accesskey "Կ">
 <!ENTITY preferencesCmdUnix.label       "Նախընտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY showTaskbarCmd.label          "Վիճակի տող">
 <!ENTITY showTaskbarCmd.accesskey        "u">
-
-<!ENTITY proxy.label                                    "Պրոքսիի կարգավորում...">
-<!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY closeCmd.label      "Փակել">
 <!ENTITY closeCmd.key      "W">

@@ -54,8 +54,8 @@
 <!ENTITY otherActionsOpenConversation1.accesskey "Բ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանով">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "Բ">
-<!ENTITY otherActionsOpenInNewTab1.label "Բացել նոր ներդիրում">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "Բ">
+<!ENTITY otherActionsOpenInNewTab1.label "&amp;Բացել նոր ներդիրում">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "ն">
 <!ENTITY markAsReadMenuItem1.label "Նշել որպես ընթերցված">
 <!ENTITY markAsReadMenuItem1.accesskey "Ն">
 <!ENTITY markAsUnreadMenuItem1.label "Նշել որպես Չընթերցված">

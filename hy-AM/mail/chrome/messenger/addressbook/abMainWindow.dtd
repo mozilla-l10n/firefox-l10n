@@ -6,7 +6,7 @@
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label                                 "Ֆայլ">
-<!ENTITY fileMenu.accesskey                             "f">
+<!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Նոր">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "Հասցեագրքի Կոնտակտ...">
@@ -20,13 +20,13 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Նամակ">
 <!ENTITY newMessageCmd.key                              "Ն">
-<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Օգտ. Mac OS X-ի հասցեագիրքը">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Փակել">
 <!ENTITY closeCmd.key                                   "Փ">
-<!ENTITY closeCmd.accesskey                             "c">
+<!ENTITY closeCmd.accesskey                             "C">
 <!ENTITY printSetupCmd.label                            "Էջի կարգավորումներ…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "Տպելու նախադիտում">
@@ -41,24 +41,24 @@
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label                                 "Խմբագրել">
-<!ENTITY editMenu.accesskey                             "e">
+<!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Ետարկել">
 <!ENTITY undoCmd.key                                    "Հ">
-<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY undoCmd.accesskey                              "U">
 <!ENTITY redoCmd.label                                  "Կրկնել">
 <!ENTITY redoCmd.key                                    "Ա">
-<!ENTITY redoCmd.accesskey                              "r">
+<!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Կտրել">
 <!ENTITY cutCmd.key                                     "Կ">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "Պատճենել">
 <!ENTITY copyCmd.key                                    "Պ">
-<!ENTITY copyCmd.accesskey                              "c">
+<!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Տեղադրել">
 <!ENTITY pasteCmd.key                                   "Տ">
-<!ENTITY pasteCmd.accesskey                             "p">
+<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Ջնջել">
-<!ENTITY deleteCmd.accesskey                            "d">
+<!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "Ջնջել Հասցեագիրքը">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կոնտակտը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կոնտակտները">
@@ -68,19 +68,19 @@
 <!ENTITY selectAllCmd.label                             "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key                               "Ը">
 <!ENTITY searchAddressesCmd.key                         "Փ">
-<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY selectAllCmd.accesskey                         "A">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Փոխանակել Անուն/Ազգանունը">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Հատկություններ...">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd2.label                           "Հատկություններ...">
+<!ENTITY propertiesCmd2.accesskey                       "ո">
 <!ENTITY propertiesCmd.key                              "Հ">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Տեսքը">
-<!ENTITY viewMenu.accesskey                             "v">
+<!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Գործիքաշերտեր">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
 <!ENTITY menubarCmd.label                               "Ընտրացանկ վահանակ">
@@ -98,22 +98,22 @@
 <!ENTITY showContactPane2.label                         "Կոնտակտների պ-ը">
 <!ENTITY showContactPane2.accesskey                     "Կ">
 <!ENTITY menu_ShowNameAs.label                          "Ցուցադրել անունը որպես">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Առաջին Վերջին">
 <!ENTITY firstLastCmd2.accesskey                        "Ա"> 
 <!ENTITY lastFirstCmd.label                             "Վերջին, Առաջին">
-<!ENTITY lastFirstCmd.accesskey                         "l">
+<!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Ցուցադրվող անունը">
-<!ENTITY displayNameCmd.accesskey                       "d">
+<!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "Խմբավորել ըստ՝">
 <!ENTITY sortMenu.accesskey                             "S">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label                                "Գործիքներ">
 <!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "Փոստ  Նորություններ">
+<!ENTITY messengerCmd.label                             "Փոստ &amp; Նորություններ">
 <!ENTITY messengerCmd.accesskey                         "Փ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Փնտրել հասցեներ...">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Արտահանել...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Կարգավորումներ...">
-<!ENTITY preferencesCmd.accesskey                       "Կ">
+<!ENTITY preferencesCmd2.label                          "Կարգավորումներ...">
+<!ENTITY preferencesCmd2.accesskey                      "Կ">
 <!ENTITY preferencesCmdUnix.label                       "Կարգավորումներ…">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 <!-- Address Book Toolbar and Context Menus -->  

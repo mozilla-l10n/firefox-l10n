@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Անհայտ">
 <!ENTITY chatName.label                 "Անունը զրույցում.">
 
-<!ENTITY allowRemoteContent1.label      "Թույլատրել հեռադիր բով.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "HTML նամակներում հնարավոր է 
-ներդնել բովանդակություն հեռադիր աղբյուրից։ Այսպիսի նամակ բացելիս կսկսվի 
- միացումը արտաքին աղբյուրին։ Եթե ընտրեք սա, ապա 
-արտաքին բովանդակությունը կբացվի 
- HTML նամակներում այս հասցեի համար։">
-
 <!ENTITY WorkPhone.label                "Աշխ.">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Տն.">
@@ -161,4 +153,4 @@
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Տեղադրել կամ նշեք լուսանկարի վեբ հասցեն">
 <!ENTITY UpdatePhoto.label              "Թարմացնել">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "U">

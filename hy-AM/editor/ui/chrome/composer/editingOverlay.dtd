@@ -35,4 +35,4 @@
 <!ENTITY openToolbarCmd.label "Բացել">
 <!ENTITY openToolbarCmd.tooltip "Բացել համակարգչային ֆայլ">
 <!ENTITY saveToolbarCmd.tooltip "Պահպանել ֆայլը համակարգչում">
-<!ENTITY publishToolbarCmd.tooltip "Վերբեռնել ֆայլը հեռադիրում">
+<!ENTITY publishToolbarCmd.tooltip "Վերբեռնել ֆայլը հեռակա տեղ">

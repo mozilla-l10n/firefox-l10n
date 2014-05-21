@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Նամակը">
 <!ENTITY paneChat.title           "Զրույց">
 <!ENTITY paneAttachments.title    "Կցորդներ">
+<!ENTITY panePrivacy.title        "Գաղտնիությունը">
 <!ENTITY paneSecurity.title       "Անվտանգությունը">
 <!ENTITY paneAdvanced.title       "Ընդլայնված">

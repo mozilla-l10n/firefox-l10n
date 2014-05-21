@@ -22,12 +22,12 @@
 <!ENTITY daysOld.label "օրվա է">
 <!ENTITY message.label "նամակներ">
 <!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները։">
-<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
-<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլոր վերջինները">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->

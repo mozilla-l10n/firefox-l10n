@@ -17,7 +17,7 @@
 <!ENTITY rememberPassword.label          "Հիշել գաղտնաբառը">
 <!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY imapLong.label                  "IMAP (հեռադիր թղթապանակներ)">
+<!ENTITY imapLong.label                  "IMAP (հեռակա թղթապանակներ)">
 <!ENTITY pop3Long.label                  "POP3 (նամակները կպահվեն համակարգչում)">
 
 <!ENTITY incoming.label                  "Մուտքային.">

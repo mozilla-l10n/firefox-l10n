@@ -19,8 +19,8 @@
 <!ENTITY nntpDownloadMsg.label "Նամակներ ավելի քան՝">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները։">
-<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ հին նամակները կարող եք ջնջել՝ և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
-<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ կարող եք ջնջվել հին նամակները՝ ներառյալ օրիգինալները հեռադիր սպասարկիչում։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ հին նամակները կարող եք ջնջել՝ և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ կարող եք ջնջվել հին նամակները՝ ներառյալ օրիգինալները հեռակա սպասարկիչում։">
 <!ENTITY retentionKeepMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">

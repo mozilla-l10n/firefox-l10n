@@ -1,4 +1,5 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY youSendItMgmt.viewSettings "Իմ փոստարկղերի կարգավորումները yousendit.com-ում  ">
+<!ENTITY fileExceeds2GB.cancel "ԼԱՎ">
+<!ENTITY fileExceeds2GB.description "Հնարավոր չէ ուղարկել 2ԳԲ-ից մեծ ֆայլեր:">

@@ -13,14 +13,14 @@
 <!ENTITY  textColor.label                 "Տեքստ.">
 <!ENTITY  textColor.accesskey             "ս">
 <!ENTITY  backgroundColor.label           "Խորապատկերը.">
-<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "Օգտագործել համակարգի գույները">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Հղաւմներն ընդգծել">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Հղման Գույները">
 <!ENTITY  linkColor.label                 "Չայցելված հղումներ.">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Այցելված հղումներ.">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "V">

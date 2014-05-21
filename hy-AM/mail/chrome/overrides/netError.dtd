@@ -155,5 +155,5 @@ functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Հեռադիր XUL">
+<!ENTITY remoteXUL.title "Հեռակա XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
