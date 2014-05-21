@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud">
 <!ENTITY  sendTyping.accesskey          "c">
+
+
+
+
+
+<!ENTITY  play.label                          "Cluich">
+<!ENTITY  play.accesskey                      "C">
+
+
+<!ENTITY  customsound.label                   "Cleachd an fhuaim a leanas">
+<!ENTITY  customsound.accesskey               "u">
+<!ENTITY  browse.label                        "Brabhsaich…">
+<!ENTITY  browse.accesskey                    "B">
+

@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "O">
 <!ENTITY synchronizeOfflineCmd.label "Luchdaich a-nuas/sioncronaich an-dràsta…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd.label "Roghainnean obrachaidh far loidhne…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+
+
 <!ENTITY downloadSelectedCmd.label "Faigh na teachdaireachdan a thagh thu">
 <!ENTITY downloadSelectedCmd.accesskey "F">
 <!ENTITY downloadStarredCmd.label "Faigh teachdaireachdan le rionnag">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "T">
 <!ENTITY menuFavoriteFolder.label "Am pasgan as fhearr">
 <!ENTITY menuFavoriteFolder.accesskey "A">
-<!ENTITY folderPropsCmd.label "Roghainnean…">
-<!ENTITY folderPropsFolderCmd.label "Roghainnean a' phasgain…">
-<!ENTITY folderPropsNewsgroupCmd.label "Roghainnean a' bhuidhinn-naidheachd…">
-<!ENTITY folderPropsCmd.accesskey "o">
+
+
+
+
 <!ENTITY undoDeleteMsgCmd.label "Neo-dhèan sguabadh às na teachdaireachd">
 <!ENTITY redoDeleteMsgCmd.label "Ath-dhèan sguabadh às na teachdaireachd">
 <!ENTITY undoMoveMsgCmd.label "Neo-dhèan gluasad na teachdaireachd">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "A">
 <!ENTITY recentFolders.label "O chionn ghoirid">
 <!ENTITY recentFolders.accesskey "r">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Seòrsaich a-rèir">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Faidhlichean a chaidh a shàbhaladh">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Criathragan theachdaireachdan…">
-<!ENTITY filtersCmd.accesskey "C">
+
+
 <!ENTITY filtersApply.label "Cuir am pasgan tro na criathragan">
 <!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Cuir na teachdaireachdan a thagh thu tro na criathragan">
@@ -478,11 +480,10 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Falamhaich an eachdraidh faisg ort…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Roghainnean a' chunntais…">
-<!ENTITY accountManagerCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Ceadaich dì-bhugachadh cèin">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
@@ -563,8 +564,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Seall an t-susbaint chèin aig an teachdaireachd seo">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY remoteContentOptionAllowForAddress.label "Seall susbaint chèin on t-seòladair seo">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "e">
+
+
+
+
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Leig seachad an rabhadh a thaobh na teachdaireachd seo">
@@ -623,12 +626,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Lorg teachdaireachdan…">
 <!ENTITY folderContextSearchForMessages.accesskey "L">
-<!ENTITY folderContextProperties.label "Roghainnean…">
-<!ENTITY folderContextProperties.accesskey "R">
+<!ENTITY folderContextProperties2.label "Roghainnean">
+<!ENTITY folderContextProperties2.accesskey "R">
 <!ENTITY folderContextFavoriteFolder.label "Am pasgan as fhearr">
 <!ENTITY folderContextFavoriteFolder.accesskey "A">
-<!ENTITY folderContextSettings.label "Roghainnean…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "Roghainnean">
+<!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Na leanas san ainm no sa phost-dealain:">
@@ -700,6 +703,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Fosgail an teachdaireachd ann an còmhradh">
 <!ENTITY contextOpenConversation.accesskey "n">
+
+
 <!ENTITY contextEditMsgAsNew.label "Deasaich mar theachdaireachd ùr">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Tasg-lann">
@@ -882,8 +887,6 @@
 <!ENTITY bringAllToFront.label "Gluais a h-uile gun a' bheulaibh">
 <!ENTITY zoomWindow.label "Sùm">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
-<!ENTITY preferencesCmdMac.label        "Roghainnean…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Seirbheisean">

@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceeds2GB.title   "YouSendIt">
-<!ENTITY fileExceeds2GB.cancel "Ceart ma-thà">
-<!ENTITY fileExceeds2GB.description "Chan urrainn dhut faidhlichean a tha nas motha na 2GB a chur.">
+<!ENTITY hightailSettings.username "Ainm-cleachdaiche:">
+<!ENTITY hightailSettings.needAnAccount "A bheil cunntas a dhìth ort?">
+<!ENTITY hightailSettings.learnMore "Barrachd fiosrachaidh…">

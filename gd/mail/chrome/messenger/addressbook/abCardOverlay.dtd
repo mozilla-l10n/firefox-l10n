@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Neo-aithnichte">
 <!ENTITY chatName.label                 "Ainm cabadaich:">
 
-<!ENTITY allowRemoteContent1.label      "Ceadaich susbaint chèin.">
-<!ENTITY allowRemoteContent1.accesskey  "C">
-<!ENTITY allowRemoteContent1.tooltip    "Gabhaidh susbaint o thùsan cian leabachadh 
-a-steach ann an teachdaireachdan HTML. Nuair a dh'fhosglar teachdaireachd 
-d' a leithid, thèid ceangal a dhèanamh ris an tùs chèin seo. Dh'fhaodar 
-an teachdaireachd a thathar a' leughadh a' lorgachadh leis. Ma chuireas 
-tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an teachdaireachdan HTML on charaid seo.">
-
 <!ENTITY WorkPhone.label                "Obair:">
 <!ENTITY WorkPhone.accesskey            "O">
 <!ENTITY HomePhone.label                "Dachaigh:">

@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Faidhle">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Tagh a h-uile">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Roghainnean…">
-<!ENTITY preferencesCmd.accesskey      "o">
+<!ENTITY preferencesCmd2.label "Roghainnean">
+<!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "N">
 <!ENTITY showTaskbarCmd.label          "Bàr na staide">
 <!ENTITY showTaskbarCmd.accesskey        "B">
-
-<!ENTITY proxy.label                                    "Rèiteachadh nam progsaidh…">
-<!ENTITY proxy.accesskey                                "c">
 
 <!ENTITY closeCmd.label      "Dùin">
 <!ENTITY closeCmd.key      "W">
