@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Језици">
-<!ENTITY languages.customize.description                "Неке веб странице су доступне у више језика. Изаберите редослед језика за приказивање веб страница, у жељеном редоследу:">
+<!ENTITY languages.customize.description                "Неке веб странице су доступне у више језика. Изаберите редослед језика за приказивање веб страница:">
 <!ENTITY languages.customize.moveUp.label               "На горе">
 <!ENTITY languages.customize.moveUp.accesskey           "г">
 <!ENTITY languages.customize.moveDown.label             "На доле">
@@ -14,5 +14,5 @@
 <!ENTITY languages.customize.deleteButton.accesskey     "У">
 <!ENTITY languages.customize.selectLanguage.label       "Избор језика за додавање…">
 <!ENTITY languages.customize.addButton.label            "Додај">
-<!ENTITY languages.customize.addButton.accesskey        "Д">
+<!ENTITY languages.customize.addButton.accesskey        "ј">
 

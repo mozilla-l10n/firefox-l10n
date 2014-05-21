@@ -50,18 +50,18 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "Врати затворен језичак">
 <!ENTITY  undoCloseTab.accesskey             "В">
 <!ENTITY  closeTab.label                     "Затвори језичак">
-<!ENTITY  closeTab.accesskey                 "З">
+<!ENTITY  closeTab.accesskey                 "ч">
 
 <!ENTITY  listAllTabs.label      "Наброј све језичке">
 
 <!ENTITY tabCmd.label "Нови језичак">
-<!ENTITY tabCmd.accesskey "Н">
+<!ENTITY tabCmd.accesskey "ј">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
 <!ENTITY openFileCmd.accesskey "д">
 <!ENTITY openFileCmd.commandkey "о">
-<!ENTITY printSetupCmd.label "Подеси страницу...">
-<!ENTITY printSetupCmd.accesskey "П">
+<!ENTITY printSetupCmd.label "Подеси страницу…">
+<!ENTITY printSetupCmd.accesskey "у">
 <!ENTITY printPreviewCmd.label "Преглед пре штампе">
 <!ENTITY printPreviewCmd.accesskey "т">
 <!ENTITY printCmd.label "Штампа…">
@@ -69,7 +69,7 @@ can reach it easily. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Рад ван мреже">
-<!ENTITY goOfflineCmd.accesskey "н">
+<!ENTITY goOfflineCmd.accesskey "м">
 
 <!ENTITY menubarCmd.label "Трака са менијем">
 <!ENTITY menubarCmd.accesskey "Т">
@@ -82,7 +82,7 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.accesskey "И">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Подаци о страници">
-<!ENTITY pageInfoCmd.accesskey "П">
+<!ENTITY pageInfoCmd.accesskey "с">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -91,7 +91,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "Изађи из приказа преко целог екрана">
 <!ENTITY exitFullScreenCmd.accesskey "К">
 <!ENTITY fullScreenCmd.label "Користи цео екран">
-<!ENTITY fullScreenCmd.accesskey "К">
+<!ENTITY fullScreenCmd.accesskey "ц">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Прикажи све језичке">
 <!ENTITY showAllTabsCmd.accesskey "П">
@@ -207,8 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Веб развој">
-<!ENTITY webDeveloperMenu.accesskey   "В">
+<!ENTITY webDeveloperMenu.label       "Програмер">
+<!ENTITY webDeveloperMenu.accesskey   "г">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -297,14 +297,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Налепи">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Н"> 
-<!ENTITY deleteCmd.label          "Уклони ставку">  
+<!ENTITY deleteCmd.label          "Избриши">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "У"> 
+<!ENTITY deleteCmd.accesskey        "ш"> 
 <!ENTITY selectAllCmd.label         "Изабери све">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.accesskey       "а"> 
 <!ENTITY preferencesCmd2.label       "Опције">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "О">
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П"> 
 
@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Преглед"> 
-<!ENTITY viewMenu.accesskey       "П"> 
+<!ENTITY viewMenu.accesskey       "г"> 
 <!ENTITY viewTabGroups.label            "Групе језичака">
 <!ENTITY viewTabGroups.accesskey        "Г">
 <!ENTITY viewToolbarsMenu.label       "Алатне траке"> 
