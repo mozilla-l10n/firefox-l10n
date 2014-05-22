@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "E-mailscams">
 <!ENTITY itemPasswords.label     "Wachtwurden">
 <!ENTITY itemAntiVirus.label     "Antifirus">
-<!ENTITY itemCookies.label       "Webynhâld">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Stel jo standertynstellingen foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellingen kinne konfigurearre wurde yn Accountynstellingen.">
@@ -46,21 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kin it foar antifirusprogramma maklik meitsje om ynkommende e-mailberjochten op firussen te kontrolearjen foardat se lokaal bewarre wurde.">
 <!ENTITY antiVirus.label      "Antifirusprogramma’s tastean om yndividuele ynkommende berjochten yn karantêne te pleatsen">
 <!ENTITY antiVirus.accesskey  "u">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lit jo spesifisearje hokker blogs, nijsfeeds en oare websteeën tastean wurde om cookies te pleatsen.">
-<!ENTITY acceptCookies.label            "Akseptearje cookies fan westeeën">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Bewarje oant:">
-<!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "se ferrinne">
-<!ENTITY close.label                    "ik &brandShortName; ôfslút">
-<!ENTITY askEachTime.label              "freegje my elke kear">
-<!ENTITY cookieExceptions.label         "Utsûnderingen…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Toan Cookies…">
-<!ENTITY showCookies.accesskey          "T">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Websites litte witte dat ik net folge wurde wol">
-<!ENTITY doNotTrack.accesskey           "f">
