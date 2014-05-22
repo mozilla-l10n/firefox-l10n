@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY fileExceedsLimit.title "Hightail">
+<!ENTITY fileExceedsLimit.thatsBigFile "L'invio di file più grandi di 50 Mb">
+<!ENTITY fileExceedsLimit.thatsBigFile2 "è un'opzione premium.">
+<!ENTITY fileExceedsLimit.accept "Aggiorna">
+<!ENTITY fileExceedsLimit.cancel "Annulla">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "Aggiornare per inviare questo file aggiuntivo:">
+<!ENTITY fileExceedsLimit.pros1 "Inviare file e cartelle fino al limite di 2 Gb">
+<!ENTITY fileExceedsLimit.pros2 "Memorizza un numero illimitato di file online">
+<!ENTITY fileExceedsLimit.pros3 "Accedi e condividi file da ovunque">

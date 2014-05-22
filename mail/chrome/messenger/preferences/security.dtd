@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "Frodi via posta">
 <!ENTITY itemPasswords.label "Password">
 <!ENTITY itemAntiVirus.label "Antivirus">
-<!ENTITY itemCookies.label "Contenuto web">
 <!ENTITY junkMail.intro "Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni account.">
 <!ENTITY manualMark.label "Quando i messaggi sono segnati come posta indesiderata:">
 <!ENTITY manualMark.accesskey "Q">
@@ -38,17 +37,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.">
 <!ENTITY antiVirus.label "Consenti ai programmi antivirus di mettere in quarantena i singoli messaggi in arrivo.">
 <!ENTITY antiVirus.accesskey "n">
-<!ENTITY cookies.intro "&brandShortName; permette di sceglere quali blog, feed di news e siti web possono impostare cookie.">
-<!ENTITY acceptCookies.label "Accetta i cookie dai siti">
-<!ENTITY acceptCookies.accesskey "A">
-<!ENTITY keepUntil.label "Conservali fino:">
-<!ENTITY keepUntil.accesskey "C">
-<!ENTITY expire.label "alla loro scadenza">
-<!ENTITY close.label "alla chiusura di &brandShortName;">
-<!ENTITY askEachTime.label "chiedi ogni volta">
-<!ENTITY cookieExceptions.label "Eccezioni…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Mostra i cookie…">
-<!ENTITY showCookies.accesskey "M">
-<!ENTITY doNotTrack.label "Comunicare ai siti web che non si desidera essere tracciati">
-<!ENTITY doNotTrack.accesskey "d">
