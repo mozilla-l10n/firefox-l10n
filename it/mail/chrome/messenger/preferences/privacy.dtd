@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY captionMailContent.label "Contenuto della posta">
+<!ENTITY acceptRemoteContent.label "Permettere contenuti remoti dentro i messaggi">
+<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY remoteContentExceptions.label "Eccezioni…">
+<!ENTITY remoteContentExceptions.accesskey "z">
+<!ENTITY acceptRemoteContentInfo.label "Maggiori informazioni sui problemi di privacy dei contenuti remoti">
+<!ENTITY captionWebContent.label "Contenuto web">
+<!ENTITY acceptCookies.label "Accettare cookie dai siti">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Accettare cookie da terze parti:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Mai">
+<!ENTITY acceptThirdParty.visited.label "Dai visitati">
+<!ENTITY keepUntil.label "Mantieni fino a:">
+<!ENTITY keepUntil.accesskey "f">
+<!ENTITY expire.label "scadono">
+<!ENTITY close.label "Chiusura di &brandShortName;">
+<!ENTITY askEachTime.label "chiedere ogni volta">
+<!ENTITY cookieExceptions.label "Eccezioni…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostra i cookie…">
+<!ENTITY showCookies.accesskey "o">
+<!ENTITY dntTrackingNopref.label2 "Non rivelare nulla ai siti circa le mie preferenze di tracciamento">
+<!ENTITY dntTrackingNopref.accesskey "N">
+<!ENTITY dntTrackingNotOkay.label2 "Informare i siti che non desidero essere tracciato">
+<!ENTITY dntTrackingNotOkay.accesskey "I">
+<!ENTITY dntTrackingOkay.label2 "Informare i siti che desidero essere tracciato">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">
