@@ -232,7 +232,7 @@ size. -->
 <!ENTITY page "Side">
 <!ENTITY tools "Funktioner">
 <!ENTITY new_tab "Nyt faneblad">
-<!ENTITY new_private_tab "Nyt faneblad med privat browsing">
+<!ENTITY new_private_tab "Ny fane med privat browsing">
 <!ENTITY close_all_tabs "Luk alle faneblade">
 <!ENTITY tabs_normal "Faneblade">
 <!ENTITY tabs_private "Privat browsing">
