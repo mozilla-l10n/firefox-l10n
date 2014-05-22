@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "Приступачност">
 
 <!ENTITY useCursorNavigation.label       "Увек користи стрелице за кретање по страницама">
-<!ENTITY useCursorNavigation.accesskey   "У">
+<!ENTITY useCursorNavigation.accesskey   "с">
 <!ENTITY searchStartTyping.label         "Тражи текст када почнем да куцам">
 <!ENTITY searchStartTyping.accesskey     "Т">
 <!ENTITY blockAutoRefresh.label          "Упозори ме када сајтови покушају да преусмере или поново учитају страницу">
@@ -36,19 +36,19 @@
 <!ENTITY dataChoicesTab.label            "Избор података">
 
 <!ENTITY healthReportSection.label       "&brandShortName; извештај здравља">
-<!ENTITY healthReportDesc.label          "Помаже Вам да разумете перформансе свог прегледача и поделите податке са &vendorShortName; о здрављу свог прегледача">
+<!ENTITY healthReportDesc.label          "Помаже Вам да разумете перформансе свог прегледача и поделите податке са &vendorShortName;-ом о здрављу свог прегледача">
 <!ENTITY enableHealthReport.label        "Омогући &brandShortName; извештај здравља">
 <!ENTITY enableHealthReport.accesskey    "з">
 <!ENTITY healthReportLearnMore.label     "Сазнајте више">
 
 <!ENTITY telemetrySection.label          "Телеметрија">
-<!ENTITY telemetryDesc.label             "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу Вашег прегледача са &vendorShortName; да бисте нам помогли да учинимо &brandShortName; бољим">
+<!ENTITY telemetryDesc.label             "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу Вашег прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
 <!ENTITY enableTelemetry.label           "Омогући телеметрију">
 <!ENTITY enableTelemetry.accesskey       "л">
 <!ENTITY telemetryLearnMore.label        "Сазнајте више">
 
 <!ENTITY crashReporterSection.label      "Извештач о рушењу">
-<!ENTITY crashReporterDesc.label         "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName; да учини Ваш прегледач још стабилнијим и још сигурнијим.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName;-и да учини Ваш прегледач још стабилнијим и још сигурнијим.">
 <!ENTITY enableCrashReporter.label       "Омогући извештач о рушењу">
 <!ENTITY enableCrashReporter.accesskey   "р">
 <!ENTITY crashReporterLearnMore.label    "Сазнајте више">
