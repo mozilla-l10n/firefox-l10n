@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Koart"  >
 
+<!ENTITY pref.defaults.label "Standertwearden foar nije items">
+<!ENTITY pref.events.label "Barrens">
+<!ENTITY pref.tasks.label "Taken">
+
 <!ENTITY pref.default_event_length.label "Standert djoer:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
