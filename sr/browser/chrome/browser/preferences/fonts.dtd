@@ -7,15 +7,15 @@
 <!ENTITY  window.macWidth                         "45em">
 <!ENTITY  window.unixWidth                        "43em">
 
-<!ENTITY  language.label                          "Намена:">
-<!ENTITY  language.accesskey                      "Н">
+<!ENTITY  language.label                          "Писмо:">
+<!ENTITY  language.accesskey                      "П">
 
 <!ENTITY  size.label                              "Величина:">
-<!ENTITY  sizeProportional.accesskey              "з">
-<!ENTITY  sizeMonospace.accesskey                 "с">
+<!ENTITY  sizeProportional.accesskey              "В">
+<!ENTITY  sizeMonospace.accesskey                 "е">
 
 <!ENTITY  proportional.label                      "Сразмерни:">
-<!ENTITY  proportional.accesskey                  "С">
+<!ENTITY  proportional.accesskey                  "р">
 
 <!ENTITY  serif.label                             "Серифни:">
 <!ENTITY  serif.accesskey                         "С">

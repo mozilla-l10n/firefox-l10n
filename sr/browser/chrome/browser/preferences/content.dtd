@@ -5,7 +5,7 @@
 <!ENTITY  popups.label                "Искачући прозори">   
    
 <!ENTITY  blockPopups.label           "Блокирај искачуће прозоре">
-<!ENTITY  blockPopups.accesskey       "Б">
+<!ENTITY  blockPopups.accesskey       "ч">
 <!ENTITY  popupExceptions.label       "Изузеци">
 <!ENTITY  popupExceptions.accesskey   "И">
 
@@ -26,4 +26,4 @@
 <!ENTITY languages.label              "Језици">
 <!ENTITY chooseLanguage.label         "Изаберите омиљени језик за приказ страница">
 <!ENTITY chooseButton.label           "Избор…">
-<!ENTITY chooseButton.accesskey       "И">
+<!ENTITY chooseButton.accesskey       "з">

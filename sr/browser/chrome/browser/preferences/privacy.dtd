@@ -46,14 +46,14 @@
 <!ENTITY  showCookies.label             "Прикажи колачиће…">
 <!ENTITY  showCookies.accesskey         "П">
 
-<!ENTITY  historyHeader.pre.label          "Програм &brandShortName; ће:">
+<!ENTITY  historyHeader.pre.label          "Програм &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "П">
-<!ENTITY  historyHeader.remember.label     "Бележи историјат">
-<!ENTITY  historyHeader.dontremember.label "Никада не бележи историјат">
-<!ENTITY  historyHeader.custom.label       "Користи посебна подешавања за историјат">
+<!ENTITY  historyHeader.remember.label     "ће бележити историјат">
+<!ENTITY  historyHeader.dontremember.label "никада неће бележи историјат">
+<!ENTITY  historyHeader.custom.label       "ће да користи посебна подешавања за историјат">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат прегледања, преузимања, формулара и претраге, и чуваће колачиће са веб сајтова које посећујете.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат прегледања, преузимања, формулара и претраге и чуваће колачиће са веб сајтова које посећујете.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

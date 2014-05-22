@@ -14,7 +14,7 @@
 <!ENTITY  systemTypeRadio.accesskey     "К">
 <!ENTITY  WPADTypeRadio.label           "Самостално откривање поставки проксија за ову мрежу">
 <!ENTITY  WPADTypeRadio.accesskey       "С">
-<!ENTITY  manualTypeRadio.label         "Ручно постави проксија:">
+<!ENTITY  manualTypeRadio.label         "Ручно постави прокси:">
 <!ENTITY  manualTypeRadio.accesskey     "Р">
 <!ENTITY  autoTypeRadio.label           "URL самостално постављање проксија:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
@@ -36,9 +36,9 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Порт:">
 <!ENTITY  HTTPport.accesskey            "П">
-<!ENTITY  SSLport.accesskey             "М">
-<!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  SSLport.accesskey             "П">
+<!ENTITY  FTPport.accesskey             "П">
+<!ENTITY  SOCKSport.accesskey           "П">
 <!ENTITY  noproxy.label                 "Не користи прокси за:">
 <!ENTITY  noproxy.accesskey             "Н">
 <!ENTITY  noproxyExplain.label          "Пример: .mozilla.rs, .rastko.rs, 192.168.1.0/24">
