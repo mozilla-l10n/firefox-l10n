@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "E-mailynhâld">
+
+<!ENTITY acceptRemoteContent.label "Ynbedde ynhâld tastean yn berjochten">
+<!ENTITY acceptRemoteContent.accesskey "Y">
+<!ENTITY remoteContentExceptions.label "Utsûnderingen…">
+<!ENTITY remoteContentExceptions.accesskey "U">
+<!ENTITY acceptRemoteContentInfo.label "Mear ynfo oer de privacysaken of ynbedde ynhâld">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webynhâld">
+
+<!ENTITY acceptCookies.label "Akseptearje cookies fan websites">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Akseptearje tredde-party cookies:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Altyd">
+<!ENTITY acceptThirdParty.never.label "Noait">
+<!ENTITY acceptThirdParty.visited.label "Fan besochte">
+<!ENTITY keepUntil.label "Bewarje oant:">
+<!ENTITY keepUntil.accesskey "B">
+<!ENTITY expire.label "se ferrinne">
+<!ENTITY close.label "Ik &brandShortName; ôfslut">
+<!ENTITY askEachTime.label "freegje my eltse kear">
+<!ENTITY cookieExceptions.label "Utsûnderingen…">
+<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY showCookies.label "Toan cookies…">
+<!ENTITY showCookies.accesskey "T">
+
+<!ENTITY dntTrackingNopref.label2 "Fertel websites neat oer myn folchfoarkarren">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Websites witte litte dat ik net folge wurde wol.">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Fertel websites dat ik folge wurde wold">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Mear ynfo oer Do Not Track">
+

@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Sykje en ferfange…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Sykje…">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findReplaceCmd.label "Sykje en ferfange…">
+<!ENTITY findReplaceCmd.accesskey "f">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Op 'e nij sykje">
 <!ENTITY findAgainCmd.key "G">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Accountynstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "i">
-<!ENTITY preferencesCmd.label "Opsjes…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmd2.label "Accountynstellingen">
+<!ENTITY accountManagerCmd2.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "i">
+<!ENTITY preferencesCmd2.label "Opsjes">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 

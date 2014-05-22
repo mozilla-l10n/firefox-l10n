@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                                 "true">
-<!ENTITY propertiesCmd.label                            "Eigenskippen…">
-<!ENTITY propertiesCmd.accesskey                        "E">
+<!ENTITY propertiesCmd2.label                            "Eigenskippen">
+<!ENTITY propertiesCmd2.accesskey                        "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "Y">
 <!ENTITY exportCmd.label                                "Eksportearje">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opsjes…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                           "Opsjes">
+<!ENTITY preferencesCmd2.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey                   "F">
 
