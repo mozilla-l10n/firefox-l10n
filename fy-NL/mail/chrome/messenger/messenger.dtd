@@ -627,8 +627,8 @@
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "Sykje berjochten…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Eigenskippen…">
-<!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextProperties2.label "Eigenskippen">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favorite map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
 <!ENTITY folderContextSettings2.label "Ynstellingen">
