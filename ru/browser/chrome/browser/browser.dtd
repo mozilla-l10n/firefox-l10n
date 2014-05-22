@@ -35,6 +35,7 @@
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "о">
 <!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Открыть адрес…">
 <!ENTITY openFileCmd.label "Открыть файл…">
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.commandkey "o">
