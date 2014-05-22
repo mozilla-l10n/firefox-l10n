@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label "Unbekend">
 <!ENTITY chatName.label                 "Chatnamme:">
 
-<!ENTITY allowRemoteContent1.label       "Eksterne ynhâld tastean.">
-<!ENTITY allowRemoteContent1.accesskey   "d">
-<!ENTITY allowRemoteContent1.tooltip     "Yn HTML-berjochten is it mooglik om
-ynhâld fan oare boarnen te pleatsen. It iepenjen fan sa'n berjocht
-iepenet in ferbining nei dizze eksterne boarne. It is mooglik dat sjoen wurdt dat 
-it berjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
-ynhâld yn HTML-berjochten fan dizze persoan ta.">
-
 <!ENTITY WorkPhone.label "Wurk">
 <!ENTITY WorkPhone.accesskey "r">
 <!ENTITY HomePhone.label "Thús">

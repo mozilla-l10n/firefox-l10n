@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
    
-<!ENTITY fileExceedsLimit.title   "YouSendIt">
+<!ENTITY fileExceedsLimit.title   "Hightail">
 <!ENTITY fileExceedsLimit.thatsBigFile   "Bestannen grutter as 50 MB ferstjoere">
 <!ENTITY fileExceedsLimit.thatsBigFile2   "is in premiumeigenskip.">
 <!ENTITY fileExceedsLimit.accept "Upgrade">
@@ -10,5 +10,5 @@
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
 <!ENTITY fileExceedsLimit.proIncludes "Upgrade no om dit bestân te ferstjoeren plus:">
 <!ENTITY fileExceedsLimit.pros1 "Ferstjoer bestannen en mappen oant 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Bewarje ûnbeperkt bestannen online op">
+<!ENTITY fileExceedsLimit.pros2 "Bewarje ûnbeheint bestannen online op">
 <!ENTITY fileExceedsLimit.pros3 "Tagong en dielen fan bestannen fan oeral ôf">
