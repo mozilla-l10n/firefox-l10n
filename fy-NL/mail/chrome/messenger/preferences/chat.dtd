@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Typenotifikaasjes ferstjoere yn konversaasjes">
 <!ENTITY  sendTyping.accesskey          "T">
+
+<!ENTITY  chatNotifications.label             "As berjochten foar jo oankomme:">
+<!ENTITY  desktopChatNotifications.label      "Toan in notifikaasje">
+<!ENTITY  desktopChatNotifications.accesskey  "k">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Spylje in lûd">
+<!ENTITY  play.label                          "Spylje">
+<!ENTITY  play.accesskey                      "S">
+<!ENTITY  systemSound.label                   "Standert systeemlûd foar nije e-mail">
+<!ENTITY  systemSound.accesskey               "n">
+<!ENTITY  customsound.label                   "Brûk it folgjende lûdsbestân">
+<!ENTITY  customsound.accesskey               "l">
+<!ENTITY  browse.label                        "Blêdzje…">
+<!ENTITY  browse.accesskey                    "B">

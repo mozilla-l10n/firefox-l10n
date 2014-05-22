@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside">
 <!ENTITY quickMode.accesskey         "A">
 
+<!ENTITY autotagEnable.label         "Automatysk labels meitsje fan feed &lt;kategory&gt; nammen">
+<!ENTITY autotagEnable.accesskey     "m">
+<!ENTITY autotagUsePrefix.label      "Prefiks labels mei:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Typ in label-prefiks">
+
 <!ENTITY locationValidate.label      "Falidearje">
 <!ENTITY validateText.label          "Kontrolearje falidaasje en helje in jildige url op.">
 

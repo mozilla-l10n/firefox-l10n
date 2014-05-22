@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "S">
 <!ENTITY synchronizeOfflineCmd.label "No ynlade/syngronisearje…">
 <!ENTITY synchronizeOfflineCmd.accesskey "d">
-<!ENTITY settingsOfflineCmd.label "Sûnder ferbining-ynstellingen…">
-<!ENTITY settingsOfflineCmd.accesskey "i">
+<!ENTITY settingsOfflineCmd2.label "Sûnder ferbining-ynstellingen">
+<!ENTITY settingsOfflineCmd2.accesskey "i">
 <!ENTITY downloadSelectedCmd.label "Selektearre berjochten ophelje">
 <!ENTITY downloadSelectedCmd.accesskey "o">
 <!ENTITY downloadStarredCmd.label "Berjochten mei stjer ophelje">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Favorite map">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Eigenskippen…">
-<!ENTITY folderPropsFolderCmd.label "Mapeigenskippen…">
-<!ENTITY folderPropsNewsgroupCmd.label "Nijsgroepeigenskippen…">
+<!ENTITY folderPropsCmd2.label "Eigenskippen">
+<!ENTITY folderPropsFolderCmd2.label "Mapeigenskippen">
+<!ENTITY folderPropsNewsgroupCmd2.label "Nijsgroepeigenskippen">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Berjocht fuortsmite ûngedien meitsje">
 <!ENTITY redoDeleteMsgCmd.label "Berjocht fuortsmite op 'e nij útfiere">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Resinte">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Kompakt byld">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortearje op">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Bewarre bestannen">
 <!ENTITY savedFiles.accesskey "t">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Berjochtefilters…">
-<!ENTITY filtersCmd.accesskey "B">
+<!ENTITY filtersCmd2.label "Berjochtefilters">
+<!ENTITY filtersCmd2.accesskey "B">
 <!ENTITY filtersApply.label "Filters tapasse op map">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Fiters tapasse op selektearre berjochten">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Resinte skiednis wiskje…">
 <!ENTITY clearRecentHistory.accesskey "R">
-<!ENTITY accountManagerCmd.label "Accountynstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd2.label "Accountynstellingen">
+<!ENTITY accountManagerCmd2.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Debugging op ôfstân tastean">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Net-ynbedde ynhâld yn dit berjocht toane">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
-<!ENTITY remoteContentOptionAllowForAddress.label "Net-ynbedde ynhâld fan dizze ôfstjoerder toane">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY editRemoteContentSettings.label "Opsjes om net-ynbedde ynhâld te bewurkjen…">
+<!ENTITY editRemoteContentSettings.accesskey "O">
+<!ENTITY editRemoteContentSettingsUnix.label "Foarkarren om net-ynbedde ynhâld te bewurkjen…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "F">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Warskôging foar dit berjocht negearje">
@@ -627,8 +631,8 @@
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favorite map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Ynstellingen…">
-<!ENTITY folderContextSettings.accesskey "Y">
+<!ENTITY folderContextSettings2.label "Ynstellingen">
+<!ENTITY folderContextSettings2.accesskey "Y">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namme of e-mail hat:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "l">
 <!ENTITY contextOpenConversation.label "Berjocht iepenje yn Petear">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Berjocht iepenje yn deselde map">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "As nij berjocht bewurkje">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Argivearje">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Foarkarren…">
+<!ENTITY preferencesCmdMac2.label        "Foarkarren">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tsjinsten">
