@@ -16,7 +16,7 @@
 <!ENTITY sync.flyout.setup.manual.label_2      "Jeg er ikke i nærheden af min computer…">
 <!ENTITY sync.flyout.setup.description3        "Bemærk:">
 <!ENTITY sync.flyout.setup.description4_2      "For at finde &quot;Tilføj en enhed&quot; skal du">
-<!ENTITY sync.flyout.setup.description5_2      "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og vælg derefter &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description5_2      "[Computer] Åbn &quot;Indstillinger&quot; og vælg derefter &quot;&syncBrand.shortName.label;&quot;">
 <!ENTITY sync.flyout.setup.description6_2      "[Android] Mere &gt; Indstillinger &gt; &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up manually -->
@@ -49,7 +49,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Par">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Bemærk:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "Sådan finder du adgangskoden">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og følg derefter trinene: &syncBrand.shortName.label; -&gt; Opsæt &syncBrand.shortName.label; -&gt; Jeg har en konto">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Computer] Åbn &quot;Indstillinger&quot; og følg derefter trinene: &syncBrand.shortName.label; -&gt; Opsæt &syncBrand.shortName.label; -&gt; Jeg har en konto">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mere &gt; Indstillinger &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igen">
 

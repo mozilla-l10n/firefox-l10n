@@ -122,7 +122,7 @@
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Indstillinger…">
 <!ENTITY preferencesCmd.accesskey "n">
-<!ENTITY preferencesCmdUnix.label "Præferencer">
+<!ENTITY preferencesCmdUnix.label "Indstillinger">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!-- Address Book Toolbar and Context Menus -->
