@@ -49,7 +49,7 @@
 <!ENTITY  historyHeader.pre.label          "Програм &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "П">
 <!ENTITY  historyHeader.remember.label     "ће бележити историјат">
-<!ENTITY  historyHeader.dontremember.label "никада неће бележи историјат">
+<!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
 <!ENTITY  historyHeader.custom.label       "ће да користи посебна подешавања за историјат">
 <!ENTITY  historyHeader.post.label         "">
 
