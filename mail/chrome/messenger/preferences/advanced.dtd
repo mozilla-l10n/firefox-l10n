@@ -83,7 +83,7 @@
 <!ENTITY certSelection.description "Quando un sito web richiede il certificato personale:">
 <!ENTITY certs.auto "Selezionane uno automaticamente">
 <!ENTITY certs.auto.accesskey "S">
-<!ENTITY certs.ask "Chiedi ogni volta">
+<!ENTITY certs.ask "Chiedere ogni volta">
 <!ENTITY certs.ask.accesskey "C">
 <!ENTITY viewCertificates.label "Mostra certificati">
 <!ENTITY viewCertificates.accesskey "M">

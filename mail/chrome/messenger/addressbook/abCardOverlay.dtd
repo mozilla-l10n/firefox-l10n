@@ -31,9 +31,6 @@
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
 <!ENTITY chatName.label "Nome chat:">
-<!ENTITY allowRemoteContent1.label "Consenti contenuto remoto.">
-<!ENTITY allowRemoteContent1.accesskey "t">
-<!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
 <!ENTITY WorkPhone.label "Lavoro:">
 <!ENTITY WorkPhone.accesskey "v">
 <!ENTITY HomePhone.label "Abitazione:">
