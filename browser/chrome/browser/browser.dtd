@@ -447,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey   "m">
 <!ENTITY emailPageCmd.label           "Keppeling e-maile…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY switchToMetroCmd.label       "Werstarten yn &brandShortName; yn Windows 8-styl">
 <!ENTITY savePageCmd.label            "Side bewarje as…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -738,4 +737,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Opnij probearje">
 
 <!ENTITY uiTour.infoPanel.close "Slute">
+
+<!ENTITY appMenuSidebars.label         "Sidebalken">
+
+<!ENTITY switchToMetroCmd2.label       "Werstarte yn &brandShortName; foar Windows 8 Touch">
 
