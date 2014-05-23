@@ -215,7 +215,7 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Wat is dit? Telemetry kin sa no en dan eksperimenten ynstallearje en útfiere.">
+<!ENTITY experiment.info.label "Wat is dit? Telemetry kin sa no en dan eksperiminten ynstallearje en útfiere.">
 <!ENTITY experiment.info.learnmore "Mear ynfo">
 <!ENTITY experiment.info.learnmore.accesskey "M">
 <!ENTITY experiment.info.changetelemetry "Telemetry-ynstellingen">
