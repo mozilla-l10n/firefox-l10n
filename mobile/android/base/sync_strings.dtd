@@ -130,7 +130,7 @@
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Willkommen bei &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description 'Melden Sie sich an, um Ihre Tabs, Lesezeichen, Passwörter &amp; mehr zu synchronisieren.'>
-<!ENTITY fxaccount_getting_started_get_started 'Einführung'>
+<!ENTITY fxaccount_getting_started_get_started 'Anmelden'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Verwenden Sie eine ältere Version von &syncBrand.shortName.label;?'>
 
 <!-- Localization note: the Firefox below should not change with the
