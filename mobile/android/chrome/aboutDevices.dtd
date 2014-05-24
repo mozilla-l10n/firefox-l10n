@@ -5,3 +5,8 @@
 <!ENTITY aboutDevices.title "Dispositivi">
 <!ENTITY aboutDevices.header "Dispositivi disponibili">
 <!ENTITY aboutDevices.refresh "Aggiorna">
+<!ENTITY aboutDevices.addDeviceHeader "Aggiungi un dispositivo">
+<!ENTITY aboutDevices.roku "Roku">
+<!ENTITY aboutDevices.chromecast "Chromecast">
+<!ENTITY aboutDevices.placeholder "Indirizzo IP">
+<!ENTITY aboutDevices.connectManually "Connetti manualmente">
