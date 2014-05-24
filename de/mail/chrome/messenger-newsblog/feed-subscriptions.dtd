@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
 <!ENTITY quickMode.accesskey         "A">
 
+<!ENTITY autotagEnable.label         "Schlagwörter automatisch aus &lt;category&gt;-Namen der Feeds erstellen">
+<!ENTITY autotagEnable.accesskey     "w">
+<!ENTITY autotagUsePrefix.label      "Schlagwörter beginnen mit:">
+<!ENTITY autotagUsePrefix.accesskey  "b">
+<!ENTITY autoTagPrefix.placeholder   "Anfangstext für Schlagwörter eingeben">
+
 <!ENTITY locationValidate.label      "Validieren">
 <!ENTITY validateText.label          "Prüfe Gültigkeit und rufe gültige URL ab.">
 
