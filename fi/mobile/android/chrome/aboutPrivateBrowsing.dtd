@@ -10,4 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "Yksityinen selaus -välilehdellä &brandShortName; ei tallenna mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät normaalilla tavalla.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Tälle laitteella ei tallenneta tietoa selaushistoristasi, mutta Internet-palveluntarjoajasi voi tästä huolimatta seurata, millä sivustoilla vierailet.">
+<!ENTITY privatebrowsingpage.moreInfo               "Vaikka tälle laitteelle ei tallennetakaan selaushistoriatietoja, Internet-palveluntarjoajasi voi seurata, millä sivustoilla vierailet.">
