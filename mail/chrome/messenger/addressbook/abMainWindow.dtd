@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
-<!ENTITY propertiesCmd.label                            "Eigenschaften…">
-<!ENTITY propertiesCmd.accesskey                        "n">
+<!ENTITY propertiesCmd2.label                           "Eigenschaften">
+<!ENTITY propertiesCmd2.accesskey                       "n">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,9 +122,9 @@
 <!ENTITY importCmd.accesskey                            "m">
 <!ENTITY exportCmd.label                                "Exportieren…">
 <!ENTITY exportCmd.accesskey                            "x">
-<!ENTITY preferencesCmd.label                           "Einstellungen…">
-<!ENTITY preferencesCmd.accesskey                       "E">
-<!ENTITY preferencesCmdUnix.label                       "Einstellungen…">
+<!ENTITY preferencesCmd2.label                          "Einstellungen">
+<!ENTITY preferencesCmd2.accesskey                      "E">
+<!ENTITY preferencesCmdUnix.label                       "Einstellungen">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
