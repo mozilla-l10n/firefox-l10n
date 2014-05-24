@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Liitä lainauksena">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Etsi ja korvaa…">
+<!ENTITY findBarCmd.label "Etsi…">
+<!ENTITY findReplaceCmd.label "Etsi ja korvaa…">
 <!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
 <!ENTITY enableInlineSpellChecker.accesskey "k">
 <!ENTITY checkSpellingCmd2.label "Oikolue">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matematiikkaa…">
+<!ENTITY insertMathCmd.accesskey "a">
 <!ENTITY insertCharsCmd.label "Merkit ja symbolit…">
 <!ENTITY insertCharsCmd.accesskey "M">
 <!ENTITY insertBreakAllCmd.label "Rivinvaihto kuvien jälkeen">
