@@ -652,9 +652,9 @@
 <!ENTITY contextForwardAsMenu.label "Переслать как">
 <!ENTITY contextForwardAsMenu.accesskey "е">
 <!ENTITY contextForwardAsInline.label "Внутри сообщения">
-<!ENTITY contextForwardAsInline.accesskey "ж">
+<!ENTITY contextForwardAsInline.accesskey "н">
 <!ENTITY contextForwardAsAttachmentItem.label "Вложение">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "н">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "ж">
 <!ENTITY contextMultiForwardAsAttachment.label "Переслать как вложения">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "е">
 <!ENTITY contextMoveMsgMenu.label "Переместить в папку">
