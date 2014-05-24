@@ -47,6 +47,7 @@
 <!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
+<!ENTITY new_private_tab_opened "Открыта новая приватная вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_advanced "Дополнительно">
@@ -81,6 +82,8 @@
 <!ENTITY pref_home_updates "Автоматическое обновление">
 <!ENTITY pref_home_updates_enabled "Включено">
 <!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Показывать предложения сайтов">
+<!ENTITY pref_home_suggested_sites_summary "Отображать ярлыки на сайты на вашей домашней странице, которые, как мы думаем, вы можете найти интересными">
 <!ENTITY pref_header_customize "Настройка">
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
@@ -161,6 +164,7 @@
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
 <!ENTITY pref_update_autodownload_always "Всегда">
+<!ENTITY help_menu "Справка">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">

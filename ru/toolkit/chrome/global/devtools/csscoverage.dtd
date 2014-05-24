@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY csscoverage.backButton "Назад">
+<!ENTITY csscoverage.unused "Неиспользованные правила">
+<!ENTITY csscoverage.noMatch "Следующие селекторы не соответствуют ни одному элементу, которые мы увидели во время теста, так что возможно, что они могут быть безопасно удалены.">
+<!ENTITY csscoverage.optimize "Оптимизируемые страницы">
+<!ENTITY csscoverage.preload1 "Иногда вы можете ускорить загрузку, переместив все">
+<!ENTITY csscoverage.preload2 "теги в нижнюю часть страницы (где они не остановят загрузку страницы) и создав новый встроенный">
+<!ENTITY csscoverage.preload3 "элемент, содержащий следующие правила в верхней части страницы:">
+<!ENTITY csscoverage.noPreload "Все правила встроены. Прямо сейчас у нас нет предложений по тому, как улучшить производительность на этой странице.">
+<!ENTITY csscoverage.footer1 "Прочитайте">
+<!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "статью на MDN об инструменте покрытия CSS">
+<!ENTITY csscoverage.footer4 ", чтобы узнать о подводных камнях в генерации этого отчета.">

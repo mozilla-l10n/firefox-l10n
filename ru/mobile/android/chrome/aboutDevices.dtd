@@ -5,3 +5,8 @@
 <!ENTITY aboutDevices.title "Устройства">
 <!ENTITY aboutDevices.header "Ваши устройства">
 <!ENTITY aboutDevices.refresh "Обновить">
+<!ENTITY aboutDevices.addDeviceHeader "Добавить устройство">
+<!ENTITY aboutDevices.roku "Roku">
+<!ENTITY aboutDevices.chromecast "Chromecast">
+<!ENTITY aboutDevices.placeholder "IP-адрес">
+<!ENTITY aboutDevices.connectManually "Соединиться вручную">
