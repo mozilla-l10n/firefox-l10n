@@ -116,8 +116,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.">
 <!ENTITY fxaccount_status_needs_credentials "Немагчыма злучыцца. Ляпніце, каб увайсці.">
 <!ENTITY fxaccount_status_needs_upgrade "Вы павінны ўзняць &brandShortName;, каб увайсці.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; is set up, but not syncing automatically. Tap to start syncing.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Самасінхранізацыя здаткаў” у “Наладжванні Android” &gt; “Ужыванне здаткаў”.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Ляпніце, каб пачаць сінхранізацыю.">
 <!ENTITY fxaccount_status_bookmarks "Закладкі">
 <!ENTITY fxaccount_status_history "Гісторыя">
 <!ENTITY fxaccount_status_passwords "Паролі">

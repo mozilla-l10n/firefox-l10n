@@ -13,11 +13,11 @@
 <!ENTITY feedFolder.accesskey "З">
 <!ENTITY quickMode.label "Паказваць зводку артыкула замест сцягвання сеціўнай старонкі">
 <!ENTITY quickMode.accesskey "в">
-<!ENTITY autotagEnable.label "Automatically create tags from feed &lt;category&gt; names">
-<!ENTITY autotagEnable.accesskey "c">
-<!ENTITY autotagUsePrefix.label "Prefix tags with:">
-<!ENTITY autotagUsePrefix.accesskey "P">
-<!ENTITY autoTagPrefix.placeholder "Enter a tag prefix">
+<!ENTITY autotagEnable.label "Самастварэнне мецінаў з назваў &lt;category&gt; жывільніка">
+<!ENTITY autotagEnable.accesskey "С">
+<!ENTITY autotagUsePrefix.label "Прыстаўка мецінаў:">
+<!ENTITY autotagUsePrefix.accesskey "П">
+<!ENTITY autoTagPrefix.placeholder "Увядзіце прыстаўку для мецінаў">
 <!ENTITY locationValidate.label "Праверыць">
 <!ENTITY validateText.label "Правяраць і атрымліваць спраўны URL.">
 <!ENTITY button.addFeed.label "Дадаць">

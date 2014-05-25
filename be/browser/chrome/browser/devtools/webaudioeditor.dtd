@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY webAudioEditorUI.reloadNotice1 "Абнавіць">
-<!ENTITY webAudioEditorUI.reloadNotice2 "the page to view and edit the audio context.">
-<!ENTITY webAudioEditorUI.emptyNotice "Waiting for an audio context to be created…">
+<!ENTITY webAudioEditorUI.reloadNotice2 "старонку для прагляду і праўкі гукавога змесціва.">
+<!ENTITY webAudioEditorUI.emptyNotice "Чакаенне, пакуль змесціва гука будзе створана…">
