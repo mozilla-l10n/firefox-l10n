@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "K">
 <!ENTITY pref.dateformat.long "pikk" >
 <!ENTITY pref.dateformat.short "lühike"  >
-<!ENTITY pref.defaultlength.label "Sündmuse vaikimisi kestus:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Vaikimisi edasilükkamise kestus:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "t">
+
+<!ENTITY pref.defaults.label "Vaikimisi väärtused">
+<!ENTITY pref.events.label "Sündmused">
+<!ENTITY pref.tasks.label "Ülesanded">
+
+<!ENTITY pref.default_event_length.label "Vaikimisi kestus:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Puudub">
+<!ENTITY pref.default_task_start_of_day.label "Päeva algus">
+<!ENTITY pref.default_task_end_of_day.label "Päeva lõpp">
+<!ENTITY pref.default_task_tomorrow.label "Homme">
+<!ENTITY pref.default_task_next_week.label "Järgmine nädal">
+<!ENTITY pref.default_task_offset_current.label "Hetkeajast">
+<!ENTITY pref.default_task_offset_start.label "Algusest">
+<!ENTITY pref.default_task_offset_next_hour.label "Järgmise tunni algusest">
 
 <!ENTITY pref.accessibility.label "Hõlbustus">
 <!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve">

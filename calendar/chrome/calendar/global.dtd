@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Reede" >
 <!ENTITY day.7.name "Laupäev" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minut">
-<!ENTITY calendar.global.units.minutes  "minutit">
-<!ENTITY calendar.global.units.hour     "tund">
-<!ENTITY calendar.global.units.hours    "tundi">
-<!ENTITY calendar.global.units.day      "päev">
-<!ENTITY calendar.global.units.days     "päeva">
-
 <!ENTITY month.1.name "jaanuar" >
 <!ENTITY month.2.name "veebruar" >
 <!ENTITY month.3.name "märts" >

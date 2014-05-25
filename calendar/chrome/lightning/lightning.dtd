@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-post:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "See kiri sisaldab kutset sündmusele.">
+<!ENTITY lightning.imipbar.btnAccept.label                      "Osalen">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext               "Võta kutse vastu">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label           "Võta kõik vastu">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext    "Võta kõik kutse sündmuse kordumised vastu">
+<!ENTITY lightning.imipbar.btnAdd.label                         "Lisa">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                   "Lisa sündmus kalendrisse">
+<!ENTITY lightning.imipbar.btnDecline.label                     "Keeldu">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext              "Keeldu sündmuse kutsest">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label          "Keeldu kõigist">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext   "Keeldu kõigist kutse sündmuse kordumistest">
+<!ENTITY lightning.imipbar.btnDelete.label                      "Kustuta">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                "Kustuta kalendrist">
+<!ENTITY lightning.imipbar.btnDetails.label                     "Üksikasjad…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext               "Kuva sündmuse üksikasjad">
+<!ENTITY lightning.imipbar.btnMore.label                        "Rohkem">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                  "Klõpsa teiste valikute nägemiseks">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                  "Kinnita uuesti">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext             "Saadab korraldajale kinnituse uuesti">
+<!ENTITY lightning.imipbar.btnTentative.label                   "Kahtlev">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext            "Nõustu kahtlevalt">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label        "Kõigi osas kahtlev">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext "Nõustu kutse sündmuse kõigi kordumistega kahtlevalt">
+<!ENTITY lightning.imipbar.btnUpdate.label                      "Värskenda">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                "Värskenda sündmust kalendris">
+<!ENTITY lightning.imipbar.description                          "See kiri sisaldab kutset sündmusele.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

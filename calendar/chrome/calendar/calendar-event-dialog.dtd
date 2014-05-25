@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Alates" >
 <!ENTITY newevent.to.label                  "Kuni" >
-<!ENTITY newevent.attendees.notify.label    "Teavita osalejaid">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Osalejaid ei avalikustata kutsetes">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Lubamisel ei näe osalejad üksteist kutsetes. Rakendub vaid e-postiga saadetud kutsetele.">
 
 <!ENTITY newevent.status.label                    "Seisund" >
 <!ENTITY newevent.status.accesskey                "i" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; tehtud">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Teavita osalejaid">
+<!ENTITY event.attendees.notifyundisclosed.label    "Igale osalejale saadetakse eraldi kutse">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Selle valiku märkimisel saadetakse igale osalejale eraldi kutse. Igal kutsel on vaid üks saaja, seega ei avaldata teisi kutse saajaid.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
