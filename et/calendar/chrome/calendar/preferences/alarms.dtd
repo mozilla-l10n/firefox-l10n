@@ -34,3 +34,6 @@
 <!--<!ENTITY pref.alarmbox.label "Meeldetuletused">-->
 <!ENTITY pref.defaultemail.label "Vaikimisi saada meeldetuletused aadressile:">
 <!ENTITY pref.defaulttext.label "Vaikimisi teade meeldetuletuste jaoks:">
+
+<!ENTITY pref.defaultsnoozelength.label "Vaikimisi edasilükkamise kestus:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "d">
