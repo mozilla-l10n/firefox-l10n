@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Памылка загрузкі старонкі">
-<!ENTITY gopherAddon.title "Gopher Protocol">
-<!ENTITY gopherAddon.shortDesc "gopher is not a registered protocol.">
-<!ENTITY gopherAddon.longDesc "The address specifies the gopher protocol which is no longer supported, so the browser cannot connect to the site. You can get a compatible add-on to access this server from Mozilla Add-ons.">
-<!ENTITY goToAddOn.label "Go to Add-on Page">
+<!ENTITY gopherAddon.title "Пратакол Gopher">
+<!ENTITY gopherAddon.shortDesc "gopher – не зарэгістраваны пратакол.">
+<!ENTITY gopherAddon.longDesc "Адрас прызначае пратакол gopher, які больш не падтрымліваецца, таму азіральнік не можа злучыцца з пляцоўкай. Вы можаце ўсталяваць дадатак сумяшчальнасці з Дадаткаў Mozilla, каб даступіцца да паслугача.">
+<!ENTITY goToAddOn.label "Перайсці на старонку дадатка">

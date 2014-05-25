@@ -175,8 +175,8 @@
 <!ENTITY responsiveDesignTool.label "Чулая праява ўладкавання">
 <!ENTITY responsiveDesignTool.accesskey "ч">
 <!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY eyedropper.label "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
+<!ENTITY eyedropper.label "Піпетка">
+<!ENTITY eyedropper.accesskey "П">
 <!ENTITY scratchpad.label "Scratchpad">
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
