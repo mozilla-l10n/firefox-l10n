@@ -116,18 +116,14 @@
 <!ENTITY unsortedBookmarksCmd.label "Segnalibri non catalogati">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visualizza altri segnalibri">
 <!ENTITY backCmd.label "Indietro">
-<!ENTITY backCmd.accesskey "I">
 <!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardCmd.label "Avanti">
-<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
 <!ENTITY backForwardButtonMenu.tooltip "Tasto destro o trascina verso il basso per visualizzare la cronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trascina verso il basso per visualizzare la cronologia">
 <!ENTITY reloadCmd.label "Ricarica">
-<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Ricarica la pagina corrente">
 <!ENTITY stopCmd.label "Stop">
-<!ENTITY stopCmd.accesskey "t">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Interrompi il caricamento della pagina">
 <!ENTITY goEndCap.tooltip "Vai all’url inserito nella barra degli indirizzi">
@@ -325,7 +321,6 @@
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "p">
 <!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri…">
-<!ENTITY bookmarkPageCmd2.accesskey "b">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link nei segnalibri…">
 <!ENTITY bookmarkThisLinkCmd.accesskey "A">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro nei segnalibri…">
