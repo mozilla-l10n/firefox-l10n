@@ -13,7 +13,7 @@
 <!ENTITY autosyncNotDownload.accesskey "c">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "días de antigüedad">
-<!ENTITY message.label "mensajes">
+<!ENTITY message.label "mensajes más recientes">
 <!ENTITY nntpNotDownloadRead.label "Mensajes leídos">
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Mensajes de más de">
@@ -25,7 +25,7 @@
 <!ENTITY retentionKeepMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "No eliminar ningún mensaje">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Eliminar todos excepto los más recientes">
+<!ENTITY retentionKeepRecent.label "Eliminar todos excepto los">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensajes leídos (prevalece sobre la configuración de antigüedad)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre los mensajes con estrella">
