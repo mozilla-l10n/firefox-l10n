@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "Helje my hjir út!">
-<!ENTITY safeb.palm.accept.statustext "Nei myn startside navigearje">
 <!ENTITY safeb.palm.decline.label "Dizze warskôging negearje">
-<!ENTITY safeb.palm.decline.statustext "Warskôging slute">
 <!ENTITY safeb.palm.notforgery.label2 "Dit is gjin webferfalsking…">
 <!ENTITY safeb.palm.reportPage.label "Wêrom wurd dizze side blokkearre?">
 
