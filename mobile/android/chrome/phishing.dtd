@@ -2,16 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Fermoedlike webferfalsking">
-
-<!ENTITY safeb.palm.message.p1 "Dizze side is rapportearre as in webferfalsking, makke om brûkers te mislieden en persoanlike of finansjele ynformaasje diele te litten. It ynfieren fan persoanlike ynformaasje op dizze side kin liede ta dieverij fan identiteitsgegevens of oare fraude. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Mear lêze &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Mear lêze &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "Dit soarte fan webferfalskingen wurdt brûkt yn e-mailscams dy't bekend binne as phishingoanfallen, wêrby frauduleuze websiden en e-mails brûkt wurde om boarnen dy't jo miskien fertrouwe nei te meitsjen. Jo kinne mear fine oer ">
-<!ENTITY safeb.palm.message.p2.linkText "hoe't &brandShortName; jo beskermet">
-<!ENTITY safeb.palm.message.p2.end " tsjin phishingoanfallen.">
-
 <!ENTITY safeb.palm.accept.label "Helje my hjir út!">
 <!ENTITY safeb.palm.accept.statustext "Nei myn startside navigearje">
 <!ENTITY safeb.palm.decline.label "Dizze warskôging negearje">
