@@ -216,3 +216,14 @@
 <!ENTITY eula.accept                      "Acceptera och installera…">
 
 <!ENTITY settings.path.button.label           "Bläddra…">
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+ experiments are present on the "Experiments" tab of the add-ons manager.
+ This tab won't be displayed unless an Experiment add-on is installed.
+ Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+ to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Vad är detta? Telemetri kan installera och köra experiment då och då.">
+<!ENTITY experiment.info.learnmore "Läs mer">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Telemetri-inställningar">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
