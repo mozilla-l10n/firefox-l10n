@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Priveenavigaasje">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Jo hawwe in nij priveeljepblêd iepene.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Jo binne net yn in priveeljepblêd.">
+
+<!ENTITY privatebrowsingpage.description            "Yn priveeljepblêden sil &brandShortName; gjin navigaasjeskiednis, sykskiednis, downloadskiednis, webformulierskiednis, cookies of tydlike ynternetbestannen bewarje. Bestannen dy't jo downloade of blêdwizers dy't jo oanmeitsje sille lykwols wol bewarre wurde.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Hoewol't dit apparaat gjin navigaasjeskiednis fan jo bewarje sil, kin jo ynternetserviceprovider dochs folgje hokker siden jo besykje.">
