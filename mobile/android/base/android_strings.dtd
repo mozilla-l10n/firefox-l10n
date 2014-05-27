@@ -206,7 +206,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-
+<!ENTITY datareporting_wifi_geolocation_summary "Coğrafi konum servisimizi geliştirmek için arka planda çalışırken Wi-Fi ve hücresel konum verilerini toplayarak &vendorShortName; ile paylaşır">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -342,6 +342,8 @@ size. -->
 <!ENTITY home_default_empty "Bu panel için içerik bulunamadı.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Yukarı: &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
