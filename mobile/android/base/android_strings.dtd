@@ -54,7 +54,7 @@
 <!ENTITY back "Emva">
 <!ENTITY stop "Yima">
 <!ENTITY site_security "Ukhuseleko lwesayithi">
-<!ENTITY save "Gcina">
+<!ENTITY edit_mode_cancel "Rhoxisa">
 
 <!ENTITY close_tab "Vala Ithebhu">
 <!ENTITY one_tab "Ithebhu e-1">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Okwabucala">
 <!ENTITY pref_category_vendor "yi-&vendorShortName;">
 <!ENTITY pref_category_datareporting "Ukhetho lweenkcukacha">
+<!ENTITY pref_learn_more "Funda okungakumbi">
 <!ENTITY pref_category_installed_search_engines "Izixhobo ezifakelweyo zokukhangela">
 <!ENTITY pref_category_add_search_providers "Yongeza iziboneleli zokukhangela ezingakumbi">
 <!ENTITY pref_category_search_restore_defaults "Buyisela iinjini zokukhangela">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lo&formatI;.">
 <!ENTITY pref_category_devtools "Izixhobo zabaphuhlisi">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
-<!ENTITY pref_developer_remotedebugging_docs "Funda okungakumbi">
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
 
 <!ENTITY pref_category_home "Ekhaya">
@@ -126,7 +126,7 @@
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
 <!ENTITY pref_char_encoding_off "Musa ukubonisa imenyu">
 <!ENTITY pref_clear_private_data "Sula iingcombolo zabucala">
-<!ENTITY pref_plugins "Izifakelo">
+
 <!ENTITY pref_plugins_enabled "Ezivunyelweyo">
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
 <!ENTITY pref_plugins_disabled "Ivaliwe">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Ungqamaniso">
 <!ENTITY pref_search_suggestions "Bonisa iingcamango zokukhangela">
 <!ENTITY pref_import_android "Ngenisa uthatha kwi-Android">
-<!ENTITY pref_private_data_history "Ukubhrawuza nembali yokhuphelo">
+<!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
 <!ENTITY pref_private_data_formdata "Ifom nembali yokukhangela">
 <!ENTITY pref_private_data_cookies2 "Iikhukhi nokungena okusebenzayo">
 <!ENTITY pref_private_data_passwords "Iipasiwedi ezigciniweyo">
 <!ENTITY pref_private_data_cache "Ikhatshe">
 <!ENTITY pref_private_data_offlineApps "Ngcombolo zewebhusayithi ezingekho kwinethiwekhi">
 <!ENTITY pref_private_data_siteSettings2 "Iisetingi zesayithi">
-<!ENTITY pref_private_data_downloadFiles "Iifayile ezikhutshelweyo">
+<!ENTITY pref_private_data_downloadFiles2 "Okukhutshelweyo">
 
 
 <!ENTITY pref_about_firefox "Malunga ne-&brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Bonisa">
 <!ENTITY pref_panels_hide "Fihla">
+<!ENTITY pref_panels_reorder "Tshintsha ulandelelwano">
+
+
 
 <!ENTITY datareporting_notification_title "I-&brandShortName; amanani neengcombolo">
 <!ENTITY datareporting_notification_action_long "Khetha inkcazelo onokwabelana ngayo">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
-<!ENTITY datareporting_wifi_title "I-&vendorShortName; iinkonzo zendawo">
-<!ENTITY datareporting_wifi_summary "Inceda ekuphuculeni indawo ekuyo iWebhu Evulekileyo ngokuvumela i-&brandShortName; iqokelele ize ithumele inkcazelo engachazwanga yeMboniselo yeselula">
+
+<!ENTITY datareporting_wifi_geolocation_summary "Ifumana i-Wi-Fi neengcombolo zendawo zeselula xa ihamba ngemva ize yabelane ngazo ne-&vendorShortName; ukuphucula inkonzo yethu yendawo">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -216,7 +219,7 @@ size. -->
 <!ENTITY quit "Yeka">
 
 <!ENTITY addons "Izongezelelo">
-<!ENTITY downloads "Okukhutshelweyo">
+
 <!ENTITY apps "Ii-Apps">
 <!ENTITY char_encoding "Ukufakwa kweekhowudi kwikharakhtha">
 
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Sula">
 <!ENTITY site_settings_no_settings  "Akukho zisetingi zinokususwa.">
 
-<!ENTITY reading_list_add "Yongeza Kuluhlu Lokufunda">
 <!ENTITY reading_list_added "Iphepha longezwe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_removed "Iphepha lisuswe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_failed "Ayiphumelelanga ukongeza iphepha kuludwe lwakho lokufunda">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Akukho mxholo ufumanekayo kule phaneli.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Ukuya kwi&formatS;">
 
 <!ENTITY pin_site_dialog_hint "Faka igama eliphambili olikhangelayo">
 
@@ -417,6 +423,12 @@ esuka kwi-Android">
 
 <!ENTITY exit_guest_session_title "&brandShortName; iza kuqala ngoku">
 <!ENTITY exit_guest_session_text "Iingcombolo zokubhrawuza zale seshoni ziza kucinywa.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

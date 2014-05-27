@@ -76,7 +76,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Imenyu yeZalathisi eziphawulayo">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "&brandShortName; Home ">
 <!ENTITY bookmarks.folder.tags.label "Iithegi">
 <!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
 <!ENTITY bookmarks.folder.unfiled.label "IZalathisi eziphawulayo ezingalungiswanga">
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">
 <!ENTITY fxaccount_status_needs_credentials "Ayikwazi ukunxibelelana. Cofa ukuze ungene.">
 <!ENTITY fxaccount_status_needs_upgrade "Kufuneka uhlaziyele kwi-&brandShortName; ukuze ungene.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">
 <!ENTITY fxaccount_status_passwords "Iipasiwedi">
