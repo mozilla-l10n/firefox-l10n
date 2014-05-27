@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction "Պետք է լինի 8 գրանշան">
 <!ENTITY fxaccount_create_account_year_of_birth "Ծննդյան ամսաթիվ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Շարունակելուց առաջ ես համաձայն եմ &formatS1; և &formatS2; Firefox-ի առցանց ծառայություններին:">
+<!ENTITY fxaccount_create_account_policy_text2 "Շարունակելով՝ ես ընդունում եմ Firefox-ի առցանց ծառայությունների &formatS1; և &formatS2;:">
 <!ENTITY fxaccount_create_account_button "Հաջորդը">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Ինչը համաժամեցնել">
 <!ENTITY fxaccount_create_account_sign_in_instead "Արդեն ունե՞ք հաշիվ: Մուտք գործեք">
@@ -178,10 +178,12 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ձեր հաշիվը պետք է հաստատել: Կրկին ուղարկել հաստատումը:">
 <!ENTITY fxaccount_status_needs_credentials "Չհաջողվեց միանալ: Մուտք գործել:">
 <!ENTITY fxaccount_status_needs_upgrade "Մուտք գործելու համար պետք է արդիացնեք &brandShortName;-ը:">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումենրի &gt; Data Usage-ում:">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Դիպչեք՝ սինքը սկսելու համար:">
 <!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
 <!ENTITY fxaccount_status_history "Պատմություն">
 <!ENTITY fxaccount_status_passwords "Գաղտնաբառեր">
-<!ENTITY fxaccount_status_tabs "Բացել ներդիրները">
+<!ENTITY fxaccount_status_tabs "Բացած ներդիրներ">
 <!ENTITY fxaccount_status_legal "Օրինական" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
