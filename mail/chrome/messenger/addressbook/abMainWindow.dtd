@@ -125,7 +125,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.label                          "Indstillinger">
 <!ENTITY preferencesCmd2.accesskey                      "n">
 <!ENTITY preferencesCmdUnix.label "Indstillinger">
-<!ENTITY preferencesCmdUnix.accesskey "P">
+<!ENTITY preferencesCmdUnix.accesskey "I">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">
