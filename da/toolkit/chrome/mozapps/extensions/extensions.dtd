@@ -78,7 +78,7 @@
 <!ENTITY cmd.preferencesWin.label             "Indstillinger">
 <!ENTITY cmd.preferencesWin.accesskey         "I">
 <!ENTITY cmd.preferencesUnix.label            "Indstillinger">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.accesskey        "I">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
@@ -152,7 +152,7 @@
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
 <!ENTITY detail.showPreferencesWin.tooltip    "Rediger indstillinger for denne tilføjelse">
 <!ENTITY detail.showPreferencesUnix.label     "Indstillinger">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.accesskey "I">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Rediger indstillinger for denne tilføjelse">
 
 

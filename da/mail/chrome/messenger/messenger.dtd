@@ -575,7 +575,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editRemoteContentSettings.label "Indstillinger for redigering af eksternt indhold…">
 <!ENTITY editRemoteContentSettings.accesskey "I">
 <!ENTITY editRemoteContentSettingsUnix.label "Indstillinger for redigering af eksternt indhold…">
-<!ENTITY editRemoteContentSettingsUnix.accesskey "P">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "I">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meddelelse">
