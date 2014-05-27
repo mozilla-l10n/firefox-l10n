@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: আপোনাৰ এড-অনসমূহ স্বনিৰ্বাচন কৰক 
+#define bookmarks_addons Firefox: আপোনাৰ এড-অনসমূহ স্বনিৰ্বাচন কৰক\u0020
 
 
 
