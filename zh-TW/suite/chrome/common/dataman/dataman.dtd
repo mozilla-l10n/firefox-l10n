@@ -128,7 +128,7 @@
 <!ENTITY fdata.tree.value.label "已輸入的值">
 <!ENTITY fdata.tree.usecount.label "使用次數">
 <!ENTITY fdata.tree.firstused.label "第一次使用">
-<!ENTITY fdata.tree.lastused.label "最近使用">
+<!ENTITY fdata.tree.lastused.label "上次使用">
 
 <!ENTITY fdata.ctx.remove.label "移除">
 <!ENTITY fdata.ctx.remove.accesskey "R">

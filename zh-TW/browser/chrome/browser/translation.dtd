@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "翻譯">
 <!ENTITY translation.notNow.button              "現在不要">
 
-<!ENTITY translation.translatingContent.label   "正在翻譯業面內容…">
+<!ENTITY translation.translatingContent.label   "正在翻譯頁面內容…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
