@@ -139,7 +139,7 @@
 <!ENTITY detail.updateDefault.tooltip         "Ինքնաշխատ տեղադրել թարմացումները, եթե այդ ընտրանքը հաստատված է որպես ծրագրային">
 <!ENTITY detail.updateAutomatic.label         "Միացված">
 <!ENTITY detail.updateAutomatic.tooltip       "Տեղակայեք թարմացումները ավտոմատ կերպով:">
-<!ENTITY detail.updateManual.label            "Անջատված">
+<!ENTITY detail.updateManual.label            "Անջ.">
 <!ENTITY detail.updateManual.tooltip          "Մի տեղակայեք թարմացումները ավտոմատ կերպով:">
 <!ENTITY detail.home                          "Կայքէջը">
 <!ENTITY detail.repository                    "Հավելումների պռոֆիլ">

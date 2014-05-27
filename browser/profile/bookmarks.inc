@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Ընդգրկվի՛ր: 
+#define firefox_community Ընդգրկվի՛ր:\u0020
 
 
 # LOCALIZATION NOTE (firefox_about):
