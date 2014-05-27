@@ -4,6 +4,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
+<!ENTITY toolboxCloseButton.tooltip    "Uddu Kuutorɗe Topayɓe">
 
 
 
@@ -46,6 +47,8 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "Daaƴtu JavaScript *">
 
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and

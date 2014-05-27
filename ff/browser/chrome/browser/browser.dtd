@@ -357,8 +357,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Dirtin to cuɓirgol">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
-<!ENTITY customizeMenu.removeFromToolbar.label "Ittu e  palal kaɓirɗe">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromToolbar.label "Ittu e  palal kuutorɗe">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "I">
 <!ENTITY customizeMenu.removeFromMenu.label "Ittu e cuɓirgel">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "I">
 <!ENTITY customizeMenu.addMoreItems.label "Ɓeeydu ngeɗon ngoɗkon…">
