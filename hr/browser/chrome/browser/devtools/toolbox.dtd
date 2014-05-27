@@ -61,6 +61,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Omogući otklanjanje grešaka u chromeu i dodacima">
+<!ENTITY options.enableChrome.tooltip2  "Uključivanje ove opcije će vam dopustiti korištenje raznih alata za programere u kontekstu preglednika i otklanjanje grešaka iz upravitelja dodataka">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
