@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace torhošća Firefox
+#define bookmarks_marketplace Torhošćo Firefox
 
 
 

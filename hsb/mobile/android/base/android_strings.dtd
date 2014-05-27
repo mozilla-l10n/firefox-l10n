@@ -4,25 +4,25 @@
 
 
 <!ENTITY  no_space_to_start_error "Dosć ruma k dispoziciji njeje, zo by &brandShortName; startowało.">
-<!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił.">
+<!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Zapołožki">
 <!ENTITY  history_title "Historija">
-<!ENTITY  reading_list_title "Lisćina so čita">
+<!ENTITY  reading_list_title "Čitanska lisćina">
 
 <!ENTITY  switch_to_tab "K rajtarkej přepinać">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - rozprawjak spadow">
 <!ENTITY  crash_message2 "&brandShortName; měješe problem a spadnył. Waše rajtarki měli so na startowej stronje &brandShortname; nalistować, hdyž znowa startujeće.">
-<!ENTITY  crash_send_report_message3 "Informujće &vendorShortName; wo tutym spadźe, zo by móhł jón wotstronił.">
+<!ENTITY  crash_send_report_message3 "Informujće &vendorShortName; wo tutym spadźe, zo by móhł jón wotstronił">
 <!ENTITY  crash_include_url2 "Adresu strony zapřijeć, kotruž sym wopytał">
 <!ENTITY  crash_sorry "Je nam žel">
 <!ENTITY  crash_comment "Komentar přidać (komentary su zjawnje widźomne)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; dowolić, so ze mnu wo tutej rozprawje do zwiska stajić">
 <!ENTITY  crash_email "Waša e-mejl">
-<!ENTITY  crash_closing_alert "Skónčić, bjez toho by so spadowa rozprawa pósłała?">
+<!ENTITY  crash_closing_alert "Skónčić, bjeztoho zo by so spadowa rozprawa pósłała?">
 <!ENTITY  sending_crash_report "Spadowa rozprawa so sćele\u2026">
 <!ENTITY  crash_close_label "Začinić">
 <!ENTITY  crash_restart_label "&brandShortName; znowa startować">
@@ -60,7 +60,7 @@
 <!ENTITY one_tab "1 rajtark">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "rajtarki &formatD;">
+<!ENTITY num_tabs2 "&formatD; rajtarkow">
 <!ENTITY new_tab_opened "Nowy rajtark je so wočinił">
 
 <!ENTITY settings "Nastajenja">
@@ -187,7 +187,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Wubjerće, kotre informacije maja so dźělić">
 <!ENTITY datareporting_notification_action "Wubjerće, štož ma so dźělić">
 <!ENTITY datareporting_notification_summary "Zo by waše dožiwjenje polěpšił, &brandShortName; awtomatisce informacije na &vendorShortName; sćele.">
-<!ENTITY datareporting_notification_summary_short "Zo by waše dožiwjenje polěpšił, &brandShortName;...">
+<!ENTITY datareporting_notification_summary_short "Zo by waše dožiwjenje polěpšił, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -205,7 +205,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Spadowy rozprawjak">
-<!ENTITY datareporting_wifi_title2 "Stejnišćowa słužba &vendorShortName; ">
+<!ENTITY datareporting_wifi_title2 "Stejnišćowa słužba &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary "Přijima stejnišćowe daty Wi-Fi a mobilneho telefona, hdyž w pozadku běži a dźěli je z &vendorShortName;, zo by so naša geolokalizěrowanska słužba polěpšiła">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -227,7 +227,7 @@ size. -->
 <!ENTITY share_title "Dźělić přez">
 <!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
 <!ENTITY save_as_pdf "Jako PDF składować">
-<!ENTITY find_in_page "W stronje pytać">
+<!ENTITY find_in_page "Na stronje pytać">
 <!ENTITY desktop_mode "Desktopowe sydło požadać">
 <!ENTITY page "Strona">
 <!ENTITY tools "Nastroje">
@@ -293,7 +293,7 @@ size. -->
 <!ENTITY site_settings_clear        "Zhašeć">
 <!ENTITY site_settings_no_settings  "Nastajenja za zhašenje njejsu.">
 
-<!ENTITY reading_list_added "Strona je so wašej čitanskej lisćinje přidała.">
+<!ENTITY reading_list_added "Strona je so wašej čitanskej lisćinje přidała">
 <!ENTITY reading_list_removed "Strona je so z wašeje čitanskeje lisćiny zhašała">
 <!ENTITY reading_list_failed "Strona njeda so wašej čitanskej lisćinje přidać">
 <!ENTITY reading_list_duplicate "Strona je hižo we wašej čitanskej lisćinje">
@@ -332,10 +332,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "POKIW: Přidajće čitanskej lisćinje nastawki, tłóčo dołho na symbol &formatI;, hdyž so w titulnej lajsće jewi. ">
+<!ENTITY home_reading_list_hint2 "POKIW: Přidajće čitanskej lisćinje nastawki, tłóčo dołho na symbol &formatI;, hdyž so w titulnej lajsće jewi.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "POKIW: Přidajće swojej čitanskej lisćinje nastawki, tłóča dołho tłóčatko čitakoweho modusa, hdyž so w titulnej lajsće jewi.">
+<!ENTITY home_reading_list_hint_accessible "POKIW: Přidajće swojej čitanskej lisćinje nastawki, tłóčo dołho tłóčatko čitakoweho modusa, hdyž so w titulnej lajsće jewi.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -419,7 +419,7 @@ z Androida">
 <!ENTITY guest_session_dialog_continue "Dale">
 <!ENTITY guest_session_dialog_cancel "Přetorhnyć">
 <!ENTITY new_guest_session_title "&brandShortName; budźe nětko znowa startować">
-<!ENTITY new_guest_session_text "Wosoba, kotraž jo wužiwa, njemóže waše wosobinske přehladowanske daty (na př. składowane hesła, historija abo zapołožki) widźeć.\n\nHdyž waš hósć je wotešoł, so jeho přehladowanske data zhašeja a waše posedźenje so wobnowja.">
+<!ENTITY new_guest_session_text "Wosoba, kotraž jo wužiwa, njemóže waše wosobinske přehladowanske daty (na př. składowane hesła, historija abo zapołožki) widźeć.\n\nHdyž waš hósć je wotešoł, so jeho přehladowanske daty zhašeja a waše posedźenje so wobnowja.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; budźe nětko znowa startować">
 <!ENTITY exit_guest_session_text "Přehladowanske daty z tutoho posedźenja so zhašeja.">

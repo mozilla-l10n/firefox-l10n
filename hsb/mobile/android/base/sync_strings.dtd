@@ -9,19 +9,19 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwjazać ">
+<!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwjazać">
 <!ENTITY sync.title.adddevice.label "Konto &syncBrand.shortName.label; přidać">
 <!ENTITY sync.title.pair.label "Grat zwjazać">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Zo byšće swój nowy grat aktiwizował, wubjerće \&quot;&syncBrand.shortName.label; konfigurować\&quot; na graće.">
-<!ENTITY sync.subtitle.header2.label "Zapodajće tutón kod na swojim druhim graće.">
-<!ENTITY sync.subtitle.connectlocation2.label "Wubjerće \&quot;&sync.title.pair.label;\&quot; we wotrězku &syncBrand.shortName.label; w nastajenjach Firefox swojeho druheho grata.">
-<!ENTITY sync.subtitle.pair.label "Za aktiwizowanje wubjerće \&quot;Grat zwjazać\&quot; na wašim druhim graće.">
+<!ENTITY sync.subtitle.connect.label "Zo byšće swój nowy grat aktiwizował, wubjerće “&syncBrand.shortName.label; konfigurować” na graće.">
+<!ENTITY sync.subtitle.header2.label "Zapodajće tutón kod na swojim druhim graće">
+<!ENTITY sync.subtitle.connectlocation2.label "Wubjerće “&sync.title.pair.label;” we wotrězku &syncBrand.shortName.label; w nastajenjach Firefox swojeho druheho grata.">
+<!ENTITY sync.subtitle.pair.label "Za aktiwizowanje wubjerće “Grat zwjazać” na wašim druhim graće.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Pokazać kak.">
-<!ENTITY sync.link.advancedsetup.label "Rozšěrjena konfiguracija...">
+<!ENTITY sync.link.advancedsetup.label "Rozšěrjena konfiguracija…">
 <!ENTITY sync.link.nodevice.label "Nimam grat ze mnu…">
 <!-- J-PAKE Waiting Screen -->
 
@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Prošu spytajće hišće raz.">
-<!ENTITY sync.pair.connectlocation.label "Zo byšće swój nowy grat aktiwizował, wubjerće \&quot;&syncBrand.shortName.label; konfigurować\&quot; na graće a wubjerće potom \&quot;Mam konto\&quot;.">
+<!ENTITY sync.pair.connectlocation.label "Zo byšće swój nowy grat aktiwizował, wubjerće “&syncBrand.shortName.label; konfigurować” na graće a wubjerće potom “Mam konto.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Nastajenja">
@@ -91,7 +91,7 @@
 <!ENTITY sync.notification.configure.saved "Waše wuběry su so składowali.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "Wopačne kontowe mjeno abo hesło">
+<!ENTITY sync.invalidcreds.label "Wopačne kontowe mjeno abo hesło.">
 <!ENTITY sync.invalidserver.label "Prošu zapodajće płaćiwy serwerowy URL">
 <!ENTITY sync.verifying.label "Přepruwuje so…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Wobnowjenski kluč je wopak. Prošu spytajće hišće raz.">
@@ -144,7 +144,7 @@
 <!ENTITY fxaccount_create_account_button "Přichodny">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Wubjerće, štož ma so synchronizować">
 <!ENTITY fxaccount_create_account_sign_in_instead "Maće hižo konto? Přizjewće so">
-<!ENTITY fxaccount_create_account_1990_or_earlier "199o abo do toho">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 abo do toho">
 <!ENTITY fxaccount_create_account_unknown_error "Konto njeda so załožić">
 
 <!ENTITY fxaccount_account_create_not_allowed "Konto njeda so załožić">

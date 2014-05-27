@@ -50,7 +50,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Or else.">
+<!ENTITY sad.thanksMessageBottom   "Póńdźe so jemu zlě.">
 
 <!ENTITY feedback.privacy          "Njezapřijmiće wosobinske daty do swojeho komentara, kotrež móhli was identifikować.">
 <!ENTITY feedback.send             "Komentar pósłać">
