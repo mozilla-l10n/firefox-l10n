@@ -19,3 +19,7 @@
 <!ENTITY translation.tryAgain.button "Spróbuj ponownie">
 
 <!ENTITY translation.options.menu "Ustawienia">
+<!ENTITY translation.options.neverForSite.label "Nigdy nie tłumacz tej strony">
+<!ENTITY translation.options.neverForSite.accesskey "s">
+<!ENTITY translation.options.preferences.label "Preferencje tłumaczenia">
+<!ENTITY translation.options.preferences.accesskey "P">
