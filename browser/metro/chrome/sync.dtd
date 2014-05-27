@@ -49,8 +49,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Seŋondir">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Tesko:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "Ngam yiytude, kod oo">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Uddit &quot;Cuɓe&quot; walla &quot;Cuɓoraaɗe&quot; kisa rewindo ɗee daawe:
-&syncBrand.shortName.label; -&gt; Teelto &syncBrand.shortName.label; -&gt; Miɗo jogii konte">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Uddit &quot;Cuɓe&quot; walla &quot;Cuɓoraaɗe&quot; kisa rewindo ɗee daawe: &syncBrand.shortName.label; -&gt; Teelto &syncBrand.shortName.label; -&gt; Miɗo jogii konte">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Teelte &gt; Goɗɗe &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Tiiɗno fuɗɗito">
 <!-- Flyout when a device has been successfully paired -->

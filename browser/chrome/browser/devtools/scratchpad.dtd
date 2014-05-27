@@ -63,7 +63,8 @@
 
 
 
-
+<!ENTITY normalSize.label             "Ɓetol Potngol">
+<!ENTITY normalSize.accesskey         "Ɓ">
 
 
 <!ENTITY editMenu.label               "Taƴto">
@@ -71,7 +72,7 @@
 
 <!ENTITY run.label                    "Hurmito">
 <!ENTITY run.accesskey                "H">
-
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Yuurnito">
 <!ENTITY inspect.accesskey            "Y">
