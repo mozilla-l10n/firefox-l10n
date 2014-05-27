@@ -54,7 +54,7 @@
 <!ENTITY back "Undur">
 <!ENTITY stop "Berhenti">
 <!ENTITY site_security "Laman Keselamatan">
-<!ENTITY save "Simpan">
+<!ENTITY edit_mode_cancel "Batal">
 
 <!ENTITY close_tab "Tutup Tab">
 <!ENTITY one_tab "1 tab">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Pilihan data">
+<!ENTITY pref_learn_more "Ketahui lagi">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
 <!ENTITY pref_category_add_search_providers "Tambah lagi penyedia carian">
 <!ENTITY pref_category_search_restore_defaults "Enjin carian dipulihkan">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan yang panjang pada medan carian kemudian sentuh ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
 <!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
-<!ENTITY pref_developer_remotedebugging_docs "Ketahui lagi">
 <!ENTITY pref_remember_signons "Ingat kata laluan">
 
 <!ENTITY pref_category_home "Utama">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
 <!ENTITY pref_import_android "Import dari Android">
-<!ENTITY pref_private_data_history "Sejarah pelayaran &amp; muat turun">
+<!ENTITY pref_private_data_history2 "Sejarah pelungsuran">
 <!ENTITY pref_private_data_formdata "Sejarah borang &amp; carian">
 <!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
 <!ENTITY pref_private_data_passwords "Kata laluan tersimpan">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
 <!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
-<!ENTITY pref_private_data_downloadFiles "Fail muat turun">
+<!ENTITY pref_private_data_downloadFiles2 "Muat turun">
 
 
 <!ENTITY pref_about_firefox "Mengenai &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Tunjuk">
 <!ENTITY pref_panels_hide "Sembunyi">
+<!ENTITY pref_panels_reorder "Tukar urutan">
+<!ENTITY pref_panels_move_up "Alih ke atas">
+<!ENTITY pref_panels_move_down "Alih ke bawah">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
-<!ENTITY datareporting_wifi_title "&vendorShortName; servis lokasi">
-<!ENTITY datareporting_wifi_summary "Membantu meningkatkan perkhidmatan geolokasi untuk Web Terbuka dengan membenarkan &brandShortName; mengumpul dan menghantar data menara selular anonim">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -216,7 +219,7 @@ size. -->
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Add-ons">
-<!ENTITY downloads "Muat Turun">
+
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Pengekodan Aksara">
 
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Bersih">
 <!ENTITY site_settings_no_settings  "Tiada tetapan untuk dibersihkan.">
 
-<!ENTITY reading_list_add "Tambah ke Senarai Bacaan">
 <!ENTITY reading_list_added "Laman ditambah ke Senarai Pembacaan anda">
 <!ENTITY reading_list_removed "Halaman dikeluarkan dari Senarai Pembacaan anda">
 <!ENTITY reading_list_failed "Gagal untuk menambah halaman ke Senarai Pembacaan anda">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Tiada kandungan yang ditemui untuk panel ini.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Naik sehingga &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
@@ -417,6 +423,12 @@ dari Android">
 
 <!ENTITY exit_guest_session_title "&brandShortName; akan mula semula sekarang">
 <!ENTITY exit_guest_session_text "Data pelayaran dari sesi ini anda dihapuskan.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

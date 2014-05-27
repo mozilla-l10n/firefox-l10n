@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Akaun anda perlu disahkan. Tap untuk hantar semula email pengesahan.">
 <!ENTITY fxaccount_status_needs_credentials "Tidak dapat menyambung. Tap untuk mendaftar masuk.">
 <!ENTITY fxaccount_status_needs_upgrade "Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Penandabuku">
 <!ENTITY fxaccount_status_history "Sejarah">
 <!ENTITY fxaccount_status_passwords "Kata laluan">
