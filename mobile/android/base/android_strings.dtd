@@ -158,8 +158,8 @@ size. -->
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
-<!ENTITY pref_private_data_formdata "ఫారాలు  వెతుకుడు చరిత్ర">
-<!ENTITY pref_private_data_cookies2 "కుకీలు  క్రియాశీల ప్రవేశాలు">
+<!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
+<!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
@@ -183,7 +183,7 @@ size. -->
 <!ENTITY pref_panels_move_up "పైకి జరుపు">
 <!ENTITY pref_panels_move_down "కిందకి జరుపు">
 
-<!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు  భోగట్టా">
+<!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు &amp; భోగట్టా">
 <!ENTITY datareporting_notification_action_long "ఏయే సమాచారాన్ని పంచుకోవాలో ఎంచుకోండి">
 <!ENTITY datareporting_notification_action "ఏమేం పంచుకోవాలో ఎంచుకోండి">
 <!ENTITY datareporting_notification_summary "మీ అనుభవాన్ని మెరుగుపరచడానికి, కొంత సమాచారాన్ని &brandShortName; ఆటోమెటిగ్గా &vendorShortName;కు పంపిస్తుంది.">
@@ -260,7 +260,7 @@ size. -->
 <!ENTITY contextmenu_remove "తొలగించు">
 <!ENTITY contextmenu_add_to_launcher "ముంగిలి తెరకు చేర్చు">
 <!ENTITY contextmenu_share "పంచుకో">
-<!ENTITY contextmenu_pasteandgo "అంటించు  వెళ్ళు">
+<!ENTITY contextmenu_pasteandgo "అంటించు &amp; వెళ్ళు">
 <!ENTITY contextmenu_paste "అతికించు">
 <!ENTITY contextmenu_copyurl "చిరునామాను కాపీచెయ్యి">
 <!ENTITY contextmenu_edit_bookmark "సరిచేయు">
