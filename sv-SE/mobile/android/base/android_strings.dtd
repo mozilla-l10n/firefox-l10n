@@ -206,7 +206,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
-
+<!ENTITY datareporting_wifi_geolocation_summary "Ta emot Wi-Fi och mobil platsdata när du kör i bakgrunden och delar den med &vendorShortName; för att göra geolocations servicen bättre. ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
