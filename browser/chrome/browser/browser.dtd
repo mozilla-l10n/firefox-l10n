@@ -321,7 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Indstillinger">
 <!ENTITY preferencesCmd2.accesskey     "I">
-<!ENTITY preferencesCmdUnix.label       "Præferencer">
+<!ENTITY preferencesCmdUnix.label       "Indstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY clearRecentHistory.label               "Ryd seneste historik…">
@@ -381,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToToolbar.accesskey "y">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+     different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flyt til menu">
@@ -637,7 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediger præferencer for blokering af pop op-vinduer…">
+<!ENTITY editPopupSettingsUnix.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">

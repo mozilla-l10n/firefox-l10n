@@ -187,7 +187,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "t">
 <!ENTITY preferencesCmd2.label "Indstillinger">
 <!ENTITY preferencesCmd2.accesskey "I">
-<!ENTITY preferencesCmdUnix.label "Præferencer">
+<!ENTITY preferencesCmdUnix.label "Indstillinger">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!--  Mac OS X Window Menu -->
