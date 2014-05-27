@@ -149,19 +149,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!ENTITY backCmd.label "Wstecz" >
-<!ENTITY backCmd.accesskey "W" >
 <!ENTITY backButton.tooltip "Przejdź do poprzedniej strony" >
 <!ENTITY forwardCmd.label "Do przodu" >
-<!ENTITY forwardCmd.accesskey "P" >
 <!ENTITY forwardButton.tooltip "Przejdź do następnej strony" >
 <!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię">
 <!ENTITY backForwardButtonMenuMac.tooltip "Rozwiń, by wyświetlić historię">
 <!ENTITY reloadCmd.label "Odśwież" >
-<!ENTITY reloadCmd.accesskey "O" >
 <!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę" >
 <!ENTITY stopCmd.label "Zatrzymaj" >
-<!ENTITY stopCmd.accesskey "Z" >
-<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony" >
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
 <!ENTITY printButton.label "Drukuj" >
@@ -430,7 +426,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
 <!ENTITY setDesktopBackgroundCmd.accesskey "t" >
 <!ENTITY bookmarkPageCmd2.label "Dodaj zakładkę do tej strony">
-<!ENTITY bookmarkPageCmd2.accesskey "D">
 <!ENTITY bookmarkThisLinkCmd.label "Dodaj zakładkę do odnośnika">
 <!ENTITY bookmarkThisLinkCmd.accesskey "a">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
