@@ -54,6 +54,7 @@
 <!ENTITY back "خلف">
 <!ENTITY stop "أوقف">
 <!ENTITY site_security "أمن الموقع">
+<!ENTITY edit_mode_cancel "ألغِ">
 
 <!ENTITY close_tab "أغلق اللسان">
 <!ENTITY one_tab "لسان واحد">
@@ -67,26 +68,41 @@
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
 <!ENTITY pref_category_search3 "ابحث">
+<!ENTITY pref_category_search_summary "خصص مزودي البحث">
 <!ENTITY pref_category_display "العرض">
 <!ENTITY pref_category_privacy_short "الخصوصية">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
+<!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
 <!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
 <!ENTITY pref_category_search_restore_defaults "استعد محركات البحث">
 <!ENTITY pref_search_restore_defaults "استعد الإعدادات المبدئية">
 <!ENTITY pref_search_restore_defaults_summary "استعد الإعدادات المبدئية">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
 <!ENTITY pref_category_devtools "أدوات المطورين">
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
-<!ENTITY pref_developer_remotedebugging_docs "اطّلع على المزيد">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
 
 <!ENTITY pref_category_home "الرئيسية">
+<!ENTITY pref_category_home_summary "خصص صفحة البداية">
 <!ENTITY pref_category_home_panels "اللوحات">
+<!ENTITY pref_home_add_panel "أضف لوحة">
+<!ENTITY home_add_panel_title "أضف لوحة جديدة">
+<!ENTITY home_add_panel_empty "للأسف لم نعثر على أي لوحة لتضيفها.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "أضيفت \u0027&formatS;\u0027 إلى صفحة البداية">
+<!ENTITY pref_category_home_content_settings "إعدادات المحتوى">
+<!ENTITY pref_home_updates "التحديثات التلقائية">
+<!ENTITY pref_home_updates_enabled "مفعّلة">
+<!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
@@ -141,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "تزامُن">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
-<!ENTITY pref_private_data_history "تأريخ التصفح والتنزيلات">
-<!ENTITY pref_private_data_formdata "تأريخ البحث والنماذج">
-<!ENTITY pref_private_data_cookies2 "الكعكات والولوجات النشطة">
+<!ENTITY pref_private_data_history2 "تأريخ التصفح">
+<!ENTITY pref_private_data_formdata "تأريخ البحث و النماذج">
+<!ENTITY pref_private_data_cookies2 "الكعكات و الولوجات النشطة">
 <!ENTITY pref_private_data_passwords "كلمات السر المحفوظة">
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
-<!ENTITY pref_private_data_downloadFiles "الملفّات المُنزّلة">
+<!ENTITY pref_private_data_downloadFiles2 "التنزيلات">
 
 
 <!ENTITY pref_about_firefox "عن &brandShortName;">
@@ -163,13 +179,16 @@ size. -->
 
 <!ENTITY pref_panels_show "أظهِر">
 <!ENTITY pref_panels_hide "أخفِ">
+<!ENTITY pref_panels_reorder "غيّر الترتيب">
+<!ENTITY pref_panels_move_up "انقل لأعلى">
+<!ENTITY pref_panels_move_down "انقل لأسفل">
 
 <!ENTITY datareporting_notification_title "بيانات و إحصائيات &brandShortName;">
 <!ENTITY datareporting_notification_action_long "اختر أي المعلومات تشارِك">
-<!ENTITY datareporting_notification_action " اختر ما الذي تريد مشاركته">
-<!ENTITY datareporting_notification_summary "لتَحسين استخدامك له، يُرسل &brandShortName;  بعض المعلومات آليًا إلى &vendorShortName;.">
+<!ENTITY datareporting_notification_action "اختر ما الذي تريد مشاركته">
+<!ENTITY datareporting_notification_summary "لتَحسين استخدامك له، يُرسل &brandShortName; بعض المعلومات آليًا إلى &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "لتَحسين استخدامك له، &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -178,7 +197,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "تقرير حالة &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "يشارك بيانات مع &vendorShortName; عن حالة المتصفح و يساعدك في فهم أدائه.">
+<!ENTITY datareporting_fhr_summary2 "يشارك بيانات مع &vendorShortName; عن حالة المتصفح و يساعدك في فهم أدائه">
 <!ENTITY datareporting_abouthr_title "اعرض تقرير الحالة">
 <!ENTITY datareporting_telemetry_title "تليمتري">
 <!ENTITY datareporting_telemetry_summary "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
@@ -186,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "مُبلّغ الانهيار">
-<!ENTITY datareporting_wifi_title "خدمات التموضع من &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "ساعد في تحسين خدمات التموضع الجغرافي المفتوحة بالسماح ل‍&brandShortName; بجمع و إرسال معلومات مُجهّلة عن أبراج شبكة الهاتف المحمول.">
+<!ENTITY datareporting_wifi_title2 "خدمات التموضع من &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "يتلقى بينات التموضع من واي فاي و الاتصال الهاتفي أثناء العمل في الخلفية و يشاركها مع &vendorShortName; لتحسين خدماتنا للتموضع الجغرافي">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -210,6 +229,7 @@ size. -->
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY find_in_page "ابحث في الصفحة">
 <!ENTITY desktop_mode "اطلب موقع سطح مكتب">
+<!ENTITY page "الصفحة">
 <!ENTITY tools "أدوات">
 <!ENTITY new_tab "لسان جديد">
 <!ENTITY new_private_tab "لسان خاص جديد">
@@ -240,7 +260,7 @@ size. -->
 <!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
 <!ENTITY contextmenu_share "تشارَك">
-<!ENTITY contextmenu_pasteandgo "ألصق واذهب">
+<!ENTITY contextmenu_pasteandgo "ألصق و اذهب">
 <!ENTITY contextmenu_paste "لصق">
 <!ENTITY contextmenu_copyurl "انسخ العنوان">
 <!ENTITY contextmenu_edit_bookmark "حرِّر">
@@ -310,12 +330,20 @@ size. -->
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على أيقونة &#037;Ii عندما تظهر في شريط العنوان.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على أيقونة &formatI; عندما تظهر في شريط العنوان.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على زر وضع القارئ عندما يظهر في شريط العنوان.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "لم يُعثر على أي محتوى لهذه اللوحة.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "انتقل أعلى إلى &formatS;">
 
 <!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">
 
@@ -359,10 +387,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "يستورد التأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_wait "انتظر من فضلك...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "أتريد تفعيل اقتراحات بحث &formatS;؟">
+<!ENTITY suggestions_prompt3 "أتريد تفعيل اقتراحات البحث؟">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -397,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 <!ENTITY exit_guest_session_text "ستُحذف بيانات تصفح هذه الجلسة.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

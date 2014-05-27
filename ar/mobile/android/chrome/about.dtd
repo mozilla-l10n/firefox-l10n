@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; تجريبي وقد لا يكون مستقرا.">
 <!ENTITY aboutPage.telemetryStart               " يُرسل تلقائيا معلومات عن الأداء والعتاد والاستخدام والتخصيصات إلى ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "للمساعدة على تحسين &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 " للمساعدة على تحسين &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "التمس التحديثات »">
 <!ENTITY aboutPage.checkForUpdates.checking     "يبحث عن التحديثات…">
 <!ENTITY aboutPage.checkForUpdates.none         "لا تحديثات متوفرة">

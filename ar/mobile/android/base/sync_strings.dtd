@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.fullName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
 <!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
 <!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "صورة مربع اختيار حسابات فَيرفُكس">
-<!ENTITY fxaccount_icon_contentDescription2 "أيقونة حسابات فَيرفُكس">
-<!ENTITY fxaccount_intro_contentDescription2 "صورة مقدمة حسابات فَيرفُكس">
-<!ENTITY fxaccount_mail_contentDescription2 "صورة ظرف حسابات فَيرفُكس">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "البريد">
 <!ENTITY fxaccount_password_hint "كلمة السّر">
@@ -126,62 +119,88 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "عُد إلى التصفح">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "بنود الخدمة">
-<!ENTITY fxaccount_policy_linkprivacy "تنبيه الخصوصية">
+<!ENTITY fxaccount_policy_linktos "بنود خدمة">
+<!ENTITY fxaccount_policy_linkprivacy "تنبيه خصوصية">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "مرحبًا في &syncBrand.shortName.label;">
-
-
-
+<!ENTITY fxaccount_getting_started_description "لِج لمزامنة ألسنتك و علاماتك و كلمات السر و غيرها المزيد.">
+<!ENTITY fxaccount_getting_started_get_started "ابدأ">
+<!ENTITY fxaccount_getting_started_old_firefox "أستخدم إصدارة أقدم من &syncBrand.shortName.label;؟">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-
+<!ENTITY fxaccount_create_account_header2 "أنشئ حسابَ فَيَرفُكس">
+<!ENTITY fxaccount_create_account_password_length_restriction "يجب أن يكون طوله 8 محارف على الأقل">
+<!ENTITY fxaccount_create_account_year_of_birth "سنة الميلاد">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "بالمواصلة أوافق على &formatS1; و &formatS2; خدمات فَيَرفُكس السحابية.">
 <!ENTITY fxaccount_create_account_button "التالي">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "اختر ما الذي تريد مزامنته">
+<!ENTITY fxaccount_create_account_sign_in_instead "ألديك حساب بالفعل؟ لِج">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 أو ما قبلها">
+<!ENTITY fxaccount_create_account_unknown_error "تعذّر إنشاء الحساب">
 
-
-
-
-
-
+<!ENTITY fxaccount_account_create_not_allowed "تعذّر إنشاء الحساب">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "يجب أن تتخطى سنًا معينة لإنشاء حساب.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "اطّلع على المزيد">
 
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!ENTITY fxaccount_confirm_account_header "أكّد حسابك">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "أُرسل رابط التأكيد إلى &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "أعِد إرسال الرسالة">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "أُرسل بريد التأكيد">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "تعذّر إرسال بريد التأكيد">
+
+<!ENTITY fxaccount_sign_in_sub_header "لِج">
+<!ENTITY fxaccount_sign_in_button_label "لِج">
+<!ENTITY fxaccount_sign_in_forgot_password "أنسيت كلمة السر؟">
+<!ENTITY fxaccount_sign_in_create_account_instead "أنشئ حسابًا">
+<!ENTITY fxaccount_sign_in_unknown_error "تعذّر الولوج">
+
+<!ENTITY fxaccount_account_verified_sub_header "اُكّد الحساب">
+<!ENTITY fxaccount_account_verified_description2 "ستبدأ بياناتك في المزامنة آنيًا.">
+
+<!ENTITY fxaccount_update_credentials_header "لِج">
+<!ENTITY fxaccount_update_credentials_button_label "لِج">
+<!ENTITY fxaccount_update_credentials_unknown_error "تعذّر الولوج">
+
+<!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
+<!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: مُفعّل">
 
 
 
 
 
+<!ENTITY fxaccount_status_bookmarks "العلامات">
+<!ENTITY fxaccount_status_history "التأريخ">
+<!ENTITY fxaccount_status_passwords "كلمات السر">
+<!ENTITY fxaccount_status_tabs "الألسنة المفتوحة">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "بنود الخدمة">
+<!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
+<!ENTITY fxaccount_options_title "خيارات &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "اضبط &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
@@ -195,4 +214,4 @@
 
 
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
