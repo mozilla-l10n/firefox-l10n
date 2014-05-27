@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "العنوان غير مفهوم">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>قد تحتاج أن تثبّت برنامجًا آخر لفتح هذا الموقع.</li> 
 </ul>">
 
