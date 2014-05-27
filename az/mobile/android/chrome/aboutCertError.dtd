@@ -31,6 +31,6 @@ oynadığını mənasını verə bilər.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu sayta, etibar edilən bir kimlik məlumatı təqdim etməməsi 
 üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
 <!ENTITY certerror.addTemporaryException.label "Baxış tarixi">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+
 
 <!ENTITY certerror.technical.heading "Teknik ayrıntılar">

@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Yükləmə">
-<!ENTITY aboutDownloads.header                     "Your Downloads">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+
+
 
 <!ENTITY aboutDownloads.open                       "Open">
 <!ENTITY aboutDownloads.remove                     "Delete">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
+
 <!ENTITY aboutDownloads.pause                      "Dayandır">
 <!ENTITY aboutDownloads.resume                     "Devam et">
 <!ENTITY aboutDownloads.cancel                     "ləğv et">
