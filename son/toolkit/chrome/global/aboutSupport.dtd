@@ -11,21 +11,22 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Bayrandi boŋtammaasa">
-
-
+<!ENTITY aboutSupport.crashes.sendDate "Sanba han">
+<!ENTITY aboutSupport.crashes.allReports "Kaŋyan bayrandikey kul">
 
 
 <!ENTITY aboutSupport.extensionsTitle "Dobuyaney">
 <!ENTITY aboutSupport.extensionName "Maa">
 <!ENTITY aboutSupport.extensionEnabled "Tunante">
 <!ENTITY aboutSupport.extensionVersion "Dumi">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "Šiiyan se alhaaley">
+<!ENTITY aboutSupport.experimentName "Maa">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Šilbayyan">
 <!ENTITY aboutSupport.experimentActive "Dirante">
-
+<!ENTITY aboutSupport.experimentEndDate "Ben han">
 <!ENTITY aboutSupport.experimentHomepage "Šintinmoo">
 
 
