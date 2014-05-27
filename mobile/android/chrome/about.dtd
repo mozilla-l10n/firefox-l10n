@@ -15,7 +15,7 @@
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "ସହାୟତା">
 <!ENTITY aboutPage.privacyPolicy.label          "ଗୋପନୀୟତା ନିତୀ">
-<!ENTITY aboutPage.rights.label                 "ଆପଣଙ୍କ ଅଧିକାରକୁ ଜାଣନ୍ତୁ">
-<!ENTITY aboutPage.relNotes.label               "ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ">
-<!ENTITY aboutPage.credits.label                "ସ୍ବୀକୃତି ">
-<!ENTITY aboutPage.license.label                "ଅନୁମତିପତ୍ର ସୂଚନା">
+<!ENTITY aboutPage.rights.label                 "ନିଜର ଅଧିକାରମାନ ଜାଣନ୍ତୁ">
+<!ENTITY aboutPage.relNotes.label               "ପ୍ରକାଶନ ଟିପ୍ପଣୀମାନ">
+<!ENTITY aboutPage.credits.label                "ଶ୍ରେୟ">
+<!ENTITY aboutPage.license.label                "ଅନୁମତି ସୂଚନା">

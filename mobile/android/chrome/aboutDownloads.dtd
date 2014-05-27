@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "ଆହରଣଗୁଡ଼ିକ">
-<!ENTITY aboutDownloads.header                     "ଆପଣଙ୍କର ଆହରଣଗୁଡ଼ିକ">
+<!ENTITY aboutDownloads.title                      "ଆହରଣମାନ">
+<!ENTITY aboutDownloads.header                     "ଆପଣଙ୍କର ଆହରଣମାନ">
 <!ENTITY aboutDownloads.empty                      "କୌଣସି ଆହରଣ ନାହିଁ">
 
 <!ENTITY aboutDownloads.open                       "ଖୋଲନ୍ତୁ">
-<!ENTITY aboutDownloads.remove                     "ଅପସାରଣ କରନ୍ତୁ">
-<!ENTITY aboutDownloads.removeAll                  "ସବୁକିଛି ଅପସାରଣ କରନ୍ତୁ">
+<!ENTITY aboutDownloads.remove                     "ଲିଭାନ୍ତୁ">
+<!ENTITY aboutDownloads.removeAll                  "ସବୁକିଛି ଲିଭାନ୍ତୁ">
 <!ENTITY aboutDownloads.pause                      "ବିରତି">
-<!ENTITY aboutDownloads.resume                     "ପୁନଃ ଚଳନ">
-<!ENTITY aboutDownloads.cancel                     "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY aboutDownloads.resume                     "ପୁନଃଚାଳନ">
+<!ENTITY aboutDownloads.cancel                     "ବାତିଲ">
 <!ENTITY aboutDownloads.retry                      "ପୁନଃପ୍ରୟାସ କରନ୍ତୁ">
