@@ -18,7 +18,7 @@
 <!ENTITY retentionUseAccount.label "Usar los datos de mi cuenta">
 <!ENTITY retentionUseAccount.accesskey "i">
 <!ENTITY daysOld.label "días de antigüedad">
-<!ENTITY message.label "mensajes">
+<!ENTITY message.label "mensajes más recientes">
 <!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes antiguos se pueden eliminar permanentemente.">
 <!ENTITY retentionCleanupImap.label "Para recuperar espacio en disco, los mensajes antiguos pueden eliminarse permanentemente, tanto las copias locales como los originales en el servidor remoto.">
 <!ENTITY retentionCleanupPop.label "Para recuperar espacio en disco, los mensajes antiguos pueden eliminarse permanentemente, incluyendo los originales en el servidor remoto.">
@@ -26,7 +26,7 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No eliminar ningún mensaje">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Eliminar todos excepto los más recientes">
+<!ENTITY retentionKeepRecent.label "Eliminar todos excepto los">
 <!ENTITY retentionKeepRecent.accesskey "x">
 <!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensajes leídos (prevalece sobre la configuración de antigüedad)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre los mensajes con estrella">
