@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY csscoverage.backButton "Wstecz">
+<!ENTITY csscoverage.unused "Nieużywane reguły">
+<!ENTITY csscoverage.noMatch "Żadne elementy nie zostały dopasowane do następujących selektorów podczas testu - możliwe, że mogą zostać bezpiecznie usunięte.">
+<!ENTITY csscoverage.optimize "Optymalizowalne strony">
+
+<!ENTITY csscoverage.preload1 "Czasami można przyśpieszyć wczytywanie przenosząc wszystkie elementy">
+<!ENTITY csscoverage.preload2 "na dół strony (gdzie nie zatrzymają wczytywania strony) i tworząc w jej treści (na górze strony) nowy element">
+<!ENTITY csscoverage.preload3 "zawierający następujące reguły:">
+
+<!ENTITY csscoverage.noPreload "Wszystkie reguły znajdują się w treści strony. Obecnie nie mamy żadnych propozycji odnośnie poprawy wydajności tej strony.">
+
+<!ENTITY csscoverage.footer1 "Więcej informacji na temat sposobu generowania raportów można znaleźć">
+<!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "w artykule MDN o tym narzędziu">
+<!ENTITY csscoverage.footer4 ".">
