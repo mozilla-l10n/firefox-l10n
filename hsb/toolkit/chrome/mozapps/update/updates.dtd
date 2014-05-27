@@ -65,8 +65,8 @@ přepruwować, tohodla sćahuje nětko dospołny aktualizaciski pakćik.">
 
 <!ENTITY  error.title                     "Aktualizowanje je so njeporadźiło">
 
-<!ENTITY  error.label                     "Běchu problemy při pruwowanju za tutej aktualizaciju, při jeje sćahowanju 
-abo při jeje instalowanju. Njeje móžno było, &brandShortName; aktualizować, dokelž:">
+<!ENTITY  error.label                     "Běchu problemy při pruwowanju za tutej aktualizaciju, při jeje 
+sćahowanju abo při jeje instalowanju. Njeje móžno było, &brandShortName; aktualizować, dokelž:">
                                            
 <!ENTITY  errorManual.label               "Móžeće &brandShortName; manuelnje aktualizować, hdyž tutón wotkaz 
 wopytujeće a najnowšu wersiju sćahujeće:">
