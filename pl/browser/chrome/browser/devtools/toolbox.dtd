@@ -72,8 +72,8 @@
 <!ENTITY options.profiler.label "Profiler JavaScript">
 
 <!ENTITY options.commonPrefs.label "Ogólne">
-<!ENTITY options.enablePersistentLogging.label "Trwałe dzienniki">
-<!ENTITY options.enablePersistentLogging.tooltip "Po włączeniu tej opcji konsola www oraz monitor sieci nie będą czyścić wyjścia po przejściu do kolejnej strony">
+<!ENTITY options.enablePersistentLogs.label "Trwałe dzienniki">
+<!ENTITY options.enablePersistentLogs.tooltip "Po włączeniu tej opcji konsola www oraz monitor sieci nie będą czyścić wyjścia po przejściu do kolejnej strony">
 
 <!ENTITY options.showPlatformData.label "Wyświetlaj informacje platformy Gecko">
 <!ENTITY options.showPlatformData.tooltip "Po włączeniu tej opcji Profiler JavaScript będzie raportował symbole platformy Gecko">
