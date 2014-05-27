@@ -4,7 +4,7 @@
 <!-- extracted from am-main.xul -->
 
 
-<!ENTITY accountTitle.label "Roghainnean nan cunntas">
+<!ENTITY accountTitle.label "Roghainnean a' chunntais">
 <!ENTITY accountName.label "Ainm a' chunntais:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "An dearbh-aithne bhunaiteach">

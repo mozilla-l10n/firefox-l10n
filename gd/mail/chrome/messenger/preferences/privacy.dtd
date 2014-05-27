@@ -3,20 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
+<!ENTITY captionMailContent.label "Susbaint puist">
 
-
-
-
+<!ENTITY acceptRemoteContent.label "Ceadaich susbaint chèin ann an teachdaireachd">
+<!ENTITY acceptRemoteContent.accesskey "a">
+<!ENTITY remoteContentExceptions.label "Eisgeachdan...">
+<!ENTITY remoteContentExceptions.accesskey "s">
+<!ENTITY acceptRemoteContentInfo.label "Barrachd fiosrachaidh air ceistean prìobhaideachd a thaobh susbaint chèin">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Susbaint-lìn">
 
-
-
-
-
-
-
+<!ENTITY acceptCookies.label "Gabh ri briosgaidean o làraichean">
+<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY acceptThirdParty.pre.label "Gabh ri briosgaidean treas pàrtaidh:">
+<!ENTITY acceptThirdParty.pre.accesskey "G">
+<!ENTITY acceptThirdParty.always.label "An-còmhnaidh">
+<!ENTITY acceptThirdParty.never.label "Chan ann idir">
+<!ENTITY acceptThirdParty.visited.label "O fheadhainn air an deach tadhal">
 <!ENTITY keepUntil.label "Cum gus:">
 <!ENTITY keepUntil.accesskey "C">
 <!ENTITY expire.label "am falbh an ùine orra">
@@ -27,10 +31,11 @@
 <!ENTITY showCookies.label "Seall na briosgaidean…">
 <!ENTITY showCookies.accesskey "S">
 
-
-
-
-
-
-
+<!ENTITY dntTrackingNopref.label2 "Na innis do làraichean dè na roghainnean tracaidh a tha agam">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Innis do làraichean-lìn gum faod iad mo thracadh">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Barrachd fiosrachaidh air a&apos; ghleus &quot;Na tracaich orm&quot;">
 

@@ -23,14 +23,15 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud">
 <!ENTITY  sendTyping.accesskey          "c">
 
-
-
-
-
+<!ENTITY  chatNotifications.label             "Nuair a thig teachdaireachd a-steach is ann dhomhsa:">
+<!ENTITY  desktopChatNotifications.label      "Seall brath">
+<!ENTITY  desktopChatNotifications.accesskey  "b">
+<!ENTITY  chatSound.accesskey                 "f">
+<!ENTITY  chatSound.label                     "Cluich fuaim">
 <!ENTITY  play.label                          "Cluich">
 <!ENTITY  play.accesskey                      "C">
-
-
+<!ENTITY  systemSound.label                   "Fuaim bhunaiteach an t-siostaim airson post ùr">
+<!ENTITY  systemSound.accesskey               "F">
 <!ENTITY  customsound.label                   "Cleachd an fhuaim a leanas">
 <!ENTITY  customsound.accesskey               "u">
 <!ENTITY  browse.label                        "Brabhsaich…">

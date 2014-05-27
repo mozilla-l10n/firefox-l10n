@@ -13,6 +13,6 @@
 <!ENTITY paneComposition.title    "Sgrìobhadh">
 <!ENTITY paneChat.title           "Cabadaich">
 <!ENTITY paneAttachments.title    "Ceanglachain">
-
+<!ENTITY panePrivacy.title        "Prìobhaideachd">
 <!ENTITY paneSecurity.title       "Tèarainteachd">
 <!ENTITY paneAdvanced.title       "Adhartach">

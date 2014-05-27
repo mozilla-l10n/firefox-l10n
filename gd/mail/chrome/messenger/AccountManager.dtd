@@ -4,7 +4,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Roghainnean nan cunntas">
+<!ENTITY accountManagerTitle.label "Roghainnean a' chunntais">
 
 <!ENTITY accountActionsButton.label "Gnìomhan nan cunntas">
 <!ENTITY accountActionsButton.accesskey "a">

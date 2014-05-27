@@ -88,11 +88,11 @@
 <!ENTITY selectAllCmd.label "Tagh a h-uile">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-
-
-
-
-
+<!ENTITY findBarCmd.label "Lorg...">
+<!ENTITY findBarCmd.accesskey "L">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Lorg is cuir 'na àite…">
+<!ENTITY findReplaceCmd.accesskey "L">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Lorg a-rithist">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Leabhar nan seòladh">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Roghainnean a' chunntais">
+<!ENTITY accountManagerCmd2.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Roghainnean">
+<!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
