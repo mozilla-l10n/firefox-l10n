@@ -37,7 +37,7 @@
 <!ENTITY preferencesCmd.label "Indstillinger…">
 <!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Indstillinger">
-<!ENTITY preferencesCmdUnix.accesskey "P">
+<!ENTITY preferencesCmdUnix.accesskey "I">
 
 <!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
