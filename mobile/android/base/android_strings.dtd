@@ -9,7 +9,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Maantore">
-
+<!ENTITY  history_title "Aslol">
 <!ENTITY  reading_list_title "Doggol Taro">
 
 <!ENTITY  switch_to_tab "Yah to tabbere">
@@ -47,14 +47,14 @@
 <!ENTITY history_older_section "Hecci balɗe 7">
 
 <!ENTITY go "Yah">
-
+<!ENTITY search "Yiylo">
 <!ENTITY reload "Hesɗitin">
 <!ENTITY forward "Yeeso">
-
+<!ENTITY menu "Dosol">
 <!ENTITY back "Caggal">
-
+<!ENTITY stop "Dartin">
 <!ENTITY site_security "Kisal Lowre">
-
+<!ENTITY edit_mode_cancel "Haaytu">
 
 <!ENTITY close_tab "Uddu Tabbere">
 <!ENTITY one_tab "tabbere 1">
@@ -67,36 +67,39 @@
 <!ENTITY settings_title "Teelte">
 <!ENTITY pref_category_advanced "Ceeɓore">
 <!ENTITY pref_category_customize "Heertin">
-
-
+<!ENTITY pref_category_search3 "Yiylo">
+<!ENTITY pref_category_search_summary "Heertin carwinooɓe njiilaw maa">
 <!ENTITY pref_category_display "Jaytino">
 <!ENTITY pref_category_privacy_short "Suturo">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
 <!ENTITY pref_learn_more "Ɓeydu humpito">
 <!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
-
-
-
-
+<!ENTITY pref_category_add_search_providers "Ɓeydu carwinooɓe njiilaw woɗɓe">
+<!ENTITY pref_category_search_restore_defaults "Artir jiylorɗe">
+<!ENTITY pref_search_restore_defaults "Artir goowaaɗe">
+<!ENTITY pref_search_restore_defaults_summary "Artir goowaaɗe">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "TIP: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa tappaa e maanndel &formatI; ngel.">
 <!ENTITY pref_category_devtools "Kuutorɗe topaajo">
 <!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
 <!ENTITY pref_remember_signons "Siiftor finndeeji">
 
-
-
-
-
-
+<!ENTITY pref_category_home "Damal">
+<!ENTITY pref_category_home_summary "Heertin Jaɓɓorgo maa">
+<!ENTITY pref_category_home_panels "Alluuje">
+<!ENTITY pref_home_add_panel "Ɓeydu alluwal">
+<!ENTITY home_add_panel_title "Ɓeydu alluwal kesal">
+<!ENTITY home_add_panel_empty "Ɗaacu hakke, min niytaani hay alluwal ɓeydeteengal.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
+<!ENTITY home_add_panel_installed "&formatS; ɓeydaama to jaɓɓorgo">
+<!ENTITY pref_category_home_content_settings "Teelte loowdi">
 <!ENTITY pref_home_updates "Kesɗitine jaajol">
 
 
@@ -168,16 +171,19 @@ size. -->
 
 <!ENTITY pref_vendor_feedback "Hokku duttinal">
 
+<!ENTITY pref_dialog_set_default "Waɗtu goowaaɗo">
 <!ENTITY pref_dialog_default "Goowaaɗo">
+<!ENTITY pref_dialog_remove "Momtu">
 
-
+<!ENTITY pref_search_last_toast "A waawaa momtude walla daaƴde yiilorde maa sakkitiinde.">
 
 <!ENTITY pref_panels_show "Hollu">
+<!ENTITY pref_panels_hide "Suuɗ">
+<!ENTITY pref_panels_reorder "Waylu deggondiral">
+<!ENTITY pref_panels_move_up "Faarnu dow">
+<!ENTITY pref_panels_move_down "Faarnu les">
 
-
-
-
-
+<!ENTITY datareporting_notification_title "imlimte &amp; keɓe &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Suɓo humpito ngo lollintaa">
 <!ENTITY datareporting_notification_action "Suɓo ko lollintee">
 <!ENTITY datareporting_notification_summary "Ngam ƴellitde dawtol maa, &brandShortName; neldat won humpito e jaajol to &vendorShortName;.">
@@ -199,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
-
-
+<!ENTITY datareporting_wifi_title2 "Carwol Nokkuure &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Heɓat keɓe Wifi e selulleer so ena doga e cakkitol tee rennda ɗum e &vendorShortName; ngam ƴellitde carwol tolnitorde amen">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -247,7 +253,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
 <!ENTITY contextmenu_open_in_reader "Uddit e Tarirde">
-
+<!ENTITY contextmenu_remove "Momtu">
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
 <!ENTITY contextmenu_share "Simmin">
 <!ENTITY contextmenu_pasteandgo "Ɗakku Njahaa">
@@ -256,16 +262,18 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Taƴto">
 <!ENTITY contextmenu_subscribe "Lulno e Hello">
 <!ENTITY contextmenu_site_settings "Taƴto Teelte Lowre">
-
-
-
-
+<!ENTITY contextmenu_top_sites_edit "Taƴto">
+<!ENTITY contextmenu_top_sites_pin "Ñippu Lowre">
+<!ENTITY contextmenu_top_sites_unpin "Ñippit Lowre">
+<!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
 
 <!ENTITY pref_titlebar_mode "Palal tiitoonde">
 <!ENTITY pref_titlebar_mode_title "Hollu tiitoonde hello">
 <!ENTITY pref_titlebar_mode_url "Hollu ñiiɓirde hello">
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Woro palal tiitoonde">
 
 <!ENTITY history_removed "Hello momtaama">
 
@@ -288,6 +296,8 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Baɗe Goɗɗe">
+
 <!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
 <!ENTITY masterpassword_remove_title "Momtu Finnde Baabaare">
 <!ENTITY masterpassword_password "Finnde">
@@ -304,8 +314,10 @@ size. -->
 <!ENTITY home_top_sites_title "Lowe Dowrowe">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Ɓeydu lowre">
 
-
+<!ENTITY home_history_title "Aslol">
+<!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
 
 <!ENTITY home_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
 
@@ -365,14 +377,18 @@ iwde e Android">
 iwde e Android">
 <!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
 
+<!ENTITY suggestions_prompt3 "Aɗa yiɗi hurminde basiye njiilaw?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Yiylo &formatS1; e &formatS2;">
 
 <!ENTITY webapp_generic_name "Jaaɓngal">
 
 <!ENTITY searchable_description "Maantore e aslol">
 
+<!ENTITY devtools_remote_debugging_forward "Hoto yejjit teeltaade ɓenningol poor!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Kesɗitinal &brandShortName; ena woodi">
@@ -387,12 +403,15 @@ iwde e Android">
 <!ENTITY updater_apply_select2 "Mem ɗoo ngam hesɗitinde">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "Naatannde Koɗo Hesere">
+<!ENTITY exit_guest_session "Yaltu Naatannde Koɗo">
 <!ENTITY guest_session_dialog_continue "Jokku">
+<!ENTITY guest_session_dialog_cancel "Haaytu">
+<!ENTITY new_guest_session_title "&brandShortName; maa hurmu jooni">
+<!ENTITY new_guest_session_text "Neɗɗo kuutortooɗo ɗum oo waawataa yiyde hay baɗte e keɓe maa keeriiɗe (wano finndeeji danndaaɗi, aslol walla maantore).\n\n So koɗo haljitii, keɓe banngagol mum maa momte kisa naatannde maa artiree.">
 
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; maa hurmu jooni">
+<!ENTITY exit_guest_session_text "Keɓe banngagol ndee naatannde maa momte.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
