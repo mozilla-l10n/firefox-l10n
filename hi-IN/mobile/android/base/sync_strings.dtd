@@ -165,7 +165,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "साइन-इन नहीं कर सका">
 
 <!ENTITY fxaccount_account_verified_sub_header "खाता सत्यापित किया गया">
-<!ENTITY fxaccount_account_verified_description2 "आपके आकड़े कुछही शनोमे सिंक होनेवाला है.">
+<!ENTITY fxaccount_account_verified_description2 "आपका डाटा कुछ ही क्षणों मे सिंक होने वाला है.">
 
 <!ENTITY fxaccount_update_credentials_header "साइन इन">
 <!ENTITY fxaccount_update_credentials_button_label "साइन इन">

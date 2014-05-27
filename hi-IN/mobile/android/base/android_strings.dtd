@@ -4,7 +4,7 @@
 
 
 <!ENTITY  no_space_to_start_error "&brandShortName; और के लिए पर्याप्त स्थान उपलब्ध नहीं है; शुरू करने के लिए.">
-<!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुइ;">
+<!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुई;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -84,7 +84,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ेने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को स्पर्श करें. ">
+<!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
 <!ENTITY pref_category_devtools "डेवलेपर औज़ार">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
@@ -98,7 +98,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 होमपेज पर जोड़ा गया है">
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 मुखपृष्ठ पर जोड़ा गया">
 <!ENTITY pref_category_home_content_settings "अंतर्वस्तु सेटिंग">
 <!ENTITY pref_home_updates "स्वतः अद्यतन">
 <!ENTITY pref_home_updates_enabled "सक्षम">
@@ -199,7 +199,7 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य रपट">
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; के साथ ब्राउज़र के स्वास्थ्य का आँकड़ा साझा करता है और आपके अपने ब्राउज़र की कार्यकुशलता को समझने में मदद करता है">
 <!ENTITY datareporting_abouthr_title "मेरी स्वास्थ्य रपट देखें">
-<!ENTITY datareporting_telemetry_title "टेलीमिति">
+<!ENTITY datareporting_telemetry_title "दूरमिति">
 <!ENTITY datareporting_telemetry_summary "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए कार्यकुशलता, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करता है">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; क्रैश रपट सौंपता है ताकि आपके ब्राउज़र को स्थायित्व और सुरक्षा देने में &vendorShortName; की मदद हो">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
@@ -212,7 +212,7 @@ size. -->
      actual notification that an update is available. -->
 
 <!ENTITY pref_update_autodownload2 "अद्यतन स्वतः डाउनलोड करें">
-<!ENTITY pref_update_autodownload_wifi "केवल Wi-Fi पर">
+<!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_update_autodownload_never "कभी नहीं">
 <!ENTITY pref_update_autodownload_always "हमेशा">
 
@@ -260,7 +260,7 @@ size. -->
 <!ENTITY contextmenu_remove "हटाएँ">
 <!ENTITY contextmenu_add_to_launcher "मुख्य स्क्रीन में जोड़ें">
 <!ENTITY contextmenu_share "साझा करें">
-<!ENTITY contextmenu_pasteandgo "चिपकाएँ और बढ़ें">
+<!ENTITY contextmenu_pasteandgo "चिपकाएँ व जाएँ">
 <!ENTITY contextmenu_paste "चिपकाएँ">
 <!ENTITY contextmenu_copyurl "पता नक़ल करें">
 <!ENTITY contextmenu_edit_bookmark "संपादन">
@@ -332,7 +332,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "संकेत: आलेखों को अपनी पठन सूची में सहेजें  &formatI; चिह्न को अधिक देर तक दबाकर जब यह शीर्षक पट्टी में दिखता है.">
+<!ENTITY home_reading_list_hint2 "नुस्ख़ा: जब यह &formatI; चिह्न शीर्षक पट्टी में दिखे तो इसे थोड़ी देर तक दबाकर आलेख अपनी पाठ सूची में सहेजें.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "नुस्ख़ा: जब रीडर अवस्था बटन शीर्षक पट्टी में दिखे तो इसे थोड़ी देर तक दबाकर लेखों को पाठ सूची में सहेजें.">
@@ -388,7 +388,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 का आयात जारी">
 <!ENTITY bookmarkhistory_import_wait "कृपया इंतजार करें...">
 
-<!ENTITY suggestions_prompt3 "आप खोज सुझाव को चालू करना चाहेंगे?">
+<!ENTITY suggestions_prompt3 "क्या खोज सुझाव को चालू करना चाहेंगे?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
