@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Verificacion dels certificats en cors…">
 <!ENTITY certmgr.subjectinfo.label            "Emes cap a">
 <!ENTITY certmgr.issuerinfo.label             "Emes per">
-
+<!ENTITY certmgr.periodofvalidity.label       "Periòde de Validitat" >
 <!ENTITY certmgr.fingerprints.label           "Emprenchas numericas">
 <!ENTITY certmgr.certdetail.title             "Detalhs del certificat">
 <!ENTITY certmgr.certdetail.cn                "Nom comun (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Servidor">
 <!ENTITY certmgr.override_lifetime            "Durada de vida">
 <!ENTITY certmgr.tokenname                    "Periferic de seguretat">
-
+<!ENTITY certmgr.begins                       "Comença lo">
 <!ENTITY certmgr.expires                      "Expira lo">
 <!ENTITY certmgr.email                        "Adreça electronica">
 <!ENTITY certmgr.serial                       "Numèro de seria">
