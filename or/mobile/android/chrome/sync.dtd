@@ -23,7 +23,7 @@
 <!ENTITY sync.setup.connect         "ସଂଯୋଗ କରନ୍ତୁ">
 <!ENTITY sync.setup.cancel          "ବାତିଲ କରନ୍ତୁ">
 <!ENTITY sync.setup.tutorial        "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ">
-<!ENTITY sync.setup.waiting2        "ଅନ୍ୟ ଯନ୍ତ୍ର ପାଇଁ ଅପେକ୍ଷା କରିଛୁ…">
+<!ENTITY sync.setup.waiting2        "ଅନ୍ୟ ଉପକରଣ ପାଇଁ ଅପେକ୍ଷା କରିଛି…">
 
 <!ENTITY sync.pair.title            "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
 <!ENTITY sync.pair.description      "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ  &quot;Sync ବ୍ୟବସ୍ଥା କରନ୍ତୁ&quot;କୁବାଛନ୍ତୁ।">
