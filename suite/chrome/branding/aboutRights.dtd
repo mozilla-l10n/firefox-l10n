@@ -15,15 +15,25 @@
 <!ENTITY rights.intro-point3a "Las políticas de privacidad de los productos de &vendorShortName; se pueden encontrar ">
 <!ENTITY rights.intro-point3b "aquí">
 <!ENTITY rights.intro-point3c ".">
-<!ENTITY rights.intro-point4a "&brandShortName; ofrece servicios de información opcionales en sitios web, como el servicio de actualización de complementos; sin embargo, no podemos garantizar que sean 100&#037; precisos o libres de error. Se pueden encontrar más detalles, incluyendo información sobre cómo desactivar los servicios en los ">
+<!ENTITY rights2.intro-point4a "&brandShortName; ofrece servicios opcionales de información sobre sitios web, tales como los servicios de complementos o el de navegación segura; sin embargo, no podemos garantizar que sean 100&#037; precisos ni libres de errores. Pueden encontrarse más detalles, incluyendo información sobre cómo desactivar los servicios, en los ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 <!ENTITY rights.webservices-header "Servicios de sitios web de &brandFullName;">
-<!ENTITY rights.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;servicios&quot;), tales como el servicio de actualización de complementos, que están disponibles para su uso con esta versión binaria de &brandShortName; tal y como se describe más abajo. Si no quiere usar los servicios o los términos siguientes no son aceptables, puede desactivar el servicio de actualización de complementos abriendo las preferencias de la aplicación, seleccionando la sección ">
-<!ENTITY rights.webservices-b "Avanzadas">
-<!ENTITY rights.webservices-c ", seguida de la entrada ">
-<!ENTITY rights.webservices-d "Instalación de software">
-<!ENTITY rights.webservices-e ", y desmarcar las opciones &quot;Buscar actualizaciones automáticamente para&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Servicios&quot;), tales como los servicios de sugerencias y actualización de complementos o la característica de navegación segura, que están disponibles para su uso con esta versión binaria de &brandShortName; como se describe más abajo. Estos servicios están activados por defecto. Si no quiere usar los Servicios o los términos de debajo no le resultan aceptables, puede encontrar instrucciones sobre cómo desactivar un Servicio o característica particular ">
+<!ENTITY rights2.webservices-b "aquí">
+<!ENTITY rights2.webservices-c ". Otras características y Servicios pueden desactivarse en las preferencias de la aplicación.">
+<!ENTITY rights.addons-a "Servicios de complementos:">
+<!ENTITY rights.addons-b "Por defecto, &brandShortName; sugerirá complementos en la página &view.discover.label; y buscará actualizaciones a intervalos regulares. Si desea desactivar estas características para evitar la comunicación al servidor de información sobre complementos instalados, siga estos pasos:">
+<!ENTITY rights.addons-term1 "Abra las preferencias de la aplicación">
+<!ENTITY rights.addons-term2 "Seleccione el panel &smart.label; en la categoría &advance.label;">
+<!ENTITY rights.addons-term3 "Desmarque las opciones &quot;&autoAddOnsUpdates.label;&quot; y &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Los servicios de complementos están ahora desactivados">
+<!ENTITY rights.safebrowsing-a "Navegación segura:">
+<!ENTITY rights.safebrowsing-b "No se recomienda desactivar la característica de navegación segura ya que puede suponer que visite sitios inseguros. Si desea desactivar la característica por completo, siga estos pasos:">
+<!ENTITY rights.safebrowsing-term1 "Abra las preferencias de la aplicación">
+<!ENTITY rights.safebrowsing-term2 "Seleccione el panel principal &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Desmarque las opciones &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "La navegación segura está ahora desactivada">
 <!ENTITY rights.webservices-term1 "&vendorShortName; puede abandonar o cambiar los servicios a su discreción.">
 <!ENTITY rights.webservices-term2 "Está invitado a usar estos servicios con la versión correspondiente de &brandShortName;, y dispone de los derechos necesarios para hacerlo. &vendorShortName; y sus licenciatarios se reservan todos los demás derechos en los servicios. Estos términos no están orientados a limitar ningún derecho otorgado bajo las licencias de código abierto aplicables a &brandShortName; y a las versiones de código abierto correspondientes de &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Los servicios se proporcionan &quot;tal cual&quot;. &vendorShortName;, sus colaboradores, licenciatarios y distribuidores rechazan toda garantía, ya sea expresa o implícita, incluyendo sin limitarse, garantías de que el servicio es comercializable y que cumple con su necesidad particular. Usted asume todo el riesgo al seleccionar este servicio sobre su propósito así como sobre la calidad y rendimiento del servicio. Algunas jurisdicciones no permiten la exclusión o limitación de las garantías implícitas, así que esta denegación puede no aplicarse en su caso.">
