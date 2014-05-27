@@ -54,7 +54,7 @@
 <!ENTITY back "Air ais">
 <!ENTITY stop "Sguir dheth">
 <!ENTITY site_security "Tèarainteachd na làraich">
-<!ENTITY save "Sàbhail">
+<!ENTITY edit_mode_cancel "Sguir dheth">
 
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY one_tab "1 taba">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
+<!ENTITY pref_learn_more "Barrachd fiosrachaidh">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
 <!ENTITY pref_category_add_search_providers "Cuir barrachd solaraichean luirg ris">
 <!ENTITY pref_category_search_restore_defaults "Aisig na h-einnseanan-luirg">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige \u0027s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
-<!ENTITY pref_developer_remotedebugging_docs "Barrachd fiosrachaidh">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 
 <!ENTITY pref_category_home "Dhachaigh">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
-<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_history2 "An eachdraidh brabhsaidh">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings2 "Roghainnean na làraich">
-<!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_downloadFiles2 "Luchdaidhean a-nuas">
 
 
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Seall">
 <!ENTITY pref_panels_hide "Falaich">
+<!ENTITY pref_panels_reorder "Atharraich an t-òrdugh">
+<!ENTITY pref_panels_move_up "Gluais suas">
+<!ENTITY pref_panels_move_down "Gluais sìos">
 
 <!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
-<!ENTITY datareporting_wifi_title "Seirbheisean ionaid &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Nach cuidich thu leinn a\u0027 leasachadh nan seirbheisean geò-lorgaidh airson an lìn fhosgailte \u0027s thoir cead dha &brandShortName; dàta gun urra a chruinneachadh o chrainn nam fònaichean-làimhe \u0027s a chur thugainn?">
+<!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Gheibh seo dàta WiFi is dàta mu ionad an fhòn-làimhe nuair a ruitheas e sa chùlaibh agus co-roinnidh e seo le &vendorShortName; ach an urrainn dhuinn an t-seirbheis geò-lorgadh againn a leasachadh">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
-<!ENTITY reading_list_add "Cuir ris an liosta leughaidh">
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Cha deach susbaint sam bith a lorg airson na panail seo.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Suas gu &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 
@@ -417,6 +423,12 @@ o Android">
 
 <!ENTITY exit_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
 <!ENTITY exit_guest_session_text "Thèid dàta brabhsadh an t-seisein seo a sguabadh às.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

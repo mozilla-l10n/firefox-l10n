@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Feumaidh tu an cunntas agad a dhearbhadh. Thoir gnogag gus post-d dearbhaidh ath-chur.">
 <!ENTITY fxaccount_status_needs_credentials "Cha ghabh ceangal a dhèanamh. Thoir gnogag gus clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_upgrade "Feumaidh tu &brandShortName; àrdachadh mus urrainn dhut clàradh a-steach.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Data Usage.">
+<!ENTITY fxaccount_status_needs_account_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Thoir gnogag gus tòiseachadh air an t-sioncronachadh.">
 <!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
 <!ENTITY fxaccount_status_passwords "Faclan-faire">
