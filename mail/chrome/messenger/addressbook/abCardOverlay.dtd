@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Bilinmiyor">
 <!ENTITY chatName.label                 "Sohbet adı:">
 
-<!ENTITY allowRemoteContent1.label      "Uzak içeriği kabul et.">
-<!ENTITY allowRemoteContent1.accesskey  "U">
-<!ENTITY allowRemoteContent1.tooltip    "HTML iletilere uzak kaynaklardan içerik gömmek mümkündür. Böyle bir iletiyi açtığınızda bu harici kaynağa bağlı kurulur. Bu, iletinin okunup okunmadığının takip edilmesini sağlayabilir. Bu kutuyu işaretlerseniz, bu kişiden gelen HTML iletilerdeki gömülü içeriğe izin verilecektir.">
-
 <!ENTITY WorkPhone.label                "İş:">
 <!ENTITY WorkPhone.accesskey            "ş">
 <!ENTITY HomePhone.label                "Ev:">

@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "v">
 <!ENTITY synchronizeOfflineCmd.label "Şimdi indir/eşitle…">
 <!ENTITY synchronizeOfflineCmd.accesskey "m">
-<!ENTITY settingsOfflineCmd.label "Çevrim dışı ayarları…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+
+
 <!ENTITY downloadSelectedCmd.label "Seçili iletileri indir">
 <!ENTITY downloadSelectedCmd.accesskey "i">
 <!ENTITY downloadStarredCmd.label "Yıldızlı iletileri indir">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "l">
 <!ENTITY menuFavoriteFolder.label "Dizini favorilere ekle">
 <!ENTITY menuFavoriteFolder.accesskey "e">
-<!ENTITY folderPropsCmd.label "Özellikler…">
-<!ENTITY folderPropsFolderCmd.label "Dizin özellikleri…">
-<!ENTITY folderPropsNewsgroupCmd.label "Haber grubu özellikleri…">
-<!ENTITY folderPropsCmd.accesskey "e">
+
+
+
+
 <!ENTITY undoDeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY redoDeleteMsgCmd.label "İletiyi tekrar sil">
 <!ENTITY undoMoveMsgCmd.label "İleti taşımayı geri al">
@@ -158,6 +158,8 @@
 <!ENTITY unreadFolders.accesskey "u">
 <!ENTITY favoriteFolders.label "Favoriler">
 <!ENTITY favoriteFolders.accesskey "F">
+
+
 
 
 <!-- Sort Menu -->
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Kaydedilmiş dosyalar">
 <!ENTITY savedFiles.accesskey "y">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "İleti süzgeçleri…">
-<!ENTITY filtersCmd.accesskey "s">
+
+
 <!ENTITY filtersApply.label "Dizinde süzgeç çalıştır">
 <!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Seçili iletilerde süzgeçleri çalıştır">
@@ -478,9 +480,9 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Hesap ayarları…">
-<!ENTITY accountManagerCmd.accesskey "H">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 
 
@@ -558,6 +560,8 @@
 
 
 
+
+
 <!-- Phishing Button Popup -->
 
 
@@ -614,12 +618,12 @@
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "İletilerde ara…">
 <!ENTITY folderContextSearchForMessages.accesskey "a">
-<!ENTITY folderContextProperties.label "Özellikler…">
-<!ENTITY folderContextProperties.accesskey "e">
+
+
 <!ENTITY folderContextFavoriteFolder.label "Favori dizinler">
 <!ENTITY folderContextFavoriteFolder.accesskey "e">
-<!ENTITY folderContextSettings.label "Ayarlar…">
-<!ENTITY folderContextSettings.accesskey "A">
+
+
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "İsim veya e-posta:">
@@ -689,6 +693,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextOpenConversation.label "İletiyi dizi görünümünde aç">
 <!ENTITY contextOpenConversation.accesskey "d">
+
+
 
 
 <!ENTITY contextArchive.label "Arşivle">
@@ -871,8 +877,6 @@
 <!ENTITY bringAllToFront.label "Hepsini ön plana al">
 <!ENTITY zoomWindow.label "Yakınlaştırma">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
-<!ENTITY preferencesCmdMac.label        "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Hizmetler">

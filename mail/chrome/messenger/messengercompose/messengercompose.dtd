@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "e">
-<!ENTITY findCmd.label "Bul ve değiştir…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "B">
+
+
+
+
+
 
 <!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "b">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Öncekini bul">
+<!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "n">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Görünüm">
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Hesap ayarları…">
-<!ENTITY accountManagerCmd.accesskey "p">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Seçenekler…">
-<!ENTITY preferencesCmd.accesskey "e">
-<!ENTITY preferencesCmdUnix.label       "Tercihler">
-<!ENTITY preferencesCmdUnix.accesskey   "c">
+
+
+
+
+
+<!ENTITY preferencesCmdUnix.label "Tercihler">
+<!ENTITY preferencesCmdUnix.accesskey "c">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">

@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Dosya">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Tümünü seç">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "n">
-<!ENTITY preferencesCmd.label        "Seçenekler…">
-<!ENTITY preferencesCmd.accesskey      "e">
+
+
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey     "c">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "A">
 <!ENTITY showTaskbarCmd.label          "Durum çubuğu">
 <!ENTITY showTaskbarCmd.accesskey        "m">
-
-<!ENTITY proxy.label                                    "Vekil sunucu ayaları…">
-<!ENTITY proxy.accesskey                                "c">
 
 <!ENTITY closeCmd.label      "Kapat">
 <!ENTITY closeCmd.key      "W">
