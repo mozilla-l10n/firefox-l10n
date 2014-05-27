@@ -7,7 +7,8 @@
 <!ENTITY index.device2 "Periferic">
 <!ENTITY index.help "Ajuda">
 
-
+<!ENTITY device.debugMainProcess "Desbugar lo processus principal">
+<!ENTITY device.debugMainProcessTooltip "Dobrir las aisinas de desvolopament connectadas a aquesta aplicacion sus l'aparelh">
 <!ENTITY device.screenshot "Ecran">
 <!ENTITY device.screenshotTooltip "Dobrir dins un onglet novèl una captura d'ecran de l'estat actual de l'aparelh">
 <!ENTITY device.title "Gestionari d'aparelhs">

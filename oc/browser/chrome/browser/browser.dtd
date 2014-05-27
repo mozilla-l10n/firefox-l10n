@@ -232,7 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "Pipeta">
+<!ENTITY eyedropper.accesskey "i">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -257,8 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Tampar la Barra de desvolopament">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "Gestionari d'aplicacions">
+<!ENTITY devAppMgrMenu.accesskey           "G">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "VK_F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
@@ -324,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Istoric">
 <!ENTITY historyMenu.accesskey "s">
-
+<!ENTITY historyUndoMenu.label "Onglets tampats recentament">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
 <!ENTITY historyRestoreLastSession.label "Restablir la sesilha precedenta">
@@ -591,6 +592,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estil de pagina basic">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
+<!ENTITY pageReportIcon.tooltip            "Cambiar la politica popups d'aqueste site web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -672,6 +674,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Afichar lo panèl lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
+<!ENTITY social.addons.label "Gerir los servicis…">
 
 <!ENTITY social.toggleNotifications.label "Afichar las notificacions sul burèu">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -681,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Ne saber mai…">
 <!ENTITY social.learnMore.accesskey "s">
-
+<!ENTITY social.closeNotificationItem.label "Mai tard">
 
 
 

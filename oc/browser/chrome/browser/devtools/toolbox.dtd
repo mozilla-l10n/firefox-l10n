@@ -61,6 +61,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Activar lo desbugatge del chrome e dels moduls">
+<!ENTITY options.enableChrome.tooltip2  "Activar aquesta opcion vos permetrà d'utilizar divèrsas aisinas de desvolopament dins lo contèxte del navigador e de desbugar de moduls dempuèi lo gestionari de moduls complementaris">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -139,13 +141,15 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "Preferéncias generalas">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogging.label    "Activar los jornals persistents">
-
+<!ENTITY options.enablePersistentLogging.tooltip  "Se activatz aquesta opcion, la consòla web voidarà pas las sortidas a cada còp que cambiatz de pagina">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

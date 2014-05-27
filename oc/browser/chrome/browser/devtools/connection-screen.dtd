@@ -13,7 +13,7 @@
 <!ENTITY port       "Pòrt :">
 <!ENTITY connect    "Se connectar">
 <!ENTITY connecting "Connexion…">
-
+<!ENTITY availableAddons "Processus distants disponibles :">
 <!ENTITY availableTabs "Onglets distants disponibles :">
 <!ENTITY availableProcesses "Processus distants disponibles :">
 <!ENTITY connectionError "Error :">
