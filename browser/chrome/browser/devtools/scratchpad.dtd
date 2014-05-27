@@ -59,7 +59,8 @@
 <!ENTITY wordWrap.label                "Omatanje teksta">
 <!ENTITY wordWrap.accesskey            "m">
 
-
+<!ENTITY highlightTrailingSpace.label     "Istakni razmake na kraju">
+<!ENTITY highlightTrailingSpace.accesskey "I">
 
 <!ENTITY largerFont.label             "Veći font">
 <!ENTITY largerFont.accesskey         "V">
