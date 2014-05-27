@@ -574,7 +574,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
 <!ENTITY editRemoteContentSettings.label "Indstillinger for redigering af eksternt indhold…">
 <!ENTITY editRemoteContentSettings.accesskey "I">
-<!ENTITY editRemoteContentSettingsUnix.label "Præferencer for redigering af eksternt indhold…">
+<!ENTITY editRemoteContentSettingsUnix.label "Indstillinger for redigering af eksternt indhold…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "P">
 
 <!-- Phishing Button Popup -->
