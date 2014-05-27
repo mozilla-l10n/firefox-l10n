@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Yazışmalarda yazma bildirimleri gönder">
 <!ENTITY  sendTyping.accesskey          "Y">
+
+
+
+
+
+
+
+
+
+<!ENTITY  customsound.label                   "Aşağıdaki ses dosyasını kullan">
+<!ENTITY  customsound.accesskey               "s">
+
+
+

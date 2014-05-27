@@ -19,6 +19,11 @@
 <!ENTITY quickMode.label             "Web sayfasını yüklemek yerine haber özetini göster">
 <!ENTITY quickMode.accesskey         "ö">
 
+
+
+
+
+
 <!ENTITY locationValidate.label      "Doğrula">
 <!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">
 
