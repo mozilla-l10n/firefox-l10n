@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Restore Session">
-<!ENTITY restorepage.pagetitle      "Would you like to restore your session?">
+<!ENTITY restorepage.tabtitle       "Restaurar sesión">
+<!ENTITY restorepage.pagetitle      "Le fería goyo restaurar a suya sesión?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.issueDesc      "a suya sesión anterior de se &brandShortName; zarró inasperadament. Sentimos fundament as molestias causadas. Puede restaurar as pestanyas y finestras d'a suya sesión anterior, u encetar una nueva sesión si ya no son necesarias.">
+<!ENTITY restorepage.remedies       "Si &brandShortName; se zarra constantment:">
+<!ENTITY restorepage.dueToChrome    "Intente desactivar as extensions adhibidas recientment en l'administrador de complementos.">
+<!ENTITY restorepage.dueToContent   "Intente restaurar a suya sesión sin garra pachina web que sospeite que pueda estar causando o problema:">
 
-<!ENTITY restorepage.restoreButton  "Restore Previous Session">
+<!ENTITY restorepage.restoreButton  "Restaurar sesión anterior">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancelButton   "Encetar sesión nueva">
 <!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader  "Restore">
-<!ENTITY restorepage.listHeader     "Windows and Tabs">
+<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.listHeader     "Finestras y pestanyas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Window &#37;S">

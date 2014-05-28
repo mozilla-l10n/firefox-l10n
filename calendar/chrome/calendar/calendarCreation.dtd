@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY wizard.title             "Create New Calendar" >
-<!ENTITY wizard.label             "Create a new calendar" >
-<!ENTITY wizard.description       "Locate your calendar" >
+<!ENTITY wizard.title             "Creyar nuevo calandario" >
+<!ENTITY wizard.label             "Creyar un nuevo calandario" >
+<!ENTITY wizard.description       "Ubique o suyo calandario" >
 
-<!ENTITY initialpage.description    "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers." >
-<!ENTITY initialpage.computer.label  "On My Computer">
-<!ENTITY initialpage.network.label  "On the Network">
+<!ENTITY initialpage.description    "O suyo calandario puede alzar en o suyo ordinador u en un servidor, permitindo asinas accedir ta ell remotament u compartir-lo con os suyos amigos u companyers de treballo." >
+<!ENTITY initialpage.computer.label  "En o mío ordinador">
+<!ENTITY initialpage.network.label  "En o ret">
 
-<!ENTITY locationpage.description         "Provide info about what is needed to access your remote calendar" >
-<!ENTITY locationpage.login.description   "Optional: enter an username and password" >
-<!ENTITY locationpage.username.label      "Username:" >
+<!ENTITY locationpage.description         "Proporcione información necesaria ta accedir ta o suyo calandario remoto" >
+<!ENTITY locationpage.login.description   "Opcional: introduzca un nombre d'usuario y una clau" >
+<!ENTITY locationpage.username.label      "Nombre d'usuario:" >
 <!ENTITY locationpage.password.label      "Clau d'acceso:" >
 
-<!ENTITY custompage.shortdescription  "Customize your calendar" >
-<!ENTITY custompage.longdescription   "You can give your calendar a nickname and colorize the events from this calendar." >
+<!ENTITY custompage.shortdescription  "Personalizar o suyo calandario" >
+<!ENTITY custompage.longdescription   "Puede dar una embotada a o suyo calandario y colorear os eventos d'iste." >
 
-<!ENTITY finishpage.shortdescription  "Calendar Created" >
-<!ENTITY finishpage.longdescription   "Your calendar has been created." >
+<!ENTITY finishpage.shortdescription  "Calandario creyau" >
+<!ENTITY finishpage.longdescription   "S'ha creyau o suyo calandario." >

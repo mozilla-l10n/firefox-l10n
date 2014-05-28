@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title       "Customize New Mail Alert">
+<!ENTITY notificationsDialog2.title       "Personalizar alerta de nuevo correu">
 <!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro         "Choose which fields to show in the alert notification:">
-<!ENTITY previewText.label                "Message Preview Text">
-<!ENTITY previewText.accesskey            "M">
-<!ENTITY subject.label                    "Subject">
-<!ENTITY subject.accesskey                "S">
-<!ENTITY sender.label                     "Sender">
-<!ENTITY sender.accesskey                 "e">
+<!ENTITY alertCustomization.intro         "Trige qué campos amostrar en a notificación d'alerta:">
+<!ENTITY previewText.label                "Texto de previsualización de mensache">
+<!ENTITY previewText.accesskey            "T">
+<!ENTITY subject.label                    "Afer">
+<!ENTITY subject.accesskey                "A">
+<!ENTITY sender.label                     "Remitente">
+<!ENTITY sender.accesskey                 "R">
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
 there's a field where the user can enter a number, and totalOpenTimeEnd.label
 is displayed at the end of the line. The translations of the

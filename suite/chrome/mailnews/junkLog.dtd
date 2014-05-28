@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
 <!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY clearLog.label "Limpiar rechistro">
+<!ENTITY clearLog.accesskey "L">
+<!ENTITY closeLog.label "Zarrar">
+<!ENTITY closeLog.accesskey "Z">

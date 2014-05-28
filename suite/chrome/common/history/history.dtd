@@ -4,54 +4,54 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
 
-<!ENTITY historyWindowTitle.label       "History">
-<!ENTITY menuBar.tooltip                "Menu Bar">
-<!ENTITY searchBar.tooltip              "Search Bar">
+<!ENTITY historyWindowTitle.label       "Historial">
+<!ENTITY menuBar.tooltip                "Barra de menú">
+<!ENTITY searchBar.tooltip              "Barra de busca">
 
-<!ENTITY search.placeholder             "Search History">
-<!ENTITY search.key                     "f">
-<!ENTITY view.label                     "View">
+<!ENTITY search.placeholder             "Buscar en l'historial">
+<!ENTITY search.key                     "b">
+<!ENTITY view.label                     "Veyer">
 
-<!ENTITY view.columns.label             "Show Columns">
-<!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sortBy.label              "Sort by">
-<!ENTITY view.sortBy.accesskey          "S">
-<!ENTITY view.groupBy.label             "Group by">
-<!ENTITY view.groupBy.accesskey         "G">
+<!ENTITY view.columns.label             "Amostrar columnas">
+<!ENTITY view.columns.accesskey         "A">
+<!ENTITY view.sortBy.label              "Ordinar por">
+<!ENTITY view.sortBy.accesskey          "O">
+<!ENTITY view.groupBy.label             "Agrupar por">
+<!ENTITY view.groupBy.accesskey         "A">
 
-<!ENTITY view.unsorted.label            "Unsorted">
-<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.unsorted.label            "Sin ordinar">
+<!ENTITY view.unsorted.accesskey        "i">
 <!ENTITY view.sortAscending.label       "Ordenación A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.label      "Ordinar Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY view.groupNone.label           "None">
-<!ENTITY view.groupNone.accesskey       "N">
-<!ENTITY view.groupDay.label            "Day">
+<!ENTITY view.groupNone.label           "Brenca">
+<!ENTITY view.groupNone.accesskey       "B">
+<!ENTITY view.groupDay.label            "Día">
 <!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "Website">
-<!ENTITY view.groupSite.accesskey       "W">
-<!ENTITY view.groupDayAndSite.label     "Day and Website">
-<!ENTITY view.groupDayAndSite.accesskey "a">
+<!ENTITY view.groupSite.label           "Puesto web">
+<!ENTITY view.groupSite.accesskey       "w">
+<!ENTITY view.groupDayAndSite.label     "Día y puesto web">
+<!ENTITY view.groupDayAndSite.accesskey "p">
 
-<!ENTITY cmd.open.label                 "Open">
-<!ENTITY cmd.open.accesskey             "O">
-<!ENTITY cmd.open_window.label          "Open Link in New Window">
-<!ENTITY cmd.open_window.accesskey      "W">
-<!ENTITY cmd.open_tab.label             "Open Link in New Tab">
-<!ENTITY cmd.open_tab.accesskey         "T">
+<!ENTITY cmd.open.label                 "Ubrir">
+<!ENTITY cmd.open.accesskey             "U">
+<!ENTITY cmd.open_window.label          "Abrir vinclo en una finestra nueva">
+<!ENTITY cmd.open_window.accesskey      "r">
+<!ENTITY cmd.open_tab.label             "Ubrir vinclo en una pestanya nueva">
+<!ENTITY cmd.open_tab.accesskey         "n">
 
-<!ENTITY bookmarkLinkCmd.label          "Bookmark This Link…">
-<!ENTITY bookmarkLinkCmd.accesskey      "B">
+<!ENTITY bookmarkLinkCmd.label          "Meter iste vinclo en marcapachinas…">
+<!ENTITY bookmarkLinkCmd.accesskey      "M">
 <!ENTITY bookmarkLinksCmd.label         "Bookmark These Links…">
 <!ENTITY bookmarkLinksCmd.accesskey     "B">
 
-<!ENTITY col.title.label                "Title">
+<!ENTITY col.title.label                "Titol">
 <!ENTITY col.title.accesskey            "T">
-<!ENTITY col.url.label                  "Location">
-<!ENTITY col.url.accesskey              "L">
-<!ENTITY col.lastvisit.label            "Last Visited">
-<!ENTITY col.lastvisit.accesskey        "V">
-<!ENTITY col.visitcount.label           "Visit Count">
-<!ENTITY col.visitcount.accesskey       "C">
+<!ENTITY col.url.label                  "Adreza">
+<!ENTITY col.url.accesskey              "A">
+<!ENTITY col.lastvisit.label            "Zaguera visita">
+<!ENTITY col.lastvisit.accesskey        "v">
+<!ENTITY col.visitcount.label           "Numero de visitas">
+<!ENTITY col.visitcount.accesskey       "N">

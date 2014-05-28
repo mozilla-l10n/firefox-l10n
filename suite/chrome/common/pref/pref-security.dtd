@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 
-<!ENTITY pref.security.title              "Privacy &amp; Security">
+<!ENTITY pref.security.title              "Privacidat y seguranza">
 
-<!ENTITY tracking.label                   "User Tracking">
+<!ENTITY tracking.label                   "Rastreo d'usuarios">
 <!ENTITY trackingIntro.label              "Websites may track how you use them, thus affecting your privacy.">
 
 <!ENTITY dntTellSites.label               "Tell websites about my tracking preference">

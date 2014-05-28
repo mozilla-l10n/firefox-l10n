@@ -16,60 +16,60 @@
 
 <!ENTITY mainWindow.titleprivate "Private Browsing">
 
-<!ENTITY editPageCmd.label "Edit Page">
+<!ENTITY editPageCmd.label "Editar pachina">
 <!ENTITY editPageCmd.accesskey "E">
-<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editPageCmd.commandkey "y">
 
-<!ENTITY navbarCmd.label "Navigation Toolbar">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.label "Barra d'herramientas de navegación">
+<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY bookmarksToolbarCmd.label     "Bookmarks Toolbar">
 <!ENTITY bookmarksToolbarCmd.accesskey "m">
 
-<!ENTITY closeWindow.label "Close Window">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeWindow.label "Zarrar finestra">
+<!ENTITY closeWindow.accesskey "Z">
 
-<!ENTITY minimizeButton.tooltip       "Minimize">
-<!ENTITY restoreButton.tooltip        "Restore">
+<!ENTITY minimizeButton.tooltip       "Minimizar">
+<!ENTITY restoreButton.tooltip        "Restaurar">
 
-<!ENTITY feedsMenu.label "Subscribe to This Page">
+<!ENTITY feedsMenu.label "Suscribirse a ista pachina">
 <!ENTITY feedsMenu.accesskey "S">
 
-<!ENTITY menuBar.tooltip                  "Menu Bar">
+<!ENTITY menuBar.tooltip                  "Barra de menú">
 <!ENTITY bookmarksToolbar.tooltip         "Bookmarks Toolbar">
-<!ENTITY navigationToolbar.tooltip        "Navigation Toolbar">
+<!ENTITY navigationToolbar.tooltip        "Barra de ferramientas de navegación">
 <!-- Toolbar items --> 
 
-<!ENTITY backButton.label             "Back">
-<!ENTITY backButton.tooltip           "Go back one page">
-<!ENTITY forwardButton.label          "Forward">
-<!ENTITY forwardButton.tooltip        "Go forward one page">
-<!ENTITY reloadButton.label           "Reload">
-<!ENTITY reloadButton.tooltip         "Reload current page">
-<!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.tooltip           "Stop loading this page">
-<!ENTITY searchButton.label           "Search">
-<!ENTITY searchButton.tooltip         "Type a word in the field to the left, then click Search">
-<!ENTITY goButton.label               "Go">
-<!ENTITY goButton.tooltip             "Type a location in the field to the left, then click Go">
-<!ENTITY printButton.label            "Print">
-<!ENTITY printButton.tooltip          "Print this page">
+<!ENTITY backButton.label             "Anterior">
+<!ENTITY backButton.tooltip           "Ir a la pachina anterior">
+<!ENTITY forwardButton.label          "Siguient">
+<!ENTITY forwardButton.tooltip        "Ir a la pachina siguient">
+<!ENTITY reloadButton.label           "Recargar">
+<!ENTITY reloadButton.tooltip         "Recargar ista pachina">
+<!ENTITY stopButton.label             "Aturar">
+<!ENTITY stopButton.tooltip           "Aturar la carga d'ista pachina">
+<!ENTITY searchButton.label           "Buscar">
+<!ENTITY searchButton.tooltip         "Escriba una parola en o campo de texto d'a cucha, y prete Buscar">
+<!ENTITY goButton.label               "Ir">
+<!ENTITY goButton.tooltip             "Escriba una adreza en o campo d'a cucha, y prete Ir">
+<!ENTITY printButton.label            "Imprentar">
+<!ENTITY printButton.tooltip          "Imprentar ista pachina">
 
-<!ENTITY throbber.tooltip             "Go to the &vendorShortName; home page">
+<!ENTITY throbber.tooltip             "Ir a la pachina prencipal de &vendorShortName;">
 
-<!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
+<!ENTITY locationBar.tooltip          "Introduzca o termin, parola clave u pachina web que deseya buscar">
 <!ENTITY locationBar.accesskey        "d">
-<!ENTITY locationBar.title            "Location">
-<!ENTITY proxyIcon.tooltip            "Drag and drop this icon to create a link to this page">
+<!ENTITY locationBar.title            "Adreza">
+<!ENTITY proxyIcon.tooltip            "Arrociegue y suelte iste icono ta creyar un vinclo ta ista pachina">
 
-<!ENTITY searchItem.title             "Search">
+<!ENTITY searchItem.title             "Buscar">
 
-<!ENTITY bookmarksButton.label        "Bookmarks">
-<!ENTITY bookmarksButton.tooltip      "Bookmarks list">
-<!ENTITY homeButton.label             "Home">
-<!ENTITY bookmarksToolbarItem.label   "Bookmarks Toolbar Items">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksButton.label        "Marcadors">
+<!ENTITY bookmarksButton.tooltip      "Lista de marcadors">
+<!ENTITY homeButton.label             "Encieto">
+<!ENTITY bookmarksToolbarItem.label   "Elementos d'a barra de ferramientas de marcadors">
+<!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcadors">
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label            "Done">
+<!ENTITY  statusText.label            "Feito">
 
-<!ENTITY popupIcon.tooltiptext      "Unblock this website's popups">
+<!ENTITY popupIcon.tooltiptext      "Desbloquiar as finestras emerchents d'iste puesto web">

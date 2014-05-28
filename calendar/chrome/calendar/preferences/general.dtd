@@ -7,11 +7,11 @@
   -->
 
 
-<!ENTITY pref.mainbox.label "General Settings" >
-<!ENTITY pref.dateformat.label "Date Text Format:" >
-<!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Long" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.mainbox.label "Configuración cheneral" >
+<!ENTITY pref.dateformat.label "Formato de texto de calendata:" >
+<!ENTITY pref.dateformat.accesskey "F">
+<!ENTITY pref.dateformat.long "Largo" >
+<!ENTITY pref.dateformat.short "Corto"  >
 <!ENTITY pref.defaultlength.label "Default Event Length:" >
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >

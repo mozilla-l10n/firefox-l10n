@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 
-<!ENTITY pref.advanced.title        "Advanced">
+<!ENTITY pref.advanced.title        "Abanzadas">
 
-<!ENTITY systemPref.caption         "System Preferences">
-<!ENTITY systemPrefCheck.label      "Use Preferences from System">
+<!ENTITY systemPref.caption         "Preferencias de sistema">
+<!ENTITY systemPrefCheck.label      "Usar as preferencias d'o sistema">
 <!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "With this option, &brandShortName; inherits preferences from the system. These system settings will override the &brandShortName; preferences.">
+<!ENTITY systemPref.desc            "Con ista opción, &brandShortName; hereda as preferencias d'o sistema. As valors globals d'o sistema prevalerán sobre as preferencias de &brandShortName;.">
 
-<!ENTITY prefCheckDefault.caption   "System Integration">
-<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
+<!ENTITY prefCheckDefault.caption   "Integración con o sistema">
+<!ENTITY prefCheckDefaultClient.label "Comprobar configuración d'aplicacions predeterminadas en encetar">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 
-<!ENTITY crashReports.caption       "Crash Reporter">
-<!ENTITY submitCrashes.label        "Submit crash reports">
-<!ENTITY submitCrashes.accesskey    "S">
+<!ENTITY crashReports.caption       "Achent d'informe de fallos">
+<!ENTITY submitCrashes.label        "Ninviar informes de fallo">
+<!ENTITY submitCrashes.accesskey    "N">

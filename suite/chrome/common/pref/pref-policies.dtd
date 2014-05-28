@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  pref.policies.title "Security Policies">
+<!ENTITY  pref.policies.title "Politicas de seguranza">
 
-<!ENTITY  zoneIntro.label     "&brandShortName; allows you to create policies that determine what access certain websites have to various functionality, including aspects of scripting and Java.">
+<!ENTITY  zoneIntro.label     "&brandShortName; le permite creyar politicas que determinen qué acceso tienen bells puestos web a quantas funcions, incluindo aspectos de Javascript y Java.">
 
-<!ENTITY  policies.label      "Policies:">
-<!ENTITY  default.label       "Default Policy">
-<!ENTITY  allWebsites.label   "All Websites">
-<!ENTITY  trusted.label       "Trusted Websites">
-<!ENTITY  annoyances.label    "Common Annoyances">
-<!ENTITY  restricted.label    "Restricted Websites">
+<!ENTITY  policies.label      "Politicas:">
+<!ENTITY  default.label       "Politica predeterminada">
+<!ENTITY  allWebsites.label   "Totz os puestos web">
+<!ENTITY  trusted.label       "Puestos web en el qual se confía">
+<!ENTITY  annoyances.label    "Molestias habituals">
+<!ENTITY  restricted.label    "Puestos web restrinchius">
 
-<!ENTITY  addSite.label       "Add Website…">
-<!ENTITY  addSite.accesskey   "a">
-<!ENTITY  settings.label      "Settings for ">
-<!ENTITY  settings.accesskey  "s">
+<!ENTITY  addSite.label       "Adhibir servidor web…">
+<!ENTITY  addSite.accesskey   "A">
+<!ENTITY  settings.label      "Configuración para ">
+<!ENTITY  settings.accesskey  "C">
 
-<!ENTITY  description.label   "Policy Description:">
+<!ENTITY  description.label   "Descripción d'a politica:">
 

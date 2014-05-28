@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Labels -->
    
-<!ENTITY newFolderDialog.title      "New Folder">
-<!ENTITY name.label                 "Name:">
-<!ENTITY name.accesskey             "n">
-<!ENTITY description.label          "Create as a subfolder of:">
-<!ENTITY description.accesskey      "c">
-<!ENTITY folderRestriction1.label   "This server restricts folders to two special kinds.">
-<!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
-<!ENTITY foldersOnly.label          "Folders Only">
-<!ENTITY messagesOnly.label         "Messages Only">
-<!ENTITY accept.label               "Create Folder">
-<!ENTITY accept.accesskey           "r">
+<!ENTITY newFolderDialog.title      "Nueva carpeta">
+<!ENTITY name.label                 "Nombre:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Creyar como subcarpeta de:">
+<!ENTITY description.accesskey      "C">
+<!ENTITY folderRestriction1.label   "Iste servidor restrinche as carpetas a dos tipos especials.">
+<!ENTITY folderRestriction2.label   "Permitir que a suya nueva carpeta contienga:">
+<!ENTITY foldersOnly.label          "Solament carpetas">
+<!ENTITY messagesOnly.label         "Solament mensaches">
+<!ENTITY accept.label               "Crear carpeta">
+<!ENTITY accept.accesskey           "a">

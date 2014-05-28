@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "Email">
-<!ENTITY readMsgsLink.label           "Read messages">
-<!ENTITY composeMsgLink.label         "Write a new message">
+<!ENTITY emailSectionHdr.label        "Correu electronico">
+<!ENTITY readMsgsLink.label           "Leyer mensaches">
+<!ENTITY composeMsgLink.label         "Redactar un nuevo mensache">
 
-<!ENTITY newsSectionHdr.label         "Newsgroups">
-<!ENTITY subscribeNewsLink.label      "Manage newsgroup subscriptions">
+<!ENTITY newsSectionHdr.label         "Grupos de noticias">
+<!ENTITY subscribeNewsLink.label      "Administrar suscripciones a grupos de noticias">
 
-<!ENTITY feedsSectionHdr.label        "Feeds">
-<!ENTITY subscribeFeeds.label         "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label        "Canales">
+<!ENTITY subscribeFeeds.label         "Administrar suscripciones">
 
 <!ENTITY chat.label                   "Chat">
 <!ENTITY movemail.label               "Movemail">
 
-<!ENTITY accountsSectionHdr.label     "Accounts">
-<!ENTITY subscribeImapFolders.label   "Manage folder subscriptions">
-<!ENTITY settingsLink.label           "View settings for this account">
-<!ENTITY newAcctLink.label            "Create a new account">
+<!ENTITY accountsSectionHdr.label     "Cuentas">
+<!ENTITY subscribeImapFolders.label   "Administrar suscripciones a carpetas">
+<!ENTITY settingsLink.label           "Veyer configuración d'ista cuenta">
+<!ENTITY newAcctLink.label            "Creyar una cuenta nueva">
 <!ENTITY newAcct.label                "Create a new account:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Advanced Features">
-<!ENTITY searchMsgsLink.label         "Search messages">
-<!ENTITY filtersLink.label            "Manage message filters">
-<!ENTITY junkSettings.label           "Junk mail settings">
-<!ENTITY offlineLink.label            "Offline settings">
+<!ENTITY advFeaturesSectionHdr.label  "Caracteristicas abanzadas">
+<!ENTITY searchMsgsLink.label         "Buscar mensaches">
+<!ENTITY filtersLink.label            "Administrar filtros de mensaches">
+<!ENTITY junkSettings.label           "Correu no deseyau">
+<!ENTITY offlineLink.label            "Configuración sin connexión">

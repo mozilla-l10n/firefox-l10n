@@ -3,58 +3,58 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- for SearchDialog.xul -->
 
-<!ENTITY searchHeading.label         "Search for messages in:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Search subfolders">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchOnServer.label        "Run search on server">
-<!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Clear">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY openButton.label            "Open">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Delete">
-<!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Search Messages">
-<!ENTITY results.label               "Results">
+<!ENTITY searchHeading.label         "Buscar mensaches en:">
+<!ENTITY searchHeading.accesskey     "B">
+<!ENTITY searchSubfolders.label      "Buscar subcarpetas">
+<!ENTITY searchSubfolders.accesskey  "c">
+<!ENTITY searchOnServer.label        "Executar búsqueda en o servidor">
+<!ENTITY searchOnServer.accesskey    "s">
+<!ENTITY resetButton.label           "Limpiar">
+<!ENTITY resetButton.accesskey       "L">
+<!ENTITY openButton.label            "Ubrir">
+<!ENTITY openButton.accesskey        "U">
+<!ENTITY deleteButton.label          "Eliminar">
+<!ENTITY deleteButton.accesskey      "E">
+<!ENTITY searchDialogTitle.label     "Buscar mensaches">
+<!ENTITY results.label               "Resultaus">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Open in Folder">
-<!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label        "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY openInFolder.label          "Abrir en carpeta">
+<!ENTITY openInFolder.accesskey      "i">
+<!ENTITY saveAsVFButton.label        "Alzar como carpeta de busca">
+<!ENTITY saveAsVFButton.accesskey    "A">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label       "Search in:">
-<!ENTITY abSearchHeading.accesskey   "h">
-<!ENTITY propertiesButton.label      "Properties">
+<!ENTITY abSearchHeading.label       "Buscar yn:">
+<!ENTITY abSearchHeading.accesskey   "n">
+<!ENTITY propertiesButton.label      "Propiedatz">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Write">
-<!ENTITY composeButton.accesskey     "W">
+<!ENTITY composeButton.label         "Redactar">
+<!ENTITY composeButton.accesskey     "R">
 <!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY deleteCardButton.accesskey  "D">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
+<!ENTITY abSearchDialogTitle.label   "Busca abanzada en a libreta d'adrezas">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Recipient">
-<!ENTITY subjectColumn.label "Subject">
-<!ENTITY dateColumn.label "Date">
-<!ENTITY priorityColumn.label "Priority">
-<!ENTITY tagsColumn.label "Tags">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Size">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
+<!ENTITY threadColumn.label "Conversación">
+<!ENTITY fromColumn.label "Remitente">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY subjectColumn.label "Afer">
+<!ENTITY dateColumn.label "Calendata">
+<!ENTITY priorityColumn.label "Prioridat">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Cuenta">
+<!ENTITY statusColumn.label "Estau">
+<!ENTITY sizeColumn.label "Grandaria">
+<!ENTITY junkStatusColumn.label "Estau de correu no deseyau">
+<!ENTITY unreadColumn.label "No leito">
 <!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Read">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "Location">
-<!ENTITY idColumn.label "Order Received">
+<!ENTITY readColumn.label "Leito">
+<!ENTITY receivedColumn.label "Recibiu">
+<!ENTITY starredColumn.label "Con estrela">
+<!ENTITY locationColumn.label "Ubicación">
+<!ENTITY idColumn.label "Orden de recepción">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Select columns to display">
@@ -69,8 +69,8 @@
 <!ENTITY statusColumn2.tooltip "Sort by status">
 <!ENTITY sizeColumn2.tooltip "Sort by size">
 <!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
-<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY unreadColumn2.tooltip "Numero de mensaches no leitos en a conversación">
+<!ENTITY totalColumn2.tooltip "Numero total de mensaches en a conversación">
 <!ENTITY readColumn2.tooltip "Sort by read">
 <!ENTITY receivedColumn2.tooltip "Sort by date received">
 <!ENTITY starredColumn2.tooltip "Sort by star">

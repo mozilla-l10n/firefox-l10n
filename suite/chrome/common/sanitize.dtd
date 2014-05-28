@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title            "Clear Private Data">
-<!ENTITY sanitizeItems.label             "Clear the following items now:">
+<!ENTITY sanitizeDialog.title            "Limpiar datos privaus">
+<!ENTITY sanitizeItems.label             "Vaciar agora os siguients elementos:">
 
-<!ENTITY itemHistory.label               "Browsing History">
-<!ENTITY itemHistory.accesskey           "B">
-<!ENTITY itemUrlBar.label                "Location Bar History">
-<!ENTITY itemUrlBar.accesskey            "L">
-<!ENTITY itemDownloads.label             "Download History">
-<!ENTITY itemDownloads.accesskey         "D">
-<!ENTITY itemFormSearchHistory.label     "Saved Form and Search History">
+<!ENTITY itemHistory.label               "Historial de navegación">
+<!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemUrlBar.label                "Historial d'a barra d'adrezas">
+<!ENTITY itemUrlBar.accesskey            "b">
+<!ENTITY itemDownloads.label             "Historial de descargas">
+<!ENTITY itemDownloads.accesskey         "d">
+<!ENTITY itemFormSearchHistory.label     "Formularios alzaus y historial de buscas">
 <!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemCache.label                 "Cache">
+<!ENTITY itemCache.label                 "Caché">
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Offline Website Data">
-<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemOfflineApps.label           "Dattos de puestos web sin connexión">
+<!ENTITY itemOfflineApps.accesskey       "t">
 <!ENTITY itemPasswords.label             "Claus alzadas">
 <!ENTITY itemPasswords.accesskey         "C">
-<!ENTITY itemSessions.label              "Authenticated Sessions">
+<!ENTITY itemSessions.label              "Sesions activas">
 <!ENTITY itemSessions.accesskey          "S">
 
-<!ENTITY sanitizeButton.label            "Clear Private Data Now">
+<!ENTITY sanitizeButton.label            "Limpiar datos privaus agora">

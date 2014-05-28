@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                  "Return Receipts">
-<!ENTITY requestReceipt.label          "When sending messages, always request a return receipt">
-<!ENTITY requestReceipt.accesskey      "W">
-<!ENTITY receiptArrive.label           "When a receipt arrives:">
-<!ENTITY leaveIt.label                 "Leave it in my Inbox">
-<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY dialog.title                  "Acuses de recibimiento">
+<!ENTITY requestReceipt.label          "Al ninviar mensaches, solicitar siempre un acuse de recibimiento">
+<!ENTITY requestReceipt.accesskey      "A">
+<!ENTITY receiptArrive.label           "Quan plegue un acuse de recibimiento:">
+<!ENTITY leaveIt.label                 "Deixar-lo en a mía servilla de dentrada">
+<!ENTITY leaveIt.accesskey             "D">
 <!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
 <!ENTITY moveToSent.accesskey          "m">
-<!ENTITY requestMDN.label              "When I receive a request for a return receipt:">
-<!ENTITY never.label                   "Never send a return receipt">
-<!ENTITY never.accesskey               "n">
-<!ENTITY returnSome.label              "Allow return receipts for some messages">
-<!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">
-<!ENTITY notInToCc.accesskey           "f">
-<!ENTITY outsideDomain.label           "If the sender is outside my domain:">
-<!ENTITY outsideDomain.accesskey       "t">
-<!ENTITY otherCases.label              "In all other cases:">
-<!ENTITY otherCases.accesskey          "a">
-<!ENTITY askMe.label                   "Ask me">
-<!ENTITY alwaysSend.label              "Always send">
-<!ENTITY neverSend.label               "Never send">
+<!ENTITY requestMDN.label              "Quan reciba una solicitut d'acuse de recibimiento:">
+<!ENTITY never.label                   "Nunca ninviar acuse de recibimiento">
+<!ENTITY never.accesskey               "N">
+<!ENTITY returnSome.label              "Permitir acuse de recibimiento ta qualques mensaches">
+<!ENTITY returnSome.accesskey          "P">
+<!ENTITY notInToCc.label               "Si no soi en o Ta: u Cc: d'o mensache:">
+<!ENTITY notInToCc.accesskey           "S">
+<!ENTITY outsideDomain.label           "Si o remitente no ye en o mío dominio:">
+<!ENTITY outsideDomain.accesskey       "r">
+<!ENTITY otherCases.label              "En os de demás casos:">
+<!ENTITY otherCases.accesskey          "E">
+<!ENTITY askMe.label                   "Preguntar-me/Preguntar'me">
+<!ENTITY alwaysSend.label              "Ninviar siempre">
+<!ENTITY neverSend.label               "No ninviar nunca">

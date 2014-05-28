@@ -5,82 +5,82 @@
 
 
 <!ENTITY messageStorage.label "Message Storage">
-<!ENTITY securitySettings.label "Security Settings">
-<!ENTITY serverSettings.label "Server Settings">
-<!ENTITY serverType.label "Server Type:">
-<!ENTITY serverName.label "Server Name:">
-<!ENTITY serverName.accesskey "S">
-<!ENTITY userName.label "User Name:">
+<!ENTITY securitySettings.label "Configuración de seguranza">
+<!ENTITY serverSettings.label "Configuración d'o servidor">
+<!ENTITY serverType.label "Tipo de servidor:">
+<!ENTITY serverName.label "Nom. servidor:">
+<!ENTITY serverName.accesskey "s">
+<!ENTITY userName.label "Nombre d'usuario:">
 <!ENTITY userName.accesskey "N">
-<!ENTITY port.label "Port:">
+<!ENTITY port.label "Puerto:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Default:">
+<!ENTITY serverPortDefault.label "Predet.:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Check for new messages every ">
-<!ENTITY biffStart.accesskey "y">
-<!ENTITY biffEnd.label "minutes">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
+<!ENTITY biffStart.accesskey "j">
+<!ENTITY biffEnd.label "menutos">
+<!ENTITY connectionSecurity.label "Seguridad d'a connexión:">
 <!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Garra">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si ye disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "Metodo de identificación:">
 <!ENTITY authMethod.accesskey "i">
-<!ENTITY leaveOnServer.label "Leave messages on server">
-<!ENTITY leaveOnServer.accesskey "g">
-<!ENTITY headersOnly.label "Fetch headers only">
-<!ENTITY headersOnly.accesskey "e">
-<!ENTITY deleteByAgeFromServer.label "For at most">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
-<!ENTITY daysEnd.label "days">
-<!ENTITY deleteOnServer2.label "Until I delete them">
-<!ENTITY deleteOnServer2.accesskey "d">
-<!ENTITY downloadOnBiff.label "Automatically download new messages">
+<!ENTITY leaveOnServer.label "Dejar os mensaches en o servidor">
+<!ENTITY leaveOnServer.accesskey "a">
+<!ENTITY headersOnly.label "Descargar solament as cabeceras">
+<!ENTITY headersOnly.accesskey "b">
+<!ENTITY deleteByAgeFromServer.label "Dica">
+<!ENTITY deleteByAgeFromServer.accesskey "D">
+<!ENTITY daysEnd.label "días">
+<!ENTITY deleteOnServer2.label "Dica que yo los elimine">
+<!ENTITY deleteOnServer2.accesskey "D">
+<!ENTITY downloadOnBiff.label "Descargar automáticamente os mensaches nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Your Login Name">
-<!ENTITY deleteMessagePrefix.label "When I delete a message:">
-<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY username.label "Nombre d'a cuenta">
+<!ENTITY deleteMessagePrefix.label "Quan elimine un mensache:">
+<!ENTITY modelMoveToTrash.label "Moverlo a ista carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
-<!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Remove it immediately">
+<!ENTITY modelMarkDeleted.label "Marcar-lo como eliminau">
+<!ENTITY modelMarkDeleted.accesskey "e">
+<!ENTITY modelDeleteImmediately.label "Eliminar-lo inmediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
 <!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Empty Trash on Exit">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Check for new messages at startup"> 
+<!ENTITY emptyTrashOnExit.label "Vaciar papelera en salir">
+<!ENTITY emptyTrashOnExit.accesskey "V">
+<!ENTITY loginAtStartup.label "Comprobar si i hai mensaches nuevos en encetar"> 
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Ask me before downloading more than">
+<!ENTITY maxMessagesStart.label "Preguntarm'antes de descargar mas de">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "messages">
-<!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
-<!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
-<!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Advanced…">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY maxMessagesEnd.label "mensaches">
+<!ENTITY alwaysAuthenticate.label "Solicitar siempre identificación en connectar con iste servidor">
+<!ENTITY alwaysAuthenticate.accesskey "p">
+<!ENTITY newsrcFilePath.label "Fichero newsrc:">
+<!ENTITY newsrcPicker.label "Trigar fichero newsrc">
+<!ENTITY abbreviate.label "Amostrar los nombres d'os grupos de noticias en a carpeta de correu como:">
+<!ENTITY abbreviateOn.label "Nombres completos (Por eixemplo, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nombres abreviaus (Por eixemplo,'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Avanzadas…">
+<!ENTITY serverDefaultCharset.label "Codif. caracters predet.:">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "Local directory:">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse…">
-<!ENTITY browseFolder.accesskey "B">
-<!ENTITY browseNewsrc.label "Browse…">
-<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY localPath.label "Directorio local:">
+<!ENTITY localFolderPicker.label "Trige directorio local">
+<!ENTITY browseFolder.label "Yxaminar…">
+<!ENTITY browseFolder.accesskey "x">
+<!ENTITY browseNewsrc.label "Examinar…">
+<!ENTITY browseNewsrc.accesskey "E">
 
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountSettingsDesc.label "The following is a special account. There are no identities associated with it.">

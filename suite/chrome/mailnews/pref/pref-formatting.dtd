@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.formatting.title        "Send Format">
-<!ENTITY sendMaildesc.label           "When sending formatted (HTML) messages and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do (Mail prompts you to choose a format)">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text (some formatting may be lost)">
+<!ENTITY pref.formatting.title        "Formato de ninvio">
+<!ENTITY sendMaildesc.label           "Quan se ninvien mensaches con formato (HTML) y un u mas destinatarios no sían listaus como capacitados ta recibir HTML:">
+<!ENTITY askMe.label                  "Preguntar-me/Preguntar'me qué fer (se le pedirá que trige un formato)">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Convertir o mensache a texto sin formato (puede perder parte d'o formato)">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message as formatted text (HTML) anyway (some mail programs may not be able to display it)">
-<!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML (larger message size)">
+<!ENTITY sendHTML.label               "Ninviar o mensaje con formato (HTML) de todas formas (puede que qualques programas de correu no puedan amostrar-lo)">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Ynviar o mensache en totz dos formatos, texto sin formato y HTML (grandaria d'o mensache mayor)">
 <!ENTITY sendBoth.accesskey           "n">
-<!ENTITY override.label               "You can override these settings for individual messages by using the Options menu while composing a message.">
+<!ENTITY override.label               "Puede invalidar istas configuracions ta mensaches individuals utilizando o menú Opciones en a finestra de redacción de correu.">
 <!-- Html and Plain Text Domains  -->
 
-<!ENTITY domain.title                 "HTML and Plain Text Domains">
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, Mail automatically sends the message in the preferred format (formatted text or plain text).">
-<!ENTITY HTMLdomaintitle.label        "HTML Domains">
+<!ENTITY domain.title                 "Dominios de HTML y texto sin formato">
+<!ENTITY domaindesc.label             "Quan ninvie un mensache a una adreza en un d'os dominios listaus abaixo, se ninvia automaticament o mensache en o formato preferiu (texto con u sin formato).">
+<!ENTITY HTMLdomaintitle.label        "Dominios HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
-<!ENTITY PlainTexttitle.label         "Plain Text Domains">
-<!ENTITY PlainTexttitle.accesskey     "P">
-<!ENTITY AddButton.label              "Add…">
+<!ENTITY PlainTexttitle.label         "Dominios texto sin formato">
+<!ENTITY PlainTexttitle.accesskey     "t">
+<!ENTITY AddButton.label              "Adhibir…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "e">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeleteButton.label           "Eliminar">
+<!ENTITY DeleteHtmlDomain.accesskey   "Y">
+<!ENTITY DeletePlainText.accesskey    "l">
 <!-- Add Domain Name -->
 
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
+<!ENTITY add.htmltitle                "Adhibir nombre de dominio HTML">
+<!ENTITY add.htmldomain               "Nombre de dominio HTML:">
+<!ENTITY add.plaintexttitle           "Adhibir nombre de dominio de texto sin formato">
+<!ENTITY add.plaintextdomain          "Nombre de dominio de texto sin formato:">
 
-<!ENTITY domainnameError.title        "Domain Name Error">
+<!ENTITY domainnameError.title        "Error de nombre de dominio">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">
+<!ENTITY invalidEntryError.label      "O nombre de dominio @string@ no ye valido y será ignorau. Los nombres de dominio validos han d'incluir a o menos un '.' y caracters a totz dos costaus d'iste.">

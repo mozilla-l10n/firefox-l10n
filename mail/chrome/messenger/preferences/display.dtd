@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label             "Formatting">
-<!ENTITY itemTags.label                   "Tags">
+<!ENTITY itemFormatting.label             "Formato">
+<!ENTITY itemTags.label                   "Etiquetas">
 
-<!ENTITY style.label                      "Style:">
-<!ENTITY style.accesskey                  "y">
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "E">
 <!ENTITY regularStyle.label               "Regular">
-<!ENTITY bold.label                       "Bold">
-<!ENTITY italic.label                     "Italic">
-<!ENTITY boldItalic.label                 "Bold Italic">
-<!ENTITY size.label                       "Size:">
-<!ENTITY size.accesskey                   "z">
+<!ENTITY bold.label                       "Negreta">
+<!ENTITY italic.label                     "Cursiva">
+<!ENTITY boldItalic.label                 "Negreta cursiva">
+<!ENTITY size.label                       "Grandaria:">
+<!ENTITY size.accesskey                   "G">
 <!ENTITY regularSize.label                "Regular">
-<!ENTITY bigger.label                     "Bigger">
-<!ENTITY smaller.label                    "Smaller">
+<!ENTITY bigger.label                     "Mayor">
+<!ENTITY smaller.label                    "Menor">
 <!ENTITY quotedTextColor.label            "Color:">
 <!ENTITY quotedTextColor.accesskey        "o">
-<!ENTITY displayWidth.label               "Plain Text Messages">
-<!ENTITY displayText.label                "When displaying quoted plain text messages:">
+<!ENTITY displayWidth.label               "Mensaches de texto sin formato">
+<!ENTITY displayText.label                "Al amostrar mensaches citaus de texto sin formato:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!ENTITY convertEmoticons.label        "Display emoticons as graphics">
 <!ENTITY convertEmoticons.accesskey    "e">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label     "Tags can be used to categorize and prioritize your messages.">
-<!ENTITY addTagButton.label        "Add">
+<!ENTITY displayTagsText.label     "As etiquetas pueden usar ta categorizar y priorizar os suyos mensaches.">
+<!ENTITY addTagButton.label        "Adhibir">
 <!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Edit">
+<!ENTITY editTagButton.label       "Editar">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "Delete">
-<!ENTITY removeTagButton.accesskey "D">
+<!ENTITY removeTagButton.label     "Eliminar">
+<!ENTITY removeTagButton.accesskey "r">
 <!-- Fonts and Colors -->
 
 <!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
-<!ENTITY defaultFont.label       "Default font:">
-<!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
-<!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Advanced…">
+<!ENTITY defaultFont.label       "Tipo de letra por defecto:">
+<!ENTITY defaultFont.accesskey   "i">
+<!ENTITY defaultSize.label       "Grandaria:">
+<!ENTITY defaultSize.accesskey   "G">
+<!ENTITY fontOptions.accesskey   "v">
+<!ENTITY fontOptions.label       "Avanzadas…">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">

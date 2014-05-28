@@ -5,21 +5,21 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
 
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
+<!ENTITY pref.scripts.title              "Scripts y plugins">
 
-<!ENTITY navigator.label                 "Browser">
-<!ENTITY navigator.accesskey             "B">
+<!ENTITY navigator.label                 "Navegador">
+<!ENTITY navigator.accesskey             "N">
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
-<!ENTITY enableJavaScript.label          "Enable JavaScript for">
-<!ENTITY allowScripts.label              "Allow scripts to:">
-<!ENTITY allowScripts.accesskey          "s">
-<!ENTITY allowWindowMoveResize.label     "Move or resize existing windows">
-<!ENTITY allowWindowFlip.label           "Raise or lower windows">
-<!ENTITY allowWindowStatusChange.label   "Change status bar text">
-<!ENTITY allowWindowImageSrcChange.label "Change images">
-<!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
-<!ENTITY allowHideStatusBar.label        "Hide the status bar">
+<!ENTITY enableJavaScript.label          "Activar Javascript para">
+<!ENTITY allowScripts.label              "Permitir a os scripts:">
+<!ENTITY allowScripts.accesskey          "P">
+<!ENTITY allowWindowMoveResize.label     "Mover u cambiar a grandaria de finestras existents">
+<!ENTITY allowWindowFlip.label           "Cambiar o plano de profundidat d'as finestras">
+<!ENTITY allowWindowStatusChange.label   "Cambiar o texto d'a barra d'estau">
+<!ENTITY allowWindowImageSrcChange.label "Cambiar imachens">
+<!ENTITY allowContextmenuDisable.label   "Desactivar u reemplazar menús contextuals">
+<!ENTITY allowHideStatusBar.label        "Amagar a barra d'estau">
 
 <!ENTITY enablePlugins.label             "Enable Plugins for">
 <!ENTITY enablePluginForSuite.label      "Suite">

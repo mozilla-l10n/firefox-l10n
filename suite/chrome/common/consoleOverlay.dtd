@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY menuBar.tooltip       "Menu Bar">
-<!ENTITY modeToolbar.tooltip   "Mode Toolbar">
-<!ENTITY entryToolbar.tooltip  "Javascript Entry Toolbar">
-<!ENTITY toolbarsCmd.label     "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY toolbarMode.label     "Mode">
+<!ENTITY menuBar.tooltip       "Barra de menú">
+<!ENTITY modeToolbar.tooltip   "Barra de ferramientas de modo">
+<!ENTITY entryToolbar.tooltip  "Barra de ferramientas de dentrada de Javascript">
+<!ENTITY toolbarsCmd.label     "Amostrar/Amagar">
+<!ENTITY toolbarsCmd.accesskey "A">
+<!ENTITY toolbarMode.label     "Modo">
 <!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label     "JavaScript Entry">
+<!ENTITY toolbarEval.label     "Dentrada Javascript">
 <!ENTITY toolbarEval.accesskey "J">
 
-<!ENTITY all.accesskey         "A">
+<!ENTITY all.accesskey         "T">
 <!ENTITY errors.accesskey      "r">
 <!ENTITY warnings.accesskey    "n">
 <!ENTITY messages.accesskey    "M">

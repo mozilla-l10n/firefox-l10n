@@ -3,54 +3,54 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "o">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; le permite accedir t'os suyos marcadors, historial, claus, preferencias y pestanyas en quantos dispositivos.">
 <!-- The page shown when logged in... -->
 
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY accountName.label            "Account Name:">
+<!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
+<!ENTITY accountName.label            "Nombre d'a cuenta:">
 <!-- Login error feedback -->
 
-<!ENTITY updatePass.label             "Update">
-<!ENTITY updatePass.accesskey         "U">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY updatePass.accesskey         "A">
+<!ENTITY resetPass.label              "Restablir">
 <!ENTITY resetPass.accesskey          "R">
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "Manage Account">
 <!ENTITY manageAccount.accesskey      "M">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Veyer conduta">
 <!ENTITY viewQuota.accesskey          "V">
-<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassword.label         "Cambiar claus">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY myRecoveryKey.accesskey      "M">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY resetSync.accesskey          "R">
+<!ENTITY myRecoveryKey.label          "O mío clave de recuperación">
+<!ENTITY myRecoveryKey.accesskey      "O">
+<!ENTITY resetSync.label              "Restablir Sync">
+<!ENTITY resetSync.accesskey          "S">
 <!ENTITY unlinkDevice.label           "Unlink This Device">
 <!ENTITY unlinkDevice.accesskey       "D">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY addDevice.label              "Adhibir un dispositivo">
 <!ENTITY addDevice.accesskey          "A">
 <!-- Sync Settings -->
 
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.label       "Nombre de l'equipo:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy2.label              "Sync My:">
+<!ENTITY syncMy2.label              "Sincronizar o mío:">
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.bookmarks.label     "Marcadorye">
+<!ENTITY engine.bookmarks.accesskey "y">
+<!ENTITY engine.tabs.label          "Pestañas">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Historial">
+<!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Claus d'acceso">
 <!ENTITY engine.passwords.accesskey "l">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "Preferencias">
 <!ENTITY engine.prefs.accesskey     "P">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Termins d'o Servicio">
+<!ENTITY prefs.ppLink.label         "Politica de privacidat">

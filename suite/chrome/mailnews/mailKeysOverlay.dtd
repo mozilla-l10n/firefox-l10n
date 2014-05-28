@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY markAsReadCmd.label     "As Read">
-<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.label     "Como leitos">
+<!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label     "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.label     "Sinyal">
+<!ENTITY markFlaggedCmd.accesskey "S">
 <!ENTITY markFlaggedCmd.key       "i">
 
-<!ENTITY openMessageWindowCmd.label     "Open Message">
-<!ENTITY openMessageWindowCmd.accesskey "O">
-<!ENTITY openMessageWindowCmd.key       "o">
+<!ENTITY openMessageWindowCmd.label     "Ubrir mensache">
+<!ENTITY openMessageWindowCmd.accesskey "U">
+<!ENTITY openMessageWindowCmd.key       "u">
 
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">

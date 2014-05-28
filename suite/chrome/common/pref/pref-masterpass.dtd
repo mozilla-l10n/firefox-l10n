@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Claus mayestras">
-<!ENTITY  managepassword.caption                 "Master Password Timeout">
-<!ENTITY  managepassword.text                    "&brandShortName; will ask for your master password:">
-<!ENTITY  managepassword.askfirsttime            "The first time it is needed">
-<!ENTITY  managepassword.askfirsttime.accesskey  "T">
-<!ENTITY  managepassword.askeverytime            "Every time it is needed">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "If it has not been used for ">
+<!ENTITY  managepassword.caption                 "Circumducción d'a clau mayestra">
+<!ENTITY  managepassword.text                    "&brandShortName; le preguntase a suya clau mayestra:">
+<!ENTITY  managepassword.askfirsttime            "a primera vez que s'amenesta">
+<!ENTITY  managepassword.askfirsttime.accesskey  "L">
+<!ENTITY  managepassword.askeverytime            "Cada vez que s'amenesta">
+<!ENTITY  managepassword.askeverytime.accesskey  "Y">
+<!ENTITY  managepassword.asktimeout              "Si no ha estau utilizada entre ">
 <!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minutes or longer">
+<!ENTITY  managepassword.timeout.unit            "menutos u mas">
 
 <!ENTITY  changepassword.caption                 "Cambiar a clau mayestra">
-<!ENTITY  changepassword.text                    "Your master password protects sensitive information such as web passwords and certificates.">
-<!ENTITY  changepassword.button                  "Change Password…">
+<!ENTITY  changepassword.text                    "A suya clau mayestra proteche a información confidencial tal como claus d'os suyos puestos web y certificaus.">
+<!ENTITY  changepassword.button                  "Cambiar a clau…">
 <!ENTITY  changepassword.accesskey               "C">
 
-<!ENTITY  resetpassword.caption                  "Reset Master Password">
-<!ENTITY  resetpassword.text                     "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">
-<!ENTITY  resetpassword.button                   "Reset Password">
+<!ENTITY  resetpassword.caption                  "Restablir a clau mayestra">
+<!ENTITY  resetpassword.text                     "Si restableix a clau mayestra, se perderán todas as claus alzadas d'os suyos puestos web y correus, datos de formularios, certificaus personals y claves privadas.">
+<!ENTITY  resetpassword.button                   "Restablir a clau">
 <!ENTITY  resetpassword.accesskey                "R">

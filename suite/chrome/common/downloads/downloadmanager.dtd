@@ -2,89 +2,89 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY downloadManager.title           "Download Manager">
+<!ENTITY downloadManager.title           "Administrador de descargas">
 
-<!ENTITY menuBar.tooltip                 "Menu Bar">
-<!ENTITY searchBar.tooltip               "Search Bar">
+<!ENTITY menuBar.tooltip                 "Barra de menú">
+<!ENTITY searchBar.tooltip               "Barra de busca">
 
-<!ENTITY search.placeholder              "Search Downloads">
-<!ENTITY search.label                    "Search Downloads">
-<!ENTITY search.accesskey                "S">
+<!ENTITY search.placeholder              "Buscar en las descargas">
+<!ENTITY search.label                    "Buscar en las descargas">
+<!ENTITY search.accesskey                "B">
 <!ENTITY search.key                      "f">
 
-<!ENTITY cmd.clearList.label             "Clear List">
-<!ENTITY cmd.clearList.tooltip           "Removes completed, canceled, and failed downloads from the list">
-<!ENTITY cmd.clearList.accesskey         "C">
+<!ENTITY cmd.clearList.label             "Limpiar lista">
+<!ENTITY cmd.clearList.tooltip           "Eimina las descargas completadas, canceladas y fallidas d'a lista">
+<!ENTITY cmd.clearList.accesskey         "L">
 
-<!ENTITY col.name.label                  "Name">
+<!ENTITY col.name.label                  "Nombre">
 <!ENTITY col.name.accesskey              "N">
-<!ENTITY col.name.tooltip                "File Name">
-<!ENTITY col.status.label                "Status">
-<!ENTITY col.status.accesskey            "S">
-<!ENTITY col.status.tooltip              "Status">
-<!ENTITY col.actionPlay.label            "Pause/Resume/Retry">
-<!ENTITY col.actionPlay.accesskey        "u">
-<!ENTITY col.actionPlay.tooltip          "Pause/Resume/Retry">
-<!ENTITY col.actionStop.label            "Cancel/Remove">
+<!ENTITY col.name.tooltip                "Nombre de fichero">
+<!ENTITY col.status.label                "Estau">
+<!ENTITY col.status.accesskey            "E">
+<!ENTITY col.status.tooltip              "Estau">
+<!ENTITY col.actionPlay.label            "Pausar/Reanudar/Reintentar">
+<!ENTITY col.actionPlay.accesskey        "P">
+<!ENTITY col.actionPlay.tooltip          "Pausar/Reanudar/Reintentar">
+<!ENTITY col.actionStop.label            "Cancelar/Eliminar">
 <!ENTITY col.actionStop.accesskey        "C">
-<!ENTITY col.actionStop.tooltip          "Cancel/Remove">
-<!ENTITY col.progress.label              "Progress">
-<!ENTITY col.progress.accesskey          "P">
-<!ENTITY col.progress.tooltip            "Progress">
-<!ENTITY col.timeremaining.label         "Time Left">
-<!ENTITY col.timeremaining.accesskey     "L">
-<!ENTITY col.timeremaining.tooltip       "Time Left">
-<!ENTITY col.transferred.label           "Transferred">
-<!ENTITY col.transferred.accesskey       "T">
-<!ENTITY col.transferred.tooltip         "Transferred">
-<!ENTITY col.transferrate.label          "Speed">
-<!ENTITY col.transferrate.accesskey      "d">
-<!ENTITY col.transferrate.tooltip        "Speed">
-<!ENTITY col.timeelapsed.label           "Time Elapsed">
-<!ENTITY col.timeelapsed.accesskey       "E">
-<!ENTITY col.timeelapsed.tooltip         "Time Elapsed">
-<!ENTITY col.starttime.label             "Start Time">
-<!ENTITY col.starttime.accesskey         "a">
-<!ENTITY col.starttime.tooltip           "Start Time">
-<!ENTITY col.endtime.label               "End Time">
-<!ENTITY col.endtime.accesskey           "i">
-<!ENTITY col.endtime.tooltip             "End Time">
+<!ENTITY col.actionStop.tooltip          "Cancelar/Eliminar">
+<!ENTITY col.progress.label              "Progrechus">
+<!ENTITY col.progress.accesskey          "c">
+<!ENTITY col.progress.tooltip            "Progreso">
+<!ENTITY col.timeremaining.label         "Tiempo restdebant de">
+<!ENTITY col.timeremaining.accesskey     "d">
+<!ENTITY col.timeremaining.tooltip       "Tiempo restante">
+<!ENTITY col.transferred.label           "Transferido">
+<!ENTITY col.transferred.accesskey       "d">
+<!ENTITY col.transferred.tooltip         "Transferiu">
+<!ENTITY col.transferrate.label          "Velocidat">
+<!ENTITY col.transferrate.accesskey      "V">
+<!ENTITY col.transferrate.tooltip        "Velocidat">
+<!ENTITY col.timeelapsed.label           "Tiempo transcorriu">
+<!ENTITY col.timeelapsed.accesskey       "T">
+<!ENTITY col.timeelapsed.tooltip         "Tiempo transcorriu">
+<!ENTITY col.starttime.label             "Hora de encieto">
+<!ENTITY col.starttime.accesskey         "e">
+<!ENTITY col.starttime.tooltip           "Hora d'encieto">
+<!ENTITY col.endtime.label               "Hora de finalización">
+<!ENTITY col.endtime.accesskey           "H">
+<!ENTITY col.endtime.tooltip             "Hora de finalización">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Progress (&#37;)">
-<!ENTITY col.source.label                "Source">
-<!ENTITY col.source.accesskey            "o">
-<!ENTITY col.source.tooltip              "Source">
+<!ENTITY col.source.label                "Orichen">
+<!ENTITY col.source.accesskey            "O">
+<!ENTITY col.source.tooltip              "Orichen">
 
-<!ENTITY view.columns.label              "Show Columns">
-<!ENTITY view.columns.accesskey          "C">
-<!ENTITY view.sortBy.label               "Sort by">
-<!ENTITY view.sortBy.accesskey           "S">
+<!ENTITY view.columns.label              "Amostrar columnas">
+<!ENTITY view.columns.accesskey          "A">
+<!ENTITY view.sortBy.label               "Ordinar por">
+<!ENTITY view.sortBy.accesskey           "O">
 
-<!ENTITY view.unsorted.label             "Unsorted">
-<!ENTITY view.unsorted.accesskey         "U">
+<!ENTITY view.unsorted.label             "Sin ordinar">
+<!ENTITY view.unsorted.accesskey         "S">
 <!ENTITY view.sortAscending.label        "Ordenación A Z. >">
 <!ENTITY view.sortAscending.accesskey    "A">
-<!ENTITY view.sortDescending.label       "Z > A Sort Order">
+<!ENTITY view.sortDescending.label       "Ordinar Z > A">
 <!ENTITY view.sortDescending.accesskey   "Z">
 
-<!ENTITY cmd.pause.label                 "Pause">
+<!ENTITY cmd.pause.label                 "Pausar">
 <!ENTITY cmd.pause.accesskey             "P">
-<!ENTITY cmd.resume.label                "Resume">
+<!ENTITY cmd.resume.label                "Reanudar">
 <!ENTITY cmd.resume.accesskey            "R">
-<!ENTITY cmd.retry.label                 "Retry">
-<!ENTITY cmd.retry.accesskey             "t">
-<!ENTITY cmd.cancel.label                "Cancel">
+<!ENTITY cmd.retry.label                 "Reintentar">
+<!ENTITY cmd.retry.accesskey             "n">
+<!ENTITY cmd.cancel.label                "Cancelar">
 <!ENTITY cmd.cancel.accesskey            "C">
-<!ENTITY cmd.remove.label                "Remove From List">
-<!ENTITY cmd.remove.accesskey            "e">
-<!ENTITY cmd.open.label                  "Open">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.show.label                  "Open Containing Folder">
-<!ENTITY cmd.show.accesskey              "F">
-<!ENTITY cmd.goToDownloadPage.label      "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey  "G">
-<!ENTITY cmd.copyDownloadLink.label      "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey  "L">
-<!ENTITY cmd.properties.label            "Properties…">
-<!ENTITY cmd.properties.accesskey        "s">
+<!ENTITY cmd.remove.label                "Eliminar d'a lista">
+<!ENTITY cmd.remove.accesskey            "E">
+<!ENTITY cmd.open.label                  "Ubrir">
+<!ENTITY cmd.open.accesskey              "U">
+<!ENTITY cmd.show.label                  "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey              "b">
+<!ENTITY cmd.goToDownloadPage.label      "Ir a la pachina de la descarga">
+<!ENTITY cmd.goToDownloadPage.accesskey  "I">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar vinclo de la descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey  "d">
+<!ENTITY cmd.properties.label            "Propiedades…">
+<!ENTITY cmd.properties.accesskey        "o">

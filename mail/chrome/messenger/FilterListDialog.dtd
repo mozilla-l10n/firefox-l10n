@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Message Filters">
-<!ENTITY nameColumn.label "Filter Name">
-<!ENTITY activeColumn.label "Enabled">
-<!ENTITY newButton.label "New…">
+<!ENTITY window.title "Filtros de mensaches">
+<!ENTITY nameColumn.label "Nombre de filtro">
+<!ENTITY activeColumn.label "Activado">
+<!ENTITY newButton.label "Nuevo…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Edit…">
+<!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "Delete">
-<!ENTITY deleteButton.accesskey "t">
+<!ENTITY deleteButton.label "Eliminar">
+<!ENTITY deleteButton.accesskey "r">
 <!ENTITY reorderTopButton "Move to Top">
 <!ENTITY reorderTopButton.accessKey "o">
 <!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
-<!ENTITY reorderUpButton.label "Move Up">
-<!ENTITY reorderUpButton.accesskey "U">
-<!ENTITY reorderDownButton.label "Move Down">
-<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderUpButton.label "Mover alto">
+<!ENTITY reorderUpButton.accesskey "M">
+<!ENTITY reorderDownButton.label "Mover abajo">
+<!ENTITY reorderDownButton.accesskey "j">
 <!ENTITY reorderBottomButton "Move to Bottom">
 <!ENTITY reorderBottomButton.accessKey "B">
 <!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
-<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
-<!ENTITY filtersForPrefix.label "Filters for:">
+<!ENTITY filterHeader.label "Os filtros activos s'aplican automaticament en l'orden d'a lista.">
+<!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Filter Log">
-<!ENTITY viewLogButton.accesskey "L">
-<!ENTITY runFilters.label "Run Now">
-<!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Stop">
-<!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
+<!ENTITY viewLogButton.label "Rechistro de filtros">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Executar agora">
+<!ENTITY runFilters.accesskey "r">
+<!ENTITY stopFilters.label "Aturar">
+<!ENTITY stopFilters.accesskey "A">
+<!ENTITY folderPickerPrefix.label "Eixecutar os filtros trigaus en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY helpButton.label "Help">
-<!ENTITY helpButton.accesskey "H">
+<!ENTITY helpButton.label "Aiuda">
+<!ENTITY helpButton.accesskey "u">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Search filters by name…">
 

@@ -2,43 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
-<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
-<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY doNotDownloadPop3Movemail.label "Ta cabidar espacio en disco, no descargar:">
+<!ENTITY doNotDownloadNntp.label "Ta cabidar espacio en disco, no descargar t'o suyo uso sin connexión:">
+<!ENTITY doNotDownloadImap.label "Ta cabidar espacio en disco, la descarga de mensaches d'o servidor y o suyo almacenamiento local ta uso sin connexión puede restrinchir por antiguidat u grandaria.">
+<!ENTITY allFoldersOffline.label "Conservar mensaches d'ista cuenta en este equipo">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Messages larger than">
+<!ENTITY offlineNotDownload.label "Mensaches mayors de">
 <!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
-<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY autosyncNotDownload.label "No descargar mensaches mayores de">
+<!ENTITY autosyncNotDownload.accesskey "y">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY nntpNotDownloadRead.label "Read messages">
-<!ENTITY nntpNotDownloadRead.accesskey "d">
-<!ENTITY nntpDownloadMsg.label "Messages more than">
+<!ENTITY daysOld.label "días">
+<!ENTITY message.label "mensaches">
+<!ENTITY nntpNotDownloadRead.label "Mensaches leitos">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "Mensajes de mas de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both the local copies and their originals on the server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including their originals on the server.">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "t">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY retentionCleanup.label "Ta recuperar espacio en disco, os mensaches antigos se pueden eliminar permanentment.">
+<!ENTITY retentionCleanupImap.label "Ta recuperar espacio en disco, os mensaches antigos pueden eliminar permanentment, tanto las copias locals como os suyos orichinals en o servidor.">
+<!ENTITY retentionCleanupPop.label "Ta recuperar espacio en disco, os mensaches antigos pueden eliminar permanentment, incluindo os suyos orichinals en o servidor.">
+<!ENTITY retentionKeepMsg.label "Eliminar mensaches con mas de">
+<!ENTITY retentionKeepMsg.accesskey "a">
+<!ENTITY retentionKeepAll.label "No eliminar garra mensache">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Eliminar totz yxcepto os mas recients">
+<!ENTITY retentionKeepRecent.accesskey "x">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensaches leitos (prevale sobre a configuración d'antiguidat)">
+<!ENTITY retentionApplyToFlagged.label "Conservar siempre mensaches sinyalaus">
+<!ENTITY retentionApplyToFlagged.accesskey "C">
+<!ENTITY nntpRemoveMsgBody.label "Oiminar o cuerpo d'os mensaches de mas de">
+<!ENTITY nntpRemoveMsgBody.accesskey "i">
+<!ENTITY offlineSelectNntp.label "Selecc. grupos de noticias ta uso sin connexión…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "v">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
-<!ENTITY diskspaceGroupTitle.label "Disk Space">
+<!ENTITY offlineImapAdvancedOffline.label "Abanzadas…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "d">
+<!ENTITY syncGroupTitle.label "Sincronización de mensaches">
+<!ENTITY diskspaceGroupTitle.label "Espacio en disco">
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
@@ -46,13 +46,13 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
-<!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
+<!ENTITY allAutosync.label               "Sincronizar totz os mensaches localment sin importar su antiguidat">
+<!ENTITY allAutosync.accesskey           "u">
+<!ENTITY ageAutosyncBefore.label         "Sincronizar os">
 <!ENTITY ageAutosync.accesskey           "S">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Days">
-<!ENTITY weekAgeInterval.label           "Weeks">
-<!ENTITY monthAgeInterval.label          "Months">
-<!ENTITY yearAgeInterval.label           "Years">
-<!ENTITY ageAutosyncAfter.label          "">
+<!ENTITY dayAgeInterval.label            "Días">
+<!ENTITY weekAgeInterval.label           "Semanas">
+<!ENTITY monthAgeInterval.label          "Meses">
+<!ENTITY yearAgeInterval.label           "Anyos">
+<!ENTITY ageAutosyncAfter.label          "mas recients">

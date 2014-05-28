@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sincronizar agora">
 
 <!ENTITY sync.setup.title           "Connectar a Sync">
-<!ENTITY sync.setup.pair            "Ta activar-lo, seleccione &#x0022;Vincular un dispositivo&#x0022; a l'atro dispositivo.">
+<!ENTITY sync.setup.pair            "Ta activar-lo, seleccione «Vincula un dispositivo» en l'atro dispositivo.">
 <!ENTITY sync.fallback              "No soi amán d'o mío ordinador…">
 <!ENTITY sync.setup.manual          "Escriba a información d'a cuenta de Sync">
 <!ENTITY sync.account               "Nombre de cuenta">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Se ye esperando a l'atro dispositivo...">
 
 <!ENTITY sync.pair.title            "Vincular un dispositivo">
-<!ENTITY sync.pair.description      "Ta activar o suyo dispositivo nuevo, seleccione &#x0022;Vincular un dispositivo&#x0022; en o dispositivo.">
+<!ENTITY sync.pair.description      "Ta activar o dispositivo nuevo, trigue «Configura o Sync» en o dispositivo.">
 <!ENTITY sync.setup.close           "Zarrar">
 <!ENTITY sync.setup.waitingdownload "Os suyos datos se son baixando en segundo plan. Puede zarrar ista finestra quan quiera.">

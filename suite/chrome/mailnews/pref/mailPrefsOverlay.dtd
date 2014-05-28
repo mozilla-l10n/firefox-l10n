@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
 
-<!ENTITY enbPluginCheckMailNews.label     "Mail &amp; Newsgroups">
-<!ENTITY enbPluginCheckMailNews.accesskey "a">
+<!ENTITY enbPluginCheckMailNews.label     "Correo y noticias">
+<!ENTITY enbPluginCheckMailNews.accesskey "o">
 <!-- These are added to the Window menu -->
 
-<!ENTITY mail.label                       "Mail &amp; Newsgroups">
-<!ENTITY mail.accesskey                   "M">
-<!ENTITY addressbook.label                "Address Book">
-<!ENTITY addressbook.accesskey            "A">
+<!ENTITY mail.label                       "Correo y noticias">
+<!ENTITY mail.accesskey                   "o">
+<!ENTITY addressbook.label                "Libreta de adrezas">
+<!ENTITY addressbook.accesskey            "a">
 <!-- These are added to Preferences dialog -->
 
-<!ENTITY viewingMessages.label            "Message Display">
-<!ENTITY notifications.label              "Notifications">
-<!ENTITY address.label                    "Addressing">
-<!ENTITY composingMessages.label          "Composition">
-<!ENTITY format.label                     "Send Format">
-<!ENTITY return.label                     "Return Receipts">
-<!ENTITY junk.label                       "Junk &amp; Suspect Mail">
-<!ENTITY tags.label                       "Tags">
-<!ENTITY characterEncoding.label          "Character Encoding">
-<!ENTITY networkStorage.label             "Network &amp; Storage">
+<!ENTITY viewingMessages.label            "Visualización">
+<!ENTITY notifications.label              "Notificaciones">
+<!ENTITY address.label                    "Adrezas">
+<!ENTITY composingMessages.label          "Redacción">
+<!ENTITY format.label                     "Formato de ninvio">
+<!ENTITY return.label                     "Acuses de recibimiento">
+<!ENTITY junk.label                       "Correu vasuera u sospitoso">
+<!ENTITY tags.label                       "Etiquetas">
+<!ENTITY characterEncoding.label          "Codificación de caracters">
+<!ENTITY networkStorage.label             "Ret y almacenamiento">

@@ -4,15 +4,15 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 
-<!ENTITY title.label "Message Security">
-<!ENTITY subject.plaintextWarning "Please note: Subject lines of email messages are never encrypted.">
-<!ENTITY status.heading "The contents of your message will be sent as follows:">
-<!ENTITY status.signed "Digitally signed:">
-<!ENTITY status.encrypted "Encrypted:">
-<!ENTITY status.certificates "Certificates:">
-<!ENTITY view.label "View">
+<!ENTITY title.label "Seguranza d'o mensache">
+<!ENTITY subject.plaintextWarning "Por favor, observe que as linias Afer d'os mensaches de correu electronico nunca son zifradas.">
+<!ENTITY status.heading "Os contenius d'o suyo mensache serán ninviaus como sigue:">
+<!ENTITY status.signed "Sinyau dichitalment:">
+<!ENTITY status.encrypted "Zifrau:">
+<!ENTITY status.certificates "Certificaus:">
+<!ENTITY view.label "Veyer">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "Recipient">
-<!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Issued">
-<!ENTITY tree.expiresDate "Expires">
+<!ENTITY tree.recipient "Recipiente:">
+<!ENTITY tree.status "Estau">
+<!ENTITY tree.issuedDate "Emitiu:">
+<!ENTITY tree.expiresDate "Caduca">

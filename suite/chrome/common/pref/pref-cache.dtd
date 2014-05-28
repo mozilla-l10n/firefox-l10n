@@ -5,27 +5,27 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 
 
-<!ENTITY pref.cache.title                "Cache">
-<!ENTITY pref.cache.caption              "Set Cache Options">
+<!ENTITY pref.cache.title                "Caché">
+<!ENTITY pref.cache.caption              "Establir opciones de caché">
 <!ENTITY cachePara                       "A caché mantiene en o suyo disco duro copias d'as pachinas web visitadas freqüentment (encara que en pretar Recargar siempre s'amostrará a zaguera versión d'una pachina).">
-<!ENTITY cacheCheck.label                "Let &brandShortName; manage the size of my cache">
-<!ENTITY cacheCheck.accesskey            "L">
-<!ENTITY diskCacheUpTo.label             "Use up to">
+<!ENTITY cacheCheck.label                "Permitir a administrar &brandShortName; a grandaria d'a caché">
+<!ENTITY cacheCheck.accesskey            "m">
+<!ENTITY diskCacheUpTo.label             "Usar dica">
 <!ENTITY diskCacheUpTo.accesskey         "U">
-<!ENTITY spaceMbytes                     "MB of disk space for the cache">
-<!ENTITY diskCacheFolder.label           "Cache Folder Location:">
-<!ENTITY clearDiskCache.label            "Clear Cache">
-<!ENTITY clearDiskCache.accesskey        "C">
-<!ENTITY chooseDiskCacheFolder.label     "Choose Folder…">
-<!ENTITY chooseDiskCacheFolder.accesskey "F">
+<!ENTITY spaceMbytes                     "MB d'espacio en disco t'a caché">
+<!ENTITY diskCacheFolder.label           "Ubicación d'a carpeta de caché:">
+<!ENTITY clearDiskCache.label            "Vaciar caché">
+<!ENTITY clearDiskCache.accesskey        "V">
+<!ENTITY chooseDiskCacheFolder.label     "Esleir carpeta…">
+<!ENTITY chooseDiskCacheFolder.accesskey "E">
 <!ENTITY diskCacheFolderExplanation      "Cache files will be stored in a subfolder named &quot;Cache&quot; of the directory you specify. Restart &brandShortName; for changes to take effect.">
-<!ENTITY docCache.label                  "Compare the page in the cache to the page on the network:">
-<!ENTITY docCache.accesskey              "m">
-<!ENTITY checkOncePerSession.label       "Once per session">
-<!ENTITY checkEveryTime.label            "Every time I view the page">
-<!ENTITY checkNever.label                "Never">
-<!ENTITY checkAutomatically.label        "When the page is out of date">
+<!ENTITY docCache.label                  "Comparar a pachina en a caché con a pachina en o ret:">
+<!ENTITY docCache.accesskey              "C">
+<!ENTITY checkOncePerSession.label       "Una vez por sesión">
+<!ENTITY checkEveryTime.label            "Cada vez que veiga a pachina">
+<!ENTITY checkNever.label                "Nunca">
+<!ENTITY checkAutomatically.label        "Quan a pachina sía obsoleta">
 
-<!ENTITY prefetchTitle.label             "Link Prefetching">
-<!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
+<!ENTITY prefetchTitle.label             "Precarga d'enlaces">
+<!ENTITY enablePrefetch.label            "Precargar as pachinas web mientres ye inactivo, ta que los vinclos en as pachinas web diseñadas ta ixo se carguen mas rapido">
 <!ENTITY enablePrefetch.accesskey        "P">

@@ -2,50 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Junk">
-<!ENTITY itemPhishing.label      "E-mail Scams">
-<!ENTITY itemPasswords.label     "Passwords">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+<!ENTITY itemJunk.label          "Correu no deseyau">
+<!ENTITY itemPhishing.label      "Correu fraudulento">
+<!ENTITY itemPasswords.label     "Claus d'acceso">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 <!ENTITY itemCookies.label       "Web Content">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
-<!ENTITY manualMark.label "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey "W">
+<!ENTITY junkMail.intro "Estableixca a suya configuración predeterminada t'o correu no deseyau. a configuración especifica de cada cuenta puede realizar en Configuración d'as cuentas.">
+<!ENTITY manualMark.label "Quan marco os mensaches como no deseyaus:">
+<!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY manualMarkModeDelete.label "Eliminar-los">
+<!ENTITY manualMarkModeDelete.accesskey "E">
+<!ENTITY markAsReadOnSpam.label "Marcar como leitos os mensaches qualificaus como no deseyaus">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "Show log">
-<!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY openJunkLog.label "Mostrar o rechistro">
+<!ENTITY openJunkLog.accesskey "s">
+<!ENTITY resetTrainingData.label "Reiniciar datos d'entrenamiento">
 <!ENTITY resetTrainingData.accesskey "R">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
-<!ENTITY enablePhishingDetector1.label    "Tell me if the message I'm reading is a suspected email scam">
-<!ENTITY enablePhishingDetector1.accesskey  "T">
-<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
+<!ENTITY phishingDetector1.intro  "&brandShortName; puede analisar mensaches ta identificar os que sían fraudulentos buscando tecnicas comunas usadas ta enganyar-le.">
+<!ENTITY enablePhishingDetector1.label    "Decir-me si o mensache que soi leyendo pareixe un mensache fraudulento">
+<!ENTITY enablePhishingDetector1.accesskey  "D">
+<!ENTITY useDownloadedList.label "Usar una lista descargada de mensaches consideraus fraudulentos">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro           "&brandShortName; can remember passwords for all of your accounts.">
-<!ENTITY useMasterPassword.label        "Use a master password">
+<!ENTITY savedPasswords.intro           "O &brandShortName; puede recordar as claus de todas as suyas cuentas.">
+<!ENTITY useMasterPassword.label        "Usar una clau mayestra">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
-<!ENTITY changeMasterPassword.label     "Change Master Password…">
+<!ENTITY masterPassword.intro           "Una clau mayestra proteche todas as suyas claus, pero ha d'introducir-la una vez por sesión.">
+<!ENTITY changeMasterPassword.label     "Cambiar a clau mayestra…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "Claus alzadas…">
 <!ENTITY savedPasswords.accesskey       "a">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.">
-<!ENTITY antiVirus.label      "Allow anti-virus clients to quarantine individual incoming messages">
-<!ENTITY antiVirus.accesskey  "A">
+<!ENTITY antiVirus.intro      "&brandShortName; puede fer facilment que o software antivirus analise o correu entrante en busca de virus antes que s'alcen localment.">
+<!ENTITY antiVirus.label      "Permitir a os antivirus meter en cuarentena mensaches individuals">
+<!ENTITY antiVirus.accesskey  "P">
 <!-- Cookies -->
 
 <!ENTITY cookies.intro                  "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">

@@ -6,13 +6,13 @@
                          You may want to translate the Cmd.key and accesskey --> 
 
 
-<!ENTITY closeCmd.label                 "Close">  
+<!ENTITY closeCmd.label                 "Zarrar">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.accesskey             "Z">
 
-<!ENTITY quitApplicationCmd.label       "Exit"> 
+<!ENTITY quitApplicationCmd.label       "Salir"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "x">
+<!ENTITY quitApplicationCmd.accesskey   "S">
 
 <!ENTITY redoCmd.key                    "Y">  
 
@@ -22,18 +22,18 @@
 <!ENTITY accel.emacs_conflict           "accel">
 <!-- Help viewer -->
 
-<!ENTITY openHelpCmd.label              "Help Contents">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.label              "Conteniu de la aduya">
+<!ENTITY openHelpCmd.accesskey          "C">
 <!ENTITY openHelpCmd.key                "VK_F1">
-<!ENTITY helpForIEUsers.label           "For Internet Explorer Users">
+<!ENTITY helpForIEUsers.label           "Ta usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey       "I">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label                 "Help"> 
-<!ENTITY helpMenu.accesskey             "H">
+<!ENTITY helpMenu.label                 "Aiuda"> 
+<!ENTITY helpMenu.accesskey             "u">
 <!-- Key labels, for mousewheel prefs -->
 
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
-<!ENTITY shiftKey.label                 "Shift">
+<!ENTITY shiftKey.label                 "Mayús">
 

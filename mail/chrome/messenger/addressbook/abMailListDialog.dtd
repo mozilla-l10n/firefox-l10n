@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title           "Mailing List">
+<!ENTITY mailListWindow.title           "Lista de correu">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label         "Adhibir a: ">
 
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListDescription.label          "Description: ">
+<!ENTITY ListName.label                 "Nombre de lista: ">
+<!ENTITY ListNickName.label             "Apodo de lista: ">
+<!ENTITY ListDescription.label          "Descripción: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
+<!ENTITY AddressTitle.label             "Escriba adrezas de correu ta adhibir-las a la lista:">
+<!ENTITY UpButton.label                 "Mover alto">
+<!ENTITY DownButton.label               "Mover abaixo">
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListName.accesskey             "l">
+<!ENTITY ListNickName.accesskey         "p">
 <!ENTITY ListDescription.accesskey      "e">
 

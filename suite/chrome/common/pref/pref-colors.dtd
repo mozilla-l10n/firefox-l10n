@@ -6,28 +6,28 @@
 
 
 <!ENTITY pref.colors.title                 "Colors">
-<!ENTITY color                             "Text and Background">
-<!ENTITY textColor.label                   "Text:">
+<!ENTITY color                             "Texto y fondo">
+<!ENTITY textColor.label                   "Texto:">
 <!ENTITY textColor.accesskey               "T">
-<!ENTITY backgroundColor.label             "Background:">
-<!ENTITY backgroundColor.accesskey         "B">
-<!ENTITY useSystemColors.label             "Use system colors">
+<!ENTITY backgroundColor.label             "Fondo:">
+<!ENTITY backgroundColor.accesskey         "F">
+<!ENTITY useSystemColors.label             "Usar as colors d'o sistema">
 <!ENTITY useSystemColors.accesskey         "s">
 
-<!ENTITY underlineLinks.label              "Underline links">
-<!ENTITY underlineLinks.accesskey          "U">
+<!ENTITY underlineLinks.label              "Subrayar os vinclos">
+<!ENTITY underlineLinks.accesskey          "u">
 <!ENTITY links                             "Color d'os vinclos">
-<!ENTITY linkColor.label                   "Unvisited Links:">
-<!ENTITY linkColor.accesskey               "L">
+<!ENTITY linkColor.label                   "Vinclos sin visitar:">
+<!ENTITY linkColor.accesskey               "V">
 <!ENTITY activeLinkColor.label             "Vinclos activos:">
 <!ENTITY activeLinkColor.accesskey         "c">
 <!ENTITY visitedLinkColor.label            "Vinclos visitaus:">
 <!ENTITY visitedLinkColor.accesskey        "v">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
-<!ENTITY someProvColors                    "When a web page provides its own colors and background">
+<!ENTITY someProvColors                    "Quan una pachina proporcione as suyas propias colors y fondos">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
-<!ENTITY alwaysUseDocumentColors.label     "Always use the colors and background specified by the web page">
-<!ENTITY alwaysUseDocumentColors.accesskey "A">
+<!ENTITY alwaysUseDocumentColors.label     "Usar siempre as colors y o fondo especificau por a pachina web">
+<!ENTITY alwaysUseDocumentColors.accesskey "a">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "Use my chosen colors, ignoring the colors and background image specified">
-<!ENTITY useMyColors.accesskey             "m">
+<!ENTITY useMyColors.label                 "Usar as mías colors, ignorando as colors y a imachen de fondo especificaus por a pachina">
+<!ENTITY useMyColors.accesskey             "a">

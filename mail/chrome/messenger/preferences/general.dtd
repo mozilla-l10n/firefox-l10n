@@ -2,36 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "&brandShortName; Start Page">
-<!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
-<!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Restore Default">
+<!ENTITY messengerStartPage.label         "Pachina d'encieto de &brandShortName;">
+<!ENTITY enableStartPage.label            "Al encetar &brandShortName;, amostrar a pachina d'encieto en l'aria de mensaches">
+<!ENTITY enableStartPage.accesskey        "e">
+<!ENTITY location.label                   "Adreza:">
+<!ENTITY location1.accesskey               "D">
+<!ENTITY useDefault.label                 "Restablir predeterminau">
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
 <!ENTITY dockOptions.label                "App Icon Options…">
 <!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY newMessagesArrive.label          "When new messages arrive:">
-<!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label          "Show an alert">
-<!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize…">
-<!ENTITY customizeMailAlert.accesskey     "C">
+<!ENTITY newMessagesArrive.label          "Quan pleguen mensaches nuevos:">
+<!ENTITY playSound.label                  "Reproducir un son">
+<!ENTITY playSound1.accesskey              "u">
+<!ENTITY showAnimatedAlert.label          "Amostrar una alerta">
+<!ENTITY showAnimatedAlert.accesskey      "A">
+<!ENTITY customizeMailAlert.label         "Personalizar…">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY showTrayIcon.label               "Show a tray icon">
 <!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY play.label                       "Play">
-<!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "Default system sound for new mail">
-<!ENTITY systemsoundMac.label             "System Alert Sound">
-<!ENTITY systemsoundMac.accesskey         "y">
-<!ENTITY systemsound.accesskey            "y">
-<!ENTITY customsound.label                "Use the following sound file">
+<!ENTITY play.label                       "Reproducir">
+<!ENTITY play.accesskey                   "R">
+<!ENTITY systemsound.label                "Chusnido por defecto d'o sistema ta nuevo correu">
+<!ENTITY systemsoundMac.label             "Son d'alerta d'o sistema">
+<!ENTITY systemsoundMac.accesskey         "m">
+<!ENTITY systemsound.accesskey            "n">
+<!ENTITY customsound.label                "Usar o siguient fichero de son">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Browse…">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY browse.label                     "Examinar…">
+<!ENTITY browse.accesskey                 "E">

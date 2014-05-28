@@ -12,13 +12,13 @@
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Quick Filter Bar">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtrau rapido">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Q">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
@@ -30,7 +30,7 @@
      toggles the visibility of the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Toggle the quick filter bar">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Amostrar/amagar a barra de filtrau rapido">
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
      (currently displayed as a push-pin).  When active, the sticky button
@@ -39,69 +39,69 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 
-<!ENTITY quickFilterBar.sticky.tooltip "Keep filters applied when switching folders">
+<!ENTITY quickFilterBar.sticky.tooltip "Mantener filtros aplicaus en cambiar de carpetas">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 
-<!ENTITY quickFilterBar.unread.label "Unread">
+<!ENTITY quickFilterBar.unread.label "No leitos">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 
-<!ENTITY quickFilterBar.unread.tooltip "Show only unread messages">
+<!ENTITY quickFilterBar.unread.tooltip "Amostrar solament os mensaches no leitos">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 
-<!ENTITY quickFilterBar.starred.label "Starred">
+<!ENTITY quickFilterBar.starred.label "Con estrela">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 
-<!ENTITY quickFilterBar.starred.tooltip "Show only starred messages">
+<!ENTITY quickFilterBar.starred.tooltip "Amostrar solament os mensaches con estrela">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.label "Contact">
+<!ENTITY quickFilterBar.inaddrbook.label "Contacto">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Show only messages from people in your address book">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Amostrar solament os mensaches de personas en a suya libreta d'adrezas">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 
-<!ENTITY quickFilterBar.tags.label "Tags">
+<!ENTITY quickFilterBar.tags.label "Etiquetas">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 
-<!ENTITY quickFilterBar.tags.tooltip "Show only messages with tags on them">
+<!ENTITY quickFilterBar.tags.tooltip "Amostrar solament os mensaches con etiquetas en ells">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.label "Attachment">
+<!ENTITY quickFilterBar.attachment.label "Adchunto">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.tooltip "Show only messages with attachments">
+<!ENTITY quickFilterBar.attachment.tooltip "Amostrar solament os mensaches con adjuntos">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
      number of messages found using this string, that there are no messages
@@ -112,13 +112,13 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 message;#1 messages">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 mensache;#1 mensaches">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.none "No results">
+<!ENTITY quickFilterBar.resultsLabel.none "No i hai resultaus">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
      so that a 3 or 4 digit number of messages in the results can be displayed
@@ -139,7 +139,7 @@
      box faster.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.base "Filter these messages... #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Filtrar istes mensaches… #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 
@@ -150,7 +150,7 @@
      quickFilterBar.show.key above.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Mayús+K&gt;">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
@@ -205,40 +205,40 @@
      arrow scroll box.)
      -->
 
-<!ENTITY quickFilterBar.textFilter.explanation.label "Filter messages by:">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Filtrar mensaches por:">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.sender.label "Sender">
+<!ENTITY quickFilterBar.textFilter.sender.label "Remitente">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.recipients.label "Recipients">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Destinatarios">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.subject.label "Subject">
+<!ENTITY quickFilterBar.textFilter.subject.label "Afer">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.body.label "Body">
+<!ENTITY quickFilterBar.textFilter.body.label "Cuerpo">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continue this search across all folders">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continar ista busca por todas as carpetas">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Press 'Enter' again to continue your search for: #1">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Prete 'Enter' de nuevo ta continar a suya busca de: #1">

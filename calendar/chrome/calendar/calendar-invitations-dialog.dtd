@@ -4,16 +4,16 @@
 -->
 <!-- Calendar Invitations Dialog -->
 
-<!ENTITY calendar.invitations.dialog.invitations.text                   "Invitations">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Updating list of invitations.">
+<!ENTITY calendar.invitations.dialog.invitations.text                   "Invitacions">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Actualizando lista d'invitacions.">
 <!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "No s'ha trobau invitacions sin confirmar.">
 <!-- Calendar Invitations List -->
 
-<!ENTITY calendar.invitations.list.accept.button.label                  "Accept">
-<!ENTITY calendar.invitations.list.decline.button.label                 "Decline">
-<!ENTITY calendar.invitations.list.recurrentevent.text                  "Repeating event">
-<!ENTITY calendar.invitations.list.alldayevent.text                     "All day event">
-<!ENTITY calendar.invitations.list.location.text                        "Location: ">
-<!ENTITY calendar.invitations.list.organizer.text                       "Organizer: ">
-<!ENTITY calendar.invitations.list.attendee.text                        "Attendee: ">
-<!ENTITY calendar.invitations.list.none.text                            "None">
+<!ENTITY calendar.invitations.list.accept.button.label                  "Acceptar">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Refusar">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Evento repetitivo">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "Evento de día completo">
+<!ENTITY calendar.invitations.list.location.text                        "Puesto: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Organizador: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Asistent: ">
+<!ENTITY calendar.invitations.list.none.text                            "Garra">

@@ -3,38 +3,38 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event                        "New Event…">
+<!ENTITY event.new.event                        "Nuevo evento...">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.task                         "New Task…">
-<!ENTITY event.new.task.accesskey               "k">
+<!ENTITY event.new.task                         "Nuevo quefer...">
+<!ENTITY event.new.task.accesskey               "t">
 
 <!ENTITY calendar.import.label                  "Importar...">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label                  "Export…">
+<!ENTITY calendar.export.label                  "Exportar…">
 <!ENTITY calendar.export.accesskey              "E">
 
-<!ENTITY calendar.publish.label                 "Publish…">
+<!ENTITY calendar.publish.label                 "Publicar…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
-<!ENTITY calendar.deletecalendar.accesskey      "D">
+<!ENTITY calendar.deletecalendar.label          "Eliminar calandario trigau…">
+<!ENTITY calendar.deletecalendar.accesskey      "a">
 
-<!ENTITY calendar.menu.customize.label          "Customize…">
-<!ENTITY calendar.menu.customize.accesskey      "C">
+<!ENTITY calendar.menu.customize.label          "Personalizar…">
+<!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Find Events">
-<!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.label                 "Buscar eventos">
+<!ENTITY showUnifinderCmd.accesskey             "B">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Show Tasks in Calendar">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Mostrar quefers en o calandario">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
-<!ENTITY goTodayCmd.label                       "Today">
-<!ENTITY goTodayCmd.accesskey                   "T">
+<!ENTITY goTodayCmd.label                       "Ir a hue">
+<!ENTITY goTodayCmd.accesskey                   "h">
 
-<!ENTITY showCurrentView.label                  "Current View">
+<!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Calendar Properties…">
-<!ENTITY calendar.properties.accesskey          "C">
+<!ENTITY calendar.properties.label              "Propiedatz d'o calandario…">
+<!ENTITY calendar.properties.accesskey          "c">

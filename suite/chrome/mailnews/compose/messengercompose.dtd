@@ -3,132 +3,132 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
-<!ENTITY msgComposeWindow.title "Compose: (no subject)">
+<!ENTITY msgComposeWindow.title "Redacción: (sin afer)">
 
-<!ENTITY fromAddr.label "From:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY subject.label  "Subject:">
-<!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Attachments:">
+<!ENTITY fromAddr.label "De:">
+<!ENTITY fromAddr.accesskey "D">
+<!ENTITY subject.label  "Asunto:">
+<!ENTITY subject.accesskey "s">
+<!ENTITY attachments.label "Adchuntos:">
 <!ENTITY attachments.accesskey "c">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.label "Save">
-<!ENTITY saveCmd.accesskey "s">
-<!ENTITY saveAsCmd.label "Save As">
+<!ENTITY saveCmd.label "Alzar">
+<!ENTITY saveCmd.accesskey "A">
+<!ENTITY saveAsCmd.label "Alzar como">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "File…">
+<!ENTITY saveAsFileCmd.label "Fichero…">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "Draft">
-<!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "Template">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY attachMenu.label "Attach">
+<!ENTITY saveAsDraftCmd.label "Borrador">
+<!ENTITY saveAsDraftCmd.accesskey "d">
+<!ENTITY saveAsTemplateCmd.label "Plantilla">
+<!ENTITY saveAsTemplateCmd.accesskey "t">
+<!ENTITY attachMenu.label "Adjuntar">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "File(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Web Page…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachFileCmd.label "Archivo(s)…">
+<!ENTITY attachFileCmd.accesskey "v">
+<!ENTITY attachPageCmd.label "Pachina web…">
+<!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY sendNowCmd.label "Send Now">
+<!ENTITY attachVCardCmd.label "Tarcheta personal (vCard)">
+<!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY sendNowCmd.label "Enviar agora">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Send Later">
+<!ENTITY sendNowCmd.accesskey "v">
+<!ENTITY sendLaterCmd.label "Ninviar mas tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "t">
 <!-- Edit menu items -->
 
-<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.label "Reajuste de linia">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
-<!ENTITY accountManagerCmd.accesskey "m">
+<!ENTITY editRewrapCmd.accesskey  "j">
+<!ENTITY accountManagerCmd.label "Configuración de cuentas de Correu y noticias…">
+<!ENTITY accountManagerCmd.accesskey "n">
 <!-- View menu items -->
 
-<!ENTITY showComposeToolbarCmd.label "Mail Toolbar">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "Formatting Toolbar">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showComposeToolbarCmd.label "Barra de ferramientas de correu">
+<!ENTITY showComposeToolbarCmd.accesskey "c">
+<!ENTITY showFormatToolbarCmd.label "Barra de ferramientas de formato">
+<!ENTITY showFormatToolbarCmd.accesskey "f">
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
 <!-- Options menu items -->
 
-<!ENTITY optionsMenu.label "Options">
+<!ENTITY optionsMenu.label "Upciones">
 <!ENTITY optionsMenu.accesskey "p">
 
-<!ENTITY quoteCmd.label "Quote Message">
-<!ENTITY quoteCmd.accesskey "Q">
-<!ENTITY selectAddressCmd.label "Select Addresses…">
+<!ENTITY quoteCmd.label "Citar mensache">
+<!ENTITY quoteCmd.accesskey "m">
+<!ENTITY selectAddressCmd.label "Seleccionar adrezas…">
 <!ENTITY selectAddressCmd.key "">
-<!ENTITY selectAddressCmd.accesskey "A">
+<!ENTITY selectAddressCmd.accesskey "a">
 
-<!ENTITY priorityMenu.label "Priority">
-<!ENTITY priorityMenu.accesskey "p">
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowestPriorityCmd.accesskey "l">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY priorityMenu.label "Prioridat">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY lowestPriorityCmd.label "a menor">
+<!ENTITY lowestPriorityCmd.accesskey "m">
+<!ENTITY lowPriorityCmd.label "Baixa">
+<!ENTITY lowPriorityCmd.accesskey "B">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY normalPriorityCmd.accesskey "n">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highPriorityCmd.accesskey "i">
-<!ENTITY highestPriorityCmd.label "Highest">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highPriorityCmd.accesskey "A">
+<!ENTITY highestPriorityCmd.label "a mayor">
+<!ENTITY highestPriorityCmd.accesskey "y">
 
-<!ENTITY returnReceiptMenu.label "Return Receipt">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.label "Acuse de recibimiento">
+<!ENTITY returnReceiptMenu.accesskey "d">
 <!ENTITY dsnMenu.label "Delivery Status Notification">
 <!ENTITY dsnMenu.accesskey "N">
 
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey  "f">
-<!ENTITY autoFormatCmd.label "Auto-Detect">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Plain Text Only">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
+<!ENTITY outputFormatMenu.label "Formato">
+<!ENTITY outputFormatMenu.accesskey  "F">
+<!ENTITY autoFormatCmd.label "Autodetectar">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Solament texto sin formato">
+<!ENTITY plainTextFormatCmd.accesskey "S">
+<!ENTITY htmlFormatCmd.label "Solament texto enriquecido (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.label "Texto simple y texto enriquiu (HTML)">
+<!ENTITY bothFormatCmd.accesskey "L">
 
-<!ENTITY fileCarbonCopyCmd.label "Send a Copy To">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "File Here">
+<!ENTITY fileCarbonCopyCmd.label "Enviar una copia a">
+<!ENTITY fileCarbonCopyCmd.accesskey "v">
+<!ENTITY fileHereMenu.label "Archivar aquí">
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 
-<!ENTITY sendButton.label "Send">
-<!ENTITY addressButton.label "Address">
-<!ENTITY attachButton.label "Attach">
-<!ENTITY spellingButton.label "Spelling">
-<!ENTITY saveButton.label "Save">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY sendButton.label "Ninviar">
+<!ENTITY addressButton.label "Adrezas">
+<!ENTITY attachButton.label "Adchuntar">
+<!ENTITY spellingButton.label "Ortografía">
+<!ENTITY saveButton.label "Alzar">
+<!ENTITY stopButton.label "Aturar">
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 
-<!ENTITY addressBar.tooltip "Address Bar">
-<!ENTITY formatToolbar.tooltip "Formatting Toolbar">
-<!ENTITY sendButton.tooltip "Send this message now"> 
-<!ENTITY sendlaterButton.tooltip "Send this message later"> 
-<!ENTITY addressButton.tooltip "Select a recipient from an Address Book"> 
-<!ENTITY attachButton.tooltip "Include an attachment"> 
-<!ENTITY saveButton.tooltip "Save this message"> 
-<!ENTITY stopButton.tooltip "Stop the current transfer"> 
+<!ENTITY addressBar.tooltip "Barra d'adrezas">
+<!ENTITY formatToolbar.tooltip "Barra de ferramientas de formato">
+<!ENTITY sendButton.tooltip "Ninviar iste mensache agora"> 
+<!ENTITY sendlaterButton.tooltip "Ninviar iste mensache mas tarde"> 
+<!ENTITY addressButton.tooltip "Trigar un u quantos destinatarios d'una libreta d'adrezas"> 
+<!ENTITY attachButton.tooltip "Adchuntar un fichero a iste mensache"> 
+<!ENTITY saveButton.tooltip "Alzar iste mensache"> 
+<!ENTITY stopButton.tooltip "Aturar a transferencia actual"> 
 <!-- context menu items -->
 
-<!ENTITY openAttachment.label "Open">
-<!ENTITY openAttachment.accesskey "O">
-<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY openAttachment.label "Ubrir">
+<!ENTITY openAttachment.accesskey "U">
+<!ENTITY renameAttachment.label "Renombrar…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY deleteAttachment.accesskey "D">
-<!ENTITY selectAllAttachments.accesskey "A">
-<!ENTITY attachFile.label "Attach File(s)…">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Attach Web Page…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY deleteAttachment.accesskey "l">
+<!ENTITY selectAllAttachments.accesskey "t">
+<!ENTITY attachFile.label "Adchuntar fichero(s)…">
+<!ENTITY attachFile.accesskey "c">
+<!ENTITY attachPage.label "Adchuntar pachina web…">
+<!ENTITY attachPage.accesskey "w">

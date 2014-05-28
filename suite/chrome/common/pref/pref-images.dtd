@@ -2,28 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.images.title              "Images">
+<!ENTITY pref.images.title              "Imachens">
 
-<!ENTITY imageBlocking.label            "Image Acceptance Policy">
+<!ENTITY imageBlocking.label            "Politica d'acceptación d'imachens">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
 
-<!ENTITY imageDetails                   "Specify how &brandShortName; handles images.">
+<!ENTITY imageDetails                   "Especifica cómo manea &brandShortName; as imachens.">
 
-<!ENTITY loadAllImagesRadio.label       "Load all images">
-<!ENTITY loadAllImagesRadio.accesskey   "L">
-<!ENTITY loadOrgImagesRadio.label       "Only load images that come from the originating server">
-<!ENTITY loadOrgImagesRadio.accesskey   "n">
-<!ENTITY loadNoImagesRadio.label        "Do not load any images">
-<!ENTITY loadNoImagesRadio.accesskey    "D">
-<!ENTITY viewPermissions.label          "Manage Permissions">
-<!ENTITY viewPermissions.accesskey      "P">
-<!ENTITY animLoopingTitle.label         "Animated images should loop">
-<!ENTITY animLoopAsSpecified.label      "As many times as the image specifies">
+<!ENTITY loadAllImagesRadio.label       "Cargar todas as imachens">
+<!ENTITY loadAllImagesRadio.accesskey   "C">
+<!ENTITY loadOrgImagesRadio.label       "Cargar solament as imachens que proviengan d'o servidor orichinario">
+<!ENTITY loadOrgImagesRadio.accesskey   "a">
+<!ENTITY loadNoImagesRadio.label        "No cargar garra imagen">
+<!ENTITY loadNoImagesRadio.accesskey    "e">
+<!ENTITY viewPermissions.label          "Administrar permisos">
+<!ENTITY viewPermissions.accesskey      "d">
+<!ENTITY animLoopingTitle.label         "As imachens animadas habrían de repetir">
+<!ENTITY animLoopAsSpecified.label      "Tantas veces como especifique a imachen">
 <!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "Once">
-<!ENTITY animLoopOnce.accesskey         "O">
-<!ENTITY animLoopNever.label            "Never">
-<!ENTITY animLoopNever.accesskey        "v">
+<!ENTITY animLoopOnce.label             "Una sola vez">
+<!ENTITY animLoopOnce.accesskey         "o">
+<!ENTITY animLoopNever.label            "Nunca">
+<!ENTITY animLoopNever.accesskey        "N">
