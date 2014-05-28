@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">
 <!ENTITY checkSpelling.label             "Проверавај правопис док куцам">
-<!ENTITY checkSpelling.accesskey         "П">
+<!ENTITY checkSpelling.accesskey         "ц">
 
 <!ENTITY systemDefaults.label            "Подразумеване системске вредности">
 <!ENTITY alwaysCheckDefault.label        "При покретању провери да ли је &brandShortName; подразумевани прегледач"><!--XXX-->
@@ -129,7 +129,7 @@
 <!ENTITY certs.ask                       "Питај ме сваки пут">
 <!ENTITY certs.ask.accesskey             "т">
 <!ENTITY viewCerts.label                 "Преглед сертификата">
-<!ENTITY viewCerts.accesskey             "П">
+<!ENTITY viewCerts.accesskey             "ф">
 <!ENTITY verify2.label                   "Валидација">
 <!ENTITY verify2.accesskey               "В">
 <!ENTITY viewSecurityDevices.label       "Безбедоносни уређаји">

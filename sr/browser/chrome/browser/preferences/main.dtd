@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "Покретање">
 
 <!ENTITY startupPage.label         "Када се &brandShortName; покрене:">
-<!ENTITY startupPage.accesskey     "К">
+<!ENTITY startupPage.accesskey     "п">
 <!ENTITY startupHomePage.label     "Прикажи моју почетну страницу">
 <!ENTITY startupBlankPage.label    "Прикажи празну страницу">
 <!ENTITY startupLastSession.label  "Прикажи прозоре и језичке од прошлог пута">

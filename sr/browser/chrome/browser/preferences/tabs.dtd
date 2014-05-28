@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newWindowsAsTabs.label       "Отвори нове прозоре у новом језичку">
-<!ENTITY newWindowsAsTabs.accesskey   "О">
+<!ENTITY newWindowsAsTabs.accesskey   "ј">
 
 <!ENTITY warnCloseMultipleTabs.label  "Упозори ме при затварању више језичака">
 <!ENTITY warnCloseMultipleTabs.accesskey  "в">
@@ -18,5 +18,5 @@
 <!ENTITY switchToNewTabs.accesskey    "К">
 
 <!ENTITY showTabsInTaskbar.label          "Прикажи преглед језичка у Windows траци задатака">
-<!ENTITY showTabsInTaskbar.accesskey      "П">
+<!ENTITY showTabsInTaskbar.accesskey      "р">
 <!ENTITY tabsGroup.label          "Језичци">
