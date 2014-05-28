@@ -152,18 +152,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label "Atrás">
-<!ENTITY backCmd.accesskey "A">
 <!ENTITY backButton.tooltip "Retroceder una página">
 <!ENTITY forwardCmd.label "Adelante">
-<!ENTITY forwardCmd.accesskey "d">
 <!ENTITY forwardButton.tooltip "Avanzar una página">
 <!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Recargar la página actual">
 <!ENTITY stopCmd.label "Detener">
-<!ENTITY stopCmd.accesskey "t">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Detener la carga de la página">
 <!ENTITY goEndCap.tooltip "Ir a la dirección de la barra de direcciones">
@@ -446,7 +442,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label "Poner como fondo del escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta página">
-<!ENTITY bookmarkPageCmd2.accesskey   "M">
 
 <!ENTITY bookmarkThisLinkCmd.label      "Marcar este enlace">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
