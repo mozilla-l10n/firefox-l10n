@@ -69,7 +69,7 @@
 
 <!ENTITY languages.customize.Fallback.grouplabel  "Кодирање карактета за застарели садржај">
 <!ENTITY languages.customize.Fallback.label       "Резервно кодирање карактера:">
-<!ENTITY languages.customize.Fallback.accesskey   "Р">
+<!ENTITY languages.customize.Fallback.accesskey   "к">
 <!ENTITY languages.customize.Fallback.desc        "Ово кодирање карактера се користи за застарели садражај који не успева да декларише кодирање.">
 
 <!ENTITY languages.customize.Fallback.auto        "Подразумевано за овај локал">

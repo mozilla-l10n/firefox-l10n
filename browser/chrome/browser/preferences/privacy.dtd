@@ -25,7 +25,7 @@
 <!ENTITY  locbar.nothing.label          "Ништа">
 
 <!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
-<!ENTITY  acceptCookies.accesskey       "П">
+<!ENTITY  acceptCookies.accesskey       "к">
 
 <!ENTITY  acceptThirdParty.pre.label      "Прихватај колачиће од трећих лица:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "т">
@@ -44,10 +44,10 @@
 <!ENTITY  cookieExceptions.accesskey    "И">
 
 <!ENTITY  showCookies.label             "Прикажи колачиће…">
-<!ENTITY  showCookies.accesskey         "П">
+<!ENTITY  showCookies.accesskey         "л">
 
 <!ENTITY  historyHeader.pre.label          "Програм &brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "П">
+<!ENTITY  historyHeader.pre.accesskey      "м">
 <!ENTITY  historyHeader.remember.label     "ће бележити историјат">
 <!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
 <!ENTITY  historyHeader.custom.label       "ће да користи посебна подешавања за историјат">
