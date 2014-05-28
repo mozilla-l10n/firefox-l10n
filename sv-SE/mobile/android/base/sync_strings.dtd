@@ -178,7 +178,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ditt konto måste bekräftas. Tryck för att skicka ett nytt bekräftelsemejl.">
 <!ENTITY fxaccount_status_needs_credentials "Kan inte ansluta. Tryck för att logga in.">
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.Label; är uppsatt men syncar inte automatiskt. Slå igång \&quot;AutoSynk av data\&quot; i Android inställningarna &gt; Dataanvändning. ">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; är uppsatt men syncar inte automatiskt. Slå igång “AutoSynk av data” i Android inställningarna &gt; Dataanvändning. ">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt, Tryck för att starta synkningen.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
