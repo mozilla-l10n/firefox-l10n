@@ -4,12 +4,12 @@
 
 <!ENTITY csscoverage.backButton "Indietro">
 <!ENTITY csscoverage.unused "Regole inutilizzate">
-<!ENTITY csscoverage.noMatch "I seguenti selettori non corrispondono a nessun elemento rilevato durante i test, per cui dovrebbe essere possibile rimuoverli.">
+<!ENTITY csscoverage.noMatch "Nessuna corrispondenza disponibile per le seguenti regole:">
 <!ENTITY csscoverage.optimize "Pagine ottimizzabili">
 <!ENTITY csscoverage.preload1 "In alcuni casi è possibile velocizzare il caricamento spostando">
 <!ENTITY csscoverage.preload2 "tutti i tag al termine della pagina (dove non bloccano il caricamento) e creando un nuovo">
 <!ENTITY csscoverage.preload3 "elemento inline contenente le seguenti regole all’inizio della pagina:">
-<!ENTITY csscoverage.noPreload "Tutte le regole sono già inline. Al momento non siamo in grado di fornire suggerimenti per migliorare le prestazioni di questa pagina.">
+<!ENTITY csscoverage.noPreload "Tutte le regole sono inline.">
 <!ENTITY csscoverage.footer1 "Consultare">
 <!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "l’articolo di MDN sullo strumento Copertura CSS">
