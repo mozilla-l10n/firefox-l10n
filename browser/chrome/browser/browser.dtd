@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Bokmerk denne siden">
 <!ENTITY editThisBookmarkCmd.label "Rediger dette bokmerket">
-<!ENTITY bookmarkThisPageCmd.commandkey "R">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Del denne siden">
 <!ENTITY sharePageCmd.commandkey "S">
@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Gjenopprett forrige programøkt">
 
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
-<!ENTITY showAllHistoryCmd.commandkey "h">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktøylinjer">
