@@ -6,18 +6,18 @@
 
 
 
-<!ENTITY pref.search.title                "Internet Search">
-<!ENTITY legendHeader                     "Default Search Engine">
-<!ENTITY defaultSearchEngine.label        "Search using:">
-<!ENTITY defaultSearchEngine.accesskey    "S">
+<!ENTITY pref.search.title                "Busca en Internet">
+<!ENTITY legendHeader                     "Buscador predeterminau">
+<!ENTITY defaultSearchEngine.label        "Buscar usando:">
+<!ENTITY defaultSearchEngine.accesskey    "s">
 
-<!ENTITY engineManager.label              "Manage Search Engines…">
+<!ENTITY engineManager.label              "Administrar buscadores…">
 
-<!ENTITY searchResults.label              "Search Results">
+<!ENTITY searchResults.label              "Resultaus d'a busca">
 
-<!ENTITY openInTab.label                  "Open new tabs for sidebar search results">
-<!ENTITY openInTab.accesskey              "n">
-<!ENTITY openContextSearchTab.label       "Open a tab instead of a window for a context menu web search">
-<!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Open the Search tab in the sidebar when a search is invoked">
-<!ENTITY openSidebarSearchPanel.accesskey "O">
+<!ENTITY openInTab.label                  "Ubrir pestanyas nuevas con os resultaus de buscas en o panel lateral">
+<!ENTITY openInTab.accesskey              "U">
+<!ENTITY openContextSearchTab.label       "Abrir una pestanya en cuenta d'una finestra en buscar con o menú contextual">
+<!ENTITY openContextSearchTab.accesskey   "b">
+<!ENTITY openSidebarSearchPanel.label     "Ubrir a pestaña Busca en o panel lateral quan se realiza una busca">
+<!ENTITY openSidebarSearchPanel.accesskey "e">

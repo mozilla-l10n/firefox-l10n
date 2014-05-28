@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title           "Import Wizard">
+<!ENTITY migrationWizard.title           "Asistent d'importación">
 
-<!ENTITY importAllFrom.label             "Import All Items from:">
-<!ENTITY importBookmarksFrom.label       "Import Bookmarks from:">
+<!ENTITY importAllFrom.label             "Importar totz os elementos de:">
+<!ENTITY importBookmarksFrom.label       "Importar marcadors de:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromFile.label            "File">
+<!ENTITY importFromFile.label            "Fichero">
 <!ENTITY importFromFile.accesskey        "F">
-<!ENTITY importFromNothing.label         "Don't import anything">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromNothing.label         "No importar nada">
+<!ENTITY importFromNothing.accesskey     "d">
 
-<!ENTITY importSource.title              "Import Settings and Data">
-<!ENTITY importItems.title               "Items to Import">
-<!ENTITY importItems.label               "Select which items to import:">
+<!ENTITY importSource.title              "Importar configuración y datos">
+<!ENTITY importItems.title               "Elementos a importar">
+<!ENTITY importItems.label               "Trige qué elementos importar:">
 
-<!ENTITY selectProfile.title             "Select Profile">
-<!ENTITY selectProfile.label             "The following profiles are available to import from:">
+<!ENTITY selectProfile.title             "Trigar perfil">
+<!ENTITY selectProfile.label             "Son disponibles ta importar os siguients perfils:">
 
-<!ENTITY migrating.title                 "Importing…">
-<!ENTITY migrating.label                 "The following items are currently being imported…">
+<!ENTITY migrating.title                 "Importando…">
+<!ENTITY migrating.label                 "Se son importando os siguients elementos…">
 
-<!ENTITY done.title                      "Import Complete">
-<!ENTITY done.label                      "The following items were successfully imported:">
+<!ENTITY done.title                      "Importación completa">
+<!ENTITY done.label                      "Os siguients elementos s'importoron correctament:">

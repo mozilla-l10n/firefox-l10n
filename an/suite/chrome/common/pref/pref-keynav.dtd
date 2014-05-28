@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.keyNav.title "Keyboard Navigation">
-<!ENTITY tabNavigationBehavior.label "Tab Key Navigation">
-<!ENTITY tabNavigationLinks.label "Links">
-<!ENTITY tabNavigationLinks.accesskey "L">
-<!ENTITY tabNavigationForms.label "Buttons, radio buttons, checkboxes, and selection lists">
+<!ENTITY pref.keyNav.title "Navegación con teclau">
+<!ENTITY tabNavigationBehavior.label "Navegación con o tabulador">
+<!ENTITY tabNavigationLinks.label "Enlaces">
+<!ENTITY tabNavigationLinks.accesskey "l">
+<!ENTITY tabNavigationForms.label "Botones, botones de rayo, caixetas de verificación y listas">
 <!ENTITY tabNavigationForms.accesskey "B">
-<!ENTITY tabNavigationTextboxes.label "Note: text boxes and scrollable regions are always part of the tabbing order.">
-<!ENTITY tabNavigationDesc.label "When Tab or Shift+Tab is pressed, move between:">
-<!ENTITY accessibilityBrowseWithCaret.label "Browse With Caret">
-<!ENTITY browseWithCaretDesc.label "Caret browsing enables you to navigate and select within pages using the cursor keys to move a visible caret.">
-<!ENTITY browseWithCaretUse.label "Use caret browsing">
+<!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto y rechions desplazables siempre s'incluyen en a tabulación.">
+<!ENTITY tabNavigationDesc.label "Quan se preta Tab u Mayús+Tab, mover dentre:">
+<!ENTITY accessibilityBrowseWithCaret.label "Navegar con cursor">
+<!ENTITY browseWithCaretDesc.label "a navegación con cursor le permite navegar y realizar seleccions dentro d'as pachinas usando as teclas d'o cursor ta mover un cursor visible.">
+<!ENTITY browseWithCaretUse.label "Usar navegación con cursor">
 <!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Use the F7 shortcut to toggle caret browsing">
-<!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Warn me before turning on caret browsing">
-<!ENTITY browseWithCaretWarn.accesskey "W">
+<!ENTITY browseWithCaretShortCut.label "Usar l'alcorce de teclau F7 ta alternar a navegación con cursor">
+<!ENTITY browseWithCaretShortCut.accesskey "s">
+<!ENTITY browseWithCaretWarn.label "Advertir-me/Advertir'me antes d'activar a navegación con cursores">
+<!ENTITY browseWithCaretWarn.accesskey "A">

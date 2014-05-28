@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderProperties.title "New Saved Search Folder">
-<!ENTITY name.label                 "Name:">
+<!ENTITY virtualFolderProperties.title "Nueva carpeta de buscas alzadas">
+<!ENTITY name.label                 "Nombre:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Create as a subfolder of:">
+<!ENTITY description.label          "Creyar como subcarpeta de:">
 <!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Configure the search criteria used for this saved search folder: ">
+<!ENTITY searchTermCaption.label "Configurar o criterio de busqueda usau ta ista carpeta virtual: ">
 
-<!ENTITY folderSelectionCaption.label "Select the folders to search: ">
-<!ENTITY chooseFoldersButton.label "Choose…">
-<!ENTITY chooseFoldersButton.accesskey "h">
+<!ENTITY folderSelectionCaption.label "Trigar as carpetas en el qual buscar: ">
+<!ENTITY chooseFoldersButton.label "Elegir…">
+<!ENTITY chooseFoldersButton.accesskey "r">
 
-<!ENTITY searchOnline.label "Search Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)">
-<!ENTITY searchOnline.accesskey "S">
-<!ENTITY newFolderButton.label       "Create">
-<!ENTITY newFolderButton.accesskey   "r">
-<!ENTITY editFolderButton.label      "Update">
-<!ENTITY editFolderButton.accesskey  "U">
+<!ENTITY searchOnline.label "Buscar en linia (da resultaus actualizaus de carpetas IMAP y de noticias, pero aumenta o tiempo d'obridura d'a carpeta)">
+<!ENTITY searchOnline.accesskey "B">
+<!ENTITY newFolderButton.label       "Crear">
+<!ENTITY newFolderButton.accesskey   "e">
+<!ENTITY editFolderButton.label      "Actualizar">
+<!ENTITY editFolderButton.accesskey  "A">

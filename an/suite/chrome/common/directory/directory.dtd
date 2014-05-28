@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY directoryWindow.filename.label "Name">
-<!ENTITY directoryWindow.contentlength.label "Size">
-<!ENTITY directoryWindow.lastmodified.label "Last Modified">
+<!ENTITY directoryWindow.filename.label "Nombre">
+<!ENTITY directoryWindow.contentlength.label "Grandaria">
+<!ENTITY directoryWindow.lastmodified.label "Zaguera modificación">

@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY progress.title                  "Download in Progress…">
+<!ENTITY progress.title                  "Descarga en progreso…">
 <!ENTITY closeWindow.key                 "w">
-<!ENTITY cmd.pause.tooltip               "Pause">
-<!ENTITY cmd.resume.tooltip              "Resume">
-<!ENTITY cmd.retry.tooltip               "Retry">
-<!ENTITY cmd.cancel.tooltip              "Cancel">
-<!ENTITY cmd.open.label                  "Open">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.show.label                  "Open Containing Folder">
-<!ENTITY cmd.show.accesskey              "F">
-<!ENTITY cmd.goToDownloadPage.label      "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey  "G">
-<!ENTITY cmd.copyDownloadLink.label      "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey  "L">
-<!ENTITY closeWhenDone.label             "Close this window when the download is complete.">
-<!ENTITY closeWhenDone.accesskey         "w">
+<!ENTITY cmd.pause.tooltip               "Pausar">
+<!ENTITY cmd.resume.tooltip              "Reanudar">
+<!ENTITY cmd.retry.tooltip               "Reintentar">
+<!ENTITY cmd.cancel.tooltip              "Cancelar">
+<!ENTITY cmd.open.label                  "Ubrir">
+<!ENTITY cmd.open.accesskey              "U">
+<!ENTITY cmd.show.label                  "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey              "b">
+<!ENTITY cmd.goToDownloadPage.label      "Ir a la pachina de la descarga">
+<!ENTITY cmd.goToDownloadPage.accesskey  "I">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar vinclo de la descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey  "C">
+<!ENTITY closeWhenDone.label             "Zarrar ista finestra cuando se complete la descarga.">
+<!ENTITY closeWhenDone.accesskey         "d">

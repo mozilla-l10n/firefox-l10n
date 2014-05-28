@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.notifications.title         "Notifications">
-<!ENTITY notifications.caption            "Notifications">
-<!ENTITY newMessagesArrive.label          "When new messages arrive:">
+<!ENTITY pref.notifications.title         "Notificaciones">
+<!ENTITY notifications.caption            "Notificaciones">
+<!ENTITY newMessagesArrive.label          "Quan pleguen nuevos mensaches:">
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
      leading into a numerical field to enter a time in seconds, followed by
@@ -22,21 +22,21 @@
 <!ENTITY showAlertSender.label            "Show the sender">
 <!ENTITY showAlertSender.accesskey        "n">
 
-<!ENTITY showTrayIcon.label               "Show a tray icon">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.label               "Amostrar un icono en a servilla">
+<!ENTITY showTrayIcon.accesskey           "i">
 <!ENTITY showBalloon.label                "Show a balloon alert">
 <!ENTITY showBalloon.accesskey            "o">
-<!ENTITY bounceSystemDockIcon.label       "Animate the Dock icon">
+<!ENTITY bounceSystemDockIcon.label       "Animar l'icono de notificación">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
-<!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound.accesskey              "P">
-<!ENTITY playButton.label                 "Play">
-<!ENTITY playButton.accesskey             "l">
-<!ENTITY systemsound.label                "System New Mail Sound">
-<!ENTITY systemsound.accesskey            "M">
-<!ENTITY customsound.label                "Custom sound file">
-<!ENTITY customsound.accesskey            "C">
-<!ENTITY browse.label                     "Browse…">
-<!ENTITY browse.accesskey                 "B">
-<!ENTITY browse.title                     "Choose file">
+<!ENTITY playSound.label                  "Reproducir un son">
+<!ENTITY playSound.accesskey              "p">
+<!ENTITY playButton.label                 "Reproducir">
+<!ENTITY playButton.accesskey             "R">
+<!ENTITY systemsound.label                "Son de nuevo mensache de correu d'o sistema">
+<!ENTITY systemsound.accesskey            "m">
+<!ENTITY customsound.label                "Archivo de son personalizau">
+<!ENTITY customsound.accesskey            "h">
+<!ENTITY browse.label                     "Examinar…">
+<!ENTITY browse.accesskey                 "E">
+<!ENTITY browse.title                     "Esleir fichero">

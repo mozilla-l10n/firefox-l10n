@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newMessageCmd.label             "Message">
+<!ENTITY newMessageCmd.label             "Mensache">
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newContactCmd.label             "Contact…">
+<!ENTITY newContactCmd.label             "Contacto…">
 <!ENTITY newContactCmd.accesskey         "C">
 
-<!ENTITY sendPage.label                  "Send Page…">
-<!ENTITY sendPage.accesskey              "S">
+<!ENTITY sendPage.label                  "Ninviar pachina…">
+<!ENTITY sendPage.accesskey              "p">
 
-<!ENTITY contextSendThisPage.label       "Send This Page…">
-<!ENTITY contextSendThisPage.accesskey   "d">
-<!ENTITY contextSendThisLink.label       "Send This Link…">
-<!ENTITY contextSendThisLink.accesskey   "k">
-<!ENTITY contextSendImage.label          "Send Image…">
+<!ENTITY contextSendThisPage.label       "Ninviar ista pachina…">
+<!ENTITY contextSendThisPage.accesskey   "p">
+<!ENTITY contextSendThisLink.label       "Niviar iste vinclo…">
+<!ENTITY contextSendThisLink.accesskey   "v">
+<!ENTITY contextSendImage.label          "Ynviar imachen…">
 <!ENTITY contextSendImage.accesskey      "n">
-<!ENTITY contextSendVideo.label          "Send Video…">
+<!ENTITY contextSendVideo.label          "Ynviar vídeo…">
 <!ENTITY contextSendVideo.accesskey      "n">
-<!ENTITY contextSendAudio.label          "Send Audio…">
+<!ENTITY contextSendAudio.label          "Ynviar audio…">
 <!ENTITY contextSendAudio.accesskey      "n">
-<!ENTITY contextSendFrame.label          "Send Frame…">
-<!ENTITY contextSendFrame.accesskey      "d">
+<!ENTITY contextSendFrame.label          "Ynviar marco…">
+<!ENTITY contextSendFrame.accesskey      "n">
 
-<!ENTITY sendLinkCmd.label               "Send Link…"> 
-<!ENTITY sendLinkCmd.accesskey           "d">
+<!ENTITY sendLinkCmd.label               "Ninviar enlace…"> 
+<!ENTITY sendLinkCmd.accesskey           "l">
 

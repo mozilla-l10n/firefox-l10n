@@ -4,9 +4,9 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 
-<!ENTITY pref.mouseWheel.title           "Mouse Wheel">
-<!ENTITY mouseWheelPanel.label           "Specify mouse wheel behavior when used with this modifier key: ">
-<!ENTITY usingJustTheWheel.label         "No modifier key">
+<!ENTITY pref.mouseWheel.title           "Rueda d'o rato">
+<!ENTITY mouseWheelPanel.label           "Indique o comportamiento d'a rueda d'o rato en usar-la con ista tecla: ">
+<!ENTITY usingJustTheWheel.label         "Sin tecla modificadora">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
@@ -20,11 +20,11 @@
 <!ENTITY scrollDocument.label            "Scroll the document">
 <!ENTITY scrollDocument.accesskey        "S">
 <!ENTITY scrollDocumentHoriz.accesskey   "c">
-<!ENTITY history.label                   "Move back and forward in the browsing history">
+<!ENTITY history.label                   "Mover abance y dezaga en l'historial de navegación">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY zoom.label                      "Zoom the page in or out">
-<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoom.label                      "Aumentar u reducir a grandaria d'a pachina">
+<!ENTITY zoom.accesskey                  "A">
 <!ENTITY zoomHoriz.accesskey             "o">
 <!ENTITY wheelSpeed.label                "Mouse wheel speed:">
 <!ENTITY wheelSpeed.accesskey            "w">

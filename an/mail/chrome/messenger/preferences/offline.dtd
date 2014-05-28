@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Offline Settings">
+<!ENTITY offlineDialog.title "Configuración sin connexión">
 
-<!ENTITY textStartUp "When starting up:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
+<!ENTITY textStartUp "Al encetar:">
+<!ENTITY radioRememberPrevState.label "Recordar o estau de connexión anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
+<!ENTITY radioAskMe.label "Preguntar-me/untar'me o modo de connexión en encetar">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnline.label "Encetar siempre connectau">
+<!ENTITY radioAlwaysOnline.accesskey "E">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY textGoingOnline "Ninviar mensaches pendients en pasar a modo con connexión?">
+<!ENTITY radioAutoSend.label "Sí">
+<!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskUnsent.label "Preguntar-me/Preguntar'me">
+<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY textGoingOffline "Descargar mensaches t'o suyo uso desconectado en pasar a modo sin connexión?">
+<!ENTITY radioAutoDownload.label "Siempre">
+<!ENTITY radioAutoDownload.accesskey "m">
+<!ENTITY radioNotDownload.label "Nunca">
+<!ENTITY radioNotDownload.accesskey "c">
+<!ENTITY radioAskDownload.label "Preguntarme">
+<!ENTITY radioAskDownload.accesskey "e">

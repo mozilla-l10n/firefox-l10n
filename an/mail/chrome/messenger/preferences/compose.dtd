@@ -2,60 +2,60 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label                   "General">
-<!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemGeneral.label                   "Cheneral">
+<!ENTITY itemAutoComplete.label              "Destinatario">
+<!ENTITY itemSpellCheck.label                "Ortografía">
 
-<!ENTITY forwardMsg.label                     "Forward messages:">
-<!ENTITY forwardMsg.accesskey                 "F">
-<!ENTITY inline.label                         "Inline">
-<!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY addExtension.label                   "add extension to file name">
-<!ENTITY addExtension.accesskey               "e">
+<!ENTITY forwardMsg.label                     "Reninviar mensaches:">
+<!ENTITY forwardMsg.accesskey                 "m">
+<!ENTITY inline.label                         "Incorporau">
+<!ENTITY asAttachment.label                   "Como adchunto">
+<!ENTITY addExtension.label                   "Adhibir extensión a o nombre de fichero">
+<!ENTITY addExtension.accesskey               "A">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
-<!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Color:">
-<!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
+<!ENTITY font.label                           "Tipo de letra:">
+<!ENTITY font.accesskey                       "T">
+<!ENTITY size.label                           "Tamañu:">
+<!ENTITY size.accesskey                       "u">
+<!ENTITY fontColor.label                      "Color d'o texto:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Color de fondo:">
+<!ENTITY bgColor.accesskey                    "C">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar valors por omisión">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Check spelling before sending">
+<!ENTITY spellCheck.label                     "Comprobar a ortografía antes de ninviar">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey          "E">
-<!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
+<!ENTITY spellCheckInline.label               "Activar corrección ortografica en escribir">
+<!ENTITY spellCheckInline1.accesskey          "v">
+<!ENTITY languagePopup.label                  " Idioma:">
+<!ENTITY languagePopup.accessKey              "I">
+<!ENTITY downloadDictionaries.label           "Descargar mas diccionarios">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey         "C">
-<!ENTITY autoSave.label                       "Auto Save every">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar en usar l'alcorce de teclau para ninvio de mensaches">
+<!ENTITY warnOnSendAccelKey.accesskey         "n">
+<!ENTITY autoSave.label                       "Alzar automaticament cada">
 <!ENTITY autoSave.accesskey                   "A">
-<!ENTITY autoSaveEnd.label                    "minutes">
+<!ENTITY autoSaveEnd.label                    "menutos">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.label           "Adhibir automaticament as adrezas de correu saliente a o mío(s):">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
-<!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
-<!ENTITY addressingEnable.label                "Local Address Books">
+<!ENTITY addressingTitle.label                 "Autocompletado d'adrezas">
+<!ENTITY autocompleteText.label                "Al ninviar mensaches, buscar dentradas coincidents en:">
+<!ENTITY addressingEnable.label                "Libretas d'adrezas locals">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Directory Server:">
-<!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
+<!ENTITY directories.label                     "Servidor de directorio:">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY directoriesNone.label                 "Garra">
+<!ENTITY editDirectories.label                 "Editar directorios…">
 <!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptionsDescription.label          "Configurar comportamiento d'o formato de texto">
+<!ENTITY sendOptions.label                     "Opciones d'envío…">
+<!ENTITY sendOptions.accesskey                 "v">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Compro/Crompotabierna adjuntos ixuplidaus">
+<!ENTITY attachmentReminder.accesskey          "t">
+<!ENTITY attachmentReminderOptions.label       "Parolas clave…">
+<!ENTITY attachmentReminderOptions.accesskey   "P">

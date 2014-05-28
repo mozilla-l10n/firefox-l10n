@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  newMessageCmd2.key              "N">
-<!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Message">
-<!ENTITY  newMessageCmd.accesskey         "m">
+<!ENTITY  newMessageCmd.key               " M">
+<!ENTITY  newMessageCmd.label             "Mensache">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newContactCmd.label             "Address Book Contact…">
+<!ENTITY  newContactCmd.label             "Contacto d'a libreta d'adrezas…">
 <!ENTITY  newContactCmd.accesskey         "C">

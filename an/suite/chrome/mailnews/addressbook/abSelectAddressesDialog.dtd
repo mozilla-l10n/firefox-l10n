@@ -3,29 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
 
-<!ENTITY selectAddressWindow.title           "Select Addresses">
+<!ENTITY selectAddressWindow.title           "Trigar adrezas">
 <!-- Buttons -->
 
-<!ENTITY toButton.label                      "To->"> 
-<!ENTITY toButton.accesskey                  "T"> 
+<!ENTITY toButton.label                      "Para:"> 
+<!ENTITY toButton.accesskey                  "P"> 
 <!ENTITY ccButton.label                      "Cc->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
 <!ENTITY bccButton.label                     "Bcc->">  
 <!ENTITY bccButton.accesskey                 "B">  
-<!ENTITY newButton.label                     "New…"> 
+<!ENTITY newButton.label                     "Nuevo…"> 
 <!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "Edit…"> 
+<!ENTITY editButton.label                    "Editar…"> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Remove"> 
-<!ENTITY removeButton.accesskey              "R"> 
-<!ENTITY lookIn.label                        "Look in:"> 
-<!ENTITY lookIn.accesskey                    "L"> 
-<!ENTITY for.label                           "for:"> 
-<!ENTITY for.accesskey                       "f"> 
-<!ENTITY for.placeholder                     "Name or Email">
-<!ENTITY addressMessageTo.label              "Address message to:"> 
+<!ENTITY removeButton.label                  "Eliminar"> 
+<!ENTITY removeButton.accesskey              "r"> 
+<!ENTITY lookIn.label                        "Buscar en:"> 
+<!ENTITY lookIn.accesskey                    "u"> 
+<!ENTITY for.label                           "por:"> 
+<!ENTITY for.accesskey                       "o"> 
+<!ENTITY for.placeholder                     "Nombre u adreza de correu">
+<!ENTITY addressMessageTo.label              "Mandar mensache a:"> 
 <!-- Tooltips items -->  
 
-<!ENTITY addressPickerNewButton.tooltip      "Create a new address book card"> 
-<!ENTITY addressPickerEditButton.tooltip     "Edit the selected card"> 
+<!ENTITY addressPickerNewButton.tooltip      "Creyar una nueva tarcheta en a libreta d'adrezas"> 
+<!ENTITY addressPickerEditButton.tooltip     "Editar a tarcheta trigada"> 
 

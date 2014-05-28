@@ -7,17 +7,17 @@
 <!ENTITY messengerCmd.label     "Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey    "m">
 <!ENTITY messengerCmd.commandkey   "2">
-<!ENTITY addressBookCmd.label    "Address Book">  
-<!ENTITY addressBookCmd.accesskey   "a">
+<!ENTITY addressBookCmd.label    "Libreta d'adrezas">  
+<!ENTITY addressBookCmd.accesskey   "d">
 <!ENTITY addressBookCmd.commandkey   "5">
 
-<!ENTITY taskMessenger.tooltip  "Mail &amp; Newsgroups">
-<!ENTITY taskAddressBook.tooltip  "Address Book">
+<!ENTITY taskMessenger.tooltip  "Correu y noticias">
+<!ENTITY taskAddressBook.tooltip  "Libreta d'adrezas">
 <!-- searchAddressesCmd is also used by addressbook -->
 
-<!ENTITY searchAddressesCmd.label                       "Search Addresses…">
-<!ENTITY searchAddressesCmd.accesskey                   "A">
+<!ENTITY searchAddressesCmd.label                       "Buscar adrezas…">
+<!ENTITY searchAddressesCmd.accesskey                   "a">
 
-<!ENTITY searchMailCmd.label "Search Messages…">
-<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.label "Buscar mensaches…">
+<!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">

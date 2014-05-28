@@ -5,34 +5,34 @@
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 
 
-<!ENTITY pref.network.title               "Network &amp; Storage">
-<!ENTITY pref.offline.caption             "Offline">
-<!ENTITY textStartUp                      "When starting up:">
-<!ENTITY textStartUp.accesskey            "W">
-<!ENTITY menuitemRememberPrevState        "Remember previous online state">
-<!ENTITY menuitemAskMe                    "Ask me for online state at startup">
-<!ENTITY menuitemAlwaysOnline             "Always start up online">
-<!ENTITY menuitemAlwaysOffline            "Always start up offline">
-<!ENTITY menuitemAutomatic                "Detect automatically (if available)">
-<!ENTITY textGoingOnline                  "Send unsent messages when going online?">
-<!ENTITY radioAutoSend                    "Yes">
-<!ENTITY radioAutoSend.accesskey          "Y">
+<!ENTITY pref.network.title               "Ret y almacenamiento">
+<!ENTITY pref.offline.caption             "Desconectado">
+<!ENTITY textStartUp                      "Al encetar:">
+<!ENTITY textStartUp.accesskey            "A">
+<!ENTITY menuitemRememberPrevState        "Recordar o modo de connexión previo">
+<!ENTITY menuitemAskMe                    "Preguntar-me/Preguntar'me o modo de connexión (sin/con) en encetar">
+<!ENTITY menuitemAlwaysOnline             "Encetar siempre con connexión">
+<!ENTITY menuitemAlwaysOffline            "Encetar siempre sin connexión">
+<!ENTITY menuitemAutomatic                "Detectar automaticament (si ye disponible)">
+<!ENTITY textGoingOnline                  "Procesar mensaches no ninviaus en pasar a modo con connexión?">
+<!ENTITY radioAutoSend                    "Sí">
+<!ENTITY radioAutoSend.accesskey          "S">
 <!ENTITY radioNotSend                     "No">
 <!ENTITY radioNotSend.accesskey           "N">
-<!ENTITY radioAskUnsent                   "Ask me">
-<!ENTITY radioAskUnsent.accesskey         "s">
-<!ENTITY textGoingOffline                 "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload                "Yes">
-<!ENTITY radioAutoDownload.accesskey      "e">
-<!ENTITY radioNotDownload                 "No">
-<!ENTITY radioNotDownload.accesskey       "o">
-<!ENTITY radioAskDownload                 "Ask me">
-<!ENTITY radioAskDownload.accesskey       "k">
-<!ENTITY mailConnections.caption          "Mail Connections">
-<!ENTITY mailnewsTimeout.label            "Connection timeout:">
-<!ENTITY mailnewsTimeout.accesskey        "m">
-<!ENTITY mailnewsTimeoutSeconds.label     "seconds">
-<!ENTITY Diskspace                        "Disk Space">
+<!ENTITY radioAskUnsent                   "Preguntar-me">
+<!ENTITY radioAskUnsent.accesskey         "P">
+<!ENTITY textGoingOffline                 "Descargar mensaches antes de pasar a modo sin connexión?">
+<!ENTITY radioAutoDownload                "Siempre">
+<!ENTITY radioAutoDownload.accesskey      "y">
+<!ENTITY radioNotDownload                 "Nunca">
+<!ENTITY radioNotDownload.accesskey       "u">
+<!ENTITY radioAskDownload                 "Preguntar-me/Preguntar'me">
+<!ENTITY radioAskDownload.accesskey       "g">
+<!ENTITY mailConnections.caption          "Connexions de correu">
+<!ENTITY mailnewsTimeout.label            "Caducidad d'a connexión:">
+<!ENTITY mailnewsTimeout.accesskey        "d">
+<!ENTITY mailnewsTimeoutSeconds.label     "segundos">
+<!ENTITY Diskspace                        "Espacio en disco">
 <!ENTITY offlineCompactFolders.label      "Compact all folders when it will save over">
 <!ENTITY offlineCompactFolders.accesskey  "C">
 <!ENTITY offlineCompactFoldersMB.label    "MB in total">

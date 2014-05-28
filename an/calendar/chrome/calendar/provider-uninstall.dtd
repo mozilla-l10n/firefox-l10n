@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY providerUninstall.title                           "Uninstall a Provider">
-<!ENTITY providerUninstall.accept.label                    "Unsubscribe Selected">
-<!ENTITY providerUninstall.accept.accesskey                "U">
-<!ENTITY providerUninstall.cancel.label                    "Keep Addon">
-<!ENTITY providerUninstall.cancel.accesskey                "K">
-<!ENTITY providerUninstall.preName.label                   "You have requested to uninstall or disable:">
-<!ENTITY providerUninstall.postName.label                  "This will cause the calendars below to be disabled.">
-<!ENTITY providerUninstall.reinstallNote.label             "Unless you are planning to reinstall this provider, you may choose to unsubscribe from this provider's calendars.">
+<!ENTITY providerUninstall.title                           "Desinstalar un proveedor">
+<!ENTITY providerUninstall.accept.label                    "Cancelar a suscripción d'os trigaus">
+<!ENTITY providerUninstall.accept.accesskey                "u">
+<!ENTITY providerUninstall.cancel.label                    "Conservar complemento">
+<!ENTITY providerUninstall.cancel.accesskey                "C">
+<!ENTITY providerUninstall.preName.label                   "Ha solicitau desinstalar u desactivar:">
+<!ENTITY providerUninstall.postName.label                  "Isto causará que se desactiven os calandarios siguients.">
+<!ENTITY providerUninstall.reinstallNote.label             "De no estar que planee reinstalar iste proveedor, puede esleir desuscribirse d'os calandarios d'iste proveedor.">

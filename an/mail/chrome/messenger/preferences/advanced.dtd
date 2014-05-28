@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label       "General">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
-<!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
-<!ENTITY itemCertificates.label  "Certificates">
+<!ENTITY itemGeneral.label       "Cheneral">
+<!ENTITY itemDisplay.label       "Lectura y visualización">
+<!ENTITY itemUpdate.label        "Actualización">
+<!ENTITY itemNetworking.label    "Ret y espacio en disco">
+<!ENTITY itemCertificates.label  "Certificaus">
 <!-- General Settings -->
 
 
-<!ENTITY submitTelemetry.label         "Submit Performance Data">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
-<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
-<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY submitTelemetry.label         "Enviar datos de rendimiento">
+<!ENTITY submitTelemetry.accesskey     "v">
+<!ENTITY telemetryInfoLink.label       "Mas información sobre Telemetry">
+<!ENTITY enableGlodaSearch.label       "Activar indexador y busca global">
+<!ENTITY enableGlodaSearch.accesskey   "A">
 
 <!ENTITY scrolling.label               "Desplazamiento">
 <!ENTITY useAutoScroll.label           "Use autoscrolling">
@@ -22,45 +22,45 @@
 <!ENTITY useSmoothScrolling.label      "Fer servir o desplazamiento suau">
 <!ENTITY useSmoothScrolling.accesskey  "s">
 
-<!ENTITY systemIntegration.label       "System Integration">
-<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
-<!ENTITY alwaysCheckDefault.accesskey  "A">
-<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY systemIntegration.label       "Integración con o sistema">
+<!ENTITY alwaysCheckDefault.label      "Comprebar siempre en encetar si &brandShortName; ye o client de correu por omisión">
+<!ENTITY alwaysCheckDefault.accesskey  "C">
+<!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque en os mensaches">
+<!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkDefaultsNow.label        "Check Now…">
 <!ENTITY checkDefaultsNow.accesskey    "N">
-<!ENTITY configEditDesc.label          "Advanced Configuration">
-<!ENTITY configEdit.label              "Config Editor…">
-<!ENTITY configEdit.accesskey          "C">
-<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
-<!ENTITY showReturnReceipts.label      "Return Receipts…">
-<!ENTITY showReturnReceipts.accesskey  "R">
+<!ENTITY configEditDesc.label          "Configuración abanzada">
+<!ENTITY configEdit.label              "Editor de configuración…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Determinar cómo chestiona &brandShortName; los acuses de recibimiento">
+<!ENTITY showReturnReceipts.label      "Acuses de recibimiento…">
+<!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Display and Reading Settings -->
 
-<!ENTITY reading.caption               "Reading">
-<!ENTITY display.caption               "Display">
-<!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
-<!ENTITY showCondensedAddresses.accesskey "S">
+<!ENTITY reading.caption               "Lectura">
+<!ENTITY display.caption               "Visualización">
+<!ENTITY showCondensedAddresses.label  "Mostrar solament l'atributo 'nombre amostrau' ta las personas d'a mía libreta d'adrezas">
+<!ENTITY showCondensedAddresses.accesskey "a">
 
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!ENTITY autoMarkAsRead.label          "Marcar mensache automaticament como leito">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Inmediatamente dimpués d'amostrar-lo">
+<!ENTITY markAsReadNoDelay.accesskey   "n">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "d">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY openMsgIn.label               "Open messages in:">
-<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY markAsReadDelay.label         "Dimpués d'amostrar-lo entre">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "segundos">
+<!ENTITY openMsgIn.label               "Ubrir mensaches en:">
+<!ENTITY openMsgInNewTab.label         "Una pestaña nueva">
 <!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "A new message window">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "An existing message window">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY reuseExpRadio0.label          "Una finestra de mensaches nueva">
+<!ENTITY reuseExpRadio0.accesskey      "U">
+<!ENTITY reuseExpRadio1.label          "Una finestra de mensaches existent">
+<!ENTITY reuseExpRadio1.accesskey      "f">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Zarrar pestanya/finestra d'o mensache en mover u eliminar">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName; updates:">
@@ -70,8 +70,8 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "Gritar-me/Gritar'me si isto desactivará belún d'os míos complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "G">
 <!ENTITY updateHistory.label             "Show Update History">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -79,16 +79,16 @@
 <!ENTITY useService.accesskey            "b">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showSettings.label            "Settings…">
-<!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
-<!ENTITY connectionsInfo.caption       "Connection">
-<!ENTITY offlineInfo.caption           "Offline">
-<!ENTITY offlineInfo.label             "Configure offline settings">
-<!ENTITY showOffline.label             "Offline…">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showSettings.label            "Configuración…">
+<!ENTITY showSettings.accesskey        "C">
+<!ENTITY proxiesConfigure.label        "Configurar cómo se connecta &brandShortName; a Internet">
+<!ENTITY connectionsInfo.caption       "Connexión">
+<!ENTITY offlineInfo.caption           "Desconectado">
+<!ENTITY offlineInfo.label             "Configurar modo sin connexión">
+<!ENTITY showOffline.label             "Sin connexión…">
+<!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace                       "Disk Space">
+<!ENTITY Diskspace                       "Espacio en disco">
 <!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB in total">
@@ -99,22 +99,22 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.label            "Usar dica">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB of space for the cache">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY useCacheAfter.label             "MB d'espacio t'a caché">
+<!ENTITY clearCacheNow.label             "Limpiar agora">
+<!ENTITY clearCacheNow.accesskey         "L">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certSelection.description       "Quan un servidor solicite o mío certificau personal:">
+<!ENTITY certs.auto                      "Trigar un automaticament">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       " Preguntar-me/Preguntar'me cada vez">
+<!ENTITY certs.ask.accesskey             "P">
 
-<!ENTITY viewCertificates.label         "View Certificates">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Validation">
+<!ENTITY viewCertificates.label         " Veyer certificados">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY validation.label               "Validación">
 <!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.label      "Dispositivos de seguranza">
+<!ENTITY viewSecurityDevices.accesskey  "D">

@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label            "Content Type">
+<!ENTITY  typeColumn.label            "Tipo de conteniu">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Action">
+<!ENTITY  actionColumn2.label         "Acción">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Buscar">
 
-<!ENTITY saveTo.label                 "Save files to">
-<!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY saveTo.label                 "Alzar fichers en">
+<!ENTITY saveTo.accesskey             "A">
+<!ENTITY alwaysAsk.label              "Preguntar-me/Preguntar'me siempre án alzar fichers">
+<!ENTITY alwaysAsk.accesskey          "P">
+<!ENTITY chooseFolderWin.label        "Yxaminar…">
+<!ENTITY chooseFolderWin.accesskey    "x">
+<!ENTITY chooseFolderMac.label        "Esleir…">
+<!ENTITY chooseFolderMac.accesskey    "E">
 
 <!ENTITY attachments.incoming.label   "Incoming">
 <!ENTITY attachments.outgoing.label   "Outgoing">

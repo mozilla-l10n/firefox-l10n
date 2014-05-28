@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title  "System Integration">
+<!ENTITY systemIntegration.title  "Integración con o sistema">
 <!ENTITY acceptIntegration.label  "Set as Default">
 <!ENTITY cancelIntegration.label  "Skip Integration">
 <!ENTITY cancelIntegration2.label  "Cancel">
-<!ENTITY defaultClient.intro  "Use &brandShortName; as the default client for:">
+<!ENTITY defaultClient.intro  "Usar &brandShortName; como client por omisión para:">
 
-<!ENTITY email.label "E-Mail">
-<!ENTITY newsgroups.label "Newsgroups">
-<!ENTITY feeds.label "Feeds">
+<!ENTITY email.label "Correu-y">
+<!ENTITY newsgroups.label " Grupos de noticias">
+<!ENTITY feeds.label "Canales">
 
 <!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
 
-<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.label "Fer siempre ista comprobación en encetar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "F">
 
-<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; busque en os mensaches">
+<!ENTITY searchIntegration.accesskey "P">

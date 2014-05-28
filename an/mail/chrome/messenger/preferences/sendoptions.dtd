@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Send Options">
-<!ENTITY sendMail.title               "Text Format">
-<!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text">
+<!ENTITY dialog.title                 "Opciones de ninvio">
+<!ENTITY sendMail.title               "Formato d'o texto">
+<!ENTITY sendMaildesc.label           "Al ninviar mensaches en formato HTML y un u mas destinatario no sían en a lista ta poder recibir HTML:">
+<!ENTITY askMe.label                  "Preguntar-me/Preguntar'me qué fer">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Convertir o mensache a texto sin formato">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message in HTML anyway">
-<!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
+<!ENTITY sendHTML.label               "Ninviar o mensaje en HTML de totz modos">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Ninviar o mensache en texto sin formato y en HTML">
+<!ENTITY sendBoth.accesskey           "N">
+<!ENTITY override.label               "Nota: use a libreta d'adrezas ta especificar os formatos preferius de texto ta os destinatarios.">
 
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format.">
-<!ENTITY HTMLTab.label                "HTML Domains">
+<!ENTITY domaindesc.label             "Al ninviar un mensache a una adreza con un de los nombres de dominio listaus debaixo, &brandShortName; automaticament ninvia o mensache en o formato correcto.">
+<!ENTITY HTMLTab.label                "Dominios HTML">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Plain Text Domains">
-<!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Add…">
+<!ENTITY PlainTextTab.label           "Dominios de texto sin formato">
+<!ENTITY PlainTextTab.accesskey       "f">
+<!ENTITY AddHtmlDomain.label          "Adhibir…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddPlainText.label           "Adhibir…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "D">
-<!ENTITY DeletePlainText.label        "Delete">
-<!ENTITY DeletePlainText.accesskey    "D">
+<!ENTITY DeleteHtmlDomain.label       "Eliminar">
+<!ENTITY DeleteHtmlDomain.accesskey   "n">
+<!ENTITY DeletePlainText.label        "Eliminar">
+<!ENTITY DeletePlainText.accesskey    "n">
 
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
+<!ENTITY add.htmltitle                "Adhibir nombre de dominio HTML">
+<!ENTITY add.htmldomain               "Nombre de dominio HTML:">
+<!ENTITY add.plaintexttitle           "Adhibir nombre de dominio de texto sin formato">
+<!ENTITY add.plaintextdomain          "Nombre de dominio de texto sin formato:">

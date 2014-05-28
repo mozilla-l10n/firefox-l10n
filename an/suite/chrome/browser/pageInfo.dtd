@@ -8,11 +8,11 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  copy.key               "C">
-<!ENTITY  copy.label             "Copy">
+<!ENTITY  copy.label             "Copiar">
 <!ENTITY  copy.accesskey         "C">
 <!ENTITY  selectall.key          "A">
-<!ENTITY  selectall.label        "Select All">
-<!ENTITY  selectall.accesskey    "A">
+<!ENTITY  selectall.label        "Seleccionar tot">
+<!ENTITY  selectall.accesskey    "a">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Copy Link(s)">
@@ -22,101 +22,101 @@
 <!ENTITY  openInNewWindow.label     "Open in New Window">
 <!ENTITY  openInNewWindow.accesskey "W">
 
-<!ENTITY  generalTab            "General">
+<!ENTITY  generalTab            "Cheneral">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalURL            "Address:">
-<!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Render Mode:">
-<!ENTITY  generalSize           "Size:">
-<!ENTITY  generalReferrer       "Referring URL:">
-<!ENTITY  generalSource         "Cache Source:">
-<!ENTITY  generalModified       "Modified:">
-<!ENTITY  generalEncoding       "Encoding:">
-<!ENTITY  generalMetaName       "Name">
-<!ENTITY  generalMetaContent    "Content">
-<!ENTITY  generalSecurityDetails           "Details">
+<!ENTITY  generalURL            "Adreza:">
+<!ENTITY  generalType           "Tipo:">
+<!ENTITY  generalMode           "Modo de representación:">
+<!ENTITY  generalSize           "Grandaria:">
+<!ENTITY  generalReferrer       "URL de procedencia:">
+<!ENTITY  generalSource         "Orichen d'o caché:">
+<!ENTITY  generalModified       "Modificau:">
+<!ENTITY  generalEncoding       "Codificación:">
+<!ENTITY  generalMetaName       "Nombre">
+<!ENTITY  generalMetaContent    "Conteniu">
+<!ENTITY  generalSecurityDetails           "Detalles">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  formsTab              "Forms">
-<!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "Form Action">
-<!ENTITY  formMethod            "Method">
-<!ENTITY  formName              "Name">
-<!ENTITY  formEncoding          "Encoding:">
-<!ENTITY  formTarget            "Target:">
-<!ENTITY  formFields            "Fields:">
-<!ENTITY  formLabel             "Label">
-<!ENTITY  formFName             "Field Name">
-<!ENTITY  formType              "Type">
-<!ENTITY  formCValue            "Current Value">
+<!ENTITY  formsTab              "Formularios">
+<!ENTITY  formsTab.accesskey    "f">
+<!ENTITY  formAction            "Acción de formulario">
+<!ENTITY  formMethod            "Metodo">
+<!ENTITY  formName              "Nombre">
+<!ENTITY  formEncoding          "Codificación:">
+<!ENTITY  formTarget            "Destín:">
+<!ENTITY  formFields            "Campos:">
+<!ENTITY  formLabel             "Etiqueta">
+<!ENTITY  formFName             "Nombre d'o campo">
+<!ENTITY  formType              "Tipo">
+<!ENTITY  formCValue            "Valor actual">
 
-<!ENTITY  linksTab              "Links">
-<!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkName              "Name">
-<!ENTITY  linkAddress           "Address">
-<!ENTITY  linkType              "Type">
-<!ENTITY  linkTarget            "Target">
-<!ENTITY  linkAccessKey         "Access Key">
+<!ENTITY  linksTab              "Vinclos">
+<!ENTITY  linksTab.accesskey    "l">
+<!ENTITY  linkName              "Nombre">
+<!ENTITY  linkAddress           "Adreza">
+<!ENTITY  linkType              "Tipo">
+<!ENTITY  linkTarget            "Destín">
+<!ENTITY  linkAccessKey         "Tecla d'acceso rapido">
 
-<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab              "Meyos">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Address:">
-<!ENTITY  mediaAlt              "Alternate Text:">
-<!ENTITY  mediaAltHeader        "Alternate Text">
-<!ENTITY  mediaAddress          "Address">
-<!ENTITY  mediaType             "Type">
-<!ENTITY  mediaSize             "Size">
-<!ENTITY  mediaCount            "Count">
-<!ENTITY  mediaDimensions       "Specified Dimensions:">
-<!ENTITY  mediaPhysDimensions   "Actual Dimensions:">
-<!ENTITY  mediaTitle            "Title:">
-<!ENTITY  mediaLongdesc         "Long Description:">
+<!ENTITY  mediaURL              "Adreza:">
+<!ENTITY  mediaAlt              "Texto alternativo:">
+<!ENTITY  mediaAltHeader        "Texto alternativo">
+<!ENTITY  mediaAddress          "Adreza">
+<!ENTITY  mediaType             "Tipo">
+<!ENTITY  mediaSize             "Grandaria">
+<!ENTITY  mediaCount            "Cuenta">
+<!ENTITY  mediaDimensions       "Dimensiones especificadas:">
+<!ENTITY  mediaPhysDimensions   "Dimensiones reals:">
+<!ENTITY  mediaTitle            "Titol:">
+<!ENTITY  mediaLongdesc         "Descripción larga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Save As…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Media Preview:">
+<!ENTITY  mediaSaveAs           "Alzar como…">
+<!ENTITY  mediaSaveAs.accesskey "u">
+<!ENTITY  mediaSaveAs2.accesskey "a">
+<!ENTITY  mediaPreview          "Vista preliminar d'o meyo:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedTab               "Canales">
+<!ENTITY  feedTab.accesskey     "C">
+<!ENTITY  feedSubscribe         "Suscribirse">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
+<!ENTITY  permUseDefault        "Usar valors preterminados">
+<!ENTITY  permAskAlways         "Preguntar siempre">
+<!ENTITY  permAllow             "Permitir">
+<!ENTITY  permAllowSession      "Permitir entre a sesión">
 <!ENTITY  permBlock             "Bloqueyar">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Popup Windows">
-<!ENTITY  permCookie            "Set Cookies">
+<!ENTITY  permissionsFor        "Permisos para:">
+<!ENTITY  permImage             "Cargar imachens">
+<!ENTITY  permPopup             "Ubrir finestras emerchents">
+<!ENTITY  permCookie            "Establir cookies">
 <!ENTITY  permNotifications     "Show Notifications">
-<!ENTITY  permInstall           "Install Extensions or Themes">
-<!ENTITY  permGeo               "Share Location">
+<!ENTITY  permInstall           "Instalar extensions u temas">
+<!ENTITY  permGeo               "Compartir ubicación">
 
-<!ENTITY  securityTab           "Security">
+<!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityHeader        "Información de seguranza ta ista pachina">
+<!ENTITY  securityView.certView "Veyer certificau">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY  securityView.unknown   "Desconoixiu">
 
 
-<!ENTITY  securityView.identity.header   "Website Identity">
-<!ENTITY  securityView.identity.owner    "Owner:">
-<!ENTITY  securityView.identity.domain   "Website:">
-<!ENTITY  securityView.identity.verifier "Verified by:">
+<!ENTITY  securityView.identity.header   "Identidat d'o puesto web">
+<!ENTITY  securityView.identity.owner    "Propietario:">
+<!ENTITY  securityView.identity.domain   "Puesto web:">
+<!ENTITY  securityView.identity.verifier "Verificau por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.header                   "Privacidat y historial">
+<!ENTITY  securityView.privacy.history                  "He visitau iste puesto web antes hue?">
+<!ENTITY  securityView.privacy.cookies                  "Ye alzando iste puesto web información (cookies) en o mío ordinador?">
+<!ENTITY  securityView.privacy.viewCookies              "Veyer cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Ha alzau garra claus ta iste puesto web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Veyer as claus alzadas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "Detalles tecnicos">

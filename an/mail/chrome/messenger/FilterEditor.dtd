@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "Regles de filtrau">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Filter name:">
+<!ENTITY filterName.label "Nombre d'o filtro:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "Correu no deseyau">
+<!ENTITY notJunk.label "Lechitimo">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
+<!ENTITY lowestPriorityCmd.label "a mas baixa">
+<!ENTITY lowPriorityCmd.label "Baixa">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "a mas alta">
 
 <!ENTITY contextDesc.label "Apply filter when:">
 <!ENTITY contextIncomingMail.label "Getting New Mail:">
@@ -24,30 +24,30 @@
 <!ENTITY contextBeforeCls.label "Filter before Junk Classification">
 <!ENTITY contextAfterCls.label "Filter after Junk Classification">
 
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.label "Realizar istas accions:">
+<!ENTITY filterActionDesc.accesskey "R">
 
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
 <!ENTITY filterActionOrder.label "See execution order">
 <!-- New Style Filter Rule Actions -->
 
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY moveMessage.label "Mover mensache a">
+<!ENTITY copyMessage.label "Copiar mensache a">
+<!ENTITY forwardTo.label "Reninviar mensache a">
+<!ENTITY replyWithTemplate.label "Responder con plantilla">
+<!ENTITY markMessageRead.label "Marcar como leito">
 <!ENTITY markMessageUnread.label "Mark As Unread">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY markMessageStarred.label "Adhibir estrela">
+<!ENTITY setPriority.label "Fixar prioridat a">
+<!ENTITY addTag.label "Etiquetar mensache">
+<!ENTITY setJunkScore.label "Fixar estau de correu no deseyau a">
+<!ENTITY deleteMessage.label "Eliminar mensache">
+<!ENTITY deleteFromPOP.label "Eliminar d'o servidor POP">
+<!ENTITY fetchFromPOP.label "Recuperar d'o servidor POP">
+<!ENTITY ignoreThread.label "Ignorar conversación">
+<!ENTITY ignoreSubthread.label "Ignorar sub-conversación">
+<!ENTITY watchThread.label "Observar conversación">
+<!ENTITY stopExecution.label "Detener a execución d'os filtros">
 
 <!ENTITY addAction.tooltip "Add a new action">
 <!ENTITY removeAction.tooltip "Remove this action">

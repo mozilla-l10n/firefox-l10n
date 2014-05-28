@@ -5,7 +5,7 @@
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
 
-<!ENTITY glodaFacetView.filters.label "Filters">
+<!ENTITY glodaFacetView.filters.label "Filtros">
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
 
@@ -13,8 +13,8 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
 
-<!ENTITY glodaFacetView.empty.label "No messages match your search">
+<!ENTITY glodaFacetView.empty.label "No i hai mensaches que cumplan a suya busca">
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
 
-<!ENTITY glodaFacetView.pageMore.label "Mas &#187;">
+<!ENTITY glodaFacetView.pageMore.label "More &#187;">

@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.download.title            "Downloads">
+<!ENTITY pref.download.title            "Descargas">
 
-<!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY doNothing.label                "Don't open anything">
-<!ENTITY doNothing.accesskey            "D">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY openDM.label                   "Open the download manager">
-<!ENTITY openDM.accesskey               "m">
+<!ENTITY downloadBehavior.label         "Quan s'enciete una descarga">
+<!ENTITY doNothing.label                "No ubrir cosa">
+<!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Ubrir un dialogo de progreso">
+<!ENTITY openProgressDialog.accesskey   "d">
+<!ENTITY openDM.label                   "Ubrir l'administrador de descargas">
+<!ENTITY openDM.accesskey               "U">
 <!ENTITY flashWhenOpen.label            "Just flash the download manager if it is already open">
 <!ENTITY flashWhenOpen.accesskey        "f">
 
-<!ENTITY downloadLocation.label         "When saving a file">
-<!ENTITY saveTo.label                   "Save files to">
-<!ENTITY saveTo.accesskey               "v">
-<!ENTITY chooseDownloadFolder.label     "Choose Folder…">
-<!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY alwaysAsk.label                "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey            "A">
+<!ENTITY downloadLocation.label         "Quan s'alce un fichero:">
+<!ENTITY saveTo.label                   "Alzar fichers en">
+<!ENTITY saveTo.accesskey               "A">
+<!ENTITY chooseDownloadFolder.label     "Esleir carpeta…">
+<!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY alwaysAsk.label                "Preguntar-me/Preguntar'me siempre án alzar fichers">
+<!ENTITY alwaysAsk.accesskey            "P">
 
-<!ENTITY downloadHistory.label          "Download history">
-<!ENTITY removeEntries.label            "Remove download entries">
-<!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "When they have completed">
-<!ENTITY whenQuittingApp.label          "When quitting &brandShortName;">
-<!ENTITY neverRemove.label              "Never">
+<!ENTITY downloadHistory.label          "Descargar historial">
+<!ENTITY removeEntries.label            "Eliminar dentradas de l'historial">
+<!ENTITY removeEntries.accesskey        "m">
+<!ENTITY whenCompleted.label            "Quan s'haigan completau">
+<!ENTITY whenQuittingApp.label          "Al salir de &brandShortName;">
+<!ENTITY neverRemove.label              "Nunca">
 
-<!ENTITY finishedBehavior.label         "When a download completes">
-<!ENTITY playSound.label                "Play a sound">
-<!ENTITY playSound.accesskey            "P">
-<!ENTITY showAlert.label                "Show an alert">
-<!ENTITY showAlert.accesskey            "S">
-<!ENTITY browse.label                   "Browse…">
-<!ENTITY browse.accesskey               "B">
-<!ENTITY playButton.label               "Play">
-<!ENTITY playButton.accesskey           "l">
+<!ENTITY finishedBehavior.label         "Quan se completa una descarga">
+<!ENTITY playSound.label                "Reproducir un son">
+<!ENTITY playSound.accesskey            "R">
+<!ENTITY showAlert.label                "Mostrar una alerta">
+<!ENTITY showAlert.accesskey            "o">
+<!ENTITY browse.label                   "Yxaminar…">
+<!ENTITY browse.accesskey               "x">
+<!ENTITY playButton.label               "Reproducir">
+<!ENTITY playButton.accesskey           "e">

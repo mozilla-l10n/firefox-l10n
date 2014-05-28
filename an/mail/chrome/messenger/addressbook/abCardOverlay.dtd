@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Contact">
+<!ENTITY Contact.tab                     "Contacto">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "Name">
+<!ENTITY Name.box                        "Nombre">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -23,28 +23,28 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "First:">
-<!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "Last:">
-<!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "Phonetic:">
-<!ENTITY PhoneticField2.label           "Phonetic:">
-<!ENTITY DisplayName.label              "Display:">
-<!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "y">
-<!ENTITY NickName.label                 "Nickname:">
-<!ENTITY NickName.accesskey             "N">
+<!ENTITY NameField1.label               "Nombre:">
+<!ENTITY NameField1.accesskey           "N">
+<!ENTITY NameField2.label               "Apellidos:">
+<!ENTITY NameField2.accesskey           "e">
+<!ENTITY PhoneticField1.label           "Nombre fonetico:">
+<!ENTITY PhoneticField2.label           "Apellido fonetico:">
+<!ENTITY DisplayName.label              "Amostrau:">
+<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY preferDisplayName.label        "Preferir siempre o nombre amostrau a o d'a cabecera d'o mensache">
+<!ENTITY preferDisplayName.accesskey    "f">
+<!ENTITY NickName.label                 "Apodo:">
+<!ENTITY NickName.accesskey             "d">
 
-<!ENTITY PrimaryEmail.label             "Email:">
-<!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Additional Email:">
+<!ENTITY PrimaryEmail.label             "Correo electronico:">
+<!ENTITY PrimaryEmail.accesskey         "r">
+<!ENTITY SecondEmail.label              "Correu electrónico adicional:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Prefers to receive messages formatted as:">
-<!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "Plain Text">
+<!ENTITY PreferMailFormat.label         "Prefiere recibir o mensache formateado como:">
+<!ENTITY PreferMailFormat.accesskey     "P">
+<!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Unknown">
+<!ENTITY Unknown.label                  "Desconoixiu">
 <!ENTITY chatName.label                 "Chat Name:">
 
 <!ENTITY allowRemoteContent1.label      "Allow remote content.">
@@ -55,75 +55,75 @@ connection to this external source. This may allow tracking of the
 message being read. Checking this box will allow such external embedded
 content in HTML messages from this contact.">
 
-<!ENTITY WorkPhone.label                "Work:">
-<!ENTITY WorkPhone.accesskey            "k">
-<!ENTITY HomePhone.label                "Home:">
-<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY WorkPhone.label                "Treballo:">
+<!ENTITY WorkPhone.accesskey            "T">
+<!ENTITY HomePhone.label                "Casa:">
+<!ENTITY HomePhone.accesskey            "s">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
-<!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "g">
-<!ENTITY CellularNumber.label           "Mobile:">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY PagerNumber.label              "Buscapersonas:">
+<!ENTITY PagerNumber.accesskey          "B">
+<!ENTITY CellularNumber.label           "Móvil:">
+<!ENTITY CellularNumber.accesskey       "v">
 
-<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.tab                       "Privau">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Address:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "City:">
-<!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "State/Province:">
-<!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/Postal Code:">
+<!ENTITY HomeCity.label                 "Ciudad:">
+<!ENTITY HomeCity.accesskey             "u">
+<!ENTITY HomeState.label                "Provincia/estau:">
+<!ENTITY HomeState.accesskey            "v">
+<!ENTITY HomeZipCode.label              "Codigo postal / ZIP:">
 <!ENTITY HomeZipCode.accesskey          "Z">
-<!ENTITY HomeCountry.label              "Country:">
-<!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "Web Page:">
-<!ENTITY HomeWebPage.accesskey          "e">
-<!ENTITY Birthday.label                 "Birthday:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY HomeCountry.label              "País:">
+<!ENTITY HomeCountry.accesskey          "s">
+<!ENTITY HomeWebPage.label              "Pachina web:">
+<!ENTITY HomeWebPage.accesskey          "w">
+<!ENTITY Birthday.label                 "Cumpleaños:">
+<!ENTITY Birthday.accesskey             "m">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Year">
-<!ENTITY Or.value                       "or">
-<!ENTITY Age.placeholder                "Age">
+<!ENTITY Year.placeholder               "Anyo">
+<!ENTITY Or.value                       "u">
+<!ENTITY Age.placeholder                "Edat">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "Work">
-<!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "Title:">
+<!ENTITY Work.tab                       "Treballo">
+<!ENTITY Work.accesskey                 "T">
+<!ENTITY JobTitle.label                 "Puisto:">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "Department:">
-<!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "Organization:">
+<!ENTITY Department.label               "Departamento:">
+<!ENTITY Department.accesskey           "r">
+<!ENTITY Company.label                  "Organización:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Address:">
 <!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "City:">
-<!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "State/Province:">
-<!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/Postal Code:">
+<!ENTITY WorkCity.label                 "Ciudad:">
+<!ENTITY WorkCity.accesskey             "u">
+<!ENTITY WorkState.label                "Provincia/estau:">
+<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkZipCode.label              "Codigo postal / ZIP:">
 <!ENTITY WorkZipCode.accesskey          "Z">
-<!ENTITY WorkCountry.label              "Country:">
-<!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "Web Page:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkCountry.label              "País:">
+<!ENTITY WorkCountry.accesskey          "s">
+<!ENTITY WorkWebPage.label              "Pachina web:">
+<!ENTITY WorkWebPage.accesskey          "w">
 
-<!ENTITY Other.tab                      "Other">
-<!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "Custom 1:">
+<!ENTITY Other.tab                      "Atros">
+<!ENTITY Other.accesskey                "U">
+<!ENTITY Custom1.label                  "Personalizau 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Custom 2:">
+<!ENTITY Custom2.label                  "Personalizau 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Custom 3:">
+<!ENTITY Custom3.label                  "Personalizau 3:">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Custom 4:">
+<!ENTITY Custom4.label                  "Personalizau 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Chat">
@@ -147,18 +147,18 @@ content in HTML messages from this contact.">
 <!ENTITY IRC.label                      "IRC Nick:">
 <!ENTITY IRC.accesskey                  "R">
 
-<!ENTITY Photo.tab                      "Photo">
-<!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Pick one of the following:">
-<!ENTITY GenericPhoto.label             "Generic Photo">
-<!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "Default">
-<!ENTITY PhotoFile.label                "On this Computer">
-<!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "Browse">
-<!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "On the Web">
-<!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "t">
+<!ENTITY PhotoDesc.label                "Trigue una d'as siguients:">
+<!ENTITY GenericPhoto.label             "Foto chenerica">
+<!ENTITY GenericPhoto.accesskey         "F">
+<!ENTITY DefaultPhoto.label             "Predeterminau">
+<!ENTITY PhotoFile.label                "En iste ordinador">
+<!ENTITY PhotoFile.accesskey            "E">
+<!ENTITY BrowsePhoto.label              "Yxaminar">
+<!ENTITY BrowsePhoto.accesskey          "x">
+<!ENTITY PhotoURL.label                 "En a web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.placeholder           "Apegue u escriba l'adreza web d'una foto">
 <!ENTITY UpdatePhoto.label              "Esviellar">
 <!ENTITY UpdatePhoto.accesskey          "a">

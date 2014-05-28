@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "About &brandFullName;">
+<!ENTITY aboutDialog.title          "Sobre &brandFullName;">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -13,50 +13,50 @@
 <!ENTITY update.applyButtonBillboard.label        "Apply Update…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
-<!ENTITY community.start2           "&brandShortName; is designed by ">
+<!ENTITY community.start2           "&brandShortName; ye diseñado por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", una ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink      "comunidat global">
+<!ENTITY community.end2             " que treballa unida ta fer Internet millor. Creyemos que Internet habría d'estar ubierta, publica y accesible a totz sin restricción beluna.">
 
-<!ENTITY contribute.start           "Sound interesting? ">
+<!ENTITY contribute.start           "Sona interesant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Involúcrese!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Información de licencia">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "End-User Rights">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Privacy Policy">
+<!ENTITY bottomLinks.privacy        "Politica de privacidat">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Buscando actualizacions…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound      "&brandShortName; ye actualizau">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "Actualizacions desactivada por l'administrador d'o suyo sistema">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Update failed. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
+<!ENTITY update.failed.start        "Actualización fallida. ">
+<!ENTITY update.failed.linkText     "Descargar a zaguera versión">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Download the ">
-<!ENTITY update.manual.linkText     "latest version">
+<!ENTITY update.manual.start        "Descargar a ">
+<!ENTITY update.manual.linkText     "zaguera versión">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -74,7 +74,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Descargando actualización — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Applying update…">
@@ -82,7 +82,7 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "You are currently on the ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.start  "Ye actualment en a canal d'actualizacions ">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

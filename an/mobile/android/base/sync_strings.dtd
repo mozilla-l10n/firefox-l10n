@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "A suya cuenta ha de verificar-se. Toque ta tornar a ninviar o mensache de verificación.">
 <!ENTITY fxaccount_status_needs_credentials "No s\u0027ha puesto connectar. Toque ta encetar a sesión.">
 <!ENTITY fxaccount_status_needs_upgrade "Ha d\u0027esviellar o &brandShortName; ta encetar a sesión.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; ye configurau, pero a sincronización automatica ye desactivada. Vaiga ta Configuraciób &gt; Uso de datos y sinyale «Sincronización automatica de datos».">
+<!ENTITY fxaccount_status_needs_account_enabled "O &syncBrand.shortName.label; ye configurau pero a sincronización automatica ye desactivdada. Toque ta iniciar a sincronización.">
 <!ENTITY fxaccount_status_bookmarks "Marcapachinas">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Claus">

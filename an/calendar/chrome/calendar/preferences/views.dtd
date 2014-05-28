@@ -7,31 +7,31 @@
   -->
 
 
-<!ENTITY pref.calendar.view.allview.caption "General">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Day and Week Views">
-<!ENTITY pref.calendar.view.multiweekview.caption "Multiweek View">
-<!ENTITY pref.calendar.view.workweek.caption "Workweek">
+<!ENTITY pref.calendar.view.allview.caption "Cheneral">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas diaria y semanal">
+<!ENTITY pref.calendar.view.multiweekview.caption "Vista multisemana">
+<!ENTITY pref.calendar.view.workweek.caption "Semana laboral">
 
-<!ENTITY pref.weekstarts.label "Start the week on:">
-<!ENTITY pref.weekstarts.accesskey "r">
-<!ENTITY pref.daysoff.label "Include these days in the workweek:">
+<!ENTITY pref.weekstarts.label "Minchanzar a semana en:">
+<!ENTITY pref.weekstarts.accesskey "z">
+<!ENTITY pref.daysoff.label "Incluir istes días en a semana laboral:">
 
 <!ENTITY pref.calendar.view.daystart.label "O día empecipia a las:">
 <!ENTITY pref.calendar.view.daystart.accesskey "d">
-<!ENTITY pref.calendar.view.dayend.label "Day ends at:">
-<!ENTITY pref.calendar.view.dayend.accesskey "y">
-<!ENTITY pref.calendar.view.visiblehours.label "Show:">
+<!ENTITY pref.calendar.view.dayend.label "O día remata a as:">
+<!ENTITY pref.calendar.view.dayend.accesskey "r">
+<!ENTITY pref.calendar.view.visiblehours.label "Mostrar:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
-<!ENTITY pref.calendar.view.visiblehoursend.label "hours at a time">
+<!ENTITY pref.calendar.view.visiblehoursend.label "horas a la vez">
 
-<!ENTITY pref.numberofweeks.label "Number of weeks to show (including previous weeks):">
+<!ENTITY pref.numberofweeks.label "Número de semanas a amostrar (incluindo semanas previas):">
 <!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "Previous weeks to show:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "P">
-<!ENTITY pref.numberofweeks.0 "none">
-<!ENTITY pref.numberofweeks.1 "1 week">
-<!ENTITY pref.numberofweeks.2 "2 weeks">
-<!ENTITY pref.numberofweeks.3 "3 weeks">
-<!ENTITY pref.numberofweeks.4 "4 weeks">
-<!ENTITY pref.numberofweeks.5 "5 weeks">
-<!ENTITY pref.numberofweeks.6 "6 weeks">
+<!ENTITY pref.numberofpreviousweeks.label "Semanas previas a amostrar:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "p">
+<!ENTITY pref.numberofweeks.0 "garra">
+<!ENTITY pref.numberofweeks.1 "1 semana">
+<!ENTITY pref.numberofweeks.2 "2 semanas">
+<!ENTITY pref.numberofweeks.3 "3 semanas">
+<!ENTITY pref.numberofweeks.4 "4 semanas">
+<!ENTITY pref.numberofweeks.5 "5 semanas">
+<!ENTITY pref.numberofweeks.6 "6 semanas">

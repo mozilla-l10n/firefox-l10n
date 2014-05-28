@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
 
-<!ENTITY feedSubscriptions.label     "Feed Subscriptions">
-<!ENTITY subscriptionDesc.label      "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
+<!ENTITY feedSubscriptions.label     "Suscripciones a canals">
+<!ENTITY subscriptionDesc.label      "Nota: eliminar u cambiar a carpeta d'una canal no afectará a os articlos descargaus previament.">
 
 <!ENTITY feedTitle.label             "Title:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -22,16 +22,16 @@
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
-<!ENTITY button.addFeed.label        "Add">
+<!ENTITY button.addFeed.label        "Adhibir">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.editFeed.label       "Update">
 <!ENTITY button.editFeed.accesskey   "U">
-<!ENTITY button.removeFeed.label     "Remove">
-<!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label     "Import">
+<!ENTITY button.removeFeed.label     "Eliminar">
+<!ENTITY button.removeFeed.accesskey "r">
+<!ENTITY button.importOPML.label     "Importar">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label     "Export">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.label     "Yxportar">
+<!ENTITY button.exportOPML.accesskey "x">
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">
