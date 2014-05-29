@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "ต">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
+<!ENTITY cmd.debugAddon.label                 "ดีบัก">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "แก้ไขตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "ปรับแต่ง">
@@ -216,3 +217,12 @@
 <!ENTITY eula.accept                          "ยอมรับและติดตั้ง…">
 
 <!ENTITY settings.path.button.label           "เรียกดู…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "เรียนรู้เพิ่ม">
+
+
+
