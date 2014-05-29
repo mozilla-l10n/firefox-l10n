@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "กำลังตรวจสอบใบรับรอง…">
 <!ENTITY certmgr.subjectinfo.label            "ออกให้">
 <!ENTITY certmgr.issuerinfo.label             "ออกโดย">
-<!ENTITY certmgr.validity.label               "ความถูกต้อง" >
+
 <!ENTITY certmgr.fingerprints.label           "ลายนิ้วมือ">
 <!ENTITY certmgr.certdetail.title             "รายละเอียดใบรับรอง">
 <!ENTITY certmgr.certdetail.cn                "ชื่อสามัญ (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "เซิร์ฟเวอร์">
 <!ENTITY certmgr.override_lifetime            "อายุการใช้งาน">
 <!ENTITY certmgr.tokenname                    "กลไกความปลอดภัย">
-<!ENTITY certmgr.issued                       "ออกเมื่อ">
+
 <!ENTITY certmgr.expires                      "หมดอายุเมื่อ">
 <!ENTITY certmgr.email                        "ที่อยู่อีเมล">
 <!ENTITY certmgr.serial                       "เลขอนุกรม">

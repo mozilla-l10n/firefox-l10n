@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "ด">
 
+<!ENTITY viewMenu.label               "มุมมอง">
+<!ENTITY viewMenu.accesskey           "ม">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "แก้ไข">
 <!ENTITY editMenu.accesskey           "ก">
 

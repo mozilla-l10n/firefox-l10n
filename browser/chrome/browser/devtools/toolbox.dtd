@@ -41,12 +41,10 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label3    "เปิด chrome debugging">
-<!ENTITY options.enableChrome.tooltip   "การเปิดใช้ตัวเลือกนี้จะอนุญาตให้คุณใช้เครื่องมือพัฒนาต่างๆ ในหน้าเว็บเบราเซอร์">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -91,13 +89,6 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 
 <!ENTITY options.webconsole.label            "Web Console">
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console,
-  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
-  -  in the options panel. -->
-
-<!ENTITY options.enablePersistentLogging.label    "เปิดใช้งาน persistent logs">
-<!ENTITY options.enablePersistentLogging.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ Web Console จะไม่ล้างค่าเมื่อคุณเปลี่ยนไปยังหน้าเว็บต่างๆ">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
@@ -119,6 +110,16 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "ตัวเก็บประวัติ JavaScript">
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+
+<!ENTITY options.enablePersistentLogging.label    "เปิดใช้งาน persistent logs">
+
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
