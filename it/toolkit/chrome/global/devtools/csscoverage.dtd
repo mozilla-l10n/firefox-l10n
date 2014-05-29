@@ -4,7 +4,7 @@
 
 <!ENTITY csscoverage.backButton "Indietro">
 <!ENTITY csscoverage.unused "Regole inutilizzate">
-<!ENTITY csscoverage.noMatch "Nessuna corrispondenza disponibile per le seguenti regole:">
+<!ENTITY csscoverage.noMatches "Nessuna corrispondenza disponibile per le seguenti regole:">
 <!ENTITY csscoverage.optimize.header "Pagine ottimizzabili">
 <!ENTITY csscoverage.optimize.body1 "In alcuni casi è possibile velocizzare il caricamento spostando">
 <!ENTITY csscoverage.optimize.body2 "i tag al termine della pagina e creando un nuovo">
