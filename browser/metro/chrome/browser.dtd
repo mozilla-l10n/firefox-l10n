@@ -62,7 +62,7 @@
 <!ENTITY consoleCopyAll.label      "Kopier">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kjeldefil:">
-<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 <!ENTITY consoleFollowCheckbox.label "Følg">
 
