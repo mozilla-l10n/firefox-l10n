@@ -8,7 +8,7 @@
 
 <!ENTITY optionsHeader.title                                     "ตัวเลือก">
 
-
+<!ENTITY optionsHeader.char.autodetect.label                     "ตรวจสอบอัตโนมัติ">
 
 
 <!ENTITY clearPrivateData.title                                  "ล้างข้อมูลส่วนตัว">
