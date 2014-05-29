@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Tilisi täytyy vahvistaa. Kosketa lähettääksesi vahvistussähköpostin.'>
 <!ENTITY fxaccount_status_needs_credentials 'Ei voida muodostaa yhteyttä. Kosketa kirjautuaksesi sisään.'>
 <!ENTITY fxaccount_status_needs_upgrade '&brandShortName; täytyy päivittää, jotta voit kirjautua sisään.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Aseta päälle “Synkronoi tiedot automaattisesti” Androidin asetuksista kohdasta Tietojen käyttö.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; on määritelty, mutta ei synkronoi tietoja automaattisesti. Synkronoi hipaisemalla.'>
 <!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
 <!ENTITY fxaccount_status_history 'Sivuhistoria'>
 <!ENTITY fxaccount_status_passwords 'Salasanat'>
