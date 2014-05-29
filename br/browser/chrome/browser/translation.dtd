@@ -34,8 +34,8 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "Troet eo bet ar bajennad-mañ eus">
-<!ENTITY translation.translatedTo.label         "da">
+<!ENTITY translation.translatedFrom.label       "Ar bajennad-mañ a oa e">
+<!ENTITY translation.translatedTo.label         "zo bet troet e">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Diskouez an destenn orinel">
