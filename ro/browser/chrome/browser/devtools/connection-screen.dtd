@@ -13,7 +13,7 @@
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Conectare">
 <!ENTITY connecting "Conectare…">
-
+<!ENTITY availableAddons "Suplimente de la distanță disponibile:">
 <!ENTITY availableTabs "File de la distanță disponibile:">
 <!ENTITY availableProcesses "Procesele la distanță disponibile:">
 <!ENTITY connectionError "Eroare:">
