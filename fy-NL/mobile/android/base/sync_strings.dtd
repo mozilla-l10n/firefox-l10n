@@ -15,17 +15,17 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Selektearje &syncBrand.shortName.label; ynstelle” op it apparaat om jo nije apparaat te aktivearjen.'>
-<!ENTITY sync.subtitle.header.label 'Fier dizze koade yn op jo kompjûter'>
-<!ENTITY sync.subtitle.connectlocation.label 'Selektearje “&sync.title.pair.label;” yn de &syncBrand.shortName.label; seksje fan jo buro-PC Firefox-opsjes.'>
-<!ENTITY sync.subtitle.pair.label 'Om te aktivearjen, selektearje “In apparaat keppelje” op jo oare apparaat.'>
+<!ENTITY sync.subtitle.header2.label 'Fier dizze koade yn op jo oare apparaat'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selektearje “&sync.title.pair.label;” yn de &syncBrand.shortName.label; seksje fa de opsjes fan Firefox op jo oare appaaraat.'>
+<!ENTITY sync.subtitle.pair.label 'Selektearje “In apparaat keppelje” op jo oare apparaat om te aktivearjen.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Toane hoe.'>
-<!ENTITY sync.link.advancedsetup.label 'Wiidweide konfiguraasje...'>
+<!ENTITY sync.link.advancedsetup.label 'Wiidweide konfiguraasje…'>
 <!ENTITY sync.link.nodevice.label 'Ik haw it apparaat net by my…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Op oare apparaat wachtsje…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Wachtsje op oare apparaat…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Fier jo &syncBrand.fullName.label;-accountgegevens yn'>
@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Opsjes'>
 <!ENTITY sync.summary.pair.label 'In oar apparaat oan jo &syncBrand.shortName.label;-account keppelje'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Wat te syngronisearjen'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Syngronisearje:'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Blêdwizers'>
+<!ENTITY sync.configure.engines.title.passwords 'Wachtwurden'>
+<!ENTITY sync.configure.engines.title.history 'Skiednis'>
+<!ENTITY sync.configure.engines.title.tabs 'Ljepblêden'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Annulearje'>
 <!ENTITY sync.button.connect.label 'Ferbine'>
@@ -75,20 +83,142 @@
 <!ENTITY bookmarks.folder.desktop.label 'Buro-PC-blêdwizers'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobyl-blêdwizers'>
 <!ENTITY bookmarks.folder.readinglist.label 'Lêslist'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Fêstmakke'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Mar ien &syncBrand.fullName.label;-account wurdt stipe.'>
+<!ENTITY sync.notification.configure.saved 'Jo seleksjes binne bewarre.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Ferkeard accountnamme of wachtwurd.'>
-<!ENTITY sync.invalidserver.label 'Jou in falid tsjinner-URL'>
+<!ENTITY sync.invalidserver.label 'Fier in jildige tsjinner-URL yn'>
 <!ENTITY sync.verifying.label 'Ferifikaasje…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Werstelkaai net goed. Probearje it opnij.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Stjoer ljepblêd nei apparaten'>
-<!ENTITY sync.button.send.label 'Stjoer'>
+<!ENTITY sync.title.send.tab.label 'Ljepblêden nei apparaten ferstjoere'>
+<!ENTITY sync.button.send.label 'ferstjoere'>
 <!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; ynstelle'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; ynstelle om ljepblêden te stjoeren'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; ynstelle op jo apparaat om ljepblêden nei oare apparaten te stjoeren.'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; ynstelle om ljepblêden te ferstjoeren'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; ynstelle op jo apparaat om ljepblêden nei oare apparaten te ferstjoeren.'>
 <!ENTITY sync.text.tab.sent.label 'Jo ljepblêd is ferstjoerd!'>
+<!ENTITY sync.text.tab.not.sent.label 'Der is in probleem bard by it ferstjoeren fan jo ljepblêd.'>
+
+<!-- Firefox Account strings. -->
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_email_hint 'E-mail'>
+<!ENTITY fxaccount_password_hint 'Wachtwurd'>
+<!ENTITY fxaccount_password_hide 'Ferstopje'>
+<!ENTITY fxaccount_password_show 'Toane'>
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Tebek nei navigearjen'>
+
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos 'Tsjinstbetingsten (Ing)'>
+<!ENTITY fxaccount_policy_linkprivacy 'Privacyferklearring (Ing)'>
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Wolkom by &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description 'Meld jo oan om jo ljepblêden, blêdwizers, wachtwurden en mear te syngronisearjen.'>
+<!ENTITY fxaccount_getting_started_get_started 'Begjinne'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Brûke jo in âldere ferzje fan &syncBrand.shortName.label;?'>
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+<!ENTITY fxaccount_create_account_header2 'Firefox-account oanmeitsje'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Moat op syn minst 8 tekens wêze'>
+<!ENTITY fxaccount_create_account_year_of_birth 'Bertejier'>
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 'Troch fierder te gean akseptearje ik de &formatS1; en &formatS2; fan de Firefox-cloudtsjinsten.'>
+<!ENTITY fxaccount_create_account_button 'Folgjende'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Kies wat te syngronisearjen'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Al in account? Oanmelde'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 of earder'>
+<!ENTITY fxaccount_create_account_unknown_error 'Kin gjin account oanmeitsje'>
+
+<!ENTITY fxaccount_account_create_not_allowed 'Kin gjin account oanmeitsje'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Jo moatte oan bepaalde leeftiidsbetingten foldwaan om in account oan te meitsjen.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Mear ynfo'>
+
+<!ENTITY fxaccount_confirm_account_header 'Befêstigje jo account'>
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'Der is in ferifikaasjekeppeling ferstjoerd nei &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'E-mail opnij ferstjoere'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Ferifikaasje-e-mail ferstjoerd'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kin gjin ferifikaasje-e-mail ferstjoere'>
+
+<!ENTITY fxaccount_sign_in_sub_header 'Oanmelde'>
+<!ENTITY fxaccount_sign_in_button_label 'Oanmelde'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Wachtwurd ferjitten?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Account oanmeitsje'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Kin net oanmelde'>
+
+<!ENTITY fxaccount_account_verified_sub_header 'Account ferifiearre'>
+<!ENTITY fxaccount_account_verified_description2 'It syngronisearjen fan jo gegevens sil oer inkele mominten begjinne.'>
+
+<!ENTITY fxaccount_update_credentials_header 'Oanmelde'>
+<!ENTITY fxaccount_update_credentials_button_label 'Oanmelde'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Kin net oanmelde'>
+
+<!ENTITY fxaccount_status_header2 'Firefox-account'>
+<!ENTITY fxaccount_status_signed_in_as 'Aanmeld as'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ynskeakele'>
+<!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
+<!ENTITY fxaccount_status_needs_credentials 'Kin net ferbine. Tik om jo oan te melden.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
+<!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
+<!ENTITY fxaccount_status_history 'Skiednis'>
+<!ENTITY fxaccount_status_passwords 'Wachtwurden'>
+<!ENTITY fxaccount_status_tabs 'Iepene ljepblêden'>
+<!ENTITY fxaccount_status_legal 'Juridysk' >
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Tsjinstbetingsten (Ing.)'>
+<!ENTITY fxaccount_status_linkprivacy 'Privacyferklearring (Ing.)'>
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-opsjes'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; konfigurearje'>
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Jo moatte Firefox fernije'>
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account bestiet al. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Net jildich e-mailadres of wachtwurd'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Net jildich e-mailadres of wachtwurd'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is net ferifiearre'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Tsjinner is dwaande, probearje it letter opnij'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Tsjinner is dwaande, probearje it letter opnij'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der wie in probleem'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kin net ferbine mei it netwurk'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is net ferbûn'>
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om jo oan te melden as &formatS;'>
