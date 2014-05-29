@@ -48,7 +48,7 @@
 <!ENTITY num_tabs2 "&formatD; schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY new_private_tab_opened "Aperta nuova scheda anonima">
-<!ENTITY switch_button_message "CAMBIA">
+<!ENTITY switch_button_message "PASSA A">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_advanced "Avanzate">
