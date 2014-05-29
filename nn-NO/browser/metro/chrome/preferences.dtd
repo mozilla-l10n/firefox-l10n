@@ -16,10 +16,10 @@
 <!ENTITY clearPrivateData.button                                 "Tøm">
 <!ENTITY clearPrivateData.done                                   "Ferdig!">
 <!ENTITY clearPrivateData.history                                "Nettlesarhistorikk">
-<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, hurtiglager, infokapslar, osv.)">
+<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, snøgglager, infokapslar, osv.)">
 <!ENTITY clearPrivateData.downloadHist                           "Nedlastingshistorikk">
 <!ENTITY clearPrivateData.cookies                                "Infokapslar">
-<!ENTITY clearPrivateData.cache                                  "Hurtiglager">
+<!ENTITY clearPrivateData.cache                                  "Snøgglager">
 <!ENTITY clearPrivateData.sitePref                               "Nettstadinnstillingar">
 <!ENTITY clearPrivateData.formSearchHist                         "Skjema- og søkehistorikk">
 <!ENTITY clearPrivateData.passwords                              "Lagra passord">
@@ -31,7 +31,7 @@
 <!ENTITY doNotTrack.title                                        "Ikkje spor">
 <!ENTITY doNotTrack.options.doNotTrack                           "Fortel nettsider at eg ikkje ønskjer å verta spora">
 <!ENTITY doNotTrack.options.doTrack                              "Fortel nettsiser at eg ønskjer å verta spora">
-<!ENTITY doNotTrack.options.default                              "Ikkje fortel nettsider om sporingsreferansane mine">
+<!ENTITY doNotTrack.options.default                              "Ikkje fortel nettsider om sporingspreferansane mine">
 <!ENTITY doNotTrack.learnMoreLink                                "Les meir &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
