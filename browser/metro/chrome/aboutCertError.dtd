@@ -16,16 +16,16 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Du har bede &brandShortName; om å kople til <b>#1</b> trygt, men vi kan ikkje stadfeste at tilkoplinga er trygg.">
+<!ENTITY certerror.introPara1 "Du har bede &brandShortName; om å kopla til <b>#1</b> trygt, men vi kan ikkje stadfesta at tilkoplinga er trygg.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Kva bør eg gjere?">
-<!ENTITY certerror.whatShouldIDo.content "Dersom du vanlegvis koplar til denne nettstaden utan problem, kan denne feilen tyde på at nokon prøver å etterlikne nettstaden. Du bør då ikkje halde fram.">
+<!ENTITY certerror.whatShouldIDo.content "Dersom du vanlegvis koplar til denne nettstaden utan problem, kan denne feilen tyda på at nokon prøver å etterlikna nettstaden. Du bør då ikkje halda fram.">
 <!ENTITY certerror.getMeOutOfHere.label "Få meg bort herifrå!">
 
 <!ENTITY certerror.expert.heading "Eg forstår risikoen">
-<!ENTITY certerror.expert.content "Dersom du forstår kva som skjer, kan du be &brandShortName; om å byrje å stole på identiteten til nettstaden. <b>Sjølv om du stolar på nettstaden, kan feilen tyde at nokon tuklar med tilkoplinga di.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ikkje lag eit unntak utan at du er sikker på at det er ein god grunn for at nettstaden ikkje brukar trygg identifikasjon.">
-<!ENTITY certerror.addTemporaryException.label "Besøk netstad">
+<!ENTITY certerror.expert.content "Dersom du forstår kva som skjer, kan du be &brandShortName; om å byrja å stola på identiteten til nettstaden. <b>Sjølv om du stolar på nettstaden, kan feilen tyda på at nokon tuklar med tilkoplinga di.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ikkje lag eit unntak utan at du er heilt viss på at det er ein god grunn for at nettstaden ikkje brukar trygg identifikasjon.">
+<!ENTITY certerror.addTemporaryException.label "Gå til netstaden">
 <!ENTITY certerror.addPermanentException.label "Lag eit permanent unntak">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljar">

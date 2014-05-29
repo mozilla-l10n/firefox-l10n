@@ -6,16 +6,16 @@
 <!ENTITY crashprompt.title           "Ønskjer du å senda krasjrapportar til Mozilla?">
 <!ENTITY crashprompt.message         "Me beklagar, &brandShortName; gjenoppretta nett frå ein krasj. Innsending av krasjrapportar vil hjelpa Mozilla å gjera &brandShortName; meir stabil og sikker. Du kan òg endra val i Innstillingar.">
 <!ENTITY crashprompt.detailsLink     "Kva er ein krasjrapport?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "Ein krasjrapport inneheld noko info om krasja, maskina di, og eit augneblikksbilete av tilstanden til nettlesaren då den krasja.">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Ein krasjrapport inneheld noko info om krasjet, maskina di, og eit augneblikksbilete av tilstanden til nettlesaren då han krasja.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Dette kan omfatta ting som opne nettsider, tekst skriven inn i skjema og innhaldet i opne meldingar, nyleg nettlesarhistorikk.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Me brukar krasjrapportar for å prøva retta problem og forbetra produkta våre. Me handterer informasjonen din slik som det er skildra i våre ">
-<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; retningsliner for personvern">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Me brukar krasjrapportar for å prøva å retta problem og forbetra produkta våre. Me handsamar informasjonen din slik som det er skildra i ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; retningslinene våre for personvern">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
-<!ENTITY crashprompt.includeURLLabel "Ta med adressa til nettstaden eg besøkte">
+<!ENTITY crashprompt.includeURLLabel "Ta med adressa til nettstaden eg vitja">
 <!ENTITY crashprompt.acceptbutton    "Send rapportar">
 <!ENTITY crashprompt.refusebutton    "Ikkje send">
 <!ENTITY crashprompt.privacyPolicy.title "&brandShortName; personvern">
