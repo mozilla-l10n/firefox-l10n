@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "ق">
 
+<!ENTITY viewMenu.label               "عرض">
+<!ENTITY viewMenu.accesskey           "ع">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "تحرير">
 <!ENTITY editMenu.accesskey           "ح">
 

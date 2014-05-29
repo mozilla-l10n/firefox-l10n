@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "تراجَع.">
 <!ENTITY newtab.undo.restoreButton "استعد الكل.">
 <!ENTITY newtab.undo.closeTooltip "أخفِ">
+
+
+<!ENTITY newtab.panel.link.text "اطّلع على المزيد…">
