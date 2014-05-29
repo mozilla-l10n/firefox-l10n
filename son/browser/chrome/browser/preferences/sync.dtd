@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-
+<!ENTITY manage.label                "Juwal">
 
 
 
@@ -71,3 +71,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Huru">
 
 
+<!ENTITY welcome.useOldSync.label "War ga goy nda Sync dumi žeena?">

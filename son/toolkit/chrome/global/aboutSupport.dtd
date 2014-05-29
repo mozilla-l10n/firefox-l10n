@@ -8,12 +8,13 @@
 <!ENTITY aboutSupport.pageSubtitle "  Moɲoo woo goo nda goyandi alhabar kaŋ ga hin ka bara nda nafaw waati kaŋ war ga 
 ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še &brandShortName; ga, ir <a id='supportLink'>faaba Interneti nungoo</a> guna.">
 
+<!ENTITY aboutSupport.crashes.title "Kaŋyan bayrandey">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Bayrandi boŋtammaasa">
 <!ENTITY aboutSupport.crashes.sendDate "Sanba han">
 <!ENTITY aboutSupport.crashes.allReports "Kaŋyan bayrandikey kul">
-
+<!ENTITY aboutSupport.crashes.noConfig "Porogaramoo mana hansandi to kaŋyan bayrandey cebe.">
 
 <!ENTITY aboutSupport.extensionsTitle "Dobuyaney">
 <!ENTITY aboutSupport.extensionName "Maa">

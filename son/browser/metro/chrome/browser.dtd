@@ -4,12 +4,18 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "Ceeciyan wala aderesu dam">
 
+<!ENTITY back.label            "Banda">
+<!ENTITY forward.label         "Jine">
+<!ENTITY newtab.label          "Nor loku taaga">
+<!ENTITY newPrivateTab.label   "Sutura nor loku taaga">
+<!ENTITY closetab.label        "Nor lokoo daabu">
 
+<!ENTITY autocompleteResultsHeader.label  "War hunyaney">
 
-
-
-
+<!ENTITY appbarErrorConsole.label      "Firka diji-walhaa feeri">
+<!ENTITY appbarJSShell.label           "JavaScript mee feeri">
 <!ENTITY appbarFindInPage2.label       "Ceeci moɲoo ra">
 
 
@@ -52,39 +58,48 @@
 <!ENTITY consoleErrFile.label      "Aššil tuku:">
 <!ENTITY consoleErrLine.label      "Žeeri:">
 <!ENTITY consoleErrColumn.label    "Sorro:">
-
+<!ENTITY consoleFollowCheckbox.label "Hanga">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Dunbu">
-
+<!ENTITY contextTextCopy.label             "Berandi">
 <!ENTITY contextTextPaste.label            "Dobu">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Dobu nda koy">
 <!ENTITY contextTextSelect.label           "Suuba">
-
+<!ENTITY contextTextSelectAll.label        "Ikul suuba">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "Doboo feeri nor loku taaga ra">
+<!ENTITY contextCopyLinkHref.label         "Dobu berandi">
+<!ENTITY contextBookmarkLinkHref.label     " Doboo šilbay">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Bii gaabu tiirahugoo ra">
+<!ENTITY contextCopyImage.label            "Bii berandi">
+<!ENTITY contextCopyImageLocation.label    "Bii dogoo berandi">
+<!ENTITY contextOpenImageTab.label         "Doboo feeri nor loku taaga ra">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Gaabu widewo tiirahugoo ra">
+<!ENTITY contextCopyVideoLocation.label    "Widewo doo berandi">
+<!ENTITY contextOpenVideoTab.label         "Doboo feeri nor loku taaga ra">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
@@ -116,6 +131,6 @@
        references.
        -->
 
-
-
+<!ENTITY firstRunStar.label "Doo-šilbawey zaa ka moɲey gaabu hiino se">
+<!ENTITY firstRunPin.label "Nungu foo kanji war Windows Start dijoo ra ka huru tanba">
 <!ENTITY firstRunGotIt.label "Ay faham!">

@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Moɲoo woo goo">
+<!ENTITY translation.translateThisPage.label    "Moɲoo woo berandi?">
+<!ENTITY translation.translate.button           "Berandi">
 <!ENTITY translation.notNow.button              "Manti sohõ">
 
+<!ENTITY translation.translatingContent.label   "Ga moɲoo woo gundekunaa berandi…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "Moɲoo woo berandi dogoo">
 <!ENTITY translation.translatedTo.label         "še">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Aššil cebe">
+<!ENTITY translation.showTranslation.button     "Berandiyan cebe">
 
-
+<!ENTITY translation.errorTranslating.label     "Firka bangay moɲoo woo berandiyanoo ra.">
 <!ENTITY translation.tryAgain.button            "Ceeci koyne">
 
 <!ENTITY translation.options.menu               "Suubarey">

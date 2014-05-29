@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Kul šilbay">
 <!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Kalimaɲaŋoo bangayrey kul ceeci">
-
-
+<!ENTITY caseSensitive.label "Harfu-beeriyan tenjandi">
+<!ENTITY caseSensitive.accesskey "a">
 <!ENTITY caseSensitive.tooltiptext "Ceeci nda harfu-beeri maateyan">

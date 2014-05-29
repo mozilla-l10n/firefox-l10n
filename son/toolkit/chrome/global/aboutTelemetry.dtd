@@ -12,11 +12,13 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Interneti ceecikaw fokuyan">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Šilli deejarey">
 
 <!ENTITY aboutTelemetry.histogramsSection "--Titilawey">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Neešiyan faalantey">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Šilbayhaya tontoni">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Hantum kokorantey">
 
@@ -24,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Titilawey kaŋ tontoney n'i marga">
 
+<!ENTITY aboutTelemetry.toggle "  Naagu ka dunboo kanji">
 
 <!ENTITY aboutTelemetry.emptySection "  (Bayhaya kul mana margandi)">
 
@@ -33,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Foku bayhaya ganey sanba">
 
+<!ENTITY aboutTelemetry.filterText "  Fay (tenjirey wala /regexp/)">

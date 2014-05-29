@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Taafeeri.">
 <!ENTITY newtab.undo.restoreButton "Ikul yeeti.">
 <!ENTITY newtab.undo.closeTooltip "Tugu">
-
-
-
+<!ENTITY newtab.sponsored.release.message "Kanbuzaakaw nungoo woo honnandi zama ir naata kaŋ war ga diira a ra nafaw nda kaŋ a ga tenji nda Mozilla sartoo.">
+<!ENTITY newtab.sponsored.trial.message "Šiiyan kanbuzaakaw nungoo woo honnandi zama ir naata kaŋ war ga dii a ra nafaw nda kaŋ a ga tenji nda Mozilla sartoo.">
+<!ENTITY newtab.panel.link.text "Bay ka tonton…">

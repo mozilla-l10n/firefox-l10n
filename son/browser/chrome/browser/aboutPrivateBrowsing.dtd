@@ -13,6 +13,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Sutura zanfun foo feeri">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "f">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart4               "Ka sutura naaruyan šintin, war ga hin ka &newPrivateWindow.label; da suuba šilbayboŋ ra.">
 <!ENTITY privatebrowsingpage.howToStop3                "War ga hin ka zanfunoo woo daabu ka sutura naaruyan kayandi.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Zama ordinateroo woo ši war ceeci taariki kul gaabu, war Interneti nookaa wala goykaa ga hin ka moɲey kaŋ war n'i guna ceebandu bay waati kul.">

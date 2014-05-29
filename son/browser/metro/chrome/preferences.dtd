@@ -27,13 +27,13 @@
 
 
 
-
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "Nee nungey se ay ši baa boro m'ay gana.">
+<!ENTITY doNotTrack.options.doTrack                              "Nee nungey se, ay ga baa boro m'ay gana.">
+<!ENTITY doNotTrack.options.default                              "Ma ši haya kul har ay bisayan fondo hawgayyaney ga.">
+<!ENTITY doNotTrack.learnMoreLink                                "Bay ka tonton&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Kaŋyan bayrandikaw">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ga kaŋyan bayrandi sanba ka Mozilla gaa ka ceecikaw tabatante nda saajante tee.">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Moɲoo kaŋ boŋ ay cindi aderesoo dam">
 <!ENTITY optionsHeader.telemetry.title                            "Mooruneešiyan">
 

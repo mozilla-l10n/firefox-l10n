@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Azi dandi">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-
-
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW Azi">
+<!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "Gam dandi">
 <!ENTITY charsetMenuMore5.accesskey    "G">
 <!ENTITY charsetCustomize.label        "Maašeede hanse boŋše…">
