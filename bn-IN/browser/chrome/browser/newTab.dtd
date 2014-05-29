@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "পূর্বাবস্থা।">
 <!ENTITY newtab.undo.restoreButton "সমস্ত পুনরুদ্ধার করুন।">
 <!ENTITY newtab.undo.closeTooltip "আড়াল করুন">
-
-
+<!ENTITY newtab.sponsored.release.message "এই স্পন্সার সাইটের পরামর্শ আপনাকে দেওয়া হয়েছে কারন আমরা ভবেছিলাম আপনার এটিকে আকর্ষণীয় মনে হবে আর কারন এটি মোজিলা র মিসন সমর্থন করে।">
+<!ENTITY newtab.sponsored.trial.message "এই ট্রায়াল সাইট আপনাকে পরামর্শ দেওয়া হয়েছে কারন আমরা ভবেছিলাম আপনার এটিকে আকর্ষণীয় মনে হবে আর কারন এটি মোজিলা র মিসন সমর্থন করে।">
 <!ENTITY newtab.panel.link.text "আরও জানুন ...">

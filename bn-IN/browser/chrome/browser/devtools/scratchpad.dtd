@@ -111,9 +111,9 @@
   -->
 
 <!ENTITY helpMenu.label               "সাহায্য">
-<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenu.accesskey           "স">
 <!ENTITY helpMenuWin.label            "সাহায্য">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenuWin.accesskey        "স">
 
 <!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সাহায্য">
 <!ENTITY documentationLink.accesskey  "D">
