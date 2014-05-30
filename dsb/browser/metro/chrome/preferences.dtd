@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Nastajenja">
+<!ENTITY optionsHeader.char.title                                "Koděrowanje znamuškow">
+<!ENTITY optionsHeader.char.autodetect.label                     "Awtomatiski zwěsćiś">
+<!ENTITY optionsHeader.char.options.label                        "Koděrowańske nastajenja w rědce nałoženjow pokazaś">
+
+<!ENTITY clearPrivateData.title                                  "Priwatne daty lašowaś">
+<!ENTITY clearPrivateData.label                                  "Wašu historiju, waše gronidła, cookieje a formularne daty na toś tom rěźe wulašowaś">
+<!ENTITY clearPrivateData.button                                 "Wótpóraś">
+<!ENTITY clearPrivateData.done                                   "Gótowo!">
+<!ENTITY clearPrivateData.history                                "Pśeglědowańska historija">
+<!ENTITY clearPrivateData.otherdata                              "Druge daty (gronidła, pufrowak, cookieje atd.)">
+<!ENTITY clearPrivateData.downloadHist                           "Ześěgnjeńska historija">
+<!ENTITY clearPrivateData.cookies                                "Cookieje">
+<!ENTITY clearPrivateData.cache                                  "Pufrowak">
+<!ENTITY clearPrivateData.sitePref                               "Sedłowe nastajenja">
+<!ENTITY clearPrivateData.formSearchHist                         "Formularna a pytańska historija">
+<!ENTITY clearPrivateData.passwords                              "Składowane gronidła">
+<!ENTITY clearPrivateData.offline                                "Daty websedła offline">
+<!ENTITY clearPrivateData.logins                                 "Aktiwne pśizjawjenja">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Gronidła se spomnjeś">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Nawigaciske tłocaški pokazaś">
+<!ENTITY doNotTrack.title                                        "Njeslědowaś">
+<!ENTITY doNotTrack.options.doNotTrack                           "Websedłam k wěsći daś, až njamaju mě slědowaś">
+<!ENTITY doNotTrack.options.doTrack                              "Websedłam k wěsći daś, až směju mje slědowaś">
+<!ENTITY doNotTrack.options.default                              "Websedłam nic wó slědowańskich nastajenjach k wěsći daś">
+<!ENTITY doNotTrack.learnMoreLink                                "Dalšne informacije&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Rozpšawjak wowalenjow">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sćelo rozpšawy wowalenjow, aby Mozilla pomagał, waš wobglědowak wěcej stabilny a wěcej wěsty cyniś">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Adresu boka zasajźiś, na kótaremž som był">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                            "Źěli wužywańsku statistiku wó &brandShortName; z Mozilla, aby nam pomagał, waš wobglědowak pólěpšył">

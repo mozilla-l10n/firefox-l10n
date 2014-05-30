@@ -1,0 +1,16 @@
+<!-- -*- Mode: HTML -*- -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title.label        "Koděrowanje znamuškow pśiměriś">
+<!ENTITY current.label      "Aktiwne koděrowanja znamuškow:">
+<!ENTITY remove.label       "Wótpóraś">
+<!ENTITY remove.accessKey   "W">
+<!ENTITY additional.label   "K dispozciji stojece koděrowanja znamuškow:">
+<!ENTITY add.label          "Pśidaś">
+<!ENTITY add.accessKey      "P">
+<!ENTITY moveUp.label       "Górjej">
+<!ENTITY moveUp.accessKey   "G">
+<!ENTITY moveDown.label     "Dołoj">
+<!ENTITY moveDown.accessKey "D">

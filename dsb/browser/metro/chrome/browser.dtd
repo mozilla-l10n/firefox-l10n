@@ -1,0 +1,149 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Pytanje abo adresu zapódaś">
+
+<!ENTITY back.label            "Slědk">
+<!ENTITY forward.label         "Doprědka">
+<!ENTITY newtab.label          "Nowy rejtark">
+<!ENTITY newPrivateTab.label   "Nowy priwatny rejtark">
+<!ENTITY closetab.label        "Rejtark zacyniś">
+
+<!ENTITY autocompleteResultsHeader.label  "Waše wuslědki">
+
+<!ENTITY appbarErrorConsole.label      "Zmólkowu konsolu wócyniś">
+<!ENTITY appbarJSShell.label           "JavaScriptowu konsolu wócyniś">
+<!ENTITY appbarFindInPage2.label       "Na boku pytaś">
+<!ENTITY appbarRelaunchInDesktop.label "Na desktopje znowego startowaś">
+<!ENTITY appbarMSMetaData2.label       "Nałoženje za toś to sedło wobstaraś">
+<!ENTITY appbarViewPageSource.label    "Žrědłowy tekst boka pokazaś">
+
+<!ENTITY topSitesHeader.label        "Nejlěpše sedła">
+<!ENTITY bookmarksHeader.label       "Cytańske znamjenja">
+<!ENTITY recentHistoryHeader.label   "Nejnowša historija">
+<!ENTITY remoteTabsHeader.label      "Rejtarki z drugich rědow">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Nejlěpše sedła">
+<!ENTITY narrowBookmarksHeader.label     "Cytańske znamjenja">
+<!ENTITY narrowRecentHistoryHeader.label "Nejnowša historija">
+<!ENTITY narrowRemoteTabsHeader.label    "Daloke rejtarki">
+
+<!ENTITY downloadsHeader.label     "Ześěgnjenja">
+<!ENTITY downloadShowPage.label    "K bokoju">
+<!ENTITY downloadShow2.label       "Pytaś">
+<!ENTITY downloadOpen2.label       "Wócyniś">
+<!ENTITY downloadCancel.label      "Pśetergnuś">
+<!ENTITY downloadPause.label       "Pawza">
+<!ENTITY downloadResume.label      "Pókšacowaś">
+<!ENTITY downloadRetry.label       "Hyšći raz wopytaś">
+<!ENTITY downloadRemove.label      "Wótpóraś">
+<!ENTITY downloadDelete.label      "Wulašowaś">
+<!ENTITY downloadFailed.label      "Njeraźony">
+
+<!ENTITY allBookmarks.label        "Wšykne cytańske znamjenja pokazaś">
+
+<!ENTITY consoleHeader.label       "Zmólkowa konsola">
+<!ENTITY consoleAll.label          "Wšykne">
+<!ENTITY consoleErrors.label       "Zmólki">
+<!ENTITY consoleWarnings.label     "Warnowanja">
+<!ENTITY consoleMessages.label     "Powěsći">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Wuprozniś">
+<!ENTITY consoleCopyAll.label      "Kopěrowaś">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Žrědłowa dataja:">
+<!ENTITY consoleErrLine.label      "Smužka:">
+<!ENTITY consoleErrColumn.label    "Słup:">
+<!ENTITY consoleFollowCheckbox.label "Slědowaś">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Wurězaś">
+<!ENTITY contextTextCopy.label             "Kopěrowaś">
+<!ENTITY contextTextPaste.label            "Zasajźiś">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Zasajźiś a zachopiś">
+<!ENTITY contextTextSelect.label           "Wubraś">
+<!ENTITY contextTextSelectAll.label        "Wšykno wubraś">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Wótkaz w nowem rejtarku wócyniś">
+<!ENTITY contextCopyLinkHref.label         "Wótkaz kopěrowaś">
+<!ENTITY contextBookmarkLinkHref.label     "Wótkaz ako cytańske znamje składowaś">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Do wobrazoweje biblioteki składowaś">
+<!ENTITY contextCopyImage.label            "Wobraz kopěrowaś">
+<!ENTITY contextCopyImageLocation.label    "Wobrazowu adresu kopěrowaś">
+<!ENTITY contextOpenImageTab.label         "Wobraz w nowem rejtarku wócyniś">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Do wideobiblioteki składowaś">
+<!ENTITY contextCopyVideoLocation.label    "Wideowu adresu kopěrowaś">
+<!ENTITY contextOpenVideoTab.label         "Wideo w nowem rejtarku wócyniś">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "t">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+<!ENTITY firstRunTabs.label "Pytaśo swóje rejtarki? Śěgniśo jadnorje dołoj abo klikniśo z pšaweju tastu">
+<!ENTITY firstRunTopSites.label "K sedłam, ku kótarymž se nejcesćej woglědujośo">
+<!ENTITY firstRunBookmarks.label "Boki pytaś, kótarež sćo za pózdźej składował">
+<!ENTITY firstRunMenu.label "Pśistup na dalšne funkcije a nastajenja">
+<!ENTITY firstRunHistory.label "Póglědajśo, źož sćo w webje był">
+<!ENTITY firstRunWelcome.label "Witajśo do &brandShortName;">
+<!ENTITY firstRunDifferent.label "Z wótglědom hynac">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "Potłusniśo, aby k pjerwjejšnemu bokoju šeł">
+<!ENTITY firstRunNewTab.label "Pśidajśo nowy rejtark, aby nowe sedło wuslěźił">
+<!ENTITY firstRunStar.label "Wužyjśo cytańske znamjenja, aby boki na pózdźej składował">
+<!ENTITY firstRunPin.label "Pśipějśo sedło na wašu startowu wobrazowku Windows za malsny pśistup">
+<!ENTITY firstRunGotIt.label "Som to zrozměł!">
