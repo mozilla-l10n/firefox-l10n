@@ -38,8 +38,8 @@
 <!ENTITY options.darkTheme.label             "Tema oscuro">
 <!ENTITY options.lightTheme.label            "Tema claro">
 <!ENTITY options.webconsole.label            "Consola Web">
-<!ENTITY options.enablePersistentLogging.label    "Activar registros permanentes">
-<!ENTITY options.enablePersistentLogging.tooltip  "Si usted activa esta opción la consola Web no limpiará  el texto de salida cada vez que navegue a una página nueva">
+<!ENTITY options.enablePersistentLogs.label    "Activar registros permanentes">
+<!ENTITY options.enablePersistentLogs.tooltip  "Si activa esta opción la consola web y el monitor de red no limpiarán el texto de salida cada vez que navegue a una página nueva">
 <!ENTITY options.timestampMessages.label      "Activar marcas de tiempo">
 <!ENTITY options.timestampMessages.tooltip    "Si activa esta opción los comandos y mensajes de la consola web aparecerán con una marca de tiempo">
 <!ENTITY options.styleeditor.label            "Editor de estilo">
