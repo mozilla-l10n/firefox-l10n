@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (niet meer in gebruik)'>
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Blêdwizermenu'>
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kin net ferbine. Tik om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Auto-sync gegevens yn Android Instellingen &gt; Gegevengebruik.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Tik om syngronisearjen te starten.'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
 <!ENTITY fxaccount_status_passwords 'Wachtwurden'>
