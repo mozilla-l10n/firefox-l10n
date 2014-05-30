@@ -13,6 +13,8 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY options.context.advancedSettings "Impostazioni avanzate">
 <!ENTITY options.context.inspector "Analisi pagina">
+<!ENTITY options.showUserAgentStyles.label "Visualizza stili del browser">
+<!ENTITY options.showUserAgentStyles.tooltip "Attivando questa opzione verranno visualizzati gli stili predefiniti caricati dal browser.">
 <!ENTITY options.defaultColorUnit.label "Unità predefinita colori:">
 <!ENTITY options.defaultColorUnit.accesskey "U">
 <!ENTITY options.defaultColorUnit.hex "esadecimale">
