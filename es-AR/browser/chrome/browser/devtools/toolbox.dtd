@@ -30,6 +30,12 @@
   -  This label is visible in the options panel. -->
 <!ENTITY options.defaultColorUnit.label "Unidad de color predeterminada">
 
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Mostrar estilos del navegador">
+<!ENTITY options.showUserAgentStyles.tooltip "Habilitar esta opción mostrará los estilos predeterminados que son cargados por el navegador.">
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
