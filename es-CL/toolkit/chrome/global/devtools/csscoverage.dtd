@@ -30,7 +30,7 @@
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
 <!ENTITY csscoverage.optimize.body1 "A veces puedes acelerar la carga moviendo">
-<!ENTITY csscoverage.optimize.body2 "etiquetas al final de la página y creando un nuevo elemento>
+<!ENTITY csscoverage.optimize.body2 "etiquetas al final de la página y creando un nuevo elemento">
 <!ENTITY csscoverage.optimize.body3 "incrustado con los estilos necesarios antes del evento 'load' en la parte superior. Aquí están los bloques de estilo que necesitas:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
