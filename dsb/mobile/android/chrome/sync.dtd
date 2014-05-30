@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Synchronizacija">
+<!ENTITY sync.notconnected          "Njezwězany">
+<!ENTITY sync.connect               "Zwězaś">
+<!ENTITY sync.connected             "Zwězany">
+<!ENTITY sync.details               "Drobnostki">
+<!ENTITY sync.deviceName            "Toś ten rěd">
+<!ENTITY sync.disconnect            "Źěliś">
+<!ENTITY sync.syncNow               "Něnto synchronizěrowaś">
+
+<!ENTITY sync.setup.title           "Ze Sync zwězaś">
+<!ENTITY sync.setup.pair            "Za aktiwěrowanje wubjeŕśo &quot;Rěd zwězaś&quot; na wašom drugem rěźe.">
+<!ENTITY sync.fallback              "Njejsom pśi swójom licadle…">
+<!ENTITY sync.setup.manual          "Zapódajśo informacije swójogo Sync-konta">
+<!ENTITY sync.account               "Kontowe mě">
+<!ENTITY sync.password              "Gronidło">
+<!ENTITY sync.recoveryKey           "Wótnowjeński kluc">
+<!ENTITY sync.customServer          "Swójski serwer wužywaś">
+<!ENTITY sync.serverURL             "Serwerowy URL">
+<!ENTITY sync.setup.connect         "Zwězaś">
+<!ENTITY sync.setup.cancel          "Pśetergnuś">
+<!ENTITY sync.setup.tutorial        "Pokazaś kak">
+<!ENTITY sync.setup.waiting2        "Caka se na drugi rěd…">
+
+<!ENTITY sync.pair.title            "Rěd zwězaś">
+<!ENTITY sync.pair.description      "Za aktiwěrowanje wašogo nowego rěda, wubjeŕśo &quot;Sync konfigurěrowaś&quot; na toś tom rěźe.">
+<!ENTITY sync.setup.close           "Zacyniś">
+<!ENTITY sync.setup.waitingdownload "Waše daty ześěguju se něnto w slězynje. Móžośo toś to wokno kuždy cas zacyniś.">

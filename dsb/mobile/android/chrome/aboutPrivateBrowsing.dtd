@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Priwatny modus">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Sćo nowy priwatny rejtark wócynił.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Njejsćo w priwatnem rejtarku.">
+
+<!ENTITY privatebrowsingpage.description            "&brandShortName; njebuźo pśeglědowańsku historiju, pytańsku historiju, ześěgnjeńsku historiju, historiju webformularow, cookiejei abo nachylne internetne dataje wobchowowaś. Ale dataje, kótarež ześěgujośo, a cytańske znamjenja, kótarež składujośo, se wobchowaju.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Lěcrownož toś ten rěd njama zapis wašeje pśeglědowańskeje historije, móžo waš internetny póbitowaŕ hyšći boki slědowaś, kótarež se woglědujośo.">
