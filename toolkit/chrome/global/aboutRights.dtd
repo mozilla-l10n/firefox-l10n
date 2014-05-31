@@ -34,7 +34,7 @@
 <!ENTITY rights.safebrowsing-term3 "Снимите флажки &quot;&blockAttackSites.label;&quot; и &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing теперь отключён">
 <!ENTITY rights.locationawarebrowsing-a "Определение местоположения при веб-серфинге: ">
-<!ENTITY rights.locationawarebrowsing-b "всегда требует вашего разрешения. Никакая информация о местоположении никогда не отправляется без вашего разрешения. Если вы хотите полностью отключить эту возможность, выполните следующие действия:">
+<!ENTITY rights.locationawarebrowsing-b "всегда требует вашего разрешения. Никакая информация о местоположении никогда не отправляется без вашего разрешения. Если вы хотите полностью отключить эту функцию, выполните следующие действия:">
 <!ENTITY rights.locationawarebrowsing-term1a "В строке адреса наберите ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Наберите geo.enabled">
