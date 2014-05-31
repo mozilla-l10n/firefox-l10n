@@ -2,9 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label					 "Tiedosto">
 <!ENTITY fileMenu.accesskey				 "T">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label					 "Valitse kaikki">
 <!ENTITY selectAllCmd.key					 "A">
 <!ENTITY selectAllCmd.accesskey				 "V">
-<!ENTITY preferencesCmd.label				 "Asetukset…">
-<!ENTITY preferencesCmd.accesskey			 "A">
+<!ENTITY preferencesCmd2.label "Asetukset">
+<!ENTITY preferencesCmd2.accesskey "A">
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey      "A">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey			 "T">
 <!ENTITY showTaskbarCmd.label					 "Tilarivi">
 <!ENTITY showTaskbarCmd.accesskey				 "r">
-
-<!ENTITY proxy.label                                     "Välityspalvelimen asetukset…">
-<!ENTITY proxy.accesskey                                 "V">
 
 <!ENTITY closeCmd.label			 "Sulje">
 <!ENTITY closeCmd.key			 "W">
