@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Sähköpostin sisältö">
+
+<!ENTITY acceptRemoteContent.label "Salli ulkoinen sisältö sähköposteissa">
+<!ENTITY acceptRemoteContent.accesskey "S">
+<!ENTITY remoteContentExceptions.label "Poikkeukset…">
+<!ENTITY remoteContentExceptions.accesskey "P">
+<!ENTITY acceptRemoteContentInfo.label "Lue lisää ulkoisen sisällön tietosuojavaikutuksista">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Verkkosisältö">
+
+<!ENTITY acceptCookies.label "Sivustot saavat asettaa evästeitä">
+<!ENTITY acceptCookies.accesskey "v">
+<!ENTITY acceptThirdParty.pre.label "Salli kolmannen osapuolen evästeet:">
+<!ENTITY acceptThirdParty.pre.accesskey "m">
+<!ENTITY acceptThirdParty.always.label "Aina">
+<!ENTITY acceptThirdParty.never.label "Ei milloinkaan">
+<!ENTITY acceptThirdParty.visited.label "Vierailluilta sivustoilta">
+<!ENTITY keepUntil.label "Säilytä evästeet:">
+<!ENTITY keepUntil.accesskey "t">
+<!ENTITY expire.label "kunnes ne vanhenevat">
+<!ENTITY close.label "kunnes &brandShortName; suljetaan">
+<!ENTITY askEachTime.label "kysy aina erikseen">
+<!ENTITY cookieExceptions.label "Poikkeukset…">
+<!ENTITY cookieExceptions.accesskey "k">
+<!ENTITY showCookies.label "Näytä evästeet…">
+<!ENTITY showCookies.accesskey "N">
+
+<!ENTITY dntTrackingNopref.label2 "Älä kerro sivustoille mitään seuranta-asetuksistani">
+<!ENTITY dntTrackingNopref.accesskey "Ä">
+<!ENTITY dntTrackingNotOkay.label2 "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY dntTrackingNotOkay.accesskey "I">
+<!ENTITY dntTrackingOkay.label2 "Ilmoita sivustoille, että haluan niiden seuraavan minua">
+<!ENTITY dntTrackingOkay.accesskey "h">
+<!ENTITY doNotTrackInfo.label "Lue lisää seuranta-asetuksista">
+
