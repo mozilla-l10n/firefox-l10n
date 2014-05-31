@@ -12,6 +12,7 @@
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY saveButton.tooltip "Guardar esta hoja de estilos a un fichero">
 <!ENTITY saveButton.accesskey "G">
+<!ENTITY mediaRules.label "reglas @media">
 <!ENTITY editorTextbox.placeholder "Escriba CSS aquí.">
 <!ENTITY noStyleSheet.label "Esta página no tiene hoja de estilos.">
 <!ENTITY noStyleSheet-tip-start.label "Quizás le gustaría ">
