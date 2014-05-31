@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                   "Tuntematon">
 <!ENTITY chatName.label                 "Pikaviestinimi:">
 
-<!ENTITY allowRemoteContent1.label      "Salli linkitetty sisältö.">
-<!ENTITY allowRemoteContent1.accesskey  "S">
-<!ENTITY allowRemoteContent1.tooltip    "HTML-viesteihin on mahdollista linkittää
-sisältöä toisilta palvelimilta. Tällaisen viestien avaaminen luo yhteyden tuohon 
-palvelimeen ja tämä mahdollistaa viestin lukemisen tai lukematta jättämisen
-seuraamisen. Tällä valinnalla hyväksyt tällaisten linkitettyjen sisältöjen lataamisen
-tämän kontaktin lähettämissä sähköposteissa.">
-
 <!ENTITY WorkPhone.label                 "Työpuhelin:">
 <!ENTITY WorkPhone.accesskey             "T">
 <!ENTITY HomePhone.label                 "Koti:">

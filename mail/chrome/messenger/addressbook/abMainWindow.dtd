@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI  "true">
-<!ENTITY propertiesCmd.label                             "Ominaisuudet…">
-<!ENTITY propertiesCmd.accesskey                         "n">
+<!ENTITY propertiesCmd2.label                           "Ominaisuudet">
+<!ENTITY propertiesCmd2.accesskey                       "n">
 <!ENTITY propertiesCmd.key                               "i">
 
 <!-- View Menu -->
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                             "T">
 <!ENTITY exportCmd.label                                 "Vie yhteystietoja…">
 <!ENTITY exportCmd.accesskey                             "V">
-<!ENTITY preferencesCmd.label                            "Asetukset…">
-<!ENTITY preferencesCmd.accesskey                        "A">
+<!ENTITY preferencesCmd2.label                          "Asetukset">
+<!ENTITY preferencesCmd2.accesskey                      "A">
 <!ENTITY preferencesCmdUnix.label                        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey                    "A">
 

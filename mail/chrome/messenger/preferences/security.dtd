@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label       "Sähköpostihuijaukset">
 <!ENTITY itemPasswords.label      "Salasanat">
 <!ENTITY itemAntiVirus.label      "Virustorjunta">
-<!ENTITY itemCookies.label       "Verkkosisältö">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Muokkaa alta roskapostisuodattimen oletusasetuksia. Tilikohtaisia asetuksia voi muokata Tilien asetuksista.">
@@ -46,21 +45,3 @@
 <!ENTITY antiVirus.intro       "&brandShortName;issä virustorjuntaohjelman voi antaa tarkistaa saapuvat sähköpostiviestit virusten varalta ennen kuin ne tallennetaan tietokoneelle.">
 <!ENTITY antiVirus.label       "Virustorjuntaohjelmat voivat asettaa yksittäiset viestit karanteeniin">
 <!ENTITY antiVirus.accesskey   "V">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "Voit määrittää, miten &brandShortName; käsittelee blogien ja uutissyöte- ja muiden sivustojen asettamia evästeitä.">
-<!ENTITY acceptCookies.label            "Salli evästeet palvelimilta">
-<!ENTITY acceptCookies.accesskey        "S">
-<!ENTITY keepUntil.label                "Säilytä evästeet kunnes:">
-<!ENTITY keepUntil.accesskey            "S">
-<!ENTITY expire.label                   "ne vanhenevat">
-<!ENTITY close.label                    "&brandShortName; suljetaan">
-<!ENTITY askEachTime.label              "kysy joka kerta">
-<!ENTITY cookieExceptions.label         "Poikkeukset…">
-<!ENTITY cookieExceptions.accesskey     "P">
-<!ENTITY showCookies.label              "Näytä evästeet…">
-<!ENTITY showCookies.accesskey          "N">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Ilmoita sivustoille, etten halua niiden seuraavan minua">
-<!ENTITY doNotTrack.accesskey           "I">
