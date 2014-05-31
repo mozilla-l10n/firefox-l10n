@@ -71,6 +71,7 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
+<!ENTITY fxaccount_full_label "Firefox Accounts">
 <!ENTITY fxaccount_email_hint "Correo">
 <!ENTITY fxaccount_password_hint "Contraseña">
 <!ENTITY fxaccount_password_hide "Ocultar">
