@@ -184,7 +184,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label  "Tilien asetukset">
 <!ENTITY accountManagerCmd2.accesskey  "s">
-<!ENTITY accountManagerCmdUnix.accesskey  "A">
+<!ENTITY accountManagerCmdUnix2.accesskey  "A">
 <!ENTITY preferencesCmd2.label  "Asetukset">
 <!ENTITY preferencesCmd2.accesskey  "A">
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
