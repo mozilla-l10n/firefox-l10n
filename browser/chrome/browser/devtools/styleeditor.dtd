@@ -12,6 +12,7 @@
 <!ENTITY saveButton.label "Сохранить">
 <!ENTITY saveButton.tooltip "Сохранить эту таблицу стилей в файл">
 <!ENTITY saveButton.accesskey "х">
+<!ENTITY mediaRules.label "правила @media">
 <!ENTITY editorTextbox.placeholder "Набирайте CSS здесь.">
 <!ENTITY noStyleSheet.label "У этой страницы нет таблицы стилей.">
 <!ENTITY noStyleSheet-tip-start.label "Возможно вы захотите ">

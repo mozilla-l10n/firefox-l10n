@@ -13,6 +13,8 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY options.context.advancedSettings "Дополнительные параметры">
 <!ENTITY options.context.inspector "Инспектор">
+<!ENTITY options.showUserAgentStyles.label "Отображать стили браузера">
+<!ENTITY options.showUserAgentStyles.tooltip "Включение этого приведёт к отображению стилей по умолчанию, загруженных браузером.">
 <!ENTITY options.defaultColorUnit.label "Единицы задания цвета по умолчанию">
 <!ENTITY options.defaultColorUnit.accesskey "и">
 <!ENTITY options.defaultColorUnit.hex "16-ричные числа">
