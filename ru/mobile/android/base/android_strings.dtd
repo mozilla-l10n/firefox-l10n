@@ -48,6 +48,7 @@
 <!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY new_private_tab_opened "Открыта новая приватная вкладка">
+<!ENTITY switch_button_message "ПЕРЕЙТИ">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_advanced "Дополнительно">
@@ -241,6 +242,8 @@
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_history_title "История">
+<!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
+<!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
 <!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
 <!ENTITY home_last_tabs_open "Открыть все вкладки с прошлого раза">

@@ -116,18 +116,14 @@
 <!ENTITY unsortedBookmarksCmd.label "Неподшитые закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
-<!ENTITY backCmd.accesskey "Н">
 <!ENTITY backButton.tooltip "На предыдущую страницу">
 <!ENTITY forwardCmd.label "Вперёд">
-<!ENTITY forwardCmd.accesskey "В">
 <!ENTITY forwardButton.tooltip "На следующую страницу">
 <!ENTITY backForwardButtonMenu.tooltip "Щёлкните правой кнопкой или потяните вниз для показа истории">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потяните вниз для показа истории">
 <!ENTITY reloadCmd.label "Обновить">
-<!ENTITY reloadCmd.accesskey "н">
 <!ENTITY reloadButton.tooltip "Обновить текущую страницу">
 <!ENTITY stopCmd.label "Остановить">
-<!ENTITY stopCmd.accesskey "т">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
@@ -325,7 +321,6 @@
 <!ENTITY setDesktopBackgroundCmd.label "Сделать фоновым рисунком рабочего стола…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "е">
 <!ENTITY bookmarkPageCmd2.label "Добавить страницу в закладки">
-<!ENTITY bookmarkPageCmd2.accesskey "б">
 <!ENTITY bookmarkThisLinkCmd.label "Добавить ссылку в закладки">
 <!ENTITY bookmarkThisLinkCmd.accesskey "с">
 <!ENTITY bookmarkThisFrameCmd.label "Добавить фрейм в закладки">
