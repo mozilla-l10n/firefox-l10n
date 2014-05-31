@@ -4,12 +4,12 @@
 
 <!ENTITY csscoverage.backButton "Atrás">
 <!ENTITY csscoverage.unused "Reglas no usadas">
-<!ENTITY csscoverage.noMatch "Los siguientes selectores no se aplicaron a ningún elemento de los que se analizaron durante la prueba así que es posible que puedan ser eliminados con confianza.">
-<!ENTITY csscoverage.optimize "Páginas optimizables">
-<!ENTITY csscoverage.preload1 "A veces puede mejorar la carga moviendo todas las">
-<!ENTITY csscoverage.preload2 "etiquetas al final de la página (donde no detienen la carga de la página) y crear un nuevo">
-<!ENTITY csscoverage.preload3 "elemento en línea conteniendo las siguientes reglas al principio de la página:">
-<!ENTITY csscoverage.noPreload "Todas las reglas están en línea. No tenemos sugerencias sobre cómo mejorar el rendimiento de esta página en este momento.">
+<!ENTITY csscoverage.noMatches "No hay coincidencias para las siguientes reglas:">
+<!ENTITY csscoverage.optimize.header "Páginas optimizables">
+<!ENTITY csscoverage.optimize.body1 "A veces puede optimizar la carga moviendo las etiquetas">
+<!ENTITY csscoverage.optimize.body2 "a la parte inferior de la página y creando un nuevo elemento">
+<!ENTITY csscoverage.optimize.body3 "en línea con los estilos necesarios antes del evento 'load' en la parte superior. Aquí están los bloques de estilos que necesita:">
+<!ENTITY csscoverage.optimize.bodyX "Todas las reglas son en línea.">
 <!ENTITY csscoverage.footer1 "Vea">
 <!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "el artículo en MDN sobre la herramienta de cobertura CSS">
