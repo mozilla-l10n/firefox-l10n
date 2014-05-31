@@ -206,7 +206,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-lokaasjetsjinst">
-<!ENTITY datareporting_wifi_geolocation_summary "Untfangt gegevens oer wifi en gsm-stjoermastlokaasjes as it op 'e achtergrûn rint en dielt dit mei &vendorShortName; om ús geolokaasjtsjinst te ferbetterjen">
+<!ENTITY datareporting_wifi_geolocation_summary "Untfangt gegevens oer wifi en gsm-stjoermastlokaasjes as it op \'e achtergrûn rint en dielt dit mei &vendorShortName; om ús geolokaasjtsjinst te ferbetterjen">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -327,7 +327,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Jo resinte ljepblêden ferskine hjir.">
 <!ENTITY home_most_recent_title "Meast resint">
 <!ENTITY home_most_recent_empty "Meast resint besochte websites ferskine hjir.">
-<!ENTITY home_reading_list_empty "Artikelen dy't jo foar letter bewarje ferskine hjir.">
+<!ENTITY home_reading_list_empty "Artikelen dy\'t jo foar letter bewarje ferskine hjir.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
@@ -365,12 +365,12 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "dy't beheard wurdt troch">
+<!ENTITY identity_run_by "dy\'t beheard wurdt troch">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy't net befeilige is.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat ynhâld dy't net befeilige is blokkearre.">
-<!ENTITY blocked_mixed_content_message_bottom "De measte websites sille gewoanwei wurkje, sels wannear't dizze ynhâld blokkearre wurdt.">
+<!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy\'t net befeilige is.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat ynhâld dy\'t net befeilige is blokkearre.">
+<!ENTITY blocked_mixed_content_message_bottom "De measte websites sille gewoanwei wurkje, sels wannear\'t dizze ynhâld blokkearre wurdt.">
 <!ENTITY learn_more "Mear ynfo">
 <!ENTITY enable_protection "Beskerming ynskeakelje">
 <!ENTITY disable_protection "Beskerming utskeakelje">
@@ -419,7 +419,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Trochgean">
 <!ENTITY guest_session_dialog_cancel "Annulearje">
 <!ENTITY new_guest_session_title "&brandShortName; sil no opnij starte">
-<!ENTITY new_guest_session_text "De persoan dy't dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre wachtwurden, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
+<!ENTITY new_guest_session_text "De persoan dy\'t dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre wachtwurden, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; sil no opnij starte">
 <!ENTITY exit_guest_session_text "De navigaasjegegevens fan dizze sesje sille fuortsmiten wurde.">
