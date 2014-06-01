@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "알람 시 전송할 기본 주소:">
 <!ENTITY pref.defaulttext.label "알람 시 전송할 기본 문자:">
+
+<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

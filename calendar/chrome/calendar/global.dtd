@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "금요일" >
 <!ENTITY day.7.name "토요일" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "분">
-<!ENTITY calendar.global.units.minutes  "분">
-<!ENTITY calendar.global.units.hour     "시간">
-<!ENTITY calendar.global.units.hours    "시간">
-<!ENTITY calendar.global.units.day      "일">
-<!ENTITY calendar.global.units.days     "일">
-
 <!ENTITY month.1.name "1월" >
 <!ENTITY month.2.name "2월" >
 <!ENTITY month.3.name "3월" >

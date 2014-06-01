@@ -226,7 +226,6 @@
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
 <!ENTITY calendar.taskview.delete.label			"삭제">
-<!ENTITY calendar.taskview.delete.accesskey		"l">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "새 캘린더…">

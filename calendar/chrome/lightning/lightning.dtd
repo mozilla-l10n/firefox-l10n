@@ -49,6 +49,30 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "수락">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "초대 수락">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "모두 수락">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "이벤트애 대한 초대를 모두 수락하기">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "추가 ">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "캘린더에 이벤트 추가">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "거절">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "이벤트 초대 거절">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "모두 거절">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "이벤트에 대한 초대를 모두 거절하기">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "삭제">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "캘린더에서 삭제">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "상세…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "이벤트 상세 보기">
+<!ENTITY lightning.imipbar.btnMore.label                                    "더 보기">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "더 많은 옵션을 보려면 클릭">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "재확인">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "주최자에게 재확인 메일 보내기">
+<!ENTITY lightning.imipbar.btnTentative.label                               "불확실">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "이벤트 초대에 불확실로 답하기">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "전부 불확실로 답하기">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "이벤트에 대한 초대에 모두 불확실로 답하기">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "업데이트">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "캘린더의 이벤트 업데이트">
 <!ENTITY lightning.acctCentral.newCalendar.label "새 캘린더 생성">
 
 <!-- today-pane-specific -->

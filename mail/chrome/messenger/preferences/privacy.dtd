@@ -21,7 +21,7 @@
 <!ENTITY acceptThirdParty.always.label "항상">
 <!ENTITY acceptThirdParty.never.label "허용하지 않음">
 <!ENTITY acceptThirdParty.visited.label "방문했던 사이트는 허용">
-<!ENTITY keepUntil.label "이 때 까지 보관:">
+<!ENTITY keepUntil.label "유지:">
 <!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "만료">
 <!ENTITY close.label "&brandShortName;을 닫을 때">
