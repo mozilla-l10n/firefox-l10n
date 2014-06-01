@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "f">
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
-<!ENTITY pref.defaultlength.label "Standaard gebeurtenisduur:" >
-<!ENTITY pref.defaultlength.accesskey "u">
-<!ENTITY pref.defaultsnoozelength.label "Standaard sluimerduur:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.defaults.label "Standaardwaarden voor nieuwe items">
+<!ENTITY pref.events.label "Gebeurtenissen">
+<!ENTITY pref.tasks.label "Taken">
+
+<!ENTITY pref.default_event_length.label "Standaardlengte:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Geen">
+<!ENTITY pref.default_task_start_of_day.label "Begin van dag">
+<!ENTITY pref.default_task_end_of_day.label "Einde van dag">
+<!ENTITY pref.default_task_tomorrow.label "Morgen">
+<!ENTITY pref.default_task_next_week.label "Volgende week">
+<!ENTITY pref.default_task_offset_current.label "Relatief t.o.v. huidige tijd">
+<!ENTITY pref.default_task_offset_start.label "Relatief t.o.v. begin">
+<!ENTITY pref.default_task_offset_next_hour.label "Relatief t.o.v. volgend uur">
 
 <!ENTITY pref.accessibility.label "Toegankelijkheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimaliseren voor toegankelijkheid" >
