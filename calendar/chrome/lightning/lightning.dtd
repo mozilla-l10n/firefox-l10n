@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Dit bericht bevat een uitnodiging voor een gebeurtenis.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Accepteren">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Uitnodiging voor gebeurtenis accepteren">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Alle accepteren">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Uitnodiging voor gebeurtenis voor alle gelegenheden van de gebeurtenis accepteren">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Toevoegen">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "De gebeurtenis aan de agenda toevoegen">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Weigeren">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Uitnodiging voor gebeurtenis weigeren">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Alle weigeren">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Uitnodiging voor gebeurtenis voor alle gelegenheden van de gebeurtenis weigeren">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Verwijderen">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Verwijderen uit agenda">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Gebeurtenisdetails tonen">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Meer">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik om meer opties te tonen">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opnieuw bevestigen">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Stuurt een nieuwe bevestiging naar de organisator">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Voorlopig">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Uitnodiging voor gebeurtenis voorlopig accepteren">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle voorlopig">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Uitnodiging voor gebeurtenis voor alle gelegenheden van de gebeurtenis voorlopig accepteren">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Bijwerken">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Gebeurtenis bijwerken in agenda">
+<!ENTITY lightning.imipbar.description                                      "Dit bericht bevat een uitnodiging voor een gebeurtenis.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

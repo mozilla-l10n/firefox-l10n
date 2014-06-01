@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "h">
 <!ENTITY pref.defaultemail.label "Standaard adres om herinneringen naartoe te sturen:">
 <!ENTITY pref.defaulttext.label "Standaard tekst voor herinneringen:">
+
+<!ENTITY pref.defaultsnoozelength.label "Standaard sluimerduur:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "d">
