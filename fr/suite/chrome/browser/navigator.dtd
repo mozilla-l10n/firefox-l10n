@@ -74,3 +74,10 @@
 <!ENTITY  statusText.label "Chargé">
 
 <!ENTITY popupIcon.tooltiptext "Débloquer les fenêtres popup de ce site">
+
+<!ENTITY viewSecurityInfo.label      "Afficher les informations de sécurité">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "Afficher le certificat">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "Ouvrir le gestionnaire de certificats">
+<!ENTITY viewCertManager.accesskey   "g">
