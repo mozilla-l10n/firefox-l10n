@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 <!ENTITY fileMenu.label					"파일">
 <!ENTITY fileMenu.accesskey				"F">
 <!ENTITY newMenu.label						"새로 만들기">
 <!ENTITY newMenu.accesskey					"N">
+
 <!ENTITY editMenu.label					"편집">
 <!ENTITY editMenu.accesskey				"E">
 <!ENTITY undoCmd.label						"실행 취소">
@@ -29,25 +31,28 @@
 <!ENTITY selectAllCmd.label					"모두 선택">
 <!ENTITY selectAllCmd.key					"A">
 <!ENTITY selectAllCmd.accesskey				"A">
-<!ENTITY preferencesCmd.label				"설정…">
-<!ENTITY preferencesCmd.accesskey			"O">
+<!ENTITY preferencesCmd2.label				"설정…">
+<!ENTITY preferencesCmd2.accesskey			"O">
 <!ENTITY preferencesCmdUnix.label       "설정">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 <!ENTITY viewMenu.label					"보기">
 <!ENTITY viewMenu.accesskey				"V">
 <!ENTITY viewToolbarsMenu.label				"도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey			"T">
 <!ENTITY showTaskbarCmd.label					"상태 표시줄">
 <!ENTITY showTaskbarCmd.accesskey				"u">
-<!ENTITY proxy.label                                    "프록시 설정…">
-<!ENTITY proxy.accesskey                                "C">
+
 <!ENTITY closeCmd.label			"닫기">
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"C">
+
 <!ENTITY quitApplicationCmd.label	"종료">
 <!ENTITY quitApplicationCmd.key		"Q">
 <!ENTITY quitApplicationCmd.accesskey	"x">
+
 <!ENTITY quitApplicationCmdUnix.label	"종료">
 <!ENTITY quitApplicationCmdUnix.accesskey	"Q">
+
 <!ENTITY quitApplicationCmdMac.label  "&brandShortName; 종료">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">

@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "지금 다운로드/동기화…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "오프라인 설정…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "오프라인 설정…">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "선택된 메시지 가져오기">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "별표 메시지 가져오기">
@@ -110,8 +110,8 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "즐겨찾기 폴더">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "속성…">
-<!ENTITY folderPropsFolderCmd.label "폴더 속성…">
+<!ENTITY folderPropsCmd2.label "속성…">
+<!ENTITY folderPropsFolderCmd2.label "폴더 속성…">
 <!ENTITY folderPropsNewsgroupCmd.label "뉴스 그룹 속성…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "삭제 실행 취소">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "최근 폴더">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "간단히 보기">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "정렬">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "저장된 파일">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "메일 규칙…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "메일 규칙…">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "폴더에 규칙 실행">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "선택한 메시지에 규칙 실행">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey	"j">
 <!ENTITY clearRecentHistory.label "최근 기록 삭제…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "계정 설정…">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "계정 설정…">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd.label,
    which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "원격 디버깅 허용">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "이 메시지의 외부 콘텐츠 표시">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY remoteContentOptionAllowForAddress.label "이 사람이 보낸 메시지의 외부 콘텐츠 표시">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY editRemoteContentSettings.label "외부 콘텐츠 옵션 편집하기…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "외부 콘텐츠 설정 편집하기…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "이 메시지의 경고 무시">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "메시지 검색…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "속성…">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties2.label "속성…">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "즐겨찾기 폴더">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "설정…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "설정…">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "포함된 이름이나 메일 주소:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label		"새 탭으로 대화 열기"><!--  en-US: "Open Message in Conversation"  -->
 <!ENTITY contextOpenConversation.accesskey	"n">
+<!ENTITY contextOpenContainingFolder.label "메시지를 포함한 폴더 열기">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "새로 편집…">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "보관">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "창 확대">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label "환경 설정…">
+<!ENTITY preferencesCmdMac2.label "환경 설정…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "서비스">

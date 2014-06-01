@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title "쓰기">
 <!ENTITY paneChat.title		"채팅">
 <!ENTITY paneAttachments.title "첨부">
+<!ENTITY panePrivacy.title   "개인정보">
 <!ENTITY paneSecurity.title "보안">
 <!ENTITY paneAdvanced.title "고급">
