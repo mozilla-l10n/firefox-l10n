@@ -18,6 +18,12 @@
 <!ENTITY quickMode.label             "Afficher le résumé de l'article plutôt que de télécharger la page web">
 <!ENTITY quickMode.accesskey         "m">
 
+<!ENTITY autotagEnable.label         "Créer automatiquement des étiquettes depuis les noms des balises &lt;category&gt; du flux">
+<!ENTITY autotagEnable.accesskey     "r">
+<!ENTITY autotagUsePrefix.label      "Préfixer les étiquettes avec :">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Saisir un préfixe d'étiquette">
+
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Vérifier la validité de l'adresse du flux.">
 

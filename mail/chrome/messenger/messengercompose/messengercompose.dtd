@@ -90,18 +90,20 @@
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
-<!ENTITY findCmd.label "Rechercher et remplacer…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "h">
+<!ENTITY findBarCmd.label "Rechercher…">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Rechercher et remplacer…">
+<!ENTITY findReplaceCmd.accesskey "h">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Rechercher le précédent">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View menu -->
 <!ENTITY viewMenu.label "Affichage"> 
@@ -182,13 +184,13 @@
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Options…">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY accountManagerCmd2.label "Paramètres des comptes">
+<!ENTITY accountManagerCmd2.accesskey "m">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Options">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Préférences">
+<!ENTITY preferencesCmdUnix.accesskey "n"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
