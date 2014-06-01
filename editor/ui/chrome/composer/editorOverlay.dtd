@@ -17,7 +17,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Rechercher…">
+<!ENTITY findBarCmd.label "Rechercher…">
+<!ENTITY findReplaceCmd.label "Rechercher et remplacer…">
 <!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
 <!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
