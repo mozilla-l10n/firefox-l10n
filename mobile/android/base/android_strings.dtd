@@ -128,6 +128,7 @@
 <!ENTITY pref_header_display "Affichage">
 <!ENTITY pref_header_privacy_short "Vie privée">
 <!ENTITY pref_header_help "Aide">
+<!ENTITY pref_header_language "Langue">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Outils de développement">
 
