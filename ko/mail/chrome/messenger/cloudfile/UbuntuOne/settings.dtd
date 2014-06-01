@@ -1,6 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY UbuntuOneSettings.emailAddress     "메일 주소:">
-<!ENTITY UbuntuOneSettings.needAnAccount    "계정이 필요하십니까?">
-<!ENTITY UbuntuOneSettings.learnMore        "기능 소개…">

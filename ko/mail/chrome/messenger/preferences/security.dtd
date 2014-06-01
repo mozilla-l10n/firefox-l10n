@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "사기 메일">
 <!ENTITY itemPasswords.label     "암호">
 <!ENTITY itemAntiVirus.label     "안티 바이러스">
-<!ENTITY itemCookies.label       "웹 콘텐츠">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "기본 스팸 메일 설정을 하시기 바랍니다. 각 계정마다 스팸 메일 설정을 별도로 하실 수 있습니다.">
@@ -47,21 +46,3 @@
 <!ENTITY antiVirus.label      "안티 바이러스 프로그램이 개별 메시지 검사 허용">
 <!ENTITY antiVirus.accesskey  "A">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;는 블로그, 뉴스 피드, 웹 사이트의 쿠키 허용 여부를 지정할 수 있습니다.">
-<!ENTITY acceptCookies.label            "사이트의 쿠키 허용">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "유지:">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "만료">
-<!ENTITY close.label                    "&brandShortName; 닫기">
-<!ENTITY askEachTime.label              "매번 물어보기">
-<!ENTITY cookieExceptions.label         "예외…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "쿠키 보기…">
-<!ENTITY showCookies.accesskey          "S">
-
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label			"웹 사이트에게 방문자 추적 중지 요청">
-<!ENTITY doNotTrack.accesskey			"d">

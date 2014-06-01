@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY msgComposeWindow.title "메일 쓰기: (제목 없음)">
+<!ENTITY msgComposeWindow.title "Write: (no subject)">
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "파일">
@@ -16,7 +17,7 @@
 <!ENTITY newContact.label "주소록 연락처…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "첨부">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachFileCmd.label "파일 첨부…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
@@ -24,7 +25,8 @@
 <!ENTITY attachCloudCmd.accesskey	"i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!ENTITY attachVCardCmd.label "명함 추가">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "명함(vCard) 추가">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "나중에 확인">
 <!ENTITY remindLater.accesskey "L">
@@ -77,6 +79,7 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "재보호">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY renameAttachmentCmd.label	"첨부 파일 이름 변경…">
 <!ENTITY renameAttachmentCmd.accesskey	"e">
@@ -85,18 +88,20 @@
 <!ENTITY selectAllCmd.label "전체 선택">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "찾아 바꾸기…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findBarCmd.label "찾기…">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findReplaceCmd.label "찾아 바꾸기…">
+<!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "다시 찾기">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "이전 찾기">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "보기">
@@ -113,9 +118,11 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "사용자 정의…">
 <!ENTITY customizeToolbar.accesskey "C">
+
 <!ENTITY addressSidebar.label "주소록 탐색창">
 <!ENTITY addressSidebar.accesskey "o">
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "서식">
 <!ENTITY formatMenu.accesskey "o">
 
@@ -130,12 +137,19 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "메시지 인용">
 <!ENTITY quoteCmd.accesskey "Q">
-<!ENTITY attachVCard.label "명함 첨부">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "명함 (vCard) 첨부">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "수신 확인">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY autoFormatCmd.label "자동 선택">
 <!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY dsnMenu.label "메일 전달 상태 확인">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY deliveryFormatMenu.label "전달 서식">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
 <!ENTITY plainTextFormatCmd.accesskey "p">
 <!ENTITY htmlFormatCmd.label "HTML 형식으로">
@@ -168,23 +182,26 @@
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "계정 설정…">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "설정…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmd2.label "계정 설정…">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "설정…">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "창 최소화">
 <!ENTITY bringAllToFront.label "모두 앞으로 보내기">
 <!ENTITY zoomWindow.label "창 확대">
 <!ENTITY windowMenu.label "창">
+
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "보내기">
 <!ENTITY quoteButton.label "인용">
 <!ENTITY addressButton.label "주소록">
 <!ENTITY attachButton.label "첨부">
-<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메시지 맞춤법 검사하기">
 <!ENTITY spellingButton.label "맞춤법 검사">
 <!ENTITY saveButton.label "저장">
 <!ENTITY printButton.label "인쇄">
@@ -195,6 +212,7 @@
 <!ENTITY quoteButton.tooltip "이전 메시지 인용">
 <!ENTITY addressButton.tooltip "주소록에서 받는 사람 선택">
 <!ENTITY attachButton.tooltip "메시지에 파일 첨부">
+<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메시지 맞춤법 검사하기">
 <!ENTITY saveButton.tooltip "메시지 저장">
 <!ENTITY cutButton.tooltip "잘라내기">
 <!ENTITY copyButton.tooltip "복사">
@@ -215,7 +233,11 @@
 <!ENTITY followupAddr.label "전달:">
 <!ENTITY subject.label "제목:">
 <!ENTITY subject.accesskey "S">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "m">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
 <!ENTITY smiley2Cmd.label "시무룩">
@@ -233,6 +255,8 @@
 <!ENTITY smiley14Cmd.label "순진">
 <!ENTITY smiley15Cmd.label "울음">
 <!ENTITY smiley16Cmd.label "함구">
+
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "추천 단어 없음">
 <!ENTITY spellCheckIgnoreWord.label "무시하기">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -248,6 +272,7 @@
 <!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "인용 형식으로 붙여넣기">
 <!ENTITY pasteQuote.accesskey "Q">
+
 <!ENTITY openAttachment.label "열기">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "삭제">
@@ -270,12 +295,6 @@
 <!ENTITY convertRegularAttachment.accesskey	"A">
 <!ENTITY attachPage.label "웹 페이지 첨부…">
 <!ENTITY attachPage.accesskey "W">
-<!ENTITY addressesSidebarTitle.label "주소록 탐색창">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY dsnMenu.label "메일 전달 상태 확인">
-<!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "전달 서식">
-<!ENTITY deliveryFormatMenu.accesskey "F">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label	"맞춤법 사전 추가…">

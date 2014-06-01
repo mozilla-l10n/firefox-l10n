@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsLimit.title   "Hightail">
+<!ENTITY fileExceedsLimit.thatsBigFile   "50 MB보다 큰 파일 전송은">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "프리미엄 기능입니다.">
+<!ENTITY fileExceedsLimit.accept "업그레이드">
+<!ENTITY fileExceedsLimit.cancel "취소">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "지금 업그레이드 하시고 이 파일을 보내는것 뿐 아니라:">
+<!ENTITY fileExceedsLimit.pros1 "최대 2GB까지 파일을 보내보세요">
+<!ENTITY fileExceedsLimit.pros2 "무제한으로 파일을 온라인에 보관하세요">
+<!ENTITY fileExceedsLimit.pros3 "어느 곳에서나 파일을 보고 공유하세요">

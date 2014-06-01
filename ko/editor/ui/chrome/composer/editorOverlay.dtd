@@ -2,7 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY saveCmd.key "s">
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY saveCmd.key "S">
+
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
@@ -11,12 +16,15 @@
 <!ENTITY pasteAsQuotationCmd.label "인용 형식으로 붙여넣기">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "찾아서 바꾸기…">
+<!ENTITY findBarCmd.label "찾기…">
+<!ENTITY findReplaceCmd.label "찾아서 바꾸기…">
 <!ENTITY enableInlineSpellChecker.label "입력시 맞춤법 검사">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
+
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "삽입">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "링크…">
@@ -32,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertMathCmd.label "수식…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "문자 및 기호…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "이미지 줄바꿈">

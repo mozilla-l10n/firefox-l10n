@@ -1,6 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceeds2GB.title   "YouSendIt">
-<!ENTITY fileExceeds2GB.cancel "확인">
-<!ENTITY fileExceeds2GB.description "2GB 이상의 파일은 보낼 수 없습니다.">

@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label		"웹 페이지를 읽지 않고 기사 요약을 표시">
 <!ENTITY quickMode.accesskey		"h">
 
+<!ENTITY autotagEnable.label         "피드의 &lt;카테고리&gt; 이름에서 태그 자동으로 만들기">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "태그에 접두사 붙이기:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "접두사를 입력하세요">
+
 <!ENTITY locationValidate.label		"피드 검사">
 <!ENTITY validateText.label		"피드가 유효한지 확인해 올바른 URL을 취득합니다.">
 

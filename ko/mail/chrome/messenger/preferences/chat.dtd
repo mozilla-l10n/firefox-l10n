@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label		"대화 중 입력 중이라는 상태 전송">
 <!ENTITY  sendTyping.accesskey		"t">
+
+<!ENTITY  chatNotifications.label             "메시지가 도착했을 때:">
+<!ENTITY  desktopChatNotifications.label      "알림 보여주기">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "소리 재생">
+<!ENTITY  play.label                          "재생">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "기본 시스템 소리">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "다음 소리 파일 사용">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "찾아보기…">
+<!ENTITY  browse.accesskey                    "B">
+
