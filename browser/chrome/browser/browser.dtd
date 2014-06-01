@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Увійти в &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Перепідключитись до &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; синхронізується">
-<!ENTITY syncStartPanel.subTitle "Ви можете керувати &syncBrand.shortName.label; в Налаштуваннях.">
-<!ENTITY syncStartPanel.subTitleUnix "Ви можете керувати &syncBrand.shortName.label; в Налаштуваннях.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; увімкнено">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; почне синхронізацію негайно.">
 <!ENTITY syncErrorPanel.heading "Неможливо під’єднатись до &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Увійдіть щоб відновити синхронізацію.">
 <!ENTITY syncErrorPanel.signInButton.label "Увійти">
@@ -614,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "т">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Додати словники…">
 <!ENTITY spellAddDictionaries.accesskey "л">
@@ -659,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Н">
 <!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
 <!ENTITY syncSyncNowItem.accesskey    "С">
+<!ENTITY syncReAuthItem.label         "Перепідключитись до &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Синхронізація">
 
 <!ENTITY socialToolbar.title        "Соціальна панель">
@@ -684,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Пристосувати &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Меню та панелі">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Додаткові інструменти та можливості">
 <!ENTITY customizeMode.menuAndToolbars.empty "Потрібно більше інструментів?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Оберіть з тисяч додатків">
@@ -709,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "доступ до камери / мікрофону">
 <!ENTITY webrtcIndicatorButton.tooltip "Показати сайти, котрі зараз мають доступ до ваших камери або мікрофону">
 
-<!ENTITY mixedContentBlocked.helplink "Дізнатись більше">
 <!ENTITY mixedContentBlocked.moreinfo "Більшість сайтів все одно працюватимуть належним чином, навіть коли цей вміст заблоковано.">
 
 <!ENTITY pointerLock.notification.message "Натисніть ESC будь-коли, щоб показати його знову.">
