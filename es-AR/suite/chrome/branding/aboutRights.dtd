@@ -32,16 +32,32 @@
 
 <!ENTITY rights.webservices-header "Sitios web de los servicios de &brandFullName;">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; usa servicios de información de sitios web (&quot;Services&quot;), como por ejemplo el servicio SafeBrowsing, que está disponible para su uso junto a la versión binaria de &brandShortName; como se describe debajo. Si no quiere usar los servicios o los términos que están debajo son inaceptables, puede desactivar el servicio SafeBrowsing. Debe abrir las preferencias de la aplicación, elija la sección ">
-<!ENTITY rights.webservices-b "Seguridad">
-<!ENTITY rights.webservices-c ", seguido de ">
-<!ENTITY rights.webservices-d "Instalación de software">
-<!ENTITY rights.webservices-e " y desmarcar las opciones para  &quot;Buscar automáticamente actualizaciones para&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Servicios&quot;), como la sugerencia de complementos y servicios de actualización o la funcionalidad de navegación segura, que están disponibles para usar con esta versión binaria de &brandShortName; como se describen debajo.  Estos servicios están habilitados por defecto.  Si no desea usar los servicios o los términos son inaceptables, puede encontrar instrucciones sobre como deshabilitar una funcionalidad o servicio en particular ">
+<!ENTITY rights2.webservices-b "aquí">
+<!ENTITY rights2.webservices-c ". Otras funcionalidades y servicios pueden deshabilitarse en las preferencias de la aplicación.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Servicios de complementos: ">
+<!ENTITY rights.addons-b "Por defecto, &brandShortName; sugerirá complementos de la página &view.discover.label; y verfiica por actualizaciones en intervalos regulares.  Si desea deshabilitar estas funcionalidades para evitar comunicación de información sobre complementos instalados al servidor, siga estos pasos:">
+<!ENTITY rights.addons-term1 "Abra las preferencias de aplicación">
+<!ENTITY rights.addons-term2 "Seleccione el panel &smart.label; en la categoría &advance.label;">
+<!ENTITY rights.addons-term3 "Desmarque las opciones a &quot;&autoAddOnsUpdates.label;&quot; y &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Los servicios de complementos ahora están deshabilitados">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Navegación segura: ">
+<!ENTITY rights.safebrowsing-b "No se recomienda deshabilitar la funcionalidad de navegaciíón segura porque puede resultar en la visita a sitios inseguros.  Si desea deshabilitar la funcionalidad complemtamente, siga estos pasos:">
+<!ENTITY rights.safebrowsing-term1 "Abra las preferencias de aplicación">
+<!ENTITY rights.safebrowsing-term2 "Seleccione el panel &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Desmarque las opciones a &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "La navegación segura ahora está deshabilitada">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; puede discontinuar o cambiar los servicios según considere oportuno.">
