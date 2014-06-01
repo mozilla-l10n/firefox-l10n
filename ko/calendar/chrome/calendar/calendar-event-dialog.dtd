@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "개시일" >
 <!ENTITY newevent.to.label                  "종료일" >
-<!ENTITY newevent.attendees.notify.label    "참석자 알림">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "참석자를 비공개로 유지하기">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "활성화 하면 참석자는 서로를 볼 수 없습니다. E-mail 초대에만 적용됩니다."
 
 <!ENTITY newevent.status.label                "상태" >
 <!ENTITY newevent.status.accesskey            "S" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 완료">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "참석자 알림">
+<!ENTITY event.attendees.notifyundisclosed.label    "참석자 별로 초대 분리하기">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "이 옵션은 각 참석자에게 따로 이메일을 보내는 옵션입니다. 각 초대에는 받는 사람만 참석자로 나와 있어 다른 참석자를 볼 수 없습니다.
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">

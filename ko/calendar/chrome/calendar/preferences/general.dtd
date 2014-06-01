@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "긴 형식" >
 <!ENTITY pref.dateformat.short "짧은 형식"  >
-<!ENTITY pref.defaultlength.label "기본 이벤트 시간:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "기본 대기 시간:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.defaults.label "기본 값">
+<!ENTITY pref.events.label "이벤트">
+<!ENTITY pref.tasks.label "태스크">
+
+<!ENTITY pref.default_event_length.label "기본 시간:" >
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_task_none.label "없음">
+<!ENTITY pref.default_task_start_of_day.label "하루의  시작">
+<!ENTITY pref.default_task_end_of_day.label "하루의 끝">
+<!ENTITY pref.default_task_tomorrow.label "내일">
+<!ENTITY pref.default_task_next_week.label "다음 주">
+<!ENTITY pref.default_task_offset_current.label "지금 시간부터">
+<!ENTITY pref.default_task_offset_start.label "시작 시간 부터">
+<!ENTITY pref.default_task_offset_next_hour.label "다음 시간 부터">
 
 <!ENTITY pref.accessibility.label "접근성" >
 <!ENTITY pref.systemcolors.label "시스템 색상 최적화" >
