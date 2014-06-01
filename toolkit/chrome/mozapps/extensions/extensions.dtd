@@ -102,6 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
+<!ENTITY cmd.debugAddon.label                 "Avlusa">
 <!ENTITY cmd.showPreferencesWin.label         "Inställningar">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Ändra tilläggets inställningar">
 <!ENTITY cmd.showPreferencesUnix.label        "Inställningar">
