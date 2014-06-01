@@ -331,6 +331,7 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ajouter un site">
+<!ENTITY home_top_sites_edit_empty_toast "Veuillez sélectionner un site ou saisir un terme à rechercher">
 
 <!ENTITY home_history_title "Historique">
 <!ENTITY home_clear_history_button "Effacer l\u0027historique de navigation">
