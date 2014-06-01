@@ -75,8 +75,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "h">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
-<!ENTITY settingsOfflineCmd.accesskey "P">
+<!ENTITY settingsOfflineCmd2.label "Paramètres hors connexion">
+<!ENTITY settingsOfflineCmd2.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Relever les messages suivis">
@@ -569,8 +569,6 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Afficher le contenu distant de ce message">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "h">
-<!ENTITY remoteContentOptionAllowForAddress.label "Afficher le contenu distant de cet expéditeur">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "l">
 <!ENTITY editRemoteContentSettings.label "Modifier les options pour le contenu distant…">
 <!ENTITY editRemoteContentSettings.accesskey "M">
 <!ENTITY editRemoteContentSettingsUnix.label "Modifier les préférences pour le contenu distant…">
@@ -633,12 +631,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Rechercher dans les messages…">
 <!ENTITY folderContextSearchForMessages.accesskey "c">
-<!ENTITY folderContextProperties.label "Propriétés…">
-<!ENTITY folderContextProperties.accesskey "t">
+<!ENTITY folderContextProperties2.label "Propriétés">
+<!ENTITY folderContextProperties2.accesskey "t">
 <!ENTITY folderContextFavoriteFolder.label "Dossier préféré">
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
-<!ENTITY folderContextSettings.label "Paramètres…">
-<!ENTITY folderContextSettings.accesskey "a">
+<!ENTITY folderContextSettings2.label "Paramètres">
+<!ENTITY folderContextSettings2.accesskey "a">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Le nom ou le message contient :">
