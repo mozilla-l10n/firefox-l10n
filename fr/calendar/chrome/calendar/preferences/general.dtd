@@ -12,11 +12,23 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Long " >
 <!ENTITY pref.dateformat.short "Court "  >
-<!ENTITY pref.defaultlength.label "Durée par défaut des évènements :" >
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Accessibilité" >
 <!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l'accessibilité" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.defaults.label "Valeurs par défaut pour les nouveaux éléments">
+<!ENTITY pref.events.label "Évènements">
+<!ENTITY pref.tasks.label "Tâches">
+
+<!ENTITY pref.default_event_length.label "Durée par défaut :" >
+<!ENTITY pref.default_event_length.accesskey "D">
+
+<!ENTITY pref.default_task_none.label "Aucune">
+<!ENTITY pref.default_task_start_of_day.label "Début de journée">
+<!ENTITY pref.default_task_end_of_day.label "Fin de journée">
+<!ENTITY pref.default_task_tomorrow.label "Demain">
+<!ENTITY pref.default_task_next_week.label "La semaine prochaine">
+<!ENTITY pref.default_task_offset_current.label "Par rapport à l'heure actuelle">
+<!ENTITY pref.default_task_offset_start.label "Par rapport au début">
+<!ENTITY pref.default_task_offset_next_hour.label "Par rapport à l'heure suivante">
