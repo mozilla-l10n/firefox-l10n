@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Inconnu">
 <!ENTITY chatName.label                 "Pseudo pour discussion :">
 
-<!ENTITY allowRemoteContent1.label      "Autoriser les contenus distants.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "Dans les messages HTML, il est possible
-d'intégrer des contenus depuis des sources distantes. L'ouverture d'un tel message ouvrira
-une connexion vers cette source externe. Ceci peut permettre le traçage de la lecture
-du message. En cochant cette case, vous autoriserez de tels contenus externes
-dans les messages HTML de ce contact.">
-
 <!ENTITY WorkPhone.label                "Travail :"> 
 <!ENTITY WorkPhone.accesskey            "l">
 <!ENTITY HomePhone.label                "Domicile :"> 
