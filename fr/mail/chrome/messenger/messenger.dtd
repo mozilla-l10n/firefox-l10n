@@ -707,6 +707,8 @@
 <!ENTITY contextOpenNewTab.accesskey "u">
 <!ENTITY contextOpenConversation.label "Ouvrir le message dans la discussion">
 <!ENTITY contextOpenConversation.accesskey "v">
+<!ENTITY contextOpenContainingFolder.label "Ouvrir le message dans le dossier qui le contient">
+<!ENTITY contextOpenContainingFolder.accesskey "i">
 <!ENTITY contextEditMsgAsNew.label "Modifier comme un nouveau message">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archiver">
