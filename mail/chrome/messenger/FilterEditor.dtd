@@ -22,7 +22,7 @@
 <!ENTITY contextManual.label "Lors de son exécution manuelle">
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
-<!ENTITY contextAfterCls.label "Filter après la vérification des indésirables">
+<!ENTITY contextAfterCls.label "Filtrer après la vérification des indésirables">
 
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
