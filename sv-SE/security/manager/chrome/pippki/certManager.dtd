@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Verifierar certifikat…">
 <!ENTITY certmgr.subjectinfo.label            "Utfärdat till">
 <!ENTITY certmgr.issuerinfo.label             "Utfärdat av">
-<!ENTITY certmgr.validity.label               "Giltighet">
+<!ENTITY certmgr.periodofvalidity.label       "Giltighetsperiod" >
 <!ENTITY certmgr.fingerprints.label           "Fingeravtryck">
 <!ENTITY certmgr.certdetail.title             "Certifikatdetaljer">
 <!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Livslängd">
 <!ENTITY certmgr.tokenname                    "Säkerhetsenhet">
-<!ENTITY certmgr.issued                       "Utfärdat">
+<!ENTITY certmgr.begins                       "Börjar">
 <!ENTITY certmgr.expires                      "Förfaller">
 <!ENTITY certmgr.email                        "E-postadress">
 <!ENTITY certmgr.serial                       "Serienummer">
