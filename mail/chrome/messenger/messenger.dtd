@@ -163,6 +163,8 @@
 <!ENTITY favoriteFolders.accesskey "P">
 <!ENTITY recentFolders.label "Récents">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Vue compacte">
+<!ENTITY compactVersion.accesskey "V">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trier par">
