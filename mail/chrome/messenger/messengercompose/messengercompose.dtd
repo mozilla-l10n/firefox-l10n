@@ -184,13 +184,13 @@
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Options…">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY accountManagerCmd2.label "Paramètres des comptes">
+<!ENTITY accountManagerCmd2.accesskey "m">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Options">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Préférences">
+<!ENTITY preferencesCmdUnix.accesskey "n"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
