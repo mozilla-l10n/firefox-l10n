@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Modifier le filtre">
+<!ENTITY window.title "Règles de filtrage">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nom du filtre :">
 <!ENTITY filterName.accesskey "i">
@@ -22,7 +22,7 @@
 <!ENTITY contextManual.label "Lors de son exécution manuelle">
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
-<!ENTITY contextAfterCls.label "Filter après la vérification des indésirables">
+<!ENTITY contextAfterCls.label "Filtrer après la vérification des indésirables">
 
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
