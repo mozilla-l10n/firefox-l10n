@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
+<!ENTITY pref_learn_more "Meer info">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
 <!ENTITY pref_category_add_search_providers "Meer zoekproviders toevoegen">
 <!ENTITY pref_category_search_restore_defaults "Zoekmachines herstellen">
