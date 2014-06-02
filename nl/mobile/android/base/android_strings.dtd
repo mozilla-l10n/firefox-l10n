@@ -178,6 +178,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Tonen">
 <!ENTITY pref_panels_hide "Verbergen">
+<!ENTITY pref_panels_reorder "Volgorde aanpassen">
+<!ENTITY pref_panels_move_up "Omhoog verplaatsen">
+<!ENTITY pref_panels_move_down "Omlaag verplaatsen">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistieken &amp; -gegevens">
 <!ENTITY datareporting_notification_action_long "Kies welke gegevens u wilt delen">
