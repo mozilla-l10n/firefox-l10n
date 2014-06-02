@@ -4,14 +4,14 @@
 
 <!ENTITY csscoverage.backButton "Wstecz">
 <!ENTITY csscoverage.unused "Nieużywane reguły">
-<!ENTITY csscoverage.noMatch "Żadne elementy nie zostały dopasowane do następujących selektorów podczas testu - możliwe, że mogą zostać bezpiecznie usunięte.">
-<!ENTITY csscoverage.optimize "Optymalizowalne strony">
+<!ENTITY csscoverage.noMatches "Żadne elementy nie zostały dopasowane dla następujących reguł:">
+<!ENTITY csscoverage.optimize.header "Optymalizowalne strony">
 
-<!ENTITY csscoverage.preload1 "Czasami można przyśpieszyć wczytywanie przenosząc wszystkie elementy">
-<!ENTITY csscoverage.preload2 "na dół strony (gdzie nie zatrzymają wczytywania strony) i tworząc w jej treści (na górze strony) nowy element">
-<!ENTITY csscoverage.preload3 "zawierający następujące reguły:">
+<!ENTITY csscoverage.optimize.body1 "Czasami można przyśpieszyć wczytywanie przenosząc elementy">
+<!ENTITY csscoverage.optimize.body2 "na dół strony i tworząc w jej treści (na górze strony) nowy element">
+<!ENTITY csscoverage.optimize.body3 "zawierający reguły potrzebne przed zdarzeniem „load”, przykładowo:">
 
-<!ENTITY csscoverage.noPreload "Wszystkie reguły znajdują się w treści strony. Obecnie nie mamy żadnych propozycji odnośnie poprawy wydajności tej strony.">
+<!ENTITY csscoverage.optimize.bodyX "Wszystkie reguły znajdują się w treści strony.">
 
 <!ENTITY csscoverage.footer1 "Więcej informacji na temat sposobu generowania raportów można znaleźć">
 <!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
