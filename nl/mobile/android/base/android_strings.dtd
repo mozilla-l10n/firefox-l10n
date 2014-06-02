@@ -54,6 +54,7 @@
 <!ENTITY back "Terug">
 <!ENTITY stop "Stoppen">
 <!ENTITY site_security "Websitebeveiliging">
+<!ENTITY edit_mode_cancel "Annuleren">
 
 <!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY one_tab "1 tabblad">
