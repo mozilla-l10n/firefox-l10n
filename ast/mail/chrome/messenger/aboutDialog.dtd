@@ -15,7 +15,6 @@
 <!ENTITY bottomLinks.rights "Derechos del usuariu final">
 <!ENTITY bottomLinks.privacy "Política de privacidá">
 <!ENTITY update.checkingForUpdates "Guetando anovamientos…">
-<!ENTITY update.checkingAddonCompat "Comprobando compatibilidá de complementos…">
 <!ENTITY update.noUpdatesFound "&brandShortName; ta anováu">
 <!ENTITY update.adminDisabled "Anovamientos desactivaos pol alministrador del sistema">
 <!ENTITY update.failed.start "Anovamientu fallíu. ">
@@ -33,3 +32,9 @@
 <!ENTITY update.unsupported.start "Nun pues facer más anovamientos nesti sistema.">
 <!ENTITY update.unsupported.linkText "Deprender más">
 <!ENTITY update.unsupported.end "">
+<!ENTITY update.updateButton.label "Reaniciar p'anovar">
+<!ENTITY update.updateButton.accesskey "R">
+<!ENTITY update.checkForUpdatesButton.label "Guetar anovamientos">
+<!ENTITY update.checkForUpdatesButton.accesskey "G">
+<!ENTITY update.applyButtonBillboard.label "Aplicar anovamientu…">
+<!ENTITY update.applyButtonBillboard.accesskey "A">

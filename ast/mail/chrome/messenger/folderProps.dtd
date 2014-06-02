@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY folderProps.windowtitle.label "Propiedaes">
 <!ENTITY generalInfo.label "Información xeneral">
-<!ENTITY folderCharsetTab.label "Xuegu de caráuteres predetermináu:">
-<!ENTITY folderCharsetTab.accesskey "X">
-<!ENTITY folderCharsetOverride.label "Aplicar la configuración predeterminada a tolos mensaxes de la carpeta (inorando l'autodeteición y la configuración de codificación de caráuteres de cada mensaxe)">
-<!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "Reconstruyir el ficheru índiz resume">
 <!ENTITY folderRebuildSummaryFile2.label "Iguar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey "I">
@@ -58,3 +54,5 @@
 <!ENTITY sizeOnDisk.label "Tamañu en discu:">
 <!ENTITY numberUnknown.label "desconocíu">
 <!ENTITY numberOfMessages.label "Númberu de mensaxes:">
+<!ENTITY folderCharsetFallback.label "Codificación de caráuteres por defeutu:">
+<!ENTITY folderCharsetFallback.accesskey "C">

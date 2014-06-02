@@ -46,26 +46,26 @@
 <!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Llocalización">
 <!ENTITY idColumn.label "Orde de receición">
-<!ENTITY columnChooser.tooltip "Calca pa seleicionar les columnes a amosar">
-<!ENTITY threadColumn.tooltip "Calca p'amosar los mensaxes agrupados por conversaciones">
-<!ENTITY fromColumn.tooltip "Calca pa ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Calca pa ordenar por destinatariu">
-<!ENTITY subjectColumn.tooltip "Calca pa ordenar por asuntu">
-<!ENTITY dateColumn.tooltip "Calca pa ordenar por data">
-<!ENTITY priorityColumn.tooltip "Calca pa ordenar por prioridá">
-<!ENTITY tagsColumn.tooltip "Fai clic pa ordenar por etiquetes">
-<!ENTITY accountColumn.tooltip "Calca pa ordenar por cuenta">
-<!ENTITY statusColumn.tooltip "Calca pa ordenar por estáu">
-<!ENTITY sizeColumn.tooltip "Calca pa ordenar por tamañu">
-<!ENTITY junkStatusColumn.tooltip "Calca pa ordenar por estáu de corréu non deseáu">
-<!ENTITY unreadColumn.tooltip "Númberu de mensaxes non lleíos na conversación">
-<!ENTITY totalColumn.tooltip "Númberu total de mensaxes na conversación">
-<!ENTITY readColumn.tooltip "Calca pa ordenar los mensaxes lleíos">
-<!ENTITY receivedColumn.tooltip "Calca pa ordenar por data de receición">
-<!ENTITY starredColumn.tooltip "Calca pa ordenar por estrella">
-<!ENTITY locationColumn.tooltip "Calca pa ordenar por llocalización">
-<!ENTITY idColumn.tooltip "Calca pa ordenar por orde de receición">
-<!ENTITY moveHereMenu.label "Mover equí">
-<!ENTITY moveHereMenu.accesskey "o">
 <!ENTITY moveButton.label "Mover a">
 <!ENTITY moveButton.accesskey "M">
+<!ENTITY unreadColumn2.tooltip "Númberu de mensaxes ensin lleer nuna conversación">
+<!ENTITY totalColumn2.tooltip "Númberu total de mensaxes na conversación">
+<!ENTITY threadColumn2.tooltip "Amosar conversaciones de mensaxes">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetes">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asuntu">
+<!ENTITY statusColumn2.tooltip "Ordenar por estáu">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamañu">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receición">
+<!ENTITY readColumn2.tooltip "Ordenar por lleíos/non lleíos">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridá">
+<!ENTITY locationColumn2.tooltip "Ordenar por llocalización">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estáu de corréu puxarra">
+<!ENTITY idColumn2.tooltip "Ordenar por orde de receición">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY deleteCardButton.label "Desaniciar">
+<!ENTITY deleteCardButton.accesskey "D">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY columnChooser2.tooltip "Esbilla les columnes que quies amosar">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
