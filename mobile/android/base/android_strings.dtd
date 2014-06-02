@@ -85,7 +85,6 @@
 <!ENTITY pref_search_hint "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden en daarna op het pictogram &formatI; te tikken.">
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
-<!ENTITY pref_developer_remotedebugging_docs "Meer info">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
 <!ENTITY pref_category_home "Startpagina">
@@ -204,8 +203,9 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
-<!ENTITY datareporting_wifi_title "&vendorShortName;-locatieservices">
-<!ENTITY datareporting_wifi_summary "Help geolocatieservices voor het open web te verbeteren door &brandShortName; anonieme gsm-zendmastgegevens te laten verzamelen en verzenden">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName;-locatieservice">
+<!ENTITY datareporting_wifi_geolocation_summary "Ontvangt Wi-Fi en gsm-locatiegegevens wanneer het op de achtergrond wordt uitgevoerd en deelt deze met &vendorShortName; om onze geolocatieservices te verbeteren">
+
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
