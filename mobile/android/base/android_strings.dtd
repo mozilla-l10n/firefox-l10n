@@ -54,7 +54,7 @@
 <!ENTITY back "뒤로">
 <!ENTITY stop "중지">
 <!ENTITY site_security "보안 정보">
-<!ENTITY save "저장">
+<!ENTITY edit_mode_cancel "취소">
 
 <!ENTITY close_tab "탭 닫기">
 <!ENTITY one_tab "한 개의 탭">
@@ -72,12 +72,13 @@
 <!ENTITY pref_category_display "디스플레이">
 <!ENTITY pref_category_privacy_short "개인 정보">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "데이터 선택">
+<!ENTITY pref_learn_more "더 알아보기">
 <!ENTITY pref_category_installed_search_engines "설치된 검색 엔진">
 <!ENTITY pref_category_add_search_providers "검색 엔진 추가하기">
 <!ENTITY pref_category_search_restore_defaults "검색 엔진 초기화">
 <!ENTITY pref_search_restore_defaults "기본값 복원">
 <!ENTITY pref_search_restore_defaults_summary "기본값 복원">
-<!ENTITY pref_category_datareporting "데이터 선택">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
 <!ENTITY pref_category_devtools "개발자 도구">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
-<!ENTITY pref_developer_remotedebugging_docs "더 알아보기">
 <!ENTITY pref_remember_signons "암호 저장">
 
 <!ENTITY pref_category_home "홈">
@@ -157,14 +157,14 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_sync "동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
 <!ENTITY pref_import_android "Android에서 가져오기">
-<!ENTITY pref_private_data_history "방문 및 다운로드 기록">
+<!ENTITY pref_private_data_history2 "방문 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
 <!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
 <!ENTITY pref_private_data_passwords "저장한 암호">
 <!ENTITY pref_private_data_cache "캐시">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
 <!ENTITY pref_private_data_siteSettings2 "웹 사이트별 설정">
-<!ENTITY pref_private_data_downloadFiles "다운로드된 파일">
+<!ENTITY pref_private_data_downloadFiles2 "다운로드">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
@@ -179,6 +179,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_panels_show "보이기">
 <!ENTITY pref_panels_hide "숨기기">
+<!ENTITY pref_panels_reorder "순서 변경">
+<!ENTITY pref_panels_move_up "위로 이동">
+<!ENTITY pref_panels_move_down "아래로 이동">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 통계 &amp; 데이터">
 <!ENTITY datareporting_notification_action_long "공유할 정보 선택하기">
@@ -202,8 +205,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "오류 보고서">
-<!ENTITY datareporting_wifi_title "&vendorShortName; 위치 기반 서비스">
-<!ENTITY datareporting_wifi_summary "&brandShortName;가 익명의 셀룰러 타워 데이터를 수집하고 전송하도록 허락하여 오픈 웹을 위해 위치 기반 서비스를 향상시키도록 도움">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; 위치 기반 서비스">
+<!ENTITY datareporting_wifi_geolocation_summary "위치 기반 서비스의 품질 향상을 위하여 백그라운드에서 Wi-Fi와 셀룰러 위치 데이터를 수집하고 &vendeorShortName;에 공유합니다.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -290,7 +293,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
-<!ENTITY reading_list_add "읽기 목록에 추가">
 <!ENTITY reading_list_added "페이지를 읽기 목록에 추가 완료">
 <!ENTITY reading_list_removed "페이지를 읽기 목록에 삭제 완료">
 <!ENTITY reading_list_failed "페이지를 읽기 목록에 추가 실패">
@@ -338,6 +340,11 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "패널에 콘텐츠가 없습니다.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "&formatS;(으)로 이동">
+
 
 <!ENTITY pin_site_dialog_hint "검색어를 입력하세요">
 
@@ -414,6 +421,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName;를 다시 시작합니다">
 <!ENTITY exit_guest_session_text "이 세션의 브라우징 데이터는 모두 삭제됩니다.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
+
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
