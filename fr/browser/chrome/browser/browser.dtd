@@ -166,7 +166,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "Arrêter le chargement de la page">
 <!ENTITY goEndCap.tooltip             "Se rendre à la page indiquée dans la barre d'adresse">
 <!ENTITY printButton.label            "Imprimer">
-<!ENTITY printButton.tooltip          "Imprimer cette page">
 
 <!ENTITY locationItem.title           "Adresse">
 <!ENTITY searchItem.title             "Rechercher">
@@ -198,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Ajouter un mot-clé pour cette recherche…">
 <!ENTITY keywordfield.accesskey       "m">
 <!ENTITY downloads.label              "Téléchargements">
-<!ENTITY downloads.tooltip            "Afficher la progression des téléchargements en cours">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -561,11 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Nouvel onglet">
-<!ENTITY newWindowButton.tooltip        "Nouvelle fenêtre">
 <!ENTITY sidebarCloseButton.tooltip     "Fermer le panneau latéral">
-
-<!ENTITY fullScreenButton.tooltip       "Afficher la fenêtre en plein écran">
 
 <!ENTITY quitApplicationCmdWin.label       "Quitter">
 <!ENTITY quitApplicationCmdWin.accesskey   "Q">
