@@ -73,4 +73,11 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Klaar">
 
-<!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">    
+<!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">
+
+<!ENTITY viewSecurityInfo.label      "Beveiligingsinfo bekijken">
+<!ENTITY viewSecurityInfo.accesskey  "i">
+<!ENTITY viewCertificate.label       "Certificaten bekijken">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "Certificatenbeheerder openen">
+<!ENTITY viewCertManager.accesskey   "b">
