@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "속성…">
 <!ENTITY folderPropsFolderCmd2.label "폴더 속성…">
-<!ENTITY folderPropsNewsgroupCmd.label "뉴스 그룹 속성…">
+<!ENTITY folderPropsNewsgroupCmd2.label "뉴스 그룹 속성…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "삭제 실행 취소">
 <!ENTITY redoDeleteMsgCmd.label "삭제 재실행">
