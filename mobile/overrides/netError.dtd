@@ -72,10 +72,12 @@
 <!ENTITY netTimeout.title "Перевищено термін очікування з’єднання">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Невідомий тип адреси">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Для відкриття даної адреси вам, можливо, знадобиться встановити додаткове програмне забезпечення.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.title "Незрозуміла адреса">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Для відкриття цієї адреси вам, можливо, треба встановити додаткову програму.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Проксі-сервер відмовляється приймати з’єднання">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
