@@ -24,6 +24,8 @@
 <!ENTITY saveButton.tooltip         "Zapisz ten arkusz stylów do pliku">
 <!ENTITY saveButton.accesskey       "Z">
 
+<!ENTITY mediaRules.label "Reguły @media">
+
 <!ENTITY editorTextbox.placeholder  "Wprowadź tutaj CSS.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
@@ -39,4 +41,3 @@
 <!ENTITY noStyleSheet-tip-action.label "dołączyć nowy arkusz stylów">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
-
