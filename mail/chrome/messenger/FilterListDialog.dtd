@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "P">
 <!ENTITY folderPickerPrefix.label "Executar los filtros seleicionaos en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "elexir esta carpeta">
-<!ENTITY choosethisnewsserver.label "elexir esti sirvidor de noticies">
 <!ENTITY helpButton.label "Ayuda">
 <!ENTITY helpButton.accesskey "u">
 <!ENTITY closeCmd.key "W">
