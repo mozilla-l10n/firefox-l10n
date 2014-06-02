@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
 <!ENTITY quickMode.accesskey         "A">
 
+<!ENTITY autotagEnable.label         "Automatisch labels van feed-&lt;categorie&gt;-namen aanmaken">
+<!ENTITY autotagEnable.accesskey     "l">
+<!ENTITY autotagUsePrefix.label      "Labels vooraf laten gaan door:">
+<!ENTITY autotagUsePrefix.accesskey  "v">
+<!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
+
 <!ENTITY locationValidate.label      "Valideren">
 <!ENTITY validateText.label          "Controleer validatie en haal een geldige url op.">
 
