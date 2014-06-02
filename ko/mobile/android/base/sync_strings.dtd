@@ -175,6 +175,8 @@
 <!ENTITY fxaccount_status_needs_verification2 '인증되지 않은 계정입니다. 인증 메일을 재전송하려면 누르세요.'>
 <!ENTITY fxaccount_status_needs_credentials '연결할 수 없습니다. 로그인 하시려면 누르세요.'>
 <!ENTITY fxaccount_status_needs_upgrade '로그인 하려면 &brandShortName;를 업그레이드 해야 합니다.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화되지 않았습니다. 안드로이드 환경 설정 &gt; 데이터 사용에서 "데이터 자동 동기화"를 활성화하세요.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화 되지 않았습니다. 동기화를 시작하려면 탭하세요.'>
 <!ENTITY fxaccount_status_bookmarks '북마크'>
 <!ENTITY fxaccount_status_history '방문 기록'>
 <!ENTITY fxaccount_status_passwords '암호'>
