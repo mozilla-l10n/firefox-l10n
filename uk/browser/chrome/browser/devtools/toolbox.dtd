@@ -57,11 +57,11 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* тільки поточний сеанс, перезавантажити сторінку">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3    "Увімкнути зневадження вмісту">
-<!ENTITY options.enableChrome.tooltip   "Увімкнення цього параметра дозволить використовувати різні інструменти розробника у вмісті переглядача">
+<!ENTITY options.enableChrome.label4    "Enable chrome and addon debugging">
+<!ENTITY options.enableChrome.tooltip2  "Turning this option on will allow you to use various developer tools in browser context and debug addons from the Add-On Manager">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -113,13 +113,6 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Інтернетна консоль">
 
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console,
-  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
-  -  in the options panel. -->
-<!ENTITY options.enablePersistentLogging.label    "Увімкнути безперервні журнали">
-<!ENTITY options.enablePersistentLogging.tooltip  "Якщо увімкнено цей параметр інтернетна консоль не очищатиме вивід на переміщенні до нової сторінки">
-
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Увімкнути часові штампи">
@@ -144,6 +137,18 @@
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
 <!ENTITY options.profiler.label            "Профілятор JavaScript">
+
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "Common Preferences">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Увімкнути безперервні журнали">
+<!ENTITY options.enablePersistentLogging.tooltip  "Якщо увімкнено цей параметр інтернетна консоль не очищатиме вивід на переміщенні до нової сторінки">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

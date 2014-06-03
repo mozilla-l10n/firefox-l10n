@@ -73,6 +73,7 @@
 <!ENTITY btnConsoleInfo         "Відомості">
 <!ENTITY btnConsoleWarnings     "Попередження">
 <!ENTITY btnConsoleLog          "Журнал">
+<!ENTITY btnConsoleReflows      "Reflows">
 
 <!ENTITY filterOutput.placeholder "Відсіяти вивід">
 <!ENTITY btnClear.label        "Очистити">
