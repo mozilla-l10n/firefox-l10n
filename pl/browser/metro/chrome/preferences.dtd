@@ -18,7 +18,7 @@
 <!ENTITY clearPrivateData.cache "Pamięć podręczna">
 <!ENTITY clearPrivateData.sitePref "Ustawienia witryn">
 <!ENTITY clearPrivateData.formSearchHist "Dane formularzy i historia wyszukiwania">
-<!ENTITY clearPrivateData.passwords "Zapisane hasła">
+<!ENTITY clearPrivateData.passwords "Zachowane hasła">
 <!ENTITY clearPrivateData.offline "Dane witryn trybu offline">
 <!ENTITY clearPrivateData.logins "Aktywne zalogowania">
 
