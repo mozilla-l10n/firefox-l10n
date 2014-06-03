@@ -196,7 +196,7 @@
 <!ENTITY printButton.tooltip "Stampa questo messaggio">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
-<!ENTITY fromAddr.accesskey "a">
+<!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Ccn:">
@@ -204,7 +204,7 @@
 <!ENTITY newsgroupsAddr.label "Gruppo discussione:">
 <!ENTITY followupAddr.label "Inoltra a:">
 <!ENTITY subject.label "Oggetto:">
-<!ENTITY subject.accesskey "e">
+<!ENTITY subject.accesskey "t">
 <!ENTITY attachments.accesskey "g">
 <!ENTITY SmileButton.tooltip "Inserisci una faccina">
 <!ENTITY smiley1Cmd.label "Sorriso">
