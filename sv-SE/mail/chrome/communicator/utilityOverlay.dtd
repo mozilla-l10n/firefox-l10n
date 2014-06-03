@@ -8,6 +8,7 @@
 <!ENTITY fileMenu.accesskey            "A">
 <!ENTITY newMenu.label                 "Nytt">
 <!ENTITY newMenu.accesskey             "N">
+
 <!ENTITY editMenu.label                "Redigera">
 <!ENTITY editMenu.accesskey            "R">
 <!ENTITY undoCmd.label                 "Ångra">
@@ -30,8 +31,8 @@
 <!ENTITY selectAllCmd.label            "Markera allt">
 <!ENTITY selectAllCmd.key              "A">
 <!ENTITY selectAllCmd.accesskey        "M">
-<!ENTITY preferencesCmd.label          "Inställningar…">
-<!ENTITY preferencesCmd.accesskey      "I">
+<!ENTITY preferencesCmd2.label 		   "Alternativ">
+<!ENTITY preferencesCmd2.accesskey 	   "e">
 <!ENTITY preferencesCmdUnix.label      "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey  "I">
 
@@ -41,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey    "V">
 <!ENTITY showTaskbarCmd.label          "Statusfält">
 <!ENTITY showTaskbarCmd.accesskey      "S">
-
-<!ENTITY proxy.label                   "Proxykonfiguration…">
-<!ENTITY proxy.accesskey               "P">
 
 <!ENTITY closeCmd.label      "Stäng">
 <!ENTITY closeCmd.key        "W">

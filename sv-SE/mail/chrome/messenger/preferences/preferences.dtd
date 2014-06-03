@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Skriva">
 <!ENTITY paneChat.title           "Chatt">
 <!ENTITY paneAttachments.title    "Bilagor">
+<!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneSecurity.title       "Säkerhet">
 <!ENTITY paneAdvanced.title       "Avancerat">

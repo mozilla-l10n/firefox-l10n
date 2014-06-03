@@ -60,7 +60,7 @@
 <!ENTITY deleteFolder.label "Ta bort mapp">
 <!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Byt namn på mapp…">
-<!ENTITY renameFolder.accesskey "å">
+<!ENTITY renameFolder.accesskey "B">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimera mappar">
 <!ENTITY compactFolders.accesskey "K">
@@ -69,15 +69,15 @@
 <!ENTITY offlineMenu.label "Nedkopplad">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Arbeta nedkopplad">
-<!ENTITY offlineGoOfflineCmd.accesskey "r">
+<!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Hämta/Synka nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Nedkopplad-inställningar">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Inställningar nedkopplad">
+<!ENTITY settingsOfflineCmd2.accesskey "n">
 <!ENTITY downloadSelectedCmd.label "Hämta markerade meddelanden">
-<!ENTITY downloadSelectedCmd.accesskey "m">
+<!ENTITY downloadSelectedCmd.accesskey "r">
 <!ENTITY downloadStarredCmd.label "Hämta märkta meddelanden">
-<!ENTITY downloadStarredCmd.accesskey "ä">
+<!ENTITY downloadStarredCmd.accesskey "k">
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "p">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY menuFavoriteFolder.label "Favoritmapp">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Egenskaper…">
-<!ENTITY folderPropsFolderCmd.label "Mappegenskaper">
-<!ENTITY folderPropsNewsgroupCmd.label "Diskussionsgruppegenskaper">
+<!ENTITY folderPropsCmd2.label "Egenskaper">
+<!ENTITY folderPropsFolderCmd2.label "Mappegenskaper">
+<!ENTITY folderPropsNewsgroupCmd2.label "Diskussionsgruppsegenskaper">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Ångra borttagning av meddelande">
 <!ENTITY redoDeleteMsgCmd.label "Gör om borttagning av meddelande">
@@ -123,7 +123,7 @@
 <!ENTITY undoMarkAllCmd.label "Ångra märkning av alla som lästa">
 <!ENTITY redoMarkAllCmd.label "Gör om märkning av alla som lästa">
 <!ENTITY undoDefaultCmd.label "Ångra">
-<!ENTITY undoDefaultCmd.accesskey "Å">
+<!ENTITY undoDefaultCmd.accesskey "n">
 <!ENTITY redoDefaultCmd.label "Gör om">
 <!ENTITY redoDefaultCmd.accesskey "G">
 
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Tidigare">
 <!ENTITY recentFolders.accesskey "T">
+<!ENTITY compactVersion.label "Kompakt vy">
+<!ENTITY compactVersion.accesskey "p">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordna efter">
@@ -199,13 +201,13 @@
 <!ENTITY sortThreaded.label "Trådade">
 <!ENTITY sortThreaded.accesskey "T">
 <!ENTITY sortUnthreaded.label "Otrådade">
-<!ENTITY sortUnthreaded.accesskey "å">
+<!ENTITY sortUnthreaded.accesskey "O">
 <!ENTITY groupBySort.label "Grupperade efter ordning">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Meddelanden">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Trådar">
-<!ENTITY threads.accesskey "å">
+<!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Alla">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Fäll ut alla trådar">
@@ -260,7 +262,7 @@
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Sök">
-<!ENTITY findMenu.accesskey "ö">
+<!ENTITY findMenu.accesskey "S">
 <!ENTITY findCmd.label "Sök efter text i detta meddelande…">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "f">
@@ -447,7 +449,7 @@
 <!ENTITY addons.label "Tillägg">
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktiviteter">
-<!ENTITY activitymanager.accesskey "e">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chattstatus">
 <!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Tillgänglig">
@@ -457,34 +459,34 @@
 <!ENTITY joinChatCmd.label "Anslut till chatt…">
 <!ENTITY joinChatCmd.accesskey "A">
 <!ENTITY savedFiles.label "Sparade filer">
-<!ENTITY savedFiles.accesskey "r">
+<!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filterregler…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Meddelandefilter">
+<!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Kör filter på mapp">
-<!ENTITY filtersApply.accesskey "K">
+<!ENTITY filtersApply.accesskey "p">
 <!ENTITY filtersApplyToSelection.label "Kör filter på markerade meddelanden">
-<!ENTITY filtersApplyToSelection.accesskey "m">
+<!ENTITY filtersApplyToSelection.accesskey "r">
 <!ENTITY filtersApplyToMessage.label "Kör filter på meddelande">
-<!ENTITY filtersApplyToMessage.accesskey "m">
+<!ENTITY filtersApplyToMessage.accesskey "d">
 <!ENTITY runJunkControls.label "Kör skräppost-kontrollen på mapp">
-<!ENTITY runJunkControls.accesskey "ö">
+<!ENTITY runJunkControls.accesskey "K">
 <!ENTITY deleteJunk.label "Ta bort e-post märkt som skräp från mapp">
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Importera…">
 <!ENTITY importCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.label "Felkonsol">
-<!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Rensa historik…">
-<!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Kontoinställningar…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY clearRecentHistory.accesskey "R">
+<!ENTITY accountManagerCmd2.label "Kontoinställningar">
+<!ENTITY accountManagerCmd2.accesskey "n">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "ä">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillåt fjärrfelsökning">
-<!ENTITY allowRemoteDebugging.accesskey "f">
+<!ENTITY allowRemoteDebugging.accesskey "n">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Hämta meddelanden">
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Visa fjärrinnehåll i meddelandet">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
-<!ENTITY remoteContentOptionAllowForAddress.label "Visa fjärrinnehåll från avsändaren">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "d">
+<!ENTITY editRemoteContentSettings.label "Redigera fjärrinnehållsalternativ…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
+<!ENTITY editRemoteContentSettingsUnix.label "Redigera fjärrinnehållsinställningar…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "R">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorera varning för meddelandet">
@@ -596,7 +600,7 @@
 <!ENTITY folderContextGetMessages.label "Hämta meddelanden">
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextOpenInNewWindow.label "Öppna i nytt fönster">
-<!ENTITY folderContextOpenInNewWindow.accesskey "Ö">
+<!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
 <!ENTITY folderContextOpenNewTab.accesskey "n">
 <!ENTITY folderContextNew.label "Ny undermapp…">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "p">
 <!ENTITY folderContextSearchForMessages.label "Sök meddelanden…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Egenskaper">
-<!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextProperties2.label "Egenskaper">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoritmapp">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Inställningar…">
-<!ENTITY folderContextSettings.accesskey "I">
+<!ENTITY folderContextSettings2.label "Inställningar">
+<!ENTITY folderContextSettings2.accesskey "n">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller meddelande innehåller:">
@@ -691,21 +695,23 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
-<!ENTITY contextOpenNewWindow.accesskey "Ö">
+<!ENTITY contextOpenNewWindow.accesskey "p">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Öppna meddelande i ny flik">
-<!ENTITY contextOpenNewTab.accesskey "n">
+<!ENTITY contextOpenNewTab.accesskey "f">
 <!ENTITY contextOpenConversation.label "Öppna meddelande i konversationen">
-<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenConversation.accesskey "k">
+<!ENTITY contextOpenContainingFolder.label "Öppna meddelande i objektets mapp">
+<!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Redigera som nytt meddelande">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkivera">
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
-<!ENTITY contextReplySender.accesskey "ä">
+<!ENTITY contextReplySender.accesskey "v">
 <!ENTITY contextReplyNewsgroup2.label "Svara till diskussionsgrupp">
 <!ENTITY contextReplyNewsgroup2.accesskey "d">
 <!ENTITY contextReplyAll.label "Svara alla">
@@ -855,7 +861,7 @@
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Spara länk som…">
-<!ENTITY saveLinkAsCmd.accesskey "ä">
+<!ENTITY saveLinkAsCmd.accesskey "n">
 <!ENTITY saveImageAsCmd.label "Spara bild som…">
 <!ENTITY saveImageAsCmd.accesskey "b">
 <!ENTITY copyLinkCmd.label "Kopiera länkadress">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zooma fönster">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Inställningar…">
+<!ENTITY preferencesCmdMac2.label       "Inställningar">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tjänster">

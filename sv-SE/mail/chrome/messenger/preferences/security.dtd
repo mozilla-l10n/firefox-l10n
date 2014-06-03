@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "E-postbluffar">
 <!ENTITY itemPasswords.label     "Lösenord">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Webbinnehåll">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Ange inställningar för skräpposthantering. Kontospecifika skräppostinställningar kan göras i Kontoinställningar.">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label      "Låt antivirusprogram sätta inkommande meddelanden i karantän">
 <!ENTITY antiVirus.accesskey  "L">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; låter dig välja vilka bloggar,nyhetsflöden och andra webbplatser som tillåts lagra kakor.">
-<!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
-<!ENTITY  acceptCookies.accesskey       "w">
-<!ENTITY  keepUntil.label               "Behåll tills:">
-<!ENTITY  keepUntil.accesskey           "B">
-<!ENTITY  expire.label                  "de förfaller">
-<!ENTITY  close.label                   "&brandShortName; stängs">
-<!ENTITY  askEachTime.label             "fråga varje gång">
-<!ENTITY  cookieExceptions.label        "Undantag…">
-<!ENTITY  cookieExceptions.accesskey    "U">
-<!ENTITY  showCookies.label             "Visa kakor…">
-<!ENTITY  showCookies.accesskey         "V">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Tala om för webbsidor att jag inte vill spåras">
-<!ENTITY doNotTrack.accesskey           "i">

@@ -87,10 +87,12 @@
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "M"> 
-<!ENTITY findCmd.label "Sök och ersätt…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY findBarCmd.label "Sök…">
+<!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Sök och ersätt…">
+<!ENTITY findReplaceCmd.accesskey "r">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Sök nästa">
 <!ENTITY findAgainCmd.key "G">
@@ -99,7 +101,7 @@
 <!ENTITY findPrevCmd.label "Sök tidigare">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Visa"> 
@@ -175,16 +177,16 @@
 <!ENTITY tasksMenu.label "Verktyg">
 <!ENTITY tasksMenu.accesskey "V">
 <!ENTITY messengerCmd.label "E-post &amp; Diskussionsgrupper">
-<!ENTITY messengerCmd.accesskey "E">
+<!ENTITY messengerCmd.accesskey "p">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressboken">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Kontoinställningar…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "ä">
-<!ENTITY preferencesCmd.label "Inställningar…">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY accountManagerCmd2.label "Kontoinställningar">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
+<!ENTITY preferencesCmd2.label "Alternativ">
+<!ENTITY preferencesCmd2.accesskey "e">
 <!ENTITY preferencesCmdUnix.label "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey "I"> 
 
