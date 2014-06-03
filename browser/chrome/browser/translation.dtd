@@ -52,5 +52,5 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Nikdy neprekladať túto stránku">
 <!ENTITY translation.options.neverForSite.accesskey "k">
-<!ENTITY translation.options.preferences.label  "Nastavenia prekladu">
+<!ENTITY translation.options.preferences.label  "Nastavenia prekladania obsahu">
 <!ENTITY translation.options.preferences.accesskey "a">
