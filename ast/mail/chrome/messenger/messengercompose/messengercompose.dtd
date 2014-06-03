@@ -255,3 +255,9 @@
 <!ENTITY deliveryFormatMenu.label "Formatu d'entrega">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY findReplaceCmd.key "H">
+<!ENTITY remindLater.label "Recordámelo dempués">
+<!ENTITY remindLater.accesskey "R">
+<!ENTITY printPreviewCmd.label "Vista preliminar">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printButton.tooltip "Imprentar esti mensaxe">
+<!ENTITY printButton.label "Imprentar">

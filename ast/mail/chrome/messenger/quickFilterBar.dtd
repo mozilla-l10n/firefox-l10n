@@ -7,7 +7,6 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Amosar/anubrir la barra de filtráu rápidu">
 <!ENTITY quickFilterBar.sticky.tooltip "Caltener filtros aplicaos al cambiar de carpetes">
-<!ENTITY quickFilterBar.barLabel.label "Filtru rápidu:">
 <!ENTITY quickFilterBar.unread.label "Non lleíos">
 <!ENTITY quickFilterBar.unread.tooltip "Amosar namái los mensaxes ensin lleer">
 <!ENTITY quickFilterBar.starred.label "Con estrella">
@@ -39,3 +38,4 @@
 <!ENTITY quickFilterBar.booleanModeAll.tooltip "Toles etiquetes esbillaes tienen de concasar">
 <!ENTITY quickFilterBar.booleanModeAll.label "Toes elles">
 <!ENTITY quickFilterBar.booleanMode.tooltip "Mou de filtráu d'etiquetes">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Barra de filtráu rápidu">

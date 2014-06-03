@@ -281,8 +281,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Carpeta">
 <!ENTITY folderMenu.accesskey "a">
-<!ENTITY thisFolder.label "Esta carpeta">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Llingüetes zarraes de recién">
 <!ENTITY goRecentlyClosedTabs.accesskey "L">
 <!ENTITY startPageCmd.label "Páxina d'aniciu del corréu">
@@ -318,9 +316,6 @@
 <!ENTITY forwardAsInline.accesskey "i">
 <!ENTITY forwardAsAttachmentCmd.label "Axuntu">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editMsgAsNewCmd.label "Editar mensaxe como nuevu">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crear filtru a partir del mensaxe…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
@@ -343,10 +338,6 @@
 <!ENTITY watchThreadMenu.label "Observar conversación">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Archivar equí">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY copyHereMenu.label "Copiar equí">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiquetar">
 <!ENTITY tagMenu.accesskey "u">
 <!ENTITY tagCmd0.key "0">
@@ -548,34 +539,12 @@
 <!ENTITY locationColumn.label "Llocalización">
 <!ENTITY idColumn.label "Orde de receición">
 <!ENTITY attachmentColumn.label "Axuntos">
-<!ENTITY columnChooser.tooltip "Calca pa esbillar les columnes a amosar">
-<!ENTITY threadColumn.tooltip "Calca p'amosar los mensaxes agrupaos por conversaciones">
-<!ENTITY fromColumn.tooltip "Calca pa ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Calca pa ordenar por destinatariu">
-<!ENTITY subjectColumn.tooltip "Calca pa ordenar por asuntu">
-<!ENTITY dateColumn.tooltip "Calca pa ordenar por data">
-<!ENTITY priorityColumn.tooltip "Calca pa ordenar por prioridá">
-<!ENTITY tagsColumn.tooltip "Calca pa ordenar por etiquetes">
-<!ENTITY accountColumn.tooltip "Calca pa ordenar por cuenta">
-<!ENTITY statusColumn.tooltip "Calca pa ordenar por estáu">
-<!ENTITY sizeColumn.tooltip "Calca pa ordenar por tamañu">
-<!ENTITY junkStatusColumn.tooltip "Calca pa ordenar por estáu de corréu puxarra">
-<!ENTITY unreadColumn.tooltip "Númberu de mensaxes non lleíos na conversación">
-<!ENTITY totalColumn.tooltip "Númberu total de mensaxes na conversación">
-<!ENTITY readColumn.tooltip "Calca pa ordenar los mensaxes lleíos">
-<!ENTITY receivedColumn.tooltip "Calca pa ordenar por data de receición">
-<!ENTITY starredColumn.tooltip "Calca pa ordenar por estrella">
-<!ENTITY locationColumn.tooltip "Calca pa ordenar por llocalización">
-<!ENTITY idColumn.tooltip "Calca pa ordenar por orde de receición">
-<!ENTITY attachmentColumn.tooltip "Calca pa ordenar por axuntos">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaxe nuna ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir el mensaxe nuna llingüeta nueva">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensaxe na conversación">
 <!ENTITY contextOpenConversation.accesskey "c">
-<!ENTITY contextEditAsNew.label "Editar como nuevu…">
-<!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Responder namái al remitente">
@@ -611,26 +580,11 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar soníu">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage2.label "&brandShortName; camienta qu'esti mensaxe ye corréu puxarra.">
-<!ENTITY junkBarButton1.label "Llexítimu">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "Pa protexer la to privacidá, &brandShortName; bloquió'l conteníu remotu nesti mensaxe.">
-<!ENTITY loadRemoteContentButton3.label "Amosar conteníu remotu">
-<!ENTITY phishingBarMessage2.label "Esti mensaxe pue ser fraudulentu.">
-<!ENTITY removePhishingBarButton1.label "Inorar avisu">
-<!ENTITY disablePhishingWarning1.label "Desactivar deteición de mensaxes fraudulentos">
-<!ENTITY reportPhishingError1.label "Esti mensaxe nun paez ser fraudulentu.">
-<!ENTITY mdnBarIgnoreButton2.label "Inorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Unviar acuse de recibu">
-<!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Amestar a la llibreta de direiciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Amestar a la llibreta de direiciones">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Editar contautu…">
-<!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ver contautu">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Soscribise a grupu de noticies">
@@ -718,7 +672,6 @@
 <!ENTITY clearRecentHistory.label "Llimpiar historial recién…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY appmenuToolbarLayout.label "Disposición de la barra de ferramientes…">
-<!ENTITY appmenuQFBMenu.label "Barra de filtráu rápidu">
 <!ENTITY appmenuNewMsgCmd.label "Mensaxe nuevu">
 <!ENTITY appmenuNewContactCmd.label "Contautu de la llibreta de direiciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
@@ -758,3 +711,41 @@
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "r">
 <!ENTITY getMsgButton1.label "Recibir mensaxes">
+<!ENTITY unreadColumn2.tooltip "Númberu de mensaxes non lleíos nuna conversación">
+<!ENTITY totalColumn2.tooltip "Númberu total de mensaxes na conversación">
+<!ENTITY threadColumn2.tooltip "Amosar conversaciones de mensaxes">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetes">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asuntu">
+<!ENTITY statusColumn2.tooltip "Ordenar por estáu">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamañu">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Amosar el conteníu remotu nesti mensaxe">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY remoteContentOptionAllowForAddress.label "Amosar el conteníu remotu d'esti remitente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receición">
+<!ENTITY readColumn2.tooltip "Ordenar por lleíos/non lleíos">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridá">
+<!ENTITY phishingOptionSettingsUnix.label "Editar preferencies de deteición de fraudes…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+<!ENTITY phishingOptionSettings.label "Editar opciones de deteición de fraudes…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionIgnore.label "Inorar avisu nesti mensaxe">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY locationColumn2.tooltip "Ordenar por llocalización">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estáu de corréu puxarra">
+<!ENTITY idColumn2.tooltip "Ordenar por orde de receición">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY editAsNewMsgCmd.label "Editar como mensaxe nuevu">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY dockOptions.label "Opciones del iconu de l'aplicación…">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY contextEditMsgAsNew.label "Editar como mensaxe nuevu">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY columnChooser2.tooltip "Esbilla les columnes que quies amosar">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por axuntos">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY EditContact1.label "Editar contautu">
+<!ENTITY EditContact1.accesskey "E">

@@ -56,3 +56,5 @@
 <!ENTITY numberOfMessages.label "Númberu de mensaxes:">
 <!ENTITY folderCharsetFallback.label "Codificación de caráuteres por defeutu:">
 <!ENTITY folderCharsetFallback.accesskey "C">
+<!ENTITY folderCharsetEnforce.label "Aplicar la codificación a tolos mensaxes de la carpeta (van inorase les preferencies de codificación de caráuteres de mensaxes individuales, asina como la deteición automática)">
+<!ENTITY folderCharsetEnforce.accesskey "A">

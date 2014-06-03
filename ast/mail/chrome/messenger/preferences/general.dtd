@@ -9,8 +9,6 @@
 <!ENTITY location1.accesskey "D">
 <!ENTITY useDefault.label "Restablecer predetermináu">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY bounceSystemDockIcon.label "Animar l'iconu de notificación">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
 <!ENTITY newMessagesArrive.label "Cuando aporten mensaxes nuevos:">
 <!ENTITY playSound.label "Reproducir un soníu">
 <!ENTITY playSound1.accesskey "o">
@@ -30,3 +28,6 @@
 <!ENTITY browse.accesskey "E">
 <!ENTITY showTrayIcon.label "Amosar un iconu na bandexa">
 <!ENTITY showTrayIcon.accesskey "a">
+<!ENTITY dockOptions.label "Opciones del iconu de l'aplicación…">
+<!ENTITY dockOptions.accesskey "c">
+<!ENTITY changeDockIconOptions.label "Camudar les preferencies del iconu de l'aplicación">

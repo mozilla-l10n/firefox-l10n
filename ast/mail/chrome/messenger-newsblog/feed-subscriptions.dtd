@@ -27,3 +27,4 @@
 <!ENTITY quickMode.accesskey "M">
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY button.exportOPML.tooltip "Esportar canales cola estructura de canales; ctrl clic o ctrl enter pa esportar les canales como una llista">
+<!ENTITY button.close.label "Zarrar">

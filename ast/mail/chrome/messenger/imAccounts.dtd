@@ -26,3 +26,5 @@
 <!ENTITY account.connecting "Coneutando…">
 <!ENTITY account.disconnecting "Desconeutando…">
 <!ENTITY account.disconnected "Desconeutáu">
+<!ENTITY account.copyDebugLog.label "Copiar rexistru de depuración">
+<!ENTITY account.copyDebugLog.accesskey "e">
