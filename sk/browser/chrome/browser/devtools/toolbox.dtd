@@ -30,6 +30,12 @@
   -  This label is visible in the options panel. -->
 <!ENTITY options.defaultColorUnit.label "Predvolená jednotka farieb">
 
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Zobraziť štýly prehliadača">
+<!ENTITY options.showUserAgentStyles.tooltip "Povolením tejto možnosti zobrazíte predvolené štýly, ktoré sú načítavané prehliadačom.">
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
