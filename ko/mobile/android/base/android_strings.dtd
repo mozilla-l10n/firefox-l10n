@@ -206,7 +206,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "오류 보고서">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 위치 기반 서비스">
-<!ENTITY datareporting_wifi_geolocation_summary "위치 기반 서비스의 품질 향상을 위하여 백그라운드에서 Wi-Fi와 셀룰러 위치 데이터를 수집하고 &vendeorShortName;에 공유합니다.">
+<!ENTITY datareporting_wifi_geolocation_summary "위치 기반 서비스의 품질 향상을 위하여 백그라운드에서 Wi-Fi와 셀룰러 위치 데이터를 수집하고 &vendorShortName;에 공유합니다.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
