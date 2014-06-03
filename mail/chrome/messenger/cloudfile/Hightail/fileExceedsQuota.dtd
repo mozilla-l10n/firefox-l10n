@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Lagringsgräns nådd">
 <!ENTITY fileExceedsQuota.accept "Uppgradera">
 <!ENTITY fileExceedsQuota.cancel "Avbryt">
-<!ENTITY fileExceedsQuota.description "Du har nått ditt kontos lagringsgräns av 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Ditt lagringsutrymme är #XXX GB.">
+<!ENTITY fileExceedsQuota.description "Du har nått ditt kontos lagringsgräns på 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Din aktuella lagringsanvänding är #XXX GB.">
 <!ENTITY fileExceedsQuota.description2 "Uppgradera idag till Pro Plus-konto och få mer lagringsutrymme.">
 <!ENTITY fileExceedsQuota.description3 "Du kan också välja att ta bort filer i ditt konto för att skapa mer utrymme.">
