@@ -43,20 +43,6 @@
 <!ENTITY reuseExpRadio1.accesskey "v">
 <!ENTITY closeMsgOnMoveOrDelete.label "Zarrar llingüeta/ventana del mensaxe al mover o desaniciar">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
-<!ENTITY autoCheck.label "Guetar anovamientos automáticamente pa:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "i">
-<!ENTITY enableAddonsUpdate.label "Complementos instalaos">
-<!ENTITY enableAddonsUpdate.accesskey "C">
-<!ENTITY whenUpdatesFound.label "Cuando s'alcuentren anovamientos pa &brandShortName;,">
-<!ENTITY modeAskMe.label "Entrugame qué quiero facer">
-<!ENTITY modeAskMe.accesskey "E">
-<!ENTITY modeAutomatic.label "Descargar ya instalar automáticamente l'anovamientu">
-<!ENTITY modeAutomatic.accesskey "D">
-<!ENTITY modeAutoAddonWarn.label "Avisame si esto desactivará dalgún de los mios complementos">
-<!ENTITY modeAutoAddonWarn.accesskey "A">
-<!ENTITY showUpdates.label "Amosar l'historial d'anovamientos">
-<!ENTITY showUpdates.accesskey "M">
 <!ENTITY showSettings.label "Configuración…">
 <!ENTITY showSettings.accesskey "C">
 <!ENTITY proxiesConfigure.label "Configurar cómo se coneuta &brandShortName; a Internet">
@@ -94,3 +80,14 @@
 <!ENTITY useSmoothScrolling.accesskey "d">
 <!ENTITY checkDefaultsNow.label "Comprobar agora…">
 <!ENTITY checkDefaultsNow.accesskey "b">
+<!ENTITY updateManual.label "Nun comprobar enxamás anovamientos (nun se recomienda: riesgu de seguridá)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateHistory.label "Amosar historial d'anovamientos">
+<!ENTITY updateHistory.accesskey "M">
+<!ENTITY updateCheck.label "Guetar anovamientos, pero permitime elexir si los instalo">
+<!ENTITY updateCheck.accesskey "G">
+<!ENTITY updateAutoAddonWarn.label "Avisame si esto va desactivar dalgún de los mios complementos">
+<!ENTITY updateAutoAddonWarn.accesskey "A">
+<!ENTITY updateAuto.label "Instalar anovamientos automáticamente (recomiéndase: ameyora la seguridá)">
+<!ENTITY updateAuto.accesskey "I">
+<!ENTITY updateApp.label "Anovamientos de &brandShortName;:">

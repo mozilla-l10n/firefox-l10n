@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--null-->
-<!ENTITY editMessageDescription.label "Esti mensaxe ye un borrador">
-<!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar esti mensaxe">
 <!ENTITY hdrSmartReplyButton1.label "Responder a interesaos">

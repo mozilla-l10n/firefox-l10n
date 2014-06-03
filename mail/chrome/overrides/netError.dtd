@@ -71,8 +71,6 @@
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "La conexón caducó">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-<!ENTITY protocolNotFound.title "La direición nun resulta comprensible">
-<!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Podríes necesitar instalar otru software p'abrir esta
    direición.</li>
@@ -162,3 +160,5 @@
 ">
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
+<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
+<!ENTITY unknownProtocolFound.longDesc "">
