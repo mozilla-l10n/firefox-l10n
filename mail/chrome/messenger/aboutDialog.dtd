@@ -25,7 +25,7 @@
 <!ENTITY update.manual.start "Scaricare la ">
 <!ENTITY update.manual.linkText "l'ultima versione">
 <!ENTITY update.manual.end "">
-<!ENTITY update.unsupported.start "Impossibile eseguire ulteriori aggiornamenti su questo sistema.">
+<!ENTITY update.unsupported.start "Impossibile eseguire ulteriori aggiornamenti su questo sistema. ">
 <!ENTITY update.unsupported.linkText "Altre informazioni">
 <!ENTITY update.unsupported.end "">
 <!ENTITY update.downloading.start "Ricezione aggiornamento — ">
