@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "T">
 <!ENTITY pref.defaultemail.label "Adreça per defecte on s'enviaran els recordatoris:">
 <!ENTITY pref.defaulttext.label "Text per defecte dels recordatoris:">
+
+<!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels ajornaments:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Desconegut">
 <!ENTITY chatName.label                 "Nom del xat:">
 
-<!ENTITY allowRemoteContent1.label      "Permet el contingut remot.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En els missatges HTML és possible 
-incrustar contingut d'un origen remot. En obrir-se un d'aquests missatges, s'establirà 
-una connexió amb la font externa. Això permet que es pugui detectar si es 
-llegeix el missatge. Si es marca aquesta opció, es permetrà mostrar aquest tipus 
-de contingut incrustat en els missatges HTML d'aquest contacte.">
-
 <!ENTITY WorkPhone.label                "Feina:">
 <!ENTITY WorkPhone.accesskey            "F">
 <!ENTITY HomePhone.label                "Particular:">

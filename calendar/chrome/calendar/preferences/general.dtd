@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Llarg" >
 <!ENTITY pref.dateformat.short "Curt"  >
-<!ENTITY pref.defaultlength.label "Durada per defecte de les cites:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels ajornaments:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.defaults.label "Valors per defecte per als elements nous">
+<!ENTITY pref.events.label "Cites">
+<!ENTITY pref.tasks.label "Tasques">
+
+<!ENTITY pref.default_event_length.label "Durada per defecte:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Cap">
+<!ENTITY pref.default_task_start_of_day.label "Inici del dia">
+<!ENTITY pref.default_task_end_of_day.label "Final del dia">
+<!ENTITY pref.default_task_tomorrow.label "Demà">
+<!ENTITY pref.default_task_next_week.label "Setmana següent">
+<!ENTITY pref.default_task_offset_current.label "Relativa a l'hora actual">
+<!ENTITY pref.default_task_offset_start.label "Relativa a l'inici">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativa a la propera hora">
 
 <!ENTITY pref.accessibility.label "Accessibilitat" >
 <!ENTITY pref.systemcolors.label "Optimitza els colors per a l'accessibilitat" >

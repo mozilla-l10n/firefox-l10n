@@ -14,7 +14,7 @@
 <!ENTITY dockOptions.label                "Opcions de la icona de l'aplicació…">
 <!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY newMessagesArrive.label          "Quan arribin nous missatges:">
+<!ENTITY newMessagesArrive.label          "Quan arribin missatges nous:">
 <!ENTITY playSound.label                  "Reprodueix un so">
 <!ENTITY playSound1.accesskey              "p">
 <!ENTITY showAnimatedAlert.label          "Mostra una alerta">
@@ -27,7 +27,7 @@
 
 <!ENTITY play.label                       "Reprodueix">
 <!ENTITY play.accesskey                   "d">
-<!ENTITY systemsound.label                "So del sistema per defecte per al nou correu">
+<!ENTITY systemsound.label                "So del sistema per defecte per al correu nou">
 <!ENTITY systemsoundMac.label             "So d'avís del sistema">
 <!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "i">

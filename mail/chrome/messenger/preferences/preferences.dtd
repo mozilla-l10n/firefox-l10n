@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Redacció">
 <!ENTITY paneChat.title           "Xat">
 <!ENTITY paneAttachments.title    "Adjuncions">
+<!ENTITY panePrivacy.title        "Privadesa">
 <!ENTITY paneSecurity.title       "Seguretat">
 <!ENTITY paneAdvanced.title       "Avançat">

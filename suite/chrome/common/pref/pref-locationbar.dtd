@@ -6,7 +6,7 @@
 <!ENTITY pref.locationBar.title                "Barra d'ubicació">
 
 <!ENTITY autoComplete.label                    "Autocompleció">
-<!ENTITY enableAutoComplete.label              "Autocompleció del vostre historial de navegació mentre escriviu">
+<!ENTITY enableAutoComplete.label              "Autocompleció a partir del vostre historial de navegació a mesura que s'escriu">
 <!ENTITY enableAutoComplete.accesskey          "A">
 <!ENTITY autoCompleteAutoFill.label            "Ompliu-ho automàticament amb la millor coincidència">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">

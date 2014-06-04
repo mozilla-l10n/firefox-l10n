@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Mostra el resum de l'article en comptes de carregar la pàgina web">
 <!ENTITY quickMode.accesskey         "M">
 
+<!ENTITY autotagEnable.label         "Crea automàticament etiquetes a partir dels noms de les categories dels canals">
+<!ENTITY autotagEnable.accesskey     "C">
+<!ENTITY autotagUsePrefix.label      "Afegeix aquest prefix a les etiquetes:">
+<!ENTITY autotagUsePrefix.accesskey  "p">
+<!ENTITY autoTagPrefix.placeholder   "Introduïu un prefix per a l'etiqueta">
+
 <!ENTITY locationValidate.label      "Valida">
 <!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
 

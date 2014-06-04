@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Comprova si hi ha nous articles cada ">
+<!ENTITY biffStart.label "Comprova si hi ha articles nous cada ">
 <!ENTITY biffStart.accesskey "a">
 <!ENTITY biffEnd.label "minuts">
 
-<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha nous articles"> 
+<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha articles nous"> 
 <!ENTITY loginAtStartup.accesskey "i">
 
 <!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en comptes de carregar la pàgina web"> 

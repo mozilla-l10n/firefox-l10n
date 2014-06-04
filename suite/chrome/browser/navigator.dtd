@@ -34,7 +34,7 @@
 <!ENTITY feedsMenu.label "Subscriu-me a la pàgina">
 <!ENTITY feedsMenu.accesskey "S">
 
-<!ENTITY menuBar.tooltip                  "Barra de menús">
+<!ENTITY menuBar.tooltip                  "Barra de menú">
 <!ENTITY bookmarksToolbar.tooltip         "Barra de les adreces d'interès">
 <!ENTITY navigationToolbar.tooltip        "Barra de navegació">
 <!-- Toolbar items --> 
@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Document: fet">
 
 <!ENTITY popupIcon.tooltiptext      "Desbloca les finestres emergents d'aquest lloc">
+
+<!ENTITY viewSecurityInfo.label      "Mostra la informació de seguretat">
+<!ENTITY viewSecurityInfo.accesskey  "s">
+<!ENTITY viewCertificate.label       "Mostra el certificat">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Obre el Gestor de certificats">
+<!ENTITY viewCertManager.accesskey   "G">

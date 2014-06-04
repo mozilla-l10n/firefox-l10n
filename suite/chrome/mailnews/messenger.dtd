@@ -524,7 +524,7 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY searchButton.label "Cerca missatges…">
+<!ENTITY searchButton.label "Search Messages…">
 <!ENTITY searchButton.accesskey "C">
 
 <!ENTITY all.label "Tot">

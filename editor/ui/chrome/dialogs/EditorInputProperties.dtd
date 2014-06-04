@@ -8,7 +8,7 @@
 <!ENTITY InputType.label "Tipus de camp">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Text">
-<!ENTITY password.value "Contrasenya:">
+<!ENTITY password.value "Contrasenya">
 <!ENTITY checkbox.value "Casella de selecció">
 <!ENTITY radio.value "Botó d'opció">
 <!ENTITY submit.value "Botó de tramesa">

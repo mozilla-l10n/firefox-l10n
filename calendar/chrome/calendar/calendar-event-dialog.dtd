@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Des de" >
 <!ENTITY newevent.to.label                  "Fins a" >
-<!ENTITY newevent.attendees.notify.label    "Notifica els assistents">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Manté l'assistent ocult en les invitacions">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Si s'activa, els assistents no es veuran els uns als altres en les invitacions, Només s'aplica a les invitacions per correu electrònic.">
 
 <!ENTITY newevent.status.label                    "Estat" >
 <!ENTITY newevent.status.accesskey                "s" >
@@ -32,6 +28,13 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; acabat">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Notifica els assistents">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitació separada per a cada assistent">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Aquesta opció envia un missatge d'invitació per assistent. Cada invitació conté l'assistent com a únic destinatari, de forma que els assistents no veuen la identitat els uns dels altres.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -333,7 +336,7 @@
 <!ENTITY event.freebusy.zoom                    "Escala:">
 <!ENTITY event.freebusy.legend.free             "Lliure" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
-<!ENTITY event.freebusy.legend.busy_tentative   "Intent" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Provisional" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Fora de l'oficina" >
 <!ENTITY event.freebusy.legend.unknown          "Sense informació" >
 <!ENTITY event.attendee.role.required           "Assistent necessari">
