@@ -30,7 +30,7 @@
 <!ENTITY toolbarsCmd.accesskey "о">
 <!ENTITY tabbarCmd.label "Панель вкладок">
 <!ENTITY tabbarCmd.accesskey "к">
-<!ENTITY taskbarCmd.label "Смужка стану">
+<!ENTITY taskbarCmd.label "Рядок стану">
 <!ENTITY taskbarCmd.accesskey "м">
 <!ENTITY componentbarCmd.label "Панель складових">
 <!ENTITY componentbarCmd.accesskey "с">
@@ -93,19 +93,19 @@
 <!ENTITY translateMenu.label "Перекласти сторінку">
 <!ENTITY translateMenu.accesskey "П">
 
-<!ENTITY cookieMessageTitle.label "Права на кук змінено">
-<!ENTITY cookieDisplayCookiesCmd.label "Упорядкувати збережених кук">
+<!ENTITY cookieMessageTitle.label "Права на куки змінено">
+<!ENTITY cookieDisplayCookiesCmd.label "Упорядкувати збережені куки">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "У">
-<!ENTITY cookieAllowCookiesCmd.label "Дозволити кук з цього сайту">
+<!ENTITY cookieAllowCookiesCmd.label "Дозволити куки з цього сайту">
 <!ENTITY cookieAllowCookiesCmd.accesskey "A">
 <!ENTITY cookieAllowCookiesMsg.label "Куки з цього сайту завжди буде дозволено.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Дозволити сеанс кук з цього сайту">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "Д">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Цьому сайтові буде дозволеного встановити сук лише для поточного сеансу.">
-<!ENTITY cookieCookiesDefaultCmd.label "Скористатись типовими правами на кук">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Цьому сайту буде дозволено встановити куки лише для поточного сеансу.">
+<!ENTITY cookieCookiesDefaultCmd.label "Скористатись типовими правами на куки">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "С">
 <!ENTITY cookieCookiesDefaultMsg.label "Куки з цього сайту буде схвалено або відхилено відповідно до типових налаштувань.">
-<!ENTITY cookieBlockCookiesCmd.label "Заблокувати кук з цього сайту">
+<!ENTITY cookieBlockCookiesCmd.label "Заблокувати куки з цього сайту">
 <!ENTITY cookieBlockCookiesCmd.accesskey "З">
 <!ENTITY cookieBlockCookiesMsg.label "Куки з цього сайту будуть завжди відкидатись.">
 
@@ -114,24 +114,24 @@
 <!ENTITY cookieDisplayImagesCmd.accesskey "У">
 <!ENTITY cookieAllowImagesCmd.label "Дозволити зображення з цього сайту">
 <!ENTITY cookieAllowImagesCmd.accesskey "Д">
-<!ENTITY cookieAllowImagesMsg.label "Зображення з цього сайту завжди буде звантажено.">
+<!ENTITY cookieAllowImagesMsg.label "Зображення з цього сайту завжди буде завантажено.">
 <!ENTITY cookieImagesDefaultCmd.label "Скористатись типовими правами на зображення">
 <!ENTITY cookieImagesDefaultCmd.accesskey "С">
-<!ENTITY cookieImagesDefaultMsg.label "Зображення з цього сайту завжди будуть звантажуватись відповідно до типових налаштувань.">
+<!ENTITY cookieImagesDefaultMsg.label "Зображення з цього сайту завжди будуть завантажуватись відповідно до типових налаштувань.">
 <!ENTITY cookieBlockImagesCmd.label "Заблокувати зображення з цього сайту">
 <!ENTITY cookieBlockImagesCmd.accesskey "З">
-<!ENTITY cookieBlockImagesMsg.label "Зображення з цього сайту ніколи не будуть звантажуватись.">
+<!ENTITY cookieBlockImagesMsg.label "Зображення з цього сайту ніколи не будуть завантажуватись.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Дозволити виринання з цього сайту">
+<!ENTITY cookieAllowPopupsCmd.label "Дозволити спливаючі вікна на цьому сайті">
 <!ENTITY cookieAllowPopupsCmd.accesskey "Д">
-<!ENTITY cookieManagePopups.label "Упорядкувати виринання">
+<!ENTITY cookieManagePopups.label "Керувати спливаючими вікнами">
 <!ENTITY cookieManagePopups.accesskey "У">
 
 <!ENTITY cookieCookieManager.label "Менеджер кук">
 <!ENTITY cookieCookieManager.accesskey "к">
 <!ENTITY cookieImageManager.label "Менеджер зображень">
 <!ENTITY cookieImageManager.accesskey "з">
-<!ENTITY cookiePopupManager.label "Менеджер виринань">
+<!ENTITY cookiePopupManager.label "Менеджер спливаючих вікон">
 <!ENTITY cookiePopupManager.accesskey "в">
 
 <!ENTITY clearPrivateDataCmd.label "Стерти особисті дані…">
