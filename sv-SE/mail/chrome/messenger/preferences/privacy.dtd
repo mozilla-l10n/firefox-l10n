@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Mail Content -->
-<!ENTITY captionMailContent.label "e-postinnehåll">
+<!ENTITY captionMailContent.label "E-postinnehåll">
 
 <!ENTITY acceptRemoteContent.label "Tillåt fjärrinnehåll i meddelanden">
 <!ENTITY acceptRemoteContent.accesskey "T">
