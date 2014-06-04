@@ -27,7 +27,7 @@
 
 <!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Habilita la verificació ortogràfica quan comenci a escriure">
+<!ENTITY spellCheckInline.label               "Activa la verificació ortogràfica a mesura que s'escriu">
 <!ENTITY spellCheckInline1.accesskey          "v">
 <!ENTITY languagePopup.label                  "Llengua:">
 <!ENTITY languagePopup.accessKey              "L">

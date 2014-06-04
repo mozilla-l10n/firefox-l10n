@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "Contingut del correu">
+
+<!ENTITY acceptRemoteContent.label "Permet contingut remot en els missatges">
+<!ENTITY acceptRemoteContent.accesskey "P">
+<!ENTITY remoteContentExceptions.label "Excepcions…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Més informació sobre els problemes de privadesa del contingut remot">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Contingut web">
+
+<!ENTITY acceptCookies.label "Accepta galetes dels llocs web">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Accepta galetes de tercers:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Mai">
+<!ENTITY acceptThirdParty.visited.label "De llocs visitats">
+<!ENTITY keepUntil.label "Conserva-les fins:">
+<!ENTITY keepUntil.accesskey "v">
+<!ENTITY expire.label "que vencin">
+<!ENTITY close.label "que tanqui el &brandShortName;">
+<!ENTITY askEachTime.label "demana-m'ho cada vegada">
+<!ENTITY cookieExceptions.label "Excepcions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostra les galetes…">
+<!ENTITY showCookies.accesskey "s">
+
+<!ENTITY dntTrackingNopref.label2 "No facis saber res als llocs sobre les meves preferències de seguiment">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Fes saber als llocs web que no vull que se'm segueixi">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Fes saber als llocs web que vull que se'm segueixi">
+<!ENTITY dntTrackingOkay.accesskey "F">
+<!ENTITY doNotTrackInfo.label "Més informació de «No vull que se'm segueixi»">
+

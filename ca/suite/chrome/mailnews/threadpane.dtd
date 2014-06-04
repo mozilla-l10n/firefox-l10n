@@ -5,7 +5,7 @@
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
-<!ENTITY attachmentColumn.label "Adjunts">
+<!ENTITY attachmentColumn.label "Adjuncions">
 <!ENTITY subjectColumn.label "Assumpte">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritat">

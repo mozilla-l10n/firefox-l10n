@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label "Vincula un dispositiu">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Per activar un dispositiu nou, seleccioneu «Configura el &syncBrand.shortName.label;» a l\u0027altre dispositiu">
+<!ENTITY sync.subtitle.connect.label "Per activar el dispositiu nou, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu.">
 <!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\u0027altre dispositiu">
 <!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\u0027altre dispositiu.">
-<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu» a l\u0027altre dispositiu. ">
+<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu» a l\u0027altre dispositiu.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostra\u0027m com.">
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Cal que verifiqueu el compte. Toqueu per reenviar el missatge de verificació.">
 <!ENTITY fxaccount_status_needs_credentials "No es pot connectar. Toqueu per iniciar la sessió.">
 <!ENTITY fxaccount_status_needs_upgrade "Heu d\u0027actualitzar el &brandShortName; per iniciar la sessió.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu a Configuració &gt; Ús de dades i marqueu «Sincronització automàtica de dades».">
+<!ENTITY fxaccount_status_needs_account_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Toqueu per iniciar la sincronització.">
 <!ENTITY fxaccount_status_bookmarks "Adreces d\u0027interès">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Contrasenyes">

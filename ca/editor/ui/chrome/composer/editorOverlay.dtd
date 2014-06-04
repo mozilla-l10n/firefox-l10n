@@ -16,10 +16,11 @@
 <!ENTITY pasteAsQuotationCmd.label "Enganxa com a citació">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Cerca i reemplaça…">
-<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
+<!ENTITY findBarCmd.label "Cerca…">
+<!ENTITY findReplaceCmd.label "Cerca i reemplaça…">
+<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia a mesura que s'escriu">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Revisa l'ortografia…">
+<!ENTITY checkSpellingCmd2.label "Verifica l'ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Expressió matemàtica…">
+<!ENTITY insertMathCmd.accesskey "m">
 <!ENTITY insertCharsCmd.label "Caràcters i símbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Salt sota les imatges">
@@ -81,9 +84,9 @@
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">
-<!ENTITY size-xx-smallCmd.label "xx-petit">
+<!ENTITY size-xx-smallCmd.label "extrapetit">
 <!ENTITY size-xx-smallCmd.accesskey "t">
-<!ENTITY size-x-smallCmd.label "x-petit">
+<!ENTITY size-x-smallCmd.label "molt petit">
 <!ENTITY size-x-smallCmd.accesskey "e">
 <!ENTITY size-smallCmd.label "petit">
 <!ENTITY size-smallCmd.accesskey "p">
@@ -91,9 +94,9 @@
 <!ENTITY size-mediumCmd.accesskey "i">
 <!ENTITY size-largeCmd.label "gran">
 <!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x-gran">
+<!ENTITY size-x-largeCmd.label "molt gran">
 <!ENTITY size-x-largeCmd.accesskey "r">
-<!ENTITY size-xx-largeCmd.label "xx-gran">
+<!ENTITY size-xx-largeCmd.label "extragran">
 <!ENTITY size-xx-largeCmd.accesskey "a">
 <!-- Font Style SubMenu -->
 
@@ -284,7 +287,7 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Barra de menús">
+<!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
 <!ENTITY cutToolbarCmd.tooltip "Retalla">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
@@ -294,7 +297,7 @@
 <!ENTITY findToolbarCmd.label "Cerca">
 <!ENTITY findToolbarCmd.tooltip "Cerca text a la pàgina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Revisa l'ortografia de la selecció o de tota la pàgina">
+<!ENTITY spellToolbarCmd.tooltip "Verifica l'ortografia de la selecció o de tota la pàgina">
 <!ENTITY imageToolbarCmd.label "Imatge">
 <!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">

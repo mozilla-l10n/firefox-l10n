@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Revisa l'ortografia">
+<!ENTITY windowTitle.label "Verifica l'ortografia">
 
 <!ENTITY misspelledWord.label "Paraula mal escrita:">
 <!ENTITY wordEditField.label "Reemplaça amb:">
@@ -28,7 +28,7 @@
 <!ENTITY addToUserDictionaryButton.accessKey "f">
 <!ENTITY editUserDictionaryButton.label "Edita…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Torna a revisar">
+<!ENTITY recheckButton.label "Torna a verificar">
 <!ENTITY recheckButton.accessKey "T">
 <!ENTITY closeButton.label "Tanca">
 <!ENTITY closeButton.accessKey "c">

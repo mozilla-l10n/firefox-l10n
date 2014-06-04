@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Cerca i reemplaça…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "m">
+<!ENTITY findBarCmd.label "Cerca…">
+<!ENTITY findBarCmd.accesskey "C">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Cerca i reemplaça…">
+<!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Torna a cercar">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "o">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Cerca l'anterior">
+<!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "n">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Visualitza">
@@ -127,11 +129,11 @@
 
 <!ENTITY optionsMenu.label "Opcions">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Revisa l'ortografia…">
+<!ENTITY checkSpellingCmd2.label "Verifica l'ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "o">
-<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
+<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia a mesura que s'escriu">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Cita el missatge">
 <!ENTITY quoteCmd.accesskey "m">
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Llibreta d'adreces">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
-<!ENTITY accountManagerCmd.accesskey "P">
-<!ENTITY accountManagerCmdUnix.accesskey "s">
-<!ENTITY preferencesCmd.label "Opcions…">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY accountManagerCmd2.label "Paràmetres del compte">
+<!ENTITY accountManagerCmd2.accesskey "P">
+<!ENTITY accountManagerCmdUnix2.accesskey "P">
+<!ENTITY preferencesCmd2.label "Opcions">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferències">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">

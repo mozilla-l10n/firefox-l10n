@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "dijous" >
 <!ENTITY day.6.name "divendres" >
 <!ENTITY day.7.name "dissabte" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "minut">
-<!ENTITY calendar.global.units.minutes  "minuts">
-<!ENTITY calendar.global.units.hour     "hora">
-<!ENTITY calendar.global.units.hours    "hores">
-<!ENTITY calendar.global.units.day      "dia">
-<!ENTITY calendar.global.units.days     "dies">
 
 <!ENTITY month.1.name "Gener" >
 <!ENTITY month.2.name "Febrer" >

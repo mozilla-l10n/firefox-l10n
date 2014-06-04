@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Fitxer">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Opcions…">
-<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmd2.label "Opcions">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "B">
 <!ENTITY showTaskbarCmd.label          "Barra d'estat">
 <!ENTITY showTaskbarCmd.accesskey        "s">
-
-<!ENTITY proxy.label                                    "Configuració del servidor intermediari…">
-<!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY closeCmd.label      "Tanca">
 <!ENTITY closeCmd.key      "W">

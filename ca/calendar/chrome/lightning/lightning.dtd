@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Correu electrònic:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Aquest missatge conté una invitació a una cita.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Accepta">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accepta la invitació a la cita">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Accepta-ho tot">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepta la invitació a la cita de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Afegeix">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Afegeix la cita al calendari">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Rebutja">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Rebutja la invitació a la cita">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Rebutja-ho tot">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Rebutja la invitació a la cita de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Suprimeix">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Suprimeix del calendari">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalls…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Mostra els detalls de la cita">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Més">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Feu clic aquí per veure més opcions">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirma">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envia una reconfirmació a l'organitzador">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Provisional">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accepta la invitació a la cita provisionalment">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tot provisional">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepta la invitació a la cita provisionalment de totes les ocurrències de la cita">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualitza">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualitza la cita al calendari">
+<!ENTITY lightning.imipbar.description                                      "Aquest missatge conté una invitació a una cita.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

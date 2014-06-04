@@ -20,7 +20,7 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Comprova si hi ha nous missatges cada ">
+<!ENTITY biffStart.label "Comprova si hi ha missatges nous cada ">
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "minuts">
 <!ENTITY connectionSecurity.label "Connexió segura:">
