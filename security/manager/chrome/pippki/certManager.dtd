@@ -30,9 +30,9 @@
 <!ENTITY certmgr.periodofvalidity.label       "Giltighetsperiod" >
 <!ENTITY certmgr.fingerprints.label           "Fingeravtryck">
 <!ENTITY certmgr.certdetail.title             "Certifikatdetaljer">
-<!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
-<!ENTITY certmgr.certdetail.o                 "Organisation (O)">
-<!ENTITY certmgr.certdetail.ou                "Organisationsenhet (OU)">
+<!ENTITY certmgr.certdetail.cn                "Namn">
+<!ENTITY certmgr.certdetail.o                 "Organisation">
+<!ENTITY certmgr.certdetail.ou                "Organisationsenhet">
 <!ENTITY certmgr.certdetail.serialnumber      "Serienummer">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1-fingeravtryck">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5-fingeravtryck">
