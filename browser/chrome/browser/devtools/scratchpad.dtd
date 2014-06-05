@@ -42,6 +42,24 @@
 
 <!ENTITY closeCmd.accesskey           "V">
 
+<!ENTITY viewMenu.label               "Jonga">
+<!ENTITY viewMenu.accesskey           "J">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Hlela">
 <!ENTITY editMenu.accesskey           "H">
 
