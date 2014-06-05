@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Hoorayjinay žemnayan">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Žemna">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "Ž">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Naŋ">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "N">
 
 <!ENTITY getUserMediaDialog.video.label             "Biizaahaya suuba">
 <!ENTITY getUserMediaDialog.video.noVideo           "Widewo kul šii">

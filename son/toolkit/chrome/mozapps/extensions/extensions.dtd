@@ -101,7 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kaa">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-
+<!ENTITY cmd.debugAddon.label                 "Hanse">
 <!ENTITY cmd.showPreferencesWin.label         "Suubarey">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
 <!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
@@ -221,7 +221,9 @@ tontoni kul ihenney nda bayrantey war šiiyanoo še.">
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Bešere caw">
 
-
-
+<!ENTITY experiment.info.label "Cin ti woo? A ga tee kabukaw ga šiiyaŋ sinji nd'i dirandi waati fooyaŋ.">
+<!ENTITY experiment.info.learnmore "Bay ka tonton">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Kabukaw kayandiyaney">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

@@ -2,31 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "Porogaram juwalkaw">
+<!ENTITY index.projects2 "Porogaramey">
+<!ENTITY index.device2 "Jinay">
+<!ENTITY index.help "Faaba">
 
+<!ENTITY device.debugMainProcess "Koyjineyan beeroo hanse">
 
+<!ENTITY device.screenshot "Dijibii">
 
-
-
-
-
+<!ENTITY device.title "Jinay dabari gam">
 
 <!ENTITY device.startApp "Šintin">
-
+<!ENTITY device.startAppTooltip "Porogaramoo woo tunandi jinaa ga">
 <!ENTITY device.stopApp "Kayandi">
-
-
+<!ENTITY device.stopAppTooltip "Porogaramoo woo tunandi jinaa ga">
+<!ENTITY device.debugApp "Hanse">
 
 <!ENTITY device.name "Maa">
-
-
-
+<!ENTITY device.plain "Lasal (tilasu)">
+<!ENTITY device.privileged "Fondo suubari">
+<!ENTITY device.certified "Tabatante">
 <!ENTITY device.allow "Noo fondo">
-
-<!ENTITY device.prompt "Hãayan zuu">
-
+<!ENTITY device.allowTooltip "Duɲeyanoo woo ši duwandi porogaram dumoo woo se.">
+<!ENTITY device.prompt "Hãa">
+<!ENTITY device.promptTooltip "Duɲeyanoo ga goykaw hãayan waažibandi porogaram dumoo woo se">
 <!ENTITY device.deny "Wanji">
-
-
+<!ENTITY device.denyTooltip "Duɲeyanoo woo wanjandi porogaram dumoo woo se">
+<!ENTITY device.installedApps "Porogaram sinjantey">
 
 <!ENTITY device.permissions "Duɲeyaney">
 
@@ -35,13 +38,14 @@
 
 
 
+<!ENTITY device.help "Faaba">
 
-
+<!ENTITY connection.connectTooltip "Jinaa cee">
 <!ENTITY connection.disconnect "Ciyari dunbu">
 
 
-
-
+<!ENTITY connection.connectTo "Ciya ne:">
+<!ENTITY connection.noDeviceFound "Mana iinay kul maate. Jinay foo dobu">
 <!ENTITY connection.changeHostAndPort "Barmay">
 
 
@@ -49,31 +53,32 @@
 
 
 <!ENTITY connection.connecting "Goo ma ciya…">
-
+<!ENTITY connection.disconnecting "Goo ma ciyari dunbu…">
 <!ENTITY connection.cancel "Naŋ">
+<!ENTITY connection.cancelConnectTooltip "Ciyaroo kaŋ goo ma tee dunbu">
+
+<!ENTITY connection.or "wala">
+
+
+
+<!ENTITY connection.installAnotherSimulator "Tonton">
+
+<!ENTITY connection.startRegisteredSimulator "Šintin">
+
+<!ENTITY projects.localApps "Doo porogaramey">
+<!ENTITY projects.addApp "Tonton">
+<!ENTITY projects.addPackaged "Porogaram margantey tonton">
 
 
 
 
 
 
+<!ENTITY projects.updateApp "Taagandi">
 
+<!ENTITY projects.debugApp "Hanse">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projects.saveManifest "Gaabu">
 
 
 
@@ -83,15 +88,16 @@
 
 <!ENTITY projects.valid "Boori">
 <!ENTITY projects.error "Firka">
+<!ENTITY projects.warning "Yaamar">
+<!ENTITY projects.hosted "Duu zunbudoo">
+<!ENTITY projects.packaged "Hawante">
 
-
-
-
+<!ENTITY help.title "Porogaram juwalkaw">
 <!ENTITY help.close "Daabu">
 
-
-
-
-
+<!ENTITY help.usefullLinks "Nafaw dobey:">
+<!ENTITY help.appMgrDoc "Fahami takadda: goy nda porogaram juwalkaa">
+<!ENTITY help.configuringDevice "Taka kaŋ nda war Firefox OS jina ga soolu">
+<!ENTITY help.troubleShooting "Karkahattayan">
 
 

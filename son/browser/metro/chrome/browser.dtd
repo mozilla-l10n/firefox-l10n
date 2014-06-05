@@ -17,13 +17,14 @@
 <!ENTITY appbarErrorConsole.label      "Firka diji-walhaa feeri">
 <!ENTITY appbarJSShell.label           "JavaScript mee feeri">
 <!ENTITY appbarFindInPage2.label       "Ceeci moɲoo ra">
+<!ENTITY appbarRelaunchInDesktop.label "Feeri taaga goytaabaloo ra">
+<!ENTITY appbarMSMetaData2.label       "Porogaram zaa nungoo woo se">
+<!ENTITY appbarViewPageSource.label    "Moo aššil guna">
 
-
-
-
-
-
-
+<!ENTITY topSitesHeader.label        "Nungu kaasey">
+<!ENTITY bookmarksHeader.label       "Doo-šilbawey">
+<!ENTITY recentHistoryHeader.label   "Taariki kokorante">
+<!ENTITY remoteTabsHeader.label      "Jinay tanayaŋ nor lokey">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -32,29 +33,34 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Nungu kaasey">
+<!ENTITY narrowBookmarksHeader.label     "Doo-šilbawey">
+<!ENTITY narrowRecentHistoryHeader.label "Taariki kokorante">
+<!ENTITY narrowRemoteTabsHeader.label    "Nor loku moorey">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "Zumandey">
+<!ENTITY downloadShowPage.label    "Koy moɲoo ga">
+<!ENTITY downloadShow2.label       "Guna">
 <!ENTITY downloadOpen2.label       "Feeri">
 <!ENTITY downloadCancel.label      "Naŋ">
-
-
+<!ENTITY downloadPause.label       "Hunanzam">
+<!ENTITY downloadResume.label      "Sintin taaga">
 <!ENTITY downloadRetry.label       "Šii taaga">
 <!ENTITY downloadRemove.label      "Kaa">
-
+<!ENTITY downloadDelete.label      "Tuusu">
 <!ENTITY downloadFailed.label      "Kayante">
 
+<!ENTITY allBookmarks.label        "Doo-šilbawey kul">
 
+<!ENTITY consoleHeader.label       "Firka diji-walha">
 <!ENTITY consoleAll.label          "Kul">
 <!ENTITY consoleErrors.label       "Firkawey">
-
-
-
+<!ENTITY consoleWarnings.label     "Yaamarey">
+<!ENTITY consoleMessages.label     "Alhabaryey">
+<!ENTITY consoleCodeEval.label     "Ašariya:">
 <!ENTITY consoleClear.label        "Koonandi">
-
-
+<!ENTITY consoleCopyAll.label      "Berandi">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Aššil tuku:">
 <!ENTITY consoleErrLine.label      "Žeeri:">
 <!ENTITY consoleErrColumn.label    "Sorro:">
@@ -101,10 +107,13 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -116,11 +125,13 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "War nor lokey ceeci? Cenda beene wala naagu iguma ga">
+<!ENTITY firstRunTopSites.label "Nungey kaŋ war boobo ka dii yey guna">
+<!ENTITY firstRunBookmarks.label "Moɲey kaŋ war n'i gaabu ceeci hiino">
+<!ENTITY firstRunMenu.label "Duu alhaali nda suubariyaŋ ka tonton">
+<!ENTITY firstRunHistory.label "Guna noodin kaŋ war koy Interneti ra">
+<!ENTITY firstRunWelcome.label "Kubayni &brandShortName; ga">
+<!ENTITY firstRunDifferent.label "Fasal  lasal bande">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -131,6 +142,8 @@
        references.
        -->
 
+<!ENTITY firstRunBack.label "Karkar ka willi moo bisantaa ga">
+<!ENTITY firstRunNewTab.label "Nor loku taaga tonton ka nungu taaga lawre">
 <!ENTITY firstRunStar.label "Doo-šilbawey zaa ka moɲey gaabu hiino se">
 <!ENTITY firstRunPin.label "Nungu foo kanji war Windows Start dijoo ra ka huru tanba">
 <!ENTITY firstRunGotIt.label "Ay faham!">

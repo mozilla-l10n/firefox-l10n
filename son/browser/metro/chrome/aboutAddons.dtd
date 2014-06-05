@@ -7,10 +7,11 @@
 
 <!ENTITY aboutAddons.title              "&brandShortName; tontoney ti goy kaŋ goo ma tee">
 <!ENTITY aboutAddons.messageTitle       "Aywa!">
-
+<!ENTITY aboutAddons.message            "Alhaa naŋ, &brandShortName; ga goy hala war ma hin ka nafa nda tontoney kaŋ goo no war se.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
+<!ENTITY aboutAddons.goBackToStartStart "Willi ne ">
 <!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; šintin moo">
 <!ENTITY aboutAddons.goBacktoStartEnd   ".">

@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Biiboŋ bata">
+
 <!ENTITY  blockPopups.label           "Biiboŋ bata zanfuney daabu">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Hasarawey…">
 <!ENTITY  popupExceptions.accesskey   "H">
 
+<!ENTITY  fontsAndColors.label        "Šigirawey nda noonawey">
 
 <!ENTITY  defaultFont.label           "Tilasu šigira:">
 <!ENTITY  defaultFont.accesskey       "T">

@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Jinde feeri">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Dijikul">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Fatta dijikul ra">
-
+<!ENTITY castingButton.castingLabel "Tenjandi dijoo ga">
 
 <!ENTITY stats.media "Alhabar goyjinay">
 <!ENTITY stats.size "Adadu">

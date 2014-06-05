@@ -4,14 +4,15 @@
 
 
 <!ENTITY crashprompt.title           "War ga baa ka kaŋyan bayrandey sanba Mozilla do?">
-
+<!ENTITY crashprompt.message         "Alhaa naŋ, &brandShortName; tun taaga kaŋyan banda ga. Bayrandi sanbayan ka Mozilla gaa ka &brandShortName; tabatandi nda saajandi ka tonton. War ga hin ka war ibaayoo barmay waati kul Kayandiyaney/Suubarey ra.">
 <!ENTITY crashprompt.detailsLink     "Cin bara kaŋyan bayrandi ra?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Kaŋyan bayrandi goo nda silbayyaŋ kaŋyan misoo ga, dan maršinoo, sanda ka war ceecikaa alhaaloo bii za waatoo kaŋ kaŋ. ">
-
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Woo ga hin ka tee sanda moo feerantey, hantumey kaŋ tee alhabar feerantey takarey nda gundekuna ra, ceeciyan kokorante taariki wala gorodoo maateyan kaŋ ga dira nungu foo ga.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Ir kaŋyan bayrandey ka goy ka ceeci ka šendayyaŋ kaa nda k'ir jinawey boryandi ka tonton. Ir ga war alhabarey dii nda taka kaŋ ir ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; sutura laada">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Moɲoo kaŋ boŋ ay cindi aderesoo dam">
