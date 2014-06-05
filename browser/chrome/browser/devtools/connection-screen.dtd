@@ -13,7 +13,7 @@
 <!ENTITY port       "พอร์ต :">
 <!ENTITY connect    "เชื่อมต่อ">
 <!ENTITY connecting "เชื่อมต่อ">
-
+<!ENTITY availableAddons "ส่วนเสริมระยะไกลที่มี:">
 <!ENTITY availableTabs "แท็บระยะไกลที่มี:">
 <!ENTITY availableProcesses "โพรเซสทางไกลที่มี:">
 <!ENTITY connectionError "ผิดพลาด:">

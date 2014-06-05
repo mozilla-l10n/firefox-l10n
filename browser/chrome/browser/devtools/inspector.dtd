@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "แก้ไขเป็น HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "แ">
 
 <!ENTITY inspectorHTMLCopyInner.label       "คัดลอก Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -18,3 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "หา HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "คัดลอก Image Data-URL">
