@@ -232,6 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "i">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
+<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.accesskey "Y">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -736,47 +739,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY uiTour.infoPanel.close "Fechar">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
-
-<!ENTITY navbarCmd.accesskey 			"N">
-<!ENTITY addonBarCmd.label 				"Barra de extras">
-<!ENTITY addonBarCmd.accesskey 			"a">
-<!ENTITY throbberItem.title 			"Indicador de atividade">
-<!ENTITY appMenuButton.label 			"Menu">
-<!ENTITY appMenuButton.tooltip 			"Abrir menu do &brandShortName;">
-<!ENTITY feedButton.label 				"Subscrever">
-<!ENTITY feedButton.tooltip 			"Subscrever esta página">
-<!ENTITY bookmarksButton.tooltip 		"Mostrar marcadores">
-<!ENTITY historyButton.tooltip 			"Mostrar páginas recentes">
-<!ENTITY viewTabsOnTop.label 			"Separadores em cima">
-<!ENTITY viewTabsOnTop.accesskey 		"t">
-<!ENTITY appMenuEdit.label 				"Editar">
-<!ENTITY appMenuToolbarLayout.label 	"Esquema da barra de ferramentas">
 <!ENTITY appMenuSidebars.label 			"Barras laterais">
-<!ENTITY appMenuFind.label 				"Localizar">
-<!ENTITY appMenuUnsorted.label 			"Marcadores desorganizados">
-<!ENTITY appMenuWebDeveloper.label 		"Programador web">
-<!ENTITY appMenuGettingStarted.label 	"Iniciação">
-<!ENTITY appMenuSafeMode.label 			"Reinicar com os extras desativados">
-<!ENTITY appMenuSafeMode.accesskey 		"R">
-<!ENTITY cutButton.tooltip 				"Cortar">
-<!ENTITY copyButton.tooltip 			"Copiar">
-<!ENTITY pasteButton.tooltip 			"Colar">
-<!ENTITY zoomOutButton.tooltip 			"Ampliar">
-<!ENTITY zoomInButton.tooltip 			"Reduzir">
-<!ENTITY zoomControls.label 			"Controlos de ampliação">
-<!ENTITY addonBarCloseButton.tooltip 	"Fechar barra de extras">
-<!ENTITY toggleAddonBarCmd.key 			"/">
-<!ENTITY backForwardItem.title         	"Avançar/Recuar">
-<!ENTITY viewBookmarksSidebar.label    	"Mostrar na barra lateral">
-<!ENTITY bookmarksItem.title           	"Marcadores">
-<!ENTITY openLocationCmd.label         "Abrir local…">
-<!ENTITY openLocationCmd.accesskey     "l">
-<!ENTITY bookmarksMenuButton.tooltip   "Mostra os seus marcadores">
-<!ENTITY switchToMetroCmd2.label       "Relançar o &brandShortName; para o Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Agrupar os seus separadores">
-<!-- end of strings to be removed post-Australis -->
-
