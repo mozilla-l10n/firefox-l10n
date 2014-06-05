@@ -20,7 +20,7 @@
 <!ENTITY sync.subtitle.pair.label "Aktivera genom att välja ”Para ihop enheter” på din andra enhet.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Visa hur.">
+<!ENTITY sync.link.show.label "Visa mig hur.">
 <!ENTITY sync.link.advancedsetup.label "Avancerade inställningar…">
 <!ENTITY sync.link.nodevice.label "Jag har inte tillgång till enheten just nu…">
 <!-- J-PAKE Waiting Screen -->
@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Vad ska synkas">
-<!ENTITY sync.configure.engines.sync.my.title.label "Synka …">
+<!ENTITY sync.configure.engines.sync.my.title.label "Synka dina …">
 <!ENTITY sync.configure.engines.title.bookmarks "Bokmärken">
 <!ENTITY sync.configure.engines.title.passwords "Lösenord">
 <!ENTITY sync.configure.engines.title.history "Historik">
@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Mobila bokmärken">
 <!ENTITY bookmarks.folder.readinglist.label "Läslista">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Fasta">
+<!ENTITY bookmarks.folder.pinned.label "Fäst">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Endast ett &syncBrand.fullName.label;-konto kan användas.">
@@ -149,12 +149,12 @@
 
 <!ENTITY fxaccount_account_create_not_allowed "Kan inte skapa kontot">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Du måste uppfylla vissa ålderskrav för att få skapa ett konto.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Läs mer">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Ta reda på mer">
 
 <!ENTITY fxaccount_confirm_account_header "Bekräfta ditt konto">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "En bekräftelselänk har skickats till &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Skicka igen">
+<!ENTITY fxaccount_confirm_account_resend_email "Skicka email igen">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Skickat ett bekräftelsemejl">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Kunde inte skicka något bekräftelsemejl">
 
@@ -165,7 +165,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Kunde inte logga in">
 
 <!ENTITY fxaccount_account_verified_sub_header "Kontot bekräftat">
-<!ENTITY fxaccount_account_verified_description2 "Din data kommer snart att börja synkas.">
+<!ENTITY fxaccount_account_verified_description2 "Din data kommer strax att börja synkas.">
 
 <!ENTITY fxaccount_update_credentials_header "Logga in">
 <!ENTITY fxaccount_update_credentials_button_label "Logga in">
