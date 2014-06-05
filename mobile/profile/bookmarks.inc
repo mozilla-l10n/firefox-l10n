@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: गरजेप्रमाणे अॅड-ऑन्स निवडा
+#define bookmarks_addons Firefox: गरजेप्रमाणे ॲड-ऑन्स निवडा
 
 
 

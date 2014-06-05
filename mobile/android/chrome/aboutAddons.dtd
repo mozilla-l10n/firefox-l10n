@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "ॲड-ऑन्स्">
-<!ENTITY aboutAddons.header2                    "आपले अॅड-ऑन्स्">
+<!ENTITY aboutAddons.header2                    "आपले ॲड-ऑन्स्">
 <!ENTITY aboutAddons.options                    "पर्याय">
-<!ENTITY aboutAddons.browseAll                  "सर्व Firefox अॅड-ऑन्स् पहा">
+<!ENTITY aboutAddons.browseAll                  "सर्व Firefox ॲड-ऑन्स् पहा">
 
 <!ENTITY addonAction.enable                     "कार्यान्वित करा">
 <!ENTITY addonAction.disable                    "निष्क्रिय करा">
