@@ -27,7 +27,7 @@
 <!ENTITY warn.leavingsecure "Opuszczeniem strony, która używa szyfrowania">
 <!ENTITY warn.leavingsecure.accesskey "O">
 
-<!ENTITY mixed.description "Szyfrowane strony mogą zawierać niezaszfrowaną zawartość, która jest niezabezpieczona przed podsłuchiwaniem bądź oszustwami. &brandShortName; może rozpoznawać i blokować te zagrożenie:">
+<!ENTITY mixed.description "Szyfrowane strony mogą zawierać niezaszyfrowaną zawartość, która jest niezabezpieczona przed podsłuchiwaniem bądź oszustwami. &brandShortName; może rozpoznawać i blokować te zagrożenia:">
 <!ENTITY warn.mixedactivecontent "Ostrzegaj, jeśli szyfrowane witryny zawierają niezabezpieczoną zawartość">
 <!ENTITY warn.mixedactivecontent.accesskey "g">
 <!ENTITY block.activecontent "Nie wczytuj niezabezpieczonej zawartości na szyfrowanych stronach">
