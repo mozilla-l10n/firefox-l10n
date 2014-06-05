@@ -11,8 +11,11 @@
 <!ENTITY newPref.valueString           "Ɓoggol">
 <!ENTITY newPref.valueInteger          "Timmunde">
 
+<!ENTITY newPref.stringPlaceholder     "Naatnu ɓoggol">
+<!ENTITY newPref.numberPlaceholder     "Naatnu limoore">
 
-
+<!ENTITY newPref.toggleButton          "Toggilo">
 <!ENTITY newPref.cancelButton          "Haaytu">
 
-
+<!ENTITY contextMenu.copyPrefName      "Natto Innde">
+<!ENTITY contextMenu.copyPrefValue     "Natto Kiisol">
