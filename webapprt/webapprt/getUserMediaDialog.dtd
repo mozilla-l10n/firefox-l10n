@@ -12,6 +12,6 @@
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "С">
 
 <!ENTITY getUserMediaDialog.video.label             "Виберіть камеру">
-<!ENTITY getUserMediaDialog.video.noVideo           "Нема відео">
+<!ENTITY getUserMediaDialog.video.noVideo           "Немає відео">
 <!ENTITY getUserMediaDialog.audio.label             "Виберіть мікрофон">
-<!ENTITY getUserMediaDialog.audio.noAudio           "Нема мікрофону">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Немає мікрофону">
