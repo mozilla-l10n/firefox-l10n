@@ -21,7 +21,7 @@
 <!ENTITY appbarMSMetaData2.label    "Hent app for dette websted">
 <!ENTITY appbarViewPageSource.label    "Vis sidens kildekode">
 
-<!ENTITY topSitesHeader.label        "Foretrukne websteder">
+<!ENTITY topSitesHeader.label        "Mest besøgte websteder">
 <!ENTITY bookmarksHeader.label       "Bogmærker">
 <!ENTITY recentHistoryHeader.label   "Seneste historik">
 <!ENTITY remoteTabsHeader.label      "Faneblade fra andre enheder">
@@ -33,7 +33,7 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "Foretrukne websteder">
+<!ENTITY narrowTopSitesHeader.label      "Mest besøgte websteder">
 <!ENTITY narrowBookmarksHeader.label     "Bogmærker">
 <!ENTITY narrowRecentHistoryHeader.label "Seneste historik">
 <!ENTITY narrowRemoteTabsHeader.label    "Fjern-faneblade">
@@ -145,7 +145,7 @@
        of how they are used:
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
-     
+
 <!ENTITY firstRunBack.label "Tryk for at gå tilbage til forrige side">
 <!ENTITY firstRunNewTab.label "Tilføj et nyt faneblad for at besøge et nyt websted">
 <!ENTITY firstRunStar.label "Brug bogmærker til at gemme websider til senere">
