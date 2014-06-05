@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Aderesoo mana fahamandi">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Aderesoo mana fahamandi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.</li> 
 </ul>">
 

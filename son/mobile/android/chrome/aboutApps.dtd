@@ -5,5 +5,7 @@
 <!ENTITY aboutApps.title2                          "Porogaramizey">
 <!ENTITY aboutApps.header                          "War porogaramey">
 
+<!ENTITY aboutApps.browseMarketplace "Firefox Marketplace naaru">
 <!ENTITY aboutApps.uninstall "Dogu">
 <!ENTITY aboutApps.addToHomescreen "Tonto šintin moo dijoo ga">
+<!ENTITY aboutApps.checkForUpdates "Taagandirey ceeci">

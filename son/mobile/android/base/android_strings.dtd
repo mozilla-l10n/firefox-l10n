@@ -54,6 +54,7 @@
 <!ENTITY back "Banda">
 <!ENTITY stop "Kayandi">
 <!ENTITY site_security "Nungu saajaw">
+<!ENTITY edit_mode_cancel "Naŋ">
 
 <!ENTITY close_tab "Nor lokoo daabu">
 <!ENTITY one_tab "nor loku 1">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
-<!ENTITY pref_category_search2 "Ceeci kayandiyaney">
+<!ENTITY pref_category_search3 "Ceeci">
+<!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
 <!ENTITY pref_category_display "Cebe">
 <!ENTITY pref_category_privacy_short "Sutura">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
+<!ENTITY pref_learn_more "Bay ka tonton">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
 <!ENTITY pref_category_add_search_providers "Ceeciyan nookawyaŋ tonton">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Ceecijinawey yeeti">
+<!ENTITY pref_search_restore_defaults "Tilasey yeeti">
+<!ENTITY pref_search_restore_defaults_summary "Tilasey yeeti">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Yaamar: Interneti nungoo foo tonton war maašeedaa ga ceeciyan nookey še nda ceeci faaroo naagu ka gay.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
-<!ENTITY pref_developer_remotedebugging_docs "Bay ka tonton">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
+
+<!ENTITY pref_category_home "Šintin">
+<!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋše">
+<!ENTITY pref_category_home_panels "Fasaldogey">
+<!ENTITY pref_home_add_panel "Fasaldoo tonton">
+<!ENTITY home_add_panel_title "Fasaldoo taaga tonton">
+<!ENTITY home_add_panel_empty "Alhaa naŋ, ir mana hin ka duu fasaldoo kul ka tonton.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ka šintinmoɲoo ga">
+<!ENTITY pref_category_home_content_settings "Gundekuna kayandiyaney">
+<!ENTITY pref_home_updates "Boŋtaagandirey">
+<!ENTITY pref_home_updates_enabled "Ga dira">
+<!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Hanse boŋše">
@@ -135,30 +157,38 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
 <!ENTITY pref_import_android "Zaa Android ra">
-<!ENTITY pref_private_data_history "Ceeciyan &amp; zumandiyan taariki">
-<!ENTITY pref_private_data_formdata "Šeedatiirawey &amp; ceeciyan taariki">
-<!ENTITY pref_private_data_cookies2 "Aleewawey &amp; ciyarey">
+<!ENTITY pref_private_data_history2 "Ceeciyan taariki">
+<!ENTITY pref_private_data_formdata "Takari nda ceeciyan taariki">
+<!ENTITY pref_private_data_cookies2 "Aleewawey nda ciyari hunantey">
 <!ENTITY pref_private_data_passwords "Šennikufal gaabuntey">
 <!ENTITY pref_private_data_cache "Tugudoo">
 <!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
 <!ENTITY pref_private_data_siteSettings2 "Nungu kayandiyaney">
-<!ENTITY pref_private_data_downloadFiles "Tukey zumandi">
+<!ENTITY pref_private_data_downloadFiles2 "Zumandey">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ga">
 <!ENTITY pref_vendor_faqs "Hãayan nda zaabi">
 <!ENTITY pref_vendor_feedback "War goy-banda laasaaboo sanba">
-<!ENTITY pref_search_set_default "Kayandi sanda tilasu">
-<!ENTITY pref_search_default "Tilasu">
-<!ENTITY pref_search_remove "Kaa">
+
+<!ENTITY pref_dialog_set_default "Kayandi sanda tilasu">
+<!ENTITY pref_dialog_default "Tilasu">
+<!ENTITY pref_dialog_remove "Kaa">
+
 <!ENTITY pref_search_last_toast "War ši hin ka war ceecijinay koraa kaa wal\u0027a kayandi.">
 
-<!ENTITY datareporting_notification_title "&brandShortName; kabuyan &amp; bayhaya">
+<!ENTITY pref_panels_show "Cebe">
+<!ENTITY pref_panels_hide "Tugu">
+<!ENTITY pref_panels_reorder "Hangayan barmay">
+<!ENTITY pref_panels_move_up "Zijandi">
+<!ENTITY pref_panels_move_down "Zumandi">
+
+<!ENTITY datareporting_notification_title "&brandShortName; kabuyan nda bayhaya">
 <!ENTITY datareporting_notification_action_long "Suuba alhabaroo kaŋ ka žemnandi">
 <!ENTITY datareporting_notification_action "Soobay ka žemna">
 <!ENTITY datareporting_notification_summary "Ka war goy fondaa boryandi, &brandShortName; ga alhbaryaŋ sanba nda boŋ še &vendorShortName; do. ">
 <!ENTITY datareporting_notification_summary_short "Ka war goymiɲoo boryandi ka tonton &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -175,18 +205,21 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
-<!ENTITY datareporting_wifi_title "&vendorShortName; doo goymiɲey">
-<!ENTITY datareporting_wifi_summary "Faaba ka gorodoo goymiɲey boryandi Interneti še nda &brandShortName; duu fondo ka talfon alhabar marga k\u0027a sanba bila nda maa">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; gorodoo goymee">
+<!ENTITY datareporting_wifi_geolocation_summary "Ga du Wi-Fi nda fargandi gorodoo bayhaya waati kaŋ a ga dira bandafaaroo ra nd\u0027a ga žemna nda &vendorShortName; k\u0027ir gorodoo goymee boryandi ka tonton">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Boŋtaagandirey">
-<!ENTITY pref_update_autodownload_wifi "Wi-Fi de bande">
-<!ENTITY pref_update_autodownload_disabled "Kayante">
-<!ENTITY pref_update_autodownload_enabled "Tunante">
+<!ENTITY pref_update_autodownload2 "Taagandirey ma zunbu ngi boŋše">
+<!ENTITY pref_update_autodownload_wifi "Wi-Fi hinne bande">
+<!ENTITY pref_update_autodownload_never "Abada">
+<!ENTITY pref_update_autodownload_always "Waati kul">
 
 <!ENTITY quit "Fatta">
 
 <!ENTITY addons "Tontoney">
-<!ENTITY downloads "Zumandiyaney">
+<!ENTITY downloads "Zumandey">
 <!ENTITY apps "Porogaramizey">
 <!ENTITY char_encoding "Harfu hawyan">
 
@@ -196,6 +229,7 @@ size. -->
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY find_in_page "Ceeci moɲoo ra">
 <!ENTITY desktop_mode "Ordinater nungu hãa">
+<!ENTITY page "Moo">
 <!ENTITY tools "Goyjinawey">
 <!ENTITY new_tab "Nor loku taaga">
 <!ENTITY new_private_tab "Sutura nor loku taaga">
@@ -212,6 +246,13 @@ size. -->
 <!ENTITY find_prev "Ibisante">
 <!ENTITY find_next "Jine">
 <!ENTITY find_close "Daabu">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Tenjandi nda jinaa">
+<!ENTITY media_play "Hẽenandi">
+<!ENTITY media_pause "Hunanzamay">
+<!ENTITY media_stop "Kayandi">
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
 <!ENTITY contextmenu_open_private_tab "Feeri sutura nor loku ra">
@@ -219,19 +260,24 @@ size. -->
 <!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
-<!ENTITY contextmenu_pasteandgo "Dobu nda koy">
+<!ENTITY contextmenu_pasteandgo "Dobu &amp; Koy">
 <!ENTITY contextmenu_paste "Dobu">
 <!ENTITY contextmenu_copyurl "Aderesu berandi">
 <!ENTITY contextmenu_edit_bookmark "Fasal">
 <!ENTITY contextmenu_subscribe "Maa hantum moɲoo ga">
 <!ENTITY contextmenu_site_settings "Nungu kayandiyaney fasal">
-
-<!ENTITY contextmenu_top_sites_pin "Nungoo dii">
-<!ENTITY contextmenu_top_sites_unpin "Nungoo naŋ">
+<!ENTITY contextmenu_top_sites_edit "Fasal">
+<!ENTITY contextmenu_top_sites_pin "Kanji nungu">
+<!ENTITY contextmenu_top_sites_unpin "Dogu nungu">
+<!ENTITY contextmenu_add_search_engine "Ceecijinay foo tonton">
 
 <!ENTITY pref_titlebar_mode "Maa zuu">
 <!ENTITY pref_titlebar_mode_title "Maa zuu cebe">
 <!ENTITY pref_titlebar_mode_url "Moo aderesu cebe">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Maazuu cendi">
 
 <!ENTITY history_removed "Moo tuusante">
 
@@ -275,7 +321,7 @@ size. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
 
 <!ENTITY home_history_title "Taariki">
-
+<!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
 <!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
@@ -284,14 +330,22 @@ size. -->
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Yaamar: Hantumey gaabu cawyan maašeedaa ra nda war na &#037;I biyoo naagu nd\u0027a fatta maa zuu ra.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Yaamar: Hantumey gaabu cawyan maašeedaa ra nda &formatI; biyoo naagu nd\u0027a fatta maazuwoo ra.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Yaamar. Hantumey gaabu cawyan maašeedaa ra nda war na yaayi butoŋoo naagu nd\u0027a fatta maa zuu ra.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
-<!ENTITY pin_site_dialog_hint "Ceeci kufal kalima dam">
+<!ENTITY home_default_empty "Gundekuna kul mana duwandi fasaldogoo woo se.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Hala &formatS; do">
+
+<!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
 
 <!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
@@ -333,10 +387,8 @@ Android ra">
 <!ENTITY bookmarkhistory_import_history "Taariki zaa 
 Android ra">
 <!ENTITY bookmarkhistory_import_wait "Batu taare...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "War ga baa &formatS; ceeciyan honnandiyaney ma tunandi?">
+<!ENTITY suggestions_prompt3 "War ga baa ceeci honnandiyaney ma tunandi?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -371,3 +423,14 @@ Android ra">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ga tunandi taaga">
 <!ENTITY exit_guest_session_text "Goywaatoo woo ceeciyan bayhayey ga tuusandi.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Šilbayboŋ">
+<!ENTITY actionbar_done "Ben">
