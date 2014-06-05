@@ -7,6 +7,8 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sanngoɗin">
 <!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Seŋo e &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Ɓeydu Konte &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Jokkondir Kaɓirɗi">
@@ -28,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Naatnu humpito konte maa &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Innde Konte">
-
+<!ENTITY sync.input.password.label "Finnde">
 <!ENTITY sync.input.key.label "Kelal jiytirgal">
 <!ENTITY sync.checkbox.server.label "Huutoro sarworde feŋtorde">
 <!ENTITY sync.input.server.label "URL Sarworde">
@@ -59,9 +61,9 @@
 
 <!ENTITY sync.configure.engines.title.label "Ko Syncetee">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sync…">
-
-
-
+<!ENTITY sync.configure.engines.title.bookmarks "Maantore">
+<!ENTITY sync.configure.engines.title.passwords "Finndeeji">
+<!ENTITY sync.configure.engines.title.history "Aslol">
 <!ENTITY sync.configure.engines.title.tabs "Tabbe">
 <!-- Common text -->
 
@@ -69,6 +71,8 @@
 <!ENTITY sync.button.connect.label "Seŋondir">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (woppaama)">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Dosol Maantore">
@@ -104,6 +108,9 @@
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
+
+<!ENTITY fxaccount_email_hint "Iimeel">
 <!ENTITY fxaccount_password_hint "Finnde">
 <!ENTITY fxaccount_password_hide "Suuɗ">
 <!ENTITY fxaccount_password_show "Hollu">
@@ -122,76 +129,97 @@
 <!ENTITY fxaccount_policy_linkprivacy "Dawirgol Suturo">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "A jaɓɓaama e &syncBrand.shortName.label;">
-
-
-
+<!ENTITY fxaccount_getting_started_description "Seŋo ngam syncude tabbe maa, maantore e finndeeji &amp; geɗe goɗɗe.">
+<!ENTITY fxaccount_getting_started_get_started "Fuɗɗo ɗoo">
+<!ENTITY fxaccount_getting_started_old_firefox "Njogi-ɗaa ko yamre hiiɗnde &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-
+<!ENTITY fxaccount_create_account_header2 "Sos Konte Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "Ena foti waɗde alkule 8 so famɗii">
+<!ENTITY fxaccount_create_account_year_of_birth "Hitaande jibinannde">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "So mi yawtii ɗoo, mi jaɓorii &formatS1; e&formatS2; carwol ruulde Firefox.">
 <!ENTITY fxaccount_create_account_button "Payɗo">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Suɓo ko sanngoɗintee">
+<!ENTITY fxaccount_create_account_sign_in_instead "Aɗa jogii konnte kisa? Seŋo">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 walla ko adii">
+<!ENTITY fxaccount_create_account_unknown_error "Horiima sosde konte">
 
-
-
-
-
-
+<!ENTITY fxaccount_account_create_not_allowed "Horiima sosde konte">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Alaa e sago wooda ɗo keɓ-ɗaa e duuɓi ngam udditde konte.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Ɓeydu humpito">
 
+<!ENTITY fxaccount_confirm_account_header "Teeŋtin konte maa">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Jokkol ƴeewtagol neldaama to &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Neltir iimeel">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Iimeel ƴeewtindol neldaama">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Horiima neldude iimeel ƴeewtindol">
 
+<!ENTITY fxaccount_sign_in_sub_header "Seŋo">
+<!ENTITY fxaccount_sign_in_button_label "Seŋo">
+<!ENTITY fxaccount_sign_in_forgot_password "A yejjit finnde ndee?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Sos konte">
+<!ENTITY fxaccount_sign_in_unknown_error "Horiima seŋaade">
 
+<!ENTITY fxaccount_account_verified_sub_header "Konte ƴeewtaama">
+<!ENTITY fxaccount_account_verified_description2 "Maa keɓe maa puɗɗo syncude ko leelaani.">
 
+<!ENTITY fxaccount_update_credentials_header "Seŋo">
+<!ENTITY fxaccount_update_credentials_button_label "Seŋo">
+<!ENTITY fxaccount_update_credentials_unknown_error "Horiima seŋaade">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_header2 "Konte Firefox">
+<!ENTITY fxaccount_status_signed_in_as "A naatii e innde">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: hurminaama">
+<!ENTITY fxaccount_status_needs_verification2 "Konte maa ena cokli ƴeewteede. Tappu ngam neltirde iimeel ƴeewtindol.">
+<!ENTITY fxaccount_status_needs_credentials "Horiima seŋaade. Tappu ngam seŋaade.">
+<!ENTITY fxaccount_status_needs_upgrade "Aɗa sokli hasɗitinde &brandShortName; ngam seŋaade.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Toggilo “Auto-sync data” e Teelte Android &gt; Data Usage.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Tappu ngam fuɗɗaade syncude.">
+<!ENTITY fxaccount_status_bookmarks "Maantore">
+<!ENTITY fxaccount_status_history "Aslol">
+<!ENTITY fxaccount_status_passwords "Finndeeji">
+<!ENTITY fxaccount_status_tabs "Uddit tabbe">
+<!ENTITY fxaccount_status_legal "Laawol" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos "Laabi Carwe">
+<!ENTITY fxaccount_status_linkprivacy "Tintinol Suturo">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Cuɓe">
+<!ENTITY fxaccount_options_configure_title "Teelto &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Aɗa sokli hesɗitinde Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Konte ɗee ena ngoodi kisa. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Iimeel walla finnde peewaani">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Iimeel walla finnde peewaani">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Konte ɗee ƴeewtaaka">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Sarworde ena halji, eto ɗoo e yeeso">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Sarworde ena halji, eto ɗoo e yeeso">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Waɗii caɗeele">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Horiima seŋaade e laylaytol">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; seŋaaki">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tappu ngam seŋaade &formatS;">

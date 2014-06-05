@@ -101,8 +101,8 @@
 <!ENTITY home_add_panel_installed "&formatS; ɓeydaama to jaɓɓorgo">
 <!ENTITY pref_category_home_content_settings "Teelte loowdi">
 <!ENTITY pref_home_updates "Kesɗitine jaajol">
-
-
+<!ENTITY pref_home_updates_enabled "Daaƴtaaɗo">
+<!ENTITY pref_home_updates_wifi "E Wifi tan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Heertin">
@@ -131,10 +131,10 @@
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
 <!ENTITY pref_plugins_disabled "Daaƴaama">
 <!ENTITY pref_text_size "Ɓetol binndi">
-
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "Duttagol binndi">
+<!ENTITY pref_restore "Taaɓe">
+<!ENTITY pref_restore_always "Artir sahaa kala">
+<!ENTITY pref_restore_quit "Hoto artir caggal jaltugol &brandShortName;">
 <!ENTITY pref_font_size_tiny "Pamarum">
 <!ENTITY pref_font_size_small "Tokoosum">
 <!ENTITY pref_font_size_medium "Hakindiinde">
@@ -157,18 +157,18 @@ size. -->
 <!ENTITY pref_sync "Sanngoɗin">
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 <!ENTITY pref_import_android "Jiggo iwde e Android">
-
-
-
+<!ENTITY pref_private_data_history2 "Aslol peeragol">
+<!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
+<!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
 <!ENTITY pref_private_data_passwords "Finndeeji danndaaɗi">
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings2 "Teelte lowre">
-
+<!ENTITY pref_private_data_downloadFiles2 "Gaawte">
 
 
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
-
+<!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Hokku duttinal">
 
 <!ENTITY pref_dialog_set_default "Waɗtu goowaaɗo">
@@ -211,13 +211,15 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
+<!ENTITY pref_update_autodownload2 "Aawto kesɗitine e jaajol">
+<!ENTITY pref_update_autodownload_wifi "E Wifi tan">
 <!ENTITY pref_update_autodownload_never "Hay sahaa">
-
+<!ENTITY pref_update_autodownload_always "Sahaa kala">
 
 <!ENTITY quit "Yaltu">
 
 <!ENTITY addons "Ɓeyditte">
-
+<!ENTITY downloads "Gaawte">
 <!ENTITY apps "Jaaɓɗe">
 <!ENTITY char_encoding "Dokkitannde Alkule">
 
@@ -227,16 +229,16 @@ size. -->
 <!ENTITY save_as_pdf "Danndu e PDF">
 <!ENTITY find_in_page "Yiylo e Hello">
 <!ENTITY desktop_mode "Ɗaɓɓit Lowre Biro">
-
+<!ENTITY page "Hello">
 <!ENTITY tools "Kuutorɗe">
 <!ENTITY new_tab "Tabbere Hesere">
 <!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
 <!ENTITY close_all_tabs "Uddu Tabbe Fofo">
-
+<!ENTITY tabs_normal "Tabbe">
 <!ENTITY tabs_private "Cuuriɗum">
 <!ENTITY tabs_synced "Synced">
-
-
+<!ENTITY set_image_fail "Horiima suɓaade natal">
+<!ENTITY set_image_chooser_title "Waɗtu Natal Ngal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -246,9 +248,11 @@ size. -->
 <!ENTITY find_close "Uddu">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Fayii to Kaɓirgol">
 <!ENTITY media_play "Tar">
 <!ENTITY media_pause "Sabbo">
-
+<!ENTITY media_stop "Dartin">
 
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
@@ -318,23 +322,30 @@ size. -->
 
 <!ENTITY home_history_title "Aslol">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
-
+<!ENTITY home_last_tabs_title "Tabbe iwɗe e ko ɓenni">
 <!ENTITY home_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
-
-
-
-
+<!ENTITY home_last_tabs_empty "Tabbe maa cakkitiiɗe njaltata ɗoo.">
+<!ENTITY home_most_recent_title "Ɓurɗi hesɗude">
+<!ENTITY home_most_recent_empty "Lowe ɗe cakkiti-ɗaa yillaade njaltata ɗoo.">
+<!ENTITY home_reading_list_empty "Binndanɗe ndanndu-ɗaa njaltata ɗoo.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: Danndu binndanɗe to doggol maa targol so ñoƴƴude juutnnde e maandel &formatI; so nde yaltii e palal tiitooɗe ndee.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIP: Danndu binndanɗe to doggol maa targol so ñoƴƴude juutnnde e butoŋ mbayka targol so nde yaltii e palal tiitooɗe ndee.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Alaa loowdi yiyta e ndal ɗoon palal.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Haa t &formatS;">
+
+<!ENTITY pin_site_dialog_hint "Naatnu helmere njiilaw">
 
 <!ENTITY filepicker_title "Labo Fiilde">
 <!ENTITY filepicker_audio_title "Labo walla nanngito ojoo">
@@ -416,6 +427,10 @@ iwde e Android">
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Dosol">
 <!ENTITY actionbar_done "Gasii">
