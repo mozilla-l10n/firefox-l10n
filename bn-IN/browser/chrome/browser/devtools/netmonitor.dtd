@@ -27,6 +27,8 @@
   -  in the network table toolbar, above the "size" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
+
+<!ENTITY netmonitorUI.toolbar.waterfall   "সময় রেখা">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
