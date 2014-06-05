@@ -5,15 +5,15 @@
 <!ENTITY index.title "ตัวจัดการแอป">
 <!ENTITY index.projects2 "แอป">
 <!ENTITY index.device2 "อุปกรณ์">
+<!ENTITY index.help "วิธีใช้">
 
-
-
+<!ENTITY device.debugMainProcessTooltip "เปิดแถบเครื่องมือนักพัฒนาที่เชื่อมต่อกับแอปนี้บนอุปกรณ์">
 
 
 
 
 <!ENTITY device.startApp "เริ่ม">
-
+<!ENTITY device.startAppTooltip "เริ่มการทำงานของแอปนี้บนอุปกรณ์">
 <!ENTITY device.stopApp "หยุด">
 <!ENTITY device.stopAppTooltip "หยุดการทำงานของแอปนี้บนอุปกรณ์">
 <!ENTITY device.debugApp "ดีบัก">
@@ -28,17 +28,18 @@
 <!ENTITY device.promptTooltip "แอปประเภทนี้ต้องให้ผู้ใช้อนุญาตก่อนจะใช้สิทธิ์นี้">
 <!ENTITY device.deny "ไม่อนุญาต">
 <!ENTITY device.denyTooltip "แอปประเภทนี้ไม่ได้รับอนุญาตให้ใช้สิทธิ์นี้">
+<!ENTITY device.installedApps "ติดตั้งแอปแล้ว">
 
 
 
 
+<!ENTITY device.browserTabs "แท็บเบราเซอร์">
 
+<!ENTITY device.debugBrowserTab "ดีบั๊ก">
+<!ENTITY device.debugBrowserTabTooltip "เปิดแถบเครื่องมือนักพัฒนาที่เชื่อมต่อกับแอปนี้บนอุปกรณ์">
+<!ENTITY device.help "วิธีใช้">
 
-
-
-
-
-
+<!ENTITY connection.connectTooltip "เชื่อมต่อไปยังอุปกรณ์">
 <!ENTITY connection.disconnect "ยกเลิกการเชื่อมต่อ">
 
 <!ENTITY connection.notConnected2 "ไม่ได้เชื่อมต่อ">
@@ -51,15 +52,15 @@
 <!ENTITY connection.saveConnectionInfo "บันทึก">
 <!ENTITY connection.saveConnectionInfoTooltip "บันทึกโฮสต์และพอร์ต">
 <!ENTITY connection.connecting "กำลังเชื่อมต่อ…">
-
+<!ENTITY connection.disconnecting "ยกเลิกการเชื่อมต่อ…">
 <!ENTITY connection.cancel "ยกเลิก">
 
 
 
 
 
-
-
+<!ENTITY connection.installOneSimulatorTooltip "ติดตั้งตัวจำลองการทำงานรุ่นอื่นได้โดยการดาวน์โหลดส่วนเสริมที่เกี่ยวข้อง">
+<!ENTITY connection.installAnotherSimulator "เพิ่ม">
 <!ENTITY connection.installAnotherSimulatorTooltip "ติดตั้งตัวจำลองการทำงานรุ่นอื่นได้โดยการดาวน์โหลดส่วนเสริมที่เกี่ยวข้อง">
 <!ENTITY connection.startRegisteredSimulator "เริ่ม:">
 
@@ -72,11 +73,11 @@
 <!ENTITY projects.title "แอปท้องถิ่น">
 
 
+<!ENTITY projects.updateApp "ปรับรุ่น">
 
+<!ENTITY projects.debugApp "ดีบั๊ก">
 
-
-
-
+<!ENTITY projects.saveManifest "บันทึก">
 
 
 <!ENTITY projects.noProjects "ไม่มีโครงงาน เพิ่มแอปสำเร็จรูปได้จากด้านล่าง (ไดเรกทอรีบนเครื่อง) หรือเพิ่มแอปแม่ข่าย (ลิงก์ไปยังแฟ้มรายการประกาศ)">
