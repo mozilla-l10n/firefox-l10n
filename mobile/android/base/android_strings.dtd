@@ -86,7 +86,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
-<!ENTITY pref_developer_remotedebugging "Fjärravlusning">
+<!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
 <!ENTITY pref_category_home "Startsida">
@@ -206,7 +206,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
-<!ENTITY datareporting_wifi_geolocation_summary "Ta emot Wi-Fi och mobil platsdata när du kör i bakgrunden och delar den med &vendorShortName; för att göra geolocations servicen bättre. ">
+<!ENTITY datareporting_wifi_geolocation_summary "Ta emot Wi-Fi och mobil platsdata när du kör i bakgrunden och delar den med &vendorShortName; för att göra geolocation servicen bättre. ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -283,7 +283,7 @@ size. -->
 
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
 <!ENTITY bookmark_edit_name "Namn">
-<!ENTITY bookmark_edit_location "Adress">
+<!ENTITY bookmark_edit_location "Plats">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -403,7 +403,7 @@ från Android">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
-<!ENTITY updater_start_select2 "Tryck för att hämta">
+<!ENTITY updater_start_select2 "Tryck för att ladda ner ">
 
 <!ENTITY updater_downloading_title2 "Hämtar &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Hämtningen misslyckades">
