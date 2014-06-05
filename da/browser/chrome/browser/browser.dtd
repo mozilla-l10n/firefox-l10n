@@ -167,7 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
-<!ENTITY viewBookmarksSidebar2.label   "Vis i sidebjælken">
+<!ENTITY viewBookmarksSidebar2.label   "Vis i sidepanelet">
 <!ENTITY locationItem.title           "Adressefelt">
 <!ENTITY searchItem.title             "Søgefelt">
 
@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bogmærker">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterede bogmærker">
-<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidebjælke">
+<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanelet">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
-<!ENTITY viewSidebarMenu.label "Sidebjælke">
+<!ENTITY viewSidebarMenu.label "Sidepanel">
 <!ENTITY viewSidebarMenu.accesskey "b">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
@@ -334,7 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tilpas">
-<!ENTITY appMenuSidebars.label "Sidebjælker">
+<!ENTITY appMenuSidebars.label "Sidepaneler">
 
 <!ENTITY appMenuCustomize.label "Tilpas">
 <!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Genskab forrige session">
-<!ENTITY appMenuHistory.viewSidebar.label "Vis sidebjælken Historik">
+<!ENTITY appMenuHistory.viewSidebar.label "Vis sidepanelet Historik">
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
@@ -570,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Åbn et nyt faneblad">
 <!ENTITY newWindowButton.tooltip        "Åbn et nyt vindue">
-<!ENTITY sidebarCloseButton.tooltip     "Luk sidebjælke">
+<!ENTITY sidebarCloseButton.tooltip     "Luk sidepanel">
 
 <!ENTITY fullScreenButton.tooltip       "Vis vinduet i fuldskærmstilstand">
 
@@ -675,7 +675,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Vis sidebjælke">
+<!ENTITY social.toggleSidebar.label "Vis sidepanel">
 <!ENTITY social.toggleSidebar.accesskey "V">
 
 <!ENTITY social.addons.label "Administrer tjenester…">

@@ -315,7 +315,7 @@ size. -->
 <!ENTITY button_set "Indstil">
 <!ENTITY button_clear "Ryd">
 
-<!ENTITY home_top_sites_title "Foretrukne websteder">
+<!ENTITY home_top_sites_title "Mest besøgte websteder">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Tilføj et websted">
