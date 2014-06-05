@@ -26,19 +26,19 @@
 
 <!ENTITY  font.langGroup.latin1                   "Dangayhere">
 <!ENTITY  font.langGroup.latin2                   "Eropu gam">
-
+<!ENTITY  font.langGroup.japanese                 "Žaapoŋ">
 <!ENTITY  font.langGroup.trad-chinese             "Lasal šin (Taywan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Šin faalante">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Lasal šin (Hoŋkoŋ)">
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "Koore">
+<!ENTITY  font.langGroup.cyrillic                 "Siril">
+<!ENTITY  font.langGroup.baltic                   "Balti">
+<!ENTITY  font.langGroup.el                       "Gereki">
+<!ENTITY  font.langGroup.turkish                  "Turki">
 <!ENTITY  font.langGroup.unicode                  "Šenni cindey">
-
-
-
+<!ENTITY  font.langGroup.thai                     "Taayi">
+<!ENTITY  font.langGroup.hebrew                   "Ebere">
+<!ENTITY  font.langGroup.arabic                   "Laaraw">
 <!ENTITY  font.langGroup.devanagari               "Dewanagari">
 <!ENTITY  font.langGroup.tamil                    "Taamil">
 <!ENTITY  font.langGroup.armenian                 "Armeeni">
@@ -72,31 +72,39 @@
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "Harfu hawyanoo woo ga tee gundekuna tubuhaya še kaŋ mongo ka nda hawaroo har.">
 
+<!ENTITY languages.customize.Fallback.auto        "Tilasu sohõ nungu se">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "Laaraw">
+<!ENTITY languages.customize.Fallback.baltic      "Balti">
+<!ENTITY languages.customize.Fallback.ceiso       "Eropu gam (ISO)">
+<!ENTITY languages.customize.Fallback.cewindows   "Eropu gam, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "Šin faalante">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Šin lasal">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "Siril">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Gereki">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Ebere">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Žaapoŋ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Koore">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Taayi">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turki">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Wiyetinam">
-
+<!ENTITY languages.customize.Fallback.other       "Tana (nda Eropu dangay)">
