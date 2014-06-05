@@ -3,36 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File menu items -->
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Відкрити файл…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Open Web Location…">
+<!ENTITY openRemoteCmd.label "Відкрити веб розташування…">
 <!ENTITY openRemoteCmd.accesskey "L">
 <!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Recent Pages">
+<!ENTITY fileRecentMenu.label "Недавні сторінки">
 <!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY saveCmd.label "Save">
+<!ENTITY saveCmd.label "Зберегти">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "Save As…">
+<!ENTITY saveAsCmd.label "Зберегти як…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
+<!ENTITY saveAsChangeEncodingCmd.label "Зберегти та змінити кодування символів">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY publishCmd.label "Publish">
+<!ENTITY publishCmd.label "Опублікувати">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publish As…">
+<!ENTITY publishAsCmd.label "Опублікувати як…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY fileRevert.label "Revert">
+<!ENTITY fileRevert.label "Повернути">
 <!ENTITY fileRevert.accesskey "t">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Publishing Site Settings…">
+<!ENTITY publishSettings.label "Налаштування публікації сайту…">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
-<!ENTITY openToolbarCmd.label "Open">
-<!ENTITY openToolbarCmd.tooltip "Open a local file">
-<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
-<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY openToolbarCmd.label "Відкрити">
+<!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
+<!ENTITY saveToolbarCmd.tooltip "Зберегти файл до локального розташування">
+<!ENTITY publishToolbarCmd.tooltip "Вивантажити файл до віддаленого розташування">
