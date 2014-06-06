@@ -38,19 +38,19 @@
 <!ENTITY healthReportSection.label       "Звіт про здоров'я &brandShortName;">
 <!ENTITY healthReportDesc.label          "Допомагає зрозуміти як працює ваш браузер та надсилає дані про здоров'я у &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Увімкнути звіт про здоров'я &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.accesskey    "з">
 <!ENTITY healthReportLearnMore.label     "Дізнатись більше">
 
 <!ENTITY telemetrySection.label          "Телеметрія">
 <!ENTITY telemetryDesc.label             "Надсилає у &vendorShortName; дані про використання, апаратне забезпечення та налаштування вашого браузера, щоб допомогти нам зробити &brandShortName; кращим">
 <!ENTITY enableTelemetry.label           "Увімкнути телеметрію">
-<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY enableTelemetry.accesskey       "т">
 <!ENTITY telemetryLearnMore.label        "Дізнатись більше">
 
 <!ENTITY crashReporterSection.label      "Звіти про падіння">
 <!ENTITY crashReporterDesc.label         "&brandShortName; надсилає звіти про падіння у &vendorShortName;, щоб допомогти зробити ваш браузер більш стабільним та безпечним">
 <!ENTITY enableCrashReporter.label       "Увімкнути звіти про падіння">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY enableCrashReporter.accesskey   "п">
 <!ENTITY crashReporterLearnMore.label    "Дізнатись більше">
 
 <!ENTITY networkTab.label                "Мережа">
