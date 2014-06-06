@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Детали напоминания">
 <!ENTITY reminder.action.label                             "Выберите действие для напоминания">
 
-<!ENTITY reminder.relation.before.label                    "перед" >
-<!ENTITY reminder.relation.after.label                     "после" >
-
 <!ENTITY reminder.action.alert.label                       "Показать всплывающее окно">
 <!ENTITY reminder.action.email.label                       "Отправить электронное письмо">
 
