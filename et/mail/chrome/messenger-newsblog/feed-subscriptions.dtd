@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Veebilehe laadimise asemel kuvatakse artikli kokkuvõtet">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "Automatselt luuakse sildid uudistevoo &lt;category&gt; väljade põhjal">
+<!ENTITY autotagEnable.accesskey     "t">
+<!ENTITY autotagUsePrefix.label      "Siltidele lisatakse prefiks:">
+<!ENTITY autotagUsePrefix.accesskey  "S">
+<!ENTITY autoTagPrefix.placeholder   "Sisesta prefiks">
+
 <!ENTITY locationValidate.label      "Valideeri">
 <!ENTITY validateText.label          "Valideeri uudistevoogu ja hangi õige url.">
 

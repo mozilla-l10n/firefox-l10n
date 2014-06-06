@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Teist poolt teavitatakse teksti sisestamisest vestlustes">
 <!ENTITY  sendTyping.accesskey          "T">
+
+<!ENTITY  chatNotifications.label             "Uue sõnumi saabumisel:">
+<!ENTITY  desktopChatNotifications.label      "Kuvatakse teavitust">
+<!ENTITY  desktopChatNotifications.accesskey  "u">
+<!ENTITY  chatSound.accesskey                 "h">
+<!ENTITY  chatSound.label                     "antakse märku heliga">
+<!ENTITY  play.label                          "Esita">
+<!ENTITY  play.accesskey                      "E">
+<!ENTITY  systemSound.label                   "süsteemi vaikimisi uue kirja heli">
+<!ENTITY  systemSound.accesskey               "s">
+<!ENTITY  customsound.label                   "kasutatakse järgnevat helifaili">
+<!ENTITY  customsound.accesskey               "a">
+<!ENTITY  browse.label                        "Lehitse…">
+<!ENTITY  browse.accesskey                    "L">
+

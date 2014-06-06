@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label          "E-posti sisu">
+
+<!ENTITY acceptRemoteContent.label         "Kirjades lubatakse väline sisu">
+<!ENTITY acceptRemoteContent.accesskey     "i">
+<!ENTITY remoteContentExceptions.label     "Erandid…">
+<!ENTITY remoteContentExceptions.accesskey "d">
+<!ENTITY acceptRemoteContentInfo.label     "Rohkem teavet välise sisuga seonduvatest privaatsuse probleemidest">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label           "Veebisisu">
+
+<!ENTITY acceptCookies.label               "Küpsised lubatakse">
+<!ENTITY acceptCookies.accesskey           "K">
+<!ENTITY acceptThirdParty.pre.label        "Kolmanda osapoole küpsised lubatakse:">
+<!ENTITY acceptThirdParty.pre.accesskey    "o">
+<!ENTITY acceptThirdParty.always.label     "alati">
+<!ENTITY acceptThirdParty.never.label      "mitte kunagi">
+<!ENTITY acceptThirdParty.visited.label    "varem külastatud saitidelt">
+<!ENTITY keepUntil.label                   "Säilitatakse kuni:">
+<!ENTITY keepUntil.accesskey               "l">
+<!ENTITY expire.label                      "nad aeguvad">
+<!ENTITY close.label                       "&brandShortName; suletakse">
+<!ENTITY askEachTime.label                 "küsitakse iga kord">
+<!ENTITY cookieExceptions.label            "Erandid…">
+<!ENTITY cookieExceptions.accesskey        "E">
+<!ENTITY showCookies.label                 "Näita küpsiseid…">
+<!ENTITY showCookies.accesskey             "S">
+
+<!ENTITY dntTrackingNopref.label2          "Veebilehtedele ei anta mingit teavet jälitamise eelistuste kohta">
+<!ENTITY dntTrackingNopref.accesskey       "V">
+<!ENTITY dntTrackingNotOkay.label2         "Veebilehtedele antakse teada, et jälitamist ei soovita">
+<!ENTITY dntTrackingNotOkay.accesskey      "n">
+<!ENTITY dntTrackingOkay.label2            "Veebilehti teavitatakse soovist olla jälitatud">
+<!ENTITY dntTrackingOkay.accesskey         "t">
+<!ENTITY doNotTrackInfo.label              "Rohkem teavet jälitamisest keeldumise kohta">
+

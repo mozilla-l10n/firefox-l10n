@@ -13,7 +13,7 @@
 <!ENTITY removeallpermissions.accesskey "k">
 <!ENTITY address.label                  "Veebilehe aadress:">
 <!ENTITY address.accesskey              "d">
-<!ENTITY block.label                    "Blokeeri">
+<!ENTITY block.label                    "Bloki">
 <!ENTITY block.accesskey                "B">
 <!ENTITY session.label                  "Luba selleks seansiks">
 <!ENTITY session.accesskey              "s">

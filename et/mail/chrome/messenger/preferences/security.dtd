@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label                "Petukirjad">
 <!ENTITY itemPasswords.label               "Paroolid">
 <!ENTITY itemAntiVirus.label               "Viirustõrje">
-<!ENTITY itemCookies.label                 "Veebisisu">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro                    "Määra oma vaikimisi rämpsposti sätted. Kontopõhiseid rämpsposti sätteid saab häälestada konto sätetes.">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label                   "Viirustõrje tarkvaral lubatakse üksikuid saabuvaid kirju karantiini panna">
 <!ENTITY antiVirus.accesskey               "i">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                     "&brandShortName; võimaldab sul määrata, millised blogid, uudistevood ja muud veebilehed võivad salvestada küpsiseid.">
-<!ENTITY acceptCookies.label               "Küpsised lubatakse">
-<!ENTITY acceptCookies.accesskey           "K">
-<!ENTITY keepUntil.label                   "Säilitatakse kuni:">
-<!ENTITY keepUntil.accesskey               "S">
-<!ENTITY expire.label                      "nad aeguvad">
-<!ENTITY close.label                       "&brandShortName; suletakse">
-<!ENTITY askEachTime.label                 "küsitakse iga kord">
-<!ENTITY cookieExceptions.label            "Erandid…">
-<!ENTITY cookieExceptions.accesskey        "E">
-<!ENTITY showCookies.label                 "Näita küpsiseid…">
-<!ENTITY showCookies.accesskey             "S">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label                  "Veebilehtedele antakse teada, et jälitamist ei soovita">
-<!ENTITY doNotTrack.accesskey              "V">

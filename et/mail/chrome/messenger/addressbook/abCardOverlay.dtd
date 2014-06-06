@@ -47,13 +47,6 @@
 <!ENTITY Unknown.label                 "Tundmatu">
 <!ENTITY chatName.label                "Nimi kiirsuhtluses:">
 
-<!ENTITY allowRemoteContent1.label     "Lubatakse väline sisu.">
-<!ENTITY allowRemoteContent1.accesskey "b">
-<!ENTITY allowRemoteContent1.tooltip   "HTML-kirjades on võimalik kasutada sisu,
-mis pärineb välistest allikatest. Sellise kirja avamisel luuakse ühendus välise
-allikaga. See annab võimaluse jälgida, kas sa lugesid kirja. Linnukese märkmisel
-lubatakse selline väline sisu selle kontakti HTML-kirjades.">
-
 <!ENTITY WorkPhone.label               "Tööl:">
 <!ENTITY WorkPhone.accesskey           "T">
 <!ENTITY HomePhone.label               "Kodus:">
