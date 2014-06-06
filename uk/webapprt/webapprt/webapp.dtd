@@ -9,10 +9,10 @@
    - menus/menuitems. -->
 
 <!ENTITY fileMenu.label                     "Файл">
-<!ENTITY fileMenu.accesskey                 "F">
+<!ENTITY fileMenu.accesskey                 "Ф">
 
 <!ENTITY quitApplicationCmdWin.label        "Вихід">
-<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmdWin.accesskey    "В">
 <!ENTITY quitApplicationCmd.label           "Quit">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
@@ -27,25 +27,25 @@
 <!ENTITY quitApplicationCmdUnix.key          "Q">
 
 <!ENTITY editMenu.label                     "Редагувати">
-<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY editMenu.accesskey                 "Р">
 <!ENTITY undoCmd.label                      "Відмінити">
 <!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY undoCmd.accesskey                  "В">
 <!ENTITY redoCmd.label                      "Повернути">
 <!ENTITY redoCmd.key                        "Y">
-<!ENTITY redoCmd.accesskey                  "R">
+<!ENTITY redoCmd.accesskey                  "П">
 <!ENTITY cutCmd.label                       "Вирізати">
 <!ENTITY cutCmd.key                         "X">
-<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY cutCmd.accesskey                   "р">
 <!ENTITY copyCmd.label                      "Копіювати">
 <!ENTITY copyCmd.key                        "C">
-<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY copyCmd.accesskey                  "К">
 <!ENTITY pasteCmd.label                     "Вставити">
 <!ENTITY pasteCmd.key                       "V">
-<!ENTITY pasteCmd.accesskey                 "P">
+<!ENTITY pasteCmd.accesskey                 "с">
 <!ENTITY deleteCmd.label                    "Видалити">
 <!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "D">
+<!ENTITY deleteCmd.accesskey                "д">
 <!ENTITY selectAllCmd.label                 "Вибрати все">
 <!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY selectAllCmd.accesskey             "б">
