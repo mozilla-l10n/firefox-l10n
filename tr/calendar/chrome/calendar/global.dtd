@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Perşembe" >
 <!ENTITY day.6.name "Cuma" >
 <!ENTITY day.7.name "Cumartesi" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "dakika">
-<!ENTITY calendar.global.units.minutes  "dakika">
-<!ENTITY calendar.global.units.hour     "saat">
-<!ENTITY calendar.global.units.hours    "saat">
-<!ENTITY calendar.global.units.day      "gün">
-<!ENTITY calendar.global.units.days     "gün">
 
 <!ENTITY month.1.name "Ocak" >
 <!ENTITY month.2.name "Şubat" >
