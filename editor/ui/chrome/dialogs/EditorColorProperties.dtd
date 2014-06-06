@@ -6,23 +6,23 @@
 <!ENTITY windowTitle.label "Фон та кольори сторінки">
 <!ENTITY pageColors.label "Кольори сторінки">
 <!ENTITY defaultColorsRadio.label "Типові кольори читача (Не встановлювати кольори на сторінці)">
-<!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
+<!ENTITY defaultColorsRadio.accessKey "Т">
+<!ENTITY defaultColorsRadio.tooltip "Використати налаштування кольору тільки із браузера переглядача (читача)">
 <!ENTITY customColorsRadio.label "Використати власні кольори:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.accessKey "В">
 <!ENTITY customColorsRadio.tooltip "Ці налаштування кольорів не впливають на налаштування браузера читача">
 
 <!ENTITY normalText.label "Звичайний текст">
-<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.accessKey "З">
 <!ENTITY linkText.label "Текст посилання">
-<!ENTITY linkText.accessKey "L">
+<!ENTITY linkText.accessKey "п">
 <!ENTITY activeLinkText.label "Текст активного посилання">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "а">
 <!ENTITY visitedLinkText.label "Текст відвіданого посилання">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY visitedLinkText.accessKey "в">
 <!ENTITY background.label "Фон:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "Ф">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Фонове зображення:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "Use an image file as the background for your page">
+<!ENTITY backgroundImage.accessKey "з">
+<!ENTITY backgroundImage.tooltip "Використати файл зображення як фон для вашої сторінки">
