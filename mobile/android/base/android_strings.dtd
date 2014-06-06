@@ -48,7 +48,7 @@
 
 <!ENTITY go "Перейти">
 <!ENTITY search "Пошук">
-<!ENTITY reload "Перегрузити">
+<!ENTITY reload "Перезавантажити">
 <!ENTITY forward "Вперед">
 <!ENTITY menu "Меню">
 <!ENTITY back "Назад">
@@ -73,9 +73,9 @@
 <!ENTITY pref_category_privacy_short "Приватність">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Вибір даних">
-<!ENTITY pref_category_installed_search_engines "Встановлені пошуковці">
+<!ENTITY pref_category_installed_search_engines "Встановлені пошукові системи">
 <!ENTITY pref_category_add_search_providers "Додати інші джерела">
-<!ENTITY pref_category_search_restore_defaults "Відновити пошуковці">
+<!ENTITY pref_category_search_restore_defaults "Відновити пошукові системи">
 <!ENTITY pref_search_restore_defaults "Відновити типові">
 <!ENTITY pref_search_restore_defaults_summary "Відновити типові">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -83,22 +83,22 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку пошуковців довгим натисканням по його пошуковому полю, а потім тицьнувни по іконці &formatI;.">
+<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку пошуковиків довгим натисканням по його пошуковому полю, а потім тицьнувни по іконці &formatI;.">
 <!ENTITY pref_category_devtools "Інструменти розробника">
 <!ENTITY pref_developer_remotedebugging "Віддалена відладка">
 <!ENTITY pref_developer_remotedebugging_docs "Дізнатись більше">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
 
-<!ENTITY pref_category_home "Доміка">
-<!ENTITY pref_category_home_summary "Налаштуйте стартову сторінку">
+<!ENTITY pref_category_home "Домівка">
+<!ENTITY pref_category_home_summary "Налаштуйте початкову сторінку">
 <!ENTITY pref_category_home_panels "Панелі">
 <!ENTITY pref_home_add_panel "Додати панель">
 <!ENTITY home_add_panel_title "Додати нову панель">
-<!ENTITY home_add_panel_empty "Шкода, ми не знайшли жодних панелей котрі можна було б додати.">
+<!ENTITY home_add_panel_empty "Нажаль ми не знайшли жодних панелей, які можна було б додати.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' додано на стартову">
+<!ENTITY home_add_panel_installed "\'&formatS;\' додано на початкову">
 <!ENTITY pref_category_home_content_settings "Налаштування вмісту">
 <!ENTITY pref_home_updates "Автоматичні оновлення">
 <!ENTITY pref_home_updates_enabled "Увімкнено">
@@ -118,9 +118,9 @@
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
 <!ENTITY pref_donottrack_menu "Відслідковування">
-<!ENTITY pref_donottrack_disallow_tracking "Казати сайтам, що я не хочу щоб мене відслідковували">
-<!ENTITY pref_donottrack_allow_tracking "Казати сайтам, що я хочу щоб мене відслідковували">
-<!ENTITY pref_donottrack_no_pref "Не казати сайтам нічого про моє ставлення до відслідковування">
+<!ENTITY pref_donottrack_disallow_tracking "Повідомляти сайтам, що я не хочу щоб мене відслідковували">
+<!ENTITY pref_donottrack_allow_tracking "Повідомляти сайтам, що я хочу щоб мене відслідковували">
+<!ENTITY pref_donottrack_no_pref "Не повідомляти сайтам нічого про моє ставлення до відслідковування">
 
 <!ENTITY pref_char_encoding "Кодування символів">
 <!ENTITY pref_char_encoding_on "Показувати меню">
