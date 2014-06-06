@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2     'Sinu konto vajab kinnitamist. Kinnitusnõude uuesti saatmiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_credentials       'Pole võimalik ühenduda. Sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_upgrade           'Sisselogimiseks pead uuendama &brandShortName;i.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Andmekasutus ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
+<!ENTITY fxaccount_status_needs_account_enabled   '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Sünkroniseerimise alustamiseks puuduta.'>
 <!ENTITY fxaccount_status_bookmarks               'järjehoidjad'>
 <!ENTITY fxaccount_status_history                 'ajalugu'>
 <!ENTITY fxaccount_status_passwords               'paroolid'>
