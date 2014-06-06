@@ -9,9 +9,6 @@
 
 <!ENTITY newevent.from.label                "Gönderen" >
 <!ENTITY newevent.to.label                  "Alıcı" >
-<!ENTITY newevent.attendees.notify.label    "Katılımcıları uyar">
-
-
 
 <!ENTITY newevent.status.label                    "Durum" >
 <!ENTITY newevent.status.accesskey                "u" >
@@ -31,6 +28,13 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; tamamlandı">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Katılımcıları uyar">
+
+
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">

@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Bu ileti bir etkinliğe davetiyedir.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Kabul et">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Etkinlik davetini kabul et">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Tümünü kabul et">
+
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Ekle">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Etkinliği takvime ekle">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Reddet">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Etkinlik davetini reddet">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tümünü reddet">
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Sil">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Takvimden sil">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Ayrıntılar…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Etkinlik ayrıntılarını göster">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Devamı">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Diğer seçenekleri görmek için tıklayın">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Yeniden onayla">
+
+<!ENTITY lightning.imipbar.btnTentative.label                               "Kesin değil">
+
+
+
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Güncelle">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Takvimdeki etkinliği güncelle">
+<!ENTITY lightning.imipbar.description                                      "Bu ileti bir etkinliğe davetiyedir.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

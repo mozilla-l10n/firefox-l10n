@@ -12,10 +12,19 @@
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Uzun" >
 <!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "Varsayılan olay süresi:" >
-<!ENTITY pref.defaultlength.accesskey "a">
-<!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "y">
+
+<!ENTITY pref.events.label "Etkinlikler">
+<!ENTITY pref.tasks.label "Görevler">
+
+
+
+
+
+<!ENTITY pref.default_task_tomorrow.label "Yarın">
+
+
+
+
 
 <!ENTITY pref.accessibility.label "Erişilebilirlik" >
 <!ENTITY pref.systemcolors.label "Erişilebilirlik için renkleri iyileştir" >
