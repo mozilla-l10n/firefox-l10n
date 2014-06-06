@@ -14,6 +14,7 @@
 <!ENTITY connect    "Verbinden">
 <!ENTITY connecting "Verbinden…">
 <!ENTITY availableAddons "Beschikbare add-ons op extern apparaat:">
+<!ENTITY availableTabs "Beschikbare externe tabbladen:">
 <!ENTITY availableProcesses "Beschikbare externe processen:">
 <!ENTITY connectionError "Fout:">
 <!ENTITY errorTimeout "Fout: time-out van verbinding.">
