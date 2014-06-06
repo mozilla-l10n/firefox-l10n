@@ -105,7 +105,7 @@
 ">
 
 <!ENTITY nssFailure2.title    "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li>
   <li>Należy skontaktować się z właścicielem witryny i poinformować go o tym problemie albo skorzystać z opcji „Zgłoś niedziałającą witrynę” w menu Pomoc.</li>
