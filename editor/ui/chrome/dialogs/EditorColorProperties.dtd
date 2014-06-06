@@ -10,7 +10,7 @@
 <!ENTITY defaultColorsRadio.tooltip "Використати налаштування кольору тільки із браузера переглядача (читача)">
 <!ENTITY customColorsRadio.label "Використати власні кольори:">
 <!ENTITY customColorsRadio.accessKey "В">
-<!ENTITY customColorsRadio.tooltip "Ці налаштування кольорів не впливають на налаштування браузера читача">
+<!ENTITY customColorsRadio.tooltip "Ці налаштування кольорів ігнорують налаштування браузера читача">
 
 <!ENTITY normalText.label "Звичайний текст">
 <!ENTITY normalText.accessKey "З">
@@ -20,9 +20,9 @@
 <!ENTITY activeLinkText.accessKey "а">
 <!ENTITY visitedLinkText.label "Текст відвіданого посилання">
 <!ENTITY visitedLinkText.accessKey "в">
-<!ENTITY background.label "Фон:">
-<!ENTITY background.accessKey "Ф">
+<!ENTITY background.label "Тло:">
+<!ENTITY background.accessKey "Т">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Фонове зображення:">
-<!ENTITY backgroundImage.accessKey "з">
-<!ENTITY backgroundImage.tooltip "Використати файл зображення як фон для вашої сторінки">
+<!ENTITY backgroundImage.label "Зображення для тла:">
+<!ENTITY backgroundImage.accessKey "З">
+<!ENTITY backgroundImage.tooltip "Використати файл зображення як тло для вашої сторінки">
