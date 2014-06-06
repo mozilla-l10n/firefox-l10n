@@ -23,15 +23,15 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Typenotificaties verzenden in conversaties">
 <!ENTITY  sendTyping.accesskey          "T">
 
-<!ENTITY  chatNotifications.label             "Als er berichten aan u geadresseerd arriveren:">
-<!ENTITY  desktopChatNotifications.label      "Notificatie tonen">
-<!ENTITY  desktopChatNotifications.accesskey  "N">
+<!ENTITY  chatNotifications.label             "Als er aan u geadresseerde berichten arriveren:">
+<!ENTITY  desktopChatNotifications.label      "Melding tonen">
+<!ENTITY  desktopChatNotifications.accesskey  "M">
 <!ENTITY  chatSound.accesskey                 "u">
 <!ENTITY  chatSound.label                     "Een geluid afspelen">
 <!ENTITY  play.label                          "Afspelen">
 <!ENTITY  play.accesskey                      "f">
 <!ENTITY  systemSound.label                   "Standaard systeemgeluid voor nieuwe e-mail">
-<!ENTITY  systemSound.accesskey               "s">
+<!ENTITY  systemSound.accesskey               "d">
 <!ENTITY  customsound.label                   "Het volgende geluidsbestand gebruiken">
 <!ENTITY  customsound.accesskey               "v">
 <!ENTITY  browse.label                        "Bladeren…">
