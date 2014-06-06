@@ -30,22 +30,39 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; bietet auch optionale Website-Informationsdienste wie den Add-On-Update-Dienst an; allerdings können wir keine Garantie dafür übernehmen, dass sie 100&#037; genau und fehlerfrei sind. Weitere Details, inklusive Informationen darüber, wie Sie diese Dienste deaktivieren können, finden Sie in den ">
+<!ENTITY rights2.intro-point4a "Einige &brandShortName;-Funktionen verwenden web-basierte Informationsdienste, wie Add-on- oder SafeBrowsing-Dienste. Allerdings können wir keine Garantie dafür übernehmen, dass sie 100&#37; genau und fehlerfrei sind. Weitere Details, inklusive Informationen darüber, wie Sie diese Funktionen deaktivieren können, finden Sie in den 
+">
 <!ENTITY rights.intro-point4b "Service-Bedingungen">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; Website-Dienste">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; verwendet optionale Dienste (&quot;Services&quot;) wie den Add-On-Update-Dienst, die für den Gebrauch mit der Binärversion von &brandShortName; unter den unten angegebenen Bedingungen zur Verfügung gestellt werden. Falls Sie die Dienste nicht verwenden möchten oder die Bedingungen für Sie nicht akzeptabel sind, können Sie den Add-On-Update-Dienst abschalten, indem Sie das Einstellungen-Fenster öffnen, dort die Kategorie ">
-<!ENTITY rights.webservices-b "Erweitert">
-<!ENTITY rights.webservices-c ", gefolgt vom Eintrag ">
-<!ENTITY rights.webservices-d "Software-Installation">
-<!ENTITY rights.webservices-e " wählen, und die Optionen für &quot;utomatisch auf Updates überprüfen für&quot; abwählen.">
+<!ENTITY rights2.webservices-a "&brandFullName; verwendet web-basierte Informationsdienste (&quot;Services&quot;), wie Add-on-Empfehlungen und -Updates oder die SafeBrowsing-Funktion, die Ihnen für den Gebrauch mit der Binaryversion von &brandShortName; unter den unten angegebenen Bedingungen zur Verfügung gestellt werden. Diese Dienste sind standardmäßig aktiviert. Falls Sie die Dienste nicht verwenden möchten oder die Bedingungen für Sie nicht akzeptabel sind, können Sie Anleitungen dafür, wie Sie eine bestimmte Funktion oder einen Service deaktivieren können, ">
+<!ENTITY rights2.webservices-b "hier">
+<!ENTITY rights2.webservices-c "finden. Andere Funktionen und Dienste können in den Anwendungseinstellungen deaktiviert werden.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Add-on-Dienste:">
+<!ENTITY rights.addons-b "Standardmäßig empfiehlt &brandShortName; Add-ons auf der &view.discover.label;-Seite und prüft in regelmäßigen Abständen nach Updates. Wenn Sie diese Funktionen deaktivieren wollen, um die Übertragung von Informationen über installierte Add-ons an den Server zu vermeiden, befolgen Sie folgende Schritte:">
+<!ENTITY rights.addons-term1 "Öffnen Sie die Anwendungseinstellungen">
+<!ENTITY rights.addons-term2 "Wählen Sie das Panel &quot;&smart.label;&quot; in der Kategorie &quot;&advance.label;&quot;">
+<!ENTITY rights.addons-term3 "Wählen Sie die Optionen &quot;&autoAddOnsUpdates.label;&quot; und &quot;&enablePersonalized.label;&quot; ab.">
+<!ENTITY rights.addons-term4 "Die Add-on-Dienste sind jetzt deaktiviert">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Das Deaktivieren von SafeBrowsing wird nicht empfohlen, da Sie auf unsichere Seiten stoßen könnten.  Wenn Sie diese Funktion komplett deaktivieren möchten, führen Sie bitte folgende Schritte aus:">
+<!ENTITY rights.safebrowsing-term1 "Öffnen Sie die Anwendungseinstellungen">
+<!ENTITY rights.safebrowsing-term2 "Wählen Sie das Hauptpanel der Kategorie &quot;&security.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Wählen Sie die Optionen &quot;&blockAttackSites.label;&quot; und &quot;&blockWebForgeries.label;&quot; ab.">
+<!ENTITY rights.safebrowsing-term4 "SafeBrowsing ist nun deaktiviert">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kann die Dienste nach eigenem Ermessen abschalten oder verändern.">
