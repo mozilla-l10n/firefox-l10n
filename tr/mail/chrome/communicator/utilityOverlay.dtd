@@ -31,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Tümünü seç">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "n">
-
-
+<!ENTITY preferencesCmd2.label "Seçenekler">
+<!ENTITY preferencesCmd2.accesskey "e">
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey     "c">
 

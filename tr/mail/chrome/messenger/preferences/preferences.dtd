@@ -13,6 +13,6 @@
 <!ENTITY paneComposition.title    "Düzenleme">
 <!ENTITY paneChat.title           "Sohbet">
 <!ENTITY paneAttachments.title    "Ekler">
-
+<!ENTITY panePrivacy.title        "Gizlilik">
 <!ENTITY paneSecurity.title       "Güvenlik">
 <!ENTITY paneAdvanced.title       "Gelişmiş">

@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Özellikler">
 
 <!ENTITY generalInfo.label                       "Genel bilgiler">
-
-
-
-
+<!ENTITY folderCharsetFallback.label             "Alternatif karakter kodlaması:">
+<!ENTITY folderCharsetFallback.accesskey         "k">
+<!ENTITY folderCharsetEnforce.label              "Dizindeki tüm iletilere kodlamayı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">

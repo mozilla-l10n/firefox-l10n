@@ -15,11 +15,11 @@
 
 <!ENTITY tagsHdr4.label "Etiketler">
 <!ENTITY dateField4.label "Tarih">
+<!ENTITY userAgentField4.label "Kullanıcı istemcisi">
+<!ENTITY referencesField4.label "Referanslar">
+<!ENTITY messageIdField4.label "İleti kimliği">
 
-
-
-
-
+<!ENTITY originalWebsite4.label "Web sitesi">
 
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Posta listesini yanıtla">
 <!ENTITY hdrFollowupButton1.label "Devam iletisi">
 <!ENTITY hdrFollowupButton1.tooltip "Bu haber grubuna bir devam iletisi gönder">
-
+<!ENTITY hdrMenuForwardButton.label "Farklı ilet">
 <!ENTITY hdrForwardButton1.label "İlet">
 <!ENTITY hdrForwardButton1.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton1.label "Gereksiz">

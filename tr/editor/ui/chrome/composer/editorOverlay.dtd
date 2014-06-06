@@ -16,7 +16,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY findBarCmd.label "Bul…">
 <!ENTITY findReplaceCmd.label "Bul ve değiştir…">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Matematik…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Karakterler ve simgeler…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Resimlerin altına satır ekle">

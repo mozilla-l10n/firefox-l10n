@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">
-
-
+<!ENTITY attachMenu.label "Ek">
+<!ENTITY attachMenu.accesskey "E">
 <!ENTITY attachFileCmd.label "Dosya(lar)…">
 <!ENTITY attachFileCmd.accesskey "o">
 <!ENTITY attachFileCmd.key "A">
@@ -88,12 +88,12 @@
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "e">
-
-
-
-
-
-
+<!ENTITY findBarCmd.label "Bul…">
+<!ENTITY findBarCmd.accesskey "B">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Bul ve değiştir…">
+<!ENTITY findReplaceCmd.accesskey "d">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
 <!ENTITY findAgainCmd.accesskey "b">
 <!ENTITY findAgainCmd.key "G">
@@ -154,8 +154,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "c">
 <!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
-
-
+<!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
+<!ENTITY bothFormatCmd.accesskey "z">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.label "Öncelik:">
@@ -176,17 +176,17 @@
 
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "A">
-
-
+<!ENTITY messengerCmd.label "Posta ve haber grupları">
+<!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "Hesap ayarları…">
+<!ENTITY accountManagerCmd2.accesskey "a">
 
-
-
-
-
+<!ENTITY preferencesCmd2.label "Seçenekler">
+<!ENTITY preferencesCmd2.accesskey "S">
 <!ENTITY preferencesCmdUnix.label "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey "c">
 <!--  Mac OS X Window Menu -->

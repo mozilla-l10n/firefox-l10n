@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Varsayılanı yükle">
 <!ENTITY useDefault.accesskey             "V">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Uygulama simgesi tercihlerini değiştir">
+<!ENTITY dockOptions.label                "Uygulama simgesi seçenekleri…">
+<!ENTITY dockOptions.accesskey            "m">
 
 <!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
 <!ENTITY playSound.label                  "Ses dosyası çal">
@@ -21,7 +22,8 @@
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-
+<!ENTITY showTrayIcon.label               "Sistem tepsisinde simge göster">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">

@@ -17,6 +17,8 @@
 
 <!ENTITY feedWindowTitle.label "Besleme Hesabı Sihirbazı">
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.wizardShortName "Beslemeler">
 
+<!ENTITY feeds.accountName "Bloglar ve haber beslemeleri">
+<!ENTITY feeds.wizardShortName "Beslemeler">
+<!ENTITY feeds.wizardLongName "Bloglar ve haber beslemeleri">
 <!ENTITY feeds.wizardLongName.accesskey "G">

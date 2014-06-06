@@ -23,16 +23,17 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Yazışmalarda yazma bildirimleri gönder">
 <!ENTITY  sendTyping.accesskey          "Y">
 
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Bana gönderilen mesajlar ulaştığında:">
+<!ENTITY  desktopChatNotifications.label      "Bildirim göster">
+<!ENTITY  desktopChatNotifications.accesskey  "B">
+<!ENTITY  chatSound.accesskey                 "S">
+<!ENTITY  chatSound.label                     "Ses çal">
+<!ENTITY  play.label                          "Oynat">
+<!ENTITY  play.accesskey                      "O">
+<!ENTITY  systemSound.label                   "Yeni posta için varsayılan sistem sesi">
+<!ENTITY  systemSound.accesskey               "Y">
 <!ENTITY  customsound.label                   "Aşağıdaki ses dosyasını kullan">
 <!ENTITY  customsound.accesskey               "s">
-
-
+<!ENTITY  browse.label                        "Gözat…">
+<!ENTITY  browse.accesskey                    "B">
 

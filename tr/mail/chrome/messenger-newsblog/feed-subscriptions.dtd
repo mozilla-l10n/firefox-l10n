@@ -19,10 +19,11 @@
 <!ENTITY quickMode.label             "Web sayfasını yüklemek yerine haber özetini göster">
 <!ENTITY quickMode.accesskey         "ö">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Besleme &lt;kategori&gt; adlarından otomatik olarak etiket oluştur">
+<!ENTITY autotagEnable.accesskey     "B">
+<!ENTITY autotagUsePrefix.label      "Etiketlere ön ek ekle:">
+<!ENTITY autotagUsePrefix.accesskey  "ö">
+<!ENTITY autoTagPrefix.placeholder   "Etiket ön eki girin">
 
 <!ENTITY locationValidate.label      "Doğrula">
 <!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">

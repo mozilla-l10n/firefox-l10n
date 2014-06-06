@@ -7,5 +7,5 @@
 <!ENTITY identityListDesc.label "Bu kimlik için ayarları yapılandır:">
 
 <!ENTITY settingsTab.label       "Ayarlar">
-
-
+<!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">
+<!ENTITY addressingTab.label    "Kompozisyon ve adresler">

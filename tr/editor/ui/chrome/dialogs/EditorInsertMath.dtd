@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Math ekle">
+
+<!ENTITY sourceEditField.label "LaTeX kaynak kodunu girin:">
 
 <!ENTITY options.label "Seçenekler">
-
-
-
-
-
-
-
-
+<!ENTITY optionInline.label "Satır içi modu">
+<!ENTITY optionInline.accesskey "S">
+<!ENTITY optionDisplay.label "Görünüm modu">
+<!ENTITY optionDisplay.accesskey "G">
+<!ENTITY optionLTR.label "Soldan sağa">
+<!ENTITY optionLTR.accesskey "o">
+<!ENTITY optionRTL.label "Sağdan sola">
+<!ENTITY optionRTL.accesskey "a">
 
 <!ENTITY example.label "Örnek: ">
 <!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->

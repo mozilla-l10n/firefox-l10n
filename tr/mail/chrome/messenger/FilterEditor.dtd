@@ -28,7 +28,7 @@
 <!ENTITY filterActionDesc.accesskey "u">
 
 <!ENTITY filterActionOrderWarning.label "Not: Filtre eylemleri farklı bir sırayla çalıştırılacaktır.">
-
+<!ENTITY filterActionOrder.label "Çalıştırma sırasını gör">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "İletiyi taşı">

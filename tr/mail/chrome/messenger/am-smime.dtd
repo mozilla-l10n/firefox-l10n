@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "A">
 <!ENTITY alwaysEncryptMessage.label "Gerekli (alıcıların onay belgesi yoksa ileti gönderilemez)">
 <!ENTITY alwaysEncryptMessage.accesskey "G">
-
+<!ENTITY encryptionCert.message "Bana gönderilen iletileri şifrelemek ve çözmek için bu onay belgesini kullan:">
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Temizle">

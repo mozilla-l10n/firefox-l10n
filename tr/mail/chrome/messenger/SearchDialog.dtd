@@ -13,8 +13,8 @@
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Aç ">
 <!ENTITY openButton.accesskey        "A">
-
-
+<!ENTITY deleteButton.label          "Sil">
+<!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "İletilerde ara">
 <!ENTITY results.label               "Sonuçlar">
 
@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "z">
 <!ENTITY composeButton.label         "Oluştur">
 <!ENTITY composeButton.accesskey     "t">
-
-
+<!ENTITY deleteCardButton.label      "Sil">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 <!-- Thread Pane -->
 
@@ -56,6 +56,8 @@
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alınma sırası">
 <!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
 
 
 
