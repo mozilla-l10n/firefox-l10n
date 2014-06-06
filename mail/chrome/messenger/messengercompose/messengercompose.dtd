@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label                  "Vali kõik">
 <!ENTITY selectAllCmd.key                    "A">
 <!ENTITY selectAllCmd.accesskey              "i">
-<!ENTITY findCmd.label                       "Otsi ja asenda...">
-<!ENTITY findCmd.key                         "F">
-<!ENTITY findCmd.accesskey                   "O">
+<!ENTITY findBarCmd.label                    "Otsi…">
+<!ENTITY findBarCmd.accesskey                "O">
+<!ENTITY findBarCmd.key                      "F">
+<!ENTITY findReplaceCmd.label                "Otsi ja asenda…">
+<!ENTITY findReplaceCmd.accesskey            "j">
 <!ENTITY findReplaceCmd.key                  "H">
 <!ENTITY findAgainCmd.label                  "Otsi uuesti">
-<!ENTITY findAgainCmd.key                    "G">
 <!ENTITY findAgainCmd.accesskey              "u">
+<!ENTITY findAgainCmd.key                    "G">
 <!ENTITY findAgainCmd.key2                   "VK_F3">
 <!ENTITY findPrevCmd.label                   "Otsi eelmine">
+<!ENTITY findPrevCmd.accesskey               "O">
 <!ENTITY findPrevCmd.key                     "G">
 <!ENTITY findPrevCmd.key2                    "VK_F3">
-<!ENTITY findPrevCmd.accesskey               "O">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                      "Vaade">
@@ -126,7 +128,7 @@
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label                   "Valikud">
-<!ENTITY optionsMenu.accesskey               "V">
+<!ENTITY optionsMenu.accesskey               "l">
 <!ENTITY checkSpellingCmd2.label             "Õigekirja kontroll..">
 <!ENTITY checkSpellingCmd2.key               "k">
 <!ENTITY checkSpellingCmd2.key2              "VK_F7">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label                "Aadressiraamat">
 <!ENTITY addressBookCmd.accesskey            "A">
 <!ENTITY addressBookCmd.key                  "B">
-<!ENTITY accountManagerCmd.label             "Kontode sätted...">
-<!ENTITY accountManagerCmd.accesskey         "K">
-<!ENTITY accountManagerCmdUnix.accesskey     "S">
-<!ENTITY preferencesCmd.label                "Valikud...">
-<!ENTITY preferencesCmd.accesskey            "V">
+<!ENTITY accountManagerCmd2.label            "Kontode sätted">
+<!ENTITY accountManagerCmd2.accesskey        "K">
+<!ENTITY accountManagerCmdUnix2.accesskey    "S">
+<!ENTITY preferencesCmd2.label               "Valikud">
+<!ENTITY preferencesCmd2.accesskey           "V">
 <!ENTITY preferencesCmdUnix.label            "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey        "E">
 
@@ -222,7 +224,7 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style                  "width: 11em;">
 <!ENTITY fromAddr.label                      "Saatja:">
-<!ENTITY fromAddr.accesskey                  "t">
+<!ENTITY fromAddr.accesskey                  "j">
 <!ENTITY toAddr.label                        "Saaja:">
 <!ENTITY ccAddr.label                        "Koopia:">
 <!ENTITY bccAddr.label                       "Pimekoopia:">
@@ -230,7 +232,7 @@
 <!ENTITY newsgroupsAddr.label                "Uudistegrupp:">
 <!ENTITY followupAddr.label                  "Järg postitusele:">
 <!ENTITY subject.label                       "Teema:">
-<!ENTITY subject.accesskey                   "T">
+<!ENTITY subject.accesskey                   "e">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey               "M">
@@ -300,3 +302,4 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label         "Kontaktid">
+

@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title   "Koostamine">
 <!ENTITY paneChat.title          "Kiirsuhtlus">
 <!ENTITY paneAttachments.title   "Manused">
+<!ENTITY panePrivacy.title       "Privaatsus">
 <!ENTITY paneSecurity.title      "Turvalisus">
 <!ENTITY paneAdvanced.title      "Muud">
