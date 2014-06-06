@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Эл. Почта:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Это письмо содержит приглашение на событие.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Подтвердить">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Подтвердить приглашение на событие">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Подтвердить все">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Подтвердить приглашение на все повторения события">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Добавить">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Добавить событие в календарь">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Отказаться">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Отказаться от приглашения на событие">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Отказаться от всех">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Отказаться от приглашения на все повторения события">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Удалить">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Удалить из календаря">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Подробнее…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Показать детали события">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Больше">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Щёлкните чтобы увидеть больше параметров">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Вновь подтвердить">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Вновь отправить подтверждение организатору">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Возможно">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Подтвердить участие в событии как возможное">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Возможно для всех">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Подтвердить участие в событии как возможное для всех повторений события">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Обновить">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Обновить событие в календаре">
+<!ENTITY lightning.imipbar.description                                      "Это письмо содержит приглашение на событие.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
@@ -61,3 +85,4 @@
 <!ENTITY todaypane.showTodayPane.label "Показывать Мероприятия">
 <!ENTITY todaypane.showTodayPane.accesskey "М">
 <!ENTITY todaypane.statusButton.label "Мероприятия">
+
