@@ -333,8 +333,8 @@
 <!ENTITY invite.title.label                     "Zaproś uczestników">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Sugeruj okienko:">
-<!ENTITY event.freebusy.next.slot               "Następne okienko " >
-<!ENTITY event.freebusy.previous.slot           " Poprzednie okienko" >
+<!ENTITY event.freebusy.button.next.slot               "Następne okienko " >
+<!ENTITY event.freebusy.button.previous.slot           " Poprzednie okienko" >
 <!ENTITY event.freebusy.zoom                    "Powiększ:">
 <!ENTITY event.freebusy.legend.free             "Wolny" >
 <!ENTITY event.freebusy.legend.busy             "Zajęty" >
