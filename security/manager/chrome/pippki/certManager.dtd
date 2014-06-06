@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label               "Sertifikaadi verifitseerimine...">
 <!ENTITY certmgr.subjectinfo.label           "Omanik">
 <!ENTITY certmgr.issuerinfo.label            "Väljaandja">
-<!ENTITY certmgr.validity.label              "Kehtivus">
+<!ENTITY certmgr.periodofvalidity.label      "Kehtivusaeg">
 <!ENTITY certmgr.fingerprints.label          "Sõrmejälg">
 <!ENTITY certmgr.certdetail.title            "Sertifikaadi üksikasjad">
 <!ENTITY certmgr.certdetail.cn               "Üldnimi (CN)">
@@ -59,8 +59,8 @@
 <!ENTITY certmgr.certserver                  "Server">
 <!ENTITY certmgr.override_lifetime           "Eluaeg">
 <!ENTITY certmgr.tokenname                   "Turvaseade">
-<!ENTITY certmgr.issued                      "Välja antud">
-<!ENTITY certmgr.expires                     "Aegumine">
+<!ENTITY certmgr.begins                      "Kehtiv alates">
+<!ENTITY certmgr.expires                     "Kehtiv kuni">
 <!ENTITY certmgr.email                       "E-posti aadress">
 <!ENTITY certmgr.serial                      "Seerianumber">
 
