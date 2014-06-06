@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "ч">
 <!ENTITY pref.defaultemail.label "Адрес по умолчанию для отправки оповещений:">
 <!ENTITY pref.defaulttext.label "Текст по умолчанию для оповещений:">
+
+<!ENTITY pref.defaultsnoozelength.label "По умолчанию отложить на:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "ж">

@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Пятница" >
 <!ENTITY day.7.name "Суббота" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "минута">
-<!ENTITY calendar.global.units.minutes  "минуты">
-<!ENTITY calendar.global.units.hour     "час">
-<!ENTITY calendar.global.units.hours    "часы">
-<!ENTITY calendar.global.units.day      "день">
-<!ENTITY calendar.global.units.days     "дни">
-
 <!ENTITY month.1.name "Января" >
 <!ENTITY month.2.name "Февраля" >
 <!ENTITY month.3.name "Марта" >

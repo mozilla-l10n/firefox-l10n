@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "Ф">
 <!ENTITY pref.dateformat.long "Полный" >
 <!ENTITY pref.dateformat.short "Краткий"  >
-<!ENTITY pref.defaultlength.label "По умолчанию продолжительность события:" >
-<!ENTITY pref.defaultlength.accesskey "П">
-<!ENTITY pref.defaultsnoozelength.label "По умолчанию откладывать оповещение на:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "о">
+
+<!ENTITY pref.defaults.label "Значения по умолчанию для новых">
+<!ENTITY pref.events.label "Событий">
+<!ENTITY pref.tasks.label "Задач">
+
+<!ENTITY pref.default_event_length.label "Продолжительность по умолчанию:" >
+<!ENTITY pref.default_event_length.accesskey "П">
+
+<!ENTITY pref.default_task_none.label "Нет">
+<!ENTITY pref.default_task_start_of_day.label "В начале дня">
+<!ENTITY pref.default_task_end_of_day.label "В конце дня">
+<!ENTITY pref.default_task_tomorrow.label "Завтра">
+<!ENTITY pref.default_task_next_week.label "На следующей неделе">
+<!ENTITY pref.default_task_offset_current.label "Относительно текущего времени">
+<!ENTITY pref.default_task_offset_start.label "Относительно начала">
+<!ENTITY pref.default_task_offset_next_hour.label "Относительно следующего часа">
 
 <!ENTITY pref.accessibility.label "Общедоступность" >
 <!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
