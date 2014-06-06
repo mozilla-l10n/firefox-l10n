@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Fada" >
 <!ENTITY pref.dateformat.short "Goirid"  >
-<!ENTITY pref.defaultlength.label "Faid bhunaiteach de thachartas:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Faid bhunaiteach an dùsail:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.defaults.label "Luachan bunaiteach airson nithean ùra">
+<!ENTITY pref.events.label "Tachartasan">
+<!ENTITY pref.tasks.label "Saothraichean">
+
+<!ENTITY pref.default_event_length.label "An fhaid bhunaiteach:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Chan eil gin">
+<!ENTITY pref.default_task_start_of_day.label "Toiseach an latha">
+<!ENTITY pref.default_task_end_of_day.label "Deireadh an latha">
+<!ENTITY pref.default_task_tomorrow.label "A-màireach">
+<!ENTITY pref.default_task_next_week.label "An ath-sheachdain">
+<!ENTITY pref.default_task_offset_current.label "Dàimheach ris an àm làithreach">
+<!ENTITY pref.default_task_offset_start.label "Dàimheach ris an toiseach">
+<!ENTITY pref.default_task_offset_next_hour.label "Dàimheach ris an an-uair">
 
 <!ENTITY pref.accessibility.label "So-inntrigeachd" >
 <!ENTITY pref.systemcolors.label "Pisich na dathan a chum so-inntrigeachd" >

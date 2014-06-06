@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Post-dealain:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Tha cuireadh gu tachartas san teachdaireachd seo.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Gabh ris">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Gabh ri cuireadh an tachartais">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Gabh ris a h-uile">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Gabh ris a' chuireadh airson gach aon tachartas dheth">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Cuir ris">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Cuir an tachartas ris a' mhìosachan">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Diùlt">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Diùlt cuireadh an tachartais">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Diùlt na h-uile">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Diùlt gach cuireadh gun tachartas">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Sguab às">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Sguab às a' mhìosachan">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Mion-fhiosrachadh…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Seall mion-fhiosrachadh an tachartais">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Barrachd">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Dèan briogadh airson barrachd roghainnean">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ath-dhearbh">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Cuiridh seo ath-dhearbhadh gun eagraiche">
+<!ENTITY lightning.imipbar.btnTentative.label                               "An dòchas">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Gabh ri cuireadh an tachartais gun chinnt">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Gach aon gun chinnt">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Gabh ri gach cuireadh an tachartais gun chinnt">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Ùraich">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ùraich an tachartas sa mhìosachan">
+<!ENTITY lightning.imipbar.description                                      "Tha cuireadh gu tachartas san teachdaireachd seo.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "DiarDaoin" >
 <!ENTITY day.6.name "DihAoine" >
 <!ENTITY day.7.name "DiSathairne" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "mionaid">
-<!ENTITY calendar.global.units.minutes  "mionaid(ean)">
-<!ENTITY calendar.global.units.hour     "uair a thìde">
-<!ENTITY calendar.global.units.hours    "uair(ean) a thìde">
-<!ENTITY calendar.global.units.day      "latha">
-<!ENTITY calendar.global.units.days     "là(ithean)">
 
 <!ENTITY month.1.name "Am Faoilleach" >
 <!ENTITY month.2.name "An Gearran" >
