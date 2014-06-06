@@ -13,7 +13,7 @@
 <!ENTITY port       "Kotay-mee:">
 <!ENTITY connect    "Ciya">
 <!ENTITY connecting "Goo ma ciya…">
-
+<!ENTITY availableAddons "Nor loku moorey kaŋ ga bara:">
 <!ENTITY availableTabs "Nor loku moorante barantey:">
 <!ENTITY availableProcesses "Koyjineyan moorante barantey:">
 <!ENTITY connectionError "Firka:">
@@ -24,5 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-
+<!ENTITY remoteHelp "Firefox cinakaw goyjinawey ga hin ka jinay moorey hanse (sanda Firefox Android se nda Firefox OS). Alhakiika kaŋ war na 'Hanseyan mooray' suubaroo tunandi jinay mooraa ga. Ka bay ka tonton, caw ne ">
+<!ENTITY remoteDocumentation "fahamandi tiira">
+<!ENTITY remoteHelpSuffix ".">
 

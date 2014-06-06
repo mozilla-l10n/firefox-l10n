@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "Bata dumi">
-
-
+<!ENTITY margin.tooltip         "hirri">
+<!ENTITY border.tooltip         "ceraw">
 <!ENTITY padding.tooltip        "gamhaya">
 <!ENTITY content.tooltip        "gundekuna">

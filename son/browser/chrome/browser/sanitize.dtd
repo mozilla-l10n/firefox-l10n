@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Taariki">
 <!ENTITY dataSection.label            "Bayhayey">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Ceeciyan nda zumandiyan taariki">
+<!ENTITY itemHistoryAndDownloads.accesskey "C">
+<!ENTITY itemFormSearchHistory.label       "Takari nda ceeciyan taariki">
+<!ENTITY itemFormSearchHistory.accesskey   "T">
 <!ENTITY itemPasswords.label               "Šennikufal gaabuntey">
 <!ENTITY itemPasswords.accesskey           "n">
 <!ENTITY itemCookies.label                 "Aleewawey">
