@@ -124,10 +124,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Strona, którą próbujesz otworzyć, nie może zostać wyświetlona, ponieważ nie udało się zweryfikować autentyczności danych.</li>
-  <li>Skontaktuj się z administratorem strony, aby poinformować go o tym problemie, lub skorzystaj z opcji w menu pomocy, aby zgłosić niedziałającą stronę.</li>
+  <li>Skontaktuj się z administratorem strony, aby poinformować go o tym problemie.</li>
 </ul>
 ">
 
