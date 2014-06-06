@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "O" >
 <!ENTITY newevent.to.label                  "Gu" >
-<!ENTITY newevent.attendees.notify.label    "Cuir fios dha na freastalaichean">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Na seall na freastalaichean ann an cuiridhean">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Ma chuireas tu seo an comas, chan fhaic na freastalaichean a chèile ann an cuiridhean. Cha bhi buaidh aige seo ach ann an cuiridhean puist-d.">
 
 <!ENTITY newevent.status.label                    "Staid" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -32,6 +28,13 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; deiseil">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Cuir fios dha na freastalaichean">
+<!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh an t-aon do gach frithealaiche">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
