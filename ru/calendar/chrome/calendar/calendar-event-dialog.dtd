@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "По" >
 <!ENTITY newevent.attendees.notify.label    "Уведомить участников">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Сделать участников невидимыми в приглашениях">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Если выбрано, участники не будут видеть друг друга в приглашениях. Применяется только при приглашениях по электронной почте.">
+
 <!ENTITY newevent.status.label                    "Состояние" >
 <!ENTITY newevent.status.accesskey                "я" >
 <!ENTITY newevent.eventStatus.none.label          "Не указано" >
@@ -99,14 +102,8 @@
 <!ENTITY  event.menu.options.accesskey                        "Н">
 <!ENTITY  event.menu.options.attendees.label                  "Пригласить участников…">
 <!ENTITY  event.menu.options.attendees.accesskey              "П">
-<!ENTITY  event.menu.options.spellcheck.label                 "Проверка орфографии…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "ф">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Проверять орфографию при наборе текста">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "р">
-<!ENTITY  event.menu.options.link.label                       "Добавить ссылку…">
-<!ENTITY  event.menu.options.link.accesskey                   "Д">
-<!ENTITY  event.menu.options.timezone2.label                   "Часовой пояс">
-<!ENTITY  event.menu.options.timezone2.accesskey               "Ч">
+<!ENTITY  event.menu.options.timezone2.label                  "Часовой пояс">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Ч">
 <!ENTITY  event.menu.options.priority2.label                  "Приоритет">
 <!ENTITY  event.menu.options.priority2.accesskey              "р">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Не определен">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.label                      "Удалить">
 <!ENTITY  event.toolbar.attendees.label                   "Пригласить участников">
-<!ENTITY  event.toolbar.spellcheck.label                  "Проверка орфографии">
 <!ENTITY  event.toolbar.privacy.label                     "Приватность">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Сохранить и закрыть">
 <!ENTITY  event.toolbar.delete.tooltip                    "Удалить">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Пригласить участников">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Проверка орфографии">
 <!ENTITY  event.toolbar.attachments.tooltip               "Добавить вложение">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Изменить приватность">
 <!ENTITY  event.toolbar.priority.tooltip                  "Изменить приоритет">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Категория:">
 <!ENTITY event.categories.accesskey                       "К">
 <!ENTITY event.categories.textbox.label                   "Добавить новую категорию" >
-<!ENTITY event.categories.textbox.accesskey               "ю">
 <!ENTITY event.calendar.label                             "Календарь:" >
 <!ENTITY event.calendar.accesskey                         "а">
 <!ENTITY event.attendees.label                            "Участники:" >
@@ -374,6 +368,5 @@
 <!ENTITY read.only.reminder.label        "Напоминание:">
 <!ENTITY read.only.attendees.label       "Участники">
 <!ENTITY read.only.description.label     "Описание">
-<!ENTITY read.only.documents.label       "Документы">
 <!ENTITY read.only.link.label            "Связанная ссылка">
 
