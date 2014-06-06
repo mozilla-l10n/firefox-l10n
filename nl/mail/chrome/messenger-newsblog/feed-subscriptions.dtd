@@ -21,12 +21,12 @@
 
 <!ENTITY autotagEnable.label         "Automatisch labels van feed-&lt;categorie&gt;-namen aanmaken">
 <!ENTITY autotagEnable.accesskey     "l">
-<!ENTITY autotagUsePrefix.label      "Labels vooraf laten gaan door:">
+<!ENTITY autotagUsePrefix.label      "Labels laten voorafgaan door:">
 <!ENTITY autotagUsePrefix.accesskey  "v">
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
 
 <!ENTITY locationValidate.label      "Valideren">
-<!ENTITY validateText.label          "Controleer validatie en haal een geldige url op.">
+<!ENTITY validateText.label          "Controleer validatie en haal een geldige URL op.">
 
 <!ENTITY button.addFeed.label        "Toevoegen">
 <!ENTITY button.addFeed.accesskey    "T">
