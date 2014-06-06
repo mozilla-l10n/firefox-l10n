@@ -34,6 +34,8 @@
 <!ENTITY removeTagButton.label     "Sil">
 <!ENTITY removeTagButton.accesskey "l">
 <!-- Fonts and Colors -->
+
+<!ENTITY fontsAndColors1.label   "Yazı tipleri ve renkler">
 <!ENTITY defaultFont.label       "Varsayılan yazı tipi:">
 <!ENTITY defaultFont.accesskey   "z">
 <!ENTITY defaultSize.label       "Boyut:">

@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Renkler">
-
+<!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Yukarıdaki seçimlerimin yerine, içeriğin kendi renklerini seçmesine izin ver">
 <!ENTITY  allowPagesToUse.accesskey       "i">
 
 <!ENTITY  color                           "Metin ve arka plan">
-
-
+<!ENTITY  textColor.label                 "Metin:">
+<!ENTITY  textColor.accesskey             "M">
 <!ENTITY  backgroundColor.label           "Arka plan:">
 <!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">

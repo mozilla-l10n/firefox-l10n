@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Genel">
-
+<!ENTITY itemDisplay.label       "Okuma ve görünüm">
 <!ENTITY itemUpdate.label        "Güncelleme">
-
+<!ENTITY itemNetworking.label    "Ağ ve disk alanı">
 <!ENTITY itemCertificates.label  "Onay belgeleri">
 <!-- General Settings -->
 
@@ -63,7 +63,9 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
 <!-- Update -->
 
-
+<!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
+<!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
+<!ENTITY updateAuto.accesskey            "o">
 <!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
 <!ENTITY updateCheck.accesskey           "d">
 <!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">

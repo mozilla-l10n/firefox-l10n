@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "n">
 <!ENTITY signatureHtml.label "HTML kullan (örn. &lt;b&gt;kalın&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-
-
+<!ENTITY signatureFile.label "Bunun yerine imzayı bir dosyadan ekle (metin, HTML veya resim):">
+<!ENTITY signatureFile.accesskey "d">
 <!ENTITY edit.label "Düzenle…">
 <!ENTITY choose.label "Seçin…">
 <!ENTITY choose.accesskey "e">

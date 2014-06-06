@@ -6,8 +6,8 @@
 <!ENTITY matchAll.accesskey "n">
 <!ENTITY matchAny.label     "Aşağıdakilerin herhangi biriyle eşleştir">
 <!ENTITY matchAny.accesskey "h">
-
-
+<!ENTITY matchAllMsgs.label     "Tüm iletilerle eşleştir">
+<!ENTITY matchAllMsgs.accesskey "T">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
