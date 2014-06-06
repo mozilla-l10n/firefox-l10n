@@ -26,7 +26,7 @@
 <!ENTITY calendar.events.filter.next31Days.label "События на следующие 31 дней">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "События на этот месяц">
 
-<<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Готово">
