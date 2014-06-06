@@ -3,11 +3,11 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
 <!ENTITY fileExceedsLimit.thatsBigFile   "Het versturen van bestanden groter dan 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "is een premiumeigenschap.">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "is een Premium-eigenschap.">
 <!ENTITY fileExceedsLimit.accept "Upgraden">
 <!ENTITY fileExceedsLimit.cancel "Annuleren">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Upgrade nu om dit bestand te versturen plus:">
+<!ENTITY fileExceedsLimit.proIncludes "Upgrade nu om dit bestand te versturen, plus:">
 <!ENTITY fileExceedsLimit.pros1 "Bestanden en mappen tot 2GB te versturen">
 <!ENTITY fileExceedsLimit.pros2 "Onbeperkt bestanden online op te slaan">
 <!ENTITY fileExceedsLimit.pros3 "Toegang en delen van bestanden vanaf overal">
