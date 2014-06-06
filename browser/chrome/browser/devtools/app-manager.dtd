@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "Apparaat">
 <!ENTITY index.help "Help">
 
+<!ENTITY device.debugMainProcess "Debug hoofdproces">
+<!ENTITY device.debugMainProcessTooltip "Open de ontwikkelaarshulpmiddelen verbonden met het hoofdproces op het apparaat">
 <!ENTITY device.screenshot "Schermafbeelding">
 <!ENTITY device.screenshotTooltip "Een schermafbeelding van de huidige status van het apparaat openen in een nieuw tabblad">
 <!ENTITY device.title "Apparaatbeheercentrum">
