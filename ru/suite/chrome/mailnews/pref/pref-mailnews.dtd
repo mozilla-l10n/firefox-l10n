@@ -17,6 +17,11 @@
 <!ENTITY setDefaultNews.accesskey "ф">
 <!ENTITY setDefaultFeed.label "Лент новостей">
 <!ENTITY setDefaultFeed.accesskey "е">
+<!ENTITY useInternalSettings.description "Использовать Почту и Новости &brandShortName; при открытии в браузере ссылок на:">
+<!ENTITY useInternalMail.label "Почту (mailto:)">
+<!ENTITY useInternalMail.accesskey "о">
+<!ENTITY useInternalNews.label "Новости (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey "в">
 <!ENTITY messengerStartPage.caption "Начальная страница">
 <!ENTITY enableStartPage.label "Показывать стартовую страницу в области просмотра сообщения при запуске почтового клиента">
 <!ENTITY enableStartPage.accesskey "с">
@@ -25,4 +30,4 @@
 <!ENTITY useDefault.label "Восстановить">
 <!ENTITY useDefault.accesskey "т">
 <!ENTITY rememberLastMsg.label "Запоминать последнее выбранное сообщение">
-<!ENTITY rememberLastMsg.accesskey "З">
+<!ENTITY rememberLastMsg.accesskey "п">
