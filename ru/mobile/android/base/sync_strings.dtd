@@ -112,6 +112,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
+<!ENTITY fxaccount_status_device_name "Имя устройства">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "Синхронизация: включена">
 <!ENTITY fxaccount_status_needs_verification2 "Ваша учетная запись должна быть подтверждена. Нажмите, чтобы снова отправить письмо для подтверждения.">
