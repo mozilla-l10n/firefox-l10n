@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle "about:rights">
 <!ENTITY rights.intro-header "I tuoi diritti">
@@ -11,15 +15,25 @@
 <!ENTITY rights.intro-point3a "L'informativa sulla privacy di &vendorShortName; è disponibile ">
 <!ENTITY rights.intro-point3b "a questo indirizzo">
 <!ENTITY rights.intro-point3c ".">
-<!ENTITY rights.intro-point4a "&brandShortName; offre alcuni servizi opzionali, come ad esempio il servizio di aggiornamento dei componenti aggiuntivi, di cui non è però possibile garantire l'accuratezza e la correttezza al 100&#037;. Ulteriori dettagli, comprese indicazioni per disattivarli, sono disponibili ">
+<!ENTITY rights2.intro-point4a "&brandShortName; offre servizi opzionali di informazioni sui siti web, come i Servizi componenti aggiuntivi o il Safe Browsing; tuttavia  non possiamo garantire che siano accurati al 100&#037; o privi di errori. Maggiori dettagli, incluse le informazioni su come disabilitare questi servizi, possono essere trovati ">
 <!ENTITY rights.intro-point4b "nei termini di utilizzo">
 <!ENTITY rights.intro-point4c ".">
 <!ENTITY rights.webservices-header "Servizi web di &brandFullName;">
-<!ENTITY rights.webservices-a "&brandFullName; utilizza alcuni servizi web (&quot;Servizi&quot;), come ad esempio il servizio di aggiornamento dei componenti distribuiti con questa versione dell'eseguibile di &brandShortName; nei termini descritti di seguito. Se non si desidera utilizzare tali Servizi oppure i termini di utilizzo risultano inaccettabili, è possibile disattivare il servizio di aggiornamento dei componenti selezionando le preferenze dell'applicazione, quindi la sezione ">
-<!ENTITY rights.webservices-b "Avanzate">
-<!ENTITY rights.webservices-c ", e infine la voce ">
-<!ENTITY rights.webservices-d "Installazione programmi">
-<!ENTITY rights.webservices-e ", e disattivando le opzioni in &quot;Controlla automaticamente la presenza di aggiornamenti per&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; offre servizi opzionali (&quot;Servizi&quot;), come il suggerimento o l'aggiornamento dei componenti aggiuntivi o la funzionalità Safe Browsing, distribuiti con questa versione dell'eseguibile di &brandShortName; nei termini descritti di seguito. Questi servizi sono abilitati come impostazione predefinita. Se non si desidera utilizzare tali Servizi oppure i termini di utilizzo risultano inaccettabili, è possibile trovare istruzioni su come disabilitare una particolare funzionalità o Servizio ">
+<!ENTITY rights2.webservices-b "qui">
+<!ENTITY rights2.webservices-c ". Altre funzionalità e Servizi possono essere disabilitati dalle preferenze dell'applicazione.">
+<!ENTITY rights.addons-a "Servizi componenti aggiuntivi: ">
+<!ENTITY rights.addons-b "Come impostazione predefinita, &brandShortName; suggerirà i componenti aggiuntivi nella pagina &view.discover.label; e controllerà gli aggiornamenti a intervalli regolari. Se si vogliono disabilitare queste funzionalità per evitare la comunicazione di informazioni sui componenti aggiuntivi installati al server, seguire questi passi:">
+<!ENTITY rights.addons-term1 "Aprire le preferenze dell'applicazione">
+<!ENTITY rights.addons-term2 "Selezionare il pannello &smart.label; nella categoria &advance.label;">
+<!ENTITY rights.addons-term3 "Togliere la spunta alle opzioni &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Da questo momento i Servizi componenti aggiuntivi sono ora disattivati">
+<!ENTITY rights.safebrowsing-a "Safe Browsing: ">
+<!ENTITY rights.safebrowsing-b "La disattivazione del servizio Safe Browsing è sconsigliata in quanto consente all'utente di visitare siti non sicuri. Per disattivare completamente questa caratteristica procedere nel seguente modo:">
+<!ENTITY rights.safebrowsing-term1 "Aprire le preferenze dell'applicazione">
+<!ENTITY rights.safebrowsing-term2 "Selezionare il pannello principale &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Togliere la spunta alle opzioni &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Da questo momento il servizio Safe Browsing è disattivato">
 <!ENTITY rights.webservices-term1 "&vendorShortName; si riserva il diritto di modificare o interrompere il Servizio a propria discrezione.">
 <!ENTITY rights.webservices-term2 "L'utente è invitato a utilizzare i Servizi inclusi in questa versione di &brandShortName; ed è in possesso di tutti i diritti necessari per farlo. &vendorShortName; e i suoi licenziatari si riservano tutti gli altri diritti relativi ai Servizi. Questi termini di utilizzo non intendono in alcun modo limitare i diritti derivanti da licenze Open Source applicabili a &brandShortName; e alla versioni corrispondenti del codice sorgente di &brandShortName;.">
 <!ENTITY rights.webservices-term3 "I servizi sono distribuiti &quot;così come descritti&quot;. &vendorShortName;, i collaboratori, i licenziatari e i distributori non forniscono alcuna garanzia, implicita o esplicita, incluse, senza alcuna limitazione, garanzie sulla possibilità di vendere i Servizi o sull'adeguatezza alle esigenze dell'utilizzatore. L'utente si assume l'intero rischio scegliendo di utilizzare il servizio, sia per quanto riguarda l'adeguatezza delle funzioni, sia per la qualità e le prestazioni del servizio stesso. In alcune giurisdizioni non è possibile imporre esclusioni o limitazioni alle garanzie implicite, in tali casi questa dichiarazione di non responsabilità non sarà applicabile.">

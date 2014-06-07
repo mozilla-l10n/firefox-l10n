@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY pref.mailnews.title "Posta e gruppi di discussione">
 <!ENTITY generalSettings.caption "Impostazioni generali">
 <!ENTITY confirmMove.label "Chiedi conferma prima di spostare cartelle nel Cestino">
@@ -18,6 +17,11 @@
 <!ENTITY setDefaultNews.accesskey "G">
 <!ENTITY setDefaultFeed.label "Feed">
 <!ENTITY setDefaultFeed.accesskey "F">
+<!ENTITY useInternalSettings.description "Utilizza &brandShortName; Posta e gruppi di discussione quando si apre un link nel browser per:">
+<!ENTITY useInternalMail.label "Posta (mailto:)">
+<!ENTITY useInternalMail.accesskey "a">
+<!ENTITY useInternalNews.label "Gruppi di discussione (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey "s">
 <!ENTITY messengerStartPage.caption "Pagina di avvio Posta">
 <!ENTITY enableStartPage.label "All'avvio di Posta, visualizza la pagina iniziale nell'area dei messaggi">
 <!ENTITY enableStartPage.accesskey "A">
