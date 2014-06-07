@@ -54,7 +54,7 @@
 <!ENTITY back "Voltar">
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Segurança do site">
-<!ENTITY save "Salvar">
+<!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Fechar aba">
 <!ENTITY one_tab "1 aba">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolha de dados">
+<!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicione mais mecanismos de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "DICA: adicione qualquer site para sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e então tocando no ícone &formatI;.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
-<!ENTITY pref_developer_remotedebugging_docs "Saiba mais">
 <!ENTITY pref_remember_signons "Memorizar senhas">
 
 <!ENTITY pref_category_home "Página inicial">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Sugerir pesquisas">
 <!ENTITY pref_import_android "Importar do Android">
-<!ENTITY pref_private_data_history "Histórico e downloads efetuados">
+<!ENTITY pref_private_data_history2 "Histórico">
 <!ENTITY pref_private_data_formdata "Campos de páginas e da pesquisa">
 <!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
 <!ENTITY pref_private_data_passwords "Senhas memorizadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings2 "Configurações de sites">
-<!ENTITY pref_private_data_downloadFiles "Downloads concluídos">
+<!ENTITY pref_private_data_downloadFiles2 "Downloads">
 
 
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Exibir">
 <!ENTITY pref_panels_hide "Ocultar">
+<!ENTITY pref_panels_reorder "Alterar ordem">
+<!ENTITY pref_panels_move_up "Mover para cima">
+<!ENTITY pref_panels_move_down "Mover para baixo">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title "Serviços de localização da &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ajuda a aprimorar os serviços de geolocalização para a web aberta permitindo que o &brandShortName; colete e envie dados anônimos sobre torres de celulares">
+<!ENTITY datareporting_wifi_title2 "Serviço de localização da &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Recebe dados de localização de celular e Wi-Fi quando executar em plano de fundo e compartilha com a &vendorShortName; para aprimorar nosso serviço de geolocalização">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -266,7 +269,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fixar site">
 <!ENTITY contextmenu_top_sites_unpin "Desafixar site">
-<!ENTITY contextmenu_add_search_engine "Adicionar mec. de pesquisa">
+<!ENTITY contextmenu_add_search_engine "Adicionar pesquisa">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Não há configurações para limpar.">
 
-<!ENTITY reading_list_add "Adicionar à lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à lista de leitura">
 <!ENTITY reading_list_removed "Página excluída da lista de leitura">
 <!ENTITY reading_list_failed "Falha ao adicionar a página à lista de leitura">
@@ -338,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Nenhum conteúdo pôde ser encontrado para este painel.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Voltar para &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
@@ -414,6 +420,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "O &brandShortName; irá reiniciar agora">
 <!ENTITY exit_guest_session_text "Os dados de navegação desta sessão serão excluídos.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

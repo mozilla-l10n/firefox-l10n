@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Sua conta precisa ser confirmada. Toque para reenviar o email de confirmação.">
 <!ENTITY fxaccount_status_needs_credentials "Não foi possível conectar. Toque para identificar-se.">
 <!ENTITY fxaccount_status_needs_upgrade "Você precisa atualizar o &brandShortName; para identificar-se.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.">
+<!ENTITY fxaccount_status_needs_account_enabled "O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Toque para iniciar a sincronização.">
 <!ENTITY fxaccount_status_bookmarks "Favoritos">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords "Senhas">
