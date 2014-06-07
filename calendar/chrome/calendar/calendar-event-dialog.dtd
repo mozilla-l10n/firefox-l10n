@@ -286,8 +286,8 @@
 <!ENTITY invite.title.label "Invita partecipanti">
 <!ENTITY event.organizer.label "Organizzatore">
 <!ENTITY event.freebusy.suggest.slot "Suggerisci intervallo di tempo:">
-<!ENTITY event.freebusy.next.slot "Posizione successiva">
-<!ENTITY event.freebusy.previous.slot "Posizione precedente">
+<!ENTITY event.freebusy.button.next.slot "Posizione successiva">
+<!ENTITY event.freebusy.button.previous.slot "Posizione precedente">
 <!ENTITY event.freebusy.zoom "Zoom:">
 <!ENTITY event.freebusy.legend.free "Libero">
 <!ENTITY event.freebusy.legend.busy "Occupato">
