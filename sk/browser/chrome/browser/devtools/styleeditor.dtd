@@ -24,6 +24,10 @@
 <!ENTITY saveButton.tooltip         "Uložiť tieto štýly do súboru">
 <!ENTITY saveButton.accesskey       "U">
 
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "Pravidlá @media">
+
 <!ENTITY editorTextbox.placeholder  "Sem zadajte CSS">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
