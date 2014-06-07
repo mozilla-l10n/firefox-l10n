@@ -8,6 +8,8 @@
 <!ENTITY muteButton.unmuteLabel "Restaurar">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Ecrã completo">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sair de ecrã completo">
+<!ENTITY castingButton.castingLabel "Lançar para o ecrã">
+
 <!ENTITY stats.media "Multimédia">
 <!ENTITY stats.size "Tamanho">
 <!ENTITY stats.activity "Atividade">
@@ -20,6 +22,7 @@
 <!ENTITY stats.framesDecoded "Frames descodificados">
 <!ENTITY stats.framesPresented "Frames mostradas">
 <!ENTITY stats.framesPainted "Frames desenhadas">
+
 <!ENTITY error.aborted "O carregamento do vídeo parou.">
 <!ENTITY error.network "Reprodução de vídeo abortada devido a um erro de rede.">
 <!ENTITY error.decode "O vídeo não pode ser reproduzido porque o ficheiro está danificado.">
