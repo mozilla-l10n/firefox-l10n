@@ -335,7 +335,7 @@ size. -->
 <!ENTITY home_reading_list_hint2         "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia näppu ikoonil &formatI;, kui see ilmub tiitliribale.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia nuppu lugemisrežiimi nupul, kui see ilmub tiitliribale.">
+<!ENTITY home_reading_list_hint_accessible "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia näppu lugemisrežiimi nupul, kui see ilmub tiitliribale.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->

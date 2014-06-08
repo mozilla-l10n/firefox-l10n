@@ -34,9 +34,9 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "Selle lehe sisu on tõlgitud keelest">
-<!ENTITY translation.translatedTo.label         "keelde">
-<!ENTITY translation.translatedToSuffix.label   "">
+<!ENTITY translation.translatedFrom.label       "Selle lehe sisu on tõlgitud">
+<!ENTITY translation.translatedTo.label         "keelest">
+<!ENTITY translation.translatedToSuffix.label   "keelde">
 
 <!ENTITY translation.showOriginal.button        "Kuva originaalset lehte">
 <!ENTITY translation.showTranslation.button     "Kuva tõlgitud lehte">

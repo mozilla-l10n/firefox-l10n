@@ -26,7 +26,7 @@
 <!ENTITY autoTagPrefix.placeholder   "Sisesta prefiks">
 
 <!ENTITY locationValidate.label      "Valideeri">
-<!ENTITY validateText.label          "Valideeri uudistevoogu ja hangi õige url.">
+<!ENTITY validateText.label          "Valideeri uudistevoog ja hangi õige url.">
 
 <!ENTITY button.addFeed.label        "Lisa">
 <!ENTITY button.addFeed.accesskey    "L">
