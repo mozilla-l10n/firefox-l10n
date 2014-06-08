@@ -125,6 +125,7 @@ selected to be added to the home page. -->
 <!ENTITY pref_header_display "Wyświetlanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
 <!ENTITY pref_header_help "Pomoc">
+<!ENTITY pref_header_language "Język">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Narzędzia dla programistów">
 
