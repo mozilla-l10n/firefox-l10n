@@ -157,7 +157,7 @@ size. -->
 <!ENTITY pref_sync "Sinhroniziraj">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
-<!ENTITY pref_private_data_history "Zgodovino brskanja in prenosov">
+<!ENTITY pref_private_data_history2 "Zgodovino brskanja">
 <!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
 <!ENTITY pref_private_data_passwords "Shranjena gelsa">
