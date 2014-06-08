@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Becsapós e-mail">
 <!ENTITY itemPasswords.label     "Jelszavak">
 <!ENTITY itemAntiVirus.label     "Antivírus">
-<!ENTITY itemCookies.label       "Webtartalom">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label      "A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket">
 <!ENTITY antiVirus.accesskey  "v">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "Megadható, hogy mely blogok, hírforrások és egyéb webhelyek helyezhetnek el sütiket.">
-<!ENTITY acceptCookies.label            "Sütik elfogadása webhelyekről">
-<!ENTITY acceptCookies.accesskey        "S">
-<!ENTITY keepUntil.label                "Sütik megtartása:">
-<!ENTITY keepUntil.accesskey            "m">
-<!ENTITY expire.label                   "amíg le nem járnak">
-<!ENTITY close.label                    "a &brandShortName; bezárásáig">
-<!ENTITY askEachTime.label              "megerősítés minden alkalommal">
-<!ENTITY cookieExceptions.label         "Kivételek…">
-<!ENTITY cookieExceptions.accesskey     "v">
-<!ENTITY showCookies.label              "Sütik megtekintése…">
-<!ENTITY showCookies.accesskey          "t">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Nem akarom, hogy a webhelyek kövessenek">
-<!ENTITY doNotTrack.accesskey           "N">

@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
 <!ENTITY quickMode.accesskey         "c">
 
+<!ENTITY autotagEnable.label         "Címkék automatikus létrehozása a hírforrás <category> neveiből">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Címkék előtagja:">
+<!ENTITY autotagUsePrefix.accesskey  "e">
+<!ENTITY autoTagPrefix.placeholder   "Írjon be egy címkeelőtagot">
+
 <!ENTITY locationValidate.label      "Ellenőrzés">
 <!ENTITY validateText.label          "Ellenőrzés és érvényes URL lekérése.">
 

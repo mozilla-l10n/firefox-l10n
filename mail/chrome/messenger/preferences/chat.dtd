@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "A beszélgetések során értesítés küldése a gépelésről">
 <!ENTITY sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "Önnek címzett új üzenet érkezésekor:">
+<!ENTITY  desktopChatNotifications.label      "Értesítés megjelenítése">
+<!ENTITY desktopChatNotifications.accesskey  "r">
+<!ENTITY chatSound.accesskey                 "H">
+<!ENTITY  chatSound.label                     "Hangjelzés">
+<!ENTITY  play.label                          "Lejátszás">
+<!ENTITY play.accesskey                      "L">
+<!ENTITY  systemSound.label                   "Alapértelmezett rendszerhang az új üzenethez">
+<!ENTITY systemSound.accesskey               "A">
+<!ENTITY  customsound.label                   "A következő hangfájl használata">
+<!ENTITY customsound.accesskey               "h">
+<!ENTITY  browse.label                        "Tallózás…">
+<!ENTITY browse.accesskey                    "T">
+

@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Hosszú" >
 <!ENTITY pref.dateformat.short "Rövid"  >
-<!ENTITY pref.defaultlength.label "Alapértelmezett eseményhossz:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Alapértelmezett szundihossz:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.defaults.label "Alapértelmezett értékek új elemekhez">
+<!ENTITY pref.events.label "Események">
+<!ENTITY pref.tasks.label "Feladatok">
+
+<!ENTITY pref.default_event_length.label "Alapértelmezett hossz:" >
+<!ENTITY pref.default_event_length.accesskey "A">
+
+<!ENTITY pref.default_task_none.label "Nincs">
+<!ENTITY pref.default_task_start_of_day.label "Nap kezdete">
+<!ENTITY pref.default_task_end_of_day.label "Nap vége">
+<!ENTITY pref.default_task_tomorrow.label "Holnap">
+<!ENTITY pref.default_task_next_week.label "Következő hét">
+<!ENTITY pref.default_task_offset_current.label "Aktuális időhöz képest">
+<!ENTITY pref.default_task_offset_start.label "Kezdéshez képest">
+<!ENTITY pref.default_task_offset_next_hour.label "Következő órához képest">
 
 <!ENTITY pref.accessibility.label "Kisegítő lehetőségek" >
 <!ENTITY pref.systemcolors.label "Színek optimalizálása" >
