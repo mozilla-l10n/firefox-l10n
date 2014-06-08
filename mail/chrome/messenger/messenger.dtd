@@ -64,7 +64,7 @@
 <!ENTITY renameFolder.key                              "VK_F2">
 <!ENTITY compactFolders.label                          "Tihenda kaustad">
 <!ENTITY compactFolders.accesskey                      "T">
-<!ENTITY emptyTrashCmd.label                           "Tühjenda Kustutatud">
+<!ENTITY emptyTrashCmd.label                           "Tühjenda kustutatud kirjade kaust">
 <!ENTITY emptyTrashCmd.accesskey                       "j">
 <!ENTITY offlineMenu.label                             "Võrguta režiim">
 <!ENTITY offlineMenu.accesskey                         "i">

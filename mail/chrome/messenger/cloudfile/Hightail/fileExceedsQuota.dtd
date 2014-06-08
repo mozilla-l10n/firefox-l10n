@@ -7,5 +7,5 @@
 <!ENTITY fileExceedsQuota.cancel              "Loobu">
 <!ENTITY fileExceedsQuota.description         "Sa oled jõudnud oma konto andmemahu piirini (2 GiB).">
 <!ENTITY fileExceedsQuota.description1        "Praegune andmemahu kasutus on #XXX GiB.">
-<!ENTITY fileExceedsQuota.description2        "Hangi rohkem ruumi, ostes teenus Pro Plus.">
+<!ENTITY fileExceedsQuota.description2        "Hangi rohkem ruumi, ostes teenuse Pro Plus.">
 <!ENTITY fileExceedsQuota.description3        "Vaba ruumi loomiseks võid ka kustutada olemasolevaid faile.">
