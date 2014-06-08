@@ -18,7 +18,7 @@
 <!ENTITY pasteAsQuotationCmd.key             "o">
 <!ENTITY findBarCmd.label                    "Otsi…">
 <!ENTITY findReplaceCmd.label                "Otsi ja asenda…">
-<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamise ajal">
+<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll sisestamise ajal">
 <!ENTITY enableInlineSpellChecker.accesskey  "j">
 <!ENTITY checkSpellingCmd2.label             "Kontrolli õigekirja">
 <!ENTITY checkSpellingCmd2.accesskey         "o">

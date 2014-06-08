@@ -36,7 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey                   "U">
 <!ENTITY newIMContactCmd.label                         "Kiirsuhtluse kontakt…">
 <!ENTITY newIMContactCmd.accesskey                     "n">
-<!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
+<!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri…">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
 <!ENTITY saveAsMenu.label                              "Salvesta kui">
 <!ENTITY saveAsMenu.accesskey                          "S">
@@ -55,11 +55,11 @@
 <!ENTITY getNextNMsgCmd.accesskey                      "m">
 <!ENTITY sendUnsentCmd.label                           "Saada saatmata kirjad">
 <!ENTITY sendUnsentCmd.accesskey                       "d">
-<!ENTITY subscribeCmd.label                            "Telli...">
+<!ENTITY subscribeCmd.label                            "Telli…">
 <!ENTITY subscribeCmd.accesskey                        "l">
 <!ENTITY deleteFolder.label                            "Kustuta kaust">
 <!ENTITY deleteFolder.accesskey                        "u">
-<!ENTITY renameFolder.label                            "Muuda kausta nime...">
+<!ENTITY renameFolder.label                            "Muuda kausta nime…">
 <!ENTITY renameFolder.accesskey                        "M">
 <!ENTITY renameFolder.key                              "VK_F2">
 <!ENTITY compactFolders.label                          "Tihenda kaustad">
@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey                         "i">
 <!ENTITY offlineGoOfflineCmd.label                     "Tööta võrguta">
 <!ENTITY offlineGoOfflineCmd.accesskey                 "T">
-<!ENTITY synchronizeOfflineCmd.label                   "Laadi alla/sünkrooni...">
+<!ENTITY synchronizeOfflineCmd.label                   "Laadi alla/sünkroniseeri…">
 <!ENTITY synchronizeOfflineCmd.accesskey               "S">
 <!ENTITY settingsOfflineCmd2.label                     "Võrguta oleku sätted">
 <!ENTITY settingsOfflineCmd2.accesskey                 "e">

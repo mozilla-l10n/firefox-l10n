@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton           "Võta tagasi.">
 <!ENTITY newtab.undo.restoreButton        "Taasta kõik.">
 <!ENTITY newtab.undo.closeTooltip         "Peida">
-<!ENTITY newtab.sponsored.release.message "Seda sponsoreeritud saiti soovitati, sest me loodame, et leiad selle huvitava olevat ning samas toetab see ka Mozilla missiooni.">
-<!ENTITY newtab.sponsored.trial.message   "Seda testiks mõeldud sponsoreeritud saiti soovitati, sest me loodame, et leidad selle huvitava olevat ning samas toetab see ka Mozilla missiooni.">
+<!ENTITY newtab.sponsored.release.message "Seda sponsorsaiti soovitati, sest me loodame, et leiad selle huvitava olevat ning samas toetab see ka Mozilla missiooni.">
+<!ENTITY newtab.sponsored.trial.message   "Seda testiks mõeldud sponsorsaiti soovitati, sest me loodame, et leidad selle huvitava olevat ning samas toetab see ka Mozilla missiooni.">
 <!ENTITY newtab.panel.link.text           "Rohkem teavet…">
