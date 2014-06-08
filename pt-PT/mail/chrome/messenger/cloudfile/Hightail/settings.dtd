@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceeds2GB.title   "YouSendIt">
-<!ENTITY fileExceeds2GB.cancel "Aceitar">
-<!ENTITY fileExceeds2GB.description "O envio de ficheiros superiores a 2GB não é suportado.">
+<!ENTITY hightailSettings.username "Nome de utilizador:">
+<!ENTITY hightailSettings.needAnAccount "Precisa de uma conta?">
+<!ENTITY hightailSettings.learnMore "Saber mais…">

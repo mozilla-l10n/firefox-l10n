@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY UbuntuOneSettings.emailAddress "Endereço eletrónico:">
-<!ENTITY UbuntuOneSettings.needAnAccount "Precisa de uma conta?">
-<!ENTITY UbuntuOneSettings.learnMore "Saber mais…">
+<!ENTITY fileExceeds2GB.title   "Hightail">
+<!ENTITY fileExceeds2GB.cancel "OK">
+<!ENTITY fileExceeds2GB.description "O envio de ficheiros maiores que 2GB não são suportados.">
