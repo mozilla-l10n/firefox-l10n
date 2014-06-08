@@ -61,6 +61,10 @@
 <!ENTITY one_tab "Kart: 1">
 <!ENTITY new_tab_opened "Otwarto nową kartę">
 <!ENTITY new_private_tab "Nowa karta prywatna">
+<!-- Localization note (switch_button_message): This string should be as short
+as possible because it's shown as a label in a toast.  Ideally, this string
+is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PRZEJDŹ">
 
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
