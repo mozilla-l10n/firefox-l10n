@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Keresés és csere…">
+<!ENTITY findBarCmd.label "Keresés…">
+<!ENTITY findReplaceCmd.label "Keresés és csere…">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Képlet…">
+<!ENTITY insertMathCmd.accesskey "K">
 <!ENTITY insertCharsCmd.label "Karakterek és szimbólumok…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Sortörés a képek alatt">

@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Ez az üzenet egy eseményre szóló meghívót tartalmaz.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Elfogadás">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Eseménymeghívás elfogadása">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Összes elfogadása">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Eseménymeghívó elfogadása az esemény minden előfordulására">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Hozzáadás">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Az esemény hozzáadása a naptárhoz">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Elvetés">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Eseménymeghívó elutasítása">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Összes elutasítása">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Eseménymeghívó elutasítása az esemény minden előfordulására">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Törlés">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Törlés a naptárból">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Részletek…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Esemény részleteinek megjelenítése">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Több">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kattintson további lehetőségekért">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Újra megerősítés">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Ismételt megerősítés küldése a szervezőnek">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Nem megerősített">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Eseménymeghívó feltételes elfogadása">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Összes feltételes">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Eseménymeghívó elfogadása feltételesen az esemény minden előfordulására">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Frissítés">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Esemény frissítése a naptárban">
+<!ENTITY lightning.imipbar.description                                      "Ez az üzenet egy eseményre szóló meghívót tartalmaz.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
