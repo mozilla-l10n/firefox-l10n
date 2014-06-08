@@ -120,6 +120,9 @@ selected to be added to the home page. -->
 <!ENTITY pref_home_updates_enabled "Włączone">
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
 
+<!ENTITY pref_home_suggested_sites "Wyświetlaj sugerowane witryny">
+<!ENTITY pref_home_suggested_sites_summary "Wyświetlaj na stronie domowej skróty do witryn, które mogą cię zainteresować">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
 <!ENTITY pref_header_display "Wyświetlanie">
