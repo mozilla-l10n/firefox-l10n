@@ -133,7 +133,7 @@
 <!ENTITY checkSpellingCmd2.key               "k">
 <!ENTITY checkSpellingCmd2.key2              "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey         "j">
-<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamisel">
+<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll sisestamisel">
 <!ENTITY enableInlineSpellChecker.accesskey  "g">
 <!ENTITY quoteCmd.label                      "Tsiteeri kirja">
 <!ENTITY quoteCmd.accesskey                  "s">

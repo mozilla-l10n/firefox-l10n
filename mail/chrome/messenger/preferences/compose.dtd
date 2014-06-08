@@ -27,8 +27,8 @@
 
 <!ENTITY spellCheck.label                    "Enne saatmist kontrollitakse õigekirja">
 <!ENTITY spellCheck.accesskey                "E">
-<!ENTITY spellCheckInline.label              "Kirjutamisel kontrollitakse õigekirja">
-<!ENTITY spellCheckInline1.accesskey         "K">
+<!ENTITY spellCheckInline.label              "Sisestamisel kontrollitakse õigekirja">
+<!ENTITY spellCheckInline1.accesskey         "k">
 <!ENTITY languagePopup.label                 "Keel:">
 <!ENTITY languagePopup.accessKey             "K">
 <!ENTITY downloadDictionaries.label          "Hangi veel sõnaraamatuid">

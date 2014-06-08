@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                "Asutus (O)">
 <!ENTITY certmgr.certdetail.ou               "Allüksus (OU)">
 <!ENTITY certmgr.certdetail.serialnumber     "Seerianumber">
-<!ENTITY certmgr.certdetail.sha1fingerprint  "SHA1 sõrmejälg">
-<!ENTITY certmgr.certdetail.md5fingerprint   "MD5 sõrmejälg">
+<!ENTITY certmgr.certdetail.sha1fingerprint  "SHA1-sõrmejälg">
+<!ENTITY certmgr.certdetail.md5fingerprint   "MD5-sõrmejälg">
 
 <!ENTITY certmgr.editcert.title              "Sertifikaadi sätete redigeerimine">
 <!ENTITY certmgr.editcacert.title            "SK sertifikaadi usaldusväärsuse sätete redigeerimine">

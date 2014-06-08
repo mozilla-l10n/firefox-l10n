@@ -19,7 +19,7 @@
 <!ENTITY quickMode.label             "Veebilehe laadimise asemel kuvatakse artikli kokkuvõtet">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.label         "Automatselt luuakse sildid uudistevoo &lt;category&gt; väljade põhjal">
+<!ENTITY autotagEnable.label         "Sildid luuakse uudistevoo &lt;category&gt; väljade põhjal automaatselt">
 <!ENTITY autotagEnable.accesskey     "t">
 <!ENTITY autotagUsePrefix.label      "Siltidele lisatakse prefiks:">
 <!ENTITY autotagUsePrefix.accesskey  "S">

@@ -12,7 +12,7 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "See leht on järgmises keeles:">
+<!ENTITY translation.thisPageIsIn.label         "Selle lehe keel:">
 <!ENTITY translation.translateThisPage.label    "Kas tõlkida see leht?">
 <!ENTITY translation.translate.button           "Tõlgi">
 <!ENTITY translation.notNow.button              "Mitte praegu">
@@ -38,7 +38,7 @@
 <!ENTITY translation.translatedTo.label         "keelest">
 <!ENTITY translation.translatedToSuffix.label   "keelde">
 
-<!ENTITY translation.showOriginal.button        "Kuva originaalset lehte">
+<!ENTITY translation.showOriginal.button        "Kuva algset lehte">
 <!ENTITY translation.showTranslation.button     "Kuva tõlgitud lehte">
 
 <!ENTITY translation.errorTranslating.label     "Lehe tõlkimisel esines viga.">
