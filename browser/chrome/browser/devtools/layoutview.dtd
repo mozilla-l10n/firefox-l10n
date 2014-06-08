@@ -17,7 +17,7 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY title                  "Vakkenmodel">
-<!ENTITY margin.tooltip        "marge">
-<!ENTITY border.tooltip        "rand">
+<!ENTITY margin.tooltip         "marge">
+<!ENTITY border.tooltip         "rand">
 <!ENTITY padding.tooltip        "opvulling">
 <!ENTITY content.tooltip        "inhoud">
