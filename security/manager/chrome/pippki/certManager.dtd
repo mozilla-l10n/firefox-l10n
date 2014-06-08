@@ -60,7 +60,7 @@
 <!ENTITY certmgr.override_lifetime "Življenjska doba">
 <!ENTITY certmgr.tokenname "Varnostna naprava">
 <!ENTITY certmgr.begins "Začne veljati">
-<!ENTITY certmgr.expires "Preteče">
+<!ENTITY certmgr.expires "Poteče">
 <!ENTITY certmgr.email "E-mail naslov">
 <!ENTITY certmgr.serial "Serijska številka">
 
