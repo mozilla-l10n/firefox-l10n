@@ -447,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "Ponovno zaženi kot &brandShortName; za Windows 8">
 <!ENTITY savePageCmd.label "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey "A">
 <!-- alternate for content area context menu -->
