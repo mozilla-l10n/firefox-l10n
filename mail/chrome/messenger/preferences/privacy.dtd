@@ -1,45 +1,41 @@
-<!ENTITY itemJunk.label          "Szemét">
-<!ENTITY itemPhishing.label      "Becsapós e-mail">
-<!ENTITY itemPasswords.label     "Jelszavak">
-<!ENTITY itemAntiVirus.label     "Antivírus">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.">
-<!ENTITY manualMark.label "A levélszemét kézi megjelölésekor:">
-<!ENTITY manualMark.accesskey "k">
-<!ENTITY manualMarkModeMove.label "Áthelyezés a postafiók „Szemét” mappájába">
-<!ENTITY manualMarkModeMove.accesskey "h">
-<!ENTITY manualMarkModeDelete.label "Törlés">
-<!ENTITY manualMarkModeDelete.accesskey "T">
-<!ENTITY markAsReadOnSpam.label "A szemétként megjelölt levelek megjelölése olvasottként">
-<!ENTITY markAsReadOnSpam.accesskey "o">
-<!ENTITY enableJunkLogging.label "Levélszemét-szűrés naplózásának engedélyezése">
-<!ENTITY enableJunkLogging.accesskey "L">
-<!ENTITY openJunkLog.label "Napló megjelenítése">
-<!ENTITY openJunkLog.accesskey "N">
-<!ENTITY resetTrainingData.label "Tanulási adatok törlése">
-<!ENTITY resetTrainingData.accesskey "T">
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Levéltartalom">
 
-<!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "A &brandShortName; képes elemezni az üzeneteket, és kiszűrni a leggyakrabban használt trükköket, amelyekkel Önt becsaphatják.">
-<!ENTITY enablePhishingDetector1.label    "Figyelmeztetés a gyanús e-mailekre">
-<!ENTITY enablePhishingDetector1.accesskey  "F">
-<!ENTITY useDownloadedList.label "Gyanús e-mailek letöltött listájának használata">
-<!ENTITY useDownloadedList.accesskey "G">
+<!ENTITY acceptRemoteContent.label "Távoli tartalom engedélyezése az üzenetekben">
+<!ENTITY acceptRemoteContent.accesskey "T">
+<!ENTITY remoteContentExceptions.label "Kivételek…">
+<!ENTITY remoteContentExceptions.accesskey "v">
+<!ENTITY acceptRemoteContentInfo.label "Tudjon meg többet a távoli tartalommal kapcsolatos adatvédelmi problémákról">
 
-<!-- Passwords -->
-<!ENTITY savedPasswords.intro         "A &brandShortName; képes megjegyezni a postafiókok jelszavait, úgyhogy nem kell minden alkalommal újra beírni.">
-<!ENTITY  encryptEnabled.label        "Mesterjelszó használata a tárolt jelszavak titkosítására">
-<!ENTITY encryptEnabled.accesskey    "M">
-<!ENTITY  masterPassword.intro        "A mesterjelszó – ha van – az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.">
-<!ENTITY  setMasterPassword.label     "Mesterjelszó">
-<!ENTITY setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "Mesterjelszó törlése...">
-<!ENTITY removeMasterPassword.accesskey "t">
-<!ENTITY  editPasswords.label         "Mentett jelszavak szerkesztése">
-<!ENTITY editPasswords.accesskey     "e">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webtartalom">
 
-<!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "A &brandShortName; könnyen lehetővé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését, még mielőtt helyileg tárolná azokat.">
-<!ENTITY antiVirus.label      "A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket">
-<!ENTITY antiVirus.accesskey  "v">
+<!ENTITY acceptCookies.label "Sütik elfogadása webhelyekről">
+<!ENTITY acceptCookies.accesskey "w">
+<!ENTITY acceptThirdParty.pre.label "Harmadik féltől származó sütik elfogadása:">
+<!ENTITY acceptThirdParty.pre.accesskey "h">
+<!ENTITY acceptThirdParty.always.label "Mindig">
+<!ENTITY acceptThirdParty.never.label "Soha">
+<!ENTITY acceptThirdParty.visited.label "Meglátogatottól">
+<!ENTITY keepUntil.label "Sütik megtartása:">
+<!ENTITY keepUntil.accesskey "m">
+<!ENTITY expire.label "amíg le nem járnak">
+<!ENTITY close.label "a &brandShortName; bezárásáig">
+<!ENTITY askEachTime.label "megerősítés minden alkalommal">
+<!ENTITY cookieExceptions.label "Kivételek…">
+<!ENTITY cookieExceptions.accesskey "v">
+<!ENTITY showCookies.label "Sütik megtekintése…">
+<!ENTITY showCookies.accesskey "t">
+
+<!ENTITY dntTrackingNopref.label2 "Az oldalakkal ne közölje a követési preferenciáimat">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY dntTrackingNotOkay.accesskey "N">
+<!ENTITY dntTrackingOkay.label2 "Azt akarom, hogy a webhelyek kövessenek">
+<!ENTITY dntTrackingOkay.accesskey "A">
+<!ENTITY doNotTrackInfo.label "Tudjon meg többet a Ne kövessenek funkcióról">
+

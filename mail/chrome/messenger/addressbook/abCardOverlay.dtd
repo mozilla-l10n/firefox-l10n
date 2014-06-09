@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Ismeretlen">
 <!ENTITY chatName.label                 "Csevegési név:">
 
-<!ENTITY allowRemoteContent1.label      "Távoli tartalom engedélyezése">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó tartalmakat. Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé. Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el. A négyzet bejelölésével engedélyezi az ilyen beágyazott tartalmakat a HTML-üzenetekben ettől a kapcsolattól.">
-
 <!ENTITY WorkPhone.label                "Munkahelyi:">
 <!ENTITY WorkPhone.accesskey            "u">
 <!ENTITY HomePhone.label                "Otthoni:">
