@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Maxfiy ko‘rish">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Siz yangi maxfiy ichki oyna ochdingiz.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Siz maxfiy ichki oynada emassiz.">
+
+<!ENTITY privatebrowsingpage.description            "Ichki oynalarda &brandShortName; hech qanday brauzer tarixi, izlash tarixi, yuklab olish tarixi, veb shakllari tarixi, kukilar yoki vaqtinchalik internet fayllarini saqlamaydi. Shunday bo‘lsa-da, yuklab olgan fayllaringiz va xatcho‘plaringiz saqlanadi.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Ushbu qurilmada kirilgan saytlar tarixi saqlamasa ham, lekin internet provayderingiz siz kirgan saytlarni ko‘ra olishi mumkin.">

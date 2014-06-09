@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Men bu yerdan ketaman!">
+<!ENTITY safeb.palm.decline.label "Ushbu ogohlantirishni rad qilish">
+<!ENTITY safeb.palm.notforgery.label2 "Bu vab qalloblik emas...">
+<!ENTITY safeb.palm.reportPage.label "Nega ushbu sahifa bloklandi?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Hujum sahifasi sifatida xabar berilgan!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Ushbu veb sahifa <span id='malware_sitename'/>da hujum sayti sifatida xabar berilgan, shu sababli sizning xavfsizligingizni o‘ylab, ushbu sahifa bloklandi.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hujum saytlari shaxsiy ma’lumotlaringizni o‘g‘irlaydigan dasturlarni o‘rnatishga urinadi. Bu ma’lumotlar orqali kompyuteringizdan boshqalarga hujum qilish uchun yoki tizimingizni buzish uchun foydalaniladi.</p><p>Ba’zi hujum sahifalari zararli dasturlarni tarqatadi, ammo ulardan ko‘pchiligini egalari bilmaydi.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Shubhali veb qalloblik!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ushbu sahifaga birorta shaxsiy ma’lumot kiritsangiz, ma’lumotlaringiz o‘girlanishi yoki boshqa tovlamachiliklarga sabab bo‘lishi mumkin.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ushbu turdagi veb qallobliklar fishing hujumlar uchun foydalaniladi. Ushbu hujumlar veb sahifalar va e-pochtalar orqali siz ishongan manbalarni ishdan chiqarish uchun foydalaniladi.</p>">

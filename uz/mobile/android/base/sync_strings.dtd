@@ -1,0 +1,225 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox sinx">
+<!ENTITY syncBrand.shortName.label "Sinxronlash">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;ga ulanish">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; hisobini qo‘shish">
+<!ENTITY sync.title.pair.label "Qurilmani ulash">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Yangi qurilmangizni faollashtirish uchun boshqa qurilmangizdagi “&syncBrand.shortName.label;ni moslash”ni tanlang.">
+<!ENTITY sync.subtitle.header2.label "Ushbu maxfiy raqamlarni boshqa qurilmangizga kiriting">
+<!ENTITY sync.subtitle.connectlocation2.label "“&sync.title.pair.label;”ni boshqa qurilmangizdagi Firefox sozlamalaridagi &syncBrand.shortName.label; qismidan tanlang.">
+<!ENTITY sync.subtitle.pair.label "Faollashtirish uchun boshqa qurilmangizdagi \&quot;Qurilmani ulash\&quot;ni tanlang.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Qanday qilishi menga ko‘rsatilsin.">
+<!ENTITY sync.link.advancedsetup.label "Qo‘shimcha moslash...">
+<!ENTITY sync.link.nodevice.label "O‘zim bilan birga qurilma yo‘q...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Boshqa qurilma kutilmoqda...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "&syncBrand.fullName.label; hisobingiz ma’lumotlarini kiriting">
+<!ENTITY sync.input.username.label "Hisob nomi">
+<!ENTITY sync.input.password.label "Parol">
+<!ENTITY sync.input.key.label "Tiklash kaliti">
+<!ENTITY sync.checkbox.server.label "Boshqa serverdan foydalaning">
+<!ENTITY sync.input.server.label "Server URL manzili">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label;ni moslab bo‘lmadi">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; serverga ulana olmadi. Yana urinib ko‘rishni xohlaysizmi?">
+<!ENTITY sync.button.tryagain.label "Yana urinib ko‘ring">
+<!ENTITY sync.button.manual.label "Qo‘lbola moslash">
+<!ENTITY sync.subtitle.nointernet.label "Internetga ulanishlar mavjud emas.">
+<!ENTITY sync.subtitle.failaccount.label "Qurilmangiz uchun hisob yaratib bo‘lmadi.">
+<!ENTITY sync.subtitle.failmultiple.label "Bir nechta Firefox o‘rnatilganmi? Hozircha, &syncBrand.fullName.label; bir vaqtda bir Firefoxni o‘rnatishga ruxsat beradi. &syncBrand.shortName.label;dan foydalanish uchun boshqalarini o‘chiring.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Moslash tugadi">
+<!ENTITY sync.subtitle.success.label1 "Ma’lumotlaringiz orqa fonda yuklab olinadi. Hisobingizni boshqarish yoki &brandShortName;ni bilan internetni ko‘rishni boshlash uchun \&quot;Sozlamalar\&quot;ga kirishingiz mumkin.">
+<!ENTITY sync.settings.label "Sozlamalar">
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; hisobingiz allaqachon moslangan. Hisobingizni boshqarish yoki &brandShortName;ni ishga tushirish uchun \&quot;Sozlamalar\&quot;ga kirishingiz mumkin.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Yana urinib ko‘ring">
+<!ENTITY sync.pair.connectlocation.label "Yangi qurilmangizni faollashtirish uchun avval qurilmangizdan “&syncBrand.shortName.label;ni moslash”ni, so‘ngra “Mening hisobim bor.”ni tanlang.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Parametrlar">
+<!ENTITY sync.summary.pair.label "Boshqa qurilmani &syncBrand.shortName.label; hisobingizga bog‘lang">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Sinxronlanadiganlar:">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sinxronlash...">
+<!ENTITY sync.configure.engines.title.bookmarks "Xatcho‘plar">
+<!ENTITY sync.configure.engines.title.passwords "Parollar">
+<!ENTITY sync.configure.engines.title.history "Tarix">
+<!ENTITY sync.configure.engines.title.tabs "Ichki oynalar">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Bekor qilish">
+<!ENTITY sync.button.connect.label "Ulanish">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (tavsiya qilinmaydi)">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "Xatcho‘plar menyusi">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Teglar">
+<!ENTITY bookmarks.folder.toolbar.label "Xatcho‘plar paneli">
+<!ENTITY bookmarks.folder.unfiled.label "Saralanmagan xatcho‘plar">
+<!ENTITY bookmarks.folder.desktop.label "Ish stoli xatcho‘plari">
+<!ENTITY bookmarks.folder.mobile.label "Mobil xatcho‘plar">
+<!ENTITY bookmarks.folder.readinglist.label "O‘qilganlar ro‘yxati">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Qistirildi">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Faqat bitta &syncBrand.fullName.label; hisobi qo‘llab-quvvatlanadi.">
+<!ENTITY sync.notification.configure.saved "Tanlaganlaringiz saqlandi.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Hisob nomi yoki parol noto‘g‘ri.">
+<!ENTITY sync.invalidserver.label "Ishlaydigan server URL manzilini kiriting">
+<!ENTITY sync.verifying.label "Tekshirilmoqda...">
+<!ENTITY sync.new.recoverykey.status.incorrect "Tiklash kaliti xato. Keyinroq urinib ko‘ring.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Qurilmalarga ichki oynalarni jo‘natish">
+<!ENTITY sync.button.send.label "Jo‘natish">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;ni moslash">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Ichki oynalarni jo‘natish uchun &syncBrand.shortName.label;ni moslang">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Qurilmangizdagi ma’lumotlarni boshqa qurilmalarga jo‘natish uchun &syncBrand.fullName.label;ni moslang.">
+<!ENTITY sync.text.tab.sent.label "Ichki oynalaringiz jo‘natilgan!">
+<!ENTITY sync.text.tab.not.sent.label "Ichki oynalaringizni jo‘natishda muammo paydo bo‘ldi.">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "E-pochta">
+<!ENTITY fxaccount_password_hint "Parol">
+<!ENTITY fxaccount_password_hide "Yashirish">
+<!ENTITY fxaccount_password_show "Ko‘rsatish">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Ko‘rishga qaytish">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Xizmat shartlari">
+<!ENTITY fxaccount_policy_linkprivacy "Xavfsizlik ogohlantirishlari">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ga xush kelibsiz">
+<!ENTITY fxaccount_getting_started_description "Ichki oynalaringiz, xatcho‘plaringiz, parollaringiz va boshqalarni sinxronlash uchun kiring.">
+<!ENTITY fxaccount_getting_started_get_started "Ishlashni boshlash">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;ning eskiroq versiyasidan foydalanyapsizmi?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Firefox hisobini yaratish">
+<!ENTITY fxaccount_create_account_password_length_restriction "Kamida 8 ta belgidan iborat bo‘lishi kerak">
+<!ENTITY fxaccount_create_account_year_of_birth "Tug‘ilgan yili">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Davom ettirish mobaynia, Men Firefox bulut xizmatlari &formatS1; va &formatS2;ga roziman.">
+<!ENTITY fxaccount_create_account_button "Keyingi">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Sinxronlanadigan narsalarni tanlang">
+<!ENTITY fxaccount_create_account_sign_in_instead "Hisobingiz bormi? Unda kiring">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 yoki eskiroq">
+<!ENTITY fxaccount_create_account_unknown_error "Hisob yaratilmadi">
+
+<!ENTITY fxaccount_account_create_not_allowed "Hisob yaratib bo‘lmadi">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Hisob yaratish uchun balog‘at yoshiga yetgan bo‘lishingiz kerak.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Koʻproq o‘rganish">
+
+<!ENTITY fxaccount_confirm_account_header "Hisobingizni tasdiqlang">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Tasdiqlash kodi linki &formatS;ga jo‘natildi">
+<!ENTITY fxaccount_confirm_account_resend_email "E-pochtani qayta jo‘natish">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Tasdiqlash kodi e-pochtangizga jo‘natildi">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "E-pochtangizga tasdiqlash kodini jo‘natib bo‘lmadi">
+
+<!ENTITY fxaccount_sign_in_sub_header "Kirish">
+<!ENTITY fxaccount_sign_in_button_label "Kirish">
+<!ENTITY fxaccount_sign_in_forgot_password "Parolni unutdingizmi?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Hisob yaratish">
+<!ENTITY fxaccount_sign_in_unknown_error "Kirib bo‘lmadi">
+
+<!ENTITY fxaccount_account_verified_sub_header "Hisob tekshirildi">
+<!ENTITY fxaccount_account_verified_description2 "Ma’lumotlaringizni sinxronlash bir lahzada boshlanadi.">
+
+<!ENTITY fxaccount_update_credentials_header "Kirish">
+<!ENTITY fxaccount_update_credentials_button_label "Kirish">
+<!ENTITY fxaccount_update_credentials_unknown_error "Kirib bo‘lmadi">
+
+<!ENTITY fxaccount_status_header2 "Firefox hisobi">
+<!ENTITY fxaccount_status_signed_in_as "Kirilgan foydalanuvchi nomi">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: yoqib qo‘yildi">
+<!ENTITY fxaccount_status_needs_verification2 "Hisobingiz tasdiqlanishi kerak. Tasdiqlash kodini e-pochtangizga qayta jo‘natish uchun bosing.">
+<!ENTITY fxaccount_status_needs_credentials "Ulana olmadi. Kirish uchun bosing.">
+<!ENTITY fxaccount_status_needs_upgrade "Kirish uchun &brandShortName;ni yangilashingiz kerak.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Sinxronlashni boshlash uchun bosing.">
+<!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
+<!ENTITY fxaccount_status_history "Tarix">
+<!ENTITY fxaccount_status_passwords "Parollar">
+<!ENTITY fxaccount_status_tabs "Ichki oynalarni ochish">
+<!ENTITY fxaccount_status_legal "Qonuniy" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Xizmat shartlari">
+<!ENTITY fxaccount_status_linkprivacy "Maxfiylik eslatmalari">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; parametrlari">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label;ni moslash">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefoxni yangilashingiz kerak">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Hisob allaqachon mavjud. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "E-pochta yoki parol noto‘g‘ri">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "E-pochta yoki parol noto‘g‘ri">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Hisob tekshirilmadi">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server band, birozdan so‘ng urinib ko‘ring">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server band, birozdan so‘ng urinib ko‘ring">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Muammo yuz berdi">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Tarmoqqa ulana olmadi">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ulanmagan">
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; sifatida kirish uchun bosing">

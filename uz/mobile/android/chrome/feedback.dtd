@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Mulohazalar asboblari">
+
+<!ENTITY feedback.communicate.title     "Biz bilan bog‘laning">
+<!ENTITY feedback.feedback.title        "Mulohaza bildiring">
+<!ENTITY feedback.feedback.good         "Yaxshi">
+<!ENTITY feedback.feedback.bad          "Yomon">
+
+<!ENTITY feedback.tools.title           "Asboblar">
+<!ENTITY feedback.allowTelemetry.title  "Ishlash ma’lumotlarini jo‘natish">
+<!ENTITY feedback.forceCompat.title     "Majburiy qo‘shimcha dasturlar mosligi">
+<!ENTITY feedback.errorConsole.title    "Xato terminalini yoqib qo‘yish">
