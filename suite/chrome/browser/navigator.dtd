@@ -72,4 +72,11 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Valmis">
 
-<!ENTITY popupIcon.tooltiptext      "Älä enää estä tämän sivuston ponnahdusikkunoita">
+<!ENTITY popupIcon.tooltiptext      "Salli ponnahdusikkunat tällä sivustolla">
+
+<!ENTITY viewSecurityInfo.label      "Näytä turvallisuustiedot">
+<!ENTITY viewSecurityInfo.accesskey  "N">
+<!ENTITY viewCertificate.label       "Näytä varmenne">
+<!ENTITY viewCertificate.accesskey   "v">
+<!ENTITY viewCertManager.label       "Avaa varmenteiden hallinta">
+<!ENTITY viewCertManager.accesskey   "h">
