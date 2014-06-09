@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Tulajdonságok…">
-<!ENTITY propertiesCmd.accesskey                        "T">
+<!ENTITY propertiesCmd2.label                           "Tulajdonságok…">
+<!ENTITY propertiesCmd2.accesskey                       "T">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "i">
 <!ENTITY exportCmd.label                                "Exportálás…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Beállítások…">
-<!ENTITY preferencesCmd.accesskey                       "B">
+<!ENTITY preferencesCmd2.label                          "Beállítások…">
+<!ENTITY preferencesCmd2.accesskey                      "B">
 <!ENTITY preferencesCmdUnix.label                       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey                   "B">
 
