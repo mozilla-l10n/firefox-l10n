@@ -26,7 +26,5 @@
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Tempo di attivazione allarme prima di un'attività:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Indirizzo predefinito a cui inviare gli allarmi:">
-<!ENTITY pref.defaulttext.label "Testo predefinito per gli allarmi:">
 <!ENTITY pref.defaultsnoozelength.label "Lunghezza predefinita snooze:">
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
