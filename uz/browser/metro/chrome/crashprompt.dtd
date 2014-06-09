@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Mozillaga nosozlik ma’lumotlarini jo‘natishni xohlaysizmi?">
+<!ENTITY crashprompt.message         "Kechirasiz, &brandShortName; hozirgina nosozlikdan keyin tiklandi. Nosozlik ma’lumotlarini jo‘natish Mozillaga &brandShortName;ni yanada ishonchli va xavfsiz qilishda yordam beradi. Parametrlarni doimo Moslamalar/Sozlamalar’dan o‘zgartirishingiz mumkin.">
+<!ENTITY crashprompt.detailsLink     "Nosozlik ma’lumotlarida nimalar bor?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Nosozlik ma’lumoti o‘z ichiga, kompyuteringiz, nosozlik haqidagi ma’lumotlar, imkon bo‘lsa, bruzeringizda nosozlik yuz bergan vaqtdagi holat rasmini oladi.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Unga ochiq sahifalar, matn shaklida kiritilgan ma’lumotlar va ochiq xabarlar tarkibi, so‘nggi ko‘rish tarixi yoki sayt bilan bo‘lishilgan geomanzil kirishi mumkin.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Nosozlik ma’lumotlaridan muammolarni hal qilish va mahsulotlarimizni yaxshilashda foydalanamiz. Ma’lumotlaringizni o‘zimizning yoritganimiz bilan bog‘laymiz ">
+<!ENTITY crashprompt.privacyPolicyLink "&quot;&brandShortName; maxfiylik nazorati">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Meni kirgan sayt manzili ham kiritilsin">
+<!ENTITY crashprompt.acceptbutton    "Ma’lumotlarni jo‘natish">
+<!ENTITY crashprompt.refusebutton    "Jo‘natilmasin">
+<!ENTITY crashprompt.privacyPolicy.title "&quot;&brandShortName; maxfiylik nazorati">

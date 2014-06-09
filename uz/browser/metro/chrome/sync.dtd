@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Qurilmangizdagi xatcho‘plaringiz, parollaringiz va ochiq ichki oynalaringizga ruxsat">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; ni moslash">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;ni moslash">
+<!ENTITY sync.flyout.setup.description1        "Agar &syncBrand.shortName.label; hisobingiz bo‘lsa, boshqa qurilmangizdagi &quot;Qurilmani bo‘lishish&quot;ni tanlang va raqamni kiriting.">
+<!ENTITY sync.flyout.setup.description2        "Agar &syncBrand.shortName.label; hisobingiz bo‘lmasa, &brandShortName; ish stoli brauzeringizda yangisini yaratishingiz mumkin.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Men kompyuterim yaqinida emasman…">
+<!ENTITY sync.flyout.setup.description3        "Eslatma:">
+<!ENTITY sync.flyout.setup.description4_2      "Qurilmani bo‘lishishni topish uchun, ">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] &quot;Moslamalar&quot; yoki &quot;Parametrlar&quot;ni oching, so‘ngra &quot;&syncBrand.shortName.label;&quot;ni tanlang&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Ko‘proq &gt; Moslamalar &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "&syncBrand.shortName.label; hisobi ma’lumotlaringizni kiriting, shundan so‘ng kompyuteringiz &quot;Tiklash kaliti&quot;ni yaratadi">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Hisob nomi">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Parol">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder " Tiklash kaliti">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Ulanish">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Siz hozirgina &brandShortName; to &syncBrand.shortName.label; hisobiga ulandingiz">
+<!ENTITY sync.flyout.setupsuccess.description2      "&syncBrand.shortName.label; ma’lumotlaringiz orqa fonda yuklab olinadi. Sinxronlangan ichki oynalarni &brandShortName;ning boshlang‘ich sahifasidan topish mumkin.">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;  &syncBrand.shortName.label; hisobingizga ulana olmadi.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Bekor qilish">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Yana urinib koʻrish">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Hisob">
+<!ENTITY sync.flyout.connected.device                     "Qurilmangiz:">
+<!ENTITY sync.flyout.connected.disconnect                 "Uzish">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; bilan qurilmangiz aloqasi uzilsinmi?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Har ikki qurilmangiz va &syncBrand.shortName.label; hisobidagi barcha shaxsiy ma’lumotlaringiz butunligicha qoladi.">
+<!ENTITY sync.flyout.connected.cancel                     "Bekor qilish">
+<!ENTITY sync.flyout.connected.pair                       "Qurilmani boʻlishish">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Bo‘lishmoqchi bo‘lgan yangi qurilmangizda &quot;&syncBrand.shortName.label;ni moslash&quot;ni tanlang va qurilma ishlab chiqaruvchilarning maxsus raqamini kiriting">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Bo‘lishish">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Eslatma:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Kodni topish uchun, ">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Ish stoli] &quot;Moslamalar&quot; yoki &quot;Parametrlar&quot;ni oching va quyidagi bosqcihlarni bajaring: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label;ni moslash -&gt; Mening hisobim bor">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Ko‘proq &gt; Moslamalar &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Iltimos, yana urinib koʻring.">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Yangi qurilma muvaffaqiyatli qo‘shildi.">
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label; ma’lumotlaringiz hozir orqa fonda yuklab olinadi. Masofadagi ichki oynalaringizni &brandShortName;ning boshlang‘ich sahifasidan topishingiz mumkin.">

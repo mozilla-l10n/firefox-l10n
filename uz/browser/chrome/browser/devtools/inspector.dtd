@@ -1,0 +1,21 @@
+<!ENTITY inspectorHTMLEdit.label       "HTML sifatida tahrirlash">
+<!ENTITY inspectorHTMLEdit.accesskey   "t">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Ichki HTML’dan nusxa olish">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Tashqi HTML’dan nusxa olish">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "T">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Noyob tanlagichdan nusxa olish">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "N">
+
+<!ENTITY inspectorHTMLDelete.label          "Tugunni o‘chirish">
+<!ENTITY inspectorHTMLDelete.accesskey      "c">
+
+<!ENTITY inspector.selectButton.tooltip     "Elementni sichqoncha bilan tanlash">
+
+<!ENTITY inspectorSearchHTML.label          "HTML qidirish">
+<!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "Rasm ma’lumot-URL’dan nusxa olish">

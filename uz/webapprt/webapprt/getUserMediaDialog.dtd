@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                   "Media bo‘lishish">
+<!ENTITY getUserMediaDialog.button.accept.label     "Bo‘lishish">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "B">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Bekor qilish">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "B">
+
+<!ENTITY getUserMediaDialog.video.label             "Kamerani tanlash">
+<!ENTITY getUserMediaDialog.video.noVideo           "Video yo‘q">
+<!ENTITY getUserMediaDialog.audio.label             "Mikrofonni tanlash">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Audio - yo‘q">

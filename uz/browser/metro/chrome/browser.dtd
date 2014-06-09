@@ -1,0 +1,149 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Manzilni yoki izlash uchun so‘zlarni kiriting">
+
+<!ENTITY back.label            "Orqaga">
+<!ENTITY forward.label         "Oldinga">
+<!ENTITY newtab.label          "Yangi ichki oyna">
+<!ENTITY newPrivateTab.label   "Yangi maxfiy oyna">
+<!ENTITY closetab.label        "Ichki oynani yopish">
+
+<!ENTITY autocompleteResultsHeader.label  "Natijalar">
+
+<!ENTITY appbarErrorConsole.label      "Xato konsolini ochish">
+<!ENTITY appbarJSShell.label           "JavaScript terminalini ochish">
+<!ENTITY appbarFindInPage2.label       "Sahifadan topish">
+<!ENTITY appbarRelaunchInDesktop.label "Ishchi stolida qayta ishga tushirish">
+<!ENTITY appbarMSMetaData2.label       "Ushbu sayt uchun dasturni olish">
+<!ENTITY appbarViewPageSource.label    "Sahifa manbasini ko‘rish">
+
+<!ENTITY topSitesHeader.label        "Eng yuqori reytingli saytlar">
+<!ENTITY bookmarksHeader.label       "Xatchoʻplar">
+<!ENTITY recentHistoryHeader.label   "Soʻnggi tarix">
+<!ENTITY remoteTabsHeader.label      "Boshqa qurilmalardan ichki oynalar">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Yuqori reytingli saytlar">
+<!ENTITY narrowBookmarksHeader.label     "Xatchoʻplar">
+<!ENTITY narrowRecentHistoryHeader.label "Soʻnggi tarix">
+<!ENTITY narrowRemoteTabsHeader.label    "Masofadagi ichki oynalar">
+
+<!ENTITY downloadsHeader.label     "Yuklab olishlar">
+<!ENTITY downloadShowPage.label    "Sahifaga oʻtish">
+<!ENTITY downloadShow2.label       "Topish">
+<!ENTITY downloadOpen2.label       "Ochish">
+<!ENTITY downloadCancel.label      "Bekor qilish">
+<!ENTITY downloadPause.label       "Pauza">
+<!ENTITY downloadResume.label      "Davom etish">
+<!ENTITY downloadRetry.label       "Qayta urinish">
+<!ENTITY downloadRemove.label      "Olib tashlash">
+<!ENTITY downloadDelete.label      "Oʻchirish">
+<!ENTITY downloadFailed.label      "Muvaffaqiyatsiz yakunlandi">
+
+<!ENTITY allBookmarks.label        "Barcha xatchoʻplarni koʻrish">
+
+<!ENTITY consoleHeader.label       "Xato terminali">
+<!ENTITY consoleAll.label          "Hammasi">
+<!ENTITY consoleErrors.label       "Xatolar">
+<!ENTITY consoleWarnings.label     "Ogohlantirishlar">
+<!ENTITY consoleMessages.label     "Xabarlar">
+<!ENTITY consoleCodeEval.label     "Kodi:">
+<!ENTITY consoleClear.label        "Tozalash">
+<!ENTITY consoleCopyAll.label      "Nusxa olish">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Manba fayli:">
+<!ENTITY consoleErrLine.label      "Chiziq:">
+<!ENTITY consoleErrColumn.label    "Ustun:">
+<!ENTITY consoleFollowCheckbox.label "Kuzatish">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Kesish">
+<!ENTITY contextTextCopy.label             "Nusxa olish">
+<!ENTITY contextTextPaste.label            "Qoʻyish">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Qo‘yish va o‘tish">
+<!ENTITY contextTextSelect.label           "Tanlash">
+<!ENTITY contextTextSelectAll.label        "Hammasini tanlash">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Linkni yangi ichki oynada ochish">
+<!ENTITY contextCopyLinkHref.label         "Linkdan nusxa olish">
+<!ENTITY contextBookmarkLinkHref.label     "Linkni xatchoʻplarga qoʻshish">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Rasm kutubxonasiga saqlash">
+<!ENTITY contextCopyImage.label            "Rasmdan nusxa olish">
+<!ENTITY contextCopyImageLocation.label    "Rasm manzilidan nusxa olish">
+<!ENTITY contextOpenImageTab.label         "Linkni yangi ichki oynada ochish">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Video kutubxonasiga saqlash">
+<!ENTITY contextCopyVideoLocation.label    "Video manzildan nusxa olish">
+<!ENTITY contextOpenVideoTab.label         "Videoni yangi ichki oynada ochish">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+<!ENTITY firstRunTabs.label "Ichki oynalaringizni izlayapsizmi? Pastga torting yoki oʻng tomonini bosing">
+<!ENTITY firstRunTopSites.label "Koʻp kirgan saytlaringizga oʻting">
+<!ENTITY firstRunBookmarks.label "Saqlab qoʻygan sahifalaringizni toping">
+<!ENTITY firstRunMenu.label "Koʻproq xususiyatlar va moslamalarga kirish">
+<!ENTITY firstRunHistory.label "Internetda qayerlarda boʻlganligingizni koʻring">
+<!ENTITY firstRunWelcome.label "&brandShortName;ga xush kelibsiz!">
+<!ENTITY firstRunDifferent.label "Dizayni oʻzgacha">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "Oldingi sahifaga oʻtish uchun barmogʻingizni tekizing">
+<!ENTITY firstRunNewTab.label "Yangi saytni koʻrish uchun yangi ichki oyna qoʻshing">
+<!ENTITY firstRunStar.label "Sahifalarni keyinroq koʻrish uchun saqlagan xatchoʻplaringizdan foydalaning.">
+<!ENTITY firstRunPin.label "Tezda kirish uchun Windows Start oynasiga saytlarni yopishtirish">
+<!ENTITY firstRunGotIt.label "Uni ol!">

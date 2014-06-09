@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Moslamalar">
+<!ENTITY optionsHeader.char.title                                "Kodlash usuli">
+<!ENTITY optionsHeader.char.autodetect.label                     "Avto-aniqlash">
+<!ENTITY optionsHeader.char.options.label                        "Ilova dasturlar panelidagi kodlash moslamalarini ko‘rsatish">
+
+<!ENTITY clearPrivateData.title                                  "Maxfiy ma’lumotlarni tozalash">
+<!ENTITY clearPrivateData.label                                  "Ushbu qurilmadagi kirilgan saytlar tarixi, parollar, kukilar va to‘ldirilgan shakllarni tozalash">
+<!ENTITY clearPrivateData.button                                 "Tozalash">
+<!ENTITY clearPrivateData.done                                   "Tayyor!">
+<!ENTITY clearPrivateData.history                                "Ko‘rish tarixi">
+<!ENTITY clearPrivateData.otherdata                              "Boshqa ma’lumotlar (parollar, kesh, kukilar va b.)">
+<!ENTITY clearPrivateData.downloadHist                           "Tarixni yuklab olish">
+<!ENTITY clearPrivateData.cookies                                "Kukilar">
+<!ENTITY clearPrivateData.cache                                  "Kesh">
+<!ENTITY clearPrivateData.sitePref                               "Sayt parametrlari">
+<!ENTITY clearPrivateData.formSearchHist                         "Shakl va izlash tarixi">
+<!ENTITY clearPrivateData.passwords                              "Saqlangan parollar">
+<!ENTITY clearPrivateData.offline                                "Oflayn vebsahifa ma’lumotlari">
+<!ENTITY clearPrivateData.logins                                 "Faol loginlar">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Parollarni eslab qolish">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Boshqarish tugmalarini ko‘rsatish">
+<!ENTITY doNotTrack.title                                        "Kuzatilmasin">
+<!ENTITY doNotTrack.options.doNotTrack                           "Kuzatishni xohlamasligim saytlarga aytilsin">
+<!ENTITY doNotTrack.options.doTrack                              "Kuzatishni xohlashim saytlarga aytilsin">
+<!ENTITY doNotTrack.options.default                              "Kuzatish moslamalarim haqida saytlarga hech narsa aytilmasin.">
+<!ENTITY doNotTrack.learnMoreLink                                "Ko‘proq o‘rganish&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Nosozlik haqida xabar beruvchi">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; Mozillaga brauzeringizni mustahkam va ishonchli qilishda yordam berish uchun nosozlik ma`lumotlarini joʻnatadi.">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Men kirgan sahifalar manzili ham qo‘shilsin">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetriya">
+<!ENTITY optionsHeader.telemetry.label                            "&brandShortName; haqidagi foydalanish statistikasi ma’lumotlarini Mozilla bilan baham ko‘rishsangiz, brauzeringizni  yaxshilashimziga yordam beradi.">

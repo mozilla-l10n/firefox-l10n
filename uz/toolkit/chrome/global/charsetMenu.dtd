@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY charsetMenu.label             "Kodlash usuli">
+<!ENTITY charsetMenu.accesskey         "K">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
+<!ENTITY charsetMenuAutodet.label      "Avto-aniqlash">
+<!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "A">
+
+<!ENTITY charsetMenuAutodet.off.label     "(o‘chirilgan)">
+<!ENTITY charsetMenuAutodet.off.accesskey "o">
+<!ENTITY charsetMenuAutodet.ja.label      "Yaponcha">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "Y">
+<!ENTITY charsetMenuAutodet.ru.label      "Ruscha">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+<!ENTITY charsetMenuAutodet.uk.label      "Ukraincha">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
+

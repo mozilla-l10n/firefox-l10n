@@ -1,0 +1,78 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title  "Parol ustasini oʻzgartirish">
+<!ENTITY setPassword.tokenName.label "Qurilma xavfsizligi">
+<!ENTITY setPassword.oldPassword.label "Joriy parol:">
+
+
+<!ENTITY setPassword.meter.label "Parolning mustahkamlik darajasi">
+
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "Tiklash">
+<!ENTITY resetPassword.title  "Parol ustasini tiklash">
+
+<!-- Values for getpassword.xul -->
+<!ENTITY getPassword.tokenName2.label "Qurilma xavfsizligi:">
+
+<!-- These should be common -->
+
+<!ENTITY piperror.title "Xato">
+
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Xavfsizlik">
+
+
+<!ENTITY pref.security.general.level.title "Xavfsizlik darajasi">
+
+<!ENTITY pref.security.general.certificates.title "Sertifikatlar">
+
+<!-- Downloading a cert -->
+
+
+
+
+
+<!ENTITY downloadCert.viewCert.label "Ko‘rinishi">
+
+
+
+<!-- Strings for the SSL client auth ask dialog -->
+
+
+
+<!-- Strings for the cert picker dialog -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.msg2 "Iltimos, kutib turing…">
+<!-- Form Signing confirmation prompt -->
+
+
+<!-- Strings for protectedAuth dialog -->
+
+
+
+<!ENTITY certErrorDlg.title "Xavfsiz ulanib boʻlmadi">
+
+

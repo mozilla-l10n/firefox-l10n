@@ -1,0 +1,161 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Sahifani yuklashda muammo">
+<!ENTITY retry.label "Yana urinib koʻring">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ulana olmadi">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Bu manzil cheklangan">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Server topilmadi">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Manzil toʻgʻri kiritilganligini tekshiring.
+Masalan, <strong>www</strong>.example.com oʻrniga
+<strong>ww</strong>.example.com kiritilgan boʻlishi mumkin.</li> 
+<li>Agar birorta ham sahifa yuklanmagan boʻlsa, kompyuteringizning tarmoqqa
+ulanishini tekshirib koʻring.</li> 
+<li>Agar kompyuter yoki tarmogʻingiz fayervol bilan himoyalangan boʻlsa,
+&brandShortName;ning internetga kirishdan toʻsilmaganligini tekshirib koʻring.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Fayl topilmadi">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> 
+<li>Faylning oʻchirilganligi, nomi oʻzgartirilganligi va koʻchirilganligini tekshirib koʻring.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Obbo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba`zi sabablarga koʻra yuklay olmadi.</p>">
+
+<!ENTITY malformedURI.title "Xato manzil">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Veb manzillar, odatda, quyidagicha:
+<strong>http://www.example.com/</strong> yoziladi</li> 
+<li>/ belgisini toʻgʻri yozilganligini tekshirib koʻring 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Hujjat mavjud emas">
+<!ENTITY notCached.longDesc "<p>Soʻralgan hujjat &brandShortName;&apos;ning keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga koʻra, &brandShortName; maxfiy hujjatlarni avtomatik qayta soʻramaydi.</li><li>Hujjatni saytdan qayta soʻrash uchun &quot;Yana urinib koʻrish&quot;ni bosing.</li></ul>">
+
+<!ENTITY netOffline.title "Oflayn usuli">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Onlayn usuliga oʻtish va sahifani qayta yuklash uchun &quot;Yana urinib koʻrish&quot;ni bosing.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Xavfli fayl turi">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Iltimos, ushbu muammo haqida xabar berish uchun veb sahifa egasi bilan bogʻlaning.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Ulanish uzilib qolgan">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Ulanish vaqti oʻtib ketdi">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Manzil tushunilmadi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Ushbu manzilni ochish uchun boshqa dasturni oʻrnatishingiz kerak.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Proksi moslamalari toʻgʻri ekanligini tekshirib koʻring.</li> 
+<li>Proksi server ishlayotganligiga ishonch hosil qilish uchun 
+tarmoq administratori bilan bogʻlaning.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Proksining toʻgʻri moslanganligini tekshirib koʻring.</li> 
+<li>Kompyuteringizning tarmoqqa ulanganligini tekshirib koʻring.</li> 
+<li>Agar kompyuteringiz yoki tarmogʻingiz fayervol yoki proksi bilan himoyalangan
+boʻlsa, &brandShortName;ning internetga kirishi cheklanmaganligini tekshirib koʻring.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Sahifa toʻgʻri yoʻnaltirilmagan">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ushbu muammo ba`zida kukilarni oʻchirilishiga yoki rozilikni rad qilinishiga 
+sabab boʻlishi mumkin.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Serverdan kutilmagan javob">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda oʻrnatilganligini 
+tekshirib koʻring.</li> 
+<li>Bu serveringizning nostandart moslanganligidan ham boʻlishi mumkin.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Xavfsiz ulanib boʻlmadi">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Siz ochmoqchi boʻlgan sahifani  koʻrsatib boʻlmaydi, chunki  olingan ma`lumotlarni tasdiqdan oʻtkazish uchun tekshirib boʻlmadi.</li> 
+<li>Ushbu muammo haqida xabar berish uchun, iltimos, veb sayt egasi bilan bogʻlaning. Yoki muqobil ravishda yordam menyusidan buyruqni topib, buzilgan sayt haqida ma`lumot joʻnating. </li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Xavfsiz ulanib boʻlmadi">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Muammoga sabab serverning moslanishi yoki kimnidir 
+serverni buzishga urinishi boʻlishi mumkin.</li> 
+<li>Agar serverga oldinroq muvaffaqiyatli ulangan boʻlsangiz, xato 
+vaqtinchalik boʻlishi va keyinroq yana urinib koʻrishingiz mumkin boʻladi.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Bu sayt vaqtinchalik ishlamayotgan yoki juda band boʻlishi mumkin. 
+Bir ozdan soʻng urinib koʻring.</li> 
+<li>Agar birorta ham sahifa yuklanmasa, kompyuteringizni tarmoqqa 
+ulanishini tekshirib koʻring.</li> 
+<li>Agar kompyuter yoki tarmogʻingiz fayervol yoki proksi bilan himoyalangan boʻlsa, 
+&brandShortName;ning internetga kirishi cheklanmaganligini tekshirib koʻring.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Hujumkor sayt aniqlandi!">
+<!ENTITY malwareBlocked.longDesc "<p>Hujumkor saytlar shaxsiy ma`lumotlaringizni oʻgʻirlaydigan dasturlarni oʻrnatishga urinadi, kompyuteringizdan boshqalarga hujum qilish uchun foydalanishga yoki tizimingizni buzishga harakat qiladi.</p> 
+<p>Saytlarini xato tufayli hujumkor sayt deb xabar berilgan deb hisoblovchi sayt egalari <a href='http://www.stopbadware.org/home/reviewinfo' >qayta koʻrib chiqish</a>ni soʻrashlari mumkin.</p>">
+
+<!ENTITY phishingBlocked.title "Veb qalloblik aniqlandi!">
+<!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga shaxsiy ma`lumotlarni kiritish, ularni oʻgʻirlanishiga yoki boshqa tovlamachiliklarga sabab boʻlishi mumkin.</p> 
+<p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolgʻon veb sayt va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Kontent xavfsizlik nazorati tomonidan bloklangan">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yoʻlda yuklashga toʻsqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
+
+<!ENTITY corruptedContentError.title "Buzilgan content xatosi">
+<!ENTITY corruptedContentError.longDesc "<p>Siz koʻrmoqchi boʻlgan sahifani koʻrsatib boʻlmaydi, chunki ma`lumotlarni uzatishda xato aniqlandi.</p><ul><li>Iltimos, ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "yoki siz istisno qoʻshishingiz mumkin.">
+<!ENTITY securityOverride.getMeOutOfHereButton "Men bu yerdan chiqaman!">
+<!ENTITY securityOverride.exceptionButtonLabel "Istisno qoʻshish">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Oʻzingiz ishonmaydigan internetga ulanishdan foydalansangiz yoki ushbu server uchun ogohlantirishlarni koʻrishdan foydalanmasangiz, istisnolar qoʻshmasligingiz kerak .</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Masofadagi XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul></p>">
