@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
-<!ENTITY canvasDebuggerUI.reloadNotice2   "az oldalt a <canvas> kontextusok hibakereséséhez.">
+<!ENTITY canvasDebuggerUI.reloadNotice2   "az oldalt a &lt;canvas&gt; kontextusok hibakereséséhez.">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
