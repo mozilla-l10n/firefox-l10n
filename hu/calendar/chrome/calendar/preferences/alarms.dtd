@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Az e-mail értesítés alapértelmezett címzettje:">
 <!ENTITY pref.defaulttext.label "Alapértelmezett szöveg az értesítésekhez:">
+
+<!ENTITY pref.defaultsnoozelength.label "Alapértelmezett szundihossz:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

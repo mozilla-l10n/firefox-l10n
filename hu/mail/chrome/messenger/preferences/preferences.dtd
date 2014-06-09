@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Szerkesztés">
 <!ENTITY paneChat.title           "Csevegés">
 <!ENTITY paneAttachments.title    "Mellékletek">
+<!ENTITY panePrivacy.title        "Adatvédelem">
 <!ENTITY paneSecurity.title       "Biztonság">
 <!ENTITY paneAdvanced.title       "Speciális">

@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Péntek" >
 <!ENTITY day.7.name "Szombat" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "perc">
-<!ENTITY calendar.global.units.minutes  "perc">
-<!ENTITY calendar.global.units.hour     "óra">
-<!ENTITY calendar.global.units.hours    "óra">
-<!ENTITY calendar.global.units.day      "nap">
-<!ENTITY calendar.global.units.days     "nap">
-
 <!ENTITY month.1.name "Január" >
 <!ENTITY month.2.name "Február" >
 <!ENTITY month.3.name "Március" >
