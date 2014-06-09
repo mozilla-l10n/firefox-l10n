@@ -97,7 +97,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect 'Herstelsleutel onjuist. Probeer het opnieuw.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Tabbladen naar apparaten verzenden'>
+<!ENTITY sync.title.send.tab.label 'Tabblad naar apparaten verzenden'>
 <!ENTITY sync.button.send.label 'Verzenden'>
 <!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; instellen'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; instellen om tabbladen te verzenden'>
