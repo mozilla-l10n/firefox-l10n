@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label "Inviter des participants">
 <!ENTITY event.organizer.label "Organisateur">
 <!ENTITY event.freebusy.suggest.slot "Suggérer un créneau horaire :">
-<!ENTITY event.freebusy.next.slot "Créneau horaire suivant" >
-<!ENTITY event.freebusy.previous.slot "Créneau horaire précédent" >
+<!ENTITY event.freebusy.button.next.slot "Créneau horaire suivant">
+<!ENTITY event.freebusy.button.previous.slot "Créneau horaire précédent">
 <!ENTITY event.freebusy.zoom "Zoom :">
 <!ENTITY event.freebusy.legend.free "Disponible" >
 <!ENTITY event.freebusy.legend.busy "Occupé" >
