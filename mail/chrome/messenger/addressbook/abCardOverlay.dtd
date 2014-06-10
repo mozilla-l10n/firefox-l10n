@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Weergave:">
 <!ENTITY DisplayName.accesskey          "a">
 <!ENTITY preferDisplayName.label        "Altijd weergavenaam boven berichtkop verkiezen">
-<!ENTITY preferDisplayName.accesskey    "i">
+<!ENTITY preferDisplayName.accesskey    "z">
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
@@ -50,7 +50,7 @@
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
-<!ENTITY HomePhone.accesskey            "T">
+<!ENTITY HomePhone.accesskey            "u">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pieper:">
@@ -119,11 +119,11 @@
 <!ENTITY Notes.accesskey                "A">
 
 <!ENTITY Chat.tab                       "Chat">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "t">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
