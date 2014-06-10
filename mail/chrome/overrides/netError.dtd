@@ -122,7 +122,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Zabezpečené pripojenie zlyhalo">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.</li>
   <li>Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.</li>

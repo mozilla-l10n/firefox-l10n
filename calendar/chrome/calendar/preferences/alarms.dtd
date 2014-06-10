@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "a">
 <!ENTITY pref.defalarmlen4todos.label "Čas upozornenia pred úlohou:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Prednastavená adresa, kam odosielať upozornenia:">
-<!ENTITY pref.defaulttext.label "Prednastavený text upozornení:">
 
 <!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "e">

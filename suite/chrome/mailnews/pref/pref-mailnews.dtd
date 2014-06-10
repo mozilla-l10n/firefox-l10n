@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Kanály">
 <!ENTITY setDefaultFeed.accesskey         "K">
 
+<!ENTITY useInternalSettings.description  "Používať poštového klienta &brandShortName; pri otváraní nasledovných odkazov v prehliadači:">
+<!ENTITY useInternalMail.label            "Pošta (mailto:)">
+<!ENTITY useInternalMail.accesskey        "t">
+<!ENTITY useInternalNews.label            "Správy (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "S">
+
 <!ENTITY messengerStartPage.caption       "Úvodná stránka pošty">
 <!ENTITY enableStartPage.label            "Pri spustení pošty zobraziť stránku v oblasti správy">
 <!ENTITY enableStartPage.accesskey        "e">
