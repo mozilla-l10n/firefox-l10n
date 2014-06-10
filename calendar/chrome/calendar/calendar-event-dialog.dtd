@@ -337,8 +337,8 @@
 <!ENTITY invite.title.label "Inviter deltagere">
 <!ENTITY event.organizer.label "Arrangør">
 <!ENTITY event.freebusy.suggest.slot "Foreslå tidsperiode:">
-<!ENTITY event.freebusy.next.slot "Næste  mulighed">
-<!ENTITY event.freebusy.previous.slot "Forrige mulighed">
+<!ENTITY event.freebusy.button.next.slot        "Næste  mulighed">
+<!ENTITY event.freebusy.button.previous.slot    "Forrige mulighed">
 <!ENTITY event.freebusy.zoom "Zoom:">
 <!ENTITY event.freebusy.legend.free "Ledig">
 <!ENTITY event.freebusy.legend.busy "Optaget">
