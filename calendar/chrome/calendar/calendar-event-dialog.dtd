@@ -19,7 +19,7 @@
 <!ENTITY newevent.eventStatus.cancelled.accesskey "О" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Отменено" >
 <!ENTITY newevent.status.tentative.label          "Возможно" >
-<!ENTITY newevent.status.tentative.accesskey      "У" >
+<!ENTITY newevent.status.tentative.accesskey      "з" >
 <!ENTITY newevent.status.confirmed.label          "Подтверждено" >
 <!ENTITY newevent.status.confirmed.accesskey      "П" >
 <!ENTITY newevent.status.needsaction.label        "В ожидании" >
