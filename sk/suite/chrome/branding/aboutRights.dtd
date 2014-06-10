@@ -31,22 +31,36 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; ponúka voliteľné služby webových stránok, ako napríklad služba aktualizácie doplnkov. Nemôžeme však zaručiť, že pracujú na 100&#37; a sú dostupné bez chýb. Ďalšie podrobnosti vrátane informácií o možnostiach vypnutia týchto služieb nájdete v ich ">
+<!ENTITY rights2.intro-point4a "&brandShortName; ponúka voliteľné služby webových stránok, ako napríklad služba Doplnkov či SafeBrowsing. Nemôžeme však zaručiť, že pracujú na 100&#37; a sú dostupné bez chýb. Ďalšie podrobnosti vrátane informácií o možnostiach vypnutia týchto služieb nájdete v ich ">
 <!ENTITY rights.intro-point4b "podmienkach použitia">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; - Služby webových stránok">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; ponúka voliteľné služby webových stránok (ďalej len &quot;Služby&quot;), ako napríklad službu aktualizácie nainštalovaných doplnkov, ktoré je možné používať s touto binárnou verziou &brandShortName; tak, ako je popísané nižšie. If you do not want to use the Services or the terms below are unacceptable, Ak nechcete tieto Služby používať alebo podmienky ich používania nie sú pre vás prijateľné, môžete službu aktualizácie nainštalovaných doplnkov vypnúť v nastaveniach programu na paneli ">
-<!ENTITY rights.webservices-b "Rozšírené">
-<!ENTITY rights.webservices-c ", v sekcii ">
-<!ENTITY rights.webservices-d "Inštalácia softvéru">
-<!ENTITY rights.webservices-e ", kde zrušíte označenie voľby &quot;Automaticky kontrolovať aktualizácie pre&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; ponúka voliteľné služby (ďalej len &quot;Služby&quot;), ako napríklad službu navrhovania doplnkov či aktualizácie už nainštalovaných doplnkov alebo funkciu SafeBrowsing, ktoré je možné používať s touto binárnou verziou &brandShortName; tak, ako je popísané nižšie. Tieto Služby sú predvolene zapnuté. Ak nechcete tieto Služby používať alebo podmienky ich používania nie sú pre vás prijateľné, inštrukcie na vypnutie funkcie alebo Služby je možné nájsť ">
+<!ENTITY rights2.webservices-b "tu">
+<!ENTITY rights2.webservices-c ". Ďalšie funkcie a Služby je možné vypnúť v nastaveniach aplikácie.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Služba Doplnky: ">
+<!ENTITY rights.addons-b "Predvolene, &brandShortName; navrhuje doplnky na stránke &view.discover.label; a pravidelne kontroluje dopstupnosť aktualizácií pre nainštalované doplnky. Ak si prajete vypnúť tieto funkcie z dôvodu komunikácie prehliadača so serverom ohľadne vašich nainštalovaných doplnkov, postupujte nasledovne:">
+<!ENTITY rights.addons-term1 "Otvorte okno nastavení aplikácie">
+<!ENTITY rights.addons-term2 "Zvoľte panel &smart.label; v kategórii &advance.label;">
+<!ENTITY rights.addons-term3 "Zrušte označenie volieb &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Služba Doplnky je teraz vypnutá">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Služba SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Vypnutie služby Safe Browsing sa neodporúča, pretože môže viesť k tomu, že sa dostanete na nebezpečné stránky. Ak si túto službu prajete vypnúť, postupujte nasledovne:">
+<!ENTITY rights.safebrowsing-term1 "Otvorte okno nastavení aplikácie">
+<!ENTITY rights.safebrowsing-term2 "Zvoľte panel &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Zrušte označenie volieb &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Služba SafeBrowsing je teraz vypnutá">
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; môže zrušiť využívanie alebo zmeniť Služby podľa svojho uváženia.">

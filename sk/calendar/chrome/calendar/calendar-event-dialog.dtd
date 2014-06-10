@@ -332,8 +332,8 @@
 <!ENTITY invite.title.label                     "Pozvaní účastníci">
 <!ENTITY event.organizer.label                  "Organizátor">
 <!ENTITY event.freebusy.suggest.slot            "Navrhnutý vhodný čas:">
-<!ENTITY event.freebusy.next.slot               "Ďalší vhodný čas " >
-<!ENTITY event.freebusy.previous.slot           " Predchádzajúci vhodný čas" >
+<!ENTITY event.freebusy.button.next.slot        "Ďalší vhodný čas">
+<!ENTITY event.freebusy.button.previous.slot    "Predchádzajúci vhodný čas">
 <!ENTITY event.freebusy.zoom                    "Zmena veľkosti:">
 <!ENTITY event.freebusy.legend.free             "Voľný" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Neistý" >
