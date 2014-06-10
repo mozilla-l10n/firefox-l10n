@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "С" >
 <!ENTITY newevent.to.label                  "По" >
-<!ENTITY newevent.attendees.notify.label    "Уведомить участников">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Сделать участников невидимыми в приглашениях">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Если выбрано, участники не будут видеть друг друга в приглашениях. Применяется только при приглашениях по электронной почте.">
 
 <!ENTITY newevent.status.label                    "Состояние" >
 <!ENTITY newevent.status.accesskey                "я" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Уведомить участников">
+<!ENTITY event.attendees.notifyundisclosed.label    "Разделить приглашения по участникам">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Эта настройка позволяет отправить эл.письмо с приглашением каждому участнику по отдельности. Каждое приглашение индивидуально и другие участники не раскрываются.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
