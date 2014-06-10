@@ -44,4 +44,15 @@
 <!ENTITY translation.errorTranslating.label     "Ocorreu um erro ao traduzir esta página.">
 <!ENTITY translation.tryAgain.button            "Tentar de novo">
 
+<!ENTITY translation.serviceUnavailable.label   "A tradução não está disponível de momento. Tente de novo mais tarde.">
+
 <!ENTITY translation.options.menu               "Opções">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Nunca traduzir este sítio">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Preferências da tradução">
+<!ENTITY translation.options.preferences.accesskey "t">

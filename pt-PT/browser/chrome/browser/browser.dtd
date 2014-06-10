@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "s">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Abrir localização…">
 <!ENTITY openFileCmd.label "Abrir ficheiro...">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!ENTITY backCmd.label 				"Recuar">
-<!ENTITY backCmd.accesskey 			"R">
 <!ENTITY backButton.tooltip 		"Recuar uma página">
 <!ENTITY forwardCmd.label 			"Avançar">
-<!ENTITY forwardCmd.accesskey 		"A">
 <!ENTITY forwardButton.tooltip 		"Avançar uma página">
 <!ENTITY backForwardButtonMenu.tooltip "Clique direito ou desloque para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Desloque para mostrar o histórico">
 <!ENTITY reloadCmd.label 			"Recarregar">
-<!ENTITY reloadCmd.accesskey 		"c">
 <!ENTITY reloadButton.tooltip 		"Recarrega a página atual">
 <!ENTITY stopCmd.label 				"Parar">
-<!ENTITY stopCmd.accesskey 			"P">
 <!ENTITY stopCmd.macCommandKey 		".">
 <!ENTITY stopButton.tooltip 		"Parar de carregar esta página">
 <!ENTITY goEndCap.tooltip 			"Ir para o endereço da barra de localização">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey 		"A">
 
 <!ENTITY downloads.label 				"Transferências">
-<!ENTITY downloads.tooltip 				"Mostra o progresso das transferências">
 <!ENTITY downloads.accesskey 			"r">
 <!ENTITY downloads.commandkey 			"j">
 <!ENTITY downloadsUnix.commandkey 		"y">
@@ -252,10 +251,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Caixa de ferramentas do navegador">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label			"Caixa de ferramentas do navegador">
+<!ENTITY browserToolboxMenu.accesskey		"e">
 
-<!ENTITY devToolbarCloseButton.tooltiptext  "Fechar barra de ferramentas do programador">
+<!ENTITY devToolbarCloseButton.tooltiptext	"Fechar barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.label 				"Barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.accesskey 			"v">
 <!ENTITY devAppMgrMenu.label 				"Gestor de aplicações">
@@ -298,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key 						"V">
 <!ENTITY pasteCmd.accesskey 				"O">
 <!ENTITY deleteCmd.label 					"Eliminar">
-<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.key						"D">
 <!ENTITY deleteCmd.accesskey 				"l">
 <!ENTITY selectAllCmd.label 				"Selecionar tudo">
 <!ENTITY selectAllCmd.key "A">
@@ -364,10 +363,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
-<!ENTITY openCmd.commandkey 		  "l">
-<!ENTITY urlbar.placeholder2  		  "Procurar ou introduzir endereço">
-<!ENTITY urlbar.accesskey 			  "a">
-<!ENTITY urlbar.switchToTab.label 	  "Mudar para o separador:">
+<!ENTITY openCmd.commandkey				"l">
+<!ENTITY urlbar.placeholder2			"Procurar ou introduzir endereço">
+<!ENTITY urlbar.accesskey				"a">
+<!ENTITY urlbar.switchToTab.label		"Mudar para o separador:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
