@@ -23,7 +23,7 @@
 <!ENTITY calendar.events.filter.currentview.label "События в текущем обзоре">
 <!ENTITY calendar.events.filter.next7Days.label "События на следующие 7 дней">
 <!ENTITY calendar.events.filter.next14Days.label "События на следующие 14 дней">
-<!ENTITY calendar.events.filter.next31Days.label "События на следующие 31 дней">
+<!ENTITY calendar.events.filter.next31Days.label "События на следующий 31 день">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "События на этот месяц">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
