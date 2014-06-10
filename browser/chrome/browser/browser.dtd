@@ -706,6 +706,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Acesso ao equipamento/microfone">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostra os sítios partilhados com o seu equipamento ou microfone">
 
+<!ENTITY loopCallButton.tooltip "Convide alguém para falar">
+
 <!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar mesmo se este conteúdo for bloqueado.">
 
 <!ENTITY pointerLock.notification.message "Prima ESC, em qualquer momento, para mostrar novamente.">
