@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Приглашение участников">
 <!ENTITY event.organizer.label                  "Организатор">
 <!ENTITY event.freebusy.suggest.slot            "Предложить отрезок времени:">
-<!ENTITY event.freebusy.next.slot               "Следующий отрезок " >
-<!ENTITY event.freebusy.previous.slot           " Предыдущий отрезок" >
+<!ENTITY event.freebusy.button.next.slot        "Следующий отрезок" >
+<!ENTITY event.freebusy.button.previous.slot    "Предыдущий отрезок" >
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
 <!ENTITY event.freebusy.legend.free             "Свободен" >
 <!ENTITY event.freebusy.legend.busy             "Занят" >
