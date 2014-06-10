@@ -66,7 +66,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "ALLER À">
+<!ENTITY switch_button_message "S\u0027Y RENDRE">
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
