@@ -30,22 +30,38 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "Niektóre funkcje programu &brandShortName;, jak np. system aktualizacji dodatków, umożliwiają korzystanie z internetowych usług informacyjnych, jednakże nie możemy zagwarantować ich stuprocentowej dokładności ani bezbłędności. Szczegółowe informacje, w tym opis wyłączenia tych usług, można znaleźć w ">
+<!ENTITY rights2.intro-point4a "Niektóre funkcje programu &brandShortName;, jak np. usługi dodatków czy usługa Bezpiecznego przeglądania, umożliwiają korzystanie z internetowych usług informacyjnych, jednakże nie możemy zagwarantować ich stuprocentowej dokładności ani bezbłędności. Szczegółowe informacje, w tym opis wyłączenia tych usług, można znaleźć w ">
 <!ENTITY rights.intro-point4b "warunkach korzystania z tych usług">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Usługi informacyjne WWW programu &brandFullName;">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "W tej wersji program &brandFullName; wykorzystuje niektóre usługi informacyjne WWW, zwane dalej „usługami”, takie jak usługa aktualizacji dodatków, i udostępnia je na zasadach przedstawionych poniżej. Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasad, możesz wyłączyć usługę aktualizacji dodatków wchodząc do preferencji programu, przechodząc do sekcji ">
-<!ENTITY rights.webservices-b "Zaawansowane">
-<!ENTITY rights.webservices-c ", a następnie ">
-<!ENTITY rights.webservices-d "Instalacja">
-<!ENTITY rights.webservices-e " i odznaczając opcję „Automatycznie sprawdzaj, czy są dostępne aktualizacje dla:”.">
+<!ENTITY rights2.webservices-a "W tej wersji program &brandFullName; wykorzystuje niektóre usługi informacyjne WWW, zwane dalej „usługami”, takie jak usługi proponowania oraz aktualizacji dodatków czy usługę Bezpiecznego przeglądania, i udostępnia je na zasadach przedstawionych poniżej. Te usługi są domyślnie włączone. Jeśli nie chcesz korzystać z tych usług lub nie akceptujesz poniższych zasad, instrukcje jak wyłączyć poszczególne funkcje bądź usługi można znaleźć">
+<!ENTITY rights2.webservices-b "tutaj">
+<!ENTITY rights2.webservices-c " Inne funkcje oraz usługi można wyłączyć w preferencjach aplikacji.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Usługi dodatków: ">
+<!ENTITY rights.addons-b "Domyślnie &brandShortName; będzie proponować dodatki na stronie  &view.discover.label; oraz regularnie poszukiwać aktualizacje. Wyłączenie tych funkcji, w celu uniemożliwienia wysyłania informacji o zainstalowanych dodatkach, jest możliwe za pomocą następujących kroków:">
+<!ENTITY rights.addons-term1 "Otworzyć preferencje aplikacji">
+<!ENTITY rights.addons-term2 "Wybrać panel  &smart.label; w kategorii &advance.label;">
+<!ENTITY rights.addons-term3 "Odznaczyć opcje &quot;&autoAddOnsUpdates.label;&quot; oraz &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Usługi dodatków zostały w ten sposób wyłączone">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Bezpieczne przeglądanie: ">
+<!ENTITY rights.safebrowsing-b "Wyłączenie Bezpiecznego przelądania nie jest zalecane, gdyż może to skutkować odwiedzaniem niebezpiecznych stron. W celu kompletnego wyłączenia Bezpiecznego przelądania należy wykonać następujące kroki:">
+<!ENTITY rights.safebrowsing-term1 "Otworzyć preferencje aplikacji">
+<!ENTITY rights.safebrowsing-term2 "Wybrać główny panel &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Odznaczyć opcje &quot;&blockAttackSites.label;&quot; oraz &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Bezpieczne przeglądanie zostało w ten sposób wyłączone">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Dostawca oprogramowania (&vendorShortName;) może przerwać lub zmienić funkcjonowanie Usług według własnego uznania.">
