@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label "Convidar participantes">
 <!ENTITY event.organizer.label "Agenda">
 <!ENTITY event.freebusy.suggest.slot "Sugerir hora livre:">
-<!ENTITY event.freebusy.next.slot "Seguinte" >
-<!ENTITY event.freebusy.previous.slot "Anterior" >
+<!ENTITY event.freebusy.button.next.slot "Seguinte" >
+<!ENTITY event.freebusy.button.previous.slot "Anterior" >
 <!ENTITY event.freebusy.zoom "Ampliação:">
 <!ENTITY event.freebusy.legend.free "Livre" >
 <!ENTITY event.freebusy.legend.busy "Ocupado" >
