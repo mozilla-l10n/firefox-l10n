@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; faneblade">
 <!ENTITY new_tab_opened "Et nyt faneblad blev åbnet">
+<!ENTITY new_private_tab_opened "Et nyt privat faneblad blev åbnet">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SKIFT">
 
 <!ENTITY settings "Indstillinger">
 <!ENTITY settings_title "Indstillinger">
 <!ENTITY pref_category_advanced "Avanceret">
 <!ENTITY pref_category_customize "Tilpas">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Sprog">
+<!ENTITY pref_browser_locale "Browser-sprog">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Systemstandard">
+
 <!ENTITY pref_category_search3 "Søg">
 <!ENTITY pref_category_search_summary "Tilpas dine søgetjenester">
 <!ENTITY pref_category_display "Vis">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Automatiske opdateringer">
 <!ENTITY pref_home_updates_enabled "Aktiveret">
 <!ENTITY pref_home_updates_wifi "Kun via Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Vis webstedsforslag">
+<!ENTITY pref_home_suggested_sites_summary "Vis genveje på din startside til websteder, som vi tror, du vil kunne lide">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpas">
 <!ENTITY pref_header_display "Vis">
 <!ENTITY pref_header_privacy_short "Privatliv">
 <!ENTITY pref_header_help "Hjælp">
+<!ENTITY pref_header_language "Sprog">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Udviklerværktøjer">
 
@@ -216,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Aldrig">
 <!ENTITY pref_update_autodownload_always "Altid">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Hjælp">
+
 <!ENTITY quit "Afslut">
 
 <!ENTITY addons "Tilføjelser">
@@ -279,7 +302,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Titellinje ved scrolling">
 
-<!ENTITY history_removed "Side fjernet">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Side fjernet">
 
 <!ENTITY bookmark_edit_title "Rediger bogmærke">
 <!ENTITY bookmark_edit_name "Navn">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
-<!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
 
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Tilføj et websted">
 
 <!ENTITY home_history_title "Historik">
+<!ENTITY home_clear_history_button "Ryd browserhistorik">
+<!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
 <!ENTITY home_bookmarks_empty "Gemte bogmærker vises her.">
 <!ENTITY home_last_tabs_title "Dine faneblade fra sidst">
 <!ENTITY home_last_tabs_open "Åbn alle faneblade fra sidst">
@@ -434,3 +461,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Færdig">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Sidst synkroniseret: &formatS;">
