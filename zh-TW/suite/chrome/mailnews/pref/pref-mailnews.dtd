@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "消息來源">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+<!ENTITY useInternalSettings.description  "使用 &brandShortName; 內建的郵件與新聞群組功能開啟下列訊息類型中的瀏覽器鏈結:">
+<!ENTITY useInternalMail.label            "郵件 (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "新聞群組 (news:、snews:、nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "開始頁面">
 <!ENTITY enableStartPage.label            "當啟動 Mail 時，在訊息區域顯示開始頁面">
 <!ENTITY enableStartPage.accesskey        "W">

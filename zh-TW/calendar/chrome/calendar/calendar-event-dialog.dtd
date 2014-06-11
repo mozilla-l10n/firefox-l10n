@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "邀請參與者">
 <!ENTITY event.organizer.label                  "組織">
 <!ENTITY event.freebusy.suggest.slot            "推薦時段:">
-<!ENTITY event.freebusy.next.slot               "下一個時段 " >
-<!ENTITY event.freebusy.previous.slot           " 上一個時段" >
+<!ENTITY event.freebusy.button.next.slot        "下一個時段">
+<!ENTITY event.freebusy.button.previous.slot    "上一個時段">
 <!ENTITY event.freebusy.zoom                    "放大:">
 <!ENTITY event.freebusy.legend.free             "空閒" >
 <!ENTITY event.freebusy.legend.busy             "忙碌" >

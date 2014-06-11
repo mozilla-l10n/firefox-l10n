@@ -107,6 +107,8 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox 帳號'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
+<!ENTITY fxaccount_status_device_name '裝置名稱'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已啟用'>
 <!ENTITY fxaccount_status_needs_verification2 '需要驗證您的帳號，請點擊此處以重寄驗證郵件。'>

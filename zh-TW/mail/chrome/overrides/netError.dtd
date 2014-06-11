@@ -118,7 +118,7 @@
 ">
 
 <!ENTITY nssFailure2.title "安全連線失敗">
-<!ENTITY nssFailure2.longDesc "<ul>
+<!ENTITY nssFailure2.longDesc2 "<ul>
   <li>無法顯示嘗試檢視的網頁。接收到的資料正確性無法被驗證。</li>
   <li>請連絡網站擁有者以了解此問題。</li>
 </ul>">
