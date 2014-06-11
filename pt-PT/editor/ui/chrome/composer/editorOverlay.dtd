@@ -16,10 +16,11 @@
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Localizar e substituir...">
+<!ENTITY findBarCmd.label "Localizar">
+<!ENTITY findReplaceCmd.label "Localizar e substituir...">
 <!ENTITY enableInlineSpellChecker.label "Verificar escrita ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Verificar escrita">
+<!ENTITY checkSpellingCmd2.label "Verificar escrita...">
 <!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY checkSpellingCmd2.key "k">
 
