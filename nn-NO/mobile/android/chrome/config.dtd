@@ -9,7 +9,7 @@
 
 <!ENTITY newPref.valueBoolean          "Boolsk">
 <!ENTITY newPref.valueString           "Tekst">
-<!ENTITY newPref.valueInteger          "Tall">
+<!ENTITY newPref.valueInteger          "Tal">
 
 <!ENTITY newPref.stringPlaceholder     "Skriv inn ein tekst">
 <!ENTITY newPref.numberPlaceholder     "Skriv inn eit tal">

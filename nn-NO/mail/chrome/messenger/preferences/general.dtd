@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Bruk standard">
 <!ENTITY useDefault.accesskey             "u">
 
-<!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">
-<!ENTITY bounceSystemDockIcon.accesskey   "A">
+<!ENTITY changeDockIconOptions.label      "Endra innstillingar for app-ikonet">
+<!ENTITY dockOptions.label                "Innstillingar for app-ikon …">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Når ei ny melding kjem:">
 <!ENTITY playSound.label                  "Spel av ein lyd">
