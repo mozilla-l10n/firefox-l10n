@@ -19,7 +19,7 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Opne">
+<!ENTITY lightning.menupopup.open.label               "Opna">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Lagra melding …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "L">

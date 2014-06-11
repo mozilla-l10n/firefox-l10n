@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Lukk fane">
 <!ENTITY  listAllTabs.label        "List alle faner">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Heim">

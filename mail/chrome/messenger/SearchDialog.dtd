@@ -11,20 +11,18 @@
 <!ENTITY searchOnServer.accesskey    "K">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
-<!ENTITY openButton.label            "Opne">
+<!ENTITY openButton.label            "Opna">
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Slett">
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Søk i meldingar">
 <!ENTITY results.label               "Resultat">
-<!ENTITY moveHereMenu.label          "Flytt hit">
-<!ENTITY moveHereMenu.accesskey      "F">
 <!ENTITY moveButton.label            "Flytt til">
 <!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Opne i mappa">
+<!ENTITY openInFolder.label          "Opna i mappa">
 <!ENTITY openInFolder.accesskey      "m">
-<!ENTITY saveAsVFButton.label        "Lagre som søkjemappe">
+<!ENTITY saveAsVFButton.label        "Lagra som søkjemappe">
 <!ENTITY saveAsVFButton.accesskey    "L">
 
 <!-- for ABSearchDialog.xul -->
@@ -48,19 +46,19 @@
 <!ENTITY tagsColumn.label "Merkelapp">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Størrelse">
+<!ENTITY sizeColumn.label "Storleik">
 <!ENTITY junkStatusColumn.label "Uønskt">
 <!ENTITY unreadColumn.label "Ikkje lese">
 <!ENTITY totalColumn.label "Totalt">
-<!ENTITY readColumn.label "Lese">
-<!ENTITY receivedColumn.label "Mottatt">
+<!ENTITY readColumn.label "Lesne">
+<!ENTITY receivedColumn.label "Motteke">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
 <!ENTITY idColumn.label "Mottaksrekkjefølgje">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vel kolonner som skal visast">
-<!ENTITY threadColumn2.tooltip "Vis meldingstrådar"> 
+<!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
 <!ENTITY fromColumn2.tooltip "Sorter etter frå">
 <!ENTITY recipientColumn2.tooltip "Sorter etter mottakar">
 <!ENTITY subjectColumn2.tooltip "Sorter etter emne">
@@ -74,7 +72,7 @@
 <!ENTITY unreadColumn2.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn2.tooltip "Totalt tal på meldingar i tråden">
 <!ENTITY readColumn2.tooltip "Sorter etter lest-tilstand">
-<!ENTITY receivedColumn2.tooltip "Sorter etter dato mottatt">
+<!ENTITY receivedColumn2.tooltip "Sorter etter dato motteke">
 <!ENTITY starredColumn2.tooltip "Sorter etter stjerne">
 <!ENTITY locationColumn2.tooltip "Sorter etter plassering">
-<!ENTITY idColumn2.tooltip "Sorter etter mottatt-rekkjefølgje">
+<!ENTITY idColumn2.tooltip "Sorter etter motteke-rekkjefølgje">

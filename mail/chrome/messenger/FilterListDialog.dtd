@@ -20,8 +20,8 @@
 <!ENTITY reorderDownButton.accesskey "n">
 <!ENTITY reorderBottomButton "Flytt nedst">
 <!ENTITY reorderBottomButton.accessKey "d">
-<!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
-<!ENTITY filterHeader.label "Filter som er slått på vert utførde i den rekkefølga dei står i nedanfor.">
+<!ENTITY reorderBottomButton.toolTip "Omorganiser filter slik at det vert utført etter alle andre">
+<!ENTITY filterHeader.label "Filter som er slått på vert utført i den rekkjefølgja dei står i nedanfor.">
 <!ENTITY filtersForPrefix.label "Filter for:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogg">
@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Køyr valde filter på:">
 <!ENTITY folderPickerPrefix.accesskey "v">
-<!ENTITY choosethis.label "vel denne mappa">
-<!ENTITY choosethisnewsserver.label "vel denne nyheitsgruppetenaren">
 <!ENTITY helpButton.label "Hjelp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

@@ -6,10 +6,10 @@
 <!ENTITY aboutDownloads.header                     "Dine nedlastingar">
 <!ENTITY aboutDownloads.empty                      "Ingen nedlastingar">
 
-<!ENTITY aboutDownloads.open                       "Opne">
+<!ENTITY aboutDownloads.open                       "Opna">
 <!ENTITY aboutDownloads.remove                     "Slett">
 <!ENTITY aboutDownloads.removeAll                  "Slett alle">
 <!ENTITY aboutDownloads.pause                      "Pause">
-<!ENTITY aboutDownloads.resume                     "Fortset">
+<!ENTITY aboutDownloads.resume                     "Hald fram">
 <!ENTITY aboutDownloads.cancel                     "Avbryt">
 <!ENTITY aboutDownloads.retry                      "Prøv igjen">
