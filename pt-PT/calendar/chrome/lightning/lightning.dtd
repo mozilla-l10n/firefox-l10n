@@ -63,7 +63,7 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentativar tudo">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aceitar convite do evento tentativamente para todas as ocorrências deste evento">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Atualizar">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atualizar evento no calendário">
 <!ENTITY lightning.imipbar.description 										"Esta mensagem tem um convite para um evento.">
 
 <!-- Lightning specific keybindings -->
