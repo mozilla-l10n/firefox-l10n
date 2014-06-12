@@ -46,21 +46,3 @@
 <!ENTITY antiVirus.intro "O &brandShortName; pode facilitar a análise de novas mensagens por programas anti-vírus antes que estas sejam guardadas localmente.">
 <!ENTITY antiVirus.label "Permitir que o anti-vírus coloque as mensagem recebidas em quarentena">
 <!ENTITY antiVirus.accesskey "P">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro "O &brandShortName; deixa-o especificar os blogues, fontes de notícias e outros sítios web que são autorizados a definir cookies.">
-<!ENTITY acceptCookies.label "Aceitar cookies de sítios">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY keepUntil.label "Manter até:">
-<!ENTITY keepUntil.accesskey "M">
-<!ENTITY expire.label "que expirem">
-<!ENTITY close.label "fechar o &brandShortName;">
-<!ENTITY askEachTime.label "perguntar sempre">
-<!ENTITY cookieExceptions.label "Exceções…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Mostrar cookies…">
-<!ENTITY showCookies.accesskey "s">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label "Informar os sítios web que não quero ser monitorizado">
-<!ENTITY doNotTrack.accesskey "d">
