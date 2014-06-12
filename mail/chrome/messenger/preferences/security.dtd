@@ -6,13 +6,12 @@
 <!ENTITY itemPhishing.label "Mensagens de engodo">
 <!ENTITY itemPasswords.label "Senhas">
 <!ENTITY itemAntiVirus.label "Anti-vírus">
-<!ENTITY itemCookies.label "Conteúdo web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Configure as pré-definições para o lixo eletrónico. As definições específicas de lixo eletrónico podem ser efetuadas nas definições da conta.">
 <!ENTITY manualMark.label "Ao marcar uma mensagem como lixo eletrónico:">
 <!ENTITY manualMark.accesskey "A">
-<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Lixo eletrónico&quot; da conta">
+<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Lixo eletrónico&quot;">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminar">
 <!ENTITY manualMarkModeDelete.accesskey "l">
@@ -37,9 +36,9 @@
 <!ENTITY useMasterPassword.label "Utilizar uma senha-mestre">
 <!ENTITY useMasterPassword.accesskey "U">
 <!ENTITY masterPassword.intro "A senha-mestre protege todas as suas senhas, mas terá que a indicar uma vez por sessão.">
-<!ENTITY changeMasterPassword.label "Mudar senha-mestre…">
+<!ENTITY changeMasterPassword.label "Mudar senha-mestre...">
 <!ENTITY changeMasterPassword.accesskey "M">
-<!ENTITY savedPasswords.label "Senhas guardadas…">
+<!ENTITY savedPasswords.label "Senhas guardadas...">
 <!ENTITY savedPasswords.accesskey "S">
 
 <!-- Anti Virus -->

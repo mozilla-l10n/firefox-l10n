@@ -23,8 +23,8 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Web Page…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.label "Página web...">
+<!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
@@ -88,18 +88,21 @@
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Localizar e substituir">
-<!ENTITY findCmd.key "L">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findReplaceCmd.key "n">
+<!ENTITY findBarCmd.label "Localizar...">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituir...">
+<!ENTITY findReplaceCmd.accesskey "c">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar novamente">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "z">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
+<!ENTITY findPrevCmd.accesskey "t">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -283,15 +286,15 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexar ficheiro(s)">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Filelink...">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Converter para…">
+<!ENTITY convertCloud.label "Converter para...">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Cancelar envio">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Anexar página web">
+<!ENTITY attachPage.label "Anexar página web...">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
@@ -300,4 +303,3 @@ to the strings in attachmentCount in composeMsgs.properties -->
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
-
