@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "ಪ್ರಮಾಣಪತ್ರಗಳು">
 <!ENTITY certSelection.description       "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ:">
 <!ENTITY certs.auto                      "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನ ಅನುಮತಿ ಕೇಳು">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "ಪ್ರಮಾಣಪತ್ರವನ್ನು ನೋಡು">
-<!ENTITY viewCerts.accesskey             "s">
+
+
+
 <!ENTITY verify2.label                   "ಮಾನ್ಯಗೊಳಿಕೆ">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "ಸುರಕ್ಷತಾ ಸಾಧನಗಳು">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+

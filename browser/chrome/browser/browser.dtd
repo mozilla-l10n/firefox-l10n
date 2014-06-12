@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "ಹೊಸ ಟ್ಯಾಬ್">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "ತಾಣವನ್ನು ತೆರೆ…">
 <!ENTITY openFileCmd.label "ಕಡತವನ್ನು ತೆರೆ...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -148,19 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarksToolbarChevron.tooltip "ಇನ್ನಷ್ಟು ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
 
-<!ENTITY backCmd.label                "ಹಿಂದಕ್ಕೆ">
-<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backCmd.label                "ಹಿಂದೆ">
 <!ENTITY backButton.tooltip           "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
-<!ENTITY forwardCmd.label             "ಮುಂದಕ್ಕೆ">
-<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardCmd.label             "ಮುಂದೆ">
 <!ENTITY forwardButton.tooltip        "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
 <!ENTITY backForwardButtonMenu.tooltip "ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಅಥವ ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
-<!ENTITY reloadCmd.label              "ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
-<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.label              "ಪುನಃ ಲೋಡ್ ಮಾಡು">
 <!ENTITY reloadButton.tooltip         "ಪ್ರಸಕ್ತ ಪುಟವನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
 <!ENTITY stopCmd.label                "ನಿಲ್ಲು">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ಈ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY goEndCap.tooltip             "ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ಡೌನ್‍ಲೋಡ್‍ಗಳು">
-<!ENTITY downloads.tooltip            "ನಡೆಯುತ್ತಿರುವ ಡೌನ್‍ಲೋಡ್‍ಗಳ ಪ್ರಗತಿಯನ್ನು ತೋರಿಸು">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "ಈ ಕೊಂಡಿಯನ್ನು ಪುಟಗುರುತು ಮಾಡು">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ಈ ಚೌಕಟ್ಟನ್ನು ಪುಟಗುರುತು ಮಾಡು">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ಗಾತ್ರ ಬದಲಿಸು">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "ಹೊಸ ಟ್ಯಾಬ್ ಅನ್ನು ತೆರೆ">
-<!ENTITY newWindowButton.tooltip        "ಒಂದು ಹೊಸ ಕಿಟಕಿಯನ್ನು ತೆರೆ">
 <!ENTITY sidebarCloseButton.tooltip     "ಬದಿಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
-
-<!ENTITY fullScreenButton.tooltip       "ಕಿಟಕಿಯನ್ನು ಸಂಪೂರ್ಣ ತೆರೆಯಲ್ಲಿ ತೋರಿಸು">
 
 <!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">

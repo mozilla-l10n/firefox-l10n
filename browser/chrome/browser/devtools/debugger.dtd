@@ -39,29 +39,35 @@
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "ಅಳಿಸು">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
+<!ENTITY debuggerUI.pauseExceptions           "ಆಕ್ಷೇಪಣೆಗಳು ಎದುರಾದಾಗ ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸು">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource           "ಮೂಲ ಆಕರಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
