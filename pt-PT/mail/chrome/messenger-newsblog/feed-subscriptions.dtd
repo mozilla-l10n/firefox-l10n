@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Mostrar resumo do artigo em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "M">
 
+<!ENTITY autotagEnable.label         "Criar etiquetas automaticamente da &lt;category&gt; nome da fonte">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefixo da etiqueta com:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Escrever o prefixo da etiqueta">
+
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar a validação e obter um URL válido.">
 
