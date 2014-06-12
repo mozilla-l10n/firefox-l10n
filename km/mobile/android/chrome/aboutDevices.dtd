@@ -3,5 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY searchFlyoutHeader.title  "ស្វែងរក">
-<!ENTITY searchSetting.title  "កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​លំនាំដើម">
+
+
+
+<!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
+     user prompting them to input the IP address of a casting device. -->
+
