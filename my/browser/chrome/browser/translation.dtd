@@ -44,4 +44,13 @@
 <!ENTITY translation.errorTranslating.label     "ယခုစာမျက်နှာအား ဘာသာပြန်ရာတွင် အခက်အခဲတစ်ခုရှိသှ်">
 <!ENTITY translation.tryAgain.button            "ထပ်ကြိုးစားပါ">
 
+
 <!ENTITY translation.options.menu               "ရွေးစရာများ">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+
+
+

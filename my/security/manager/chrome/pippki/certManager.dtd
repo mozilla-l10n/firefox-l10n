@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "အဖွဲ့အစည်း (O)">
 <!ENTITY certmgr.certdetail.ou                "​အဖွဲ့အစည်းဆိုင်ရာ ယူနစ် (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "အစဉ်လိုက် အမှတ်စဉ်">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 လက်ဗွေ">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 လက်ဗွေ">
 
 <!ENTITY certmgr.editcert.title               "လုံခြုံရေး လက်မှတ် အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">

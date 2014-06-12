@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "မှတ်သား လိပ်စာများ">
 <!ENTITY abouthome.historyButton.label   "မှတ်တမ်း">
-<!ENTITY abouthome.settingsButton.label  "အပြင်အဆင်များ">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "ရွေးစရာများ">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "ဦးစားပေး အချက်များ">
 <!ENTITY abouthome.addonsButton.label    "ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY abouthome.appsButton.label      "စျေးကွက်">
 <!ENTITY abouthome.downloadsButton.label "ဆွဲချစရာများ">

@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "၀တ်ဆိုက်များအားသင်ခြေရာခံလိုကြောင်းပြောပါ">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
 <!ENTITY doNotTrackInfo.label           "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY  history.label                 "မှတ်တမ်း">

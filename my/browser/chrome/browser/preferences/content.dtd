@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "စာမျက်နှာများပြသဖို့နှစ်သက်ရာဘာသာစကားကိုရွေးပါ">
 <!ENTITY chooseButton.label           "o ရွေးပါ...">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "xခြွင်းချက်များ...">
+<!ENTITY translateExceptions.accesskey "x">

@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "New Tab">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Oဖိုင်ဖွင့်...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "၀">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bလိပ်စာမှတ်များ">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ဒီစာမျက်နှာကို မှတ်သားပါ ...">
+
 <!ENTITY editThisBookmarkCmd.label "ဤစာမျက်နှာအမှတ်အားပြင်မည်။">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
 
-<!ENTITY backCmd.label                "နောက်">
-<!ENTITY backCmd.accesskey            "န">
 <!ENTITY backButton.tooltip           "နောက် တမျက်နှာ သွားပါ">
-<!ENTITY forwardCmd.label             "Fရှေ့">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "ရှေ့ တမျက်နှာ သွားပါ">
 <!ENTITY backForwardButtonMenu.tooltip "ညာဘက်ကလစ်သို့မဟုတ်မှတ်ဉာဏ်ကြည့်ဇယားအားဆွဲချပါ။">
 <!ENTITY backForwardButtonMenuMac.tooltip "မှတ်ဉာဏ်အားကြည့်ရန်ဆွဲချပါ။">
-<!ENTITY reloadCmd.label              "Rပြန်ဖွင့်">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "လက်ရှိ စာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
-<!ENTITY stopCmd.label                "Sရပ်">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ဖွင့်နေတဲ့ ဒီစာမျက်နှာကို ရပ်တန့်ပါ">
 <!ENTITY goEndCap.tooltip             "တည်နေရာ တန်းလျာထဲက လိပ်စာဆီ သွားပါ">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Dဒေါင်းလုဒ်ရယူမှူများ">
-<!ENTITY downloads.tooltip            "ဆွဲချနေမှုများ တိုးတက်တဲ့ အနေအထားကို ပြသပါ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -439,8 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "(S)စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "(m)ဒီစာမျက်နှာကို မှတ်သားပါ ...">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "(L)ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "(m)ဒီဘောင်ကို မှတ်သားပါ ...">
@@ -564,11 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ချုံ့/ချဲ့ပါ">
 <!ENTITY fullZoom.accesskey             "ခ">
 
-<!ENTITY newTabButton.tooltip           "စာအမှတ်သစ် တခု ဖွင့်ပါ">
-<!ENTITY newWindowButton.tooltip        "ဝင်းဒိုးသစ် တခု ‌ဖွင့်ပါ">
 <!ENTITY sidebarCloseButton.tooltip     "ဘေးတန်းကို ပိတ်ပါ">
-
-<!ENTITY fullScreenButton.tooltip       "မြင်ကွင်းအား အပြည့်ချဲ့ကြည့်မည်။">
 
 <!ENTITY quitApplicationCmdWin.label       "ထွက်ခွါပါ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">

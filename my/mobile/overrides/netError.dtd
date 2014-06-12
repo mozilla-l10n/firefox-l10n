@@ -17,14 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "လိပ်စာ မတွေ့ရဘူး">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရဘူး">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -51,11 +44,7 @@
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -73,8 +62,8 @@
 <!ENTITY netTimeout.title "ချိတ်ဆက်မှု အချိန်ကုန်သွားတယ်။">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "အမည်မသိ နည်းလမ်း">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "အမည်မသိ နည်းလမ်း">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>ဤလိပ်စာအားဖွင့်ရန် အခြားဆော့ဝဲလိုလိမ့်မည်ဖြစ်သည်။</li> 
 </ul>">
 
@@ -86,12 +75,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ကြားခံ ဆာဗာ မတွေ့ရဘူး။">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY redirectLoop.title "ပတ်လမ်း လမ်းလွှဲပေးပါ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -107,10 +91,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
-<li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -120,12 +101,6 @@
 ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY cspFrameAncestorBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">

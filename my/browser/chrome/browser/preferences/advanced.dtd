@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "အသိအမှတ်ပြုလက်မှတ်များ">
 <!ENTITY certSelection.description       "ဆာဗာ တခုမှ ကျွန်ပ် ကိုယ်ရေး လက်မှတ်ကို တောင်းဆိုတဲ့အခါ">
 <!ENTITY certs.auto                      "တခုကို အလိုအလျောက် ရွေးချယ်ပါ">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "sလုံခြုံရေးလက်မှတ်များကိုကြည့်မည်">
-<!ENTITY viewCerts.accesskey             "s">
+
+
+
 <!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "yလုံခြုံရေး ကိရိယာများ">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+
