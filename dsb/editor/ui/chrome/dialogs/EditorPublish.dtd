@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Window title -->
+
+<!ENTITY windowTitle.label            "Bok publicěrowaś">
+
+
+<!ENTITY settingsTab.label            "Nastajenja">
+
+<!-- Publish Tab Panel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY setDefaultButton.label       "Ako standard nastajiś">
+<!ENTITY setDefaultButton.accesskey   "s">
+<!ENTITY removeButton.label           "Sedło wótpóraś">
+<!ENTITY removeButton.accesskey       "S">
+<!-- Settings Tab Panel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

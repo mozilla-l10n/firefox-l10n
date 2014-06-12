@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.storageLimitReached   "Składowański limit dostany">
+<!ENTITY fileExceedsQuota.accept "Aktualizěrowaś">
+<!ENTITY fileExceedsQuota.cancel "Pśetergnuś">
+<!ENTITY fileExceedsQuota.description "Sćo swój kontowy składowański limit 2GB dostał.">
+<!ENTITY fileExceedsQuota.description1 "Waše aktualne składowe wužyśe jo #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Zaktualizěrujśo źinsa na konto Pro Plus a dostajśo wěcej składa.">
+<!ENTITY fileExceedsQuota.description3 "Móžośo teke dataje w swójom konśe lašowaś, aby wěcej ruma napórał.">

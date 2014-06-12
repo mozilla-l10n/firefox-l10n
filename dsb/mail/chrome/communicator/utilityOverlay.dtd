@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label          "Dataja">
+<!ENTITY fileMenu.accesskey        "D">
+<!ENTITY newMenu.label            "Nowy">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Wobźěłaś">
+<!ENTITY editMenu.accesskey        "b">
+<!ENTITY undoCmd.label            "Slědk wześ">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "S">
+<!ENTITY redoCmd.label            "Wóspjetowaś">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "W">
+<!ENTITY cutCmd.label            "Wurězaś">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "r">
+<!ENTITY copyCmd.label            "Kopěrowaś">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label            "Zasunuś">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "Z">
+<!ENTITY deleteCmd.label          "Wulašowaś">
+<!ENTITY deleteCmd.accesskey        "l">
+<!ENTITY selectAllCmd.label          "Wšo wubraś">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "u">
+
+
+<!ENTITY preferencesCmdUnix.label       "Nastajenja">
+<!ENTITY preferencesCmdUnix.accesskey     "t">
+
+<!ENTITY viewMenu.label          "Naglěd">
+<!ENTITY viewMenu.accesskey        "N">
+<!ENTITY viewToolbarsMenu.label        "Symbolowe rědki">
+<!ENTITY viewToolbarsMenu.accesskey      "S">
+<!ENTITY showTaskbarCmd.label          "Statusowa rědka">
+<!ENTITY showTaskbarCmd.accesskey        "t">
+
+<!ENTITY closeCmd.label      "Zacyniś">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "c">
+
+<!ENTITY quitApplicationCmd.label  "Skóńcyś">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "S">
+
+<!ENTITY quitApplicationCmdUnix.label  "Skóńcyś">
+<!ENTITY quitApplicationCmdUnix.accesskey  "S">
+
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; spušćiś">
+<!ENTITY quitApplicationCmdMac.accesskey  "u">

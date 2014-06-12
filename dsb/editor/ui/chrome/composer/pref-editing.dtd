@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!ENTITY customColors.label         "Swójske barwy wužywaś:">
+<!ENTITY customColors.accesskey     "b">
+
+<!ENTITY normalText.label           "Normalny tekst">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Wótkazowy tekst">
+<!ENTITY linkText.accesskey         "W">
+<!ENTITY activeLinkText.label       "Tekst aktiwnego wótkaza">
+<!ENTITY activeLinkText.accesskey   "a">
+<!ENTITY visitedLinkText.label      "Tekst woglědowanego wótkaza">
+<!ENTITY visitedLinkText.accesskey  "l">
+
+
+
+
+
+
+
+

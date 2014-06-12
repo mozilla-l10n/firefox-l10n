@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Filelink konfigurěrowaś">
+<!ENTITY addAccountDialog.menuTitle "Wubjeŕśo słužbu za online-składowanje">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Kontowe mě:">
+<!ENTITY addAccountDialog.noAccountText "Wódajśo, ale aktualna wersija &brandShortName; dowólujo jano jadno konto z kuždeje słužby za składowanje online.">
+<!ENTITY addAccountDialog.createAccountText2 "Móžośo z pomocu jadneje z někotarych składowańskich online-słužbow wjelike pśidanki pósłaś. Pšosym konfigurěrujśo eksistěrujuce konto abo zregistrěrujśo se za nowe konto.">
+<!ENTITY addAccountDialog.authorizing "Awtorizacija se pśespytujo…">
+<!ENTITY addAccountDialog.error "Pśi konfigurěrowanju konta jo zmólka nastała!">
+<!ENTITY addAccountDialog.acceptButton.label "Konto konfigurěrowaś">
+<!ENTITY addAccountDialog.learnMore "Dalšne informacije…">

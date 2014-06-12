@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+
+
+
+
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Webwopśimjeśe">
+
+
+
+
+
+
+
+<!ENTITY keepUntil.label "Wobchowaś:">
+<!ENTITY keepUntil.accesskey "b">
+<!ENTITY expire.label "až njepśepadnu">
+<!ENTITY close.label "až &brandShortName; se njezacynja">
+<!ENTITY askEachTime.label "Kuždy raz se pšašaś">
+<!ENTITY cookieExceptions.label "Wuwześa…">
+<!ENTITY cookieExceptions.accesskey "u">
+<!ENTITY showCookies.label "Cookieje pokazaś…">
+<!ENTITY showCookies.accesskey "o">
+
+
+
+
+
+
+
+

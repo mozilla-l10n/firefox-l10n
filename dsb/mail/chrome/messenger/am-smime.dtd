@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securityTitle.label "Wěstota">
+<!ENTITY securityTab.label "Wěstota">
+<!ENTITY securityHeading.label "Aby signěrowane abo šifrěrowane powěsći pósłał a pśiwzeł, dejał wy digitalny signěrowański certifikat a teke šifrěrowański certifikat pódaś.">
+<!ENTITY encryptionGroupTitle.label "Šifrěrowanje">
+<!ENTITY encryptionChoiceLabel.label "Nastajenje standardnego šifrěrowanja pśi słanju powěsćow:">
+<!ENTITY neverEncrypt.label "Nigdy (žedno šifrěrowanje wužywaś)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Trěbny (njemóžno powěsć słaś, snaźkuli wšykne dostawarje maju certifikaty)">
+<!ENTITY alwaysEncryptMessage.accesskey "T">
+<!ENTITY encryptionCert.message "Toś ten certifikata wužywaś, aby se powěsći, kótarež su se pśipósłali, šifrěrowali a dešifrěrowali:">
+<!ENTITY digitalSign.certificate.button "Wubraś…">
+<!ENTITY digitalSign.certificate.accesskey "u">
+<!ENTITY digitalSign.certificate_clear.button "Wuprozniś">
+<!ENTITY digitalSign.certificate_clear.accesskey "r">
+<!ENTITY encryption.certificate.button "Wubraś…">
+<!ENTITY encryption.certificate.accesskey "b">
+<!ENTITY encryption.certificate_clear.button "Wuprozniś">
+<!ENTITY encryption.certificate_clear.accesskey "o">
+<!ENTITY signingGroupTitle.label "Digitalny pódpis">
+<!ENTITY signMessage.label "Powěsći digitalnje pódpisaś (standard)">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Toś ten certifikat wužywaś, aby powěsći, kótarež sćelośo, digitalnje pódpisało:">
+
+<!ENTITY certificates.label "Certifikaty">
+<!ENTITY manageCerts.label "Certifikaty se woglědaś">
+<!ENTITY manageCerts.accesskey "C">
+<!ENTITY manageDevices.label "Wěstotne rědy">
+<!ENTITY manageDevices.accesskey "s">

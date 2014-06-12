@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  connectionsDialog.title       "Zwiskowe nastajenja">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "Proksy za pśistup na internet konfigěrurowaś">
+<!ENTITY  noProxyTypeRadio.label        "Žeden proksy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Systemowe nastajenja proksy wužywaś">
+<!ENTITY  systemTypeRadio.accesskey     "S">
+<!ENTITY  WPADTypeRadio.label           "Nastajenja proksy za toś tu seś awtomatiski namakaś">
+<!ENTITY  WPADTypeRadio.accesskey       "N">
+<!ENTITY  manualTypeRadio.label         "Manuelna konfiguracija proksy:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "URL awtomatiskeje proksy-konfiguracije:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Znowego">
+<!ENTITY  reload.accesskey              "Z">
+<!ENTITY  http.label                    "HTTP-Proksy:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL-Proksy:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "r">
+<!ENTITY  noproxy.label                 "Žeden proksy za:">
+<!ENTITY  noproxy.accesskey             "d">
+<!ENTITY  noproxyExplain.label          "Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Toś ten proksy-serwer za wšykne protokole wužywaś">
+<!ENTITY  shareproxy.accesskey          "T">

@@ -1,0 +1,118 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "Powškny">
+<!ENTITY itemDisplay.label       "Cytanje a zwobraznjenje">
+<!ENTITY itemUpdate.label        "Aktualizacija">
+<!ENTITY itemNetworking.label    "Seś a platowy rum">
+<!ENTITY itemCertificates.label  "Certifikaty">
+<!-- General Settings -->
+
+
+<!ENTITY submitTelemetry.label         "Wugbaśowe daty wótpósłaś">
+<!ENTITY submitTelemetry.accesskey     "u">
+<!ENTITY telemetryInfoLink.label       "Dalšne informacije wó telemetriji">
+<!ENTITY enableGlodaSearch.label       "Globalne pytanje a indicěrowanje zmóžniś">
+<!ENTITY enableGlodaSearch.accesskey   "G">
+
+<!ENTITY scrolling.label               "Pśesuwanje">
+<!ENTITY useAutoScroll.label           "Awtomatiske pśesuwanje wužywaś">
+<!ENTITY useAutoScroll.accesskey       "A">
+<!ENTITY useSmoothScrolling.label      "Pólažke pśesuwanje wužywaś">
+<!ENTITY useSmoothScrolling.accesskey  "l">
+
+<!ENTITY systemIntegration.label       "Systemowa integracija">
+<!ENTITY alwaysCheckDefault.label      "Pśi startowanju pśecej kontrolěrowaś, lěc &brandShortName; jo standardny e-mailowy program">
+<!ENTITY alwaysCheckDefault.accesskey  "P">
+<!ENTITY searchIntegration.label       "&searchIntegration.engineName; za pytanje za powěsćami dowóliś">
+<!ENTITY searchIntegration.accesskey   "t">
+<!ENTITY checkDefaultsNow.label        "Něnto kontrolěrowaś…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Rozšyrjona konfiguracija">
+<!ENTITY configEdit.label              "Editor konfigurěrowaś…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Póstajiś, kak &brandShortName; ma z wobtwarźenjami dostaśa wobchadaś">
+<!ENTITY showReturnReceipts.label      "Wobtwarźenja dostaśa…">
+<!ENTITY showReturnReceipts.accesskey  "t">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption               "Cytanje">
+<!ENTITY display.caption               "Zwobraznjenje">
+<!ENTITY showCondensedAddresses.label  "Jano zwobraznjeńske mě za luźe w adresniku pokazaś">
+<!ENTITY showCondensedAddresses.accesskey "J">
+
+<!ENTITY autoMarkAsRead.label          "Powěsći awtomatiski ako pśecytane markěrowaś">
+<!ENTITY autoMarkAsRead.accesskey      "P">
+<!ENTITY markAsReadNoDelay.label       "Ned pśi zwobraznjenju">
+<!ENTITY markAsReadNoDelay.accesskey   "N">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Pó zwobraznjenju za">
+<!ENTITY markAsReadDelay.accesskey     "z">
+<!ENTITY secondsLabel.label            "sekundy">
+<!ENTITY openMsgIn.label               "Powěsći wócyniś w:">
+<!ENTITY openMsgInNewTab.label         "nowem rejtarku">
+<!ENTITY openMsgInNewTab.accesskey     "r">
+<!ENTITY reuseExpRadio0.label          "nowem powěsćowem woknje">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "eksistěrujucem powěsćowem woknje">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Powěsćowe wokno/Powěsćowy rejtark pśi pśesuwanju abo lašowanju zacyniś">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "P">
+<!-- Update -->
+
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "Warnowaś, jolic to znjemóžnijo jaden z dodankow">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+
+
+<!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
+<!ENTITY useService.accesskey            "z">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showSettings.label            "Nastajenja…">
+<!ENTITY showSettings.accesskey        "N">
+<!ENTITY proxiesConfigure.label        "Konfigurěrowaś, kak &brandShortName; zwězujo z Internetom">
+<!ENTITY connectionsInfo.caption       "Zwisk">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Nastajenja za offline konfigurěrowaś">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Platowy rum">
+<!ENTITY offlineCompactFolders.label     "Wšykne zarědniki zgusćiś, gaž wopśimuju">
+<!ENTITY offlineCompactFolders.accesskey "z">
+<!ENTITY offlineCompactFoldersMB.label   "MB dogromady">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label            "Až k">
+<!ENTITY useCacheBefore.accesskey        "A">
+<!ENTITY useCacheAfter.label             "MB platowego ruma za pufrowak wužywaś">
+<!ENTITY clearCacheNow.label             "Něnto wuprozniś">
+<!ENTITY clearCacheNow.accesskey         "u">
+<!-- Certificates -->
+
+<!ENTITY certSelection.description       "Gaž serwer pomina se wósobinski certifikat:">
+<!ENTITY certs.auto                      "někaki awtomatiski wubraś">
+<!ENTITY certs.auto.accesskey            "n">
+<!ENTITY certs.ask                       "Kuždy raz se pšašaś">
+<!ENTITY certs.ask.accesskey             "K">
+
+<!ENTITY viewCertificates.label         "Certifikaty zwobrazniś">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY validation.label               "Pśespytowanje">
+<!ENTITY validation.accesskey           "P">
+<!ENTITY viewSecurityDevices.label      "Wěstotne rědy">
+<!ENTITY viewSecurityDevices.accesskey  "s">

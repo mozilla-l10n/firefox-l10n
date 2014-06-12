@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY attachmentReminderDialog.title   "Klucowe słowa za pśidankowe napominanje">
+<!ENTITY attachKeywordText.label          "&brandShortName; buźo was wo felujucych pśidankach warnowaś, jolic cośo e-mailku pósłać, kótaraž wopśimujo jadne z toś tych klucowych słowow.">
+<!ENTITY addKeywordButton.label           "Pśidaś">
+<!ENTITY addKeywordButton.accesskey       "P">
+<!ENTITY editKeywordButton.label          "Wobźěłaś">
+<!ENTITY editKeywordButton.accesskey      "b">
+<!ENTITY removeKeywordButton.label        "Wulašowaś">
+<!ENTITY removeKeywordButton.accesskey    "l">

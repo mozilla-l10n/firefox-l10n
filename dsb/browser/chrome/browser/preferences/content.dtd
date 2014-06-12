@@ -27,3 +27,8 @@
 <!ENTITY chooseLanguage.label         "Wubjeŕśo swóju preferěrowanu rěc za zwobraznjenje bokow">
 <!ENTITY chooseButton.label           "Wubraś…">
 <!ENTITY chooseButton.accesskey       "u">
+
+<!ENTITY translateWebPages.label      "Webwopśimjeśe pśełožowaś">
+<!ENTITY translateWebPages.accesskey  "W">
+<!ENTITY translateExceptions.label    "Wuwześa…">
+<!ENTITY translateExceptions.accesskey "W">

@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Cajk">
+<!ENTITY itemPhishing.label      "E-mailowa wobšuda">
+<!ENTITY itemPasswords.label     "Gronidła">
+<!ENTITY itemAntiVirus.label     "Antiwirus">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Nastajśo swóje standardne nastajenja za cajkowu e-mail. Nastajenja cajkoweje e-maile, specifiske za konto, daju se w kontowych nastajenjach konfigurěrowaś.">
+<!ENTITY manualMark.label "Gaž powěsći markěruju se ako cajk:">
+<!ENTITY manualMark.accesskey "G">
+<!ENTITY manualMarkModeMove.label "Je do kontowego zarědnika &quot;Cajk&quot; pśesunuś">
+<!ENTITY manualMarkModeMove.accesskey "k">
+<!ENTITY manualMarkModeDelete.label "Je lašowaś">
+<!ENTITY manualMarkModeDelete.accesskey "l">
+<!ENTITY markAsReadOnSpam.label "Powěsći, kótarež su cajk, ako pśecytane markěrowaś">
+<!ENTITY markAsReadOnSpam.accesskey "P">
+<!ENTITY enableAdaptiveJunkLogging.label "Protokolěrowanje pśiměrjobnego cajkowego filtra změniś">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "r">
+<!ENTITY openJunkLog.label "Protokol pokazaś">
+<!ENTITY openJunkLog.accesskey "t">
+<!ENTITY resetTrainingData.label "Treněrowańske daty slědk stajiś">
+<!ENTITY resetTrainingData.accesskey "d">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro  "&brandShortName; móžo powěsći za pódglědneju e-mailoweju wobšudu analyzěrowaś, z tym až pyta za zwuconymi technikami, kótarež se wužywaju, aby wam wobšuźili.">
+<!ENTITY enablePhishingDetector1.label    "K wěsći daś, lěc powěsć, kótaraž so cyta, jo pódglědna e-mailowa wobšuda">
+<!ENTITY enablePhishingDetector1.accesskey  "K">
+<!ENTITY useDownloadedList.label "Ześěgnjonu lisćinu pódglědnych e-mailowych wobšudow">
+<!ENTITY useDownloadedList.accesskey "Z">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro           "&brandShortName; móžo gronidła za wšykne waše konta składowaś.">
+<!ENTITY useMasterPassword.label        "Głowne gronidło wužywaś">
+<!ENTITY useMasterPassword.accesskey    "G">
+<!ENTITY masterPassword.intro           "Głowne gronidło šćita wšykne waše gronidła, ale musyśo jo jaden raz na pósejźenje zapódaś.">
+<!ENTITY changeMasterPassword.label     "Głowne gronidło změniś…">
+<!ENTITY changeMasterPassword.accesskey "o">
+<!ENTITY savedPasswords.label           "Składowane gronidła…">
+<!ENTITY savedPasswords.accesskey       "S">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro      "&brandShortName; móžo antiwirusowej softwarje wólažcyś, dochadajuce e-mailowe powěsći za wirusami analyzěrowaś, nježli až se lokalnje składuju.">
+<!ENTITY antiVirus.label      "Antiwirusowym programam dowóliś, jadnotliwe dochadajuce powěsći pód karantenu stajiś">
+<!ENTITY antiVirus.accesskey  "A">
+

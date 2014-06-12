@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY biffStart.label "Kuždych ">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffEnd.label "minutow za nowymi nastawkami pśeglědaś">
+
+<!ENTITY loginAtStartup.label "Pśi starśe za nowymi nastawkami pśeglědaś"> 
+<!ENTITY loginAtStartup.accesskey "P">
+
+<!ENTITY useQuickMode.label "Pó standarźe zespominanje nastawka pokazaś, město togo až se webowy bok zacytajo"> 
+<!ENTITY useQuickMode.accesskey "z">
+
+<!ENTITY manageSubscriptions.label "Abonementy zastojaś…"> 
+<!ENTITY manageSubscriptions.accesskey "A">
+
+<!ENTITY feedWindowTitle.label "Asistent kanalowego konta">
+<!-- entities from rss.rdf -->
+
+<!ENTITY feeds.accountName "Blogi a powěsćowe kanale">
+<!ENTITY feeds.wizardShortName "Kanale">
+<!ENTITY feeds.wizardLongName "Blogi a powěsćowe kanale">
+<!ENTITY feeds.wizardLongName.accesskey "B">

@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nowy rejtark">
 <!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Adresu wócyniś…">
 <!ENTITY openFileCmd.label "Dataju wócyniś…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalšne cytańske znamjenja pokazaś">
 
 <!ENTITY backCmd.label                "Slědk">
-<!ENTITY backCmd.accesskey            "S">
 <!ENTITY backButton.tooltip           "Jaden bok slědk">
 <!ENTITY forwardCmd.label             "Doprědka">
-<!ENTITY forwardCmd.accesskey         "D">
 <!ENTITY forwardButton.tooltip        "Jaden bok doprědka">
 <!ENTITY backForwardButtonMenu.tooltip "Klikniśo z pšawej tastu abo śěgniśo dołoj, aby historiju pokazał">
 <!ENTITY backForwardButtonMenuMac.tooltip "Śěgniśo dołoj, aby historiju pokazał">
 <!ENTITY reloadCmd.label              "Znowego">
-<!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY reloadButton.tooltip         "Aktualny bok znowego zacytaś">
 <!ENTITY stopCmd.label                "Stoj">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Zacytowanje toś togo boka zastajiś">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "G">
 
 <!ENTITY downloads.label              "Ześěgnjenja">
-<!ENTITY downloads.tooltip            "Póstup běžnych ześěgnjenjow zwobrazniś">
 <!ENTITY downloads.accesskey          "Z">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ako desktopowu slězynu nastajiś…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "A">
 <!ENTITY bookmarkPageCmd2.label       "Toś ten bok ako cytańske znamje składowaś">
-<!ENTITY bookmarkPageCmd2.accesskey   "T">
 <!ENTITY bookmarkThisLinkCmd.label      "Toś ten wótkaz ako cytańske znamje składowaś">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalěrowaś">
 <!ENTITY fullZoom.accesskey             "k">
 
-<!ENTITY newTabButton.tooltip           "Nowy rejtark wócyniś">
-<!ENTITY newWindowButton.tooltip        "Nowe wokno wócyniś">
 <!ENTITY sidebarCloseButton.tooltip     "Bócnicu zacyniś">
-
-<!ENTITY fullScreenButton.tooltip       "Wokno na połnej wobrazowce zwobrazniś">
 
 <!ENTITY quitApplicationCmdWin.label       "Skóńcyś"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">

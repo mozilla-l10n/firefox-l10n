@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label                   "Powškny">
+<!ENTITY itemAutoComplete.label              "Adresěrowanje">
+<!ENTITY itemSpellCheck.label                "Pšawopis">
+
+<!ENTITY forwardMsg.label                     "Powěsći dalej pósrědniś:">
+<!ENTITY forwardMsg.accesskey                 "d">
+<!ENTITY inline.label                         "Zasajźony">
+<!ENTITY asAttachment.label                   "Ako pśidank">
+<!ENTITY addExtension.label                   "Sufiks datajowemu mjenjoju pśidaś">
+<!ENTITY addExtension.accesskey               "u">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Pismo:">
+<!ENTITY font.accesskey                       "P">
+<!ENTITY size.label                           "Wjelikosć:">
+<!ENTITY size.accesskey                       "W">
+<!ENTITY fontColor.label                      "Tekstowa barwa:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Slězynowa barwa:">
+<!ENTITY bgColor.accesskey                    "z">
+<!ENTITY restoreHTMLDefaults.label            "Standardy wótnowiś">
+<!ENTITY restoreHTMLDefaults.accesskey        "S">
+
+<!ENTITY spellCheck.label                     "Pšawopis do słanja kontrolěrowaś">
+<!ENTITY spellCheck.accesskey                 "P">
+<!ENTITY spellCheckInline.label               "Pšawopis pśi zapódaśu kontrolěrowaś">
+<!ENTITY spellCheckInline1.accesskey          "z">
+<!ENTITY languagePopup.label                  "Rěc:">
+<!ENTITY languagePopup.accessKey              "R">
+<!ENTITY downloadDictionaries.label           "Dalšne słowniki ześěgnuś">
+
+<!ENTITY warnOnSendAccelKey.label             "Wobkšuśiś, gaž tastowa skrotconka wužywa se za słanje powěsći">
+<!ENTITY warnOnSendAccelKey.accesskey         "t">
+<!ENTITY autoSave.label                       "Awtomatiski składowaś kužde">
+<!ENTITY autoSave.accesskey                   "s">
+<!ENTITY autoSaveEnd.label                    "minutow">
+
+<!ENTITY emailCollectionPicker.label           "Městno za awtomatiske dodanje adresow wuchadajuceje e-maila:">
+<!ENTITY emailCollectionPicker.accesskey       "M">
+<!ENTITY addressingTitle.label                 "Awtowudopołnjenje adresow">
+<!ENTITY autocompleteText.label                "Pśi adresěrowanju powěsći za pśigódnymi zapiskami pytaś:">
+<!ENTITY addressingEnable.label                "w lokalnych adresnikach">
+<!ENTITY addressingEnable.accesskey            "l">
+<!ENTITY directories.label                     "Zapisowy serwer:">
+<!ENTITY directories.accesskey                 "Z">
+<!ENTITY directoriesNone.label                 "Žeden">
+<!ENTITY editDirectories.label                 "Zapise wobźěłaś…">
+<!ENTITY editDirectories.accesskey             "b">
+
+<!ENTITY sendOptionsDescription.label          "Zaźaržanje tekstowego formata konfigurěrowaś">
+<!ENTITY sendOptions.label                     "Wótesćełańske nastajenja…">
+<!ENTITY sendOptions.accesskey                 "t">
+
+<!ENTITY attachmentReminder.label              "Za felujucymi pśidankami pytaś">
+<!ENTITY attachmentReminder.accesskey          "f">
+<!ENTITY attachmentReminderOptions.label       "Klucowe słowa…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

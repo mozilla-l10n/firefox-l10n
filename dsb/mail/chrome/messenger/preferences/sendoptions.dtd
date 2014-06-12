@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Słańske opcije">
+<!ENTITY sendMail.title               "Tekstowy format">
+<!ENTITY sendMaildesc.label           "Gaž powěsći sćelu se we formaśe HTML a za jadnogo dostawarja abo někotarych dostawarjow jo pódane, až njamógu HTML dostaś:">
+<!ENTITY askMe.label                  "Pšašaś se, co dej se cyniś">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Powěsć do lutnego teksta konwertěrowaś">
+<!ENTITY convertPlain.accesskey       "l">
+<!ENTITY sendHTML.label               "Powěsć weto w HTML pósłaś">
+<!ENTITY sendHTML.accesskey           "t">
+<!ENTITY sendBoth.label               "Powěsć w lutnem teksće a HTML pósłaś">
+<!ENTITY sendBoth.accesskey           "a">
+<!ENTITY override.label               "Glědaj: Wužyjśo adresnik, aby faworizěrowane tekstowe formaty za dostawarjow pódał.">
+
+<!ENTITY domaindesc.label             "Gaž sćelośo powěsć na adresu z jadnym ze slědujucych domenowych mjenjow, &brandShortName; awtomatiski sćelo powěsć w pšawem formaśe.">
+<!ENTITY HTMLTab.label                "Domeny HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domeny za lutny tekst">
+<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY AddHtmlDomain.label          "Pśidaś…">
+<!ENTITY AddHtmlDomain.accesskey      "P">
+<!ENTITY AddPlainText.label           "Pśidaś…">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteHtmlDomain.label       "Wulašowaś">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.label        "Wulašowaś">
+<!ENTITY DeletePlainText.accesskey    "u">
+
+<!ENTITY add.htmltitle                "Mě HTML-domeny pśidaś">
+<!ENTITY add.htmldomain               "Mě HTML-domeny:">
+<!ENTITY add.plaintexttitle           "Mě domeny lutnego teksta pśidaś">
+<!ENTITY add.plaintextdomain          "Mě domeny lutnego teksta:">

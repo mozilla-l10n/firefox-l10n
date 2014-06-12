@@ -1,0 +1,76 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- for SearchDialog.xul -->
+
+<!ENTITY searchHeading.label         "Powěsći pytaś w:">
+<!ENTITY searchHeading.accesskey     "P">
+<!ENTITY searchSubfolders.label      "Pódzarědniki pśepytaś">
+<!ENTITY searchSubfolders.accesskey  "z">
+<!ENTITY searchOnServer.label        "Na serwerje pytaś">
+<!ENTITY searchOnServer.accesskey    "s">
+<!ENTITY resetButton.label           "Wuprozniś">
+<!ENTITY resetButton.accesskey       "u">
+<!ENTITY openButton.label            "Wócyniś">
+<!ENTITY openButton.accesskey        "c">
+
+
+<!ENTITY searchDialogTitle.label     "Powěsći pytaś">
+<!ENTITY results.label               "Wuslědki">
+<!ENTITY moveButton.label            "Pśesunuś do">
+<!ENTITY moveButton.accesskey        "P">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "W zarědniku wócyniś">
+<!ENTITY openInFolder.accesskey      "z">
+<!ENTITY saveAsVFButton.label        "Ako pytański zarědnik składowaś">
+<!ENTITY saveAsVFButton.accesskey    "A">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label       "Pytaś w:">
+<!ENTITY abSearchHeading.accesskey   "t">
+<!ENTITY propertiesButton.label      "Kakosći">
+<!ENTITY propertiesButton.accesskey  "K">
+<!ENTITY composeButton.label         "Spisaś">
+<!ENTITY composeButton.accesskey     "i">
+
+
+<!ENTITY abSearchDialogTitle.label   "Rozšyrjone adresnikowe pytanje">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Nitka">
+<!ENTITY fromColumn.label "Wót">
+<!ENTITY recipientColumn.label "Dostawaŕ">
+<!ENTITY subjectColumn.label "Tema">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorita">
+<!ENTITY tagsColumn.label "Wobznamjenja">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Wjelikosć">
+<!ENTITY junkStatusColumn.label "Cajkowy status">
+<!ENTITY unreadColumn.label "Njepśecytany">
+<!ENTITY totalColumn.label "Dogromady">
+<!ENTITY readColumn.label "Pśecytany">
+<!ENTITY receivedColumn.label "Dostany">
+<!ENTITY starredColumn.label "Z gwězdku">
+<!ENTITY locationColumn.label "Městno">
+<!ENTITY idColumn.label "Pórěd dostaśa">
+<!-- Thread Pane Tooltips -->
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY unreadColumn2.tooltip "Licba njepósłanych powěsćow w nitce">
+<!ENTITY totalColumn2.tooltip "Cełkowna licba powěsćow w nitce">
+
+
+
+
+

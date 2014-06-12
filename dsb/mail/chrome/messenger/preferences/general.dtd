@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerStartPage.label         "&brandShortName; startowy bok">
+<!ENTITY enableStartPage.label            "Gaž &brandShortName; se startujo, startowy bok w powěsćowym póli pokazaś">
+<!ENTITY enableStartPage.accesskey        "G">
+<!ENTITY location.label                   "Městno:">
+<!ENTITY location1.accesskey               "M">
+<!ENTITY useDefault.label                 "Standard wótnowiś">
+<!ENTITY useDefault.accesskey             "S">
+
+
+
+
+<!ENTITY newMessagesArrive.label          "Gaž se nowe powěsći dojdu:">
+<!ENTITY playSound.label                  "Zuk wótgraś">
+<!ENTITY playSound1.accesskey              "u">
+<!ENTITY showAnimatedAlert.label          "Powěźeńku pokazaś">
+<!ENTITY showAnimatedAlert.accesskey      "P">
+<!ENTITY customizeMailAlert.label         "Pśiměriś…">
+<!ENTITY customizeMailAlert.accesskey     "m">
+
+<!ENTITY showTrayIcon.label               "Symbol we wótkładnicy pokazaś">
+<!ENTITY showTrayIcon.accesskey           "t">
+
+<!ENTITY play.label                       "Wótgraś">
+<!ENTITY play.accesskey                   "g">
+<!ENTITY systemsound.label                "Standardny systemowy zuk za nowy post">
+<!ENTITY systemsoundMac.label             "Systemowy zuk za warnowanja">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Slědujucu zukowu dataju wužywaś">
+<!ENTITY customsound.accesskey            "S">
+<!ENTITY browse.label                     "Pśepytaś…">
+<!ENTITY browse.accesskey                 "P">

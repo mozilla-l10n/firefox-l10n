@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Gaž &brandShortName; startujo:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Chatowe konto offline wóstajiś">
+<!ENTITY  startupConnectAuto.label    "Chatowe konta awtomatiski zwězaś">
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+
+<!ENTITY  reportIdleAfter.label         "Kontakty informěrowaś, až som pótom">
+<!ENTITY  reportIdleAfter.accesskey     "i">
+<!ENTITY  idleTime                      "minutow pšec">
+
+<!ENTITY  andSetStatusToAway.label      "a stajśo mój status na Pšec z toś teju statusoweju powěsću:">
+<!ENTITY  andSetStatusToAway.accesskey  "P">
+
+<!ENTITY  sendTyping.label              "W konwersaciji powěźeńki pisaś">
+<!ENTITY  sendTyping.accesskey          "k">
+
+
+
+
+
+
+
+
+
+<!ENTITY  customsound.label                   "Slědujucu zukowu dataju wužywaś">
+<!ENTITY  customsound.accesskey               "S">
+<!ENTITY  browse.label                        "Pśepytaś…">
+<!ENTITY  browse.accesskey                    "P">
+

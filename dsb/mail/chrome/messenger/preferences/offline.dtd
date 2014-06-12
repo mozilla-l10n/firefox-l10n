@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Nastajenja offline">
+
+<!ENTITY textStartUp "Pśi startowanju:">
+<!ENTITY radioRememberPrevState.label "Se pjerwjejšny status online spomnjeś">
+<!ENTITY radioRememberPrevState.accesskey "t">
+<!ENTITY radioAskMe.label "Pśi startowanju se za statusom online pšašaś">
+<!ENTITY radioAskMe.accesskey "s">
+<!ENTITY radioAlwaysOnline.label "Pśecej online startowaś">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Njepósłane powěsći wótesłaś, gaž źośo online?">
+<!ENTITY radioAutoSend.label "Jo">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend.label "Ně 1">
+<!ENTITY radioNotSend.accesskey "1">
+<!ENTITY radioAskUnsent.label "Pšašaś se">
+<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY textGoingOffline "Powěsći za wužywanje offline ześěgnuś, gaž źośo offline?">
+<!ENTITY radioAutoDownload.label "Jo">
+<!ENTITY radioAutoDownload.accesskey "o">
+<!ENTITY radioNotDownload.label "Ně 2">
+<!ENTITY radioNotDownload.accesskey "2">
+<!ENTITY radioAskDownload.label "Pšašaś se">
+<!ENTITY radioAskDownload.accesskey "s">

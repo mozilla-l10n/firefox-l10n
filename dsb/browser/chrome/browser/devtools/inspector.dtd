@@ -10,6 +10,9 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Jadnorazowy selektor kopěrowaś">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "J">
 
+<!ENTITY inspectorHTMLPasteOuter.label      "Wenkowny HTML zasajźiś">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "z">
+
 <!ENTITY inspectorHTMLDelete.label          "Suk lašowaś">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 

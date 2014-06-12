@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "E-mail">
 <!ENTITY fxaccount_password_hint "Gronidło">
 <!ENTITY fxaccount_password_hide "Schowaś">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Pśizjawjony ako">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: zmóžnjony">
 <!ENTITY fxaccount_status_needs_verification2 "Wašo konto musy se pśeglědaś. Potusniśo, aby wobkšuśeńsku mailku znowego pósłał.">

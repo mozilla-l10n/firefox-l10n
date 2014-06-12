@@ -106,9 +106,9 @@ na wašom systemje.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć pśiwzetych datow njedajo se pśespytaś.</li> 
-<li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował. Alternatiwnje móžośo zapisk w meniju Pomoc wužywaś, aby toś to wobškódźone sedło wuzjawił.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</li> 
+<li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">

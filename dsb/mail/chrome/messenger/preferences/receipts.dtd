@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Wobtwarźenja dostaśa">
+<!ENTITY requestReceipt.label          "Pśi słanju powěsćow sebje pśecej wobtwarźenje dostaśa pominaś">
+<!ENTITY requestReceipt.accesskey      "w">
+<!ENTITY receiptArrive.label           "Gaž se wobtwarźenje dostaśa dojźo:">
+<!ENTITY leaveIt.label                 "Jo w mójom postowem kašćiku wóstajiś">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "Jo do mójogo zarědnika &quot;Pósłany&quot; pśesunuś">
+<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY requestMDN.label              "Gaž dostanjom pominanje za wobtwarźenim dostaśa:">
+<!ENTITY never.label                   "Nigdy wobtwarźenje njesłaś">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Wobtwarźenja za někotare powěsći dowóliś">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Jolic njejsom w póli Komu abo Kopija powěsći:">
+<!ENTITY notInToCc.accesskey           "J">
+<!ENTITY outsideDomain.label           "Jolic wótpósłaŕ jo zwenka mójeje domeny:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "We wšych drugich padach:">
+<!ENTITY otherCases.accesskey          "d">
+<!ENTITY askMe.label                   "Pšašaś se">
+<!ENTITY alwaysSend.label              "Pśecej pósłaś">
+<!ENTITY neverSend.label               "Nigdy njesłaś">

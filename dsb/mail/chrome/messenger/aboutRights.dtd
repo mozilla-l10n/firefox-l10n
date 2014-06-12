@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "Wó wašych pšawach">
+<!ENTITY rights.intro-header     "Wó wašych pšawach">
+<!ENTITY rights.intro "&brandFullName; jo licha softwara zjawnego žrědła, napórana wót zgromajźeństwa tysacow luźi z cełego swěta. Su někotare wěcy, kótarež wy by měł wěźeś:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; staja se k dispoziciji pód wuměnjenjami ">
+<!ENTITY rights.intro-point1b "licence Mozilla Public License">
+<!ENTITY rights.intro-point1c ". To wóznamjenijo, až móžośo &brandShortName; wužywaś a kopěrowaś a jen na drugich rozdźěliś. Wóstanjo wam pśewóstajone, žrědłowy kod &brandShortName; pó wašom dobrozdaśu změniś, aby wón wašym pótrjebam wótpowědował. Licenca Mozilla Public License dawa wam teke pšawo waše změnjone wersije rozdźěliś.">
+
+<!ENTITY rights.intro-point2a "Mozilla njegarantěrujo wam žedne pšawa na wikowańskich markach abo logach Mozilla a Thunderbird. Pśidatne informacije na wikowańskich namakajośo ">
+<!ENTITY rights.intro-point2b "how">
+<!ENTITY rights.intro-point2c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "Pšawidła priwatnosći za produkty &vendorShortName; namakajośo ">
+<!ENTITY rights.intro-point3b "how">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Wšykne nałožujobne pšawidła priwatnosći za toś ten produkt by měli se how pódaś.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; póbitujo teke opcionalne słužby, na pśikład słužbu za aktualizěrowanje dodankow; njamóžomy pak garantěrowaś, až su 100&#037; w pórěźe abo bźez zmólkow. Dalšne drobnostki, inkluziwnje informacije, kak móžośo słužby znjemóžniś, namakajośo we ">
+<!ENTITY rights.intro-point4b "wužywańskich wuměnjenjach">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4b-unbranded "wótrězkom">
+<!ENTITY rights.intro-point4c-unbranded " websedłowych słužbow.">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; póbitujo opcionalne słužby (&quot;słužby&quot;), na pśikład słužbu za aktualizěrowanje dodankow, kótarež su myslone za wužywanje z toś teju binarneju wersiju &brandShortName;, kaž to se dołojce wopisujo. Jolic njocośo słužby wužywaś abo slědujuce wuměnjenja su njeakceptěrujobne za was, móžośo słužbu za aktualizěrowanje dodankow znjemóžniś, z tym až wócynijośo nastajenja aplikacije a wuběraśo, ">
+<!ENTITY rights.webservices-b "wótrězk Rozšyrjony">
+<!ENTITY rights.webservices-c " a pótom ">
+<!ENTITY rights.webservices-d "rejtark Aktualizěrowaś">
+<!ENTITY rights.webservices-e " a znjemóžnjaśo opcije za &quot;Awtomatiski aktualizacije pytaś za&quot;.">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "How by dejał pśeglěd websedłowych słužbow zapśimjeś, kótarež produkt wopśimujo, gromaźe z instrukcijami, kak daju s znjemóžniś.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Nałožujobne wužywańske wuměnjenja za toś ten produkt by měli se how pódaś.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; móžo słužby pó swójom dobrozdaśu zastajiś abo změniś.">
+<!ENTITY rights.webservices-term2 "Sćo pśepšošony, toś te słužby z toś teju wersiju &brandShortName; wužywaś, a maśo wšykne pšawa, kótarež su trěbne, aby to cynił. &vendorShortName; a jogo licencudawarje wuměnjenjaju se wšykne druge pšawa na toś tych słužbach. Toś te wuměnjenja njamaju pšawa wobgranicowaś, kótarež garantěruju se pód licencami zjawnego žrědła a daju se na &brandShortName; a na wótpowědne wersije žrědłowego koda &brandShortName; nałožowaś.">
+
+
+<!ENTITY rights.webservices-term5 "&vendorShortName; móžo toś te wuměnjenja, jolic su trěbne, pśi góźbje aktualizěrowaś. Toś te wuměnjenja njedaju se bźez pisnego zwólenja &vendorShortName; změniś.">
+<!ENTITY rights.webservices-term6 "Toś te wuměnjenja pódlaže kaznjam stata Kalifornija, USA, mimo pšawniskich póstajenjow, kótarež su w konflikśe z nimi. Jolic maju se źěl toś tych wuměnjenjow za njepłaśiwy abo měnje, až njedaju se pśesajźiś, zbytkowne źěle wobchowaju swóju połnu statkownosć a płaśiwosć. Jolic jo konflikt mjazy pśełožoneju wersiju a engelskeju wersiju, engelska wersija płaśi.">
