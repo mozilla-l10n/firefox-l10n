@@ -9,8 +9,8 @@
 
 
 <!ENTITY  color                           "Mafoko le Lemorago">
-
-
+<!ENTITY  textColor.label                 "Mafoko:">
+<!ENTITY  textColor.accesskey             "M">
 <!ENTITY  backgroundColor.label           "Lemorago:">
 <!ENTITY  backgroundColor.accesskey       "L">
 <!ENTITY  useSystemColors.label           "Dirisa mebala ya tsamaiso">

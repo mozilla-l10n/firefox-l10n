@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Thebe e Ntšha">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Bula Faele…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Matshwaotsebe">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "&amp;Tshwaya Tsebe e…">
+
 <!ENTITY editThisBookmarkCmd.label "Tseleganya letshwaotsebe le">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
-<!ENTITY backCmd.label                "Morago">
-<!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Boela morago tsebe e le nngwe">
-<!ENTITY forwardCmd.label             "Fetisa  ">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "fetisetsa fa pele ka tsebe e le nngwe">
 <!ENTITY backForwardButtonMenu.tooltip "Tobeletsa ka fa mojeng kgotsa gogela fa tlase go supa tiragalo tsedi fetileng">
 <!ENTITY backForwardButtonMenuMac.tooltip "Gogela fa tlase go supa tiragalo tsedi fetileng">
-<!ENTITY reloadCmd.label              "Tsenya gape">
-<!ENTITY reloadCmd.accesskey          "T">
+
 <!ENTITY reloadButton.tooltip         "Tsenya gape tsebe ya ga jaana">
-<!ENTITY stopCmd.label                "Emisa">
-<!ENTITY stopCmd.accesskey            "E">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Emisa go tsenya tsebe e">
 <!ENTITY goEndCap.tooltip             "Ya ko atereseng e mo Bara ya lefelo">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Dikopololo">
-<!ENTITY downloads.tooltip            "Bontsha tswelelopele ya dikopololo tse di tsweletseng">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -439,8 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "L">
 <!ENTITY setDesktopBackgroundCmd.label      "Tlhoma Jaaka Lemorago la Teseketopo…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "T">
-<!ENTITY bookmarkPageCmd2.label       "Tshwaya Tsebe e">
-<!ENTITY bookmarkPageCmd2.accesskey   "T">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Tshwayatsebe Kgokagano e">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Tshwayatsebe Foreime e">
@@ -564,11 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Laola bogolo">
 <!ENTITY fullZoom.accesskey             "L">
 
-<!ENTITY newTabButton.tooltip           "Bula Thebe e ntšha">
-<!ENTITY newWindowButton.tooltip        "Bula Fensetere e ntšha">
 <!ENTITY sidebarCloseButton.tooltip     "Tswala Barathoko">
-
-<!ENTITY fullScreenButton.tooltip       "Bontsha Fensetere ka Sekerini se se tletseng">
 
 <!ENTITY quitApplicationCmdWin.label       "Tswaya"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "s">

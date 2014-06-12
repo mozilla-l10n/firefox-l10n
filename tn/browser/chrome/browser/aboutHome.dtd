@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Matshwaotsebe">
 <!ENTITY abouthome.historyButton.label   "Ditiragalo tse di fitileng">
-<!ENTITY abouthome.settingsButton.label  "Dithulaganyo">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Diitlhophelwa">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Diratwabogolo">
 <!ENTITY abouthome.addonsButton.label    "Dioketswa">
 <!ENTITY abouthome.appsButton.label      "Lefelo la thekiso">
 <!ENTITY abouthome.downloadsButton.label "Dikopololo">
