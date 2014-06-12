@@ -2,14 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "অ্যাপ পরিচালক">
+<!ENTITY index.projects2 "অ্যাপসমূহ">
+<!ENTITY index.device2 "ডিভাইস">
+<!ENTITY index.help "সাহায্য">
 
+<!ENTITY device.debugMainProcess "মুখ্য প্রক্রিয়াকে ডিবাগ করুন">
 
+<!ENTITY device.screenshot "স্ক্রিনশট">
 
-
-
-
-
-
+<!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
+<!ENTITY device.notConnected "সংযুক্ত নয়। দয়া করে আপনার ডিভাইসটি নিচে সংযুক্ত করুন।">
 <!ENTITY device.startApp "Start">
 
 <!ENTITY device.stopApp "Stop">
@@ -17,16 +20,16 @@
 
 
 <!ENTITY device.name "নাম">
-
-
-
+<!ENTITY device.plain "সাধারণ (পূর্বনির্ধারিত)">
+<!ENTITY device.privileged "অধিকারপ্রাপ্ত">
+<!ENTITY device.certified "অনুমোদিত">
 <!ENTITY device.allow "অনুমতি প্রদান করুন">
 
 <!ENTITY device.prompt "প্রম্পট">
 
 <!ENTITY device.deny "প্রত্যাখ্যান করুন">
 
-
+<!ENTITY device.installedApps "ইন্সটলকৃত অ্যাপসমূহ">
 
 <!ENTITY device.permissions "অনুমতি">
 
@@ -35,7 +38,7 @@
 
 
 
-
+<!ENTITY device.help "সহায়তা">
 
 <!ENTITY connection.disconnect "বিচ্ছিন্ন করুন">
 

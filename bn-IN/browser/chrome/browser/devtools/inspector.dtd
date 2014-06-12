@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Delete Node">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 

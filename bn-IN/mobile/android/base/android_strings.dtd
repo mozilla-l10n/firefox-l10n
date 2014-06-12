@@ -4,19 +4,19 @@
 
 
 <!ENTITY  no_space_to_start_error "&brandShortName; শুরু করার জন্য প্রয়োজনীয় জায়গা নেই।">
-<!ENTITY  error_loading_file "একটি বিঘ্ন ঘটেছে যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল">
+<!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "বুকমার্ক সংকলন">
-<!ENTITY  history_title "পূর্ববর্তী তথ্য">
+<!ENTITY  bookmarks_title "বুকমার্কসমুহ">
+<!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পাঠ তালিকা">
 
-<!ENTITY  switch_to_tab "ট্যাব বদল">
+<!ENTITY  switch_to_tab "ট্যাব বদল করুন">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
-<!ENTITY  crash_message2 "&brandShortName; তে একটি সমস্যা ছিল এবং সেটি ক্র্যাশ করে গেছে। পুনরায় শুরু করার সময় আপনার ট্যাবসমূহ &brandShortName; এর শুরুর পেজে লিস্ট করা থাকবে। ">
-<!ENTITY  crash_send_report_message3 "এই ক্র্যাশ সম্পর্কে &vendorShortName;-কে বলুন যাতে তারা ঠিক করতে পারে">
+<!ENTITY  crash_message2 "&brandShortName; তে একটি সমস্যা ছিল এবং সেটি ক্র্যাশ করে গেছে। পুনরায় শুরু করার সময় আপনার ট্যাবসমূহ &brandShortName; এর শুরুর পেজে তালিকাভুক্ত করা থাকবে। ">
+<!ENTITY  crash_send_report_message3 "এই ক্র্যাশ সম্পর্কে &vendorShortName; কে বলুন যাতে তারা এটা ঠিক করতে পারে">
 <!ENTITY  crash_include_url2 "পরিদর্শিত পৃষ্ঠার ঠিকানা অন্তর্ভুক্ত করা হবে">
 <!ENTITY  crash_sorry "আমরা দুঃখিত">
 <!ENTITY  crash_comment "একটি মন্তব্য লিখুন (মন্তব্যগুলি সর্বসমক্ষে প্রকাশিত থাকবে)">
@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "&formatD; ট্যাবগুলি">
 <!ENTITY new_tab_opened "নতুন ট্যাব খুলেছে">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "বৈশিষ্ট্যাবলী">
 <!ENTITY settings_title "বৈশিষ্ট্যাবলী">
 <!ENTITY pref_category_advanced "উন্নত">
 <!ENTITY pref_category_customize "স্বনির্বাচিত">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "অনুসন্ধান">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীর কাস্টমাইজ করুন">
 <!ENTITY pref_category_display "প্রদর্শন">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "স্বয়ংক্রিয় আপডেট">
 <!ENTITY pref_home_updates_enabled "সক্রিয়">
 <!ENTITY pref_home_updates_wifi "কেবলমাত্র ওয়াইফাই দ্বারা">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "স্বনির্ধারণ">
 <!ENTITY pref_header_display "ডিসপ্লে">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
-<!ENTITY pref_header_help "সহায়তা">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ডেভলপার টুলগুলি">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "শুধু Wi-Fi দ্বারা">
 <!ENTITY pref_update_autodownload_never "কখনই নয়">
 <!ENTITY pref_update_autodownload_always "সর্বদা">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "প্রস্থান">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "টাইটেল বার স্ক্রল করুন">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "পৃষ্ঠা সরিয়ে দেওয়া হয়েছে">
+<!ENTITY page_removed "পৃষ্ঠা সরিয়ে দেওয়া হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা করুন">
 <!ENTITY bookmark_edit_name "নাম">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "মুছে ফেলার জন্য কোন সেটিংস নেই।">
 
 <!ENTITY reading_list_added "পঠন তালিকায় পৃষ্ঠাটি যুক্ত করা হল">
-<!ENTITY reading_list_removed "পঠন তালিকা থেকে পৃষ্ঠাটি মুছে ফেলা হল">
 <!ENTITY reading_list_failed "আপনার পঠন তালিকায় পৃষ্ঠাটি যুক্ত করতে ব্যর্থ">
 <!ENTITY reading_list_duplicate "পৃষ্ঠাটি আগে থেকেই আপনার পাঠ তালিকার অন্তর্ভুক্ত করা আছে">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
 
 <!ENTITY home_history_title "পূর্ববর্তী তথ্য">
+
+
 <!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
 <!ENTITY home_last_tabs_title "শেষবারের ট্যাবগুলি">
 <!ENTITY home_last_tabs_open "শেষবারের সবকটি ট্যাব খুলুন">
@@ -434,3 +454,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "মেনু">
 <!ENTITY actionbar_done "সমাপ্ত">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

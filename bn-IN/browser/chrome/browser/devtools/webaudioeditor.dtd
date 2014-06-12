@@ -14,3 +14,13 @@
   -  along with the button that triggers a page refresh. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties): This is the label shown
+  -  for the properties tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.properties  "Parameters">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
+  -  AudioNode inspector view. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
+  -  AudioNode inspector view empty message. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
+  -  AudioNode inspector view properties tab empty message. -->
