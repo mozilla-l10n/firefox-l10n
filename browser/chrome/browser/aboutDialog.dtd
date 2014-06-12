@@ -67,14 +67,14 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "నవీకరణ విఫలమైంది. ">
-<!ENTITY update.failed.linkText     "సరికొత్త వర్షన్‌ను డౌన్‌లోడ్ చేయుము">
+<!ENTITY update.failed.linkText     "సరికొత్త వర్షన్‌ను దింపుకోండి">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "నవీకరణలు యిచట అందుబాటులోవున్నాయి ">
+<!ENTITY update.manual.start        "నవీకరణలు ఇక్కడ అందుబాటులోవున్నాయి ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -92,10 +92,10 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "నవీకరణను డౌన్‌లోడ్ చేయుచున్నది — ">
+<!ENTITY update.downloading.start   "నవీకరణను దింపుకుంటోంది — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "నవీకరణను వర్తింపచేస్తోంది…">
+<!ENTITY update.applying            "నవీకరణను వర్తిస్తోంది…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

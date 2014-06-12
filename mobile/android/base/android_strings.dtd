@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "&formatD; ట్యాబులు">
 <!ENTITY new_tab_opened "కొత్త ట్యాబు తెరుచుకుంది">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!ENTITY pref_category_customize "మలచుకొనడం">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
 <!ENTITY pref_category_display "ప్రదర్శన">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "స్వయంచాలక నవీకరణలు">
 <!ENTITY pref_home_updates_enabled "చేతనం">
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "మలచుకొనడం">
 <!ENTITY pref_header_display "ప్రదర్శన">
 <!ENTITY pref_header_privacy_short "గోప్యత">
-<!ENTITY pref_header_help "సహాయం">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "అభివృద్ధికారుల పనిముట్లు">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "నిష్క్రమించు">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "శీర్షిక పట్టీ స్క్రాల్‌చేయి">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "పేజీ తీసివేయబడెను">
+<!ENTITY page_removed "పేజీ తీసివేయబడెను">
 
 <!ENTITY bookmark_edit_title "ఇష్టాంశాన్ని సవరించు">
 <!ENTITY bookmark_edit_name "పేరు">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 
 <!ENTITY reading_list_added "మీ చదివే జాబితాకు పేజీ చేర్చబడింది">
-<!ENTITY reading_list_removed "మీ చదివే జాబితా నుండి పేజీ తీసివేయబడింది">
 <!ENTITY reading_list_failed "మీ చదివే జాబితాకు పేజీని చేర్చడం విఫలమైంది">
 <!ENTITY reading_list_duplicate "ఈ పేజీ ఇప్పటికే మీ చదివే జాబితాలో ఉంది">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
 
 <!ENTITY home_history_title "చరిత్ర">
+
+
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
 <!ENTITY home_last_tabs_title "చివరిసారి ట్యాబులు">
 <!ENTITY home_last_tabs_open "పోయినసారి తెరచివున్న ట్యాబులన్నీ తెరువు">
@@ -434,3 +454,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "మెనూ">
 <!ENTITY actionbar_done "అయినది">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

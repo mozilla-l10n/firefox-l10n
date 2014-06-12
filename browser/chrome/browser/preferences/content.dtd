@@ -26,3 +26,7 @@
 <!ENTITY chooseLanguage.label         "పుటలను ప్రదర్శించుటకు మీ అభీష్టభాషలను ఎంచుకొనుము">
 <!ENTITY chooseButton.label           "ఎంచుకొనుము…">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "ఎక్సెప్షన్లు...">
+<!ENTITY translateExceptions.accesskey "x">
