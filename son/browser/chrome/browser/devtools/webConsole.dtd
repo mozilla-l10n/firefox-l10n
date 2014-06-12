@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     " Hãayan nda zaabi gundakunawey leeti ">
+<!ENTITY saveBodies.label     "Hãayan nda zaabi gundakunawey leeti">
 <!ENTITY saveBodies.accesskey "l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
@@ -44,7 +44,7 @@
   -  filters. -->
 
 <!ENTITY btnPageNet.label   "Sankay">
-<!ENTITY btnPageNet.tooltip "Sankay ceebandu hantum bisadoo">
+<!ENTITY btnPageNet.tooltip "Sankay ceebandu hantum">
 <!ENTITY btnPageNet.accesskey "n">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "CSS firkawey nda yaamarey hantum">
+<!ENTITY btnPageCSS.tooltip2 "CSS firkawey nda yaamarey hantum">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "JavaScript hasarawey hantum">

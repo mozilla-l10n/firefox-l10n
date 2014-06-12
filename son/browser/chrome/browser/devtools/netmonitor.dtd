@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
+
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• Naagu ne">
 <!ENTITY netmonitorUI.perfNotice2         "butoŋ ka šintin ka teeyan sahã fesu-fesu.">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->

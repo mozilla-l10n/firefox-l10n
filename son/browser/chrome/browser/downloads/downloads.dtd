@@ -72,7 +72,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Zumandiyaney kul cebe">
+<!ENTITY downloadsHistory.label           "Zumandey kul cebe">
 <!ENTITY downloadsHistory.accesskey       "c">
 
 <!ENTITY clearDownloadsButton.label       "Zumandey tuusu">
@@ -82,12 +82,12 @@
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "Zumandiyaŋ kul ši.">
+<!ENTITY downloadsListEmpty.label         "Zumandi kul ši bara.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Zumandi kul ši batoo woo še.">
+<!ENTITY downloadsPanelEmpty.label        "Zumandi kul ši batoo woo se.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.

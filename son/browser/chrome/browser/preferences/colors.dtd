@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "M">
 
 <!ENTITY  color                           "Kalimaɲaa kuru nda bandafaari">
-
-
+<!ENTITY  textColor.label                 "Kalimaɲaa kuru:">
+<!ENTITY  textColor.accesskey             "K">
 <!ENTITY  backgroundColor.label           "Bandafaari:">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "Dabariɲaa noonawey goyandi">

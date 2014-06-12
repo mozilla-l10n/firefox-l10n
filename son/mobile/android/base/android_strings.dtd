@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "nor loku &formatD;">
 <!ENTITY new_tab_opened "Nor loku taaga feera">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
 <!ENTITY pref_category_display "Cebe">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "Boŋtaagandirey">
 <!ENTITY pref_home_updates_enabled "Ga dira">
 <!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Hanse boŋše">
 <!ENTITY pref_header_display "Cebe">
 <!ENTITY pref_header_privacy_short "Sutura">
-<!ENTITY pref_header_help "Faaba">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Cinakey goyjinawey">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_update_autodownload_never "Abada">
 <!ENTITY pref_update_autodownload_always "Waati kul">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Fatta">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Maazuu cendi">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Moo tuusante">
+<!ENTITY page_removed "Moo tuusante">
 
 <!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
 <!ENTITY bookmark_edit_name "Maa">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 
 <!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
-<!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
 <!ENTITY reading_list_failed "Mana hin ka moɲoo tonton war caw maašeedaa ga">
 <!ENTITY reading_list_duplicate "Moo goo war caw maašeedaa ra">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
 
 <!ENTITY home_history_title "Taariki">
+
+
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
 <!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
@@ -434,3 +454,9 @@ Android ra">
 
 <!ENTITY actionbar_menu "Šilbayboŋ">
 <!ENTITY actionbar_done "Ben">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

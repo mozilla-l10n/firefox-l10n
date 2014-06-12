@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Goy bila nda ciyari">
 <!ENTITY            offlineState.accesskey "G">
 
-
+<!ENTITY            useSelected.label       "War tilasu alhaalo ka goy bila nda haãyan tunandiyan ga">
+<!ENTITY            useSelected.accesskey   "s">

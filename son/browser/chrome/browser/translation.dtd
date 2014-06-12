@@ -35,7 +35,7 @@
   -  be grammatically correct. -->
 
 <!ENTITY translation.translatedFrom.label       "Moɲoo woo berandi dogoo">
-<!ENTITY translation.translatedTo.label         "še">
+<!ENTITY translation.translatedTo.label         "se">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Aššil cebe">
@@ -44,4 +44,15 @@
 <!ENTITY translation.errorTranslating.label     "Firka bangay moɲoo woo berandiyanoo ra.">
 <!ENTITY translation.tryAgain.button            "Ceeci koyne">
 
+<!ENTITY translation.serviceUnavailable.label   "Berandiyan ši bara sohõda. Ceeci koyne nd'a too kayna.">
+
 <!ENTITY translation.options.menu               "Suubarey">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Nungoo woo ma ši berandi ababa">
+<!ENTITY translation.options.neverForSite.accesskey "b">
+<!ENTITY translation.options.preferences.label  "Berandiyan ibaayey">
+<!ENTITY translation.options.preferences.accesskey "T">

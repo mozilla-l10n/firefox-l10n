@@ -6,10 +6,10 @@
 
 <!ENTITY dntTrackingNopref.label2       "Ma ši haya kul har ay bisayan fondo hawgayyaney ga.">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Nee nungey še ay ši baa boro m'ay gana.">
+<!ENTITY dntTrackingNotOkay.label2      "Nee nungey se ay ši baa boro m'ay gana.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Nee nungey ay ga baa boro m'ay gana.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY doNotTrackInfo.label           "Bay ka tonton">
 
 <!ENTITY  history.label                 "Taariki">
@@ -50,7 +50,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "g">
 <!ENTITY  historyHeader.remember.label     "Hongu taarikoo">
 <!ENTITY  historyHeader.dontremember.label "Ma ši honga taarikoo abada">
-<!ENTITY  historyHeader.custom.label       "Hanse bonše taariku še goyandi">
+<!ENTITY  historyHeader.custom.label       "Hanse bonše taariku se goyandi">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ga honga war naaru, zumandi, takari nda ceeciyan taariki, nd'a ga aleewawey kaŋ hun war Interneti nungey ra gaabu.">

@@ -8,8 +8,8 @@
 <!ENTITY startSafeMode.label          "Tunandi saajaw alhaali ra">
 <!ENTITY resetProfile.label           "&brandShortName; yeeti">
 
-<!ENTITY safeModeDescription3.label   "Saajaw alhaali ti &brandShortName; alhaali cerecerante kaŋ ga hin ka tee karkahattayan misey še.">
-<!ENTITY safeModeDescription4.label   "War tontoney nda alaada kayandiyaney ga kay waati foo še.">
+<!ENTITY safeModeDescription3.label   "Saajaw alhaali ti &brandShortName; alhaali cerecerante kaŋ ga hin ka tee karkahattayan misey se.">
+<!ENTITY safeModeDescription4.label   "War tontoney nda alaada kayandiyaney ga kay waati foo se.">
 
 <!ENTITY resetProfileInstead.label    "War ga hin ka &brandShortName; yeeti nda war ga boona ka šintin taaga.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Goykonda (O)">
 <!ENTITY certmgr.certdetail.ou                "Goykonda izefoo (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Fannu lanba">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 kabežeeri">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 kabežeeri">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 kabežeeri">
 
 <!ENTITY certmgr.editcert.title               "Saajaw tabatiyan-tiira kayandiyaney fasal">
 <!ENTITY certmgr.editcacert.title             "Tabatiyan-tiira hini naanay kayandiyaney fasal">

@@ -37,7 +37,7 @@
 <!ENTITY dataChoicesTab.label            "Bayhaya suubarey">
 
 <!ENTITY healthReportSection.label       "&brandShortName; baani bayrandikaw">
-<!ENTITY healthReportDesc.label          "Ga war gaa ka faham ceecikaa goysahãa še nda ka bayhaya žemni war ceecikaa baanoo ga nda &vendorShortName;">
+<!ENTITY healthReportDesc.label          "Ga war gaa ka faham ceecikaa goysahãa se nda ka bayhaya žemni war ceecikaa baanoo ga nda &vendorShortName;">
 <!ENTITY enableHealthReport.label        "&brandShortName; baani bayrandikaa tunandi">
 <!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Bay ka tonton">
@@ -90,7 +90,7 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Taagandirey sinji ngey boŋše (yaamarante: saajaw tontonandi)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateAutoMetro.label           "Ga taagandi nga boŋ še ordinater nda Windows 8 fasal &brandShortName; ga">
+<!ENTITY updateAutoMetro.label           "Ga taagandi nga boŋ se ordinater nda Windows 8 fasal &brandShortName; ga">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Taagandirey guna, amma naŋ ya ngey sinjiyan dogoo suuba">
 <!ENTITY updateCheck.accesskey           "g">
@@ -112,12 +112,12 @@
 <!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan še">
+<!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se">
 <!ENTITY offlineNotify.accesskey         "H">
 <!ENTITY offlineNotifyExceptions.label   "Hasarawey…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList2.label          "Interneti nungey wey duu fondo ka bayhayey jiši bila-nda-ciyari goyyan še:">
+<!ENTITY offlineAppsList2.label          "Interneti nungey wey duu fondo ka bayhayey jiši bila-nda-ciyari goyyan se:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaa…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
@@ -126,9 +126,9 @@
 <!ENTITY certificateTab.label            "Tabatiyan-tiirawey">
 <!ENTITY certSelection.description       "Waati kaŋ feršikaw n'ay boŋ tabatiyan-tiiraa wiri:">
 <!ENTITY certs.auto                      "Affoo suuba boŋše">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Hãa waati foo kul">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY viewCerts.label                 "Tabatiyan-tiirawey guna">
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY verify2.label                   "Alhakiikandiyan">

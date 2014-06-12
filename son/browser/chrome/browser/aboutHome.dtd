@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Doo-šilbawey">
 <!ENTITY abouthome.historyButton.label   "Taariki">
-<!ENTITY abouthome.settingsButton.label  "Kayandiyaney">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Suubarey">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Ibaayey">
 <!ENTITY abouthome.addonsButton.label    "Tontoney">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Zumandiyaney">

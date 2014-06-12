@@ -57,12 +57,12 @@ ciyari.</li>
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
@@ -99,14 +99,14 @@ goy ra.</li>
 <!ENTITY unknownSocketType.title "Zaabi kaŋ mana hongandi hun feršikaa do">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Guna k'alhakiika wala boŋ-saajaw juwalkaw 
- sinjandi.</li> 
+sinjandi.</li> 
 <li>Woo sotoloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Moɲoo kaŋ war ga ceeci ka dii ya ši hin ka cebandi zama bayhaya duwantey tabatandiyanoo ši hin ka korosandi.</li> 
-<li>Taare war Interneti nungu koyey hãa ka šendaa woo bayrandi i še. Wala juwaloo kaŋ fatta faaba šilbayboŋoo ra ka nungu hasarantaa bayrandi.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Moɲoo kaŋ war ga ceeci k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi</li> 
+<li>Taare war interneti nungu koyey cee ka šendaa woo bayrandi i se.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
@@ -132,13 +132,13 @@ goo &brandShortName; nda fondo ka huru tataaroo ra.</li>
 
 <!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
 <!ENTITY phishingBlocked.longDesc "<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtaamansaa ma zaytarandi, wal&apos;a ma darga faaba.</p> 
-<p>Darga tataaru dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari (&quot;phishing&quot;), kaŋ ra tataaru moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>">
+<p>Darga interneti dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari (&quot;phishing&quot;), kaŋ ra interneti moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
 <!ENTITY corruptedContentError.title "Gundekuna laybante firka">
-<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
@@ -154,4 +154,4 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL moora">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey še.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">

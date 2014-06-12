@@ -8,13 +8,13 @@
 <!ENTITY warnCloseMultipleTabs.label  "Ay yaamar waati kaŋ nor loku booboyaŋ ga daaba">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
 
-<!ENTITY warnOpenManyTabs.label       "Ay yaamar waati kaŋ nor loku booboyaŋ ga feeri, nd'i ga &brandShortName; cewoo yaynandi">
+<!ENTITY warnOpenManyTabs.label       "Ay yaamar waati kaŋ nor loku booboyaŋ ga feera, nd'i ga &brandShortName; gayandi">
 <!ENTITY warnOpenManyTabs.accesskey   "f">
 
 <!ENTITY restoreTabsOnDemand.label        "Ma ši nor lokey zumandi hal'i ma suubandi">
 <!ENTITY restoreTabsOnDemand.accesskey    "z">
 
-<!ENTITY switchToNewTabs.label        "Waati kaŋ ay ga dobu feeri nor loku taaga ra, bere a ga sohõda">
+<!ENTITY switchToNewTabs.label        "Waati kaŋ ay ga dobu feeri nor loku taaga ra, bere a ga dogoo ra">
 <!ENTITY switchToNewTabs.accesskey    "b">
 
 <!ENTITY showTabsInTaskbar.label          "Moo-daaru nor loku cebe Windows goymaaboŋ ra">

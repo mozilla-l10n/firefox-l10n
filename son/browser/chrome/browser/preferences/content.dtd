@@ -27,3 +27,8 @@
 <!ENTITY chooseLanguage.label         "War šenni ibaayantaa suuba ka moɲey cebe">
 <!ENTITY chooseButton.label           "Suuba…">
 <!ENTITY chooseButton.accesskey       "u">
+
+<!ENTITY translateWebPages.label      "Interneti gundekuna berandi">
+<!ENTITY translateWebPages.accesskey  "b">
+<!ENTITY translateExceptions.label    "Hasarawey…">
+<!ENTITY translateExceptions.accesskey "H">

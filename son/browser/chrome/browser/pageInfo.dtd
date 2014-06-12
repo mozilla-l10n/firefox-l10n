@@ -55,9 +55,9 @@
 <!ENTITY  permUseDefault        "Tilasu goyandi">
 <!ENTITY  permAskAlways         "Hãa waati kul">
 <!ENTITY  permAllow             "Noo fondo">
-<!ENTITY  permAllowSession      "Noo fondo goywaati še">
+<!ENTITY  permAllowSession      "Noo fondo goywaati se">
 <!ENTITY  permBlock             "Gagay">
-<!ENTITY  permissionsFor        "Duɲeyan woo še:">
+<!ENTITY  permissionsFor        "Duɲeyan woo se:">
 <!ENTITY  permPlugins           "Sukarey dirandi">
 
 <!ENTITY  permClearStorage           "Jišidoo koonandi">
@@ -65,7 +65,7 @@
 
 <!ENTITY  securityTab           "Saajaw">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Saajaw alhabar moɲoo woo še">
+<!ENTITY  securityHeader        "Saajaw alhabar moɲoo woo se">
 <!ENTITY  securityView.certView "Tabatiyan-tiira guna">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Šibayante">
@@ -81,7 +81,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Interneti nungoo woo mma alhabar (aleewayaŋ) jiši ay ordinateroo ga?">
 <!ENTITY  securityView.privacy.viewCookies              "Aleewawey guna">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Ya n' ka šennikufal kulyaŋ gaabu Interneti nungoo woo še?">
+<!ENTITY  securityView.privacy.passwords                "Ya n' ka šennikufal kulyaŋ gaabu Interneti nungoo woo se?">
 <!ENTITY  securityView.privacy.viewPasswords            "Šennikufal gaabuntey guna">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
