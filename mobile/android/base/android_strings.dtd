@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "&formatD; taba(ichean)">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
 <!ENTITY pref_category_display "Taisbeanadh">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
 <!ENTITY pref_header_display "Taisbeanadh">
 <!ENTITY pref_header_privacy_short "Prìobhaideachd">
-<!ENTITY pref_header_help "Cobhair">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Innealan an luchd-leasachaidh">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_update_autodownload_never "Chan ann idir">
 <!ENTITY pref_update_autodownload_always "An-còmhnaidh">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Fàg an-seo">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Sgrolaich bàr an tiotail">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Duilleag air a thoirt air falbh">
+<!ENTITY page_removed "Duilleag air a thoirt air falbh">
 
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_name "Ainm">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
-<!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
 <!ENTITY reading_list_duplicate "Tha an duilleag air an liosta leughaidh agad mu thràth">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir làrach ris">
 
 <!ENTITY home_history_title "Eachdraidh">
+
+
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
 <!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY home_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
@@ -434,3 +454,9 @@ o Android">
 
 <!ENTITY actionbar_menu "Clàr-taice">
 <!ENTITY actionbar_done "Dèanta">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
