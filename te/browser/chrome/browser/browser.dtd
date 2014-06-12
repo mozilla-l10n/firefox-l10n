@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "కొత్త టాబ్">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "ఫైల్  తెరువు...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ఇష్టాంశాలు (B)">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
+
 <!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "క్రమబద్దీకరించని యిష్టాంశములు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
-<!ENTITY backCmd.label                "వెనుకకు">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
-<!ENTITY forwardCmd.label             "ముందుకు">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళుము">
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపుటకు కిందకు లాగండి">
-<!ENTITY reloadCmd.label              "తిరిగిలోడుచేయి">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "ప్రస్తుత పేజీని తిరిగిలోడుచేయి">
-<!ENTITY stopCmd.label                "ఆపుము">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగ్‌ను ఆపుము">
 <!ENTITY goEndCap.tooltip             "స్థితిపట్టీలో చిరునామాకు వెళ్ళుము">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "దింపుకోళ్ళు (D)">
-<!ENTITY downloads.tooltip            "జరుగుతున్న డౌనులోడుల పురోగతిని ప్రదర్శింపుము">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -272,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని పనిముట్లను పొందండి (M)">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY fileMenu.label         "ఫైల్"> 
+<!ENTITY fileMenu.label         "దస్త్రం (F)"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -280,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "కొత్త వ్యక్తిగత విండో">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "సరిచేయు"> 
+<!ENTITY editMenu.label         "సవరణ (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "వెనుదెమ్ము (U)">  
 <!ENTITY undoCmd.key            "Z">  
@@ -312,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "దర్శించు"> 
+<!ENTITY viewMenu.label         "చూడటం (V)"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "టాబ్ సమూహాలు">
 <!ENTITY viewTabGroups.accesskey        "G">
@@ -346,8 +343,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-
-
+<!ENTITY customizeMenu.addToPanel.label "మెనూకు జతచేయి">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -416,7 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "పేజీ మూలాన్ని దర్శించు">
+<!ENTITY viewPageSourceCmd.label      "పేజీ మూలాన్ని చూడండి">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "ఫ్రేమ్ మూలాన్ని చూడండి">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
@@ -426,20 +423,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "చిత్రాన్ని మరల ఎక్కించు">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "చిత్రాన్ని దర్శించు">
+<!ENTITY viewImageCmd.label           "చిత్రాన్ని చూడండి">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "చిత్రము సమాచారాన్ని దర్శించుము">
+<!ENTITY viewImageInfoCmd.label       "చిత్ర సమాచారాన్ని చూడండి">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "వివరణను చూడండి (D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "దృశ్యాన్ని చూడు">
+<!ENTITY viewVideoCmd.label           "దృశ్యకాన్ని చూడండి">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "బ్యాక్‌గ్రౌండ్ చిత్రాన్ని దర్శించు">
+<!ENTITY viewBGImageCmd.label         "నేపథ్య చిత్రాన్ని చూడండి (w)">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాప్ వెనుతలంగా అమర్చు…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశము చేయుము">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయుము">
@@ -563,11 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "జూమ్">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "కొత్త ట్యాబును తెరువు">
-<!ENTITY newWindowButton.tooltip        "కొత్త విండోను తెరువు">
 <!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూయి">
-
-<!ENTITY fullScreenButton.tooltip       "విండోలను పూర్తి తెరలో చూపించు">
 
 <!ENTITY quitApplicationCmdWin.label       "నిష్క్రమించు"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
