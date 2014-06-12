@@ -151,12 +151,12 @@
       Monitor -->
 <!ENTITY options.commonPrefs.label           "Preferências comuns">
 
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogging.label    "Ativar registos permanentes">
-<!ENTITY options.enablePersistentLogging.tooltip  "Se ativar esta opção a consola web não limpa a saída de cada vez que navega para uma nova página">
+<!ENTITY options.enablePersistentLogs.label    "Ativar registos permanentes">
+<!ENTITY options.enablePersistentLogs.tooltip  "Se ativar esta opção a consola web não limpa a saída de cada vez que navega para uma nova página">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
