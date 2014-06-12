@@ -1,8 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "Betrugsversuche">
 <!ENTITY itemPasswords.label     "Passwörter">
 <!ENTITY itemAntiVirus.label     "Anti-Virus">
-<!ENTITY itemCookies.label       "Webinhalte">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Die folgenden Einstellungen gelten für alle Konten. In den Konten-Einstellungen können zusätzlich für jedes Konto getrennte Einstellungen vorgenommen werden.">
@@ -42,23 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kann es Anti-Virus-Software ermöglichen, eingehende Nachrichten zu überprüfen und eventuell in Quarantäne zu stellen (oder zu löschen), bevor diese im Posteingang gespeichert werden. Dies kann bei POP-Konten vor Datenverlust schützen, benötigt aber mehr Zeit.">
 <!ENTITY antiVirus.label      "Anti-Virus-Software ermöglichen, eingehende Nachrichten unter Quarantäne zu stellen">
 <!ENTITY antiVirus.accesskey  "A">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; ermöglicht Regeln zur Festlegung, welche Blogs, Nachrichten-Feeds und sonstige Websites Cookies speichern dürfen.">
-<!ENTITY acceptCookies.label            "Cookies von Webseiten akzeptieren">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Behalten, bis:">
-<!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "sie nicht mehr gültig sind">
-<!ENTITY close.label                    "&brandShortName; geschlossen wird">
-<!ENTITY askEachTime.label              "jedes Mal nachfragen">
-<!ENTITY cookieExceptions.label         "Ausnahmen…">
-<!ENTITY cookieExceptions.accesskey     "A">
-<!ENTITY showCookies.label              "Cookies anzeigen…">
-<!ENTITY showCookies.accesskey          "o">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Websites mitteilen, dass ich nicht verfolgt werden möchte">
-<!ENTITY doNotTrack.accesskey           "m">
-
 

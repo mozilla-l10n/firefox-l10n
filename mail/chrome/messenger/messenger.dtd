@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "a">
 <!ENTITY synchronizeOfflineCmd.label "Jetzt herunterladen / synchronisieren…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd.label "Offline-Einstellungen…">
-<!ENTITY settingsOfflineCmd.accesskey "E">
+<!ENTITY settingsOfflineCmd2.label "Offline-Einstellungen">
+<!ENTITY settingsOfflineCmd2.accesskey "E">
 <!ENTITY downloadSelectedCmd.label "Ausgewählte Nachrichten herunterladen">
 <!ENTITY downloadSelectedCmd.accesskey "w">
 <!ENTITY downloadStarredCmd.label "Gekennzeichnete Nachrichten herunterladen">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "G">
 <!ENTITY menuFavoriteFolder.label "Favoriten-Ordner">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Eigenschaften…">
-<!ENTITY folderPropsFolderCmd.label "Ordner-Eigenschaften…">
-<!ENTITY folderPropsNewsgroupCmd.label "Newsgruppen-Eigenschaften…">
+<!ENTITY folderPropsCmd2.label "Eigenschaften">
+<!ENTITY folderPropsFolderCmd2.label "Ordner-Eigenschaften">
+<!ENTITY folderPropsNewsgroupCmd2.label "Newsgruppen-Eigenschaften">
 <!ENTITY folderPropsCmd.accesskey "n">
 <!ENTITY undoDeleteMsgCmd.label "Rückgängig: Nachricht löschen">
 <!ENTITY redoDeleteMsgCmd.label "Wiederherstellen: Nachricht löschen">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Letzte">
 <!ENTITY recentFolders.accesskey "L">
+<!ENTITY compactVersion.label "Kompakte Ansicht">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortieren nach">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Gespeicherte Dateien">
 <!ENTITY savedFiles.accesskey "D">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filter…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filter">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
 <!ENTITY filtersApply.accesskey "O">
 <!ENTITY filtersApplyToSelection.label "Filter auf gewählte Nachrichten anwenden">
@@ -478,15 +480,15 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Neueste Chronik löschen…">
 <!ENTITY clearRecentHistory.accesskey "r">
-<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Konten-Einstellungen">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "o">
+<!ENTITY accountManagerCmdUnix2.accesskey "o">
 <!ENTITY allowRemoteDebugging.label "Externes Debugging erlauben">
 <!ENTITY allowRemoteDebugging.accesskey "x">
 
-<!-- Toolbar items -->
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Abrufen">
 <!ENTITY newMsgButton.label "Verfassen">
 <!ENTITY replyButton.label "Antworten">
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Externe Inhalte in dieser Nachricht anzeigen">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
-<!ENTITY remoteContentOptionAllowForAddress.label "Externe Inhalte von diesem Absender immer anzeigen">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "A">
+<!ENTITY editRemoteContentSettings.label "Einstellungen für externe Inhalte bearbeiten…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Einstellungen für externe Inhalte bearbeiten…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Warnung für diese Nachricht ignorieren">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "Nachrichten suchen…">
 <!ENTITY folderContextSearchForMessages.accesskey "s">
-<!ENTITY folderContextProperties.label "Eigenschaften…">
-<!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextProperties2.label "Eigenschaften">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriten-Ordner">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Einstellungen…">
-<!ENTITY folderContextSettings.accesskey "E">
+<!ENTITY folderContextSettings2.label "Einstellungen">
+<!ENTITY folderContextSettings2.accesskey "E">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name oder E-Mail-Adresse enthält:">
@@ -700,10 +704,12 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "In Themenbaum anzeigen">
 <!ENTITY contextOpenConversation.accesskey "z">
+<!ENTITY contextOpenContainingFolder.label "In beinhaltendem Ordner öffnen">
+<!ENTITY contextOpenContainingFolder.accesskey "h">
 <!ENTITY contextEditMsgAsNew.label "Als neu bearbeiten">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Archivieren">
-<!ENTITY contextArchive.accesskey "h">
+<!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Antworten nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup2.label "Antworten an Newsgruppe">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Fenster maximieren">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Einstellungen…">
+<!ENTITY preferencesCmdMac2.label       "Einstellungen">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Services">
@@ -894,3 +900,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Alle einblenden">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Dock-Symbol-Einstellungen…">

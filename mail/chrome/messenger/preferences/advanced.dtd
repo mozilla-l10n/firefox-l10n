@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "Update-Chronik anzeigen">
 <!ENTITY updateHistory.accesskey         "C">
-<!ENTITY updateOthers.label              "Automatisch aktualisieren:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "A">
 
 <!ENTITY useService.label                "Einen Hintergrunddienst zum Installieren von Updates verwenden">
 <!ENTITY useService.accesskey            "H">

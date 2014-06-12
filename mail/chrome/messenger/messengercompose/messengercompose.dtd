@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
-<!ENTITY findCmd.label "Suchen und ersetzen…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Suchen…">
+<!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Suchen und ersetzen…">
+<!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Weitersuchen">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "c">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Vorheriges suchen">
+<!ENTITY findPrevCmd.accesskey "V">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "V">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ansicht">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "o">
-<!ENTITY preferencesCmd.label "Einstellungen…">
-<!ENTITY preferencesCmd.accesskey "E">
+<!ENTITY accountManagerCmd2.label "Konten-Einstellungen">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "o">
+<!ENTITY preferencesCmd2.label "Einstellungen">
+<!ENTITY preferencesCmd2.accesskey "E">
 <!ENTITY preferencesCmdUnix.label "Einstellungen…">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
