@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "تصدیق نامے">
 <!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
 <!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
-<!ENTITY certs.auto.accesskey            "ت">
+
 <!ENTITY certs.ask                       "مجھے ہر بار پوچھیں">
-<!ENTITY certs.ask.accesskey             "پ">
-<!ENTITY viewCerts.label                 "تصدیق نامے نظارہ کریں">
-<!ENTITY viewCerts.accesskey             "ت">
+
+
+
 <!ENTITY verify2.label                   "جواز دہی">
 <!ENTITY verify2.accesskey               "ج">
-<!ENTITY viewSecurityDevices.label       "سلامتی آلات">
-<!ENTITY viewSecurityDevices.accesskey   "س">
+
+

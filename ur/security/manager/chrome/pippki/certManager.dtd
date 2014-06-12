@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "فی الحال تصدیق نامے کی توثیق کر رہا ہے…">
 <!ENTITY certmgr.subjectinfo.label            "جاری شدہ بنام">
 <!ENTITY certmgr.issuerinfo.label             "جاری شدہ بمطابق">
-<!ENTITY certmgr.validity.label               "جواز دہی" >
+
 <!ENTITY certmgr.fingerprints.label           "انگلیوں کے نشان">
 <!ENTITY certmgr.certdetail.title             "تصدیق نامہ تفصیل">
 <!ENTITY certmgr.certdetail.cn                "کامن نیم (CN)">
 <!ENTITY certmgr.certdetail.o                 "تنظیم (O)">
 <!ENTITY certmgr.certdetail.ou                "تنظیمی یونٹ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "تسلسلی نمبر">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 انگلیوں کے نشان">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 انگلیوں کے نشان">
 
 <!ENTITY certmgr.editcert.title               "سلامتی تصدیق نامہ سیٹنگیں تدوین کریں">
 <!ENTITY certmgr.editcacert.title             "CA تصدیق نامہ بھروسا سیٹنگیں تدوین کریں">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "پیش کار">
 <!ENTITY certmgr.override_lifetime            "تاحیات">
 <!ENTITY certmgr.tokenname                    "سلامتی آلہ">
-<!ENTITY certmgr.issued                       "جاری شدہ بر">
+
 <!ENTITY certmgr.expires                      "مدت ختم ہوتی ہے بر">
 <!ENTITY certmgr.email                        "ای میل پتہ">
 <!ENTITY certmgr.serial                       "سیریل نمبر">

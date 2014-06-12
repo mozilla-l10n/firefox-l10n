@@ -23,3 +23,5 @@
 <!ENTITY  paneSync.title          "ہمہ وار کریں">
 <!ENTITY  buttonForward.tooltip   "ایک صفحہ آگے جائیں">
 <!ENTITY  buttonBack.tooltip      "ایک صفحہ واپس جائیں">
+
+<!ENTITY  helpButton.label        "مدد">

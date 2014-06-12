@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "کتابی نشانات">
 <!ENTITY abouthome.historyButton.label   "تاریخچہ">
-<!ENTITY abouthome.settingsButton.label  "سیٹنگیں">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "اختیارات">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "ترجیحات">
 <!ENTITY abouthome.addonsButton.label    "ایڈ اون">
 <!ENTITY abouthome.appsButton.label      "مارکیٹ">
 <!ENTITY abouthome.downloadsButton.label "ڈاؤن لوڈ">

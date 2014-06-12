@@ -23,4 +23,4 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 
-<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &lt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">
+<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &gt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">

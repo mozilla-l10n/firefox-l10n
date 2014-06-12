@@ -17,8 +17,8 @@
 <!ENTITY  button-cancel-unix.label     "مسترد">
 
 <!ENTITY  button-back-win.label        "&gt; پیچھے">
-<!ENTITY  button-back-win.accesskey    "B">
-<!ENTITY  button-next-win.label        "آگے&lt;">
+<!ENTITY  button-back-win.accesskey    "پ">
+<!ENTITY  button-next-win.label        "آگے &lt;">
 <!ENTITY  button-next-win.accesskey    "آ">
 <!ENTITY  button-finish-win.label      "اختتام">
 <!ENTITY  button-cancel-win.label      "مسترد">

@@ -26,3 +26,7 @@
 <!ENTITY chooseLanguage.label         "صفحہ دکھانے کے لیے اپنی زبان چنیں">
 <!ENTITY chooseButton.label           "انتخاب کریں…">
 <!ENTITY chooseButton.accesskey       "ا">
+
+
+<!ENTITY translateExceptions.label    "استثنیات ...">
+<!ENTITY translateExceptions.accesskey "ا">

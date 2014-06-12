@@ -55,7 +55,7 @@
 
 <!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "برانڈ کا مختصر نام; تازہ ترین ہے">
+<!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
