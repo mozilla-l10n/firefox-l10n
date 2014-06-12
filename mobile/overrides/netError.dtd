@@ -97,10 +97,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Қорғалған байланысты орнату сәтсіз">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Сіз сұраған парақ көрсетілмейді, өйткені алынған мәліметтерді тексеру мүмкін емес.</li> 
-<li>Сайт иесіне осы мәселе жөнінде хабарлаңыз.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Қорғалған байланысты орнату сәтсіз">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
