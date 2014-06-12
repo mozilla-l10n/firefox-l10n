@@ -32,8 +32,8 @@
 <!ENTITY certmgr.certdetail.o                 "Setlamo (O)">
 <!ENTITY certmgr.certdetail.ou                "Yuniti ya Setlamo (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Palopopo">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Kgatiso ya monwana ya SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Kgatiso ya monwana ya MD5">
 
 <!ENTITY certmgr.editcert.title               "Tseleganya Boalo jwa Setifikeiti sa Pabalesego">
 <!ENTITY certmgr.editcacert.title             "Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA">

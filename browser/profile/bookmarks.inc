@@ -13,7 +13,7 @@
 #define bookmarks_toolbarfolder Setsholadifaele sa Bara ya didiriswa ya Matshwaotsebe
 
 
-#define bookmarks_toolbarfolder_description Tsenya matshwaotsebe mo sephuthelong se, gore a bonale mo didirisiweng tsa matshwaotsebe  
+#define bookmarks_toolbarfolder_description Tsenya matshwaotsebe mo sephuthelong se, gore a bonale mo didirisiweng tsa matshwaotsebe \u0020
 
 
 # LOCALIZATION NOTE (getting_started):
