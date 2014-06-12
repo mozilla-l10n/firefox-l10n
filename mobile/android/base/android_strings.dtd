@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "ផ្ទាំង &formatD;">
 <!ENTITY new_tab_opened "ការ​បើក​ផ្ទាំង​ថ្មី">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_display "បង្ហាញ">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_home_updates_enabled "បាន​បើក">
 <!ENTITY pref_home_updates_wifi "បាន​បើក">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_header_display "បង្ហាញ">
 <!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
-<!ENTITY pref_header_help "ជំនួយ">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "តែ​តាម​ហ្វាយវ៉ាយ​​ប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
 <!ENTITY pref_update_autodownload_always "ជានិច្ច">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "ចេញ">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "រមូរ​របារ​ចំណងជើង">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "បាន​យក​ទំព័រ​ចេញ">
+<!ENTITY page_removed "បាន​យក​ទំព័រ​ចេញ">
 
 <!ENTITY bookmark_edit_title "កែសម្រួល​ចំណាំ">
 <!ENTITY bookmark_edit_name "ឈ្មោះ">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ ។">
 
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
-<!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
 
 <!ENTITY home_history_title "ប្រវត្តិ">
+
+
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_open "បើក​ផ្ទាំង​ទាំងអស់​ពី​ពេល​ចុងក្រោយ">
@@ -434,3 +454,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "ម៉ឺនុយ">
 <!ENTITY actionbar_done "ធ្វើ​រួច">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
