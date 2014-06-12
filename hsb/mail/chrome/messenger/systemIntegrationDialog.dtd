@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY systemIntegration.title  "Systemowa integracija">
+<!ENTITY acceptIntegration.label  "Jako standard nastajić">
+<!ENTITY cancelIntegration.label  "Integraciju přeskročić">
+<!ENTITY cancelIntegration2.label  "Přetorhnyć">
+<!ENTITY defaultClient.intro  "&brandShortName; jako standardny program wužiwać za:">
+
+<!ENTITY email.label "E-mejl">
+<!ENTITY newsgroups.label "Diskusijne skupiny">
+<!ENTITY feeds.label "Kanale">
+
+<!ENTITY unsetDefault.tooltip "Njeje móžno, znutřka  &brandShortName; postajić, zo &brandShortName; hižo nima so jako standardny program wužiwać. Zo byšće druhe nałoženje k standardnemu programej činił, dyrbiće dialog 'Jako standard wužiwać' toho nałoženja wužiwać.">
+
+<!ENTITY checkOnStartup.label "Tutu kontrolu přeco přewjesć, hdyž &brandShortName; startuje">
+<!ENTITY checkOnStartup.accesskey "T">
+
+<!ENTITY searchIntegration.label "&searchIntegration.engineName; za pytanje powěsćow dowolić">
+<!ENTITY searchIntegration.accesskey "d">

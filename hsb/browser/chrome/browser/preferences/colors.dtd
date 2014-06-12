@@ -11,7 +11,7 @@
 
 <!ENTITY  color                           "Tekst a pozadk">
 <!ENTITY  textColor.label                 "Tekst:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Pozadk:">
 <!ENTITY  backgroundColor.accesskey       "P">
 <!ENTITY  useSystemColors.label           "Systemowe barby wužiwać">

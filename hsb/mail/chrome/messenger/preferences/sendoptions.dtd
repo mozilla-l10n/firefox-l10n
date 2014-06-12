@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Wotesyłanske nastajenja">
+<!ENTITY sendMail.title               "Tekstowy format">
+<!ENTITY sendMaildesc.label           "Jeli chceće powěsće w formaće HTML pósłać a jedyn přijimar abo wjace přijimarjow njeje podaty, zo by móhł HTML dóstać:">
+<!ENTITY askMe.label                  "So prašeć, štož činić">
+<!ENTITY askMe.accesskey              "r">
+<!ENTITY convertPlain.label           "Powěsć do luteho teksta konwertować">
+<!ENTITY convertPlain.accesskey       "o">
+<!ENTITY sendHTML.label               "Powěsć na kóždy pad w HTML pósłać">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Powěsć w lutoywm teksće kaž tež w HTML pósłać">
+<!ENTITY sendBoth.accesskey           "l">
+<!ENTITY override.label               "Kedźbu: Wužijće adresnik, zo bychu so preferowane tekstowe formaty za přijimarjow podali.">
+
+<!ENTITY domaindesc.label             "Hdyž powěsć do adresy z jednym domenowych mjenow naličenych deleka sćeleće, &brandShortName; powěsć awtomatisce w korektnym formaće sćele.">
+<!ENTITY HTMLTab.label                "HTML-domeny">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domeny luteho teksta">
+<!ENTITY PlainTextTab.accesskey       "l">
+<!ENTITY AddHtmlDomain.label          "Přidać…">
+<!ENTITY AddHtmlDomain.accesskey      "P">
+<!ENTITY AddPlainText.label           "Přidać…">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteHtmlDomain.label       "Zhašeć">
+<!ENTITY DeleteHtmlDomain.accesskey   "Z">
+<!ENTITY DeletePlainText.label        "Zhašeć">
+<!ENTITY DeletePlainText.accesskey    "h">
+
+<!ENTITY add.htmltitle                "Mjeno HTML-domeny přidać">
+<!ENTITY add.htmldomain               "Mjeno HTML-domeny:">
+<!ENTITY add.plaintexttitle           "Mjeno domeny luteho teksta přidać">
+<!ENTITY add.plaintextdomain          "Mjeno domeny luteho teksta:">

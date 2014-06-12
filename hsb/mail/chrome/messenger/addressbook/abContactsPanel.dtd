@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookPicker.label            "Adresnik:">
+<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchInput.label                  "Pytać za:">
+<!ENTITY searchInput.accesskey              "P">
+<!ENTITY SearchNameOrEmail.label            "Mjeno abo e-mejl">
+
+<!ENTITY deleteAddrBookCard.label           "Zhašeć">
+<!ENTITY deleteAddrBookCard.accesskey       "Z">
+<!ENTITY addrBookCardProperties.label       "Kajkosće">
+<!ENTITY addrBookCardProperties.accesskey   "K">
+<!ENTITY addtoToFieldMenu.label             "Polu Komu přidać">
+<!ENTITY addtoToFieldMenu.accesskey         "P">
+<!ENTITY addtoCcFieldMenu.label             "Polu Kopija přidać">
+<!ENTITY addtoCcFieldMenu.accesskey         "o">
+<!ENTITY addtoBccFieldMenu.label            "Polu Schowana kopija přidać">
+<!ENTITY addtoBccFieldMenu.accesskey        "S">
+
+<!ENTITY toButton.label                     "Polu Komu přidać:">
+<!ENTITY toButton.accesskey                 "l">
+<!ENTITY ccButton.label                     "Polu Kopija přidać:">
+<!ENTITY ccButton.accesskey                 "u">
+<!ENTITY bccButton.label                    "Polu Schowana kopija přidać:">
+<!ENTITY bccButton.accesskey                "c">

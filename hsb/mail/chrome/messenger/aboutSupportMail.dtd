@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID programoweje wersije">
+
+<!ENTITY aboutSupport.accountsTitle "Konta za póst a diskusijne skupiny">
+<!ENTITY aboutSupport.showPrivateData.mainText "Kontowe mjena zapřijeć">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(informacije, kotrež snadź identifikuja)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Mjeno">
+<!ENTITY aboutSupport.accountsIncomingServer "Dochadny serwer">
+<!ENTITY aboutSupport.accountsOutgoingServers "Wuchadne serwery">
+<!ENTITY aboutSupport.accountsServerName "Mjeno">
+<!ENTITY aboutSupport.accountsConnSecurity "Zwiskowa wěstota">
+<!ENTITY aboutSupport.accountsAuthMethod "Awtentifikaciska metoda">
+<!ENTITY aboutSupport.accountsDefault "Standard?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Přez e-mejl pósłać">

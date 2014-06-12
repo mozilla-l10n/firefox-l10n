@@ -61,7 +61,7 @@
 <!ENTITY pkcs12.setpassword.message  "Hesło za zawěsćenje certifikata, kotrež sće tu nastajił, škita zawěsćensku dataju, kotruž wutworjeće. Dyrbiće tute hesło nastajić, prjedy hač ze zawěsćenjom pokročujeće.">
 <!ENTITY pkcs12.setpassword.label1 "Hesło zawěsćenja certifikata:">
 <!ENTITY pkcs12.setpassword.label2 "Hesło zawěsćenja certifikata (hišće raz):">
-<!ENTITY pkcs12.setpassword.reminder "Wažny: Jeli swoje hesło za zawěsćenje certifikata zabudźeće, njemóžeće tute zawěsćenje pozdźišo wobnowić. Prošu wobchowaj jo na wěstym městnje.">
+<!ENTITY pkcs12.setpassword.reminder "Wažny: Jeli swoje hesło za zawěsćenje certifikata zabudźeće, njemóžeće tute zawěsćenje pozdźišo wobnowić. Prošu wobchowajće jo na wěstym městnje.">
 
 <!ENTITY pkcs12.getpassword.title  "Dialog zapodaća hesła">
 <!ENTITY pkcs12.getpassword.message "Prošu zapodajće hesło, kotrež bu za zaklučowanje tutoho zawěsćenja certifikata wužite.">

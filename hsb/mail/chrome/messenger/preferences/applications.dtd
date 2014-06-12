@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Typ wobsaha">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Akcija">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Pytać">
+
+<!ENTITY saveTo.label                 "Dataje składować do">
+<!ENTITY saveTo.accesskey             "s">
+<!ENTITY alwaysAsk.label              "Přeco so prašeć, hdźež maja so dataje składować">
+<!ENTITY alwaysAsk.accesskey          "h">
+<!ENTITY chooseFolderWin.label        "Přepytać…">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Wubrać…">
+<!ENTITY chooseFolderMac.accesskey    "u">
+
+<!ENTITY attachments.incoming.label   "Dochadźace">
+<!ENTITY attachments.outgoing.label   "Wuchadźace">
+
+<!ENTITY addCloudFileAccount.label        "Přidać">
+<!ENTITY addCloudFileAccount.accesskey    "d">
+<!ENTITY addCloudFileAccount.description  "Nowu składowansku słužbu Filelink přidać">
+<!ENTITY removeCloudFileAccount.label     "Wotstronić">
+<!ENTITY removeCloudFileAccount.accesskey "W">
+<!ENTITY authRequired.description         "Waša awtorizacija je trěbna, zo by móhł nastajenja za tutu składowansku słužbu widźeć.">
+<!ENTITY authRequired.button.label        "Awtorizować">
+<!ENTITY authRequired.button.accesskey    "A">
+
+<!ENTITY enableCloudFileAccountOffer.label "Poskićić, zo by dataje dźělił, kotrež su wjetše hač">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

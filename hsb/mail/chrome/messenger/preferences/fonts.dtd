@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsAndEncodingsDialog.title           "Pisma a kodowanja">
+<!ENTITY  window.width                            "50em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Pisma:">
+<!ENTITY  language.accesskey                      "P">
+
+<!ENTITY  size.label                              "Wulkosć:">
+<!ENTITY  proportionalSize.accesskey              "u">
+<!ENTITY  sizeMono.accesskey                      "l">
+
+<!ENTITY  proportional.label                      "Proporcionalny:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Zapadne">
+<!ENTITY  font.langGroup.latin2                   "Srjedźnoeuropske">
+<!ENTITY  font.langGroup.japanese                 "Japanske">
+<!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinske zjednorjene">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinske tradicionelne (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korejske">
+<!ENTITY  font.langGroup.cyrillic                 "Kyriliske">
+<!ENTITY  font.langGroup.baltic                   "Baltiske">
+<!ENTITY  font.langGroup.el                       "Grjekske">
+<!ENTITY  font.langGroup.turkish                  "Turkowske">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
+<!ENTITY  font.langGroup.user-def                 "Wužiwarja">
+<!ENTITY  font.langGroup.thai                     "Thailandske">
+<!ENTITY  font.langGroup.hebrew                   "Hebrejske">
+<!ENTITY  font.langGroup.arabic                   "Arabske">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamilske">
+<!ENTITY  font.langGroup.armenian                 "Armenske">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Zjednoćeny kanadiski sylabar">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopiske">
+<!ENTITY  font.langGroup.georgian                 "Georgiske">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malajalam">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label                            "Minimalna wulkosć pisma:">
+<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize.none                             "Žana">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!-- fonts in message -->
+
+<!ENTITY  fontControl.label                       "Pismowa kontrola">
+<!ENTITY  useFixedWidthForPlainText.label         "Pismo z krutej šěrokosću za powěsće z luteho teksta wužiwać">
+<!ENTITY  fixedWidth.accesskey                    "l">
+<!ENTITY  useDocumentFonts.label                  "Dokumentam dowolić, zo bychu druhe pisma wužiwali">
+<!ENTITY  useDocumentFonts.accesskey              "D">
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label         "Wuchadźacy póst:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Znamješkowe kodowanja">
+<!ENTITY composingDescription.label       "Standardnej znamješkowej kodowani za słanje a přijimanje pósta nastajić">
+
+<!ENTITY viewDefaultCharsetList.label     "Dochadźacy póst:">
+<!ENTITY viewDefaultCharsetList.accesskey  "D">
+<!ENTITY replyInDefaultCharset2.label     "Jeli móžno, standardne znamješkowe kodowanje we wotmołwach wužiwać">
+<!ENTITY replyInDefaultCharset2.accesskey "J">

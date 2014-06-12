@@ -1,0 +1,305 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
+<!ENTITY msgComposeWindow.title "Pisać: (žana tema)">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "Dataja">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY newMenu.label "Nowy">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "Powěsć">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "P">
+<!ENTITY newContact.label "Adresnikowy kontakt…">
+<!ENTITY newContact.accesskey "A">
+
+
+<!ENTITY attachFileCmd.label "Dataje…">
+<!ENTITY attachFileCmd.accesskey "D">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Webstrona…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Wizitka (vCard)">
+<!ENTITY attachVCardCmd.accesskey "v">
+
+
+<!ENTITY closeCmd.label "Začinić">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY saveCmd.label "Składować">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Składować jako">
+<!ENTITY saveAsCmd.accesskey "k">
+<!ENTITY saveAsFileCmd.label "Dataja…">
+<!ENTITY saveAsFileCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.label "Naćisk">
+<!ENTITY saveAsDraftCmd.accesskey "N">
+<!ENTITY saveAsTemplateCmd.label "Předłoha">
+<!ENTITY saveAsTemplateCmd.accesskey "h">
+<!ENTITY sendNowCmd.label "Nětko pósłać">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "t">
+<!ENTITY sendLaterCmd.label "Pozdźišo pósłać">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "o">
+<!ENTITY printSetupCmd.label "Stronu připrawić…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Ćišćerski přehlad">
+<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printCmd.label "Ćišćeć…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "i">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "Wobdźěłać">
+<!ENTITY editMenu.accesskey "b">
+<!ENTITY undoCmd.label "Cofnyć">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "C">
+<!ENTITY redoCmd.label "Wospjetować">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "W">
+<!ENTITY cutCmd.label "Wutřihać">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Kopěrować">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Zasunyć">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "Z">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "Zhašeć">
+<!ENTITY deleteCmd.accesskey "h">
+<!ENTITY editRewrapCmd.label "Znowa łamać">
+<!ENTITY editRewrapCmd.key "n">
+<!ENTITY renameAttachmentCmd.label "Přiwěšk přemjenować…">
+<!ENTITY renameAttachmentCmd.accesskey "m">
+<!ENTITY selectAllCmd.label "Wšo wubrać">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "u">
+
+
+<!ENTITY findBarCmd.key "F">
+
+
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Dale pytać">
+<!ENTITY findAgainCmd.accesskey "l">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Předchadny pytać">
+<!ENTITY findPrevCmd.accesskey "c">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "Napohlad">
+<!ENTITY viewMenu.accesskey "h">
+<!ENTITY viewToolbarsMenuNew.label "Symbolowe lajsty">
+<!ENTITY viewToolbarsMenuNew.accesskey "S">
+<!ENTITY menubarCmd.label "Menijowa lajsta">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showCompositionToolbarCmd.label "Spisowanska lajsta">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatowanska lajsta">
+<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "Statusowa lajsta">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Přiměrić…">
+<!ENTITY customizeToolbar.accesskey "m">
+
+<!ENTITY addressSidebar.label "Kontaktowa bóčnica">
+<!ENTITY addressSidebar.accesskey "K">
+<!-- Format Menu -->
+
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "F">
+<!-- Options Menu -->
+
+<!ENTITY optionsMenu.label "Nastajenja">
+<!ENTITY optionsMenu.accesskey "N">
+<!ENTITY checkSpellingCmd2.label "Prawopis kontrolować…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "P">
+<!ENTITY enableInlineSpellChecker.label "Při pisanju prawopis kontrolować">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
+<!ENTITY quoteCmd.label "Powěsć citować">
+<!ENTITY quoteCmd.accesskey "c">
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+<!ENTITY attachVCard.label "Wizitku připowěsnyć (vCard)">
+<!ENTITY attachVCard.accesskey "z">
+
+<!ENTITY returnReceiptMenu.label "Wobkrućenje přijeća">
+<!ENTITY returnReceiptMenu.accesskey "b">
+<!ENTITY dsnMenu.label "Zdźělenje dodawanskeho statusa">
+<!ENTITY dsnMenu.accesskey "n">
+<!ENTITY deliveryFormatMenu.label "Dodawanski format">
+<!ENTITY deliveryFormatMenu.accesskey "D">
+<!ENTITY autoFormatCmd.label "Awtomatisce zwěsćić">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Jenož luty tekst">
+<!ENTITY plainTextFormatCmd.accesskey "J">
+<!ENTITY htmlFormatCmd.label "Jenož Rich Text (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY bothFormatCmd.label "Luty tekst a Rich Text (HTML)">
+<!ENTITY bothFormatCmd.accesskey "L">
+<!ENTITY priorityMenu.label "Priorita">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.label "Priorita:">
+<!ENTITY lowestPriorityCmd.label "najniša">
+<!ENTITY lowestPriorityCmd.accesskey "n">
+<!ENTITY lowPriorityCmd.label "niska">
+<!ENTITY lowPriorityCmd.accesskey "i">
+<!ENTITY normalPriorityCmd.label "normalna">
+<!ENTITY normalPriorityCmd.accesskey "m">
+<!ENTITY highPriorityCmd.label "wysoka">
+<!ENTITY highPriorityCmd.accesskey "s">
+<!ENTITY highestPriorityCmd.label "najwyša">
+<!ENTITY highestPriorityCmd.accesskey "w">
+<!ENTITY fileCarbonCopyCmd.label "Kopiju pósłać do">
+<!ENTITY fileCarbonCopyCmd.accesskey "K">
+<!ENTITY fileHereMenu.label "Tu wotkłasć">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "Nastroje">
+<!ENTITY tasksMenu.accesskey "N">
+<!ENTITY messengerCmd.label "Póst a diskusijne skupiny">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Adresnik">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
+
+
+
+
+
+<!ENTITY preferencesCmdUnix.label "Nastajenja">
+<!ENTITY preferencesCmdUnix.accesskey "N">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Miniměrować">
+<!ENTITY bringAllToFront.label "Do prědka přinjesć">
+<!ENTITY zoomWindow.label "Skalować">
+<!ENTITY windowMenu.label "Wokno">
+<!-- Mail Toolbar -->
+
+<!ENTITY sendButton.label "Pósłać">
+<!ENTITY quoteButton.label "Citować">
+<!ENTITY addressButton.label "Kontakty">
+<!ENTITY attachButton.label "Připowěsnyć">
+<!ENTITY spellingButton.label "Prawopis">
+<!ENTITY saveButton.label "Składować">
+<!ENTITY printButton.label "Ćišćeć">
+<!-- Mail Toolbar Tooltips -->
+
+<!ENTITY sendButton.tooltip "Tutu powěsć nětko pósłać">
+<!ENTITY sendlaterButton.tooltip "Tutu powěsć pozdźišo pósłać">
+<!ENTITY quoteButton.tooltip "Předchadnu powěsć citować">
+<!ENTITY addressButton.tooltip "Přijimarja z adresnika wubrać">
+<!ENTITY attachButton.tooltip "Přiwěšk zapřijeć">
+<!ENTITY spellingButton.tooltip "Prawopis wubraneho teksta abo cyłeje powěsće kontrolować">
+<!ENTITY saveButton.tooltip "Tutu powěsć składować">
+<!ENTITY cutButton.tooltip              "Wutřihać">
+<!ENTITY copyButton.tooltip             "Kopěrować">
+<!ENTITY pasteButton.tooltip            "Zasunyć">
+<!ENTITY printButton.tooltip "Tutu powěsć ćišćeć">
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+
+<!ENTITY headersSpace.style "width: 9em;">
+<!ENTITY fromAddr.label "Wot:">
+<!ENTITY fromAddr.accesskey "W">
+<!ENTITY toAddr.label "Komu:">
+<!ENTITY ccAddr.label "Kopija:">
+<!ENTITY bccAddr.label "Schowana kopija:">
+<!ENTITY replyAddr.label "Wotmołwa na:">
+<!ENTITY newsgroupsAddr.label "Diskusijna skupina:">
+<!ENTITY followupAddr.label "Dale sposrědkować:">
+<!ENTITY subject.label "Tema:">
+<!ENTITY subject.accesskey "T">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "w">
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+
+<!ENTITY SmileButton.tooltip "Zasuńće wobličko">
+<!ENTITY smiley1Cmd.label "Smějkot">
+<!ENTITY smiley2Cmd.label "Čołomoršćenje">
+<!ENTITY smiley3Cmd.label "Zmikot">
+<!ENTITY smiley4Cmd.label "Jazyk won">
+<!ENTITY smiley5Cmd.label "Směchi">
+<!ENTITY smiley6Cmd.label "Překwapjenje">
+<!ENTITY smiley7Cmd.label "Njerozudźeny">
+<!ENTITY smiley8Cmd.label "Překwapjenje">
+<!ENTITY smiley9Cmd.label "Hubka">
+<!ENTITY smiley10Cmd.label "Drišćeć">
+<!ENTITY smiley11Cmd.label "Kool">
+<!ENTITY smiley12Cmd.label "Pjenježna huba">
+<!ENTITY smiley13Cmd.label "Chrobły">
+<!ENTITY smiley14Cmd.label "Njewinowaty">
+<!ENTITY smiley15Cmd.label "Płakać">
+<!ENTITY smiley16Cmd.label "Mjelčaty">
+<!-- Message Pane Context Menu -->
+
+<!ENTITY spellCheckNoSuggestions.label "Žane namjety namakane">
+<!ENTITY spellCheckIgnoreWord.label "Słowo ignorować">
+<!ENTITY spellCheckIgnoreWord.accesskey "i">
+<!ENTITY spellCheckAddToDictionary.label "Słownikej přidać">
+<!ENTITY spellCheckAddToDictionary.accesskey "S">
+<!ENTITY undo.label "Cofnyć">
+<!ENTITY undo.accesskey "C">
+<!ENTITY cut.label "Wutřihać">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "Kopěrować">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Zasunyć">
+<!ENTITY paste.accesskey "Z">
+<!ENTITY pasteQuote.label "Jako citat zasunyć">
+<!ENTITY pasteQuote.accesskey "J">
+
+<!ENTITY openAttachment.label "Wočinić">
+<!ENTITY openAttachment.accesskey "o">
+<!ENTITY delete.label "Zhašeć">
+<!ENTITY delete.accesskey "h">
+<!ENTITY removeAttachment.label "Přiwěšk wotstronić">
+<!ENTITY removeAttachment.accesskey "w">
+<!ENTITY renameAttachment.label "Přemjenować…">
+<!ENTITY renameAttachment.accesskey "m">
+<!ENTITY selectAll.label "Wšo wubrać">
+<!ENTITY selectAll.accesskey "u">
+<!ENTITY attachFile.label "Dataje připowěsnyć…">
+<!ENTITY attachFile.accesskey "D">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Konwertować do…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Nahraće přetorhnyć">
+<!ENTITY cancelUpload.accesskey "N">
+<!ENTITY convertRegularAttachment.label "Regularny přiwěšk">
+<!ENTITY convertRegularAttachment.accesskey "R">
+<!ENTITY attachPage.label "Webstronu připowěsnyć…">
+<!ENTITY attachPage.accesskey "W">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Słowniki přidać…">
+<!ENTITY spellAddDictionaries.accesskey "S">
+<!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Kontakty">
+

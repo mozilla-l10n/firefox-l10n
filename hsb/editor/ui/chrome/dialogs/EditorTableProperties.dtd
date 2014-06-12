@@ -1,0 +1,75 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tableWindow.title                "Kajkosće tabele">
+<!ENTITY applyButton.label                "Nałožić">
+<!ENTITY applyButton.accesskey            "N">
+<!ENTITY closeButton.label                "Začinić">
+<!ENTITY tableTab.label                   "Tabela">
+<!ENTITY cellTab.label                    "Cele">
+<!ENTITY tableRows.label                  "Rjadki:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Špałty:">
+<!ENTITY tableColumns.accessKey           "a">
+<!ENTITY tableHeight.label                "Wysokosć:">
+<!ENTITY tableHeight.accessKey            "W">
+<!ENTITY tableWidth.label                 "Šěrokosć:">
+<!ENTITY tableWidth.accessKey             "r">
+<!ENTITY tableBorderSpacing.label         "Ramiki a wotstawk">
+<!ENTITY tableBorderWidth.label           "Ramik:">
+<!ENTITY tableBorderWidth.accessKey       "m">
+<!ENTITY tableSpacing.label               "Wotstawk:">
+<!ENTITY tableSpacing.accessKey           "s">
+<!ENTITY tablePadding.label               "Nutřkowny wotstawk:">
+<!ENTITY tablePadding.accessKey           "u">
+<!ENTITY tablePxBetwCells.label           "piksele mjez celemi">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksele mjez celowej kromu a wobsahom">
+<!ENTITY tableAlignment.label             "Wusměrjenje tabele:">
+<!ENTITY tableAlignment.accessKey         "s">
+<!ENTITY tableCaption.label               "Nadpismo:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "Nad tabelu">
+<!ENTITY tableCaptionBelow.label          "Pod tabelu">
+<!ENTITY tableCaptionLeft.label           "Nalěwo wot tabele">
+<!ENTITY tableCaptionRight.label          "Naprawo wot tabele">
+<!ENTITY tableCaptionNone.label           "Žane">
+<!ENTITY tableInheritColor.label           "(Barbu strony přeswěćić dać)">
+
+<!ENTITY cellSelection.label              "Wuběr">
+<!ENTITY cellSelectCell.label             "Cela">
+<!ENTITY cellSelectRow.label              "Rjadka">
+<!ENTITY cellSelectColumn.label           "Špałta">
+<!ENTITY cellSelectNext.label             "Přichodny">
+<!ENTITY cellSelectNext.accessKey         "i">
+<!ENTITY cellSelectPrevious.label         "Předchadny">
+<!ENTITY cellSelectPrevious.accessKey     "e">
+<!ENTITY applyBeforeChange.label          "Aktualne změny budu so nałožować, doniž so wuběr njezměni.">
+<!ENTITY cellContentAlignment.label       "Wusměrjenje wobsaha">
+<!ENTITY cellHorizontal.label             "Horicontalne:">
+<!ENTITY cellHorizontal.accessKey         "H">
+<!ENTITY cellVertical.label               "Wertikalne:">
+<!ENTITY cellVertical.accessKey           "W">
+<!ENTITY cellStyle.label                  "Stil cele:">
+<!ENTITY cellStyle.accessKey              "S">
+<!ENTITY cellNormal.label                 "Normalny">
+<!ENTITY cellHeader.label                 "Hłowa">
+<!ENTITY cellTextWrap.label               "Tekstowe łamanje:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Łamać">
+<!ENTITY cellNoWrap.label                 "Njełamać">
+<!ENTITY cellAlignTop.label               "Horjeka">
+<!ENTITY cellAlignMiddle.label            "Wosrjedź">
+<!ENTITY cellAlignBottom.label            "Deleka">
+<!ENTITY cellAlignJustify.label           "Blokowa sadźba">
+<!ENTITY cellInheritColor.label           "(Barbu tabele přeswěćić dać)">
+<!ENTITY cellUseCheckboxHelp.label        "Kontrolowe kašćiki wužiwać, zo by so postajiło, kotre kajkosće so na wšě wubrane cele nałožuja">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label                       "Wulkosć">
+<!ENTITY pixels.label                     "pikselow">
+<!ENTITY backgroundColor.label            "Barba pozadka:">
+<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY AlignLeft.label                  "Nalěwo">
+<!ENTITY AlignCenter.label                "Centrowano">
+<!ENTITY AlignRight.label                 "Naprawo">

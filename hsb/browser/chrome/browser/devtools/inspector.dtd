@@ -10,6 +10,9 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Jónkróćny selektor kopěrować">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "J">
 
+<!ENTITY inspectorHTMLPasteOuter.label      "Zwonkowny HTML zasadźić">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "z">
+
 <!ENTITY inspectorHTMLDelete.label          "Suk zhašeć">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 

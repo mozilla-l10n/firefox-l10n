@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Zapołožki">
 <!ENTITY abouthome.historyButton.label   "Historija">
-<!ENTITY abouthome.settingsButton.label  "Nastajenja">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Opcije">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Nastajenja">
 <!ENTITY abouthome.addonsButton.label    "Přidatki">
 <!ENTITY abouthome.appsButton.label      "Torhošćo">
 <!ENTITY abouthome.downloadsButton.label "Sćehnjenja">

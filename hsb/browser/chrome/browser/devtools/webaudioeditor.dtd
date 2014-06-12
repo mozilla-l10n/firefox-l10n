@@ -22,3 +22,19 @@
   -  while the page is refreshing and the tool waits for a audio context. -->
 
 <!ENTITY webAudioEditorUI.emptyNotice     "Čaka so na awdiokontekst, kotryž ma so wutworić…">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties): This is the label shown
+  -  for the properties tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.properties  "Parametry">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
+  -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "Awdiosukowy inspektor">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
+  -  AudioNode inspector view empty message. -->
+
+<!ENTITY webAudioEditorUI.inspectorEmpty  "Žadyn awdiosuk wubrany.">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
+  -  AudioNode inspector view properties tab empty message. -->
+
+<!ENTITY webAudioEditorUI.propertiesEmpty "Suk žane kajkosće nima.">

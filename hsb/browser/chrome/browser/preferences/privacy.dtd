@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Slědowanje">
 
-<!ENTITY dntTrackingNopref.label2       "Sydłam ničo wo slědowanskich nastajenjach zdźělić">
+<!ENTITY dntTrackingNopref.label2       "Sydłam ničo wo slědowanskich nastajenjach njezdźělić">
 <!ENTITY dntTrackingNopref.accesskey    "S">
 <!ENTITY dntTrackingNotOkay.label2      "Sydłam zdźělić, zo nimaja mje slědować">
 <!ENTITY dntTrackingNotOkay.accesskey   "z">
 <!ENTITY dntTrackingOkay.label2         "Sydłam zdźělić, zo smědźa mje slědować">
-<!ENTITY dntTrackingOkay.accesskey      "l">
+<!ENTITY dntTrackingOkay.accesskey      "s">
 <!ENTITY doNotTrackInfo.label           "Dalše informacije">
 
 <!ENTITY  history.label                 "Historija">

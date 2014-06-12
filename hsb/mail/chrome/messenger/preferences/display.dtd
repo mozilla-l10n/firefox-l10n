@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemFormatting.label             "Formatowanje">
+<!ENTITY itemTags.label                   "Znački">
+
+<!ENTITY style.label                      "Stil:">
+<!ENTITY style.accesskey                  "i">
+<!ENTITY regularStyle.label               "Regularny">
+<!ENTITY bold.label                       "Tołsty">
+<!ENTITY italic.label                     "Kursiwny">
+<!ENTITY boldItalic.label                 "Tołsty kursiwny">
+<!ENTITY size.label                       "Wulkosć:">
+<!ENTITY size.accesskey                   "l">
+<!ENTITY regularSize.label                "Regularny">
+<!ENTITY bigger.label                     "Wjetši">
+<!ENTITY smaller.label                    "Mjeńši">
+<!ENTITY quotedTextColor.label            "Barba:">
+<!ENTITY quotedTextColor.accesskey        "B">
+<!ENTITY displayWidth.label               "Powěsće luteho teksta">
+<!ENTITY displayText.label                "Hdyž so citowane lute teksty pokazuja:">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label        "Emotikony jako wobrazy zwobraznić">
+<!ENTITY convertEmoticons.accesskey    "E">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label     "Znački dadźa so wužić, zo bychu waše powěsće kategorizowali a prioritaty stajili.">
+<!ENTITY addTagButton.label        "Přidać">
+<!ENTITY addTagButton.accesskey    "P">
+<!ENTITY editTagButton.label       "Wobdźěłać">
+<!ENTITY editTagButton.accesskey   "b">
+<!ENTITY removeTagButton.label     "Zhašeć">
+<!ENTITY removeTagButton.accesskey "Z">
+<!-- Fonts and Colors -->
+
+<!ENTITY fontsAndColors1.label   "Pisma a barby">
+<!ENTITY defaultFont.label       "Standardne pismo:">
+<!ENTITY defaultFont.accesskey   "S">
+<!ENTITY defaultSize.label       "Wulkosć:">
+<!ENTITY defaultSize.accesskey   "W">
+<!ENTITY fontOptions.accesskey   "R">
+<!ENTITY fontOptions.label       "Rozšěrjeny…">
+<!ENTITY colorButton.label       "Barby…">
+<!ENTITY colorButton.accesskey   "B">

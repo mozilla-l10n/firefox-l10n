@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsLimit.thatsBigFile   "Słanje datajow, kotrež su wjetše hač 50 MB">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "je wosebita funkcija.">
+<!ENTITY fileExceedsLimit.accept "Aktualizować">
+<!ENTITY fileExceedsLimit.cancel "Přetorhnyć">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "Aktualizujće nětko, zo byšće tutu dataju pósłał plus:">
+<!ENTITY fileExceedsLimit.pros1 "Dataje a rjadowaki z wulkosću hač do 2GB pósłać">
+<!ENTITY fileExceedsLimit.pros2 "Njewobmjezowane dataje online składować">
+<!ENTITY fileExceedsLimit.pros3 "Přistup a dźělenje datajow wot něhdźežkuli">

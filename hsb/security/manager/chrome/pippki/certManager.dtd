@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Organizacija (O)">
 <!ENTITY certmgr.certdetail.ou                "Organizaciska jednotka (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serijowe čisło">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Porstowy wotćišć SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Porstowy wotćišć SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Porstowy wotćišć MD5">
 
 <!ENTITY certmgr.editcert.title               "Nastajenja wěstotneho certifikata wobdźěłać">
 <!ENTITY certmgr.editcacert.title             "Nastajenja dowěryhódnosće certifikata certifikatoweje awtority wobdźěłać">

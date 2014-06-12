@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerStartPage.label         "&brandShortName; - startowa strona">
+<!ENTITY enableStartPage.label            "Hdyž so &brandShortName; startuje, startowa strona w powěsćym wobłuku pokazać">
+<!ENTITY enableStartPage.accesskey        "H">
+<!ENTITY location.label                   "Městno:">
+<!ENTITY location1.accesskey               "M">
+<!ENTITY useDefault.label                 "Standard wobnowić">
+<!ENTITY useDefault.accesskey             "b">
+
+
+
+
+<!ENTITY newMessagesArrive.label          "Hdyž nowe powěsće dochadźeja:">
+<!ENTITY playSound.label                  "Zynk wotehrać">
+<!ENTITY playSound1.accesskey              "y">
+<!ENTITY showAnimatedAlert.label          "Warnowanje pokazać">
+<!ENTITY showAnimatedAlert.accesskey      "W">
+<!ENTITY customizeMailAlert.label         "Přiměrić…">
+<!ENTITY customizeMailAlert.accesskey     "i">
+
+<!ENTITY showTrayIcon.label               "Symbol w žłobiku pokazać">
+<!ENTITY showTrayIcon.accesskey           "S">
+
+<!ENTITY play.label                       "Wotehrać">
+<!ENTITY play.accesskey                   "h">
+<!ENTITY systemsound.label                "Standardny zynk systema za nowy póst">
+<!ENTITY systemsoundMac.label             "Standardny zynk za warnowanje">
+<!ENTITY systemsoundMac.accesskey         "t">
+<!ENTITY systemsound.accesskey            "z">
+<!ENTITY customsound.label                "Slědowacu zynkowu dataju wužić">
+<!ENTITY customsound.accesskey            "l">
+<!ENTITY browse.label                     "Přepytać…">
+<!ENTITY browse.accesskey                 "P">

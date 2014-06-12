@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Rozšěrjene kontowe nastajenja">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Rjadowak serwera IMAP:">
+<!ENTITY serverDirectory.accesskey "R">
+<!ENTITY usingSubscription.label "Jenož abonowane rjadowaki pokazać">
+<!ENTITY usingSubscription.accesskey "J">
+<!ENTITY dualUseFolders.label "Serwer rjadowaki podpěruje, kotrež podrjadowaki a powěsće wobsahuja">
+<!ENTITY dualUseFolders.accesskey "S">
+<!ENTITY useIdle.label "Přikaz IDLE wužiwać, jelizo serwer jón podpěruje">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Maksimalna ličba serwerowych zwiskow, kotrež dyrbja so pufrować">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Tute nastajenja mjenowe rumy (namespaces) na wašim serwerje IMAP podawaja">
+<!ENTITY personalNamespace.label "Wosobinski mjenowy rum:">
+<!ENTITY personalNamespace.accesskey "W">
+<!ENTITY publicNamespace.label "Zjawny (hromadźe wužiwany):">
+<!ENTITY publicNamespace.accesskey "h">
+<!ENTITY otherUsersNamespace.label "Druzy wužiwarjo:">
+<!ENTITY otherUsersNamespace.accesskey "D">
+<!ENTITY overrideNamespaces.label "Serwerej dowolić, zo tute mjenowe rumy přeńdźe">
+<!ENTITY overrideNamespaces.accesskey "l">
+<!ENTITY pop3Desc.label "Hdyž so póst POP za tutón serwer sćahuje, naslědny rjadowak za nowy póst wužiwać:" >
+<!ENTITY accountDirectory.label "Póstowy kašćik za konto tutoho serwera">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "Póstowy kašćik za druhe konto">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "Tutón serwer při přijimanju noweho pósta zapřijeć">
+<!ENTITY deferGetNewMail.accesskey "T">

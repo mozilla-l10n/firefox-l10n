@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securityTitle.label "Wěstota">
+<!ENTITY securityTab.label "Wěstota">
+<!ENTITY securityHeading.label "Zo byšće podpisane abo zaklučowane powěsće pósłał abo přijał, dyrbiće digitalny podpisowanski a zaklučowanski certifikataj podać.">
+<!ENTITY encryptionGroupTitle.label "Zaklučowanje">
+<!ENTITY encryptionChoiceLabel.label "Standardne zaklučowanje za słanje powěsće:">
+<!ENTITY neverEncrypt.label "Ženje (zaklučowanje njewužiwać)">
+<!ENTITY neverEncrypt.accesskey "n">
+<!ENTITY alwaysEncryptMessage.label "Trěbne (njemóžno powěsć słać, chibazo bychu wšitcy přijimarjo certifikaty měli)">
+<!ENTITY alwaysEncryptMessage.accesskey "T">
+<!ENTITY encryptionCert.message "Tutón certifikat wužić, zo byšće připósłane powěsće zaklučował a dešifrował:">
+<!ENTITY digitalSign.certificate.button "Wubrać…">
+<!ENTITY digitalSign.certificate.accesskey "b">
+<!ENTITY digitalSign.certificate_clear.button "Zhašeć">
+<!ENTITY digitalSign.certificate_clear.accesskey "h">
+<!ENTITY encryption.certificate.button "Wubrać…">
+<!ENTITY encryption.certificate.accesskey "u">
+<!ENTITY encryption.certificate_clear.button "Zhašeć">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY signingGroupTitle.label "Digitalne podpisowanje">
+<!ENTITY signMessage.label "Powěsće digitalnje podpisać (standard)">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Tutón certifikat wužić, zo byšće powěsće digitalnje podpisał, kotrež sćeleće:">
+
+<!ENTITY certificates.label "Certifikaty">
+<!ENTITY manageCerts.label "Certifikaty pokazać">
+<!ENTITY manageCerts.accesskey "C">
+<!ENTITY manageDevices.label "Wěstotne graty">
+<!ENTITY manageDevices.accesskey "W">

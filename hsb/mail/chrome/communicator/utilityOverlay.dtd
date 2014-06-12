@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label          "Dataja">
+<!ENTITY fileMenu.accesskey        "D">
+<!ENTITY newMenu.label            "Nowy">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Wobdźěłać">
+<!ENTITY editMenu.accesskey        "b">
+<!ENTITY undoCmd.label            "Cofnyć">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "C">
+<!ENTITY redoCmd.label            "Wospjetować">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "W">
+<!ENTITY cutCmd.label            "Wutřihać">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "u">
+<!ENTITY copyCmd.label            "Kopěrować">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label            "Zasunyć">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "Z">
+<!ENTITY deleteCmd.label          "Wotstronić">
+<!ENTITY deleteCmd.accesskey        "s">
+<!ENTITY selectAllCmd.label          "Wšo woznamjenić">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+
+
+<!ENTITY preferencesCmdUnix.label       "Nastajenja">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY viewMenu.label          "Napohlad">
+<!ENTITY viewMenu.accesskey        "N">
+<!ENTITY viewToolbarsMenu.label        "Pokazać/Schować">
+<!ENTITY viewToolbarsMenu.accesskey      "c">
+<!ENTITY showTaskbarCmd.label          "Statusowa lajsta">
+<!ENTITY showTaskbarCmd.accesskey        "s">
+
+<!ENTITY closeCmd.label      "Začinić">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "Z">
+
+<!ENTITY quitApplicationCmd.label  "Skónčić">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "S">
+
+<!ENTITY quitApplicationCmdUnix.label  "Wopušćić">
+<!ENTITY quitApplicationCmdUnix.accesskey  "p">
+
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; skónčić">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

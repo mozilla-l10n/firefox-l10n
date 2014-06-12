@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Subscription Dialog -->
+
+<!ENTITY feedSubscriptions.label     "Kanalowe abonomenty">
+<!ENTITY subscriptionDesc.label      "Kedźbu: Wotstronjenje abo změnjenje rjadowaka za kanal njebudźe prjedy sćehnjene nastawki wobwliwować.">
+
+<!ENTITY feedTitle.label             "Titul:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "URL kanala:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Zapodajće płaćiwy URL kanala">
+
+<!ENTITY feedFolder.label            "Nastawki składować w:">
+<!ENTITY feedFolder.accesskey        "N">
+
+<!ENTITY quickMode.label             "Nastawkowe zjeće pokazać, město toho zo by webstronu začitało">
+<!ENTITY quickMode.accesskey         "h">
+
+
+
+
+
+
+<!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
+<!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">
+
+<!ENTITY button.addFeed.label        "Přidać">
+<!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.editFeed.label       "Aktualizować">
+<!ENTITY button.editFeed.accesskey   "A">
+<!ENTITY button.removeFeed.label     "Wotstronić">
+<!ENTITY button.removeFeed.accesskey "W">
+<!ENTITY button.importOPML.label     "Importować">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksportować">
+<!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Kanale z rjadowakowej strukturu eksportować; Strg+kliknjenje abo Strg+enter, zo by kanale jako lisćinu eksportowało">
+
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Začinić">

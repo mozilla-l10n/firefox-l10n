@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Čapor">
+<!ENTITY itemPhishing.label      "E-mejlowe wobšudnistwo">
+<!ENTITY itemPasswords.label     "Hesła">
+<!ENTITY itemAntiVirus.label     "Antiwirus">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Nastajće swoje standardne nastajenja za čaporowu e-mejl. Nastajenja čaporoweje e-mejle specifiske za konto dadźa so w Kontowych nastajenjach konfigurować.">
+<!ENTITY manualMark.label "Hdyž so powěsće jako čapor markěruja:">
+<!ENTITY manualMark.accesskey "H">
+<!ENTITY manualMarkModeMove.label "Je do kontoweho rjadowaka &quot;Čapor&quot; přesunyć">
+<!ENTITY manualMarkModeMove.accesskey "k">
+<!ENTITY manualMarkModeDelete.label "Je zhašeć">
+<!ENTITY manualMarkModeDelete.accesskey "z">
+<!ENTITY markAsReadOnSpam.label "Powěsće, kotrež su čapor, jako přečitane markěrować">
+<!ENTITY markAsReadOnSpam.accesskey "P">
+<!ENTITY enableAdaptiveJunkLogging.label "Protokolowanje priměrjomneho čaporoweho filtra změnić">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "r">
+<!ENTITY openJunkLog.label "Protokol pokazać">
+<!ENTITY openJunkLog.accesskey "t">
+<!ENTITY resetTrainingData.label "Trenowanske daty wróćo stajić">
+<!ENTITY resetTrainingData.accesskey "d">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro  "&brandShortName; móže powěsće za podhladnym e-mejlowym jebanstwom analyzować, pytajo za zwučenymi technikami, kotrež wužiwaja so, zo bychu wam jebali.">
+<!ENTITY enablePhishingDetector1.label    "Zdźělić, hač powěsć, kotraž so čita, je podhladne e-mejlowe jebanstwo">
+<!ENTITY enablePhishingDetector1.accesskey  "Z">
+<!ENTITY useDownloadedList.label "Sćehnjenu lisćinu podhladnych e-mejlowych jebanstwow">
+<!ENTITY useDownloadedList.accesskey "S">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro           "&brandShortName; móže hesła za wšě waše konta składować.">
+<!ENTITY useMasterPassword.label        "Hłowne hesło wužiwać">
+<!ENTITY useMasterPassword.accesskey    "H">
+<!ENTITY masterPassword.intro           "Hłowne hesło škita wšě waše hesła, ale dyrbiće jo jedyn raz na posedźenje zapodać.">
+<!ENTITY changeMasterPassword.label     "Hłowne hesło změnić…">
+<!ENTITY changeMasterPassword.accesskey "o">
+<!ENTITY savedPasswords.label           "Składowane hesła…">
+<!ENTITY savedPasswords.accesskey       "S">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro      "&brandShortName; móže antiwirusowej softwarje wosnadnić, dochadźace e-mejlowe powěsće za wirusami analyzować, prjedy hač so lokalnje składuja.">
+<!ENTITY antiVirus.label      "Antiwirusowym programam dowolić, jednotliwe dochodźace powěsće pod karantenu stajić">
+<!ENTITY antiVirus.accesskey  "A">
+

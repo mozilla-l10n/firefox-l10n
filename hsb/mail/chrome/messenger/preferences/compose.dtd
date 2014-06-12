@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label                   "Powšitkowny">
+<!ENTITY itemAutoComplete.label              "Adresowanje">
+<!ENTITY itemSpellCheck.label                "Prawopis">
+
+<!ENTITY forwardMsg.label                     "Powěsće dale sposrědkować:">
+<!ENTITY forwardMsg.accesskey                 "d">
+<!ENTITY inline.label                         "Zasadźeny">
+<!ENTITY asAttachment.label                   "Jako přiwěšk">
+<!ENTITY addExtension.label                   "Sufiks datajowemu mjenu přidać">
+<!ENTITY addExtension.accesskey               "f">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Pismo:">
+<!ENTITY font.accesskey                       "P">
+<!ENTITY size.label                           "Wulkosć:">
+<!ENTITY size.accesskey                       "u">
+<!ENTITY fontColor.label                      "Tekstowa barba:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Pozadkowa barba:">
+<!ENTITY bgColor.accesskey                    "z">
+<!ENTITY restoreHTMLDefaults.label            "Standardy wobnowić">
+<!ENTITY restoreHTMLDefaults.accesskey        "b">
+
+<!ENTITY spellCheck.label                     "Prawopis do słanja pruwować">
+<!ENTITY spellCheck.accesskey                 "s">
+<!ENTITY spellCheckInline.label               "Prawopis při zapodaću pruwować">
+<!ENTITY spellCheckInline1.accesskey          "z">
+<!ENTITY languagePopup.label                  "Rěč:">
+<!ENTITY languagePopup.accessKey              "R">
+<!ENTITY downloadDictionaries.label           "Dalše słowniki sćahnyć">
+
+<!ENTITY warnOnSendAccelKey.label             "Wobkrućić, hdyž so tastowa skrótšenka za słanje powěsće wužiwa">
+<!ENTITY warnOnSendAccelKey.accesskey         "t">
+<!ENTITY autoSave.label                       "Awtomatisce składować kóžde">
+<!ENTITY autoSave.accesskey                   "s">
+<!ENTITY autoSaveEnd.label                    "mjeńšin">
+
+<!ENTITY emailCollectionPicker.label           "Městno za awtomatiske dodaće adresow wuchadźaceho e-mejla:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "Awtowudospołnjenje adresow">
+<!ENTITY autocompleteText.label                "Při adresowanju powěsće za přihódnymi zapiskami pytać:">
+<!ENTITY addressingEnable.label                "w lokalnych adresnikach">
+<!ENTITY addressingEnable.accesskey            "l">
+<!ENTITY directories.label                     "Zapisowy serwer:">
+<!ENTITY directories.accesskey                 "Z">
+<!ENTITY directoriesNone.label                 "Žadyn">
+<!ENTITY editDirectories.label                 "Zapisy wobdźěłać…">
+<!ENTITY editDirectories.accesskey             "b">
+
+<!ENTITY sendOptionsDescription.label          "Zadźerženje tekstoweho formata konfigurować">
+<!ENTITY sendOptions.label                     "Wotesyłanske nastajenja…">
+<!ENTITY sendOptions.accesskey                 "o">
+
+<!ENTITY attachmentReminder.label              "Za falowacymi přiwěškami pruwować">
+<!ENTITY attachmentReminder.accesskey          "f">
+<!ENTITY attachmentReminderOptions.label       "Klučowe hesła…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

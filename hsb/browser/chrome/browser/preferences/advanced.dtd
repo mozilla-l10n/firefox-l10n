@@ -126,7 +126,7 @@
 <!ENTITY certificateTab.label            "Certifikaty">
 <!ENTITY certSelection.description       "Hdyž sej serwer wo wosobinski certifikat žada:">
 <!ENTITY certs.auto                      "Awtomatisce wubrać">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Kóždy raz so prašeć">
 <!ENTITY certs.ask.accesskey             "K">
 <!ENTITY viewCerts.label                 "Certifikaty pokazać">

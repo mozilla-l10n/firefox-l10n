@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pane.title                   "Wobkrućenja přijeća">
+<!ENTITY useGlobalPrefs.label         "Globalne nastajenja wobkrućenja přijeća za tute konto wužiwać">
+<!ENTITY useGlobalPrefs.accesskey     "l">
+<!ENTITY globalReceipts.label         "Globalne nastajenja…">
+<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY useCustomPrefs.label         "Wobkrućenja přijeća za tute konto přiměric">
+<!ENTITY useCustomPrefs.accesskey     "b">
+<!ENTITY requestReceipt.label         "Při słanju powěsće přeco wobkrućenje přijeća požadać">
+<!ENTITY requestReceipt.accesskey     "P">
+<!ENTITY receiptArrive.label          "Hdyž wobkrućenje přijeća přińdźe:">
+<!ENTITY leaveIt.label                "W póstowym kašćiku wostajić">
+<!ENTITY leaveIt.accesskey            "i">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Do mojeho rjadowaka pósłaneho pósta přesunyć">
+<!ENTITY moveToSent.accesskey         "m">
+<!ENTITY requestMDN.label             "Hdyž požadanje za wobkrućenje přijeća dóstam:">
+<!ENTITY returnSome.label             "Za někotre powěsće wobkrućenja přijeća dopušćić">
+<!ENTITY returnSome.accesskey         "r">
+<!ENTITY never.label                  "Wobkrućenje přijeća ženje njesłać">
+<!ENTITY never.accesskey              "n">
+<!ENTITY notInToCc.label              "Jeli w &quot;Komu&quot; abo &quot;Kopija&quot; powěsće njejsym:">
+<!ENTITY notInToCc.accesskey          "l">
+<!ENTITY outsideDomain.label          "Jeli wotpósłar je zwonka mojeje domeny:">
+<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY otherCases.label             "We wšěch druhich padach:">
+<!ENTITY otherCases.accesskey         "u">
+<!ENTITY askMe.label                  "Prašej so mje">
+<!ENTITY alwaysSend.label             "Přeco słać">
+<!ENTITY neverSend.label              "Ženje njesłać">

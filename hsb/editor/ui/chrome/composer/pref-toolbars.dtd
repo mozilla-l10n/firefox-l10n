@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY new.label              "Nowe">
+<!ENTITY open.label             "Wočinić">
+<!ENTITY save.label             "Składować">
+<!ENTITY publish.label          "Wozjewić">
+
+<!ENTITY cut.label              "Wutřihać">
+<!ENTITY copy.label             "Kopěrować">
+<!ENTITY paste.label            "Zasunyć">
+<!ENTITY print.label            "Ćišćeć">
+<!ENTITY find.label             "Pytać">
+<!ENTITY image.label            "Wobraz">
+
+<!ENTITY table.label            "Tabela">
+<!ENTITY link.label             "Wotkaz">
+<!ENTITY anchor.label           "Kótwička">
+
+
+<!ENTITY smaller.label          "Mjeńši">
+
+
+
+
+<!ENTITY italic.label           "Kursiwny">
+
+
+<!ENTITY underline.label        "Podšmórnjeny">
+
+
+

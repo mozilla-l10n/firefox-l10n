@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY autoconfigWizard.title          "Póstowe konto připrawić">
+<!ENTITY name.label                      "Waše mjeno:">
+<!ENTITY name.accesskey                  "m">
+<!ENTITY name.placeholder                "Předmjeno Swójbne mjeno">
+<!ENTITY name.text                       "Waše mjeno, kaž so druhim pokazuje">
+<!ENTITY email.label                     "E-mejlowa adresa:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email.placeholder               "e-mejl@priklad.de">
+<!ENTITY password.label                  "Hesło:">
+<!ENTITY password.accesskey              "H">
+<!ENTITY password.placeholder            "Hesło">
+<!ENTITY password.text                   "Opcionalny, budźe so jenož wužiwac, zo by wužiwarske mjeno přepruwowało">
+<!ENTITY rememberPassword.label          "Hesło składować">
+<!ENTITY rememberPassword.accesskey      "s">
+
+<!ENTITY imapLong.label                  "IMAP (zdalene rjadowaki)">
+<!ENTITY pop3Long.label                  "POP3 (waš póst na wašim ličaku wostajić)">
+
+<!ENTITY incoming.label                  "Dochadźace:">
+<!ENTITY outgoing.label                  "Wuchadźace:">
+<!ENTITY username.label                  "Wužiwarske mjeno:">
+<!ENTITY hostname.label                  "Mjeno serwera">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Awtentifikacija">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Awtomatisce zwěsćić">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Žadyn">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY advancedSetup.label             "Rozšěrjena konfiguracija">
+<!ENTITY advancedSetup.accesskey         "R">
+<!ENTITY cancel.label                    "Přetorhnyć">
+<!ENTITY cancel.accesskey                "P">
+<!ENTITY continue.label                  "Dale">
+<!ENTITY continue.accesskey              "D">
+<!ENTITY stop.label                      "Stój">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Znowa testować">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Manuelna konfiguracija">
+<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Nowe konto załožić">
+<!ENTITY switch-to-provisioner.accesskey "N">
+
+
+<!ENTITY warning.label                   "Warnowanje!">
+<!ENTITY incomingSettings.label          "Dochadne nastajenja:">
+<!ENTITY outgoingSettings.label          "Wuchadne nastajenja:">
+<!ENTITY technicaldetails.label          "Techniske podrobnosće">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Rozumju rizika.">
+<!ENTITY confirmWarning.accesskey        "r">
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Dokónčeny">
+<!ENTITY doneAccount.accesskey           "D">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Nastajenja změnić">
+<!ENTITY changeSettings.accesskey        "N">
+
+<!ENTITY contactYourProvider.description "&brandShortName; móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojemu póstej dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlej huste prašenja za Thunderbird za dalše informacije.">
+
+<!ENTITY insecureServer.tooltip.title    "Warnowanje! To je njewěsty serwer.">
+<!ENTITY insecureServer.tooltip.details  "Klikńće na kruh za dalše podrobnosće.">
+
+<!ENTITY insecureUnencrypted.description "Waša e-mejl a awtentifikacija so njezaklučowanej sćelu, tak zo waše hesło (a waša powěsć) da so lochko wot druhich ludźi čitać. &brandShortName; dowola wam, zo byšće swoju e-mejl dóstał, ale wy měł so wo konfigurowanju serwera z wěstym zwiskom ze swojim e-mejlowym poskićowarjom do zwiska stajić.">
+<!ENTITY insecureSelfSigned.description  "Serwer wužiwa certifikat, kotremuž njemóžemy dowěrić, tohodla njemóžemy sej wěsći być, hač něchtó datowy wobchad mjez &brandShortName; a wašim serwerom njewotpopadnje. &brandShortName; dowola wam, zo byšće swoju e-mejl dóstał, ale wy měł so woprawdźe ze swojim e-mejlowym poskićowarjom do zwiska stajić, zo byšće serwer z dowěryhódnym certifikatom konfiurował.">
+<!ENTITY secureServer.description        "Zbožopřeće! To je wěsty serwer.">

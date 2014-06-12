@@ -23,3 +23,5 @@
 <!ENTITY  paneSync.title          "Synchronizować">
 <!ENTITY  buttonForward.tooltip   "Jednu stronu doprědka">
 <!ENTITY  buttonBack.tooltip      "Jednu stronu wróćo">
+
+<!ENTITY  helpButton.label        "Pomoc">

@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nowy rajtark">
 <!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Adresu wočinić…">
 <!ENTITY openFileCmd.label "Dataju wočinić…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
 
 <!ENTITY backCmd.label                "Wróćo">
-<!ENTITY backCmd.accesskey            "W">
 <!ENTITY backButton.tooltip           "Jednu stronu wróćo">
 <!ENTITY forwardCmd.label             "Doprědka">
-<!ENTITY forwardCmd.accesskey         "D">
 <!ENTITY forwardButton.tooltip        "Jednu stronu doprědka">
 <!ENTITY backForwardButtonMenu.tooltip "Klikńće z prawej tastu abo ćehńće dele, zo byšće historiju pokazał">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ćehńće dele, zo byšce historiju pokazał">
 <!ENTITY reloadCmd.label              "Znowa">
-<!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY reloadButton.tooltip         "Aktualnu stronu znowa začitać">
 <!ENTITY stopCmd.label                "Stój">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Začitanje tuteje strony zastajić">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowym polu">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "H">
 
 <!ENTITY downloads.label              "Sćehnjenja">
-<!ENTITY downloads.tooltip            "Postup běžnych sćehnjenjow zwobraznić">
 <!ENTITY downloads.accesskey          "h">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Jako desktopowy pozadk nastajić…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "J">
 <!ENTITY bookmarkPageCmd2.label       "Tutu stronu jako zapołožku składować">
-<!ENTITY bookmarkPageCmd2.accesskey   "T">
 <!ENTITY bookmarkThisLinkCmd.label      "Tutón wotkaz jako zapołožku składować">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Tutón wobłuk jako zapołožku skladować">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalować">
 <!ENTITY fullZoom.accesskey             "k">
 
-<!ENTITY newTabButton.tooltip           "Nowy rajtark wočinić">
-<!ENTITY newWindowButton.tooltip        "Nowe wokno wočinić">
 <!ENTITY sidebarCloseButton.tooltip     "Bóčnicu začinić">
-
-<!ENTITY fullScreenButton.tooltip       "Wokno na połnej wobrazowce zwobraznić">
 
 <!ENTITY quitApplicationCmdWin.label       "Skónčić"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">

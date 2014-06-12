@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Wróćowobkrućenje">
+<!ENTITY requestReceipt.label          "Hdyž so powěsće sćelu, přeco wróćowobkrućenje požadać">
+<!ENTITY requestReceipt.accesskey      "H">
+<!ENTITY receiptArrive.label           "Hdyž wobkrućenje dóńdźe:">
+<!ENTITY leaveIt.label                 "W mojim póstowym kašćiku wostajić">
+<!ENTITY leaveIt.accesskey             "m">
+<!ENTITY moveToSent.label              "Do mojeho rjadowaka &quot;Pósłane&quot; přesunyć">
+<!ENTITY moveToSent.accesskey          "D">
+<!ENTITY requestMDN.label              "Hdyž žadanje za wróćowobkrućenje dóstanu:">
+<!ENTITY never.label                   "Ženje wróćowobkrućenje njesłać">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Wróćowobkrućenja za někotre powěsće dowolić">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Jeli w &quot;Komu&quot; abo &quot;Kopija&quot; powěsće njejsym:">
+<!ENTITY notInToCc.accesskey           "J">
+<!ENTITY outsideDomain.label           "Jeli wotpósłar je zwonka mojeje domeny:">
+<!ENTITY outsideDomain.accesskey       "z">
+<!ENTITY otherCases.label              "We wšěch druhich padach:">
+<!ENTITY otherCases.accesskey          "c">
+<!ENTITY askMe.label                   "prašeć so">
+<!ENTITY alwaysSend.label              "Přeco słać">
+<!ENTITY neverSend.label               "Ženje njesłać">
