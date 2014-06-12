@@ -129,7 +129,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Falha na ligação protegida">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>A página que está a tentar visualizar não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li>
   <li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li>
@@ -152,8 +152,8 @@ temporário e pode tentar mais tarde.</li>
     dentro de alguns instantes.</li>
   <li>Se não conseguir carregar qualquer página, verifique a ligação de rede do seu 
     computador.</li>
-  <li>Se o seu computador ou rde estiverem protegidos por uma firewall ou proxy, verifique
-    se o &brandShortName; tem autorização para aceder à Web.</li>
+  <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, verifique
+    se o &brandShortName; tem autorização para aceder à web.</li>
 </ul>
 ">
 
