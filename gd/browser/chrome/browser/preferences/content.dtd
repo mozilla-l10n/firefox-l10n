@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan">
 <!ENTITY chooseButton.label           "Tagh…">
 <!ENTITY chooseButton.accesskey       "a">
+
+
+<!ENTITY translateExceptions.label    "Eisgeachdan…">
+<!ENTITY translateExceptions.accesskey "E">

@@ -44,4 +44,13 @@
 <!ENTITY translation.errorTranslating.label     "Thachair mearachd rè eadar-theangachadh na duilleige seo.">
 <!ENTITY translation.tryAgain.button            "Feuch ris a-rithist">
 
+
 <!ENTITY translation.options.menu               "Roghainnean">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+
+
+
