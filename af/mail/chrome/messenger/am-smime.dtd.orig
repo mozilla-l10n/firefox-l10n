@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securityTitle.label "Sekuriteit">
+<!ENTITY securityTab.label "Sekuriteit">
+<!ENTITY securityHeading.label "Om ondertekende of geënkripteerde boodskappe te stuur en te ontvang, moet u beide 'n ondertekening- en enkripsiesertifikaat toon.">
+<!ENTITY encryptionGroupTitle.label "Enkripsie">
+<!ENTITY encryptionChoiceLabel.label "Verstek-enkripsieopstelling vir wanneer boodskappe versend word:">
+<!ENTITY neverEncrypt.label "Nooit (moenie enkripsie gebruik nie)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Vereis (kan nie boodskap stuur nie tensy alle ontvangers sertifikate het)">
+<!ENTITY alwaysEncryptMessage.accesskey "V">
+
+<!ENTITY digitalSign.certificate.button "Kies…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Maak skoon">
+<!ENTITY digitalSign.certificate_clear.accesskey "K">
+<!ENTITY encryption.certificate.button "Kies…">
+<!ENTITY encryption.certificate.accesskey "K">
+<!ENTITY encryption.certificate_clear.button "Maak skoon">
+<!ENTITY encryption.certificate_clear.accesskey "a">
+<!ENTITY signingGroupTitle.label "Digitale ondertekening">
+<!ENTITY signMessage.label "Onderteken boodskappe digitaal (by verstek)">
+<!ENTITY signMessage.accesskey "O">
+<!ENTITY signingCert.message "Gebruik hierdie sertifikaat om boodskappe wat u versend, digitaal te onderteken:">
+
+<!ENTITY certificates.label "Sertifikate">
+<!ENTITY manageCerts.label "Bekyk sertifikate">
+<!ENTITY manageCerts.accesskey "B">
+<!ENTITY manageDevices.label "Sekuriteitstoestelle">
+<!ENTITY manageDevices.accesskey "S">

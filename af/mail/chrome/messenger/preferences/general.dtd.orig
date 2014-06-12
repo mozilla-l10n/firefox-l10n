@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerStartPage.label         "&brandShortName; se beginbladsy">
+<!ENTITY enableStartPage.label            "Wanneer &brandShortName; laat loop word, wys die beginbladsy in die boodskaparea">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "Ligging:">
+<!ENTITY location1.accesskey               "i">
+<!ENTITY useDefault.label                 "Laai verstek terug">
+<!ENTITY useDefault.accesskey             "L">
+
+
+
+
+<!ENTITY newMessagesArrive.label          "Wanneer nuwe boodskappe arriveer:">
+<!ENTITY playSound.label                  "Speel 'n klank">
+<!ENTITY playSound1.accesskey              "k">
+<!ENTITY showAnimatedAlert.label          "Wys 'n waarskuwing">
+<!ENTITY showAnimatedAlert.accesskey      "W">
+<!ENTITY customizeMailAlert.label         "Doelmaak…">
+<!ENTITY customizeMailAlert.accesskey     "D">
+
+
+
+<!ENTITY play.label                       "Speel">
+<!ENTITY play.accesskey                   "S">
+<!ENTITY systemsound.label                "Verstekstelsel-klank vir nuwe pos">
+<!ENTITY systemsoundMac.label             "Stelsel-waarskuklank">
+<!ENTITY systemsoundMac.accesskey         "t">
+<!ENTITY systemsound.accesskey            "t">
+<!ENTITY customsound.label                "Gebruik die volgende klanklêer">
+<!ENTITY customsound.accesskey            "G">
+<!ENTITY browse.label                     "Blaai…">
+<!ENTITY browse.accesskey                 "B">

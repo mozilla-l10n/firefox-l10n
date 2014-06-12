@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Byvoegings">
-<!ENTITY aboutAddons.header2                    "Your Add-ons">
+
 <!ENTITY aboutAddons.options                    "Opsies">
+
 
 <!ENTITY addonAction.enable                     "Aktiveer">
 <!ENTITY addonAction.disable                    "Deaktiveer">
 <!ENTITY addonAction.uninstall                  "Deïnstalleer">
 <!ENTITY addonAction.undo                       "Ontdoen">
-<!ENTITY addonAction.setDefault                 "Set as Default">

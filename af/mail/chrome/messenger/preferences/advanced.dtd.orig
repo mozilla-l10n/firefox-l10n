@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "Algemeen">
+
+<!ENTITY itemUpdate.label        "Bywerk">
+
+<!ENTITY itemCertificates.label  "Sertifikate">
+<!-- General Settings -->
+
+
+<!ENTITY enableGlodaSearch.label       "Aktiveer globale soektog en indekseerder">
+<!ENTITY enableGlodaSearch.accesskey   "A">
+
+
+
+
+
+
+<!ENTITY systemIntegration.label       "Stelselintegrasie">
+<!ENTITY alwaysCheckDefault.label      "Kontroleer altyd aan begin of &brandShortName; die verstek-poskliënt is">
+<!ENTITY alwaysCheckDefault.accesskey  "K">
+<!ENTITY searchIntegration.label       "Laat &searchIntegration.engineName; toe om boodskappe te deursoek">
+<!ENTITY searchIntegration.accesskey   "b">
+
+
+<!ENTITY configEditDesc.label          "Gevorderde opstelling">
+<!ENTITY configEdit.label              "Opstelling-redigeerder…">
+<!ENTITY configEdit.accesskey          "O">
+<!ENTITY returnReceiptsInfo.label      "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
+<!ENTITY showReturnReceipts.label      "Antwoordstrokies…">
+<!ENTITY showReturnReceipts.accesskey  "A">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption               "Lees">
+<!ENTITY display.caption               "Vertoon">
+<!ENTITY showCondensedAddresses.label  "Wys net vertoonnaam vir mense in my adresboek">
+<!ENTITY showCondensedAddresses.accesskey "W">
+
+<!ENTITY autoMarkAsRead.label          "Merk boodskappe outomaties as gelees">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Dadelik wanneer vertoon">
+<!ENTITY markAsReadNoDelay.accesskey   "w">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Na vertoon is vir">
+<!ENTITY markAsReadDelay.accesskey     "v">
+<!ENTITY secondsLabel.label            "sekondes">
+<!ENTITY openMsgIn.label               "Open boodskappe in:">
+<!ENTITY openMsgInNewTab.label         "'n Nuwe oortjie">
+<!ENTITY openMsgInNewTab.accesskey     "o">
+<!ENTITY reuseExpRadio0.label          "'n Nuwe boodskapvenster">
+<!ENTITY reuseExpRadio0.accesskey      "N">
+<!ENTITY reuseExpRadio1.label          "'n Bestaande boodskapvenster">
+<!ENTITY reuseExpRadio1.accesskey      "B">
+
+
+<!-- Update -->
+
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+
+
+
+<!-- Networking and Disk Space -->
+
+<!ENTITY showSettings.label            "Opstelling…">
+<!ENTITY showSettings.accesskey        "O">
+<!ENTITY proxiesConfigure.label        "Stel op hoe &brandShortName; aan die internet koppel">
+<!ENTITY connectionsInfo.caption       "Verbinding">
+<!ENTITY offlineInfo.caption           "Aflyn">
+<!ENTITY offlineInfo.label             "Stel aflynopstelling op">
+<!ENTITY showOffline.label             "Aflyn…">
+<!ENTITY showOffline.accesskey         "A">
+
+<!ENTITY Diskspace                       "Skyfspasie">
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label            "Gebruik tot">
+<!ENTITY useCacheBefore.accesskey        "G">
+<!ENTITY useCacheAfter.label             "MG spasie vir die kasgeheue">
+<!ENTITY clearCacheNow.label             "Maak nou skoon">
+<!ENTITY clearCacheNow.accesskey         "M">
+<!-- Certificates -->
+
+<!ENTITY certSelection.description       "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
+<!ENTITY certs.auto                      "Kies een outomaties">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Vra my elke keer">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Bekyk sertifikate">
+<!ENTITY viewCertificates.accesskey     "s">
+<!ENTITY validation.label               "Stawing">
+<!ENTITY validation.accesskey           "S">
+<!ENTITY viewSecurityDevices.label      "Sekuriteitstoestelle">
+<!ENTITY viewSecurityDevices.accesskey  "S">

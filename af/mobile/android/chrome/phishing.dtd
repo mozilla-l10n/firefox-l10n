@@ -13,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Aanvalsbladsye probeer programme installeer wat private inligting steel, u rekenaar gebruik om ander aan te val, of u stelsel beskadig.</p><p>Sommige aanvalsbladsye versprei doelbewus skadelike sagteware, maar baie word oorgeneem sonder die wete of toestemming van hulle eienaars.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Moontlike webnamaaksel!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+
+

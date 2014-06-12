@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Antwoordstrokies">
+<!ENTITY requestReceipt.label          "Wanneer boodskappe gestuur word, vra altyd 'n antwoordstrokie aan">
+<!ENTITY requestReceipt.accesskey      "W">
+<!ENTITY receiptArrive.label           "Wanneer 'n strokie aankom:">
+
+
+
+
+<!ENTITY requestMDN.label              "Wanneer ek 'n versoek om antwoordstrokie ontvang:">
+
+
+<!ENTITY returnSome.label              "Laat antwoordstrokies toe vir sekere boodskappe">
+<!ENTITY returnSome.accesskey          "a">
+<!ENTITY notInToCc.label               "As ek nie in die Aan of CC van die boodskap is nie:">
+<!ENTITY notInToCc.accesskey           "s">
+<!ENTITY outsideDomain.label           "As die afsender van buite my domein is:">
+<!ENTITY outsideDomain.accesskey       "d">
+<!ENTITY otherCases.label              "In alle ander gevalle:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Vra my">
+<!ENTITY alwaysSend.label              "Stuur altyd">
+<!ENTITY neverSend.label               "Stuur nooit nie">

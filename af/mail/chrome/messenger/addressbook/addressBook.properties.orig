@@ -1,0 +1,153 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+#
+# The following are used by the Mailing list dialog
+#
+emptyListName=U moet 'n lysnaam intik.
+lastFirstFormat=%S, %S
+firstLastFormat=%S %S \u0020
+
+newContactTitle=Nuwe kennis
+# %S will be the contact's display name
+newContactTitleWithDisplayName=Nuwe kennis vir %S
+editContactTitle=Redigeer kennis
+# %S will be the contact's display name
+editContactTitleWithDisplayName=Redigeer inskrywing vir %S
+# don't translate vCard
+editVCardTitle=Redigeer vCard
+# %S will be the card's display name, don't translate vCard
+editVCardTitleWithDisplayName=Redigeer vCard vir %S
+
+## LOCALIZATION NOTE (cardRequiredDataMissingMessage):  do not localize \n
+cardRequiredDataMissingMessage=U moet ten minste een van die volgende items intik:\nE-posadres, voornaam, van, vertoonnaam, organisasie.
+cardRequiredDataMissingTitle=Vereiste inligting word vermis
+incorrectEmailAddressFormatMessage=Die primêre e-posadres moet in die vorm gebruiker@gasheer wees.
+incorrectEmailAddressFormatTitle=Verkeerde e-posadresformaat
+
+viewListTitle=Poslys: %S
+mailListNameExistsTitle=Poslys bestaan reeds
+mailListNameExistsMessage='n Poslys met daardie naam bestaan reeds. Gebruik asseblief 'n ander naam.
+
+# used in the addressbook
+confirmDeleteMailingListTitle=Skrap poslys
+confirmDeleteAddressbookTitle=Skrap adresboek
+confirmDeleteAddressbook=Is u seker u wil die geselekteerde adresboek skrap?
+confirmDeleteCollectionAddressbook=As hierdie adresboek geskrap word, sal %S nie meer adresse versamel nie. Is u seker u wil die geselekteerde adresboek skrap?
+confirmDeleteMailingList=Is u seker u wil die geselekteerde poslys skrap?
+confirmDeleteListsAndContacts=Is u seker u wil die gemerkte kennisse en poslyste skrap?
+confirmDeleteMailingLists=Is u seker u wil die geselekteerde poslyste skrap?
+
+propertyPrimaryEmail=E-pos
+propertyListName=Lysnaam
+propertySecondaryEmail=Bykomende e-pos
+propertyNickname=Bynaam
+propertyDisplayName=Vertoonnaam
+propertyWork=Werk
+propertyHome=Huis
+propertyFax=Faks
+propertyCellular=Selfoon
+propertyPager=Roeper
+propertyBirthday=Verjaardag
+propertyCustom1=Doelmaak 1
+propertyCustom2=Doelmaak 2
+propertyCustom3=Doelmaak 3
+propertyCustom4=Doelmaak 4
+
+
+## LOCALIZATION NOTE (dateFormatMonthDay)
+## Only used if the year isn't present and should be in the format used by
+## Date.toLocaleFormat see http://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Global_Objects/Date/toLocaleFormat
+## %B is the month's localized name and %d is the day of the month [01-31].
+## Don't go using %e here, since it breaks things on Windows!
+## Separators (a space, dash, etc.) can be used
+
+## LOCALIZATION NOTE (cityAndStateAndZip): 
+## %1$S is city, %2$S is state, %3$S is zip
+cityAndStateAndZip=%1$S, %2$S %3$S
+## LOCALIZATION NOTE (cityAndStateNoZip): 
+## %1$S is city, %2$S is state
+cityAndStateNoZip=%1$S, %2$S
+## LOCALIZATION NOTE (cityOrStateAndZip): 
+## %1$S is city or state, %2$S is zip
+cityOrStateAndZip=%1$S %2$S
+
+stateZipSeparator=
+
+prefixTo=Aan
+prefixCc=CC
+prefixBcc=BCC
+addressBook=Adresboek
+
+browsePhoto=Kennisfoto
+
+# mailnews.js
+ldap_2.servers.pab.description=Persoonlike adresboek
+ldap_2.servers.history.description=Versamelde adresse
+## LOCALIZATION NOTE (ldap_2.servers.osx.description is only used on Mac OS X)
+ldap_2.servers.osx.description=Mac OS X-adresboek
+
+# status bar stuff
+## LOCALIZATION NOTE (totalContactStatus):
+## %1$S is address book name, %2$S is contact count
+totalContactStatus=Totale kennisse in %1$S: %2$S
+## LOCALIZATION NOTE (matchesFound):  do not localize %S
+noMatchFound=Geen resultate gevind nie
+matchFound=1 resultaat gevind
+matchesFound=%S resultate gevind
+
+## LOCALIZATION NOTE (contactsCopied): Semi-colon list of plural forms
+## %1$S is the number of contacts that were copied. This should be used multiple
+## times wherever you need it. Do not replace by %S.
+contactsCopied=%1$S kennis gekopieer;%1$S kennisse gekopieer
+
+## LOCALIZATION NOTE (contactsMoved): Semi-colon list of plural forms
+## %1$S is the number of contacts that were moved. This should be used multiple
+## times wherever you need it. Do not replace by %S.
+contactsMoved=%1$S kennis geskuif;%1$S kennisse geskuif
+
+# LDAP directory stuff
+invalidName=Tik 'n geldige naam in.
+invalidHostname=Tik 'n geldige gasheernaam in.
+invalidPortNumber=Tik 'n geldige poortnommer in.
+invalidResults=Tik 'n geldige getal in die resultateveld in.
+abReplicationOfflineWarning=U moet aanlyn werk om 'n LDAP te repliseer.
+abReplicationSaveSettings=Die opstelling moet gestoor word voor u 'n gids kan aflaai.
+
+# For importing / exporting
+ExportAddressBookTitle=Voer adresboek uit
+LDIFFiles=LDIF
+CSVFiles=Kommageskei
+TABFiles=Keepgeskei
+failedToExportTitle=Kon nie uitvoer nie
+failedToExportMessageNoDeviceSpace=Kon nie adresboek uitvoer nie, geen spasie oor nie.
+failedToExportMessageFileAccessDenied=Kon nie adresboek uitvoer nie, toegang geweier.
+
+# For getting authDN for replication using dlg box
+AuthDlgTitle=Adresboek-LDAP-replikasie
+AuthDlgDesc=Tik u gebruikernaam en wagwoord in om die gidsbediener te gebruik.
+
+# LOCALIZATION NOTE(joinMeInThisChat)
+# use + for spaces
+joinMeInThisChat=Sluit+by+my+aan+in+hierdie+kletskamer.
+
+# For printing
+headingHome=Huis
+headingWork=Werk
+headingOther=Ander
+headingPhone=Telefoon
+headingDescription=Beskrywing
+headingAddresses=Adresse
+
+# For address books
+newAddressBookTitle=Nuwe adresboek
+renameAddressBookTitle=Adresboek-eienskappe
+
+# For corrupt .mab files
+corruptMabFileTitle=Korrupte adresboeklêer
+corruptMabFileAlert=Kon een van u adresboeklêers (%1$S-lêer) nie lees nie. 'n Nuwe %2$S-lêer sal geskep word en 'n dekkopie van die ou lêer, genaamd %3$S, sal in dieselfde subgids geskep word.
+
+# For locked .mab files
+lockedMabFileTitle=Kon nie adresboeklêer laai nie
+lockedMabFileAlert=Kon nie adresboeklêer %S laai nie. Dalk is dit 'n leesalleenlêer, of dalk word dit deur 'n ander program beset. Probeer later weer.

@@ -1,0 +1,155 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Contact.tab                     "Kennis">
+<!ENTITY Contact.accesskey               "K">
+<!ENTITY Name.box                        "Naam">
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Voornaam:">
+<!ENTITY NameField1.accesskey           "n">
+<!ENTITY NameField2.label               "Van:">
+<!ENTITY NameField2.accesskey           "V">
+<!ENTITY PhoneticField1.label           "Foneties:">
+<!ENTITY PhoneticField2.label           "Foneties:">
+<!ENTITY DisplayName.label              "Vertoon:">
+<!ENTITY DisplayName.accesskey          "t">
+
+
+<!ENTITY NickName.label                 "Bynaam:">
+<!ENTITY NickName.accesskey             "B">
+
+<!ENTITY PrimaryEmail.label             "E-pos:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Bykomende e-pos:">
+<!ENTITY SecondEmail.accesskey          "B">
+<!ENTITY PreferMailFormat.label         "Verkies om boodskappe te ontvang in:">
+<!ENTITY PreferMailFormat.accesskey     "o">
+<!ENTITY PlainText.label                "Skoonteks">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Onbekend">
+
+
+<!ENTITY WorkPhone.label                "Werk:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "Huis:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Roeper:">
+<!ENTITY PagerNumber.accesskey          "R">
+<!ENTITY CellularNumber.label           "Selfoon:">
+<!ENTITY CellularNumber.accesskey       "S">
+
+<!ENTITY Home.tab                       "Privaat">
+<!ENTITY Home.accesskey                 "P">
+
+
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Stad:">
+<!ENTITY HomeCity.accesskey             "S">
+<!ENTITY HomeState.label                "Deelstaat/provinsie:">
+<!ENTITY HomeState.accesskey            "D">
+<!ENTITY HomeZipCode.label              "Poskode:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeCountry.accesskey          "L">
+<!ENTITY HomeWebPage.label              "Webbladsy:">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Birthday.label                 "Verjaarsdag:">
+<!ENTITY Birthday.accesskey             "V">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Jaar">
+<!ENTITY Or.value                       "of">
+<!ENTITY Age.placeholder                "Ouderdom">
+<!ENTITY YearsOld.label                 "">
+
+<!ENTITY Work.tab                       "Werk">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Titel:">
+<!ENTITY JobTitle.accesskey             "T">
+<!ENTITY Department.label               "Afdeling:">
+<!ENTITY Department.accesskey           "A">
+<!ENTITY Company.label                  "Organisasie:">
+<!ENTITY Company.accesskey              "O">
+
+
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Stad:">
+<!ENTITY WorkCity.accesskey             "S">
+<!ENTITY WorkState.label                "Deelstaat/provinsie:">
+<!ENTITY WorkState.accesskey            "D">
+<!ENTITY WorkZipCode.label              "Poskode:">
+<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkCountry.label              "Land:">
+<!ENTITY WorkCountry.accesskey          "L">
+<!ENTITY WorkWebPage.label              "Webbladsy:">
+<!ENTITY WorkWebPage.accesskey          "W">
+
+<!ENTITY Other.tab                      "Ander">
+<!ENTITY Other.accesskey                "A">
+<!ENTITY Custom1.label                  "Doelmaak 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Doelmaak 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Doelmaak 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Doelmaak 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Aantekeninge:">
+<!ENTITY Notes.accesskey                "A">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Kies een van die volgende:">
+<!ENTITY GenericPhoto.label             "Generiese foto">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Verstek">
+<!ENTITY PhotoFile.label                "Op hierdie rekenaar">
+<!ENTITY PhotoFile.accesskey            "O">
+<!ENTITY BrowsePhoto.label              "Blaai">
+<!ENTITY BrowsePhoto.accesskey          "B">
+<!ENTITY PhotoURL.label                 "Op die web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.placeholder           "Plak of tik die webadres van 'n foto">
+<!ENTITY UpdatePhoto.label              "Bywerk">
+<!ENTITY UpdatePhoto.accesskey          "B">

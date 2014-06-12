@@ -37,11 +37,9 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
-
-
 
 # LOCALIZATION NOTE (bookmarks_addons):
+
 
 
 
@@ -49,11 +47,11 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
-
 
 
 # LOCALIZATION NOTE (bookmarks_support):
+
+
 
 
 
@@ -61,19 +59,21 @@
 
 
 
-#define bookmarks_support Firefox: Support
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
+# LOCALIZATION NOTE (bookmarks_marketplace):
 
 
 
-# link title for about:home
 
 
 
-#define bookmarks_aboutHome Firefox Start
+# link title for https://marketplace.firefox.com
+
+
+
+
 
 
 

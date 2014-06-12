@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Verwyder">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
+<!ENTITY cmd.debugAddon.label                 "Ontfout">
 <!ENTITY cmd.showPreferencesWin.label         "Opsies">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Verander hierdie byvoeging se opsies">
 <!ENTITY cmd.showPreferencesUnix.label        "Voorkeure">
@@ -216,3 +217,14 @@ beste en gewildste byvoegings bevat wat jy kan probeer.">
 <!ENTITY eula.accept                          "Aanvaar en installeer…">
 
 <!ENTITY settings.path.button.label           "Blaai…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Wat's dié? Telemetrie kan per geleentheid eksperimente installeer en uitvoer.">
+<!ENTITY experiment.info.learnmore "Meer inligting">
+<!ENTITY experiment.info.learnmore.accesskey "M">
+<!ENTITY experiment.info.changetelemetry "Instellings vir Telemetrie">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

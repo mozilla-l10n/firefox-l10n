@@ -23,11 +23,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Weergawe">
 
 
-
-
+<!ENTITY aboutSupport.experimentName "Naam">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Beskrywing">
 <!ENTITY aboutSupport.experimentActive "Aktief">
-
+<!ENTITY aboutSupport.experimentEndDate "Einddatum">
 <!ENTITY aboutSupport.experimentHomepage "Tuisblad">
 
 
