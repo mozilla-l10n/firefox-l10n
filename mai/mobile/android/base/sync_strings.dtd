@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "ईमेल">
 <!ENTITY fxaccount_password_hint "गुड़किल्ली">
 <!ENTITY fxaccount_password_hide "नुकाउ">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "फायरफाक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "एहिना साइन इन करू">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्रिय">
 <!ENTITY fxaccount_status_needs_verification2 "अहाँक खाता केँ सत्यापित करब क जरूरत अछि. दोबारा सत्यापन इमेल पठाबै कलेल टैप करू.">
