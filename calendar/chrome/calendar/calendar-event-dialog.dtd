@@ -303,8 +303,8 @@
 <!ENTITY invite.title.label "Bjóða þátttakendum">
 <!ENTITY event.organizer.label "Stjórnandi">
 <!ENTITY event.freebusy.suggest.slot "Leggja til tíma:">
-<!ENTITY event.freebusy.next.slot "Næsta hólf ">
-<!ENTITY event.freebusy.previous.slot " Fyrra hólf">
+<!ENTITY event.freebusy.button.next.slot "Næsta hólf">
+<!ENTITY event.freebusy.button.previous.slot "Fyrra hólf">
 <!ENTITY event.freebusy.zoom "Aðdráttur:">
 <!ENTITY event.freebusy.legend.free "Laus">
 <!ENTITY event.freebusy.legend.busy "Upptekinn">
