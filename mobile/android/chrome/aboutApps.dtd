@@ -6,5 +6,4 @@
 <!ENTITY aboutApps.header "Мои приложения">
 <!ENTITY aboutApps.browseMarketplace "Обзор магазина Firefox">
 <!ENTITY aboutApps.uninstall "Удалить">
-<!ENTITY aboutApps.addToHomescreen "Добавить на домашний экран">
 <!ENTITY aboutApps.checkForUpdates "Проверить на обновления">

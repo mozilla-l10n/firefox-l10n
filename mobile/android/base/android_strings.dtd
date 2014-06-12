@@ -75,7 +75,6 @@
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка вашей домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
-<!ENTITY pref_home_add_panel "Добавить панель">
 <!ENTITY home_add_panel_title "Добавить новую панель">
 <!ENTITY home_add_panel_empty "К сожалению, мы не смогли найти ни одной панели для добавления.">
 <!ENTITY home_add_panel_installed "\'&formatS;\' добавлено на домашнюю страницу">
