@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  prefWindow.titleWin     "Einstellungen">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-Einstellungen">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
@@ -9,5 +13,6 @@
 <!ENTITY paneComposition.title    "Verfassen">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Anhänge">
+<!ENTITY panePrivacy.title        "Datenschutz">
 <!ENTITY paneSecurity.title       "Sicherheit">
 <!ENTITY paneAdvanced.title       "Erweitert">
