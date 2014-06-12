@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ਟੈਬਾਂ">
 <!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੁੱਲ੍ਹੀ">
+<!ENTITY new_private_tab_opened "New private tab opened">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "ਭਾਸ਼ਾ">
+<!ENTITY pref_browser_locale "ਬਰਾਊਜ਼ਰ ਭਾਸ਼ਾ">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "System default">
+
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
 <!ENTITY pref_category_display "ਵੇਖਾਉਣਾ">
@@ -89,7 +106,6 @@
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
-
 <!ENTITY pref_category_home "ਮੁੱਖ-ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣਾ ਮੁੱਖ-ਸਫ਼ਾ ਪਸੰਦੀਦਾ ਬਣਾਓ">
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
@@ -104,6 +120,8 @@
 <!ENTITY pref_home_updates "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
 <!ENTITY pref_home_updates_enabled "ਚਾਲੂ ਹੈ">
 <!ENTITY pref_home_updates_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਉੱਤੇ">
+<!ENTITY pref_home_suggested_sites "Show site suggestions">
+<!ENTITY pref_home_suggested_sites_summary "Display shortcuts to sites on your homepage that we think you might find interesting">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
@@ -113,6 +131,7 @@
 <!ENTITY pref_header_display "ਡਿਸਪਲੇਅ">
 <!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_header_help "ਮਦਦ">
+<!ENTITY pref_header_language "Language">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
@@ -232,6 +251,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Help">
+
 <!ENTITY quit "ਬੰਦ ਕਰੋ">
 
 <!ENTITY addons "ਐਡ-ਆਨ">
@@ -295,8 +317,11 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "ਟਾਈਟਲ ਪੱਟੀ ਸਕਰੋਲ ਕਰੋ">
-
-<!ENTITY history_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
+  
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Page removed">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 
@@ -312,7 +337,6 @@ size. -->
 
 
 <!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
-<!ENTITY reading_list_removed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ">
 <!ENTITY reading_list_failed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
 <!ENTITY reading_list_duplicate "ਪੇਜ਼ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
 
@@ -339,8 +363,9 @@ size. -->
 <!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਿਲ">
 
 <!ENTITY home_history_title "ਅਤੀਤ">
-<!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਵੇਖਾਈ ਦੇਣਗੇ।">
-
+<!ENTITY home_clear_history_button "Clear browsing history">
+<!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
+<!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਵੇਖਾਈ ਦੇਣਗੇ।">	
 <!ENTITY home_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਤੋਂ ਸਾਈਟਾਂ">
 <!ENTITY home_last_tabs_open "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
 <!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਤਾਜ਼ਾ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
@@ -450,3 +475,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "ਮੇਨੂ">
 <!ENTITY actionbar_done "ਮੁਕੰਮਲ">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Last synced: &formatS;">
