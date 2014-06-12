@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "প্রতিষ্ঠান (O)">
 <!ENTITY certmgr.certdetail.ou                "প্রাতিষ্ঠানিক একক (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "ক্রমিক সংখ্যা">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 ফিঙ্গারপ্রিন্ট">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ফিঙ্গারপ্রিন্ট">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 ফিঙ্গারপ্রিন্ট">
 
 <!ENTITY certmgr.editcert.title               "নিরাপত্তা সার্টিফিকেট সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন">
 <!ENTITY certmgr.editcacert.title             "CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন">

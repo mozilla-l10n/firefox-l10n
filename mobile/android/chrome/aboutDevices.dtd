@@ -3,5 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY searchFlyoutHeader.title  "অনুসন্ধান করুন">
-<!ENTITY searchSetting.title  "ডিফল্ট অনুসন্ধান সরবরাহকারী">
+
+
+
+<!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
+     user prompting them to input the IP address of a casting device. -->
+

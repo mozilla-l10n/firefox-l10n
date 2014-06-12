@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "বুকমার্ক">
 <!ENTITY abouthome.historyButton.label   "পূর্ববর্তী তথ্য">
-<!ENTITY abouthome.settingsButton.label  "বিবিধ বৈশিষ্ট্য">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "বিকল্প">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "পছন্দ">
 <!ENTITY abouthome.addonsButton.label    "অতিরিক্ত সামগ্রী">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "ডাউনলোড">
