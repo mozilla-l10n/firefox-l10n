@@ -55,6 +55,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "नव टैब">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "फ़ाइल खोलू…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -121,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "पुस्तकचिह्न (B)">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ई पृष्ठ पुस्तकचिह्नित करू">
+
 <!ENTITY editThisBookmarkCmd.label "ई पुस्तकचिह्न संपादित करू ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -144,19 +147,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "बिनु छाँटल पुस्तकचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip "बेसी पुस्तकचिह्न देखाउ">
 
-<!ENTITY backCmd.label                "पाछाँ">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "एकगोट पृष्ठ पाछाँ जाउ">
-<!ENTITY forwardCmd.label             "अग्रेषित करू">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ आगाँ जाउ">
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास देखाबैक लेल दाहिना क्लिक करू अथवा पुल डाउन करू">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास देखाबैक लेल पुल डाउन करू">
-<!ENTITY reloadCmd.label              "फेर लोड करू">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "वर्तमान पृष्ठ फेर लोड करू">
-<!ENTITY stopCmd.label                "रोकू">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ई पृष्ठ लोड कएनाइ रोकू">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पतामे जाउ">
@@ -192,7 +190,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनलोड">
-<!ENTITY downloads.tooltip            "निरंतर डाउनलोडक प्रगति देखाउ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -423,8 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "बतौर डेस्कटॉप पृष्ठभूमि सेट करू…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ई पृष्ठ पुस्तकचिह्नित करू">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "ई कड़ी पुस्तकचिह्नित करू">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ई फ्रेम पुस्तकचिह्नित करू">
@@ -548,11 +544,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "पैघ-छोट करू">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "नव टैब खोलू">
-<!ENTITY newWindowButton.tooltip        "नव विंडो खोलू">
 <!ENTITY sidebarCloseButton.tooltip     "बाजू पट्टी बन्न करू">
-
-<!ENTITY fullScreenButton.tooltip       "पूर्ण स्क्रीन मे विंडो देखाउ">
 
 <!ENTITY quitApplicationCmdWin.label       "बाहर"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">

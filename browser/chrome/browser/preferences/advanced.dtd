@@ -125,12 +125,12 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
-<!ENTITY viewCerts.accesskey             "s">
+
+
+
 <!ENTITY verify2.label                   "सत्यापन">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+
