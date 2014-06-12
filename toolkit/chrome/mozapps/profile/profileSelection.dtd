@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Werk aflyn">
 <!ENTITY            offlineState.accesskey "e">
 
-
+<!ENTITY            useSelected.label       "Gebruik die gekose profiel sonder om te vra by aanvang">
+<!ENTITY            useSelected.accesskey   "s">

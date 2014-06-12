@@ -6,16 +6,16 @@
 <!ENTITY aboutPage.telemetryStart               " Dit stuur outomaties inligting oor werkverrigting, hardeware, gebruik en aanpassings terug aan ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " om te help om &brandShortName; beter te maak.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+
 <!ENTITY aboutPage.checkForUpdates.checking     "Kontroleer tans vir bywerkings…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
+
+
+
+
+
+
 <!ENTITY aboutPage.privacyPolicy.label          "Privaatheidbeleid">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
+
 <!ENTITY aboutPage.relNotes.label               "Vrystellingaantekeninge">
 <!ENTITY aboutPage.credits.label                "Erkenning">
 <!ENTITY aboutPage.license.label                "Lisensiëringinligting">

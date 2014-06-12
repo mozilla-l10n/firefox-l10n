@@ -1,0 +1,92 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+#### Add HTML and Plain Text Domain Names for sendOption
+html_domainsAddDomainTitle=Voeg HTML-domeinnaam by
+html_domainsAddDomain=HTML-domeinnaam:
+plaintext_domainsAddDomainTitle=Voeg skoonteks-domeinnaam by
+plaintext_domainsAddDomain=Skoonteks-domeinnaam:
+
+domainNameErrorTitle=Probleem met domeinnaam
+#### LOCALIZATION NOTE: do not translate %S
+domainDuplicationError=Die domeinnaam %S bestaan reeds in die HTML- of skoontekslyste.
+
+#### Junk
+confirmResetJunkTrainingTitle=Bevestig
+confirmResetJunkTrainingText=Is u seker u wil die aanpassende filteropleidingdata teruglaai?
+
+#### Downloads
+desktopFolderName=Werkskerm
+myDownloadsFolderName=My aflaaie
+chooseAttachmentsFolderTitle=Kies gids
+
+#### Applications
+
+fileEnding=%S-lêer
+saveFile=Stoor lêer
+
+# LOCALIZATION NOTE (useApp, useDefault): %S = Application name
+useApp=Gebruik %S
+useDefault=Gebruik %S (verstek)
+
+useOtherApp=Gebruik ander…
+fpTitleChooseApp=Kies hulptoepassing
+manageApp=Toepassingdetail…
+alwaysAsk=Vra altyd
+delete=Skrap aksie
+confirmDeleteTitle=Skrap aksie
+confirmDeleteText=Is u seker u wil hierdie aksie skrap?
+
+# LOCALIZATION NOTE (usePluginIn):
+# %1$S = plugin name (for example "QuickTime Plugin-in 7.2")
+# %2$S = brandShortName from brand.properties (for example "Shredder")
+usePluginIn=Gebruik %1$S (in %2$S)
+
+# LOCALIZATION NOTE (typeDescriptionWithDetails):
+# %1$S = type description (for example "Portable Document Format")
+# %2$S = details (see below, for example "(application/pdf: .pdf, .pdfx)")
+typeDescriptionWithDetails=%1$S %2$S
+
+# LOCALIZATION NOTE (typeDetailsWithTypeOrExt):
+# %1$S = type or extensions (for example "application/pdf", or ".pdf, .pdfx")
+typeDetailsWithTypeOrExt=(%1$S)
+
+# LOCALIZATION NOTE (typeDetailsWithTypeAndExt):
+# %1$S = type (for example "application/pdf")
+# %2$S = extensions (for example ".pdf, .pdfx")
+typeDetailsWithTypeAndExt=(%1$S: %2$S)
+
+#### Sound Notifications
+soundFilePickerTitle=Kies klank
+
+#### Attachment Reminder
+attachmentReminderAddDialogTitle=Voeg woord by
+attachmentReminderAddText=Woord:
+attachmentReminderEditDialogTitle=Redigeer sleutelwoord
+attachmentReminderEditText=Woord:
+
+#### Remote content
+
+#### Cookies
+cookiepermissionstitle=Uitsonderings - Koekies
+cookiepermissionstext=U kan spesifiseer watter webwerwe altyd of nooit toegelaat moet word om koekies te gebruik nie.  Tik die webadres van die werf wat u wil bestuur, presies in en kliek dan Blokkeer, Toelaat vir sessie, of Toelaat.
+
+invalidURI=Tik 'n geldige gasheernaam in
+invalidURITitle=Ongeldige gasheernaam ingetik
+
+#### Cookie Viewer
+hostColon=Gasheer:
+domainColon=Domein:
+forSecureOnly=Slegs geënkripteerde verbindings
+forAnyConnection=Enige soort verbinding
+AtEndOfSession=aan einde van sessie
+can=Toelaat
+canSession=Toelaat vir sessie
+cannot=Blokkeer
+noCookieSelected=<geen koekie geselekteer nie>
+cookiesAll=Die volgende koekies is op u rekenaar gestoor:
+cookiesFiltered=Die volgende koekies pas by u soektog:
+removeCookies=Verwyder koekies
+removeCookie=Verwyder koekie
+

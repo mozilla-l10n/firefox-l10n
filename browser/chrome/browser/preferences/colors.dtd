@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "L">
 
 <!ENTITY  color                           "Teks en agtergrond">
-
-
+<!ENTITY  textColor.label                 "Teks:">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Agtergrond:">
 <!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Gebruik stelselkleure">

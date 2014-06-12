@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Gemors">
+<!ENTITY itemPhishing.label      "E-posswendelary">
+<!ENTITY itemPasswords.label     "Wagwoorde">
+<!ENTITY itemAntiVirus.label     "Viruswering">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Verstel die verstek gemorspos-opstelling. Rekeningspesifieke gemorspos-opstelling kan gedoen word by die rekeningopstelling.">
+<!ENTITY manualMark.label "Wanneer ek boodskappe as gemors merk:">
+<!ENTITY manualMark.accesskey "W">
+
+
+<!ENTITY manualMarkModeDelete.label "Skrap hulle">
+<!ENTITY manualMarkModeDelete.accesskey "S">
+<!ENTITY markAsReadOnSpam.label "Merk boodskappe wat as gemors beskou word, as gemerk">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+
+
+<!ENTITY openJunkLog.label "Wys staaflêer">
+<!ENTITY openJunkLog.accesskey "W">
+<!ENTITY resetTrainingData.label "Stel opleidingsdata terug">
+<!ENTITY resetTrainingData.accesskey "S">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro  "&brandShortName; kan boodskappe analiseer vir verdagte e-posswendelary deur uit te kyk vir algemene tegnieke om mens om die bos te lei.">
+<!ENTITY enablePhishingDetector1.label    "Vertel my as die boodskap wat ek lees, dalk 'n e-posswendel is">
+<!ENTITY enablePhishingDetector1.accesskey  "V">
+<!ENTITY useDownloadedList.label "Gebruik 'n afgelaaide lys van verdagte e-posswendels">
+<!ENTITY useDownloadedList.accesskey "u">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro           "&brandShortName; kan wagwoorde vir al jou rekeninge onthou.">
+<!ENTITY useMasterPassword.label        "Gebruik 'n meesterwagwoord">
+<!ENTITY useMasterPassword.accesskey    "G">
+<!ENTITY masterPassword.intro           "'n Meesterwagwoord beskerm al u wagwoorde, maar u moet dit een keer per sessie intik.">
+<!ENTITY changeMasterPassword.label     "Wysig meesterwagwoord…">
+<!ENTITY changeMasterPassword.accesskey "W">
+<!ENTITY savedPasswords.label           "Gestoorde wagwoorde…">
+<!ENTITY savedPasswords.accesskey       "G">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro      "&brandShortName; maak dit maklik vir viruswering om inkomende posboodskappe vir virusse te ontleed voor hulle plaaslik gestoor word.">
+<!ENTITY antiVirus.label      "Laat virusweerders toe om individuele inkomende boodskappe in kwarantyn te plaas">
+<!ENTITY antiVirus.accesskey  "L">
+

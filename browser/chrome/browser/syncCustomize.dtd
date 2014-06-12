@@ -19,7 +19,7 @@
 <!ENTITY engine.tabs.accesskey            "O">
 <!ENTITY engine.passwords.label           "Wagwoorde">
 <!ENTITY engine.passwords.accesskey       "W">
-
-
-
-
+<!ENTITY engine.addons.label              "Byvoegings op die rekenaar">
+<!ENTITY engine.addons.accesskey          "B">
+<!ENTITY engine.prefs.label               "Voorkeure op die rekenaar">
+<!ENTITY engine.prefs.accesskey           "V">
