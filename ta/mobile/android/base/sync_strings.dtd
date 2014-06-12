@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "மின்னஞ்சல்">
 <!ENTITY fxaccount_password_hint "கடவுச்சொல்">
 <!ENTITY fxaccount_password_hide "மறை">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: செயல்படுத்தபட்டது">
 <!ENTITY fxaccount_status_needs_verification2 "உங்கள் கணக்கை சரிபார்க்க வேண்டியுள்ளது. சரிபார்ப்பு மின்னஞ்சலை மிண்டும் அனுப்ப தடவவும்.">

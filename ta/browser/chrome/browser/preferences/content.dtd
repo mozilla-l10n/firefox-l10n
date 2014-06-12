@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "பக்கங்களை காட்ட உங்களுக்கு பிடித்தமான முதன்மை மொழியைத் தேர்ந்தெடுக்கவும்">
 <!ENTITY chooseButton.label           "தேர்ந்தெடு...">
 <!ENTITY chooseButton.accesskey       "ந">
+
+
+<!ENTITY translateExceptions.label    "விதிவிலக்குகள்">
+<!ENTITY translateExceptions.accesskey "த">
