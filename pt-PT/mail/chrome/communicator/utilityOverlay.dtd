@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
@@ -9,6 +8,7 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
+
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Anular">
@@ -31,25 +31,28 @@
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
-<!ENTITY preferencesCmd.label "Opções...">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "P">
+
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey "B">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "e">
-<!ENTITY proxy.label "Configuração de proxy...">
-<!ENTITY proxy.accesskey "X">
+
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
+
 <!ENTITY quitApplicationCmd.label "Sair">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "S">
+
 <!ENTITY quitApplicationCmdUnix.label "Sair">
 <!ENTITY quitApplicationCmdUnix.accesskey "S">
+
 <!ENTITY quitApplicationCmdMac.label "Sair do &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey "S">
