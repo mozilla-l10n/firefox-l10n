@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "ಪಠ್ಯ ಹಾಗು ಹಿನ್ನಲೆ">
-
-
+<!ENTITY  textColor.label                 "ಪಠ್ಯ:">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "ಹಿನ್ನಲೆ:">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "ಗಣಕ ಉಪಕರಣವನ್ನು ಬಳಸು">

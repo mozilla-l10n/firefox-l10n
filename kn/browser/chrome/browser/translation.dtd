@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "ಈ ಪುಟ ಇದರಲ್ಲಿದೆ">
+<!ENTITY translation.translateThisPage.label    "ಈ ಪುಟವನ್ನು ಅನುವಾದಿಸಬೇಕೆ?">
+<!ENTITY translation.translate.button           "ಅನುವಾದಿಸು">
+<!ENTITY translation.notNow.button              "ಈಗ ಬೇಡ">
 
-
-
+<!ENTITY translation.translatingContent.label   "ಪುಟದ ವಸ್ತುವಿಷಯವನ್ನು ಅನುವಾದಿಸಲಾಗುತ್ತಿದೆ…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,24 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "ಈ ಪುಟವನ್ನು ಇಲ್ಲಿಂದ ಅನುವಾದಿಸಲಾಗಿದೆ :">
 <!ENTITY translation.translatedTo.label         "ಗೆ">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "ಮೂಲವನ್ನು ತೋರಿಸು">
+<!ENTITY translation.showTranslation.button     "ಅನುವಾದವನ್ನು ತೋರಿಸು">
 
-
+<!ENTITY translation.errorTranslating.label     "ಈ ಪುಟವನ್ನು ಅನುವಾದಿಸುವಾಗ ಒಂದು ತಪ್ಪು ಉಂಟಾಗಿದೆ.">
+<!ENTITY translation.tryAgain.button            "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
 
 <!ENTITY translation.options.menu               "ಆಯ್ಕೆಗಳು">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+
+<!ENTITY translation.options.preferences.label  "Translation ಇಚ್ಛೆಗಳು">
+<!ENTITY translation.options.preferences.accesskey "T">

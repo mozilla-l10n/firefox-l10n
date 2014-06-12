@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "ಇಮೇಲ್">
 <!ENTITY fxaccount_password_hint "ಗುಪ್ತಪದ">
 <!ENTITY fxaccount_password_hide "ಅಡಗಿಸು">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">

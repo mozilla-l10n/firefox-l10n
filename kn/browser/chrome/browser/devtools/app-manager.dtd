@@ -17,12 +17,12 @@
 <!ENTITY device.startAppTooltip "ಸಾಧನದಲ್ಲಿ ಈ ಅನ್ವಯವನ್ನು ಪ್ರಾರಂಭಿಸು">
 <!ENTITY device.stopApp "ನಿಲ್ಲಿಸು">
 <!ENTITY device.stopAppTooltip "ಸಾಧನದಲ್ಲಿ ಈ ಅನ್ವಯವನ್ನು ನಿಲ್ಲಿಸು">
-
+<!ENTITY device.debugApp "ದೋಷನಿವಾರಣೆ">
 
 <!ENTITY device.name "ಹೆಸರು">
+<!ENTITY device.plain "ಸಾದಾ (ಪೂರ್ವನಿಯೋಜಿತ)">
 
-
-
+<!ENTITY device.certified "ಪ್ರಮಾಣೀಕೃತ">
 <!ENTITY device.allow "ಅನುಮತಿಸು">
 
 <!ENTITY device.prompt "ಪ್ರಾಂಪ್ಟ್‍">
@@ -40,11 +40,12 @@
 
 <!ENTITY device.help "ಸಹಾಯ">
 
+<!ENTITY connection.connectTooltip "ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವೇರ್ಪಡಿಸು">
+<!ENTITY connection.disconnect "ಸಂಪರ್ಕ ತೆಗೆ">
 
-
-
-
-
+<!ENTITY connection.notConnected2 "ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
+<!ENTITY connection.connectTo "ಇಲ್ಲಿಗೆ ಸಂಪರ್ಕಿಸು:">
+<!ENTITY connection.noDeviceFound "ಸಾಧನ ಲಭ್ಯವಿಲ್ಲ. ಸಾಧನವನ್ನು ಪ್ಲಗ್ ಮಾಡಿ">
 <!ENTITY connection.changeHostAndPort "ಬದಲಾಯಿಸು">
 
 <!ENTITY connection.startSimulator "ಸಿಮ್ಯುಲೇಟರ್ ಪ್ರಾರಂಭಿಸು">
@@ -70,8 +71,8 @@
 
 
 
-
-
+<!ENTITY projects.title "ಸ್ಥಳೀಯ ಅನ್ವಯಗಳು">
+<!ENTITY projects.appDetails "ಅನ್ವಯ ವಿವರಗಳು">
 
 <!ENTITY projects.updateApp "ಅಪ್‌ಡೇಟ್">
 
@@ -94,7 +95,7 @@
 <!ENTITY help.title "ಅನ್ವಯ ವ್ಯವಸ್ಥಾಪಕ">
 <!ENTITY help.close "ಮುಚ್ಚು">
 
-
+<!ENTITY help.usefullLinks "ಉಪಯುಕ್ತ ಕೊಂಡಿಗಳು:">
 
 
 <!ENTITY help.troubleShooting "ತೊಂದರೆನಿವಾರಣೆ">

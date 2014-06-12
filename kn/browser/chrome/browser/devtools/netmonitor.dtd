@@ -91,14 +91,20 @@
 <!ENTITY netmonitorUI.summary.url         "ಮನವಿ URL:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
+
+<!ENTITY netmonitorUI.summary.method      "ಮನವಿ ವಿಧಾನ:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
+
+<!ENTITY netmonitorUI.summary.status      "ಸ್ಥಿತಿ ಸಂಕೇತ:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
 <!ENTITY netmonitorUI.summary.version     "ಆವೃತ್ತಿ:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
+
+<!ENTITY netmonitorUI.summary.size        "ಹೆಡರ್ ಅಳತೆ:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 
@@ -123,6 +129,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
+
+<!ENTITY netmonitorUI.timings.dns         "DNS ರೆಸಲ್ಯೂಶನ್:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
@@ -131,6 +139,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
+
+<!ENTITY netmonitorUI.timings.send        "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
@@ -139,18 +149,28 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
+
+<!ENTITY netmonitorUI.timings.receive     "ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+
+<!ENTITY netmonitorUI.context.copyUrl     "URL ನಕಲಿಸು">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl    "cURL ಆಗಿ ನಕಲಿಸು">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
