@@ -13,6 +13,7 @@
 <!ENTITY port "Porta:">
 <!ENTITY connect "Ligar">
 <!ENTITY connecting "A ligar...">
+<!ENTITY availableAddons "Extras remotos disponíveis:">
 <!ENTITY availableTabs "Separadores remotos disponíveis:">
 <!ENTITY availableProcesses "Processos remotos disponíveis">
 <!ENTITY connectionError "Erro:">
