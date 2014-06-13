@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "ই-মেইল">
 <!ENTITY fxaccount_password_hint "পাছৱৰ্ড">
 <!ENTITY fxaccount_password_hide "লুকুৱাওক">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox একাওন্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সামৰ্থবান">
 <!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাওন্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
