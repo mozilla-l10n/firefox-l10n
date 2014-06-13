@@ -126,7 +126,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejeren af webstedet omkring dette problem.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
