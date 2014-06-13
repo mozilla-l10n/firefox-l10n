@@ -8,7 +8,7 @@
 #define bookmarks_heading Grāmatzīmes
 
 #define bookmarks_toolbarfolder Rīkjoslas grāmatzīmju mape
-#define bookmarks_toolbarfolder_description Pievienojiet grāmatzīmes šai mapei, lai redzētu tās uz savas grāmatzīmju rīkjosklas
+#define bookmarks_toolbarfolder_description Pievienojiet grāmatzīmes šai mapei, lai redzētu tās uz savas grāmatzīmju rīkjoslas
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
