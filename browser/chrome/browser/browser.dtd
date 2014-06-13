@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ਇਹ ਵਿਡੀਓ ਸਾਂਝੀ ਕਰੋ">
 <!ENTITY shareVideoCmd.accesskey "s">
-<!ENTITY feedsMenu.label "Subscribe">
+<!ENTITY feedsMenu.label "ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenuitem.label "…ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.label   "ਆਈਡਰੋਪਰ">
 <!ENTITY eyedropper.accesskey "Y">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -717,7 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "ਵਾਧੂ ਟੂਲ ਤੇ ਫੀਚਰ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ਹੋਰ ਟੂਲ ਚਾਹੀਦੇ ਹਨ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ਹਜ਼ਾਰਾ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "ਹਜ਼ਾਰਾਂ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ">
 <!ENTITY customizeMode.restoreDefaults "ਡਿਫਾਲਟ ਮੁੜ-ਸਟੋਰ">
 <!ENTITY customizeMode.toolbars "ਟੂਲਬਾਰ ਵੇਖਾਓ/ਓਹਲੇ">
 <!ENTITY customizeMode.titlebar "ਟਾਈਟਲਬਾਰ">
