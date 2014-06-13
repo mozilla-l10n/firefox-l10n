@@ -62,6 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Počet kariet: &formatD;">
 <!ENTITY new_tab_opened "Nová karta otvorená">
+<!ENTITY new_private_tab_opened "Nová súkromná karta otvorená">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PREPNÚŤ">
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
@@ -111,10 +116,13 @@
 <!ENTITY pref_home_updates "Automatické aktualizácie">
 <!ENTITY pref_home_updates_enabled "Povolené">
 <!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Zobrazovať navrhované stránky">
+<!ENTITY pref_home_suggested_sites_summary "Na vašej domovskej stránke zobrazuje odkazy na stránky, o ktorých si myslímte, že by Vás mohli zaujímať.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
 <!ENTITY pref_header_display "Zobrazovanie">
@@ -229,6 +237,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nikdy">
 <!ENTITY pref_update_autodownload_always "Vždy">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Pomocník">
+
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
@@ -336,6 +347,8 @@ size. -->
 <!ENTITY home_top_sites_add "Pridať stránku">
 
 <!ENTITY home_history_title "História">
+<!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
+<!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
