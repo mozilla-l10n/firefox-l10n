@@ -105,7 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "Panel byl odeslán">
 <!ENTITY sync.text.tab.not.sent.label "Při odesílání panelu nastala chyba.">
 
-<!-- Firefox account strings. -->
+<!-- Firefox Account strings. -->
+
+<!ENTITY fxaccount_full_label 'Firefox Accounts'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
+<!ENTITY fxaccount_status_device_name 'Název zařízení'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolen'>
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>

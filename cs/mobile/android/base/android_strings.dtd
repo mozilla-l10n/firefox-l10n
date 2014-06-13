@@ -14,7 +14,6 @@
 
 <!ENTITY  switch_to_tab "Přepnout na panel">
 
-
 <!ENTITY crash_reporter_title "Oznamovatel pádu">
 <!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
@@ -63,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; panely">
 <!ENTITY new_tab_opened "Nový panel otevřen">
+<!ENTITY new_private_tab_opened "Nový panel otevřen">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PŘEPNOUT">
 
 <!ENTITY settings "Nastavení">
 <!ENTITY settings_title "Nastavení">
-<!ENTITY pref_category_advanced "Pokročilé">
+<!ENTITY pref_category_advanced "Rozšířené">
 <!ENTITY pref_category_customize "Přizpůsobení">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Jazyk">
+<!ENTITY pref_browser_locale "Jazyk prohlížeče">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Systémové nastavení">
+
 <!ENTITY pref_category_search3 "Vyhledávání">
 <!ENTITY pref_category_search_summary "Přizpůsobte si své vyhledávací moduly">
 <!ENTITY pref_category_display "Zobrazení">
@@ -105,12 +121,15 @@
 <!ENTITY pref_home_updates "Automatické aktualizace">
 <!ENTITY pref_home_updates_enabled "Povoleno">
 <!ENTITY pref_home_updates_wifi "Pouze přes Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Zobrazit navrhované stránky">
+<!ENTITY pref_home_suggested_sites_summary "Zobrazí na vaší domovské stránce odkazy na stránky, u kterých si myslíme, že by vás mohly zaujmout">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Přizpůsobení">
 <!ENTITY pref_header_display "Zobrazení">
 <!ENTITY pref_header_privacy_short "Soukromí">
 <!ENTITY pref_header_help "Nápověda">
+<!ENTITY pref_header_language "Jazyk">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Nástroje vývojáře">
 
@@ -217,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nikdy">
 <!ENTITY pref_update_autodownload_always "Vždy">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Nápověda">
+
 <!ENTITY quit "Ukončit">
 
 <!ENTITY addons "Doplňky">
@@ -280,7 +302,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Rolovací hlavička okna">
 
-<!ENTITY history_removed "Stránka odebrána">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Stránka odebrána">
 
 <!ENTITY bookmark_edit_title "Upravit záložku">
 <!ENTITY bookmark_edit_name "Název">
@@ -295,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
-<!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
 <!ENTITY reading_list_duplicate "Stránka je již v Seznamu ke čtení">
 
@@ -322,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Přidat stránku">
 
 <!ENTITY home_history_title "Historie">
+<!ENTITY home_clear_history_button "Vymazat historii prohlížení">
+<!ENTITY home_clear_history_confirm "Jste si jist(a), že chcete vymazat svou historii?">
 <!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
 <!ENTITY home_last_tabs_title "Panely z minula">
 <!ENTITY home_last_tabs_open "Otevřít všechny panely z minula">
@@ -382,11 +408,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "Importovat">
 <!ENTITY bookmarkhistory_import_both "Importování záložek a historie z Androidu">
-
 <!ENTITY bookmarkhistory_import_bookmarks "Importování záložek z Androidu">
-
 <!ENTITY bookmarkhistory_import_history "Importování historie z Androidu">
-
 <!ENTITY bookmarkhistory_import_wait "Prosím čekejte...">
 
 <!ENTITY suggestions_prompt3 "Chcete zapnout našeptávač vyhledávání?">
@@ -402,7 +425,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY devtools_remote_debugging_forward "Nezapomeňte nastavit port pro přesměrování">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
 <!ENTITY updater_start_select2 "Klepněte pro stažení aktualizace">
 
@@ -435,3 +458,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Nabídka">
 <!ENTITY actionbar_done "Hotovo">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Poslední synchronizace: &formatS;">
