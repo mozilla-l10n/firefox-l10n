@@ -233,6 +233,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nikdy">
 <!ENTITY pref_update_autodownload_always "Vždy">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Pomocník">
+
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
