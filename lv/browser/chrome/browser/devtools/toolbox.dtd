@@ -117,7 +117,7 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Rādī sākotnējo kodu">
+<!ENTITY options.stylesheetSourceMaps.label      "Rādīt sākotnējo kodu">
 <!ENTITY options.stylesheetSourceMaps.tooltip    "Rādīt sākotnējo kodu (e.g. piem Sass failus) Stila redaktorā un Inspektorā">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
