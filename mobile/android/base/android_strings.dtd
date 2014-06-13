@@ -63,6 +63,10 @@
 <!ENTITY num_tabs2 "Počet kariet: &formatD;">
 <!ENTITY new_tab_opened "Nová karta otvorená">
 <!ENTITY new_private_tab_opened "Nová súkromná karta otvorená">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PREPNÚŤ">
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
