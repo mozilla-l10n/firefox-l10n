@@ -62,11 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ਟੈਬਾਂ">
 <!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੁੱਲ੍ਹੀ">
-<!ENTITY new_private_tab_opened "New private tab opened">
+<!ENTITY new_private_tab_opened "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਖੋਲ੍ਹੀ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SWITCH">
+<!ENTITY switch_button_message "ਬਦਲੋ">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
@@ -82,7 +82,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "System default">
+<!ENTITY locale_system_default "ਸਿਸਟਮ ਮੂਲ">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -120,8 +120,8 @@
 <!ENTITY pref_home_updates "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
 <!ENTITY pref_home_updates_enabled "ਚਾਲੂ ਹੈ">
 <!ENTITY pref_home_updates_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਉੱਤੇ">
-<!ENTITY pref_home_suggested_sites "Show site suggestions">
-<!ENTITY pref_home_suggested_sites_summary "Display shortcuts to sites on your homepage that we think you might find interesting">
+<!ENTITY pref_home_suggested_sites "ਸਾਈਟ ਸੁਝਾਅ ਵੇਖਾਓ">
+<!ENTITY pref_home_suggested_sites_summary "ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਸ਼ਾਰਟਕੱਟ ਵੇਖਾਓ, ਜੋ ਕਿ ਅਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਤੁਹਾਨੂੰ ਚੰਗੇ ਲੱਗ ਸਕਦੇ ਹਨ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
@@ -131,7 +131,7 @@
 <!ENTITY pref_header_display "ਡਿਸਪਲੇਅ">
 <!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_header_help "ਮਦਦ">
-<!ENTITY pref_header_language "Language">
+<!ENTITY pref_header_language "ਭਾਸ਼ਾ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
@@ -252,7 +252,7 @@ size. -->
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "Help">
+<!ENTITY help_menu "ਮਦਦ">
 
 <!ENTITY quit "ਬੰਦ ਕਰੋ">
 
@@ -288,7 +288,7 @@ size. -->
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "ਜੰਤਰ ਉੱਤੇ ਵੇਖਾਓ">
+<!ENTITY media_casting_to "ਯੰਤਰ ਉੱਤੇ ਵੇਖਾਓ">
 <!ENTITY media_play "ਚਲਾਓ">
 <!ENTITY media_pause "ਵਿਰਾਮ">
 <!ENTITY media_stop "ਰੋਕੋ">
@@ -321,7 +321,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Page removed">
+<!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 
@@ -363,8 +363,8 @@ size. -->
 <!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਿਲ">
 
 <!ENTITY home_history_title "ਅਤੀਤ">
-<!ENTITY home_clear_history_button "Clear browsing history">
-<!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
+<!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਵੇਖਾਈ ਦੇਣਗੇ।">	
 <!ENTITY home_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਤੋਂ ਸਾਈਟਾਂ">
 <!ENTITY home_last_tabs_open "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
@@ -416,7 +416,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "ਇਹ ਸਫ਼ਾ ਸਮੱਗਰੀ ਵੇਖਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ।">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ਨੇ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਸੀ।">
 <!ENTITY blocked_mixed_content_message_bottom "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਇਟ ਤਦ ਵੀ ਕੰਮ ਕਰਨਗੀਆਂ, ਭਾਵੇਂ ਕਿ ਇਹ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
-<!ENTITY learn_more "Learn More">
+<!ENTITY learn_more "ਹੋਰ ਜਾਣੋ">
 <!ENTITY enable_protection "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
 <!ENTITY disable_protection "ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
 <!ENTITY keep_blocking "ਪਾਬੰਦੀ ਜਾਰੀ ਰੱਖੋ">
@@ -482,4 +482,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "Last synced: &formatS;">
+<!ENTITY remote_tabs_last_synced "ਪਿਛਲਾ ਸਿੰਕ: &formatS;">

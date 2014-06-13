@@ -109,7 +109,7 @@
 
 <!-- Firefox Account strings. -->
 
-<!ENTITY fxaccount_full_label 'Firefox Accounts'>
+<!ENTITY fxaccount_full_label 'ਫਾਇਰਫਾਕਸ ਖਾਤੇ'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
