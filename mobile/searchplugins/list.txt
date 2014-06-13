@@ -1,4 +1,6 @@
-amazondotcom
+bing
+duckduckgo
+faclair-beag
 google
-twitter
-wikipedia
+wikipedia-gd
+yahoo-en-GB
