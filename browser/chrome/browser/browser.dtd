@@ -249,10 +249,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "Debugger Peramban">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "Kotak Alat Peramban">
+<!ENTITY browserToolboxMenu.accesskey "t">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.label              "Bilah Alat Pengembang">
@@ -263,7 +263,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Aktif/Nonaktifkan Alat">
 <!ENTITY devToolboxMenuItem.accesskey      "A">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Aktif/Nonaktifkan alat pengembang">
