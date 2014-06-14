@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Last ned/synkroniser nå …">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Innstillinger for frakoblet modus …">
-<!ENTITY settingsOfflineCmd.accesskey "I">
+<!ENTITY settingsOfflineCmd2.label "Frakoblet-innstillinger …">
+<!ENTITY settingsOfflineCmd2.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Last ned valgte meldinger">
 <!ENTITY downloadSelectedCmd.accesskey "n">
 <!ENTITY downloadStarredCmd.label "Last ned meldinger merket med stjerne">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Favorittmappe">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Egenskaper …">
-<!ENTITY folderPropsFolderCmd.label "Mappeegenskaper …">
-<!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for nyhetsgrupper …">
-<!ENTITY folderPropsCmd.accesskey "E">
+<!ENTITY folderPropsCmd2.label "Egenskaper">
+<!ENTITY folderPropsFolderCmd2.label "Mappeegenskaper">
+<!ENTITY folderPropsNewsgroupCmd2.label "Nyhetsgruppe-innstillinger">
+<!ENTITY folderPropsCmd.accesskey "N">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angre flytting av melding">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Nylig">
 <!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Kompakt visning">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Lagrede filer">
 <!ENTITY savedFiles.accesskey "L">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Meldingsfiltre …">
-<!ENTITY filtersCmd.accesskey "M">
+<!ENTITY filtersCmd2.label "Meldingsfiltre">
+<!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Utfør filtre på merkede meldinger">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Slett nylig historikk …">
 <!ENTITY clearRecentHistory.accesskey "n">
-<!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Kontoinnstillinger">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillat ekstern debugging">
 <!ENTITY allowRemoteDebugging.accesskey "T">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhold i denne meldingen">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
-<!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt innhold fra denne avsenderen">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "k">
+<!ENTITY editRemoteContentSettings.label "Innstillinger for eksternt innhold …">
+<!ENTITY editRemoteContentSettings.accesskey "n">
+<!ENTITY editRemoteContentSettingsUnix.label "Innstillinger for eksternt innhold …">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "n">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meldingen">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "M">
 <!ENTITY folderContextSearchForMessages.label "Søk i meldinger …">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Innstillinger …">
-<!ENTITY folderContextProperties.accesskey "I">
+<!ENTITY folderContextProperties2.label "Innstillinger">
+<!ENTITY folderContextProperties2.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Innstillinger …">
-<!ENTITY folderContextSettings.accesskey "n">
+<!ENTITY folderContextSettings2.label "Innstillinger">
+<!ENTITY folderContextSettings2.accesskey "n">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Navn eller e-postadresse inneholder:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Åpne melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Åpne melding i tilhørende mappe">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkiver">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Forstørr">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Innstillinger …">
+<!ENTITY preferencesCmdMac2.label       "Innstillinger">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tjenester">
