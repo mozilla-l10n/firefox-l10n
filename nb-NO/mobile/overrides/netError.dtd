@@ -112,14 +112,15 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sikker tilkobling feilet">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Siden du forsøker åpne kan ikke vises fordi identiteten til avsenderen av informasjonen ikke kunne bli kontrollert.</li>
-  <li>Kontakt nettstedseieren og informer om problemet. Du kan også rapportere nettstedet som ødelagt ved hjelp av Hjelp-menyen.</li>
+<!ENTITY nssFailure2.title "Sikker tilkobling mislyktes">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Siden du forsøker åpne kan ikke vises fordi det ikke kunne bekreftes at overført data er autentisk.</li>
+  <li>Kontakt nettstedseieren og informer om problemet.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Sikker tilkobling feilet">
+<!ENTITY nssBadCert.title "Sikker tilkobling mislyktes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Dette kan være på grunn av et problem med serverens innstillinger, eller det kan være
 at noen forsøker å etterligne serveren.</li>
