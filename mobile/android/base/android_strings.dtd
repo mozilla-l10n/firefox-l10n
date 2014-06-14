@@ -54,7 +54,7 @@
 <!ENTITY back "Tilbake">
 <!ENTITY stop "Stopp">
 <!ENTITY site_security "Nettstedssikkerhet">
-<!ENTITY save "Lagre">
+<!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lukk fane">
 <!ENTITY one_tab "1 fane">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
-<!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
+<!ENTITY pref_private_data_history2 "Nettleserhistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapsler og aktive innlogginger">
 <!ENTITY pref_private_data_passwords "Lagrede passord">
 <!ENTITY pref_private_data_cache "Hurtiglager">
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
 <!ENTITY pref_private_data_siteSettings2 "Nettstedsinnstillinger">
-<!ENTITY pref_private_data_downloadFiles "Nedlastede filer">
+<!ENTITY pref_private_data_downloadFiles2 "Nedlastinger">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
@@ -205,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
-<!ENTITY datareporting_wifi_title "&vendorShortName; stedsangivelse">
-<!ENTITY datareporting_wifi_summary "Hjelp å forbedre geoplasseringstjenester for den åpne webben ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; stedstjeneste">
+<!ENTITY datareporting_wifi_geolocation_summary "Mottar Wi-Fi og mobilnett-info når den kjører i bakgrunnen, og deler det med &vendorShortName; for å forbedre vår geolokasjon-tjeneste">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
