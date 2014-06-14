@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Vis artikkeloppsummering istedenfor å laste nettsiden">
 <!ENTITY quickMode.accesskey         "V">
 
+<!ENTITY autotagEnable.label         "Automatisk opprett tagger fra kildens &lt;kategori&gt;-navn">
+<!ENTITY autotagEnable.accesskey     "A">
+<!ENTITY autotagUsePrefix.label      "Prefiks på tagger:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
+
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
