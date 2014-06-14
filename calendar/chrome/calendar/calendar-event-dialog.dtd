@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Inviter deltakere">
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Foreslå tidsluke:">
-<!ENTITY event.freebusy.next.slot               "Neste tidsluke" >
-<!ENTITY event.freebusy.previous.slot           " Forrige tidsluke" >
+<!ENTITY event.freebusy.button.next.slot        "Neste tidsluke">
+<!ENTITY event.freebusy.button.previous.slot    "Forrige tidsluke">
 <!ENTITY event.freebusy.zoom                    "Forstørring:">
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Opptatt" >
