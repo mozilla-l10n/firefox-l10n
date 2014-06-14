@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Kontoen din må bekreftes. Trykk for å sende bekreftelsen på e-post igjen.'>
 <!ENTITY fxaccount_status_needs_credentials 'Klarte ikke koble til. Trykk for å logge inn.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du må oppgradere &brandShortName; for å logge inn.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Slå av/på “Auto-synkroniser data” i Android-innstillinger &gt; Databruk.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Trykk for å starte synkronisering.'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmerker'>
 <!ENTITY fxaccount_status_history 'Historikk'>
 <!ENTITY fxaccount_status_passwords 'Passord'>
