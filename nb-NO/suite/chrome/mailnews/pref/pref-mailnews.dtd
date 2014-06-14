@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Nyhetskilder">
 <!ENTITY setDefaultFeed.accesskey         "h">
 
+<!ENTITY useInternalSettings.description  "Bruk &brandShortName; E-post og nyhetsgrupper når nettleseren åpner lenker for:">
+<!ENTITY useInternalMail.label            "E-post (mailto:)">
+<!ENTITY useInternalMail.accesskey        "E">
+<!ENTITY useInternalNews.label            "Nyhetsgrupper (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "N">
+
 <!ENTITY messengerStartPage.caption       "Startside for e-post">
 <!ENTITY enableStartPage.label            "Vis denne startsiden i meldingsområdet ved oppstart">
 <!ENTITY enableStartPage.accesskey        "V">
