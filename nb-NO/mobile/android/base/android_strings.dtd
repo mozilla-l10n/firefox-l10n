@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Personvern">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datavalg">
+<!ENTITY pref_learn_more "Les mer">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
 <!ENTITY pref_category_add_search_providers "Legg til flere søketilbydere">
 <!ENTITY pref_category_search_restore_defaults "Tilbakestill søketilbydere">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "TIPS: Legg til et nettsted som søketilbyder ved å lang-trykke på søkefeltet og deretter velge &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utviklerverktøy">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
-<!ENTITY pref_developer_remotedebugging_docs "Les mer">
 <!ENTITY pref_remember_signons "Husk passord">
 
 <!ENTITY pref_category_home "Hjem">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Vis">
 <!ENTITY pref_panels_hide "Skjul">
+<!ENTITY pref_panels_reorder "Endre rekkefølge">
+<!ENTITY pref_panels_move_up "Flytt opp">
+<!ENTITY pref_panels_move_down "Flytt ned">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
 <!ENTITY datareporting_notification_action_long "Velg hvilken info som deles">
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
 
-<!ENTITY reading_list_add "Legg til i leselisten">
 <!ENTITY reading_list_added "Siden er lagt til i leselisten">
 <!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
 <!ENTITY reading_list_failed "Klarte ikke legge til siden i leselisten">
@@ -338,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Fant ikke noe innhold i dette panelet.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Opp til &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn et søkeord">
 
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; vil nå starte på nytt">
 <!ENTITY exit_guest_session_text "Nettleserdata fra denne økten vil bli slettet.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
