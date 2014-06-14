@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
@@ -27,22 +30,38 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100&#37; feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
+<!ENTITY rights2.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester på web som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100&#37; feilfrie eller nøyaktige. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
 <!ENTITY rights.intro-point4b "tjenestebetingelsene">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; informasjonstjenester">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; tilbyr valgfri tjenester (&quot;Tjenester&quot;), som oppdateringer av utvidelser, som er tilgjengelig for deg i den binære versjonen av &brandShortName; slik som det er beskrevet nedenfor. Dersom du ikke ønsker Tjenestene eller dersom vilkårene nedenfor ikke er akseptable, kan du slå av utvidelsesoppdateringstjenesten ved å åpne programinnstillingene, velge ">
-<!ENTITY rights.webservices-b "Avansert">
-<!ENTITY rights.webservices-c "-seksjonen, og deretter ">
-<!ENTITY rights.webservices-d "Programinstallasjon">
-<!ENTITY rights.webservices-e "-valget, og fjerne avkryssingen fra innstillingen &quot;Automatisk se etter oppdateringer til&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; tilbyr valgfri tjenester (&quot;Tjenester&quot;), som forslag til utvidelser og oppdateringer av utvidelser, eller trygg nettlesing-funksjonen, som er tilgjengelig for deg i den binære versjonen av &brandShortName; slik som det er beskrevet nedenfor. Dersom du ikke ønsker Tjenestene eller dersom vilkårene nedenfor ikke er akseptable, kan du finne instruksjoner om hvordan slå av den aktuelle tjenesten eller funksjonen ">
+<!ENTITY rights2.webservices-b "her">
+<!ENTITY rights2.webservices-c ". Andre funksjoner og tjenester kan slås av i programinnstillingene.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Utvidelses-tjenester: ">
+<!ENTITY rights.addons-b "Som standard vil &brandShortName; foreslå utvidelser på &view.discover.label;-siden, og søke etter oppdateringer med jevne mellomrom.  Dersom du ønsker slå av disse funksjonene for å unngå kommunisere informasjon om installerte utvidelser til serveren, følg disse stegene:">
+<!ENTITY rights.addons-term1 "Åpne programinnstillingene">
+<!ENTITY rights.addons-term2 "Velg &smart.label;-panelet i &advance.label;-kategorien">
+<!ENTITY rights.addons-term3 "Fjern avkryssingen til &quot;&autoAddOnsUpdates.label;&quot; og &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Utvidelsestjenestene er nå avslått">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
+<!ENTITY rights.safebrowsing-b "Å slå av trygg nettlesing-funksjonen er ikke anbefalt, ettersom det kan føre til at du besøker utrygge nettsted.  Dersom du ønsker slå av funksjonen fullstendig, følg disse stegene:">
+<!ENTITY rights.safebrowsing-term1 "Åpne programinnstillingene">
+<!ENTITY rights.safebrowsing-term2 "Velg hovedpanelet på &security.label;-panelet">
+<!ENTITY rights.safebrowsing-term3 "Fjern avkryssingen fra &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er nå avslått">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller forandre Tjenestene etter eget ønske.">
