@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Fullført">
 
 <!ENTITY popupIcon.tooltiptext      "Opphev blokkering av denne nettsidens sprettoppvinduer">
+
+<!ENTITY viewSecurityInfo.label      "Vis sikkerhetsinfo">
+<!ENTITY viewSecurityInfo.accesskey  "V">
+<!ENTITY viewCertificate.label       "Vis sertifikat">
+<!ENTITY viewCertificate.accesskey   "s">
+<!ENTITY viewCertManager.label       "Åpne sertifikatbehandler">
+<!ENTITY viewCertManager.accesskey   "n">
