@@ -57,11 +57,11 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Apenas sessão atual, recarrega a página">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3   "Ativar depuração chrome">
-<!ENTITY options.enableChrome.tooltip  "Se ativar esta opção pode utilizar várias ferramentas de programação no contexto do navegador">
+<!ENTITY options.enableChrome.label4   "Ativar chrome e a depuração do extra">
+<!ENTITY options.enableChrome.tooltip2 "Se ativar esta opção pode utilizar várias ferramentas de programação no contexto do navegador">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -134,6 +134,7 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Mostrar fontes originais">
 <!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar fontes originais (ex. ficheiros Sass) no editor de estilos e no Inspector">
+
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Completar CSS automaticamente">
@@ -143,6 +144,11 @@
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
 <!ENTITY options.profiler.label            "Perfil JavaScript">
+
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "Preferências comuns">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
