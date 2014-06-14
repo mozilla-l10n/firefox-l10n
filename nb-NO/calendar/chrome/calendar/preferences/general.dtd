@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
-<!ENTITY pref.defaultlength.label "Standard lengde på hendelser:" >
-<!ENTITY pref.defaultlength.accesskey "S">
-<!ENTITY pref.defaultsnoozelength.label "Standard lengde på pause:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "a">
+
+<!ENTITY pref.defaults.label "Standardverdier for nye elementer">
+<!ENTITY pref.events.label "Hendelser">
+<!ENTITY pref.tasks.label "Oppgaver">
+
+<!ENTITY pref.default_event_length.label "Standard lengde:" >
+<!ENTITY pref.default_event_length.accesskey "S">
+
+<!ENTITY pref.default_task_none.label "Ingen">
+<!ENTITY pref.default_task_start_of_day.label "Starten av dagen">
+<!ENTITY pref.default_task_end_of_day.label "Slutten av dagen">
+<!ENTITY pref.default_task_tomorrow.label "I morgen">
+<!ENTITY pref.default_task_next_week.label "Neste uke">
+<!ENTITY pref.default_task_offset_current.label "Relativ til nåværende tid">
+<!ENTITY pref.default_task_offset_start.label "Relativ til start">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativ til neste time">
 
 <!ENTITY pref.accessibility.label "Tilgjengelighet" >
 <!ENTITY pref.systemcolors.label "Optimaliser farger for tilgjengelighet" >

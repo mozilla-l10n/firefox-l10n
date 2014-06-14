@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "g">
 <!ENTITY pref.defaultemail.label "Standard leverinsadresse for alarmer:">
 <!ENTITY pref.defaulttext.label "Standard tekst for alarmer:">
+
+<!ENTITY pref.defaultsnoozelength.label "Standard pause-lengde:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

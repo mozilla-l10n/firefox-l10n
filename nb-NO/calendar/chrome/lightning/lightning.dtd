@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-postadresse:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Denne meldingen inneholder en invitasjon.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Aksepter">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Aksepter arrangementinvitasjon">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Aksepter alle">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Aksepter invitasjon til arrangement for alle oppføringer av arrangementet">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Legg til">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Legg til arrangement i kalenderen">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Avvis">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avvis arrangementinvitasjon">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avvis alle">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avvis arrangementinvitasjon for alle oppføringer av arrangementet">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Slett">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slett fra kalenderen">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer …">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Vis detaljer">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Mer">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å vise flere valg">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekreft på nytt">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Send en ny bekreftelse til arrangementinnkaller">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Med forbehold">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Aksepter arrangementinvitasjon med forbehold">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med forbehold">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aksepter arrangementinvitasjon med forbehold, for alle oppføringer av arrangementet">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Oppdater">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Oppdater arrangement i kalenderen">
+<!ENTITY lightning.imipbar.description                                      "Denne meldingen inneholder en invitasjon til et arrangement.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
