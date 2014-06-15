@@ -11,6 +11,7 @@
 <!ENTITY toolboxZoomIn.key2 "=">
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
+<!ENTITY toolboxReload.key "r">
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
 <!ENTITY options.context.inspector "Inspector">
 <!ENTITY options.showUserAgentStyles.label "Mostrar estilos del navegador">
