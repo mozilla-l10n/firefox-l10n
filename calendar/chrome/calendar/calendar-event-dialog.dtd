@@ -337,8 +337,8 @@
 <!ENTITY invite.title.label              "Dielnimmers útnoegje">
 <!ENTITY event.organizer.label           "Organisator">
 <!ENTITY event.freebusy.suggest.slot     "Frij plak foarstelle:">
-<!ENTITY event.freebusy.next.slot        "Folgjende frije plak " >
-<!ENTITY event.freebusy.previous.slot    " Foarige frije plak" >
+<!ENTITY event.freebusy.button.next.slot "Folgjende plak " >
+<!ENTITY event.freebusy.button.previous.slot    " Foarige plak" >
 <!ENTITY event.freebusy.zoom             "Zoomen:">
 <!ENTITY event.freebusy.legend.free      "Beskikber" >
 <!ENTITY event.freebusy.legend.busy      "Beset" >
