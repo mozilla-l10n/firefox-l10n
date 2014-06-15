@@ -507,6 +507,7 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY webrtcIndicatorButton.label "Acceso a la cámara y micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Muestra los sitios con los que está actualmente compartiendo su cámara o micrófono">
+<!ENTITY loopCallButton.tooltip "Invite alguien a hablar">
 <!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
 <!ENTITY pointerLock.notification.message "Presiona ESC (Escape) en cualquier momento para mostrarlo de nuevo.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
