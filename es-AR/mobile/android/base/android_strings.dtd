@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
+<!ENTITY new_private_tab_opened "Se abrió nueva pestaña privada">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "CAMBIAR">
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzada">
 <!ENTITY pref_category_customize "Personalizar">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Idioma">
+<!ENTITY pref_browser_locale "Idioma del navegador">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Configuración predeterminada del sistema">
+
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Actualizaciones automáticas">
 <!ENTITY pref_home_updates_enabled "Habilitadas">
 <!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitios">
+<!ENTITY pref_home_suggested_sites_summary "Mostrar accesos a sitios en tu página de inicio que pensamos que podés encontrar interesantes">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Pantalla">
 <!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_help "Ayuda">
+<!ENTITY pref_header_language "Idioma">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Herramientas de desarrollo">
 
@@ -216,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Ayuda">
+
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
@@ -279,7 +302,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Desplazar barra de título">
 
-<!ENTITY history_removed "Página eliminada">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Página eliminada">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
-<!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya agregada a tu lista de lectura">
 
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Agregar un sitio">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_clear_history_button "Limpiar historial de navegación">
+<!ENTITY home_clear_history_confirm "¿Querés limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardés van a aparecer acá.">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
 <!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
@@ -434,3 +461,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Listo">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
+

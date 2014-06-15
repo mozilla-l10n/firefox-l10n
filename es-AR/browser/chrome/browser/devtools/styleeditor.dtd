@@ -22,7 +22,11 @@
 
 <!ENTITY saveButton.label           "Guardar">
 <!ENTITY saveButton.tooltip         "Guardar esta hoja de estilo en un archivo">
-<!ENTITY saveButton.accesskey       "G">
+<!ENTITY saveButton.accesskey       "s">
+
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "reglas @media">
 
 <!ENTITY editorTextbox.placeholder  "Ingrese CSS aquí.">
 

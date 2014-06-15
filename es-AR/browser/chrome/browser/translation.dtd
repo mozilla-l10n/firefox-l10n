@@ -46,3 +46,9 @@
 <!ENTITY translation.tryAgain.button            "Intentar nuevamente">
 
 <!ENTITY translation.options.menu               "Opciones">
+
+<!ENTITY translation.options.neverForSite.label "Nunca traducir este sitio">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Preferencias de traducción">
+<!ENTITY translation.options.preferences.accesskey "t">
+
