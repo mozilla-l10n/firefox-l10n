@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                    "Klicken, um mehr Optionen anzuzeigen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                    "Erneut bestätigen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext               "Erneute Bestätigung an Organisator senden">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                      "Kopie speichern">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                "Eine Kopie des Termins im Kalender speichern, unabhängig von einer Antwort an den Organisator. Die Teilnehmerliste wird geleert werden.">
 <!ENTITY lightning.imipbar.btnTentative.label                     "Vorläufig">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext              "Termineinladung vorläufig akzeptieren">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label          "Alle vorläufig">
