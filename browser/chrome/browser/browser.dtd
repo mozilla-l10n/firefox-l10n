@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Нов подпрозорец">
 <!ENTITY tabCmd.accesskey "д">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Отваряне на адрес…">
 <!ENTITY openFileCmd.label "Отваряне на файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
 <!ENTITY backCmd.label                "Назад">
-<!ENTITY backCmd.accesskey            "з">
 <!ENTITY backButton.tooltip           "Назад една страница">
 <!ENTITY forwardCmd.label             "Напред">
-<!ENTITY forwardCmd.accesskey         "п">
 <!ENTITY forwardButton.tooltip        "Напред една страница">
 <!ENTITY backForwardButtonMenu.tooltip "Натиснете с десния бутон или дръпнете надолу, за да се покаже историята">
 <!ENTITY backForwardButtonMenuMac.tooltip "Дръпнете надолу, за да се покаже историята">
 <!ENTITY reloadCmd.label              "Презареждане">
-<!ENTITY reloadCmd.accesskey          "з">
 <!ENTITY reloadButton.tooltip         "Презареждане на текущата страница">
 <!ENTITY stopCmd.label                "Спиране">
-<!ENTITY stopCmd.accesskey            "С">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Спиране зареждането на тази страница">
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "к">
 
 <!ENTITY downloads.label              "Изтегляния">
-<!ENTITY downloads.tooltip            "Показване напредъка на изтеглянията">
 <!ENTITY downloads.accesskey          "т">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -231,6 +230,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Изглед на нагаждащ се дизайн">
 <!ENTITY responsiveDesignTool.accesskey "н">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "Капкомер">
+<!ENTITY eyedropper.accesskey "К">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -437,14 +439,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "П">
 <!ENTITY bookmarkPageCmd2.label       "Отмятане на тази страница">
-<!ENTITY bookmarkPageCmd2.accesskey   "О">
 <!ENTITY bookmarkThisLinkCmd.label      "Отмятане на тази връзка">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ъ">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на тази рамка">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY emailPageCmd.label           "Изпращане на връзката като мейл…">
 <!ENTITY emailPageCmd.accesskey       "в">
-<!ENTITY switchToMetroCmd.label       "Пускане наново в &brandShortName; за Windows 8">
 <!ENTITY savePageCmd.label            "Запис на страницата като…">
 <!ENTITY savePageCmd.accesskey        "к">
 <!-- alternate for content area context menu -->
@@ -562,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Мащабиране">
 <!ENTITY fullZoom.accesskey             "М">
 
-<!ENTITY newTabButton.tooltip           "Отваряне на нов подпрозорец">
-<!ENTITY newWindowButton.tooltip        "Отваряне на нов прозорец">
 <!ENTITY sidebarCloseButton.tooltip     "Затваряне на страничната лента">
-
-<!ENTITY fullScreenButton.tooltip       "Показване на прозореца в цял екран">
 
 <!ENTITY quitApplicationCmdWin.label       "Изход"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "х">
@@ -736,47 +732,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Опит отново">
 
 <!ENTITY uiTour.infoPanel.close "Затваряне">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "н">
-<!ENTITY addonBarCmd.label             "Лента на добавките">
-<!ENTITY addonBarCmd.accesskey         "д">
-<!ENTITY throbberItem.title            "Индикатор за активност">
-<!ENTITY appMenuButton.label           "Меню">
-<!ENTITY appMenuButton.tooltip         "Отваряне менюто на &brandShortName;">
-<!ENTITY feedButton.label              "Абониране">
-<!ENTITY feedButton.tooltip            "Абониране за тази страница…">
-<!ENTITY bookmarksButton.tooltip       "Показване на отметките">
-<!ENTITY historyButton.tooltip         "Последно разглеждани страници">
-<!ENTITY viewTabsOnTop.label           "Подпрозорците отгоре">
-<!ENTITY viewTabsOnTop.accesskey       "П">
-<!ENTITY appMenuEdit.label             "Редактиране">
-<!ENTITY appMenuToolbarLayout.label    "Оформяне на лентата…">
 <!ENTITY appMenuSidebars.label         "Странична лента">
-<!ENTITY appMenuFind.label             "Търсене…">
-<!ENTITY appMenuUnsorted.label         "Неподредени отметки">
-<!ENTITY appMenuWebDeveloper.label     "Уеб разработчик">
-<!ENTITY appMenuGettingStarted.label   "Начални насоки на Firefox">
-<!ENTITY appMenuSafeMode.label         "Рестартиране с деактивирани добавки…">
-<!ENTITY appMenuSafeMode.accesskey     "Р">
-<!ENTITY cutButton.tooltip             "Изрязване">
-<!ENTITY copyButton.tooltip            "Копиране">
-<!ENTITY pasteButton.tooltip           "Поставяне">
-<!ENTITY zoomOutButton.tooltip         "Намаляване">
-<!ENTITY zoomInButton.tooltip          "Увеличаване">
-<!ENTITY zoomControls.label            "Бутони за увеличаване/намаляване">
-<!ENTITY addonBarCloseButton.tooltip   "Затваряне на лентата за добавки">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Назад/Напред">
-<!ENTITY viewBookmarksSidebar.label    "Показване в страничната лента">
-<!ENTITY bookmarksItem.title           "Отметки">
-<!ENTITY openLocationCmd.label         "Отваряне на адрес…">
-<!ENTITY openLocationCmd.accesskey     "а">
-<!ENTITY bookmarksMenuButton.tooltip   "Показване на отметките">
+
 <!ENTITY switchToMetroCmd2.label       "Пускане наново в &brandShortName; за Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Групиране на подпрозорците">
-<!-- end of strings to be removed post-Australis -->
+
