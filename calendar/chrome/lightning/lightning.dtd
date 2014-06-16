@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ďalšie možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opäť potvrdiť">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Odošlať opätovné potvrdenie organizátorovi">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložiť kópiu">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Uložiť kópiu udalosti do kalendára nezávisle na odpovedi organizátorovi. Zoznam účastníkov bude vymazaný.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Predbežne prijať">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Predbežne prijať pozvánku na udalosť">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Predbežne prijať všetky">
