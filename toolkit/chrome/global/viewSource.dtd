@@ -66,6 +66,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY backCmd.label "பின்னால்">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "முன்னால்">

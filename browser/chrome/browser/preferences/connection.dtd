@@ -11,11 +11,11 @@
 <!ENTITY  noProxyTypeRadio.label        "Proxy இல்லை">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "கணினியின் Proxy அமைப்பைப் பயன்படுத்துக">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "வலையமைப்பிற்கான Proxy இனை தன்னிச்சையாக கண்டறிக">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "கைமுறை Proxy அமைப்பு:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "தானியக்க Proxy அமைப்பு URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "மீளேற்றுக">
@@ -32,13 +32,18 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+
+
 <!ENTITY  port.label                    "துறை:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "இதற்கு Proxy இல்லை:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "எடுத்துக்காட்டு: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "இந்த proxy இனை அனைத்து நெறிமுறைகளிலும் பயன்படுத்துக">
 <!ENTITY  shareproxy.accesskey          "s">
+
+
+

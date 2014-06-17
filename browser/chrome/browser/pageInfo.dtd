@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "அமர்வுக்கு அனுமதி">
 <!ENTITY  permBlock             "தடுக்க">
 <!ENTITY  permissionsFor        "அனுமதி:">
-<!ENTITY  permImage             "படங்களை ஏற்றுக">
-<!ENTITY  permPopup             "முன்னெழும் சாளரங்களைத் திறக்க">
-<!ENTITY  permCookie            "குக்கீகளை அமைக்க">
-<!ENTITY  permNotifications     "அறிப்புகளைக் காட்டுக">
-<!ENTITY  permInstall           "நீட்சிகளை அல்லது அலங்காரங்களை நிறுவுக">
-<!ENTITY  permGeo               "இடத்தினை பகிர்க">
 <!ENTITY  permPlugins           "செருகல்களைச் செயற்படுத்துக">
-<!ENTITY  permFullscreen        "முழுத்திரையாக்குக">
-<!ENTITY  permPointerLock2      "சுட்டியை மறைக்க">
 
-<!ENTITY  permIndexedDB              "இணைப்பில்லாநிலை நினைவகத்தினை பராமரிக்குக">
 <!ENTITY  permClearStorage           "நினைவகத்தினை அழிக்க">
 
 
@@ -85,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "இணையத்தளம்:">
 <!ENTITY  securityView.identity.verifier "சரிபார்த்தவர்: ">
 
-<!ENTITY  securityView.privacy.header                   "தனிப்பட்ட &amp; வரலாறு">
 <!ENTITY  securityView.privacy.history                  "இன்று நான் இந்த இணையதளத்தை இதற்குமுன் பார்த்தேனா?">
 <!ENTITY  securityView.privacy.cookies                  "இந்த இணையத்தளம் தகவல்களை (குக்கீகளை) என் கணினியில் சேமிக்கிறதா?">
 <!ENTITY  securityView.privacy.viewCookies              "குக்கீகளைக் காட்டுக">
