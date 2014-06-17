@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Պատճենել ունիկալ ընտրիչը">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "ո">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Հեռացնել հանգույցը">
 <!ENTITY inspectorHTMLDelete.accesskey      "Հ">
 
