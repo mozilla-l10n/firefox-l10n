@@ -343,6 +343,8 @@ size. -->
 <!ENTITY home_top_sites_add "Een website toevoegen">
 
 <!ENTITY home_history_title "Geschiedenis">
+<!ENTITY home_clear_history_button "Geschiedenis wissen">
+<!ENTITY home_clear_history_confirm "Weet u zeker dat u uw geschiedenis wilt wissen?">
 <!ENTITY home_bookmarks_empty "Opgeslagen bladwijzers verschijnen hier.">
 <!ENTITY home_last_tabs_title "Tabbladen van de vorige keer">
 <!ENTITY home_last_tabs_open "Alle tabbladen van de vorige keer openen">
