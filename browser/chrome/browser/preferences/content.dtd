@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "पृष्ठ प्रदर्शन के लिए अपनी पसंदीदा भाषा का चयन करें">
 <!ENTITY chooseButton.label           "चयन करें (o)...">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "अपवाद...(x)">
+<!ENTITY translateExceptions.accesskey "x">
