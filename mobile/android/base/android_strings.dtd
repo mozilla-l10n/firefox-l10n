@@ -55,6 +55,7 @@
 <!ENTITY stop "หยุด">
 <!ENTITY site_security "ความปลอดภัยของเว็บไซต์">
 
+
 <!ENTITY close_tab "ปิดแท็ป">
 <!ENTITY one_tab "1 แท็บ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
@@ -62,37 +63,65 @@
 <!ENTITY num_tabs2 "&formatD; แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "ค้นหา">
+
 <!ENTITY pref_category_display "การแสดงผล">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
+<!ENTITY pref_learn_more "เรียนรู้เพิ่ม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
 <!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
 <!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
 <!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "เคล็ดลับ : เพิ่มเว็บไซต์ใดๆ เข้าในรายการเครื่องมือค้นหาได้โดยการแตะช่องค้นหาของเว็บไซต์นั้นค้างไว้สักครู่">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
-<!ENTITY pref_developer_remotedebugging_docs "เรียนรู้เพิ่ม">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
 
 <!ENTITY pref_category_home "หน้าหลัก">
+
 <!ENTITY pref_category_home_panels "แผง">
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+<!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
+
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
 <!ENTITY pref_header_display "การแสดงผล">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
-<!ENTITY pref_header_help "วิธีใช้">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
 
@@ -141,14 +170,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
-<!ENTITY pref_private_data_history "ประวัติการท่องเว็บและการดาวน์โหลด">
-<!ENTITY pref_private_data_formdata "ประวัติการกรอกฟอร์มและการค้นหา">
-<!ENTITY pref_private_data_cookies2 "คุกกี้ &amp; ล็อกอินที่เข้าใช้อยู่">
+
+
+
 <!ENTITY pref_private_data_passwords "รหัสผ่านที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่ารายเว็บ">
-<!ENTITY pref_private_data_downloadFiles "แฟ้มที่ดาวน์โหลดแล้ว">
+
 
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
@@ -164,12 +193,14 @@ size. -->
 <!ENTITY pref_panels_show "แสดง">
 <!ENTITY pref_panels_hide "ซ่อน">
 
-<!ENTITY datareporting_notification_title "สถิติและข้อมูลของ &brandShortName;">
+
+
+
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -186,21 +217,22 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
-<!ENTITY datareporting_wifi_title "&vendorShortName; บริการแจ้งตำแหน่ง">
-<!ENTITY datareporting_wifi_summary "ช่วยปรับปรุงบริการแจ้งตำแหน่งให้กับ Open Web โดยยินยอมให้ &brandShortName; เก็บและส่งข้อมูลโครงข่ายสัญญาณมือถือแบบไม่ระบุตัวตน">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
 <!ENTITY pref_update_autodownload2 "ดาวน์โหลดการปรับปรุงโดยอัตโนมัติ">
-<!ENTITY pref_update_autodownload_wifi "เฉพาะตอนที่ใช้ Wi-Fi">
+
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
 <!ENTITY pref_update_autodownload_always "เปิดใช้เสมอ">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "ออก">
 
 <!ENTITY addons "ส่วนเสริม">
-<!ENTITY downloads "ดาวน์โหลด">
+
 <!ENTITY apps "แอป">
 <!ENTITY char_encoding "รหัสอักขระ">
 
@@ -210,6 +242,7 @@ size. -->
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
 <!ENTITY desktop_mode "เรียกเว็บสำหรับเดสก์ท็อป">
+
 <!ENTITY tools "เครื่องมือ">
 <!ENTITY new_tab "แท็บใหม่">
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
@@ -240,7 +273,7 @@ size. -->
 <!ENTITY contextmenu_remove "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
-<!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
+
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "คัดลอกที่อยู่">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
@@ -258,8 +291,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "เลื่อนแถบหัวเรื่อง">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "หน้าเว็บถูกลบ">
+<!ENTITY page_removed "หน้าเว็บถูกลบ">
 
 <!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
 <!ENTITY bookmark_edit_name "ชื่อ">
@@ -274,7 +310,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 
 <!ENTITY reading_list_added "เพิ่มหน้าเว็บเข้ารายการอ่านของคุณแล้ว">
-<!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
 <!ENTITY reading_list_failed "ไม่สามารถเพิ่มหน้าเว็บเข้ารายการอ่านของคุณ">
 <!ENTITY reading_list_duplicate "หน้าเว็บนี้มีอยู่ในรายการอ่านแล้ว">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -301,6 +336,8 @@ size. -->
 <!ENTITY home_top_sites_add "เพิ่มเว็บไซต์">
 
 <!ENTITY home_history_title "ประวัติ">
+
+
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY home_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
@@ -310,12 +347,15 @@ size. -->
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "เคล็ดลับ : บันทึกบทความลงรายการอ่านได้โดยการแตะที่ไอคอน &#037;I ค้างไว้ เมื่อปรากฏบนแถบหัวเรื่อง">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "เคล็ดลับ : บันทึกบทความลงรายการอ่านของคุณโดยแตะค้างที่ปุ่มโหมดตัวอ่าน เมื่อปรากฏบนแถบหัวเรื่อง">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 <!ENTITY pin_site_dialog_hint "ระบุคำค้น">
 
@@ -359,10 +399,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "นำเข้าประวัติการท่องเว็บ 
 จาก Android">
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "คุณต้องการเปิดใช้งานการแนะนำคำค้นของ &formatS; ?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -397,8 +434,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "เมนู">
 <!ENTITY actionbar_done "เสร็จ">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

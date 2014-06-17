@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "หมดเวลาการเชื่อมต่อ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "ไม่เข้าใจที่ตั้งนี้">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่ตั้งนี้">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>คุณอาจต้องติดตั้งโปรแกรมอื่นเพื่อเปิดที่ตั้งนี้</li> 
 </ul>">
 
@@ -99,10 +99,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "การเชื่อมต่อนิรภัยล้มเหลว">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>ไม่สามารถแสดงผลหน้าที่คุณพยายามเปิดดูได้ เนื่องจากไม่สามารถตรวจสอบว่าเนื้อหาที่ได้รับเป็นของจริง</li> 
-<li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้ หรือนอกจากนี้ สามารถใช้คำสั่งจากเมนูวิธีใช้ เพื่อรายงานเว็บที่มีปัญหา</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "การเชื่อมต่อนิรภัยล้มเหลว">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

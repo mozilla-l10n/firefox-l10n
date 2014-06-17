@@ -23,3 +23,5 @@
 <!ENTITY  paneSync.title          "Sync">
 <!ENTITY  buttonForward.tooltip   "ไปหน้าถัดไป">
 <!ENTITY  buttonBack.tooltip      "ถอยไปหน้าที่แล้ว">
+
+<!ENTITY  helpButton.label        "วิธีใช้">

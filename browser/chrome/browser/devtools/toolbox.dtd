@@ -15,6 +15,7 @@
 <!-- + is above this key on many keyboards -->
 
 
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -23,6 +24,10 @@
   -  the heading of the Inspector group in the options panel. -->
 
 <!ENTITY options.context.inspector "ตัวตรวจสอบ">
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -117,12 +122,12 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogging.label    "เปิดใช้งาน persistent logs">
+<!ENTITY options.enablePersistentLogs.label    "เปิดใช้งาน persistent logs">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

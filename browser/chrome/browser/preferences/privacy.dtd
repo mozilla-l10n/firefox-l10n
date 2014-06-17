@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "บอกเว็บไซต์ว่าไม่ต้องตามรอยฉัน">
 <!ENTITY dntTrackingNotOkay.accesskey   "บ">
 <!ENTITY dntTrackingOkay.label2         "บอกเว็บไซต์ว่าฉันอยากให้ตามรอย">
-<!ENTITY dntTrackingOkay.accesskey      "ต">
+<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
 
 <!ENTITY  history.label                 "ประวัติ">

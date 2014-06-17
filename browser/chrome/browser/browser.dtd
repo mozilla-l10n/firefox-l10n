@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "แท็บใหม่">
 <!ENTITY tabCmd.accesskey "ท">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "เปิดที่ตั้ง…">
 <!ENTITY openFileCmd.label "เปิดแฟ้ม…">
 <!ENTITY openFileCmd.accesskey "ป">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
-<!ENTITY backCmd.accesskey            "ย">
 <!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY forwardCmd.label             "ถัดไป">
-<!ENTITY forwardCmd.accesskey         "ถ">
 <!ENTITY forwardButton.tooltip        "ถัดไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ดึงลงเพื่อแสดงประวัติ">
 <!ENTITY reloadCmd.label              "เรียกใหม่">
-<!ENTITY reloadCmd.accesskey          "ร">
 <!ENTITY reloadButton.tooltip         "เรียกหน้าปัจจุบันใหม่">
 <!ENTITY stopCmd.label                "หยุด">
-<!ENTITY stopCmd.accesskey            "ห">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "หยุดการโหลดหน้านี้">
 <!ENTITY goEndCap.tooltip             "ไปยังที่ตั้งที่ป้อน">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "ค">
 
 <!ENTITY downloads.label              "ดาวน์โหลด">
-<!ENTITY downloads.tooltip            "แสดงความคืบหน้าของการดาวน์โหลดที่ดำเนินอยู่">
 <!ENTITY downloads.accesskey          "ด">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นภาพพื้นหลัง…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
 <!ENTITY bookmarkPageCmd2.label       "คั่นหน้าเว็บนี้">
-<!ENTITY bookmarkPageCmd2.accesskey   "ค">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ย่อ-ขยาย">
 <!ENTITY fullZoom.accesskey             "ข">
 
-<!ENTITY newTabButton.tooltip           "เปิดแท็บใหม่">
-<!ENTITY newWindowButton.tooltip        "เปิดหน้าต่างใหม่">
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
-
-<!ENTITY fullScreenButton.tooltip       "แสดงหน้าต่างแบบเต็มหน้าจอ">
 
 <!ENTITY quitApplicationCmdWin.label       "ออก"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "อ">
