@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "องค์กร (O)">
 <!ENTITY certmgr.certdetail.ou                "หน่วยงาน (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "เลขอนุกรม">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "ลายนิ้วมือ SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "ลายนิ้วมือ MD5">
 
 <!ENTITY certmgr.editcert.title               "แก้ไขการตั้งค่าใบรับรองความปลอดภัย">
 <!ENTITY certmgr.editcacert.title             "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรอง CA">

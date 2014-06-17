@@ -126,9 +126,9 @@
 <!ENTITY certificateTab.label            "ใบรับรอง">
 <!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว :">
 <!ENTITY certs.auto                      "เลือกอัตโนมัติ">
-<!ENTITY certs.auto.accesskey            "อ">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
-<!ENTITY certs.ask.accesskey             "ถ">
+<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY viewCerts.label                 "ดูใบรับรอง">
 <!ENTITY viewCerts.accesskey             "ด">
 <!ENTITY verify2.label                   "ตรวจสอบความถูกต้อง">

@@ -27,3 +27,8 @@
 <!ENTITY chooseLanguage.label         "เลือกภาษาที่อยากให้แสดงในหน้าเว็บ">
 <!ENTITY chooseButton.label           "เลือก…">
 <!ENTITY chooseButton.accesskey       "ล">
+
+<!ENTITY translateWebPages.label      "แปลเนื้อหาเว็บ">
+<!ENTITY translateWebPages.accesskey  "แ">
+<!ENTITY translateExceptions.label    "ข้อยกเว้น…">
+<!ENTITY translateExceptions.accesskey "ข">
