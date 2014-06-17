@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "Elegir el idioma preferido para mostrar las páginas web">
 <!ENTITY chooseButton.label           "Seleccionar…">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "Excepciones…">
+<!ENTITY translateExceptions.accesskey "x">
