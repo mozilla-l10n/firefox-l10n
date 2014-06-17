@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Sayfa yükleme hatası">
-<!ENTITY retry.label "Yeniden Dene">
+<!ENTITY retry.label "Yeniden dene">
 <!-- Specific error messages -->
 
 
@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Site bağlantı isteğine hiç beklenmeyen bir biçimde karşılık verdi ve tarayıcı bu girişimi daha fazla sürdürmeyecek.</p>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatalı">
-<!ENTITY nssFailure2.longDesc "<p>Görüntülemeye çalıştığınız sayfa gösterilemiyor çünkü alınan verilerin gerçekliği doğrulanamadı.</p><ul><li>Bu sorunu bildirmek için lütfen site sahipleriyle iletişime geçin.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Görüntülemeye çalıştığınız sayfa gösterilemiyor çünkü alınan verilerin gerçekliği doğrulanamadı.</p><ul><li>Bu sorunu bildirmek için lütfen site sahipleriyle iletişime geçin.</li></ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
