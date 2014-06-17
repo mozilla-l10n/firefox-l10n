@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Pestaña nueva">
 <!ENTITY tabCmd.accesskey "n">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
+
 <!ENTITY editThisBookmarkCmd.label "Editar el marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "d">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
-<!ENTITY backCmd.label                "Anterior">
-<!ENTITY backCmd.accesskey            "A">
 <!ENTITY backButton.tooltip           "Regresar una página">
-<!ENTITY forwardCmd.label             "Siguiente">
-<!ENTITY forwardCmd.accesskey         "S">
+
 <!ENTITY forwardButton.tooltip        "Avanzar una página">
 <!ENTITY backForwardButtonMenu.tooltip "Clic secundario o arrastrar para mostrar el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastrar para mostrar el historial">
-<!ENTITY reloadCmd.label              "Recargar">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
-<!ENTITY stopCmd.label                "Detener">
-<!ENTITY stopCmd.accesskey            "D">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detener la carga de esta página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la Barra de ubicaciones.">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "p">
 
 <!ENTITY downloads.label              "Descargas">
-<!ENTITY downloads.tooltip            "Mostrar el progreso de las descargas en curso">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -438,8 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Establecer como fondo de escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Agregar esta página a marcadores">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Agregar este enlace a marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agregar este marco a marcadores">
@@ -563,11 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Tamaño">
 <!ENTITY fullZoom.accesskey             "T">
 
-<!ENTITY newTabButton.tooltip           "Abrir una pestaña nueva">
-<!ENTITY newWindowButton.tooltip        "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip     "Cerrar barra lateral">
-
-<!ENTITY fullScreenButton.tooltip       "Mostrar ventana en pantalla completa">
 
 <!ENTITY quitApplicationCmdWin.label       "Salir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
