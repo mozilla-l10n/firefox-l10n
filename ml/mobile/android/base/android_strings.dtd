@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ടാബുകള്‍">
 <!ENTITY new_tab_opened "പുതിയ ടാബ് തുറന്നു">
+<!ENTITY new_private_tab_opened "പുതിയ സ്വകാര്യ ടാബ് തുറന്നു">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "സജ്ജീകരണങ്ങള്‍">
 <!ENTITY settings_title "സജ്ജീകരണങ്ങള്‍">
 <!ENTITY pref_category_advanced "സങ്കീര്‍ണ്ണമായവ...">
 <!ENTITY pref_category_customize "ഇഷ്ടാനുസൃതമാക്കുക">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "ഭാഷ">
+<!ENTITY pref_browser_locale "ബ്രൗസറിനുള്ള ഭാഷ">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "സ്വതവേയുള്ളതു്">
+
 <!ENTITY pref_category_search3 "തിരയുക">
 <!ENTITY pref_category_search_summary "തിരയല്‍ സേവന ദാതാക്കളെ ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY pref_category_display "പ്രദര്‍ശനം">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍">
 <!ENTITY pref_home_updates_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_home_updates_wifi "വൈ-ഫൈ വഴി മാത്രം">
+<!ENTITY pref_home_suggested_sites "സൈറ്റ് നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കൂ">
+<!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്ത് കാണിക്കൂ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY pref_header_display "പ്രദര്‍ശനം">
 <!ENTITY pref_header_privacy_short "സ്വകാര്യത">
 <!ENTITY pref_header_help "സഹായം">
+<!ENTITY pref_header_language "ഭാഷ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_update_autodownload_never "ഒരിക്കലുമില്ല">
 <!ENTITY pref_update_autodownload_always "എപ്പോഴും">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "സഹായം">
 
 <!ENTITY quit "പുറത്തു കടക്കുക">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "തലക്കെട്ട് പട്ട നീരക്കുക">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "താൾ നീക്കം ചെയ്തു">
+<!ENTITY page_removed "താൾ നീക്കം ചെയ്തു">
 
 <!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
 <!ENTITY bookmark_edit_name "പേരു്">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "വൃത്തിയാക്കാന്‍ സജ്ജീകരണങ്ങള്‍ ഒന്നുമില്ല.">
 
 <!ENTITY reading_list_added "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ ചേർത്തു">
-<!ENTITY reading_list_removed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്തു">
 <!ENTITY reading_list_failed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ ചേർക്കാൻ സാധിച്ചില്ല">
 <!ENTITY reading_list_duplicate "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നേരത്തെതന്നെ ഉണ്ട്">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേർക്കുക">
 
 <!ENTITY home_history_title "നാള്‍വഴി">
+<!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കൂ">
+<!ENTITY home_clear_history_confirm "താങ്കളുടെ നാൾ‌വഴി വെടിപ്പാക്കണമെന്നുറപ്പാണോ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
 <!ENTITY home_last_tabs_title "ഒടുവിലത്തെ ടാബുകള്‍">
 <!ENTITY home_last_tabs_open "ഒടുവിലത്തെ ടാബുകള്‍ എല്ലാം തുറക്കുക">
@@ -434,3 +461,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "മെനു">
 <!ENTITY actionbar_done "ചെയ്തു">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "അവസാന സിങ്ക്: &formatS;">

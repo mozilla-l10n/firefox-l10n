@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "നിങ്ങളുടെ ടാബ് അയച്ചു!">
 <!ENTITY sync.text.tab.not.sent.label "നിങ്ങളുടെ ടാബ് അയക്കുന്നതിൽ തടസ്സം നേരിട്ടു.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "ഫയർഫോക്സ് അക്കൗണ്ടുകള്‍">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "ഈമെയില്‍">
 <!ENTITY fxaccount_password_hint "രഹസ്യവാക്ക്">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
+<!ENTITY fxaccount_status_device_name "ഉപകരണം">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: പ്രവര്‍ത്തന സജ്ജം">
 <!ENTITY fxaccount_status_needs_verification2 "അക്കൌണ്ട് ഉറപ്പാക്കേണ്ടതുണ്ടു്. ഇതിനാവശ്യമായ മെയില്‍ അയയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക.">

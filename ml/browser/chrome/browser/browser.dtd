@@ -56,6 +56,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌ ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "ഫയല്‍ തുറക്കുക...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -123,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "അടയാളങ്ങള്‍">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
+
 <!ENTITY editThisBookmarkCmd.label "ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -146,19 +149,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 
-<!ENTITY backCmd.label                "പുറകോട്ട്‌">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ഒരു താള്‍ പുറകോട്ട്‌ പോകുക">
-<!ENTITY forwardCmd.label             "മുന്നോട്ട്‌">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക">
 <!ENTITY backForwardButtonMenu.tooltip "നാള്‍വഴിയ്ക്കായി റൈറ്റ് ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കില്‍ താഴേയ്ക്കു് വലിയ്ക്കുക">
 <!ENTITY backForwardButtonMenuMac.tooltip "നാള്‍വഴിയ്ക്കായി താഴേയ്ക്കു് വലിയ്ക്കുക">
-<!ENTITY reloadCmd.label              "വീണ്ടും തുറക്കുക">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "ഈ താള്‍ വീണ്ടും തുറക്കുക">
-<!ENTITY stopCmd.label                "നിര്‍ത്തുക">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "താള്‍ തുറക്കുന്നത്‌ നിര്‍ത്തുക">
 <!ENTITY goEndCap.tooltip             "അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക">
@@ -196,7 +194,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ഡൌണ്‍ലോഡുകള്‍">
-<!ENTITY downloads.tooltip            "നടന്നുകൊണ്ടിരിക്കുന്ന ഡൌണ്‍ലോഡുകളുടെ പുരോഗതി കാണിക്കുക">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -429,8 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "പണിയിട പശ്ചാത്തലമായി സജ്ജമാക്കുക">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "ഈ കണ്ണി അടയാളപ്പെടുത്തുക">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക">
@@ -554,11 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "വലിപ്പം മാറ്റുക">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "പുതിയ ഒരു റ്റാബ് തുറക്കുക">
-<!ENTITY newWindowButton.tooltip        "പുതിയ ജാലകം തുറക്കുക">
 <!ENTITY sidebarCloseButton.tooltip     "സൈഡ് ബാര്‍ അടയ്ക്കുക">
-
-<!ENTITY fullScreenButton.tooltip       "ജാലകം പൂര്‍ണ്ണ വലിപ്പത്തില്‍ കാണിക്കുക">
 
 <!ENTITY quitApplicationCmdWin.label       "പുറത്തു കടക്കുക"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
