@@ -64,6 +64,11 @@
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
 <!ENTITY new_private_tab_opened "Nieuw privétabblad geopend">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "WISSEL">
+
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
 <!ENTITY pref_category_advanced "Geavanceerd">
