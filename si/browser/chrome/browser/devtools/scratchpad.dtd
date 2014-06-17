@@ -48,6 +48,23 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "සැනසුම්">
 <!ENTITY editMenu.accesskey           "E">
 
@@ -73,7 +90,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "පරිසරය">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "අන්තර්ගතය">
@@ -104,13 +121,13 @@
 
 
 <!ENTITY resetContext2.label          "විචල්‍යයන් යළි-සකසන්න">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 
 
 
 <!ENTITY executeMenu.label            "ක්‍රියාත්මක කරන්න">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

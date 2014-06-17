@@ -25,7 +25,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "පිටු සළකුණු">
 <!ENTITY abouthome.historyButton.label   "පෙරදෑ">
-<!ENTITY abouthome.settingsButton.label  "සැකසුම්">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "වරණයන්">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "මනාපයන්">
 <!ENTITY abouthome.addonsButton.label    "ඇඩෝන">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "බාගතකිරීම්">

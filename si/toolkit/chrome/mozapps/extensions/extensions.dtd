@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ඉවත් කරන්න">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
 <!ENTITY cmd.showPreferencesWin.label         "විකල්ප">
 <!ENTITY cmd.showPreferencesWin.tooltip       "මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න">
 <!ENTITY cmd.showPreferencesUnix.label        "මනාපයන්">
@@ -144,7 +145,7 @@ your own.">
 <!ENTITY detail.size                          "විශාලත්වය">
 
 <!ENTITY detail.checkForUpdates.label         "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "මෙම ඇඩෝනය සඳහා යාවත්කාලීන පරීක්ෂා කරන්න">
 <!ENTITY detail.showPreferencesWin.label      "විකල්ප">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
@@ -215,3 +216,12 @@ your own.">
 <!ENTITY eula.accept                          "පිළිගැනීම සහ ස්ථාපනය…">
 
 <!ENTITY settings.path.button.label           "ගවේෂණය…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "වැඩිදුරටත් දැනුවත්වන්න">
+
+
+

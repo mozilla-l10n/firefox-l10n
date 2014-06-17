@@ -46,13 +46,16 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ටැබ වසන්න">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "සියළු ටැබ් ලැයිස්තුගත කරන්න">
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -68,7 +71,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "මෙනු තීරුව">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "සැරිසර මෙවලම් තීරුව">
+
 <!ENTITY personalbarCmd.label "පිටු සලකුණු මෙවලම් තීරුව">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්">
@@ -117,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 
-<!ENTITY bookmarkThisPageCmd.label "මෙම පිටුව සලකුණු කරගන්න">
+
 <!ENTITY editThisBookmarkCmd.label "මෙම පිටු සලකුණ සකසන්න">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -140,19 +143,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
 
-<!ENTITY backCmd.label                "පසුපසට">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "පිටුවක් පසුපසට">
-<!ENTITY forwardCmd.label             "ඉදිරියට">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "පිටුවක් ඉදිරියට">
 <!ENTITY backForwardButtonMenu.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න හෝ දකුණත් ක්ලික් කරන්න">
 <!ENTITY backForwardButtonMenuMac.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න">
-<!ENTITY reloadCmd.label              "ප්‍රතිපූරණය">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "භාවිත පිටුව ප්‍රතිපූරණය කරන්න">
-<!ENTITY stopCmd.label                "නවතන්න">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "පිටුව ලබාගැනීම නවතන්න">
 <!ENTITY goEndCap.tooltip             "පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න">
@@ -187,7 +185,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "බාගැනිම්">
-<!ENTITY downloads.tooltip            "බාගැනිමේ ප්‍රගතිය පෙන්වීමට">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -214,6 +211,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -406,18 +405,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewVideoCmd.label           "දෘශ්‍ය දර්ශනය">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "පසුබිමේ රූපය පෙන්වන්න">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "තිරයේ පසුබිමසේ සකසන්න...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "මෙම පිටුව සලකුණු කරන්න">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "මෙම පුරුක පිටු සලකුණු කරන්න">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "මෙම රාමුව පිටු සලකුණුගත කරන්න">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
 
 
 <!ENTITY savePageCmd.label            "පිටුව සුරකින්න...">
@@ -536,11 +533,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "විශාලනය">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "නව ටැබයක් අරින්න">
-<!ENTITY newWindowButton.tooltip        "නව කවුළුවක් අරින්න">
-
-
-<!ENTITY fullScreenButton.tooltip       "කවුළුව තිරය පුරා විහිඳුවන්න">
 
 <!ENTITY quitApplicationCmdWin.label       "පිට‌වෙන්න"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -559,9 +551,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "පිටු මෝස්තරය">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "මෝස්තරයක් නැත">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "මූලික පිටු මෝස්තරය">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "මෙම වෙබ් අඩවිය සඳහා පොප්-අප් ඇහිරුම් සැකසුම් වෙනස් කරන්න">
 
@@ -684,47 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.tryAgain "නැවත උත්සාහ කරන්න">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "ඇඩෝන තීරය">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "ක්‍රියාකාරකම් දක්වනය">
-<!ENTITY appMenuButton.label           "මෙනුව">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; මෙනුව විවෘත කරන්න">
-
-<!ENTITY feedButton.tooltip            "මෙම පිටුවට දායකත්වය ලබාගන්න…">
-<!ENTITY bookmarksButton.tooltip       "ඔබගේ පිටු සලකුණු පෙන්වීමට">
-<!ENTITY historyButton.tooltip         "ඔබ මෑතකදී ලබාගත් පිටු පෙන්වීමට">
-<!ENTITY viewTabsOnTop.label           "මුදුනෙහිම ඇති ටැබ්">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "සැකසුම්">
-<!ENTITY appMenuToolbarLayout.label    "මෙවලම්තීරු සැකැස්ම…">
 <!ENTITY appMenuSidebars.label         "පැතිතීර">
-<!ENTITY appMenuFind.label             "සොයන්න…">
-<!ENTITY appMenuUnsorted.label         "පිළිවෙළ නොකළ පිටුලකුණු">
-<!ENTITY appMenuWebDeveloper.label     "වෙබ් සංවර්ධකයා">
-<!ENTITY appMenuGettingStarted.label   "ඇරඹුම">
-<!ENTITY appMenuSafeMode.label         "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "කපන්න">
-<!ENTITY copyButton.tooltip            "පිටපත් කරන්න">
-<!ENTITY pasteButton.tooltip           "අලවන්න">
-<!ENTITY zoomOutButton.tooltip         "කුඩා කරන්න">
-<!ENTITY zoomInButton.tooltip          "විශාලනය">
-<!ENTITY zoomControls.label            "විශාලන පාලක">
-<!ENTITY addonBarCloseButton.tooltip   "ඇඩෝන තීරුව වසන්න">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "පසුපසට/ඉදිරියට">
-<!ENTITY viewBookmarksSidebar.label    "පැතීතීරුව තුළ පෙන්වන්න">
-<!ENTITY bookmarksItem.title           "පිටු සලකුණු">
-<!ENTITY openLocationCmd.label         "ස්ථානයක් විවෘත කරන්න...">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "ඔබගේ පිටුසළකුණු පෙන්වන්න">
 
-<!ENTITY tabGroupsButton.tooltip       "ඔබගේ ටැබ් සමූහගත කරන්න">
-<!-- end of strings to be removed post-Australis -->
+

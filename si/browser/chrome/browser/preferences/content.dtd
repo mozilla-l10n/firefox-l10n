@@ -24,3 +24,7 @@
 <!ENTITY chooseLanguage.label         "පිටු දර්ශනය සඳහා ඔබට උචිත භාෂාව තෝරන්න">
 <!ENTITY chooseButton.label           "තෝරන්න…">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "හැරදැමීම්...">
+<!ENTITY translateExceptions.accesskey "x">
