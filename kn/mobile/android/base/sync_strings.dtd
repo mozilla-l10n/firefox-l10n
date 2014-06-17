@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "ನಿಮ್ಮ ಪುಟವನ್ನು ಕಳಿಸಲಾಯಿತು!">
 <!ENTITY sync.text.tab.not.sent.label "ನಿಮ್ಮ ಹಾಳೆಯನ್ನು ಕಳಿಸುವುದರಲ್ಲಿ ತೊಂದರೆ ಕಂಡುಬಂದಿದೆ.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆಗಳು">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
-
+<!ENTITY fxaccount_status_device_name "ಸಾಧನದ ಹೆಸರು">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
