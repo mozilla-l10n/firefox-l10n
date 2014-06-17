@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "Fliken skickades!">
 <!ENTITY sync.text.tab.not.sent.label "Det uppstod ett problem vid skickandet av fliken.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox-konton">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "E-post">
 <!ENTITY fxaccount_password_hint "Lösenord">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
+<!ENTITY fxaccount_status_device_name "Enhetsnamn">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktiverat">
 <!ENTITY fxaccount_status_needs_verification2 "Ditt konto måste bekräftas. Tryck för att skicka ett nytt bekräftelsemejl.">
