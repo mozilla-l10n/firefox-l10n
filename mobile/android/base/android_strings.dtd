@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY new_tab_opened "ಹೊಸ ಟ್ಯಾಬ್ ತೆರೆಯಲಾಗಿದೆ">
-
+<!ENTITY new_private_tab_opened "ಹೊಸ ಖಾಸಗಿ ಹಾಳೆ ತೆಗೆಯಲಾಗಿದೆ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "ಭಾಷೆ">
+<!ENTITY pref_browser_locale "ವೀಕ್ಷಕದ ಭಾಷೆ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "ವ್ಯವಸ್ಥೆಯ ಪೂರ್ವನಿಯೋಜಿತ">
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "ಸ್ವಯಂಚಾಲಿತ ಅಪ್‌ಡೇಟ್‌ಗಳು">
 <!ENTITY pref_home_updates_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_home_updates_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
-
-
+<!ENTITY pref_home_suggested_sites "ತಾಣ ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY pref_home_suggested_sites_summary "ನಿಮ್ಮ ಮುಖಪುಟದಲ್ಲಿ ನಾವು ನಿಮಗೆ ಕುತೂಹಲಕಾರಿ ಎನಿಸುವ ತಾಣಗಳ ಕೊಂಡಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸಿ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!ENTITY pref_header_display "ಪ್ರದರ್ಶಕ">
 <!ENTITY pref_header_privacy_short "ಗೌಪ್ಯತೆ">
-
-
+<!ENTITY pref_header_help "ಸಹಾಯ">
+<!ENTITY pref_header_language "ಭಾಷೆ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ವಿಕಸನ ಉಪಕರಣಗಳು">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "ಯಾವಾಗಲೂ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "ಸಹಾಯ">
+
 <!ENTITY quit "ನಿರ್ಗಮಿಸು">
 
 <!ENTITY addons "ಆಡ್-ಆನ್‌ಗಳು">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "ತಾಣವನ್ನು ಸೇರಿಸು">
 
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
-
-
+<!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
+<!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_last_tabs_title "ಕಡೆಯ ಸಾರ್ತಿಯ ಪುಟಗಳು">
 <!ENTITY home_last_tabs_open "ಕಳೆದ ಬಾರಿಯ ಎಲ್ಲ ಪುಟಗಳನ್ನು ತೆರೆ">
@@ -460,3 +467,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "ಕಡೆಗೆ ಸಿಂಕ್ ಆದದ್ದು: &formatS;">
