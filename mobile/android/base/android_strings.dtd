@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ներդիրներ">
 <!ENTITY new_tab_opened "Նոր ներդիր է բացվել">
-
+<!ENTITY new_private_tab_opened "Նոր գաղտնի ներդիր է բացվել">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ՓՈԽԵԼ">
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Լեզուն">
+<!ENTITY pref_browser_locale "Ծրագրի լեզուն">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Համակարգայինը">
 
 <!ENTITY pref_category_search3 "Փնտրել">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Ինքնաշխատ թարմացումներ">
 <!ENTITY pref_home_updates_enabled "Միացրած">
 <!ENTITY pref_home_updates_wifi "Միայն Wi-Fi-ով">
-
-
+<!ENTITY pref_home_suggested_sites "Ցուցադրել կայքի առաջարկները">
+<!ENTITY pref_home_suggested_sites_summary "Ցուցադրե՞լ էկրանին այն կայքերի կարճատները, որոնք կարող են Ձեզ հետաքրքրել:">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Կարգավորումներ">
 <!ENTITY pref_header_display "Տեսքը">
 <!ENTITY pref_header_privacy_short "Անվտանգությունը">
-
-
+<!ENTITY pref_header_help "Օգնություն">
+<!ENTITY pref_header_language "Լեզուն">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Ծրագրավորողի գործիքներ">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Միշտ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Օգնություն">
+
 <!ENTITY quit "Փակել">
 
 <!ENTITY addons "Հավելումներ">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Ավելացնել կայք">
 
 <!ENTITY home_history_title "Պատմություն">
-
-
+<!ENTITY home_clear_history_button "Մաքրել դիտարկիչի պատմությունը">
+<!ENTITY home_clear_history_confirm "Մաքրե՞լ պատմությունը:">
 <!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվում են էջանիշերը:">
 <!ENTITY home_last_tabs_title "Ձեր բացած վերջին ներդիրները">
 <!ENTITY home_last_tabs_open "Բացել վերջին բոլոր ներդիրները">
@@ -460,3 +467,5 @@ Android-ից">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Վերջին Սինքը. &formatS;">
