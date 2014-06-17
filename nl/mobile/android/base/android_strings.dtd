@@ -115,6 +115,8 @@
 <!ENTITY pref_home_updates "Automatische updates">
 <!ENTITY pref_home_updates_enabled "Ingeschakeld">
 <!ENTITY pref_home_updates_wifi "Alleen via wifi">
+<!ENTITY pref_home_suggested_sites "Websitesugesties tonen">
+<!ENTITY pref_home_suggested_sites_summary "Toont snelkoppelingen naar websites waarvan wij denken dat u ze interessant vind op uw startpagina">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Aanpassen">
