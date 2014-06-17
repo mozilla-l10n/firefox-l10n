@@ -112,7 +112,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "# ileti">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ileti">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
