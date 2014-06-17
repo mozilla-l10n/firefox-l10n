@@ -5,7 +5,7 @@
 <!ENTITY index.title "Umphathi weaplikheshini">
 
 
-
+<!ENTITY index.help "Uncedo">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-
+<!ENTITY device.help "Uncedo">
 
 <!ENTITY connection.disconnect "Khupha kunxibelelo">
 
@@ -59,11 +59,11 @@
 
 
 
+<!ENTITY connection.installAnotherSimulator "Yongeza">
 
 
 
-
-
+<!ENTITY projects.addApp "Yongeza">
 
 
 
@@ -89,6 +89,7 @@
 
 
 
+<!ENTITY help.title "Umphathi We-App">
 <!ENTITY help.close "Vala">
 
 

@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "Izatifikethi">
 <!ENTITY certSelection.description       "Xa iseva icela isatifikethi sam:">
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Ndibuze ngawo onke amaxesha">
-<!ENTITY certs.ask.accesskey             "d">
-<!ENTITY viewCerts.label                 "Bona iZatifiketi">
-<!ENTITY viewCerts.accesskey             "Z">
+
+
+
 <!ENTITY verify2.label                   "Ungqinisekiso">
 <!ENTITY verify2.accesskey               "U">
-<!ENTITY viewSecurityDevices.label       "Izixhobo Zokhuseleko">
-<!ENTITY viewSecurityDevices.accesskey   "k">
+
+

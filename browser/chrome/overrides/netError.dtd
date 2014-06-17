@@ -106,9 +106,9 @@ efakelweyo.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Unxibelelwano lokhuseleko aluphumelelanga">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ikhasi ozama ukulijonga alinakuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li> 
-<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki. Kungenjalo, sebenzisa umyalelo ofunyanwa kwimenyu yoncedo ukunika ingxelo ngesayithi eyonakeleyo.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Ikhasi ozama ukulijonga alinakho ukuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li> 
+ <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Unxibelelwano lokhuseleko aluphumelelanga">

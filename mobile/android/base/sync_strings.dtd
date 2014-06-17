@@ -75,8 +75,8 @@
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (kwaliwe)">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Imenyu yeZalathisi eziphawulayo">
-<!ENTITY bookmarks.folder.places.label "&brandShortName; Home ">
+<!ENTITY bookmarks.folder.menu.label "Imenyu yezalathisi eziphawulayo">
+<!ENTITY bookmarks.folder.places.label "I-&brandShortName; Home ">
 <!ENTITY bookmarks.folder.tags.label "Iithegi">
 <!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
 <!ENTITY bookmarks.folder.unfiled.label "IZalathisi eziphawulayo ezingalungiswanga">
@@ -108,7 +108,6 @@
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "I-imeyili">
 <!ENTITY fxaccount_password_hint "Ipasiwedi">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "I-&syncBrand.shortName.label;: iyasebenza">
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">

@@ -153,6 +153,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "Vula kwiThebhu eNtsha">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
