@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; taba(ichean)">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
-
+<!ENTITY new_private_tab_opened "Chaidh taba prìobhaideach ùr fhosgladh">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "LEUM">
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Cànan">
+<!ENTITY pref_browser_locale "Cànan a\u0027 bhrabhsair">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Bun-roghainn an t-siostaim">
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
@@ -90,7 +95,7 @@
 <!ENTITY pref_category_add_search_providers "Cuir barrachd solaraichean luirg ris">
 <!ENTITY pref_category_search_restore_defaults "Aisig na h-einnseanan-luirg">
 <!ENTITY pref_search_restore_defaults "Aisig na bun-roghainnean">
-<!ENTITY pref_search_restore_defaults_summary "Aisig na bun-roghainnean ">
+<!ENTITY pref_search_restore_defaults_summary "Aisig na bun-roghainnean">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
-
-
+<!ENTITY pref_home_suggested_sites "Seall molaidhean làraichean">
+<!ENTITY pref_home_suggested_sites_summary "Air an duilleag mhòr, seall ath-ghoiridean gu làraichean a dh\u0027fhaodadh a bhith inntinneach dhut">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
 <!ENTITY pref_header_display "Taisbeanadh">
 <!ENTITY pref_header_privacy_short "Prìobhaideachd">
-
-
+<!ENTITY pref_header_help "Cobhair">
+<!ENTITY pref_header_language "Cànan">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Innealan an luchd-leasachaidh">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "An-còmhnaidh">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Cobhair">
+
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir làrach ris">
 
 <!ENTITY home_history_title "Eachdraidh">
-
-
+<!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
+<!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
 <!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY home_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
@@ -460,3 +467,5 @@ o Android">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Sioncronachadh mu dheireadh: &formatS;">
