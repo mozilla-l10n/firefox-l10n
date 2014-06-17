@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "L">
 
 <!ENTITY  color                           "Text och bakgrund">
-<!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "T">
+
+
 <!ENTITY  backgroundColor.label           "Bakgrund:">
 <!ENTITY  backgroundColor.accesskey       "d">
 <!ENTITY  useSystemColors.label           "Använd systemfärgerna">

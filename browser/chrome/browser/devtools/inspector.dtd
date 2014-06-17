@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Kopiera unik selektor">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "u">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Ta bort nod">
 <!ENTITY inspectorHTMLDelete.accesskey      "T">
 
