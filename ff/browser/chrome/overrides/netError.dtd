@@ -106,7 +106,10 @@ Manager.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Ceŋagol Kisnangol Woorii">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> 
+<li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Ceŋagol Kisnangol Woorii">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
