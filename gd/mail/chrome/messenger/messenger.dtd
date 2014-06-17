@@ -567,7 +567,7 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
 <!ENTITY editRemoteContentSettings.label "Deasaich roghainnean na susbaint chèin...">
 <!ENTITY editRemoteContentSettings.accesskey "e">
-<!ENTITY editRemoteContentSettingsUnix.label "Deasaich roghainnean na susbaint chèin... ">
+<!ENTITY editRemoteContentSettingsUnix.label "Deasaich roghainnean na susbaint chèin...">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "e">
 <!-- Phishing Button Popup -->
 
