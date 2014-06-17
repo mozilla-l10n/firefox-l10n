@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "ഒറ്റതരത്തിലുള്ള സെലക്ടര്‍ പകര്‍ത്തുക">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "ഒ">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "നോഡ് വെട്ടി നീക്കുക">
 <!ENTITY inspectorHTMLDelete.accesskey      "ക">
 

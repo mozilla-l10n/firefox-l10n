@@ -17,6 +17,7 @@
 <!ENTITY toolboxZoomIn.key2            "="> 
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -25,6 +26,10 @@
   -  the heading of the Inspector group in the options panel. -->
 
 <!ENTITY options.context.inspector "നിരീക്ഷകന്‍">
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -127,12 +132,12 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogging.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
+<!ENTITY options.enablePersistentLogs.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
