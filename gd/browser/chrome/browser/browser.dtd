@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Fosgail ionad…">
 <!ENTITY openFileCmd.label "Fosgail faidhle…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Comharran-lìn">
 <!ENTITY bookmarksMenu.accesskey "C">
-
+<!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn dhan duilleag seo">
 <!ENTITY editThisBookmarkCmd.label "Deasaich an comharra-lìn seo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
+<!ENTITY backCmd.label                "Air ais">
 <!ENTITY backButton.tooltip           "Rach duilleag air ais">
-
+<!ENTITY forwardCmd.label             "Air adhart">
 <!ENTITY forwardButton.tooltip        "Rach duilleag air adhart">
 <!ENTITY backForwardButtonMenu.tooltip "Dèan briogadh deas no tarraing a-nuas gus an eachdraidh a shealltainn">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarraing a-nuas gus an eachdraidh a shealltainn">
-
+<!ENTITY reloadCmd.label              "Ath-luchdaich">
 <!ENTITY reloadButton.tooltip         "Ath-luchdaich an duilleag làithreach">
-
+<!ENTITY stopCmd.label                "Sguir dheth">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Sguir de luchdadh na duilleige seo">
 <!ENTITY goEndCap.tooltip             "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
@@ -436,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "S">
 <!ENTITY setDesktopBackgroundCmd.label      "Suidhich mar chùlaibh an deasga…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "Cruthaich comharra-lìn dhan duilleag seo">
 <!ENTITY bookmarkThisLinkCmd.label      "Cruthaich comharra-lìn dhan cheangal seo">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
