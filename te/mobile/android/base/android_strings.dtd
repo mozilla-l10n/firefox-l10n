@@ -75,9 +75,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "భాష">
+<!ENTITY pref_browser_locale "విహారిణి భాష">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "వ్యవస్థ అప్రమేయం">
 
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
@@ -122,8 +126,8 @@
 <!ENTITY pref_header_customize "మలచుకొనడం">
 <!ENTITY pref_header_display "ప్రదర్శన">
 <!ENTITY pref_header_privacy_short "గోప్యత">
-
-
+<!ENTITY pref_header_help "సహాయం">
+<!ENTITY pref_header_language "భాష">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "అభివృద్ధికారుల పనిముట్లు">
 
@@ -231,6 +235,8 @@ size. -->
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "సహాయం">
 
 <!ENTITY quit "నిష్క్రమించు">
 

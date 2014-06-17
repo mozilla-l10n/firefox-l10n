@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "మీ టాబ్ పంపబడెను!">
 <!ENTITY sync.text.tab.not.sent.label "మీ ట్యాబును పంపడంలో ఏదో సమస్య ఉంది.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "ఫైర్‌ఫాక్స్ ఖాతాలు">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
-
+<!ENTITY fxaccount_status_device_name "పరికరం పేరు">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: చేతనం">
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
