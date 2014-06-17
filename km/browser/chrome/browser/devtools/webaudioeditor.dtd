@@ -34,3 +34,5 @@
 <!ENTITY webAudioEditorUI.inspectorEmpty  "មិន​បាន​ជ្រើស AudioNode ។">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+
+<!ENTITY webAudioEditorUI.propertiesEmpty "Node មិន​មាន​លក្ខណៈ​សម្បត្តិ​មួយ​ចំនួន។">
