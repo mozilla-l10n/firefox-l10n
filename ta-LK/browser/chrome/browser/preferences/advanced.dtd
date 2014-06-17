@@ -83,7 +83,7 @@
 
 <!ENTITY updateTab.label                 "இற்றைப்படுத்துக">
 
-<!ENTITY updateApp.label                 " brandShortName; இற்றைப்படுத்தல்கள்:">
+<!ENTITY updateApp.label                 "&amp; brandShortName; இற்றைப்படுத்தல்கள்:">
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
@@ -124,12 +124,12 @@
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
 <!ENTITY certSelection.description       "ஒரு சேவையகம் என் தனிப்பட்ட சான்றிதழைக் கேட்பின்:">
 <!ENTITY certs.auto                      "தானாக ஒன்றைத் தெரிவுசெய்க">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "எப்போதும் என்னை கேள்">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "சான்றிதழ்களைப் பார்க்க">
-<!ENTITY viewCerts.accesskey             "s">
+
+
+
 <!ENTITY verify2.label                   "சரிபார்த்தல்">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "பாதுகாப்புச் சாதனங்கள்">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+

@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "அடுத்து">
-<!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "இந்த சொற்றொடரின் அடுத்த நிகழ்வைத் தேடு">
-<!ENTITY previous.label "முன்னையது">
-<!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "இந்த சொற்றொடரின் முன்னைய நிகழ்வை தேடு">
 
-<!ENTITY highlight.label "அனைத்தையும் முன்னிலைப்படுத்து">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "இந்த சொற்றொடர் காணப்படும் இடங்களை முன்னிலைப்படுத்து">
+
+
+<!ENTITY highlightAll.tooltiptext "இந்த சொற்றொடர் காணப்படும் இடங்களை முன்னிலைப்படுத்து">
+
 
 

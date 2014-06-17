@@ -19,8 +19,13 @@
 <!ENTITY productHelp.label        "&brandShortName; உதவி">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "செருகல்களை இயலாமைப்படுத்தி மீள் ஆரம்பிக்க">
 <!ENTITY helpSafeMode.accesskey   "R">
+
+
 
 
 

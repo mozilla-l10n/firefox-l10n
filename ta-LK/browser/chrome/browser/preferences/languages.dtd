@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "மொழிகள்">
-<!ENTITY languages.customize.prefLangDescript           "இணையப் பக்கங்கள் சில நேரங்களில் பல மொழிகளில் இருக்கும். நீங்கள் பயன்படுத்த விரும்பும் மொழிகளை விருப்பு ஒழுங்கில் தெரிவுசெய்க.">
-<!ENTITY languages.customize.active.label               "மொழிகள் விருப்பு ஒழுங்கில்:">
+
 <!ENTITY languages.customize.moveUp.label               "மேலே நகர்த்துக">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "கீழே நகர்த்துக">

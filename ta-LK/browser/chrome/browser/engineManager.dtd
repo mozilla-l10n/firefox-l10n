@@ -8,8 +8,10 @@
 
 <!-- Buttons -->
 
-
-
+<!ENTITY  up.label                  "மேலே நகர்த்துக">
+<!ENTITY  up.accesskey              "U">
+<!ENTITY  dn.label                  "கீழே நகர்த்துக">
+<!ENTITY  dn.accesskey              "D">
 
 
 

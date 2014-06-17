@@ -7,7 +7,9 @@
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
 
 <!ENTITY privatebrowsingpage.learnMore                 "மேலும் அறிய">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
