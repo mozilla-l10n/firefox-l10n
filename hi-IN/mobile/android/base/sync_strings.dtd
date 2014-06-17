@@ -109,7 +109,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "ई-मेल">
 <!ENTITY fxaccount_password_hint "कूटशब्द">
 <!ENTITY fxaccount_password_hide "छिपाएँ">
@@ -173,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्षम">
 <!ENTITY fxaccount_status_needs_verification2 "आपके खाता को सत्यापित करने की जरूरत है। दोबारा सत्यापन ईमेल भेजने के लिए टैप करें।">
