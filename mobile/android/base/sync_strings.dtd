@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "Сіздің бетіңіз жіберілді!">
 <!ENTITY sync.text.tab.not.sent.label "Сіздің бетіңізді жіберу кезінде қате орын алды.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox тіркелгілері">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
-
+<!ENTITY fxaccount_status_device_name "Құрылғы аты">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: іске қосулы">
 <!ENTITY fxaccount_status_needs_verification2 "Тіркелгіңізді растау керек. Растау эл. хатын қайта жіберу үшін шертіңіз.">
