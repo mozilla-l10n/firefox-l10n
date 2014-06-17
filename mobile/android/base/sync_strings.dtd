@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "Sekmeniz gönderildi!">
 <!ENTITY sync.text.tab.not.sent.label "Sekmeniz gönderilirken bir sorun oluştu.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox Hesapları">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "E-posta">
 <!ENTITY fxaccount_password_hint "Parola">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan:">
+<!ENTITY fxaccount_status_device_name "Cihaz adı">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: etkinleştirildi">
 <!ENTITY fxaccount_status_needs_verification2 "Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.">
