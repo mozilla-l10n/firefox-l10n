@@ -8,8 +8,8 @@
 <!ENTITY MsgSelect.label "Zapiski za wužywanje offline">
 <!ENTITY MsgSyncDesc.label "Jolic sćo južo postowe zarědniki abo diskusijne kupki za wužywanje offline wubrał, móžośo je něnto ześěgnuś a/abo synchronizěrowaś. Wužyjśo tłocašk &quot;Wubraś&quot;, aby postowe zarědniki a diskusijne kupki za wužywanje offline wubrał.">
 <!ENTITY MsgSyncDirections.label "Zěśěgnuś a/abo synchronizěrowaś slědujuce:">
-<!ENTITY syncTypeMail.label "Postowe powěsći">
-<!ENTITY syncTypeMail.accesskey "P">
+<!ENTITY syncTypeMail.label "E-mailowe powěsći">
+<!ENTITY syncTypeMail.accesskey "E">
 <!ENTITY syncTypeNews.label "Powěsći diskusijnych kupkow">
 <!ENTITY syncTypeNews.accesskey "d">
 <!ENTITY sendMessage.label "Njepósłane powěsći pósłaś">
@@ -18,6 +18,6 @@
 <!ENTITY workOffline.accesskey "O">
 <!ENTITY selectButton.label "Wubraś…">
 <!ENTITY selectButton.accesskey "b">
-<!ENTITY MsgSelectDesc.label "Postowe zarědniki a diskusijne kupki za wužywanje offline wubraś.">
+<!ENTITY MsgSelectDesc.label "E-mailowe zarědniki a diskusijne kupki za wužywanje offline wubraś.">
 <!ENTITY MsgSelectInd.label "Ześěgnuś">
 <!ENTITY MsgSelectItems.label "Zarědniki a diskusijne kupki">

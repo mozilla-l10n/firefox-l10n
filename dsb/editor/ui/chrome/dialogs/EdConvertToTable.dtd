@@ -5,7 +5,7 @@
 
 
 <!ENTITY windowTitle.label "Do tabele konwertěrowaś">
-<!ENTITY instructions1.label   "Editor napórajo nowy tabelowy rěd  za kuždy wótstawk we wuběrku.">
+<!ENTITY instructions1.label   "Editor napórajo nowy tabelowy rěd za kuždy wótstawk we wuběrku.">
 <!ENTITY instructions2.label   "Wubjeŕśo znamuško, kótarež se ma wužywaś, aby se wuběrk do słupow rozrědował:">
 <!ENTITY commaRadio.label      "Koma">
 <!ENTITY spaceRadio.label      "Proznota">

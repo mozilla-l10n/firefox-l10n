@@ -31,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Wšo wubraś">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "u">
-
-
+<!ENTITY preferencesCmd2.label "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label       "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey     "t">
 

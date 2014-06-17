@@ -25,8 +25,8 @@
 <!ENTITY account.movedown.label       "G">
 <!ENTITY account.cancelReconnection.label         "Nowy zwisk pśetergnuś">
 <!ENTITY account.cancelReconnection.accesskey     "o">
-
-
+<!ENTITY account.copyDebugLog.label     "Protokol pytanja za zmólkami kopěrowaś">
+<!ENTITY account.copyDebugLog.accesskey "P">
 <!ENTITY account.connecting           "Zwězujo se…">
 <!ENTITY account.disconnecting        "Zwisk se źěli…">
 <!ENTITY account.disconnected         "Njezwězany">

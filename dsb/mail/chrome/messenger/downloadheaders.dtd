@@ -11,6 +11,8 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
+<!ENTITY download.label     "Ześěgnuś">
+<!ENTITY download.accesskey "Z">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "głowowych smužkow ześěgnuś">
 <!ENTITY headers.accesskey  "h">

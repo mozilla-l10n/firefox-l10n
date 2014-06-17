@@ -3,20 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
+<!ENTITY captionMailContent.label "E-mailowe wopśimjeśe">
 
-
-
-
+<!ENTITY acceptRemoteContent.label "Daloke wopśimjeśe w powěsćach dowóliś">
+<!ENTITY acceptRemoteContent.accesskey "o">
+<!ENTITY remoteContentExceptions.label "Wuwześa…">
+<!ENTITY remoteContentExceptions.accesskey "u">
+<!ENTITY acceptRemoteContentInfo.label "Zgońśo wěcej wó problemach priwatnosći dalokego wopśimjeśa">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Webwopśimjeśe">
 
-
-
-
-
-
-
+<!ENTITY acceptCookies.label "Cookieje ze sedłow akceptěrowaś">
+<!ENTITY acceptCookies.accesskey "C">
+<!ENTITY acceptThirdParty.pre.label "Cookieje tśeśich póbitowarjow akceptěrowaś:">
+<!ENTITY acceptThirdParty.pre.accesskey "C">
+<!ENTITY acceptThirdParty.always.label "Pśecej">
+<!ENTITY acceptThirdParty.never.label "Nigda">
+<!ENTITY acceptThirdParty.visited.label "Wót woglědanych tśeśich póbitowarjow">
 <!ENTITY keepUntil.label "Wobchowaś:">
 <!ENTITY keepUntil.accesskey "b">
 <!ENTITY expire.label "až njepśepadnu">
@@ -27,10 +31,11 @@
 <!ENTITY showCookies.label "Cookieje pokazaś…">
 <!ENTITY showCookies.accesskey "o">
 
-
-
-
-
-
-
+<!ENTITY dntTrackingNopref.label2 "Sedłam nic wó slědowańskich nastajenjach k wěsći njedaś">
+<!ENTITY dntTrackingNopref.accesskey "S">
+<!ENTITY dntTrackingNotOkay.label2 "Sedłam k wěsći daś, až njamaju wam slědowaś">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Sedłam k wěsći daś, až směju mě slědowaś">
+<!ENTITY dntTrackingOkay.accesskey "w">
+<!ENTITY doNotTrackInfo.label "Dalšne informacije wó Do Not Track">
 

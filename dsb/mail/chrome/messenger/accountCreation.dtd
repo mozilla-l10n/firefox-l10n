@@ -78,7 +78,7 @@
 <!ENTITY changeSettings.label            "Nastajenja změniś">
 <!ENTITY changeSettings.accesskey        "N">
 
-<!ENTITY contactYourProvider.description "&brandShortName; móžo wam dowóliś, aby wy wótwołał swój post z pomocu pódanych konfiguracijow. Ale wy by dejał swójogo administratora abo e-mailowego póbitowarja njezgódnych zwiskow dla kontaktěrowaś. Glědajśo Thunderbird - ceste pšašanja za dalšne informacije.">
+<!ENTITY contactYourProvider.description "&brandShortName; móžo wam dowóliś, aby wy wótwołał swóju e-mail z pomocu pódanych konfiguracijow. Ale wy by dejał swójogo administratora abo e-mailowego póbitowarja njezgódnych zwiskow dla kontaktěrowaś. Glědajśo Thunderbird - ceste pšašanja za dalšne informacije.">
 
 <!ENTITY insecureServer.tooltip.title    "Warnowanje! To jo njewěsty serwer.">
 <!ENTITY insecureServer.tooltip.details  "Klikniśo na kólaso za dalšne drobnosći.">

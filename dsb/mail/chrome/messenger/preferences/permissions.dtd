@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "S">
 <!ENTITY removeallpermissions.label   "Wšykne sedła wótpóraś">
 <!ENTITY removeallpermissions.accesskey "W">
-
-
+<!ENTITY address.label                "Adresa websedła:">
+<!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokěrowaś">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Za pósejźenje dowóliś">

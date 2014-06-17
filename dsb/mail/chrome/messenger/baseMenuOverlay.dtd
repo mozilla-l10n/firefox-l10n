@@ -25,4 +25,4 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Wó &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.accesskey "W">

@@ -19,7 +19,7 @@
 <!ENTITY subscribeImapFolders.label   "Abonementy zarědnikow zastojaś">
 <!ENTITY settingsLink.label           "Nastajenja za toś to konto pokazaś">
 <!ENTITY newAcctLink.label            "Nowe konto załožyś">
-<!ENTITY newAcct.label                "Nowe konto załožyś">
+<!ENTITY newAcct.label                "Nowe konto załožyś:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Rozšyrjone funkcije">
 <!ENTITY searchMsgsLink.label         "Powěsći pytaś">

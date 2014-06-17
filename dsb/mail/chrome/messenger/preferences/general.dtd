@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Standard wótnowiś">
 <!ENTITY useDefault.accesskey             "S">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Nastajenja za nałožeński symbol změniś">
+<!ENTITY dockOptions.label                "Nastajenja nałožeńskego symbola…">
+<!ENTITY dockOptions.accesskey            "N">
 
 <!ENTITY newMessagesArrive.label          "Gaž se nowe powěsći dojdu:">
 <!ENTITY playSound.label                  "Zuk wótgraś">

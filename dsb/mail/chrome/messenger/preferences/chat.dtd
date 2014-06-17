@@ -23,14 +23,15 @@ sentence. -->
 <!ENTITY  sendTyping.label              "W konwersaciji powěźeńki pisaś">
 <!ENTITY  sendTyping.accesskey          "k">
 
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Gaž powěsći za was pśichadaju:">
+<!ENTITY  desktopChatNotifications.label      "Powěźeńku pokazaś">
+<!ENTITY  desktopChatNotifications.accesskey  "w">
+<!ENTITY  chatSound.accesskey                 "u">
+<!ENTITY  chatSound.label                     "Zuk wótgraś">
+<!ENTITY  play.label                          "Wótgraś">
+<!ENTITY  play.accesskey                      "W">
+<!ENTITY  systemSound.label                   "Standardny systemowy zuk za nowu e-mail">
+<!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Slědujucu zukowu dataju wužywaś">
 <!ENTITY  customsound.accesskey               "S">
 <!ENTITY  browse.label                        "Pśepytaś…">

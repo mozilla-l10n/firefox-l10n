@@ -19,10 +19,11 @@
 <!ENTITY quickMode.label             "Nastawkowe zespominanje pokazaś, město aby webbok zacytało">
 <!ENTITY quickMode.accesskey         "z">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Wobznamjenja awtomatiski z kanalowych &lt;kategorjowych&gt; mjenjow napóraś">
+<!ENTITY autotagEnable.accesskey     "z">
+<!ENTITY autotagUsePrefix.label      "Wobznamjenja prefigěrowaś z:">
+<!ENTITY autotagUsePrefix.accesskey  "f">
+<!ENTITY autoTagPrefix.placeholder   "Zapódajśo wobznamjenjowy prefiks">
 
 <!ENTITY locationValidate.label      "Płaśiwosć pśespytaś">
 <!ENTITY validateText.label          "Płaśiwosć pśespytaś a płaśiwy URL wótwołaś.">

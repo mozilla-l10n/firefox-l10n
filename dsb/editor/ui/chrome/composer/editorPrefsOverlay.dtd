@@ -5,8 +5,9 @@
 
 
 <!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
 
-
-
-
-
+<!ENTITY compose.label "Editor">
+<!ENTITY editing.label "Nastajenja nowego boka">
+<!ENTITY toolbars.label "Symbolowe rědki">
+<!ENTITY publish.label "Wózjawjenje">

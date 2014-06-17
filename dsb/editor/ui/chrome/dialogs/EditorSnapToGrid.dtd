@@ -4,6 +4,10 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Do kśidna zapadnuś">
+
+<!ENTITY enableSnapToGrid.label "zapadnjenje do kśidna zmóžniś">
+<!ENTITY enableSnapToGrid.accessKey "z">
 
 <!ENTITY sizeEditField.label "Wjelikosć:">
 <!ENTITY sizeEditField.accessKey "W">

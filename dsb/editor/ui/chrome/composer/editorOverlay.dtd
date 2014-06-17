@@ -8,7 +8,7 @@
 <!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
-<!ENTITY pasteNoFormatting.label "Bźez formata zasajźiś">
+<!ENTITY pasteNoFormatting.label "Bźez formatěrowanja zasajźiś">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Zasajźiś ako">
@@ -16,9 +16,9 @@
 <!ENTITY pasteAsQuotationCmd.label "Ako citat zasajźiś">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY findBarCmd.label "Pytaś…">
 <!ENTITY findReplaceCmd.label "Pytaś a wuměniś…">
-<!ENTITY enableInlineSpellChecker.label "Pśi zapódaśe pšawopis kontrolěrowaś">
+<!ENTITY enableInlineSpellChecker.label "Pśi zapódaśu pšawopis kontrolěrowaś">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Pšawopis kontrolěrowaś…">
 <!ENTITY checkSpellingCmd2.accesskey "k">
@@ -28,20 +28,20 @@
 <!ENTITY insertMenu.label "Zasajźiś">
 <!ENTITY insertMenu.accesskey "Z">
 <!ENTITY insertLinkCmd.label "Wótkaz…">
-<!ENTITY insertLinkCmd.accesskey "W">
+<!ENTITY insertLinkCmd.accesskey "k">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Pomjenjona kokula…">
+<!ENTITY insertAnchorCmd.label "Pomjenjona kokulka…">
 <!ENTITY insertAnchorCmd.accesskey "m">
 <!ENTITY insertImageCmd.label "Wobraz…">
 <!ENTITY insertImageCmd.accesskey "b">
 <!ENTITY insertHLineCmd.label "Horicontalna linija">
 <!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabela…">
+<!ENTITY insertTableCmd.label "Tabelu…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znamuška a symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Pód wobrazom łamaś">
@@ -49,9 +49,9 @@
 <!-- Used just in context popup. -->
 
 <!ENTITY createLinkCmd.label "Wótkaz napóraś…">
-<!ENTITY createLinkCmd.accesskey "t">
-<!ENTITY editLinkCmd.label "Wótkaz w nowem editorje wobźěłaś">
-<!ENTITY editLinkCmd.accesskey "i">
+<!ENTITY createLinkCmd.accesskey "n">
+<!ENTITY editLinkCmd.label "Wótkaz w nowem editorowem woknje wobźěłaś">
+<!ENTITY editLinkCmd.accesskey "e">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Pismo wubraś">
@@ -71,12 +71,12 @@
 <!-- Font Size SubMenu -->
 
 <!ENTITY FontSizeSelect.tooltip "Pismowu wjelikosć wubraś">
-<!ENTITY decreaseFontSize.label "Mjeńšu">
+<!ENTITY decreaseFontSize.label "Mjeńšy">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
 <!ENTITY decrementFontSize.key2 ","> 
-<!ENTITY increaseFontSize.label "Wětšu">
+<!ENTITY increaseFontSize.label "Wětšy">
 <!ENTITY increaseFontSize.accesskey "W">
 <!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
@@ -84,67 +84,67 @@
 
 <!ENTITY fontSizeMenu.label "Wjelikosć">
 <!ENTITY fontSizeMenu.accesskey "W">
-<!ENTITY size-xx-smallCmd.label "małučka">
-<!ENTITY size-xx-smallCmd.accesskey "u">
-<!ENTITY size-x-smallCmd.label "małka">
-<!ENTITY size-x-smallCmd.accesskey "m">
-<!ENTITY size-smallCmd.label "mał">
-<!ENTITY size-smallCmd.accesskey "a">
-<!ENTITY size-mediumCmd.label "srjejźna">
+<!ENTITY size-xx-smallCmd.label "wjelgickano mały">
+<!ENTITY size-xx-smallCmd.accesskey "c">
+<!ENTITY size-x-smallCmd.label "wjelgin mały">
+<!ENTITY size-x-smallCmd.accesskey "w">
+<!ENTITY size-smallCmd.label "mały">
+<!ENTITY size-smallCmd.accesskey "m">
+<!ENTITY size-mediumCmd.label "srjejźny">
 <!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "wjelika">
+<!ENTITY size-largeCmd.label "wjeliki">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "wjelgin wjelika">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "wjelicka">
-<!ENTITY size-xx-largeCmd.accesskey "e">
+<!ENTITY size-x-largeCmd.label "wjelgin wjeliki">
+<!ENTITY size-x-largeCmd.accesskey "e">
+<!ENTITY size-xx-largeCmd.label "wjelgickano wjeliki">
+<!ENTITY size-xx-largeCmd.accesskey "l">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Tekstowy stil">
-<!ENTITY fontStyleMenu.accesskey "T">
+<!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Tucny">
-<!ENTITY styleBoldCmd.accesskey "u">
+<!ENTITY styleBoldCmd.accesskey "T">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Kursiwny">
 <!ENTITY styleItalicCmd.accesskey "K">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Pódšmarnjony">
-<!ENTITY styleUnderlineCmd.accesskey "P">
+<!ENTITY styleUnderlineCmd.accesskey "d">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Pśešmarnjony">
-<!ENTITY styleStrikeThruCmd.accesskey "r">
-<!ENTITY styleSuperscriptCmd.label "Górjej stajony">
-<!ENTITY styleSuperscriptCmd.accesskey "G">
-<!ENTITY styleSubscriptCmd.label "Dołoj stajony">
+<!ENTITY styleStrikeThruCmd.accesskey "e">
+<!ENTITY styleSuperscriptCmd.label "Wusoko stajony">
+<!ENTITY styleSuperscriptCmd.accesskey "u">
+<!ENTITY styleSubscriptCmd.label "Dłymoko stajony">
 <!ENTITY styleSubscriptCmd.accesskey "D">
-<!ENTITY styleNonbreakingCmd.label "Bźez łamanja">
-<!ENTITY styleNonbreakingCmd.accesskey "B">
+<!ENTITY styleNonbreakingCmd.label "Njełamany">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Wuzwignjenje">
 <!ENTITY styleEm.accesskey "z">
-<!ENTITY styleStrong.label "Mócnjejše wuzwignjenje">
-<!ENTITY styleStrong.accesskey "M">
+<!ENTITY styleStrong.label "Wjelike wuzwignjenje">
+<!ENTITY styleStrong.accesskey "l">
 <!ENTITY styleCite.label "Citat">
 <!ENTITY styleCite.accesskey "C">
 <!ENTITY styleAbbr.label "Skrotconka">
-<!ENTITY styleAbbr.accesskey "S">
+<!ENTITY styleAbbr.accesskey "k">
 <!ENTITY styleAcronym.label "Akronym">
-<!ENTITY styleAcronym.accesskey "r">
-<!ENTITY styleCode.label "Kod">
+<!ENTITY styleAcronym.accesskey "A">
+<!ENTITY styleCode.label "Kode">
 <!ENTITY styleCode.accesskey "o">
 <!ENTITY styleSamp.label "Pśikładowe wudaśe">
-<!ENTITY styleSamp.accesskey "i">
+<!ENTITY styleSamp.accesskey "u">
 <!ENTITY styleVar.label "Wariabla">
-<!ENTITY styleVar.accesskey "W">
+<!ENTITY styleVar.accesskey "r">
 
 <!ENTITY formatFontColor.label "Tekstowa barwa…">
 <!ENTITY formatFontColor.accesskey "T">
-<!ENTITY tableOrCellColor.label "Barwa tabeloweje abo celoweje slězyny…">
-<!ENTITY tableOrCellColor.accesskey "B">
+<!ENTITY tableOrCellColor.label "Slězynowa barwa tabele abo cele…">
+<!ENTITY tableOrCellColor.accesskey "S">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Pomjenjone kokule wótwónoźeś">
-<!ENTITY formatRemoveNamedAnchors.accesskey "w">
+<!ENTITY formatRemoveNamedAnchors.label "Pomjenjone kokulki wótpóraś">
+<!ENTITY formatRemoveNamedAnchors.accesskey "m">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Wótstawk">
@@ -165,36 +165,36 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adresa">
 <!ENTITY paragraphAddressCmd.accesskey "A">
-<!ENTITY paragraphPreformatCmd.label "Pśedformatěrowaś">
+<!ENTITY paragraphPreformatCmd.label "Pśedformatěrowany">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Lisćina">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Žedna">
-<!ENTITY noneCmd.accesskey "e">
-<!ENTITY listBulletCmd.label "Njenumerěrowana">
-<!ENTITY listBulletCmd.accesskey "N">
+<!ENTITY noneCmd.accesskey "n">
+<!ENTITY listBulletCmd.label "Nalicenje">
+<!ENTITY listBulletCmd.accesskey "l">
 <!ENTITY listNumberedCmd.label "Numerěrowana">
-<!ENTITY listNumberedCmd.accesskey "m">
-<!ENTITY listTermCmd.label "Terminus">
-<!ENTITY listTermCmd.accesskey "T">
+<!ENTITY listNumberedCmd.accesskey "u">
+<!ENTITY listTermCmd.label "Definiciski wuraz">
+<!ENTITY listTermCmd.accesskey "f">
 <!ENTITY listDefinitionCmd.label "Definicija">
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Kakosći lisćiny…">
 <!ENTITY listPropsCmd.accesskey "K">
 
-<!ENTITY ParagraphSelect.tooltip "Wubjeŕśo wótstawkowy format">
+<!ENTITY ParagraphSelect.tooltip "Wótstawkowy format wubraś">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Śělesowy tekst">
-<!ENTITY bodyTextCmd.accesskey "t">
+<!ENTITY bodyTextCmd.label "Dokumentowy tekst">
+<!ENTITY bodyTextCmd.accesskey "u">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Rozšyrjone kakosći">
 <!ENTITY advancedPropertiesCmd.accesskey "R">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Wusměriś">
-<!ENTITY alignMenu.accesskey "u">
+<!ENTITY alignMenu.accesskey "s">
 <!ENTITY alignLeft.label "Nalěwo">
 <!ENTITY alignLeft.accesskey "l">
 <!ENTITY alignLeft.tooltip "Nalěwo wusměriś">
@@ -202,26 +202,26 @@
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Centrěrowano wusměriś">
 <!ENTITY alignRight.label "Napšawo">
-<!ENTITY alignRight.accesskey "N">
+<!ENTITY alignRight.accesskey "p">
 <!ENTITY alignRight.tooltip "Napšawo wusměriś">
 <!ENTITY alignJustify.label "Blokowa sajźba">
-<!ENTITY alignJustify.accesskey "B">
-<!ENTITY alignJustify.tooltip "W blokowej sajźbje wusměriś">
+<!ENTITY alignJustify.accesskey "b">
+<!ENTITY alignJustify.tooltip "Blokowa sajźba">
 <!-- Layer toolbar items -->
 
 <!ENTITY layer.tooltip "Warsta">
 <!ENTITY layerSendToBack.tooltip "Do slězyny">
 <!ENTITY layerBringToFront.tooltip "Do prědka">
 
-<!ENTITY increaseIndent.label "Zasunjenje pówětšyś">
+<!ENTITY increaseIndent.label "Zasunjenje powětšyś">
 <!ENTITY increaseIndent.accesskey "w">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Zasunjenje pómjeńšyś">
+<!ENTITY decreaseIndent.label "Zasunjenje pomjeńšyś">
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Bokowe barwy a slězyna…">
-<!ENTITY colorsAndBackground.accesskey "b">
+<!ENTITY colorsAndBackground.label "Barwy a slězyna boka…">
+<!ENTITY colorsAndBackground.accesskey "B">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Tabela">
@@ -229,44 +229,44 @@
 <!-- Select Submenu -->
 
 <!ENTITY tableSelectMenu.label "Wubraś">
-<!ENTITY tableSelectMenu.accesskey "u">
+<!ENTITY tableSelectMenu.accesskey "b">
 
 <!ENTITY tableSelectMenu2.label "Tabelu wubraś">
-<!ENTITY tableSelectMenu2.accesskey "w">
+<!ENTITY tableSelectMenu2.accesskey "b">
 <!ENTITY tableInsertMenu2.label "Tabelu zasajźiś">
-<!ENTITY tableInsertMenu2.accesskey "z">
-<!ENTITY tableDeleteMenu2.label "Tabelu wulašowaś">
+<!ENTITY tableInsertMenu2.accesskey "s">
+<!ENTITY tableDeleteMenu2.label "Tabelu lašowaś">
 <!ENTITY tableDeleteMenu2.accesskey "l">
 <!-- Insert SubMenu -->
 
 <!ENTITY tableInsertMenu.label "Zasajźiś">
 <!ENTITY tableInsertMenu.accesskey "Z">
-<!ENTITY tableTable.label "Tabela">
+<!ENTITY tableTable.label "Tabelu">
 <!ENTITY tableTable.accesskey "T">
-<!ENTITY tableRow.label "Rěd">
-<!ENTITY tableRows.label "Rědy">
-<!ENTITY tableRow.accesskey "R">
-<!ENTITY tableRowAbove.label "Rěd nad tym">
-<!ENTITY tableRowAbove.accesskey "R">
-<!ENTITY tableRowBelow.label "Rěd pód tym">
-<!ENTITY tableRowBelow.accesskey "t">
+<!ENTITY tableRow.label "Smužku">
+<!ENTITY tableRows.label "Smužki">
+<!ENTITY tableRow.accesskey "S">
+<!ENTITY tableRowAbove.label "Smužku nad">
+<!ENTITY tableRowAbove.accesskey "n">
+<!ENTITY tableRowBelow.label "Smužku pód">
+<!ENTITY tableRowBelow.accesskey "p">
 <!ENTITY tableColumn.label "Słup">
 <!ENTITY tableColumns.label "Słupy">
 <!ENTITY tableColumn.accesskey "S">
-<!ENTITY tableColumnBefore.label "Słup pśed tym">
-<!ENTITY tableColumnBefore.accesskey "u">
-<!ENTITY tableColumnAfter.label "Słup za tym">
+<!ENTITY tableColumnBefore.label "Słup pśed">
+<!ENTITY tableColumnBefore.accesskey "e">
+<!ENTITY tableColumnAfter.label "Słup za">
 <!ENTITY tableColumnAfter.accesskey "z">
-<!ENTITY tableCell.label "Cela">
+<!ENTITY tableCell.label "Celu">
 <!ENTITY tableCells.label "Cele">
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Wopśimjeśe cele">
-<!ENTITY tableCellContents.accesskey "o">
+<!ENTITY tableCellContents.accesskey "i">
 <!ENTITY tableAllCells.label "Wšykne cele">
-<!ENTITY tableAllCells.accesskey "k">
-<!ENTITY tableCellBefore.label "Cela pśed tym">
+<!ENTITY tableAllCells.accesskey "c">
+<!ENTITY tableCellBefore.label "Celu pśed">
 <!ENTITY tableCellBefore.accesskey "C">
-<!ENTITY tableCellAfter.label "Cela za tym">
+<!ENTITY tableCellAfter.label "Celu za">
 <!ENTITY tableCellAfter.accesskey "z">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Lašowaś">
@@ -277,14 +277,14 @@
      But value must be set here for accesskey to draw properly
 -->
 
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableJoinCells.label "c">
+<!ENTITY tableJoinCells.accesskey "c">
 <!ENTITY tableSplitCell.label "Celu źěliś">
 <!ENTITY tableSplitCell.accesskey "C">
-<!ENTITY convertToTable.label "Tabelu z wuběrku napóraś">
-<!ENTITY convertToTable.accesskey "b">
-<!ENTITY tableProperties.label "Tabelowe kakosći…">
-<!ENTITY tableProperties.accesskey "k">
+<!ENTITY convertToTable.label "Tabelu z wuběrka napóraś">
+<!ENTITY convertToTable.accesskey "w">
+<!ENTITY tableProperties.label "Kakosći tabele…">
+<!ENTITY tableProperties.accesskey "K">
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Menijowa rědka">
@@ -295,36 +295,36 @@
 <!ENTITY printToolbarCmd.label "Śišćaś">
 <!ENTITY printToolbarCmd.tooltip "Toś ten bok śišćaś">
 <!ENTITY findToolbarCmd.label "Pytaś">
-<!ENTITY findToolbarCmd.tooltip "Tekst w boku pytaś">
+<!ENTITY findToolbarCmd.tooltip "Tekst na boku namakaś">
 <!ENTITY spellToolbarCmd.label "Pšawopis kontrolěrowaś">
 <!ENTITY spellToolbarCmd.tooltip "Pšawopis wuběrka abo cełego boka kontrolěrowaś">
 <!ENTITY imageToolbarCmd.label "Wobraz">
 <!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasajźiś abo kakosći wubranego wobraza wobźěłaś">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">
-<!ENTITY hruleToolbarCmd.tooltip "Horicontalnu liniju abo kakosći wubraneje linije wobźěłaś">
+<!ENTITY hruleToolbarCmd.tooltip "Horicontalnu liniju zasajźiś abo kakosći wubraneje horicontalneje linije wobźěłaś">
 <!ENTITY tableToolbarCmd.label "Tabela">
 <!ENTITY tableToolbarCmd.tooltip "Nowu tabelu zasajźiś abo kakosći wubraneje tabele wobźěłaś">
 <!ENTITY linkToolbarCmd.label "Wótkaz">
 <!ENTITY linkToolbarCmd.tooltip "Nowy wótkaz zasajźiś abo kakosći wubranego wótkaza wobźěłaś">
-<!ENTITY anchorToolbarCmd.label "Kokula">
-<!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenjowu kokulu zasajźiś abo kakosći wubraneje kokule wobźěłaś">
+<!ENTITY anchorToolbarCmd.label "Kokulka">
+<!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenjonu kokulku zasajźiś abo kakosći wubraneje kokulki wobźěłaś">
 <!ENTITY TextColorButton.tooltip "Barwu za tekst wubraś">
 <!ENTITY BackgroundColorButton.tooltip "Barwu za slězynu wubraś">
-<!ENTITY throbber.tooltip "K domacnemu bokoju &vendorShortName; pśejś">
-<!ENTITY HighlightColorButton.tooltip "Barwu za wuzwignjenje teksta wubraś">
+<!ENTITY throbber.tooltip "K startowemu bokoju &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Wuzwignjeńsku barwu za tekst wubraś">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mjeńša pismowa wjelikosć">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Wětša pismowa wjelikosć">
 <!ENTITY boldToolbarCmd.tooltip "Tucny">
 <!ENTITY italicToolbarCmd.tooltip "Kursiwny">
-<!ENTITY underlineToolbarCmd.tooltip "Pódšmarnuś">
-<!ENTITY bulletListToolbarCmd.tooltip "Njenumerěrowanu lisćinu nałožyś abo wótwónoźeś">
-<!ENTITY numberListToolbarCmd.tooltip "Numerěrowanu lisćinu nałožyś abo wótwónoźeś">
-<!ENTITY outdentToolbarCmd.tooltip "Tekst wusunuś (nalěwo gibnuś)">
-<!ENTITY indentToolbarCmd.tooltip "Tekst zasunuś (napšawo gibnuś)">
+<!ENTITY underlineToolbarCmd.tooltip "Pódšmarnjony">
+<!ENTITY bulletListToolbarCmd.tooltip "Naliceńsku lisćinu nałožyś abo wótpóraś">
+<!ENTITY numberListToolbarCmd.tooltip "Numerěrowanu lisćinu nałožyś abo wótpóraś">
+<!ENTITY outdentToolbarCmd.tooltip "Tekst wusunuś (nalěwo pśesunuś)">
+<!ENTITY indentToolbarCmd.tooltip "Tekst zasunuś (napšawo pśesunuś)">
 <!ENTITY AlignPopupButton.tooltip "Tekstowe wusměrjenje wubraś">
-<!ENTITY InsertPopupButton.tooltip "Wótkaz, kokulu, wobraz, horicontalnu liniju abo tabelu zasajźiś">
+<!ENTITY InsertPopupButton.tooltip "Wótkaz, kokulku, wobraz, horicontalnu liniju abo tabelu zasajźiś">
 <!ENTITY alignLeftButton.tooltip "Tekst pó lěwej kšomje wusměriś">
 <!ENTITY alignCenterButton.tooltip "Tekst centrěrowano wusměriś">
 <!ENTITY alignRightButton.tooltip "Tekst pó pšawej kšomje wusměriś">
@@ -333,17 +333,17 @@
 
 <!ENTITY structSelect.label         "Wubraś">
 <!ENTITY structSelect.accesskey     "b">
-<!ENTITY structRemoveTag.label      "Element wótwónoźeś">
+<!ENTITY structRemoveTag.label      "Element wótpóraś">
 <!ENTITY structRemoveTag.accesskey  "E">
 <!ENTITY structChangeTag.label      "Element změniś">
-<!ENTITY structChangeTag.accesskey  "l">
+<!ENTITY structChangeTag.accesskey  "z">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Zasajźiś">
-<!ENTITY insertTOC.accesskey      "s">
+<!ENTITY insertTOC.accesskey      "Z">
 <!ENTITY updateTOC.label          "Aktualizěrowaś">
 <!ENTITY updateTOC.accesskey      "A">
-<!ENTITY removeTOC.label          "Wótwónoźeś">
-<!ENTITY removeTOC.accesskey      "W">
+<!ENTITY removeTOC.label          "Wotpóraś">
+<!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "Zapis wopśimjeśa…">
-<!ENTITY tocMenu.accesskey        "Z">
+<!ENTITY tocMenu.accesskey        "o">

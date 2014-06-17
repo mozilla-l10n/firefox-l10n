@@ -4,8 +4,12 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
+<!ENTITY windowTitle.label "Znamuškowe koděrowanje składowaś a změniś">
 <!ENTITY documentTitleTitle.label "Bokowy titel">
-
-
-
+<!ENTITY documentCharsetTitle.label "Znamuškowe koděrowanje">
+<!ENTITY documentCharsetDesc.label "Wubjeŕśo znamuškowe koděrowanje, w kótarymž cośo dokument składowaś:">
+<!ENTITY documentExportToText.label "Ako tekst eksportěrowaś">
 

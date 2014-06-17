@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "f">
 <!ENTITY synchronizeOfflineCmd.label "Něnto ześěgnuś/synchronizěrowaś…">
 <!ENTITY synchronizeOfflineCmd.accesskey "z">
-
-
+<!ENTITY settingsOfflineCmd2.label "Nastajenja offline">
+<!ENTITY settingsOfflineCmd2.accesskey "t">
 <!ENTITY downloadSelectedCmd.label "Wubrane powěsći wótwołaś">
 <!ENTITY downloadSelectedCmd.accesskey "u">
 <!ENTITY downloadStarredCmd.label "Powěsći z gwězdku wótwółaś">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "g">
 <!ENTITY menuFavoriteFolder.label "Faworizěrowany zarědnik">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-
-
-
-
+<!ENTITY folderPropsCmd2.label "Kakosći">
+<!ENTITY folderPropsFolderCmd2.label "Kakosći zarědnika">
+<!ENTITY folderPropsNewsgroupCmd2.label "Kakosći diskusijneje kupki">
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Lašowanje powěsći slědk wześ">
 <!ENTITY redoDeleteMsgCmd.label "Lašowanje powěsći wóspjetowaś">
 <!ENTITY undoMoveMsgCmd.label "Pśesunjenje powěsći slědk wześ">
@@ -158,10 +158,10 @@
 <!ENTITY unreadFolders.accesskey "c">
 <!ENTITY favoriteFolders.label "Faworizěrowane">
 <!ENTITY favoriteFolders.accesskey "F">
-
-
-
-
+<!ENTITY recentFolders.label "Nejnowše">
+<!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Kompaktny naglěd">
+<!ENTITY compactVersion.accesskey "K">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sortěrowaś pó">
@@ -172,8 +172,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "o">
 <!ENTITY sortByStarCmd.label "Gwězdce">
 <!ENTITY sortByStarCmd.accesskey "G">
-
-
+<!ENTITY sortByAttachmentsCmd.label "Pśidanki">
+<!ENTITY sortByAttachmentsCmd.accesskey "d">
 <!ENTITY sortByPriorityCmd.label "Prioriśe">
 <!ENTITY sortByPriorityCmd.accesskey "r">
 <!ENTITY sortBySizeCmd.label "Wjelikosći">
@@ -283,8 +283,8 @@
 <!ENTITY goMenu.accesskey "i">
 <!ENTITY nextMenu.label "Pśiducy">
 <!ENTITY nextMenu.accesskey "d">
-
-
+<!ENTITY nextMsgCmd.label "Powěsć">
+<!ENTITY nextMsgCmd.accesskey "P">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Njepśecytana powěsć">
 <!ENTITY nextUnreadMsgCmd.accesskey "o">
@@ -302,8 +302,8 @@
 <!ENTITY prevUnreadMsgCmd.label "Njepśecytana powěsć">
 <!ENTITY prevUnreadMsgCmd.accesskey "N">
 <!ENTITY prevUnreadMsgCmd.key "p">
-
-
+<!ENTITY goForwardCmd.label "Dalej pósrědniś">
+<!ENTITY goForwardCmd.accesskey "l">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Slědk">
 <!ENTITY goBackCmd.accesskey "S">
@@ -354,8 +354,8 @@
 <!ENTITY forwardAsInline.accesskey "Z">
 <!ENTITY forwardAsAttachmentCmd.label "Pśidank">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
-
-
+<!ENTITY editAsNewMsgCmd.label "Powěsć ako nowu wobźěłaś">
+<!ENTITY editAsNewMsgCmd.accesskey "n">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Filter z powěsći napóraś…">
 <!ENTITY createFilter.accesskey "F">
@@ -425,7 +425,7 @@
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Pśidanki">
-<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openAttachmentListCmd.accesskey "d">
 <!ENTITY openFeedMessage1.label "Gaž kanalowe powěsće se wócynjaju">
 <!ENTITY openFeedMessage1.accesskey "G">
 <!ENTITY openFeedWebPage.label "Ako webbok wócyniś">
@@ -433,7 +433,7 @@
 <!ENTITY openFeedSummary.label "Ako zespominanje wócynis">
 <!ENTITY openFeedSummary.accesskey "z">
 <!ENTITY openFeedWebPageInMP.label "Mjazy webbokom a zespominanim w powěsćowem pólu wótměnis">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openFeedWebPageInMP.accesskey "M">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Wokno">
@@ -461,8 +461,8 @@
 <!ENTITY savedFiles.label "Skłaźone dataje">
 <!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
-
-
+<!ENTITY filtersCmd2.label "Powěsćowe filtry">
+<!ENTITY filtersCmd2.accesskey "f">
 <!ENTITY filtersApply.label "Filtry na zarědnik nałožyś">
 <!ENTITY filtersApply.accesskey "F">
 <!ENTITY filtersApplyToSelection.label "Filtry na wubrane powěsći nałožyś">
@@ -480,14 +480,16 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Aktualnu historiju lašowaś…">
 <!ENTITY clearRecentHistory.accesskey "h">
-
-
+<!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
+<!ENTITY accountManagerCmd2.accesskey "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Daloke pytanje za zmólkami dowóliś">
 <!ENTITY allowRemoteDebugging.accesskey "D">
 <!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton1.label "Powěsći wobstaraś">
 <!ENTITY newMsgButton.label "Pisaś">
 <!ENTITY replyButton.label "Wótegroniś">
 <!ENTITY replyAllButton.label "Wšym wótegroniś">
@@ -561,16 +563,20 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Ako pśidank dalej pósrědniś">
 <!-- Remote Content Button Popup -->
 
-
-
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Daloke wopśimjeśe w toś tej powěsći pokazaś">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "l">
+<!ENTITY editRemoteContentSettings.label "Nastajenja dalokego wopśimjeśa wobźěłaś…">
+<!ENTITY editRemoteContentSettings.accesskey "s">
+<!ENTITY editRemoteContentSettingsUnix.label "Nastajenja dalokego wopśimjeśa wobźěłaś…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "s">
 <!-- Phishing Button Popup -->
 
-
-
-
-
+<!ENTITY phishingOptionIgnore.label "Warnowanje za toś tu powěsć ignorěrowaś">
+<!ENTITY phishingOptionIgnore.accesskey "i">
+<!ENTITY phishingOptionSettings.label "Nastajenja za namakanje wobšudy wobźěłaś…">
+<!ENTITY phishingOptionSettings.accesskey "k">
+<!ENTITY phishingOptionSettingsUnix.label "Nastajenja za namakanje wobšudy wobźěłaś…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "k">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Nowa powěsć">
@@ -621,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Powěsći pytaś…">
 <!ENTITY folderContextSearchForMessages.accesskey "P">
-
-
+<!ENTITY folderContextProperties2.label "Kakosći">
+<!ENTITY folderContextProperties2.accesskey "K">
 <!ENTITY folderContextFavoriteFolder.label "Faworizěrowany zarědnik">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-
-
+<!ENTITY folderContextSettings2.label "Nastajenja">
+<!ENTITY folderContextSettings2.accesskey "s">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Mě abo E-mail wopśimujo:">
@@ -666,24 +672,26 @@
 <!ENTITY attachmentColumn.label "Pśidanki">
 <!-- Thread Pane Tooltips -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Wubjeŕśo słupy, kótarež maju se zwobrazniś">
+<!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobrazniś">
+<!ENTITY fromColumn2.tooltip "Pó Wót sortěrowaś">
+<!ENTITY recipientColumn2.tooltip "Pó dostawarju sortěrowaś">
+<!ENTITY subjectColumn2.tooltip "Pó temje sortěrowaś">
+<!ENTITY dateColumn2.tooltip "Pó datumje sortěrowaś">
+<!ENTITY priorityColumn2.tooltip "Pó prioriśe sortěrowaś">
+<!ENTITY tagsColumn2.tooltip "Pó wobznamjenjach sortěrowaś">
+<!ENTITY accountColumn2.tooltip "Pó konśe sortěrowaś">
+<!ENTITY statusColumn2.tooltip "Pó statusu sortěrowaś">
+<!ENTITY sizeColumn2.tooltip "Pó wjelikosći sortěrowaś">
+<!ENTITY junkStatusColumn2.tooltip "Pó cajkowem statusu sortěrowaś">
 <!ENTITY unreadColumn2.tooltip "Licba njepśecytanych powěsćow w nitce">
 <!ENTITY totalColumn2.tooltip "Cełkowna licba powěsćow w nitce">
-
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Pó pśecytanych sortěrowaś">
+<!ENTITY receivedColumn2.tooltip "Pó datumje dostaśa sortěrowaś">
+<!ENTITY starredColumn2.tooltip "Pó gwězdku sortěrowaś">
+<!ENTITY locationColumn2.tooltip "Pó adresy sortěrowaś">
+<!ENTITY idColumn2.tooltip "Pó pórěźe dostawanja sortěrowaś">
+<!ENTITY attachmentColumn2.tooltip "Pó pśidankach sortěrowaś">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Powěsć w nowem woknje wócyniś">
@@ -696,10 +704,10 @@
 <!ENTITY contextOpenNewTab.accesskey "r">
 <!ENTITY contextOpenConversation.label "Powěsć w konwersaciji wócyniś">
 <!ENTITY contextOpenConversation.accesskey "k">
-
-
-
-
+<!ENTITY contextOpenContainingFolder.label "Powěsć w jeje zarědniku wócyniś">
+<!ENTITY contextOpenContainingFolder.accesskey "z">
+<!ENTITY contextEditMsgAsNew.label "Ako nowu powěsć wobźěłaś">
+<!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Archiw">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Jano wótpósłarjeju wótegroniś">
@@ -828,8 +836,8 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Adresnikoju pśidaś">
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
-
-
+<!ENTITY EditContact1.label "Kontakt wobźěłaś">
+<!ENTITY EditContact1.accesskey "K">
 <!ENTITY ViewContact.label "Kontakt se woglědaś">
 <!ENTITY ViewContact.accesskey "l">
 <!ENTITY SubscribeToNewsgroup.label "Diskusijnu kupku aboněrowaś">
@@ -880,6 +888,8 @@
 <!ENTITY bringAllToFront.label "Do prědka pśinjasć">
 <!ENTITY zoomWindow.label "Skalěrowanje">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Nastajenja">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Słužby">
@@ -891,3 +901,5 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Wšykne pokazaś">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Nastajenja nałožeńskich symbolow…">

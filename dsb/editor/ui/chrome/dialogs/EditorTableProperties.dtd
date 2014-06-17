@@ -53,7 +53,7 @@
 <!ENTITY cellStyle.label                  "Celowy stil:">
 <!ENTITY cellStyle.accessKey              "C">
 <!ENTITY cellNormal.label                 "Normalny">
-<!ENTITY cellHeader.label                 "Header">
+<!ENTITY cellHeader.label                 "Głowa">
 <!ENTITY cellTextWrap.label               "Tekstowe łamanje:">
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Łamaś">

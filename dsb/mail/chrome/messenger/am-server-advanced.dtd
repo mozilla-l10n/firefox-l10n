@@ -24,10 +24,10 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Serweroju dowóliś toś te mjenjowe rumy pśepisaś">
 <!ENTITY overrideNamespaces.accesskey "m">
-<!ENTITY pop3Desc.label "Pśi ześěgowanju posta toś togo serwera POP slědujucy zarědnik za nowy post wužywaś:" >
+<!ENTITY pop3Desc.label "Pśi ześěgowanju e-maile POP toś togo serwera slědujucy zarědnik za nowu e-mail wužywaś:" >
 <!ENTITY accountDirectory.label "Postowy kašćik za konto toś togo serwera">
 <!ENTITY accountDirectory.accesskey "P">
 <!ENTITY deferToServer.label "Postowy kašćik za druge konto">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Toś ten serwer pśi dostaśu nowego posta zapśimjeś">
+<!ENTITY deferGetNewMail.label "Toś ten serwer pśi dostaśu noweje e-maile zapśimjeś">
 <!ENTITY deferGetNewMail.accesskey "T">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Cajkowe nastajenja">
-<!ENTITY trainingDescription.label "Jolic zmóznjone, dejśo nejpjerwjej &brandShortName; treněrowaś, aby cajkowy post identificěrował, z tym až z pomocu bublinka na cajkowej rědce markěrujuśo powěsći ako cajky abo njecajk. Dejśo powěsći ako cajk a teke ako njecajk markěrowaś. Pótom &brandShortName; móžo cajk awtomatiski markěrowaś.">
-<!ENTITY level.label "Pśiměrjate kontrolu cajkowego posta za toś to konto zmóžniś">
+<!ENTITY trainingDescription.label "Jolic zmóznjone, dejśo nejpjerwjej &brandShortName; treněrowaś, aby cajkowu e-mail identificěrował, z tym až z pomocu bublinka na cajkowej rědce markěrujuśo powěsći ako cajk abo njecajk. Dejśo powěsći ako cajk a teke ako njecajk markěrowaś. Pótom &brandShortName; móžo cajk awtomatiski markěrowaś.">
+<!ENTITY level.label "Pśiměrjate kontrolu cajkoweje e-maile za toś to konto zmóžniś">
 <!ENTITY level.accesskey "P">
 
 <!ENTITY move.label "Cajkowe powěsći pśesunuś do:">
@@ -13,7 +13,7 @@
 <!ENTITY junkFolderOn.accesskey "Z">
 <!ENTITY otherFolder.label "Drugego:">
 <!ENTITY otherFolder.accesskey "D">
-<!ENTITY purge1.label "Cajkowy post awtomatiski lašowaś, kótaryž jo staršy ako">
+<!ENTITY purge1.label "Cajkowu e-mail awtomatiski lašowaś, kótaraž jo starša ako">
 <!ENTITY purge1.accesskey "l">
 <!ENTITY purge2.label "dnjow">
 
@@ -21,8 +21,8 @@
 <!ENTITY whitelistHeader.accesskey "o">
 
 <!ENTITY ispHeadersWarning.label "Jolic to jo zmóžnjone, wobglěda &brandShortName; powěsći, kótarež su pśez toś ten wenkowny klasifikator markěrowane, awtomatiski ako cajk.">
-<!ENTITY ispHeaders.label "Postowym głowam dowěriś, nastajenym wót: ">
-<!ENTITY ispHeaders.accesskey "P">
+<!ENTITY ispHeaders.label "E-mailowym głowam dowěriś, nastajenym wót: ">
+<!ENTITY ispHeaders.accesskey "E">
 
 <!ENTITY junkClassification.label "Wuběrk">
 <!ENTITY junkActions.label "Cel a chowanje">

@@ -65,11 +65,11 @@
 <!ENTITY maxMessagesStart.accesskey "w">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "powěsćow se pšašaś">
-<!ENTITY alwaysAuthenticate.label "Pśi zwězowanju z toś tym serwerom pśecej awtentificěrowanje pominaś.">
+<!ENTITY alwaysAuthenticate.label "Pśi zwězowanju z toś tym serwerom pśecej awtentificěrowanje pominaś">
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "newsrc-dataja:">
 <!ENTITY newsrcPicker.label "Newsrc-dataju wubraś">
-<!ENTITY abbreviate.label "Mjenja diskusijnych kupkow we woknje postowych zarědnikow pokazaś ako:">
+<!ENTITY abbreviate.label "Mjenja diskusijnych kupkow we woknje e-mailowych zarědnikow pokazaś ako:">
 <!ENTITY abbreviateOn.label "Połne mjenja (na pśikład 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrotcone mjenja (na pśikład 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšyrjony…">

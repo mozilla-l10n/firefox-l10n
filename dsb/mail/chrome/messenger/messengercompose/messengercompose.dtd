@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "w">
 <!ENTITY newContact.label "Adresnikowy kontakt…">
 <!ENTITY newContact.accesskey "A">
-
-
+<!ENTITY attachMenu.label "Pśipowjesyś">
+<!ENTITY attachMenu.accesskey "w">
 <!ENTITY attachFileCmd.label "Dataje…">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Wósobinsku kórtku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "b">
-
-
+<!ENTITY remindLater.label "Pózdźej dopomnjeś">
+<!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Zacyniś">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -88,11 +88,11 @@
 <!ENTITY selectAllCmd.label "Wšo wubraś">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "b">
-
-
+<!ENTITY findBarCmd.label "Pytaś…">
+<!ENTITY findBarCmd.accesskey "P">
 <!ENTITY findBarCmd.key "F">
-
-
+<!ENTITY findReplaceCmd.label "Pytaś a wuměniś…">
+<!ENTITY findReplaceCmd.accesskey "m">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Dalej pytaś">
 <!ENTITY findAgainCmd.accesskey "D">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresnik">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "s">
+<!ENTITY preferencesCmd2.label "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey "N">
 <!--  Mac OS X Window Menu -->

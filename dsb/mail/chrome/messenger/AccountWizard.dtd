@@ -39,7 +39,7 @@
 
 
 <!ENTITY incomingTitle.label "Informacije wó dochadnem serwerje">
-<!ENTITY incomingServerTypeDesc.label "Wubjeŕśo typ serwera za dochadajucy post, kótaryž wužywaśo.">
+<!ENTITY incomingServerTypeDesc.label "Wubjeŕśo typ serwera za pśichadajucu e-mail, kótaryž wužywaśo.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -74,7 +74,7 @@
 <!ENTITY outgoingServer.accesskey "W">
 <!ENTITY outgoingUsername.description "Zapódajśo mě wuchadnego serwera, kótarež sćo wót swójogo e-mailowego póbitowarjaa dostał (to jo zwětšego samske mě ako to za dochadny serwer).">
 <!ENTITY outgoingUsername.label "Wužywarske mě wuchadnego serwera:">
-<!ENTITY outgoingUsername.accesskey "U">
+<!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->

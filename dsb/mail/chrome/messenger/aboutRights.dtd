@@ -17,7 +17,7 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; staja se k dispoziciji pód wuměnjenjami ">
 <!ENTITY rights.intro-point1b "licence Mozilla Public License">
-<!ENTITY rights.intro-point1c ". To wóznamjenijo, až móžośo &brandShortName; wužywaś a kopěrowaś a jen na drugich rozdźěliś. Wóstanjo wam pśewóstajone, žrědłowy kod &brandShortName; pó wašom dobrozdaśu změniś, aby wón wašym pótrjebam wótpowědował. Licenca Mozilla Public License dawa wam teke pšawo waše změnjone wersije rozdźěliś.">
+<!ENTITY rights.intro-point1c ". To wóznamjenijo, až móžośo &brandShortName; wužywaś a kopěrowaś a jen na drugich rozdźěliś. Wóstanjo wam pśewóstajone, žrědłowy kode &brandShortName; pó wašom dobrozdaśu změniś, aby wón wašym pótrjebam wótpowědował. Licenca Mozilla Public License dawa wam teke pšawo waše změnjone wersije rozdźěliś.">
 
 <!ENTITY rights.intro-point2a "Mozilla njegarantěrujo wam žedne pšawa na wikowańskich markach abo logach Mozilla a Thunderbird. Pśidatne informacije na wikowańskich namakajośo ">
 <!ENTITY rights.intro-point2b "how">
@@ -36,9 +36,12 @@
 <!ENTITY rights.intro-point4b "wužywańskich wuměnjenjach">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Jolic toś ten produkt wobpśimujo websłužby, nałožujobne wužywańske wuměnjenja za słužby by měli zwězane byś z ">
 <!ENTITY rights.intro-point4b-unbranded "wótrězkom">
 <!ENTITY rights.intro-point4c-unbranded " websedłowych słužbow.">
 
+<!ENTITY rights.webservices-header "&brandFullName; websedłowe słužby">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -60,7 +63,7 @@
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; móžo słužby pó swójom dobrozdaśu zastajiś abo změniś.">
 <!ENTITY rights.webservices-term2 "Sćo pśepšošony, toś te słužby z toś teju wersiju &brandShortName; wužywaś, a maśo wšykne pšawa, kótarež su trěbne, aby to cynił. &vendorShortName; a jogo licencudawarje wuměnjenjaju se wšykne druge pšawa na toś tych słužbach. Toś te wuměnjenja njamaju pšawa wobgranicowaś, kótarež garantěruju se pód licencami zjawnego žrědła a daju se na &brandShortName; a na wótpowědne wersije žrědłowego koda &brandShortName; nałožowaś.">
-
-
+<!ENTITY rights.webservices-term3 "Słužby dodawaju se &quot;kaž wóne su.&quot; &vendorShortName;, jogo sobuźěłaśerje, licencudawarje a rozdźělowarje wótpokazuju wšykne garantije, lěc wurazne lěc zapśimjone, inkluziwnje take, kótarež su bźez wobgranicowanja, garantije, až słužby su kupne a wótpowěduju wašym wósebnym zaměram. Njasośo połne riziko, což nastupa wuběranje słužbow za waše zaměry a kwalitu a wugbaśe słužbow. Někotare suźenja njedowóluja wuzamknjenje abo wobgranicowanje zapśimjonych garantijow, tak toś ta wuzamknjeńska klawsula njedajo se na was nałožyś.">
+<!ENTITY rights.webservices-term4 "Mimo až kazń pomina se to, &vendorShortName;, jogo sobuźěłaśerje, licencydawarje a rozdźělowarje njegarantěruju za indirektne, specialne, pśipadne, naslědne, pokuśeńske abo eksemplariske škódy, kótarež slěduju z wašnje wužywanja &brandShortName; a słužbow. Kolektiwna garantija pód toś tymi wuměnjenjami njepśesegujo 500 $ (pěś stow dolarow). Někotare suźenja njedowóluja wuzamknjenje abo wobgranicowanje wěstych škódow, tak toś to wuzamknjenje a wobgranicowanje njedajotej se na was nałožyś.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; móžo toś te wuměnjenja, jolic su trěbne, pśi góźbje aktualizěrowaś. Toś te wuměnjenja njedaju se bźez pisnego zwólenja &vendorShortName; změniś.">
 <!ENTITY rights.webservices-term6 "Toś te wuměnjenja pódlaže kaznjam stata Kalifornija, USA, mimo pšawniskich póstajenjow, kótarež su w konflikśe z nimi. Jolic maju se źěl toś tych wuměnjenjow za njepłaśiwy abo měnje, až njedaju se pśesajźiś, zbytkowne źěle wobchowaju swóju połnu statkownosć a płaśiwosć. Jolic jo konflikt mjazy pśełožoneju wersiju a engelskeju wersiju, engelska wersija płaśi.">

@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesCmd2.label                           "Kakosći">
+<!ENTITY propertiesCmd2.accesskey                       "K">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Rědy">
 <!ENTITY tasksMenu.accesskey                            "R">
-<!ENTITY messengerCmd.label                             "Post a diskusijne kupki">
-<!ENTITY messengerCmd.accesskey                         "P">
+<!ENTITY messengerCmd.label                             "E-mejl a diskusijne kupki">
+<!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Adrese pytaś…">
 <!ENTITY searchAddressesCmd.accesskey                   "A">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportěrowaś…">
 <!ENTITY exportCmd.accesskey                            "E">
-
-
+<!ENTITY preferencesCmd2.label                          "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Preference">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 <!-- Address Book Toolbar and Context Menus -->  
