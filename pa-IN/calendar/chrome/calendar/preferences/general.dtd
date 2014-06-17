@@ -7,15 +7,28 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "ਆਮ ਸੈਟਿੰਗ" >
-<!ENTITY pref.dateformat.label "ਤਾਰੀਖ ਪਾਠ ਫਾਰਮੈਟ:" >
+<!ENTITY pref.mainbox.label "General Settings" >
+<!ENTITY pref.dateformat.label "Date Text Format:" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "ਲੰਮਾ" >
-<!ENTITY pref.dateformat.short "ਛੋਟਾ"  >
-<!ENTITY pref.defaultlength.label "ਡਿਫਾਲਟ ਘਟਨਾ ਲੰਬਾਈ:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "ਮੂਲ ਸ਼ਾਂਤ (snooze) ਲੰਬਾਈ:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "ਸੈਟਿੰਗ ਤਾਜ਼ਾ" >
-<!ENTITY pref.autorefresh.label "ਕੈਲੰਡਰ ਤਾਜ਼ਾ ਹਰੇਕ" >
-<!ENTITY pref.autorefresh.accesskey "R" >
+<!ENTITY pref.dateformat.long "Long" >
+<!ENTITY pref.dateformat.short "Short"  >
+
+<!ENTITY pref.defaults.label "Default Values for New Items">
+<!ENTITY pref.events.label "Events">
+<!ENTITY pref.tasks.label "Tasks">
+
+<!ENTITY pref.default_event_length.label "Default Length:" >
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_task_none.label "None">
+<!ENTITY pref.default_task_start_of_day.label "Start of Day">
+<!ENTITY pref.default_task_end_of_day.label "End of Day">
+<!ENTITY pref.default_task_tomorrow.label "Tomorrow">
+<!ENTITY pref.default_task_next_week.label "Next Week">
+<!ENTITY pref.default_task_offset_current.label "Relative to Current Time">
+<!ENTITY pref.default_task_offset_start.label "Relative to Start">
+<!ENTITY pref.default_task_offset_next_hour.label "Relative to Next Hour">
+
+<!ENTITY pref.accessibility.label "Accessibility" >
+<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
+<!ENTITY pref.systemcolors.accesskey "c">
