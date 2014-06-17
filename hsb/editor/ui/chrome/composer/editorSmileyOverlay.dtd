@@ -8,51 +8,51 @@
 
 <!ENTITY smiley1Cmd.label "Smějkot">
 <!ENTITY smiley1Cmd.accesskey "m">
-<!ENTITY smiley1Cmd.tooltip "Smějate wobličko zasunyć">
+<!ENTITY smiley1Cmd.tooltip "Smějate wobličko zasadźić">
 <!ENTITY smiley2Cmd.label "Čołomoršćenje">
 <!ENTITY smiley2Cmd.accesskey "o">
-<!ENTITY smiley2Cmd.tooltip "Zmoršćene wobličko zasunyć">
+<!ENTITY smiley2Cmd.tooltip "Zmoršćene wobličko zasadźić">
 <!ENTITY smiley3Cmd.label "Zmikot">
 <!ENTITY smiley3Cmd.accesskey "Z">
-<!ENTITY smiley3Cmd.tooltip "Mikace wobličko zasunyć">
+<!ENTITY smiley3Cmd.tooltip "Mikace wobličko zasadźić">
 <!ENTITY smiley4Cmd.label "Jazyk won">
 <!ENTITY smiley4Cmd.accesskey "w">
-<!ENTITY smiley4Cmd.tooltip "Šćěrjace wobličko zasunyć">
+<!ENTITY smiley4Cmd.tooltip "Šćěrjace wobličko zasadźić">
 <!ENTITY smiley5Cmd.label "Směchi">
 <!ENTITY smiley5Cmd.accesskey "c">
-<!ENTITY smiley5Cmd.tooltip "Chachotace wobličko zasunyć">
+<!ENTITY smiley5Cmd.tooltip "Chachotace wobličko zasadźić">
 <!ENTITY smiley6Cmd.label "Wuskostliwy">
 <!ENTITY smiley6Cmd.accesskey "s">
-<!ENTITY smiley6Cmd.tooltip "Wuskostliwe wobličko zasunyć">
+<!ENTITY smiley6Cmd.tooltip "Wuskostliwe wobličko zasadźić">
 <!ENTITY smiley7Cmd.label "Njerozudźeny">
 <!ENTITY smiley7Cmd.accesskey "d">
-<!ENTITY smiley7Cmd.tooltip "Njerosudźene wobličko zasunyć">
+<!ENTITY smiley7Cmd.tooltip "Njerosudźene wobličko zasadźić">
 <!ENTITY smiley8Cmd.label "Překwapjenje">
 <!ENTITY smiley8Cmd.accesskey "e">
-<!ENTITY smiley8Cmd.tooltip "Překwapjene wobličko zasunyć">
+<!ENTITY smiley8Cmd.tooltip "Překwapjene wobličko zasadźić">
 <!ENTITY smiley9Cmd.label "Hubka">
 <!ENTITY smiley9Cmd.accesskey "H">
-<!ENTITY smiley9Cmd.tooltip "Hubkowace wobličko zasunyć">
+<!ENTITY smiley9Cmd.tooltip "Hubkowace wobličko zasadźić">
 <!ENTITY smiley10Cmd.label "Drišćeć">
 <!ENTITY smiley10Cmd.accesskey "D">
-<!ENTITY smiley10Cmd.tooltip "Drišćace wobličko zasunyć">
+<!ENTITY smiley10Cmd.tooltip "Drišćace wobličko zasadźić">
 <!ENTITY smiley11Cmd.label "Kool">
 <!ENTITY smiley11Cmd.accesskey "K">
-<!ENTITY smiley11Cmd.tooltip "KooIne wobličko zasunyć">
+<!ENTITY smiley11Cmd.tooltip "KooIne wobličko zasadźić">
 <!ENTITY smiley12Cmd.label "Pjenježna huba">
 <!ENTITY smiley12Cmd.accesskey "h">
-<!ENTITY smiley12Cmd.tooltip "Wobličko z pjenježnej hubu zasunyć">
+<!ENTITY smiley12Cmd.tooltip "Wobličko z pjenježnej hubu zasadźić">
 <!ENTITY smiley13Cmd.label "Chrobły">
 <!ENTITY smiley13Cmd.accesskey "C">
-<!ENTITY smiley13Cmd.tooltip "Bjezstarostne wobličko zasunyć">
+<!ENTITY smiley13Cmd.tooltip "Bjezstarostne wobličko zasadźić">
 <!ENTITY smiley14Cmd.label "Njewinowaty">
 <!ENTITY smiley14Cmd.accesskey "i">
-<!ENTITY smiley14Cmd.tooltip "Njewinowate wobličko zasunyć">
+<!ENTITY smiley14Cmd.tooltip "Njewinowate wobličko zasadźić">
 <!ENTITY smiley15Cmd.label "Płakać">
 <!ENTITY smiley15Cmd.accesskey "a">
-<!ENTITY smiley15Cmd.tooltip "Plakace wobličko zasunyć">
+<!ENTITY smiley15Cmd.tooltip "Plakace wobličko zasadźić">
 <!ENTITY smiley16Cmd.label "Mjelčaty">
 <!ENTITY smiley16Cmd.accesskey "l">
-<!ENTITY smiley16Cmd.tooltip "Mjelčate wobličko zasunyć">
-<!ENTITY SmileButton.tooltip "Smějate wobličko zasunyć">
+<!ENTITY smiley16Cmd.tooltip "Mjelčate wobličko zasadźić">
+<!ENTITY SmileButton.tooltip "Smějate wobličko zasadźić">
 

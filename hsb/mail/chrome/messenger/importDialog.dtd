@@ -13,8 +13,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Importować">
 <!ENTITY importAll.label          "Wšo importować">
 <!ENTITY importAll.accesskey      "W">
-<!ENTITY importMail.label         "Póst">
-<!ENTITY importMail.accesskey     "P">
+<!ENTITY importMail.label         "E-mejl">
+<!ENTITY importMail.accesskey     "E">
 <!ENTITY importFeeds.label        "Kanalowe abonementy">
 <!ENTITY importFeeds.accesskey    "K">
 <!ENTITY importAddressbook.label  "Adresniki">
@@ -28,9 +28,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; importowanski asistent">
-<!ENTITY importShortDesc.label    "Póst, adresniki, nastakenja a filtry z druhich programow imporotwać">
+<!ENTITY importShortDesc.label    "E-mejl, adresniki, nastajenja a filtry z druhich programow importować">
 
-<!ENTITY importDescription1.label "Tutón asistent budźe e-mejlowe powěsće, zapiski adresnikow, kanalowe abonementy, nastajenja a/abo filtry z druhich póstowych programow a zwučenych formatow adresnikow do &brandShortName; importować.">
+<!ENTITY importDescription1.label "Tutón asistent budźe e-mejlowe powěsće, zapiski adresnikow, kanalowe abonementy, nastajenja a/abo filtry z druhich e-mejlowych programow a zwučenych formatow adresnikow do &brandShortName; importować.">
 <!ENTITY importDescription2.label "Hdyž buchu importowane, změjeće na nje přistup ze &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Prošu wubjerće datajowy typ, kotryž chceće importować:">

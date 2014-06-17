@@ -4,8 +4,12 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
+<!ENTITY windowTitle.label "Znamješkowe kodowanje składować a změnić">
 <!ENTITY documentTitleTitle.label "Titul strony">
-
-
-
+<!ENTITY documentCharsetTitle.label "Znamješkowe kodowanje">
+<!ENTITY documentCharsetDesc.label "Wubjerće znamješkowe kodowanje, w kotrymž chceće dokument składować:">
+<!ENTITY documentExportToText.label "Jako tekst eksportować">
 

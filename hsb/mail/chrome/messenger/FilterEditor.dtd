@@ -17,7 +17,7 @@
 <!ENTITY highestPriorityCmd.label "Najwyša">
 
 <!ENTITY contextDesc.label "Filter nałožić:">
-<!ENTITY contextIncomingMail.label "Nowy póst so wobstaruje:">
+<!ENTITY contextIncomingMail.label "Nowa e-mejl so wobstaruje:">
 <!ENTITY contextIncomingMail.accesskey "N">
 <!ENTITY contextManual.label "Hdyž so manuelnje nałožuje">
 <!ENTITY contextManual.accesskey "H">

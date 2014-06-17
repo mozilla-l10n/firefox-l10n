@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dockOptionsDialog.title               "Nastajenja nałoženskeho symbola">
+<!ENTITY window.macWidth                       "37em">
 
-
-
-
-
-
-
-
+<!ENTITY bounceSystemDockIcon.label            "Nałoženski symbol animować, hdyž nowa powěsć přińdźe">
+<!ENTITY bounceSystemDockIcon.accesskey        "a">
+<!ENTITY newMessagesCountDock.label            "Ličba nowych powěsćow">
+<!ENTITY newMessagesCountDock.accesskey        "L">
+<!ENTITY showAllUnreadMessagesCount.label      "Ličba njepřečitanych powěsćow">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "n">
+<!ENTITY dockIconBadge.label                   "Marka nałoženskeho symbola">
+<!ENTITY dockIconShow.label                    "Nałoženski symbol woznamjenić z:">

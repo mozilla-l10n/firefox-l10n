@@ -4,7 +4,12 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Do lěsycy zapadnyć">
+
+<!ENTITY enableSnapToGrid.label "zapadnjenje do lěsycy zmóžnić">
+<!ENTITY enableSnapToGrid.accessKey "z">
 
 <!ENTITY sizeEditField.label "Wulkosć:">
 <!ENTITY sizeEditField.accessKey "W">
 
+<!ENTITY pixelsLabel.value "pikselow">

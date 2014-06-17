@@ -8,8 +8,8 @@
 
 <!ENTITY accountActionsButton.label "Kontowe akcije">
 <!ENTITY accountActionsButton.accesskey "a">
-<!ENTITY addMailAccountButton.label "Póstowe konto přidać…">
-<!ENTITY addMailAccountButton.accesskey "P">
+<!ENTITY addMailAccountButton.label "E-mejlowe konto přidać…">
+<!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Chatowe konto přidać…">
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Kanalowe konto přidać…">

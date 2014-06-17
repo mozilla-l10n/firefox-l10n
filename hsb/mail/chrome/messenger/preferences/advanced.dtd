@@ -23,7 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "h">
 
 <!ENTITY systemIntegration.label       "Systemowa integracija">
-<!ENTITY alwaysCheckDefault.label      "Při startowanju přeco kontrolować, hač &brandShortName; je standardny póstowy program">
+<!ENTITY alwaysCheckDefault.label      "Při startowanju přeco kontrolować, hač &brandShortName; je standardny e-mejlowy program">
 <!ENTITY alwaysCheckDefault.accesskey  "P">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; za pytanje za powěsćemi dowolić">
 <!ENTITY searchIntegration.accesskey   "t">
@@ -63,15 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "P">
 <!-- Update -->
 
-
-
-
-
-
+<!ENTITY updateApp.label                 "Aktualizacije &brandShortName;:">
+<!ENTITY updateAuto.label                "Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Aktualizacije pytać, ale rozsud mi přewostajić, hač maja so instalować">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Ženje aktualizacije njepytać (njeporuča so: wěstotne riziko)">
+<!ENTITY updateManual.accesskey          "n">
 <!ENTITY updateAutoAddonWarn.label       "Warnować, jeli to jedyn z přidatkow znjemóžni">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-
-
+<!ENTITY updateHistory.label             "Historiju aktualizacijow pokazać">
+<!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Pozadkowu słužbu za instalowanje aktualizacijow wužiwać">
 <!ENTITY useService.accesskey            "z">

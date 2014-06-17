@@ -23,14 +23,15 @@ sentence. -->
 <!ENTITY  sendTyping.label              "W konwersaciji zdźělenki pisać">
 <!ENTITY  sendTyping.accesskey          "k">
 
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Hdyž powěsće za was přichadźeja:">
+<!ENTITY  desktopChatNotifications.label      "Zdźělenku pokazać">
+<!ENTITY  desktopChatNotifications.accesskey  "d">
+<!ENTITY  chatSound.accesskey                 "h">
+<!ENTITY  chatSound.label                     "Zynk wothrać">
+<!ENTITY  play.label                          "Wothrać">
+<!ENTITY  play.accesskey                      "r">
+<!ENTITY  systemSound.label                   "Standardny sytemowy zynk za nowu e-mejl">
+<!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Slědowacu zynkowu dataju wužić">
 <!ENTITY  customsound.accesskey               "l">
 <!ENTITY  browse.label                        "Přepytać…">

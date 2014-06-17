@@ -19,10 +19,11 @@
 <!ENTITY quickMode.label             "Nastawkowe zjeće pokazać, město toho zo by webstronu začitało">
 <!ENTITY quickMode.accesskey         "h">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Znački awtomatisce z kanalowych &lt;kategorjowych&gt; mjenow wutworić">
+<!ENTITY autotagEnable.accesskey     "a">
+<!ENTITY autotagUsePrefix.label      "Znački prefigować z:">
+<!ENTITY autotagUsePrefix.accesskey  "f">
+<!ENTITY autoTagPrefix.placeholder   "Zapodajće značkowy prefiks">
 
 <!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
 <!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">

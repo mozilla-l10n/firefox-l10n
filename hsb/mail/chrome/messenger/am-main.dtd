@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Mjeno konta:">
 <!ENTITY accountName.accesskey "M">
 <!ENTITY identityTitle.label "Standardna identita">
-<!ENTITY identityDesc.label "Kóžde konto móže swójsku identitu měć. Druhe wosoby widźa tute informacije, hdyž waše powěsće čitaja.">
+<!ENTITY identityDesc.label "Kóžde konto ma identitu, kotraž wobsahuje informacije, kotrež druhe wosoby widźa, hdyž waše powěsće čitaja.">
 <!ENTITY name.label "Waše mjeno:">
 <!ENTITY name.accesskey "W">
 <!ENTITY email.label "E-mejlowa adresa:">

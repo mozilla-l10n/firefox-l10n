@@ -15,7 +15,7 @@
 <!ENTITY never.accesskey               "n">
 <!ENTITY returnSome.label              "Wróćowobkrućenja za někotre powěsće dowolić">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "Jeli w &quot;Komu&quot; abo &quot;Kopija&quot; powěsće njejsym:">
+<!ENTITY notInToCc.label               "Jeli w Komu abo Kopija powěsće njejsym:">
 <!ENTITY notInToCc.accesskey           "J">
 <!ENTITY outsideDomain.label           "Jeli wotpósłar je zwonka mojeje domeny:">
 <!ENTITY outsideDomain.accesskey       "z">

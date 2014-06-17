@@ -13,8 +13,8 @@
 <!ENTITY resetButton.accesskey       "u">
 <!ENTITY openButton.label            "Wočinić">
 <!ENTITY openButton.accesskey        "o">
-
-
+<!ENTITY deleteButton.label          "Zhašeć">
+<!ENTITY deleteButton.accesskey      "h">
 <!ENTITY searchDialogTitle.label     "Powěsće pytać">
 <!ENTITY results.label               "Wuslědki">
 <!ENTITY moveButton.label            "Přesunyć do">
@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "K">
 <!ENTITY composeButton.label         "Spisać">
 <!ENTITY composeButton.accesskey     "S">
-
-
+<!ENTITY deleteCardButton.label      "Zhašeć">
+<!ENTITY deleteCardButton.accesskey  "h">
 <!ENTITY abSearchDialogTitle.label   "Rozšěrjene pytanje w adresniku">
 <!-- Thread Pane -->
 
@@ -57,20 +57,22 @@
 <!ENTITY idColumn.label "Porjad přijeća">
 <!-- Thread Pane Tooltips -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Wubjerće špałty, kotrež maja so zwobraznić">
+<!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobraznić">
+<!ENTITY fromColumn2.tooltip "Po Wot sortěrować">
+<!ENTITY recipientColumn2.tooltip "Po přijimarju sortěrować">
+<!ENTITY subjectColumn2.tooltip "Po temje sortěrować">
+<!ENTITY dateColumn2.tooltip "Po datumje sortěrować">
+<!ENTITY priorityColumn2.tooltip "Po prioriće sortěrować">
+<!ENTITY tagsColumn2.tooltip "Po značkach sortěrować">
+<!ENTITY accountColumn2.tooltip "Po konće sortěrować">
+<!ENTITY statusColumn2.tooltip "Po statusu sortěrować">
+<!ENTITY sizeColumn2.tooltip "Po wulkosći sortěrować">
+<!ENTITY junkStatusColumn2.tooltip "Po čaporowym statusu sortěrować">
 <!ENTITY unreadColumn2.tooltip "Ličba njepřečitanych powěsćow w nitce">
 <!ENTITY totalColumn2.tooltip "Cyłkowna ličba powěsće powěsćow w nitce">
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Po přečitanych sortěrować">
+<!ENTITY receivedColumn2.tooltip "Po datumje přijeća sortěrować">
+<!ENTITY starredColumn2.tooltip "Po hwěžku sortěrować">
+<!ENTITY locationColumn2.tooltip "Po adresy sortěrować">
+<!ENTITY idColumn2.tooltip "Po porjedźe přijimanja sortěrować">

@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Diskusijne skupiny">
 <!ENTITY feeds.label "Kanale">
 
-<!ENTITY unsetDefault.tooltip "Njeje móžno, znutřka  &brandShortName; postajić, zo &brandShortName; hižo nima so jako standardny program wužiwać. Zo byšće druhe nałoženje k standardnemu programej činił, dyrbiće dialog 'Jako standard wužiwać' toho nałoženja wužiwać.">
+<!ENTITY unsetDefault.tooltip "Njeje móžno, znutřka &brandShortName; postajić, zo &brandShortName; hižo nima so jako standardny program wužiwać. Zo byšće druhe nałoženje k standardnemu programej činił, dyrbiće dialog 'Jako standard wužiwać' tutoho nałoženja wužiwać.">
 
 <!ENTITY checkOnStartup.label "Tutu kontrolu přeco přewjesć, hdyž &brandShortName; startuje">
 <!ENTITY checkOnStartup.accesskey "T">

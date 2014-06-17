@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "P">
 <!ENTITY newContact.label "Adresnikowy kontakt…">
 <!ENTITY newContact.accesskey "A">
-
-
+<!ENTITY attachMenu.label "Připowěsnyć">
+<!ENTITY attachMenu.accesskey "w">
 <!ENTITY attachFileCmd.label "Dataje…">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Wizitka (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
-
-
+<!ENTITY remindLater.label "Pozdźišo dopomnić">
+<!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Začinić">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
@@ -73,7 +73,7 @@
 <!ENTITY copyCmd.label "Kopěrować">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Zasunyć">
+<!ENTITY pasteCmd.label "Zasadźić">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY pasteNoFormattingCmd.key "V">
@@ -88,11 +88,11 @@
 <!ENTITY selectAllCmd.label "Wšo wubrać">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
-
-
+<!ENTITY findBarCmd.label "Pytać…">
+<!ENTITY findBarCmd.accesskey "P">
 <!ENTITY findBarCmd.key "F">
-
-
+<!ENTITY findReplaceCmd.label "Pytać a wuměnić…">
+<!ENTITY findReplaceCmd.accesskey "m">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Dale pytać">
 <!ENTITY findAgainCmd.accesskey "l">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresnik">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "s">
+<!ENTITY preferencesCmd2.label "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey "N">
 <!--  Mac OS X Window Menu -->
@@ -216,7 +216,7 @@
 <!ENTITY saveButton.tooltip "Tutu powěsć składować">
 <!ENTITY cutButton.tooltip              "Wutřihać">
 <!ENTITY copyButton.tooltip             "Kopěrować">
-<!ENTITY pasteButton.tooltip            "Zasunyć">
+<!ENTITY pasteButton.tooltip            "Zasadźić">
 <!ENTITY printButton.tooltip "Tutu powěsć ćišćeć">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -268,9 +268,9 @@
 <!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Kopěrować">
 <!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Zasunyć">
+<!ENTITY paste.label "Zasadźić">
 <!ENTITY paste.accesskey "Z">
-<!ENTITY pasteQuote.label "Jako citat zasunyć">
+<!ENTITY pasteQuote.label "Jako citat zasadźić">
 <!ENTITY pasteQuote.accesskey "J">
 
 <!ENTITY openAttachment.label "Wočinić">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Protokol filtrow">
-<!ENTITY viewLogInfo.text "Protokol filtrow dokumentuje, kotre filtry buchu za tute konto nałožene.  Wužijće kontrolowy kašćik deleka, zo byšće protokolowanje znjemóžnił.">
+<!ENTITY viewLogInfo.text "Protokol filtrow dokumentuje, kotre filtry buchu za tute konto nałožene. Wužijće kontrolowy kašćik deleka, zo byšće protokolowanje znjemóžnił.">
 <!ENTITY clearLog.label "Protokol zhašeć">
 <!ENTITY clearLog.accesskey "h">
 <!ENTITY enableLog.label "Protokol filtrow zmóžnić">

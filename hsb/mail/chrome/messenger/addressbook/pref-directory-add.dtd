@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newDirectoryTitle.label           "Kajkosće zapisoweho serwera">
-<!ENTITY directoryName.label               "Mjeno:">
+<!ENTITY directoryName.label               "Mjeno: ">
 <!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Mjeno hosta:">
+<!ENTITY directoryHostname.label           "Mjeno hosta: ">
 <!ENTITY directoryHostname.accesskey       "h">
-<!ENTITY directoryBaseDN.label             "Bazowy DN:">
+<!ENTITY directoryBaseDN.label             "Bazowy DN: ">
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Pytać">
 <!ENTITY findButton.accesskey              "y">
 <!ENTITY directorySecure.label             "Wěstotny zwisk (SSL) wužić">
 <!ENTITY directorySecure.accesskey         "W">
-<!ENTITY directoryLogin.label              "Z wužiwarskim mjenom a hesłom přizjewić">
-<!ENTITY directoryLogin.accesskey          "Z">
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Powšitkowne">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Rozšěrjene">
-<!ENTITY portNumber.label                  "Čisło porta:">
+<!ENTITY portNumber.label                  "Čisło porta: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Pytanski filter:">
 <!ENTITY searchFilter.accesskey            "f">

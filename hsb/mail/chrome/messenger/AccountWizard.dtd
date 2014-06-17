@@ -39,7 +39,7 @@
 
 
 <!ENTITY incomingTitle.label "Informacije wo dochadnym serwerje">
-<!ENTITY incomingServerTypeDesc.label "Wubjerće typ serwera za dochadźacy póst, kotryž wužiwaće.">
+<!ENTITY incomingServerTypeDesc.label "Wubjerće typ serwera za dochadźacu e-mejl, kotryž wužiwaće.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -74,7 +74,7 @@
 <!ENTITY outgoingServer.accesskey "W">
 <!ENTITY outgoingUsername.description "Zapodajće mjeno wuchadneho serwera, kotrež sće wot swojeho e-mejloweho poskićowarja dóstał (to je zwjetša jenake mjeno, kaž te za dochadny serwer).">
 <!ENTITY outgoingUsername.label "Wužiwarske mjeno wuchadneho serwera:">
-<!ENTITY outgoingUsername.accesskey "U">
+<!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
@@ -103,7 +103,7 @@
 
 <!ENTITY accnameTitle.label "Kontowe mjeno">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Zapodajće mjeno, z kotrymž chceće na tute konto přistup měć. (Na přikład &quot;Słužbne konto&quot;, &quot;Priwatne konto&quot; abo &quot;Konto za diskusijne skupiny&quot;)">
+<!ENTITY accnameDesc.label "Zapodajće mjeno, z kotrymž chceće na tute konto přistup měć (na přikład &quot;Słužbne konto&quot;, &quot;Priwatne konto&quot; abo &quot;Konto za diskusijne skupiny&quot;).">
 <!ENTITY accnameLabel.label "Kontowe mjeno:">
 <!ENTITY accnameLabel.accesskey "o">
 <!-- Entities for Done (Congratulations) page -->
@@ -111,14 +111,14 @@
 
 <!ENTITY completionTitle.label "Zbožopřeće!">
 <!ENTITY completionText.label "Prošu přepruwujće deleka podate informacije.">
-<!ENTITY serverTypePrefix.label "Typ serwera za dochadźacy póst:">
-<!ENTITY serverNamePrefix.label "Mjeno serwera za dochadźacy póst:">
+<!ENTITY serverTypePrefix.label "Typ serwera za dochadźacu e-mejl:">
+<!ENTITY serverNamePrefix.label "Mjeno serwera za dochadźacu e-mejl:">
 <!ENTITY smtpServerNamePrefix.label "Serwer za wuchodźace powěsće (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Mjeno powěsćoweho serwera:">
+<!ENTITY newsServerNamePrefix.label "Mjeno powěsćoweho serwera (NNTP):">
 <!ENTITY downloadOnLogin.label "Powěsće nětko sćahnyć">
 <!ENTITY downloadOnLogin.accesskey "h">
-<!ENTITY deferStorageDesc.label "Tutón kašćik znjemóžnić, zo by so póst za tute konto w swojim rjadowaku składował. To so postara wo to, zo tute konto so jako konto najwyšeje runiny zjewi. W druhim padźe budźe dźěl konta lokalnych rjadowakow.">
-<!ENTITY deferStorage.label "Globalny póstowy kašćik wužiwać (póst w lokalnych rjadowakach składować)">
+<!ENTITY deferStorageDesc.label "Tutón kašćik znjemóžnić, zo by so e-mejl za tute konto w swojim rjadowaku składowała. To so postara wo to, zo tute konto so jako konto najwyšeje runiny zjewi. W druhim padźe budźe dźěl konta lokalnych rjadowakow.">
+<!ENTITY deferStorage.label "Globalny e-mejlowy kašćik wužiwać (e-mejl w lokalnych rjadowakach składować)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klikńće na 'Dokónčić', zo byšće tute nastajenja składował a kontowy asistent wopušćił.">
-<!ENTITY clickFinish.labelMac "Klikńće na 'Dokónčić', zo byšće tute nastajenja składował a kontowy asistent wopušćił.">
+<!ENTITY clickFinish.label "Klikńće na Dokónčić, zo byšće tute nastajenja składował a kontowy asistent wopušćił.">
+<!ENTITY clickFinish.labelMac "Klikńće na Dokónčić, zo byšće tute nastajenja składował a kontowy asistent wopušćił.">

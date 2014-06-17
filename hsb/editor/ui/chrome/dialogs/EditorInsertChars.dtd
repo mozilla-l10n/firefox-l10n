@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Znamješka zasunyć">
+<!ENTITY windowTitle.label "Znamješka zasadźić">
 <!ENTITY category.label "Kategorija">
 <!ENTITY letter.label "Pismik:">
 <!ENTITY letter.accessKey "P">
@@ -15,5 +15,5 @@
 <!ENTITY otherUpper.label "druhi wulki">
 <!ENTITY otherLower.label "druhi mały">
 <!ENTITY commonSymbols.label "Zwučene symbole">
-<!ENTITY insertButton.label "Zasunyć">
+<!ENTITY insertButton.label "Zasadźić">
 <!ENTITY closeButton.label "Začinić">

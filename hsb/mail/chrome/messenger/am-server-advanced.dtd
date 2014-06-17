@@ -15,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "Maksimalna ličba serwerowych zwiskow, kotrež dyrbja so pufrować">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Tute nastajenja mjenowe rumy (namespaces) na wašim serwerje IMAP podawaja">
+<!ENTITY namespaceDesc.label "Tute nastajenja mjenowe rumy na wašim IMAP-serwerje podawaja">
 <!ENTITY personalNamespace.label "Wosobinski mjenowy rum:">
 <!ENTITY personalNamespace.accesskey "W">
 <!ENTITY publicNamespace.label "Zjawny (hromadźe wužiwany):">
@@ -24,10 +24,10 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Serwerej dowolić, zo tute mjenowe rumy přeńdźe">
 <!ENTITY overrideNamespaces.accesskey "l">
-<!ENTITY pop3Desc.label "Hdyž so póst POP za tutón serwer sćahuje, naslědny rjadowak za nowy póst wužiwać:" >
+<!ENTITY pop3Desc.label "Hdyž so e-mejl POP za tutón serwer sćahuje, slědowacy rjadowak za nowu e-mejl wužiwać:" >
 <!ENTITY accountDirectory.label "Póstowy kašćik za konto tutoho serwera">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Póstowy kašćik za druhe konto">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Tutón serwer při přijimanju noweho pósta zapřijeć">
+<!ENTITY deferGetNewMail.label "Tutón serwer při přijimanju noweje e-mejle zapřijeć">
 <!ENTITY deferGetNewMail.accesskey "T">

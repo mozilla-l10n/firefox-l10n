@@ -18,7 +18,7 @@
 <!ENTITY TextAreaDisabled.accessKey "Z">
 <!ENTITY TextAreaTabIndex.label "Tabulatorowy indeks:">
 <!ENTITY TextAreaTabIndex.accessKey "i">
-<!ENTITY TextAreaAccessKey.label "Přistupna tasta :">
+<!ENTITY TextAreaAccessKey.label "Přistupna tasta:">
 <!ENTITY TextAreaAccessKey.accessKey "P">
 <!ENTITY InitialText.label "Spočatny tekst:">
 <!ENTITY InitialText.accessKey "t">

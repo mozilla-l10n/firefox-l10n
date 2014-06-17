@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Čaporowe nastajenja">
-<!ENTITY trainingDescription.label "Jeli to je zmóžnjene, dyrbiće najprjedy &brandShortName; trenować. Woznamjeńće za to z tłóčatkom na čaporowej lajsće powěsće jako čapor abo nječapor, zo byšće čapor identifikował. Dyrbiće čaporowe powěsće kaž tež nječaporowe powěsće identifikować. Po tym móže &brandShortName; čapor awtomatisce markěrować.">
-<!ENTITY level.label "Kontrolu čaporoweho pósta za tute konto zmóžnić">
+<!ENTITY trainingDescription.label "Jeli to je zmóžnjene, dyrbiće najprjedy &brandShortName; trenować, zo byšće z pomocu tłóčatka na čaporowej lajsće powěsće jako čapor abo nječapor identifikował. Dyrbiće čaporowe powěsće kaž tež nječaporowe powěsće identifikować. Po tym móže &brandShortName; čapor awtomatisce markěrować.">
+<!ENTITY level.label "Kontrolu čaporoweje e-mejle za tute konto zmóžnić">
 <!ENTITY level.accesskey "K">
 
 <!ENTITY move.label "Nowe čaporowe powěsće přesunyć do:">
@@ -13,7 +13,7 @@
 <!ENTITY junkFolderOn.accesskey "R">
 <!ENTITY otherFolder.label "Druhi:">
 <!ENTITY otherFolder.accesskey "D">
-<!ENTITY purge1.label "Čaporowy póst zhašeć, kotryž je starši hač">
+<!ENTITY purge1.label "Čaporowu e-mejl zhašeć, kotraž je starša hač">
 <!ENTITY purge1.accesskey "z">
 <!ENTITY purge2.label "dnjow">
 
@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "o">
 
 <!ENTITY ispHeadersWarning.label "Jeli je to zmóžnjene, wobhlada &brandShortName; powěsće, kotrež su přez tutón zwonkowny klasifikator markěrowane, awtomatisce jako čapor.">
-<!ENTITY ispHeaders.label "Póstowym hłowam dowěrić, nastajenym wot programa: ">
+<!ENTITY ispHeaders.label "E-mejlowym hłowam dowěrić, nastajenym wot programa: ">
 <!ENTITY ispHeaders.accesskey "h">
 
 <!ENTITY junkClassification.label "Wuběr">

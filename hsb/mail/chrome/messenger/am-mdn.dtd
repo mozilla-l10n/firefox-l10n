@@ -4,30 +4,30 @@
 
 <!ENTITY pane.title                   "Wobkrućenja přijeća">
 <!ENTITY useGlobalPrefs.label         "Globalne nastajenja wobkrućenja přijeća za tute konto wužiwać">
-<!ENTITY useGlobalPrefs.accesskey     "l">
+<!ENTITY useGlobalPrefs.accesskey     "G">
 <!ENTITY globalReceipts.label         "Globalne nastajenja…">
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Wobkrućenja přijeća za tute konto přiměric">
 <!ENTITY useCustomPrefs.accesskey     "b">
-<!ENTITY requestReceipt.label         "Při słanju powěsće přeco wobkrućenje přijeća požadać">
+<!ENTITY requestReceipt.label         "Při słanju powěsćow přeco wobkrućenje přijeća požadać">
 <!ENTITY requestReceipt.accesskey     "P">
 <!ENTITY receiptArrive.label          "Hdyž wobkrućenje přijeća přińdźe:">
 <!ENTITY leaveIt.label                "W póstowym kašćiku wostajić">
-<!ENTITY leaveIt.accesskey            "i">
+<!ENTITY leaveIt.accesskey            "k">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Do mojeho rjadowaka pósłaneho pósta přesunyć">
-<!ENTITY moveToSent.accesskey         "m">
-<!ENTITY requestMDN.label             "Hdyž požadanje za wobkrućenje přijeća dóstam:">
-<!ENTITY returnSome.label             "Za někotre powěsće wobkrućenja přijeća dopušćić">
-<!ENTITY returnSome.accesskey         "r">
+<!ENTITY moveToSent.label             "Do mojeho rjadowaka &quot;Pósłany&quot; přesunyć">
+<!ENTITY moveToSent.accesskey         "r">
+<!ENTITY requestMDN.label             "Hdyž próstwu wo wobkrućenje přijeća dóstam:">
+<!ENTITY returnSome.label             "Wobkrućenje přijeća za někotre powěsće dowolić">
+<!ENTITY returnSome.accesskey         "W">
 <!ENTITY never.label                  "Wobkrućenje přijeća ženje njesłać">
 <!ENTITY never.accesskey              "n">
-<!ENTITY notInToCc.label              "Jeli w &quot;Komu&quot; abo &quot;Kopija&quot; powěsće njejsym:">
-<!ENTITY notInToCc.accesskey          "l">
+<!ENTITY notInToCc.label              "Jeli w Komu abo Kopija powěsće njejsym:">
+<!ENTITY notInToCc.accesskey          "J">
 <!ENTITY outsideDomain.label          "Jeli wotpósłar je zwonka mojeje domeny:">
-<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY outsideDomain.accesskey      "o">
 <!ENTITY otherCases.label             "We wšěch druhich padach:">
-<!ENTITY otherCases.accesskey         "u">
-<!ENTITY askMe.label                  "Prašej so mje">
+<!ENTITY otherCases.accesskey         "d">
+<!ENTITY askMe.label                  "Mje so prašeć">
 <!ENTITY alwaysSend.label             "Přeco słać">
 <!ENTITY neverSend.label              "Ženje njesłać">

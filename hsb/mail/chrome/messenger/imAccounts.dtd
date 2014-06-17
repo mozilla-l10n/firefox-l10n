@@ -25,8 +25,8 @@
 <!ENTITY account.movedown.label       "Dele">
 <!ENTITY account.cancelReconnection.label         "Nowy zwisk přetorhnyć">
 <!ENTITY account.cancelReconnection.accesskey     "o">
-
-
+<!ENTITY account.copyDebugLog.label     "Protokol pytanja za zmylkami kopěrować">
+<!ENTITY account.copyDebugLog.accesskey "P">
 <!ENTITY account.connecting           "Zwjazuje so…">
 <!ENTITY account.disconnecting        "Zwisk so dźěli…">
 <!ENTITY account.disconnected         "Njezwjazany">

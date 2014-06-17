@@ -12,7 +12,7 @@
 <!ENTITY disableAddons.accesskey          "W">
 
 <!ENTITY resetToolbars.label              "Symbolowe lajsty a wodźenske elementy wróćo stajić">
-<!ENTITY resetToolbars.accesskey          "R">
+<!ENTITY resetToolbars.accesskey          "m">
 
 <!ENTITY changeAndRestartButton.label     "Změny přewjesć a znowa startować">
 <!ENTITY changeAndRestartButton.accesskey "Z">

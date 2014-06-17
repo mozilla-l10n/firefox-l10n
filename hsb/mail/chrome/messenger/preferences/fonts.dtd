@@ -27,7 +27,7 @@
 <!ENTITY  font.langGroup.latin1                   "Zapadne">
 <!ENTITY  font.langGroup.latin2                   "Srjedźnoeuropske">
 <!ENTITY  font.langGroup.japanese                 "Japanske">
-<!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne">
+<!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinske zjednorjene">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinske tradicionelne (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejske">

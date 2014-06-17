@@ -8,15 +8,15 @@
 <!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
-<!ENTITY pasteNoFormatting.label "Bjez formatowanja zasunyć">
+<!ENTITY pasteNoFormatting.label "Bjez formatowanja zasadźić">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Zasunyć jako">
+<!ENTITY pasteAs.label "Zasadźić jako">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY pasteAsQuotationCmd.label "Jako citat zasunyć">
+<!ENTITY pasteAsQuotationCmd.label "Jako citat zasadźić">
 <!ENTITY pasteAsQuotationCmd.accesskey "J">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY findBarCmd.label "Pytać…">
 <!ENTITY findReplaceCmd.label "Pytać a narunać…">
 <!ENTITY enableInlineSpellChecker.label "Při zapodaću prawopis kontrolować">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
@@ -25,7 +25,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
-<!ENTITY insertMenu.label "Zasunyć">
+<!ENTITY insertMenu.label "Zasadźić">
 <!ENTITY insertMenu.accesskey "Z">
 <!ENTITY insertLinkCmd.label "Wotkaz…">
 <!ENTITY insertLinkCmd.accesskey "k">
@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znamješka a symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Pod wobrazom łamać">
@@ -233,13 +233,13 @@
 
 <!ENTITY tableSelectMenu2.label "Tabelu wubrać">
 <!ENTITY tableSelectMenu2.accesskey "b">
-<!ENTITY tableInsertMenu2.label "Tabelu zasunyć">
+<!ENTITY tableInsertMenu2.label "Tabelu zasadźić">
 <!ENTITY tableInsertMenu2.accesskey "s">
 <!ENTITY tableDeleteMenu2.label "Tabelu zhašeć">
 <!ENTITY tableDeleteMenu2.accesskey "h">
 <!-- Insert SubMenu -->
 
-<!ENTITY tableInsertMenu.label "Zasunyć">
+<!ENTITY tableInsertMenu.label "Zasadźić">
 <!ENTITY tableInsertMenu.accesskey "Z">
 <!ENTITY tableTable.label "Tabelu">
 <!ENTITY tableTable.accesskey "T">
@@ -291,7 +291,7 @@
 <!ENTITY formatToolbar.tooltip "Formatowanska lajsta">
 <!ENTITY cutToolbarCmd.tooltip "Wutřihać">
 <!ENTITY copyToolbarCmd.tooltip "Kopěrować">
-<!ENTITY pasteToolbarCmd.tooltip "Zasunyć">
+<!ENTITY pasteToolbarCmd.tooltip "Zasadźić">
 <!ENTITY printToolbarCmd.label "Ćišćeć">
 <!ENTITY printToolbarCmd.tooltip "Tutu stronu ćišćeć">
 <!ENTITY findToolbarCmd.label "Pytać">
@@ -299,15 +299,15 @@
 <!ENTITY spellToolbarCmd.label "Prawopis kontrolować">
 <!ENTITY spellToolbarCmd.tooltip "Prawopis wuběra abo cyłeje strony kontrolować">
 <!ENTITY imageToolbarCmd.label "Wobraz">
-<!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasunyć abo kajkosće wubraneho wobraza wobdźěłać">
+<!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasadźić abo kajkosće wubraneho wobraza wobdźěłać">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">
-<!ENTITY hruleToolbarCmd.tooltip "Horicontalnu liniju zasunyć abo kajkosće wubraneje horicontalneje linije wobdźěłać">
+<!ENTITY hruleToolbarCmd.tooltip "Horicontalnu liniju zasadźić abo kajkosće wubraneje horicontalneje linije wobdźěłać">
 <!ENTITY tableToolbarCmd.label "Tabela">
-<!ENTITY tableToolbarCmd.tooltip "Nowu tabelu zasunyć abo kajkosće wubraneje tabele wobdźěłać">
+<!ENTITY tableToolbarCmd.tooltip "Nowu tabelu zasadźić abo kajkosće wubraneje tabele wobdźěłać">
 <!ENTITY linkToolbarCmd.label "Wotkaz">
-<!ENTITY linkToolbarCmd.tooltip "Nowy wotkaz zasunyć abo kajkosće wubraneho wotkaza wobdźěłać">
+<!ENTITY linkToolbarCmd.tooltip "Nowy wotkaz zasadźić abo kajkosće wubraneho wotkaza wobdźěłać">
 <!ENTITY anchorToolbarCmd.label "Kótwička">
-<!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenowanu kótwičku zasunyć abo kajkosće wubraneje kótwički wobdźěłać">
+<!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenowanu kótwičku zasadźić abo kajkosće wubraneje kótwički wobdźěłać">
 <!ENTITY TextColorButton.tooltip "Barbu za tekst wubrać">
 <!ENTITY BackgroundColorButton.tooltip "Barbu za pozadk wubrać">
 <!ENTITY throbber.tooltip "K startowej stronje &vendorShortName;">
@@ -324,7 +324,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Tekst wusunyć (dolěwa přesunyć)">
 <!ENTITY indentToolbarCmd.tooltip "Tekst zasunyć (doprawa přesunyć)">
 <!ENTITY AlignPopupButton.tooltip "Tekstowe wusměrjenje wubrać">
-<!ENTITY InsertPopupButton.tooltip "Wotkaz, kótwičku, wobraz, horicontalnu liniju abo tabelu zasunyć">
+<!ENTITY InsertPopupButton.tooltip "Wotkaz, kótwičku, wobraz, horicontalnu liniju abo tabelu zasadźić">
 <!ENTITY alignLeftButton.tooltip "Tekst po lěwej kromje wusměrić">
 <!ENTITY alignCenterButton.tooltip "Tekst centrowano wusměrić">
 <!ENTITY alignRightButton.tooltip "Tekst po prawej kromje wusměrić">
@@ -339,7 +339,7 @@
 <!ENTITY structChangeTag.accesskey  "z">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label          "Zasunyć">
+<!ENTITY insertTOC.label          "Zasadźić">
 <!ENTITY insertTOC.accesskey      "Z">
 <!ENTITY updateTOC.label          "Aktualizować">
 <!ENTITY updateTOC.accesskey      "a">

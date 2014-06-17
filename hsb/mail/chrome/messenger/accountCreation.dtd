@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Póstowe konto připrawić">
+<!ENTITY autoconfigWizard.title          "E-mejlowe konto připrawić">
 <!ENTITY name.label                      "Waše mjeno:">
 <!ENTITY name.accesskey                  "m">
 <!ENTITY name.placeholder                "Předmjeno Swójbne mjeno">
@@ -18,7 +18,7 @@
 <!ENTITY rememberPassword.accesskey      "s">
 
 <!ENTITY imapLong.label                  "IMAP (zdalene rjadowaki)">
-<!ENTITY pop3Long.label                  "POP3 (waš póst na wašim ličaku wostajić)">
+<!ENTITY pop3Long.label                  "POP3 (wašu e-mejl na wašim ličaku wostajić)">
 
 <!ENTITY incoming.label                  "Dochadźace:">
 <!ENTITY outgoing.label                  "Wuchadźace:">
@@ -78,7 +78,7 @@
 <!ENTITY changeSettings.label            "Nastajenja změnić">
 <!ENTITY changeSettings.accesskey        "N">
 
-<!ENTITY contactYourProvider.description "&brandShortName; móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojemu póstej dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlej huste prašenja za Thunderbird za dalše informacije.">
+<!ENTITY contactYourProvider.description "&brandShortName; móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojej e-mejli dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlejće huste prašenja za Thunderbird za dalše informacije.">
 
 <!ENTITY insecureServer.tooltip.title    "Warnowanje! To je njewěsty serwer.">
 <!ENTITY insecureServer.tooltip.details  "Klikńće na kruh za dalše podrobnosće.">

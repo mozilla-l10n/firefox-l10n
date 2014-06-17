@@ -13,7 +13,7 @@
 <!ENTITY chat.noAccount.description       "Dowolće &brandShortName; was přez proces konfigurowanja wašeho chatoweho konta wjesć.">
 <!ENTITY chat.accountWizard.button       "Prěnje kroki">
 <!ENTITY chat.noConnectedAccount.title             "Waše chatowe konta njejsu zwjazane.">
-<!ENTITY chat.noConnectedAccount.description       "Móžeće je z dialoga 'Chatowy status'  zwjazać:">
+<!ENTITY chat.noConnectedAccount.description       "Móžeće je z dialoga 'Chatowy status' zwjazać:">
 <!ENTITY chat.showAccountManager.button       "Chatowy status pokazać">
 
 <!ENTITY chat.participants             "Wobdźělnicy:">

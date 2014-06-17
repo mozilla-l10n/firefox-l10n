@@ -54,7 +54,7 @@
 <!ENTITY copyCmd.label                                  "Kopěrować">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Zasunyć">
+<!ENTITY pasteCmd.label                                 "Zasadźić">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "Z">
 <!ENTITY deleteCmd.label                                "Zhašeć">
@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesCmd2.label                           "Kajkosće">
+<!ENTITY propertiesCmd2.accesskey                       "k">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Nastroje">
 <!ENTITY tasksMenu.accesskey                            "t">
-<!ENTITY messengerCmd.label                             "Póst a diskusijne skupiny">
-<!ENTITY messengerCmd.accesskey                         "P">
+<!ENTITY messengerCmd.label                             "E-mejl a diskusijne skupiny">
+<!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Adresy pytać…">
 <!ENTITY searchAddressesCmd.accesskey                   "A">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportować…">
 <!ENTITY exportCmd.accesskey                            "E">
-
-
+<!ENTITY preferencesCmd2.label                          "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey                   "N">
 <!-- Address Book Toolbar and Context Menus -->  
@@ -145,7 +145,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Nowy adresnikowy kontakt wutworić">
 <!ENTITY newlistButton.tooltip                          "Nowu lisćinu wutworić">
 <!ENTITY editButton2.tooltip                            "Wubrany zapisk wobdźěłać">
-<!ENTITY newmsgButton.tooltip                           "Póstowu powěsć pósłać">
+<!ENTITY newmsgButton.tooltip                           "E-mejlowu powěsć pósłać">
 <!ENTITY newIM.tooltip                                  "Hnydomnu powěsć pósłać abo bjesadować">
 <!ENTITY deleteButton2.tooltip                           "Wubrany zapisk zhašeć">
 <!-- Dir Tree header -->

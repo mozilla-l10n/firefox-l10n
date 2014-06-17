@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Ju hnydom wotstronić">
 <!ENTITY modelDeleteImmediately.accesskey "u">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Póstowy kašćik při skónčenju wurjedźić">
+<!ENTITY expungeOnExit.label "Póstowy kašćik při skónčenju wurjedźić (&quot;Wuprózdnić&quot;)">
 <!ENTITY expungeOnExit.accesskey "k">
 <!ENTITY emptyTrashOnExit.label "Papjernik při skónčenju wuprózdnić">
 <!ENTITY emptyTrashOnExit.accesskey "e">
@@ -69,7 +69,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "Dataja newsrc:">
 <!ENTITY newsrcPicker.label "Dataju newsrc wubrać">
-<!ENTITY abbreviate.label "Mjena diskusijnych skupinow we woknje póstowych rjadowakow pokazać jako:">
+<!ENTITY abbreviate.label "Mjena diskusijnych skupinow we woknje e-mejlowych rjadowakow pokazać jako:">
 <!ENTITY abbreviateOn.label "Dospołne mjena (na přikład 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Mjena skrótšić (na přikład 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšěrjene…">

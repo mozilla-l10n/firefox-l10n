@@ -4,8 +4,8 @@
 
 <!ENTITY window.title  "Wo čaporowym pósće">
 <!ENTITY window.width  "450">
-<!ENTITY info1a.label  "&brandShortName; awtomatisce dochadźace powěsće wotkrywa, kotrež je po wšěm zdaću čaporowy póst (tež jako spam znaty). Powěsće, wo kotrychž &brandShortName; mysleše, zo su čaporowy póst, čaporowy symbol pokazuja">
+<!ENTITY info1a.label  "&brandShortName; awtomatisce dochadźace powěsće wotkrywa, kotrež je po wšěm zdaću čaporowa e-mejl (tež jako spam znaty). Powěsće, wo kotrychž &brandShortName; mysleše, zo su čaporowa e-mejl, čaporowy symbol pokazuja">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "Najprjedy dyrbiće &brandShortName; treněrować, zo by čaporowy póst spóznał, wužiwajo tłóčatko Čapor symboloweje lajsty, zo bychu powěsće jako čapor abo nječapor markěrowali.">
-<!ENTITY info3.label   "Hdyž &brandShortName; čaporowy póst korektnje identifikuje, móžeće elementy čaporoweho pósta wužiwać, zo by so dochadźacy čaporowy póst do čaporoweho rjadowaka přesunyła.">
+<!ENTITY info2.label   "Najprjedy dyrbiće &brandShortName; treněrować, zo by čaporowu e-mejl spóznał, wužiwajo tłóčatko Čapor symboloweje lajsty, zo bychu so powěsće jako čapor abo nječapor markěrowali.">
+<!ENTITY info3.label   "Hdyž &brandShortName; čaporowu e-mejl korektnje identifikuje, móžeće elementy čaporoweje e-mejle wužiwać, zo by so dochadźaca čaporowa e-mejl do čaporoweho rjadowaka přesunyła.">
 <!ENTITY info4.label   "Za dalše informacije klikńće na Pomoc.">

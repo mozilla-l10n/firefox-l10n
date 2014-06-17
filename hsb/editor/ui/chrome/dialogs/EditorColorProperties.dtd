@@ -23,6 +23,6 @@
 <!ENTITY background.label "Pozadk:">
 <!ENTITY background.accessKey "z">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Pozadkowy wobraz: ">
+<!ENTITY backgroundImage.label "Pozadkowy wobraz:">
 <!ENTITY backgroundImage.accessKey "b">
 <!ENTITY backgroundImage.tooltip "Wobrazowu dataju jako pozadk za wašu stronu wužić">

@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Kajkosće">
 
 <!ENTITY generalInfo.label                       "Powšitkowne informacije">
-
-
-
-
+<!ENTITY folderCharsetFallback.label             "Wuhibne znamješkowe kodowanje:">
+<!ENTITY folderCharsetFallback.accesskey         "u">
+<!ENTITY folderCharsetEnforce.label              "Kodowanje na wšě powěsće w rjadowaku nałožić (indiwiduelne nastajenja kodowanja znamješkow a awtomatiske zwěsćenje budźe so ignorować)">
+<!ENTITY folderCharsetEnforce.accesskey          "K">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Indeks zjimanskeje dataje zaso natwarić">
 <!ENTITY folderRebuildSummaryFile2.label         "Rjadowak porjedźić">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -23,7 +23,7 @@
 <!ENTITY message.label "powěsćow">
 <!ENTITY retentionCleanup.label "Zo by tačelowy rum zaso dóstało, dadźa so stare powěsće na přeco zhašeć.">
 <!ENTITY retentionCleanupImap.label "Zo by tačelowy rum zaso dóstało, dadźa so stare powěsće na přeco zhašeć, lokalne kopije kaž tež originale na zdalenym serwerje.">
-<!ENTITY retentionCleanupPop.label "Powěsće, inkluziwnje jich originalow, na serwerje wobchować:">
+<!ENTITY retentionCleanupPop.label "Zo byšće rum na tačeli wobnowił, hodźa so stare powěsće na přeoo zhašeć, inkluziwnje originale na zdalenym serwerje.">
 <!ENTITY retentionDeleteMsg.label "Powěsće zhašeć, kotrež su wjace hač">
 <!ENTITY retentionDeleteMsg.accesskey "h">
 <!ENTITY retentionKeepAll.label "Powěsće njezhašeć">

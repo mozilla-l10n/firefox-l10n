@@ -23,16 +23,16 @@
 <!ENTITY copyCmd.label            "Kopěrować">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Zasunyć">
+<!ENTITY pasteCmd.label            "Zasadźić">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "Z">
 <!ENTITY deleteCmd.label          "Wotstronić">
-<!ENTITY deleteCmd.accesskey        "s">
+<!ENTITY deleteCmd.accesskey        "r">
 <!ENTITY selectAllCmd.label          "Wšo woznamjenić">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-
-
+<!ENTITY preferencesCmd2.label "Nastajenja">
+<!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label       "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -55,4 +55,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "p">
 
 <!ENTITY quitApplicationCmdMac.label  "&brandShortName; skónčić">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "k">

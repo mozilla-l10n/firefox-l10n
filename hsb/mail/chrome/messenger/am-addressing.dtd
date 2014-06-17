@@ -11,7 +11,7 @@
 <!ENTITY useGlobal.label           "Globalne nastajenja serwera LDAP za tute konto wužiwac">
 <!ENTITY useGlobal.accesskey       "G">
 <!ENTITY editDirectories.label     "Rjadowaki wobdźěłać…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.accesskey "b">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Druhi serwer LDAP wužiwać:">
 <!ENTITY directories.accesskey     "D">

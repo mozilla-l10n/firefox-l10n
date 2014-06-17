@@ -5,13 +5,13 @@
 <!ENTITY WindowTitle.label              "Rozšěrjene nastajenja">
 <!ENTITY AttName.label                  "Atribut: ">
 <!ENTITY AttValue.label                 "Hódnota: ">
-<!ENTITY PropertyName.label             "Kajkosć:">
+<!ENTITY PropertyName.label             "Kajkosć: ">
 <!ENTITY currentattributesfor.label     "Aktuelne atributy za: ">
 <!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Kajkosć">
 <!ENTITY tree.valueHeader.label         "Hódnota">
 <!ENTITY tabHTML.label                  "Atributy HTML">
-<!ENTITY tabCSS.label                   "Inline Style (CSS)">
+<!ENTITY tabCSS.label                   "Inline-stil">
 <!ENTITY tabJSE.label                   "JavaScriptowe podawki">
 
 <!ENTITY editAttribute.label    "Klikńcé horjeka na zapisk, zo byšće jeho hódnotu wobdźěłał">

@@ -11,8 +11,8 @@
 <!ENTITY SelectSize.accesskey "W">
 <!ENTITY SelectMultiple.label "Wjelekróćne wuběranje">
 <!ENTITY SelectMultiple.accesskey "b">
-
-
+<!ENTITY SelectDisabled.label "Znjemóžnjeny">
+<!ENTITY SelectDisabled.accesskey "Z">
 <!ENTITY SelectTabIndex.label "Tab. indeks:">
 <!ENTITY SelectTabIndex.accesskey "i">
 

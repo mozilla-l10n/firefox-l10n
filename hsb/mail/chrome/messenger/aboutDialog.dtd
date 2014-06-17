@@ -6,9 +6,12 @@
 -->
 
 
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "Za aktualizacijemi pytać">
+<!ENTITY update.checkForUpdatesButton.accesskey   "Z">
+<!ENTITY update.updateButton.label                "Za aktualizowanje znowa startować">
+<!ENTITY update.updateButton.accesskey            "s">
+<!ENTITY update.applyButtonBillboard.label        "Aktualizaciju nałožić…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 <!ENTITY community.start2           "&brandShortName; je so wuwił wot ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

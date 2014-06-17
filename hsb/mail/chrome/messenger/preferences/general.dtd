@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Standard wobnowić">
 <!ENTITY useDefault.accesskey             "b">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Nastajenja za nałoženski symbol změnić">
+<!ENTITY dockOptions.label                "Nastajenja nałoženskeho symbola…">
+<!ENTITY dockOptions.accesskey            "N">
 
 <!ENTITY newMessagesArrive.label          "Hdyž nowe powěsće dochadźeja:">
 <!ENTITY playSound.label                  "Zynk wotehrać">
@@ -26,7 +27,7 @@
 
 <!ENTITY play.label                       "Wotehrać">
 <!ENTITY play.accesskey                   "h">
-<!ENTITY systemsound.label                "Standardny zynk systema za nowy póst">
+<!ENTITY systemsound.label                "Standardny zynk systema za nowu e-mejl">
 <!ENTITY systemsoundMac.label             "Standardny zynk za warnowanje">
 <!ENTITY systemsoundMac.accesskey         "t">
 <!ENTITY systemsound.accesskey            "z">

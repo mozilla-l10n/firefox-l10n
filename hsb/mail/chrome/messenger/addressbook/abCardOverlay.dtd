@@ -151,6 +151,6 @@
 <!ENTITY BrowsePhoto.accesskey          "e">
 <!ENTITY PhotoURL.label                 "W syći">
 <!ENTITY PhotoURL.accesskey             "s">
-<!ENTITY PhotoURL.placeholder           "Webadresu fota zasunyć abo zapisać">
+<!ENTITY PhotoURL.placeholder           "Webadresu fota zasadźić abo zapisać">
 <!ENTITY UpdatePhoto.label              "Aktualizować">
 <!ENTITY UpdatePhoto.accesskey          "A">

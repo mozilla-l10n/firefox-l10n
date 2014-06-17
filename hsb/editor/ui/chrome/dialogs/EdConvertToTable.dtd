@@ -5,8 +5,8 @@
 
 
 <!ENTITY windowTitle.label "Do tabele konwertować">
-<!ENTITY instructions1.label   "Composer załožuje nowu tabelowu rjadku za kóždy wotstawk we wubranju. Wubjerće znamješko, kotrež so za rozdźělenje wubranja do stołpikow wužiwa:">
-<!ENTITY instructions2.label   "Wubjerće znamješko, kotrež dyrbi so wužiwać,  zo by so woznamjenjenje do stołpikow rozdźěliło:">
+<!ENTITY instructions1.label   "Editor wutworja nowu tabelowu rjadku za kóždy wotstawk we wuběrje.">
+<!ENTITY instructions2.label   "Wubjerće znamješko, kotrež dyrbi so wužiwać, zo by so wuběr do špałtow rozdźělił:">
 <!ENTITY commaRadio.label      "Koma">
 <!ENTITY spaceRadio.label      "Prózdnota">
 <!ENTITY otherRadio.label      "Druhe znamješko:">
