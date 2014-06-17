@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ট্যাবগুলি">
 <!ENTITY new_tab_opened "নতুন ট্যাব খুলেছে">
-
+<!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "পরিবর্তন করুন">
 
 <!ENTITY settings "বৈশিষ্ট্যাবলী">
 <!ENTITY settings_title "বৈশিষ্ট্যাবলী">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "ভাষা">
+<!ENTITY pref_browser_locale "ব্রাউজারের ভাষা">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "সিস্টেম ডিফল্ট">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীর কাস্টমাইজ করুন">
@@ -115,7 +120,7 @@
 <!ENTITY pref_home_updates "স্বয়ংক্রিয় আপডেট">
 <!ENTITY pref_home_updates_enabled "সক্রিয়">
 <!ENTITY pref_home_updates_wifi "কেবলমাত্র ওয়াইফাই দ্বারা">
-
+<!ENTITY pref_home_suggested_sites "সাইটের অনুসন্ধান পরামর্শ দেখাও">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
