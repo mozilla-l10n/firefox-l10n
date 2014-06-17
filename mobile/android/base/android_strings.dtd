@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; টেবসমূহ">
 <!ENTITY new_tab_opened "নতুন টেব খোলা হৈছে">
-
+<!ENTITY new_private_tab_opened "নতুন ব্যক্তিগত টেব খোলা হ\u0027ল">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "চুইচ কৰক">
 
 <!ENTITY settings "সংহতিসমূহ">
 <!ENTITY settings_title "সংহতিসমূহ">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "ভাষা">
+<!ENTITY pref_browser_locale "ব্ৰাউছাৰৰ ভাষা">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "চিস্টেম অবিকল্পিত">
 
 <!ENTITY pref_category_search3 "সন্ধান কৰক">
 <!ENTITY pref_category_search_summary "আপোনাৰ সন্ধান প্ৰদানকাৰীসকল স্বনিৰ্বাচন কৰক">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "স্বচালিত আপডেইটসমূহ">
 <!ENTITY pref_home_updates_enabled "সামৰ্থবান">
 <!ENTITY pref_home_updates_wifi "কেৱল Wi-Fi ৰে">
-
-
+<!ENTITY pref_home_suggested_sites "ছাইটৰ পৰামৰ্শসমূহ দেখুৱাওক">
+<!ENTITY pref_home_suggested_sites_summary "আপুনি যি ছাইটসমূহ পছন্দ কৰিব বুলি আমি ভাৱিছো সেইসমূহৰ চৰ্টকাট আপোনাৰ আৰম্ভণি পৃষ্ঠাত দেখুৱাওক">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "স্বনিৰ্বাচন কৰক">
 <!ENTITY pref_header_display "প্ৰদৰ্শন">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
-
-
+<!ENTITY pref_header_help "সহায়">
+<!ENTITY pref_header_language "ভাষা">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "উন্নয়নকাৰী সঁজুলিসমূহ">
 
@@ -171,7 +176,7 @@ size. -->
 <!ENTITY pref_show_product_announcements "উৎপাদনৰ ঘোষণাসমূহ দেখুৱাওক">
 <!ENTITY pref_sync "সংমিহলি কৰক">
 <!ENTITY pref_search_suggestions "সন্ধানৰ পৰামৰ্শসমূহ দেখুৱাওক">
-<!ENTITY pref_import_android "Android ৰ পৰা ইমপোৰ্ট কৰক">
+<!ENTITY pref_import_android "Android ৰ পৰা আমদানি কৰক">
 <!ENTITY pref_private_data_history2 "ব্ৰাউছিংৰ ইতিহাস">
 <!ENTITY pref_private_data_formdata "ফৰ্ম আৰু সন্ধানৰ ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ আৰু সক্ৰিয় লগিনসমূহ">
@@ -231,6 +236,8 @@ size. -->
 <!ENTITY pref_update_autodownload_never "কেতিয়াও নহয়">
 <!ENTITY pref_update_autodownload_always "সদায়">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "সহায়">
 
 <!ENTITY quit "প্ৰস্থান কৰক">
 
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "এটা ছাইট যোগ কৰক">
 
 <!ENTITY home_history_title "ইতিহাস">
-
-
+<!ENTITY home_clear_history_button "ব্ৰাউছিং ইতিহাস আতৰাওক">
+<!ENTITY home_clear_history_confirm "আপুনি ইতিহাস আতৰাবলে নিশ্চিত নে?">
 <!ENTITY home_bookmarks_empty "আপুনি সংৰক্ষণ কৰা পত্ৰচিহ্নসমূহ ইয়াত দেখা যায়।">
 <!ENTITY home_last_tabs_title "সৰ্বশেষ সময়ৰ পৰা টেবসমূহ">
 <!ENTITY home_last_tabs_open "সৰ্বশেষ সময়ৰ পৰা সকলো টেব খোলক">
@@ -399,10 +406,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য আতৰোৱা হৈছে">
 <!ENTITY private_data_fail "কিছুমান ব্যক্তিগত তথ্য আতৰাব পৰা নগল">
 
-<!ENTITY bookmarkhistory_button_import "ইমপোৰ্ট কৰক">
-<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস ইমপোৰ্ট কৰা হৈছে">
-<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ ইমপোৰ্ট কৰা হৈছে">
-<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস ইমপোৰ্ট কৰা হৈছে">
+<!ENTITY bookmarkhistory_button_import "আমদানি কৰক">
+<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস আমদানি কৰা হৈছে">
+<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ আমদানি কৰা হৈছে">
+<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস আমদানি কৰা হৈছে">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্ৰহ কৰি অপেক্ষা কৰক...">
 
 <!ENTITY suggestions_prompt3 "আপুনি সন্ধান পৰামৰ্শ অন কৰিব খোজে নে?">
@@ -457,3 +464,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "সৰ্বশেষ সংমিহলি: &formatS;">
