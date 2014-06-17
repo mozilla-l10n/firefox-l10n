@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; লৈ সংযোগ কৰক">
-<!ENTITY sync.title.adddevice.label "এটা &syncBrand.fullName.label; একাওন্ট যোগ কৰক">
+<!ENTITY sync.title.adddevice.label "এটা &syncBrand.fullName.label; একাউণ্ট যোগ কৰক">
 <!ENTITY sync.title.pair.label "এটা ডিভাইচ সংযুক্ত কৰক">
 <!-- J-PAKE Key Screen -->
 
@@ -28,8 +28,8 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডিভাইচৰ বাবে অপেক্ষা কৰা হৈছে…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "আপোনাৰ &syncBrand.fullName.label; একাওন্ট তথ্য সুমুৱাওক">
-<!ENTITY sync.input.username.label "একাওন্ট নাম">
+<!ENTITY sync.subtitle.account.label "আপোনাৰ &syncBrand.fullName.label; একাউণ্ট তথ্য সুমুৱাওক">
+<!ENTITY sync.input.username.label "একাউণ্ট নাম">
 <!ENTITY sync.input.password.label "পাছৱৰ্ড">
 <!ENTITY sync.input.key.label "উদ্ধাৰ কি\u0027">
 <!ENTITY sync.checkbox.server.label "স্বনিৰ্বাচিত চাৰ্ভাৰ ব্যৱহাৰ কৰক">
@@ -91,7 +91,7 @@
 <!ENTITY sync.notification.configure.saved "আপোনাৰ নিৰ্বাচনসমূহ সংৰক্ষণ কৰা হ\u0027ল।">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "ভুল একাওন্ট নাম অথবা পাছৱৰ্ড">
+<!ENTITY sync.invalidcreds.label "ভুল একাউণ্ট নাম অথবা পাছৱৰ্ড">
 <!ENTITY sync.invalidserver.label "অনুগ্ৰহ কৰি এটা বৈধ চাৰ্ভাৰ URL সুমুৱাওক">
 <!ENTITY sync.verifying.label "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
 <!ENTITY sync.new.recoverykey.status.incorrect "উদ্ধাৰ কি\u0027 ভুল হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
@@ -105,11 +105,14 @@
 <!ENTITY sync.text.tab.sent.label "আপোনাৰ টেব পঠোৱা হল!">
 <!ENTITY sync.text.tab.not.sent.label "আপোনাৰ টেব পঠাওতে এটা সমস্যা হৈছিল।">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox একাউণ্টসমূহ">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
-<!ENTITY fxaccount_email_hint "ই-মেইল">
+<!ENTITY fxaccount_email_hint "ইমেইল">
 <!ENTITY fxaccount_password_hint "পাছৱৰ্ড">
 <!ENTITY fxaccount_password_hide "লুকুৱাওক">
 <!ENTITY fxaccount_password_show "দেখুৱাওক">
@@ -128,7 +131,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "গোপনীয়তা জাননি">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; লৈ স্বাগতম">
-<!ENTITY fxaccount_getting_started_description "আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱাৰ্ডসমূহ আৰু অধিক সংমিহলি কৰিবলে ছাইন ইন কৰক।">
+<!ENTITY fxaccount_getting_started_description "আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱৰ্ডসমূহ আৰু অধিক সংমিহলি কৰিবলে ছাইন ইন কৰক।">
 <!ENTITY fxaccount_getting_started_get_started "আৰম্ভ কৰক">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ৰ এটা পুৰনি সংস্কৰণ ব্যৱহাৰ কৰি আছে?">
 <!-- Localization note: the Firefox below should not change with the
@@ -142,17 +145,17 @@
 <!ENTITY fxaccount_create_account_policy_text2 "আগবাঢ়ি, মই Firefox cloud সেৱাসমূহৰ &formatS1; আৰু &formatS2; মানি লৈছো">
 <!ENTITY fxaccount_create_account_button "পৰৱৰ্তী">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "কি সংমিহলি কৰা হব বাছক">
-<!ENTITY fxaccount_create_account_sign_in_instead "ইতিমধ্যে এটা একাওন্ট আছে? ছাইন ইন কৰক">
+<!ENTITY fxaccount_create_account_sign_in_instead "ইতিমধ্যে এটা একাউণ্ট আছে? ছাইন ইন কৰক">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 অথবা আগৰ">
-<!ENTITY fxaccount_create_account_unknown_error "একাওন্ট সৃষ্টি কৰিব পৰা নগল">
+<!ENTITY fxaccount_create_account_unknown_error "একাউণ্ট সৃষ্টি কৰিব পৰা নগল">
 
-<!ENTITY fxaccount_account_create_not_allowed "একাওন্ট সৃষ্টি কৰিব নোৱাৰি">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "আপুনি এটা একাওন্ট সৃষ্টি কৰিবলে নিৰ্দিষ্ট বয়সৰ হব লাগিব।">
+<!ENTITY fxaccount_account_create_not_allowed "একাউণ্ট সৃষ্টি কৰিব নোৱাৰি">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "আপুনি এটা একাউণ্ট সৃষ্টি কৰিবলে নিৰ্দিষ্ট বয়সৰ হব লাগিব।">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "অধিক জানক">
 
-<!ENTITY fxaccount_confirm_account_header "আপোনাৰ একাওন্ট সুনিশ্চিত কৰক">
+<!ENTITY fxaccount_confirm_account_header "আপোনাৰ একাউণ্ট সুনিশ্চিত কৰক">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "&formatS; লৈ এটা সত্যাপন সংযোগ পঠোৱা হৈছে">
+<!ENTITY fxaccount_confirm_account_verification_link "&formatS; লৈ এটা সত্যাপন লিঙ্ক পঠোৱা হৈছে">
 <!ENTITY fxaccount_confirm_account_resend_email "ইমেইল পুনৰ পঠাওক">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "সত্যাপন ইমেইল পঠোৱা হ\u0027ল">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "সত্যাপন ইমেইল পঠাব পৰা নগ\u0027ল">
@@ -163,19 +166,19 @@
 <!ENTITY fxaccount_sign_in_create_account_instead "এটা একাউণ্ট সৃষ্টি কৰক">
 <!ENTITY fxaccount_sign_in_unknown_error "ছাইন ইন কৰিব পৰা নগ\u0027ল">
 
-<!ENTITY fxaccount_account_verified_sub_header "একাওন্ট সতাসত্য নিৰূপণ কৰা হল">
+<!ENTITY fxaccount_account_verified_sub_header "একাউণ্ট সতাসত্য নিৰূপণ কৰা হল">
 <!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত সংমিহলি আৰম্ভ কৰিব">
 
 <!ENTITY fxaccount_update_credentials_header "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_button_label "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_unknown_error "ছাইন ইন কৰিব পৰা নগল">
 
-<!ENTITY fxaccount_status_header2 "Firefox একাওন্ট">
+<!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
-
+<!ENTITY fxaccount_status_device_name "ডিভাইচৰ নাম">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সামৰ্থবান">
-<!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাওন্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
+<!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাউণ্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_credentials "সংযোগ কৰিব নোৱাৰি। ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_upgrade "ছাইন ইন কৰিবলৈ আপুনি &brandShortName; ক উন্নত কৰিব লাগিব।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
@@ -210,10 +213,10 @@
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "আপুনি Firefox উন্নত কৰিব লাগিব">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "একাওন্ট ইতিমধ্যে অস্তিত্ববান। &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "একাউণ্ট ইতিমধ্যে অস্তিত্ববান। &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "অবৈধ ইমেইল অথবা পাছৱৰ্ড">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "অবৈধ ইমেইল অথবা পাছৱৰ্ড">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "একাওন্ট সতাসত্য নিৰূপিত নহয়">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "একাউণ্ট সতাসত্য নিৰূপিত নহয়">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "চাৰ্ভাৰ ব্যস্ত, ক্ষন্তেক পিছত পুনৰ চেষ্টা কৰক">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "চাৰ্ভাৰ ব্যস্ত, ক্ষন্তেক পিছত পুনৰ চেষ্টা কৰক">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "এটা সমস্যা হৈছিল">

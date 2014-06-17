@@ -14,8 +14,8 @@
 <!ENTITY sync.setup.title           "সংমিহলি কৰিবলৈ সংযোগ কৰক">
 <!ENTITY sync.setup.pair            "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত &quot;এটা ডিভাইচ যোৰ কৰক&quot; বাছক।">
 <!ENTITY sync.fallback              "মই মোৰ কমপিউটাৰৰ ওচৰত নাই…">
-<!ENTITY sync.setup.manual          "আপোনাৰ সংমিহলি একাওন্টৰ তথ্য সুমুৱাওক">
-<!ENTITY sync.account               "একাওন্ট নাম">
+<!ENTITY sync.setup.manual          "আপোনাৰ সংমিহলি একাউণ্টৰ তথ্য সুমুৱাওক">
+<!ENTITY sync.account               "একাউণ্ট নাম">
 <!ENTITY sync.password              "পাছৱৰ্ড">
 <!ENTITY sync.recoveryKey           "উদ্ধাৰ কি'">
 <!ENTITY sync.customServer          "স্বনিৰ্বাচিত চাৰ্ভাৰ ব্যৱহাৰ কৰক">

@@ -98,7 +98,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>প্ৰাপ্ত কৰা তথ্য প্ৰমাণীত কৰিব নোৱাৰা বাবে আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি।</li> 
+<li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীসকলক যোগাযোগ কৰক।</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
