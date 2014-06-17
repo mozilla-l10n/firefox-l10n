@@ -47,7 +47,7 @@ ngaphantsi ukuqhubeka nokufakela olu hlaziyo. ">
 <!ENTITY  license.instructionText         "Nceda ufunde isivumelwano selayisensi esilandelayo. Sebenzisa ibha yokusikrola ukusibona sonke esi sivumelwano.">
 <!ENTITY  license.accept                  "Mna ndiyayamkela imiqathango kwiSivumelwano seLayisensi">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Mna Andiyamkeli imiqathango kwiSivumelwano seLayisensi">
+<!ENTITY  license.decline                 "Mna andiyamkeli imiqathango kwisiVumelwano seLayisenisi">
 <!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "IZongezelelo ezingahambelaniyo ziFunyenwe">

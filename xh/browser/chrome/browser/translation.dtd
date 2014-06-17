@@ -44,4 +44,13 @@
 <!ENTITY translation.errorTranslating.label     "Kubekho impazamo ekuguqulelweni kweli khasi.">
 <!ENTITY translation.tryAgain.button            "Zama kwakhona">
 
+
 <!ENTITY translation.options.menu               "Iindlela zokhetho">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+
+
+
