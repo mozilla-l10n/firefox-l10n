@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "සහතිකය පිරික්සා බලමින්…">
 <!ENTITY certmgr.subjectinfo.label            "ලබන්නා">
 <!ENTITY certmgr.issuerinfo.label             "නිකුත් කරන්නා">
-<!ENTITY certmgr.validity.label               "වලංගු භාවය" >
+
 <!ENTITY certmgr.fingerprints.label           "ඇඟිලි සළකුණු">
 <!ENTITY certmgr.certdetail.title             "සහතිකයේ තොරතුරු">
 <!ENTITY certmgr.certdetail.cn                "පොදු නාමය (CN)">
 <!ENTITY certmgr.certdetail.o                 "සංවිධානය (O)">
 <!ENTITY certmgr.certdetail.ou                "සංවිධානාත්මක ඒකකය (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "අනු ක්‍රමාංකය">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ඇඟිලි සළකුණ">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 ඇඟිලි සළකුණ">
 
 <!ENTITY certmgr.editcert.title               "ආරක්ෂණ සහතික සිටුවම් සකසන්න">
 <!ENTITY certmgr.editcacert.title             "CA සහතික විශ්වාස සිටුවම් සකසන්න">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "සේවාදායකය">
 <!ENTITY certmgr.override_lifetime            "ආයුකාළය">
 <!ENTITY certmgr.tokenname                    "ආරක්ෂණ උපාංගය">
-<!ENTITY certmgr.issued                       "නිකුත්කරන ලද දිනය">
+
 <!ENTITY certmgr.expires                      "අවලංගු වන දිනය">
 <!ENTITY certmgr.email                        "විද්‍යුත් තැපැල් ලිපිනය">
 <!ENTITY certmgr.serial                       "අනුක්‍රමික අංකය">

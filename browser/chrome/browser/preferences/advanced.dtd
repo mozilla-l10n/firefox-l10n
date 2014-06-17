@@ -122,12 +122,12 @@
 <!ENTITY certificateTab.label            "සහතික">
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "සැමවිටම විමසන්න">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "සහතික පෙන්වන්න">
-<!ENTITY viewCerts.accesskey             "s">
+
+
+
 <!ENTITY verify2.label                   "වලංගුකරණය">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක මෙවලම්">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+

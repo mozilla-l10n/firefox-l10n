@@ -20,7 +20,7 @@
 <!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "බොහෝ සෙවුම් යන්ත්‍ර ලබාගන්න...">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "සෙවුම් යෝජනා පෙන්වන්න">
 <!ENTITY  enableSuggest.accesskey   "S">

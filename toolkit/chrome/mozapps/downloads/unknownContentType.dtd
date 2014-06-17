@@ -5,11 +5,11 @@
 <!ENTITY  actionQuestion.label        "&brandShortName; මෙ ගොනුව සමග කුමක් කළ යුතුද?">
 
 <!ENTITY  openWith.label              "සමඟ විවෘත කරන්න">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "අනිකුත්...">
 
 <!ENTITY  saveFile.label              "ගොනුව සුරකින්න">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "මෙවැනි ගොනු සඳහා දැන් පටන් මෙය ඉබේ කරන්න.">
 <!ENTITY  rememberChoice.accesskey    "a">

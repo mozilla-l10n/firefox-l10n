@@ -11,11 +11,11 @@
 <!ENTITY  noProxyTypeRadio.label        "ප්‍රොක්සි නැත">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "පද්ධති ප්‍රොක්සි සැකසුම් භාවිතා කරන්න">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා ප්‍රොක්සි සැකසුම් ස්වයංක්‍රීයව හදුනා ගන්න">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "අභිමත ප්‍රොක්සි සැකසුම්:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "ස්වයංක්‍රීය ප්‍රොක්සි සැකසුම් URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "යළි පූරණය">
@@ -40,7 +40,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ප්‍රොක්සි අවශ්‍ය නොවන:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "උදාහරණ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "සියලු නියමාවලි සඳහා එකම ප්‍රොක්සි භාවිතා කරන්න">
 <!ENTITY  shareproxy.accesskey          "s">
