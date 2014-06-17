@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwězaś">
-<!ENTITY sync.title.adddevice.label "Konto &syncBrand.shortName.label; pśidaś">
+<!ENTITY sync.title.adddevice.label "Konto &syncBrand.fullName.label; pśidaś">
 <!ENTITY sync.title.pair.label "Rěd zwězaś">
 <!-- J-PAKE Key Screen -->
 
@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "Waš rejtark jo se pósłał!">
 <!ENTITY sync.text.tab.not.sent.label "Pśi słanju wašogo rejtarka jo problem nastał.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Konta Firefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Pśizjawjony ako">
-
+<!ENTITY fxaccount_status_device_name "Rědowe mě">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: zmóžnjony">
 <!ENTITY fxaccount_status_needs_verification2 "Wašo konto musy se pśeglědaś. Potusniśo, aby wobkšuśeńsku mailku znowego pósłał.">

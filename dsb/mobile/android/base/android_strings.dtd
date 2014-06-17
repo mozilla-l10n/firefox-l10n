@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "K rejtarkoju pśěpěś">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - rozpšawjak wowalenjow">
-<!ENTITY  crash_message2 "&brandShortName; jo problem měł a jo wowalił. Waše rejtarki by měli se na startowem boku &brandShortname; nalicyś, gaž startujośo znowego.">
+<!ENTITY  crash_message2 "&brandShortName; jo problem měł a jo wowalił. Waše rejtarki by měli se na startowem boku &brandShortName; nalicyś, gaž startujośo znowego.">
 <!ENTITY  crash_send_report_message3 "Informěrujśo &vendorShortName; wó toś tom wowalenju, aby mógał jen wótpórał">
 <!ENTITY  crash_include_url2 "Adresu boka zapśimjeś, kótaryž som se woglědał">
 <!ENTITY  crash_sorry "Jo nam luto">
@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; rejtarkow">
 <!ENTITY new_tab_opened "Nowy rejtark jo se wócynił">
-
+<!ENTITY new_private_tab_opened "Nowy priwatny rejtark jo se wócynił">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PŚEŠALTOWAŚ">
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Rěc">
+<!ENTITY pref_browser_locale "Rěc wobglědowaka">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Systemowy standard">
 
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Awtomatiske aktualizacije">
 <!ENTITY pref_home_updates_enabled "Zmóžnjony">
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
-
-
+<!ENTITY pref_home_suggested_sites "Sedłowe naraźenja pokazaś">
+<!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne.">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pśiměriś">
 <!ENTITY pref_header_display "Zwobrazniś">
 <!ENTITY pref_header_privacy_short "Priwatnosć">
-
-
+<!ENTITY pref_header_help "Pomoc">
+<!ENTITY pref_header_language "Rěc">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Wuwijarske rědy">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Pśecej">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Pomoc">
+
 <!ENTITY quit "Skóńcyś">
 
 <!ENTITY addons "Dodanki">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Sedło pśidaś">
 
 <!ENTITY home_history_title "Historija">
-
-
+<!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
+<!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
 <!ENTITY home_bookmarks_empty "Cytańske znamjenja, kótarež składujośo, pokazuju se how.">
 <!ENTITY home_last_tabs_title "Rejtarki ze slědnego raza">
 <!ENTITY home_last_tabs_open "Wšykne rejtarki ze slědnego raza wócyniś">
@@ -460,3 +467,5 @@ z Androida">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Slědny raz synchronizěrowany: &formatS;">
