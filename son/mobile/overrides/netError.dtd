@@ -101,7 +101,10 @@ goy ra.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Moɲoo kaŋ war ga ceeci k'a dii ya ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</li> 
+<li>Taare war Interneti nungu koyey cee ka šendaa woo alhabar tee i se.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

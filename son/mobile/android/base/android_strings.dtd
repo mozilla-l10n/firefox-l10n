@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "nor loku &formatD;">
 <!ENTITY new_tab_opened "Nor loku taaga feera">
-
+<!ENTITY new_private_tab_opened "Sutura nor loku taaga feera">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Šenni">
+<!ENTITY pref_browser_locale "Ceecikaw šenni">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Dabariɲaa tilasu">
 
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Boŋtaagandirey">
 <!ENTITY pref_home_updates_enabled "Ga dira">
 <!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
-
-
+<!ENTITY pref_home_suggested_sites "Nungu honnandiyaney cebe">
+<!ENTITY pref_home_suggested_sites_summary "Duurandey cebe nungey war šintinmoɲoo ga kaŋ ir ga tammahã war ga dii i ra nafaw">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Hanse boŋše">
 <!ENTITY pref_header_display "Cebe">
 <!ENTITY pref_header_privacy_short "Sutura">
-
-
+<!ENTITY pref_header_help "Faaba">
+<!ENTITY pref_header_language "Šenni">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Cinakey goyjinawey">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Waati kul">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Faaba">
+
 <!ENTITY quit "Fatta">
 
 <!ENTITY addons "Tontoney">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
 
 <!ENTITY home_history_title "Taariki">
-
-
+<!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
+<!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
 <!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
@@ -460,3 +467,5 @@ Android ra">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Hangande koraa: &formatS;">
