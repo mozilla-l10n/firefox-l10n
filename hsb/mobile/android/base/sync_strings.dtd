@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwjazać">
-<!ENTITY sync.title.adddevice.label "Konto &syncBrand.shortName.label; přidać">
+<!ENTITY sync.title.adddevice.label "Konto &syncBrand.fullName.label; přidać">
 <!ENTITY sync.title.pair.label "Grat zwjazać">
 <!-- J-PAKE Key Screen -->
 
@@ -30,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Zapodajće swoje kontowe informacije &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Kontowe mjeno">
-<!ENTITY sync.input.password.label "Zapodajće swoje kontowe informacije &syncBrand.fullName.label;">
+<!ENTITY sync.input.password.label "Hesło">
 <!ENTITY sync.input.key.label "Wobnowjenski kluč">
 <!ENTITY sync.checkbox.server.label "Swójski serwer wužiwać">
 <!ENTITY sync.input.server.label "Serwerowy URL">
@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "Waš rajtark je so pósłał!">
 <!ENTITY sync.text.tab.not.sent.label "Při słanju wašeho rajtarka je problem wustupił.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Konta Firefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
-
+<!ENTITY fxaccount_status_device_name "Gratowe mjeno">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: zmóžnjeny">
 <!ENTITY fxaccount_status_needs_verification2 "Waše konto dyrbi so přepruwować. Podótkńće so, zo byšće přepruwowansku e-mejl znowa pósłał.">

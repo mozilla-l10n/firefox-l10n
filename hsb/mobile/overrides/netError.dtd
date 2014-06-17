@@ -101,7 +101,10 @@ systemje.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> 
+<li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
