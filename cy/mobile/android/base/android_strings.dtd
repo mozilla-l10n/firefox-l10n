@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Tabiau &formatD;">
 <!ENTITY new_tab_opened "Tab newydd wedi ei agor">
-
+<!ENTITY new_private_tab_opened "Tab preifat newydd wedi ei agor">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "NEWID">
 
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Iaith">
+<!ENTITY pref_browser_locale "Iaith y porwr">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Rhagosodiad y system">
 
 <!ENTITY pref_category_search3 "Chwilio">
 <!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Diweddariadau awtomatig">
 <!ENTITY pref_home_updates_enabled "Galluogwyd">
 <!ENTITY pref_home_updates_wifi "Hanes pori a llwytho i lawr">
-
-
+<!ENTITY pref_home_suggested_sites "Dangos awgrymiadau am wefannau">
+<!ENTITY pref_home_suggested_sites_summary "Dangos llwybrau byr ar eich tudalen cartref i wefannau diddorol">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Cyfaddasu">
 <!ENTITY pref_header_display "Dangosydd">
 <!ENTITY pref_header_privacy_short "Preifatrwydd">
-
-
+<!ENTITY pref_header_help "Cymorth">
+<!ENTITY pref_header_language "Iaith">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Offer datblygu">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Bob tro">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Cymorth">
+
 <!ENTITY quit "Gadael">
 
 <!ENTITY addons "Ychwanegion">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Ychwanegu gwefan">
 
 <!ENTITY home_history_title "Hanes">
-
-
+<!ENTITY home_clear_history_button "Clirio eich hanes pori">
+<!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
 <!ENTITY home_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY home_last_tabs_open "Agor pob tab ers y tro diwethaf">
@@ -460,3 +467,5 @@ o Android">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Cydweddwyd diwethaf: &formatS;">
