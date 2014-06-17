@@ -62,6 +62,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; tabbladen">
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
+<!ENTITY new_private_tab_opened "Nieuw privétabblad geopend">
 
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
