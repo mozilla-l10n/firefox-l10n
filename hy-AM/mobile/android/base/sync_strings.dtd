@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "Ներդիրը ուղարկվել է:">
 <!ENTITY sync.text.tab.not.sent.label "Հնարավոր չեղավ ուղարկել ներդիրը:">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox-ի հաշիվ">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
-
+<!ENTITY fxaccount_status_device_name "Սարքի անունը">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: միացած է">
 <!ENTITY fxaccount_status_needs_verification2 "Ձեր հաշիվը պետք է հաստատել: Կրկին ուղարկել հաստատումը:">
