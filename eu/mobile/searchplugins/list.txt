@@ -1,3 +1,6 @@
+bing
+eBay-es
+elebila
 google
-twitter
 wikipedia-eu
+yahoo-es
