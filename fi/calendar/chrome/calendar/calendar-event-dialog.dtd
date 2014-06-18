@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Lähettäjä" >
 <!ENTITY newevent.to.label                  "Vastaanottaja" >
-<!ENTITY newevent.attendees.notify.label    "Ilmoita osanottajille">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Älä paljasta osallistujia kutsuissa">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Jos tämä on valittu, osallistujat eivät näe toisiaan kutsuissa. Sovelletaan vain sähköpostikutsuihin.">
 
 <!ENTITY newevent.status.label                    "Tila" >
 <!ENTITY newevent.status.accesskey                "T" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; valmiina">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Ilmoita osallistujille">
+<!ENTITY event.attendees.notifyundisclosed.label    "Erilliset kutsut jokaiselle osallistujalle">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Jos tämä on valittu, niin jokaiselle osallistujalle lähetetään yksi sähköpostiviesti. Jokaisessa kutsussa on mainittu vain osallistuja, joka on vastaanottanut sen. Näin muiden osallistujien henkilöllisyydet eivät paljastu.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">

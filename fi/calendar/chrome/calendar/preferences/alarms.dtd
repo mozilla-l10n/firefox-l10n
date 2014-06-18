@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "l">
 <!ENTITY pref.defaultemail.label "Oletusosoite, johon hälytykset lähetetään:">
 <!ENTITY pref.defaulttext.label "Hälytyksen oletusteksti:">
+
+<!ENTITY pref.defaultsnoozelength.label "Lykkäyksen oletuspituus:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "L">

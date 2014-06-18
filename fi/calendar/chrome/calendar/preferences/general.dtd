@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "P">
 <!ENTITY pref.dateformat.long "Pitkä" >
 <!ENTITY pref.dateformat.short "Lyhyt"  >
-<!ENTITY pref.defaultlength.label "Tapahtuman oletuspituus:" >
-<!ENTITY pref.defaultlength.accesskey "T">
-<!ENTITY pref.defaultsnoozelength.label "Torkun oletuspituus:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "o">
+
+<!ENTITY pref.defaults.label "Oletusarvot uusille merkinnöille">
+<!ENTITY pref.events.label "Tapahtumat">
+<!ENTITY pref.tasks.label "Tehtävät">
+
+<!ENTITY pref.default_event_length.label "Oletuspituus:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Ei mitään">
+<!ENTITY pref.default_task_start_of_day.label "Päivän alku">
+<!ENTITY pref.default_task_end_of_day.label "Päivän loppu">
+<!ENTITY pref.default_task_tomorrow.label "Huominen">
+<!ENTITY pref.default_task_next_week.label "Ensi viikko">
+<!ENTITY pref.default_task_offset_current.label "Suhteessa nykyiseen aikaan">
+<!ENTITY pref.default_task_offset_start.label "Suhteessa alkuun">
+<!ENTITY pref.default_task_offset_next_hour.label "Suhteessa seuraavaan tasatuntiin">
 
 <!ENTITY pref.accessibility.label "Esteettömyys" >
 <!ENTITY pref.systemcolors.label "Optimoi värit esteettömyyttä varten" >

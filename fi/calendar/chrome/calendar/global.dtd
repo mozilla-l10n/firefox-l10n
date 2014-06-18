@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "perjantai" >
 <!ENTITY day.7.name "lauantai" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minuutti">
-<!ENTITY calendar.global.units.minutes  "minuuttia">
-<!ENTITY calendar.global.units.hour     "tunti">
-<!ENTITY calendar.global.units.hours    "tuntia">
-<!ENTITY calendar.global.units.day      "päivä">
-<!ENTITY calendar.global.units.days     "päivää">
-
 <!ENTITY month.1.name "tammikuu" >
 <!ENTITY month.2.name "helmikuu" >
 <!ENTITY month.3.name "maaliskuu" >

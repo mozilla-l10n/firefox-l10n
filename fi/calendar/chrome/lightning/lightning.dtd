@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Sähköposti:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Tässä viestissä on kutsu tapahtumaan.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Hyväksy">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Hyväksy tapahtumakutsu">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Hyväksy kaikki">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Hyväksy tapahtumakutsu koskien kaikkia tapahtuman tapauksia">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Lisää">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Lisää tapahtuma kalenteriin">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Hylkää">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hylkää tapahtumakutsu">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hylkää kaikki">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hylkää tapahtumakutsu koskien kaikkia tapahtuman tapauksia">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Poista">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Poista kalenterista">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Lisätiedot…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Näytä lisää tietoa tapahtumasta">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Lisää">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Napsauta, niin näet lisää valintoja">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Vahvista uudelleen">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Lähettää järjestäjälle uudelleenvahvistuksen">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Alustava">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Hyväksy tapahtumakutsu alustavasti">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alustava kaikki">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Hyväksy tapahtumakutsu alustavasti koskien kaikkia tapahtuman tapauksia">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Päivitä">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Päivitä tapahtumaa kalenterissa">
+<!ENTITY lightning.imipbar.description										"Tässä viestissä on kutsu tapahtumaan.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
