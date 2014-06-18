@@ -1,4 +1,6 @@
 amazondotcom
+bing
 google
-twitter
+list-am
 wikipedia-hy-AM
+yahoo
