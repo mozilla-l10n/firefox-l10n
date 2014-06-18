@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
@@ -27,22 +30,38 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tarjoaa valinnaisia verkkosivustojen tietopalveluja, kuten lisäosien päivityspalvelu; emme kuitenkaan voi taata, että ne ovat täysin tarkkoja tai virheettömiä. Lisätiedot, mukaanlukien tiedot siitä kuinka poistaa nämä palvelut käytöstä, löytyvät kohdasta ">
+<!ENTITY rights2.intro-point4a "&brandShortName; tarjoaa valinnaisia verkkopohjaisia tietopalveluita, kuten lisäosa- ja Safe Browsing -palvelut; emme kuitenkaan voi taata niiden olevan 100 &#37; tarkkoja tai virheettömiä. Lisätietoja palveluista mukaan lukien ohjeet, kuinka niiden käyttö lopetetaan, löydät ">
 <!ENTITY rights.intro-point4b "palvelun ehdoista">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName;n verkkosivustopalvelut">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "Jotkin &brandFullName;n toiminnoista, kuten lisäosien päivityspalvelu, käyttävät hyväkseen verkkosivustojen tietopalveluita (&quot;palveluita&quot;) jotka ovat käytössäsi tämän &brandShortName;n binääriversion kanssa kuten alla määritellään. Jos et halua käyttää näitä palveluita tai alla määritellyt ehdot eivät ole hyväksyttäviä, lisäosien päivityspalvelun voi poistaa käytöstä ohjelman asetuksista valitsemalla ">
-<!ENTITY rights.webservices-b "Lisäasetukset">
-<!ENTITY rights.webservices-c " ja siitä ">
-<!ENTITY rights.webservices-d "Ohjelmistoasennukset">
-<!ENTITY rights.webservices-e " ja poistamalla rastin ruudusta &quot;Tarkista päivitykset&quot;.">
+<!ENTITY rights2.webservices-a "&brandFullName; tarjoaa valinnaisia palveluita (&quot;Palvelut&quot;), kuten lisäosien ehdotus- ja päivityspalvelut tai Safe Browsing -ominaisuus, jotka ovat käytettävissäsi tässä &brandShortName;n binääriversiossa alla kuvatulla tavalla.  Nämä palvelut ovat oletuksena käytössä.  Jos et halua käyttää Palveluita tai et hyväksy alla kuvattuja ehtoja, ohjeet jonkin tietyn ominaisuuden tai palvelun käytöstä poistamiseksi löytyvät ">
+<!ENTITY rights2.webservices-b "täältä">
+<!ENTITY rights2.webservices-c ". Muut ominaisuudet ja Palvelut voi poistaa käytöstä sovelluksen asetuksista.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Lisäosapalvelut: ">
+<!ENTITY rights.addons-b "Normaalisti &brandShortName; ehdottaa lisäosia &view.discover.label; -sivulla ja tarkistaa päivitykset säännöllisin väliajoin. Jos haluat poistaa käytöstä nämä ominaisuudet välttääksesi välittämästä tietoa asennetuista lisäosista palvelimelle, tee seuraavasti:">
+<!ENTITY rights.addons-term1 "Avaa sovelluksen asetukset">
+<!ENTITY rights.addons-term2 "Valitse &smart.label;-paneeli &advance.label;-luokasta">
+<!ENTITY rights.addons-term3 "Poista valinnat kohdista &quot;&autoAddOnsUpdates.label;&quot; ja &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Lisäosapalvelut on nyt poistettu käytöstä">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Safe Browsing: ">
+<!ENTITY rights.safebrowsing-b "Safe Browsing -toiminnon ottaminen pois päältä ei ole suositeltua, koska se voi johtaa ei-turvallisilla sivuilla käyntiin. Jos haluat ottaa tämän ominaisuuden pois päältä kokonaan, tee seuraavasti:">
+<!ENTITY rights.safebrowsing-term1 "Avaa ohjelman asetukset">
+<!ENTITY rights.safebrowsing-term2 "Valitse &security.label;-paneeli päätasolta">
+<!ENTITY rights.safebrowsing-term3 "Poista valinnat kohdista &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing -toiminto on nyt otettu pois päältä">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; voi lakkauttaa tai muuttaa palveluita oman harkintansa mukaan.">
