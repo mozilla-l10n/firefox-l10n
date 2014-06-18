@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "Подробиці програми">
-<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
+<!ENTITY appManager.style     "ширина: 30em; мін. висота: 20em;">
 <!ENTITY remove.label         "Вилучити">
 <!ENTITY remove.accesskey     "л">

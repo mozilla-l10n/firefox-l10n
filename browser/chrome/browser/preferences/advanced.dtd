@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для переміщення всередині сторінок">
 <!ENTITY useCursorNavigation.accesskey   "а">
-<!ENTITY searchStartTyping.label         "Шукати текст на сторінці у міру його набору">
+<!ENTITY searchStartTyping.label         "Шукати текст на сторінці під час його введення">
 <!ENTITY searchStartTyping.accesskey     "у">
 <!ENTITY blockAutoRefresh.label          "Попереджати мене, коли сайти намагаються переадресувати чи перезавантажити сторінку">
 <!ENTITY blockAutoRefresh.accesskey      "ю">
@@ -23,7 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "и">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "а">
-<!ENTITY checkSpelling.label             "Перевіряти орфографію при наборі тексту">
+<!ENTITY checkSpelling.label             "Перевіряти орфографію при введенні тексту">
 <!ENTITY checkSpelling.accesskey         "е">
 
 <!ENTITY systemDefaults.label            "Встановлення типовим в системі">
