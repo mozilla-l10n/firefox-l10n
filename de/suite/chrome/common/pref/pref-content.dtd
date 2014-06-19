@@ -15,7 +15,7 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "G">
 <!ENTITY useSmoothScroll.label                  "Sanftes Scrollen verwenden">
 <!ENTITY useSmoothScroll.accesskey              "S">
-<!ENTITY allowHWAccel.label                     "Hardware-Beschleunigung verwenden, wenn verfügbar">
+<!ENTITY allowHWAccel.label                     "Hardwarebeschleunigung verwenden, wenn verfügbar">
 <!ENTITY allowHWAccel.accesskey                 "H">
 <!ENTITY textZoomOnly.label                     "Nur Text anstatt ganzen Seiten zoomen">
 <!ENTITY textZoomOnly.accesskey                 "T">
