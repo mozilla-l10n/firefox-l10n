@@ -1,7 +1,0 @@
-googlemetrofx
-yahoo-zh-TWmetrofx
-yahoo-answer-zh-TW
-yahoo-bid-zh-TW
-findbook-zh-TW
-creativecommons
-wikipedia-zh-TW
