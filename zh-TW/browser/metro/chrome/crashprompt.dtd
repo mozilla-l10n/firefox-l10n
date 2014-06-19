@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "您想要傳送錯誤回報給 Mozilla 嗎？">
+<!ENTITY crashprompt.message         "很抱歉，&brandShortName; 剛從錯誤中恢復，傳送錯誤報告可以幫助 Mozilla 讓 &brandShortName; 變得更穩定、更安全。您可以在設定畫面中修改您的回報設定。">
+<!ENTITY crashprompt.detailsLink     "錯誤報告當中有哪些東西？">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "錯誤報告包含了該次錯誤與您的裝置的一些詳細資訊，以及錯誤發生時您瀏覽器的使用狀態。">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "可能包含諸如開啟的頁面、輸入至表單中的文字、開啟訊息的內容、最近的瀏覽紀錄與您分享給網站的地理位置資訊。">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "我們使用錯誤報告來試著修復問題並改進產品。我們將依照">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; 隱私權保護政策">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink "當中所描述的方式處理您的資訊。">
+<!ENTITY crashprompt.includeURLLabel "包含我所瀏覽的頁面網址">
+<!ENTITY crashprompt.acceptbutton    "傳送報告">
+<!ENTITY crashprompt.refusebutton    "不要傳送">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; 隱私權保護政策">
+
