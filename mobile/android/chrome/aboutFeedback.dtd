@@ -52,5 +52,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Or else.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally indentifiable information in your feedback.">
+<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
 <!ENTITY feedback.send             "Send Feedback">
