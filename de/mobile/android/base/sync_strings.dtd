@@ -107,6 +107,8 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox-Konten'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-Konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Angemeldet als'>
+<!ENTITY fxaccount_status_device_name 'Gerätename'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: Aktiviert'>
 <!ENTITY fxaccount_status_needs_verification2 'Ihr Konto muss verifiziert werden. Tippen Sie hier zum erneuten Senden der Verifizierungs-E-Mail.'>
