@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Done">
 
 <!ENTITY popupIcon.tooltiptext      "Unblock this web site's popups">
+
+<!ENTITY viewSecurityInfo.label      "View Security Info">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "View Certificate">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "Open Certificate Manager">
+<!ENTITY viewCertManager.accesskey   "M">
