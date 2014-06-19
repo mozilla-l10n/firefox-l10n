@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "搜尋">
+<!ENTITY addpref.name           "名稱">
+
+<!ENTITY cancel.label           "取消">
+<!ENTITY toggle.label           "切換">
+
+<!ENTITY integer.label          "整數">
+<!ENTITY string.label           "字串">
+<!ENTITY boolean.label          "布林（Boolean）值">
+
+<!ENTITY string.placeholder     "請輸入字串">
+<!ENTITY number.placeholder     "請輸入數字">
+
