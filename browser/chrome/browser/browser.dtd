@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Cluaisín Nua">
 <!ENTITY tabCmd.accesskey "C">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Oscail Suíomh…">
 <!ENTITY openFileCmd.label "Oscail Comhad…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
 <!ENTITY backCmd.label "Siar">
-<!ENTITY backCmd.accesskey "S">
 <!ENTITY backButton.tooltip "Leathanach amháin siar">
 <!ENTITY forwardCmd.label "Ar Aghaidh">
-<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Leathanach amháin ar aghaidh">
 <!ENTITY backForwardButtonMenu.tooltip "Deaschliceáil nó tarraing anuas chun an stair a thaispeáint">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarraing anuas chun an stair a thaispeáint">
 <!ENTITY reloadCmd.label "Athluchtaigh">
-<!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadButton.tooltip "Athluchtaigh an leathanach reatha">
 <!ENTITY stopCmd.label "Stad">
-<!ENTITY stopCmd.accesskey "S">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Éirigh as an leathanach seo a luchtú">
 <!ENTITY goEndCap.tooltip "Téigh go dtí an seoladh atá sa Bharra Suímh">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey "l">
 
 <!ENTITY downloads.label "Íosluchtú">
-<!ENTITY downloads.tooltip "Léiríonn dul chun cinn na luchtuithe reatha">
 <!ENTITY downloads.accesskey "l">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label "Socraigh Mar Chúlra na Deisce…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
 <!ENTITY bookmarkPageCmd2.label "Cruthaigh Leabharmharc don Leathanach Seo">
-<!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Cruthaigh Leabharmharc don Nasc Seo">
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Cruthaigh Leabharmharc don Fhráma Seo">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Súmáil">
 <!ENTITY fullZoom.accesskey "S">
 
-<!ENTITY newTabButton.tooltip "Oscail cluaisín nua">
-<!ENTITY newWindowButton.tooltip "Oscail fuinneog nua">
 <!ENTITY sidebarCloseButton.tooltip "Dún an barra taoibh">
-
-<!ENTITY fullScreenButton.tooltip "Taispeáin an fhuinneog sa scáileán iomlán">
 
 <!ENTITY quitApplicationCmdWin.label "Scoir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">

@@ -74,7 +74,7 @@ go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
 <!ENTITY nssFailure2.title "Níorbh fhéidir ceangal slán a bhunú">
-<!ENTITY nssFailure2.longDesc "<ul>
+<!ENTITY nssFailure2.longDesc2 "<ul>
 <li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li>
 <li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li>
 </ul>">

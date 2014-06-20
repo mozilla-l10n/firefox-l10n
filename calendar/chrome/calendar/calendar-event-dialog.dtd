@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY event.organizer.label "Eagraí">
 <!ENTITY event.freebusy.suggest.slot "Mol sliotán ama:">
-<!ENTITY event.freebusy.next.slot "An chéad sliotán eile ">
-<!ENTITY event.freebusy.previous.slot " An sliotán roimhe seo">
+<!ENTITY event.freebusy.button.next.slot "An chéad sliotán ama eile">
+<!ENTITY event.freebusy.button.previous.slot "An sliotán ama roimhe seo">
 <!ENTITY event.freebusy.zoom "Súmáil:">
 <!ENTITY event.freebusy.legend.free "Saor">
 <!ENTITY event.freebusy.legend.busy "Gnóthach">

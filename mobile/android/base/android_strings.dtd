@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; cluaisín">
 <!ENTITY new_tab_opened "Osclaíodh cluaisín nua">
+<!ENTITY new_private_tab_opened "Osclaíodh cluaisín nua príobháideach">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ATHRAIGH">
 
 <!ENTITY settings "Socruithe">
 <!ENTITY settings_title "Socruithe">
 <!ENTITY pref_category_advanced "Ardroghanna">
 <!ENTITY pref_category_customize "Saincheap">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Teanga">
+<!ENTITY pref_browser_locale "Teanga an bhrabhsálaí">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Réamhshocrú an chórais">
+
 <!ENTITY pref_category_search3 "Cuardaigh">
 <!ENTITY pref_category_search_summary "Saincheap na hinnill chuardaigh">
 <!ENTITY pref_category_display "Taispeáint">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Nuashonruithe uathoibríocha">
 <!ENTITY pref_home_updates_enabled "Cumasaithe">
 <!ENTITY pref_home_updates_wifi "Thar Wi-Fi amháin">
+<!ENTITY pref_home_suggested_sites "Taispeáin suíomhanna molta">
+<!ENTITY pref_home_suggested_sites_summary "Display shortcuts to sites on your homepage that we think you might find interesting">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Saincheap">
 <!ENTITY pref_header_display "Taispeáint">
 <!ENTITY pref_header_privacy_short "Príobháideachas">
 <!ENTITY pref_header_help "Cabhair">
+<!ENTITY pref_header_language "Teanga">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Uirlisí forbróra">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
 <!ENTITY pref_update_autodownload_never "Riamh">
 <!ENTITY pref_update_autodownload_always "I gCónaí">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Cabhair">
 
 <!ENTITY quit "Scoir">
 
@@ -249,7 +272,7 @@ size. -->
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_casting_to "Craoladh ar Ghléas">
 <!ENTITY media_play "Seinn">
 <!ENTITY media_pause "Cuir ar Shos">
 <!ENTITY media_stop "Stop">
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Scroll title bar">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Leathanach bainte">
+<!ENTITY page_removed "Leathanach bainte">
 
 <!ENTITY bookmark_edit_title "Cuir Leabharmharc in Eagar">
 <!ENTITY bookmark_edit_name "Ainm">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings "Níl aon socruithe le glanadh.">
 
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
-<!ENTITY reading_list_removed "Baineadh ó do liosta léitheoireachta">
 <!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
 <!ENTITY reading_list_duplicate "Tá an leathanach seo i do liosta léitheoireachta cheana">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir suíomh leis">
 
 <!ENTITY home_history_title "Stair">
+<!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
+<!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
 <!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
 <!ENTITY home_last_tabs_title "Cluaisíní ón seisiún roimhe seo">
 <!ENTITY home_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
@@ -339,7 +366,7 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
-<!ENTITY home_default_empty "No content could be found for this panel.">
+<!ENTITY home_default_empty "Níor aimsíodh aon ábhar don phainéal seo.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
@@ -434,3 +461,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "Roghchlár">
 <!ENTITY actionbar_done "Déanta">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Sioncrónaithe: &formatS;">
