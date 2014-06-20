@@ -31,6 +31,6 @@
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2, csscoverage.footer3):
   -  The text displayed at the bottom of the page, with 2 being the URL opened
   -  when the link text in 3 is clicked -->
-
+<!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
 
 

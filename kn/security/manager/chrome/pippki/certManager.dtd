@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "ಸಂಸ್ಥೆ (O)">
 <!ENTITY certmgr.certdetail.ou                "ಸಂಸ್ಥೆಯ ಘಟಕ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "ಅನುಕ್ರಮ ಸಂಖ್ಯೆ">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 ಬೆರಳಚ್ಚು">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ಬೆರಳಚ್ಚು">
 
 <!ENTITY certmgr.editcert.title               "ಸುರಕ್ಷತಾ ಪ್ರಮಾಣಪತ್ರದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">

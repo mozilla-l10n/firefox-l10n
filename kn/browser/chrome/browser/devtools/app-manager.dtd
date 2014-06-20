@@ -57,9 +57,9 @@
 <!ENTITY connection.cancel "ರದ್ದು ಮಾಡು">
 
 
-
-
-
+<!ENTITY connection.or "ಅಥವ">
+<!ENTITY connection.noSimulatorInstalled "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿಲ್ಲ.">
+<!ENTITY connection.installOneSimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
 
 <!ENTITY connection.installAnotherSimulator "ಸೇರಿಸು">
 
