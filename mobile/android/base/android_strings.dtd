@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ట్యాబులు">
 <!ENTITY new_tab_opened "కొత్త ట్యాబు తెరుచుకుంది">
-
+<!ENTITY new_private_tab_opened "కొత్త వ్యక్తిగత టాబ్ తెరిచెను">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "మారు">
 
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
@@ -119,8 +120,8 @@
 <!ENTITY pref_home_updates "స్వయంచాలక నవీకరణలు">
 <!ENTITY pref_home_updates_enabled "చేతనం">
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
-
-
+<!ENTITY pref_home_suggested_sites "సైటు సలహాలను చూపించు">
+<!ENTITY pref_home_suggested_sites_summary "మీరు ఆశక్తి కనబర్చే సైటులకు లఘువులను మీ ముంగిలిపేజీపై ప్రదర్శించును">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "మలచుకొనడం">
@@ -345,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
 
 <!ENTITY home_history_title "చరిత్ర">
-
-
+<!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
+<!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
 <!ENTITY home_last_tabs_title "చివరిసారి ట్యాబులు">
 <!ENTITY home_last_tabs_open "పోయినసారి తెరచివున్న ట్యాబులన్నీ తెరువు">
@@ -466,3 +467,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "చివరిగా సింకైంది: &formatS;">
