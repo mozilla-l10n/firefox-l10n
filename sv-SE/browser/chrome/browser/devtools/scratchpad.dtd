@@ -53,20 +53,24 @@
 <!ENTITY viewMenu.label               "Visa">
 <!ENTITY viewMenu.accesskey           "s">
 
+<!ENTITY lineNumbers.label             "Visa radnummer">
+<!ENTITY lineNumbers.accesskey         "r">
+
+
+
+<!ENTITY highlightTrailingSpace.label     "Markera avslutande mellanslag">
+<!ENTITY highlightTrailingSpace.accesskey "H">
+
+<!ENTITY largerFont.label             "Större teckensnitt">
+<!ENTITY largerFont.accesskey         "ö">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "Normal storlek">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Redigera">
 <!ENTITY editMenu.accesskey           "R">

@@ -126,11 +126,11 @@
 <!ENTITY certificateTab.label            "Certifikat">
 <!ENTITY certSelection.description       "När en server efterfrågar mitt personliga certifikat:">
 <!ENTITY certs.auto                      "Välj ett automatiskt">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Fråga varje gång">
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY viewCerts.label                 "Visa Certifikat">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "d">
 
