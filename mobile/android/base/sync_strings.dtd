@@ -154,8 +154,11 @@
 
 
 
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: omogućeno">
+
+
 
 
 

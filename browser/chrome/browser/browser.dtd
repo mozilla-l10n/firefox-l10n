@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nova kartica">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Otvori datoteku...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Zabilješke">
 <!ENTITY bookmarksMenu.accesskey "b">
-<!ENTITY bookmarkThisPageCmd.label "Zabilježi ovu stranicu">
+
 <!ENTITY editThisBookmarkCmd.label "Uredi ovu zabilješku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Nesortirane zabilješke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 
-<!ENTITY backCmd.label                "Natrag">
-<!ENTITY backCmd.accesskey            "N">
 <!ENTITY backButton.tooltip           "Natrag za jednu stranicu">
-<!ENTITY forwardCmd.label             "Naprijed">
-<!ENTITY forwardCmd.accesskey         "p">
+
 <!ENTITY forwardButton.tooltip        "Naprijed za jednu stranicu">
 <!ENTITY backForwardButtonMenu.tooltip "Za pristup povijesti kliknite desnom tipkom miša ili povucite dolje">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
-<!ENTITY reloadCmd.label              "Osvježi">
-<!ENTITY reloadCmd.accesskey          "O">
+
 <!ENTITY reloadButton.tooltip         "Osvježi trenutnu stranicu">
-<!ENTITY stopCmd.label                "Stani">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Zaustavi učitavanje stranice">
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Preuzimanja">
-<!ENTITY downloads.tooltip            "Prikaži stanje aktivnih preuzimanja">
 <!ENTITY downloads.accesskey          "r">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -439,8 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "P">
 <!ENTITY setDesktopBackgroundCmd.label      "Postavi kao podlogu radne površine...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Zabilježi ovu stranicu">
-<!ENTITY bookmarkPageCmd2.accesskey   "s">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Zabilježi ovu poveznicu">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
@@ -564,11 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Uvećanje">
 <!ENTITY fullZoom.accesskey             "v">
 
-<!ENTITY newTabButton.tooltip           "Otvori novu karticu">
-<!ENTITY newWindowButton.tooltip        "Otvori novi prozor">
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
-
-<!ENTITY fullScreenButton.tooltip       "Prikaži prozor preko cijelog zaslona">
 
 <!ENTITY quitApplicationCmdWin.label       "Izlaz"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "I">

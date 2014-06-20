@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Kopiraj jedinstveni selektor">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Obriši čvor">
 <!ENTITY inspectorHTMLDelete.accesskey      "b">
 

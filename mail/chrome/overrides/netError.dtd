@@ -105,7 +105,7 @@ kolačića.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Sigurna veza nije uspjela">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Stranica kojoj pokušavate pristupiti nije moguće prikazati jer nije moguće provjeriti autentičnost podataka.</li> 
 <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
 </ul>">

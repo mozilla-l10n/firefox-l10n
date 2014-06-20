@@ -95,10 +95,7 @@ primanja kolačića.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka ne može biti potvrđena.</li> 
-<li>Molim kontaktirajte vlasnike stranice i obavijestite ih o ovom problemu. Također, možete koristiti i izbornik pomoći kako biste prijavili neispravnu stranicu.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Neuspjeh otvaranja sigurne veze">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

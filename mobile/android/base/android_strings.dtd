@@ -54,7 +54,7 @@
 <!ENTITY back "Nazad">
 <!ENTITY stop "Zaustavi">
 <!ENTITY site_security "Sigurnost stranice">
-<!ENTITY save "Spremi">
+
 
 <!ENTITY close_tab "Zatvori karticu">
 <!ENTITY one_tab "1 kartica">
@@ -63,16 +63,29 @@
 <!ENTITY num_tabs2 "&formatD; kartica">
 <!ENTITY new_tab_opened "Nova kartica otvorena">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Prilagodite">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
 <!ENTITY pref_category_display "Prikaz">
 <!ENTITY pref_category_privacy_short "Privatnost">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Izbori podataka">
+<!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači interneta">
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača interneta">
 <!ENTITY pref_category_search_restore_defaults "Obnovi pretraživače interneta">
@@ -86,7 +99,6 @@
 <!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
 <!ENTITY pref_category_devtools "Alati za razvijatelje">
 <!ENTITY pref_developer_remotedebugging "Udaljeno otklanjanje grešaka">
-<!ENTITY pref_developer_remotedebugging_docs "Saznajte više">
 <!ENTITY pref_remember_signons "Zapamti lozinke">
 
 <!ENTITY pref_category_home "Početak">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "Automatske dopune">
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Prilagodi">
 <!ENTITY pref_header_display "Prikaz">
 <!ENTITY pref_header_privacy_short "Privatnost">
-<!ENTITY pref_header_help "Pomoć">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Alati za razvijatelje">
 
@@ -155,14 +170,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 <!ENTITY pref_import_android "Uvoz iz Androida">
-<!ENTITY pref_private_data_history "Povijest pretraživanja i preuzimanja">
+
 <!ENTITY pref_private_data_formdata "Povijest formi i traženja">
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
 <!ENTITY pref_private_data_passwords "Spremljene lozinke">
 <!ENTITY pref_private_data_cache "Priručna memorija">
 <!ENTITY pref_private_data_offlineApps "Podaci izvanmreženih stranica">
 <!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
-<!ENTITY pref_private_data_downloadFiles "Preuzete datoteke">
+
 
 
 <!ENTITY pref_about_firefox "O &brandShortName;">
@@ -177,6 +192,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Prikaži">
 <!ENTITY pref_panels_hide "Sakrij">
+
+
+
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistika i podaci">
 <!ENTITY datareporting_notification_action_long "Odaberite koje informacije ćete dijeliti">
@@ -200,8 +218,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Izvjestitelj rušenja">
-<!ENTITY datareporting_wifi_title "&vendorShortName; lokacijske usluge">
-<!ENTITY datareporting_wifi_summary "Pomozite poboljšati geolokacijske usluge za Open Web tako da dopustite &brandShortName; prikupljanje i slanje anonimnih podataka mobilnih tornjeva">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -210,11 +228,12 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikada">
 <!ENTITY pref_update_autodownload_always "Uvijek">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Izlaz">
 
 <!ENTITY addons "Dodaci">
-<!ENTITY downloads "Preuzimanja">
+
 <!ENTITY apps "Aplikacije">
 <!ENTITY char_encoding "Kodna stranica">
 
@@ -271,8 +290,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "Prikaži adresu stranice">
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Stranica je uklonjena">
+<!ENTITY page_removed "Stranica je uklonjena">
 
 <!ENTITY bookmark_edit_title "Uredi zabilješku">
 <!ENTITY bookmark_edit_name "Naziv">
@@ -286,9 +308,7 @@ size. -->
 <!ENTITY site_settings_clear        "Obriši">
 <!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
-<!ENTITY reading_list_add "Dodaj na popis za čitanje">
 <!ENTITY reading_list_added "Stranica dodana na popis za čitanje">
-<!ENTITY reading_list_removed "Stranica uklonjena sa popisa za čitanje">
 <!ENTITY reading_list_failed "Neuspješno dodavanje stranice na popis za čitanje">
 <!ENTITY reading_list_duplicate "Stranica je već na popisu za čitanje">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -315,6 +335,8 @@ size. -->
 <!ENTITY home_top_sites_add "Dodaj stranicu">
 
 <!ENTITY home_history_title "Povijest">
+
+
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
 <!ENTITY home_last_tabs_title "Kartice od zadnji puta">
 <!ENTITY home_last_tabs_open "Otvori sve kartice od zadnji puta">
@@ -330,6 +352,8 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 
 <!ENTITY filepicker_title "Odaberi datoteku">
@@ -385,8 +409,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Izbornik">
 
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
