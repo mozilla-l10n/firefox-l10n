@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "Проверяване на сертификат…">
 <!ENTITY certmgr.subjectinfo.label            "Издаден на">
 <!ENTITY certmgr.issuerinfo.label             "Издаден от">
-<!ENTITY certmgr.validity.label               "Валидност" >
+<!ENTITY certmgr.periodofvalidity.label       "Период на валидност" >
 <!ENTITY certmgr.fingerprints.label           "Отпечатъци">
 <!ENTITY certmgr.certdetail.title             "Подробности на сертификат">
 <!ENTITY certmgr.certdetail.cn                "Име (CN)">
 <!ENTITY certmgr.certdetail.o                 "Организация (О)">
 <!ENTITY certmgr.certdetail.ou                "Организационно подразделение (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Сериен номер">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Отпечатък SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Отпечатък SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Отпечатък MD5">
 
 <!ENTITY certmgr.editcert.title               "Редактиране на настройките на сертификат">
 <!ENTITY certmgr.editcacert.title             "Редактиране на настройките за доверие в сертификат на CA">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Сървър">
 <!ENTITY certmgr.override_lifetime            "Време на живот">
 <!ENTITY certmgr.tokenname                    "Сигурно устройство">
-<!ENTITY certmgr.issued                       "Издаден на">
+<!ENTITY certmgr.begins                       "Започва на">
 <!ENTITY certmgr.expires                      "Изтича на">
 <!ENTITY certmgr.email                        "Е-поща">
 <!ENTITY certmgr.serial                       "Сериен номер">
