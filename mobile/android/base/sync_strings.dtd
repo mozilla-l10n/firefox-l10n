@@ -172,7 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
-
+<!ENTITY fxaccount_status_device_name "ডিভাইসের নাম">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সক্রিয় করা হল">
 <!ENTITY fxaccount_status_needs_verification2 "আপনার অ্যাকাউন্ট এর যাঁচাইকরণ বাধ্যতামূলক। যাঁচাইকারী ইমেল পুনরায় পাঠাতে এখানে যান।">

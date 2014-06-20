@@ -128,7 +128,7 @@
 <!ENTITY pref_header_display "ডিসপ্লে">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
 
-
+<!ENTITY pref_header_language "ভাষা">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ডেভলপার টুলগুলি">
 
