@@ -5,8 +5,8 @@
 
 
 <!ENTITY options.label "Կարգավորումներ">
-
-
+<!ENTITY optionInline.label "Անցանց">
+<!ENTITY optionInline.accesskey "ն">
 <!ENTITY optionDisplay.label "Ցուցադրվող անունը">
 <!ENTITY optionDisplay.accesskey "Ց">
 <!ENTITY optionLTR.label "Ձախից աջ ուղղություն">
