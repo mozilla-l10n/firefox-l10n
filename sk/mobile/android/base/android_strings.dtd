@@ -373,6 +373,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Späť na &formatS;">
 
+<!ENTITY private_browsing_title "Súkromné prehliadanie">
+<!ENTITY private_tabs_panel_description "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď v žiadnej forme neuchovávame vašu históriu prehliadania alebo súbory cookies, prevzaté súbory budú uložené na disku vášho zariadenia.">
+<!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
+
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
