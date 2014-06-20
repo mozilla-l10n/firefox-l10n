@@ -3,78 +3,76 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "ਸੁਨੇਹਿਆਂ ਵਿੱਚ ਖੋਜ:">
+<!ENTITY searchHeading.label         "Search for messages in:">
 <!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "ਅਧੀਨ-ਫੋਲਡਰ ਵਿੱਚ ਖੋਜ।">
+<!ENTITY searchSubfolders.label      "Search subfolders">
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Run search on server">
 <!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY resetButton.label           "Clear">
 <!ENTITY resetButton.accesskey       "C">
-<!ENTITY openButton.label            "ਖੋਲ੍ਹੋ">
+<!ENTITY openButton.label            "Open">
 <!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "ਹਟਾਓ">
+<!ENTITY deleteButton.label          "Delete">
 <!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "ਸੁਨੇਹੇ ਖੋਜ">
-<!ENTITY results.label               "ਨਤੀਜਾ">
-<!ENTITY fileHereMenu.label          "ਫਾਇਲ ਇੱਥੇ">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "ਫਾਇਲ">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY searchDialogTitle.label     "Search Messages">
+<!ENTITY results.label               "Results">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "ਫੋਲਡਰ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openInFolder.label          "Open in Folder">
 <!ENTITY openInFolder.accesskey      "r">
-
-<!ENTITY saveAsVFButton.label      "ਖੋਜ ਫੋਲਡਰ ਵਾਂਗ ਸੰਭਾਲੋ">
-<!ENTITY saveAsVFButton.accesskey  "a">
+<!ENTITY saveAsVFButton.label        "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "ਇਸ ਵਿੱਚ ਖੋਜ:">
-<!ENTITY abSearchHeading.accesskey   "S">
-<!ENTITY propertiesButton.label      "ਗੁਣ">
+<!ENTITY abSearchHeading.label       "Search in:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "Properties">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "ਲਿਖੋ">
+<!ENTITY composeButton.label         "Write">
 <!ENTITY composeButton.accesskey     "W">
-<!ENTITY abSearchDialogTitle.label   "ਤਕਨੀਕੀ ਐਡਰੈੱਸ ਬੁੱਕ ਖੋਜ">
+<!ENTITY deleteCardButton.label      "Delete">
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "ਥਰਿੱਡ">
-<!ENTITY fromColumn.label "ਵਲੋਂ">
-
-<!ENTITY recipientColumn.label "ਪ੍ਰਾਪਤ ਕਰਤਾ">
-<!ENTITY subjectColumn.label "ਵਿਸ਼ਾ">
-<!ENTITY dateColumn.label "ਮਿਤੀ">
-<!ENTITY priorityColumn.label "ਤਰਜੀਹ">
-<!ENTITY tagsColumn.label "ਟੈਗ">
-<!ENTITY accountColumn.label "ਅਕਾਊਂਟ">
-<!ENTITY statusColumn.label "ਹਾਲਤ">
-<!ENTITY sizeColumn.label "ਸਾਈਜ਼">
-<!ENTITY junkStatusColumn.label "ਜੰਕ ਸਥਿਤੀ">
-<!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ">
-<!ENTITY totalColumn.label "ਕੁੱਲ">
-<!ENTITY readColumn.label "ਪੜੇ">
-<!ENTITY receivedColumn.label "ਮਿਲੇ">
-<!ENTITY starredColumn.label "ਤਾਰੇ ਸਮੇਤ">
-<!ENTITY locationColumn.label "ਸਥਿਤੀ">
-<!ENTITY idColumn.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "From">
+<!ENTITY recipientColumn.label "Recipient">
+<!ENTITY subjectColumn.label "Subject">
+<!ENTITY dateColumn.label "Date">
+<!ENTITY priorityColumn.label "Priority">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Account">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Size">
+<!ENTITY junkStatusColumn.label "Junk Status">
+<!ENTITY unreadColumn.label "Unread">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Read">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Location">
+<!ENTITY idColumn.label "Order Received">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "ਵੇਖਣ ਲਈ ਕਾਲਮ ਚੁਣਨ ਲਈ ਇੱਥੇ ਦਬਾਓ">
-<!ENTITY threadColumn.tooltip "ਸੁਨੇਹਾ ਮਾਮਲੇ ਵੇਖਣ ਲਈ ਇੱਥੇ ਦਬਾਓ"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY recipientColumn.tooltip "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY subjectColumn.tooltip "ਵਿਸ਼ੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY dateColumn.tooltip "ਮਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY priorityColumn.tooltip "ਤਰਜੀਹ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY tagsColumn.tooltip "ਟੈਗ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY accountColumn.tooltip "ਅਕਾਊਂਟ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY statusColumn.tooltip "ਹਾਲਤ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY sizeColumn.tooltip "ਆਕਾਰ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY junkStatusColumn.tooltip "ਜੰਕ ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY unreadColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਨਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ">
-<!ENTITY totalColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਸੁਨੇਹਿਆਂ ਦੀ ਗਿਣਤੀ">
-<!ENTITY readColumn.tooltip "ਪੜ੍ਹਨ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn.tooltip "ਤਾਰੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY locationColumn.tooltip "ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
-<!ENTITY idColumn.tooltip "ਪ੍ਰਾਪਤ ਕ੍ਰਮ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">
