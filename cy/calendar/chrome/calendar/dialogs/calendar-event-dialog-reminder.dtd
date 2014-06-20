@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Manylion Atgoffwr">
 <!ENTITY reminder.action.label                             "Dewis Gweithred Atgoffa">
 
-<!ENTITY reminder.relation.before.label                    "cyn" >
-<!ENTITY reminder.relation.after.label                     "ar ôl" >
-
 <!ENTITY reminder.action.alert.label                       "Dangos Rhybudd">
 <!ENTITY reminder.action.email.label                       "Anfon E-bost">
 

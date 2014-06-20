@@ -6,13 +6,13 @@
 <!ENTITY requestReceipt.label          "Wrth anfon negeseuon, gofyn bob tro am dderbynneb dychwelyd">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "Pan fydd derbynneb yn cyrraedd:">
-<!ENTITY leaveIt.label                 "Gadael yn fy Mlwch Derbyn">
-<!ENTITY leaveIt.accesskey             "G">
-<!ENTITY moveToSent.label              "Symud i fy ffolder &quot;Anfon&quot;">
-<!ENTITY moveToSent.accesskey          "S">
+
+
+
+
 <!ENTITY requestMDN.label              "Pan fyddaf yn derbyn cais am dderbynneb dychwelyd:">
-<!ENTITY never.label                   "Peidio byth anfon derbynneb dychwelyd">
-<!ENTITY never.accesskey               "P">
+
+
 <!ENTITY returnSome.label              "Caniatáu derbynebau dychwelyd ar gyfer rhai negeseuon">
 <!ENTITY returnSome.accesskey          "a">
 <!ENTITY notInToCc.label               "Os nad wyf yn At neu Cc y neges:">

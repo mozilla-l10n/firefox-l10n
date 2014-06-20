@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Cau'r Tab">
 <!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY closeOtherTabsCmd2.label "Cau Tabiau Eraill">
-<!ENTITY closeOtherTabsCmd2.accesskey "E">
+
+
 <!ENTITY recentlyClosedTabsCmd.label "Tabiau Wedi'u Cau'n Ddiweddar">
 <!ENTITY recentlyClosedTabsCmd.accesskey "D">
 
@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "Llwytho i Lawr/Cydweddu Nawr…">
 <!ENTITY synchronizeOfflineCmd.accesskey "L">
-<!ENTITY settingsOfflineCmd.label "Gosodiadau All-lein…">
-<!ENTITY settingsOfflineCmd.accesskey "G">
+
+
 <!ENTITY downloadSelectedCmd.label "Estyn y Negeseuon Hyn">
 <!ENTITY downloadSelectedCmd.accesskey "H">
 <!ENTITY downloadStarredCmd.label "Estyn Negeseuon Serennog">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY menuFavoriteFolder.accesskey "H">
-<!ENTITY folderPropsCmd.label "Priodweddau…">
-<!ENTITY folderPropsFolderCmd.label "Priodweddau Ffolder…">
-<!ENTITY folderPropsNewsgroupCmd.label "Priodweddau Grŵp Newyddion…">
-<!ENTITY folderPropsCmd.accesskey "P">
+
+
+
+
 <!ENTITY undoDeleteMsgCmd.label "Dadwneud Dileu Negeseuon">
 <!ENTITY redoDeleteMsgCmd.label "Ail-wneud Dileu Neges">
 <!ENTITY undoMoveMsgCmd.label "Dadwneud Symud Neges">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Diweddar">
 <!ENTITY recentFolders.accesskey "D">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Trefnu yn ôl">
@@ -439,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
-<!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
-<!ENTITY messengerCmd.accesskey "E">
+
+
 <!ENTITY addressBookCmd.label "Llyfr Cyfeiriadau">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Ffeiliau wedi'u Cadw">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Hidlau Negeseuon…">
-<!ENTITY filtersCmd.accesskey "H">
+
+
 <!ENTITY filtersApply.label "Rhedeg Hidlau ar Ffolder">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Rhedeg Hidlau ar Negeseuon Penodol">
@@ -478,11 +480,10 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Gosodiadau Cyfrifon…">
-<!ENTITY accountManagerCmd.accesskey "G">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Caniatáu Dadfygio Pell">
 <!ENTITY allowRemoteDebugging.accesskey "D">
 <!-- Mail Toolbar -->
@@ -563,8 +564,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Dangos cynnwys pell o fewn y neges hon">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
-<!ENTITY remoteContentOptionAllowForAddress.label "Dangos cynnwys pell gan yr anfonwr hwn">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "g">
+
+
+
+
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Anwybyddu rhybudd am y neges hon">
@@ -623,12 +626,12 @@
 <!ENTITY folderContextSubscribe.accesskey "T">
 <!ENTITY folderContextSearchForMessages.label "Chwilio Negeseuon…">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
-<!ENTITY folderContextProperties.label "Priodweddau…">
-<!ENTITY folderContextProperties.accesskey "P">
+
+
 <!ENTITY folderContextFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY folderContextFavoriteFolder.accesskey "H">
-<!ENTITY folderContextSettings.label "Gosodiadau…">
-<!ENTITY folderContextSettings.accesskey "o">
+
+
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Mae'r Enw neu E-bost yn cynnwys:">
@@ -700,6 +703,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Agor Neges mewn Trafodaeth">
 <!ENTITY contextOpenConversation.accesskey "s">
+
+
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
 <!ENTITY contextArchive.label "Archif">
@@ -882,8 +887,6 @@
 <!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
-<!ENTITY preferencesCmdMac.label        "Dewisiadau…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
@@ -894,3 +897,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "E">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
+<!-- Mac OS X Dock Icon pop-up menu -->

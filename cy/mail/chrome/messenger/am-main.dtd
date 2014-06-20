@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "Defnyddio HTML (e.e., &lt;b&gt;trwm&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label "Atodi llofnod o ffeil (testun, HTML neu ddelwedd):">
-<!ENTITY signatureFile.accesskey "A">
+
+
 <!ENTITY edit.label "Golygu…">
 <!ENTITY choose.label "Dewis…">
 <!ENTITY choose.accesskey "D">

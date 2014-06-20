@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "T">
 <!ENTITY removeallpermissions.label   "Tynnu Pob Gwefan">
 <!ENTITY removeallpermissions.accesskey "P">
-<!ENTITY address.label                "Cyfeiriad y wefan:">
-<!ENTITY address.accesskey            "C">
+
+
 <!ENTITY block.label                  "Rhwystro">
 <!ENTITY block.accesskey              "R">
 <!ENTITY session.label                "Caniatâu ar gyfer y Sesiwn">

@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Cau'r Tab">
 <!ENTITY  listAllTabs.label        "Rhestru pob tab">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Cartref">

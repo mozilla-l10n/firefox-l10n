@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "B">
 <!ENTITY alwaysEncryptMessage.label "Gofynnol (methu anfon negeseuon oni bai fod gan yr holl dderbynwyr dystysgrifau)">
 <!ENTITY alwaysEncryptMessage.accesskey "G">
-<!ENTITY encryptionCert.message "Defnyddio'r dystysgrif i amgryptio a dadgriptio negeseuon gafodd eu hanfon atoch:">
+
 <!ENTITY digitalSign.certificate.button "Dewis…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clirio">

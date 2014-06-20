@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Priodweddau…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+
+
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Offer">
 <!ENTITY tasksMenu.accesskey                            "O">
-<!ENTITY messengerCmd.label                             "E-bost a Grwpiau Newyddion">
-<!ENTITY messengerCmd.accesskey                         "E">
+
+
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "M">
 <!ENTITY exportCmd.label                                "Allforio…">
 <!ENTITY exportCmd.accesskey                            "A">
-<!ENTITY preferencesCmd.label                           "Dewisiadau…">
-<!ENTITY preferencesCmd.accesskey                       "D">
+
+
 <!ENTITY preferencesCmdUnix.label                       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey                   "e">
 <!-- Address Book Toolbar and Context Menus -->  

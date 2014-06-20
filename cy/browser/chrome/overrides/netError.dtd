@@ -107,7 +107,7 @@ osod.</li>
 
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<p>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen gan nad oes modd gwirio dilysrwydd y data derbyniwyd.</li> 
+<li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen gan nad oes modd gwirio dilysrwydd y data derbyniwyd.</li> 
 <li>Cysylltwch â pherchennog y wefan i'w hysbysu o'r anhawster.</li> 
 </ul>">
 

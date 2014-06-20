@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Anhysbys">
 <!ENTITY chatName.label                 "Enw Sgwrsio:">
 
-<!ENTITY allowRemoteContent1.label      "Caniatáu cynnwys pell.">
-<!ENTITY allowRemoteContent1.accesskey  "a">
-<!ENTITY allowRemoteContent1.tooltip    "Mewn negeseuon HTML mae'n bosib i 
-mewnosod cynnwys o ffynonellau pell. Bydd agor neges o'r fath yn agor 
-dolen i'r ffynhonnell allanol hwn. Gall hyn ganiatáu tracio'r 
-neges sy'n cael ei darllen. Bydd ticio'r blwch yn caniatáu cynnwys wedi'i fewnosod 
-mewn negeseuon HTML o'r ddolen hon.">
-
 <!ENTITY WorkPhone.label                "Gwaith:">
 <!ENTITY WorkPhone.accesskey            "G">
 <!ENTITY HomePhone.label                "Cartref:">
