@@ -6,7 +6,7 @@
 <!ENTITY resetProfile.dialog.description  "کیا آپ کو یقین ہے کہ آپ &brandShortName; کو اس کی ابتدائی حالت پر پھر سیٹ کرنا چاہتے ہیں؟">
 <!ENTITY resetProfile.dialog.items2.label "&brandShortName; آپ کی مندرجہ ذیل اشیاہ قائم رکھنے کی کوشش کرے گا:">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; دوبارہ چلے گا اور باقی ساری چیزیں ہٹا دی جائیں گی۔">
-<!ENTITY resetProfile.dialog.button.label "&brandShortName; پھر سیٹ کردہ">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; پھر سیٹ کریں">
 
 <!ENTITY resetProfile.title               "&brandShortName; کو اس کی طے شدہ شکل میں پھر سیٹ کر دیں">
 <!ENTITY resetProfile.description         "اگر آپ کے اہم مسائل ہیں جو اپ نہیں حل کر سکتے ہیں ،تو صرف آپ کی ضروری معلومات کے ساتھ تازہ شروعات کریں">

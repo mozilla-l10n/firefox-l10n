@@ -89,7 +89,7 @@
   -  tools. -->
 
 <!ENTITY options.selectDevToolsTheme.label   "DevTools خیالیہ کا انتخاب کریں:">
-
+<!ENTITY options.darkTheme.label             "سیاہ تھیم۔">
 <!ENTITY options.lightTheme.label            "دهیما موضوع">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

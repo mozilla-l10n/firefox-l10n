@@ -18,6 +18,7 @@
 
 <!ENTITY importButton.accesskey     "د">
 
+<!ENTITY visibilityToggle.tooltip   "طرز ورق کی ظہور پذیری ٹوگل کریں">
 
 <!ENTITY saveButton.label           "محفوظ کریں">
 
@@ -38,6 +39,7 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
+<!ENTITY editorTextbox.placeholder  "یہاں پر CSS لکھیں۔ ">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 
