@@ -181,6 +181,7 @@
 <!ENTITY new_tab "Nuova scheda">
 <!ENTITY new_private_tab "Nuova scheda anonima">
 <!ENTITY close_all_tabs "Chiudi tutte le schede">
+<!ENTITY close_private_tabs "Chiudi schede anonime">
 <!ENTITY tabs_normal "Schede">
 <!ENTITY tabs_private "Anonime">
 <!ENTITY tabs_synced "Sincronizzate">
