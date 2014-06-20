@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "Տեքստ և Աստառ">
-<!ENTITY  textColor.label                 "Տեքստ.">
-<!ENTITY  textColor.accesskey             "ս">
+<!ENTITY  textColor.label                 "Տեքստը.">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Խորապատկերը.">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "Օգտագործել համակարգի գույները">
