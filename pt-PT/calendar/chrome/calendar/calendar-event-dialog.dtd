@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label 				"De" >
 <!ENTITY newevent.to.label 					"Para" >
-<!ENTITY newevent.attendees.notify.label    "Notificar convidados">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Manter anonimato dos participantes nos convites">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Se ativar esta opção, os participantes do evento não serão informados dos restantes participantes. Apenas aplicável para convites por correio eletrónico.">
 
 <!ENTITY newevent.status.label 					"Estado" >
 <!ENTITY newevent.status.accesskey 				"E" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label 		"&#37; concluído">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Notificar convidados">
+<!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por convidado">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite por correio por pessoa. Cada convite apenas contém o destinatário do convite pelo que outros convidados não serão identificados.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2 			"I">
