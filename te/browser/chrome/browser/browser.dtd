@@ -151,8 +151,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "క్రమబద్దీకరించని యిష్టాంశములు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
+<!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
-
+<!ENTITY forwardCmd.label             "ముందుకు">
 <!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళుము">
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపుటకు కిందకు లాగండి">
