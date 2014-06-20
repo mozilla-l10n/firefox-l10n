@@ -28,7 +28,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
-<!ENTITY remindLater.label "Gogora iezadazu beranduago">
+<!ENTITY remindLater.label "Gogora iezadazu geroago">
 <!ENTITY remindLater.accesskey "b">
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
@@ -47,7 +47,7 @@
 <!ENTITY sendNowCmd.label "Bidali orain">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Bidali beranduago">
+<!ENTITY sendLaterCmd.label "Bidali geroago">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Prestatu orria…">
@@ -208,7 +208,7 @@
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Bidali mezua orain">
-<!ENTITY sendlaterButton.tooltip "Bidali mezua beranduago">
+<!ENTITY sendlaterButton.tooltip "Bidali mezua geroago">
 <!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
 <!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
 <!ENTITY attachButton.tooltip "Erantsi fitxategia">

@@ -12,7 +12,7 @@
 <!ENTITY intro.message             "Esaiguzu Androiderako &brandShortName;(r)i buruz pentsatzen duzuna.">
 <!ENTITY intro.happyLink           "Gustoko dut">
 <!ENTITY intro.sadLink             "Arazotxo batzuk izan ditut">
-<!ENTITY intro.maybeLater          "Beranduago agian">
+<!ENTITY intro.maybeLater          "Geroago agian">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -32,7 +32,7 @@
 <!ENTITY happy.finePrint           "Minutu bat baino gutxiago behar du eta denontzat da onuragarria.">
 
 <!ENTITY happy.ratingLink          "Bai, joan Google Playra">
-<!ENTITY happy.maybeLater2         "Beranduago agian">
+<!ENTITY happy.maybeLater2         "Geroago agian">
 <!ENTITY happy.noThanks            "Ez milesker">
 
 <!ENTITY sad.message               "Sentitzen dugu &brandShortName;(r)ekin arazoak izan dituzula. Esaiguzu zer gertatu den konpontzeko gai izan gaitezen.">

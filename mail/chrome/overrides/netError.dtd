@@ -101,7 +101,7 @@
 <!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Hau zerbitzariaren konfigurazioan errore bat dela eta izan daiteke, edo norbait zerbitzariaren nortasuna hartzen ari dela.</li> 
-<li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea aldirokoa izan daiteke eta beranduago saiatu zaitezke.</li> 
+<li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea aldirokoa izan daiteke eta geroago saia zaitezke.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
