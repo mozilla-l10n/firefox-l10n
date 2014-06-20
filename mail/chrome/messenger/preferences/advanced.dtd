@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cyffredinol">
-<!ENTITY itemDisplay.label       "Darllen a Dangos">
+
 <!ENTITY itemUpdate.label        "Diweddaru">
-<!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
+
 <!ENTITY itemCertificates.label  "Tystysgrifau">
 <!-- General Settings -->
 
@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "R">
 <!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
 <!ENTITY updateHistory.accesskey         "D">
-<!ENTITY updateOthers.label              "Diweddaru'n awtomatig:">
-<!ENTITY enableAddonsUpdate3.label       "Ychwanegion">
-<!ENTITY enableAddonsUpdate3.accesskey   "a">
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "e">

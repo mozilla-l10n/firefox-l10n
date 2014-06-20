@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "E-bost Twyllodrus">
 <!ENTITY itemPasswords.label     "Cyfrineiriau">
 <!ENTITY itemAntiVirus.label     "Gwrth Firws">
-<!ENTITY itemCookies.label       "Cynnwys Gwe">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Gosodwch eich gosodiadau sbam rhagosodedig. Mae modd ffurfweddu gosodiadau penodol ar gyfer sbam yn Gosodiadau Cyfrif.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "Mae &brandShortName; yn gallu ei gwneud yn hawdd i feddalwedd gwrth firws ddadansoddi negeseuon e-byst sy'n cael eu derbyn am firysau cyn eu storio'n lleol.">
 <!ENTITY antiVirus.label      "Caniatáu i'r rhaglen neilltuo ar wahân negeseuon sy'n cael eu derbyn">
 <!ENTITY antiVirus.accesskey  "a">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "Mae &brandShortName; yn caniatáu i chi bennu pa flogiau, llif newyddion a gwefannau eraill sy'n cael caniatâd i osod cwcis.">
-<!ENTITY acceptCookies.label            "Derbyn cwcis gan wefannau">
-<!ENTITY acceptCookies.accesskey        "D">
-<!ENTITY keepUntil.label                "Cadw tan:">
-<!ENTITY keepUntil.accesskey            "C">
-<!ENTITY expire.label                   "daw i ben">
-<!ENTITY close.label                    "Cau &brandShortName;">
-<!ENTITY askEachTime.label              "gofyn i mi bob tro">
-<!ENTITY cookieExceptions.label         "Eithriadau…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Dangos Cwcis…">
-<!ENTITY showCookies.accesskey          "D">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Dweud wrth wefannau nad wyf am gael fy nilyn">
-<!ENTITY doNotTrack.accesskey           "D">

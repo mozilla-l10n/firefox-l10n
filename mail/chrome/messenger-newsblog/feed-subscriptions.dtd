@@ -19,6 +19,11 @@
 <!ENTITY quickMode.label             "Dangos crynodeb erthygl yn lle llwytho tudalen gwe">
 <!ENTITY quickMode.accesskey         "c">
 
+
+
+
+
+
 <!ENTITY locationValidate.label      "Dilysu">
 <!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
@@ -35,3 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "Allforiwch Llif gyda strwythur ffolderi; ctrl clic neu ctrl enter i allforio Llif fel rhestr">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Cau">

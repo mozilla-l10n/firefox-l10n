@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "A">
 <!ENTITY pref.defalarmlen4todos.label "Amser rhagosodedig y bydd atgoffwr yn cael ei bennu cyn tasg:">
 <!ENTITY pref.defalarmlen4todos.accesskey "m">
-<!ENTITY pref.defaultemail.label "Cyfeiriad rhagosodedig i anfon atgoffwyr ato:">
-<!ENTITY pref.defaulttext.label "Testun rhagosodedig ar gyfer atgoffwyr :">
+
+<!ENTITY pref.defaultsnoozelength.label "Hyd Cysgu Rhagosodedig:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "C">

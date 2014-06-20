@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-Bost:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Mae'r neges hon yn cynnwys gwahoddiad i ddigwyddiad.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Derbyn">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Gwrthod">
+
+
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Dileu">
+
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Manylion…">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnTentative.label                               "Ansicr">
+
+
+
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Diweddaru">
+
+<!ENTITY lightning.imipbar.description                                      "Mae'r neges hon yn cynnwys gwahoddiad i ddigwyddiad.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

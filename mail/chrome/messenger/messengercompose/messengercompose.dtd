@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Dewis Popeth">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "D">
-<!ENTITY findCmd.label "Canfod ac Amnewid…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "A">
+
+
+
+
+
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Canfod Eto">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "E">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Canfod Blaenorol">
+<!ENTITY findPrevCmd.accesskey "B">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "B">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Golwg">
@@ -152,8 +154,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "P">
 <!ENTITY htmlFormatCmd.label "Testun Cyfoethog (HTML) yn Unig">
 <!ENTITY htmlFormatCmd.accesskey "C">
-<!ENTITY bothFormatCmd.label "Testun Plaen a Chyfoethog (HTML)">
-<!ENTITY bothFormatCmd.accesskey "L">
+
+
 <!ENTITY priorityMenu.label "Blaenoriaeth">
 <!ENTITY priorityMenu.accesskey "B">
 <!ENTITY priorityButton.label "Blaenoriaeth:">
@@ -174,19 +176,19 @@
 
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
-<!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
-<!ENTITY messengerCmd.accesskey "b">
+
+
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Llyfr Cyfeiriadau">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Gosodiadau Cyfrifon…">
-<!ENTITY accountManagerCmd.accesskey "C">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Dewisiadau…">
-<!ENTITY preferencesCmd.accesskey "D">
-<!ENTITY preferencesCmdUnix.label       "Dewisiadau">
-<!ENTITY preferencesCmdUnix.accesskey   "e">
+
+
+
+
+
+<!ENTITY preferencesCmdUnix.label "Dewisiadau">
+<!ENTITY preferencesCmdUnix.accesskey "e">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">

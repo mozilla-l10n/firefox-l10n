@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Dydd Iau" >
 <!ENTITY day.6.name "Dydd Gwener" >
 <!ENTITY day.7.name "Dydd Sadwrn" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "munud">
-<!ENTITY calendar.global.units.minutes  "munud">
-<!ENTITY calendar.global.units.hour     "awr">
-<!ENTITY calendar.global.units.hours    "awr">
-<!ENTITY calendar.global.units.day      "diwrnod">
-<!ENTITY calendar.global.units.days     "diwrnod">
 
 <!ENTITY month.1.name "Ionawr" >
 <!ENTITY month.2.name "Chwefror" >

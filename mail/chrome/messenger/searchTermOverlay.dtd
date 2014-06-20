@@ -6,8 +6,8 @@
 <!ENTITY matchAll.accesskey "y">
 <!ENTITY matchAny.label     "Cydweddu ag unrhyw un o'r canlynol">
 <!ENTITY matchAny.accesskey "d">
-<!ENTITY matchAllMsgs.label     "Cydweddu pob neges">
-<!ENTITY matchAllMsgs.accesskey "n">
+
+
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

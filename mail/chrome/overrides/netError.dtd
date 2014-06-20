@@ -71,8 +71,8 @@ ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li
 <!ENTITY netTimeout.title "Mae cyfnod y cyswllt wedi dod i ben">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Heb ddeall y cyfeiriad">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Heb ddeall y cyfeiriad">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> 
 </ul>">
 
@@ -103,7 +103,7 @@ yn siŵr fod gan &brandShortName; fynediad i'r we.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Methodd y cysylltiad diogel">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li> 
 <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
 </ul>">

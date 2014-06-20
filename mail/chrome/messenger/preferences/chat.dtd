@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Anfon hysbysiadau teipio mewn trafodaethau">
 <!ENTITY  sendTyping.accesskey          "h">
+
+
+
+
+
+<!ENTITY  play.label                          "Chwarae">
+<!ENTITY  play.accesskey                      "h">
+
+
+<!ENTITY  customsound.label                   "Defnyddio'r ffeil sain ganlynol">
+<!ENTITY  customsound.accesskey               "D">
+<!ENTITY  browse.label                        "Pori…">
+<!ENTITY  browse.accesskey                    "P">
+

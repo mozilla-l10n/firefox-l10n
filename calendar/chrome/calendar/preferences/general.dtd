@@ -12,10 +12,20 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Hir" >
 <!ENTITY pref.dateformat.short "Byr"  >
-<!ENTITY pref.defaultlength.label "Hyd Digwyddiad Rhagosodedig:" >
-<!ENTITY pref.defaultlength.accesskey "H">
-<!ENTITY pref.defaultsnoozelength.label "Hyd Cysgu Rhagosodedig:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "C">
+
+<!ENTITY pref.events.label "Digwyddiadau">
+<!ENTITY pref.tasks.label "Tasgau">
+
+
+
+<!ENTITY pref.default_task_none.label "Dim">
+
+
+
+
+
+
+
 
 <!ENTITY pref.accessibility.label "Hygyrchedd" >
 <!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >

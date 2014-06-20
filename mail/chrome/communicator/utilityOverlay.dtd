@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Ffeil">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "D">
-<!ENTITY preferencesCmd.label        "Dewisiadau…">
-<!ENTITY preferencesCmd.accesskey      "D">
+
+
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "D">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "B">
 <!ENTITY showTaskbarCmd.label          "Bar Statws">
 <!ENTITY showTaskbarCmd.accesskey        "S">
-
-<!ENTITY proxy.label                                    "Ffurfweddiad Dirprwy…">
-<!ENTITY proxy.accesskey                                "F">
 
 <!ENTITY closeCmd.label      "Cau">
 <!ENTITY closeCmd.key      "W">
