@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Abrir ubicación…">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -76,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "m">
-
+<!ENTITY navbarCmd.label "Barra de navegación">
 <!ENTITY personalbarCmd.label "Marcadores">
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de marcadores">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-
+<!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar el marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "d">
@@ -143,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "C">
 <!ENTITY shareVideoCmd.label "Compartir este video">
 <!ENTITY shareVideoCmd.accesskey "t">
-
+<!ENTITY feedsMenu.label "Suscribirse">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
+<!ENTITY backCmd.label                "Anterior">
 <!ENTITY backButton.tooltip           "Regresar una página">
-
+<!ENTITY forwardCmd.label             "Siguiente">
 <!ENTITY forwardButton.tooltip        "Avanzar una página">
 <!ENTITY backForwardButtonMenu.tooltip "Clic secundario o arrastrar para mostrar el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastrar para mostrar el historial">
-
+<!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
-
+<!ENTITY stopCmd.label                "Detener">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detener la carga de esta página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la Barra de ubicaciones.">
@@ -229,7 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "a">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "Recogecolor">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -254,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey          "B">
-
-
+<!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Mostrar herramientas">
@@ -435,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Establecer como fondo de escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-
+<!ENTITY bookmarkPageCmd2.label       "Agregar esta página a marcadores">
 <!ENTITY bookmarkThisLinkCmd.label      "Agregar este enlace a marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agregar este marco a marcadores">
@@ -647,7 +650,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "Pestañas de otros dispositivos">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync {ok}">
 
 <!ENTITY syncSetup.label              "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
@@ -655,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Sync {ok}">
 
 <!ENTITY socialToolbar.title        "Botón de herramientas sociales">
 

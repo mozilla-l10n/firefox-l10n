@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Esta página está en">
+<!ENTITY translation.translateThisPage.label    "¿Traducir esta página?">
+<!ENTITY translation.translate.button           "Traducir">
 <!ENTITY translation.notNow.button              "Ahora no">
 
+<!ENTITY translation.translatingContent.label   "Traducir contenido de la página…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):

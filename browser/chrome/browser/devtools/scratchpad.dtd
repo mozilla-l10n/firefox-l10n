@@ -53,19 +53,25 @@
 <!ENTITY viewMenu.label               "Ver">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "Mostrar números de línea">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Ajustar líneas">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Resaltar espacios al final de la línea">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "Mayor tamaño de letra">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "Menor tamaño de letra">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "Tamaño normal">
+<!ENTITY normalSize.accesskey         "N">
 
 
 <!ENTITY editMenu.label               "Editar">
