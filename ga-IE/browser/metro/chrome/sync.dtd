@@ -54,5 +54,5 @@
 <!ENTITY sync.flyout.pairNewDevice.failure "Bain triail as arís">
 <!-- Flyout when a device has been successfully paired -->
 
-<!ENTITY sync.flyout.pairSuccess.description1 "The new device has been successfully added.">
-<!ENTITY sync.flyout.pairSuccess.description2 "Your &syncBrand.shortName.label; data is now being downloaded in the background. Your remote tabs can be found on &brandShortName; Start Page.">
+<!ENTITY sync.flyout.pairSuccess.description1 "D'éirigh leat an gléas nua a shocrú.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Tá do chuid sonraí &syncBrand.shortName.label; á n-íosluchtú sa chúlra. Tá do chluaisíní i gcéin ar fáil ar leathanach tosaigh &brandShortName;.">

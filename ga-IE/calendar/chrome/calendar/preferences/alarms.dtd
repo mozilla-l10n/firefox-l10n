@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "r">
 <!ENTITY pref.defalarmlen4todos.label "Achar réamhshocraithe roimh thasc a thabharfar an meabhrúchán:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Seoladh réamhshocraithe a seolfar meabhrúcháin chuige:">
-<!ENTITY pref.defaulttext.label "Téacs réamhshocraithe i meabhrúchán:">
 
 <!ENTITY pref.defaultsnoozelength.label "Achar codlata réamhshocraithe:">
 <!ENTITY pref.defaultsnoozelength.accesskey "s">

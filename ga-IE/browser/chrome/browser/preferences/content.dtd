@@ -27,3 +27,8 @@
 <!ENTITY chooseLanguage.label "Roghnaigh an teanga is fearr leat le taispeáint leathanach">
 <!ENTITY chooseButton.label "Roghnaigh…">
 <!ENTITY chooseButton.accesskey "o">
+
+<!ENTITY translateWebPages.label "Aistrigh leathanaigh Ghréasáin">
+<!ENTITY translateWebPages.accesskey "A">
+<!ENTITY translateExceptions.label "Eisceachtaí…">
+<!ENTITY translateExceptions.accesskey "s">
