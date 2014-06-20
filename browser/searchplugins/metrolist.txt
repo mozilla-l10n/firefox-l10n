@@ -1,9 +1,0 @@
-googlemetrofx
-twitter
-yahoo-en-GBmetrofx
-amazon-en-GB
-eBay-en-GB
-answers
-creativecommons
-focal
-wikipedia-ga-IE
