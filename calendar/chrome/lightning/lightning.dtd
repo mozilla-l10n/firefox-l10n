@@ -23,7 +23,7 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Mensagem guardada...">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Ficheiro do calendário...">
+<!ENTITY lightning.menupopup.open.calendar.label      "Ficheiro de calendário...">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
 <!-- View Menu -->
@@ -65,12 +65,14 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Atualizar">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atualizar evento no calendário">
 <!ENTITY lightning.imipbar.description 										"Esta mensagem tem um convite para um evento.">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atualizar evento no calendário">
+<!ENTITY lightning.imipbar.description                                      "Esta mensagem contém um convite para um evento.">
 
 <!-- Lightning specific keybindings -->
-<!ENTITY lightning.keys.event.showCalendar.key 	"C">
-<!ENTITY lightning.keys.event.showTasks.key 	"D">
-<!ENTITY lightning.keys.event.new 				"I">
-<!ENTITY lightning.keys.todo.new 				"D">
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key	"D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Criar um novo calendário">
