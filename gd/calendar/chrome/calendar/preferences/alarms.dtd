@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "An t-àm bunaiteach ro ghnìomh nuair a sheirmeas caismeachd:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "An seòladh bunaiteach dhan a chuirear caismeachdan:">
-<!ENTITY pref.defaulttext.label "An teacs bunaiteach airson caismeachdan:">
 
 <!ENTITY pref.defaultsnoozelength.label "Faid bhunaiteach an dùsail:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
