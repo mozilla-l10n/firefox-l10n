@@ -22,6 +22,7 @@
 <!ENTITY day.6.Ddd.accesskey "x">
 <!ENTITY day.7.Ddd "sáb" >
 <!ENTITY day.7.Ddd.accesskey "b">
+
 <!ENTITY day.1.name "domingo" >
 <!ENTITY day.2.name "segunda" >
 <!ENTITY day.3.name "terça" >
@@ -30,13 +31,6 @@
 <!ENTITY day.6.name "sexta" >
 <!ENTITY day.7.name "sábado" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute "minuto">
-<!ENTITY calendar.global.units.minutes "minutos">
-<!ENTITY calendar.global.units.hour "hora">
-<!ENTITY calendar.global.units.hours "horas">
-<!ENTITY calendar.global.units.day "dia">
-<!ENTITY calendar.global.units.days "dias">
 <!ENTITY month.1.name "janeiro" >
 <!ENTITY month.2.name "fevereiro" >
 <!ENTITY month.3.name "março" >
@@ -49,6 +43,7 @@
 <!ENTITY month.10.name "outubro" >
 <!ENTITY month.11.name "novembro" >
 <!ENTITY month.12.name "dezembro" >
+
 <!ENTITY onemonthbackward.tooltip "Recuar um mês" >
 <!ENTITY onemonthforward.tooltip "Avançar um mês" >
 <!ENTITY showToday.tooltip "Ir para hoje">
