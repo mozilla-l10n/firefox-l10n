@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Nastroje přepinać">
 <!ENTITY devToolboxMenuItem.accesskey      "N">
-<!ENTITY devToolboxMenuItem.keytext        "t">
+<!ENTITY devToolboxMenuItem.keytext        "l">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Wuwiwanske nastroje přepinać">
 <!ENTITY devToolbarOtherToolsButton.label  "Dalše nastroje">
