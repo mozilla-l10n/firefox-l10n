@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "d">
 <!ENTITY pref.defalarmlen4todos.label "Zadano vrijeme za podsjetnika prije zadatka:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Zadana adresa e-pošte na koju slati podsjetnike:">
-<!ENTITY pref.defaulttext.label "Zadani tekst za podsjetnike :">
 
 <!ENTITY pref.defaultsnoozelength.label "Zadano trajanje odgode:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "a">
