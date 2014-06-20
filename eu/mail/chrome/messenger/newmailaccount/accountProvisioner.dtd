@@ -26,7 +26,7 @@
 <!ENTITY existing.header "Erabili nahi duzun helbidea badaukazu?">
 <!ENTITY tinyheader.title "Helbidea lortu duzu?">
 <!ENTITY tinyheader.existing "Saltatu hau eta erabili nire helbide elektronikoa">
-<!ENTITY content.close "Uste dut nire kontua beranduago konfiguratuko dudala.">
+<!ENTITY content.close "Uste dut nire kontua geroago konfiguratuko dudala.">
 <!ENTITY successful.title "Zorionak!">
 <!ENTITY successful.successMessage "Zure kontua ondo konfiguratu duzu.">
 <!ENTITY successful.write "Idatzi mezu elektronikoren bat">

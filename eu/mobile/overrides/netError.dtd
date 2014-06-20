@@ -106,7 +106,7 @@
 <!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Hau zerbitzariaren konfigurazio arazo bat izan zitekeen, edo batenbat zerbitzariaren nortasuna bidegabe bereganatzen saiatzen ibiltzea.</li> 
-<li>Zerbitzari honetara arazorik gabe konektatu bazara iraganean, errorea unekoa izan daiteke eta beranduago saia zaitezke.</li> 
+<li>Zerbitzari honetara arazorik gabe konektatu bazara iraganean, errorea unekoa izan daiteke eta geroago saia zaitezke.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc2 "<ul> 
