@@ -257,6 +257,7 @@ size. -->
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_private_tab "Nová súkromná karta">
 <!ENTITY close_all_tabs "Zavrieť všetky karty">
+<!ENTITY close_private_tabs "Zavrieť súkromné karty">
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Súkromné">
 <!ENTITY tabs_synced "Synchronizované">
