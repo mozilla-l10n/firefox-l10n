@@ -8,11 +8,11 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు (C)">
+<!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "తాజాకరించడానికి పునఃప్రారంభించు (R)">
+<!ENTITY update.updateButton.label                "తాజాకరించడానికి పునఃప్రారంభించు">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "నవీకరణను వర్తింపచేయి (A)…">
+<!ENTITY update.applyButtonBillboard.label        "నవీకరణను వర్తింపచేయి…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

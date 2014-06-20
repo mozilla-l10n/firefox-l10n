@@ -70,6 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 
 <!ENTITY welcome.signIn.label "లోపలకు వెళ్ళు">
-
+<!ENTITY welcome.createAccount.label "ఖాతాను సృష్టించు">
 
 <!ENTITY welcome.useOldSync.label "సింక్ పాత వెర్షనును వాడుతున్నారా?">
