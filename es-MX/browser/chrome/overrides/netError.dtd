@@ -106,7 +106,10 @@ personal.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Conexión segura fallida">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> 
+<li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Conexión segura fallida">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

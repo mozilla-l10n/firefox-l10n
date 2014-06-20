@@ -11,9 +11,10 @@
 
 
 
+<!ENTITY removeSite.label                 "Quitar sitio">
+<!ENTITY removeSite.accesskey             "S">
+<!ENTITY removeAllSites.label             "Quitar todos los sitios">
+<!ENTITY removeAllSites.accesskey         "i">
 
-
-
-
-
-
+<!ENTITY button.close.label               "Cerrar">
+<!ENTITY button.close.accesskey           "C">

@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "Avisarme si se cerrarán muchas pestañas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-
+<!ENTITY warnOpenManyTabs.label       "Avisarme si &brandShortName; se pondrá lento al abrir muchas pestañas">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
 
 
