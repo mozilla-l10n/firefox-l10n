@@ -93,6 +93,7 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
 <!ENTITY cmd.showPreferencesWin.label         "Options">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
 <!ENTITY cmd.showPreferencesUnix.label        "Mga Preferences">
@@ -110,7 +111,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ano ang mga Add-ons?">
-<!ENTITY discover.description2                "And mga Add-ons application na hayaan mong personalize  brandShortName; sa karagdagang pag-andar o estilo.Subukan ang isang pagtitipid ng panahon sidebar, isang panahon notifier, o ng isang tema na hitsura sa gumawa  brandShortName ng; iyong sariling.">
+<!ENTITY discover.description2                "And mga Add-ons application na hayaan mong personalize &amp; brandShortName; sa karagdagang pag-andar o estilo.Subukan ang isang pagtitipid ng panahon sidebar, isang panahon notifier, o ng isang tema na hitsura sa gumawa &amp; brandShortName ng; iyong sariling.">
 <!ENTITY discover.footer                      "  Pag konektado ka sa Internet, ipapakita ng pane na ito ang ilan sa pinakamagaganda at sikat na add-ons para masubukan rin ninyo.">
 <!-- detail view -->
 
@@ -191,5 +192,14 @@
 
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
+
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Alamin pa">
+
 
 

@@ -40,6 +40,24 @@
 <!ENTITY closeCmd.key                 "I">
 
 
+<!ENTITY viewMenu.label               "Tingnan">
+<!ENTITY viewMenu.accesskey           "T">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -51,6 +69,7 @@
 
 
 <!ENTITY display.key                  "l">
+
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

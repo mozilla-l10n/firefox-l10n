@@ -28,6 +28,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+
+
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -38,3 +40,6 @@
 <!ENTITY  noproxyExplain.label          "Halimbawa: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Gamitin ang proxy server na ito para sa lahat ng protocols">
 <!ENTITY  shareproxy.accesskey          "s">
+
+
+

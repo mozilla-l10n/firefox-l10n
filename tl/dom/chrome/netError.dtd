@@ -34,7 +34,7 @@
 <!ENTITY netTimeout.title "Network Timeout">
 
 
-<!ENTITY protocolNotFound.title "Unknown Protocol">
+<!ENTITY unknownProtocolFound.title "Unknown Protocol">
 
 
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">

@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Mababago sa Preferences ang mga Settings ng &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Mababago sa Options ang mga Settings ng brandShortName.">
+<!ENTITY  settingsChangeOptions.label      "Mababago sa Options ang mga Settings ng &amp;brandShortName.">

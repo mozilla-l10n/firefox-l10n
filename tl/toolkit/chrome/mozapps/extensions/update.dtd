@@ -25,10 +25,10 @@ hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
 <!ENTITY  installing.top.label            "Kinukuha at ini-install ang mga update sa iyong mga add-on…">
 
 <!ENTITY  noupdates.wizard.title          "Walang Nahanap ang mga Compatible na Add-on">
-<!ENTITY  noupdates.intro.desc            " brandShortName; ay hindi makahanap ng mga update sa iyong 
+<!ENTITY  noupdates.intro.desc            "&amp; brandShortName; ay hindi makahanap ng mga update sa iyong 
 tugma upang magdagdag ng-ons.">
 <!ENTITY  noupdates.error.desc            "Nagkaroon ng problema habang naghahanap ng updates.">
-<!ENTITY  noupdates.checkEnabled.desc     "brandshorname ; ay hindi upang makahanap ng mga update sa iyong                                            hindi tugma magdagdag ng-ons.">
+<!ENTITY  noupdates.checkEnabled.desc     "&amp;brandshorname ; ay hindi upang makahanap ng mga update sa iyong                                            hindi tugma magdagdag ng-ons.">
 
 
 
@@ -41,7 +41,7 @@ Mangyaring makipag-ugnay sa inyong System Administrator para sa tulong.">
 
 <!ENTITY  versioninfo.wizard.title        "Tinitingnan ang Compatibility ng Add-ons">
 <!ENTITY  versioninfo.top.label           "Sinusuri ang iyong mga add-ons para bagang na ito 
-brandShortName.">
+&amp;brandShortName.">
 <!ENTITY  versioninfo.waiting             "Maghintay po ng ilang sandali…">
 
 <!ENTITY  installerrors.wizard.title      "Nagkaproblema habang iniinstall ang updates">

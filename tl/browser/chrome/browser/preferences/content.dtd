@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "Mga Exceptions...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "Mga Fonts at Mga Kulay">
 
 <!ENTITY  defaultFont.label           "Default font:">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -25,3 +24,7 @@
 <!ENTITY chooseLanguage.label         "Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina">
 <!ENTITY chooseButton.label           "Mamili">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "Mga exceptions...">
+<!ENTITY translateExceptions.accesskey "x">

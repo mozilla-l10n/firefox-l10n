@@ -7,7 +7,7 @@
 <!ENTITY undoCmd.accesskey         "I">
 <!ENTITY redoCmd.label             "I-redo">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY redoCmd.accesskey         "R">
 
 <!ENTITY cutCmd.key                "X">
 

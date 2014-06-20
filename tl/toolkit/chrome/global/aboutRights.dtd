@@ -62,7 +62,7 @@
 <!-- point 1 text for unbranded builds -->
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term3 "Ikaw ay malugod na pagdating sa gumamit ng mga Serbisyo na may kasamang bersyon ng  brandShortName;, at ang  vendorShortName; nagbibigay ka ng mga karapatan nito na gawin ito.  vendorShortName; at ang mga tagapaglisensya nito magreserba lahat ng iba pang mga karapatan sa mga Serbisyo. Ang mga kataga na ito ay hindi inilaan upang limitahan ang anumang mga karapatan na ipinagkaloob sa ilalim ng bukas na mga lisensya ng pinagmulan naaangkop sa  brandShortName; at sa mga nararapat na mga bersyon ng pinagmulan ng code ng  brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Ikaw ay malugod na pagdating sa gumamit ng mga Serbisyo na may kasamang bersyon ng &amp; brandShortName;, at ang &amp; vendorShortName; nagbibigay ka ng mga karapatan nito na gawin ito. &amp; vendorShortName; at ang mga tagapaglisensya nito magreserba lahat ng iba pang mga karapatan sa mga Serbisyo. Ang mga kataga na ito ay hindi inilaan upang limitahan ang anumang mga karapatan na ipinagkaloob sa ilalim ng bukas na mga lisensya ng pinagmulan naaangkop sa &amp; brandShortName; at sa mga nararapat na mga bersyon ng pinagmulan ng code ng &amp; brandShortName;.">
 
 
 

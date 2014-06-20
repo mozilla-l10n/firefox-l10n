@@ -48,14 +48,14 @@ i-update ang para &brandShortName; sa lalong madaling panahon.">
 
 
 <!ENTITY  error.label                     "May mga problema check para, download, o i-install ito 
-update. brandShortName.">
+update. &amp;brandShortName.">
                                            
-<!ENTITY  errorManual.label               "Maaari mong i-update ng mano-mano  brandShortName;  sa pamamagitan ng pagbisita sa link na ito 
+<!ENTITY  errorManual.label               "Maaari mong i-update ng mano-mano &amp; brandShortName;  sa pamamagitan ng pagbisita sa link na ito 
 at-download ang pinakabagong bersyon:">
 
 
-<!ENTITY  errorCertAttrNoUpdate2.label    "Isang bagay ang pumipigil mula sa pag-update ng ligtas. Mangyaring siguraduhin na mayroon kang mga pinakabagong bersyon ng  brandShortName; mula sa:">
-<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan kang lansihin  brandShortName; sa pagtanggap ng isang 
+<!ENTITY  errorCertAttrNoUpdate2.label    "Isang bagay ang pumipigil mula sa pag-update ng ligtas. Mangyaring siguraduhin na mayroon kang mga pinakabagong bersyon ng &amp; brandShortName; mula sa:">
+<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan kang lansihin &amp; brandShortName; sa pagtanggap ng isang 
 hindi secure na-update. Mangyaring makipag-ugnayan sa iyong network provider at humingi ng tulong.">
 
 <!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">

@@ -22,7 +22,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Mga bukmark">
 
-<!ENTITY abouthome.settingsButton.label  "Settings">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Options">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Mga Preferences">
 <!ENTITY abouthome.addonsButton.label    "Mga Add-ons">
 
 <!ENTITY abouthome.downloadsButton.label "Mga Download">

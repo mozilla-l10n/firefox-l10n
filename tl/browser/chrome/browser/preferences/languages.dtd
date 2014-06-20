@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Mga Wika">
-<!ENTITY languages.customize.prefLangDescript           "Ang mga pahina sa web ay minsan inihandog mahigit sa isang wika. Mamili ng wika para ipamalas ng mga pahina sa web, para sa iyong hirang.">
-<!ENTITY languages.customize.active.label               "Mga wika na nakaayos sa kagustuhan:">
+
 
 
 

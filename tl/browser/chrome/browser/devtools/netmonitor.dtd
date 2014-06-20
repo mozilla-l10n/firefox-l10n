@@ -41,6 +41,8 @@
   -  in the network details pane identifying the response tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
+  -  in the network details pane identifying the preview tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
@@ -115,6 +117,10 @@
   -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed

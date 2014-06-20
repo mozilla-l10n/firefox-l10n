@@ -52,6 +52,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Bagong Tab">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Magbukas ng file…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
@@ -97,7 +100,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
 
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
@@ -115,7 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Mga bukmark">
 <!ENTITY bookmarksMenu.accesskey "b">
-<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang web page na ito">
+
 <!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -138,18 +140,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Bookmark na Hindi Magkasunod">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
-
 <!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
-
 
 <!ENTITY forwardButton.tooltip        "Pumunta sa susunod na web page">
 <!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
 
 
-
 <!ENTITY reloadButton.tooltip         "I-reload ang kasalukuyang web page">
-<!ENTITY stopCmd.label                "Tigil">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ihinto ang pagkakarga ng pahina">
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
@@ -183,7 +181,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Mga Download">
-<!ENTITY downloads.tooltip            "Ipakita ang nangyayari sa mga kasalukuyang download">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -204,6 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY inspectContextMenu.accesskey "I">
+
+
 
 
 
@@ -397,13 +396,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang web page na ito">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
 
 
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
@@ -419,8 +416,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY saveVideoCmd.label           "I-Save ang Video Bilang…">
-<!ENTITY saveVideoCmd.accesskey       "V">
+
+
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 
@@ -513,11 +510,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY newTabButton.tooltip           "Buksan ang panibagong tab">
-<!ENTITY newWindowButton.tooltip        "Magbukas ng bagong window">
-
-
-<!ENTITY fullScreenButton.tooltip       "Ipakita ang window sa buong screen">
 
 
 
@@ -562,6 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
 
 
 
@@ -614,9 +607,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
 <!ENTITY social.closeNotificationItem.label "Hindi Ngayon">
-
-
 
 
 
@@ -656,44 +649,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.tryAgain "Ulitin">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
 
 
-
-<!ENTITY appMenuButton.tooltip         "Buksan ang menu ng &brandShortName;">
-
-<!ENTITY feedButton.tooltip            "Mag-subscribe sa web page na ito…">
-<!ENTITY bookmarksButton.tooltip       "Ipakita ang iyong mga bookmark">
-<!ENTITY historyButton.tooltip         "Ipakita ang mga pahinang binuksan mo kailan lang">
-<!ENTITY viewTabsOnTop.label           "Tabs sa Itaas">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-
-
-
-<!ENTITY appMenuFind.label             "Hanapin…">
-<!ENTITY appMenuUnsorted.label         "Bookmark na Hindi Magkasunod">
-
-<!ENTITY appMenuGettingStarted.label   "Pagsisimula">
-
-
-
-
-
-
-
-<!ENTITY zoomControls.label            "Controls ng Zoom">
-<!ENTITY addonBarCloseButton.tooltip   "Isara ang Add-on Bar">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Urong/Sulong">
-<!ENTITY viewBookmarksSidebar.label    "Ipakita sa Sidebar">
-<!ENTITY bookmarksItem.title           "Mga bukmark">
-<!ENTITY openLocationCmd.label         "Magbukas ng lokasyon…">
-<!ENTITY openLocationCmd.accesskey     "l">
-<!ENTITY bookmarksMenuButton.tooltip   "Ipakita ang iyong mga bookmark">
-
-<!ENTITY tabGroupsButton.tooltip       "Magtipon ng mga tab">
-<!-- end of strings to be removed post-Australis -->

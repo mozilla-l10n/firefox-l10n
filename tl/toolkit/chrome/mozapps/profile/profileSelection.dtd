@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "Gumawa nang offline">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Huwag magtanong sa umpisa">
-<!ENTITY            autoSelect.accesskey   "s">
+

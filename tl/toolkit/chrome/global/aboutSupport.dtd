@@ -16,7 +16,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Pangalan">
 
 <!ENTITY aboutSupport.extensionVersion "Bersyon">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Paglalarawan">
+
+
+
 
 <!ENTITY aboutSupport.appBasicsName "Pangalan">
 <!ENTITY aboutSupport.appBasicsVersion "Bersyon">

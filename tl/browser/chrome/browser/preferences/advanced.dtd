@@ -28,8 +28,8 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Palagiang i-tsek kung deafult browser ang &brandShortName; sa startup">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Gawing brandShortName ; ang default browser">
-<!ENTITY setDefault.accesskey            "b">
+<!ENTITY setDefault.label                "Gawing &amp;brandShortName ; ang default browser">
+<!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
 
 
@@ -110,9 +110,9 @@
 
 
 
-<!ENTITY certs.auto.accesskey            "l">
 
-<!ENTITY certs.ask.accesskey             "i">
+
+
 
 
 
