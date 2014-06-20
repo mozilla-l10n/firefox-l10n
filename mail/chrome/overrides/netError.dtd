@@ -98,7 +98,7 @@ reddedilmesi olabilmektedir.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
-<!ENTITY nssFailure2.longDesc " <ul> 
+<!ENTITY nssFailure2.longDesc2 " <ul> 
 <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> 
 <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> 
 </ul>">

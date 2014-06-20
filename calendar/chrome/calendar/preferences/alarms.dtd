@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "y">
 <!ENTITY pref.defalarmlen4todos.label "Görevden önce hatırlatmanın kurulacağı varsayılan süre:">
 <!ENTITY pref.defalarmlen4todos.accesskey "n">
-<!ENTITY pref.defaultemail.label "Hatırlatmaların gönderileceği varsayılan adres:">
-<!ENTITY pref.defaulttext.label "Hatırlatmalar için varsayılan metin:">
 
 <!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "y">
