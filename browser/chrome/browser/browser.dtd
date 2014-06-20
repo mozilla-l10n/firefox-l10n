@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Öppna adress…">
 <!ENTITY openFileCmd.label "Öppna fil…">
 <!ENTITY openFileCmd.accesskey "Ö">
 <!ENTITY openFileCmd.commandkey "o">
@@ -76,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Menyfältet">
 <!ENTITY menubarCmd.accesskey "M">
-
+<!ENTITY navbarCmd.label "Navigeringsfältet">
 <!ENTITY personalbarCmd.label "Bokmärkesfältet">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bokmärkesfältsposter">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bokmärken">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "Bokmärk denna sida">
 <!ENTITY editThisBookmarkCmd.label "Redigera bokmärket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -143,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "D">
 <!ENTITY shareVideoCmd.label "Dela den här videon">
 <!ENTITY shareVideoCmd.accesskey "D">
-
+<!ENTITY feedsMenu.label "Prenumerera">
 <!ENTITY subscribeToPageMenupopup.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Osorterade bokmärken">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
+<!ENTITY backCmd.label                "Bakåt">
 <!ENTITY backButton.tooltip           "Gå bakåt en sida">
-
+<!ENTITY forwardCmd.label             "Framåt">
 <!ENTITY forwardButton.tooltip        "Gå framåt en sida">
 <!ENTITY backForwardButtonMenu.tooltip "Högerklicka eller dra ner för att visa historiken">
 <!ENTITY backForwardButtonMenuMac.tooltip "Dra ner för att visa historiken">
-
+<!ENTITY reloadCmd.label              "Uppdatera">
 <!ENTITY reloadButton.tooltip         "Uppdatera sidan">
-
+<!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Avbryt hämtningen av denna sida">
 <!ENTITY goEndCap.tooltip             "Gå till adressen i adressfältet">
@@ -254,8 +256,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Stäng Utvecklarfältet">
 <!ENTITY devToolbarMenu.label              "Utvecklarfältet">
 <!ENTITY devToolbarMenu.accesskey          "U">
-
-
+<!ENTITY devAppMgrMenu.label               "Hantera appar">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Visa verktygen">
@@ -435,7 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "d">
 <!ENTITY setDesktopBackgroundCmd.label      "Använd som skrivbordsbakgrund…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-
+<!ENTITY bookmarkPageCmd2.label       "Bokmärk denna sida">
 <!ENTITY bookmarkThisLinkCmd.label      "Lägg till bokmärke för länkmål">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">

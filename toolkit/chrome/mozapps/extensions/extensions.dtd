@@ -222,6 +222,6 @@ några av de bästa och mest populära tilläggen som du kan prova.">
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Läs mer">
+<!ENTITY experiment.info.learnmore.accesskey "L">
 
-
-
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

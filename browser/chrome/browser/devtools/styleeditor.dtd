@@ -26,14 +26,20 @@
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.label     "Visa originalkällor">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.accesskey  "a">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
+
+<!ENTITY mediaRules.label           "@media regler ">
 
 <!ENTITY editorTextbox.placeholder  "Skriv in CSS här.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no

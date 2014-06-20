@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "Be webbplatser att inte spåra mig">
 <!ENTITY dntTrackingNotOkay.accesskey   "e">
 <!ENTITY dntTrackingOkay.label2         "Tillåt webbplatser att spåra mig">
-
+<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY doNotTrackInfo.label           "Läs mer">
 
 <!ENTITY  history.label                 "Historik">
