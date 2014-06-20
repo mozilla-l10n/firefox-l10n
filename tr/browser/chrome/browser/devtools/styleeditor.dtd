@@ -24,6 +24,7 @@
 <!ENTITY saveButton.tooltip         "Bu stil sayfasını bir dosyaya kaydet">
 <!ENTITY saveButton.accesskey       "K">
 
+<!ENTITY optionsButton.tooltip      "Stil Editörü seçenekleri">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 

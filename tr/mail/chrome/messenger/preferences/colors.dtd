@@ -11,7 +11,7 @@
 
 <!ENTITY  color                           "Metin ve arka plan">
 <!ENTITY  textColor.label                 "Metin:">
-<!ENTITY  textColor.accesskey             "M">
+<!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Arka plan:">
 <!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
