@@ -30,22 +30,38 @@
 <!ENTITY rights.intro-point3c "了解 &vendorShortName; 的隐私条款。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; 也提供了可选的网站信息服务，例如附加组件更新服务；然而我们不能保证它们始终运行地 100&#037; 准确、不出错。更多信息请点击">
+<!ENTITY rights2.intro-point4a "&brandShortName; 也提供了可选的网站信息服务，例如附加组件或安全浏览服务；然而，我们不能保证它们始终运行地 100&#037; 准确、无错。更多信息请点击">
 <!ENTITY rights.intro-point4b "服务条款">
 <!ENTITY rights.intro-point4c "展开更多细节信息，如怎样禁用服务等。">
 
 <!ENTITY rights.webservices-header "&brandFullName; 网站服务">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; 提供了可选的服务 （&quot;服务&quot;），例如附加组件更新服务，均已包含在此 &brandShortName; 二进制发行版供您使用。如果您不想要使用服务或者无法接受如下条款，您也可以禁用安全浏览服务，只需打开首选项，然后选择 ">
-<!ENTITY rights.webservices-b "高级">
-<!ENTITY rights.webservices-c " 章节，其次是 ">
-<!ENTITY rights.webservices-d "软件安装">
-<!ENTITY rights.webservices-e " 部分，然后取消选中&quot;自动检查更新&quot;。">
+<!ENTITY rights2.webservices-a "&brandShortName; 也提供了可选的服务，例如附加组件推荐和更新服务，以及安全浏览功能，您可在如下所述的 &brandShortName; 二进制版本中使用这些功能。这些功能被默认启用。如果您不想要使用这些服务，或者无法接受如下条款，您可以禁用服务，操作方法见 ">
+<!ENTITY rights2.webservices-b "这里">
+<!ENTITY rights2.webservices-c "。其他特性和服务可以在应用程序首选项中禁用。">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "附加组件服务：">
+<!ENTITY rights.addons-b "默认情况下，&brandShortName; 将在 &view.discover.label; 页面提供附加组件推荐并定期检查更新。如果您想禁用这些功能以避免信息已安装的附加组件的信息到达服务器，请按下列步骤操作：">
+<!ENTITY rights.addons-term1 "打开应用程序首选项">
+<!ENTITY rights.addons-term2 "选择 &advance.label; 中的 &smart.label; 面板">
+<!ENTITY rights.addons-term3 "取消选中 &quot;&autoAddOnsUpdates.label;&quot; 和&quot;&enablePersonalized.label;&quot; 选项">
+<!ENTITY rights.addons-term4 "就这样，附加组件服务已被禁用了">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "安全浏览：">
+<!ENTITY rights.safebrowsing-b "不推荐您禁用安全浏览功能，因为它可能会导致您到达不安全的网站。如果您确定想完全禁用该功能，请按照下列步骤：">
+<!ENTITY rights.safebrowsing-term1 "打开应用程序首选项">
+<!ENTITY rights.safebrowsing-term2 "选择 &security.label; 面板">
+<!ENTITY rights.safebrowsing-term3 "取消选中“&blockAttackSites.label;”和“&blockWebForgeries.label;”选项">
+<!ENTITY rights.safebrowsing-term4 "安全浏览目前已禁用">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; 可以保留中止或修改服务的权利。">
