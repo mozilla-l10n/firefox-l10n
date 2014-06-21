@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "在任务触发前默认的提醒时间：">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "默认地址是发送提醒到：">
-<!ENTITY pref.defaulttext.label "默认的提醒内容：">
 
 <!ENTITY pref.defaultsnoozelength.label "默认暂缓时间：" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
