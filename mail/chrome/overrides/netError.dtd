@@ -88,7 +88,7 @@
 ">
 
 <!ENTITY nssFailure2.title "安全连接失败">
-<!ENTITY nssFailure2.longDesc "<ul>
+<!ENTITY nssFailure2.longDesc2 "<ul>
   <li>你正要查看的网页无法显示，因为接收到的数据的真实性无法验证。</li>
   <li>请联系网站所有者，向他们通报这一问题。</li>
 </ul>
