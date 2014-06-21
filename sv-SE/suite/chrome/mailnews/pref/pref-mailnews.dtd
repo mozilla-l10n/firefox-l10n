@@ -18,6 +18,14 @@
 <!ENTITY setDefaultNews.accesskey         "G">
 <!ENTITY setDefaultFeed.label             "Flöden">
 <!ENTITY setDefaultFeed.accesskey         "F">
+
+<!ENTITY useInternalSettings.description  "Använd &brandShortName; E-post &amp; Grupper när webbläsaren öppnar länkar för:">
+<!ENTITY useInternalMail.label            "E-post (mailto:)">
+<!ENTITY useInternalMail.accesskey        "p">
+<!ENTITY useInternalNews.label            "Grupper (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "u">
+
+
 <!ENTITY messengerStartPage.caption         "Startsida för e-postklienten">
 <!ENTITY enableStartPage.label            "När e-postklienten startas visas startsidan i meddelandeytan">
 <!ENTITY enableStartPage.accesskey        "ä">
