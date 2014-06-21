@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
@@ -27,22 +30,37 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; erbjuder frivilliga webbaserade informationstjänster, såsom uppdateringar till tillägg; vi kan dock inte garantera att dessa är till 100 &#37; felfria. Fler detaljer, inklusive information om hur du inaktiverar dessa tjänster hittar du i ">
+<!ENTITY rights2.intro-point4a "&brandShortName; erbjuder frivilliga webbaserade informationstjänster, såsom Tilläggstjänster eller Säker surfning; vi kan dock inte garantera att dessa är till 100 &#37; felfria. Fler detaljer, inklusive information om hur du inaktiverar dessa tjänster hittar du i ">
 <!ENTITY rights.intro-point4b "tjänstevillkoren">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; webbplatstjänster">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; erbjuder frivilliga tjänster (”Tjänster”), såsom uppdateringar till tillägg, som du kan använda i den här binära versionen av &brandShortName; och som beskrivs nedan. Om du inte vill använda Tjänsterna eller om nedanstående villkor är oacceptabla, kan du inaktivera uppdateringar av tillägg genom att öppna Inställningar och välja sektionen ">
-<!ENTITY rights.webservices-b "Avancerat">
-<!ENTITY rights.webservices-c " , välj posten ">
-<!ENTITY rights.webservices-d "Programinstallation">
-<!ENTITY rights.webservices-e " och avmarkera alternativen för ”Kontrollera automatiskt om det finns uppdateringar till”.">
+<!ENTITY rights2.webservices-a "&brandFullName; erbjuder tilläggstjänster (&quot;Tjänster&quot;), såsom förslag och uppdateringar av tillägg eller Säker surfning, som du kan använda i den här binära versionen av &brandShortName; och som beskrivs nedan.  Dessa tjänster är från början aktiverade.  Om du inte vill använda tjänsterna eller om nedanstående villkorär oacceptabla, hittar du instruktioner för hur man inaktiverar en viss funktion eller tjänst ">
+<!ENTITY rights2.webservices-b "här">
+<!ENTITY rights2.webservices-c ". Andra funktioner och tjänster kan inaktiveras i applikationens inställningar">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Tilläggstjänster: ">
+<!ENTITY rights.addons-b "Som standard kommer, &brandShortName; föreslå tillägg på sidan &view.discover.label; och regelbundet leta efter uppdateringar.  Om du vill stänga av dessa funktioner för att undvika överföring av information av installerade tillägg till servern, följ dessa steg:">
+<!ENTITY rights.addons-term1 "Öppna applikationens inställningar">
+<!ENTITY rights.addons-term2 "Välj alternativet &smart.label; i kategorin &advance.label; ">
+<!ENTITY rights.addons-term3 "Bocka ur alternativen &quot;&autoAddOnsUpdates.label;&quot; och &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Tilläggstjänsterna är nu inaktiverade">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Säker surfning: ">
+<!ENTITY rights.safebrowsing-b "Att inaktivera funktionen Säker surfning är inget som rekommenderas eftersom det kan leda till att du besöker osäkra sajter.  Om du vill inaktivera funktionen fullständig, följ dessa steg:">
+<!ENTITY rights.safebrowsing-term1 "Öppna applikationens inställningar">
+<!ENTITY rights.safebrowsing-term2 "Välj huvudalternativet &security.label; ">
+<!ENTITY rights.safebrowsing-term3 "Bocka ur alternativen &quot;&blockAttackSites.label;&quot; och &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Säker surfning är nu inaktiverad">
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; förbehåller sig rätten att efter eget gottfinnande upphöra med eller modifiera dessa tjänster.">
