@@ -181,6 +181,7 @@
 <!ENTITY new_tab "Новая вкладка">
 <!ENTITY new_private_tab "Приватная вкладка">
 <!ENTITY close_all_tabs "Закрыть все вкладки">
+<!ENTITY close_private_tabs "Закрыть приватные вкладки">
 <!ENTITY tabs_normal "Вкладки">
 <!ENTITY tabs_private "Приватные">
 <!ENTITY tabs_synced "Синхронизированные">
@@ -254,6 +255,9 @@
 <!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
+<!ENTITY private_browsing_title "Приватный просмотр">
+<!ENTITY private_tabs_panel_description "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные вами файлы будут сохранены на вашем устройстве.">
+<!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
