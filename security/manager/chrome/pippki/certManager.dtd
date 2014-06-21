@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Организација">
 <!ENTITY certmgr.certdetail.ou                "Организациона јединица">
 <!ENTITY certmgr.certdetail.serialnumber      "Серијски број">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 отисак кључа">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 отисак кључа">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 отисак кључа">
 
 <!ENTITY certmgr.editcert.title               "Измени поставке безбедносних сертификата:">
 <!ENTITY certmgr.editcacert.title             "Измени подешавање поверења центра сертификата">
