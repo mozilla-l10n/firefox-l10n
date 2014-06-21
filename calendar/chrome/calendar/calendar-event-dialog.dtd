@@ -336,8 +336,8 @@
 <!ENTITY invite.title.label                     "Osalejate kutsumine">
 <!ENTITY event.organizer.label                  "Korraldaja">
 <!ENTITY event.freebusy.suggest.slot            "Aja pakkumine:">
-<!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
-<!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
+<!ENTITY event.freebusy.button.next.slot        "Järgmine aeg">
+<!ENTITY event.freebusy.button.previous.slot    "Eelmine aeg">
 <!ENTITY event.freebusy.zoom                    "Suurendamine/Vähendamine:">
 <!ENTITY event.freebusy.legend.free             "Vaba" >
 <!ENTITY event.freebusy.legend.busy             "Hõivatud" >
