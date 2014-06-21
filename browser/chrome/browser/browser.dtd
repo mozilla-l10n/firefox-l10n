@@ -263,7 +263,7 @@
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "M">
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
-<!ENTITY customizeMenu.moveToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToPanel.accesskey "E">
 <!ENTITY customizeMenu.removeFromToolbar.label "Remover de la barra">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover del menú">
