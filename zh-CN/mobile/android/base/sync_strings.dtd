@@ -107,6 +107,8 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox 账户'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 账户'>
 <!ENTITY fxaccount_status_signed_in_as '已登录为'>
+<!ENTITY fxaccount_status_device_name '设备名称'>
 <!ENTITY fxaccount_status_sync '服务'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已启用'>
 <!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点击重发验证邮件。'>

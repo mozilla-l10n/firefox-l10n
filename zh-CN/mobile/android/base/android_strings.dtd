@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; 标签页">
 <!ENTITY new_tab_opened "已打开新标签页">
+<!ENTITY new_private_tab_opened "已新建隐私浏览标签页">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "切换">
 
 <!ENTITY settings "设置">
 <!ENTITY settings_title "设置">
 <!ENTITY pref_category_advanced "高级">
 <!ENTITY pref_category_customize "自定义">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "语言">
+<!ENTITY pref_browser_locale "浏览器语言">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "系统默认">
+
 <!ENTITY pref_category_search3 "搜索">
 <!ENTITY pref_category_search_summary "自定义您的搜索提供商">
 <!ENTITY pref_category_display "显示">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "自动更新">
 <!ENTITY pref_home_updates_enabled "已启用">
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
+<!ENTITY pref_home_suggested_sites "显示推荐网站">
+<!ENTITY pref_home_suggested_sites_summary "显示我们认为您可能感兴趣的推荐网站">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "自定义">
 <!ENTITY pref_header_display "显示">
 <!ENTITY pref_header_privacy_short "隐私">
 <!ENTITY pref_header_help "帮助">
+<!ENTITY pref_header_language "语言">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "开发者工具">
 
@@ -216,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "总不">
 <!ENTITY pref_update_autodownload_always "总是">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "帮助">
+
 <!ENTITY quit "退出">
 
 <!ENTITY addons "附加组件">
@@ -279,7 +302,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "滚动标题栏">
 
-<!ENTITY history_removed "页面已移除">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "页面已移除">
 
 <!ENTITY bookmark_edit_title "编辑书签">
 <!ENTITY bookmark_edit_name "名称">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
 
 <!ENTITY reading_list_added "页面已添加到您的阅读列表">
-<!ENTITY reading_list_removed "页面已从您的阅读列表中移除">
 <!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
 <!ENTITY reading_list_duplicate "页面已在您的阅读列表中">
 
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "添加站点">
 
 <!ENTITY home_history_title "历史">
+<!ENTITY home_clear_history_button "清除浏览历史记录">
+<!ENTITY home_clear_history_confirm "您确定要清除您的历史记录吗？">
 <!ENTITY home_bookmarks_empty "这里显示了您保存的书签。">
 <!ENTITY home_last_tabs_title "上次的标签页">
 <!ENTITY home_last_tabs_open "打开上一次的所有标签页">
@@ -431,3 +458,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "菜单">
 <!ENTITY actionbar_done "完成">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "最后同步：&formatS;">
