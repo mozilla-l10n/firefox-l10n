@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "邀请参与者">
 <!ENTITY event.organizer.label                  "组织者">
 <!ENTITY event.freebusy.suggest.slot            "建议时间间距：">
-<!ENTITY event.freebusy.next.slot               "下次空闲" >
-<!ENTITY event.freebusy.previous.slot           "上次空闲" >
+<!ENTITY event.freebusy.button.next.slot        "下一段空闲">
+<!ENTITY event.freebusy.button.previous.slot    "上一段空闲">
 <!ENTITY event.freebusy.zoom                    "缩放：">
 <!ENTITY event.freebusy.legend.free             "空闲" >
 <!ENTITY event.freebusy.legend.busy             "繁忙" >
