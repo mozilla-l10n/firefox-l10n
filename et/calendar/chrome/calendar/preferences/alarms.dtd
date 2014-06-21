@@ -31,9 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "ü">
 <!ENTITY pref.defalarmlen4todos.label "Meeldetuletus eelneb ülesandele:">
 <!ENTITY pref.defalarmlen4todos.accesskey "e">
-<!--<!ENTITY pref.alarmbox.label "Meeldetuletused">-->
-<!ENTITY pref.defaultemail.label "Vaikimisi saada meeldetuletused aadressile:">
-<!ENTITY pref.defaulttext.label "Vaikimisi teade meeldetuletuste jaoks:">
 
 <!ENTITY pref.defaultsnoozelength.label "Vaikimisi edasilükkamise kestus:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "d">
