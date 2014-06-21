@@ -19,6 +19,8 @@
 <!ENTITY translation.errorTranslating.label     "Hubo un error al traducir esta página.">
 <!ENTITY translation.tryAgain.button            "Volver a intentar">
 
+<!ENTITY translation.serviceUnavailable.label   "La traducción no está disponible en este momento. Por favor, vuelve a intentarlo más tarde.">
+
 <!ENTITY translation.options.menu               "Opciones">
 
 <!ENTITY translation.options.neverForSite.label "Nunca traducir este sitio">
