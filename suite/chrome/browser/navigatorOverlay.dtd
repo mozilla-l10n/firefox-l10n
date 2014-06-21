@@ -67,7 +67,7 @@
 <!ENTITY recentWindows.label "最近关闭的窗口">
 <!ENTITY recentWindows.accesskey "W">
 <!ENTITY recentWindows.commandkey "y">
-<!ENTITY historyRestoreLastSession.label "恢复上一次的会话">
+<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "来自其他计算机的标签页">
 <!ENTITY syncTabsMenu.accesskey "O">

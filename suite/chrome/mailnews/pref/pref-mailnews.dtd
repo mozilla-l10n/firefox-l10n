@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "收取点">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+<!ENTITY useInternalSettings.description  "使用 &brandShortName; 邮件 &amp; 新闻组打开此类浏览器链接：">
+<!ENTITY useInternalMail.label            "邮件 (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "新闻组 (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "邮件起始页">
 <!ENTITY enableStartPage.label            "在登录邮箱后，在信息区域显示开始页面">
 <!ENTITY enableStartPage.accesskey        "W">
