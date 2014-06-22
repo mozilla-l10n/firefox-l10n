@@ -72,7 +72,6 @@
 <!ENTITY sync.button.ok.label "У реду">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Мени забелешки">
