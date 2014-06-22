@@ -115,9 +115,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Falla de la conexión segura">
-<!ENTITY nssFailure2.longDesc "<ul>
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
   <li>La página que estás tratando de ver no puede mostrarse porque la autenticidad de los datos recibidos no puede verificarse.</li>
-  <li>Ponete en contacto con los propietarios del sitio para informarles acerca de este problema. También podés usar el comando que se encuentra en el menú de ayuda para informar acerca del sitio roto.</li>
+  <li>Ponete en contacto con los propietarios del sitio para informarles acerca de este problema.</li>
 </ul>
 ">
 

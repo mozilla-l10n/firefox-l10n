@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Canales">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+ <!ENTITY useInternalSettings.description  "Use correo y noticias de &brandShortName; al abrir enlaces del navegador para:">
+<!ENTITY useInternalMail.label            "Correo (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Noticias (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "Página de inicio del correo">
 <!ENTITY enableStartPage.label            "Al iniciar Mail, mostrar la página de inicio en el área de mensajes">
 <!ENTITY enableStartPage.accesskey        "A">
