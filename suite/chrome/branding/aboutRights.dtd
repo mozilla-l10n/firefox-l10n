@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios de información sobre sitios web opcionales, como por ejemplo el servicio SafeBrowsing; sin embargo, no podemos garantizar que esten libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
+<!ENTITY rights2.intro-point4a "&brandShortName; ofrece servicios de información sobre sitios web opcionales, como por ejemplo complementos o el servicio SafeBrowsing; sin embargo, no podemos garantizar que esten libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
