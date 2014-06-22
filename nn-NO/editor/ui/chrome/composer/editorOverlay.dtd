@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Søk og erstatt …">
+<!ENTITY findBarCmd.label "Finn …">
+<!ENTITY findReplaceCmd.label "Finn og byt ut …">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroll medan du skriv">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Kontroller staving">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matte …">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Teikn og symbol …">
 <!ENTITY insertCharsCmd.accesskey "s">
 <!ENTITY insertBreakAllCmd.label "Linjeskift under bilde">
@@ -67,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Vel skriftstørrelse">
+<!ENTITY FontSizeSelect.tooltip "Vel skriftstorleik">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -77,7 +80,7 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Størrelse">
+<!ENTITY fontSizeMenu.label "Storleik">
 <!ENTITY fontSizeMenu.accesskey "e">
 <!ENTITY size-xx-smallCmd.label "xx-liten">
 <!ENTITY size-xx-smallCmd.accesskey "t">
@@ -126,7 +129,7 @@
 <!ENTITY styleAcronym.accesskey "A">
 <!ENTITY styleCode.label "Kode">
 <!ENTITY styleCode.accesskey "K">
-<!ENTITY styleSamp.label "Døme på resultat">
+<!ENTITY styleSamp.label "Dømeresultat">
 <!ENTITY styleSamp.accesskey "D">
 <!ENTITY styleVar.label "Variabel">
 <!ENTITY styleVar.accesskey "V">
@@ -276,7 +279,7 @@
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Del celle">
 <!ENTITY tableSplitCell.accesskey "D">
-<!ENTITY convertToTable.label "Lag tabell av merka område">
+<!ENTITY convertToTable.label "Lag tabell av merkt område">
 <!ENTITY convertToTable.accesskey "L">
 <!ENTITY tableProperties.label "Tabelleigenskapar …">
 <!ENTITY tableProperties.accesskey "T">

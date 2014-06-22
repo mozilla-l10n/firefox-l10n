@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Frå" >
 <!ENTITY newevent.to.label                  "Til" >
-<!ENTITY newevent.attendees.notify.label    "Varsla deltakarar">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Hald deltakarliste hemmeleg i invitasjonar">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Dersom slått på, vil deltakarar ikkje sjå kvarandre i invitasjonar. Gjeld berre e-postinvitasjonar.">
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; fullført">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Varsle deltakarar">
+<!ENTITY event.attendees.notifyundisclosed.label    "Eigen invitasjon for kvar deltakar">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
