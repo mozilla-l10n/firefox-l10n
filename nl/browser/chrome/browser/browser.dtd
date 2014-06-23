@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "S">
 
 <!ENTITY downloads.label              "Downloads">
-<!ENTITY downloads.tooltip            "De voortgang van lopende downloads weergeven">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -562,11 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoomen">
 <!ENTITY fullZoom.accesskey             "o">
 
-<!ENTITY newTabButton.tooltip           "Een nieuw tabblad openen">
-<!ENTITY newWindowButton.tooltip        "Een nieuw venster openen">
 <!ENTITY sidebarCloseButton.tooltip     "Zijbalk sluiten">
-
-<!ENTITY fullScreenButton.tooltip       "Het venster weergeven in volledig scherm">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluiten">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
