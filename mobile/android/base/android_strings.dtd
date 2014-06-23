@@ -246,6 +246,7 @@
 <!ENTITY home_clear_history_button "Elimina cronologia">
 <!ENTITY home_clear_history_confirm "Eliminare la cronologia di navigazione?">
 <!ENTITY home_bookmarks_empty "In questa sezione verranno visualizzati i segnalibri salvati.">
+<!ENTITY home_closed_tabs_title "Schede chiuse di recente">
 <!ENTITY home_last_tabs_title "Schede dall’ultima esecuzione">
 <!ENTITY home_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY home_last_tabs_empty "In questa sezione verranno visualizzate le schede recenti.">
