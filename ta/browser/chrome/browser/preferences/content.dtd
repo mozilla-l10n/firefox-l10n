@@ -9,7 +9,7 @@
 <!ENTITY  popupExceptions.label       "விதிவிலக்குகள்...">
 <!ENTITY  popupExceptions.accesskey   "வ">
 
-<!ENTITY  fontsAndColors.label        "எழுத்துருக்கள் &amp; நிறங்கள்">
+<!ENTITY  fontsAndColors.label        "எழுத்துருக்கள்  நிறங்கள்">
 
 <!ENTITY  defaultFont.label           "முன்னிருப்பு எழுத்துரு:">
 <!ENTITY  defaultFont.accesskey       "ம">
@@ -27,7 +27,3 @@
 <!ENTITY chooseLanguage.label         "பக்கங்களை காட்ட உங்களுக்கு பிடித்தமான முதன்மை மொழியைத் தேர்ந்தெடுக்கவும்">
 <!ENTITY chooseButton.label           "தேர்ந்தெடு...">
 <!ENTITY chooseButton.accesskey       "ந">
-
-
-<!ENTITY translateExceptions.label    "விதிவிலக்குகள்">
-<!ENTITY translateExceptions.accesskey "த">

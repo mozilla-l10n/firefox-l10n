@@ -44,13 +44,4 @@
 <!ENTITY translation.errorTranslating.label     "இந்த பக்கத்தை மொழிபெயர்ப்பதில் பிழை.">
 <!ENTITY translation.tryAgain.button            "மீண்டும் முயற்சிக்கவும்">
 
-
 <!ENTITY translation.options.menu               "விருப்பங்கள்">
-<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
-  -                     translation.options.preferences.accesskey):
-  -  The accesskey values used here should not clash with the value used for
-  -  translation.options.neverForLanguage.accesskey in translation.properties
-  -->
-
-
-
