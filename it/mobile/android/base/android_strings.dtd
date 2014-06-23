@@ -7,6 +7,7 @@
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY history_title "Cronologia">
 <!ENTITY reading_list_title "Elenco lettura">
+<!ENTITY  recent_tabs_title "Schede recenti">
 <!ENTITY switch_to_tab "Passa alla scheda">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha riscontrato un problema e si è bloccato. Le schede aperte dovrebbero essere visibili nella pagina iniziale di &brandShortName; dopo il riavvio.">
