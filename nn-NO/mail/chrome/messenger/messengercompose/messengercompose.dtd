@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
-<!ENTITY findCmd.label "Søk og byt ut …">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "e">
+<!ENTITY findBarCmd.label "Finn …">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Finn og byt ut …">
+<!ENTITY findReplaceCmd.accesskey "n">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Søk igjen">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Søk etter førre">
+<!ENTITY findPrevCmd.accesskey "e">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "e">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis">
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Konto …">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Innstillingar …">
-<!ENTITY preferencesCmd.accesskey "I">
-<!ENTITY preferencesCmdUnix.label       "Innstillingar">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY accountManagerCmd2.label "Kontoinnstillingar">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Innstillingar">
+<!ENTITY preferencesCmd2.accesskey "I">
+<!ENTITY preferencesCmdUnix.label "Innstillingar">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -260,7 +262,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Legg til i ordboka">
 <!ENTITY spellCheckAddToDictionary.accesskey "L">
-<!ENTITY undo.label "Angre">
+<!ENTITY undo.label "Angra">
 <!ENTITY undo.accesskey "A">
 <!ENTITY cut.label "Klipp ut">
 <!ENTITY cut.accesskey "u">
