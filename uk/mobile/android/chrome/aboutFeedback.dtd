@@ -35,7 +35,7 @@
 <!ENTITY happy.maybeLater2         "Може іншим разом">
 <!ENTITY happy.noThanks            "Ні, дякую">
 
-<!ENTITY sad.message               "Прикро чути, що ви маєте проблеми з &brandShortName;. Опишіть їх нам, щоб ми могли їх поправити.">
+<!ENTITY sad.message               "Прикро чути, що ви маєте проблеми з &brandShortName;. Опишіть їх нам, щоб ми могли їх виправити.">
 <!ENTITY sad.placeholder           "Введіть ваш відгук сюди">
 <!ENTITY sad.lastSite              "Останній відвіданий сайт (необов’язково)">
 
