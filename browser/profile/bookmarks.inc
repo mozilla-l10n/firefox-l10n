@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize firefox தனிப்பயனாக்கம்\u0020
+#define firefox_customize firefox தனிப்பயனாக்கம் 
 
 
 # LOCALIZATION NOTE (firefox_community):

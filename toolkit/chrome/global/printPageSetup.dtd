@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "பக்க அமைவு">
 
-<!ENTITY basic.tab           "வடிவமைப்பு &amp; விருப்பங்கள்">
+<!ENTITY basic.tab           "வடிவமைப்பு  விருப்பங்கள்">
 
 <!ENTITY formatGroup.label   "முறை">
 
@@ -25,10 +25,10 @@
 
 <!ENTITY optionsGroup.label  "விருப்பங்கள்">
 
-<!ENTITY printBG.label       "பிண்ணனியை அச்சிடு (நிறங்கள் &amp; படங்கள்) (B)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "பிண்ணனியை அச்சிடு (நிறங்கள்  படங்கள்) (B)">
+<!ENTITY printBG.accesskey   " ">
 
-<!ENTITY advanced.tab        "ஓரங்கள் &amp; தலைக்குறிப்பு/அடிக்குறிப்பு">
+<!ENTITY advanced.tab        "ஓரங்கள்  தலைக்குறிப்பு/அடிக்குறிப்பு">
 
 <!ENTITY marginGroup.label   "ஓரங்கள் (#1)">
 <!ENTITY marginUnits.inches  "அங்குலங்கள்">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "வலது:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "தலைக்குறியும் &amp; அடிக்குறியும்">
+<!ENTITY headerFooter.label  "தலைக்குறியும்  அடிக்குறியும்">
 
 <!ENTITY hfLeft.label        "இடது:">
 <!ENTITY hfCenter.label      "மையம்:">
