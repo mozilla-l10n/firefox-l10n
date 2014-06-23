@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Last ned/synkroniser no …">
 <!ENTITY synchronizeOfflineCmd.accesskey "a">
-<!ENTITY settingsOfflineCmd.label "Innstillingar for fråkopla modus …">
-<!ENTITY settingsOfflineCmd.accesskey "F">
+<!ENTITY settingsOfflineCmd2.label "Fraåkoplat-innstillingar …">
+<!ENTITY settingsOfflineCmd2.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Last ned valde meldingar">
 <!ENTITY downloadSelectedCmd.accesskey "n">
 <!ENTITY downloadStarredCmd.label "Last ned meldingar merkte med stjerne">
@@ -89,11 +89,11 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
 <!ENTITY deleteMsgCmd.accesskey "t">
-<!ENTITY undeleteMsgCmd.label "Angre sletting av melding">
+<!ENTITY undeleteMsgCmd.label "Angra sletting av melding">
 <!ENTITY undeleteMsgCmd.accesskey "g">
 <!ENTITY deleteMsgsCmd.label "Slett valde meldingar">
 <!ENTITY deleteMsgsCmd.accesskey "v">
-<!ENTITY undeleteMsgsCmd.label "Angre valde meldingar">
+<!ENTITY undeleteMsgsCmd.label "Angra valde meldingar">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "e">
 <!ENTITY menuFavoriteFolder.label "Favorittmappe">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Eigenskapar …">
-<!ENTITY folderPropsFolderCmd.label "Mappeeigenskapar …">
-<!ENTITY folderPropsNewsgroupCmd.label "Innstillingar for nyheitsgrupper">
-<!ENTITY folderPropsCmd.accesskey "E">
+<!ENTITY folderPropsCmd2.label "Eigenskapar">
+<!ENTITY folderPropsFolderCmd2.label "Mappe-eigenskapar">
+<!ENTITY folderPropsNewsgroupCmd2.label "Nyhendegruppe-innstillingar">
+<!ENTITY folderPropsCmd.accesskey "N">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angra flytting av melding">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Nyleg">
 <!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Kompaktvising">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Lagra filer">
 <!ENTITY savedFiles.accesskey "L">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Meldingsfilter …">
-<!ENTITY filtersCmd.accesskey "M">
+<!ENTITY filtersCmd2.label "Meldingsfilter">
+<!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Køyr filter på mappe">
 <!ENTITY filtersApply.accesskey "K">
 <!ENTITY filtersApplyToSelection.label "Køyr filter på valde meldingar">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Slett nyleg historikk …">
 <!ENTITY clearRecentHistory.accesskey "n">
-<!ENTITY accountManagerCmd.label "Konto …">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Kontoinnstillingar">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillat ekstern debugging">
 <!ENTITY allowRemoteDebugging.accesskey "T">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhald i denne meldinga">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
-<!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt innhald frå denne avsendaren">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY editRemoteContentSettings.label "Innstillingar for eksternt innhald …">
+<!ENTITY editRemoteContentSettings.accesskey "n">
+<!ENTITY editRemoteContentSettingsUnix.label "Innstillingar for eksternt innhald …">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "n">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer åtvaring for denne meldinga">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "M">
 <!ENTITY folderContextSearchForMessages.label "Søk i meldingar …">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Innstillingar …">
-<!ENTITY folderContextProperties.accesskey "I">
+<!ENTITY folderContextProperties2.label "Innstillingar">
+<!ENTITY folderContextProperties2.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Innstillingar …">
-<!ENTITY folderContextSettings.accesskey "n">
+<!ENTITY folderContextSettings2.label "Innstillingar">
+<!ENTITY folderContextSettings2.accesskey "n">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller e-postadresse inneheld:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Opna melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Opna melding i tilhøyrande mapppe">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkiv">
@@ -883,14 +889,14 @@
 <!ENTITY zoomWindow.label "Skalering">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Innstillingar …">
+<!ENTITY preferencesCmdMac2.label       "Innstillingar">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tenester">
-<!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "Gøym &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
+<!ENTITY hideOtherAppsCmdMac.label      "Gøym andre">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Vis alle">

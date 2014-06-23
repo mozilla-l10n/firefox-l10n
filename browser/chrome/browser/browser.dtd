@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Fram">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå fram ei side">
-<!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å vise historikk">
+<!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å visa historikk">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å visa historikk">
 <!ENTITY reloadCmd.label              "Oppdater">
 <!ENTITY reloadCmd.accesskey          "O">
@@ -231,6 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Responsiv designvising">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "Fargeveljar">
+<!ENTITY eyedropper.accesskey "F">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -444,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post …">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY switchToMetroCmd.label       "Opna på nytt i Windows 8-stil &brandShortName;">
 <!ENTITY savePageCmd.label            "Lagra side som …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -736,47 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY uiTour.infoPanel.close "Lukk">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "Utvidingslinje">
-<!ENTITY addonBarCmd.accesskey         "U">
-<!ENTITY throbberItem.title            "Aktivitetsindikator">
-<!ENTITY appMenuButton.label           "Meny">
-<!ENTITY appMenuButton.tooltip         "Opna &brandShortName;-menyen">
-<!ENTITY feedButton.label              "Abonner">
-<!ENTITY feedButton.tooltip            "Abonner på denne sida …">
-<!ENTITY bookmarksButton.tooltip       "Viser bokmerka dine">
-<!ENTITY historyButton.tooltip         "Vis sider du har besøkt i det siste">
-<!ENTITY viewTabsOnTop.label           "Faner øvst">
-<!ENTITY viewTabsOnTop.accesskey       "F">
-<!ENTITY appMenuEdit.label             "Rediger">
-<!ENTITY appMenuToolbarLayout.label    "Verktøylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label         "Sidestolpar">
-<!ENTITY appMenuFind.label             "Finn …">
-<!ENTITY appMenuUnsorted.label         "Usorterte bokmerke">
-<!ENTITY appMenuWebDeveloper.label     "Nettsideutviklar">
-<!ENTITY appMenuGettingStarted.label   "Kom i gang">
-<!ENTITY appMenuSafeMode.label         "Start på nytt utan utvidingar …">
-<!ENTITY appMenuSafeMode.accesskey     "S">
-<!ENTITY cutButton.tooltip             "Klipp ut">
-<!ENTITY copyButton.tooltip            "Kopier">
-<!ENTITY pasteButton.tooltip           "Lim inn">
-<!ENTITY zoomOutButton.tooltip         "Zoom ut">
-<!ENTITY zoomInButton.tooltip          "Zoom inn">
-<!ENTITY zoomControls.label            "Zoom-kontrollar">
-<!ENTITY addonBarCloseButton.tooltip   "Lukk utvidingslinje">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Tilbake/Fram">
-<!ENTITY viewBookmarksSidebar.label    "Vis i sidestolpen">
-<!ENTITY bookmarksItem.title           "Bokmerke">
-<!ENTITY openLocationCmd.label         "Opna adresse …">
-<!ENTITY openLocationCmd.accesskey     "d">
-<!ENTITY bookmarksMenuButton.tooltip   "Vis bokmerka mine">
+
 <!ENTITY switchToMetroCmd2.label       "Opna på nytt i &brandShortName; for Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Grupper faner">
-<!-- end of strings to be removed post-Australis -->
 
