@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "Է">
 <!ENTITY  undoCloseTab.label                 "Վերականգնել փակված էջը">
 <!ENTITY  undoCloseTab.accesskey             "Վ">
-<!ENTITY  closeTab.label                     "Փակել էջը">
+<!ENTITY  closeTab.label                     "Փակել ներդիրը">
 <!ENTITY  closeTab.accesskey                 "Փ">
 
 <!ENTITY  listAllTabs.label      "Ցուցադրել բոլոր էջերը">
