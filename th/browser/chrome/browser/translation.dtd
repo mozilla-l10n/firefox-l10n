@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "เกิดข้อผิดพลาดระหว่างการแปลหน้านี้">
 <!ENTITY translation.tryAgain.button            "ลองใหม่">
 
+<!ENTITY translation.serviceUnavailable.label   "การแปลไม่สามารถทำได้ ณ ขณะนี้ โปรดลองในภายหลัง">
 
 <!ENTITY translation.options.menu               "ตัวเลือก">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -51,6 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "ไม่ต้องแปลหน้านี้">
+<!ENTITY translation.options.neverForSite.accesskey "ม">
+<!ENTITY translation.options.preferences.label  "ปรับแต่งการแปล">
+<!ENTITY translation.options.preferences.accesskey "ป">
