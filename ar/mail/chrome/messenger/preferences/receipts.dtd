@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label           "عند وصول الإعلام:">
 <!ENTITY leaveIt.label                 "اتركه في صندوق الوارد">
 <!ENTITY leaveIt.accesskey             "و">
-<!ENTITY moveToSent.label              "انقلها إلى مجلّد ”المُرسَل“">
+<!ENTITY moveToSent.label              "انقلها إلى مجلّد &quot;المُرسَل&quot;">
 <!ENTITY moveToSent.accesskey          "ن">
 <!ENTITY requestMDN.label              "عند استلامي طلب إعلام الوصول:">
 <!ENTITY never.label                   "لا ترسل إعلام وصول أبدًا">

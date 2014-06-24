@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "ل">
 <!ENTITY synchronizeOfflineCmd.label "نزّل/زامِن الآن…">
 <!ENTITY synchronizeOfflineCmd.accesskey "ز">
-<!ENTITY settingsOfflineCmd.label "إعدادات اللااتصال…">
-<!ENTITY settingsOfflineCmd.accesskey "ص">
+
+
 <!ENTITY downloadSelectedCmd.label "اجلب الرسائل المختارة">
 <!ENTITY downloadSelectedCmd.accesskey "م">
 <!ENTITY downloadStarredCmd.label "اجلب الرسائل ذات النجمة">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "ة">
 <!ENTITY menuFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY menuFavoriteFolder.accesskey "ف">
-<!ENTITY folderPropsCmd.label "خصائص…">
-<!ENTITY folderPropsFolderCmd.label "خصائص المجلد…">
-<!ENTITY folderPropsNewsgroupCmd.label "خصائص مجموعة البريد…">
-<!ENTITY folderPropsCmd.accesskey "خ">
+
+
+
+
 <!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
 <!ENTITY undoMoveMsgCmd.label "ألغِ نقل الرسالة">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "م">
 <!ENTITY recentFolders.label "حديث">
 <!ENTITY recentFolders.accesskey "ح">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "رتّب حسب">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "الملفات المحفوظة">
 <!ENTITY savedFiles.accesskey "ظ">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "مرشِّحات الرسائِل…">
-<!ENTITY filtersCmd.accesskey "س">
+
+
 <!ENTITY filtersApply.label "شغّل المرشِّحات على المجلد">
 <!ENTITY filtersApply.accesskey "ش">
 <!ENTITY filtersApplyToSelection.label "شغّل المرشحات على الرسائل المحددة">
@@ -478,11 +480,10 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
 <!ENTITY clearRecentHistory.accesskey "س">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
-<!ENTITY accountManagerCmd.accesskey "ع">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "ح">
 <!ENTITY allowRemoteDebugging.label "اسمح بالتنقيح عن بعد">
 <!ENTITY allowRemoteDebugging.accesskey "ق">
 <!-- Mail Toolbar -->
@@ -563,8 +564,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "أظهر المحتوى البعيد في هذه الرسالة">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "ظ">
-<!ENTITY remoteContentOptionAllowForAddress.label "أظهر المحتوى البعيد من هذا المُرسِل">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "م">
+
+
+
+
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "تجاهل التحذير لهذه الرسالة">
@@ -623,12 +626,12 @@
 <!ENTITY folderContextSubscribe.accesskey "ش">
 <!ENTITY folderContextSearchForMessages.label "ابحث في الرسائل…">
 <!ENTITY folderContextSearchForMessages.accesskey "س">
-<!ENTITY folderContextProperties.label "الخصائص…">
-<!ENTITY folderContextProperties.accesskey "خ">
+
+
 <!ENTITY folderContextFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY folderContextFavoriteFolder.accesskey "ف">
-<!ENTITY folderContextSettings.label "إعدادات…">
-<!ENTITY folderContextSettings.accesskey "ع">
+
+
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "الاسم أو البريد يحوي:">
@@ -700,6 +703,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ل">
 <!ENTITY contextOpenConversation.label "افتح الرسالة في محادثة">
 <!ENTITY contextOpenConversation.accesskey "ث">
+
+
 <!ENTITY contextEditMsgAsNew.label "حرّر كرسالةٍ جديدة">
 <!ENTITY contextEditMsgAsNew.accesskey "ح">
 <!ENTITY contextArchive.label "أرشيف">
@@ -882,8 +887,6 @@
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
-<!ENTITY preferencesCmdMac.label        "تفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey   "،">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "خدمات">
@@ -894,3 +897,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "أظهِر الكل">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "خيارات أيقونة التطبيق">

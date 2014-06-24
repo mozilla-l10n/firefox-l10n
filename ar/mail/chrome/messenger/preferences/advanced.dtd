@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "ذ">
 <!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey         "ظ">
-<!ENTITY updateOthers.label              "تحديث تلقائي:">
-<!ENTITY enableAddonsUpdate3.label       "الإضافات">
-<!ENTITY enableAddonsUpdate3.accesskey   "ض">
 
 <!ENTITY useService.label                "استخدم خدمة في الخلفية لتنزيل التحديثات">
 <!ENTITY useService.accesskey            "خ">

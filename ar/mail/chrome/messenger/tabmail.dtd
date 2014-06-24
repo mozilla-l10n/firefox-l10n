@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "أغلق اللسان">
 <!ENTITY  listAllTabs.label        "اسرد جميع الألسنة">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "المنزل">

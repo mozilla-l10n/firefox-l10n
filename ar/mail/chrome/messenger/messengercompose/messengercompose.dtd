@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY findCmd.label "ابحث و استبدل…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "ب">
+
+
+
+
+
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "ابحث مرة أخرى">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "م">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ابحث عن السابق">
+<!ENTITY findPrevCmd.accesskey "ع">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "ع">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "عرض">
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "دفتر العناوين ">
 <!ENTITY addressBookCmd.accesskey "د">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
-<!ENTITY accountManagerCmd.accesskey "ع">
-<!ENTITY accountManagerCmdUnix.accesskey "ع">
-<!ENTITY preferencesCmd.label "الخيارات…">
-<!ENTITY preferencesCmd.accesskey "خ">
-<!ENTITY preferencesCmdUnix.label       "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey   "ف">
+
+
+
+
+
+<!ENTITY preferencesCmdUnix.label "التفضيلات">
+<!ENTITY preferencesCmdUnix.accesskey "ف">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
