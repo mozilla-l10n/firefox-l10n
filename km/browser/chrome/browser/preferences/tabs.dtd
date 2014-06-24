@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "ព្រមាន​ខ្ញុំ នៅ​ពេល​បិទ​ផ្ទាំង​ច្រើន">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-
+<!ENTITY warnOpenManyTabs.label       "ព្រមាន​ខ្ញុំ នៅ​ពេល​បើក​ផ្ទាំង​ច្រើន​ដែល​ប្រហែល​អាច​ធ្វើ​ឲ្យ down &brandShortName; យឺត">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
 <!ENTITY restoreTabsOnDemand.label        "កុំ​ផ្ទុក​ផ្ទាំង លុះត្រាតែ​​បាន​ជ្រើស">
 <!ENTITY restoreTabsOnDemand.accesskey    "ល">

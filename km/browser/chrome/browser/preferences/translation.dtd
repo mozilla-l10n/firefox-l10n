@@ -15,9 +15,10 @@
 
 <!ENTITY noTranslationForSites.label      "ការ​បកប្រែ​នឹង​មិន​ត្រូវ​បាន​ផ្ដល់​ឲ្យ​សម្រាប់​តំបន់​បណ្ដាញ​ដូច​ខាងក្រោម៖">
 <!ENTITY treehead.siteName.label          "តំបន់​បណ្ដាញ">
+<!ENTITY removeSite.label                 "លុប​តំបន់​បណ្ដាញ​ចេញ">
+<!ENTITY removeSite.accesskey             "S">
+<!ENTITY removeAllSites.label             "លុប​តំបន់​បណ្ដាញ​ទាំងអស់​ចេញ">
+<!ENTITY removeAllSites.accesskey         "i">
 
-
-
-
-
-
+<!ENTITY button.close.label               "បិទ">
+<!ENTITY button.close.accesskey           "C">
