@@ -22,8 +22,8 @@
 <!ENTITY jobTitleInput.accesskey "s">
 
 <!ENTITY colorGroup.label "Umbala:">
-<!ENTITY grayRadio.label "iGreysikali">
-<!ENTITY grayRadio.accesskey "i">
+<!ENTITY grayRadio.label "IGreysikali">
+<!ENTITY grayRadio.accesskey "I">
 <!ENTITY colorRadio.label "Umbala">
 <!ENTITY colorRadio.accesskey "U">
 

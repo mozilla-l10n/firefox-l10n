@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Vula indawo…">
 <!ENTITY openFileCmd.label "Vula ifayile…">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Iibhukhmakhi">
 <!ENTITY bookmarksMenu.accesskey "I">
-
+<!ENTITY bookmarkThisPageCmd.label "Faka ibhukhmakhi kweli khasi">
 <!ENTITY editThisBookmarkCmd.label "Hlela Le Bhukhmakhi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Iibhukhmakhi ezingalandelelaniswanga">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 
+<!ENTITY backCmd.label                "Emva">
 <!ENTITY backButton.tooltip           "Buya umva ngephepha elinye">
-
+<!ENTITY forwardCmd.label             "Phambili">
 <!ENTITY forwardButton.tooltip        "Yiya phambili ngephepha elinye">
 <!ENTITY backForwardButtonMenu.tooltip "Cofa ekunene okanye hlisa ukubonisa imbali">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hlisa ukubonisa imbali">
-
+<!ENTITY reloadCmd.label              "Layisha kwakhona">
 <!ENTITY reloadButton.tooltip         "Layisha kwakhona iphepha langoku">
-
+<!ENTITY stopCmd.label                "Nqumama">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli phepha">
 <!ENTITY goEndCap.tooltip             "Yiya kwidilesi kwibha yendawo">
@@ -436,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Seta Njengokungasemva eskrinini…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "Faka ibhukhmakhi kweli khasi">
 <!ENTITY bookmarkThisLinkCmd.label      "Faka Ibhukhmakhi Kweli Khonkco">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">

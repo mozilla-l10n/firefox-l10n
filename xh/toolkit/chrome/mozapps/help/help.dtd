@@ -27,7 +27,7 @@
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Zingela">
-
+<!ENTITY searchHeader.label             "Khangela iziphumo">
 <!ENTITY toctab.label                   "Iziqulatho">
 <!ENTITY toctab.accesskey               "I">
 <!-- LOCALIZATION NOTE :

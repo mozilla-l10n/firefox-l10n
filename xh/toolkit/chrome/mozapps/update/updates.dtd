@@ -39,8 +39,8 @@ Akuzukuphinda usibone kwakhona esi saziso, kodwa unako">
 <!ENTITY  evangelism.desc                 "Kucetyiswa kakhulu ukuba usebenzise olu 
 hlaziyo lwe-&brandShortName; ngokukhawuleza kangangoko.">
 
-<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi  sivumelwano, cofa Ndiyavuma 
-ngaphantsi ukuqhubeka nokufakela olu hlaziyo. ">
+<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma   
+ngaphantsi uqhube nokufakela olu hlaziyo. ">
 
 <!ENTITY  license.titleText               "ISivumelwano seLayisensi yeSoftwe">
 <!ENTITY  license.introText               "Imiqathango nemimiselo yokusebenzisa le softwe.">
@@ -65,7 +65,7 @@ umqulu wohlaziyo epheleleyo.">
 
 <!ENTITY  error.title                     "Uhlaziyo aluPhumelelanga">
 
-<!ENTITY  error.label                     "Bekukho iingxaki ekukhangeleleni ukukhuphela, okanye ukufakela olu 
+<!ENTITY  error.label                     "Bekukho iingxaki ekukhangeleni, ukukhuphela, okanye ukufakela olu 
 hlaziyo. I-&brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
                                            
 <!ENTITY  errorManual.label               "Ungahlaziya &brandShortName; ngokwakho ngokuthi utyelele kweli khonkco 
