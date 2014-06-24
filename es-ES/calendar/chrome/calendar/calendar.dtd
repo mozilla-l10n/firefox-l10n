@@ -26,7 +26,7 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2 "Ordenar por prioridad">
 <!ENTITY calendar.unifinder.tree.title.label "Título">
 <!ENTITY calendar.unifinder.tree.title.tooltip2 "Ordenar por tamaño">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Completo">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; completo">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2 "Ordenar por &#037; progreso">
 <!ENTITY calendar.unifinder.tree.startdate.label "Inicio">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2 "Ordenar por fecha de inicio">
@@ -154,7 +154,7 @@
 <!ENTITY calendar.context.priority.accesskey "r">
 <!ENTITY calendar.context.postpone.label "Postponer tarea">
 <!ENTITY calendar.context.postpone.accesskey "P">
-<!ENTITY percnt "&#037;">
+<!ENTITY percnt " &#037;">
 <!ENTITY calendar.context.markcompleted.label "Marcar como completada">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 <!ENTITY progress.level.0 "0&percnt; completado">
