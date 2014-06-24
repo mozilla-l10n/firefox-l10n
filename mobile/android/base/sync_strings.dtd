@@ -169,6 +169,7 @@
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
+<!ENTITY fxaccount_status_device_name 'Nombre de dispositivo'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: habilitado'>
 <!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Tocá para reenviar el correo electrónico de verificación.'>
