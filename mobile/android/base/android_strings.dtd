@@ -63,10 +63,22 @@
 <!ENTITY num_tabs2 "&formatD; من الألسنة">
 <!ENTITY new_tab_opened "فُتح لسان جديد">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "ابحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
 <!ENTITY pref_category_display "العرض">
@@ -103,12 +115,15 @@
 <!ENTITY pref_home_updates "التحديثات التلقائية">
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
 <!ENTITY pref_header_display "العرض">
 <!ENTITY pref_header_privacy_short "الخصوصية">
-<!ENTITY pref_header_help "المساعدة">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "أدوات المطورين">
 
@@ -215,6 +230,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
 <!ENTITY pref_update_autodownload_always "دائمًا">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "أغلق">
 
@@ -278,8 +294,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "لف شريط العنوان">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "أزِيلت الصفحة">
+<!ENTITY page_removed "أزِيلت الصفحة">
 
 <!ENTITY bookmark_edit_title "حرّر العلامة">
 <!ENTITY bookmark_edit_name "الاسم">
@@ -294,7 +313,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 
 <!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
-<!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_duplicate "الصفحة موجودة في قائمة القراءة">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +339,8 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 
 <!ENTITY home_history_title "التأريخ">
+
+
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
 <!ENTITY home_last_tabs_title "الألسنة من المرة السابقة">
 <!ENTITY home_last_tabs_open "افتح كل الألسنة من المرة السابقة">
@@ -434,3 +454,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "القائمة">
 <!ENTITY actionbar_done "تم">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

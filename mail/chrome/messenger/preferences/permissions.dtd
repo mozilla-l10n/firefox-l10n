@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "ل">
 <!ENTITY removeallpermissions.label   "أزِل كل المواقع">
 <!ENTITY removeallpermissions.accesskey "ك">
-<!ENTITY address.label                "عنوان الموقع:">
-<!ENTITY address.accesskey            "و">
+
+
 <!ENTITY block.label                  "احظر">
 <!ENTITY block.accesskey              "ظ">
 <!ENTITY session.label                "اسمح في هذه الجلسة">

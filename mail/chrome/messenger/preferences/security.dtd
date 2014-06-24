@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "بريد الاحتيال">
 <!ENTITY itemPasswords.label     "كلمات السر">
 <!ENTITY itemAntiVirus.label     "مضاد الفيروسات">
-<!ENTITY itemCookies.label       "محتوى الوب">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "اضبط إعدادات السخام الافتراضيَّة. يمكن ضبط إعدادات السخام الخاصة بالحساب في إعدادات الحساب.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "يستطيع &brandShortName; تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.">
 <!ENTITY antiVirus.label      "اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض">
 <!ENTITY antiVirus.accesskey  "س">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "يترك لك &brandShortName; أمر تحديد ما هي التدوينات وتلقيمات الأخبار ومواقع الوب الأخرى التي يُسمح لها بإعداد كعكات.">
-<!ENTITY acceptCookies.label            "اقبل الكعكات من المواقع">
-<!ENTITY acceptCookies.accesskey        "ك">
-<!ENTITY keepUntil.label                "احتفظ بها حتى:">
-<!ENTITY keepUntil.accesskey            "ف">
-<!ENTITY expire.label                   "تنتهي صلاحيتها">
-<!ENTITY close.label                    "أُغلق &brandShortName;">
-<!ENTITY askEachTime.label              "اسألني كل مرة">
-<!ENTITY cookieExceptions.label         "استثناءات…">
-<!ENTITY cookieExceptions.accesskey     "ث">
-<!ENTITY showCookies.label              "أظهِر الكعكات…">
-<!ENTITY showCookies.accesskey          "ظ">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "أخبر المواقع أنني لا أريدها أن تتعقبني">
-<!ENTITY doNotTrack.accesskey           "خ">

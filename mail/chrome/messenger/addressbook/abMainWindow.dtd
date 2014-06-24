@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "الخصائص…">
-<!ENTITY propertiesCmd.accesskey                        "خ">
+
+
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "س">
 <!ENTITY exportCmd.label                                "صدِّر…">
 <!ENTITY exportCmd.accesskey                            "ص">
-<!ENTITY preferencesCmd.label                           "الخيارات…">
-<!ENTITY preferencesCmd.accesskey                       "خ">
+
+
 <!ENTITY preferencesCmdUnix.label                       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey                   "ف">
 <!-- Address Book Toolbar and Context Menus -->  

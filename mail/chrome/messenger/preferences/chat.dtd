@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "أرسل تنويهات الكتابة في المحادثات">
 <!ENTITY  sendTyping.accesskey          "ك">
+
+
+
+
+
+<!ENTITY  play.label                          "شغّل">
+<!ENTITY  play.accesskey                      "ش">
+
+
+<!ENTITY  customsound.label                   "استخدم ملف الصوت التالي">
+<!ENTITY  customsound.accesskey               "س">
+
+
+

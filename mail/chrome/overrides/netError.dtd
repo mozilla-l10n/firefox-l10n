@@ -51,8 +51,8 @@
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "لم يُفهم العنوان">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>ربما تحتاج لتثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "لم يُفهم العنوان">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>ربما تحتاج لتثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصال">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
@@ -67,7 +67,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>تأكد من أن نظامك يحتوي على مدير أمن شخصي مُثبّت..</li> <li>قد يكون هذا بسبب إعدادات غير قياسية للخادوم..</li> </ul>">
 
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
-<!ENTITY nssFailure2.longDesc "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة. أو كبديل استخدم الأمر الموجود في قائمة مساعدة للإبلاغ عن هذا الموقع المعطوب.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة. أو كبديل استخدم الأمر الموجود في قائمة مساعدة للإبلاغ عن هذا الموقع المعطوب.</li> </ul>">
 
 <!ENTITY nssBadCert.title "فشل الاتصال الآمن">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>قد تكون هذه مشكلة في إعدادات الخادوم، أو ربما يحاول شخص ما تقليد الخادوم.</li> <li>إذا كنت قد اتصلت بالموقع بنجاح في الماضي، فقد يكون الخطأ مؤقتًا ويمكنك المحاولة فيما بعد.</li> </ul>">

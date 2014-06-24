@@ -19,6 +19,11 @@
 <!ENTITY quickMode.label             "اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
 <!ENTITY quickMode.accesskey         "ص">
 
+
+
+
+
+
 <!ENTITY locationValidate.label      "الصلاحية">
 <!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
 
@@ -35,3 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "صدّر التلقيمات مع تركيبة المجلد؛ انقر أثناء ضغط ctrl أو ctrl مع enter لتصدير التلقيمات كقائمة">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "أغلق">

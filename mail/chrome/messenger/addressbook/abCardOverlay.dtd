@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "مجهول">
 <!ENTITY chatName.label                 "اسم الدردشة:">
 
-<!ENTITY allowRemoteContent1.label      "اسمح بالمحتوى البعيد.">
-<!ENTITY allowRemoteContent1.accesskey  "ع">
-<!ENTITY allowRemoteContent1.tooltip    "من الممكن تضمين محتوى من مصادر بعيدة في رسائل HTML. سيؤدي فتح هذه الرسائل إلى إنشاء اتصال مع المصدر الخارجي. قد يسمح ذلك باقتفاء أثر الرسالة التي تُقرأ. إذا أشّرتَ على هذا الصندوق، فستسمح بعرض المحتوى المضمّن البعيد في رسائل HTML القادمة من هذا المتراسل.">
-
 <!ENTITY WorkPhone.label                "العمل:">
 <!ENTITY WorkPhone.accesskey            "ع">
 <!ENTITY HomePhone.label                "المنزل:">
