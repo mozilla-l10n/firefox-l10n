@@ -129,10 +129,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Sidan du försöker se kan inte visas eftersom den mottagna datans autenticitet inte kan verifieras.</li>
-  <li>Kontakta webbplatsens ägare och informera dem om detta problem. Du kan även använda kommandot i Hjälp-menyn för att rapportera in problemet med webbplatsen.</li>
+  <li>Sidan du försöker se kan inte visas eftersom äktheten inte kunde verifieras på den mottagna datan.</li>
+  <li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li>
 </ul>
 ">
 
