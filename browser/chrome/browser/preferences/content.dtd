@@ -28,6 +28,7 @@
 <!ENTITY chooseButton.label           "Khetha…">
 <!ENTITY chooseButton.accesskey       "e">
 
-
+<!ENTITY translateWebPages.label      "Guqulela isiqulatho sewebhu">
+<!ENTITY translateWebPages.accesskey  "G">
 <!ENTITY translateExceptions.label    "Izinxaxhi…">
 <!ENTITY translateExceptions.accesskey "n">

@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  brandShortName        "IFirefox">
-<!ENTITY  brandFullName         "Mozilla Firefox">
-<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  brandFullName         "IMozilla Firefox">
+<!ENTITY  vendorShortName       "IMozilla">
 <!ENTITY  trademarkInfo.part1   "Firefox neembasa ze-Firefox ziimpawu zorhwebo ze-Mozilla Foundation.">

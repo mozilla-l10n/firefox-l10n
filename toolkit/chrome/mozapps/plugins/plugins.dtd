@@ -4,7 +4,7 @@
 <!ENTITY pluginWizard.title                                  "Inkonzo Yokufumanisa Isifakelo">
 <!ENTITY pluginWizard.firstPage.title                        "Wamkelekile kwi-&pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "I-&brandShortName; ngoku iqwalasela ii-plugin ezikhoyo…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "I-&brandShortName; ngoku iqwalasela izifakelo ezikhoyo…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Izifakelo ezikhutshelweyo ziyafumaneka">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Izifakelo ezilandelayo ziyafumaneka:">
@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "I-&brandShortName; igqibile ukufakela izifakelo ezingekhoyo:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Fumana okungaphezulu ngezifakelo okanye zifumanele ngokwakho izifakelo ezingekhoyo.">
-<!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze izifakelo zisebenze.">
+<!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze is(z)ifakelo s/zisebenze.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 

@@ -13,7 +13,7 @@
 
 <!ENTITY charsetMenuAutodet.off.label     "(off)">
 <!ENTITY charsetMenuAutodet.off.accesskey "o">
-<!ENTITY charsetMenuAutodet.ja.label      "NgokwesiJapan">
+<!ENTITY charsetMenuAutodet.ja.label      "NgokwesiJaphane">
 <!ENTITY charsetMenuAutodet.ja.accesskey  "N">
 <!ENTITY charsetMenuAutodet.ru.label      "IsiRashiya">
 <!ENTITY charsetMenuAutodet.ru.accesskey  "I">

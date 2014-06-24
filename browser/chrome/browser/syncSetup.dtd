@@ -40,14 +40,14 @@
 
 <!ENTITY setup.tosAgree1.label      "Ndiyavumelana">
 <!ENTITY setup.tosAgree1.accesskey  "v">
-<!ENTITY setup.tosLink.label        "neMiqathango yeNkonzo">
+<!ENTITY setup.tosLink.label        "Imiqathango yenkonzo">
 <!ENTITY setup.tosAgree2.label      "kwakunye">
-<!ENTITY setup.ppLink.label         "noMgaqo-nkqubo Wabucala">
+<!ENTITY setup.ppLink.label         "Umgaqo-nkqubo wobungasese">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "I-&brandShortName; iyaKhathala Malunga noBucala bakho">
+<!ENTITY setup.newRecoveryKeyPage.title.label "I-&brandShortName; ibukhathalele ubungasese bakho">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Ukuqinisekisa ubucala bakho obupheleleyo, yonke ingcombolo yakho ijikelwe kwikhowudi ngaphambi kokuba ilayishwe. IQhosha lokuFumana eliyimfuneko lokubuyisela kumbhalo ingcombolo yakho alilayishwanga.">
 <!ENTITY recoveryKeyEntry.label        "IQhosha lokuFumana lakho">
 <!ENTITY recoveryKeyEntry.accesskey    "Q">
@@ -106,7 +106,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Qinisekisa">
 <!ENTITY confirm.merge2.label    "I-&syncBrand.fullName.label; ngoku iya kudibanisa yonke ingcombolo yebhrawuza yesi sixhobo ibe kwiakhawunti yakho yoNgqamaniso.">
-<!ENTITY confirm.client3.label         "Isilumkiso: Ingcombolo ye-&brandShortName; elandelayo kwesi sixhobo iya kucinywa.">
+<!ENTITY confirm.client3.label         "Isilumkiso: Ingcombolo ye-&brandShortName; elandelayo kwesi sixhobo   iya kucinywa:">
 <!ENTITY confirm.client2.moreinfo.label "I-&brandShortName; iya kuthi iyikopele kwesi sixhobo ingcombolo ye-&syncBrand.fullName.label; yakho.">
 <!ENTITY confirm.server2.label         "Isilumkiso: Izixhobo ezilandelayo ziya kucinywa yingcombolo yakho yalapha:">
 <!-- New & Existing Account: Setup Complete -->

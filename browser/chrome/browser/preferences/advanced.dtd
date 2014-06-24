@@ -74,7 +74,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Linganisela imemori esisikhupheli">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "i-MB yesithuba">
+<!ENTITY limitCacheSizeAfter.label       "I-MB yesithuba">
 <!ENTITY clearCacheNow.label             "Susa ngoku">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!ENTITY clearOfflineAppCacheNow.label   "Gutyula ngoku">
@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "Izatifikethi">
 <!ENTITY certSelection.description       "Xa iseva icela isatifikethi sam:">
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ndibuze ngawo onke amaxesha">
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY viewCerts.label                 "Bona izatifikethi">
+<!ENTITY viewCerts.accesskey             "i">
 <!ENTITY verify2.label                   "Ungqinisekiso">
 <!ENTITY verify2.accesskey               "U">
-
-
+<!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
+<!ENTITY viewSecurityDevices.accesskey   "z">

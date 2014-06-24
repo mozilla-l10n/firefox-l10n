@@ -26,7 +26,7 @@
 
 <!ENTITY  font.langGroup.latin1                   "Ngokwasentshona">
 <!ENTITY  font.langGroup.latin2                   "NgokwaseYurophu eseMbindini">
-<!ENTITY  font.langGroup.japanese                 "NgokwesiJapan">
+<!ENTITY  font.langGroup.japanese                 "NgokwesiJaphane">
 <!ENTITY  font.langGroup.trad-chinese             "NgokwesiTshayina Somthonyama (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "IsiTshayina Esenziwe Lula">
 <!ENTITY  font.langGroup.trad-chinese-hk          "NgokwesiTshayina Somthonyama (Hong Kong)">
@@ -94,7 +94,7 @@
 <!ENTITY languages.customize.Fallback.hebrew      "IsiHebhere">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "NgokwesiJapan">
+<!ENTITY languages.customize.Fallback.japanese    "NgokwesiJaphane">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.korean      "NgokwesiKorea">

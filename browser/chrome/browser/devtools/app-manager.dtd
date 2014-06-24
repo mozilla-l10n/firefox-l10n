@@ -61,7 +61,7 @@
 
 <!ENTITY connection.installAnotherSimulator "Yongeza">
 
-
+<!ENTITY connection.startRegisteredSimulator "Qala:">
 
 <!ENTITY projects.addApp "Yongeza">
 
