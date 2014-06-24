@@ -28,6 +28,8 @@
 <!ENTITY webAudioEditorUI.tab.properties  "ប៉ារ៉ាម៉ែត្រ">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "AudioNode Inspector">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
 

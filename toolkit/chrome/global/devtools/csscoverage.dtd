@@ -22,6 +22,8 @@
 <!ENTITY csscoverage.noMatches "រក​មិន​ឃើញ​ការ​ផ្គូផ្គង​សម្រាប់​ក្បួន​ខាងក្រោម៖">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.header):
   -  This is the heading for the CSS optimization part of the report -->
+
+<!ENTITY csscoverage.optimize.header "ទំព័រ​ដែល​អាច​ធ្វើ​ឲ្យ​ប្រសើរ">
 <!-- LOCALIZATION NOTE (csscoverage.preload1, csscoverage.preload2,
   -  csscoverage.preload3): These 3 are part of a paragraph with 1 and 2
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
@@ -32,9 +34,13 @@
 <!ENTITY csscoverage.optimize.body3 "ធាតុ​ដែល​​ចាំបាច់​មាន​រចនាប័ទ្ម មុន​ពេល 'ផ្ទុក' មាតិកា​ទៅ​ផ្នែក​ខាងលើ។ នេះ​ជា​ប្លុក​រចនាប័ទ្ម​ដែល​អ្នក​ត្រូវការ៖">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "បន្ទាត់​ទាំង​អស់​ត្រូវបាន​ដាក់​ខាង​ក្នុង។">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2, csscoverage.footer3):
   -  The text displayed at the bottom of the page, with 2 being the URL opened
   -  when the link text in 3 is clicked -->
 
-
-
+<!ENTITY csscoverage.footer1 "មើល">
+<!ENTITY csscoverage.footer2 "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "អត្ថបទ MDN នៅ​លើ​ឧបករណ៍​គ្រប់គ្រង CSS">
+<!ENTITY csscoverage.footer4 "សម្រាប់​ការ​ព្រមព្រៀង​ក្នុងការ​បង្កើត​របាយការណ៍​នេះ។">

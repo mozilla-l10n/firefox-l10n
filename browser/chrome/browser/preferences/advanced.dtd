@@ -133,5 +133,5 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY verify2.label                   "សុពល​កម្ម">
 <!ENTITY verify2.accesskey               "ល">
-
-
+<!ENTITY viewSecurityDevices.label       "សុវត្ថិភាព ឧបករណ៍">
+<!ENTITY viewSecurityDevices.accesskey   "ឧ">
