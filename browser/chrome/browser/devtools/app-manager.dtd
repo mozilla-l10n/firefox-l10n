@@ -79,7 +79,7 @@
 <!ENTITY projects.debugApp "Hata ayıkla">
 <!ENTITY projects.debugAppTooltip "Bu uygulamaya bağlı Geliştirici Araçları'nı aç">
 <!ENTITY projects.saveManifest "Kaydet">
-
+<!ENTITY projects.saveManifestTooltip "Aşağıdaki Manifest Editörü'nin kaydet">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
 <!ENTITY projects.noProjects "Proje yok. Aşağıdan yeni bir paketlenmiş uygulama (yerel dizin) veya barındırılan uygulama (manifest dosyası bağlantısı) ekleyin.">
 <!ENTITY projects.manifestEditor "Bildirge Editörü">
