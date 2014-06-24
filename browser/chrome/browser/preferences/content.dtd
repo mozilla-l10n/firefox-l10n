@@ -28,6 +28,7 @@
 <!ENTITY chooseButton.label           "Suɓo…">
 <!ENTITY chooseButton.accesskey       "u">
 
-
+<!ENTITY translateWebPages.label      "Fir loowdi geese">
+<!ENTITY translateWebPages.accesskey  "F">
 <!ENTITY translateExceptions.label    "Paltooje…">
 <!ENTITY translateExceptions.accesskey "a">
