@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Qurum (O)">
 <!ENTITY certmgr.certdetail.ou                "Korporativ orqan (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Seriya nömrəsi">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 parmaq izi">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 parmaq izi">
 
 <!ENTITY certmgr.editcert.title               "Təhlükəsizlik təsdiq sənədi parametrlərini redaktə edin">
 <!ENTITY certmgr.editcacert.title             "Təsdiq sənədinin etibarlılıq parametrlərini redaktə edin">

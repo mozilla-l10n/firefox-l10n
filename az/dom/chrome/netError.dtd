@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Sayt bağlantı istəyinə gözlənilməyən formada cavab verdi və brauzer davam etməyəcək.</p>">
 
 <!ENTITY nssFailure2.title "Təhlükəsiz bağlantı qurulmadı">
-<!ENTITY nssFailure2.longDesc "<p>Açmaq istədiyiniz sayt açılmır, çünki alınan məlumatların doğruluğu təsdiqlənmədi.</p><ul><li>Bu problemi məlumat verməkçün lütfən sayt sahibləri ilə əlaqə saxlayın.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Açmaq istədiyiniz sayt açılmır, çünki alınan məlumatların doğruluğu təsdiqlənmədi.</p><ul><li>Bu problemi məlumat verməkçün lütfən sayt sahibləri ilə əlaqə saxlayın.</li></ul>">
 
 <!ENTITY nssBadCert.title "Təhlükəsiz bağlantı qurulmadı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

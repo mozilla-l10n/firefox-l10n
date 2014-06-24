@@ -26,3 +26,7 @@
 <!ENTITY chooseLanguage.label         "Səhifələrin göstəriləcəyi dili seçin">
 <!ENTITY chooseButton.label           "Seçin…">
 <!ENTITY chooseButton.accesskey       "S">
+
+
+<!ENTITY translateExceptions.label    "İstisnalar…">
+<!ENTITY translateExceptions.accesskey "x">

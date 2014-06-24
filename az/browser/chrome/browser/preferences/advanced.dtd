@@ -125,12 +125,12 @@
 <!ENTITY certificateTab.label            "Təsdiq sənədləri">
 <!ENTITY certSelection.description       "Server şəxsi sertifikat istəyəndə:">
 <!ENTITY certs.auto                      "Birini avtomatik seç">
-<!ENTITY certs.auto.accesskey            "B">
+
 <!ENTITY certs.ask                       "Hər dəfə soruş">
-<!ENTITY certs.ask.accesskey             "b">
-<!ENTITY viewCerts.label                 "Sertifikatları göstər">
-<!ENTITY viewCerts.accesskey             "g">
+
+
+
 <!ENTITY verify2.label                   "Təsdiqləmə">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Təhlükəsizlik cihazları">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+

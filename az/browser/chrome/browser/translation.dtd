@@ -44,4 +44,15 @@
 <!ENTITY translation.errorTranslating.label     "Bu səhifəni tərcümə edərkən xəta oldu.">
 <!ENTITY translation.tryAgain.button            "Təkrar Yoxla">
 
+<!ENTITY translation.serviceUnavailable.label   "Tərcümə hal-hazırda əlçatan deyil. Zəhmət olmasa, daha sonra bir daha yoxlayın.">
+
 <!ENTITY translation.options.menu               "Nizamlar">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Heç vaxt bu saytı tərcümə etmə">
+<!ENTITY translation.options.neverForSite.accesskey "ç">
+<!ENTITY translation.options.preferences.label  "Tərcümə nizamlamaları">
+<!ENTITY translation.options.preferences.accesskey "T">

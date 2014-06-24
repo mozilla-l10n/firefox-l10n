@@ -54,10 +54,21 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "Seçimlər">
 <!ENTITY settings_title "Seçimlər">
 
 
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
 
 
 
@@ -91,7 +102,10 @@
 <!ENTITY pref_home_updates "Avtomatik yeniləmə">
 
 
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
 
 
 
@@ -187,6 +201,7 @@ size. -->
 
 
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Çıx">
 
@@ -242,14 +257,15 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
 <!ENTITY bookmark_edit_name "Ad">
 <!ENTITY bookmark_edit_location "Ünvan">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 
 
 
@@ -273,6 +289,8 @@ size. -->
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+
+
 
 
 
@@ -358,3 +376,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Oldu">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->

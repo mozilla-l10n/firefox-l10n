@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "Saytlara izlənmək istəmədiyimi söylə">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Saytlara izlənmək istədiyimi söylə">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
 <!ENTITY doNotTrackInfo.label           "Daha çox məlumat alın">
 
 <!ENTITY  history.label                 "Keçmiș">

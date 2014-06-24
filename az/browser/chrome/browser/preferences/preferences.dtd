@@ -23,3 +23,5 @@
 <!ENTITY  paneSync.title          "Sinxronlaşdırma">
 <!ENTITY  buttonForward.tooltip   "Sonrakı səhifəyə keç">
 <!ENTITY  buttonBack.tooltip      "Əvvəlki səhifəyə qayıt">
+
+<!ENTITY  helpButton.label        "Kömək">

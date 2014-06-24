@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Yeni Vərəq">
 <!ENTITY tabCmd.accesskey "V">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Ünvanı Aç…">
 <!ENTITY openFileCmd.label "Fayl Aç…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -148,19 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Sıralanmamış Əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəçin göstər">
 
-<!ENTITY backCmd.label                "Geri qayıt">
-<!ENTITY backCmd.accesskey            "i">
+<!ENTITY backCmd.label                "Geri">
 <!ENTITY backButton.tooltip           "Əvvəlki səhifəyə qayıt">
-<!ENTITY forwardCmd.label             "İleri">
-<!ENTITY forwardCmd.accesskey         "r">
+<!ENTITY forwardCmd.label             "İləri">
 <!ENTITY forwardButton.tooltip        "Sonrakı səhifəyə keç">
 <!ENTITY backForwardButtonMenu.tooltip "Keçmişi göstərmək üçün sağ klikləyin və ya aşağı çəkin">
 <!ENTITY backForwardButtonMenuMac.tooltip "keçmişi göstərmək üçün aşağı çəkin">
 <!ENTITY reloadCmd.label              "Yenilə">
-<!ENTITY reloadCmd.accesskey          "Y">
 <!ENTITY reloadButton.tooltip         "Hazırki səhifəni yenilə">
-<!ENTITY stopCmd.label                "Dayandır">
-<!ENTITY stopCmd.accesskey            "D">
+<!ENTITY stopCmd.label                "Dayan">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Səhifəni yeniləməyi dayandır">
 <!ENTITY goEndCap.tooltip             "Ünvan Sətrindəki ünvanı aç">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Endirilənlər">
-<!ENTITY downloads.tooltip            "Davam edən endirmələrin statusunu göstər">
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "İşçi stolu arxa fonu et…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Səhifəni Əlfəcinlə">
-<!ENTITY bookmarkPageCmd2.accesskey   "c">
 <!ENTITY bookmarkThisLinkCmd.label      "Bu Keçidi Əlfəcinlə">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Yaxınlaşdırma">
 <!ENTITY fullZoom.accesskey             "Y">
 
-<!ENTITY newTabButton.tooltip           "Yeni vərəq aç">
-<!ENTITY newWindowButton.tooltip        "Yeni pəncərə aç">
 <!ENTITY sidebarCloseButton.tooltip     "Kənar bölməni bağla">
-
-<!ENTITY fullScreenButton.tooltip       "Pəncərəni tam ekran göstər">
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ı">

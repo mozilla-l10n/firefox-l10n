@@ -106,9 +106,9 @@ baş verir.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Təhlükəsiz bağlantı qurulmadı">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Açmaq istədiyiniz sayt göstərilə bilmir, çünki alınan məlumatların doğruluğu təsdiqlənmədi.</li> 
-<li>Bu problemi məlumat verməkçün lütfən sayt sahibləri ilə əlaqə saxlayın.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Açmaq istədiyiniz səhifə göstərilə bilmir, çünki alınan məlumatların doğruluğu təsdiqlənəmədi.</li> 
+<li>Zəhmət olmasa sayt sahibləri ilə əlaqə saxlayın və bu xətadan xəbərdar edin.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Təhlükəsiz bağlantı qurulmadı">

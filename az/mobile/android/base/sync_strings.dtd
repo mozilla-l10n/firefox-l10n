@@ -88,7 +88,6 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
 <!ENTITY fxaccount_email_hint "E-posta">
 
 
@@ -122,6 +121,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Daha çox">
 
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
 
 
 
