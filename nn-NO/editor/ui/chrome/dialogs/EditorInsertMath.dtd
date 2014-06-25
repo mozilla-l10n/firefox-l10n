@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Set inn matte">
+
+<!ENTITY sourceEditField.label "Skriv inn LaTeX kjeldekode:">
+
+<!ENTITY options.label "Innstillingar">
+<!ENTITY optionInline.label "Innbunde modus">
+<!ENTITY optionInline.accesskey "n">
+<!ENTITY optionDisplay.label "Visingsmodus">
+<!ENTITY optionDisplay.accesskey "V">
+<!ENTITY optionLTR.label "Venstre-til-høgre retning">
+<!ENTITY optionLTR.accesskey "V">
+<!ENTITY optionRTL.label "Høgre-til-venstre retning">
+<!ENTITY optionRTL.accesskey "H">
+
+<!ENTITY example.label "Døme: ">
+<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
+<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+
+<!ENTITY insertButton.label "Set inn">
+<!ENTITY insertButton.accesskey "i">
