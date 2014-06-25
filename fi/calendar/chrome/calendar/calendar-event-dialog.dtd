@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Kutsu osallistujia">
 <!ENTITY event.organizer.label                  "Järjestäjä">
 <!ENTITY event.freebusy.suggest.slot            "Ehdota aikaa:">
-<!ENTITY event.freebusy.next.slot               "Seuraava aika " >
-<!ENTITY event.freebusy.previous.slot           " Edellinen aika" >
+<!ENTITY event.freebusy.button.next.slot        "Seuraava aika">
+<!ENTITY event.freebusy.button.previous.slot    "Edellinen aika">
 <!ENTITY event.freebusy.zoom                    "Suurenna:">
 <!ENTITY event.freebusy.legend.free             "Vapaa" >
 <!ENTITY event.freebusy.legend.busy             "Varattu" >
