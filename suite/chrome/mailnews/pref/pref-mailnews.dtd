@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Syötteet">
 <!ENTITY setDefaultFeed.accesskey         "y">
 
+<!ENTITY useInternalSettings.description  "Käytä &brandShortName;n sähköposti- ja keskusteluryhmäohjelmaa, kun selaimessa avataan seuraavia linkkejä:">
+<!ENTITY useInternalMail.label            "Sähköposti (mailto:)">
+<!ENTITY useInternalMail.accesskey        "h">
+<!ENTITY useInternalNews.label            "Keskusteluryhmät (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "u">
+
 <!ENTITY messengerStartPage.caption       "Aloitussivu">
 <!ENTITY enableStartPage.label            "Näytä aloitussivu viestiruudussa, kun sähköpostiohjelma käynnistyy">
 <!ENTITY enableStartPage.accesskey        "N">
