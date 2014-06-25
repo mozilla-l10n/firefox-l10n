@@ -44,6 +44,8 @@
 <!ENTITY translation.errorTranslating.label     "Er is een fout opgetreden bij het vertalen van deze pagina.">
 <!ENTITY translation.tryAgain.button            "Opnieuw proberen">
 
+<!ENTITY translation.serviceUnavailable.label   "Vertaling is momenteel niet beschikbaar. Probeer het later opnieuw..">
+
 <!ENTITY translation.options.menu               "Opties">
 
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
