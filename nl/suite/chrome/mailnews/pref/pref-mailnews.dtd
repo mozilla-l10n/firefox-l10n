@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Feeds">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+<!ENTITY useInternalSettings.description  "Gebruik &brandShortName; Mail &amp; nieuws bij het openen van browserkoppelingen in:">
+<!ENTITY useInternalMail.label            "Mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Nieuws (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "E-mail-startpagina">
 <!ENTITY enableStartPage.label            "Wanneer Mail start, de startpagina in het berichtgedeelte tonen">
 <!ENTITY enableStartPage.accesskey        "W">
