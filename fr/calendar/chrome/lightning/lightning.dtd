@@ -43,13 +43,13 @@
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Accepter">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accepter l'invitation à l'évènement">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Tout accepter">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepter les invitations pour toutes les occurences de cet évènement">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepter les invitations pour toutes les occurrences de cet évènement">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ajouter">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ajouter l'évènement à l'agenda.">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Refuser">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refuser l'invitation à l'évènement">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tout refuser">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuser les invitations pour toutes les occurences de cet évènement">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuser les invitations pour toutes les occurrences de cet évènement">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Supprimer">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Supprimer de l'agenda">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Détails…">
@@ -61,7 +61,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "Accepter provisoirement">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accepter provisoirement l'invitation à l'évènement">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tout accepter provisoirement">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepter provisoirement les invitations pour toutes les occurences de cet évènement">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepter provisoirement les invitations pour toutes les occurrences de cet évènement">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Mettre à jour">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Mettre à jour l'évènement dans l'agenda">
 <!ENTITY lightning.imipbar.description                                      "Ce message contient une invitation à un évènement.">
