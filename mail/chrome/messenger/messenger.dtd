@@ -855,7 +855,7 @@
 <!ENTITY reportPhishingURL.accesskey "S">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Ajouter des dictionnaires…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
