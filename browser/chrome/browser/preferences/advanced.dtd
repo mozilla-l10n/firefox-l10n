@@ -78,7 +78,7 @@
 <!ENTITY clearCacheNow.accesskey         "ч">
 <!ENTITY clearOfflineAppCacheNow.label   "Очистити зараз">
 <!ENTITY clearOfflineAppCacheNow.accesskey "з">
-<!ENTITY overrideSmartCacheSize.label    "Переважити автоматичне керування кешем">
+<!ENTITY overrideSmartCacheSize.label    "Ігнорувати автоматичне керування кешем">
 <!ENTITY overrideSmartCacheSize.accesskey "О">
 
 <!ENTITY updateTab.label                 "Оновлення">
@@ -111,7 +111,7 @@
 <!ENTITY enableSearchUpdate.label        "Засоби пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "о">
 
-<!ENTITY offlineNotify.label             "Повідомляти мені, коли сайт просить дозволу зберегти дані для позамережного використання.">
+<!ENTITY offlineNotify.label             "Повідомляти мене, коли сайт просить дозволу зберегти дані для позамережного використання.">
 <!ENTITY offlineNotify.accesskey         "П">
 <!ENTITY offlineNotifyExceptions.label   "Винятки…">
 <!ENTITY offlineNotifyExceptions.accesskey "н">
@@ -120,7 +120,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Вилучити…">
 <!ENTITY offlineAppsListRemove.accesskey "В">
-<!ENTITY offlineAppRemove.confirm        "Вилучити офлайнові дані">
+<!ENTITY offlineAppRemove.confirm        "Вилучити позамережні дані">
 
 <!ENTITY certificateTab.label            "Сертифікати">
 <!ENTITY certSelection.description       "Коли сервер вимагає мій особистий сертифікат:">
