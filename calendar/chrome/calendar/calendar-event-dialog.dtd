@@ -331,8 +331,6 @@
 <!ENTITY invite.title.label "Pozvání účastníků">
 <!ENTITY event.organizer.label "Organizátor">
 <!ENTITY event.freebusy.suggest.slot "Doporučit čas:">
-<!ENTITY event.freebusy.next.slot "Následující místo">
-<!ENTITY event.freebusy.previous.slot "Předchozí místo">
 <!ENTITY event.freebusy.button.next.slot "Následující místo">
 <!ENTITY event.freebusy.button.previous.slot "Předchozí místo">
 <!ENTITY event.freebusy.zoom "Změna velikosti:">
