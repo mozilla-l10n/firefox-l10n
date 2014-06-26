@@ -257,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
@@ -710,6 +712,8 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY webrtcIndicatorButton.label "Acceso a cámara / micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostrar sitios con los cuales esté compartiendo cámara o micrófono">
+
+<!ENTITY loopCallButton.tooltip "Invitar a alguien a hablar">
 
 <!ENTITY mixedContentBlocked.moreinfo "La mayor parte de los sitios web aún funcionan correctamente cuando este contenido es bloqueado.">
 
