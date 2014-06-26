@@ -44,7 +44,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умови надання послуги">
-<!ENTITY prefs.ppLink.label         "Угода конфіденційності">
+<!ENTITY prefs.ppLink.label         "Політика приватності">
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Повідомлення про приватність">
