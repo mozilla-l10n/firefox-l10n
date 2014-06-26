@@ -22,7 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Легко налаштувати Firefox саме під ваші потреби. <a>Вибирайте з тисяч додатків</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; є безкоштовною програмою з відкритим кодом від некомерційної Фундації Mozilla. <a>Знайте свої права…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; є безплатною програмою з відкритим кодом від некомерційної Фундації Mozilla. <a>Знайте свої права…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Закладки">
 <!ENTITY abouthome.historyButton.label   "Історія">
