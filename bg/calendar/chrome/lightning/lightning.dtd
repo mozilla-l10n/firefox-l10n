@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Мейл:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Това писмо съдържа покана за събитие.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Приемане">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Приемане на поканата за събитие">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Приемане на всички">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Приемане поканите за всички случвания на събитието">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Добавяне">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Добавяне на събитие към календара">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Отказване">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Отказване на покана за събитие">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Отказване на всички">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Отказване поканите за всички случвания на събитието">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Изтриване">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Изтриване от календара">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Подробности…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Показване подробностите на събитието">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Повече">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Щракнете за показване на повече възможности">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Препотвърждаване">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Изпращане на препотвърждаване до организатора">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Несигурно">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Приемане на събитието като несигурно">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Всички са несигурни">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Приемане на събитието като несигурно за всички случвания на събитието">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Обновяване">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Обновяване на събитието в календара">
+<!ENTITY lightning.imipbar.description                                      "Това писмо съдържа покана за събитие.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">
