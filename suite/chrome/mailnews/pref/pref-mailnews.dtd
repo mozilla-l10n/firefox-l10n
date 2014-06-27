@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label "Kanály">
 <!ENTITY setDefaultFeed.accesskey "a">
 
+<!ENTITY useInternalSettings.description  "Použít &brandShortName; Mail &amp; Novinky při otevření odkazu pro:">
+<!ENTITY useInternalMail.label            "E-mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Novinky (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "o">
+
 <!ENTITY messengerStartPage.caption "Úvodní stránka pošty">
 <!ENTITY enableStartPage.label "Při spuštění pošty zobrazovat v oblasti zpráv úvodní stránku ">
 <!ENTITY enableStartPage.accesskey "z">
