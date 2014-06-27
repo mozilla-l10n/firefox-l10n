@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Вперед">
 <!ENTITY forwardCmd.accesskey         "В">
 <!ENTITY forwardButton.tooltip        "Вперед на одну сторінку">
-<!ENTITY backForwardButtonMenu.tooltip "Клацніть правою клавішею чи потягніть униз ради історії">
+<!ENTITY backForwardButtonMenu.tooltip "Клацніть правою клавішею чи потягніть вниз, щоб показати історію вкладки">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потягніть униз, щоб показати історію">
 <!ENTITY reloadCmd.label              "Оновити">
 <!ENTITY reloadCmd.accesskey          "О">
