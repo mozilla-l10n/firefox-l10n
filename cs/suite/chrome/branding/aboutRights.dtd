@@ -31,22 +31,36 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; rovněž poskytuje volitelné služby webových serverů, například službu aktualizace doplňků, a u těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v sekci ">
+<!ENTITY rights2.intro-point4a "&brandShortName; poskytuje volitelné služby, například služby Doplňků nebo Bezpečného prohlížení; nicméně u těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v sekci ">
 <!ENTITY rights.intro-point4b "Služby webových serverů">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Služby webových serverů aplikace &brandFullName;">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; začleňuje informační služby webových serverů („Služby“), například službu aktualizace doplňků, které jsou dostupné v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Službu aktualizace doplňků lze vypnout pomocí dialogu Možnosti a volbou panelu ">
-<!ENTITY rights.webservices-b "Rozšířené,">
-<!ENTITY rights.webservices-c " s následnou volbou karty ">
-<!ENTITY rights.webservices-d "Instalace softwaru">
-<!ENTITY rights.webservices-e " a odškrtnutím položek v části „Automaticky kontrolovat aktualizace“.">
+<!ENTITY rights2.webservices-a "&brandFullName; poskytuje informační služby („Služby“), například službu návrhů a aktualizace doplňků, nebo funkci bezpečného prohlížení webu, které jsou dostupné v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Ve výchozím nastavení jsou tyto služby povoleny. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, postup jak jednotlivé funkce nebo služby zakázat můžete nalézt ">
+<!ENTITY rights2.webservices-b "zde">
+<!ENTITY rights2.webservices-c ". Ostatní funkce a Služby lze zakázat v předvolbách aplikace.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Služby doplňků: ">
+<!ENTITY rights.addons-term1 "Open the application preferences">
+<!ENTITY rights.addons-b "Ve výchozím nastavení &brandShortName; navrhuje doplňky na stránce &view.discover.label; a v pravidelných intervalech kontroluje jejich aktualizace. Pokud si přejete tyto funkce zakázat a zamezit tak přenosu informací o nainstalovaných doplňcích na server, postupujte podle těchto kroků:">
+<!ENTITY rights.addons-term2 "Klepněte na kartu &smart.label; v kategorii &advance.label;">
+<!ENTITY rights.addons-term3 "Odškrtněte předvolby &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Služby doplňků jsou nyní vypnuty">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Bezpečné prohlížení: ">
+<!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení je nedoporučováno neboť vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
+<!ENTITY rights.safebrowsing-term1 "Otevřete předvolby aplikace">
+<!ENTITY rights.safebrowsing-term2 "Zvolte panel &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Odškrtněte předvolby &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Bezpečné prohlížení je nyní vypnuto">
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; může libovolně ukončit nebo změnit užívání Služeb.">
