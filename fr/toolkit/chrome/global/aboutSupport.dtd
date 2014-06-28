@@ -73,6 +73,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Préférences de user.js">
 <!ENTITY aboutSupport.userJSDescription "Votre dossier de profil possède un <a id='prefs-user-js-link'>fichier user.js</a> contenant les préférences qui n'ont pas été créées par &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Préférences verrouillées importantes">
+<!ENTITY aboutSupport.lockedPrefsName "Nom">
+<!ENTITY aboutSupport.lockedPrefsValue "Valeur">
+
 <!ENTITY aboutSupport.graphicsTitle "Accélération graphique">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
