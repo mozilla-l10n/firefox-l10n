@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label 'Comptes Firefox'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Utiliser le compte sur le serveur'>
+<!ENTITY fxaccount_custom_server_sync_title 'Stocker les données Sync sur le serveur'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 'Compte Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
+<!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
 <!ENTITY fxaccount_status_device_name 'Nom de l\u0027appareil'>
+<!ENTITY fxaccount_status_sync_server 'Serveur Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; : activé'>
 <!ENTITY fxaccount_status_needs_verification2 'Votre compte doit être vérifié. Appuyez pour envoyer à nouveau le courriel de vérification.'>
