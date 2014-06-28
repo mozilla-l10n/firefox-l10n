@@ -7,6 +7,7 @@
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
+<!ENTITY recent_tabs_title "Последние вкладки">
 <!ENTITY switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
@@ -245,10 +246,10 @@
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
+<!ENTITY home_closed_tabs_title "Недавно закрытые вкладки">
 <!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
-<!ENTITY home_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
-<!ENTITY home_most_recent_title "Недавно посещённые">
+<!ENTITY home_open_all "Открыть все">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
 <!ENTITY home_reading_list_hint2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в строке заголовка.">
@@ -256,7 +257,7 @@
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY private_browsing_title "Приватный просмотр">
-<!ENTITY private_tabs_panel_description "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные вами файлы будут сохранены на вашем устройстве.">
+<!ENTITY private_tabs_panel_description "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
