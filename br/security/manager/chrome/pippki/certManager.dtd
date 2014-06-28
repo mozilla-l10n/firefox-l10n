@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Aozadur (A)">
 <!ENTITY certmgr.certdetail.ou                "Unvez aozadurel (UA)">
 <!ENTITY certmgr.certdetail.serialnumber      "Steudriñv">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Roudoù biz SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Roudoù biz SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Roudoù biz MD5">
 
 <!ENTITY certmgr.editcert.title               "Embann arventennoù an testenioù diogelroez">
 <!ENTITY certmgr.editcacert.title             "Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ ">

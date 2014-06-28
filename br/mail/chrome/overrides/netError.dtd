@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Gant un doare dic'hortozet he deus respontet al lec'hienn da azgoulenn ar rouedad hag ar merdeer n'eo ket evit kenderc'hel.</p>">
 
 <!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaskañ diarvar">
-<!ENTITY nssFailure2.longDesc "<p>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet  dilested ar roadennoù bet degemeret.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet  dilested ar roadennoù bet degemeret.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
 
 <!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaskañ diarvar">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask dreveziñ an dafariad.</li> <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> </ul>">
