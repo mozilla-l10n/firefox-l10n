@@ -72,6 +72,8 @@
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
 <!ENTITY fxaccount_full_label "Аккаунты Firefox">
+<!ENTITY fxaccount_custom_server_account_title "Используется учётная запись на сервере">
+<!ENTITY fxaccount_custom_server_sync_title "Данные синхронизации хранятся на сервере">
 <!ENTITY fxaccount_email_hint "Эл. почта">
 <!ENTITY fxaccount_password_hint "Пароль">
 <!ENTITY fxaccount_password_hide "Скрыть">
@@ -112,7 +114,9 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
+<!ENTITY fxaccount_status_auth_server "Сервер учётной записи">
 <!ENTITY fxaccount_status_device_name "Имя устройства">
+<!ENTITY fxaccount_status_sync_server "Сервер синхронизации">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "Синхронизация: включена">
 <!ENTITY fxaccount_status_needs_verification2 "Ваша учетная запись должна быть подтверждена. Нажмите, чтобы снова отправить письмо для подтверждения.">

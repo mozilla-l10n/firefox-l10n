@@ -184,6 +184,8 @@
 <!ENTITY devToolbarMenu.accesskey "а">
 <!ENTITY devAppMgrMenu.label "Управление приложениями">
 <!ENTITY devAppMgrMenu.accesskey "в">
+<!ENTITY webide.label "WebIDE">
+<!ENTITY webide.accesskey "W">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Показать/скрыть инструменты">
