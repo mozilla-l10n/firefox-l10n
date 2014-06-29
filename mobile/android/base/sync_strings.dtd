@@ -107,6 +107,8 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox-tilit'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-tili'>
 <!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
+<!ENTITY fxaccount_status_device_name 'Laitteen nimi'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: käytössä'>
 <!ENTITY fxaccount_status_needs_verification2 'Tilisi täytyy vahvistaa. Kosketa lähettääksesi vahvistussähköpostin.'>
