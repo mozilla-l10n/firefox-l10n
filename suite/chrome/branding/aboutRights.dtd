@@ -30,23 +30,34 @@
 <!ENTITY rights.intro-point3c " szerint kezeljük.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "A &brandShortName; webalapú információs szolgáltatásokat is nyújt, mindazonáltal nem garantálható, hogy ezek 100&#37;-osan pontosak és hibamentesek. A szolgáltatások letiltásáról szóló információk a ">
 <!ENTITY rights.intro-point4b "szolgáltatás feltételei">
 <!ENTITY rights.intro-point4c " dokumentumban olvashatók.">
 
 <!ENTITY rights.webservices-header "&brandFullName; webalapú információs szolgáltatások">
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "A &brandFullName; webalapú információs szolgáltatásokat („Szolgáltatások”) használ egyes funkciók megvalósítására. Ezek a Szolgáltatások a &brandShortName; bináris verziójával együtt érhetők el az alább leírt módon. Ha nem akarja használni a Szolgáltatásokat, illetve az alábbi feltételek elfogadhatatlanok, letilthatja a funkciót vagy a Szolgáltatásokat. Egy adott funkció vagy Szolgáltatás letiltásáról a ">
-<!ENTITY rights.webservices-b "Haladó">
-<!ENTITY rights.webservices-c " beállításoknál található  ">
-<!ENTITY rights.webservices-d "Szoftvertelepítés">
-<!ENTITY rights.webservices-e "lehetőségnél a „Frissítések automatikus keresése” letiltásával gondoskodhat.">
+<!ENTITY rights2.webservices-b "itt">
+<!ENTITY rights2.webservices-c " található információ. Más funkciók és szolgáltatások az alkalmazás beállításaiban kapcsolhatók ki.">
+<!-- add-on related points for branded builds -->
+
+<!ENTITY rights.addons-a "Kiegészítő profilja">
+<!ENTITY rights.addons-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
+<!ENTITY rights.addons-term3 "Vegye le a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” négyzetekről.">
+<!-- safe browsing points for branded builds -->
+
+
+<!ENTITY rights.safebrowsing-a "Safe Browsing:">
+<!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
+<!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
+<!ENTITY rights.safebrowsing-term2 "Nyissa meg a fő &security.label; beállítópanelt.">
+<!ENTITY rights.safebrowsing-term3 "Vegye le a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” négyzetekről.">
+<!ENTITY rights.safebrowsing-term4 "A Safe Browsing most le van tiltva.">
 <!-- points 1-6 text for branded builds -->
+
 
 <!ENTITY rights.webservices-term1 "A &vendorShortName; saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat.">
 <!ENTITY rights.webservices-term2 "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, a &vendorShortName; ehhez minden jogot megad. A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban. Ezek a feltételek nem korlátozzák a &brandShortName; programra és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">

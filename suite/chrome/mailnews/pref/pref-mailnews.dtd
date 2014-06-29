@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Hírforrások">
 <!ENTITY setDefaultFeed.accesskey         "o">
 
+<!ENTITY useInternalSettings.description  "&brandShortName; Levelező és hírolvasó használata a linkek böngészőben történő megnyitásakor:">
+<!ENTITY useInternalMail.label            "Levél (mailto:)">
+<!ENTITY useInternalMail.accesskey        "L">
+<!ENTITY useInternalNews.label            "Hírcsoportok (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "H">
+
 <!ENTITY messengerStartPage.caption       "Levelező kezdőoldala">
 <!ENTITY enableStartPage.label            "A Levelező indításakor a Levelező kezdőoldala töltődik be az üzenetek helyére">
 <!ENTITY enableStartPage.accesskey        "k">
