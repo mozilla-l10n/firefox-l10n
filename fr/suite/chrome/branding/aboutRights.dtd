@@ -27,22 +27,39 @@
 <!ENTITY rights.intro-point3c " sur les logiciels de &vendorShortName;.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; met également à disposition des services facultatifs d'information sur les sites web, comme le service de mise à jour des modules complémentaires&#x00A0;; cependant, nous ne pouvons pas garantir à 100&#37; qu'ils soient appropriés ou dénués d'erreur. Vous pouvez trouver plus de détails, y compris des informations sur la manière de désactiver les services, dans les ">
+<!ENTITY rights2.intro-point4a "&brandShortName; met également à disposition des services facultatifs d'information sur les sites web, comme les services des modules complémentaires et du blocage de sites malveillants&#x00A0;; cependant, nous ne pouvons pas garantir à 100&#x00A0;&#37; qu'ils soient appropriés ou dénués d'erreur. Vous pouvez trouver plus de détails, y compris des informations sur la manière de désactiver les services, dans les ">
 <!ENTITY rights.intro-point4b "modalités d'utilisation">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Services de sites web de &brandFullName;">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; met à dispostion des services facultatifs (&quot;Services&quot;), comme la mise à jour des modules complémentaires, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, vous pouvez désactiver le service de mise à jour des modules complémentaires en ouvrant les préférences de l'application et en sélectionnant la section ">
-<!ENTITY rights.webservices-b "Avancé">
-<!ENTITY rights.webservices-c " , suivie de ">
-<!ENTITY rights.webservices-d "Installation de logiciels">
-<!ENTITY rights.webservices-e " , puis en désactivant les options sous  «&#x00A0;Mises à jour&#x00A0;».">
+
+<!ENTITY rights2.webservices-a "&brandFullName; met à dispostion des services facultatifs (&quot;Services&quot;), comme la suggestion et la mise à jour de modules complémentaires ou la fonctionnalité de blocage de sites malveillants, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Ces services sont activés par défaut. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, les instructions pour désactiver un service ou une fonctionnalité en particulier sont disponibles ">
+<!ENTITY rights2.webservices-b "ici">
+<!ENTITY rights2.webservices-c ". Les autres fonctionnalités ou services peuvent être désactivés depuis les préférences de l'application.">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Services de modules complémentaires&#x00A0;: ">
+<!ENTITY rights.addons-b "Par défaut, &brandShortName; suggèrera des modules complémentaires sur la page &view.discover.label; et recherchera des mises à jour à intervalles réguliers. Si vous souhaitez désactiver ces fonctionnalités pour éviter de communiquer au serveur des informations sur les modules installés, suivez ces instructions&#x00A0;:">
+<!ENTITY rights.addons-term1 "Ouvrez les préférences de l'application">
+<!ENTITY rights.addons-term2 "Sélectionnez le panneau &smart.label; dans la catégorie &advance.label;">
+<!ENTITY rights.addons-term3 "Décochez les options pour &quot;&autoAddOnsUpdates.label;&quot; et &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Les services des modules complémentaires sont à présent désactivés">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Blocage de sites malveillants&#x00A0;: ">
+<!ENTITY rights.safebrowsing-b "Désactiver le blocage de sites malveillants est déconseillé car vous pourriez naviguer sur des sites non sécurisés. Si vous souhaitez désactiver la fonctionnalité complètement, suivez ces instructions&#x00A0;:">
+<!ENTITY rights.safebrowsing-term1 "Ouvrez les préférences de l'application">
+<!ENTITY rights.safebrowsing-term2 "Sélectionnez le panneau &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Décochez les options pour &quot;&blockAttackSites.label;&quot; et &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Le blocage de sites malveillants est à présent désactivé">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; peut arrêter ou modifier Les Services à sa discrétion.">
