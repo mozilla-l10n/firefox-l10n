@@ -58,7 +58,7 @@
 <!ENTITY certmgr.certname                     "Anv an testeni">
 <!ENTITY certmgr.certserver                   "Dafariad">
 <!ENTITY certmgr.override_lifetime            "Buhez pad">
-<!ENTITY certmgr.tokenname                    "Trobarzhell diogelroez">
+<!ENTITY certmgr.tokenname                    "Trevnad diogelroez">
 <!ENTITY certmgr.begins                       "Kregiñ a ra d'an/ar">
 <!ENTITY certmgr.expires                      "Diamzeret e vo d'an/ar">
 <!ENTITY certmgr.email                        "Chomlec'h Postel">
