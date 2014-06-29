@@ -28,7 +28,7 @@
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Antal forrige uger:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "f">
-<!ENTITY pref.numberofweeks.0 "ingen">
+<!ENTITY pref.numberofweeks.0 "Ingen">
 <!ENTITY pref.numberofweeks.1 "1 uge">
 <!ENTITY pref.numberofweeks.2 "2 uger">
 <!ENTITY pref.numberofweeks.3 "3 uger">
