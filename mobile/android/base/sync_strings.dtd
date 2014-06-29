@@ -108,6 +108,10 @@
 <!-- Firefox account strings. -->
 
 <!ENTITY fxaccount_full_label 'Cuentas de Firefox'>
+
+<!ENTITY fxaccount_custom_server_account_title 'Usando cuenta en servidor'>
+<!ENTITY fxaccount_custom_server_sync_title 'Guardando datos de Sync en servidor'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -169,7 +173,9 @@
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
+<!ENTITY fxaccount_status_auth_server 'Servidor de cuenta'>
 <!ENTITY fxaccount_status_device_name 'Nombre de dispositivo'>
+<!ENTITY fxaccount_status_sync_server 'Servidor de Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: habilitado'>
 <!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Tocá para reenviar el correo electrónico de verificación.'>
