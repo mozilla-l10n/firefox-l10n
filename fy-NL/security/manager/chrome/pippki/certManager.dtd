@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Organisaasje (O)">
 <!ENTITY certmgr.certdetail.ou                "Organisatoryske Ienheid (OI)">
 <!ENTITY certmgr.certdetail.serialnumber      "Searjenûmer">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1-fingerprint">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5-fingerprint">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256-fingerôfdruk">
+<!ENTITY certmgr.certdetail.md5fingerprint    "MD5-fingerôfdruk">
 
 <!ENTITY certmgr.editcert.title               "Befeiligings-sertifikaatynstellings bewurkje">
 <!ENTITY certmgr.editcacert.title             "CA-sertifikaat-fertrouwensynstellings bewurkje">
