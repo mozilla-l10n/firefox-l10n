@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "অবস্থান খুলুন…">
 <!ENTITY openFileCmd.label "ফাইল খুলুন...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "বুকমার্ক">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে">
 
+<!ENTITY backCmd.label                "পূর্ববর্তী">
 <!ENTITY backButton.tooltip           "সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন">
-
+<!ENTITY forwardCmd.label             "পরবর্তী">
 <!ENTITY forwardButton.tooltip        "প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
 <!ENTITY backForwardButtonMenu.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মাউসের ডানদিকের বাটক ক্লিক করুন অথবা মেনু টেনে নামান">
 <!ENTITY backForwardButtonMenuMac.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মেনু টেনে নামান">
-
+<!ENTITY reloadCmd.label              "নতুন করে প্রদর্শন করুন">
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা নতুন করে প্রদর্শন করা হবে">
-
+<!ENTITY stopCmd.label                "থামান">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "বর্তমান পৃষ্ঠার লোড স্থগিত করুন">
 <!ENTITY goEndCap.tooltip             "ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে">
@@ -436,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন......">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY bookmarkThisLinkCmd.label      "চিহ্নিত লিঙ্ক বুকমার্ক করুন">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "বর্তমান ফ্রেম বুকমার্ক করুন">
@@ -693,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "সংরক্ষণ করুন পেজকে…(P)">
+<!ENTITY social.markpageMenu.label "সংরক্ষণ করুন পেজকে(P)…">
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "নতুন রূপে লিঙ্ক সংরক্ষণ করুন…(L) ">
 

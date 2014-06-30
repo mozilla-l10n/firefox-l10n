@@ -28,6 +28,7 @@
 <!ENTITY chooseButton.label           "নির্বাচন করুন (o)…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "এবং ওয়েব বিষয়বস্তু অনুবাদ করুন">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "ব্যতিক্রম…">
 <!ENTITY translateExceptions.accesskey "x">
