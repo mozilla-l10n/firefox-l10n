@@ -9,13 +9,13 @@
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi ezingacothisa i-&brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
 <!ENTITY restoreTabsOnDemand.label        "Musa ukulayisha iithebhu de zibe zikhethiwe">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "Xa ndivula ikhonkco kwithebhu entsha, tshintshela kuyo ngokukhawuleza">
-<!ENTITY switchToNewTabs.accesskey    "h">
+<!ENTITY switchToNewTabs.accesskey    "s">
 
 <!ENTITY showTabsInTaskbar.label          "Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "B">

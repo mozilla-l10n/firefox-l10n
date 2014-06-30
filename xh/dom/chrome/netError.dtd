@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Isayithi iphendule kwisicelo senethiwekhi ngendlela engalindelekanga kwaye ibhrawuza ayinakho ukuqhuba.</p>">
 
 <!ENTITY nssFailure2.title "Unxibelelo lokhuseleko aluphumelelanga">
-<!ENTITY nssFailure2.longDesc2 "<p>Ikhasi ozama ukulijonga alinakho ukuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Unxibelelo lokhuseleko aluphumelelanga">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
