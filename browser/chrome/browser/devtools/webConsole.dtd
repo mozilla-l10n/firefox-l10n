@@ -73,7 +73,7 @@
 <!ENTITY btnConsoleInfo         "Տեղեկություն">
 <!ENTITY btnConsoleWarnings     "Զգուշացումներ">
 <!ENTITY btnConsoleLog          "Մատյանը">
-
+<!ENTITY btnConsoleReflows      "Reflows">
 
 <!ENTITY filterOutput.placeholder "Զտել արտածումը">
 <!ENTITY btnClear.label        "Մաքրել">
