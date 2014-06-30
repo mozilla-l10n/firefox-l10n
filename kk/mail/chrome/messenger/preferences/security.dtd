@@ -6,7 +6,6 @@
 
 <!ENTITY itemPasswords.label     "Парольдер">
 <!ENTITY itemAntiVirus.label     "Антивирус">
-
 <!-- Junk Mail Controls -->
 
 
@@ -38,17 +37,4 @@
 <!-- Anti Virus -->
 
 
-<!-- Cookies -->
-
-
-<!ENTITY keepUntil.label                "Келесі уақыт бойы cookies сақтау:">
-<!ENTITY keepUntil.accesskey            "у">
-<!ENTITY expire.label                   "олардың мерзімі аяқталғанша дейін">
-<!ENTITY close.label                    "Мен &brandShortName; жапқанға дейін">
-<!ENTITY askEachTime.label              "әрқашан менен сұрау">
-<!ENTITY cookieExceptions.label         "Осыдан бөлек…">
-<!ENTITY cookieExceptions.accesskey     "О">
-<!ENTITY showCookies.label              "Cookies көрсету…">
-<!ENTITY showCookies.accesskey          "р">
-<!-- Do Not Track -->
 

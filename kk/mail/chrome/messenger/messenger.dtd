@@ -106,10 +106,10 @@
 
 
 
-<!ENTITY folderPropsCmd.label "Қасиеттері...">
 
 
-<!ENTITY folderPropsCmd.accesskey "с">
+
+
 
 
 
@@ -156,6 +156,8 @@
 
 <!ENTITY recentFolders.label "Соңғы">
 <!ENTITY recentFolders.accesskey "о">
+
+
 <!-- Sort Menu -->
 
 
@@ -469,9 +471,9 @@
 
 <!ENTITY clearRecentHistory.label "Соңғы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey "х">
-<!ENTITY accountManagerCmd.label "Тіркелгі баптаулары…">
-<!ENTITY accountManagerCmd.accesskey "б">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 
 
@@ -549,6 +551,8 @@
 
 
 
+
+
 <!-- Phishing Button Popup -->
 
 
@@ -601,12 +605,12 @@
 
 
 
-<!ENTITY folderContextProperties.label "Қасиеттері…">
-<!ENTITY folderContextProperties.accesskey "с">
 
 
-<!ENTITY folderContextSettings.label "Баптаулар…">
-<!ENTITY folderContextSettings.accesskey "а">
+
+
+
+
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
@@ -666,6 +670,8 @@
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
+
+
 
 
 
@@ -840,8 +846,6 @@
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Үлкейту">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
-<!ENTITY preferencesCmdMac.label        "Баптаулар…">
 
 
 <!ENTITY servicesMenuMac.label          "Қызметтер">

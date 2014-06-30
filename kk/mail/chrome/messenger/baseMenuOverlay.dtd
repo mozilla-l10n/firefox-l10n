@@ -20,7 +20,7 @@
 <!ENTITY openHelp.label "Көмек құрамасы">
 <!ENTITY openHelp.accesskey "К">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; көмегі">
+<!ENTITY openHelpMac.label "&brandShortName; &amp;көмегі">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
