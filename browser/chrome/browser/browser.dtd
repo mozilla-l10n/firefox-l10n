@@ -650,7 +650,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "Pestañas de otros dispositivos">
 
-<!ENTITY syncBrand.shortName.label    "Sync {ok}">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
@@ -658,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sync {ok}">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Botón de herramientas sociales">
 

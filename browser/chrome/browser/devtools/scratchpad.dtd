@@ -72,7 +72,7 @@
 
 <!ENTITY normalSize.label             "Tamaño normal">
 <!ENTITY normalSize.accesskey         "N">
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">

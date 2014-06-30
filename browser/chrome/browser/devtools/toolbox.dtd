@@ -18,6 +18,7 @@
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -30,6 +31,8 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "Mostrar estilos de navegador">
+<!ENTITY options.showUserAgentStyles.tooltip "Activar esto mostrará los estilos por defecto que se cargan por el navegador.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
