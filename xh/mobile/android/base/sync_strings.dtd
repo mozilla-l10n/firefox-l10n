@@ -4,11 +4,11 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.fullName.label "Ungqamaniso lweFirefox ">
 <!ENTITY syncBrand.shortName.label "Ungqamaniso">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "i-&syncBrand.fullName.label;">
+<!ENTITY sync.app.name.label "I-&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Nxibelelana kwi-&syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Yongeza i-&syncBrand.fullName.label; Account">
 <!ENTITY sync.title.pair.label "Hambisa ngambini iSixhobo">
@@ -109,6 +109,7 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
+
 <!ENTITY fxaccount_email_hint "I-imeyili">
 <!ENTITY fxaccount_password_hint "Ipasiwedi">
 <!ENTITY fxaccount_password_hide "Fihla">
@@ -172,7 +173,6 @@
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
-
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "I-&syncBrand.shortName.label;: iyasebenza">
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">
