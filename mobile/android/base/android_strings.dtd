@@ -33,8 +33,8 @@
 <!ENTITY bookmark_options "Opzioni">
 <!ENTITY history_today_section "Oggi">
 <!ENTITY history_yesterday_section "Ieri">
-<!ENTITY history_week_section "Ultima settimana">
-<!ENTITY history_older_section "Oltre una settimana fa">
+<!ENTITY history_week_section2 "Ultima settimana">
+<!ENTITY history_older_section2 "Ultimo mese">
 <!ENTITY go "Vai">
 <!ENTITY search "Cerca">
 <!ENTITY reload "Ricarica">
