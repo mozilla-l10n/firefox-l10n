@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "Corff (O)">
 <!ENTITY certmgr.certdetail.ou                "Uned Corff (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Rhif Cyfresol">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "Ôl bys SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Ôl bys SHA1">
 
 <!ENTITY certmgr.editcert.title               "Golygu Gosodiadau Diogelwch Tystysgrif">
