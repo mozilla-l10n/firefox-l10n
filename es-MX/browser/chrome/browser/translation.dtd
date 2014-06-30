@@ -33,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "Esta página ha sido traducida del">
 <!ENTITY translation.translatedTo.label         "para">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Mostrar original">
+<!ENTITY translation.showTranslation.button     "Mostrar traducción">
 
-
+<!ENTITY translation.errorTranslating.label     "Ha habido un error al traducir esta página.">
 <!ENTITY translation.tryAgain.button            "Reintentar">
 
 
