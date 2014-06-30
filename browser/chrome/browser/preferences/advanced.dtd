@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "সার্টিফিকেট">
 <!ENTITY certSelection.description       "কোনো সার্ভার দ্বারা আপনার ব্যক্তিগত সার্টিফিকেটের অনুরোধ করা হলে:">
 <!ENTITY certs.auto                      "স্বয়ংক্রিয়রূপে একটি নির্বাচন করা হবে">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "প্রতিবার জিজ্ঞাসা করা হবে">
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন(C)">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY verify2.label                   "বৈধতা যাচাইকারন(V)">
 <!ENTITY verify2.accesskey               "V">
-
-
+<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস(D)">
+<!ENTITY viewSecurityDevices.accesskey   "D">

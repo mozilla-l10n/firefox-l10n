@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "এই পাতা অনুবাদ করতে একটি ত্রুটি হয়েছে।">
 <!ENTITY translation.tryAgain.button            "পুনরায় চেষ্টা করুন">
 
+<!ENTITY translation.serviceUnavailable.label   "অনুবাদ এই মুহূর্তে উপলব্ধ নয়। পরে আবার চেষ্টা করুন।">
 
 <!ENTITY translation.options.menu               "বিকল্প">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -51,6 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "কখনও&amp; এই সাইটের অনুবাদ করবেন না">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "অনুবাদ পছন্দ">
+<!ENTITY translation.options.preferences.accesskey "অ">

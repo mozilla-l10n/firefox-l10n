@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়।">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয়">
-
+<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY doNotTrackInfo.label           "আরও জানুন">
 
 <!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
