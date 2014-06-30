@@ -24,6 +24,7 @@
 <!ENTITY saveButton.tooltip         "Cadw'r ddalen arddull i ffeil">
 <!ENTITY saveButton.accesskey       "C">
 
+<!ENTITY optionsButton.tooltip      "Dewisiadau'r Golygydd Arddull">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
@@ -43,7 +44,7 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
-<!ENTITY mediaRules.label           "Rheolau @&amp;media">
+<!ENTITY mediaRules.label           "Rheolau @media">
 
 <!ENTITY editorTextbox.placeholder  "Teipio'r CSS yma.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
