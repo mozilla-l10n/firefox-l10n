@@ -26,12 +26,7 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Iibhukhmakhi">
 <!ENTITY abouthome.historyButton.label   "Imbali">
-<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
-     preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Iindlela zokhetho">
-<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
-     preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Izikhethwa">
+<!ENTITY abouthome.settingsButton.label  "Settings">
 <!ENTITY abouthome.addonsButton.label    "Izongezelelo">
 <!ENTITY abouthome.appsButton.label      "Imarike">
 <!ENTITY abouthome.downloadsButton.label "Ukhuphelo">
