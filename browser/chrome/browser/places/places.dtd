@@ -86,7 +86,7 @@
 <!ENTITY col.keyword.label       "ಮುಖ್ಯಪದ">
 <!ENTITY col.description.label   "ವಿವರಣೆ">
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
-<!ENTITY col.lastmodified.label  "ಕೊನೆಯ  ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
+<!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
 <!ENTITY search.label                              "ಹುಡುಕು:">
 <!ENTITY search.accesskey                          "S">
