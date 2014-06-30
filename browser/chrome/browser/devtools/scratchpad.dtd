@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "g">
 
+<!ENTITY viewMenu.label               "Hiển thị">
+<!ENTITY viewMenu.accesskey           "H">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Chỉnh sửa">
 <!ENTITY editMenu.accesskey           "C">
 
@@ -109,7 +127,7 @@
 <!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "Tải và chạy lại">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Thực thi">

@@ -8,8 +8,8 @@
    - menus/menuitems. -->
 
 
-<!ENTITY fileMenu.label                     "Tệp">
-<!ENTITY fileMenu.accesskey                 "F">
+<!ENTITY fileMenu.label                     "Tệp (f)">
+<!ENTITY fileMenu.accesskey                 "f">
 
 <!ENTITY quitApplicationCmdWin.label        "Thoát">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">

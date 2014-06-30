@@ -50,7 +50,7 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 
-
+<!ENTITY btnPageCSS.tooltip "Log CSS errors and warnings">
 
 
 <!ENTITY btnPageJS.tooltip  "Ghi lại các ngoại lệ JavaScript">
@@ -68,6 +68,7 @@
 <!ENTITY btnConsoleInfo         "Thông tin">
 <!ENTITY btnConsoleWarnings     "Cảnh báo">
 <!ENTITY btnConsoleLog          "Lưu nhật ký">
+
 
 
 <!ENTITY btnClear.tooltip      "Xóa trắng Web Console">
