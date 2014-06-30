@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Hiện đang xác minh chứng thư…">
 <!ENTITY certmgr.subjectinfo.label            "Cấp cho">
 <!ENTITY certmgr.issuerinfo.label             "Cấp bởi">
-<!ENTITY certmgr.validity.label               "Tính hiệu lực" >
+
 <!ENTITY certmgr.fingerprints.label           "Vân tay">
 <!ENTITY certmgr.certdetail.title             "Chi tiết Chứng thư">
 <!ENTITY certmgr.certdetail.cn                "Tên thông thường (CN)">
@@ -35,7 +35,7 @@
 <!ENTITY certmgr.certdetail.ou                "Đơn vị của Tổ chức (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Số Serial">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Vân tay SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Vân tay MD5">
+<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Fingerprint">
 
 <!ENTITY certmgr.editcert.title               "Chỉnh sửa Thiết lập Chứng thư Bảo mật">
 <!ENTITY certmgr.editcacert.title             "Chỉnh thiết lập độ tin cậy chứng thư CA">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Máy chủ">
 <!ENTITY certmgr.override_lifetime            "Chu kì">
 <!ENTITY certmgr.tokenname                    "Thiết bị Bảo mật">
-<!ENTITY certmgr.issued                       "Cấp vào">
+
 <!ENTITY certmgr.expires                      "Hết hạn vào">
 <!ENTITY certmgr.email                        "Địa chỉ E-Mail">
 <!ENTITY certmgr.serial                       "Số Serial">

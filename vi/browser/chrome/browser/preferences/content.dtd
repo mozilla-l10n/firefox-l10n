@@ -4,8 +4,8 @@
 
 <!ENTITY  blockPopups.label           "Chặn các cửa sổ pop-up (B)">
 <!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "&amp;Ngoại trừ… (E)">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label       "Ngoại trừ… (E)">
+<!ENTITY  popupExceptions.accesskey   "N">
 
 
 <!ENTITY  defaultFont.label           "Phông mặc định:">

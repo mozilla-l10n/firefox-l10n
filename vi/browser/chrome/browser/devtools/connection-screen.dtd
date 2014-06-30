@@ -13,6 +13,7 @@
 <!ENTITY port       "Cổng:">
 <!ENTITY connect    "Kết nối">
 <!ENTITY connecting "Đang kết nối…">
+
 <!ENTITY availableTabs "Các thẻ từ xa có hiệu lực:">
 <!ENTITY availableProcesses "Các xử lý từ xa còn hoạt động:">
 <!ENTITY connectionError "Lỗi:">

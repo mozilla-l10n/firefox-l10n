@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Hoàn tác.">
 <!ENTITY newtab.undo.restoreButton "Khôi phục tất cả.">
 <!ENTITY newtab.undo.closeTooltip "Ẩn">
+
+<!ENTITY newtab.sponsored.trial.message "This Trial Sponsor site was suggested because we hoped you’d find it interesting and because it supports Mozilla’s mission.">
+
