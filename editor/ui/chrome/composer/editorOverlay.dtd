@@ -17,6 +17,7 @@
 
 
 
+
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Енгізу">
@@ -32,6 +33,8 @@
 <!ENTITY insertHLineCmd.accesskey "о">
 <!ENTITY insertTableCmd.label "Кесте…">
 <!ENTITY insertTableCmd.accesskey "К">
+
+
 
 
 

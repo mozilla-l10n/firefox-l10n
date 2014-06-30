@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 
 
 <!ENTITY fileMenu.label          "Файл">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Барлығын ерекшелеу">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "е">
-<!ENTITY preferencesCmd.label        "Опциялар…">
-<!ENTITY preferencesCmd.accesskey      "O">
+
+
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "С">
 <!ENTITY showTaskbarCmd.label          "Қалып-күй жолағы">
 <!ENTITY showTaskbarCmd.accesskey        "ы">
-
-<!ENTITY proxy.label                                    "Прокси баптаулары…">
-<!ENTITY proxy.accesskey                                "т">
 
 <!ENTITY closeCmd.label      "Жабу">
 <!ENTITY closeCmd.key      "W">

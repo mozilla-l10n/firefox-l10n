@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Қасиеттері…">
-<!ENTITY propertiesCmd.accesskey                        "е">
+
+
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "И">
 <!ENTITY exportCmd.label                                "Экспорттау…">
 <!ENTITY exportCmd.accesskey                            "Э">
-<!ENTITY preferencesCmd.label                           "Опциялар…">
-<!ENTITY preferencesCmd.accesskey                       "О">
+
+
 <!ENTITY preferencesCmdUnix.label                       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey                   "м">
 <!-- Address Book Toolbar and Context Menus -->  

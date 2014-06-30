@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "а">
 
 <!ENTITY  color                           "Мәтін мен аясы">
-
-
+<!ENTITY  textColor.label                 "Мәтін:">
+<!ENTITY  textColor.accesskey             "т">
 <!ENTITY  backgroundColor.label           "Фон:">
 <!ENTITY  backgroundColor.accesskey       "Ф">
 <!ENTITY  useSystemColors.label           "Жүйеінің түстерін қолдану">
