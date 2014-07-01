@@ -6,8 +6,8 @@
 <!ENTITY aboutDevices.header             "আপনার ডিভাইসমূহ">
 <!ENTITY aboutDevices.refresh            "রিফ্রেশ">
 <!ENTITY aboutDevices.addDeviceHeader    "একটি ডিভাইস যোগ করুন">
-
-
+<!ENTITY aboutDevices.roku               "Roku">
+<!ENTITY aboutDevices.chromecast         "ক্রোমকাস্ট">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
 <!ENTITY aboutDevices.placeholder        "আই-পি ঠিকানা">

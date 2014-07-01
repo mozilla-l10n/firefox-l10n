@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; শুরু করার জন্য প্রয়োজনীয় জায়গা নেই।">
+<!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -12,20 +12,20 @@
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পাঠ তালিকা">
 
-<!ENTITY  switch_to_tab "ট্যাব বদল করুন">
+<!ENTITY  switch_to_tab "চিহ্নিত ট্যাবে যান">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
-<!ENTITY  crash_message2 "&brandShortName; তে একটি সমস্যা ছিল এবং সেটি ক্র্যাশ করে গেছে। পুনরায় শুরু করার সময় আপনার ট্যাবসমূহ &brandShortName; এর শুরুর পেজে তালিকাভুক্ত করা থাকবে। ">
+<!ENTITY  crash_message2 "&brandShortName; তে একটি সমস্যার দরুন সেটি ক্র্যাশ করেছে। পুনরায় চালু করার সময় আপনার ট্যাবসমূহ &brandShortName; এর শুরুর পৃষ্ঠে তালিকাভুক্ত করা থাকবে।">
 <!ENTITY  crash_send_report_message3 "এই ক্র্যাশ সম্পর্কে &vendorShortName; কে বলুন যাতে তারা এটা ঠিক করতে পারে">
-<!ENTITY  crash_include_url2 "পরিদর্শিত পৃষ্ঠার ঠিকানা অন্তর্ভুক্ত করা হবে">
+<!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন">
 <!ENTITY  crash_sorry "আমরা দুঃখিত">
 <!ENTITY  crash_comment "একটি মন্তব্য লিখুন (মন্তব্যগুলি সর্বসমক্ষে প্রকাশিত থাকবে)">
-<!ENTITY  crash_allow_contact2 "&vendorShortName;-কে এই রিপোর্ট সম্পর্কে আমার সাথে যোগাযোগ করার অনুমতি দিন">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; কে এই রিপোর্ট সম্পর্কে আমার সাথে যোগাযোগ করার অনুমতি দিন">
 <!ENTITY  crash_email "আপনার ইমেল">
-<!ENTITY  crash_closing_alert "ক্র্যাশ রিপোর্ট না পাঠিয়ে প্রস্থান করতে চান?">
+<!ENTITY  crash_closing_alert "ক্র্যাশ প্রতিবেদন না পাঠিয়ে প্রস্থান করবেন?">
 <!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হচ্ছে\u2026">
 <!ENTITY  crash_close_label "বন্ধ করুন">
-<!ENTITY  crash_restart_label "&brandShortName; পুনরায় আরম্ভ করুন">
+<!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
 <!ENTITY  exit_label "প্রস্থান">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ওয়েব অ্যাপ্লিকেশন">
@@ -33,23 +33,23 @@
 
 <!ENTITY choose_file "ফাইল নির্বাচন করুন">
 
-<!ENTITY url_bar_default_text "অনুসন্ধান বা ঠিকানা লিখুন">
+<!ENTITY url_bar_default_text "অনুসন্ধান করুন অথবা ঠিকানা লিখুন">
 
 <!ENTITY bookmark "বুকমার্ক">
-<!ENTITY bookmark_added "বুকমার্ক যোগ করা হলো">
+<!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
 <!ENTITY bookmark_removed "বুকমার্ক মুছে ফেলা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা অাছে">
 <!ENTITY bookmark_options "বিকল্প">
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-<!ENTITY history_week_section "7 দিন পূর্বে">
-<!ENTITY history_older_section "7 মাসের থেকে পুরোনো">
+<!ENTITY history_week_section "৭ দিন পূর্বে">
+<!ENTITY history_older_section "৭ মাসের থেকে পুরোনো">
 
-<!ENTITY go "এগিয়ে চলুন">
-<!ENTITY search "অনুসন্ধান">
+<!ENTITY go "এগন">
+<!ENTITY search "অনুসন্ধান করুন">
 <!ENTITY reload "পুনরায় লোড করুন">
-<!ENTITY forward "ফরওয়ার্ড">
+<!ENTITY forward "অগ্রবর্তী">
 <!ENTITY menu "মেনু">
 <!ENTITY back "পূর্ববর্তী">
 <!ENTITY stop "বন্ধ করুন">
@@ -57,21 +57,21 @@
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-<!ENTITY one_tab "1 ট্যাব">
+<!ENTITY one_tab "১টি ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ট্যাবগুলি">
-<!ENTITY new_tab_opened "নতুন ট্যাব খুলেছে">
-<!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে ">
+<!ENTITY num_tabs2 "&formatD; ট্যাবসমূহ">
+<!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
+<!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "পরিবর্তন করুন">
 
-<!ENTITY settings "বৈশিষ্ট্যাবলী">
-<!ENTITY settings_title "বৈশিষ্ট্যাবলী">
+<!ENTITY settings "সেটিংস">
+<!ENTITY settings_title "সেটিংস">
 <!ENTITY pref_category_advanced "উন্নত">
-<!ENTITY pref_category_customize "স্বনির্বাচিত">
+<!ENTITY pref_category_customize "কাস্টমাইজ করুন">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -84,33 +84,33 @@
 
 <!ENTITY locale_system_default "সিস্টেম ডিফল্ট">
 
-<!ENTITY pref_category_search3 "অনুসন্ধান">
-<!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীর কাস্টমাইজ করুন">
+<!ENTITY pref_category_search3 "অনুসন্ধান করুন">
+<!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীদের স্বনির্ধারণ করুন">
 <!ENTITY pref_category_display "প্রদর্শন">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "পছন্দসই তথ্য">
 <!ENTITY pref_learn_more "আরও জানুন">
 <!ENTITY pref_category_installed_search_engines "ইন্সটল করা সার্চ ইঞ্জিনসমূহ">
-<!ENTITY pref_category_add_search_providers "অার অনুসন্ধান পরিসেবা উপলব্ধকারী যোগ করুন">
-<!ENTITY pref_category_search_restore_defaults "সার্চ ইঞ্জিনসমূহ পুনরুদ্ধার করুন">
-<!ENTITY pref_search_restore_defaults "ডিফল্ট রিস্টোর করুন">
-<!ENTITY pref_search_restore_defaults_summary "ডিফল্ট রিস্টোর করুন">
+<!ENTITY pref_category_add_search_providers "অার অনুসন্ধান প্রদানকারীদের যোগ করুন">
+<!ENTITY pref_category_search_restore_defaults "সার্চ ইঞ্জিনসমূহ রিস্টোর করুন">
+<!ENTITY pref_search_restore_defaults "ডিফল্ট মান রিস্টোর করুন">
+<!ENTITY pref_search_restore_defaults_summary " ডিফল্ট মান রিস্টোর করুন">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: যেকোনো ওয়েবসাইট আপনার সার্চ প্রোভাইডার এর তালিকায় যুক্ত করুন সেই ওয়েবসাইট এর অনুসন্ধান করার জায়গায় কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন">
-<!ENTITY pref_category_devtools "ডেভলপার টুলগুলি">
+<!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার নুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
+<!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
 
 <!ENTITY pref_category_home "হোম">
 <!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
 <!ENTITY pref_category_home_panels "প্যানেলসমূহ">
-<!ENTITY pref_home_add_panel "প্যানেল জুড়ুন">
-<!ENTITY home_add_panel_title "প্যানেল যোগ করুন">
+<!ENTITY pref_home_add_panel "প্যানেল যোগ করুন">
+<!ENTITY home_add_panel_title "নতুন প্যানেল যোগ করুন">
 <!ENTITY home_add_panel_empty "দুঃখিত, আমরা আপনার যোগ করার জন্য কোন প্যানেল খুঁজে পাইনি।">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
@@ -121,13 +121,13 @@
 <!ENTITY pref_home_updates_enabled "সক্রিয়">
 <!ENTITY pref_home_updates_wifi "কেবলমাত্র ওয়াইফাই দ্বারা">
 <!ENTITY pref_home_suggested_sites "সাইটের অনুসন্ধান পরামর্শ দেখাও">
-
+<!ENTITY pref_home_suggested_sites_summary "আপনার হোমপেজে কিছু সাইটের শর্টকাট যুক্ত করে দেওয়া হল যেগুলো আপনার পছন্দ হতে পারে।">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "স্বনির্ধারণ">
+<!ENTITY pref_header_customize "কাস্টমাইজ করুন">
 <!ENTITY pref_header_display "ডিসপ্লে">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
-
+<!ENTITY pref_header_help "সহায়তা">
 <!ENTITY pref_header_language "ভাষা">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ডেভলপার টুলগুলি">
@@ -148,7 +148,7 @@
 <!ENTITY pref_clear_private_data "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
 <!ENTITY pref_plugins "প্লাগ-ইনসমূহ">
 <!ENTITY pref_plugins_enabled "সক্রিয় অাছে">
-<!ENTITY pref_plugins_tap_to_play "প্লে করার জন্য এখানে যান">
+<!ENTITY pref_plugins_tap_to_play "প্লে করার জন্য এখানে ট্যাপ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সট সাইজ">
 <!ENTITY pref_reflow_on_zoom4 "পুনঃ লেখ প্রবাহ">
@@ -156,11 +156,11 @@
 <!ENTITY pref_restore_always "সর্বদা রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
 <!ENTITY pref_font_size_tiny "ক্ষুদ্র">
-<!ENTITY pref_font_size_small "ক্ষুদ্র">
+<!ENTITY pref_font_size_small "ছোট">
 <!ENTITY pref_font_size_medium "মাঝারি">
 <!ENTITY pref_font_size_large "বড়">
 <!ENTITY pref_font_size_xlarge "অত্যাধিক বড়">
-<!ENTITY pref_font_size_set "সংকলন">
+<!ENTITY pref_font_size_set "নির্ধারণ করুন">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -236,6 +236,8 @@ size. -->
 <!ENTITY pref_update_autodownload_never "কখনই নয়">
 <!ENTITY pref_update_autodownload_always "সর্বদা">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "সহায়তা">
 
 <!ENTITY quit "প্রস্থান">
 
@@ -344,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
 
 <!ENTITY home_history_title "পূর্ববর্তী তথ্য">
-
-
+<!ENTITY home_clear_history_button "ব্রাউসারের ইতিহাস মুছে ফেলুন">
+<!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
 <!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
 <!ENTITY home_last_tabs_title "শেষবারের ট্যাবগুলি">
 <!ENTITY home_last_tabs_open "শেষবারের সবকটি ট্যাব খুলুন">
@@ -465,3 +467,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "সর্বশেষ বার সিঙ্ক হয়েছে: &formatS;">
