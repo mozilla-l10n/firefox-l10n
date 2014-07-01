@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName;-কে 
- দ্বারা <b>#1</b>-র সাথে নিরাপদভাবে সংযোগ স্থাপনের অনুরোধ জানানো হলেও এই সংযোগ নিরাপদ হবে কি না তা নিশ্চিত করা সম্ভব নয়।">
+<!ENTITY certerror.introPara1 "&brandShortName; কে নিরাপদভাবে
+<b>#1</b>-র সাথে  সংযোগ স্থাপনের অনুরোধ জানানো হলেও এই সংযোগ নিরাপদ হবে কি না তা নিশ্চিত করা সম্ভব নয়।">
 
 <!ENTITY certerror.whatShouldIDo.heading "এই পরিস্থিতিতে কী করা উচিত?">
 <!ENTITY certerror.whatShouldIDo.content "আপনি যদি সাধারনত  
