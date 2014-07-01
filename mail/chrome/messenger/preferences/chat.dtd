@@ -25,14 +25,14 @@ sentence. -->
 
 
 
-
-
+<!ENTITY  chatSound.accesskey                 "ع">
+<!ENTITY  chatSound.label                     "اعزف صوتًا">
 <!ENTITY  play.label                          "شغّل">
 <!ENTITY  play.accesskey                      "ش">
-
-
+<!ENTITY  systemSound.label                   "صوت النظام المبدئي للبريد الجديد">
+<!ENTITY  systemSound.accesskey               "ت">
 <!ENTITY  customsound.label                   "استخدم ملف الصوت التالي">
 <!ENTITY  customsound.accesskey               "س">
-
-
+<!ENTITY  browse.label                        "تصفّح…">
+<!ENTITY  browse.accesskey                    "ف">
 
