@@ -16,7 +16,7 @@
 <!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY findBarCmd.label "ابحث…">
 <!ENTITY findReplaceCmd.label "ابحث واستبدل…">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "ج">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "رياضيات…">
+<!ENTITY insertMathCmd.accesskey "ر">
 <!ENTITY insertCharsCmd.label "محارف ورموز…">
 <!ENTITY insertCharsCmd.accesskey "ح">
 <!ENTITY insertBreakAllCmd.label "فاصل تحت الصور">

@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Window title -->
+
+<!ENTITY windowTitle.label "أدرج رياضيات">
+
+<!ENTITY sourceEditField.label "أدخل كود لاتك:">
+
+<!ENTITY options.label "الخيارات">
+<!ENTITY optionInline.label "معادلة داخل السطر">
+<!ENTITY optionInline.accesskey "د">
+<!ENTITY optionDisplay.label "معادلة منفصلة">
+<!ENTITY optionDisplay.accesskey "م">
+<!ENTITY optionLTR.label "من اليسار إلى اليمين">
+<!ENTITY optionLTR.accesskey "س">
+<!ENTITY optionRTL.label "من اليمين إلى اليسار">
+<!ENTITY optionRTL.accesskey "ي">
+
+<!ENTITY example.label "مثال: ">
+<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
+<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+
+<!ENTITY insertButton.label "أدرج">
+<!ENTITY insertButton.accesskey "د">

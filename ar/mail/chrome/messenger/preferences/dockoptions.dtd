@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "خيارات أيقونة التطبيق">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "حرك أيقونة التطبيق عند وصول رسالة جديدة">
+<!ENTITY bounceSystemDockIcon.accesskey        "ح">
+<!ENTITY newMessagesCountDock.label            "عدد الرسائل الجديدة">
+<!ENTITY newMessagesCountDock.accesskey        "ع">
+<!ENTITY showAllUnreadMessagesCount.label      "عدد الرسائل غير المقروءة">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "د">
+<!ENTITY dockIconBadge.label                   "ملصق أيقونة التطبيق">
+<!ENTITY dockIconShow.label                    "ضع على أيقونة التطبيق:">

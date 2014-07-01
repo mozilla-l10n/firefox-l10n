@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "ل">
 <!ENTITY synchronizeOfflineCmd.label "نزّل/زامِن الآن…">
 <!ENTITY synchronizeOfflineCmd.accesskey "ز">
-
-
+<!ENTITY settingsOfflineCmd2.label "إعدادات اللااتصال">
+<!ENTITY settingsOfflineCmd2.accesskey "ص">
 <!ENTITY downloadSelectedCmd.label "اجلب الرسائل المختارة">
 <!ENTITY downloadSelectedCmd.accesskey "م">
 <!ENTITY downloadStarredCmd.label "اجلب الرسائل ذات النجمة">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "ة">
 <!ENTITY menuFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY menuFavoriteFolder.accesskey "ف">
-
-
-
+<!ENTITY folderPropsCmd2.label "الخصائص">
+<!ENTITY folderPropsFolderCmd2.label "خصائص المجلد">
+<!ENTITY folderPropsNewsgroupCmd2.label "خصائص مجموعة البريد">
 
 <!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
@@ -461,8 +461,8 @@
 <!ENTITY savedFiles.label "الملفات المحفوظة">
 <!ENTITY savedFiles.accesskey "ظ">
 <!ENTITY savedFiles.key "j">
-
-
+<!ENTITY filtersCmd2.label "مرشِّحات الرسائِل">
+<!ENTITY filtersCmd2.accesskey "س">
 <!ENTITY filtersApply.label "شغّل المرشِّحات على المجلد">
 <!ENTITY filtersApply.accesskey "ش">
 <!ENTITY filtersApplyToSelection.label "شغّل المرشحات على الرسائل المحددة">
@@ -480,8 +480,8 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
 <!ENTITY clearRecentHistory.accesskey "س">
-
-
+<!ENTITY accountManagerCmd2.label "إعدادات الحساب">
+<!ENTITY accountManagerCmd2.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY allowRemoteDebugging.label "اسمح بالتنقيح عن بعد">
@@ -626,12 +626,12 @@
 <!ENTITY folderContextSubscribe.accesskey "ش">
 <!ENTITY folderContextSearchForMessages.label "ابحث في الرسائل…">
 <!ENTITY folderContextSearchForMessages.accesskey "س">
-
-
+<!ENTITY folderContextProperties2.label "الخصائص">
+<!ENTITY folderContextProperties2.accesskey "خ">
 <!ENTITY folderContextFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY folderContextFavoriteFolder.accesskey "ف">
-
-
+<!ENTITY folderContextSettings2.label "الإعدادات">
+<!ENTITY folderContextSettings2.accesskey "ع">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "الاسم أو البريد يحوي:">
@@ -703,8 +703,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ل">
 <!ENTITY contextOpenConversation.label "افتح الرسالة في محادثة">
 <!ENTITY contextOpenConversation.accesskey "ث">
-
-
+<!ENTITY contextOpenContainingFolder.label "افتح الرسالة في المجلد الذي يحتويها">
+<!ENTITY contextOpenContainingFolder.accesskey "ف">
 <!ENTITY contextEditMsgAsNew.label "حرّر كرسالةٍ جديدة">
 <!ENTITY contextEditMsgAsNew.accesskey "ح">
 <!ENTITY contextArchive.label "أرشيف">
@@ -887,6 +887,8 @@
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "التفضيلات">
 <!ENTITY preferencesCmdMac.commandkey   "،">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "خدمات">

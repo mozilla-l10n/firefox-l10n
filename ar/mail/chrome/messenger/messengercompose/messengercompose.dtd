@@ -88,11 +88,11 @@
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
-
-
-
-
-
+<!ENTITY findBarCmd.label "ابحث…">
+<!ENTITY findBarCmd.accesskey "ب">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "ابحث و استبدل…">
+<!ENTITY findReplaceCmd.accesskey "س">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "ابحث مرة أخرى">
 <!ENTITY findAgainCmd.accesskey "م">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "دفتر العناوين ">
 <!ENTITY addressBookCmd.accesskey "د">
 <!ENTITY addressBookCmd.key "B">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "إعدادات الحساب">
+<!ENTITY accountManagerCmd2.accesskey "ع">
+<!ENTITY accountManagerCmdUnix2.accesskey "س">
+<!ENTITY preferencesCmd2.label "الخيارات">
+<!ENTITY preferencesCmd2.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 <!--  Mac OS X Window Menu -->

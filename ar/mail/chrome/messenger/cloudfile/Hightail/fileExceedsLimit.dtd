@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsLimit.title   "YouSendIt">
 <!ENTITY fileExceedsLimit.thatsBigFile   "إرسال ملفات أكبر من 50 م.بايت">
 <!ENTITY fileExceedsLimit.thatsBigFile2   "ميزة مدفوعة الأجر.">
 <!ENTITY fileExceedsLimit.accept "رقِّ">
