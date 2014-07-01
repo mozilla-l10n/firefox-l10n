@@ -327,7 +327,7 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "ಹೆಚ್ಚುವರಿ ಕ್ರಿಯೆಗಳು">
 
-<!ENTITY masterpassword_create_title "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಸೃಷ್ಟಿಸಿ">
+<!ENTITY masterpassword_create_title "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ರಚಿಸಿ">
 <!ENTITY masterpassword_remove_title "ಮುಖ್ಯಗುಪ್ತಪದವನ್ನು ತೆಗೆಯಿರಿ">
 <!ENTITY masterpassword_password "ಗುಪ್ತಪದ">
 <!ENTITY masterpassword_confirm "ಗುಪ್ತಪದವನ್ನು ಖಚಿತಪಡಿಸು">
