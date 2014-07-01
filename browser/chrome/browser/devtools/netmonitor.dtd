@@ -218,3 +218,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "റദ്ദാക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "പുറകോട്ട്">
