@@ -54,7 +54,7 @@
 <!ENTITY back "Nazad">
 <!ENTITY stop "Zaustavi">
 <!ENTITY site_security "Sigurnost stranice">
-
+<!ENTITY edit_mode_cancel "Odustani">
 
 <!ENTITY close_tab "Zatvori karticu">
 <!ENTITY one_tab "1 kartica">
@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; kartica">
 <!ENTITY new_tab_opened "Nova kartica otvorena">
-
+<!ENTITY new_private_tab_opened "Novi privatni prozor otvoren">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PREBACI">
 
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Jezik">
+<!ENTITY pref_browser_locale "Jezik preglednika">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Zadani sistemski">
 
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "Automatske dopune">
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
-
-
+<!ENTITY pref_home_suggested_sites "Prikaži prijedloge stranica">
+<!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikaži poveznice na stranice koje mislimo da će vam biti interesantne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Prilagodi">
 <!ENTITY pref_header_display "Prikaz">
 <!ENTITY pref_header_privacy_short "Privatnost">
-
-
+<!ENTITY pref_header_help "Pomoć">
+<!ENTITY pref_header_language "Jezik">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Alati za razvijatelje">
 
@@ -177,7 +182,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Priručna memorija">
 <!ENTITY pref_private_data_offlineApps "Podaci izvanmreženih stranica">
 <!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
-
+<!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 
 
 <!ENTITY pref_about_firefox "O &brandShortName;">
