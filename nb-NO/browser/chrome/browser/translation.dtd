@@ -13,7 +13,7 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 <!ENTITY translation.thisPageIsIn.label         "Denne siden på">
-<!ENTITY translation.translateThisPage.label    "Oversett denne siden?">
+<!ENTITY translation.translateThisPage.label    "Oversette denne siden?">
 <!ENTITY translation.translate.button           "Oversett">
 <!ENTITY translation.notNow.button              "Ikke nå">
 
