@@ -438,12 +438,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 <!-- Guest mode -->
 
-<!ENTITY new_guest_session "Yeni ziyaretçi oturumu">
-<!ENTITY exit_guest_session "Ziyaretçi oturumundan çık">
+<!ENTITY new_guest_session "Yeni konuk oturumu">
+<!ENTITY exit_guest_session "Konuk oturumundan çık">
 <!ENTITY guest_session_dialog_continue "Devam">
 <!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
-<!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nMisafirin işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
+<!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY exit_guest_session_text "Bu oturumdaki tarama verileri silinecektir.">
