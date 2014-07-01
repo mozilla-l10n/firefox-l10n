@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "ផ្ទាំង &formatD;">
 <!ENTITY new_tab_opened "ការ​បើក​ផ្ទាំង​ថ្មី">
-
+<!ENTITY new_private_tab_opened "បាន​បើក​ផ្ទាំង​ឯកជន​ថ្មី">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ប្ដូរ">
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "ភាសា">
+<!ENTITY pref_browser_locale "ភាសា​កម្មវិធី​រុករក">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "លំនាំដើម​របស់​ប្រព័ន្ធ">
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_home_updates_enabled "បាន​បើក">
 <!ENTITY pref_home_updates_wifi "បាន​បើក">
-
-
+<!ENTITY pref_home_suggested_sites "បង្ហាញ​ការ​ផ្ដល់​យោបល់​​តំបន់បណ្ដាញ">
+<!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_header_display "បង្ហាញ">
 <!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
-
-
+<!ENTITY pref_header_help "ជំនួយ">
+<!ENTITY pref_header_language "ភាសា">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "ជានិច្ច">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "ជំនួយ">
+
 <!ENTITY quit "ចេញ">
 
 <!ENTITY addons "កម្មវិធី​បន្ថែម">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
 
 <!ENTITY home_history_title "ប្រវត្តិ">
-
-
+<!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
+<!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនទេ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_open "បើក​ផ្ទាំង​ទាំងអស់​ពី​ពេល​ចុងក្រោយ">
@@ -460,3 +467,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
