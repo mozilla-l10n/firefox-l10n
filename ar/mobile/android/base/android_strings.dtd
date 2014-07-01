@@ -62,10 +62,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; من الألسنة">
 <!ENTITY new_tab_opened "فُتح لسان جديد">
-
+<!ENTITY new_private_tab_opened "فُتِح لسان خاص جديد">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "بدّل">
 
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
@@ -75,9 +76,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "اللغة">
+<!ENTITY pref_browser_locale "لغة المتصفّح">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "مبدئي النظام">
 
 <!ENTITY pref_category_search3 "ابحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
@@ -115,15 +120,15 @@
 <!ENTITY pref_home_updates "التحديثات التلقائية">
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
-
+<!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
 <!ENTITY pref_header_display "العرض">
 <!ENTITY pref_header_privacy_short "الخصوصية">
-
-
+<!ENTITY pref_header_help "مساعدة">
+<!ENTITY pref_header_language "اللغة">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "أدوات المطورين">
 
@@ -232,6 +237,8 @@ size. -->
 <!ENTITY pref_update_autodownload_always "دائمًا">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "مساعدة">
+
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
@@ -339,8 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 
 <!ENTITY home_history_title "التأريخ">
-
-
+<!ENTITY home_clear_history_button "امسح تأريخ التصفح">
+<!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
 <!ENTITY home_last_tabs_title "الألسنة من المرة السابقة">
 <!ENTITY home_last_tabs_open "افتح كل الألسنة من المرة السابقة">
@@ -460,3 +467,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "آخر مزامنة: &formatS;">
