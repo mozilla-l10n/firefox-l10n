@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "បាន​ផ្ញើ​ផ្ទាំង​របស់​អ្នក !">
 <!ENTITY sync.text.tab.not.sent.label "មាន​បញ្ហា​ក្នុង​ការ​ផ្ញើ​ផ្ទាំង​របស់​អ្នក ។">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "គណនី Firefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
-
+<!ENTITY fxaccount_status_device_name "ឈ្មោះ​ឧបករណ៍">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: បាន​បើក">
 <!ENTITY fxaccount_status_needs_verification2 "ចាំបាច់​ត្រូវ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក។ ប៉ះ​ដើម្បី​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់​ឡើង​វិញ។">
