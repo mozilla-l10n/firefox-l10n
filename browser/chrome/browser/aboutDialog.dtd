@@ -8,7 +8,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Sjå etter oppdateringar">
+<!ENTITY update.checkForUpdatesButton.label       "Søk etter oppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
 <!ENTITY update.updateButton.label                "Start på nytt for å oppdatera">
 <!ENTITY update.updateButton.accesskey            "S">
@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " er eit ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalt samfunn">
-<!ENTITY community.exp.end          " som jobbar saman for å halde verdensveven open, allmenn og tilgjengeleg for alle.">
+<!ENTITY community.exp.end          " som jobbar saman for å halda verdensveven open, allmenn og tilgjengeleg for alle.">
 
 <!ENTITY community.start2           "&brandShortName; er utvikla av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -100,5 +100,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Du brukar no oppdateringskanalen  ">
+<!ENTITY channel.description.start  "Du nyttar no oppdateringskanalen  ">
 <!ENTITY channel.description.end    ". ">
