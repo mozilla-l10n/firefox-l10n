@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
 <!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "حسابات فَيَرفُكس">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
-
+<!ENTITY fxaccount_status_device_name "اسم الجهاز">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: مُفعّل">
 
