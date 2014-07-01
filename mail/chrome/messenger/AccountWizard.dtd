@@ -30,7 +30,7 @@
   2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(օրինակ՝ &quot;John Smith&quot;)">
-<!ENTITY fullnameLabel.label "Ձեր անունը.">
+<!ENTITY fullnameLabel.label "ឈ្មោះ​របស់​អ្នក ៖">
 <!ENTITY fullnameLabel.accesskey "Y">
 
 <!ENTITY emailLabel.label "Էլ. հասցեներ.">
@@ -39,18 +39,18 @@
 
 
 <!ENTITY incomingTitle.label "ព័ត៌មាន​ម៉ាស៊ីន​មេ​ចូល">
-<!ENTITY incomingServerTypeDesc.label "Ընտրեք մուտքային սպասարկիչի տեսակը։">
+<!ENTITY incomingServerTypeDesc.label "ជ្រើស​ប្រភេទ​ម៉ាស៊ីន​បម្រើ​ចូល​ដែល​អ្នក​កំពុង​ប្រើ។">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Թողնել նամակները սպասարկիչում">
+<!ENTITY leaveMsgsOnSrvr.label "ទុក​សារ​នៅ​លើ​ម៉ាស៊ីន​បម្រើ">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label "Դարպասը.">
+<!ENTITY portNum.label "ច្រក ៖">
 <!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Ծրագրային.">
+<!ENTITY defaultPortLabel.label "លំនាំដើម៖">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​មេ​ចូល​របស់​អ្នក (ឧទាហរណ៍៖ &quot;mail.example.net&quot;)។">
