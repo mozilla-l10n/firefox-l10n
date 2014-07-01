@@ -6,7 +6,7 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Sjå etter oppdateringar">
+<!ENTITY update.checkForUpdatesButton.label       "Søk etter oppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
 <!ENTITY update.updateButton.label                "Start på nytt for å oppdatera">
 <!ENTITY update.updateButton.accesskey            "S">
@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; er oppdatert">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Oppdateringar er avslått av systemansvarleg">
+<!ENTITY update.adminDisabled       "Oppdateringar er slått av av systemansvarleg">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Du brukar no oppdateringskanalen ">
+<!ENTITY channel.description.start  "Du nyttar no oppdateringskanalen">
 <!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
