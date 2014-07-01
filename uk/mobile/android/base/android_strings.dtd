@@ -85,7 +85,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку пошуковиків довгим натисканням по його пошуковому полю, а потім тицьнувни по іконці &formatI;.">
 <!ENTITY pref_category_devtools "Інструменти розробника">
-<!ENTITY pref_developer_remotedebugging "Віддалена відладка">
+<!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_developer_remotedebugging_docs "Дізнатись більше">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
 
@@ -197,7 +197,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Надсилає до &vendorShortName; дані про здоров’я вашого браузера та допомогає вам дізнатись більше про його швидкодію">
 <!ENTITY datareporting_abouthr_title "Переглянути Звіт про здоров’я">
 <!ENTITY datareporting_telemetry_title "Телеметрія">
-<!ENTITY datareporting_telemetry_summary "Надсилає до &vendorShortName; дані про швидкодію та використання браузера, а також про ваші обладнання та налаштування, щоб допомогти нам зробити &brandShortName; кращим">
+<!ENTITY datareporting_telemetry_summary "Надсилає до &vendorShortName; дані про швидкодію та використання браузера, а також про ваше апаратне забезпечення та налаштування, щоб допомогти нам зробити &brandShortName; кращим">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; надсилає до  &vendorShortName; звіти про падіння, щоб зробити ваш браузер стабільнішим та безпечнішим">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -225,7 +225,7 @@ size. -->
 <!ENTITY share_image_failed "Не вдалось поділитись зображенням">
 <!ENTITY save_as_pdf "Зберегти як PDF">
 <!ENTITY find_in_page "Знайти на сторінці">
-<!ENTITY desktop_mode "Вимагати десктопного сайту">
+<!ENTITY desktop_mode "Вимагати десктопний сайт">
 <!ENTITY page "Сторінка">
 <!ENTITY tools "Інструменти">
 <!ENTITY new_tab "Нова вкладка">
@@ -234,8 +234,8 @@ size. -->
 <!ENTITY tabs_normal "Вкладки">
 <!ENTITY tabs_private "Потайливі">
 <!ENTITY tabs_synced "Синхронізовані">
-<!ENTITY set_image_fail "Неможливо встановити малюнок">
-<!ENTITY set_image_chooser_title "Встановити малюнок як">
+<!ENTITY set_image_fail "Неможливо встановити зображення">
+<!ENTITY set_image_chooser_title "Встановити зображення як">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
