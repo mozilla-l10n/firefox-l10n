@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title Mobile
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,11 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser Firefox: Tungkol sa iyong browser
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
-
 
 
 
@@ -47,6 +49,7 @@
 
 
 
+#define bookmarks_addons Firefox: I-customize gamit ang add-ons
 
 
 
@@ -54,14 +57,11 @@
 
 
 
-
-
-
 # link title for https://support.mozilla.org/mobile
 
 
 
-
+#define bookmarks_support Firefox: Support
 
 
 
@@ -69,16 +69,11 @@
 
 
 
-
-
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
-
+#define bookmarks_marketplace Firefox Marketplace
 
 
 

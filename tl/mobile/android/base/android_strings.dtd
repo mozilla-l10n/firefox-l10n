@@ -9,25 +9,28 @@
 <!ENTITY  history_title "History">
 <!ENTITY  reading_list_title "Talaan ng mga Babasahin">
 
+<!ENTITY  switch_to_tab "Lumipat ng tab">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 
 
 
 <!ENTITY  crash_sorry "Ipagpaumahin po">
+<!ENTITY  crash_comment "Mag-comment (ang mga comment ay kita ng publiko)">
+
+<!ENTITY  crash_email "Email mo">
 
 
-
-
-
-
+<!ENTITY  crash_close_label "Isarado">
 <!ENTITY  crash_restart_label "Mag-restart &brandShortName;">
+<!ENTITY  exit_label "Lumabas">
 
 
 
+<!ENTITY choose_file "Pumili ng File">
 
 
-
+<!ENTITY bookmark "Bookmark">
 
 
 
@@ -38,7 +41,8 @@
 
 
 
-
+<!ENTITY go "Go">
+<!ENTITY search "Hanapin">
 
 
 
