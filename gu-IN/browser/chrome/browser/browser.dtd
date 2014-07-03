@@ -16,7 +16,7 @@
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "સ્થાન ખોલો...">
-<!ENTITY openLocationCmd.accesskey "L">
+
 <!ENTITY openFileCmd.label "ફાઈલ ખોલો...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -32,7 +32,7 @@
 <!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY navbarCmd.label "શોધખોળ સાધનપટ્ટી">
-<!ENTITY navbarCmd.accesskey "N">
+
 <!ENTITY personalbarCmd.label "બુકમાર્કો સાધનપટ્ટી">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "બુકમાર્કો સાધનપટ્ટી વસ્તુઓ">
@@ -68,16 +68,16 @@
 
 
 <!ENTITY backCmd.label                "પાછળ">
-<!ENTITY backCmd.accesskey            "B">
+
 <!ENTITY backButton.tooltip           "એક પાનું પાછળ જાવ">
 <!ENTITY forwardCmd.label             "આગળ">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "એક પાનું આગળ જાવ">
 <!ENTITY reloadCmd.label              "પુનઃલાવો">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "વર્તમાન પાનું પુનઃલાવો">
 <!ENTITY stopCmd.label                "અટકાવો">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "આ પાનું લાવવાનું અટકાવો">
 <!ENTITY goEndCap.tooltip             "સ્થાન પટ્ટીમાં સરનામા પર જાવ">
@@ -86,17 +86,15 @@
 
 <!ENTITY locationItem.title           "સ્થાન">
 <!ENTITY searchItem.title             "શોધો">
-<!ENTITY throbberItem.title           "ક્રિયા સૂચક">
-<!ENTITY bookmarksItem.title          "બુકમાર્કો">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "ઘર">
 
 <!ENTITY bookmarksButton.label          "બુકમાર્કો">
-<!ENTITY bookmarksButton.tooltip        "તમારી બુકમાર્કો દર્શાવો">
+
 
 <!ENTITY historyButton.label            "ઇતિહાસ">
-<!ENTITY historyButton.tooltip          "તમે છેલ્લે જુએલા પાનાંઓ દર્શાવો">
+
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "સાધનો">
@@ -105,7 +103,7 @@
 <!ENTITY keywordfield.label           "આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY downloads.label              "ડાઉનલોડ">
-<!ENTITY downloads.tooltip            "ચાલુ રહેલ ડાઉનલોડની પ્રગતિ દર્શાવો">
+
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -229,7 +227,7 @@
 <!ENTITY setDesktopBackgroundCmd.label      "ડેસ્કટોપ પાશ્વ ભાગ તરીકે સુયોજિત કરો...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label        "આ પાનું બુકમાર્ક કરો...">
-<!ENTITY bookmarkPageCmd2.accesskey    "m">
+
 <!ENTITY bookmarkThisLinkCmd.label        "આ કડી બુકમાર્ક કરો...">
 <!ENTITY bookmarkThisLinkCmd.accesskey    "L">
 <!ENTITY bookmarkThisFrameCmd.label       "આ ચોકઠું બુકમાર્ક કરો...">
@@ -279,12 +277,9 @@
 <!ENTITY fullZoom.label                 "લખાણ માપ">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newWindowButton.tooltip        "નવી વિન્ડો ખોલો">
+
 <!ENTITY sidebarCloseButton.tooltip     "બાજુપટ્ટી બંધ કરો">
 
-<!ENTITY cutButton.tooltip              "કાપો">
-<!ENTITY copyButton.tooltip             "નકલ કરો">
-<!ENTITY pasteButton.tooltip            "ચોંટાડો">
 
 <!ENTITY quitApplicationCmdWin.label       "બહાર નીકળો"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -406,29 +401,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
-<!ENTITY newTabButton.tooltip           "નવી ટૅબ ખોલો">
-<!ENTITY addonBarCmd.accesskey "A">
-<!ENTITY addonBarCmd.label "ઍડ-ઑન પટ્ટી">
+
+
+
 <!ENTITY addons.commandkey            "A">
-<!ENTITY appMenuButton.label          "મેનુ">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; મેનુને શોધો">
+
+
 <!ENTITY appMenuCustomize.label "વૈવિધ્યપૂર્ણ બનાવો">
-<!ENTITY appMenuEdit.label "ફેરફાર કરો">
-<!ENTITY appMenuFind.label "શોધો…">
-<!ENTITY appMenuGettingStarted.label "શરૂ થઇ રહ્યુ છે">
-<!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY appMenuSafeMode.label "નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…">
+
+
+
 <!ENTITY appMenuSidebars.label "બાજુપટ્ટીઓ">
-<!ENTITY appMenuToolbarLayout.label "સાધનપટ્ટી લેઆઉટ…">
-<!ENTITY appMenuUnsorted.label "ક્રમ ન થયેલ બુકમાર્કો">
-<!ENTITY appMenuWebDeveloper.label "વેબ ડેવલપર">
-<!ENTITY backForwardItem.title        "પાછા જાઓ/આગળ ધપાવો">
+
+
+
+
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "બધા ટૅબને બુકમાર્ક કરો…">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksMenuButton.label          "બુકમાર્કો">
-<!ENTITY bookmarksMenuButton.tooltip        "તમારા બુકમાર્કોને દર્શાવો">
+
 <!ENTITY bookmarksMenuButton.unsorted.label "ક્રમ ન થયેલ બુકમાર્કો">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY clearRecentHistory.label               "તાજેતરનાં ઇતિહાસને સાફ કરો…">
@@ -436,9 +429,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
 <!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  closeTab.label                     "ટૅબને બંધ કરો">
-<!ENTITY feedButton.label             "ઉમેદવારી કરો">
-<!ENTITY feedButton.tooltip           "આ પાનામાં ઉમેદવારી કરો…">
-<!ENTITY fullScreenButton.tooltip       "સંપૂર્ણ સ્ક્રીનમાં વિન્ડોને દર્શાવો">
+
+
+
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY historyRestoreLastSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
 
@@ -466,7 +459,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "હવે સીંક કરો">
 <!ENTITY syncToolbarButton.label      "સીંક">
 <!ENTITY tabGroupsButton.label        "ટૅબ જૂથો">
-<!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબનું જૂથ બનાવો">
+
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ">
 <!ENTITY undoCloseTab.accesskey             "U">
@@ -474,22 +467,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY urlbar.switchToTab.label     "ટૅબને ખસેડો:">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoFullScreen.label       "સંપૂર્ણ સ્ક્રીન">
-<!ENTITY viewBookmarksSidebar.label         "બાજુપટ્ટીમાં બતાવો">
+
 <!ENTITY viewBookmarksToolbar.label         "બુકમાર્ક સાધનપટ્ટીને દર્શાવો">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageInfoCmd.label       "ઇમેજ જાણકારીને દર્શાવો">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewTabGroups.label            "ટૅબ જૂથો">
-<!ENTITY viewTabsOnTop.accesskey        "T">
-<!ENTITY viewTabsOnTop.label            "ઊંચે ટૅબ">
-<!ENTITY zoomControls.label             "નાનું મોટુ કરવા માટે નિયંત્રણો">
-<!ENTITY zoomInButton.tooltip           "મોટુ કરો">
-<!ENTITY zoomOutButton.tooltip          "નાનું કરો">
+
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmd2.label       "વિકલ્પો">
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
-<!ENTITY addonBarCloseButton.tooltip  "એડ-ઓન પટ્ટીને બંધ કરો">
-<!ENTITY toggleAddonBarCmd.key        "/">
+
+
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 <!ENTITY getMoreDevtoolsCmd.label        "વધારે સાધનો મેળવો">
 <!ENTITY scratchpad.accesskey         "s">
@@ -539,7 +528,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "ઇમેલ વીડિયો…">
 <!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY social.notLoggedIn.label   "પ્રવેશેલ નથી">
+
 
 <!ENTITY socialToolbar.title        "સામાજિક સાધનપટ્ટી બટન">
 
@@ -554,7 +543,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "વહેંચવા માટે માઇક્રોફોન:">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY hidePluginCmd.label          "આ પ્લગઇન છુપાવો">
-<!ENTITY mixedContentBlocked.helplink "વધુ શીખો">
+
 <!ENTITY mixedContentBlocked.moreinfo "આ વિષયવસ્તુ અટકાવવામાં આવશે છતાંય મોટા ભાગની વેબસાઇટો યોગ્ય રીતે કામ કરશે.">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newPrivateWindow.label     "નવી ખાનગી વિન્ડો">
@@ -624,6 +613,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "પરવાનગી આપો અને યાદ રાખો">
 <!ENTITY pluginActivateNow.label "હવે પરવાનગી આપો">
 <!ENTITY pluginBlockNow.label "બ્લોક પ્લગઇન">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotificatio	n.showAll.accesskey "S">
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
 
