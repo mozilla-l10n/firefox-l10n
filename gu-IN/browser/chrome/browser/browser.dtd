@@ -613,7 +613,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "પરવાનગી આપો અને યાદ રાખો">
 <!ENTITY pluginActivateNow.label "હવે પરવાનગી આપો">
 <!ENTITY pluginBlockNow.label "બ્લોક પ્લગઇન">
-<!ENTITY pluginNotificatio	n.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
 
 <!ENTITY appMenuCustomize.tooltip "મેનુ અને સાધનપટ્ટીને વૈવિધ્યપૂર્ણ બનાવો">
