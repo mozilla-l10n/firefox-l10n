@@ -20,7 +20,7 @@
 <!ENTITY hideOtherAppsCmd.key "O">
 <!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
 <!ENTITY showAllAppsCmd.label "Zobrazit vše">
-<!ENTITY quitApplicationCmd.label "Ukončit">
+<!ENTITY quitApplicationCmd.label "Ukončit &brandShortName;">
 <!ENTITY quitApplicationCmd.key "k">
 <!ENTITY quitApplicationCmd.modifiers "accel">
 <!-- End of Application menu -->
