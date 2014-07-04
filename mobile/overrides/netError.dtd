@@ -123,10 +123,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Drošais savienojums neizdevās">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Lapu, ko mēģināt aplūkot, nevar parādīt, jo nav iespējams pārbaudīt saņemto datu autentiskumu.</li>
-  <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu vai ziņojiet par bojātu lapu, izmantojot komandu Palīdzības izvēlnē.</li>
+  <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li>
 </ul>
 ">
 
