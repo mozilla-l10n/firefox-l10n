@@ -19,3 +19,8 @@
 <!ENTITY errorTimeout "ભૂલ: જોડાણ સમયસમાપ્તિ.">
 <!ENTITY errorRefused "ભૂલ: જોડાણ નામંજૂર થયેલ.">
 <!ENTITY errorUnexpected "અનિચ્છનીય ભૂલ.">
+
+<!ENTITY availableAddons "ઉપલબ્ધ રિમોટ ઍડ-ઓન:">
+<!ENTITY remoteDocumentation "દસ્તાવેજીકરણ">
+<!ENTITY remoteHelpSuffix ".">
+<!ENTITY remoteHelp "Firefox ડેવલપર સાધનોને દૂરસ્થ ઉપકરણોને ડિબગ કરી શકો છો (Android અને Firefox OS માટે Firefox, ઉદાહરણ તરીકે). ખાતરી કરો કે તમે દૂરસ્થ ઉપકરણમાં 'દૂરસ્થ ડિબગીંગ' વિકલ્પને ચાલુ કરેલ છે. વધારે માટે, જુઓ ">
