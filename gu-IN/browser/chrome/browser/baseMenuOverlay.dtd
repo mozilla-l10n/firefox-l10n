@@ -47,3 +47,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY productHelp.label        "&brandShortName; મદદ">
 <!ENTITY productHelp.accesskey    "H">
+
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.label     "કિબોર્ડ ટૂંકાણો">
+<!ENTITY helpShowTour.label             "&brandShortName; ટુર">
+<!ENTITY helpShowTour.accesskey         "o">
