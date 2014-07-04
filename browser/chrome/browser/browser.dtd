@@ -616,3 +616,76 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotificatio	n.showAll.accesskey "S">
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
 
+<!ENTITY appMenuCustomize.tooltip "મેનુ અને સાધનપટ્ટીને વૈવિધ્યપૂર્ણ બનાવો">
+<!ENTITY appMenuCustomizeExit.label "વૈવિધ્યપૂર્ણ કરવાનું બંધ કરો">
+<!ENTITY appMenuCustomizeExit.tooltip "વૈવિધ્યપૂર્ણ કરવાનું સમાપ્ત કરો">
+<!ENTITY appMenuHelp.tooltip "મદદ મેનુને ખોલો">
+<!ENTITY appMenuHistory.clearRecent.label "તાજેતરનાં ઇતિહાસને સાફ કરો…">
+<!ENTITY appMenuHistory.label "ઇતિહાસ">
+<!ENTITY appMenuHistory.restoreSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
+<!ENTITY appMenuHistory.showAll.label "બધા ઇતિહાસને બતાવો">
+<!ENTITY appMenuHistory.viewSidebar.label "ઇતિહાસ બાજુપટ્ટીને જુઓ">
+<!ENTITY appmenu.tooltip                     "મેનુ ખોલો">
+<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label     "બ્રાઉઝર સાધનબોક્સ">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.addMoreItems.label "વધારે વસ્તુઓને ઉમેરો…">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.addToPanel.label "મેનુમાં ઉમેરો">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToToolbar.label "સાધનપટ્ટીમાં ઉમેરો">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.label "મેનુમાં ખસેડો">
+<!ENTITY customizeMenu.moveToToolbar.label "સાધનપટ્ટીમાં ખસેડો">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.removeFromMenu.label "મેનુમાંથી દૂર કરો">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.removeFromToolbar.label "સાધનપટ્ટીમાંથી દૂર કરો">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMode.menuAndToolbars.empty "વધારે સાધનો ઇચ્છો છો?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "હજારો ઍડ-ઓનમાંથી પસંદ કરો">
+<!ENTITY customizeMode.menuAndToolbars.header2 "વધારાનાં સાધનો અને સંગ્રહો">
+<!ENTITY customizeMode.restoreDefaults "મૂળભૂતને પુન:સંગ્રહો">
+<!ENTITY customizeMode.tabTitle "&brandShortName; વૈવિધ્યપૂર્ણ બનાવો">
+<!ENTITY customizeMode.titlebar "શીર્ષક પટ્ટી">
+<!ENTITY customizeMode.toolbars "સાધનપટ્ટીને બતાવો / છુપાડો">
+<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY devAppMgrMenu.label               "કાર્યક્રમ સંચાલક">
+<!ENTITY devToolboxMenuItem.keytext        "I">
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+<!ENTITY editThisBookmarkCmd.label "આ બુકમાર્કમાં ફેરફાર કરો">
+<!ENTITY eyedropper.accesskey "Y">
+<!ENTITY eyedropper.label   "આઇડ્રોપર">
+<!ENTITY feedsMenu.label "ઉમેદવારી નોંધાવો">
+<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY fullscreenExitHint2.value "કોઇપણ સમયે બહાર નીકળવા માટે ESC દબાવો.">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; માં પ્રવેશો">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; સાથે પુન:જોડાવો">
+<!ENTITY identity.help.tooltip "કેવી રીતે હું કહુ  જો વેબસાઇ સાથેનું મારુ જોડાણ સુરક્ષિત છે?">
+<!ENTITY identity.permissions "પરવાનગીઓ">
+<!ENTITY navbarOverflow.label                "વધારે સાધનો…">
+<!ENTITY pluginNotification.width "28em">
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; માંથી બહાર નીકળો">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "માં કડી સંગ્રહો…">
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "માં પાનુ સંગ્રહો…">
+<!ENTITY switchToMetroCmd2.label       "Windows 8 ટચ માટે &brandShortName; ને પુન:શરૂ કરો">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; માં જોડાઇ શકાતુ નથી">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
+<!ENTITY syncErrorPanel.signInButton.label "પ્રવેશો">
+<!ENTITY syncErrorPanel.subTitle "સુમેળ કરવાનું પુન:શરૂ કરવા માટે મહેરબાની કરીને પ્રવેશો.">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; માં પુન:જોડાવો…">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; સક્રિય">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; એ સમન્વય રીતે સુમેળ કરવાનું શરૂ કરશે.">
+<!ENTITY tabCrashed.checkSendReport "આ ભંગાણ વિશે &vendorShortName; કહો તેથી તેઓ તેને સુધારી શકે છે.">
+<!ENTITY tabCrashed.header "ટૅબ ભાંગી ગયુ">
+<!ENTITY tabCrashed.message "સારુ, આ શરમજનક છે. અમે આ વેબ પાનાંને દર્શાવવા માચે પ્રયત્ન કરેલ છે, પરંતુ તે જવાબ આપી રહ્યુ નથી.">
+<!ENTITY tabCrashed.tryAgain "ફરી પ્રયત્ન કરો">
+<!ENTITY uiTour.infoPanel.close "બંધ કરો">
+<!ENTITY viewBookmarksSidebar2.label        "બુકમાર્ક બાજુપટ્ટીને જુઓ">
+<!ENTITY viewImageDescCmd.accesskey   "D">
+<!ENTITY viewImageDescCmd.label       "વર્ણનને જુઓ">
+
