@@ -8,10 +8,10 @@
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
-<!ENTITY  crash_reporter_title "&brandShortName; összeomlás-bejelentő">
+<!ENTITY  crash_reporter_title "&brandShortName; hibajelentő">
 <!ENTITY  crash_message "A &brandShortName; összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
 <!ENTITY  crash_help_message "Segítsen kijavítani a hibát!">
-<!ENTITY  crash_send_report_message "Küldjön hibabejelentést a Mozillának">
+<!ENTITY  crash_send_report_message "Küldjön hibajelentést a Mozillának">
 <!ENTITY  crash_include_url "Az oldal címének mellékelése">
 <!ENTITY  crash_close_label "Bezárás">
 <!ENTITY  crash_restart_label "A &brandShortName; újraindítása">

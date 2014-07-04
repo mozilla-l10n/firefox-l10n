@@ -201,10 +201,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Állapotjelentés megjelenítése">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
-<!ENTITY datareporting_crashreporter_summary "A &brandShortName; összeomlás-jelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
+<!ENTITY datareporting_crashreporter_summary "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Összeomlás-jelentő">
+<!ENTITY datareporting_crashreporter_title_short "Hibajelentő">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; földrajzihely-szolgáltatás">
 <!ENTITY datareporting_wifi_geolocation_summary "Wi-Fi és mobilos földrajzihely-adatok fogadása a háttérben futva, és azok megosztása a &vendorShortName;val a földrajzihely-szolgáltatásunk fejlesztése érdekében">
 
