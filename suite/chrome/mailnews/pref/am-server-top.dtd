@@ -10,7 +10,7 @@
 <!ENTITY serverType.label "Typ serveru:">
 <!ENTITY serverName.label "Adresa serveru:">
 <!ENTITY serverName.accesskey "e">
-<!ENTITY userName.label "Jméno uživatele:">
+<!ENTITY userName.label "Uživatelské jméno:">
 <!ENTITY userName.accesskey "J">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "o">
