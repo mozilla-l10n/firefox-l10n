@@ -23,11 +23,11 @@
 <!ENTITY AddHtmlDomain.label          "Hozzáadás…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.label           "Hozzáadás…">
-<!ENTITY AddPlainText.accesskey       "o">
+<!ENTITY AddPlainText.accesskey       "H">
 <!ENTITY DeleteHtmlDomain.label       "Törlés">
 <!ENTITY DeleteHtmlDomain.accesskey   "T">
 <!ENTITY DeletePlainText.label        "Törlés">
-<!ENTITY DeletePlainText.accesskey    "r">
+<!ENTITY DeletePlainText.accesskey    "T">
 
 <!ENTITY add.htmltitle                "HTML-levelet fogadni képes tartomány felvétele">
 <!ENTITY add.htmldomain               "HTML-levelet fogadni képes tartományok:">
