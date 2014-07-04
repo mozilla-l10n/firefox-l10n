@@ -15,7 +15,7 @@
 <!ENTITY sendBoth.accesskey "O">
 <!ENTITY override.label "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
 
-<!ENTITY domaindesc.label "Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
+<!ENTITY domaindesc.label "Když pošlete zprávu na adresu v jedné z domén uvedených níže, &brandShortName; automaticky zprávu odešle ve správném formátu.">
 <!ENTITY HTMLTab.label "Domény pro HTML">
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Domény pro prostý text">
