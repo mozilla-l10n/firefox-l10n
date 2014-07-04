@@ -57,3 +57,48 @@
 
 <!ENTITY debuggerUI.showOriginalSource      "મૂળભૂત સ્ત્રોતને બતાવો">
 
+<!ENTITY debuggerUI.addWatch.accesskey  "E">
+<!ENTITY debuggerUI.autoPrettyPrint     "નાનાં સ્ત્રોતને સ્વયં શણગાણેલ છે">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
+<!ENTITY debuggerUI.blackBoxMessage.label "આ સ્ત્રોત બ્લેક બોક્સ થયેલ છે: તેનાં બ્રેકપોઇંટને નિષ્ક્રિય કરેલ છે, અને તેના મારફતે અવગણી શકાય છે.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "આ સ્ત્રોતને બ્લેક બોક્સીગ કરવાનુ બંધ કરો">
+<!ENTITY debuggerUI.clearButton "સાફ કરો">
+<!ENTITY debuggerUI.clearButton.tooltip "સંગ્રહેલ ટ્રેસને સાફ કરો">
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "પકડેલ અપવાદોને અવગણો">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
+<!ENTITY debuggerUI.searchFile.accesskey "P">
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
+<!ENTITY debuggerUI.searchGoToLine           "લીટી પર જાવ…">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
+<!ENTITY debuggerUI.searchPanelOperators    "ઓપરેટર:">
+<!ENTITY debuggerUI.searchToken.accesskey "F">
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "ટોગલ બ્લેક બોક્સીંગ">
+<!ENTITY debuggerUI.sources.prettyPrint "શણગાણેલ સ્ત્રોત">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "બધા બ્રેકપોઇંટને સક્રિય/નિષ્ક્રિય કરો">
+<!ENTITY debuggerUI.startTracing "ટ્રેસીંગ શરૂ કરો">
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
+<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
+<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
+<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+<!ENTITY debuggerUI.tabs.callstack      "કોલ સ્ટૅક">
+<!ENTITY debuggerUI.tabs.events         "ઘટનાઓ">
+<!ENTITY debuggerUI.tabs.sources        "સ્ત્રોત">
+<!ENTITY debuggerUI.tabs.traces         "ટ્રેસ">
+<!ENTITY debuggerUI.tabs.variables      "ચલ">
+
+
