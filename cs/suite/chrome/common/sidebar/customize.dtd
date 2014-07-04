@@ -6,9 +6,9 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 
 
-<!ENTITY sidebar.customize.title.label "Přizpůsobení lišty">
+<!ENTITY sidebar.customize.title.label "Přizpůsobení &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label "Panely:">
+<!ENTITY sidebar.customize.current.label "Panely na &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey "P">
 <!ENTITY sidebar.customize.customize.label "Přizpůsobit panel…">
 <!ENTITY sidebar.customize.customize.accesskey "P">
