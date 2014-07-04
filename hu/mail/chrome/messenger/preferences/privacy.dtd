@@ -27,9 +27,9 @@
 <!ENTITY close.label "a &brandShortName; bezárásáig">
 <!ENTITY askEachTime.label "megerősítés minden alkalommal">
 <!ENTITY cookieExceptions.label "Kivételek…">
-<!ENTITY cookieExceptions.accesskey "v">
+<!ENTITY cookieExceptions.accesskey "K">
 <!ENTITY showCookies.label "Sütik megtekintése…">
-<!ENTITY showCookies.accesskey "t">
+<!ENTITY showCookies.accesskey "S">
 
 <!ENTITY dntTrackingNopref.label2 "Az oldalakkal ne közölje a követési preferenciáimat">
 <!ENTITY dntTrackingNopref.accesskey "o">
