@@ -21,7 +21,7 @@ sentence. -->
 <!ENTITY andSetStatusToAway.accesskey  "A">
 
 <!ENTITY  sendTyping.label              "A beszélgetések során értesítés küldése a gépelésről">
-<!ENTITY sendTyping.accesskey          "t">
+<!ENTITY sendTyping.accesskey          "k">
 
 <!ENTITY  chatNotifications.label             "Önnek címzett új üzenet érkezésekor:">
 <!ENTITY  desktopChatNotifications.label      "Értesítés megjelenítése">
@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  systemSound.label                   "Alapértelmezett rendszerhang az új üzenethez">
 <!ENTITY systemSound.accesskey               "A">
 <!ENTITY  customsound.label                   "A következő hangfájl használata">
-<!ENTITY customsound.accesskey               "h">
+<!ENTITY customsound.accesskey               "v">
 <!ENTITY  browse.label                        "Tallózás…">
 <!ENTITY browse.accesskey                    "T">
 
