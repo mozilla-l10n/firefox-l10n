@@ -25,9 +25,9 @@
 <!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
 
-<!ENTITY spellCheck.label                     "Helyesírás ellenőrzése a küldés előtt">
+<!ENTITY spellCheck.label                     "Helyesírás ellenőrzése küldés előtt">
 <!ENTITY spellCheck.accesskey                 "H">
-<!ENTITY spellCheckInline.label               "Helyesírás-ellenőrzés beírás közben">
+<!ENTITY spellCheckInline.label               "Helyesírás ellenőrzése beírás közben">
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Nyelv:">
 <!ENTITY languagePopup.accessKey              "N">
