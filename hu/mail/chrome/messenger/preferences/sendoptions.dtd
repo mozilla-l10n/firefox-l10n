@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Küldési beállítások">
+<!ENTITY dialog.title                 "Üzenetküldési beállítások">
 <!ENTITY sendMail.title               "Szövegformátum">
 <!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
 <!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő">
