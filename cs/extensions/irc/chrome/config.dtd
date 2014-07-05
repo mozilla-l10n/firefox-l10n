@@ -36,5 +36,5 @@
 <!ENTITY config.network.hint "Známe jméno sítě či serveru?">
 <!ENTITY config.network.accesskey "S">
 <!ENTITY config.target.label "Cíl:">
-<!ENTITY config.target.hint "Cílový kanál či jméno uživatele">
+<!ENTITY config.target.hint "Cílový kanál či uživatelské jméno">
 <!ENTITY config.target.accesskey "C">
