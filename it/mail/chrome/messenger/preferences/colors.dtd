@@ -9,7 +9,7 @@
 <!ENTITY allowPagesToUse.accesskey "C">
 <!ENTITY color "Testo e sfondo">
 <!ENTITY textColor.label "Testo:">
-<!ENTITY textColor.accesskey "t">
+<!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Sfondo:">
 <!ENTITY backgroundColor.accesskey "S">
 <!ENTITY useSystemColors.label "Utilizza colori personalizzati">
@@ -20,4 +20,4 @@
 <!ENTITY linkColor.label "Collegamenti non visitati:">
 <!ENTITY linkColor.accesskey "l">
 <!ENTITY visitedLinkColor.label "Collegamenti visitati:">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY visitedLinkColor.accesskey "V">
