@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "Přepnout na panel">
 
 
-<!ENTITY crash_reporter_title "Oznamovatel pádu">
+<!ENTITY crash_reporter_title "Hlášení pádů">
 <!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
 <!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházel(a)">
@@ -333,7 +333,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Tip: Uložte články do vašeho seznamu ke čtení dlouhým stisknutím ikony &#37;I, jakmile se zobrazí v hlavičce okna.">
+<!ENTITY home_reading_list_hint2 "Tip: Uložte články do vašeho seznamu ke čtení dlouhým stisknutím ikony &formatI;, jakmile se zobrazí v hlavičce okna.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: Uložte článek do svého seznamu ke čtení dlouhým stisknutím tlačítka režimu pro čtení, jakmile se zobrazí v hlavičce okna.">
