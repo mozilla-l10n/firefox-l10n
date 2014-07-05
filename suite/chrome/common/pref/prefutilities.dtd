@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY FallbackCharset.auto "По умолчанию для текущего языка">
+<!ENTITY FallbackCharset.arabic "Арабская">
+<!ENTITY FallbackCharset.baltic "Прибалтийская">
+<!ENTITY FallbackCharset.ceiso "Центральноевропейская, ISO">
+<!ENTITY FallbackCharset.cewindows "Центральноевропейская, Microsoft">
+<!ENTITY FallbackCharset.simplified "Китайская упрощённая">
+<!ENTITY FallbackCharset.traditional "Китайская традиционная">
+<!ENTITY FallbackCharset.cyrillic "Кириллица">
+<!ENTITY FallbackCharset.greek "Греческая">
+<!ENTITY FallbackCharset.hebrew "Иврит">
+<!ENTITY FallbackCharset.japanese "Японская">
+<!ENTITY FallbackCharset.korean "Корейская">
+<!ENTITY FallbackCharset.thai "Тайская">
+<!ENTITY FallbackCharset.turkish "Турецкая">
+<!ENTITY FallbackCharset.vietnamese "Вьетнамская">
+<!ENTITY FallbackCharset.other "Другая (в т.ч. Западноевропейская)">

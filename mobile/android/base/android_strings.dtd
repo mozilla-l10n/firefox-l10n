@@ -257,7 +257,7 @@
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY private_browsing_title "Приватный просмотр">
-<!ENTITY private_tabs_panel_description "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
+<!ENTITY private_tabs_panel_empty_desc "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
