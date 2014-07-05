@@ -6,7 +6,7 @@
 <!ENTITY aboutPage.warningVersion "&brandShortName; je experimentální verze a může být nestabilní.">
 <!ENTITY aboutPage.telemetryStart " Automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace ">
 <!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd " k vylepšení aplikace.">
+<!ENTITY aboutPage.telemetryEnd " k vylepšení aplikace &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
 <!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
 <!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
