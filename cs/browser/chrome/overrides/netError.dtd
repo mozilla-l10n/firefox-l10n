@@ -129,7 +129,7 @@ Personal Security Manager.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Chyba zabezpečeného spojení">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</li>
