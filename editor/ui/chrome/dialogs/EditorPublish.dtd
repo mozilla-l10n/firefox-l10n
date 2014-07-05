@@ -56,9 +56,9 @@
 <!ENTITY browseUrl.label "HTTP adresa domovské stránky (např. „http://www.isp.cz/uzivatel“):">
 <!ENTITY browseUrl.accesskey "H">
 <!ENTITY browseUrl.tooltip "HTTP adresa domovské stránky (neobsahuje název souboru)">
-<!ENTITY username.label "Jméno uživatele:">
+<!ENTITY username.label "Uživatelské jméno:">
 <!ENTITY username.accesskey "J">
-<!ENTITY username.tooltip "Jméno uživatele používané pro přihlášení k ISP nebo k hostingovým službám">
+<!ENTITY username.tooltip "Uživatelské jméno používané pro přihlášení k ISP nebo k hostingovým službám">
 <!ENTITY password.label "Heslo:">
 <!ENTITY password.accesskey "H">
 <!ENTITY password.tooltip "Heslo přiřazené k uživateli">
