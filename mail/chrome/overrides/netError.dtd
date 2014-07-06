@@ -71,8 +71,8 @@
 <!ENTITY netTimeout.title "Изтече времето за свързване">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Адресът не беше разпознат">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Адресът не беше разпознат">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Ще ви е необходим друг софтуер, за да отворите този адрес.</li> 
 </ul>">
 
@@ -105,7 +105,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Неуспешна защитена връзка">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Страницата, която се опитвате да видите, не може да бъде показана, защото автентичността на получените данни не може да бъде потвърдена.</li> 
 <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
 </ul>">

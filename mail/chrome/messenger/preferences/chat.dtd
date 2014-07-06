@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Изпращане на уводомявания за писане по време на разговор">
 <!ENTITY  sendTyping.accesskey          "п">
+
+<!ENTITY  chatNotifications.label             "Когато пристигне пряко съобщение до вас:">
+<!ENTITY  desktopChatNotifications.label      "Показване на уведомление">
+<!ENTITY  desktopChatNotifications.accesskey  "у">
+<!ENTITY  chatSound.accesskey                 "з">
+<!ENTITY  chatSound.label                     "Възпроизвеждане на звук">
+<!ENTITY  play.label                          "Възпроизвеждане">
+<!ENTITY  play.accesskey                      "В">
+<!ENTITY  systemSound.label                   "Стандартен системен звук за нови писма">
+<!ENTITY  systemSound.accesskey               "С">
+<!ENTITY  customsound.label                   "Използване на следния звуков файл">
+<!ENTITY  customsound.accesskey               "И">
+<!ENTITY  browse.label                        "Разглеждане…">
+<!ENTITY  browse.accesskey                    "Р">
+

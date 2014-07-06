@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label    "&brandFullName;">
-<!ENTITY titleSeparator.label " - ">
+<!ENTITY titleSeparator.label " – ">
 <!-- File Menu -->
 
 <!ENTITY newFolderCmd.label "Папка…">
@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "С">
 <!ENTITY newIMAccountCmd.label "Сметка за разговор…">
 <!ENTITY newIMAccountCmd.accesskey "С">
+<!ENTITY newFeedAccountCmd.label "Регистрация на емисия…">
+<!ENTITY newFeedAccountCmd.accesskey "е">
 <!ENTITY newIMContactCmd.label "Контакт за разговор…">
 <!ENTITY newIMContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
@@ -70,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "б">
 <!ENTITY synchronizeOfflineCmd.label "Изтегляне/Синхронизиране…">
 <!ENTITY synchronizeOfflineCmd.accesskey "х">
-<!ENTITY settingsOfflineCmd.label "Настройки…">
-<!ENTITY settingsOfflineCmd.accesskey "й">
+<!ENTITY settingsOfflineCmd2.label "Настройки на работа без мрежа…">
+<!ENTITY settingsOfflineCmd2.accesskey "й">
 <!ENTITY downloadSelectedCmd.label "Изтегляне на маркирани писма">
 <!ENTITY downloadSelectedCmd.accesskey "И">
 <!ENTITY downloadStarredCmd.label "Изтегляне на писмата с флаг">
@@ -108,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "з">
 <!ENTITY menuFavoriteFolder.label "Любима папка">
 <!ENTITY menuFavoriteFolder.accesskey "ю">
-<!ENTITY folderPropsCmd.label "Свойства…">
-<!ENTITY folderPropsFolderCmd.label "Свойства за папка…">
-<!ENTITY folderPropsNewsgroupCmd.label "Свойства за дискусионна група…">
-<!ENTITY folderPropsCmd.accesskey "й">
+<!ENTITY folderPropsCmd2.label "Свойства">
+<!ENTITY folderPropsFolderCmd2.label "Свойства за папка">
+<!ENTITY folderPropsNewsgroupCmd2.label "Свойства за дискусионна група">
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Отмяна Изтриване на писмо">
 <!ENTITY redoDeleteMsgCmd.label "Повторение Изтриване на писмо">
 <!ENTITY undoMoveMsgCmd.label "Отмяна Преместване на писмо">
@@ -158,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "ю">
 <!ENTITY recentFolders.label "Най-последни">
 <!ENTITY recentFolders.accesskey "Н">
+<!ENTITY compactVersion.label "Компактен изглед">
+<!ENTITY compactVersion.accesskey "К">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Подреждане по">
@@ -169,7 +173,7 @@
 <!ENTITY sortByStarCmd.label "Звезда">
 <!ENTITY sortByStarCmd.accesskey "в">
 <!ENTITY sortByAttachmentsCmd.label "Притурки">
-<!ENTITY sortByAttachmentsCmd.accesskey "у">
+<!ENTITY sortByAttachmentsCmd.accesskey "П">
 <!ENTITY sortByPriorityCmd.label "Приоритет">
 <!ENTITY sortByPriorityCmd.accesskey "П">
 <!ENTITY sortBySizeCmd.label "Размер">
@@ -311,8 +315,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
 <!ENTITY folderMenu.accesskey "а">
-<!ENTITY thisFolder.label "Тази папка">
-<!ENTITY thisFolder.accesskey "п">
 <!ENTITY goRecentlyClosedTabs.label "Наскоро затворени подпрозорци">
 <!ENTITY goRecentlyClosedTabs.accesskey "Н">
 <!ENTITY startPageCmd.label "Начална страница">
@@ -348,13 +350,13 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Препращане като">
 <!ENTITY forwardAsMenu.accesskey "щ">
-<!ENTITY forwardAsInline.label "Направо">
-<!ENTITY forwardAsInline.accesskey "р">
+<!ENTITY forwardAsInline.label "Вложено">
+<!ENTITY forwardAsInline.accesskey "В">
 <!ENTITY forwardAsAttachmentCmd.label "Притурка">
 <!ENTITY forwardAsAttachmentCmd.accesskey "у">
-<!ENTITY editMsgAsNewCmd.label "Редактиране на писмото като ново">
-<!ENTITY editMsgAsNewCmd.accesskey "Р">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Редактиране като ново">
+<!ENTITY editAsNewMsgCmd.accesskey "н">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Създаване на филтър от писмо…">
 <!ENTITY createFilter.accesskey "з">
 <!ENTITY moveMsgToMenu.label "Преместване в">
@@ -368,8 +370,8 @@
 <!ENTITY moveToFolderAgain.label "Преместване отново">
 <!ENTITY moveToFolderAgain.accesskey "в">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Игнориране на дискусия">
-<!ENTITY killThreadMenu.accesskey "И">
+<!ENTITY killThreadMenu.label "Пренебрегване на дискусия">
+<!ENTITY killThreadMenu.accesskey "П">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Игнориране на поддискусия">
 <!ENTITY killSubthreadMenu.accesskey "о">
@@ -377,10 +379,6 @@
 <!ENTITY watchThreadMenu.label "Наблюдаване на дискусия">
 <!ENTITY watchThreadMenu.accesskey "ю">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Записване тук">
-<!ENTITY fileHereMenu.accesskey "т">
-<!ENTITY copyHereMenu.label "Копиране тук">
-<!ENTITY copyHereMenu.accesskey "К">
 <!ENTITY tagMenu.label "Етикет">
 <!ENTITY tagMenu.accesskey "Е">
 <!ENTITY tagCmd0.key "0">
@@ -428,12 +426,12 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Притурки">
 <!ENTITY openAttachmentListCmd.accesskey "h">
-<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
-<!ENTITY openFeedMessage1.accesskey "O">
-<!ENTITY openFeedWebPage.label "Open as Web Page">
-<!ENTITY openFeedWebPage.accesskey "W">
-<!ENTITY openFeedSummary.label "Open as Summary">
-<!ENTITY openFeedSummary.accesskey "S">
+<!ENTITY openFeedMessage1.label "При отваряне на съобщения от емисия">
+<!ENTITY openFeedMessage1.accesskey "о">
+<!ENTITY openFeedWebPage.label "Отваряне като уеб страница">
+<!ENTITY openFeedWebPage.accesskey "у">
+<!ENTITY openFeedSummary.label "Отваряне като обобщение">
+<!ENTITY openFeedSummary.accesskey "о">
 <!ENTITY openFeedWebPageInMP.label "Превключване между уеб страница и извлечение">
 <!ENTITY openFeedWebPageInMP.accesskey "П">
 <!-- Windows Menu -->
@@ -463,8 +461,8 @@
 <!ENTITY savedFiles.label "Записани файлове">
 <!ENTITY savedFiles.accesskey "й">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Филтриране на писма…">
-<!ENTITY filtersCmd.accesskey "Ф">
+<!ENTITY filtersCmd2.label "Филтриране на писма">
+<!ENTITY filtersCmd2.accesskey "Ф">
 <!ENTITY filtersApply.label "Стартиране на филтри в папка">
 <!ENTITY filtersApply.accesskey "С">
 <!ENTITY filtersApplyToSelection.label "Стартиране на филтри върху избраните писма">
@@ -480,16 +478,18 @@
 <!ENTITY errorConsoleCmd.label "Конзола за грешки">
 <!ENTITY errorConsoleCmd.accesskey "н">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Настройки на регистрация…">
-<!ENTITY accountManagerCmd.accesskey "к">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY clearRecentHistory.label "Изчистване на скорошната хронология…">
+<!ENTITY clearRecentHistory.accesskey "х">
+<!ENTITY accountManagerCmd2.label "Настройки на регистрация">
+<!ENTITY accountManagerCmd2.accesskey "к">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "к">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Разрешаване на отдалечено дебъгване">
+<!ENTITY allowRemoteDebugging.accesskey "д">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Поща">
+<!ENTITY getMsgButton1.label "Изтегляне на писма">
 <!ENTITY newMsgButton.label "Писане на писмо">
 <!ENTITY replyButton.label "Отговор">
 <!ENTITY replyAllButton.label "Отговор до всички">
@@ -514,7 +514,7 @@
 <!ENTITY throbberItem.title "Индикатор за активност">
 <!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Нежелана поща">
-<!ENTITY notJunkButton.label "Желана поща">
+<!ENTITY notJunkButton.label "Нежелана поща">
 <!ENTITY addressBookButton.label "Адресник">
 <!ENTITY chatButton.label "Разговор">
 <!ENTITY glodaSearch.title "Всеобщо търсене">
@@ -535,6 +535,8 @@
 <!ENTITY replyAllButton.tooltip "Отговор до подателя и всички получатели">
 <!ENTITY replyListButton.tooltip "Отговор до пощенски списък">
 <!ENTITY forwardButton.tooltip "Препращане на избраното писмо">
+<!ENTITY forwardAsInline.tooltip "Препращане на избраното съобщение като вложен текст">
+<!ENTITY forwardAsAttachment.tooltip "Препращане на избраното съобщение като притурка">
 <!ENTITY fileButton.tooltip "Записване като файл">
 <!ENTITY archiveButton.tooltip "Архивиране на избраните съобщения">
 <!ENTITY nextButton.tooltip "Напред към следващото непрочетено писмо">
@@ -554,14 +556,33 @@
 <!ENTITY chatButton.tooltip "Показване на подпрозореца за разговори">
 <!ENTITY tagButton.tooltip "Писма с етикет">
 <!ENTITY compactButton.tooltip "Премахване на изтритите писма от избраната папка">
-<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+<!ENTITY appmenuButton1.tooltip "Показване менюто на &brandShortName;">
+<!-- Toolbar Button Popup -->
+
+<!ENTITY buttonMenuForwardAsInline.label "Препращане като вложено">
+<!ENTITY buttonMenuForwardAsAttachment.label "Препращане като притурки">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Показване на отдалеченото съдържание на това съобщение">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "П">
+<!ENTITY editRemoteContentSettings.label "Редактиране на настройките за отдалечено съдържание…">
+<!ENTITY editRemoteContentSettings.accesskey "Р">
+<!ENTITY editRemoteContentSettingsUnix.label "Редактиране на настройките за отдалечено съдържание…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "Р">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Пренебрегване на предупреждението за това съобщение">
+<!ENTITY phishingOptionIgnore.accesskey "П">
+<!ENTITY phishingOptionSettings.label "Редактиране на настройките за откриване на измами…">
+<!ENTITY phishingOptionSettings.accesskey "Р">
+<!ENTITY phishingOptionSettingsUnix.label "Редактиране на настройките за откриване на измами…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "Р">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Ново съобщение">
-<!ENTITY appmenuNewContactCmd.label "Address Book Contact…">
+<!ENTITY appmenuNewContactCmd.label "Контакт от адресника…">
 <!ENTITY appmenuEditMenu.label "Редакция">
-<!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
-<!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuToolbarLayout.label "Оформление на лентата с инструменти…">
 <!ENTITY appmenuSelectThread.label "Избор на нишка">
 <!ENTITY appmenuSelectFlagged.label "Изтегляне на писмата с флаг">
 <!-- Tags Menu Popup -->
@@ -578,8 +599,8 @@
 
 <!ENTITY folderContextGetMessages.label "Изтегляне на писма">
 <!ENTITY folderContextGetMessages.accesskey "И">
-<!ENTITY folderContextOpenNewWindow.label "Отваряне">
-<!ENTITY folderContextOpenNewWindow.accesskey "О">
+<!ENTITY folderContextOpenInNewWindow.label "Отваряне в нов прозорец">
+<!ENTITY folderContextOpenInNewWindow.accesskey "О">
 <!ENTITY folderContextOpenNewTab.label "Отваряне в нов подпрозорец">
 <!ENTITY folderContextOpenNewTab.accesskey "ц">
 <!ENTITY folderContextNew.label "Нова подпапка…">
@@ -606,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "б">
 <!ENTITY folderContextSearchForMessages.label "Търсене на писма…">
 <!ENTITY folderContextSearchForMessages.accesskey "Т">
-<!ENTITY folderContextProperties.label "Свойства…">
-<!ENTITY folderContextProperties.accesskey "й">
+<!ENTITY folderContextProperties2.label "Свойства">
+<!ENTITY folderContextProperties2.accesskey "й">
 <!ENTITY folderContextFavoriteFolder.label "Любима папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "ю">
-<!ENTITY folderContextSettings.label "Настройки…">
-<!ENTITY folderContextSettings.accesskey "й">
+<!ENTITY folderContextSettings2.label "Настройки">
+<!ENTITY folderContextSettings2.accesskey "й">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Име или е-поща, съдържащи:">
@@ -651,26 +672,26 @@
 <!ENTITY attachmentColumn.label "Притурки">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Изберете колони за показване">
-<!ENTITY threadColumn.tooltip "Изберете показване по дискусии">
-<!ENTITY fromColumn.tooltip "Изберете подреждане по подател">
-<!ENTITY recipientColumn.tooltip "Изберете подреждане по получател">
-<!ENTITY subjectColumn.tooltip "Изберете подреждане по тема">
-<!ENTITY dateColumn.tooltip "Изберете подреждане по дата">
-<!ENTITY priorityColumn.tooltip "Изберете подреждане по приоритет">
-<!ENTITY tagsColumn.tooltip "Изберете подреждане по етикети">
-<!ENTITY accountColumn.tooltip "Изберете подреждане по регистрация">
-<!ENTITY statusColumn.tooltip "Изберете подреждане по състояние">
-<!ENTITY sizeColumn.tooltip "Изберете подреждане по размер">
-<!ENTITY junkStatusColumn.tooltip "Изберете подреждане според статус нежелана поща">
-<!ENTITY unreadColumn.tooltip "Брой на непрочетени писма в дискусия">
-<!ENTITY totalColumn.tooltip "Общ брой на писмата в дискусията">
-<!ENTITY readColumn.tooltip "Изберете подреждане по прочетено">
-<!ENTITY receivedColumn.tooltip "Изберете подреждане по дата на получаване">
-<!ENTITY starredColumn.tooltip "Изберете подреждане по наличие на звезда">
-<!ENTITY locationColumn.tooltip "Изберете подреждане по местоположение">
-<!ENTITY idColumn.tooltip "Изберете подреждане по реда на получаване">
-<!ENTITY attachmentColumn.tooltip "Изберете подреждане по притурки">
+<!ENTITY columnChooser2.tooltip "Избиране на колони, които да се показват">
+<!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
+<!ENTITY fromColumn2.tooltip "Сортиране по подател">
+<!ENTITY recipientColumn2.tooltip "Сортиране по получател">
+<!ENTITY subjectColumn2.tooltip "Сортиране по тема">
+<!ENTITY dateColumn2.tooltip "Сортиране по дата">
+<!ENTITY priorityColumn2.tooltip "Сортиране по приоритет">
+<!ENTITY tagsColumn2.tooltip "Сортиране по етикети">
+<!ENTITY accountColumn2.tooltip "Сортиране по регистрация">
+<!ENTITY statusColumn2.tooltip "Сортиране по състояние">
+<!ENTITY sizeColumn2.tooltip "Сортиране по големина">
+<!ENTITY junkStatusColumn2.tooltip "Сортиране по състояние на нежелана поща">
+<!ENTITY unreadColumn2.tooltip "Брой на непрочетени писма в дискусия">
+<!ENTITY totalColumn2.tooltip "Общ брой на писмата в дискусията">
+<!ENTITY readColumn2.tooltip "Сортиране по състояние на прочетеност">
+<!ENTITY receivedColumn2.tooltip "Сортиране по дата на получаване">
+<!ENTITY starredColumn2.tooltip "Сортиране по звезда">
+<!ENTITY locationColumn2.tooltip "Сортиране по местоположение">
+<!ENTITY idColumn2.tooltip "Сортиране по реда на получаване">
+<!ENTITY attachmentColumn2.tooltip "Сортиране по притурки">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Отваряне на писмото в нов прозорец">
@@ -683,8 +704,10 @@
 <!ENTITY contextOpenNewTab.accesskey "ц">
 <!ENTITY contextOpenConversation.label "Отваряне на писмото в диалога">
 <!ENTITY contextOpenConversation.accesskey "я">
-<!ENTITY contextEditAsNew.label "Редактиране като ново…">
-<!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextOpenContainingFolder.label "Отваряне на съдържащата папка">
+<!ENTITY contextOpenContainingFolder.accesskey "п">
+<!ENTITY contextEditMsgAsNew.label "Редактиране като ново съобщение">
+<!ENTITY contextEditMsgAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архивиране">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Отговор само до подателя">
@@ -697,14 +720,24 @@
 <!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Препращане">
 <!ENTITY contextForward.accesskey "щ">
-<!ENTITY contextForwardAsAttachment.label "Препращане като притурки">
-<!ENTITY contextForwardAsAttachment.accesskey "т">
+<!ENTITY contextForwardAsMenu.label "Препращане като">
+<!ENTITY contextForwardAsMenu.accesskey "щ">
+<!ENTITY contextForwardAsInline.label "Вложено">
+<!ENTITY contextForwardAsInline.accesskey "В">
+<!ENTITY contextForwardAsAttachmentItem.label "Притурка">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "у">
+<!ENTITY contextMultiForwardAsAttachment.label "Препращане като притурки">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "т">
 <!ENTITY contextMoveMsgMenu.label "Преместване в">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Последни">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "П">
 <!ENTITY contextCopyMsgMenu.label "Копиране в">
 <!ENTITY contextCopyMsgMenu.accesskey "и">
+<!ENTITY contextKillThreadMenu.label "Пренебрегване на дискусия">
+<!ENTITY contextKillThreadMenu.accesskey "П">
+<!ENTITY contextKillSubthreadMenu.label "Пренебрегване на поддискусия">
+<!ENTITY contextWatchThreadMenu.label "Наблюдаване на дискусия">
 <!ENTITY contextSaveAs.label "Запис като…">
 <!ENTITY contextSaveAs.accesskey "а">
 <!ENTITY contextPrint.label "Печат…">
@@ -768,27 +801,6 @@
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Отглушаване">
 <!ENTITY contextUnmute.accesskey "О">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "&brandShortName; смята. че това съобщение е нежелано.">
-<!ENTITY junkBarButton1.label "Желана поща">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "За да защити вашата неприкосновеност, &brandShortName; блокира отдалеченото съдържание в това писмо.">
-<!ENTITY loadRemoteContentButton3.label "Показване на отдалечено съдържание">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Това писмо може би е измамно.">
-<!ENTITY removePhishingBarButton1.label "Пренебрегване">
-<!ENTITY disablePhishingWarning1.label "Изключване засичането на измамна поща за всички писма">
-<!ENTITY reportPhishingError1.label "Това писмо не изглежда да е измамно.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Игнориране">
-<!ENTITY mdnBarIgnoreButton2.accesskey "И">
-<!ENTITY mdnBarSendButton2.label "Изпращане на обратна расписка">
-<!ENTITY mdnBarSendButton2.accesskey "з">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -824,8 +836,8 @@
 <!ENTITY AddToAddressBook.accesskey "а">
 <!ENTITY AddDirectlyToAddressBook.label "Добавяне в адресника">
 <!ENTITY AddDirectlyToAddressBook.accesskey "а">
-<!ENTITY EditContact.label "Редактиране на контакт…">
-<!ENTITY EditContact.accesskey "Р">
+<!ENTITY EditContact1.label "Редактиране на контакт">
+<!ENTITY EditContact1.accesskey "Р">
 <!ENTITY ViewContact.label "Преглед на контакт">
 <!ENTITY ViewContact.accesskey "П">
 <!ENTITY SubscribeToNewsgroup.label "Абониране за дискусионна група">
@@ -877,7 +889,7 @@
 <!ENTITY zoomWindow.label "Лупа">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label        "Настройки…">
+<!ENTITY preferencesCmdMac2.label       "Настройки">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Услуги">
@@ -888,3 +900,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Настройки на иконката на приложението…">

@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "Контакт от адресника…">
 <!ENTITY newContact.accesskey "К">
 <!ENTITY attachMenu.label "Прилагане">
-<!ENTITY attachMenu.accesskey "р">
+<!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Файл(ове)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
 <!ENTITY attachFileCmd.key "A">
@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Лична визитка (vCard)">
 <!ENTITY attachVCardCmd.accesskey "Л">
+<!ENTITY remindLater.label "Припомни ми по-късно">
+<!ENTITY remindLater.accesskey "П">
 <!ENTITY closeCmd.label "Затваряне">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "о">
 <!ENTITY printSetupCmd.label "Конфигуриране на страница…">
 <!ENTITY printSetupCmd.accesskey "К">
+<!ENTITY printPreviewCmd.label "Предварителен преглед преди отпечатване">
+<!ENTITY printPreviewCmd.accesskey "П">
 <!ENTITY printCmd.label "Печат…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "П">
@@ -84,17 +88,20 @@
 <!ENTITY selectAllCmd.label "Избор на всичко">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "И">
-<!ENTITY findCmd.label "Търсене и замяна…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "Т">
+<!ENTITY findBarCmd.label "Търсене…">
+<!ENTITY findBarCmd.accesskey "Т">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Търсене и замяна…">
+<!ENTITY findReplaceCmd.accesskey "Т">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Търсене отново">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "н">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Търсене предишна">
+<!ENTITY findPrevCmd.accesskey "ш">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "ш">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Изглед">
@@ -175,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Адресник">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Настройки на регистрация…">
-<!ENTITY accountManagerCmd.accesskey "р">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Настройки…">
-<!ENTITY preferencesCmd.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey   "Н">
+<!ENTITY accountManagerCmd2.label "Настройки на регистрация">
+<!ENTITY accountManagerCmd2.accesskey "р">
+<!ENTITY accountManagerCmdUnix2.accesskey "р">
+<!ENTITY preferencesCmd2.label "Настройки">
+<!ENTITY preferencesCmd2.accesskey "Н">
+<!ENTITY preferencesCmdUnix.label "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey "Н">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -197,6 +204,7 @@
 <!ENTITY attachButton.label "Прилагане">
 <!ENTITY spellingButton.label "Правопис">
 <!ENTITY saveButton.label "Запис">
+<!ENTITY printButton.label "Отпечатване">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Изпращане на писмото веднага">
@@ -209,6 +217,7 @@
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
 <!ENTITY pasteButton.tooltip            "Поставяне">
+<!ENTITY printButton.tooltip "Отпечатване на това съобщение">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
