@@ -40,6 +40,30 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-postadress:">
 
 <!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptera">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Acceptera inbjudan till händelsen">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Acceptera alla">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptera inbjudan till alla händelsens tillfällen">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Lägg in">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Lägg in i kalender">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Avböj">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avböj inbjudan till händelsen">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avböj alla">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avböj inbjudan till alla händelsens tillfällen">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Ta bort">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ta bort från kalender">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visa detaljer för händelsen">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Mer">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klicka för att se fler val">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Förnya bekräftelse">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Skickar en förnyad bekräftelse till organisatören">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Preliminär">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptera inbjudan till händelsen preliminärt">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Preliminär alla">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptera inbjudan till alla händelsens tillfällen preliminärt">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Uppdatera">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Uppdatera händelse i kalender">
 <!ENTITY lightning.imipbar.description "Detta meddelande innehåller en inbjudan till en händelse.">
 
 <!-- Lightning specific keybindings -->
