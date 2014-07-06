@@ -120,7 +120,7 @@
 <!ENTITY pref_home_updates "Mises à jour automatiques">
 <!ENTITY pref_home_updates_enabled "Activées">
 <!ENTITY pref_home_updates_wifi "Seulement par Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Afficher des suggestions de sites">
+<!ENTITY pref_home_suggested_sites "Suggestions de sites">
 <!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d\u0027accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
