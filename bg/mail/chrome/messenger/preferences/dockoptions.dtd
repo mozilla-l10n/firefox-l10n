@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Настройки на иконката на приложението">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Анимиране на иконката, когато пристигне ново съобщение">
+<!ENTITY bounceSystemDockIcon.accesskey        "А">
+<!ENTITY newMessagesCountDock.label            "Брой на новите съобщения">
+<!ENTITY newMessagesCountDock.accesskey        "Б">
+<!ENTITY showAllUnreadMessagesCount.label      "Брой на непрочетените съобщения">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "Б">
+<!ENTITY dockIconBadge.label                   "Бадж на иконката">
+<!ENTITY dockIconShow.label                    "Бадж на иконката с:">
