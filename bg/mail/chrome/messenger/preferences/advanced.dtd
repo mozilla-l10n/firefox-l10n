@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "В">
 <!ENTITY searchIntegration.label       "Разрешаване на &searchIntegration.engineName; да търси съобщения">
 <!ENTITY searchIntegration.accesskey   "т">
-<!ENTITY checkDefaultsNow.label        "Check Now…">
-<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY checkDefaultsNow.label        "Проверка сега…">
+<!ENTITY checkDefaultsNow.accesskey    "е">
 <!ENTITY configEditDesc.label          "Разширена конфигурация">
 <!ENTITY configEdit.label              "Редактор конфигурация…">
 <!ENTITY configEdit.accesskey          "к">
@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Автоматична проверка за обновления на:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Инсталирани добавки">
-<!ENTITY enableAddonsUpdate.accesskey   "а">
-<!ENTITY whenUpdatesFound.label         "Когато има обновления на &brandShortName;,">
-<!ENTITY modeAskMe.label                "се запитва за действието">
-<!ENTITY modeAskMe.accesskey            "с">
-<!ENTITY modeAutomatic.label            "Автоматично се изтегля и инсталира обновлението">
-<!ENTITY modeAutomatic.accesskey        "А">
-<!ENTITY modeAutoAddonWarn.label        "Предупреждаване, ако това изключи коя да е от добавките">
-<!ENTITY modeAutoAddonWarn.accesskey    "П">
-<!ENTITY showUpdates.label              "Показване хронологията на обновяванията">
-<!ENTITY showUpdates.accesskey          "о">
+<!ENTITY updateApp.label                 "Обновявания на &brandShortName;:">
+<!ENTITY updateAuto.label                "Автоматично инсталиране на обновявания (препоръчва се: подобрява безопасността)">
+<!ENTITY updateAuto.accesskey            "А">
+<!ENTITY updateCheck.label               "Проверка за обновявания, но пита преди да ги инсталира">
+<!ENTITY updateCheck.accesskey           "П">
+<!ENTITY updateManual.label              "Никога не проверява за обновявания (не се препоръчва: риск по безопасността)">
+<!ENTITY updateManual.accesskey          "Н">
+<!ENTITY updateAutoAddonWarn.label       "Предупреждаване, ако това изключи коя да е от добавките">
+<!ENTITY updateAutoAddonWarn.accesskey   "П">
+<!ENTITY updateHistory.label             "Показване хронологията на обновяванията">
+<!ENTITY updateHistory.accesskey         "о">
 
 <!ENTITY useService.label                "Използване на фонова услуга за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "ф">
@@ -117,8 +114,6 @@
 
 <!ENTITY viewCertificates.label         "Преглед сертификати">
 <!ENTITY viewCertificates.accesskey     "П">
-<!ENTITY viewCRLs.label                 "Анулиращи списъци">
-<!ENTITY viewCRLs.accesskey             "А">
 <!ENTITY validation.label               "Потвърждаване">
 <!ENTITY validation.accesskey           "ж">
 <!ENTITY viewSecurityDevices.label      "Защитни устройства">

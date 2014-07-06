@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Свойства">
 
 <!ENTITY generalInfo.label                       "Основна информация">
-<!ENTITY folderCharsetTab.label                  "Знаково кодиране по подразбиране:">
-<!ENTITY folderCharsetTab.accesskey              "З">
-<!ENTITY folderCharsetOverride.label             "Прилагане подразбиращото се знаковото кодиране за всички писма в папката (индивидуалните настройки и автоматичното разпознаване се пренебрегва)">
-<!ENTITY folderCharsetOverride.accesskey         "П">
+<!ENTITY folderCharsetFallback.label             "Резервно кодиране на знаци:">
+<!ENTITY folderCharsetFallback.accesskey         "Р">
+<!ENTITY folderCharsetEnforce.label              "Прилагане подразбиращото се знаковото кодиране за всички писма в папката (индивидуалните настройки и автоматичното разпознаване ще се пренебрегват).">
+<!ENTITY folderCharsetEnforce.accesskey          "П">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Възстановяване индекса на файла резюме">
 <!ENTITY folderRebuildSummaryFile2.label         "Поправка на папка">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "П">
