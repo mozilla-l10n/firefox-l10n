@@ -8,8 +8,8 @@
 <!ENTITY viewPicker.accesskey "G">
 <!ENTITY viewAll.label "Pep tra">
 <!ENTITY viewAll.accesskey "P">
-<!ENTITY viewUnread.label "Ket lennet">
-<!ENTITY viewUnread.accesskey "n">
+<!ENTITY viewUnread.label "Anlennet">
+<!ENTITY viewUnread.accesskey "A">
 <!ENTITY viewNotDeleted.label "Ket dilamet">
 <!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Gerioù Alc'hwez">

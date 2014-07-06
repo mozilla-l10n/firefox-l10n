@@ -9,7 +9,7 @@
 <!ENTITY bounceSystemDockIcon.accesskey        "B">
 <!ENTITY newMessagesCountDock.label            "Niver a gemennadennoù nevez">
 <!ENTITY newMessagesCountDock.accesskey        "n">
-<!ENTITY showAllUnreadMessagesCount.label      "Niver a gemennadennoù nad int ket lennet">
+<!ENTITY showAllUnreadMessagesCount.label      "Niver a gemennadennoù anlennet">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "g">
 <!ENTITY dockIconBadge.label                   "Skeudenn eus arlun an arload">
 <!ENTITY dockIconShow.label                    "Diskouez war arlun an arload :">

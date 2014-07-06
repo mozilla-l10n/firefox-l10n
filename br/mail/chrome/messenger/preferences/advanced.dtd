@@ -39,7 +39,7 @@
 
 <!ENTITY reading.caption               "Lenn">
 <!ENTITY display.caption               "Skrammañ">
-<!ENTITY showCondensedAddresses.label  "Diskwel an anv evit an den eus ma c'harned chomlec'hioù nemetken">
+<!ENTITY showCondensedAddresses.label  "Diskouez an anv evit an den eus ma c'harned chomlec'hioù nemetken">
 <!ENTITY showCondensedAddresses.accesskey "D">
 
 <!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent emgefreek">

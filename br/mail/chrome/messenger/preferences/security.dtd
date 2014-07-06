@@ -19,7 +19,7 @@
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil azasaus al lastez">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "G">
-<!ENTITY openJunkLog.label "Diskwel ar c'herzhlevr">
+<!ENTITY openJunkLog.label "Diskouez ar c'herzhlevr">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Adderaouekaat ar pleustriñ war ar roadennoù">
 <!ENTITY resetTrainingData.accesskey "A">

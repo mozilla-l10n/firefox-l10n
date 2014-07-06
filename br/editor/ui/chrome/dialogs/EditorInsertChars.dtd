@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Ensoc'hañ un arouezenn">
+<!ENTITY windowTitle.label "Enlakaat un arouezenn">
 <!ENTITY category.label "Rummad">
 <!ENTITY letter.label "Lizherenn :">
 <!ENTITY letter.accessKey "L">
@@ -15,5 +15,5 @@
 <!ENTITY otherUpper.label "Pennlizherenn all">
 <!ENTITY otherLower.label "Lizherenn vihan all">
 <!ENTITY commonSymbols.label "Arouezioù boutin">
-<!ENTITY insertButton.label "Ensoc'hañ">
+<!ENTITY insertButton.label "Enlakaat">
 <!ENTITY closeButton.label "Serriñ">

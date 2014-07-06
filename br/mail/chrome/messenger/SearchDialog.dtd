@@ -48,7 +48,7 @@
 <!ENTITY statusColumn.label "Stad">
 <!ENTITY sizeColumn.label "Ment">
 <!ENTITY junkStatusColumn.label "Stad lastez">
-<!ENTITY unreadColumn.label "Ket lennet">
+<!ENTITY unreadColumn.label "Anlennet">
 <!ENTITY totalColumn.label "Hollad">
 <!ENTITY readColumn.label "Lennet">
 <!ENTITY receivedColumn.label "Degemeret">

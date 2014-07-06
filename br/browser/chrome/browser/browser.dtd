@@ -145,8 +145,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideoCmd.label "Rannañ ar video-mañ">
 <!ENTITY shareVideoCmd.accesskey "R">
 <!ENTITY feedsMenu.label "Koumanantiñ">
-<!ENTITY subscribeToPageMenupopup.label "En em enrollañ d'ar bajenn-mañ">
-<!ENTITY subscribeToPageMenuitem.label "En em enrollañ d'ar bajenn-mañ…">
+<!ENTITY subscribeToPageMenupopup.label "Koumanantiñ d'ar bajenn-mañ">
+<!ENTITY subscribeToPageMenuitem.label "Koumanantiñ d'ar bajenn-mañ…">
 <!ENTITY addCurPagesCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
 <!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
 <!ENTITY unsortedBookmarksCmd.label "Sinedoù dirummet">

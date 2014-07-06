@@ -40,13 +40,13 @@
 <!ENTITY hdrTrashButton1.label "Dilemel">
 <!ENTITY hdrTrashButton1.tooltip "Dilemel ar gemennadenn-mañ">
 
-<!ENTITY hdrViewToolbarShowFull.label "Diskwel an arlunioù hag an destenn">
+<!ENTITY hdrViewToolbarShowFull.label "Diskouez an arlunioù hag an destenn">
 <!ENTITY hdrViewToolbarShowFull.accesskey "D">
-<!ENTITY hdrViewToolbarShowIcons.label "Diskwel an arlunioù nemetken">
+<!ENTITY hdrViewToolbarShowIcons.label "Diskouez an arlunioù nemetken">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "a">
-<!ENTITY hdrViewToolbarShowText.label "Diskwel an destenn nemetken">
+<!ENTITY hdrViewToolbarShowText.label "Diskouez an destenn nemetken">
 <!ENTITY hdrViewToolbarShowText.accesskey "D">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Diskwel atav Respont d'ar c'haser">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Diskouez atav Respont d'ar c'haser">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton1.label "Gwezhioù all">
@@ -58,7 +58,7 @@
 <!ENTITY otherActionsOpenInNewTab1.accesskey "D">
 <!ENTITY markAsReadMenuItem1.label "Merkañ evel Lennet">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
-<!ENTITY markAsUnreadMenuItem1.label "Merkañ evel Ket lennet">
+<!ENTITY markAsUnreadMenuItem1.label "Merkañ evel Anlennet">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "Enrollañ evel…">
 <!ENTITY saveAsMenuItem1.accesskey "E">

@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Barrennoù ostilhoù">
 
-<!ENTITY composition.caption    "Diskwel an afelloù-mañ er varrenn ostilhoù Skridaozañ:">
+<!ENTITY composition.caption    "Diskouez an afelloù-mañ er varrenn ostilhoù Skridaozañ:">
 
 <!ENTITY new.label              "Nevez">
 <!ENTITY open.label             "Digeriñ">
@@ -18,11 +18,11 @@
 <!ENTITY find.label             "Klask">
 <!ENTITY image.label            "Skeudenn">
 <!ENTITY hline.label            "Linenn H.">
-<!ENTITY table.label            "Toalenn">
+<!ENTITY table.label            "Taolenn">
 <!ENTITY link.label             "Ere">
 <!ENTITY anchor.label           "Eor">
 
-<!ENTITY formatting.caption     "Diskwel an afelloù-mañ er varrenn ostilhoù Mentrezh:">
+<!ENTITY formatting.caption     "Diskouez an afelloù-mañ er varrenn ostilhoù Mentrezh:">
 
 <!ENTITY smaller.label          "Bihanoc'h">
 <!ENTITY larger.label           "Brasoc'h">

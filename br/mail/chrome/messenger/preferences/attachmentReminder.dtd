@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Gerioù alc'hwez evit an adgalv kenstagadur">
+<!ENTITY attachmentReminderDialog.title   "Gerioù alc'hwez evit an adc'halv kenstagadur">
 <!ENTITY attachKeywordText.label          "Pa viot o kas ur gemennadenn gant unan eus ar gerioù-alc'hwez-mañ, &brandShortName; a gaso keloù deoc'h mar n'eus kenstagadur ebet.">
 <!ENTITY addKeywordButton.label           "Ouzhpennañ">
 <!ENTITY addKeywordButton.accesskey       "O">

@@ -17,7 +17,7 @@
 <!ENTITY  preserveExisting.tooltip      "Gwareziñ an troc'hoù linenn ha mentrezh orinel ar bajenn">
 <!ENTITY  saveAssociatedFiles.label     "Enrollañ ar skeudennoù hag ar restroù kevredet all pa vez enrollet ar pajennoù">
 <!ENTITY  saveAssociatedFiles.accesskey "s">
-<!ENTITY  showPublishDialog.label       "Bepred diskwel ar prenestr Brudañ pa vez brudet pajennadoù">
+<!ENTITY  showPublishDialog.label       "Bepred diskouez ar prenestr Brudañ pa vez brudet pajennadoù">
 <!ENTITY  showPublishDialog.accesskey   "d">
 <!ENTITY  composerEditing.label         "Brudañ">
 <!ENTITY  maintainStructure.label       "Gwareziñ tresad an daolenn pa vez enlakaet pe dilamet kelligoù">

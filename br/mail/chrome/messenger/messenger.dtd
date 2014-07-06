@@ -154,8 +154,8 @@
 <!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Pep tra">
 <!ENTITY allFolders.accesskey "P">
-<!ENTITY unreadFolders.label "Ket lennet">
-<!ENTITY unreadFolders.accesskey "n">
+<!ENTITY unreadFolders.label "Anlennet">
+<!ENTITY unreadFolders.accesskey "A">
 <!ENTITY favoriteFolders.label "Gwell ganin">
 <!ENTITY favoriteFolders.accesskey "w">
 <!ENTITY recentFolders.label "Nevesañ">
@@ -216,11 +216,11 @@
 <!ENTITY collapseAllThreadsCmd.label "Adklozañ an holl neudennadoù">
 <!ENTITY collapseAllThreadsCmd.accesskey "k">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Ket lennet">
-<!ENTITY unreadMsgsCmd.accesskey "n">
-<!ENTITY threadsWithUnreadCmd.label "Neudennadoù gant Ket lennet">
+<!ENTITY unreadMsgsCmd.label "Anlennet">
+<!ENTITY unreadMsgsCmd.accesskey "A">
+<!ENTITY threadsWithUnreadCmd.label "Neudennadoù gant Anlennet">
 <!ENTITY threadsWithUnreadCmd.accesskey "N">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Neudennadoù gwelet gant ar re ket lennet">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Neudennadoù gwelet gant ar re anlennet">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "w">
 <!ENTITY ignoredThreadsCmd.label "Leuskel an neudennadoù a-gostez">
 <!ENTITY ignoredThreadsCmd.accesskey "L">
@@ -286,7 +286,7 @@
 <!ENTITY nextMsgCmd.label "Kemennadenn">
 <!ENTITY nextMsgCmd.accesskey "m">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Kemennadenn ket lennet">
+<!ENTITY nextUnreadMsgCmd.label "Kemennadenn anlennet">
 <!ENTITY nextUnreadMsgCmd.accesskey "n">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Kemennadenn gant ur steredenn">
@@ -299,8 +299,8 @@
 <!ENTITY prevMsgCmd.label "Kemennadenn">
 <!ENTITY prevMsgCmd.accesskey "m">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Kemennadenn ket lennet">
-<!ENTITY prevUnreadMsgCmd.accesskey "l">
+<!ENTITY prevUnreadMsgCmd.label "Kemennadenn anlennet">
+<!ENTITY prevUnreadMsgCmd.accesskey "a">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "War-lerc'h">
 <!ENTITY goForwardCmd.accesskey "W">
@@ -396,8 +396,8 @@
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Evel Lennet">
 <!ENTITY markAsReadCmd.accesskey "L">
-<!ENTITY markAsUnreadCmd.label "Evel Ket lennet">
-<!ENTITY markAsUnreadCmd.accesskey "K">
+<!ENTITY markAsUnreadCmd.label "Evel Anlennet">
+<!ENTITY markAsUnreadCmd.accesskey "A">
 <!ENTITY markThreadAsReadCmd.label "Neudennad evel Lennet">
 <!ENTITY markThreadAsReadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -662,7 +662,7 @@
 <!ENTITY statusColumn.label "Stad">
 <!ENTITY sizeColumn.label "Ment">
 <!ENTITY junkStatusColumn.label "Stad lastez">
-<!ENTITY unreadColumn.label "Ket lennet">
+<!ENTITY unreadColumn.label "Anlennet">
 <!ENTITY totalColumn.label "Hollad">
 <!ENTITY readColumn.label "Lennet">
 <!ENTITY receivedColumn.label "Degemeret">
@@ -899,7 +899,7 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Kuzhat ar re all">
 <!ENTITY hideOtherAppsCmdMac.commandkey "K">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Diskwel an holl">
+<!ENTITY showAllAppsCmdMac.label        "Diskouez pep tra">
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Dibarzhioù arlun an arload…">
