@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Påminnelse detaljer">
 <!ENTITY reminder.action.label                             "Välj en påminnelse åtgärd">
 
-<!ENTITY reminder.relation.before.label                    "före" >
-<!ENTITY reminder.relation.after.label                     "efter" >
-
 <!ENTITY reminder.action.alert.label                       "Visa en varning">
 <!ENTITY reminder.action.email.label                       "Skicka epost">
 
