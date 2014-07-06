@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "c">
 <!ENTITY pref.defalarmlen4todos.label "Standaard tijd voorafgaand aan een taak waarop een herinnering verschijnt:">
 <!ENTITY pref.defalarmlen4todos.accesskey "h">
-<!ENTITY pref.defaultemail.label "Standaard adres om herinneringen naartoe te sturen:">
-<!ENTITY pref.defaulttext.label "Standaard tekst voor herinneringen:">
 
 <!ENTITY pref.defaultsnoozelength.label "Standaard sluimerduur:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "d">
