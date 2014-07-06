@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "i">
 <!ENTITY pref.defaultemail.label "Standardmottagare för påminnelse via mail:">
 <!ENTITY pref.defaulttext.label "Standardtext för påminnelse:">
+
+<!ENTITY pref.defaultsnoozelength.label "Standardlängd för vila:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
