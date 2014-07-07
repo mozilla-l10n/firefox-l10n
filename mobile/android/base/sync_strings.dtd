@@ -1,0 +1,225 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Tengjast &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Bæta við &syncBrand.fullName.label; reikningi">
+<!ENTITY sync.title.pair.label "Para tæki">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Veldu \&quot;Stilla &syncBrand.shortName.label;\&quot; á tækinu þínu til að virkja það.">
+<!ENTITY sync.subtitle.header2.label "Sláðu inn þennan kóða á hinu tækinu þínu">
+<!ENTITY sync.subtitle.connectlocation2.label "Veldu \&quot;&sync.title.pair.label;\&quot; í &syncBrand.shortName.label; hlutanum í Firefox stillingum á hinu tækinu þínu.">
+<!ENTITY sync.subtitle.pair.label "Veldu \&quot;Para tæki\&quot; á tækinu þínu til að virkja.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Sýna mér hvernig.">
+<!ENTITY sync.link.advancedsetup.label "Ítarleg uppsetning...">
+<!ENTITY sync.link.nodevice.label "Ég er ekki með tækið með mér...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Beðið eftir öðru tæki...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Sláðu inn &syncBrand.fullName.label; reiknings upplýsingar þínar">
+<!ENTITY sync.input.username.label "Heiti reiknings">
+<!ENTITY sync.input.password.label "Lykilorð">
+<!ENTITY sync.input.key.label "Endurheimtu lykill">
+<!ENTITY sync.checkbox.server.label "Nota sérsniðinn netþjón">
+<!ENTITY sync.input.server.label "URL netþjóns">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Get ekki stillt &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; náði ekki að tengjast netþjóni. Viltu ekki reyna aftur?">
+<!ENTITY sync.button.tryagain.label "Reyna aftur">
+<!ENTITY sync.button.manual.label "Handvirk uppsetning">
+<!ENTITY sync.subtitle.nointernet.label "Engin internet tenging í boði.">
+<!ENTITY sync.subtitle.failaccount.label "Ekki tókst að stofna reikning á tækinu þínu.">
+<!ENTITY sync.subtitle.failmultiple.label "Ertu með fleiri en eina útgáfu af Firefox uppsetta? Akkúrat núna styður &syncBrand.fullName.label; eingöngu eina uppsetta útgáfu af Firefox hverju sinni. Vinsamlega taka út taka út aðrar útgáfur til að nota &syncBrand.shortName.label;.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Uppsetningu lokið">
+<!ENTITY sync.subtitle.success.label1 "Gögnin þín eru nú að halast niður í bakgrunni. Þú getur farið í stillingar til að sýsla með reikninginn þinn eða farið að vafra með &brandShortName;.">
+<!ENTITY sync.settings.label "Stillingar">
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; reikningurinn þinn er nú þegar uppsettur. Þú getur farið í stillingar og sýslað með reikninginn þinn eða ræst &brandShortName;.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Vinsamlega reynið aftur.">
+<!ENTITY sync.pair.connectlocation.label "Til að virkja nýja tækið þitt, veljið þá \&quot;Stilla &syncBrand.shortName.label;\&quot; á tækinu og veljið síðan \&quot;Ég er þegar með reikning.\&quot;">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Valkostir">
+<!ENTITY sync.summary.pair.label "Tengja annað tæki við &syncBrand.shortName.label; reikning þinn">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Hvað á að setja í sync">
+<!ENTITY sync.configure.engines.sync.my.title.label "Synca þitt...">
+<!ENTITY sync.configure.engines.title.bookmarks "Bókarmerki">
+<!ENTITY sync.configure.engines.title.passwords "Lykilorð">
+<!ENTITY sync.configure.engines.title.history "Ferill">
+<!ENTITY sync.configure.engines.title.tabs "Flipar">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Hætta við">
+<!ENTITY sync.button.connect.label "Tengjast">
+<!ENTITY sync.button.ok.label "Ok">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (rýrt)">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "Bókarmerkja valmynd">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Flokkar">
+<!ENTITY bookmarks.folder.toolbar.label "Bókarmerkja tækjaslá">
+<!ENTITY bookmarks.folder.unfiled.label "Óröðuð bókarmerki">
+<!ENTITY bookmarks.folder.desktop.label "Bókarmerki skjáborðs">
+<!ENTITY bookmarks.folder.mobile.label "Bókarmerki handhægra tækja">
+<!ENTITY bookmarks.folder.readinglist.label "Lestrarlisti">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Pinned">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Einungis einn &syncBrand.fullName.label; reikningur er studdur.">
+<!ENTITY sync.notification.configure.saved "Val þitt hefur verið vistað.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Rangt notendanafn eða lykilorð.">
+<!ENTITY sync.invalidserver.label "Vinsamlega sláið inn gilt URL fyrir netþjón">
+<!ENTITY sync.verifying.label "Staðfesta...">
+<!ENTITY sync.new.recoverykey.status.incorrect "Endurheimtu lykill rangur. Vinsamlega reyna aftur.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Sendi tækjum flipa">
+<!ENTITY sync.button.send.label "Senda">
+<!ENTITY sync.button.set.up.sync.label "Stilla &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Stilla &syncBrand.shortName.label; til að senda flipa">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Stilla &syncBrand.fullName.label; á tækinu þínu til að senda flipa á annarra tækja.">
+<!ENTITY sync.text.tab.sent.label "Búið að senda flipann þinn!">
+<!ENTITY sync.text.tab.not.sent.label "Villa kom upp við að senda flipann þinn.">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "Tölvupóstfang">
+<!ENTITY fxaccount_password_hint "Lykilorð">
+<!ENTITY fxaccount_password_hide "Fela">
+<!ENTITY fxaccount_password_show "Sýna">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Til baka í vafra">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Skilmálar þjónustu">
+<!ENTITY fxaccount_policy_linkprivacy "Friðhelgis tilkynning">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Velkomin í &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Skráðu þig inn til að synca flipa, bókarmerki, lykilorð og fleira.">
+<!ENTITY fxaccount_getting_started_get_started "Byrjaðu">
+<!ENTITY fxaccount_getting_started_old_firefox "Ertu að nota eldri útgáfu af &syncBrand.shortName.label;?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Stofna Firefox reikning">
+<!ENTITY fxaccount_create_account_password_length_restriction "Verður að vera amk 8 stafir/tákn">
+<!ENTITY fxaccount_create_account_year_of_birth "Fæðingarár">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Ég gengst við &formatS1; og &formatS2; skilmálum Firefox skýjaþjónustunnar með því að halda áfram.">
+<!ENTITY fxaccount_create_account_button "Næsti">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Veldu hvað skal synca">
+<!ENTITY fxaccount_create_account_sign_in_instead "Nú þegar með reikning? Innskráning">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 eða fyrr">
+<!ENTITY fxaccount_create_account_unknown_error "Gat ekki stofnað reikning">
+
+<!ENTITY fxaccount_account_create_not_allowed "Get ekki stofnað reikning">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Þú verður að vera ákveðið gamall/gömul til að stofna reikning.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Læra meira">
+
+<!ENTITY fxaccount_confirm_account_header "Staðfesta reikninginn þinn">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Staðfestingar hlekkur hefur verið sendur til &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Endursenda tölvupóst">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Staðfestingar tölvupóstur sendur">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Gat ekki sent staðfestinga tölvupóst">
+
+<!ENTITY fxaccount_sign_in_sub_header "Innskráning">
+<!ENTITY fxaccount_sign_in_button_label "Innskráning">
+<!ENTITY fxaccount_sign_in_forgot_password "Gleymt lykilorð?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Stofna reikning">
+<!ENTITY fxaccount_sign_in_unknown_error "Innskráning tókst ekki">
+
+<!ENTITY fxaccount_account_verified_sub_header "Reikningur staðfestur">
+<!ENTITY fxaccount_account_verified_description2 "Sync á gögnum þínum hefst eftir andartak.">
+
+<!ENTITY fxaccount_update_credentials_header "Innskráning">
+<!ENTITY fxaccount_update_credentials_button_label "Innskráning">
+<!ENTITY fxaccount_update_credentials_unknown_error "Innskráning mistókst">
+
+<!ENTITY fxaccount_status_header2 "Firefox reikningur">
+<!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; virkjað">
+<!ENTITY fxaccount_status_needs_verification2 "Staðfesta verður reikning þinn. Sláðu létt til að endursenda staðfestingar tölvupóst.">
+<!ENTITY fxaccount_status_needs_credentials "Tenging tókst ekki. Sláðu létt til að innskrá.">
+<!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Skiptu á \&quot;Sjálfvirkt synca gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; er ekki stillt til að synca sjálfvirkt. Sláðu létt til að hefja sync.">
+<!ENTITY fxaccount_status_bookmarks "Bókarmerki">
+<!ENTITY fxaccount_status_history "Ferill">
+<!ENTITY fxaccount_status_passwords "Lykilorð">
+<!ENTITY fxaccount_status_tabs "Opna flipa">
+<!ENTITY fxaccount_status_legal "Lögfræðimál" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Notendaskilmálar">
+<!ENTITY fxaccount_status_linkprivacy "Friðhelgis tilkynning">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; valkostir">
+<!ENTITY fxaccount_options_configure_title "Stilla &syncBrand.shortName.label;">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Þú þarft að uppfæra Firefox">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Reikningur þegar til staðar. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Rangt tölvupóstfang eða lykilorð">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Rangt tölvupóstfang eða lykilorð">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Reikningur er ekki staðfestur">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Netþjónn upptekinn, reyndu aftur eftir smá stund">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Netþjónn upptekinn, reyndu aftur eftir smá stund">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Upp kom vandamál">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Get ekki tengst neti">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; er ekki tengt">
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Sláðu létt til að innskrá sem &formatS;">

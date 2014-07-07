@@ -1,0 +1,436 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
+<!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Bókamerki">
+<!ENTITY  history_title "Ferill">
+<!ENTITY  reading_list_title "Lestrarlisti">
+
+<!ENTITY  switch_to_tab "Fara í flipa">
+
+<!ENTITY  crash_reporter_title "&brandShortName; hrunskýrsla">
+<!ENTITY  crash_message2 "&brandShortName; átti í erfiðleikum og hrundi. Fliparnir þínir ættu að vera í &brandShortName; ræsisíðunni þegar þú endurræsir.">
+<!ENTITY  crash_send_report_message3 "Segja &vendorShortName; frá þessu hruni svo þau geti lagfært">
+<!ENTITY  crash_include_url2 "Taka með vistfang síðunnar sem ég var á">
+<!ENTITY  crash_sorry "Okkur þykir leitt">
+<!ENTITY  crash_comment "Bæta við athugasemd (athugasemdir eru sýnilegar almenningi)">
+<!ENTITY  crash_allow_contact2 "Leyfa &vendorShortName; að hafa samband við mig vegna skýrslunnar">
+<!ENTITY  crash_email "Netfangið þitt">
+<!ENTITY  crash_closing_alert "Hætta án þess að senda hrunaskýrslu?">
+<!ENTITY  sending_crash_report "Senda hrunaskýrslu\u2026">
+<!ENTITY  crash_close_label "Loka">
+<!ENTITY  crash_restart_label "Endurræsa &brandShortName;">
+<!ENTITY  exit_label "Hætta">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; vef smáforrit">
+<!ENTITY  launcher_shortcuts_empty "Engin vef smáforrit fundust">
+
+<!ENTITY choose_file "Veldu skrá">
+
+<!ENTITY url_bar_default_text "Færið inn leitartexta eða vistfang">
+
+<!ENTITY bookmark "Bókamerki">
+<!ENTITY bookmark_added "Bókamerki bætt við">
+<!ENTITY bookmark_removed "Bókamerki fjarlægt">
+<!ENTITY bookmark_updated "Bókamerki uppfært">
+<!ENTITY bookmark_options "Valkostir">
+
+<!ENTITY history_today_section "Í dag">
+<!ENTITY history_yesterday_section "Í gær">
+<!ENTITY history_week_section "Fyrir 7 dögum">
+<!ENTITY history_older_section "Eldra en 7 daga">
+
+<!ENTITY go "Fara">
+<!ENTITY search "Leita">
+<!ENTITY reload "Endurhlaða">
+<!ENTITY forward "Áfram">
+<!ENTITY menu "Valmynd">
+<!ENTITY back "Til baka">
+<!ENTITY stop "Stöðva">
+<!ENTITY site_security "Öryggi svæðis">
+<!ENTITY edit_mode_cancel "Hætta við">
+
+<!ENTITY close_tab "Loka flipa">
+<!ENTITY one_tab "1 flipi">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; flipar">
+<!ENTITY new_tab_opened "Nýr flipi opnaður">
+
+<!ENTITY settings "Stillingar">
+<!ENTITY settings_title "Stillingar">
+<!ENTITY pref_category_advanced "Ítarlegt">
+<!ENTITY pref_category_customize "Sérsníða">
+<!ENTITY pref_category_search3 "Leit">
+<!ENTITY pref_category_search_summary "Stilla leitarvélar">
+<!ENTITY pref_category_display "Birta">
+<!ENTITY pref_category_privacy_short "Gagnaleynd">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Valkostir gagna">
+<!ENTITY pref_learn_more "Vita meira">
+<!ENTITY pref_category_installed_search_engines "Uppsettar leitarvélar">
+<!ENTITY pref_category_add_search_providers "Bæta við fleiri leitarvélum">
+<!ENTITY pref_category_search_restore_defaults "Enduruppsetja leitarvélar">
+<!ENTITY pref_search_restore_defaults "Upphaflegar stillingar">
+<!ENTITY pref_search_restore_defaults_summary "Endurheimta sjálfgefnar stillingar">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og síðan smella á &formatI; merkið.">
+<!ENTITY pref_category_devtools "Verkfæri forritara">
+<!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
+<!ENTITY pref_remember_signons "Muna lykilorð">
+
+<!ENTITY pref_category_home "Heim">
+<!ENTITY pref_category_home_summary "Stilla ræsisíðuna">
+<!ENTITY pref_category_home_panels "Spjöld">
+<!ENTITY pref_home_add_panel "Bæta við spjaldi">
+<!ENTITY home_add_panel_title "Bæta við spjaldi">
+<!ENTITY home_add_panel_empty "Því miður fundum við engin spjöld til að bæta við.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 bætt við á ræsisíðu">
+<!ENTITY pref_category_home_content_settings "Stilla innihald">
+<!ENTITY pref_home_updates "Sjálfvirkar uppfærslur">
+<!ENTITY pref_home_updates_enabled "Virkt">
+<!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "Sérsníða">
+<!ENTITY pref_header_display "Birta">
+<!ENTITY pref_header_privacy_short "Gagnaleynd">
+<!ENTITY pref_header_help "Hjálp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Verkfæri forritara">
+
+<!ENTITY pref_cookies_menu "Smákökur">
+<!ENTITY pref_cookies_accept_all "Virkar">
+<!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
+<!ENTITY pref_cookies_disabled "Óvirkar">
+
+<!ENTITY pref_donottrack_menu "Fylgjast með">
+<!ENTITY pref_donottrack_disallow_tracking "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
+<!ENTITY pref_donottrack_allow_tracking "Segja vefsvæðum að ég vilji láta fylgjast með mér">
+<!ENTITY pref_donottrack_no_pref "Ekki segja vefsvæðum frá því hvort ég hef valið að láta fylgjast með mér">
+
+<!ENTITY pref_char_encoding "Dulkóðun tákna">
+<!ENTITY pref_char_encoding_on "Sýna valmynd">
+<!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
+<!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
+<!ENTITY pref_plugins "Tengiforrit">
+<!ENTITY pref_plugins_enabled "Virk">
+
+<!ENTITY pref_plugins_disabled "Afvirkja">
+<!ENTITY pref_text_size "Stærð texta">
+<!ENTITY pref_reflow_on_zoom4 "Endurflæði texta">
+<!ENTITY pref_restore "Flipar">
+<!ENTITY pref_restore_always "Alltaf endurheimta">
+<!ENTITY pref_restore_quit "Ekki endurheimta að loknu &brandShortName;">
+<!ENTITY pref_font_size_tiny "Örsmátt">
+<!ENTITY pref_font_size_small "Lítið">
+<!ENTITY pref_font_size_medium "Miðstærð">
+<!ENTITY pref_font_size_large "Stórt">
+<!ENTITY pref_font_size_xlarge "Mjög stórt">
+<!ENTITY pref_font_size_set "Stilla">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur stekkur yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
+
+<!ENTITY pref_use_master_password "Nota aðal lykilorð">
+<!ENTITY pref_show_product_announcements "Sýna vörutilkynningar">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
+<!ENTITY pref_import_android "Flytja inn frá Android">
+<!ENTITY pref_private_data_history2 "Ferill">
+<!ENTITY pref_private_data_formdata "Eyðublað  leitarferill">
+<!ENTITY pref_private_data_cookies2 "Smákökur  virkar innskráningar">
+<!ENTITY pref_private_data_passwords "Vistuð lykilorð">
+<!ENTITY pref_private_data_cache "Flýtiminni">
+<!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
+<!ENTITY pref_private_data_siteSettings2 "Stillingar vefsvæðis">
+<!ENTITY pref_private_data_downloadFiles2 "Niðurhal">
+
+
+<!ENTITY pref_about_firefox "Um &brandShortName;">
+<!ENTITY pref_vendor_faqs "Tíðar spurningar">
+<!ENTITY pref_vendor_feedback "Veita endurgjöf">
+
+<!ENTITY pref_dialog_set_default "Setja sem sjálfgefið">
+<!ENTITY pref_dialog_default "Sjálfgefið">
+<!ENTITY pref_dialog_remove "Fjarlægja">
+
+<!ENTITY pref_search_last_toast "Þú getur ekki fjarlægt eða aftengt á síðustu leitarvélinni.">
+
+<!ENTITY pref_panels_show "Sýna">
+<!ENTITY pref_panels_hide "Fela">
+<!ENTITY pref_panels_reorder "Breyta röðun">
+<!ENTITY pref_panels_move_up "Færa upp">
+<!ENTITY pref_panels_move_down "Færa niður">
+
+<!ENTITY datareporting_notification_title "&brandShortName; tölfærði  gögn">
+<!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
+<!ENTITY datareporting_notification_action "Velja það sem deila á">
+<!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
+<!ENTITY datareporting_notification_summary_short "Til að bæta upplifun þína, &brandShortName;...">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; heilsuskýrsla">
+<!ENTITY datareporting_fhr_summary2 "Deila gögnum með &vendorShortName; um heilsufar vafrans þín og hjálpar þér að skilja afköst vafrans þíns">
+<!ENTITY datareporting_abouthr_title "Skoða heilsuskýrslu mína">
+<!ENTITY datareporting_telemetry_title "Fjarmælingar">
+<!ENTITY datareporting_telemetry_summary "Miðla &vendorShortName; afköstum, notkun, vélbúnaði og sérsníðnum gögnum um vafrann þinn til að hjálpa okkur að gera&brandShortName; betri">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sendir hrunaskýrslu til að hjálpa &vendorShortName; gera vafrann þinn stöðugri og öruggari">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Hrunaskýrsla">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Staðsetningar þjónusta">
+<!ENTITY datareporting_wifi_geolocation_summary "Meðtekur Wi-Fi og GSM staðsetningargögn þegar keyrt í bakgrunni og deilir þeim með &vendorShortName; til að betrumbæta jarðstaðsetningar þjónustu okkar">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+
+<!ENTITY pref_update_autodownload2 "Hlaða niður uppfærslur sjálfvirkt">
+<!ENTITY pref_update_autodownload_wifi "Eingöngu með Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Aldrei">
+<!ENTITY pref_update_autodownload_always "Alltaf">
+
+<!ENTITY quit "Hætta">
+
+<!ENTITY addons "Viðbætur">
+<!ENTITY downloads "Niðurhal">
+<!ENTITY apps "Smáforrit">
+<!ENTITY char_encoding "Dulkóðun tákna">
+
+<!ENTITY share "Deila">
+<!ENTITY share_title "Deila með">
+<!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
+<!ENTITY save_as_pdf "Vista sem PDF">
+<!ENTITY find_in_page "Finn á síðu">
+<!ENTITY desktop_mode "Biðja um skjáborðs svæði">
+<!ENTITY page "Síða">
+<!ENTITY tools "Verkfæri">
+<!ENTITY new_tab "Nýr flipi">
+<!ENTITY new_private_tab "Nýr einka flipi">
+<!ENTITY close_all_tabs "Loka öllum flipum">
+<!ENTITY tabs_normal "Flipar">
+<!ENTITY tabs_private "Einka">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY set_image_fail "Gat ekki notað mynd">
+<!ENTITY set_image_chooser_title "Nota mynd sem">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Finna á síðu">
+<!ENTITY find_prev "Fyrrverandi">
+<!ENTITY find_next "Næsti">
+<!ENTITY find_close "Loka">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Varpa á tæki">
+<!ENTITY media_play "Spila">
+<!ENTITY media_pause "Setja í bið">
+<!ENTITY media_stop "Stöðva">
+
+<!ENTITY contextmenu_open_new_tab "Opna í nýjum flipa">
+<!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
+<!ENTITY contextmenu_open_in_reader "Opna í lesara">
+<!ENTITY contextmenu_remove "Fjarlægja">
+<!ENTITY contextmenu_add_to_launcher "Bæta við heimasvæði">
+<!ENTITY contextmenu_share "Deila">
+<!ENTITY contextmenu_pasteandgo "Líma og hlaða">
+<!ENTITY contextmenu_paste "Líma">
+<!ENTITY contextmenu_copyurl "Afrita vistfang">
+<!ENTITY contextmenu_edit_bookmark "Breyta">
+<!ENTITY contextmenu_subscribe "Panta áskrift af síðu">
+<!ENTITY contextmenu_site_settings "Breyta svæðis stillingum">
+<!ENTITY contextmenu_top_sites_edit "Breyta">
+<!ENTITY contextmenu_top_sites_pin "Festa svæði">
+<!ENTITY contextmenu_top_sites_unpin "Losa svæði">
+<!ENTITY contextmenu_add_search_engine "Bæta við leitarvél">
+
+<!ENTITY pref_titlebar_mode "Titilslá">
+<!ENTITY pref_titlebar_mode_title "Sýni síðutitil">
+<!ENTITY pref_titlebar_mode_url "Sýna vistfang síðu">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Skrunu titilslá">
+
+<!ENTITY history_removed "Page removed">
+
+<!ENTITY bookmark_edit_title "Breyta bókarmerki">
+<!ENTITY bookmark_edit_name "Heiti">
+<!ENTITY bookmark_edit_location "Staðsetning">
+<!ENTITY bookmark_edit_keyword "Stikkorð">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "Svæðis stilingar">
+<!ENTITY site_settings_cancel       "Hætta við">
+<!ENTITY site_settings_clear        "Hreinsa">
+<!ENTITY site_settings_no_settings  "Engar stillingar til að hreinsa.">
+
+<!ENTITY reading_list_added "Síðu bætt við lestrar listann þinn">
+<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reading_list_failed "Mistókst að bæta síðu við lestrar listann">
+<!ENTITY reading_list_duplicate "Síðan er nú þegar á lestrar listanum þínum">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Aðrar aðgerðir">
+
+<!ENTITY masterpassword_create_title "Breyta aðal lykilorði">
+<!ENTITY masterpassword_remove_title "Fjarlægja">
+<!ENTITY masterpassword_password "Lykilorð">
+<!ENTITY masterpassword_confirm "Staðfesta lykilorð">
+
+<!ENTITY button_ok "Ok">
+<!ENTITY button_cancel "Hætta við">
+<!ENTITY button_yes "Já">
+<!ENTITY button_no "Nei">
+<!ENTITY button_clear_data "Hreinsa gögn">
+<!ENTITY button_set "Festa">
+<!ENTITY button_clear "Hreinsa">
+
+<!ENTITY home_top_sites_title "Vinsælustu svæðin">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Bæta við svæði">
+
+<!ENTITY home_history_title "Ferill">
+<!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
+<!ENTITY home_last_tabs_title "Flipar frá því síðast">
+<!ENTITY home_last_tabs_open "Opna alla flipa frá því síðast">
+<!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
+<!ENTITY home_most_recent_title "Nýjast">
+<!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
+<!ENTITY home_reading_list_empty "Greinar sem þú vistar til að skoða síðar birtast hér.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Ábending: Vistaðu greinar á lestrarlista þinn með því að halda lengi niðri &formatI; táknmyndinni þegar hún birtist í titilslánni.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Ábending: Vistaðu greinar á lestrarlistann þinn með því að halda lengi niðri lestrarhams hnappinum þegar hann birtist í titilslánni.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Ekki fannst neitt efni fyrir þetta spjald.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Færa upp að &formatS;">
+
+<!ENTITY pin_site_dialog_hint "Sláðu inn leitar stikkorð">
+
+<!ENTITY filepicker_title "Veldu skrá">
+<!ENTITY filepicker_audio_title "Veldu eða taktu upp hljóðbút">
+<!ENTITY filepicker_image_title "Veldu eða taktu ljómynd">
+<!ENTITY filepicker_video_title "Veldu eða taktu upp myndband">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Núverandi tenging við">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "sem er starfrækt af">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Þessi síða birtir efni sem er ekki öruggt.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; hefur lokað á efni sem er ekki öruggt.">
+<!ENTITY blocked_mixed_content_message_bottom "Flest svæði munu samt virka eðlilega þrátt fyrir að lokað sé á þetta efni.">
+<!ENTITY learn_more "Læra meira">
+<!ENTITY enable_protection "Virkja vörn">
+<!ENTITY disable_protection "Slökkva á vörn">
+<!ENTITY keep_blocking "Halda áfram að loka">
+
+<!ENTITY private_data_success "Einkagögn hreinsuð">
+<!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn.">
+
+<!ENTITY bookmarkhistory_button_import "Flytja inn">
+<!ENTITY bookmarkhistory_import_both "Flytja inn bókarmerki og ferli  
+frá Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Flyt inn bókarmerki  
+frá Android">
+<!ENTITY bookmarkhistory_import_history "Flyt inn sögu 
+frá Android">
+<!ENTITY bookmarkhistory_import_wait "Vinsamlega bíða...">
+
+<!ENTITY suggestions_prompt3 "Viltu virkja leit í uppástungum?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Leita á &formatS1; að &formatS2;">
+
+<!ENTITY webapp_generic_name "Smáforrit">
+
+<!ENTITY searchable_description "Bókarmerki og ferill">
+
+<!ENTITY devtools_remote_debugging_forward "Ekki gleyma að stilla áframsendingu á porti!">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Uppfærsla tiltæk fyrir &brandShortName;">
+<!ENTITY updater_start_select2 "Snertið til að hala niður">
+
+<!ENTITY updater_downloading_title2 "Hleð niður &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Niðurhal mistókst">
+<!ENTITY updater_downloading_select2 "Snertu til að virkja uppfærsluna þegar niðurhali lýkur">
+<!ENTITY updater_downloading_retry2 "Snertu til að reyna aftur">
+
+<!ENTITY updater_apply_title2 "Uppfærsla fáanleg fyrir &brandShortName;">
+<!ENTITY updater_apply_select2 "Snertu til að uppfæra">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Ný gesta lota">
+<!ENTITY exit_guest_session "Hætta gesta lotu">
+<!ENTITY guest_session_dialog_continue "Áfram">
+<!ENTITY guest_session_dialog_cancel "Hætta við">
+<!ENTITY new_guest_session_title "&brandShortName; mun nú endurræsa">
+<!ENTITY new_guest_session_text "Manneskjan sem notar þetta mun ekki sjá neitt af þínum persónulegum gögnum í vafranum (eins og vistuð lykilorð, ferli eða bókarmerki). \n\nÞegar gestur þinn hefur lokið notkun sinni þá mun vafra gögnum hans verða eytt og lotu þinni verður endurheimt.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; mun nú endurræsa">
+<!ENTITY exit_guest_session_text "Vafra gögnun frá þessari lotu mun verða eytt.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "...">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Valmynd">
+<!ENTITY actionbar_done "Lokið">
