@@ -44,8 +44,8 @@
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
-<!ENTITY history_week_section "7 dní dozadu">
-<!ENTITY history_older_section "Staršie ako 7 dní">
+<!ENTITY history_week_section2 "Minulý týždeň">
+<!ENTITY history_older_section2 "Minulý mesiac">
 
 <!ENTITY go "Prejsť">
 <!ENTITY search "Hľadať">
