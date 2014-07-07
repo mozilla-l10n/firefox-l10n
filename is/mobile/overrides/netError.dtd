@@ -1,0 +1,138 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Vandamál við að hlaða inn síðu">
+<!ENTITY retry.label "Reyndu aftur">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Gat ekki tengst">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Þetta vistfang er lokað">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Netþjónn finnst ekki">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Athugaði hvort það séu innsláttar villu í vistfanginu eins og 
+<strong>ww</strong>.daemi.is í staðinn fyrir 
+<strong>www</strong>.daemi.is</li> 
+<li>Ef þú getur ekki hlaðið inn neinum síðum, athugaðu þá gagna- eða WiFi tenginguna á tækinu þínu.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Skrá fannst ekki">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Athugaðu hvort það séu innsláttarvillur í skráarnafninu.</li> 
+<li>Athugaðu hvort skráin hafi verið færð, endurnefnd eða eytt.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Tja hérna.">
+<!ENTITY generic.longDesc "<p>&brandShortName; gat af einhverri ástæðu ekki hlaðið inn þessa síðu.</p>">
+
+<!ENTITY malformedURI.title "Vistfang er ógilt">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Vef vistföng eru vanalega skrifuð svona 
+<strong>http://www.daemi.is/</strong></li> 
+<li>Gátu hvort þú sért að nota rétt skástrik (sem sagt 
+<strong>/</strong>).</li> 
+</ul>">
+
+
+
+
+
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og endurhlaða síðuna.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Villa við dulkóðun innihalds">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Óörugg skráartegund">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Tengingin var endursett">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY unknownProtocolFound.title "Vistfangið skildist ekki">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Vera kann að þú þurfir að setja upp annað forrit til að opna þetta vistfang.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingu">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
+<li>Hafðu samband við kerfisstjórann þinn til að tryggja að milliþjónninn sé 
+að virka rétt.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Gat ekki fundið milliþjón">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
+<li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar.</li>  
+</ul>">
+
+<!ENTITY redirectLoop.title "Síðan er ekki að beina rétt">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Stundum er orsök þessa vandamáls ef neitað er að óvirkjuð meðtaka 
+smákökur.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Óvænt viðbrögð frá netþjóni">
+
+
+<!ENTITY nssFailure2.title "Örugg tenging mistókst">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Örugg tenging mistókst">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Það gæti verið vandamál með uppsetningu netþjónsins eða það gæti verið 
+einhver að reyna að þykjast vera þessi netþjónn.</li> 
+<li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið  
+tímabundin og þú getur reynt aftur síðar.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> 
+<li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.</li> 
+</ul>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að síðan hlóðst inn á þennan hátt vegna þess að á síðunni er efni með öryggisreglu sem leyfir það ekki.</p>">
+
+<!ENTITY corruptedContentError.title "Brengluð innihalds villa">
+<!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða því villa greindist í gagna sendingu.</p><ul><li>Vinsamlega hafið samband við vefsvæðis eigendur og látið þá vita af vandamálinu.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Bæta við fráviki...">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Þú ættir ekki að bæta við fráviki ef þú ert að nota internets tengingu sem þú treystir ekki fullkomlega eða ef þú sérð vanalega ekki aðvörun fyrir þennan netþjón.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Fjartenging XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Vinsamlega hafðu samband við eigendur þessa vefsvæðis og látið þá vita af þessu vandamáli.</li></ul></p>">
+
