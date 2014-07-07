@@ -260,6 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "V">
 <!ENTITY devAppMgrMenu.label               "Správca aplikácií">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Prepnúť vývojárske nástroje">
