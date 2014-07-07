@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Záložky">
 <!ENTITY  history_title "História">
 <!ENTITY  reading_list_title "Zoznam na prečítanie">
+<!ENTITY  recent_tabs_title "Nedávne karty">
 
 <!ENTITY  switch_to_tab "Prejsť na kartu">
 
