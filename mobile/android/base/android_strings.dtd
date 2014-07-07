@@ -353,7 +353,6 @@ size. -->
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
-<!ENTITY home_most_recent_title "Najnovšie">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
 <!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
 <!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
