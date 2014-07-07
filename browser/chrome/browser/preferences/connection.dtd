@@ -46,3 +46,9 @@
 <!ENTITY noproxyExplain.label "ઉદાહરણ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "બધા પ્રોટોકોલ માટે સમાન પ્રોક્સી વાપરો">
 <!ENTITY shareproxy.accesskey "s">
+
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.label          "સત્તાધિકરણ માટે પૂછો નહિં જો પાસવર્ડ સંગ્રહેલ હોય">
+<!ENTITY  autologinproxy.tooltip        "આ વિકલ્પ ચુપચાપ પ્રોક્સી  માટે તમને સત્તાધિકરણ કરે છે જ્યારે તમે તેઓ માટે શ્રેયને સંગ્રહેલ હોય. તમે પૂછશો જો સત્તાધિકરણ નિષ્ફળ જાય.">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  socksRemoteDNS.label          "દૂરસ્થ DNS">

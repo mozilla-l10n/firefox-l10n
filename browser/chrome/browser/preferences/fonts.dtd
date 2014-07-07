@@ -71,6 +71,23 @@
 <!ENTITY languages.customize.Fallback.grouplabel  "લૅગસિ સમાવિષ્ટ માટે અક્ષર એનકોડીંગ">
 <!ENTITY languages.customize.Fallback.label       "ફૉલબેક અક્ષર એનકોડીંગ:">
 
+<!ENTITY languages.customize.Fallback.arabic      "અરેબિક">
+<!ENTITY languages.customize.Fallback.auto        "વર્તમાન લોકેલ માટે મૂળભૂત">
+<!ENTITY languages.customize.Fallback.baltic      "બાલ્ટિક">
+<!ENTITY languages.customize.Fallback.ceiso       "મધ્ય યુરોપિયન, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "મધ્ય યુરોપિયન, Microsoft">
+<!ENTITY languages.customize.Fallback.cyrillic    "સિરિલિક">
+<!ENTITY languages.customize.Fallback.greek       "ગ્રીક">
+<!ENTITY languages.customize.Fallback.hebrew      "હેબ્રુ">
+<!ENTITY languages.customize.Fallback.japanese    "જાપાની">
+<!ENTITY languages.customize.Fallback.korean      "કોરિયન">
+<!ENTITY languages.customize.Fallback.other       "બીજી (પશ્ર્ચિમ યુરોપિયન ઉમેરીને)">
+<!ENTITY languages.customize.Fallback.simplified  "ચીની, સરળ">
+<!ENTITY languages.customize.Fallback.thai        "થાઇ">
+<!ENTITY languages.customize.Fallback.traditional "ચીની, પ્રાચીન">
+<!ENTITY languages.customize.Fallback.turkish     "તુર્કિશ">
+<!ENTITY languages.customize.Fallback.vietnamese  "વિયેતનામીઝ">
+
 
 
 
