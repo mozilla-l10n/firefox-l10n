@@ -285,7 +285,7 @@ size. -->
 <!ENTITY bookmark_edit_name "Nosaukums">
 <!ENTITY bookmark_edit_location "Adrese">
 <!ENTITY bookmark_edit_keyword "Atslēgvārdi">
-!ENTITY pref_home_suggested_sites "Rādīt lapu ieteikumus">
+<!ENTITY pref_home_suggested_sites "Rādīt lapu ieteikumus">
 <!ENTITY pref_home_suggested_sites_summary "Rādīt sākumlapā saites uz lapām, kas, mūsuprāt, varētu Jums interesēt">
 <!ENTITY remote_tabs_last_synced "Pēdējā sinhronizācija: &formatS;">
 <!ENTITY switch_button_message "MAINĪT">
@@ -299,7 +299,7 @@ size. -->
 <!ENTITY help_menu "Palīdzība">
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
-!ENTITY locale_system_default "Sistēmas noklusētā">
+<!ENTITY locale_system_default "Sistēmas noklusētā">
 <!ENTITY reading_list_failed "Neizdevās pievienot lapu lasīšanas sarakstam">
 <!ENTITY reading_list_duplicate "Lapa jau ir jūsu lasīšanas sarakstā">
 <!ENTITY new_private_tab_opened "Atvērta jauna privātā cilne">
