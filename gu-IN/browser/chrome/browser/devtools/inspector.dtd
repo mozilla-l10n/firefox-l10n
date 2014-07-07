@@ -14,3 +14,9 @@
 
 <!ENTITY inspectorSearchHTML.label          "HTML ને શોધો">
 <!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "ઇમેજ Data-URL ની નકલ કરો">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
+<!ENTITY inspectorHTMLEdit.label       "HTML તરીકે ફેરફાર કરો">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
+<!ENTITY inspectorHTMLPasteOuter.label      "આઉટર HTML ને ચોંટાડો">
