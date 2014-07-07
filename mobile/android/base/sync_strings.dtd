@@ -36,6 +36,9 @@
 <!ENTITY sync.input.key.label 'Atgūšanas atslēga'>
 <!ENTITY sync.checkbox.server.label 'Izmanot citu serveri'>
 <!ENTITY sync.input.server.label 'Servera adrese'>
+
+<!ENTITY fxaccount_full_label 'Firefox konti'>
+<!ENTITY fxaccount_status_device_name 'Ierīces nosaukums'>
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Nevar iestatīt &syncBrand.shortName.label;'>
