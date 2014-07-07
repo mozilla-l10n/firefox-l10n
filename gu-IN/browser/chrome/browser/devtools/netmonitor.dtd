@@ -128,7 +128,7 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "મેળવી રહ્યા છે:">
 
-<!ENTITY netmonitorUI.emptyNotice2        "માંગણી કરો અથવા નેટવર્ક પ્રવૃત્તિ વિષે વિગતવાર જાણકારીને જોવા માટે પાનાંને પુન:લાવો.">
+
 <!ENTITY netmonitorUI.footer.filterAll    "બધા">
 <!ENTITY netmonitorUI.footer.filterCSS    "CSS">
 <!ENTITY netmonitorUI.footer.filterFlash  "ફ્લૅશ">
@@ -138,3 +138,30 @@
 <!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!ENTITY netmonitorUI.footer.filterMedia  "મીડિયા">
 <!ENTITY netmonitorUI.footer.filterXHR    "XHR">
+
+<!ENTITY netmonitorUI.backButton          "પાછા">
+<!ENTITY netmonitorUI.context.copyAsCurl    "cURL તરીકે નકલ કરો">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "માહિતી URI તરીકે ઇમેજની નકલ કરો">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
+<!ENTITY netmonitorUI.context.copyUrl     "URL ની નકલ">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
+<!ENTITY netmonitorUI.context.newTab      "નવી ટૅબમાં ખોલો">
+<!ENTITY netmonitorUI.context.newTab.accesskey "O">
+<!ENTITY netmonitorUI.context.perfTools   "પ્રભાવ વિશ્ર્લેષણને શરૂ કરો…">
+<!ENTITY netmonitorUI.context.perfTools.accesskey "S">
+<!ENTITY netmonitorUI.custom.cancel       "રદ કરો">
+<!ENTITY netmonitorUI.custom.headers      "હેડરની માંગણી:">
+<!ENTITY netmonitorUI.custom.newRequest   "નવી માંગણી">
+<!ENTITY netmonitorUI.custom.postData     "બોડીની માંગણી:">
+<!ENTITY netmonitorUI.custom.query        "ક્વેરી શબ્દમાળા:">
+<!ENTITY netmonitorUI.custom.send         "મોકલો">
+<!ENTITY netmonitorUI.emptyNotice3        "• માંગણી કરો અથવા નેટવર્ક પ્રવૃત્તિ વિશે વિગત થયેલ જાણકારીને જોવા પાનાંને ફરી લાવો.">
+<!ENTITY netmonitorUI.footer.clear  "સાફ કરો">
+<!ENTITY netmonitorUI.footer.filterOther  "બીજા">
+<!ENTITY netmonitorUI.footer.perf   "ટૉગલ પ્રભાવ વિશ્ર્લેષણ…">
+<!ENTITY netmonitorUI.perfNotice1         "• આની પર ક્લિક કરો">
+<!ENTITY netmonitorUI.perfNotice2         "પ્રભાવ વિશ્ર્લેષણને શરૂ કરવા બટન.">
+<!ENTITY netmonitorUI.summary.editAndResend "બદલો અને ફરી મોકલો">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "R">
+<!ENTITY netmonitorUI.tab.preview         "પૂર્વદર્શન">
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
