@@ -2,7 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY privatebrowsingpage.title                  "Vafra í einkaglugga">
 
+<!ENTITY privatebrowsingpage.issueDesc.private      "Þú hefur opnað nýjan einkaflipa.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Þú ert ekki í einkaflipa.">
 
+<!ENTITY privatebrowsingpage.description            "&brandShortName; mun ekki halda utan um vafra ferli, leitarsögu, niðurhal, vefeyðublaða sögu, smákökur eða tímabundna internetsskrár í eiknaflipa. Hins vegar munu skrár og bókarmerki sem þú nærð í og festir verða haldin til haga.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-
+<!ENTITY privatebrowsingpage.moreInfo               "Þrátt fyrir að þetta tæki muni ekki skrásetja vafrasögu þína þá gæti internet þjónustuaðili þinn haldið til haga þeim síðum sem þú heimsækir.">

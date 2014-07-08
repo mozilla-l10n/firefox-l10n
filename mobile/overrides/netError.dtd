@@ -42,10 +42,13 @@
 <strong>/</strong>).</li> 
 </ul>">
 
+<!ENTITY netInterrupt.title "Tengingin varð fyrir truflun">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Skjal útrunnið">
+<!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki fáanlegt í &brandShortName;'s skyniminninu.</p><ul><li>Sem hluti af varúðarráðstöfun þá biður &brandShortName; ekki sjálfkrafa aftur um viðkvæm skjöl.</li><li>Smellið á Reynið aftur til að biðja aftur um skjalið frá vefsvæðinu.</li></ul>">
 
-
-
+<!ENTITY netOffline.title "Aftengdur hamur">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og endurhlaða síðuna.</li> 
 </ul>">
@@ -91,7 +94,11 @@ smákökur.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Óvænt viðbrögð frá netþjóni">
-
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Athugaðu hvort kerfið þitt hafi Personal Security Manager 
+uppsettan.</li> 
+<li>Vera má að þetta sé vegna þess að netþjónninn er ekki stilltur eins og venjulega.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Örugg tenging mistókst">
 <!ENTITY nssFailure2.longDesc "
@@ -120,7 +127,8 @@ tímabundin og þú getur reynt aftur síðar.</li>
 <!ENTITY corruptedContentError.title "Brengluð innihalds villa">
 <!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða því villa greindist í gagna sendingu.</p><ul><li>Vinsamlega hafið samband við vefsvæðis eigendur og látið þá vita af vandamálinu.</li></ul>">
 
-
+<!ENTITY securityOverride.linkText "Eða þú getur bætt við fráviki...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér út héðan!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við fráviki...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

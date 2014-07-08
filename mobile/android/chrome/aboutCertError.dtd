@@ -22,10 +22,16 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Ef þú tengist vanalega    
 þessu svæði án vandkvæða, þá gæti þessi villa þýtt að einhver er  
 að reyna að herma eftir þessu svæði og þú ættir ekki að halda áfram.">
+<!ENTITY certerror.getMeOutOfHere.label "Hjálpaðu mér út héðan!">
 
+<!ENTITY certerror.expert.heading "Ég skil áhættuna">
+<!ENTITY certerror.expert.content "Ef þú skilur hvað er í gangi, þá getur þú 
+sagt &brandShortName; að treysta auðkenni þessa svæðis héðan í frá.
+<b>Þótt að þú treystir þessu svæði þá gæti þessi villa þýtt að einhver sé 
+að fikta við tenginguna þína.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ekki bæta við fráviki nema 
+þú vitir að góð ástæða er á baki þess að þetta svæði notar ekki trausta auðkenningu.">
+<!ENTITY certerror.addTemporaryException.label "Fara á svæði">
+<!ENTITY certerror.addPermanentException.label "Bæta við varanlegu fráviki">
 
-
-
-
-
-
+<!ENTITY certerror.technical.heading "Tæknilegar upplýsingar">
