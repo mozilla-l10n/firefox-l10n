@@ -8,9 +8,9 @@
 <!ENTITY index.help "ಸಹಾಯ">
 
 <!ENTITY device.debugMainProcess "ದೋಷನಿದಾನ ಮುಖ್ಯ ಪ್ರಕ್ರಿಯೆ">
-
+<!ENTITY device.debugMainProcessTooltip "ಸಾಧನದಲ್ಲಿನ ಮುಖ್ಯ ಪ್ರಕ್ರಿಯೆಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ವಿಕಸನೆಗಾರ ಉಪಕರಣಗಳನ್ನು ತೆರೆ">
 <!ENTITY device.screenshot "ತೆರೆಚಿತ್ರ">
-
+<!ENTITY device.screenshotTooltip "ಸಾಧನದ ಪ್ರಸಕ್ತ ಸ್ಥಿತಿಯ ಒಂದು ತೆರೆಚಿತ್ರವನ್ನು ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY device.title "ಸಾಧನ ನಿಯಂತ್ರಣ ಕೇಂದ್ರ">
 <!ENTITY device.notConnected "ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಕೆಳಗೆ ಸಂಪರ್ಕಿಸಿ.">
 <!ENTITY device.startApp "ಆರಂಭ">
@@ -18,14 +18,14 @@
 <!ENTITY device.stopApp "ನಿಲ್ಲಿಸು">
 <!ENTITY device.stopAppTooltip "ಸಾಧನದಲ್ಲಿ ಈ ಅನ್ವಯವನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY device.debugApp "ದೋಷನಿವಾರಣೆ">
-
+<!ENTITY device.debugAppTooltip "ಸಾಧನದಲ್ಲಿನ ಈ ಕಿರುಅನ್ವಯಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ವಿಕಸಗೆಗಾರ ಉಪಕರಣಗಳನ್ನು ತೆರೆ">
 <!ENTITY device.name "ಹೆಸರು">
 <!ENTITY device.plain "ಸಾದಾ (ಪೂರ್ವನಿಯೋಜಿತ)">
-
+<!ENTITY device.privileged "ಅಧಿಕಾರ ಹೊಂದಿರುವ">
 <!ENTITY device.certified "ಪ್ರಮಾಣೀಕೃತ">
 <!ENTITY device.allow "ಅನುಮತಿಸು">
-
-<!ENTITY device.prompt "ಪ್ರಾಂಪ್ಟ್‍">
+<!ENTITY device.allowTooltip "ಈ ಬಗೆಯ ಕಿರುಅನ್ವಯಗಳಿಗಾಗಿ ಈ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ">
+<!ENTITY device.prompt "ಪ್ರಾಂಪ್ಟ್">
 
 <!ENTITY device.deny "ನಿರಾಕರಿಸು">
 
