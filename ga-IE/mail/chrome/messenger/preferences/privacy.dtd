@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "C">
 <!ENTITY remoteContentExceptions.label "Eisceachtaí…">
 <!ENTITY remoteContentExceptions.accesskey "s">
-<!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
+<!ENTITY acceptRemoteContentInfo.label "Tuilleadh eolais faoin phríobháideacht agus ábhar i gcéin">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Inneachar Gréasáin">
@@ -37,5 +37,5 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY dntTrackingOkay.label2 "Cuir in iúl do shuímh Ghréasáin gur mhaith liom a bheith rianaithe">
 <!ENTITY dntTrackingOkay.accesskey "t">
-<!ENTITY doNotTrackInfo.label "Learn more about Do Not Track">
+<!ENTITY doNotTrackInfo.label "Tuilleadh eolais faoin ghné 'Ná Lorg'">
 

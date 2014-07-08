@@ -5,7 +5,7 @@
 <!ENTITY dockOptionsDialog.title "Roghanna an deilbhín">
 <!ENTITY window.macWidth "40em">
 
-<!ENTITY bounceSystemDockIcon.label "Animate the app icon when a new message arrives">
+<!ENTITY bounceSystemDockIcon.label "Beoigh an deilbhín nuair a thagann teachtaireacht nua isteach">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 <!ENTITY newMessagesCountDock.label "Líon na dteachtaireachtaí nua">
 <!ENTITY newMessagesCountDock.accesskey "n">
