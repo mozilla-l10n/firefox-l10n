@@ -1,0 +1,155 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Masukkan Alamat atau Yang Dicari">
+
+<!ENTITY back.label            "Kembali">
+<!ENTITY forward.label         "Maju">
+<!ENTITY newtab.label          "Tab Baru">
+<!ENTITY newPrivateTab.label   "Tab Pribadi Baru">
+<!ENTITY closetab.label        "Tutup Tab">
+
+<!ENTITY autocompleteResultsHeader.label  "Your Results">
+
+<!ENTITY appbarErrorConsole.label   "Buka konsol galat">
+<!ENTITY appbarJSShell.label        "Buka shell JavaScript">
+<!ENTITY appbarFindInPage2.label    "Cari di laman">
+<!ENTITY appbarRelaunchInDesktop.label "Buka Ulang di Desktop">
+<!ENTITY appbarMSMetaData2.label    "Dapatkan app untuk situs ini">
+<!ENTITY appbarViewPageSource.label    "Tampilkan kode sumber laman">
+
+<!ENTITY topSitesHeader.label        "Situs Teratas">
+<!ENTITY bookmarksHeader.label       "Markah">
+<!ENTITY recentHistoryHeader.label   "Riwayat Terakhir">
+<!ENTITY remoteTabsHeader.label      "Tab dari Perangkat Lainnya">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Situs Teratas">
+<!ENTITY narrowBookmarksHeader.label     "Markah">
+<!ENTITY narrowRecentHistoryHeader.label "Riwayat Terakhir">
+<!ENTITY narrowRemoteTabsHeader.label    "Tab Daring">
+
+<!ENTITY downloadsHeader.label     "Unduhan">
+<!ENTITY downloadShowPage.label    "Buka Lamannya">
+<!ENTITY downloadShow2.label       "Cari">
+<!ENTITY downloadOpen2.label       "Buka">
+<!ENTITY downloadCancel.label      "Batalkan">
+<!ENTITY downloadPause.label       "Jeda">
+<!ENTITY downloadResume.label      "Lanjutkan">
+<!ENTITY downloadRetry.label       "Coba Lagi">
+<!ENTITY downloadRemove.label      "Buang">
+<!ENTITY downloadDelete.label      "Hapus">
+<!ENTITY downloadFailed.label      "Gagal">
+
+<!ENTITY allBookmarks.label        "Tampilkan semua markah">
+
+<!ENTITY consoleHeader.label       "Konsol Galat">
+<!ENTITY consoleAll.label          "Semua">
+<!ENTITY consoleErrors.label       "Galat">
+<!ENTITY consoleWarnings.label     "Peringatan">
+<!ENTITY consoleMessages.label     "Pesan">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Bersihkan">
+<!ENTITY consoleCopyAll.label      "Salin">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Berkas Sumber:">
+<!ENTITY consoleErrLine.label      "Baris:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
+<!ENTITY consoleFollowCheckbox.label "Ikuti">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Potong">
+<!ENTITY contextTextCopy.label             "Salin">
+<!ENTITY contextTextPaste.label            "Tempel">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Tempel &amp; buka">
+<!ENTITY contextTextSelect.label           "Pilih">
+<!ENTITY contextTextSelectAll.label        "Pilih semua">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Buka tautan di tab baru">
+<!ENTITY contextCopyLinkHref.label         "Salin tautan">
+<!ENTITY contextBookmarkLinkHref.label     "Markahi tautan">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Simpan ke pustaka gambar">
+<!ENTITY contextCopyImage.label            "Salin gambar">
+<!ENTITY contextCopyImageLocation.label    "Salin lokasi gambar">
+<!ENTITY contextOpenImageTab.label         "Buka gambar di tab baru">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Simpan ke pustaka video">
+<!ENTITY contextCopyVideoLocation.label    "Salin lokasi video">
+<!ENTITY contextOpenVideoTab.label         "Buka video di tab baru">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Mencari daftar tab? gesek ke bawah atau klik kanan">
+<!ENTITY firstRunTopSites.label "Buka daftar situs yang paling sering dibuka">
+<!ENTITY firstRunBookmarks.label "Temukan laman yang disimpan sebelumnya">
+<!ENTITY firstRunMenu.label "Buka fitur dan opsi lainnya">
+<!ENTITY firstRunHistory.label "Lihat halaman yang pernah dikunjungi sebelumnya">
+<!ENTITY firstRunWelcome.label "Selamat datang di &brandShortName;">
+<!ENTITY firstRunDifferent.label "Kami memang berbeda">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Ketuk untuk kembali ke laman sebelumnya">
+<!ENTITY firstRunNewTab.label "Tambahkan tab baru untuk menjelajahi situs lainnya">
+<!ENTITY firstRunStar.label "Gunakan markah untuk menyimpan lokasi sebelumnya">
+<!ENTITY firstRunPin.label "Pin situs apa pun ke layar Windows Start untuk mempercepat aksesnya">
+<!ENTITY firstRunGotIt.label "Paham!">
