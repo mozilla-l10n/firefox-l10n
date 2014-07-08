@@ -62,11 +62,29 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; tab">
 <!ENTITY new_tab_opened "Tab baru dibuka">
+<!ENTITY new_private_tab_opened "Tab pribadi baru dibuka">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PINDAH">
 
 <!ENTITY settings "Setelan">
 <!ENTITY settings_title "Setelan">
 <!ENTITY pref_category_advanced "Canggih">
 <!ENTITY pref_category_customize "Ubahsuai">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Bahasa">
+<!ENTITY pref_browser_locale "Bahasa peramban">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Bahasa baku sistem">
+
+
 <!ENTITY pref_category_search3 "Pencarian">
 <!ENTITY pref_category_search_summary "Ubahsuai layanan pencari Anda">
 <!ENTITY pref_category_display "Tampilan">
@@ -103,11 +121,14 @@
 <!ENTITY pref_home_updates "Pembaruan otomatis">
 <!ENTITY pref_home_updates_enabled "Aktif">
 <!ENTITY pref_home_updates_wifi "Hanya lewat Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Tampilkan saran situs">
+<!ENTITY pref_home_suggested_sites_summary "Tampilkan pintasan ke situs pada beranda yang mungkin menarik bagi Anda">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Ubahsuai">
 <!ENTITY pref_header_display "Tampilan">
 <!ENTITY pref_header_privacy_short "Privasi">
+<!ENTITY pref_header_language "Bahasa">
 <!ENTITY pref_header_help "Bantuan">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Alat pengembang">
@@ -215,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Tidak pernah">
 <!ENTITY pref_update_autodownload_always "Selalu">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Bantuan">
+
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Pengaya">
@@ -277,8 +301,10 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Gulung bilah judul">
-
-<!ENTITY history_removed "Halaman dihapus">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Halaman dibuang">
 
 <!ENTITY bookmark_edit_title "Edit Markah">
 <!ENTITY bookmark_edit_name "Nama">
@@ -293,7 +319,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Tidak ada setelan untuk dihapus.">
 
 <!ENTITY reading_list_added "Halaman ditambahkan ke Daftar Bacaan">
-<!ENTITY reading_list_removed "Halaman dihapus dari Daftar Bacaan">
 <!ENTITY reading_list_failed "Gagal menambahkan halaman ke Daftar Bacaan">
 <!ENTITY reading_list_duplicate "Halaman telah ada di Daftar Bacaan">
 
@@ -320,6 +345,8 @@ size. -->
 <!ENTITY home_top_sites_add "Tambahkan situs">
 
 <!ENTITY home_history_title "Riwayat">
+<!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
+<!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat penjelajahan?">
 <!ENTITY home_bookmarks_empty "Markah yand disimpan akan tampil di sini.">
 <!ENTITY home_last_tabs_title "Tab sebelumnya">
 <!ENTITY home_last_tabs_open "Buka tab yang sebelumnya dibuka">
@@ -432,3 +459,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Selesai">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Terakhir disinkronkan: &formatS;">
