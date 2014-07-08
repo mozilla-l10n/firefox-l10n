@@ -105,7 +105,7 @@
 <!ENTITY sync.text.tab.sent.label 'Tab Anda telah dikirim!'>
 <!ENTITY sync.text.tab.not.sent.label 'Terjadi masalah saat mengirimkan tab.'>
 
-<!-- Firefox account strings. -->
+<!ENTITY fxaccount_full_label 'Akun Firefox'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -168,6 +168,7 @@
 
 <!ENTITY fxaccount_status_header2 'Akun Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Masuk sebagai'>
+<!ENTITY fxaccount_status_device_name 'Nama perangkat'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktif'>
 <!ENTITY fxaccount_status_needs_verification2 'Akun Anda harus diverifikasi terlebih dulu. Sentuh untuk mengirim ulang email verifikasi.'>
