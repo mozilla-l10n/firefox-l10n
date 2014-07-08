@@ -565,18 +565,18 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Taispeáin ábhar i gcéin sa teachtaireacht seo">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
-<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
-<!ENTITY editRemoteContentSettings.accesskey "E">
-<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
-<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
+<!ENTITY editRemoteContentSettings.label "Roghanna a bhaineann le hábhar i gcéin…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
+<!ENTITY editRemoteContentSettingsUnix.label "Sainroghanna a bhaineann le hábhar i gcéin…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "r">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Déan neamhaird de rabhadh a bhaineann leis an teachtaireacht seo">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Edit scam detection options…">
-<!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
-<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+<!ENTITY phishingOptionSettings.label "Roghanna a bhaineann le brath camscéimeanna…">
+<!ENTITY phishingOptionSettings.accesskey "o">
+<!ENTITY phishingOptionSettingsUnix.label "Sainroghanna a bhaineann le brath camscéimeanna…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "o">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
