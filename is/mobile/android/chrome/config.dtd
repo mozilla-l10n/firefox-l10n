@@ -3,7 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY toolbar.searchPlaceholder     "Leita">
 
+<!ENTITY newPref.namePlaceholder       "Nafn">
+
+<!ENTITY newPref.valueBoolean          "Boolean">
+<!ENTITY newPref.valueString           "Strengur">
 <!ENTITY newPref.valueInteger          "Heiltala">
 
 <!ENTITY newPref.stringPlaceholder     "Sláðu inn streng">

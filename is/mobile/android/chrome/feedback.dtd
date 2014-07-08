@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "Endurgjafartæki">
 
+<!ENTITY feedback.communicate.title     "Sagðu okkur frá!">
+<!ENTITY feedback.feedback.title        "Veittu endurgjöf">
+<!ENTITY feedback.feedback.good         "Gott">
+<!ENTITY feedback.feedback.bad          "Slæmt">
 
-
-
-
-
-
+<!ENTITY feedback.tools.title           "Verkfæri">
+<!ENTITY feedback.allowTelemetry.title  "Senda gögn um afköst">
+<!ENTITY feedback.forceCompat.title     "Neyða samhæfni við viðbætur">
+<!ENTITY feedback.errorConsole.title    "Virkja villustjórnskjá">

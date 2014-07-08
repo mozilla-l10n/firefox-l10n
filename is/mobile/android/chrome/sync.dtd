@@ -2,26 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sync.connect               "Tengjast">
+<!ENTITY sync.connected             "Tengd(ur)">
+<!ENTITY sync.details               "Nánar">
+<!ENTITY sync.deviceName            "Þetta tæki">
+<!ENTITY sync.disconnect            "Aftengja">
+<!ENTITY sync.syncNow               "Synca núna">
 
+<!ENTITY sync.setup.title           "Tengjast við Sync">
+<!ENTITY sync.setup.pair            "Veljið &quot;Para tæki&quot; á hinu tækinu þínu til að virkja.">
+<!ENTITY sync.fallback              "Ég er ekki nálægt tölvunni minni...">
+<!ENTITY sync.setup.manual          "Sláðu inn Sync reiknings upplýsingarnar þínar">
+<!ENTITY sync.account               "Notendanafn">
+<!ENTITY sync.password              "Lykilorð">
+<!ENTITY sync.recoveryKey           "Endurheimtu lykill">
+<!ENTITY sync.customServer          "Nota sérsniðinn netþjónn">
+<!ENTITY sync.serverURL             "Slóð þjóns">
+<!ENTITY sync.setup.connect         "Tengjast">
+<!ENTITY sync.setup.cancel          "Hætta við">
+<!ENTITY sync.setup.tutorial        "Sýna mér hvernig">
+<!ENTITY sync.setup.waiting2        "Beðið eftir öðru tæki...">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sync.pair.title            "Para tæki">
+<!ENTITY sync.pair.description      "Veldu &quot;Setja upp Sync&quot; á tækinu til að virkja nýja tækið þitt.">
+<!ENTITY sync.setup.close           "Loka">
+<!ENTITY sync.setup.waitingdownload "Gögnin þín eru nú að hlaðast niður í bakgrunninum. Þú getur lokað þessum glugga hvenær sem er.">
