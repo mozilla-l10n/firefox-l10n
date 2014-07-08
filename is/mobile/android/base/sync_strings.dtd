@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "Búið að senda flipann þinn!">
 <!ENTITY sync.text.tab.not.sent.label "Villa kom upp við að senda flipann þinn.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox reikningar">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "Tölvupóstfang">
 <!ENTITY fxaccount_password_hint "Lykilorð">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
+<!ENTITY fxaccount_status_device_name "Heiti á tæki">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; virkjað">
 <!ENTITY fxaccount_status_needs_verification2 "Staðfesta verður reikning þinn. Sláðu létt til að endursenda staðfestingar tölvupóst.">

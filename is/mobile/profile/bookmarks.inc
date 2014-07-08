@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title Handhæg tæki
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,9 +37,7 @@
 
 
 
-
 #define bookmarks_aboutBrowser Firefox: Um vafrann þinn
-
 
 
 
@@ -45,9 +45,7 @@
 
 
 
-
 # link title for https://addons.mozilla.org/en-US/mobile
-
 
 
 
@@ -55,9 +53,7 @@
 
 
 
-
 # LOCALIZATION NOTE (bookmarks_support):
-
 
 
 
@@ -65,9 +61,7 @@
 
 
 
-
 #define bookmarks_support Firefox: Stuðningur
-
 
 
 
@@ -75,14 +69,11 @@
 
 
 
-
 # link title for https://marketplace.firefox.com
 
 
 
-
 #define bookmarks_marketplace Firefox Marketplace
-
 
 
 

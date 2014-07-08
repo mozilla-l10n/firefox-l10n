@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; flipar">
 <!ENTITY new_tab_opened "Nýr flipi opnaður">
+<!ENTITY new_private_tab_opened "Nýr einkaflipi opnaður">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SKIPTA">
 
 <!ENTITY settings "Stillingar">
 <!ENTITY settings_title "Stillingar">
 <!ENTITY pref_category_advanced "Ítarlegt">
 <!ENTITY pref_category_customize "Sérsníða">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Tungumál">
+<!ENTITY pref_browser_locale "Vafra tungumál">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Sjálfgefið í kerfinu">
+
 <!ENTITY pref_category_search3 "Leit">
 <!ENTITY pref_category_search_summary "Stilla leitarvélar">
 <!ENTITY pref_category_display "Birta">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Sjálfvirkar uppfærslur">
 <!ENTITY pref_home_updates_enabled "Virkt">
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Sýna uppástungur">
+<!ENTITY pref_home_suggested_sites_summary "Sýna uppástungur á ræsisíðu þinni af svæðum sem við teljum að þér gætu þótt áhugaverðar">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Sérsníða">
 <!ENTITY pref_header_display "Birta">
 <!ENTITY pref_header_privacy_short "Gagnaleynd">
 <!ENTITY pref_header_help "Hjálp">
+<!ENTITY pref_header_language "Tungumál">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Verkfæri forritara">
 
@@ -128,7 +148,7 @@
 <!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virk">
-
+<!ENTITY pref_plugins_tap_to_play "Sláðu létt til að spila">
 <!ENTITY pref_plugins_disabled "Afvirkja">
 <!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_reflow_on_zoom4 "Endurflæði texta">
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Eingöngu með Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrei">
 <!ENTITY pref_update_autodownload_always "Alltaf">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Hjálp">
 
 <!ENTITY quit "Hætta">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Skrunu titilslá">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY page_removed "Síða fjarlægð">
 
 <!ENTITY bookmark_edit_title "Breyta bókarmerki">
 <!ENTITY bookmark_edit_name "Heiti">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Engar stillingar til að hreinsa.">
 
 <!ENTITY reading_list_added "Síðu bætt við lestrar listann þinn">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Mistókst að bæta síðu við lestrar listann">
 <!ENTITY reading_list_duplicate "Síðan er nú þegar á lestrar listanum þínum">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Bæta við svæði">
 
 <!ENTITY home_history_title "Ferill">
+<!ENTITY home_clear_history_button "Hreinsa feril">
+<!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
 <!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
 <!ENTITY home_last_tabs_title "Flipar frá því síðast">
 <!ENTITY home_last_tabs_open "Opna alla flipa frá því síðast">
@@ -434,3 +461,11 @@ frá Android">
 
 <!ENTITY actionbar_menu "Valmynd">
 <!ENTITY actionbar_done "Lokið">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Síðasta sync: &formatS;">
