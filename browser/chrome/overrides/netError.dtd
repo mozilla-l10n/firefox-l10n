@@ -58,7 +58,7 @@ bulunduğundan emin olun. Bu işaret sola değil,
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li> 
+<li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
@@ -157,4 +157,4 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Onları bu sorundan haberdar etmek için lütfen site sahipleri ile iletişime geçin.</li></ul></p>">
