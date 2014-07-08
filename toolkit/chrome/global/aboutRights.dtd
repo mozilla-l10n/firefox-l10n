@@ -65,7 +65,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Читање осетљиво на положај: ">
-<!ENTITY rights.locationawarebrowsing-b "је увек могућ. Никакве информације неће бити послате без Ваше дозволе. Ако желите да ову могућност трајно искључите, пратите следеће кораке:">
+<!ENTITY rights.locationawarebrowsing-b "је увек могуће. Никакве информације неће бити послате без Ваше дозволе. Ако желите да ову могућност трајно искључите, пратите следеће кораке:">
 <!ENTITY rights.locationawarebrowsing-term1a "У траци за адресу уенсите ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Укуцајте geo.enabled">
