@@ -26,12 +26,6 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Markah">
 <!ENTITY abouthome.historyButton.label   "Riwayat">
-<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
-     preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Pengaturan">
-<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
-     preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Pengaturan">
 <!ENTITY abouthome.settingsButton.label  "Pengaturan">
 <!ENTITY abouthome.addonsButton.label    "Pengaya">
 <!ENTITY abouthome.appsButton.label      "Bursa Maya">
