@@ -86,7 +86,7 @@
 
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
-<!ENTITY pref_category_display "Көрсету">
+<!ENTITY pref_category_display "Көрініс">
 <!ENTITY pref_category_privacy_short "Жекелік">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
@@ -120,12 +120,12 @@
 <!ENTITY pref_home_updates "Автожаңартулар">
 <!ENTITY pref_home_updates_enabled "Іске қосулы">
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
-<!ENTITY pref_home_suggested_sites "Сайттар ұсыныстарын көрсету">
-<!ENTITY pref_home_suggested_sites_summary "Біз сізге қызық болып көрінеді деп ойлайтын сайттарды үй парағыңызда көрсету">
+<!ENTITY pref_home_suggested_sites "Сайттарды ұсыну">
+<!ENTITY pref_home_suggested_sites_summary "Сізге қызық бола алатын сайттарды үй парағыңызда көрсету">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
-<!ENTITY pref_header_display "Көрсету">
+<!ENTITY pref_header_display "Көрініс">
 <!ENTITY pref_header_privacy_short "Жекелік">
 <!ENTITY pref_header_help "Көмек">
 <!ENTITY pref_header_language "Тіл">
@@ -151,7 +151,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ойнату үшін шерту">
 <!ENTITY pref_plugins_disabled "Сөндірілген">
 <!ENTITY pref_text_size "Мәтін өлшемі">
-<!ENTITY pref_reflow_on_zoom4 "Мәтін орналасуын қайта есептеу">
+<!ENTITY pref_reflow_on_zoom4 "Мәтін автокелтіру">
 <!ENTITY pref_restore "Беттер">
 <!ENTITY pref_restore_always "Әрқашан қалпына келтіру">
 <!ENTITY pref_restore_quit "&brandShortName; жұмысын аяқтағаннан кейін қалпына келтірмеу">
@@ -189,7 +189,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
-<!ENTITY pref_vendor_feedback "Кері байланыс хабарламасын жіберу">
+<!ENTITY pref_vendor_feedback "Кері байланыс">
 
 <!ENTITY pref_dialog_set_default "Үнсіз келісім ретінде орнату">
 <!ENTITY pref_dialog_default "Үнсiз келiсiм бойынша">
@@ -231,7 +231,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload2 "Жаңартуларды автоматты түрде жүктеп алу">
+<!ENTITY pref_update_autodownload2 "Жаңартуларды автожүктеу">
 <!ENTITY pref_update_autodownload_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_update_autodownload_never "Ешқашан">
 <!ENTITY pref_update_autodownload_always "Әрқашан">
@@ -413,7 +413,7 @@ Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_history "Тарихты Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_wait "Күте тұрыңыз…">
 
-<!ENTITY suggestions_prompt3 "Іздеу ұсыныстарын іске қосуды қалайсыз ба?">
+<!ENTITY suggestions_prompt3 "Іздеу ұсыныстарын іске қосу керек пе?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
