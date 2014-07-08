@@ -281,7 +281,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
-<!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
 <!ENTITY contextmenu_remove "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
