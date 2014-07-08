@@ -44,4 +44,16 @@
 <!ENTITY translation.errorTranslating.label     "Terjadi kesalahaan saat menerjemahkan laman ini.">
 <!ENTITY translation.tryAgain.button            "Coba Lagi">
 
+<!ENTITY translation.serviceUnavailable.label   "Penerjemahan sedang tidak tersedia. Coba lagi nanti.">
+
 <!ENTITY translation.options.menu               "Opsi">
+
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Jangan pernah menerjemahkan situs ini">
+<!ENTITY translation.options.neverForSite.accesskey "j">
+<!ENTITY translation.options.preferences.label  "Preferensi penerjemahan">
+<!ENTITY translation.options.preferences.accesskey "P">
