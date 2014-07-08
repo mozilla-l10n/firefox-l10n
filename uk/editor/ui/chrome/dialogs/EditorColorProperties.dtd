@@ -7,7 +7,7 @@
 <!ENTITY pageColors.label "Кольори сторінки">
 <!ENTITY defaultColorsRadio.label "Типові кольори читача (Не встановлювати кольори на сторінці)">
 <!ENTITY defaultColorsRadio.accessKey "Т">
-<!ENTITY defaultColorsRadio.tooltip "Використати налаштування кольору тільки із браузера переглядача (читача)">
+<!ENTITY defaultColorsRadio.tooltip "Використати налаштування кольору тільки із браузера читача">
 <!ENTITY customColorsRadio.label "Використати власні кольори:">
 <!ENTITY customColorsRadio.accessKey "В">
 <!ENTITY customColorsRadio.tooltip "Ці налаштування кольорів ігнорують налаштування браузера читача">

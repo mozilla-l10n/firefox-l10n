@@ -9,7 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Інтернетна консоль">
-<!ENTITY browserConsole.title "Консоль переглядача">
+<!ENTITY browserConsole.title "Консоль браузера">
 
 <!ENTITY networkPanel.requestURLColon             "URL запиту:">
 <!ENTITY networkPanel.requestMethodColon          "Спосіб запиту:">
