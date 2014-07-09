@@ -12,7 +12,7 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "Laman ini dalam">
+<!ENTITY translation.thisPageIsIn.label         "Laman ini dalam bahasa">
 <!ENTITY translation.translateThisPage.label    "Terjemahkan laman ini?">
 <!ENTITY translation.translate.button           "Terjemahkan">
 <!ENTITY translation.notNow.button              "Jangan Sekarang">
@@ -34,8 +34,8 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "Laman ini telah diterjemahkan dari">
-<!ENTITY translation.translatedTo.label         "ke">
+<!ENTITY translation.translatedFrom.label       "Laman ini telah diterjemahkan dari bahasa">
+<!ENTITY translation.translatedTo.label         "ke bahasa">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Tampilkan Aslinya">
