@@ -44,3 +44,20 @@
 
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
+
+<!ENTITY determiningAcctStatus.label     "તમારી ખાતા સ્થિતિને નક્કી કરી રહ્યા છે…">
+<!ENTITY disconnect.label            "જોડાણ તૂટી ગયુ…">
+<!ENTITY forget.label                "આ ઇમેઇલને ભૂલી જાઓ">
+<!ENTITY fxaPrivacyNotice.link.label "ખાનગી સૂચના">
+<!ENTITY manage.label                "સંચાલિત કરો">
+<!ENTITY notSignedIn.label           "તમે પ્રવેશેલ નથી.">
+<!ENTITY signIn.label                "પ્રવેશો">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY signedInLoginFailure.beforename.label "મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો">
+<!ENTITY signedInUnverified.aftername.label "ચકાસેલ નથી.">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY verify.label                "ઇમેઇલને ચકાસો">
+<!ENTITY welcome.createAccount.label "ખાતાને બનાવો">
+<!ENTITY welcome.description "ટૅબ, બુકમાર્ક, પાસવર્ડ અને વધારેને વાપરો ગમે ત્યાં તમે &brandShortName; વાપરો.">
+<!ENTITY welcome.signIn.label "પ્રવેશો">
+<!ENTITY welcome.useOldSync.label "શું તમે સુમેળની જૂની આવૃત્તિને વાપરી રહ્યા છે?">
