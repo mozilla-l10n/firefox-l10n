@@ -329,7 +329,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "邀請參與者">
-<!ENTITY event.organizer.label                  "組織">
+<!ENTITY event.organizer.label                  "召集人">
 <!ENTITY event.freebusy.suggest.slot            "推薦時段:">
 <!ENTITY event.freebusy.button.next.slot        "下一個時段">
 <!ENTITY event.freebusy.button.previous.slot    "上一個時段">
