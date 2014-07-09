@@ -22,7 +22,7 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "使用 HTML">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "自檔案附加簽名:">
+<!ENTITY signatureFile.label "從檔案附加簽名:">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "選擇…">
 <!ENTITY choose.accesskey "C">
