@@ -1,7 +1,0 @@
-googlemetrofx
-wp-pl
-allegro-pl
-wikipedia-pl
-pwn-pl
-merlin-pl
-wolnelektury-pl
