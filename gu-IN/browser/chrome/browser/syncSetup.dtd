@@ -122,3 +122,6 @@
 <!ENTITY setup.choicePage.existing2.label "હું પહેલેથી જ બીજા ઉપકરણ પર &syncBrand.shortName.label; ને વાપરી રહ્યા છે">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
+
+<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "Windows 8 શૈલી &brandShortName; સાથે સુમેળ કરો ">
