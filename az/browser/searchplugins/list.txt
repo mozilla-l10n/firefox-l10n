@@ -1,7 +1,7 @@
 amazondotcom
+azerdict
 bing
 eBay
 google
-twitter
-wikipedia
-yahoo
+wikipedia-az
+yandex-az
