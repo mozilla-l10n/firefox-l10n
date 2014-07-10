@@ -9,7 +9,7 @@
 <!ENTITY sync.details               "Nánar">
 <!ENTITY sync.deviceName            "Þetta tæki">
 <!ENTITY sync.disconnect            "Aftengja">
-<!ENTITY sync.syncNow               "Synca núna">
+<!ENTITY sync.syncNow               "Sync-a núna">
 
 <!ENTITY sync.setup.title           "Tengjast við Sync">
 <!ENTITY sync.setup.pair            "Veljið &quot;Para tæki&quot; á hinu tækinu þínu til að virkja.">

@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Hvað á að setja í sync">
-<!ENTITY sync.configure.engines.sync.my.title.label "Synca þitt...">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sync þín...">
 <!ENTITY sync.configure.engines.title.bookmarks "Bókarmerki">
 <!ENTITY sync.configure.engines.title.passwords "Lykilorð">
 <!ENTITY sync.configure.engines.title.history "Ferill">
@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Hætta við">
 <!ENTITY sync.button.connect.label "Tengjast">
-<!ENTITY sync.button.ok.label "Ok">
+<!ENTITY sync.button.ok.label "Í lagi">
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (rýrt)">
@@ -82,7 +82,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Óröðuð bókarmerki">
 <!ENTITY bookmarks.folder.desktop.label "Bókarmerki skjáborðs">
 <!ENTITY bookmarks.folder.mobile.label "Bókarmerki handhægra tækja">
-<!ENTITY bookmarks.folder.readinglist.label "Lestrarlisti">
+<!ENTITY bookmarks.folder.readinglist.label "Leslisti">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Pinned">
 <!-- Notification strings -->
@@ -97,7 +97,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Endurheimtu lykill rangur. Vinsamlega reyna aftur.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Sendi tækjum flipa">
+<!ENTITY sync.title.send.tab.label "Sendi flipa til tækja">
 <!ENTITY sync.button.send.label "Senda">
 <!ENTITY sync.button.set.up.sync.label "Stilla &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Stilla &syncBrand.shortName.label; til að senda flipa">
@@ -128,10 +128,10 @@
      the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "Skilmálar þjónustu">
-<!ENTITY fxaccount_policy_linkprivacy "Friðhelgis tilkynning">
+<!ENTITY fxaccount_policy_linkprivacy "Upplýsingar um meðferð persónuupplýsinga">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Velkomin í &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Skráðu þig inn til að synca flipa, bókarmerki, lykilorð og fleira.">
+<!ENTITY fxaccount_getting_started_description "Skráðu þig inn til að Sync-a flipa, bókarmerki, lykilorð og fleira.">
 <!ENTITY fxaccount_getting_started_get_started "Byrjaðu">
 <!ENTITY fxaccount_getting_started_old_firefox "Ertu að nota eldri útgáfu af &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -142,9 +142,9 @@
 <!ENTITY fxaccount_create_account_password_length_restriction "Verður að vera amk 8 stafir/tákn">
 <!ENTITY fxaccount_create_account_year_of_birth "Fæðingarár">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Ég gengst við &formatS1; og &formatS2; skilmálum Firefox skýjaþjónustunnar með því að halda áfram.">
-<!ENTITY fxaccount_create_account_button "Næsti">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Veldu hvað skal synca">
+<!ENTITY fxaccount_create_account_policy_text2 "Ég samþykki &formatS1; og &formatS2; Firefox skýjaþjónustunnar með því að halda áfram.">
+<!ENTITY fxaccount_create_account_button "Næsta þrep">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Veldu hvað skal Sync-a">
 <!ENTITY fxaccount_create_account_sign_in_instead "Nú þegar með reikning? Innskráning">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 eða fyrr">
 <!ENTITY fxaccount_create_account_unknown_error "Gat ekki stofnað reikning">
@@ -181,19 +181,19 @@
 <!ENTITY fxaccount_status_needs_verification2 "Staðfesta verður reikning þinn. Sláðu létt til að endursenda staðfestingar tölvupóst.">
 <!ENTITY fxaccount_status_needs_credentials "Tenging tókst ekki. Sláðu létt til að innskrá.">
 <!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Skiptu á \&quot;Sjálfvirkt synca gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; er ekki stillt til að synca sjálfvirkt. Sláðu létt til að hefja sync.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; er ekki stillt til að Sync-a sjálfvirkt. Sláðu létt til að hefja Sync.">
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
 <!ENTITY fxaccount_status_passwords "Lykilorð">
 <!ENTITY fxaccount_status_tabs "Opna flipa">
-<!ENTITY fxaccount_status_legal "Lögfræðimál" >
+<!ENTITY fxaccount_status_legal "Lagalegt" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Notendaskilmálar">
-<!ENTITY fxaccount_status_linkprivacy "Friðhelgis tilkynning">
+<!ENTITY fxaccount_status_linkprivacy "Upplýsingar um meðferð persónuupplýsinga ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
