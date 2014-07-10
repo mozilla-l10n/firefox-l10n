@@ -10,7 +10,7 @@
 
 <!ENTITY  bookmarks_title "Bókamerki">
 <!ENTITY  history_title "Ferill">
-<!ENTITY  reading_list_title "Lestrarlisti">
+<!ENTITY  reading_list_title "Leslisti">
 
 <!ENTITY  switch_to_tab "Fara í flipa">
 
@@ -33,7 +33,7 @@
 
 <!ENTITY choose_file "Veldu skrá">
 
-<!ENTITY url_bar_default_text "Færið inn leitartexta eða vistfang">
+<!ENTITY url_bar_default_text "Skrifaðu inn vistfang eða leitartexta">
 
 <!ENTITY bookmark "Bókamerki">
 <!ENTITY bookmark_added "Bókamerki bætt við">
@@ -77,7 +77,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Tungumál">
-<!ENTITY pref_browser_locale "Vafra tungumál">
+<!ENTITY pref_browser_locale "Tungumál vafra">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -90,7 +90,7 @@
 <!ENTITY pref_category_privacy_short "Gagnaleynd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Valkostir gagna">
-<!ENTITY pref_learn_more "Vita meira">
+<!ENTITY pref_learn_more "Lesa meira um þetta">
 <!ENTITY pref_category_installed_search_engines "Uppsettar leitarvélar">
 <!ENTITY pref_category_add_search_providers "Bæta við fleiri leitarvélum">
 <!ENTITY pref_category_search_restore_defaults "Enduruppsetja leitarvélar">
@@ -137,7 +137,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
-<!ENTITY pref_donottrack_menu "Fylgjast með">
+<!ENTITY pref_donottrack_menu "Eftirlit">
 <!ENTITY pref_donottrack_disallow_tracking "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
 <!ENTITY pref_donottrack_allow_tracking "Segja vefsvæðum að ég vilji láta fylgjast með mér">
 <!ENTITY pref_donottrack_no_pref "Ekki segja vefsvæðum frá því hvort ég hef valið að láta fylgjast með mér">
@@ -151,10 +151,10 @@
 <!ENTITY pref_plugins_tap_to_play "Sláðu létt til að spila">
 <!ENTITY pref_plugins_disabled "Afvirkja">
 <!ENTITY pref_text_size "Stærð texta">
-<!ENTITY pref_reflow_on_zoom4 "Endurflæði texta">
+<!ENTITY pref_reflow_on_zoom4 "Sjálfvirk endurstilling texta">
 <!ENTITY pref_restore "Flipar">
 <!ENTITY pref_restore_always "Alltaf endurheimta">
-<!ENTITY pref_restore_quit "Ekki endurheimta að loknu &brandShortName;">
+<!ENTITY pref_restore_quit "Ekki endurheimta þegar &brandShortName; er lokað">
 <!ENTITY pref_font_size_tiny "Örsmátt">
 <!ENTITY pref_font_size_small "Lítið">
 <!ENTITY pref_font_size_medium "Miðstærð">
@@ -170,10 +170,10 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur stekkur yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
+<!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur hoppar yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
-<!ENTITY pref_show_product_announcements "Sýna vörutilkynningar">
+<!ENTITY pref_show_product_announcements "Sýna tilkynningar um vörur">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_import_android "Flytja inn frá Android">
@@ -250,12 +250,12 @@ size. -->
 <!ENTITY share_title "Deila með">
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
-<!ENTITY find_in_page "Finn á síðu">
-<!ENTITY desktop_mode "Biðja um skjáborðs svæði">
+<!ENTITY find_in_page "Finna á síðu">
+<!ENTITY desktop_mode "Fá venjulega síðu (ekki mobile)">
 <!ENTITY page "Síða">
 <!ENTITY tools "Verkfæri">
 <!ENTITY new_tab "Nýr flipi">
-<!ENTITY new_private_tab "Nýr einka flipi">
+<!ENTITY new_private_tab "Nýr einkaflipi">
 <!ENTITY close_all_tabs "Loka öllum flipum">
 <!ENTITY tabs_normal "Flipar">
 <!ENTITY tabs_private "Einka">
@@ -281,22 +281,22 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
 <!ENTITY contextmenu_open_in_reader "Opna í lesara">
 <!ENTITY contextmenu_remove "Fjarlægja">
-<!ENTITY contextmenu_add_to_launcher "Bæta við heimasvæði">
+<!ENTITY contextmenu_add_to_launcher "Bæta við á ræsisíðu">
 <!ENTITY contextmenu_share "Deila">
 <!ENTITY contextmenu_pasteandgo "Líma og hlaða">
 <!ENTITY contextmenu_paste "Líma">
 <!ENTITY contextmenu_copyurl "Afrita vistfang">
 <!ENTITY contextmenu_edit_bookmark "Breyta">
 <!ENTITY contextmenu_subscribe "Panta áskrift af síðu">
-<!ENTITY contextmenu_site_settings "Breyta svæðis stillingum">
+<!ENTITY contextmenu_site_settings "Breyta svæðisstillingum">
 <!ENTITY contextmenu_top_sites_edit "Breyta">
 <!ENTITY contextmenu_top_sites_pin "Festa svæði">
 <!ENTITY contextmenu_top_sites_unpin "Losa svæði">
 <!ENTITY contextmenu_add_search_engine "Bæta við leitarvél">
 
 <!ENTITY pref_titlebar_mode "Titilslá">
-<!ENTITY pref_titlebar_mode_title "Sýni síðutitil">
-<!ENTITY pref_titlebar_mode_url "Sýna vistfang síðu">
+<!ENTITY pref_titlebar_mode_title "Sýna titil síðunnar">
+<!ENTITY pref_titlebar_mode_url "Sýna vistfang síðunnar">
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -319,8 +319,8 @@ size. -->
 <!ENTITY site_settings_clear        "Hreinsa">
 <!ENTITY site_settings_no_settings  "Engar stillingar til að hreinsa.">
 
-<!ENTITY reading_list_added "Síðu bætt við lestrar listann þinn">
-<!ENTITY reading_list_failed "Mistókst að bæta síðu við lestrar listann">
+<!ENTITY reading_list_added "Síðu bætt við leslistann þinn">
+<!ENTITY reading_list_failed "Ekki tókst að bæta síðu við leslistann">
 <!ENTITY reading_list_duplicate "Síðan er nú þegar á lestrar listanum þínum">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -332,7 +332,7 @@ size. -->
 <!ENTITY masterpassword_password "Lykilorð">
 <!ENTITY masterpassword_confirm "Staðfesta lykilorð">
 
-<!ENTITY button_ok "Ok">
+<!ENTITY button_ok "Í lagi">
 <!ENTITY button_cancel "Hætta við">
 <!ENTITY button_yes "Já">
 <!ENTITY button_no "Nei">
@@ -349,20 +349,20 @@ size. -->
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
 <!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
-<!ENTITY home_last_tabs_title "Flipar frá því síðast">
-<!ENTITY home_last_tabs_open "Opna alla flipa frá því síðast">
+<!ENTITY home_last_tabs_title "Flipar sem voru opnir síðast þegar þú notaðir vafrann">
+<!ENTITY home_last_tabs_open "Opna alla flipa frá því síðast þegar þú notaðir vafrann">
 <!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
-<!ENTITY home_most_recent_title "Nýjast">
+<!ENTITY home_most_recent_title "Nýjustu svæðin">
 <!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
 <!ENTITY home_reading_list_empty "Greinar sem þú vistar til að skoða síðar birtast hér.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Ábending: Vistaðu greinar á lestrarlista þinn með því að halda lengi niðri &formatI; táknmyndinni þegar hún birtist í titilslánni.">
+<!ENTITY home_reading_list_hint2 "Ábending: Vistaðu greinar á leslista þinn með því að halda lengi niðri &formatI; táknmyndinni þegar hún birtist í titilslánni.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Ábending: Vistaðu greinar á lestrarlistann þinn með því að halda lengi niðri lestrarhams hnappinum þegar hann birtist í titilslánni.">
+<!ENTITY home_reading_list_hint_accessible "Ábending: Vistaðu greinar á leslistann þinn með því að halda lengi niðri lestrarhams hnappinum þegar hann birtist í titilslánni.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -404,7 +404,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY keep_blocking "Halda áfram að loka">
 
 <!ENTITY private_data_success "Einkagögn hreinsuð">
-<!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn.">
+<!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn">
 
 <!ENTITY bookmarkhistory_button_import "Flytja inn">
 <!ENTITY bookmarkhistory_import_both "Flytja inn bókarmerki og ferli  
