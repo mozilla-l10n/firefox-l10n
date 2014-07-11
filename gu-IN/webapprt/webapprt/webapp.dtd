@@ -46,3 +46,4 @@
 <!ENTITY selectAllCmd.label                 "બધુ પસંદ કરો">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY quitApplicationCmdUnix.key          "Q">
