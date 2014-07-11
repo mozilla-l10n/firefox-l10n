@@ -46,6 +46,7 @@ the same access key (though the two access keys can also be different).
 <!ENTITY downloadsListEmpty.label         "ત્યાં ડાઉનલોડ નથી.">
 <!ENTITY downloadsListNoMatch.label       "કોઇપણ બંધબેસતા ડાઉનલોડને શોધી શક્યા નહિં.">
 <!ENTITY downloadsSummary.minWidth2       "21ch">
+<!ENTITY downloadsPanelEmpty.label        "આ સત્ર માટે ડાઉનલોડ નથી.">
 
 
 
