@@ -171,8 +171,8 @@
 <!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
 <!ENTITY responsiveDesignTool.accesskey "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY eyedropper.label "Recogecolor">
-<!ENTITY eyedropper.accesskey "R">
+<!ENTITY eyedropper.label "Selector de color">
+<!ENTITY eyedropper.accesskey "S">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "o">
 <!ENTITY scratchpad.keycode "VK_F4">
