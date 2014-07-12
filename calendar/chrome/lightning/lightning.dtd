@@ -40,6 +40,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Pulse para mostrar más opciones">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Reconfirmar">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Envía una reconfirmación al organizador">
+<!ENTITY lightning.imipbar.btnSaveCopy.label "Guardar una copia">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Guardar una copia del evento en el calendario con independencia de la respuesta al organizador. Se vaciará la lista de asistentes.">
 <!ENTITY lightning.imipbar.btnTentative.label "Tentativo">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Aceptar invitación al evento provisionalmente">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Todo provisional">
