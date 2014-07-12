@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Več zavihkov (&formatD;)">
 <!ENTITY new_tab_opened "Odprt nov zavihek">
+<!ENTITY new_private_tab_opened "Odprt nov zaseben zavihek">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PREKLOPI">
 
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Jezik">
+<!ENTITY pref_browser_locale "Jezik brskalnika">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Privzeto v sistemu">
+
 <!ENTITY pref_category_search3 "Iskanje">
 <!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
 <!ENTITY pref_category_display "Prikaži">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Samodejne posodobitve">
 <!ENTITY pref_home_updates_enabled "Omogočeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Prikaži predloge strani">
+<!ENTITY pref_home_suggested_sites_summary "Na domači strani prikaži bližnjice do strani, ki vas utegnejo zanimati">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Po meri">
 <!ENTITY pref_header_display "Prikaži">
 <!ENTITY pref_header_privacy_short "Zasebnost">
 <!ENTITY pref_header_help "Pomoč">
+<!ENTITY pref_header_language "Jezik">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Ravzojna orodja">
 
@@ -216,6 +236,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Onemogočeno">
 <!ENTITY pref_update_autodownload_always "Omogočeno">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Pomoč">
+
 <!ENTITY quit "Izhod">
 
 <!ENTITY addons "Dodatki">
@@ -279,7 +302,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Drseča naslovna vrstica">
 
-<!ENTITY history_removed "Stran odstranjena">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Stran odstranjena">
 
 <!ENTITY bookmark_edit_title "Uredi zaznamek">
 <!ENTITY bookmark_edit_name "Ime">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
 <!ENTITY reading_list_added "Stran dodana na bralni seznam">
-<!ENTITY reading_list_removed "Stran odstranjena iz bralnega seznama">
 <!ENTITY reading_list_failed "Dodajanje strani na bralni seznam ni uspelo">
 <!ENTITY reading_list_duplicate "Stran je že dodana na vaš bralni seznam">
 
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Dodaj stran">
 
 <!ENTITY home_history_title "Zgodovina">
+<!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
+<!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
 <!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
 <!ENTITY home_last_tabs_title "Nazadnje odprti zavihki">
 <!ENTITY home_last_tabs_open "Odpri vse nazadnje odprte zavihke">
@@ -434,3 +461,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meni">
 <!ENTITY actionbar_done "Končaj">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Zadnja sinhronizacija: &formatS;">
