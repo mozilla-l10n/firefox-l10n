@@ -82,15 +82,15 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "Sjálfgefið í kerfinu">
+<!ENTITY locale_system_default "Sjálfgefið í stýrikerfinu">
 
 <!ENTITY pref_category_search3 "Leit">
 <!ENTITY pref_category_search_summary "Stilla leitarvélar">
-<!ENTITY pref_category_display "Birta">
+<!ENTITY pref_category_display "Birting">
 <!ENTITY pref_category_privacy_short "Gagnaleynd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_datareporting "Valkostir gagna">
-<!ENTITY pref_learn_more "Lesa meira um þetta">
+<!ENTITY pref_category_datareporting "Fleiri valkostir">
+<!ENTITY pref_learn_more "Fræðast meira">
 <!ENTITY pref_category_installed_search_engines "Uppsettar leitarvélar">
 <!ENTITY pref_category_add_search_providers "Bæta við fleiri leitarvélum">
 <!ENTITY pref_category_search_restore_defaults "Enduruppsetja leitarvélar">
@@ -101,12 +101,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og síðan smella á &formatI; merkið.">
+<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og síðan slá á &formatI; merkið.">
 <!ENTITY pref_category_devtools "Verkfæri forritara">
 <!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
 <!ENTITY pref_remember_signons "Muna lykilorð">
 
-<!ENTITY pref_category_home "Heim">
+<!ENTITY pref_category_home "Ræsisíða">
 <!ENTITY pref_category_home_summary "Stilla ræsisíðuna">
 <!ENTITY pref_category_home_panels "Spjöld">
 <!ENTITY pref_home_add_panel "Bæta við spjaldi">
@@ -118,14 +118,14 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 bætt við á ræsisíðu">
 <!ENTITY pref_category_home_content_settings "Stilla innihald">
 <!ENTITY pref_home_updates "Sjálfvirkar uppfærslur">
-<!ENTITY pref_home_updates_enabled "Virkt">
+<!ENTITY pref_home_updates_enabled "Virktar">
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sýna uppástungur">
 <!ENTITY pref_home_suggested_sites_summary "Sýna uppástungur á ræsisíðu þinni af svæðum sem við teljum að þér gætu þótt áhugaverðar">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Sérsníða">
-<!ENTITY pref_header_display "Birta">
+<!ENTITY pref_header_display "Birting">
 <!ENTITY pref_header_privacy_short "Gagnaleynd">
 <!ENTITY pref_header_help "Hjálp">
 <!ENTITY pref_header_language "Tungumál">
@@ -142,14 +142,14 @@
 <!ENTITY pref_donottrack_allow_tracking "Segja vefsvæðum að ég vilji láta fylgjast með mér">
 <!ENTITY pref_donottrack_no_pref "Ekki segja vefsvæðum frá því hvort ég hef valið að láta fylgjast með mér">
 
-<!ENTITY pref_char_encoding "Dulkóðun tákna">
+<!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
 <!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
 <!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
 <!ENTITY pref_plugins "Tengiforrit">
-<!ENTITY pref_plugins_enabled "Virk">
+<!ENTITY pref_plugins_enabled "Virkt">
 <!ENTITY pref_plugins_tap_to_play "Sláðu létt til að spila">
-<!ENTITY pref_plugins_disabled "Afvirkja">
+<!ENTITY pref_plugins_disabled "Óvirk">
 <!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_reflow_on_zoom4 "Sjálfvirk endurstilling texta">
 <!ENTITY pref_restore "Flipar">
@@ -216,9 +216,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; heilsuskýrsla">
+<!ENTITY datareporting_fhr_title "&brandShortName; ástandsskoðun">
 <!ENTITY datareporting_fhr_summary2 "Deila gögnum með &vendorShortName; um heilsufar vafrans þín og hjálpar þér að skilja afköst vafrans þíns">
-<!ENTITY datareporting_abouthr_title "Skoða heilsuskýrslu mína">
+<!ENTITY datareporting_abouthr_title "Líta á ástandsskoðunina">
 <!ENTITY datareporting_telemetry_title "Fjarmælingar">
 <!ENTITY datareporting_telemetry_summary "Miðla &vendorShortName; afköstum, notkun, vélbúnaði og sérsníðnum gögnum um vafrann þinn til að hjálpa okkur að gera&brandShortName; betri">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sendir hrunaskýrslu til að hjálpa &vendorShortName; gera vafrann þinn stöðugri og öruggari">
@@ -251,7 +251,7 @@ size. -->
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
 <!ENTITY find_in_page "Finna á síðu">
-<!ENTITY desktop_mode "Fá venjulega síðu (ekki mobile)">
+<!ENTITY desktop_mode "Fá venjulega síðu">
 <!ENTITY page "Síða">
 <!ENTITY tools "Verkfæri">
 <!ENTITY new_tab "Nýr flipi">
@@ -319,9 +319,9 @@ size. -->
 <!ENTITY site_settings_clear        "Hreinsa">
 <!ENTITY site_settings_no_settings  "Engar stillingar til að hreinsa.">
 
-<!ENTITY reading_list_added "Síðu bætt við leslistann þinn">
+<!ENTITY reading_list_added "Síðunni bætt við leslistann þinn">
 <!ENTITY reading_list_failed "Ekki tókst að bæta síðu við leslistann">
-<!ENTITY reading_list_duplicate "Síðan er nú þegar á lestrar listanum þínum">
+<!ENTITY reading_list_duplicate "Síðan er nú þegar á leslistanum þínum">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -362,7 +362,7 @@ size. -->
 <!ENTITY home_reading_list_hint2 "Ábending: Vistaðu greinar á leslista þinn með því að halda lengi niðri &formatI; táknmyndinni þegar hún birtist í titilslánni.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Ábending: Vistaðu greinar á leslistann þinn með því að halda lengi niðri lestrarhams hnappinum þegar hann birtist í titilslánni.">
+<!ENTITY home_reading_list_hint_accessible "Ábending: Vistaðu greinar á leslistann þinn með því að halda lengi niðri leslista hnappinum þegar hann birtist í titilslánni.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -398,7 +398,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "Þessi síða birtir efni sem er ekki öruggt.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; hefur lokað á efni sem er ekki öruggt.">
 <!ENTITY blocked_mixed_content_message_bottom "Flest svæði munu samt virka eðlilega þrátt fyrir að lokað sé á þetta efni.">
-<!ENTITY learn_more "Læra meira">
+<!ENTITY learn_more "Fræðast meira">
 <!ENTITY enable_protection "Virkja vörn">
 <!ENTITY disable_protection "Slökkva á vörn">
 <!ENTITY keep_blocking "Halda áfram að loka">
@@ -434,7 +434,7 @@ frá Android">
 
 <!ENTITY updater_downloading_title2 "Hleð niður &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Niðurhal mistókst">
-<!ENTITY updater_downloading_select2 "Snertu til að virkja uppfærsluna þegar niðurhali lýkur">
+<!ENTITY updater_downloading_select2 "Snertu til að virkja uppfærsluna eftir að niðurhali loknu">
 <!ENTITY updater_downloading_retry2 "Snertu til að reyna aftur">
 
 <!ENTITY updater_apply_title2 "Uppfærsla fáanleg fyrir &brandShortName;">

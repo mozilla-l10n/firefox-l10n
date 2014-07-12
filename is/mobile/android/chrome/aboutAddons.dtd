@@ -8,6 +8,6 @@
 <!ENTITY aboutAddons.browseAll                  "Skoða allar Firefox viðbætur">
 
 <!ENTITY addonAction.enable                     "Virkja">
-<!ENTITY addonAction.disable                    "Afvirkja">
+<!ENTITY addonAction.disable                    "Óvirkja">
 <!ENTITY addonAction.uninstall                  "Taka út">
 <!ENTITY addonAction.undo                       "Hætta við">

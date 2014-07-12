@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Um &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; er á prófunarstigi og gæti verið rysjóttur">
-<!ENTITY aboutPage.telemetryStart               "   Sendir sjálfvirkt upplýsingar um afköst, vélbúnað, notkun og aðlögun aftur til   ">
+<!ENTITY aboutPage.telemetryStart               "Vafrinn sendir upplýsingar um afköst, vélbúnað, notkun og aðlögun sjálfvirkt aftur til   ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "  til að hjálpa við að gera&brandShortName; betra.">
+<!ENTITY aboutPage.telemetryEnd                 "  til að hjálpa við að gera &brandShortName; betri.">
 <!ENTITY aboutPage.checkForUpdates.link         "Athuga með uppfærslur  »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Leita að uppfærslum...">
+<!ENTITY aboutPage.checkForUpdates.checking     "Grennslast fyrir um uppfærslur...">
 <!ENTITY aboutPage.checkForUpdates.none         "Engar uppfærslur tiltækar">
 <!ENTITY aboutPage.checkForUpdates.available2   "Hala niður uppfærslu">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Er að hala niður uppfærslu...">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Setja inn uppfærslu">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Stuðningur">
-<!ENTITY aboutPage.privacyPolicy.label          "Upplýsingar um meðferð persónuupplýsinga ">
+<!ENTITY aboutPage.privacyPolicy.label          "Meðferð persónuupplýsinga ">
 <!ENTITY aboutPage.rights.label                 "Lærðu rétt þinn">
-<!ENTITY aboutPage.relNotes.label               "Útgáfuskjöl">
+<!ENTITY aboutPage.relNotes.label               "Útgáfuupplýsingar">
 <!ENTITY aboutPage.credits.label                "Þakkir">
 <!ENTITY aboutPage.license.label                "Upplýsingar um leyfi">

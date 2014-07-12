@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Handvirk uppsetning">
 <!ENTITY sync.subtitle.nointernet.label "Engin internet tenging í boði.">
 <!ENTITY sync.subtitle.failaccount.label "Ekki tókst að stofna reikning á tækinu þínu.">
-<!ENTITY sync.subtitle.failmultiple.label "Ertu með fleiri en eina útgáfu af Firefox uppsetta? Akkúrat núna styður &syncBrand.fullName.label; eingöngu eina uppsetta útgáfu af Firefox hverju sinni. Vinsamlega taka út taka út aðrar útgáfur til að nota &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "Ertu með fleiri en eina útgáfu af Firefox á tækinu? Akkúrat núna styður &syncBrand.fullName.label; eingöngu eina uppsetta útgáfu af Firefox hverju sinni. Vinsamlega taka út taka út aðrar útgáfur til að nota &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Uppsetningu lokið">
@@ -128,11 +128,11 @@
      the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "Skilmálar þjónustu">
-<!ENTITY fxaccount_policy_linkprivacy "Upplýsingar um meðferð persónuupplýsinga">
+<!ENTITY fxaccount_policy_linkprivacy "Meðferð persónuupplýsinga">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Velkomin í &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Skráðu þig inn til að Sync-a flipa, bókarmerki, lykilorð og fleira.">
-<!ENTITY fxaccount_getting_started_get_started "Byrjaðu">
+<!ENTITY fxaccount_getting_started_get_started "Hefjast handa">
 <!ENTITY fxaccount_getting_started_old_firefox "Ertu að nota eldri útgáfu af &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
@@ -151,7 +151,7 @@
 
 <!ENTITY fxaccount_account_create_not_allowed "Get ekki stofnað reikning">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Þú verður að vera ákveðið gamall/gömul til að stofna reikning.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Læra meira">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Fræðast meira">
 
 <!ENTITY fxaccount_confirm_account_header "Staðfesta reikninginn þinn">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
@@ -193,7 +193,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Notendaskilmálar">
-<!ENTITY fxaccount_status_linkprivacy "Upplýsingar um meðferð persónuupplýsinga ">
+<!ENTITY fxaccount_status_linkprivacy "Meðferð persónuupplýsinga ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

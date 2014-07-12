@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sync-a núna">
 
 <!ENTITY sync.setup.title           "Tengjast við Sync">
-<!ENTITY sync.setup.pair            "Veljið &quot;Para tæki&quot; á hinu tækinu þínu til að virkja.">
+<!ENTITY sync.setup.pair            "Veldu &quot;Para tæki&quot; á hinu tækinu þínu til að virkja.">
 <!ENTITY sync.fallback              "Ég er ekki nálægt tölvunni minni...">
 <!ENTITY sync.setup.manual          "Sláðu inn Sync reiknings upplýsingarnar þínar">
 <!ENTITY sync.account               "Notendanafn">
