@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webový obsah">
 
+<!ENTITY keepHistory.label "Zapamätať si webové stránky a odkazy, ktoré navštívim">
+<!ENTITY keepHistory.accesskey "m">
 <!ENTITY acceptCookies.label "Povoliť cookies webových stránok">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Povoliť cookies tretích strán:">
