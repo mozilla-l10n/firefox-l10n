@@ -419,7 +419,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue   "Jätka">
 <!ENTITY guest_session_dialog_cancel     "Loobu">
 <!ENTITY new_guest_session_title         "&brandShortName; taaskäivitub nüüd">
-<!ENTITY new_guest_session_text          "Külalisseanssi kasutav inimene ei näe sinu isiklikke veebilehitsemise andmeid (näiteks salvestatud paroolid, ajalugu ja järjehoidjad).\n\nKui külaline on kasutamise lõpetanud, siis kustutatakse tema veebilehitsemise andmed ning sinu seanss taastatakse.">
+<!ENTITY new_guest_session_text          "Külalisseanssi kasutaja ei näe sinu isiklikke veebilehitsemise andmeid (näiteks salvestatud paroole, ajalugu ja järjehoidjaid).\n\nKui külaline on kasutamise lõpetanud, siis kustutatakse tema lehitsemisandmed ning taastatakse sinu seanss.">
 
 <!ENTITY exit_guest_session_title        "&brandShortName; taaskäivitub nüüd">
 <!ENTITY exit_guest_session_text         "Selle seansi veebilehitsemise andmed kustutatakse.">
