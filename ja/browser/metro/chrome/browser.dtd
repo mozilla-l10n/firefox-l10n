@@ -9,14 +9,17 @@
 <!ENTITY back.label            "戻る">
 <!ENTITY forward.label         "進む">
 <!ENTITY newtab.label          "新しいタブ">
+<!ENTITY newPrivateTab.label   "新しいプライベートタブ">
 <!ENTITY closetab.label        "タブを閉じる">
 
 <!ENTITY autocompleteResultsHeader.label  "検索結果">
 
-<!ENTITY appbarErrorConsole.label   "エラーコンソールを開く">
-<!ENTITY appbarJSShell.label        "JavaScript シェルを開く">
-<!ENTITY appbarFindInPage2.label    "ページを検索">
-<!ENTITY appbarViewOnDesktop2.label "デスクトップで表示">
+<!ENTITY appbarErrorConsole.label      "エラーコンソールを開く">
+<!ENTITY appbarJSShell.label           "JavaScript シェルを開く">
+<!ENTITY appbarFindInPage2.label       "ページを検索">
+<!ENTITY appbarRelaunchInDesktop.label "デスクトップに移動して表示">
+<!ENTITY appbarMSMetaData2.label       "このサイトのアプリを入手">
+<!ENTITY appbarViewPageSource.label    "ページのソースを表示">
 
 <!ENTITY topSitesHeader.label        "トップサイト">
 <!ENTITY bookmarksHeader.label       "ブックマーク">
@@ -56,10 +59,12 @@
 <!ENTITY consoleMessages.label     "メッセージ">
 <!ENTITY consoleCodeEval.label     "コード:">
 <!ENTITY consoleClear.label        "消去">
+<!ENTITY consoleCopyAll.label      "コピー">
 <!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "ソース:">
 <!ENTITY consoleErrLine.label      "行:">
 <!ENTITY consoleErrColumn.label    "列:">
+<!ENTITY consoleFollowCheckbox.label "フォロー">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "切り取り">
@@ -101,9 +106,47 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+<!ENTITY firstRunTabs.label		"プルダウン、または右クリックでタブを表示">
+<!ENTITY firstRunTopSites.label		"よく見るサイト">
+<!ENTITY firstRunBookmarks.label	"後で見るページ">
+<!ENTITY firstRunMenu.label		"その他の機能とオプション">
+<!ENTITY firstRunHistory.label		"今まで見たページ">
+<!ENTITY firstRunWelcome.label		"&brandShortName; へようこそ">
+<!ENTITY firstRunDifferent.label	"Different by design">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label		"タップすると前のページへ戻ります">
+<!ENTITY firstRunNewTab.label		"新しいサイトを探す新しいタブを追加します">
+<!ENTITY firstRunStar.label		"あとで見るページを保存するブックマークを使用します">
+<!ENTITY firstRunPin.label		"Windows のスタートスクリーンにサイトをピン止めすると、すばやくアクセスできます">
+<!ENTITY firstRunGotIt.label		"了解！">

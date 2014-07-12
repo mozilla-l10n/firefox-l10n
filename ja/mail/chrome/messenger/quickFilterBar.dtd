@@ -23,6 +23,13 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
          "Q">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "クイックフィルタバー">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -39,13 +46,6 @@
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
          "フォルダを切り替えても現在の絞り込みを維持します">
-
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-<!ENTITY quickFilterBar.barLabel.label
-         "クイックフィルタ:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
