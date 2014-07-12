@@ -66,7 +66,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Veebileht vastas võrgu päringule ootamatult ja veebilehitseja ei saa jätkata.</p>">
 
 <!ENTITY nssFailure2.title "Turvalise ühenduse viga">
-<!ENTITY nssFailure2.longDesc "<p>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsuse kontrollimine ei õnnestunud.</p><ul><li>Palun võta veebilehe omanikuga ühendust ja teavita teda probleemist.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsust polnud võimalik kontrollida.</p><ul><li>Palun võta veebilehe omanikuga ühendust ja teavita teda probleemist.</li></ul>">
 
 <!ENTITY nssBadCert.title "Turvalise ühenduse viga">
 <!ENTITY nssBadCert.longDesc2 "<ul>
