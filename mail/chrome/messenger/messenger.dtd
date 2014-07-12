@@ -75,8 +75,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey		"w">
 <!ENTITY synchronizeOfflineCmd.label		"今すぐダウンロードして同期...">
 <!ENTITY synchronizeOfflineCmd.accesskey	"S">
-<!ENTITY settingsOfflineCmd.label		"オフライン設定...">
-<!ENTITY settingsOfflineCmd.accesskey		"e">
+<!ENTITY settingsOfflineCmd2.label		"オフライン設定">
+<!ENTITY settingsOfflineCmd2.accesskey		"e">
 <!ENTITY downloadSelectedCmd.label		"選択したメッセージを受信">
 <!ENTITY downloadSelectedCmd.accesskey		"l">
 <!ENTITY downloadStarredCmd.label		"スターを付けたメッセージを受信">
@@ -113,9 +113,9 @@
 <!ENTITY selectFlaggedCmd.accesskey		"S">
 <!ENTITY menuFavoriteFolder.label		"お気に入り">
 <!ENTITY menuFavoriteFolder.accesskey		"v">
-<!ENTITY folderPropsCmd.label			"プロパティ...">
-<!ENTITY folderPropsFolderCmd.label		"フォルダのプロパティ...">
-<!ENTITY folderPropsNewsgroupCmd.label		"ニュースグループのプロパティ...">
+<!ENTITY folderPropsCmd2.label			"プロパティ">
+<!ENTITY folderPropsFolderCmd2.label		"フォルダのプロパティ">
+<!ENTITY folderPropsNewsgroupCmd2.label		"ニュースグループのプロパティ">
 <!ENTITY folderPropsCmd.accesskey		"o">
 <!ENTITY undoDeleteMsgCmd.label			"元に戻す - メッセージの削除">
 <!ENTITY redoDeleteMsgCmd.label			"やり直し - メッセージの削除">
@@ -163,6 +163,8 @@
 <!ENTITY favoriteFolders.accesskey		"F">
 <!ENTITY recentFolders.label			"最近使用したフォルダ">
 <!ENTITY recentFolders.accesskey		"R">
+<!ENTITY compactVersion.label			"コンパクトビュー">
+<!ENTITY compactVersion.accesskey		"C">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label				"並べ替え順序">
@@ -174,7 +176,7 @@
 <!ENTITY sortByStarCmd.label			"スター">
 <!ENTITY sortByStarCmd.accesskey		"S">
 <!ENTITY sortByAttachmentsCmd.label		"添付">
-<!ENTITY sortByAttachmentsCmd.accesskey		"A">
+<!ENTITY sortByAttachmentsCmd.accesskey		"m">
 <!ENTITY sortByPriorityCmd.label		"重要度">
 <!ENTITY sortByPriorityCmd.accesskey		"P">
 <!ENTITY sortBySizeCmd.label			"サイズ">
@@ -316,8 +318,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey	"S">
 <!ENTITY folderMenu.label		"フォルダ">
 <!ENTITY folderMenu.accesskey		"O">
-<!ENTITY thisFolder.label		"このフォルダ">
-<!ENTITY thisFolder.accesskey		"F">
 <!ENTITY goRecentlyClosedTabs.label	"最近閉じたタブ">
 <!ENTITY goRecentlyClosedTabs.accesskey	"R">
 <!ENTITY startPageCmd.label		"&brandShortName; スタートページ">
@@ -358,9 +358,9 @@
 <!ENTITY forwardAsInline.accesskey	"I">
 <!ENTITY forwardAsAttachmentCmd.label	"添付ファイル">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label		"新しいメッセージとして編集">
-<!ENTITY editMsgAsNewCmd.accesskey	"E">
-<!ENTITY editMsgAsNewCmd.key		"e">
+<!ENTITY editAsNewMsgCmd.label		"新しいメッセージとして編集">
+<!ENTITY editAsNewMsgCmd.accesskey	"E">
+<!ENTITY editAsNewMsgCmd.key		"e">
 <!ENTITY createFilter.label		"メッセージからフィルタを作成...">
 <!ENTITY createFilter.accesskey		"a">
 <!ENTITY moveMsgToMenu.label		"別のフォルダに移動"><!-- contextMoveMsgMenu.label と同じ動作 -->
@@ -383,10 +383,6 @@
 <!ENTITY watchThreadMenu.label		"注目スレッドに設定">
 <!ENTITY watchThreadMenu.accesskey	"W">
 <!ENTITY watchThreadMenu.key		"w">
-<!ENTITY fileHereMenu.label		"ここへ移動">
-<!ENTITY fileHereMenu.accesskey		"F">
-<!ENTITY copyHereMenu.label		"ここへコピー">
-<!ENTITY copyHereMenu.accesskey		"C">
 <!ENTITY tagMenu.label			"タグ">
 <!ENTITY tagMenu.accesskey		"g">
 <!ENTITY tagCmd0.key			"0">
@@ -468,8 +464,8 @@
 <!ENTITY savedFiles.label		"保存したファイル">
 <!ENTITY savedFiles.accesskey		"l">
 <!ENTITY savedFiles.key			"j">
-<!ENTITY filtersCmd.label		"メッセージフィルタ...">
-<!ENTITY filtersCmd.accesskey		"F">
+<!ENTITY filtersCmd2.label		"メッセージフィルタ">
+<!ENTITY filtersCmd2.accesskey		"F">
 <!ENTITY filtersApply.label		"フォルダにフィルタを適用">
 <!ENTITY filtersApply.accesskey		"R">
 <!ENTITY filtersApplyToSelection.label	"選択しているメッセージにフィルタを適用">
@@ -487,11 +483,11 @@
 <!ENTITY errorConsoleCmd.commandkey	"j">
 <!ENTITY clearRecentHistory.label	"最近の履歴を消去...">
 <!ENTITY clearRecentHistory.accesskey	"H">
-<!ENTITY accountManagerCmd.label	"アカウント設定...">
-<!ENTITY accountManagerCmd.accesskey	"S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label	"アカウント設定">
+<!ENTITY accountManagerCmd2.accesskey	"S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey	"A">
+<!ENTITY accountManagerCmdUnix2.accesskey	"A">
 <!ENTITY allowRemoteDebugging.label	"リモートデバッグを許可">
 <!ENTITY allowRemoteDebugging.accesskey	"g">
 
@@ -569,11 +565,26 @@
 <!ENTITY buttonMenuForwardAsInline.label	"メッセージ本文として転送"><!-- en-US: "Forward Inline" -->
 <!ENTITY buttonMenuForwardAsAttachment.label	"添付ファイルとして転送">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label		"このメッセージ内のリモートコンテンツを表示する">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey	"S">
+<!ENTITY editRemoteContentSettings.label		"リモートコンテンツ設定を変更する...">
+<!ENTITY editRemoteContentSettings.accesskey		"E">
+<!ENTITY editRemoteContentSettingsUnix.label		"リモートコンテンツ設定を変更する...">
+<!ENTITY editRemoteContentSettingsUnix.accesskey	"E">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label			"このメッセージの警告を無視する">
+<!ENTITY phishingOptionIgnore.accesskey			"n">
+<!ENTITY phishingOptionSettings.label			"詐欺メール検出オプションを変更する...">
+<!ENTITY phishingOptionSettings.accesskey		"d">
+<!ENTITY phishingOptionSettingsUnix.label		"詐欺メール検出設定を変更する...">
+<!ENTITY phishingOptionSettingsUnix.accesskey		"d">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label		"新規作成"><!-- en-US: "New Message" -->
 <!ENTITY appmenuNewContactCmd.label	"アドレス帳の連絡先...">
 <!ENTITY appmenuEditMenu.label		"編集">
-<!ENTITY appmenuQFBMenu.label		"クイックフィルタバー">
 <!ENTITY appmenuToolbarLayout.label	"ツールバーのカスタマイズ...">
 <!ENTITY appmenuSelectThread.label	"スレッドを選択">
 <!ENTITY appmenuSelectFlagged.label	"スター付きのメッセージを選択">
@@ -588,7 +599,7 @@
 <!ENTITY folderSizeColumn.label		"サイズ">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label			"メッセージを取得する">
+<!ENTITY folderContextGetMessages.label			"メッセージを受信する">
 <!ENTITY folderContextGetMessages.accesskey		"G">
 <!ENTITY folderContextOpenInNewWindow.label		"新しいウィンドウで開く">
 <!ENTITY folderContextOpenInNewWindow.accesskey		"O">
@@ -618,12 +629,12 @@
 <!ENTITY folderContextSubscribe.accesskey		"b">
 <!ENTITY folderContextSearchForMessages.label		"メッセージを検索...">
 <!ENTITY folderContextSearchForMessages.accesskey	"S">
-<!ENTITY folderContextProperties.label			"プロパティ...">
-<!ENTITY folderContextProperties.accesskey		"P">
+<!ENTITY folderContextProperties2.label			"プロパティ">
+<!ENTITY folderContextProperties2.accesskey		"P">
 <!ENTITY folderContextFavoriteFolder.label		"お気に入りフォルダ">
 <!ENTITY folderContextFavoriteFolder.accesskey		"a">
-<!ENTITY folderContextSettings.label			"設定...">
-<!ENTITY folderContextSettings.accesskey		"e">
+<!ENTITY folderContextSettings2.label			"設定">
+<!ENTITY folderContextSettings2.accesskey		"e">
 
 <!-- Search Bar-->
 <!ENTITY SearchNameOrEmail.label		"名前やメールに含まれる単語:">
@@ -663,26 +674,26 @@
 <!ENTITY attachmentColumn.label		"添付">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip		"クリックすると表示する列を選択できます">
-<!ENTITY threadColumn.tooltip		"クリックするとメッセージをスレッド形式で表示します">
-<!ENTITY fromColumn.tooltip		"クリックすると差出人で並べ替えます">
-<!ENTITY recipientColumn.tooltip	"クリックすると受信者で並べ替えます">
-<!ENTITY subjectColumn.tooltip		"クリックすると件名で並べ替えます">
-<!ENTITY dateColumn.tooltip		"クリックすると送信日時で並べ替えます">
-<!ENTITY priorityColumn.tooltip		"クリックすると重要度で並べ替えます">
-<!ENTITY tagsColumn.tooltip		"クリックするとタグで並べ替えます">
-<!ENTITY accountColumn.tooltip		"クリックするとアカウントで並べ替えます">
-<!ENTITY statusColumn.tooltip		"クリックすると状態で並べ替えます">
-<!ENTITY sizeColumn.tooltip		"クリックするとサイズで並べ替えます">
-<!ENTITY junkStatusColumn.tooltip	"クリックすると迷惑マークの有無で並べ替えます">
-<!ENTITY unreadColumn.tooltip		"スレッドの未読メッセージ数">
-<!ENTITY totalColumn.tooltip		"スレッドの合計メッセージ数">
-<!ENTITY readColumn.tooltip		"クリックすると既読かどうかで並べ替えます">
-<!ENTITY receivedColumn.tooltip		"クリックすると受信日時で並べ替えます">
-<!ENTITY starredColumn.tooltip		"クリックするとスターの有無で並べ替えます">
-<!ENTITY locationColumn.tooltip		"クリックするとフォルダで並べ替えます">
-<!ENTITY idColumn.tooltip		"クリックすると受信した順で並べ替えます">
-<!ENTITY attachmentColumn.tooltip	"クリックすると添付の有無で並べ替えます">
+<!ENTITY columnChooser2.tooltip		"表示する列を選択します">
+<!ENTITY threadColumn2.tooltip		"メッセージをスレッド形式で表示します">
+<!ENTITY fromColumn2.tooltip		"差出人で並べ替えます">
+<!ENTITY recipientColumn2.tooltip	"受信者で並べ替えます">
+<!ENTITY subjectColumn2.tooltip		"件名で並べ替えます">
+<!ENTITY dateColumn2.tooltip		"送信日時で並べ替えます">
+<!ENTITY priorityColumn2.tooltip	"重要度で並べ替えます">
+<!ENTITY tagsColumn2.tooltip		"タグで並べ替えます">
+<!ENTITY accountColumn2.tooltip		"アカウントで並べ替えます">
+<!ENTITY statusColumn2.tooltip		"状態で並べ替えます">
+<!ENTITY sizeColumn2.tooltip		"サイズで並べ替えます">
+<!ENTITY junkStatusColumn2.tooltip	"迷惑マークの有無で並べ替えます">
+<!ENTITY unreadColumn2.tooltip		"スレッドの未読メッセージ数">
+<!ENTITY totalColumn2.tooltip		"スレッドの合計メッセージ数">
+<!ENTITY readColumn2.tooltip		"既読かどうかで並べ替えます">
+<!ENTITY receivedColumn2.tooltip	"受信日時で並べ替えます">
+<!ENTITY starredColumn2.tooltip		"スターの有無で並べ替えます">
+<!ENTITY locationColumn2.tooltip	"フォルダで並べ替えます">
+<!ENTITY idColumn2.tooltip		"受信順で並べ替えます">
+<!ENTITY attachmentColumn2.tooltip	"添付の有無で並べ替えます">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label		"新しいウィンドウでメッセージを開く">
@@ -695,8 +706,10 @@
 <!ENTITY contextOpenNewTab.accesskey		"T">
 <!ENTITY contextOpenConversation.label		"新しいタブでスレッドを開く"><!-- en-US: "Open Message in Conversation" -->
 <!ENTITY contextOpenConversation.accesskey	"n">
-<!ENTITY contextEditAsNew.label			"新しく編集...">
-<!ENTITY contextEditAsNew.accesskey		"E">
+<!ENTITY contextOpenContainingFolder.label	"メッセージを含むフォルダを開く">
+<!ENTITY contextOpenContainingFolder.accesskey	"n">
+<!ENTITY contextEditMsgAsNew.label		"新しいメッセージとして編集">
+<!ENTITY contextEditMsgAsNew.accesskey		"E">
 <!ENTITY contextArchive.label			"アーカイブ">
 <!ENTITY contextArchive.accesskey		"h">
 <!ENTITY contextReplySender.label		"送信者だけに返信">
@@ -791,27 +804,6 @@
 <!ENTITY contextUnmute.label		"ミュート解除">
 <!ENTITY contextUnmute.accesskey	"m">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label		"このメッセージは迷惑メールであると思われます。">
-<!ENTITY junkBarButton1.label		"非迷惑メール">
-<!ENTITY junkInfoButton.label		"？">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label	"プライバシー保護のため、このメッセージ内のリモートコンテンツをブロックしました。">
-<!ENTITY loadRemoteContentButton3.label	"リモートコンテンツを表示する">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label	"このメッセージは詐欺メールの可能性があります。">
-<!ENTITY removePhishingBarButton1.label	"警告を無視する">
-<!ENTITY disablePhishingWarning1.label	"すべてのメッセージについて詐欺メールの検出を無効にします">
-<!ENTITY reportPhishingError1.label	"このメッセージは詐欺メールではなさそうです。">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label	"無視">
-<!ENTITY mdnBarIgnoreButton2.accesskey	"I">
-<!ENTITY mdnBarSendButton2.label	"開封確認を送付">
-<!ENTITY mdnBarSendButton2.accesskey	"S">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -846,8 +838,8 @@
 <!ENTITY AddToAddressBook.accesskey	"B">
 <!ENTITY AddDirectlyToAddressBook.label	"アドレス帳に追加...">
 <!ENTITY AddDirectlyToAddressBook.accesskey	"B">
-<!ENTITY EditContact.label		"連絡先を編集...">
-<!ENTITY EditContact.accesskey		"E">
+<!ENTITY EditContact1.label		"連絡先を編集">
+<!ENTITY EditContact1.accesskey		"E">
 <!ENTITY ViewContact.label		"連絡先を表示">
 <!ENTITY ViewContact.accesskey		"V">
 <!ENTITY SubscribeToNewsgroup.label	"ニュースグループを購読">
@@ -898,7 +890,7 @@
 <!ENTITY bringAllToFront.label		"すべてを前面に移動">
 <!ENTITY zoomWindow.label		"拡大/縮小">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label	"環境設定...">
+<!ENTITY preferencesCmdMac2.label	"環境設定">
 <!ENTITY preferencesCmdMac.commandkey	",">
 <!ENTITY preferencesCmdMac.modifiers	"accel">
 <!ENTITY servicesMenuMac.label		"サービス">
@@ -909,3 +901,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey	"H">
 <!ENTITY hideOtherAppsCmdMac.modifiers	"accel,alt">
 <!ENTITY showAllAppsCmdMac.label	"すべてを表示">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label		"アプリケーションアイコンのオプション...">
