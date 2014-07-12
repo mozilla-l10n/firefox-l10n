@@ -43,5 +43,5 @@
     -  is clicked -->
 <!ENTITY csscoverage.footer1 "Poznámky ku generovaniu prehľadov nájdete v článku">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
-<!ENTITY csscoverage.footer3 " CSS Coverage Tool">
-<!ENTITY csscoverage.footer4 "na serveri MDN."
+<!ENTITY csscoverage.footer3 "CSS Coverage Tool">
+<!ENTITY csscoverage.footer4 "na serveri MDN.">
