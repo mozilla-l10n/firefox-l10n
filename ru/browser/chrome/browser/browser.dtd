@@ -54,6 +54,12 @@
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Обновить все вкладки">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "о">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Добавить все вкладки в закладки…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "а">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Восстановить закрытую вкладку">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "н">
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
