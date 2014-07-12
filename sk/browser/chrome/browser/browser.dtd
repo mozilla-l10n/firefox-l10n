@@ -81,9 +81,12 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "b">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "z">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "t">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Obnoviť všetky karty">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Pridať všetky karty medzi záložky……">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Obnoviť zatvorenú kartu">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
