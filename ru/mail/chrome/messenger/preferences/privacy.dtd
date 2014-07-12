@@ -4,11 +4,13 @@
 
 <!ENTITY captionMailContent.label "Содержимое электронной почты">
 <!ENTITY acceptRemoteContent.label "Разрешить в сообщениях показ содержимого из Интернета">
-<!ENTITY acceptRemoteContent.accesskey "ш">
+<!ENTITY acceptRemoteContent.accesskey "а">
 <!ENTITY remoteContentExceptions.label "Исключения…">
 <!ENTITY remoteContentExceptions.accesskey "ю">
 <!ENTITY acceptRemoteContentInfo.label "Узнайте больше о вопросах приватности для содержимого из Интернета">
 <!ENTITY captionWebContent.label "Содержимое веб-сайтов">
+<!ENTITY keepHistory.label "Помнить посещённые мной веб-сайты и ссылки">
+<!ENTITY keepHistory.accesskey "м">
 <!ENTITY acceptCookies.label "Принимать куки с сайтов">
 <!ENTITY acceptCookies.accesskey "н">
 <!ENTITY acceptThirdParty.pre.label "Принимать куки со сторонних сайтов:">
