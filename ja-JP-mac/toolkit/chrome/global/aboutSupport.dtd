@@ -7,15 +7,28 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle	"このページには問題発生時に役立てられる技術情報が表示されます。&brandShortName; に関する一般的な質問については <a id='supportLink'>サポートサイト</a> をご覧ください。">
 
-
-
-
+<!ENTITY aboutSupport.crashes.title		"クラッシュレポート">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id		"レポート ID">
+<!ENTITY aboutSupport.crashes.sendDate		"送信日時">
+<!ENTITY aboutSupport.crashes.allReports	"すべてのクラッシュレポート">
+<!ENTITY aboutSupport.crashes.noConfig		"このアプリケーションはクラッシュレポートを表示できるように設定されていません。">
 
 <!ENTITY aboutSupport.extensionsTitle	"拡張機能">
 <!ENTITY aboutSupport.extensionName	"名前">
 <!ENTITY aboutSupport.extensionEnabled	"有効">
 <!ENTITY aboutSupport.extensionVersion	"バージョン">
 <!ENTITY aboutSupport.extensionId	"ID">
+
+<!ENTITY aboutSupport.experimentsTitle		"実験的な機能">
+<!ENTITY aboutSupport.experimentName		"名前">
+<!ENTITY aboutSupport.experimentId		"ID">
+<!ENTITY aboutSupport.experimentDescription	"説明">
+<!ENTITY aboutSupport.experimentActive		"アクティブ">
+<!ENTITY aboutSupport.experimentEndDate		"終了日">
+<!ENTITY aboutSupport.experimentHomepage	"ホームページ">
+
 
 <!ENTITY aboutSupport.appBasicsTitle		"アプリケーション基本情報">
 <!ENTITY aboutSupport.appBasicsName		"名前">
@@ -35,7 +48,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins	"有効なプラグイン">
 <!ENTITY aboutSupport.appBasicsBuildConfig	"ビルド設定">
 <!ENTITY aboutSupport.appBasicsUserAgent	"ユーザエージェント">
-<!ENTITY aboutSupport.appBasicsCrashIDs		"クラッシュレポート">
 <!ENTITY aboutSupport.appBasicsMemoryUse	"メモリ使用量">
 
 <!ENTITY aboutSupport.showDir.label		"ディレクトリを開く"><!-- Win/Mac 以外 -->

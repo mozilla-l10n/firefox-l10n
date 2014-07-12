@@ -54,6 +54,7 @@
 <!ENTITY back "戻る">
 <!ENTITY stop "中止">
 <!ENTITY site_security "サイトセキュリティ">
+<!ENTITY edit_mode_cancel "キャンセル">
 
 <!ENTITY close_tab "タブを閉じる">
 <!ENTITY one_tab "1 個のタブ">
@@ -61,32 +62,73 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; 個のタブ">
 <!ENTITY new_tab_opened "新規タブを開きました">
+<!ENTITY new_private_tab_opened "プライベートタブを開きました">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "切り替え">
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
 <!ENTITY pref_category_advanced "詳細">
 <!ENTITY pref_category_customize "カスタマイズ">
-<!ENTITY pref_category_search2 "検索設定">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "言語">
+<!ENTITY pref_browser_locale "ブラウザの言語">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "システム標準">
+
+<!ENTITY pref_category_search3 "検索">
+<!ENTITY pref_category_search_summary "検索プロバイダをカスタマイズ">
 <!ENTITY pref_category_display "表示">
 <!ENTITY pref_category_privacy_short "プライバシー">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "データの選択">
+<!ENTITY pref_learn_more "さらに詳しく">
 <!ENTITY pref_category_installed_search_engines "インストール済みの検索エンジン">
 <!ENTITY pref_category_add_search_providers "検索プロバイダを追加">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "検索エンジンを復元">
+<!ENTITY pref_search_restore_defaults "デフォルトに復元">
+<!ENTITY pref_search_restore_defaults_summary "デフォルトに復元">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "ヒント: サイトの検索フィールド上で長押しすることで、どのサイトでも検索プロバイダに追加できます">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "ヒント: サイトの検索フィールド上で長押しした後、&formatI; アイコンをタップすることで、どのサイトでも検索プロバイダに追加できます">
 <!ENTITY pref_category_devtools "デベロッパーツール">
 <!ENTITY pref_developer_remotedebugging "リモートデバッグ">
-<!ENTITY pref_developer_remotedebugging_docs "さらに詳しく">
 <!ENTITY pref_remember_signons "パスワードを保存する">
+
+<!ENTITY pref_category_home "ホーム">
+<!ENTITY pref_category_home_summary "ホームページをカスタマイズ">
+<!ENTITY pref_category_home_panels "パネル">
+<!ENTITY pref_home_add_panel "パネルを追加">
+<!ENTITY home_add_panel_title "新しいパネルを追加">
+<!ENTITY home_add_panel_empty "申し訳ありません、追加するパネルを見つけられませんでした">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' をホームページに追加しました">
+<!ENTITY pref_category_home_content_settings "コンテンツ設定">
+<!ENTITY pref_home_updates "自動アップデート">
+<!ENTITY pref_home_updates_enabled "有効">
+<!ENTITY pref_home_updates_wifi "Wi-Fi のみ有効">
+<!ENTITY pref_home_suggested_sites "おすすめのサイトを表示">
+<!ENTITY pref_home_suggested_sites_summary "ホームページにサイトのショートカットを表示することで、興味のあるものを見つけるのに役立ちます">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "カスタマイズ">
 <!ENTITY pref_header_display "表示">
 <!ENTITY pref_header_privacy_short "プライバシー">
 <!ENTITY pref_header_help "ヘルプ">
+<!ENTITY pref_header_language "言語">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "デベロッパーツール">
 
@@ -135,23 +177,31 @@ size. -->
 <!ENTITY pref_sync "Firefox Sync で同期">
 <!ENTITY pref_search_suggestions "検索語句の候補を表示">
 <!ENTITY pref_import_android "Android から読み込む">
-<!ENTITY pref_private_data_history "閲覧とダウンロードの履歴">
+<!ENTITY pref_private_data_history2 "閲覧履歴">
 <!ENTITY pref_private_data_formdata "フォームと検索の履歴">
 <!ENTITY pref_private_data_cookies2 "Cookie">
 <!ENTITY pref_private_data_passwords "保存されたパスワード">
 <!ENTITY pref_private_data_cache "キャッシュ">
 <!ENTITY pref_private_data_offlineApps "オフライン作業用データ">
 <!ENTITY pref_private_data_siteSettings2 "サイト設定">
-<!ENTITY pref_private_data_downloadFiles "ダウンロードしたファイル">
+<!ENTITY pref_private_data_downloadFiles2 "ダウンロードしたファイル">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; について">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "フィードバックをください">
-<!ENTITY pref_search_set_default "デフォルトに設定">
-<!ENTITY pref_search_default "デフォルト">
-<!ENTITY pref_search_remove "削除">
+
+<!ENTITY pref_dialog_set_default "デフォルトに設定">
+<!ENTITY pref_dialog_default "デフォルト">
+<!ENTITY pref_dialog_remove "削除">
+
 <!ENTITY pref_search_last_toast "最後の検索エンジンを削除や無効化することはできません">
+
+<!ENTITY pref_panels_show "表示">
+<!ENTITY pref_panels_hide "隠す">
+<!ENTITY pref_panels_reorder "並べ替え">
+<!ENTITY pref_panels_move_up "上に移動">
+<!ENTITY pref_panels_move_down "下に移動">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計とデータ">
 <!ENTITY datareporting_notification_action_long "共有する情報を選択してください">
@@ -175,13 +225,19 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "クラッシュレポータ">
-<!ENTITY datareporting_wifi_title "&vendorShortName; 位置情報サービス">
-<!ENTITY datareporting_wifi_summary "基地局のデータを匿名で &brandShortName; に収集し送信させることにより、オープンな Web のための位置情報サービスの向上に役立ちます">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; 位置情報サービス">
+<!ENTITY datareporting_wifi_geolocation_summary "位置情報サービスの向上のため、バックグラウンドでの動作時に Wi-Fi と基地局の位置情報を受信し、&vendorShortName; に共有します">
 
-<!ENTITY pref_update_autodownload "自動で更新をダウンロードする">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "自動で更新をダウンロードする">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi 環境でのみ有効にする">
-<!ENTITY pref_update_autodownload_disabled "無効">
-<!ENTITY pref_update_autodownload_enabled "有効">
+<!ENTITY pref_update_autodownload_never "許可しない">
+<!ENTITY pref_update_autodownload_always "常に許可">
+
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "ヘルプ">
 
 <!ENTITY quit "終了">
 
@@ -196,6 +252,7 @@ size. -->
 <!ENTITY save_as_pdf "PDF として保存">
 <!ENTITY find_in_page "ページ内検索">
 <!ENTITY desktop_mode "PC サイトモード">
+<!ENTITY page "ページ">
 <!ENTITY tools "ツール">
 <!ENTITY new_tab "新規タブ">
 <!ENTITY new_private_tab "プライベートタブ">
@@ -213,6 +270,13 @@ size. -->
 <!ENTITY find_next "次を検索">
 <!ENTITY find_close "閉じる">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "デバイスに配信中">
+<!ENTITY media_play "再生">
+<!ENTITY media_pause "一時停止">
+<!ENTITY media_stop "停止">
+
 <!ENTITY contextmenu_open_new_tab "新規タブで開く">
 <!ENTITY contextmenu_open_private_tab "プライベートタブで開く">
 <!ENTITY contextmenu_open_in_reader "リーダーで開く">
@@ -225,17 +289,24 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "編集">
 <!ENTITY contextmenu_subscribe "このページを購読">
 <!ENTITY contextmenu_site_settings "サイトの設定を編集">
-<!ENTITY contextmenu_top_bookmarks_edit "編集">
-<!ENTITY contextmenu_top_bookmarks_pin "サイトをピン留め">
-<!ENTITY contextmenu_top_bookmarks_unpin "サイトのピンを外す">
+<!ENTITY contextmenu_top_sites_edit "編集">
+<!ENTITY contextmenu_top_sites_pin "サイトをピン留め">
+<!ENTITY contextmenu_top_sites_unpin "サイトのピンを外す">
+<!ENTITY contextmenu_add_search_engine "検索エンジンの追加">
 
 <!ENTITY pref_titlebar_mode "タイトルバー">
 <!ENTITY pref_titlebar_mode_title "ページのタイトルを表示">
 <!ENTITY pref_titlebar_mode_url "ページのアドレスを表示">
 
-<!ENTITY history_removed "履歴からページが削除されました">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "タイトルバーをスクロールする">
 
-<!ENTITY bookmark_add "ブックマークを追加">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "ページが削除されました">
+
 <!ENTITY bookmark_edit_title "ブックマークを編集">
 <!ENTITY bookmark_edit_name "名前">
 <!ENTITY bookmark_edit_location "ロケーション">
@@ -249,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "消去する設定がありません。">
 
 <!ENTITY reading_list_added "ページがリーディングリストに追加されました">
-<!ENTITY reading_list_removed "ページがリーディングリストから削除されました">
 <!ENTITY reading_list_failed "ページをリーディングリストに追加できませんでした">
 <!ENTITY reading_list_duplicate "ページはすでにリーディングリストに追加されています">
 
@@ -276,24 +346,33 @@ size. -->
 <!ENTITY home_top_sites_add "サイトを追加">
 
 <!ENTITY home_history_title "履歴">
+<!ENTITY home_clear_history_button "閲覧履歴を削除">
+<!ENTITY home_clear_history_confirm "本当に履歴を削除しますか？">
+<!ENTITY home_bookmarks_empty "あなたが保存したブックマークが表示されます。">
 <!ENTITY home_last_tabs_title "前回のタブ">
 <!ENTITY home_last_tabs_open "前回のタブをすべて開く">
 <!ENTITY home_last_tabs_empty "あなたが最近開いたタブが表示されます。">
 <!ENTITY home_most_recent_title "最近開いたサイト">
 <!ENTITY home_most_recent_empty "あなたが最近開いたサイトが表示されます。">
-<!ENTITY home_most_visited_title "もっとも多く訪れたページ">
 <!ENTITY home_reading_list_empty "あなたが保存した記事が表示されます。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "ヒント: タイトルバーに表示される &#37;I アイコンを長押しすることで、記事をリーディングリストに保存できます。">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "ヒント: タイトルバーに表示される &formatI; アイコンを長押しすることで、記事をリーディングリストに保存できます。">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ヒント: タイトルバーに表示されるリーダーモードボタンを長押しすることで、記事をリーディングリストに保存できます。">
 
-<!ENTITY home_most_visited_empty "もっとも頻繁に訪れたページを表示します。">
-<!ENTITY pin_bookmark_dialog_hint "検索キーワードを入力してください">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "このパネルにはコンテンツがありません。">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "&formatS; へ戻る">
+
+<!ENTITY pin_site_dialog_hint "検索キーワードを入力してください">
 
 <!ENTITY filepicker_title "ファイル選択">
 <!ENTITY filepicker_audio_title "音声を選択または録音する">
@@ -336,9 +415,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          読み込んでいます">
 <!ENTITY bookmarkhistory_import_wait "しばらくお待ちください...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "&formatS; で検索語句の候補を表示しますか？">
+<!ENTITY suggestions_prompt3 "検索語句の候補を表示しますか？">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -364,12 +441,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "タッチして更新を開始します">
 
 <!-- Guest mode -->
-<!ENTITY new_guest_session "新しいゲストセッション">
-<!ENTITY exit_guest_session "ゲストセッションを終了">
-<!ENTITY guest_session_dialog_continue "継続">
+<!ENTITY new_guest_session "新規ゲストセッション">
+<!ENTITY exit_guest_session "ゲストセッション終了">
+<!ENTITY guest_session_dialog_continue "続行">
 <!ENTITY guest_session_dialog_cancel "キャンセル">
 <!ENTITY new_guest_session_title "&brandShortName; は今すぐ再起動します">
 <!ENTITY new_guest_session_text "このモードを使う人は、あなたの個人的な閲覧データ (保存されたパスワードや履歴、ブックマークなど) にはアクセスできません。\n\nゲストモードが終了した時、その閲覧データは削除され、元のセッションが復元されます。">
 
 <!ENTITY exit_guest_session_title "&brandShortName; は今すぐ再起動します">
 <!ENTITY exit_guest_session_text "このセッションの閲覧データは削除されます。">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "...">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "メニュー">
+<!ENTITY actionbar_done "完了">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "最終更新日時: &formatS;">
