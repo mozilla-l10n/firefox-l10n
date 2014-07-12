@@ -129,9 +129,9 @@
 ">
 
 <!ENTITY nssFailure2.title                     "Turvalise ühenduse viga">
-<!ENTITY nssFailure2.longDesc                  "
+<!ENTITY nssFailure2.longDesc2                 "
 <ul>
-  <li>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsuse kontrollimine ei õnnestunud.</li>
+  <li>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsust polnud võimalik kontrollida.</li>
   <li>Palun võta veebilehe omanikuga ühendust ja teavita teda probleemist.</li>
 </ul>
 ">
