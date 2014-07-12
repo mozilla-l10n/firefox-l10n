@@ -18,7 +18,7 @@
 <!ENTITY newContact.label		"連絡先...">
 <!ENTITY newContact.accesskey		"C">
 <!ENTITY attachMenu.label		"添付">
-<!ENTITY attachMenu.accesskey		"t">
+<!ENTITY attachMenu.accesskey		"h">
 <!ENTITY attachFileCmd.label		"ファイル...">
 <!ENTITY attachFileCmd.accesskey	"F">
 <!ENTITY attachFileCmd.key		"A">
@@ -29,6 +29,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label		"vCard">
 <!ENTITY attachVCardCmd.accesskey	"P">
+<!ENTITY remindLater.label		"添付忘れを通知">
+<!ENTITY remindLater.accesskey		"L">
 <!ENTITY closeCmd.label			"閉じる">
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">
@@ -51,6 +53,8 @@
 <!ENTITY sendLaterCmd.accesskey		"L">
 <!ENTITY printSetupCmd.label		"ページ設定...">
 <!ENTITY printSetupCmd.accesskey	"u">
+<!ENTITY printPreviewCmd.label		"プリントプレビュー">
+<!ENTITY printPreviewCmd.accesskey	"v">
 <!ENTITY printCmd.label			"プリント...">
 <!ENTITY printCmd.key			"P">
 <!ENTITY printCmd.accesskey		"P">
@@ -85,18 +89,20 @@
 <!ENTITY selectAllCmd.label		"すべてを選択">
 <!ENTITY selectAllCmd.key		"A">
 <!ENTITY selectAllCmd.accesskey		"a">
-<!ENTITY findCmd.label			"検索と置換...">
-<!ENTITY findCmd.key			"F">
-<!ENTITY findCmd.accesskey		"F">
+<!ENTITY findBarCmd.label		"検索...">
+<!ENTITY findBarCmd.accesskey		"F">
+<!ENTITY findBarCmd.key			"F">
+<!ENTITY findReplaceCmd.label		"検索と置換...">
+<!ENTITY findReplaceCmd.accesskey	"l">
 <!ENTITY findReplaceCmd.key		"H">
 <!ENTITY findAgainCmd.label		"次を検索">
-<!ENTITY findAgainCmd.key		"G">
 <!ENTITY findAgainCmd.accesskey		"g">
+<!ENTITY findAgainCmd.key		"G">
 <!ENTITY findAgainCmd.key2		"VK_F3">
 <!ENTITY findPrevCmd.label		"前を検索">
+<!ENTITY findPrevCmd.accesskey		"v">
 <!ENTITY findPrevCmd.key		"G">
 <!ENTITY findPrevCmd.key2		"VK_F3">
-<!ENTITY findPrevCmd.accesskey		"v">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label				"表示">
@@ -177,11 +183,11 @@
 <!ENTITY addressBookCmd.label		"アドレス帳">
 <!ENTITY addressBookCmd.accesskey	"a">
 <!ENTITY addressBookCmd.key		"B">
-<!ENTITY accountManagerCmd.label	"アカウント設定...">
-<!ENTITY accountManagerCmd.accesskey	"S">
-<!ENTITY accountManagerCmdUnix.accesskey	"S">
-<!ENTITY preferencesCmd.label		"オプション...">
-<!ENTITY preferencesCmd.accesskey	"O">
+<!ENTITY accountManagerCmd2.label	"アカウント設定">
+<!ENTITY accountManagerCmd2.accesskey	"S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label		"オプション">
+<!ENTITY preferencesCmd2.accesskey	"O">
 <!ENTITY preferencesCmdUnix.label	"設定">
 <!ENTITY preferencesCmdUnix.accesskey	"n">
 
@@ -199,6 +205,7 @@
 <!ENTITY attachButton.label		"添付">
 <!ENTITY spellingButton.label		"スペル">
 <!ENTITY saveButton.label		"保存">
+<!ENTITY printButton.label		"プリント">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip		"このメッセージを今すぐ送信します">
@@ -211,6 +218,7 @@
 <!ENTITY cutButton.tooltip		"カット">
 <!ENTITY copyButton.tooltip		"コピー">
 <!ENTITY pasteButton.tooltip		"ペースト">
+<!ENTITY printButton.tooltip		"このメッセージをプリントします">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
