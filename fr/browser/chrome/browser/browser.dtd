@@ -84,6 +84,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Éléments de la barre personnelle">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Actualiser tous les onglets">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marquer tous les onglets…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "M">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Annuler la fermeture de l'onglet">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "n">
+
 <!ENTITY pageSourceCmd.label "Code source de la page">
 <!ENTITY pageSourceCmd.accesskey "C">
 <!ENTITY pageSourceCmd.commandkey "u">
