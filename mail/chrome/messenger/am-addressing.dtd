@@ -9,9 +9,9 @@
 <!ENTITY addressingText.label "Při hledání adres:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "Použít pro tento účet moje globální nastavení LDAP serverů">
-<!ENTITY useGlobal.accesskey "u">
+<!ENTITY useGlobal.accesskey "L">
 <!ENTITY editDirectories.label "Upravit adresáře…">
-<!ENTITY editDirectories.accesskey "p">
+<!ENTITY editDirectories.accesskey "i">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Použít jiný LDAP server:">
 <!ENTITY directories.accesskey "D">
@@ -24,7 +24,7 @@
 <!ENTITY useHtml.label "Vytvářet zprávy v HTML formátu">
 <!ENTITY useHtml.accesskey "V">
 <!ENTITY autoQuote.label "Při odpovědi automaticky odcitovat původní zprávu">
-<!ENTITY autoQuote.accesskey "a">
+<!ENTITY autoQuote.accesskey "c">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Potom">
 <!ENTITY then.accesskey "t">

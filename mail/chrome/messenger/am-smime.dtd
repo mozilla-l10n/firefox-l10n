@@ -19,7 +19,7 @@
 <!ENTITY encryption.certificate.button "Vybrat…">
 <!ENTITY encryption.certificate.accesskey "r">
 <!ENTITY encryption.certificate_clear.button "Vymazat">
-<!ENTITY encryption.certificate_clear.accesskey "a">
+<!ENTITY encryption.certificate_clear.accesskey "t">
 <!ENTITY signingGroupTitle.label "Elektronický podpis">
 <!ENTITY signMessage.label "Elektronicky podepsat zprávy (výchozí)">
 <!ENTITY signMessage.accesskey "E">
@@ -29,4 +29,4 @@
 <!ENTITY manageCerts.label "Zobrazit certifikáty">
 <!ENTITY manageCerts.accesskey "Z">
 <!ENTITY manageDevices.label "Bezpečnostní zařízení">
-<!ENTITY manageDevices.accesskey "e">
+<!ENTITY manageDevices.accesskey "p">
