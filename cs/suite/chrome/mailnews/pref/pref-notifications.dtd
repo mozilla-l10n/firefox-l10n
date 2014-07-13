@@ -30,13 +30,13 @@
 <!ENTITY bounceSystemDockIcon.accesskey "A">
 
 <!ENTITY playSound.label "Přehrát zvukový soubor">
-<!ENTITY playSound.accesskey "h">
+<!ENTITY playSound.accesskey "P">
 <!ENTITY playButton.label "Přehrát">
-<!ENTITY playButton.accesskey "P">
+<!ENTITY playButton.accesskey "h">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">
 <!ENTITY systemsound.accesskey "n">
 <!ENTITY customsound.label "Vlastní wav soubor">
-<!ENTITY customsound.accesskey "w">
+<!ENTITY customsound.accesskey "V">
 <!ENTITY browse.label "Procházet…">
-<!ENTITY browse.accesskey "r">
+<!ENTITY browse.accesskey "c">
 <!ENTITY browse.title "Výběr souboru">

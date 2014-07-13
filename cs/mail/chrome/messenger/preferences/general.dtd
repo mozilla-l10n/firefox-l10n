@@ -28,9 +28,9 @@
 <!ENTITY play.label "Přehrát">
 <!ENTITY play.accesskey "h">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">
+<!ENTITY systemsound.accesskey "u">
 <!ENTITY systemsoundMac.label "Zvuk výstrahy v systému">
-<!ENTITY systemsoundMac.accesskey "Z">
-<!ENTITY systemsound.accesskey "Z">
+<!ENTITY systemsoundMac.accesskey "u">
 <!ENTITY customsound.label "Vlastní .wav soubor">
 <!ENTITY customsound.accesskey "V">
 <!ENTITY browse.label "Procházet…">

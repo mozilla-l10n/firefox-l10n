@@ -31,7 +31,7 @@
 <!ENTITY checkDefaultsNow.accesskey "Z">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
 <!ENTITY configEdit.label "Editor předvoleb…">
-<!ENTITY configEdit.accesskey "E">
+<!ENTITY configEdit.accesskey "i">
 <!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
 <!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
 <!ENTITY showReturnReceipts.accesskey "P">
@@ -58,7 +58,7 @@
 <!ENTITY reuseExpRadio0.label "Novém okně">
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
-<!ENTITY reuseExpRadio1.accesskey "A">
+<!ENTITY reuseExpRadio1.accesskey "u">
 <!ENTITY closeMsgOnMoveOrDelete.label "Při přesunutí nebo smazání zprávy zavřít panel/okno">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
