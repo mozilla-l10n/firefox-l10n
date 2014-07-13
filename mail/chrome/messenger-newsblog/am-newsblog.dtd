@@ -14,6 +14,8 @@
 
 <!ENTITY manageSubscriptions.label "Управление на абонаменти…"> 
 <!ENTITY manageSubscriptions.accesskey "У">
+
+<!ENTITY feedWindowTitle.label "Помощник за абониране към емисия">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "Блогове и новинарски емисии">

@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Настройки">
+<!ENTITY optionsHeader.char.title                                "Кодиране на знаците">
+<!ENTITY optionsHeader.char.autodetect.label                     "Автоматично разпознаване">
+<!ENTITY optionsHeader.char.options.label                        "Показване на настройките за кодиране на знаците в лентата на приложението">
+
+<!ENTITY clearPrivateData.title                                  "Изчистване на поверителни данни">
+<!ENTITY clearPrivateData.label                                  "Изчистване от това устройство на история на браузване, пароли, бисквитки и данни от формуляри">
+<!ENTITY clearPrivateData.button                                 "Изчистване">
+<!ENTITY clearPrivateData.done                                   "Готово!">
+<!ENTITY clearPrivateData.history                                "История на браузване">
+<!ENTITY clearPrivateData.otherdata                              "Други данни (пароли, кеш, бисквитки и др.)">
+<!ENTITY clearPrivateData.downloadHist                           "История на изтеглянията">
+<!ENTITY clearPrivateData.cookies                                "Бисквитки">
+<!ENTITY clearPrivateData.cache                                  "Кеш">
+<!ENTITY clearPrivateData.sitePref                               "Предпочитания за сайтове">
+<!ENTITY clearPrivateData.formSearchHist                         "История на формуляри и търсения">
+<!ENTITY clearPrivateData.passwords                              "Запомнени пароли">
+<!ENTITY clearPrivateData.offline                                "Данни за работа извън мрежа">
+<!ENTITY clearPrivateData.logins                                 "Активни влизания">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Запомняне на паролите">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Показване на бутони за навигация">
+<!ENTITY doNotTrack.title                                        "Без следене">
+<!ENTITY doNotTrack.options.doNotTrack                           "Казване на сайтовете, че не искам да бъда следен">
+<!ENTITY doNotTrack.options.doTrack                              "Казване на сайтовете, че искам да бъда следен">
+<!ENTITY doNotTrack.options.default                              "Без казване на сайтовете за моите предпочитания по следенето">
+<!ENTITY doNotTrack.learnMoreLink                                "Научете повече…">
+
+<!ENTITY optionsHeader.reporting.title                           "Докладчик на сривове">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;  изпраща информация за сривовете за да помогне на Mozilla да направи този браузър по-добър и по-сигурен.">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Включване на адреса на страницата, на която съм бил(а)">
+<!ENTITY optionsHeader.telemetry.title                            "Телеметрия">
+<!ENTITY optionsHeader.telemetry.label                            "Споделяне с Mozilla на статистика за употребата на &brandShortName;, за да се направи браузъра по-добър">

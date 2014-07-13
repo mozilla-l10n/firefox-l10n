@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Лъжлива поща">
 <!ENTITY itemPasswords.label     "Пароли">
 <!ENTITY itemAntiVirus.label     "Антивирус">
-<!ENTITY itemCookies.label       "Интернет съдържание">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Установете началните настройки за нежеланите писма. Специфичните за всяка регистрация настройки могат да се направят в Настройки на регистрацията.">
@@ -47,21 +46,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; може да улесни антивирусните програми да да анализират получените писма за вируси, преди да бъдат съхранени в компютъра.">
 <!ENTITY antiVirus.label      "Разрешаване на антивирусните програми да поставят под карантина получаваните писма">
 <!ENTITY antiVirus.accesskey  "Р">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName; ви позволява да определите кои блогове, новинарски емисии, и други сайтове да поставят бисквитки.">
-<!ENTITY acceptCookies.label            "Приемане на бисквитки от сайтове">
-<!ENTITY acceptCookies.accesskey        "П">
-<!ENTITY keepUntil.label                "Запазване докато:">
-<!ENTITY keepUntil.accesskey            "З">
-<!ENTITY expire.label                   "им изтече времето">
-<!ENTITY close.label                    "&brandShortName; се затвори">
-<!ENTITY askEachTime.label              "се направи запитване">
-<!ENTITY cookieExceptions.label         "Изключения…">
-<!ENTITY cookieExceptions.accesskey     "И">
-<!ENTITY showCookies.label              "Показване на бисквитките…">
-<!ENTITY showCookies.accesskey          "о">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Казване на сайтовете, че не искам да бъда следен">
-<!ENTITY doNotTrack.accesskey           "с">

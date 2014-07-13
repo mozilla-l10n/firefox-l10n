@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "с">
 <!ENTITY pref.defaultemail.label "Адрес за изпращане на аларма:">
 <!ENTITY pref.defaulttext.label "Подразбиращ се текст за припомняне :">
+
+<!ENTITY pref.defaultsnoozelength.label "Стандартна продължителност на заглушаването:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "з">

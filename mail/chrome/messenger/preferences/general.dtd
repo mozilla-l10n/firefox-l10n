@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Възстановяване">
 <!ENTITY useDefault.accesskey             "В">
 
-<!ENTITY bounceSystemDockIcon.label       "Анимиране на док-иконата">
-<!ENTITY bounceSystemDockIcon.accesskey   "д">
+<!ENTITY changeDockIconOptions.label      "Промяна на настройките за иконката на приложението">
+<!ENTITY dockOptions.label                "Настройки на иконката…">
+<!ENTITY dockOptions.accesskey            "и">
 
 <!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
 <!ENTITY playSound.label                  "Изсвирва звук">

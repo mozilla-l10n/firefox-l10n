@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Излизане от тук!">
+<!ENTITY safeb.palm.decline.label "Пренебрегване на това предупреждение">
+<!ENTITY safeb.palm.notforgery.label2 "Това не е измамнически сайт…">
+<!ENTITY safeb.palm.reportPage.label "Защо страницата е блокирана?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Докладван атакуващ сайт!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Тази уебстраница <span id='malware_sitename'/> е докладвана като атакуваща страница и е блокирана според вашите настройки за безопасност.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Атакуващите страници се опитват да инсталират програми, които крадат лична информация, използват вашия компютър за атакуване на други компютри или повреждат вашата система.</p><p>Някои атакуващи страници съзнателно разпространяват вреден софтуер, но много други са компрометирани без знанието или разрешението на собствениците си.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Подозрение за измамнически сайт!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Въвеждането на каквато и да е лична информация в тази страница може да доведе до кражба на идентичността или друга измама.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Тези уеб измами имитират мейли и сайтове, на които вярвате.</p>">

@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "Т">
 <!ENTITY pref.dateformat.long "Дълъг" >
 <!ENTITY pref.dateformat.short "Кратък"  >
-<!ENTITY pref.defaultlength.label "Подразбираща се дължина на събитието" >
-<!ENTITY pref.defaultlength.accesskey "с">
-<!ENTITY pref.defaultsnoozelength.label "Подразбираща се дължина за отлагане" >
-<!ENTITY pref.defaultsnoozelength.accesskey "о">
+
+<!ENTITY pref.defaults.label "Стандартни стойности за нови елементи">
+<!ENTITY pref.events.label "Събития">
+<!ENTITY pref.tasks.label "Задачи">
+
+<!ENTITY pref.default_event_length.label "Стандартна продължителност:" >
+<!ENTITY pref.default_event_length.accesskey "С">
+
+<!ENTITY pref.default_task_none.label "Няма">
+<!ENTITY pref.default_task_start_of_day.label "Начало на деня">
+<!ENTITY pref.default_task_end_of_day.label "Край на деня">
+<!ENTITY pref.default_task_tomorrow.label "Утре">
+<!ENTITY pref.default_task_next_week.label "Следваща седмица">
+<!ENTITY pref.default_task_offset_current.label "Относително текущото време">
+<!ENTITY pref.default_task_offset_start.label "Относително началото">
+<!ENTITY pref.default_task_offset_next_hour.label "Относително следващия час">
 
 <!ENTITY pref.accessibility.label "Достъпност" >
 <!ENTITY pref.systemcolors.label "Цветове, оптимизирани за достъпност" >

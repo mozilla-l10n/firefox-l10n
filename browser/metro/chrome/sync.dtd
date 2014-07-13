@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Достъп отвсякъде на вашите отметки, пароли и отворени подпрозорци">
+<!ENTITY sync.flyout.presetup.setup.label      "Настройка на &syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "Настройка на &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Ако имате акаунт на &syncBrand.shortName.label;, изберете „Сдвояване на устройство“ на другото ваше устройство и въведете този код.">
+<!ENTITY sync.flyout.setup.description2        "Ако нямате акаунт на &syncBrand.shortName.label;, може да направите такъв на настолния браузър &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Не съм близо до компютъра си…">
+<!ENTITY sync.flyout.setup.description3        "Бележка:">
+<!ENTITY sync.flyout.setup.description4_2      "За да намерите „Сдвояване на устройство“,">
+<!ENTITY sync.flyout.setup.description5_2      "[Настолна версия] Отворете „Настройки“ и изберете „&syncBrand.shortName.label;“">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Моля, въведете информация за вашия акаунт &syncBrand.shortName.label; и ключа за възстановяване, генериран от вашия компютъра">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Име на акаунт">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Парола">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Ключ за възстановяване">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Свързване">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Току-що свързахте &brandShortName; с акаунт &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Вашите данни от &syncBrand.shortName.label; се изтеглят на заден план. Синхронизираните подпрозорци могат да се намерят в началната страница на &brandShortName;">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; не може да се свърже с вашия акаунт &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Прекъсване">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Опит отново">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Акаунт:">
+<!ENTITY sync.flyout.connected.device                     "Вашето устройство:">
+<!ENTITY sync.flyout.connected.disconnect                 "Разкачане">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Разкачане на вашето устройство от &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Всички ваши лични данни и на това устройство, и на акаунта &syncBrand.shortName.label;, ще останат непокътнати.">
+<!ENTITY sync.flyout.connected.cancel                     "Прекъсване">
+<!ENTITY sync.flyout.connected.pair                       "Сдвояване на устройство">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "На новото устройство, с което искате да се сдвоите, изберете „Настройка на&syncBrand.shortName.label;“ и въведете кода, който се показва">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Сдвояване">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Бележка:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "За намиране на кода,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Настолна версия] Отворете „Настройки“ и изпълнете следните стъпки: &syncBrand.shortName.label; -&gt; Настройка на &syncBrand.shortName.label; -&gt; Имам акаунт">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Моля, опитайте отново">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Успешно добавяне на новото устройство.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Вашите данни от &syncBrand.shortName.label; се изтеглят на заден план. Синхронизираните подпрозорци могат да се намерят в началната страница на &brandShortName;.">

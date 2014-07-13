@@ -1,0 +1,149 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Търсене или въвеждане на адрес">
+
+<!ENTITY back.label            "Назад">
+<!ENTITY forward.label         "Напред">
+<!ENTITY newtab.label          "Нов подпрозорец">
+<!ENTITY newPrivateTab.label   "Поверителен прозорец">
+<!ENTITY closetab.label        "Затваряне на подпрозорец">
+
+<!ENTITY autocompleteResultsHeader.label  "Резултати">
+
+<!ENTITY appbarErrorConsole.label      "Отваряне на конзолата за грешки">
+<!ENTITY appbarJSShell.label           "Отваряне обвивка на JavaScript">
+<!ENTITY appbarFindInPage2.label       "Търсене в страница">
+<!ENTITY appbarRelaunchInDesktop.label "Пускане наново в работния плот">
+<!ENTITY appbarMSMetaData2.label       "Изтегляне на приложение за този сайт">
+<!ENTITY appbarViewPageSource.label    "Изходен код на страницата">
+
+<!ENTITY topSitesHeader.label        "Популярни сайтове">
+<!ENTITY bookmarksHeader.label       "Отметки">
+<!ENTITY recentHistoryHeader.label   "Скорошна история">
+<!ENTITY remoteTabsHeader.label      "Подпрозорци от други устройства">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Популярни сайтове">
+<!ENTITY narrowBookmarksHeader.label     "Отметки">
+<!ENTITY narrowRecentHistoryHeader.label "Скорошна история">
+<!ENTITY narrowRemoteTabsHeader.label    "Отдалечени подпрозорци">
+
+<!ENTITY downloadsHeader.label     "Изтегляния">
+<!ENTITY downloadShowPage.label    "Отиване на страница">
+<!ENTITY downloadShow2.label       "Търсене">
+<!ENTITY downloadOpen2.label       "Отваряне">
+<!ENTITY downloadCancel.label      "Прекъсване">
+<!ENTITY downloadPause.label       "Пауза">
+<!ENTITY downloadResume.label      "Продължаване">
+<!ENTITY downloadRetry.label       "Опит отново">
+<!ENTITY downloadRemove.label      "Премахване">
+<!ENTITY downloadDelete.label      "Изтриване">
+<!ENTITY downloadFailed.label      "Грешка">
+
+<!ENTITY allBookmarks.label        "Показване на всички отметки">
+
+<!ENTITY consoleHeader.label       "Конзола за грешки">
+<!ENTITY consoleAll.label          "Всичко">
+<!ENTITY consoleErrors.label       "Грешки">
+<!ENTITY consoleWarnings.label     "Предупреждения">
+<!ENTITY consoleMessages.label     "Съобщения">
+<!ENTITY consoleCodeEval.label     "Код:">
+<!ENTITY consoleClear.label        "Изчистване">
+<!ENTITY consoleCopyAll.label      "Копиране">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Сорс файл:">
+<!ENTITY consoleErrLine.label      "Ред:">
+<!ENTITY consoleErrColumn.label    "Колона:">
+<!ENTITY consoleFollowCheckbox.label "Следене">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Отрязване">
+<!ENTITY contextTextCopy.label             "Копиране">
+<!ENTITY contextTextPaste.label            "Поставяне">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Поставяне и отиване там">
+<!ENTITY contextTextSelect.label           "Маркиране">
+<!ENTITY contextTextSelectAll.label        "Маркиране на всичко">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Отваряне в нов подпрозорец">
+<!ENTITY contextCopyLinkHref.label         "Копиране на връзката">
+<!ENTITY contextBookmarkLinkHref.label     "Отмятане на тази връзка">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Запис в библиотеката за снимки">
+<!ENTITY contextCopyImage.label            "Копиране на изображението">
+<!ENTITY contextCopyImageLocation.label    "Копиране адреса на изображението">
+<!ENTITY contextOpenImageTab.label         "Отваряне на изображението в нов подпрозорец">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Запис в библиотеката за видео">
+<!ENTITY contextCopyVideoLocation.label    "Копиране адреса на видеото">
+<!ENTITY contextOpenVideoTab.label         "Отваряне на видеото в нов подпрозорец">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "а">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+<!ENTITY firstRunTabs.label "Търсите подпрозорците си? Просто изтеглете надолу или щракнете с десния бутон">
+<!ENTITY firstRunTopSites.label "Отидете на най-посещаваните от вас сайтове">
+<!ENTITY firstRunBookmarks.label "Намерете страници, които сте запазили за по-късно">
+<!ENTITY firstRunMenu.label "Получете повече възможности и настройки">
+<!ENTITY firstRunHistory.label "Вижте къде сте били в Интернет">
+<!ENTITY firstRunWelcome.label "Добре дошли в &brandShortName;">
+<!ENTITY firstRunDifferent.label "Различен по замисъл">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "Натиснете за връщане към предишната страница">
+<!ENTITY firstRunNewTab.label "Добавете нов подпрозорец за изследване на нов сайт">
+<!ENTITY firstRunStar.label "Използвайте отметки за запазване на страници за по-късно">
+<!ENTITY firstRunPin.label "Закачане на сайт за началния екран на Windows, за да имате бърз достъп">
+<!ENTITY firstRunGotIt.label "Разбрах!">

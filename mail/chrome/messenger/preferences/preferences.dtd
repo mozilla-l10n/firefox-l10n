@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Съставяне">
 <!ENTITY paneChat.title           "Разговор">
 <!ENTITY paneAttachments.title    "Притурки">
+<!ENTITY panePrivacy.title        "Лични данни">
 <!ENTITY paneSecurity.title       "Защита">
 <!ENTITY paneAdvanced.title       "Разширени">
