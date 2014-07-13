@@ -12,9 +12,9 @@
 <!ENTITY junkFolderOn.label "Složka „Nevyžádaná“ na:">
 <!ENTITY junkFolderOn.accesskey "S">
 <!ENTITY otherFolder.label "Další:">
-<!ENTITY otherFolder.accesskey "D">
+<!ENTITY otherFolder.accesskey "l">
 <!ENTITY purge1.label "Automaticky smazat zprávy označené jako nevyžádané po">
-<!ENTITY purge1.accesskey "A">
+<!ENTITY purge1.accesskey "m">
 <!ENTITY purge2.label "dnech">
 
 <!ENTITY whitelistHeader.label "Neoznačovat zprávy jako nevyžádané, pokud je odesílatel mezi: ">

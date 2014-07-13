@@ -22,11 +22,11 @@
 <!ENTITY retentionCleanupImap.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, jak místní kopie, tak originály na vzdáleném serveru.">
 <!ENTITY retentionCleanupPop.label "Pro ušetření místa na disku lze automaticky mazat staré zprávy, včetně originálů na vzdáleném serveru.">
 <!ENTITY retentionKeepMsg.label "Smazat zprávy starší než">
-<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
-<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepAll.accesskey "e">
 <!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
-<!ENTITY retentionKeepRecent.accesskey "m">
+<!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
