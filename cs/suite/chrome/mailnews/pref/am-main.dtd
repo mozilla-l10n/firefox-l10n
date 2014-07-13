@@ -14,7 +14,7 @@
 <!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adresa pro odpověď:">
-<!ENTITY replyTo.accesskey "A">
+<!ENTITY replyTo.accesskey "d">
 <!ENTITY replyTo.placeholder "Příjemci budou odpovídat na tuto adresu">
 <!ENTITY organization.label "Společnost:">
 <!ENTITY organization.accesskey "S">
