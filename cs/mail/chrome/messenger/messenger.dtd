@@ -63,11 +63,11 @@
 <!ENTITY renameFolder.accesskey "P">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey "d">
+<!ENTITY compactFolders.accesskey "b">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
-<!ENTITY offlineMenu.accesskey "R">    
+<!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Stáhnout/Synchronizovat…">
@@ -336,9 +336,9 @@
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
-<!ENTITY replySenderCmd.accesskey "l">
+<!ENTITY replySenderCmd.accesskey "i">
 <!ENTITY replyNewsgroupCmd2.label "Odpovědět do diskusní skupiny">
-<!ENTITY replyNewsgroupCmd2.accesskey "i">
+<!ENTITY replyNewsgroupCmd2.accesskey "y">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -346,7 +346,7 @@
 <!ENTITY replyToListMsgCmd.accesskey "f">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
-<!ENTITY forwardMsgCmd.accesskey "P">
+<!ENTITY forwardMsgCmd.accesskey "l">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Přeposlat jako">
 <!ENTITY forwardAsMenu.accesskey "j">
@@ -371,7 +371,7 @@
 <!ENTITY moveToFolderAgain.accesskey "e">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorovat vlákno">
-<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorovat podvlákno">
 <!ENTITY killSubthreadMenu.accesskey "p">
@@ -425,7 +425,7 @@
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Přílohy">
-<!ENTITY openAttachmentListCmd.accesskey "P">
+<!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Při otvírání zprávy z kanálu">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Otevřít jako webovou stránku">
@@ -451,13 +451,13 @@
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Stav chatu">
-<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imAccountsStatus.accesskey "u">
 <!ENTITY imStatus.available "Dostupný">
 <!ENTITY imStatus.unavailable "Nedostupný">
 <!ENTITY imStatus.offline "Offline">
 <!ENTITY imStatus.showAccounts "Zobrazit účty…">
 <!ENTITY joinChatCmd.label "Chatovat…">
-<!ENTITY joinChatCmd.accesskey "h">
+<!ENTITY joinChatCmd.accesskey "v">
 <!ENTITY savedFiles.label "Uložené soubory">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -468,7 +468,7 @@
 <!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Spustit filtry na zprávě">
-<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY filtersApplyToMessage.accesskey "z">
 <!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
 <!ENTITY runJunkControls.accesskey "S">
 <!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
@@ -711,7 +711,7 @@
 <!ENTITY contextArchive.label "Archivovat">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
-<!ENTITY contextReplySender.accesskey "l">
+<!ENTITY contextReplySender.accesskey "i">
 <!ENTITY contextReplyNewsgroup2.label "Odpovědět do diskusní skupiny">
 <!ENTITY contextReplyNewsgroup2.accesskey "y">
 <!ENTITY contextReplyAll.label "Odpovědět všem">
@@ -719,7 +719,7 @@
 <!ENTITY contextReplyList.label "Odpovědět do konference">
 <!ENTITY contextReplyList.accesskey "k">
 <!ENTITY contextForward.label "Přeposlat">
-<!ENTITY contextForward.accesskey "P">
+<!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsMenu.label "Přeposlat jako">
 <!ENTITY contextForwardAsMenu.accesskey "e">
 <!ENTITY contextForwardAsInline.label "Vložená">
@@ -735,8 +735,8 @@
 <!ENTITY contextCopyMsgMenu.label "Kopírovat do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorovat vlákno">
-<!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
+<!ENTITY contextKillThreadMenu.accesskey "g">
+<!ENTITY contextKillSubthreadMenu.label "Ignorovat podvlákno">
 <!ENTITY contextWatchThreadMenu.label "Ignorovat podvlákno">
 <!ENTITY contextSaveAs.label "Uložit jako…">
 <!ENTITY contextSaveAs.accesskey "j">
