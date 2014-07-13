@@ -25,34 +25,37 @@
 <!ENTITY calendar.events.filter.next14Days.label "Събития за следващите 14 дена">
 <!ENTITY calendar.events.filter.next31Days.label "Събития за следващите 31 дена">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Събития в този календарен месец">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 
-<!ENTITY calendar.unifinder.tree.done.label              "Готово">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Щракнете за сортиране по готовност">
-<!ENTITY calendar.unifinder.tree.priority.label          "Приоритет">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Щракнете за сортиране по приоритет">
-<!ENTITY calendar.unifinder.tree.title.label             "Заглавие">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Щракнете за сортиране по заглавие">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; са завършени">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Щракнете за сортиране по &#37; свършеност">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Начало">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Щракнете за сортиране по начална дата">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Край">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Щракнете за сортиране по крайна дата">
-<!ENTITY calendar.unifinder.tree.duedate.label           "До">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Щракнете за сортиране по срок">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Завършено">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Щракнете за сортиране по завършеност">
-<!ENTITY calendar.unifinder.tree.categories.label        "Категория">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Щракнете за сортиране по категория">
-<!ENTITY calendar.unifinder.tree.location.label          "Местоположение">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Щракнете за сортиране по местоположение">
-<!ENTITY calendar.unifinder.tree.status.label            "Статус">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Щракнете за сортиране по състояние">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Име на календара">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Щракнете за сортиране по име на календар">
-<!ENTITY calendar.unifinder.tree.duration.label          "До">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Щракнете за сортиране по срок в">
-<!ENTITY calendar.unifinder.close.tooltip                "Затваряне на търсенето и списъка на събития">
+<!ENTITY calendar.unifinder.tree.done.label                "Готово">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Сортиране по завършеност">
+<!ENTITY calendar.unifinder.tree.priority.label            "Приоритет">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Сортиране по приоритет">
+<!ENTITY calendar.unifinder.tree.title.label               "Заглавие">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Сортиране по заглавие">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; са завършени">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Сортиране по &#37; завършеност">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Начало">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Сортиране по начална дата">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Край">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Сортиране по крайна дата">
+<!ENTITY calendar.unifinder.tree.duedate.label             "До">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Сортиране по краен срок">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Завършено">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Сортиране по дата на завършване">
+<!ENTITY calendar.unifinder.tree.categories.label          "Категория">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Сортиране по категория">
+<!ENTITY calendar.unifinder.tree.location.label            "Местоположение">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Сортиране по местоположение">
+<!ENTITY calendar.unifinder.tree.status.label              "Статус">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Сортиране по статус">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Име на календара">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Сортиране по име на календар">
+<!ENTITY calendar.unifinder.tree.duration.label            "До">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Сортиране по време до крайния срок">
+<!ENTITY calendar.unifinder.close.tooltip                  "Затваряне на търсенето и списъка на събития">
 
 <!ENTITY calendar.today.button.tooltip          "Отиване на днес" >
 <!ENTITY calendar.todaypane.button.tooltip      "Показване на дневния плот" >
@@ -85,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Ново събитие" >
 <!ENTITY calendar.newtask.button.label          "Нова задача" >
 <!ENTITY calendar.print.button.label            "Отпечатване" >
-
-<!ENTITY calendar.export.calendar                "Експортиране на календар…" >
+<!ENTITY calendar.print.button.accesskey        "п">
 
 <!ENTITY calendar.day.button.label              "Ден" >
 <!ENTITY calendar.week.button.label             "Седмица" >
@@ -129,8 +131,6 @@
 
 <!ENTITY calendar.task.filter.current.label         "Текущи задачи">
 <!ENTITY calendar.task.filter.current.accesskey     "Т">
-<!ENTITY calendar.task.filter.repeating.label       "Повтарящи се задачи">
-<!ENTITY calendar.task.filter.repeating.accesskey   "в">
 
 <!ENTITY calendar.task-details.title.label           "заглавие">
 <!ENTITY calendar.task-details.organizer.label       "от">
@@ -152,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Филтриране на задачи… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-<!-- Statusbar -->
-
-<!ENTITY statusText.label            "Документ: Завършен">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Отваряне">
@@ -230,7 +227,6 @@
      task action buttons -->
 
 <!ENTITY calendar.taskview.delete.label     "Изтриване">
-<!ENTITY calendar.taskview.delete.accesskey "з">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Нов календар…">
@@ -335,7 +331,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Избрани събития/задачи">
 <!ENTITY calendar.print.tasks.label "Задачи">
 <!ENTITY calendar.print.events.label "Събития">
-<!ENTITY calendar.print.selected.label "Избраните събития">
 <!ENTITY calendar.print.custom.label "Избор на период от време:">
 <!ENTITY calendar.print.from.label "От:">
 <!ENTITY calendar.print.to.label "До:">
@@ -349,3 +344,9 @@
 <!ENTITY calendar.error.code "Код на грешка:">
 <!ENTITY calendar.error.description "Описание:">
 <!ENTITY calendar.error.title "Възникна грешка">
+<!-- Extract buttons in message header -->
+
+<!ENTITY calendar.extract.event.button         "Добавяне на събитие">
+<!ENTITY calendar.extract.task.button          "Добавяне на задача">
+<!ENTITY calendar.extract.event.button.tooltip "Извличане на календарната информация от съобщението и добавянето ѝ към вашия календар като събитие">
+<!ENTITY calendar.extract.task.button.tooltip  "Извличане на календарната информация от съобщението и добавянето ѝ към вашия календар като задача">

@@ -71,8 +71,8 @@
 <!ENTITY netTimeout.title "Изтече времето за свързване">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Адресът не беше разпознат">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Адресът не беше разпознат">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Ще ви е необходим друг софтуер, за да отворите този адрес.</li> 
 </ul>">
 

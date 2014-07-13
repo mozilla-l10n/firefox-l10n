@@ -2,27 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "До">
-<!ENTITY fromField3.label "От">
-<!ENTITY senderField3.label "Подател ">
-<!ENTITY organizationField3.label "Организация ">
-<!ENTITY replyToField3.label "Отговор-до ">
+<!ENTITY toField4.label "До">
+<!ENTITY fromField4.label "От">
+<!ENTITY senderField4.label "Подател">
+<!ENTITY organizationField4.label "Организация">
+<!ENTITY replyToField4.label "Отговор-до">
 
-<!ENTITY subjectField3.label "Тема ">
-<!ENTITY ccField3.label "Копие">
-<!ENTITY bccField3.label "bcc ">
-<!ENTITY newsgroupsField3.label "Дискусионни групи ">
-<!ENTITY followupToField3.label "Продължаване в ">
-<!ENTITY tagsHdr3.label "Етикети ">
-<!ENTITY dateField3.label "Дата ">
-<!ENTITY userAgentField3.label "user-agent ">
-<!ENTITY referencesField3.label "Референции ">
-<!ENTITY messageIdField3.label "Message ID ">
-<!ENTITY inReplyToField3.label "В-отговор-до ">
-<!ENTITY originalWebsite3.label "Уебсайт ">
+<!ENTITY subjectField4.label "Тема">
+<!ENTITY ccField4.label "Копие">
+<!ENTITY bccField4.label "Скрито копие">
+<!ENTITY newsgroupsField4.label "Дискусионни групи">
+<!ENTITY followupToField4.label "Продължаване в">
+<!ENTITY tagsHdr4.label "Етикети">
+<!ENTITY dateField4.label "Дата">
+<!ENTITY userAgentField4.label "Потребителски агент">
+<!ENTITY referencesField4.label "Референции">
+<!ENTITY messageIdField4.label "Идентификатор на съобщение">
+<!ENTITY inReplyToField4.label "В отговор на">
+<!ENTITY originalWebsite4.label "Уебсайт">
 
-<!ENTITY editMessageDescription.label "Това е чернова">
-<!ENTITY editMessageButton.label "Редактиране…">
 <!ENTITY hdrArchiveButton1.label "Архивиране">
 <!ENTITY hdrArchiveButton1.tooltip "Архивира това съобщение">
 <!ENTITY hdrSmartReplyButton1.label "Умен отговор">
@@ -34,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Отговаря до пощенския списък">
 <!ENTITY hdrFollowupButton1.label "Отговор">
 <!ENTITY hdrFollowupButton1.tooltip "Изпращане на отговор до тази новинарска група">
+<!ENTITY hdrMenuForwardButton.label "Препращане като">
 <!ENTITY hdrForwardButton1.label "Препращане">
 <!ENTITY hdrForwardButton1.tooltip "Препраща съобщението">
 <!ENTITY hdrJunkButton1.label "Нежелана">
@@ -69,8 +68,8 @@
 <!ENTITY otherActionsPrint1.accesskey "П">
 <!-- Attachment bar context menu items -->
 
-<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
-<!ENTITY startExpandedCmd.accesskey    "S">
+<!ENTITY startExpandedCmd.label    "Начално показване на панела с притурки">
+<!ENTITY startExpandedCmd.accesskey    "п">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Отваряне">

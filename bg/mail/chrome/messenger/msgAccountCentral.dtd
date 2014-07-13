@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "Емисии">
 <!ENTITY subscribeFeeds.label         "Управление на абониранията">
 
+<!ENTITY chat.label                   "Разговор">
+<!ENTITY movemail.label               "Преместване на писма">
+
 <!ENTITY accountsSectionHdr.label     "Регистрации">
 <!ENTITY subscribeImapFolders.label   "Управление на абонирането за папка">
 <!ENTITY settingsLink.label           "Преглед настройките на регистрацията">
 <!ENTITY newAcctLink.label            "Създаване на нова регистрация">
+<!ENTITY newAcct.label                "Създаване на нова регистрация:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Допълнителни възможности">
 <!ENTITY searchMsgsLink.label         "Търсене на писма">

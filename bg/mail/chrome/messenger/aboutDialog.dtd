@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "Относно &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "Проверка за обновявания">
+<!ENTITY update.checkForUpdatesButton.accesskey   "П">
+<!ENTITY update.updateButton.label                "Рестартиране на програмата, за да се извърши обновявянето">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Прилагане на обновяването">
+<!ENTITY update.applyButtonBillboard.accesskey    "П">
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Проверка за обновления…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Проверка за съвместимост на добавките…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; е с актуална версия">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -47,13 +58,23 @@
 <!ENTITY update.manual.start        "Изтегляне на ">
 <!ENTITY update.manual.linkText     "последната версия">
 <!ENTITY update.manual.end          "">
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Не може да извършите повече обновяване на системата.">
+<!ENTITY update.unsupported.linkText "Научете повече">
+<!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Изтегляне на обновление - ">
+<!ENTITY update.downloading.start   "Изтегляне на обновление – ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Прилагам осъвременената версия...">

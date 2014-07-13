@@ -19,6 +19,12 @@
      -->
 
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Л">
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Лента за бързо търсене">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -34,12 +40,6 @@
      -->
 
 <!ENTITY quickFilterBar.sticky.tooltip "Запазване на филтрите при отиване в друга папка">
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-
-<!ENTITY quickFilterBar.barLabel.label "Бързо търсене:">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -157,6 +157,31 @@
      -->
 
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;&#x21E7;&#x2318;K&gt;">
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+
+<!ENTITY quickFilterBar.booleanMode.tooltip "Режим на филтриране">
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+
+<!ENTITY quickFilterBar.booleanModeAny.label "Кое да е измежду">
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Поне един измежду избраните критерии трябва да съвпада">
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+
+<!ENTITY quickFilterBar.booleanModeAll.label "Всички измежду">
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Всички избрани критерии трябва да съвпадат">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of

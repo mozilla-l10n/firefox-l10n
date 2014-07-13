@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "Съдържание на писмата">
+
+<!ENTITY acceptRemoteContent.label "Разрешаване на отдалечено съдържание в съобщенията">
+<!ENTITY acceptRemoteContent.accesskey "Р">
+<!ENTITY remoteContentExceptions.label "Изключения…">
+<!ENTITY remoteContentExceptions.accesskey "к">
+<!ENTITY acceptRemoteContentInfo.label "Научете повече за проблемите с поверителността и отдалеченото съдържание">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Уеб съдържание">
+
+<!ENTITY acceptCookies.label "Разрешаване на бисквитки от сайтове">
+<!ENTITY acceptCookies.accesskey "б">
+<!ENTITY acceptThirdParty.pre.label "Разрешаване на бисквитки от сайтове на трети страни:">
+<!ENTITY acceptThirdParty.pre.accesskey "т">
+<!ENTITY acceptThirdParty.always.label "Винаги">
+<!ENTITY acceptThirdParty.never.label "Никога">
+<!ENTITY acceptThirdParty.visited.label "От посетени">
+<!ENTITY keepUntil.label "Задържане до:">
+<!ENTITY keepUntil.accesskey "З">
+<!ENTITY expire.label "загуба на валидност">
+<!ENTITY close.label "Затваряне на &brandShortName;">
+<!ENTITY askEachTime.label "питане всеки път">
+<!ENTITY cookieExceptions.label "Изключения…">
+<!ENTITY cookieExceptions.accesskey "з">
+<!ENTITY showCookies.label "Показване на бисквитки…">
+<!ENTITY showCookies.accesskey "П">
+
+<!ENTITY dntTrackingNopref.label2 "Без казване на сайтовете за моите предпочитания по следенето">
+<!ENTITY dntTrackingNopref.accesskey "з">
+<!ENTITY dntTrackingNotOkay.label2 "Казване на сайтовете, че не искам да бъда следен">
+<!ENTITY dntTrackingNotOkay.accesskey "н">
+<!ENTITY dntTrackingOkay.label2 "Казване на сайтовете, че искам да бъда следен">
+<!ENTITY dntTrackingOkay.accesskey "с">
+<!ENTITY doNotTrackInfo.label "Научете повече относно забраната за следене">
+

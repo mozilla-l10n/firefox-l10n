@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Преместване надолу">
 <!ENTITY account.cancelReconnection.label         "Прекъсване на свързването наново">
 <!ENTITY account.cancelReconnection.accesskey     "П">
+<!ENTITY account.copyDebugLog.label     "Копиране на журнала на дебъгването">
+<!ENTITY account.copyDebugLog.accesskey "К">
 <!ENTITY account.connecting           "Свързване…">
 <!ENTITY account.disconnecting        "Изключване…">
 <!ENTITY account.disconnected         "Няма свързване">
