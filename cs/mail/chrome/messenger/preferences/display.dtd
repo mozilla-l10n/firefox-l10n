@@ -17,7 +17,7 @@
 <!ENTITY bigger.label "Větší">
 <!ENTITY smaller.label "Menší">
 <!ENTITY quotedTextColor.label "Barva:">
-<!ENTITY quotedTextColor.accesskey "B">
+<!ENTITY quotedTextColor.accesskey "a">
 <!ENTITY displayWidth.label "Zobrazení prostých textových zpráv a článků">
 <!ENTITY displayText.label "Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:">
 
