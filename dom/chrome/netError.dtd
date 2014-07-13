@@ -60,7 +60,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Veebilehitseja on häälestatud kasutama puhverserverit, aga puhverserver keeldub ühendusest.</p><ul><li>Kas veebilehitseja puhverserveri sätted on korrektsed? Kontrolli sätteid ja proovi uuesti.</li><li>Kas arvuti on ühendatud aktiivse võrguühendusega?</li><li>Endiselt probleemid? Konsulteeri oma võrguadministraatori või interneti teenusepakkujaga.</li></ul>">
 
 <!ENTITY redirectLoop.title "Korduv ümbersuunamine">
-<!ENTITY redirectLoop.longDesc "<p>Veebilehitseja lõpetas objekti laadimise üritamise. Veebilehekülg suunab päringu edasi viisil, kuidas see kunagi ei õnnestu.</p><ul><li>Kas oled keelanud või blokeerinud selle lehe küpsised?</li><li><em>MÄRKUS</em>: kui küpsiste lubamine ei lahenda antud probleemi, siis on tõenäoliselt tegemist probleemiga serveris, mitte sinu arvutis.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Veebilehitseja üritas, kuid ei suutnud objekti laadida. Veebilehekülg suunab päringu edasi viisil, kuidas see kunagi ei õnnestu.</p><ul><li>Kas oled keelanud või blokeerinud selle lehe küpsised?</li><li><em>MÄRKUS</em>: kui küpsiste lubamine ei lahenda antud probleemi, siis on tõenäoliselt tegemist probleemiga serveris, mitte sinu arvutis.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Ebakorrektne vastus">
 <!ENTITY unknownSocketType.longDesc "<p>Veebileht vastas võrgu päringule ootamatult ja veebilehitseja ei saa jätkata.</p>">
@@ -70,7 +70,7 @@
 
 <!ENTITY nssBadCert.title "Turvalise ühenduse viga">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Tegemist võib olla serveri seadistuste probleemiga, või siis üritab keegi antud serverina välja paista.</li>
+<li>Tegemist võib olla serveri seadistuste probleemiga või siis üritab keegi antud serverina välja paista.</li>
 <li>Kui sa oled varem selle serveriga edukalt ühendunud, siis võib olla tegemist ajutise veaga ja sa võid hiljem uuesti proovida.</li>
 </ul>
 ">
