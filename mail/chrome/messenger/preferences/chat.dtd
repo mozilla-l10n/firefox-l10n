@@ -21,18 +21,18 @@ sentence. -->
 <!ENTITY andSetStatusToAway.accesskey  "n">
 
 <!ENTITY sendTyping.label "Odesílat upozornění na psaní v konverzaci">
-<!ENTITY sendTyping.accesskey "d">
+<!ENTITY sendTyping.accesskey "a">
 
 <!ENTITY  chatNotifications.label             "Při přijetí zprávy určené mně:">
 <!ENTITY  desktopChatNotifications.label      "Zobrazit upozornění">
 <!ENTITY  desktopChatNotifications.accesskey  "Z">
-<!ENTITY  chatSound.accesskey                 "e">
 <!ENTITY  chatSound.label                     "Přehrát zvuk">
+<!ENTITY  chatSound.accesskey                 "P">
 <!ENTITY  play.label                          "Přehrát">
-<!ENTITY  play.accesskey                      "P">
+<!ENTITY  play.accesskey                      "h">
 <!ENTITY  systemSound.label                   "Zvuk nové pošty v systému">
-<!ENTITY  systemSound.accesskey               "v">
+<!ENTITY  systemSound.accesskey               "u">
 <!ENTITY  customsound.label                   "Vlastní .wav soubor">
-<!ENTITY  customsound.accesskey               "a">
+<!ENTITY  customsound.accesskey               "V">
 <!ENTITY  browse.label                        "Procházet…">
-<!ENTITY  browse.accesskey                    "P">
+<!ENTITY  browse.accesskey                    "c">

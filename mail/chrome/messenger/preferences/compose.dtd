@@ -11,7 +11,7 @@
 <!ENTITY inline.label "Vloženě">
 <!ENTITY asAttachment.label "Jako přílohu">
 <!ENTITY addExtension.label "Přidat k názvu souboru příponu">
-<!ENTITY addExtension.accesskey "P">
+<!ENTITY addExtension.accesskey "d">
 
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Písmo:">
