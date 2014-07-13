@@ -139,7 +139,7 @@
 <!ENTITY nssBadCert.title                      "Turvalise ühenduse viga">
 <!ENTITY nssBadCert.longDesc2                  "
 <ul>
-  <li>Tegemist võib olla serveri seadistuste probleemiga, või siis üritab keegi antud
+  <li>Tegemist võib olla serveri seadistuste probleemiga või siis üritab keegi antud
 serverina välja paista.</li>
   <li>Kui sa oled varem selle serveriga edukalt ühendunud, siis võib olla tegemist ajutise veaga
 ja sa võid hiljem uuesti proovida.</li>

@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDevices.title              "Seadmed">
 <!ENTITY aboutDevices.header             "Sinu seadmed">
-<!ENTITY aboutDevices.refresh            "Värksenda">
+<!ENTITY aboutDevices.refresh            "Värskenda">
 <!ENTITY aboutDevices.addDeviceHeader    "Lisa seade">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
