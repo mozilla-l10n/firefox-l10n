@@ -7,9 +7,9 @@
 <!ENTITY copyAndFolderTitle.label "Kopie a složky">
 <!ENTITY sendingPrefix.label "Automaticky při odesílání poštovní zprávy: ">
 <!ENTITY fccMailFolder.label "Uložit kopii do složky:">
-<!ENTITY fccMailFolder.accesskey "s">
+<!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Uložit odpovědi do složky obsahující původní zprávu">
-<!ENTITY fccReplyFollowsParent.accesskey "U">
+<!ENTITY fccReplyFollowsParent.accesskey "p">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Kopie na další adresy:">
 <!ENTITY ccAddress.accesskey "K">
@@ -28,11 +28,11 @@
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archiv zpráv">
 <!ENTITY keepArchives.label "Uchovávat archiv zpráv v:">
-<!ENTITY keepArchives.accesskey "U">
+<!ENTITY keepArchives.accesskey "r">
 <!ENTITY archiveHierarchyButton.label "Možnosti archivace…">
-<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archiveHierarchyButton.accesskey "c">
 <!ENTITY archivesFolderOn.label "Složka „Archiv“ v:">
-<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archivesFolderOn.accesskey "h">
 <!ENTITY archiveInOtherFolder.label "Další:">
 <!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY specialFolders.label "Koncepty a šablony">
