@@ -15,14 +15,14 @@
 <!ENTITY captionWebContent.label "Webový obsah">
 
 <!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
-<!ENTITY acceptCookies.accesskey "o">
+<!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.pre.label "Povolit cookies třetích stran:">
-<!ENTITY acceptThirdParty.pre.accesskey "v">
+<!ENTITY acceptThirdParty.pre.accesskey "i">
 <!ENTITY acceptThirdParty.always.label "Vždy">
 <!ENTITY acceptThirdParty.never.label "Nikdy">
 <!ENTITY acceptThirdParty.visited.label "Pouze navštívené">
 <!ENTITY keepUntil.label "Ponechat do:">
-<!ENTITY keepUntil.accesskey "n">
+<!ENTITY keepUntil.accesskey "d">
 <!ENTITY expire.label "konce doby platnosti">
 <!ENTITY close.label "ukončení aplikace &brandShortName;">
 <!ENTITY askEachTime.label "vždy se dotázat">
@@ -31,11 +31,11 @@
 <!ENTITY showCookies.label "Správce cookies…">
 <!ENTITY showCookies.accesskey "S">
 
-<!ENTITY dntTrackingNopref.label2 "Nesdělovat webovým stránkám nic o mém nastavení sledování">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Informovat servery, že nechci být sledován">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingNotOkay.accesskey "r">
 <!ENTITY dntTrackingOkay.label2 "Informovat servery, že můžu být sledován">
-<!ENTITY dntTrackingOkay.accesskey "r">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY dntTrackingNopref.label2 "Neinformovat servery o mém nastavení, zda chci být sledován">
+<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY doNotTrackInfo.label "Zjistit více o Do Not Track">
 

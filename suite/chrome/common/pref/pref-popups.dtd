@@ -14,14 +14,14 @@
 
 <!ENTITY whenBlock.description "Při zablokování vyskakovacího okna:">
 <!ENTITY playSound.label "Přehrát zvuk:">
-<!ENTITY playSound.accesskey "e">
-<!ENTITY systemSound.label "Systémový zvuk">
-<!ENTITY systemSound.accesskey "m">
+<!ENTITY playSound.accesskey "P">
+<!ENTITY systemSound.label "Zvuk nové pošty v systému">
+<!ENTITY systemSound.accesskey "u">
 <!ENTITY customSound.label "Vlastní zvukový soubor">
-<!ENTITY customSound.accesskey "z">
+<!ENTITY customSound.accesskey "V">
 
 <!ENTITY selectSound.label "Procházet…">
-<!ENTITY selectSound.accesskey "P">
+<!ENTITY selectSound.accesskey "c">
 <!ENTITY playSoundButton.label "Přehrát">
 <!ENTITY playSoundButton.accesskey "h">
 
