@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Guneak emandako erantzuna ustekabekoa izan da eta nabigatzaileak ezin du aurrera jarraitu.</p>">
 
 <!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
-<!ENTITY nssFailure2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi jasotako datuen autentikotasuna ezin baita egiaztatu.</p><ul><li>Jarri harremanetan gunearen jabeekin arazo honen berri emateko.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen autentikotasuna ezin delako egiaztatu.</p><ul><li>Jarri harremanetan gunearen jabeekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Hau zerbitzariaren konfigurazioan errore batengatik edo norbait zerbitzariaren nortasuna hartzen ari delako izan daiteke.</li> <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea behin-behinekoa izan daiteke eta geroago saia zaitezke.</li> </ul>">
