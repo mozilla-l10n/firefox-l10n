@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bladwijzers">
 <!ENTITY  history_title "Geschiedenis">
 <!ENTITY  reading_list_title "Leeslijst">
+<!ENTITY  recent_tabs_title "Recente tabbladen">
 
 <!ENTITY  switch_to_tab "Wisselen naar tabblad">
 
