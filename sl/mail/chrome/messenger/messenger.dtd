@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "B">
 <!ENTITY synchronizeOfflineCmd.label "Prenesi/sinhroniziraj …">
 <!ENTITY synchronizeOfflineCmd.accesskey "u">
-<!ENTITY settingsOfflineCmd.label "Nastavitve za nepovezan način …">
-<!ENTITY settingsOfflineCmd.accesskey "n">
+<!ENTITY settingsOfflineCmd2.label "Nastavitve nepovezanega načina">
+<!ENTITY settingsOfflineCmd2.accesskey "n">
 <!ENTITY downloadSelectedCmd.label "Prenesi izbrana sporočila">
 <!ENTITY downloadSelectedCmd.accesskey "s">
 <!ENTITY downloadStarredCmd.label "Prejmi sporočila z zvezdico">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "v">
 <!ENTITY menuFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY menuFavoriteFolder.accesskey "l">
-<!ENTITY folderPropsCmd.label "Lastnosti …">
-<!ENTITY folderPropsFolderCmd.label "Lastnosti mape …">
-<!ENTITY folderPropsNewsgroupCmd.label "Lastnosti novičarske skupine …">
+<!ENTITY folderPropsCmd2.label "Lastnosti">
+<!ENTITY folderPropsFolderCmd2.label "Lastnosti mape">
+<!ENTITY folderPropsNewsgroupCmd2.label "Lastnosti novičarske skupine">
 <!ENTITY folderPropsCmd.accesskey "S">
 <!ENTITY undoDeleteMsgCmd.label "Razveljavi izbris sporočila">
 <!ENTITY redoDeleteMsgCmd.label "Uveljavi izbris sporočila">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "l">
 <!ENTITY recentFolders.label "Nedavno">
 <!ENTITY recentFolders.accesskey "O">
+<!ENTITY compactVersion.label "Zgoščen pogled">
+<!ENTITY compactVersion.accesskey "Z">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Razvrsti po">
@@ -313,8 +315,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Mapa">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Ta mapa">
-<!ENTITY thisFolder.accesskey "T">
 <!ENTITY goRecentlyClosedTabs.label "Nedavno zaprti zavihki">
 <!ENTITY goRecentlyClosedTabs.accesskey "z">
 <!ENTITY startPageCmd.label "Domača stran pošte">
@@ -354,9 +354,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Priponka">
 <!ENTITY forwardAsAttachmentCmd.accesskey "K">
-<!ENTITY editMsgAsNewCmd.label "Uredi sporočilo kot novo">
-<!ENTITY editMsgAsNewCmd.accesskey "U">
-<!ENTITY editMsgAsNewCmd.key "N">
+<!ENTITY editAsNewMsgCmd.label "Uredi kot novo sporočilo">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "t">
 <!ENTITY moveMsgToMenu.label "Prestavi v">
@@ -379,10 +379,6 @@
 <!ENTITY watchThreadMenu.label "Opazuj nit">
 <!ENTITY watchThreadMenu.accesskey "n">
 <!ENTITY watchThreadMenu.key "n">
-<!ENTITY fileHereMenu.label "Uvrsti sem">
-<!ENTITY fileHereMenu.accesskey "U">
-<!ENTITY copyHereMenu.label "Kopiraj sem">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Oznaka">
 <!ENTITY tagMenu.accesskey "O">
 <!ENTITY tagCmd0.key "0">
@@ -465,8 +461,8 @@
 <!ENTITY savedFiles.label "Shranjene datoteke">
 <!ENTITY savedFiles.accesskey "d">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtri sporočil …">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filtri sporočil">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Poženi filtre v mapi">
 <!ENTITY filtersApply.accesskey "M">
 <!ENTITY filtersApplyToSelection.label "Poženi filtre za izbrana sporočila">
@@ -484,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "e">
 <!ENTITY clearRecentHistory.label "Počisti nedavno zgodovino …">
 <!ENTITY clearRecentHistory.accesskey "N">
-<!ENTITY accountManagerCmd.label "Nastavitve računa …">
-<!ENTITY accountManagerCmd.accesskey "R">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Nastavitve računa">
+<!ENTITY accountManagerCmd2.accesskey "R">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "N">
+<!ENTITY accountManagerCmdUnix2.accesskey "N">
 <!ENTITY allowRemoteDebugging.label "Dovoli oddaljeno razhroščevanje">
 <!ENTITY allowRemoteDebugging.accesskey "O">
 
@@ -569,14 +565,18 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži oddaljeno vsebino tega sporočila">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "P">
-<!ENTITY remoteContentOptionAllowForAddress.label "Prikaži oddaljeno vsebino tega pošiljatelja">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "T">
+<!ENTITY editRemoteContentSettings.label "Uredi možnosti oddaljene vsebine …">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Uredi nastavitve oddaljene vsebine …">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Prezri opozorilo za to sporočilo">
 <!ENTITY phishingOptionIgnore.accesskey "r">
-<!ENTITY phishingOptionDisableDetection.label "Onemogoči zaznavanje prevar za vsa sporočila">
-<!ENTITY phishingOptionDisableDetection.accesskey "O">
+<!ENTITY phishingOptionSettings.label "Uredi možnosti odkrivanja prevar …">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Uredi nastavitve odkrivanja prevar …">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
@@ -627,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "č">
 <!ENTITY folderContextSearchForMessages.label "Poišči po sporočilih …">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Lastnosti …">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties2.label "Lastnosti">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY folderContextFavoriteFolder.accesskey "l">
-<!ENTITY folderContextSettings.label "Nastavitve …">
-<!ENTITY folderContextSettings.accesskey "s">
+<!ENTITY folderContextSettings2.label "Nastavitve">
+<!ENTITY folderContextSettings2.accesskey "s">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Ime ali e-pošta vsebuje:">
@@ -704,8 +704,10 @@
 <!ENTITY contextOpenNewTab.accesskey "R">
 <!ENTITY contextOpenConversation.label "Odpri sporočilo kot pogovor">
 <!ENTITY contextOpenConversation.accesskey "o">
-<!ENTITY contextEditAsNew.label "Uredi kot novo …">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextOpenContainingFolder.label "Odpri sporočilo v vsebovani mapi">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Uredi kot novo">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
@@ -887,7 +889,7 @@
 <!ENTITY zoomWindow.label "Povečaj">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Nastavitve …">
+<!ENTITY preferencesCmdMac2.label        "Nastavitve">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Storitve">
@@ -898,3 +900,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Pokaži vse">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Možnosti ikone aplikacije …">
