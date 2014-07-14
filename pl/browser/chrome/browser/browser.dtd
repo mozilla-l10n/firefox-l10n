@@ -79,6 +79,10 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "z" >
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek" >
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "P">
+
 <!ENTITY pageSourceCmd.label "Źródło strony" >
 <!ENTITY pageSourceCmd.accesskey "d" >
 <!ENTITY pageSourceCmd.commandkey "u" >
