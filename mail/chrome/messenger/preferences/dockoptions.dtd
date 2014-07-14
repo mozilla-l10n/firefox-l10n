@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Možnosti ikone aplikacije">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Animiraj ikono aplikacije, ko prispe novo sporočilo">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Število novih sporočil">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Število neprebranih sporočil">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "p">
+<!ENTITY dockIconBadge.label                   "Priponka ikone aplikacije">
+<!ENTITY dockIconShow.label                    "Dodaj naslednjo priponko ikoni aplikacije:">
