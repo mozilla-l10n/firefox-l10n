@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "I"> 
-<!ENTITY findCmd.label "Išči in zamenjaj …">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.accesskey "I">
+<!ENTITY findBarCmd.label "Išči …">
+<!ENTITY findBarCmd.accesskey "I">
+<!ENTITY findBarCmd.key "I">
+<!ENTITY findReplaceCmd.label "Išči in zamenjaj…">
+<!ENTITY findReplaceCmd.accesskey "z">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Ponovno poišči">
 <!ENTITY findAgainCmd.key "G">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresar">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Nastavitve računa …">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Možnosti …">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmd2.label "Nastavitve računa">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
@@ -202,6 +204,7 @@
 <!ENTITY attachButton.label "Pripni">
 <!ENTITY spellingButton.label "Črkovanje">
 <!ENTITY saveButton.label "Shrani">
+<!ENTITY printButton.label "Natisni">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Pošlji to sporočilo zdaj"> 
@@ -214,6 +217,7 @@
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
 <!ENTITY pasteButton.tooltip            "Prilepi">
+<!ENTITY printButton.tooltip "Natisni to sporočilo">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
