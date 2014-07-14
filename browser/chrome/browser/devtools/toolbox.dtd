@@ -57,11 +57,11 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Galioja tik šią sesiją, įkelia tinklalapį iš naujo">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3   "Įgalinti naršyklės sąsajos derinimą">
-<!ENTITY options.enableChrome.tooltip  "Pažymėję šią parinktį, galėsite programuotojų priemonėmis naudotis naršyklės kontekste">
+<!ENTITY options.enableChrome.label4   "Įgalinti naršyklės sąsajos ir priedų derinimą">
+<!ENTITY options.enableChrome.tooltip2 "Pažymėję šią parinktį, galėsite programuotojų priemonėmis naudotis naršyklės kontekste ir derinti priedų tvarkytuvėje matomus priedus">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -144,6 +144,11 @@
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
 <!ENTITY options.profiler.label            "„JavaScript“ profiliuoklė">
+
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "Bendros nuostatos">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
