@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY youSendItSettings.username "Uporabniško ime:">
-<!ENTITY youSendItSettings.needAnAccount "Potrebujete račun?">
-<!ENTITY youSendItSettings.learnMore "Več o tem …">
+<!ENTITY hightailSettings.username "Uporabniško ime:">
+<!ENTITY hightailSettings.needAnAccount "Potrebujete račun?">
+<!ENTITY hightailSettings.learnMore "Več o tem …">
