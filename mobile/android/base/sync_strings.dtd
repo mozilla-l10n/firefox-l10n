@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
 <!ENTITY fxaccount_status_needs_credentials 'Povezava ni mogoča. Tapnite za prijavo.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Za prijavo morate nadgraditi &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Uporaba poodatkov.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Tapnite za začetek sinhronizacije.'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
 <!ENTITY fxaccount_status_history 'Zgodovina'>
 <!ENTITY fxaccount_status_passwords 'Gesla'>

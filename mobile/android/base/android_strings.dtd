@@ -54,7 +54,7 @@
 <!ENTITY back "Nazaj">
 <!ENTITY stop "Ustavi">
 <!ENTITY site_security "Varnost strani">
-<!ENTITY save "Shrani">
+<!ENTITY edit_mode_cancel "Prekliči">
 
 <!ENTITY close_tab "Zapri zavihek">
 <!ENTITY one_tab "1 zavihek">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Zasebnost">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
+<!ENTITY pref_learn_more "Več o tem">
 <!ENTITY pref_category_installed_search_engines "Nameščeni iskalniki">
 <!ENTITY pref_category_add_search_providers "Dodaj več iskalnikov">
 <!ENTITY pref_category_search_restore_defaults "Obnovi iskalnike">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
-<!ENTITY pref_developer_remotedebugging_docs "Več o tem">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
 
 <!ENTITY pref_category_home "Domov">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sinhroniziraj">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
-<!ENTITY pref_private_data_history "Zgodovino brskanja in prenosov">
+<!ENTITY pref_private_data_history2 "Zgodovino brskanja">
 <!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
 <!ENTITY pref_private_data_passwords "Shranjena gelsa">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
 <!ENTITY pref_private_data_offlineApps "Podatke pri delu brez povezave">
 <!ENTITY pref_private_data_siteSettings2 "Nastavitve strani">
-<!ENTITY pref_private_data_downloadFiles "Prenesene datoteke">
+<!ENTITY pref_private_data_downloadFiles2 "Prenosi">
 
 
 <!ENTITY pref_about_firefox "O &brandShortName;u">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Prikaži">
 <!ENTITY pref_panels_hide "Skrij">
+<!ENTITY pref_panels_reorder "Preuredi">
+<!ENTITY pref_panels_move_up "Gor">
+<!ENTITY pref_panels_move_down "Dol">
 
 <!ENTITY datareporting_notification_title "Statistika in podatki o &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročila o sesutju">
-<!ENTITY datareporting_wifi_title "Lokacijske storitve organizacije &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Pomagajte izboljšati gelokacijske storitve za odprt splet, tako da dovolite &brandShortName;u zbiranje in pošiljanje anonimnih podatkov.">
+<!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Ko teče v ozadju, prejema podatke o lokaciji mobilnih in brezžičnih omrežij in jih pošilja organizaciji &vendorShortName; za izboljšanje naših gelokacijskih storitev">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Počisti">
 <!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
-<!ENTITY reading_list_add "Dodaj na bralni seznam">
 <!ENTITY reading_list_added "Stran dodana na bralni seznam">
 <!ENTITY reading_list_removed "Stran odstranjena iz bralnega seznama">
 <!ENTITY reading_list_failed "Dodajanje strani na bralni seznam ni uspelo">
@@ -338,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Ni bilo mogoče najti vsebine za to ploščo.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Nazaj na &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">
 
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
 <!ENTITY exit_guest_session_text "Podatki o brskanju v tej seji bodo izbrisani.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis " …">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
