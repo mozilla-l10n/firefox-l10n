@@ -67,7 +67,7 @@
 <!ENTITY largerFont.commandkey        "+">
 
 <!ENTITY smallerFont.label            "Menor tamaño de letra">
-<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Tamaño normal">
