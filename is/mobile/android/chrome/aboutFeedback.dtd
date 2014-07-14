@@ -19,7 +19,7 @@
 
 <!ENTITY support.pre2              "Þú getur einnig heimsótt  ">
 <!ENTITY support.link              "&brandShortName; Stuðningur">
-<!ENTITY support.post2             "   til að fá meiri upplýsingar.">
+<!ENTITY support.post2             "  til að fá meiri upplýsingar.">
 
 <!ENTITY happy.header              "Það er gott að heyra!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
