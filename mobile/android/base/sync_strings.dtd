@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label 'Firefox-accounts'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Account op server gebruiken'>
+<!ENTITY fxaccount_custom_server_sync_title 'Sync data op server opslaan'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
+<!ENTITY fxaccount_status_auth_server 'Accountserver'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnaam'>
+<!ENTITY fxaccount_status_sync_server 'Syncserver'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ingeschakeld'>
 <!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden geverifieerd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
