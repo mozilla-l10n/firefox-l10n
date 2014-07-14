@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; fitxa">
 <!ENTITY new_tab_opened "Fitxa berria irekita">
+<!ENTITY new_private_tab_opened "Fitxa pribatu berria irekita">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ALDATU">
 
 <!ENTITY settings "Ezarpenak">
 <!ENTITY settings_title "Ezarpenak">
 <!ENTITY pref_category_advanced "Aurreratua">
 <!ENTITY pref_category_customize "Pertsonalizatu">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Hizkuntza">
+<!ENTITY pref_browser_locale "Nabigatzailearen hizkuntza">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Sistemaren lehenetsia">
+
 <!ENTITY pref_category_search3 "Bilatu">
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
 <!ENTITY pref_category_display "Bistaratzea">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Eguneraketa automatikoak">
 <!ENTITY pref_home_updates_enabled "Gaituta">
 <!ENTITY pref_home_updates_wifi "Wi-Fi bidez soilik">
+<!ENTITY pref_home_suggested_sites "Erakutsi guneen gomendioak">
+<!ENTITY pref_home_suggested_sites_summary "Bistaratu hasiera-orrian interesgarriak izan daitezkeen guneetarako lasterbideak">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pertsonalizazioa">
 <!ENTITY pref_header_display "Bistaratzea">
 <!ENTITY pref_header_privacy_short "Pribatutasuna">
 <!ENTITY pref_header_help "Laguntza">
+<!ENTITY pref_header_language "Hizkuntza">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Garatzaile-tresnak">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
 <!ENTITY pref_update_autodownload_never "Inoiz ez">
 <!ENTITY pref_update_autodownload_always "Beti">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Laguntza">
 
 <!ENTITY quit "Irten">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Korritu titulu-barra">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Orria kenduta">
+<!ENTITY page_removed "Orria kenduta">
 
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
 <!ENTITY bookmark_edit_name "Izena">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
 <!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
-<!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kenduta">
 <!ENTITY reading_list_failed "Huts egin du orria zure irakurketa-zerrendara gehitzean">
 <!ENTITY reading_list_duplicate "Orria badago lehendik irakurketa-zerrendan">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Gehitu gunea">
 
 <!ENTITY home_history_title "Historia">
+<!ENTITY home_clear_history_button "Garbitu nabigatze-historia">
+<!ENTITY home_clear_history_confirm "Ziur zaude nabigatze-historia garbitu nahi duzula?">
 <!ENTITY home_bookmarks_empty "Gordetako laster-markak hemen agertzen dira.">
 <!ENTITY home_last_tabs_title "Azken saioko fitxak">
 <!ENTITY home_last_tabs_open "Ireki azken saioko fitxa guztiak">
@@ -434,3 +461,11 @@ Android-etik">
 
 <!ENTITY actionbar_menu "Menua">
 <!ENTITY actionbar_done "Eginda">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Azken sinkronizazioa: &formatS;">
