@@ -79,8 +79,11 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "z" >
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek" >
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Odśwież wszystkie karty">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Przywróć zamkniętą kartę">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "P">
 
 <!ENTITY pageSourceCmd.label "Źródło strony" >
