@@ -59,22 +59,22 @@
 <!ENTITY idColumn.label "Čas prejema">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "S klikom izberite stolpce, ki jih želite prikazati">
-<!ENTITY threadColumn.tooltip "Kliknite za prikaz niti sporočil"> 
-<!ENTITY fromColumn.tooltip "Kliknite za razvrščanje po Od">
-<!ENTITY recipientColumn.tooltip "Kliknite za razvrščanje po prejemniku">
-<!ENTITY subjectColumn.tooltip "Kliknite za razvrščanje po zadevi">
-<!ENTITY dateColumn.tooltip "Kliknite za razvrščanje po datumu">
-<!ENTITY priorityColumn.tooltip "Kliknite za razvrščanje po prioriteti">
-<!ENTITY tagsColumn.tooltip "Kliknite za razvrščanje po oznakah">
-<!ENTITY accountColumn.tooltip "Kliknite za razvrščanje po računu">
-<!ENTITY statusColumn.tooltip "Kliknite za razvrščanje po stanju">
-<!ENTITY sizeColumn.tooltip "Kliknite za razvrstitev po velikosti">
-<!ENTITY junkStatusColumn.tooltip "Kliknite za razvrščanje glede na želeno/neželeno">
-<!ENTITY unreadColumn.tooltip "Število neprebranih sporočil v niti">
-<!ENTITY totalColumn.tooltip "Skupno število sporočil v niti">
-<!ENTITY readColumn.tooltip "Kliknite za razvrščanje po Prebrano /Neprebrano">
-<!ENTITY receivedColumn.tooltip "Kliknite za razvrstitev po datumu prejema">
-<!ENTITY starredColumn.tooltip "Kliknite za razvrščanje glede na zvezdico">
-<!ENTITY locationColumn.tooltip "Kliknite za razvrščanje po mestu">
-<!ENTITY idColumn.tooltip "Kliknite za razvrščanje po času prejema">
+<!ENTITY columnChooser2.tooltip "Izberite stolpce, ki jih želite prikazati">
+<!ENTITY threadColumn2.tooltip "Prikaži niti sporočil"> 
+<!ENTITY fromColumn2.tooltip "Kliknite za razvrščanje po Od">
+<!ENTITY recipientColumn2.tooltip "Razvrsti po prejemniku">
+<!ENTITY subjectColumn2.tooltip "Razvrsti po zadevi">
+<!ENTITY dateColumn2.tooltip "Razvrsti po datumu">
+<!ENTITY priorityColumn2.tooltip "Razvrsti po prioriteti">
+<!ENTITY tagsColumn2.tooltip "Razvrsti po oznakah">
+<!ENTITY accountColumn2.tooltip "Razvrsti po računu">
+<!ENTITY statusColumn2.tooltip "Razvrsti po stanju">
+<!ENTITY sizeColuRazvrstitip "Razvrsti po velikosti">
+<!ENTITY junkStatusColumn2.tooltip "Razvrsti glede na želeno/neželeno">
+<!ENTITY unreadColumn2.tooltip "Število neprebranih sporočil v niti">
+<!ENTITY totalColumn2.tooltip "Skupno število sporočil v niti">
+<!ENTITY readColumn2.tooltip "Razvrsti po Prebrano/Neprebrano">
+<!ENTITY receivedColumn2.tooltip "Razvrsti po datumu prejema">
+<!ENTITY starredColumn2.tooltip "Razvrsti glede na zvezdico">
+<!ENTITY locationColumn2.tooltip "Razvrsti po mestu">
+<!ENTITY idColumn2.tooltip "Razvrsti po času prejema">
