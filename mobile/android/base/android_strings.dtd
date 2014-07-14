@@ -53,7 +53,7 @@
 <!ENTITY back "Atgal">
 <!ENTITY stop "Stabdyti">
 <!ENTITY site_security "Svetainės saugumas">
-<!ENTITY save "Įrašyti">
+<!ENTITY edit_mode_cancel "Atsisakyti">
 
 <!ENTITY close_tab "Užverti kortelę">
 <!ENTITY one_tab "1 kortelė">
@@ -72,6 +72,7 @@
 <!ENTITY pref_category_privacy_short "Privatumas">
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
+<!ENTITY pref_learn_more "Sužinoti daugiau">
 <!ENTITY pref_category_installed_search_engines "Įdiegtos ieškyklės">
 <!ENTITY pref_category_add_search_providers "Pridėti daugiau ieškyklių">
 <!ENTITY pref_category_search_restore_defaults "Atstatyti numatytąsias ieškykles">
@@ -85,7 +86,6 @@
 <!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
-<!ENTITY pref_developer_remotedebugging_docs "Sužinoti daugiau">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 
 <!ENTITY pref_category_home "Pradžia">
@@ -156,14 +156,14 @@ size. -->
 <!ENTITY pref_sync "Sinchronizavimas">
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
-<!ENTITY pref_private_data_history "Naršymo ir atsiuntimų žurnalas">
+<!ENTITY pref_private_data_history2 "Naršymo žurnalas">
 <!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
 <!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
 <!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings2 "Svetainių nuostatos">
-<!ENTITY pref_private_data_downloadFiles "Parsiųsti failai">
+<!ENTITY pref_private_data_downloadFiles2 "Atsiuntimai">
 
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
@@ -176,7 +176,10 @@ size. -->
 <!ENTITY pref_search_last_toast "Pašalinti arba išjungti paskutinės ieškyklės neleidžiama.">
 
 <!ENTITY pref_panels_show "Rodyti">
-<!ENTITY pref_panels_hide "Hide">
+<!ENTITY pref_panels_hide "Nerodyti">
+<!ENTITY pref_panels_reorder "Keisti tvarką">
+<!ENTITY pref_panels_move_up "Pakelti aukščiau">
+<!ENTITY pref_panels_move_down "Nuleisti žemiau">
 
 <!ENTITY datareporting_notification_title "„&brandShortName;“ statistika ir duomenys">
 <!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
@@ -200,8 +203,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Strigčių pranešiklis">
-<!ENTITY datareporting_wifi_title "„Mozillos“ geografinės vietos nustatymo paslaugos">
-<!ENTITY datareporting_wifi_summary "Padėkite pagerinti atvirojo saityno vietos nustatymo paslaugas, leisdami „&brandShortName;“ kaupti ir siųsti anoniminius duomenis apie mobiliojo ryšio siųstuvus">
+<!ENTITY datareporting_wifi_title2 "„Mozillos“ geografinės vietos nustatymo paslaugos">
+<!ENTITY datareporting_wifi_geolocation_summary "Fonine veiksena kaupia informaciją apie belaidžius tinklus ir mobiliojo ryšio siųstuvus ir dalijasi ja su „&vendorShortName;“ mūsų vietos nustatymo paslaugos tobulinimo tikslais.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -288,7 +291,6 @@ size. -->
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
-<!ENTITY reading_list_add "Įtraukti į skaitinių sąrašą">
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
@@ -336,6 +338,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Nerasta turinio šiai skilčiai užpildyti.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Aukštyn į „&formatS;“">
 
 <!ENTITY pin_site_dialog_hint "Įveskite reikšminį žodį paieškai">
 
@@ -415,6 +421,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY exit_guest_session_text "Šio naršymo seanso duomenys bus pašalinti.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
