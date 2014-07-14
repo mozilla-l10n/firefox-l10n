@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Premakni dol">
 <!ENTITY account.cancelReconnection.label         "Prekliči ponovno povezavo">
 <!ENTITY account.cancelReconnection.accesskey     "O ">
+<!ENTITY account.copyDebugLog.label     "Kopiraj dnevnik razhroščevanja">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Povezovanje …">
-<!ENTITY account.disconnecting        "Odklop ...">
+<!ENTITY account.disconnecting        "Odklop …">
 <!ENTITY account.disconnected         "Brez povezave">
