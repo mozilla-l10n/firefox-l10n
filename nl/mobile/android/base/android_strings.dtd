@@ -258,6 +258,7 @@ size. -->
 <!ENTITY new_tab "Nieuw tabblad">
 <!ENTITY new_private_tab "Nieuw privétabblad">
 <!ENTITY close_all_tabs "Alle tabbladen sluiten">
+<!ENTITY close_private_tabs "Privétabbladen sluiten">
 <!ENTITY tabs_normal "Tabbladen">
 <!ENTITY tabs_private "Privé">
 <!ENTITY tabs_synced "Gesynchroniseerd">
