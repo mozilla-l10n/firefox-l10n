@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Zapri zavihek">
 <!ENTITY  listAllTabs.label        "Naštej vse zavihke">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Domov">
