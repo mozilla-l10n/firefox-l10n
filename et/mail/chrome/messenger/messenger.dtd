@@ -62,8 +62,8 @@
 <!ENTITY renameFolder.label                            "Muuda kausta nime…">
 <!ENTITY renameFolder.accesskey                        "M">
 <!ENTITY renameFolder.key                              "VK_F2">
-<!ENTITY compactFolders.label                          "Tihenda kaustad">
-<!ENTITY compactFolders.accesskey                      "T">
+<!ENTITY compactFolders.label                          "Suru kaustad kokku">
+<!ENTITY compactFolders.accesskey                      "t">
 <!ENTITY emptyTrashCmd.label                           "Tühjenda kustutatud kirjade kaust">
 <!ENTITY emptyTrashCmd.accesskey                       "j">
 <!ENTITY offlineMenu.label                             "Võrguta režiim">
@@ -522,7 +522,7 @@
 <!ENTITY mailViewsToolbarItem.title                    "Kirja vaated">
 <!ENTITY folderLocationToolbarItem.title               "Kausta asukoht">
 <!ENTITY tagButton.label                               "Sildista">
-<!ENTITY compactButton.label                           "Tihenda">
+<!ENTITY compactButton.label                           "Suru kokku">
 <!ENTITY appmenuButton.label                           "Rakenduse menüü">
 
 <!-- Mail Toolbar Tooltips-->
@@ -609,12 +609,12 @@
 <!ENTITY folderContextRename.accesskey                 "N">
 <!ENTITY folderContextRemove.label                     "Kustuta">
 <!ENTITY folderContextRemove.accesskey                 "K">
-<!ENTITY folderContextCompact.label                    "Tihenda">
-<!ENTITY folderContextCompact.accesskey                "T">
-<!ENTITY folderContextEmptyTrash.label                 "Tühjenda Kustutatud">
+<!ENTITY folderContextCompact.label                    "Suru kokku">
+<!ENTITY folderContextCompact.accesskey                "S">
+<!ENTITY folderContextEmptyTrash.label                 "Tühjenda kustutatud kirjade kaust">
 <!ENTITY folderContextEmptyTrash.accesskey             "h">
-<!ENTITY folderContextEmptyJunk.label                  "Tühjenda Rämpspost">
-<!ENTITY folderContextEmptyJunk.accesskey              "R">
+<!ENTITY folderContextEmptyJunk.label                  "Tühjenda rämpsposti kaust">
+<!ENTITY folderContextEmptyJunk.accesskey              "r">
 <!ENTITY folderContextSendUnsentMessages.label         "Saada saatmata kirjad">
 <!ENTITY folderContextSendUnsentMessages.accesskey     "t">
 <!ENTITY folderContextUnsubscribe.label                "Katkesta tellimine...">
