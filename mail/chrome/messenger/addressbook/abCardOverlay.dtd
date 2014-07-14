@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Neznano">
 <!ENTITY chatName.label                 "Ime za klepet:">
 
-<!ENTITY allowRemoteContent1.label      "Dovoli oddaljeno vsebino.">
-<!ENTITY allowRemoteContent1.accesskey  "b">
-<!ENTITY allowRemoteContent1.tooltip    "V sporočila HTML je mogoče vstavljati vsebino oddaljenega izvora. Ko se tako sporočilo odpre, se pri tem tudi odpre povezava z oddaljenim virom. Na ta načiin je mogoče sporočilo zasledovati. Če odkljukate to polje, bo uporaba zunanjih vsebin v sporočilih oblike HTML dovoljena.">
-
 <!ENTITY WorkPhone.label                "Služba:">
 <!ENTITY WorkPhone.accesskey            "s">
 <!ENTITY HomePhone.label                "Doma:">
