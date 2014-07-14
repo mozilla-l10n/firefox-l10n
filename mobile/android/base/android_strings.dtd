@@ -101,8 +101,8 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og síðan slá á &formatI; merkið.">
-<!ENTITY pref_category_devtools "Verkfæri forritara">
+<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
+<!ENTITY pref_category_devtools "Verkfærakista forritarans">
 <!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
 <!ENTITY pref_remember_signons "Muna lykilorð">
 
@@ -130,7 +130,7 @@
 <!ENTITY pref_header_help "Hjálp">
 <!ENTITY pref_header_language "Tungumál">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Verkfæri forritara">
+<!ENTITY pref_header_devtools "Verkfærakista forritarans ">
 
 <!ENTITY pref_cookies_menu "Smákökur">
 <!ENTITY pref_cookies_accept_all "Virkar">
@@ -148,7 +148,7 @@
 <!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virkt">
-<!ENTITY pref_plugins_tap_to_play "Sláðu létt til að spila">
+<!ENTITY pref_plugins_tap_to_play "Snertu til að spila">
 <!ENTITY pref_plugins_disabled "Óvirk">
 <!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_reflow_on_zoom4 "Sjálfvirk endurstilling texta">
@@ -220,7 +220,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Deila gögnum með &vendorShortName; um heilsufar vafrans þín og hjálpar þér að skilja afköst vafrans þíns">
 <!ENTITY datareporting_abouthr_title "Líta á ástandsskoðunina">
 <!ENTITY datareporting_telemetry_title "Fjarmælingar">
-<!ENTITY datareporting_telemetry_summary "Miðla &vendorShortName; afköstum, notkun, vélbúnaði og sérsníðnum gögnum um vafrann þinn til að hjálpa okkur að gera&brandShortName; betri">
+<!ENTITY datareporting_telemetry_summary "Miðla &vendorShortName; afköstum, notkun, vélbúnaði og sérsníðnum gögnum um vafrann þinn til að hjálpa okkur að gera &brandShortName; betri">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sendir hrunaskýrslu til að hjálpa &vendorShortName; gera vafrann þinn stöðugri og öruggari">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
