@@ -110,7 +110,6 @@
 <!ENTITY pref_category_home "Startpagina">
 <!ENTITY pref_category_home_summary "Uw startpagina aanpassen">
 <!ENTITY pref_category_home_panels "Panelen">
-<!ENTITY pref_home_add_panel "Paneel toevoegen">
 <!ENTITY home_add_panel_title "Nieuw paneel toevoegen">
 <!ENTITY home_add_panel_empty "Sorry, we kunnen geen panelen voor u vinden om toe te voegen.">
 <!-- Localization note (home_add_panel_installed):
