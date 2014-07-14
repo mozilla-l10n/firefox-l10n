@@ -89,7 +89,7 @@
 <!ENTITY showOffline.accesskey            "S">
 
 <!ENTITY Diskspace                        "Kettaruum">
-<!ENTITY offlineCompactFolders.label      "Kõik kaustad tihendatakse, kui see säästab kokku rohkem kui">
+<!ENTITY offlineCompactFolders.label      "Kõik kaustad surutakse kokku, kui see säästab kokku rohkem kui">
 <!ENTITY offlineCompactFolders.accesskey  "b">
 <!ENTITY offlineCompactFoldersMB.label    "MiB">
 

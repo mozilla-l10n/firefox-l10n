@@ -351,8 +351,8 @@ size. -->
 <!ENTITY home_bookmarks_empty            "Lisatud järjehoidjad ilmuvad siia.">
 <!ENTITY home_last_tabs_title            "Kaardid eelmisest korrast">
 <!ENTITY home_last_tabs_open             "Ava kõik kaardid eelmisest korrast">
-<!ENTITY home_last_tabs_empty            "Hiljutised kaardid ilmuvad siia.">
-<!ENTITY home_most_recent_title          "Hiljutine ajalugu">
+<!ENTITY home_last_tabs_empty            "Viimati külastatud kaardid ilmuvad siia.">
+<!ENTITY home_most_recent_title          "Viimatine ajalugu">
 <!ENTITY home_most_recent_empty          "Viimati külastatud veebisaidid ilmuvad siia.">
 <!ENTITY home_reading_list_empty         "Hilisemaks lugemiseks salvestatud artiklid ilmuvad siia.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
