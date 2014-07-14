@@ -17,7 +17,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1                  "Oled soovinud, et &brandShortName; ühenduks
-                                                turvaliselt masinaga aadressil <b>#1</b>, aga me ei saa sinu ühenduse turvalisust kinnitada.">
+                                                turvaliselt masinaga aadressil <b>#1</b>, aga meil pole võimalik sinu ühenduse turvalisust kinnitada.">
 
 <!ENTITY certerror.whatShouldIDo.heading       "Mida sa peaksid tegema?">
 <!ENTITY certerror.whatShouldIDo.content       "Kui tavaliselt sul selle veebilehega

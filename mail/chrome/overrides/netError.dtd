@@ -39,7 +39,7 @@
 
 <!ENTITY generic.title                         "Ups.">
 <!ENTITY generic.longDesc                      "
-<p>&brandShortName; ei saa seda lehte mingil põhjusel laadida.</p>
+<p>&brandShortName;il pole mingil põhjusel selle lehe laadimine võimalik.</p>
 ">
 
 <!ENTITY malformedURI.title                    "Aadress pole korrektne">
@@ -173,7 +173,7 @@ ja sa võid hiljem uuesti proovida.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc      "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
 
 <!ENTITY corruptedContentError.title           "Vigane sisu">
-<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
+<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, pole võimalik kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">
