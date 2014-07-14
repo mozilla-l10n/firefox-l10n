@@ -373,6 +373,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Terug naar &formatS;">
 
+<!ENTITY private_browsing_title "Privénavigatie">
+<!ENTITY private_tabs_panel_description "Uw privétabbladen zullen hier verschijnen. Hoewel we geen navigatiegeschiedenis of cookies bewaren, worden bladwijzers en bestanden die u download wel opgeslagen op uw apparaat.">
+<!ENTITY private_tabs_panel_learn_more "Wilt u meer info?">
+
 <!ENTITY pin_site_dialog_hint "Voer een zoekterm in">
 
 <!ENTITY filepicker_title "Bestand kiezen">
