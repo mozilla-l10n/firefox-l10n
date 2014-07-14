@@ -93,6 +93,7 @@
 <!ENTITY cmd.installAddon.accesskey           "d">
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
+<!ENTITY cmd.debugAddon.label                 "Derinti">
 <!ENTITY cmd.showPreferencesWin.label         "Nuostatos">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Keisti šio priedo nuostatas">
 <!ENTITY cmd.showPreferencesUnix.label        "Nuostatos">

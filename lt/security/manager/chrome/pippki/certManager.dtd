@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label "Liudijimo galiojimas šiuo metu tikrinamas…">
 <!ENTITY certmgr.subjectinfo.label "Kam išduotas">
 <!ENTITY certmgr.issuerinfo.label "Kas išdavė">
-<!ENTITY certmgr.validity.label "Galiojimas">
+<!ENTITY certmgr.periodofvalidity.label "Galiojimo periodas" >
 <!ENTITY certmgr.fingerprints.label "Kontroliniai kodai">
 <!ENTITY certmgr.certdetail.title "Išsamesnė informacija apie liudijimą">
 <!ENTITY certmgr.certdetail.cn "Vardas (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver "Serveris">
 <!ENTITY certmgr.override_lifetime "Galiojimo laikas">
 <!ENTITY certmgr.tokenname "Saugumo priemonė">
-<!ENTITY certmgr.issued "Išdavimo data">
+<!ENTITY certmgr.begins "Galioja nuo">
 <!ENTITY certmgr.expires "Galioja iki">
 <!ENTITY certmgr.email "El. pašto adresas">
 <!ENTITY certmgr.serial "Numeris">

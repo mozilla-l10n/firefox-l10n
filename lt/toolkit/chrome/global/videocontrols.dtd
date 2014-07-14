@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel       "Įjungti garsą">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Visas ekranas">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Normalioji veiksena">
+<!ENTITY castingButton.castingLabel "Nukreipti į ekraną">
 
 <!ENTITY stats.media "Medija">
 <!ENTITY stats.size "Dytis">

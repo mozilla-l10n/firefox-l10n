@@ -73,6 +73,8 @@
 <!ENTITY btnConsoleInfo         "Informacija">
 <!ENTITY btnConsoleWarnings     "Įspėjimai">
 <!ENTITY btnConsoleLog          "Žurnalas">
+<!ENTITY btnConsoleReflows      "Turinio perdėstymai">
+
 
 <!ENTITY filterOutput.placeholder "Filtruoti išvestį">
 <!ENTITY btnClear.label        "Valyti">
