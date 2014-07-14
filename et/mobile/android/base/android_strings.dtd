@@ -195,7 +195,7 @@ size. -->
 <!ENTITY pref_dialog_default             "vaikeväärtus">
 <!ENTITY pref_dialog_remove              "Eemalda">
 
-<!ENTITY pref_search_last_toast          "Viimast otsingumootorit ei saa eemaldada ega keelata.">
+<!ENTITY pref_search_last_toast          "Viimast otsingumootorit pole võimalik eemaldada ega keelata.">
 
 <!ENTITY pref_panels_show                "Kuva">
 <!ENTITY pref_panels_hide                "Peida">

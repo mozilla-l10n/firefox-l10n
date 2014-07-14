@@ -84,5 +84,5 @@
 <!ENTITY insecureServer.tooltip.details   "Täpsema info saamiseks klõpsa ringil.">
 
 <!ENTITY insecureUnencrypted.description  "Sinu kiri ja autentimine saadetakse krüptimata, seega võivad sinu parooli (ja kirja) lugeda teised inimesed. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline ühendus.">
-<!ENTITY insecureSelfSigned.description   "Server kasutab sertifikaati, mida me ei saa usaldada, seega ei saa me olla kindlad, et keegi ei sega liiklust &brandShortName;i ja sinu serveri vahel. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline sertifikaat.">
+<!ENTITY insecureSelfSigned.description   "Server kasutab sertifikaati, mida pole võimalik usaldada, seega puudub ka kindlus, et keegi ei sega liiklust &brandShortName;i ja sinu serveri vahel. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline sertifikaat.">
 <!ENTITY secureServer.description         "Õnnitleme! See on turvaline server.">
