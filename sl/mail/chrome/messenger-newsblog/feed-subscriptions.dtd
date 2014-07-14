@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Pokaži povzetek članka in ne nalagaj spletne strani">
 <!ENTITY quickMode.accesskey         "H">
 
+<!ENTITY autotagEnable.label         "Samodejno ustvari oznake iz imen &lt;category&gt; vira">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Dodaj predpono oznakam:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Vnesite predpono oznake">
+
 <!ENTITY locationValidate.label      "Validiraj">
 <!ENTITY validateText.label          "Preveri validacijo in priskrbi veljaven url.">
 
@@ -35,3 +41,4 @@
 <!ENTITY button.exportOPML.tooltip   "Izvozi vire s strukturo; ctrl klik ali ctrl enter za izvoz virov kot seznam">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Zapri">
