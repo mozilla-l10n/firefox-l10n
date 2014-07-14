@@ -44,8 +44,8 @@
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
-<!ENTITY history_week_section "Afgelopen 7 dagen">
-<!ENTITY history_older_section "Ouder dan 7 dagen">
+<!ENTITY history_week_section2 "Afgelopen week">
+<!ENTITY history_older_section2 "Afgelopen maand">
 
 <!ENTITY go "Ga">
 <!ENTITY search "Zoeken">
