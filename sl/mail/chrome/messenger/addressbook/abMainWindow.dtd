@@ -75,8 +75,8 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "Lastnosti …">
-<!ENTITY propertiesCmd.accesskey                        "L">
-<!ENTITY propertiesCmd.key                              "L">
+<!ENTITY propertiesCmd2.accesskey                       "I">
+<!ENTITY propertiesCmd2.key                             "I">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Pogled">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Izvozi …">
 <!ENTITY exportCmd.accesskey                            "i">
-<!ENTITY preferencesCmd.label                           "Možnosti …">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "Možnosti">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey                   "o">
 
