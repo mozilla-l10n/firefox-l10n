@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Chueves" >
 <!ENTITY day.6.name "Viernes" >
 <!ENTITY day.7.name "Sabado" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "minute">
-<!ENTITY calendar.global.units.minutes  "minutes">
-<!ENTITY calendar.global.units.hour     "hour">
-<!ENTITY calendar.global.units.hours    "hours">
-<!ENTITY calendar.global.units.day      "day">
-<!ENTITY calendar.global.units.days     "days">
 
 <!ENTITY month.1.name "Chinero" >
 <!ENTITY month.2.name "Febrero" >

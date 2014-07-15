@@ -39,7 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Name:">
 <!ENTITY acctName.accesskey       "N">
 
-<!ENTITY back.label               "&lt; Dezaga">
+<!ENTITY back.label               "&lt; Enta zaga">
 <!ENTITY forward.label            "Siguient &gt;">
 <!ENTITY finish.label             "Rematar">
 <!ENTITY cancel.label             "Cancelar">

@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "S\u0027ha ninviau a pestanya!">
 <!ENTITY sync.text.tab.not.sent.label "I ha habiu bell problema en ninviar a suya pestanya.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Cuentas de Firefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "Correu">
 <!ENTITY fxaccount_password_hint "Clau">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Connectau como">
+<!ENTITY fxaccount_status_device_name "Nombre d\u0027o dispositivo">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
 <!ENTITY fxaccount_status_needs_verification2 "A suya cuenta ha de verificar-se. Toque ta tornar a ninviar o mensache de verificación.">

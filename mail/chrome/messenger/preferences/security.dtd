@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Correu fraudulento">
 <!ENTITY itemPasswords.label     "Claus d'acceso">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Web Content">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Estableixca a suya configuración predeterminada t'o correu no deseyau. a configuración especifica de cada cuenta puede realizar en Configuración d'as cuentas.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; puede fer facilment que o software antivirus analise o correu entrante en busca de virus antes que s'alcen localment.">
 <!ENTITY antiVirus.label      "Permitir a os antivirus meter en cuarentena mensaches individuals">
 <!ENTITY antiVirus.accesskey  "P">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">
-<!ENTITY acceptCookies.label            "Accept cookies from sites">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Keep until:">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "they expire">
-<!ENTITY close.label                    "I close &brandShortName;">
-<!ENTITY askEachTime.label              "ask me every time">
-<!ENTITY cookieExceptions.label         "Exceptions…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Show Cookies…">
-<!ENTITY showCookies.accesskey          "S">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey           "d">

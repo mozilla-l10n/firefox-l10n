@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "p">
 <!ENTITY pref.defalarmlen4todos.label "Antelación predet. con el qual un aviso amaneixe antes d'un quefer:">
 <!ENTITY pref.defalarmlen4todos.accesskey "v">
-<!ENTITY pref.defaultemail.label "Adreza predet. a el qual ninviar os avisos:">
-<!ENTITY pref.defaulttext.label "Texto predeterminau d'os avisos:">
+
+<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

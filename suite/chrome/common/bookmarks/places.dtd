@@ -98,7 +98,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY backButton.tooltip  "Ir dezaga">
+<!ENTITY backButton.tooltip  "Ir enta zaga">
 <!ENTITY forwardButton.tooltip  "Ir abance">
 
 <!ENTITY detailsPane.more.label "Más">

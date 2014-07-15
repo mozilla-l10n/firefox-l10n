@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "Canalye">
 <!ENTITY setDefaultFeed.accesskey         "y">
 
+<!ENTITY useInternalSettings.description  "Use &brandShortName; Mail &amp; News when opening browser links for:">
+<!ENTITY useInternalMail.label            "Mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "News (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "Pachina d'encieto d'o correu">
 <!ENTITY enableStartPage.label            "Al encetar Correu, amostrar ista pachina en l'aria de mensaje">
 <!ENTITY enableStartPage.accesskey        "j">
