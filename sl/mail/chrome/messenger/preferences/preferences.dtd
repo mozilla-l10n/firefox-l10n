@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Sestavljanje">
 <!ENTITY paneChat.title           "Klepet">
 <!ENTITY paneAttachments.title    "Priponke">
+<!ENTITY panePrivacy.title        "Zasebnost">
 <!ENTITY paneSecurity.title       "Varnost">
 <!ENTITY paneAdvanced.title       "Napredno">
