@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Samodejno preverjaj, če obstajajo posodobitve za:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "d">
-<!ENTITY enableAddonsUpdate.label       "Nameščene razširitve in teme">
-<!ENTITY enableAddonsUpdate.accesskey   "N">
-<!ENTITY whenUpdatesFound.label         "Če za &brandShortName; obstajajo posodobitve,">
-<!ENTITY modeAskMe.label                "Me vprašaj, kaj storiti">
-<!ENTITY modeAskMe.accesskey            "s">
-<!ENTITY modeAutomatic.label            "Samodejno prenesi in namesti posodobitev">
-<!ENTITY modeAutomatic.accesskey        "p">
-<!ENTITY modeAutoAddonWarn.label        "Opozori me, če bo to onemogočilo nameščene razširitve in teme">
-<!ENTITY modeAutoAddonWarn.accesskey    "L">
-<!ENTITY showUpdates.label              "Pokaži zgodovino posodobitev">
-<!ENTITY showUpdates.accesskey          "b">
+<!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">
+<!ENTITY updateAuto.label                "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Preverjaj posodobitve, vendar mi omogoči izbiro, ali jih namestim">
+<!ENTITY updateCheck.accesskey           "I">
+<!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnostnega tveganja)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Opozori me, če bo to onemogočilo moje dodatke">
+<!ENTITY updateAutoAddonWarn.accesskey   "O">
+<!ENTITY updateHistory.label             "Pokaži zgodovino posodobitev">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Za nameščanje posodobitev uporabljaj storitev v ozadju">
 <!ENTITY useService.accesskey            "Z">

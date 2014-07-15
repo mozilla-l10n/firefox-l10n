@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Pošlji obvestila o tipkanju med pogovori">
 <!ENTITY  sendTyping.accesskey          "T">
+
+<!ENTITY  chatNotifications.label             "Ko prispe novo sporočilo za vas:">
+<!ENTITY  desktopChatNotifications.label      "Prikaži obvestilo">
+<!ENTITY  desktopChatNotifications.accesskey  "o">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Predvajaj zvok">
+<!ENTITY  play.label                          "Predvajaj">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "Privzet zvok ob novem sporočilu">
+<!ENTITY  systemSound.accesskey               "N">
+<!ENTITY  customsound.label                   "Uporabi naslednjo zvočno datoteko">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Prebrskaj …">
+<!ENTITY  browse.accesskey                    "B">
+
