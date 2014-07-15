@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Ponastavi privzeto">
 <!ENTITY useDefault.accesskey             "D">
 
-<!ENTITY bounceSystemDockIcon.label       "Animiraj ikono">
-<!ENTITY bounceSystemDockIcon.accesskey   "L">
+<!ENTITY changeDockIconOptions.label      "Spremeni nastavitve ikone aplikacije">
+<!ENTITY dockOptions.label                "Možnosti ikone aplikacije …">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
 <!ENTITY playSound.label                  "Predvajaj zvok">
