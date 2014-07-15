@@ -11,7 +11,7 @@
 <!ENTITY removepermission.accesskey   "E">
 <!ENTITY removeallpermissions.label   "Eliminar totz os puestos">
 <!ENTITY removeallpermissions.accesskey "a">
-<!ENTITY address.label                "Address of web site:">
+<!ENTITY address.label                "Address of website:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloqueyar">
 <!ENTITY block.accesskey              "B">

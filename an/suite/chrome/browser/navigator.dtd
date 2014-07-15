@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Feito">
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquiar as finestras emerchents d'iste puesto web">
+
+<!ENTITY viewSecurityInfo.label      "View Security Info">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "View Certificate">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "Open Certificate Manager">
+<!ENTITY viewCertManager.accesskey   "M">

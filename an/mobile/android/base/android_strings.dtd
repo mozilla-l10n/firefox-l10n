@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestanyas">
 <!ENTITY new_tab_opened "S\u0027ha ubierto una pestanya nueva">
+<!ENTITY new_private_tab_opened "S\u0027ha ubierto una pestanya privada nueva">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "CAMBIAR">
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
 <!ENTITY pref_category_advanced "Abanzau">
 <!ENTITY pref_category_customize "Personalización">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Luenga">
+<!ENTITY pref_browser_locale "Luenga d\u0027o navegador">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Predeterminau d\u0027o sistema">
+
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar os suyos motors de busca">
 <!ENTITY pref_category_display "Amostrar">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Actualizacions automaticas">
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Amostrar sucherencias de puestos">
+<!ENTITY pref_home_suggested_sites_summary "Fer veyer en a pachina d\u0027inicio vinclos t\u0027os puestos que talment trobes interesants">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalización">
 <!ENTITY pref_header_display "Visualización">
 <!ENTITY pref_header_privacy_short "Privacidat">
 <!ENTITY pref_header_help "Aduya">
+<!ENTITY pref_header_language "Luenga">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Ferramientas ta desembolicadors">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Aduya">
 
 <!ENTITY quit "Salir">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Barra de titol dinamica">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "S\u0027ha eliminau a pachina">
+<!ENTITY page_removed "S\u0027ha eliminau a pachina">
 
 <!ENTITY bookmark_edit_title "Editar o marcapachinas">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar.">
 
 <!ENTITY reading_list_added "S\u0027ha adhibiu a la suya pachina de lectura">
-<!ENTITY reading_list_removed "S\u0027ha eliminau d\u0027a suya pachina de lectura">
 <!ENTITY reading_list_failed "No s\u0027ha puesto adhibir a pachina en a suya Lista de lectura">
 <!ENTITY reading_list_duplicate "A pachina ya ye present en a suya lista de lectura">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Anyader un puesto">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
+<!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
 <!ENTITY home_last_tabs_title "Pestanyas d\u0027a zaguera sesión">
 <!ENTITY home_last_tabs_open "Ubrir todas as pestanyas d\u0027a zaguera vegada">
@@ -434,3 +461,11 @@ dende Android">
 
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Feito">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Zaguera sincronización: &formatS;">

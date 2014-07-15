@@ -69,11 +69,13 @@
 <!ENTITY preferencesCmd.label    "Preferencias…">
 <!ENTITY preferencesCmd.key     "Y">  
 <!ENTITY preferencesCmd.accesskey   "e"> 
-<!ENTITY findCmd.key "B">
-<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
-     findCmd.label found in messengercompose.dtd, messenger.dtd and
-     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
-<!ENTITY findCmd.accesskey "B">
+<!ENTITY findBarCmd.key "B">
+<!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
+     findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
+     and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Buscar unatra vez">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "u">

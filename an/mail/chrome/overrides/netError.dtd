@@ -116,7 +116,7 @@ o servidor.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Connexión segura fallida">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>a pachina que ye intentando veyer no puede amostrar porque no s'ha puesto verificar l'autenticidat d'os datos recibius.</li> 
 <li>Por favor, contacte con os administradors d'o puesto web ta informar-les d'iste problema. De traza alternativa, use a opción d'o menú Aduya ta informar d'o problema d'iste puesto web.</li> 
 </ul>">
