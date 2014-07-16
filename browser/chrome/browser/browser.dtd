@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "ଅବସ୍ଥାନ ଖୋଲନ୍ତୁ…">
 <!ENTITY openFileCmd.label "ଫାଇଲ ଖୋଲନ୍ତୁ…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -128,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY editThisBookmarkCmd.label "ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -151,14 +152,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
+<!ENTITY backCmd.label                "ପଛକୁ">
 <!ENTITY backButton.tooltip           "ଗୋଟିଏ ପୃଷ୍ଠା ପଛକୁ ଯାଆନ୍ତୁ">
-
+<!ENTITY forwardCmd.label             "ଆଗକୁ">
 <!ENTITY forwardButton.tooltip        "ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ">
 <!ENTITY backForwardButtonMenu.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ଡ଼ାହାଣ ପାଖ କ୍ଲିକ କରନ୍ତୁ ଅଥବା ତଳକୁ ଟାଣନ୍ତୁ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ତଳକୁ ଟାଣନ୍ତୁ">
-
+<!ENTITY reloadCmd.label              "ପୁନର୍ଧାରଣ">
 <!ENTITY reloadButton.tooltip         "ପ୍ରଚଳିତ ପୃଷ୍ଠାକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
-
+<!ENTITY stopCmd.label                "ଅଟକାନ୍ତୁ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ଏହି ପୃଷ୍ଠାକୁ ଧାରଣ କରିବା ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY goEndCap.tooltip             "ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ">
@@ -436,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ଡେସ୍କଟପ ପୃଷ୍ଠଭୂମି ଆକାରରେ ବିନ୍ୟାସ କରନ୍ତୁ…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY bookmarkThisLinkCmd.label      "ଏହି ସଂଯୋଗକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ଏହି ଫ୍ରେମକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
