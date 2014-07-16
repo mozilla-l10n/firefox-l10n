@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY addons.windowTitle                   "Priedų tvarkytuvė">
 
 <!ENTITY search.placeholder                   "Ieškoti priedų">
@@ -198,3 +197,14 @@
 <!ENTITY eula.accept                          "Sutikti su licencija ir įdiegti priedą…">
 
 <!ENTITY settings.path.button.label           "Parinkti…">
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Kas tai? Eksperimentai retkarčiais gali būti įdiegiami ir sužadinami telemetrijos būdu.">
+<!ENTITY experiment.info.learnmore "Sužinoti daugiau">
+<!ENTITY experiment.info.learnmore.accesskey "d">
+<!ENTITY experiment.info.changetelemetry "Telemetrijos nuostatos">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
