@@ -147,7 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu.label "訂閱">
 <!ENTITY subscribeToPageMenupopup.label "訂閱此頁面">
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
-<!ENTITY addCurPagesCmd.label "所有分頁加入書籤…">
+<!ENTITY addCurPagesCmd.label "將所有分頁加入書籤…">
 <!ENTITY showAllBookmarks2.label "顯示所有書籤">
 <!ENTITY unsortedBookmarksCmd.label "未排序書籤">
 <!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
