@@ -148,7 +148,7 @@
 <!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virkt">
-<!ENTITY pref_plugins_tap_to_play "Snertu til að spila">
+<!ENTITY pref_plugins_tap_to_play "Snerta til að spila">
 <!ENTITY pref_plugins_disabled "Óvirk">
 <!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_reflow_on_zoom4 "Sjálfvirk endurstilling texta">
