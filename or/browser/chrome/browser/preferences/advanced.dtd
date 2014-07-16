@@ -129,9 +129,9 @@
 
 <!ENTITY certs.ask                       "ପ୍ରତ୍ୟେକ ଥର ମୋତେ ପଚାରନ୍ତୁ">
 
-
-
+<!ENTITY viewCerts.label                 "ପ୍ରମାଣ ପତ୍ର ଦେଖନ୍ତୁ">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY verify2.label                   "ବୈଧିକରଣ">
 <!ENTITY verify2.accesskey               "V">
-
-
+<!ENTITY viewSecurityDevices.label       "ସୁରକ୍ଷା ଉପକରଣଗୁଡ଼ିକ">
+<!ENTITY viewSecurityDevices.accesskey   "D">
