@@ -70,10 +70,7 @@
 
 
 <!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
-<li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "सुरक्षित जडान असफल भयो">
 

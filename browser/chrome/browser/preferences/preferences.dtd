@@ -23,3 +23,5 @@
 <!ENTITY  paneSync.title          "सिङ्क">
 <!ENTITY  buttonForward.tooltip   "एक पृष्ठ अगाडि जानुहोस्">
 <!ENTITY  buttonBack.tooltip      "एक पृष्ठ पछाडि जानुहोस्">
+
+<!ENTITY  helpButton.label        "मद्दत">

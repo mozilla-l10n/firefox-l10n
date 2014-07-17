@@ -32,8 +32,8 @@
 <!ENTITY certmgr.certdetail.o                 "संस्थागत एकाइ(सं.ए)">
 <!ENTITY certmgr.certdetail.ou                "संस्थागत एकाइ(सं.ए)">
 
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 औंठाछाप">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 औंठाछाप">
 
 <!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र सेटिङ्गहरु सम्पादन गर्नुहोस्">
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वास ढाँचाहरू सम्पादन गर्नुहोस्">
