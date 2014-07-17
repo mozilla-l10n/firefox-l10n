@@ -32,15 +32,15 @@ Akuzukuphinda usibone kwakhona esi saziso, kodwa unako">
 <!ENTITY  unsupportedLink.label           "ukufunda ngokuthe vetshe.">
 
 <!ENTITY  incompatibleCheck.title         "Ikhangela uHambelwano lweSongezelelo">
-<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho...">
+<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho…">
 
 <!ENTITY  clickHere.label                 "Jonga ulwazi olungaphaya kolunikiweyo malunga nolu hlaziyo">
 
 <!ENTITY  evangelism.desc                 "Kucetyiswa kakhulu ukuba usebenzise olu 
 hlaziyo lwe-&brandShortName; ngokukhawuleza kangangoko.">
 
-<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma   
-ngaphantsi uqhube nokufakela olu hlaziyo. ">
+<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma
+ngaphantsi uqhube nokufakela olu hlaziyo.">
 
 <!ENTITY  license.titleText               "ISivumelwano seLayisensi yeSoftwe">
 <!ENTITY  license.introText               "Imiqathango nemimiselo yokusebenzisa le softwe.">
@@ -56,7 +56,7 @@ ngaphantsi uqhube nokufakela olu hlaziyo. ">
 <!ENTITY  downloading.intro               "Ikhuphela uhlaziyo…">
 <!ENTITY  connecting.label                "Iyanxibelelana kwiseva yohlaziyo…">
 <!ENTITY  verificationFailedText.label    "I-&brandShortName; ayikwazanga ukuqinisekisa imfezeko yo
-hlaziyo olwandayo elukhupheleyo, ngoko ke ngoku ikhuphela 
+hlaziyo olwandayo elukhupheleyo, ngoko ke ngoku ikhuphela
 umqulu wohlaziyo epheleleyo.">
 
 <!ENTITY  viewDetails.tooltip             "Bona iinkcukacha zolu hlaziyo">

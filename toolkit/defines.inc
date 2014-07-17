@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE IsiXhosa 
+#define MOZ_LANG_TITLE IsiXhosa

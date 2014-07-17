@@ -16,7 +16,7 @@
 <!ENTITY importFromSafari.label         "I-Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "I-Chrome">
-<!ENTITY importFromChrome.accesskey     "I">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "IFirefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 

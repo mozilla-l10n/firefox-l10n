@@ -87,8 +87,8 @@
 <!ENTITY syncMy.label               "Ungqamaniso Lwam">
 <!ENTITY engine.bookmarks.label     "Izalathisi eziphawulayo">
 <!ENTITY engine.bookmarks.accesskey "e">
-<!ENTITY engine.tabs.label          "iiThebhu">
-<!ENTITY engine.tabs.accesskey      "i">
+
+
 <!ENTITY engine.history.label       "Imbali">
 <!ENTITY engine.history.accesskey   "l">
 <!ENTITY engine.passwords.label     "Iiphaswedi">
@@ -96,7 +96,7 @@
 <!ENTITY engine.prefs.label         "Okukhethwayo">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "iZongezelelo">
-<!ENTITY engine.addons.accesskey    "i">
+<!ENTITY engine.addons.accesskey    "Z">
 
 <!ENTITY choice2a.merge.main.label       "Dibanisa le ngcombolo yesixhobo kunye nengcombolo yam ye-&syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Okucetyisiweyo:">

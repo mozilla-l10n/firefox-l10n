@@ -14,9 +14,9 @@
 <!ENTITY charsetMenuAutodet.off.label     "(off)">
 <!ENTITY charsetMenuAutodet.off.accesskey "o">
 <!ENTITY charsetMenuAutodet.ja.label      "NgokwesiJaphane">
-<!ENTITY charsetMenuAutodet.ja.accesskey  "N">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
 <!ENTITY charsetMenuAutodet.ru.label      "IsiRashiya">
-<!ENTITY charsetMenuAutodet.ru.accesskey  "I">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
 <!ENTITY charsetMenuAutodet.uk.label      "IsiUkrainian">
 <!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 

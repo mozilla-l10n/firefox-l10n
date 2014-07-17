@@ -41,7 +41,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Ukuba le mveliso ibandakanya iinkonzo zewebhu, nayiphi na imiqathango yenkonzo esebenzayo kwi(i)nkonzo kumele inxityelelaniswe ">
-<!ENTITY rights.intro-point4b-unbranded "kwicandelo">
+
 <!ENTITY rights.intro-point4c-unbranded " icandelo.">
 
 <!ENTITY rights2.webservices-header "I-&brandFullName; Iinkonzo zenkcazelo ezisekelwe kwiwebhu">
