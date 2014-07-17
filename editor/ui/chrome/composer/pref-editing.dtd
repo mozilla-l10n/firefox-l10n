@@ -8,8 +8,7 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "Verstek-bladsyvoorkoms">
 
-<!ENTITY defaultColors.label        "Leser se verstek-kleure (moenie kleure in bladsy stel nie)">
-<!ENTITY defaultColors.accesskey    "m">
+
 <!ENTITY customColors.label         "Gebruik doelgemaakte kleure:">
 <!ENTITY customColors.accesskey     "d">
 

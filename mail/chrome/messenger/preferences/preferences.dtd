@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Opstelling">
 
 <!ENTITY paneAttachments.title    "Aanhegsels">
+<!ENTITY panePrivacy.title        "Privaatheid">
 <!ENTITY paneSecurity.title       "Sekuriteit">
 <!ENTITY paneAdvanced.title       "Gevorderd">

@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "t">
 <!ENTITY signatureHtml.label "Gebruik HTML (bv &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label "Heg die handtekening aan uit 'n lêer (teks, HTML of prent):">
-<!ENTITY signatureFile.accesskey "H">
+
+
 <!ENTITY edit.label "Redigeer…">
 <!ENTITY choose.label "Kies…">
 <!ENTITY choose.accesskey "K">

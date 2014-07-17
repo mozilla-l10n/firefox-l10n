@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Onbekend">
 
 
-<!ENTITY allowRemoteContent1.label      "Laat afgeleë inhoud toe.">
-<!ENTITY allowRemoteContent1.accesskey  "a">
-<!ENTITY allowRemoteContent1.tooltip    "In HTML-boodskappe kan 'n mens inhoud van afgeleë bronne inbed. As mens so 'n boodskap open, ontstaan 'n verbinding tot die eksterne bron. Dit kan toelaat dat mense agterkom of die boodskap gelees word. As u hierdie kassie merk, sal dit ingebedde eksterne inhoud van hierdie kennis in HTML-boodskappe toelaat.">
-
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Huis:">

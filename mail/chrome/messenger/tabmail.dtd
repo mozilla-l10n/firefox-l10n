@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Sluit oortjie">
 <!ENTITY  listAllTabs.label        "Lys alle oortjies">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Huis">

@@ -16,8 +16,6 @@
 <!ENTITY manageSubscriptions.accesskey "B">
 
 <!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "Blogs en nuusvoere">
 <!ENTITY feeds.wizardShortName "Voere">
-<!ENTITY feeds.wizardLongName "Blogs en nuusvoere">
+
 <!ENTITY feeds.wizardLongName.accesskey "v">

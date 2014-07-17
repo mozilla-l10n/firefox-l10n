@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Eienskappe">
 
 <!ENTITY generalInfo.label                       "Algemene inligting">
-<!ENTITY folderCharsetTab.label                  "Verstek-karakterenkodering:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Pas verstek op alle boodskappe in die vouer toe (individuele boodskappe se karakterenkoderingopstelling en outospeur sal geïgnoreer word)">
-<!ENTITY folderCharsetOverride.accesskey         "P">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Herbou opsomminglêerindeks">
 <!ENTITY folderRebuildSummaryFile2.label         "Herstel vouer">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">

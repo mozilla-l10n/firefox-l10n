@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Laat gemêrkte filter(s) loop op:">
 <!ENTITY folderPickerPrefix.accesskey "k">
-<!ENTITY choosethis.label "kies hierdie vouer">
-<!ENTITY choosethisnewsserver.label "kies hierdie nuusbediener">
 <!ENTITY helpButton.label "Hulp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "V">
 <!ENTITY removeallpermissions.label   "Verwyder alle werwe">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Adres van webwerf:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "Blokkeer">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Toelaat vir sessie">

@@ -19,8 +19,6 @@
 <!ENTITY results.label               "Resultate">
 
 
-
-
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Open in vouer">
 <!ENTITY openInFolder.accesskey      "v">
@@ -59,22 +57,20 @@
 <!ENTITY idColumn.label "Volgorde ontvang">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word">
-<!ENTITY threadColumn.tooltip "Kliek om die boodskapdrade te vertoon"> 
-<!ENTITY fromColumn.tooltip "Kliek om volgens afsender te rangskik">
-<!ENTITY recipientColumn.tooltip "Kliek om volgens ontvanger te rangskik">
-<!ENTITY subjectColumn.tooltip "Kliek om volgens onderwerp te rangskik">
-<!ENTITY dateColumn.tooltip "Kliek om volgens datum te rangskik">
-<!ENTITY priorityColumn.tooltip "Kliek om volgens prioriteit te rangskik">
-<!ENTITY tagsColumn.tooltip "Kliek om volgens merker te rangskik">
-<!ENTITY accountColumn.tooltip "Kliek om volgens rekening te rangskik">
-<!ENTITY statusColumn.tooltip "Kliek om volgens status te rangskik">
-<!ENTITY sizeColumn.tooltip "Kliek om volgens grootte te rangskik">
-<!ENTITY junkStatusColumn.tooltip "Kliek om volgens gemors-status te rangskik">
-<!ENTITY unreadColumn.tooltip "Getal ongelese boodskappe in draad">
-<!ENTITY totalColumn.tooltip "Totale getal boodskappe in draad">
-<!ENTITY readColumn.tooltip "Kliek om volgens gelees te rangskik">
-<!ENTITY receivedColumn.tooltip "Kliek om te rangskik volgens datum ontvang">
-<!ENTITY starredColumn.tooltip "Kliek om volgens vlag te rangskik">
-<!ENTITY locationColumn.tooltip "Kliek om volgens ligging te rangskik">
-<!ENTITY idColumn.tooltip "Kliek om te rangskik volgens volgorde ontvang">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY unreadColumn2.tooltip "Getal ongelese boodskappe in draad">
+<!ENTITY totalColumn2.tooltip "Totale getal boodskappe in draad">
+
+
+
+
+

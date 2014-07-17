@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-copies.xul -->
-
-
-<!ENTITY copyAndFolderTitle.label "Afskrifte en vouers">
 <!ENTITY sendingPrefix.label "Wanneer boodskappe gestuur word, doen die volgende outomaties: ">
 <!ENTITY fccMailFolder.label "Bêre 'n afskrif in:">
 <!ENTITY fccMailFolder.accesskey "B">

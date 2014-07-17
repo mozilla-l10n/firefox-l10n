@@ -6,8 +6,8 @@
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Pas enige van die volgende">
 <!ENTITY matchAny.accesskey "e">
-<!ENTITY matchAllMsgs.label     "Pas by alle boodskappe">
-<!ENTITY matchAllMsgs.accesskey "P">
+
+
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

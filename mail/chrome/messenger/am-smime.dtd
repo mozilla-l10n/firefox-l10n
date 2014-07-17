@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Vereis (kan nie boodskap stuur nie tensy alle ontvangers sertifikate het)">
 <!ENTITY alwaysEncryptMessage.accesskey "V">
-<!ENTITY encryptionCert.message "Gebruik hierdie sertifikaat om boodskappe aan u te enkripteer en te dekripteer:">
+
 <!ENTITY digitalSign.certificate.button "Kies…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Maak skoon">

@@ -6,11 +6,12 @@
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Plak as">
-<!ENTITY pasteAs.accesskey "a">
+
+
 <!ENTITY pasteAsQuotationCmd.label "Plak as aanhaling">
 <!ENTITY pasteAsQuotationCmd.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.key "o">
+
 
 <!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
 <!ENTITY enableInlineSpellChecker.accesskey "G">
@@ -34,6 +35,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+
+
 <!ENTITY insertCharsCmd.label "Karakters en simbole…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Breuk onder prent(e)">
