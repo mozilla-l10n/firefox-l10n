@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Pemilih Salin Unik">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Padam Nod">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
 

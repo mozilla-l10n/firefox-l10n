@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
 <!ENTITY chooseButton.label           "Pilih…">
 <!ENTITY chooseButton.accesskey       "i">
+
+
+<!ENTITY translateExceptions.label    "Pengecualian…">
+<!ENTITY translateExceptions.accesskey "n">

@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "T">
 <!ENTITY closeCmd.accesskey           "T">
 
+<!ENTITY viewMenu.label               "Lihat">
+<!ENTITY viewMenu.accesskey           "L">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Sunting">
 <!ENTITY editMenu.accesskey           "S">
 
