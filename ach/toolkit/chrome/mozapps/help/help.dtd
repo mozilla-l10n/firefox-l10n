@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey            "P">
+<!ENTITY printCmd.commandkey            "p">
 
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
@@ -22,12 +22,12 @@
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Gang">
 <!ENTITY homeButton.tooltip             "Wot i Kony Cako Pot Buk">
-<!ENTITY printButton.label              "Goo">
-<!ENTITY printButton.tooltip            "Goo pot buk man">
+<!ENTITY printButton.label              "Go">
+<!ENTITY printButton.tooltip            "Go pot buk man">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Yeny">
-<!ENTITY searchHeader.label             "Yeny adwogi">
+<!ENTITY searchHeader.label             "Adwogi me yeny">
 <!ENTITY toctab.label                   "Gin manonge iye">
 <!ENTITY toctab.accesskey               "G">
 <!-- LOCALIZATION NOTE :

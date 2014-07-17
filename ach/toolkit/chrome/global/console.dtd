@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Ngol">
 <!ENTITY evaluate.accesskey "g">
-
-
+<!ENTITY filter2.label      "Li:">
+<!ENTITY filter2.accesskey  "L">
 
 <!ENTITY copyCmd.label       "Lok">  
 <!ENTITY copyCmd.accesskey   "L"> 

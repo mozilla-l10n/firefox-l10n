@@ -8,62 +8,77 @@
   - documentation on web development on the web. -->
 
 
+<!ENTITY window.title "Kacoc me kakube">
+<!ENTITY browserConsole.title "Kacoc me layeny">
 
+<!ENTITY networkPanel.requestURLColon             "URL me kwac:">
+<!ENTITY networkPanel.requestMethodColon          "Yo me kwac:">
+<!ENTITY networkPanel.statusCodeColon             "Nyig coc me nyutu kit ma tye kwede:">
 
+<!ENTITY networkPanel.requestHeaders              "Wiye me kwac">
+<!ENTITY networkPanel.requestCookie               "Cookie ma kicwalo">
+<!ENTITY networkPanel.requestBody                 "Kome me kwac">
+<!ENTITY networkPanel.requestFormData             "Tic me Fom ma kicwalo">
 
-<!ENTITY networkPanel.requestHeaders              "Kwa Luwiye">
-<!ENTITY networkPanel.requestCookie               "Kakube ma kicwalo">
-<!ENTITY networkPanel.requestBody                 "Kwa Kome">
-<!ENTITY networkPanel.requestFormData             "Kicwalo Tic me Fom">
-
-<!ENTITY networkPanel.responseHeaders             "Dwok lok ma Lawiye">
-
-<!ENTITY networkPanel.responseBody                "Kom Dwoko lok">
-<!ENTITY networkPanel.responseBodyCached          "Tic ma kigwoko">
+<!ENTITY networkPanel.responseHeaders             "Adwogi me wiye">
+<!ENTITY networkPanel.responseCookie              "Cookie ma ki gamo">
+<!ENTITY networkPanel.responseBody                "Adwogi me kome">
+<!ENTITY networkPanel.responseBodyCached          "Tic ma kikano">
 <!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">
-<!ENTITY networkPanel.responseNoBody              "Kom Dwoko lok peke">
+<!ENTITY networkPanel.responseNoBody              "Adwogi me kome peke">
 <!ENTITY networkPanel.responseImage               "Cal ma Kigamo">
-<!ENTITY networkPanel.responseImageCached         "Cal ma Kigwoko">
+<!ENTITY networkPanel.responseImageCached         "Cal ma kikano">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
+<!ENTITY saveBodies.label     "Kwac me wel ma kigwoko kacel ki adwogi me kome">
+<!ENTITY saveBodies.accesskey "K">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
+<!ENTITY openURL.label     "Yab URL i Dirica matidi manyen">
+<!ENTITY openURL.accesskey "D">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.tooltip "Dony i kakube me wiyamo">
 
+<!ENTITY btnPageNet.label   "Malubo">
+<!ENTITY btnPageNet.tooltip "Gwok wel me nongo kube">
+<!ENTITY btnPageNet.accesskey "M">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
-
-<!ENTITY btnPageCSS.tooltip "Ket CSS bal mapyem">
-
-
-<!ENTITY btnPageJS.tooltip  "Ket Javascript weko woko">
-
-
-
-
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip2 "Gwok wel me bal kacel ki ciko pa CSS">
+<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "Gwok wel Javascript ma kiweko woko">
+<!ENTITY btnPageJS.accesskey  "J">
+<!ENTITY btnPageSecurity.label "Ber bedo">
+<!ENTITY btnPageSecurity.tooltip "Gwok wel me bal kacel ki ciko pa ber bedo">
+<!ENTITY btnPageSecurity.accesskey "e">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-
+<!ENTITY btnPageLogging.label   "Gwoko">
+<!ENTITY btnPageLogging.tooltip "Gwok wel me kwena ma kicwalo bot window.console object">
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Bal">
 <!ENTITY btnConsoleInfo         "Ngec">
 <!ENTITY btnConsoleWarnings     "Cik">
-<!ENTITY btnConsoleLog          "Ket">
+<!ENTITY btnConsoleLog          "Gwok">
+<!ENTITY btnConsoleReflows      "Nwo yiko">
 
-
-<!ENTITY btnClear.tooltip      "Ruc oko Kacoc me Web ma kato woko">
-
+<!ENTITY filterOutput.placeholder "Li adwogi">
+<!ENTITY btnClear.label        "Jwa">
+<!ENTITY btnClear.tooltip      "Jwa adogi me Kacoc me kakube">
+<!ENTITY btnClear.accesskey    "a">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -79,5 +94,6 @@
 <!ENTITY copyURLCmd.label     "Lok Kabedo me Kakube">
 <!ENTITY copyURLCmd.accesskey "e">
 
-
-
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCtrl.key  "L">

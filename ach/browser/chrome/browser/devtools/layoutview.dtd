@@ -12,7 +12,12 @@
 <!-- LOCALIZATION NOTE (*.tooltip): These tooltips are not regular tooltips.
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
-<!ENTITY margins.tooltip        "Lake">
-<!ENTITY borders.tooltip        "Twoke">
-<!ENTITY padding.tooltip        "Yabo kabedo">
-<!ENTITY content.tooltip        "Gin manonge ie">
+
+
+
+
+<!ENTITY title                  "Kit canduk">
+<!ENTITY margin.tooltip         "lake">
+<!ENTITY border.tooltip         "twoke">
+<!ENTITY padding.tooltip        "yabo kabedo">
+<!ENTITY content.tooltip        "gin ma nonge iye">

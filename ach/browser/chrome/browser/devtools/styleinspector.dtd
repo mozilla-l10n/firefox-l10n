@@ -9,6 +9,9 @@
 <!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
+
+
+<!ENTITY browserStylesLabel    "Kit me layeny">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
@@ -17,7 +20,7 @@
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 
-<!ENTITY selectedElementLabel  "Yer jami:">
+<!ENTITY selectedElementLabel  "Jami ma kiyero:">
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->

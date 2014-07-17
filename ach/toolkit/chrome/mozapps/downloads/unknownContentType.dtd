@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "I yero me yabo:">
-<!ENTITY  from.label                  "Ki:">
+<!ENTITY  from.label                  "kibot:">
 <!ENTITY  actionQuestion.label        "Ngo ma myero &brandShortName;otim okom pwail man?">
 
 <!ENTITY  openWith.label              "Yab kwede">
@@ -16,6 +16,7 @@
 <!ENTITY  rememberChoice.label        "Tim mman pire kene pi fail ma cal kit man kombedi ceto kwede anyim.">
 <!ENTITY  rememberChoice.accesskey    "p">
 
+<!ENTITY  whichIs.label              "ma obedo:">
 
 <!ENTITY  chooseHandlerMac.label      "Yer…">
 <!ENTITY  chooseHandlerMac.accesskey  "Y">

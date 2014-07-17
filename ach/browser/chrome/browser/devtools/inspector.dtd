@@ -1,14 +1,24 @@
+<!ENTITY inspectorHTMLEdit.label       "Yub calo HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "Y">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Lok HTML ma iyie">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "H">
 
 <!ENTITY inspectorHTMLCopyOuter.label       "Lok HTML ma woko">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "H">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "T">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Lok Layer ma kite pat">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "a">
 
+<!ENTITY inspectorHTMLPasteOuter.label      "Mwon HTML ma woko">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "M">
 
 <!ENTITY inspectorHTMLDelete.label          "Jwa woko coc">
 <!ENTITY inspectorHTMLDelete.accesskey      "J">
 
-<!ENTITY inspector.selectButton.tooltip     "Yer jami ki ladi">
+<!ENTITY inspector.selectButton.tooltip     "Yer but jami ki mouse">
 
+<!ENTITY inspectorSearchHTML.label          "Yeny HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "Lok cal tic me URL">

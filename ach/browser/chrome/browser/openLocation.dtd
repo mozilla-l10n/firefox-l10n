@@ -4,11 +4,11 @@
 <!-- extracted from content/openLocation.xul -->
 
 
-<!ENTITY enter.label "Ket kabedo me Web (URL), onyo pok yo pwail ma gang ma imito yabo:">  
+<!ENTITY enter.label "Ket kabedo me kakube (URL), onyo cim pwail ma paco ma imito yabo:">  
 <!ENTITY chooseFile.label "Yer Pwail…">
-<!ENTITY newTab.label "dirija matidi Manyen">
-<!ENTITY newWindow.label "Dirija Manyen">
-<!ENTITY topTab.label "dirija matidi matye">
-<!ENTITY caption.label "Yab Kabedo me Web">
-<!ENTITY openWhere.label "Yab iyee:">
+<!ENTITY newTab.label "Dirica matidi manyen">
+<!ENTITY newWindow.label "Dirica manyen">
+<!ENTITY topTab.label "Dirica matidi ma kombedi">
+<!ENTITY caption.label "Yab kabedo me kakube">
+<!ENTITY openWhere.label "Yab iye:">
 <!ENTITY openBtn.label "Yab">

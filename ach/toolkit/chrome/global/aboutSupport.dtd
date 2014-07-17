@@ -5,15 +5,32 @@
 <!ENTITY aboutSupport.pageTitle "Kwedo bal me Ngec">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Pot buk man tye ki ngec matek me tic cing ma pire twero bedo tek ka itemo 
-coyo ne me cobo peko. Ka ce itye kamoyo pi lagam me lapeny mangene ikom 
-&brandShortName;, rot <a id='supportLink'>support web site</a> wa.">
+<!ENTITY aboutSupport.pageSubtitle "  Pot buk man tye ki ngec matek me tic cing ma pire twero bedo tek ka itye 
+ka temo cobo peko. Ka ce itye kamoyo pi lagam me lapeny ma ngene 
+ikom &brandShortName;, rot <a id='supportLink'>support web site</a>.">
 
-<!ENTITY aboutSupport.extensionsTitle "nyane">
+<!ENTITY aboutSupport.crashes.title "Ripot me poto">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Cwal ngec me ID">
+<!ENTITY aboutSupport.crashes.sendDate "Kicwalo">
+<!ENTITY aboutSupport.crashes.allReports "Ripot me poto weng">
+<!ENTITY aboutSupport.crashes.noConfig "Purugram man pe kicano me yaro ripot me poto.">
+
+<!ENTITY aboutSupport.extensionsTitle "Lamed">
 <!ENTITY aboutSupport.extensionName "Nying">
 <!ENTITY aboutSupport.extensionEnabled "Matyero">
 <!ENTITY aboutSupport.extensionVersion "Cik">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "Kit me atema">
+<!ENTITY aboutSupport.experimentName "Nying">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Lok ikome">
+<!ENTITY aboutSupport.experimentActive "Tye katic">
+<!ENTITY aboutSupport.experimentEndDate "Nino dwe me giko">
+<!ENTITY aboutSupport.experimentHomepage "Pot buk me acaki">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Tic mapire tego">
 <!ENTITY aboutSupport.appBasicsName "Nying">
@@ -21,6 +38,8 @@ coyo ne me cobo peko. Ka ce itye kamoyo pi lagam me lapeny mangene ikom
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Gin mukato me ngec manyen">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Nyut gin mukato me ngec manyen">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Lacim me Ngec ikome">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -31,7 +50,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Keto ite ma kimino">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yub Cano">
 <!ENTITY aboutSupport.appBasicsUserAgent "Lukony Lutic kwede">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Ripot me Bal">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tic pa Lapo wic">
 
 <!ENTITY aboutSupport.showDir.label "Yab Boc">
@@ -48,6 +66,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Welle">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!ENTITY aboutSupport.userJSTitle "user.js Ma imaro">
+<!ENTITY aboutSupport.userJSDescription "Boc me profile mamegi tye <a id='prefs-user-js-link'>pwail me user.js</a>, ma tye ki ma imaro ma pe kicweyo ki &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Cal">
 
@@ -55,12 +75,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "GC ma kimedo">
 
 <!ENTITY aboutSupport.a11yTitle "Kite me nongo">
-
+<!ENTITY aboutSupport.a11yActivated "Tye katic">
 <!ENTITY aboutSupport.a11yForceDisabled "Geng Donyo iye">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Cik pa kagwoko jami">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Stori mo Kato">
+<!ENTITY aboutSupport.updateHistoryTitle "Gin mukato me ngec manyen">
 
-
-
+<!ENTITY aboutSupport.copyTextToClipboard.label "Lok coc bot kacoc">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Lok coc manumu bot kacoc">
