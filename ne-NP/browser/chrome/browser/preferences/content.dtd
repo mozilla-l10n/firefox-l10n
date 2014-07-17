@@ -26,3 +26,7 @@
 <!ENTITY chooseLanguage.label         "देखिने पृष्ठहरुका लागि तपाईको छनौटको भाषा छान्नुहोस्">
 <!ENTITY chooseButton.label           "छान्नुहोस् ...">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "अपवादहरु....">
+<!ENTITY translateExceptions.accesskey "x">

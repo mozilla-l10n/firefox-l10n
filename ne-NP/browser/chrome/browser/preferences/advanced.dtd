@@ -125,11 +125,11 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
 <!ENTITY certSelection.description       "जब सर्वर ले मेरो ब्यक्तिगत सर्टिफिकेट को आग्रह गर्छ ">
 <!ENTITY certs.auto                      "स्वचालित रुपमा एउटा छानोस ">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "मलाई हरेक पटक सोध्नुहोस्">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "प्रमाणपत्रहरु हेर्नुहोस्">
-<!ENTITY viewCerts.accesskey             "ह">
+
+
+
 <!ENTITY verify2.label                   "&amp; वैधता">
 <!ENTITY verify2.accesskey               "V">
 

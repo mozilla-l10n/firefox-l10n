@@ -37,4 +37,13 @@
 
 <!ENTITY translation.tryAgain.button            "पुन:प्रयास गर्नुहोस्">
 
+
 <!ENTITY translation.options.menu               "विकल्पहरू">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+
+
+

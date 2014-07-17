@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "नयाँ ट्याब">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "फाइल खोल्नुहोस्...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
+
 <!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "नमिलाइएका पुस्तकचिनोहरु">
 <!ENTITY bookmarksToolbarChevron.tooltip "अरु पुस्तकचिनोहरु देखाउनुहोस्">
 
-<!ENTITY backCmd.label                "पछाडि">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "एक पृष्ठ पछाडि जानुहोस्">
-<!ENTITY forwardCmd.label             "अगाडि">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ अगाडि जानुहोस्">
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास हेर्न बाँया क्लिक गर्नुहोस् अथवा तल तान्नुहोस">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास हेर्न तल तान्नुहोस">
-<!ENTITY reloadCmd.label              "पुन: लोड गर्नुहोस्">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "हालको पृष्ठलाई फेरि लोड गर्नुहोस्">
-<!ENTITY stopCmd.label                "रोक्नुहोस्">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "यो पृष्ठलाई लोडिङ्ग गर्न रोक्नुहोस्">
 <!ENTITY goEndCap.tooltip             "लोकेसन बारमा भएको स्थानमा जानुहोस्">
@@ -198,7 +196,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनलोडहरू">
-<!ENTITY downloads.tooltip            "हुँदै गरेका डाउनलोडहरुको प्रगति देखाउनुहोस्">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -436,8 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रुपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "यो पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कलाई पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यो फ्रेमलाई पुस्तकचिनो हाल्नुहोस्">
@@ -561,11 +557,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "जुम गर्नुहोस्">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "नयाँ ट्याब खोल्नुहोस्">
-<!ENTITY newWindowButton.tooltip        "नयाँ सञ्झ्याल खोल्नुहोस्">
 <!ENTITY sidebarCloseButton.tooltip     "छेउपट्टी बन्द गर्नुहोस्">
-
-<!ENTITY fullScreenButton.tooltip       "सञ्झ्याललाई पूरा पर्दामा देखाउनुहोस्">
 
 <!ENTITY quitApplicationCmdWin.label       "बहिर निस्कनुहोस्"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -738,5 +730,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label         "साइडबार">
 
-<!ENTITY switchToMetroCmd2.label       "Windows 8 Touchका लागि &brandShortName;मा पुन: सुरु गरर्नुहोस्">
+<!ENTITY switchToMetroCmd2.label       "Windows 8 Touchका लागि &brandShortName;मा पुन सरु गर्नुहोस्">
 
