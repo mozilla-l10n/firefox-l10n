@@ -25,7 +25,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Obulambe">
 <!ENTITY abouthome.historyButton.label   "Ebyafaayo">
-<!ENTITY abouthome.settingsButton.label  "Enteegeka">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Okweroboza">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Okweroboza">
 <!ENTITY abouthome.addonsButton.label    "Ebigattibwako">
 <!ENTITY abouthome.appsButton.label      "Akatale">
 <!ENTITY abouthome.downloadsButton.label "Ebiwanulwa">

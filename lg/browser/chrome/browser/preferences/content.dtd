@@ -24,3 +24,7 @@
 <!ENTITY chooseLanguage.label         "Londako olulimi lwoyagala okulabiramu emiko">
 <!ENTITY chooseButton.label           "Londako…">
 <!ENTITY chooseButton.accesskey       "d">
+
+
+<!ENTITY translateExceptions.label    "Ebyawufu…">
+<!ENTITY translateExceptions.accesskey "b">

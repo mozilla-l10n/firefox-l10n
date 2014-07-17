@@ -122,12 +122,12 @@
 <!ENTITY certificateTab.label            "Zasatifiketi">
 <!ENTITY certSelection.description       "Kompyuta effunga zinazo esamba ndi satifiketi zange ngo muntu:">
 <!ENTITY certs.auto                      "Londako kimu ekyetekako">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Nsabaa nga">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Labaa Zasatifikete">
-<!ENTITY viewCerts.accesskey             "e">
+
+
+
 <!ENTITY verify2.label                   "Kkikeberwa">
 <!ENTITY verify2.accesskey               "K">
-<!ENTITY viewSecurityDevices.label       "Bikozesa Mukwerinda">
-<!ENTITY viewSecurityDevices.accesskey   "a">
+
+

@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "Kakano ttegezza santifikate…">
 <!ENTITY certmgr.subjectinfo.label            "Kiwerwa Ku">
 <!ENTITY certmgr.issuerinfo.label             "Kiwerwa Na">
-<!ENTITY certmgr.validity.label               "Obutukuuvu" >
+
 <!ENTITY certmgr.fingerprints.label           "Obulabe">
 <!ENTITY certmgr.certdetail.title             "Obukakafuu bwa Santifikati">
 <!ENTITY certmgr.certdetail.cn                "Erinya eri Wona (CN)">
 <!ENTITY certmgr.certdetail.o                 "Ekitogole (O)">
 <!ENTITY certmgr.certdetail.ou                "Uniti ye Ekitogole (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Seriyo Ennukuta">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Obulabe">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Obulabe">
 
 <!ENTITY certmgr.editcert.title               "Kyusa Enteegeka ya Satifikati ye`Byokwerinda">
 <!ENTITY certmgr.editcacert.title             "Kyusa enteeka ya satifikati eyekyika kya CA">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Kompyuta efunga zinazo">
 <!ENTITY certmgr.override_lifetime            "Embbagga dyo budde">
 <!ENTITY certmgr.tokenname                    "Security Device">
-<!ENTITY certmgr.issued                       "Issued On">
+
 <!ENTITY certmgr.expires                      "Expires On">
 <!ENTITY certmgr.email                        "E-Mail Address">
 <!ENTITY certmgr.serial                       "Serial Number">

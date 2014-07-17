@@ -12,8 +12,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "O">
 <!ENTITY update.updateButton.label                "Tandika buto Okutuusa">
 <!ENTITY update.updateButton.accesskey            "T">
-
-
+<!ENTITY update.applyButtonBillboard.label        "Teekamu Ekituusa…">
+<!ENTITY update.applyButtonBillboard.accesskey    "T">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
