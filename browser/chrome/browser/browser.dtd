@@ -203,7 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Izongezelelo">
-<!ENTITY addons.accesskey             "I">
+<!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
