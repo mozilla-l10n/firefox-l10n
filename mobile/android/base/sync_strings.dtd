@@ -30,7 +30,7 @@
 <!ENTITY sync.button.manual.label "Configurazione manuale">
 <!ENTITY sync.subtitle.nointernet.label "Connessione a Internet non disponibile.">
 <!ENTITY sync.subtitle.failaccount.label "Creazione dell’account sul dispositivo non riuscita.">
-<!ENTITY sync.subtitle.failmultiple.label "Sono state installate più versioni di Firefox? &syncBrand.shortName.label; al momento è in grado di supportare una sola installazione di Firefox. Rimuovere le altre versioni per poter utilizzare &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "Sono state installate più versioni di Firefox? &syncBrand.fullName.label; al momento è in grado di supportare una sola installazione di Firefox. Rimuovere le altre versioni per utilizzare &syncBrand.shortName.label;.">
 <!ENTITY sync.title.success.label "Configurazione completata">
 <!ENTITY sync.subtitle.success.label1 "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni o iniziare a navigare con &brandShortName;.">
 <!ENTITY sync.settings.label "Impostazioni">
