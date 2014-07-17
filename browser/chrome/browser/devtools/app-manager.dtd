@@ -57,7 +57,7 @@
 
 <!ENTITY connection.or "లేదా">
 <!ENTITY connection.noSimulatorInstalled "ఏ సిమ్యులేటర్ సంస్థాపించలేదు.">
-<!ENTITY connection.installOneSimulator "సిమ్యులేటర్ సంస్థాపించు">
+<!ENTITY connection.installOneSimulator "సిమ్యులేటర్ స్థాపించు">
 
 <!ENTITY connection.installAnotherSimulator "చేర్చు">
 
