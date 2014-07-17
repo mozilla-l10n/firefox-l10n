@@ -43,8 +43,8 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "இப்படி சேமி…">
-<!ENTITY saveFileAsCmd.accesskey      " ">
+<!ENTITY saveFileAsCmd.label          "இப்படி&amp; சேமி…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "மூடவும்">
 <!ENTITY closeCmd.key                 "W">
@@ -130,8 +130,8 @@
   -->
 
 
-<!ENTITY resetContext2.label          "மாறிகளை மீட்டமை">
-<!ENTITY resetContext2.accesskey      " ">
+<!ENTITY resetContext2.label          "மாறிகளை&amp; மீட்டமை">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "மீளேற்றி இயக்கு (e)">
 <!ENTITY reloadAndRun.accesskey       "e">
