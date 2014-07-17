@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Penandabuku">
 <!ENTITY abouthome.historyButton.label   "Sejarah">
-<!ENTITY abouthome.settingsButton.label  "Tetapan">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Opsyen">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Keutamaan">
 <!ENTITY abouthome.addonsButton.label    "Add-ons">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Muat Turun">

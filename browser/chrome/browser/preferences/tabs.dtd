@@ -8,14 +8,11 @@
 <!ENTITY warnCloseMultipleTabs.label  "Ingatkan saya apabila menutup beberapa tab">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Ingatkan saya apabila menutup beberapa tab akan melambatkan &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "b">
 
-<!ENTITY restoreTabsOnDemand.label        "Jangan isi tab kecuali bila dipilih">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label        "Apabila saya membuka pautan dalam tetingkap baru, tukar terus kepadanya">
-<!ENTITY switchToNewTabs.accesskey    "s">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Pamer sampel tab dalam taskbar Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

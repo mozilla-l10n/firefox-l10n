@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "Sijil sedang disahkan...">
 <!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
 <!ENTITY certmgr.issuerinfo.label             "Dikeluarkan Oleh">
-<!ENTITY certmgr.validity.label               "Kesahihan" >
+
 <!ENTITY certmgr.fingerprints.label           "Cap-jari">
 <!ENTITY certmgr.certdetail.title             "Perincian Sijil">
 <!ENTITY certmgr.certdetail.cn                "Nama Biasa (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organisasi (0)">
 <!ENTITY certmgr.certdetail.ou                "Unit Organisasi (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Nombor Siri">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Cap jari SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Capjari MD5">
 
 <!ENTITY certmgr.editcert.title               "Edit Tetapan Sijil Sekuriti">
 <!ENTITY certmgr.editcacert.title             "Edit tetapan sijil CA dipercaya">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Pelayan">
 <!ENTITY certmgr.override_lifetime            "Seumur hidup">
 <!ENTITY certmgr.tokenname                    "Peranti Sekuriti">
-<!ENTITY certmgr.issued                       "Dikeluarkan Pada">
+
 <!ENTITY certmgr.expires                      "Luput Pada">
 <!ENTITY certmgr.email                        "Alamat E-Mel">
 <!ENTITY certmgr.serial                       "Nombor Siri">

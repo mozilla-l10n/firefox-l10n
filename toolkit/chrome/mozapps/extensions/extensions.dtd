@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Singkir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.debugAddon.label                 "Debug">
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
@@ -216,3 +217,12 @@ anda sendiri.">
 <!ENTITY eula.accept                          "Terima dan Pasang ...">
 
 <!ENTITY settings.path.button.label           "Carian…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Pelajari Lagi">
+
+
+
