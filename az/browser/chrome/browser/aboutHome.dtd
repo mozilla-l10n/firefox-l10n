@@ -20,7 +20,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefoxu istədiyiniz şəkilində zövqünüzə görə uyğunlaşdırmaq çox asandır. <a>Minlərcə əlavədən istədiyinizi seçin</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox-u istədiyiniz şəkildə zövqünüzə görə uyğunlaşdırmaq çox asandır. <a>Minlərcə əlavədən istədiyinizi seçin</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; qeyri-kommersial Mozilla Fondundan pulsuz və açıq qaynaqlı proqramdır. <a>Hüquqlarını bil…</a>">
 
@@ -28,7 +28,7 @@
 <!ENTITY abouthome.historyButton.label   "Tarixcə">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Nizamlar">
+<!ENTITY abouthome.preferencesButtonWin.label  "Seçimlər">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Nizamlamalar">

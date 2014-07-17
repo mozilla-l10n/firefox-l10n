@@ -26,7 +26,7 @@
 
 <!ENTITY certmgr.pending.label                "Hazırda təsdiq sənədi yoxlanır…">
 <!ENTITY certmgr.subjectinfo.label            "Təsdiqlənən">
-<!ENTITY certmgr.issuerinfo.label             "Redaktə edən">
+<!ENTITY certmgr.issuerinfo.label             "Təslim Edən">
 
 <!ENTITY certmgr.fingerprints.label           "Parmak izleri">
 <!ENTITY certmgr.certdetail.title             "Təsdiq sənədi detalları">

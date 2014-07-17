@@ -2,30 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "Telemetriya Məlumatları">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry is <span>enabled</span>.">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetriya <span>açıqdır</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry is <span>disabled</span>.">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>bağlıdır</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "  Slow SQL Statements">
+<!ENTITY aboutTelemetry.slowSqlSection "  Zəif SQL İfadələr">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  Browser Hangs">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Səyyahın Donması">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Əlaqənin donması">
 
-<!ENTITY aboutTelemetry.histogramsSection "  Histograms">
+<!ENTITY aboutTelemetry.histogramsSection "  Histoqram">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Simple Measurements">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Sadə Ölçülər">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Əlavə Detalları">
 
-<!ENTITY aboutTelemetry.lateWritesSection "Gecikmiş Yazılar">
+<!ENTITY aboutTelemetry.lateWritesSection "  Gecikmiş Yazılar">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  System Information">
+<!ENTITY aboutTelemetry.systemInfoSection "  Sistem Məlumatı">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms Collected by Add-ons">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Əlavələr tərəfindən toplanmış Histoqram">
 
+<!ENTITY aboutTelemetry.toggle "  Bölümü keçirmək üçün klikləyin">
 
-<!ENTITY aboutTelemetry.emptySection "  (No data collected)">
+<!ENTITY aboutTelemetry.emptySection "  (Heç bir məlumat toplanmayıb)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.">
 
@@ -33,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Show raw data from hangs">
 
+<!ENTITY aboutTelemetry.filterText "  Filtr (sətir və ya /regexp/)">

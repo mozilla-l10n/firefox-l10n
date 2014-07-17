@@ -64,16 +64,16 @@
 <!ENTITY cmd.sortby_name.accesskey          "s">
 <!ENTITY cmd.context_sortby_name.accesskey  "k">
 
-<!ENTITY cmd.new_bookmark.label            "Yeni əlfəçin…">
-<!ENTITY cmd.new_bookmark.accesskey        "ə">
+<!ENTITY cmd.new_bookmark.label            "Yeni Əlfəcin…">
+<!ENTITY cmd.new_bookmark.accesskey        "Ə">
 <!ENTITY cmd.new_folder.label              "Yeni qovluq…">
 <!ENTITY cmd.new_folder.accesskey          "q">
 <!ENTITY cmd.context_new_folder.accesskey  "S">
 <!ENTITY cmd.new_separator.label           "Yeni mötərizə">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Canlı əlfəçini yenilə">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "y">
+<!ENTITY cmd.reloadLivebookmark.label      "Canlı Əlfəcini Yenilə">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "Y">
 
 <!ENTITY cmd.moveBookmarks.label                  "Köçür…">
 <!ENTITY cmd.moveBookmarks.accesskey              "K">
@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Ad">
 <!ENTITY col.tags.label          "Etiketlər">
 <!ENTITY col.url.label           "Ünvan">
-
+<!ENTITY col.mostrecentvisit.label "Ən son ziyarət">
 <!ENTITY col.visitcount.label    "Baxış sayı">
 <!ENTITY col.keyword.label       "Açar söz">
 <!ENTITY col.description.label   "Açıqlama">

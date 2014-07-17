@@ -27,6 +27,7 @@
 <!ENTITY chooseButton.label           "Seçin…">
 <!ENTITY chooseButton.accesskey       "S">
 
-
+<!ENTITY translateWebPages.label      "Web məzmunu tərcümə et">
+<!ENTITY translateWebPages.accesskey  "t">
 <!ENTITY translateExceptions.label    "İstisnalar…">
 <!ENTITY translateExceptions.accesskey "x">

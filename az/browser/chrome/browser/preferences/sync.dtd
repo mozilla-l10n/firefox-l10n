@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-
+<!ENTITY manage.label                "İdarə et">
 
 
 
@@ -71,3 +71,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Hesabını aç">
 
 
+<!ENTITY welcome.useOldSync.label "Sinxronlaşdırmanın köhnə versiyasını işlədirsiz?">

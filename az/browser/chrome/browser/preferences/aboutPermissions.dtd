@@ -42,5 +42,5 @@
 <!ENTITY popup.label                     "Peyda olan Pəncərələri Aç">
 
 <!ENTITY fullscreen.label                "Tam ekran">
-
-
+<!ENTITY camera.label                    "Kameradan istifadə et">
+<!ENTITY microphone.label                "Mikrafondan istifadə et">

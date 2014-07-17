@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title "Ana Səhifəni Seç">
-<!ENTITY selectBookmark.label "Başlanğıc səhifəsi olacaq əlfəçininizi seçin. Əgər bir qovluq seçsəniz, o qovluqdakı səhifələr vərəqlərdə açılacaq.">
+<!ENTITY selectBookmark.label "Başlanğıc səhifəsi olacaq əlfəcininizi seçin. Əgər bir qovluq seçsəniz, o qovluqdakı səhifələr vərəqlərdə açılacaq.">
 

@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Yeniləmələri yoxla…">
 <!ENTITY disabledPlugin                                      "Bu əlavə proqram söndürülüb.">
 <!ENTITY blockedPlugin.label                                 "Bu əlavə proqram sizi qorumaq üçün əngəlləndi.">
-
+<!ENTITY hidePluginBtn.label                                 "Qoşmanı gizlə">
 <!ENTITY installPlugin                                       "Əlavə tətbiq qur...">
 <!ENTITY managePlugins                                       "Əlavə proqramları idarə elə...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

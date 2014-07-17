@@ -10,7 +10,7 @@
 
 
 
-
+<!ENTITY device.startApp "Başla">
 
 <!ENTITY device.stopApp "Dur">
 
@@ -26,7 +26,7 @@
 
 <!ENTITY device.deny "Rədd et">
 
-
+<!ENTITY device.installedApps "Quraşdırılmış Tətbiqlər">
 
 <!ENTITY device.permissions "İzinler">
 
@@ -57,11 +57,11 @@
 
 
 
+<!ENTITY connection.installAnotherSimulator "Əlavə Et">
 
 
 
-
-
+<!ENTITY projects.addApp "Əlavə Et">
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-
+<!ENTITY projects.saveManifest "Yaddaşa yaz">
 
 
 
@@ -83,7 +83,7 @@
 
 <!ENTITY projects.valid "Etibarlıdır">
 <!ENTITY projects.error "Səhv">
-
+<!ENTITY projects.warning "Xəbərdarlıq">
 
 
 

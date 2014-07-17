@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sayt ünvanı:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Qovluq:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bütün əlfəçin qovluqlarını göstərir">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bütün əlfəcin qovluqlarını göstər">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gizləyir">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiketlər:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Açar söz:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "s">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Bütün etikətləri göstərir">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Bu əlfəçinikənar paneldə yüklə">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Bu əlfəcini yan paneldə yüklə">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "B">
 <!ENTITY editBookmarkOverlay.choose.label                    "Seçin…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Yeni qovluq">
