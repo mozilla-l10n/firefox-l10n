@@ -56,17 +56,19 @@
 <!ENTITY lineNumbers.label             "Visa radnummer">
 <!ENTITY lineNumbers.accesskey         "r">
 
-
+<!ENTITY wordWrap.label                "Radbryt text">
+<!ENTITY wordWrap.accesskey            "R">
 
 <!ENTITY highlightTrailingSpace.label     "Markera avslutande mellanslag">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "Större teckensnitt">
 <!ENTITY largerFont.accesskey         "ö">
+<!ENTITY largerFont.commandkey        "+">
 
-
-
-
+<!ENTITY smallerFont.label            "Mindre teckensnitt">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Normal storlek">
 <!ENTITY normalSize.accesskey         "N">

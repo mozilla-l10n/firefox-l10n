@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Ångra.">
 <!ENTITY newtab.undo.restoreButton "Återställ alla.">
 <!ENTITY newtab.undo.closeTooltip "Dölj">
-
-
+<!ENTITY newtab.sponsored.release.message "Denna Sponsor webbplats föreslogs därför att vi hoppades att du skulle finna det intressant och eftersom det stöder Mozillas uppdrag.">
+<!ENTITY newtab.sponsored.trial.message2 "Denna webbplats föreslogs därför att vi hoppades att du skulle finna det intressant och eftersom det stöder Mozillas uppdrag.">
 <!ENTITY newtab.panel.link.text "Ta reda på mer">

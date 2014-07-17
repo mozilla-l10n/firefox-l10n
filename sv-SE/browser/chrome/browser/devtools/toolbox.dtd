@@ -18,6 +18,7 @@
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -30,6 +31,8 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "Visa Webläsar stilar ">
+<!ENTITY options.showUserAgentStyles.tooltip "Slå på detta kommer att visa standard stilar som är laddade av webbläsaren.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -66,6 +69,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Tillåta felsökning av chrome och tillägg">
+<!ENTITY options.enableChrome.tooltip2  "Slå det här alternativet så kan du använda olika utvecklingsverktyg i webbläsar sammanhang och felsöka addons från Add-On Manager">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -144,13 +149,15 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "Gemensamma Inställningar">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Aktivera konstant loggning">
-
+<!ENTITY options.enablePersistentLogs.tooltip  "Om du aktiverar detta alternativ kommer webbkonsolen inte att rensa utdatan varje gång du går till en ny sida">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

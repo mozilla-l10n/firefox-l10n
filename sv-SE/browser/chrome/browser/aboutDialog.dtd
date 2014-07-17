@@ -22,15 +22,15 @@
 <!ENTITY warningDesc.telemetryDesc  "Testinformation om prestanda, hårdvara, användning och anpassningar skickas automatiskt tillbaka till &vendorShortName; för att hjälpa till att göra &brandShortName; bättre.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Daignostik, hårdvaruinformation, användarbetéende och inställningar vidarebefordras automatiskt till &amp;vendorShortName för att möjliggöra förbättringar av &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " är en ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
+<!ENTITY community.exp.creditsLink  "global gemensamhet">
 <!ENTITY community.exp.end          " som arbetar tillsammans för att hålla webben öppen och tillgänglig för alla.">
 
-<!ENTITY community.start2           "&brandShortName; är skapad av ">
+<!ENTITY community.start2           "&brandShortName;, utvecklad av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", en ">
@@ -41,7 +41,7 @@
 <!ENTITY contribute.start           "Låter det intressant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Hjälp till!">
-<!ENTITY contribute.end             "">
+<!ENTITY contribute.end             "Bli involverad!">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Licensinformation">
@@ -68,7 +68,7 @@
 
 <!ENTITY update.failed.start        "Uppdatering misslyckades. ">
 <!ENTITY update.failed.linkText     "Hämta senaste versionen">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "Ladda ner senaste versionen">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
@@ -101,4 +101,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Du finns för närvarande på uppdateringskanalen ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.end    "uppdatera kanal.">

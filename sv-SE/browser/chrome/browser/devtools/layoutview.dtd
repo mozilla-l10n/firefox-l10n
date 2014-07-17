@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "Boxmodell">
-
-
+<!ENTITY margin.tooltip         "marginal">
+<!ENTITY border.tooltip         "ram">
 <!ENTITY padding.tooltip        "utfyllnad">
 <!ENTITY content.tooltip        "innehåll">

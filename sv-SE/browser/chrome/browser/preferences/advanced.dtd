@@ -133,5 +133,5 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "d">
-
-
+<!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey   "D">
