@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Items de la barra de marcadores">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar todas las pestañas">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar todas las pestañas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Deshacer cerrar pestaña">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "h">
+
 <!ENTITY pageSourceCmd.label "Código fuente">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
