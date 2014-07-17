@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "E-posswendelary">
 <!ENTITY itemPasswords.label     "Wagwoorde">
 <!ENTITY itemAntiVirus.label     "Viruswering">
-<!ENTITY itemCookies.label       "Webinhoud">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Verstel die verstek gemorspos-opstelling. Rekeningspesifieke gemorspos-opstelling kan gedoen word by die rekeningopstelling.">
@@ -46,19 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; maak dit maklik vir viruswering om inkomende posboodskappe vir virusse te ontleed voor hulle plaaslik gestoor word.">
 <!ENTITY antiVirus.label      "Laat virusweerders toe om individuele inkomende boodskappe in kwarantyn te plaas">
 <!ENTITY antiVirus.accesskey  "L">
-<!-- Cookies -->
-
-<!ENTITY cookies.intro                  "Met &brandShortName; kan mens spesifiseer watter blogs, nuusvoere en ander webwerwe toegelaat moet word om koekies te stel.">
-<!ENTITY acceptCookies.label            "Aanvaar koekies van werwe">
-<!ENTITY acceptCookies.accesskey        "A">
-<!ENTITY keepUntil.label                "Hou tot:">
-<!ENTITY keepUntil.accesskey            "H">
-<!ENTITY expire.label                   "hulle verval">
-<!ENTITY close.label                    "ek &brandShortName; afsluit">
-<!ENTITY askEachTime.label              "vra elke keer">
-<!ENTITY cookieExceptions.label         "Uitsonderings…">
-<!ENTITY cookieExceptions.accesskey     "U">
-<!ENTITY showCookies.label              "Wys koekies…">
-<!ENTITY showCookies.accesskey          "W">
-<!-- Do Not Track -->
 

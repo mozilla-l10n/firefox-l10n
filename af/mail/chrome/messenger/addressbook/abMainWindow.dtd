@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Eienskappe…">
-<!ENTITY propertiesCmd.accesskey                        "E">
+
+
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -112,8 +112,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Nutsgoed">
 <!ENTITY tasksMenu.accesskey                            "u">
-<!ENTITY messengerCmd.label                             "Pos en nuusgroepe">
-<!ENTITY messengerCmd.accesskey                         "P">
+
+
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Deursoek adresse…">
 <!ENTITY searchAddressesCmd.accesskey                   "D">
@@ -121,8 +121,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Uitvoer…">
 <!ENTITY exportCmd.accesskey                            "U">
-<!ENTITY preferencesCmd.label                           "Opsies…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+
+
 <!ENTITY preferencesCmdUnix.label                       "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey                   "k">
 <!-- Address Book Toolbar and Context Menus -->  

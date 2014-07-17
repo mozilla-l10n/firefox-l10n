@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Algemeen">
-<!ENTITY itemDisplay.label       "Lees en vertoon">
+
 <!ENTITY itemUpdate.label        "Bywerk">
-<!ENTITY itemNetworking.label    "Netwerk- en skyfspasie">
+
 <!ENTITY itemCertificates.label  "Sertifikate">
 <!-- General Settings -->
 
@@ -59,20 +59,15 @@
 
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Kontroleer outomaties vir bywerkings aan:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Geïnstalleerde byvoegings">
-<!ENTITY enableAddonsUpdate.accesskey   "b">
-<!ENTITY whenUpdatesFound.label         "Wanneer bywerkings vir &brandShortName; gevind word,">
-<!ENTITY modeAskMe.label                "Vra my wat om te doen">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Laai die bywerking outomaties af en installeer dit">
-<!ENTITY modeAutomatic.accesskey        "L">
-<!ENTITY modeAutoAddonWarn.label        "Waarsku my as dit enige van my byvoegings sal deaktiveer">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "Wys bywerkinggeskiedenis">
-<!ENTITY showUpdates.accesskey          "W">
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+
 
 
 <!-- Networking and Disk Space -->

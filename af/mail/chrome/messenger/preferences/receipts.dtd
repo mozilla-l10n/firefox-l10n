@@ -6,13 +6,13 @@
 <!ENTITY requestReceipt.label          "Wanneer boodskappe gestuur word, vra altyd 'n antwoordstrokie aan">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "Wanneer 'n strokie aankom:">
-<!ENTITY leaveIt.label                 "Los dit in my inmandjie">
-<!ENTITY leaveIt.accesskey             "i">
+
+
 
 
 <!ENTITY requestMDN.label              "Wanneer ek 'n versoek om antwoordstrokie ontvang:">
-<!ENTITY never.label                   "Moet nooit 'n antwoordstrokie stuur nie">
-<!ENTITY never.accesskey               "M">
+
+
 <!ENTITY returnSome.label              "Laat antwoordstrokies toe vir sekere boodskappe">
 <!ENTITY returnSome.accesskey          "a">
 <!ENTITY notInToCc.label               "As ek nie in die Aan of CC van die boodskap is nie:">

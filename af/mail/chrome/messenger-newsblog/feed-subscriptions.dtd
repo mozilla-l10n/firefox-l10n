@@ -18,6 +18,11 @@
 
 
 
+
+
+
+
+
 <!ENTITY button.addFeed.label        "Voeg by">
 <!ENTITY button.addFeed.accesskey    "V">
 
@@ -31,3 +36,4 @@
 
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Sluit">

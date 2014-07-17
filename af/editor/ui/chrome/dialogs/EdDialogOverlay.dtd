@@ -9,8 +9,8 @@
 <!ENTITY chooseFileButton.accessKey "l">
 <!ENTITY chooseFileLinkButton.label "Kies lêer…">
 <!ENTITY chooseFileLinkButton.accessKey "l">
-<!ENTITY makeUrlRelative.label "URL is relatief tot bladsyligging">
-<!ENTITY makeUrlRelative.accessKey "R">
+
+
 <!ENTITY makeUrlRelative.tooltip "Verander tussen relatiewe en absolute URL. U moet eers die bladsy stoor voor u dit verander.">
 <!-- Shared by Link and Image dialogs -->
 

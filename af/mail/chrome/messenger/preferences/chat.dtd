@@ -16,3 +16,17 @@ sentence. -->
 
 
 
+
+
+
+
+
+<!ENTITY  play.label                          "Speel">
+<!ENTITY  play.accesskey                      "S">
+
+
+<!ENTITY  customsound.label                   "Gebruik die volgende klanklêer">
+<!ENTITY  customsound.accesskey               "G">
+<!ENTITY  browse.label                        "Blaai…">
+<!ENTITY  browse.accesskey                    "B">
+

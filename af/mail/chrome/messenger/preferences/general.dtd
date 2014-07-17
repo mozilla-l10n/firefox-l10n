@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Laai verstek terug">
 <!ENTITY useDefault.accesskey             "L">
 
-<!ENTITY bounceSystemDockIcon.label       "Animeer die dokikoon">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+
 
 <!ENTITY newMessagesArrive.label          "Wanneer nuwe boodskappe arriveer:">
 <!ENTITY playSound.label                  "Speel 'n klank">

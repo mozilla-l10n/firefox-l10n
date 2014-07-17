@@ -67,8 +67,8 @@ netwerkverbinding.</li>
 <!ENTITY netTimeout.title "Die verbinding het uitgetel">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Die adres is nie verstaan nie">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Die adres is nie verstaan nie">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Dalk moet u ander sagteware installeer om hierdie adres te open.</li>
 </ul>">
 
@@ -101,7 +101,7 @@ geïnstalleer is.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Kon nie beveilig koppel nie">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat die egtheid van die ontvangde data nie geverifieer kon word nie.</li> 
 <li>Kontak die webwerf se eienaar om hom oor die probleem in te lig.</li> 
 </ul>">

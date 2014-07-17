@@ -17,6 +17,10 @@
      -->
 
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "K">
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -32,12 +36,6 @@
      -->
 
 <!ENTITY quickFilterBar.sticky.tooltip "Pas filters steeds toe wanneer vouers gewissel word">
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-
-<!ENTITY quickFilterBar.barLabel.label "Kitsfilter:">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
