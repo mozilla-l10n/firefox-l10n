@@ -13,7 +13,7 @@
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Anslut">
 <!ENTITY connecting "Ansluter…">
-
+<!ENTITY availableAddons "Tillgängliga fjärrtillägg:">
 <!ENTITY availableTabs "Tillgängliga fjärrflikar:">
 <!ENTITY availableProcesses "Tillgängliga fjärrprocesser">
 <!ENTITY connectionError "Fel:">

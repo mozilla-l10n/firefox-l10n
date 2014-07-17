@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Ljud på">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Helskärm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Avsluta helskärm">
-
+<!ENTITY castingButton.castingLabel "Sända till skärm ">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Storlek">
