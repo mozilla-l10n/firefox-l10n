@@ -27,7 +27,7 @@
 <!ENTITY engine.bookmarks.label     "Izalathisi eziphawulayo">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label          "Iithebhu">
-<!ENTITY engine.tabs.accesskey      "I">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Imbali">
 <!ENTITY engine.history.accesskey   "l">
 <!ENTITY engine.passwords.label     "Iipasiwedi">
@@ -35,7 +35,7 @@
 <!ENTITY engine.prefs.label         "Okukhethwayo">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Izongezelelo">
-<!ENTITY engine.addons.accesskey    "I">
+<!ENTITY engine.addons.accesskey    "z">
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "Igama lesixhobo:">
