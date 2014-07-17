@@ -106,10 +106,7 @@ tekshirib koʻring.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Xavfsiz ulanib boʻlmadi">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Siz ochmoqchi boʻlgan sahifani  koʻrsatib boʻlmaydi, chunki  olingan ma`lumotlarni tasdiqdan oʻtkazish uchun tekshirib boʻlmadi.</li> 
-<li>Ushbu muammo haqida xabar berish uchun, iltimos, veb sayt egasi bilan bogʻlaning. Yoki muqobil ravishda yordam menyusidan buyruqni topib, buzilgan sayt haqida ma`lumot joʻnating. </li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanib boʻlmadi">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

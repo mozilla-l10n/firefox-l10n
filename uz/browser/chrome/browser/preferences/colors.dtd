@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "r">
 
 <!ENTITY  color                           "Matn va orqa fon">
-<!ENTITY  textColor.label                 "Matn">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.label                 "Matn:">
+<!ENTITY  textColor.accesskey             "M">
 <!ENTITY  backgroundColor.label           "Orqa fon:">
 <!ENTITY  backgroundColor.accesskey       "O">
 <!ENTITY  useSystemColors.label           "Tizim ranglaridan foydalanish">

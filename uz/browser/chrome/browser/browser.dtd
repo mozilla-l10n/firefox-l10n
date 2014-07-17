@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Yangi ichki oyna">
 <!ENTITY tabCmd.accesskey "i">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Faylni ochish…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -125,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Xatcho‘plar">
 <!ENTITY bookmarksMenu.accesskey "X">
-<!ENTITY bookmarkThisPageCmd.label "Sahifani xatcho‘plarga qo‘shish">
+
 <!ENTITY editThisBookmarkCmd.label "Ushbu xatcho‘pni o‘zgartirish">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,19 +151,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Saralanmagan xatcho‘plar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
 
-<!ENTITY backCmd.label                "Orqaga">
-<!ENTITY backCmd.accesskey            "O">
 <!ENTITY backButton.tooltip           "Bir sahifa orqaga qaytish">
-<!ENTITY forwardCmd.label             "Oldinga">
-<!ENTITY forwardCmd.accesskey         "O">
+
 <!ENTITY forwardButton.tooltip        "Bir sahifa oldinga o‘tish">
 <!ENTITY backForwardButtonMenu.tooltip "Tarixni ko‘rish uchun o‘ng tugmani bosing yoking pastga suring">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarixni ko‘rish uchun pastga suring">
-<!ENTITY reloadCmd.label              "Qayta yuklash">
-<!ENTITY reloadCmd.accesskey          "Q">
+
 <!ENTITY reloadButton.tooltip         "Joriy sahifani qayta yuklash">
-<!ENTITY stopCmd.label                "To‘xtatish">
-<!ENTITY stopCmd.accesskey            "T">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ushbu sahifani yuklashni bekor qilish">
 <!ENTITY goEndCap.tooltip             "Manzil panelidagi manzilga o‘tish">
@@ -199,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Yuklab olishlar">
-<!ENTITY downloads.tooltip            "Amalga oshirilayotgan yuklashlar jarayonlarini ko‘rsatish">
 <!ENTITY downloads.accesskey          "Y">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -439,8 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "r">
 <!ENTITY setDesktopBackgroundCmd.label      "Ish stoli orqa foni sifatida o‘rnatish">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Sahifani xatcho‘plarga qo‘shish">
-<!ENTITY bookmarkPageCmd2.accesskey   "x">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Linkni xatcho‘plarga qo‘shish">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Kadrni xatcho‘plarga qo‘shish">
@@ -564,11 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mashstab">
 <!ENTITY fullZoom.accesskey             "M">
 
-<!ENTITY newTabButton.tooltip           "Yangi ichki oyna ochish">
-<!ENTITY newWindowButton.tooltip        "Yangi oyna ochish">
 <!ENTITY sidebarCloseButton.tooltip     "Yon panelni yopish">
-
-<!ENTITY fullScreenButton.tooltip       "Oynani butun ekranga usulida koʻrsatish">
 
 <!ENTITY quitApplicationCmdWin.label       "Chiqish"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "h">

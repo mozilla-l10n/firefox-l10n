@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Tashkilot (O)">
 <!ENTITY certmgr.certdetail.ou                "Tashkilot qismi (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serial raqami">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 barmoq izi">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 barmoq izi">
 
 <!ENTITY certmgr.editcert.title               "Xavfsizlik sertifikatlari moslamalarini oʻzgartirish">
 <!ENTITY certmgr.editcacert.title             "CA sertifikati ishonch moslamalarini oʻzgartirish">

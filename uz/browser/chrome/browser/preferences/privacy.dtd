@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "Kuzatishni xohlamasligim saylarga aytilsin.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Kuzatishni xohlashim saytlarga aytilsin">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
 <!ENTITY doNotTrackInfo.label           "Koʻproq oʻrganing">
 
 <!ENTITY  history.label                 "Tarix">

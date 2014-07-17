@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder Xatchoʻplar asboblar paneli jildi
 
 
-#define bookmarks_toolbarfolder_description Xatchoʻplarni "Xatchoʻplar panelida" koʻrish uchun, ularni ushbu jilga qoʻshing 
+#define bookmarks_toolbarfolder_description Xatchoʻplarni "Xatchoʻplar panelida" koʻrish uchun, ularni ushbu jilga qoʻshing\u0020
 
 
 # LOCALIZATION NOTE (getting_started):

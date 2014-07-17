@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Sayt tarmoq soʻroviga kutilmagan usulda javob berdi, shuning uchun brauzer ishni davom ettira olmaydi.</p>">
 
 <!ENTITY nssFailure2.title "Xavfsiz ulanib boʻlmadi">
-<!ENTITY nssFailure2.longDesc "<p>Koʻrmoqchi boʻlgan sahifangizni koʻrsatib boʻlmaydi, chunki qabul qilingan ma`lumotlarni tasdiqdab oʻtkazib boʻlmadi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Koʻrmoqchi boʻlgan sahifangizni koʻrsatib boʻlmaydi, chunki qabul qilingan ma`lumotlarni tasdiqdab oʻtkazib boʻlmadi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul>">
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanish amalga oshmadi">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

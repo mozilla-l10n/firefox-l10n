@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "Sertifikatlar">
 <!ENTITY certSelection.description       "Server mening shaxsiy sertifikatimni soʻraganda:">
 <!ENTITY certs.auto                      "Avtomatik bittasini tanlash">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Har doim mendan soʻra">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Sertifikatlarni koʻrish">
-<!ENTITY viewCerts.accesskey             "S">
+
+
+
 <!ENTITY verify2.label                   "Yaroqliligi">
 <!ENTITY verify2.accesskey               "Y">
-<!ENTITY viewSecurityDevices.label       "Uskunalar xavfsizligi">
-<!ENTITY viewSecurityDevices.accesskey   "v">
+
+

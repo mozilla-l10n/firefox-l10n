@@ -27,3 +27,7 @@
 <!ENTITY chooseLanguage.label         "Sahifalar koʻrinishi kerak boʻlgan til">
 <!ENTITY chooseButton.label           "Tanlash…">
 <!ENTITY chooseButton.accesskey       "T">
+
+
+<!ENTITY translateExceptions.label    "Istisnolar...">
+<!ENTITY translateExceptions.accesskey "s">

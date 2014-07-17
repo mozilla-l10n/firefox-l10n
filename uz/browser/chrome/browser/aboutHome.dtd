@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Xatchoʻplar">
 <!ENTITY abouthome.historyButton.label   "Tarix">
-<!ENTITY abouthome.settingsButton.label  "Parametrlar">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Moslamalar">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Moslamalar">
 <!ENTITY abouthome.addonsButton.label    "Qoʻshimcha dasturlar">
 <!ENTITY abouthome.appsButton.label      "Doʻkon">
 <!ENTITY abouthome.downloadsButton.label "Yuklashlar">

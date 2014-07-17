@@ -35,8 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Mulohaza bildirish">
 <!ENTITY helpFeedbackPage.accesskey  "b">
 
-<!ENTITY helpShowTour.label             "&brandShortName; yordami">
-<!ENTITY helpShowTour.accesskey         "y">
+<!ENTITY helpShowTour.label             "&brandShortName;ga sayohat">
+<!ENTITY helpShowTour.accesskey         "s">
 
 <!ENTITY preferencesCmdMac.label        "Moslashlar...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
