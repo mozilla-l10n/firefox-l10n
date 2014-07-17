@@ -37,7 +37,8 @@
 <!ENTITY saveFileCmd.accesskey        "G">
 
 
-
+<!ENTITY saveFileAsCmd.label          "Gcina njenge…">
+<!ENTITY saveFileAsCmd.accesskey      "n">
 
 <!ENTITY closeCmd.label               "Vala">
 

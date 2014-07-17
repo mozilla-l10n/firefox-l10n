@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Ithebhu entsha">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Vula indawo…">
 <!ENTITY openFileCmd.label "Vula ifayile…">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
@@ -149,18 +153,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 
 <!ENTITY backCmd.label                "Emva">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Buya umva ngephepha elinye">
 <!ENTITY forwardCmd.label             "Phambili">
-<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Yiya phambili ngephepha elinye">
 <!ENTITY backForwardButtonMenu.tooltip "Cofa ekunene okanye hlisa ukubonisa imbali">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hlisa ukubonisa imbali">
 <!ENTITY reloadCmd.label              "Layisha kwakhona">
-<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Layisha kwakhona iphepha langoku">
 <!ENTITY stopCmd.label                "Nqumama">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli phepha">
 <!ENTITY goEndCap.tooltip             "Yiya kwidilesi kwibha yendawo">
@@ -199,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "I">
 
 <!ENTITY downloads.label              "Okukhutshelwayo">
-<!ENTITY downloads.tooltip            "Display the progress of ongoing downloads">
 <!ENTITY downloads.accesskey          "O">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -440,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Seta Njengokungasemva eskrinini…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Faka ibhukhmakhi kweli khasi">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Faka Ibhukhmakhi Kweli Khonkco">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">
@@ -564,11 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Yandisa/nciphisa">
 <!ENTITY fullZoom.accesskey             "Y">
 
-<!ENTITY newTabButton.tooltip           "Open a new tab">
-<!ENTITY newWindowButton.tooltip        "Open a new window">
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha esecaleni">
-
-<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label       "Phuma"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "h">

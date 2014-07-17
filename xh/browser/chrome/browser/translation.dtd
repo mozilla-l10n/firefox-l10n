@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "Guqulela">
 <!ENTITY translation.notNow.button              "Hayi Ngoku">
 
-<!ENTITY translation.translatingContent.label   "Iguqulela isiqulatho sekhasi...">
+<!ENTITY translation.translatingContent.label   "Iguqulela isiqulatho sekhasi…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -44,4 +44,15 @@
 <!ENTITY translation.errorTranslating.label     "Kubekho impazamo ekuguqulelweni kweli khasi.">
 <!ENTITY translation.tryAgain.button            "Zama kwakhona">
 
+<!ENTITY translation.serviceUnavailable.label   "Uguqulelo alufumaneki okwangoku. Nceda uzame kwakhona kamva.">
+
 <!ENTITY translation.options.menu               "Iindlela zokhetho">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Ungaze uyiguqulele le sayithi">
+<!ENTITY translation.options.neverForSite.accesskey "n">
+<!ENTITY translation.options.preferences.label  "Iipriferensi zenguqulelo">
+<!ENTITY translation.options.preferences.accesskey "I">

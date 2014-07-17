@@ -32,8 +32,8 @@
 <!ENTITY certmgr.certdetail.o                 "Umbutho (O)">
 <!ENTITY certmgr.certdetail.ou                "Icandelo Lombutho (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Inombolo Yolandelelwano">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Ushicileleo lweminwe lwe-SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Fingerprint">
 
 <!ENTITY certmgr.editcert.title               "Hlela Imimiselo Yezatifikethi Yokhuseleko">
 <!ENTITY certmgr.editcacert.title             "Hlela Imimiselo yentembeko yesatifikethi se-CA">
@@ -71,18 +71,18 @@
 
 
 
+<!ENTITY certmgr.export.label                 "Thumela ngaphandle…">
+<!ENTITY certmgr.export.accesskey             "p">
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY certmgr.backup2.label                "Eyogcino…">
+<!ENTITY certmgr.backup2.accesskey            "E">
+<!ENTITY certmgr.backupall2.label             "Gcina Iikopi Zako Konke…">
+<!ENTITY certmgr.backupall2.accesskey         "G">
+<!ENTITY certmgr.restore2.label               "Okuthathwa ngaphandle…">
+<!ENTITY certmgr.restore2.accesskey           "t">
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-
+<!ENTITY exceptionMgr.certstatus.viewCert     "Jonga…">
 
 
 
