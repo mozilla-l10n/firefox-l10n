@@ -84,7 +84,7 @@
 
 <!ENTITY locale_system_default "Sistem varsayılanı">
 
-<!ENTITY pref_category_search3 "Ara">
+<!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
 <!ENTITY pref_category_display "Görünüm">
 <!ENTITY pref_category_privacy_short "Gizlilik">
@@ -148,7 +148,7 @@
 <!ENTITY pref_clear_private_data "Özel verileri sil">
 <!ENTITY pref_plugins "Yan uygulamalar">
 <!ENTITY pref_plugins_enabled "Etkin">
-<!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
+<!ENTITY pref_plugins_tap_to_play "Oynatmak için dokun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
 <!ENTITY pref_reflow_on_zoom4 "Metin akışı">
