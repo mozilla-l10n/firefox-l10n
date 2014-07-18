@@ -77,7 +77,7 @@
 
 <!ENTITY bookmarks.folder.menu.label "புத்தகக்குறிகள் மெனு">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "குறிகள்">
+<!ENTITY bookmarks.folder.tags.label "ஒட்டுகள்">
 <!ENTITY bookmarks.folder.toolbar.label "புத்தகக்குறிகள் கருவிப்பட்டை">
 <!ENTITY bookmarks.folder.unfiled.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.desktop.label "திரைமுகப்பின் புத்தகக்குறிகள்">
@@ -105,6 +105,9 @@
 <!ENTITY sync.text.tab.sent.label "உங்களுடைய கீற்று அனுப்பப்பட்டது!">
 <!ENTITY sync.text.tab.not.sent.label "உங்களின் தாவலை அனுப்புவதில் பிரிச்சனை வந்திருக்கிறது.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "பயர்பாக்ஸ் கணக்குகள்">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
-
+<!ENTITY fxaccount_status_device_name "சாதனத்தின் பெயர்">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: செயல்படுத்தபட்டது">
 <!ENTITY fxaccount_status_needs_verification2 "உங்கள் கணக்கை சரிபார்க்க வேண்டியுள்ளது. சரிபார்ப்பு மின்னஞ்சலை மிண்டும் அனுப்ப தடவவும்.">
