@@ -97,7 +97,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Վերականգնող բանալին սխալ է: Կրկին փորձեք:">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Էջանիշը ուղարկվում է այլ սարքին">
+<!ENTITY sync.title.send.tab.label "Էջանիշը ուղարկել այլ սարքի">
 <!ENTITY sync.button.send.label "Ուղարկել">
 <!ENTITY sync.button.set.up.sync.label "Կարգավորել &syncBrand.shortName.label;ը">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Կարգավորել &syncBrand.shortName.label;ը՝ ներդիր ուղարկելու համար">
