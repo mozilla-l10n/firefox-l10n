@@ -178,16 +178,16 @@
 <!ENTITY fxaccount_status_device_name "اسم الجهاز">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: مُفعّل">
-
-
-
-
-
+<!ENTITY fxaccount_status_needs_verification2 "يحتاج حسابك للتأكيد. انقر لإعادة إرسال بريد التأكيد.">
+<!ENTITY fxaccount_status_needs_credentials "تعذر الاتصال. انقر لتسجيل الدخول.">
+<!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
+<!ENTITY fxaccount_status_needs_account_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر لبدء المزامنة.">
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
 <!ENTITY fxaccount_status_passwords "كلمات السر">
 <!ENTITY fxaccount_status_tabs "الألسنة المفتوحة">
-
+<!ENTITY fxaccount_status_legal "قانوني" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -196,6 +196,8 @@
 <!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "فَيَرفُكس">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox Account
@@ -207,14 +209,20 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "تحتاج لتحديث فَيَرفُكس">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "الحساب موجود من قبل. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "كلمة السر أو البريد غير سليم">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "كلمة السر أو البريد غير سليم">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "الحساب غير مُؤكّد">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "الخادوم مشغول، أعد المحاولة بعد قليل">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "الخادوم مشغول، أعد المحاولة بعد قليل">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "حدثت مشكلة">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "تعذّر الاتصال بالشبكة">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر لتسجيل الدخول باسم &formatS;">
