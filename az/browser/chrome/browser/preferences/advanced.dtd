@@ -28,16 +28,16 @@
 
 <!ENTITY systemDefaults.label            "Sistem Ön Qurğuları">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Açılışda &brandShortName; brauzerinin standart olub olmadığını yoxla">
-<!ENTITY alwaysCheckDefault.accesskey    "b">
-<!ENTITY setDefault.label                "&brandShortName; brauzerini standart et">
+<!ENTITY alwaysCheckDefault.label        "Açılışda &brandShortName; səyyahının əsas səyyahınız olub olmadığını yoxla">
+<!ENTITY alwaysCheckDefault.accesskey    "l">
+<!ENTITY setDefault.label                "&brandShortName; səyyahını əsas səyyah et">
 <!ENTITY setDefault.accesskey            "s">
-<!ENTITY isDefault.label                 "&brandShortName; hazırda standart brauzerinizdir">
+<!ENTITY isDefault.label                 "&brandShortName; hazırda əsas səyyahınızdır">
 
 <!ENTITY dataChoicesTab.label            "Verilənlər seçimi">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Çalışabilmə Hesabatı">
-<!ENTITY healthReportDesc.label          "Sizə brauzerinizin işləmə surəti barədə daha çox məlumat əldə etməyə köməklik edir və səmərəliyi barədə &vendorShortName; böluşməyə imkan verir">
+<!ENTITY healthReportDesc.label          "Sizə səyyahınızın performansı barədə daha çox məlumat əldə etməyə köməklik edir və səyahətinizin sağlamlığı haqqında məlumatı &vendorShortName; ilə bölüşür">
 <!ENTITY enableHealthReport.label        "brandShort Name; Səmərəlik barədə hesabatın göndərilmsini aktiv et">
 <!ENTITY enableHealthReport.accesskey    "b">
 <!ENTITY healthReportLearnMore.label     "Ətraflı">

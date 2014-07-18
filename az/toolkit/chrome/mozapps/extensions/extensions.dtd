@@ -82,8 +82,8 @@
 <!ENTITY cmd.about.label                      "Hakkında">
 <!ENTITY cmd.about.accesskey                  "H">
 
-<!ENTITY cmd.enableAddon.label                "Etkinleştir">
-<!ENTITY cmd.enableAddon.accesskey            "t">
+<!ENTITY cmd.enableAddon.label                "Fəallaşdır">
+<!ENTITY cmd.enableAddon.accesskey            "a">
 <!ENTITY cmd.disableAddon.label               "Söndür">
 <!ENTITY cmd.disableAddon.accesskey           "S">
 <!ENTITY cmd.enableTheme.label                "Temadan istifadə elə">
@@ -101,7 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "u">
 <!ENTITY cmd.uninstallAddon.label             "Sil">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
+<!ENTITY cmd.debugAddon.label                 "Sazlama">
 <!ENTITY cmd.showPreferencesWin.label         "Nizamlar">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.showPreferencesUnix.label        "Nizamlamalar">
@@ -220,7 +220,9 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Bu nədir? Telemetriya zaman-zaman eksperimentlər qurub çalışdıra bilər.">
 <!ENTITY experiment.info.learnmore "Ətraflı">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Telemetriya nizamlamaları">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

@@ -100,7 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Bütün vərəqləri göstər">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; Daxil ol">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; daxil ol">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; Yenidən bağlan">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktivdir">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; dərhal sinxronlaşmağa başlayacaq.">
@@ -206,8 +206,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Ə">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Veb Proqramçı">
-<!ENTITY webDeveloperMenu.accesskey   "V">
+<!ENTITY webDeveloperMenu.label       "Web Tərtibatçı">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.label        "Xəta konsolu">
 <!ENTITY errorConsoleCmd.accesskey    "k">
 
-<!ENTITY remoteWebConsoleCmd.label    "Uzaq Veb Konsol">
+<!ENTITY remoteWebConsoleCmd.label    "Uzaq Web Konsol">
 
 <!ENTITY browserConsoleCmd.label      "Səyyah Konsolu">
 <!ENTITY browserConsoleCmd.commandkey "j">
@@ -287,13 +287,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.label            "Təkrarla">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
-<!ENTITY cutCmd.label           "Kes">  
+<!ENTITY cutCmd.label           "Kəs">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
 <!ENTITY copyCmd.label            "Kopyala">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Yapıştır">  
+<!ENTITY pasteCmd.label           "Yapışdır">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Y"> 
 <!ENTITY deleteCmd.label          "Sil">  
@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Bütün Keçmişi Göstər">
 <!ENTITY showAllHistoryCmd.commandkey "K">
 
-<!ENTITY appMenuCustomize.label "Özelleştir">
+<!ENTITY appMenuCustomize.label "Şəxsiləşdir">
 <!ENTITY appMenuCustomize.tooltip "Menyu və Ələt sətrini şəxsiləşdir">
 <!ENTITY appMenuCustomizeExit.label "Şəxsiləşdirməni tərk et">
 <!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">

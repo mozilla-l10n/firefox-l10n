@@ -26,7 +26,7 @@
 <!ENTITY pipalert.title "Səhv - düzəldilmədi">
 <!-- Prefs panel strings -->
 
-<!ENTITY pref.security.general.lHeader "Güvenlik">
+<!ENTITY pref.security.general.lHeader "Təhlükəsizlik">
 <!ENTITY pref.security.general.rHeader "Ümumi təhlükəsizlik nizamları">
 <!ENTITY pref.security.general.header "Ümumi təhlükəsizlik nizamları">
 <!ENTITY pref.security.general.level.title "Təhlükəsizlik səviyyəsi">

@@ -63,7 +63,7 @@
 <!ENTITY  permClearStorage           "Saxlananları təmizlə">
 <!ENTITY  permClearStorage.accesskey "t">
 
-<!ENTITY  securityTab           "Güvenlik">
+<!ENTITY  securityTab           "Təhlükəsizlik">
 <!ENTITY  securityTab.accesskey "G">
 <!ENTITY  securityHeader        "Sayfanın güvenlik bilgileri">
 <!ENTITY  securityView.certView "Sertifikatı göstər">

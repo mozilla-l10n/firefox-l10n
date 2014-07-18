@@ -27,14 +27,14 @@
 <!ENTITY certmgr.pending.label                "Hazırda təsdiq sənədi yoxlanır…">
 <!ENTITY certmgr.subjectinfo.label            "Təsdiqlənən">
 <!ENTITY certmgr.issuerinfo.label             "Təslim Edən">
-
+<!ENTITY certmgr.periodofvalidity.label       "Etibarlılıq müddəti" >
 <!ENTITY certmgr.fingerprints.label           "Parmak izleri">
 <!ENTITY certmgr.certdetail.title             "Təsdiq sənədi detalları">
 <!ENTITY certmgr.certdetail.cn                "Ümumi ad (CN)">
 <!ENTITY certmgr.certdetail.o                 "Qurum (O)">
 <!ENTITY certmgr.certdetail.ou                "Korporativ orqan (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Seriya nömrəsi">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 barmaq izi">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 parmaq izi">
 
 <!ENTITY certmgr.editcert.title               "Təhlükəsizlik təsdiq sənədi parametrlərini redaktə edin">

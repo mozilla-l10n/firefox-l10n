@@ -32,9 +32,9 @@
 <!ENTITY redoCmd.label                      "Təkrarla">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "r">
-<!ENTITY cutCmd.label                       "Kes">
+<!ENTITY cutCmd.label                       "Kəs">
 <!ENTITY cutCmd.key                         "X">
-<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY cutCmd.accesskey                   "K">
 <!ENTITY copyCmd.label                      "Kopyala">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">

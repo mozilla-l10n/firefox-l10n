@@ -73,7 +73,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Cihaz bağlandı">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Hesabını aç">
+<!ENTITY setup.signInPage.title.label "Daxil ol">
 <!ENTITY existingRecoveryKey.description "Bərpa açarınızın bir kopyasını əldə etmək üçün digər cihazınızda &syncBrand.shortName.label; Seçimlərinə girin və &quot;Hesabı idarə et&quot; altından&quot;Bərpa açarım&quot;ı seçin.">
 <!ENTITY verifying.label              "Təsdiqlənir…">
 <!ENTITY resetPassword.label          "Şifrəni sıfırla">

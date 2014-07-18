@@ -32,16 +32,17 @@ that require it.  -->
 <!ENTITY historySection.label         "Keçmiș">
 <!ENTITY dataSection.label            "Verilən">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Səyahət və Endirmə Keçmişi">
+<!ENTITY itemHistoryAndDownloads.accesskey "S">
+<!ENTITY itemFormSearchHistory.label       "Form və Axtarış Keçmişi">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Saxlanan şifrələr">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Çərəzlər">
 <!ENTITY itemCookies.accesskey             "Ç">
 <!ENTITY itemCache.label                   "Önbellek">
 <!ENTITY itemCache.accesskey               "n">
-<!ENTITY itemOfflineApps.label             "Oflayn Vebsayt Məlumatları">
+<!ENTITY itemOfflineApps.label             "Oflayn Websayt Məlumatları">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Aktiv girişlər">
 <!ENTITY itemActiveLogins.accesskey        "L">

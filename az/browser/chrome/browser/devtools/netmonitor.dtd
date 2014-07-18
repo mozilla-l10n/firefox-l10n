@@ -23,6 +23,8 @@
 <!ENTITY netmonitorUI.toolbar.file        "Fayl">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+
+<!ENTITY netmonitorUI.toolbar.domain      "Domen">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -81,6 +83,8 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "Digərləri">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -95,6 +99,8 @@
 <!ENTITY netmonitorUI.summary.url         "Request URL:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
+
+<!ENTITY netmonitorUI.summary.method      "Tələb metodu:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed

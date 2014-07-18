@@ -16,8 +16,8 @@
 <!ENTITY  paneContent.title       "Məzmun">
 <!ENTITY  paneApplications.title  "Proqramlar">
 <!ENTITY  panePrivacy.title       "Gizlilik">
-<!ENTITY  paneSecurity.title      "Güvenlik">
-<!ENTITY  paneAdvanced.title      "Gelişmiş">
+<!ENTITY  paneSecurity.title      "Təhlükəsizlik">
+<!ENTITY  paneAdvanced.title      "Təkmilləşdirilmiş">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sync">

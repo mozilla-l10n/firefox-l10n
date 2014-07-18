@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Kes">
+<!ENTITY cutCmd.label "Kəs">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "p">
-<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY pasteCmd.label "Yapışdır">
 <!ENTITY pasteCmd.accesskey "Y">
 <!ENTITY undoCmd.label "Geri al">
 <!ENTITY undoCmd.accesskey "G">

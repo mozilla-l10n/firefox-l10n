@@ -25,7 +25,7 @@
 <!ENTITY community.exp.start        "Mozilla Azerbaijan Community tərəfindən Azərbaycan dilinin internetdə yayılması üçün pulsuz hazırlanıb.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " Veb-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
+<!ENTITY community.exp.middle       " Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "qlobal cəmiyyətdir">
 <!ENTITY community.exp.end          ".">
@@ -33,7 +33,7 @@
 <!ENTITY community.start2           "&brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", Veb-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
+<!ENTITY community.middle2          ", Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "qlobal cəmiyyət">
 <!ENTITY community.end3             ".">

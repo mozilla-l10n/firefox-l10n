@@ -2,58 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY index.device2 "Avadanlıq">
 <!ENTITY index.help "Kömək">
 
 
-
-
-
-
+<!ENTITY device.screenshot "Ekran görüntüsü">
+<!ENTITY device.screenshotTooltip "Avadanlığın hazırki vəziyyətinin ekran görüntüsünü yeni vərəqədə aç">
+<!ENTITY device.title "Avadanlıq Nəzarət Mərkəzi">
+<!ENTITY device.notConnected "Qoşulu deyil. Xahiş edirik avadalığınızı qoşun.">
 <!ENTITY device.startApp "Başla">
-
-<!ENTITY device.stopApp "Dur">
-
-
-
+<!ENTITY device.startAppTooltip "Bu tətbiqetməni avadanlıqda başlat">
+<!ENTITY device.stopApp "Dayan">
+<!ENTITY device.stopAppTooltip "Bu tətbiqetməni avadanlıqda dayandır">
+<!ENTITY device.debugApp "Sazlama">
+<!ENTITY device.debugAppTooltip "Avadanlıqdakı bu tətbiqetməyə bağlı Tərtibatçı Alətlərini aç">
 <!ENTITY device.name "Ad">
-
-
-
+<!ENTITY device.plain "Düz (ilkin vəziyyət)">
+<!ENTITY device.privileged "İmtiyaz verilmiş">
+<!ENTITY device.certified "Sertifikatlaşmış">
 <!ENTITY device.allow "İcazə ver">
-
-<!ENTITY device.prompt "Klient">
+<!ENTITY device.allowTooltip "Bu icazə bu cür tətbiqetmələrə verilir">
+<!ENTITY device.prompt "Dəvət">
 
 <!ENTITY device.deny "Rədd et">
-
+<!ENTITY device.denyTooltip "Bu cür tətbiqetmələrə bu icazə istifadə edilə bilməz">
 <!ENTITY device.installedApps "Quraşdırılmış Tətbiqlər">
-
-<!ENTITY device.permissions "İzinler">
-
-
+<!ENTITY device.installedAppsTooltip "Avadanlıqda quraşdırılmış tətbiqetmələrin siyahısını göstərər. Bəzi tətbiqetmələr (məs. sertifikatlaşmış tətbiqetmələr) istisna ola bilər.">
+<!ENTITY device.permissions "İcazələr">
 
 
 
+
+<!ENTITY device.debugBrowserTab "Sazla">
 
 <!ENTITY device.help "Kömək">
 
+<!ENTITY connection.disconnect "Bağlantını kəs">
+<!ENTITY connection.disconnectTooltip "Mövcud cihaz və ya simulyatorla olan bağlantını kəs">
+<!ENTITY connection.notConnected2 "Qoşulu Deyil">
+<!ENTITY connection.connectTo "Qoşuludur:">
+<!ENTITY connection.noDeviceFound "Heç bir cihaz tapılması. Cihaz qoşun">
+<!ENTITY connection.changeHostAndPort "Dəyiş">
 
 
 
+<!ENTITY connection.saveConnectionInfo "Yadda saxla">
+
+<!ENTITY connection.connecting "Qoşulur…">
+<!ENTITY connection.disconnecting "Bağlanır…">
+<!ENTITY connection.cancel "Ləğv et">
 
 
-
-
-
-
-
-
-<!ENTITY connection.connecting "Bağlanır…">
-
-<!ENTITY connection.cancel "ləğv et">
-
-
-
+<!ENTITY connection.or "və ya">
 
 
 

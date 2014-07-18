@@ -64,7 +64,7 @@
 <!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri sil">
 <!ENTITY  rememberActions.post.label          "açıqlanmışdır.">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz Veb-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 

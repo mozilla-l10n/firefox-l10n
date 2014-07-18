@@ -53,7 +53,8 @@
 <!ENTITY viewMenu.label               "Görünüş">
 <!ENTITY viewMenu.accesskey           "G">
 
-
+<!ENTITY lineNumbers.label             "Sətir Nömrələrini Göstər">
+<!ENTITY lineNumbers.accesskey         "N">
 
 
 

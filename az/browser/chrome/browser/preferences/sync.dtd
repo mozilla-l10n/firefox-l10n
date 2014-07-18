@@ -62,13 +62,13 @@ both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY signIn.label                "Daxil ol">
 <!ENTITY manage.label                "İdarə et">
 
 
 
 
 <!ENTITY welcome.signIn.label "Hesabını aç">
-
+<!ENTITY welcome.createAccount.label "Hesab Aç">
 
 <!ENTITY welcome.useOldSync.label "Sinxronlaşdırmanın köhnə versiyasını işlədirsiz?">

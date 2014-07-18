@@ -24,7 +24,7 @@
 <li>Digər saytları da aça bilmirsinizsə, Kompüterinizin internet 
 bağlantısını yoxlayın.</li> 
 <li>Əgər kompüteriniz və ya şəbəkəniz Firewall ilə qorunursa, əmin olun ki, 
-&brandShortName; Veb-ə giriş icazəsinə malikdir.</li> 
+&brandShortName; internetə giriş icazəsinə malikdir.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
@@ -39,8 +39,8 @@ bağlantısını yoxlayın.</li>
 
 <!ENTITY malformedURI.title "Yanlış ünvan">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Veb ünvanlar əsasən 
-<strong>http://www.mozilla.org/</strong> kimi yazılır</li> 
+<li>Web ünvanlar əsasən 
+<strong>http://www.example.com/</strong> kimi yazılır</li> 
 <li>Droblardan istifadə etdiyinizə əmin olun (i.e. 
 <strong>/</strong>).</li> 
 </ul>">

@@ -15,13 +15,13 @@
 
 <!ENTITY engine.bookmarks.label           "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey       "c">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY engine.history.label             "Keçmiș">
+<!ENTITY engine.history.accesskey         "K">
+<!ENTITY engine.tabs.label                "Vərəqlər">
+<!ENTITY engine.tabs.accesskey            "V">
+<!ENTITY engine.passwords.label           "Şifrələr">
+<!ENTITY engine.passwords.accesskey       "Ş">
+<!ENTITY engine.addons.label              "Masaüstü Əlavələri">
+<!ENTITY engine.addons.accesskey          "Ə">
+<!ENTITY engine.prefs.label               "Masaüstü Tənzimləmələri">
+<!ENTITY engine.prefs.accesskey           "s">
