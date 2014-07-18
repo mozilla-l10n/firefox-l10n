@@ -101,9 +101,9 @@ tekshirib ko‘ring.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Xavfsiz ulanib bo‘lmadi">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Siz ochmoqchi bo‘lgan sahifani ko‘rsatib boʻlmaydi, chunki  olingan ma’lumotlarni tasdiqdan o‘tkazish uchun tekshirib bo‘lmadi.</li> 
-<li>Ushbu muammo haqida xabar berish uchun, iltimos, veb sayt egasi bilan bog‘laning yoki muqobil ravishda yordam menyusidan buyruqni topib, buzilgan sayt haqida ma’lumot jo‘nating. </li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Siz ochmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan ma’lumotlarning haqiqiyligini tekshirib bo‘lmadi.</li> 
+<li>Ushbu muammo haqida xabar berish uchun veb-sayt egasi bilan bog‘laning.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanib bo‘lmadi">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName;ni ishga tushirish uchun yetarlicha bo‘sh joy yo‘q.">
+<!ENTITY  no_space_to_start_error "&brandShortName;’ni ishga tushirish uchun bo‘sh joy yetarli emas.">
 <!ENTITY  error_loading_file "&brandShortName;ni ishga tushirish uchun kerakli fayllar yuklanayotganda xato yuz berdi.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Xatchoʻplar">
+<!ENTITY  bookmarks_title "Xatcho‘plar">
 <!ENTITY  history_title "Tarix">
-<!ENTITY  reading_list_title "O‘qilganlar ro‘yxati">
+<!ENTITY  reading_list_title "O‘qish ro‘yxati">
 
 <!ENTITY  switch_to_tab "Ichki oynaga o‘tish">
 
@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ichki oynalar">
 <!ENTITY new_tab_opened "Yangi ichki oynalar ochildi">
+<!ENTITY new_private_tab_opened "Yangi maxfiy ichki oyna ochildi">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ALMASHTIRISH">
 
 <!ENTITY settings "Sozlamalar">
 <!ENTITY settings_title "Sozlamalar">
 <!ENTITY pref_category_advanced "Qo‘shimcha">
 <!ENTITY pref_category_customize "Moslash">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Til">
+<!ENTITY pref_browser_locale "Brauzer tili">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Tizim standartlari">
+
 <!ENTITY pref_category_search3 "Izlash">
 <!ENTITY pref_category_search_summary "Izlash tizimlarini moslash">
 <!ENTITY pref_category_display "Ko‘rsatish">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Avtomatik yangilanishlar">
 <!ENTITY pref_home_updates_enabled "Yoqib qo‘yilgan">
 <!ENTITY pref_home_updates_wifi "Faqat Wi-Fi orqali">
+<!ENTITY pref_home_suggested_sites "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
+<!ENTITY pref_home_suggested_sites_summary "Biz sizni qiziqtiradi deb o‘ylagan saytlarga linklarni uy sahifangizda ko‘rsatish">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Moslash">
 <!ENTITY pref_header_display "Ko‘rsatish">
 <!ENTITY pref_header_privacy_short "Maxfiylik">
 <!ENTITY pref_header_help "Yordam">
+<!ENTITY pref_header_language "Til">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Dasturlash asboblari">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Faqat Wi-Fi orqali">
 <!ENTITY pref_update_autodownload_never "Hech qachon">
 <!ENTITY pref_update_autodownload_always "Doimo">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Yordam">
 
 <!ENTITY quit "Chiqish">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Sahifa nomi panelni siljitish">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Sahifa olib tashlandi">
+<!ENTITY page_removed "Sahifa olib tashlandi">
 
 <!ENTITY bookmark_edit_title "Xatcho‘plarni o‘zgartirish">
 <!ENTITY bookmark_edit_name "Nomi">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Tozalash uchun sozlamalar mavjud emas.">
 
 <!ENTITY reading_list_added "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;ga qo‘shildi">
-<!ENTITY reading_list_removed "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;dan olib tashlandi">
 <!ENTITY reading_list_failed "Sahifani \&quot;O‘qilganlar ro‘yxati\&quot;ga qo‘shib bo‘lmadi">
 <!ENTITY reading_list_duplicate "Sahifa allaqachon \&quot;O‘qish ro‘yxati\&quot;da">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Sayt qo‘shish">
 
 <!ENTITY home_history_title "Tarix">
+<!ENTITY home_clear_history_button "Brauzer tarixini tozalash">
+<!ENTITY home_clear_history_confirm "Haqiqatan ham brauzer tarixini tozalamoqchimisiz?">
 <!ENTITY home_bookmarks_empty "Bu yerda keyinroq ko‘rsatish uchun saqlangan xatcho‘plar">
 <!ENTITY home_last_tabs_title "So‘nggi ochilgan ichki oynalar">
 <!ENTITY home_last_tabs_open "So‘nggi marta ochilgan barcha ichki oynalarni ochish">
@@ -434,3 +461,11 @@ import qilinmoqda">
 
 <!ENTITY actionbar_menu "Menyu">
 <!ENTITY actionbar_done "Tayyor">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "So‘nggi sinxronlash: &formatS;">
