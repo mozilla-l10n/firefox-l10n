@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "I-&formatD; iithebhu">
 <!ENTITY new_tab_opened "Iithebhu ezintsha zivuliwe">
+<!ENTITY new_private_tab_opened "Ithebhu yangasese entsha ivuliwe">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ISWITSHI">
 
 <!ENTITY settings "Iisetingi">
 <!ENTITY settings_title "Iisetingi">
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_category_customize "Lungiselela">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Ulwimi">
+<!ENTITY pref_browser_locale "Ulwimi lokubhrawuza">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Inkqubo emiselweyo">
+
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
 <!ENTITY pref_category_display "Bonisa">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_home_updates_enabled "Ezivunyelweyo">
 <!ENTITY pref_home_updates_wifi "Phezu kwe-Wi-Fi kuphela">
+<!ENTITY pref_home_suggested_sites "Bonisa iingcamango zesayithi">
+<!ENTITY pref_home_suggested_sites_summary "Bonisa oondlelamfutshane ukuya kwiisayithi kwikhasi lekhaya lakho esicinga ukuba ungalifumana linomdla">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Lungiselela">
 <!ENTITY pref_header_display "Bonisa">
 <!ENTITY pref_header_privacy_short "Okwabucala">
 <!ENTITY pref_header_help "Uncedo">
+<!ENTITY pref_header_language "Ulwimi">
 <!ENTITY pref_header_vendor "I-&vendorShortName;">
 <!ENTITY pref_header_devtools "Izixhobo zabaphuhlisi">
 
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_update_autodownload_never "Ungaze">
 <!ENTITY pref_update_autodownload_always "Qho">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Uncedo">
 
 <!ENTITY quit "Yeka">
 
@@ -260,7 +283,7 @@ size. -->
 <!ENTITY contextmenu_remove "Shenxisa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
 <!ENTITY contextmenu_share "Yabelana">
-<!ENTITY contextmenu_pasteandgo "Ncamathisela  uhambe">
+<!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Tyhutyha ibha yomxholo">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY page_removed "Ikhasi lisusiwe">
 
 <!ENTITY bookmark_edit_title "Hlela isalathisi esiphawulayo">
 <!ENTITY bookmark_edit_name "Igama">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Akukho zisetingi zinokususwa.">
 
 <!ENTITY reading_list_added "Ikhasi longezwe kuludwe lwakho lokufunda">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Ayiphumelelanga ukongeza iphepha kuludwe lwakho lokufunda">
 <!ENTITY reading_list_duplicate "Iphepha selikho Kuluhlu Lokufunda lwakho">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -307,7 +332,7 @@ size. -->
 <!ENTITY masterpassword_password "Ipasiwedi">
 <!ENTITY masterpassword_confirm "Qinisekisa ipasiwedi">
 
-<!ENTITY button_ok "KULUNGILE">
+<!ENTITY button_ok "Kulungile">
 <!ENTITY button_cancel "Rhoxisa">
 <!ENTITY button_yes "Ewe">
 <!ENTITY button_no "Hayi">
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Yongeza isayithi">
 
 <!ENTITY home_history_title "Imbali">
+<!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
+<!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
 <!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
 <!ENTITY home_last_tabs_title "Ithebhu zexesha eligqithileyo">
 <!ENTITY home_last_tabs_open "Vula zonke iithebhu zexesha lokugqibela">
@@ -434,3 +461,11 @@ esuka kwi-Android">
 
 <!ENTITY actionbar_menu "Imenyu">
 <!ENTITY actionbar_done "Ugqibile">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Ingqamaniswe okokugqibela: &formatS;">

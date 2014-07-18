@@ -4,7 +4,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Ungqamaniso lweFirefox ">
+<!ENTITY syncBrand.fullName.label "Ungqamaniso lweFirefox">
 <!ENTITY syncBrand.shortName.label "Ungqamaniso">
 <!-- Main titles. -->
 
@@ -76,7 +76,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Imenyu yezalathisi eziphawulayo">
-<!ENTITY bookmarks.folder.places.label "I-&brandShortName; Home ">
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Iithegi">
 <!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
 <!ENTITY bookmarks.folder.unfiled.label "IZalathisi eziphawulayo ezingalungiswanga">
@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "Ithebhu yakho ithunyelwe!">
 <!ENTITY sync.text.tab.not.sent.label "Kubekho ingxaki ekuthumeleni ithebhu yakho.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Iiakhawunti zeFirefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "I-imeyili">
 <!ENTITY fxaccount_password_hint "Ipasiwedi">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
+<!ENTITY fxaccount_status_device_name "Igama lesixhobo">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "I-&syncBrand.shortName.label;: iyasebenza">
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">
