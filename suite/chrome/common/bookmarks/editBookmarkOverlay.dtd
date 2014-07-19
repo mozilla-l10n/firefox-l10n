@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label "Краткое имя:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "р">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Показать все метки">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "Загружать закладку в боковой панели">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "г">
 <!ENTITY editBookmarkOverlay.choose.label "Выбрать…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Создать папку">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "о">
