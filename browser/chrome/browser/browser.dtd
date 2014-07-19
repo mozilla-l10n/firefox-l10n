@@ -515,6 +515,7 @@
 <!ENTITY getUserMedia.selectWindowOrScreen.accesskey "i">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
 <!ENTITY webrtcIndicatorButton.label "Accesso fotocamera/microfono">
 <!ENTITY webrtcIndicatorButton.tooltip "Visualizza i siti con cui sono condivisi fotocamera o microfono">
 <!ENTITY loopCallButton.tooltip "Invita altre persone per parlare">
