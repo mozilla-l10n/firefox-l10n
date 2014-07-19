@@ -61,12 +61,29 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; 개의 탭">
-<!ENTITY new_tab_opened "열린 새 탭">
+<!ENTITY new_tab_opened "새 탭 열림">
+<!ENTITY new_private_tab_opened "새 사생활 탭 열림">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "스위치">
 
 <!ENTITY settings "프로그램 설정">
 <!ENTITY settings_title "프로그램 설정">
 <!ENTITY pref_category_advanced "고급">
 <!ENTITY pref_category_customize "사용자 설정">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "언어">
+<!ENTITY pref_browser_locale "브라우저 언어">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "시스템 기본">
+
 <!ENTITY pref_category_search3 "검색">
 <!ENTITY pref_category_search_summary "검색 엔진 커스터마이즈">
 <!ENTITY pref_category_display "디스플레이">
@@ -103,12 +120,15 @@
 <!ENTITY pref_home_updates "자동 업데이트">
 <!ENTITY pref_home_updates_enabled "사용함">
 <!ENTITY pref_home_updates_wifi "Wi-Fi에서만 사용함">
+<!ENTITY pref_home_suggested_sites "사이트 추천 보기">
+<!ENTITY pref_home_suggested_sites_summary "사용자가 관심있어할 사이트 바로가기를 보여줌">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "사용자 설정">
 <!ENTITY pref_header_display "디스플레이">
 <!ENTITY pref_header_privacy_short "개인 정보">
 <!ENTITY pref_header_help "도움말">
+<!ENTITY pref_header_language "언어">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "개발자 도구">
 
@@ -216,6 +236,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_update_autodownload_never "사용 안 함">
 <!ENTITY pref_update_autodownload_always "항상 사용함">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "도움말">
+
 <!ENTITY quit "종료">
 
 <!ENTITY addons "부가 기능">
@@ -279,7 +302,10 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "스크롤 제목창">
 
-<!ENTITY history_removed "방문 기록에서 웹 페이지 삭제 완료">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "페이지 삭제됨">
 
 <!ENTITY bookmark_edit_title "북마크 편집">
 <!ENTITY bookmark_edit_name "이름">
@@ -294,7 +320,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
 <!ENTITY reading_list_added "페이지를 읽기 목록에 추가 완료">
-<!ENTITY reading_list_removed "페이지를 읽기 목록에 삭제 완료">
 <!ENTITY reading_list_failed "페이지를 읽기 목록에 추가 실패">
 <!ENTITY reading_list_duplicate "이미 읽기 목록에 있음">
 
@@ -321,6 +346,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY home_top_sites_add "사이트 추가">
 
 <!ENTITY home_history_title "방문 기록">
+<!ENTITY home_clear_history_button "방문 기록 삭제">
+<!ENTITY home_clear_history_confirm "방문 기록을 삭제하시겠습니까?">
 <!ENTITY home_bookmarks_empty "저장한 북마크가 여기에 표시됩니다.">
 <!ENTITY home_last_tabs_title "이전 종료 시 탭">
 <!ENTITY home_last_tabs_open "이전 종료 시 탭 모두 열기">
@@ -433,3 +460,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "메뉴">
 <!ENTITY actionbar_done "완료">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "마지막 동기화: &formatS;">
+
+
+

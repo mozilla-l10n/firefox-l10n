@@ -80,7 +80,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label '태그'>
 <!ENTITY bookmarks.folder.toolbar.label '북마크 도구모음'>
-<!ENTITY bookmarks.folder.unfiled.label '전체 북마크'>
+<!ENTITY bookmarks.folder.unfiled.label '미분류 북마크'>
 <!ENTITY bookmarks.folder.desktop.label '데스크탑 북마크'>
 <!ENTITY bookmarks.folder.mobile.label '모바일 북마크'>
 <!ENTITY bookmarks.folder.readinglist.label '읽기 목록'>
@@ -108,6 +108,8 @@
 <!ENTITY sync.text.tab.not.sent.label '탭을 보내는데 문제가 생겼습니다.'>
 
 <!-- Firefox account strings. -->
+
+<!ENTITY fxaccount_full_label 'Firefox 계정'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -170,6 +172,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
+<!ENTITY fxaccount_status_device_name '기기명'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 활성화'>
 <!ENTITY fxaccount_status_needs_verification2 '인증되지 않은 계정입니다. 인증 메일을 재전송하려면 누르세요.'>
