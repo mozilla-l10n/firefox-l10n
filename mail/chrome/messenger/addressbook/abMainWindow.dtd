@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Savybės…">
-<!ENTITY propertiesCmd.accesskey                        "S">
+<!ENTITY propertiesCmd2.label                           "Savybės">
+<!ENTITY propertiesCmd2.accesskey                       "S">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,10 +122,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportas…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Nuostatos…">
-<!ENTITY preferencesCmd.accesskey                       "N">
+<!ENTITY preferencesCmd2.label                          "Nuostatos">
+<!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Nuostatos">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
+<!ENTITY preferencesCmdUnix.accesskey                   "N">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Naujas adresatas">

@@ -12,7 +12,7 @@
 
 <!ENTITY submitTelemetry.label         "Siųsti našumo ataskaitas">
 <!ENTITY submitTelemetry.accesskey     "n">
-<!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie „Telemetry“">
+<!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie telemetriją">
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
 

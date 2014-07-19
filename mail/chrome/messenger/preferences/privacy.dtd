@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Laiškų intarpai">
+
+<!ENTITY acceptRemoteContent.label "Leisti intarpus iš tinklo laiškuose">
+<!ENTITY acceptRemoteContent.accesskey "L">
+<!ENTITY remoteContentExceptions.label "Išimtys…">
+<!ENTITY remoteContentExceptions.accesskey "I">
+<!ENTITY acceptRemoteContentInfo.label "Sužinoti daugiau apie privatumo problemas, leidžiant intarpus iš tinklo">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Saityno turinys">
+
+<!ENTITY acceptCookies.label "Leisti įrašyti slapukus">
+<!ENTITY acceptCookies.accesskey "s">
+<!ENTITY acceptThirdParty.pre.label "Leisti trečiųjų šalių slapukus:">
+<!ENTITY acceptThirdParty.pre.accesskey "t">
+<!ENTITY acceptThirdParty.always.label "visada">
+<!ENTITY acceptThirdParty.never.label "niekada">
+<!ENTITY acceptThirdParty.visited.label "tik lankytų">
+<!ENTITY keepUntil.label "Laikyti iki:">
+<!ENTITY keepUntil.accesskey "k">
+<!ENTITY expire.label "jų galiojimo laiko pabaigos">
+<!ENTITY close.label "„&brandShortName;“ seanso pabaigos">
+<!ENTITY askEachTime.label "klausti prieš priimant slapuką">
+<!ENTITY cookieExceptions.label "Išimtys…">
+<!ENTITY cookieExceptions.accesskey "š">
+<!ENTITY showCookies.label "Rodyti slapukus…">
+<!ENTITY showCookies.accesskey "R">
+
+<!ENTITY dntTrackingNopref.label2 "Neinformuoti svetainių apie jūsų požiūrį į sekimą">
+<!ENTITY dntTrackingNopref.accesskey "e">
+<!ENTITY dntTrackingNotOkay.label2 "Nurodyti svetainėms, kad jos jūsų nesektų">
+<!ENTITY dntTrackingNotOkay.accesskey "N">
+<!ENTITY dntTrackingOkay.label2 "Nurodyti svetainėms, kad jos jus sektų">
+<!ENTITY dntTrackingOkay.accesskey "u">
+<!ENTITY doNotTrackInfo.label "Sužinoti daugiau apie „Do Not Track“">
