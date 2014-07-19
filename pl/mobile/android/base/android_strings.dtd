@@ -109,7 +109,6 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_home "Strona domowa">
 <!ENTITY pref_category_home_summary "Dostosuj stronę domową">
 <!ENTITY pref_category_home_panels "Panele">
-<!ENTITY pref_home_add_panel "Dodaj panel">
 <!ENTITY home_add_panel_title "Dodaj nowy panel">
 <!ENTITY home_add_panel_empty "Niestety nie znaleźliśmy żadnych paneli do dodania.">
 <!-- Localization note (home_add_panel_installed):
