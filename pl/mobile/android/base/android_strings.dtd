@@ -332,6 +332,7 @@ size. -->
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
 <!ENTITY home_clear_history_confirm "Czy na pewno chcesz wyczyścić historię przeglądania?">
 <!ENTITY home_bookmarks_empty "Tutaj pojawiają się zachowane zakładki.">
+<!ENTITY home_closed_tabs_title "Niedawno zamknięte karty">
 <!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
 <!ENTITY home_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
 <!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
