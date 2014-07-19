@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-- License, v. 2.0. If a copy of the MPL was not distributed with this
-- file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Edição: (sem assunto)">
@@ -23,9 +23,8 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Página web">
+<!ENTITY attachPageCmd.label "Página web...">
 <!ENTITY attachPageCmd.accesskey "w">
-
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
@@ -89,18 +88,21 @@
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Localizar e substituir">
-<!ENTITY findCmd.key "L">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findReplaceCmd.key "n">
+<!ENTITY findBarCmd.label "Localizar...">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituir...">
+<!ENTITY findReplaceCmd.accesskey "c">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar novamente">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "z">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
+<!ENTITY findPrevCmd.accesskey "t">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -181,11 +183,11 @@
 <!ENTITY addressBookCmd.label "Livro de endereços">
 <!ENTITY addressBookCmd.accesskey "i">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Definições da conta">
-<!ENTITY accountManagerCmd.accesskey "s">
-<!ENTITY accountManagerCmdUnix.accesskey "s">
-<!ENTITY preferencesCmd.label "Opções">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmd2.label "Definições da conta">
+<!ENTITY accountManagerCmd2.accesskey "s">
+<!ENTITY accountManagerCmdUnix2.accesskey "s">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -232,7 +234,6 @@ Subject: rows. It should be larger than the largest Header label -->
 <!ENTITY followupAddr.label "Reenviar para:">
 <!ENTITY subject.label "Assunto:">
 <!ENTITY subject.accesskey "a">
-
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
 to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
@@ -249,7 +250,7 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY smiley8Cmd.label "Surpreso">
 <!ENTITY smiley9Cmd.label "Beijos">
 <!ENTITY smiley10Cmd.label "Berro">
-<!ENTITY smiley11Cmd.label "SimpáticoLegal">
+<!ENTITY smiley11Cmd.label "Simpático">
 <!ENTITY smiley12Cmd.label "Dinheiro na boca">
 <!ENTITY smiley13Cmd.label "Pé na boca">
 <!ENTITY smiley14Cmd.label "Inocente">
@@ -285,15 +286,15 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexar ficheiro(s)">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachCloud.label "Filelink">
+<!ENTITY attachCloud.label "Filelink...">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Converter para">
+<!ENTITY convertCloud.label "Converter para...">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Cancelar envio">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Anexar página web">
+<!ENTITY attachPage.label "Anexar página web...">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
@@ -302,4 +303,3 @@ to the strings in attachmentCount in composeMsgs.properties -->
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
-
