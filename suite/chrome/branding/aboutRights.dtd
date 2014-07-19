@@ -30,23 +30,39 @@
 <!ENTITY rights.intro-point3c ".">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "El &brandShortName; ofereix serveis opcionals d'informació del lloc web, com per exemple un servei d'actualització de complements; tot i així, no podem garantir que funcionin correctament ni que no continguin errors. Per obtenir més detalls, inclosa la informació de com inhabilitar els serveis, vegeu ">
+<!ENTITY rights2.intro-point4a "El &brandShortName; ofereix serveis opcionals d'informació del lloc web, com per exemple serveis de complements o de navegació segura; tot i així, no podem garantir que funcionin correctament ni que no continguin errors. Per obtenir més detalls, inclosa la informació de com inhabilitar els serveis, vegeu ">
 <!ENTITY rights.intro-point4b "les condicions del servei">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Serveis del lloc web del &brandFullName;">
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "El &brandFullName; ofereix serveis opcionals («Serveis»), com el servei d'actualització de complements, que teniu disponible per utilitzar-lo amb aquesta versió binària del &brandShortName; tal com es descriu a continuació. Si no voleu utilitzar els Serveis o no trobeu acceptables els termes següents, podeu inhabilitar el servei d'actualització de complements obrint les preferències de l'aplicació, i anant a la secció ">
-<!ENTITY rights.webservices-b "Avançat">
-<!ENTITY rights.webservices-c ", a continuació a la pestanya ">
-<!ENTITY rights.webservices-d "Actualització">
-<!ENTITY rights.webservices-e ", cal desmarcar les caselles de «Cerca actualitzacions automàticament de».">
+<!ENTITY rights2.webservices-a "El &brandFullName; ofereix serveis opcionals («Serveis»), com el servei de recomanació de complements o la funció de navegació segura, que podeu utilitzar amb aquesta versió binària del &brandShortName; tal com es descriu a continuació. Per defecte, aquests serveis estan habilitats. Si no voleu utilitzar els Serveis o no trobeu acceptables les condicions següents, vegeu les instruccions sobre com inhabilitar una funció o un Servei concrets ">
+<!ENTITY rights2.webservices-b "aquí">
+<!ENTITY rights2.webservices-c ". En les preferències de l'aplicació es poden inhabilitar altres funcionalitats i Serveis.">
+<!-- add-on related points for branded builds -->
+
+<!ENTITY rights.addons-a "Serveis de complements: ">
+<!ENTITY rights.addons-b "Per defecte, el &brandShortName; us suggerirà complements a la pàgina &view.discover.label; i cercarà actualitzacions periòdicament. Si voleu inhabilitar aquestes funcions per evitar enviar al servidor la informació dels complements que teniu instal·lats, seguiu aquests passos:">
+<!ENTITY rights.addons-term1 "Obriu les preferències de l'aplicació">
+<!ENTITY rights.addons-term2 "Seleccioneu la subfinestra «&smart.label;» a la categoria «&advance.label;»">
+<!ENTITY rights.addons-term3 "Desmarqueu les opcions «&autoAddOnsUpdates.label;» i «&enablePersonalized.label;»">
+<!ENTITY rights.addons-term4 "A partir d'aquell moment, els serveis de complements estaran inhabilitats.">
+<!-- safe browsing points for branded builds -->
+
+
+<!ENTITY rights.safebrowsing-a "Navegació segura: ">
+<!ENTITY rights.safebrowsing-b "No és recomanable inhabilitar la funcionalitat de navegació segura perquè pot comportar que visiteu llocs insegurs. Si voleu inhabilitar-la completament, seguiu els passos següents:">
+<!ENTITY rights.safebrowsing-term1 "Obriu les preferències de l'aplicació">
+<!ENTITY rights.safebrowsing-term2 "Seleccioneu la subfinestra «&security.label;» principal">
+<!ENTITY rights.safebrowsing-term3 "Desmarqueu les opcions «&blockAttackSites.label;» i «&blockWebForgeries.label;»">
+<!ENTITY rights.safebrowsing-term4 "A partir d'aquell moment, la navegació segura estarà inhabilitada">
 <!-- points 1-6 text for branded builds -->
+
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; pot discontinuar o canviar els Serveis en qualsevol moment.">
 <!ENTITY rights.webservices-term2 "Podeu utilitzar aquests Serveis amb la versió corresponent del &brandShortName;, i teniu tot el dret de fer-ho. &vendorShortName; i els llicenciadors es reserven tots els altres drets del Servei. Aquests termes no intenten limitar cap dels drets que s'han donat amb la llicència de codi lliure aplicable al &brandShortName; i al corresponent codi font de les versions del &brandShortName;.">

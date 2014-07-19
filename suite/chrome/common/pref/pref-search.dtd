@@ -15,7 +15,7 @@
 
 <!ENTITY searchResults.label              "Resultats de la cerca">
 
-<!ENTITY openInTab.label                  "Obre noves pestanyes per als resultats de la barra lateral de cerca">
+<!ENTITY openInTab.label                  "Obre pestanyes noves per als resultats de la barra lateral de cerca">
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY openContextSearchTab.label       "Obre una pestanya en comptes d'una finestra per a les cerques web des del menú contextual">
 <!ENTITY openContextSearchTab.accesskey   "t">
