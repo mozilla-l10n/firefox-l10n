@@ -224,8 +224,8 @@ la ventana de Correo y noticias:</p>
     <ul>
       <li><strong>Ninguna</strong>: &brandShortName; usará una conexión simple,
         sin ningún tipo de cifrado. Debería escoger esta opción
-        <strong>sólo</strong> si su servidor de entrada no admite ningún tipo de
-        seguridad.</li>
+        <em>sólo</em> si su servidor de entrada permite el cifrado de la
+        contraseña o no admite ningún tipo de seguridad.</li>
       <li><strong>STARTTLS</strong>: requiere una conexión cifrada, usa el
         método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
         usará normlamente el puerto IMAP estándar 143.</li>
@@ -233,10 +233,41 @@ la ventana de Correo y noticias:</p>
         método IMAP-sobre-SSL. El puerto predeterminado para éste es 993.</li>
     </ul>
   </li>
-  <li><strong>Usar identificación segura</strong>: escoja este valor si quiere
-    usar mecanismos seguros para iniciar sesión, tales como CRAM-MD5. Si no
-    está seguro de si su servicio permite esta característica, póngase en
-    contacto con su proveedor de servicios o administrador del sistema.</li>
+  <li><strong>Método de identificación</strong>: elija una de las opciones
+    disponibles para usar <a href="glossary.xhtml#secure_authentication">identificación
+    segura</a> con su servidor IMAP de entrada. Puede elegir una de las siguientes:
+    <ul>
+      <li><strong>Contraseña normal</strong>: &brandShortName; le enviará su
+        contraseña como texto en claro, sin ningún tipo de cifrado. Esta opción es
+        segura cuando se usa SSL/TLS o STARTTLS.</li>
+      <li><strong>Contraseña, transmitida de forma insegura</strong>: igual que
+        <q>contraseña normal</q> pero sólo está disponible cuando se selecciona
+        <q>Ninguna</q> como seguridad de la conexión y en consecuencia no es
+        segura. <em>No</em> elija esta opción a menos que su servidor de entrada
+        no admita ningún tipo de seguridad en absoluto.</li>
+      <li><strong>Contraseña cifrada</strong>: requiere el cifrado de las
+        credenciales del usuario como permita el servidor, como por ejemplo
+        <a href="glossary.xhtml#cram_md5">CRAM-MD5</a>. Esta opción es segura
+        para su uso incluso si la configuración de la seguridad de la conexión
+        es <q>Ninguna</q>, pero de esta forma sólo se asegurará la contraseña,
+        no ningún contenido.</li>
+      <li><strong>Kerberos / GSSAPI</strong>: elija esta opción si su equipo
+        está configurado para identificación segura usando
+        <a href="glossary.xhtml#kerberos">Kerberos</a>. Puede que necesite
+        obtener un tique Kerberos usando un programa separado, o puede que le
+        sea asignado al iniciar sesión en su equipo.</li>
+      <li><strong>NTLM</strong>: elija esta opción si su equipo está configurado
+        para identificación segura usando un <a href="glossary.xhtml#ntlm">NT
+        LAN Manager</a>. En general, Kerberos es preferible a NTLM ya que
+        proporciona un nivel más alto de seguridad.</li>
+      <li><strong>Certificado TLS</strong>: elija esta opción para usar
+        <a href="glossary.xhtml#certificate-based_authentication">identificación
+        basada en certificado</a> en una conexión con SSL/TLS o STARTTLS activados,
+        sin necesidad de proporcionad una contraseña para identificación.</li>
+    </ul>
+    Si no está seguro de qué opciones permite su servidor, contacte con su
+    proveedor de servicios o administrador del sistema.
+  </li>
   <li><strong>Comprobar si hay mensajes nuevo al iniciar</strong>: elija esta
     opción si quiere que &brandShortName; compruebe automáticamente si hay
     mensajes nuevos para esta cuenta al iniciar el correo y noticias de
@@ -333,9 +364,9 @@ sección</a>]</p>
     POP de entrada. Puede elegir una de las siguientes:
     <ul>
       <li><strong>Ninguna</strong>: &brandShortName; usará una conexión simple,
-        sin ningún tipo de cifrado. Debería escoger esta opción
-        <strong>sólo</strong> si su servidor de entrada no admite ningún tipo de
-        seguridad.</li>
+        sin ningún tipo de cifrado. Debería escoger esta opción <em>sólo</em>
+        si su servidor de entrada permite el cifrado de contraseñas o no
+        admite ningún tipo de seguridad.</li>
       <li><strong>STARTTLS</strong>: requiere una conexión cifrada, usa el
         método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
         usará normlamente el puerto POP estándar 110.</li>
@@ -343,10 +374,41 @@ sección</a>]</p>
         método POP-sobre-SSL. El puerto predeterminado para éste es 995.</li>
     </ul>
   </li>
-  <li><strong>Usar identificación segura</strong>: escoja este valor si quiere
-    usar mecanismos seguros para iniciar sesión, tales como CRAM-MD5 o APOP. Si
-    no está seguro de si su servicio permite esta característica, póngase en
-    contacto con su proveedor de servicios o administrador del sistema.</li>
+  <li><strong>Método de identificación</strong>: elija una de las opciones
+    disponibles para usar <a href="glossary.xhtml#secure_authentication">identificación
+    segura</a> con su servidor POP de entrada. Puede elegir una de las siguientes:
+    <ul>
+      <li><strong>Contraseña normal</strong>: &brandShortName; le enviará su
+        contraseña como texto en claro, sin ningún tipo de cifrado. Esta opción es
+        segura cuando se usa SSL/TLS o STARTTLS.</li>
+      <li><strong>Contraseña, transmitida de forma insegura</strong>: igual que
+        <q>contraseña normal</q> pero sólo está disponible cuando se selecciona
+        <q>Ninguna</q> como seguridad de la conexión y en consecuencia no es
+        segura. <em>No</em> elija esta opción a menos que su servidor de entrada
+        no admita ningún tipo de seguridad en absoluto.</li>
+      <li><strong>Contraseña cifrada</strong>: requiere el cifrado de las
+        credenciales del usuario como permita el servidor, como por ejemplo
+        <a href="glossary.xhtml#cram_md5">CRAM-MD5</a>. Esta opción es segura
+        para su uso incluso si la configuración de la seguridad de la conexión
+        es <q>Ninguna</q>, pero de esta forma sólo se asegurará la contraseña,
+        no ningún contenido.</li>
+      <li><strong>Kerberos / GSSAPI</strong>: elija esta opción si su equipo
+        está configurado para identificación segura usando
+        <a href="glossary.xhtml#kerberos">Kerberos</a>. Puede que necesite
+        obtener un tique Kerberos usando un programa separado, o puede que le
+        sea asignado al iniciar sesión en su equipo.</li>
+      <li><strong>NTLM</strong>: elija esta opción si su equipo está configurado
+        para identificación segura usando un <a href="glossary.xhtml#ntlm">NT
+        LAN Manager</a>. En general, Kerberos es preferible a NTLM ya que
+        proporciona un nivel más alto de seguridad.</li>
+      <li><strong>Certificado TLS</strong>: elija esta opción para usar
+        <a href="glossary.xhtml#certificate-based_authentication">identificación
+        basada en certificado</a> en una conexión con SSL/TLS o STARTTLS activados,
+        sin necesidad de proporcionad una contraseña para identificación.</li>
+    </ul>
+    Si no está seguro de qué opciones permite su servidor, contacte con su
+    proveedor de servicios o administrador del sistema.
+  </li>
   <li><strong>Comprobar si hay mensajes nuevos al iniciar</strong>: elija esta
     opción si quiere que &brandShortName; compruebe automáticamente si hay
     mensajes nuevos para esta cuenta al iniciar el correo y noticias de
@@ -416,9 +478,9 @@ sección</a>]</p>
     que el nombre del servidor introducido es correcto.</li>
   <li><strong>Puerto</strong>: a menos que su proveedor o administrador del
     sistema le indique lo contrario, deje esta opción como está.</li>
-  <li><strong>Seguridad de la conexión</strong>: elija &quot;SSL/TLS&quot; si
+  <li><strong>Seguridad de la conexión</strong>: elija <q>SSL/TLS</q> si
     su servidor de noticias está configurado para enviar y recibir mensajes
-    cifrados, o &quot;Ninguna&quot; si no lo admite. Si no está seguro,
+    cifrados, o <q>Ninguna</q> si no lo admite. Si no está seguro,
     contacte con su proveedor de servicios o administrador del sistema.</li>
   <li><strong>Comprobar si hay mensajes nuevos al iniciar</strong>: elija este
     valor para comprobar automáticamente si hay nuevos mensajes al abrir el
@@ -1172,34 +1234,66 @@ sección</a>]</p>
     servidor SMTP. De manera predeterminada, contiene el puerto estándar
     para el cifrado especificado. Cámbielo si el servidor de correo
     espera las conexiones en un puerto no estándar.</li>
-  <li><strong>Usar nombre y contraseña</strong>: si su servidor SMTP requiere
-    una identificación para enviar correo, seleccione esta opción e
-    introduzca su nombre de usuario. La primera vez que envíe correo, se le
-    pedirá que introduzca la contraseña. En ese momento puede indicar a
-    &brandShortName; que guarde su contraseña para futuras sesiones.</li>
-  <li><strong>Usar identificación segura</strong>: elija esta opción si quiere
-    usar mecanismos seguros para iniciar sesión, como CRAM-MD5. Si no está
-    seguro de si servicio admite esto, contacte con su proveedor de servicio o
-    administrador del sistema.</li>
-  <li><strong>Usar conexión segura</strong>: hay dos métodos para establecer
-    una <a href="glossary.xhtml#secure_connection">conexión segura</a> a su
-    servidor de salida. Escoja la que admite su servidor (si elige una opción
-    para la cual su servidor no está configurado, obtendrá un mensaje de error
-    al intentar enviar correo):
+  <li><strong>Seguridad de la conexión</strong>: elija una de las opciones
+    disponibles para establecer una
+    <a href="glossary.xhtml#secure_connection">conexión segura</a> a su
+    servidor SMTP de salida. Puede elegir una de estas:
     <ul>
-      <li><strong>STARTTLS, si está disponible</strong>: &brandShortName;
-        intentará negociar el cifrado usando el método
-        <a href="glossary.xhtml#starttls">STARTTLS</a>. Si el
-        servidor no lo permite, se usará una conexión no cifrada.</li>
+      <li><strong>Ninguna</strong>: &brandShortName; usará una conexión simple,
+        sin ningún tipo de cifrado. Debería elegir esta <em>sólo</em> si su
+        servidor saliente permite el cifrado de contraseñas, no permite ningún
+        tipo de seguridad en absoluto o si no se requiere identificación para
+        enviar mensajes.</li>
       <li><strong>STARTTLS</strong>: requiere una conexión cifrada, y usa el
         método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
-        funcionará casi con toda seguridad en el puerto estándar SMTP
-        (25).</li>
+        funcionará casi con toda seguridad en el puerto SMTP para envíos 587
+        o el puerto genérico 25.</li>
       <li><strong>SSL/TLS</strong>: requiere una conexión cifrada, usa
         el método SMTP-sobre-SSL (también conocido como SMTPS). El puerto
         predeterminado para esta opción es 465.</li>
     </ul>
+    Si elige una opción para la que su servidor no está configurado, obtendrá
+    un mensaje de error al enviar correo.
   </li>
+  <li><strong>Método de identificación</strong>: elija una de las opciones
+    disponibles para usar
+    <a href="glossary.xhtml#secure_authentication">identificación segura</a>
+    con su servidor SMTP de salida. Puede elegir una de las siguientes:
+    <ul>
+      <li><strong>Sin identificación</strong>: no se enviarán usuario ni
+        contraseña al servidor. Puede elegir esta opción si el servidor SMTP
+        está en una red local o si se proporcionan otros medios para
+        identificar al usuario, como <q>POP antes de SMTP</q>.</li>
+      <li><strong>Contraseña normal</strong>: &brandShortName; le enviará su
+        contraseña como texto en claro, sin ningún tipo de cifrado. Esta opción es
+        segura cuando se usa SSL/TLS o STARTTLS.</li>
+      <li><strong>Contraseña, transmitida de forma insegura</strong>: igual que
+        <q>contraseña normal</q> pero sólo está disponible cuando se selecciona
+        <q>Ninguna</q> como seguridad de la conexión y en consecuencia no es
+        segura. <em>No</em> elija esta opción a menos que su servidor de salida
+        no admita ningún tipo de seguridad en absoluto.</li>
+      <li><strong>Contraseña cifrada</strong>: requiere el cifrado de las
+        credenciales del usuario como permita el servidor, como por ejemplo
+        <a href="glossary.xhtml#cram_md5">CRAM-MD5</a>. Esta opción es segura
+        para su uso incluso si la configuración de la seguridad de la conexión
+        es <q>Ninguna</q>, pero de esta forma sólo se asegurará la contraseña,
+        no ningún contenido.</li>
+      <li><strong>Kerberos / GSSAPI</strong>: elija esta opción si su equipo
+        está configurado para identificación segura usando
+        <a href="glossary.xhtml#kerberos">Kerberos</a>. Puede que necesite
+        obtener un tique Kerberos usando un programa separado, o puede que le
+        sea asignado al iniciar sesión en su equipo.</li>
+      <li><strong>NTLM</strong>: elija esta opción si su equipo está configurado
+        para identificación segura usando un <a href="glossary.xhtml#ntlm">NT
+        LAN Manager</a>. En general, Kerberos es preferible a NTLM ya que
+        proporciona un nivel más alto de seguridad.</li>
+    </ul>
+    Si no está seguro de qué opciones permite su servidor, contacte con su
+    proveedor de servicios o administrador del sistema.
+  </li>
+  <li><strong>Nombre de usuario</strong>: el nombre de usuario que especificó
+    cuando creó esta cuenta. No está disponible si está seleccionada <q>Sin
+    identificación</q>.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la

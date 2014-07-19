@@ -53,11 +53,13 @@
         <rdf:li> <rdf:Description nc:name="consejo" nc:link="glossary.xhtml#tooltip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="consentimiento impl&#237;cito" nc:link="glossary.xhtml#implicit_consent"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="conexión segura" nc:link="glossary.xhtml#secure_connection"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="contrase&#241;a cifrada" nc:link="glossary.xhtml#encrypted_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="contrase&#241;a de copia de seguridad para certificados" nc:link="glossary.xhtml#certificate_backup_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="contrase&#241;a maestra" nc:link="glossary.xhtml#master_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="cookie" nc:link="glossary.xhtml#cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="cookie externa" nc:link="glossary.xhtml#foreign_cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="cookie de terceros" nc:link="glossary.xhtml#third-party_cookie"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="CRAM-MD5" nc:link="glossary.xhtml#cram_md5"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="criptograf&#237;a" nc:link="glossary.xhtml#cryptography"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="criptograf&#237;a con clave p&#250;blica" nc:link="glossary.xhtml#public-key_cryptography"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="CRL (lista de revocaci&#243;n de certificados)" nc:link="glossary.xhtml#crl"/> </rdf:li>
@@ -72,6 +74,7 @@
         <rdf:li> <rdf:Description nc:name="firma de objetos" nc:link="glossary.xhtml#object_signing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="firma digital" nc:link="glossary.xhtml#digital_signature"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP (protocolo de transferencia de ficheros)" nc:link="glossary.xhtml#ftp"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="GSSAPI" nc:link="glossary.xhtml#gssapi"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTML (lenguaje de hipertexto basado en marcas)" nc:link="glossary.xhtml#html"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTP (protocolo de transferencias de hipertexto)" nc:link="glossary.xhtml#http"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTPS (protocolo seguro de transferencias de hipertexto)" nc:link="glossary.xhtml#https"/> </rdf:li>
@@ -93,6 +96,7 @@
         <rdf:li> <rdf:Description nc:name="ISP (proveedor de servicios de Internet)" nc:link="glossary.xhtml#isp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Java" nc:link="glossary.xhtml#java"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="JavaScript" nc:link="glossary.xhtml#javascript"/> </rdf:li>
+         <rdf:li> <rdf:Description nc:name="Kerberos" nc:link="glossary.xhtml#kerberos"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="LDAP (protocolo ligero de acceso a directorios)" nc:link="glossary.xhtml#ldap"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Malware" nc:link="glossary.xhtml#malware"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="marcador" nc:link="glossary.xhtml#bookmark"/> </rdf:li>
@@ -105,6 +109,7 @@
         <rdf:li> <rdf:Description nc:name="navegación segura" nc:link="glossary.xhtml#safe_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="no repudio" nc:link="glossary.xhtml#nonrepudiation"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="nombre de asunto" nc:link="glossary.xhtml#subject_name"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="NTLM" nc:link="glossary.xhtml#ntlm"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OCSP (protocolo de estado del certificado en l&#237;nea)" nc:link="glossary.xhtml#ocsp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OPML" nc:link="glossary.xhtml#opml"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="p&#225;gina de inicio" nc:link="glossary.xhtml#home_page"/> </rdf:li>
