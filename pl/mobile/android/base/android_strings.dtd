@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Zakładki">
 <!ENTITY  history_title "Historia">
 <!ENTITY  reading_list_title "Do przeczytania">
+<!ENTITY  recent_tabs_title "Ostatnio otwarte karty">
 
 <!ENTITY  switch_to_tab "Przełącz na kartę">
 
