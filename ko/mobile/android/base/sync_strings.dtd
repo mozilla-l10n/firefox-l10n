@@ -80,7 +80,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label '태그'>
 <!ENTITY bookmarks.folder.toolbar.label '북마크 도구모음'>
-<!ENTITY bookmarks.folder.unfiled.label '전체 북마크'>
+<!ENTITY bookmarks.folder.unfiled.label '미분류 북마크'>
 <!ENTITY bookmarks.folder.desktop.label '데스크탑 북마크'>
 <!ENTITY bookmarks.folder.mobile.label '모바일 북마크'>
 <!ENTITY bookmarks.folder.readinglist.label '읽기 목록'>
