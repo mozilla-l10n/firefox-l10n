@@ -285,6 +285,17 @@
   terceros. La mayoría de las veces, el servidor es el que proporciona el
   certificado para identificarse a sí mismo.</dd>
 
+<dt id="secure_connection">conexión segura</dt><dd>Una conexión que usa
+  <a href="#ssl">SSL</a> o <a href="#tls">TLS</a>. Toda la comunicación entre
+  su equipo y el servidor está <a href="#encryption">cifrada</a> de modo que
+  nadie que esté espiando su conexión podrá leerlo. Tenga en cuenta que los
+  datos sólo se cifran durante la transmisión entre su aplicación cliente y el
+  servidor, tras lo cual ya no está cifrada. Para probar su identidad al
+  cliente, el servidor necesita identificarse a sí mismo usando un
+  <a href="#certificate">certificado</a>. Un certificado no válido puede
+  indicar un ataque en el servidor o la conexión, por lo que es importante
+  hacer caso a los avisos sobre certificados.</dd>
+
 <dt id="tooltip">consejo.</dt><dd>Una pequeña caja de texto que aparece cuando
   se mantiene el puntero del ratón unos segundos sobre ciertos elementos de la
   pantalla. Normalmente contienen información relativa al elemento sobre el
@@ -299,6 +310,15 @@
   web que el sitio proporciona para ese fin. Mientras la información se recoge,
   puede que no se solicite ningún consentimiento. Vea también
   <a href="#user_tracking">rastreo del usuario</a></dd>
+
+<dt id="encrypted_password">contraseña cifrada</dt><dd>Usada para la
+  <a href="#password-based_authentication">identificación basada en
+  contraseña</a> para conseguir la
+  <a href="#secure_authentication">identificación segura</a>. La contraseña del
+  usuario se cifra antes de ser enviada al servidor (p.e., por métodos como
+  <a href="#cram_md5">CRAM-MD5</a>) para evitar que nadie espiando la conexión
+  pueda verla en texto en claro. Este mecanismo se usa frecuentemente cuando no
+  hay disponible una <a href="#secure_connection">conexión segura</a>.</dd>
 
 <dt id="certificate_backup_password">contraseña de copia de seguridad para
   certificados.</dt><dd>Una contraseña que protege un certificado del que se
@@ -343,6 +363,10 @@
   cookies en su navegador, incluso si Vd. no lo visita directamente. Las
   cookies de terceros también se conocen como <q>cookies externas</q>.</dd>
 
+<dt id="cram_md5">CRAM-MD5</dt><dd>Un
+  <a href="#cryptographic_algorithm">algoritmo criptográfico</a> usado para el
+  <a href="#encrypted_password">cifrado de contraseñas</a> para conseguir
+  <a href="#secure_authentication">identificación segura</a>.</dd>
 
 <dt id="cryptography">criptografía.</dt><dd>El arte y práctica de ensamblar
   (cifrar) y desensamblar (descifrar) información. Por ejemplo, las técnicas
@@ -453,7 +477,11 @@
   <dd>Un estándar que permite a los usuarios transferir ficheros de un ordenador a otro a
   través de la red. Se puede usar el navegador para obtener ficheros
   usando FTP.</dd>
-  
+
+<dt id="gssapi">GSSAPI (Generic Security Services Application Program
+  Interface, Interfaz de programación de aplicaciones de servicios genéricos de
+  seguridad)</dt><dd>Ver <a href="#kerberos">Kerberos</a>.</dd>
+     
 <dt id="html">HTML (lenguaje de hipertexto basado en marcas).</dt>
   <dd> El formato que se usa en las páginas web. El estándar HTML define marcas
   (tags) o códigos para definir las propiedades del texto, tipos de
@@ -499,12 +527,13 @@
   "#certificate-based_authentication">identificación con
   certificados</a>, <a href="#client_authentication">identificación del
   cliente</a>, <a href="#server_authentication">identificación del
-  servidor</a>.</dd>
+  servidor</a>, <a href="#secure_authentication">identificación
+  segura</a>.</dd>
 
 <dt id="certificate-based_authentication">identificación con certificados.</dt>
   <dd>Verificación de la identidad basada en
-  certificados y cifrado mediante clave pública. Ver también
-  <a href="#password-based_authentication">identificación con
+  <a href="#certificate">certificados</a> y cifrado mediante clave pública.
+  Ver también <a href="#password-based_authentication">identificación con
   contraseñas</a>.</dd>
 
 <dt id="password-based_authentication">identificación con contraseñas.</dt>
@@ -538,10 +567,12 @@
   no manda nada. Ver también <a href="#spoofing">spoofing</a>.</dd>
 
 <dt id="secure_authentication">identificación segura</dt><dd>Un tipo de
-  <a href="#authentication">identificación</a> que usa una
-  <a href="#secure_connection">conexión segura</a> de modo que la comunicación
-  entre el cliente y el servidor esté cifrada.</dd>
-
+  <a href="#authentication">identificación</a> que se puede conseguir
+  mediante el <a href="#encrypted_password">cifrado de la contraseña</a> o por
+  mecanismos como <a href="#kerberos">Kerberos</a> y <a href="#ntlm">NTLM</a>.
+  No debe confundirse con una <a href="#secure_connection">conexión
+  segura</a>.</dd>
+  
 <dt id="eavesdropping">indiscreción.</dt><dd>Intercepción no
   deseada de la información enviada a través de la red por una
   entidad a la que dicha información no está destinada.</dd>
@@ -593,6 +624,15 @@
   técnicamente distintos. No es necesario tener Java instalado
   para que JavaScript funcione correctamente.</dd>
 
+<dt id="kerberos">Kerberos</dt><dd>Un mecanismo para usar
+  <em>single-signon</em> (inicio de sesión único),
+  <a href="#smart_card">tarjetas inteligentes</a>, u otros métodos
+  personalizados para <a href="#authentication">identificar</a> el acceso
+  sin utilizar <a href="#password-based_authentication">contraseñas</a> para
+  cada servicio individual. Se usa sobre todo en grandes redes
+  empresariales/institucionales donde la identificación se proporciona por
+  servicios centralizados como <a href="#ldap">LDAP</a>.</dd>
+   
 <dt id="ldap">LDAP (protocolo ligero de acceso a directorios).</dt>
   <dd>Un protocolo estándar para acceder a servicios de directorio,
   como libros de direcciones corporativos, desde cualquier plataforma. Se
@@ -690,6 +730,11 @@
   única el <a href="#subject">asunto</a> de un <a href=
   "#certificate">certificado</a>.</dd>
 
+<dt id="ntlm">NTLM (NT LAN Manager)</dt><dd>Un protocolo para la
+  <a href="#authentication">identificación</a> en redes locales que es
+  propietaria de Microsoft Windows. Se usa sobre todo en redes
+  empresariales/institucionales.</dd>
+   
 <dt id="ocsp">OCSP (protocolo de estado del certificado en línea).</dt>
   <dd>Un conjunto de reglas que el
   <a href="#certificate_manager">administrador de certificados</a> sigue
