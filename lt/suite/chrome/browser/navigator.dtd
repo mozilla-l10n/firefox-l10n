@@ -74,3 +74,10 @@
 <!ENTITY statusText.label           "Dokumentas baigtas">
 
 <!ENTITY popupIcon.tooltiptext      "Leisti šios svetainės iškylančiuosius langus">
+
+<!ENTITY viewSecurityInfo.label      "Rodyti saugos informaciją">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "Rodyti liudijimą">
+<!ENTITY viewCertificate.accesskey   "l">
+<!ENTITY viewCertManager.label       "Atverti liudijimų tvarkytuvę">
+<!ENTITY viewCertManager.accesskey   "t">
