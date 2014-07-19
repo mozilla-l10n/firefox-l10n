@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label 'Konta Firefox'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Korzystanie z konta na serwerze'>
+<!ENTITY fxaccount_custom_server_sync_title 'Zachowywanie danych synchronizacji na serwerze'>
+
 <!-- Localization note: these are shown in all screens that query the
 user for an email address and password. Hide and show are button
 labels. -->
@@ -175,7 +178,9 @@ etc).  The account remains a "Firefox" account. -->
 
 <!ENTITY fxaccount_status_header2 'Konto Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
+<!ENTITY fxaccount_status_auth_server 'Serwer konta'>
 <!ENTITY fxaccount_status_device_name 'Nazwa urządzenia'>
+<!ENTITY fxaccount_status_sync_server 'Serwer synchronizacji'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: włączone'>
 <!ENTITY fxaccount_status_needs_verification2 'Musisz zweryfikować swoje konto. Stuknij, aby wysłać nowy odnośnik weryfikujący.'>
