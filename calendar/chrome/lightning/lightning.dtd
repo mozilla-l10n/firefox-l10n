@@ -35,6 +35,30 @@
 <!ENTITY lightning.calendarproperties.email.label               "El. paštas:">
 
 <!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Priimti">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Priimti kvietimą į įvykį">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Priimti visus">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Priimti kvietimą į visus įvykio pasikartojimus">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Pridėti">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Pridėti įvykį į kalendorių">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Atmesti">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Nepriimti kvietimo į įvykį">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Atmesti visus">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Nepriimti kvietimo į visus įvykio pasikartojimus">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Pašalinti">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Pašalinti iš kalendoriaus">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Išsamiau…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Rodyti išsamesnę įvykio informaciją">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Daugiau">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Rodyti daugiau parinkčių">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Pakartotinai patvirtinti">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Nusiųsti pakartotinį patvirtinimą įvykio organizatoriui">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Priimti preliminariai">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Preliminariai priimti kvietimą į įvykį">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Visus priimti preliminariai">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Preliminariai priimti kvietimą į visus įvykio pasikartojimus">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Atnaujinti">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atnaujinti įvykį kalendoriuje">
 <!ENTITY lightning.imipbar.description "Su šiuo laišku atsiųstas kvietimas dalyvauti įvykyje.">
 
 <!-- Lightning specific keybindings -->

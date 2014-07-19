@@ -7,10 +7,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "ilgasis" >
 <!ENTITY pref.dateformat.short "trumpasis"  >
-<!ENTITY pref.defaultlength.label "Numatytoji įvykio trukmė:" >
-<!ENTITY pref.defaultlength.accesskey "t">
-<!ENTITY pref.defaultsnoozelength.label "Numatytoji priminimo atidėjimo trukmė:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "a">
+
+<!ENTITY pref.defaults.label "Numatytosios kuriamų įvykių reikšmės">
+<!ENTITY pref.events.label "Įvykiai">
+<!ENTITY pref.tasks.label "Darbai">
+
+<!ENTITY pref.default_event_length.label "Numatytoji trukmė:" >
+<!ENTITY pref.default_event_length.accesskey "t">
+
+<!ENTITY pref.default_task_none.label "Nenurodyta">
+<!ENTITY pref.default_task_start_of_day.label "Dienos pradžia">
+<!ENTITY pref.default_task_end_of_day.label "Dienos pabaiga">
+<!ENTITY pref.default_task_tomorrow.label "Kitą dieną">
+<!ENTITY pref.default_task_next_week.label "Kitą savaitę">
+<!ENTITY pref.default_task_offset_current.label "Skaičiuojant nuo sukūrimo laiko">
+<!ENTITY pref.default_task_offset_start.label "Skaičiuojant nuo pradžios">
+<!ENTITY pref.default_task_offset_next_hour.label "Skaičiuojant nuo kitos valandos">
 
 <!ENTITY pref.accessibility.label "Pritaikymas neįgaliesiems" >
 <!ENTITY pref.systemcolors.label "Optimizuoti spalvas turintiems regėjimo negalią" >
