@@ -4,9 +4,10 @@
 
 <!ENTITY window.title                     "Filtravimo taisyklės">
 <!ENTITY filterEditorDialog.dimensions    "width: 105ch;">
-
 <!ENTITY filterName.label                 "Filtro pavadinimas:">
 <!ENTITY filterName.accesskey             "F">
+
+<!ENTITY recentFolders.label              "Paskiausi">
 
 <!ENTITY junk.label                       "Brukalas">
 <!ENTITY notJunk.label                    "Ne brukalas">
