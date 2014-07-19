@@ -262,6 +262,7 @@ size. -->
 <!ENTITY media_stop "Zatrzymaj">
 
 <!ENTITY close_all_tabs "Zamknij wszystkie karty">
+<!ENTITY close_private_tabs "Zamknij prywatne karty">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_open_in_reader "Otwórz w trybie czytania">
