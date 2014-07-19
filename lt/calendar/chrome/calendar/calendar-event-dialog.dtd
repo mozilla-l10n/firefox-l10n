@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                              "Nuo" >
 <!ENTITY newevent.to.label                                "Iki" >
-<!ENTITY newevent.attendees.notify.label                  "Pranešti dalyviams">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Kvietimuose neatskleisti dalyvių sąrašo">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Pažymėjus, dalyviai vienas kito kvietimuose nematys. Tai galioja tik el. paštu siunčiamiems kvietimams.">
 
 <!ENTITY newevent.status.label                            "Būsena" >
 <!ENTITY newevent.status.accesskey                        "B" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label                    "&#37; užbaigta">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Pranešti dalyviams">
+<!ENTITY event.attendees.notifyundisclosed.label    "Atskiras kvietimas kiekvienam dalyviui">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Pažymėjus, kiekvienam dalyviui bus siunčiamas atskiras asmeninis kvietimas, todėl visas dalyvių sąrašas kvietime nebus atskleistas.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">

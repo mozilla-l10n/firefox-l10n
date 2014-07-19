@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Penktadienis" >
 <!ENTITY day.7.name "Šeštadienis" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minutė">
-<!ENTITY calendar.global.units.minutes  "min.">
-<!ENTITY calendar.global.units.hour     "valanda">
-<!ENTITY calendar.global.units.hours    "val.">
-<!ENTITY calendar.global.units.day      "diena">
-<!ENTITY calendar.global.units.days     "d.">
-
 <!ENTITY month.1.name "sausis" >
 <!ENTITY month.2.name "vasaris" >
 <!ENTITY month.3.name "kovas" >
