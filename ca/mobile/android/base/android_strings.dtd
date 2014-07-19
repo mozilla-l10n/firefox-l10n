@@ -62,11 +62,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestanyes">
 <!ENTITY new_tab_opened "S\u0027ha obert una pestanya nova">
+<!ENTITY new_private_tab_opened "S\u0027ha obert una pestanya privada nova">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "CANVIA">
 
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Llengua">
+<!ENTITY pref_browser_locale "Llengua del navegador">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Valor per defecte del sistema">
+
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
 <!ENTITY pref_category_display "Visualització">
@@ -102,13 +119,16 @@
 <!ENTITY pref_category_home_content_settings "Paràmetres del contingut">
 <!ENTITY pref_home_updates "Actualitzacions automàtiques">
 <!ENTITY pref_home_updates_enabled "Activades">
-<!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Mostra suggeriments de llocs">
+<!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalitza">
 <!ENTITY pref_header_display "Visualització">
 <!ENTITY pref_header_privacy_short "Privadesa">
 <!ENTITY pref_header_help "Ajuda">
+<!ENTITY pref_header_language "Llengua">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Eines per a desenvolupadors">
 
@@ -164,7 +184,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_downloadFiles2 "Baixades">
 
 
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
@@ -215,6 +235,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
 <!ENTITY pref_update_autodownload_always "Sempre">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Ajuda">
 
 <!ENTITY quit "Surt">
 
@@ -278,8 +301,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "Desplaça la barra de títol">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "S\u0027ha suprimit la pàgina">
+<!ENTITY page_removed "S\u0027ha suprimit la pàgina">
 
 <!ENTITY bookmark_edit_title "Edita l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_edit_name "Nom">
@@ -294,7 +320,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 
 <!ENTITY reading_list_added "La pàgina s\u0027ha afegit a la vostra llista de lectura">
-<!ENTITY reading_list_removed "La pàgina s\u0027ha suprimit de la vostra llista de lectura">
 <!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,6 +346,8 @@ size. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
+<!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
 <!ENTITY home_last_tabs_title "Pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
@@ -434,3 +461,11 @@ de l\u0027Android">
 
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Fet">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Última sinc.: &formatS;">

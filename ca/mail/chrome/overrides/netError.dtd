@@ -104,8 +104,8 @@ instal·lat.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Ha fallat la connexió segura">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>La pàgina que esteu provant de visualitzar no pot mostrar-se perquè no pot verificar-se l'autenticitat de les dades rebudes.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</li> 
 <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> 
 </ul>">
 

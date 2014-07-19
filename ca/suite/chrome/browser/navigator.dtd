@@ -76,7 +76,7 @@
 
 <!ENTITY viewSecurityInfo.label      "Mostra la informació de seguretat">
 <!ENTITY viewSecurityInfo.accesskey  "s">
-<!ENTITY viewCertificate.label       "Mostra el certificat">
+<!ENTITY viewCertificate.label       "Visualitza el certificat">
 <!ENTITY viewCertificate.accesskey   "c">
 <!ENTITY viewCertManager.label       "Obre el Gestor de certificats">
 <!ENTITY viewCertManager.accesskey   "G">

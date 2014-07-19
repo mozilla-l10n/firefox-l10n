@@ -105,10 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "S\u0027ha enviat la pestanya.">
 <!ENTITY sync.text.tab.not.sent.label "S\u0027ha produït un problema en enviar la pestanya.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Comptes del Firefox">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "Adreça electrònica">
 <!ENTITY fxaccount_password_hint "Contrasenya">
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
+<!ENTITY fxaccount_status_device_name "Nom del dispositiu">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
 <!ENTITY fxaccount_status_needs_verification2 "Cal que verifiqueu el compte. Toqueu per reenviar el missatge de verificació.">
