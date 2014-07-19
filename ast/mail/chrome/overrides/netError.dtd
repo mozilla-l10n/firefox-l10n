@@ -71,9 +71,10 @@
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "La conexón caducó">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Podríes necesitar instalar otru software p'abrir esta
-   direición.</li>
+  <li>Podríes tener qu'instalar otru software p'abrir esta direición.</li>
 </ul>
 ">
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
@@ -160,5 +161,3 @@
 ">
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
-<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
-<!ENTITY unknownProtocolFound.longDesc "">
