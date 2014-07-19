@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Atsiųsti ir suvienodinti…">
 <!ENTITY synchronizeOfflineCmd.accesskey "A">
-<!ENTITY settingsOfflineCmd.label "Nuostatos darbui neprisijungus">
-<!ENTITY settingsOfflineCmd.accesskey "N">
+<!ENTITY settingsOfflineCmd2.label "Nuostatos darbui neprisijungus">
+<!ENTITY settingsOfflineCmd2.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Atsiųsti pažymėtus laiškus">
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadStarredCmd.label "Atsiųsti laiškus, pažymėtus žvaigždute">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "Ž">
 <!ENTITY menuFavoriteFolder.label "Parankinis aplankas">
 <!ENTITY menuFavoriteFolder.accesskey "P">
-<!ENTITY folderPropsCmd.label "Savybės…">
-<!ENTITY folderPropsFolderCmd.label "Aplanko savybės…">
-<!ENTITY folderPropsNewsgroupCmd.label "Naujienų grupės savybės…">
+<!ENTITY folderPropsCmd2.label "Savybės">
+<!ENTITY folderPropsFolderCmd2.label "Aplanko savybės">
+<!ENTITY folderPropsNewsgroupCmd2.label "Naujienų grupės savybės">
 <!ENTITY folderPropsCmd.accesskey "v">
 <!ENTITY undoDeleteMsgCmd.label "Atšaukti laiško šalinimą">
 <!ENTITY redoDeleteMsgCmd.label "Atstatyti laiško šalinimą">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "P">
 <!ENTITY recentFolders.label "Naujausi">
 <!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Rodyti glaustai">
+<!ENTITY compactVersion.accesskey "R">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rikiavimas ir grupavimas">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Įrašyti failai">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Laiškų filtrai…">
-<!ENTITY filtersCmd.accesskey "f">
+<!ENTITY filtersCmd2.label "Laiškų filtrai">
+<!ENTITY filtersCmd2.accesskey "f">
 <!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Filtruoti pažymėtus laiškus">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Valyti žurnalą…">
 <!ENTITY clearRecentHistory.accesskey "ž">
-<!ENTITY accountManagerCmd.label "Paskyrų nuostatos…">
-<!ENTITY accountManagerCmd.accesskey "P">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Paskyrų nuostatos">
+<!ENTITY accountManagerCmd2.accesskey "P">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "P">
+<!ENTITY accountManagerCmdUnix2.accesskey "P">
 <!ENTITY allowRemoteDebugging.label "Leisti nuotolinį derinimą">
 <!ENTITY allowRemoteDebugging.accesskey "n">
 
@@ -562,9 +564,11 @@
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Rodyti intarpus iš tinklo šiame laiške">
-<!ENTITY remoteContentOptionsAllowForMsg.accesskey "o">
-<!ENTITY remoteContentOptionAllowForAddress.label "Rodyti intarpus iš tinklo šio siuntėjo laiškuose">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "s">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "R">
+<!ENTITY editRemoteContentSettings.label "Intarpų iš tinklo nuostatos…">
+<!ENTITY editRemoteContentSettings.accesskey "n">
+<!ENTITY editRemoteContentSettingsUnix.label "Intarpų iš tinklo nuostatos…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "n">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Nepaisyti įspėjimo apie šį laišką">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "p">
 <!ENTITY folderContextSearchForMessages.label "Ieškoti laiškų…">
 <!ENTITY folderContextSearchForMessages.accesskey "I">
-<!ENTITY folderContextProperties.label "Savybės…">
-<!ENTITY folderContextProperties.accesskey "S">
+<!ENTITY folderContextProperties2.label "Savybės">
+<!ENTITY folderContextProperties2.accesskey "S">
 <!ENTITY folderContextFavoriteFolder.label "Parankinis aplankas">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Nuostatos…">
-<!ENTITY folderContextSettings.accesskey "o">
+<!ENTITY folderContextSettings2.label "Nuostatos">
+<!ENTITY folderContextSettings2.accesskey "o">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Ieškoti: asmenvardyje arba el. p. adrese yra:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Atverti laišką diskusijoje">
 <!ENTITY contextOpenConversation.accesskey "d">
+<!ENTITY contextOpenContainingFolder.label "Atverti laišką jo aplanke">
+<!ENTITY contextOpenContainingFolder.accesskey "l">
 <!ENTITY contextEditMsgAsNew.label "Paruošti siuntimui">
 <!ENTITY contextEditMsgAsNew.accesskey "u">
 <!ENTITY contextArchive.label "Archyvuoti">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Pakeisti dydį">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Nuostatos…">
+<!ENTITY preferencesCmdMac2.label       "Nuostatos">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Paslaugos">

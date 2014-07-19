@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label     "Įdėti kaip citatą">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key       "o">
-<!ENTITY findCmd.label                 "Ieškoti ir pakeisti…">
+<!ENTITY findBarCmd.label              "Ieškoti…">
+<!ENTITY findReplaceCmd.label          "Ieškoti ir keisti…">
 <!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
 <!ENTITY enableInlineSpellChecker.accesskey "r">
 <!ENTITY checkSpellingCmd2.label       "Tikrinti rašybą…">
@@ -35,10 +36,12 @@
 <!ENTITY insertImageCmd.accesskey      "P">
 <!ENTITY insertHLineCmd.label          "Horizontali juosta">
 <!ENTITY insertHLineCmd.accesskey      "o">
-<!ENTITY insertTableCmd.label          "Lentelę…">
+<!ENTITY insertTableCmd.label          "Lentelė…">
 <!ENTITY insertTableCmd.accesskey      "L">
 <!ENTITY insertHTMLCmd.label           "HTML…">
 <!ENTITY insertHTMLCmd.accesskey       "H">
+<!ENTITY insertMathCmd.label           "Formulė…">
+<!ENTITY insertMathCmd.accesskey       "F">
 <!ENTITY insertCharsCmd.label          "Rašmuo…">
 <!ENTITY insertCharsCmd.accesskey      "m">
 <!ENTITY insertBreakAllCmd.label       "Eilutės pabaiga po paveikslu">

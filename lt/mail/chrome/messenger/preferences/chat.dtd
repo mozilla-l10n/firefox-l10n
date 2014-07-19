@@ -18,7 +18,22 @@ sentence. -->
 <!ENTITY  idleTime                      "min.">
 
 <!ENTITY  andSetStatusToAway.label      "ir pakeisti būseną į „nesu“, nurodant šį būsenos pranešimą:">
-<!ENTITY  andSetStatusToAway.accesskey  "k">
+<!ENTITY  andSetStatusToAway.accesskey  "b">
 
 <!ENTITY  sendTyping.label              "Pranešti pašnekovams, kai rašote pokalbyje">
-<!ENTITY  sendTyping.accesskey          "r">
+<!ENTITY  sendTyping.accesskey          "š">
+
+<!ENTITY  chatNotifications.label             "Gavus jums skirtą pranešimą:">
+<!ENTITY  desktopChatNotifications.label      "Rodyti įspėjimą">
+<!ENTITY  desktopChatNotifications.accesskey  "ė">
+<!ENTITY  chatSound.accesskey                 "g">
+<!ENTITY  chatSound.label                     "Pranešti garsu">
+<!ENTITY  play.label                          "Perklausyti">
+<!ENTITY  play.accesskey                      "k">
+<!ENTITY  systemSound.label                   "Sistemos numatytasis naujų laiškų gavimo garsas">
+<!ENTITY  systemSound.accesskey               "S">
+<!ENTITY  customsound.label                   "Naudoti kitą garso failą">
+<!ENTITY  customsound.accesskey               "u">
+<!ENTITY  browse.label                        "Parinkti…">
+<!ENTITY  browse.accesskey                    "r">
+

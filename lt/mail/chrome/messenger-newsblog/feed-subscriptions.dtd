@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Vietoje viso straipsnio rodyti tik jo santrauką">
 <!ENTITY quickMode.accesskey         "s">
 
+<!ENTITY autotagEnable.label         "Automatiškai kurti gaires, remiantis sklaidos kanalų &lt;category&gt; žymėmis">
+<!ENTITY autotagEnable.accesskey     "g">
+<!ENTITY autotagUsePrefix.label      "Gairėms suteikti prefiksą:">
+<!ENTITY autotagUsePrefix.accesskey  "s">
+<!ENTITY autoTagPrefix.placeholder   "Įveskite gairių prefiksą">
+
 <!ENTITY locationValidate.label      "Patikrinti">
 <!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 

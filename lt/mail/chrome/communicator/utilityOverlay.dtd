@@ -33,10 +33,10 @@
 <!ENTITY selectAllCmd.label					"Pažymėti viską">
 <!ENTITY selectAllCmd.key					"A">
 <!ENTITY selectAllCmd.accesskey				"v">
-<!ENTITY preferencesCmd.label				"Nuostatos…">
-<!ENTITY preferencesCmd.accesskey			"N">
+<!ENTITY preferencesCmd2.label				"Nuostatos">
+<!ENTITY preferencesCmd2.accesskey			"N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY viewMenu.label					"Rodymas">
 <!ENTITY viewMenu.accesskey				"R">
@@ -44,9 +44,6 @@
 <!ENTITY viewToolbarsMenu.accesskey			"j">
 <!ENTITY showTaskbarCmd.label					"Būsenos">
 <!ENTITY showTaskbarCmd.accesskey				"B">
-
-<!ENTITY proxy.label                                    "Įgaliotojo serverio sąranka…">
-<!ENTITY proxy.accesskey                                "s">
 
 <!ENTITY closeCmd.label			"Užverti">  
 <!ENTITY closeCmd.key			"W">  

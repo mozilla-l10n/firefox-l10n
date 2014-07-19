@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Laiškų rašymas">
 <!ENTITY paneChat.title           "Pokalbiai">
 <!ENTITY paneAttachments.title    "Laiškų priedai">
+<!ENTITY panePrivacy.title        "Privatumas">
 <!ENTITY paneSecurity.title       "Saugumas">
 <!ENTITY paneAdvanced.title       "Kitkas">

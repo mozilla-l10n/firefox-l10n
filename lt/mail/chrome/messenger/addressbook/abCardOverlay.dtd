@@ -47,13 +47,6 @@
 <!ENTITY Unknown.label                  "nėra pageidavimo">
 <!ENTITY chatName.label                 "Vardas tikralaikiuose pokalbiuose:">
 
-<!ENTITY allowRemoteContent1.label      "Leisti intarpus iš tinklo.">
-<!ENTITY allowRemoteContent1.accesskey  "n">
-<!ENTITY allowRemoteContent1.tooltip    "Raiškiojo teksto laiškuose gali būti intarpų
-iš tinkle esančių šaltinių. Atvėrus tokius laiškus, bus užmezgamas ryšys su 
-tais šaltiniais. Tai suteikia galimybę sekti, ar išsiųstas laiškas buvo perskaitytas.
-Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laiškuose bus rodomi.">
-
 <!ENTITY WorkPhone.label                "Darbo:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Namų:">
