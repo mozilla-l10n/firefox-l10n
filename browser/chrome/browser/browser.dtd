@@ -511,8 +511,11 @@
 <!ENTITY social.marklinkMenu.label "Сохранить ссылку в…">
 <!ENTITY getUserMedia.selectCamera.label "Доступ к камере:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Доступ к окну или экрану:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "о">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
+<!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
 <!ENTITY webrtcIndicatorButton.label "Доступ к Камере / Микрофону">
 <!ENTITY webrtcIndicatorButton.tooltip "Показать сайты, которые сейчас имеют доступ к вашей камере или микрофону">
 <!ENTITY loopCallButton.tooltip "Пригласить кого-нибудь поговорить">
