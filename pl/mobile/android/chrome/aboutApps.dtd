@@ -6,5 +6,5 @@
 <!ENTITY aboutApps.header                          "Twoje aplikacje">
 
 <!ENTITY aboutApps.browseMarketplace "Przejrzyj Firefox Marketplace">
-<!ENTITY aboutApps.addToHomescreen "Dodaj do ekranu głównego">
+<!ENTITY aboutApps.uninstall "Odinstaluj" >
 <!ENTITY aboutApps.checkForUpdates "Wyszukaj aktualizacje">
