@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "k">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Registruoti CSS interpretavimo klaidas">
+<!ENTITY btnPageCSS.tooltip2 "Registruoti CSS interpretavimo klaidas ir įspėjimus">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Registruoti „JavaScript“ išimtines situacijas">
