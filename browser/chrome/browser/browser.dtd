@@ -511,8 +511,11 @@
 <!ENTITY social.marklinkMenu.label "Guardar enlace como">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Compartir qué ventana o pantalla:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "v">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas las ventanas visibles en su pantalla.">
 <!ENTITY webrtcIndicatorButton.label "Acceso a la cámara y micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Muestra los sitios con los que está actualmente compartiendo su cámara o micrófono">
 <!ENTITY loopCallButton.tooltip "Invite alguien a hablar">
