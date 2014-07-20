@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Sekimas">
+<!ENTITY tracking.label                 "Stebėjimas">
 
-<!ENTITY dntTrackingNopref.label2       "Neinformuoti svetainių apie jūsų požiūrį į sekimą">
+<!ENTITY dntTrackingNopref.label2       "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
 <!ENTITY dntTrackingNopref.accesskey    "e">
-<!ENTITY dntTrackingNotOkay.label2      "Nurodyti svetainėms, kad jos jūsų nesektų">
+<!ENTITY dntTrackingNotOkay.label2      "Nurodyti svetainėms, kad jos jūsų nestebėtų">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Nurodyti svetainėms, kad jos jus sektų">
+<!ENTITY dntTrackingOkay.label2         "Nurodyti svetainėms, kad jos jus stebėtų">
 <!ENTITY dntTrackingOkay.accesskey      "s">
 <!ENTITY doNotTrackInfo.label           "Sužinoti daugiau">
 
