@@ -714,8 +714,11 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Ventana o pantalla a compartir:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "V">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles de su pantalla serán compartidas.">
 
 <!ENTITY webrtcIndicatorButton.label "Acceso a cámara / micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostrar sitios con los cuales esté compartiendo cámara o micrófono">

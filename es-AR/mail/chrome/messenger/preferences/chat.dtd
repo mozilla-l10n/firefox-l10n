@@ -26,6 +26,10 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Cuando lleguen mensajes dirigidos a usted:">
 <!ENTITY  desktopChatNotifications.label      "Mostrar una notifiación">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "con nombre de remitente y vista previa de mensaje">
+<!ENTITY  buddyInfoOnly.label                 "solo con nombre de remitente">
+<!ENTITY  dummyNotification.label             "sin otra información">
+
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproducir un sonido">
 <!ENTITY  play.label                          "Reproducir">
