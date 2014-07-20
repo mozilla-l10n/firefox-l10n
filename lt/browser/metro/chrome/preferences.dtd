@@ -29,9 +29,9 @@
 <!ENTITY optionsHeader.privacy.passwords.label                   "Įsiminti slaptažodžius">
 <!ENTITY optionsHeader.displayOverlayButtons.label               "Rodyti naršymo mygtukus">
 <!ENTITY doNotTrack.title                                        "Sekimas">
-<!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
-<!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos Jus sektų">
-<!ENTITY doNotTrack.options.default                              "Neinformuoti svetainių apie Jūsų požiūrį į sekimą">
+<!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos jus sektų">
+<!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos jus sektų">
+<!ENTITY doNotTrack.options.default                              "Neinformuoti svetainių apie jūsų požiūrį į sekimą">
 <!ENTITY doNotTrack.learnMoreLink                                "Sužinoti daugiau…">
 
 <!ENTITY optionsHeader.reporting.title                           "Strigčių pranešiklis">

@@ -27,13 +27,13 @@
 <!ENTITY warning.checkcompatibility.label          "Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.">
 <!ENTITY warning.checkcompatibility.enable.label   "Tikrinti">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Įjungti priedų suderinamumo tikrinimą">
-<!ENTITY warning.updatesecurity.label              "Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti Jūsų saugumui.">
+<!ENTITY warning.updatesecurity.label              "Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.">
 <!ENTITY warning.updatesecurity.enable.label       "Tikrinti">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Įjungti priedų naujinimų saugumo tikrinimą">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label               "Spustelėkite, kad būtų patikrinta, ar Jūsų naudojami papildiniai nepasenę">
-<!ENTITY info.plugincheck.tooltip             "Spustelėkite, kad būtų patikrinta, ar Jūsų naudojami papildiniai nepasenę">
+<!ENTITY info.plugincheck.label               "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
+<!ENTITY info.plugincheck.tooltip             "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Paieška">
@@ -110,7 +110,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description2,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kas yra priedai?">
-<!ENTITY discover.description2                "Priedai – nedidelės programos, kurių pagalba galite priderinti naršyklę savo poreikiams, jai suteikdami papildomų funkcijų ar pakeisdami išvaizdą. Individualizuokite „&brandShortName;“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar Jums patinkantį grafinį apvalkalą.">
+<!ENTITY discover.description2                "Priedai – nedidelės programos, kurių pagalba galite priderinti naršyklę savo poreikiams, jai suteikdami papildomų funkcijų ar pakeisdami išvaizdą. Individualizuokite „&brandShortName;“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar jums patinkantį grafinį apvalkalą.">
 <!ENTITY discover.footer                      "Kai prisijungsite prie interneto, šioje srityje pamatysite keletą geriausių ir populiariausių priedų.">
 
 <!-- detail view -->

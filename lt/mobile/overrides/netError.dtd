@@ -116,7 +116,7 @@
 <!ENTITY unknownSocketType.title "Netikėtas serverio atsakas">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Įsitikinkite, kad į Jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li>
+  <li>Įsitikinkite, kad į jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li>
   <li>Ši klaida galėjo įvykti dėl nestandartinės serverio konfigūracijos.</li>
 </ul>
 ">

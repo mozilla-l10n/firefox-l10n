@@ -21,7 +21,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Tapatumo duomenys">
-<!ENTITY identityDesc.label "Pagal čia pateiktą informaciją Jus galės atpažinti laiškų gavėjai.">
+<!ENTITY identityDesc.label "Pagal čia pateiktą informaciją jus galės atpažinti laiškų gavėjai.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Surinkite vardą ir pavardę (asmenvardį), kuriuos matys laiškų gavėjai lauke „Kas“">
@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Laiškų gavimo serveris:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Įveskite laiškų gavimo abonento vardą, kurį Jums suteikė el. pašto paslaugos teikėjas (pvz., „vpavardenis“).">
+<!ENTITY incomingUsername.description "Įveskite laiškų gavimo abonento vardą, kurį jums suteikė el. pašto paslaugos teikėjas (pvz., „vpavardenis“).">
 <!ENTITY incomingUsername.label "Abonento vardas:">
 <!ENTITY incomingUsername.accesskey "A">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Įveskite laiškų išsiuntimo (SMTP) serverio vardą (pvz., „mail.example.net“).">
 <!ENTITY outgoingServer.label "Laiškų išsiuntimo serveris:">
 <!ENTITY outgoingServer.accesskey "s">
-<!ENTITY outgoingUsername.description "Įveskite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugos teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
+<!ENTITY outgoingUsername.description "Įveskite laiškų išsiuntimo abonento vardą, kurį jums suteikė el. pašto paslaugos teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
 <!ENTITY outgoingUsername.label "Laiškų išsiuntimo abonento vardas:">
 <!ENTITY outgoingUsername.accesskey "a">
 
@@ -103,14 +103,14 @@
 
 <!ENTITY accnameTitle.label "Paskyros pavadinimas">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Surinkite paskyros pavadinimą. Tai gali būti el. pašto adresas, interneto paslaugų teikėjo vardas arba bet koks Jūsų pasirinktas vardas (pvz., „Darbas“, „Namai“).">
+<!ENTITY accnameDesc.label "Surinkite paskyros pavadinimą. Tai gali būti el. pašto adresas, interneto paslaugų teikėjo vardas arba bet koks jūsų pasirinktas vardas (pvz., „Darbas“, „Namai“).">
 <!ENTITY accnameLabel.label "Paskyros pavadinimas:">
 <!ENTITY accnameLabel.accesskey "v">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Sveikiname!">
-<!ENTITY completionText.label "Visa Jūsų pateikta informacija abonentui pašto programoje užregistruoti yra tokia:">
+<!ENTITY completionText.label "Visa jūsų pateikta informacija abonentui pašto programoje užregistruoti yra tokia:">
 <!ENTITY serverTypePrefix.label "Laiškų gavimo serverio tipas:">
 <!ENTITY serverNamePrefix.label "Laiškų gavimo serverio vardas:">
 <!ENTITY smtpServerNamePrefix.label "Laiškų išsiuntimo serverio (SMTP) vardas:">

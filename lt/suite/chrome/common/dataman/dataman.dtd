@@ -34,7 +34,7 @@
 <!ENTITY tab.forget.label "Užmiršimas">
 
 <!-- cookies -->
-<!ENTITY cookies.description "Šioje vardų srityje esančios svetainės turi Jūsų kompiuteryje įrašiusios šiuos slapukus:">
+<!ENTITY cookies.description "Šioje vardų srityje esančios svetainės turi jūsų kompiuteryje įrašiusios šiuos slapukus:">
 
 <!ENTITY cookies.tree.host.label "Svetainė">
 <!ENTITY cookies.tree.name.label "Slapuko vardas">

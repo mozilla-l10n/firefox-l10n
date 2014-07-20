@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title         "„&brandShortName;“ ribotoji veiksena">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY safeModeDescription.label    "Šiuo metu „&brandShortName;“ veikia ribotąja veiksena, kurioje išjungtos Jūsų nuostatos, plėtiniai ir apvalkalai.">
+<!ENTITY safeModeDescription.label    "Šiuo metu „&brandShortName;“ veikia ribotąja veiksena, kurioje išjungtos jūsų nuostatos, plėtiniai ir apvalkalai.">
 <!ENTITY safeModeDescription2.label   "Dalį ar visus pakeitimus galite palikti ilgesniam laikui:">
 
 <!ENTITY disableAddons.label          "Išjungti visus priedus">

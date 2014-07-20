@@ -13,7 +13,7 @@
 <!ENTITY certmgr.ca.builtins "Numatytosios liudijimų įstaigos">
 <!ENTITY certmgr.ca.mycas "Jūsų tvarkomos liudijimų įstaigos">
 
-<!ENTITY certmgr.mine                         "Turite liudijimus, išduotus šių Jus identifikuojančių įstaigų:">
+<!ENTITY certmgr.mine                         "Turite liudijimus, išduotus šių jus identifikuojančių įstaigų:">
 <!ENTITY certmgr.others                       "Turite liudijimus, identifikuojančius šiuos asmenis:">
 <!ENTITY certmgr.websites2                    "Turite liudijimus, identifikuojančius šiuos serverius:">
 <!ENTITY certmgr.cas                          "Turite liudijimus, identifikuojančius šias liudijimų įstaigas:">

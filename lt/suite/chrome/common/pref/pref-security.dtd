@@ -6,13 +6,13 @@
 <!ENTITY pref.security.title              "Privatumas ir saugumas">
 
 <!ENTITY tracking.label                   "Lankytojo sekimas">
-<!ENTITY trackingIntro.label              "Kai kurios svetainės seka, kaip jomis naudojatės, šitaip pažeisdamos Jūsų privatumą.">
+<!ENTITY trackingIntro.label              "Kai kurios svetainės seka, kaip jomis naudojatės, šitaip pažeisdamos jūsų privatumą.">
 
-<!ENTITY dntTellSites.label               "Informuoti svetaines apie Jūsų poziciją sekimo atžvilgiu">
+<!ENTITY dntTellSites.label               "Informuoti svetaines apie jūsų poziciją sekimo atžvilgiu">
 <!ENTITY dntTellSites.accesskey           "I">
-<!ENTITY dntTrackingNotOkay.label         "Jūs nenorite, kad Jus sektų">
+<!ENTITY dntTrackingNotOkay.label         "Jūs nenorite, kad jus sektų">
 <!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "Jūs sutinkate, kad Jus sektų">
+<!ENTITY dntTrackingOkay.label            "Jūs sutinkate, kad jus sektų">
 <!ENTITY dntTrackingOkay.accesskey        "s">
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):

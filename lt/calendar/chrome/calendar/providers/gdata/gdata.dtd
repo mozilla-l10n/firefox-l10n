@@ -8,7 +8,7 @@
 <!ENTITY gdata.privacy.default.accesskey "n">
 
 <!ENTITY gdata.migration.title "Tik skaitymui skirtų kalendorių konvertavimas">
-<!ENTITY gdata.migration.description "Prieigos prie „Google“ kalendoriaus teiktuvas nustatė, jog kai kurie Jūsų naudojami kalendoriai geba tik skaityti „Google“ kalendorius. Jei kažkuriuos jų norite konvertuoti į dvipusės prieigos kalendorius, parinkite juos žemiau">
+<!ENTITY gdata.migration.description "Prieigos prie „Google“ kalendoriaus teiktuvas nustatė, jog kai kurie jūsų naudojami kalendoriai geba tik skaityti „Google“ kalendorius. Jei kažkuriuos jų norite konvertuoti į dvipusės prieigos kalendorius, parinkite juos žemiau">
 <!ENTITY gdata.migration.upgrade.label "Konvertuoti">
 <!ENTITY gdata.migration.upgrade.accesskey "K">
 <!ENTITY gdata.migration.showagain.label "Tikrinti visada ">

@@ -41,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label 'Bandyti vėl'>
 <!ENTITY sync.button.manual.label 'Rankinis konfigūravimas'>
 <!ENTITY sync.subtitle.nointernet.label 'Nėra ryšio su internetu.'>
-<!ENTITY sync.subtitle.failaccount.label 'Paskyros sukurti Jūsų įrenginyje nepavyko.'>
+<!ENTITY sync.subtitle.failaccount.label 'Paskyros sukurti jūsų įrenginyje nepavyko.'>
 <!ENTITY sync.subtitle.failmultiple.label 'Ar turite daugiau įdiegtų „Firefox“ kopijų? Kol kas „&syncBrand.fullName.label;“ palaiko tik vieną „Firefox“ kopiją viename įrenginyje. Norėdami naudotis „&syncBrand.shortName.label;“, turite pašalinti kitas kopijas.'>
 
 <!-- Setup Success -->
@@ -61,7 +61,7 @@
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label 'Ką sinchronizuoti'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sinchronizuoti Jūsų…'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sinchronizuoti jūsų…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Adresyną'>
 <!ENTITY sync.configure.engines.title.passwords 'Slaptažodžius'>
 <!ENTITY sync.configure.engines.title.history 'Žurnalą'>

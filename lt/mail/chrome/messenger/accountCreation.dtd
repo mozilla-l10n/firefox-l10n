@@ -18,7 +18,7 @@
 <!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY imapLong.label                  "IMAP (nuotoliniai aplankai)">
-<!ENTITY pop3Long.label                  "POP3 (paštas laikomas Jūsų kompiuteryje)">
+<!ENTITY pop3Long.label                  "POP3 (paštas laikomas jūsų kompiuteryje)">
 
 <!ENTITY incoming.label                  "Laiškų gavimo serveris:">
 <!ENTITY outgoing.label                  "Laiškų siuntimo serveris:">
@@ -77,11 +77,11 @@
 <!ENTITY changeSettings.label            "Keisti nuostatas">
 <!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY contactYourProvider.description "„&brandShortName;“ gali Jums leisti gauti paštą naudojant pateiktąsias nuostatas. Tačiau Jums derėtų susisiekti su sistemos administratoriumi ar el. pašto paslaugos teikėju dėl šių netinkamų nuostatų. Plačiau apie tai – „Thunderbird“ žinyne.">
+<!ENTITY contactYourProvider.description "„&brandShortName;“ gali jums leisti gauti paštą naudojant pateiktąsias nuostatas. Tačiau jums derėtų susisiekti su sistemos administratoriumi ar el. pašto paslaugos teikėju dėl šių netinkamų nuostatų. Plačiau apie tai – „Thunderbird“ žinyne.">
 
 <!ENTITY insecureServer.tooltip.title    "Dėmesio! Šis serveris nesaugus.">
 <!ENTITY insecureServer.tooltip.details  "Spustelėkite apskritimą, jei norite sužinoti daugiau.">
 
-<!ENTITY insecureUnencrypted.description "Jūsų laiškai ir prisijungimo duomenys bus siunčiami nešifruotu ryšiu, todėl juos galės perskaityti pašaliniai. „&brandShortName;“ Jums leis gauti paštą, tačiau Jums derėtų susisiekti su savo el. pašto paslaugos teikėju ir paprašyti, kad šis suteiktų galimybę jungtis šifruotu ryšiu.">
-<!ENTITY insecureSelfSigned.description  "Šis serveris naudoja liudijimą, kurio tapatumu negalime pasikliauti, tad nėra garantijos, jog pašalinės akys negalės perimti duomenų, keliaujančių tarp Jūsų programos „&brandShortName;“ ir serverio. „&brandShortName;“ Jums leis gauti paštą, tačiau Jums tikrai derėtų priminti savo el. pašto paslaugos teikėjui, kad šis serveryje naudotų patikimą liudijimą.">
+<!ENTITY insecureUnencrypted.description "Jūsų laiškai ir prisijungimo duomenys bus siunčiami nešifruotu ryšiu, todėl juos galės perskaityti pašaliniai. „&brandShortName;“ jums leis gauti paštą, tačiau jums derėtų susisiekti su savo el. pašto paslaugos teikėju ir paprašyti, kad šis suteiktų galimybę jungtis šifruotu ryšiu.">
+<!ENTITY insecureSelfSigned.description  "Šis serveris naudoja liudijimą, kurio tapatumu negalime pasikliauti, tad nėra garantijos, jog pašalinės akys negalės perimti duomenų, keliaujančių tarp jūsų programos „&brandShortName;“ ir serverio. „&brandShortName;“ jums leis gauti paštą, tačiau jums tikrai derėtų priminti savo el. pašto paslaugos teikėjui, kad šis serveryje naudotų patikimą liudijimą.">
 <!ENTITY secureServer.description        "Sveikiname! Tai – saugus serveris.">

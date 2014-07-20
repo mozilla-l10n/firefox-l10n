@@ -20,7 +20,7 @@
 <!ENTITY sync.flyout.setup.description6_2      "„Android“ įrenginiuose – rinkitės „Daugiau“ → Nuostatos → „&syncBrand.shortName.label;“">
 
 <!-- Flyout when setting up manually -->
-<!ENTITY sync.flyout.manualsetup.description1_2  "Įveskites savo „&syncBrand.shortName.label;“ paskyros duomenis ir atkūrimo raktą, kurį sugeneravo Jūsų kompiuteris">
+<!ENTITY sync.flyout.manualsetup.description1_2  "Įveskites savo „&syncBrand.shortName.label;“ paskyros duomenis ir atkūrimo raktą, kurį sugeneravo jūsų kompiuteris">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Paskyros vardas">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Slaptažodis">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Atkūrimo raktas">
@@ -31,7 +31,7 @@
 <!ENTITY sync.flyout.setupsuccess.description2      "Jūsų „&syncBrand.shortName.label;“ duomenys dabar parsiunčiami fonine veiksena. Sinchronizuotas korteles galėsite rasti „&brandShortName;“ pradžios tinklalapyje">
 
 <!-- Flyout when setup failed -->
-<!ENTITY sync.flyout.setupfailure.description       "Naršyklei „&brandShortName;“ nepavyko prisijungti prie Jūsų „&syncBrand.shortName.label;“ paskyros.">
+<!ENTITY sync.flyout.setupfailure.description       "Naršyklei „&brandShortName;“ nepavyko prisijungti prie jūsų „&syncBrand.shortName.label;“ paskyros.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "Atsisakyti">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Bandyti dar kartą">
 
@@ -40,7 +40,7 @@
 <!ENTITY sync.flyout.connected.device                     "Šis įrenginys:">
 <!ENTITY sync.flyout.connected.disconnect                 "Atjungti">
 <!ENTITY sync.flyout.connected.disconnectWarningHeader    "Atjungti šį įrenginį nuo „&syncBrand.shortName.label;“?">
-<!ENTITY sync.flyout.connected.disconnectWarning          "Visi Jūsų asmeniniai duomenys, esantys šiame įrenginyje ir „&syncBrand.shortName.label;“ paslyroje išliks nepakitę.">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Visi jūsų asmeniniai duomenys, esantys šiame įrenginyje ir „&syncBrand.shortName.label;“ paskyroje, išliks nepakitę.">
 <!ENTITY sync.flyout.connected.cancel                     "Atsisakyti">
 <!ENTITY sync.flyout.connected.pair                       "Suporuoti įrenginį">
 
