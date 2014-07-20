@@ -116,10 +116,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
-<!ENTITY pref_donottrack_menu "Sekimas">
-<!ENTITY pref_donottrack_disallow_tracking "Nurodyti svetainėms, kad jos jūsų nesektų">
-<!ENTITY pref_donottrack_allow_tracking "Nurodyti svetainėms, kad jos jus sektų">
-<!ENTITY pref_donottrack_no_pref "Neinformuoti svetainių apie jūsų požiūrį į sekimą">
+<!ENTITY pref_donottrack_menu "Stebėjimas">
+<!ENTITY pref_donottrack_disallow_tracking "Nurodyti svetainėms, kad jos jūsų nestebėtų">
+<!ENTITY pref_donottrack_allow_tracking "Nurodyti svetainėms, kad jos jus stebėtų">
+<!ENTITY pref_donottrack_no_pref "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">

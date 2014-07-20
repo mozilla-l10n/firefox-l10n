@@ -28,10 +28,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Įsiminti slaptažodžius">
 <!ENTITY optionsHeader.displayOverlayButtons.label               "Rodyti naršymo mygtukus">
-<!ENTITY doNotTrack.title                                        "Sekimas">
-<!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos jus sektų">
-<!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos jus sektų">
-<!ENTITY doNotTrack.options.default                              "Neinformuoti svetainių apie jūsų požiūrį į sekimą">
+<!ENTITY doNotTrack.title                                        "Stebėjimas">
+<!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos jus stebėtų">
+<!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos jus stebėtų">
+<!ENTITY doNotTrack.options.default                              "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
 <!ENTITY doNotTrack.learnMoreLink                                "Sužinoti daugiau…">
 
 <!ENTITY optionsHeader.reporting.title                           "Strigčių pranešiklis">

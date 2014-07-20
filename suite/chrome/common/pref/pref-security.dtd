@@ -5,14 +5,14 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privatumas ir saugumas">
 
-<!ENTITY tracking.label                   "Lankytojo sekimas">
-<!ENTITY trackingIntro.label              "Kai kurios svetainės seka, kaip jomis naudojatės, šitaip pažeisdamos jūsų privatumą.">
+<!ENTITY tracking.label                   "Lankytojo stebėjimas">
+<!ENTITY trackingIntro.label              "Kai kurios svetainės stebi, kaip jomis naudojatės, šitaip pažeisdamos jūsų privatumą.">
 
-<!ENTITY dntTellSites.label               "Informuoti svetaines apie jūsų poziciją sekimo atžvilgiu">
+<!ENTITY dntTellSites.label               "Informuoti svetaines apie jūsų poziciją stebėjimo atžvilgiu">
 <!ENTITY dntTellSites.accesskey           "I">
-<!ENTITY dntTrackingNotOkay.label         "Jūs nenorite, kad jus sektų">
+<!ENTITY dntTrackingNotOkay.label         "Jūs nenorite, kad jus stebėtų">
 <!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "Jūs sutinkate, kad jus sektų">
+<!ENTITY dntTrackingOkay.label            "Jūs sutinkate, kad jus stebėtų">
 <!ENTITY dntTrackingOkay.accesskey        "s">
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
