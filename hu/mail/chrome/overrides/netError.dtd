@@ -127,7 +127,7 @@
 ">
 
 <!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li>
   <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li>
