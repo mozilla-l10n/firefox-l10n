@@ -14,7 +14,6 @@
 <!ENTITY clearTimeDuration.last4Hours "Últimas quatro horas">
 <!ENTITY clearTimeDuration.today "Hoje">
 <!ENTITY clearTimeDuration.everything "Tudo">
-
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix "">
@@ -24,13 +23,16 @@ that require it.  -->
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label "Detalhes">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
-<!ENTITY itemCookies.label "Cookies">
-<!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Cache">
-<!ENTITY itemCache.accesskey "a">
+
+<!ENTITY itemHistory.label                 "Histórico de navegação">
+<!ENTITY itemHistory.accesskey             "ç">
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Cache">
+<!ENTITY itemCache.accesskey               "a">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning "Esta ação não pode ser anulada.">
-<!ENTITY dialog.width "30em">
+<!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser anulada.">
+<!ENTITY dialog.width "32em">
