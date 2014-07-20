@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o "Įstaiga (O)">
 <!ENTITY certmgr.certdetail.ou "Įstaigos padalinys (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "Numeris">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 kontrolinis kodas">
 <!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 kontrolinis kodas">
-<!ENTITY certmgr.certdetail.md5fingerprint "MD5 kontrolinis kodas">
 
 <!ENTITY certmgr.editcert.title "Liudijimo nuostatos">
 <!ENTITY certmgr.editcacert.title "Pasitikėjimo LĮ liudijimu nuostatos">

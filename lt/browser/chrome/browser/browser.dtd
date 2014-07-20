@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Atverti adresą…">
 <!ENTITY openFileCmd.label "Atverti…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -148,18 +152,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
 <!ENTITY backCmd.label                "Atgal">
-<!ENTITY backCmd.accesskey            "A">
 <!ENTITY backButton.tooltip           "Vienu tinklalapiu atgal">
 <!ENTITY forwardCmd.label             "Pirmyn">
-<!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
 <!ENTITY backForwardButtonMenu.tooltip "Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą">
 <!ENTITY backForwardButtonMenuMac.tooltip "Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą">
 <!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
-<!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
 <!ENTITY stopCmd.label                "Stabdyti">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY goEndCap.tooltip             "Eiti į adresų juostoje surinktą adresą">
@@ -198,7 +198,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Įdėti šios paieškos reikšminį žodį…">
 <!ENTITY keywordfield.accesskey       "p">
 <!ENTITY downloads.label              "Atsiuntimai">
-<!ENTITY downloads.tooltip            "Rodyti atsiunčiamų failų siuntimo eigą">
 <!ENTITY downloads.accesskey          "s">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -435,7 +434,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey    "d">
 <!ENTITY bookmarkPageCmd2.label           "Įtraukti tinklalapį į adresyną">
-<!ENTITY bookmarkPageCmd2.accesskey       "r">
 <!ENTITY bookmarkThisLinkCmd.label        "Įtraukti saitą į adresyną">
 <!ENTITY bookmarkThisLinkCmd.accesskey    "d">
 <!ENTITY bookmarkThisFrameCmd.label       "Įtraukti kadrą į adresyną">
@@ -549,11 +547,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mastelis">
 <!ENTITY fullZoom.accesskey             "m">
 
-<!ENTITY newTabButton.tooltip           "Atverti naują kortelę">
-<!ENTITY newWindowButton.tooltip        "Atverti naują langą">
 <!ENTITY sidebarCloseButton.tooltip     "Užverti parankinę">
-
-<!ENTITY fullScreenButton.tooltip       "Rodyti šį langą per visą ekraną">
 
 <!ENTITY quitApplicationCmdWin.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "B">

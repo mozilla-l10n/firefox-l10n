@@ -44,4 +44,15 @@
 <!ENTITY translation.errorTranslating.label     "Verčiant šį tinklalapį, įvyko klaida.">
 <!ENTITY translation.tryAgain.button            "Bandyti dar kartą">
 
+<!ENTITY translation.serviceUnavailable.label   "Šiuo metu vertimas negalimas. Bandykite vėliau.">
+
 <!ENTITY translation.options.menu               "Nuostatos">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Niekada neversti šios svetainės turinio">
+<!ENTITY translation.options.neverForSite.accesskey "s">
+<!ENTITY translation.options.preferences.label  "Vertimo nuostatos">
+<!ENTITY translation.options.preferences.accesskey "V">
