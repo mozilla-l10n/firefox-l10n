@@ -24,7 +24,7 @@
 														 kaip naudotojas, kuriam leidžiama diegti programinę įrangą.">
 <!ENTITY  manualUpdate.space.desc         "Yra išleistas rekomenduojamas saugumo ir stabilumo naujinimas, tačiau jam
                                            įdiegti į šį kompiuterį trūksta laisvos vietos.">
-<!ENTITY  manualUpdateGetMsg.label        "Paskiausią „&brandShortName;“ laidą visuomet galite parsisiųsti iš:">
+<!ENTITY  manualUpdateGetMsg.label        "Paskiausią „&brandShortName;“ laidą visada galite parsisiųsti iš:">
 
 <!ENTITY  unsupported.title               "Sistema nepalaikoma">
 <!ENTITY  unsupported.label               "Jūsų naudojama „&brandShortName;“ laida yra pasenusi, tačiau paskiausia jos laida

@@ -83,8 +83,8 @@
 <!ENTITY cmd.disableTheme.accesskey           "N">
 <!ENTITY cmd.askToActivate.label              "Klausti prieš aktyvinant">
 <!ENTITY cmd.askToActivate.tooltip            "Kaskart klausti, ar aktyvinti šį priedą">
-<!ENTITY cmd.alwaysActivate.label             "Visuomet aktyvinti">
-<!ENTITY cmd.alwaysActivate.tooltip           "Visuomet aktyvinti šį priedą">
+<!ENTITY cmd.alwaysActivate.label             "Visada aktyvinti">
+<!ENTITY cmd.alwaysActivate.tooltip           "Visada aktyvinti šį priedą">
 <!ENTITY cmd.neverActivate.label              "Niekada neaktyvinti">
 <!ENTITY cmd.neverActivate.tooltip            "Niekada neaktyvinti šio priedo">
 <!ENTITY cmd.stateMenu.tooltip                "Keisti, kada šis priedas turi būti aktyvinamas">

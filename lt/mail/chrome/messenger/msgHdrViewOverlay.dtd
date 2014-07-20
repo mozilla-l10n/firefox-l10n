@@ -46,7 +46,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "p">
 <!ENTITY hdrViewToolbarShowText.label "Rodyti tik tekstą">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Visuomet siūlyti atsakyti siuntėjui">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Visada siūlyti atsakyti siuntėjui">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "s">
 
 <!ENTITY otherActionsButton1.label "Kiti veiksmai">

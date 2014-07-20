@@ -83,7 +83,7 @@
 <!ENTITY  permTab               "Leidimai">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permUseDefault        "Naudoti numatytąsias nuostatas">
-<!ENTITY  permAskAlways         "Visuomet klausti">
+<!ENTITY  permAskAlways         "Visada klausti">
 <!ENTITY  permAllow             "Leisti">
 <!ENTITY  permAllowSession      "Leisti šį seansą">
 <!ENTITY  permBlock             "Neleisti">

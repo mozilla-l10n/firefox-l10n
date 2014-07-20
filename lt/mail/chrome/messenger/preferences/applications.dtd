@@ -15,7 +15,7 @@
 
 <!ENTITY saveTo.label                 "Įrašyti failus į aplanką">
 <!ENTITY saveTo.accesskey             "f">
-<!ENTITY alwaysAsk.label              "Visuomet klausti, kur įrašyti failus">
+<!ENTITY alwaysAsk.label              "Visada klausti, kur įrašyti failus">
 <!ENTITY alwaysAsk.accesskey          "V">
 <!ENTITY chooseFolderWin.label        "Parinkti…">
 <!ENTITY chooseFolderWin.accesskey    "r">

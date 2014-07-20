@@ -132,7 +132,7 @@
 <!ENTITY pref_text_size "Šriftų dydžiai">
 <!ENTITY pref_reflow_on_zoom4 "Teksto pločio prisitaikymas">
 <!ENTITY pref_restore "Kortelės">
-<!ENTITY pref_restore_always "Visuomet atkurti">
+<!ENTITY pref_restore_always "Visada atkurti">
 <!ENTITY pref_restore_quit "Neatkurti po „&brandShortName;“ darbo pabaigos">
 <!ENTITY pref_font_size_tiny "Ypač maži">
 <!ENTITY pref_font_size_small "Maži">
