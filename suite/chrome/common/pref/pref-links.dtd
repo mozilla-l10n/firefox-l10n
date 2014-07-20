@@ -21,9 +21,9 @@
 <!ENTITY newWindowGroupWindow.accesskey "l">
 <!ENTITY externalGroupWindow.accesskey "a">
 
-<!ENTITY divertAll.label "vietoje lango visuomet atverti naują kortelę">
+<!ENTITY divertAll.label "vietoje lango visada atverti naują kortelę">
 <!ENTITY divertAll.accesskey "r">
 <!ENTITY divertNoFeatures.label "atverti naujas korteles tik vietoje netinkintų langų">
 <!ENTITY divertNoFeatures.accesskey "t">
-<!ENTITY dontDivert.label "visuomet atverti naują langą">
+<!ENTITY dontDivert.label "visada atverti naują langą">
 <!ENTITY dontDivert.accesskey "n">

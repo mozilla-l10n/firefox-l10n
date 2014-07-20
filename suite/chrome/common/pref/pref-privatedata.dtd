@@ -9,7 +9,7 @@
 
 <!ENTITY clearPrivateData.label           "Valyti privačius duomenis">
 
-<!ENTITY alwaysClear.label                "Visuomet pašalinti įrašytus privačius duomenis, užveriant „&brandShortName;“ programą">
+<!ENTITY alwaysClear.label                "Visada pašalinti įrašytus privačius duomenis, užveriant „&brandShortName;“ programą">
 <!ENTITY alwaysClear.accesskey            "V">
 
 <!ENTITY askBeforeClear.label             "Įspėti prieš šalinant privačius duomenis">

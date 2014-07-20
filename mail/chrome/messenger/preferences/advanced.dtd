@@ -109,7 +109,7 @@
 <!ENTITY certSelection.description      "Serveriui paprašius mano liudijimo:">
 <!ENTITY certs.auto                     "parinkti jį automatiškai">
 <!ENTITY certs.auto.accesskey           "a">
-<!ENTITY certs.ask                      "visuomet klausti">
+<!ENTITY certs.ask                      "visada klausti">
 <!ENTITY certs.ask.accesskey            "k">
 
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">

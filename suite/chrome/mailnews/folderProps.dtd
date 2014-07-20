@@ -31,12 +31,12 @@
 <!ENTITY retentionKeepRecent.label               "paskiausius">
 <!ENTITY retentionKeepRecent.accesskey           "p">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label         "visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">
-<!ENTITY retentionApplyToFlagged.label           "visuomet palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionKeepUnreadHidden.label         "visada šalinti skaitytus laiškus (nepaisant jų amžiaus)">
+<!ENTITY retentionApplyToFlagged.label           "visada palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
 <!ENTITY folderSynchronizationTab.label          "Sinchronizavimas">
-<!ENTITY folderCheckForNewMessages2.label        "Tikrinant, ar šioje paskyroje yra naujų laiškų, visuomet patikrinti ir šį aplanką">
+<!ENTITY folderCheckForNewMessages2.label        "Tikrinant, ar šioje paskyroje yra naujų laiškų, visada patikrinti ir šį aplanką">
 <!ENTITY folderCheckForNewMessages2.accesskey    "T">
 
 <!ENTITY offlineFolder.check.label               "Šio aplanko laiškus skaityti neprisijungus prie tinklo">

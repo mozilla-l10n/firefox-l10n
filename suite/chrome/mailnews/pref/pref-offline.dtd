@@ -11,8 +11,8 @@
 <!ENTITY textStartUp.accesskey            "P">
 <!ENTITY menuitemRememberPrevState        "prisiminti ankstesnę prisijungimo būseną">
 <!ENTITY menuitemAskMe                    "paklausti, ar prisijungti prie tinklo">
-<!ENTITY menuitemAlwaysOnline             "visuomet prisijungti prie tinklo">
-<!ENTITY menuitemAlwaysOffline            "visuomet pradėti darbą neprisijungus">
+<!ENTITY menuitemAlwaysOnline             "visada prisijungti prie tinklo">
+<!ENTITY menuitemAlwaysOffline            "visada pradėti darbą neprisijungus">
 <!ENTITY menuitemAutomatic                "aptikti tinklo būseną automatiškai">
 <!ENTITY textGoingOnline                  "Prisijungiant prie tinklo:">
 <!ENTITY radioAutoSend                    "automatiškai išsiųsti laiškus">

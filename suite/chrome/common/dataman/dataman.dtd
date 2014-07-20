@@ -63,7 +63,7 @@
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Naudoti numatytąsias nuostatas">
-<!ENTITY perm.AskAlways "Visuomet klausti">
+<!ENTITY perm.AskAlways "Visada klausti">
 <!ENTITY perm.NeverSave "Niekada neįrašyti">
 <!ENTITY perm.Allow "Leisti">
 <!ENTITY perm.AllowSameDomain "Leisti vienoje srityje">

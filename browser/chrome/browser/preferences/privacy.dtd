@@ -29,7 +29,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Leisti įrašyti trečiųjų šalių slapukus:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
-<!ENTITY  acceptThirdParty.always.label   "visuomet">
+<!ENTITY  acceptThirdParty.always.label   "visada">
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
 
@@ -72,7 +72,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "visiškai išvalyti žurnalą">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label        "Visuomet naršyti privačiojo naršymo veiksenoje">
+<!ENTITY  privateBrowsingPermanent2.label        "Visada naršyti privačiojo naršymo veiksenoje">
 <!ENTITY  privateBrowsingPermanent2.accesskey    "V">
 
 <!ENTITY  rememberHistory2.label                 "Įsiminti lankytus tinklalapius ir parsiųstus failus">

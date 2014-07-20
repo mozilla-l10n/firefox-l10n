@@ -9,7 +9,7 @@
 <!ENTITY radioRememberPrevState.accesskey   "m">
 <!ENTITY radioAskMe.label                   "paklausti, ar prisijungti prie tinklo">
 <!ENTITY radioAskMe.accesskey               "k">
-<!ENTITY radioAlwaysOnline.label            "visuomet prisijungti prie tinklo">
+<!ENTITY radioAlwaysOnline.label            "visada prisijungti prie tinklo">
 <!ENTITY radioAlwaysOnline.accesskey        "r">
 
 <!ENTITY textGoingOnline                    "Ar prisijungus prie tinklo išsiųsti neišsiųstus laiškus?">
