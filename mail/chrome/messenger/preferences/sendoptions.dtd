@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Küldési beállítások">
+<!ENTITY dialog.title                 "Üzenetküldési beállítások">
 <!ENTITY sendMail.title               "Szövegformátum">
 <!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
 <!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő">
@@ -23,11 +23,11 @@
 <!ENTITY AddHtmlDomain.label          "Hozzáadás…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.label           "Hozzáadás…">
-<!ENTITY AddPlainText.accesskey       "o">
+<!ENTITY AddPlainText.accesskey       "H">
 <!ENTITY DeleteHtmlDomain.label       "Törlés">
 <!ENTITY DeleteHtmlDomain.accesskey   "T">
 <!ENTITY DeletePlainText.label        "Törlés">
-<!ENTITY DeletePlainText.accesskey    "r">
+<!ENTITY DeletePlainText.accesskey    "T">
 
 <!ENTITY add.htmltitle                "HTML-levelet fogadni képes tartomány felvétele">
 <!ENTITY add.htmldomain               "HTML-levelet fogadni képes tartományok:">
