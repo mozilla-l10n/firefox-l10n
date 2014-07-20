@@ -4,8 +4,8 @@
 
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title           "Apie Jūsų teises">
-<!ENTITY rights.intro-header    "Apie Jūsų teises">
+<!ENTITY rights.title           "Apie jūsų teises">
+<!ENTITY rights.intro-header    "Apie jūsų teises">
 <!ENTITY rights.intro "„&brandFullName;“ yra laisvoji atviroji programa, kuriama bendruomenės, apimančios tūkstančius žmonių iš viso pasaulio. Keletas dalykų, kuriuos turėtumėte žinoti:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -18,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "Jums leidžiama naudotis „&brandShortName;“ programa, vadovaujantis ">
 <!ENTITY rights.intro-point1b "„Mozilla“ viešąja licencija (Mozilla Public License)">
-<!ENTITY rights.intro-point1c ". Ši licencija leidžia naudotis „&brandShortName;“ programa, ją dauginti ir platinti. Be to, galite laisvai modifikuoti programos pirminius tekstus. Licencija nedraudžia platinti ir Jūsų modifikuotų programos versijų.">
+<!ENTITY rights.intro-point1c ". Ši licencija leidžia naudotis „&brandShortName;“ programa, ją dauginti ir platinti. Be to, galite laisvai modifikuoti programos pirminius tekstus. Licencija nedraudžia platinti ir jūsų modifikuotų programos versijų.">
 
 <!ENTITY rights.intro-point2a "„Mozilla“ nesuteikia jokių teisių į „Mozilla“ ir „Thunderbird“ prekės ženklus ar logotipus. Papildomą informaciją apie šiuos prekės ženklus ir jų naudojimą rasite ">
 <!ENTITY rights.intro-point2b "čia">
@@ -49,7 +49,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "„&brandFullName;“ suteikia galimybę naudotis papildomomis paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų naujinimo paslauga. Paslaugų, kuriomis naudojasi ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba Jūsų netenkina jų naudojimo taisyklės, „SafeBrowsing“ paslaugą galite išjungti, programos nuostatų lango nuostatų grupės ">
+<!ENTITY rights.webservices-a "„&brandFullName;“ suteikia galimybę naudotis papildomomis paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų naujinimo paslauga. Paslaugų, kuriomis naudojasi ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, „SafeBrowsing“ paslaugą galite išjungti, programos nuostatų lango nuostatų grupės ">
 <!ENTITY rights.webservices-b "„Kitkas“">
 <!ENTITY rights.webservices-c " kortelėje ">
 <!ENTITY rights.webservices-d "„Atnaujinimas“">
@@ -66,8 +66,8 @@
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą.">
-<!ENTITY rights.webservices-term2 "Jūs esate kviečiami naudotis šiomis Paslaugomis su šia „&brandShortName;“ laida, ir tam Jums suteikiamos visos teisės. „&vendorShortName;“ ir jos licencijų išdavėjai pasilieka visas kitas su Paslaugomis susijusias teises. Šiomis taisyklėmis nesiekiama apriboti teisių, kurias Jums suteikia programai „&brandShortName;“ ir jos pirminiams tekstams taikoma atvirųjų programų licencija.">
-<!ENTITY rights.webservices-term3 "Paslaugos teikiamos „tokios, kokios yra“. „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai atsiriboja nuo bet kokių išreikštų ar numanomų garantijų, kaip antai nuo garantijų, jog Paslaugos yra veiksmingos ir atitiks Jūsų poreikius. Jūs prisiimate visą riziką, susijusią su Paslaugų, atitinkančių Jūsų poreikius, pasirinkimu, kokybe ir veiksnumu. Kai kuriose jurisdikcijose atsiriboti nuo numanomų garantijų neleidžiama, tad gali būti, kad Jums ši taisyklė negalioja.">
-<!ENTITY rights.webservices-term4 "Išskyrus kiek to reikalauja įstatymai, „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai nebus laikomi atsakingais už bet kokią netiesioginę, tyčinę, netyčinę, pasėkminę, baudžiamąją ar kitokią žalą, kilusią dėl „&brandShortName;“ ir Paslaugų naudojimo ar bet kokiu būdu su tuo susijusią. Pagal šias taisykles, kolektyvinė atsakomybė negali viršyti 500 (penkių šimtų) JAV dolerių.  Kai kuriose jurisdikcijose atsiriboti nuo kai kurių tipų žalos neleidžiama, tad gali būti, kad Jums ši taisyklė negalioja.">
+<!ENTITY rights.webservices-term2 "Jūs esate kviečiami naudotis šiomis Paslaugomis su šia „&brandShortName;“ laida, ir tam jums suteikiamos visos teisės. „&vendorShortName;“ ir jos licencijų išdavėjai pasilieka visas kitas su Paslaugomis susijusias teises. Šiomis taisyklėmis nesiekiama apriboti teisių, kurias jums suteikia programai „&brandShortName;“ ir jos pirminiams tekstams taikoma atvirųjų programų licencija.">
+<!ENTITY rights.webservices-term3 "Paslaugos teikiamos „tokios, kokios yra“. „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai atsiriboja nuo bet kokių išreikštų ar numanomų garantijų, kaip antai nuo garantijų, jog Paslaugos yra veiksmingos ir atitiks jūsų poreikius. Jūs prisiimate visą riziką, susijusią su Paslaugų, atitinkančių jūsų poreikius, pasirinkimu, kokybe ir veiksnumu. Kai kuriose jurisdikcijose atsiriboti nuo numanomų garantijų neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.">
+<!ENTITY rights.webservices-term4 "Išskyrus kiek to reikalauja įstatymai, „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai nebus laikomi atsakingais už bet kokią netiesioginę, tyčinę, netyčinę, pasėkminę, baudžiamąją ar kitokią žalą, kilusią dėl „&brandShortName;“ ir Paslaugų naudojimo ar bet kokiu būdu su tuo susijusią. Pagal šias taisykles, kolektyvinė atsakomybė negali viršyti 500 (penkių šimtų) JAV dolerių.  Kai kuriose jurisdikcijose atsiriboti nuo kai kurių tipų žalos neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.">
 <!ENTITY rights.webservices-term5 "Kilus poreikiui, „&vendorShortName;“ šias taisykles gali keisti. Be išankstinio raštiško „&vendorShortName;“ sutikimo šios taisyklės negali būti taisomos ar atšaukiamos.">
 <!ENTITY rights.webservices-term6 "Šiose taisyklėse vadovaujamasi JAV Kalifornijos valstijoje galiojančiais įstatymais. Kilus neatitikimams tarp šių taisyklių ir įstatymų, įstatymai laikomi viršesniais. Jei kuri nors šių taisyklių dalis neatitinka įstatymų ar negali būti įgyvendanama, kitos jų dalys bus laikomos galiojančiomis. Jei tarp išverstos šių taisyklių versijos ir originalių taisyklių anglų kalba yra neatitikimų, turi būti vadovaujamasi angliškąja taisyklių versija.">

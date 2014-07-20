@@ -30,7 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Pridėkite failų talpinimo debesyje tarnybą">
 <!ENTITY removeCloudFileAccount.label     "Pašalinti">
 <!ENTITY removeCloudFileAccount.accesskey "š">
-<!ENTITY authRequired.description         "Parodyti šios paskyros nuostatoms būtinas Jūsų leidimas.">
+<!ENTITY authRequired.description         "Parodyti šios paskyros nuostatoms būtinas jūsų leidimas.">
 <!ENTITY authRequired.button.label        "Leisti">
 <!ENTITY authRequired.button.accesskey    "L">
 

@@ -13,7 +13,7 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Pranešti adresatams apie Jūsų neveiklumą po">
+<!ENTITY  reportIdleAfter.label         "Pranešti adresatams apie jūsų neveiklumą po">
 <!ENTITY  reportIdleAfter.accesskey     "n">
 <!ENTITY  idleTime                      "min.">
 

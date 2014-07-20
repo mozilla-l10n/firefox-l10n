@@ -23,7 +23,7 @@
     <strong>ww</strong>.pavyzdys.lt vietoje
     <strong>www</strong>.pavyzdys.lt</li>
   <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog
+  <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog
     programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">
@@ -104,8 +104,8 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Patikrinkite, ar programoje nurodytos teisingos įgaliotojo serverio nuostatos.</li>
-  <li>Patikrinkite, ar yra ryšys tarp Jūsų kompiuterio ir tinklo.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, tai įsitikinkite, kad
+  <li>Patikrinkite, ar yra ryšys tarp jūsų kompiuterio ir tinklo.</li>
+  <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, tai įsitikinkite, kad
     programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">
@@ -120,7 +120,7 @@
 <!ENTITY unknownSocketType.title "Netikėtas serverio atsakas">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Įsitikinkite, kad į Jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li>
+  <li>Įsitikinkite, kad į jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li>
   <li>Ši klaida galėjo įvykti dėl nestandartinės serverio konfigūracijos.</li>
 </ul>
 ">
@@ -146,7 +146,7 @@
   <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir
 bandykite prisijungti iš naujo.</li>
   <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog
+  <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog
     programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">

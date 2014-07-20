@@ -14,7 +14,7 @@
 <!ENTITY  managepassword.timeout.unit   "min. ar ilgiau">
 
 <!ENTITY  changepassword.caption    "Pagrindinio slaptažodžio pakeitimas">
-<!ENTITY  changepassword.text     "Pagrindinis slaptažodis apsaugo Jūsų neskelbtiną informaciją, pavyzdžiui, svetainių slaptažodžius ir liudijimus.">
+<!ENTITY  changepassword.text     "Pagrindinis slaptažodis apsaugo jūsų neskelbtiną informaciją, pavyzdžiui, svetainių slaptažodžius ir liudijimus.">
 <!ENTITY  changepassword.button   "Pakeisti slaptažodį">
 <!ENTITY  changepassword.accesskey  "k">
 

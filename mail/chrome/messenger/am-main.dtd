@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Paskyros pavadinimas:">
 <!ENTITY accountName.accesskey "P">
 <!ENTITY identityTitle.label "Numatytieji tapatumo duomenys">
-<!ENTITY identityDesc.label "Paskyros nuostatose laikoma Jus identifikuojanti informacija, kurią mato laiškų gavėjai.">
+<!ENTITY identityDesc.label "Paskyros nuostatose laikoma jus identifikuojanti informacija, kurią mato laiškų gavėjai.">
 <!ENTITY name.label "Asmenvardis:">
 <!ENTITY name.accesskey "A">
 <!ENTITY email.label "El. pašto adresas:">

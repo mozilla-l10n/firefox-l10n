@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Pranešti apie gautus el. laiškus">
 <!ENTITY accountAliasGroupbox.caption "Vietinis kitavardis">
 <!ENTITY accountAliasField.label      "Kitavardis:">
-<!ENTITY accountAliasInfo.label       "Šis kitavardis Jūsų pokalbiuose bus rodomas Jums. Pašnekovai jo nematys.">
+<!ENTITY accountAliasInfo.label       "Šis kitavardis jūsų pokalbiuose bus rodomas jums. Pašnekovai jo nematys.">
 <!ENTITY accountProxySettings.caption "Įgaliotojo serverio sąranka">
 <!ENTITY accountProxySettings.change.label     "Keisti…">
 <!ENTITY accountProxySettings.change.accessKey "K">
