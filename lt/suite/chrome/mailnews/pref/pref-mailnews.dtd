@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "sklaidos kanalams">
 <!ENTITY setDefaultFeed.accesskey         "k">
 
+<!ENTITY useInternalSettings.description  "Naudoti „&brandShortName;“ pašto ir naujienų grupių programą, atveriant šiuos naršyklės saitus:">
+<!ENTITY useInternalMail.label            "El. pašto (mailto:)">
+<!ENTITY useInternalMail.accesskey        "p">
+<!ENTITY useInternalNews.label            "Naujienų (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "a">
+
 <!ENTITY messengerStartPage.caption       "Į pašto pradžios tinklalapį">
 <!ENTITY enableStartPage.label            "Paleidus pašto programą, rodyti pradžios tinklalapį">
 <!ENTITY enableStartPage.accesskey        "r">
