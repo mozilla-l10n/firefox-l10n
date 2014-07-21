@@ -10,6 +10,8 @@
 <!ENTITY clearHistory.label "Svuota cronologia">
 <!ENTITY clearHistory.accesskey "S">
 <!ENTITY locationBarHistory.caption "Cronologia barra degli indirizzi">
+<!ENTITY urlBarHistoryEnabled.caption "Abilita la cronologia della Barra degli indirizzi">
+<!ENTITY urlBarHistoryEnabled.accesskey "b">
 <!ENTITY clearLocationBar.label "Elimina la lista di siti memorizzata nel menu della barra degli indirizzi.">
 <!ENTITY clearLocationBarButton.label "Svuota barra degli indirizzi">
 <!ENTITY clearLocationBarButton.accesskey "b">
