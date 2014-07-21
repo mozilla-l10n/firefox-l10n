@@ -26,8 +26,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "v">
 <!ENTITY pref.defalarmlen4todos.label "Priminti iki darbo pradžios likus:">
 <!ENTITY pref.defalarmlen4todos.accesskey "a">
-<!ENTITY pref.defaultemail.label "Numatytasis priminimų gavėjo adresas:">
-<!ENTITY pref.defaulttext.label "Numatytasis priminimo tekstas:">
 
 <!ENTITY pref.defaultsnoozelength.label "Numatytasis priminimų atidėjimo laikas:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
