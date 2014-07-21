@@ -337,8 +337,8 @@
 <!ENTITY invite.title.label                       "Pakviesti dalyvių">
 <!ENTITY event.organizer.label                    "Organizuoja">
 <!ENTITY event.freebusy.suggest.slot              "Pasiūlyti laiką:">
-<!ENTITY event.freebusy.next.slot                 "Vėliau " >
-<!ENTITY event.freebusy.previous.slot             " Anksčiau" >
+<!ENTITY event.freebusy.button.next.slot          "Vėliau">
+<!ENTITY event.freebusy.button.previous.slot      "Anksčiau">
 <!ENTITY event.freebusy.zoom                      "Mastelis:">
 <!ENTITY event.freebusy.legend.free               "Laisvas" >
 <!ENTITY event.freebusy.legend.busy               "Užimtas" >
