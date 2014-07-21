@@ -107,6 +107,8 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label "Contas Firefox">
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -173,6 +175,7 @@
 
 <!ENTITY fxaccount_status_header2 "Conta Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
+<!ENTITY fxaccount_status_device_name "Nome do dispositivo">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; ativo">
 <!ENTITY fxaccount_status_needs_verification2 "Sua conta precisa ser confirmada. Toque para reenviar o email de confirmação.">
