@@ -23,7 +23,7 @@
 #define bookmarks_addons Firefox: Настройка с помощью дополнений
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://support.mozilla.org/ru/mobile
+# link title for https://support.mozilla.org/
 #define bookmarks_support Firefox: Поддержка
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
