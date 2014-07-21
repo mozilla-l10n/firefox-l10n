@@ -61,11 +61,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; kortelės (-ių)">
 <!ENTITY new_tab_opened "Atverta nauja kortelė">
+<!ENTITY new_private_tab_opened "Atverta nauja privačioji kortelė">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "Pereiti">
 
 <!ENTITY settings "Nuostatos">
 <!ENTITY settings_title "Nuostatos">
 <!ENTITY pref_category_advanced "Kitkas">
 <!ENTITY pref_category_customize "Individualizavimas">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Kalba">
+<!ENTITY pref_browser_locale "Naršyklės sąsajos kalba">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Sistemos numatytoji">
+
 <!ENTITY pref_category_search3 "Paieška">
 <!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
 <!ENTITY pref_category_display "Rodymas">
@@ -102,12 +119,15 @@
 <!ENTITY pref_home_updates "Automatinis atnaujinimas">
 <!ENTITY pref_home_updates_enabled "Įjungtas">
 <!ENTITY pref_home_updates_wifi "Tik per belaidį tinklą">
+<!ENTITY pref_home_suggested_sites "Rodyti svetainių siūlymus">
+<!ENTITY pref_home_suggested_sites_summary "Pradžios tinklalapyje rodyti nuorodas į svetaines, kurios, mūsų manymu, gali jus sudominti">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Individualizavimas">
 <!ENTITY pref_header_display "Rodymas">
 <!ENTITY pref_header_privacy_short "Privatumas">
 <!ENTITY pref_header_help "Pagalba">
+<!ENTITY pref_header_language "Kalba">
 <!ENTITY pref_header_vendor "„&vendorShortName;“">
 <!ENTITY pref_header_devtools "Programuotojų priemonės">
 
@@ -214,6 +234,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Niekada">
 <!ENTITY pref_update_autodownload_always "Visada">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Žinynas">
+
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
@@ -277,7 +300,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Slinkti antraštės juostą">
 
-<!ENTITY history_removed "Tinklalapis pašalintas">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Tinklalapis pašalintas">
 
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
 <!ENTITY bookmark_edit_name "Pavadinimas">
@@ -292,7 +318,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
-<!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
 <!ENTITY reading_list_duplicate "Tinklalapis jau yra skaitinių sąraše">
 
@@ -319,6 +344,8 @@ size. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
 
 <!ENTITY home_history_title "Žurnalas">
+<!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
+<!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
 <!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
 <!ENTITY home_last_tabs_title "Kortelės iš pastarojo seanso">
 <!ENTITY home_last_tabs_open "Atverti visas pastarojo seanso korteles">
@@ -432,3 +459,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meniu">
 <!ENTITY actionbar_done "Baigta">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Paskiausiai sinchronizuota: &formatS;">
