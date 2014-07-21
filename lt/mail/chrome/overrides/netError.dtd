@@ -126,7 +126,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Saugaus ryšio užmegzti nepavyko">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li>
   <li>Prašom pranešti apie šią problemą svetainės savininkams.</li>
