@@ -59,5 +59,5 @@
 <!ENTITY options.enableRemote.tooltip "Włączenie tej opcji pozwoli na debugowanie zdalnych instancji Firefoksa takich jak Firefox OS z poziomu narzędzi dla programistów">
 <!ENTITY options.disableJavaScript.label "Wyłącz JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w aktualnej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
-<!ENTITY options.disableCache.label "Wyłącz pamięć podręczną *">
-<!ENTITY options.disableCache.tooltip "Wyłącza pamięć podręczną w aktualnej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
+<!ENTITY options.disableCache.label2 "Wyłącz pamięć podręczną (gdy otworzone są narzędzia)">
+<!ENTITY options.disableCache.tooltip2 "Wyłącza pamięć podręczną we wszystkich kartach dla których narzędzia są otwarte.">
