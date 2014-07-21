@@ -30,22 +30,37 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis, pavyzdžiui, priedų naujinimo paslauga. Deja, mes negalime užtikrinti, kad šios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
+<!ENTITY rights2.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis, pavyzdžiui, susijusiomis su programos priedais paslaugomis ir saugiojo naršymo paslauga. Deja, mes negalime užtikrinti, kad šios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
 <!ENTITY rights.intro-point4b "naudojimosi paslaugomis taisyklėse">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos saityno tarnybos">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "„&brandFullName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų naujinimo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, priedų naujinimo paslaugą galite išjungti, programos nuostatų grupės ">
-<!ENTITY rights.webservices-b "„Kitkas“">
-<!ENTITY rights.webservices-c " pogrupyje ">
-<!ENTITY rights.webservices-d "„Programų diegimas“">
-<!ENTITY rights.webservices-e " panaikindami parinkčių „Automatiškai tikrinti, ar yra naujinimų“ žymėjimus">
+<!ENTITY rights2.webservices-a "„&brandFullName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų siūlymo ir naujinimo paslauga bei saugiojo naršymo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, šių Paslaugų išjungimo instrukcijas rasite ">
+<!ENTITY rights2.webservices-b "čia">
+<!ENTITY rights2.webservices-c ". Kitas funkcijas ir tarnybas galite išjungti programos nuostatose">
+
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Su programos priedais susijusios paslaugos: ">
+<!ENTITY rights.addons-b "Numatytai „&brandShortName;“ siūlys programos priedus tinklalapyje „&view.discover.label;“ ir periodiškai tikrins, ar nėra galimų naujinimų įdiegtiems priedams. Jeigu norite šias funkcijas išjungti, kad serveriui nebūtų siunčiama informacija apie įdiegtus priedus, atlikite šiuos žingsnius:">
+<!ENTITY rights.addons-term1 "Atverkite programos nuostatas;">
+<!ENTITY rights.addons-term2 "Pasirinkite nuostatų kategorijos „&advance.label;“ skiltį „&smart.label;“;">
+<!ENTITY rights.addons-term3 "Pašalinkite parinkčių „&autoAddOnsUpdates.label;“ ir „&enablePersonalized.label;“ žymėjimus;">
+<!ENTITY rights.addons-term4 "Atlikus šiuos žingsnius, su priedais susijusios paslaugos bus išjungtos.">
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Saugusis naršymas: ">
+<!ENTITY rights.safebrowsing-b "Išjungti šios funkcijos nerekomenduojame, nes ją išjungę, galėsite neįspėti patekti į nesaugias saityno svetaines. Jeigu visgi norite šią funkciją visiškai išjungti, darykite tai taip:">
+<!ENTITY rights.safebrowsing-term1 "atverkite programos nuostatas;">
+<!ENTITY rights.safebrowsing-term2 "pasirinkite nuostatų kategoriją „&security.label;“;">
+<!ENTITY rights.safebrowsing-term3 "panaikinkite parinkčių „&blockAttackSites.label;“ ir „&blockWebForgeries.label;“ žymėjimus;">
+<!ENTITY rights.safebrowsing-term4 "saugusis naršymas išjungtas.">
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą.">
