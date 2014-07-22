@@ -1,7 +1,0 @@
-bingmetrofx
-googlemetrofx
-amazon-france
-wikipedia-fr
-eBay-france
-yahoo-francemetrofx
-cnrtl-tlfi-fr
