@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webbinnehåll">
 
+<!ENTITY keepHistory.label "Kom ihåg webbplatser och länkar som jag har besökt">
+<!ENTITY keepHistory.accesskey "K">
 <!ENTITY acceptCookies.label "Tillåt kakor från webbplatser">
 <!ENTITY acceptCookies.accesskey "T">
 <!ENTITY acceptThirdParty.pre.label "Tillåt tredjepartskakor:">
