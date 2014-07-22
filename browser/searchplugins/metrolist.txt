@@ -1,5 +1,0 @@
-googlemetrofx
-yandex-tr
-wikipedia-tr
-amazondotcom
-eBay
