@@ -67,6 +67,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "더 많은 옵션을 보려면 클릭">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "재확인">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "주최자에게 재확인 메일 보내기">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "복사하여 저장하기">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "이 이벤트를 복사하여 저장합니다. 참석자 정보는 모두 지워집니다.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "불확실">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "이벤트 초대에 불확실로 답하기">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "전부 불확실로 답하기">
