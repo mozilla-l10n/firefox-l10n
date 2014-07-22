@@ -1,7 +1,0 @@
-googlemetrofx
-amazon-france
-bingmetrofx
-wikipedia-oc
-eBay-france
-yahoo-francemetrofx
-wiktionary-oc
