@@ -1,6 +1,0 @@
-amazondotcom
-bingmetrofx
-eBay
-googlemetrofx
-wikipedia-af
-yahoometrofx
