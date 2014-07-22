@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "참석자 초대">
 <!ENTITY event.organizer.label                  "조직">
 <!ENTITY event.freebusy.suggest.slot            "시간 슬롯:">
-<!ENTITY event.freebusy.next.slot               "다음 슬롯 " >
-<!ENTITY event.freebusy.previous.slot           "이전 슬롯" >
+<!ENTITY event.freebusy.button.next.slot               "다음 슬롯 " >
+<!ENTITY event.freebusy.button.previous.slot           "이전 슬롯" >
 <!ENTITY event.freebusy.zoom                    "확대:">
 <!ENTITY event.freebusy.legend.free             "일정 없음" >
 <!ENTITY event.freebusy.legend.busy             "일정 있음" >

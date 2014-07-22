@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "태스크 전 기본 알람 시간:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "알람 시 전송할 기본 주소:">
-<!ENTITY pref.defaulttext.label "알람 시 전송할 기본 문자:">
 
 <!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
