@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsDialog.title "Caratteri">
-<!ENTITY window.width "48em">
-<!ENTITY window.macWidth "49em">
-<!ENTITY window.unixWidth "48em">
 <!ENTITY language.label "Caratteri per:">
 <!ENTITY language.accesskey "C">
 <!ENTITY size.label "Dim.:">
