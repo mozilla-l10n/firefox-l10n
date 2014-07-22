@@ -1,7 +1,0 @@
-amazondotcom
-bingmetrofx
-eBay
-googlemetrofx
-leit-is
-wikipedia-is
-yahoometrofx
