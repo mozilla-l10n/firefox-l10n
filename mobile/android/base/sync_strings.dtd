@@ -49,6 +49,7 @@
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.button.ok.label "OK">
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecato)">
+<!ENTITY sync.default.client.name '&formatS1; su &formatS2;'>
 <!ENTITY bookmarks.folder.menu.label "Menu segnalibri">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etichette">
