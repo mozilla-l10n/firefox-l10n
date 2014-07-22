@@ -1,7 +1,0 @@
-amazon-en-GB
-bbc-alba
-duckduckgo
-faclair-beag
-googlemetrofx
-wikipedia-gd
-yahoo-en-GBmetrofx
