@@ -146,11 +146,11 @@
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
 <!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
 <!ENTITY pref_char_encoding_off "Ná taispeáin an roghchlár">
-<!ENTITY pref_clear_private_data2 "Clear now">
+<!ENTITY pref_clear_private_data2 "Glan anois">
 <!ENTITY pref_clear_private_data_category "Glan sonraí príobháideacha">
-<!ENTITY pref_clear_on_exit_title "Always clear when quitting">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; will automatically clear your data whenever you select &quot;Quit&quot; from the main menu">
-<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
+<!ENTITY pref_clear_on_exit_title "Glan i gcónaí ag am scortha">
+<!ENTITY pref_clear_on_exit_summary "Glanfaidh &brandShortName; do chuid sonraí gach uair a roghnaíonn tú 'Scoir' ón bpríomh-roghchlár">
+<!ENTITY pref_clear_on_exit_dialog_title "Roghnaigh na sonraí le glanadh">
 <!ENTITY pref_plugins "Forlíontáin">
 <!ENTITY pref_plugins_enabled "Cumasaithe">
 <!ENTITY pref_plugins_tap_to_play "Tapáil le seinm">
@@ -262,7 +262,7 @@ size. -->
 <!ENTITY new_tab "Cluaisín Nua">
 <!ENTITY new_private_tab "Cluaisín Nua Príobháideach">
 <!ENTITY close_all_tabs "Dún Gach Cluaisín">
-<!ENTITY close_private_tabs "Close Private Tabs">
+<!ENTITY close_private_tabs "Dún Cluaisíní Príobháideacha">
 <!ENTITY tabs_normal "Cluaisíní">
 <!ENTITY tabs_private "Príobháideach">
 <!ENTITY tabs_synced "Sioncrónaithe">
@@ -354,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
 <!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
 <!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
-<!ENTITY home_closed_tabs_title "Recently closed tabs">
+<!ENTITY home_closed_tabs_title "Cluaisíní a dúnadh le déanaí">
 <!ENTITY home_last_tabs_title "Cluaisíní ón seisiún roimhe seo">
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
-<!ENTITY home_open_all "Open all">
+<!ENTITY home_open_all "Oscail uile">
 <!ENTITY home_most_recent_empty "Taispeántar na suímh ar thug tú cuairt orthu le déanaí anseo.">
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -375,11 +375,11 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "Up to &formatS;">
+<!ENTITY home_move_up_to_filter "Fill ar &formatS;">
 
 <!ENTITY private_browsing_title "Brabhsáil Phríobháideach">
 <!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we don\'t keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
-<!ENTITY private_tabs_panel_learn_more "Want to learn more?">
+<!ENTITY private_tabs_panel_learn_more "An bhfuil tuilleadh eolais uait?">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
