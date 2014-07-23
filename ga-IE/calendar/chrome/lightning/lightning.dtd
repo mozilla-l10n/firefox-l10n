@@ -57,7 +57,9 @@
 <!ENTITY lightning.imipbar.btnMore.label "Tuilleadh">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Cliceáil chun tuilleadh roghanna a fháil">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Deimhnigh arís">
-<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Sends a reconfirmation to the organizer">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Seol deimhniú eile chuig an eagraí">
+<!ENTITY lightning.imipbar.btnSaveCopy.label "Sábháil cóip den imeacht">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Save a copy of the event to the calendar independently of replying to the organizer. The list of attendees will be cleared.">
 <!ENTITY lightning.imipbar.btnTentative.label "Sealadach">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Glac leis an gcuireadh go sealadach">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Glac le gach ceann go sealadach">

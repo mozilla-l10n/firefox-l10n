@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Cuntais Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title 'Using account on server'>
+<!ENTITY fxaccount_custom_server_sync_title 'Storing Sync data on server'>
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Cuntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
+<!ENTITY fxaccount_status_auth_server 'Account server'>
 <!ENTITY fxaccount_status_device_name "Ainm an ghléis">
+<!ENTITY fxaccount_status_sync_server 'Sync server'>
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: cumasaithe">
 <!ENTITY fxaccount_status_needs_verification2 "Caithfidh tú do chuntas a dhearbhú. Tapáil chun an teachtaireacht dearbhaithe a sheoladh arís.">
