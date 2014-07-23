@@ -25,6 +25,7 @@
 <!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
 <!ENTITY openLocationCmd.label "Atvērt vietu…">
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Pievienot izvēlnei">
@@ -584,6 +585,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Izvēlies mikrofonu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Visi uz ekrāna redzamie logi tiks koplietoti.">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Izvēlies logu vai ekrānu ko koplietot:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "I">
+
+<!ENTITY loopCallButton.tooltip "Uzaicināt kādu uz sarunu">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Pārlādēt visas cilnes">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Atcelt cilņu aizvēršanu">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
+
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Atskaņot">
