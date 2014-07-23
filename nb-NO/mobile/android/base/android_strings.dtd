@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bokmerker">
 <!ENTITY  history_title "Historikk">
 <!ENTITY  reading_list_title "Leseliste">
+<!ENTITY  recent_tabs_title "Nylige faner">
 
 <!ENTITY  switch_to_tab "Bytt til fane">
 
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Legg til et nettsted som søketilbyder ved å lang-trykke på søkefeltet og deretter velge &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utviklerverktøy">
+<!ENTITY pref_developer_paint_flashing "Markering av skjermtegning">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_remember_signons "Husk passord">
 
 <!ENTITY pref_category_home "Hjem">
 <!ENTITY pref_category_home_summary "Tilpass startsiden">
 <!ENTITY pref_category_home_panels "Paneler">
-<!ENTITY pref_home_add_panel "Legg til panel">
 <!ENTITY home_add_panel_title "Legg til nytt panel">
 <!ENTITY home_add_panel_empty "Beklager, vi klarte ikke finne noen paneler som kan legges til.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Tegnkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
+<!ENTITY pref_clear_private_data2 "Tøm nå">
 <!ENTITY pref_clear_private_data "Slett private data">
+<!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutning">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk slette data når du velger &quot;Avslutt&quot; fra hovedmenyen">
+<!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
 <!ENTITY pref_plugins_tap_to_play "Trykk for å starte">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lukk alle faner">
+<!ENTITY close_private_tabs "Lukk private faner">
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Åpne i ny fane">
 <!ENTITY contextmenu_open_private_tab "Åpne i privat fane">
-<!ENTITY contextmenu_open_in_reader "Åpne i Reader">
 <!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på forsiden">
 <!ENTITY contextmenu_share "Del">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Slett nettleserhistorikk">
 <!ENTITY home_clear_history_confirm "Er du sikker på at du vil slette historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerkene dine vises her.">
+<!ENTITY home_closed_tabs_title "Nylig lukkede faner">
 <!ENTITY home_last_tabs_title "Faner fra forrige gang">
-<!ENTITY home_last_tabs_open "Åpne alle faner fra forrige gang">
 <!ENTITY home_last_tabs_empty "Nylig brukte faner vises her.">
-<!ENTITY home_most_recent_title "Nylig brukt">
+<!ENTITY home_open_all "Åpne alle">
 <!ENTITY home_most_recent_empty "Nettsted som du sist besøkte visese her.">
 <!ENTITY home_reading_list_empty "Artikler du lagrer for senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Opp til &formatS;">
+
+<!ENTITY private_browsing_title "Privat nettlesing">
+<!ENTITY private_tabs_panel_empty_desc "Dine private faner vil vises her. Selv om nettleserhistorikk eller infokapsler ikke lagres, vil bokmerker og filer du laster ned fortsatt lagres på enheten.">
+<!ENTITY private_tabs_panel_learn_more "Vil du lese mer?">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn et søkeord">
 

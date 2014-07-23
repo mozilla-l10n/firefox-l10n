@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å vise flere valg">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekreft på nytt">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Send en ny bekreftelse til arrangementinnkaller">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagre en kopi">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagre en kopi av hendelsen i kalenderen, uavhengig av å svare til den som organiserer. Deltakerlisten vil tømmes.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med forbehold">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Aksepter arrangementinvitasjon med forbehold">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med forbehold">
