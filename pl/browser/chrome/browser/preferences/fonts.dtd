@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Czcionki">
-<!ENTITY  window.width                            "50em">
-<!ENTITY  window.macWidth                         "56em">
-<!ENTITY  window.unixWidth                        "55em">
 
 <!ENTITY  language.label                          "Czcionki:"> <!-- "Fonts for:" -->
 <!ENTITY  language.accesskey                      "c">
