@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Rudaí ar an Bharra Leabharmharc">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "G">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Leabharmharcáil Gach Cluaisín…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "C">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Cealaigh Dúnadh an Chluaisín">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "C">
+
 <!ENTITY pageSourceCmd.label "Foinse an Leathanaigh">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey "b">
 <!ENTITY devAppMgrMenu.label "Bainisteoir Aipeanna">
 <!ENTITY devAppMgrMenu.accesskey "A">
+<!ENTITY webide.label "WebIDE">
+<!ENTITY webide.accesskey "W">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Scoránaigh Uirlisí">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Ceamara le comhroinnt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Window or screen to share:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Micreafón le comhroinnt:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "All visible windows on your screen will be shared.">
 
 <!ENTITY webrtcIndicatorButton.label "Rochtain ar Cheamara / Micreafón">
 <!ENTITY webrtcIndicatorButton.tooltip "Taispeáin na suímh a bhfuil tú ag comhroinnt do cheamara agus do mhicreafón leo">
+
+<!ENTITY loopCallButton.tooltip "Invite someone to talk">
 
 <!ENTITY mixedContentBlocked.moreinfo "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
 

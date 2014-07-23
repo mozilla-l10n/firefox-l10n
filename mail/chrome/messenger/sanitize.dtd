@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label "Mionsonraí">
 <!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
+<!ENTITY itemHistory.label "Stair Bhrabhsála">
+<!ENTITY itemHistory.accesskey "B">
 <!ENTITY itemCookies.label "Fianáin">
 <!ENTITY itemCookies.accesskey "F">
 <!ENTITY itemCache.label "Taisce">

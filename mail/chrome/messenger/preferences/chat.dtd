@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY sendTyping.accesskey "d">
 
 <!ENTITY chatNotifications.label "When messages directed at you arrive:">
-<!ENTITY desktopChatNotifications.label "Taispeáin fógra">
-<!ENTITY desktopChatNotifications.accesskey "g">
+<!ENTITY desktopChatNotifications.label "Taispeáin fógra:">
+<!ENTITY desktopChatNotifications.accesskey "r">
+<!ENTITY completeNotification.label "le hainm an tseoltóra agus réamhamharc">
+<!ENTITY buddyInfoOnly.label "le hainm an tseoltóra amháin">
+<!ENTITY dummyNotification.label "gan aon fhaisnéis">
 <!ENTITY chatSound.accesskey "m">
 <!ENTITY chatSound.label "Seinn fuaim">
 <!ENTITY play.label "Seinn">

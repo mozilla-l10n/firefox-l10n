@@ -56,3 +56,11 @@
 <!ENTITY translation.options.neverForSite.accesskey "N">
 <!ENTITY translation.options.preferences.label "Sainroghanna aistriúcháin">
 <!ENTITY translation.options.preferences.accesskey "t">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Translations by">
+<!ENTITY translation.options.attribution.afterLogo "">

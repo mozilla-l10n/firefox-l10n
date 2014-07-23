@@ -11,6 +11,7 @@
 <!ENTITY bookmarks_title "Leabharmharcanna">
 <!ENTITY history_title "Stair">
 <!ENTITY reading_list_title "Liosta Léitheoireachta">
+<!ENTITY recent_tabs_title "Recent Tabs">
 
 <!ENTITY switch_to_tab "Téigh go cluaisín">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Inniu">
 <!ENTITY history_yesterday_section "Inné">
-<!ENTITY history_week_section "7 lá ó shin">
-<!ENTITY history_older_section "Níos sine ná 7 lá">
+<!ENTITY history_week_section2 "An tseachtain seo caite">
+<!ENTITY history_older_section2 "Last Month">
 
 <!ENTITY go "Ar Aghaidh">
 <!ENTITY search "Cuardaigh">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_devtools "Uirlisí forbróra">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 
 <!ENTITY pref_category_home "Baile">
 <!ENTITY pref_category_home_summary "Saincheap do leathanach baile">
 <!ENTITY pref_category_home_panels "Painéil">
-<!ENTITY pref_home_add_panel "Cuir painéal leis">
 <!ENTITY home_add_panel_title "Cuir painéal nua leis">
 <!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
 <!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
 <!ENTITY pref_char_encoding_off "Ná taispeáin an roghchlár">
-<!ENTITY pref_clear_private_data "Glan sonraí príobháideacha">
+<!ENTITY pref_clear_private_data2 "Clear now">
+<!ENTITY pref_clear_private_data_category "Glan sonraí príobháideacha">
+<!ENTITY pref_clear_on_exit_title "Always clear when quitting">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; will automatically clear your data whenever you select &quot;Quit&quot; from the main menu">
+<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
 <!ENTITY pref_plugins "Forlíontáin">
 <!ENTITY pref_plugins_enabled "Cumasaithe">
 <!ENTITY pref_plugins_tap_to_play "Tapáil le seinm">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Cluaisín Nua">
 <!ENTITY new_private_tab "Cluaisín Nua Príobháideach">
 <!ENTITY close_all_tabs "Dún Gach Cluaisín">
+<!ENTITY close_private_tabs "Close Private Tabs">
 <!ENTITY tabs_normal "Cluaisíní">
 <!ENTITY tabs_private "Príobháideach">
 <!ENTITY tabs_synced "Sioncrónaithe">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
 <!ENTITY contextmenu_open_private_tab "Oscail i gCluaisín Príobháideach">
-<!ENTITY contextmenu_open_in_reader "Oscail i Léitheoir">
 <!ENTITY contextmenu_remove "Bain">
 <!ENTITY contextmenu_add_to_launcher "Cuir leis an Scáileán Baile">
 <!ENTITY contextmenu_share "Roinn">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
 <!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
 <!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
+<!ENTITY home_closed_tabs_title "Recently closed tabs">
 <!ENTITY home_last_tabs_title "Cluaisíní ón seisiún roimhe seo">
-<!ENTITY home_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
-<!ENTITY home_most_recent_title "Is déanaí">
+<!ENTITY home_open_all "Open all">
 <!ENTITY home_most_recent_empty "Taispeántar na suímh ar thug tú cuairt orthu le déanaí anseo.">
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Up to &formatS;">
+
+<!ENTITY private_browsing_title "Brabhsáil Phríobháideach">
+<!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we don\'t keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
+<!ENTITY private_tabs_panel_learn_more "Want to learn more?">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
