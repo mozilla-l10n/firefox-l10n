@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "網站內容">
 
+<!ENTITY keepHistory.label "記住我開啟過的網站與鏈結">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "允許網站設定 Cookie">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "接受來自第三方的 Cookies:">

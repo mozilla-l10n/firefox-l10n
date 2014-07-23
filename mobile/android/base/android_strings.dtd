@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "書籤">
 <!ENTITY  history_title "歷史記錄">
 <!ENTITY  reading_list_title "閱讀清單">
+<!ENTITY  recent_tabs_title "最近開啟的分頁">
 
 <!ENTITY  switch_to_tab "切換到分頁">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
-<!ENTITY history_week_section "7 天前">
-<!ENTITY history_older_section "早於 7 天前">
+<!ENTITY history_week_section2 "上週">
+<!ENTITY history_older_section2 "上個月">
 
 <!ENTITY go "衝">
 <!ENTITY search "搜尋">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
+<!ENTITY pref_developer_paint_flashing "閃爍描繪區域">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_remember_signons "記住密碼">
 
 <!ENTITY pref_category_home "首頁">
 <!ENTITY pref_category_home_summary "自訂您的首頁">
 <!ENTITY pref_category_home_panels "面板">
-<!ENTITY pref_home_add_panel "新增面板">
 <!ENTITY home_add_panel_title "新增面板">
 <!ENTITY home_add_panel_empty "抱歉，我們無法為您加入任何面板。">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_private_data "清除隱私資料">
+<!ENTITY pref_clear_private_data2 "立刻清除">
+<!ENTITY pref_clear_private_data_category "清除隱私資料">
+<!ENTITY pref_clear_on_exit_title "總是在離開時清除">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; 將自動在您選擇主選單的「離開」時清除您的資料">
+<!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "開新分頁">
 <!ENTITY new_private_tab "開新隱私瀏覽分頁">
 <!ENTITY close_all_tabs "關閉所有分頁">
+<!ENTITY close_private_tabs "關閉隱私分頁">
 <!ENTITY tabs_normal "分頁">
 <!ENTITY tabs_private "隱私">
 <!ENTITY tabs_synced "同步">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "用新分頁開啟">
 <!ENTITY contextmenu_open_private_tab "開啟於隱私分頁">
-<!ENTITY contextmenu_open_in_reader "在閱讀器中開啟">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_share "分享">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
 <!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
+<!ENTITY home_closed_tabs_title "最近關閉的分頁">
 <!ENTITY home_last_tabs_title "上次開啟的分頁">
-<!ENTITY home_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
-<!ENTITY home_most_recent_title "最近開啟的分頁">
+<!ENTITY home_open_all "開啟全部">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "&formatS; 的上面">
+
+<!ENTITY private_browsing_title "隱私瀏覽模式">
+<!ENTITY private_tabs_panel_empty_desc "您的隱私分頁將在此顯示，雖然我們不會保留您的瀏覽紀錄或 Cookie，但您建立的書籤與下載的檔案仍然會留在裝置中。">
+<!ENTITY private_tabs_panel_learn_more "想了解更多資訊？">
 
 <!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 

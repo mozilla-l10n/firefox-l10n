@@ -10,12 +10,16 @@
 <!ENTITY clearOfflineAppCache.label         "清除">
 <!ENTITY clearOfflineAppCache.accesskey     "C">
 
-<!ENTITY offlineNotify.label                "若網站要求儲存資料以供離線使用時告訴我。">
-<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineAlwaysAllow.label           "允許所有網站儲存資料供離線時使用">
+<!ENTITY offlineAlwaysAllow.accesskey       "A">
+<!ENTITY offlineExplicit.label              "只允許經明確允許的網站">
+<!ENTITY offlineExplicit.accesskey          "O">
+<!ENTITY offlineNotifyAsk.label             "在網站想要儲存資料供離線使用時通知我">
+<!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "管理權限">
 <!ENTITY offlineNotifyPermissions.accesskey "P">
 
-<!ENTITY offlineAppsList.label              "允許下列網站儲存資料供離線使用:">
+<!ENTITY offlineAppsUsage.label             "下列網站使用離線儲存空間:">
 <!ENTITY offlineAppsListRemove.label        "清除資料…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
 

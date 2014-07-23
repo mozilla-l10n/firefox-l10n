@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "s">
 
 <!ENTITY  locationBarHistory.caption        "網址列記錄">
+<!ENTITY  urlBarHistoryEnabled.caption      "啟用網址列記錄">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "E">
 <!ENTITY  clearLocationBar.label            "清除網址列裡記錄的網站位址。">
 <!ENTITY  clearLocationBarButton.label      "清除網址列記錄">
 <!ENTITY  clearLocationBarButton.accesskey  "l">

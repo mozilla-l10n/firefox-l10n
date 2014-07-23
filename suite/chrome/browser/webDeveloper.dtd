@@ -4,4 +4,6 @@
 
 <!ENTITY validatePage.label            "驗證此頁面">
 <!ENTITY validatePage.accesskey        "V">
+<!ENTITY allowRemoteDebugging.label     "允許遠端除錯">
+<!ENTITY allowRemoteDebugging.accesskey "A">
 

@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "編碼:">
 <!ENTITY  generalMetaName       "名稱">
 <!ENTITY  generalMetaContent    "內容">
-<!ENTITY  generalSecurityDetails   "詳細資訊">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "媒體">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "本頁面的安全資訊">
 <!ENTITY  securityView.certView "檢視憑證">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "未知">
