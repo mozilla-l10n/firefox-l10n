@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementer i bokmerkelinje">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Last inn alle faner på nytt">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner …">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "B">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Angre lukking av fane">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "n">
+
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "App-behandler">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Slå av/på verktøy">
@@ -700,8 +709,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som deles:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Vindu eller skjerm å dele:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "V">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon som deles:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på skjermen vil deles.">
 
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofontilgang">
 <!ENTITY webrtcIndicatorButton.tooltip "Viser nettsted som du deler kameraet eller mikrofonen med">
