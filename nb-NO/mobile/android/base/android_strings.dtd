@@ -44,8 +44,8 @@
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
-<!ENTITY history_week_section "7 dager siden">
-<!ENTITY history_older_section "Eldre enn 7 dager">
+<!ENTITY history_week_section2 "Forrige uke">
+<!ENTITY history_older_section2 "Forrige måned">
 
 <!ENTITY go "Gå">
 <!ENTITY search "Søk">
@@ -147,7 +147,7 @@
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
 <!ENTITY pref_clear_private_data2 "Tøm nå">
-<!ENTITY pref_clear_private_data "Slett private data">
+<!ENTITY pref_clear_private_data_category "Slett private data">
 <!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutning">
 <!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk slette data når du velger &quot;Avslutt&quot; fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
