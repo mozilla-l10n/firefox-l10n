@@ -23,7 +23,7 @@
 #define bookmarks_addons Firefox: 使用附加元件
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 #define bookmarks_support Firefox: 技術支援
 
 # LOCALIZATION NOTE (bookmarks_marketplace):

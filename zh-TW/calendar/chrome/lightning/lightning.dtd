@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "點擊此處顯示更多選項">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新確認">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "傳送重新確認通知給召集人">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "儲存副本">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "將事件副本另外儲存於行事曆，而不直接回覆召集人，參與者清單將被清除。">
 <!ENTITY lightning.imipbar.btnTentative.label                               "暫定">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "暫時接受事件邀請">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "暫定接受參與所有活動">
