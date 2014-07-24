@@ -52,3 +52,15 @@
 <!ENTITY options.enablePersistentLogs.tooltip "Si activa esta opción, la consola web y el monitor de red no inicializarán la salida cada vez que navegue a una página nueva">
 <!ENTITY options.showPlatformData.label "Mostrar datos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Si activa esta opción los informes del analizador JavaScript incluirán los símbolos de la plataforma Gecko">
+<!ENTITY options.sourceeditor.label "Preferencias del editor">
+<!ENTITY options.sourceeditor.detectindentation.label "Detectar sangrado">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Deducir sangrado basándose en el contenido del código fuente">
+<!ENTITY options.sourceeditor.autoclosebrackets.label "Cerrar llaves automáticamente">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Insertar llaves de cerrado automáticamente">
+<!ENTITY options.sourceeditor.expandtab.label "Sangrar usando espacios">
+<!ENTITY options.sourceeditor.expandtab.tooltip "Usar espacios en lugar del carácter de tabulación">
+<!ENTITY options.sourceeditor.tabsize.label "Tamaño de la pestaña">
+<!ENTITY options.sourceeditor.tabsize.accesskey "T">
+<!ENTITY options.sourceeditor.keybinding.label "Combinaciones de teclas">
+<!ENTITY options.sourceeditor.keybinding.accesskey "C">
+<!ENTITY options.sourceeditor.keybinding.default.label "Predeterminado">
