@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Pa vez degemeret kemennadennoù kaset deoc'h :">
 <!ENTITY  desktopChatNotifications.label      "Diskouez ur rebuzadur">
 <!ENTITY  desktopChatNotifications.accesskey  "r">
+<!ENTITY  completeNotification.label          "gant anv ar c'haser hag alberz ar gemennadenn">
+<!ENTITY  buddyInfoOnly.label                 "gant anv ar c'haser nemetken">
+<!ENTITY  dummyNotification.label             "hep titour ebet">
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Seniñ ur son">
 <!ENTITY  play.label                          "Lenn">

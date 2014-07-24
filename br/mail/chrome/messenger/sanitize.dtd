@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Munudoù">
 <!ENTITY detailsProgressiveDisclosure.accesskey "u">
 
+<!ENTITY itemHistory.label                 "Roll istor ar merdeiñ">
+<!ENTITY itemHistory.accesskey             "R">
 <!ENTITY itemCookies.label                 "Toupinoù">
 <!ENTITY itemCookies.accesskey             "o">
 <!ENTITY itemCache.label                   "Krubuilh">

@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Endalc'had Web">
 
+<!ENTITY keepHistory.label "Derc'hel soñj eus al lec'hiennoù hag an ereoù gweladennet ganin">
+<!ENTITY keepHistory.accesskey "s">
 <!ENTITY acceptCookies.label "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY acceptCookies.accesskey "D">
 <!ENTITY acceptThirdParty.pre.label "Degemer toupinoù un trede :">
