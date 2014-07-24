@@ -95,6 +95,12 @@
 <!ENTITY debuggerUI.showOriginalSource      "Rodyti pirminius šaltinius">
 <!ENTITY debuggerUI.showOriginalSource.accesskey  "š">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
+  -  the checkbox that toggles whether sources that we suspect are minified are
+  -  automatically black boxed or not. -->
+<!ENTITY debuggerUI.autoBlackBox           "Automatiškai taikyti juodosios dėžės principą minimizuotiems ištekliams">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "m">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 <!ENTITY debuggerUI.searchPanelOperators    "Operatoriai:">

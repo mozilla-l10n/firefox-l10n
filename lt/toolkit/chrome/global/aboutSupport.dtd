@@ -56,6 +56,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent           "Naršyklės identifikacinė eilutė">
 <!ENTITY aboutSupport.appBasicsMemoryUse           "Atminties naudojimas">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
+
 <!ENTITY aboutSupport.showDir.label                "Atverti aplanką">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -66,13 +68,17 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label                "Atverti aplanką">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle        "Svarbiausios pakeistos nuostatos">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle        "Svarbios pakeistos nuostatos">
 <!ENTITY aboutSupport.modifiedPrefsName            "Vardas">
 <!ENTITY aboutSupport.modifiedPrefsValue           "Reikšmė">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle                  "Nuostatos „user.js“ faile">
 <!ENTITY aboutSupport.userJSDescription            "Jūsų profilio aplanke yra <a id='prefs-user-js-link'>„user.js“ failas</a>, kuriame įrašytos nuostatos, sukurtos ne „&brandShortName;“ programoje.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Svarbios užrakintos nuostatos">
+<!ENTITY aboutSupport.lockedPrefsName "Vardas">
+<!ENTITY aboutSupport.lockedPrefsValue "Reikšmė">
 
 <!ENTITY aboutSupport.graphicsTitle                "Grafika">
 
