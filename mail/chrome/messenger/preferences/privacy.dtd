@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Saityno turinys">
 
+<!ENTITY keepHistory.label "Įsiminti lankytas svetaines ir saitus">
+<!ENTITY keepHistory.accesskey "m">
 <!ENTITY acceptCookies.label "Leisti įrašyti slapukus">
 <!ENTITY acceptCookies.accesskey "s">
 <!ENTITY acceptThirdParty.pre.label "Leisti trečiųjų šalių slapukus:">

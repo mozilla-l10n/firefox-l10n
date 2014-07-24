@@ -24,9 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label       "Išsamiau">
 <!ENTITY detailsProgressiveDisclosure.accesskey   "I">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
+<!ENTITY itemHistory.label                 "Naršymo žurnalas">
+<!ENTITY itemHistory.accesskey             "ž">
 <!ENTITY itemCookies.label                    "Slapukai">
 <!ENTITY itemCookies.accesskey                "a">
 <!ENTITY itemCache.label                      "Podėlis">

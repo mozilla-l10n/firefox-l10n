@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Gavus jums skirtą pranešimą:">
 <!ENTITY  desktopChatNotifications.label      "Rodyti įspėjimą">
 <!ENTITY  desktopChatNotifications.accesskey  "ė">
+<!ENTITY  completeNotification.label          "su siuntėjo vardu ir laiško ištrauka">
+<!ENTITY  buddyInfoOnly.label                 "tik su siuntėjo vardu">
+<!ENTITY  dummyNotification.label             "be informacijos apie laišką">
 <!ENTITY  chatSound.accesskey                 "g">
 <!ENTITY  chatSound.label                     "Pranešti garsu">
 <!ENTITY  play.label                          "Perklausyti">
