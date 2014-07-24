@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Atsiųsti iš naujo visų kortelių tinklalapius">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "n">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Įrašyti visas korteles į adresyną…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Atšaukti kortelės užvėrimą">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "A">
+
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -258,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "o">
 <!ENTITY devAppMgrMenu.label               "Programų tvarkytuvė">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Rodyti priemones">
@@ -684,11 +693,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kurią leisite pasiekti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Langas arba ekranas, kurį leisite matyti:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "L">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofonas, kurį leisite pasiekti:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 
 <!ENTITY webrtcIndicatorButton.label "Prieiga prie kameros arba mikrofono">
 <!ENTITY webrtcIndicatorButton.tooltip "Parodyti svetaines, kurioms leidžiate prieiti prie savo kompiuoterio kameros arba mikrofono">
+
+<!ENTITY loopCallButton.tooltip "Pakviesti ką nors pokalbiui">
 
 <!ENTITY mixedContentBlocked.moreinfo "Dauguma svetainių veikia korektiškai net ir užblokavus šį turinį.">
 
