@@ -44,8 +44,8 @@
 
 <!ENTITY history_today_section "Данас">
 <!ENTITY history_yesterday_section "Јуче">
-<!ENTITY history_week_section "Пре 7 дана">
-<!ENTITY history_older_section "Старије од 7 дана">
+<!ENTITY history_week_section2 "Последња недеља">
+<!ENTITY history_older_section2 "Последњи месец">
 
 <!ENTITY go "Иди">
 <!ENTITY search "Претрага">
@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "Очисти">
 <!ENTITY pref_clear_private_data_category "Очисти приватне податке">
 <!ENTITY pref_clear_on_exit_title "Увек очисти при изласку">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете &quot;Изађи&quot; из главног менија">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете &quot;Quit&quot; из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се очисте">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
@@ -310,7 +310,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY history_removed "Страница је уклоњена">
+<!ENTITY page_removed "Страница је уклоњена">
 
 <!ENTITY bookmark_edit_title "Уреди забелешку">
 <!ENTITY bookmark_edit_name "Име">
