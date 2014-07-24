@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "Очисти">
 <!ENTITY pref_clear_private_data_category "Очисти приватне податке">
 <!ENTITY pref_clear_on_exit_title "Увек очисти при изласку">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете &quot;Quit&quot; из главног менија">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете "Изађи" из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се очисте">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
