@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsDialog.title "Tipografía">
-<!ENTITY window.width "46em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "49em">
 <!ENTITY language.label "Tipografías para:">
 <!ENTITY language.accesskey "T">
 <!ENTITY size.label "Tamaño:">
