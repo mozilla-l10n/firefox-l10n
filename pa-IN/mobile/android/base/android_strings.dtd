@@ -10,7 +10,7 @@
 <!ENTITY  bookmarks_title "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  history_title "ਅਤੀਤ">
 <!ENTITY  reading_list_title "ਪੜ੍ਹਨ ਸੂਚੀ">
-
+<!ENTITY  recent_tabs_title "ਤਾਜ਼ਾ ਟੈਬਾਂ">
 <!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
@@ -161,9 +161,9 @@
 <!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਵੇਖਾਓ">
 <!ENTITY pref_clear_private_data2 "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_private_data_category "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY pref_clear_on_exit_title "Always clear when quitting">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; will automatically clear your data whenever you select &quot;Quit&quot; from the main menu">
-<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
+<!ENTITY pref_clear_on_exit_title "ਬੰਦ ਕਰਨ ਉੱਤੇ ਹਮੇਸ਼ਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; ਆਟੋਮੈਟਿਕ ਹੀ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੇਗਾ, ਜਦੋਂ ਵੀ ਮੁੱਖ ਮੇਨੂ ਤੋਂ ਤੁਸੀਂ &quot;ਬੰਦ ਕਰੋ&quot; ਦੀ ਚੋਣ ਕਰੋਗੇ">
+<!ENTITY pref_clear_on_exit_dialog_title "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਡਾਟਾ ਸਾਫ਼ ਕਰਨਾ ਹੈ">
 <!ENTITY pref_plugins "ਪਲੱਗਇਨ">
 <!ENTITY pref_plugins_enabled "ਚਾਲੂ ਹੈ">
 <!ENTITY pref_plugins_tap_to_play "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
