@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Забелешке">
 <!ENTITY  history_title "Историја">
 <!ENTITY  reading_list_title "Листа за читање">
+<!ENTITY  recent_tabs_title "Недавни језичци">
 
 <!ENTITY  switch_to_tab "Пребаци на језичак">
 
@@ -62,11 +63,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; језичака">
 <!ENTITY new_tab_opened "Нови језичак је отворен">
+<!ENTITY new_private_tab_opened "Нови приватан језичак је отворен">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ПРОМЕНИ">
 
 <!ENTITY settings "Поставке">
 <!ENTITY settings_title "Поставке">
 <!ENTITY pref_category_advanced "Напредне">
 <!ENTITY pref_category_customize "Прилагоди">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Језик">
+<!ENTITY pref_browser_locale "Језик прегледача">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Системски подразумеван">
+
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
 <!ENTITY pref_category_display "Прикажи">
@@ -86,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што чете дуго притиснути поље за претрагу и затим притиснути &formatI; иконицу.">
 <!ENTITY pref_category_devtools "Алати за развој">
+<!ENTITY pref_developer_paint_flashing "Трепћућа боја">
 <!ENTITY pref_developer_remotedebugging "Удаљено отклањање грешака">
 <!ENTITY pref_remember_signons "Запамти лозинку">
 
 <!ENTITY pref_category_home "Почетна">
 <!ENTITY pref_category_home_summary "Прилагоди почетну страницу">
 <!ENTITY pref_category_home_panels "Панели">
-<!ENTITY pref_home_add_panel "Додај панел">
 <!ENTITY home_add_panel_title "Додај нови панел">
 <!ENTITY home_add_panel_empty "Жао на је, нисмо могли да пронађемо било који панел за додавање.">
 <!-- Localization note (home_add_panel_installed):
@@ -103,12 +121,15 @@
 <!ENTITY pref_home_updates "Аутоматско ажурирање">
 <!ENTITY pref_home_updates_enabled "Омогућено">
 <!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Прикажи предлоге сајта">
+<!ENTITY pref_home_suggested_sites_summary "Приказује пречице оних сајтова за које мислимо да ће Вам бити интересантни на Вашој почетној страници">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Прилагоди">
 <!ENTITY pref_header_display "Прикажи">
 <!ENTITY pref_header_privacy_short "Приватност">
 <!ENTITY pref_header_help "Помоћ">
+<!ENTITY pref_header_language "Језик">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Алати за развој">
 
@@ -125,7 +146,11 @@
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
 <!ENTITY pref_char_encoding_off "Немој приказати мени">
-<!ENTITY pref_clear_private_data "Очисти приватне податке">
+<!ENTITY pref_clear_private_data2 "Очисти">
+<!ENTITY pref_clear_private_data_category "Очисти приватне податке">
+<!ENTITY pref_clear_on_exit_title "Увек очисти при изласку">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете &quot;Изађи&quot; из главног менија">
+<!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се очисте">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
 <!ENTITY pref_plugins_tap_to_play "Притисните">
@@ -216,6 +241,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Никад">
 <!ENTITY pref_update_autodownload_always "Увек">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Помоћ">
+
 <!ENTITY quit "Изађи">
 
 <!ENTITY addons "Додаци">
@@ -227,13 +255,14 @@ size. -->
 <!ENTITY share_title "Подели преко">
 <!ENTITY share_image_failed "Не могу поделити ову слику">
 <!ENTITY save_as_pdf "Сними као PDF">
-<!ENTITY find_in_page "Нађи на страници">
+<!ENTITY find_in_page "Пронађи на страници">
 <!ENTITY desktop_mode "Захтевај сајт и десктоп режиму">
 <!ENTITY page "Страница">
 <!ENTITY tools "Алати">
 <!ENTITY new_tab "Нови језичак">
 <!ENTITY new_private_tab "Нови приватни језичак">
 <!ENTITY close_all_tabs "Затвори све језичке">
+<!ENTITY close_private_tabs "Затвори приватне језичке">
 <!ENTITY tabs_normal "Језичци">
 <!ENTITY tabs_private "Приватни">
 <!ENTITY tabs_synced "Синхронизовани">
@@ -242,10 +271,10 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
-<!ENTITY find_close "Close">
+<!ENTITY find_text "Пронађи на страници">
+<!ENTITY find_prev "Претходни">
+<!ENTITY find_next "Следећи">
+<!ENTITY find_close "Затвори">
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -256,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Отвори у новом језичку">
 <!ENTITY contextmenu_open_private_tab "Отвори у новом приватном језичку">
-<!ENTITY contextmenu_open_in_reader "Отвори у читачу">
 <!ENTITY contextmenu_remove "Уклони">
 <!ENTITY contextmenu_add_to_launcher "Дадај на почетни екран">
 <!ENTITY contextmenu_share "Подели">
@@ -279,6 +307,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Скролуј насловну траку">
 
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 <!ENTITY history_removed "Страница је уклоњена">
 
 <!ENTITY bookmark_edit_title "Уреди забелешку">
@@ -294,7 +325,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Нема поставки за чишћење.">
 
 <!ENTITY reading_list_added "Страница је додата на листу за читање">
-<!ENTITY reading_list_removed "Страница је уклоњена са листе за читање">
 <!ENTITY reading_list_failed "Нисам успео да додам страницу на листу за читање">
 <!ENTITY reading_list_duplicate "Странице је већ на листи за читање">
 
@@ -321,13 +351,15 @@ size. -->
 <!ENTITY home_top_sites_add "Додај сајт">
 
 <!ENTITY home_history_title "Историја">
-<!ENTITY home_bookmarks_empty "Забелешке које сте снимили се појављују овде.">
+<!ENTITY home_clear_history_button "Избриши податке прегледавања">
+<!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете Ваш историјат?">
+<!ENTITY home_bookmarks_empty "Забелешке које сте снимили су приказане овде.">
+<!ENTITY home_closed_tabs_title "Недавно затворени језичци">
 <!ENTITY home_last_tabs_title "Језичци из последње сесије">
-<!ENTITY home_last_tabs_open "Отвори све језичке из последње сесије">
 <!ENTITY home_last_tabs_empty "Ваши недавни језичци су приказани овде.">
-<!ENTITY home_most_recent_title "Најновије">
-<!ENTITY home_most_recent_empty "Сајтови које сте недавно посетили су приказани овде.">
-<!ENTITY home_reading_list_empty "Чланци које сте снимили су приказани овде.">
+<!ENTITY home_open_all "Отвори све">
+<!ENTITY home_most_recent_empty "Веб сајтови које сте посетили су приказани овде.">
+<!ENTITY home_reading_list_empty "Чланци које сте сачували за касније су приказани овде.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
@@ -344,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Назад до &formatS;">
+
+<!ENTITY private_browsing_title "Приватно прегледања">
+<!ENTITY private_tabs_panel_empty_desc "Ваши приватни језичци ће бити приказани овде. Ми не чувамо Вашу историју прегледавања или колачиће али Ваше забелешке или преузете датотеке ће бити сачуване на уређају.">
+<!ENTITY private_tabs_panel_learn_more "Желите да сазнате више?">
 
 <!ENTITY pin_site_dialog_hint "Унесите кључну реч за претрагу">
 
@@ -434,3 +470,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Мени">
 <!ENTITY actionbar_done "Готово">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Последње синхронизовано: &formatS;">
