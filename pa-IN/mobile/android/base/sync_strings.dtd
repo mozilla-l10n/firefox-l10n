@@ -111,6 +111,10 @@
 
 <!ENTITY fxaccount_full_label 'ਫਾਇਰਫਾਕਸ ਖਾਤੇ'>
 
+<!ENTITY fxaccount_custom_server_account_title 'ਸਰਵਰ ਉੱਤੇ ਖਾਤੇ ਦੀ ਵਰਤੋਂ'>
+<!ENTITY fxaccount_custom_server_sync_title 'ਸਰਵਰ ਉੱਤੇ ਸਿੰਕ ਡਾਟਾ ਸਟੋਰ ਕਰਨਾ'>
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +176,9 @@
 
 <!ENTITY fxaccount_status_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ'>
 <!ENTITY fxaccount_status_signed_in_as 'ਸਾਇਨ ਇਨ ਕੀਤਾ'>
+<!ENTITY fxaccount_status_auth_server 'ਖਾਤਾ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_device_name 'ਯੰਤਰ ਨਾਂ'>
+<!ENTITY fxaccount_status_sync_server 'ਸਿੰਕ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ਚਾਲੂ'>
 <!ENTITY fxaccount_status_needs_verification2 'ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜਾਂਚ ਈਮੇਲ ਮੁੜ-ਭੇਜਣ ਲਈ ਛੂਹੋ।'>
