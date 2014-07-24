@@ -71,6 +71,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
+<!ENTITY pref_developer_paint_flashing "Parpadeo al dibujar">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_category_home "Inicio">
@@ -103,7 +104,11 @@
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
-<!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_clear_private_data2 "Limpiar ahora">
+<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
+<!ENTITY pref_clear_on_exit_title "Eliminar siempre al salir">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; eliminará sus datos automáticamente siempre que seleccione &quot;Salir&quot; desde el menú central">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
