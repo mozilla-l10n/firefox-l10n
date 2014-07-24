@@ -394,7 +394,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; ਲਈ">
 
 <!ENTITY private_browsing_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we don\'t keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
+<!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we dont keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
 <!ENTITY private_tabs_panel_learn_more "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਇੱਥੇ ਦਿਓ">
