@@ -10,6 +10,7 @@
 <!ENTITY bookmarks_title "Adresynas">
 <!ENTITY history_title "Žurnalas">
 <!ENTITY reading_list_title "Skaitinių sąrašas">
+<!ENTITY  recent_tabs_title "Paskiausios kortelės">
 
 <!ENTITY switch_to_tab "Pereiti į kortelę">
 
@@ -42,8 +43,8 @@
 
 <!ENTITY history_today_section "Šiandien">
 <!ENTITY history_yesterday_section "Vakar">
-<!ENTITY history_week_section "Prieš 7 dienas">
-<!ENTITY history_older_section "Seniau nei prieš 7 dienas">
+<!ENTITY history_week_section2 "Pastarąją savaitę">
+<!ENTITY history_older_section2 "Pastarąjį mėnesį">
 
 <!ENTITY go "Atverti">
 <!ENTITY search "Ieškoti">
@@ -102,13 +103,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
+<!ENTITY pref_developer_paint_flashing "Piešiamos srities akcentavimas">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 
 <!ENTITY pref_category_home "Pradžia">
 <!ENTITY pref_category_home_summary "Pradžios tinklalapio tinkinimas">
 <!ENTITY pref_category_home_panels "Skiltys">
-<!ENTITY pref_home_add_panel "Pridėti skiltį">
 <!ENTITY home_add_panel_title "Skilties pridėjimas">
 <!ENTITY home_add_panel_empty "Deja, nėra skilčių, kurias galėtumėte pridėti.">
 <!-- Localization note (home_add_panel_installed):
@@ -144,7 +145,11 @@
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
 <!ENTITY pref_char_encoding_off "Nerodyti meniu">
-<!ENTITY pref_clear_private_data "Valyti privačius duomenis">
+<!ENTITY pref_clear_private_data2 "Valyti dabar">
+<!ENTITY pref_clear_private_data_category "Valyti privačius duomenis">
+<!ENTITY pref_clear_on_exit_title "Visada valyti baigiant darbą">
+<!ENTITY pref_clear_on_exit_summary "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
+<!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
 <!ENTITY pref_plugins "Papildiniai">
 <!ENTITY pref_plugins_enabled "Leidžiami">
 <!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
@@ -255,6 +260,7 @@ size. -->
 <!ENTITY new_tab "Nauja kortelė">
 <!ENTITY new_private_tab "Nauja privačioji kortelė">
 <!ENTITY close_all_tabs "Užverti visas korteles">
+<!ENTITY close_private_tabs "Užverti privačiąsias korteles">
 <!ENTITY tabs_normal "Kortelės">
 <!ENTITY tabs_private "Privačiosios">
 <!ENTITY tabs_synced "Sinchronizuojamos">
@@ -277,7 +283,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
-<!ENTITY contextmenu_open_in_reader "Atverti skaityklėje">
 <!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_share "Dalintis">
@@ -347,10 +352,10 @@ size. -->
 <!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
 <!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
 <!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
+<!ENTITY home_closed_tabs_title "Paskiausiai užvertos kortelės">
 <!ENTITY home_last_tabs_title "Kortelės iš pastarojo seanso">
-<!ENTITY home_last_tabs_open "Atverti visas pastarojo seanso korteles">
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
-<!ENTITY home_most_recent_title "Paskiausios">
+<!ENTITY home_open_all "Atverti visas">
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
 <!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
 <!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -369,6 +374,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Aukštyn į „&formatS;“">
+
+<!ENTITY private_browsing_title "Privatusis naršymas">
+<!ENTITY private_tabs_panel_empty_desc "Čia bus rodomos jūsų privačiosios kortelės. Nors programa nesaugo privačiojo naršymo žurnalo ir slapukų, jo metu sukurti adresyno įrašai ir parsiųsti failai lieka jūsų įrenginyje.">
+<!ENTITY private_tabs_panel_learn_more "Norite sužinoti daugiau?">
 
 <!ENTITY pin_site_dialog_hint "Įveskite reikšminį žodį paieškai">
 

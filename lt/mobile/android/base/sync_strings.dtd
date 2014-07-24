@@ -110,6 +110,9 @@
 
 <!ENTITY fxaccount_full_label '„Firefox“ paskyros'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Naudoti paskyrą serveryje'>
+<!ENTITY fxaccount_custom_server_sync_title '„Sync“ duomenys laikomi serveryje'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -171,7 +174,9 @@
 
 <!ENTITY fxaccount_status_header2 '„Firefox“ paskyra'>
 <!ENTITY fxaccount_status_signed_in_as 'Prisijungėte kaip'>
+<!ENTITY fxaccount_status_auth_server 'Paskyros serveris'>
 <!ENTITY fxaccount_status_device_name 'Įrenginio vardas'>
+<!ENTITY fxaccount_status_sync_server '„Sync“ serveris'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '„&syncBrand.shortName.label;“: įgalinta'>
 <!ENTITY fxaccount_status_needs_verification2 'Jūsų paskyrą būtina patvirtinti. Bakstelėkite, kad būtų pakartotinai išsiųstas patvirtinimo laiškas.'>
