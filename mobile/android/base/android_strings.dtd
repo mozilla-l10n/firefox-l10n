@@ -3,215 +3,356 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  no_space_to_start_error "Нема довољно простора на располагању за &brandShortName;.">
+<!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
-<!ENTITY  no_space_to_start_error "Нема довољно простора да би се програм &brandShortName; покренуо.">
-<!ENTITY  error_loading_file "Дошло је до грешке при учитавању датотека неопходних за рад програма &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Забелешке">
+<!ENTITY  history_title "Историја">
+<!ENTITY  reading_list_title "Листа за читање">
 
+<!ENTITY  switch_to_tab "Пребаци на језичак">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
-<!ENTITY  sending_crash_report "Извештај о рушењу се шаље\u2026">
+<!ENTITY  crash_reporter_title "&brandShortName; извештач рушења">
+<!ENTITY  crash_message2 "&brandShortName; је имао проблем и срушио се. Ваши језичци ће бити излистани на &brandShortName; почетној страници при рестарту.">
+<!ENTITY  crash_send_report_message3 "Реците &vendorShortName; о овом рушењу да би га могли поправити">
+<!ENTITY  crash_include_url2 "Укључи адресу странице на којој сам био">
+<!ENTITY  crash_sorry "Жао нам је">
+<!ENTITY  crash_comment "Додај коментар (коментари су јавно видљиви)">
+<!ENTITY  crash_allow_contact2 "Дозволи &vendorShortName; да ме контактира о овом извештају">
+<!ENTITY  crash_email "Ваша е-пошта">
+<!ENTITY  crash_closing_alert "Изађи без слања извештаја о рушењу?">
+<!ENTITY  sending_crash_report "Шаљем извештај о рушењу\u2026">
 <!ENTITY  crash_close_label "Затвори">
-<!ENTITY  crash_restart_label "Поново покрени програм &brandShortName;">
-<!ENTITY  exit_label "Крај">
+<!ENTITY  crash_restart_label "Рестартуј &brandShortName;">
+<!ENTITY  exit_label "Изађи">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Веб апликације">
+<!ENTITY  launcher_shortcuts_empty "Веб апликације нису пронађене">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Изабери датотетку">
 
-
+<!ENTITY url_bar_default_text "Претражи или унеси адресу">
 
 <!ENTITY bookmark "Забелешка">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_added "Забелешка је додата">
+<!ENTITY bookmark_removed "Забелешка је уклоњена">
+<!ENTITY bookmark_updated "Забелешка је ажурирана">
+<!ENTITY bookmark_options "Опције">
 
 <!ENTITY history_today_section "Данас">
 <!ENTITY history_yesterday_section "Јуче">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "Пре 7 дана">
+<!ENTITY history_older_section "Старије од 7 дана">
 
 <!ENTITY go "Иди">
-<!ENTITY search "Search">
-<!ENTITY reload "Обнови">
-<!ENTITY forward "Напред">
+<!ENTITY search "Претрага">
+<!ENTITY reload "Поново учитај">
+<!ENTITY forward "Проследи">
 <!ENTITY menu "Мени">
 <!ENTITY back "Назад">
 <!ENTITY stop "Заустави">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Безбедност сајта">
+<!ENTITY edit_mode_cancel "Откажи">
 
 <!ENTITY close_tab "Затвори језичак">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "1 језичак">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY num_tabs2 "&formatD; језичака">
+<!ENTITY new_tab_opened "Нови језичак је отворен">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_remember_signons "Памти моје лозинке">
+<!ENTITY settings "Поставке">
+<!ENTITY settings_title "Поставке">
+<!ENTITY pref_category_advanced "Напредне">
+<!ENTITY pref_category_customize "Прилагоди">
+<!ENTITY pref_category_search3 "Претрага">
+<!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
+<!ENTITY pref_category_display "Прикажи">
+<!ENTITY pref_category_privacy_short "Приватност">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Избори података">
+<!ENTITY pref_learn_more "Сазнај више">
+<!ENTITY pref_category_installed_search_engines "Инсталирани претраживачи">
+<!ENTITY pref_category_add_search_providers "Додај још претраживача">
+<!ENTITY pref_category_search_restore_defaults "Обнови претраживаче">
+<!ENTITY pref_search_restore_defaults "Врати на подразумевано">
+<!ENTITY pref_search_restore_defaults_summary "Врати на подразумевано">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што чете дуго притиснути поље за претрагу и затим притиснути &formatI; иконицу.">
+<!ENTITY pref_category_devtools "Алати за развој">
+<!ENTITY pref_developer_remotedebugging "Удаљено отклањање грешака">
+<!ENTITY pref_remember_signons "Запамти лозинку">
+
+<!ENTITY pref_category_home "Почетна">
+<!ENTITY pref_category_home_summary "Прилагоди почетну страницу">
+<!ENTITY pref_category_home_panels "Панели">
+<!ENTITY pref_home_add_panel "Додај панел">
+<!ENTITY home_add_panel_title "Додај нови панел">
+<!ENTITY home_add_panel_empty "Жао на је, нисмо могли да пронађемо било који панел за додавање.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' додат на почетну страницу">
+<!ENTITY pref_category_home_content_settings "Поставке садржаја">
+<!ENTITY pref_home_updates "Аутоматско ажурирање">
+<!ENTITY pref_home_updates_enabled "Омогућено">
+<!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Прилагоди">
+<!ENTITY pref_header_display "Прикажи">
+<!ENTITY pref_header_privacy_short "Приватност">
+<!ENTITY pref_header_help "Помоћ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Алати за развој">
 
 <!ENTITY pref_cookies_menu "Колачићи">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_accept_all "Омогућени">
+<!ENTITY pref_cookies_not_accept_foreign "Омогућено, укључујући трећа лица">
+<!ENTITY pref_cookies_disabled "Онемогућени">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
+<!ENTITY pref_donottrack_menu "Праћење">
+<!ENTITY pref_donottrack_disallow_tracking "Обавести веб сајтове да не желим да будем праћен">
+<!ENTITY pref_donottrack_allow_tracking "Обавести веб сајтове да желим да будем праћен">
+<!ENTITY pref_donottrack_no_pref "Не откривај веб сајтовима моје поставке о праћењу">
 
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Очисти историјат сурфовања">
+<!ENTITY pref_char_encoding "Кодирање карактера">
+<!ENTITY pref_char_encoding_on "Прикажи мени">
+<!ENTITY pref_char_encoding_off "Немој приказати мени">
+<!ENTITY pref_clear_private_data "Очисти приватне податке">
 <!ENTITY pref_plugins "Прикључци">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_plugins_enabled "Омогућени">
+<!ENTITY pref_plugins_tap_to_play "Притисните">
+<!ENTITY pref_plugins_disabled "Онемогућени">
+<!ENTITY pref_text_size "Величина текста">
+<!ENTITY pref_reflow_on_zoom4 "Промена форматирања текста">
+<!ENTITY pref_restore "Језичци">
+<!ENTITY pref_restore_always "Увек обнови">
+<!ENTITY pref_restore_quit "Немој обновити наком затварања &brandShortName;">
+<!ENTITY pref_font_size_tiny "Ситне">
+<!ENTITY pref_font_size_small "Мале">
+<!ENTITY pref_font_size_medium "Средње">
+<!ENTITY pref_font_size_large "Велике">
+<!ENTITY pref_font_size_xlarge "Екстра велике">
+<!ENTITY pref_font_size_set "Постави">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује Ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у Ваше име без икаквог притиска на компромис. Самим тим Ви имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_use_master_password "Користи главну лозинку">
+<!ENTITY pref_show_product_announcements "Прикажи најаве производа">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Прикажи предлоге претраге">
+<!ENTITY pref_import_android "Увези са Android-а">
+<!ENTITY pref_private_data_history2 "Историја прегледа">
+<!ENTITY pref_private_data_formdata "Форма и  истрорија претраге">
+<!ENTITY pref_private_data_cookies2 "Колачићи и пријаве">
+<!ENTITY pref_private_data_passwords "Сачуване лозинке">
+<!ENTITY pref_private_data_cache "Кеш">
+<!ENTITY pref_private_data_offlineApps "Подаци веб сајта који су ван везе">
+<!ENTITY pref_private_data_siteSettings2 "Поставке сајта">
+<!ENTITY pref_private_data_downloadFiles2 "Преузимања">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
-<!ENTITY pref_sync "Усклађивање">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY pref_about_firefox "О &brandShortName;">
+<!ENTITY pref_vendor_faqs "ЧПП">
+<!ENTITY pref_vendor_feedback "Пошаљи повратне информације">
+
+<!ENTITY pref_dialog_set_default "Постави као подразумевано">
+<!ENTITY pref_dialog_default "Подразумевано">
+<!ENTITY pref_dialog_remove "Уклони">
+
+<!ENTITY pref_search_last_toast "Ви не можете да уклоните или онемогућите последњег претраживача.">
+
+<!ENTITY pref_panels_show "Прикажи">
+<!ENTITY pref_panels_hide "Сакриј">
+<!ENTITY pref_panels_reorder "Промени редослед">
+<!ENTITY pref_panels_move_up "Помери горе">
+<!ENTITY pref_panels_move_down "Помери доле">
+
+<!ENTITY datareporting_notification_title "&brandShortName; статус и подаци">
+<!ENTITY datareporting_notification_action_long "Изаберите које информације да делите">
+<!ENTITY datareporting_notification_action "Изаберите шта делити">
+<!ENTITY datareporting_notification_summary "Да би смо побољшали Ваше искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Да би смо побољшали Ваше искуство, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
+<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу Вашег прегледача и помаже Вам да разумете перфомансе прегледача">
+<!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
+<!ENTITY datareporting_telemetry_title "Телеметрија">
+<!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу Вашег прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName;-и да учини Ваш прегледач још стабилнијим и још сигурнијим">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Сервис за локацију">
+<!ENTITY datareporting_wifi_geolocation_summary "Прима Wi-Fi податке и мобилну локација када ради у позадини и дели је са &vendorShortName; да би унапредили сервис геолокације">
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Преузми надоградње аутоматски">
+<!ENTITY pref_update_autodownload_wifi "Само преко Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Никад">
+<!ENTITY pref_update_autodownload_always "Увек">
 
-
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-
-<!ENTITY quit "Quit">
+<!ENTITY quit "Изађи">
 
 <!ENTITY addons "Додаци">
-<!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
-<!ENTITY char_encoding "Кодирање знакова">
+<!ENTITY downloads "Преузимања">
+<!ENTITY apps "Апликације">
+<!ENTITY char_encoding "Кодовање карактера">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY tools "Tools">
+<!ENTITY share "Подели">
+<!ENTITY share_title "Подели преко">
+<!ENTITY share_image_failed "Не могу поделити ову слику">
+<!ENTITY save_as_pdf "Сними као PDF">
+<!ENTITY find_in_page "Нађи на страници">
+<!ENTITY desktop_mode "Захтевај сајт и десктоп режиму">
+<!ENTITY page "Страница">
+<!ENTITY tools "Алати">
 <!ENTITY new_tab "Нови језичак">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "Нови приватни језичак">
+<!ENTITY close_all_tabs "Затвори све језичке">
 <!ENTITY tabs_normal "Језичци">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
+<!ENTITY tabs_private "Приватни">
+<!ENTITY tabs_synced "Синхронизовани">
+<!ENTITY set_image_fail "Не могу да поставим слику">
+<!ENTITY set_image_chooser_title "Постави слику као">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Find in Page">
 <!ENTITY find_prev "Previous">
-<!ENTITY find_next "Следеће">
+<!ENTITY find_next "Next">
 <!ENTITY find_close "Close">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
-<!ENTITY contextmenu_paste "Убаци">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Приказ на уређају">
+<!ENTITY media_play "Пусти">
+<!ENTITY media_pause "Пауза">
+<!ENTITY media_stop "Заустави">
 
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
+<!ENTITY contextmenu_open_new_tab "Отвори у новом језичку">
+<!ENTITY contextmenu_open_private_tab "Отвори у новом приватном језичку">
+<!ENTITY contextmenu_open_in_reader "Отвори у читачу">
+<!ENTITY contextmenu_remove "Уклони">
+<!ENTITY contextmenu_add_to_launcher "Дадај на почетни екран">
+<!ENTITY contextmenu_share "Подели">
+<!ENTITY contextmenu_pasteandgo "Налепи и посети">
+<!ENTITY contextmenu_paste "Налепи">
+<!ENTITY contextmenu_copyurl "Копирај адресу">
+<!ENTITY contextmenu_edit_bookmark "Уреди">
+<!ENTITY contextmenu_subscribe "Претплати се на страницу">
+<!ENTITY contextmenu_site_settings "Уреди поставке сајта">
+<!ENTITY contextmenu_top_sites_edit "Уреди">
+<!ENTITY contextmenu_top_sites_pin "Закачи сајт">
+<!ENTITY contextmenu_top_sites_unpin "Одкачи сајт">
+<!ENTITY contextmenu_add_search_engine "Додај претраживач">
 
+<!ENTITY pref_titlebar_mode "Наслована трака">
+<!ENTITY pref_titlebar_mode_title "Прикажи наслов странице">
+<!ENTITY pref_titlebar_mode_url "Прикажи адресу странице">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Назив">
-<!ENTITY bookmark_edit_location "Адреса">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Скролуј насловну траку">
+
+<!ENTITY history_removed "Страница је уклоњена">
+
+<!ENTITY bookmark_edit_title "Уреди забелешку">
+<!ENTITY bookmark_edit_name "Име">
+<!ENTITY bookmark_edit_location "Локација">
 <!ENTITY bookmark_edit_keyword "Кључна реч">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Поставке сајта">
+<!ENTITY site_settings_cancel       "Откажи">
+<!ENTITY site_settings_clear        "Очисти">
+<!ENTITY site_settings_no_settings  "Нема поставки за чишћење.">
 
-<!ENTITY site_settings_title3       "Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY reading_list_added "Страница је додата на листу за читање">
+<!ENTITY reading_list_removed "Страница је уклоњена са листе за читање">
+<!ENTITY reading_list_failed "Нисам успео да додам страницу на листу за читање">
+<!ENTITY reading_list_duplicate "Странице је већ на листи за читање">
 
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Додатне акције">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Уклањање главне лозинке">
+<!ENTITY masterpassword_create_title "Направи главну лозинку">
+<!ENTITY masterpassword_remove_title "Уклони главну лозинку">
 <!ENTITY masterpassword_password "Лозинка">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_confirm "Потврди лозинку">
 
 <!ENTITY button_ok "У реду">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "Откажи">
 <!ENTITY button_yes "Да">
 <!ENTITY button_no "Не">
-<!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_clear_data "Очисти податке">
+<!ENTITY button_set "Постави">
+<!ENTITY button_clear "Очисти">
 
+<!ENTITY home_top_sites_title "Популарни сајтови">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Додај сајт">
 
+<!ENTITY home_history_title "Историја">
+<!ENTITY home_bookmarks_empty "Забелешке које сте снимили се појављују овде.">
+<!ENTITY home_last_tabs_title "Језичци из последње сесије">
+<!ENTITY home_last_tabs_open "Отвори све језичке из последње сесије">
+<!ENTITY home_last_tabs_empty "Ваши недавни језичци су приказани овде.">
+<!ENTITY home_most_recent_title "Најновије">
+<!ENTITY home_most_recent_empty "Сајтови које сте недавно посетили су приказани овде.">
+<!ENTITY home_reading_list_empty "Чланци које сте снимили су приказани овде.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "САВЕТ: Сачувајте чланке на Вашу листу за читање тако што ћете дуго притиснути иконицу &formatI; када се појави у насловној траци.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "САВЕТ: Cачувајте чланке на Вашу листу за читање тако што ћете дуго притиснути дугме за режим за читање када се појави у насловној траци.">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Садржај за овај панел није пронађен.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Назад до &formatS;">
+
+<!ENTITY pin_site_dialog_hint "Унесите кључну реч за претрагу">
+
+<!ENTITY filepicker_title "Изаберите датотеку">
+<!ENTITY filepicker_audio_title "Изаберите или снимите звук">
+<!ENTITY filepicker_image_title "Изаберите или снимите слику">
+<!ENTITY filepicker_video_title "Изаберите или снимите видео">
+
 <!-- Site identity popup -->
-
 <!ENTITY identity_connected_to "Повезани сте на">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -224,35 +365,72 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "којим управља">
+<!ENTITY identity_run_by "коју води">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Ова страница приказује садржај који није сигуран.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; је блокирао садржај који није сигуран.">
+<!ENTITY blocked_mixed_content_message_bottom "Већина сајтова ће и даље радити правилно чак и када је блокиран овај садржај.">
+<!ENTITY learn_more "Сазнајте више">
+<!ENTITY enable_protection "Омогући заштиту">
+<!ENTITY disable_protection "Онемогући заштиту">
+<!ENTITY keep_blocking "Настави блокирати">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
+<!ENTITY private_data_success "Приватни подаци су очишћени">
+<!ENTITY private_data_fail "Неки приватни подаци нису могли да се очисте">
 
+<!ENTITY bookmarkhistory_button_import "Увези">
+<!ENTITY bookmarkhistory_import_both "Увозим забелешке и историјат
+                                      са Android-а">
+<!ENTITY bookmarkhistory_import_bookmarks "Увозим забелешке
+                                           са Android-а">
+<!ENTITY bookmarkhistory_import_history "Увозим историјат
+                                         са Android-а">
+<!ENTITY bookmarkhistory_import_wait "Молим Вас сачекајте...">
 
-<!ENTITY webapp_generic_name "App">
+<!ENTITY suggestions_prompt3 "Да ли желите да укључите предлоге претраге?">
 
-<!ENTITY searchable_description "Bookmarks and history">
-<!-- Updater notifications --> 
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "&formatS1; претрага за &formatS2;">
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY webapp_generic_name "Апликација">
 
-<!ENTITY updater_downloading_title2 "Преузимање програма &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY searchable_description "Забелешке и историја">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY devtools_remote_debugging_forward "Немојте заборавити да подесите прослеђивање портова!">
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Надоградња је доступна за &brandShortName;">
+<!ENTITY updater_start_select2 "Притисните да преузмете">
+
+<!ENTITY updater_downloading_title2 "Преузимам &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Преузимање неуспешно">
+<!ENTITY updater_downloading_select2 "Притисните да примените надоградњу кад се преузимање заврши">
+<!ENTITY updater_downloading_retry2 "Притисните да поново покушате">
+
+<!ENTITY updater_apply_title2 "Надоградња је доступна за &brandShortName;">
+<!ENTITY updater_apply_select2 "Притисните да надоградите">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Нова сесија за госте">
+<!ENTITY exit_guest_session "Изађи из сесије за госте">
+<!ENTITY guest_session_dialog_continue "Настави">
+<!ENTITY guest_session_dialog_cancel "Откажи">
+<!ENTITY new_guest_session_title "&brandShortName; се неће рестартовати">
+<!ENTITY new_guest_session_text "Особа која га користити неће моћи да види било које од Ваших личних података прегледања (као сачуване лозинке, историја или забелешке).\n\nКад је Ваш гост готов са прегледавањем, подаци ће бити обрисани и Ваша сесија ће се обновити.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; ће се сада поново покренути">
+<!ENTITY exit_guest_session_text "Подаци прегледања из ове сесије ће бити обрисани.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Мени">
+<!ENTITY actionbar_done "Готово">
