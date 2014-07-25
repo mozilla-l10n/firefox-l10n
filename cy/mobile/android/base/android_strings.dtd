@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Nodau Tudalen">
 <!ENTITY  history_title "Hanes">
 <!ENTITY  reading_list_title "Rhestr Ddarllen">
+<!ENTITY  recent_tabs_title "Tabiau Diweddar">
 
 <!ENTITY  switch_to_tab "Newid i\u0027r tab">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Heddiw">
 <!ENTITY history_yesterday_section "Ddoe">
-<!ENTITY history_week_section "7 diwrnod yn ôl">
-<!ENTITY history_older_section "Mwy na 7 diwrnod">
+<!ENTITY history_week_section2 "Wythnos Diwethaf">
+<!ENTITY history_older_section2 "Mis Diwethaf">
 
 <!ENTITY go "Mynd">
 <!ENTITY search "Chwilio">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_devtools "Offer datblygwyr">
+<!ENTITY pref_developer_paint_flashing "Fflachio paent">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
 
 <!ENTITY pref_category_home "Cartref">
 <!ENTITY pref_category_home_summary "Cyfaddasu eich tudalen cartref">
 <!ENTITY pref_category_home_panels "Paneli">
-<!ENTITY pref_home_add_panel "Ychwanegu panel">
 <!ENTITY home_add_panel_title "Ychwanegu panel newydd">
 <!ENTITY home_add_panel_empty "Ymddiheuriadau, doedd dim modd canfod paneli i chi eu hychwanegu.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
 <!ENTITY pref_char_encoding_off "Peidio dangos dewislen">
-<!ENTITY pref_clear_private_data "Clirio data preifat">
+<!ENTITY pref_clear_private_data2 "Clirio nawr">
+<!ENTITY pref_clear_private_data_category "Clirio data preifat">
+<!ENTITY pref_clear_on_exit_title "Clirio wrth adael, bob tro">
+<!ENTITY pref_clear_on_exit_summary "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \&quot;Gadael\&quot; o\u0027r prif ddewislen">
+<!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
 <!ENTITY pref_plugins "Ategion">
 <!ENTITY pref_plugins_enabled "Galluogwyd">
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Tab Newydd">
 <!ENTITY new_private_tab "Tab Preifat Newydd">
 <!ENTITY close_all_tabs "Cau Pob Tab">
+<!ENTITY close_private_tabs "Cau Tabiau Preifat">
 <!ENTITY tabs_normal "Tabiau">
 <!ENTITY tabs_private "Preifat">
 <!ENTITY tabs_synced "Cydweddwyd">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
-<!ENTITY contextmenu_open_in_reader "Agor yn y Darllenydd">
 <!ENTITY contextmenu_remove "Tynnu">
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
 <!ENTITY contextmenu_share "Rhannu">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
+<!ENTITY home_closed_tabs_title "Tabiau wedi eu cau\u0027n ddiweddar">
 <!ENTITY home_last_tabs_title "Eich tabiau o’r tro diwethaf">
-<!ENTITY home_last_tabs_open "Agor pob tab ers y tro diwethaf">
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
-<!ENTITY home_most_recent_title "Diweddaraf">
+<!ENTITY home_open_all "Agor y cyfan">
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
 <!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Hyd at &formatS;">
+
+<!ENTITY private_browsing_title "Pori Preifat">
+<!ENTITY private_tabs_panel_empty_desc "Bydd eich tabiau preifat yn ymddangos yn fan hyn. Tra nad ydym yn cadw dim o\u0027ch hanes pori na chwcis, bydd nodau tudalen a ffeiliau y byddwch yn eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
+<!ENTITY private_tabs_panel_learn_more "Eisiau gwybod mwy?">
 
 <!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
