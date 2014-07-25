@@ -9,8 +9,8 @@
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Aukeratu fitxategia...">
 <!ENTITY chooseFileLinkButton.accessKey "A">
-<!ENTITY makeUrlRelative.label "URLa orriaren helbidearekiko erlatiboa da">
-<!ENTITY makeUrlRelative.accessKey "R">
+
+
 <!ENTITY makeUrlRelative.tooltip "URL erlatibo eta absolutuaren artean aldaketak. HAu gordetzeko orria gorde behar duzu lehendabizi.">
 <!-- Shared by Link and Image dialogs -->
 

@@ -8,8 +8,7 @@
 <!ENTITY  authorName.accesskey      "g">
 <!ENTITY  pageColorHeader           "Lehenetsitako orriaren itxura">
 
-<!ENTITY defaultColors.label        "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
-<!ENTITY defaultColors.accesskey    "z">
+
 <!ENTITY customColors.label         "Erabili kolore pertsonalizatuak:">
 <!ENTITY customColors.accesskey     "p">
 

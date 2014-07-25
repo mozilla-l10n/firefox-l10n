@@ -34,8 +34,6 @@
 <!ENTITY removeTagButton.label     "Ezabatu">
 <!ENTITY removeTagButton.accesskey "z">
 <!-- Fonts and Colors -->
-
-<!ENTITY fontsAndColors1.label   "Letra-tipoak eta koloreak">
 <!ENTITY defaultFont.label       "Lehenetsitako letra-tipoa:">
 <!ENTITY defaultFont.accesskey   "L">
 <!ENTITY defaultSize.label       "Tamaina:">

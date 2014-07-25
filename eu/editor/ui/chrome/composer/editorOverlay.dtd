@@ -11,8 +11,8 @@
 <!ENTITY pasteNoFormatting.label "Itsasi formaturik gabe">
 <!ENTITY pasteNoFormatting.accesskey "g">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Itsasi honela">
-<!ENTITY pasteAs.accesskey "h">
+
+
 <!ENTITY pasteAsQuotationCmd.label "Itsatsi aipamen bezala">
 <!ENTITY pasteAsQuotationCmd.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.key "o">

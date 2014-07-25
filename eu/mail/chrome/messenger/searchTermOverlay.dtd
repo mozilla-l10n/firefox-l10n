@@ -6,8 +6,8 @@
 <!ENTITY matchAll.accesskey "t">
 <!ENTITY matchAny.label     "Arau hauetako edozein">
 <!ENTITY matchAny.accesskey "e">
-<!ENTITY matchAllMsgs.label     "Mezu guztiak">
-<!ENTITY matchAllMsgs.accesskey "M">
+
+
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

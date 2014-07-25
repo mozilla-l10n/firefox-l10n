@@ -93,9 +93,9 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ikusten saiatzen ari zaren orria ezin da erakkutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.</li> 
-<li>Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Ikusten saiatzen ari zaren orria ezin da bistaratu jasotako datuen autentikotasuna ezin delako egiaztatu.</li> 
+<li>Jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
