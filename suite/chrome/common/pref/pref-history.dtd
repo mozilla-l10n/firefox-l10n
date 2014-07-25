@@ -11,9 +11,11 @@
 <!ENTITY  clearHistory.label                "Išvalyti">
 <!ENTITY  clearHistory.accesskey            "v">
 
-<!ENTITY  locationBarHistory.caption        "Adresų juostos žurnalas">
-<!ENTITY  clearLocationBar.label            "Išvalyti adresų juostos išskleidžiamajame meniu esantį adresų sąrašą.">
-<!ENTITY  clearLocationBarButton.label      "Išvalyti adresų juostos žurnalą">
+<!ENTITY  locationBarHistory.caption        "Adreso lauko žurnalas">
+<!ENTITY  urlBarHistoryEnabled.caption      "Įgalinti adreso lauko žurnalą">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "d">
+<!ENTITY  clearLocationBar.label            "Išvalyti adreso lauko išskleidžiamajame meniu esantį adresų sąrašą.">
+<!ENTITY  clearLocationBarButton.label      "Išvalyti adreso lauko žurnalą">
 <!ENTITY  clearLocationBarButton.accesskey  "a">
 <!ENTITY  formfillHistory.caption           "Formos ir paieškos laukas">
 <!ENTITY  enableFormfill.label              "Įsiminti į formas ir paieškos lauką įvestus duomenis">

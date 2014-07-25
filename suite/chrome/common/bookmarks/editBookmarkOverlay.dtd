@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Reikšminis žodis:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "ž">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Rodyti visas gaires">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Atverti šį adresą parankinėje">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "p">
 <!ENTITY editBookmarkOverlay.choose.label                    "Parinkti…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Naujas aplankas">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">

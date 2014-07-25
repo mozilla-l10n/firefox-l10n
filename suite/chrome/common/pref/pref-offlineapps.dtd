@@ -11,11 +11,15 @@
 <!ENTITY clearOfflineAppCache.label         "Išvalyti">
 <!ENTITY clearOfflineAppCache.accesskey     "v">
 
-<!ENTITY offlineNotify.label                "Pranešti, kai svetainė siūlo kompiuteryje išsaugoti duomenis, reikalingus darbui neprisijungus prie tinklo.">
-<!ENTITY offlineNotify.accesskey            "P">
+<!ENTITY offlineAlwaysAllow.label           "Leisti visoms svetainėms kompiuteryje saugoti duomenis darbui neprisijungus">
+<!ENTITY offlineAlwaysAllow.accesskey       "L">
+<!ENTITY offlineExplicit.label              "Kiekvienai svetainei prašyti atskiro leidimo">
+<!ENTITY offlineExplicit.accesskey          "K">
+<!ENTITY offlineNotifyAsk.label             "Įspėti, kai svetainės bando įrašyti duomenis darbui neprisijungus">
+<!ENTITY offlineNotifyAsk.accesskey         "s">
 <!ENTITY offlineNotifyPermissions.label     "Tvarkyti leidimus">
 <!ENTITY offlineNotifyPermissions.accesskey "T">
 
-<!ENTITY offlineAppsList.label              "Šioms svetainėms neleidžiama išsaugoti darbui neprisijungus reikalingų duomenų:">
+<!ENTITY offlineAppsUsage.label             "Šioms svetainėms leidžiama išsaugoti darbui neprisijungus reikalingų duomenų:">
 <!ENTITY offlineAppsListRemove.label        "Išvalyti duomenis…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
