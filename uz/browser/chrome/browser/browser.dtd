@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Ichki oynani yangilash">
 <!ENTITY  reloadTab.accesskey                "y">
-<!ENTITY  reloadAllTabs.label                "Barcha ichki oynalarni yangilash">
-<!ENTITY  reloadAllTabs.accesskey            "B">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Yangi guruh">
 <!ENTITY  moveToNewWindow.label              "Yangi oynaga ko‘chirish">
 <!ENTITY  moveToNewWindow.accesskey          "y">
-<!ENTITY  bookmarkAllTabs.label              "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
-<!ENTITY  bookmarkAllTabs.accesskey          "i">
-<!ENTITY  undoCloseTab.label                 "Yopilgan ichki oynani qaytarish">
-<!ENTITY  undoCloseTab.accesskey             "q">
+
+
+
+
 <!ENTITY  closeTab.label                     "Ichki oynani yopish">
 <!ENTITY  closeTab.accesskey                 "y">
 
@@ -80,6 +80,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Xatcho‘plar paneli">
 <!ENTITY personalbarCmd.accesskey "X">
 <!ENTITY bookmarksToolbarItem.label "Xatcho‘plar paneli bandlari">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Sahifa manbasi">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -257,6 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "t">
 <!ENTITY devAppMgrMenu.label               "Ilovalar boshqaruvchisi">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Asboblarni o‘chirish/yoqish">
@@ -699,11 +707,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Boʻlishiladigan kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Boʻlishish uchun mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
+
 <!ENTITY webrtcIndicatorButton.label "Kamera / mikrofonga ruxsat">
 <!ENTITY webrtcIndicatorButton.tooltip "Kamera yoki mikrofoningizni hozirda boʻlishayotgan saytlarni koʻrsatish">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "Ushbu kontent bloklangandan soʻng koʻpgina veb saytlar yaxshi ishlay boshlaydi.">
 

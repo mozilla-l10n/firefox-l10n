@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Foydalanuvchi agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Foydalanilgan xotira">
 
+
 <!ENTITY aboutSupport.showDir.label "Direktoriyani ochish">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -63,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Muhim oʻzgartirilgan moslamalar">
 <!ENTITY aboutSupport.modifiedPrefsName "Nomi">
-<!ENTITY aboutSupport.modifiedPrefsValue "Qiymat">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js parametrlari">
 <!ENTITY aboutSupport.userJSDescription "Profil direktoriyangizda <a id='prefs-user-js-link'>user.js file</a> mavjud, unga &brandShortName; tomonidan yaratilmagan parametrlar qoʻshilgan.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 

@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "Kodlash usuli:">
 <!ENTITY  generalMetaName       "Nomi">
 <!ENTITY  generalMetaContent    "Tarkibi">
-<!ENTITY  generalSecurityDetails   "Tafsilotlar">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Xavfsizlik">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Ushbu sahifa uchun xavfsizlik ma`lumoti">
 <!ENTITY  securityView.certView "Sertifikatni koʻrish">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Noma`lum">

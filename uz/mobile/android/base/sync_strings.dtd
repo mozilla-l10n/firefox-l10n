@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox hisoblari">
+
+<!ENTITY fxaccount_custom_server_account_title "Serverdagi hisobdan foydalanish">
+<!ENTITY fxaccount_custom_server_sync_title "Sinxronlangan ma’lumotlarni serverga joylashtirish">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox hisobi">
 <!ENTITY fxaccount_status_signed_in_as "Kirilgan foydalanuvchi nomi">
+<!ENTITY fxaccount_status_auth_server "Hisob serveri">
 <!ENTITY fxaccount_status_device_name "Qurilma nomi">
+<!ENTITY fxaccount_status_sync_server "Sinxronlash serveri">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: yoqib qo‘yildi">
 <!ENTITY fxaccount_status_needs_verification2 "Hisobingiz tasdiqlanishi kerak. Tasdiqlash kodini e-pochtangizga qayta jo‘natish uchun bosing.">

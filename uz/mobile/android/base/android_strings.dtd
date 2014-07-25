@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Xatcho‘plar">
 <!ENTITY  history_title "Tarix">
 <!ENTITY  reading_list_title "O‘qish ro‘yxati">
+<!ENTITY  recent_tabs_title "So‘nggi ochilgan ichki oynalar">
 
 <!ENTITY  switch_to_tab "Ichki oynaga o‘tish">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Bugun">
 <!ENTITY history_yesterday_section "Kecha">
-<!ENTITY history_week_section "7 kun oldin">
-<!ENTITY history_older_section "7 kundan oldinroq">
+<!ENTITY history_week_section2 "O‘tgan hafta">
+<!ENTITY history_older_section2 "O‘tgan oy">
 
 <!ENTITY go "O‘tish">
 <!ENTITY search "Izlash">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: birorta veb sahifani izlash xizmatlariga ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing va so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
+
 <!ENTITY pref_developer_remotedebugging "Masofadan turib nosozliklarni hal qilish">
 <!ENTITY pref_remember_signons "Parolni eslab qolish">
 
 <!ENTITY pref_category_home "Uy sahifasi">
 <!ENTITY pref_category_home_summary "Uy sahifangizni moslash">
 <!ENTITY pref_category_home_panels "Panellar">
-<!ENTITY pref_home_add_panel "Panel qo‘shish">
 <!ENTITY home_add_panel_title "Yangi panel qo‘shish">
 <!ENTITY home_add_panel_empty "Uzr, qo‘shishingiz uchun birorta ham panelni topa olmadik.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Kodlash usuli">
 <!ENTITY pref_char_encoding_on "Menyu ko‘rsatilsin">
 <!ENTITY pref_char_encoding_off "Menyu ko‘rsatilmasin">
-<!ENTITY pref_clear_private_data "Menyu ko‘rsatilmasin">
+<!ENTITY pref_clear_private_data2 "Hozir tozalash">
+<!ENTITY pref_clear_private_data_category "Menyu ko‘rsatilmasin">
+<!ENTITY pref_clear_on_exit_title "Chiqayotganda doim tozalansin">
+<!ENTITY pref_clear_on_exit_summary "Asosiy menyudan \&quot;Chiqish\&quot;ni tanlasangiz, avtomatik tarzda &brandShortName; ma’lumotlaringizni tozalaydi.">
+<!ENTITY pref_clear_on_exit_dialog_title "Tozalanadigan ma’lumotlarni tanlang">
 <!ENTITY pref_plugins "Plaginlar">
 <!ENTITY pref_plugins_enabled "Yoqib qo‘yish">
 <!ENTITY pref_plugins_tap_to_play "Ijro etish uchun bosing">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Yangi ichki oyna">
 <!ENTITY new_private_tab "Yangi maxfiy ichki oyna">
 <!ENTITY close_all_tabs "Barcha ichki oynalarni yopish">
+<!ENTITY close_private_tabs "Maxfiy ichki oynalarni yopish">
 <!ENTITY tabs_normal "Ichki oynalar">
 <!ENTITY tabs_private "Maxfiy">
 <!ENTITY tabs_synced "Sinxronlandi">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Yangi ichki oynada ochish">
 <!ENTITY contextmenu_open_private_tab "Maxfiy ichki oynada ochish">
-<!ENTITY contextmenu_open_in_reader "O‘qigichda ochish">
 <!ENTITY contextmenu_remove "Olib tashlash">
 <!ENTITY contextmenu_add_to_launcher "Uy ekraniga qo‘shish">
 <!ENTITY contextmenu_share "Bo‘lishish">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Brauzer tarixini tozalash">
 <!ENTITY home_clear_history_confirm "Haqiqatan ham brauzer tarixini tozalamoqchimisiz?">
 <!ENTITY home_bookmarks_empty "Bu yerda keyinroq ko‘rsatish uchun saqlangan xatcho‘plar">
+<!ENTITY home_closed_tabs_title "Yaqinda yopilgan ichki oynalar">
 <!ENTITY home_last_tabs_title "So‘nggi ochilgan ichki oynalar">
-<!ENTITY home_last_tabs_open "So‘nggi marta ochilgan barcha ichki oynalarni ochish">
 <!ENTITY home_last_tabs_empty "So‘nggi ichki oynalaringiz bu yerda ko‘rsatiladi.">
-<!ENTITY home_most_recent_title "Eng so‘nggi">
+<!ENTITY home_open_all "Barchasini ochish">
 <!ENTITY home_most_recent_empty "So‘nggi tashrif buyurgan saytlaringiz bu yerda ko‘rsatiladi.">
 <!ENTITY home_reading_list_empty "Bu yerda keyinroq ko‘rsatish uchun saqlangan maqolalar">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Tepaga &formatS;">
+
+<!ENTITY private_browsing_title "Maxfiy ko‘rish">
+<!ENTITY private_tabs_panel_empty_desc "Maxfiy ichki oynalaringiz bu yerda ko‘rinadi. Biz ko‘rish tarixi yoki kukilar, xatcho‘plar va faylllarni saqlamasak ham, yuklab olgan narsalaringiz qurilmada saqlanib qoladi.">
+<!ENTITY private_tabs_panel_learn_more "Ko‘proq o‘rganishni xohlaysizmi?">
 
 <!ENTITY pin_site_dialog_hint "Izlash uchun kalit so‘zni kiriting">
 
