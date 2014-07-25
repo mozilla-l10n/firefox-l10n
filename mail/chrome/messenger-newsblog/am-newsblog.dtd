@@ -4,7 +4,7 @@
 
 <!ENTITY biffStart.label "Egiaztatu artikulu berriak dauden ">
 <!ENTITY biffStart.accesskey "E">
-<!ENTITY biffEnd.label "minuturo">
+<!ENTITY biffEnd.label "minutuan behin">
 
 <!ENTITY loginAtStartup.label "Egiaztatu artikulu berriak dauden abiaraztean"> 
 <!ENTITY loginAtStartup.accesskey "g">
@@ -17,8 +17,6 @@
 
 <!ENTITY feedWindowTitle.label "Jario-kontuaren morroia">
 <!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "Blogak eta berrien jarioak">
 <!ENTITY feeds.wizardShortName "Jarioak">
-<!ENTITY feeds.wizardLongName "Blogak eta berrien jarioak">
+
 <!ENTITY feeds.wizardLongName.accesskey "B">

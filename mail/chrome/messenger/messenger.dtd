@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "K">
 <!ENTITY closeTabCmd2.label "Itxi fitxa">
 <!ENTITY closeTabCmd2.accesskey "I">
-<!ENTITY closeOtherTabsCmd2.label "Itxi beste fitxak">
-<!ENTITY closeOtherTabsCmd2.accesskey "t">
+
+
 <!ENTITY recentlyClosedTabsCmd.label "Itxitako azken fitxak">
 <!ENTITY recentlyClosedTabsCmd.accesskey "a">
 
@@ -441,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Tresnak">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Posta eta berri-taldeak">
-<!ENTITY messengerCmd.accesskey "P">
+
+
 <!ENTITY addressBookCmd.label "Helbide-liburua">
 <!ENTITY addressBookCmd.accesskey "H">
 <!ENTITY addressBookCmd.key "B">

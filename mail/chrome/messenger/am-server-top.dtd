@@ -22,7 +22,7 @@
 -->
 <!ENTITY biffStart.label "Begiratu mezurik dagoen ">
 <!ENTITY biffStart.accesskey "g">
-<!ENTITY biffEnd.label "minuturo">
+<!ENTITY biffEnd.label "minutuan behin">
 <!ENTITY connectionSecurity.label "Konexioaren segurtasuna:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Bat ere ez">

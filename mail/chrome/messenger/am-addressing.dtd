@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-addressing.xul -->
-
-
-<!ENTITY addressing.label          "Mezuak prestatzea eta helbideratzea">
 <!ENTITY addressingGroupTitle.label "Helbideratzea">
 <!ENTITY addressingText.label      "Helbideak bilatzean:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -13,8 +10,7 @@
 <!ENTITY editDirectories.label     "Editatu direktorioak…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Erabili beste LDAP zerbitzari bat:">
-<!ENTITY directories.accesskey     "D">
+
 <!ENTITY directoriesNone.label     "Bat ere ez">
 <!-- am-addressing.xul -->
 

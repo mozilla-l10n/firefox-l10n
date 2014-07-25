@@ -6,13 +6,13 @@
 <!ENTITY requestReceipt.label          "Eskatu beti hartu-agiria mezuak bidaltzean">
 <!ENTITY requestReceipt.accesskey      "h">
 <!ENTITY receiptArrive.label           "Hartu-agiri bat iristean:">
-<!ENTITY leaveIt.label                 "Utzi sarrerako ontzian">
-<!ENTITY leaveIt.accesskey             "s">
-<!ENTITY moveToSent.label              "Aldatu lekuz &quot;Bidalitakoak&quot; karpetara">
-<!ENTITY moveToSent.accesskey          "A">
+
+
+
+
 <!ENTITY requestMDN.label              "Hartu-agiri baten eskaera jasotzen dudanean:">
-<!ENTITY never.label                   "Inoiz ez bidali hartu-agiria">
-<!ENTITY never.accesskey               "n">
+
+
 <!ENTITY returnSome.label              "Baimendu hartu-agiriak mezu batzuentzat">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "Ez banago mezuaren Nori edo Cc eremuetan:">

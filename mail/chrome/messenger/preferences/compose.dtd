@@ -37,7 +37,7 @@
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Gorde automatikoki">
 <!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "minuturo">
+<!ENTITY autoSaveEnd.label                    "minutuan behin">
 
 <!ENTITY emailCollectionPicker.label           "Gehitu hemen automatikoki bidalitako posta-helbideak:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
