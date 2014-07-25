@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
-<!ENTITY malformedURI.longDesc "<p>Neteisingas adreso (URL) formatas. Prašom patikrinti adresą adresų juostoje ir bandyti dar kartą.</p>">
+<!ENTITY malformedURI.longDesc "<p>Neteisingas adreso (URL) formatas. Prašom patikrinti adresą adreso lauke ir bandyti dar kartą.</p>">
 
 <!ENTITY netInterrupt.title "Nutrauktas duomenų persiuntimas">
 <!ENTITY netInterrupt.longDesc "<p>Naršyklei pavyko užmegzti ryšį, tačiau ryšys buvo nutrauktas persiunčiant duomenis. Prašom bandyti vėliau.</p><ul><li>Jei nepavyksta įkelti ir kitų tinklalapių, tai patikrinkite jūsų kompiuterio ryšį su tinklu.</li><li>Jei nesklandumo pašalinti nepavyksta, tai prašom kreiptis į tinklo administratorių ar interneto paslaugų teikėją.</li></ul>">
