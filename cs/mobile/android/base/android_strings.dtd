@@ -22,7 +22,7 @@
 <!ENTITY crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
 <!ENTITY crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktoval(a)">
 <!ENTITY crash_email "Váš e-mail">
-<!ENTITY crash_closing_alert "Ukončit bez odesílání informace o pádu?">
+<!ENTITY crash_closing_alert "Ukončit bez odeslání hlášení o pádu?">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY crash_close_label "Zavřít">
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
