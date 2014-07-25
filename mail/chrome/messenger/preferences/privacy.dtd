@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webindhold">
 
+<!ENTITY keepHistory.label "Husk websteder og links jeg har besøgt">
+<!ENTITY keepHistory.accesskey "H">
 <!ENTITY acceptCookies.label "Accepter cookies fra websteder">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Accepter tredjeparts cookies:">
