@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik for at få vist flere muligheder">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekræft igen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender endnu en bekræftelse til arrangøren">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gem en kopi">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Gem en kopi af begivenheden til kalenderen uafhængigt af svaret til arrangøren. Listen over deltagere vil blive ryddet.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Foreløbig">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Send en foreløbig accept af invitationen til begivenheden">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Foreløbig for alle">
