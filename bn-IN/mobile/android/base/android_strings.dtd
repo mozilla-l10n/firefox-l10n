@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পাঠ তালিকা">
+<!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাবগুলি">
 
 <!ENTITY  switch_to_tab "চিহ্নিত ট্যাবে যান">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-<!ENTITY history_week_section "৭ দিন পূর্বে">
-<!ENTITY history_older_section "৭ মাসের থেকে পুরোনো">
+<!ENTITY history_week_section2 "গত সপ্তাহে">
+<!ENTITY history_older_section2 "গত মাসে">
 
 <!ENTITY go "এগন">
 <!ENTITY search "অনুসন্ধান করুন">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার নুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
+<!ENTITY pref_developer_paint_flashing "পেইন্ট ফ্ল্যাশিং">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
 
 <!ENTITY pref_category_home "হোম">
 <!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
 <!ENTITY pref_category_home_panels "প্যানেলসমূহ">
-<!ENTITY pref_home_add_panel "প্যানেল যোগ করুন">
 <!ENTITY home_add_panel_title "নতুন প্যানেল যোগ করুন">
 <!ENTITY home_add_panel_empty "দুঃখিত, আমরা আপনার যোগ করার জন্য কোন প্যানেল খুঁজে পাইনি।">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাও">
 <!ENTITY pref_char_encoding_off "মেনু দেখানো না হোক">
-<!ENTITY pref_clear_private_data "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
+<!ENTITY pref_clear_private_data2 "এখুনি পরিষ্কার করা হোক">
+<!ENTITY pref_clear_private_data_category "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
+<!ENTITY pref_clear_on_exit_title "প্রস্থান করার সময় সর্বদা পরিষ্কার করা হবে">
+<!ENTITY pref_clear_on_exit_summary "আপনি মেনু থেকে \&quot;প্রস্থান\&quot; নির্বাচন করা মাত্র &brandShortName; আপনার সমস্ত তথ্য মুছে ফেলবে">
+<!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগ-ইনসমূহ">
 <!ENTITY pref_plugins_enabled "সক্রিয় অাছে">
 <!ENTITY pref_plugins_tap_to_play "প্লে করার জন্য এখানে ট্যাপ করুন">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সকল ট্যাব বন্ধ করুন">
+<!ENTITY close_private_tabs "ব্যক্তিগত ট্যাবগুলি বন্ধ করুন">
 <!ENTITY tabs_normal "ট্যাবগুলি">
 <!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "সিঙ্ককরা হয়েছে">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবের মধ্যে খুলুন">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
-<!ENTITY contextmenu_open_in_reader "রিডারে খুলুন">
 <!ENTITY contextmenu_remove "সরিয়ে ফেলুন">
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রিনে যুক্ত করুন">
 <!ENTITY contextmenu_share "শেয়ার করুন">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "ব্রাউসারের ইতিহাস মুছে ফেলুন">
 <!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
 <!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
+<!ENTITY home_closed_tabs_title "সম্প্রতি বন্ধ করা ট্যাব">
 <!ENTITY home_last_tabs_title "শেষবারের ট্যাবগুলি">
-<!ENTITY home_last_tabs_open "শেষবারের সবকটি ট্যাব খুলুন">
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
-<!ENTITY home_most_recent_title "সাম্প্রতিকতম">
+<!ENTITY home_open_all "সবগুলি খুলুন">
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিকতম পরিদর্শিত ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
 <!ENTITY home_reading_list_empty "পরবর্তীকালে দর্শনীয় প্রবন্ধসমূহ এখানে দেখাবে">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; অবধি">
+
+<!ENTITY private_browsing_title "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
+<!ENTITY private_tabs_panel_empty_desc "আপনার ব্যক্তিগত ট্যাবগুলি এখানে দেখাবে। যদিও আমরা আপনার ব্রাউজিং ইতিহাস অথবা কুকিসমূহ, বুকমার্কসমূহ এবং ডাউনলোড করা ফাইল গুলি সংরক্ষণ করি না তবুও সেগুলি আপনার ডিভাইসে সংরক্ষিত থাকবে।">
+<!ENTITY private_tabs_panel_learn_more "আরো জানতে চান?">
 
 <!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
 
