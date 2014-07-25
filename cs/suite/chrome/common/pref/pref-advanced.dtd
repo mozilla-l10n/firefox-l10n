@@ -14,6 +14,6 @@
 <!ENTITY prefCheckDefaultClient.label "Při startu kontrolovat nastavení výchozí aplikace">
 <!ENTITY prefCheckDefaultClient.accesskey "t">
 
-<!ENTITY crashReports.caption "Hlášení o pádech">
+<!ENTITY crashReports.caption "Hlášení pádů">
 <!ENTITY submitCrashes.label "Odesílat hlášení o pádech">
 <!ENTITY submitCrashes.accesskey "O">
