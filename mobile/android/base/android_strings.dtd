@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bogmærker">
 <!ENTITY  history_title "Historik">
 <!ENTITY  reading_list_title "Læseliste">
+<!ENTITY  recent_tabs_title "Seneste faneblade">
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
-<!ENTITY history_week_section "Seneste 7 dage">
-<!ENTITY history_older_section "Ældre end 7 dage">
+<!ENTITY history_week_section2 "Seneste uge">
+<!ENTITY history_older_section2 "Seneste måned">
 
 <!ENTITY go "Gå">
 <!ENTITY search "Søg">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_devtools "Udviklerværktøjer">
+<!ENTITY pref_developer_paint_flashing "Paintflashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
 
 <!ENTITY pref_category_home "Hjem">
 <!ENTITY pref_category_home_summary "Tilpas din startside">
 <!ENTITY pref_category_home_panels "Paneler">
-<!ENTITY pref_home_add_panel "Tilføj panel">
 <!ENTITY home_add_panel_title "Tilføj et nyt panel">
 <!ENTITY home_add_panel_empty "Der var ingen paneler, der kan tilføjes.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,12 @@
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
 <!ENTITY pref_char_encoding_off "Vis ikke menu">
-<!ENTITY pref_clear_private_data "Ryd private data">
+
+<!ENTITY pref_clear_private_data2 "Ryd nu">
+<!ENTITY pref_clear_private_data_category "Ryd private data">
+<!ENTITY pref_clear_on_exit_title "Ryd altid ved lukning">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk rydde dine data, når du lukker ved at klikke på Afslut i menuen">
+<!ENTITY pref_clear_on_exit_dialog_title "Vælg hvilke data, du vil have ryddet">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiveret">
 <!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
@@ -257,6 +263,7 @@ size. -->
 <!ENTITY new_tab "Nyt faneblad">
 <!ENTITY new_private_tab "Ny fane med privat browsing">
 <!ENTITY close_all_tabs "Luk alle faneblade">
+<!ENTITY close_private_tabs "Luk faneblade med privat browsing">
 <!ENTITY tabs_normal "Faneblade">
 <!ENTITY tabs_private "Privat browsing">
 <!ENTITY tabs_synced "Synkroniseret">
@@ -279,7 +286,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
 <!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
-<!ENTITY contextmenu_open_in_reader "Åbn i Læser">
 <!ENTITY contextmenu_remove "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
 <!ENTITY contextmenu_share "Del">
@@ -349,10 +355,10 @@ size. -->
 <!ENTITY home_clear_history_button "Ryd browserhistorik">
 <!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
 <!ENTITY home_bookmarks_empty "Gemte bogmærker vises her.">
+<!ENTITY home_closed_tabs_title "Senest lukkede faneblade">
 <!ENTITY home_last_tabs_title "Dine faneblade fra sidst">
-<!ENTITY home_last_tabs_open "Åbn alle faneblade fra sidst">
 <!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
-<!ENTITY home_most_recent_title "Seneste">
+<!ENTITY home_open_all "Åbn alle">
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
 <!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +377,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Tilbage til &formatS;">
+
+<!ENTITY private_browsing_title "Privat browsing">
+<!ENTITY private_tabs_panel_empty_desc "Dine faneblade med privat browsing vil blive vist her. Selvom din browsinghistorik og cookies slettes, når du afslutter privat browsing, så vil bogmærker og hentede filer ikke blive slettet.">
+<!ENTITY private_tabs_panel_learn_more "Vil du vide mere?">
 
 <!ENTITY pin_site_dialog_hint "Indtast søgeterm">
 
