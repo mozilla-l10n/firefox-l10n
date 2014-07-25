@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Cyfrif Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Defnyddio cyfrif ar weinydd">
+<!ENTITY fxaccount_custom_server_sync_title "Cadw data Cydweddu ar weinydd">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
+<!ENTITY fxaccount_status_auth_server "Gweinydd cyfrif">
 <!ENTITY fxaccount_status_device_name "Enw dyfais">
+<!ENTITY fxaccount_status_sync_server "Gweinydd cydweddu">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "Galluogwyd &syncBrand.shortName.label;:">
 <!ENTITY fxaccount_status_needs_verification2 "Rhaid i\u0027ch cyfrif gael ei ddilysu. Tapiwch i ail anfon e-bost dilysu.">
