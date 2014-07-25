@@ -24,9 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljer">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
+<!ENTITY itemHistory.label                 "Browserhistorik">
+<!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
