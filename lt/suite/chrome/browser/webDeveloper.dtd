@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label            "Patikrinti šį tinklalapį">
 <!ENTITY validatePage.accesskey        "t">
+<!ENTITY allowRemoteDebugging.label     "Leisti nuotolinį derinimą">
+<!ENTITY allowRemoteDebugging.accesskey "L">

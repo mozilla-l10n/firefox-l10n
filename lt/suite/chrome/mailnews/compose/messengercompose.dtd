@@ -112,7 +112,7 @@
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Adresų juosta">
-<!ENTITY formatToolbar.tooltip "Formatavimo mygtukų juostą">
+<!ENTITY formatToolbar.tooltip "Formatavimo mygtukų juosta">
 <!ENTITY sendButton.tooltip "Išsiųsti laišką dabar"> 
 <!ENTITY sendlaterButton.tooltip "Išsiųsti laišką vėliau"> 
 <!ENTITY addressButton.tooltip "Parinkti laiško gavėjus iš adresų knygos"> 

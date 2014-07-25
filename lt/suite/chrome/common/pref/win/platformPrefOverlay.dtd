@@ -12,7 +12,7 @@
 <!ENTITY prefWindow.size              "width: 56em; height: 47em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label                 "adresų juostoje paspaudus Vald+Įvesti">
+<!ENTITY urlbar.label                 "adreso lauke paspaudus Vald+Įvesti">
 <!ENTITY urlbar.accesskey             "a">
 <!ENTITY middleClick.label            "spustelėjus saitą viduriniu pelės klavišu, kairiuoju pelės kartu su „Vald“ klavišu arba paspaudus Vald+Įvesti">
 <!ENTITY middleClick.accesskey        "v">
