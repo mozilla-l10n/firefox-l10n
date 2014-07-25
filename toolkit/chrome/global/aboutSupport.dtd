@@ -11,7 +11,7 @@ vyřešit nějaký složitější problém s aplikací. Odpovědi na často klad
 aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách podpory</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Hlášení o pádech">
+<!ENTITY aboutSupport.crashes.title "Hlášení pádů">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID hlášení">

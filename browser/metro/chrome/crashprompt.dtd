@@ -12,7 +12,7 @@
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Informace o pádech používáme pro opravu problémů a vylepšování našich produktů. S informacemi pracujeme tak, jak je popsáno v našich ">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Hlášení o pádech používáme pro opravu problémů a vylepšování našich produktů. Se zaslanými informacemi pracujeme tak, jak je popsáno v našich ">
 <!ENTITY crashprompt.privacyPolicyLink "zásadách ochrany soukromí aplikace &brandShortName;">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Zahrnout adresu stránky, která byla navštívena">
