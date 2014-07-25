@@ -59,6 +59,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Po klepnutí se zobrazí více možností">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znovu potvrdit">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošle znovu potvrzení organizátorovi">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložit kopii">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Uloží kopii události do kalendáře nezávisle na odpovědi jejímu organizátorovi. Seznam účastníků bude vymazán.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Nezávazně">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Přijme nezávazně pozvání na událost">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Nezávazně vše">
