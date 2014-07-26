@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newtab.pageTitle "Новая вкладка">
-<!ENTITY newtab.customize.title "Настройка страницы Новой Вкладки">
+<!ENTITY newtab.customize.title "Настройка страницы «Новая вкладка»">
 <!ENTITY newtab.customize.enhanced "Расширенная">
 <!ENTITY newtab.customize.classic "Классическая">
 <!ENTITY newtab.customize.blank "Пустая">
