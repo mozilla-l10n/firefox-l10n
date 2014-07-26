@@ -72,6 +72,8 @@
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
 <!ENTITY fxaccount_full_label "Firefox Accounts">
+<!ENTITY fxaccount_custom_server_account_title "Usando la cuenta del servidor">
+<!ENTITY fxaccount_custom_server_sync_title "Guardar datos de Sync en el servidor">
 <!ENTITY fxaccount_email_hint "Correo">
 <!ENTITY fxaccount_password_hint "Contraseña">
 <!ENTITY fxaccount_password_hide "Ocultar">
@@ -112,7 +114,9 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "No se ha podido iniciar sesión">
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
+<!ENTITY fxaccount_status_auth_server "Servidor de cuentas">
 <!ENTITY fxaccount_status_device_name "Nombre del dispositivo">
+<!ENTITY fxaccount_status_sync_server "Servidor de Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
 <!ENTITY fxaccount_status_needs_verification2 "Su cuenta necesita ser verificada. Toque para volver a enviar el mensaje de verificación.">
