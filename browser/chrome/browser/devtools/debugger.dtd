@@ -95,6 +95,7 @@
 <!ENTITY debuggerUI.showOriginalSource      "Shfaq Burimet Origjinale">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "b">
 
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 <!ENTITY debuggerUI.searchPanelOperators    "Operatorë:">
