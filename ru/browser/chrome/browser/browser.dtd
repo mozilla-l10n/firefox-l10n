@@ -516,8 +516,6 @@
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
-<!ENTITY webrtcIndicatorButton.label "Доступ к Камере / Микрофону">
-<!ENTITY webrtcIndicatorButton.tooltip "Показать сайты, которые сейчас имеют доступ к вашей камере или микрофону">
 <!ENTITY loopCallButton.tooltip "Пригласить кого-нибудь поговорить">
 <!ENTITY mixedContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
 <!ENTITY pointerLock.notification.message "Нажмите в любой момент кнопку Esc, чтобы показать его снова.">
