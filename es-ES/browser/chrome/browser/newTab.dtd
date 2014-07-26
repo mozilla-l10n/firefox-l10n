@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newtab.pageTitle "Nueva pestaña">
+<!ENTITY newtab.customize.title "Personalizar su página Nueva pestaña">
+<!ENTITY newtab.customize.enhanced "Mejorada">
+<!ENTITY newtab.customize.classic "Clásica">
+<!ENTITY newtab.customize.blank "En blanco">
 <!ENTITY newtab.undo.removedLabel "Miniatura eliminada.">
 <!ENTITY newtab.undo.undoButton "Deshacer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar todas.">
