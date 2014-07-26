@@ -49,6 +49,7 @@
 <!ENTITY sync.button.connect.label "Соединиться">
 <!ENTITY sync.button.ok.label "OK">
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (устарело)">
+<!ENTITY sync.default.client.name "&formatS1; на &formatS2;">
 <!ENTITY bookmarks.folder.menu.label "Меню закладок">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Метки">

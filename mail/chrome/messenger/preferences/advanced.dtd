@@ -85,9 +85,9 @@
 <!ENTITY certs.auto.accesskey "п">
 <!ENTITY certs.ask "Спрашивать каждый раз">
 <!ENTITY certs.ask.accesskey "ш">
+<!ENTITY enableOCSP.label "Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов">
+<!ENTITY enableOCSP.accesskey "и">
 <!ENTITY viewCertificates.label "Просмотр сертификатов">
-<!ENTITY viewCertificates.accesskey "ф">
-<!ENTITY validation.label "Настройки OCSP">
-<!ENTITY validation.accesskey "т">
+<!ENTITY viewCertificates.accesskey "м">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
-<!ENTITY viewSecurityDevices.accesskey "щ">
+<!ENTITY viewSecurityDevices.accesskey "о">
