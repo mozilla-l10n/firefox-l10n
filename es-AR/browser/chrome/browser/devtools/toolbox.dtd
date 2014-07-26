@@ -83,11 +83,11 @@
 <!ENTITY options.disableJavaScript.label     "Deshabilitar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip  "Activar esta opción deshabilitará JavaScript para la pestaña actual. Si la pestaña o la caja de herramientas se cierran, esta opción será olvidada.">
 
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.label     "Deshabilitar Caché *">
-<!ENTITY options.disableCache.tooltip   "Activar esta opción deshabilitará caché para la pestaña actual. Si la pestaña o la caja de herramientas son cerradas, esta configuración será olvidada.">
+<!ENTITY options.disableCache.label2     "Deshabilitar caché (cuando las herramientas están abiertas)">
+<!ENTITY options.disableCache.tooltip2   "Activar esta opción deshabilitará caché para todas las pestañas que tengan las herramientas abiertas.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

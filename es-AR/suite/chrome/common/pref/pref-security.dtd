@@ -15,6 +15,13 @@
 <!ENTITY dntTrackingOkay.label            "Consiento ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey        "C">
 
+<!ENTITY geoLocation.label                "Navegación dependiente de la ubicación">
+<!ENTITY geoIntro.label                   "Los sitios web pueden solicitar información sobre su ubicación actual.">
+
+<!ENTITY geoEnabled.label                 "Solicitar permiso si se realiza un pedido">
+<!ENTITY geoEnabled.accesskey             "m">
+<!ENTITY geoDisabled.label                "Deshabilitar esa funcionalidad y denegar todos los pedidos">
+<!ENTITY geoDisabled.accesskey            "D">
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
@@ -22,8 +29,8 @@
   to a combination of both, so it's important that these strings convey the
   meaning "reported" (and not something like "known").
 -->
-<!ENTITY safeBrowsing.label               "Navegación privada">
-<!ENTITY safeBrowsingIntro.label          "&brandShortName; puede bloquear sitios informados por incluir contenido malicioso.">
+<!ENTITY safeBrowsing.label               "Navegación segura">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; puede bloquear sitios informados por mantener contenido malicioso.">
 
 <!ENTITY blockAttackSites.label           "Bloquear sitios informados por ataques (malware, virus)">
 <!ENTITY blockAttackSites.accesskey       "B">
