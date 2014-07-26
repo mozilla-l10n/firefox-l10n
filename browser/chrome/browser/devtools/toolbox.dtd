@@ -52,3 +52,15 @@
 <!ENTITY options.enablePersistentLogs.tooltip "Если вы включите эту опцию, то Веб-консоль и Сетевой монитор не будет очищать вывод при каждом переходе на новую страницу">
 <!ENTITY options.showPlatformData.label "Отображать данные платформы Gecko">
 <!ENTITY options.showPlatformData.tooltip "Если вы включите эту настройку, то отчеты Профайлера JavaScript будут включать символы платформы Gecko">
+<!ENTITY options.sourceeditor.label "Настройки редактора">
+<!ENTITY options.sourceeditor.detectindentation.label "Определять стиль отступов">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Угадывать стиль отступов на основе содержимого исходников">
+<!ENTITY options.sourceeditor.autoclosebrackets.label "Автозакрытие скобок">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Автоматически вставлять закрывающие скобки">
+<!ENTITY options.sourceeditor.expandtab.label "Отступ с помощью пробелов">
+<!ENTITY options.sourceeditor.expandtab.tooltip "Использовать пробелы вместо символа табуляции">
+<!ENTITY options.sourceeditor.tabsize.label "Размер вкладки">
+<!ENTITY options.sourceeditor.tabsize.accesskey "а">
+<!ENTITY options.sourceeditor.keybinding.label "Сочетания клавиш">
+<!ENTITY options.sourceeditor.keybinding.accesskey "о">
+<!ENTITY options.sourceeditor.keybinding.default.label "По умолчанию">

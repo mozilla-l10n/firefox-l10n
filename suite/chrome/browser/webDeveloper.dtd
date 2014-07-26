@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label "Соблюдены ли веб-стандарты">
 <!ENTITY validatePage.accesskey "о">
+<!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
+<!ENTITY allowRemoteDebugging.accesskey "а">

@@ -13,3 +13,12 @@
 <!ENTITY crashReports.caption "Сообщения о падениях">
 <!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
 <!ENTITY submitCrashes.accesskey "п">
+<!ENTITY devTools.caption "Инструменты разработки">
+<!ENTITY allowDebugger.label "Разрешить отладчику соединяться с &brandShortName;">
+<!ENTITY allowDebugger.accesskey "и">
+<!ENTITY allowRemoteConnections.label "Разрешать соединения с других компьютеров">
+<!ENTITY allowRemoteConnections.accesskey "ш">
+<!ENTITY connectionPrompt.label "Запрос для входящих соединений">
+<!ENTITY connectionPrompt.accesskey "а">
+<!ENTITY remoteDebuggerPort.label "Номер порта для соединения:">
+<!ENTITY remoteDebuggerPort.accesskey "о">
