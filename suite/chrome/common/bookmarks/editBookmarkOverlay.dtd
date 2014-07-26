@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY editBookmarkOverlay.name.label                      "Nombre:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Dirección:">
@@ -22,8 +18,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Palabra clave:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostrar todas las etiquetas">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar este marcador en la barra lateral">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
 <!ENTITY editBookmarkOverlay.choose.label                    "Seleccionar…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nueva carpeta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">

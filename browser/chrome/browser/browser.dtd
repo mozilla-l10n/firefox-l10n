@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Items de la barra de marcadores">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar todas las pestañas">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar todas las pestañas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Deshacer cerrar pestaña">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "h">
+
 <!ENTITY pageSourceCmd.label "Código fuente">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -257,6 +264,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
@@ -705,11 +714,16 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Ventana o pantalla a compartir:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "V">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles de su pantalla serán compartidas.">
 
 <!ENTITY webrtcIndicatorButton.label "Acceso a cámara / micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostrar sitios con los cuales esté compartiendo cámara o micrófono">
+
+<!ENTITY loopCallButton.tooltip "Invitar a alguien a hablar">
 
 <!ENTITY mixedContentBlocked.moreinfo "La mayor parte de los sitios web aún funcionan correctamente cuando este contenido es bloqueado.">
 
