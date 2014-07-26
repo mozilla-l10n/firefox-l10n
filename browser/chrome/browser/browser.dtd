@@ -718,6 +718,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofontilgang">
 <!ENTITY webrtcIndicatorButton.tooltip "Viser nettsted som du deler kameraet eller mikrofonen med">
 
+<!ENTITY loopCallButton.tooltip "Inviter noen til å prate">
+
 <!ENTITY mixedContentBlocked.moreinfo "De fleste nettsted vil fortsatt virke riktig selv om dette innholdet blokkeres.">
 
 <!ENTITY pointerLock.notification.message "Trykk ESC når som helst for å vise den igjen.">
