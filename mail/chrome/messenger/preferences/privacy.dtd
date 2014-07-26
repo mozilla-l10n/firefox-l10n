@@ -9,6 +9,8 @@
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Saber más sobre los problemas de privacidad del contenido remoto">
 <!ENTITY captionWebContent.label "Contenido web">
+<!ENTITY keepHistory.label "Recordar sitios web y enlaces que he visitado">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Aceptar cookies de terceros:">

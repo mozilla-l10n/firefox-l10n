@@ -11,6 +11,12 @@
 <!ENTITY dntTrackingNotOkay.accesskey "N">
 <!ENTITY dntTrackingOkay.label "Consiento ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey "C">
+<!ENTITY geoLocation.label "Navegación basada en ubicación">
+<!ENTITY geoIntro.label "Los sitios web pueden solicitar más información sobre su ubicación actual.">
+<!ENTITY geoEnabled.label "Solicitarme permiso si se hace una petición">
+<!ENTITY geoEnabled.accesskey "S">
+<!ENTITY geoDisabled.label "Desactivar esta funcionalidad y denegar todas las peticiones">
+<!ENTITY geoDisabled.accesskey "D">
 <!ENTITY safeBrowsing.label "Navegación segura">
 <!ENTITY safeBrowsingIntro.label "&brandShortName; puede bloquear los sitios web señalados por contener contenido malicioso.">
 <!ENTITY blockAttackSites.label "Bloquear los sitios señalados como atacantes (malware, virus)">
