@@ -14,8 +14,11 @@
 <!ENTITY sendTyping.label "Enviar notificaciones de escritura en conversaciones">
 <!ENTITY sendTyping.accesskey "E">
 <!ENTITY chatNotifications.label "Cuando lleguen mensajes dirigidos a usted:">
-<!ENTITY desktopChatNotifications.label "Mostrar una notificación">
+<!ENTITY desktopChatNotifications.label "Mostrar una notificación:">
 <!ENTITY desktopChatNotifications.accesskey "M">
+<!ENTITY completeNotification.label "con el nombre del remitente y una vista preliminar del mensaje">
+<!ENTITY buddyInfoOnly.label "con el nombre del remitente únicamente">
+<!ENTITY dummyNotification.label "sin ninguna información">
 <!ENTITY chatSound.accesskey "R">
 <!ENTITY chatSound.label "Reproducir un sonido">
 <!ENTITY play.label "Reproducir">
