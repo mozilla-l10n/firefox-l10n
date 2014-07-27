@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "c">
 <!ENTITY pref.defalarmlen4todos.label "Czas przypomnienia przed zadaniem:">
 <!ENTITY pref.defalarmlen4todos.accesskey "z">
-<!ENTITY pref.defaultemail.label "Adres do wysyłania przypomnień:">
-<!ENTITY pref.defaulttext.label "Tekst przypomnień:">
 
 <!ENTITY pref.defaultsnoozelength.label "Domyślny odstęp między przypomnieniami:">
 <!ENTITY pref.defaultsnoozelength.accesskey "m">
