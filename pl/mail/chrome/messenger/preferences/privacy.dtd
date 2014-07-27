@@ -10,6 +10,8 @@
 <!ENTITY acceptRemoteContentInfo.label "Informacje o wpływie zdalnych treści na prywatność">
 
 <!ENTITY captionWebContent.label "Strony">
+<!ENTITY keepHistory.label "Pamiętaj odwiedzone witryny i odnośniki">
+<!ENTITY keepHistory.accesskey "P">
 <!ENTITY acceptCookies.label "Akceptuj ciasteczka">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Akceptuj ciasteczka z innych witryn:">

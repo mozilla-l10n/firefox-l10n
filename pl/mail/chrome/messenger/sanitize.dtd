@@ -16,6 +16,8 @@
 <!ENTITY detailsProgressiveDisclosure.label "Szczegóły">
 <!ENTITY detailsProgressiveDisclosure.accesskey "S">
 
+<!ENTITY itemHistory.label                 "Historia przeglądania">
+<!ENTITY itemHistory.accesskey             "H">
 <!ENTITY itemCookies.label "Ciasteczka">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Pamięć podręczna">
