@@ -116,7 +116,5 @@
 
 <!ENTITY viewCertificates.label         "Certifikáty">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Overenie">
-<!ENTITY validation.accesskey           "O">
 <!ENTITY viewSecurityDevices.label      "Zariadenia">
 <!ENTITY viewSecurityDevices.accesskey  "Z">
