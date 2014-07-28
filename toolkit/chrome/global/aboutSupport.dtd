@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Využitie pamäte">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesové okná">
+
 <!ENTITY aboutSupport.showDir.label "Otvoriť priečinok">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
