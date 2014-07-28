@@ -111,6 +111,8 @@
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Vždy sa opýtať">
 <!ENTITY certs.ask.accesskey             "V">
+<!ENTITY enableOCSP.label                "Aktuálnu platnosť certifikátov overovať na serveroch OCSP">
+<!ENTITY enableOCSP.accesskey            "A">
 
 <!ENTITY viewCertificates.label         "Certifikáty">
 <!ENTITY viewCertificates.accesskey     "C">
