@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefix tags with:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
@@ -35,3 +41,4 @@
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Close">
