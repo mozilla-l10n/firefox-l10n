@@ -9,7 +9,6 @@
 
 <!ENTITY newevent.from.label                "From" >
 <!ENTITY newevent.to.label                  "To" >
-<!ENTITY newevent.attendees.notify.label    "Notify attendees">
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -29,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; complete">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Notify attendees">
+<!ENTITY event.attendees.notifyundisclosed.label    "Separate invitation per attendee">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -99,12 +105,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Invite Attendees…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "Check Spelling…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Spell Check As You Type">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Add Link…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Priority">
@@ -143,13 +143,11 @@
 <!ENTITY  event.toolbar.save.label                        "Save and Close">
 <!ENTITY  event.toolbar.delete.label                      "Delete">
 <!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
-<!ENTITY  event.toolbar.spellcheck.label                  "Spellcheck">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Save and Close">
 <!ENTITY  event.toolbar.delete.tooltip                    "Delete">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invite Attendees">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Spellcheck">
 <!ENTITY  event.toolbar.attachments.tooltip               "Add Attachments">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Change Privacy">
 <!ENTITY  event.toolbar.priority.tooltip                  "Change Priority">
@@ -164,7 +162,6 @@
 <!ENTITY event.categories.label                           "Category:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "Add a new category" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Attendees:" >
@@ -334,8 +331,8 @@
 <!ENTITY invite.title.label                     "Invite Attendees">
 <!ENTITY event.organizer.label                  "Organiser">
 <!ENTITY event.freebusy.suggest.slot            "Suggest time slot:">
-<!ENTITY event.freebusy.next.slot               "Next slot " >
-<!ENTITY event.freebusy.previous.slot           " Previous slot" >
+<!ENTITY event.freebusy.button.next.slot        "Next slot">
+<!ENTITY event.freebusy.button.previous.slot    "Previous slot">
 <!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "Free" >
 <!ENTITY event.freebusy.legend.busy             "Busy" >
@@ -374,5 +371,4 @@
 <!ENTITY read.only.reminder.label        "Reminder:">
 <!ENTITY read.only.attendees.label       "Attendees">
 <!ENTITY read.only.description.label     "Description">
-<!ENTITY read.only.documents.label       "Documents">
 <!ENTITY read.only.link.label            "Related Link">
