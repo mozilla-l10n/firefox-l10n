@@ -145,7 +145,11 @@
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
-<!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
+<!ENTITY pref_clear_private_data2 "Vymazať teraz">
+<!ENTITY pref_clear_private_data_category "Vymazať súkromné údaje">
+<!ENTITY pref_clear_on_exit_title "Vždy vymazať pri ukončení">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku &quot;Ukončiť&quot;">
+<!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolené">
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
