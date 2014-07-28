@@ -83,6 +83,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Obnovit všechny panely">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "b">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Přidat všechny panely do záložek…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Obnovit zavřený panel">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "t">
+
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -260,6 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devAppMgrMenu.label               "Správce aplikací">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Nástroje vývojáře">
@@ -699,13 +708,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.marklinkMenu.accesskey "l">
 <!ENTITY social.marklinkMenu.label "Uložit odkaz do…">
 
-<!ENTITY getUserMedia.selectCamera.label "Sdílet kameru::">
+<!ENTITY getUserMedia.selectCamera.label "Sdílet kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Sdílet okno nebo obrazovku:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "o">
 <!ENTITY getUserMedia.selectMicrophone.label "Sdílet mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
 <!ENTITY webrtcIndicatorButton.label "Sdílení kamery / mikrofonu">
-<!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, se kterými aktuálně sdílete kameru nebo mikrofon">
+<!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, se kterými aktuálně sdílíte kameru nebo mikrofon">
+
+<!ENTITY loopCallButton.tooltip "Pozvat na hovor">
 
 <!ENTITY mixedContentBlocked.moreinfo "Většina stránek bude fungovat správně, přestože bude takovýto obsah zablokován..">
 
