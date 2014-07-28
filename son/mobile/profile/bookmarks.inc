@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: W'a hanse nda war boŋ tontoney
+#define bookmarks_addons Firefox: W\\'a hanse nda war boŋ tontoney
 
 
 
