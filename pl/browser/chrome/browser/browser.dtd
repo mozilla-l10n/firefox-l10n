@@ -696,9 +696,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
-<!ENTITY webrtcIndicatorButton.label "Dostęp do kamery i mikrofonu">
-<!ENTITY webrtcIndicatorButton.tooltip "Wyświetli listę stron, którym udostępniane są kamera lub mikrofon.">
-
 <!ENTITY loopCallButton.tooltip "Zaproś kogoś do rozmowy">
 
 <!ENTITY mixedContentBlocked.moreinfo "Większość witryn będzie dalej działać prawidłowo nawet po zablokowaniu takich treści.">
