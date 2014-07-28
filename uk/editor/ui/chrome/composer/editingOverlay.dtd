@@ -30,8 +30,8 @@
 <!ENTITY publishSettings.accesskey "Н">
 
 <!-- Toolbar buttons/items -->
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
+<!ENTITY newToolbarCmd.label "Новий">
+<!ENTITY newToolbarCmd.tooltip "Створити нову сторінку">
 <!ENTITY openToolbarCmd.label "Відкрити">
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
 <!ENTITY saveToolbarCmd.tooltip "Зберегти файл до локального розташування">

@@ -323,7 +323,7 @@
 <!ENTITY alignLeftButton.tooltip "Вирівнювання тексту уздовж лівого краю">
 <!ENTITY alignCenterButton.tooltip "Вирівнювання тексту по центру">
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
-<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
+<!ENTITY alignJustifyButton.tooltip "Вирівнювання тексту по лівому та правому краю">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Вибрати">
