@@ -304,9 +304,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Posúvať titulok okna">
+<!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
+<!ENTITY pref_scroll_title_bar_summary "Skrýva titulok okna &brandShortName;u počas posúvania stránky">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
