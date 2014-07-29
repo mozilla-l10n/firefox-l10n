@@ -1,22 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Horizontalės savybės">
 
 <!ENTITY dimensionsBox.label "Matmenys">
 <!ENTITY heightEditField.label "Storis:">
 <!ENTITY heightEditField.accessKey "S">
 <!ENTITY widthEditField.label "Plotis:">
-<!ENTITY widthEditField.accessKey "P">
+<!ENTITY widthEditField.accessKey "p">
 <!ENTITY pixelsPopup.value "taškai(-ų)">
 <!ENTITY alignmentBox.label "Lygiuotė">
 <!ENTITY leftRadio.label "Pagal kairįjį kraštą">
 <!ENTITY leftRadio.accessKey "k">
 <!ENTITY centerRadio.label "Centruoti">
-<!ENTITY centerRadio.accessKey "C">
+<!ENTITY centerRadio.accessKey "c">
 <!ENTITY rightRadio.label "Pagal dešinįjį kraštą">
 <!ENTITY rightRadio.accessKey "d">
 

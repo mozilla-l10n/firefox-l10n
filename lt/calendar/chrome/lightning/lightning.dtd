@@ -1,45 +1,40 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
+
 <!-- Tools menu -->
-
-
 <!ENTITY lightning.preferencesLabel "Kalendorius">
+
 <!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label          "Įvykis…">
+<!ENTITY lightning.menupopup.new.event.accesskey      "v">
+<!ENTITY lightning.menupopup.new.task.label           "Darbas…">
+<!ENTITY lightning.menupopup.new.task.accesskey       "D">
+<!ENTITY lightning.menupopup.new.calendar.label       "Kalendorius…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey   "K">
 
-<!ENTITY lightning.menupopup.new.event.label    "Įvykis…">
-<!ENTITY lightning.menupopup.new.event.accesskey "v">
-<!ENTITY lightning.menupopup.new.task.label     "Darbas…">
-<!ENTITY lightning.menupopup.new.task.accesskey "D">
-<!ENTITY lightning.menupopup.new.calendar.label "Kalendorius…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 <!-- Open menu popup in File menu -->
-
 <!ENTITY lightning.menupopup.open.label               "Atverti">
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Įrašytą laišką…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "l">
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalendoriaus failą…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Kalendorius">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Darbai">
 <!ENTITY lightning.menu.view.tasks.accesskey           "D">
-<!-- Events and Tasks menu -->
 
+<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Įvykiai ir darbai">
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
+
 <!-- properties dialog, calendar creation wizard -->
-
 <!ENTITY lightning.calendarproperties.email.label               "El. paštas:">
-<!-- iMIP Bar (meeting support) -->
 
+<!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Priimti">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Priimti kvietimą į įvykį">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Priimti visus">
@@ -58,24 +53,26 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Rodyti daugiau parinkčių">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Pakartotinai patvirtinti">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Nusiųsti pakartotinį patvirtinimą įvykio organizatoriui">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Įrašyti kopiją">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Įrašyti įvykio kopiją kalendoriuje, neatsakant jo anizatoriui. Įvykio dalyvių sąrašas bus išvalytas.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Priimti preliminariai">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Preliminariai priimti kvietimą į įvykį">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Visus priimti preliminariai">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Preliminariai priimti kvietimą į visus įvykio pasikartojimus">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Atnaujinti">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atnaujinti įvykį kalendoriuje">
-<!ENTITY lightning.imipbar.description                                      "Su šiuo laišku atsiųstas kvietimas dalyvauti įvykyje.">
-<!-- Lightning specific keybindings -->
+<!ENTITY lightning.imipbar.description "Su šiuo laišku atsiųstas kvietimas dalyvauti įvykyje.">
 
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
 <!-- Account Central page -->
-
 <!ENTITY lightning.acctCentral.newCalendar.label "Kurti naują kalendorių">
-<!-- today-pane-specific -->
 
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Rodyti mėnesio miniatiūrą">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Rodyti dienos santrauką">
