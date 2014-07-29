@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Rašybos tikrinimas">
 
 <!ENTITY misspelledWord.label "Neteisingai užrašytas žodis:">
 <!ENTITY wordEditField.label "Pakeisti į:">
-<!ENTITY wordEditField.accessKey "p">
+<!ENTITY wordEditField.accessKey "P">
 <!ENTITY checkwordButton.label "Tikrinti žodį">
 <!ENTITY checkwordButton.accessKey "o">
 <!ENTITY suggestions.label "Siūlymai:">
@@ -21,7 +21,7 @@
 <!ENTITY replaceAllButton.label "Pakeisti visur">
 <!ENTITY replaceAllButton.accessKey "i">
 <!ENTITY stopButton.label "Stabdyti">
-<!ENTITY stopButton.accessKey "s">
+<!ENTITY stopButton.accessKey "S">
 <!ENTITY userDictionary.label "Asmeninis žodynas:">
 <!ENTITY moreDictionaries.label "Atsiųsti daugiau">
 <!ENTITY addToUserDictionaryButton.label "Įtraukti žodį">
@@ -31,7 +31,7 @@
 <!ENTITY recheckButton.label "Tikrinti iš naujo">
 <!ENTITY recheckButton.accessKey "n">
 <!ENTITY closeButton.label "Užverti">
-<!ENTITY closeButton.accessKey "u">
+<!ENTITY closeButton.accessKey "U">
 <!ENTITY sendButton.label "Išsiųsti">
 <!ENTITY sendButton.accessKey "š">
 <!ENTITY languagePopup.label "Kalba:">

@@ -8,7 +8,7 @@
 
 <!ENTITY initialpage.description    "Kalendorius gali būti saugomas jūsų kompiuteryje arba tinklo serveryje, jei norite jį pasiekti iš kitur, arba dalintis juo su draugais." >
 <!ENTITY initialpage.computer.label  "Mano kompiuteryje">
-<!ENTITY initialpage.network.label   "Tinkle">
+<!ENTITY initialpage.network.label  "Tinkle">
 
 <!ENTITY locationpage.description         "Įveskite informaciją apie kuriamą nuotolinį kalendorių" >
 <!ENTITY locationpage.login.description   "Galite įvesti abonento vardą ir slaptažodį" >

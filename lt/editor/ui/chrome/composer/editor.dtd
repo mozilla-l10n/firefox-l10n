@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Rašyklė"> 
+
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Taisos mygtukų juosta">
 <!ENTITY previewToolbarCmd.label "Peržiūra">
 <!ENTITY previewToolbarCmd.tooltip "Peržiūrėti šį tinklalapį naršyklėje">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Eksportuoti grynuoju tekstu…">
 <!ENTITY exportToTextCmd.accesskey "g">
 <!ENTITY previewCmd.label "Atverti naršyklėje">
 <!ENTITY previewCmd.accesskey "š">
 <!ENTITY sendPageCmd.label "Išsiųsti tinklalapį el. paštu…">
 <!ENTITY sendPageCmd.accesskey "l">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Taisos mygtukų juosta">
 <!ENTITY compositionToolbarCmd.accesskey "T">
 <!ENTITY formattingToolbarCmd.label "Formatavimo priemonių juosta">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Taisos veiksenų juosta">
 <!ENTITY editmodeToolbarCmd.accesskey "v">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Formatas">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Tinklelis">
 <!ENTITY grid.accesskey "T">
 <!ENTITY pageProperties.label "Tinklalapio antraštė ir savybės…">
 <!ENTITY pageProperties.accesskey "a">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "Patikrinti HTML">
 <!ENTITY validateCmd.accesskey "H">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Normalusis">
 <!ENTITY NormalMode.label "Normalusis">
 <!ENTITY NormalMode.accesskey "N">
