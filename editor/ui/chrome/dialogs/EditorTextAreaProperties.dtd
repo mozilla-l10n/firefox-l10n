@@ -7,7 +7,7 @@
 <!ENTITY Settings.label "Nuostatos">
 
 <!ENTITY TextAreaName.label "Lauko vardas:">
-<!ENTITY TextAreaName.accessKey "v">
+<!ENTITY TextAreaName.accessKey "V">
 <!ENTITY TextAreaRows.label "Eilutės:">
 <!ENTITY TextAreaRows.accessKey "E">
 <!ENTITY TextAreaCols.label "Stulpeliai:">

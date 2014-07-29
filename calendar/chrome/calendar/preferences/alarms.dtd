@@ -1,11 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
-
 
 <!ENTITY pref.alarmgoesoff.label "Atėjus priminimo laikui:">
 <!ENTITY pref.playasound "Priminti garso signalu">
@@ -25,7 +20,7 @@
 <!ENTITY pref.defalarm4events.accesskey "į">
 <!ENTITY pref.defalarm4todos.label "Priminimai apie darbus:">
 <!ENTITY pref.defalarm4todos.accesskey "d">
-<!ENTITY pref.alarm.on "įjungti">
+<!ENTITY pref.alarm.on  "įjungti">
 <!ENTITY pref.alarm.off "išjungti">
 <!ENTITY pref.defalarmlen4events.label "Priminti iki įvykio pradžios likus:">
 <!ENTITY pref.defalarmlen4events.accesskey "v">

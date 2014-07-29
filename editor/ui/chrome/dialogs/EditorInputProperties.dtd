@@ -24,7 +24,7 @@
 <!ENTITY GroupName.label "Grupės vardas:">
 <!ENTITY GroupName.accesskey "v">
 <!ENTITY InputValue.label "Reikšmė:">
-<!ENTITY InputValue.accesskey "R">
+<!ENTITY InputValue.accesskey "r">
 <!ENTITY InitialValue.label "Pradinė reikšmė:">
 <!ENTITY InitialValue.accesskey "r">
 <!ENTITY InputChecked.label "Pažymėtas">

@@ -8,6 +8,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Šiuo metu jūs esate ne privačiojo naršymo kortelėje.">
 
 <!ENTITY privatebrowsingpage.description            "Privačiojo naršymo kortelėse „&brandShortName;“ nepildo naršymo ir atsiuntimų žurnalų, neįsimena formų ir paieškos duomenų, slapukų ir kitų laikinųjų failų. Vis dėlto, visi parsiųsti failai ir sukurti adresyno įrašai išlieka.">
+
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "Nors šiame įrenginyje ir neišliks duomenų apie jūsų naršytus tinklalapius, jūsų interneto paslaugų teikėjas vis tiek gali sekti, ką naršote.">

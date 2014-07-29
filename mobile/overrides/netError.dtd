@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Nepavyko įkelti tinklalapio">
 <!ENTITY retry.label "Bandyti dar kartą">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
@@ -17,30 +17,38 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nerastas serveris">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Patikrinkite, ar adrese nepadarėte klaidų, pvz., 
-<strong>ww</strong>.pavyzdys.lt vietoje 
-<strong>www</strong>.pavyzdys.lt</li> 
-<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Patikrinkite, ar adrese nepadarėte klaidų, pvz.,
+    <strong>ww</strong>.pavyzdys.lt vietoje
+    <strong>www</strong>.pavyzdys.lt</li>
+  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li> 
-<li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li>
+  <li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li>
+</ul>
+">
 
 
 <!ENTITY generic.title "Klaida">
-<!ENTITY generic.longDesc "<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
+<!ENTITY generic.longDesc "
+<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>
+">
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Saityno adresai paprastai turi tokį pavidalą: 
-<strong>http://www.pavyzdys/lt/</strong></li> 
-<li>Įsitikinkite, kad adreso komponentus skiriate 
-dešininiu brūkšniu <strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Saityno adresai paprastai turi tokį pavidalą:
+    <strong>http://www.pavyzdys/lt/</strong></li>
+  <li>Įsitikinkite, kad adreso komponentus skiriate
+    dešininiu brūkšniu <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
@@ -49,19 +57,25 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 <!ENTITY notCached.longDesc "<p>Prašomo dokumento programos „&brandShortName;“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama neprisijungus prie tinklo">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bandykite vėl. „&brandShortName;“ pamėgins iš naujo užmegzti ryšį ir įkelti tinklalapį.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Bandykite vėl. „&brandShortName;“ pamėgins iš naujo užmegzti ryšį ir įkelti tinklalapį.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Prašome pranešti svetainės savininkams apie šią problemą.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Prašome pranešti svetainės savininkams apie šią problemą.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Nesaugus failo tipas">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Prašome pranešti svetainės savininkams apie šią problemą.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Prašome pranešti svetainės savininkams apie šią problemą.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Ryšys nutrūko">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -70,50 +84,66 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY unknownProtocolFound.title "Neatpažintas adresas">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Įgaliotasis serveris atmeta ryšį">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> 
-<li>Jei norite sužinoti, ar įgaliotasis serveris veikia korektiškai, kreipkitės į tinklo administratorių.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li>
+  <li>Jei norite sužinoti, ar įgaliotasis serveris veikia korektiškai, kreipkitės į tinklo administratorių.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> 
-<li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su tinklu.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li>
+  <li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su tinklu.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Neteisingas tinklalapio peradresavimas">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Netikėtas serverio atsakas">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Įsitikinkite, kad į jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li> 
-<li>Ši klaida galėjo įvykti dėl nestandartinės serverio konfigūracijos.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Įsitikinkite, kad į jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.</li>
+  <li>Ši klaida galėjo įvykti dėl nestandartinės serverio konfigūracijos.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Saugaus ryšio užmegzti nepavyko">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li> 
-<li>Prašom pranešti apie šią problemą svetainės savininkams.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li>
+  <li>Prašom pranešti apie šią problemą svetainės savininkams.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li> 
-<li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li>
+  <li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li>
+</ul>
+">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir 
-bandykite prisijungti iš naujo.</li> 
-<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li> 
-</ul>">
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir
+bandykite prisijungti iš naujo.</li>
+  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li>
+</ul>
+">
 
 <!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
@@ -124,17 +154,18 @@ bandykite prisijungti iš naujo.</li>
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
 <!ENTITY securityOverride.exceptionButtonLabel "Sukurti išimtį…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo pilnai nepasitikite, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>
 
-<!ENTITY securityOverride.warningContent "<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo pilnai nepasitikite, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
-

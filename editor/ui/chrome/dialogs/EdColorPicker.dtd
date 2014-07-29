@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY windowTitle.label "Spalva">
 <!ENTITY lastPickedColor.label "Paskiausiai pasirinkta spalva">
 <!ENTITY lastPickedColor.accessKey "P">
@@ -15,7 +14,7 @@
 <!ENTITY standardPalette.label "Numatytoji">
 <!ENTITY webPalette.label "„Nepavojingos“ spalvos">
 <!ENTITY background.label "Fonas:">
-<!ENTITY background.accessKey "F">
+<!ENTITY background.accessKey "f">
 <!ENTITY table.label "lentelės">
 <!ENTITY table.accessKey "t">
 <!ENTITY cell.label "langelio">

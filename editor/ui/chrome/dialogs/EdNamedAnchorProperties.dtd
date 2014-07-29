@@ -4,6 +4,6 @@
 
 <!ENTITY windowTitle.label "Žymės savybės">
 <!ENTITY anchorNameEditField.label "Žymės vardas:">
-<!ENTITY anchorNameEditField.accessKey "Ž">
+<!ENTITY anchorNameEditField.accessKey "ž">
 <!ENTITY nameInput.tooltip "To paties tinklalapio žymių vardai turi būti skirtingi.">
 

@@ -20,7 +20,7 @@
 <!ENTITY tableBorderWidth.label           "Rėmeliai:">
 <!ENTITY tableBorderWidth.accessKey       "R">
 <!ENTITY tableSpacing.label               "Protarpiai:">
-<!ENTITY tableSpacing.accessKey           "o">
+<!ENTITY tableSpacing.accessKey           "O">
 <!ENTITY tablePadding.label               "Užpildas">
 <!ENTITY tablePadding.accessKey           "U">
 <!ENTITY tablePxBetwCells.label           "taškų skaičius tarp langelių">
@@ -64,12 +64,12 @@
 <!ENTITY cellAlignJustify.label           "Pagal abu kraštus">
 <!ENTITY cellInheritColor.label           "(Langelio fonas toks pat, kaip lentelės fonas)">
 <!ENTITY cellUseCheckboxHelp.label        "Parinkite savybes, kurias turės visi pažymėti lentelės langeliai.">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dydis">
 <!ENTITY pixels.label                     "taškai(-ų)">
 <!ENTITY backgroundColor.label            "Fono spalva:">
-<!ENTITY backgroundColor.accessKey        "F">
+<!ENTITY backgroundColor.accessKey        "f">
 <!ENTITY AlignLeft.label                  "Pagal kairįjį kraštą">
 <!ENTITY AlignCenter.label                "Centruoti">
 <!ENTITY AlignRight.label                 "Pagal dešinįjį kraštą">
