@@ -10,11 +10,15 @@
 <!ENTITY clearOfflineAppCache.label         "Vymazať">
 <!ENTITY clearOfflineAppCache.accesskey     "V">
 
-<!ENTITY offlineNotify.label                "Upozorniť, ak sa webová stránka pokúša uložiť údaje pre použitie v režime offline.">
-<!ENTITY offlineNotify.accesskey            "U">
+<!ENTITY offlineAlwaysAllow.label           "Povoliť všetkým webovým stránkam ukladať údaje pre použitie v režime offline">
+<!ENTITY offlineAlwaysAllow.accesskey       "o">
+<!ENTITY offlineExplicit.label              "Umožniť len webovým stránkam s explicitným povolením">
+<!ENTITY offlineExplicit.accesskey          "e">
+<!ENTITY offlineNotifyAsk.label             "Upozorniť, ak sa webová stránka pokúša uložiť údaje pre použitie v režime offline">
+<!ENTITY offlineNotifyAsk.accesskey         "U">
 <!ENTITY offlineNotifyPermissions.label     "Spravovať povolenia">
 <!ENTITY offlineNotifyPermissions.accesskey "S">
 
-<!ENTITY offlineAppsList.label              "Nasledujúce webové stránky majú povolené ukladať údaje pre použitie v režime offline:">
+<!ENTITY offlineAppsUsage.label             "Nasledujúce webové stránky používajú úložisko režimu offline:">
 <!ENTITY offlineAppsListRemove.label        "Vymazať údaje…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
