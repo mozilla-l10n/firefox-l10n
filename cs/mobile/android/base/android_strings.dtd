@@ -150,7 +150,7 @@
 <!ENTITY pref_clear_private_data2 "Vymazat nyní">
 <!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
 <!ENTITY pref_clear_on_exit_title "Vždy vymazat při ukončení">
-<!ENTITY pref_clear_on_exit_summary "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte &quot;Ukončit&quot; z hlavní nabídky">
+<!ENTITY pref_clear_on_exit_summary "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte &quot;Ukončit&quot; z hlavní nabídky"> 
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
