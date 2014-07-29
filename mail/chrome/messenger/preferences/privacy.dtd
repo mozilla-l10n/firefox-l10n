@@ -4,11 +4,13 @@
 
 <!ENTITY captionMailContent.label "Contenuto della posta">
 <!ENTITY acceptRemoteContent.label "Permettere contenuti remoti dentro i messaggi">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Eccezioni…">
 <!ENTITY remoteContentExceptions.accesskey "z">
 <!ENTITY acceptRemoteContentInfo.label "Maggiori informazioni sui problemi di privacy dei contenuti remoti">
 <!ENTITY captionWebContent.label "Contenuto web">
+<!ENTITY keepHistory.label "Ricordarsi dei siti web e dei collegamenti visitati">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Accettare cookie dai siti">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Accettare cookie da terze parti:">
