@@ -28,7 +28,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Tapatumo nustatymas">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP">
+<!ENTITY pop3.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Nustatyti automatiškai">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -55,6 +55,7 @@
 <!ENTITY manual-edit.accesskey           "R">
 <!ENTITY switch-to-provisioner.label     "Kurti naują el. pašto paskyrą">
 <!ENTITY switch-to-provisioner.accesskey "n">
+
 
 <!ENTITY warning.label                   "Dėmesio!">
 <!ENTITY incomingSettings.label          "Laiškų gavimas:">

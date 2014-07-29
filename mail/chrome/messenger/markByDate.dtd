@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "Skaitytų laiškų požymių priskyrimas pagal datą">
 <!ENTITY markByDateLower.label "Pažymėti kaip skaitytus laiškus, kurių data yra nuo:">
 <!ENTITY markByDateLower.accesskey "n">
-<!ENTITY markByDateUpper.accesskey "k">
 <!ENTITY markByDateUpper.label "iki:">
+<!ENTITY markByDateUpper.accesskey "k">

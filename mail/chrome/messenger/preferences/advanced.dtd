@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Atnaujinimas">
 <!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
 <!ENTITY itemCertificates.label  "Liudijimai">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Siųsti našumo ataskaitas">
 <!ENTITY submitTelemetry.accesskey     "n">
@@ -35,34 +35,34 @@
 <!ENTITY returnReceiptsInfo.label      "Parinkite pažymų apie pristatytus laiškus nuostatas">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
-
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                     "Skaitymas">
-<!ENTITY display.caption                     "Rodymas">
-<!ENTITY showCondensedAddresses.label        "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
-<!ENTITY showCondensedAddresses.accesskey    "a">
 
-<!ENTITY autoMarkAsRead.label                "Atvertą laišką pažymėti kaip skaitytą">
-<!ENTITY autoMarkAsRead.accesskey            "ž">
-<!ENTITY markAsReadNoDelay.label             "iškart">
-<!ENTITY markAsReadNoDelay.accesskey         "i">
+<!ENTITY reading.caption               "Skaitymas">
+<!ENTITY display.caption               "Rodymas">
+<!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
+<!ENTITY showCondensedAddresses.accesskey "a">
+
+<!ENTITY autoMarkAsRead.label          "Atvertą laišką pažymėti kaip skaitytą">
+<!ENTITY autoMarkAsRead.accesskey      "ž">
+<!ENTITY markAsReadNoDelay.label       "iškart">
+<!ENTITY markAsReadNoDelay.accesskey   "i">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
-	  using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label               "praėjus">
-<!ENTITY markAsReadDelay.accesskey           "p">
-<!ENTITY secondsLabel.label                  "sek.">
-<!ENTITY openMsgIn.label                     "Atveriamą laišką rodyti:">
-<!ENTITY openMsgInNewTab.label               "naujoje kortelėje">
-<!ENTITY openMsgInNewTab.accesskey           "k">
-<!ENTITY reuseExpRadio0.label                "naujame lange">
-<!ENTITY reuseExpRadio0.accesskey            "n">
-<!ENTITY reuseExpRadio1.label                "tame pačiame (atvertame) lange">
-<!ENTITY reuseExpRadio1.accesskey            "t">
-<!ENTITY closeMsgOnMoveOrDelete.label        "Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey    "v">
-
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "praėjus">
+<!ENTITY markAsReadDelay.accesskey     "p">
+<!ENTITY secondsLabel.label            "sek.">
+<!ENTITY openMsgIn.label               "Atveriamą laišką rodyti:">
+<!ENTITY openMsgInNewTab.label         "naujoje kortelėje">
+<!ENTITY openMsgInNewTab.accesskey     "k">
+<!ENTITY reuseExpRadio0.label          "naujame lange">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "tame pačiame (atvertame) lange">
+<!ENTITY reuseExpRadio1.accesskey      "t">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 <!-- Update -->
+
 <!ENTITY updateApp.label                 "Programos „&brandShortName;“ atnaujinimas:">
 <!ENTITY updateAuto.label                "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
 <!ENTITY updateAuto.accesskey            "A">
@@ -75,10 +75,10 @@
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "R">
 
-<!ENTITY useService.label               "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
-<!ENTITY useService.accesskey           "f">
-
+<!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
+<!ENTITY useService.accesskey            "f">
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Nuostatos…">
 <!ENTITY showSettings.accesskey        "N">
 <!ENTITY proxiesConfigure.label        "Parinkite „&brandShortName;“ ryšio su internetu nuostatas">
@@ -88,29 +88,29 @@
 <!ENTITY showOffline.label             "Darbas neprisijungus prie tinklo…">
 <!ENTITY showOffline.accesskey         "D">
 
-<!ENTITY Diskspace "Disko atmintis">
+<!ENTITY Diskspace                       "Disko atmintis">
 <!ENTITY offlineCompactFolders.label     "Suglaudinti visus aplankus, jei sumoje tai padės sutaupyti daugiau kaip">
 <!ENTITY offlineCompactFolders.accesskey "S">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label           "Podėliui skirti iki">
-<!ENTITY useCacheBefore.accesskey       "P">
-<!ENTITY useCacheAfter.label            "MB disko atminties">
-<!ENTITY clearCacheNow.label            "Išvalyti dabar">
-<!ENTITY clearCacheNow.accesskey        "v">
 
+<!ENTITY useCacheBefore.label            "Podėliui skirti iki">
+<!ENTITY useCacheBefore.accesskey        "P">
+<!ENTITY useCacheAfter.label             "MB disko atminties">
+<!ENTITY clearCacheNow.label             "Išvalyti dabar">
+<!ENTITY clearCacheNow.accesskey         "v">
 <!-- Certificates -->
-<!ENTITY certSelection.description      "Serveriui paprašius mano liudijimo:">
-<!ENTITY certs.auto                     "parinkti jį automatiškai">
-<!ENTITY certs.auto.accesskey           "a">
-<!ENTITY certs.ask                      "visada klausti">
-<!ENTITY certs.ask.accesskey            "k">
+
+<!ENTITY certSelection.description       "Serveriui paprašius mano liudijimo:">
+<!ENTITY certs.auto                      "parinkti jį automatiškai">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "visada klausti">
+<!ENTITY certs.ask.accesskey             "k">
 
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">
 <!ENTITY viewCertificates.accesskey     "L">

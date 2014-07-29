@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Laiškai ir aplankai">
 <!ENTITY sendingPrefix.label "Išsiunčiant laiškus: ">
@@ -25,12 +25,12 @@
 <!ENTITY sentFolderOn.accesskey "s">
 <!ENTITY sentInOtherFolder.label "kitą aplanką:">
 <!ENTITY sentInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Laiškų archyvavimas">
 <!ENTITY keepArchives.label "Laiškus archyvuoti į:">
 <!ENTITY keepArchives.accesskey "a">
 <!ENTITY archiveHierarchyButton.label "Archyvavimo nuostatos…">
 <!ENTITY archiveHierarchyButton.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "archyvo aplanką">
 <!ENTITY archivesFolderOn.accesskey "c">
 <!ENTITY archiveInOtherFolder.label "kitą aplanką:">

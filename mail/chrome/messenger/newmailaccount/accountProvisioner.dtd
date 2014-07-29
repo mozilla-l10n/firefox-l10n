@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Rodomi tik tie paslaugos teikėjai, kurie ją siūlo jūsų regione. Spustelėkite čia, jeigu norite pamatyti visus teikėjus.">
 <!ENTITY error.line1 "Deja, nepavyko rasti el. pašto adresų pasiūlymų.">
 <!ENTITY error.line2 "Pabandykite adresų ieškoti pagal slapyvardį, pravardę ar kitus duomenis">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Arba galbūt norėsite išbandyti vieną iš ">
 <!ENTITY error.suggest.middle "nemokamų el. pašto paskyrų alternatyvų">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Sveiki, ">
 <!ENTITY success.title.after "! Jūs galite susikurti vieną iš šių el. pašto adresų:">
 <!ENTITY success.tip "Taip pat galite adresų ieškoti pagal savo slapyvardį, pravardę ar kitus duomenis">

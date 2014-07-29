@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Kur ieškoti:">
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Ieškoti poaplankiuose">
@@ -12,7 +12,7 @@
 <!ENTITY resetButton.label           "Išvalyti">
 <!ENTITY resetButton.accesskey       "v">
 <!ENTITY openButton.label            "Atverti">
-<!ENTITY openButton.accesskey        "a">
+<!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Pašalinti">
 <!ENTITY deleteButton.accesskey      "š">
 <!ENTITY searchDialogTitle.label     "Laiškų paieška">
@@ -24,8 +24,8 @@
 <!ENTITY openInFolder.accesskey      "R">
 <!ENTITY saveAsVFButton.label        "Įrašyti kaip radinių aplanką">
 <!ENTITY saveAsVFButton.accesskey    "a">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Kur ieškoti:">
 <!ENTITY abSearchHeading.accesskey   "K">
 <!ENTITY propertiesButton.label      "Savybės">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Pašalinti">
 <!ENTITY deleteCardButton.accesskey  "š">
 <!ENTITY abSearchDialogTitle.label   "Paieška adresų knygoje">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Gija">
 <!ENTITY fromColumn.label "Siuntėjas">
 <!ENTITY recipientColumn.label "Gavėjas">
@@ -55,8 +55,8 @@
 <!ENTITY starredColumn.label "Žvaigždutė">
 <!ENTITY locationColumn.label "Vieta">
 <!ENTITY idColumn.label "Gavimo eilė">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser2.tooltip "Rinktis rodomus stulpelius">
 <!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
 <!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">

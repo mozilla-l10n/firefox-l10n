@@ -8,11 +8,11 @@
 <!ENTITY searchResultConversation.label "Paieškos rezultatai">
 <!ENTITY chat.noConv.title             "Čia bus rodomi pokalbiai.">
 <!ENTITY chat.noConv.description       "Jeigu norite pradėti pokalbį, pasirinkite adresatą iš sąrašo kairėje.">
-<!ENTITY chat.noPreviousConv.description "Programoje „&brandShortName;“ nėra įrašytų pokalbių su šiuo adresatu.">
+<!ENTITY chat.noPreviousConv.description       "Programoje „&brandShortName;“ nėra įrašytų pokalbių su šiuo adresatu.">
 <!ENTITY chat.noAccount.title             "Jūs dar nesusikūrėte pokalbių paskyros.">
 <!ENTITY chat.noAccount.description       "Kad programoje „&brandShortName;“ galėtumėte kalbėtis, turite pirma susikurti pokalbių paskyrą.">
 <!ENTITY chat.accountWizard.button       "Kurti paskyrą">
-<!ENTITY chat.noConnectedAccount.title       "Jūsų paskyros nėra prisijungusios prie tinklo.">
+<!ENTITY chat.noConnectedAccount.title             "Jūsų paskyros nėra prisijungusios prie tinklo.">
 <!ENTITY chat.noConnectedAccount.description       "Prisijungti prie jų galite, naudodamiesi tikralaikių pokalbių būsenos langu:">
 <!ENTITY chat.showAccountManager.button       "Rodyti tikralaikių pokalbių būseną">
 

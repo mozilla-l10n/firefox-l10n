@@ -20,7 +20,7 @@
 <!ENTITY  serif.label                             "Su užraitais:">
 <!ENTITY  serif.accesskey                         "u">
 <!ENTITY  sans-serif.label                        "Be užraitų:">
-<!ENTITY  sans-serif.accesskey                    "b">
+<!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Lygiaplotis:">
 <!ENTITY  monospace.accesskey                     "L">
 
@@ -51,30 +51,30 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukų">
 <!ENTITY  font.langGroup.khmer                    "Chmerų">
 <!ENTITY  font.langGroup.malayalam                "Malajų">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Nenurodytas">
-
 <!-- default font type -->
-<!ENTITY useDefaultFontSerif.label                "Su užraitais">
-<!ENTITY useDefaultFontSansSerif.label            "Be užraitų">
 
+<!ENTITY  useDefaultFontSerif.label               "Su užraitais">
+<!ENTITY  useDefaultFontSansSerif.label           "Be užraitų">
 <!-- fonts in message -->
-<!ENTITY fontControl.label                        "Šriftų valdymas">
-<!ENTITY useFixedWidthForPlainText.label          "Grynojo teksto laiškus rodyti lygiapločiu šriftu">
-<!ENTITY fixedWidth.accesskey                     "G">
-<!ENTITY useDocumentFonts.label                   "Leisti laiškuose naudoti kitus šriftus">
-<!ENTITY useDocumentFonts.accesskey               "k">
 
+<!ENTITY  fontControl.label                       "Šriftų valdymas">
+<!ENTITY  useFixedWidthForPlainText.label         "Grynojo teksto laiškus rodyti lygiapločiu šriftu">
+<!ENTITY  fixedWidth.accesskey                    "G">
+<!ENTITY  useDocumentFonts.label                  "Leisti laiškuose naudoti kitus šriftus">
+<!ENTITY  useDocumentFonts.accesskey              "k">
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle1.label            "Koduotės">
 <!ENTITY composingDescription.label       "Laiškų rašymo ir skaitymo numatytosios koduotės">
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">
-<!ENTITY viewDefaultCharsetList.accesskey	"s">
+<!ENTITY viewDefaultCharsetList.accesskey  "s">
 <!ENTITY replyInDefaultCharset2.label     "Kai tai įmanoma, numatytąją koduotę naudoti ir atsakant į laiškus">
 <!ENTITY replyInDefaultCharset2.accesskey "a">

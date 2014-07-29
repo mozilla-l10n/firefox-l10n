@@ -19,13 +19,13 @@
 <!ENTITY quotedTextColor.label            "Citatų spalva:">
 <!ENTITY quotedTextColor.accesskey        "C">
 <!ENTITY displayWidth.label               "Grynojo teksto laiškai">
-<!ENTITY displayText.label				  "Citatų šriftas:">
-
+<!ENTITY displayText.label                "Citatų šriftas:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
 <!ENTITY convertEmoticons.label        "Jaustukus rodyti grafiškai">
 <!ENTITY convertEmoticons.accesskey    "J">
+<!-- labels -->
 
-<!-- tags -->
 <!ENTITY displayTagsText.label     "Pagal gaires galima grupuoti laiškus ir nustatyti jų prioritetus.">
 <!ENTITY addTagButton.label        "Nauja gairė…">
 <!ENTITY addTagButton.accesskey    "N">
@@ -33,14 +33,14 @@
 <!ENTITY editTagButton.accesskey   "T">
 <!ENTITY removeTagButton.label     "Pašalinti">
 <!ENTITY removeTagButton.accesskey "š">
+<!-- Fonts and Colors -->
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors1.label            "Šriftai ir spalvos">
-<!ENTITY defaultFont.label                "Numatytasis šriftas:">
-<!ENTITY defaultFont.accesskey            "u">
-<!ENTITY defaultSize.label                "dydis:">
-<!ENTITY defaultSize.accesskey            "d">
-<!ENTITY fontOptions.accesskey            "t">
-<!ENTITY fontOptions.label                "Kitkas…">
-<!ENTITY colorButton.label                "Spalvos…">
-<!ENTITY colorButton.accesskey            "S">
+<!ENTITY fontsAndColors1.label   "Šriftai ir spalvos">
+<!ENTITY defaultFont.label       "Numatytasis šriftas:">
+<!ENTITY defaultFont.accesskey   "u">
+<!ENTITY defaultSize.label       "dydis:">
+<!ENTITY defaultSize.accesskey   "d">
+<!ENTITY fontOptions.accesskey   "t">
+<!ENTITY fontOptions.label       "Kitkas…">
+<!ENTITY colorButton.label       "Spalvos…">
+<!ENTITY colorButton.accesskey   "S">

@@ -66,39 +66,39 @@
 <!ENTITY viewSourceMenuItem1.accesskey "P">
 <!ENTITY otherActionsPrint1.label "Spausdinti…">
 <!ENTITY otherActionsPrint1.accesskey "S">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Iškart rodyti priedų polangį">
 <!ENTITY startExpandedCmd.accesskey    "r">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Atverti">
-<!ENTITY openAttachmentCmd.accesskey		"A">
+<!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Įrašyti kaip…">
-<!ENTITY saveAsAttachmentCmd.accesskey		"r">
-<!ENTITY detachAttachmentCmd.label    "Išimti…">  
+<!ENTITY saveAsAttachmentCmd.accesskey    "r">
+<!ENTITY detachAttachmentCmd.label    "Išimti…">
 <!ENTITY detachAttachmentCmd.accesskey    "m">
-<!ENTITY deleteAttachmentCmd.label    "Pašalinti">  
+<!ENTITY deleteAttachmentCmd.label    "Pašalinti">
 <!ENTITY deleteAttachmentCmd.accesskey    "š">
 <!ENTITY openAllAttachmentsCmd.label    "Atverti visus…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "A">
 <!ENTITY saveAllAttachmentsCmd.label    "Įrašyti visus…">
-<!ENTITY saveAllAttachmentsCmd.accesskey		"r">
-<!ENTITY detachAllAttachmentsCmd.label    "Išimti visus…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "m">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Pašalinti visus…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "š">  
+<!ENTITY saveAllAttachmentsCmd.accesskey    "r">
+<!ENTITY detachAllAttachmentsCmd.label    "Išimti visus…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "m">
+<!ENTITY deleteAllAttachmentsCmd.label    "Pašalinti visus…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
 <!ENTITY openAttachment.tooltip "Atverti pridėtą failą">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Įrašyti">
 <!ENTITY saveAttachmentButton1.tooltip     "Įrašyti priedą kaip failą">
 <!ENTITY saveAllAttachmentsButton1.label   "Įrašyti visus">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Įrašyti visus priedus kaip failus">
 
-<!ENTITY copyLinkCmd.label        "Kopijuoti saito adresą">  
-<!ENTITY copyLinkCmd.accesskey		"K">
+<!ENTITY copyLinkCmd.label        "Kopijuoti saito adresą">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopijuoti laiško ID">
 <!ENTITY CopyMessageId.accesskey "K">

@@ -6,13 +6,13 @@
 <!ENTITY  startupAction.accesskey     "P">
 <!ENTITY  startupOffline.label        "pokalbių paskyras palikti neprijungtas">
 <!ENTITY  startupConnectAuto.label    "prijungti pokalbių paskyras automatiškai">
-
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+
 <!ENTITY  reportIdleAfter.label         "Pranešti adresatams apie jūsų neveiklumą po">
 <!ENTITY  reportIdleAfter.accesskey     "n">
 <!ENTITY  idleTime                      "min.">

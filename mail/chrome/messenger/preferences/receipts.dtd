@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "Pažymos iš laiškų gavėjų">
-<!ENTITY requestReceipt.label         "Išsiunčiant laišką, prašyti jo pristatymo pažymos">
-<!ENTITY requestReceipt.accesskey     "p">
-<!ENTITY receiptArrive.label          "Gavus laiško pristatymo pažymą:">
-<!ENTITY leaveIt.label                "palikti ją aplanke „Gauti laiškai“">
-<!ENTITY leaveIt.accesskey            "l">
-<!ENTITY moveToSent.label             "įdėti į išsiųstų laiškų aplanką">
-<!ENTITY moveToSent.accesskey         "d">
-<!ENTITY requestMDN.label             "Kai siuntėjas prašo pranešti apie laiško gavimą:">
-<!ENTITY never.label                  "pažymos nesiųsti">
-<!ENTITY never.accesskey              "n">
-<!ENTITY returnSome.label             "išsiųsti pažymą šiais atvejais (parinkite nuostatas):">
-<!ENTITY returnSome.accesskey         "s">
-<!ENTITY notInToCc.label              "jei nesate įrašytas į laiško „Kam“ arba „Kopija“ sąrašus:">
-<!ENTITY notInToCc.accesskey          "m">
-<!ENTITY outsideDomain.label          "jei siuntėjas yra iš kitos interneto srities:">
-<!ENTITY outsideDomain.accesskey      "t">
-<!ENTITY otherCases.label             "kitais atvejais:">
-<!ENTITY otherCases.accesskey         "k">
-<!ENTITY askMe.label                  "Paklausti">
-<!ENTITY alwaysSend.label             "Išsiųsti">
-<!ENTITY neverSend.label              "Neišsiųsti">
+<!ENTITY requestReceipt.label          "Išsiunčiant laišką, prašyti jo pristatymo pažymos">
+<!ENTITY requestReceipt.accesskey      "p">
+<!ENTITY receiptArrive.label           "Gavus laiško pristatymo pažymą:">
+<!ENTITY leaveIt.label                 "palikti ją aplanke „Gauti laiškai“">
+<!ENTITY leaveIt.accesskey             "l">
+<!ENTITY moveToSent.label              "įdėti į išsiųstų laiškų aplanką">
+<!ENTITY moveToSent.accesskey          "d">
+<!ENTITY requestMDN.label              "Kai siuntėjas prašo pranešti apie laiško gavimą:">
+<!ENTITY never.label                   "pažymos nesiųsti">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "išsiųsti pažymą šiais atvejais (parinkite nuostatas):">
+<!ENTITY returnSome.accesskey          "s">
+<!ENTITY notInToCc.label               "jei nesate įrašytas į laiško „Kam“ arba „Kopija“ sąrašus:">
+<!ENTITY notInToCc.accesskey           "m">
+<!ENTITY outsideDomain.label           "jei siuntėjas yra iš kitos interneto srities:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "kitais atvejais:">
+<!ENTITY otherCases.accesskey          "k">
+<!ENTITY askMe.label                   "Paklausti">
+<!ENTITY alwaysSend.label              "Išsiųsti">
+<!ENTITY neverSend.label               "Neišsiųsti">

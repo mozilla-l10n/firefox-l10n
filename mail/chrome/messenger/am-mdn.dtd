@@ -14,7 +14,7 @@
 <!ENTITY receiptArrive.label          "Gautą pažymą:">
 <!ENTITY leaveIt.label                "palikti gautų laiškų aplanke">
 <!ENTITY leaveIt.accesskey            "a">
-<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent Mail' according to Netscape glossary -->
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "įdėti į išsiųstų laiškų aplanką">
 <!ENTITY moveToSent.accesskey         "d">
 <!ENTITY requestMDN.label             "Gavus prašymą patvirtinti laiško pristatymą:">

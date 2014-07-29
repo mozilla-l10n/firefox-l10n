@@ -9,8 +9,8 @@
 <!ENTITY newsSectionHdr.label         "Naujienų grupės">
 <!ENTITY subscribeNewsLink.label      "Naujienų grupių prenumerata">
 
-<!ENTITY feedsSectionHdr.label        "Sklaidos kanalai"> 
-<!ENTITY subscribeFeeds.label         "Tvarkyti prenumeratas"> 
+<!ENTITY feedsSectionHdr.label        "Sklaidos kanalai">
+<!ENTITY subscribeFeeds.label         "Tvarkyti prenumeratas">
 
 <!ENTITY chat.label                   "Pokalbiai">
 <!ENTITY movemail.label               "„Movemail“">

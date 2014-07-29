@@ -6,8 +6,8 @@
 <!ENTITY itemPhishing.label      "Apgaulingi laiškai">
 <!ENTITY itemPasswords.label     "Slaptažodžiai">
 <!ENTITY itemAntiVirus.label     "Antivirusinė apsauga">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
 <!ENTITY manualMark.label "Pažymėjus, kad laiškai yra brukalas:">
 <!ENTITY manualMark.accesskey "P">
@@ -23,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "ž">
 <!ENTITY resetTrainingData.label "Atstatyti automatinės kontrolės duomenis">
 <!ENTITY resetTrainingData.accesskey "t">
-
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro      "Analizuodama gaunamus laiškus programa gali patikrinti, ar juose nėra apgaulės.">
+
+<!ENTITY phishingDetector1.intro  "Analizuodama gaunamus laiškus programa gali patikrinti, ar juose nėra apgaulės.">
 <!ENTITY enablePhishingDetector1.label    "Tikrinti, ar gaunamuose laiškuose nėra apgaulės">
 <!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "Naudoti atsiųstą įtartinų laiškų sąrašą">
 <!ENTITY useDownloadedList.accesskey "N">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "Programa „&brandShortName;“ gali įsiminti visų paskyrų slaptažodžius.">
 <!ENTITY useMasterPassword.label        "Naudoti pagrindinį slaptažodį">
 <!ENTITY useMasterPassword.accesskey    "N">
@@ -40,8 +40,9 @@
 <!ENTITY changeMasterPassword.accesskey "k">
 <!ENTITY savedPasswords.label           "Įrašyti slaptažodžiai…">
 <!ENTITY savedPasswords.accesskey       "s">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus, programa „&brandShortName;“ gali leisti antivirusinei programai patikrinti, ar juose nėra virusų.">
 <!ENTITY antiVirus.label      "Leisti antivirusinei programai izoliuoti įtartinus laiškus">
 <!ENTITY antiVirus.accesskey  "L">
+
