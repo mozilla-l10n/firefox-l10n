@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Tammaasa lasal-tabatandiyan jejebante">
 <!ENTITY protectedAuth.msg "Taare tammaasa lasal-tabatandi. Lasal-tabatandiyan dabaroo ma tenji nda war boŋ tammaasa dumoo.">
 <!ENTITY protectedAuth.tokenName.label "Tammaasa:">
-
-<!ENTITY certErrorDlg.title "Ciyari saajante kay">
-<!ENTITY certErrorDlg.info1 "Woo ka hin ka tee šenday nda feršikaa hanseyanoo wala a ga hin ka tee boro foo ga wiri ka feršikaa ženti.">
-<!ENTITY certErrorDlg.info2 "Nda war na feršikaa ciya nda saajaw ka bisa, firkaa ga hin ka waati haya nda war ga hin ka ceeci koyne waati foo.">

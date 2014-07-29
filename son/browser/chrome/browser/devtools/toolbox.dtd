@@ -69,8 +69,6 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label4    "Chrome nda tontoni hasaraw kaayan tunandi">
-<!ENTITY options.enableChrome.tooltip2  "Suubaroo woo tunandiroo ka too war ma hin ka goy nda cinakaw waaniyaŋ ceecikaw šilbayboŋ ra nda tontoney hansa tontoni juwalkaa boŋ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -83,12 +81,10 @@
 
 <!ENTITY options.disableJavaScript.label     "JavaScript kayandi *">
 <!ENTITY options.disableJavaScript.tooltip   "Suubaroo tunandiroo ga JavaScript kayandi nor lokoo ra. Nda nor lokoo wala goyjinay bataa daaba kul kayandiyanoo mma dere.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Tugudoo kayandi *">
-<!ENTITY options.disableCache.tooltip   "Suubaroo woo tunandiroo ka too tugudogoo ma daaba sohõ nor lokoo ra. Nda nor lokoo wala goyjinay bataa daaba kul kayandiyanoo woo dirŋandi. ">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -166,3 +162,16 @@
 <!ENTITY options.showPlatformData.label    "Gecko goydaari bayhayey cebe">
 <!ENTITY options.showPlatformData.tooltip  "Nda war na suubaroo woo tunandi JavaScript alhaalikoy bayrandiyaney goo nda 
 Gecko goydaari jinay tammaasayaŋ">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "Tilasu">

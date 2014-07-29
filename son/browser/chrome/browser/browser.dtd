@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Nor lokoo dam taaga">
 <!ENTITY  reloadTab.accesskey                "d">
-<!ENTITY  reloadAllTabs.label                "Nor lokey kul dam taaga">
-<!ENTITY  reloadAllTabs.accesskey            "k">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Marga taaga">
 <!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
 <!ENTITY  moveToNewWindow.accesskey          "z">
-<!ENTITY  bookmarkAllTabs.label              "Nor lokey kul šilbay…">
-<!ENTITY  bookmarkAllTabs.accesskey          "l">
-<!ENTITY  undoCloseTab.label                 "Nor loku daabuyan taafeeri">
-<!ENTITY  undoCloseTab.accesskey             "t">
+
+
+
+
 <!ENTITY  closeTab.label                     "Nor lokoo daabu">
 <!ENTITY  closeTab.accesskey                 "d">
 
@@ -81,6 +81,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Doo-šilbawey goyjinay žeeri">
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -259,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "w">
 <!ENTITY devAppMgrMenu.label               "Porogaram juwalkaw">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
@@ -701,11 +709,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
+
 <!ENTITY webrtcIndicatorButton.label "Biizaahaya / Jindezaahaya toodoo">
 <!ENTITY webrtcIndicatorButton.tooltip "Cebe Interneti dogey kaŋ war goo m'i žemni nda bii- wala jindezaahaya sohõda">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "Interneti doo boobey ga koy boryo ba nda gundekunaa woo gagayandi.">
 
