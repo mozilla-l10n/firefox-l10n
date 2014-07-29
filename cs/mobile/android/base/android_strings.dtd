@@ -104,6 +104,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
+<!ENTITY pref_developer_paint_flashing "Zvýrazňovat překreslování">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 
