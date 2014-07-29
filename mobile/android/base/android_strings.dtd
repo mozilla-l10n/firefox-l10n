@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Záložky">
 <!ENTITY  history_title "Historie">
 <!ENTITY  reading_list_title "Seznam ke čtení">
+<!ENTITY  recent_tabs_title "Naposledy zavřené panely">
 
 <!ENTITY  switch_to_tab "Přepnout na panel">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
-<!ENTITY history_week_section "Posledních 7 dnů">
-<!ENTITY history_older_section "Starší než 7 dnů">
+<!ENTITY history_week_section2 "Poslední týden">
+<!ENTITY history_older_section2 "Poslední měsíc">
 
 <!ENTITY go "Přejít">
 <!ENTITY search "Hledat">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
+<!ENTITY pref_developer_paint_flashing "Zvýrazňovat překreslování">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 
 <!ENTITY pref_category_home "Domů">
 <!ENTITY pref_category_home_summary "Přizpůsobení vaší domovské stránky">
 <!ENTITY pref_category_home_panels "Panely">
-<!ENTITY pref_home_add_panel "Přidat panel">
 <!ENTITY home_add_panel_title "Přidat nový panel">
 <!ENTITY home_add_panel_empty "Omlouváme se, ale nemůžeme nalézt žádný panel, který byste mohli přidat.">
 
@@ -146,7 +147,11 @@
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
 <!ENTITY pref_char_encoding_off "Nezobrazovat nabídku">
-<!ENTITY pref_clear_private_data "Vymazat důvěrná data">
+<!ENTITY pref_clear_private_data2 "Vymazat nyní">
+<!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
+<!ENTITY pref_clear_on_exit_title "Vždy vymazat při ukončení">
+<!ENTITY pref_clear_on_exit_summary "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte &quot;Ukončit&quot; z hlavní nabídky"> 
+<!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nový panel">
 <!ENTITY new_private_tab "Nový anonymní panel">
 <!ENTITY close_all_tabs "Zavřít všechny panely">
+<!ENTITY close_private_tabs "Zavřít anonymní panely">
 <!ENTITY tabs_normal "Panely">
 <!ENTITY tabs_private "Anonymní">
 <!ENTITY tabs_synced "Synchronizované">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
 <!ENTITY contextmenu_open_private_tab "Otevřít v anonymním panelu">
-<!ENTITY contextmenu_open_in_reader "Otevřít ve čtečce">
 <!ENTITY contextmenu_remove "Odebrat">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
 <!ENTITY contextmenu_share "Sdílet">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
 <!ENTITY home_clear_history_confirm "Jste si jist(a), že chcete vymazat svou historii?">
 <!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
+<!ENTITY home_closed_tabs_title "Nedávno zavřené panely">
 <!ENTITY home_last_tabs_title "Panely z minula">
-<!ENTITY home_last_tabs_open "Otevřít všechny panely z minula">
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
-<!ENTITY home_most_recent_title "Poslední">
+<!ENTITY home_open_all "Otevřít vše">
 <!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navšívili, se zobrazí zde.">
 <!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Zpět na &formatS;">
+
+<!ENTITY private_browsing_title "Anonymní prohlížení">
+<!ENTITY private_tabs_panel_empty_desc "Zde se zobrazují otevřené anonymní panely. Ačkoliv neuchováváme vaši historii prohlížení nebo cookies, záložky a stažené soubory budou na vaše zařízení ukládány.">
+<!ENTITY private_tabs_panel_learn_more "Chcete se dozvědět více?">
 
 <!ENTITY pin_site_dialog_hint "Vložení hledaného klíčového slova">
 
