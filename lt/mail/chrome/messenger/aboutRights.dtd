@@ -1,13 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title           "Apie jūsų teises">
-<!ENTITY rights.intro-header    "Apie jūsų teises">
+<!ENTITY rights.title            "Apie jūsų teises">
+<!ENTITY rights.intro-header     "Apie jūsų teises">
 <!ENTITY rights.intro "„&brandFullName;“ yra laisvoji atviroji programa, kuriama bendruomenės, apimančios tūkstančius žmonių iš viso pasaulio. Keletas dalykų, kuriuos turėtumėte žinoti:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -16,6 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "Jums leidžiama naudotis „&brandShortName;“ programa, vadovaujantis ">
 <!ENTITY rights.intro-point1b "„Mozilla“ viešąja licencija (Mozilla Public License)">
 <!ENTITY rights.intro-point1c ". Ši licencija leidžia naudotis „&brandShortName;“ programa, ją dauginti ir platinti. Be to, galite laisvai modifikuoti programos pirminius tekstus. Licencija nedraudžia platinti ir jūsų modifikuotų programos versijų.">
@@ -23,48 +22,45 @@
 <!ENTITY rights.intro-point2a "„Mozilla“ nesuteikia jokių teisių į „Mozilla“ ir „Thunderbird“ prekės ženklus ar logotipus. Papildomą informaciją apie šiuos prekės ženklus ir jų naudojimą rasite ">
 <!ENTITY rights.intro-point2b "čia">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "„&vendorShortName;“ programų privatumo politiką rasite ">
 <!ENTITY rights.intro-point3b "čia">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Čia turėtų būti išvardintos šiai programai taikomos privatumo nuostatos.">
 
+<!ENTITY rights.intro-point3-unbranded "Čia turėtų būti išvardintos šiai programai taikomos privatumo nuostatos.">
 <!-- point 4 text for official branded builds -->
+
 <!ENTITY rights.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis paslaugomis, pavyzdžiui, priedų naujinimo paslauga. Deja, mes negalime užtikrinti, kad šias paslaugas teikiančios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
 <!ENTITY rights.intro-point4b "naudojimosi paslaugomis taisyklėse">
 <!ENTITY rights.intro-point4c ".">
-
 <!-- point 4 text for unbranded builds -->
+
 <!ENTITY rights.intro-point4a-unbranded "Jei šioje programoje naudojamos kokios nors saityno tarnybos, nuorodos į jų naudojimosi taisykles turėtų būti pateiktos skyrelyje ">
 <!ENTITY rights.intro-point4b-unbranded "„Naudojamos saityno tarnybos“">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos saityno tarnybos">
-
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights.webservices-a "„&brandFullName;“ suteikia galimybę naudotis papildomomis paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų naujinimo paslauga. Paslaugų, kuriomis naudojasi ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, „SafeBrowsing“ paslaugą galite išjungti, programos nuostatų lango nuostatų grupės ">
 <!ENTITY rights.webservices-b "„Kitkas“">
 <!ENTITY rights.webservices-c " kortelėje ">
 <!ENTITY rights.webservices-d "„Atnaujinimas“">
 <!ENTITY rights.webservices-e " panaikindami parinkčių, esančių sąraše „Automatiškai tikrinti, ar yra naujinimų“, žymėjimus.">
-
-
-
-
 <!-- intro paragraph for unbranded builds -->
+
 <!ENTITY rights.webservices-unbranded "Čia turėtų būti pateiktas šioje programoje naudojamų saityno paslaugų aprašas bei instrukcijos, kaip šių paslaugų naudojimo atsisakyti, jei tai įmanoma.">
-
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų saityno paslaugų naudojimosi taisyklės.">
 
+<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų saityno paslaugų naudojimosi taisyklės.">
 <!-- points 1-7 text for branded builds -->
+
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą.">
 <!ENTITY rights.webservices-term2 "Jūs esate kviečiami naudotis šiomis Paslaugomis su šia „&brandShortName;“ laida, ir tam jums suteikiamos visos teisės. „&vendorShortName;“ ir jos licencijų išdavėjai pasilieka visas kitas su Paslaugomis susijusias teises. Šiomis taisyklėmis nesiekiama apriboti teisių, kurias jums suteikia programai „&brandShortName;“ ir jos pirminiams tekstams taikoma atvirųjų programų licencija.">
 <!ENTITY rights.webservices-term3 "Paslaugos teikiamos „tokios, kokios yra“. „&vendorShortName;“, bendradarbiai, licencijų išdavėjai ir platintojai atsiriboja nuo bet kokių išreikštų ar numanomų garantijų, kaip antai nuo garantijų, jog Paslaugos yra veiksmingos ir atitiks jūsų poreikius. Jūs prisiimate visą riziką, susijusią su Paslaugų, atitinkančių jūsų poreikius, pasirinkimu, kokybe ir veiksnumu. Kai kuriose jurisdikcijose atsiriboti nuo numanomų garantijų neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.">

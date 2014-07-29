@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title                "Darbo neprisijungus prie tinklo nuostatos">
+<!ENTITY offlineDialog.title "Darbo neprisijungus prie tinklo nuostatos">
 
-<!ENTITY textStartUp                        "Paleidžiant programą:">
-<!ENTITY radioRememberPrevState.label       "prisiminti ankstesnę prisijungimo būseną">
-<!ENTITY radioRememberPrevState.accesskey   "m">
-<!ENTITY radioAskMe.label                   "paklausti, ar prisijungti prie tinklo">
-<!ENTITY radioAskMe.accesskey               "k">
-<!ENTITY radioAlwaysOnline.label            "visada prisijungti prie tinklo">
-<!ENTITY radioAlwaysOnline.accesskey        "r">
+<!ENTITY textStartUp "Paleidžiant programą:">
+<!ENTITY radioRememberPrevState.label "prisiminti ankstesnę prisijungimo būseną">
+<!ENTITY radioRememberPrevState.accesskey "m">
+<!ENTITY radioAskMe.label "paklausti, ar prisijungti prie tinklo">
+<!ENTITY radioAskMe.accesskey "k">
+<!ENTITY radioAlwaysOnline.label "visada prisijungti prie tinklo">
+<!ENTITY radioAlwaysOnline.accesskey "r">
 
-<!ENTITY textGoingOnline                    "Ar prisijungus prie tinklo išsiųsti neišsiųstus laiškus?">
-<!ENTITY radioAutoSend.label                "taip">
-<!ENTITY radioAutoSend.accesskey            "t">
-<!ENTITY radioNotSend.label                 "ne">
-<!ENTITY radioNotSend.accesskey             "n">
-<!ENTITY radioAskUnsent.label               "paklausti">
-<!ENTITY radioAskUnsent.accesskey           "s">
-<!ENTITY textGoingOffline                   "Ar atsiųsti laiškus darbui neprisijungus prieš atsijungiant nuo tinklo?">
-<!ENTITY radioAutoDownload.label            "taip">
-<!ENTITY radioAutoDownload.accesskey        "a">
-<!ENTITY radioNotDownload.label             "ne">
-<!ENTITY radioNotDownload.accesskey         "e">
-<!ENTITY radioAskDownload.label             "paklausti">
-<!ENTITY radioAskDownload.accesskey         "l">
+<!ENTITY textGoingOnline "Ar prisijungus prie tinklo išsiųsti neišsiųstus laiškus?">
+<!ENTITY radioAutoSend.label "taip">
+<!ENTITY radioAutoSend.accesskey "t">
+<!ENTITY radioNotSend.label "ne">
+<!ENTITY radioNotSend.accesskey "n">
+<!ENTITY radioAskUnsent.label "paklausti">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Ar atsiųsti laiškus darbui neprisijungus prieš atsijungiant nuo tinklo?">
+<!ENTITY radioAutoDownload.label "taip">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "ne">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload.label "paklausti">
+<!ENTITY radioAskDownload.accesskey "l">

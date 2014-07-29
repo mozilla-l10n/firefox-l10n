@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Mail Content -->
+
 <!ENTITY captionMailContent.label "Laiškų intarpai">
 
 <!ENTITY acceptRemoteContent.label "Leisti intarpus iš tinklo laiškuose">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Išimtys…">
 <!ENTITY remoteContentExceptions.accesskey "I">
 <!ENTITY acceptRemoteContentInfo.label "Sužinoti daugiau apie privatumo problemas, leidžiant intarpus iš tinklo">
-
 <!-- Web Content -->
+
 <!ENTITY captionWebContent.label "Saityno turinys">
 
 <!ENTITY keepHistory.label "Įsiminti lankytas svetaines ir saitus">
@@ -40,3 +40,4 @@
 <!ENTITY dntTrackingOkay.label2 "Nurodyti svetainėms, kad jos jus stebėtų">
 <!ENTITY dntTrackingOkay.accesskey "u">
 <!ENTITY doNotTrackInfo.label "Sužinoti daugiau apie „Nestebėti“ („Do Not Track“) antraštę">
+

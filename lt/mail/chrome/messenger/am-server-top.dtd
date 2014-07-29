@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Laiškų saugojimas">
 <!ENTITY securitySettings.label "Saugumo nuostatos">
@@ -57,9 +57,9 @@
 <!ENTITY emptyTrashOnExit.accesskey "B">
 <!ENTITY loginAtStartup.label "Paleidus pašto programą, patikrinti, ar yra naujų laiškų">
 <!ENTITY loginAtStartup.accesskey "P">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Paklausti prieš atsiunčiant daugiau kaip">
 <!ENTITY maxMessagesStart.accesskey "k">
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Nurodyti serveriui, kad jis patikrintų abonento vardą ir slaptažodį">
 <!ENTITY alwaysAuthenticate.accesskey "N">
 <!ENTITY newsrcFilePath.label "Vieta diske, kur laikomas naujienų „newsrc“ failas:">
-<!ENTITY localPath.label "Aplankas diske, kuriame laikomi šios paskyros laiškai ir kiti duomenys:">
+<!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
 <!ENTITY abbreviate.label "Naujienų grupių vardus pašto aplankų polangyje rodyti:">
 <!ENTITY abbreviateOn.label "pilnus (pvz., „netscape.public.mozilla.mail-news“)">
 <!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "P">
 <!ENTITY serverDefaultCharset.label "Numatytoji koduotė:">
+<!ENTITY localPath.label "Aplankas diske, kuriame laikomi šios paskyros laiškai ir kiti duomenys:">
 <!ENTITY localFolderPicker.label "Vietinio aplanko parinkimas">
 <!ENTITY browseFolder.label "Parinkti…">
 <!ENTITY browseFolder.accesskey "r">
-<!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
 <!ENTITY browseNewsrc.label "Parinkti…">
 <!ENTITY browseNewsrc.accesskey "n">
 

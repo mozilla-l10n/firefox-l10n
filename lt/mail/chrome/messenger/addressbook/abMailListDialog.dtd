@@ -1,22 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
-<!ENTITY mailListWindow.title "Adresatų sąrašas">
+
+<!ENTITY mailListWindow.title           "Adresatų sąrašas">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Adresų knyga:">
+<!ENTITY addToAddressBook.label         "Adresų knyga:">
 
-<!ENTITY ListName.label "Sąrašo pavadinimas:">
-<!ENTITY ListNickName.label "Sąrašo santrumpa:">
-<!ENTITY ListDescription.label "Aprašas:">
+<!ENTITY ListName.label                 "Sąrašo pavadinimas:">
+<!ENTITY ListNickName.label             "Sąrašo santrumpa:">
+<!ENTITY ListDescription.label          "Aprašas:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Surinkite arba atvilkite norimus į sąrašą įtraukti adresus:">
-<!ENTITY UpButton.label	"Pakelti">
-<!ENTITY DownButton.label "Nuleisti">
-
+<!ENTITY AddressTitle.label             "Surinkite arba atvilkite norimus į sąrašą įtraukti adresus:">
+<!ENTITY UpButton.label                 "Pakelti">
+<!ENTITY DownButton.label               "Nuleisti">
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "k">
-<!ENTITY ListName.accesskey "v">
-<!ENTITY ListNickName.accesskey "s">
-<!ENTITY ListDescription.accesskey "A">
+
+<!ENTITY addToAddressBook.accesskey     "k">
+<!ENTITY ListName.accesskey             "v">
+<!ENTITY ListNickName.accesskey         "s">
+<!ENTITY ListDescription.accesskey      "A">
+

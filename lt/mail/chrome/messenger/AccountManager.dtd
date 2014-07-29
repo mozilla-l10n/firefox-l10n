@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from AccountManager.xul -->
+
 
 <!ENTITY accountManagerTitle.label "Paskyrų nuostatos">
 
@@ -11,7 +11,7 @@
 <!ENTITY addMailAccountButton.label "Nauja pašto paskyra…">
 <!ENTITY addMailAccountButton.accesskey "N">
 <!ENTITY addIMAccountButton.label "Nauja pokalbių paskyra…">
-<!ENTITY addIMAccountButton.accesskey "P">
+<!ENTITY addIMAccountButton.accesskey "p">
 <!ENTITY addFeedAccountButton.label "Nauja sklaidos kanalų paskyra…">
 <!ENTITY addFeedAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Nauja kito tipo paskyra…">
@@ -20,7 +20,6 @@
 <!ENTITY setDefaultButton.accesskey "L">
 <!ENTITY removeButton.label "Pašalinti paskyrą">
 <!ENTITY removeButton.accesskey "š">
-
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -30,6 +29,6 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
+
 <!ENTITY accountManager.size "width: 120ch; height: 49em;">
 <!ENTITY accountTree.width "width: 31ch;">
-

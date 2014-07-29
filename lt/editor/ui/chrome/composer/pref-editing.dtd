@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.editing.title         "Naujo tinklalapio nuostatos">
+<!ENTITY  pref.editing.title        "Naujo tinklalapio nuostatos">
 
-<!ENTITY authorName.label           "Autorius:">
-<!ENTITY authorName.accesskey       "a">
-<!ENTITY pageColorHeader            "Numatytoji tinklalapio išvaizda">
+<!ENTITY  authorName.label          "Autorius:">
+<!ENTITY  authorName.accesskey      "A">
+<!ENTITY  pageColorHeader           "Numatytoji tinklalapio išvaizda">
 
 <!ENTITY defaultColors.label        "Spalvų neparinkti (bus naudojamos numatytosios)">
 <!ENTITY defaultColors.accesskey    "m">

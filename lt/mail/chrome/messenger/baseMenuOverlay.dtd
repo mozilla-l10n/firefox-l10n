@@ -1,28 +1,28 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
-<!ENTITY helpMenu.label          "Žinynas">
-<!ENTITY helpMenu.accesskey      "Ž">
+
+<!ENTITY helpMenu.label "Žinynas">
+<!ENTITY helpMenu.accesskey "Ž">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label       "Žinynas">
-<!ENTITY helpMenuWin.accesskey   "Ž">
+<!ENTITY helpMenuWin.label "Žinynas">
+<!ENTITY helpMenuWin.accesskey "Ž">
 <!ENTITY helpTroubleshootingInfo.label     "Informacija problemų sprendimui">
 <!ENTITY helpTroubleshootingInfo.accesskey "s">
-<!ENTITY helpSafeMode.label      "Perleisti programą, išjungus priedus…">
-<!ENTITY helpSafeMode.accesskey  "r">
-<!ENTITY releaseCmd2.label       "Laidos apžvalga">
-<!ENTITY releaseCmd2.accesskey   "L">
-<!ENTITY whatsNewCmd.label       "Laidos naujovės">
-<!ENTITY whatsNewCmd.accesskey   "n">
-<!ENTITY openHelp.label          "Žinyno turinys">
-<!ENTITY openHelp.accesskey      "Ž">
-<!ENTITY openHelp.commandkey     "VK_F1">
-<!ENTITY openHelpMac.label       "„&brandShortName;“ žinynas">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers  "accel">
+<!ENTITY helpSafeMode.label     "Perleisti programą, išjungus priedus…">
+<!ENTITY helpSafeMode.accesskey "r">
+<!ENTITY releaseCmd2.label "Laidos apžvalga">
+<!ENTITY releaseCmd2.accesskey "L">
+<!ENTITY whatsNewCmd.label "Laidos naujovės">
+<!ENTITY whatsNewCmd.accesskey "n">
+<!ENTITY openHelp.label "Žinyno turinys">
+<!ENTITY openHelp.accesskey "Ž">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "„&brandShortName;“ žinynas">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label      "Apie „&brandShortName;“">
-<!ENTITY aboutMenuCmd.accesskey  "A">
+<!ENTITY aboutMenuCmd.label "Apie „&brandShortName;“">
+<!ENTITY aboutMenuCmd.accesskey "A">

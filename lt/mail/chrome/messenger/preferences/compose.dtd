@@ -30,7 +30,7 @@
 <!ENTITY spellCheckInline.label               "Tikrinti rašybą rašant tekstą">
 <!ENTITY spellCheckInline1.accesskey          "r">
 <!ENTITY languagePopup.label                  "Kalba:">
-<!ENTITY languagePopup.accessKey              "k">
+<!ENTITY languagePopup.accessKey              "K">
 <!ENTITY downloadDictionaries.label           "Atsiųsti kitų kalbų žodynus">
 
 <!ENTITY warnOnSendAccelKey.label             "Parodyti patvirtinimą, kai laiškas siunčiamas naudojant sparčiuosius klavišus">

@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title      "Integracija su sistema">
-<!ENTITY acceptIntegration.label      "Skirti numatytąja">
-<!ENTITY cancelIntegration.label      "Praleisti integraciją">
-<!ENTITY cancelIntegration2.label     "Atsisakyti">
-<!ENTITY defaultClient.intro          "„&brandShortName;“ laikyti numatytąja programa:">
+<!ENTITY systemIntegration.title  "Integracija su sistema">
+<!ENTITY acceptIntegration.label  "Skirti numatytąja">
+<!ENTITY cancelIntegration.label  "Praleisti integraciją">
+<!ENTITY cancelIntegration2.label  "Atsisakyti">
+<!ENTITY defaultClient.intro  "„&brandShortName;“ laikyti numatytąja programa:">
 
-<!ENTITY email.label                  "el. pašto">
-<!ENTITY newsgroups.label             "naujienų grupių">
-<!ENTITY feeds.label                  "sklaidos kanalų">
+<!ENTITY email.label "el. pašto">
+<!ENTITY newsgroups.label "naujienų grupių">
+<!ENTITY feeds.label "sklaidos kanalų">
 
-<!ENTITY unsetDefault.tooltip         "Programai „&brandShortName;“ neįmanoma nurodyti kad ji nebūtų laikoma numatytąja programa. Jeigu numatytąja norite skirti kitą programą, pasinaudokite atitinkamu tos programos dialogo langu.">
+<!ENTITY unsetDefault.tooltip "Programai „&brandShortName;“ neįmanoma nurodyti kad ji nebūtų laikoma numatytąja programa. Jeigu numatytąja norite skirti kitą programą, pasinaudokite atitinkamu tos programos dialogo langu.">
 
-<!ENTITY checkOnStartup.label         "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
-<!ENTITY checkOnStartup.accesskey     "P">
+<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY checkOnStartup.accesskey "P">
 
-<!ENTITY searchIntegration.label      "Leisti „&searchIntegration.engineName;“ ieškoti laiškų">
-<!ENTITY searchIntegration.accesskey  "L">
+<!ENTITY searchIntegration.label "Leisti „&searchIntegration.engineName;“ ieškoti laiškų">
+<!ENTITY searchIntegration.accesskey "L">

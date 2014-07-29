@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin      "Nuostatos">
-<!ENTITY prefWindow.titleGNOME    "„&brandShortName;“ nuostatos">
-<!ENTITY prefWindow.styleWindows  "width: 44em; min-height: 40em;">
-<!ENTITY prefWindow.styleMac      "width: 52em;">
-<!ENTITY prefWindow.styleGNOME    "width: 42em; min-height: 40em;">
+<!ENTITY  prefWindow.titleWin     "Nuostatos">
+<!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 40em;">
+<!ENTITY  prefWindow.styleMac     "width: 52em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 40em;">
 
 <!ENTITY paneGeneral.title        "Bendrosios">
 <!ENTITY paneDisplay.title        "Laiškų skaitymas">

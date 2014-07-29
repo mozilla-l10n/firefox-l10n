@@ -1,60 +1,58 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!-- these things need to move into utilityOverlay.xul -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!ENTITY fileMenu.label          "Failas">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Naujas">
+<!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY fileMenu.label					"Failas"> 
-<!ENTITY fileMenu.accesskey				"f">
-<!ENTITY newMenu.label						"Naujas">
-<!ENTITY newMenu.accesskey					"N">
-
-<!ENTITY editMenu.label					"Taisa">
-<!ENTITY editMenu.accesskey				"t">
-<!ENTITY undoCmd.label						"Atšaukti">
-<!ENTITY undoCmd.key						"Z">
-<!ENTITY undoCmd.accesskey					"A">
-<!ENTITY redoCmd.label						"Atstatyti">
-<!ENTITY redoCmd.key						"Y">
-<!ENTITY redoCmd.accesskey					"s">
-<!ENTITY cutCmd.label						"Iškirpti">
-<!ENTITY cutCmd.key							"X">
-<!ENTITY cutCmd.accesskey					"r">
-<!ENTITY copyCmd.label						"Kopijuoti">
-<!ENTITY copyCmd.key						"C">
-<!ENTITY copyCmd.accesskey					"k">
-<!ENTITY pasteCmd.label						"Įdėti">
-<!ENTITY pasteCmd.key						"V">
-<!ENTITY pasteCmd.accesskey					"d">
-<!ENTITY deleteCmd.label					"Pašalinti">
-<!ENTITY deleteCmd.accesskey				"š">
-<!ENTITY selectAllCmd.label					"Pažymėti viską">
-<!ENTITY selectAllCmd.key					"A">
-<!ENTITY selectAllCmd.accesskey				"v">
-<!ENTITY preferencesCmd2.label				"Nuostatos">
-<!ENTITY preferencesCmd2.accesskey			"N">
+<!ENTITY editMenu.label          "Taisa">
+<!ENTITY editMenu.accesskey        "T">
+<!ENTITY undoCmd.label            "Atšaukti">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "A">
+<!ENTITY redoCmd.label            "Atstatyti">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "s">
+<!ENTITY cutCmd.label            "Iškirpti">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "r">
+<!ENTITY copyCmd.label            "Kopijuoti">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label            "Įdėti">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "d">
+<!ENTITY deleteCmd.label          "Pašalinti">
+<!ENTITY deleteCmd.accesskey        "š">
+<!ENTITY selectAllCmd.label          "Pažymėti viską">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "v">
+<!ENTITY preferencesCmd2.label "Nuostatos">
+<!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "N">
 
-<!ENTITY viewMenu.label					"Rodymas">
-<!ENTITY viewMenu.accesskey				"R">
-<!ENTITY viewToolbarsMenu.label				"Priemonių juostos">
-<!ENTITY viewToolbarsMenu.accesskey			"j">
-<!ENTITY showTaskbarCmd.label					"Būsenos">
-<!ENTITY showTaskbarCmd.accesskey				"B">
+<!ENTITY viewMenu.label          "Rodymas">
+<!ENTITY viewMenu.accesskey        "R">
+<!ENTITY viewToolbarsMenu.label        "Priemonių juostos">
+<!ENTITY viewToolbarsMenu.accesskey      "j">
+<!ENTITY showTaskbarCmd.label          "Būsenos">
+<!ENTITY showTaskbarCmd.accesskey        "B">
 
-<!ENTITY closeCmd.label			"Užverti">  
-<!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"U">
+<!ENTITY closeCmd.label      "Užverti">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "U">
 
-<!ENTITY quitApplicationCmd.label	"Baigti darbą"> 
-<!ENTITY quitApplicationCmd.key		"Q"> 
-<!ENTITY quitApplicationCmd.accesskey	"B">
+<!ENTITY quitApplicationCmd.label  "Baigti darbą">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "B">
 
-<!ENTITY quitApplicationCmdUnix.label	"Baigti darbą"> 
-<!ENTITY quitApplicationCmdUnix.accesskey	"B">
+<!ENTITY quitApplicationCmdUnix.label  "Baigti darbą">
+<!ENTITY quitApplicationCmdUnix.accesskey  "B">
 
-<!ENTITY quitApplicationCmdMac.label   "Baigti darbą su „&brandShortName;“">
+<!ENTITY quitApplicationCmdMac.label  "Baigti darbą su „&brandShortName;“">
 <!ENTITY quitApplicationCmdMac.accesskey  "B">

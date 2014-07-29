@@ -3,39 +3,39 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Ryšio nuostatos">
-<!ENTITY  window.width                  "50em">
+<!ENTITY  window.width                   "50em">
 
-<!ENTITY proxyTitle.label              "Įgaliotųjų serverių sąranka">
-<!ENTITY noProxyTypeRadio.label        "Nenaudoti įgaliotojo serverio">
-<!ENTITY noProxyTypeRadio.accesskey    "N">
-<!ENTITY systemTypeRadio.label         "Taikyti šios sistemos įgaliotojo serverio nuostatas">
-<!ENTITY systemTypeRadio.accesskey     "T">
-<!ENTITY WPADTypeRadio.label           "Savarankiškai aptikti šio tinklo įgaliotuosius serverius">
-<!ENTITY WPADTypeRadio.accesskey       "S">
-<!ENTITY manualTypeRadio.label         "Rankinė įgaliotųjų serverių sąranka">
-<!ENTITY manualTypeRadio.accesskey     "R">
-<!ENTITY autoTypeRadio.label           "Automatinė įgaliotųjų serverių sąranka. Failą imti iš URL:">
-<!ENTITY autoTypeRadio.accesskey       "A">
-<!ENTITY reload.label                  "Atsiųsti iš naujo">
-<!ENTITY reload.accesskey              "u">
-<!ENTITY http.label                    "HTTP įgaliotasis serveris:">
-<!ENTITY http.accesskey                "H">
-<!ENTITY ssl.label                     "SSL įgaliotasis serveris:">
-<!ENTITY ssl.accesskey                 "L">
-<!ENTITY socks.label                   "SOCKS kompiuteris:">
-<!ENTITY socks.accesskey               "O">
-<!ENTITY socks4.label                  "SOCKS v4">
-<!ENTITY socks4.accesskey              "4">
-<!ENTITY socks5.label                  "SOCKS v5">
-<!ENTITY socks5.accesskey              "5">
-<!ENTITY HTTPport.label                "Prievadas:">
-<!ENTITY HTTPport.accesskey            "P">
-<!ENTITY SSLport.label                 "Prievadas:">
-<!ENTITY SSLport.accesskey             "i">
-<!ENTITY SOCKSport.label               "Prievadas:">
-<!ENTITY SOCKSport.accesskey           "e">
-<!ENTITY noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
-<!ENTITY noproxy.accesskey             "š">
-<!ENTITY noproxyExplain.label          "Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24">
-<!ENTITY shareproxy.label              "Šį įgaliotąjį serverį naudoti visiems protokolams">
-<!ENTITY shareproxy.accesskey          "v">
+<!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
+<!ENTITY  noProxyTypeRadio.label        "Nenaudoti įgaliotojo serverio">
+<!ENTITY  noProxyTypeRadio.accesskey    "N">
+<!ENTITY  systemTypeRadio.label         "Taikyti šios sistemos įgaliotojo serverio nuostatas">
+<!ENTITY  systemTypeRadio.accesskey     "T">
+<!ENTITY  WPADTypeRadio.label           "Savarankiškai aptikti šio tinklo įgaliotuosius serverius">
+<!ENTITY  WPADTypeRadio.accesskey       "S">
+<!ENTITY  manualTypeRadio.label         "Rankinė įgaliotųjų serverių sąranka">
+<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  autoTypeRadio.label           "Automatinė įgaliotųjų serverių sąranka. Failą imti iš URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Atsiųsti iš naujo">
+<!ENTITY  reload.accesskey              "u">
+<!ENTITY  http.label                    "HTTP įgaliotasis serveris:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL įgaliotasis serveris:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "SOCKS kompiuteris:">
+<!ENTITY  socks.accesskey               "O">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  HTTPport.label                "Prievadas:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Prievadas:">
+<!ENTITY  SSLport.accesskey             "i">
+<!ENTITY  SOCKSport.label               "Prievadas:">
+<!ENTITY  SOCKSport.accesskey           "e">
+<!ENTITY  noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
+<!ENTITY  noproxy.accesskey             "š">
+<!ENTITY  noproxyExplain.label          "Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Šį įgaliotąjį serverį naudoti visiems protokolams">
+<!ENTITY  shareproxy.accesskey          "v">

@@ -5,8 +5,8 @@
 <!ENTITY messengerStartPage.label         "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY enableStartPage.label            "Paleidžiant programą rodyti pradžios tinklalapį">
 <!ENTITY enableStartPage.accesskey        "P">
-<!ENTITY  location.label            "Adresas:">
-<!ENTITY  location1.accesskey        "A">
+<!ENTITY location.label                   "Adresas:">
+<!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Atstatyti numatytąsias nuostatas">
 <!ENTITY useDefault.accesskey             "t">
 
@@ -19,8 +19,8 @@
 <!ENTITY playSound1.accesskey              "g">
 <!ENTITY showAnimatedAlert.label          "Parodyti įspėjimą">
 <!ENTITY showAnimatedAlert.accesskey      "ė">
-<!ENTITY customizeMailAlert.label            "Kitkas…">
-<!ENTITY customizeMailAlert.accesskey        "K">
+<!ENTITY customizeMailAlert.label         "Kitkas…">
+<!ENTITY customizeMailAlert.accesskey     "K">
 
 <!ENTITY showTrayIcon.label               "Rodyti piktogramą pranešimų srityje">
 <!ENTITY showTrayIcon.accesskey           "t">

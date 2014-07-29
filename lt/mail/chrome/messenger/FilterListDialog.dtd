@@ -34,5 +34,6 @@
 <!ENTITY folderPickerPrefix.accesskey "f">
 <!ENTITY helpButton.label "Žinynas">
 <!ENTITY helpButton.accesskey "Ž">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Ieškoti filtro pavadinimo…">
+
