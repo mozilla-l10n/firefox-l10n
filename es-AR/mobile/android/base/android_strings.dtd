@@ -91,7 +91,7 @@
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opciones de datos">
-<!ENTITY pref_learn_more "Concer más">
+<!ENTITY pref_learn_more "Conocer más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Agregar más proveedores de búsqueda">
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
@@ -104,6 +104,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_developer_paint_flashing "Parpadear dibujo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-<!ENTITY pref_clear_private_data "Borrar datos privados">
+<!ENTITY pref_clear_private_data2 "Limpiar ahora">
+<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
+<!ENTITY pref_clear_on_exit_title "Siempre limpiar al salir">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; limpiará tus datos automáticamente cuando elijás &quot;Salir&quot; en el menú principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleccionar los datos a limpiar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
@@ -280,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
-<!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
