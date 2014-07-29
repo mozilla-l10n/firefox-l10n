@@ -91,7 +91,7 @@
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opciones de datos">
-<!ENTITY pref_learn_more "Concer más">
+<!ENTITY pref_learn_more "Conocer más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Agregar más proveedores de búsqueda">
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
