@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label            "Overiť kód tejto stránky">
 <!ENTITY validatePage.accesskey        "t">
+<!ENTITY allowRemoteDebugging.label     "Povoliť vzdialené ladenie">
+<!ENTITY allowRemoteDebugging.accesskey "v">
