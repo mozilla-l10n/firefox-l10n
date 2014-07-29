@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
-
 <!-- Calendar Subscriptions Dialog -->
+
 <!ENTITY calendar.subscriptions.dialog.title                            "Kalendorių prenumerata">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Rodyti kalendorius, kuriuose yra:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Ieškoti">
