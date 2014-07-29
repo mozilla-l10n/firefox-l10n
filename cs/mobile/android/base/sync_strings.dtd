@@ -107,7 +107,10 @@
 
 <!-- Firefox Account strings. -->
 
-<!ENTITY fxaccount_full_label 'Firefox Accounts'>
+<!ENTITY fxaccount_full_label 'Účet Firefox Account'>
+
+<!ENTITY fxaccount_custom_server_account_title 'Použití účtu na serveru'>
+<!ENTITY fxaccount_custom_server_sync_title 'Ukládání synchronizovaných dat na server'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -138,7 +141,7 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header2 'Vytvořit Firefox Account'>
+<!ENTITY fxaccount_create_account_header2 'Vytvořit účet Firefox Account'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Musí být alespoň 8 znaků'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok narození'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
+<!ENTITY fxaccount_status_auth_server 'Server s účtem'>
 <!ENTITY fxaccount_status_device_name 'Název zařízení'>
+<!ENTITY fxaccount_status_sync_server 'Synchronizační server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolen'>
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>
