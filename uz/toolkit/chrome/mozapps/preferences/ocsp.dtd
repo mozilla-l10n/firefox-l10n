@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Sertifikat yaroqliligi">
-<!ENTITY enableOCSP.label             "Joriy sertifikatning yaroqliligini tasdiqlash uchun &quot;Onlayn sertifikat holati protokoli&quot; (OCSP)dan foydalaning">
-<!ENTITY enableOCSP.accesskey         "f">
-<!ENTITY requireOCSP.label            "OCSP server ulanishi muvaffaqiyatsiz yakunlansa, sertifikat yaroqsiz deb hisoblanadi">
-<!ENTITY requireOCSP.accesskey        "y">
