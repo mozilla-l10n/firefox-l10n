@@ -56,7 +56,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label "Wykrywanie wcięć">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Odgadywanie głębokości wcięć w oparciu o treść źródła">
 <!ENTITY options.sourceeditor.autoclosebrackets.label "Domykanie nawiasów">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Autoamtyczne wstawianie znaków zamknięcia nawiasu">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automatyczne wstawianie znaków zamknięcia nawiasu">
 <!ENTITY options.sourceeditor.expandtab.label "Wcinanie spacjami">
 <!ENTITY options.sourceeditor.expandtab.tooltip "Spacje zamiast znaków tabulacji">
 <!ENTITY options.sourceeditor.tabsize.label "Szerokość tabulacji:">
