@@ -20,9 +20,9 @@
 <!ENTITY quickMode.accesskey "V">
 
 <!ENTITY autotagEnable.label         "Opret automatisk mærkater fra &lt;category&gt;-navne i feeds">
-<!ENTITY autotagEnable.accesskey     "O">
+<!ENTITY autotagEnable.accesskey     "P">
 <!ENTITY autotagUsePrefix.label      "Forsyn mærkaterne med præfikset:">
-<!ENTITY autotagUsePrefix.accesskey  "F">
+<!ENTITY autotagUsePrefix.accesskey  "S">
 <!ENTITY autoTagPrefix.placeholder   "Indtast et præfiks til mærkaterne">
 
 <!ENTITY locationValidate.label      "Valider">

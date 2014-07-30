@@ -22,7 +22,7 @@
 <!ENTITY aboveQuote.label "start mit svar over den citerede tekst">
 <!ENTITY belowQuote.label "start mit svar under den citerede tekst">
 <!ENTITY selectAndQuote.label "marker den citerede tekst">
-<!ENTITY place.label "og placer mit signatur">
+<!ENTITY place.label "og placer min signatur">
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "under det citerede (anbefalet)">
 <!ENTITY aboveText.label "under mit svar (over citatet)">
