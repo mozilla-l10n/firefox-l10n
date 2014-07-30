@@ -43,8 +43,8 @@
 
 <!ENTITY history_today_section "Hõ">
 <!ENTITY history_yesterday_section "Bi">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "A ga too jirbi 7">
+<!ENTITY history_older_section "A ga bisa jirbi 7">
 
 <!ENTITY go "Koy">
 <!ENTITY search "Ceeci">
@@ -109,7 +109,7 @@
 <!ENTITY pref_category_home "Šintin">
 <!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋše">
 <!ENTITY pref_category_home_panels "Fasaldogey">
-<!ENTITY pref_home_add_panel "Add panel">
+<!ENTITY pref_home_add_panel "Fasaldoo tonton">
 <!ENTITY home_add_panel_title "Fasaldoo taaga tonton">
 <!ENTITY home_add_panel_empty "Alhaa naŋ, ir mana hin ka duu fasaldoo kul ka tonton.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +145,7 @@
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
-<!ENTITY pref_clear_private_data "Clear private data">
+<!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
 <!ENTITY pref_plugins "Sukarey">
 <!ENTITY pref_plugins_enabled "Dirante">
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
@@ -279,11 +279,11 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
 <!ENTITY contextmenu_open_private_tab "Feeri sutura nor loku ra">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_in_reader "Feeri cawkaw ra">
 <!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
-<!ENTITY contextmenu_pasteandgo "Dobu  Koy">
+<!ENTITY contextmenu_pasteandgo "Dobu &amp; Koy">
 <!ENTITY contextmenu_paste "Dobu">
 <!ENTITY contextmenu_copyurl "Aderesu berandi">
 <!ENTITY contextmenu_edit_bookmark "Fasal">
@@ -350,9 +350,9 @@ size. -->
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
-<!ENTITY home_last_tabs_open "Open all tabs from last time">
+<!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
-<!ENTITY home_most_recent_title "Most recent">
+<!ENTITY home_most_recent_title "Ikokorantaa">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
