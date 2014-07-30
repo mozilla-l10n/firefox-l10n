@@ -24,6 +24,12 @@
 <!ENTITY sync.link.advancedsetup.label 'Papildu iestatījumi…'>
 <!ENTITY sync.link.nodevice.label 'Ierīce man šobrīd nav līdzi…'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Izmantojot servera kontu'>
+<!ENTITY fxaccount_custom_server_sync_title 'Saglabā sinhronizācijas datus uz servera'>
+<!ENTITY fxaccount_status_auth_server 'Kona serveris'>
+<!ENTITY fxaccount_status_sync_server 'Sinhronizācijas serveris'>
+
+
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Gaida otru ierīci…'>
 

@@ -13,6 +13,7 @@
 <!ENTITY  reading_list_title "Lasīšanas saraksts">
 
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
+<!ENTITY close_private_tabs "Aizvērt privāto cilni">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Avārijas ziņojumi">
 <!ENTITY  crash_message2 "&brandShortName; saskārās ar problēmu un avarēja. Pēc pārstartēšanas jūsu cilnēm vajadzētu būt &brandShortName; sākuma lapā.">
@@ -43,8 +44,10 @@
 
 <!ENTITY history_today_section "Šodien">
 <!ENTITY history_yesterday_section "Vakar">
-<!ENTITY history_week_section "Pirms 7 dienām">
-<!ENTITY history_older_section "Senāk par 7 dienām">
+<!ENTITY history_week_section2 "Pagājšnedēļ">
+<!ENTITY history_older_section2 "Pagājušajā mēnesī">
+<!ENTITY home_closed_tabs_title "Nesen aizvērtās cilnes">
+
 
 <!ENTITY go "Iet">
 <!ENTITY search "Meklēt">
@@ -89,7 +92,6 @@
 <!ENTITY pref_category_home_panels "Paneļi">
 <!ENTITY pref_category_home_content_settings "Satura iestatījumi">
 <!ENTITY pref_category_home_summary "Sākumlapas pielāgojumi">
-<!ENTITY pref_home_add_panel "Pievienot paneli">
 <!ENTITY home_add_panel_title "Pievienot jaunu paneli">
 <!ENTITY home_add_panel_empty "Atvainojiet, mums neizdevās atrast nevienu paneli, ko pievienot.">
 <!ENTITY home_add_panel_installed "\'&formatS;\' pievienot sākumlapai">
@@ -97,6 +99,11 @@
 <!ENTITY pref_home_updates "Automātiskie atjauninājumi">
 <!ENTITY pref_home_updates_enabled "Aktivēti">
 <!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
+<!ENTITY private_browsing_title "Privātā pārlūkošana">
+<!ENTITY private_tabs_panel_empty_desc "Jūsu privātās cilnes parādīsies te. Lai arī mēs nesaglabājam pārlūkošanas vēsturi un sīkdatnes, jūsu izveidotās grāmatzīmes un saglabātie faili būs pieejami ierīcē.">
+<!ENTITY private_tabs_panel_learn_more "Gribat zināt vairāk?">
+<!ENTITY  recent_tabs_title "Nesenās cilnes">
+
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Pielāgošana">
@@ -119,7 +126,6 @@
 <!ENTITY pref_char_encoding "Rakstzīmju kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
 <!ENTITY pref_char_encoding_off "Nerādīt izvēlni">
-<!ENTITY pref_clear_private_data "Dzēst privātos datus">
 <!ENTITY pref_plugins "Spraudņi">
 <!ENTITY pref_plugins_enabled "Aktivēti">
 <!ENTITY pref_plugins_tap_to_play "Pieskarties, lai atskaņotu">
@@ -135,6 +141,9 @@
 <!ENTITY pref_font_size_large "Liels">
 <!ENTITY pref_font_size_xlarge "Ļoti liels">
 <!ENTITY pref_font_size_set "Iestatīt">
+<!ENTITY pref_clear_private_data2 "Notīrīt tagad">
+<!ENTITY pref_clear_private_data_category "Notīrīt privātos datus">
+<!ENTITY pref_developer_paint_flashing "Izgaismot nokrāsoto">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -257,7 +266,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Atvērt jaunā cilnē">
 <!ENTITY contextmenu_open_private_tab "Atvērt privātā cilnē">
-<!ENTITY contextmenu_open_in_reader "Atvērt lasītājā">
 <!ENTITY contextmenu_remove "Izņemt">
 <!ENTITY contextmenu_add_to_launcher "Pievienot sākuma ekrānam">
 <!ENTITY contextmenu_share "Dalīties">
@@ -330,13 +338,17 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pievienot lapu">
+<!ENTITY home_open_all "Atvērt visu">
+
+<!ENTITY pref_clear_on_exit_title "Vienmēr notīrīt aizverot">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties &quot;Iziet&quot; no galvenās izvēlnes">
+<!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
+
 
 <!ENTITY home_history_title "Vēsture">
 <!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
 <!ENTITY home_last_tabs_title "Cilnes no iepriekšējās reizes">
-<!ENTITY home_last_tabs_open "Atvērt visas cilnes no iepriekšējās reizes">
 <!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes parādās te.">
-<!ENTITY home_most_recent_title "Nesenās">
 <!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes parādās te.">
 <!ENTITY home_reading_list_empty "Vēlākai lasīšanai saglabātie raksti parādās te.">
 <!ENTITY home_reading_list_hint_accessible "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot lasītāja ikonu, kad tā parādās virsraksta joslā.">
