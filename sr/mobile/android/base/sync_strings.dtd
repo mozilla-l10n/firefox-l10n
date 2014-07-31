@@ -135,7 +135,7 @@
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Добродошли на &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description 'Пријавите се да бисте синхронизовали језичке, забелешке, лозинке и више.'>
-<!ENTITY fxaccount_getting_started_get_started 'Почните'>
+<!ENTITY fxaccount_getting_started_get_started 'Започните'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Користите старију &syncBrand.shortName.label; верзију?'>
 
 <!-- Localization note: the Firefox below should not change with the
