@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY attachLinkSource.label "Приложи извор ове везе уз поруку">
-<!ENTITY attachImageSource.accesskey "с">
-<!ENTITY attachImageSource.label "Приложи ову слику уз поруку">
-<!ENTITY attachLinkSource.accesskey "в">

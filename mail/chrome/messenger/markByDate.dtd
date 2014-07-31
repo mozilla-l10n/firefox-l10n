@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY markByDateUpper.accesskey "Д">
-<!ENTITY markByDateLower.label "Означи поруке као прочитане почев од:">
-<!ENTITY markByDateUpper.label "До:">
-<!ENTITY messageMarkByDate.label "Означи прочитане поруке по датуму">
-<!ENTITY markByDateLower.accesskey "о">
