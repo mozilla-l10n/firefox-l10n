@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY glodaFacetView.pageMore.label "Још &#187;">
-<!ENTITY glodaFacetView.loading.label "Претрага&#8230;">
-<!ENTITY glodaFacetView.empty.label "Ниједна порука не одговара претрази">
-<!ENTITY glodaFacetView.filters.label "Филтери">

@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY mailViewSetupTitle.label "Подешавање погледа поруке">
-<!ENTITY searchTermCaption.label "Када је овај поглед изабран, приказуј само поруке које:">
-<!ENTITY mailViewHeading.accesskey "И">
-<!ENTITY mailViewHeading.label "Име погледа:">
