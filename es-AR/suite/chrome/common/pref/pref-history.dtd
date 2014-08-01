@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "s">
 
 <!ENTITY  locationBarHistory.caption        "Historial de la barra de navegación">
+<!ENTITY  urlBarHistoryEnabled.caption      "Habilitar historial de la barra de navegación">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "e">
 <!ENTITY  clearLocationBar.label            "Borrar el listado de sitios guardados en el menú de la barra de navegación.">
 <!ENTITY  clearLocationBarButton.label      "Borrar barra de navegación">
 <!ENTITY  clearLocationBarButton.accesskey  "B">
