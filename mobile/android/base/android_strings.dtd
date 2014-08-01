@@ -11,7 +11,6 @@
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Lista de lectura">
-<!ENTITY  recent_tabs_title "Pestañas recientes">
 
 <!ENTITY  switch_to_tab "Cambiar a pestaña">
 
@@ -44,8 +43,8 @@
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section2 "Última semana">
-<!ENTITY history_older_section2 "Último mes">
+<!ENTITY history_week_section "Hace 7 días">
+<!ENTITY history_older_section "Hace más de 7 días">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Buscar">
@@ -110,6 +109,7 @@
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizá tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
+<!ENTITY pref_home_add_panel "Agregar paneles">
 <!ENTITY home_add_panel_title "Agregar un panel nuevo">
 <!ENTITY home_add_panel_empty "Lo sentimos, no podemos encontrar ningún panel para agregar.">
 <!-- Localization note (home_add_panel_installed):
@@ -170,7 +170,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "El rápido zorro naranja salta sobre tus expectativas con más velocidad, más flexibilidad y más seguridad. Como no tenemos fines de lucro, somos libres de innovar en tu nombre sin ninguna presión que nos obligue. Esto genera una mejor experiencia para vos y un futuro más brillante para la web.">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_show_product_announcements "Mostrar anuncios de producto">
@@ -257,7 +257,6 @@ size. -->
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY new_private_tab "Nueva pestaña privada">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
-<!ENTITY close_private_tabs "Cerrar pestañas privadas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
@@ -350,10 +349,10 @@ size. -->
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Querés limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardés van a aparecer acá.">
-<!ENTITY home_closed_tabs_title "Pestañas recientemente cerradas">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
+<!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
-<!ENTITY home_open_all "Abrir todas">
+<!ENTITY home_most_recent_title "Más recientes">
 <!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -372,10 +371,6 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Hacia &formatS;">
-
-<!ENTITY private_browsing_title "Navegación privada">
-<!ENTITY private_tabs_panel_empty_desc "Tus pestañasa privadas aparecen acá. Aunque no guardamos nungún historial de navegación o cookies, los marcadores y archivos descargados se mantendrán en tu dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "¿Querés saber más?">
 
 <!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 

@@ -4,3 +4,6 @@
 
 <!ENTITY validatePage.label            "Validar esta página">
 <!ENTITY validatePage.accesskey        "V">
+<!ENTITY allowRemoteDebugging.label     "Permitir depuración remota">
+<!ENTITY allowRemoteDebugging.accesskey "a">
+
