@@ -15,7 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; tərəfindən təqdim olunan <b>#1</b> şəbəkəsinə qoşulmaq istəyirsiniz, amma sizin bağlantınızın təhlükəsiz olduğunu təsdiqləyə bilmirik.">
+<!ENTITY certerror.introPara1 "&brandShortName; səyyahından təhlükəsiz 
+<b>#1</b> ilə bağlanmasını istədiniz, amma bağlantının təhlükəsiz olduğunu təsdiqləyə bilmirik.">
 <!ENTITY certerror.introPara2 "Normal halda, təhlükəsiz olaraq bağlanmaq istəyəndə, 
 bağlanılmaq istənən sayt həqiətən doğru yerə getdiyinizi təsdiqləyəcək olan etibarlı 
 kimlik məlumatı təqdim etməlidir. Ancaq bu saytın kimliyi təsdiqlənə bilmir.">

@@ -37,7 +37,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Yenilənmə Tarixçəsi">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yeniləmə keçmişini göstər">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yenilənmə tarixçəsini göstər">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik qovluğu">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -50,6 +50,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "İstifadəçi aləti">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çox əməliyyatlı Pəncərələr">
+
 <!ENTITY aboutSupport.showDir.label "Qovluğu Aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -61,11 +63,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Dəyişdirilən seçimlər">
 <!ENTITY aboutSupport.modifiedPrefsName "Ad">
-<!ENTITY aboutSupport.modifiedPrefsValue "Kəmiyyət">
+<!ENTITY aboutSupport.modifiedPrefsValue "Dəyər">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Vacib kilitlənmiş nizamlamalar">
+<!ENTITY aboutSupport.lockedPrefsName "Ad">
+<!ENTITY aboutSupport.lockedPrefsValue "Dəyər">
 
 <!ENTITY aboutSupport.graphicsTitle "Təchizat məlumatlar">
 

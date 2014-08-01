@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Qorunmuş işarənin kimlik Təsdiqləməsi">
 <!ENTITY protectedAuth.msg "Lütfən işarəyə kimliyinizi təsdiqləyin. Kimlik təsdiqləmə üsulu işarətinizin növünə görə dəyişir.">
 <!ENTITY protectedAuth.tokenName.label "İşarə:">
-
-<!ENTITY certErrorDlg.title "Təhlükəsiz bağlantı qurulmadı">
-<!ENTITY certErrorDlg.info1 "Bu, serverin qurulmasından ya da serveri təqlid etməyə çalışan başqa birinə görə irəli gələn bir problem ola bilər.">
-<!ENTITY certErrorDlg.info2 "Serverə daha əvvəl uğurla qoşuldunuzsa, bu problem müvəqqəti ola bilər və daha sonra yenidən yoxlaya bilərsiniz.">

@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Keçmiş təmizləmə seçimləri">
-<!ENTITY sanitizeDialog2.title         "Yaxını keçmişi təmizlə">
+<!ENTITY sanitizePrefs2.title          "Tarixçə Təmizləmə Tənzimləmələri">
+<!ENTITY sanitizeDialog2.title         "Yaxın Tarixçəni Təmizlə">
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; proqramından çıxanda bunları avtomatik silinsin:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -29,12 +29,12 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Ətraflı məlumat">
 <!ENTITY detailsProgressiveDisclosure.accesskey "a">
 
-<!ENTITY historySection.label         "Keçmiș">
+<!ENTITY historySection.label         "Tarixçə">
 <!ENTITY dataSection.label            "Verilən">
 
-<!ENTITY itemHistoryAndDownloads.label     "Səyahət və Endirmə Keçmişi">
+<!ENTITY itemHistoryAndDownloads.label     "Səyahət və Endirmə Tarixçəsi">
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
-<!ENTITY itemFormSearchHistory.label       "Form və Axtarış Keçmişi">
+<!ENTITY itemFormSearchHistory.label       "Form və Axtarış Tarixçəsi">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Saxlanan şifrələr">
 <!ENTITY itemPasswords.accesskey           "P">

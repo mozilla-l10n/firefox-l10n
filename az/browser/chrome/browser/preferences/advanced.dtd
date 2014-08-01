@@ -15,7 +15,7 @@
 <!ENTITY blockAutoRefresh.label          "Saytlar səhifəni yönləndirmək və ya yenidən yükləmək istəyən zaman məni xəbərdar et">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
-<!ENTITY browsing.label                  "Tarama">
+<!ENTITY browsing.label                  "Səyahət">
 
 <!ENTITY useAutoScroll.label             "Avtomatik sürüşdürmədən istifadə et">
 <!ENTITY useAutoScroll.accesskey         "A">
@@ -54,9 +54,9 @@
 <!ENTITY enableCrashReporter.accesskey   "X">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
-<!ENTITY networkTab.label                "Ağ">
+<!ENTITY networkTab.label                "Şəbəkə">
 
-<!ENTITY connection.label                "Connection">
+<!ENTITY connection.label                "Bağlantı">
 
 <!ENTITY connectionDesc.label            "&brandShortName;-un internetə necə bağlanacağını nizamlayın">
 <!ENTITY connectionSettings.label        "Nizamlar…">
@@ -64,7 +64,7 @@
 
 <!ENTITY httpCache.label                 "Yaddaşda saxlanılmış web məzmunu">
 
-<!ENTITY offlineStorage2.label           "Offline web məzmunu və istifadəçi məlumatları">
+<!ENTITY offlineStorage2.label           "Oflayn Web Məzmunu və İstifadəçi Məlumatları">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -72,9 +72,9 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Saxlama yaddaşı">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB ilə sərhədlə">
+<!ENTITY limitCacheSizeBefore.label      "Keş yaddaşı limiti">
+<!ENTITY limitCacheSizeBefore.accesskey  "l">
+<!ENTITY limitCacheSizeAfter.label       "MB yer">
 <!ENTITY clearCacheNow.label             "İndi təmizlə">
 <!ENTITY clearCacheNow.accesskey         "z">
 <!ENTITY clearOfflineAppCacheNow.label   "İndi təmizlə">
@@ -101,8 +101,8 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "m">
 
 
-<!ENTITY updateHistory.label             "Yeniləmə keçmişini göstər">
-<!ENTITY updateHistory.accesskey         "g">
+<!ENTITY updateHistory.label             "Yeniləmə Tarixçəsini Göstər">
+<!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
 <!ENTITY useService.accesskey            "b">
@@ -118,19 +118,19 @@
 
 <!ENTITY offlineAppsList2.label          "Aşağıdakı saytların offline istifadə üçün məlumat saxlamasına icazə verilib:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Sil …">
-<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppsListRemove.label     "Sil…">
+<!ENTITY offlineAppsListRemove.accesskey "S">
 <!ENTITY offlineAppRemove.confirm        "Offline məlumatlarını sil">
 
-<!ENTITY certificateTab.label            "Təsdiq sənədləri">
+<!ENTITY certificateTab.label            "Sertifikatlar">
 <!ENTITY certSelection.description       "Server şəxsi sertifikat istəyəndə:">
 <!ENTITY certs.auto                      "Birini avtomatik seç">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Hər dəfə soruş">
+<!ENTITY certs.ask.accesskey             "A">
 
 
-
-<!ENTITY verify2.label                   "Təsdiqləmə">
-<!ENTITY verify2.accesskey               "V">
-
-
+<!ENTITY viewCerts.label                 "Sertifikatları göstər">
+<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
+<!ENTITY viewSecurityDevices.accesskey   "C">

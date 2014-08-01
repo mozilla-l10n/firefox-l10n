@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  colorsDialog.title              "Renkler">
+<!ENTITY  colorsDialog.title              "Rənglər">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "43em">
 
-<!ENTITY  allowPagesToUse.label           "Yuxarıdakı seçimlərin yerinə, səhifənin öz rənglərini seçmklərinə icazə ver.">
+<!ENTITY  allowPagesToUse.label           "Yuxarıdakı seçimlərin yerinə, səhifənin öz rənglərini seçməklərinə icazə ver">
 <!ENTITY  allowPagesToUse.accesskey       "s">
 
 <!ENTITY  color                           "Mətn və arxa fon">
-<!ENTITY  textColor.label                 "Metin:">
+<!ENTITY  textColor.label                 "Mətn:">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Arxa fon:">
 <!ENTITY  backgroundColor.accesskey       "A">
-<!ENTITY  useSystemColors.label           "Sistem rənglərinən istifadə et">
+<!ENTITY  useSystemColors.label           "Sistem rənglərindən istifadə et">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını xətlə">

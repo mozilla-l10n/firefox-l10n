@@ -8,11 +8,14 @@
 <!ENTITY warnCloseMultipleTabs.label  "1-dən çox vərəq bağlarkən məni xəbərdar et">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOpenManyTabs.label       "Çox sayda vərəq açmağın &brandShortName; səyyahını yavaşlada biləcəyi vaxtlarda məni xəbərdar et">
+<!ENTITY warnOpenManyTabs.accesskey   "y">
 
+<!ENTITY restoreTabsOnDemand.label        "Vərəqləri seçilənə qədər yükləmə">
+<!ENTITY restoreTabsOnDemand.accesskey    "u">
 
-
-
-
+<!ENTITY switchToNewTabs.label        "Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç">
+<!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Vərəqlərə ön baxışı Windows tapşırıq panelində göstər">
 <!ENTITY showTabsInTaskbar.accesskey      "e">

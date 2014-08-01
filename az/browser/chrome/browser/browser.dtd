@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Vərəqi Yenilə">
 <!ENTITY  reloadTab.accesskey                "Y">
 <!ENTITY  reloadAllTabs.label                "Bütün Vərəqləri Yenilə">
-<!ENTITY  reloadAllTabs.accesskey            "t">
+<!ENTITY  reloadAllTabs.accesskey            "B">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -47,8 +47,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  bookmarkAllTabs.label              "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
-<!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri aç">
-<!ENTITY  undoCloseTab.accesskey             "a">
+<!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri geri al">
+<!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Vərəqi Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
 
@@ -81,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Əlfəcin Paneli">
 <!ENTITY personalbarCmd.accesskey "Ə">
 <!ENTITY bookmarksToolbarItem.label "Əlfəcin alət sətri obyektləri">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Bütün Vərəqləri Yenilə">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bütün Vərəqləri Əlfəcinlə…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Bağlanan vərəqləri geri al">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "g">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -156,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Əvvəlki səhifəyə qayıt">
 <!ENTITY forwardCmd.label             "İləri">
 <!ENTITY forwardButton.tooltip        "Sonrakı səhifəyə keç">
-<!ENTITY backForwardButtonMenu.tooltip "Keçmişi göstərmək üçün sağ klikləyin və ya aşağı çəkin">
-<!ENTITY backForwardButtonMenuMac.tooltip "keçmişi göstərmək üçün aşağı çəkin">
+<!ENTITY backForwardButtonMenu.tooltip "Tarixçəni göstərmək üçün sağ klikləyin və ya aşağı çəkin">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tarixçəni göstərmək üçün aşağı çəkin">
 <!ENTITY reloadCmd.label              "Yenilə">
 <!ENTITY reloadButton.tooltip         "Hazırki səhifəni yenilə">
 <!ENTITY stopCmd.label                "Dayan">
@@ -180,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
 <!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış Əlfəcinlər">
-<!ENTITY viewBookmarksSidebar2.label        "Əlfəcin alət sətrini göstər">
+<!ENTITY viewBookmarksSidebar2.label        "Əlfəcin yan panelini göstər">
 <!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -189,7 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Keçmiș">
+<!ENTITY historyButton.label            "Tarixçə">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alətlər">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "P">
 <!ENTITY devAppMgrMenu.label               "Proqram İdarəçisi">
 <!ENTITY devAppMgrMenu.accesskey           "P">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
@@ -329,18 +338,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Yeni bağlanmış pəncərələr">
 <!ENTITY historyRestoreLastSession.label "Əvvəlki Seansı Bərpa et">
 
-<!ENTITY showAllHistoryCmd2.label "Bütün Keçmişi Göstər">
+<!ENTITY showAllHistoryCmd2.label "Bütün Tarixçəni Göstər">
 <!ENTITY showAllHistoryCmd.commandkey "K">
 
 <!ENTITY appMenuCustomize.label "Şəxsiləşdir">
-<!ENTITY appMenuCustomize.tooltip "Menyu və Ələt sətrini şəxsiləşdir">
+<!ENTITY appMenuCustomize.tooltip "Menyu və yan paneli şəxsiləşdir">
 <!ENTITY appMenuCustomizeExit.label "Şəxsiləşdirməni tərk et">
 <!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">
 <!ENTITY appMenuHistory.label "Tarixçə">
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Sil…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
-<!ENTITY appMenuHistory.viewSidebar.label "Tarixçə Alət Sətrini Göstər">
+<!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
@@ -562,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Yaxınlaşdırma">
 <!ENTITY fullZoom.accesskey             "Y">
 
-<!ENTITY sidebarCloseButton.tooltip     "Kənar bölməni bağla">
+<!ENTITY sidebarCloseButton.tooltip     "Yan paneli qapat">
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ı">
@@ -665,8 +674,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Kənar sətri göstər">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "Yan paneli göstər">
+<!ENTITY social.toggleSidebar.accesskey "p">
 
 <!ENTITY social.addons.label "Xidmətləri idarə et…">
 
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Paylaşmaq üçün pəncərə və ya ekran:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "p">
 <!ENTITY getUserMedia.selectMicrophone.label "İstifadə olunacaq Mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Ekranınızda görünən bütün pəncərələr paylaşılacaq.">
 
 <!ENTITY webrtcIndicatorButton.label "Kamera/Mikrofon İcazələri">
 <!ENTITY webrtcIndicatorButton.tooltip "Kamera və mikrofonunuza hal-hazırda icazəsi olan saytlara baxış">
+
+<!ENTITY loopCallButton.tooltip "Danışmaq üçün birini dəvət et">
 
 <!ENTITY mixedContentBlocked.moreinfo "Bir çox sayt bu tərkib bloklandıqda belə normal işləyəcək.">
 
@@ -733,7 +747,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY uiTour.infoPanel.close "Qapat">
 
-<!ENTITY appMenuSidebars.label         "Kənar sətirlər">
+<!ENTITY appMenuSidebars.label         "Yan panellər">
 
 <!ENTITY switchToMetroCmd2.label       "&brandShortName; Windows 8 Touch üçün yenidən başlatılsın">
 

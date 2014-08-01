@@ -9,11 +9,12 @@
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
 
+<!ENTITY  fontsAndColors.label        "Şriftlər və Rənglər">
 
 <!ENTITY  defaultFont.label           "Standart yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">
-<!ENTITY  defaultSize.label           "Boyut:">
-<!ENTITY  defaultSize.accesskey       "B">
+<!ENTITY  defaultSize.label           "Ölçü:">
+<!ENTITY  defaultSize.accesskey       "l">
 
 <!ENTITY  advancedFonts.label         "Ətraflı…">
 <!ENTITY  advancedFonts.accesskey     "Ə">
@@ -31,3 +32,13 @@
 <!ENTITY translateWebPages.accesskey  "t">
 <!ENTITY translateExceptions.label    "İstisnalar…">
 <!ENTITY translateExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Tərcüməçilər">
+<!ENTITY translation.options.attribution.afterLogo "">

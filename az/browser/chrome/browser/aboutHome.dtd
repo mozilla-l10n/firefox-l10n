@@ -25,7 +25,7 @@
 <!ENTITY abouthome.rightsSnippet "&brandFullName; qeyri-kommersial Mozilla Fondundan pulsuz və açıq qaynaqlı proqramdır. <a>Hüquqlarını bil…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Əlfəcinlər">
-<!ENTITY abouthome.historyButton.label   "Tarixcə">
+<!ENTITY abouthome.historyButton.label   "Tarixçə">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "Seçimlər">

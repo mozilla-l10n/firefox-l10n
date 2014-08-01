@@ -47,6 +47,8 @@
 <!ENTITY prefs.ppLink.label         "Gizlilik Siyasəti">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "Məxfilik Bildirişi">
+<!ENTITY determiningAcctStatus.label     "Sizin hesabınızın statusu müəyyənləşdirilir...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -54,21 +56,25 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "təstiqlənməyib.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "Yenidən qoşulmaq üçün daxil olun">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
 <!ENTITY signIn.label                "Daxil ol">
 <!ENTITY manage.label                "İdarə et">
+<!ENTITY disconnect.label            "Bağlantını kəs...">
+<!ENTITY verify.label                "E-poçtu Təstiqlə">
+<!ENTITY forget.label                "Bu e-poçtu unut">
 
-
-
-
+<!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, şifrələriniz və s. sizinlə olsun.">
 <!ENTITY welcome.signIn.label "Hesabını aç">
 <!ENTITY welcome.createAccount.label "Hesab Aç">
 
-<!ENTITY welcome.useOldSync.label "Sinxronlaşdırmanın köhnə versiyasını işlədirsiz?">
+<!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
