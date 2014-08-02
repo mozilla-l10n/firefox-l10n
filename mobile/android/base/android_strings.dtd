@@ -15,7 +15,7 @@
 <!ENTITY crash_include_url2 "Includi l’indirizzo della pagina che si stava visitando">
 <!ENTITY crash_sorry "Siamo spiacenti">
 <!ENTITY crash_comment "Aggiungi un commento (i commenti sono visibili pubblicamente)">
-<!ENTITY crash_allow_contact2 "Permetti a &vendorShortName; di contattarmi in riferimento a questa segnalazione">
+<!ENTITY crash_allow_contact2 "Consentire a &vendorShortName; di contattarmi in riferimento a questa segnalazione">
 <!ENTITY crash_email "Email">
 <!ENTITY crash_closing_alert "Uscire senza inviare una segnalazione?">
 <!ENTITY sending_crash_report "Invio segnalazione\u2026">
