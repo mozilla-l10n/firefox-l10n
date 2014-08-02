@@ -11,7 +11,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label         "Дослід готовий до надсилання">
 <!ENTITY testpilot.settings.newStudy.label              "Є новий Дослід">
 <!ENTITY testpilot.settings.hasNewResults.label         "Дослід має нові результати">
-<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Always submit my data (don't ask me)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Завжди представити мої дані (не питайте мене більше)">
 <!ENTITY testpilot.allYourStudies.label                 "Всі ваші Досліди…">
 <!ENTITY testpilot.about.label                          "Про Випробувача">
 
