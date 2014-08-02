@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Fuentes">
-<!ENTITY  window.width                            "49em">
-<!ENTITY  window.macWidth                         "53em">
-<!ENTITY  window.unixWidth                        "51em">
 
 <!ENTITY  language.label                          "Fuentes para:">
 <!ENTITY  language.accesskey                      "F">

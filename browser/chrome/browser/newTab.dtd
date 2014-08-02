@@ -4,6 +4,10 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nueva pestaña">
+<!ENTITY newtab.customize.title "Personalizar la página nueva pestaña">
+<!ENTITY newtab.customize.enhanced "Mejorada">
+<!ENTITY newtab.customize.classic "Clásica">
+<!ENTITY newtab.customize.blank "En blanco">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Deshacer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar todo.">
