@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Lista de lectura">
+<!ENTITY  recent_tabs_title "Pestañas recientes">
 
 <!ENTITY  switch_to_tab "Cambiar a pestaña">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section "Hace 7 días">
-<!ENTITY history_older_section "Hace más de 7 días">
+<!ENTITY history_week_section2 "La semana pasada">
+<!ENTITY history_older_section2 "El mes pasado">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Buscar">
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-<!ENTITY pref_clear_private_data "Borrar datos privados">
+<!ENTITY pref_clear_private_data2 "Borrar ahora">
+<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
+<!ENTITY pref_clear_on_exit_title "Siempre limpiar al salir">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; limpiará automáticamente tus datos cuando elijás &quot;Salir&quot; del menú principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY new_private_tab "Nueva pestaña privada">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY close_private_tabs "Cerrar pestañas privadas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
-<!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Querés limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardés van a aparecer acá.">
+<!ENTITY home_closed_tabs_title "Pestañas recientemente cerradas">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
-<!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
-<!ENTITY home_most_recent_title "Más recientes">
+<!ENTITY home_open_all "Abrir todas">
 <!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Hacia &formatS;">
+
+<!ENTITY private_browsing_title "Navegación privada">
+<!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas aparecen acá. Aunque no guardamos tu historial de navegación o cookies, los marcadores y los archivos que se hayan descargados se guardarán en tu dispositivo.">
+<!ENTITY private_tabs_panel_learn_more "¿Querés saber más?">
 
 <!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
