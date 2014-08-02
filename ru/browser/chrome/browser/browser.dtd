@@ -516,7 +516,6 @@
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
-<!ENTITY loopCallButton.tooltip "Пригласить кого-нибудь поговорить">
 <!ENTITY mixedContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
 <!ENTITY pointerLock.notification.message "Нажмите в любой момент кнопку Esc, чтобы показать его снова.">
 <!ENTITY pluginNotification.showAll.label "Показать все">
