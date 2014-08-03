@@ -711,6 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectWindowOrScreen.accesskey "b">
 <!ENTITY getUserMedia.selectMicrophone.label "Zdieľať mikrofón:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
 <!ENTITY webrtcIndicatorButton.label "Prístup ku kamere a mikrofónu">
 <!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, s ktorými práve zdieľate svoju kameru a mikrofón">
