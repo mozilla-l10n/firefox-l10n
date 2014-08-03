@@ -104,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_developer_paint_flashing "Parpadear dibujo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizá tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
-<!ENTITY pref_home_add_panel "Agregar paneles">
 <!ENTITY home_add_panel_title "Agregar un panel nuevo">
 <!ENTITY home_add_panel_empty "Lo sentimos, no podemos encontrar ningún panel para agregar.">
 <!-- Localization note (home_add_panel_installed):
@@ -178,7 +178,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "El rápido zorro naranja salta sobre tus expectativas con más velocidad, más flexibilidad y más seguridad. Como no tenemos fines de lucro, somos libres de innovar en tu nombre sin ninguna presión que nos obligue. Esto genera una mejor experiencia para vos y un futuro más brillante para la web.">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_show_product_announcements "Mostrar anuncios de producto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
@@ -303,9 +302,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Desplazar barra de título">
+<!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al desplazarse hacia abajo en una página">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
