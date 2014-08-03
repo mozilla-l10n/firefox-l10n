@@ -90,3 +90,20 @@
 <!ENTITY evalFunction.label "Evaluar función actual">
 <!ENTITY evalFunction.key "e">
 <!ENTITY evalFunction.accesskey "f">
+<!ENTITY wordWrap.label "Axustar llinies">
+<!ENTITY wordWrap.accesskey "x">
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY smallerFont.label "Menor tamañu de lletra">
+<!ENTITY smallerFont.commandkey "-">
+<!ENTITY smallerFont.accesskey "e">
+<!ENTITY normalSize.label "Tamañu normal">
+<!ENTITY normalSize.commandkey "0">
+<!ENTITY normalSize.accesskey "N">
+<!ENTITY lineNumbers.label "Amosar númberos de llinia">
+<!ENTITY lineNumbers.accesskey "L">
+<!ENTITY largerFont.label "Mayor tamañu de lletra">
+<!ENTITY largerFont.commandkey "+">
+<!ENTITY largerFont.accesskey "M">
+<!ENTITY highlightTrailingSpace.label "Resaltar espacios al final de la llinia">
+<!ENTITY highlightTrailingSpace.accesskey "f">
