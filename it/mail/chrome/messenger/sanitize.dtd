@@ -13,6 +13,8 @@
 <!ENTITY clearTimeDuration.suffix "">
 <!ENTITY detailsProgressiveDisclosure.label "Dettagli">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY itemHistory.label "Cronologia di navigazione">
+<!ENTITY itemHistory.accesskey "o">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Cache">
