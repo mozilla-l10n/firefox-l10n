@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Písma">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "45em">
-<!ENTITY  window.unixWidth                        "46em">
 
 <!ENTITY  language.label                          "Písma pre:">
 <!ENTITY  language.accesskey                      "m">
