@@ -104,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_developer_paint_flashing "Parpadear dibujo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizá tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
-<!ENTITY pref_home_add_panel "Agregar paneles">
 <!ENTITY home_add_panel_title "Agregar un panel nuevo">
 <!ENTITY home_add_panel_empty "Lo sentimos, no podemos encontrar ningún panel para agregar.">
 <!-- Localization note (home_add_panel_installed):
