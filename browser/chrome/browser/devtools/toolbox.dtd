@@ -164,3 +164,19 @@
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Zobraziť údaje o platforme Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Ak povolíte túto možnosť, správy Nástroja na profilovanie JavaScriptu budú obsahovať symboly platformy Gecko">
+
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+<!ENTITY options.sourceeditor.label                     "Nastavenia editora">
+<!ENTITY options.sourceeditor.detectindentation.label   "Zisťovať odsadenie">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Odhadnúť odsadenie na základe obsahu zdroja">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Automaticky ukončovať zátvorky">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automaticky vkladať ukončovacie zátvorky">
+<!ENTITY options.sourceeditor.expandtab.label           "Odsadenie pomocou medzier">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Používať medzery namiesto znaku tabulátora">
+<!ENTITY options.sourceeditor.tabsize.label             "Veľkosť tabulátora">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "V">
+<!ENTITY options.sourceeditor.keybinding.label          "Klávesové skratky">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Predvolené">
