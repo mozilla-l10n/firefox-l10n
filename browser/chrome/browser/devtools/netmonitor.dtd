@@ -63,3 +63,4 @@
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "o">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Copiar imaxe como URI de datos">
 <!ENTITY netmonitorUI.backButton "Atrás">
+<!ENTITY netmonitorUI.context.copyAsCurl "Copiar como cURL">
