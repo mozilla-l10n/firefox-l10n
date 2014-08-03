@@ -128,7 +128,6 @@
 <!ENTITY bookmarksMenuButton.label "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip "Amosar los marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores ensin axeitar">
-<!ENTITY viewBookmarksSidebar.label "Amosar na barra llateral">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -203,8 +202,6 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
-<!ENTITY viewTabsOnTop.label "Llingüetes na parte superior">
-<!ENTITY viewTabsOnTop.accesskey "T">
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Llingüetes zarraes de recién">
@@ -353,9 +350,6 @@
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Apegar">
 <!ENTITY fullScreenButton.tooltip "Amosar la ventana en pantalla completa">
-<!ENTITY zoomOutButton.tooltip "Amenorgar">
-<!ENTITY zoomInButton.tooltip "Aumentar">
-<!ENTITY zoomControls.label "Controles de tamañu">
 <!ENTITY quitApplicationCmdWin.label "Colar">
 <!ENTITY quitApplicationCmdWin.accesskey "C">
 <!ENTITY goBackCmd.commandKey "[">
@@ -453,8 +447,6 @@
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY devtoolsConnect.label "Coneutar…">
 <!ENTITY devtoolsConnect.accesskey "e">
-<!ENTITY webrtcIndicatorButton.tooltip "Amuesa los sitios colos que tas compartiendo la to cámara o micrófonu">
-<!ENTITY webrtcIndicatorButton.label "Accesu a la cámara y micrófonu">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófonu pa compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.selectCamera.label "Cámara pa compartir:">
@@ -579,3 +571,7 @@
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
 <!ENTITY appMenuCustomizeExit.label "Terminar personalización">
 <!ENTITY appMenuCustomize.tooltip "Personalizar el menú y barres de ferramientes">
+<!ENTITY webide.label "WebIDE">
+<!ENTITY webide.accesskey "W">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfacer el zarru de la cabera llingüeta">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "f">
