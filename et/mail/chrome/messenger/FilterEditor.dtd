@@ -42,7 +42,7 @@
 <!ENTITY addTag.label                "kiri sildistatakse">
 <!ENTITY setJunkScore.label          "rämpsposti olekuks määratakse">
 <!ENTITY deleteMessage.label         "kiri kustutatakse">
-<!ENTITY deleteFromPOP.label         "kustutakse POP-serverist">
+<!ENTITY deleteFromPOP.label         "kustutatakse POP-serverist">
 <!ENTITY fetchFromPOP.label          "tõmmatakse POP-serverist">
 <!ENTITY ignoreThread.label          "lõime eiratakse">
 <!ENTITY ignoreSubthread.label       "alamlõime eiratakse">
