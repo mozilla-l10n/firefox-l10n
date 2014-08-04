@@ -44,8 +44,8 @@
 
 <!ENTITY history_today_section "Heute">
 <!ENTITY history_yesterday_section "Gestern">
-<!ENTITY history_week_section2 "Letzte Woche">
-<!ENTITY history_older_section2 "Letzter Monat">
+<!ENTITY history_week_section2 "Während der letzten Woche">
+<!ENTITY history_older_section2 "Während des letzten Monats">
 
 <!ENTITY go "Los">
 <!ENTITY search "Suchen">
