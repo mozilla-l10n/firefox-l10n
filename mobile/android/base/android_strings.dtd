@@ -341,7 +341,7 @@ size. -->
 <!ENTITY home_open_all "Atvērt visu">
 
 <!ENTITY pref_clear_on_exit_title "Vienmēr notīrīt aizverot">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties &quot;Iziet&quot; no galvenās izvēlnes">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties  \"Iziet \" no galvenās izvēlnes">
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
 
 
