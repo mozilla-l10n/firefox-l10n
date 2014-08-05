@@ -14,8 +14,6 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "웹 내용">
 
-<!ENTITY keepHistory.label "방문한 웹 사이트와 링크 기억하기">
-<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "쿠키 허용">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "서드 파티 쿠키 허용:">
