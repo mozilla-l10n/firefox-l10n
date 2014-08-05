@@ -26,9 +26,6 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "메시지가 도착했을 때:">
 <!ENTITY  desktopChatNotifications.label      "알림 보여주기">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
-<!ENTITY  completeNotification.label          "보낸 사람 이름과 메시지 미리보기 표시">
-<!ENTITY  buddyInfoOnly.label                 "보낸 사람 이름만 표시">
-<!ENTITY  dummyNotification.label             "추가 정보 표시하지 않음">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "소리 재생">
 <!ENTITY  play.label                          "재생">
