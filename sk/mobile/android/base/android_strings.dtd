@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Záložky">
 <!ENTITY  history_title "História">
 <!ENTITY  reading_list_title "Zoznam na prečítanie">
+<!ENTITY  recent_tabs_title "Nedávne karty">
 
 <!ENTITY  switch_to_tab "Prejsť na kartu">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
-<!ENTITY history_week_section "7 dní dozadu">
-<!ENTITY history_older_section "Staršie ako 7 dní">
+<!ENTITY history_week_section2 "Minulý týždeň">
+<!ENTITY history_older_section2 "Minulý mesiac">
 
 <!ENTITY go "Prejsť">
 <!ENTITY search "Hľadať">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
+<!ENTITY pref_developer_paint_flashing "Zvýrazniť prekresľovanie">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
 <!ENTITY pref_category_home_panels "Panely">
-<!ENTITY pref_home_add_panel "Pridať panel">
 <!ENTITY home_add_panel_title "Pridať nový panel">
 <!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
 <!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
-<!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
+<!ENTITY pref_clear_private_data2 "Vymazať teraz">
+<!ENTITY pref_clear_private_data_category "Vymazať súkromné údaje">
+<!ENTITY pref_clear_on_exit_title "Vždy vymazať pri ukončení">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku \u0022Ukončiť\u0022">
+<!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolené">
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
@@ -258,6 +263,7 @@ size. -->
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_private_tab "Nová súkromná karta">
 <!ENTITY close_all_tabs "Zavrieť všetky karty">
+<!ENTITY close_private_tabs "Zavrieť súkromné karty">
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Súkromné">
 <!ENTITY tabs_synced "Synchronizované">
@@ -280,7 +286,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
-<!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
 <!ENTITY contextmenu_remove "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
@@ -350,10 +355,10 @@ size. -->
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
+<!ENTITY home_closed_tabs_title "Nedávno zatvorené karty">
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
-<!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
-<!ENTITY home_most_recent_title "Najnovšie">
+<!ENTITY home_open_all "Otvoriť všetky">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
 <!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
 <!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -372,6 +377,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Späť na &formatS;">
+
+<!ENTITY private_browsing_title "Súkromné prehliadanie">
+<!ENTITY private_tabs_panel_empty_desc "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď neuchovávame vašu históriu prehliadania alebo súbory cookies, záložky a prevzaté súbory budú uložené na disku vášho zariadenia.">
+<!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
 
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
