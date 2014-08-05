@@ -516,7 +516,6 @@
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas las ventanas visibles en su pantalla.">
-<!ENTITY loopCallButton.tooltip "Invite alguien a hablar">
 <!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
 <!ENTITY pointerLock.notification.message "Presiona ESC (Escape) en cualquier momento para mostrarlo de nuevo.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
