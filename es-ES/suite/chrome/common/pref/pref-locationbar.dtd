@@ -18,8 +18,8 @@
 <!ENTITY autoCompleteMatch.accesskey "B">
 <!ENTITY autoCompleteMatchAnywhere "en cualquier parte de la dirección y el título">
 <!ENTITY autoCompleteMatchWordsFirst "en cualquier parte, mejor al comienzo de palabras">
-<!ENTITY autoCompleteMatchWords "Sólo en el comienzo de palabras">
-<!ENTITY autoCompleteMatchStart "Sólo al principio de la dirección y el título">
+<!ENTITY autoCompleteMatchWords "sólo en el comienzo de palabras">
+<!ENTITY autoCompleteMatchStart "sólo al principio de la dirección y el título">
 <!ENTITY showInternetSearch.label "Mostrar buscador predeterminado de Internet">
 <!ENTITY showInternetSearch.accesskey "I">
 <!ENTITY formatting.label "Formato">
