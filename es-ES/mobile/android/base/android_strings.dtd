@@ -127,7 +127,6 @@
 <!ENTITY pref_font_size_adjust_char "r">
 <!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_show_product_announcements "Mostrar avisos del producto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
