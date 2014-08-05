@@ -16,7 +16,7 @@
 <!ENTITY options.context.inspector "Inspector">
 <!ENTITY options.showUserAgentStyles.label "Mostrar estilos del navegador">
 <!ENTITY options.showUserAgentStyles.tooltip "Activar esto mostrará los estilos por defecto que se cargan por el navegador.">
-<!ENTITY options.defaultColorUnit.label "Unidad de color predeterminado">
+<!ENTITY options.defaultColorUnit.label "Unidad de color por defecto">
 <!ENTITY options.defaultColorUnit.accesskey "U">
 <!ENTITY options.defaultColorUnit.hex "Hex">
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
@@ -33,7 +33,7 @@
 <!ENTITY options.disableCache.tooltip2 "Activar esta opción desactivará el caché en todas las pestañas que tengan abierta la caja de herramientas.">
 <!ENTITY options.selectDefaultTools.label "Herr. desarr. Firefox predeterminadas">
 <!ENTITY options.selectAdditionalTools.label "Herr. desarr. instaladas por complementos">
-<!ENTITY options.selectEnabledToolboxButtons.label "Botones disponibles en la caja de herramientas">
+<!ENTITY options.selectEnabledToolboxButtons.label "Botones en la caja de herramientas">
 <!ENTITY options.toolNotSupported.label "* No compatible con el elemento actual de la caja de herramientas">
 <!ENTITY options.selectDevToolsTheme.label "Elegir el tema de las herr. desarr.:">
 <!ENTITY options.darkTheme.label "Tema oscuro">
