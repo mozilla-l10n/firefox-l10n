@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "k">
 
 <!ENTITY  chatNotifications.label             "Po prijatí správy určenej pre mňa:">
-<!ENTITY  desktopChatNotifications.label      "Zobraziť upozornenie">
+<!ENTITY  desktopChatNotifications.label      "Zobraziť upozornenie:">
 <!ENTITY  desktopChatNotifications.accesskey  "o">
+<!ENTITY  completeNotification.label          "s uvedením odosielateľa a ukážkou textu správy">
+<!ENTITY  buddyInfoOnly.label                 "s uvedením odosielateľa">
+<!ENTITY  dummyNotification.label             "bez ďalších informácií">
 <!ENTITY  chatSound.accesskey                 "u">
 <!ENTITY  chatSound.label                     "Prehrať zvuk">
 <!ENTITY  play.label                          "Prehrať">
