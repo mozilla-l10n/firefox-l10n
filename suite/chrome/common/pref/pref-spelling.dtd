@@ -6,9 +6,9 @@
 <!ENTITY generalSpelling.label "General">
 <!ENTITY checkSpellingWhenTyping.label "Al escribir, revisar mi ortografía:">
 <!ENTITY checkSpellingWhenTyping.accesskey "A">
-<!ENTITY dontCheckSpelling.label "Nunca">
-<!ENTITY multilineCheckSpelling.label "En las entradas multilínea">
-<!ENTITY alwaysCheckSpelling.label "Todas las entradas">
+<!ENTITY dontCheckSpelling.label "nunca">
+<!ENTITY multilineCheckSpelling.label "en las entradas multilínea">
+<!ENTITY alwaysCheckSpelling.label "en todas las entradas">
 <!ENTITY spellForMailAndNews.label "Correo y noticias">
 <!ENTITY checkSpellingBeforeSend.label "Revisar ortografía antes de enviar">
 <!ENTITY checkSpellingBeforeSend.accesskey "o">
