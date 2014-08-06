@@ -11,11 +11,15 @@
 <!ENTITY clearOfflineAppCache.label         "Rensa">
 <!ENTITY clearOfflineAppCache.accesskey     "R">
 
-<!ENTITY offlineNotify.label                "Meddela mig när en webbplats vill lagra data att användas i nedkopplat läge.">
-<!ENTITY offlineNotify.accesskey            "M">
+<!ENTITY offlineAlwaysAllow.label           "Tillåt alla webbplatser att lagra data för nedkopplat läge">
+<!ENTITY offlineAlwaysAllow.accesskey       "a">
+<!ENTITY offlineExplicit.label              "Tillåt enbart webbplatser med uttrycklig tillåtelse">
+<!ENTITY offlineExplicit.accesskey          "e">
+<!ENTITY offlineNotifyAsk.label             "Meddela mig när en webbplats vill lagra data att användas i nedkopplat läge">
+<!ENTITY offlineNotifyAsk.accesskey         "M">
 <!ENTITY offlineNotifyPermissions.label     "Hantera tillåtelser">
 <!ENTITY offlineNotifyPermissions.accesskey "t">
 
-<!ENTITY offlineAppsList.label              "Följande webbplatser får lagra data att användas i nedkopplat läge:">
+<!ENTITY offlineAppsUsage.label             "Följande webbplatser har lagrat data att användas i nedkopplat läge:">
 <!ENTITY offlineAppsListRemove.label        "Rensa data…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
