@@ -11,8 +11,10 @@
 <!ENTITY  clearHistory.label        "Rensa historiken">
 <!ENTITY  clearHistory.accesskey    "R">
 
-<!ENTITY  locationBarHistory.caption  "Adressfältshistorik">
-<!ENTITY  clearLocationBar.label    "Rensa listan med webbplatser i adressfältet.">
+<!ENTITY  locationBarHistory.caption        "Adressfältshistorik">
+<!ENTITY  urlBarHistoryEnabled.caption      "Aktivera adressfältshistorik">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "k">
+<!ENTITY  clearLocationBar.label            "Rensa listan med webbplatser i adressfältet.">
 <!ENTITY  clearLocationBarButton.label      "Rensa adressfältet">
 <!ENTITY  clearLocationBarButton.accesskey  "a">
 <!ENTITY  formfillHistory.caption           "Formulär och sökhistorik">
