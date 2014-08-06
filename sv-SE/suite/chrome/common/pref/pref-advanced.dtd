@@ -17,3 +17,13 @@
 <!ENTITY crashReports.caption       "Rapportera krascher">
 <!ENTITY submitCrashes.label        "Skicka kraschrapporter">
 <!ENTITY submitCrashes.accesskey    "S">
+
+<!ENTITY devTools.caption                 "Utvecklarverktyg">
+<!ENTITY allowDebugger.label              "Tillåt en avlusare att koppla sig till &brandShortName;">
+<!ENTITY allowDebugger.accesskey          "a">
+<!ENTITY allowRemoteConnections.label     "Tillåt anslutningar från andra datorer">
+<!ENTITY allowRemoteConnections.accesskey "d">
+<!ENTITY connectionPrompt.label           "Fråga vid inkommande anslutningar">
+<!ENTITY connectionPrompt.accesskey       "F">
+<!ENTITY remoteDebuggerPort.label         "Portnummer för anslutningar:">
+<!ENTITY remoteDebuggerPort.accesskey     "n">

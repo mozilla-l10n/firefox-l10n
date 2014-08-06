@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Sökord:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "S">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Visa alla taggar">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ladda detta bokmärke i sidopanelen">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "L">
 <!ENTITY editBookmarkOverlay.choose.label                    "Välj…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mapp">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "y">
