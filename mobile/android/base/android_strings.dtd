@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Бетбелгілер">
 <!ENTITY  history_title "Тарихы">
 <!ENTITY  reading_list_title "Оқу тізімі">
+<!ENTITY  recent_tabs_title "Соңғы беттер">
 
 <!ENTITY  switch_to_tab "Бетке ауысу">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Бүгін">
 <!ENTITY history_yesterday_section "Кеше">
-<!ENTITY history_week_section "7 күн бұрын">
-<!ENTITY history_older_section "7 күннен бұрын">
+<!ENTITY history_week_section2 "Өткен апта">
+<!ENTITY history_older_section2 "Өткен ай">
 
 <!ENTITY go "Өту">
 <!ENTITY search "Іздеу">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
+<!ENTITY pref_developer_paint_flashing "Жыпылықтауды салу">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
 
 <!ENTITY pref_category_home "Үй">
 <!ENTITY pref_category_home_summary "Үй парағыңызды баптау">
 <!ENTITY pref_category_home_panels "Панельдер">
-<!ENTITY pref_home_add_panel "Панельді қосу">
 <!ENTITY home_add_panel_title "Жаңа панельді қосу">
 <!ENTITY home_add_panel_empty "Кешіріңіз, қосуға болатын бірде-бір панель табылмады.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
 <!ENTITY pref_char_encoding_off "Мәзірді көрсетпеу">
-<!ENTITY pref_clear_private_data "Жеке деректерді өшіру">
+<!ENTITY pref_clear_private_data2 "Қазір тазарту">
+<!ENTITY pref_clear_private_data_category "Жеке деректерді өшіру">
+<!ENTITY pref_clear_on_exit_title "Шыққанда әрқашан тазарту">
+<!ENTITY pref_clear_on_exit_summary "Сіз басты мәзірден \&quot;Шығу\&quot; батырмасын басқан кезде &brandShortName; деректеріңізді автоөшіреді">
+<!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
 <!ENTITY pref_plugins "Плагиндер">
 <!ENTITY pref_plugins_enabled "Іске қосулы">
 <!ENTITY pref_plugins_tap_to_play "Ойнату үшін шерту">
@@ -208,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Немен бөлісетіңізді таңдау">
 <!ENTITY datareporting_notification_summary "Қолдануды жақсарту мақсатында, &brandShortName; автоматты түрде кейбір ақпаратты &vendorShortName; адресіне жіберіп отырады.">
 <!ENTITY datareporting_notification_summary_short "Қолдануды жақсарту мақсатында, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Жаңа бет">
 <!ENTITY new_private_tab "Жаңа жекелік беті">
 <!ENTITY close_all_tabs "Барлық беттерді жабу">
+<!ENTITY close_private_tabs "Жекелік беттерді жабу">
 <!ENTITY tabs_normal "Беттер">
 <!ENTITY tabs_private "Жеке">
 <!ENTITY tabs_synced "Синхрондалған">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Жаңа бетте ашу">
 <!ENTITY contextmenu_open_private_tab "Жекелік бетте ашу">
-<!ENTITY contextmenu_open_in_reader "Оқу үшін ашу">
 <!ENTITY contextmenu_remove "Өшіру">
 <!ENTITY contextmenu_add_to_launcher "Үй экранына қосу">
 <!ENTITY contextmenu_share "Бөлісу">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
+<!ENTITY home_closed_tabs_title "Жақында жабылған беттер">
 <!ENTITY home_last_tabs_title "Алдыңғы реттен қалған беттер">
-<!ENTITY home_last_tabs_open "Алдыңғы реттен барлық бетті ашу">
 <!ENTITY home_last_tabs_empty "Сіздің соңғы ашық беттеріңіз осында болады.">
-<!ENTITY home_most_recent_title "Ең соңғы">
+<!ENTITY home_open_all "Барлығын ашу">
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
 <!ENTITY home_reading_list_empty "Кейінірек үшін сақталған мақалалар осында болады.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
+
+<!ENTITY private_browsing_title "Жекелік шолу">
+<!ENTITY private_tabs_panel_empty_desc "Сіздің жекелік беттеріңіз осында көрсетіледі. Сіздің шолу тарихыңыз және cookies сақталмаса да, бетбелгілер және жүктеліп алынған файлдар құрылғыңызда сақталады.">
+<!ENTITY private_tabs_panel_learn_more "Көбірек білгіңіз келе ме?">
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
