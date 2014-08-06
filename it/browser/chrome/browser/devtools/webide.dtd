@@ -49,7 +49,7 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!ENTITY key_toggleEditor "B">
 <!ENTITY projectPanel_myProjects "I miei progetti">
-<!ENTITY projectPanel_runtimeApps "Runtime app">
+<!ENTITY projectPanel_runtimeApps "App runtime">
 <!ENTITY runtimePanel_USBDevices "Dispositivi USB">
 <!ENTITY runtimePanel_WiFiDevices "Dispositivi Wi-Fi">
 <!ENTITY runtimePanel_simulators "Simulatori">
