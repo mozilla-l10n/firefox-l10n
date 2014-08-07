@@ -55,6 +55,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration de compilation">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilisateur">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilisation mémoire">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenêtres multi-processus">
+
 <!ENTITY aboutSupport.showDir.label "Ouvrir le dossier correspondant">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
