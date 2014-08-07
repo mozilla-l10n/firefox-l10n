@@ -712,11 +712,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble des fenêtres visibles sur votre écran seront partagées.">
 
-<!ENTITY webrtcIndicatorButton.label "Accès caméra/microphone">
-<!ENTITY webrtcIndicatorButton.tooltip "Afficher les sites avec lesquels vous partagez actuellement votre caméra ou votre microphone">
-
-<!ENTITY loopCallButton.tooltip "Inviter quelqu'un à discuter">
-
 <!ENTITY mixedContentBlocked.moreinfo "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
 
 <!ENTITY pointerLock.notification.message "Appuyez sur Échap à tout moment pour l'afficher à nouveau.">
