@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "Səhifə nizamı">
 
+<!ENTITY basic.tab           "Forma və Seçimlər">
 
 <!ENTITY formatGroup.label   "Forma">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "Nizamlar">
 
+<!ENTITY printBG.label       "Arxa fonu çap et (rənglər və rəsimlər)">
+<!ENTITY printBG.accesskey   "x">
 
-
+<!ENTITY advanced.tab        "Haşiyələr və Başlıq/Sonluq">
 
 <!ENTITY marginGroup.label   "Kənarlar (#1)">
 <!ENTITY marginUnits.inches  "inç">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "Sağ">
 <!ENTITY marginRight.accesskey "S">
 
+<!ENTITY headerFooter.label  "Başlıqlar və Sonluqlar">
 
 <!ENTITY hfLeft.label        "Sol:">
 <!ENTITY hfCenter.label      "Merkez:">

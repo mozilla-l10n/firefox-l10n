@@ -90,8 +90,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Yeniləmələri avtomatik quraşdır (tövsiyyə edilir: gücləndirilmiş təhlükəsizlik)">
 <!ENTITY updateAuto1.accesskey           "o">
-
-
+<!ENTITY updateAutoMetro.label           "Masaüstü və Windows 8 dizaynlı &brandShortName; səyyahından avtomatik yenilənmə">
+<!ENTITY updateAutoMetro.accesskey       "a">
 <!ENTITY updateCheck.label               "Yeniləmələri yoxla, amma quraşdırmaq qərarını mən verim">
 <!ENTITY updateCheck.accesskey           "d">
 <!ENTITY updateManual.label              "Yeniləmələri heç vaxt yoxlama (tövsiyyə edilmir: təhlükəsizlik riski)">
@@ -100,6 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Bu əməliyyat, əlavələrdən birini söndürəcəksə mənə bildir">
 <!ENTITY updateAutoAddonWarn.accesskey   "m">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 dizaynlı &brandShortName; əlavələrin uyumluluğunu yoxlamır)">
 
 <!ENTITY updateHistory.label             "Yeniləmə Tarixçəsini Göstər">
 <!ENTITY updateHistory.accesskey         "n">
@@ -128,8 +129,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Hər dəfə soruş">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər">
+<!ENTITY enableOCSP.accesskey            "S">
 <!ENTITY viewCerts.label                 "Sertifikatları göstər">
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">

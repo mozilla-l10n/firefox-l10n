@@ -11,7 +11,7 @@
 <!ENTITY  other.label                 "Digər…">
 
 <!ENTITY  saveFile.label              "Fərqli saxla">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.accesskey          "s">
 
 <!ENTITY  rememberChoice.label        "Bu cür bütün fayllar üçün bunu avtomatik et.">
 <!ENTITY  rememberChoice.accesskey    "a">

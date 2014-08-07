@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Offlin rejimə keç">
 <!ENTITY            offlineState.accesskey "e">
 
-
+<!ENTITY            useSelected.label       "Seçilmiş hesabı başlanğıcda soruşmadan istifadə et">
+<!ENTITY            useSelected.accesskey   "s">

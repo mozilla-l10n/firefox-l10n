@@ -26,18 +26,18 @@
 
 <!ENTITY  font.langGroup.latin1                   "Qərb Dilləri">
 <!ENTITY  font.langGroup.latin2                   "Orta Avropa">
-
+<!ENTITY  font.langGroup.japanese                 "Yaponca">
 <!ENTITY  font.langGroup.trad-chinese             "Ənənəvi Çincə (Tayvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Sadə Çincə">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Ənənəvi Çincə (Hong Kong)">
-
+<!ENTITY  font.langGroup.korean                   "Koreyaca">
 <!ENTITY  font.langGroup.cyrillic                 "Kiril">
-
+<!ENTITY  font.langGroup.baltic                   "Baltik">
 <!ENTITY  font.langGroup.el                       "Yunan">
 <!ENTITY  font.langGroup.turkish                  "Türkcə">
 <!ENTITY  font.langGroup.unicode                  "Digər Dillər">
-
-
+<!ENTITY  font.langGroup.thai                     "Tay dili">
+<!ENTITY  font.langGroup.hebrew                   "İvritcə">
 <!ENTITY  font.langGroup.arabic                   "Ərəbcə">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil dili">
@@ -72,10 +72,11 @@
 <!ENTITY languages.customize.Fallback.accesskey   "S">
 <!ENTITY languages.customize.Fallback.desc        "Bu simvol kodlaşdırması köhnə kontentlərin kodlaşdırması təyin olunmadığı halda istifadə olunur.">
 
+<!ENTITY languages.customize.Fallback.auto        "Mövcud məkan üçün əsas dəyər">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Ərəbcə">
-
+<!ENTITY languages.customize.Fallback.baltic      "Baltik">
 <!ENTITY languages.customize.Fallback.ceiso       "Orta Avropa, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Orta Avropa, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -90,15 +91,19 @@
 <!ENTITY languages.customize.Fallback.greek       "Yunanca">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "İvritcə">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Yaponca">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.korean      "Koreya dili">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tay dili">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Türkcə">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vyetnamca">

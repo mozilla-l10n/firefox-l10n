@@ -11,17 +11,25 @@
 <!ENTITY  pluginupdateslink.label         "Qurulmuş əlavə proqramların yeniləməsi haqqındakı məlumata bax.">
 
 <!ENTITY  noupdatesfound.title            "Yeniləmə tapılmadı">
-<!ENTITY  noupdatesautoenabled.intro      "Heç bir yeniləmə yoxdur. &brandShortName; müəyyən fasilələrlə yeniləmələri yoxlayacaq.">
-<!ENTITY  noupdatesautodisabled.intro     "Heç bir yeniləmə yoxdur. Lütfən daha sonra yenidən yoxlayın ya da &brandShortName; proqramının yeniləmə yoxlamasını aktivləşdir.">
+<!ENTITY  noupdatesautoenabled.intro      "Heç bir yeniləmə yoxdur. &brandShortName; müəyyən fasilələrlə 
+yeniləmələri yoxlayacaq.">
+<!ENTITY  noupdatesautodisabled.intro     "Heç bir yeniləmə yoxdur. Lütfən daha sonra yenidən yoxlayın ya da 
+&brandShortName; proqramının yeniləmə yoxlamasını aktivləşdirin.">
 
 <!ENTITY  manualUpdate.title              "Yenilənə bilmir">
-<!ENTITY  manualUpdate.desc               "Yüklənməsi  tövsiyə edilən bir təhlükəsizlik və dayanıqlılıq yeniləməsi var, ancaq quraşdırmaq üçün lazımlı  icazəniz yoxdur. Sistem idarəçinizlə məsləhətləşin və ya bu kompüterdə proqram qurma icazəsinə sahib bir hesab üzərindən yenidən yoxlayın.">
+<!ENTITY  manualUpdate.desc               "Tövsiyə edilən bir təhlükəsizlik və dayanıqlılıq yeniləməsi var, ancaq 
+quraşdırmaq üçün lazımlı icazəniz yoxdur. Zəhmət olmasa 
+Sistem idarəçinizlə məsləhətləşin və ya bu kompüterdə proqram qurma 
+icazəsinə sahib bir hesab üzərindən yenidən yoxlayın.">
 <!ENTITY  manualUpdate.space.desc         "Qurulması tövsiyə edilən təhlükəsizlik və dayanıqlılıq yeniləməsi var 
 ancaq quraşdırma üçün kifayət qədər sahəniz yoxdur.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; proqramının ən son versiyasını ən son versiyasını hər zaman burdan yükləyə bilərsiniz:">
 
-
-
+<!ENTITY  unsupported.title               "Sistem dəstəklənmir">
+<!ENTITY  unsupported.label               "Sizin &brandShortName; səyyahınız köhnəlib, amma son versiya sizin 
+sistem tərəfindən dəstəklənmir. Sisteminizi güncəlləyib bir daha yoxlayın. 
+Bir daha bu xəbərdarlığı görməyəcəksiz, ">
+<!ENTITY  unsupportedLink.label           "daha ətraflı öyrənin.">
 
 <!ENTITY  incompatibleCheck.title         "Əlavələrin uyğunluq yoxlaması">
 <!ENTITY  incompatibleCheck.label         "Əlavələrinizin yeni versiyaları axtarılır…">

@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "S">
-
-
+<!ENTITY  socksRemoteDNS.label          "Kənar DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "t">
 <!ENTITY  autologinproxy.label          "Parol yadda saxlanıbsa, autentifikasiya istəmə">
 <!ENTITY  autologinproxy.accesskey      "i">
-
+<!ENTITY  autologinproxy.tooltip        "Bu seçim sizi etimadnamələri olan proksilərdə səssizcə təsdiqləyir. Əgər təsdiqləmədə xəta olsa sizə xəbər ediləcək.">

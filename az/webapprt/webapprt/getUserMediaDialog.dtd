@@ -11,6 +11,7 @@
 <!ENTITY getUserMediaDialog.button.cancel.label     "Ləğv et">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "v">
 
+<!ENTITY getUserMediaDialog.video.label             "Kamera seçin">
 <!ENTITY getUserMediaDialog.video.noVideo           "Video yoxdur">
 <!ENTITY getUserMediaDialog.audio.label             "Mikrofon seçin">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Səs yoxdur">
