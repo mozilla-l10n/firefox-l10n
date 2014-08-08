@@ -20,8 +20,11 @@ sentence. -->
 <!ENTITY sendTyping.label "Senda tilkynningu um innslátt í spjalli">
 <!ENTITY sendTyping.accesskey "t">
 <!ENTITY chatNotifications.label "Þegar póstur sem er sendur beint á þig kemur:">
-<!ENTITY desktopChatNotifications.label "Sýna tilkynningu">
+<!ENTITY desktopChatNotifications.label "Sýna tilkynningu:">
 <!ENTITY desktopChatNotifications.accesskey "t">
+<!ENTITY completeNotification.label "aðeins með nafni sendanda og forskoðun á skilaboðum">
+<!ENTITY buddyInfoOnly.label "aðeins með nafni sendanda">
+<!ENTITY dummyNotification.label "án upplýsinga">
 <!ENTITY chatSound.accesskey "ð">
 <!ENTITY chatSound.label "Spila hljóð">
 <!ENTITY play.label "Spila">

@@ -11,6 +11,8 @@
 <!ENTITY acceptRemoteContentInfo.label "Fræðast meira um friðhelgisvandamál í fjartengdu innihaldi">
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Vefur">
+<!ENTITY keepHistory.label "Muna eftir vefsvæðum og tenglum sem ég heimsæki">
+<!ENTITY keepHistory.accesskey "r">
 <!ENTITY acceptCookies.label "Þiggja smákökur frá vefsvæðum">
 <!ENTITY acceptCookies.accesskey "a">
 <!ENTITY acceptThirdParty.pre.label "Þiggja smákökur frá þriðja aðila:">

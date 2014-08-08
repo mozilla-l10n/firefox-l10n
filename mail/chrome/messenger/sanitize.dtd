@@ -21,6 +21,8 @@ that require it.  -->
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label "Nánar">
 <!ENTITY detailsProgressiveDisclosure.accesskey "N">
+<!ENTITY itemHistory.label "Ferill vafra">
+<!ENTITY itemHistory.accesskey "F">
 <!ENTITY itemCookies.label "Smákökur">
 <!ENTITY itemCookies.accesskey "S">
 <!ENTITY itemCache.label "Biðminni">
