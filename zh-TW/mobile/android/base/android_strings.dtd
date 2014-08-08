@@ -278,7 +278,7 @@ size. -->
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "播放至裝置">
+<!ENTITY media_casting_to "投放至裝置">
 <!ENTITY media_play "播放">
 <!ENTITY media_pause "暫停">
 <!ENTITY media_stop "停止">

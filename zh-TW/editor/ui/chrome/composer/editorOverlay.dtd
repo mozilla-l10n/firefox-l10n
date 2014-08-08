@@ -38,7 +38,7 @@
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "表格…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "數學公式…">
 <!ENTITY insertMathCmd.accesskey "M">
