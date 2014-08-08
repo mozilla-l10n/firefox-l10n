@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik om meer opties te tonen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opnieuw bevestigen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Stuurt een nieuwe bevestiging naar de organisator">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Een kopie opslaan">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Een kopie van de gebeurtenis in de agenda opslaan, onafhankelijk van beantwoording naar de organisator. De lijst van genodigden zal worden gewist.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Voorlopig">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Uitnodiging voor gebeurtenis voorlopig accepteren">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle voorlopig">
