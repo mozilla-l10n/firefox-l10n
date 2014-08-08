@@ -41,7 +41,7 @@
 <!ENTITY includeSigOnForward.accesskey        "s">
 
 <!ENTITY globalComposingPrefs.label           "Algemene opstelinstellingen…">
-<!ENTITY globalComposingPrefs.accesskey       "g">
+<!ENTITY globalComposingPrefs.accesskey       "e">
 
 <!ENTITY globalAddressingPrefs.label          "Algemene adresseringsinstellingen…">
-<!ENTITY globalAddressingPrefs.accesskey      "i">
+<!ENTITY globalAddressingPrefs.accesskey      "r">
