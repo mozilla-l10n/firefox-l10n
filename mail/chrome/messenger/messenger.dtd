@@ -457,7 +457,7 @@
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Accounts tonen…">
 <!ENTITY joinChatCmd.label "Chat bijwonen…">
-<!ENTITY joinChatCmd.accesskey "b">
+<!ENTITY joinChatCmd.accesskey "w">
 <!ENTITY savedFiles.label "Opgeslagen bestanden">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -479,14 +479,14 @@
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Recente geschiedenis wissen…">
-<!ENTITY clearRecentHistory.accesskey "g">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Accountinstellingen">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Externe debugverbinding toestaan">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+<!ENTITY allowRemoteDebugging.accesskey "r">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Berichten ophalen">
@@ -564,11 +564,11 @@
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Externe inhoud in dit bericht tonen">
-<!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "n">
 <!ENTITY editRemoteContentSettings.label "Opties voor externe inhoud bewerken…">
-<!ENTITY editRemoteContentSettings.accesskey "o">
+<!ENTITY editRemoteContentSettings.accesskey "O">
 <!ENTITY editRemoteContentSettingsUnix.label "Voorkeuren voor externe inhoud bewerken…">
-<!ENTITY editRemoteContentSettingsUnix.accesskey "v">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "V">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Waarschuwing voor dit bericht negeren">
