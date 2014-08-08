@@ -52,6 +52,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Smelltu til að sjá fleiri valkosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Endurstaðfesta">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Senda endurstaðfestingu til fundarstjóra">
+<!ENTITY lightning.imipbar.btnSaveCopy.label "Vista afrit">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Vista sérstaklega afrit af atburði í dagatal óháð svari á fundarstjóra. Listinn af þátttakendum verður hreinsaður.">
 <!ENTITY lightning.imipbar.btnTentative.label "Með fyrirvara">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Samþykkja fundarboð með fyrirvara">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Allt með fyrirvara">
