@@ -15,7 +15,7 @@
 <!ENTITY newBlankPageCmd.label            "Nueva pachina de Composer">
 <!ENTITY newBlankPageCmd.accesskey        "p">
 <!ENTITY newBlankPageCmd.key              "n">
-<!ENTITY newPageFromTemplateCmd.label "Pachina usando una plantilla">
+<!ENTITY newPageFromTemplateCmd.label "Page Using Template">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Pachina usando un borrador">
 <!ENTITY newPageFromDraftCmd.accesskey "d">
@@ -50,12 +50,12 @@
 <!ENTITY pasteCmd.label                   "Apegar">
 <!ENTITY pasteCmd.key                     "V">
 <!ENTITY pasteCmd.accesskey               "A">
-<!ENTITY pasteGoCmd.label                 "Apegar y visitar">
-<!ENTITY pasteGoCmd.accesskey             "v">
+<!ENTITY pasteGoCmd.label                 "Paste &amp; Go">
+<!ENTITY pasteGoCmd.accesskey             "G">
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
 
-<!ENTITY pasteSearchCmd.label             "Pegar y buscar">
+<!ENTITY pasteSearchCmd.label             "Paste &amp; Search">
 <!ENTITY pasteSearchCmd.accesskey         "e">
 <!ENTITY deleteCmd.label                  "Yliminar">
 <!ENTITY deleteCmd.accesskey              "l">

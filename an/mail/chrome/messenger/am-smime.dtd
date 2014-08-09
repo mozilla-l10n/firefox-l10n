@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Siempre (no podrá ninviar si bell receptor carece de certificau)">
 <!ENTITY alwaysEncryptMessage.accesskey "e">
-<!ENTITY encryptionCert.message "Usar iste certificau ta zifrar/descifrar mensaches ninviaus a Vd.:">
+<!ENTITY encryptionCert.message "Use this certificate to encrypt &amp; decrypt messages sent to you:">
 <!ENTITY digitalSign.certificate.button "Trigar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button " Limpiar">

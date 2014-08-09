@@ -22,7 +22,7 @@
 <!ENTITY chooseFolderMac.label        "Esleir…">
 <!ENTITY chooseFolderMac.accesskey    "E">
 
-<!ENTITY attachments.incoming.label   "Incoming">
+<!ENTITY attachments.incoming.label   "Dentrant">
 <!ENTITY attachments.outgoing.label   "Outgoing">
 
 <!ENTITY addCloudFileAccount.label        "Add">

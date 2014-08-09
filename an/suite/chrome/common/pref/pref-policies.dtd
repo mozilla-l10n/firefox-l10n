@@ -16,8 +16,8 @@
 
 <!ENTITY  addSite.label       "Adhibir servidor web…">
 <!ENTITY  addSite.accesskey   "A">
-<!ENTITY  settings.label      "Configuración para ">
-<!ENTITY  settings.accesskey  "C">
+<!ENTITY  settings.label      "Settings for ">
+<!ENTITY  settings.accesskey  "s">
 
 <!ENTITY  description.label   "Descripción d'a politica:">
 

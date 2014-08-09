@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Ha ubierto una nueva pestanya de navegación privada.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "No ye en una pestanya de navegación privada.">
 
-<!ENTITY privatebrowsingpage.description            "En as pestanyas de navegación privada, o &brandShortName; no alzará cosa en l'historial de navegación, l'historial de buscas, l'historial de descargas, l'historial d'os formularios web, as cookies, ni en atros fichers temporals d'Internet. D'atra man, sí que se conservarán os fichers que baixe y os marcapachinas que haiga creyau.">
+<!ENTITY privatebrowsingpage.description            "En as pestanyas de navegación privada, o &brandShortName; no alzará brenca en l'historial de navegación, l'historial de buscas, l'historial de descargas, l'historial d'os formularios web, as cookies, ni en atros fichers temporals d'Internet. D'atra man, sí que se conservarán os fichers que baixe y os marcapachinas que haiga creyau.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Encara que l'ordinador no tendrá garra rechistro d'o suyo historial de navegación, o suyo provedidor d'Internet u a suya intepresa sí que podrían conoixer as pachinas que vesita.">
+<!ENTITY privatebrowsingpage.moreInfo               "Encara que o dispositivo no alzará garra rechistro d'o suyo historial de navegación, o suyo furnidor de servicios d'internet u a suya intepresa sí que podrían conoixer as pachinas que vesita.">

@@ -154,8 +154,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "S">
 <!ENTITY htmlFormatCmd.label "Solament texto enriquecido (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Texto simple y texto enriquiu (HTML)">
-<!ENTITY bothFormatCmd.accesskey "L">
+<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
+<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioridat">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Prioridat:">
@@ -176,8 +176,8 @@
 
 <!ENTITY tasksMenu.label "Herramientas">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY messengerCmd.label "Correo y noticias">
-<!ENTITY messengerCmd.accesskey "o">
+<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libreta d'adrezas">
 <!ENTITY addressBookCmd.accesskey "L">

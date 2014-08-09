@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cheneral">
-<!ENTITY itemDisplay.label       "Lectura y visualización">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Actualización">
-<!ENTITY itemNetworking.label    "Ret y espacio en disco">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificaus">
 <!-- General Settings -->
 

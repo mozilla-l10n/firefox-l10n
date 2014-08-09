@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "Correu y noticias">
+<!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- tabmail -->
@@ -98,8 +98,8 @@
 <!ENTITY folderPropsFolderCmd.label "Propiedatz de carpeta…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propiedatz d'o grupo…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Configuración de cuentas de Correu y noticias…">
-<!ENTITY accountManagerCmd.accesskey "n">
+<!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
+<!ENTITY accountManagerCmd.accesskey "M">
 <!ENTITY undoDeleteMsgCmd.label "Desfer 'Eliminar mensache'">
 <!ENTITY redoDeleteMsgCmd.label "Refer 'Eliminar mensache'">
 <!ENTITY undoMoveMsgCmd.label "Desfer 'Mover mensache'">

@@ -45,8 +45,8 @@
 <!ENTITY editRewrapCmd.label "Reajuste de linia">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "j">
-<!ENTITY accountManagerCmd.label "Configuración de cuentas de Correu y noticias…">
-<!ENTITY accountManagerCmd.accesskey "n">
+<!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
+<!ENTITY accountManagerCmd.accesskey "m">
 <!-- View menu items -->
 
 <!ENTITY showComposeToolbarCmd.label "Barra de ferramientas de correu">
@@ -94,8 +94,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "S">
 <!ENTITY htmlFormatCmd.label "Solament texto enriquecido (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Texto simple y texto enriquiu (HTML)">
-<!ENTITY bothFormatCmd.accesskey "L">
+<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
+<!ENTITY bothFormatCmd.accesskey "l">
 
 <!ENTITY fileCarbonCopyCmd.label "Enviar una copia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">

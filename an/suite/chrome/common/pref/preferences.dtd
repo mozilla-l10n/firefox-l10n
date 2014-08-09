@@ -17,7 +17,7 @@
 <!ENTITY tabWindows.label "Navegación con pestanyas">
 <!ENTITY links.label "Comportamiento d'os vinclos">
 <!ENTITY offline.label "Sin connexión">
-<!ENTITY security.label "Privacidat y seguranza">
+<!ENTITY security.label "Privacy &amp; Security">
 <!ENTITY privatedata.label "Private Data">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imachens">
@@ -40,7 +40,7 @@
 <!ENTITY search.label "Busca en Internet">
 <!ENTITY policies.label "Politicas de seguranza">
 <!ENTITY mousewheel.label "Rueda d'o rato">
-<!ENTITY scriptsAndWindows.label "Scripts y plugins">
+<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
 <!ENTITY spellingPane.label  "Spelling">
 
 <!ENTITY focusSearch.key "f">

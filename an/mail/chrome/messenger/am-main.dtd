@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "Usar HTML (p.y., &lt;b&gt;negreta&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Adchuntar a sinyatura d'un fichero (texto, HTML u imachen):">
-<!ENTITY signatureFile.accesskey "H">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Esleir…">
 <!ENTITY choose.accesskey "E">

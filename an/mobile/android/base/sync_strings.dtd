@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Cuentas de Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Fendo servir a cuenta d\u0027o servidor">
+<!ENTITY fxaccount_custom_server_sync_title "Alzar datos de sync en o servidor">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -131,7 +134,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Nota sobre privacidat">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienveniu ta &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Enciete una sesión ta sincronizar as suyas pestanyas, marcapachinas, claus y mas.">
+<!ENTITY fxaccount_getting_started_description "Encete sesión ta sincronizar as suyas pestanyas, marcadors, claus de paso y más.">
 <!ENTITY fxaccount_getting_started_get_started "Empecipiar">
 <!ENTITY fxaccount_getting_started_old_firefox "Fa servir una versión antiga de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Connectau como">
+<!ENTITY fxaccount_status_auth_server "Servidor de cuentas">
 <!ENTITY fxaccount_status_device_name "Nombre d\u0027o dispositivo">
+<!ENTITY fxaccount_status_sync_server "Servidor de Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
 <!ENTITY fxaccount_status_needs_verification2 "A suya cuenta ha de verificar-se. Toque ta tornar a ninviar o mensache de verificación.">

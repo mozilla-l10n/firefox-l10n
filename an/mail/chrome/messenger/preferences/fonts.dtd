@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Tipografía y codificación">
+<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
 <!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "49em">
 <!ENTITY  window.unixWidth                        "47em">
@@ -74,7 +74,7 @@
 <!ENTITY languagesTitle1.label            "Codificacions de caracters">
 <!ENTITY composingDescription.label       "Establir as codificacions predeterminadas ta ninviar y recibir mensaches">
 
-<!ENTITY viewDefaultCharsetList.label     "Correu entrante:">
+<!ENTITY viewDefaultCharsetList.label     "Correu dentrant:">
 <!ENTITY viewDefaultCharsetList.accesskey  "C">
 <!ENTITY replyInDefaultCharset2.label     "Si ye posible, usar a codif. caracters por defecto en as respuestas">
 <!ENTITY replyInDefaultCharset2.accesskey "S">

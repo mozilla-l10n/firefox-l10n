@@ -78,8 +78,8 @@
 <!ENTITY saveImageAsCmd.label         "Alzar imachen como…">
 <!ENTITY saveImageCmd.label           "Guardar imachen">
 <!ENTITY saveImageCmd.accesskey       "u">
-<!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
-<!ENTITY saveVideoCmd.accesskey       "u">
+<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY copyLinkCmd.label            "Copiar dirección de l'enlace">
