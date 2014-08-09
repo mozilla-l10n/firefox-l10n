@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.mailnews.title              "Correu y noticias">
+<!ENTITY pref.mailnews.title              "Mail &amp; Newsgroups">
 <!ENTITY generalSettings.caption          "Configuración cheneral">
 <!ENTITY confirmMove.label                "Confirmar quan se muevan carpetas a la papelera">
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Preservar as conversacions en ordinar mensaches">
 <!ENTITY preserveThreading.accesskey      "v">
-<!ENTITY mailBiffOnNewWindow.label        "Buscar correu nuevo solament dimpués d'ubrir Correu y noticias">
-<!ENTITY mailBiffOnNewWindow.accesskey    "B">
+<!ENTITY mailBiffOnNewWindow.label        "Only check for new mail after opening Mail &amp; Newsgroups">
+<!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
 <!ENTITY defaultMailSettings.description  "Fer que &brandShortName; sía l'aplicación por defecto para:">
 <!ENTITY setDefaultMail.label             "Correu">

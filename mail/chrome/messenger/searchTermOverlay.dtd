@@ -6,7 +6,7 @@
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Qualquiera d'istes regles">
 <!ENTITY matchAny.accesskey "q">
-<!ENTITY matchAllMsgs.label     "Incluir totz os mensaches">
+<!ENTITY matchAllMsgs.label     "Match all messages">
 <!ENTITY matchAllMsgs.accesskey "m">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.

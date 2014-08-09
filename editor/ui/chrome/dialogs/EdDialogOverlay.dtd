@@ -9,8 +9,8 @@
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Trigar un fichero...">
 <!ENTITY chooseFileLinkButton.accessKey "r">
-<!ENTITY makeUrlRelative.label "L'URL ye relativo a la ubicación d'a pachina">
-<!ENTITY makeUrlRelative.accessKey "R">
+<!ENTITY makeUrlRelative.label "A URL ye relativa a la rota d'a pachina">
+<!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Cambiar dentre URL relativo y absoluto. Ta cambiar-lo, cal que alce a pachina previament.">
 <!-- Shared by Link and Image dialogs -->
 

@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "C">
 <!ENTITY closeTabCmd2.label "Zarrar pestanya">
 <!ENTITY closeTabCmd2.accesskey "Z">
-<!ENTITY closeOtherTabsCmd2.label "Zarrar as atras pestanyas">
-<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY recentlyClosedTabsCmd.label "Pestanyas cerradas recientment">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
@@ -441,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Herramientas">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY messengerCmd.label "Correo y noticias">
-<!ENTITY messengerCmd.accesskey "o">
+<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Libreta d'adrezas">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">

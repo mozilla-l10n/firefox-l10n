@@ -4,7 +4,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Configuración d'as cuentas de correu y noticias">
+<!ENTITY accountManagerTitle.label "Mail &amp; Newsgroups Account Settings">
 
 <!ENTITY addAccountButton.label "Adhibir cuenta…">
 <!ENTITY addAccountButton.accesskey "A">

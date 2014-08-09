@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 
 
-<!ENTITY pref.network.title               "Ret y almacenamiento">
+<!ENTITY pref.network.title               "Network &amp; Storage">
 <!ENTITY pref.offline.caption             "Desconectado">
 <!ENTITY textStartUp                      "Al encetar:">
 <!ENTITY textStartUp.accesskey            "A">

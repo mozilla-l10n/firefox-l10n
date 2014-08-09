@@ -6,13 +6,13 @@
 <!ENTITY requestReceipt.label          "Al ninviar mensaches, solicitar siempre un acuse de recibimiento">
 <!ENTITY requestReceipt.accesskey      "A">
 <!ENTITY receiptArrive.label           "Quan plegue un acuse de recibimiento:">
-<!ENTITY leaveIt.label                 "Deixar-lo en a mía servilla de dentrada">
-<!ENTITY leaveIt.accesskey             "D">
+<!ENTITY leaveIt.label                 "Leave it in my Inbox">
+<!ENTITY leaveIt.accesskey             "i">
 <!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
 <!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "Quan reciba una solicitut d'acuse de recibimiento:">
-<!ENTITY never.label                   "Nunca ninviar acuse de recibimiento">
-<!ENTITY never.accesskey               "N">
+<!ENTITY never.label                   "Never send a return receipt">
+<!ENTITY never.accesskey               "n">
 <!ENTITY returnSome.label              "Permitir acuse de recibimiento ta qualques mensaches">
 <!ENTITY returnSome.accesskey          "P">
 <!ENTITY notInToCc.label               "Si no soi en o Ta: u Cc: d'o mensache:">

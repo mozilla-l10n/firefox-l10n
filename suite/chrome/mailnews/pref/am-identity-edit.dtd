@@ -7,5 +7,5 @@
 <!ENTITY identityListDesc.label "Configurar os parametros d'ista identidat:">
 
 <!ENTITY settingsTab.label       "Configuración">
-<!ENTITY copiesFoldersTab.label "Copias y carpetas">
-<!ENTITY addressingTab.label    "Redacción y adrezas">
+<!ENTITY copiesFoldersTab.label "Copies &amp; Folders">
+<!ENTITY addressingTab.label    "Composition &amp; Addressing">

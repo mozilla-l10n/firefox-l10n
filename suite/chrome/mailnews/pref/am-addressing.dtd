@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Redacción y adrezas">
+<!ENTITY addressing.label          "Composition &amp; Addressing">
 <!ENTITY addressingGroupTitle.label "Adrezas">
 <!ENTITY autocompleteToMyDomain.label     "Adhibir automaticament o mío dominio a las adrezas">
 <!ENTITY autocompleteToMyDomain.accesskey "A">
@@ -15,8 +15,8 @@
 <!ENTITY editDirectories.label     "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Utilizar un servidor LDAP diferent:">
-<!ENTITY directories.accesskey     "D">
+<!ENTITY directories.label         "Use a different LDAP server:">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Garra">
 <!-- am-addressing.xul -->
 

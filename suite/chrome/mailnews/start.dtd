@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startpage.title "Bienveniu a Correu y Noticias &brandShortName;">
+<!ENTITY startpage.title "Welcome to &brandShortName; Mail &amp; Newsgroups">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
-<!ENTITY headline.label 'Bienveniu a Correu y noticias <a id="vendorURL" href="">&brandShortName;</a>!'>
-<!ENTITY description.label "Correu y Noticias &brandShortName; ye un potent client de correu y noticias de codigo 
-ubierto, que incluye detección abanzada de correu vasuera y atras utils caracteristicas.">
+<!ENTITY headline.label 'Welcome to <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Newsgroups!'>
+<!ENTITY description.label "&brandShortName; Mail &amp; Newsgroups is a powerful open-source mail and news
+client, supporting advanced junk mail detection and other useful features.">
 <!ENTITY features.title "Caracteristicas">
 <!ENTITY feat_multiacc.label "Admite multiples cuentas">
 <!ENTITY feat_junk.label "Detección de correu vasuera">

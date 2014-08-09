@@ -8,7 +8,7 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Aparencia predeterminada d'a pachina">
 
-<!ENTITY defaultColors.label        "Colors por defecto d'o lector (no fixar as colors d'a pachina)">
+<!ENTITY defaultColors.label        "Colors predeterminadas d'o lector (no fixas as colors en a pachina)">
 <!ENTITY defaultColors.accesskey    "d">
 <!ENTITY customColors.label         "Usar as colors personalizadas:">
 <!ENTITY customColors.accesskey     "c">

@@ -110,7 +110,7 @@
 <!ENTITY  securityView.identity.domain   "Puesto web:">
 <!ENTITY  securityView.identity.verifier "Verificau por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidat y historial">
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
 <!ENTITY  securityView.privacy.history                  "He visitau iste puesto web antes hue?">
 <!ENTITY  securityView.privacy.cookies                  "Ye alzando iste puesto web información (cookies) en o mío ordinador?">
 <!ENTITY  securityView.privacy.viewCookies              "Veyer cookies">

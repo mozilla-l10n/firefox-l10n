@@ -4,7 +4,7 @@
 <!-- extracted from am-copies.xul -->
 
 
-<!ENTITY copyAndFolderTitle.label "Copias y carpetas">
+<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
 <!ENTITY sendingPrefix.label "Al ninviar mensaches:">
 <!ENTITY fccMailFolder.label "Meter automaticament una copia en:">
 <!ENTITY fccMailFolder.accesskey "M">

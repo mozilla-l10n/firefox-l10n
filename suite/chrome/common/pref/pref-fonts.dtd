@@ -70,5 +70,5 @@
 
 
 <!ENTITY  header2                                 "Quan una pachina web trige os suyos propios tipos de letra">
-<!ENTITY  useDefaultFont.label                    "Usar os míos tipos de letra predeterminaus, ignorando os que a pachina haiga trigau">
-<!ENTITY  useDefaultFont.accesskey                "U">
+<!ENTITY  useDefaultFont.label                    "Use my default fonts, ignoring the fonts the page has chosen">
+<!ENTITY  useDefaultFont.accesskey                "u">

@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "Feed Account Wizard">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Canales de Blogs y Noticias">
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
 <!ENTITY feeds.wizardShortName "Canales">
-<!ENTITY feeds.wizardLongName "Canales de Blogs y Noticias">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
 <!ENTITY feeds.wizardLongName.accesskey "F">

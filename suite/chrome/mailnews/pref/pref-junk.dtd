@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "Correu vasuera u sospitoso">
+<!ENTITY pref.junk.title "Junk &amp; Suspect Mail">
 <!ENTITY junkSettings.caption "Configuración global de correu vasuera">
 <!ENTITY junkMail.intro "Vaiga a Configuración de cuentas ta establir configuracions de correu vasuera especificas de cada cuenta.">
 <!-- Junk Mail Controls -->
