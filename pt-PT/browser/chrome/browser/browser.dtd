@@ -614,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label "Concluído">
+<!ENTITY editBookmark.done.label "Concluir">
 <!ENTITY editBookmark.cancel.label "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey "r">
 
