@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Při přijetí zprávy určené mně:">
 <!ENTITY  desktopChatNotifications.label      "Zobrazit upozornění">
 <!ENTITY  desktopChatNotifications.accesskey  "Z">
+<!ENTITY  completeNotification.label          "se jménem odesílatele a náhledem zprávy">
+<!ENTITY  buddyInfoOnly.label                 "pouze se jménem odesílatele">
+<!ENTITY  dummyNotification.label             "bez dalších informací">
 <!ENTITY  chatSound.label                     "Přehrát zvuk">
 <!ENTITY  chatSound.accesskey                 "P">
 <!ENTITY  play.label                          "Přehrát">
