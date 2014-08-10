@@ -107,7 +107,7 @@
 <!ENTITY pref_clear_private_data2 "Удалить сейчас">
 <!ENTITY pref_clear_private_data_category "Удаление моих данных">
 <!ENTITY pref_clear_on_exit_title "Всегда удалять при выходе">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; будет автоматически удалять ваши данные при нажатии вами «Выход» в главном меню">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
 <!ENTITY pref_plugins "Плагины">
 <!ENTITY pref_plugins_enabled "Включены">
@@ -306,6 +306,7 @@
 <!ENTITY exit_guest_session_title "&brandShortName; сейчас будет перезапущен">
 <!ENTITY exit_guest_session_text "Данные веб-серфинга из этой сессии будут удалены.">
 <!ENTITY ellipsis "…">
+<!ENTITY colon ":">
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
 <!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">
