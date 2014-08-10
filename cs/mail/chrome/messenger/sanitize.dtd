@@ -25,6 +25,8 @@ that require it. -->
 <!ENTITY detailsProgressiveDisclosure.label "Podrobnosti">
 <!ENTITY detailsProgressiveDisclosure.accesskey "P">
 
+<!ENTITY itemHistory.label                 "Historie stránek">
+<!ENTITY itemHistory.accesskey             "H">
 <!ENTITY itemCookies.label "Cookies">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Mezipaměť">
