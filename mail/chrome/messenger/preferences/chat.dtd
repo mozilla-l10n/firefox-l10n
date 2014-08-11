@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "As berjochten foar jo oankomme:">
 <!ENTITY  desktopChatNotifications.label      "Toan in notifikaasje">
 <!ENTITY  desktopChatNotifications.accesskey  "k">
+<!ENTITY  completeNotification.label          "mei namme fan ôfstjoerder en berjochtfoarbyld">
+<!ENTITY  buddyInfoOnly.label                 "allinnich mei namme fan ôfstjoerder">
+<!ENTITY  dummyNotification.label             "sûnder ynfo">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Spylje in lûd">
 <!ENTITY  play.label                          "Spylje">
