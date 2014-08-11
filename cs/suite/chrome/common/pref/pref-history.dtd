@@ -12,6 +12,8 @@
 <!ENTITY clearHistory.accesskey "h">
 
 <!ENTITY locationBarHistory.caption "Historie adresního řádku">
+<!ENTITY  urlBarHistoryEnabled.caption      "Povolit historii adresního řádku">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "o">
 <!ENTITY clearLocationBar.label "Smazat seznam uložených webů v adresním řádku.">
 <!ENTITY clearLocationBarButton.label "Smazat historii adres">
 <!ENTITY clearLocationBarButton.accesskey "a">
