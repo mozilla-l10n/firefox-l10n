@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Blêdwizerarkbalke-ûnderdiel">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Alle ljepblêden werlade">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Blêdwizer fan alle ljepblêden meitsje…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Ljepblêd slute ûngedien meitsje">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
+
 <!ENTITY pageSourceCmd.label "Sideboarne">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "k">
 <!ENTITY devAppMgrMenu.label               "App-behearder">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ark skeakelje">
@@ -700,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te dielen:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Finster of skerm om te dielen:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoan om te dielen:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
 <!ENTITY webrtcIndicatorButton.label "Kamera-/mikrofoantagong">
 <!ENTITY webrtcIndicatorButton.tooltip "Toan websites wêrmei't jo no jo kamera of mikrofoan mei diele">
+
+<!ENTITY loopCallButton.tooltip "Noegje ien út foar in petear">
 
 <!ENTITY mixedContentBlocked.moreinfo "De measte websites sille korrekt wurkje bliuwe sels as dizze ynhâld blokkearre is.">
 
