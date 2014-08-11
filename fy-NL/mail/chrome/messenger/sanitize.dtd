@@ -24,13 +24,12 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Details">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
+<!ENTITY itemHistory.label                 "Browseskiednis">
+<!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Buffer">
-<!ENTITY itemCache.accesskey               "B">
+<!ENTITY itemCache.accesskey               "F">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
