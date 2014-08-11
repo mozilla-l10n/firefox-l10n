@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey "m">
 <!ENTITY certs.ask "Perguntar de cada vez">
 <!ENTITY certs.ask.accesskey "P">
+<!ENTITY enableOCSP.label                "Pedir aos servidores OCSP para confirmar a validade dos certificados">
+<!ENTITY enableOCSP.accesskey            "v">
 
 <!ENTITY viewCertificates.label "Ver certificados">
 <!ENTITY viewCertificates.accesskey "c">
-<!ENTITY validation.label "Validação">
-<!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey "s">
