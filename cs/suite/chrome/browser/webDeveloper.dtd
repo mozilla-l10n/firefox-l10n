@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label            "Zkontrolovat stránku">
 <!ENTITY validatePage.accesskey        "Z">
+<!ENTITY allowRemoteDebugging.label     "Povolit vzdálené ladění">
+<!ENTITY allowRemoteDebugging.accesskey "o">

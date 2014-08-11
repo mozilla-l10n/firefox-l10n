@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-offlineapps.xul -->
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
@@ -11,11 +10,15 @@
 <!ENTITY clearOfflineAppCache.label "Vymazat">
 <!ENTITY clearOfflineAppCache.accesskey "m">
 
-<!ENTITY offlineNotify.label "Upozornit, pokud server chce uložit offline obsah">
-<!ENTITY offlineNotify.accesskey "U">
+<!ENTITY offlineAlwaysAllow.label           "Povolit ukládat offline obsah všem serverům">
+<!ENTITY offlineAlwaysAllow.accesskey       "P">
+<!ENTITY offlineExplicit.label              "Povolit pouze pro explicitně uvedené servery">
+<!ENTITY offlineExplicit.accesskey          "o">
+<!ENTITY offlineNotifyAsk.label             "Upozornit, pokud server chce uložit offline obsah">
+<!ENTITY offlineNotifyAsk.accesskey         "U">
 <!ENTITY offlineNotifyPermissions.label "Spravovat oprávnění">
 <!ENTITY offlineNotifyPermissions.accesskey "S">
 
-<!ENTITY offlineAppsList.label "Následující servery mají povoleno ukládat offline obsah:">
+<!ENTITY offlineAppsUsage.label             "Následující servery mají uložení offline obsah:">
 <!ENTITY offlineAppsListRemove.label "Odebrat…">
 <!ENTITY offlineAppsListRemove.accesskey "d">
