@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Blêdwizers">
 <!ENTITY  history_title "Skiednis">
 <!ENTITY  reading_list_title "Lêslist">
+<!ENTITY  recent_tabs_title "Resinte ljebblêden">
 
 <!ENTITY  switch_to_tab "Wikselje nei ljepblêd">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hjoed">
 <!ENTITY history_yesterday_section "Juster">
-<!ENTITY history_week_section "Ofrûne 7 dagen">
-<!ENTITY history_older_section "Alder as 7 dagen">
+<!ENTITY history_week_section2 "Lêste wike">
+<!ENTITY history_older_section2 "Lêste moanne">
 
 <!ENTITY go "Gean">
 <!ENTITY search "Sykje">
@@ -103,14 +104,14 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: foegje in website oan jo list mei sykproviders ta troch jo finger op it sykfjild dêrfan te hâlden en dêrnei op it piktogram &formatI; te tikken.">
-<!ENTITY pref_category_devtools "Untwikkelershelpmiddelen">
+<!ENTITY pref_category_devtools "Untwikkelersark">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
 
 <!ENTITY pref_category_home "Startside">
 <!ENTITY pref_category_home_summary "Jo startside oanpasse">
 <!ENTITY pref_category_home_panels "Panielen">
-<!ENTITY pref_home_add_panel "Paniel tafoegje">
 <!ENTITY home_add_panel_title "Nij paniel tafoegje">
 <!ENTITY home_add_panel_empty "Sorry, wy kinne gjin panielen foar jo fine om ta te foegjen.">
 <!-- Localization note (home_add_panel_installed):
@@ -146,7 +147,11 @@
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu toane">
 <!ENTITY pref_char_encoding_off "Menu net toane">
-<!ENTITY pref_clear_private_data "Priveegegevens wiskje">
+<!ENTITY pref_clear_private_data2 "No wiskje">
+<!ENTITY pref_clear_private_data_category "Priveegegevens wiskje">
+<!ENTITY pref_clear_on_exit_title "Altyd wiskje by ôfsluten">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; sil automatysk jo gegevens wiskje as jo &quot;Quit&quot; selektearje út it haadmenu">
+<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
 <!ENTITY pref_plugins "Ynstekkers">
 <!ENTITY pref_plugins_enabled "Ynskeakele">
 <!ENTITY pref_plugins_tap_to_play "Tikke foar ôfspyljen">
@@ -258,6 +263,7 @@ size. -->
 <!ENTITY new_tab "Nij ljepblêd">
 <!ENTITY new_private_tab "Nij priveeljepblêd">
 <!ENTITY close_all_tabs "Alle ljepblêden slute">
+<!ENTITY close_private_tabs "Priveeljepblêden slute">
 <!ENTITY tabs_normal "Ljepblêden">
 <!ENTITY tabs_private "Privee">
 <!ENTITY tabs_synced "Syngronisearre">
@@ -280,7 +286,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Iepenje yn nij ljepblêd">
 <!ENTITY contextmenu_open_private_tab "Iepenje yn priveeljepblêd">
-<!ENTITY contextmenu_open_in_reader "Iepenje yn lêzer">
 <!ENTITY contextmenu_remove "Fuortsmite">
 <!ENTITY contextmenu_add_to_launcher "Tafoegje oan startskerm">
 <!ENTITY contextmenu_share "Diele">
@@ -350,10 +355,10 @@ size. -->
 <!ENTITY home_clear_history_button "Skiednis wiskje">
 <!ENTITY home_clear_history_confirm "Binne jo wis dat jo jo skiednis wiskje wolle?">
 <!ENTITY home_bookmarks_empty "Bewarre blêdwizers ferskine hjir.">
+<!ENTITY home_closed_tabs_title "Resint sluten ljepblêden">
 <!ENTITY home_last_tabs_title "Ljepblêden fan de foarige kear">
-<!ENTITY home_last_tabs_open "Alle ljepblêden fan de foarige kear iepenje">
 <!ENTITY home_last_tabs_empty "Jo resinte ljepblêden ferskine hjir.">
-<!ENTITY home_most_recent_title "Meast resint">
+<!ENTITY home_open_all "Iepenje alle">
 <!ENTITY home_most_recent_empty "Meast resint besochte websites ferskine hjir.">
 <!ENTITY home_reading_list_empty "Artikelen dy\'t jo foar letter bewarje ferskine hjir.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -372,6 +377,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Omheech nei &formatS;">
+
+<!ENTITY private_browsing_title "Priveenavigaasje">
+<!ENTITY private_tabs_panel_empty_desc "Jo priveeljepblêden sille hjir toand wurde. Wylst wy neat fan jo browseskiednis of cookies bewarje, blêdwizers en bestannen dy\'t jo downloade sille wol op jo apparaat bewarre wurde.">
+<!ENTITY private_tabs_panel_learn_more "Wolle jo mear witte?">
 
 <!ENTITY pin_site_dialog_hint "Fier in sykterm yn">
 
