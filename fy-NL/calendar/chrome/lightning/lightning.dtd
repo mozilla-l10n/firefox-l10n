@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                          "Klik om mear opsjes te toanen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                          "Befêstigje opnij">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                     "Ferstjoert in nij befêstiging nei de organisearder">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                            "In kopie bewarje">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                      "In kopie fan it barren yn de aginda bewarje, ûnôfhinklik fan beantwurding nei de organisearder. De lijst van genodigden zal worden gewist.">
 <!ENTITY lightning.imipbar.btnTentative.label                           "Foarearst">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                    "Barrensútnoeging foarearst akseptearje">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                "Foarearst alles">
