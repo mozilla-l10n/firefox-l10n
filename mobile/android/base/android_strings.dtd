@@ -150,7 +150,7 @@
 <!ENTITY pref_clear_private_data2 "No wiskje">
 <!ENTITY pref_clear_private_data_category "Priveegegevens wiskje">
 <!ENTITY pref_clear_on_exit_title "Altyd wiskje by ôfsluten">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; sil automatysk jo gegevens wiskje as jo &quot;Quit&quot; selektearje út it haadmenu">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; sil automatysk jo gegevens wiskje as jo \'Quit\' selektearje út it haadmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
 <!ENTITY pref_plugins "Ynstekkers">
 <!ENTITY pref_plugins_enabled "Ynskeakele">
