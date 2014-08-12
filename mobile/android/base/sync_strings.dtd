@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Iiakhawunti zeFirefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Ukusebenzisa iakhawunti kwiseva">
+<!ENTITY fxaccount_custom_server_sync_title "Ukugcina ingcombolo yongqamaniso kwiseva">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
+<!ENTITY fxaccount_status_auth_server "Iseva yeakhawunti">
 <!ENTITY fxaccount_status_device_name "Igama lesixhobo">
+<!ENTITY fxaccount_status_sync_server "Iseva yongqamaniso">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "I-&syncBrand.shortName.label;: iyasebenza">
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">

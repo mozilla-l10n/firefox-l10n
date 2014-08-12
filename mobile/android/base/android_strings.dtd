@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Iibhukhmakhi">
 <!ENTITY  history_title "Imbali">
 <!ENTITY  reading_list_title "ULuhlu lokufunda">
+<!ENTITY  recent_tabs_title "Iithebhu zakutshanje">
 
 <!ENTITY  switch_to_tab "Tshintshela kwithebhu">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Namhlanje">
 <!ENTITY history_yesterday_section "Izolo">
-<!ENTITY history_week_section "Iintsuku ezisi-7 ezigqithileyo">
-<!ENTITY history_older_section "Indala kuneentsuku ezisi-7">
+<!ENTITY history_week_section2 "Iveki ephelileyo">
+<!ENTITY history_older_section2 "Inyanga ephelileyo">
 
 <!ENTITY go "Hamba">
 <!ENTITY search "Khangela">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lwe&formatI;.">
 <!ENTITY pref_category_devtools "Izixhobo zabaphuhlisi">
+<!ENTITY pref_developer_paint_flashing "Ukukhanya kwepeyinti">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
 
 <!ENTITY pref_category_home "Ekhaya">
 <!ENTITY pref_category_home_summary "Lungiselela ikhasi lekhaya lakho">
 <!ENTITY pref_category_home_panels "Iiphanele">
-<!ENTITY pref_home_add_panel "Yongeza iphaneli">
 <!ENTITY home_add_panel_title "Yongeza iphaneli entsha">
 <!ENTITY home_add_panel_empty "Uxolo, asibanga nakho ukufumana naziphi na iiphaneli onokuzongeza.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
 <!ENTITY pref_char_encoding_off "Musa ukubonisa imenyu">
-<!ENTITY pref_clear_private_data "Sula iingcombolo zabucala">
+<!ENTITY pref_clear_private_data2 "Susa ngoku">
+<!ENTITY pref_clear_private_data_category "Sula iingcombolo zabucala">
+<!ENTITY pref_clear_on_exit_title "Susa qho xa uphuma">
+<!ENTITY pref_clear_on_exit_summary "I&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \&quot;uPhuma\u0027\u0027 kwimenyu ephambili">
+<!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
 <!ENTITY pref_plugins "Izifakelo">
 <!ENTITY pref_plugins_enabled "Ezivunyelweyo">
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
@@ -208,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Khetha into ofuna ukwabelana ngayo">
 <!ENTITY datareporting_notification_summary "Ukuze siphucule amava akho, &brandShortName; sithumela ngokuzenzekelayo inkcazelo ethile kwi-&vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ukuze siphucule amava akho, i-&brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Ithebhu entsha">
 <!ENTITY new_private_tab "Iithebhu zangasese ezintsha">
 <!ENTITY close_all_tabs "Vala Zonke iiThebhu">
+<!ENTITY close_private_tabs "Vala iithebhu zangasese">
 <!ENTITY tabs_normal "Iithebhu">
 <!ENTITY tabs_private "Ngasese">
 <!ENTITY tabs_synced "Ngqamanisiweyo">
@@ -279,11 +285,10 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Vula Kwisilungelelanisi Semigca Esitsha">
 <!ENTITY contextmenu_open_private_tab "Vula kwithebhu yangasese">
-<!ENTITY contextmenu_open_in_reader "Vula kumfundi">
 <!ENTITY contextmenu_remove "Shenxisa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
 <!ENTITY contextmenu_share "Yabelana">
-<!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
+<!ENTITY contextmenu_pasteandgo "Ncamathisela  uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
 <!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
+<!ENTITY home_closed_tabs_title "Iithebhu ezivalwe kutshanje">
 <!ENTITY home_last_tabs_title "Ithebhu zexesha eligqithileyo">
-<!ENTITY home_last_tabs_open "Vula zonke iithebhu zexesha lokugqibela">
 <!ENTITY home_last_tabs_empty "Iithebhu zakho zakutshanje zibonakala apha.">
-<!ENTITY home_most_recent_title "Ezona zakutshanje">
+<!ENTITY home_open_all "Vula zonke">
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
 <!ENTITY home_reading_list_empty "Amanqaku owagcinele ukuwasebenzisa kamva abonakala apha.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Ukuya kwi&formatS;">
+
+<!ENTITY private_browsing_title "Ukubhrawuza kwangasese">
+<!ENTITY private_tabs_panel_empty_desc "Iithebhu zakho zangasese ziza kuvela apha. Ngelixa singagcini nayiphi na imbali yakho yokubhrawuza okanye iikhukhi, iibhukhmakhi neefayile ozikhupheleyo ziya kugcinwa kwisixhobo sakho.">
+<!ENTITY private_tabs_panel_learn_more "Ufuna ukufunda ngaphezulu?">
 
 <!ENTITY pin_site_dialog_hint "Faka igama eliphambili olikhangelayo">
 
