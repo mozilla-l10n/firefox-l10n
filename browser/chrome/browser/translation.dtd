@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Halaman ini adalah dalam">
+<!ENTITY translation.translateThisPage.label    "Terjemahkan halaman ini?">
+<!ENTITY translation.translate.button           "Terjemah">
 <!ENTITY translation.notNow.button              "Bukan Sekarang">
 
+<!ENTITY translation.translatingContent.label   "Menterjemah kandungan halaman…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,13 +33,17 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "Halaman ini telah diterjemah dari">
 <!ENTITY translation.translatedTo.label         "kepada">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showTranslation.button     "Tunjuk Terjemahan">
+
+<!ENTITY translation.errorTranslating.label     "Berlaku ralat dalam menterjemahkan halaman ini.">
 
 
-
-
+<!ENTITY translation.serviceUnavailable.label   "Terjemahan tidak tersedia pada masa ini. Sila cuba lagi kemudian.">
 
 <!ENTITY translation.options.menu               "Opsyen">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -47,3 +54,11 @@
 
 
 
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Terjemahan oleh">
+<!ENTITY translation.options.attribution.afterLogo "">

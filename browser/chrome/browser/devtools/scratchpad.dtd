@@ -60,13 +60,13 @@
 
 
 
+<!ENTITY largerFont.commandkey        "+">
 
 
+<!ENTITY smallerFont.commandkey       "-">
 
 
-
-
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Sunting">
 <!ENTITY editMenu.accesskey           "S">

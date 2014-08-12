@@ -22,5 +22,7 @@
   -  AudioNode inspector view. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+
+<!ENTITY webAudioEditorUI.inspectorEmpty  "Tiada AudioNode dipilih.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->

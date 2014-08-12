@@ -4,7 +4,7 @@
 
 <!ENTITY playButton.playLabel "Memainkan">
 <!ENTITY playButton.pauseLabel "Jeda">
-<!ENTITY muteButton.muteLabel "Senyap">
+<!ENTITY muteButton.muteLabel "Bisu">
 <!ENTITY muteButton.unmuteLabel "Nyah senyap">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Skrin Penuh">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Muka Penuh">
