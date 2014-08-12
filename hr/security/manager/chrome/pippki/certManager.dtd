@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "Organizacija (O)">
 <!ENTITY certmgr.certdetail.ou                "Organizacijska jedinica (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serijski broj">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 otisak">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 otisak">
 
 <!ENTITY certmgr.editcert.title               "Uredi postavke sigurnosnih certifikata">
