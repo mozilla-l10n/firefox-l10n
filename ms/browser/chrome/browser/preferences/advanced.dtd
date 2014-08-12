@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "Sijil">
 <!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
 <!ENTITY certs.auto                      "Pilih satu automatik">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Sentiasa tanya saya">
+<!ENTITY certs.ask.accesskey             "A">
 
 
 
-<!ENTITY verify2.label                   "Pengesahan">
-<!ENTITY verify2.accesskey               "P">
+
 
 

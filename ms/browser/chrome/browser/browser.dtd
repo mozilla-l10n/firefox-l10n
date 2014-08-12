@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Memuat Semula Tab">
 <!ENTITY  reloadTab.accesskey                "M">
-<!ENTITY  reloadAllTabs.label                "Memuat Semula Semua Tab">
-<!ENTITY  reloadAllTabs.accesskey            "S">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Kumpulan Baru">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "P">
-<!ENTITY  bookmarkAllTabs.label              "Tanda Semua Tab…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Kembalikan Tab Tertutup">
-<!ENTITY  undoCloseTab.accesskey             "u">
+
+
+
+
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -80,6 +80,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Penandabuku Bar Alatan">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Penandabuku Bar Alatan Benda">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -254,6 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Perkakas Pembangun">
 <!ENTITY devToolbarMenu.accesskey          "r">
+
+
 
 
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -495,8 +503,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Senyap">
-<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaMute.label             "Bisu">
+<!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Nyahbisu">
 <!ENTITY mediaUnmute.accesskey       "N">
 <!ENTITY mediaPlaybackRate.label     "Kelajuan Permainan">
@@ -698,11 +706,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
 <!ENTITY webrtcIndicatorButton.label "Akses Kamera / Mikrofon">
 <!ENTITY webrtcIndicatorButton.tooltip "Tunjukkan laman yang anda berkongsi kamera dan mikrofon pada masa sekarang">
+
+<!ENTITY loopCallButton.tooltip "Jemput seseorang untuk bercakap">
 
 <!ENTITY mixedContentBlocked.moreinfo "Kebanyakan laman web masih lagi akan berfungsi walapun jika kandungan ini terhalang.">
 

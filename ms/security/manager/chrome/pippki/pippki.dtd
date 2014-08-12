@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Token pengesahan dilindungi">
 <!ENTITY protectedAuth.msg "Sila buat pengesahan kepada token. Kaedah pengesahan adalah bergantung kepada jenis token anda.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
-
-<!ENTITY certErrorDlg.title "Sambungan yang selamat gagal">
-<!ENTITY certErrorDlg.info1 "Ini adalah mungkin permasalahan melibatkan konfigurasi server atau berkemungkinan juga seseorang sedang mencuba membuat penyamaran sebagai server.">
-<!ENTITY certErrorDlg.info2 "Kalau anda dapat menyambung pelayar ini dengan kejayaan, ralat mungkin telah dilalui dan anda boleh cuba kemudian.">
