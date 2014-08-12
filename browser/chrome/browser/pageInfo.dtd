@@ -22,8 +22,6 @@
 
 <!ENTITY  generalMetaName       "නම">
 <!ENTITY  generalMetaContent    "අන්තර්ගතය">
-<!ENTITY  generalSecurityDetails   "තොරතුරු">
-
 
 <!ENTITY  mediaTab              "මාධ්‍ය">
 
@@ -52,7 +50,6 @@
 <!ENTITY  permAllow             "අනුමතයි.">
 
 <!ENTITY  permBlock             "අවහිර කරන්න">
-
 
 
 

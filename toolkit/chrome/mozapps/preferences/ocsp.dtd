@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "සත්‍යපනය">
-<!ENTITY enableOCSP.label             "දැනට ඇති වලංගු භාවය පිරික්සීම සඳහා Online Certificate Status Protocol (OCSP) භාවිත කරන්න">
-<!ENTITY enableOCSP.accesskey         "u">
-<!ENTITY requireOCSP.label            "OCSP සේවාදායකයේ සම්බන්ධතාවය බිදවැටුණු විට සහතිකය සාවද්‍ය ලෙස සලකන්න">
-<!ENTITY requireOCSP.accesskey        "W">

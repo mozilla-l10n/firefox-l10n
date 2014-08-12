@@ -8,10 +8,12 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "යාවත්කාලීන සඳහා පිරික්සන්න (C)">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "යාවත්කාලීන යෙදීමට යළි-ආරඹන්න (R)">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "යාවත්කාලීන යොදන්න… (A)">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -23,9 +25,9 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "යනු">
+<!ENTITY community.exp.middle       " යනු ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "ගෝලීය සමූහයකි">
+<!ENTITY community.exp.creditsLink  "ගෝලීය ප්‍රජාවකි">
 <!ENTITY community.exp.end          " එය අන්තර්ජාලය විවෘත, පොදු, සහ සියල්ලන්ටම ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරයි.">
 
 <!ENTITY community.start2           "&brandShortName; නිර්මාණය කරන ලද්දේ ">
@@ -33,7 +35,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "විශ්ව ප්‍රජාව">
+<!ENTITY community.creditsLink      "ගෝලීය ප්‍රජාව">
 <!ENTITY community.end3             "අන්තර්ජාලය විවෘත, පොදු, සහ සියල්ලන්ටම ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරන්නෙමු.">
 
 <!ENTITY contribute.start           "ඉතාමත්ම සිත්ගන්නා සුළුයි? ">
