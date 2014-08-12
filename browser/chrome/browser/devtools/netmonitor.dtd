@@ -11,8 +11,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
-  -  in the network table when empty. -->
+<!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
+  -  in the network table when empty to start logging network requests. -->
+
+
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
@@ -79,6 +81,8 @@
 <!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterXHR): This is the label displayed
   -  in the network details footer for the "XHR" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
@@ -151,6 +155,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
+
+<!ENTITY netmonitorUI.timings.dns         "DNS रिजोल्युसन:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->

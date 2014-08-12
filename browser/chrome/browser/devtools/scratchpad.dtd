@@ -21,13 +21,16 @@
 <!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "फ">
 
-
+<!ENTITY newWindowCmd.label           "नयाँ सञ्झ्याल">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-
+<!ENTITY openFileCmd.label            "फाइल खोल्नुहोस्">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-
+<!ENTITY openRecentMenu.label         "हालैको खोल्नुहोस्">
+<!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY revertCmd.label              "पछाडि फर्कनुहोस्...">
 <!ENTITY revertCmd.accesskey          "t">
@@ -75,7 +78,7 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
+<!ENTITY pprint.key                   "p">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
