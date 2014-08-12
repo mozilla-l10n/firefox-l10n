@@ -54,8 +54,8 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
@@ -110,3 +110,16 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "ডিফল্ট">

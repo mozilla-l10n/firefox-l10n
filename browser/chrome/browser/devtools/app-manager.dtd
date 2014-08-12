@@ -8,50 +8,51 @@
 <!ENTITY index.help "সাহায্য">
 
 <!ENTITY device.debugMainProcess "মুখ্য প্রক্রিয়াকে ডিবাগ করুন">
-
+<!ENTITY device.debugMainProcessTooltip "ডেভেলপার টুলস খুলুন যেটা ডিভাইসের মূল প্রক্রিয়ার সাথে সংযুক্ত">
 <!ENTITY device.screenshot "স্ক্রিনশট">
-
+<!ENTITY device.screenshotTooltip "একটি নতুন ট্যাবে ডিভাইস এর বর্তমান অবস্থার একটি স্ক্রিনশট খুলুন">
 <!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
 <!ENTITY device.notConnected "সংযুক্ত নয়। দয়া করে আপনার ডিভাইসটি নিচে সংযুক্ত করুন।">
 <!ENTITY device.startApp "Start">
-
+<!ENTITY device.startAppTooltip "ডিভাইসে এই অ্যাপটি শুরু করুন">
 <!ENTITY device.stopApp "Stop">
+<!ENTITY device.stopAppTooltip "ডিভাইসে অ্যাপটি থামিয়ে দিন">
 
-
-
+<!ENTITY device.debugAppTooltip "ডেভেলপার টুল খুলুন যেটা এই অ্যাপের সাথে এই ডিভাইসে সংযুক্ত">
 <!ENTITY device.name "নাম">
 <!ENTITY device.plain "সাধারণ (পূর্বনির্ধারিত)">
 <!ENTITY device.privileged "অধিকারপ্রাপ্ত">
 <!ENTITY device.certified "অনুমোদিত">
 <!ENTITY device.allow "অনুমতি প্রদান করুন">
-
+<!ENTITY device.allowTooltip "এই অনুমতি এই ধরনের অ্যাপের জন্য অনুমোদন করা হয়">
 <!ENTITY device.prompt "প্রম্পট">
-
+<!ENTITY device.promptTooltip "এই অনুমতি এই ধরনের অ্যাপ কে দেওয়ার জন্য ব্যবহারকারীর একটি প্রম্পট প্রয়োজন হয়">
 <!ENTITY device.deny "প্রত্যাখ্যান করুন">
-
+<!ENTITY device.denyTooltip "এই অনুমতি এই ধরনের অ্যাপের জন্যে অস্বীকার করা হয়">
 <!ENTITY device.installedApps "ইন্সটলকৃত অ্যাপসমূহ">
-
+<!ENTITY device.installedAppsTooltip "ডিভাইসে ইনস্টল করা অ্যাপের একটি তালিকা দেখুন।কয়েকটি অ্যাপ,যেমন প্রত্যয়িত অ্যাপ,এই ভিউ থেকে বাদ দেওয়া হতে পারে।">
 <!ENTITY device.permissions "অনুমতি">
-
-
-
-
-
-
+<!ENTITY device.permissionsTooltip "একটি টেবিল দেখুন যেটা বিভিন্ন ধরনের অ্যাপের অনুমতির জন্যে প্রবেশযোগ্য">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "ব্রাউজারের ট্যাব">
+<!ENTITY device.browserTabsTooltip "সংযুক্ত ডিভাইস এর ব্রাউজার ট্যাবের একটি তালিকা দেখুন">
+<!ENTITY device.debugBrowserTab "ডিবাগ করুন">
+<!ENTITY device.debugBrowserTabTooltip "ডেভেলপার টুল খুলুন যেটা এই ব্রাউজার ট্যাবের সঙ্গে ডিভাইসে সংযুক্ত আছে">
 <!ENTITY device.help "সহায়তা">
 
+<!ENTITY connection.connectTooltip "দূরবর্তী ডিভাইসের সাথে সংযোগ স্থাপন করুন">
 <!ENTITY connection.disconnect "বিচ্ছিন্ন করুন">
-
-
-
-
+<!ENTITY connection.disconnectTooltip "বর্তমান ডিভাইস বা সিমুলেটরের সাথে সংযোগ বিচ্ছিন্ন করুন">
+<!ENTITY connection.notConnected2 "সংযুক্ত নয়।">
+<!ENTITY connection.connectTo "সংযোগ করুন:">
+<!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি।একটি ডিভাইস প্লাগ করুন।">
 <!ENTITY connection.changeHostAndPort "পরিবর্তন করুন">
+<!ENTITY connection.changeHostAndPortTooltip "হোস্ট এবং পোর্ট পরিবর্তন করুন যেটা দ্বারা ডিভাইসের সঙ্গে সংযোগ হয়(লোকালহোস্টের ডিফল্ট:6000)">
+<!ENTITY connection.startSimulator "সিমুলেটর আরম্ভ করুন">
+<!ENTITY connection.startSimulatorTooltip "সিমুলেটরের দৃষ্টান্ত আরম্ভ করুন এবং তার সাথে সংযোগ করুন">
 
-
-
-
-
-
+<!ENTITY connection.saveConnectionInfoTooltip "হোস্ট এবং পোর্ট সংরক্ষণ করুন">
+<!ENTITY connection.connecting "সংযোগ স্থাপন করা হচ্ছে…">
 
 <!ENTITY connection.cancel "বাতিল">
 
