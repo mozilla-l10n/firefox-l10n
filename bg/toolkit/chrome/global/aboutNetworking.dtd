@@ -2,30 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title                 "Относно Мрежарството">
-<!ENTITY aboutNetworking.warning               "Много е експериментално. Ползвайте само под надзора на възрастен.">
-<!ENTITY aboutNetworking.showNextTime          "Показване на това предупреждение и следващия път">
-<!ENTITY aboutNetworking.ok                    "Добре">
-<!ENTITY aboutNetworking.http                  "HTTP">
-<!ENTITY aboutNetworking.sockets               "Сокети">
-<!ENTITY aboutNetworking.dns                   "DNS">
-<!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "Опресняване">
-<!ENTITY aboutNetworking.autoRefresh           "Автоматично опресняване на всеки 3 секунди">
-<!ENTITY aboutNetworking.hostname              "Име на хост">
-<!ENTITY aboutNetworking.port                  "Порт">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
-<!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "Активен">
-<!ENTITY aboutNetworking.idle                  "Бездействащ">
-<!ENTITY aboutNetworking.host                  "Хост">
-<!ENTITY aboutNetworking.tcp                   "TCP">
-<!ENTITY aboutNetworking.sent                  "Изпратени">
-<!ENTITY aboutNetworking.received              "Получени">
-<!ENTITY aboutNetworking.family                "Фамилия">
-<!ENTITY aboutNetworking.addresses             "Адреси">
-<!ENTITY aboutNetworking.expires               "Изтича (секунди)">
-<!ENTITY aboutNetworking.messagesSent          "Изпратени съобщения">
-<!ENTITY aboutNetworking.messagesReceived      "Получени съобщения">
-<!ENTITY aboutNetworking.bytesSent             "Изпратени байта">
-<!ENTITY aboutNetworking.bytesReceived         "Получени байта">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

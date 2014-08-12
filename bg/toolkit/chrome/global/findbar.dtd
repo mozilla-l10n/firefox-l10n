@@ -2,15 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
-<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. -->
 
 
-<!ENTITY next.tooltip "Търсене на следващо съвпадение на низа">
-<!ENTITY previous.tooltip "Търсене на предишно съвпадение на низа">
-<!ENTITY findCloseButton.tooltip "Затваряне на лентата за търсене">
-<!ENTITY highlightAll.label "Открояване на всички">
-<!ENTITY highlightAll.accesskey "в">
-<!ENTITY highlightAll.tooltiptext "Открояване на всички съвпадения на низа">
-<!ENTITY caseSensitive.label "Съвпадащи главни/малки букви">
-<!ENTITY caseSensitive.accesskey "С">
-<!ENTITY caseSensitive.tooltiptext "Търсене с чувствителност към главни/малки букви">
+
+
+
+
+
+
