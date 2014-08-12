@@ -1,6 +1,0 @@
-amazon-en-GB
-bingmetrofx
-eBay
-googlemetrofx
-wikipedia-sq
-yahoometrofx
