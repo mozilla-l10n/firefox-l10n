@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Ukjend">
 <!ENTITY chatName.label                 "Nettpratnamn:">
 
-<!ENTITY allowRemoteContent1.label      "Tillat innhald frå eksterne kjelder">
-<!ENTITY allowRemoteContent1.accesskey  "T">
-<!ENTITY allowRemoteContent1.tooltip    "I HTML-meldingar er det mogleg å leggje ved innhald frå eksterne kjelder. Ved opning av meldingar vil tilkoplingar til den eksterne kjelda verte opna. Dette kan gjere det mogleg å spore at meldinga blir lest. Ved å krysse av her, tillet du slikt innbunde innhald i HTML-meldingar frå denne kontakten.">
-
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
 <!ENTITY HomePhone.label                "Heime:">

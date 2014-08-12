@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentell og kan vere ustabil.">
-<!ENTITY aboutPage.telemetryStart               " Den sender automatisk informasjon om yting, maskinvare, bruksmønster og utvidingar tilbake til ">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentell og kan vera ustabil.">
+<!ENTITY aboutPage.telemetryStart               " Han sender automatisk informasjon om yting, maskinvare, bruksmønster og utvidingar tilbake til ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " for å bidra til å gjere &brandShortName; betre.">
+<!ENTITY aboutPage.telemetryEnd                 " for å bidra til å gjera &brandShortName; betre.">
 <!ENTITY aboutPage.checkForUpdates.link         "Søk etter oppdateringar »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ser etter oppdateringar …">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">

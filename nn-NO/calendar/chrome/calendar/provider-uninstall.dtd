@@ -8,5 +8,5 @@
 <!ENTITY providerUninstall.cancel.label                    "Behald utviding">
 <!ENTITY providerUninstall.cancel.accesskey                "B">
 <!ENTITY providerUninstall.preName.label                   "Du har bedt om å avinstallere eller slå av:">
-<!ENTITY providerUninstall.postName.label                  "Dette vil gjere at følgande kalender vert slått av:">
-<!ENTITY providerUninstall.reinstallNote.label             "Dersom du ikkje planlegg å installere tilbydaren på nytt kan du velje å stoppe medlemskapen på kalendrane du har gjennom tilbydaren.">
+<!ENTITY providerUninstall.postName.label                  "Dette vil gjera at følgjande kalender vert slått av:">
+<!ENTITY providerUninstall.reinstallNote.label             "Dersom du ikkje planlegg å installera tilbydaren på nytt kan du velja å stoppa medlemskapen på kalendrane du har gjennom tilbydaren.">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starte.">
-<!ENTITY  error_loading_file "Ein feil oppstod ved forsøk på å laste nødvendige filer for å køyre &brandShortName;">
+<!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starta.">
+<!ENTITY  error_loading_file "Ein feil oppstod ved freistnad på å lasta påkravde filer for køyring av &brandShortName;">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -15,14 +15,14 @@
 <!ENTITY  switch_to_tab "Byt til fane">
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
-<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vere tilgjengelege på &brandShortName; si Startside etter du startar på nytt.">
-<!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan rette det">
+<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vera tilgjengelege på &brandShortName; si Startside etter du startar på nytt.">
+<!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan retta det">
 <!ENTITY  crash_include_url2 "Inkluder adressa til nettstaden problemet oppstod på">
-<!ENTITY  crash_sorry "Vi beklagar">
+<!ENTITY  crash_sorry "Me orsakar">
 <!ENTITY  crash_comment "Legg til ein kommentar (kommentarar er offentleg synlege)">
-<!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakte meg om denne rapporten">
+<!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakta meg om denne rapporten">
 <!ENTITY  crash_email "Di e-postadresse">
-<!ENTITY  crash_closing_alert "Avslutt utan å sende krasjrapport?">
+<!ENTITY  crash_closing_alert "Avslutt utan å senda krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
 <!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
@@ -54,6 +54,7 @@
 <!ENTITY back "Tilbake">
 <!ENTITY stop "Stopp">
 <!ENTITY site_security "Nettstadtryggleik">
+<!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lukk fane">
 <!ENTITY one_tab "1 fane">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Innstillingar">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
-<!ENTITY pref_category_search2 "Søkeinnstillingar">
+<!ENTITY pref_category_search3 "Søk">
+<!ENTITY pref_category_search_summary "Tilpass søkjetilbydarar">
 <!ENTITY pref_category_display "Vising">
 <!ENTITY pref_category_privacy_short "Personvern">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataval">
+<!ENTITY pref_learn_more "Les meir">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorar">
-<!ENTITY pref_category_add_search_providers "Legg til fleire søketilbydarar">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_add_search_providers "Legg til fleire søkjetilbydarar">
+<!ENTITY pref_category_search_restore_defaults "Still tilbake søkjetilbydarar">
+<!ENTITY pref_search_restore_defaults "Still tilbake til standardverdiar">
+<!ENTITY pref_search_restore_defaults_summary "Still tilbake til standardverdiar">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "TIPS: Legg til hvilket som helst nettsted som søketilbyder ved å lang-trykke på søkefeltet.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIPS: Legg til ein nettstad som søkjetilbydar ved å lang-trykkje på søkjefeltet og deretter velja &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utvklarverktøy">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
-<!ENTITY pref_developer_remotedebugging_docs "Les meir">
 <!ENTITY pref_remember_signons "Hugs passord">
+
+<!ENTITY pref_category_home "Heim">
+<!ENTITY pref_category_home_summary "Tilpass startsida.">
+<!ENTITY pref_category_home_panels "Panel">
+<!ENTITY pref_home_add_panel "Leggt il panel">
+<!ENTITY home_add_panel_title "Legg til nytt panel">
+<!ENTITY home_add_panel_empty "Orsak, me klarte ikkje å finna panel som kan leggjast til.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' lagt til på startsida">
+<!ENTITY pref_category_home_content_settings "Innhaldsinnstillingar">
+<!ENTITY pref_home_updates "Automatiske oppdateringar">
+<!ENTITY pref_home_updates_enabled "slått på">
+<!ENTITY pref_home_updates_wifi "Berre med Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpass">
@@ -96,8 +118,8 @@
 <!ENTITY pref_cookies_disabled "Avslått">
 
 <!ENTITY pref_donottrack_menu "Sporing">
-<!ENTITY pref_donottrack_disallow_tracking "Fortel nettstadar at eg ikkje ønskjer å verte spora">
-<!ENTITY pref_donottrack_allow_tracking "Fortel nettstadar at eg ønskjer å verte spora">
+<!ENTITY pref_donottrack_disallow_tracking "Fortel nettstadar at eg ikkje ønskjer å verta spora">
+<!ENTITY pref_donottrack_allow_tracking "Fortel nettstadar at eg ønskjer å verta spora">
 <!ENTITY pref_donottrack_no_pref "Ikkje fortel nettstadar noko om sporingsvala mine">
 
 <!ENTITY pref_char_encoding "Teiknkoding">
@@ -106,7 +128,7 @@
 <!ENTITY pref_clear_private_data "Slett private data">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
-<!ENTITY pref_plugins_tap_to_play "Trykk for å spele av">
+<!ENTITY pref_plugins_tap_to_play "Trykk for å spela av">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststorleik">
 <!ENTITY pref_reflow_on_zoom4 "Oppdatering av tekstflyt">
@@ -128,35 +150,43 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Den snøgge oransje reven overgår forventingane dine med meir fart, fleksibilitet og tryggleik. Som ein ideell organisasjon er vi frie til å kome med nye ting på dine vegne utan noko press om å kompromisse. Det tyder ei betre oppleving for deg og ei lysare framtid for nettet.">
+<!ENTITY pref_font_size_preview_text "Den snøgge oransje reven overgår forventingane dine med meir fart, fleksibilitet og tryggleik. Som ein ideell organisasjon er vi frie til å koma med nye ting på dine vegne utan noko press om å kompromissa. Det tyder ei betre oppleving for deg og ei lysare framtid for nettet.">
 
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
 <!ENTITY pref_show_product_announcements "Vis produktnyhende">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer frå Android">
-<!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
+<!ENTITY pref_private_data_history2 "Nettlesarhistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapslar og aktive innloggingar">
 <!ENTITY pref_private_data_passwords "Lagra passord">
 <!ENTITY pref_private_data_cache "Snøgglager">
 <!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
 <!ENTITY pref_private_data_siteSettings2 "Nettstadinnstillingar">
-<!ENTITY pref_private_data_downloadFiles "Nedlasta filer">
+<!ENTITY pref_private_data_downloadFiles2 "Nedlastingar">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
-<!ENTITY pref_search_set_default "Vel som standard">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Fjern">
-<!ENTITY pref_search_last_toast "Du kan ikkje fjerne eller deaktivere den siste søkemotoren.">
+
+<!ENTITY pref_dialog_set_default "Vel som standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Fjern">
+
+<!ENTITY pref_search_last_toast "Du kan ikkje fjerna eller deaktivere den siste søkemotoren.">
+
+<!ENTITY pref_panels_show "Vis">
+<!ENTITY pref_panels_hide "Gøym">
+<!ENTITY pref_panels_reorder "Endra rekkjefølgje">
+<!ENTITY pref_panels_move_up "Flytt opp">
+<!ENTITY pref_panels_move_down "Flytt ned">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
 <!ENTITY datareporting_notification_action_long "Vel kva for info som skal delast">
-<!ENTITY datareporting_notification_action "Vel det du vil dele">
-<!ENTITY datareporting_notification_summary "For å gje deg ei betre oppleving vil &brandShortName; automatisk sende ein del info til &vendorShortName;.">
+<!ENTITY datareporting_notification_action "Vel det du vil dela">
+<!ENTITY datareporting_notification_summary "For å gje deg ei betre oppleving vil &brandShortName; automatisk senda ein del info til &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "For å gje deg ei betre oppleving vil &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
@@ -170,18 +200,21 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettlesaren si helse, og hjelper deg å forstå ytinga til nettlesaren">
 <!ENTITY datareporting_abouthr_title "Vis helserapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
-<!ENTITY datareporting_telemetry_summary "Sender info om yting, bruksmønster, maskinvare og tilpassingar i nettlesaren til &vendorShortName;, for å hjelpe oss gjere &brandShortName; betre">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapportar for å hjelpe &vendorShortName; med å gjere nettlesaren meir stabil og trygg">
+<!ENTITY datareporting_telemetry_summary "Sender info om yting, bruksmønster, maskinvare og tilpassingar i nettlesaren til &vendorShortName;, for å hjelpa oss å gjera &brandShortName; betre">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapportar for å hjelpa &vendorShortName; med å gjera nettlesaren meir stabil og trygg">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
-<!ENTITY datareporting_wifi_title "&vendorShortName; plasseringsopplysningar">
-<!ENTITY datareporting_wifi_summary "Hjelp til med å forbetre geolokasjonstenester for den opne verdsveven ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; stadteneste">
+<!ENTITY datareporting_wifi_geolocation_summary "Tek imot Wi-Fi og mobilnett-info når han køyrer i bakgrunnen, og deler det med &vendorShortName; for å betra geolokasjon-tenesta vår.">
 
-<!ENTITY pref_update_autodownload "Automatiske oppdateringar">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Last ned oppdateringer automatisk">
 <!ENTITY pref_update_autodownload_wifi "Berre over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Avslått">
-<!ENTITY pref_update_autodownload_enabled "Påslått">
+<!ENTITY pref_update_autodownload_never "Aldri">
+<!ENTITY pref_update_autodownload_always "Alltid">
 
 <!ENTITY quit "Avslutt">
 
@@ -192,10 +225,11 @@ size. -->
 
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
-<!ENTITY share_image_failed "Klarte ikkje å dele dette bildet">
-<!ENTITY save_as_pdf "Lagre som PDF">
+<!ENTITY share_image_failed "Klarte ikkje å dela dette bildet">
+<!ENTITY save_as_pdf "Lagra som PDF">
 <!ENTITY find_in_page "Finn på sida">
 <!ENTITY desktop_mode "Hent side som desktop">
+<!ENTITY page "Side">
 <!ENTITY tools "Verktøy">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
@@ -203,7 +237,7 @@ size. -->
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
-<!ENTITY set_image_fail "Klarte ikkje å velje bilde">
+<!ENTITY set_image_fail "Klarte ikkje å velja bilde">
 <!ENTITY set_image_chooser_title "Bruk bilde som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -213,13 +247,20 @@ size. -->
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
 
-<!ENTITY contextmenu_open_new_tab "Opne i ny fane">
-<!ENTITY contextmenu_open_private_tab "Opne i privat fane">
-<!ENTITY contextmenu_open_in_reader "Opne i Reader">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Castar til eining">
+<!ENTITY media_play "Spel av">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Stopp">
+
+<!ENTITY contextmenu_open_new_tab "Opna i ny fane">
+<!ENTITY contextmenu_open_private_tab "Opna i privat fane">
+<!ENTITY contextmenu_open_in_reader "Opna i Reader">
 <!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
 <!ENTITY contextmenu_share "Del">
-<!ENTITY contextmenu_pasteandgo "Lim inn og opne">
+<!ENTITY contextmenu_pasteandgo "Lim inn og opna">
 <!ENTITY contextmenu_paste "Lim inn">
 <!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
@@ -228,17 +269,22 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Rediger">
 <!ENTITY contextmenu_top_sites_pin "Lås nettstad">
 <!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
+<!ENTITY contextmenu_add_search_engine "Legg til ein søkjemotor">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
 <!ENTITY pref_titlebar_mode_url "Vis sideadresse">
+
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rullering av tittellinje">
 
 <!ENTITY history_removed "Sida fjerna">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Adresse">
-<!ENTITY bookmark_edit_keyword "Nøkkelord">
+<!ENTITY bookmark_edit_keyword "Nykelord">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -249,7 +295,7 @@ size. -->
 
 <!ENTITY reading_list_added "Sida er lagt til i leselista">
 <!ENTITY reading_list_removed "Sida er fjerna frå leselista">
-<!ENTITY reading_list_failed "Klarte ikkje å legge til sida i lesestilen">
+<!ENTITY reading_list_failed "Klarte ikkje å leggja til sida i leselista">
 <!ENTITY reading_list_duplicate "Sida er allereie i leselista">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -277,19 +323,27 @@ size. -->
 <!ENTITY home_history_title "Historikk">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
 <!ENTITY home_last_tabs_title "Faner frå førre gong">
-<!ENTITY home_last_tabs_open "Opne alle faner frå førre gong">
+<!ENTITY home_last_tabs_open "Opna alle faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
 <!ENTITY home_most_recent_title "Nyleg brukt">
-<!ENTITY home_most_recent_empty "Nettstad som du sist besøkte vert vist her.">
+<!ENTITY home_most_recent_empty "Nettstad som du sist besøkte vert viste her.">
 <!ENTITY home_reading_list_empty "Artiklar du lagrar for seinare vert viste her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "TIPS: Lagre artiklar i leselista ved å lang-trykke på &#37;I-ikonet når det er synleg i tittellinja.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIPS: Lagra artiklar i leselista ved å lang-trykkja på &formatI;-ikonet når det er synleg i tittellinja.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIPS: Lagre artiklar i leselista ved å lang-trykke på lesemodus-knappen når han er synleg i tittellinja.">
+<!ENTITY home_reading_list_hint_accessible "TIPS: Lagre artiklar i leselista ved å lang-trykkja på lesemodus-knappen når han er synleg i tittellinja.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Fann ikkje noko innhald i dette panelet.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Opp til &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn eit søkjeord">
 
@@ -316,14 +370,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er sikra.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhald som ikkje er trygt.">
-<!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungere sjølv om dette innhaldet vert blokkert.">
+<!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungera sjølv om dette innhaldet vert blokkert.">
 <!ENTITY learn_more "Les meir">
 <!ENTITY enable_protection "Slå på vern">
 <!ENTITY disable_protection "Slå av vern">
-<!ENTITY keep_blocking "Fortset blokkering">
+<!ENTITY keep_blocking "Hald fram blokkering">
 
 <!ENTITY private_data_success "Private data sletta">
-<!ENTITY private_data_fail "Klarte ikkje å slette enkelte private data">
+<!ENTITY private_data_fail "Klarte ikkje å sletta enkelte private data">
 
 <!ENTITY bookmarkhistory_button_import "Importer">
 <!ENTITY bookmarkhistory_import_both "Importerer bokmerke og historikk
@@ -334,9 +388,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          frå Android">
 <!ENTITY bookmarkhistory_import_wait "Vent litt …">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Vil du skru på &formatS; søkeforslag?">
+<!ENTITY suggestions_prompt3 "Vil du slå på søkjeforslag?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -347,27 +399,38 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmerke og historikk">
 
-<!ENTITY devtools_remote_debugging_forward "Ikkje gløym å konfigurere port-vidaresending!">
+<!ENTITY devtools_remote_debugging_forward "Ikkje gløym å konfigurera port-vidaresending!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Oppdateringar er tilgjengelege for &brandShortName;">
-<!ENTITY updater_start_select2 "Trykk for å laste ned">
+<!ENTITY updater_start_select2 "Trykk for å lasta ned">
 
 <!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feila">
-<!ENTITY updater_downloading_select2 "Trykk for å installere når ferdig nedlasta">
-<!ENTITY updater_downloading_retry2 "Trykk for å prøve igjen">
+<!ENTITY updater_downloading_select2 "Trykk for å installera når ferdig nedlasta">
+<!ENTITY updater_downloading_retry2 "Trykk for å prøva igjen">
 
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengeleg for &brandShortName;">
-<!ENTITY updater_apply_select2 "Trykk for å oppdatere">
+<!ENTITY updater_apply_select2 "Trykk for å oppdatera">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gjesteøkt">
 <!ENTITY exit_guest_session "Avslutt gjesteøkt">
-<!ENTITY guest_session_dialog_continue "Fortset">
+<!ENTITY guest_session_dialog_continue "Hald fram">
 <!ENTITY guest_session_dialog_cancel "Avbryt">
-<!ENTITY new_guest_session_title "&brandShortName; vil starte på nytt no">
-<!ENTITY new_guest_session_text "Personen som brukar den vil ikkje sjå nokre av nettlesardataa dine (som lagra passord, historikk eller bokmerke).\n\nNår gjesten er ferdig vert nettlesardataa hans/hennar sletta, og nettlesarøkta di vert bygd oppatt.">
+<!ENTITY new_guest_session_title "&brandShortName; vil starta på nytt no">
+<!ENTITY new_guest_session_text "Personen som brukar den vil ikkje sjå nokre av nettlesardataa dine (som lagra passord, historikk eller bokmerke).\n\nNår gjesten er ferdig vert nettlesardataa hans/hennar sletta, og nettlesarøkta di vert gjenoppretta.">
 
-<!ENTITY exit_guest_session_title "&brandShortName; vil starte på nytt no">
+<!ENTITY exit_guest_session_title "&brandShortName; vil starta på nytt no">
 <!ENTITY exit_guest_session_text "Nettlesardata frå denne økta vert sletta.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Meny">
+<!ENTITY actionbar_done "Ferdig">

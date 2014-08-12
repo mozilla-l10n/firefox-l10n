@@ -5,7 +5,7 @@
 <!ENTITY  startupAction.label         "Når &brandShortName; startar:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Behald nettprat-kontoane fråkopla">
-<!ENTITY  startupConnectAuto.label    "Kople til nettprat-kontoane automatisk">
+<!ENTITY  startupConnectAuto.label    "Kopla til nettprat-kontoane automatisk">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -13,7 +13,7 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "La kontaktane mine vite at eg er inaktiv etter">
+<!ENTITY  reportIdleAfter.label         "La kontaktane mine vita at eg er inaktiv etter">
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "minutt med inaktivitet">
 
@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Send varsel om at eg skriv i samtalar">
 <!ENTITY  sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "Når meldingar sendt til deg kjem:">
+<!ENTITY  desktopChatNotifications.label      "Vis eit varsel">
+<!ENTITY  desktopChatNotifications.accesskey  "V">
+<!ENTITY  chatSound.accesskey                 "l">
+<!ENTITY  chatSound.label                     "Spel ein lyd">
+<!ENTITY  play.label                          "Spel">
+<!ENTITY  play.accesskey                      "p">
+<!ENTITY  systemSound.label                   "Standard systemlyd for ny e-post">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "Bruk lydfil">
+<!ENTITY  customsound.accesskey               "B">
+<!ENTITY  browse.label                        "Bla gjennom …">
+<!ENTITY  browse.accesskey                    "B">
+

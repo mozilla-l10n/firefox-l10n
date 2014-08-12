@@ -4,8 +4,8 @@
 
 <!ENTITY permissionsManager.title        "Løyve">
 
-<!ENTITY sites.search                    "Søk i nettstad">
-<!ENTITY sites.allSites                  "Alle nettstader">
+<!ENTITY sites.search                    "Søk på nettstaden">
+<!ENTITY sites.allSites                  "Alle nettstadar">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
@@ -13,22 +13,22 @@
 <!ENTITY header.site.start               "Løyve for">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Standard løyve for alle nettstader">
+<!ENTITY header.defaults                 "Standard løyve for alle nettstadar">
 
 <!ENTITY permissions.forgetSite          "Gløym alt om denne nettstaden">
 
 <!ENTITY permission.alwaysAsk            "Alltid spør">
 <!ENTITY permission.allow                "Tillat">
 <!ENTITY permission.allowForSession      "Tillat for økta">
-<!ENTITY permission.allowFirstPartyOnly  "Tillat berre fyrstepartnar">
+<!ENTITY permission.allowFirstPartyOnly  "Tillat berre førstepartnar">
 <!ENTITY permission.block                "Blokker">
 
-<!ENTITY password.label                  "Lagre passord">
-<!ENTITY password.manage                 "Behandle passord …">
+<!ENTITY password.label                  "Lagra passord">
+<!ENTITY password.manage                 "Handsam passord …">
 
 <!ENTITY cookie.label                    "Sett infokapslar">
 <!ENTITY cookie.remove                   "Fjern infokapslar">
-<!ENTITY cookie.manage                   "Behandle infokapslar …">
+<!ENTITY cookie.manage                   "Handsam infokapslar …">
 <!ENTITY cookie.removeAll                "Fjern alle infokapslar">
 
 <!ENTITY geo.label                       "Del plassering">
@@ -39,6 +39,8 @@
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Vedlikehald fråkopla lagring">
 
-<!ENTITY popup.label                     "Opne sprettoppvindauge">
+<!ENTITY popup.label                     "Opna sprettoppvindauge">
 
 <!ENTITY fullscreen.label                "Fullskjerm">
+<!ENTITY camera.label                    "Bruk kameraet">
+<!ENTITY microphone.label                "Bruk mikrofonen">

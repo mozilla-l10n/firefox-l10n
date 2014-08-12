@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Nettinnhald">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Vel standard-innstilling for uønskt e-post. Konto-spesifikke innstillingar for uønskt e-post kan stillast inn i Konto-innstillingar.">
@@ -33,34 +32,17 @@
 <!ENTITY useDownloadedList.accesskey "B">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skrive inn innloggingsdetaljane fleire gonger.">
+<!ENTITY savedPasswords.intro           "&brandShortName; kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skriva inn innloggingsdetaljane fleire gonger.">
 <!ENTITY useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY useMasterPassword.accesskey    "B">
-<!ENTITY masterPassword.intro           "Du kan bruke eit hovudpassord for å verne alle passorda dine, men du må skrive inn passordet ein gong for kvar programøkt.">
-<!ENTITY changeMasterPassword.label     "Endre hovudpassord …">
+<!ENTITY masterPassword.intro           "Du kan bruka eit hovudpassord for å verna alle passorda dine, men du må skriva inn passordet ein gong for kvar programøkt.">
+<!ENTITY changeMasterPassword.label     "Endra hovudpassord …">
 <!ENTITY changeMasterPassword.accesskey "E">
 <!ENTITY savedPasswords.label           "Lagra passord …">
 <!ENTITY savedPasswords.accesskey       "L">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; kan gjere det enkelt for antivirus-program å analysere innkomande e-postmeldingar for virus, før dei vert lagra.">
-<!ENTITY antiVirus.label      "Tillat antivirus-program å leggje innkomande meldingar i karantene">
+<!ENTITY antiVirus.intro      "&brandShortName; kan gjera det enkelt for antivirus-program å analysera innkomande e-postmeldingar for virus før dei vert lagra.">
+<!ENTITY antiVirus.label      "Tillat antivirus-program å leggja innkomande meldingar i karantene">
 <!ENTITY antiVirus.accesskey  "T">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyheitskjelder og andre nettsider som har lov til å bruke infokapslar.">
-<!ENTITY acceptCookies.label            "Godta infokapslar frå netstader">
-<!ENTITY acceptCookies.accesskey        "G">
-<!ENTITY keepUntil.label                "Behald dei til:">
-<!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "dei går ut på dato">
-<!ENTITY close.label                    "eg lukkar &brandShortName;">
-<!ENTITY askEachTime.label              "spør meg kvar gong">
-<!ENTITY cookieExceptions.label         "Unntak …">
-<!ENTITY cookieExceptions.accesskey     "U">
-<!ENTITY showCookies.label              "Vis infokapslar">
-<!ENTITY showCookies.accesskey          "V">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ønskjer å bli spora">
-<!ENTITY doNotTrack.accesskey           "d">
