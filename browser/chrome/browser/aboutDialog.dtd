@@ -19,7 +19,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; e a lekwa mo go rayang gore e ka nna ya se ka ya tsepama.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ka go itirisa e romela molaetsa ka tiragatso, serwethata, tiriso le ditshwanediso go boela ko &vendorShortName; go thusa go dira &brandShortName; botoka.">
+<!ENTITY warningDesc.telemetryDesc  "Ka itiriso, e romela molaetsa ka tiragatso, serwethata, tiriso le ditshwanediso go boela ko &vendorShortName; go thusa go dira &brandShortName; botoka.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -27,8 +27,8 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ke">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "Sechaba se se feletseng ">
-<!ENTITY community.exp.end          "Pereko mmogo go tlhokomela gore Webo e nna e bulegile, e le ya botlhe gape e letlelesegile go dirisiwa ke botlhe.">
+<!ENTITY community.exp.creditsLink  "Sechaba se se feletseng">
+<!ENTITY community.exp.end          "Go bereka mmogo ka go tlhokomela Webo go nna e bulegile, e le ya botlhe gape e letlelesegile go dirisiwa ke botlhe.">
 
 <!ENTITY community.start2           "&brandShortName; e dirilwe ke">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
