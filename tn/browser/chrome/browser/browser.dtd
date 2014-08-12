@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Tsenya Thebe gape">
 <!ENTITY  reloadTab.accesskey                "T">
-<!ENTITY  reloadAllTabs.label                "Tsenya gape Dithebe tsotlhe">
-<!ENTITY  reloadAllTabs.accesskey            "D">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Setlhopa se sesha">
 <!ENTITY  moveToNewWindow.label              "Sutisetsa ko Fensetereng e ntsha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Tshwayatsebe Dithebe Tsotlhe...">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Dirolola go Tswala Thebe">
-<!ENTITY  undoCloseTab.accesskey             "D">
+
+
+
+
 <!ENTITY  closeTab.label                     "Tswala Thebe">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -80,6 +80,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bara ya Didirisiwa Matshwaotsebe">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bara ya Didirisiwa Matshwaotsebe le Dilwana">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Motswedi wa Tsebe">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -257,6 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "Motsamaisi wa Tiriso">
 <!ENTITY devAppMgrMenu.accesskey           "M">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Thefosano ya Didirisiwa">
@@ -699,11 +707,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Se tsaya Ditshwantsho se se ka abelanwang:">
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Segoagoe se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
 
+
 <!ENTITY webrtcIndicatorButton.label "Se tsaya Ditshwantsho / Tetlelesego ya Segoagoe">
 <!ENTITY webrtcIndicatorButton.tooltip "Bontsha disaete tse o abelanang se tsaya Ditshwantsho kgotsa Segoagoe le">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "Bontsi jwa diwebosaete di santse di bereka sentle le fa diteng di kganetswe.">
 

@@ -22,8 +22,6 @@
 
 
 <!ENTITY  generalMetaContent    "Diteng">
-<!ENTITY  generalSecurityDetails   "Dintlha">
-
 
 <!ENTITY  mediaTab              "Mmedia">
 
@@ -60,7 +58,6 @@
 
 <!ENTITY  securityTab           "Pabalesego">
 
-<!ENTITY  securityHeader        "Tshedimosetso ya pabalesego ya tsebe eno">
 
 
 <!ENTITY  securityView.unknown   "Ga e itsiwe">

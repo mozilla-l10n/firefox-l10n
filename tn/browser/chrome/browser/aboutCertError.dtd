@@ -15,25 +15,25 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "O kopile $brandShortName; go golagana 
- mo go sireletsegileng <b>#1</b>, mme gare ka ke ra tlhomamisa gore kgolagano ya gago e sireletsegile.">
+<!ENTITY certerror.introPara1 "O kopile &brandShortName; go golagana 
+mo go sireletsegileng <b>#1</b>, mme gare ka ke ra tlhomamisa gore kgolagano ya gago e sireletsegile.">
 <!ENTITY certerror.introPara2 "Ka tlwaelo, fa o leka go golagana mo go sireletsegileng, 
- saete e tsisa boitshupo jo bo tshephiwang go supa fa o ya 
- kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
+disaete di tsisa boitshupo jo bo tshephiwang go supa fa o ya 
+kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ke direng?">
 <!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
- saete e go sena mathata, phoso e  e ka ra gore mongwe o 
- leka go  tsietsa saete, ka jalo ga wa tshwanela go tshwelela.">
+saete e go sena mathata, phoso e, e ka ra gore mongwe o 
+leka go tsietsa saete, ka jalo ga wa tshwanela go tshwelela.">
 <!ENTITY certerror.getMeOutOfHere.label "Nkentshe fa!">
 
 <!ENTITY certerror.expert.heading "Ke Tlhaloganya Ditlamorago">
-<!ENTITY certerror.expert.content "Fa o tlhaloganya se se diragalang, o  
- ka bolelela &brandShortName; go simolola go tshepha boitshupo jwa saete e. 
- <n> Le fa o tshepha saete, phoso e e ka raya gore mongwe o 
- o itshunya nko mo go borai mo kgolaganong ya gago.</b>">
+<!ENTITY certerror.expert.content "Fa o tlhaloganya se se diragalang, o 
+ka bolelela &brandShortName; go simolola go tshepha boitshupo jwa saete e. 
+<b> Le fa o tshepha saete, phoso e e ka raya gore mongwe o 
+o itshunya nko mo go borai mo kgolaganong ya gago.</b>">
 <!ENTITY certerror.expert.contentPara2 "Se tsenye tse di ntshitsweng 
- o ka tsenya fela fa o na le mabaka a utlwalang a gore ke eng saete e sa dirise boitshupo jo bo tshephegang.">
-<!ENTITY certerror.addException.label "Tsenya tse di ntshitsweng...">
+o ka tsenya fela fa o na le mabaka a utlwalang a gore ke eng saete e sa dirise boitshupo jo bo tshephegang.">
+<!ENTITY certerror.addException.label "Tsenya tse di ntshiwang...">
 
-<!ENTITY certerror.technical.heading "Ditshetlana tsa Botegeniki ">
+<!ENTITY certerror.technical.heading "Ditshetlana tsa Botegeniki">
