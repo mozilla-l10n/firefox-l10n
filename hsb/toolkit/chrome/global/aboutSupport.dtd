@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Wužity składowak">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "MUltiprocesowy Windows">
+
 <!ENTITY aboutSupport.showDir.label "Rjadowak wočinić">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +70,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "Nastajenja w user.js">
 <!ENTITY aboutSupport.userJSDescription "Waš profilowy rjadowak wobsahuje <a id='prefs-user-js-link'>dataju user.js</a>, kotraž nastajenja wobsahuje, kotrež njejsu so přez &brandShortName; wutworili.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Wažne zawrjene nastajenja">
+<!ENTITY aboutSupport.lockedPrefsName "Mjeno">
+<!ENTITY aboutSupport.lockedPrefsValue "Hódnota">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 

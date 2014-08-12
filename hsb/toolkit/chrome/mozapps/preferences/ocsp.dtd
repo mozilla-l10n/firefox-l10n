@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Přepruwowanje certifikatow">
-<!ENTITY enableOCSP.label             "Wužijće Online Certificate Status Protocol (OCSP), zo byšće aktualnu płaćiwosć certifikatow wobkrućił">
-<!ENTITY enableOCSP.accesskey         "W">
-<!ENTITY requireOCSP.label            "Hdyž so zwisk z OCSP-serwerom njeporadźi, certifikat jako njepłaćiwy wobhladać">
-<!ENTITY requireOCSP.accesskey        "H">

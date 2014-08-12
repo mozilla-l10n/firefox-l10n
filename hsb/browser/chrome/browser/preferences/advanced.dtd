@@ -129,9 +129,9 @@
 <!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Kóždy raz so prašeć">
 <!ENTITY certs.ask.accesskey             "K">
+<!ENTITY enableOCSP.label                "Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Certifikaty pokazać">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY verify2.label                   "Pohódnoćenje">
-<!ENTITY verify2.accesskey               "h">
 <!ENTITY viewSecurityDevices.label       "Wěstotne graty">
 <!ENTITY viewSecurityDevices.accesskey   "t">

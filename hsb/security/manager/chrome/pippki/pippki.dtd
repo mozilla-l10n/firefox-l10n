@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Přez token škitana awtentifikacija">
 <!ENTITY protectedAuth.msg "Prošu awtentifikujće token. Awtentifikaciska metoda wotwisuje wot typa wašeho tokena.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
-
-<!ENTITY certErrorDlg.title "Wěsty zwisk je so njeporadźił">
-<!ENTITY certErrorDlg.info1 "To móhło problem z konfiguraciju serwera abo něchtó móhł spytać, serwer imitować.">
-<!ENTITY certErrorDlg.info2 "Jeli běšće w zańdźenosći ze serwerom wuspěšnje zwjazany, móhł zmylk nachwilny być a móžeće pozdźišo hišće raz spytać.">

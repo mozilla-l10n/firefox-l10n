@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "L">
 <!ENTITY bookmarksToolbarItem.label "Zapiski lajsty zapołožkow">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Wšě rajtarki znowa začitać">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "W">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšě rajtarki jako zapołožki składować…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Začinjenje rajtarka cofnyć">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
+
 <!ENTITY pageSourceCmd.label "Žórłowy tekst strony">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "W">
 <!ENTITY devAppMgrMenu.label               "Zrjadowak nałoženjow">
 <!ENTITY devAppMgrMenu.accesskey           "n">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Nastroje přepinać">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotraž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Wokno abo wobrazowka za dźělenje:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "o">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kotryž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Wšě widźomne wokna na wašej wobrazowce budu so dźělić.">
 
 <!ENTITY webrtcIndicatorButton.label "Přistup ke kamerje / k mikrofonej">
 <!ENTITY webrtcIndicatorButton.tooltip "Sydła zwobraznić, z kotrymiž tuchwilu swoju kameru abo swój mikrofon hromadźe wužiwaće">
+
+<!ENTITY loopCallButton.tooltip "Někoho do rozmołwy přeprosyć">
 
 <!ENTITY mixedContentBlocked.moreinfo "Najwjace websydłow hišće porjadnje funguje, byrnjež so tutón wobsah blokował.">
 

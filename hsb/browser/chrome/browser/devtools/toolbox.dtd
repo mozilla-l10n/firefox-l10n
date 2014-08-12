@@ -83,12 +83,12 @@
 
 <!ENTITY options.disableJavaScript.label     "JavaScript znjemóžnić *">
 <!ENTITY options.disableJavaScript.tooltip   "Zmóžnjenje tutoho nastajenja JavaScript za aktualny rajtark znjemóžni. Jeli rajtark abo gratowy kašćik so začini, da tute nastajenje so zabudźe.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Pufrowak znjemóžnić *">
-<!ENTITY options.disableCache.tooltip   "Zmóžnjenje tutoho nastajenja pufrowak za aktualny rajtark znjemóžni. Jeli rajtark abo gratowy kašćik so začini, da tute nastajenje so zabudźe.">
+<!ENTITY options.disableCache.label2     "Pufrowak znjemóžnić (hdyž gratowy kašćik je wočinjeny)">
+<!ENTITY options.disableCache.tooltip2   "Aktiwizowanje tutoho nastajenja znjemóžni pufrowak za wšě rajtarki, kotrež maja wočinjeny gratowy kašćik.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -166,3 +166,19 @@
 <!ENTITY options.showPlatformData.label    "Platformowe daty Gecko pokazać">
 <!ENTITY options.showPlatformData.tooltip  "Jeli tute nastajenje zmóžniće, budu rozprawy JavaScriptoweje analyzy 
 běžneho časa platformowe symbole Gecko wobsahować">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+<!ENTITY options.sourceeditor.label                     "Editorowe nastajenja">
+<!ENTITY options.sourceeditor.detectindentation.label   "Zasunjenje namakać">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Zasunjenje ńa zakładźe wobsaha žórłeje dataje zhódać">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Róžkate spinki awtomatisce začinić">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Začinjace róžkate spinki awtomatisce zasadźić">
+<!ENTITY options.sourceeditor.expandtab.label           "Z pomocu mjezerow zasunyć">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Mjezery město tabulatora wužiwać">
+<!ENTITY options.sourceeditor.tabsize.label             "Wulkosć tabulatora">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "t">
+<!ENTITY options.sourceeditor.keybinding.label          "Tastowe wjazanja">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "T">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Standard">
