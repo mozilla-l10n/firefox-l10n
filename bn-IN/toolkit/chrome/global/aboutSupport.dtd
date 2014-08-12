@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমরির ব্যবহার">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো গুলি">
+
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +70,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
 <!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে রয়েছে একটি <a id='prefs-user-js-link'>user.js file</a>, পছন্দসমূহ অন্তর্ভুক্ত করে যে &brandShortName; এর মধ্যে তৈরি করা হয়নি.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "পরিবর্তিত গুরুত্বপূর্ণ পছন্দ">
+<!ENTITY aboutSupport.lockedPrefsName "নাম">
+<!ENTITY aboutSupport.lockedPrefsValue "মান">
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 

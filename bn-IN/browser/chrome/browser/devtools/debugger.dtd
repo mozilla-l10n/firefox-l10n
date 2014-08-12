@@ -66,6 +66,10 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
+  -  the checkbox that toggles whether sources that we suspect are minified are
+  -  automatically black boxed or not. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears

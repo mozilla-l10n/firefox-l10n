@@ -11,8 +11,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
-  -  in the network table when empty. -->
+<!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
+  -  in the network table when empty to start logging network requests. -->
+<!ENTITY netmonitorUI.reloadNotice2       "নতুন করে প্রদর্শন করুন">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
