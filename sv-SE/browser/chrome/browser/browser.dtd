@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Ny grupp">
 <!ENTITY  moveToNewWindow.label              "Flytta till nytt fönster">
 <!ENTITY  moveToNewWindow.accesskey          "t">
-<!ENTITY  bookmarkAllTabs.label              "Bokmärke för alla flikar…">
-<!ENTITY  bookmarkAllTabs.accesskey          "m">
-<!ENTITY  undoCloseTab.label                 "Ångra Stäng flik">
-<!ENTITY  undoCloseTab.accesskey             "Å">
+<!ENTITY  bookmarkAllTabs.label              "Bokmärk alla flikar...">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+
+
 <!ENTITY  closeTab.label                     "Stäng flik">
 <!ENTITY  closeTab.accesskey                 "S">
 
@@ -81,6 +81,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bokmärkesfältet">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bokmärkesfältsposter">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Källkod">
 <!ENTITY pageSourceCmd.accesskey "ä">
@@ -259,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "U">
 <!ENTITY devAppMgrMenu.label               "Hantera appar">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Visa verktygen">
@@ -701,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera att dela:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Fönster eller skärm att dela:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon att dela:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofonåtkomst">
 <!ENTITY webrtcIndicatorButton.tooltip "Visar platser som du delar din kamera eller mikrofon med">
+
+<!ENTITY loopCallButton.tooltip "Bjud in någon att prata ">
 
 <!ENTITY mixedContentBlocked.moreinfo "De flesta webbplatser kommer fortfarande att fungera som vanligt även om det här innehållet blockeras.">
 
