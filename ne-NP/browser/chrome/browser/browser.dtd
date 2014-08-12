@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "ट्याब पुन: लोड गर्नुहोस्">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "सबै ट्याबहरु पुन: लोड गर्नुहोस्">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "नयाँ समूह">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "सब ट्याबहरुलाई पुस्तकचिनो बनाउनुहोस्...">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "बन्द गरिएको ट्याबलाई पूर्वस्थितिमा ल्याउनुहोस्">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 <!ENTITY  closeTab.label                     "ट्याब बन्द गर्नुहोस्">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -80,6 +80,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "पुस्तकचिनो टुलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "पुस्तकचिनोहरू उपकरणपट्टी वस्तु">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "पृष्ठ स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -255,6 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 
 
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टोगल उपकरण">
@@ -329,8 +337,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "अनुकुलित बनाउनुहोस्">
 <!ENTITY appMenuCustomize.tooltip "मेनु र उपकरणपट्टीहरु अनुकूलित गर्नुहोस्">
-
-
+<!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
+<!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त">
 
 
 
@@ -696,11 +704,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "माइक्रोफोनलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "क्यामेरा/माइक्रोफोनको पहुँच">
 <!ENTITY webrtcIndicatorButton.tooltip "तपाईले अहिले अाफ्नो माइक्रोफोन र क्यामेरा बाँडिराख्नुभएको साइटहरु देखाउनुहोस्">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "यस सामग्रीलाई अवरोध गरेपनि धेरै वेबसाइटहरु अझै पनि राम्रोसँग नै चल्नेछ।">
 

@@ -47,6 +47,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोगकर्ता-प्रतिनिधि">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
 
+
 <!ENTITY aboutSupport.showDir.label "डाइरेक्टरी खोल्नुहोस्">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -58,8 +59,11 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण परिमार्जित प्राथमिकताहरु">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
-<!ENTITY aboutSupport.modifiedPrefsValue "मान">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
 
 
 

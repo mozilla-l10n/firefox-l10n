@@ -45,5 +45,6 @@
      stylesheet and provides an action link to do so. -->
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
+<!ENTITY noStyleSheet-tip-action.label "नयाँ शैली पाना थप्नुहोस्">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
