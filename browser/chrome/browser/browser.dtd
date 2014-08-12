@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Iqela elitsha">
 <!ENTITY  moveToNewWindow.label              "Yise kwifestile entsha">
 <!ENTITY  moveToNewWindow.accesskey          "f">
-<!ENTITY  bookmarkAllTabs.label              "Faka Iibhukhmakhi Kuzo Zonke iiThebhu…">
+<!ENTITY  bookmarkAllTabs.label              "Faka iibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Rhoxisa ukuvala ithebhu">
 <!ENTITY  undoCloseTab.accesskey             "R">
@@ -81,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Ithulbha yebhukhmakhi">
 <!ENTITY personalbarCmd.accesskey "I">
 <!ENTITY bookmarksToolbarItem.label "Iiayithem zethulbha yeebhukhmakhi">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Phinda ulayishe zonke iithebhu">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "z">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Faka iibhukhmakhi kuzo zonke iithebhu…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Rhoxisa ukuvala ithebhu">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "R">
 
 <!ENTITY pageSourceCmd.label "Umthombo wephepha">
 <!ENTITY pageSourceCmd.accesskey "m">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "h">
 <!ENTITY devAppMgrMenu.label               "Umphathi We-App">
 <!ENTITY devAppMgrMenu.accesskey           "U">
+<!ENTITY webide.label                      "I-WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokubolekisana:">
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "IWindowu okanye iskrini ukwabelana:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Imayikhrofowuni yokubolekisana:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "I">
+<!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
 
 <!ENTITY webrtcIndicatorButton.label "Ufikelelo kwikhamera / mayikhrofowuni">
 <!ENTITY webrtcIndicatorButton.tooltip "Bonisa iisayithi obolekisana nazo ngekhamera okanye imayikhrofowuni yakho">
+
+<!ENTITY loopCallButton.tooltip "Mema umntu athethe">
 
 <!ENTITY mixedContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 

@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "IArhente yomsebenzisi">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "IWindows yeenkqubo ezininzi">
+
 <!ENTITY aboutSupport.showDir.label "Isalathiso esivulekileyo">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +70,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "Iipriferensi ze-user.js">
 <!ENTITY aboutSupport.userJSDescription "Ifolda yakho yeprofayile iqulethea ifayile <a id='prefs-user-js-link'>user.js </a>, equlethe iipriferensi ezingenziwanga yi- &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Iipriferensi ezitshixiweyo ezibalulekileyo">
+<!ENTITY aboutSupport.lockedPrefsName "Igama">
+<!ENTITY aboutSupport.lockedPrefsValue "Ixabiso">
 
 <!ENTITY aboutSupport.graphicsTitle "Iigrafikhi">
 
