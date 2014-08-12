@@ -48,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "මෙමරි භාවිතය">
 
+
 <!ENTITY aboutSupport.showDir.label "ඩිරෙක්ටරිය විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -59,8 +60,11 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ආයාතකළ වෙනස්කළ මනාපයන්">
 <!ENTITY aboutSupport.modifiedPrefsName "නම">
-<!ENTITY aboutSupport.modifiedPrefsValue "අගය">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
 
 
 <!ENTITY aboutSupport.graphicsTitle "පිංතූර">

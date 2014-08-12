@@ -20,8 +20,8 @@
 
 <!ENTITY  reloadTab.label                    "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -41,10 +41,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "නව සමූහය">
 <!ENTITY  moveToNewWindow.label              "නව කවුළුවකට යන්න">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "සියළු ටැබ් පිටුලකුණු කරන්න…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "ටැබ් වැසීම අහෝසි කරන්න">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 <!ENTITY  closeTab.label                     "ටැබ වසන්න">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -75,6 +75,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "පිටු සලකුණු මෙවලම් තීරුව">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "පිටුවේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -236,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
+
+
 
 
 
@@ -623,6 +631,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
+
+
+
+
 
 
 

@@ -4,6 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; වෙත පිළිගනිමු">
 
-
+<!ENTITY aboutAccountsConfig.startButton.label "අරඹන්න">
 
 <!ENTITY aboutAccountsConfig.manage.label "කළමනාකරණය">
