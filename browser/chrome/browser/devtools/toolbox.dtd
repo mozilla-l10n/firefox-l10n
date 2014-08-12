@@ -68,8 +68,6 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label4    "Chrome ve eklenti hata ayıklamasını etkinleştir">
-<!ENTITY options.enableChrome.tooltip2  "Bu seçeneği açmanız, tarayıcı bağlamında çeşitli geliştirici araçlarına kullanmanıza ve Eklenti Yöneticisi üzerinden eklenti hatalarını ayıklamanıza olanak tanıyacaktır">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -82,12 +80,10 @@
 
 <!ENTITY options.disableJavaScript.label     "JavaScript'i devre dışı bırak *">
 <!ENTITY options.disableJavaScript.tooltip   "Bu seçeneği açarsanız geçerli sekmede JavaScript devre dışı bırakılır. Sekme veya alet çantası kapatılırsa bu ayar unutulacaktır.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Önbelleği devre dışı bırak *">
-<!ENTITY options.disableCache.tooltip   "Bu seçeneği açarsanız geçerli sekmede önbellek devre dışı bırakılır. Sekme veya alet çantası kapatılırsa bu ayar unutulacaktır.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -165,3 +161,16 @@
 <!ENTITY options.showPlatformData.label    "Gecko platform verilerini göster">
 <!ENTITY options.showPlatformData.tooltip  "Bu seçeneği etkinleştirirseniz JavaScript Profilleyici raporlarına 
 Gecko platform simgeleri eklenecektir">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "Varsayılan">
