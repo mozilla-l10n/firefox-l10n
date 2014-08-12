@@ -20,8 +20,8 @@
 
 <!ENTITY  reloadTab.label                    "റ്റാബ് വീണ്ടും ലഭ്യമാക്കുക">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "എല്ലാ റ്റാബുകളും വീണ്ടും ലഭ്യമാക്കുക">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -44,10 +44,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "പുതിയ ഗ്രൂപ്പ്">
 <!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "എല്ലാ റ്റാബുകളും അടാളപ്പെടുത്തുക…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 <!ENTITY  closeTab.label                     "റ്റാബ് അടയ്ക്കുക">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -79,6 +79,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "താളിന്റെ സ്രോതസ്സ്‌">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -249,6 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍ അടയ്ക്കുക">
 <!ENTITY devToolbarMenu.label              "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍">
 <!ENTITY devToolbarMenu.accesskey          "v">
+
+
 
 
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -685,11 +693,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "മ">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "പങ്കിടുവാനുള്ള മൈക്രോഫോണ്‍:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ഫ">
 
+
 <!ENTITY webrtcIndicatorButton.label "ക്യാമറാ / മൈക്രോഫോണിലേക്കുള്ള പ്രവേശനം">
 <!ENTITY webrtcIndicatorButton.tooltip "നിങ്ങളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ ഉപയോഗിച്ചു് നിലവില്‍ പങ്കിടുന്ന സൈറ്റുകള്‍ കാണിയ്ക്കുക">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "ഈ ഉള്ളടക്കം തടസ്സപ്പെടുത്തിയാലും മിക്ക വെബ്സൈറ്റുകളും ശരിയായി പ്രവര്‍ത്തിയ്ക്കുന്നു.">
 
