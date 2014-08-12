@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "ಎನ್ಕೋಡಿಂಗ್:">
 <!ENTITY  generalMetaName       "ಹೆಸರು">
 <!ENTITY  generalMetaContent    "ಅಂಶಗಳು">
-<!ENTITY  generalSecurityDetails   "ವಿವರಗಳು">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "ಮಾಧ್ಯಮ">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "ಸುರಕ್ಷತೆ">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "ಈ ಪುಟಕ್ಕಾಗಿನ ಸುರಕ್ಷತಾ ಮಾಹಿತಿ">
 <!ENTITY  securityView.certView "ಪ್ರಮಾಣಪತ್ರವನ್ನು ನೋಡು">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "ಅಜ್ಞಾತ">

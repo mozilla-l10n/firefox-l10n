@@ -21,7 +21,7 @@
 
 <!ENTITY  reloadTab.label                    "ಟ್ಯಾಬ್ ಅನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
+<!ENTITY  reloadAllTabs.label                "All ಹಾಳೆಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -45,9 +45,9 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "ಹೊಸ ಗುಂಪು">
 <!ENTITY  moveToNewWindow.label              "ಹೊಸ ಕಿಟಕಿಗೆ ಜರುಗಿಸು">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು…">
+<!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ Tabs ಪುಟಗುರುತು ಮಾಡು…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
+<!ENTITY  undoCloseTab.label                 "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
 <!ENTITY  closeTab.accesskey                 "C">
@@ -81,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ ಯ ಅಂಶಗಳು">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "All ಟ್ಯಾಬ್‌ಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ಎಲ್ಲಾ Tabs ಪುಟಗುರುತು ಮಾಡು…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆ">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "ಪುಟದ ಮೂಲ">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "App ವ್ಯವಸ್ಥಾಪಕ">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ಉಪಕರಣಗಳನ್ನು ಹೊರಳಿಸು">
@@ -701,11 +710,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ಹಂಚಬೇಕಿರುವ ಕ್ಯಾಮೆರಾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "ಕ್ಯಾಮೆರಾ / ಮೈಕ್ರೊಫೋನ್ ನಿಲುಕಣೆ">
 <!ENTITY webrtcIndicatorButton.tooltip "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 
