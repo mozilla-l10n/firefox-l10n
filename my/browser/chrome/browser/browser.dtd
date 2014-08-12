@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "စာမျက်နှာအားပြန်ဖွင့်မည်။">
 <!ENTITY  reloadTab.accesskey                "စ">
-<!ENTITY  reloadAllTabs.label                "စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်။">
-<!ENTITY  reloadAllTabs.accesskey            "စ">
+<!ENTITY  reloadAllTabs.label                "(A) စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "အုပ်စုတစ်ခုပြုလုပ်မည်။">
 <!ENTITY  moveToNewWindow.label              "အသစ်ဖွင့်လှစ်ထားသောဝင်းဒိုးဆီသို့ရွေ့မည်။">
 <!ENTITY  moveToNewWindow.accesskey          "အ">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs...">
+<!ENTITY  bookmarkAllTabs.label              "(T) တပ်ဗ်အားလုံး စာအမှတ်ဖြစ်သုံးပါ...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "စာမျက်နှာအားပိတ်ပစ်ခြင်းအားမလုပ်လိုတော့ပါ။">
-<!ENTITY  undoCloseTab.accesskey             "စ">
+<!ENTITY  undoCloseTab.label                 "(U) ပိတ်လိုက်သည့် တပ်ဗ် ပြန်ဖွင့်">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Close Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "တည်နေရာဖွင့်...">
 <!ENTITY openFileCmd.label "Oဖိုင်ဖွင့်...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "၀">
@@ -80,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bမှတ်သားချက်များ ခလုတ်တန်း">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "(A) စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်။">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "(T) တပ်ဗ်အားလုံးအား စာမှတ်မည်...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "(U) ပိတ်ထားသှ် တပ်ဗ်ပြန်ဖွင့်">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Page Source">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -128,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bလိပ်စာမှတ်များ">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "ဒီစာမျက်နှာကို မှတ်သားပါ">
 <!ENTITY editThisBookmarkCmd.label "ဤစာမျက်နှာအမှတ်အားပြင်မည်။">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
@@ -151,14 +159,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
 
+<!ENTITY backCmd.label                "နောက်">
 <!ENTITY backButton.tooltip           "နောက် တမျက်နှာ သွားပါ">
-
+<!ENTITY forwardCmd.label             "ရှေ့">
 <!ENTITY forwardButton.tooltip        "ရှေ့ တမျက်နှာ သွားပါ">
 <!ENTITY backForwardButtonMenu.tooltip "ညာဘက်ကလစ်သို့မဟုတ်မှတ်ဉာဏ်ကြည့်ဇယားအားဆွဲချပါ။">
 <!ENTITY backForwardButtonMenuMac.tooltip "မှတ်ဉာဏ်အားကြည့်ရန်ဆွဲချပါ။">
-
+<!ENTITY reloadCmd.label              "ပြန်ဖွင့်">
 <!ENTITY reloadButton.tooltip         "လက်ရှိ စာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
-
+<!ENTITY stopCmd.label                "ရပ်">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ဖွင့်နေတဲ့ ဒီစာမျက်နှာကို ရပ်တန့်ပါ">
 <!ENTITY goEndCap.tooltip             "တည်နေရာ တန်းလျာထဲက လိပ်စာဆီ သွားပါ">
@@ -257,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "(A)အက်ပ် မန်နေဂျာ">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -436,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "(S)စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "ဒီစာမျက်နှာကို မှတ်သားပါ">
 <!ENTITY bookmarkThisLinkCmd.label      "(L)ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "(m)ဒီဘောင်ကို မှတ်သားပါ ...">
@@ -699,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Cကင်မရာအားရှယ်">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "(W) ဝင်းဒို့ သို့ စကရင် အားမျှဝေ ၊">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Mမိုက်ကရိုဖုန်းအားရှယ်:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။">
 
 <!ENTITY webrtcIndicatorButton.label "ကင်မရာ/မိုက်ကရိုဖုန်းသုံးခွင့်">
 <!ENTITY webrtcIndicatorButton.tooltip "သင်လောလောဆယ် ရုပ်မြင်ကင်မရာနှင့် မိုက်ကရိုဖုန်းမျှပေးထားသော ဆိုဒ်များအား ပြမည် ">
+
+<!ENTITY loopCallButton.tooltip "တစ်စုံတစ်ယောက်အား စကားပြောရန် ဖိတ်ခေါ်ပါ">
 
 <!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
 
