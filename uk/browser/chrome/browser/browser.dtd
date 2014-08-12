@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрити панель розробника">
 <!ENTITY devToolbarMenu.label              "Панель розробника">
 <!ENTITY devToolbarMenu.accesskey          "р">
-<!ENTITY devAppMgrMenu.label               "Менеджер застосунків">
+<!ENTITY devAppMgrMenu.label               "Менеджер програм">
 <!ENTITY devAppMgrMenu.accesskey           "М">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
