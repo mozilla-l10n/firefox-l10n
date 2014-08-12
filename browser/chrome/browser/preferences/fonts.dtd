@@ -19,8 +19,8 @@
 
 <!ENTITY  serif.label                             "Serifskrift:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.label                        "Serifflaus skrift:">
+<!ENTITY  sans-serif.accesskey                    "u">
 <!ENTITY  monospace.label                         "Fast breidde:">
 <!ENTITY  monospace.accesskey                     "F">
 
@@ -36,7 +36,6 @@
 <!ENTITY  font.langGroup.el                       "Gresk">
 <!ENTITY  font.langGroup.turkish                  "Tyrkisk">
 <!ENTITY  font.langGroup.unicode                  "Andre språk">
-<!ENTITY  font.langGroup.user-def                 "Brukardefinert">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebraisk">
 <!ENTITY  font.langGroup.arabic                   "Arabisk">
@@ -65,7 +64,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Tillat nettsider å velje eigne skrifttypar i staden for dei som er valde ovanfor">
+<!ENTITY  allowPagesToUse.label                   "Tillat nettsider å velja eigne skrifttypar i staden for dei som er valde ovanfor">
 <!ENTITY  allowPagesToUse.accesskey               "T">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "Teiknkoding for eldre innhald">

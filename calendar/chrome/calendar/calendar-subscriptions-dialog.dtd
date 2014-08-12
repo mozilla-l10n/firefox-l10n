@@ -7,7 +7,7 @@
 <!ENTITY calendar.subscriptions.dialog.title                            "Abonner på kalendrar">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Vis kalendrar som inneheld:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Søk">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Vel kalendrar å abonnere på:">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Søk etter kalendrar å abonnera på:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abonner">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Avslutt abonnement">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Søk …">

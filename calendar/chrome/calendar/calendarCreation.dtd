@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY wizard.title             "Opprett ny kalender" >
-<!ENTITY wizard.label             "Opprett ein ny kalender" >
-<!ENTITY wizard.description       "Plasser kalenderen" >
+<!ENTITY wizard.title             "Lag ny kalender" >
+<!ENTITY wizard.label             "Lag ein ny kalender" >
+<!ENTITY wizard.description       "Lokaliser kalenderen" >
 
 <!ENTITY initialpage.description    "Kalenderen kan anten lagrast lokalt, eller på ein tenar slik at han er tilgjengeleg for andre." >
 <!ENTITY initialpage.computer.label  "På datamaskina mi">
 <!ENTITY initialpage.network.label  "På nettverket">
 
 <!ENTITY locationpage.description         "Oppgje informasjon om kvar ein finn kalenderen" >
-<!ENTITY locationpage.login.description   "Valfritt: Oppgje brukarnamn og passord" >
+<!ENTITY locationpage.login.description   "Valfritt: Spesifiser brukarnamn og passord" >
 <!ENTITY locationpage.username.label      "Brukarnamn:" >
 <!ENTITY locationpage.password.label      "Passord:" >
 
 <!ENTITY custompage.shortdescription  "Tilpass kalenderen din" >
-<!ENTITY custompage.longdescription   "Du kan gje kalenderen din eit eige namn og farge hendingar frå han." >
+<!ENTITY custompage.longdescription   "Du kan gje kalenderen din eit eige namn, og eigen farge for hendingar i kalenderen." >
 
-<!ENTITY finishpage.shortdescription  "Kalenderen er oppretta" >
-<!ENTITY finishpage.longdescription   "Kalenderen din har vorte oppretta." >
+<!ENTITY finishpage.shortdescription  "Kalender er laga" >
+<!ENTITY finishpage.longdescription   "Kalenderen laga." >

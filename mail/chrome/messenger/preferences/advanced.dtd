@@ -25,14 +25,14 @@
 <!ENTITY systemIntegration.label       "Systemintegrasjon">
 <!ENTITY alwaysCheckDefault.label      "Alltid kontroller om &brandShortName; er standard e-postklient ved oppstart">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søke i meldingar">
+<!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søkja i meldingar">
 <!ENTITY searchIntegration.accesskey   "T">
 <!ENTITY checkDefaultsNow.label        "Kontroller no …">
 <!ENTITY checkDefaultsNow.accesskey    "K">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
 <!ENTITY configEdit.accesskey          "o">
-<!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsame kvitteringar">
+<!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsama kvitteringar">
 <!ENTITY showReturnReceipts.label      "Kvitteringar …">
 <!ENTITY showReturnReceipts.accesskey  "K">
 
@@ -52,7 +52,7 @@
 <!ENTITY markAsReadDelay.label         "Etter at dei er viste i">
 <!ENTITY markAsReadDelay.accesskey     "E">
 <!ENTITY secondsLabel.label            "sekund">
-<!ENTITY openMsgIn.label               "Opne meldingar i:">
+<!ENTITY openMsgIn.label               "Opna meldingar i:">
 <!ENTITY openMsgInNewTab.label         "Ei ny fane">
 <!ENTITY openMsgInNewTab.accesskey     "f">
 <!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
@@ -63,22 +63,19 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisk søk etter oppdateringar for:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Installerte utvidingar og tema">
-<!ENTITY enableAddonsUpdate.accesskey   "n">
-<!ENTITY whenUpdatesFound.label         "Når oppdateringar til &brandShortName; vert funne,">
-<!ENTITY modeAskMe.label                "Spør meg kva som skal gjerast">
-<!ENTITY modeAskMe.accesskey            "p">
-<!ENTITY modeAutomatic.label            "Automatisk last ned og installer oppdateringa">
-<!ENTITY modeAutomatic.accesskey        "A">
-<!ENTITY modeAutoAddonWarn.label        "Åtvar meg om dette vil slå av utvidingar eller tema">
-<!ENTITY modeAutoAddonWarn.accesskey    "Å">
-<!ENTITY showUpdates.label              "Vis oppdateringshistorikk">
-<!ENTITY showUpdates.accesskey          "V">
+<!ENTITY updateApp.label                 "&brandShortName;-oppdateringar:">
+<!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre tryggleik)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Søk etter oppdateringar, men la meg velja om dei skal installerast">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Aldri søk etter oppdateringer (ikkje tilrådd: tryggingsrisiko)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av installerte utvidingar">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
+<!ENTITY updateHistory.accesskey         "V">
 
-<!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
+<!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installera oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
 <!-- Networking and Disk Space -->
@@ -92,7 +89,7 @@
 <!ENTITY showOffline.accesskey         "F">
 
 <!ENTITY Diskspace                       "Diskplass">
-<!ENTITY offlineCompactFolders.label     "Komprimer alle mapper når det vil spare meir enn">
+<!ENTITY offlineCompactFolders.label     "Komprimer alle mapper når det vil spara meir enn">
 <!ENTITY offlineCompactFolders.accesskey "K">
 <!ENTITY offlineCompactFoldersMB.label   "MB totalt">
 
@@ -104,7 +101,7 @@
 -->
 <!ENTITY useCacheBefore.label            "Bruk opptil">
 <!ENTITY useCacheBefore.accesskey        "B">
-<!ENTITY useCacheAfter.label             "MB diskplass for snøgglageret">
+<!ENTITY useCacheAfter.label             " MB diskplass for snøgglageret">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
 

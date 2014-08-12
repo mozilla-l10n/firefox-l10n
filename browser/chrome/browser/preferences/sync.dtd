@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "Tilbakestill">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Handsama konto">
+<!ENTITY manageAccount.label          "Handsam konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword2.label        "Endra passord …">
@@ -68,7 +68,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Du er ikkje innlogga.">
 <!ENTITY signIn.label                "Logg inn">
-<!ENTITY manage.label                "Handsam">
+<!ENTITY manage.label                "Handsame">
 <!ENTITY disconnect.label            "Kople frå …">
 <!ENTITY verify.label                "Stadfest epost">
 <!ENTITY forget.label                "Gløym denne eposten">

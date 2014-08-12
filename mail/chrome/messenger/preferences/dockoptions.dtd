@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Innstillingar for app-ikon">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Animer app-ikonet når det kjem ny melding">
+<!ENTITY bounceSystemDockIcon.accesskey        "A">
+<!ENTITY newMessagesCountDock.label            "Tal på nye meldingar">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Tal  på ulesne meldingar">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "App-ikon merke">
+<!ENTITY dockIconShow.label                    "Merk app-ikonet med:">

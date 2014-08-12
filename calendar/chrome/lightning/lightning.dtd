@@ -19,7 +19,7 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Opne">
+<!ENTITY lightning.menupopup.open.label               "Opna">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Lagra melding …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "L">
@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-postadresse:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Denne meldinga inneheld ein invitasjon.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Godta">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Godta hendingsinvitasjonen">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Godta alle">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Godta invitasjon til hendinga for alle oppføringar av hendinga">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Legg til">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Legg til hendinga i kalenderen">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Avvis">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Avvis hendingsinvitasjon">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Avvis alle">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Avvis hendingsinvitasjonen for alle oppføringar av hendinga">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Slett">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slett frå kalenderen">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljar …">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Vis detaljar">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Meir">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å visa fleire val">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Stadfest på nytt">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender ei ny stadfesting til hendingsinnkallar">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Med atterhald">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Godta hendingsinvitasjon med atterhald">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med atterhald">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aksepter hendingsinvitasjon med atterhald, for alle oppføringar av hendinga">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Oppdater">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Oppdater hending i kalenderen">
+<!ENTITY lightning.imipbar.description                                      "Denne meldinga inneheld ein invitasjon til ei hending.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

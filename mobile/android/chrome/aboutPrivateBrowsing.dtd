@@ -10,4 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "I ei privat fane vil ikkje &brandShortName; registrere historikk for nettlesing, søk, nedlastingar eller skjema, infokapslar, eller mellombelse Internett-filer. Filer du lastar ned og bokmerke som du lagar vil likevel bli tekne vare på">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Sjølv om denne eininga ikkje vil ha oversikt over nettlesinga din, kan Internett-tilbydaren din framleis spore kva for nettsider du besøker.">
+<!ENTITY privatebrowsingpage.moreInfo               "Sjølv om denne eininga ikkje vil ha oversikt over nettlesinga din, kan Internett-tilbydaren din framleis spora kva for nettsider du vitjar.">

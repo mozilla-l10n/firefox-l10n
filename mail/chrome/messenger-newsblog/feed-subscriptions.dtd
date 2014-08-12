@@ -3,21 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Abonnement på nyheitskjelder">
-<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyheitskjelde vil ikkje påverke tidlegare nedlasta artiklar.">
+<!ENTITY feedSubscriptions.label     "Abonnement på nyhendekjelder">
+<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverka tidlegare nedlasta artiklar.">
 
 <!ENTITY feedTitle.label             "Tittel:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Kjelde-URL:">
 <!ENTITY feedLocation.accesskey      "K">
-<!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyheitskjelde-url å legge til">
+<!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyhendeskjelde-url å leggja til">
 
-<!ENTITY feedFolder.label            "Lagre artiklar i:">
+<!ENTITY feedFolder.label            "Lagra artiklar i:">
 <!ENTITY feedFolder.accesskey        "L">
 
-<!ENTITY quickMode.label             "Vis artikkeloppsummering i staden for å laste nettsida">
+<!ENTITY quickMode.label             "Vis artikkeloppsummering i staden for å lasta nettsida">
 <!ENTITY quickMode.accesskey         "V">
+
+<!ENTITY autotagEnable.label         "Automatisk lag taggar frå kjelda sitt &lt;kategori&gt;-namn">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefiks på taggar:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
 
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
@@ -32,6 +38,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY button.exportOPML.tooltip   "Eksporter nyheitskjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere nyheitskjelder som ei liste">
+<!ENTITY button.exportOPML.tooltip   "Eksporter nyhendekjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportera nyhendekjelder som ei liste">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Lukk">

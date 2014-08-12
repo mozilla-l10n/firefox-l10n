@@ -10,9 +10,9 @@
 <!ENTITY safeb.blocked.malwarePage.title "Rapportert åtaksnettstad!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Nettsida på <span id='malware_sitename'/> er rapportert som ein åtaksnettstad, og er blokkert basert på tryggingsinnstillingane dine.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Åtaksnettstadar prøver å installere program som stel privat informasjon, prøver å bruke datamaskina di for å angripe andre, eller skade systemet ditt.</p><p>Nokre åtaksnettstadar spreier skadelege program med vilje, men mange er kompromitterte utan at eigarane veit om det, eller har gitt løyve til det.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Åtaksnettstadar prøvar å installere program som stel privat informasjon, prøvar å bruka datamaskina di for å angripa andre, eller skada systemet ditt.</p><p>Nokre åtaksnettstadar spreier skadelege program med vilje, men mange er kompromitterte utan at eigarane veit om det, eller har gjeve løyve til det.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Mistanke om nettsvindel!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Dersom du skriv inn personleg informasjon på denne sida, kan det føre til identitetstjuveri eller annan svindel.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Denne forma for nettsvindel vert brukt i svindel som også er kjent under namnet phishing, der falske nettsider og e-postar prøver å etterlikne kjelder du stolar på.</p>
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Dersom du skriv inn personleg informasjon på denne sida, kan det føra til identitetstjuveri eller annan svindel.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Denne forma for nettsvindel vert brukt i svindel som også er kjent under namnet phishing, der falske nettsider og e-postar prøvar å etterlikna kjelder du stolar på.</p>
   ">

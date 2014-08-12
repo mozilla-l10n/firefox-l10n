@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-<!ENTITY  warnAddonInstall.label        "Åtvar meg når nettstader prøver å installere programtillegg">
+<!ENTITY  warnAddonInstall.label        "Åtvar meg når nettstadar prøver å installera programtillegg">
 <!ENTITY  warnAddonInstall.accesskey    "Å">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY  useMasterPassword.accesskey    "r">
-<!ENTITY  changeMasterPassword.label     "Endre hovudpassord …">
+<!ENTITY  changeMasterPassword.label     "Endra hovudpassord …">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
 <!ENTITY  savedPasswords.label            "Lagra passord …">

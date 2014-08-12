@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Om rettane dine">
 <!ENTITY rights.intro-header     "Om rettane dine">
-<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vite:">
+<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vita:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -17,22 +17,22 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; er gjort tilgjengeleg for deg under vilkåra i ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Dette tyder at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også endre kjeldekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gjev deg også rett til å distribuere endra versjonar.">
+<!ENTITY rights.intro-point1c ". Dette tyder at du kan bruka, kopiera og distribuera &brandShortName; til andre. Du kan òg endra kjeldekoden til &brandShortName; som du vil, for å passa til dine behov. Mozilla Public License gjev deg òg rett til å distribuera endra versjonar.">
 
-<!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Thunderbird-varemerka eller logoar. Meir informasjon om varemerke kan du finne ">
+<!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Thunderbird-varemerka eller logoar. Meir informasjon om varemerke kan du finna ">
 <!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName; sine produkt kan du finne ">
+<!ENTITY rights.intro-point3a "Personvernfråsegn for &vendorShortName; sine produkt kan du finna ">
 <!ENTITY rights.intro-point3b "her">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vere oppført her.">
+<!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vera oppført her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; gjev deg også valfrie nettside-informasjonstenester, som mellom anna SafeBrowsing-tenesta; vi kan likevel ikkje garantere at dei er 100&#37; feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finne i ">
+<!ENTITY rights.intro-point4a "&brandShortName; gjev deg òg valfrie nettside-informasjonstenester, som mellom anna SafeBrowsing-tenesta; vi kan likevel ikkje garantera at dei er 100&#37; feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finna i ">
 <!ENTITY rights.intro-point4b "tenestevilkåra">
 <!ENTITY rights.intro-point4c ".">
 
@@ -48,11 +48,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velje ">
+<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruka Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velja">
 <!ENTITY rights.webservices-b "Avansert">
 <!ENTITY rights.webservices-c "-seksjonen, og deretter ">
 <!ENTITY rights.webservices-d "Oppdatering">
-<!ENTITY rights.webservices-e "-fana og så fjerne avkryssinga frå innstillingane i «Sjå autoamtisk etter oppdateringar for».">
+<!ENTITY rights.webservices-e "-fana og så fjerna avkryssinga frå innstillingane i «Automatisk søk etter oppdateringar for».">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
@@ -61,9 +61,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller endre tenesta etter eige val.">
-<!ENTITY rights.webservices-term2 "Du er velkomen til å bruke desse Tenestene med versjonen av &brandShortName; som følger med, og du har alle rettar for å gjere det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrense rettane som er gjevne under open kjeldekode-lisensane som er knytta til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
-<!ENTITY rights.webservices-term3 "Tenestene er tilbydde &quot;som-dei-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passe til dine føremål. Du har den fulle og heile risikoen for å velje Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
-<!ENTITY rights.webservices-term4 "Med unntak av der det er påkravd av lova, &vendorShortName;, bidragsytarane, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følge av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
-<!ENTITY rights.webservices-term5 "&vendorShortName; kan oppdatere desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje verte endra eller annullerte utan skriftleg avtale frå &vendorShortName;.">
-<!ENTITY rights.webservices-term6 "Desse vilkåra er underlagt lova til staten California, U.S.A., med unntak av der lovpålegg krev unntak. Dersom nokre av desse vilkåra viser seg å vere ugyldige eller ikkje rettskraftige, vil dei attverande delane framleis ha effekt. Dersom det er avvik mellom ein omsett versjon av desse vilkåra og den engelske utgåva, vil den engelske utgåva gjelde.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutta eller endra tenesta etter eige val.">
+<!ENTITY rights.webservices-term2 "Du er velkomen til å bruka desse Tenestene med versjonen av &brandShortName; som følger med, og du har alle rettar for å gjera det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrensa rettane som er gjevne under open kjeldekode-lisensane som er knytt til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Tenestene er tilbydde &quot;som-dei-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passa til dine føremål. Du har den fulle og heile risikoen for å velja Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
+<!ENTITY rights.webservices-term4 "Med unntak av der det er påkravd av lova, &vendorShortName;, bidragsytarane, lisensgjevarar og distributørar er ikkje ansvarlege for indirekte, spesielle, tilfeldige, følgjelege, strafferettslege eller mønstergyldige skadar eller ulemper som skjer som ei følge av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; kan oppdatera desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje verta endra eller annullerte utan skriftleg avtale frå &vendorShortName;.">
+<!ENTITY rights.webservices-term6 "Desse vilkåra er underlagt lova til staten California, U.S.A., med unntak av der lovpålegg krev unntak. Dersom nokre av desse vilkåra viser seg å vera ugyldige eller ikkje rettskraftige, vil dei attverande delane framleis ha effekt. Dersom det er avvik mellom ein omsett versjon av desse vilkåra og den engelske utgåva, vil den engelske utgåva gjelde.">

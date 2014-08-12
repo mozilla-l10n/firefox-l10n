@@ -13,7 +13,7 @@
 
 <!ENTITY  defaultFont.label           "Standard skrifttype:">
 <!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Størrelse:">
+<!ENTITY  defaultSize.label           "Storleik:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Avansert …">
@@ -24,6 +24,6 @@
 
 
 <!ENTITY languages.label              "Språk">
-<!ENTITY chooseLanguage.label         "Vel føretrekt språk å vise nettsider i">
+<!ENTITY chooseLanguage.label         "Vel føretrekt språk å visa nettsider i">
 <!ENTITY chooseButton.label           "Vel …">
 <!ENTITY chooseButton.accesskey       "V">
