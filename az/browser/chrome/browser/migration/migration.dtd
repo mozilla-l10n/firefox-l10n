@@ -12,7 +12,7 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Heçnə idxal etmə">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey    "m">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">

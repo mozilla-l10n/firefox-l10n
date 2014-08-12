@@ -73,7 +73,7 @@
 <!ENTITY editMenu.accesskey           "D">
 
 <!ENTITY run.label                    "Başlat">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.accesskey                "B">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Araşdır">
@@ -93,8 +93,8 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Media">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Mühit">
+<!ENTITY environmentMenu.accesskey    "h">
 
 
 <!ENTITY contentContext.label         "İçerik">
@@ -106,8 +106,8 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Brauzer">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "Səyyah">
+<!ENTITY browserContext.accesskey     "y">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
@@ -132,7 +132,7 @@
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Başlat">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "l">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

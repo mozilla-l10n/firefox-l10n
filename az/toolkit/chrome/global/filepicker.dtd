@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lookInMenuList.label   "Aç:">
-<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY lookInMenuList.label   "İçinə bax:">
+<!ENTITY lookInMenuList.accesskey   "b">
 <!ENTITY textInput.label        "Faylın adı:">
 <!ENTITY textInput.accesskey        "d">
 <!ENTITY filterMenuList.label   "Fayl növləri:">
-<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY filterMenuList.accesskey   "n">
 <!ENTITY name.label             "Ad">
 <!ENTITY size.label             "Həcm">
 <!ENTITY lastModified.label     "Son değişiklik">

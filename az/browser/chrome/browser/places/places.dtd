@@ -14,7 +14,7 @@
 <!ENTITY file.close.accesskey           "B">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Görünüş">
-<!ENTITY views.accesskey                "ş">
+<!ENTITY views.accesskey                "n">
 <!ENTITY views.tooltip                  "Görünüşü dəyişdirin">
 <!ENTITY view.columns.label             "Sütunları göstər">
 <!ENTITY view.columns.accesskey         "S">

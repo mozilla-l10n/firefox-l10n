@@ -21,7 +21,7 @@
 <!ENTITY  blockWebForgeries.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "İstisnalar…">
-<!ENTITY  addonExceptions.accesskey     "İ">
+<!ENTITY  addonExceptions.accesskey     "s">
 
 
 <!ENTITY  passwords.label               "Şifrələr">
@@ -37,4 +37,4 @@
 <!ENTITY  changeMasterPassword.accesskey "d">
 
 <!ENTITY  savedPasswords.label            "Saxlanmış Şifrələr…">
-<!ENTITY  savedPasswords.accesskey        "Ş">
+<!ENTITY  savedPasswords.accesskey        "f">

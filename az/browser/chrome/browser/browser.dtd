@@ -353,11 +353,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
-<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToToolbar.accesskey "l">
 <!ENTITY customizeMenu.addToPanel.label "Menyuya Əlavə et">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Alət sətrinə daşı">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "d">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 

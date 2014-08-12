@@ -9,7 +9,7 @@
 <!ENTITY resetProfile.dialog.button.label "&brandShortName; sıfırla">
 
 <!ENTITY resetProfile.title               "&brandShortName; səyyahını ilkin vəziyyətə sıfırla">
-<!ENTITY resetProfile.description         "Həll ed bilmədiyiniz ölçüdə böyük problemləriniz varsa, yalnız vacib məlumatlarınızı qoruyaraq başlayın.">
+<!ENTITY resetProfile.description         "Həll edə bilmədiyiniz ölçüdə böyük problemləriniz varsa, yalnız vacib məlumatlarınızı qoruyaraq yenidən başlayın.">
 <!ENTITY resetProfile.button.label2       "&brandShortName; sıfırla…">
 
 <!ENTITY resetProfile.cleaning.description "&brandShortName; köhnə məlumatlarınızı təmizləyərkən lütfən gözləyin…">

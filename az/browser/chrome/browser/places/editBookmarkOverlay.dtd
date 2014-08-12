@@ -5,7 +5,7 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Ad:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "A">
 <!ENTITY editBookmarkOverlay.location.label                  "Ünvan:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "Ü">
+<!ENTITY editBookmarkOverlay.location.accesskey              "v">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Axın ünvanı:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "A">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sayt ünvanı:">

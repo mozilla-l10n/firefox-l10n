@@ -15,15 +15,15 @@
 <!ENTITY warnings.label     "Uyarılar">
 <!ENTITY warnings.accesskey "U">
 <!ENTITY messages.label     "İsmarıclar">
-<!ENTITY messages.accesskey "İ">
+<!ENTITY messages.accesskey "m">
 <!ENTITY clear.label        "Temizle">
 <!ENTITY clear.accesskey    "l">
 <!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Değerlendirme">
 <!ENTITY evaluate.accesskey "m">
-
-
+<!ENTITY filter2.label      "Filtr:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "Kopyala">  
 <!ENTITY copyCmd.accesskey   "K"> 

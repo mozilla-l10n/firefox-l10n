@@ -28,22 +28,22 @@
 
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopyala">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Parametr adını kopyala">
 <!ENTITY copyName.accesskey "k">
 <!ENTITY copyValue.label "Dəyəri kopyala">
 <!ENTITY copyValue.accesskey "o">
 <!ENTITY modify.label "Dəyərini dəyiş">
-<!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "Dəyərini dəyiş">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY modify.accesskey "d">
+<!ENTITY toggle.label "Çevir">
+<!ENTITY toggle.accesskey "v">
 <!ENTITY reset.label "Reset">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "New">
 <!ENTITY new.accesskey "N">
-<!ENTITY string.label "Dizgi">
+<!ENTITY string.label "Sətir">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Rəqəm">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "m">
 <!ENTITY boolean.label "Məntiqi dəyər">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY boolean.accesskey "M">

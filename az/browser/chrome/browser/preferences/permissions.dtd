@@ -10,15 +10,15 @@
 <!ENTITY removepermission.label       "Saytı sil">
 <!ENTITY removepermission.accesskey   "S">
 <!ENTITY removeallpermissions.label   "Bütün saytları sil">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removeallpermissions.accesskey "i">
 <!ENTITY address.label                "Sayt ünvanı:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.accesskey            "v">
 <!ENTITY block.label                  "Blokla">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Bu seans üçün icazə ver">
 <!ENTITY session.accesskey            "r">
 <!ENTITY allow.label                  "İcazə ver">
-<!ENTITY allow.accesskey              "İ">
+<!ENTITY allow.accesskey              "a">
 <!ENTITY windowClose.key              "ü">
 
 <!ENTITY button.close.label           "Qapat">

@@ -45,7 +45,7 @@
 
 <!ENTITY btnPageNet.label   "Şəbəkə">
 <!ENTITY btnPageNet.tooltip "Şəbəkəyə bağlanma qeydini saxla">
-<!ENTITY btnPageNet.accesskey "Ş">
+<!ENTITY btnPageNet.accesskey "k">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make

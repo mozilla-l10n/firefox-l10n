@@ -10,9 +10,9 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "New">
+<!ENTITY newButton.label            "Yeni">
 <!ENTITY newButton.tooltip          "Yeni bir stil səhifəsi yarat və sənədə əlavə et">
-<!ENTITY newButton.accesskey        "N">
+<!ENTITY newButton.accesskey        "Y">
 
 <!ENTITY importButton.label         "İdxal et…">
 <!ENTITY importButton.tooltip       "Mövcud bir stil səhifəsini idxal et və sənədə əlavə et">

@@ -37,15 +37,15 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.label       "Form və Axtarış Tarixçəsi">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Saxlanan şifrələr">
-<!ENTITY itemPasswords.accesskey           "P">
+<!ENTITY itemPasswords.accesskey           "f">
 <!ENTITY itemCookies.label                 "Çərəzlər">
-<!ENTITY itemCookies.accesskey             "Ç">
+<!ENTITY itemCookies.accesskey             "z">
 <!ENTITY itemCache.label                   "Önbellek">
 <!ENTITY itemCache.accesskey               "n">
 <!ENTITY itemOfflineApps.label             "Oflayn Websayt Məlumatları">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Aktiv girişlər">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "l">
 <!ENTITY itemSitePreferences.label         "Sayt seçimləri">
 <!ENTITY itemSitePreferences.accesskey     "e">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

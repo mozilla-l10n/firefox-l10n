@@ -46,8 +46,8 @@
 <!ENTITY  showCookies.label             "Çərəzləri Göstər…">
 <!ENTITY  showCookies.accesskey         "G">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; proqramı:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; səyyahı:">
+<!ENTITY  historyHeader.pre.accesskey      "h">
 <!ENTITY  historyHeader.remember.label     "Tarixçəni xatırla">
 <!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlama">
 <!ENTITY  historyHeader.custom.label       "Tarixçə üçün sizin seçimləriniz istifadə edilsin">

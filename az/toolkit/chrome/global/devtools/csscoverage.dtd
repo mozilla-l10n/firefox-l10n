@@ -38,6 +38,6 @@
   -  is clicked -->
 
 <!ENTITY csscoverage.footer1 "Bax">
-
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 
 

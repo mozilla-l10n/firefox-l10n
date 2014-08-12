@@ -33,8 +33,8 @@
 <!ENTITY marginGroup.label   "Kənarlar (#1)">
 <!ENTITY marginUnits.inches  "inç">
 <!ENTITY marginUnits.metric  "milimetre">
-<!ENTITY marginTop.label     "Şaquli">
-<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginTop.label     "Yuxarıdan:">
+<!ENTITY marginTop.accesskey "u">
 <!ENTITY marginBottom.label  "Şaquli">
 <!ENTITY marginBottom.accesskey "a">
 <!ENTITY marginLeft.label    "Sol:">

@@ -21,16 +21,16 @@
 <!ENTITY signIn.account2.label      "Hesap">
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Şifrə">
-<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.password.accesskey  "f">
 <!ENTITY signIn.recoveryKey.label       "Bərpa etmə açarı">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.accesskey   "a">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Hesab məlumatları">
-<!ENTITY setup.emailAddress.label     "Poçt ünvanı">
-<!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Bir Şifrə Seçin">
-<!ENTITY setup.choosePassword.accesskey  "Ş">
+<!ENTITY setup.emailAddress.label     "E-Poçt ünvanı">
+<!ENTITY setup.emailAddress.accesskey "t">
+<!ENTITY setup.choosePassword.label      "Şifrə seçin">
+<!ENTITY setup.choosePassword.accesskey  "f">
 <!ENTITY setup.confirmPassword.label     "Şifrəni təsdiqləyin">
 <!ENTITY setup.confirmPassword.accesskey "d">
 <!ENTITY setup.setupMetro.label     "Windows 8 stilli &brandShortName; ilə sinxronlaşdır">
@@ -55,7 +55,7 @@
 <!ENTITY recoveryKeyBackup.description "Bərpa açarınız digər avadanlıqlarda &syncBrand.fullName.label; məlumatlarınızı əldə etməyə kömək edər. Lütfən onu kopyalayın. Bərpa açarınızı geri almağa kömək edə bilmərik.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çap et…">
-<!ENTITY button.syncKeyBackup.print.accesskey "Ç">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Saxla…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->

@@ -91,7 +91,7 @@
 <!ENTITY certmgr.fields.label                 "Sahə kəmiyyəti">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Təsdiq sənədinin iyerarxiyası">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.hierarchy.accesskey          "s">
 <!ENTITY certmgr.addException.label           "İstisnalıq ver…">
 <!ENTITY certmgr.addException.accesskey       "t">
 
@@ -107,4 +107,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert     "Bax…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "G">
 <!ENTITY exceptionMgr.permanent.label         "Bu xüsusi vəziyyəti həmişə saxla">
-<!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY exceptionMgr.permanent.accesskey     "m">

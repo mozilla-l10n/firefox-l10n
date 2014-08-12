@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "Çap et…">
-<!ENTITY print.accesskey      "P">
+<!ENTITY print.accesskey      "p">
 <!ENTITY pageSetup.label      "Səhifə nizamı…">
 <!ENTITY pageSetup.accesskey  "a">
 <!ENTITY page.label           "Sayfa:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             " -> ">
-<!ENTITY scale.label          "Ölçü:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.label          "Miqyas:">
+<!ENTITY scale.accesskey      "s">
 <!ENTITY portrait.label       "Şaquli">
 <!ENTITY portrait.accesskey   "a">
 <!ENTITY landscape.label      "Üfiqi">

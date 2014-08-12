@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "Proqram İdarə edicisi">
+
 <!ENTITY index.device2 "Avadanlıq">
 <!ENTITY index.help "Kömək">
 
@@ -87,6 +89,7 @@
 
 
 
+<!ENTITY help.title "Proqram İdarə edicisi">
 <!ENTITY help.close "Qapat">
 
 

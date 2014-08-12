@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt Təchizat sürətlənməsindən istifadə et">
 <!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Yazarkən hərf səhvlərini yoxla">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "k">
 
 <!ENTITY systemDefaults.label            "Sistem Ön Qurğuları">
 <!--XXX-->
@@ -106,7 +106,7 @@
 <!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Avtomatik yenilə:">
 <!ENTITY enableSearchUpdate.label        "Axtarış Mühərrikləri">

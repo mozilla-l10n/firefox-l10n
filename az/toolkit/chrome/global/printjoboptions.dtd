@@ -16,10 +16,10 @@
 <!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label "Printer əmri:">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.accesskey "m">
 
-<!ENTITY jobTitleInput.label "Tapşırıq başlığı:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.label "İş başlığı:">
+<!ENTITY jobTitleInput.accesskey "b">
 
 <!ENTITY colorGroup.label "Rənglər:">
 <!ENTITY grayRadio.label "GrayScale">
@@ -31,12 +31,12 @@
 <!ENTITY colorspaceInput.accesskey "n">
 
 <!ENTITY fontsGroup.label "Yazı tipləri:">
-<!ENTITY downloadFonts.label "Yazı tiplərini printerə yüklə">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.label "Yazı tiplərini printerə endir">
+<!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Kənar başlıq uzunluğunun sərhədi">
-<!ENTITY topInput.label "Şaquli">
-<!ENTITY topInput.accesskey "T">
+<!ENTITY topInput.label "Yuxarıdan:">
+<!ENTITY topInput.accesskey "u">
 <!ENTITY bottomInput.label "Şaquli">
 <!ENTITY bottomInput.accesskey "a">
 <!ENTITY leftInput.label "Sol:">

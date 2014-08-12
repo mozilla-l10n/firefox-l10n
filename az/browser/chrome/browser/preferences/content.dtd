@@ -31,7 +31,7 @@
 <!ENTITY translateWebPages.label      "Web məzmunu tərcümə et">
 <!ENTITY translateWebPages.accesskey  "t">
 <!ENTITY translateExceptions.label    "İstisnalar…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.accesskey "t">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
