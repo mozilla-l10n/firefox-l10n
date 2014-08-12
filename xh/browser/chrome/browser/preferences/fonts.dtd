@@ -27,13 +27,13 @@
 <!ENTITY  font.langGroup.latin1                   "Ngokwasentshona">
 <!ENTITY  font.langGroup.latin2                   "NgokwaseYurophu eseMbindini">
 <!ENTITY  font.langGroup.japanese                 "NgokwesiJaphane">
-<!ENTITY  font.langGroup.trad-chinese             "NgokwesiTshayina Somthonyama (Taiwan)">
+<!ENTITY  font.langGroup.trad-chinese             "IsiTshayina, esomthonyama (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "IsiTshayina Esenziwe Lula">
-<!ENTITY  font.langGroup.trad-chinese-hk          "NgokwesiTshayina Somthonyama (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "IsiTshayina, esomthonyama (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "NgokwesiKorea">
 <!ENTITY  font.langGroup.cyrillic                 "NgokwesiCyrillic">
 <!ENTITY  font.langGroup.baltic                   "NgokwesiBaltic">
-<!ENTITY  font.langGroup.el                       "NgokwesiGrike">
+<!ENTITY  font.langGroup.el                       "IsiGrike">
 <!ENTITY  font.langGroup.turkish                  "NgokwesiTurkish">
 <!ENTITY  font.langGroup.unicode                  "Ezinye Iilwimi">
 <!ENTITY  font.langGroup.thai                     "NgokwesiThai">
@@ -84,11 +84,11 @@
 <!ENTITY languages.customize.Fallback.simplified  "IsiTshayina Esenziwe Lula">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "IsiTshayina Somthonyama">
+<!ENTITY languages.customize.Fallback.traditional "IsiTshayina, esomthonyama">
 <!ENTITY languages.customize.Fallback.cyrillic    "NgokwesiCyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "NgokwesiGrike">
+<!ENTITY languages.customize.Fallback.greek       "IsiGrike">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.hebrew      "IsiHebhere">

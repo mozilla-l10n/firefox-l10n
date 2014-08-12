@@ -129,9 +129,9 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ndibuze ngawo onke amaxesha">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi">
+<!ENTITY enableOCSP.accesskey            "B">
 <!ENTITY viewCerts.label                 "Bona izatifikethi">
 <!ENTITY viewCerts.accesskey             "i">
-<!ENTITY verify2.label                   "Ungqinisekiso">
-<!ENTITY verify2.accesskey               "U">
 <!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
 <!ENTITY viewSecurityDevices.accesskey   "z">
