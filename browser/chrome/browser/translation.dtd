@@ -12,12 +12,9 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-<!ENTITY translation.thisPageIsIn.label         "Тази страница е на">
-<!ENTITY translation.translateThisPage.label    "Превод на страницата?">
-<!ENTITY translation.translate.button           "Превод">
-<!ENTITY translation.notNow.button              "Не сега">
 
-<!ENTITY translation.translatingContent.label   "Превеждане съдържанието на страницата…">
+
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -34,25 +31,24 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "Тази страница е преведена от">
-<!ENTITY translation.translatedTo.label         "на">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Показване на оригинала">
-<!ENTITY translation.showTranslation.button     "Показване на превода">
 
-<!ENTITY translation.errorTranslating.label     "Имаше проблем при превеждането на страницата.">
-<!ENTITY translation.tryAgain.button            "Опит отново">
 
-<!ENTITY translation.serviceUnavailable.label   "Превеждането не е достъпно в момента. Моля, опитайте отново по-късно.">
 
-<!ENTITY translation.options.menu               "Настройки">
+
+
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Никога да не се превежда този сайт">
-<!ENTITY translation.options.neverForSite.accesskey "Н">
-<!ENTITY translation.options.preferences.label  "Настройки на превеждането">
-<!ENTITY translation.options.preferences.accesskey "Н">
+
+
+
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
+<!ENTITY translation.options.attribution.afterLogo "">

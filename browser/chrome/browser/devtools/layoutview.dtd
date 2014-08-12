@@ -16,8 +16,3 @@
 
 
 
-<!ENTITY title                  "Модел за кутията">
-<!ENTITY margin.tooltip         "отстъп">
-<!ENTITY border.tooltip         "рамка">
-<!ENTITY padding.tooltip        "запълване">
-<!ENTITY content.tooltip        "съдържание">

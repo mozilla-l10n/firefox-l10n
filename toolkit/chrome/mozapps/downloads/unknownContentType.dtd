@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Избрахте да отворите:">
-<!ENTITY  from.label                  "от:">
-<!ENTITY  actionQuestion.label        "Какво да направи &brandShortName; с този файл?">
 
-<!ENTITY  openWith.label              "Отваряне с">
-<!ENTITY  openWith.accesskey          "О">
-<!ENTITY  other.label                 "Друго…">
 
-<!ENTITY  saveFile.label              "Запис на файл">
-<!ENTITY  saveFile.accesskey          "З">
 
-<!ENTITY  rememberChoice.label        "Запомняне на операцията за този тип файлове.">
-<!ENTITY  rememberChoice.accesskey    "З">
 
-<!ENTITY  whichIs.label              "който е:">
 
-<!ENTITY  chooseHandlerMac.label      "Избиране…">
-<!ENTITY  chooseHandlerMac.accesskey  "И">
-<!ENTITY  chooseHandler.label         "Разглеждане…">
-<!ENTITY  chooseHandler.accesskey     "Р">
 
-<!ENTITY  unknownPromptText.label     "Да бъде ли записан този файл?">
+
+
+
+
+
+
+
+
