@@ -74,8 +74,8 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.tooltip   "നിലവിലുള്ള റ്റാബിനുള്ള ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. റ്റാബ് അല്ലെങ്കില്‍ ഉപകരണപ്പട്ടിക അടച്ചെങ്കില്‍, ഈ സജ്ജീകരണം ഉപേക്ഷിയ്ക്കുന്നതാണു്.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
@@ -146,3 +146,16 @@
 
 <!ENTITY options.showPlatformData.label    "ജക്കോ പ്ലാറ്റ്ഫോ ഡേറ്റാ കാണിയ്ക്കുക">
 <!ENTITY options.showPlatformData.tooltip  "ഈ ഐച്ഛികം സജ്ജമാക്കിയാല്‍, ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ റിപോര്‍ട്ടില്‍ ജെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങളും ഉള്‍പ്പെടുന്നു">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+
