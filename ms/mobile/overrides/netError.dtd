@@ -103,7 +103,7 @@ Sekuriti Peribadi yang terpasang.</li>
 <!ENTITY nssFailure2.title "Sambungan yang Selamat Gagal">
 
 
-<!ENTITY nssBadCert.title "Sambungan yang Selamat Gagal">
+<!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Ini mungkin masalah konfigurasi server, atau 
  seseorang cuba meniru jadi server.</li>

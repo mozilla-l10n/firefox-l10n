@@ -105,6 +105,12 @@
 <!ENTITY sync.text.tab.sent.label "Tab anda telah dihantar!">
 <!ENTITY sync.text.tab.not.sent.label "Terdapat masalah semasa menghantar tab anda.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Akaun Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Guna akaun pada pelayan">
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,6 +178,8 @@
 
 <!ENTITY fxaccount_status_header2 "Akaun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Daftar masuk sebagai">
+<!ENTITY fxaccount_status_auth_server "Pelayan akaun">
+<!ENTITY fxaccount_status_device_name "Nama peranti">
 
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: dibolehkan">
