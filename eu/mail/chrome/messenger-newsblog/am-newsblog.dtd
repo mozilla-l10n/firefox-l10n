@@ -17,6 +17,8 @@
 
 <!ENTITY feedWindowTitle.label "Jario-kontuaren morroia">
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.wizardShortName "Jarioak">
 
+<!ENTITY feeds.accountName "Blogak eta berrien jarioak">
+<!ENTITY feeds.wizardShortName "Jarioak">
+<!ENTITY feeds.wizardLongName "Blogak eta berrien jarioak">
 <!ENTITY feeds.wizardLongName.accesskey "B">
