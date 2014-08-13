@@ -41,29 +41,29 @@
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Derbyn">
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Derbyn gwahoddiad i'r digwyddiad">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Derbyn y cyfan">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Derbyn gwahoddiad digwyddiad ar gyfer pob achlysur o'r digwyddiad">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Ychwanegu">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ychwanegu'r digwyddiad i'r calendr">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Gwrthod">
-
-
-
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Gwrthod gwahoddiad i'r digwyddiad">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Gwrthod pob un">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Gwrthod gwahoddiad i ddigwyddiad ar gyfer pob achlysur o'r digwyddiad">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dileu">
-
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Dileu o'r calendr">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Manylion…">
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Dangos manylion y digwyddiad">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Rhagor">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliciwch i ddangos rhagor o ddewisiadau">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ail gadarnhau">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Anfon ail gadarnhad i'r trefnydd">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Ansicr">
-
-
-
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Derbyn gwahoddiad i ddigwyddiad yn amodol">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Amodol i'r cyfan">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Derbyn gwahoddiad i ddigwyddiad yn amodol ar gyfer pob achlysur o'r digwyddiad">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Diweddaru">
-
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Diweddaru'r digwyddiad yn y calendr">
 <!ENTITY lightning.imipbar.description                                      "Mae'r neges hon yn cynnwys gwahoddiad i ddigwyddiad.">
 <!-- Lightning specific keybindings -->
 

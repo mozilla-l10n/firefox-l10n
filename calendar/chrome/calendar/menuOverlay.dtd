@@ -4,7 +4,7 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Digwyddiad Newydd…">
-
+<!ENTITY event.new.event.accesskey              "D">
 
 <!ENTITY event.new.task                         "Tasg Newydd…">
 <!ENTITY event.new.task.accesskey               "T">

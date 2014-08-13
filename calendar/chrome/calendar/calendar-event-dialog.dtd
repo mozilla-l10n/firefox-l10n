@@ -33,8 +33,8 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label               "Hysbysu mynychwyr">
-
-
+<!ENTITY event.attendees.notifyundisclosed.label    "Gwahoddiad ar wahân i fynychwyr">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -161,7 +161,7 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categori:">
 <!ENTITY event.categories.accesskey                       "a">
-
+<!ENTITY event.categories.textbox.label                   "Ychwanegu categori newydd" >
 <!ENTITY event.calendar.label                             "Calendr:" >
 <!ENTITY event.calendar.accesskey                         "a">
 <!ENTITY event.attendees.label                            "Mynychwyr:" >
@@ -219,7 +219,7 @@
 <!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus…" >
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Amser:">
-<!ENTITY event.statusbarpanel.privacy.label               "Newid amser Rhydd/Prysur">
+<!ENTITY event.statusbarpanel.privacy.label               "Preifatrwydd:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Golygu'r ailadroddus">
@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Gwahodd Mynychwyr">
 <!ENTITY event.organizer.label                  "Trefnydd">
 <!ENTITY event.freebusy.suggest.slot            "Cynnig cyfnod trefnu:">
-
-
+<!ENTITY event.freebusy.button.next.slot        "Cyfnod nesaf">
+<!ENTITY event.freebusy.button.previous.slot    "Cyfnod blaenorol">
 <!ENTITY event.freebusy.zoom                    "Chwyddo:">
 <!ENTITY event.freebusy.legend.free             "Rhydd" >
 <!ENTITY event.freebusy.legend.busy             "Prysur" >
