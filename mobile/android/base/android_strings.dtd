@@ -213,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Немен бөлісетіңізді таңдау">
 <!ENTITY datareporting_notification_summary "Қолдануды жақсарту мақсатында, &brandShortName; автоматты түрде кейбір ақпаратты &vendorShortName; адресіне жіберіп отырады.">
 <!ENTITY datareporting_notification_summary_short "Қолдануды жақсарту мақсатында, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
