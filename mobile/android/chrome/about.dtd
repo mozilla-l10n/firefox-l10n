@@ -7,11 +7,11 @@
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " untuk membantu menjadikan &brandShortName; lebih baik.">
 <!ENTITY aboutPage.checkForUpdates.link         "Semak untuk Kemas kini »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Mencari kemas kini…">
-<!ENTITY aboutPage.checkForUpdates.none         "Tiada kemaskini didapati">
-<!ENTITY aboutPage.checkForUpdates.available2   "Kemas kini muat turun">
+<!ENTITY aboutPage.checkForUpdates.checking     "Mencari pengemaskinian…">
+<!ENTITY aboutPage.checkForUpdates.none         "Tiada pengemaskinian didapati">
+<!ENTITY aboutPage.checkForUpdates.available2   "Muat turun kemaskini">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Memuat turun kemas kini…">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemaskini">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemas kini">
 <!ENTITY aboutPage.faq.label                    "Soalan lazim">
 <!ENTITY aboutPage.support.label                "Sokongan">
 <!ENTITY aboutPage.privacyPolicy.label          "Dasar Privasi">

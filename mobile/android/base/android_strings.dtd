@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Penandabuku">
 <!ENTITY  history_title "Sejarah">
 <!ENTITY  reading_list_title "Senarai Bacaan">
+<!ENTITY  recent_tabs_title "Tab Baru-baru Ini">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Semalam">
-<!ENTITY history_week_section "7 hari lalu">
-<!ENTITY history_older_section "Lebih dari 7 hari">
+<!ENTITY history_week_section2 "Minggu Lepas">
+<!ENTITY history_older_section2 "Bulan Lepas">
 
 <!ENTITY go "Pergi">
 <!ENTITY search "Carian">
@@ -62,10 +63,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; tab">
 <!ENTITY new_tab_opened "Tab baru dibuka">
-
+<!ENTITY new_private_tab_opened "Tab peribadi baru dibuka">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
@@ -75,9 +77,13 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "Bahasa">
+<!ENTITY pref_browser_locale "Bahasa pelayar">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Lalai sistem">
 
 <!ENTITY pref_category_search3 "Carian">
 <!ENTITY pref_category_search_summary "Menyesuai penyedia carian anda">
@@ -98,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan yang panjang pada medan carian kemudian sentuh ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
+
 <!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
 <!ENTITY pref_remember_signons "Ingat kata laluan">
 
 <!ENTITY pref_category_home "Utama">
 <!ENTITY pref_category_home_summary "Menyesuai laman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
-<!ENTITY pref_home_add_panel "Tambah panel">
 <!ENTITY home_add_panel_title "Tambah panel baru">
 <!ENTITY home_add_panel_empty "Maaf, kami tidak dapat mencari sebarang panel yang anda tambah.">
 <!-- Localization note (home_add_panel_installed):
@@ -112,18 +118,18 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ditambah kepada laman utama">
 <!ENTITY pref_category_home_content_settings "Tetapan kandungan">
-<!ENTITY pref_home_updates "Kemaskini automatik">
+<!ENTITY pref_home_updates "Pengemaskinian automatik">
 <!ENTITY pref_home_updates_enabled "Dibolehkan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
-
-
+<!ENTITY pref_home_suggested_sites "Tunjuk cadangan laman">
+<!ENTITY pref_home_suggested_sites_summary "Pamerkan pintasan ke laman yang kami rasa menarik untuk anda pada laman utama anda.">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Suaikan">
 <!ENTITY pref_header_display "Paparan">
 <!ENTITY pref_header_privacy_short "Privasi">
-
-
+<!ENTITY pref_header_help "Bantuan">
+<!ENTITY pref_header_language "Bahasa">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Alatan pembangun">
 
@@ -140,7 +146,11 @@
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
-<!ENTITY pref_clear_private_data "Bersihkan data peribadi">
+<!ENTITY pref_clear_private_data2 "Padam sekarang">
+<!ENTITY pref_clear_private_data_category "Bersihkan data peribadi">
+<!ENTITY pref_clear_on_exit_title "Sentiasa padam semasa keluar">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \&quot;Berhenti\&quot; daripada menu utama">
+<!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Bolehkan">
 <!ENTITY pref_plugins_tap_to_play "Sentuh untuk main">
@@ -226,16 +236,18 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload2 "Muat turun kemaskini secara automatik">
+<!ENTITY pref_update_autodownload2 "Muat turun kemas kini secara automatik">
 <!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Tidak sekali">
 <!ENTITY pref_update_autodownload_always "Sentiasa">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Bantuan">
+
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Add-ons">
-
+<!ENTITY downloads "Muat turun">
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Pengekodan Aksara">
 
@@ -250,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Persendirian Baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
+<!ENTITY close_private_tabs "Tutup Tab Peribadi">
 <!ENTITY tabs_normal "Tab-tab">
 <!ENTITY tabs_private "Persendirian">
 <!ENTITY tabs_synced "Diselaras">
@@ -272,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
-<!ENTITY contextmenu_open_in_reader "Buka di Reader">
 <!ENTITY contextmenu_remove "Singkir">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
 <!ENTITY contextmenu_share "Kongsi">
@@ -340,12 +352,12 @@ size. -->
 
 <!ENTITY home_history_title "Sejarah">
 
-
+<!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
+<!ENTITY home_closed_tabs_title "Tab ditutup baru-baru ini">
 <!ENTITY home_last_tabs_title "Tab terakhir anda">
-<!ENTITY home_last_tabs_open "Buka semua tab dari masa lalu">
 <!ENTITY home_last_tabs_empty "Tab terbaru anda dipaparkan di sini.">
-<!ENTITY home_most_recent_title "Paling terbaru">
+<!ENTITY home_open_all "Buka semua">
 <!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
 <!ENTITY home_reading_list_empty "Artikel yang anda simpan untuk paparan kemudian dipaparkan di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -364,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Naik sehingga &formatS;">
+
+<!ENTITY private_browsing_title "Melungsur Secara Peribadi">
+<!ENTITY private_tabs_panel_empty_desc "Tab peribadi anda akan dipaparkan di sini. Walaupun kami tidak menyimpan sebarang sejarah pelayaran anda atau kuki, penanda buku dan fail yang anda muat turun masih akan disimpan pada peranti anda.">
+<!ENTITY private_tabs_panel_learn_more "Ingin ketahui lebih lanjut?">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
@@ -431,7 +447,7 @@ dari Android">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk cuba lagi">
 
 <!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
-<!ENTITY updater_apply_select2 "Sentuh untuk kemaskini">
+<!ENTITY updater_apply_select2 "Sentuh untuk kemas kini">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesi Tetamu Baru">
