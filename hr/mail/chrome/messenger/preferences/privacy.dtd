@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Web sadržaj">
 
+<!ENTITY keepHistory.label "Zapamti web stranice i poveznice koje sam posjetio">
+<!ENTITY keepHistory.accesskey "r">
 <!ENTITY acceptCookies.label "Prihvati kolačiće od stranica">
 <!ENTITY acceptCookies.accesskey "r">
 <!ENTITY acceptThirdParty.pre.label "Prihvati kolačiće trećih strana:">

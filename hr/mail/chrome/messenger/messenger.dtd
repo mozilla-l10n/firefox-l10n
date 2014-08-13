@@ -213,8 +213,8 @@
 <!ENTITY expandAllThreadsCmd.label "Proširi sve teme">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Sažmi sve teme">
-<!ENTITY collapseAllThreadsCmd.accesskey "a">
+<!ENTITY collapseAllThreadsCmd.label "Skupi sve teme">
+<!ENTITY collapseAllThreadsCmd.accesskey "k">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nepročitano">
 <!ENTITY unreadMsgsCmd.accesskey "N">
