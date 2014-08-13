@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox একাউণ্টসমূহ">
+
+<!ENTITY fxaccount_custom_server_account_title "চাৰ্ভাৰত একাওন্ট ব্যৱহাৰ কৰা">
+<!ENTITY fxaccount_custom_server_sync_title "চাৰ্ভাৰত সংমিহলি তথ্য সংৰক্ষণ কৰা">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
+<!ENTITY fxaccount_status_auth_server "একাওন্ট চাৰ্ভাৰ">
 <!ENTITY fxaccount_status_device_name "ডিভাইচৰ নাম">
+<!ENTITY fxaccount_status_sync_server "সংমিহলি চাৰ্ভাৰ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সামৰ্থবান">
 <!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাউণ্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
