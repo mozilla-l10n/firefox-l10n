@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "Borrar ahora">
 <!ENTITY pref_clear_private_data_category "Limpiar datos privados">
 <!ENTITY pref_clear_on_exit_title "Siempre limpiar al salir">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; limpiará automáticamente tus datos cuando elijás &quot;Salir&quot; del menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos cuando elijás \u0022Salir\u0022 del menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
@@ -465,6 +465,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
