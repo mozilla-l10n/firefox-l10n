@@ -4,6 +4,10 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nova langeto">
+<!ENTITY newtab.customize.title "Personecigi vian novlangetan paĝon">
+<!ENTITY newtab.customize.enhanced "Plibonigita">
+<!ENTITY newtab.customize.classic "Klasika">
+<!ENTITY newtab.customize.blank "Malplena">
 <!ENTITY newtab.undo.removedLabel "Forigita miniaturo.">
 <!ENTITY newtab.undo.undoButton "Malfari.">
 <!ENTITY newtab.undo.restoreButton "Restarigi ĉiujn.">
