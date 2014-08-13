@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "এই ঠিকনা পৰিমিত">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা ন'গ'ল">
+<!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা নগল">
 <!ENTITY dnsNotFound.longDesc2 "<ul> 
 <li>ঠিকনাক টাইপিং ত্ৰুটিৰ বাবে নিৰীক্ষণ কৰক যেনে 
 <strong>www</strong>.example.com ৰ পৰিৱৰ্তে 
