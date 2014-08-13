@@ -13,19 +13,21 @@
 <!ENTITY pref.dateformat.long "Hir" >
 <!ENTITY pref.dateformat.short "Byr"  >
 
+<!ENTITY pref.defaults.label "Gwerthoedd Rhagosodedig ar gyfer Eitemau Newydd">
 <!ENTITY pref.events.label "Digwyddiadau">
 <!ENTITY pref.tasks.label "Tasgau">
 
-
+<!ENTITY pref.default_event_length.label "Hyd Rhagosodedig:" >
+<!ENTITY pref.default_event_length.accesskey "H">
 
 <!ENTITY pref.default_task_none.label "Dim">
-
-
-
-
-
-
-
+<!ENTITY pref.default_task_start_of_day.label "Cychwyn y Diwrnod">
+<!ENTITY pref.default_task_end_of_day.label "Diwedd y Dydd">
+<!ENTITY pref.default_task_tomorrow.label "Yfory">
+<!ENTITY pref.default_task_next_week.label "Wythnos Nesaf">
+<!ENTITY pref.default_task_offset_current.label "Cymharol â'r Amser Cyfredol">
+<!ENTITY pref.default_task_offset_start.label "Cymharol â'r Cychwyn">
+<!ENTITY pref.default_task_offset_next_hour.label "Cymharol â'r Awr Nesaf">
 
 <!ENTITY pref.accessibility.label "Hygyrchedd" >
 <!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >

@@ -30,31 +30,31 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Gorffen">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Trefnu yn ôl eu cwblhau">
 <!ENTITY calendar.unifinder.tree.priority.label            "Blaenoriaeth">
-
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Trefnu yn ôl blaenoriaeth">
 <!ENTITY calendar.unifinder.tree.title.label               "Teitl">
-
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Trefnu yn ôl teitl">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "Cwblhawyd &#037;">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Trefnu yn ôl &#037; wedi eu cwblhau">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Cychwyn">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Trefnu yn ôl dyddiad cychwyn">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Diwedd">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Trefnu yn ôl dyddiad diwedd">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Erbyn">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Trefnu yn ôl diwrnod y digwyddiad">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Cwblhawyd">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Trefnu yn ôl dyddiad cwblhau">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categori">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Trefnu yn ôl categori">
 <!ENTITY calendar.unifinder.tree.location.label            "Lleoliad">
-
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Trefnu yn ôl lleoliad">
 <!ENTITY calendar.unifinder.tree.status.label              "Statws">
-
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Trefnu yn ôl statws">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Enw Calendr">
-
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Trefnu yn ôl enw calendr">
 <!ENTITY calendar.unifinder.tree.duration.label            "Cwblhau ymhen">
-
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Trefnu yn ôl cyfnod hyd y digwyddiad">
 <!ENTITY calendar.unifinder.close.tooltip                  "Cau chwilio digwyddiadau a rhestr digwyddiadau">
 
 <!ENTITY calendar.today.button.tooltip          "Mynd i Heddiw" >
@@ -87,8 +87,8 @@
 
 <!ENTITY calendar.newevent.button.label         "Digwyddiad Newydd" >
 <!ENTITY calendar.newtask.button.label          "Tasg Newydd" >
-
-
+<!ENTITY calendar.print.button.label            "Argraffu" >
+<!ENTITY calendar.print.button.accesskey        "A">
 
 <!ENTITY calendar.day.button.label              "Diwrnod" >
 <!ENTITY calendar.week.button.label             "Wythnos" >
@@ -225,6 +225,8 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label     "Dileu">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Calendr Newydd…">
