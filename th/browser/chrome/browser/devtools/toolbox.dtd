@@ -64,10 +64,10 @@
 
 <!ENTITY options.disableJavaScript.label     "ปิดใช้งาน JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "การเปิดใช้ตัวเลือกนี้จะปิดใช้งาน JavaScript ในแท็บปัจจุบัน ถ้าแท็บนี้ถูกปิดไป ค่าที่ตั้งนี้จะถูกล้าง">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.tooltip   "การเปิดใช้ตัวเลือกนี้จะปิดใช้งาน JavaScript ในแท็บปัจจุบัน ถ้าแท็บหรือกล่องเครื่องมือนี้ถูกปิดไป ค่าที่ตั้งนี้จะถูกลืม">
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -136,3 +136,16 @@
 
 <!ENTITY options.showPlatformData.label    "แสดงข้อมูล Gecko platform">
 <!ENTITY options.showPlatformData.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ รายงานตัวเก็บประวัติ JavaScript จะรวมสัญลักษณ์ของ Gecko platform เข้าไปด้วย">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "ปริยาย">

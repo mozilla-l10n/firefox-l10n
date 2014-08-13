@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "ค">
 <!ENTITY bookmarksToolbarItem.label "แถบเครื่องมือรายการที่คั่นหน้า">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "เรียกทุกแท็บใหม่">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นหน้าเว็บทุกแท็บ…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
+
 <!ENTITY pageSourceCmd.label "ซอร์สโค้ด">
 <!ENTITY pageSourceCmd.accesskey "ซ">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "พ">
 <!ENTITY devAppMgrMenu.label               "ตัวจัดการแอป">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "สลับเครื่องมือ">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "แบ่งปันกล้อง:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "หน้าต่างหรือหน้าจอที่ใช้ร่วมกัน">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "น">
 <!ENTITY getUserMedia.selectMicrophone.label "แบ่งปันไมโครโฟน:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ม">
+<!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
 
 <!ENTITY webrtcIndicatorButton.label "เข้าถึงกล้อง / ไมโครโฟน">
 <!ENTITY webrtcIndicatorButton.tooltip "แสดงเว็บไซต์ที่คุณกำลังแบ่งปันกล้องหรือไมโครโฟนของคุณด้วย">
+
+<!ENTITY loopCallButton.tooltip "เชิญบางคนเพื่อการสนทนา">
 
 <!ENTITY mixedContentBlocked.moreinfo "เว็บไซต์ส่วนใหญ่จะทำงานอย่างถูกต้องแม้กระทั่งเนื้อหาถูกปิดกั้น">
 
