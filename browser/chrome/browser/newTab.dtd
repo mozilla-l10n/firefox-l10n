@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "เรียกคืน">
 <!ENTITY newtab.undo.restoreButton "เรียกคืนทั้งหมด">
 <!ENTITY newtab.undo.closeTooltip "ซ่อน">
-
-
+<!ENTITY newtab.sponsored.release.message "ไซต์ของผู้สนับสนุนได้ถูกเสนอแนะเพราะเราหวังว่าคุณจะได้พบสิ่งที่น่าสนใจ และสิ่งนี้ช่วยหนุนภารกิจของ Mozilla">
+<!ENTITY newtab.sponsored.trial.message2 "ไซต์ของผู้สนับสนุนได้ถูกเสนอแนะเพราะเราหวังว่าคุณจะได้พบสิ่งที่น่าสนใจ และสิ่งนี้ช่วยหนุนภารกิจของ Mozilla">
 <!ENTITY newtab.panel.link.text "เรียนรู้เพิ่ม…">
