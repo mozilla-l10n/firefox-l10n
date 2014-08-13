@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label     "Avaliar">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter2.label       "Filtrar">
-<!ENTITY filter2.accesskey   "F">
+<!ENTITY filter.label       "Filtrar">
+<!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "Copiar">  
 <!ENTITY copyCmd.accesskey   "C"> 

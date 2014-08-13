@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Para aforrar espazo no disco, non descargar:">
 <!ENTITY doNotDownloadNntp.label "Para aforrar espazo en disco, non descargar para uso sen conexión:">
 <!ENTITY doNotDownloadImap.label "Para aforrar espazo en disco, pode restrinxir, por antigüidade ou tamaño, a descarga de mensaxes do servidor e o gardado de copias locais para o uso sen conexión.">
