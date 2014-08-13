@@ -111,9 +111,9 @@
 <!ENTITY menuFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY menuFavoriteFolder.accesskey "H">
 
-
-
-
+<!ENTITY folderPropsFolderCmd2.label "Priodweddau Ffolder">
+<!ENTITY folderPropsNewsgroupCmd2.label "Priodweddau Grŵp Newyddion">
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Dadwneud Dileu Negeseuon">
 <!ENTITY redoDeleteMsgCmd.label "Ail-wneud Dileu Neges">
 <!ENTITY undoMoveMsgCmd.label "Dadwneud Symud Neges">
@@ -160,8 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Diweddar">
 <!ENTITY recentFolders.accesskey "D">
-
-
+<!ENTITY compactVersion.label "Golwg Cryno">
+<!ENTITY compactVersion.accesskey "G">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Trefnu yn ôl">
@@ -441,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
-
-
+<!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
+<!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Llyfr Cyfeiriadau">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
@@ -461,8 +461,8 @@
 <!ENTITY savedFiles.label "Ffeiliau wedi'u Cadw">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
-
-
+<!ENTITY filtersCmd2.label "Hidlau Negeseuon">
+<!ENTITY filtersCmd2.accesskey "H">
 <!ENTITY filtersApply.label "Rhedeg Hidlau ar Ffolder">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Rhedeg Hidlau ar Negeseuon Penodol">
@@ -480,10 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
-
-
+<!ENTITY accountManagerCmd2.label "Gosodiadau Cyfrifon">
+<!ENTITY accountManagerCmd2.accesskey "G">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Caniatáu Dadfygio Pell">
 <!ENTITY allowRemoteDebugging.accesskey "D">
 <!-- Mail Toolbar -->
@@ -564,8 +565,8 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Dangos cynnwys pell o fewn y neges hon">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
-
-
+<!ENTITY editRemoteContentSettings.label "Golygu dewisiadau cynnwys pell…">
+<!ENTITY editRemoteContentSettings.accesskey "G">
 
 
 <!-- Phishing Button Popup -->

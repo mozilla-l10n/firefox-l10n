@@ -31,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "D">
-
-
+<!ENTITY preferencesCmd2.label "Dewisiadau">
+<!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "D">
 

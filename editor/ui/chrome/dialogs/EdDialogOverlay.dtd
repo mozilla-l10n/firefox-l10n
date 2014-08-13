@@ -9,8 +9,8 @@
 <!ENTITY chooseFileButton.accessKey "D">
 <!ENTITY chooseFileLinkButton.label "Dewis Ffeil...">
 <!ENTITY chooseFileLinkButton.accessKey "D">
-
-
+<!ENTITY makeUrlRelative.label "Mae'r URL yn berthynol i'r lleoliad tudalen">
+<!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Newid rhwng URL absoliwt a pherthynol. Rhaid cadw'r dudalen yn gyntaf cyn gwneud hyn.">
 <!-- Shared by Link and Image dialogs -->
 
