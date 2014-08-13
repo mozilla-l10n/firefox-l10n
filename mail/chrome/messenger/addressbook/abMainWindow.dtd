@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Tresnak">
 <!ENTITY tasksMenu.accesskey                            "T">
-
-
+<!ENTITY messengerCmd.label                             "Posta eta berri-taldeak">
+<!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Bilatu helbideak…">
 <!ENTITY searchAddressesCmd.accesskey                   "B">

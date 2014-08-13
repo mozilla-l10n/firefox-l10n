@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "d">
 
 <!ENTITY  chatNotifications.label             "Zuri zuzendutako mezuak iristean:">
-<!ENTITY  desktopChatNotifications.label      "Erakutsi jakinarazpena">
+<!ENTITY  desktopChatNotifications.label      "Erakutsi jakinarazpena:">
 <!ENTITY  desktopChatNotifications.accesskey  "n">
+<!ENTITY  completeNotification.label          "bidaltzailearen izenarekin eta mezuaren aurrebistarekin">
+<!ENTITY  buddyInfoOnly.label                 "bidaltzailearen izenarekin soilik">
+<!ENTITY  dummyNotification.label             "inolako informaziorik gabe">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Erreproduzitu soinua">
 <!ENTITY  play.label                          "Erreproduzitu">

@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">
 <!ENTITY alwaysEncryptMessage.accesskey "r">
-
+<!ENTITY encryptionCert.message "Erabili ziurtagiri hau jasotako mezuak zifratu eta deszifratzeko:">
 <!ENTITY digitalSign.certificate.button "Hautatu…">
 <!ENTITY digitalSign.certificate.accesskey "H">
 <!ENTITY digitalSign.certificate_clear.button "Garbitu">

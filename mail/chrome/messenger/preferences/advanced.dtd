@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Orokorra">
-
+<!ENTITY itemDisplay.label       "Irakurtzea eta bistaratzea">
 <!ENTITY itemUpdate.label        "Eguneraketak">
-
+<!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
 <!ENTITY itemCertificates.label  "Ziurtagiriak">
 <!-- General Settings -->
 

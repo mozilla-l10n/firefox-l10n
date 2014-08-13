@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Xehetasunak">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+<!ENTITY itemHistory.label                 "Nabigatze-historia">
+<!ENTITY itemHistory.accesskey             "N">
 <!ENTITY itemCookies.label                 "Cookieak">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cachea">

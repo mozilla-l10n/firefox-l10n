@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Web edukia">
 
+<!ENTITY keepHistory.label "Gogoratu bisitatu ditudan webgune eta loturak">
+<!ENTITY keepHistory.accesskey "G">
 <!ENTITY acceptCookies.label "Onartu guneetako cookieak">
 <!ENTITY acceptCookies.accesskey "O">
 <!ENTITY acceptThirdParty.pre.label "Onartu hirugarrenen cookieak:">

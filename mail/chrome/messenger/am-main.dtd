@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "S">
 <!ENTITY signatureHtml.label "Erabili HTML (adib., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "M">
-
-
+<!ENTITY signatureFile.label "Erantsi sinadura fitxategitik (testua, HTML edo irudia):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editatu…">
 <!ENTITY choose.label "Aukeratu…">
 <!ENTITY choose.accesskey "A">
