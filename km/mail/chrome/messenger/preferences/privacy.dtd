@@ -5,8 +5,8 @@
 
 <!ENTITY captionMailContent.label "មាតិកា​អ៊ីមែល">
 
-<!ENTITY acceptRemoteContent.label "បង្ហាញ​មាតិកា​ពី​ចម្ងាយ​នៅ​ក្នុង​សារ​">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.label "អនុញ្ញាត​មាតិកា​ពី​ចម្ងាយ​ក្នុងសារ">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "ករណី​លើកលែង…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "ស្វែងយល់​បន្ថែម​អំពី​បញ្ហា​ភាព​ឯកជន​នៃ​មាតិកា​ពី​ចម្ងាយ">
@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Web Content">
 
+<!ENTITY keepHistory.label "ចងចាំ​វេបសាយ និង​តំណ​ដែលខ្ញុំ​បានមើល">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "ព្រម​ទទួល​ខូគី​ភាគី​ទីបី៖">

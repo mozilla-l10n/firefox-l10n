@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "នៅ​ពេល​ដែល​សារ​ទៅ​ដល់​អ្នក​ដោយ​ផ្ទាល់៖">
-<!ENTITY  desktopChatNotifications.label      "បង្ហាញ​ការ​​ជូន​ដំណឹង">
+<!ENTITY  desktopChatNotifications.label      "បង្ហាញ​ការ​​ជូន​ដំណឹង៖">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "ជា​មួយ​ឈ្មោះអ្នក​ផ្ញើ និងការមើលសារជា​មុន">
+<!ENTITY  buddyInfoOnly.label                 "ជា​មួយ​ឈ្មោះ​អ្នកប្រើប៉ុណ្ណោះ">
+<!ENTITY  dummyNotification.label             "ដោយគ្មាន​ព័ត៌មាន​ណា​មួយ">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "ចាក់​សំឡេង">
 <!ENTITY  play.label                          "ចាក់">
