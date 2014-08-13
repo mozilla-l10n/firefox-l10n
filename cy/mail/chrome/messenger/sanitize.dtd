@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Manylion">
 <!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
+<!ENTITY itemHistory.label                 "Hanes Pori">
+<!ENTITY itemHistory.accesskey             "H">
 <!ENTITY itemCookies.label                 "Cwcis">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Storfa">

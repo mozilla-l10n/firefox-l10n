@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "Cynnwys E-bost">
+
+<!ENTITY acceptRemoteContent.label "Caniatáu cynnwys pell o fewn negeseuon">
+<!ENTITY acceptRemoteContent.accesskey "C">
+<!ENTITY remoteContentExceptions.label "Eithriadau…">
+<!ENTITY remoteContentExceptions.accesskey "E">
+<!ENTITY acceptRemoteContentInfo.label "Dysgu rhagor am faterion preifatrwydd cynnwys pell">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Cynnwys Gwe">
+
+<!ENTITY keepHistory.label "Cofio gwefannau a dolenni rwyf wedi ymweld â nhw">
+<!ENTITY keepHistory.accesskey "o">
+<!ENTITY acceptCookies.label "Derbyn cwcis gan wefannau">
+<!ENTITY acceptCookies.accesskey "D">
+
+
+
+
+
+<!ENTITY keepUntil.label "Cadw tan:">
+<!ENTITY keepUntil.accesskey "C">
+<!ENTITY expire.label "daw i ben">
+<!ENTITY close.label "Cau &brandShortName;">
+<!ENTITY askEachTime.label "gofyn i mi bob tro">
+<!ENTITY cookieExceptions.label "Eithriadau…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Dangos Cwcis…">
+<!ENTITY showCookies.accesskey "D">
+
+
+
+
+
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Dysgu rhagor am Peidiwch Tracio">
+

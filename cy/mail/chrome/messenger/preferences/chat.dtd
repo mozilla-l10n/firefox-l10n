@@ -23,14 +23,17 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Anfon hysbysiadau teipio mewn trafodaethau">
 <!ENTITY  sendTyping.accesskey          "h">
 
-
-
-
-
+<!ENTITY  desktopChatNotifications.label      "Dangos rhybudd:">
+<!ENTITY  desktopChatNotifications.accesskey  "r">
+<!ENTITY  completeNotification.label          "gydag enw'r anfonwr a rhagolwg o'r neges">
+<!ENTITY  buddyInfoOnly.label                 "gydag enw'r anfonwr yn unig">
+<!ENTITY  dummyNotification.label             "heb unrhyw wybodaeth">
+<!ENTITY  chatSound.accesskey                 "n">
+<!ENTITY  chatSound.label                     "Canu nodyn">
 <!ENTITY  play.label                          "Chwarae">
 <!ENTITY  play.accesskey                      "h">
-
-
+<!ENTITY  systemSound.label                   "Sain rhagosodedig y system ar gyfer e-bost newydd">
+<!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Defnyddio'r ffeil sain ganlynol">
 <!ENTITY  customsound.accesskey               "D">
 <!ENTITY  browse.label                        "Pori…">

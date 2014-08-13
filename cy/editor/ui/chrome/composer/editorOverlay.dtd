@@ -11,12 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Gludo heb fformatio">
 <!ENTITY pasteNoFormatting.accesskey "G">
 <!ENTITY pasteNoFormatting.key "V">
-
-
+<!ENTITY pasteAs.label "Gludo Fel">
+<!ENTITY pasteAs.accesskey "G">
 <!ENTITY pasteAsQuotationCmd.label "Gludo fel Dyfyniad">
 <!ENTITY pasteAsQuotationCmd.accesskey "D">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY findBarCmd.label "Canfod…">
 <!ENTITY findReplaceCmd.label "Canfod ac Amnewid…">
 <!ENTITY enableInlineSpellChecker.label "Gwirio Sillafu Wrth Deipio">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Mathemateg…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Nodau a Symbolau…">
 <!ENTITY insertCharsCmd.accesskey "N">
 <!ENTITY insertBreakAllCmd.label "Toriad Islaw Delwedd(au)">

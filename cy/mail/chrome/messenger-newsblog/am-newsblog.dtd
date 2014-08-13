@@ -17,6 +17,8 @@
 
 <!ENTITY feedWindowTitle.label "Dewin Cyfrif Llif">
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.wizardShortName "Llif">
 
+<!ENTITY feeds.accountName "Blogiau a Llif Newyddion">
+<!ENTITY feeds.wizardShortName "Llif">
+<!ENTITY feeds.wizardLongName "Blogiau a Llif Newyddion">
 <!ENTITY feeds.wizardLongName.accesskey "B">

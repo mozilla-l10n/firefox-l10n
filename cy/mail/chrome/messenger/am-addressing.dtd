@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-addressing.xul -->
+
+
+<!ENTITY addressing.label          "Ysgrifennu a Chyfeiriadau">
 <!ENTITY addressingGroupTitle.label "Cyfeirio">
 <!ENTITY addressingText.label      "Wrth chwilio am gyfeiriadau:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -10,7 +13,8 @@
 <!ENTITY editDirectories.label     "Golygu Cyfeiriaduron…">
 <!ENTITY editDirectories.accesskey "G">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-
+<!ENTITY directories.label         "Defnyddio gweinydd LDAP gwahanol:">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Dim">
 <!-- am-addressing.xul -->
 
