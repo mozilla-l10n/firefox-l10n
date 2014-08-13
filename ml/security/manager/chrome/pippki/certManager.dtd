@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "സ്ഥാപനം">
 <!ENTITY certmgr.certdetail.ou                "Organisational Unit (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "സീരിയല്‍ നമ്പര്‍">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 ഫിംഗര്‍പ്രിന്റ്">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ഫിംഗര്‍പ്രിന്റ്">
 
 <!ENTITY certmgr.editcert.title               "സുരക്ഷ സര്‍ട്ടിഫിക്കറ്റുകളുടെ സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
