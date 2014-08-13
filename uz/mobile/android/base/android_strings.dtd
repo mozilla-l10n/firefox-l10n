@@ -104,7 +104,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: birorta veb sahifani izlash xizmatlariga ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing va so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
-
+<!ENTITY pref_developer_paint_flashing "Charaqlatib bo‘yash">
 <!ENTITY pref_developer_remotedebugging "Masofadan turib nosozliklarni hal qilish">
 <!ENTITY pref_remember_signons "Parolni eslab qolish">
 
