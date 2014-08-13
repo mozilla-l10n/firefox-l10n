@@ -213,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Khetha into ofuna ukwabelana ngayo">
 <!ENTITY datareporting_notification_summary "Ukuze siphucule amava akho, &brandShortName; sithumela ngokuzenzekelayo inkcazelo ethile kwi-&vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ukuze siphucule amava akho, i-&brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -288,7 +288,7 @@ size. -->
 <!ENTITY contextmenu_remove "Shenxisa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
 <!ENTITY contextmenu_share "Yabelana">
-<!ENTITY contextmenu_pasteandgo "Ncamathisela  uhambe">
+<!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
