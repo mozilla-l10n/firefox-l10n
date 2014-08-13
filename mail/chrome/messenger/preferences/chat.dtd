@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Kada stignu poruke naslovljene na vas:">
-<!ENTITY  desktopChatNotifications.label      "Prikaži obavijest">
+<!ENTITY  desktopChatNotifications.label      "Prikaži obavijest:">
 <!ENTITY  desktopChatNotifications.accesskey  "k">
+<!ENTITY  completeNotification.label          "sa imenom pošiljatelja i pregledom poruke">
+<!ENTITY  buddyInfoOnly.label                 "samo sa imenom pošiljatelja">
+<!ENTITY  dummyNotification.label             "bez bilo kakvih informacija">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproduciraj zvuk">
 <!ENTITY  play.label                          "Reproduciraj">
