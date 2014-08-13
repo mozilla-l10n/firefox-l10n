@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Webwobsah">
 
+<!ENTITY keepHistory.label "Wopytane websydła a wotkazy sej spomjatkować">
+<!ENTITY keepHistory.accesskey "t">
 <!ENTITY acceptCookies.label "Placki ze sydłow akceptować">
 <!ENTITY acceptCookies.accesskey "l">
 <!ENTITY acceptThirdParty.pre.label "Placki třećich poskićowarjow akceptować:">

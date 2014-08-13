@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Podrobnosće">
 <!ENTITY detailsProgressiveDisclosure.accesskey "d">
 
+<!ENTITY itemHistory.label                 "Přehladowanska historija">
+<!ENTITY itemHistory.accesskey             "h">
 <!ENTITY itemCookies.label                 "Placki">
 <!ENTITY itemCookies.accesskey             "P">
 <!ENTITY itemCache.label                   "Pufrowak">
