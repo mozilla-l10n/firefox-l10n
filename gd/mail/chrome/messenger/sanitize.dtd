@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Mion-fhiosrachadh">
 <!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
+<!ENTITY itemHistory.label                 "An eachdraidh brabhsaidh">
+<!ENTITY itemHistory.accesskey             "b">
 <!ENTITY itemCookies.label                 "Briosgaidean">
 <!ENTITY itemCookies.accesskey             "B">
 <!ENTITY itemCache.label                   "Tasgadan">
