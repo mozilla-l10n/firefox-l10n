@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Webwopśimjeśe">
 
+<!ENTITY keepHistory.label "Woglědane websedła a wótkaze se spomnjeś">
+<!ENTITY keepHistory.accesskey "l">
 <!ENTITY acceptCookies.label "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY acceptCookies.accesskey "C">
 <!ENTITY acceptThirdParty.pre.label "Cookieje tśeśich póbitowarjow akceptěrowaś:">

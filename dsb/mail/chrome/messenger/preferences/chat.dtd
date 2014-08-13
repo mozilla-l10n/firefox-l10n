@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "k">
 
 <!ENTITY  chatNotifications.label             "Gaž powěsći za was pśichadaju:">
-<!ENTITY  desktopChatNotifications.label      "Powěźeńku pokazaś">
+<!ENTITY  desktopChatNotifications.label      "Powěźeńku pokazaś:">
 <!ENTITY  desktopChatNotifications.accesskey  "w">
+<!ENTITY  completeNotification.label          "z mjenim wótpósłarja a powěsćowym pśeglědom">
+<!ENTITY  buddyInfoOnly.label                 "jano z mjenim wótpósłarja">
+<!ENTITY  dummyNotification.label             "bźez někakich informacijow">
 <!ENTITY  chatSound.accesskey                 "u">
 <!ENTITY  chatSound.label                     "Zuk wótgraś">
 <!ENTITY  play.label                          "Wótgraś">
