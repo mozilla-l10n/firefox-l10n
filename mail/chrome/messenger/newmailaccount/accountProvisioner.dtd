@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Benvida ao &brandShortName;">
 <!ENTITY header2.label "Desexa un novo enderezo de correo?">
 <!ENTITY other.languages "Só estamos mostrando  os provedores que ofrecen enderezos na súa área.  Prema aquí para mostrar todos os provedores.">

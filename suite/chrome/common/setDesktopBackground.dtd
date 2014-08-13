@@ -8,7 +8,7 @@
 <!ENTITY position.accesskey         "P">
 <!ENTITY position.tile.label        "Título">
 <!ENTITY position.stretch.label     "Estirar">
-<!ENTITY position.center.label      "Centradi">
+<!ENTITY position.center.label      "Centrado">
 <!ENTITY position.fill.label        "Cubrir">
 <!ENTITY position.fit.label         "Axustar">
 <!ENTITY picker.label               "Color:">

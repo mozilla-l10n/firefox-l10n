@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Cambiar o contrasinal principal">
+<!ENTITY setPassword.title  "Mudar o contrasinal principal">
 <!ENTITY setPassword.tokenName.label "Dispositivo de seguranza">
 <!ENTITY setPassword.oldPassword.label "Contrasinal actual:">
 <!ENTITY setPassword.newPassword.label "Novo contrasinal:">
@@ -36,10 +36,10 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Descargando certificado">
-<!ENTITY downloadCert.message1 "Solicitóuselle que confíe nunha nova entidade de acreditación (AC).">
+<!ENTITY downloadCert.message1 "Solicitouse que confíe nunha nova autoridade certificadora (AC).">
 <!ENTITY downloadCert.trustSSL "Confiar nesta AC para identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Confiar nesta AC para identificar usuarios de correo electrónico.">
-<!ENTITY downloadCert.trustObjSign "Confiar nesta AC para identificar aos desenvolvedores de software.">
+<!ENTITY downloadCert.trustObjSign "Confiar nesta AC para identificar os desenvolvedores de software.">
 <!ENTITY downloadCert.message3 "Antes de confiar nesta AC para calquera finalidade, debería examinar o seu certificado e a súa política e procedementos (se están dispoñíbeis).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewPolicy.label "Política">

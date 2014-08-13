@@ -1,7 +1,11 @@
-<!ENTITY windowTitle.label            "Asistente da conta de conversas">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountProtocolTitle.label   "Rede de conversas">
-<!ENTITY accountProtocolInfo.label    "Escolla a rede da súa conta de conversas.">
+<!ENTITY windowTitle.label            "Asistente da conta de chat">
+
+<!ENTITY accountProtocolTitle.label   "Rede de chat">
+<!ENTITY accountProtocolInfo.label    "Escolla a rede da súa conta de chat.">
 <!ENTITY accountProtocolField.label   "Rede:">
 <!ENTITY accountProtocolGetMore.label "Obter máis…">
 
