@@ -21,18 +21,17 @@
 <!ENTITY  monospace.label                         "Pevná šírka:">
 <!ENTITY  monospace.accesskey                     "r">
 
-<!ENTITY  font.langGroup.latin1                   "Západné">
-<!ENTITY  font.langGroup.latin2                   "Stredoeurópske">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latinka">
 <!ENTITY  font.langGroup.japanese                 "Japonské">
 <!ENTITY  font.langGroup.trad-chinese             "Tradičné čínske (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Zjednodušené čínske">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradičné čínske (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Kórejské">
 <!ENTITY  font.langGroup.cyrillic                 "Azbuka">
-<!ENTITY  font.langGroup.baltic                   "Pobaltské">
 <!ENTITY  font.langGroup.el                       "Grécke">
-<!ENTITY  font.langGroup.turkish                  "Turecké">
-<!ENTITY  font.langGroup.unicode                  "Unicode">
+<!ENTITY  font.langGroup.other                    "Iné typy písma">
 <!ENTITY  font.langGroup.thai                     "Thajské">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejské">
 <!ENTITY  font.langGroup.arabic                   "Arabské">
