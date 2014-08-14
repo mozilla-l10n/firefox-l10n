@@ -27,3 +27,8 @@
 <!ENTITY chooseLanguage.label         "Vel føretrekt språk å visa nettsider i">
 <!ENTITY chooseButton.label           "Vel …">
 <!ENTITY chooseButton.accesskey       "V">
+
+<!ENTITY translateWebPages.label      "Omset vevinnhald">
+<!ENTITY translateWebPages.accesskey  "O">
+<!ENTITY translateExceptions.label    "Unntak …">
+<!ENTITY translateExceptions.accesskey "n">
