@@ -19,8 +19,8 @@
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Sjå om det er skrivefeil i adressa, til dømes
-    <strong>ww</strong>.døme.no i staden for
-    <strong>www</strong>.døme.no</li>
+    <strong>ww</strong>.eksempel.no i staden for
+    <strong>www</strong>.eksempel.no</li>
   <li>Dersom du ikkje greier å lasta inn nettsider, kontroller at nettverkssambandet til datamaskina er 
     i orden.</li>
   <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller 
@@ -30,17 +30,17 @@
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li>
+  <li>Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.</li>
   <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li>
 </ul>
 ">
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>
+<!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å lasta denne sida av ukjend årsak.</p>
 ">
 
-<!ENTITY malformedURI.title "Ugyldig adresse">
+<!ENTITY malformedURI.title "Adressa er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Nettsideadresser skal vanlegvis skrivast som 
 <strong>http://www.døme.no/</strong></li> 
@@ -52,7 +52,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
-<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk henta sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å henta dokumentet på nytt frå nettstaden.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det ynskte dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk henta sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å henta dokumentet på nytt frå nettstaden.</li></ul>">
 
 <!ENTITY netOffline.title "Fråkopla modus">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -96,13 +96,13 @@
   <li>Kontroller at innstillingane for mellomtenar er korrekte.</li>
   <li>Kontroller at datamaskina har eit fungerande nettverkssamband.</li>
   <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller
-    at &brandShortName; har løyve til å få tilgang til Internett.</li>
+    at &brandShortName; har tilgangsløyve til Internett.</li>
 </ul>
 ">
 
 <!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 <!ENTITY redirectLoop.longDesc "<ul>
-   <li>Dette problemet kan av og til kome av at infokapslar har vorte
+   <li>Dette problemet kan av og til koma av at infokapslar har vorte
     slått av eller ved å ikkje godta infokapslar.</li>
 </ul>
 ">
@@ -116,23 +116,22 @@
 ">
 
 <!ENTITY nssFailure2.title "Trygt samband feila">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Sida du prøver å opne kan ikkje visast fordi autentiseringa av mottekne data ikkje kunne verifiserast.</li>
-  <li>Kontakt eigarane av nettsida for å informere dei om problemet. Eller du kan bruka kommandoen i Hjelp-menyen for å rapportera om feilen på sida.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+  <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kunne stadfestast at overført data er autentisk.</li> 
+  <li>Kontakt nettstadeigaren og informer om problemet.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-  <li>Dette kan vere eit problem med tenarinnstillingane, eller det kan vere at nokon prøver å 
-gje seg ut for å vere tenaren.</li>
+  <li>Dette kan vera eit problem med tenarinnstillingane, eller det kan vera at nokon prøvar å 
+gje seg ut for å vera tenaren.</li>
   <li>Om du har kopla til denne tenaren før, kan feilen vera 
 mellombels, og du kan prøva på nytt seinare.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv om att om
+  <li>Nettstaden kan vera mellombels utilgjengeleg eller oppteken. Prøv om att om
     ei lita stund.</li>
   <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina
     er i orden.</li>
@@ -147,18 +146,18 @@ mellombels, og du kan prøva på nytt seinare.</li>
 ">
 
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
-<!ENTITY phishingBlocked.longDesc "<p>Å skrive inn personleg informasjon på denne nettsida kan føre til identitetstjuveri eller anna svindel.</p>
-<p>Desse typene av nettsvindel er brukte i såkalte phishing-åtak, der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
+<!ENTITY phishingBlocked.longDesc "<p>Å skriva inn personleg informasjon på denne nettsida kan føra til identitetstjuveri eller anna svindel.</p>
+<p>Desse typane av nettsvindel er brukte i såkalte phishing-åtak, der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å verta vist på denne måten fordi nettsida har ein tryggingsregel som hindra det.</p>">
 
 <!ENTITY corruptedContentError.title "Øydelagd innhald">
-<!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visea kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
+<!ENTITY securityOverride.linkText "eller du kan leggja til eit unntak …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
 

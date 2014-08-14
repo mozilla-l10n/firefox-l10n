@@ -112,13 +112,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikkert samband feila">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Sida du prøvar å opna kan ikkje visast fordi autensiteten til mottekne
-data ikkje kunne stadfestast.</li>
-  <li>Kontakt eigarane av nettsida for å informera dei om problemet. Alternativt kan du bruka, 
-kommandoen i hjelpemenyen for å rapportera ei øydelagd lenke.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+  <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kunne stadfestast at overført data er autentisk.</li> 
+  <li>Kontakt nettstadeigaren og informer om problemet.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul>

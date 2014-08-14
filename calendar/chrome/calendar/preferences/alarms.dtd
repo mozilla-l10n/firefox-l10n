@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "v">
 <!ENTITY pref.defalarmlen4todos.label "Standard varslingstid før ei oppgåve:">
 <!ENTITY pref.defalarmlen4todos.accesskey "g">
-<!ENTITY pref.defaultemail.label "Standard leveringsadresse på alarmar:">
-<!ENTITY pref.defaulttext.label "Standard tekst på alarmar:">
 
 <!ENTITY pref.defaultsnoozelength.label "Standard pause-lengde:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">

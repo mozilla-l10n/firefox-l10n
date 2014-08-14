@@ -157,7 +157,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title "Hurtigsøk">
+<!ENTITY searchItem.title "Snarsøk">
 
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Namn">

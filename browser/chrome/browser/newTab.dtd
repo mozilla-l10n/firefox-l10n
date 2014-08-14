@@ -9,5 +9,5 @@
 <!ENTITY newtab.undo.restoreButton "Gjenopprett alle">
 <!ENTITY newtab.undo.closeTooltip "Gøym">
 <!ENTITY newtab.sponsored.release.message "Denne sponsornettstadenvartføreslått fordi vi håpte du synest det er interessant, og fordi det støttar Mozilla si målsetting.">
-<!ENTITY newtab.sponsored.trial.message "Denne prøvesponsor-nettstadent vart føreslått fordi vi håpte du synest det er interessant, og fordi det støttar Mozilla si målsetting.">
+<!ENTITY newtab.sponsored.trial.message2 "Denne nettstaden vart føreslått fordi vi håper du synest det er interessant, og fordi dei støttar målsetjinga åt Mozilla.">
 <!ENTITY newtab.panel.link.text "Les meir …">
