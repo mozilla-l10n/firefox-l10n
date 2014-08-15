@@ -146,7 +146,11 @@
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
-<!ENTITY pref_clear_private_data "Privégegevens wissen">
+<!ENTITY pref_clear_private_data2 "Nu wissen">
+<!ENTITY pref_clear_private_data_category "Privégegevens wissen">
+<!ENTITY pref_clear_on_exit_title "Altijd wissen bij afsluiten">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; zal automatisch uw gegevens wissen als u “Afsluiten” selecteert in het hoofdmenu">
+<!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens te wissen">
 <!ENTITY pref_plugins "Plug-ins">
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
