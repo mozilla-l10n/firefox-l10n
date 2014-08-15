@@ -105,6 +105,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden en daarna op het pictogram &formatI; te tikken.">
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
