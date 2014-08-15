@@ -289,7 +289,7 @@
 <!ENTITY calendar.alarm.snooze.cancel "Zrušit odložení">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit "Upravit kalendář">
+<!ENTITY calendar.server.dialog.title.edit "Úprava kalendáře">
 <!ENTITY calendar.server.dialog.name.label "Název kalendáře:">
 
 <!-- Calendar Properties -->
