@@ -1,0 +1,138 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle "Firefox WebIDE">
+
+<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "New App…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Open App…">
+<!ENTITY projectMenu_selectApp_accessley "S">
+<!ENTITY projectMenu_play_label "Install and Run">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Stop App">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Debug App">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Remove Project">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Preferences">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Disconnect">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+
+<!ENTITY viewMenu_label "View">
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Trocar editor">
+<!ENTITY viewMenu_toggleEditor_accesskey "e">
+<!ENTITY viewMenu_showAddons_label "Gerir simuladores">
+<!ENTITY viewMenu_showAddons_accesskey "m">
+
+<!ENTITY projectButton_label "Abrir App">
+<!ENTITY runtimeButton_label "Selecionar Runtime">
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!ENTITY key_quit "W">
+<!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
+<!-- reload app -->
+<!ENTITY key_play "R">
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
+
+<!ENTITY projectPanel_myProjects "Meus projetos">
+<!ENTITY projectPanel_runtimeApps "Runtime Apps">
+<!ENTITY runtimePanel_USBDevices "Dispositivos USB">
+<!ENTITY runtimePanel_WiFiDevices "Dispositivos Wi-Fi">
+<!ENTITY runtimePanel_simulators "Simuladores">
+<!ENTITY runtimePanel_custom "Personalizado">
+<!ENTITY runtimePanel_installsimulator "Instalar simulador">
+<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
+<!ENTITY runtimePanel_nousbdevice "Não vê o seu dispositivo?">
+
+<!-- Lense -->
+<!ENTITY details_valid_header "válido">
+<!ENTITY details_warning_header "avisos">
+<!ENTITY details_error_header "erros">
+<!ENTITY details_description "Descrição">
+<!ENTITY details_location "Localização">
+<!ENTITY details_manifestURL "App ID">
+<!ENTITY details_removeProject_button "Remover projeto">
+
+<!-- New App -->
+<!ENTITY newAppWindowTitle "Nova App">
+<!ENTITY newAppHeader "Selecionar modelo">
+<!ENTITY newAppLoadingTemplate "A carregar modelos…">
+<!ENTITY newAppProjectName "Nome do projeto:">
+
+
+<!-- Decks -->
+
+<!ENTITY deck_close "Fechar">
+
+<!-- Addons -->
+<!ENTITY addons_title "Componentes extra">
+<!ENTITY addons_aboutaddons "Abrir gestor de extras">
+
+<!-- Prefs -->
+<!ENTITY prefs_title "Preferências">
+<!ENTITY prefs_editor_title "Editor">
+<!ENTITY prefs_general_title "Geral">
+<!ENTITY prefs_restore "Restaurar pré-definições">
+<!ENTITY prefs_simulators "Gerir simuladores">
+<!ENTITY prefs_options_enablelocalruntime "Ativar runtime local">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Permite ao WebIDE ligar-se ao seu próprio runtime (instânciancia do navegador em execução)">
+<!ENTITY prefs_options_rememberlastproject "Lembrar último projeto">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restaura o projeto anterior quando o WebIDE inicia">
+<!ENTITY prefs_options_templatesurl "Modelos URL">
+<!ENTITY prefs_options_templatesurl_tooltip "Indíce dos modelos disponíveis">
+<!ENTITY prefs_options_showeditor "Mostrar editor">
+<!ENTITY prefs_options_showeditor_tooltip "Mostra o editor interno">
+<!ENTITY prefs_options_tabsize "Tamanho dos separadores">
+<!ENTITY prefs_options_expandtab "Separadores soft">
+<!ENTITY prefs_options_expandtab_tooltip "Usa espaços em vez do caracteres do separador">
+<!ENTITY prefs_options_detectindentation "Auto recuar">
+<!ENTITY prefs_options_detectindentation_tooltip "Adivinha o recuo baseado no conteúdo de origem">
+<!ENTITY prefs_options_autocomplete "Auto completar">
+<!ENTITY prefs_options_autocomplete_tooltip "Ativar auto compeltar código">
+<!ENTITY prefs_options_autoclosebrackets "Auto fechar parênteses">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Insere automaticamente o fecho dos parênteses">
+<!ENTITY prefs_options_keybindings "Keybindings">
+<!ENTITY prefs_options_keybindings_default "Pré-definido">
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_title "Tabela de permissões">
+<!ENTITY permissionstable_name_header "Nome">
+
+<!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Runtime Info">
+<!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
+<!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
+<!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
+<!ENTITY runtimedetails_restrictedPrivileges "DevTools previlégios restritos: ">
+<!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
+<!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. necessita de acesso root.)">
+
+<!-- Monitor -->
+<!ENTITY monitor_title "Monitor">
+<!ENTITY monitor_help "Ajuda">
