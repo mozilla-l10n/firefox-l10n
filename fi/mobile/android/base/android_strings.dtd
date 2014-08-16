@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "Poista nyt">
 <!ENTITY pref_clear_private_data_category "Poista yksityisyystiedot">
 <!ENTITY pref_clear_on_exit_title "Poista tiedot aina suljettaessa">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; automaattisesti poistaa tiedot kun valitset &quot;Lopeta&quot; päävalikosta">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; automaattisesti poistaa tiedot kun valitset \u0022Lopeta\u0022 päävalikosta">
 <!ENTITY pref_clear_on_exit_dialog_title "Valitse poistettavat tiedot">
 <!ENTITY pref_plugins "Liitännäiset">
 <!ENTITY pref_plugins_enabled "Käytössä">
