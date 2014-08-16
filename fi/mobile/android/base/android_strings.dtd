@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Kirjanmerkit">
 <!ENTITY  history_title "Sivuhistoria">
 <!ENTITY  reading_list_title "Lukulista">
+<!ENTITY  recent_tabs_title "Viimeiset välilehdet">
 
 <!ENTITY  switch_to_tab "Siirry välilehteen">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Tänään">
 <!ENTITY history_yesterday_section "Eilen">
-<!ENTITY history_week_section "7 päivää sitten">
-<!ENTITY history_older_section "Yli 7 päivää sitten">
+<!ENTITY history_week_section2 "Viime viikolla">
+<!ENTITY history_older_section2 "Viime kuussa">
 
 <!ENTITY go "Siirry">
 <!ENTITY search "Etsi">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_devtools "Web-työkalut (englanninkielisiä)">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
 
 <!ENTITY pref_category_home "Yleiset">
 <!ENTITY pref_category_home_summary "Muokkaa aloitussivuasi">
 <!ENTITY pref_category_home_panels "Paneelit">
-<!ENTITY pref_home_add_panel "Lisää paneeli">
 <!ENTITY home_add_panel_title "Lisää uusi paneeli">
 <!ENTITY home_add_panel_empty "Ei lisättäviä paneeleja.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
 <!ENTITY pref_char_encoding_off "Älä näytä valikkoa">
-<!ENTITY pref_clear_private_data "Poista yksityisyystiedot">
+<!ENTITY pref_clear_private_data2 "Poista nyt">
+<!ENTITY pref_clear_private_data_category "Poista yksityisyystiedot">
+<!ENTITY pref_clear_on_exit_title "Poista tiedot aina suljettaessa">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; automaattisesti poistaa tiedot kun valitset &quot;Lopeta&quot; päävalikosta">
+<!ENTITY pref_clear_on_exit_dialog_title "Valitse poistettavat tiedot">
 <!ENTITY pref_plugins "Liitännäiset">
 <!ENTITY pref_plugins_enabled "Käytössä">
 <!ENTITY pref_plugins_tap_to_play "Toista painamalla">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Uusi välilehti">
 <!ENTITY new_private_tab "Uusi yksityinen välilehti">
 <!ENTITY close_all_tabs "Sulje kaikki välilehdet">
+<!ENTITY close_private_tabs "Sulje yksityiset välilehdet">
 <!ENTITY tabs_normal "Välilehdet">
 <!ENTITY tabs_private "Yksityinen">
 <!ENTITY tabs_synced "Synkronoitu">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Avaa uuteen välilehteen">
 <!ENTITY contextmenu_open_private_tab "Avaa yksityiseen välilehteen">
-<!ENTITY contextmenu_open_in_reader "Avaa lukutilaan">
 <!ENTITY contextmenu_remove "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää linkki kotinäkymään">
 <!ENTITY contextmenu_share "Jaa">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
 <!ENTITY home_bookmarks_empty "Asetetut kirjanmerkit näkyvät tässä.">
+<!ENTITY home_closed_tabs_title "Viimeiseksi suljetut välilehdet">
 <!ENTITY home_last_tabs_title "Välilehdet viime kerralta">
-<!ENTITY home_last_tabs_open "Avaa kaikki välilehdet viime kerralta">
-<!ENTITY home_last_tabs_empty "Viime kerralla avoimet välilehdet näkyvät tässä.">
-<!ENTITY home_most_recent_title "Viimeisimmät">
+<!ENTITY home_last_tabs_empty "Äskettäin avoimet välilehdet näkyvät tässä.">
+<!ENTITY home_open_all "Avaa kaikki">
 <!ENTITY home_most_recent_empty "Viimeisimmät vieraillut sivustot näkyvät tässä.">
 <!ENTITY home_reading_list_empty "Artikkelit myöhemmin luettavaksi näkyvät tässä.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Edelliseen sijaintiin &formatS;">
+
+<!ENTITY private_browsing_title "Yksityinen selaus">
+<!ENTITY private_tabs_panel_empty_desc "Yksityisen selauksen välilehdet näkyvät tässä. Vaikka emme säilytäkään selaushistoriaa tai evästeitä, uudet kirjanmerkit ja lataamasi tiedostot tallennetaan normaalisti.">
+<!ENTITY private_tabs_panel_learn_more "Lue lisää">
 
 <!ENTITY pin_site_dialog_hint "Kirjoita hakusana">
 
