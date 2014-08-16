@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Verkkosisältö">
 
+<!ENTITY keepHistory.label "Muista avaamani sivustot ja linkit">
+<!ENTITY keepHistory.accesskey "M">
 <!ENTITY acceptCookies.label "Sivustot saavat asettaa evästeitä">
 <!ENTITY acceptCookies.accesskey "v">
 <!ENTITY acceptThirdParty.pre.label "Salli kolmannen osapuolen evästeet:">

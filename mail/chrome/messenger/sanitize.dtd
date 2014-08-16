@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Yksityiskohdat">
 <!ENTITY detailsProgressiveDisclosure.accesskey "Y">
 
+<!ENTITY itemHistory.label                 "Selaushistoria">
+<!ENTITY itemHistory.accesskey             "S">
 <!ENTITY itemCookies.label                 "Evästeet">
 <!ENTITY itemCookies.accesskey             "E">
 <!ENTITY itemCache.label                   "Väliaikaistiedostot">
