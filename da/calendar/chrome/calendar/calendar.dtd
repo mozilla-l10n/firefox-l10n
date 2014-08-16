@@ -21,37 +21,37 @@
 <!ENTITY calendar.events.filter.future.label "Alle fremtidige begivenheder">
 <!ENTITY calendar.events.filter.current.label "Aktuel markeret dag">
 <!ENTITY calendar.events.filter.currentview.label "Begivenheder i aktuel visning">
-<!ENTITY calendar.events.filter.next7Days.label "Begivenheder for de næste 7 dage">
-<!ENTITY calendar.events.filter.next14Days.label "Begivenheder for de næste 14 dage">
-<!ENTITY calendar.events.filter.next31Days.label "Begivenheder for de næste 31 dage">
+<!ENTITY calendar.events.filter.next7Days.label "Begivenheder i de næste 7 dage">
+<!ENTITY calendar.events.filter.next14Days.label "Begivenheder i de næste 14 dage">
+<!ENTITY calendar.events.filter.next31Days.label "Begivenheder i de næste 31 dage">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Begivenheder for denne kalendermåned">
 
 <!ENTITY calendar.unifinder.tree.done.label "Færdig">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Klik for at sortere efter færdig">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Sorter efter færdig">
 <!ENTITY calendar.unifinder.tree.priority.label "Prioritet">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klik for at sortere efter prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sorter efter prioritet">
 <!ENTITY calendar.unifinder.tree.title.label "Titel">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Klik for at sortere efter titel">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Sorter efter titel">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; færdig">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klik for at sortere efter  &#37; færdig">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sorter efter &#37; færdig">
 <!ENTITY calendar.unifinder.tree.startdate.label "Start">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klik for at sortere efter  start">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sorter efter start">
 <!ENTITY calendar.unifinder.tree.enddate.label "Slut">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klik for at sortere efter slut">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sorter efter slut">
 <!ENTITY calendar.unifinder.tree.duedate.label "Forfalder">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klik for at sortere efter forfalder">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sorter efter forfalder">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Færdiggjort">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klik for at sortere efter færdiggjort">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sorter efter færdiggjort">
 <!ENTITY calendar.unifinder.tree.categories.label "Kategori">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klik for at sortere efter kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sorter efter kategori">
 <!ENTITY calendar.unifinder.tree.location.label "Sted">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Klik for at sortere efter sted">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Sorter efter sted">
 <!ENTITY calendar.unifinder.tree.status.label "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Klik for at sortere efter status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Sorter efter status">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Kalendernavn">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klik for at sortere efter kalendernavn">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter efter kalendernavn">
 <!ENTITY calendar.unifinder.tree.duration.label "Varighed">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klik for at sortere efter varighed">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter efter varighed">
 <!ENTITY calendar.unifinder.close.tooltip "Luk begivenhedssøgning og begivenhedsoversigten">
 
 <!ENTITY calendar.today.button.tooltip "Gå til i dag">
@@ -86,8 +86,7 @@
 <!ENTITY calendar.newevent.button.label "Ny begivenhed">
 <!ENTITY calendar.newtask.button.label "Ny opgave">
 <!ENTITY calendar.print.button.label "Udskriv">
-
-<!ENTITY calendar.export.calendar "Eksporter kalender…">
+<!ENTITY calendar.print.button.accesskey        "U">
 
 <!ENTITY calendar.day.button.label "Dag">
 <!ENTITY calendar.week.button.label "Uge">
@@ -130,8 +129,6 @@
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Aktive opgaver">
 <!ENTITY calendar.task.filter.current.accesskey     "k">
-<!ENTITY calendar.task.filter.repeating.label       "Gentagende opgaver">
-<!ENTITY calendar.task.filter.repeating.accesskey   "G">
 
 <!ENTITY calendar.task-details.title.label "Titel">
 <!ENTITY calendar.task-details.organizer.label "Fra">
@@ -153,9 +150,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Opgavefilter… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Skift+F&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;F&gt;">
-
-<!-- Statusbar -->
-<!ENTITY statusText.label "Dokument: Færdig">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label "Åbn">
@@ -231,7 +225,6 @@
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
 <!ENTITY calendar.taskview.delete.label     "Slet">
-<!ENTITY calendar.taskview.delete.accesskey "S">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Ny kalender">
@@ -337,7 +330,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valgte begivenheder/opgaver">
 <!ENTITY calendar.print.tasks.label "Opgaver">
 <!ENTITY calendar.print.events.label "Begivenheder">
-<!ENTITY calendar.print.selected.label "Valgte begivenheder">
 <!ENTITY calendar.print.custom.label "Valgfrit tidsrum">
 <!ENTITY calendar.print.from.label "Fra:">
 <!ENTITY calendar.print.to.label "Til:">

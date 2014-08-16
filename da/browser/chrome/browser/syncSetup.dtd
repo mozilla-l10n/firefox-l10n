@@ -33,8 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "V">
 <!ENTITY setup.confirmPassword.label     "Bekræft adgangskode">
 <!ENTITY setup.confirmPassword.accesskey "a">
-
-<!ENTITY setup.setupMetro.label     "Synkroniser med Windows 8-stil &brandShortName;">
+<!ENTITY setup.setupMetro.label     "Sync med &brandShortName; til Windows 8 Touch">
 <!ENTITY setup.setupMetro.accesskey "S">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are

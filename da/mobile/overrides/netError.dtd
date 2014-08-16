@@ -44,7 +44,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Webadresser skrives normalt som
-    <strong>http://www.example.com/</strong></li>
+    <strong>http://www.eksempel.dk/</strong></li>
   <li>Sørg for at du ikke benytter divisionstegn (dvs.
     <strong>/</strong>).</li>
 </ul>
@@ -56,7 +56,7 @@
 <!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Offline-tilstand">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Prøv igen. &brandShortName; vil forsøge at genindlæse siden.</li>
@@ -83,8 +83,8 @@
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Adressen kunne ikke forstås">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
@@ -125,10 +125,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Kontakt venligst ejeren af webstedet omkring dette problem. Alternativt kan du bruge funktionen i Hjælp-menuen til at fejlmelde dette websted.</li>
+  <li>Informer ejeren af webstedet om problemet.</li>
 </ul>
 ">
 

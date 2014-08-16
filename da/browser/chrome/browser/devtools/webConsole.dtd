@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Logfør CSS parser-fejl">
+<!ENTITY btnPageCSS.tooltip2 "Logfør CSS-fejl og -advarsler">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Logfør JavaScript-undtagelser">
@@ -68,15 +68,17 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Logning">
 <!ENTITY btnPageLogging.tooltip "Logfør beskeder sendt til window.console-objektet">
-<!ENTITY btnPageLogging.accesskey2 "L">
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Fejl">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Advarsler">
 <!ENTITY btnConsoleLog          "Log">
+<!ENTITY btnConsoleReflows      "Reflows">
 
 <!ENTITY filterOutput.placeholder "Filtrer output">
 <!ENTITY btnClear.label        "Ryd">
 <!ENTITY btnClear.tooltip      "Ryd webkonsollen">
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -93,5 +95,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
 <!ENTITY clearOutputCtrl.key  "L">

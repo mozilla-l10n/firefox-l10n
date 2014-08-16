@@ -8,8 +8,9 @@
 <!ENTITY muteButton.unmuteLabel "Slå lyd til">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fuld skærm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Forlad fuld skærm">
+<!ENTITY castingButton.castingLabel "Afspil på fuld skærm">
 
-<!ENTITY stats.media "Medie">
+<!ENTITY stats.media "Medieindhold">
 <!ENTITY stats.size "Størrelse">
 <!ENTITY stats.activity "Aktivitet">
 <!ENTITY stats.activityPaused "Pauset">

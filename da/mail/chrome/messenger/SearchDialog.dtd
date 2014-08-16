@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey "l">
 <!ENTITY searchDialogTitle.label "Søg i meddelelser">
 <!ENTITY results.label "Resultater">
-<!ENTITY moveHereMenu.label          "Flyt hertil">
-<!ENTITY moveHereMenu.accesskey      "h">
 <!ENTITY moveButton.label            "Flyt til">
 <!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Modtagelsesorden">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Vælg hvilke kolonner der skal vises">
-<!ENTITY threadColumn.tooltip "Vis meddelelser i tråde">
-<!ENTITY fromColumn.tooltip "Sorter efter afsender">
-<!ENTITY recipientColumn.tooltip "Sorter efter modtager">
-<!ENTITY subjectColumn.tooltip "Sorter efter emne">
-<!ENTITY dateColumn.tooltip "Sorter efter dato">
-<!ENTITY priorityColumn.tooltip "Sorter efter prioritet">
-<!ENTITY tagsColumn.tooltip "Sorter efter mærkater">
-<!ENTITY accountColumn.tooltip "Sorter efter konto">
-<!ENTITY statusColumn.tooltip "Sorter efter status">
-<!ENTITY sizeColumn.tooltip "Sorter efter størrelse">
-<!ENTITY junkStatusColumn.tooltip "Sorter efter spam-status">
-<!ENTITY unreadColumn.tooltip "Antal af ulæste meddelelser i tråden">
-<!ENTITY totalColumn.tooltip "Total antal af meddelelser i tråden">
-<!ENTITY readColumn.tooltip "Sorter efter læst">
-<!ENTITY receivedColumn.tooltip "Sorter efter modtaget-dato">
-<!ENTITY locationColumn.tooltip "Sorter efter placering">
-<!ENTITY idColumn.tooltip "Sorter efter modtagelsesorden">
-<!ENTITY starredColumn.tooltip "Sorter efter stjernemarkering">
+<!ENTITY columnChooser2.tooltip "Vælg hvilke kolonner der skal vises">
+<!ENTITY threadColumn2.tooltip "Vis meddelelser i tråde">
+<!ENTITY fromColumn2.tooltip "Sorter efter afsender">
+<!ENTITY recipientColumn2.tooltip "Sorter efter modtager">
+<!ENTITY subjectColumn2.tooltip "Sorter efter emne">
+<!ENTITY dateColumn2.tooltip "Sorter efter dato">
+<!ENTITY priorityColumn2.tooltip "Sorter efter prioritet">
+<!ENTITY tagsColumn2.tooltip "Sorter efter mærkater">
+<!ENTITY accountColumn2.tooltip "Sorter efter konto">
+<!ENTITY statusColumn2.tooltip "Sorter efter status">
+<!ENTITY sizeColumn2.tooltip "Sorter efter størrelse">
+<!ENTITY junkStatusColumn2.tooltip "Sorter efter spam-status">
+<!ENTITY unreadColumn2.tooltip "Antal af ulæste meddelelser i tråden">
+<!ENTITY totalColumn2.tooltip "Total antal af meddelelser i tråden">
+<!ENTITY readColumn2.tooltip "Sorter efter læst">
+<!ENTITY receivedColumn2.tooltip "Sorter efter modtagelsesdato">
+<!ENTITY starredColumn2.tooltip "Sorter efter stjernemarkering">
+<!ENTITY locationColumn2.tooltip "Sorter efter placering">
+<!ENTITY idColumn2.tooltip "Sorter efter modtagelsesorden">

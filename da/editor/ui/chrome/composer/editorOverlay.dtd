@@ -17,7 +17,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Indsæt som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Find i denne meddelelse…">
+<!ENTITY findBarCmd.label "Søg…">
+<!ENTITY findReplaceCmd.label "Søg og erstat…">
 <!ENTITY enableInlineSpellChecker.label "Løbende stavekontrol">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Stavekontrol…">
@@ -40,6 +41,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertMathCmd.label "Matematisk…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Tegn og symboler…">
 <!ENTITY insertCharsCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Linjeskift under billede">

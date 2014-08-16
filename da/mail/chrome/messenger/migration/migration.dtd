@@ -5,7 +5,7 @@
 <!ENTITY migrationWizard.title "Importguide">
 
 <!ENTITY importFromWin.label "Importer indstillinger, kontoindstillinger, adressebøger og andre data fra:">
-<!ENTITY importFromNonWin.label "Importer præferencer, kontoindstillinger, adressebøger og andre data fra:">
+<!ENTITY importFromNonWin.label "Importer indstillinger, kontoindstillinger, adressebøger og andre data fra:">
 
 <!ENTITY importFromNothing.label "Importer ikke">
 <!ENTITY importFromNothing.accesskey "i">
