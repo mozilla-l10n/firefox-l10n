@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey  "K">
 <!ENTITY bookmarksToolbarItem.label  "Kirjanmerkkipalkin linkit">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Päivitä kaikki välilehdet">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ä">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Kumoa Sulje välilehti">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
+
 <!ENTITY pageSourceCmd.label  "Sivun lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey  "n">
 <!ENTITY pageSourceCmd.commandkey  "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "App Manager">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -700,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Jaettava kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Jaettava ikkuna tai näyttö:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "i">
 <!ENTITY getUserMedia.selectMicrophone.label "Jaettava mikrofoni:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.allWindowsShared.message "Kaikki näkyvissä olevat ikkunat jaetaan.">
 
 <!ENTITY webrtcIndicatorButton.label "Kameran / mikrofonin käyttöoikeudet">
 <!ENTITY webrtcIndicatorButton.tooltip "Näytä sivustot, joiden olet sallinut käyttävän tietokoneesi kameraa tai mikrofonia">
+
+<!ENTITY loopCallButton.tooltip "Kutsu joku keskustelemaan kanssasi">
 
 <!ENTITY mixedContentBlocked.moreinfo "Useimmissa tapauksissa sivusto toimii tarkoitetusti huolimatta sisällön estämisestä.">
 
