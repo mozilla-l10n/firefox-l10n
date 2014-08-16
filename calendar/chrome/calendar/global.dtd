@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Fredag">
 <!ENTITY day.7.name "Lørdag">
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute "minut">
-<!ENTITY calendar.global.units.minutes "minutter">
-<!ENTITY calendar.global.units.hour "time">
-<!ENTITY calendar.global.units.hours "timer">
-<!ENTITY calendar.global.units.day "dag">
-<!ENTITY calendar.global.units.days "dage">
-
 <!ENTITY month.1.name "Januar">
 <!ENTITY month.2.name "Februar">
 <!ENTITY month.3.name "Marts">

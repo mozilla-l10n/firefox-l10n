@@ -5,12 +5,10 @@
 <!ENTITY event.title.label "Rediger element">
 
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Behold varighed, når du ændrer slutdato">
-
 <!ENTITY event.dialog.keepDurationButton.accesskey "V">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
-<!ENTITY newevent.attendees.notify.label "Send meddelelse til deltagerne">
 
 <!ENTITY newevent.status.label "Status">
 <!ENTITY newevent.status.accesskey "S">
@@ -30,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label "&#037; færdig">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Send meddelelse til deltagerne">
+<!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "B">
@@ -100,12 +105,6 @@
 <!ENTITY event.menu.options.accesskey "I">
 <!ENTITY event.menu.options.attendees.label "Inviter deltagere…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
-<!ENTITY event.menu.options.spellcheck.label "Stavekontrol…">
-<!ENTITY event.menu.options.spellcheck.accesskey "S">
-<!ENTITY event.menu.options.inline.spellcheck.label "Løbende stavekontrol">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "L">
-<!ENTITY event.menu.options.link.label "Tilføj link…">
-<!ENTITY event.menu.options.link.accesskey "L">
 <!ENTITY event.menu.options.timezone2.label "Tidszone">
 <!ENTITY event.menu.options.timezone2.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Prioritet">
@@ -144,8 +143,16 @@
 <!ENTITY event.toolbar.save.label "Gem og luk">
 <!ENTITY event.toolbar.delete.label "Slet">
 <!ENTITY event.toolbar.attendees.label "Inviter deltagere">
-<!ENTITY event.toolbar.spellcheck.label "Stavekontrol">
 <!ENTITY  event.toolbar.privacy.label "Privatliv">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Gem og luk">
+<!ENTITY  event.toolbar.delete.tooltip                    "Slet">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltagere">
+<!ENTITY  event.toolbar.attachments.tooltip               "Tilføj vedhæftede filer">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Skift privatlivsindstilling">
+<!ENTITY  event.toolbar.priority.tooltip                  "Skift vigtighed">
+<!ENTITY  event.toolbar.status.tooltip                    "Skift status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Skift ledig-/optaget tid">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
@@ -155,7 +162,6 @@
 <!ENTITY event.categories.label "Kategori:">
 <!ENTITY event.categories.accesskey "K">
 <!ENTITY event.categories.textbox.label "Tilføj en ny kategori" >
-<!ENTITY event.categories.textbox.accesskey "ø">
 <!ENTITY event.calendar.label "Kalender:">
 <!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Deltagere:">
@@ -217,6 +223,9 @@
 <!ENTITY event.reminder.custom.label "Andet…">
 
 <!ENTITY event.reminder.multiple.label "Flere påmindelser…">
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privatliv:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Rediger gentagelse">
@@ -328,12 +337,12 @@
 <!ENTITY invite.title.label "Inviter deltagere">
 <!ENTITY event.organizer.label "Arrangør">
 <!ENTITY event.freebusy.suggest.slot "Foreslå tidsperiode:">
-<!ENTITY event.freebusy.next.slot "Næste  mulighed">
-<!ENTITY event.freebusy.previous.slot "Forrige mulighed">
+<!ENTITY event.freebusy.button.next.slot        "Næste  mulighed">
+<!ENTITY event.freebusy.button.previous.slot    "Forrige mulighed">
 <!ENTITY event.freebusy.zoom "Zoom:">
 <!ENTITY event.freebusy.legend.free "Ledig">
 <!ENTITY event.freebusy.legend.busy "Optaget">
-<!ENTITY event.freebusy.legend.busy_tentative "Gentagelse">
+<!ENTITY event.freebusy.legend.busy_tentative "Foreløbig">
 <!ENTITY event.freebusy.legend.busy_unavailable "Ikke til stede">
 <!ENTITY event.freebusy.legend.unknown "Ingen information">
 <!ENTITY event.attendee.role.required "Nødvendig deltager">
@@ -361,12 +370,11 @@
 <!ENTITY read.only.category.label "Kategori:">
 <!ENTITY read.only.organizer.label "Arrangør:">
 <!ENTITY read.only.reply.label "Svar:">
-<!ENTITY read.only.accept.label "Jeg vil deltage">
-<!ENTITY read.only.decline.label "Jeg vil ikke deltage">
-<!ENTITY read.only.tentative.label "Jeg vil måske deltage">
-<!ENTITY read.only.needs.action.label "Jeg vil bekræfte senere">
+<!ENTITY read.only.accept.label "Jeg deltager">
+<!ENTITY read.only.decline.label "Jeg deltager ikke">
+<!ENTITY read.only.tentative.label "Jeg deltager måske">
+<!ENTITY read.only.needs.action.label "Jeg bekræfter senere">
 <!ENTITY read.only.reminder.label "Påmindelse:">
 <!ENTITY read.only.attendees.label "Deltagere">
 <!ENTITY read.only.description.label "Beskrivelse">
-<!ENTITY read.only.documents.label "Dokumenter">
 <!ENTITY read.only.link.label "Relateret link">

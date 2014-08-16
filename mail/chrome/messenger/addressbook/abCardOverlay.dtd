@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label 					"Ukendt">
 <!ENTITY chatName.label                 "Chat-navn:">
 
-<!ENTITY allowRemoteContent1.label      "Tillad eksternt indhold.">
-<!ENTITY allowRemoteContent1.accesskey  "T">
-<!ENTITY allowRemoteContent1.tooltip    "Der er muligt, at indlejre indhold fra eksterne kilder i en meddelelse. Åbning af sådan en meddelelse, åbner en forbindelse til denne eksterne kilde. Dette giver mulighed for, at spore om meddelelsen bliver læst. Markering af denne boks tillader sådan eksternt indlejret indhold i HTML-meddelelser fra denne kontakt.">
-
 <!ENTITY WorkPhone.label 				"Arbejdstelefon:">
 <!ENTITY WorkPhone.accesskey 			"A">
 <!ENTITY HomePhone.label 				"Hjemmetelefon:">

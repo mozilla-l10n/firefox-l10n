@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "Enhed">
 <!ENTITY index.help "Hjælp">
 
+<!ENTITY device.debugMainProcess "Debug hovedproces">
+<!ENTITY device.debugMainProcessTooltip "Åbn udviklerværktøjerne forbundet til enhedens hovedproces">
 <!ENTITY device.screenshot "Skærmbillede">
 <!ENTITY device.screenshotTooltip "Åbn et skærmbillede af enhedens nuværende tilstand i et nyt faneblad">
 <!ENTITY device.title "Kontrolcenter for enhed">
@@ -16,10 +18,10 @@
 <!ENTITY device.stopApp "Stop">
 <!ENTITY device.stopAppTooltip "Stop denne app på enheden.">
 <!ENTITY device.debugApp "Debug">
-<!ENTITY device.debugAppTooltip "Åbn Udviklerværktøj forbundet til denne app på enheden">
+<!ENTITY device.debugAppTooltip "Åbn udviklerværktøj forbundet til denne app på enheden">
 <!ENTITY device.name "Navn">
-<!ENTITY device.app "App">
-<!ENTITY device.privileged "Priviligeret">
+<!ENTITY device.plain "Almindelig (standard)">
+<!ENTITY device.privileged "Privilegeret">
 <!ENTITY device.certified "Certificeret">
 <!ENTITY device.allow "Tillad">
 <!ENTITY device.allowTooltip "Denne tilladelse gælder for apps af denne type.">
@@ -32,6 +34,10 @@
 <!ENTITY device.permissions "Tilladelser">
 <!ENTITY device.permissionsTooltip "Vis en tabel med de tilladelser, der gælder for de forskellige typer af apps.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Browser-faneblade">
+<!ENTITY device.browserTabsTooltip "Se en liste over faneblade i den forbundne enhed.">
+<!ENTITY device.debugBrowserTab "Debug">
+<!ENTITY device.debugBrowserTabTooltip "Åbn udviklerværktøjerne forbundet til dette faneblad på enheden.">
 <!ENTITY device.help "Hjælp">
 
 <!ENTITY connection.connectTooltip "Opret forbindelse til denne enhed.">
@@ -57,6 +63,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Installer en version af Simulator ved at hente den relevante tilføjelse.">
 <!ENTITY connection.installAnotherSimulator "Tilføj">
 <!ENTITY connection.installAnotherSimulatorTooltip "Installer en yderligere version af Simulator ved at hente den relevante tilføjelse.">
+<!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Lokale apps">
 <!ENTITY projects.addApp "Tilføj">
@@ -70,9 +77,20 @@
 <!ENTITY projects.updateApp "Opdater">
 <!ENTITY projects.updateAppTooltip "Udfør valideringskontrol og opdater app'en til den forbundne enhed">
 <!ENTITY projects.debugApp "Debug">
-<!ENTITY projects.debugAppTooltip "Åbn Udviklerværktøj forbundet til denne enhed">
-<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.debugAppTooltip "Åbn udviklerværktøj forbundet til denne enhed">
+<!ENTITY projects.saveManifest "Gem">
+<!ENTITY projects.saveManifestTooltip "Gem manifest-indholdet nedenfor">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://eksempel.dk/app/manifest.webapp">
 <!ENTITY projects.noProjects "Ingen projekter. Tilføj en ny pakket app (lokal mappe) eller en hosted app (link til en manifest-fil).">
+<!ENTITY projects.manifestEditor "Rediger manifest">
+<!ENTITY projects.manifestEditorTooltip "Rediger din apps manifest i panelet nedenfor. Klik på knappen Opdater for at gemme ændringer og opdatere din app.">
+<!ENTITY projects.manifestViewer "Vis manifest">
+<!ENTITY projects.manifestViewerTooltip "Se manifestet for din app nedenfor.">
+<!ENTITY projects.valid "Gyldigt">
+<!ENTITY projects.error "Fejl">
+<!ENTITY projects.warning "Advarsel">
+<!ENTITY projects.hosted "Hosted">
+<!ENTITY projects.packaged "Pakket">
 
 <!ENTITY help.title "App-manager">
 <!ENTITY help.close "Luk">

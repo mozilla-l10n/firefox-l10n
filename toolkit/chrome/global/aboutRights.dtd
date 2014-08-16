@@ -21,7 +21,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Nogle funktioner i &brandShortName;, såsom Crash Reporter, giver dig mulighed for at give feedback til  &vendorShortName;. Ved at vælge at sende feedback giver du &vendorShortName; tilladelse til at bruge de givne informationer til at forbedre deres produkter, offenliggøre disse på deres webside(r) samt at videredistribuere disse frit.">
+<!ENTITY rights.intro-point2.5 "Nogle funktioner i &brandShortName;, såsom Fejlrapportør, giver dig mulighed for at give feedback til  &vendorShortName;. Ved at vælge at sende feedback giver du &vendorShortName; tilladelse til at bruge de givne informationer til at forbedre deres produkter, offenliggøre disse på deres webside(r) samt at videredistribuere disse frit.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Hvordan vi bruger dine personlige oplysninger og indsendt feedback til &vendorShortName; med  &brandShortName; er beskrevet i ">
@@ -58,7 +58,7 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Deaktivering af Safe Browsing funktionen er ikke anbefalet da det kan resultere i at du besøger usikre websteder. Hvis du ønsker at deaktivere denne funktion fuldstændigt, kan dette gøres ved følgene trin:">
-<!ENTITY rights.safebrowsing-term1 "Åbn programmets indstillinger/præferencer">
+<!ENTITY rights.safebrowsing-term1 "Åbn programmets indstillinger">
 <!ENTITY rights.safebrowsing-term2 "Vælg gruppen Sikkerhed">
 <!ENTITY rights.safebrowsing-term3 "Fjern markeringerne &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing er nu deaktiveret">

@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
 
+<!ENTITY appmenu.tooltip                     "Åbn menu">
+<!ENTITY navbarOverflow.label                "Flere værktøjer…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Genindlæs faneblad">
 <!ENTITY  reloadTab.accesskey                "e">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Fortryd lukning af faneblad">
 <!ENTITY  undoCloseTab.accesskey             "l">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Fortryd lukning af faneblade">
 <!ENTITY  closeTab.label                     "Luk faneblad">
 <!ENTITY  closeTab.accesskey                 "u">
 
@@ -59,8 +57,10 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Nyt faneblad">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Åbn adresse…">
-<!ENTITY openLocationCmd.accesskey "Å">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Åbn…">
 <!ENTITY openFileCmd.label "Åbn fil…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
@@ -78,13 +78,9 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY menubarCmd.label "Menulinje">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigationslinje">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bogmærkelinje">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bogmærkelinje-elementer">
-
-<!ENTITY addonBarCmd.label "Tilføjelseslinje">
-<!ENTITY addonBarCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Sidens kildekode">
 <!ENTITY pageSourceCmd.accesskey "k">
@@ -103,6 +99,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Vis alle faneblade">
 <!ENTITY showAllTabsCmd.accesskey "a">
+
+<!ENTITY fxaSignIn.label "Log ind på &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; er aktiveret">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; begynder straks at synkronisere.">
+<!ENTITY syncErrorPanel.heading "Kan ikke oprettelse forbindelse til &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Log ind for at fortsætte synkronisering.">
+<!ENTITY syncErrorPanel.signInButton.label "Log ind">
+<!ENTITY syncErrorPanel.signInButton.accesskey "L">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gendan">
@@ -124,6 +130,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Bogmærker">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
+<!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Del denne side">
@@ -137,6 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "D">
 <!ENTITY shareVideoCmd.label "Del denne video">
 <!ENTITY shareVideoCmd.accesskey "D">
+<!ENTITY feedsMenu.label "Abonner">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
@@ -145,49 +153,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 
 <!ENTITY backCmd.label                "Tilbage">
-<!ENTITY backCmd.accesskey            "T">
 <!ENTITY backButton.tooltip           "Gå en side tilbage">
 <!ENTITY forwardCmd.label             "Fremad">
-<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå en side fremad">
 <!ENTITY backForwardButtonMenu.tooltip "Højreklik eller træk ned for at vise historik">
 <!ENTITY backForwardButtonMenuMac.tooltip "Træk ned for at vise historik">
 <!ENTITY reloadCmd.label              "Genindlæs">
-<!ENTITY reloadCmd.accesskey          "G">
 <!ENTITY reloadButton.tooltip         "Genindlæs nuværende side">
 <!ENTITY stopCmd.label                "Stop">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stop indlæsningen af denne side">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
-<!ENTITY backForwardItem.title        "Frem/Tilbage">
+<!ENTITY viewBookmarksSidebar2.label   "Vis i sidepanelet">
 <!ENTITY locationItem.title           "Adressefelt">
 <!ENTITY searchItem.title             "Søgefelt">
-<!ENTITY throbberItem.title           "Aktivitetsindikator">
-<!ENTITY bookmarksItem.title          "Bogmærker">
 
 <!-- Toolbar items -->
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Åbn &brandShortName;-menuen">
 <!ENTITY homeButton.label             "Hjem">
 
 <!ENTITY tabGroupsButton.label        "Fanebladsgrupper">
-<!ENTITY tabGroupsButton.tooltip      "Organiser dine faneblade">
-
-<!ENTITY feedButton.label             "Abonner">
-<!ENTITY feedButton.tooltip           "Abonner på denne side…">
 
 <!ENTITY bookmarksButton.label          "Bogmærker">
-<!ENTITY bookmarksButton.tooltip        "Vis dine bogmærker">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bogmærker">
-<!ENTITY bookmarksMenuButton.tooltip        "Vis dine bogmærker">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterede bogmærker">
-<!ENTITY viewBookmarksSidebar.label         "Vis i sidebjælke">
+<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanelet">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -197,7 +191,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey     "i">
 
 <!ENTITY historyButton.label            "Historik">
-<!ENTITY historyButton.tooltip          "Vis de sider, du senest har besøgt">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Funktioner">
@@ -206,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Tilføj et stikord til denne søgning…">
 <!ENTITY keywordfield.accesskey       "s">
 <!ENTITY downloads.label              "Filhentning">
-<!ENTITY downloads.tooltip            "Vis status for filhentning">
 <!ENTITY downloads.accesskey          "F">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -229,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Remote webkonsol">
 
 <!ENTITY browserConsoleCmd.label      "Browserkonsol">
-<!ENTITY browserConsoleCmd.commandkey "B">
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "Inspicér element">
@@ -238,6 +230,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Responsivt design-visning">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "Vælg farve">
+<!ENTITY eyedropper.accesskey "f">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -254,9 +249,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "Browser-debugger">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "Browserværktøj">
+<!ENTITY browserToolboxMenu.accesskey "o">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Luk udviklerlinjen">
 <!ENTITY devToolbarMenu.label              "Udviklerlinje">
@@ -267,7 +263,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Vis værktøjer">
 <!ENTITY devToolboxMenuItem.accesskey      "V">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Vis udviklerværktøjer">
@@ -309,8 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Indstillinger">
 <!ENTITY preferencesCmd2.accesskey     "I">
-<!ENTITY preferencesCmdUnix.label       "Præferencer">
-<!ENTITY preferencesCmdUnix.accesskey     "P">
+<!ENTITY preferencesCmdUnix.label       "Indstillinger">
+<!ENTITY preferencesCmdUnix.accesskey     "I">
 
 <!ENTITY clearRecentHistory.label               "Ryd seneste historik…">
 
@@ -322,12 +317,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
-<!ENTITY viewSidebarMenu.label "Sidebjælke">
-<!ENTITY viewSidebarMenu.accesskey "b">
+<!ENTITY viewSidebarMenu.label "Sidepanel">
+<!ENTITY viewSidebarMenu.accesskey "S">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
-<!ENTITY viewTabsOnTop.label            "Faneblade øverst">
-<!ENTITY viewTabsOnTop.accesskey        "ø">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "i">
@@ -337,18 +330,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Genskab forrige session">
 
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
-<!ENTITY showAllHistoryCmd.commandkey "V">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Rediger">
 <!ENTITY appMenuCustomize.label "Tilpas">
-<!ENTITY appMenuToolbarLayout.label "Tilpas værktøjslinjer…">
-<!ENTITY appMenuSidebars.label "Sidebjælker">
-<!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "Usorterede bogmærker">
-<!ENTITY appMenuWebDeveloper.label "Webudvikler">
-<!ENTITY appMenuGettingStarted.label "Kom i gang">
-<!ENTITY appMenuSafeMode.label "Genstart med tilføjelser deaktiveret…">
-<!ENTITY appMenuSafeMode.accesskey "G">
+<!ENTITY appMenuSidebars.label "Sidepaneler">
+
+<!ENTITY appMenuCustomize.label "Tilpas">
+<!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
+<!ENTITY appMenuCustomizeExit.label "Forlad tilpasning">
+<!ENTITY appMenuCustomizeExit.tooltip "Afslut tilpasning">
+<!ENTITY appMenuHistory.label "Historik">
+<!ENTITY appMenuHistory.showAll.label "Vis al historik">
+<!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
+<!ENTITY appMenuHistory.restoreSession.label "Genskab forrige session">
+<!ENTITY appMenuHistory.viewSidebar.label "Vis sidepanelet Historik">
+<!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
+
+<!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
+<!ENTITY customizeMenu.addToToolbar.accesskey "v">
+<!ENTITY customizeMenu.addToPanel.label "Føj til menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToToolbar.label "Flyt til værktøjslinje">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "y">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Flyt til menu">
+<!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!ENTITY customizeMenu.removeFromToolbar.label "Fjern fra værktøjslinje">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "j">
+<!ENTITY customizeMenu.removeFromMenu.label "Fjern fra menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "u">
+<!ENTITY customizeMenu.addMoreItems.label "Tilføj flere elementer…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Søg eller indtast en adresse">
@@ -427,13 +443,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Brug som skrivebordsbaggrund…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "B">
 <!ENTITY bookmarkPageCmd2.label       "Bogmærk denne side">
-<!ENTITY bookmarkPageCmd2.accesskey   "B">
 <!ENTITY bookmarkThisLinkCmd.label      "Bogmærk dette link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bogmærk denne ramme">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send link…">
 <!ENTITY emailPageCmd.accesskey       "l">
+<!ENTITY switchToMetroCmd2.label      "Genstart &brandShortName; til Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Gem side som…">
 <!ENTITY savePageCmd.accesskey        "m">
 <!-- alternate for content area context menu -->
@@ -550,22 +566,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Åbn et nyt faneblad">
-<!ENTITY newWindowButton.tooltip        "Åbn et nyt vindue">
-<!ENTITY sidebarCloseButton.tooltip     "Luk sidebjælke">
-
-<!ENTITY cutButton.tooltip              "Klip">
-<!ENTITY copyButton.tooltip             "Kopier">
-<!ENTITY pasteButton.tooltip            "Indsæt">
-
-<!ENTITY fullScreenButton.tooltip       "Vis vinduet i fuldskærmstilstand">
-
-<!ENTITY zoomOutButton.tooltip          "Zoom ud">
-<!ENTITY zoomInButton.tooltip           "Zoom ind">
-<!ENTITY zoomControls.label             "Zoom-knapper">
+<!ENTITY sidebarCloseButton.tooltip     "Luk sidepanel">
 
 <!ENTITY quitApplicationCmdWin.label       "Afslut">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
+<!ENTITY quitApplicationCmdWin.tooltip     "Afslut &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Afslut">
@@ -591,7 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediger præferencer for blokering af pop op-vinduer…">
+<!ENTITY editPopupSettingsUnix.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
@@ -609,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Tilføj ordbøger…">
 <!ENTITY spellAddDictionaries.accesskey "o">
@@ -636,6 +642,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.permissions "Tilladelser">
 
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!ENTITY identity.help.tooltip "Hvordan kan jeg se, om min forbindelse til et websted er sikker?">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Faneblade">
@@ -649,18 +660,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "y">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nu">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Genopret forbindelse til &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "G">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Luk tilføjelseslinje">
-<!ENTITY toggleAddonBarCmd.key        "'">
-
 <!ENTITY socialToolbar.title        "Social værktøjsknap">
-<!ENTITY social.notLoggedIn.label   "Ikke logget ind">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Vis sidebjælke">
+<!ENTITY social.toggleSidebar.label "Vis sidepanel">
 <!ENTITY social.toggleSidebar.accesskey "V">
 
 <!ENTITY social.addons.label "Administrer tjenester…">
@@ -674,6 +683,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Læs mere…">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Ikke nu">
+
+
+<!ENTITY customizeMode.tabTitle "Tilpas &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Flere værktøjer og funktioner">
+<!ENTITY customizeMode.menuAndToolbars.empty "Vil du have flere værktøjer">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vælg fra tusindvis af tilføjelser">
+<!ENTITY customizeMode.restoreDefaults "Gendan oprindelige indstillinger">
+<!ENTITY customizeMode.toolbars "Vis / skjul værktøjslinjer">
+<!ENTITY customizeMode.titlebar "Titellinje">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Flyt fokus til chats">
@@ -692,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Adgang til kamera/mikrofon">
 <!ENTITY webrtcIndicatorButton.tooltip "Vis de websteder, som du i øjeblikket deler dit kamera og/eller din mikrofon med">
 
-<!ENTITY mixedContentBlocked.helplink "Læs mere">
 <!ENTITY mixedContentBlocked.moreinfo "De fleste websteder vil stadig fungere korrekt, selvom dette indhold er blokeret.">
 
 <!ENTITY pointerLock.notification.message "Tryk på ESC for at få den vist igen.">
@@ -717,3 +734,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Fortæl &vendorShortName; om dette, så de kan ordne problemet.">
 <!ENTITY tabCrashed.tryAgain "Prøv igen">
 
+<!ENTITY uiTour.infoPanel.close "Luk">

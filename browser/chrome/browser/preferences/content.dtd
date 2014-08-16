@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  popups.label                "Pop op-vinduer">
 
 <!ENTITY  blockPopups.label           "Bloker pop op-vinduer">
 <!ENTITY  blockPopups.accesskey       "B">
@@ -25,3 +26,8 @@
 <!ENTITY chooseLanguage.label         "Vælg dit fortrukne sprog at få vist sider i">
 <!ENTITY chooseButton.label           "Vælg…">
 <!ENTITY chooseButton.accesskey       "æ">
+
+<!ENTITY translateWebPages.label      "Oversæt webindhold">
+<!ENTITY translateWebPages.accesskey  "O">
+<!ENTITY translateExceptions.label    "Undtagelser…">
+<!ENTITY translateExceptions.accesskey "n">

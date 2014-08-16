@@ -27,9 +27,9 @@
 <!ENTITY font.langGroup.latin1                    "Vestlig">
 <!ENTITY font.langGroup.latin2                    "Centraleuropæisk">
 <!ENTITY font.langGroup.japanese                  "Japansk">
-<!ENTITY font.langGroup.trad-chinese              "Traditionelt kinesisk (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese             "Forenklet kinesisk">
-<!ENTITY font.langGroup.trad-chinese-hk           "Traditionelt kinesisk (Hong Kong)">
+<!ENTITY font.langGroup.trad-chinese              "Kinesisk, traditionelt (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese             "Kinesisk, forenklet">
+<!ENTITY font.langGroup.trad-chinese-hk           "Kinesisk, traditionelt (Hong Kong)">
 <!ENTITY font.langGroup.korean                    "Koreansk">
 <!ENTITY font.langGroup.cyrillic                  "Kyrillisk">
 <!ENTITY font.langGroup.baltic                    "Baltisk">

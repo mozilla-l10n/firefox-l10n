@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+<!ENTITY getUserMediaDialog.title                 "Deling af kamera og mikrofon">
+<!ENTITY getUserMediaDialog.button.accept.label     "Del">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Fortryd">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "F">
+
+<!ENTITY getUserMediaDialog.video.label           "Vælg kamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "Ingen video">
+<!ENTITY getUserMediaDialog.audio.label           "Vælg mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio         "Ingen lyd">

@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente websiden">
 <!ENTITY quickMode.accesskey "V">
 
+<!ENTITY autotagEnable.label         "Opret automatisk mærkater fra &lt;category&gt;-navne i feeds">
+<!ENTITY autotagEnable.accesskey     "P">
+<!ENTITY autotagUsePrefix.label      "Forsyn mærkaterne med præfikset:">
+<!ENTITY autotagUsePrefix.accesskey  "S">
+<!ENTITY autoTagPrefix.placeholder   "Indtast et præfiks til mærkaterne">
+
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label "Tjek validering og hent en virkende URL.">
 
@@ -35,3 +41,4 @@
 <!ENTITY button.exportOPML.tooltip   "Eksporter feed med mappestruktur; Brug Ctrl+klik eller Ctrl+Enter til at eksportere feedet som en liste">
 
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label          "Luk">

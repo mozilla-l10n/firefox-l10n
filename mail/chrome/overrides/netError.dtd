@@ -45,7 +45,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Webadresser skrives normalt som
-    <strong>http://www.example.com/</strong></li>
+    <strong>http://www.eksempel.dk/</strong></li>
   <li>Sørg for at du ikke benytter divisionstegn (dvs.
     <strong>/</strong>).</li>
 </ul>
@@ -58,10 +58,10 @@
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Offline-tilstand">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Klik på &quot;Prøv igen&quot; for at skifte til online mode og genindlæse siden.</li>
+  <li>Klik på &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
 </ul>
 ">
 
@@ -85,8 +85,9 @@
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adressen kunne ikke forstås">
-<!ENTITY protocolNotFound.longDesc "
+
+<!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
@@ -125,7 +126,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejeren af webstedet omkring dette problem.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -154,8 +160,8 @@
 <p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en Content Security Policy der forbyder dette.</p>">
 
 <!ENTITY corruptedContentError.title "Fejl i indhold">
 <!ENTITY corruptedContentError.longDesc "<p>Indholdet kan ikke vises på grund af en fejl under overførslen.</p><ul><li>Kontakt afsenderen for at informere om fejlen.</li></ul>">

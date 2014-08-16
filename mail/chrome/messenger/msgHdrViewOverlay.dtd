@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Svar på">
 <!ENTITY originalWebsite4.label "Websted">
 
-<!ENTITY editMessageDescription.label "Denne meddelelse er en kladde">
-<!ENTITY editMessageButton.label "Rediger…">
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meddelelse">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">

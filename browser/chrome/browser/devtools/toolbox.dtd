@@ -10,36 +10,66 @@
 <!ENTITY toolboxCloseButton.tooltip  "Luk udviklerværktøjer">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "Ø">
-<!ENTITY toolboxPreviousTool.key       "Å">
+<!ENTITY toolboxPreviousTool.key       "Æ">
 
 <!ENTITY toolboxZoomIn.key             "+">
 <!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "g">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Avancerede indstillinger">
 
-<!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
-  -  restart label at right of settings that require a browser restart to be
-  -  effective. -->
-<!ENTITY options.context.requiresRestart2  "Kræver genstart af browseren">
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
+<!ENTITY options.context.inspector "Inspektør">
 
-<!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
-  -  restart button next to options.context.requiresRestart2 label. -->
-<!ENTITY options.restartButton.label  "Genstart nu">
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Vis browser-styles">
+<!ENTITY options.showUserAgentStyles.tooltip "Aktivering af dette vil vise de standard-styles, som indlæses af browseren.">
 
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh2  "Kun nuværende session, genindlæser siden">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Standard-farveenhed">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "E">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "Hex">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+<!ENTITY options.defaultColorUnit.name "Farvenavne">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Kun nuværende session, genindlæser siden">
+
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3    "Slå chrome-debugging til">
-<!ENTITY options.enableChrome.tooltip  "Gør dig i stand til at bruge diverse udviklerværktøjer i en browser-kontekst">
+<!ENTITY options.enableChrome.label4    "Slå chrom- og tilføjelses-debugging til">
+<!ENTITY options.enableChrome.tooltip2  "Gør dig i stand til at bruge diverse udviklerværktøjer i en browser-kontekst og debugge tilføjelser fra fanebladet Tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -47,11 +77,17 @@
 <!ENTITY options.enableRemote.label3    "Slå remote debugging til">
 <!ENTITY options.enableRemote.tooltip  "Tillader at udviklerværktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label2    "Slå JavaScript fra">
-<!ENTITY options.disableJavaScript.tooltip   "Denne indstilling slår JavaScript fra i det aktuelle faneblad. Indstillingen vil blive glemt, hvis fanebladet eller Værktøj lukkes.">
+<!ENTITY options.disableJavaScript.label    "Slå JavaScript fra *">
+<!ENTITY options.disableJavaScript.tooltip   "Denne indstilling slår JavaScript fra i det aktuelle faneblad. Indstillingen vil blive glemt, når fanebladet eller Værktøj lukkes.">
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!ENTITY options.disableCache.label     "Slå cache fra *">
+<!ENTITY options.disableCache.tooltip   "Denne indstilling slår cache fra i det aktuelle faneblad. Indstillingen vil blive glemt, når fanebladet eller Værktøj lukkes.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -63,6 +99,11 @@
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 <!ENTITY options.selectAdditionalTools.label  "Udviklerværktøjer installeret af tilføjelser">
+
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
+<!ENTITY options.selectEnabledToolboxButtons.label     "Tilgængelige værktøjsknapper">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
@@ -80,17 +121,42 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Webkonsol">
 
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console,
-  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
-  -  in the options panel. -->
-<!ENTITY options.enablePersistentLogging.label    "Slå vedvarende logning til">
-<!ENTITY options.enablePersistentLogging.tooltip  "Hvis du slår denne indstilling til, ryddes webkonsollens output ikke, når du navigerer til en ny side">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Aktiver tidsstempler">
+<!ENTITY options.timestampMessages.tooltip    "Hvis du aktiverer dette vil der vises et tidsstempel ved kommandoer og output i webkonsollen">
+
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Rediger CSS">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Vis den originale kildekode">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Vis den originale kildekode (fx sass-filer) i CSS-editoren og Inspektøren">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Autofuldfør CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Autofuldfør CSS-egenskaber, -værdier og -selektorer, mens du skriver i CSS-editoren">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
 <!ENTITY options.profiler.label            "Profileringsværktøj til JavaScript">
+
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "Fælles indstillinger">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogs.label    "Slå vedvarende logning til">
+<!ENTITY options.enablePersistentLogs.tooltip  "Hvis du slår denne indstilling til, ryddes webkonsollens output ikke, når du navigerer til en ny side">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
