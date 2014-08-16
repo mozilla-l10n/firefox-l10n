@@ -24,9 +24,12 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "L">
 
 <!ENTITY  chatNotifications.label             "Kun sinulle osoitettu viesti saapuu:">
-<!ENTITY  desktopChatNotifications.label      "Näytä ilmoitus">
+<!ENTITY  desktopChatNotifications.label      "Näytä ilmoituksessa:">
 <!ENTITY  desktopChatNotifications.accesskey  "i">
-<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  completeNotification.label          "lähettäjän nimi ja viestin esikatselu">
+<!ENTITY  buddyInfoOnly.label                 "vain lähettäjän nimi">
+<!ENTITY  dummyNotification.label             "ilman lisätietoja">
+<!ENTITY  chatSound.accesskey                 "a">
 <!ENTITY  chatSound.label                     "Toista ääni">
 <!ENTITY  play.label                          "Toista">
 <!ENTITY  play.accesskey                      "T">
