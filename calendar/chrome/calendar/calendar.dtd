@@ -159,7 +159,6 @@
 
 <!-- Statusbar -->
 <!ENTITY calendar.taskview.delete.label     "Radera">
-<!ENTITY calendar.taskview.delete.accesskey "R">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Öppna">
