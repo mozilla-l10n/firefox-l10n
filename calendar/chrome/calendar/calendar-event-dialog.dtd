@@ -332,8 +332,8 @@
 <!ENTITY invite.title.label                     "Bjud in deltagare">
 <!ENTITY event.organizer.label                  "Organisatör">
 <!ENTITY event.freebusy.suggest.slot            "Föreslå tidslucka:">
-<!ENTITY event.freebusy.next.slot               "Nästa lucka " >
-<!ENTITY event.freebusy.previous.slot           " Föregående lucka" >
+<!ENTITY event.freebusy.button.next.slot        "Nästa lucka">
+<!ENTITY event.freebusy.button.previous.slot    "Föregående lucka">
 <!ENTITY event.freebusy.zoom                    "Zooma:">
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Upptagen" >
