@@ -3,17 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Erweitert">
+<!ENTITY pref.advanced.title              "Erweitert">
 
-<!ENTITY systemPref.caption         "Systemeinstellungen">
-<!ENTITY systemPrefCheck.label      "Einstellungen des Systems verwenden">
-<!ENTITY systemPrefCheck.accesskey  "E">
-<!ENTITY systemPref.desc            "Mit dieser Option übernimmt &brandShortName; Einstellungen vom System. Diese Systemeinstellungen werden statt der &brandShortName;-Einstellungen verwendet.">
+<!ENTITY systemPref.caption               "Systemeinstellungen">
+<!ENTITY systemPrefCheck.label            "Einstellungen des Systems verwenden">
+<!ENTITY systemPrefCheck.accesskey        "E">
+<!ENTITY systemPref.desc                  "Mit dieser Option übernimmt &brandShortName; Einstellungen vom System. Diese Systemeinstellungen werden statt der &brandShortName;-Einstellungen verwendet.">
 
-<!ENTITY prefCheckDefault.caption   "System-Integration">
-<!ENTITY prefCheckDefaultClient.label "Standardprogramm-Einstellungen beim Start prüfen">
+<!ENTITY prefCheckDefault.caption         "System-Integration">
+<!ENTITY prefCheckDefaultClient.label     "Standardprogramm-Einstellungen beim Start prüfen">
 <!ENTITY prefCheckDefaultClient.accesskey "S">
 
-<!ENTITY crashReports.caption       "Absturzmelder">
-<!ENTITY submitCrashes.label        "Absturzberichte senden">
-<!ENTITY submitCrashes.accesskey    "A">
+<!ENTITY crashReports.caption             "Absturzmelder">
+<!ENTITY submitCrashes.label              "Absturzberichte senden">
+<!ENTITY submitCrashes.accesskey          "A">
+
+<!ENTITY devTools.caption                 "Entwicklerwerkzeuge">
+<!ENTITY allowDebugger.label              "Einem Debugger erlauben, sich mit &brandShortName; zu verbinden">
+<!ENTITY allowDebugger.accesskey          "D">
+<!ENTITY allowRemoteConnections.label     "Verbindungen von anderen Computern erlauben">
+<!ENTITY allowRemoteConnections.accesskey "V">
+<!ENTITY connectionPrompt.label           "Meldung für eingehende Verbindungen">
+<!ENTITY connectionPrompt.accesskey       "M">
+<!ENTITY remoteDebuggerPort.label         "Portnummer für die Verbindung:">
+<!ENTITY remoteDebuggerPort.accesskey     "P">

@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "o">
 
 <!ENTITY  locationBarHistory.caption        "Adressleisten-Chronik">
+<!ENTITY  urlBarHistoryEnabled.caption      "Adresszeilen-Chronik aktivieren">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "C">
 <!ENTITY  clearLocationBar.label            "Die Liste von Seiten, die im Adressleisten-Menü gespeichert werden, löschen.">
 <!ENTITY  clearLocationBarButton.label      "Adressleisten-Chronik löschen">
 <!ENTITY  clearLocationBarButton.accesskey  "d">

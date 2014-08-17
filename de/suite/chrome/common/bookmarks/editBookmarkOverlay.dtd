@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Schlüsselwort:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "S">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Alle Tags anzeigen">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Dieses Lesezeichen in der Sidebar laden">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "D">
 <!ENTITY editBookmarkOverlay.choose.label                    "Wählen…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Neuer Ordner">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "d">
