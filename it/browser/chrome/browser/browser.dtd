@@ -108,13 +108,13 @@
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "a">
 <!ENTITY shareLinkCmd.label "Condividi questo link">
-<!ENTITY shareLinkCmd.accesskey "k">
+<!ENTITY shareLinkCmd.accesskey "i">
 <!ENTITY shareImageCmd.label "Condividi questa immagine">
-<!ENTITY shareImageCmd.accesskey "i">
+<!ENTITY shareImageCmd.accesskey "g">
 <!ENTITY shareSelectCmd.label "Condividi selezione">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "z">
 <!ENTITY shareVideoCmd.label "Condividi questo video">
-<!ENTITY shareVideoCmd.accesskey "v">
+<!ENTITY shareVideoCmd.accesskey "i">
 <!ENTITY feedsMenu.label "Abbonati">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
