@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Lesezeichen">
 <!ENTITY  history_title "Chronik">
 <!ENTITY  reading_list_title "Leseliste">
+<!ENTITY  recent_tabs_title "Kürzlich verwendete Tabs">
 
 <!ENTITY  switch_to_tab "Zu Tab wechseln">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Heute">
 <!ENTITY history_yesterday_section "Gestern">
-<!ENTITY history_week_section "Letzte 7 Tage">
-<!ENTITY history_older_section "Älter als 7 Tage">
+<!ENTITY history_week_section2 "Während der letzten Woche">
+<!ENTITY history_older_section2 "Während des letzten Monats">
 
 <!ENTITY go "Los">
 <!ENTITY search "Suchen">
@@ -62,11 +63,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; Tabs">
 <!ENTITY new_tab_opened "Neuer Tab geöffnet">
+<!ENTITY new_private_tab_opened "Neuer privater Tab geöffnet">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "WECHSELN">
 
 <!ENTITY settings "Einstellungen">
 <!ENTITY settings_title "Einstellungen">
 <!ENTITY pref_category_advanced "Erweitert">
 <!ENTITY pref_category_customize "Anpassung">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Sprache">
+<!ENTITY pref_browser_locale "Sprache des Browsers">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Systemstandard">
+
 <!ENTITY pref_category_search3 "Suche">
 <!ENTITY pref_category_search_summary "Suchmaschinen auswählen">
 <!ENTITY pref_category_display "Ansicht">
@@ -86,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: Sie können die Suche jeder beliebigen Seite zu Ihren Suchmaschinen hinzufügen, indem Sie lang auf das Suchfeld drücken und anschließend das &formatI;-Symbol antippen.">
 <!ENTITY pref_category_devtools "Entwicklerwerkzeuge">
+<!ENTITY pref_developer_paint_flashing "Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_remotedebugging "Externes Debugging">
 <!ENTITY pref_remember_signons "Passwörter speichern">
 
 <!ENTITY pref_category_home "Startbildschirm">
 <!ENTITY pref_category_home_summary "Passen Sie den Startbildschirm an">
 <!ENTITY pref_category_home_panels "Ansichten">
-<!ENTITY pref_home_add_panel "Ansicht hinzufügen">
 <!ENTITY home_add_panel_title "Neue Ansicht hinzufügen">
 <!ENTITY home_add_panel_empty "Leider wurden keine Ansichten zum Hinzufügen gefunden.">
 <!-- Localization note (home_add_panel_installed):
@@ -103,12 +121,15 @@
 <!ENTITY pref_home_updates "Automatisch aktualisieren">
 <!ENTITY pref_home_updates_enabled "Aktiviert">
 <!ENTITY pref_home_updates_wifi "Nur über WLAN">
+<!ENTITY pref_home_suggested_sites "Seitenvorschläge anzeigen">
+<!ENTITY pref_home_suggested_sites_summary "Auf der Startseite Seitenvorschläge anzeigen, von denen wir denken, dass sie für Sie interessant sind">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Anpassung">
 <!ENTITY pref_header_display "Ansicht">
 <!ENTITY pref_header_privacy_short "Privatsphäre">
 <!ENTITY pref_header_help "Hilfe">
+<!ENTITY pref_header_language "Sprache">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Entwicklerwerkzeuge">
 
@@ -125,7 +146,11 @@
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
 <!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
-<!ENTITY pref_clear_private_data "Private Daten löschen">
+<!ENTITY pref_clear_private_data2 "Jetzt löschen">
+<!ENTITY pref_clear_private_data_category "Private Daten löschen">
+<!ENTITY pref_clear_on_exit_title "Beim Beenden immer löschen">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; löscht die Daten beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
+<!ENTITY pref_clear_on_exit_dialog_title "Zu löschende Daten auswählen">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
@@ -190,10 +215,10 @@ size. -->
 <!ENTITY datareporting_notification_summary_short "&brandShortName; sendet automatisch…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-Statusbericht">
@@ -216,6 +241,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nie">
 <!ENTITY pref_update_autodownload_always "Immer">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Hilfe">
+
 <!ENTITY quit "Beenden">
 
 <!ENTITY addons "Add-ons">
@@ -234,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Neuer Tab">
 <!ENTITY new_private_tab "Neuer privater Tab">
 <!ENTITY close_all_tabs "Alle Tabs schließen">
+<!ENTITY close_private_tabs "Private Tabs schließen">
 <!ENTITY tabs_normal "Normal">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sync">
@@ -256,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
 <!ENTITY contextmenu_open_private_tab "In privatem Tab öffnen">
-<!ENTITY contextmenu_open_in_reader "Im Lesemodus öffnen">
 <!ENTITY contextmenu_remove "Löschen">
 <!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
 <!ENTITY contextmenu_share "Teilen">
@@ -279,7 +307,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Titelleiste ausblenden">
 
-<!ENTITY history_removed "Seite vergessen">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Seite entfernt">
 
 <!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
 <!ENTITY bookmark_edit_name "Name">
@@ -294,7 +325,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar">
 
 <!ENTITY reading_list_added "Seite zu Leseliste hinzugefügt">
-<!ENTITY reading_list_removed "Seite aus Leseliste gelöscht">
 <!ENTITY reading_list_failed "Seite konnte nicht zur Leseliste hinzugefügt werden">
 <!ENTITY reading_list_duplicate "Seite bereits in Leseliste">
 
@@ -321,11 +351,13 @@ size. -->
 <!ENTITY home_top_sites_add "Eine Seite hinzufügen">
 
 <!ENTITY home_history_title "Chronik">
+<!ENTITY home_clear_history_button "Browser-Chronik löschen">
+<!ENTITY home_clear_history_confirm "Soll die Browser-Chronik mit den besuchten Seiten wirklich gelöscht werden?">
 <!ENTITY home_bookmarks_empty "Angelegte Lesezeichen werden hier angezeigt.">
+<!ENTITY home_closed_tabs_title "Kürzlich geschlossene Tabs">
 <!ENTITY home_last_tabs_title "Tabs der letzten Sitzung">
-<!ENTITY home_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
 <!ENTITY home_last_tabs_empty "Hier werden die zuletzt verwendeten Tabs angezeigt.">
-<!ENTITY home_most_recent_title "Zuletzt besucht">
+<!ENTITY home_open_all "Alle öffnen">
 <!ENTITY home_most_recent_empty "Hier werden die zuletzt besuchten Webseiten angezeigt.">
 <!ENTITY home_reading_list_empty "Hier werden die für später gespeicherten Artikel angezeigt.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -344,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Nach oben zu &formatS;">
+
+<!ENTITY private_browsing_title "Privater Modus">
+<!ENTITY private_tabs_panel_empty_desc "Die privaten Tabs werden hier angezeigt. Während die Browser-Chronik und Cookies nicht gespeichert werden, bleiben Lesezeichen und heruntergeladene Dateien auf dem Gerät erhalten.">
+<!ENTITY private_tabs_panel_learn_more "Weitere Informationen">
 
 <!ENTITY pin_site_dialog_hint "Geben Sie einen Suchbegriff ein">
 
@@ -431,3 +467,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Fertig">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Letzte Synchronisierung: &formatS;">
