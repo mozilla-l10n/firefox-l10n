@@ -103,11 +103,12 @@
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!ENTITY findShareServices.label "Найти другие службы Публикации…">
 <!ENTITY sharePageCmd.label "Поделиться этой страницей">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "о">
+<!ENTITY sharePageCmd.accesskey "и">
 <!ENTITY shareLinkCmd.label "Поделиться этой ссылкой">
-<!ENTITY shareLinkCmd.accesskey "о">
+<!ENTITY shareLinkCmd.accesskey "е">
 <!ENTITY shareImageCmd.label "Поделиться этой картинкой">
 <!ENTITY shareImageCmd.accesskey "о">
 <!ENTITY shareSelectCmd.label "Поделиться выделенным текстом">
