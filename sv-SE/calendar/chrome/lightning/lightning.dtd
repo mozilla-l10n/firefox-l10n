@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klicka för att se fler val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Förnya bekräftelse">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Skickar en förnyad bekräftelse till organisatören">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Spara en kopia">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Spara en kopia av händelsen i kalendern oberoende av svaret till organisatören. Listan på deltagare kommer att tömmas.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Preliminär">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptera inbjudan till händelsen preliminärt">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Preliminär alla">
