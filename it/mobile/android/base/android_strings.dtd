@@ -25,7 +25,7 @@
 <!ENTITY launcher_shortcuts_title "&brandShortName; web app">
 <!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
 <!ENTITY choose_file "Scelta file">
-<!ENTITY url_bar_default_text "Cerca o inserisci un indirizzo">
+<!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
