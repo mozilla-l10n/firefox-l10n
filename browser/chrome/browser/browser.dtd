@@ -689,3 +689,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewImageDescCmd.label       "વર્ણનને જુઓ">
 
+<!ENTITY getUserMedia.allWindowsShared.message "તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "વહેંચવા માટે વિન્ડો અથવા સ્ક્રીન:">
+<!ENTITY loopCallButton.tooltip "વાર્તાલાપ કરવા માટે કોઇકને આમંત્રણ આપો">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "બધા ટૅબને બુકમાર્ક કરો…">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "બધા ટૅબને ફરી લાવો">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "બંધ ટૅબને ફરી લાવો">
+<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.label                      "WebIDE">
+
+
