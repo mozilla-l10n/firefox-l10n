@@ -7,16 +7,16 @@
 <!ENTITY projectMenu_accesskey "к">
 <!ENTITY projectMenu_newApp_label "Новое приложение…">
 <!ENTITY projectMenu_newApp_accesskey "е">
-<!ENTITY projectMenu_importPackagedApp_label "Открыть упакованное приложение…">
+<!ENTITY projectMenu_importPackagedApp_label "Упакованное приложение…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "к">
-<!ENTITY projectMenu_importHostedApp_label "Открыть размещённое приложение…">
+<!ENTITY projectMenu_importHostedApp_label "Размещённое приложение…">
 <!ENTITY projectMenu_importHostedApp_accesskey "м">
 <!ENTITY projectMenu_selectApp_label "Открыть приложение…">
 <!ENTITY projectMenu_selectApp_accessley "ы">
 <!ENTITY projectMenu_play_label "Установить и запустить">
 <!ENTITY projectMenu_play_accesskey "в">
 <!ENTITY projectMenu_stop_label "Остановить приложение">
-<!ENTITY projectMenu_stop_accesskey "ы">
+<!ENTITY projectMenu_stop_accesskey "н">
 <!ENTITY projectMenu_debug_label "Отладка приложения">
 <!ENTITY projectMenu_debug_accesskey "ж">
 <!ENTITY projectMenu_remove_label "Удалить проект">
@@ -24,9 +24,9 @@
 <!ENTITY projectMenu_showPrefs_label "Настройки">
 <!ENTITY projectMenu_showPrefs_accesskey "с">
 <!ENTITY runtimeMenu_label "Runtime">
-<!ENTITY runtimeMenu_accesskey "а">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Отсоединить">
-<!ENTITY runtimeMenu_disconnect_accesskey "и">
+<!ENTITY runtimeMenu_disconnect_accesskey "о">
 <!ENTITY runtimeMenu_showPermissionTable_label "Таблица разрешений">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "л">
 <!ENTITY runtimeMenu_takeScreenshot_label "Скриншот">
@@ -38,7 +38,7 @@
 <!ENTITY viewMenu_label "Вид">
 <!ENTITY viewMenu_accesskey "и">
 <!ENTITY viewMenu_toggleEditor_label "Переключить редактор">
-<!ENTITY viewMenu_toggleEditor_accesskey "к">
+<!ENTITY viewMenu_toggleEditor_accesskey "е">
 <!ENTITY viewMenu_showAddons_label "Управление симуляторами">
 <!ENTITY viewMenu_showAddons_accesskey "п">
 <!ENTITY projectButton_label "Открыть приложение">
