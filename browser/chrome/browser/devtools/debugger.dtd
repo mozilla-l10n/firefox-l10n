@@ -101,4 +101,7 @@
 <!ENTITY debuggerUI.tabs.traces         "ટ્રેસ">
 <!ENTITY debuggerUI.tabs.variables      "ચલ">
 
+<!ENTITY debuggerUI.autoBlackBox           "આપમેળે બ્લેક બોક્સ સ્ત્રોતને નાનું કરેલ છે">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
+
 
