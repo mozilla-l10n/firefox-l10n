@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                  "Klõpsa teiste valikute nägemiseks">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                  "Kinnita uuesti">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext             "Saadab korraldajale kinnituse uuesti">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                    "Salvesta koopia">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext              "Salvestab kalendrisse koopia korraldajale vastamata. Osalejate nimekiri tühjendatakse.">
 <!ENTITY lightning.imipbar.btnTentative.label                   "Kahtlev">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext            "Nõustu kahtlevalt">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label        "Kõigi osas kahtlev">
