@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Konto einrichten">
 <!ENTITY name.label                      "Ihr Name:">
 <!ENTITY name.accesskey                  "n">
@@ -16,8 +20,8 @@
 <!ENTITY imapLong.label                  "IMAP (Nachrichten auf dem Server speichern)">
 <!ENTITY pop3Long.label                  "POP3 (Nachrichten auf diesem Computer speichern)">
 
-<!ENTITY incoming.label                  "Posteingang-Server:">
-<!ENTITY outgoing.label                  "Postausgang-Server:">
+<!ENTITY incoming.label                  "Posteingangs-Server:">
+<!ENTITY outgoing.label                  "Postausgangs-Server:">
 <!ENTITY username.label                  "Benutzername:">
 <!ENTITY hostname.label                  "Server-Adresse">
 <!ENTITY port.label                      "Port">
@@ -53,8 +57,8 @@
 <!ENTITY switch-to-provisioner.accesskey "N">
 
 <!ENTITY warning.label                   "Warnung!">
-<!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
-<!ENTITY outgoingSettings.label          "Postausgang-Einstellungen:">
+<!ENTITY incomingSettings.label          "Posteingangs-Einstellungen:">
+<!ENTITY outgoingSettings.label          "Postausgangs-Einstellungen:">
 <!ENTITY technicaldetails.label          "Technische Details">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
