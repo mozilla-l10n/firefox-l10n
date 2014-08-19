@@ -16,7 +16,7 @@
 <!ENTITY projectMenu_play_label "Instalar y ejecutar">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Detener aplicación">
-<!ENTITY projectMenu_stop_accesskey "f">
+<!ENTITY projectMenu_stop_accesskey "D">
 <!ENTITY projectMenu_debug_label "Depurar aplicación">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Eliminar proyecto">
