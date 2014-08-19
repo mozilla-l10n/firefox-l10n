@@ -35,8 +35,8 @@
 <!ENTITY options.defaultColorUnit.label "મૂળભૂત રંગ એકમ">
 <!ENTITY options.defaultColorUnit.name "રંગ નામ">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
-<!ENTITY options.disableCache.label     "કેશ * સક્રિય કરો">
-<!ENTITY options.disableCache.tooltip   "આ વિકલ્પને ચાલુ કરવાનું વર્તમાન ટૅબ માટે કેશને નિષ્ક્રિય કરશે. જો ટેબ અથવા સાધનબોક્સને બંધ કરેલ છે પછી આ સુયોજનને ભૂલી જશે.">
+
+
 <!ENTITY options.disableJavaScript.label     "JavaScript * ને સક્રિય કરો">
 <!ENTITY options.enableChrome.label4    "chrome અને addon ડિબગીંગને સક્રિય કરો">
 <!ENTITY options.enableChrome.tooltip2  "આ વિકલ્પને ચાલુ કરવાથી ઍડ-ઓન સંચાલકમાંથી બ્રાઉઝર સંદર્ભ અને ડિબગ ઍડઓનમાં વિવિધ ડેવલપર સાધનોને વાપરવા પરવાનગી આપશે">
@@ -63,4 +63,19 @@ Gecko પ્લેટફોર્મ સંકેતનો સમાવેશ �
 <!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
+
+<!ENTITY options.disableCache.label2     "કેશને નિષ્ક્રિય કરો (જ્યારે સાધનબોક્સ ખુલ્લુ હોય)">
+<!ENTITY options.disableCache.tooltip2   "આ વિકલ્પને ચાલુ રાખવાનું બધા ટૅબ માટે કેશને નિષ્ક્રિય કરશે કે જેની પાસે સાધનબોક્સ ખુલ્લુ છે.">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "કૌંસને આપમેળે બંધ કરો">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "આપમેળે બંધ કૌંસને દાખલ કરો">
+<!ENTITY options.sourceeditor.detectindentation.label   "હાંસિયો શોધો">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "સ્ત્રોત સમાવિષ્ટ પર આધારિત હાંસિયાને ધારો">
+<!ENTITY options.sourceeditor.expandtab.label           "જગ્યાઓની મદદથી હાંસિયો">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ટૅબ અક્ષરને બદલે જગ્યાઓને વાપરો">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "મૂળભૂત">
+<!ENTITY options.sourceeditor.keybinding.label          "કીબાઇન્ડીંગ">
+<!ENTITY options.sourceeditor.label                     "સંપાદક પસંદગીઓ">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.tabsize.label             "ટૅબ માપ">
 
