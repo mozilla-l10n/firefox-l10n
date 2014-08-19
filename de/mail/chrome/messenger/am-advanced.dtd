@@ -5,10 +5,10 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Postausgang-Server (SMTP)">
+<!ENTITY smtpServer.label "Postausgangs-Server (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "Beim Verwalten Ihrer Identitäten können Sie einen Server dieser Liste als Postausgang-Server (SMTP) auswählen oder Sie können den Standard-Server aus der Liste verwenden, indem Sie &quot;Standard-Server verwenden&quot; wählen.">
+<!ENTITY smtpDescription.label "Beim Verwalten Ihrer Identitäten können Sie einen Server dieser Liste als Postausgangs-Server (SMTP) auswählen oder Sie können den Standard-Server aus der Liste verwenden, indem Sie &quot;Standard-Server verwenden&quot; wählen.">
 
 <!ENTITY smtpListAdd.label  "Hinzufügen…">
 <!ENTITY smtpListAdd.accesskey  "n">

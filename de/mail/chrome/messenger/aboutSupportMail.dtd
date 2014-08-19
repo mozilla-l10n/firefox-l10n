@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.appBasicsAppBuildID "Build-ID der Anwendung">
 
 <!ENTITY aboutSupport.accountsTitle "E-Mail- und Newsgruppen-Konten">
@@ -5,8 +9,8 @@
 <!ENTITY aboutSupport.showPrivateData.explanationText "(möglicherweise identifizierende Information)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Posteingang-Server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Postausgang-Server">
+<!ENTITY aboutSupport.accountsIncomingServer "Posteingangs-Server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Postausgangs-Server">
 <!ENTITY aboutSupport.accountsServerName "Name">
 <!ENTITY aboutSupport.accountsConnSecurity "Verbindungssicherheit">
 <!ENTITY aboutSupport.accountsAuthMethod "Authentifizierungsmethode">
