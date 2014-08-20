@@ -82,6 +82,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bladwijzerwerkbalkitems">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "o">
+
 <!ENTITY pageSourceCmd.label "Paginabron">
 <!ENTITY pageSourceCmd.accesskey "b">
 <!ENTITY pageSourceCmd.commandkey "u">
