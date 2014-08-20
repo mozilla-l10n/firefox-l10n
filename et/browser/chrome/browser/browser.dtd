@@ -585,14 +585,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label           "Veebilehe baasstiil">
 <!ENTITY pageStylePersistentOnly.accesskey       "b">
 
-<!ENTITY pageReportIcon.tooltip                  "Muuda selle veebilehe hüpikakende blokeerimise sätteid">
+<!ENTITY pageReportIcon.tooltip                  "Muuda selle veebilehe hüpikakende blokkimise sätteid">
 
 <!ENTITY allowPopups.accesskey                   "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label             "Muuda hüpikakende blokeerija eelistusi...">
-<!ENTITY editPopupSettings.label                 "Muuda hüpikakende blokeerija sätteid...">
+<!ENTITY editPopupSettingsUnix.label             "Muuda hüpikakende blokkija eelistusi...">
+<!ENTITY editPopupSettings.label                 "Muuda hüpikakende blokkija sätteid...">
 <!ENTITY editPopupSettings.accesskey             "M">
 <!ENTITY dontShowMessage.accesskey               "d">
 
@@ -706,7 +706,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label             "Ligipääs kaamerale/mikrofonile">
 <!ENTITY webrtcIndicatorButton.tooltip           "Kuva saite, millel on sinu kaamera või mikrofoni kasutamine lubatud">
 
-<!ENTITY mixedContentBlocked.moreinfo            "Enamik saite töötab korralikult edasi ka siis, kui see sisu on blokeeritud.">
+<!ENTITY mixedContentBlocked.moreinfo            "Enamik saite töötab korralikult edasi ka siis, kui see sisu on blokitud.">
 
 <!ENTITY pointerLock.notification.message        "Uuesti kuvamiseks vajuta klahvi ESC.">
 
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label                 "Luba">
 <!ENTITY pluginActivateAlways.label              "Luba ja pea meeles">
-<!ENTITY pluginBlockNow.label                    "Blokeeri plugin">
+<!ENTITY pluginBlockNow.label                    "Bloki plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been

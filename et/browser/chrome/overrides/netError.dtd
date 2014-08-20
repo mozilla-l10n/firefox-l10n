@@ -169,7 +169,7 @@ ja sa võid hiljem uuesti proovida.</li>
 <p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title         "Blokeeritud sisu turvalisuse reegliga">
+<!ENTITY cspFrameAncestorBlocked.title         "Blokitud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc      "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
 
 <!ENTITY corruptedContentError.title           "Vigane sisu">

@@ -148,7 +148,7 @@ ja sa võid hiljem uuesti proovida.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">
+<!ENTITY cspFrameAncestorBlocked.title "Blokitud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
 
 <!ENTITY corruptedContentError.title           "Vigane sisu">
