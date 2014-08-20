@@ -62,8 +62,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 
 
-<!ENTITY verify2.label                   "ખાતરી">
-<!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "સુરક્ષા ઉપકરણો">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
