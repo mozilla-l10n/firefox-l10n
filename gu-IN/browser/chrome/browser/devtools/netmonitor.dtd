@@ -155,7 +155,7 @@
 <!ENTITY netmonitorUI.custom.postData     "બોડીની માંગણી:">
 <!ENTITY netmonitorUI.custom.query        "ક્વેરી શબ્દમાળા:">
 <!ENTITY netmonitorUI.custom.send         "મોકલો">
-<!ENTITY netmonitorUI.emptyNotice3        "• માંગણી કરો અથવા નેટવર્ક પ્રવૃત્તિ વિશે વિગત થયેલ જાણકારીને જોવા પાનાંને ફરી લાવો.">
+
 <!ENTITY netmonitorUI.footer.clear  "સાફ કરો">
 <!ENTITY netmonitorUI.footer.filterOther  "બીજા">
 <!ENTITY netmonitorUI.footer.perf   "ટૉગલ પ્રભાવ વિશ્ર્લેષણ…">
@@ -165,3 +165,7 @@
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "R">
 <!ENTITY netmonitorUI.tab.preview         "પૂર્વદર્શન">
 <!ENTITY netmonitorUI.toolbar.status2     "✓">
+
+<!ENTITY netmonitorUI.reloadNotice1       "• માંગણી કરો અથવા">
+<!ENTITY netmonitorUI.reloadNotice2       "પુન:લાવો">
+<!ENTITY netmonitorUI.reloadNotice3       "નેટવર્ક પ્રવૃત્તિ વિશે વિગત થયેલ જાણકારીને જોવાનું પાનું.">
