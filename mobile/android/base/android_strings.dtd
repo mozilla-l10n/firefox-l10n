@@ -396,12 +396,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message    "See leht kuvab ebaturvalist sisu.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokeeris ebaturvalise sisu.">
-<!ENTITY blocked_mixed_content_message_bottom "Enamus veebilehti töötab korrektselt ka selle sisu blokeerimisel.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokkis ebaturvalise sisu.">
+<!ENTITY blocked_mixed_content_message_bottom "Enamus veebilehti töötab korrektselt ka selle sisu blokkimisel.">
 <!ENTITY learn_more                      "Rohkem teavet">
 <!ENTITY enable_protection               "Luba kaitse">
 <!ENTITY disable_protection              "Keela kaitse">
-<!ENTITY keep_blocking                   "Jätka blokeerimist">
+<!ENTITY keep_blocking                   "Jätka blokkimist">
 
 <!ENTITY private_data_success            "Privaatsed andmed kustutati">
 <!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">

@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label              "Hüpikaknad">
 
-<!ENTITY blockPopups.label          "Hüpikaknad blokeeritakse">
+<!ENTITY blockPopups.label          "Hüpikaknad blokitakse">
 <!ENTITY blockPopups.accesskey      "H">
 <!ENTITY popupExceptions.label      "Erandid…">
 <!ENTITY popupExceptions.accesskey  "E">
