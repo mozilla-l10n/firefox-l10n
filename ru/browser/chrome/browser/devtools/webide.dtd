@@ -12,7 +12,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Размещённое приложение…">
 <!ENTITY projectMenu_importHostedApp_accesskey "м">
 <!ENTITY projectMenu_selectApp_label "Открыть приложение…">
-<!ENTITY projectMenu_selectApp_accessley "ы">
+<!ENTITY projectMenu_selectApp_accesskey "ы">
 <!ENTITY projectMenu_play_label "Установить и запустить">
 <!ENTITY projectMenu_play_accesskey "в">
 <!ENTITY projectMenu_stop_label "Остановить приложение">
