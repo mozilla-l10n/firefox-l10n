@@ -12,7 +12,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Apri app remota (hosted)…">
 <!ENTITY projectMenu_importHostedApp_accesskey "h">
 <!ENTITY projectMenu_selectApp_label "Apri app…">
-<!ENTITY projectMenu_selectApp_accessley "A">
+<!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Installa ed esegui">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Interrompi app">
