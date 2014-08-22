@@ -32,3 +32,5 @@
 <!ENTITY translateExceptions.label    "અપવાદ…">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateWebPages.label      "વેબ સમાવિષ્ટ અનુવાદ કરો">
+<!ENTITY translation.options.attribution.afterLogo "">
+<!ENTITY translation.options.attribution.beforeLogo "નાં વડે અનુવાદ">
