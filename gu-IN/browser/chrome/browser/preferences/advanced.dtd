@@ -135,5 +135,6 @@
 <!ENTITY telemetrySection.label          "ટેલિમેટ્રી ">
 
 <!ENTITY certificateTab.label            "પ્રમાણપત્રો">
-
+<!ENTITY enableOCSP.label                "પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો">
+<!ENTITY enableOCSP.accesskey            "Q">
 
