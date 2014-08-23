@@ -36,7 +36,7 @@
 <!ENTITY community.middle2          " — ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобальній спільноті">
-<!ENTITY community.end3             ", яка працює над тим, щоб інтернет лишався відкритим, громадським та доступним для всіх.">
+<!ENTITY community.end3             ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
 <!ENTITY contribute.start           "Цікаво? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
