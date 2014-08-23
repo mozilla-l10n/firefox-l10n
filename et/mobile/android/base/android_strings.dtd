@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title                "Järjehoidjad">
 <!ENTITY  history_title                  "Ajalugu">
 <!ENTITY  reading_list_title             "Lugemisnimekiri">
+<!ENTITY  recent_tabs_title              "Viimatised kaardid">
 
 <!ENTITY  switch_to_tab                  "Lülitu kaardile">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section           "Täna">
 <!ENTITY history_yesterday_section       "Eile">
-<!ENTITY history_week_section            "Viimased 7 päeva">
-<!ENTITY history_older_section           "Vanemad kui 7 päeva">
+<!ENTITY history_week_section2           "Eelmine nädal">
+<!ENTITY history_older_section2          "Eelmine kuu">
 
 <!ENTITY go                              "Mine">
 <!ENTITY search                          "Otsi">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint                "Vihje: otsingumootoriks võib lisada iga veebisaidi, lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
 <!ENTITY pref_category_devtools          "Arendajale">
+<!ENTITY pref_developer_paint_flashing   "Paint flashing">
 <!ENTITY pref_developer_remotedebugging  "Remote debugging">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
 
 <!ENTITY pref_category_home              "Avaleht">
 <!ENTITY pref_category_home_summary      "avalehe kohandamine">
 <!ENTITY pref_category_home_panels       "Paneelid">
-<!ENTITY pref_home_add_panel             "Lisa paneel">
 <!ENTITY home_add_panel_title            "Uue paneeli lisamine">
 <!ENTITY home_add_panel_empty            "Vabandust, aga me ei leidnud lisamiseks ühtki paneeli.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
 <!ENTITY pref_char_encoding_off          "ei kuvata menüüs">
-<!ENTITY pref_clear_private_data         "Privaatsete andmete kustutamine">
+<!ENTITY pref_clear_private_data2        "Kustuta nüüd">
+<!ENTITY pref_clear_private_data_category "Privaatsete andmete kustutamine">
+<!ENTITY pref_clear_on_exit_title        "Väljumisel kustutatakse alati">
+<!ENTITY pref_clear_on_exit_summary      "&brandShortName; kustutab automaatselt sinu andmed alati, kui valid peamenüüst Välju">
+<!ENTITY pref_clear_on_exit_dialog_title "Kustutatavate andmete valimine">
 <!ENTITY pref_plugins                    "Pluginad">
 <!ENTITY pref_plugins_enabled            "lubatud">
 <!ENTITY pref_plugins_tap_to_play        "esitamiseks peab puudutama">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab                         "Uus kaart">
 <!ENTITY new_private_tab                 "Uus privaatne kaart">
 <!ENTITY close_all_tabs                  "Sulge kõik kaardid">
+<!ENTITY close_private_tabs              "Sulge privaatsed kaardid">
 <!ENTITY tabs_normal                     "Kaardid">
 <!ENTITY tabs_private                    "Privaatne">
 <!ENTITY tabs_synced                     "Sünkroniseeritud">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab        "Ava uuel kaardil">
 <!ENTITY contextmenu_open_private_tab    "Ava privaatsel kaardil">
-<!ENTITY contextmenu_open_in_reader      "Ava lugeris">
 <!ENTITY contextmenu_remove              "Eemalda">
 <!ENTITY contextmenu_add_to_launcher     "Lisa avaekraanile">
 <!ENTITY contextmenu_share               "Jaga">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button       "Kustuta lehitsemise ajalugu">
 <!ENTITY home_clear_history_confirm      "Kas oled kindel, et soovid ajaloo kustutada?">
 <!ENTITY home_bookmarks_empty            "Lisatud järjehoidjad ilmuvad siia.">
+<!ENTITY home_closed_tabs_title          "Viimati suletud kaardid">
 <!ENTITY home_last_tabs_title            "Kaardid eelmisest korrast">
-<!ENTITY home_last_tabs_open             "Ava kõik kaardid eelmisest korrast">
 <!ENTITY home_last_tabs_empty            "Viimati külastatud kaardid ilmuvad siia.">
-<!ENTITY home_most_recent_title          "Viimatine ajalugu">
+<!ENTITY home_open_all                   "Viimatine ajalugu">
 <!ENTITY home_most_recent_empty          "Viimati külastatud veebisaidid ilmuvad siia.">
 <!ENTITY home_reading_list_empty         "Hilisemaks lugemiseks salvestatud artiklid ilmuvad siia.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter          "Liigu tagasi asukohta &formatS;">
+
+<!ENTITY private_browsing_title          "Privaatne veebilehitsemine">
+<!ENTITY private_tabs_panel_empty_desc   "Sinu privaatsed kaardid ilmuvad siia. Me ei salvesta selle lehitsemise ajalugu või küpsiseid, aga järjehoidjad ja allalaaditud failid säilitatakse.">
+<!ENTITY private_tabs_panel_learn_more   "Soovid lisateavet?">
 
 <!ENTITY pin_site_dialog_hint            "Sisesta otsingu võtmesõna">
 

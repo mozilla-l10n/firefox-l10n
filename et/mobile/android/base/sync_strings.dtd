@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label                     'Firefoxi kontod'>
 
+<!ENTITY fxaccount_custom_server_account_title    'Kasutatav konto asub serveris'>
+<!ENTITY fxaccount_custom_server_sync_title       'Synci andmed salvestatakse serverisse'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
 <!ENTITY fxaccount_status_signed_in_as            'Sisselogitud kasutajana'>
+<!ENTITY fxaccount_status_auth_server             'Konto server'>
 <!ENTITY fxaccount_status_device_name             'Seadme nimi'>
+<!ENTITY fxaccount_status_sync_server             'Synci server'>
 <!ENTITY fxaccount_status_sync                    '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled            '&syncBrand.shortName.label;: lubatud'>
 <!ENTITY fxaccount_status_needs_verification2     'Sinu konto vajab kinnitamist. Kinnitusnõude uuesti saatmiseks puuduta.'>
