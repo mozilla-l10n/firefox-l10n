@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webinhoud">
 
+<!ENTITY keepHistory.label "Websites en koppelingen die ik bezocht heb onthouden">
+<!ENTITY keepHistory.accesskey "W">
 <!ENTITY acceptCookies.label "Cookies van websites accepteren">
 <!ENTITY acceptCookies.accesskey "C">
 <!ENTITY acceptThirdParty.pre.label "Cookies van derden accepteren:">
