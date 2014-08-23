@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label           "Veebisisu">
 
+<!ENTITY keepHistory.label                 "Külastatud saidid ja lingid peetakse meeles">
+<!ENTITY keepHistory.accesskey             "a">
 <!ENTITY acceptCookies.label               "Küpsised lubatakse">
 <!ENTITY acceptCookies.accesskey           "K">
 <!ENTITY acceptThirdParty.pre.label        "Kolmanda osapoole küpsised lubatakse:">

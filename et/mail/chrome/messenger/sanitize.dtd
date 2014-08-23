@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Üksikasjad">
 <!ENTITY detailsProgressiveDisclosure.accesskey "k">
 
+<!ENTITY itemHistory.label                      "Lehitsemise ajalugu">
+<!ENTITY itemHistory.accesskey                  "L">
 <!ENTITY itemCookies.label                      "Küpsised">
 <!ENTITY itemCookies.accesskey                  "K">
 <!ENTITY itemCache.label                        "Vahemälu">
