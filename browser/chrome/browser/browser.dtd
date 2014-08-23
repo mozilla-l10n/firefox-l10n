@@ -503,6 +503,13 @@
 <!ENTITY customizeMode.restoreDefaults "Ripristina predefiniti">
 <!ENTITY customizeMode.toolbars "Visualizza/nascondi barre degli strumenti">
 <!ENTITY customizeMode.titlebar "Barra del titolo">
+<!ENTITY customizeMode.lwthemes "Temi">
+<!ENTITY customizeMode.lwthemes.myThemes "I miei temi">
+<!ENTITY customizeMode.lwthemes.recommended "Consigliato">
+<!ENTITY customizeMode.lwthemes.menuManage "Gestisci">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Ottieni altri temi">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleziona chat">
 <!ENTITY social.chatBar.accesskey "h">
