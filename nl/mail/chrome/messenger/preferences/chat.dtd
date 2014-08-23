@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Als er aan u geadresseerde berichten arriveren:">
 <!ENTITY  desktopChatNotifications.label      "Melding tonen">
 <!ENTITY  desktopChatNotifications.accesskey  "M">
+<!ENTITY  completeNotification.label          "met naam van de afzender en voorbeeld van het bericht">
+<!ENTITY  buddyInfoOnly.label                 "met alleen de naam van de afzender">
+<!ENTITY  dummyNotification.label             "zonder informatie">
 <!ENTITY  chatSound.accesskey                 "u">
 <!ENTITY  chatSound.label                     "Een geluid afspelen">
 <!ENTITY  play.label                          "Afspelen">
