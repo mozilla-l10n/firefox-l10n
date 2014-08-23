@@ -39,8 +39,6 @@
 <!ENTITY options.selectEnabledToolboxButtons.label     "Botones de caja de herramientas disponibles">
 <!ENTITY options.toolNotSupported.label  "* No soportado por la caja de herramientas actualmente seleccionada">
 <!ENTITY options.selectDevToolsTheme.label   "Escoger tema de las Herramientas de desarrollador:">
-<!ENTITY options.darkTheme.label             "Tema oscuro">
-<!ENTITY options.lightTheme.label            "Tema claro">
 <!ENTITY options.webconsole.label            "Consola Web">
 <!ENTITY options.enablePersistentLogs.label    "Activar registros permanentes">
 <!ENTITY options.enablePersistentLogs.tooltip  "Si activa esta opción la consola web y el monitor de red no limpiarán el texto de salida cada vez que navegue a una página nueva">
