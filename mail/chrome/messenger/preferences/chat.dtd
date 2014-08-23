@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "T">
 
 <!ENTITY  chatNotifications.label             "Uue sõnumi saabumisel:">
-<!ENTITY  desktopChatNotifications.label      "Kuvatakse teavitust">
+<!ENTITY  desktopChatNotifications.label      "Teavitusti kuvatakse">
 <!ENTITY  desktopChatNotifications.accesskey  "u">
+<!ENTITY  completeNotification.label          "koos saatja nime ja sõnumi eelvaatega">
+<!ENTITY  buddyInfoOnly.label                 "koos saatja nimega">
+<!ENTITY  dummyNotification.label             "ilma lisainfota">
 <!ENTITY  chatSound.accesskey                 "h">
 <!ENTITY  chatSound.label                     "antakse märku heliga">
 <!ENTITY  play.label                          "Esita">
