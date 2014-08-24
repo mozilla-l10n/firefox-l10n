@@ -21,8 +21,6 @@
 <!ENTITY options.selectEnabledToolboxButtons.label "Przyciski narzędzi dla programistów">
 
 <!ENTITY options.selectDevToolsTheme.label "Motyw narzędzi dla programistów:">
-<!ENTITY options.darkTheme.label "Ciemny">
-<!ENTITY options.lightTheme.label "Jasny">
 
 <!ENTITY options.commonPrefs.label "Ogólne">
 <!ENTITY options.enablePersistentLogs.label "Trwałe dzienniki">
