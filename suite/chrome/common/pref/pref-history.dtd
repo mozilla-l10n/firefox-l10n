@@ -11,7 +11,9 @@
 <!ENTITY  clearHistory.label                "Tyhjennä sivuhistoria">
 <!ENTITY  clearHistory.accesskey            "T">
 
-<!ENTITY  locationBarHistory.caption        "Osoitehistoria">
+<!ENTITY  locationBarHistory.caption        "Osoitepalkkihistoria">
+<!ENTITY  urlBarHistoryEnabled.caption      "Säilytä osoitepalkkihistoria">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "l">
 <!ENTITY  clearLocationBar.label            "Tyhjentää osoitevalikossa näytettävän sivustolistan.">
 <!ENTITY  clearLocationBarButton.label      "Tyhjennä osoitepalkki">
 <!ENTITY  clearLocationBarButton.accesskey  "o">
