@@ -177,7 +177,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error 'Polnud võimalik sisse logida'>
 
 <!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
-<!ENTITY fxaccount_status_signed_in_as            'Sisselogitud kasutajana'>
+<!ENTITY fxaccount_status_signed_in_as            'Sisse logitud kasutajana'>
 <!ENTITY fxaccount_status_auth_server             'Konto server'>
 <!ENTITY fxaccount_status_device_name             'Seadme nimi'>
 <!ENTITY fxaccount_status_sync_server             'Synci server'>

@@ -21,7 +21,7 @@
 <!ENTITY  crash_include_url2             "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
 <!ENTITY  crash_sorry                    "Meil on kahju">
 <!ENTITY  crash_comment                  "Lisa kommentaar (kommentaarid on avalikult nähtavad)">
-<!ENTITY  crash_allow_contact2           "&vendorShortName;l lubatakse vajadusel raportiga seoses ühendust võtta">
+<!ENTITY  crash_allow_contact2           "&vendorShortName;l lubatakse vajadusel raporti asjus ühendust võtta">
 <!ENTITY  crash_email                    "Sinu e-posti aadress">
 <!ENTITY  crash_closing_alert            "Kas väljuda ilma raportit saatmata?">
 <!ENTITY  sending_crash_report           "Vearaporti saatmine\u2026">
