@@ -146,7 +146,11 @@ selected to be added to the home page. -->
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
 <!ENTITY pref_char_encoding_off "Nie pokazuj">
-<!ENTITY pref_clear_private_data "Wyczyść dane prywatne">
+<!ENTITY pref_clear_private_data2 "Wyczyść teraz">
+<!ENTITY pref_clear_private_data_category "Wyczyść prywatne dane">
+<!ENTITY pref_clear_on_exit_title "Czyść zawsze przy wyłączaniu">
+<!ENTITY pref_clear_on_exit_summary "Przeglądarka &brandShortName; zawsze będzie czyściła prywatne dane po wybraniu opcji &bdquo;Zakończ&rdquo; z głównego menu">
+<!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
 <!ENTITY pref_plugins "Wtyczki">
 <!ENTITY pref_plugins_enabled "Włączone">
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
