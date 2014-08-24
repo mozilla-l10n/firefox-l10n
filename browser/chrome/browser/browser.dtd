@@ -327,7 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Senest lukkede faneblade">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Senest lukkede vinduer">
-<!ENTITY historyRestoreLastSession.label "Genskab forrige session">
+<!ENTITY historyRestoreLastSession.label "Gendan forrige session">
 
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -337,12 +337,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Tilpas">
 <!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
-<!ENTITY appMenuCustomizeExit.label "Forlad tilpasning">
+<!ENTITY appMenuCustomizeExit.label "Afslut tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Afslut tilpasning">
 <!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
-<!ENTITY appMenuHistory.restoreSession.label "Genskab forrige session">
+<!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis sidepanelet Historik">
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
 
