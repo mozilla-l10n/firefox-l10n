@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Napsauta, niin näet lisää valintoja">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Vahvista uudelleen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Lähettää järjestäjälle uudelleenvahvistuksen">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Tallenna kopio">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Tallenna kalenteriin kopio tapahtumasta ilman, että järjestäjä saa tietää. Osallistujaluettelo tyhjennetään.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Alustava">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Hyväksy tapahtumakutsu alustavasti">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alustava kaikki">
