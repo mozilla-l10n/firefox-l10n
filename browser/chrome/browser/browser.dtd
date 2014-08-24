@@ -696,6 +696,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
 <!ENTITY customizeMode.toolbars "Zobraziť/skryť panely s nástrojmi">
 <!ENTITY customizeMode.titlebar "Panel s titulkom okna">
+<!ENTITY customizeMode.lwthemes "Témy">
+<!ENTITY customizeMode.lwthemes.myThemes "Moje témy">
+<!ENTITY customizeMode.lwthemes.recommended "Odporúčané">
+<!ENTITY customizeMode.lwthemes.menuManage "Spravovať">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">
