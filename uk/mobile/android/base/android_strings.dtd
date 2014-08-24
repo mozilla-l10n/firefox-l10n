@@ -14,16 +14,16 @@
 
 <!ENTITY  switch_to_tab "Перейти у вкладку">
 
-<!ENTITY  crash_reporter_title "Доповідач про аварії &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; зіткнувся з проблемою та впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
-<!ENTITY  crash_send_report_message3 "Повідомте &vendorShortName; про це падіння щоб ми змогли його виправити">
+<!ENTITY  crash_reporter_title "Звіти про падіння &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; зіткнувся з проблемою та аварійно завершив роботу. Ваші вкладки повинні бути показані на початковій сторінці &brandShortName; після перезапуску.">
+<!ENTITY  crash_send_report_message3 "Повідомте &vendorShortName; про це падіння, щоб вони змогли його виправити">
 <!ENTITY  crash_include_url2 "Включно з адресою відвіданої сторінки">
 <!ENTITY  crash_sorry "Перепрошуємо">
 <!ENTITY  crash_comment "Додати коментар (коментарі публічно видимі)">
 <!ENTITY  crash_allow_contact2 "Дозволити &vendorShortName; зв’язатись з вами стосовно цього звіту">
 <!ENTITY  crash_email "Ваш email">
-<!ENTITY  crash_closing_alert "Вийти після надсилання звіту про аварію?">
-<!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
+<!ENTITY  crash_closing_alert "Вийти після відправки звіту про падіння?">
+<!ENTITY  sending_crash_report "Відправка звіту про падіння\u2026">
 <!ENTITY  crash_close_label "Закрити">
 <!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
 <!ENTITY  exit_label "Вийти">
@@ -63,12 +63,12 @@
 <!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Нову вкладку відкрито">
 
-<!ENTITY settings "Настройки">
-<!ENTITY settings_title "Настройки">
+<!ENTITY settings "Налаштування">
+<!ENTITY settings_title "Налаштування">
 <!ENTITY pref_category_advanced "Додатково">
 <!ENTITY pref_category_customize "Вподобання">
 <!ENTITY pref_category_search3 "Пошук">
-<!ENTITY pref_category_search_summary "Налаштувати пошуковців">
+<!ENTITY pref_category_search_summary "Налаштувати пошуковики">
 <!ENTITY pref_category_display "Відображення">
 <!ENTITY pref_category_privacy_short "Приватність">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -157,7 +157,7 @@ size. -->
 <!ENTITY pref_sync "Синхронізація">
 <!ENTITY pref_search_suggestions "Показувати пошукові припущення">
 <!ENTITY pref_import_android "Імпорт з Андроїду">
-<!ENTITY pref_private_data_history "Історія переглідів та завантажень">
+<!ENTITY pref_private_data_history "Історія переглядів та завантажень">
 <!ENTITY pref_private_data_formdata "Історія форм та пошуків">
 <!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
 <!ENTITY pref_private_data_passwords "Збережені паролі">
@@ -169,7 +169,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "Про &brandShortName;">
 <!ENTITY pref_vendor_faqs "Питання">
-<!ENTITY pref_vendor_feedback "Дати відгук">
+<!ENTITY pref_vendor_feedback "Залишити відгук">
 
 <!ENTITY pref_dialog_set_default "Встановити типовим">
 <!ENTITY pref_dialog_default "Типовий">
@@ -193,17 +193,17 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "Звіт про здоров’я &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Надсилає до &vendorShortName; дані про здоров’я вашого браузера та допомогає вам дізнатись більше про його швидкодію">
-<!ENTITY datareporting_abouthr_title "Переглянути Звіт про здоров’я">
+<!ENTITY datareporting_fhr_title "Звіт про справність &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Надсилає до &vendorShortName; дані про справність вашого браузера та допомогає вам дізнатись більше про його швидкодію">
+<!ENTITY datareporting_abouthr_title "Переглянути Звіт про справність">
 <!ENTITY datareporting_telemetry_title "Телеметрія">
-<!ENTITY datareporting_telemetry_summary "Надсилає до &vendorShortName; дані про швидкодію та використання браузера, а також про ваше апаратне забезпечення та налаштування, щоб допомогти нам зробити &brandShortName; кращим">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; надсилає до  &vendorShortName; звіти про падіння, щоб зробити ваш браузер стабільнішим та безпечнішим">
+<!ENTITY datareporting_telemetry_summary "Надсилає у &vendorShortName; дані про використання, апаратне забезпечення та налаштування вашого браузера, щоб допомогти нам зробити &brandShortName; кращим">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; надсилає звіти про падіння у &vendorShortName;, щоб допомогти зробити ваш браузер більш стабільним та безпечним">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Звіти про аварії">
-<!ENTITY datareporting_wifi_title "Служби місцезнаходження &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Допоможіть нам покращити геолокаційні служби для Відкритої Мережі дозволивши &brandShortName;’у збирати та надсилати анонімні дані про мобільні вежі.">
+<!ENTITY datareporting_crashreporter_title_short "Звіти про падіння">
+<!ENTITY datareporting_wifi_title "Служба місцезнаходження &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Працюючи у фоновому режимі, отримує дані про розташування Wi-Fi та мобільних веж і надсилає їх у &brandShortName;, щоб покращити наш геолокаційний сервіс.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -359,12 +359,12 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "котрий запущено">
+<!ENTITY identity_run_by "який запущено">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Ця сторінка відображає вміст котрий не є безпечним.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокував вміст, котрий не є безпечним.">
-<!ENTITY blocked_mixed_content_message_bottom "Більшість вебсайтів будуть працювати нормально навіть коли цей вміст заблоковано.">
+<!ENTITY loaded_mixed_content_message "Ця сторінка відображає вміст, який не є безпечним.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокував вміст, який не є безпечним.">
+<!ENTITY blocked_mixed_content_message_bottom "Більшість веб-сайтів будуть працювати нормально навіть коли цей вміст заблоковано.">
 <!ENTITY learn_more "Дізнатись більше">
 <!ENTITY enable_protection "Увімкнути захист">
 <!ENTITY disable_protection "Вимкнути захист">
@@ -374,9 +374,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
 
 <!ENTITY bookmarkhistory_button_import "Імпорт">
-<!ENTITY bookmarkhistory_import_both "Імпортування закладок і історії з Андроїду">
-<!ENTITY bookmarkhistory_import_bookmarks "Імпортування закладок з Андроїду">
-<!ENTITY bookmarkhistory_import_history "Імпортування історії з Андроїду">
+<!ENTITY bookmarkhistory_import_both "Імпорт закладок та історії з Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Імпорт закладок з Android">
+<!ENTITY bookmarkhistory_import_history "Імпорт історії з Android">
 <!ENTITY bookmarkhistory_import_wait "Зачекайте…">
 
 <!ENTITY suggestions_prompt3 "Хочете увімкнути пошукові підказки?">
