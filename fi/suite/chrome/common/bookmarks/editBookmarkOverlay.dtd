@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Pikakomento:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Näytä kaikki avainsanat">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Avaa kirjanmerkki sivupaneeliin">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "s">
 <!ENTITY editBookmarkOverlay.choose.label                    "Valitse…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Uusi kansio">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "U">
