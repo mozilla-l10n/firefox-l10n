@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
+<!ENTITY  onboard_start_message "Víta Vás &brandShortName;">
+<!ENTITY  onboard_start_subtext "Zaviazaný Vám, Vášmu súkromiu a otvorenému webu">
+<!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
+<!ENTITY  onboard_start_button_browser "Začať prehliadať">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Záložky">
