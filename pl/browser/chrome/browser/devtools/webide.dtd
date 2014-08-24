@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Otwórz aplikację zdalną…">
 <!ENTITY projectMenu_importHostedApp_accesskey "r">
 <!ENTITY projectMenu_selectApp_label "Otwórz aplikację…">
-<!ENTITY projectMenu_selectApp_accessley "O">
+<!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Zainstaluj i uruchom">
 <!ENTITY projectMenu_play_accesskey "m">
 <!ENTITY projectMenu_stop_label "Zakończ aplikację">
