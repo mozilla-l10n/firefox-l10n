@@ -114,8 +114,6 @@
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 <!ENTITY options.selectDevToolsTheme.label   "Zvoľte tému vzhľadu:">
-<!ENTITY options.darkTheme.label             "Tmavá téma">
-<!ENTITY options.lightTheme.label            "Svetlá téma">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
