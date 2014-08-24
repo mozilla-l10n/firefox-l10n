@@ -4,6 +4,10 @@
 
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
+<!ENTITY onboard_start_message "Добро пожаловать в &brandShortName;!">
+<!ENTITY onboard_start_subtext "Преданный вам, вашей приватности и открытому Интернету">
+<!ENTITY onboard_start_button_account "Войти в &brandShortName;">
+<!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">

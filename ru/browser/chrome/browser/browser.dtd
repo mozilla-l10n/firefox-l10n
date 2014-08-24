@@ -103,12 +103,11 @@
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY findShareServices.label "Найти другие службы Публикации…">
 <!ENTITY sharePageCmd.label "Поделиться этой страницей">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "и">
 <!ENTITY shareLinkCmd.label "Поделиться этой ссылкой">
-<!ENTITY shareLinkCmd.accesskey "е">
+<!ENTITY shareLinkCmd.accesskey "о">
 <!ENTITY shareImageCmd.label "Поделиться этой картинкой">
 <!ENTITY shareImageCmd.accesskey "о">
 <!ENTITY shareSelectCmd.label "Поделиться выделенным текстом">
@@ -503,6 +502,13 @@
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
 <!ENTITY customizeMode.toolbars "Показать / Скрыть панели">
 <!ENTITY customizeMode.titlebar "Заголовок">
+<!ENTITY customizeMode.lwthemes "Темы">
+<!ENTITY customizeMode.lwthemes.myThemes "Мои темы">
+<!ENTITY customizeMode.lwthemes.recommended "Рекомендуемые">
+<!ENTITY customizeMode.lwthemes.menuManage "Управление">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "п">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Получить больше тем">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "о">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Переключаться на чаты">
 <!ENTITY social.chatBar.accesskey "ч">
