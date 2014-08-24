@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Otvoriť hostovanú aplikáciu…">
 <!ENTITY projectMenu_importHostedApp_accesskey "h">
 <!ENTITY projectMenu_selectApp_label "Otvoriť aplikáciu…">
-<!ENTITY projectMenu_selectApp_accessley "O">
+<!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Nainštalovať a spustiť">
 <!ENTITY projectMenu_play_accesskey "N">
 <!ENTITY projectMenu_stop_label "Zastaviť aplikáciu">
