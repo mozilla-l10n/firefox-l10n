@@ -193,6 +193,8 @@
 <!ENTITY devAppMgrMenu.accesskey "G">
 <!ENTITY webide.label "WebIDE">
 <!ENTITY webide.accesskey "W">
+<!ENTITY webide.keycode "VK_F8">
+<!ENTITY webide.keytext "F8">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Attiva strumenti">
