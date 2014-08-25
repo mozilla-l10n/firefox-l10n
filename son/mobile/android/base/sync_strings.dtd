@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox kontey">
+
+<!ENTITY fxaccount_custom_server_account_title "Kontoo ka goy feršikaa ga">
+<!ENTITY fxaccount_custom_server_sync_title "Bayhaya hangantey jiši feršikaa ga">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
+<!ENTITY fxaccount_status_auth_server "Kontu feršikaw">
 <!ENTITY fxaccount_status_device_name "Jinay maa">
+<!ENTITY fxaccount_status_sync_server "Sync feršikaw">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_needs_verification2 "War kontoo ši hin ka tabatandi. Karkar ka tabatandiyan bataga sanba taaga.">

@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Doo-šilbawey">
 <!ENTITY  history_title "Taariki">
 <!ENTITY  reading_list_title "Caw maašeede">
+<!ENTITY  recent_tabs_title "Nor loku korkorantey">
 
 <!ENTITY  switch_to_tab "Bere nor loku ga">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hõ">
 <!ENTITY history_yesterday_section "Bi">
-<!ENTITY history_week_section "A ga too jirbi 7">
-<!ENTITY history_older_section "A ga bisa jirbi 7">
+<!ENTITY history_week_section2 "Jirbiyye bisantaa">
+<!ENTITY history_older_section2 "Handu bisantaa">
 
 <!ENTITY go "Koy">
 <!ENTITY search "Ceeci">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
+<!ENTITY pref_developer_paint_flashing "Doo gaayay">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
 
 <!ENTITY pref_category_home "Šintin">
 <!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋše">
 <!ENTITY pref_category_home_panels "Fasaldogey">
-<!ENTITY pref_home_add_panel "Fasaldoo tonton">
 <!ENTITY home_add_panel_title "Fasaldoo taaga tonton">
 <!ENTITY home_add_panel_empty "Alhaa naŋ, ir mana hin ka duu fasaldoo kul ka tonton.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
-<!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
+<!ENTITY pref_clear_private_data2 "Tuusu sohõda">
+<!ENTITY pref_clear_private_data_category "Sutura bayhayey tuusu">
+<!ENTITY pref_clear_on_exit_title "Tuusu waati kul ka fatta">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; ga war bayhayey tuusu nga boŋ še waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋ ga">
+<!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
 <!ENTITY pref_plugins_enabled "Dirante">
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nor loku taaga">
 <!ENTITY new_private_tab "Sutura nor loku taaga">
 <!ENTITY close_all_tabs "Nor lokey daabu">
+<!ENTITY close_private_tabs "Sutura nor lokey daabu">
 <!ENTITY tabs_normal "Nor lokey">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
 <!ENTITY contextmenu_open_private_tab "Feeri sutura nor loku ra">
-<!ENTITY contextmenu_open_in_reader "Feeri cawkaw ra">
 <!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
+<!ENTITY home_closed_tabs_title "Nor lokey kaŋ kokor ka daaba">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
-<!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
-<!ENTITY home_most_recent_title "Ikokorantaa">
+<!ENTITY home_open_all "Ikul feeri">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Hala &formatS; do">
+
+<!ENTITY private_browsing_title "Sutura naarumi">
+<!ENTITY private_tabs_panel_empty_desc "War sutura nor lokey ga bangay ne. Baa kaŋ ir ši taariki gaabu war ceeciyan wala aleewawey ga, doo-šilbawey nda tukey kaŋ war n\u0027i zumandi ga cindi war boŋ jinaa ga.">
+<!ENTITY private_tabs_panel_learn_more "Bay ka tonton wala?">
 
 <!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
 
