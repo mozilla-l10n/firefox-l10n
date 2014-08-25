@@ -18,6 +18,7 @@
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -29,6 +30,8 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
+
+<!ENTITY options.showUserAgentStyles.label "ब्राउज़र शैलियाँ दिखाएँ">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -66,6 +69,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "क्रोम और सहयुक्ति डिबगिंग सक्रिय करें">
+<!ENTITY options.enableChrome.tooltip2  "इस विकल्प को चालू करना आपको ब्राउज़र संदर्भ में कई डेवलपर टूल को उपयोग करने की स्वीकृति देगा और सहयुक्ति प्रबंधक से उन्हें डिबग करेगा">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -78,11 +83,11 @@
 
 <!ENTITY options.disableJavaScript.label     "निष्क्रिय करें JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "इस विकल्प को बंद करना जावास्क्रिप्ट को निष्क्रिय कर देगा मौजूदा टैब के लिए. यदि वह टैब या औज़ारपेटी बंद है तो तो यह सेटिंग विस्मृत कर दिया जाएगा.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "कैश निष्क्रिय करें *">
+<!ENTITY options.disableCache.label2     "कैशे निष्क्रिय करें (जब औज़ारपेटी खुला है)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -142,13 +147,15 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "सामान्य वरीयताएँ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "स्थिर लॉग सक्रिय करें">
-
+<!ENTITY options.enablePersistentLogs.tooltip  "यदि आप इस विकल्प को सक्रिय करना चाहते हैं तो वेब कंसोल और संजाल मॉनिटर हर बार आउटपुट को साफ नहीं करेगा जब आप किसी नए पन्ने को संचरित करते हैं">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -157,3 +164,19 @@
 <!ENTITY options.showPlatformData.label    "दिखाएँ गेक्को मंच डेटा">
 <!ENTITY options.showPlatformData.tooltip  "आप इस विकल्प को सक्षम जावास्क्रिप्ट प्रोफाइलर रिपोर्टों गेक्को मंच 
 प्रतीकों शामिल होंगे.">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+<!ENTITY options.sourceeditor.label                     "संपादक वरीयताएँ">
+<!ENTITY options.sourceeditor.detectindentation.label   "हाशिया जाँचें">
+
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "कोष्ठक स्वतःबंद">
+
+
+
+<!ENTITY options.sourceeditor.tabsize.label             "टैब आकार (T)">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "कीबाइंडिंग (K)">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "तयशुदा">

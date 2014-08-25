@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "टैब फिर लोड करें">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "सभी टैब फिर लोड करें">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "नया समूह">
 <!ENTITY  moveToNewWindow.label              "नए विंडो में खिसकाएँ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "बंद टैब वापस लें">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 <!ENTITY  closeTab.label                     "टैब बंद करें">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -80,6 +80,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "पुस्तचिह्नित औज़ारपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद पुस्तचिह्नित करता है">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "पृष्ठ स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -254,6 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "डेवलेपर टूलबार बंद करें">
 <!ENTITY devToolbarMenu.label              "डेवलेपर टूलबार (v)">
 <!ENTITY devToolbarMenu.accesskey          "v">
+
+
 
 
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -698,11 +706,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "साझा करने के लिए कैमरा (C):">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "साझा करने के लिए माइक्रोफोन (M):">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "कैमरा / माइक्रोफोन पहुँच">
 <!ENTITY webrtcIndicatorButton.tooltip "साइटों को दिखाएँ जिसे आप कैमरा या माइक्रोफोन पर साझा करना चाहते हैं">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "अधिकतर वेबसाइट अभी भी ठीक से काम करते हैं इसके बावजूद कि सामग्री रूका है.">
 
