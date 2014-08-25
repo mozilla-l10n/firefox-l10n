@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "एकमेव निवडकाचे प्रत बवना">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "नोड नष्ट करा">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
