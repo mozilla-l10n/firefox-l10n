@@ -12,3 +12,8 @@
   - documentation on web development on the web. -->
 
 
+
+
+<!ENTITY gotoLineCmd.label         "Отиване на ред…">
+<!ENTITY gotoLineCmd.key           "J">
+<!ENTITY gotoLineCmd.accesskey     "р">

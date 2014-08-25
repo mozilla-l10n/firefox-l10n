@@ -3,37 +3,52 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-
+<!ENTITY setupButton.label          "Настройка на &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "Н">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ви позволява от всяко ваше устройство да имате достъп до вашата история, отметки, пароли и отворени подпрозорци.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
+
+<!ENTITY updatePass.label             "Обновяване">
+<!ENTITY resetPass.label              "Нулиране">
 <!-- Manage Account -->
 
+<!ENTITY manageAccount.label          "Управление на сметката">
+<!ENTITY manageAccount.accesskey      "с">
+<!ENTITY viewQuota.label              "Показване на квотата">
+<!ENTITY changePassword2.label        "Промяна на парола…">
+<!ENTITY myRecoveryKey.label          "Моят ключ за възстановяване">
+<!ENTITY resetSync2.label             "Анулиране на Sync…">
 
+<!ENTITY pairDevice.label             "Сдвояване на устройство">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncMy.label               "Sync на моите">
+<!ENTITY engine.bookmarks.label     "Отметки">
+<!ENTITY engine.bookmarks.accesskey "О">
+<!ENTITY engine.tabs.label          "Подпрозорци">
+<!ENTITY engine.tabs.accesskey      "П">
+<!ENTITY engine.history.label       "История">
+<!ENTITY engine.history.accesskey   "И">
+<!ENTITY engine.passwords.label     "Пароли">
+<!ENTITY engine.passwords.accesskey "П">
+<!ENTITY engine.prefs.label         "Настройки">
+<!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.addons.label        "Добавки">
+<!ENTITY engine.addons.accesskey    "б">
 <!-- Device Settings -->
 
-
+<!ENTITY syncDeviceName.label       "Име на устройството:">
+<!ENTITY syncDeviceName.accesskey   "И">
+<!ENTITY unlinkDevice.label           "Разкачване на устройството">
 <!-- Footer stuff -->
 
+<!ENTITY prefs.tosLink.label        "Условия за ползване на услугата">
+<!ENTITY prefs.ppLink.label         "Политика за личните данни">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
+<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашия акаунт…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -41,20 +56,25 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "не е проверен.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "Моля, впишете се, за да се свържете наново">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "Не сте се вписал(а).">
+<!ENTITY signIn.label                "Вписване">
+<!ENTITY manage.label                "Управление">
+<!ENTITY disconnect.label            "Развързване…">
+<!ENTITY verify.label                "Проверка на мейла">
+<!ENTITY forget.label                "Забравяне на този мейл">
 
+<!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите подпрозорци, отметки, пароли и други.">
+<!ENTITY welcome.signIn.label "Вписване">
+<!ENTITY welcome.createAccount.label "Създаване на акаунт">
 
-
-
-
-
-
-
-
+<!ENTITY welcome.useOldSync.label "Използвате ли по-стара версия на Sync?">

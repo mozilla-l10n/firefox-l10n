@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
+<!ENTITY getUserMediaDialog.title                   "Споделяне на медия">
+<!ENTITY getUserMediaDialog.button.accept.label     "Споделяне">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "С">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Отказ">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "О">
 
-
-
-
-
-
+<!ENTITY getUserMediaDialog.video.label             "Избор на камера">
+<!ENTITY getUserMediaDialog.video.noVideo           "Без видео">
+<!ENTITY getUserMediaDialog.audio.label             "Избор на микрофон">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Без аудио">

@@ -5,5 +5,8 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-
-
+<!ENTITY title "Шрифтове">
+<!ENTITY showAllFonts "Показване на всички шрифтове използвани на тази страница">
+<!ENTITY usedAs "Използван като:">
+<!ENTITY system "системен">
+<!ENTITY remote "отдалечен">

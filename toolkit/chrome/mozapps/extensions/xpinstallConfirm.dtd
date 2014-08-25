@@ -4,6 +4,10 @@
 <!-- extracted from institems.xul -->
 
 
+<!ENTITY dialog.title            "Инсталация на софтуер">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Инсталирайте добавки само от автори, на които вярвате.">
+<!ENTITY warningSecondary.label  "Зловреден софтуер може да повреди вашия компютър или да наруши личната ви неприкосновеност.">
 
-
+<!ENTITY from.label "от:">
 
