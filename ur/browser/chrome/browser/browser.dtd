@@ -45,9 +45,9 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "نیا گروپ">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
 <!ENTITY  moveToNewWindow.accesskey          "د">
-<!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں...">
+<!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
-<!ENTITY  undoCloseTab.label                 "ٹیب بند کالعدم کریں">
+<!ENTITY  undoCloseTab.label                 "ٹیب بند کو کالعدم کریں">
 <!ENTITY  undoCloseTab.accesskey             "ک">
 <!ENTITY  closeTab.label                     "ٹیب بند کر دیں">
 <!ENTITY  closeTab.accesskey                 "ب">
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "محل وقوع کھولیں…">
 <!ENTITY openFileCmd.label "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey "م">
 <!ENTITY openFileCmd.commandkey "o">
@@ -80,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "نشانیاں ٹول بار">
 <!ENTITY personalbarCmd.accesskey "ن">
 <!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو نشانی کگاتا ہے">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "تمام ٹیب پھر لوڈ کریں">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ت">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "تمام ٹیب بک مارک کریں…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ٹ">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "ٹیب بند کالعدم کریں">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ک">
 
 <!ENTITY pageSourceCmd.label "صفحہ ماخذ">
 <!ENTITY pageSourceCmd.accesskey "م">
@@ -128,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "نشانیاں">
 <!ENTITY bookmarksMenu.accesskey "ن">
-
+<!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
 <!ENTITY editThisBookmarkCmd.label "یہ نشانی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "ن">
@@ -151,14 +159,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "غیر چھانٹی شدہ نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
+<!ENTITY backCmd.label                "واپس">
 <!ENTITY backButton.tooltip           "ایک صفحہ واپس جائیں">
-
+<!ENTITY forwardCmd.label             "آگے">
 <!ENTITY forwardButton.tooltip        "ایک صفحہ آگے جائیں">
 <!ENTITY backForwardButtonMenu.tooltip "سابقات دکھانے کے لیے دایاں کلک کریں یا نیچے کھینچیں">
 <!ENTITY backForwardButtonMenuMac.tooltip "سابقات دکھانے کے لیے نیچے کھینچیں">
-
+<!ENTITY reloadCmd.label              "پھر لوڈ کریں">
 <!ENTITY reloadButton.tooltip         "حالیہ صفحہ پھر لوڈ کریں">
-
+<!ENTITY stopCmd.label                "رکیں">
 <!ENTITY stopCmd.macCommandKey        "۔">
 <!ENTITY stopButton.tooltip           "یہ صفحہ لوڈ کرنا روکیں">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
@@ -257,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "ڈ">
 <!ENTITY devAppMgrMenu.label               "ایپ مینیجر">
 <!ENTITY devAppMgrMenu.accesskey           "ا">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ٹوگل ٹول">
@@ -436,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "ن">
 <!ENTITY setDesktopBackgroundCmd.label      "ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "س">
-
+<!ENTITY bookmarkPageCmd2.label       "یہ صفحہ نشان زد کریں">
 <!ENTITY bookmarkThisLinkCmd.label      "یہ ربط نشان زد کریں">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "یہ فریم نشان زد کریں">
@@ -699,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "شیئر کرنے کے لیے دریچہ یا سکرین:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "د">
 <!ENTITY getUserMedia.selectMicrophone.label "شیئر کرنے کےلیے مائیکروفون:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
+<!ENTITY getUserMedia.allWindowsShared.message "آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔">
 
 <!ENTITY webrtcIndicatorButton.label "کیمرہ / مائیکروفون رسائی">
 <!ENTITY webrtcIndicatorButton.tooltip "سائٹیں دکھاتا ہے جن کے ساتھ آپ اس وقت اپنا کیمرہ یا مائیکروفون شیئر کر رہے ہیں">
+
+<!ENTITY loopCallButton.tooltip "کسی کو بات چیت کی دعوت دیں">
 
 <!ENTITY mixedContentBlocked.moreinfo "زیادہ تر ویب سائٹیں اس مواد کے بلاک ہونے کے بوجود بھی ٹھیک سے کام کریں گی۔">
 

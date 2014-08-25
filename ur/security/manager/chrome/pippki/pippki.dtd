@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "تحفظ شدہ ٹوکن توثیق کاری">
 <!ENTITY protectedAuth.msg "برا ئے مہربانی ٹوکن کو توثیق کریں۔ توثیق کاری کا طریقہ آپ کے ٹوکن کی قسم پر انحصار کرتا ہے۔">
 <!ENTITY protectedAuth.tokenName.label "ٹوکن:">
-
-<!ENTITY certErrorDlg.title "محفوظ کنکشن ناکام ہوا">
-<!ENTITY certErrorDlg.info1 "یہ مسلہ پیش کار کی تشکیل کا ہو سکتا ہے یا پھر کوئی پیش کار کا روپ بھرنے کی کوشش کر رہا ہے۔">
-<!ENTITY certErrorDlg.info2 "اگر آپ ماضی میں اس پیش کار کے ساتھ کامیابی سے جڑے تھے تو پھر یہ نقص شاید عارضی ہے اور آپ پھر کوشش کریں۔">

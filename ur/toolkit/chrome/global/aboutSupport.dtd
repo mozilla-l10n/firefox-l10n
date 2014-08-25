@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "صارف ایجنٹ">
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
 
+
 <!ENTITY aboutSupport.showDir.label "ڈائریکٹری کھولیں">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -63,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "اہم ترمیمی ترجیحات">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
-<!ENTITY aboutSupport.modifiedPrefsValue "قدر">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js ترجیحات">
 <!ENTITY aboutSupport.userJSDescription "آپ کے پروفائل میں ایک<a id='prefs-user-js-link'> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو &brandShortName; نے نہیں بنائیں تھیں۔">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 

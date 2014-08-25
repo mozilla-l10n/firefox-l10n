@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "ضابطہ بندی:">
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "مشمول">
-<!ENTITY  generalSecurityDetails   "تفصیلات">
-<!ENTITY  generalSecurityDetails.accesskey "ڈ">
 
 <!ENTITY  mediaTab              "میڈیا">
 <!ENTITY  mediaTab.accesskey    "م">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "سلامتی">
 <!ENTITY  securityTab.accesskey "س">
-<!ENTITY  securityHeader        "اس صفحے کے لیے سلامتی معلومات">
 <!ENTITY  securityView.certView "تصدیق نامہ نظارہ کریں">
 <!ENTITY  securityView.accesskey "ن">
 <!ENTITY  securityView.unknown   "نامعلوم">
