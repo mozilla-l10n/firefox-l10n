@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "حسابات فَيَرفُكس">
+
+<!ENTITY fxaccount_custom_server_account_title "يستخدم حسابًا على خادوم">
+<!ENTITY fxaccount_custom_server_sync_title "يحفظ بيانات التزامن على خادوم">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
+<!ENTITY fxaccount_status_auth_server "خادوم الحساب">
 <!ENTITY fxaccount_status_device_name "اسم الجهاز">
+<!ENTITY fxaccount_status_sync_server "خادوم التزامن">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: مُفعّل">
 <!ENTITY fxaccount_status_needs_verification2 "يحتاج حسابك للتأكيد. انقر لإعادة إرسال بريد التأكيد.">

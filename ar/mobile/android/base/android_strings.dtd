@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "العلامات">
 <!ENTITY  history_title "التأريخ">
 <!ENTITY  reading_list_title "قائمة القراءة">
+<!ENTITY  recent_tabs_title "الألسنة الحديثة">
 
 <!ENTITY  switch_to_tab "انتقل للسان">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "اليوم">
 <!ENTITY history_yesterday_section "أمس">
-<!ENTITY history_week_section "منذ 7 أيام">
-<!ENTITY history_older_section "أقدم من 7 أيام">
+<!ENTITY history_week_section2 "الأسبوع الماضي">
+<!ENTITY history_older_section2 "الشهر الماضي">
 
 <!ENTITY go "اذهب">
 <!ENTITY search "ابحث">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
 <!ENTITY pref_category_devtools "أدوات المطورين">
+
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
 
 <!ENTITY pref_category_home "الرئيسية">
 <!ENTITY pref_category_home_summary "خصص صفحة البداية">
 <!ENTITY pref_category_home_panels "اللوحات">
-<!ENTITY pref_home_add_panel "أضف لوحة">
 <!ENTITY home_add_panel_title "أضف لوحة جديدة">
 <!ENTITY home_add_panel_empty "للأسف لم نعثر على أي لوحة لتضيفها.">
 <!-- Localization note (home_add_panel_installed):
@@ -121,7 +122,7 @@
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
-
+<!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
-<!ENTITY pref_clear_private_data "امسح البيانات الخاصة">
+<!ENTITY pref_clear_private_data2 "امسح الان">
+<!ENTITY pref_clear_private_data_category "امسح البيانات الخاصة">
+<!ENTITY pref_clear_on_exit_title "امسح دائمًا عند الخروج">
+<!ENTITY pref_clear_on_exit_summary "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك \&quot;أغلق\&quot; من القائمة الرئيسية">
+<!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "لسان جديد">
 <!ENTITY new_private_tab "لسان خاص جديد">
 <!ENTITY close_all_tabs "أغلق كل الألسنة">
+<!ENTITY close_private_tabs "أغلق الألسنة الخاصة">
 <!ENTITY tabs_normal "الألسنة">
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
-<!ENTITY contextmenu_open_in_reader "افتح في القارئ">
 <!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
 <!ENTITY contextmenu_share "تشارَك">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
+<!ENTITY home_closed_tabs_title "الألسنة المغلقة مؤخرًا">
 <!ENTITY home_last_tabs_title "الألسنة من المرة السابقة">
-<!ENTITY home_last_tabs_open "افتح كل الألسنة من المرة السابقة">
 <!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
-<!ENTITY home_most_recent_title "الأحدث">
+<!ENTITY home_open_all "افتح الكل">
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "انتقل أعلى إلى &formatS;">
+
+<!ENTITY private_browsing_title "التصفح الخاص">
+<!ENTITY private_tabs_panel_empty_desc "ألسنتك الخاصة ستظهر هنا. بينما لا نحفظ تاريخ تصفحك أو الكعكات، إلا أن العلامات و الملفات التي تحمّّلها ستبقى محفوظة على جهازك.">
+<!ENTITY private_tabs_panel_learn_more "هل تريد معرفة المزيد؟">
 
 <!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">
 

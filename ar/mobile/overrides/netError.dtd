@@ -101,7 +101,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> 
+<li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "فشل الاتصال الآمن">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
