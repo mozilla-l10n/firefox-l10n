@@ -165,7 +165,7 @@ ja sa võid hiljem uuesti proovida.</li>
 
 <!ENTITY phishingBlocked.title                 "Veebivõltsingu kahtlus!">
 <!ENTITY phishingBlocked.longDesc              "
-<p>Sisestades infot sellistele lehtedele, võib see kaasa tuua identiteedivarguse või muu pettuse.</p>
+<p>Sellistele lehtedele andmete sisestamine võib kaasa tuua identiteedivarguse või muu pettuse.</p>
 <p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
