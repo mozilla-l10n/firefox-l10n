@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "రిమోట్ DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "పోర్టు:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "ఉదాహరణ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "అన్ని ప్రొటోకాల్స్ కు  ఈప్రోక్సీ సర్వరును వుపయోగించండి">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
-
+<!ENTITY  autologinproxy.label          "సంకేతపదం భద్రపరచబడితే ధృవీకరణ కొరకు అడుగవద్దు">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "మీరు భద్రపరచిన క్రెడెన్షియల్ కలిగివున్నప్పుడు ఈ ఐచ్చికం మిమ్ములను ప్రాక్సీలకు ధృవపరచును. ధృవీకరణ విఫలమైతే మీరు అడుగబడతారు.">
