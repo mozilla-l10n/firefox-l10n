@@ -53,20 +53,26 @@
 <!ENTITY viewMenu.label               "दृश्य">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "पंक्ति क्रमांक दिखाएँ (L)">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "पाठ लपेटें (W)">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "ट्रेलिंग स्थान उभारें (H)">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "बड़ा फाँट आकार (a)">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "छोटा फाँट आकार (m)">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "सामान्य गति (N)">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "संपादन">
 <!ENTITY editMenu.accesskey           "E">

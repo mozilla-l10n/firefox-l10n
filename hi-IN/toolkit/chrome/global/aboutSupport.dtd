@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "उपयोक्ता प्रतिनिधि">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया विंडोज़">
+
 <!ENTITY aboutSupport.showDir.label "खुली निर्देशिका">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +70,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "उपयोक्ता प्राथमिकताएँ">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वपूर्ण बंद वरीयताएँ">
+<!ENTITY aboutSupport.lockedPrefsName "नाम">
+<!ENTITY aboutSupport.lockedPrefsValue "मान">
 
 <!ENTITY aboutSupport.graphicsTitle "चित्रादि">
 
