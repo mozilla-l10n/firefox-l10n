@@ -11,11 +11,15 @@
 <!ENTITY clearOfflineAppCache.label         "Wissen">
 <!ENTITY clearOfflineAppCache.accesskey     "W">
 
-<!ENTITY offlineNotify.label                "Mij waarschuwen wanneer een webstie gegevens wil opslaan voor offlinegebruik.">
-<!ENTITY offlineNotify.accesskey            "M">
+<!ENTITY offlineAlwaysAllow.label           "Alle websites toestaan om gegevens op te slaan voor offlinegebruik">
+<!ENTITY offlineAlwaysAllow.accesskey       "A">
+<!ENTITY offlineExplicit.label              "Alleen websites met expliciete machtigingen toestaan">
+<!ENTITY offlineExplicit.accesskey          "e">
+<!ENTITY offlineNotifyAsk.label             "Mij waarschuwen wanneer websites gegevens willen opslaan voor offlinegebruik.">
+<!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "Toestemmingen beheren">
 <!ENTITY offlineNotifyPermissions.accesskey "T">
 
-<!ENTITY offlineAppsList.label              "De volgende websites hebben toestemming om gegevens op te slaan voor offlinegebruik:">
+<!ENTITY offlineAppsUsage.label             "De volgende websites gebruiken offlineopslag:">
 <!ENTITY offlineAppsListRemove.label        "Gegevens wissen…">
 <!ENTITY offlineAppsListRemove.accesskey    "G">
