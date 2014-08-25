@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY charsetMenu.label             "Кодиране на знаците">
+<!ENTITY charsetMenu.accesskey         "К">
 <!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
+<!ENTITY charsetMenuAutodet.label      "Автоматично разпознаване">
 <!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "А">
 
-
-
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.off.label     "(без)">
+<!ENTITY charsetMenuAutodet.off.accesskey "б">
+<!ENTITY charsetMenuAutodet.ja.label      "Японско">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "Я">
+<!ENTITY charsetMenuAutodet.ru.label      "Руско">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "Р">
+<!ENTITY charsetMenuAutodet.uk.label      "Украинско">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "У">
 
