@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Dèan briogadh airson barrachd roghainnean">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ath-dhearbh">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Cuiridh seo ath-dhearbhadh gun eagraiche">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Sàbhail lethbhreac dheth">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Sàbhail lethbhreac dhen tachartas sa mhìosachan, fiù mur am freagair thu an t-eagraiche. Thèid liosta nam freastalaichean fhalamhachadh.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "An dòchas">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Gabh ri cuireadh an tachartais gun chinnt">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Gach aon gun chinnt">
