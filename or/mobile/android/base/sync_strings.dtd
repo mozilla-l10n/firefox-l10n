@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox ଖାତା">
+
+<!ENTITY fxaccount_custom_server_account_title "ସର୍ଭର ଉପରେ ଖାତା ବ୍ୟବହାର କରୁଅଛି">
+<!ENTITY fxaccount_custom_server_sync_title "ସର୍ଭର ଉପରେ ସନ୍ତୁଳିତ ତଥ୍ୟ ସଂରକ୍ଷଣ କରୁଅଛି">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox ଖାତା">
 <!ENTITY fxaccount_status_signed_in_as "ଏହି ନାମରେ ସାଇନ ଇନ କରନ୍ତୁ">
+<!ENTITY fxaccount_status_auth_server "ଖାତା ସର୍ଭର">
 <!ENTITY fxaccount_status_device_name "ଉପକରଣର ନାମ">
+<!ENTITY fxaccount_status_sync_server "ସନ୍ତୁଳନ ସର୍ଭର">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ସକ୍ରିୟ ହୋଇଛି">
 <!ENTITY fxaccount_status_needs_verification2 "ଆପଣଙ୍କର ଖାତାକୁ ଯାଞ୍ଚ କରିବା ଆବଶ୍ୟକ। ଯାଞ୍ଚ ମେଲ ପୁଣି ପଠାଇବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">

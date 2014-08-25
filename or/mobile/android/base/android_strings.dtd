@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "ଚିହ୍ନିତ ସ୍ଥାନମାନ">
 <!ENTITY  history_title "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY  reading_list_title "ପଠନ ତାଲିକା">
+<!ENTITY  recent_tabs_title "ସାମ୍ପ୍ରତିକ ଟ୍ୟାବଗୁଡ଼ିକ">
 
 <!ENTITY  switch_to_tab "ଅନ୍ୟ ଏକ ଟ୍ୟାବକୁ ଯାଆନ୍ତୁ">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "ଆଜି">
 <!ENTITY history_yesterday_section "ଗତକାଲି">
-<!ENTITY history_week_section "7 ଦିନ ପୂର୍ବରୁ">
-<!ENTITY history_older_section "7 ଦିନରୁ ଅଧିକ ପୁରୁଣା">
+<!ENTITY history_week_section2 "ଗତ ସପ୍ତାହ">
+<!ENTITY history_older_section2 "ଗତ ମାସ">
 
 <!ENTITY go "ଯାଆନ୍ତୁ">
 <!ENTITY search "ଖୋଜନ୍ତୁ">
@@ -66,6 +67,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "ସଂରଚନା">
 <!ENTITY settings_title "ସଂରଚନା">
@@ -102,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ଖୋଜିବା ଘରେ ଅଧିକ ସମୟ ବଟନ ଦବାଇରଖି ଓ ତାହାପରେ &formatI; ଆଇକନ ଦବାଇ ନିଜ ତାଲିକାରେ ଯେକୌଣସି ୱେବସାଇଟ ଯୋଡ଼ନ୍ତୁ ।">
 <!ENTITY pref_category_devtools "ବିକାଶକାରୀ ସାଧନ">
+<!ENTITY pref_developer_paint_flashing "ଗଙ୍ଗ ଫ୍ଲାସ କରୁଅଛି">
 <!ENTITY pref_developer_remotedebugging "ଦୂରରୁ ରହି ଅସୁବିଧା ସୁଧାରିବା">
 <!ENTITY pref_remember_signons "ପ୍ରବେଶ ସଂକେତ ମନେରଖନ୍ତୁ">
 
 <!ENTITY pref_category_home "ମୂଳ ସ୍ଥାନ">
 <!ENTITY pref_category_home_summary "ନିଜ ପ୍ରଧାନ ପୃଷ୍ଠା ନିଜ ପସନ୍ଦ ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ">
 <!ENTITY pref_category_home_panels "ପ୍ୟାନେଲ">
-<!ENTITY pref_home_add_panel "ପ୍ୟାନେଲଟିଏ ଯୋଡ଼ନ୍ତୁ">
 <!ENTITY home_add_panel_title "ନୂଆ ପ୍ୟାନେଲଟିଏ ଯୋଡ଼ନ୍ତୁ">
 <!ENTITY home_add_panel_empty "କ୍ଷମାକରିବେ, ଆମେ ଆପଣଙ୍କ ପାଇଁ ଗୋଟିଏ ବି ପ୍ୟାନେଲ ପାଇଲୁନାହିଁ ।">
 <!-- Localization note (home_add_panel_installed):
@@ -144,7 +146,11 @@
 <!ENTITY pref_char_encoding "ଅକ୍ଷର ସାଙ୍କେତିକରଣ">
 <!ENTITY pref_char_encoding_on "ତାଲିକା ଦେଖାନ୍ତୁ">
 <!ENTITY pref_char_encoding_off "ତାଲିକା ଦେଖାନ୍ତୁ ନାହିଁ">
-<!ENTITY pref_clear_private_data "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY pref_clear_private_data2 "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
+<!ENTITY pref_clear_private_data_category "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY pref_clear_on_exit_title "ବିଦାୟ ନେବା ସମୟରେ ସର୍ବଦା ସଫାକରନ୍ତୁ">
+<!ENTITY pref_clear_on_exit_summary "ମୂଖ୍ୟ ତାଲିକାରୁ \&quot;ବିଦାୟ\&quot; କୁ ବାଛିଲେ &brandShortName; ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଆପଣଙ୍କର ତଥ୍ୟକୁ ସଫାକରିବ">
+<!ENTITY pref_clear_on_exit_dialog_title "କେଉଁ ତଥ୍ୟକୁ ସଫାକରିବା ଉଚିତ ତାହା ବାଛନ୍ତୁ">
 <!ENTITY pref_plugins "ପ୍ଲଗଇନଗୁଡ଼ିକ">
 <!ENTITY pref_plugins_enabled "ସକ୍ରିୟ">
 <!ENTITY pref_plugins_tap_to_play "ଚଳାଇବା ପାଇଁ ଏଠାରେ ଛୁଅଁନ୍ତୁ">
@@ -256,6 +262,7 @@ size. -->
 <!ENTITY new_tab "ନୂତନ ଟ୍ୟାବ">
 <!ENTITY new_private_tab "ନୂତନ ବ୍ଯକ୍ତିଗତ ଟ୍ୟାବ">
 <!ENTITY close_all_tabs "ଟାବସବୁକୁ ବନ୍ଦ କରନ୍ତୁ">
+<!ENTITY close_private_tabs "ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY tabs_normal "ଟ୍ଯାବଗୁଡିକ">
 <!ENTITY tabs_private "ବ୍ଯକ୍ତିଗତ">
 <!ENTITY tabs_synced "ସନ୍ତୁଳିତ">
@@ -278,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
 <!ENTITY contextmenu_open_private_tab "ଗୋପନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
-<!ENTITY contextmenu_open_in_reader "ରିଡ଼ରରେ ଖୋଲନ୍ତୁ">
 <!ENTITY contextmenu_remove "ହଟାଅ">
 <!ENTITY contextmenu_add_to_launcher "ମୂଳ ପରଦାରେ ଯୋଗ କରନ୍ତୁ">
 <!ENTITY contextmenu_share "ସହଭାଗ">
@@ -348,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ ସଫାକରନ୍ତୁ">
 <!ENTITY home_clear_history_confirm "ନିଜର ଇତିହାସ ସଫାକରିବା ବାବଦରେ ଆପଣ ନିଶ୍ଚିତ କି?">
 <!ENTITY home_bookmarks_empty "ଆପଣ ସାଇତିଥିବା ପୃଷ୍ଠାସଂକେତମାନ ଏଠାରେ ଦେଖାଯିବ ।">
+<!ENTITY home_closed_tabs_title "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
 <!ENTITY home_last_tabs_title "ଶେଷ ଥର ବ୍ୟବହୃତ ଟ୍ୟାବଗୁଡ଼ିକ">
-<!ENTITY home_last_tabs_open "ଶେଷଥର ବ୍ୟବହୃତ ସମସ୍ତଟ୍ୟାବ ଖୋଲନ୍ତୁ">
 <!ENTITY home_last_tabs_empty "ନିକଟରେ ବ୍ୟବହୃତ ଟ୍ୟାବଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ ।">
-<!ENTITY home_most_recent_title "ନିକଟତମ">
+<!ENTITY home_open_all "ସବୁଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
 <!ENTITY home_most_recent_empty "ଆପଣ ସବୁଠାରୁ ଅଧିକ ଥର ପଢ଼ିଥିବା ୱେବସାଇଟସବୁ ଏଠାରେ ଦେଖିପାରିବେ ।">
 <!ENTITY home_reading_list_empty "ପରେ ବ୍ୟବହାର ପାଇଁ ସଞ୍ଚିତ ପ୍ରସଙ୍ଗମାନ ଏଠାରେ ଦେଖିପାରିବେ ।">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -370,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; ପର୍ଯ୍ୟନ୍ତ">
+
+<!ENTITY private_browsing_title "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ">
+<!ENTITY private_tabs_panel_empty_desc "ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଏଠାରେ ଦର୍ଶାଯିବ। ଆମେ ଆପଣଙ୍କର କୌଣସି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ କିମ୍ବା କୁକି, ଚିହ୍ନିତ ସ୍ଥାନ ଏବଂ ଫାଇଲଗୁଡ଼ିକୁ ରଖିବୁ ନାହିଁ ଯାହାକୁ ଆପଣ ଆହରଣ କରୁଛନ୍ତି ଏବଂ ତାହା ଆପଣଙ୍କର ଉପକରଣରେ ସଂରକ୍ଷିତ ହୋଇ ରହିବ।">
+<!ENTITY private_tabs_panel_learn_more "ଅଧିକ ଜାଣିବାକୁ ଚାହୁଁଛନ୍ତି କି?">
 
 <!ENTITY pin_site_dialog_hint "ସନ୍ଧାନସୂଚକ ଶବ୍ଦଟିେ ଲେଖନ୍ତୁ">
 
