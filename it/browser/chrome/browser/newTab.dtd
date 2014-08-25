@@ -7,6 +7,8 @@
 <!ENTITY newtab.customize.enhanced "Avanzata">
 <!ENTITY newtab.customize.classic "Classica">
 <!ENTITY newtab.customize.blank "Vuota">
+<!ENTITY newtab.customize.what "Che cos’è questa pagina?">
+<!ENTITY newtab.intro.header "Che cos’è questa pagina?">
 <!ENTITY newtab.undo.removedLabel "Miniatura rimossa.">
 <!ENTITY newtab.undo.undoButton "Annulla.">
 <!ENTITY newtab.undo.restoreButton "Ripristina tutto.">
