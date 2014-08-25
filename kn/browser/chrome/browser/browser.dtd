@@ -710,15 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ಹಂಚಬೇಕಿರುವ ಕ್ಯಾಮೆರಾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-
-
+<!ENTITY getUserMedia.selectWindowOrScreen.label "ಹಂಚಬೇಕಿರುವ ಕಿಟಕಿ ಅಥವ ತೆರೆ:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
 
 <!ENTITY webrtcIndicatorButton.label "ಕ್ಯಾಮೆರಾ / ಮೈಕ್ರೊಫೋನ್ ನಿಲುಕಣೆ">
 <!ENTITY webrtcIndicatorButton.tooltip "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
 
+<!ENTITY loopCallButton.tooltip "ಮಾತನಾಡಲು ಯಾರನ್ನಾದರೂ ಆಮಂತ್ರಿಸಿ">
 
 <!ENTITY mixedContentBlocked.moreinfo "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 

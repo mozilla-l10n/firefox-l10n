@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "ಈ ಪುಟವನ್ನು ಅನುವಾದಿಸುವಾಗ ಒಂದು ತಪ್ಪು ಉಂಟಾಗಿದೆ.">
 <!ENTITY translation.tryAgain.button            "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
+<!ENTITY translation.serviceUnavailable.label   "ಸದ್ಯಕ್ಕೆ ಅನುವಾದವು ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಸ್ವಲ್ಪಸಮಯದ ನಂತರ ಪ್ರಯತ್ನಿಸಿ.">
 
 <!ENTITY translation.options.menu               "ಆಯ್ಕೆಗಳು">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -51,7 +52,8 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
+<!ENTITY translation.options.neverForSite.label "ಈ ತಾಣವನ್ನು ಎಂದಿಗೂ ಅನುವಾದಿಸಬೇಡ">
+<!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "Translation ಇಚ್ಛೆಗಳು">
 <!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -59,4 +61,6 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "ಅನುವಾದಿಸಿದವರು">
 <!ENTITY translation.options.attribution.afterLogo "">
