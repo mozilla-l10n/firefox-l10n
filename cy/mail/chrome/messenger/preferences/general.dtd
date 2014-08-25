@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Adfer y Rhagosodiad">
 <!ENTITY useDefault.accesskey             "R">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Newid dewisiadau eicon yr ap">
+<!ENTITY dockOptions.label                "Dewisiadau Eicon Ap…">
+<!ENTITY dockOptions.accesskey            "E">
 
 <!ENTITY newMessagesArrive.label          "Pan fydd neges newydd yn cyrraedd:">
 <!ENTITY playSound.label                  "Canu nodyn">

@@ -5,10 +5,11 @@
 <!ENTITY dockOptionsDialog.title               "Dewisiadau eicon yr ap">
 <!ENTITY window.macWidth                       "35em">
 
-
-
-
-
-
-
-
+<!ENTITY bounceSystemDockIcon.label            "Bywiogi eicon yr ap pan fydd neges newydd yn cyrraedd">
+<!ENTITY bounceSystemDockIcon.accesskey        "B">
+<!ENTITY newMessagesCountDock.label            "Cyfrif y negeseuon newydd">
+<!ENTITY newMessagesCountDock.accesskey        "y">
+<!ENTITY showAllUnreadMessagesCount.label      "Cyfrif y negeseuon heb eu darllen">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "y">
+<!ENTITY dockIconBadge.label                   "Bathodyn eicon ap">
+<!ENTITY dockIconShow.label                    "Bathodyn eicon ap gyda:">
