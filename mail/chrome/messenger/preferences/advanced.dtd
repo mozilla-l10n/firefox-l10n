@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cyffredinol">
-
+<!ENTITY itemDisplay.label       "Darllen a Dangos">
 <!ENTITY itemUpdate.label        "Diweddaru">
-
+<!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
 <!ENTITY itemCertificates.label  "Tystysgrifau">
 <!-- General Settings -->
 

@@ -10,8 +10,8 @@
 <!ENTITY options.label "Dewisiadau">
 <!ENTITY optionInline.label "Modd mewnlin">
 <!ENTITY optionInline.accesskey "m">
-
-
+<!ENTITY optionDisplay.label "Modd dangos">
+<!ENTITY optionDisplay.accesskey "d">
 <!ENTITY optionLTR.label "Cyfeiriad chwith i'r dde">
 <!ENTITY optionLTR.accesskey "c">
 <!ENTITY optionRTL.label "Cyfeiriad de i'r chwith">

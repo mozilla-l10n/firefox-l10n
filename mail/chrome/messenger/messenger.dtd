@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Cau'r Tab">
 <!ENTITY closeTabCmd2.accesskey "C">
-
-
+<!ENTITY closeOtherTabsCmd2.label "Cau Tabiau Eraill">
+<!ENTITY closeOtherTabsCmd2.accesskey "E">
 <!ENTITY recentlyClosedTabsCmd.label "Tabiau Wedi'u Cau'n Ddiweddar">
 <!ENTITY recentlyClosedTabsCmd.accesskey "D">
 
@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "Llwytho i Lawr/Cydweddu Nawr…">
 <!ENTITY synchronizeOfflineCmd.accesskey "L">
-
-
+<!ENTITY settingsOfflineCmd2.label "Gosodiadau All-lein">
+<!ENTITY settingsOfflineCmd2.accesskey "G">
 <!ENTITY downloadSelectedCmd.label "Estyn y Negeseuon Hyn">
 <!ENTITY downloadSelectedCmd.accesskey "H">
 <!ENTITY downloadStarredCmd.label "Estyn Negeseuon Serennog">
@@ -110,7 +110,7 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY menuFavoriteFolder.accesskey "H">
-
+<!ENTITY folderPropsCmd2.label "Priodweddau">
 <!ENTITY folderPropsFolderCmd2.label "Priodweddau Ffolder">
 <!ENTITY folderPropsNewsgroupCmd2.label "Priodweddau Grŵp Newyddion">
 <!ENTITY folderPropsCmd.accesskey "o">
@@ -567,8 +567,8 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
 <!ENTITY editRemoteContentSettings.label "Golygu dewisiadau cynnwys pell…">
 <!ENTITY editRemoteContentSettings.accesskey "G">
-
-
+<!ENTITY editRemoteContentSettingsUnix.label "Golygu dewisiadau cynnwys pell…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "d">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Anwybyddu rhybudd am y neges hon">
@@ -627,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "T">
 <!ENTITY folderContextSearchForMessages.label "Chwilio Negeseuon…">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
-
-
+<!ENTITY folderContextProperties2.label "Priodweddau">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY folderContextFavoriteFolder.accesskey "H">
-
-
+<!ENTITY folderContextSettings2.label "Gosodiadau">
+<!ENTITY folderContextSettings2.accesskey "o">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Mae'r Enw neu E-bost yn cynnwys:">
@@ -704,8 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Agor Neges mewn Trafodaeth">
 <!ENTITY contextOpenConversation.accesskey "s">
-
-
+<!ENTITY contextOpenContainingFolder.label "Agor Neges yn y Ffolder Cynnwys">
+<!ENTITY contextOpenContainingFolder.accesskey "A">
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
 <!ENTITY contextArchive.label "Archif">
@@ -888,6 +888,8 @@
 <!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Dewisiadau">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
@@ -899,3 +901,5 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Dewisiadau Eicon Ap…">

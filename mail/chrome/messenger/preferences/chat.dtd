@@ -23,6 +23,7 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Anfon hysbysiadau teipio mewn trafodaethau">
 <!ENTITY  sendTyping.accesskey          "h">
 
+<!ENTITY  chatNotifications.label             "Pan fydd negeseuon wedi eu cyfeirio atoch chi yn cyrraedd:">
 <!ENTITY  desktopChatNotifications.label      "Dangos rhybudd:">
 <!ENTITY  desktopChatNotifications.accesskey  "r">
 <!ENTITY  completeNotification.label          "gydag enw'r anfonwr a rhagolwg o'r neges">

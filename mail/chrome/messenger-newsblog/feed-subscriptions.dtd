@@ -19,8 +19,8 @@
 <!ENTITY quickMode.label             "Dangos crynodeb erthygl yn lle llwytho tudalen gwe">
 <!ENTITY quickMode.accesskey         "c">
 
-<!ENTITY autotagEnable.label         "Creu tagiau yn awtomatig o enwau &lt;categorïau&gt; llif">
-<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagEnable.label         "Creu tagiau'n awtomatig o enwau &lt;categorïau&gt; llif">
+<!ENTITY autotagEnable.accesskey     "a">
 <!ENTITY autotagUsePrefix.label      "Rhagosod tagiau gyda:">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Rhoi rhagosodiad tag">

@@ -176,17 +176,17 @@
 
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
-
-
+<!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
+<!ENTITY messengerCmd.accesskey "b">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Llyfr Cyfeiriadau">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Gosodiadau Cyfrifon">
+<!ENTITY accountManagerCmd2.accesskey "C">
+<!ENTITY accountManagerCmdUnix2.accesskey "C">
+<!ENTITY preferencesCmd2.label "Dewisiadau">
+<!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey "e">
 <!--  Mac OS X Window Menu -->
