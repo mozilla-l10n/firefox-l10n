@@ -30,9 +30,9 @@
 <!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Opmaak">
-<!ENTITY domainFormatting.label                "Accentueer de effectieve domein van websites en FTP-servers">
+<!ENTITY domainFormatting.label                "Effectieve domein van websites en FTP-servers markeren">
 <!ENTITY domainFormatting.accesskey            "d">
-<!ENTITY highlightSecure.label                 "Accentueer web pagina's met een hoge verbindingsbeveiliging">
+<!ENTITY highlightSecure.label                 "Webpagina's met een hoge verbindingsbeveiliging markeren">
 <!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Onbekende locaties">
