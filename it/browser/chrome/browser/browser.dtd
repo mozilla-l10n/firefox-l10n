@@ -533,6 +533,8 @@
 <!ENTITY mixedContentBlocked2.options "Opzioni">
 <!ENTITY mixedContentBlocked2.unblock.label "Disattiva temporaneamente la protezione">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Attiva protezione">
+<!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
 <!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
 <!ENTITY pluginNotification.showAll.label "Visualizza tutti">
