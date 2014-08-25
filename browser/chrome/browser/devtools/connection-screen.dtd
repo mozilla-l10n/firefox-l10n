@@ -13,7 +13,7 @@
 <!ENTITY port       "liang:">
 <!ENTITY connect    "Sambung">
 <!ENTITY connecting "Sedang Menyambung...">
-
+<!ENTITY availableAddons "Add-on jarak jauh yang tersedia:">
 <!ENTITY availableTabs "Tab jauh yang tersedia:">
 <!ENTITY availableProcesses "Proses jauh yang tersedia:">
 <!ENTITY connectionError "Ralat:">

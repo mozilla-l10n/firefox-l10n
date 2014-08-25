@@ -18,6 +18,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
+<!ENTITY netmonitorUI.reloadNotice1       "• Lakukan permohonan untuk">
+<!ENTITY netmonitorUI.reloadNotice2       "Muat semula">
 <!ENTITY netmonitorUI.reloadNotice3       "halaman untuk melihat maklumat terperinci tentang aktiviti rangkaian.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -214,7 +216,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "Salin Imej Data URL">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Salin Imej sebagai URI Data">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 

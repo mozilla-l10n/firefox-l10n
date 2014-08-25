@@ -38,10 +38,11 @@
 <!ENTITY translation.translatedTo.label         "kepada">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Tunjuk Yang Asal">
 <!ENTITY translation.showTranslation.button     "Tunjuk Terjemahan">
 
 <!ENTITY translation.errorTranslating.label     "Berlaku ralat dalam menterjemahkan halaman ini.">
-
+<!ENTITY translation.tryAgain.button            "Cuba Semula">
 
 <!ENTITY translation.serviceUnavailable.label   "Terjemahan tidak tersedia pada masa ini. Sila cuba lagi kemudian.">
 
@@ -51,9 +52,10 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "Jangan sesekali terjemah laman ini">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Keutamaan terjemahan">
+<!ENTITY translation.options.preferences.accesskey "t">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'

@@ -9,7 +9,7 @@
 <!ENTITY dntTrackingNotOkay.label2      "Beritahu laman saya tidak mahu dijejaki">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Beritahu laman yang saya mahu dijejaki">
-
+<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY doNotTrackInfo.label           "Ketahui Lanjut">
 
 <!ENTITY  history.label                 "Sejarah">

@@ -53,19 +53,25 @@
 <!ENTITY viewMenu.label               "Lihat">
 <!ENTITY viewMenu.accesskey           "L">
 
+<!ENTITY lineNumbers.label             "Papar Nombor Baris">
+<!ENTITY lineNumbers.accesskey         "B">
 
+<!ENTITY wordWrap.label                "Balut Teks">
+<!ENTITY wordWrap.accesskey            "B">
 
+<!ENTITY highlightTrailingSpace.label     "Serlahkan Ruang Mengekor">
+<!ENTITY highlightTrailingSpace.accesskey "h">
 
-
-
-
-
+<!ENTITY largerFont.label             "Rupa Huruf Lebih Besar">
+<!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 
-
+<!ENTITY smallerFont.label            "Rupa Huruf Lebih Kecil">
+<!ENTITY smallerFont.accesskey        "R">
 <!ENTITY smallerFont.commandkey       "-">
 
-
+<!ENTITY normalSize.label             "Saiz Normal">
+<!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Sunting">

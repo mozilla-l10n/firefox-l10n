@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Nyah senyap">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Skrin Penuh">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Muka Penuh">
-
+<!ENTITY castingButton.castingLabel "Tuang pada Skrin">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Saiz">
