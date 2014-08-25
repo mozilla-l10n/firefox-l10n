@@ -526,7 +526,13 @@
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
-<!ENTITY mixedContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY badContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY mixedContentBlocked2.message "Contenuto non sicuro">
+<!ENTITY mixedContentBlocked2.moreinfo "Sono stati bloccati alcuni elementi non cifrati in questa pagina.">
+<!ENTITY mixedContentBlocked2.learnMore "Ulteriori informazioni">
+<!ENTITY mixedContentBlocked2.options "Opzioni">
+<!ENTITY mixedContentBlocked2.unblock.label "Disattiva temporaneamente la protezione">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 <!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
 <!ENTITY pluginNotification.showAll.label "Visualizza tutti">
 <!ENTITY pluginNotification.showAll.accesskey "V">
