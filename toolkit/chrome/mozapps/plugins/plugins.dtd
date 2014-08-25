@@ -4,14 +4,15 @@
 
 
 
+<!ENTITY pluginWizard.availablePluginsPage.description.label "निम्न प्लगइनहरुहरू उपलब्ध छन्:">
 
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "केही प्लगइनहरुको स्थापना समयमा तपाईंबाट थप जानकारी आवश्यक पर्न सक्छ।">
 
+<!ENTITY pluginWizard.licensePage.accept.label               "म सहमत छु।">
+<!ENTITY pluginWizard.licensePage.deny.label                 "म सहमत छैन (प्लगइन स्थापना गरिने छैन)।">
 
-
-
-
-
-
+<!ENTITY pluginWizard.installPluginsPage.title               "प्लगइनहरु स्थापना हुँदै">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ले प्लगइनहरु स्थापना गर्दै छ...">
 
 
 
