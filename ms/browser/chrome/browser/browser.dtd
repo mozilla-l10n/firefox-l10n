@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Memuat Semula Tab">
 <!ENTITY  reloadTab.accesskey                "M">
-
-
+<!ENTITY  reloadAllTabs.label                "Memuat Semula Semua Tab">
+<!ENTITY  reloadAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Kumpulan Baru">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "P">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Kembalikan Tab Tertutup">
+<!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Buka Lokasi…">
 <!ENTITY openFileCmd.label "Buka Fail…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "b">
@@ -76,16 +77,17 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "B">
-
+<!ENTITY navbarCmd.label "Bar Alatan Navigasi">
 <!ENTITY personalbarCmd.label "Penandabuku Bar Alatan">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Penandabuku Bar Alatan Benda">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Memuat Semula Semua Tab">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tandabuku Semua Tab…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Kembalikan Tab Tertutup">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
 <!ENTITY pageSourceCmd.label "Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -134,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Penandabuku">
 <!ENTITY bookmarksMenu.accesskey "P">
-
+<!ENTITY bookmarkThisPageCmd.label "Menandabuku Laman Ini">
 <!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -149,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "K">
 <!ENTITY shareVideoCmd.label "Kongsi Video Ini">
 <!ENTITY shareVideoCmd.accesskey "K">
-
+<!ENTITY feedsMenu.label "Langgan">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
@@ -157,14 +159,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Penandabuku Tidak Terisih">
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
 
+<!ENTITY backCmd.label                "Kembali">
 <!ENTITY backButton.tooltip           "Undur sehalaman">
-
+<!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardButton.tooltip        "Maju sehalaman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik kanan atau tarik turun untuk paparan sejarah">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk paparan sejarah">
-
+<!ENTITY reloadCmd.label              "Muat semula">
 <!ENTITY reloadButton.tooltip         "Muat semula laman semasa">
-
+<!ENTITY stopCmd.label                "Berhenti">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Berhenti memuatkan laman ini">
 <!ENTITY goEndCap.tooltip             "Pergi ke alamat dalam Bar Lokasi">
@@ -235,7 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "r">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "Berhenti">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -260,10 +264,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Perkakas Pembangun">
 <!ENTITY devToolbarMenu.accesskey          "r">
-
-
-
-
+<!ENTITY devAppMgrMenu.label               "Pengurus App">
+<!ENTITY devAppMgrMenu.accesskey           "e">
+<!ENTITY webide.label                      "Pengurus App">
+<!ENTITY webide.accesskey                  "e">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tukar Peralatan">
@@ -443,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Tetapkan Sebagai Latar Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "Tandabuku Laman Ini">
 <!ENTITY bookmarkThisLinkCmd.label      "Tanda Pautan Ini">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Tanda Bingkai Ini">
@@ -706,8 +710,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-
-
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Tetingkap atau skrin untuk dikongsi:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "n">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">

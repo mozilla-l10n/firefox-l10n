@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Kembali asal.">
 <!ENTITY newtab.undo.restoreButton "Kembalikan Semua.">
 <!ENTITY newtab.undo.closeTooltip "Sembunyi">
-
-
+<!ENTITY newtab.sponsored.release.message "Laman Penaja dicadangkan kerana kami mengharapkan anda menyukainya dan kerana ia menyokong misi Mozilla.">
+<!ENTITY newtab.sponsored.trial.message2 "Laman ini dicadangkan kerana kami mengharapkan anda menyukainya dan kerana ia menyokong misi Mozilla.">
 <!ENTITY newtab.panel.link.text "Ketahui lanjut…">

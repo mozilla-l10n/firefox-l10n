@@ -8,7 +8,7 @@
 <!ENTITY index.help "Bantuan">
 
 <!ENTITY device.debugMainProcess "Nyahpijat proses utama">
-
+<!ENTITY device.debugMainProcessTooltip "Buka Alatan Pembangun yang bersambung kepada proses utama pada peranti">
 <!ENTITY device.screenshot "Cakupan skrin">
 <!ENTITY device.screenshotTooltip "Buka cekupan skrin untuk keadaan semasa peranti pada tab baharu">
 <!ENTITY device.title "Pusat Kawalan Peranti">
@@ -94,7 +94,7 @@
 
 <!ENTITY help.title "Pengurusan Aplikasi">
 <!ENTITY help.close "Tutup">
-<!ENTITY help.intro "Alat ini akan membantu anda membina dan memasang aplikasi web pada peranti yang serasi (iaitu Firefox OS). <strong>Aplikasi</strong> tab akan membantu anda dalam pengesahan dan pemasangan proses aplikasi anda. <strong>Alatan</strong> tab akan memberikan maklumat mengenai peranti yang bersambung. Menggunakan bar alatan dibahagian bawah untuk menyambung ke peranti atau memulakan simulasi.">
+<!ENTITY help.intro "Alat ini akan membantu anda membina dan memasang aplikasi web pada peranti yang serasi (iaitu Firefox OS). Tab <strong>Aplikasi</strong> akan membantu anda dalam pengesahan dan proses pemasangan aplikasi anda. Tab <strong>Alatan</strong> akan memberikan maklumat mengenai peranti yang bersambung. Gunakan bar alatan di bahagian bawah untuk menyambung ke peranti atau memulakan simulasi.">
 <!ENTITY help.usefullLinks "Pautan berguna:">
 <!ENTITY help.appMgrDoc "Dokumentasi: Pengunaan Pengurusan Aplikasi">
 <!ENTITY help.configuringDevice "Bagaimana untuk menyediakan peranti Firefox OS anda">

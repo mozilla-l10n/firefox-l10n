@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; selesai memasang plugin yang hilang:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Cari lagi perihal Plugin atau manual cari plugin yang hilang.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulakan semula untuk supaya plugin berfungsi.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulakan semula untuk plugin berfungsi.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
