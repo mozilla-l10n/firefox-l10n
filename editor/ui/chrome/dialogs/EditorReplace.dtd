@@ -4,24 +4,20 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "கண்டறி மேலும் மாற்றிடு">
-<!ENTITY findField.label "கண்டறி உரை:">
-<!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Replace with:">
-<!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Match upper/lower case">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "மடிந்து வருதல்">
-<!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "Search backwards">
-<!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "கண்டறி அடுத்து">
-<!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "மாற்றிடு">
-<!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "மாற்றிடு மேலும் கண்டறி">
-<!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "அனைத்தும் மாற்றிடு">
-<!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "மூடு">
-<!ENTITY notFoundWarning.label "The text you entered was not found.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

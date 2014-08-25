@@ -4,24 +4,19 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "கிடைமட்டக் கோடு பண்புகள்">
 
-<!ENTITY dimensionsBox.label "பரிமாணம்கள்">
-<!ENTITY heightEditField.label "உயரம்:">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "அகலம்:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "படப்புள்ளிகள்">
-<!ENTITY alignmentBox.label "சீரமை">
-<!ENTITY leftRadio.value "இடது">
-<!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "மையம்">
-<!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "வலது">
-<!ENTITY rightRadio.accessKey "R">
 
-<!ENTITY threeDShading.label "3-டி நிழல்">
-<!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Use as Default">
-<!ENTITY saveSettings.accessKey "D">
-<!ENTITY saveSettings.tooltip "Save these settings to use when inserting new horizontal lines">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

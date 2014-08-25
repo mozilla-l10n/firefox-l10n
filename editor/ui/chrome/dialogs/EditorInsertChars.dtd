@@ -4,16 +4,13 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "செருகு எழுத்து">
-<!ENTITY category.label "வகையினம்">
-<!ENTITY letter.label "எழுத்து:">
-<!ENTITY letter.accessKey "L">
-<!ENTITY character.label "எழுத்து:">
-<!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Accent பெரிய எழுத்து">
-<!ENTITY accentLower.label "Accent சிறிய எழுத்து">
-<!ENTITY otherUpper.label "வேறு பெரிய எழுத்து">
-<!ENTITY otherLower.label "வேறு சிறிய எழுத்து">
-<!ENTITY commonSymbols.label "பொதுவான குறியீடுகள்">
-<!ENTITY insertButton.label "செருகு">
-<!ENTITY closeButton.label "மூடு">
+
+
+
+
+
+
+
+
+
+

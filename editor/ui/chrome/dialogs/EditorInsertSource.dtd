@@ -3,13 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "செருகு ஹெச்டிஎம்எல்">
-<!ENTITY sourceEditField.label "பதி ஹெச்டிஎம்எல் குறிகள் மேலும் உரை:">
-<!ENTITY example.label "Example: ">
+
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
-<!ENTITY exampleText.label "Hello World!">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY insertButton.accesskey "I">
+
+
+

@@ -3,15 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "பக்கம் பண்புகள்">
-<!ENTITY location.label "இருப்பிடம்:">
-<!ENTITY lastModified.label "இறுதியாகத் திருத்தப்பட்டது:">
-<!ENTITY titleInput.label "தலைப்பு:">
-<!ENTITY titleInput.accessKey "T">
-<!ENTITY authorInput.label "படைப்பாளி:">
-<!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "விவரிப்பு:">
-<!ENTITY descriptionInput.accessKey "D">
-<!ENTITY locationNewPage.label "[New page, not saved yet]">
-<!ENTITY EditHEADSource1.label "உயர்நிலை பயனர்கள்:">
-<!ENTITY EditHEADSource2.label "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar.">
+
+
+
+
+
+
+
+
+
+

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "படிவம் பண்புகள்">
 
-<!ENTITY Settings.label "அமைப்புகள்">
 
-<!ENTITY FormName.label "படிவம் பெயர்:">
-<!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "செயல் யூஆர்எல்:">
-<!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "முறை:">
-<!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "குறியாக்கின்றது:">
-<!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "இலக்கு சட்டம்:">
-<!ENTITY FormTarget.accesskey "T">
 
-<!ENTITY RemoveForm.label "அகற்று படிவம்">
-<!ENTITY RemoveForm.accesskey "R">
+
+
+
+
+
+
+
+
+

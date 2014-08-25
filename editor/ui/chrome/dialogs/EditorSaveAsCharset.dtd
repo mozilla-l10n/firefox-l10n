@@ -7,9 +7,5 @@
 
 
 
-<!ENTITY windowTitle.label "சேமி மேலும் மாற்று எழுத்து குறியாக்கின்றது">
-<!ENTITY documentTitleTitle.label "பக்கம் தலைப்பு">
-<!ENTITY documentCharsetTitle.label "எழுத்து குறியாக்கின்றது">
-<!ENTITY documentCharsetDesc.label "Select the character encoding you want to save a document in:">
-<!ENTITY documentExportToText.label "Export to Text">
+
 

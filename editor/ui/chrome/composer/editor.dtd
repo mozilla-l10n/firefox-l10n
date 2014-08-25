@@ -4,32 +4,50 @@
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 
-<!ENTITY editorWindow.titlemodifier "Composer">
-<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY editorWindow.titlemodifier "Composer"> 
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+<!-- Toolbar-only items -->
+
+
+<!-- File menu items -->
+
+
+
+
+
 <!-- View menu items -->
 
 
-<!ENTITY viewMenu.label "நோக்கு">
-<!ENTITY viewmenu.accesskey "v">
-<!ENTITY compositionToolbarCmd.label "Composition கருவிப்பட்டை">
-<!ENTITY compositiontb.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "வடிவமை கருவிப்பட்டை">
-<!ENTITY formattingtb.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "தொகுப்புப் பாங்கு கருவிப்பட்டை">
-<!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "நிலைமை பட்டை">
-<!ENTITY taskbarCmd.accesskey "S">
+
+
+
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "வடிவமை">
-<!ENTITY formatmenu.accesskey "o">
 
-<!ENTITY helpMenu.label "உதவி">
-<!ENTITY aboutCmd.label ".பற்றி">
-<!-- Display Mode Toolbar -->
 
-<!ENTITY editMode.label "தொகுப்புப் பாங்கு:">
 
-<!ENTITY statusText.label "Done loading page">
+
+<!-- Tools menu items -->
+
+<!-- Display Mode toolbar and View menu items -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+
+
+
+
+
+
+
 

@@ -2,62 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "பண்புகள்">
 
-<!ENTITY generalInfo.label "General Information">
-<!ENTITY folderCharsetTab.label "Default Character Encoding:">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary கோப்பு">
-     
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "தினங்கள்">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "செய்திகள்">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
-<!ENTITY retentionKeepUnread.accesskey "r">
 
-<!ENTITY folderOfflineTab.label "தொடர்பிலா">
-<!ENTITY folderCheckForNewMessages.label "Check this folder for new messages">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
 
-<!ENTITY offlineFolder.check.label "Select this folder for offline use">
-<!ENTITY offlineFolder.check.accesskey "S">
-<!ENTITY offlineFolder.button.label "Download Now">
-<!ENTITY offlineFolder.button.accesskey "D">
 
-<!ENTITY selectofflineNewsgroup.check.label "Select this newsgroup for offline use">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Use the default from account settings ">
-<!ENTITY offlineNewsgroup.button.label "Download Now">
-<!ENTITY offlineNewsgroup.button.accesskey "D">
 
-<!ENTITY folderProps.information.label "Information:">
-<!ENTITY folderProps.name.label "பெயர்:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "இருப்பிடம்:">
-<!ENTITY folderProps.location.accesskey "L">
 
-<!ENTITY folderSharingTab.label "Sharing">
-<!ENTITY privilegesDesc.label "Share this and other folders with network users and display and set access privileges">
-<!ENTITY privileges.button.label "Privileges...">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "You have the following permissions:">
-<!ENTITY folderType.label "Folder Type:">
 
-<!ENTITY folderQuotaTab.label "Quota">
-<!ENTITY folderQuotaRoot.label "Quota Root:">
-<!ENTITY folderQuotaUsage.label "Usage:">
-<!ENTITY folderQuotaStatus.label "நிலைமை:">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

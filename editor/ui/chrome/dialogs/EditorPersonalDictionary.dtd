@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "சொந்த அகராதி">
 
-<!ENTITY wordEditField.label "புதிய சொல்:">
-<!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "கூட்டு">
-<!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Words in dictionary:">
-<!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "மாற்றிடு">
-<!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "அகற்று">
-<!ENTITY RemoveButton.accessKey "e">
 
-<!ENTITY CloseButton.label "மூடு">
-<!ENTITY CloseButton.accessKey "C">
+
+
+
+
+
+
+
+
+

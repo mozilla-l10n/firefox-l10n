@@ -1,22 +1,34 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "ஆர்எஸ்எஸ் சந்தாகள்">
-<!ENTITY subscriptionDesc.label "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
-<!ENTITY feedTitle.label "தலைப்பு:">
-<!ENTITY location.label "இருப்பிடம்:">
 
-<!ENTITY button.addFeed.label "கூட்டு">
-<!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "தொகுப்பு">
-<!ENTITY button.editFeed.accesskey "E">
-<!ENTITY button.removeFeed.label "அகற்று">
-<!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label "இறக்குமதி">
-<!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "ஏற்றுமதி">
-<!ENTITY button.exportOPML.accesskey "X">
 
-<!ENTITY cmd.close.commandKey "w">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

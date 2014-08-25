@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "தேர்ந்தெடு தொகுப்பு மாற்றுகள்">
-<!ENTITY conflictWarning.label "This page has been modified by another program, but you also have unsaved changes in Composer.">
-<!ENTITY conflictResolve.label "Select which version to keep:">
-<!ENTITY keepCurrentPageButton.label "Keep current page changes">
-<!ENTITY useOtherPageButton.label "Replace current page with other changes">
+
+
+

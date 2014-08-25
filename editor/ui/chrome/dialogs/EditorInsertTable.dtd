@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "செருகு அட்டவணை">
 
-<!ENTITY size.label "அளவு">
-<!ENTITY numRowsEditField.label "கிடக்கைகள்:">
-<!ENTITY numRowsEditField.accessKey "R">
-<!ENTITY numColumnsEditField.label "நெடுக்கைகள்:">
-<!ENTITY numColumnsEditField.accessKey "C">
-<!ENTITY widthEditField.label "அகலம்:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY borderEditField.label "ஓரம்:">
-<!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "Type a number for the table's border, or type zero (0) for no border">
-<!ENTITY pixels.label "படப்புள்ளிகள்">
+
+
+
+
+
+
+
+
+

@@ -4,18 +4,13 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "பட்டி பண்புகள்">
 
-<!ENTITY ListType.label "பட்டி அச்சு">
-<!ENTITY bulletStyle.label "பொட்டு பாணி:">
-<!ENTITY startingNumber.label "Start at:">
-<!ENTITY startingNumber.accessKey "S">
-<!ENTITY none.value "எதுவுமில்லை">
-<!ENTITY bulletList.value "பொட்டு (Unnumbered) பட்டி">
-<!ENTITY numberList.value "Numbered பட்டி">
-<!ENTITY definitionList.value "விவரம் பட்டி">
-<!ENTITY changeListMsg.label "When changing list type:">
-<!ENTITY changeEntireListRadio.label "Change entire list">
-<!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Change just selected items">
-<!ENTITY changeSelectedRadio.accessKey "I">
+
+
+
+
+
+
+
+
+

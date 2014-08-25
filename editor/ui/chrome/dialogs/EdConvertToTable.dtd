@@ -4,12 +4,9 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Convert To Table">
-<!ENTITY instructions1.label "Composer creates a new table row for each paragraph in the selection.">
-<!ENTITY instructions2.label "Choose the character used to separate the selection into columns:">
-<!ENTITY commaRadio.label "காற்புள்ளிக் குறி">
-<!ENTITY spaceRadio.label "வெளி">
-<!ENTITY otherRadio.label "வேறு எழுத்து:">
-<!ENTITY deleteCharCheck.label "Delete separator character">
-<!ENTITY collapseSpaces.label "Ignore extra spaces">
-<!ENTITY collapseSpaces.tooltip "Convert adjacent spaces to one separator">
+
+
+
+
+
+

@@ -4,12 +4,6 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Snap to Grid">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
 
-<!ENTITY sizeEditField.label "அளவு:">
-<!ENTITY sizeEditField.accessKey "S">
 
-<!ENTITY pixelsLabel.value "படப்புள்ளிகள்">

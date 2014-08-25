@@ -2,47 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "படிவம் புலம் பண்புகள்">
-<!ENTITY windowTitleImage.label "படிவம் படிமம் பண்புகள்">
 
-<!ENTITY InputType.label "புலம் Type">
-<!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "உரை">
-<!ENTITY password.value "நுழைசொல்">
-<!ENTITY checkbox.value "தேர்வுப் பெட்டி">
-<!ENTITY radio.value "வானொலிப் பொத்தான்">
-<!ENTITY submit.value "Submit பொத்தான்">
-<!ENTITY reset.value "மீட்பியக்கு பொத்தான்">
-<!ENTITY file.value "கோப்பு">
-<!ENTITY hidden.value "மறைநிலை">
-<!ENTITY image.value "படிமம்">
-<!ENTITY button.value "பொத்தான்">
 
-<!ENTITY InputSettings.label "புலம் அமைப்புகள்">
-<!ENTITY InputName.label "புலம் பெயர்:">
-<!ENTITY GroupName.label "குழு மதிப்பு:">
-<!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "புலம் மதிப்பு:">
-<!ENTITY InitialValue.label "முதல் மதிப்பு:">
-<!ENTITY Value.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
-<!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
-<!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "படிப்பு மட்டும்">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "முடக்குநது">
-<!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "தத்தல் சுட்டுவரிசை:">
-<!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "புலம் அளவு:">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
-<!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "அணுக்கம் விசை:">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
-<!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "படிமம் பண்புகள்...">
-<!ENTITY ImageProperties.accesskey "E">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
