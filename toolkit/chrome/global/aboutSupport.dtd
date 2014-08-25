@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
 
+
 <!ENTITY aboutSupport.showDir.label "Отваряне на директория">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +69,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "Настройки в user.js">
 <!ENTITY aboutSupport.userJSDescription "Вашата профилна папка съдържа файл <a id='prefs-user-js-link'>user.js</a>, който съдържа настройките, които не са създадени от &brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Изчертаване">
 

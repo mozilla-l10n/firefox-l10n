@@ -69,7 +69,7 @@
 &brandShortName; ще опита да изтегли цялото обновяване.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не можа да определи дали има налично обновяване. Моля, уверете се, че разполагате с последната версия на &brandShortName; от:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Нещо пречи на безопасното обновяване на &brandShortName;.
+<!ENTITY  errorCertAttrNoUpdate2.label    "Нещо пречи на безопасното обновяване на &brandShortName;. 
 Моля, проверете дали използвате последната версия на &brandShortName; от:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Нещо се опитва да измами &brandShortName; да приеме небезопасно обновяване. Моля, свържете се с вашия доставчик на Интернет и потърсете помощ.">
 

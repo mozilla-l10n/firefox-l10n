@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Защитена удостоверяваща токена">
 <!ENTITY protectedAuth.msg "Моля, удостоверете токената. Начинът на удостоверяване зависи от токената.">
 <!ENTITY protectedAuth.tokenName.label "Токена:">
-
-<!ENTITY certErrorDlg.title "Защитената връзка е прекъсната">
-<!ENTITY certErrorDlg.info1 "Това може да е проблем с настройките на сървъра или някой се опитва да го хакне.">
-<!ENTITY certErrorDlg.info2 "Ако преди сте се свързвали успешно с този сървър грешката може да е временна. Опитайте по-късно.">

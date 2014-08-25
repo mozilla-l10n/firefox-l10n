@@ -83,12 +83,10 @@
 
 <!ENTITY options.disableJavaScript.label     "Деактивиране на JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Активирането на тази настройка ще изключи JavaScript в текущия подпрозорец. Ако подпрозореца или кутията с инструменти се затворят, тази настройка ще бъде забравена.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Изключване на кеша *">
-<!ENTITY options.disableCache.tooltip   "Активирането на тази настройка ще изключи кеша в текущия подпрозорец. Ако подпрозореца или кутията с инструменти се затворят, тази настройка ще бъде забравена.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -165,3 +163,16 @@
 
 <!ENTITY options.showPlatformData.label    "Показване на платформените данни на Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Ако активирате тази настройка, докладите на профилаторът на JavaScript ще включват символите на платформата на Gecko">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+
