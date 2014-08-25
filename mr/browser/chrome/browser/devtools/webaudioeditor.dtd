@@ -22,3 +22,13 @@
   -  while the page is refreshing and the tool waits for a audio context. -->
 
 <!ENTITY webAudioEditorUI.emptyNotice     "ऑडिओ संदर्भच्या निर्माणची वाट पहात आहे…">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties): This is the label shown
+  -  for the properties tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.properties  "पॅरामिटर">
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
+  -  AudioNode inspector view. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
+  -  AudioNode inspector view empty message. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
+  -  AudioNode inspector view properties tab empty message. -->

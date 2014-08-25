@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जेव्हा सर्वर व्यक्तिगत प्रमाणपत्र करीता विनंती करतो:">
 <!ENTITY certs.auto                      "आपोआप निवडा">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "मला दरवेळी विचारा">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "प्रमाणपत्रे पहा">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY verify2.label                   "तपासणी">
-<!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा साधने">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+
+
+
+
+
