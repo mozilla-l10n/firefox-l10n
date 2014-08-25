@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
 <!ENTITY aboutSupport.appBasicsMemoryUse "మెమొరీ వినియోగం">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "మల్టీప్రోసెస్ విండోలు">
+
 <!ENTITY aboutSupport.showDir.label "నిఘంటువు తెరువు">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +70,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js అభిరుచులు">
 <!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ వొక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "లాకైన ముఖ్యమైన అభీష్టాలు">
+<!ENTITY aboutSupport.lockedPrefsName "పేరు">
+<!ENTITY aboutSupport.lockedPrefsValue "విలువ">
 
 <!ENTITY aboutSupport.graphicsTitle "గ్రాఫిక్స్">
 

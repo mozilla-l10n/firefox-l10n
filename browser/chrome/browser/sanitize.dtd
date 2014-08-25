@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "వీక్షణ చరిత్ర">
 <!ENTITY dataSection.label            "దత్తాంశము">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "విహారణ మరియు దింపుకోలు చరిత్ర">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.label       "ఫారమ్ మరియు శోధన చరిత్ర">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "భద్రపరిచిన సంకేతపదాలు">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "కుకీలు">

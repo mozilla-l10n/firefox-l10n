@@ -53,20 +53,26 @@
 <!ENTITY viewMenu.label               "దర్శించు">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "వరుస సంఖ్యలను చూపుము">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "వ్రాప్ టెక్స్ట్">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "ట్రెయిలింగ్ స్పేస్ ఉద్దీపించు">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "పెద్ద ఫాంట్">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "చిన్న ఫాంట్">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "సాధారణ పరిమాణం">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "సరిచేయి">
 <!ENTITY editMenu.accesskey           "E">
@@ -83,8 +89,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "అందమైన ముద్రణ">
 <!ENTITY pprint.key                   "p">
-
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)

@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "వ్యవస్థ (O)">
 <!ENTITY certmgr.certdetail.ou                "వ్యవస్థ యూనిట్ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "వరుస సంఖ్య">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Fingerprint">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 వేలిముద్ర">
 
 <!ENTITY certmgr.editcert.title               "రక్షణ ధృవీకరణపత్రం అమరికలను  సరిచేయి">
