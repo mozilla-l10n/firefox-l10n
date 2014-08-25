@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "แต้มสีทั้งหมด">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของวลีทั้งหมด">
-
-
+<!ENTITY caseSensitive.label "ตรงทุกตัวอักษร">
+<!ENTITY caseSensitive.accesskey "ท">
 <!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงขนาดตัวอักษร">
