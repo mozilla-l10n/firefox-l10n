@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za prikaz više mogućnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potvrdi">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Šalje ponovnu potvrdu organizatoru">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Spremi kopiju">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Spremi kopiju događaja u kalendar bez obzira na odgovor organizatoru. Popis sudionika će biti obrisan.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Privremeno">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Privremeno prihvati poziv na događaj">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Sve privremeno">
