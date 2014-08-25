@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "ش">
 <!ENTITY bookmarksToolbarItem.label "عناصر شريط العلامات">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "أعِد تحميل كل الألسنة">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ك">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "علّم كل الألسنة…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "س">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "أعِد فتح اللسان">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "د">
+
 <!ENTITY pageSourceCmd.label "مصدر الصفحة">
 <!ENTITY pageSourceCmd.accesskey "ح">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -258,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "ط">
 <!ENTITY devAppMgrMenu.label               "مدير التطبيقات">
 <!ENTITY devAppMgrMenu.accesskey           "م">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "فعّل الأدوات">
@@ -700,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "النافذة أو الشاشة التي ستُشارك:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "ن">
 <!ENTITY getUserMedia.selectMicrophone.label "الميكروفون الذي سيُشارك:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ك">
+<!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
 <!ENTITY webrtcIndicatorButton.label "الوصول إلى الكمرة \ الميكروفون">
 <!ENTITY webrtcIndicatorButton.tooltip "اعرض المواقع التي أشارك كمرتي أو ميكروفوني معها حاليا">
+
+<!ENTITY loopCallButton.tooltip "ادعُ شخصًا إلى محادثة">
 
 <!ENTITY mixedContentBlocked.moreinfo "أغلب المواقع ستستمر في العمل كما ينبغي حتى بعد منع هذا المحتوى.">
 
