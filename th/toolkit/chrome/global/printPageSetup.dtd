@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "ตั้งค่าหน้ากระดาษ">
 
+<!ENTITY basic.tab           "รูปแบบและตัวเลือก">
 
 <!ENTITY formatGroup.label   "รูปแบบ">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "ตัวเลือก">
 
+<!ENTITY printBG.label       "พิมพ์พื้นหลัง (สีและรูปภาพ)">
+<!ENTITY printBG.accesskey   "พ">
 
-
+<!ENTITY advanced.tab        "ขอบกระดาษและส่วนหัว/ท้าย">
 
 <!ENTITY marginGroup.label   "ขอบกระดาษ (#1)">
 <!ENTITY marginUnits.inches  "นิ้ว">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "ขวา :">
 <!ENTITY marginRight.accesskey "ข">
 
+<!ENTITY headerFooter.label  "ส่วนหัวและส่วนท้าย">
 
 <!ENTITY hfLeft.label        "ซ้าย :">
 <!ENTITY hfCenter.label      "กลาง :">

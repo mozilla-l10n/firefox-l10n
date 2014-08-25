@@ -9,10 +9,11 @@
 จะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; 
 ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
 
+<!ENTITY aboutSupport.crashes.title "ตัวรายงานข้อขัดข้อง">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "หมายเลขรายงาน">
-
+<!ENTITY aboutSupport.crashes.sendDate "ส่งข้อมูลแล้ว">
 <!ENTITY aboutSupport.crashes.allReports "รายงานข้อขัดข้องทั้งหมด">
 <!ENTITY aboutSupport.crashes.noConfig "โปรแกรมนี้ไม่ได้ถูกตั้งค่าให้แสดงรายงานข้อขัดข้อง">
 
@@ -20,13 +21,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "ชื่อ">
 <!ENTITY aboutSupport.extensionEnabled "เปิดใช้งาน">
 <!ENTITY aboutSupport.extensionVersion "รุ่น">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "คุณสมบัติทดลอง">
+<!ENTITY aboutSupport.experimentName "ชื่อ">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "คำอธิบาย">
 <!ENTITY aboutSupport.experimentActive "ทำงาน">
-
+<!ENTITY aboutSupport.experimentEndDate "วันสิ้นสุด">
 <!ENTITY aboutSupport.experimentHomepage "หน้าหลัก">
 
 
@@ -50,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างหลายโปรเซส">
 
 <!ENTITY aboutSupport.showDir.label "เปิดไดเรกทอรี">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -62,14 +65,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกแก้ไข">
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "ปรับแต่ง user.js">
 <!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โพรไฟล์ของคุณประกอบด้วย<a id='prefs-user-js-link'>แฟ้ม user.js</a>ที่รวมไปถึงการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "การตั้งค่าสำคัญที่ปิดกั้น">
+<!ENTITY aboutSupport.lockedPrefsName "ชื่อ">
+<!ENTITY aboutSupport.lockedPrefsValue "ค่า">
 
 <!ENTITY aboutSupport.graphicsTitle "กราฟิก">
 

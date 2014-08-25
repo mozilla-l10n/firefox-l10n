@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "เปิดเสียง">
 <!ENTITY fullscreenButton.enterfullscreenlabel "เต็มจอ">
 <!ENTITY fullscreenButton.exitfullscreenlabel "คืนสภาพ">
-
+<!ENTITY castingButton.castingLabel "Cast to Screen">
 
 <!ENTITY stats.media "สื่อ">
 <!ENTITY stats.size "ขนาด">
