@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Էջանիշեր">
 <!ENTITY  history_title "Պատմություն">
 <!ENTITY  reading_list_title "Ընթերցումների ցանկ">
+<!ENTITY  recent_tabs_title "Վերջին ներդիրները">
 
 <!ENTITY  switch_to_tab "Անցնել ներդիրին">
 
@@ -33,7 +34,7 @@
 
 <!ENTITY choose_file "Ընտրել Ֆայլը">
 
-<!ENTITY url_bar_default_text "Նշեք Որոնում կամ գրեք հասցե">
+<!ENTITY url_bar_default_text "Նշեք Որոնում կամ գրեք հասցեն">
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_added "Էջանիշը ավելացվել է">
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Այսօր">
 <!ENTITY history_yesterday_section "Երեկ">
-<!ENTITY history_week_section "7 օր առաջ">
-<!ENTITY history_older_section "7 օրից շուտ">
+<!ENTITY history_week_section2 "Անցած շաբաթ">
+<!ENTITY history_older_section2 "Անցած ամիս">
 
 <!ENTITY go "Առաջ">
 <!ENTITY search "Փնտրել">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Հուշում. Նոր որոնիչը կարող եք ավելացնել սեղմած պահելով որոնման դաշտի վրա, ապա կտտացնելով &formatI; պատկերակին:">
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
+
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
 
 <!ENTITY pref_category_home "Գլխավոր էջ">
 <!ENTITY pref_category_home_summary "Կարգավորել Գլխավոր էջը">
 <!ENTITY pref_category_home_panels "Վահանակներ">
-<!ENTITY pref_home_add_panel "Ավելացնել վահանակ">
 <!ENTITY home_add_panel_title "Ավելացնել նոր վահանակ">
 <!ENTITY home_add_panel_empty "Ավելացնելու համար չկա որևէ վահանակ:">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել">
 <!ENTITY pref_char_encoding_off "Չցուցադրել">
-<!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալները">
+<!ENTITY pref_clear_private_data2 "Մաքրել">
+<!ENTITY pref_clear_private_data_category "Մաքրել անձնական տվյալները">
+<!ENTITY pref_clear_on_exit_title "Դուրս գրվելիս միշտ մաքրել">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ Դուք ընտրեք «Փակել»՝ հիմնական ցանկից">
+<!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
 <!ENTITY pref_plugins_enabled "Միացնել">
 <!ENTITY pref_plugins_tap_to_play "Ակտիվացնել սեղմելիս">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Նոր Ներդիր">
 <!ENTITY new_private_tab "Սկսել Գաղտնի Դիտարկում">
 <!ENTITY close_all_tabs "Փակել բոլոր ներդիրները">
+<!ENTITY close_private_tabs "Փակել գաղտնի ներդիրները">
 <!ENTITY tabs_normal "Ներդիրներ">
 <!ENTITY tabs_private "Անձնական">
 <!ENTITY tabs_synced "Սինք">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր ներդիրում">
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
-<!ENTITY contextmenu_open_in_reader "Բացել կարդալու համար">
 <!ENTITY contextmenu_remove "Հեռացնել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
 <!ENTITY contextmenu_share "Տարածել">
@@ -346,23 +351,23 @@ size. -->
 <!ENTITY home_top_sites_add "Ավելացնել կայք">
 
 <!ENTITY home_history_title "Պատմություն">
-<!ENTITY home_clear_history_button "Մաքրել դիտարկիչի պատմությունը">
+<!ENTITY home_clear_history_button "Մաքրել դիտարկումների պատմությունը">
 <!ENTITY home_clear_history_confirm "Մաքրե՞լ պատմությունը:">
 <!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվում են էջանիշերը:">
+<!ENTITY home_closed_tabs_title "Վերջին փակված ներդիրները">
 <!ENTITY home_last_tabs_title "Ձեր բացած վերջին ներդիրները">
-<!ENTITY home_last_tabs_open "Բացել վերջին բոլոր ներդիրները">
 <!ENTITY home_last_tabs_empty "Վերջին այցելությունները:">
-<!ENTITY home_most_recent_title "Ամենավերջինները">
+<!ENTITY home_open_all "Բացել բոլորը">
 <!ENTITY home_most_recent_empty "Ցուցադրված են Ձեր այցելած վերջին կայքերը:">
-<!ENTITY home_reading_list_empty "Հոդվածները, որոնք պահել եք հետո կարդալու համար:">
+<!ENTITY home_reading_list_empty "Նյութեր, որոնք պահել եք հետագայում ընթերցելու համար:">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Հուշում. Եթե ցանկանում եք հոդվածները պահել և հետո ընթերցել, ապա սեղմած պահեք &formatI; պատկերակին, երբ այն երևում է գլխագրում:">
+<!ENTITY home_reading_list_hint2 "Հուշում. Եթե ցանկանում եք նյութերը պահել և հետո ընթերցել, ապա սեղմած պահեք &formatI; պատկերակին, երբ այն երևում է գլխագրում:">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք հոդվածները Ընթերցումների ցանկում՝ սեղմած պահելով ընթերցելու կոճակը՝ երբ այն երևում է գլխագրում։">
+<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք նյութերը Ընթերցումների ցանկում՝ սեղմած պահելով ընթերցելու կոճակը, երբ այն երևում է գլխագրում։">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Տեղափոխել &formatS;">
+
+<!ENTITY private_browsing_title "Գաղտնի դիտարկում">
+
+<!ENTITY private_tabs_panel_learn_more "Ցանկանու՞մ եք իմանալ ավելին">
 
 <!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ փնտրել">
 

@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox-ի հաշիվ">
+
+<!ENTITY fxaccount_custom_server_account_title "Օգտագործելով հաշիվ սպասարկիչում">
+<!ENTITY fxaccount_custom_server_sync_title "Պահելով Սինքի տվյալները սպասարկիչում">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
+<!ENTITY fxaccount_status_auth_server "Հաշվի սպասարկիչը">
 <!ENTITY fxaccount_status_device_name "Սարքի անունը">
+<!ENTITY fxaccount_status_sync_server "Սինքի սպասարկիչը">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: միացած է">
 <!ENTITY fxaccount_status_needs_verification2 "Ձեր հաշիվը պետք է հաստատել: Կրկին ուղարկել հաստատումը:">
