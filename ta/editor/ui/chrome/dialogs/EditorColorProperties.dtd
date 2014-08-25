@@ -3,26 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "பக்கம் நிறம்கள் மேலும் பின்புலம்">
-<!ENTITY pageColors.label "பக்கம் நிறம்கள்">
-<!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
-<!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
-<!ENTITY customColorsRadio.label "Use custom colors:">
-<!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "These color settings override the viewer's browser settings">
 
-<!ENTITY normalText.label "இயல்பான உரை">
-<!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "தொடுப்பு உரை">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "செயற்படு தொடுப்பு உரை">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Visited link text">
-<!ENTITY visitedLinkText.accessKey "V">
-<!ENTITY background.label "பின்புலம்:">
-<!ENTITY background.accessKey "B">
-<!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "பின்புலம் படிமம்:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "Use an image file as the background for your page">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

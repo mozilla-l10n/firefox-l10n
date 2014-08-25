@@ -3,16 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label "தள யூஆர்எல்:">
-<!ENTITY docSubdir.label "பக்கம் உள் கோப்பகம்:">
-<!ENTITY otherSubdir.label "படிமம் உள் கோப்பகம்:">
 
-<!ENTITY status.label "Publishing...">
-<!ENTITY fileList.label "Publishing Status">
-<!ENTITY statusHeader.label "நிலைமை">
-<!ENTITY filenameHeader.label "கோப்புப் பெயர்">
-<!ENTITY succeeded.label "Succeeded">
-<!ENTITY failed.label "Failed">
 
-<!ENTITY keepOpen "Keep this window open after publishing is complete.">
-<!ENTITY closeButton.label "மூடு">
+
+
+
+
+

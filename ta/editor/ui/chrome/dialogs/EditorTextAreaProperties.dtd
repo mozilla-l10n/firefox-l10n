@@ -2,32 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "உரைப் பகுதி பண்புகள்">
 
-<!ENTITY Settings.label "அமைப்புகள்">
 
-<!ENTITY TextAreaName.label "புலம் பெயர்:">
-<!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "கிடக்கைகள்:">
-<!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "நெடுக்கைகள்:">
-<!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "படிப்பு மட்டும்">
-<!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "முடக்குநது">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "தத்தல் சுட்டுவரிசை:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "அணுக்கம் விசை:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "முதல் உரை:">
-<!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "சுருட்டு பாங்கு:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "முன்னிருப்பு">
-<!ENTITY WrapOff.value "விட்டு">
-<!ENTITY WrapHard.value "கெட்டியான">
-<!ENTITY WrapSoft.value "மென்">
-<!ENTITY WrapPhysical.value "பருநிலை">
-<!ENTITY WrapVirtual.value "மெய்நிகர்">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

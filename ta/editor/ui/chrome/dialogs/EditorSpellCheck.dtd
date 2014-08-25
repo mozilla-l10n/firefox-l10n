@@ -3,36 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Check Spelling">
 
-<!ENTITY misspelledWord.label "Misspelled word:">
-<!ENTITY wordEditField.label "மாற்றிடு:">
-<!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "சொல் சரிபார்">
-<!ENTITY checkwordButton.accessKey "k">
-<!ENTITY suggestions.label "சூசனைகள்:">
-<!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "புறக்கணி">
-<!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "அனைத்தும் புறக்கணி">
-<!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "மாற்றிடு">
-<!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "அனைத்தும் மாற்றிடு">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "நிறுத்து">
-<!ENTITY stopButton.accessKey "t">
-<!ENTITY userDictionary.label "சொந்த அகராதி:">
-<!ENTITY moreDictionaries.label "பதிவிறக்கம் அதிக அகராதிகள்...">
-<!ENTITY addToUserDictionaryButton.label "கூட்டு சொல்">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "தொகுப்பு...">
-<!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "திருப்பி சரிபார்ப் பக்கம்">
-<!ENTITY recheckButton.accessKey "P">
-<!ENTITY closeButton.label "மூடு">
-<!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "அனுப்பு">
-<!ENTITY sendButton.accessKey "S">
-<!ENTITY languagePopup.label "மொழி:">
-<!ENTITY languagePopup.accessKey "L">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,47 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
 
-<!ENTITY Select.label "தேர்வுத் பட்டி">
-<!ENTITY SelectName.label "பட்டி பெயர்:">
-<!ENTITY SelectName.accesskey "N">
-<!ENTITY SelectSize.label "உயரம்:">
-<!ENTITY SelectSize.accesskey "H">
-<!ENTITY SelectMultiple.label "பல் தேர்வு">
-<!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "முடக்குநது">
-<!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "தத்தல் சுட்டுவரிசை:">
-<!ENTITY SelectTabIndex.accesskey "I">
 
-<!ENTITY OptGroup.label "விருப்பத்தேர்வு குழு">
-<!ENTITY OptGroupLabel.label "சிட்டை:">
-<!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "முடக்குநது">
-<!ENTITY OptGroupDisabled.accesskey "D">
 
-<!ENTITY Option.label "விருப்பத்தேர்வு">
-<!ENTITY OptionText.label "உரை:">
-<!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "மதிப்பு:">
-<!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "Initially Selected">
-<!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "முடக்குநது">
-<!ENTITY OptionDisabled.accesskey "D">
 
-<!ENTITY TextHeader.label "உரை">
-<!ENTITY ValueHeader.label "மதிப்பு">
-<!ENTITY SelectedHeader.label "தேர்ந்தெடுதது">
 
-<!ENTITY AddOption.label "கூட்டு விருப்பத்தேர்வு">
-<!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "கூட்டு குழு">
-<!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "அகற்று">
-<!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "நகர்த்து மேல்">
-<!ENTITY MoveElementUp.accesskey "U">
-<!ENTITY MoveElementDown.label "நகர்த்து கீழ்">
-<!ENTITY MoveElementDown.accesskey "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,47 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY GeneratedName.label "பெயர்">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "மின்னஞ்சல்">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Organization">
-<!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "ஒலியன் பெயர்">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "Nickname">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "Additional Email">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "Department">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "தலைப்பு">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Mobile">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY PagerNumber.label "Pager">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "Fax">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Home Phone">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY WorkPhone.label "Work Phone">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY ScreenName.label "Screen பெயர்">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "ஏறுமுகம்">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "இருங்குகிறது">
-<!ENTITY sortDescending.accesskey "D">
-<!-- context menu -->
 
-<!ENTITY composeEmail.label "Compose Email To">
-<!ENTITY composeEmail.accesskey "C">
-<!ENTITY deleteAddrBookCard.label "நீக்கு">
-<!ENTITY deleteAddrBookCard.accesskey "D">
-<!ENTITY newAddrBookCard.label "New Card...">
-<!ENTITY newAddrBookCard.accesskey "N">
-<!ENTITY newAddrBookMailingList.label "New Mailing List...">
-<!ENTITY newAddrBookMailingList.accesskey "M">
-<!ENTITY addrBookCardProperties.label "பண்புகள்">
-<!ENTITY addrBookCardProperties.accesskey "P">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

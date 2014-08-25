@@ -2,21 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY subscribeDialog.title "நன்கொடை வழங்கு">
-<!ENTITY subscribeButton.label "நன்கொடை வழங்கு">
-<!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "நன்கொடை வழங்காதே">
-<!ENTITY unsubscribeButton.accesskey "U">
-<!ENTITY newGroupsTab.label "New Groups">
-<!ENTITY newGroupsTab.accesskey "N">
-<!ENTITY refreshButton.label "Refresh">
-<!ENTITY refreshButton.accesskey "R">
-<!ENTITY stopButton.label "நிறுத்து">
-<!ENTITY stopButton.accesskey "T">
-<!ENTITY server.label "Account:">
-<!ENTITY server.accesskey "A">
-<!ENTITY subscribedHeader.label "நன்கொடை வழங்கு">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label "Show items that contain:">
-<!ENTITY namefield.accesskey "O">
+

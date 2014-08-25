@@ -2,19 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "புலம் அமை பண்புகள்">
 
-<!ENTITY Legend.label "குறி விளக்கம்">
-<!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "தொகுப்பு குறி விளக்கத்தை:">
-<!ENTITY EditLegendText.accesskey "T">
-<!ENTITY LegendAlign.label "Align குறி விளக்கம்:">
-<!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "முன்னிருப்பு">
-<!ENTITY AlignLeft.label "இடது">
-<!ENTITY AlignCenter.label "மையம்">
-<!ENTITY AlignRight.label "வலது">
 
-<!ENTITY RemoveFieldSet.label "அகற்று புலம் அமையை">
-<!ENTITY RemoveFieldSet.accesskey "R">
+
+
+
+
+
+
+
+

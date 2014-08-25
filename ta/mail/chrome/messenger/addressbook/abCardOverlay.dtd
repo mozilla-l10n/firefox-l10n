@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY chooseAddressBook.label "Add to: ">
-<!ENTITY chooseAddressBook.accesskey "A">
 
-<!ENTITY Contact.tab "Contact">
-<!ENTITY Name.box "பெயர்">
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -17,82 +13,134 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
-
-<!ENTITY NameField1.label "First:">
-<!ENTITY NameField1.accesskey "F">
-<!ENTITY NameField2.label "Last:">
-<!ENTITY NameField2.accesskey "L">
-<!ENTITY PhoneticField1.label "ஒலியன்:">
-<!ENTITY PhoneticField2.label "ஒலியன்:">
-<!ENTITY DisplayName.label "Display:">
-<!ENTITY DisplayName.accesskey "D">
-<!ENTITY NickName.label "Nickname:">
-<!ENTITY NickName.accesskey "N">
-
-<!ENTITY Internet.box "Internet">
-<!ENTITY PrimaryEmail.label "Email:">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "Additional Email:">
-<!ENTITY SecondEmail.accesskey "o">
-<!ENTITY PreferMailFormat.label "Prefers to receive messages formatted as:">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Plain Text">
-<!ENTITY HTML.label "ஹெச்டிஎம்எல்">
-<!ENTITY Unknown.label "Unknown">
-<!ENTITY ScreenName.label "Screen Name:">
-<!ENTITY ScreenName.accesskey "S">
-
-<!ENTITY allowRemoteContent.label "Allow remote images in HTML mail.">
-<!ENTITY allowRemoteContent.accesskey "g">
-
-<!ENTITY Phones.box "Phones">
-<!ENTITY WorkPhone.label "Work:">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY HomePhone.label "Home:">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY FaxNumber.label "Fax:">
-<!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Pager:">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY CellularNumber.label "Mobile:">
-<!ENTITY CellularNumber.accesskey "M">
-
-<!ENTITY Address.tab "Address">
-<!ENTITY Home.box "அகம்">
-<!ENTITY HomeAddress.label "முகவரி:">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeCity.label "நகரம்:">
-<!ENTITY HomeState.label "State/Province:">
-<!ENTITY HomeZipCode.label "ZIP/Postal Code:">
-<!ENTITY HomeCountry.label "நாடு:">
-<!ENTITY HomeWebPage.label "வலைப்பக்கம்:">
-<!ENTITY Work.box "வேலை">
-<!ENTITY JobTitle.label "தலைப்பு:">
-<!ENTITY Department.label "Department:">
-<!ENTITY Company.label "Organization:">
-<!ENTITY WorkAddress.label "முகவரி:">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkCity.label "நகரம்:">
-<!ENTITY WorkState.label "State/Province:">
-<!ENTITY WorkZipCode.label "ZIP/Postal Code:">
-<!ENTITY WorkCountry.label "நாடு:">
-<!ENTITY WorkWebPage.label "வலைப்பக்கம்:">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 
-<!ENTITY Other.tab "வேறு">
-<!ENTITY Custom1.label "Custom 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Custom 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Custom 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Custom 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Notes">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY In.label                       "">
+
+
+
+<!ENTITY YearsOld.label                 "">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

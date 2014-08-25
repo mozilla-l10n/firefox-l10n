@@ -10,34 +10,31 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
-<!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.mailTitle "Mail">
-<!ENTITY importDialog.addressbookTitle "முகவரிப் புத்தகங்கள்">
-<!ENTITY importDialog.settingsTitle "அமைப்புகள்">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
 
-<!ENTITY importTitle.label "&brandShortName; Mail Import Wizard">
-<!ENTITY importDesc.label "Import Mail, Address Books and Settings from other programs">
 
-<!ENTITY importDescription.label "This wizard will import mail messages, address book entries, and/or preferences from other mail programs and common address book formats into &brandShortName; Mail.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName; Mail and/or Address Book.">
 
-<!ENTITY selectDescription.label "Please select the program from which you would like to import:">
 
-<!ENTITY back.label "&lt; Back">
-<!ENTITY forward.label "அடுத்து &gt;">
-<!ENTITY finish.label "முடி">
-<!ENTITY cancel.label "விடு">
 
-<!ENTITY select.label "Select the type of material to import:">
 
-<!ENTITY title.label "தலைப்பு">
-<!ENTITY processing.label "இறக்குமதி செய்கிறது...">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importDialog.homeTitle "அகம்">
-<!ENTITY importDialog.workTitle "வேலை">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

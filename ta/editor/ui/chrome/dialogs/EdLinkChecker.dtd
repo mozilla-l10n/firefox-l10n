@@ -3,10 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "சரிபார் படிமம் மேலும் தொடுப்பு இருப்பிடம்">
-<!ENTITY urlsNotFound.label "The following image or link locations were not found:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = file not found, &quot;?&quot; = timed-out attempting to connect.)">
-<!ENTITY changeUrlButton.label "மாற்று இருப்பிடத்தின் தேர்ந்தெடுத்த உருப்படி">
-<!ENTITY succeeded.label "வெற்றிபெறுந்தது">
-<!ENTITY failed.label "தவறி விடுந்தது">
-<!ENTITY closeButton.label "மூடு">
+
+
