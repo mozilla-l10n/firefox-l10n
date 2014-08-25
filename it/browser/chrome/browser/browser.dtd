@@ -531,11 +531,18 @@
 <!ENTITY mixedContentBlocked2.moreinfo "Sono stati bloccati alcuni elementi non cifrati in questa pagina.">
 <!ENTITY mixedContentBlocked2.learnMore "Ulteriori informazioni">
 <!ENTITY mixedContentBlocked2.options "Opzioni">
-<!ENTITY mixedContentBlocked2.unblock.label "Disattiva temporaneamente la protezione">
+<!ENTITY mixedContentBlocked2.unblock.label "Disattiva temporaneamente protezione">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 <!ENTITY mixedContentBlocked2.block.label "Attiva protezione">
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
+<!ENTITY trackingContentBlocked.message "Tracciamento">
+<!ENTITY trackingContentBlocked.moreinfo "Sono stati bloccati alcuni elementi in questa pagina in grado di tracciare la navigazione.">
+<!ENTITY trackingContentBlocked.learnMore "Ulteriori informazioni">
+<!ENTITY trackingContentBlocked.options "Opzioni">
+<!ENTITY trackingContentBlocked.unblock.label "Disattiva protezione">
+<!ENTITY trackingContentBlocked.block.label "Attiva protezione">
+<!ENTITY trackingContentBlocked.disabled.message "La protezione antitracciamento è disattivata">
 <!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
 <!ENTITY pluginNotification.showAll.label "Visualizza tutti">
 <!ENTITY pluginNotification.showAll.accesskey "V">
