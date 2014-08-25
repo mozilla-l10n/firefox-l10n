@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliciwch i ddangos rhagor o ddewisiadau">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ail gadarnhau">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Anfon ail gadarnhad i'r trefnydd">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Cadw copi">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Cadw copi o'r digwyddiad i'r calendr yn annibynnol o ateb i'r trefnydd. Bydd y rhestr o fynychwyr yn cael ei glirio.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Ansicr">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Derbyn gwahoddiad i ddigwyddiad yn amodol">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Amodol i'r cyfan">
