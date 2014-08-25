@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Obulambe">
 <!ENTITY  history_title "Ebyafaayo">
 <!ENTITY  reading_list_title "Olukalala Lwebyokusooma">
+<!ENTITY  recent_tabs_title "Ta\u0027aga Ezibadewo">
 
 <!ENTITY  switch_to_tab "Kyuusa ode ku tab">
 
@@ -19,9 +20,9 @@
 <!ENTITY  crash_send_report_message3 "Gamba &Omusubuzi; ekikwata ku kkabenje asobole oku gitteleza">
 <!ENTITY  crash_include_url2 "Tekako endagiriro lupapula lwe mbadde ko.">
 <!ENTITY  crash_sorry "Tusonyiwe">
-
-
-
+<!ENTITY  crash_comment "Gatttawo endowooza yo (endowooza zirabibwa buli omu)">
+<!ENTITY  crash_allow_contact2 "Kilizza &vendorShortName; okuntukilila ku bikwatagana ne alliporta eno.">
+<!ENTITY  crash_email "Emailo yo">
 
 <!ENTITY  sending_crash_report "Okuweereza alipota yo\u0027kuziikirira\u2026">
 <!ENTITY  crash_close_label "Ggalawo">
@@ -31,20 +32,20 @@
 <!ENTITY  launcher_shortcuts_title "Pulogulamu ezidukira kulutimbe eza &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Tewali pulogulamu ezidukira kulutimbe zizzuliddwa">
 
-<!ENTITY choose_file "Londa Fayiro">
+<!ENTITY choose_file "Londa Fiilo">
 
 <!ENTITY url_bar_default_text "Tekamu Ekyokunoonya oba Endagiriro">
 
 <!ENTITY bookmark "Akalambe">
-<!ENTITY bookmark_added "Akalambe kongezeddwa">
+<!ENTITY bookmark_added "Akalambe kayongedwako">
 <!ENTITY bookmark_removed "Akalambe kagidwawo">
 <!ENTITY bookmark_updated "Akalambe katusiddwa">
-
+<!ENTITY bookmark_options "Ebyokulondako">
 
 <!ENTITY history_today_section "Leero">
 <!ENTITY history_yesterday_section "Jjo">
-<!ENTITY history_week_section "ennaku 7 eziyise">
-<!ENTITY history_older_section "Ebisuuse munnaku 7">
+<!ENTITY history_week_section2 "Weeki ewedde">
+<!ENTITY history_older_section2 "Omwezi oguwedde">
 
 <!ENTITY go "Genda">
 
@@ -53,7 +54,7 @@
 
 <!ENTITY back "Emabega">
 
-
+<!ENTITY site_security "Ebyokwelinda bya kabanja ">
 
 
 <!ENTITY close_tab "Ggalawo Awaddirira">
@@ -61,36 +62,52 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY new_tab_opened "Awadirira Awapya Waguddwa">
+<!ENTITY new_private_tab_opened "Akatimbe akapya akayama kagudwa wo.">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "Kusaa">
 
 <!ENTITY settings "Enteegeka">
 <!ENTITY settings_title "Enteegeka">
+<!ENTITY pref_category_advanced "Bussukkulumu">
+<!ENTITY pref_category_customize "Fula">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Olulimi">
+<!ENTITY pref_browser_locale "Nonya olulimi">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY pref_category_search_summary "Telezamu mu abeweleza  enonya yo.">
+<!ENTITY pref_category_display "Laga">
+<!ENTITY pref_category_privacy_short "ebyekyama">
+
+<!ENTITY pref_category_datareporting "data owo kulonda ko">
+<!ENTITY pref_learn_more "Manya ebisingawo">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_search_restore_defaults "zaawo ngini ezinonya endala…">
+<!ENTITY pref_search_restore_defaults "Zaayo nagbulijjo">
 
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
+<!ENTITY pref_search_hint "Zaayo nagbulijjo">
+<!ENTITY pref_category_devtools "akulakulanya Ekikozesebwa">
 
 
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
 
+<!ENTITY pref_category_home "Ewakaa">
 
-
-
-
+<!ENTITY pref_category_home_panels "kakiiko">
+<!ENTITY home_add_panel_title "gatta ekipya kakiiko">
 
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
@@ -99,10 +116,13 @@
 
 
 
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-
-
-
+<!ENTITY pref_header_display "laaga">
+<!ENTITY pref_header_privacy_short "ebyekyama">
+<!ENTITY pref_header_help "Obuyambi">
+<!ENTITY pref_header_language "olulimi">
 
 
 
@@ -111,14 +131,18 @@
 
 
 
-
-
+<!ENTITY pref_donottrack_disallow_tracking "Gamba ekibanja sagala kugobelerwa">
+<!ENTITY pref_donottrack_allow_tracking "Gamba ekibanja nti saggala kugobelererwa">
 
 
 <!ENTITY pref_char_encoding "Ennyukuta enkusike">
 <!ENTITY pref_char_encoding_on "Laga Enyanjula">
 
-<!ENTITY pref_clear_private_data "Jjamu bwino owobwananyini">
+
+<!ENTITY pref_clear_private_data_category "Jjamu bwino owobwananyini">
+
+
+
 <!ENTITY pref_plugins "Ebyongerwako">
 
 <!ENTITY pref_plugins_tap_to_play "Konna okuzanya">
@@ -133,7 +157,7 @@
 <!ENTITY pref_font_size_medium "Wakati">
 <!ENTITY pref_font_size_large "Enene">
 <!ENTITY pref_font_size_xlarge "Enene Ddala">
-
+<!ENTITY pref_font_size_set "tegeka">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -143,11 +167,11 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
-
+<!ENTITY pref_show_product_announcements "laga ebilango ekyokukozesa">
 <!ENTITY pref_sync "Tusaganya">
 <!ENTITY pref_search_suggestions "Laga ebirowoozo by\u0027okunoonya">
-
-
+<!ENTITY pref_import_android "leeta okuva mu Android">
+<!ENTITY pref_private_data_history2 " byafaayo byo okkunonyelezza">
 
 
 <!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
@@ -161,11 +185,15 @@ size. -->
 
 <!ENTITY pref_vendor_feedback "Waayo ekyokuddamu">
 
+<!ENTITY pref_dialog_set_default "Ebigatte ngakikoleremu">
 <!ENTITY pref_dialog_default "eky\u0027enkalakalira">
 
 
 
 <!ENTITY pref_panels_show "Laga">
+
+
+
 
 
 
@@ -194,11 +222,12 @@ size. -->
 
 <!ENTITY pref_update_autodownload_never "Tekibanga">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Vaayo">
 
 <!ENTITY addons "Ebigattibwako">
-<!ENTITY downloads "Ebiwanulwa">
+
 
 <!ENTITY char_encoding "Ennyukuta Enkusike">
 
@@ -211,6 +240,7 @@ size. -->
 
 <!ENTITY tools "Ebikozesebwa">
 <!ENTITY new_tab "Awaddirira Awapya">
+
 
 
 
@@ -234,10 +264,9 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Ggulawo mu Waddirira Awapya">
 
 
-
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
 <!ENTITY contextmenu_share "Gaabana">
-<!ENTITY contextmenu_pasteandgo "Teeka wano  Genda">
+<!ENTITY contextmenu_pasteandgo "Teeka wano &amp; Genda">
 
 
 
@@ -252,8 +281,11 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "Omuko gujjidwawo">
+<!ENTITY page_removed "Omuko gujjidwawo">
 
 <!ENTITY bookmark_edit_title "Kyuusa Akalambe">
 <!ENTITY bookmark_edit_name "Erinnya">
@@ -265,9 +297,7 @@ size. -->
 
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
 
-<!ENTITY reading_list_add "Yongera ku Lukalala Lwe\u0027byokusooma">
 <!ENTITY reading_list_added "Omuko gwongeddwa ku Lukalala lwo Olwebyokusooma">
-<!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
 
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -292,7 +322,9 @@ size. -->
 
 
 
-<!ENTITY home_last_tabs_open "Gulawo awadirira wonna awabadewo">
+
+
+
 
 
 
@@ -305,6 +337,12 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY private_browsing_title "Okunoonya Okutongozeddwa">
+
+
 
 
 <!ENTITY filepicker_title "Londa Fayiro">
@@ -365,6 +403,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
