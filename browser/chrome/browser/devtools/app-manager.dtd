@@ -26,37 +26,37 @@
 <!ENTITY device.allow "ಅನುಮತಿಸು">
 <!ENTITY device.allowTooltip "ಈ ಬಗೆಯ ಕಿರುಅನ್ವಯಗಳಿಗಾಗಿ ಈ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ">
 <!ENTITY device.prompt "ಪ್ರಾಂಪ್ಟ್">
-
+<!ENTITY device.promptTooltip "ಈ ಬಗೆಯ ಕಿರುಅನ್ವಯಗಳಿಗಾಗಿ ಒಂದು ಬಳಕೆದಾರ ಪ್ರಾಂಪ್ಟ್‌ನ ಅಗತ್ಯವಿರುತ್ತದೆ">
 <!ENTITY device.deny "ನಿರಾಕರಿಸು">
-
-<!ENTITY device.installedApps "ಅನುಸ್ಥಾಪಿಸಿದ ಆಪ್‌ಗಳು">
-
+<!ENTITY device.denyTooltip "ಈ ಬಗೆಯ ಕಿರುಅನ್ವಯಗಳಿಗಾಗಿ ಈ ಅನುಮತಿಯನ್ನು ನಿರಾಕರಿಸಲಾಗುತ್ತದೆ">
+<!ENTITY device.installedApps "ಅನುಸ್ಥಾಪಿಸಿದ ಕಿರುಅನ್ವಯಗಳು">
+<!ENTITY device.installedAppsTooltip "ಸಾಧನಗಳಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸಲಾದ ಕಿರುಅನ್ವಯಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ. ಪ್ರಮಾಣೀಕೃತ ಕಿರುಅನ್ವಯಗಳಂತಹ ಕೆಲವು ಅನ್ವಯಗಳು ಈ ನೋಟದಿಂದ ಹೊರತುಪಡಿಸಲಾಗಿರಬಹುದು.">
 <!ENTITY device.permissions "ಅನುಮತಿಗಳು">
-
+<!ENTITY device.permissionsTooltip "ವಿವಿಧ ಬಗೆಯ ಕಿರುಅನ್ವಯಗಳಿಗೆ ನಿಲುಕುವಂತಹ ಒಂದು ಅನುಮತಿಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ವೀಕ್ಷಕದ ಹಾಳೆಗಳು">
-
+<!ENTITY device.browserTabsTooltip "ಸಂಪರ್ಕಿತ ಸಾಧನದ ಜಾಲವೀಕ್ಷಕದಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
 <!ENTITY device.debugBrowserTab "ದೋಷನಿವಾರಣೆ">
-
+<!ENTITY device.debugBrowserTabTooltip "ಸಾಧನದಲ್ಲಿನ ಜಾಲವೀಕ್ಷಕ ಟ್ಯಾಬ್‌ಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ವಿಕಸನೆಗಾರ ಉಪಕರಣಗಳನ್ನು ತೆರೆ">
 <!ENTITY device.help "ಸಹಾಯ">
 
 <!ENTITY connection.connectTooltip "ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವೇರ್ಪಡಿಸು">
 <!ENTITY connection.disconnect "ಸಂಪರ್ಕ ತೆಗೆ">
-
+<!ENTITY connection.disconnectTooltip "ಪ್ರಸಕ್ತ ಸಾಧನ ಅಥವ ಸಿಮುಲೇಟರ್ ಇಂದ ಸಂಪರ್ಕ ತಪ್ಪಿಸು">
 <!ENTITY connection.notConnected2 "ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
 <!ENTITY connection.connectTo "ಇಲ್ಲಿಗೆ ಸಂಪರ್ಕಿಸು:">
 <!ENTITY connection.noDeviceFound "ಸಾಧನ ಲಭ್ಯವಿಲ್ಲ. ಸಾಧನವನ್ನು ಪ್ಲಗ್ ಮಾಡಿ">
 <!ENTITY connection.changeHostAndPort "ಬದಲಾಯಿಸು">
-
+<!ENTITY connection.changeHostAndPortTooltip "ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಬಳಸಲಾಗುವ ಆತಿಥೇಯ ಮತ್ತು ಸಂಪರ್ಕಸ್ಥಾನ ಅನ್ನು ಬದಲಾಯಿಸಿ (ಪೂರ್ವನಿಯೋಜಿತ localhost:6000)">
 <!ENTITY connection.startSimulator "ಸಿಮ್ಯುಲೇಟರ್ ಪ್ರಾರಂಭಿಸು">
-
+<!ENTITY connection.startSimulatorTooltip "ಸಿಮುಲೇಟರ್‌ನ ಒಂದು ಸನ್ನಿವೇಶವನ್ನು ಆರಂಭಿಸಿ ಮತ್ತು ಅದಕ್ಕೆ ಸಂಪರ್ಕಸಾಧಿಸಿ">
 <!ENTITY connection.saveConnectionInfo "ಉಳಿಸು">
 <!ENTITY connection.saveConnectionInfoTooltip "ಅತಿಥೇಯ ಗಣಕ ಮತ್ತು ಸಂಪರ್ಕ ಸ್ತಾನವನ್ನು ಉಳಿಸು">
 <!ENTITY connection.connecting "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…">
 <!ENTITY connection.disconnecting "ಸಂಪರ್ಕ ತಪ್ಪಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY connection.cancel "ರದ್ದು ಮಾಡು">
-
-
+<!ENTITY connection.cancelConnectTooltip "ಪ್ರಗತಿಯಲ್ಲಿರುವ ಸಂಪರ್ಕವನ್ನು ರದ್ದು ಮಾಡಿ">
+<!ENTITY connection.cancelShowSimulatorTooltip "ಸಿಮುಲೇಟರ್ ಸಂಪರ್ಕದ ಕ್ರಮದಿಂದಿ ನಿರ್ಗಮಿಸಿ ಮತ್ತು ಆರಂಭಿಕ ಪ್ರಾಂಪ್ಟ್‌ಗೆ ಮರಳಿ">
 <!ENTITY connection.or "ಅಥವ">
 <!ENTITY connection.noSimulatorInstalled "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿಲ್ಲ.">
 <!ENTITY connection.installOneSimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">

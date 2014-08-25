@@ -1,10 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncCustomize.dialog.title       "ಸಿಂಕ್ ಆಯ್ಕೆ">
 <!ENTITY syncCustomize.acceptButton.label "ಆರಂಭ">
 
-
-
+<!ENTITY syncCustomize.title              "ನೀವು ಏನನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಬಯಸುವಿರಿ?">
+<!ENTITY syncCustomize.description        "ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಆಯ್ಕೆಗಳು ಎಂಬಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.">
+<!ENTITY syncCustomizeUnix.description    "ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಆದ್ಯತೆಗಳು ಎಂಬಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
