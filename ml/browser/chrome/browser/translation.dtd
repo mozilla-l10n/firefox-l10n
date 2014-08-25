@@ -11,10 +11,11 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.translateThisPage.label    "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യണോ?">
+<!ENTITY translation.translate.button           "തര്‍ജ്ജമചെയ്യുക">
+<!ENTITY translation.notNow.button              "ഇപ്പോള്‍ അല്ല ">
 
-
-
-
+<!ENTITY translation.translatingContent.label   "താളിലുള്ള തര്‍ജ്ജമ ചെയ്യുന്നു...">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -33,10 +34,13 @@
 <!ENTITY translation.translatedTo.label         "എവിടേക്കു്">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "യഥാര്‍ത്ഥമുള്ളവ കാണിയ്ക്കുക">
+<!ENTITY translation.showTranslation.button     "തര്‍ജ്ജമ കാണിയ്ക്കുക">
 
+<!ENTITY translation.errorTranslating.label     "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നതില്‍ ഒരു പിശകുണ്ട്.">
+<!ENTITY translation.tryAgain.button            "വീണ്ടും ശ്രമിയ്ക്കുക">
 
-
-
+<!ENTITY translation.serviceUnavailable.label   "ഇപ്പോള്‍ തര്‍ജ്ജമ ലഭ്യമല്ല. പിന്നീട് വീണ്ടും ശ്രമിയ്ക്കുക.">
 
 <!ENTITY translation.options.menu               "ഐച്ഛികങ്ങള്‍">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -44,12 +48,15 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "ഈ സൈറ്റ് ഒരിയ്ക്കലും തര്‍ജ്ജമ ചെയ്യരുത്">
+<!ENTITY translation.options.neverForSite.accesskey "ഒ">
+<!ENTITY translation.options.preferences.label  "തര്‍ജ്ജമയ്ക്കുള്ള മുന്‍ഗണനകള്‍">
+<!ENTITY translation.options.preferences.accesskey "ത">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "തര്‍ജ്ജമ ചെയ്തത്">
 <!ENTITY translation.options.attribution.afterLogo "">

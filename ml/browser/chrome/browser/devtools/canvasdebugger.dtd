@@ -31,3 +31,5 @@
   -  on a button that remvoes all the snapshots. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.searchboxPlaceholder): This string is displayed
   -  as a placeholder of the search box that filters the calls list. -->
+
+<!ENTITY canvasDebuggerUI.searchboxPlaceholder "കോളുകള്‍ ഫില്‍റ്റര്‍ ചെയ്യക">

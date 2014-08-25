@@ -32,19 +32,33 @@
   -  for the button that black boxes the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "ബ്ലാക്ക് ബോക്സിങ് ടൊഗ്ഗിള്‍ ചെയ്യുക">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 
+<!ENTITY debuggerUI.autoPrettyPrint     "ഓട്ടോ പ്രറ്റി മിനിഫൈഡ് ശ്രോതസ്സുകള്‍">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "എല്ലാ ബ്രെയിക്ക്പോയിന്റുകളും പ്രവര്‍ത്തന സജ്ജമാക്കുക/രഹിതമാക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "നിരീക്ഷണം ആരംഭിയ്ക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "വെടിപ്പാക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "ശേഖരിച്ച ട്രെയിസുകള്‍ വെടിപ്പാക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
+
+<!ENTITY debuggerUI.pauseExceptions           "എക്സപ്ഷനുകളില്‍ ഇടയ്ക്കു് നിര്‍ത്തുക">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
@@ -64,21 +78,31 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource           "യഥാര്‍ത്ഥ ശ്രോതസ്സുകള്‍ കാണിയ്ക്കുക">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
+<!ENTITY debuggerUI.autoBlackBox           "ഓട്ടോമാറ്റിക്ക് ബ്ലാക്ക് ബോക്സ് മിനിഫൈഡ് ശ്രോതസ്സുകള്‍">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+
+<!ENTITY debuggerUI.searchPanelOperators    "ഓപ്പറേറ്ററുകള്‍: ">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "ഫില്‍റ്റര്‍ സ്ക്രിപ്റ്റുകള്‍">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
-
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal.key       "F">
 
+<!ENTITY debuggerUI.searchGlobal           "എല്ലാ ഫയലുകളിലും തെരയുക">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
@@ -96,27 +120,35 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable.key       "V">
-
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables.key       "V">
 
+<!ENTITY debuggerUI.focusVariables           "വേരിയബിളുകളുടെ ട്രീയില്‍ ശ്രദ്ധിയ്ക്കുക">
+<!ENTITY debuggerUI.focusVariables.key       "V">
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
 <!ENTITY debuggerUI.condBreakPanelTitle "എക്സ്പ്രഷന്‍ true ആണെങ്കില്‍ മാത്രം ഈ ബ്രെയിക്ക്പോയിന്റ് പ്രവര്‍ത്തനം നിര്‍ത്തുന്നു.">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuBreak     "ബ്രെയിക്ക്പോയിന്റ് ചേര്‍ക്കുക">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "കണ്ടീഷനല്‍ ബ്രെയിക്ക്പോയിന്റ് ചേര്‍ക്കുക">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-
-
+<!ENTITY debuggerUI.tabs.sources        "ശ്രോതസ്സുകള്‍">
+<!ENTITY debuggerUI.tabs.traces         "ട്രെയിസുകള്‍">
+<!ENTITY debuggerUI.tabs.callstack      "കോള്‍ സ്റ്റാക്ക്">
+<!ENTITY debuggerUI.tabs.variables      "വേരിയബിള്‍">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
@@ -133,8 +165,8 @@
   -  step in and step out). -->
 
 
-
-
-
-
-
+<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
+<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">

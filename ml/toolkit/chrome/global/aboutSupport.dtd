@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "യൂസര്‍ ഏജന്റ്">
 <!ENTITY aboutSupport.appBasicsMemoryUse "മെമ്മറിയുടെ ഉപയോഗം">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍">
 
 <!ENTITY aboutSupport.showDir.label "ഡയറക്ടറി തുറക്കുക">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -64,14 +65,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
 <!ENTITY aboutSupport.modifiedPrefsName "പേരു്">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "മൂല്ല്യം">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js മുന്‍ഗണനകള്‍">
 <!ENTITY aboutSupport.userJSDescription "നിങ്ങളുടെ പ്രൊഫൈല്‍ ഫോള്‍ഡറില്‍ ഒരു <a id='prefs-user-js-link'>user.js file</a> അടങ്ങുന്നു. ഇതില്‍ &brandShortName; തയ്യാറാക്കാത്ത മുന്‍ഗണനങ്ങള്‍ ഉള്‍പ്പെടുന്നു.">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "പൂട്ടിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
+<!ENTITY aboutSupport.lockedPrefsName "പേരു്">
+<!ENTITY aboutSupport.lockedPrefsValue "മൂല്ല്യം">
 
 <!ENTITY aboutSupport.graphicsTitle "ഗ്രാഫിക്ക്സ്">
 

@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "പോപ്പ്-അപ്പുകള്‍">
+
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍...">
 <!ENTITY  popupExceptions.accesskey   "ക">
 
+<!ENTITY  fontsAndColors.label        "അക്ഷരസഞ്ചയങ്ങളും നിറങ്ങളും">
 
 <!ENTITY  defaultFont.label           "സഹജമായ അക്ഷരസഞ്ചയം">
 <!ENTITY  defaultFont.accesskey       "സ">
@@ -25,7 +28,8 @@
 <!ENTITY chooseButton.label           "തെരഞ്ഞെടുക്കുക…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "വെബിലുള്ളവ തര്‍ജ്ജമ ചെയ്യുക">
+<!ENTITY translateWebPages.accesskey  "ത">
 <!ENTITY translateExceptions.label    "വിട്ടുവീഴ്ചകള്‍…">
 <!ENTITY translateExceptions.accesskey "ക">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -35,4 +39,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "തര്‍ജ്ജമ ചെയ്തത്">
 <!ENTITY translation.options.attribution.afterLogo "">
