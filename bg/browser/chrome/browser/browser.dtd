@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Презареждане на подпрозорец">
 <!ENTITY  reloadTab.accesskey                "П">
-<!ENTITY  reloadAllTabs.label                "Презареждане на всички подпрозорци">
-<!ENTITY  reloadAllTabs.accesskey            "П">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Нова група">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
-<!ENTITY  bookmarkAllTabs.label              "Отмятане на всеки подпрозорец…">
-<!ENTITY  bookmarkAllTabs.accesskey          "О">
-<!ENTITY  undoCloseTab.label                 "Връщане на затворения подпрозорец">
-<!ENTITY  undoCloseTab.accesskey             "В">
+
+
+
+
 <!ENTITY  closeTab.label                     "Затваряне на подпрозореца">
 <!ENTITY  closeTab.accesskey                 "З">
 
@@ -81,6 +81,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Лента с отметки">
 <!ENTITY personalbarCmd.accesskey "о">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
@@ -147,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu.label "Абониране">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
-<!ENTITY addCurPagesCmd.label "Отметка с всички подпрозорци…">
+
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY unsortedBookmarksCmd.label "Неподредени отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
@@ -259,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "р">
 <!ENTITY devAppMgrMenu.label               "Управление на приложения">
 <!ENTITY devAppMgrMenu.accesskey           "У">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Активиране на инструментите">
@@ -576,7 +584,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Затваряне">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "З">
 
 <!ENTITY pageStyleMenu.label "Оформление на страницата">
@@ -701,11 +709,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон за споделяне:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 
+
 <!ENTITY webrtcIndicatorButton.label "Достъп до камера или микрофон">
 <!ENTITY webrtcIndicatorButton.tooltip "Показване на сайтовете, на които сте разрешили използването на камера и микрофон">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "Повечето уеб-сайтове ще работят нормално, дори ако това съдържание е блокирано.">
 
