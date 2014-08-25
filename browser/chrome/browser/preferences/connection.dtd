@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "വിദൂര DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "പോര്‍ട്ട്‌:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "ഉദാഹരണം: .mozilla.org, .net.nz, 192.168.1.0/24 ">
 <!ENTITY  shareproxy.label              "എല്ലാ പ്രോട്ടോകോളുകള്‍ക്കും ഈ പ്രോക്സി സെര്‍വര്‍ ഉപയോഗിക്കുക ">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
+<!ENTITY  autologinproxy.label          "രഹസ്യവാക്ക് സൂക്ഷിച്ചിട്ടുണ്ടെങ്കില്‍, ആധികാരികത ഉറപ്പാക്കുവാന്‍ ആവശ്യപ്പെടരുത്">
+<!ENTITY  autologinproxy.accesskey      "i">
 

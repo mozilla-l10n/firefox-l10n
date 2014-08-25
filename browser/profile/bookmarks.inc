@@ -85,5 +85,7 @@
 # currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
 
 
+#define firefox_feedback അഭിപ്രായം അറിയിയ്ക്കുക
+
 
 #unfilter emptyLines

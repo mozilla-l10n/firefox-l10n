@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "അഭിപ്രായം രേഖപ്പെടുത്തുക…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; പര്യടനം">
+<!ENTITY helpShowTour.accesskey         "പ">
 
 <!ENTITY preferencesCmdMac.label        "മുന്‍ഗണനകള്‍...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

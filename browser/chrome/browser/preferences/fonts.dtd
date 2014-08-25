@@ -26,11 +26,11 @@
 
 <!ENTITY  font.langGroup.latin1                   "വെസ്റ്റേണ്‍ ">
 <!ENTITY  font.langGroup.latin2                   "സെന്ററല്‍ യൂറോപ്പിയന്‍ ">
-
+<!ENTITY  font.langGroup.japanese                 "ജാപ്പനീസ്‌">
 <!ENTITY  font.langGroup.trad-chinese             "സമ്പ്രദായ ചൈനീസ്‌ (തായ്‌വാന്‍)">
 <!ENTITY  font.langGroup.simpl-chinese            "ലളിതമായ ചൈനീസ്‌ ">
 <!ENTITY  font.langGroup.trad-chinese-hk          "സമ്പ്രദായ ചൈനീസ്‌ (ഹോങ് കോങ്)">
-
+<!ENTITY  font.langGroup.korean                   "കൊറിയന്‍ ">
 
 
 
@@ -74,24 +74,29 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "അറബിക്‌ ">
+<!ENTITY languages.customize.Fallback.baltic      "ബാള്‍ട്ടിക്ക്‌ ">
+<!ENTITY languages.customize.Fallback.ceiso       "മദ്ധ്യ യൂറോപ്പിയന്‍, ഐഎസ്ഒ">
+<!ENTITY languages.customize.Fallback.cewindows   "മദ്ധ്യ യൂറോപ്പിയന്‍, മൈക്രോസോഫ്ട്">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "ചൈനീസ്, ലളിതമായ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "ചൈനീസ്, പരമ്പരാഗത">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "സിറില്ലിക്ക്‌ ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "ഗ്രീക്ക്‌ ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "ഹീബ്രു ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "ജാപ്പനീസ്‌">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "കൊറിയന്‍ ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):

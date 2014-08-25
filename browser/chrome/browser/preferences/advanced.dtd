@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "സര്‍ട്ടിഫിക്കറ്റുകള്‍">
 <!ENTITY certSelection.description       "ഒരു സര്‍വര്‍ സര്‍ട്ടിഫിക്കേറ്റ് ആവശ്യപ്പെടുമ്പോള്‍:">
 <!ENTITY certs.auto                      "ഒന്നു് സ്വയം തെരഞ്ഞെടുക്കുക ">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ഒരോ തവണയും ചോദിക്കുക">
+<!ENTITY certs.ask.accesskey             "A">
 
 
-
-
-
-
-
+<!ENTITY viewCerts.label                 "സര്‍ട്ടിഫിക്കറ്റുകള്‍ കാണുക">
+<!ENTITY viewCerts.accesskey             "ക">
+<!ENTITY viewSecurityDevices.label       "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
+<!ENTITY viewSecurityDevices.accesskey   "ഉ">
