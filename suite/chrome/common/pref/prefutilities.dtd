@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY languages.customize.Fallback.auto        "Standaard voor huidige landinstelling">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+<!ENTITY FallbackCharset.auto         "Standaard voor huidige landinstelling">
+<!-- LOCALIZATION NOTE (FallbackCharset.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Arabisch">
-<!ENTITY languages.customize.Fallback.baltic      "Baltisch">
-<!ENTITY languages.customize.Fallback.ceiso       "Centraal-Europees, ISO">
-<!ENTITY languages.customize.Fallback.cewindows   "Centraal-Europees, Microsoft">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+<!ENTITY FallbackCharset.arabic       "Arabisch">
+<!ENTITY FallbackCharset.baltic       "Baltisch">
+<!ENTITY FallbackCharset.ceiso        "Centraal-Europees, ISO">
+<!ENTITY FallbackCharset.cewindows    "Centraal-Europees, Microsoft">
+<!-- LOCALIZATION NOTE (FallbackCharset.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Chinees, vereenvoudigd">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+<!ENTITY FallbackCharset.simplified   "Chinees, vereenvoudigd">
+<!-- LOCALIZATION NOTE (FallbackCharset.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Chinees, traditioneel">
-<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillisch">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+<!ENTITY FallbackCharset.traditional  "Chinees, traditioneel">
+<!ENTITY FallbackCharset.cyrillic     "Cyrillisch">
+<!-- LOCALIZATION NOTE (FallbackCharset.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Grieks">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+<!ENTITY FallbackCharset.greek        "Grieks">
+<!-- LOCALIZATION NOTE (FallbackCharset.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebreeuws">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+<!ENTITY FallbackCharset.hebrew       "Hebreeuws">
+<!-- LOCALIZATION NOTE (FallbackCharset.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japans">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+<!ENTITY FallbackCharset.japanese     "Japans">
+<!-- LOCALIZATION NOTE (FallbackCharset.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Koreaans">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+<!ENTITY FallbackCharset.korean       "Koreaans">
+<!-- LOCALIZATION NOTE (FallbackCharset.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "Thais">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+<!ENTITY FallbackCharset.thai         "Thais">
+<!-- LOCALIZATION NOTE (FallbackCharset.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Turks">
-<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+<!ENTITY FallbackCharset.turkish      "Turks">
+<!-- LOCALIZATION NOTE (FallbackCharset.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamees">
-<!ENTITY languages.customize.Fallback.other       "Anders (incl. West-Europees)">
+<!ENTITY FallbackCharset.vietnamese   "Vietnamees">
+<!ENTITY FallbackCharset.other        "Anders (incl. West-Europees)">
