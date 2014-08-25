@@ -47,7 +47,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY  undoCloseTab.label                 "ଟ୍ୟାବ ବନ୍ଦ କରିଥିବା ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY  closeTab.accesskey                 "C">
@@ -81,6 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "ପୃଷ୍ଠା ଉତ୍ସ">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "ପ୍ରୟୋଗ ପରିଚାଳକ">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ସହଭାଗ କରିବା ପାଇଁ କ୍ୟାମେରା:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "ସହଭାଗ କରିବା ପାଇଁ ୱିଣ୍ଡୋ ଅଥବା ପରଦା:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।">
 
 <!ENTITY webrtcIndicatorButton.label "କ୍ୟାମେରା / ମାଇକ୍ରୋଫନ ପ୍ରବେଶାନୁମତି">
 <!ENTITY webrtcIndicatorButton.tooltip "କ୍ୟାମେରା କିମ୍ବା ମାଇକ୍ରୋଫୋନରେ ଆପଣ ବର୍ତ୍ତମାନ ସହଭାଗ କରୁଥିବା ସାଇଟଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+
+<!ENTITY loopCallButton.tooltip "କହିବା ପାଇଁ କେହିଜଣଙ୍କୁ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ">
 
 <!ENTITY mixedContentBlocked.moreinfo "ଏହି ବିଷୟବସ୍ତୁକୁ ଅଟକାଇବା ସତ୍ତ୍ୱେ ଅଧିକାଂଶ ୱେବସାଇଟଗୁଡ଼ିକ ଏପର୍ଯ୍ୟନ୍ତ ଠିକ ଭାବରେ କାମ କରୁଅଛି।">
 
