@@ -723,7 +723,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
-<!ENTITY mixedContentBlocked.moreinfo "Väčšina stránok bude aj po zablokovaní tohto obsahu fungovať naďalej správne.">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "Väčšina stránok bude po zablokovaní obsahu fungovať naďalej správne.">
+
+<!ENTITY mixedContentBlocked2.message "Nezabezpečený obsah">
+<!ENTITY mixedContentBlocked2.moreinfo "Niektoré nezašifrované prvky tejto stránky boli zablokované.">
+<!ENTITY mixedContentBlocked2.learnMore "Ďalšie informácie">
+<!ENTITY mixedContentBlocked2.options "Možnosti">
+<!ENTITY mixedContentBlocked2.unblock.label "Nateraz vypnúť ochranu">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "N">
 
 <!ENTITY pointerLock.notification.message "Stlačením klávesu ESC ho opäť zobrazíte.">
 
