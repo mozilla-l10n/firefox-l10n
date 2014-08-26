@@ -83,11 +83,11 @@
 <!ENTITY options.disableJavaScript.label    "Slå JavaScript fra *">
 <!ENTITY options.disableJavaScript.tooltip   "Denne indstilling slår JavaScript fra i det aktuelle faneblad. Indstillingen vil blive glemt, når fanebladet eller Værktøj lukkes.">
 
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.label     "Slå cache fra *">
-<!ENTITY options.disableCache.tooltip   "Denne indstilling slår cache fra i det aktuelle faneblad. Indstillingen vil blive glemt, når fanebladet eller Værktøj lukkes.">
+<!ENTITY options.disableCache.label2     "Slå cache fra (når Værktøj er åben)">
+<!ENTITY options.disableCache.tooltip2   "Denne indstilling slår cache fra for alle faneblade, der har Værktøj åben.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
