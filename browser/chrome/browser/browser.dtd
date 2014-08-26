@@ -732,6 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Možnosti">
 <!ENTITY mixedContentBlocked2.unblock.label "Nateraz vypnúť ochranu">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "N">
+<!ENTITY mixedContentBlocked2.disabled.message "Ochrana je vypnutá">
 
 <!ENTITY pointerLock.notification.message "Stlačením klávesu ESC ho opäť zobrazíte.">
 
