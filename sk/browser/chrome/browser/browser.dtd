@@ -740,7 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu online, boli zablokované.">
 <!ENTITY trackingContentBlocked.learnMore "Ďalšie informácie">
 <!ENTITY trackingContentBlocked.options "Možnosti">
-<!ENTITY trackingContentBlocked.unblock.label "Vypnúť ochranu">
+<!ENTITY trackingContentBlocked.unblock.label2 "Vypnúť ochranu pre túto stránku">
 <!ENTITY trackingContentBlocked.block.label "Zapnúť ochranu">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrana pred sledovaním je vypnutá">
 
