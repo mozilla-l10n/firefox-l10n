@@ -93,7 +93,7 @@
 
 <!ENTITY proxyResolveFailure.title "找不到 Proxy 伺服器">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul>
-  <li>請檢查代理伺服器設定是否正確。</li>
+  <li>請檢查 Proxy 設定是否正確。</li>
   <li>請確定您的裝置有可用的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
