@@ -717,8 +717,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
     
 <!ENTITY getUserMedia.selectCamera.label "Zdieľať kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Zdieľať okno alebo obrazovku:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "b">
 <!ENTITY getUserMedia.selectMicrophone.label "Zdieľať mikrofón:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
