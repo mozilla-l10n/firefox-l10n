@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "Відгук про &brandShortName;">
 
 <!ENTITY intro.header              "Є хвилинка?">
-<!ENTITY intro.message             "Розкажіть, як вам наш &brandShortName; під Android.">
+<!ENTITY intro.message             "Розкажіть, як вам наш &brandShortName; для Android.">
 <!ENTITY intro.happyLink           "Я його люблю">
 <!ENTITY intro.sadLink             "Маю певні проблеми">
 <!ENTITY intro.maybeLater          "Може іншим разом">
@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "По додаткову інформацію ви можете відвідати ">
+<!ENTITY support.pre2              "Для додаткової інформації ви можете відвідати ">
 <!ENTITY support.link              "Сайт підтримки &brandShortName;">
 <!ENTITY support.post2             ".">
 
@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Хочете розповісти про свою любов давши нам п’ятизірковий рейтинг на Google Play?">
+<!ENTITY happy.message             "Хочете розповісти про свою любов давши нам п’ять зірок на Google Play?">
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "Ні, дякую">
 
 <!ENTITY sad.message               "Прикро чути, що ви маєте проблеми з &brandShortName;. Опишіть їх нам, щоб ми могли їх виправити.">
-<!ENTITY sad.placeholder           "Введіть ваш відгук сюди">
+<!ENTITY sad.placeholder           "Введіть свій відгук сюди">
 <!ENTITY sad.lastSite              "Останній відвіданий сайт (необов’язково)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -52,5 +52,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Або хай начуваються.">
 
-<!ENTITY feedback.privacy          "Задля вашої приватності, не включайте ніяких даних, ідентифікуючих особу, у ваш відгук.">
+<!ENTITY feedback.privacy          "Задля вашої приватності, не включайте ніяких ідентифікуючих даних у свій відгук.">
 <!ENTITY feedback.send             "Заслати відгук">

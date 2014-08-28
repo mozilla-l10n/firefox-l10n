@@ -10,12 +10,12 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
 <!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
 <!ENTITY aboutPage.checkForUpdates.available2   "Завантажити оновлення">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Завантаження оновлення…">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Завантажую оновлення…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Встановити оновлення">
 <!ENTITY aboutPage.faq.label                    "ЧаП">
 <!ENTITY aboutPage.support.label                "Підтримка">
 <!ENTITY aboutPage.privacyPolicy.label          "Політика приватності">
-<!ENTITY aboutPage.rights.label                 "Знайте ваші права">
+<!ENTITY aboutPage.rights.label                 "Знайте свої права">
 <!ENTITY aboutPage.relNotes.label               "Інформація про випуск">
 <!ENTITY aboutPage.credits.label                "Учасники проекту">
 <!ENTITY aboutPage.license.label                "Ліцензійна інформація">
