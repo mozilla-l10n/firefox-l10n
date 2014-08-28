@@ -24,18 +24,17 @@
 <!ENTITY  monospace.label                         "Largeur fixe :">
 <!ENTITY  monospace.accesskey                     "L">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Europe centrale">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Langues latines">
 <!ENTITY  font.langGroup.japanese                 "Japonais">
 <!ENTITY  font.langGroup.trad-chinese             "Chinois traditionnel (Taïwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinois simplifié">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinois traditionnel (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coréen">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillique">
-<!ENTITY  font.langGroup.baltic                   "Balte">
 <!ENTITY  font.langGroup.el                       "Grec">
-<!ENTITY  font.langGroup.turkish                  "Turc">
-<!ENTITY  font.langGroup.unicode                  "Autres langues">
+<!ENTITY  font.langGroup.other                    "Autres systèmes d'écriture">
 <!ENTITY  font.langGroup.thai                     "Thaï">
 <!ENTITY  font.langGroup.hebrew                   "Hébreu">
 <!ENTITY  font.langGroup.arabic                   "Arabe">
