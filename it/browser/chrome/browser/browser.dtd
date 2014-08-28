@@ -521,8 +521,6 @@
 <!ENTITY social.marklinkMenu.label "Salva link in…">
 <!ENTITY getUserMedia.selectCamera.label "Fotocamera da condividere:">
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Finestra o schermo da condividere:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "i">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
