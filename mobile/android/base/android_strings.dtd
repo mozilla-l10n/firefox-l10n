@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "북마크">
 <!ENTITY  history_title "방문 기록">
 <!ENTITY  reading_list_title "읽기 목록">
+<!ENTITY  recent_tabs_title "최근 탭">
 
 <!ENTITY  switch_to_tab "탭 전환">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "오늘">
 <!ENTITY history_yesterday_section "어제">
-<!ENTITY history_week_section "7일 이내">
-<!ENTITY history_older_section "7일 이전">
+<!ENTITY history_week_section2 "지난주">
+<!ENTITY history_older_section2 "지난달">
 
 <!ENTITY go "이동">
 <!ENTITY search "검색">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
 <!ENTITY pref_category_devtools "개발자 도구">
+<!ENTITY pref_developer_paint_flashing "그려진 자리 보이기">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
 <!ENTITY pref_remember_signons "암호 저장">
 
 <!ENTITY pref_category_home "홈">
 <!ENTITY pref_category_home_summary "홈페이지 커스터마이즈">
 <!ENTITY pref_category_home_panels "패널">
-<!ENTITY pref_home_add_panel "패널 추가">
 <!ENTITY home_add_panel_title "새 패널 추가">
 <!ENTITY home_add_panel_empty "죄송합니다, 추가 할 수 있는 패널을 찾을 수 없습니다.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
 <!ENTITY pref_char_encoding_off "메뉴 숨기기">
-<!ENTITY pref_clear_private_data "개인 정보 삭제">
+<!ENTITY pref_clear_private_data2 "지금 삭제">
+<!ENTITY pref_clear_private_data_category "개인 정보 삭제">
+<!ENTITY pref_clear_on_exit_title "종료 시 항상 삭제">
+<!ENTITY pref_clear_on_exit_summary "주 메뉴를 통해 &quot;종료&quot; 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
+<!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
 <!ENTITY pref_plugins "플러그인">
 <!ENTITY pref_plugins_enabled "사용하기">
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
@@ -257,6 +262,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY new_tab "새 탭">
 <!ENTITY new_private_tab "새 사생활 탭">
 <!ENTITY close_all_tabs "모든 탭 닫기">
+<!ENTITY close_private_tabs "사생활 탭 닫기">
 <!ENTITY tabs_normal "탭">
 <!ENTITY tabs_private "사생활">
 <!ENTITY tabs_synced "동기화">
@@ -279,7 +285,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
 <!ENTITY contextmenu_open_private_tab "사생활 탭 열기">
-<!ENTITY contextmenu_open_in_reader "읽기 모드로 열기">
 <!ENTITY contextmenu_remove "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
@@ -349,10 +354,10 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY home_clear_history_button "방문 기록 삭제">
 <!ENTITY home_clear_history_confirm "방문 기록을 삭제하시겠습니까?">
 <!ENTITY home_bookmarks_empty "저장한 북마크가 여기에 표시됩니다.">
+<!ENTITY home_closed_tabs_title "최근 닫힌 탭">
 <!ENTITY home_last_tabs_title "이전 종료 시 탭">
-<!ENTITY home_last_tabs_open "이전 종료 시 탭 모두 열기">
 <!ENTITY home_last_tabs_empty "이전 종료 시 방문한 탭이 여기에 표시됩니다.">
-<!ENTITY home_most_recent_title "최근 방문">
+<!ENTITY home_open_all "모두 열기">
 <!ENTITY home_most_recent_empty "가장 최근에 방문한 웹사이트가 여기에 표시됩니다.">
 <!ENTITY home_reading_list_empty "저장한 글이 여기에 표시됩니다.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -372,6 +377,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "&formatS;(으)로 이동">
 
+<!ENTITY private_browsing_title "사생활 보호 모드">
+<!ENTITY private_tabs_panel_empty_desc "여기에 사생활 탭이 나타납니다. 방문 이력, 쿠키, 북마크는 전혀 기록이 남지 않습니다. 단 직접 다운로드 받은 파일은 여러분의 기기에 저장됩니다.">
+<!ENTITY private_tabs_panel_learn_more "더 알고 싶은가요?">
 
 <!ENTITY pin_site_dialog_hint "검색어를 입력하세요">
 
