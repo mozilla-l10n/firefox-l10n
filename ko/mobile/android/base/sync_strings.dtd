@@ -111,6 +111,10 @@
 
 <!ENTITY fxaccount_full_label 'Firefox 계정'>
 
+<!ENTITY fxaccount_custom_server_account_title '서버에 계정 사용하기'>
+<!ENTITY fxaccount_custom_server_sync_title '서버에 동기화 데이터 저장하기'>
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +176,9 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
+<!ENTITY fxaccount_status_auth_server '계정 서버'>
 <!ENTITY fxaccount_status_device_name '기기명'>
+<!ENTITY fxaccount_status_sync_server '동기화 서버'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 활성화'>
 <!ENTITY fxaccount_status_needs_verification2 '인증되지 않은 계정입니다. 인증 메일을 재전송하려면 누르세요.'>
