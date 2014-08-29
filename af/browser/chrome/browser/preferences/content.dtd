@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Opspringvensters">
+
 <!ENTITY  blockPopups.label           "Blokkeer opspringers">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Uitsonderings…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
+<!ENTITY  fontsAndColors.label        "Fonte en kleure">
 
 <!ENTITY  defaultFont.label           "Verstekfont:">
 <!ENTITY  defaultFont.accesskey       "V">
@@ -25,6 +28,17 @@
 <!ENTITY chooseButton.label           "Kies…">
 <!ENTITY chooseButton.accesskey       "K">
 
-
+<!ENTITY translateWebPages.label      "Vertaal webinhoud">
+<!ENTITY translateWebPages.accesskey  "V">
 <!ENTITY translateExceptions.label    "Uitsonderings…">
 <!ENTITY translateExceptions.accesskey "i">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Vertalings deur">
+<!ENTITY translation.options.attribution.afterLogo "">
