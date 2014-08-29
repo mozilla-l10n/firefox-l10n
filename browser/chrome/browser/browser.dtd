@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; केहि बेरमा सिङ्क हुनेछ।">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label;मा जडान हुनसकेन">
 <!ENTITY syncErrorPanel.subTitle "सिङ्क सुचारु गर्न साइन इन गर्नुहोस्।">
-
-
+<!ENTITY syncErrorPanel.signInButton.label "Sign In">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "सानो गर्नुहोस्">
@@ -259,10 +259,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "डेभलोपर टुलबार बन्द गर्नुहोस्">
 <!ENTITY devToolbarMenu.label              "डेभलोपर टुलबार">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
-
-
+<!ENTITY devAppMgrMenu.label               "App प्रबन्धक">
+<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टोगल उपकरण">
@@ -348,8 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारमा थप्नुहोस्">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-
-
+<!ENTITY customizeMenu.addToPanel.label "Menuमा थप्नुहोस्">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "टुलबारमा थप्नुहोस्">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -359,12 +359,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "मेनुमा थप्नुहोस्">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
-
-
+<!ENTITY customizeMenu.removeFromToolbar.label "उपकरणपट्टीबाट हटाउनुहोस्">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "मेनुबाट हटाउनुहाेस्">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "अरु वस्तुहरु थप्नुहाेस् ...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "खोज्नुहोस वा स्थान प्रविष्ट गर्नुहोस">
@@ -469,8 +469,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "भिडियो इमेल गर्नुहोस्…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY emailAudioCmd.label          "ईमेल अडियो...">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "यस प्लगिनलाई सक्षम पार्नुहोस्">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "यस प्लगिनलाई लुकाउनुहोस्">
@@ -688,7 +688,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.tabTitle "&brandShortName; अनुकुलित गर्नुहोस्">
 <!ENTITY customizeMode.menuAndToolbars.header2 "थप उपकरण र विशेषताहरु">
 <!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरु चाहिन्छ?">
-
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौं एड-अनहरू बाट चयन गर्नुहोस्">
 
 <!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् वा लुकाउनुहोस्">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
@@ -708,11 +708,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectMicrophone.label "माइक्रोफोनलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "तपाईंको स्क्रीन मा सबै देखिने सञ्झ्यालहरु साझेदारी गरिनेछ।">
 
 <!ENTITY webrtcIndicatorButton.label "क्यामेरा/माइक्रोफोनको पहुँच">
 <!ENTITY webrtcIndicatorButton.tooltip "तपाईले अहिले अाफ्नो माइक्रोफोन र क्यामेरा बाँडिराख्नुभएको साइटहरु देखाउनुहोस्">
 
+<!ENTITY loopCallButton.tooltip "कसैलाई कुरा गर्न आमन्त्रण गर्नुहोस्">
 
 <!ENTITY mixedContentBlocked.moreinfo "यस सामग्रीलाई अवरोध गरेपनि धेरै वेबसाइटहरु अझै पनि राम्रोसँग नै चल्नेछ।">
 

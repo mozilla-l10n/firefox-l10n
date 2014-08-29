@@ -2,22 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
 
+<!ENTITY aboutTelemetry.telemetryEnabled "  टेलीमेटरी <span> सक्षम पारिएको </ span> छ।">
 
+<!ENTITY aboutTelemetry.telemetryDisabled "  टेलीमेटरी <span> अक्षम पारिएको </ span> छ।">
 
+<!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरु">
 
+<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर ह्याङ्ग हुन्छ">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड ह्याङ्ग हुन्छ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरु">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरु">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  एड-अन विवरणहरू">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
 
+<!ENTITY aboutTelemetry.systemInfoSection "  प्रणाली जानकारी">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  एड-अनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
+
+<!ENTITY aboutTelemetry.toggle "  टगल सेक्सनमा क्लिक गर्नुहोस्">
+
+<!ENTITY aboutTelemetry.emptySection "  (कुनै पनि डाटा संकलित भएको छैन)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ढिलो SQL त्रुटि सच्याउन सक्षम पारिएको छ। पूर्ण SQL स्ट्रिङहरू तल प्रदर्शित हुन सक्छ तर तिनीहरू टेलीमेटरीमा पेश गरिने छैन।">
 
 
 
-
-
-
-
+<!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">

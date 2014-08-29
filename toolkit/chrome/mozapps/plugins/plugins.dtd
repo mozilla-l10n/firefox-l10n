@@ -29,8 +29,8 @@
 <!ENTITY checkForUpdates                                     "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
 <!ENTITY disabledPlugin                                      "यो प्लगइन अक्षम भएको छ।">
 
-
-
+<!ENTITY hidePluginBtn.label                                 "प्लगइन लुकाउनुहोस्">
+<!ENTITY installPlugin                                       "स्थापित प्लगइन...">
 <!ENTITY managePlugins                                       "प्लगिनहरु संम्हाल्नुहोस्...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -38,7 +38,7 @@
 
 <!ENTITY reloadPlugin.pre                                    "">
 
-
+<!ENTITY reloadPlugin.post                                   "  पुन: प्रयास गर्नका लागि।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 
 
