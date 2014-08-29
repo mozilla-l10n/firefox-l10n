@@ -13,13 +13,15 @@
   for the last two that are marked as being specific to Desktop browsers.
 -->
 
+<!ENTITY engine.bookmarks.label           "ಪುಟಗುರುತುಗಳು">
+<!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ಇತಿಹಾಸ">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "ಹಾಳೆಗಳು">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "ಗುಪ್ತಪದಗಳು">
 <!ENTITY engine.passwords.accesskey       "P">
-
-
-
-
+<!ENTITY engine.addons.label              "ಗಣಕತೆರೆ ಆಡ್-ಆನ್‌ಗಳು">
+<!ENTITY engine.addons.accesskey          "A">
+<!ENTITY engine.prefs.label               "ಗಣಕತೆರೆ ಆದ್ಯತೆಗಳು">
+<!ENTITY engine.prefs.accesskey           "s">
