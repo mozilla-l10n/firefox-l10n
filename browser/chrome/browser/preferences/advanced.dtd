@@ -129,8 +129,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ഒരോ തവണയും ചോദിക്കുക">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "സമ്മതപത്രങ്ങളുടെ നിലവിലുള്ള സാധുത ഉറപ്പാക്കുന്നതിന് ഒസിഎസ്‌പി റസ്പോണ്ടര്‍ സര്‍വറുകള്‍ ചോദ്യം ചെയ്യുക">
+<!ENTITY enableOCSP.accesskey            "ക">
 <!ENTITY viewCerts.label                 "സര്‍ട്ടിഫിക്കറ്റുകള്‍ കാണുക">
 <!ENTITY viewCerts.accesskey             "ക">
 <!ENTITY viewSecurityDevices.label       "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">

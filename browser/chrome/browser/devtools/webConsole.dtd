@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "സിഎസ്എസ്">
-
+<!ENTITY btnPageCSS.tooltip2 "സിഎസ്എസ് പിശകുകളും മുന്നറിയിപ്പുകളും ലോഗ് ചെയ്യുക">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "ജാവാസ്ക്രിപ്റ്റ് എക്സെപ്ഷനുകള്‍ സൂക്ഷിയ്ക്കുക">
@@ -73,7 +73,7 @@
 <!ENTITY btnConsoleInfo         "വിവരം">
 <!ENTITY btnConsoleWarnings     "മുന്നറിയിപ്പുകള്‍">
 <!ENTITY btnConsoleLog          "ലോഗ്">
-
+<!ENTITY btnConsoleReflows      "റീഫ്ലോ">
 
 <!ENTITY filterOutput.placeholder "ഔട്ട്പുട്ട് ഫില്‍റ്റര്‍ ചെയ്യുക">
 <!ENTITY btnClear.label        "rവെടിപ്പാക്കുക">
