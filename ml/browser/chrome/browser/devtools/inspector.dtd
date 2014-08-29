@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "HTML ആയി ചിട്ടപ്പെടുത്തുക">
+<!ENTITY inspectorHTMLEdit.accesskey   "ക">
 
 <!ENTITY inspectorHTMLCopyInner.label       "അകത്തുള്ള എച്‌ടിഎംഎല്‍ പകര്‍ത്തുക">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "അ">

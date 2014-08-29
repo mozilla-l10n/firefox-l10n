@@ -53,7 +53,8 @@
 <!ENTITY viewMenu.label               "കാണുക ">
 <!ENTITY viewMenu.accesskey           "V">
 
-
+<!ENTITY lineNumbers.label             "വരി എണ്ണം കാണിയ്യുക">
+<!ENTITY lineNumbers.accesskey         "വ">
 
 
 

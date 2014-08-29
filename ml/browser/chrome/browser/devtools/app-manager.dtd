@@ -95,9 +95,9 @@
 <!ENTITY help.title "പ്രയോഗത്തിനുള്ള മാനേജര്‍">
 <!ENTITY help.close "അടയ്ക്കുക">
 
-
-
-
-
-
-
+<!ENTITY help.usefullLinks "ഉപയോഗപ്രദമായ കണ്ണികള്‍:">
+<!ENTITY help.appMgrDoc "വിവരണക്കുറിപ്പ്: ആപ്പ് മാനേജര്‍ ഉപയോഗിയ്ക്കുന്നു">
+<!ENTITY help.configuringDevice "ഫയര്‍ഫോക്സ് ഒഎസ് ഡിവൈസ് എങ്ങനെ സജ്ജമാക്കാം">
+<!ENTITY help.troubleShooting "ട്രബിള്‍ഷൂട്ടിങ്">
+<!ENTITY help.simulatorAddon "സിമുലേറ്റര്‍ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+<!ENTITY help.adbHelperAddon "Adb സഹായി ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
