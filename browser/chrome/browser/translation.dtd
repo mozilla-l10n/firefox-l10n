@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "Daar was 'n fout tydens vertaling van dié bladsy.">
 <!ENTITY translation.tryAgain.button            "Probeer weer">
 
+<!ENTITY translation.serviceUnavailable.label   "Vertaling is nie tans beskikbaar nie. Probeer gerus weer later.">
 
 <!ENTITY translation.options.menu               "Opsies">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -51,6 +52,15 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "Moet nooit dié werf vertaal nie.">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Vertaalvoorkeure">
+<!ENTITY translation.options.preferences.accesskey "t">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
 
-
-
+<!ENTITY translation.options.attribution.beforeLogo "Vertalings deur">
+<!ENTITY translation.options.attribution.afterLogo "">

@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Geskiedenis">
 <!ENTITY dataSection.label            "Data">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Blaai- en aflaaigeskiedenis">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.label       "Vorm- en soekgeskiedenis">
+<!ENTITY itemFormSearchHistory.accesskey   "V">
 <!ENTITY itemPasswords.label               "Wagwoorde gestoor">
 <!ENTITY itemPasswords.accesskey           "W">
 <!ENTITY itemCookies.label                 "Koekies">

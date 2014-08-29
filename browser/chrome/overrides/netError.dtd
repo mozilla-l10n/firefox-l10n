@@ -106,7 +106,10 @@ geïnstalleer is.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Kon nie beveilig koppel nie">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat die egtheid van die ontvangde data nie geverifieer kon word nie.</li> 
+<li>Kontak die webwerf se eienaars om hulle oor die probleem in te lig.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Kon nie beveilig koppel nie">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

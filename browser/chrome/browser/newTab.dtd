@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Ontdoen">
 <!ENTITY newtab.undo.restoreButton "Herstel almal.">
 <!ENTITY newtab.undo.closeTooltip "Verskuil">
-
-
+<!ENTITY newtab.sponsored.release.message "Hierdie borg se werf is voorgestel omdat ons dink u sal dit interessant vind en omdat hulle die Mozilla-missie ondersteun.">
+<!ENTITY newtab.sponsored.trial.message2 "Hierdie werf is voorgestel omdat ons dink u sal dit interessant vind en omdat hulle die Mozilla-missie ondersteun. ">
 <!ENTITY newtab.panel.link.text "Meer inligting…">
