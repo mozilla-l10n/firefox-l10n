@@ -32,7 +32,7 @@
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY alwaysCheckDefault.label        "Siempre verificar si &brandShortName; es el navegador predeterminado al iniciar">
-<!ENTITY alwaysCheckDefault.accesskey    "g">
+<!ENTITY alwaysCheckDefault2.accesskey    "g">
 <!ENTITY setAsMyDefaultBrowser.label                "Establecer &brandShortName; como navegador predeterminado">
 <!ENTITY setAsMyDefaultBrowser.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; es actualmente su navegador predeterminado">
