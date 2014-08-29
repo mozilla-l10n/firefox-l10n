@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Validacion de certificat">
-<!ENTITY enableOCSP.label             "Utilizar lo protocòl d'estatut de certificat en linha (OCSP) per confirmar la validitat actuala de vòstres certificats">
-<!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY requireOCSP.label            "Quand la connexion a un servidor OCSP fracassa, considerar lo certificat coma invalid">
-<!ENTITY requireOCSP.accesskey        "Q">

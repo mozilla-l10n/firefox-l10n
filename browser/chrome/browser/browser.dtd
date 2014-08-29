@@ -21,7 +21,7 @@
 
 <!ENTITY  reloadTab.label                    "Tornar cargar l'onglet">
 <!ENTITY  reloadTab.accesskey                "r">
-<!ENTITY  reloadAllTabs.label                "Actualizar l'onglet">
+<!ENTITY  reloadAllTabs.label                "Actualizar totes los onglets">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Dobrir una &amp;adreça...">
 <!ENTITY openFileCmd.label "Dobrir un fichièr...">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -77,6 +81,13 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Barra de personala">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra personala">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Actualizar totes los onglets">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar totes los onglets…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "M">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Anullar la tampadura de l'onglet">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
 <!ENTITY pageSourceCmd.label "Còde font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "C">
@@ -149,18 +160,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
 <!ENTITY backCmd.label                "Pagina precedenta">
-<!ENTITY backCmd.accesskey            "d">
 <!ENTITY backButton.tooltip           "Recuolar d'una pagina">
-<!ENTITY forwardCmd.label             "Recuolar d'una pagina">
-<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardCmd.label             "Pagina seguenta">
 <!ENTITY forwardButton.tooltip        "Avançar d'una pagina">
 <!ENTITY backForwardButtonMenu.tooltip "Far un clic drech o clicar en desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY backForwardButtonMenuMac.tooltip "Clicar en tot desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY reloadCmd.label              "Actualizar">
-<!ENTITY reloadCmd.accesskey          "c">
 <!ENTITY reloadButton.tooltip         "Actualizar la pagina correnta">
 <!ENTITY stopCmd.label                "Arrestar">
-<!ENTITY stopCmd.accesskey            "r">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Arrestar lo cargament de la pagina">
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
@@ -199,7 +206,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Telecargaments">
-<!ENTITY downloads.tooltip            "Afichar la progression dels telecargaments en cors">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -260,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "Gestionari d'aplicacions">
 <!ENTITY devAppMgrMenu.accesskey           "G">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "VK_F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
@@ -440,7 +448,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Causir l'imatge coma fons d'ecran">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar aquesta pagina">
-<!ENTITY bookmarkPageCmd2.accesskey   "M">
 <!ENTITY bookmarkThisLinkCmd.label      "Marcapagina sus aqueste ligam">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
@@ -564,11 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Onglet novèl">
-<!ENTITY newWindowButton.tooltip        "Fenèstra novèla">
 <!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
-
-<!ENTITY fullScreenButton.tooltip       "Tampar lo panèl lateral">
 
 <!ENTITY quitApplicationCmdWin.label       "Quitar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "Q">
@@ -707,11 +710,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "Accès webcam/microfòn">
 <!ENTITY webrtcIndicatorButton.tooltip "Afichar los sites amb los quals partejatz actualament vòstre webcam o vòstre microfòn">
+
 
 <!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">
 

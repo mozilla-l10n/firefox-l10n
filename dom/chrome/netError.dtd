@@ -75,7 +75,7 @@ lo Web.</li>
 <!ENTITY unknownSocketType.longDesc "<p>Lo site a respondut a la requèsta de la ret d'una faiçon inesperada e lo navigador pòt pas contunhar.</p>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
-<!ENTITY nssFailure2.longDesc "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul>

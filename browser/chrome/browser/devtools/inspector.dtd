@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Copiar lo selector unic">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "r">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Suprimir lo nosèl">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
