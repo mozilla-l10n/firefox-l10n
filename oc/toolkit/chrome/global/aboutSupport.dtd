@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
 
+
 <!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -68,6 +69,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.userJSTitle "preféréncias de user.js">
 <!ENTITY aboutSupport.userJSDescription "Vòtre dorsièr de perfil possedís un <a id='prefs-user-js-link'>fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedPrefsName "Nom">
+<!ENTITY aboutSupport.lockedPrefsValue "Valor">
 
 <!ENTITY aboutSupport.graphicsTitle "Acceleracion grafica">
 

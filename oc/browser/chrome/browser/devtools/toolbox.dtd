@@ -17,6 +17,7 @@
 <!ENTITY toolboxZoomIn.key2            "="> 
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -25,6 +26,10 @@
   -  the heading of the Inspector group in the options panel. -->
 
 <!ENTITY options.context.inspector "Inspector">
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -75,12 +80,10 @@
 
 <!ENTITY options.disableJavaScript.label     "Activar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Activar aquesta opcion desactivarà JavaScript per l'onglet corrent. Aqueste paramètre serà doblidat a la tampadura de l'onglet o de la bóstia d'aisinas.">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Desactivar l'escondedor *">
-<!ENTITY options.disableCache.tooltip   "Activar aquesta opcion desactivarà l'escondedor per l'onglet corrent. Aqueste paramètre serà doblidat a la tampadura de l'onglet o de la bóstia d'aisinas. ">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -143,13 +146,13 @@
       Monitor -->
 
 <!ENTITY options.commonPrefs.label           "Preferéncias generalas">
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogging.label    "Activar los jornals persistents">
-<!ENTITY options.enablePersistentLogging.tooltip  "Se activatz aquesta opcion, la consòla web voidarà pas las sortidas a cada còp que cambiatz de pagina">
+<!ENTITY options.enablePersistentLogs.label    "Activar los jornals persistents">
+<!ENTITY options.enablePersistentLogs.tooltip  "Se activatz aquesta opcion, la consòla web voidarà pas las sortidas a cada còp que cambiatz de pagina">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -157,3 +160,19 @@
 
 <!ENTITY options.showPlatformData.label    "Afichar las donadas de la plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn los simbòls de la plataforma Gecko">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+<!ENTITY options.sourceeditor.label                     "Preferéncias de l'editor">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "Per defaut">

@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certSelection.description       "Quand un servidor demanda mon certificat personal :">
 <!ENTITY certs.auto                      "ne seleccionar un automaticament">
-<!ENTITY certs.auto.accesskey            "c">
+
 <!ENTITY certs.ask                       "Me demandar a cada còp">
-<!ENTITY certs.ask.accesskey             "M">
+
+
+
 <!ENTITY viewCerts.label                 "Afichar los certificats">
-<!ENTITY viewCerts.accesskey             "A">
-<!ENTITY verify2.label                   "Validacion">
-<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "g">
