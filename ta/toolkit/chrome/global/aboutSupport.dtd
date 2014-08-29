@@ -65,15 +65,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "மாற்றியமைக்கப்பட்ட முக்கியமான முன்னுரிமைகள்">
 <!ENTITY aboutSupport.modifiedPrefsName "பெயர்">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "மதிப்பு">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js முன்னுரிமைகள்">
 <!ENTITY aboutSupport.userJSDescription "உங்கள் சுயவிவரக் கோப்புறையில் <a id='prefs-user-js-link'>user.js file</a> உள்ளது, அதில் &brandShortName; உருவாக்காத முன்னுரிமைகளும் உள்ளன.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "பூட்டிய முக்கிய முன்னுரிமைகள்">
-
-
+<!ENTITY aboutSupport.lockedPrefsName "பெயர்">
+<!ENTITY aboutSupport.lockedPrefsValue "மதிப்பு">
 
 <!ENTITY aboutSupport.graphicsTitle "வரைகலை">
 
