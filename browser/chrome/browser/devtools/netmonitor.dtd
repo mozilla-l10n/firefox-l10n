@@ -17,8 +17,10 @@
 <!ENTITY netmonitorUI.perfNotice2         "பொத்தானை சொடுக்கவும்.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "மீளேற்று">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• கோரிக்கையை மேற்கொள்ளவும் அல்லது">
+<!ENTITY netmonitorUI.reloadNotice2       "பக்கத்தை மீளேற்றவும்">
+<!ENTITY netmonitorUI.reloadNotice3       "இதனால் பிணைய செயல்பாடு பற்றிய விரிவான தகவலைப் பார்க்கலாம்.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
