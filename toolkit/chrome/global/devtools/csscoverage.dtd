@@ -29,13 +29,19 @@
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
 
-
+<!ENTITY csscoverage.optimize.body1 "ಕೆಲವೊಮ್ಮೆ ಸ್ಥಳಾಂತರಿಸುವ ಮೂಲಕ ನೀವು ಲೋಡ್ ಮಾಡುವುದನ್ನು ವೇಗವಾಗಿಸಬಹುದು">
+<!ENTITY csscoverage.optimize.body2 "ಪುಟದ ಕೆಳಭಾಗಕ್ಕೆ ಟ್ಯಾಗ್‌ಗಳು ಮತ್ತು ಒಂದು ಹೊಸ ಇನ್‌ಲೈನ್ ಅನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY csscoverage.optimize.body3 "'load' ಘಟನೆಯು ಮೇಲ್ಭಾಗಕ್ಕೆ ಹೋಗುವ ಮೊದಲು ಅಗತ್ಯವಿರುವ ಶೈಲಿಗಳನ್ನು ಹೊಂದಿರುವ ಘಟಕ. ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಶೈಲಿ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "ಎಲ್ಲಾ ನಿಯಮಗಳು ಸಾಲಿನ ಒಳಕ್ಕಿವೆ.">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
 
-
-
+<!ENTITY csscoverage.footer1 "ನೋಡಿ">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "CSS ಕವರೇಜ್ ಉಪಕರಣದಲ್ಲಿ MDN ಲೇಖನ">
+<!ENTITY csscoverage.footer4 "ಈ ವರದಿಯ ಉತ್ಪಾದಿಸುವಲ್ಲಿನ ಅಡ್ಡಿಗಳಿಗಾಗಿ.">

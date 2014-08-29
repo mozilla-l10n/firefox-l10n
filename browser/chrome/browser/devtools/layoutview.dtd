@@ -14,5 +14,10 @@
   -  the corresponding box is hovered. -->
 
 
+
+
+<!ENTITY title                  "ಬಾಕ್ಸ್ ಮಾದರಿ">
+<!ENTITY margin.tooltip         "ಅಂಚು">
+<!ENTITY border.tooltip         "ಮೇರೆಗಳು">
 <!ENTITY padding.tooltip        "ಪ್ಯಾಡಿಂಗ್">
 <!ENTITY content.tooltip        "ವಿಷಯ">

@@ -26,19 +26,19 @@
 
 <!ENTITY  font.langGroup.latin1                   "ವೆಸ್ಟರ್ನ್">
 <!ENTITY  font.langGroup.latin2                   "ಸೆಂಟ್ರಲ್‍ ಯೂರೋಪಿಯನ್‍">
-
+<!ENTITY  font.langGroup.japanese                 "ಜಾಪನೀಸ್‍">
 <!ENTITY  font.langGroup.trad-chinese             "ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್ (ತೈವಾನ್‍)">
 <!ENTITY  font.langGroup.simpl-chinese            "ಸರಳೀಕೃತ ಚೈನೀಸ್‍">
 <!ENTITY  font.langGroup.trad-chinese-hk          "ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್‍ (ಹಾಂಗ್‍ ಕಾಂಗ್‍)">
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "ಕೊರಿಯನ್">
+<!ENTITY  font.langGroup.cyrillic                 "ಸಿರಿಲಿಕ್">
+<!ENTITY  font.langGroup.baltic                   "ಬಾಲ್ಟಿಕ್">
+<!ENTITY  font.langGroup.el                       "ಗ್ರೀಕ್">
+<!ENTITY  font.langGroup.turkish                  "ಟರ್ಕಿಶ್">
 <!ENTITY  font.langGroup.unicode                  "ಇತರೆ ಭಾಷೆಗಳು">
-
-
-
+<!ENTITY  font.langGroup.thai                     "ಥಾಯ್‍">
+<!ENTITY  font.langGroup.hebrew                   "ಹೀಬ್ರೂ">
+<!ENTITY  font.langGroup.arabic                   "ಅರೇಬಿಕ್‍">
 <!ENTITY  font.langGroup.devanagari               "ದೇವನಾಗರಿ">
 <!ENTITY  font.langGroup.tamil                    "ತಮಿಳು">
 <!ENTITY  font.langGroup.armenian                 "ಅರ್ಮೇನಿಯಾ">
@@ -72,31 +72,39 @@
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "ತಮ್ಮಲ್ಲಿರುವ ಎನ್ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಘೋಷಿಸದೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ (ಕಂಟೆಂಟ್‌) ಈ ಕ್ಯಾರೆಕ್ಟರ್ ಎನ್ಕೋಡಿಂಗ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.">
 
+<!ENTITY languages.customize.Fallback.auto        "ಪ್ರಸಕ್ತ ಲೊಕ್ಯಾಲ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
+<!ENTITY languages.customize.Fallback.arabic      "ಅರೇಬಿಕ್‍">
+<!ENTITY languages.customize.Fallback.baltic      "ಬಾಲ್ಟಿಕ್">
 <!ENTITY languages.customize.Fallback.ceiso       "ಸೆಂಟ್ರಲ್‍ ಯೂರೋಪಿಯನ್‍, ISO">
-
+<!ENTITY languages.customize.Fallback.cewindows   "ಸೆಂಟ್ರಲ್ ಯುರೋಪಿಯನ್, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "ಚೈನೀಸ್, ಸಿಂಪ್ಲಿಫೈಡ್">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "ಸಿರಿಲಿಕ್">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "ಗ್ರೀಕ್">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "ಹೀಬ್ರೂ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "ಜಾಪನೀಸ್‍">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "ಕೊರಿಯನ್">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "ಥಾಯ್‍">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "ಟರ್ಕಿಶ್">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ವಿಯೆಟ್ನಾಮೀಸ್">
-
+<!ENTITY languages.customize.Fallback.other       "ಇತರೆ (ವೆಸ್ಟರ್ನ್ ಯುರೋಪಿಯನ್‌ ಸೇರಿದಂತೆ)">

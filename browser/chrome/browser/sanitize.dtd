@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "ಇತಿಹಾಸ">
 <!ENTITY dataSection.label            "ಮಾಹಿತಿ">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "ಜಾಲವೀಕ್ಷಣೆ ಹಾಗು ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.label       "ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "ಕುಕಿಗಳು">

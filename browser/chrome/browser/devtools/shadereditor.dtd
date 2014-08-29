@@ -10,13 +10,23 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (shaderEditorUI.vertexShader): This is the label for
   -  the pane that displays a vertex shader's source. -->
+
+
+
+<!ENTITY shaderEditorUI.vertexShader    "ವರ್ಟೆಕ್ಸ್ ಶೇಡರ್‌">
 <!-- LOCALIZATION NOTE (shaderEditorUI.fragmentShader): This is the label for
   -  the pane that displays a fragment shader's source. -->
+
+<!ENTITY shaderEditorUI.fragmentShader  "ಫ್ರಾಗ್ಮೆಂಟ್‌ ಶೇಡರ್‌">
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice1): This is the label shown
   -  on the button that triggers a page refresh. -->
 
 <!ENTITY shaderEditorUI.reloadNotice1   "ಮತ್ತೊಮ್ಮೆ ತುಂಬಿಸು">
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY shaderEditorUI.reloadNotice2   "GLSL ಸಂಕೇತವನ್ನು ಸಂಪಾದಿಸಲು ಸಾಧ್ಯವಾಗಿಸುವ ಪುಟ.">
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
+
+<!ENTITY shaderEditorUI.emptyNotice     "WebGL ಸನ್ನಿವೇಶವು ರಚಿಸಲ್ಪಡುವಂತೆ ಕಾಯಲಾಗುತ್ತಿದೆ...">

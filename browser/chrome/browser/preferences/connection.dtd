@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "ದೂರಸ್ಥ DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "ಸಂಪರ್ಕ ಸಾಧನ:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "ಉದಾಹರಣೆ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ಎಲ್ಲಾ ಪ್ರೋಟೊಕಾಲ್‍ಗಳಿಗೆ  ಈ ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಬಳಸು">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
-
+<!ENTITY  autologinproxy.label          "ಗುಪ್ತಪದವನ್ನು ಉಳಿಸಲಾಗಿದ್ದರೆ ದೃಢೀಕರಣಕ್ಕಾಗಿ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಬೇಡ">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "ಈ ಆಯ್ಕೆಯು ನೀವು ಪ್ರಾಕ್ಸಿಗಳಿಗಾಗಿ ಗುರುತುಗಳನ್ನು ಉಳಿಸಿಟ್ಟುಕೊಂಡಾಗ ಯಾರಿಗೂ ತಿಳಿಯದಂತೆ ಅವುಗಳಿಗೆ ನಿಮ್ಮನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ. ದೃಢೀಕರಣವು ವಿಫಲಗೊಂಡಲ್ಲಿ ನಿಮಗೆ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಲಾಗುತ್ತದೆ.">
