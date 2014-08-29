@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashes.title              "क्र्यास प्रतिवेदनहरु पेश गरियो">
-
+<!ENTITY id.heading                 "प्रतिवेदन आईडी">
 
 <!ENTITY noReports.label            "कुनै पनि क्र्यास प्रतिवेदनहरु पेश गारिएको छैन।">
 

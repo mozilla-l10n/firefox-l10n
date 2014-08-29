@@ -13,19 +13,19 @@
 
 
 
-
-
-
+<!ENTITY aboutNetworking.port                  "पोर्ट">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "सक्रिय पार्नुहोस्">
 <!ENTITY aboutNetworking.idle                  "निष्प्रयोजन">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.host                  "SSL">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "पठाइयो">
+<!ENTITY aboutNetworking.received              "प्राप्त भयो">
+<!ENTITY aboutNetworking.family                "परिवार">
+<!ENTITY aboutNetworking.addresses             "ठेगानाहरू">
+<!ENTITY aboutNetworking.expires               "समाप्त हुन्छ(सेकेन्ड)">
+<!ENTITY aboutNetworking.messagesSent          "सन्देशहरु पठाइयो">
 <!ENTITY aboutNetworking.messagesReceived      "सन्देश प्राप्त भयो">
-
-
+<!ENTITY aboutNetworking.bytesSent             "बाइट्स पठाइयो">
+<!ENTITY aboutNetworking.bytesReceived         "बाइट्स प्राप्त भयो">

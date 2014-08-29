@@ -1,15 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "समस्या समाधानको सूचना">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're 
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरु">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-
+<!ENTITY aboutSupport.crashes.id "प्रतिवेदन आईडी">
+<!ENTITY aboutSupport.crashes.sendDate "पेश गरियो">
 <!ENTITY aboutSupport.crashes.allReports "सबै क्र्यास प्रतिवेदनहरु">
 
 
@@ -47,6 +51,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोगकर्ता-प्रतिनिधि">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
 <!ENTITY aboutSupport.showDir.label "डाइरेक्टरी खोल्नुहोस्">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -59,20 +64,26 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण परिमार्जित प्राथमिकताहरु">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "मान">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!ENTITY aboutSupport.userJSTitle "user.js प्राथमिकताहरू">
 
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वपूर्ण ताल्चा लगाइएका प्राथमिकताहरू">
+<!ENTITY aboutSupport.lockedPrefsName "नाम">
+<!ENTITY aboutSupport.lockedPrefsValue "मान">
 
+<!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
 
-
-
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "बढोत्तरी जीसी">
 
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
 
+<!ENTITY aboutSupport.a11yForceDisabled "पहुँचता सुरक्षित पार्नुहोस्">
 
-
+<!ENTITY aboutSupport.libraryVersionsTitle "लाईब्रेरी संस्करणहरू">
 
 <!ENTITY aboutSupport.updateHistoryTitle "अद्यावधिक इतिहास">
 
