@@ -7,6 +7,8 @@
 <!ENTITY newtab.customize.enhanced "Расширенная">
 <!ENTITY newtab.customize.classic "Классическая">
 <!ENTITY newtab.customize.blank "Пустая">
+<!ENTITY newtab.customize.what "What is this page?">
+<!ENTITY newtab.intro.header "What is this page?">
 <!ENTITY newtab.undo.removedLabel "Миниатюрка удалена.">
 <!ENTITY newtab.undo.undoButton "Отменить.">
 <!ENTITY newtab.undo.restoreButton "Восстановить все.">

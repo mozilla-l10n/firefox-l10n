@@ -7,16 +7,18 @@
 <!ENTITY loadError.label "Проблема при загрузке страницы">
 <!ENTITY retry.label "Попробовать снова">
 <!ENTITY connectionFailure.title "Попытка соединения не удалась">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 <!ENTITY deniedPortAccess.title "Обращение к данному адресу заблокировано">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Сервер не найден">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
-   <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
-      <strong>ww</strong>.example.com вместо
-      <strong>www</strong>.example.com</li>
-   <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>
+    <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
+       <strong>ww</strong>.example.com вместо
+       <strong>www</strong>.example.com</li>
+    <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.
+      <button id='wifi'>Включить Wi-Fi</button>
+    </li>
 </ul>">
 <!ENTITY fileNotFound.title "Файл не найден">
 <!ENTITY fileNotFound.longDesc "
@@ -36,14 +38,16 @@
 </ul>
 ">
 <!ENTITY netInterrupt.title "Соединение было прервано">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 <!ENTITY notCached.title "Документ просрочен">
 <!ENTITY notCached.longDesc "<p>Запрошенный документ не доступен в кэше &brandShortName;.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
 <!ENTITY netOffline.title "Автономный режим">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-   <li>Попробуйте снова. &brandShortName; попытается открыть соединение и перезагрузить страницу.</li>
-</ul> ">
+  <li>Попробуйте снова. &brandShortName; попытается открыть соединение и перезагрузить страницу.
+    <button id='wifi'>Включить Wi-Fi</button>
+  </li>
+</ul>">
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 
@@ -57,9 +61,9 @@
 </ul>
 ">
 <!ENTITY netReset.title "Соединение было сброшено">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 <!ENTITY netTimeout.title "Время ожидания соединения истекло">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 <!ENTITY unknownProtocolFound.title "Неизвестный тип адреса">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -74,10 +78,13 @@
 </ul>
 ">
 <!ENTITY proxyResolveFailure.title "Не удалось найти прокси-сервер">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-   <li>Проверьте правильность установленных настроек прокси-сервера.</li>
-   <li>Убедитесь, что ваше устройство соединено с мобильной или Wi-Fi сетью.</li> </ul>">
+  <li>Проверьте правильность установленных настроек прокси-сервера.</li>
+  <li>Убедитесь, что ваше устройство соединено с мобильной или Wi-Fi сетью.
+    <button id='wifi'>Включить Wi-Fi</button>
+  </li>
+</ul>">
 <!ENTITY redirectLoop.title "Неверное перенаправление на странице">
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -103,10 +110,12 @@
    <li>Это может быть проблемой с конфигурацией сервера или же кто-то пытается подменить нужный вам сервер другим.</li>
    <li>Если в прошлом вы успешно соединялись с этим сервером, то, возможно, эта ошибка является временной. Попробуйте зайти позже.</li>
 </ul>">
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
-   <li>Возможно, сайт временно недоступен или перегружен запросами. Подождите некоторое время и попробуйте снова.</li>
-   <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>
+  <li>Возможно, сайт временно недоступен или перегружен запросами. Подождите некоторое время и попробуйте снова.</li>
+  <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.
+    <button id='wifi'>Включить Wi-Fi</button>
+  </li>
 </ul>">
 <!ENTITY cspFrameAncestorBlocked.title "Заблокировано политикой защиты содержимого">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотвратил загрузку этой страницы данным способом, так как страница имеет политику защиты содержимого, запрещающую это.</p>">
