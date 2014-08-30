@@ -132,6 +132,11 @@
 <!ENTITY fxaccount_status_legal "Юридическая информация">
 <!ENTITY fxaccount_status_linktos "Условия службы">
 <!ENTITY fxaccount_status_linkprivacy "Уведомление о приватности">
+<!ENTITY fxaccount_status_more "Подробнее&ellipsis;">
+<!ENTITY fxaccount_remove_account_dialog_title "Удалить учётную запись Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; остановит синхронизацию с вашей учётной записью, но не будет удалять ничего из ваших данных веб-сёрфинга на этом устройстве.">
+<!ENTITY fxaccount_remove_account_toast "Учётная запись Firefox &formatS; удалена.">
+<!ENTITY fxaccount_remove_account_menu_item "Удалить учётную запись">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Настройки Синхронизации">
 <!ENTITY fxaccount_options_configure_title "Настройка Синхронизации">
