@@ -128,7 +128,7 @@
 #define mozdev_seamonkey SeaMonkey Extensions from mozdev.org
 
 
-#define community_support Community &amp; Support
+#define community_support Comunidat y asistencia
 
 
 # LOCALIZATION NOTE (seamonkey_community):
