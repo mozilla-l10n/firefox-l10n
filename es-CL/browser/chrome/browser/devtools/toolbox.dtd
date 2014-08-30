@@ -14,6 +14,7 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!ENTITY toolboxFramesTooltip          "Selecciona un iframe como el documento objetivo actual">
 
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
 <!ENTITY options.context.inspector "Inspector">
