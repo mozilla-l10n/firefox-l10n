@@ -98,7 +98,7 @@
 
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-<!ENTITY debuggerUI.autoBlackBox           "Black box automatisk optimerede kilder">
+<!ENTITY debuggerUI.autoBlackBox           "Black box automatisk minificerede kilder">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
