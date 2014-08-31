@@ -52,6 +52,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Wyświetl więcej opcji">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Zaakceptuj powtórnie">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Wyślij powtórne potwierdzenie do organizatora">
+<!ENTITY lightning.imipbar.btnSaveCopy.label "Zapisz kopię">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Zapisz kopię wydarzenia w kalendarzu, niezależnie od odpowiedzi wysłanej do organizatora. Lista uczestników zostanie wyczyszczona.">
 <!ENTITY lightning.imipbar.btnTentative.label "Wstępnie zaakceptuj">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Wstępnie zaakceptuj zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Wstępnie zaakceptuj wszystkie">
