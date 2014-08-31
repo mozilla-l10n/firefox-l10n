@@ -107,6 +107,9 @@
 
 <!ENTITY fxaccount_full_label 'Akun Firefox'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Menggunakan akun pada server'>
+<!ENTITY fxaccount_custom_server_sync_title 'Menyimpan data Sync pada server'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -168,7 +171,9 @@
 
 <!ENTITY fxaccount_status_header2 'Akun Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Masuk sebagai'>
+<!ENTITY fxaccount_status_auth_server 'Server akun'>
 <!ENTITY fxaccount_status_device_name 'Nama perangkat'>
+<!ENTITY fxaccount_status_sync_server 'Server Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktif'>
 <!ENTITY fxaccount_status_needs_verification2 'Akun Anda harus diverifikasi terlebih dulu. Sentuh untuk mengirim ulang email verifikasi.'>
