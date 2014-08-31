@@ -7,16 +7,18 @@
 <!ENTITY loadError.label "Problema al cargar la página">
 <!ENTITY retry.label "Reintentar">
 <!ENTITY connectionFailure.title "No se puede conectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
-  <li>Compruebe la dirección por errores de escritura como
-    <strong>ww</strong>.ejemplo.com en vez de
+  <li>Revise la dirección en busca de errores tipográficos como
+    <strong>ww</strong>.ejemplo.com en lugar de
     <strong>www</strong>.ejemplo.com</li>
-  <li>Si aún no es capaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión Wi-Fi.</li>
+  <li>Si no puede cargar ninguna página, revise la conexión wifi o de datos de su dispositivo.
+    <button id='wifi'>Activar wifi</button>
+  </li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
@@ -38,14 +40,17 @@
 </ul>
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>El documento requerido ya no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no vuelve a pedir automáticamente documentos sensibles.</li><li>Haga clic en Reintentar para volver a pedir el documento del sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Pruebe de nuevo. &brandShortName; intentará abrir de nuevo una conexión y recargará la página.</li>
-</ul>">
+  <li>Vuelva a intentarlo. &brandShortName; intentará abrir una conexión y recargar la página.
+    <button id='wifi'>Activar wifi</button>
+  </li>
+</ul>
+">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -59,9 +64,9 @@
 </ul>
 ">
 <!ENTITY netReset.title "La conexión ha sido reiniciada">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 <!ENTITY netTimeout.title "La conexión ha caducado">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 <!ENTITY unknownProtocolFound.title "La dirección no resulta comprensible">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -76,10 +81,12 @@
 </ul>
 ">
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Compruebe la configuración del proxy para comprobar que es correcta.</li>
-  <li>Comrpuebe que su dispositivo tiene una conexión de datos o Wi-Fi funcional.</li>
+  <li>Revise la configuración de proxy para asegurarse de que es correcta.</li>
+  <li>Asegúrese de que su dispositivo tiene una conexión operativa wifi o de datos.
+    <button id='wifi'>Activar wifi</button>
+  </li>
 </ul>
 ">
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
@@ -109,10 +116,12 @@
   <li>Si está seguro de que se ha conectado anteriomente a este servidor con éxito, el error puede ser temporal por lo que se puede intentar nuevamente dentro de un tiempo.</li>
 </ul>
 ">
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
-  <li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Pruebe en unos momentos.</li>
-  <li>Si es incapaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión Wi-Fi.</li>
+  <li>El sitio podría estar temporalmente no disponible o demasiado ocupado. Vuelva a intentarlo pasados unos minutos.</li>
+  <li>Si no puede cargar ninguna página, revise la conexión wifi o de datos de su dispositivo móvil.
+    <button id='wifi'>Activar wifi</button>
+  </li>
 </ul>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">

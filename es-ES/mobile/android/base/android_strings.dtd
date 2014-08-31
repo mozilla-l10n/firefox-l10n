@@ -4,6 +4,10 @@
 
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
+<!ENTITY onboard_start_message "¡Bienvenido a &brandShortName;!">
+<!ENTITY onboard_start_subtext "Comprometidos con usted, su privacidad y una web abierta">
+<!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
+<!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -25,7 +29,7 @@
 <!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
-<!ENTITY url_bar_default_text "Introduzca dirección o búsqueda">
+<!ENTITY url_bar_default_text2 "Término de búsqueda o dirección">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
@@ -213,7 +217,7 @@
 <!ENTITY contextmenu_site_settings "Editar configuración del sitio">
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
-<!ENTITY contextmenu_top_sites_unpin "Eliminar sitio fijado">
+<!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
