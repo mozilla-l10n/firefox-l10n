@@ -179,5 +179,5 @@ Gecko-platformssymboler">
 <!ENTITY options.sourceeditor.tabsize.label             "Tabulator-størrelse">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Genvejstaster">
-<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "G">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Standard">
