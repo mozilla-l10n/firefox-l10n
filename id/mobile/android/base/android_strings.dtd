@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Markah">
 <!ENTITY  history_title "Riwayat">
 <!ENTITY  reading_list_title "Daftar Baca">
+<!ENTITY  recent_tabs_title "Tab Terbaru">
 
 <!ENTITY  switch_to_tab "Pindah ke tab">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Kemarin">
-<!ENTITY history_week_section "7 Hari yang Lalu">
-<!ENTITY history_older_section "Lebih Lama dari 7 Hari">
+<!ENTITY history_week_section2 "Minggu Sebelumnya">
+<!ENTITY history_older_section2 "Bulan Sebelumnya">
 
 <!ENTITY go "Buka">
 <!ENTITY search "Cari">
@@ -104,13 +105,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs web apa saja ke daftar mesin pencari dengan menekan agak lama pada bidang pencariannya lalu mengetuk ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alat pengembang">
+<!ENTITY pref_developer_paint_flashing "Gambar proses penggambaran">
 <!ENTITY pref_developer_remotedebugging "Debug daring">
 <!ENTITY pref_remember_signons "Ingat sandi">
 
 <!ENTITY pref_category_home "Beranda">
 <!ENTITY pref_category_home_summary "Ubahsuai beranda Anda">
 <!ENTITY pref_category_home_panels "Panel">
-<!ENTITY pref_home_add_panel "Tambahkan panel">
 <!ENTITY home_add_panel_title "Tambahkan panel baru">
 <!ENTITY home_add_panel_empty "Maaf, kami tidak menemukan panel untuk ditambahkan.">
 <!-- Localization note (home_add_panel_installed):
@@ -146,7 +147,11 @@
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
 <!ENTITY pref_char_encoding_off "Jangan tampilkan menu">
-<!ENTITY pref_clear_private_data "Bersihkan data pribadi">
+<!ENTITY pref_clear_private_data2 "Bersihkan sekarang">
+<!ENTITY pref_clear_private_data_category "Bersihkan data pribadi">
+<!ENTITY pref_clear_on_exit_title "Selalu bersihkan saat keluar">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; will automatically clear your data whenever you select “Quit“ from the main menu">
+<!ENTITY pref_clear_on_exit_dialog_title "Pilih data untuk dibersihkan">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Aktif">
 <!ENTITY pref_plugins_tap_to_play "Ketuk untuk menjalankan">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Pribadi Baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
+<!ENTITY close_private_tabs "Tutup Semua Tab Pribadi">
 <!ENTITY tabs_normal "Tab">
 <!ENTITY tabs_private "Pribadi">
 <!ENTITY tabs_synced "Disinkronkan">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka di Tab Pribadi">
-<!ENTITY contextmenu_open_in_reader "Buka di Pembaca">
 <!ENTITY contextmenu_remove "Hapus">
 <!ENTITY contextmenu_add_to_launcher "Tambahkan ke Layar Beranda">
 <!ENTITY contextmenu_share "Bagikan">
@@ -348,10 +353,10 @@ size. -->
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat penjelajahan?">
 <!ENTITY home_bookmarks_empty "Markah yand disimpan akan tampil di sini.">
+<!ENTITY home_closed_tabs_title "Tab yang baru ditutup">
 <!ENTITY home_last_tabs_title "Tab sebelumnya">
-<!ENTITY home_last_tabs_open "Buka tab yang sebelumnya dibuka">
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
-<!ENTITY home_most_recent_title "Yang terakhir">
+<!ENTITY home_open_all "Buka semua">
 <!ENTITY home_most_recent_empty "Situs web yang dibuka terakhir akan tampil di sini.">
 <!ENTITY home_reading_list_empty "Artikel yang disimpan untuk dibaca lain waktu akan tampil di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -370,6 +375,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Hingga &formatS;">
+
+<!ENTITY private_browsing_title "Penjelajahan Pribadi">
+<!ENTITY private_tabs_panel_empty_desc "Tab pribadi Anda akan tampil di sini. Walau kami tidak menyimpan riwayat penjelajahan atau kuki Anda, markah dan berkas yang diunduh masih akan disimpan pada perangkat Anda.">
+<!ENTITY private_tabs_panel_learn_more "Ingin tahu lebih lanjut?">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci pencarian">
 
