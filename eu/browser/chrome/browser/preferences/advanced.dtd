@@ -129,9 +129,9 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Galdetu beti">
 <!ENTITY certs.ask.accesskey             "G">
+<!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
+<!ENTITY enableOCSP.accesskey            "G">
 <!ENTITY viewCerts.label                 "Ikusi ziurtagiriak">
 <!ENTITY viewCerts.accesskey             "k">
-<!ENTITY verify2.label                   "Balidazioa">
-<!ENTITY verify2.accesskey               "B">
 <!ENTITY viewSecurityDevices.label       "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey   "S">
