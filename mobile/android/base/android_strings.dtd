@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Laster-markak">
 <!ENTITY  history_title "Historia">
 <!ENTITY  reading_list_title "Irakurketa-zerrenda">
+<!ENTITY  recent_tabs_title "Azken fitxak">
 
 <!ENTITY  switch_to_tab "Aldatu fitxara">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Gaur">
 <!ENTITY history_yesterday_section "Atzo">
-<!ENTITY history_week_section "Duela 7 egun">
-<!ENTITY history_older_section "7 egun baino zaharragoa">
+<!ENTITY history_week_section2 "Azken astea">
+<!ENTITY history_older_section2 "Azken hilabetea">
 
 <!ENTITY go "Joan">
 <!ENTITY search "Bilatu">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendara denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
 <!ENTITY pref_category_devtools "Garatzaile-tresnak">
+<!ENTITY pref_developer_paint_flashing "Margoketa keinukaria">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
 
 <!ENTITY pref_category_home "Hasiera">
 <!ENTITY pref_category_home_summary "Pertsonalizatu zure hasiera-orria">
 <!ENTITY pref_category_home_panels "Panelak">
-<!ENTITY pref_home_add_panel "Gehitu panela">
 <!ENTITY home_add_panel_title "Gehitu panel berria">
 <!ENTITY home_add_panel_empty "Sentitzen dugu, ezin dugu gehitzeko panelik aurkitu.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
 <!ENTITY pref_char_encoding_off "Ez erakutsi menua">
-<!ENTITY pref_clear_private_data "Garbitu datu pribatuak">
+<!ENTITY pref_clear_private_data2 "Garbitu orain">
+<!ENTITY pref_clear_private_data_category "Garbitu datu pribatuak">
+<!ENTITY pref_clear_on_exit_title "Garbitu beti irtetean">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName;(e)k zure datuak automatikoki garbituko ditu menu nagusitik \&quot;Irten\&quot; hautatzen duzun bakoitzean">
+<!ENTITY pref_clear_on_exit_dialog_title "Hautatu garbitu beharreko datuak">
 <!ENTITY pref_plugins "Pluginak">
 <!ENTITY pref_plugins_enabled "Gaituta">
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Fitxa berria">
 <!ENTITY new_private_tab "Fitxa pribatu berria">
 <!ENTITY close_all_tabs "Itxi fitxa guztiak">
+<!ENTITY close_private_tabs "Itxi fitxa pribatuak">
 <!ENTITY tabs_normal "Etiketak">
 <!ENTITY tabs_private "Pribatua">
 <!ENTITY tabs_synced "Sinkronizatuak">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
 <!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
-<!ENTITY contextmenu_open_in_reader "Ireki irakurgailuan">
 <!ENTITY contextmenu_remove "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
 <!ENTITY contextmenu_share "Partekatu">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Garbitu nabigatze-historia">
 <!ENTITY home_clear_history_confirm "Ziur zaude nabigatze-historia garbitu nahi duzula?">
 <!ENTITY home_bookmarks_empty "Gordetako laster-markak hemen agertzen dira.">
+<!ENTITY home_closed_tabs_title "Itxitako azken fitxak">
 <!ENTITY home_last_tabs_title "Azken saioko fitxak">
-<!ENTITY home_last_tabs_open "Ireki azken saioko fitxa guztiak">
 <!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
-<!ENTITY home_most_recent_title "Azkenak">
+<!ENTITY home_open_all "Ireki guztiak">
 <!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Gora &formatS;(e)ra">
+
+<!ENTITY private_browsing_title "Nabigatze pribatua">
+<!ENTITY private_tabs_panel_empty_desc "Zure fitxa pribatuak hemen erakutsiko dira. Nabigatze-historia edo cookieak gordetzen ez diren arren, laster-markak eta deskargatzen dituzun fitxategiak zure gailuan gordeko dira halere.">
+<!ENTITY private_tabs_panel_learn_more "Argibide gehiago nahi dituzu?">
 
 <!ENTITY pin_site_dialog_hint "Idatzi bilatzeko gako-hitza">
 
