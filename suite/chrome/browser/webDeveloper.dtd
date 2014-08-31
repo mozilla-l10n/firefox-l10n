@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label "Valida questa pagina">
 <!ENTITY validatePage.accesskey "V">
+<!ENTITY allowRemoteDebugging.label     "Permetti il debugging remoto">
+<!ENTITY allowRemoteDebugging.accesskey "P">
