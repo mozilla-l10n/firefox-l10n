@@ -705,7 +705,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
-<!ENTITY mixedContentBlocked.moreinfo "Większość witryn będzie dalej działać prawidłowo nawet po zablokowaniu takich treści.">
+<!ENTITY badContentBlocked.moreinfo "Większość stron będzie działać prawidłowo nawet, gdy blokowane są treści.">
+
+<!ENTITY mixedContentBlocked2.message "Niezabezpieczone treści">
+<!ENTITY mixedContentBlocked2.moreinfo "Niektóre niezaszyfrowane elementy tej strony zostały zablokowane.">
+<!ENTITY mixedContentBlocked2.learnMore "Więcej informacji">
+<!ENTITY mixedContentBlocked2.options "Ustawienia">
+<!ENTITY mixedContentBlocked2.unblock.label "Tymczasowo wyłącz ochronę">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "T">
 
 <!ENTITY pointerLock.notification.message "Naciśnij ESC w dowolnej chwili, aby wyświetlić go ponownie.">
 
