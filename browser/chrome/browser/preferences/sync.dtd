@@ -21,7 +21,7 @@
 <!ENTITY myRecoveryKey.label          "എന്റെ വീണ്ടെടുക്കല്‍ കീ">
 <!ENTITY resetSync2.label             "സിന്‍ക് വീണ്ടും സജ്ജമാക്കുക…">
 
-<!ENTITY pairDevice.label             "ഒരു ഡിവൈസുമായി പെയര്‍ ചെയ്യുക">
+<!ENTITY pairDevice.label             "ഒരു ഉപകരണവുമായി ജോടി ചെയ്യുക">
 
 <!ENTITY syncMy.label               "സിന്‍ക് ചെയ്യുക">
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">

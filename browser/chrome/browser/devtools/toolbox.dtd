@@ -32,7 +32,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "ബ്രൌസര്‍ ശൈലികള്‍ കാണിയ്ക്കുക">
-
+<!ENTITY options.showUserAgentStyles.tooltip "ഇതു് ഓണ്‍ ചെയ്താല്‍ ബ്രൌസര്‍ ലഭ്യമാക്കുന്ന സ്വതവേയുള്ള ശൈലികള്‍ കാണിയ്ക്കുന്നു.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -63,10 +63,14 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* നിലവിലുള്ള സെഷന്‍ മാത്രം, താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നു">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "chrome പ്രവര്‍ത്തന സജ്ജമാക്കി ഡീബഗ്ഗിങ് ചേര്‍ക്കുന്നു">
+<!ENTITY options.enableChrome.tooltip2  "ഈ ഐച്ഛികം ഓണ്‍ ചെയ്താല്‍ ബ്രൌസര്‍ കോണ്ടെക്സ്റ്റില്‍ അനവധി തരത്തിലുള്ള ഡവലപ്പര്‍ ഉപകരണങ്ങള്‍ ഉപയോഗിയ്ക്കാന്‍ അനുവദിയ്ക്കുകയും ആഡ്-ഓണ്‍ മാനേജറില്‍ നിന്നുള്ള ആഡ്-ഓണുകള്‍ ഡീബഗ്ഗും ചെയ്യുന്നു.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -76,11 +80,15 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "JavaScript* പ്രവര്‍ത്തന രഹിതമാക്കുക">
 <!ENTITY options.disableJavaScript.tooltip   "നിലവിലുള്ള റ്റാബിനുള്ള ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. റ്റാബ് അല്ലെങ്കില്‍ ഉപകരണപ്പട്ടിക അടച്ചെങ്കില്‍, ഈ സജ്ജീകരണം ഉപേക്ഷിയ്ക്കുന്നതാണു്.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "ക്യാഷെ പ്രവര്‍ത്തന രഹിതമാക്കുക (ടൂള്‍ബോക്സ് തുറക്കുമ്പോള്‍)">
+<!ENTITY options.disableCache.tooltip2   "ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകളുടേയും കാഷെ പ്രവർത്തനരഹിതമാക്കും">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -116,6 +124,8 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "സമയരേഖകൾ പ്രവർത്തനസജ്ജമാക്കുക">
+<!ENTITY options.timestampMessages.tooltip    "ഈ ഓപ്ഷൻ പ്രവർത്തനസജ്ജമാക്കിയാൽ വെബ് കൺസോളിലുള്ള ആജ്ഞകളും ഫലങ്ങളും ഒരു സമയരേഖ കാണിക്കും">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -125,10 +135,12 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "യഥാര്‍ത്ഥ ശ്രോതസ്സുകള്‍ കാണിയ്ക്കുക">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "യഥാർഥ സ്രോതസ്സുകൾ (ഉദാ: Sass ഫയലുകൾ) സ്റ്റൈൽ എഡിറ്ററിലും നിരീക്ഷകനിലും കാണിക്കുക ">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
+<!ENTITY options.stylesheetAutocompletion.label      "CSS തനിയേ പൂർത്തിയാക്കുക">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "CSS പ്രത്യേകതകളും, മൂല്യങ്ങളും, സെലക്ടറുകളും സ്റ്റൈൽ എഡിറ്ററിൽ നിങ്ങൾ ടൈപ്പ് ചെയ്യുന്ന മുറക്ക് തനിയേ പൂർത്തിയാക്കുക">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
@@ -137,13 +149,15 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "സാധാരണ മുൻഗണനകൾ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-
+<!ENTITY options.enablePersistentLogs.tooltip  "ഈ ഐച്ഛികം പ്രവര്‍ത്തന സജ്ജമാക്കിയാല്‍, ഒരോ പുതിയ താളിലേക്കു് പോകുമ്പോഴും വെബ് കണ്‍സോളും ശൃംഘല നിരീക്ഷകനും ഔട്ട്പുട്ട് വെടിപ്പാക്കുന്നതല്ല.">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -155,12 +169,15 @@
   -  section. -->
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.label                     "എഡിറ്റർ മുന്‍ഗണനകള്‍">
+<!ENTITY options.sourceeditor.detectindentation.label   "ഇൻഡന്റേഷൻ തിരിച്ചറിയുക">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "സ്രോതസ്സിന്റെ ഉള്ളടക്കം അനുസരിച്ച് ഇൻഡന്റേഷൻ ഊഹിക്കുക">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "ബ്രാക്കറ്റുകൾ തനിയേ അടയ്ക്കുക">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "അടയ്ക്കാനുള്ള ബ്രാക്കറ്റുകൾ തനിയേ ചേർക്കുക">
+<!ENTITY options.sourceeditor.expandtab.label           "സ്പേസുകൾ ഉപയോഗിച്ച് ഇൻഡന്റ് ചെയ്യുക">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ടാബിനു് പകരം സ്പേസുകൾ ഉപയോഗിക്കുക">
+<!ENTITY options.sourceeditor.tabsize.label             "ടാബ് വലിപ്പം (T)">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "കീ ബന്ധങ്ങൾ (K)">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "തനിമട്ട്">

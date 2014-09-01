@@ -36,15 +36,15 @@
 <!ENTITY community.middle2          ", ഇതു് ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ആഗോള കൂട്ടായ്മ">
-<!ENTITY community.end3             " വെബ് ഓപ്പണും പബ്ലിയ്ക്കാക്കുന്നതിനും എല്ലാര്‍ക്കും ലഭ്യമാക്കുന്നതിനും ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
+<!ENTITY community.end3             " വെബ് തുറന്നതും, പൊതുവായതും, എല്ലാര്‍ക്കും ലഭ്യമായതും ആക്കാനായി ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
 
 <!ENTITY contribute.start           "താല്‍പര്യമുണ്ടോ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "പങ്ക് ചേരൂ!">
+<!ENTITY contribute.getInvolvedLink "പങ്കാളിയാകൂ!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "ലൈസന്‍സിങ് വിവരങ്ങള്‍">
+<!ENTITY bottomLinks.license        "അനുമതി വിവരങ്ങള്‍">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "ഉപയോക്തൃ അവകാശങ്ങള്‍">
@@ -83,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "ഈ സിസ്റ്റത്തില്‍ നിങ്ങള്‍ക്കു് തുടര്‍പുതുക്കലുകള്‍ നടത്താന്‍ കഴിയില്ല.">
+<!ENTITY update.unsupported.start    "ഈ സിസ്റ്റത്തില്‍ നിങ്ങള്‍ക്കു് കൂടുതൽ പുതുക്കലുകള്‍ നടത്താന്‍ കഴിയില്ല.">
 <!ENTITY update.unsupported.linkText "കൂടുതലറിയാന്‍">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -95,7 +95,7 @@
 <!ENTITY update.downloading.start   "പുതുക്കല്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "പുതുക്കല്‍ വരുത്തുന്നു…">
+<!ENTITY update.applying            "പുതുക്കല്‍ നടപ്പാക്കുന്നു…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
