@@ -7,11 +7,13 @@
 <!ENTITY pref.history.caption "Przeglądanie historii">
 <!ENTITY historyPages.label "Informacje o wszystkich odwiedzonych przez użytkownika stronach WWW zapisywane są w Historii, co umożliwia wyświetlanie ich w trybie offline.">
 <!ENTITY enableHistory.label "Pamiętaj odwiedzone strony">
-<!ENTITY enableHistory.accesskey "P">
+<!ENTITY enableHistory.accesskey "r">
 <!ENTITY clearHistory.label "Wyczyść historię">
 <!ENTITY clearHistory.accesskey "h">
 
 <!ENTITY locationBarHistory.caption "Historia paska adresu">
+<!ENTITY urlBarHistoryEnabled.caption "Włącz historię paska adresu">
+<!ENTITY urlBarHistoryEnabled.accesskey "d">
 <!ENTITY clearLocationBar.label "Wyczyść listę adresów WWW dostępną w pasku adresu.">
 <!ENTITY clearLocationBarButton.label "Wyczyść pasek adresu">
 <!ENTITY clearLocationBarButton.accesskey "a">
@@ -19,5 +21,5 @@
 <!ENTITY enableFormfill.label "Włącz historię formularzy i wyszukiwania">
 <!ENTITY enableFormfill.accesskey "W">
 <!ENTITY formfillExpire.label "Pamiętaj historię formularzy i wyszukiwania przez maksymalnie">
-<!ENTITY formfillExpire.accesskey "f">
+<!ENTITY formfillExpire.accesskey "m">
 <!ENTITY formfillDays.label "dni">
