@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label            "验证此页语法">
 <!ENTITY validatePage.accesskey        "V">
+<!ENTITY allowRemoteDebugging.label     "允许远程调试">
+<!ENTITY allowRemoteDebugging.accesskey "A">
