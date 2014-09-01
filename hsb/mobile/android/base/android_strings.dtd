@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Zapołožki">
 <!ENTITY  history_title "Historija">
 <!ENTITY  reading_list_title "Čitanska lisćina">
+<!ENTITY  recent_tabs_title "Najnowše rajtarki">
 
 <!ENTITY  switch_to_tab "K rajtarkej přepinać">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Dźensa">
 <!ENTITY history_yesterday_section "Wčera">
-<!ENTITY history_week_section "Před 7 dnjemi">
-<!ENTITY history_older_section "Starše hač 7 dnjow">
+<!ENTITY history_week_section2 "Tydźenja">
+<!ENTITY history_older_section2 "Zańdźeny měsac">
 
 <!ENTITY go "Start">
 <!ENTITY search "Pytać">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "POKIW: Přidajće swojej lisćinje pytanskich poskićowarjow websydło, tłóčo dołho na jeho pytanske polo a podótkńće so potom symbol &formatI;.">
 <!ENTITY pref_category_devtools "Wuwiwarske nastroje">
+<!ENTITY pref_developer_paint_flashing "Barbne wuzběhnjenje">
 <!ENTITY pref_developer_remotedebugging "Zdalene pytanje za zmylkami">
 <!ENTITY pref_remember_signons "Hesła sej spomjatkować">
 
 <!ENTITY pref_category_home "Startowa strona">
 <!ENTITY pref_category_home_summary "Přiměrće swoju startowu stronu">
 <!ENTITY pref_category_home_panels "Pola">
-<!ENTITY pref_home_add_panel "Polo přidać">
 <!ENTITY home_add_panel_title "Nowe polo přidać">
 <!ENTITY home_add_panel_empty "Bohužel njemóžachmy pola namakać, kotrež móžeće přidać.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
 <!ENTITY pref_char_encoding_off "Meni njepokazać">
-<!ENTITY pref_clear_private_data "Priwatne daty zhašeć">
+<!ENTITY pref_clear_private_data2 "Nětko zhašeć">
+<!ENTITY pref_clear_private_data_category "Priwatne daty zhašeć">
+<!ENTITY pref_clear_on_exit_title "Při skónčenju přeco zhašeć">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; waše daty awtomatiscé zhaša, hdyžkuli \&quot;Skónčić\&quot; z hłowneho menija wuběraće.">
+<!ENTITY pref_clear_on_exit_dialog_title "Wubjerće, kotre daty maja so zhašeć">
 <!ENTITY pref_plugins "Tykače">
 <!ENTITY pref_plugins_enabled "Zmóžnjeny">
 <!ENTITY pref_plugins_tap_to_play "Dótknyć so, zo byšće wothrał">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nowy rajtark">
 <!ENTITY new_private_tab "Nowy priwatny rajtark">
 <!ENTITY close_all_tabs "Wšě rajtarki začinić">
+<!ENTITY close_private_tabs "Priwatne rajtarki začinić">
 <!ENTITY tabs_normal "Rajtarki">
 <!ENTITY tabs_private "Priwatny">
 <!ENTITY tabs_synced "Synchronizowany">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "W nowym rajtarku wočinić">
 <!ENTITY contextmenu_open_private_tab "W nowym priwatnym rajtarku wočinić">
-<!ENTITY contextmenu_open_in_reader "W čitaku wočinić">
 <!ENTITY contextmenu_remove "Wotstronić">
 <!ENTITY contextmenu_add_to_launcher "Startowej wobrazowce přidać">
 <!ENTITY contextmenu_share "Dźělić">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Přehladowansku historiju wuprózdnić">
 <!ENTITY home_clear_history_confirm "Chceće woprawdźe historiju wuprózdnić?">
 <!ENTITY home_bookmarks_empty "Zapołožki, kotrež składujeće, so tu pokazuja.">
+<!ENTITY home_closed_tabs_title "Njedawno začinjene rajtarki">
 <!ENTITY home_last_tabs_title "Rajtarki poslednjeho raza">
-<!ENTITY home_last_tabs_open "Wšě rajtarki poslednjeho raza wočinić">
 <!ENTITY home_last_tabs_empty "Waše najnowše rajtarki so tu pokazuja.">
-<!ENTITY home_most_recent_title "Najnowše">
+<!ENTITY home_open_all "Wšě wočinić">
 <!ENTITY home_most_recent_empty "Websydła, kotrež sće njedawno wopytał, so tu pokazuja.">
 <!ENTITY home_reading_list_empty "Nastawki, kotrež za pozdźišo składujeće, so tu pokazuja.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Hač do &formatS;">
+
+<!ENTITY private_browsing_title "Priwatny modus">
+<!ENTITY private_tabs_panel_empty_desc "Waše priwatne rajtarki so tu pokazaja. Mjeztym zo přehladowansku historiju abo placki njewobchowujemy, budu so zapołožki a dataje, kotrež sćahujeće, hišće na wašim graće składować.">
+<!ENTITY private_tabs_panel_learn_more "Chceće wjace zhonić?">
 
 <!ENTITY pin_site_dialog_hint "Zapodajće pytanske klučowe słowo">
 
