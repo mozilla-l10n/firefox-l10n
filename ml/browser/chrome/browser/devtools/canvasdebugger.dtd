@@ -16,9 +16,13 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1   "വീണ്ടും ലഭ്യമാക്കുക">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice2   "&lt;canvas&gt; കോണ്‍ടെക്സ്റ്റുകള്‍ ഡീബഗ് ചെയ്യുന്നതിനുള്ള താള്‍.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+<!ENTITY canvasDebuggerUI.emptyNotice1    "ഇതിൽ ഞെക്കുക">
+<!ENTITY canvasDebuggerUI.emptyNotice2    "അനിമേഷൻ ഫ്രെയിമിന്റെ കോൾ സ്റ്റാക് സൂക്ഷിക്കാനുള്ള ബട്ടൺ">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice1): This is the label shown
   -  in the call list view while loading a snapshot. -->
 

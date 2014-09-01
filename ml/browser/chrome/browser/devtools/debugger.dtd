@@ -21,6 +21,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "ഈ ശ്രോതസ്സ് ബ്ലാക്ക് ബോക്സ്ഡ് ആണ്: ഇതിന്റെ ബ്രെയിക്ക് പോയിന്റുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
@@ -126,7 +128,7 @@
 
 <!ENTITY debuggerUI.searchToken           "കണ്ടെത്തുക ">
 <!ENTITY debuggerUI.searchToken.key       "F">
-
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 

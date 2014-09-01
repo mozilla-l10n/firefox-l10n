@@ -11,10 +11,16 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "•ഇതിൽ ഞെക്കുക">
+<!ENTITY netmonitorUI.perfNotice2         "പ്രവൃത്തി വിശകലനം തുടങ്ങാനുള്ള ബട്ടൺ">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "വീണ്ടും ലഭ്യമാക്കുക">
 
+<!ENTITY netmonitorUI.reloadNotice1       "•ഒരു അപേക്ഷ നൽകുക അല്ലെങ്കിൽ">
+<!ENTITY netmonitorUI.reloadNotice2       "വീണ്ടും ലഭ്യമാക്കുക">
+<!ENTITY netmonitorUI.reloadNotice3       "പേജ്, ഇതിനായി - ശൃംഘല പ്രവൃത്തികളെ പറ്റി വിശദവിവരം അറിയാൻ. ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -109,8 +115,12 @@
 <!ENTITY netmonitorUI.footer.filterOther  "വേറെ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "വൃത്തിയാകുക ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "പ്രവര്‍ത്തന നിരീക്ഷണം ടൊഗ്ഗിള്‍ ചെയ്യുക...">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -183,6 +193,8 @@
 <!ENTITY netmonitorUI.timings.receive     "ലഭ്യമാക്കുന്നു:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "പ്രവര്‍ത്തന നിരീക്ഷണം ആരംഭിയ്ക്കുക...">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
 

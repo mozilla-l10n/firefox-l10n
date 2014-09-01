@@ -56,18 +56,23 @@
 <!ENTITY lineNumbers.label             "വരി എണ്ണം കാണിയ്യുക">
 <!ENTITY lineNumbers.accesskey         "വ">
 
+<!ENTITY wordWrap.label                "പദാവലി ഒതുക്കുക">
+<!ENTITY wordWrap.accesskey            "ഒ">
 
+<!ENTITY highlightTrailingSpace.label     "പിന്നിലുള്ള സ്ഥലം എടുത്തുകാണിയ്ക്കുക">
+<!ENTITY highlightTrailingSpace.accesskey "എ">
 
+<!ENTITY largerFont.label             "വലിയ അക്ഷരസഞ്ചയനം">
+<!ENTITY largerFont.accesskey         "വ">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "ചെറിയ അക്ഷരസഞ്ചയം">
+<!ENTITY smallerFont.accesskey        "യ">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "സാധാരണ വലിപ്പം">
+<!ENTITY normalSize.accesskey         "ണ">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "ചിട്ടപ്പെടുത്തുക">
 <!ENTITY editMenu.accesskey           "E">
@@ -84,8 +89,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "വൃത്തിയുള്ള പ്രിന്റ്">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "വ">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -143,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "നിലവിലുള്ള ഫംഗ്ഷന്‍ പരിശോധിയ്ക്കുക">
+<!ENTITY evalFunction.accesskey "പ">
+<!ENTITY evalFunction.key "e">
