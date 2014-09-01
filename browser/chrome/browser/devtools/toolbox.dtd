@@ -37,7 +37,7 @@
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.label "Koloreen unitate lehentsia">
+<!ENTITY options.defaultColorUnit.label "Koloreen unitate lehenetsia">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
@@ -93,7 +93,7 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Lehenetsitako Firefoxen garatzaile-tresnak">
+<!ENTITY options.selectDefaultTools.label     "Firefoxen garatzaile-tresna lehenetsiak">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
