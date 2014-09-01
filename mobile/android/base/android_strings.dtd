@@ -128,7 +128,7 @@
 <!ENTITY pref_clear_private_data "Очистити приватні дані">
 <!ENTITY pref_plugins "Плагіни">
 <!ENTITY pref_plugins_enabled "Увімкнено">
-<!ENTITY pref_plugins_tap_to_play "Тицьнути щоб грати">
+<!ENTITY pref_plugins_tap_to_play "Торкнутися, щоб грати">
 <!ENTITY pref_plugins_disabled "Вимкнено">
 <!ENTITY pref_text_size "Розмір тексту">
 <!ENTITY pref_reflow_on_zoom4 "Переформатування тексту">
@@ -394,15 +394,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Наявні оновлення для &brandShortName;">
-<!ENTITY updater_start_select2 "Тицьніть щоб завантажити">
+<!ENTITY updater_start_select2 "Торкніться, щоб завантажити">
 
 <!ENTITY updater_downloading_title2 "Завантаження &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Завантаження невдале">
-<!ENTITY updater_downloading_select2 "Тицьніть щоб застосувати оновлення по завершенні">
-<!ENTITY updater_downloading_retry2 "Тицьніть щоб повторити">
+<!ENTITY updater_downloading_select2 "Торкніться, щоб застосувати оновлення по завершенні">
+<!ENTITY updater_downloading_retry2 "Торкніться, щоб повторити">
 
 <!ENTITY updater_apply_title2 "Доступне оновлення для &brandShortName;">
-<!ENTITY updater_apply_select2 "Тицьніть щоб оновити">
+<!ENTITY updater_apply_select2 "Торкніться, щоб оновити">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Новий гостьовий сеанс">
