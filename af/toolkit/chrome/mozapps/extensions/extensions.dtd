@@ -57,10 +57,10 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Laai alle byvoegings terug om outomaties by te werk">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
-<!ENTITY updates.resetUpdatesToManual.label          "Laai alle byvoegings terug om handmatig by te werk">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "L">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Stel alle byvoegings om outomaties by te werk">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
+<!ENTITY updates.resetUpdatesToManual.label          "Stel alle byvoegings om handmatig by te werk">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "S">
 <!ENTITY updates.updating.label               "Byvoegings word bygewerk">
 <!ENTITY updates.installed.label              "Die byvoegings is bygewerk.">
 <!ENTITY updates.downloaded.label             "Die byvoeging-bywerkings is afgelaai.">
