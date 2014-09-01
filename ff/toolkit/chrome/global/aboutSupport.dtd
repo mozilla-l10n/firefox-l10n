@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Ajajo Kuutoro">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kuutorogol Tesko">
 
+
 <!ENTITY aboutSupport.showDir.label "Uddit Runngere">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -63,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jiggo Teelte Baylaaɗe">
 <!ENTITY aboutSupport.modifiedPrefsName "Innde">
-<!ENTITY aboutSupport.modifiedPrefsValue "Kiisol">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Keeroraaɗi user.js">
 <!ENTITY aboutSupport.userJSDescription "Runngere heftinirde maa ena waɗi <a id='prefs-user-js-link'>fiilde user.js</a>, waɗnde keeroraaɗi ɗi &brandShortName; sosaani.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Jaytinooje">
 
