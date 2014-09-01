@@ -32,7 +32,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Información del entorno de ejecución">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showDetails_accesskey "I">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY viewMenu_label "Ver">
