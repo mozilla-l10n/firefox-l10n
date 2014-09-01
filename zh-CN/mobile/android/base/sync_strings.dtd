@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label 'Firefox 账户'>
 
+<!ENTITY fxaccount_custom_server_account_title '使用服务器上的账号'>
+<!ENTITY fxaccount_custom_server_sync_title '在服务器上存储同步数据'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -132,7 +135,7 @@
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '欢迎使用 &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description '登录以同步您的标签页、书签等信息。'>
-<!ENTITY fxaccount_getting_started_get_started '入门指南'>
+<!ENTITY fxaccount_getting_started_get_started '开始使用'>
 <!ENTITY fxaccount_getting_started_old_firefox '使用旧版本的 &syncBrand.shortName.label;？'>
 
 <!-- Localization note: the Firefox below should not change with the
@@ -175,14 +178,16 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 账户'>
 <!ENTITY fxaccount_status_signed_in_as '已登录为'>
+<!ENTITY fxaccount_status_auth_server '账户服务器'>
 <!ENTITY fxaccount_status_device_name '设备名称'>
+<!ENTITY fxaccount_status_sync_server '同步服务器'>
 <!ENTITY fxaccount_status_sync '服务'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已启用'>
-<!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点击重发验证邮件。'>
-<!ENTITY fxaccount_status_needs_credentials '无法连接。点击登录。'>
+<!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点按以重发验证邮件。'>
+<!ENTITY fxaccount_status_needs_credentials '无法连接。点按以登录。'>
 <!ENTITY fxaccount_status_needs_upgrade '您需要升级 &brandShortName; 才能登录。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。点击开始同步。'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。点按开始同步。'>
 <!ENTITY fxaccount_status_bookmarks '书签'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords '密码'>
@@ -225,4 +230,4 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未连接'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '点击登录为 &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '点按以登录为 &formatS;'>
