@@ -510,7 +510,7 @@
 <!ENTITY customizeMode.lwthemes.menuManage "Administrar">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "d">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
