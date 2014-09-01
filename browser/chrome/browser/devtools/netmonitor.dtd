@@ -17,8 +17,10 @@
 <!ENTITY netmonitorUI.perfNotice2         "कामगिरी विश्लेषण सुरू करण्यासाठी बटन.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "पुन्हा लोड करा">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• विनंती करा किंवा">
+<!ENTITY netmonitorUI.reloadNotice2       "पुन्हा लोड करा">
+<!ENTITY netmonitorUI.reloadNotice3       "नेटवर्क क्रिया विषयी तपशील माहिती पाहण्यासाठीचे पृष्ठ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 

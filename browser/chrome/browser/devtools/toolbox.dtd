@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-
+<!ENTITY options.disableCache.tooltip2   "हा पर्याय सुरू केल्याने साधनपेटी खुले असणाऱ्या सर्व टॅब्जकरिता कॅशे बंद केले जाईल.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -163,12 +163,15 @@ Gecko प्लॅटफॉर्म सिम्बल्स">
   -  section. -->
 
 
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.label                     "संपादक पसंती">
+<!ENTITY options.sourceeditor.detectindentation.label   "इंडेंटेशन ओळखा">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "स्रोत अंतर्भुत माहितीवर आधारित इंडेंटेशन ओळखा">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "कंस स्व बंद करा">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "बंद कंस स्वतः अंतर्भुत करा">
+<!ENTITY options.sourceeditor.expandtab.label           "मोकळ्या जागेचा वापर समासकरिता करा">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "टॅब अक्षराऐवजी मोकळ्या जागेचा वापर करा">
+<!ENTITY options.sourceeditor.tabsize.label             "टॅब आकार">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 
 
 
