@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "当有直接发送给您的消息时：">
 <!ENTITY  desktopChatNotifications.label      "显示通知">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "带有发送者的名称和消息预览">
+<!ENTITY  buddyInfoOnly.label                 "仅带有发送者的名称">
+<!ENTITY  dummyNotification.label             "不带有任何信息">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "播放声音">
 <!ENTITY  play.label                          "播放">

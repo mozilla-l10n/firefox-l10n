@@ -6,7 +6,7 @@
 <!ENTITY captionMailContent.label "邮件内容">
 
 <!ENTITY acceptRemoteContent.label "允许消息中的远程内容">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "例外…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "详细了解有关远程内容的隐私问题">
@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "网络内容">
 
+<!ENTITY keepHistory.label "记住我访问过的网站和链接">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "接受站点的 cookie">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "接受第三方 Cookie：">
