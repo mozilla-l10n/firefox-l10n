@@ -129,9 +129,9 @@
 <!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Kuždy raz se pšašaś">
 <!ENTITY certs.ask.accesskey             "K">
+<!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Certifikaty pokazaś">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY verify2.label                   "Pógódnośenje">
-<!ENTITY verify2.accesskey               "P">
 <!ENTITY viewSecurityDevices.label       "Wěstotne rědy">
 <!ENTITY viewSecurityDevices.accesskey   "t">

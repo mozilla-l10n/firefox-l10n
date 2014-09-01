@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "Koděrowanje:">
 <!ENTITY  generalMetaName       "Mě">
 <!ENTITY  generalMetaContent    "Wopśimjeśe">
-<!ENTITY  generalSecurityDetails   "Drobnostki">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Medije">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Wěstota">
 <!ENTITY  securityTab.accesskey "W">
-<!ENTITY  securityHeader        "Wěstotne informacije za toś ten bok">
 <!ENTITY  securityView.certView "Certifikat se woglědaś">
 <!ENTITY  securityView.accesskey "C">
 <!ENTITY  securityView.unknown   "Njeznaty">

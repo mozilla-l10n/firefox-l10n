@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "c">
 <!ENTITY bookmarksToolbarItem.label "Zapiski rědki cytańskich znamjenjow">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Wšykne rejtarki znowego zacytaś">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšykne rejtarki ako cytańske znamjenja składowaś…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Zacynjenje rejtarka anulěrowaś">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
+
 <!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "w">
 <!ENTITY devAppMgrMenu.label               "Zastojnik nałoženjow">
 <!ENTITY devAppMgrMenu.accesskey           "n">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Rědy pśešaltowaś">
@@ -701,11 +710,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotaraž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Wokno abo wobrazowka za źělenje:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "o">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
 <!ENTITY webrtcIndicatorButton.label "Pśistup ku kamerje / k mikrofonoju">
 <!ENTITY webrtcIndicatorButton.tooltip "Sedła zwobrazniś, z kótarymiž tuchylu wužywaśo swóju kameru abo swój mikrofon gromaźe">
+
+<!ENTITY loopCallButton.tooltip "Někogo do rozgrona pśepšosyś">
 
 <!ENTITY mixedContentBlocked.moreinfo "Nejwěcej websedłow hyšći pórědnje funkcioněrujo, lěcrownož blokěrujo se toś to wopśimjeśe.">
 

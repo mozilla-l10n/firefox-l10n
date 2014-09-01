@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Pśez token šćitana awtentifikacija">
 <!ENTITY protectedAuth.msg "Pšosym awtentificěrujśo token. Awtentifikaciska metoda wótwisujo wót typa wašogo tokena.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
-
-<!ENTITY certErrorDlg.title "Wěsty zwisk njemóžno">
-<!ENTITY certErrorDlg.info1 "To by mógło problem z konfiguraciju serwera byś abo něchten by mógł wopytaś, serwer imitěrowaś.">
-<!ENTITY certErrorDlg.info2 "Jolic sćo był w zajźonosći ze serwerom wuspěšnje zwězany, by mógła zmólka nachylna byś a móžośo pózdźej hyšći raz wopytaś.">
