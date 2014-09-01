@@ -14,9 +14,9 @@
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "Import…">
+<!ENTITY importButton.label         "นำเข้า…">
 <!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
-<!ENTITY importButton.accesskey     "I">
+<!ENTITY importButton.accesskey     "น">
 
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 

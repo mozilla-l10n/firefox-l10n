@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
 
-<!ENTITY netmonitorUI.toolbar.domain      "Domain">
+<!ENTITY netmonitorUI.toolbar.domain      "โดเมน">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -103,6 +103,8 @@
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "อื่น ๆ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
