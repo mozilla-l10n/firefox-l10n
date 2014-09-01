@@ -12,7 +12,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Abrir aplicación alojada…">
 <!ENTITY projectMenu_importHostedApp_accesskey "L">
 <!ENTITY projectMenu_selectApp_label "Abrir aplicación…">
-<!ENTITY projectMenu_selectApp_accessley "A">
+<!ENTITY projectMenu_selectApp_accesskey "b">
 <!ENTITY projectMenu_play_label "Instalar y ejecutar">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Detener aplicación">
