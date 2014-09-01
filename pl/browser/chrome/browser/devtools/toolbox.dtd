@@ -13,6 +13,8 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY toolboxReload.key "r">
 
+<!ENTITY toolboxFramesTooltip "Wskaż element iframe jako cel narzędzi">
+
 <!ENTITY options.toolNotSupported.label "* Nieobsługiwane dla aktualnego celu narzędzi">
 <!ENTITY options.context.triggersPageRefresh "* Tylko aktualna sesja, przeładowuje stronę">
 
