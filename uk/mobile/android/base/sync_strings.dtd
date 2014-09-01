@@ -175,8 +175,8 @@
 <!ENTITY fxaccount_status_signed_in_as 'Увійшов як'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: увімкнено'>
-<!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Тицьніть, щоб перепослати підтверджуючий лист.'>
-<!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Тицьніть, щоб увійти.'>
+<!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Торкніться для відправлення листа підтверждення.'>
+<!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Торкніться, щоб увійти.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Щоб увійти, вам потрібно оновити &brandShortName;.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
@@ -220,4 +220,4 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не підключений'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Тицьніть, щоб увійти як &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Торкніться, щоб увійти як &formatS;'>
