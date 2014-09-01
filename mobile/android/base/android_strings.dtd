@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "ចំណាំ">
 <!ENTITY  history_title "ប្រវត្តិ">
 <!ENTITY  reading_list_title "បញ្ជី​អាន">
+<!ENTITY  recent_tabs_title "ផ្ទាំង​ថ្មីៗ">
 
 <!ENTITY  switch_to_tab "ប្ដូរ​ទៅ​ផ្ទាំង">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "ថ្ងៃ​នេះ">
 <!ENTITY history_yesterday_section "ម្សិលមិញ">
-<!ENTITY history_week_section "៧ ថ្ងៃ​កន្លងទៅ">
-<!ENTITY history_older_section "ច្រើន​ជាង ៧ ថ្ងៃ">
+<!ENTITY history_week_section2 "សប្ដាហ៍​មុន">
+<!ENTITY history_older_section2 "ខែ​មុន">
 
 <!ENTITY go "ទៅ">
 <!ENTITY search "ស្វែងរក">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក​ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា ហើយ​បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
+<!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
 
 <!ENTITY pref_category_home "ដើម">
 <!ENTITY pref_category_home_summary "ប្ដូរ​គេហទំព័រ​​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_home_panels "បន្ទះ">
-<!ENTITY pref_home_add_panel "បន្ថែម​បន្ទះ">
 <!ENTITY home_add_panel_title "បន្ថែម​បន្ទះ​ថ្មី">
 <!ENTITY home_add_panel_empty "សូមទោស, យើង​មិន​អាច​រក​ឃើញ​បន្ទះ​ណាមួយ​សម្រាប់​អ្នក​ដើម្បី​បន្ថែម​ឡើយ។">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
-<!ENTITY pref_clear_private_data "សម្អាត​ទិន្នន័យ​ឯកជន">
+<!ENTITY pref_clear_private_data2 "សម្អាត​ឥឡូវ​">
+<!ENTITY pref_clear_private_data_category "សម្អាត​ទិន្នន័យ​ឯកជន">
+<!ENTITY pref_clear_on_exit_title "តែងតែ​សម្អាត​ពេល​បិទ">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ស្វ័យ​ប្រវត្តិ​ពេលណា​​ដែលអ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយមេ">
+<!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
 <!ENTITY pref_plugins_enabled "បាន​បើក">
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "ផ្ទាំង​ថ្មី">
 <!ENTITY new_private_tab "ផ្ទាំង​ឯកជន​ថ្មី">
 <!ENTITY close_all_tabs "បិទ​ផ្ទាំង​ទាំងអស់">
+<!ENTITY close_private_tabs "បិទ​ផ្ទាំង​ឯកជន">
 <!ENTITY tabs_normal "ផ្ទាំង">
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
-<!ENTITY contextmenu_open_in_reader "បើក​ក្នុង​កម្មវីធី​អាន">
 <!ENTITY contextmenu_remove "យកចេញ">
 <!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
 <!ENTITY contextmenu_share "ចែករំលែក">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនទេ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
+<!ENTITY home_closed_tabs_title "ផ្ទាំង​បាន​បិទ​ថ្មីៗ">
 <!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
-<!ENTITY home_last_tabs_open "បើក​ផ្ទាំង​ទាំងអស់​ពី​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
-<!ENTITY home_most_recent_title "ថ្មី​បំផុត">
+<!ENTITY home_open_all "បើកទាំង​អស់">
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "ឡើង​ដល់ &formatS;">
+
+<!ENTITY private_browsing_title "ការ​រក​មើល​ឯកជន">
+<!ENTITY private_tabs_panel_empty_desc "ផ្ទាំង​ឯកជន​របស់អ្នក​នឹង​បង្ហាញ​នៅ​ទីនេះ។ ខណៈ​ដែលយើង​មិន​រក្សាទុកប្រវត្តិ ឬ​ខូឃី​, ចំណាំ និង​ឯកសារ​រុករក​របស់អ្នកណា​មួយ ដែលអ្នកទាញយក​នឹង​នៅ​តែ​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។">
+<!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់បន្ថែម?">
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 

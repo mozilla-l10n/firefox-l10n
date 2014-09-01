@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "គណនី Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "ប្រើ​គណនីលើ​ម៉ាស៊ីន​មេ">
+<!ENTITY fxaccount_custom_server_sync_title "រក្សាទុក​ទិន្នន័យ​ធ្វើ​សមកាលកម្ម​លើម៉ាស៊ីន​មេ">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
+<!ENTITY fxaccount_status_auth_server "ម៉ាស៊ីន​មេ​គណនី">
 <!ENTITY fxaccount_status_device_name "ឈ្មោះ​ឧបករណ៍">
+<!ENTITY fxaccount_status_sync_server "ធ្វើ​សមកាលកម្មម៉ាស៊ីន​មេ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: បាន​បើក">
 <!ENTITY fxaccount_status_needs_verification2 "ចាំបាច់​ត្រូវ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក។ ប៉ះ​ដើម្បី​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់​ឡើង​វិញ។">
