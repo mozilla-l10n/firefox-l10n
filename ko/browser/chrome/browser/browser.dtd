@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label	"모든 탭 다시 읽기">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey	"A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label	"모든 탭 북마크…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey	"T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label	" 닫은 탭 다시 열기">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey	"U">
+
 <!ENTITY pageSourceCmd.label "소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "앱 관리자">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "웹 IDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "개발자 도구">
@@ -700,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "공유할 카메라:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "공유할 창 또는 화면:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey	"W">
 <!ENTITY getUserMedia.selectMicrophone.label "공유할 마이크:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message	"화면에 표시되어 있는 모든 창을 공유합니다.">
 
 <!ENTITY webrtcIndicatorButton.label "카메라 / 마이크 사용">
 <!ENTITY webrtcIndicatorButton.tooltip "현재 카메라나 마이크를 공유하고 있는 사이트 표시">
+
+<!ENTITY loopCallButton.tooltip	"영상 통화 초대">
 
 <!ENTITY mixedContentBlocked.moreinfo "대부분의 웹 사이트는 이 콘텐츠를 차단하더라도 여전히 잘 돌아갑니다.">
 
