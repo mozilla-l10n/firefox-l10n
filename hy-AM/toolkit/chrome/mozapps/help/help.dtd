@@ -21,7 +21,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Սկիզբ">
-<!ENTITY homeButton.tooltip             "Գնալ դեպի Օգն. Սկզբնաէջը">
+<!ENTITY homeButton.tooltip             "Գնալ Օգնության Սկզբնաէջը">
 <!ENTITY printButton.label              "Տպել">
 <!ENTITY printButton.tooltip            "Տպել այս էջը">
 <!ENTITY closeWindow.commandkey         "W">
