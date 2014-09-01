@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "点击显示更多选项">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新确认">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "发送一个再次确认到组织者">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "保存副本">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "在日历中保存一份只回复组织者的独立事件副本，参加者列表被清空。">
 <!ENTITY lightning.imipbar.btnTentative.label                               "暂定">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "暂时接受事件邀请">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "暂定全部">
