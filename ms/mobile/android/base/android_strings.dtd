@@ -104,7 +104,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan yang panjang pada medan carian kemudian sentuh ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
-
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
 <!ENTITY pref_remember_signons "Ingat kata laluan">
 
@@ -231,7 +231,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
-
+<!ENTITY datareporting_wifi_geolocation_summary "Menerima Wi-Fi dan data lokasi selular apabila berjalan di latar belakang dan kongsi dengan &vendorShortName; untuk meningkatkan perkhidmatan geolokasi kami">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -351,7 +351,7 @@ size. -->
 <!ENTITY home_top_sites_add "Tambah sebuah laman">
 
 <!ENTITY home_history_title "Sejarah">
-
+<!ENTITY home_clear_history_button "Bersihkan sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
 <!ENTITY home_closed_tabs_title "Tab ditutup baru-baru ini">
@@ -476,3 +476,5 @@ dari Android">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Terakhir disync: &formatS;">
