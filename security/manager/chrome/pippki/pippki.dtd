@@ -90,7 +90,3 @@
 <!ENTITY protectedAuth.title "Goongɗitingol Token Cuuraaɗo">
 <!ENTITY protectedAuth.msg "Tiiɗno goongɗitin to token oo. Feere oongɗitingol fawii ko e fannu token maa.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
-
-<!ENTITY certErrorDlg.title "Ceŋagol Kisnangol Woorii">
-<!ENTITY certErrorDlg.info1 "Ɗum ena waawi wonde caɗeele teelte sarworde ndee walla ena waawi wonde won etotooɗo ƴemmbude sarworde ndee.">
-<!ENTITY certErrorDlg.info2 "So a meeɗiino seŋaade moƴƴol e ndee sarworde ko adii ɗum, juumre ndee maa taw duumotaako tee aɗa waawi etaade goɗngol.">

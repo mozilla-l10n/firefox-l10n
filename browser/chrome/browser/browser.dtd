@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Hesɗitin Tabbere">
 <!ENTITY  reloadTab.accesskey                "H">
-<!ENTITY  reloadAllTabs.label                "Hesɗitin Tabbe Fof">
-<!ENTITY  reloadAllTabs.accesskey            "F">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Dentol Kesol">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
-<!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
-<!ENTITY  bookmarkAllTabs.accesskey          "K">
-<!ENTITY  undoCloseTab.label                 "Firtu Uddol Tabbere">
-<!ENTITY  undoCloseTab.accesskey             "F">
+
+
+
+
 <!ENTITY  closeTab.label                     "Uddu Tabbere">
 <!ENTITY  closeTab.accesskey                 "U">
 
@@ -81,6 +81,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Palal Maantore">
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Maantorto Teme Palal Kuutorɗe">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Dokkol Ɗaɗol Hello">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -259,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "o">
 <!ENTITY devAppMgrMenu.label               "Toppitorde Jaaɓɗe">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggilo Kuutorɗe">
@@ -545,12 +553,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "&amp;Windows e kenorɗe denndeteeɗe">
 
 <!ENTITY fullZoomReduceCmd.label        "Lonngo Woɗɗa">
 <!ENTITY fullZoomReduceCmd.accesskey    "W">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "&amp;Window walla henorde renndeteende">
 
 <!ENTITY fullZoomResetCmd.label         "Firlit">
 <!ENTITY fullZoomResetCmd.accesskey     "F">
@@ -701,11 +709,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+
+
 <!ENTITY getUserMedia.selectMicrophone.label "Mikkoroo lollinteeɗo:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+
 <!ENTITY webrtcIndicatorButton.label "Keɓgol Kameraa / Mikkoroo">
 <!ENTITY webrtcIndicatorButton.tooltip "Hollir lowe ɗe ngon-ɗaa e lollinde kameraa e mikkoroo maa e mum'en">
+
+<!ENTITY loopCallButton.tooltip "Bismo gooto yoo haal">
 
 <!ENTITY mixedContentBlocked.moreinfo "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">
 
