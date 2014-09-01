@@ -725,7 +725,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked2.message "Contenu non sécurisé">
 <!ENTITY mixedContentBlocked2.moreinfo "Certains éléments non chiffrés sur ce site web ont été bloqués.">
-<!ENTITY mixedContentBlocked2.learnMore "En svoir plus">
+<!ENTITY mixedContentBlocked2.learnMore "En savoir plus">
 <!ENTITY mixedContentBlocked2.options "Options">
 <!ENTITY mixedContentBlocked2.unblock.label "Désactiver la protection pour l'instant">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
