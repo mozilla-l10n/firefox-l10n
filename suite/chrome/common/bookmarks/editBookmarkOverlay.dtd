@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "关键词：">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "显示所有标签">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "在侧栏中载入此书签">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "o">
 <!ENTITY editBookmarkOverlay.choose.label                    "选择…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "新建文件夹">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
