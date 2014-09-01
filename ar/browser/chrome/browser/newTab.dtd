@@ -8,6 +8,6 @@
 <!ENTITY newtab.undo.undoButton "تراجَع.">
 <!ENTITY newtab.undo.restoreButton "استعد الكل.">
 <!ENTITY newtab.undo.closeTooltip "أخفِ">
-
-
+<!ENTITY newtab.sponsored.release.message "اقتُرِح هذا الموقع المدعوم لأننا نأمل أنك تهتم بما يقدمه و لأنه يدعم مهمة موزيلا.">
+<!ENTITY newtab.sponsored.trial.message2 "اقتُرِح هذا الموقع لأننا نأمل أنك تهتم بما يقدمه و لأنه يدعم مهمة موزيلا.">
 <!ENTITY newtab.panel.link.text "اطّلع على المزيد…">
