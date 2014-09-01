@@ -860,9 +860,9 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "链接另存为…">
+<!ENTITY saveLinkAsCmd.label "将链接另存为…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "图像另存为…">
+<!ENTITY saveImageAsCmd.label "将图像另存为…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey "L">
