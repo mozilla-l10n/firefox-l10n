@@ -42,6 +42,6 @@
   -  is clicked -->
 
 <!ENTITY csscoverage.footer1 "Guna">
-
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "MDN alhabar hantumoo CSS laasaabay jinaa ga">
 <!ENTITY csscoverage.footer4 "yaamarey se bayrandoo woo teeyanoo ra.">

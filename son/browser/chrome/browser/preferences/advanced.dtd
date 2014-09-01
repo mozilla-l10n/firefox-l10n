@@ -129,8 +129,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Hãa waati foo kul">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.">
+<!ENTITY enableOCSP.accesskey            "H">
 <!ENTITY viewCerts.label                 "Tabatiyan-tiirawey guna">
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewSecurityDevices.label       "Saajaw jinawey">

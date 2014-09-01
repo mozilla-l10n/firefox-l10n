@@ -17,8 +17,10 @@
 <!ENTITY netmonitorUI.perfNotice2         "butoŋ ka šintin ka teeyan sahã fesu-fesu.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "Dam taaga">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• Wiriyan sanba wala">
+<!ENTITY netmonitorUI.reloadNotice2       "Dam taaga">
+<!ENTITY netmonitorUI.reloadNotice3       "moo cee ka dii alhabar fellante sankaa dirayanoo ga. ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 

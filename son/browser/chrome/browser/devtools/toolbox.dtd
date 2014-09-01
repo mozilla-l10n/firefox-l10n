@@ -69,6 +69,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Chrome nda tontoni hansekaw tunandi">
+<!ENTITY options.enableChrome.tooltip2  "Suubaroo woo tunandiroo ka too war ma hin ka goy nda cinakaw waaniyaŋ ceecikaw šilbayboŋ ra nda ka tontoney hansa nda tontoni juwalkaa">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -85,6 +87,8 @@
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "Tugudoo kayandi (nda goyjinay bata ga feera)">
+<!ENTITY options.disableCache.tooltip2   "Suubaroo woo tunandiroo ka too tugudoo ma kay nor lokey kaŋ goyjinay bata ga feeri se.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -166,12 +170,15 @@ Gecko goydaari jinay tammaasayaŋ">
   -  section. -->
 
 
-
-
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.label                     "Fasalkaw ibaayey">
+<!ENTITY options.sourceeditor.detectindentation.label   "Hirri-noryan maate">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Hirri-noryan hiise aššil gundekuna bande">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Boŋdaabu holgey">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Holgu daabuyan dam nga boŋ se">
+<!ENTITY options.sourceeditor.expandtab.label           "Hirri nor nda farrey">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Goy nda farrey, manti nor loku harfu ">
+<!ENTITY options.sourceeditor.tabsize.label             "Nor loku azzaati">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "N">
+<!ENTITY options.sourceeditor.keybinding.label          "Kufalhawarey">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Tilasu">
