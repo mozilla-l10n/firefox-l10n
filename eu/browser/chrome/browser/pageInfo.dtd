@@ -50,7 +50,7 @@
 
 <!ENTITY  permTab               "Baimenak">
 <!ENTITY  permTab.accesskey     "B">
-<!ENTITY  permUseDefault        "Erabili lehenetsitakoa">
+<!ENTITY  permUseDefault        "Erabili lehenetsia">
 <!ENTITY  permAskAlways         "Galdetu beti">
 <!ENTITY  permAllow             "Onartu">
 <!ENTITY  permAllowSession      "Onartu saiorako">
