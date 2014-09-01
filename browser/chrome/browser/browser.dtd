@@ -563,63 +563,63 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip 	"Fechar barra lateral">
 
-<!ENTITY quitApplicationCmdWin.label 	"Sair">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmdWin.tooltip     "Sair do &brandShortName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label 		"Sair">
-<!ENTITY quitApplicationCmd.accesskey 	"S">
-<!ENTITY quitApplicationCmdMac.label 	"Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdWin.label		"Sair">
+<!ENTITY quitApplicationCmdWin.accesskey	"S">
+<!ENTITY quitApplicationCmdWin.tooltip		"Sair do &brandShortName;">
+<!ENTITY goBackCmd.commandKey				"[">
+<!ENTITY goForwardCmd.commandKey			"]">
+<!ENTITY quitApplicationCmd.label			"Sair">
+<!ENTITY quitApplicationCmd.accesskey		"S">
+<!ENTITY quitApplicationCmdMac.label		"Sair do &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key 	"Q">
+<!ENTITY quitApplicationCmdUnix.key 		"Q">
 
-<!ENTITY closeCmd.label 				"Fechar">
-<!ENTITY closeCmd.key 					"W">
-<!ENTITY closeCmd.accesskey 			"F">
+<!ENTITY closeCmd.label						"Fechar">
+<!ENTITY closeCmd.key						"W">
+<!ENTITY closeCmd.accesskey					"F">
 
-<!ENTITY pageStyleMenu.label "Estilo de página">
-<!ENTITY pageStyleMenu.accesskey "s">
-<!ENTITY pageStyleNoStyle.label "Sem estilo">
-<!ENTITY pageStyleNoStyle.accesskey "m">
-<!ENTITY pageStylePersistentOnly.label "Estilo básico da página">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStyleMenu.label				"Estilo de página">
+<!ENTITY pageStyleMenu.accesskey			"s">
+<!ENTITY pageStyleNoStyle.label				"Sem estilo">
+<!ENTITY pageStyleNoStyle.accesskey			"m">
+<!ENTITY pageStylePersistentOnly.label		"Estilo básico da página">
+<!ENTITY pageStylePersistentOnly.accesskey	"b">
 
-<!ENTITY pageReportIcon.tooltip "Mudar definições de janelas emergentes para este sítio">
+<!ENTITY pageReportIcon.tooltip				"Mudar definições de janelas emergentes para este sítio">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey				"p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editar preferências do bloqueador de janelas...">
-<!ENTITY editPopupSettings.label "Editar opções do bloqueador de janelas...">
-<!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY editPopupSettingsUnix.label		"Editar preferências do bloqueador de janelas...">
+<!ENTITY editPopupSettings.label			"Editar opções do bloqueador de janelas...">
+<!ENTITY editPopupSettings.accesskey		"E">
+<!ENTITY dontShowMessage.accesskey			"D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label 		"Mudar direção da página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey 	"g">
-<!ENTITY bidiSwitchTextDirectionItem.label 		"Mudar direção do texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey 	"x">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchPageDirectionItem.label		"Mudar direção da página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey	"g">
+<!ENTITY bidiSwitchTextDirectionItem.label		"Mudar direção do texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey	"x">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey	"X">
 
-<!ENTITY findOnCmd.label 		"Localizar nesta página...">
-<!ENTITY findOnCmd.accesskey 	"p">
-<!ENTITY findOnCmd.commandkey 	"f">
-<!ENTITY findAgainCmd.label 	"Localizar novamente">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.label						"Localizar nesta página...">
+<!ENTITY findOnCmd.accesskey					"p">
+<!ENTITY findOnCmd.commandkey					"f">
+<!ENTITY findAgainCmd.label						"Localizar novamente">
+<!ENTITY findAgainCmd.accesskey					"n">
+<!ENTITY findAgainCmd.commandkey				"g">
+<!ENTITY findAgainCmd.commandkey2				"VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Adicionar dicionários...">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.label				"Adicionar dicionários...">
+<!ENTITY spellAddDictionaries.accesskey			"A">
 
-<!ENTITY editBookmark.done.label "Concluir">
-<!ENTITY editBookmark.cancel.label "Cancelar">
-<!ENTITY editBookmark.removeBookmark.accessKey "r">
+<!ENTITY editBookmark.done.label				"Concluir">
+<!ENTITY editBookmark.cancel.label				"Cancelar">
+<!ENTITY editBookmark.removeBookmark.accessKey	"r">
 
-<!ENTITY identity.unverifiedsite2 "Este sítio web não fornece as informações de identidade.">
-<!ENTITY identity.connectedTo "Está ligado a">
+<!ENTITY identity.unverifiedsite2				"Este sítio web não disponibiliza as informações de identidade.">
+<!ENTITY identity.connectedTo					"Está ligado a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -631,25 +631,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "que é operado por">
+<!ENTITY identity.runBy							"que é operado por">
 
-<!ENTITY identity.moreInfoLinkText "Mais informação">
+<!ENTITY identity.moreInfoLinkText				"Mais informação">
 
-<!ENTITY identity.permissions "Permissões">
+<!ENTITY identity.permissions					"Permissões">
 
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Como é que posso saber se a ligação a um sítio web está protegida?">
+<!ENTITY identity.help.tooltip					"Como é que posso saber se a ligação a um sítio web está protegida?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Separadores do navegador">
+<!ENTITY tabsToolbar.label						"Separadores do navegador">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label "Separadores de outros dispositivos">
+<!ENTITY syncTabsMenu2.label					"Separadores de outros dispositivos">
 
-<!ENTITY syncBrand.shortName.label "Sincronizar">
+<!ENTITY syncBrand.shortName.label				"Sincronizar">
 
 <!ENTITY syncSetup.label 			"Configurar o &syncBrand.shortName.label;">
 <!ENTITY syncSetup.accesskey 		"C">
@@ -705,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Acesso ao equipamento/microfone">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostra os sítios partilhados com o seu equipamento ou microfone">
+
+<!ENTITY loopCallButton.tooltip "Convide alguém para falar">
 
 <!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar mesmo se este conteúdo for bloqueado.">
 
