@@ -110,7 +110,7 @@
 <!ENTITY fxaccount_full_label "Akaun Firefox">
 
 <!ENTITY fxaccount_custom_server_account_title "Guna akaun pada pelayan">
-
+<!ENTITY fxaccount_custom_server_sync_title "Menyimpan data Sync pada pelayan">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -180,14 +180,14 @@
 <!ENTITY fxaccount_status_signed_in_as "Daftar masuk sebagai">
 <!ENTITY fxaccount_status_auth_server "Pelayan akaun">
 <!ENTITY fxaccount_status_device_name "Nama peranti">
-
+<!ENTITY fxaccount_status_sync_server "Pelayan Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: dibolehkan">
 <!ENTITY fxaccount_status_needs_verification2 "Akaun anda perlu disahkan. Tap untuk hantar semula email pengesahan.">
 <!ENTITY fxaccount_status_needs_credentials "Tidak dapat menyambung. Tap untuk mendaftar masuk.">
 <!ENTITY fxaccount_status_needs_upgrade "Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Ketik untuk mulakan sync.">
 <!ENTITY fxaccount_status_bookmarks "Penandabuku">
 <!ENTITY fxaccount_status_history "Sejarah">
 <!ENTITY fxaccount_status_passwords "Kata laluan">

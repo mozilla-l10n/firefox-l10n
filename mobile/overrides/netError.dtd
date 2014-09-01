@@ -101,7 +101,10 @@ Sekuriti Peribadi yang terpasang.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Sambungan yang Selamat Gagal">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Laman yang anda cuba lihat tidah dapat ditunjukan kerana ketentusahan data yang diterima tidak dapat disahkan.</li> 
+<li>Sila hubungi pemilik laman web bagi melaporkan masalah ini.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
