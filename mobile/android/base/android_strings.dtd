@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY  history_title "നാള്‍വഴി">
 <!ENTITY  reading_list_title "വായനാ പട്ടിക">
+<!ENTITY  recent_tabs_title "ഒടുവില്‍ ഉപയോഗിച്ച ടാബുകള്‍">
 
 <!ENTITY  switch_to_tab "ടാബ് മാറ്റുക">
 
@@ -33,7 +34,7 @@
 
 <!ENTITY choose_file "ഫയല്‍ തിരഞ്ഞെടുക്കുക">
 
-<!ENTITY url_bar_default_text "തിരയല്‍ വാക്കോ വിലാസമോ ചേര്‍ക്കുക">
+<!ENTITY url_bar_default_text "തിരയല്‍/വാക്ക്">
 
 <!ENTITY bookmark "അടയാളക്കുറിപ്പു്">
 <!ENTITY bookmark_added "അടയാളം ചേര്‍ത്തു">
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "ഇന്നു്">
 <!ENTITY history_yesterday_section "ഇന്നലെ">
-<!ENTITY history_week_section "7 ദിവസം മുമ്പ്">
-<!ENTITY history_older_section "7 ദിവസങ്ങളേക്കാള്‍ മുമ്പ്">
+<!ENTITY history_week_section2 "കഴിഞ്ഞാഴ്ച">
+<!ENTITY history_older_section2 "കഴിഞ്ഞ മാസം">
 
 <!ENTITY go "പോവുക">
 <!ENTITY search "തിരയുക">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
 <!ENTITY pref_category_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
+<!ENTITY pref_developer_paint_flashing "പെയിന്റ് ഫ്ലാഷിങ്">
 <!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
 <!ENTITY pref_remember_signons "രഹസ്യവാക്കുകള്‍ ഓര്‍ത്തിരിക്കുക">
 
 <!ENTITY pref_category_home "ആസ്ഥാനം">
 <!ENTITY pref_category_home_summary "നിങ്ങളുടെ ഹോംപേജ്  ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY pref_category_home_panels "പാളികള്‍">
-<!ENTITY pref_home_add_panel "പാളി ചേര്‍ക്കുക">
 <!ENTITY home_add_panel_title "പുതിയ പാളി ചേര്‍ക്കുക">
 <!ENTITY home_add_panel_empty "ക്ഷമിക്കണം, നിങ്ങള്‍ക്ക് ചേര്‍ക്കാനായി പാളികളൊന്നും കണ്ടെത്താനായില്ല.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 <!ENTITY pref_char_encoding_on "മെനു കാണിക്കുക">
 <!ENTITY pref_char_encoding_off "മെനു കാണിക്കേണ്ട">
-<!ENTITY pref_clear_private_data "സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യുക">
+<!ENTITY pref_clear_private_data2 "ഇപ്പോള്‍ മായ്ക്കുക">
+<!ENTITY pref_clear_private_data_category "സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യുക">
+<!ENTITY pref_clear_on_exit_title "നിര്‍ത്തുമ്പോള്‍ എപ്പോഴും വെടിപ്പാക്കുക">
+<!ENTITY pref_clear_on_exit_summary "\&quot;പുറത്തു് കടക്കൂ\&quot; ആകുമ്പോള്‍ &brandShortName; ഡേറ്റാ വെടിപ്പാക്കുന്നു.">
+<!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
 <!ENTITY pref_plugins "പ്ലഗിനുകള്‍">
 <!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_plugins_tap_to_play "കളിക്കാൻ തട്ടൂ">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "പുതിയ ടാബ്">
 <!ENTITY new_private_tab "പുതിയ സ്വകാര്യ ടാബ്">
 <!ENTITY close_all_tabs "എല്ലാ ടാബും അടക്കുക">
+<!ENTITY close_private_tabs "സ്വകാര്യ റ്റാബുകള്‍ അടയ്ക്കൂ">
 <!ENTITY tabs_normal "ടാബുകള്‍">
 <!ENTITY tabs_private "സ്വകാര്യം">
 <!ENTITY tabs_synced "സിങ്ക് ചെയ്തു">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "പുതിയ ടാബില്‍ തുറക്കുക">
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
-<!ENTITY contextmenu_open_in_reader "വായിയ്ക്കുന്ന പ്രയോഗത്തില്‍ തുറക്കുക">
 <!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
 <!ENTITY contextmenu_share "പങ്കിടുക">
@@ -349,11 +354,11 @@ size. -->
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കൂ">
 <!ENTITY home_clear_history_confirm "താങ്കളുടെ നാൾ‌വഴി വെടിപ്പാക്കണമെന്നുറപ്പാണോ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
+<!ENTITY home_closed_tabs_title "അടുത്തിടെ അടച്ച റ്റാബുകള്‍">
 <!ENTITY home_last_tabs_title "ഒടുവിലത്തെ ടാബുകള്‍">
-<!ENTITY home_last_tabs_open "ഒടുവിലത്തെ ടാബുകള്‍ എല്ലാം തുറക്കുക">
 <!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക">
-<!ENTITY home_most_recent_title "ഏറ്റവും പുതിയ">
-<!ENTITY home_most_recent_empty "നിങ്ങൾ ഏറ്റവുമധികം സന്ദർശിച്ച വെബ്സൈറ്റുകൾ ഇവിടെ കാണിക്കുന്നു.">
+<!ENTITY home_open_all "എല്ലാം തുറക്കൂ">
+<!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
 <!ENTITY home_reading_list_empty "പിന്നീട് കാണാൻ നിങ്ങൾ സൂക്ഷിച്ച ലേഖനങ്ങൾ ഇവിടെ കാണിക്കുന്നു.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; വരെ">
+
+<!ENTITY private_browsing_title "സ്വകാര്യ ബ്രൗസിങ്">
+<!ENTITY private_tabs_panel_empty_desc "ഇവിടെ സ്വകാര്യ റ്റാബുകള്‍ കാണാം. നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുന്ന നാള്‍വഴി അല്ലെങ്കില്‍ കുക്കികള്‍ സൂക്ഷിയ്ക്കുന്നില്ലെങ്കിലും, ഡൌണ്‍ലോ‍ഡ് ചെയ്യുന്ന അടയാളക്കുറിപ്പുകളും ഫയലുകളും ഡിവൈസിലുണ്ടാകും.">
+<!ENTITY private_tabs_panel_learn_more "കൂടുതലറിയണോ?">
 
 <!ENTITY pin_site_dialog_hint "ഒരു സൂചകപദം അടിക്കുക">
 
