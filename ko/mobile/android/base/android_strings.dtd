@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "지금 삭제">
 <!ENTITY pref_clear_private_data_category "개인 정보 삭제">
 <!ENTITY pref_clear_on_exit_title "종료 시 항상 삭제">
-<!ENTITY pref_clear_on_exit_summary "주 메뉴를 통해 &quot;종료&quot; 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
+<!ENTITY pref_clear_on_exit_summary "주 메뉴를 통해 \"종료\" 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
 <!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
 <!ENTITY pref_plugins "플러그인">
 <!ENTITY pref_plugins_enabled "사용하기">
