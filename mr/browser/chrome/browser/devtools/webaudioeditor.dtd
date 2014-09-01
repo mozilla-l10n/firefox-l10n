@@ -28,7 +28,13 @@
 <!ENTITY webAudioEditorUI.tab.properties  "पॅरामिटर">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "AudioNode इंस्पेक्टर">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+
+<!ENTITY webAudioEditorUI.inspectorEmpty  "AudioNode पसंत केले नाही.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+
+<!ENTITY webAudioEditorUI.propertiesEmpty "नोडकडे कोणतेही गुणधर्म अस्तित्वात नाही.">

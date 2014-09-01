@@ -104,7 +104,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterMedia  "मिडीया">
+<!ENTITY netmonitorUI.footer.filterMedia  "मीडिया">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
 
@@ -202,7 +202,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
-<!ENTITY netmonitorUI.context.copyUrl     "URLचे प्रत बनवा">
+<!ENTITY netmonitorUI.context.copyUrl     "URL ची प्रत करा">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -216,7 +216,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "प्रतिमाचे डाटा URI म्हणून प्रत बनवा">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "प्रतिमातील डाटाचे URI म्हणून प्रत बनवा">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 
