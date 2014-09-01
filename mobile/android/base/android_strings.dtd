@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Favoritos">
 <!ENTITY  history_title "Histórico">
 <!ENTITY  reading_list_title "Lista de leitura">
+<!ENTITY  recent_tabs_title "Abas recentes">
 
 <!ENTITY  switch_to_tab "Selecionar esta aba">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hoje">
 <!ENTITY history_yesterday_section "Ontem">
-<!ENTITY history_week_section "Há 7 dias">
-<!ENTITY history_older_section "Há mais de 7 dias">
+<!ENTITY history_week_section2 "Última semana">
+<!ENTITY history_older_section2 "Último mês">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Pesquisar">
@@ -61,8 +62,8 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; abas">
-<!ENTITY new_tab_opened "Aberta uma nova aba">
-<!ENTITY new_private_tab_opened "Aberta uma nova aba privativa">
+<!ENTITY new_tab_opened "Nova aba aberta">
+<!ENTITY new_private_tab_opened "Aba privativa aberta">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "DICA: adicione qualquer site para sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e então tocando no ícone &formatI;.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
+<!ENTITY pref_developer_paint_flashing "Realçar regiões atualizadas">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_remember_signons "Memorizar senhas">
 
 <!ENTITY pref_category_home "Página inicial">
 <!ENTITY pref_category_home_summary "Personalize sua página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
-<!ENTITY pref_home_add_panel "Adicionar painel">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
 <!ENTITY home_add_panel_empty "Desculpe, não encontramos nenhum painel para adicionar.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Exibir menu">
 <!ENTITY pref_char_encoding_off "Não exibir menu">
-<!ENTITY pref_clear_private_data "Limpar dados de navegação">
+<!ENTITY pref_clear_private_data2 "Limpar agora">
+<!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
+<!ENTITY pref_clear_on_exit_title "Sempre limpar ao sair">
+<!ENTITY pref_clear_on_exit_summary "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” do menu principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativados">
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nova aba">
 <!ENTITY new_private_tab "Nova aba privativa">
 <!ENTITY close_all_tabs "Fechar todas as abas">
+<!ENTITY close_private_tabs "Fechar abas privativas">
 <!ENTITY tabs_normal "Abas">
 <!ENTITY tabs_private "Privativas">
 <!ENTITY tabs_synced "Sincronizadas">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
 <!ENTITY contextmenu_open_private_tab "Abrir em aba privativa">
-<!ENTITY contextmenu_open_in_reader "Abrir no leitor">
 <!ENTITY contextmenu_remove "Excluir">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Limpar histórico">
 <!ENTITY home_clear_history_confirm "Tem certeza que deseja limpar seu histórico?">
 <!ENTITY home_bookmarks_empty "Seus favoritos serão mostradas aqui.">
+<!ENTITY home_closed_tabs_title "Abas fechadas">
 <!ENTITY home_last_tabs_title "Abas anteriores">
-<!ENTITY home_last_tabs_open "Restaurar todas as abas anteriores">
 <!ENTITY home_last_tabs_empty "Suas abas recentes serão mostradas aqui.">
-<!ENTITY home_most_recent_title "Mais recentes">
+<!ENTITY home_open_all "Reabrir todas">
 <!ENTITY home_most_recent_empty "Sites visitados recentemente serão mostrados aqui.">
 <!ENTITY home_reading_list_empty "Artigos salvos para depois serão mostrados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Voltar para &formatS;">
+
+<!ENTITY private_browsing_title "Navegação privativa">
+<!ENTITY private_tabs_panel_empty_desc "Suas abas privativas serão mostradas aqui. Apesar de não mantermos nenhum de seus dados de navegação ou cookies, os favoritos e downloads serão salvos em seu dispositivo.">
+<!ENTITY private_tabs_panel_learn_more "Deseja saber mais?">
 
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
