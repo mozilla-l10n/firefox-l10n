@@ -16,3 +16,13 @@
 <!ENTITY crashReports.caption "Zgłaszanie awarii">
 <!ENTITY submitCrashes.label "Przesyłaj zgłoszenia awarii">
 <!ENTITY submitCrashes.accesskey "z">
+
+<!ENTITY devTools.caption "Narzędzia dla programistów">
+<!ENTITY allowDebugger.label "Zezwalaj debugerom na łączenie z programem &brandShortName;">
+<!ENTITY allowDebugger.accesskey "d">
+<!ENTITY allowRemoteConnections.label "Zezwalaj na połączenia z innych komputerów">
+<!ENTITY allowRemoteConnections.accesskey "e">
+<!ENTITY connectionPrompt.label "Wyświetlaj zapytanie w przypadku połączeń przychodzących">
+<!ENTITY connectionPrompt.accesskey "W">
+<!ENTITY remoteDebuggerPort.label "Numer portu dla połączenia:">
+<!ENTITY remoteDebuggerPort.accesskey "N">
