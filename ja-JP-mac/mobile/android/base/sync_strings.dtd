@@ -174,7 +174,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error 'サインインできませんでした'>
 
 <!ENTITY fxaccount_status_header2 'Firefox アカウント'>
-<!ENTITY fxaccount_status_signed_in_as 'としてサインイン'>
+<!ENTITY fxaccount_status_signed_in_as 'サインインユーザ'>
 <!ENTITY fxaccount_status_device_name 'デバイス名'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; は有効です'>
