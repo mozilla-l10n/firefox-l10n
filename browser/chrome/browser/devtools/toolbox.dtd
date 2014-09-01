@@ -18,6 +18,7 @@
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -30,6 +31,8 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "ब्राउजर शैली दाखवा">
+<!ENTITY options.showUserAgentStyles.tooltip "याला सुरू करून ब्राउजरतर्फे लोड करण्याजोगी पूर्वनिर्धारित शेली दाखवले जाईल.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -66,6 +69,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "chrome आणि ॲडऑन डिबगिंग सुरू करा">
+<!ENTITY options.enableChrome.tooltip2  "हे पर्याय सुरू करून तुम्ही विविध डेव्हलपर साधने आणि ॲड-ऑन्स व्यवस्थापकातील डिबग ॲडऑन्स्चा ब्राउजर संदर्भात वापर करू शकता">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -81,6 +86,8 @@
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
+
+<!ENTITY options.disableCache.label2     "कॅशे बंद करा (साधनपेटी खुले असतेवेळी)">
 <!ENTITY options.disableCache.tooltip2   "हा पर्याय सुरू केल्याने साधनपेटी खुले असणाऱ्या सर्व टॅब्जकरिता कॅशे बंद केले जाईल.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -172,6 +179,6 @@ Gecko प्लॅटफॉर्म सिम्बल्स">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "टॅब अक्षराऐवजी मोकळ्या जागेचा वापर करा">
 <!ENTITY options.sourceeditor.tabsize.label             "टॅब आकार">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-
-
-
+<!ENTITY options.sourceeditor.keybinding.label          "किबाइंडिंग्ज">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "पूर्वनिर्धारीत">

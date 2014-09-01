@@ -44,6 +44,8 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
+<!ENTITY mediaRules.label           "@media नियम">
+
 <!ENTITY editorTextbox.placeholder  "येथे CSS टाइप करा.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
