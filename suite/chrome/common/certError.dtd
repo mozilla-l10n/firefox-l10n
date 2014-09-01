@@ -13,6 +13,7 @@ el sitio correcto. Sin embargo, la identidad de este sitio no se puede verificar
 <!ENTITY certerror.whatShouldIDo.content "Si normalmente conecta a
 este sitio web sin problemas, este error podría querer decir que alguien
 está intentando hacerse pasar por el sitio, y no debería continuar.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa Seguridad estricta de transporte de HTTP (HSTS) para especificar que &brandShortName; sólo se conecte a él de modo seguro. Como resultado, no es posible añadir una excepción para este certificado.">
 <!ENTITY certerror.getMeOutOfHere.label "Esto tiene mala pinta, mejor llévame a mi página de inicio">
 <!ENTITY certerror.expert.heading "Entiendo los riesgos">
 <!ENTITY certerror.expert.content "Si entiende lo que sucede, puede indicar a
