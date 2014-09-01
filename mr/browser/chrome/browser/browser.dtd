@@ -266,8 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "ॲप मॅनेजर">
 <!ENTITY devAppMgrMenu.accesskey           "A">
-
-
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "साधने बदलवा">
@@ -447,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटॉप पार्श्वभूमी म्हणून सेट करा…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "या पृष्ठाला वाचखुण लावा">
 <!ENTITY bookmarkThisLinkCmd.label      "ह्या दुव्याला वाचनखूण लावा">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "या चौकटाला वाचनखूण लावा">
