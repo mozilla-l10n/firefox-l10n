@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível.">
 <!ENTITY aboutPage.checkForUpdates.available2   "Receber atualização">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Recebendo a atualização…">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Recebendo atualização…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">
 <!ENTITY aboutPage.faq.label                    "Dúvidas frequentes">
 <!ENTITY aboutPage.support.label                "Suporte">
