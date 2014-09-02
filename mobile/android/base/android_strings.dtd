@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Yer imleri">
 <!ENTITY  history_title "Geçmiş">
 <!ENTITY  reading_list_title "Okuma Listesi">
+<!ENTITY  recent_tabs_title "Son sekmeler">
 
 <!ENTITY  switch_to_tab "Sekmeye geç">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dün">
-<!ENTITY history_week_section "7 gün önce">
-<!ENTITY history_older_section "7 günden eski">
+<!ENTITY history_week_section2 "Geçen hafta">
+<!ENTITY history_older_section2 "Geçen ay">
 
 <!ENTITY go "Git">
 <!ENTITY search "Ara">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 
 <!ENTITY pref_category_home "Başlangıç">
 <!ENTITY pref_category_home_summary "Başlangıç sayfanızı özelleştirin">
 <!ENTITY pref_category_home_panels "Paneller">
-<!ENTITY pref_home_add_panel "Panel ekle">
 <!ENTITY home_add_panel_title "Yeni panel ekle">
 <!ENTITY home_add_panel_empty "Üzgünüz, ekleyebileceğiniz bir panel bulamadık.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
-<!ENTITY pref_clear_private_data "Özel verileri sil">
+<!ENTITY pref_clear_private_data2 "Şimdi temizle">
+<!ENTITY pref_clear_private_data_category "Özel verileri sil">
+<!ENTITY pref_clear_on_exit_title "Çıkarken her zaman temizle">
+<!ENTITY pref_clear_on_exit_summary "Ana menüden \&quot;Çık\&quot;ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
+<!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
 <!ENTITY pref_plugins_enabled "Etkin">
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokun">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Yeni sekme">
 <!ENTITY new_private_tab "Yeni gizli sekme">
 <!ENTITY close_all_tabs "Tüm sekmeleri kapat">
+<!ENTITY close_private_tabs "Gizli sekmeleri kapat">
 <!ENTITY tabs_normal "Sekmeler">
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
 <!ENTITY contextmenu_open_private_tab "Gizli sekmede aç">
-<!ENTITY contextmenu_open_in_reader "Okuyucuda aç">
 <!ENTITY contextmenu_remove "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
 <!ENTITY contextmenu_share "Paylaş">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Tarama geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
+<!ENTITY home_closed_tabs_title "Son kapatılan sekmeler">
 <!ENTITY home_last_tabs_title "Son oturumdaki sekmeler">
-<!ENTITY home_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
 <!ENTITY home_last_tabs_empty "Son sekmeleriniz burada görünür.">
-<!ENTITY home_most_recent_title "En son">
+<!ENTITY home_open_all "Hepsini aç">
 <!ENTITY home_most_recent_empty "Son ziyaret ettiğiniz siteler burada görünür.">
 <!ENTITY home_reading_list_empty "Daha sonra okumak üzere kaydettiğiniz yazılar burada görünür.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Yukarı: &formatS;">
+
+<!ENTITY private_browsing_title "Gizli Tarama">
+<!ENTITY private_tabs_panel_empty_desc "Gizli sekmeleriniz burada görünecek. Tarama geçmişiniz ve çerezleriniz kaydedilmemesine rağmen yer imleriniz ve indirdiğiniz dosyalar cihazınıza kaydedilecektir.">
+<!ENTITY private_tabs_panel_learn_more "Daha fazla bilgi almak ister misiniz?">
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
