@@ -208,7 +208,7 @@
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
-<!ENTITY media_casting_to "Trasmissione a dispositivo">
+<!ENTITY media_sending_to "Invio a dispositivo">
 <!ENTITY media_play "Riproduci">
 <!ENTITY media_pause "Pausa">
 <!ENTITY media_stop "Interrompi">
