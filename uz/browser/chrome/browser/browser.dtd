@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Ichki oynani yangilash">
 <!ENTITY  reloadTab.accesskey                "y">
-
-
+<!ENTITY  reloadAllTabs.label                "Barcha ichki oynalarni yangilash">
+<!ENTITY  reloadAllTabs.accesskey            "B">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Yangi guruh">
 <!ENTITY  moveToNewWindow.label              "Yangi oynaga ko‘chirish">
 <!ENTITY  moveToNewWindow.accesskey          "y">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
+<!ENTITY  bookmarkAllTabs.accesskey          "i">
+<!ENTITY  undoCloseTab.label                 "Yopilgan ichki oynani qaytarish">
+<!ENTITY  undoCloseTab.accesskey             "q">
 <!ENTITY  closeTab.label                     "Ichki oynani yopish">
 <!ENTITY  closeTab.accesskey                 "y">
 
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Manzilni ochish…">
 <!ENTITY openFileCmd.label "Faylni ochish…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -81,9 +82,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "X">
 <!ENTITY bookmarksToolbarItem.label "Xatcho‘plar paneli bandlari">
 
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Barcha ichki oynalarni yangilash">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
 
 
 
