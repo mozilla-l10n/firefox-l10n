@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
 <!ENTITY  reading_list_title "Läslistan">
+<!ENTITY  recent_tabs_title "Senaste flikarna">
 
 <!ENTITY  switch_to_tab "Byt till flik">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
-<!ENTITY history_week_section "7 dagar sedan">
-<!ENTITY history_older_section "Äldre än 7 dagar">
+<!ENTITY history_week_section2 "Förra veckan">
+<!ENTITY history_older_section2 "Förra månaden">
 
 <!ENTITY go "Gå till">
 <!ENTITY search "Sök">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
+<!ENTITY pref_developer_paint_flashing "Färg blixtrande ">
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
 <!ENTITY pref_category_home "Startsida">
 <!ENTITY pref_category_home_summary "Anpassa startsidan">
 <!ENTITY pref_category_home_panels "Paneler">
-<!ENTITY pref_home_add_panel "Lägg till panel">
 <!ENTITY home_add_panel_title "Lägg till ny panel">
 <!ENTITY home_add_panel_empty "Tyvärr, vi hittade inga paneler att lägga till.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
 <!ENTITY pref_char_encoding_off "Visa inte meny">
-<!ENTITY pref_clear_private_data "Rensa känslig data">
+<!ENTITY pref_clear_private_data2 "Rensa nu ">
+<!ENTITY pref_clear_private_data_category "Rensa känslig data">
+<!ENTITY pref_clear_on_exit_title "Rensa alltid vid avslut">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
+<!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverade">
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
@@ -208,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Välj vad som ska delas">
 <!ENTITY datareporting_notification_summary "För att förbättra upplevelsen skickar &brandShortName; automatiskt viss information till &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "För att förbättra upplevelsen …">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Ny flik">
 <!ENTITY new_private_tab "Ny privat flik">
 <!ENTITY close_all_tabs "Stäng alla flikar">
+<!ENTITY close_private_tabs "Stäng privata flikar">
 <!ENTITY tabs_normal "Flikar">
 <!ENTITY tabs_private "Privata">
 <!ENTITY tabs_synced "Synkade">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_open_private_tab "Öppna i privat flik">
-<!ENTITY contextmenu_open_in_reader "Öppna i läsaren">
 <!ENTITY contextmenu_remove "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
 <!ENTITY contextmenu_share "Dela">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
+<!ENTITY home_closed_tabs_title "Senaste stängda flikar">
 <!ENTITY home_last_tabs_title "Tidigare flikar">
-<!ENTITY home_last_tabs_open "Öppna alla flikar från senast">
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
-<!ENTITY home_most_recent_title "Senaste">
+<!ENTITY home_open_all "Öppna alla">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
 <!ENTITY home_reading_list_empty "Artiklar som du sparat till senare visas här.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Up till &formatS; ">
+
+<!ENTITY private_browsing_title "Privat surfning">
+<!ENTITY private_tabs_panel_empty_desc "Denna privata flikar dyker upp här. Vi sparar inget av din webläsarhistorik eller kakor, bokmärken och filer som du har laddat ner kommer fortfarande sparas på din enhet. ">
+<!ENTITY private_tabs_panel_learn_more "Vill du veta mer?">
 
 <!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
