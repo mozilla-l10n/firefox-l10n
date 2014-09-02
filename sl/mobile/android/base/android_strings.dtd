@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Zaznamki">
 <!ENTITY  history_title "Zgodovina">
 <!ENTITY  reading_list_title "Bralni seznam">
+<!ENTITY  recent_tabs_title "Nedavni zavihki">
 
 <!ENTITY  switch_to_tab "Preklopi na zavihek">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Danes">
 <!ENTITY history_yesterday_section "Včeraj">
-<!ENTITY history_week_section "7 dni nazaj">
-<!ENTITY history_older_section "Starejše od 7 dni">
+<!ENTITY history_week_section2 "Zadnji teden">
+<!ENTITY history_older_section2 "Zadnji mesec">
 
 <!ENTITY go "Pojdi">
 <!ENTITY search "Iskanje">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
+<!ENTITY pref_developer_paint_flashing "Utripanje izrisovanja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
 
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_summary "Prilagodite domačo stran">
 <!ENTITY pref_category_home_panels "Plošče">
-<!ENTITY pref_home_add_panel "Dodaj ploščo">
 <!ENTITY home_add_panel_title "Dodaj novo ploščo">
 <!ENTITY home_add_panel_empty "Oprostite, plošč za dodajanje ni bilo mogoče najti.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
 <!ENTITY pref_char_encoding_off "Ne pokaži menija">
-<!ENTITY pref_clear_private_data "Počisti zasebne podatke">
+<!ENTITY pref_clear_private_data2 "Počisti zdaj">
+<!ENTITY pref_clear_private_data_category "Počisti zasebne podatke">
+<!ENTITY pref_clear_on_exit_title "Vedno počisti ob izhodu">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali &quot;Izhod&quot;">
+<!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
 <!ENTITY pref_plugins "Vtičniki">
 <!ENTITY pref_plugins_enabled "Vključeno">
 <!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nov zavihek">
 <!ENTITY new_private_tab "Nov zasebni zavihek">
 <!ENTITY close_all_tabs "Zapri vse zavihke">
+<!ENTITY close_private_tabs "Zapri zasebne zavihke">
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
 <!ENTITY tabs_synced "Sinhronizirano">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Odpri v novem zavihku">
 <!ENTITY contextmenu_open_private_tab "Odpri v zasebnem zavihku">
-<!ENTITY contextmenu_open_in_reader "Odpri v bralniku">
 <!ENTITY contextmenu_remove "Odstrani">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na domači zaslon">
 <!ENTITY contextmenu_share "Deli">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
 <!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
 <!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
-<!ENTITY home_last_tabs_title "Nazadnje odprti zavihki">
+<!ENTITY home_closed_tabs_title "Nazadnje zaprti zavihki">
 <!ENTITY home_last_tabs_open "Odpri vse nazadnje odprte zavihke">
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši najnovejši zavihki.">
-<!ENTITY home_most_recent_title "Nedavno">
+<!ENTITY home_open_all "Odpri vse">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
 <!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za kasneje.">
 <!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Nazaj na &formatS;">
+
+<!ENTITY private_browsing_title "Zasebno brskanje">
+<!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškoti ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
+<!ENTITY private_tabs_panel_learn_more "Želite izvedeti več?">
 
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">
 
