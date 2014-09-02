@@ -105,10 +105,11 @@
 <!ENTITY sync.text.tab.sent.label "तुमचा टॅब पाठवला गेला!">
 <!ENTITY sync.text.tab.not.sent.label "तुमचा टॅब पाठवण्यात एक अडचण होती.">
 <!-- Firefox Account strings. -->
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
 
 <!ENTITY fxaccount_email_hint "इमेल">
 <!ENTITY fxaccount_password_hint "पासवर्ड">
@@ -173,6 +174,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
+
+
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्रीय">
 <!ENTITY fxaccount_status_needs_verification2 "तुमचे खाते प्रमाणित करण्याची गरज आहे. तपासणी इमेल परत पाठवण्यासाठी थाप मारा.">
