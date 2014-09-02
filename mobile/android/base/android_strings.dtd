@@ -149,7 +149,7 @@
 <!ENTITY pref_clear_private_data2 "Počisti zdaj">
 <!ENTITY pref_clear_private_data_category "Počisti zasebne podatke">
 <!ENTITY pref_clear_on_exit_title "Vedno počisti ob izhodu">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali &quot;Izhod&quot;">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali \&quot;Izhod\&quot;">
 <!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
 <!ENTITY pref_plugins "Vtičniki">
 <!ENTITY pref_plugins_enabled "Vključeno">
