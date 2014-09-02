@@ -47,8 +47,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmärk alla flikar...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-
-
+<!ENTITY  undoCloseTab.label                 "Ångra flikstängning">
+<!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Stäng flik">
 <!ENTITY  closeTab.accesskey                 "S">
 
@@ -82,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bokmärkesfältsposter">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Uppdatera alla flikar">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmärk alla flikar…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "m">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Ångra Stäng flik">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Å">
 
 <!ENTITY pageSourceCmd.label "Källkod">
 <!ENTITY pageSourceCmd.accesskey "ä">
@@ -238,7 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Pipett">
-<!ENTITY eyedropper.accesskey "y">
+<!ENTITY eyedropper.accesskey "Y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -265,8 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "U">
 <!ENTITY devAppMgrMenu.label               "Hantera appar">
 <!ENTITY devAppMgrMenu.accesskey           "A">
-
-
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Visa verktygen">
@@ -713,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectWindowOrScreen.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon att dela:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "Alla synliga fönster på din skärm kommer att delas.">
 
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofonåtkomst">
 <!ENTITY webrtcIndicatorButton.tooltip "Visar platser som du delar din kamera eller mikrofon med">
