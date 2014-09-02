@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDevices.title              "சாதனங்கள்">
 <!ENTITY aboutDevices.header             "உங்கள் சாதனங்கள்">
-<!ENTITY aboutDevices.refresh            "மீளமை">
+<!ENTITY aboutDevices.refresh            "புதுப்பி">
 <!ENTITY aboutDevices.addDeviceHeader    "சாதனத்தை சேர்">
 <!ENTITY aboutDevices.roku               "ரொக்கூ">
 <!ENTITY aboutDevices.chromecast         "குரோம்கேஸ்ட்">
