@@ -67,7 +67,7 @@
 <!ENTITY sync.configure.engines.title.tabs "கீற்றுகள்">
 <!-- Common text -->
 
-<!ENTITY sync.button.cancel.label "இரத்துசெய்">
+<!ENTITY sync.button.cancel.label "ரத்து">
 <!ENTITY sync.button.connect.label "இணை">
 <!ENTITY sync.button.ok.label "சரி">
 <!-- Account strings -->
@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "பயர்பாக்ஸ் கணக்குகள்">
+
+<!ENTITY fxaccount_custom_server_account_title "சேவையகத்தின் கணக்கைப் பயன்படுத்துகிறது">
+<!ENTITY fxaccount_custom_server_sync_title "ஒத்திசைவு தரவை சேவையகத்தில் சேமிக்கிறது">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
+<!ENTITY fxaccount_status_auth_server "கணக்கு சேவையகம்">
 <!ENTITY fxaccount_status_device_name "சாதனத்தின் பெயர்">
+<!ENTITY fxaccount_status_sync_server "ஒத்திசைவு சேவையகம்">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: செயல்படுத்தபட்டது">
 <!ENTITY fxaccount_status_needs_verification2 "உங்கள் கணக்கை சரிபார்க்க வேண்டியுள்ளது. சரிபார்ப்பு மின்னஞ்சலை மிண்டும் அனுப்ப தடவவும்.">
@@ -193,7 +198,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "சேவைகளின் விதிமுறைகள்">
-<!ENTITY fxaccount_status_linkprivacy "தனியுரிமை அறிவிப்புகளை">
+<!ENTITY fxaccount_status_linkprivacy "தனியுரிமை அறிவிப்புகள்">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

@@ -15,7 +15,7 @@
 <!ENTITY newPref.numberPlaceholder     "ஒரு எண்ணை உள்ளிடு">
 
 <!ENTITY newPref.toggleButton          "நிலைமாற்று">
-<!ENTITY newPref.cancelButton          "இரத்துசெய்">
+<!ENTITY newPref.cancelButton          "ரத்து">
 
 <!ENTITY contextMenu.copyPrefName      "பெயரை படியெடு">
 <!ENTITY contextMenu.copyPrefValue     "மதிப்பை படியெடு">

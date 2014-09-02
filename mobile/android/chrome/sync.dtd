@@ -21,7 +21,7 @@
 <!ENTITY sync.customServer          "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து">
 <!ENTITY sync.serverURL             "சேவையகத்தின் URL">
 <!ENTITY sync.setup.connect         "இணை">
-<!ENTITY sync.setup.cancel          "இரத்துசெய்">
+<!ENTITY sync.setup.cancel          "ரத்து">
 <!ENTITY sync.setup.tutorial        "எவ்வாறு என காட்டு">
 <!ENTITY sync.setup.waiting2        "மற்றொரு சாதனத்துக்காக காத்திருக்கவும்...">
 
