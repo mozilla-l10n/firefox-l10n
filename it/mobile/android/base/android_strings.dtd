@@ -61,6 +61,14 @@
 <!ENTITY pref_category_language "Lingua">
 <!ENTITY pref_browser_locale "Lingua del browser">
 <!ENTITY locale_system_default "Predefinita del sistema">
+<!ENTITY overlay_share_bookmark_btn_label "Aggiungi ai segnalibri">
+<!ENTITY overlay_share_reading_list_btn_label "Aggiungi a Elenco lettura">
+<!ENTITY overlay_share_header "Invia a &brandShortName;">
+<!ENTITY overlay_share_send_other "Invia a altri dispositivi">
+<!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
+<!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
+<!ENTITY overlay_share_retry "Riprova">
+<!ENTITY overlay_share_select_device "Seleziona dispositivo">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
