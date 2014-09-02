@@ -5,7 +5,7 @@
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 <!ENTITY onboard_start_message "¡Bienvenido a &brandShortName;!">
-<!ENTITY onboard_start_subtext "Comprometidos con usted, su privacidad y una web abierta">
+<!ENTITY onboard_start_subtext "Comprometidos contigo, tu privacidad y una web abierta">
 <!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY bookmarks_title "Marcadores">
@@ -61,6 +61,14 @@
 <!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 <!ENTITY locale_system_default "Predeterminado del sistema">
+<!ENTITY overlay_share_label "Añadir a &brandShortName;">
+<!ENTITY overlay_share_bookmark_btn_label "Marcador">
+<!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
+<!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
+<!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
+<!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
+<!ENTITY overlay_share_retry "Reintentar">
+<!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
