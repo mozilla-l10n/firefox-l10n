@@ -109,6 +109,9 @@
 
 <!ENTITY fxaccount_full_label 'Firefox Računi'>
 
+<!ENTITY fxaccount_custom_server_account_title 'Uporaba računa na strežniku'>
+<!ENTITY fxaccount_custom_server_sync_title 'Shranjevanje podatkov Sync na strežniku'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox Račun'>
 <!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
+<!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
 <!ENTITY fxaccount_status_device_name 'Ime naprave'>
+<!ENTITY fxaccount_status_sync_server 'Strežnik za Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: omogočen'>
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
