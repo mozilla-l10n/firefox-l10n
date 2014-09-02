@@ -12,6 +12,7 @@
 <!ENTITY  history_title "इतिहास">
 <!ENTITY  reading_list_title "वाचन यादी">
 
+
 <!ENTITY  switch_to_tab "टॅबवर जा">
 
 <!ENTITY  crash_reporter_title "&brandShortName; आपत्ती बातमीदार">
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "काल">
-<!ENTITY history_week_section "७ दिवसांपूर्वी">
-<!ENTITY history_older_section "७ दिवसांपेक्षा जुने">
+
+
 
 <!ENTITY go "चला">
 <!ENTITY search "शोधा">
@@ -63,10 +64,23 @@
 <!ENTITY num_tabs2 "&formatD; टॅब्स">
 <!ENTITY new_tab_opened "नवीन टॅब उघडले">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
+
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
 <!ENTITY pref_category_search3 "शोधा">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
 <!ENTITY pref_category_display "दृश्य">
@@ -86,13 +100,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
+
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
 <!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
 <!ENTITY pref_category_home_summary "घरपानाची स्वपसंती करा">
 <!ENTITY pref_category_home_panels "पटले">
-<!ENTITY pref_home_add_panel "पटल जोडा">
 <!ENTITY home_add_panel_title "नवीन पटल जोडा">
 <!ENTITY home_add_panel_empty "क्षमा करा, तुम्हाला जोडण्यासाठी आम्हाला कुठलेही पटले सापडली नाहीत.">
 <!-- Localization note (home_add_panel_installed):
@@ -103,12 +117,15 @@
 <!ENTITY pref_home_updates "स्वयंचलीत अद्ययावत">
 <!ENTITY pref_home_updates_enabled "चालु">
 <!ENTITY pref_home_updates_wifi "फक्त वाय-फायवर">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "स्वपसंती">
 <!ENTITY pref_header_display "दृश्य">
 <!ENTITY pref_header_privacy_short "गुप्तता">
-<!ENTITY pref_header_help "मदत">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "डेव्हलपर साधने">
 
@@ -125,7 +142,11 @@
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
 <!ENTITY pref_char_encoding_off "मेनु दाखवु नका">
-<!ENTITY pref_clear_private_data "खाजगी माहिती पुसुन टाका">
+
+<!ENTITY pref_clear_private_data_category "खाजगी माहिती पुसुन टाका">
+
+
+
 <!ENTITY pref_plugins "प्लगइन्स">
 <!ENTITY pref_plugins_enabled "कार्यान्वीत">
 <!ENTITY pref_plugins_tap_to_play "चालवण्यासाठी टिचकी मारा">
@@ -215,6 +236,7 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "फक्त वाय-फाय असेल तर">
 <!ENTITY pref_update_autodownload_never "कधीच नाही">
 <!ENTITY pref_update_autodownload_always "नेहमी">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "बाहेर पडा">
 
@@ -234,6 +256,7 @@ size. -->
 <!ENTITY new_tab "नवीन टॅब">
 <!ENTITY new_private_tab "नवीन खाजगी टॅब">
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
+
 <!ENTITY tabs_normal "टॅब्स">
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY tabs_synced "ताळमेळीत">
@@ -256,7 +279,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "नवीन टॅब मध्ये उघडा">
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
-<!ENTITY contextmenu_open_in_reader "वाचकात उघडा">
 <!ENTITY contextmenu_remove "काढा">
 <!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
 <!ENTITY contextmenu_share "शेअर करा">
@@ -278,8 +300,11 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar "शीर्षक पट्टी स्क्रोल करा">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
-<!ENTITY history_removed "पान काढले गेले">
+<!ENTITY page_removed "पान काढले गेले">
 
 <!ENTITY bookmark_edit_title "वाचनखुणेचे संपादन करा">
 <!ENTITY bookmark_edit_name "नाव">
@@ -294,7 +319,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
 
 <!ENTITY reading_list_added "पान तुमच्या वाचन यादीत जोडले गेले">
-<!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
 <!ENTITY reading_list_failed "तुमच्या वाचन यादीत पान जोडण्यात अयशस्वी">
 <!ENTITY reading_list_duplicate "पान अगोदरच तुमच्या वाचन यादीत">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -321,11 +345,13 @@ size. -->
 <!ENTITY home_top_sites_add "साईट जोडा">
 
 <!ENTITY home_history_title "इतिहास">
+
+
 <!ENTITY home_bookmarks_empty "तुम्ही साठवलेले वाचनखूणा येथे दिसतील.">
+
 <!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
-<!ENTITY home_last_tabs_open "मागील वेळच्या सगळ्या टॅब उघडा">
 <!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
-<!ENTITY home_most_recent_title "अगदी अलिकडील">
+
 <!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
 <!ENTITY home_reading_list_empty "नंतरसाठी साठवलेले लेख येथे दिसतील.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -344,6 +370,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; पर्यंत">
+
+<!ENTITY private_browsing_title "खाजगी रीत्या ब्राउझिंग">
+
+
 
 <!ENTITY pin_site_dialog_hint "शोधशब्द टाका">
 
@@ -434,3 +464,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "मेनू">
 <!ENTITY actionbar_done "पूर्ण">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
