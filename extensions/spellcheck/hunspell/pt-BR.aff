@@ -1,5 +1,5 @@
 # Licensing Information:
-# http://hg.mozilla.org/releases/l10n/mozilla-aurora/pt-BR/file/tip/extensions/spellcheck/hunspell/README.txt
+# http://hg.mozilla.org/releases/l10n/mozilla-beta/pt-BR/file/tip/extensions/spellcheck/hunspell/README.txt
 #
 # Source:
 # https://natura.di.uminho.pt/svn/main/dicionarios/jspell.pt/
@@ -351,7 +351,9 @@ SFX d   ível            ibilidades      ível
 SFX d   úvel            ubilidades      úvel
 SFX d   z               cidades         z
 
-SFX i Y 24
+SFX i Y 26
+SFX i   go              guismo          go
+SFX i   go              guismos         go
 SFX i   o               ismo            [^cçã]o
 SFX i   co              quismo          co
 SFX i   ço              cismo           ço
@@ -1407,7 +1409,7 @@ SFX J   e               ito             [^ã]e
 SFX J   o               ito             [^ã]o
 SFX J   0               zito            ão
 
-REP 39
+REP 41
 REP denovo     de_novo
 REP derrepente de_repente
 REP encima     em_cima
@@ -1415,6 +1417,8 @@ REP tui        twee
 REP pataquada  patacoada
 REP estória    história
 REP Beijing    Pequim
+REP Belarus    Bielorrússia
+REP Taipei     Taipé
 REP fotinha    fotinho
 REP abrid      abert
 REP cobrid     cobert
