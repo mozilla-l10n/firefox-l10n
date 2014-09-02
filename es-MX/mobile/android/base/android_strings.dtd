@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Lista de lectura">
+<!ENTITY  recent_tabs_title "Pestañas recientes">
 
 <!ENTITY  switch_to_tab "Cambiar a la pestaña">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section "Hace 7 días">
-<!ENTITY history_older_section "Más de 7 días">
+<!ENTITY history_week_section2 "Semana pasada">
+<!ENTITY history_older_section2 "Mes pasado">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Buscar">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Consejo: Agrega cualquier sitio web a tu lista de proveedores de búsqueda haciendo pulsación larga en su campo de búsqueda y tocando despúes el icono &formatI;. ">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_developer_paint_flashing "Resaltador de pintado">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personaliza tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
-<!ENTITY pref_home_add_panel "Agregar panel">
 <!ENTITY home_add_panel_title "Agregar panel nuevo">
 <!ENTITY home_add_panel_empty "Disculpa, no pudimos encontrar ningún panel para agregar.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Show menu">
 <!ENTITY pref_char_encoding_off "Don\u0027t show menu">
-<!ENTITY pref_clear_private_data "Clear private data">
+<!ENTITY pref_clear_private_data2 "Borrar ahora">
+<!ENTITY pref_clear_private_data_category "Clear private data">
+<!ENTITY pref_clear_on_exit_title "Siempre borrar cuando salga">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; automáticamente borrará tus datos cada vez que selecciones \&quot;Salir\&quot; del menú principal.">
+<!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos vas a borrar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "Tap to play">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY new_private_tab "Nueva pestaña privada">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY close_private_tabs "Cerrar pestañas privadas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privada">
 <!ENTITY tabs_synced "Sincronizado">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Abrir en una nueva pestaña">
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Borrar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que deseas borrar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que salvaste se mostrarán aquí.">
+<!ENTITY home_closed_tabs_title "Pestañas cerradas recientemente">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
-<!ENTITY home_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes se mostrarán aquí.">
-<!ENTITY home_most_recent_title "Más recientes">
+<!ENTITY home_open_all "Abrir todo">
 <!ENTITY home_most_recent_empty "Los sitios Web que visitaste recientemente se mostrarán aquí.">
 <!ENTITY home_reading_list_empty "Los artículos que guardes para verlos más tarde se mostrarán aquí.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Navegar a &formatS;">
+
+<!ENTITY private_browsing_title "Navegación Privada">
+<!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas se mostrarán aquí. Mientras que nosotros nos conservamos tu historial de búsqueda o cookies, los marcadores y archivos que descargaste aún estarán guardados en tu dispositivo.">
+<!ENTITY private_tabs_panel_learn_more "¿Quieres saber más?">
 
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
 
