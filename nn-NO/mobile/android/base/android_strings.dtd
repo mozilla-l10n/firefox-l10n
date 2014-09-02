@@ -4,7 +4,7 @@
 
 
 <!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starta.">
-<!ENTITY  error_loading_file "Ein feil oppstod ved freistnad på å lasta påkravde filer for køyring av &brandShortName;">
+<!ENTITY  error_loading_file "Ein feil oppstod ved freistnad på å lasta påkravde filer for å køyra &brandShortName;">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -74,7 +74,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataval">
 <!ENTITY pref_learn_more "Les meir">
-<!ENTITY pref_category_installed_search_engines "Installerte søkemotorar">
+<!ENTITY pref_category_installed_search_engines "Installerte søkjemotorar">
 <!ENTITY pref_category_add_search_providers "Legg til fleire søkjetilbydarar">
 <!ENTITY pref_category_search_restore_defaults "Still tilbake søkjetilbydarar">
 <!ENTITY pref_search_restore_defaults "Still tilbake til standardverdiar">
@@ -211,7 +211,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Last ned oppdateringer automatisk">
+<!ENTITY pref_update_autodownload2 "Last ned oppdateringar automatisk">
 <!ENTITY pref_update_autodownload_wifi "Berre over Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldri">
 <!ENTITY pref_update_autodownload_always "Alltid">
@@ -326,7 +326,7 @@ size. -->
 <!ENTITY home_last_tabs_open "Opna alle faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
 <!ENTITY home_most_recent_title "Nyleg brukt">
-<!ENTITY home_most_recent_empty "Nettstad som du sist besøkte vert viste her.">
+<!ENTITY home_most_recent_empty "Nettstad som du sist vitja vert vist her.">
 <!ENTITY home_reading_list_empty "Artiklar du lagrar for seinare vert viste her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.

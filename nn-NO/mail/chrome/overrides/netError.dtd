@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Tilgjenget til denne adressa er avgrensa">
+<!ENTITY deniedPortAccess.title "Tilgjenge til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tenar ikkje funnen">
@@ -104,11 +104,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Trygt samband feila">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Sida du prøver å opna kan ikkje visast fordi identiteten til mottekne data ikkje kunne stadfestast.</li>
-  <li>Kontakt eigarane av nettsida for å informere dei om problemet.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kan stadfestast at mottekne data er autentiske.</li>
+  <li>Kontakt nettstadeigaren og informer om problemet.</li>
+</ul>">
 
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul>

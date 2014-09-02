@@ -6,7 +6,7 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 
 <!-- Flyout when not connected -->
-<!ENTITY sync.flyout.presetup.description1     "Få tilgang til bokmerke, passord og opne faner på tvers av einingane dine">
+<!ENTITY sync.flyout.presetup.description1     "Få tilgang til bokmerke, passord og opna faner på tvers av einingane dine">
 <!ENTITY sync.flyout.presetup.setup.label      "Set opp &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up sync -->
@@ -16,7 +16,7 @@
 <!ENTITY sync.flyout.setup.manual.label_2      "Eg er ikkje nær datamaskina mi …">
 <!ENTITY sync.flyout.setup.description3        "Merk:">
 <!ENTITY sync.flyout.setup.description4_2      "For å finna &quot;Knyt til ei eining&quot;,">
-<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Opne &quot;Innstillingar&quot;, og vel &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Opna &quot;Innstillingar&quot;, og vel &quot;&syncBrand.shortName.label;&quot;">
 <!ENTITY sync.flyout.setup.description6_2      "[Android] Meir &gt; Innstillingar &gt; &syncBrand.shortName.label;
   	">
 
@@ -50,7 +50,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Knyt til">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Merk:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "For å finna koden,">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Opne &quot;Innstillinger&quot; og følg desse stega: &syncBrand.shortName.label; -&gt; Set opp &syncBrand.shortName.label; -&gt; Eg har ein konto">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Opna &quot;Innstillinger&quot; og følg desse stega: &syncBrand.shortName.label; -&gt; Set opp &syncBrand.shortName.label; -&gt; Eg har ein konto">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Meir &gt; Innstillingar &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igjen">
 
