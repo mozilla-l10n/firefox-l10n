@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
 <!ENTITY  reading_list_title "An liosta leughaidh">
+<!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
 
 <!ENTITY  switch_to_tab "Gearr leum gun taba">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "An-diugh">
 <!ENTITY history_yesterday_section "An-dè">
-<!ENTITY history_week_section "7 làithean air ais">
-<!ENTITY history_older_section "Nas sine na 7 làithean">
+<!ENTITY history_week_section2 "An t-seachdain seo chaidh">
+<!ENTITY history_older_section2 "Am mìos seo chaidh">
 
 <!ENTITY go "Rach ann">
 <!ENTITY search "Lorg">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige \u0027s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 
 <!ENTITY pref_category_home "Dhachaigh">
 <!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
 <!ENTITY pref_category_home_panels "Panailean">
-<!ENTITY pref_home_add_panel "Cuir panail ris">
 <!ENTITY home_add_panel_title "Cuir panail ùr ris">
 <!ENTITY home_add_panel_empty "Tha sinn duilich ach cha do lorg sinn panail sam bith as urrainn dhut a chur ris.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
-<!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
+<!ENTITY pref_clear_private_data2 "Falamhaich an-dràsta">
+<!ENTITY pref_clear_private_data_category "Falamhaich an dàta prìobhaideach">
+<!ENTITY pref_clear_on_exit_title "Falamhaich aig àm fàgail an-còmhnaidh">
+<!ENTITY pref_clear_on_exit_summary "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a bhriogas tu air \&quot;Fàg an-seo\&quot; sa phrìomh chlàr-taice">
+<!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
 <!ENTITY pref_plugins "Plugain">
 <!ENTITY pref_plugins_enabled "An comas">
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Taba ùr">
 <!ENTITY new_private_tab "Taba prìobhaideach ùr">
 <!ENTITY close_all_tabs "Dùin a h-uile taba">
+<!ENTITY close_private_tabs "Dùin na tabaichean prìobhaideach">
 <!ENTITY tabs_normal "Tabaichean">
 <!ENTITY tabs_private "Prìobhaideach">
 <!ENTITY tabs_synced "Sioncronaichte">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
-<!ENTITY contextmenu_open_in_reader "Fosgail san leughadair">
 <!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
+<!ENTITY home_closed_tabs_title "Tabaichean a dhùin thu o chionn goirid">
 <!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
-<!ENTITY home_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
 <!ENTITY home_last_tabs_empty "Nochdaidh tabaichean a bha agad o chionn goirid an-seo.">
-<!ENTITY home_most_recent_title "An fheadhainn as ùire">
+<!ENTITY home_open_all "Fosgail a h-uile">
 <!ENTITY home_most_recent_empty "Nochdaidh làraichean-lìn air an do thadhail thu o chionn goirid an-seo.">
 <!ENTITY home_reading_list_empty "Nochdaidh artaigealan a shàbhaileas tu airson uaireigin eile an-seo.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Suas gu &formatS;">
+
+<!ENTITY private_browsing_title "Brabhsadh prìobhaideach">
+<!ENTITY private_tabs_panel_empty_desc "Nochdaidh na tabaichean prìobhaideach agad an-seo. Cha chum sinn gin dhen eachdraidh bhrabhsaidh, dhe na briosgaidean no comharran-lìn agad agus thèid faidhlichean a luchdaicheas tu a-nuas a stòradh air an uidheam agad fhathast.">
+<!ENTITY private_tabs_panel_learn_more "A bheil thu ag iarraidh barrachd fiosrachaidh?">
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 

@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Cunntasan Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "A\u0027 cleachdadh a\u0027 chunntais air an fhrithealaiche">
+<!ENTITY fxaccount_custom_server_sync_title "A\u0027 stòradh an dàta sioncronachaidh air an fhrithealaiche">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
+<!ENTITY fxaccount_status_auth_server "Frithealaiche a\u0027 chunntais">
 <!ENTITY fxaccount_status_device_name "Ainm an uidheim">
+<!ENTITY fxaccount_status_sync_server "Frithealaiche an t-sioncronachaidh">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "Tha &syncBrand.shortName.label;: an comas">
 <!ENTITY fxaccount_status_needs_verification2 "Feumaidh tu an cunntas agad a dhearbhadh. Thoir gnogag gus post-d dearbhaidh ath-chur.">
