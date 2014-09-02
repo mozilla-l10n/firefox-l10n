@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Z">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ponovno naloži vse zavihke">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj vse zavihke med zaznamke …">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Ponovno odpri zavihek">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "H">
+
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "t">
 <!ENTITY devAppMgrMenu.label               "Upravitelj aplikacij">
 <!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Preklopi orodja">
@@ -698,11 +707,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Uporabi kamero:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Uporabi okno ali zaslon:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "O">
 <!ENTITY getUserMedia.selectMicrophone.label "Uporabi mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Vsa vidna okna na vašem zaslonu bodo v skupni rabi.">
 
 <!ENTITY webrtcIndicatorButton.label "Dostop do kamere in mikrofona">
 <!ENTITY webrtcIndicatorButton.tooltip "Prikaži strani, katerim je trenutno dovoljena uporaba kamere in mikrofona">
+
+<!ENTITY loopCallButton.tooltip "Povabite koga na pogovor">
 
 <!ENTITY mixedContentBlocked.moreinfo "Večina strani bo delovala pravilo, čeprav je ta vsebina zavrnjena.">
 
