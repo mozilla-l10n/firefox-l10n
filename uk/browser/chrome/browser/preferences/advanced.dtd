@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "Функції доступності">
 
 <!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для переміщення всередині сторінок">
-<!ENTITY useCursorNavigation.accesskey   "а">
+<!ENTITY useCursorNavigation.accesskey   "в">
 <!ENTITY searchStartTyping.label         "Шукати текст на сторінці під час його введення">
 <!ENTITY searchStartTyping.accesskey     "у">
 <!ENTITY blockAutoRefresh.label          "Попереджати мене, коли сайти намагаються переадресувати чи перезавантажити сторінку">
@@ -18,11 +18,11 @@
 <!ENTITY browsing.label                  "Перегляд сайтів">
 
 <!ENTITY useAutoScroll.label             "Використовувати автоматичну прокрутку">
-<!ENTITY useAutoScroll.accesskey         "и">
+<!ENTITY useAutoScroll.accesskey         "а">
 <!ENTITY useSmoothScrolling.label        "Використовувати плавну прокрутку">
-<!ENTITY useSmoothScrolling.accesskey    "и">
+<!ENTITY useSmoothScrolling.accesskey    "п">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
-<!ENTITY allowHWAccel.accesskey          "а">
+<!ENTITY allowHWAccel.accesskey          "к">
 <!ENTITY checkSpelling.label             "Перевіряти орфографію при введенні тексту">
 <!ENTITY checkSpelling.accesskey         "е">
 
@@ -102,10 +102,10 @@
 <!ENTITY updateAutoMetroWarn.label       "(плитковий &brandShortName; не перевіряє сумісніть додатків)">
 
 <!ENTITY updateHistory.label             "Показати журнал оновлень">
-<!ENTITY updateHistory.accesskey         "о">
+<!ENTITY updateHistory.accesskey         "ж">
 
 <!ENTITY useService.label                "Використовувати фонову службу для установки оновлень">
-<!ENTITY useService.accesskey            "ф">
+<!ENTITY useService.accesskey            "с">
 
 <!ENTITY updateOthers.label              "Автоматично оновлювати:">
 <!ENTITY enableSearchUpdate.label        "Засоби пошуку">
