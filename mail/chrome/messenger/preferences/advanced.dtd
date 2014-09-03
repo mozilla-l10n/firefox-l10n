@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Fråga varje gång">
 <!ENTITY certs.ask.accesskey             "F">
+<!ENTITY enableOCSP.label                "Använd OCSP-mekanism för att bekräfta giltigheten på certifikaten">
+<!ENTITY enableOCSP.accesskey            "o">
 
 <!ENTITY viewCertificates.label         "Visa certifikat">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY validation.label               "Validering">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey  "k">
