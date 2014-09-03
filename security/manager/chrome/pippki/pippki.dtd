@@ -81,11 +81,6 @@
 <!ENTITY createCertInfo.msg1 "製造金鑰中… 請稍待幾分鐘…">
 <!ENTITY createCertInfo.msg2 "請稍候…">
 
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "文字簽署要求">
-<!ENTITY formSigning.cert "簽署憑證中">
-<!ENTITY formSigning.confirmPassword "為了確認您同意使用您選擇的憑證簽署此文字訊息，請輸入您的主控密碼:">
-
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "被保護的 Token 鑑別">
 <!ENTITY protectedAuth.msg "請鑑別此 Token，鑑別方法會隨 Token 類型而不同。">

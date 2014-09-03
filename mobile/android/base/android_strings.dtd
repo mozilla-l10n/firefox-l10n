@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
+<!ENTITY  onboard_start_message "歡迎使用 &brandShortName;！">
+<!ENTITY  onboard_start_subtext "承諾為您、您的隱私與 Open Web 努力">
+<!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
+<!ENTITY  onboard_start_button_browser "開始瀏覽">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "書籤">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "選擇檔案">
 
-<!ENTITY url_bar_default_text "輸入要搜尋的資料或網址">
+<!ENTITY url_bar_default_text2 "搜尋或輸入網址">
 
 <!ENTITY bookmark "書籤">
 <!ENTITY bookmark_added "已加入書籤">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "系統預設">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "安裝到 &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "書籤">
+<!ENTITY overlay_share_reading_list_btn_label "新增至閱讀清單">
+<!ENTITY overlay_share_send_other "傳送至其他裝置">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "傳送至另一台裝置">
+<!ENTITY overlay_share_no_url "這個分享中找不到鏈結">
+<!ENTITY overlay_share_retry "重試">
+<!ENTITY overlay_share_select_device "選擇裝置">
 
 <!ENTITY pref_category_search3 "搜尋">
 <!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "立刻清除">
 <!ENTITY pref_clear_private_data_category "清除隱私資料">
 <!ENTITY pref_clear_on_exit_title "總是在離開時清除">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; 將自動在您選擇主選單的「離開」時清除您的資料">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. 作為非營利組織，我們站在您的立場進行創新，不向任何壓力妥協。您將能夠有更好的上網體驗，並讓網路有個更光明的未來。">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
-<!ENTITY pref_show_product_announcements "顯示產品公告">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "下一個">
 <!ENTITY find_close "關閉">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "投放至裝置">
+<!ENTITY media_sending_to "正在傳送至裝置">
 <!ENTITY media_play "播放">
 <!ENTITY media_pause "暫停">
 <!ENTITY media_stop "停止">
@@ -303,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
 <!ENTITY pref_titlebar_mode_url "顯示頁面地址">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "捲動標題列">
+<!ENTITY pref_scroll_title_bar2 "全螢幕瀏覽">
+<!ENTITY pref_scroll_title_bar_summary "向下滑動頁面時隱藏 &brandShortName; 的標題列">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
