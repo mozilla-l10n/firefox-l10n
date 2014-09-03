@@ -8,7 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Sök efter uppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label                "Starta om för att uppdatera">
+<!ENTITY update.updateButton.label2               "Starta om &brandShortName; för att uppdatera">
 <!ENTITY update.updateButton.accesskey            "o">
 <!ENTITY update.applyButtonBillboard.label        "Tillämpa uppdatering…">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
