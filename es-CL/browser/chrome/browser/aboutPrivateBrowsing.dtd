@@ -20,6 +20,6 @@
 
 
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!ENTITY privatebrowsingpage.howToStart3               "Para iniciar la navegación privada, usted puede también seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStart3       "Para iniciar la navegación privada, usted puede también seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 
 
