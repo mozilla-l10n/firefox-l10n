@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
 <!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
 
+<!ENTITY  onboard_start_message "Bienvenue dans &brandShortName; !">
+<!ENTITY  onboard_start_subtext "Engagé pour vous, votre vie privée, et un Web ouvert">
+<!ENTITY  onboard_start_button_account "Se connecter à &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Commencer la navigation">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marque-pages">
@@ -85,6 +90,29 @@
      to display browser chrome. -->
 <!ENTITY locale_system_default "Valeur par défaut du système">
 
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Ajouter à &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Marquer cette page">
+<!ENTITY overlay_share_reading_list_btn_label "Ajouter à la liste de lecture">
+<!ENTITY overlay_share_header "Envoyer à &brandShortName;">
+<!ENTITY overlay_share_send_other "Envoyer à d\u0027autres appareils">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Envoyer à un autre appareil">
+<!ENTITY overlay_share_no_url "Aucun lien à partager n\u0027a été trouvé">
+<!ENTITY overlay_share_retry "Réessayer">
+<!ENTITY overlay_share_select_device "Sélectionner l\u0027appareil">
+
+
 <!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
 <!ENTITY pref_category_display "Affichage">
@@ -149,7 +177,7 @@
 <!ENTITY pref_clear_private_data2 "Effacer maintenant">
 <!ENTITY pref_clear_private_data_category "Effacer mes traces">
 <!ENTITY pref_clear_on_exit_title "Effacer à la fermeture">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activés">
@@ -178,7 +206,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Le panda roux, rapide comme l\u0027éclair, bondit au-delà de vos attentes avec plus de vitesse, plus de souplesse et plus de sécurité. En tant que fondation à but non lucratif, nous sommes libres d\u0027innover pour vous sans aucune pression ni aucun compromis. Cela signifie une meilleure expérience pour vous et un meilleur avenir pour le Web.">
 
 <!ENTITY pref_use_master_password "Mot de passe principal">
-<!ENTITY pref_show_product_announcements "Notifications du logiciel">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
@@ -276,9 +303,9 @@ size. -->
 <!ENTITY find_next "Suivant">
 <!ENTITY find_close "Fermer">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Diffuser sur l\u0027appareil">
+<!ENTITY media_sending_to "Envoi à l\u0027appareil">
 <!ENTITY media_play "Lire">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Arrêter">
@@ -462,6 +489,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon " :">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
