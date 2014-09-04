@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ଫାଇଲଗୁଡ଼ିକୁ କେଉଁଠି ସଂରକ୍ଷଣ କରାଯିବ ତାହା ସର୍ବାଦା ମୋତେ ପଚାରନ୍ତୁ">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ">
+
+
