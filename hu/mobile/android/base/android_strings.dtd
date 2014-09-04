@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Könyvjelző">
 <!ENTITY  history_title "Előzmény">
 <!ENTITY  reading_list_title "Olvasási lista">
+<!ENTITY  recent_tabs_title "Legutóbbi lapok">
 
 <!ENTITY  switch_to_tab "Váltás erre a lapra">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
-<!ENTITY history_week_section "7 napja">
-<!ENTITY history_older_section "7 napnál régebben">
+<!ENTITY history_week_section2 "2-7 napos üzenetek">
+<!ENTITY history_older_section2 "Múlt hónap">
 
 <!ENTITY go "Ugrás">
 <!ENTITY search "Keresés">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
+<!ENTITY pref_developer_paint_flashing "Rajzolás villogása">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
 
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
-<!ENTITY pref_home_add_panel "Panel hozzáadása">
 <!ENTITY home_add_panel_title "Új panel hozzáadása">
 <!ENTITY home_add_panel_empty "Elnézést, nem találhatók hozzáadható panelek.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
-<!ENTITY pref_clear_private_data "Személyes adatok törlése">
+<!ENTITY pref_clear_private_data2 "Törlés most">
+<!ENTITY pref_clear_private_data_category "Személyes adatok törlése">
+<!ENTITY pref_clear_on_exit_title "Törlés minden kilépéskor">
+<!ENTITY pref_clear_on_exit_summary "A &brandShortName; automatikusan törli adatait a főmenü „Kilépés” pontjának kiválasztásakor">
+<!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Új lap">
 <!ENTITY new_private_tab "Új privát lap">
 <!ENTITY close_all_tabs "Minden lap bezárása">
+<!ENTITY close_private_tabs "Privát lapok bezárása">
 <!ENTITY tabs_normal "Lap">
 <!ENTITY tabs_private "Privát">
 <!ENTITY tabs_synced "Szinkronban">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
 <!ENTITY contextmenu_open_private_tab "Megnyitás privát lapon">
-<!ENTITY contextmenu_open_in_reader "Megnyitás az Olvasóban">
 <!ENTITY contextmenu_remove "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
 <!ENTITY contextmenu_share "Megosztás">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
+<!ENTITY home_closed_tabs_title "Legutóbb bezárt lapok">
 <!ENTITY home_last_tabs_title "Legutóbbi lapok">
-<!ENTITY home_last_tabs_open "A legutóbbi lapok megnyitása">
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
-<!ENTITY home_most_recent_title "Legutóbbi">
+<!ENTITY home_open_all "Összes megnyitása">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
 <!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Vissza: ">
+
+<!ENTITY private_browsing_title "Privát böngészés">
+<!ENTITY private_tabs_panel_empty_desc "A privát lapok itt jelennek meg. Noha nem tároljuk a böngészési előzményeket vagy a sütiket, a könyvjelzők és letöltött fájlok továbbra is mentésre kerülnek a készülékre.">
+<!ENTITY private_tabs_panel_learn_more "Szeretne többet tudni?">
 
 <!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
