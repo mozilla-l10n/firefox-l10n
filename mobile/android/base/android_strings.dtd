@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bókamerki">
 <!ENTITY  history_title "Ferill">
 <!ENTITY  reading_list_title "Leslisti">
+<!ENTITY  recent_tabs_title "Nýlegir flipar">
 
 <!ENTITY  switch_to_tab "Fara í flipa">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Í dag">
 <!ENTITY history_yesterday_section "Í gær">
-<!ENTITY history_week_section "Fyrir 7 dögum">
-<!ENTITY history_older_section "Eldra en 7 daga">
+<!ENTITY history_week_section2 "Síðasta vika">
+<!ENTITY history_older_section2 "Síðasti mánuður">
 
 <!ENTITY go "Fara">
 <!ENTITY search "Leita">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
 <!ENTITY pref_category_devtools "Verkfærakista forritarans">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
 <!ENTITY pref_remember_signons "Muna lykilorð">
 
 <!ENTITY pref_category_home "Ræsisíða">
 <!ENTITY pref_category_home_summary "Stilla ræsisíðuna">
 <!ENTITY pref_category_home_panels "Spjöld">
-<!ENTITY pref_home_add_panel "Bæta við spjaldi">
 <!ENTITY home_add_panel_title "Bæta við spjaldi">
 <!ENTITY home_add_panel_empty "Því miður fundum við engin spjöld til að bæta við.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
 <!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
-<!ENTITY pref_clear_private_data "Hreinsa upplýsingar einkamála">
+<!ENTITY pref_clear_private_data2 "Hreinsa núna">
+<!ENTITY pref_clear_private_data_category "Hreinsa upplýsingar einkamála">
+<!ENTITY pref_clear_on_exit_title "Ætíð hreinsa við lokun">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur \&quot;Hætta\&quot; úr aðal valmyndinni">
+<!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virkt">
 <!ENTITY pref_plugins_tap_to_play "Snerta til að spila">
@@ -178,8 +183,8 @@ size. -->
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_private_data_history2 "Ferill">
-<!ENTITY pref_private_data_formdata "Eyðublað  leitarferill">
-<!ENTITY pref_private_data_cookies2 "Smákökur  virkar innskráningar">
+<!ENTITY pref_private_data_formdata "Eyðublað &amp; leitarferill">
+<!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
 <!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
@@ -203,7 +208,7 @@ size. -->
 <!ENTITY pref_panels_move_up "Færa upp">
 <!ENTITY pref_panels_move_down "Færa niður">
 
-<!ENTITY datareporting_notification_title "&brandShortName; tölfærði  gögn">
+<!ENTITY datareporting_notification_title "&brandShortName; tölfærði &amp; gögn">
 <!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_action "Velja það sem deila á">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Nýr flipi">
 <!ENTITY new_private_tab "Nýr einkaflipi">
 <!ENTITY close_all_tabs "Loka öllum flipum">
+<!ENTITY close_private_tabs "Loka einkaflipum">
 <!ENTITY tabs_normal "Flipar">
 <!ENTITY tabs_private "Einka">
 <!ENTITY tabs_synced "Synced">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Opna í nýjum flipa">
 <!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
-<!ENTITY contextmenu_open_in_reader "Opna í lesara">
 <!ENTITY contextmenu_remove "Fjarlægja">
 <!ENTITY contextmenu_add_to_launcher "Bæta við á ræsisíðu">
 <!ENTITY contextmenu_share "Deila">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
 <!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
+<!ENTITY home_closed_tabs_title "Flipar sem nýlega hefur verið lokað">
 <!ENTITY home_last_tabs_title "Flipar sem voru opnir síðast þegar þú notaðir vafrann">
-<!ENTITY home_last_tabs_open "Opna alla flipa frá því síðast þegar þú notaðir vafrann">
 <!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
-<!ENTITY home_most_recent_title "Nýjustu svæðin">
+<!ENTITY home_open_all "Opna allt">
 <!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
 <!ENTITY home_reading_list_empty "Greinar sem þú vistar til að skoða síðar birtast hér.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Færa upp að &formatS;">
+
+<!ENTITY private_browsing_title "Vafra í einkaglugga">
+<!ENTITY private_tabs_panel_empty_desc "Einkaflipar þínir sjást hér. Þótt við geymum ekki neitt af sögu gögnum þínum né smákökum þá munu bókarmerki og skrár sem þú hleður niður samt vistast á tækinu þínu.">
+<!ENTITY private_tabs_panel_learn_more "Viltu vita meira?">
 
 <!ENTITY pin_site_dialog_hint "Sláðu inn leitar stikkorð">
 
