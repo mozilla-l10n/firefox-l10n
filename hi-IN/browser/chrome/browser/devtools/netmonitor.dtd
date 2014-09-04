@@ -17,8 +17,10 @@
 <!ENTITY netmonitorUI.perfNotice2         "यह बटन प्रदर्शन के विश्लेषण शुरू करने के लिए.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "फिर लोड करें ">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• किसी आग्रह का पालन करें या">
+<!ENTITY netmonitorUI.reloadNotice2       "फिर लोड करें ">
+<!ENTITY netmonitorUI.reloadNotice3       "संजाल गतिविधि के बारे में विस्तृत सूचना देखने के लिए पृष्ठ.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -205,6 +207,8 @@
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl    "बतौर cURL नक़ल लें">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 

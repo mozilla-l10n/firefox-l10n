@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "यह पृष्ठ इसमें है">
+<!ENTITY translation.translateThisPage.label    "इस पृष्ठ को अनुवाद करें?">
+<!ENTITY translation.translate.button           "अनुवाद">
+<!ENTITY translation.notNow.button              "अभी नहीं">
 
-
-
+<!ENTITY translation.translatingContent.label   "पृष्ठ अंतर्वस्तु का अनुवाद कर रहा है…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,13 +33,18 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "इस पृष्ठ को इससे अनुवाद किया गया है">
 <!ENTITY translation.translatedTo.label         "प्रति">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "मूल दिखाएँ">
+<!ENTITY translation.showTranslation.button     "अनुवाद दिखाएँ">
 
+<!ENTITY translation.errorTranslating.label     "इस पृष्ठ के अनुवाद में कोई त्रुटि था.">
+<!ENTITY translation.tryAgain.button            "फिर कोशिश करें">
 
-
-
+<!ENTITY translation.serviceUnavailable.label   "इस क्षण पर अनुवाद उपलब्ध नहीं है. कृपया फिर कोशिश करें.">
 
 <!ENTITY translation.options.menu               "विकल्प">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -44,12 +52,15 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "इस साइट को मत अनुवाद करें (e)">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "अनुवाद वरीयता (T)">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">

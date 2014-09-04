@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "बॉक्स मॉडल">
-
-
+<!ENTITY margin.tooltip         "हाशिया">
+<!ENTITY border.tooltip         "किनारा">
 <!ENTITY padding.tooltip        "पैडिंग">
 <!ENTITY content.tooltip        "अंतर्वस्तु">

@@ -126,12 +126,12 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जब एक सर्वर मेरे निजी प्रमाणपत्र का आग्रह करता है:">
 <!ENTITY certs.auto                      "कोई एक स्वतः चुनें">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "मुझसे हमेशा पूछें">
-
-
-
-
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "प्रमाणपत्र देखें (C)">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति (D)">
+<!ENTITY viewSecurityDevices.accesskey   "D">
