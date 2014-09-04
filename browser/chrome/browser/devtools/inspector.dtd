@@ -10,7 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "कॉपी और अद्वितीय चयनकर्ता (U)">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
-
+<!ENTITY inspectorHTMLPasteOuter.label      "बाहरी HTML चिपकाएँ (P)">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
 
 <!ENTITY inspectorHTMLDelete.label          "नोड मिटाएँ">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">

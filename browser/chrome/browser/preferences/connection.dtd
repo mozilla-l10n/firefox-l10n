@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "अगर शब्दकूट सहेजा जाता है तो प्रमाणीकरण के लिए संकेत न करें">
 <!ENTITY  autologinproxy.accesskey      "i">
-
+<!ENTITY  autologinproxy.tooltip        "यह विकल्प आपको धीमे से प्रॉक्सी के लिए सत्यापित करता है जब आप उसके लिए प्रमाण सहेजते हैं. आपको प्रांप्ट किया जाएगा यदि सत्यापन विफल रहता है.">

@@ -28,7 +28,8 @@
 <!ENTITY chooseButton.label           "चयन करें (o)...">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "वेब पृष्ठ का अनुवाद करें (T)">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "अपवाद...(x)">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -38,4 +39,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
