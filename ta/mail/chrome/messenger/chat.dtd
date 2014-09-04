@@ -30,7 +30,8 @@
 
 
 
-
-
+<!ENTITY status.available          "இருக்கிறார்">
+<!ENTITY status.unavailable        "இருப்பில் இல்லை">
+<!ENTITY status.offline            "இணைப்பில்லை">
 
 
