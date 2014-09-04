@@ -8,7 +8,7 @@
 <!ENTITY account.advanced "Pokročilé">
 <!ENTITY account.name "Uživatelské jméno:">
 <!ENTITY account.password "Heslo:">
-<!ENTITY account.alias "Přezdívka:">
+<!ENTITY account.alias "Alias:">
 <!ENTITY account.newMailNotification "Upozornit na novou poštu">
 <!ENTITY account.autojoin "Automaticky připojované kanály:">
 <!ENTITY account.proxySettings.caption "Nastavení proxy:">
