@@ -61,6 +61,14 @@
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_browser_locale "Язык браузера">
 <!ENTITY locale_system_default "Язык устройства">
+<!ENTITY overlay_share_label "Добавить в &brandShortName;">
+<!ENTITY overlay_share_bookmark_btn_label "Заложить">
+<!ENTITY overlay_share_reading_list_btn_label "Добавить в Список для чтения">
+<!ENTITY overlay_share_send_other "Отправить на другие устройства">
+<!ENTITY overlay_share_send_tab_btn_label "Отправить на другое устройство">
+<!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
+<!ENTITY overlay_share_retry "Попробовать снова">
+<!ENTITY overlay_share_select_device "Выбрать устройство">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
