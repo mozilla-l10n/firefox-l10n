@@ -108,6 +108,9 @@
 
 
 <!ENTITY fxaccount_full_label "Firefox reikningar">
+
+<!ENTITY fxaccount_custom_server_account_title "Nota reikning á netþjóni">
+<!ENTITY fxaccount_custom_server_sync_title "Geyma Sync gögn á netþjóni">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +178,9 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
+<!ENTITY fxaccount_status_auth_server "Netþjónn reiknings">
 <!ENTITY fxaccount_status_device_name "Heiti á tæki">
+<!ENTITY fxaccount_status_sync_server "Sync netþjónn">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; virkjað">
 <!ENTITY fxaccount_status_needs_verification2 "Það verður að staðfesta reikninginn þinn. Snertu til að endursenda staðfestingar tölvupóst.">
