@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "ପ୍ରତିକ୍ରିୟାଶୀଳ ସଂରଚନା ଦୃଶ୍ୟ">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "ଆଖି ଡ୍ରପର">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "ସାଧନପଟିକୁ ଦର୍ଶାନ୍ତୁ /ଲୁଚାନ୍ତୁ">
 <!ENTITY customizeMode.titlebar "ଶୀର୍ଷକ ପଟି">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "ପରିଚାଳନ କରନ୍ତୁ">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ଚାର୍ଟଗୁଡ଼ିକୁ ଲକ୍ଷ୍ଯ କରନ୍ତୁ">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ସହଭାଗ କରିବା ପାଇଁ କ୍ୟାମେରା:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "ସହଭାଗ କରିବା ପାଇଁ ୱିଣ୍ଡୋ ଅଥବା ପରଦା:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "କ୍ୟାମେରା / ମାଇକ୍ରୋଫନ ପ୍ରବେଶାନୁମତି">
-<!ENTITY webrtcIndicatorButton.tooltip "କ୍ୟାମେରା କିମ୍ବା ମାଇକ୍ରୋଫୋନରେ ଆପଣ ବର୍ତ୍ତମାନ ସହଭାଗ କରୁଥିବା ସାଇଟଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 
-<!ENTITY loopCallButton.tooltip "କହିବା ପାଇଁ କେହିଜଣଙ୍କୁ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ">
 
-<!ENTITY mixedContentBlocked.moreinfo "ଏହି ବିଷୟବସ୍ତୁକୁ ଅଟକାଇବା ସତ୍ତ୍ୱେ ଅଧିକାଂଶ ୱେବସାଇଟଗୁଡ଼ିକ ଏପର୍ଯ୍ୟନ୍ତ ଠିକ ଭାବରେ କାମ କରୁଅଛି।">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ଅନୁସରଣ କରୁଅଛି">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ଏହାକୁ ଯେକୌଣସି ସମୟରେ ପୁଣିଥରେ ଦର୍ଶାଇବା ପାଇଁ ESC କୁ ଦବାନ୍ତୁ।">
 
