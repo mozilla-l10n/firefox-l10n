@@ -424,9 +424,9 @@
 
 
 
-
-
-
+<!ENTITY imStatus.available          "இருக்கிறார்">
+<!ENTITY imStatus.unavailable        "இருப்பில் இல்லை">
+<!ENTITY imStatus.offline            "இணைப்பில்லை">
 
 
 
@@ -603,7 +603,7 @@
 
 
 
-
+<!ENTITY accountColumn.label "கணக்கு">
 
 
 
