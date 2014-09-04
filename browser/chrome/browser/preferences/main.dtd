@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "த">
 <!ENTITY alwaysAsk.label "எங்கே கோப்புகளை சேமிக்க வேண்டுமென எப்போதும் என்னிடம் கேள்">
 <!ENTITY alwaysAsk.accesskey "எ">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது">
+
+

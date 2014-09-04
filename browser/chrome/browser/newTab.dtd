@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "புதிய தத்தல்">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "சிறுபடம் நீக்கப்பட்டது.">
 <!ENTITY newtab.undo.undoButton "செயல்தவிர்.">
 <!ENTITY newtab.undo.restoreButton "அனைத்தும் மீட்டமை.">
 <!ENTITY newtab.undo.closeTooltip "மறை">
-<!ENTITY newtab.sponsored.release.message "இந்த தளம் மொசில்லாவின் நோக்கத்தை ஆதிரிப்பதால் நாங்கள் இந்த தளத்தை உங்களுக்கு பரிந்துரை செய்தோம் மேலும் இது உங்களுக்கு விருப்பமானதாகவும் இருக்கலாம் என நினைத்தோம்.">
-<!ENTITY newtab.sponsored.trial.message2 "இந்த தளம் மொசில்லாவின் நோக்கத்தை ஆதிரிப்பதால் நாங்கள் இந்த தளத்தை உங்களுக்கு பரிந்துரை செய்தோம் மேலும் இது உங்களுக்கு விருப்பமானதாக இருக்கலாம் என நினைத்தோம்.">
-<!ENTITY newtab.panel.link.text "மேலும் அறிக...">
