@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Részletek">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+<!ENTITY itemHistory.label                 "Böngészési előzmények">
+<!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Sütik">
 <!ENTITY itemCookies.accesskey             "t">
 <!ENTITY itemCache.label                   "Gyorsítótár">
