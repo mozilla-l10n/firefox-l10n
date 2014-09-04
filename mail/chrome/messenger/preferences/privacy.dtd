@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webtartalom">
 
+<!ENTITY keepHistory.label "Meglátogatott webhelyek és hivatkozások megjegyzése">
+<!ENTITY keepHistory.accesskey "z">
 <!ENTITY acceptCookies.label "Sütik elfogadása webhelyekről">
 <!ENTITY acceptCookies.accesskey "w">
 <!ENTITY acceptThirdParty.pre.label "Harmadik féltől származó sütik elfogadása:">
