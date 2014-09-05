@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "Menjana Kucni Peribadi">
 <!ENTITY createCertInfo.msg1 "Penjanaan Kunci sedang dilakukan... Ini akan mengambil sedikit masa...">
 <!ENTITY createCertInfo.msg2 "Sila tunggu...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Permohonan Menanda Teks">
-<!ENTITY formSigning.cert "Menanda Sijil">
-<!ENTITY formSigning.confirmPassword "Untuk memastikan yang anda setuju untuk menanda mesej teks ini menggunakan sijil yang dipilih, sila pastikan dengan memasukkan katalaluan induk:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Token pengesahan dilindungi">

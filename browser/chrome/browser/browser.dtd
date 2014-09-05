@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Paparan rekabentuk responsif">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Berhenti">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "e">
 <!ENTITY webide.label                      "Pengurus App">
 <!ENTITY webide.accesskey                  "e">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tukar Peralatan">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Tunjuk / Sorok Bar alatan">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Urus">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Tetingkap atau skrin untuk dikongsi:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "n">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Akses Kamera / Mikrofon">
-<!ENTITY webrtcIndicatorButton.tooltip "Tunjukkan laman yang anda berkongsi kamera dan mikrofon pada masa sekarang">
 
-<!ENTITY loopCallButton.tooltip "Jemput seseorang untuk bercakap">
 
-<!ENTITY mixedContentBlocked.moreinfo "Kebanyakan laman web masih lagi akan berfungsi walapun jika kandungan ini terhalang.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Penjejakan">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk paparkan semula.">
 

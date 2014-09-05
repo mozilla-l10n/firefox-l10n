@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Periksa ejaan saya tika menaip">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "Kembali ke Piawaian Sistem">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Membuat &brandShortName; ke pelayar lalai">
-<!ENTITY setDefault.accesskey            "p">
-<!ENTITY isDefault.label                 "&brandShortName; pelayar lalai anda">
-
 <!ENTITY dataChoicesTab.label            "Pilihan Data">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Laporan Kesihatan">
