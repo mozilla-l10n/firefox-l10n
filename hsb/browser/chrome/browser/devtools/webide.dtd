@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Zwisk dźělić">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Foto wobrazowki">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Napohlad">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Simulator instalować">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Wopisanje">
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Začinić">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "Standard wobnowić">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Zasunjenje ńa zakładźe wobsaha žórłeje dataje zhódać">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Róžkate spinki awtomatisce začinić">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Začinjace róžkate spinki awtomatisce zasadźić">
+
+<!ENTITY prefs_options_keybindings_default "Standard">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Mjeno">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Pomoc">

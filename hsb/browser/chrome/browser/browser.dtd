@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Přiměrjeny webdesign">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Pipeta">
 <!ENTITY eyedropper.accesskey "i">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "n">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Nastroje přepinać">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Symbolowe lajsty pokazać/schować">
 <!ENTITY customizeMode.titlebar "Titulowa lajsta">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Rjadować">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chaty wuzběhnyć">
 <!ENTITY social.chatBar.accesskey "C">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotraž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Wokno abo wobrazowka za dźělenje:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "o">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kotryž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšě widźomne wokna na wašej wobrazowce budu so dźělić.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Přistup ke kamerje / k mikrofonej">
-<!ENTITY webrtcIndicatorButton.tooltip "Sydła zwobraznić, z kotrymiž tuchwilu swoju kameru abo swój mikrofon hromadźe wužiwaće">
 
-<!ENTITY loopCallButton.tooltip "Někoho do rozmołwy přeprosyć">
 
-<!ENTITY mixedContentBlocked.moreinfo "Najwjace websydłow hišće porjadnje funguje, byrnjež so tutón wobsah blokował.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Slědowanje">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Tłóčće ESC kóždy čas, zo byšće jón hišće raz pokazał.">
 
