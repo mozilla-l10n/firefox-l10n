@@ -11,18 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "Ulana olmadi">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Bu manzil cheklangan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server topilmadi">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Manzillarning quyidagicha xato yozilganligini tekshirib ko‘ring:
-<strong>ww</strong>.example.com kabi yozilishi xato 
-<strong>www</strong>.example.com</li> shaklida yozilishi kerak 
-<li>Agar birorta ham sahifa yuklanmayotgan bo‘lsa, qurilmangizning internetga yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring.</li> 
-</ul>">
+
 
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -43,15 +38,13 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Hujjat eskirgan">
 <!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName;&apos;ning keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn usuli">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani qayta yuklashga urinib ko‘radi.</li> 
-</ul>">
+
 
 <!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Ulanish uzilib qolgan">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Manzil tushunilmadi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +75,7 @@ tarmoq administratori bilan bog‘laning.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
-<li>Qurilmangizning internetga yoki Wi-Fi’ga ulanganligini tekshirib ko‘ring.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmagan">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,10 +104,6 @@ serverni buzishga urinishi bo‘lishi mumkin.</li>
 vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Sayt vaqtinchalik ishlamayotgan yoki juda band bo‘lishi mumkin. Birozdan so‘ng yana urinib ko‘ring.</li> 
-<li>Agar birorta ham sahifa yuklanmayotgan bo‘lsa, mobil qurilmangizning internetga ulanishini yoki  Wi-Fi ulanishni tekshirib ko‘ring.</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
