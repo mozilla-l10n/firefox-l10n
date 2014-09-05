@@ -274,6 +274,10 @@
 <!ENTITY home_move_up_to_filter "Vai a &formatS;">
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
 <!ENTITY home_remote_tabs_empty "In questa sezione verranno visualizzate le schede provenienti da altri dispositivi.">
+<!ENTITY home_remote_tabs_unable_to_connect "Impossibile connettersi">
+<!ENTITY home_remote_tabs_need_to_sign_in "Effettuare l’accesso per riconnettersi al proprio Firefox Account e proseguire la sincronizzazione.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problemi con la verifica dell’account?">
+<!ENTITY home_remote_tabs_need_to_verify "Verificare il proprio Firefox Account per avviare la sincronizzazione.">
 <!ENTITY private_browsing_title "Navigazione anonima">
 <!ENTITY private_tabs_panel_empty_desc "Le schede anonime verranno visualizzate in questa sezione. Mentre la cronologia di navigazione e i cookie non vengono conservati, i file scaricati e i segnalibri rimangono salvati sul dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Ulteriori informazioni.">
