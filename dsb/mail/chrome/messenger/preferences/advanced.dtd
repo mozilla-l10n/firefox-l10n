@@ -107,14 +107,14 @@
 <!-- Certificates -->
 
 <!ENTITY certSelection.description       "Gaž serwer pomina se wósobinski certifikat:">
-<!ENTITY certs.auto                      "někaki awtomatiski wubraś">
-<!ENTITY certs.auto.accesskey            "n">
+<!ENTITY certs.auto                      "Někaki awtomatiski wubraś">
+<!ENTITY certs.auto.accesskey            "N">
 <!ENTITY certs.ask                       "Kuždy raz se pšašaś">
 <!ENTITY certs.ask.accesskey             "K">
+<!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby se aktualna płaśiwosć certifikatow wobkšuśiło">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "Certifikaty zwobrazniś">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Pśespytowanje">
-<!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Wěstotne rědy">
 <!ENTITY viewSecurityDevices.accesskey  "s">
