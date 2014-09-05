@@ -8,8 +8,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Za aktualizacijemi pytać">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
-<!ENTITY update.updateButton.label                "Za aktualizowanje znowa startować">
-<!ENTITY update.updateButton.accesskey            "s">
+<!ENTITY update.updateButton.label2               "&brandShortName; za aktualizowanje znowa startować">
+<!ENTITY update.updateButton.accesskey            "k">
 <!ENTITY update.applyButtonBillboard.label        "Aktualizaciju nałožić…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 

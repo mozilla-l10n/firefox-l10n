@@ -107,14 +107,14 @@
 <!-- Certificates -->
 
 <!ENTITY certSelection.description       "Hdyž serwer sej wosobinski certifikat žada:">
-<!ENTITY certs.auto                      "někajki awtomatisce wubrać">
-<!ENTITY certs.auto.accesskey            "n">
+<!ENTITY certs.auto                      "Někajki awtomatisce wubrać">
+<!ENTITY certs.auto.accesskey            "N">
 <!ENTITY certs.ask                       "Kóždy raz so prašeć">
 <!ENTITY certs.ask.accesskey             "K">
+<!ENTITY enableOCSP.label                "Pola wotmołwnych serwerow OCSP so naprašować, zo by so aktualna płaćiwosć certifikatow wobkrućiło">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "Certifikaty zwobraznić">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Přepruwowanje">
-<!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Wěstotne graty">
 <!ENTITY viewSecurityDevices.accesskey  "s">
