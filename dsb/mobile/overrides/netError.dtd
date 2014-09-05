@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Zwisk njejo móžno">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Toś ta adresa jo wobgranicowana">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serwer njejo se namakał">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Pśeglědajśo adresu za pisańskimi zmólkami ako 
 <strong>ww</strong>.pśikład.de město 
 <strong>www</strong>.pśikład.de</li> 
-<li>Jolic njamóžośo boka zacytaś, pśeglědajśo daty swójogo rěda abo swój Wi-Fi-zwisk.</li> 
+<li>Jolic njamóžośo boka zacytaś, pśeglědajśo daty swójogo rěda abo swój WLAN-zwisk. 
+<button id='wifi'>WLAN zmóžniś</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Zwisk jo se pśetergnuł">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument jo njepłaśiwy">
 <!ENTITY notCached.longDesc "<p>Pominany dokument stoj w pufrowaku &brandShortName; k dispoziciji.</p><ul><li>Ako wěstnotnu napšawu &brandShortName; njewótwołujo awtomatiski delikatne dokumenty znowego.</li><li>Klikniśo na Hyšći raz, aby dokument hyšći raz z websedła wótwołał.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-modus">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Wopytajśo hyšći raz. &brandShortName; wopytujo, zwisk wócyniś a bok znowego zacytaś.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Wopytajśo hyšći raz. &brandShortName; wopytajo zwisk wócynjaś a bok znowego zacytowaś. 
+<button id='wifi'>WLAN zmóžniś</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Zmólka pśi koděrowanju wopśimjeśa">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Zwisk jo se slědk stajił">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Zwisk jo cas pśekšocył">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa njejo se zrozměła">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Njejo móžno proksyjowy serwer namakaś">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Pśeglědajśo proksyjowe nastajenja, aby zawěsćił, až su korektne.</li> 
-<li>Pśegldajśo, aby zawěsćił, až waš rěd ma funkcioněrujucy datowy abo Wi-Fi-zwisk.</li> 
+<li>Pśegldajśo, aby zawěsćił, až waš rěd ma funkcioněrujucy datowy abo WLAN-zwisk. 
+<button id='wifi'>WLAN zmóžniś</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Bok njepósrědnja pšawje">
@@ -114,9 +120,11 @@ až něchten wopytujo serwer imitěrowaś.</li> 
 snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśězone. Wopytajśo za mało wokognuśow hyšći raz.</li> 
-<li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo Wi-Fi-zwisk wašogo mobilnego rěda.</li> 
+<li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-zwisk wašogo mobilnego rěda. 
+<button id='wifi'>WLAN zmóžniś</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe blokěrowany">

@@ -5,12 +5,18 @@
 
 <!ENTITY  no_space_to_start_error "Njejo dosć ruma k dispoziciji, aby &brandShortName; startowało.">
 <!ENTITY  error_loading_file "Pśi wopyśe datajow zacytowaś, kótarež su trěbne za funkcioněrowanje &brandShortName;, jo zmólka nastała">
+
+<!ENTITY  onboard_start_message "Witajśo do &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Wam, wašej priwatnosći a wótwórjonemu weboju zawězany">
+<!ENTITY  onboard_start_button_account "Pla &brandShortName; pśizjawiś">
+<!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Cytańske znamjenja">
 <!ENTITY  history_title "Historija">
 <!ENTITY  reading_list_title "Cytańska lisćina">
+<!ENTITY  recent_tabs_title "Nejnowše rejtarki">
 
 <!ENTITY  switch_to_tab "K rejtarkoju pśěpěś">
 
@@ -33,7 +39,7 @@
 
 <!ENTITY choose_file "Dataju wubraś">
 
-<!ENTITY url_bar_default_text "Pytanje abo adresu zapódaś">
+<!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
 <!ENTITY bookmark "Cytańske znamje">
 <!ENTITY bookmark_added "Cytańske znamje pśidane">
@@ -43,8 +49,8 @@
 
 <!ENTITY history_today_section "Źinsa">
 <!ENTITY history_yesterday_section "Cora">
-<!ENTITY history_week_section "Pśed 7 dnjami">
-<!ENTITY history_older_section "Starše ako 7 dnjow">
+<!ENTITY history_week_section2 "Zachadńy tyźeń">
+<!ENTITY history_older_section2 "Zachadny mjasec">
 
 <!ENTITY go "Start">
 <!ENTITY search "Pytaś">
@@ -83,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Systemowy standard">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; pśidaś">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Cytańske znamje pśidaś">
+<!ENTITY overlay_share_reading_list_btn_label "Cytańskej lisćinje pśidaś">
+<!ENTITY overlay_share_send_other "Na druge rědy pósłaś">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Drugemu rědoju pósłaś">
+<!ENTITY overlay_share_no_url "Žeden wótkaz w toś tom źělu namakany">
+<!ENTITY overlay_share_retry "Hyšći raz wopytaś">
+<!ENTITY overlay_share_select_device "Rěd wubraś">
 
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
@@ -103,13 +130,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "POKAZKA: Pśidajśo swójej lisćinje pytańskich póbitowarjow websedło, z tym až dłujko na jogo pytańske pólo a pótusniśo pótom symbol &formatI;.">
 <!ENTITY pref_category_devtools "Wuwijarske rědy">
+<!ENTITY pref_developer_paint_flashing "Barwowe wuzwignjenje">
 <!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
 <!ENTITY pref_remember_signons "Gronidła se spomnjeś">
 
 <!ENTITY pref_category_home "Startowy bok">
 <!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
 <!ENTITY pref_category_home_panels "Póla">
-<!ENTITY pref_home_add_panel "Pólo pśidaś">
 <!ENTITY home_add_panel_title "Nowe pólo pśidaś">
 <!ENTITY home_add_panel_empty "Bóžko njejsmy mógli póla namakaś, kótarež móžośo pśidaś.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +172,11 @@
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
 <!ENTITY pref_char_encoding_off "Meni njepokazaś">
-<!ENTITY pref_clear_private_data "Priwatne daty wulašowaś">
+<!ENTITY pref_clear_private_data2 "Něnto lašowaś">
+<!ENTITY pref_clear_private_data_category "Priwatne daty wulašowaś">
+<!ENTITY pref_clear_on_exit_title "Pśi skóńcenju pśecej lašowaś">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; wulašujo waše daty awtomatiski, gažkuli wuběraśo \u0022Skóńcyś\u0022 z głownego menija.">
+<!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
 <!ENTITY pref_plugins "Tykace">
 <!ENTITY pref_plugins_enabled "Zmóžnjony">
 <!ENTITY pref_plugins_tap_to_play "Pótusniśo, aby wótgrał">
@@ -173,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Malsna oranžowa liška skoka nad waše wócakowanja z wětšeju malsnosću, wušeju fleksibelnosću a wušeju wěstotu. Ako za wše wužytna organizacija, móžomy k wašomu wužytkoju bźez śišća kompromisa nowoty zawjasć. To wóznamjenijo lěpše dožywjenje za was a swětlejšy pśichod za web.">
 
 <!ENTITY pref_use_master_password "Głowne gronidło wužywaś">
-<!ENTITY pref_show_product_announcements "Produktowe pśipowěźeńja pokazaś">
 <!ENTITY pref_sync "Snychronizěrowaś">
 <!ENTITY pref_search_suggestions "Pytańske naraźenja pokazaś">
 <!ENTITY pref_import_android "Z Androida importěrowaś">
@@ -257,6 +287,7 @@ size. -->
 <!ENTITY new_tab "Nowy rejtark">
 <!ENTITY new_private_tab "Nowy priwatny rejtark">
 <!ENTITY close_all_tabs "Wšykne rejtarki zacyniś">
+<!ENTITY close_private_tabs "Priwatne rejtarki zacyniś">
 <!ENTITY tabs_normal "Rejtarki">
 <!ENTITY tabs_private "Priwatny">
 <!ENTITY tabs_synced "Synchronizěrowany">
@@ -269,17 +300,16 @@ size. -->
 <!ENTITY find_prev "Pjerwjejšny">
 <!ENTITY find_next "Pśiducy">
 <!ENTITY find_close "Zacyniś">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Dalejpósrědnjenje do rěda">
+<!ENTITY media_sending_to "Rědoju pósłaś">
 <!ENTITY media_play "Wótgraś">
 <!ENTITY media_pause "Pawza">
 <!ENTITY media_stop "Zastajiś">
 
 <!ENTITY contextmenu_open_new_tab "W nowem rejtarku wócyniś">
 <!ENTITY contextmenu_open_private_tab "W nowem priwatnem rejtarku wócyniś">
-<!ENTITY contextmenu_open_in_reader "W cytaku wócyniś">
 <!ENTITY contextmenu_remove "Wótpóraś">
 <!ENTITY contextmenu_add_to_launcher "Startowej wobrazowce pśidaś">
 <!ENTITY contextmenu_share "Źěliś">
@@ -297,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Titelowa rědka">
 <!ENTITY pref_titlebar_mode_title "Titel boka pokazaś">
 <!ENTITY pref_titlebar_mode_url "Adresu boka pokazaś">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Titelowu rědku kulaś">
+<!ENTITY pref_scroll_title_bar2 "Pśeglědowanje z połneju wobrazowku">
+<!ENTITY pref_scroll_title_bar_summary "Titelowu rědku &brandShortName; schowaś, gaž bok kula se dołoj">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -349,10 +380,10 @@ size. -->
 <!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
 <!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
 <!ENTITY home_bookmarks_empty "Cytańske znamjenja, kótarež składujośo, pokazuju se how.">
+<!ENTITY home_closed_tabs_title "Njedawno zacynjone rejtarki">
 <!ENTITY home_last_tabs_title "Rejtarki ze slědnego raza">
-<!ENTITY home_last_tabs_open "Wšykne rejtarki ze slědnego raza wócyniś">
 <!ENTITY home_last_tabs_empty "Waše nejnowše rejtarki pokazuju se how.">
-<!ENTITY home_most_recent_title "Nejnowše">
+<!ENTITY home_open_all "Wšykne wócyniś">
 <!ENTITY home_most_recent_empty "Websedła, kótarež sćo se njedawno woglědał, pokazuju se how.">
 <!ENTITY home_reading_list_empty "Nastawki, kótarež składujośo na pózdźej, pokazuju se how.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +402,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Až do &formatS;">
+
+<!ENTITY private_browsing_title "Priwatny modus">
+<!ENTITY private_tabs_panel_empty_desc "Waše priwatne rejtarki se how pokažu. Mjaztym až njewobchujomy pśeglědowańsku historiju abo cookije, budu se cytańske znamjenja a dataje, kótarež ześěgujośo, hyšći na wašom rěźe składowaś.">
+<!ENTITY private_tabs_panel_learn_more "Cośo wěcej zgóniś?">
 
 <!ENTITY pin_site_dialog_hint "Zapódajśo pytańske klucowe słowo">
 
@@ -456,6 +491,8 @@ z Androida">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
