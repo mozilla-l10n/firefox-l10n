@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Menyemak kemaskinian">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
-<!ENTITY update.updateButton.label                "Ulang hidup untuk Mengemaskini">
-<!ENTITY update.updateButton.accesskey            "U">
+<!ENTITY update.updateButton.label2                "Ulang mula &brandShortName; untuk Kemaskini">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Terapkan Kemaskini…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

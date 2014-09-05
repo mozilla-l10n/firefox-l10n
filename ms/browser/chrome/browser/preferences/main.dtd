@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; pelayar lalai anda">
+
+
