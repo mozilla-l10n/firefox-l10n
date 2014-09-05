@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk memulakan &brandShortName;.">
 <!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang diperlukan untuk menjalankan &brandShortName;">
+
+<!ENTITY  onboard_start_message "Selamat Datang ke &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Komited kepada anda, privasi anda, dan Web terbuka">
+<!ENTITY  onboard_start_button_account "Daftar masuk ke &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,9 +39,9 @@
 
 <!ENTITY choose_file "Pilih Fail">
 
-<!ENTITY url_bar_default_text "Masukkan Carian atau Alamat">
+<!ENTITY url_bar_default_text2 "Carian atau masukkan alamat">
 
-<!ENTITY bookmark "Penandabuku">
+<!ENTITY bookmark "Penanda buku">
 <!ENTITY bookmark_added "Penandabuku ditambah">
 <!ENTITY bookmark_removed "Penandabuku dikeluarkan">
 <!ENTITY bookmark_updated "Penandabuku dikemaskini">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Lalai sistem">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Tambah ke &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Penanda buku">
+<!ENTITY overlay_share_reading_list_btn_label "Tambah ke Senarai Bacaan">
+<!ENTITY overlay_share_send_other "Hantar ke peranti lain">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Hantar ke peranti lain">
+<!ENTITY overlay_share_no_url "Tiada pautan ditemui di dalam kongsian ini">
+<!ENTITY overlay_share_retry "Cuba lagi">
+<!ENTITY overlay_share_select_device "Pilih peranti">
 
 <!ENTITY pref_category_search3 "Carian">
 <!ENTITY pref_category_search_summary "Menyesuai penyedia carian anda">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Padam sekarang">
 <!ENTITY pref_clear_private_data_category "Bersihkan data peribadi">
 <!ENTITY pref_clear_on_exit_title "Sentiasa padam semasa keluar">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \&quot;Berhenti\&quot; daripada menu utama">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Bolehkan">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Musang oren yang pantas melompat melebihi jangkaan anda dengan kelajuan yang lebih, lebih fleksibiliti dan lebih keselamatan. Sebagai organisasi tanpa untung, kami bebas untuk melakukan pembaharuan bagi pihak anda tanpa sebarang tekanan untuk berkompromi. Ini bermakna pengalaman yang lebih baik untuk anda dan masa depan yang lebih cerah untuk Web.">
 
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
-<!ENTITY pref_show_product_announcements "Tunjuk pengumuman produk">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
 <!ENTITY pref_import_android "Import dari Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Sebelumnya">
 <!ENTITY find_next "Seterusnya">
 <!ENTITY find_close "Tutup">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Pemutusan kepada PEranti">
+<!ENTITY media_sending_to "Menghantar ke Peranti">
 <!ENTITY media_play "Memainkan">
 <!ENTITY media_pause "Jeda">
 <!ENTITY media_stop "Henti">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Tajuk bar">
 <!ENTITY pref_titlebar_mode_title "Tunjukkan tajuk halaman">
 <!ENTITY pref_titlebar_mode_url "Tunjukkan alamat halaman">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Gulung bar tajuk">
+<!ENTITY pref_scroll_title_bar2 "Pelayaran Skrin-penuh ">
+<!ENTITY pref_scroll_title_bar_summary "Sorok bar tajuk &brandShortName; apabila skrol ke bawah laman">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ dari Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

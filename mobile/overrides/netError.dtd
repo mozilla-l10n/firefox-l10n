@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Tidak dapat menyambung ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Semak alamat untuk ralat menaip seperti 
-<strong>ww</strong>.example.com yang sepatutnya 
-<strong>www</strong>.example.com</li> 
-<li>Jika anda tidak dapat memuatkan mana-mana halaman, periksa data peranti anda atau sambungan Wi-Fi.</li> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>Periksa alamat untuk kesalah menaip seperti 
+<strong>ww</strong>.example.com yang sepatutnya 
+<strong>www</strong>.example.com</li> 
+<li>Jika anda tidak dapat memuat sebarang laman, periksa sambungan data atau Wi-Fi telefon anda. 
+<button id='wifi'>Dayakan Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Sambungan terganggu">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumen Luput">
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Lagi untuk meminta semula dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luar talian">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Cuba lagi. &brandShortName; akan cuba membuka sambungan dan ulangmuat laman.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Cuba lagi. &brandShortName; akan membuat cubaan untuk membuka sambungan dan memuat laman. 
+<button id='wifi'>Dayakan Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Sambungan diulang tetap">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@ berfungsi.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Semak tetapan proksi untuk memastikan yang ianya adalah betul</li> 
-<li>Semak untuk memastikan peranti anda mempunyai sambungan data atau Wi-Fi yang berfungsi.</li> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Periksa tetapan proksi untuk memastikan yang ianya adalah betul.</li> 
+<li>Periksa juga yang peranti anda mempunyai sambungan data atau Wi-Fi. 
+<button id='wifi'>Dayakan Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
@@ -114,9 +120,11 @@ Sekuriti Peribadi yang terpasang.</li>
  sementara, dan anda boleh cuba lagi kemudian.</li>
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Laman mungkin tiada buat sementara waktu atau sibuk. Cuba lagi dalam beberapa ketika.</li> 
-<li>Jika anda tidak dapat memuat sebarang laman, periksa sambungan data atau Wi-Fi peranti mudah alih anda.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Laman ini mungkin belum tersedia buat sementara waktu atau terlalu sibuk. Cuba lagi seketika nanti.</li> 
+<li>Jika anda tidak dapat memuat sebarang laman, periksa sambungan data mudah alih atau Wifi peranti anda. 
+<button id='wifi'>Enable Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
