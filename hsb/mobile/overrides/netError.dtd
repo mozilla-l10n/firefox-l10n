@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Zwisk móžno njeje">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tuta adresa je wobmjezowana">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serwer njebu namakany">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Přepruwujće adresu za pisanskimi zmylkami kaž 
 <strong>ww</strong>.přikład.de město 
 <strong>www</strong>.přikład.de</li> 
-<li>Jeli njemóžeće strony začitać, přepruwujće daty swojeho grata abo swój Wi-Fi-zwisk.</li> 
+<li>Jeli njemóžeće strony začitać, přepruwujće daty swojeho grata abo swój WLAN-zwisk. 
+<button id='wifi'>WLAN zmóžnić</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njebu namakana">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Zwisk bu přetorhnjeny">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument je njepłaćiwy">
 <!ENTITY notCached.longDesc "<p>Požadany dokument w pufrowaku &brandShortName; k dispoziciji njesteji.</p><ul><li>Jako wěstnotnu naprawu &brandShortName; delikatne dokumenty awtomatisce znowa njewotwołuje.</li><li>Klikńće na Hišće raz, zo byšće dokument hišće raz z websydła wotwołał.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-modus">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Spytajće hišće raz. &brandShortName; spyta, zwisk wočinić a stronu znowa začitać.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Spytajće hišće raz. &brandShortName; spyta zwisk wočinjeć a stronu znowa začitować. 
+<button id='wifi'>WLAN zmóžnić</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Zmylk při kodowanju wobsaha">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Zwisk bu wróćo stajeny">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Zwisk je čas překročił">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa njebu zrozumjena">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@ dźěła.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Njemóžno proksy-serwer namakać">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo su korektne.</li> 
-<li>Přepruwujće, zo byšće zawěsćił, zo waš grat ma fungowacy datowy abo Wi-Fi-zwisk.</li> 
+<li>Přepruwujće, zo byšće zawěsćił, zo waš grat ma fungowacy datowy abo WLAN-zwisk. 
+<button id='wifi'>WLAN zmóžnić</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Strona njesprawje posrědkuje">
@@ -114,9 +120,11 @@ zo něchtó pospytuje serwer imitować.</li> 
 snano nachwilny być a móžeće pozdźišo hišće raz spytać.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Sydło njesteji snano nachwilu k dispoziciji abo je přećežene. Spytajće za mało wokomikow hišće raz.</li> 
-<li>Jeli njemóžeće strony začitać, přepruwujće datowy abo Wi-Fi-zwisk wašeho mobilneho grata.</li> 
+<li>Jeli njemóžeće strony začitać, přepruwujće datowy abo WLAN-zwisk wašeho mobilneho grata. 
+<button id='wifi'>WLAN zmóžnić</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
