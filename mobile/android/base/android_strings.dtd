@@ -272,6 +272,12 @@
 <!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
+<!ENTITY home_remote_tabs_title "Синхронизированные вкладки">
+<!ENTITY home_remote_tabs_empty "Ваши вкладки с других устройств появятся здесь.">
+<!ENTITY home_remote_tabs_unable_to_connect "Попытка соединения не удалась">
+<!ENTITY home_remote_tabs_need_to_sign_in "Пожалуйста, войдите, чтобы снова подключиться к учётной записи Firefox и продолжить синхронизацию.">
+<!ENTITY home_remote_tabs_trouble_verifying "Проблема с подтверждением вашей учётной записи?">
+<!ENTITY home_remote_tabs_need_to_verify "Пожалуйста, подтвердите вашу учётную запись Firefox, чтобы начать синхронизацию.">
 <!ENTITY private_browsing_title "Приватный просмотр">
 <!ENTITY private_tabs_panel_empty_desc "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
