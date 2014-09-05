@@ -272,6 +272,8 @@
 <!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona modalità lettura che appare nella barra del titolo.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
 <!ENTITY home_move_up_to_filter "Vai a &formatS;">
+<!ENTITY home_remote_tabs_title "Schede sincronizzate">
+<!ENTITY home_remote_tabs_empty "In questa sezione verranno visualizzate le schede provenienti da altri dispositivi.">
 <!ENTITY private_browsing_title "Navigazione anonima">
 <!ENTITY private_tabs_panel_empty_desc "Le schede anonime verranno visualizzate in questa sezione. Mentre la cronologia di navigazione e i cookie non vengono conservati, i file scaricati e i segnalibri rimangono salvati sul dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Ulteriori informazioni.">
