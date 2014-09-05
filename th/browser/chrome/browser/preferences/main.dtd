@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "ล">
 <!ENTITY alwaysAsk.label "ถามทุกครั้งว่าจะบันทึกแฟ้มที่ไหน">
 <!ENTITY alwaysAsk.accesskey "ถ">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; เป็นเบราเซอร์ปริยายของคุณ">
+
+
