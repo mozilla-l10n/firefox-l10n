@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName;வை துவங்க போதிய காலி இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName;வை இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
+
+<!ENTITY  onboard_start_message "&brandShortName; வருக!">
+<!ENTITY  onboard_start_subtext "உங்களுக்கும், உங்களின் தனியுரிமைக்கும், திறந்த இணையத்திற்கும் உறுதியளிக்கிறோம்">
+<!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
+<!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "கோப்பினை தேர்வு செய்">
 
-<!ENTITY url_bar_default_text "தேடு அல்லது முகவரியை உள்ளிடு">
+<!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
 <!ENTITY bookmark "புத்தகக்குறி">
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "கணினி முன்னிருப்பு">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; இல் சேர்">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "புத்தகக்குறி">
+<!ENTITY overlay_share_reading_list_btn_label "படித்தல் பட்டியல்களுடன் சேர்">
+<!ENTITY overlay_share_send_other "பிற சாதனங்களுக்கு அனுப்பு">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "மற்றொரு சாதனத்திற்கு அனுப்பு">
+<!ENTITY overlay_share_no_url "இப்பகிர்வில் எவ்வித தொடுப்பும் இல்லை">
+<!ENTITY overlay_share_retry "மீண்டும் முயற்சிக்கவும்">
+<!ENTITY overlay_share_select_device "சாதனத்தை தேர்">
 
 <!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_search_summary "தேடு பொறி வழங்குநர்களை தனிப்பயனாக்கு">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "இப்போது துடை">
 <!ENTITY pref_clear_private_data_category "தனிபயன் தரவை நீக்கவும்">
 <!ENTITY pref_clear_on_exit_title "வெளியேறும்பொது துடை">
-<!ENTITY pref_clear_on_exit_summary "முதன்மை பட்டியலில் \&quot;வெளியேறு\&quot; என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; தானாகவே துடைத்துவிடும்">
+<!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \&quot;வெளியேறு\&quot; என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; தானாகவே துடைத்துவிடும்">
 <!ENTITY pref_clear_on_exit_dialog_title "துடைக்க வேண்டிய தரவை தேர்">
 <!ENTITY pref_plugins "செருகுநிரல்கள்">
 <!ENTITY pref_plugins_enabled "செயல்படுத்தப்பட்டது">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "செம்மஞ்சள் நிற நரி உங்களுடைய எதிர்பார்ப்புகளுக்கும் மேல் அதிக வேகத்துடன், அதிக நெகிழ்வு தன்மையும் மேலும் பாதுகாப்புடனும் மேலோங்கி இருக்கிறது. ஒரு இலாப நோக்கற்ற, எந்த சமரசமும் அழுத்தமும் இல்லாமல் உங்கள் சார்பாக கட்டற்று புத்தாக்கத்தை உருவாக்க இருக்கிறோம். அப்படி என்றால் உங்களுக்கு நல்லதொரு அனுபவம் மற்றும் இணையத்திற்கு ஒளிமையமான எதிர்காலமும் எனலாம்.">
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
-<!ENTITY pref_show_product_announcements "தயாரிப்பு அறிவிப்புகளைக் காட்டு">
 <!ENTITY pref_sync "ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்கு">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "முந்தையது">
 <!ENTITY find_next "அடுத்து">
 <!ENTITY find_close "மூடு">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "சாதனத்துக்கு வார்க்கப்படுகிறது">
+<!ENTITY media_sending_to "சாதனத்துக்கு அனுப்புகிறது">
 <!ENTITY media_play "இயக்கு">
 <!ENTITY media_pause "இடைநிறுத்து">
 <!ENTITY media_stop "நிறுத்து">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "தலைப்பு பட்டையை உருட்டு">
+<!ENTITY pref_scroll_title_bar2 "முழுத்திரை உலாவல்">
+<!ENTITY pref_scroll_title_bar_summary "ஒரு பக்கத்தை கீழே உருட்டும் போது &brandShortName; தலைப்பு பட்டையை மறை">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
