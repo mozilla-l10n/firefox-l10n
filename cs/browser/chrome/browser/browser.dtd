@@ -723,9 +723,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
-<!ENTITY webrtcIndicatorButton.label "Sdílení kamery / mikrofonu">
-<!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, se kterými aktuálně sdílíte kameru nebo mikrofon">
-
 <!-- Bad Content Blocker Doorhanger Notification -->
 <!ENTITY badContentBlocked.moreinfo "Většina webových stránek bude fungovat i tehdy, když je obsah blokován.">
 
