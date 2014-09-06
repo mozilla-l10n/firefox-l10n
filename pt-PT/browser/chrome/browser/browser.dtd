@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Itens da barra de marcadores">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Recarregar todos os separadores">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcadores em todos os separadores…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Anular fechar separador">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+
 <!ENTITY pageSourceCmd.label "Código fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey 			"v">
 <!ENTITY devAppMgrMenu.label 				"Gestor de aplicações">
 <!ENTITY devAppMgrMenu.accesskey 			"a">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode 				"VK_F2">
 <!ENTITY devToolbar.keytext 				"F2">
 <!ENTITY devToolboxMenuItem.label 			"Trocar ferramentas">
@@ -688,6 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">
 <!ENTITY customizeMode.toolbars "Mostrar/Ocultar barra de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.lwthemes "Temass">
+<!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
+<!ENTITY customizeMode.lwthemes.recommended "Recomendado">
+<!ENTITY customizeMode.lwthemes.menuManage "Gerir">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">
@@ -702,15 +720,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "h">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfone a partilhar:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 
-<!ENTITY webrtcIndicatorButton.label "Acesso ao equipamento/microfone">
-<!ENTITY webrtcIndicatorButton.tooltip "Mostra os sítios partilhados com o seu equipamento ou microfone">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "A maioria dos sítios web funcionam normalmente mesmo com conteúdo bloqueado.">
 
-<!ENTITY loopCallButton.tooltip "Convide alguém para falar">
+<!ENTITY mixedContentBlocked2.message "Conteúdo inseguro">
+<!ENTITY mixedContentBlocked2.moreinfo "Alguns elementos não cifrados foram bloqueados.">
+<!ENTITY mixedContentBlocked2.learnMore "Saber mais">
+<!ENTITY mixedContentBlocked2.options "Opções">
+<!ENTITY mixedContentBlocked2.unblock.label "Desativar proteção por agora">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Ativar proteção">
+<!ENTITY mixedContentBlocked2.block.accesskey "v">
+<!ENTITY mixedContentBlocked2.disabled.message "Proteção desativada">
 
-<!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar mesmo se este conteúdo for bloqueado.">
+<!ENTITY trackingContentBlocked.message "Seguimento">
+<!ENTITY trackingContentBlocked.moreinfo "Partes da página que seguem a sua atividade na rede foram bloqueadas.">
+<!ENTITY trackingContentBlocked.learnMore "Saber mais">
+<!ENTITY trackingContentBlocked.options "Opções">
+<!ENTITY trackingContentBlocked.unblock.label2 "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.disabled.message "Proteção do seguimento desativado">
 
-<!ENTITY pointerLock.notification.message "Prima ESC, em qualquer momento, para mostrar novamente.">
+<!ENTITY pointerLock.notification.message "Pressione ESC a qualquer momento para mostrar de novo.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
