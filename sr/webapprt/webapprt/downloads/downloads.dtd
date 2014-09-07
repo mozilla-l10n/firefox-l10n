@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY starting.label                   "Стартовање…">
+<!ENTITY scanning.label                   "Скенирање вируса…">
+
+<!ENTITY downloads.title                  "Преузимања">
+
+<!ENTITY cmd.pause.label                  "Паузирај">
+<!ENTITY cmd.pause.accesskey              "з">
+<!ENTITY cmd.resume.label                 "Настави">
+<!ENTITY cmd.resume.accesskey             "Н">
+<!ENTITY cmd.cancel.label                 "Откажи">
+<!ENTITY cmd.cancel.accesskey             "О">
+<!ENTITY cmd.show.label                   "Отвори фолдер">
+<!ENTITY cmd.show.accesskey               "Ф">
+<!ENTITY cmd.showMac.label                "Прикажи у Finder-у">
+<!ENTITY cmd.showMac.accesskey            "у">
+<!ENTITY cmd.open.label                   "Отвори">
+<!ENTITY cmd.open.accesskey               "т">
+<!ENTITY cmd.openWith.label               "Отвори са…">
+<!ENTITY cmd.openWith.accesskey           "с">
+<!ENTITY cmd.retry.label                  "Понови">
+<!ENTITY cmd.retry.accesskey              "в">
+<!ENTITY cmd.goToDownloadPage.label       "Иди на страницу за преузимање">
+<!ENTITY cmd.goToDownloadPage.accesskey   "И">
+<!ENTITY cmd.copyDownloadLink.label       "Копирај везу за преузимање">
+<!ENTITY cmd.copyDownloadLink.accesskey   "К">
+<!ENTITY cmd.removeFromList.label         "Уклони са листе">
+<!ENTITY cmd.removeFromList.accesskey     "л">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.clearList.label              "Очисти листу">
+<!ENTITY cmd.clearList.tooltip            "Уклања завршена, отказана и неуспела преузимања са листе">
+<!ENTITY cmd.clearList.accesskey          "њ">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
+
+<!ENTITY closeWhenDone.label              "Затвори кад се преузимања заврше">
+<!ENTITY closeWhenDone.tooltip            "Затвара прозор за преузимања једном када су све датотеке преузете">
+
+<!ENTITY showFolder.label                 "Прикажи у фолдеру">
+<!ENTITY searchBox.label                  "Претражи…">
