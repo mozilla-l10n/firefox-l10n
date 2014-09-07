@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey "v">
 
 <!ENTITY  chatNotifications.label             "À la réception d'un message qui vous est destiné :">
-<!ENTITY  desktopChatNotifications.label      "Afficher une notification">
+<!ENTITY  desktopChatNotifications.label      "Afficher une notification :">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "avec le nom de l'expéditeur et un aperçu du message">
+<!ENTITY  buddyInfoOnly.label                 "avec le nom de l'expéditeur uniquement">
+<!ENTITY  dummyNotification.label             "sans aucune information">
 <!ENTITY  chatSound.accesskey                 "n">
 <!ENTITY  chatSound.label                     "Jouer un son">
 <!ENTITY  play.label                          "Jouer">

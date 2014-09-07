@@ -16,6 +16,14 @@
 <!ENTITY dntTrackingOkay.label            "J'accepte d'être pisté">
 <!ENTITY dntTrackingOkay.accesskey        "c">
 
+<!ENTITY geoLocation.label                "Navigation géolocalisée">
+<!ENTITY geoIntro.label                   "Les sites web peuvent demander des informations sur votre emplacement actuel.">
+
+<!ENTITY geoEnabled.label                 "Demander ma permission à chaque fois">
+<!ENTITY geoEnabled.accesskey             "m">
+<!ENTITY geoDisabled.label                "Désactiver cette fonctionnalité et refuser toute demande">
+<!ENTITY geoDisabled.accesskey            "D">
+
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics
