@@ -97,10 +97,10 @@
 <!ENTITY certs.auto.accesskey      "c">
 <!ENTITY certs.ask                 "pytaj za każdym razem">
 <!ENTITY certs.ask.accesskey       "t">
+<!ENTITY enableOCSP.label                "Wyślij zapytanie do serwerów OCSP, aby potwierdzić aktualność certyfikatów">
+<!ENTITY enableOCSP.accesskey            "e">
 
 <!ENTITY viewCertificates.label        "Wyświetl certyfikaty">
 <!ENTITY viewCertificates.accesskey    "W">
-<!ENTITY validation.label              "Weryfikacja">
-<!ENTITY validation.accesskey          "e">
 <!ENTITY viewSecurityDevices.label     "Urządzenia zabezpieczające">
 <!ENTITY viewSecurityDevices.accesskey "U">
