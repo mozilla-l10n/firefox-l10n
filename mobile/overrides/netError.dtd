@@ -11,7 +11,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Повезивање немогуће">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
 <!ENTITY deniedPortAccess.longDesc "">
