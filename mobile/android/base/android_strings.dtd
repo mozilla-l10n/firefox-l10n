@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Нема довољно простора на располагању за &brandShortName;.">
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
+<!ENTITY  onboard_start_message "Добродошли у &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Посвећен Вама, Вашој приватности и отвореном вебу">
+<!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Започните прегледање">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Забелешке">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Изабери датотетку">
 
-<!ENTITY url_bar_default_text "Претражи или унеси адресу">
+<!ENTITY url_bar_default_text2 "Претражи или унеси адресу">
 
 <!ENTITY bookmark "Забелешка">
 <!ENTITY bookmark_added "Забелешка је додата">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Системски подразумеван">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Додај &brandShortName;-у">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Забелешка">
+<!ENTITY overlay_share_reading_list_btn_label "Додај листи за читање">
+<!ENTITY overlay_share_send_other "Пошаљи другом уређају">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Пошаљи другом уређају">
+<!ENTITY overlay_share_no_url "Ни једна веза није пронађена у овом дељењу">
+<!ENTITY overlay_share_retry "Покушај поново">
+<!ENTITY overlay_share_select_device "Одабери уређај">
 
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Очисти">
 <!ENTITY pref_clear_private_data_category "Очисти приватне податке">
 <!ENTITY pref_clear_on_exit_title "Увек очисти при изласку">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете Изађи из главног менија">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете Изађи из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се очисте">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује Ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у Ваше име без икаквог притиска на компромис. Самим тим Ви имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
 
 <!ENTITY pref_use_master_password "Користи главну лозинку">
-<!ENTITY pref_show_product_announcements "Прикажи најаве производа">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Прикажи предлоге претраге">
 <!ENTITY pref_import_android "Увези са Android-а">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "Следећи">
 <!ENTITY find_close "Затвори">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Приказ на уређају">
+<!ENTITY media_sending_to "Шаљем на уређај">
 <!ENTITY media_play "Пусти">
 <!ENTITY media_pause "Пауза">
 <!ENTITY media_stop "Заустави">
@@ -303,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Прикажи наслов странице">
 <!ENTITY pref_titlebar_mode_url "Прикажи адресу странице">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Скролуј насловну траку">
+<!ENTITY pref_scroll_title_bar2 "Прегледање у режиму преко целог екрана">
+<!ENTITY pref_scroll_title_bar_summary "Сакрива &brandShortName; насловну траку док скролујете">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
