@@ -33,7 +33,7 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-<!ENTITY runtimeMenu_showDetails_label "Info de tiempo de ejecución">
+<!ENTITY runtimeMenu_showDetails_label "Info del tiempo de ejecución">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
@@ -46,7 +46,7 @@
 <!ENTITY viewMenu_showAddons_accesskey "M">
 
 <!ENTITY projectButton_label "Abrir App">
-<!ENTITY runtimeButton_label "Seleccionar tiempo de ejecución">
+<!ENTITY runtimeButton_label "Seleccionar entorno de ejecución">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -126,7 +126,7 @@
 <!ENTITY permissionstable_name_header "Nombre">
 
 <!-- Runtime Details -->
-<!ENTITY runtimedetails_title "Info de tiempo de ejecución">
+<!ENTITY runtimedetails_title "Info del tiempo de ejecución">
 <!ENTITY runtimedetails_adbIsRoot "ADB es root: ">
 <!ENTITY runtimedetails_summonADBRoot "rootear dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(requiere bootloader desbloqueado)">
