@@ -73,7 +73,9 @@
   
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (przestarzałe)'>
-  
+
+<!ENTITY sync.default.client.name '&formatS1; w urządzeniu &formatS2;'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Zakładki'>
 <!ENTITY bookmarks.folder.places.label ''>
