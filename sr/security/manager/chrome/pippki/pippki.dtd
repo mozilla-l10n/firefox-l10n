@@ -81,11 +81,6 @@
 <!ENTITY createCertInfo.msg1 "Кључ се генерише…  Ово може да потраје неколико минута…">
 <!ENTITY createCertInfo.msg2 "Молимо да сачекате…">
 
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "Захтев за потпис текста">
-<!ENTITY formSigning.cert "Потписујем сертификат">
-<!ENTITY formSigning.confirmPassword "Како би потврдили да сте сагласни да потпишете текст поруке користећи изабрани сертификат, молим потврдите уносећи главну лозинку:">
-
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Аутентикација заштићеним токеном">
 <!ENTITY protectedAuth.msg "Молимо да се пријавите знаком распознавања (token).  Врста аутентикације зависи од врсте знака распознавања.">
