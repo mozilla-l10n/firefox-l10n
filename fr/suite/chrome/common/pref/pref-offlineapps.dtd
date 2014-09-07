@@ -20,6 +20,6 @@
 <!ENTITY offlineNotifyPermissions.label     "Gérer les permissions">
 <!ENTITY offlineNotifyPermissions.accesskey "G">
 
-<!ENTITY offlineAppsList.label              "Les sites suivants ont recours au stockage hors connexion :">
+<!ENTITY offlineAppsUsage.label             "Les sites suivants ont recours au stockage hors connexion :">
 <!ENTITY offlineAppsListRemove.label        "Effacer les données…">
 <!ENTITY offlineAppsListRemove.accesskey    "f">
