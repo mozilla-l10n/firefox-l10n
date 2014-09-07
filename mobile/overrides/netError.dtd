@@ -11,19 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "La connexion a échoué">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Cette adresse est interdite">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Adresse introuvable">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Veuillez vérifier la syntaxe de l'adresse
     (saisie de <strong>ww</strong>.exemple.com au lieu de
     <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
-  <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    données ou Wi-Fi de votre appareil&#x00A0;;</li>
+  <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion données ou Wi-Fi de votre appareil&#x00A0;;
+      <button id='wifi'>Activer le Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -52,15 +53,18 @@
 ">
 
 <!ENTITY netInterrupt.title "La connexion a été interrompue">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Le document a expiré">
 <!ENTITY notCached.longDesc "<p>Le document demandé n'est plus disponible dans le cache de &brandShortName;.</p><ul><li>Par mesure de sécurité, &brandShortName; ne redemande pas automatiquement de documents sensibles.</li><li>Cliquez sur Réessayer pour redemander ce document depuis le site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Essayez à nouveau. &brandShortName; essaiera d'ouvrir une connexion et d'actualiser la page.</li>
+  <li>
+    Essayez à nouveau. &brandShortName; essaiera d'ouvrir une connexion et d'actualiser la page.
+    <button id='wifi'>Activer le Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -79,10 +83,10 @@
 ">
 
 <!ENTITY netReset.title "La connexion a été réinitialisée">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Le délai d'attente est dépassé">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "L'adresse n'a pas été reconnue">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -101,10 +105,13 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Le serveur proxy est introuvable">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
-  <li>Vérifiez que la connexion données ou Wi-Fi de votre appareil fonctionne.</li>
+  <li>
+    Vérifiez que la connexion données ou Wi-Fi de votre appareil fonctionne.
+    <button id='wifi'>Activer le Wi-Fi</button>
+    </li>
 </ul>
 ">
 
@@ -142,12 +149,13 @@ ne peut être vérifiée.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
-  <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
-    tard&#x00A0;;</li>
-  <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    données ou Wi-Fi de votre appareil.</li>
+  <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus tard&#x00A0;;</li>
+  <li>
+    Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion données ou Wi-Fi de votre appareil.
+    <button id='wifi'>Activer le Wi-Fi</button>
+  </li>
 </ul>
 ">
 

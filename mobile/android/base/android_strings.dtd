@@ -330,9 +330,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
 <!ENTITY pref_titlebar_mode_url "Afficher l\u0027adresse de la page">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Barre de titre dynamique">
+<!ENTITY pref_scroll_title_bar2 "Navigation plein écran">
+<!ENTITY pref_scroll_title_bar_summary "Masquer la barre de titre de &brandShortName; lors du défilement de la page">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
