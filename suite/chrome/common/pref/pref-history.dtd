@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey "E">
 
 <!ENTITY  locationBarHistory.caption "Historique de la barre d'adresse">
+<!ENTITY  urlBarHistoryEnabled.caption      "Activer l'historique de la barre d'adresse">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "A">
 <!ENTITY  clearLocationBar.label "Effacer la liste des sites apparaissant dans le menu de la barre d'adresse">
 <!ENTITY  clearLocationBarButton.label "Effacer le contenu de la barre d'adresse">
 <!ENTITY  clearLocationBarButton.accesskey "b">

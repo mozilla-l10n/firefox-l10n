@@ -17,3 +17,13 @@
 <!ENTITY crashReports.caption "Rapporteur de plantage">
 <!ENTITY submitCrashes.label "Envoyer les rapports de plantage">
 <!ENTITY submitCrashes.accesskey "E">
+
+<!ENTITY devTools.caption                 "Outils de développement">
+<!ENTITY allowDebugger.label              "Autoriser un débogueur à se connecter à &brandShortName;">
+<!ENTITY allowDebugger.accesskey          "A">
+<!ENTITY allowRemoteConnections.label     "Autoriser les connexions depuis d'autres ordinateurs">
+<!ENTITY allowRemoteConnections.accesskey "o">
+<!ENTITY connectionPrompt.label           "Demander mon autorisation lors des connexions distantes">
+<!ENTITY connectionPrompt.accesskey       "D">
+<!ENTITY remoteDebuggerPort.label         "Numéro de port pour les connexions :">
+<!ENTITY remoteDebuggerPort.accesskey     "n">

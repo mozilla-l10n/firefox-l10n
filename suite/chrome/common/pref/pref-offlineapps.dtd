@@ -11,11 +11,15 @@
 <!ENTITY clearOfflineAppCache.label         "Effacer">
 <!ENTITY clearOfflineAppCache.accesskey     "E">
 
-<!ENTITY offlineNotify.label                "M'avertir lorsqu'un site demande de conserver des données pour une utilisation hors connexion.">
-<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineAlwaysAllow.label           "Autoriser tous les sites web à conserver des données pour une utilisation hors connexion">
+<!ENTITY offlineAlwaysAllow.accesskey       "A">
+<!ENTITY offlineExplicit.label              "Autoriser uniquement les sites grâce à des permissions explicites">
+<!ENTITY offlineExplicit.accesskey          "u">
+<!ENTITY offlineNotifyAsk.label             "M'avertir lorsqu'un site souhaite conserver des données pour une utilisation hors connexion">
+<!ENTITY offlineNotifyAsk.accesskey         "M">
 <!ENTITY offlineNotifyPermissions.label     "Gérer les permissions">
 <!ENTITY offlineNotifyPermissions.accesskey "G">
 
-<!ENTITY offlineAppsList.label              "Les sites suivants sont autorisés à stocker des données pour une utilisation hors connexion :">
+<!ENTITY offlineAppsList.label              "Les sites suivants ont recours au stockage hors connexion :">
 <!ENTITY offlineAppsListRemove.label        "Effacer les données…">
 <!ENTITY offlineAppsListRemove.accesskey    "f">
