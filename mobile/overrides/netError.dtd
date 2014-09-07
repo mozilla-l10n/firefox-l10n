@@ -53,7 +53,7 @@
 ">
 
 <!ENTITY netInterrupt.title "La connexion a été interrompue">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc3;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Le document a expiré">
 <!ENTITY notCached.longDesc "<p>Le document demandé n'est plus disponible dans le cache de &brandShortName;.</p><ul><li>Par mesure de sécurité, &brandShortName; ne redemande pas automatiquement de documents sensibles.</li><li>Cliquez sur Réessayer pour redemander ce document depuis le site web.</li></ul>">
@@ -83,10 +83,10 @@
 ">
 
 <!ENTITY netReset.title "La connexion a été réinitialisée">
-<!ENTITY netReset.longDesc "&sharedLongDesc3;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Le délai d'attente est dépassé">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc3;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "L'adresse n'a pas été reconnue">
 <!ENTITY unknownProtocolFound.longDesc "

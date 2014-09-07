@@ -100,7 +100,6 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marquer cette page">
 <!ENTITY overlay_share_reading_list_btn_label "Ajouter à la liste de lecture">
-<!ENTITY overlay_share_header "Envoyer à &brandShortName;">
 <!ENTITY overlay_share_send_other "Envoyer à d\u0027autres appareils">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
