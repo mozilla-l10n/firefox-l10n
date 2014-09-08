@@ -411,7 +411,11 @@ size. -->
 <!ENTITY home_move_up_to_filter "Revenir à &formatS;">
 
 <!ENTITY home_remote_tabs_title "Onglets synchronisés">
-<!ENTITY home_remote_tabs_empty "Vos onglets provenants d\u0027autres appareils s\u0027affichent ici.">
+<!ENTITY home_remote_tabs_empty "Vos onglets provenant d\u0027autres appareils s\u0027affichent ici.">
+<!ENTITY home_remote_tabs_unable_to_connect "Connexion impossible">
+<!ENTITY home_remote_tabs_need_to_sign_in "Veuillez vous connecter pour reconnecter votre compte Firefox et poursuivre la synchronisation.">
+<!ENTITY home_remote_tabs_trouble_verifying "Des soucis pour vérifier votre compte ?">
+<!ENTITY home_remote_tabs_need_to_verify "Veuillez vérifier votre compte Firefox pour lancer la synchronisation.">
 
 <!ENTITY filepicker_title "Choisir un fichier">
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
