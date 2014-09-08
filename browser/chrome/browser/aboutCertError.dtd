@@ -25,6 +25,7 @@ Sin embargo, la identidad de este sitio no pudo ser verificada.">
 <!ENTITY certerror.whatShouldIDo.content "Si comunmente te conectas a este sitio web 
 sin problemas, este error podría significar que alguien 
 está intentando suplantarlo y no deberías continuar.">
+
 <!ENTITY certerror.getMeOutOfHere.label "¡Sácame de aquí!">
 
 <!ENTITY certerror.expert.heading "Entiendo los riesgos">
