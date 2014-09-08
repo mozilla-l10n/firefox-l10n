@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Tipografía">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Tipografía para:">
 <!ENTITY  language.accesskey                      "f">
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monoespaciado:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Centroeuropeo">
+<!ENTITY  font.langGroup.latin                    "Latín">
 <!ENTITY  font.langGroup.japanese                 "Japonés">
 <!ENTITY  font.langGroup.trad-chinese             "Chino tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chino simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chino tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Griego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Unicode">
+
 <!ENTITY  font.langGroup.thai                     "Tailandés">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -76,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Árabe">
-<!ENTITY languages.customize.Fallback.baltic      "Báltico">
+
 <!ENTITY languages.customize.Fallback.ceiso       "Centroeuropeo, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Centroeuropeo, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -103,7 +99,6 @@
 <!ENTITY languages.customize.Fallback.thai        "Tailandés">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Turco">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamita">

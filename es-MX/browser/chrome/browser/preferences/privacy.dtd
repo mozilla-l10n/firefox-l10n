@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey      "h">
+
+
+
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
 <!ENTITY  history.label                 "Historial">

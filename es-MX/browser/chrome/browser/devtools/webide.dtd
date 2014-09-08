@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Desconectar">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Ver">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Instalar simulador">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Descripción">
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Cerrar">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "General">
+<!ENTITY prefs_restore "Restaurar los valores predeterminados">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Adivina la sangría basada en contenido de la fuente">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Auto cerra paréntesis">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Insertar automáticamente paréntesis cerrados">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Nombre">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Ayuda">
