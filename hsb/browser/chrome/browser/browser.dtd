@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Přiměrjeny webdesign">
 <!ENTITY responsiveDesignTool.accesskey "r">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Pipeta">
 <!ENTITY eyedropper.accesskey "i">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "n">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -700,13 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Standard wobnowić">
 <!ENTITY customizeMode.toolbars "Symbolowe lajsty pokazać/schować">
 <!ENTITY customizeMode.titlebar "Titulowa lajsta">
-
-
-
+<!ENTITY customizeMode.lwthemes "Drasty">
+<!ENTITY customizeMode.lwthemes.myThemes "Moje drasty">
+<!ENTITY customizeMode.lwthemes.recommended "Doporučeny">
 <!ENTITY customizeMode.lwthemes.menuManage "Rjadować">
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Dalše drasty wobstarać">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "l">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chaty wuzběhnyć">
@@ -724,22 +724,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Wšě widźomne wokna na wašej wobrazowce budu so dźělić.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Najwjace websydłow hišće porjadnje funguje, byrnjež so tutón wobsah blokował.">
 
-
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "Njewěsty wobsah">
+<!ENTITY mixedContentBlocked2.moreinfo "Někotre njezaklučowane elementy na tutym websydle su so zablokowali.">
+<!ENTITY mixedContentBlocked2.learnMore "Dalše informacije">
+<!ENTITY mixedContentBlocked2.options "Nastajenja">
+<!ENTITY mixedContentBlocked2.unblock.label "Škit nachwilnje znjemóžnić">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "z">
+<!ENTITY mixedContentBlocked2.block.label "Škit zmóžnić">
+<!ENTITY mixedContentBlocked2.block.accesskey "m">
+<!ENTITY mixedContentBlocked2.disabled.message "Škit je znjemóžnjeny">
 
 <!ENTITY trackingContentBlocked.message "Slědowanje">
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "Dźěle strony, kotrež wašu online-aktiwitu slěduja, su so zablokowali.">
+<!ENTITY trackingContentBlocked.learnMore "Dalše informacije">
+<!ENTITY trackingContentBlocked.options "Nastajenja">
+<!ENTITY trackingContentBlocked.unblock.label2 "Škit za tutu stronu znjemóžnić">
+<!ENTITY trackingContentBlocked.block.label "Škit zmóžnić">
+<!ENTITY trackingContentBlocked.disabled.message "Škit přećiwo slědowanju je znjemóžnjeny">
 
 <!ENTITY pointerLock.notification.message "Tłóčće ESC kóždy čas, zo byšće jón hišće raz pokazał.">
 

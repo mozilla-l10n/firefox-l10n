@@ -11,25 +11,39 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "Klikńće na">
+<!ENTITY profilerUI.emptyNotice2    "tłóčatko, zo byšće JavaScriptowe funkciske wołanja natočił.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "Klikńće znowa na">
+<!ENTITY profilerUI.stopNotice2    "tłóčatko, zo byšće analyzu běžneho časa skónčił.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "Začituje so…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "JavaScriptowe funkciske wołanja natočić.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
 <!ENTITY profilerUI.importButton "Importować…">
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
+
+<!ENTITY profilerUI.clearButton "Zhašeć">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
+<!ENTITY profilerUI.table.duration    "Čas (ms)">
+<!ENTITY profilerUI.table.percentage  "Kóšty">
+<!ENTITY profilerUI.table.invocations "Wołanja">
+<!ENTITY profilerUI.table.function    "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "Nowy rajtark z wuběra přidać">
