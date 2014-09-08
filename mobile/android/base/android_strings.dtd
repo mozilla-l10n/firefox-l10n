@@ -5,6 +5,11 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
+<!ENTITY  onboard_start_message "Welcome to &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Committed to you, your privacy, and an Open Web">
+<!ENTITY  onboard_start_button_account "Sign in to &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Start Browsing">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen. -->
 <!--      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "ਬੁੱਕਮਾਰਕ">
@@ -32,7 +37,7 @@
 
 <!ENTITY choose_file "ਫਾਇਲ ਚੁਣੋ">
 
-<!ENTITY url_bar_default_text "ਲੱਭੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
+<!ENTITY url_bar_default_text2 "ਲੱਭੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
@@ -83,6 +88,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "ਸਿਸਟਮ ਮੂਲ">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Add to &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Bookmark">
+<!ENTITY overlay_share_reading_list_btn_label "Add to Reading List">
+<!ENTITY overlay_share_send_other "Send to other devices">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
+<!ENTITY overlay_share_no_url "No link found in this share">
+<!ENTITY overlay_share_retry "Try again">
+<!ENTITY overlay_share_select_device "Select device">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -162,7 +188,7 @@
 <!ENTITY pref_clear_private_data2 "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_private_data_category "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_on_exit_title "ਬੰਦ ਕਰਨ ਉੱਤੇ ਹਮੇਸ਼ਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; ਆਟੋਮੈਟਿਕ ਹੀ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੇਗਾ, ਜਦੋਂ ਵੀ ਮੁੱਖ ਮੇਨੂ ਤੋਂ ਤੁਸੀਂ \u0022ਬੰਦ ਕਰੋ\u0022 ਦੀ ਚੋਣ ਕਰੋਗੇ">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ਆਟੋਮੈਟਿਕ ਹੀ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੇਗਾ, ਜਦੋਂ ਵੀ ਮੁੱਖ ਮੇਨੂ ਤੋਂ ਤੁਸੀਂ \u0022ਬੰਦ ਕਰੋ\u0022 ਦੀ ਚੋਣ ਕਰੋਗੇ">
 <!ENTITY pref_clear_on_exit_dialog_title "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਡਾਟਾ ਸਾਫ਼ ਕਰਨਾ ਹੈ">
 <!ENTITY pref_plugins "ਪਲੱਗਇਨ">
 <!ENTITY pref_plugins_enabled "ਚਾਲੂ ਹੈ">
@@ -191,7 +217,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "ਤੇਜ਼ ਸੰਤਰੀ ਲੂੰਬੜ ਵੱਧ ਤੇਜ਼ ਗਤੀ, ਵੱਧ ਆਗਿਆਕਾਰੀ ਸੁਭਾਅ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਆ ਨਾਲ ਤੁਹਾਡੀਆਂ ਉਮੀਦ ਤੋਂ ਅੱਗੇ ਲੰਘ ਗਿਆ ਹੈ। ਗ਼ੈਰ-ਫਾਇਦਾ ਹੋਣ ਕਰਕੇ, ਅਸੀਂ ਬਿਨਾਂ ਕਿਸੇ ਸਮਝੌਤੇ ਕਰਨ ਦੇ ਦਬਾਅ ਦੇ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਖੋਜਾਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਤੇ ਭਵਿੱਖ ਦੇ ਵੈੱਬ ਨੂੰ ਵਧੀਆ ਅਨੁਭਵ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
-<!ENTITY pref_show_product_announcements "ਪ੍ਰੋਡੱਕਟ ਐਲਾਨ ਵੇਖਾਓ">
 <!ENTITY pref_sync "ਸਿੰਕ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ">
@@ -291,9 +316,9 @@ size. -->
 <!ENTITY find_next "ਅੱਗੇ">
 <!ENTITY find_close "ਬੰਦ ਕਰੋ">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "ਯੰਤਰ ਉੱਤੇ ਵੇਖਾਓ">
+<!ENTITY media_sending_to "ਯੰਤਰ ਉੱਤੇ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY media_play "ਚਲਾਓ">
 <!ENTITY media_pause "ਵਿਰਾਮ">
 <!ENTITY media_stop "ਰੋਕੋ">
@@ -318,9 +343,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "ਸਫ਼ਾ ਟਾਈਟਲ ਵੇਖਾਓ">
 <!ENTITY pref_titlebar_mode_url "ਸਫ਼ਾ ਸਿਰਨਾਵਾਂ ਵੇਖਾਓ">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "ਟਾਈਟਲ ਪੱਟੀ ਸਕਰੋਲ ਕਰੋ">
+<!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
+<!ENTITY pref_scroll_title_bar_summary "Hide the &brandShortName; title bar when scrolling down a page">
   
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -478,6 +504,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
