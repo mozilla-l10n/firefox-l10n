@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "మలచిన సేవిక ఉపయోగించు…">
 <!ENTITY sync.input.server.label "సేవిక URL">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; అమర్చలేదు">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; సేవకికి అనుసంధానం అవలేకపోయింది. మళ్ళీ పయత్నిస్తారా?">
 <!ENTITY sync.button.tryagain.label "మరలా ప్రయత్నించు">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "మీ పరికరంలో ఖాతా సృష్టింపు విఫలమైంది.">
 <!ENTITY sync.subtitle.failmultiple.label "మీరు ఒకటి కన్నా ఎక్కువ ఫైర్‌ఫాక్స్ సంస్థాపించారా? ప్రస్తుతం, &syncBrand.fullName.label; ఒకే సారి ఒక ఫైర్‌ఫాక్స్ సంస్థాపనకు మాత్రమే తోడ్పాటునిస్తోంది. &syncBrand.shortName.label; ఉపయోగించుటకు దయచేసి ఇతర సంభవాలను నిర్మూలించండి.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "అమర్పు పూర్తైనది">
 <!ENTITY sync.subtitle.success.label1 "మీ దత్తాంశం ప్రస్తుతం బ్యాక్‌గ్రౌండ్ నందు దింపుకోలు అవుతోంది. మీ ఖాతాను నిర్వహించుటకు మీరు అమరికలకు వెళ్ళవచ్చు, లేదా &brandShortName; తో విహరణ ప్రారంభించవచ్చు.">
 <!ENTITY sync.settings.label "అమరికలు">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (ఆపివేయబడెను)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ఇష్టాంశముల మోనూ">
@@ -108,6 +113,8 @@
 
 
 <!ENTITY fxaccount_full_label "ఫైర్‌ఫాక్స్ ఖాతాలు">
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +182,9 @@
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
+
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: చేతనం">
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
@@ -194,13 +203,20 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "సేవా నియమాలు">
 <!ENTITY fxaccount_status_linkprivacy "గోప్యతా గమనిక">
+<!ENTITY fxaccount_status_more "మరిన్ని&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "ఫైర్‌ఫాక్స్ ఖాతాను తొలగించాలా?">
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "ఫైర్‌ఫాక్స్">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -223,6 +239,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "నెట్వర్కునకు అనుసంధానం కాలేదు">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; వలె ప్రవేశించడానికి తాకండి">
