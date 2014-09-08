@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Fasal gunari tuurante">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Noonezaakaw">
 <!ENTITY eyedropper.accesskey "z">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Taka jina tilasu">
 <!ENTITY customizeMode.toolbars "Goyjinay zuu cebe / tugu">
 <!ENTITY customizeMode.titlebar "Maa zuu">
+<!ENTITY customizeMode.lwthemes "Furarey">
+
+<!ENTITY customizeMode.lwthemes.recommended "Yaamarante">
+<!ENTITY customizeMode.lwthemes.menuManage "Juwal">
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Faakaarawey suuba">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Zanfun wala diji ka žemna:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "Z">
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Biizaahaya / Jindezaahaya toodoo">
-<!ENTITY webrtcIndicatorButton.tooltip "Cebe Interneti dogey kaŋ war goo m'i žemni nda bii- wala jindezaahaya sohõda">
 
-<!ENTITY loopCallButton.tooltip "Boro foo cee ka šelaŋ">
 
-<!ENTITY mixedContentBlocked.moreinfo "Interneti doo boobey ga koy boryo ba nda gundekunaa woo gagayandi.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Kuryan">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ESC naagu waati kul k'a cebe koyne.">
 

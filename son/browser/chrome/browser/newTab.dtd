@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nor loku taaga">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "Kabeboy bii hun.">
 <!ENTITY newtab.undo.undoButton "Taafeeri.">
 <!ENTITY newtab.undo.restoreButton "Ikul yeeti.">
 <!ENTITY newtab.undo.closeTooltip "Tugu">
-<!ENTITY newtab.sponsored.release.message "Kanbuzaakaw nungoo woo honnandi zama ir naata kaŋ war ga diira a ra nafaw nda kaŋ a ga tenji nda Mozilla sartoo.">
-<!ENTITY newtab.sponsored.trial.message2 "Nungoo woo honnandi zam'ir naata kaŋ war ga duu a ra nafaw nda kaŋ a ga tenji nda Mozilla sartoo.">
-<!ENTITY newtab.panel.link.text "Bay ka tonton…">

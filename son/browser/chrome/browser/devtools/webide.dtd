@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Ciyari dunbu">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Dijibii">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Gunari">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Dendenkaw sinji">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Šilbayyan">
+<!ENTITY details_location "Gorodoo">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Daabu">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Tontoney juwalkaa feeri">
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "Taka jina tilasu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Hirri-noryan hiise aššil gundekuna bande">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Boŋdaabu holgey">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Holgu daabuyan dam nga boŋ se">
+
+<!ENTITY prefs_options_keybindings_default "Tilasu">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Maa">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Faaba">

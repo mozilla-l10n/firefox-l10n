@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "Goo ma sutura kufal kaataray">
 <!ENTITY createCertInfo.msg1 "Kufal kaatarayyanoo goo fondaa ra… Woo ga hin ga too minitiyaŋ….">
 <!ENTITY createCertInfo.msg2 "Taare batu…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Kalimaɲaa kuru maa žeeriyan ŋaaray">
-<!ENTITY formSigning.cert "Goo ma tabatiyan-tiira maa žeeri">
-<!ENTITY formSigning.confirmPassword "Ka cimandi wala war yadda ka kalimaɲaa kuru alhabaroo nda war tabatiyan-tiira suubantaa, taare cimandi nda war takaddaɲaa šennikufaloo damyanoo:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Tammaasa lasal-tabatandiyan jejebante">

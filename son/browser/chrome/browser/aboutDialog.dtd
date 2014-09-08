@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Taagandirey ceeci">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label                "Tunandi taaga ka taagandi">
-<!ENTITY update.updateButton.accesskey            "T">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Taagandiri kanandi…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
