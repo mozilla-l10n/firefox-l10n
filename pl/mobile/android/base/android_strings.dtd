@@ -177,7 +177,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie dla ciebie i lepszą przyszłość dla Sieci.">
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
-<!ENTITY pref_show_product_announcements "Pokaż informacje o produktach">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
