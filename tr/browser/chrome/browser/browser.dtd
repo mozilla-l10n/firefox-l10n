@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Uyumlu tasarım modu">
 <!ENTITY responsiveDesignTool.accesskey "U">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Damlalık">
 <!ENTITY eyedropper.accesskey "D">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "U">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Araçları aç/kapat">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
 <!ENTITY customizeMode.toolbars "Araç çubuklarını göster veya gizle">
 <!ENTITY customizeMode.titlebar "Başlık çubuğu">
+<!ENTITY customizeMode.lwthemes "Temalar">
+<!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
+<!ENTITY customizeMode.lwthemes.recommended "Önerilen">
+<!ENTITY customizeMode.lwthemes.menuManage "Yönet">
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sohbetlere odaklan">
@@ -710,18 +719,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacak kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Paylaşılacak pencere veya ekran:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "n">
 <!ENTITY getUserMedia.selectMicrophone.label "Paylaşılacak mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızdaki tüm görünür pencereler paylaşılacaktır.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Kamera / Mikrofon Erişimi">
-<!ENTITY webrtcIndicatorButton.tooltip "Şu anda kameranızı veya mikrofonunuzu paylaştığınız siteleri görüntüler">
+<!ENTITY mixedContentBlocked2.message "Güvensiz içerik">
 
-<!ENTITY loopCallButton.tooltip "Birini konuşmaya davet edin">
+<!ENTITY mixedContentBlocked2.learnMore "Daha fazla bilgi">
+<!ENTITY mixedContentBlocked2.options "Seçenekler">
 
-<!ENTITY mixedContentBlocked.moreinfo "Bu içerik engellense bile çoğu web sitesi normal şekilde çalışacaktır.">
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "İzleme">
+
+<!ENTITY trackingContentBlocked.learnMore "Daha fazla bilgi">
+<!ENTITY trackingContentBlocked.options "Seçenekler">
+<!ENTITY trackingContentBlocked.unblock.label2 "Bu sitede korumayı devre dışı bırak">
+<!ENTITY trackingContentBlocked.block.label "Korumayı etkinleştir">
+<!ENTITY trackingContentBlocked.disabled.message "İzleme koruması devre dışı">
 
 <!ENTITY pointerLock.notification.message "Yeniden göstermek istediğinizde ESC tuşuna basın.">
 

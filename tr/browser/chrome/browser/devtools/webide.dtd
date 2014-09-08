@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Bağlantıyı kes">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Ekran görüntüsü">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Göster">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Simülatörü yükle">
+
+
+<!-- Lense -->
+
+
+
+<!ENTITY details_location "Konum">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Kapat">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Genel">
+<!ENTITY prefs_restore "Varsayılanları geri yükle">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "Varsayılan">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Adı">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Yardım">
