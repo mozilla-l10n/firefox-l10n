@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "u">
 <!ENTITY alwaysAsk.label "Pśecej se pšašaś, źož dataje maju se składowaś">
 <!ENTITY alwaysAsk.accesskey "P">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; jo tuchylu waš standardny wobglědowak">
+
+

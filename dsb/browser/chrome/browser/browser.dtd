@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Pśiměrjony webdesign">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Pipeta">
 <!ENTITY eyedropper.accesskey "i">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "n">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Rědy pśešaltowaś">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Symbolowe rědki pokazaś/schowaś">
 <!ENTITY customizeMode.titlebar "Titelowa rědka">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Zastojaś">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chaty wuzwignuś">
 <!ENTITY social.chatBar.accesskey "C">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotaraž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Wokno abo wobrazowka za źělenje:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "o">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Pśistup ku kamerje / k mikrofonoju">
-<!ENTITY webrtcIndicatorButton.tooltip "Sedła zwobrazniś, z kótarymiž tuchylu wužywaśo swóju kameru abo swój mikrofon gromaźe">
 
-<!ENTITY loopCallButton.tooltip "Někogo do rozgrona pśepšosyś">
 
-<!ENTITY mixedContentBlocked.moreinfo "Nejwěcej websedłow hyšći pórědnje funkcioněrujo, lěcrownož blokěrujo se toś to wopśimjeśe.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Slědowanje">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Tłocćo ESC kuždy cas, aby jen hyšći raz pokazał.">
 

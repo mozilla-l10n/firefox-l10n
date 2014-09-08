@@ -19,6 +19,9 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
+  -  the iframes menu list that appears only when the document has some.
+  -  It allows you to switch the context of the whole toolbox. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -115,8 +118,6 @@
   -  tools. -->
 
 <!ENTITY options.selectDevToolsTheme.label   "Drastwu za wuwijarske rědy wubraś:">
-<!ENTITY options.darkTheme.label             "Śamna drastwa">
-<!ENTITY options.lightTheme.label            "Swětła drastwa">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -176,7 +177,7 @@ běžnego casa platformowe symbole Gecko wopśimowaś">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Rožkate spinki awtomatiski zacyniś">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Zacynjajuce rožkate spinki awtomatiski zasajźiś">
 <!ENTITY options.sourceeditor.expandtab.label           "Z pomocu proznych znamjenjow zasunuś">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Prozne znamjenja město tabulatora wužywaś">
+
 <!ENTITY options.sourceeditor.tabsize.label             "Wjelikosć tabulatora">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "t">
 <!ENTITY options.sourceeditor.keybinding.label          "Tastowe wězanja">
