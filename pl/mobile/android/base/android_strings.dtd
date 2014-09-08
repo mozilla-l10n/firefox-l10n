@@ -266,7 +266,7 @@ size. -->
 <!ENTITY find_close "Zamknij">
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Przekazywanie do urządzenia">
+<!ENTITY media_sending_to "Przekazywanie do urządzenia">
 <!ENTITY media_play "Odtwórz">
 <!ENTITY media_pause "Pauza">
 <!ENTITY media_stop "Zatrzymaj">
