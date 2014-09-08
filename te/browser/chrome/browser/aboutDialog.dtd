@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "తాజాకరించడానికి పునఃప్రారంభించు">
-<!ENTITY update.updateButton.accesskey            "R">
+
+
 <!ENTITY update.applyButtonBillboard.label        "నవీకరణను వర్తింపచేయి…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

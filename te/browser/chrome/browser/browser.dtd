@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "స్పందించే ఆకృతి దర్శనం">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "ఐడ్రాపర్ (y)">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "సాధనాలను మార్చు">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "సాధనపట్టీలు చూపు / దాయి">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "నిర్వహించండి">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "సంభాషణలపై దృష్టిసారించు">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "పంచుకొనుటకు విండో లేదా తెర:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "కేమెరా / మైక్రోఫోన్ యాక్సెస్">
-<!ENTITY webrtcIndicatorButton.tooltip "ప్రస్తుతం మీ కేమెరా లేదా మైక్రోఫోన్ పంచుకొనుచన్న సైట్లను ప్రదర్శించు">
 
-<!ENTITY loopCallButton.tooltip "మాట్లాడుటకు ఎవరినైనా ఆహ్వానించు">
 
-<!ENTITY mixedContentBlocked.moreinfo "ఈ కాంటెంట్ నిరోధించబడినా కూడా చాలా వెబ్‌సైట్లు యింకా సరిగానే పనిచేయును.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ఆరాతీస్తోంది">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "దీనిని మరలా చూపుటకు యెప్పుడైనా ESC వత్తండి.">
 
