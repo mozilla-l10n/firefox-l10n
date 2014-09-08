@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Javob beradigan dezayn ko‘rinishi">
 <!ENTITY responsiveDesignTool.accesskey "J">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Ko‘zga tomizgich">
 <!ENTITY eyedropper.accesskey "K">
@@ -267,6 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 
 
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Asboblarni o‘chirish/yoqish">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Asboblar panelini koʻrsatish/yashirish">
 <!ENTITY customizeMode.titlebar "Sarlavha paneli">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Boshqarish">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Suhbatlarni markazda koʻrsatish">
 <!ENTITY social.chatBar.accesskey "m">
@@ -709,17 +718,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Boʻlishiladigan kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-
-
 <!ENTITY getUserMedia.selectMicrophone.label "Boʻlishish uchun mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.allWindowsShared.message "Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lishiladi.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
 
-<!ENTITY webrtcIndicatorButton.label "Kamera / mikrofonga ruxsat">
-<!ENTITY webrtcIndicatorButton.tooltip "Kamera yoki mikrofoningizni hozirda boʻlishayotgan saytlarni koʻrsatish">
 
 
-<!ENTITY mixedContentBlocked.moreinfo "Ushbu kontent bloklangandan soʻng koʻpgina veb saytlar yaxshi ishlay boshlaydi.">
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Kuzatish">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Uni yana koʻrsatish uchun xohlagan vaqtingizda &quot;ESC&quot; tugmasini bosing.">
 

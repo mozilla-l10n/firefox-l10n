@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Maxfiy koʻrish">
-<!ENTITY privatebrowsingpage.title.normal          "Maxfiy koʻrishni boshlashni xohlaysizmi?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; ushbu oynadagi tarixni saqlab qolmaydi.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Siz hozirda maxfiy oynada emassiz.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ushbu oynadagi tarixni saqlab qolmaydi.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "Maxfiy koʻrish oynasida, &brandShortName; hech qanday brauzer tarixi, izlash tarixi, yuklab olish tarixi, veb shakliagi izlash, kukilar yoki vaqtinchalik internet fayllarini saqlamaydi.  Shunday boʻlsa ham, yuklab olgan fayllaringiz va xatchoʻplaringiz saqlanadi.">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Maxfiy koʻrish oynasini ochish">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "Maxfiy koʻrishni menyudan &newPrivateWindow.label;ni tanlash bilan ham amalga oshirishingiz mumkin.">
-<!ENTITY privatebrowsingpage.howToStop3                "Maxfiy koʻrishni toʻxtatish uchun bu oynani yopishingiz mumkin.">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "Kirgan sahifalaringizni kompyuteringiz saqlab qolmasa ham, internet xizmati provayderingiz serveri kirgan sahifalaringizni saqlab qolishi mumkin.">
-<!ENTITY privatebrowsingpage.learnMore                 "Koʻproq oʻrganing">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
 
 <!ENTITY privatebrowsingpage.howToStart3               "Maxfiy koʻrishni boshlash uchun &basePBMenu.label; &gt; &newPrivateWindow.label;ni tanlashingiz mumkin.">

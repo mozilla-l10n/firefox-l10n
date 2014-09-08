@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Yangilanishlar uchun tekshirish">
 <!ENTITY update.checkForUpdatesButton.accesskey   "t">
-<!ENTITY update.updateButton.label                "Yangilash uchun qayta ishga tushirish">
-<!ENTITY update.updateButton.accesskey            "q">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Yangilashni qoʻllash...">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

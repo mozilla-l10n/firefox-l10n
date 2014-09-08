@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Shriftlar">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Ushbu uchun shriftlar:">
 <!ENTITY  language.accesskey                      "s">
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Gʻarbiy">
-<!ENTITY  font.langGroup.latin2                   "Markaziy Yevropa">
+<!ENTITY  font.langGroup.latin                    "Lotincha">
 <!ENTITY  font.langGroup.japanese                 "Yaponcha">
 <!ENTITY  font.langGroup.trad-chinese             "An`anaviy xitoycha (Tayvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Soddalashtirilgan xitoycha">
 <!ENTITY  font.langGroup.trad-chinese-hk          "An`anaviy xitoycha (Gongkong)">
 <!ENTITY  font.langGroup.korean                   "Koreyscha">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilcha">
-<!ENTITY  font.langGroup.baltic                   "Boltiqbo‘yi">
 <!ENTITY  font.langGroup.el                       "Yunoncha">
-<!ENTITY  font.langGroup.turkish                  "Turkcha">
-<!ENTITY  font.langGroup.unicode                  "Boshqa tillar">
+
 <!ENTITY  font.langGroup.thai                     "Tay">
 <!ENTITY  font.langGroup.hebrew                   "Yahudiycha">
 <!ENTITY  font.langGroup.arabic                   "Arabcha">
@@ -76,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabcha">
-<!ENTITY languages.customize.Fallback.baltic      "Boltibo‘yi">
+
 <!ENTITY languages.customize.Fallback.ceiso       "Markaziy Yevropa ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Markaziy Yevropacha, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -103,7 +99,6 @@
 <!ENTITY languages.customize.Fallback.thai        "Taycha">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Turkcha">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vetnamcha">

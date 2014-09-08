@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Yozganimda imlo tekshirilsin">
 <!ENTITY checkSpelling.accesskey         "Y">
 
-<!ENTITY systemDefaults.label            "Tizim standartlari">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Ishga tushirilganda doimo &brandShortName; standart brauzer ekanligi tekshirilsin">
-<!ENTITY alwaysCheckDefault.accesskey    "I">
-<!ENTITY setDefault.label                "&brandShortName;ni standart brauzer qilish">
-<!ENTITY setDefault.accesskey            "s">
-<!ENTITY isDefault.label                 "&brandShortName; - hozircha standart brauzeringiz.">
-
 <!ENTITY dataChoicesTab.label            "Tanlangan ma`lumot">
 
 <!ENTITY healthReportSection.label       "&brandShortName; yaroqlilik ma’lumotlari">

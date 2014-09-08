@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Yangi ichki oyna">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "Nishoncha olib tashlandi.">
 <!ENTITY newtab.undo.undoButton "Bekor qilish.">
 <!ENTITY newtab.undo.restoreButton "Barchasini tiklash.">
 <!ENTITY newtab.undo.closeTooltip "Yashirish">
-<!ENTITY newtab.sponsored.release.message "Ushbu homiy sayt tavsiya qilingan, chunki biz sizni qiziqib qolasiz deb umid qilgandik, sababi u Mozilla’ning vazifasini qo‘llab-quvvatlaydi.">
-
-<!ENTITY newtab.panel.link.text "Koʻproq oʻrganing...">
