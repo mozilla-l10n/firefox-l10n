@@ -25,6 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "ఏ సమస్య లేకుండా మీరు యీ సైటునకు అనుసంధానమైతే, 
 యెవరో సైటును అనుకరించుటకు ప్రయత్నించుటే  యీ దోషమునకు కారణం కాగలదు, 
 మరియు మీరు కొనసాగించకూడదు.">
+
 <!ENTITY certerror.getMeOutOfHere.label "నన్ను యిచట నుండి బయటకు తెమ్ము!">
 
 <!ENTITY certerror.expert.heading "నేను సవాళ్ళను అర్ధంచేసుకొన్నాను">

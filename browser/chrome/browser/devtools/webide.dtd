@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "అననుసంధానించు">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "తెరపట్టు">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "దర్శించు">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "సిమ్యులేటర్ సంస్థాపించు">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "వివరణ">
+<!ENTITY details_location "స్థానము">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "మూసివేయి">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "పొడిగింతలు నిర్వాహికను తెరువుము">
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "అప్రమేయాలను తిరిగివుంచు">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
+
+
+<!ENTITY prefs_options_autoclosebrackets "బ్రాకెట్లు స్వయంచాలకంగామూయి">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "పేరు">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "సహాయం">
