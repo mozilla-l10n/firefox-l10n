@@ -11,18 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "ఈచిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>కింది వాటి వంటి టైపింగ్ దోషాల కొరకు చిరునామాను పరిశీలించండి 
-<strong>www</strong>.example.com</li> బదులుగా 
-<strong>ww</strong>.example.com 
-<li>ఒకవేళ మీరు ఏ పేజీలను లోడు చేయలోకపోతూ ఉంటే, మీ పరికరపు డాటా లేదా వై-ఫై అనుసంధానం పరిశీలించండి.</li> 
-</ul>">
+
 
 <!ENTITY fileNotFound.title "ఫైల్  కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -43,15 +38,13 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "పత్రం కాలంచెల్లింది">
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>మళ్ళీ ప్రయత్నించండి. అనుంధానించి మళ్ళీ ఈ పేజీని తెరవడానికి &brandShortName; ప్రయత్నిస్తుంది.</li> 
-</ul>">
+
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "ఆచిరునామా అర్ధం కావడంలేదు">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +75,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ప్రోక్సీ సేవికను కనుగొనలేక పోయింది.">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>ప్రోక్సీ అమరికలు సరైనవో కావో ఖాయపరచుటకు వాటిని పరిశీలించండి.</li> 
-<li>మీ పరికరం పనిచేస్తున్న డాటా లేదా వై-ఫై అనుసంధానం కలిగివుండునట్లు చూసుకోండి.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "పేజీ సరిగా తిరిగిపంప బడుటలేదు">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,10 +104,6 @@
 కొద్దిసేపటి తరువాత ప్రయత్నించగలరు.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>సైటు తాత్కాలికంగా అందుబాటులో ఉండివండకపోవచ్చు లేదా వత్తిడిగా ఉండొచ్చు. కాసేపటి తరువాత మరలా ప్రయత్నించు.</li> 
-<li>ఒకవేళ మీరు ఏ పేజీలను లోడు చేయలేక పోతూంటే, మీ మొబైల్ పరికరపు డాటా లేదా వై-ఫై అనుసంధానం పరిశీలించండి.</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "విషయపు భద్రతా విధానం చేత నిరోధించబడింది">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
