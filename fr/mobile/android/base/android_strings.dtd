@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
 
 <!ENTITY  onboard_start_message "Bienvenue dans &brandShortName; !">
-<!ENTITY  onboard_start_subtext "Engagé pour vous, votre vie privée, et un Web ouvert">
+<!ENTITY  onboard_start_subtext "Engagé pour vous, votre vie privée et un Web ouvert">
 <!ENTITY  onboard_start_button_account "Se connecter à &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Commencer la navigation">
 
