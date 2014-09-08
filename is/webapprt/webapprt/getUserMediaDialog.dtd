@@ -1,16 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title "Samnýting efnis">
-<!ENTITY getUserMediaDialog.button.accept.label "Samnýta">
+
+<!ENTITY getUserMediaDialog.title                   "Samnýting efnis">
+<!ENTITY getUserMediaDialog.button.accept.label     "Samnýta">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "S">
-<!ENTITY getUserMediaDialog.button.cancel.label "Hætta við">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Hætta við">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "æ">
-<!ENTITY getUserMediaDialog.video.label "Veldu myndavél">
-<!ENTITY getUserMediaDialog.video.noVideo "Engin mynd">
-<!ENTITY getUserMediaDialog.audio.label "Veldu hljóðnema">
-<!ENTITY getUserMediaDialog.audio.noAudio "Ekkert hljóð">
+
+<!ENTITY getUserMediaDialog.video.label             "Veldu myndavél">
+<!ENTITY getUserMediaDialog.video.noVideo           "Engin mynd">
+<!ENTITY getUserMediaDialog.audio.label             "Veldu hljóðnema">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Ekkert hljóð">
