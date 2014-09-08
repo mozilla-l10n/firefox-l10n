@@ -27,13 +27,6 @@
 <!ENTITY checkSpelling.label             "ਜਿਵੇਂ ਮੈਂ ਲਿਖਾਂ ਤਦੇ ਹੀ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "ਸਿਸਟਮ ਡਿਫਾਲਟ">
-<!ENTITY alwaysCheckDefault.label        "ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; ਨੂੰ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; ਇਸ ਸਮੇਂ ਤੁਹਾਡਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ">
-
 <!ENTITY dataChoicesTab.label            "ਡਾਟਾ ਚੋਣਾਂ">
 
 <!ENTITY healthReportSection.label       "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
