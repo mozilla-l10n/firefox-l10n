@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Lorg ùrachaidhean">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label                "Ath-thòisich e gus ùrachadh">
-<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.updateButton.label2                "Tòisich &brandShortName; a-rithist airson ùrachadh">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Cuir an t-ùrachadh an sàs…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
