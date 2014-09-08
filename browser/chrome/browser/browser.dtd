@@ -221,6 +221,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
@@ -731,6 +733,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "ਡਿਫਾਲਟ ਮੁੜ-ਸਟੋਰ">
 <!ENTITY customizeMode.toolbars "ਟੂਲਬਾਰ ਵੇਖਾਓ/ਓਹਲੇ">
 <!ENTITY customizeMode.titlebar "ਟਾਈਟਲਬਾਰ">
+<!ENTITY customizeMode.lwthemes "Themes">
+<!ENTITY customizeMode.lwthemes.myThemes "ਮੇਰੇ ਥੀਮ">
+<!ENTITY customizeMode.lwthemes.recommended "ਸਿਫਾਰਸ਼ੀ ਹੈ">
+<!ENTITY customizeMode.lwthemes.menuManage "ਪਰਬੰਧ">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "ਹੋਰ ਥੀਮ ਲਵੋ">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ਗੱਲਬਾਤ ਫੋਕਸ">
@@ -743,18 +752,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੈਮਰਾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "ਵਿੰਡੋ ਜਾਂ ਸਕਰੀਨ ਸਾਂਝੀ ਕਰੋ:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
-<!ENTITY webrtcIndicatorButton.label "ਕੈਮਰਾ/ਮਾਈਕਰੋਫੋਨ ਵਰਤੋਂ">
-<!ENTITY webrtcIndicatorButton.tooltip "ਸਾਈਟਾਂ ਵੇਖਾਉਂਦਾ ਹੈ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਤੁਸੀਂ ਆਪਣਾ ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫੋਨ ਇਸ ਸਮੇਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "Most websites will work properly even if content is blocked.">
 
-<!ENTITY loopCallButton.tooltip "ਕਿਸੇ ਨੂੰ ਗੱਲ ਕਰਨ ਲਈ ਸੱਦਾ ਦਿਓ">
+<!ENTITY mixedContentBlocked2.message "ਅਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ">
+<!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
+<!ENTITY mixedContentBlocked2.learnMore "ਹੋਰ ਜਾਣੋ">
+<!ENTITY mixedContentBlocked2.options "ਚੋਣਾਂ">
+<!ENTITY mixedContentBlocked2.unblock.label "ਹੁਣ ਲਈ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
+<!ENTITY mixedContentBlocked2.block.accesskey "B">
+<!ENTITY mixedContentBlocked2.disabled.message "ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ">
 
-<!ENTITY mixedContentBlocked.moreinfo "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਹਾਲੇ ਵੀ ਠੀਕ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨਗੀਆਂ, ਭਾਵੇਂ ਕਿ ਇਹ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
+
+<!ENTITY trackingContentBlocked.message "Tracking">
+<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
+<!ENTITY trackingContentBlocked.learnMore "Learn More">
+<!ENTITY trackingContentBlocked.options "Options">
+<!ENTITY trackingContentBlocked.unblock.label2 "Disable protection for this site">
+<!ENTITY trackingContentBlocked.block.label "Enable protection">
+<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
 
