@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Cha ghabh ceangal a dhèanamh ris">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tha an seòladh seo cuingichte">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Cha deach am frithealaiche a lorg">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar 
 <strong>ww</strong>.ball-sampaill.com seach 
 <strong>www</strong>.ball-sampaill.com</li> 
-<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad.</li> 
+<li>Mur urrainn dhut duilleag sam bith a luchdadh, cuir sùil air ceangal dàta no WiFi an uidheim agad. 
+<button id='wifi'>Cuir WiFi an comas</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dh'fhalbh an ùine air an sgrìobhainn">
 <!ENTITY notCached.longDesc "<p>Chan eil an sgrìobhainn a dh&apos;iarr thu ri làimh san tasgadan aig &brandShortName;.</p><ul><li>Air sgàth adhbharan tèarainteachd, cha dèan &brandShortName; ath-iarrtas airson sgrìobhainnean cugallach gu fèin-obrachail.</li><li>Briog air &quot;Feuch ris a-rithist&quot; gus iarrtas eile a chur dhan làrach-lìn airson na sgrìobhainne.</li></ul>">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh. 
+<button id='wifi'>Cuir WiFi an comas</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Chaidh an ceangal ath-shuidheachadh">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Dh'fhalbh an ùine air a' cheangal">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Cha deach an seòladh a thuigsinn">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@ am progsaidh ag obair.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
-<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an uidheam agad.</li> 
+<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an uidheam agad. 
+<button id='wifi'>Cuir WiFi an comas</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Chan eil an duilleag ag ath-stiùireadh mar bu chòir">
@@ -108,24 +114,26 @@ an t-siostam agad.</li>
 
 <!ENTITY nssBadCert.title "Dh'fhàillig an ceangal tèarainte">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no 
-gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> 
+<li>Dh’fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no 
+gu bheil cuideigin a’ feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> 
 <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 
-'s mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> 
+’s mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann greis.</li> 
-<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Dh’fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann greis.</li> 
+<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad. 
+<button id='wifi'>Cuir WiFi an comas</button> 
+</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "’Ga chasgadh le poileasaidh tèarainteachd susbainte">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn ’s gu bheil poileasaidh tèarainteachd susbainte ann nach eil ’ga cheadachadh.</p>">
 
 <!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
-<!ENTITY corruptedContentError.longDesc "<p>Cha ghabh an duilleag a dh'iarr thu a shealltainn a chionn 's gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Cha ghabh an duilleag a dh’iarr thu a shealltainn a chionn ’s gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">
 
-<!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
+<!ENTITY securityOverride.linkText "No ’s urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
 <!ENTITY securityOverride.exceptionButtonLabel "Cuir eisgeachd ris…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

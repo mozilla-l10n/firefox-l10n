@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
 <!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
+
+<!ENTITY  onboard_start_message "Fàilte gu &brandShortName;!">
+<!ENTITY  onboard_start_subtext "An dealas riut-sa, do phrìobhaideachd is lìon fosgailte">
+<!ENTITY  onboard_start_button_account "Clàraich a-steach gu &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Tagh faidhle">
 
-<!ENTITY url_bar_default_text "Lorg no cuir ann seòladh">
+<!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
 
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Bun-roghainn an t-siostaim">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Cuir ri &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Comharra-lìn">
+<!ENTITY overlay_share_reading_list_btn_label "Cuir ris an liosta leughaidh">
+<!ENTITY overlay_share_send_other "Cuir gu uidheaman eile">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Cuir gu uidheam eile">
+<!ENTITY overlay_share_no_url "Cha deach ceangal a lorg san rud cho-roinnte seo">
+<!ENTITY overlay_share_retry "Feuch ris a-rithist">
+<!ENTITY overlay_share_select_device "Tagh uidheam">
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Falamhaich an-dràsta">
 <!ENTITY pref_clear_private_data_category "Falamhaich an dàta prìobhaideach">
 <!ENTITY pref_clear_on_exit_title "Falamhaich aig àm fàgail an-còmhnaidh">
-<!ENTITY pref_clear_on_exit_summary "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a bhriogas tu air \&quot;Fàg an-seo\&quot; sa phrìomh chlàr-taice">
+<!ENTITY pref_clear_on_exit_summary2 "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a thaghas tu “Fàg an-seo” sa phrìomh chlàr-taice">
 <!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
 <!ENTITY pref_plugins "Plugain">
 <!ENTITY pref_plugins_enabled "An comas">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \u0027s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \u0027s gun luaidh air brùthadh eaconamach. \u0027S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
-<!ENTITY pref_show_product_announcements "Seall naidheachdan bathar">
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Air ais">
 <!ENTITY find_next "Air adhart">
 <!ENTITY find_close "Dùin">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "A\u0027 tilgeil gun uidheam">
+<!ENTITY media_sending_to "A’ cur gun uidheam">
 <!ENTITY media_play "Cluich">
 <!ENTITY media_pause "Cuir \u0027na stad">
 <!ENTITY media_stop "Sguir dheth">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
 <!ENTITY pref_titlebar_mode_url "Seall seòladh na duilleige">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Sgrolaich bàr an tiotail">
+<!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
+<!ENTITY pref_scroll_title_bar_summary "Falaich bàr-tiotail &brandShortName; nuair a sgrolar sìos air duilleag">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -422,7 +448,7 @@ is na h-eachdraidh o Android">
 o Android">
 <!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
 o Android">
-<!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
+<!ENTITY bookmarkhistory_import_wait "Fuirich ort...">
 
 <!ENTITY suggestions_prompt3 "A bheil thu airson molaidhean luirg a chur air?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
@@ -465,6 +491,8 @@ o Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
