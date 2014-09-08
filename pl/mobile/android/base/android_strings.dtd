@@ -90,6 +90,16 @@ The locale includes both language and region concepts. -->
     to display browser chrome. -->
 <!ENTITY locale_system_default "Domyślny język systemu">
 
+<!ENTITY overlay_share_bookmark_btn_label "Dodaj zakładkę">
+<!ENTITY overlay_share_reading_list_btn_label "Dodaj do listy „Do przeczytania”">
+<!ENTITY overlay_share_header "Przekaż do przeglądarki &brandShortName;">
+<!ENTITY overlay_share_send_other "Przekaż do innych urządzeń">
+
+<!ENTITY overlay_share_send_tab_btn_label "Przekaż do innego urządzenia">
+<!ENTITY overlay_share_no_url "Nie znaleziono odnośnika do udostępnienia">
+<!ENTITY overlay_share_retry "Spróbuj ponownie">
+<!ENTITY overlay_share_select_device "Wybierz urządzenie">
+
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosuj wyszukiwarki">
 <!ENTITY pref_category_display "Wyświetlanie">
