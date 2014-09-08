@@ -11,13 +11,20 @@
 
 
 <!ENTITY connectionFailure.title "Ulana olmadi">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Bu manzil cheklangan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server topilmadi">
-
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>Manzillarning quyidagicha xato yozilganligini tekshirib ko‘ring:
+<strong>ww</strong>.example.com kabi yozilishi xato 
+<strong>www</strong>.example.com</li> shaklida yozilishi kerak 
+<li>Agar birorta ham sahifa yuklanmayotgan bo‘lsa, qurilmangizning internetga yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
+<button id='wifi'>Wi-Fi’ni yoqing</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -38,13 +45,17 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Hujjat eskirgan">
 <!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName;&apos;ning keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn usuli">
-
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani yangilashga urinib ko‘radi. 
+<button id='wifi'>Wi-Fi’ni yoqish</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -57,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Ulanish uzilib qolgan">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Manzil tushunilmadi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,7 +86,12 @@ tarmoq administratori bilan bog‘laning.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
-
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
+<li>Qurilmangizda internetga ulanish yoqilganligi yoki Wi-Fi’ga ualanganligini tekshirib ko‘ring. 
+<button id='wifi'>Wi-Fi’ni yoqish</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmagan">
 <!ENTITY redirectLoop.longDesc "<ul> 

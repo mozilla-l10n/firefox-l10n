@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; &formatS2;da">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Xatcho‘plar menyusi">
@@ -204,9 +206,10 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Xizmat shartlari">
 <!ENTITY fxaccount_status_linkprivacy "Maxfiylik eslatmalari">
+<!ENTITY fxaccount_status_more "Ko‘proq&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox hisobi o‘chirilsinmi?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; hisobingiz bilan sinxronlashni to‘xtatadi, ammo qurilmangizdagi ko‘rish tarixingizni o‘chirmaydi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 
