@@ -176,7 +176,7 @@
 <!ENTITY pref_clear_private_data2 "Vymazat nyní">
 <!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
 <!ENTITY pref_clear_on_exit_title "Vždy vymazat při ukončení">
-<!ENTITY pref_clear_on_exit_summary "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte Ukončit z hlavní nabídky"> 
+<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky"> 
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
@@ -205,7 +205,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
-<!ENTITY pref_show_product_announcements "Produktová oznámení">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Import z Androidu">
