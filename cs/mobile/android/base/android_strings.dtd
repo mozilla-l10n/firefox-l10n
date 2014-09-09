@@ -6,6 +6,11 @@
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
+<!ENTITY  onboard_start_message "Vítá vás &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Je tu pro vás, vaše soukromí a otevřený web">
+<!ENTITY  onboard_start_button_account "Přihlásit se k aplikaci &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Začít prohlížet">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Záložky">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Volba souboru">
 
-<!ENTITY url_bar_default_text "Hledat nebo vložit adresu">
+<!ENTITY url_bar_default_text2 "Hledat nebo vložit adresu">
 
 <!ENTITY bookmark "Záložky">
 <!ENTITY bookmark_added "Záložka přidána">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Systémové nastavení">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Přidat do aplikace &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Záložka">
+<!ENTITY overlay_share_reading_list_btn_label "Přidat do Seznamu ke čtení">
+<!ENTITY overlay_share_send_other "Odeslat do jiného zařízení">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Odeslat do jiného zařízení">
+<!ENTITY overlay_share_no_url "V tomto sdílení nebyl nalezen žádný odkaz">
+<!ENTITY overlay_share_retry "Zkusit znovu">
+<!ENTITY overlay_share_select_device "Volba zařízení">
 
 <!ENTITY pref_category_search3 "Vyhledávání">
 <!ENTITY pref_category_search_summary "Přizpůsobte si své vyhledávací moduly">
@@ -150,7 +176,7 @@
 <!ENTITY pref_clear_private_data2 "Vymazat nyní">
 <!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
 <!ENTITY pref_clear_on_exit_title "Vždy vymazat při ukončení">
-<!ENTITY pref_clear_on_exit_summary "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte Ukončit z hlavní nabídky"> 
+<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky"> 
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
@@ -179,7 +205,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
-<!ENTITY pref_show_product_announcements "Produktová oznámení">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Import z Androidu">
@@ -278,7 +303,7 @@ size. -->
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_sending_to "Odeslat do zařízení">
 <!ENTITY media_play "Přehrát">
 <!ENTITY media_pause "Pozastavit">
 <!ENTITY media_stop "Zastavit">
@@ -303,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazit adresu stránky">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Rolovací hlavička okna">
+<!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
+<!ENTITY pref_scroll_title_bar_summary "Při skrolování dolů na stránce skrýt hlavičku okna prohlížeče &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -358,7 +384,7 @@ size. -->
 <!ENTITY home_last_tabs_title "Panely z minula">
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_open_all "Otevřít vše">
-<!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navšívili, se zobrazí zde.">
+<!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navštívili, se zobrazí zde.">
 <!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -410,7 +436,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Zjistit více">
 <!ENTITY enable_protection "Povolit ochranu">
 <!ENTITY disable_protection "Zakázat ochranu">
-<!ENTITY keep_blocking "Ponehat blokování">
+<!ENTITY keep_blocking "Ponechat blokování">
 
 <!ENTITY private_data_success "Důvěrná data vymazána">
 <!ENTITY private_data_fail "Některá data se nepodařilo vymazat">
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

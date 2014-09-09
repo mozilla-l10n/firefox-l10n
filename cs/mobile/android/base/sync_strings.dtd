@@ -41,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label "Zkusit znovu">
 <!ENTITY sync.button.manual.label "Ruční nastavení">
 <!ENTITY sync.subtitle.nointernet.label "Připojení k Internetu není dostupné.">
-<!ENTITY sync.subtitle.failaccount.label "Vyvoření účtu skončilo chybou.">
+<!ENTITY sync.subtitle.failaccount.label "Vytvoření účtu skončilo chybou.">
 <!ENTITY sync.subtitle.failmultiple.label "Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní instalace aplikace Firefox odinstalovat.">
   
 <!-- Setup Success -->
@@ -51,7 +51,7 @@
 <!ENTITY sync.subtitle.manage.label1 "Účet &syncBrand.fullName.label; je nyní nastaven. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.">
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label "Prosím opkaujte znovu.">
+<!ENTITY sync.pair.tryagain.label "Prosím opakujte znovu.">
 <!ENTITY sync.pair.connectlocation.label "K aktivaci nového zařízení zvolte „Nastavit &syncBrand.shortName.label;“ a pak vyberte „Již mám účet“.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
@@ -73,6 +73,13 @@
   
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (zavrženo)'>
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; na &formatS2;'>
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "Nabídka záložek">
@@ -199,6 +206,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Podmínky služby'>
 <!ENTITY fxaccount_status_linkprivacy 'Poznámka k soukromí'>
+<!ENTITY fxaccount_status_more 'Více&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Odebrat Účet Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; přestane synchronizovat váš účet, ale nesmaže žádná data o vašem prohlížení.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Účet Firefoxu &formatS; byl odebrán.'>
+
+<!ENTITY fxaccount_remove_account_menu_item 'Odebrat účet'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nepodařilo se připojit k síti'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; není připojen'>
-<!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Klepněte pro přihlášení jako &formatS;'>
