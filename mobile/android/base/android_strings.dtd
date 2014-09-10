@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
+
+<!ENTITY  onboard_start_message "Croeso i &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Yn ymrwymedig i chi, eich preifatrwydd a\u0027r We Agored">
+<!ENTITY  onboard_start_button_account "Mewngofnodi i &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Dewis Ffeil">
 
-<!ENTITY url_bar_default_text "Chwilio neu Gyfeiriad Gwe">
+<!ENTITY url_bar_default_text2 "Chwilio neu gyfeiriad gwe">
 
 <!ENTITY bookmark "Nod Tudalen">
 <!ENTITY bookmark_added "Ychwanegwyd Nod Tudalen">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Rhagosodiad y system">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Ynghylch &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Nod Tudalen">
+<!ENTITY overlay_share_reading_list_btn_label "Ychwanegu at y Rhestr Ddarllen">
+<!ENTITY overlay_share_send_other "Anfon i ddyfais arall">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Anfon i ddyfais arall">
+<!ENTITY overlay_share_no_url "Dim dolen yn y rhaniad">
+<!ENTITY overlay_share_retry "Ceisio eto">
+<!ENTITY overlay_share_select_device "Dewis dyfais">
 
 <!ENTITY pref_category_search3 "Chwilio">
 <!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Clirio nawr">
 <!ENTITY pref_clear_private_data_category "Clirio data preifat">
 <!ENTITY pref_clear_on_exit_title "Clirio wrth adael, bob tro">
-<!ENTITY pref_clear_on_exit_summary "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \&quot;Gadael\&quot; o\u0027r prif ddewislen">
+<!ENTITY pref_clear_on_exit_summary2 "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \u0022Gadael\u0022 o\u0027r brif ddewislen">
 <!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
 <!ENTITY pref_plugins "Ategion">
 <!ENTITY pref_plugins_enabled "Galluogwyd">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
-<!ENTITY pref_show_product_announcements "Dangos cyhoeddiadau cynnyrch">
 <!ENTITY pref_sync "Cydweddu">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
 <!ENTITY find_close "Cau">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Lledu i Ddyfais">
+<!ENTITY media_sending_to "Anfon i Ddyfais">
 <!ENTITY media_play "Chwarae">
 <!ENTITY media_pause "Oedi">
 <!ENTITY media_stop "Atal">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
 <!ENTITY pref_titlebar_mode_url "Dangos cyfeiriad tudalen">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Sgrolio\u0027r bar teitl">
+<!ENTITY pref_scroll_title_bar2 "Pori sgrin lawn">
+<!ENTITY pref_scroll_title_bar_summary "Cuddio bar teitl &brandShortName; wrth sgrolio lawr tudalen">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ o Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
