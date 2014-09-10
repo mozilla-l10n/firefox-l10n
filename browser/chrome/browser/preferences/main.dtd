@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "r">
 <!ENTITY alwaysAsk.label "Klausti, kur įrašyti kiekvieną atsiunčiamą failą">
 <!ENTITY alwaysAsk.accesskey "K">
+
+
+
+
+<!ENTITY isDefault.label                  "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">
+
+
