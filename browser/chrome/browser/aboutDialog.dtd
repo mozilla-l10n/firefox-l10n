@@ -34,7 +34,7 @@
 <!ENTITY community.start2 "Aplikace &brandShortName; byla vytvořena organizací ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ". Jsme">
+<!ENTITY community.middle2 ". Jsme ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink "celosvětová komunita">
 <!ENTITY community.end3 " snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.">
