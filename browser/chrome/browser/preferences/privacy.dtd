@@ -10,8 +10,8 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "m">
 <!ENTITY dntTrackingOkay.label2         "Segja vefsvæðum að ég vilji láta fylgjast með mér">
 <!ENTITY dntTrackingOkay.accesskey      "t">
-
-
+<!ENTITY trackingProtection.label       "Koma í veg fyrir að vefsvæði fylgist með mér">
+<!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Fræðast meira">
 <!ENTITY doNotTrackInfo.label           "Fræðast meira">
 
