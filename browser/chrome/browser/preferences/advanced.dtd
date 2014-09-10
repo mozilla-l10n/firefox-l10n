@@ -26,13 +26,6 @@
 <!ENTITY checkSpelling.label             "Проверавај правопис док куцам">
 <!ENTITY checkSpelling.accesskey         "ц">
 
-<!ENTITY systemDefaults.label            "Подразумеване системске вредности">
-<!ENTITY alwaysCheckDefault.label        "При покретању провери да ли је &brandShortName; подразумевани прегледач"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "и">
-<!ENTITY setDefault.label                "Постави &brandShortName; као свој подразумевани веб прегледач">
-<!ENTITY setDefault.accesskey            "п">
-<!ENTITY isDefault.label                 "&brandShortName; је тренутно Ваш подразумевани веб прегледач">
-
 <!ENTITY dataChoicesTab.label            "Избор података">
 
 <!ENTITY healthReportSection.label       "&brandShortName; извештај здравља">

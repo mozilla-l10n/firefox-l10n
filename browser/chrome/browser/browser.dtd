@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -697,6 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
 <!ENTITY customizeMode.toolbars "Прикажи / Сакриј траке са алаткама">
 <!ENTITY customizeMode.titlebar "Трака наслова">
+<!ENTITY customizeMode.lwthemes "Теме">
+<!ENTITY customizeMode.lwthemes.myThemes "Моје теме">
+<!ENTITY customizeMode.lwthemes.recommended "Препоручене">
+<!ENTITY customizeMode.lwthemes.menuManage "Управљај">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
@@ -709,18 +718,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за делење:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Прозор или екран за делење:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "П">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон за делење:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 <!ENTITY getUserMedia.allWindowsShared.message "Сви видљиви прозори на Вашем екрану ће бити подељени.">
 
-<!ENTITY webrtcIndicatorButton.label "Приступ за Камеру / Микрофон">
-<!ENTITY webrtcIndicatorButton.tooltip "Прикажи сајтове са којима тренутно делим камеру или микрофон">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "Већина сајтова ће радити исправно, чак и ако је садржај блокиран.">
 
-<!ENTITY loopCallButton.tooltip "Позовите некога да разговарате">
+<!ENTITY mixedContentBlocked2.message "Несигуран садржај">
+<!ENTITY mixedContentBlocked2.moreinfo "Неки елементи енкрипције на овом сајту су блокирани.">
+<!ENTITY mixedContentBlocked2.learnMore "Сазнајте више">
+<!ENTITY mixedContentBlocked2.options "Опције">
+<!ENTITY mixedContentBlocked2.unblock.label "Онемогући заштиту за сада">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "н">
+<!ENTITY mixedContentBlocked2.block.label "Омогући заштиту">
+<!ENTITY mixedContentBlocked2.block.accesskey "О">
+<!ENTITY mixedContentBlocked2.disabled.message "Заштита је онемогућена">
 
-<!ENTITY mixedContentBlocked.moreinfo "Већина веб сајтова ће радити иако им садржај блокиран.">
+<!ENTITY trackingContentBlocked.message "Праћење">
+<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате Ваше онлајн активности су блокиране.">
+<!ENTITY trackingContentBlocked.learnMore "Сазнајте више">
+<!ENTITY trackingContentBlocked.options "Опције">
+<!ENTITY trackingContentBlocked.unblock.label2 "Онемогући заштиту за овај сајт">
+<!ENTITY trackingContentBlocked.block.label "Омогући заштиту">
+<!ENTITY trackingContentBlocked.disabled.message "Заштита од праћења је онемогућена">
 
 <!ENTITY pointerLock.notification.message "Притисните ESC да га поново прикажете.">
 

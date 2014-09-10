@@ -10,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Провери да ли постоје надоградње">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label                "Рестартуј да се ажурира">
+<!ENTITY update.updateButton.label2               "Рестартуј &brandShortName; да се ажурира">
 <!ENTITY update.updateButton.accesskey            "Р">
 <!ENTITY update.applyButtonBillboard.label        "Ажурирај…">
 <!ENTITY update.applyButtonBillboard.accesskey    "А">
