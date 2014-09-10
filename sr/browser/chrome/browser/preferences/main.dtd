@@ -30,3 +30,11 @@
 <!ENTITY chooseFolderMac.accesskey    "И">
 <!ENTITY alwaysAsk.label "Увек питај где да се сачувају датотеке">
 <!ENTITY alwaysAsk.accesskey "У">
+
+<!ENTITY alwaysCheckDefault.label         "Увек при покретању провери да ли је &brandShortName; мој подразумевани прегледач">
+<!ENTITY alwaysCheckDefault2.accesskey    "У">
+<!ENTITY setAsMyDefaultBrowser.label      "Учини да &brandShortName; буде мој подразумевани прегледач">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "ч">
+<!ENTITY isDefault.label                  "&brandShortName; је тренутно Ваш подразумевани прегледач">
+<!ENTITY isNotDefault.label               "&brandShortName; није Ваш подразумевани прегледач">
+
