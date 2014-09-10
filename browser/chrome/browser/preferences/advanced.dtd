@@ -121,7 +121,7 @@
 <!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Gofyn i mi bob tro">
 <!ENTITY certs.ask.accesskey             "G">
-<!ENTITY enableOCSP.label                "Ymholwch â'r gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau.">
+<!ENTITY enableOCSP.label                "Ymholwch â'r gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts.label                 "Darllen Tystysgrifau">
 <!ENTITY viewCerts.accesskey             "D">
