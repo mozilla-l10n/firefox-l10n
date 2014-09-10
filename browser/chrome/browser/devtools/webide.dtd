@@ -1,0 +1,122 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle "Firefox WebIDE">
+
+
+
+<!ENTITY projectMenu_newApp_accesskey "N">
+
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Installera och Kör ">
+
+
+
+
+
+<!ENTITY projectMenu_remove_label "Ta bort projekt">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Inställningar">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Koppla från">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Skärmdump">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Visa">
+<!ENTITY viewMenu_accesskey "V">
+
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
+
+<!ENTITY viewMenu_showAddons_accesskey "M">
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+
+<!ENTITY key_quit "W">
+<!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+<!ENTITY runtimePanel_custom "Anpassad">
+<!ENTITY runtimePanel_installsimulator "Installera Simulator">
+
+
+<!-- Lense -->
+
+<!ENTITY details_valid_header "giltig">
+<!ENTITY details_warning_header "varningar">
+<!ENTITY details_error_header "fel">
+<!ENTITY details_description "Beskrivning">
+<!ENTITY details_location "Adress">
+
+<!ENTITY details_removeProject_button "Ta bort projekt">
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Stäng">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_title "Inställningar">
+<!ENTITY prefs_editor_title "Editor">
+<!ENTITY prefs_general_title "Allmänt">
+<!ENTITY prefs_restore "Återställ standard">
+
+
+
+<!ENTITY prefs_options_rememberlastproject "Kom ihåg senaste projekt">
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Gissa indentering baserad på källinnehåll">
+<!ENTITY prefs_options_autocomplete "Autokomplettera">
+
+<!ENTITY prefs_options_autoclosebrackets "Avsluta hakparenteser automatiskt">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Infoga avslutande hakparenteser automatiskt">
+
+<!ENTITY prefs_options_keybindings_default "Standard">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Namn">
+<!-- Runtime Details -->
+<!ENTITY runtimedetails_adbIsRoot "ADB är root:">
+<!ENTITY runtimedetails_summonADBRoot "Rootenhet">
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Hjälp">

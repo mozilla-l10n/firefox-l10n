@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "V">
 <!ENTITY alwaysAsk.label "Fråga alltid var jag vill spara filerna">
 <!ENTITY alwaysAsk.accesskey "F">
+
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
+<!ENTITY isDefault.label                  "&brandShortName; är redan standardwebbläsare">
+
+
