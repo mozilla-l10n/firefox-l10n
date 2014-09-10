@@ -23,8 +23,9 @@
 <!ENTITY projectMenu_remove_label "Tynnu Project">
 <!ENTITY projectMenu_remove_accesskey "T">
 <!ENTITY projectMenu_showPrefs_label "Dewisiadau">
+<!ENTITY projectMenu_showPrefs_accesskey "D">
 
-
+<!ENTITY runtimeMenu_label "Amser rhedeg">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Datgysylltu">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -51,6 +52,7 @@
 
 <!ENTITY key_quit "R">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "A">
 <!-- reload app -->
 <!ENTITY key_play "A">
 <!-- show toolbox -->
@@ -66,13 +68,15 @@
 <!ENTITY runtimePanel_custom "Cyfaddas">
 <!ENTITY runtimePanel_installsimulator "Gosod yr Efelychydd">
 <!ENTITY runtimePanel_noadbhelper "Gosod ADB Helper">
-
+<!ENTITY runtimePanel_nousbdevice "Methu gweld eich dyfais?">
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "dilys">
+<!ENTITY details_warning_header "rhybuddion">
+<!ENTITY details_error_header "gwallau">
 <!ENTITY details_description "Disgrifiad">
 <!ENTITY details_location "Lleoliad">
-
+<!ENTITY details_manifestURL "Enw Rhaglen">
 <!ENTITY details_removeProject_button "Tynnu Project">
 <!-- New App -->
 
@@ -122,7 +126,7 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Gwybodaeth Amser Rhedeg">
-<!ENTITY runtimedetails_adbIsRoot "ADB yw'r isradd:  ">
+<!ENTITY runtimedetails_adbIsRoot "ADB yw'r isradd: ">
 <!ENTITY runtimedetails_summonADBRoot "dyfais isradd">
 <!ENTITY runtimedetails_ADBRootWarning "(angen llwythwr cychwyn heb ei gloi)">
 <!ENTITY runtimedetails_restrictedPrivileges "Breintiau cyfyngedig DevTools: ">
