@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nauja kortelė">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "Miniatiūra pašalinta.">
 <!ENTITY newtab.undo.undoButton "Atšaukti.">
 <!ENTITY newtab.undo.restoreButton "Atkurti visas.">
 <!ENTITY newtab.undo.closeTooltip "Nerodyti">
-<!ENTITY newtab.sponsored.release.message "Ši „Mozillos“ misiją remianti svetainė pasiūlyta, tikintis, jog ji jus sudomins.">
-<!ENTITY newtab.sponsored.trial.message2 "Ši „Mozillos“ misiją remianti svetainė pasiūlyta, tikintis, jog ji jus sudomins.">
-<!ENTITY newtab.panel.link.text "Sužinoti daugiau…">

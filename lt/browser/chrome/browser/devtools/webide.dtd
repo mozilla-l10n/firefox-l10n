@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Ekrano nuotrauka">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Peržiūra">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Įdiegti simuliatorių">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Aprašas">
+<!ENTITY details_location "Adresas">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Užverti">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "Grąžinti numatytąją struktūrą">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Nuspėti reikiamą įtrauką pagal pirminio teksto struktūrą">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Automatiškai poruoti skliaustus">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatiškai pridėti užveriantįjį skliaustą, įvedus atveriantįjį">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Pavadinimas">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Žinynas">

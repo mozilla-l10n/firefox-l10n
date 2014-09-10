@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Nurodyti svetainėms, kad jos jus stebėtų">
 <!ENTITY dntTrackingOkay.accesskey      "s">
+
+
+
 <!ENTITY doNotTrackInfo.label           "Sužinoti daugiau">
 
 <!ENTITY  history.label                 "Žurnalas">
