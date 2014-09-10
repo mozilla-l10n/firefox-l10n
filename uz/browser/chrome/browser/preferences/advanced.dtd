@@ -118,12 +118,12 @@
 <!ENTITY certificateTab.label            "Sertifikatlar">
 <!ENTITY certSelection.description       "Server mening shaxsiy sertifikatimni soʻraganda:">
 <!ENTITY certs.auto                      "Avtomatik bittasini tanlash">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Har doim mendan soʻra">
-
-
-
-
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "so‘rovi OCSP javob berish serverlari sertifikatlarning joriy yaroqliligini tasdiqlash uchun">
+<!ENTITY enableOCSP.accesskey            "s">
+<!ENTITY viewCerts.label                 "Sertifikatlarni ko‘rish">
+<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewSecurityDevices.label       "Qurilmalar xavfsizligi">
+<!ENTITY viewSecurityDevices.accesskey   "v">

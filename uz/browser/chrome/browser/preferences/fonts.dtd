@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreyscha">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilcha">
 <!ENTITY  font.langGroup.el                       "Yunoncha">
-
+<!ENTITY  font.langGroup.other                    "Boshqa yozish tizimlari">
 <!ENTITY  font.langGroup.thai                     "Tay">
 <!ENTITY  font.langGroup.hebrew                   "Yahudiycha">
 <!ENTITY  font.langGroup.arabic                   "Arabcha">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabcha">
-
+<!ENTITY languages.customize.Fallback.baltic      "Boltibo‘yi">
 <!ENTITY languages.customize.Fallback.ceiso       "Markaziy Yevropa ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Markaziy Yevropacha, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Taycha">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turkcha">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vetnamcha">
