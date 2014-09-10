@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
+
+<!ENTITY  onboard_start_message "Välkommen till &brandShortName;!">
+
+<!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Börja surfa">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Välj fil">
 
-<!ENTITY url_bar_default_text "Ange sökord eller adress">
+<!ENTITY url_bar_default_text2 "Sök eller skriv in adressen">
 
 <!ENTITY bookmark "Bokmärke">
 <!ENTITY bookmark_added "Bokmärkt">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Systemets standard">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Lägg till i &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Bokmärke">
+<!ENTITY overlay_share_reading_list_btn_label "Lägg till i läslistan">
+<!ENTITY overlay_share_send_other "Skicka till andra enheter">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Skicka till en annan enhet">
+<!ENTITY overlay_share_no_url "Ingen länk funnen på denna delning">
+<!ENTITY overlay_share_retry "Försök igen">
+<!ENTITY overlay_share_select_device "Välj enhet">
 
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Rensa nu ">
 <!ENTITY pref_clear_private_data_category "Rensa känslig data">
 <!ENTITY pref_clear_on_exit_title "Rensa alltid vid avslut">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverade">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
-<!ENTITY pref_show_product_announcements "Visa produktmeddelanden">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Föregående">
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Skickar till enhet">
+<!ENTITY media_sending_to "Skickar till enhet">
 <!ENTITY media_play "Spela">
 <!ENTITY media_pause "Paus">
 <!ENTITY media_stop "Stopp">
@@ -302,10 +327,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
 <!ENTITY pref_titlebar_mode_url "Visa sidans adress">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Skrolla namnfältet">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +489,8 @@ från Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
