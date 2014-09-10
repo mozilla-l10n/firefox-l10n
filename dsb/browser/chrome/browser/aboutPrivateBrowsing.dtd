@@ -2,13 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "Pśeglědujośo w priwatnem modusu">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Priwatne wokno wócyniś?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; njebuźo se historiju za toś to wokno spomnjeś.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; njebuźo se historiju za priwatne wokna spomnjeś.">
 
+<!ENTITY aboutPrivateBrowsing.description      "To wopśimjejo pśeglědowańsku historiju, pytańsku historiju, ześěgnjeńsku historiju, historiju webformularow, cookieje a temporerne internetne dataje. Dataje pak, kótarež ześěgujośo, a cytańske znamjenja, kótarež składujośo, se wobchowaju.">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Tuchylu njejsćo w priwatnem woknje.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Lěcrownož toś ten licadło njezmějo kopiju wašeje wobglědowakoweje historije, móžo waš źěłodawaŕ abo póbitowaŕ internetneje słužby hyšći boki slědowaś, ke kótarymž se woglědujośo.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Dalšne informacije">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Priwatne wokno wócyniś">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">

@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nowy rejtark">
-
-
-
-
-
-
+<!ENTITY newtab.customize.title "Bok wašogo nowego rejtarka pśiměriś">
+<!ENTITY newtab.customize.enhanced "Pólěpšony">
+<!ENTITY newtab.customize.classic "Klasiski">
+<!ENTITY newtab.customize.blank "Prozny">
+<!ENTITY newtab.customize.what "Co jo toś ten bok?">
+<!ENTITY newtab.intro.header "Co jo toś ten bok?">
 <!ENTITY newtab.undo.removedLabel "Miniaturka jo se wótpórała.">
 <!ENTITY newtab.undo.undoButton "Anulěrowaś.">
 <!ENTITY newtab.undo.restoreButton "Wšykne wótnowiś.">
