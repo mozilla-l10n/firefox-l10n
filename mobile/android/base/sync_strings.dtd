@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Använd egen server">
 <!ENTITY sync.input.server.label "Server-URL">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Kan inte ställa in &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; kunde inte ansluta till servern. Vill du försöka igen?">
 <!ENTITY sync.button.tryagain.label "Försök igen">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Kontot kunde inte skapas på din enhet.">
 <!ENTITY sync.subtitle.failmultiple.label "Har du mer än en Firefox installerad? &syncBrand.fullName.label; stöder för närvarande endast en Firefox-installation i taget. Avinstallera andra instanser för att använda &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Inställningen är klar">
 <!ENTITY sync.subtitle.success.label1 "Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto, eller så kan du börja surfa med &brandShortName;.">
 <!ENTITY sync.settings.label "Inställningar">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (förlegad)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; på &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Bokmärken-menyn">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Tjänstevillkor">
 <!ENTITY fxaccount_status_linkprivacy "Integritetspolicy">
+<!ENTITY fxaccount_status_more "Mer&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Ta bort Firefox Konto?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; kommer sluta att synca med ditt konto, men kommer inte att ta bort något av din webläsardata på enheten">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox Konto &formatS; borttaget.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Ta bort konto">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Kan inte ansluta till nätverket">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; är inte ansluten">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tryck för att logga in som &formatS;">

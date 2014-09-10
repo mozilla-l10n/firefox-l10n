@@ -11,18 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "Anslutningen misslyckades">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Adressen har säkerhetsrestriktioner">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servern hittades inte">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Kontrollera om det finns något skrivfel i adressen, som 
-<strong>ww</strong>.example.com i stället för 
-<strong>www</strong>.example.com</li> 
-<li>Om du inte kan hämta någon sida alls, kontrollera din enhets data- eller Wi-Fi-anslutning.</li> 
-</ul>">
+
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -44,15 +39,13 @@ filnamnet.</li>
 </ul>">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Utgånget dokument">
 <!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i &brandShortName; cache.</p><ul><li>Av säkerhetsskäl försöker inte &brandShortName; automatiskt att hämta om känsliga dokument.</li><li>Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.</li></ul>">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Försök igen. &brandShortName; kommer att försöka ansluta och hämta om sidan.</li> 
-</ul>">
+
 
 <!ENTITY contentEncodingError.title "Kodningsfel av innehållet">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -65,10 +58,10 @@ filnamnet.</li>
 </ul>">
 
 <!ENTITY netReset.title "Anslutningen avbröts">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Anslutningen avbröts">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adressen förstods inte">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -83,10 +76,7 @@ fungerar.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Kan inte hitta proxyservern">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Kontrollera att proxyinställningarna är riktiga.</li> 
-<li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "Sidan dirigeras om felaktigt">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,10 +104,6 @@ någon annan felaktigt utger sig för att vara servern.</li>
 är tillfälligt och du kan försöka igen senare.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> 
-<li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning.</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
