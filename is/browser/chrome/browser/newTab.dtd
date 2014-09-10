@@ -8,8 +8,8 @@
 <!ENTITY newtab.customize.enhanced "Endurbætt">
 <!ENTITY newtab.customize.classic "Hefðbundið">
 <!ENTITY newtab.customize.blank "Tómt">
-
-<!ENTITY newtab.intro.header "Hver er þessi síða?">
+<!ENTITY newtab.customize.what "Hvaða síða er þetta?">
+<!ENTITY newtab.intro.header "Hvaða síða er þetta?">
 <!ENTITY newtab.undo.removedLabel "Smámynd fjarlægð.">
 <!ENTITY newtab.undo.undoButton "Hætta við.">
 <!ENTITY newtab.undo.restoreButton "Endurheimta allt.">

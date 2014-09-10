@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Kóreska">
 <!ENTITY  font.langGroup.cyrillic                 "Kýrillískt">
 <!ENTITY  font.langGroup.el                       "Gríska">
-
+<!ENTITY  font.langGroup.other                    "Önnur ritunarkerfi">
 <!ENTITY  font.langGroup.thai                     "Tælenska">
 <!ENTITY  font.langGroup.hebrew                   "Hebreska">
 <!ENTITY  font.langGroup.arabic                   "Arabíska">
