@@ -91,10 +91,10 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
 <!ENTITY findBarCmd.label "Rechercher…">
-<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.accesskey "h">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Rechercher et remplacer…">
-<!ENTITY findReplaceCmd.accesskey "h">
+<!ENTITY findReplaceCmd.accesskey "m">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.accesskey "v">
