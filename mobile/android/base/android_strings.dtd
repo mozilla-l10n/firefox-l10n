@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 
+<!ENTITY  onboard_start_message "Willkommen bei &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Ihnen, Ihrer Privatsphäre und einem offenen Web verpflichtet">
+<!ENTITY  onboard_start_button_account "Bei &brandShortName; anmelden">
+<!ENTITY  onboard_start_button_browser "Mit dem Surfen beginnen">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Lesezeichen">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Datei wählen">
 
-<!ENTITY url_bar_default_text "Suche oder Adresse eingeben">
+<!ENTITY url_bar_default_text2 "Suchen oder Adresse eingeben">
 
 <!ENTITY bookmark "Lesezeichen">
 <!ENTITY bookmark_added "Lesezeichen hinzugefügt">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Systemstandard">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Zu &brandShortName; hinzufügen">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Als Lesezeichen hinzufügen">
+<!ENTITY overlay_share_reading_list_btn_label "Zur Leseliste hinzufügen">
+<!ENTITY overlay_share_send_other "An anderes Gerät senden">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "An anderes Gerät senden">
+<!ENTITY overlay_share_no_url "Kein Link in Weitergabe gefunden">
+<!ENTITY overlay_share_retry "Erneut versuchen">
+<!ENTITY overlay_share_select_device "Gerät auswählen">
 
 <!ENTITY pref_category_search3 "Suche">
 <!ENTITY pref_category_search_summary "Suchmaschinen auswählen">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Jetzt löschen">
 <!ENTITY pref_clear_private_data_category "Private Daten löschen">
 <!ENTITY pref_clear_on_exit_title "Beim Beenden immer löschen">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; löscht die Daten beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; löscht automatisch die Daten beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
 <!ENTITY pref_clear_on_exit_dialog_title "Zu löschende Daten auswählen">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Der schnelle, orange Fuchs überspringt Ihre Erwartungen mit mehr Geschwindigkeit, mehr Flexibilität und mehr Sicherheit. Als nicht-kommerzielle Organisation sind wir frei, um zu Ihrem Wohle zu entwickeln ohne durch äußeren Druck Kompromisse eingehen zu müssen. Das bedeutet ein besseres Benutzererlebnis für Sie und eine rosigere Zukunft für das Internet.">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
-<!ENTITY pref_show_product_announcements "Produktankündigungen anzeigen">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 <!ENTITY pref_import_android "Import aus Android">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "Weitersuchen">
 <!ENTITY find_close "Schließen">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "An Gerät weiterleiten">
+<!ENTITY media_sending_to "An Gerät senden">
 <!ENTITY media_play "Wiedergabe">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Stopp">
@@ -303,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Seitentitel anzeigen">
 <!ENTITY pref_titlebar_mode_url "Seitenadresse anzeigen">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Titelleiste ausblenden">
+<!ENTITY pref_scroll_title_bar2 "Vollbildmodus">
+<!ENTITY pref_scroll_title_bar_summary "Titelleiste von &brandShortName; beim Bildlauf der Seite ausblenden">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
