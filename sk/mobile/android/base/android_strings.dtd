@@ -302,9 +302,9 @@ size. -->
 <!ENTITY find_next "Ďalší">
 <!ENTITY find_close "Zavrieť">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Prehráva sa do zariadenia">
+<!ENTITY media_sending_to "Odosiela sa do zariadenia">
 <!ENTITY media_play "Prehrať">
 <!ENTITY media_pause "Pozastaviť">
 <!ENTITY media_stop "Zastaviť">
