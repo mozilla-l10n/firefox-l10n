@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Freegje my altyd">
 <!ENTITY certs.ask.accesskey             "a">
+<!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
+<!ENTITY enableOCSP.accesskey            "F">
 
 <!ENTITY viewCertificates.label         	"Toan sertifikaten">
 <!ENTITY viewCertificates.accesskey     	"S">
-<!ENTITY validation.label               	"Falidaasje">
-<!ENTITY validation.accesskey           	"F">
 <!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  	"B">
