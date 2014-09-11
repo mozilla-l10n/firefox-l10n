@@ -11,19 +11,21 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kin gjin ferbining meitsje">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tsjinner net fûn">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Kontrolearje it adres op typflaters lykas
     <strong>ww</strong>.foarbyld.com yn stee fan
     <strong>www</strong>.foarbyld.com</li>
-  <li>Kontrolearje jo apparaat data- of Wi-Fi-ferbining as jo gjin inkele side lade
-    kinne.</li>
+  <li>Kontrolearje de data- of wifi-ferbining fan jo apparaat as jo gjin inkele side lade kinne.
+      <button id='wifi'>Wifi ynskeakelje</button>
+</li>
+  
 </ul>
 ">
 
@@ -52,19 +54,21 @@
 ">
 
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumint ferrûn">
 <!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn &brandShortName;'s-buffer.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan it webstee.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Klik &quot;Probearje opnij&quot; om nij online moadus te gean en laad de side opnij.</li>
+  <li>Probearje opnij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.
+    <button id='wifi'>Wifi ynskeakelje</button>
+    </li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
+<!ENTITY contentEncodingError.title "Ynhâldkodearingsflater">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li>
@@ -79,10 +83,10 @@
 ">
 
 <!ENTITY netReset.title "De ferbining waard op 'e nij inisjalisearre">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "De wachttiid foar de ferbining is ferstrutsen">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "It adres waard net begrepen">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -101,9 +105,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Wês wis dat jo apparaat in wurkende data- of Wi-Fi-ferbining hat.</li>
+  <li>Kontrolearje de proxyynstellingen om wis te wêzen dat se korrekt binne.</li>
+  <li>Kontrolearje om wis te wêzen oft jo apparaat in wurkende data- of wififerbining hat.
+    <button id='wifi'>Wifi ynskeakelje</button>
+  </li>
 </ul>
 ">
 
@@ -140,11 +147,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber of oerbelêst. Probearje it letter 
-    nochris.</li>
-  <li>Kontrolearje jo apparaat data- of Wi-Fi-ferbining as jo gjin inkele side lade kinne.</li>
+  <li>De side koe tydlik net beskikber of te drok wêze. Probearje letter opnij.</li>
+  <li>As jo hielendalk gjin siden lade kinne, kontrolearje dan jo de data- of wifi-ferbining fan jo apparaat.
+    <button id='wifi'>Wifi ynskeakelje</button>
+  </li>
 </ul>
 ">
 
