@@ -205,14 +205,23 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Podmienky používania služby'>
 <!ENTITY fxaccount_status_linkprivacy 'Zásady ochrany súkromia'>
+<!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Odstrániť účet Firefox Account?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; sa už nebude synchronizovať s vašim účtom, ale neodstráni žiadne údaje o prehliadaní uložené v tomto zariadení.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Účet Firefox Account pre &formatS; bol odstránený.'>
+
+<!ENTITY fxaccount_remove_account_menu_item 'Odstrániť účet'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title 'Nastavenia &syncBrand.shortName.label;'>
