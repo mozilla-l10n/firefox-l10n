@@ -404,6 +404,13 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Späť na &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synchronizované karty">
+<!ENTITY home_remote_tabs_empty "Tu sa zobrazujú karty z vašich ostatných zariadení">
+<!ENTITY home_remote_tabs_unable_to_connect "Nie je možné sa pripojiť">
+<!ENTITY home_remote_tabs_need_to_sign_in "Prosím, prihláste sa, aby ste sa znova pripojili k svojmu účtu Firefox Account a mohli tak pokračovať v synchronizácii.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problémy s overením svojho účtu?">
+<!ENTITY home_remote_tabs_need_to_verify "Synchronizácia bude spustená po overení vášho účtu Firefox Account.">
+
 <!ENTITY private_browsing_title "Súkromné prehliadanie">
 <!ENTITY private_tabs_panel_empty_desc "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď neuchovávame vašu históriu prehliadania alebo súbory cookies, záložky a prevzaté súbory budú uložené na disku vášho zariadenia.">
 <!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
