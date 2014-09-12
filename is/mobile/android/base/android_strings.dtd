@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
 <!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
+
+<!ENTITY  onboard_start_message "Vertu velkomin í &brandShortName;">
+<!ENTITY  onboard_start_subtext "Fyrir þig, þína friðhelgi og netfrelsi">
+<!ENTITY  onboard_start_button_account "Skrá inní &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Veldu skrá">
 
-<!ENTITY url_bar_default_text "Skrifaðu inn vistfang eða leitartexta">
+<!ENTITY url_bar_default_text2 "Leitaðu eða sláðu inn vistfang">
 
 <!ENTITY bookmark "Bókamerki">
 <!ENTITY bookmark_added "Bókamerki bætt við">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Sjálfgefið í stýrikerfinu">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Bæta við &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Bókamerki">
+<!ENTITY overlay_share_reading_list_btn_label "Bæta við leslista">
+<!ENTITY overlay_share_send_other "Senda yfir í önnur tæki">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Senda yfir í annað tæki">
+<!ENTITY overlay_share_no_url "Engin hlekkur fundinn á þessu svæði">
+<!ENTITY overlay_share_retry "Reyndu aftur">
+<!ENTITY overlay_share_select_device "Veldu tæki">
 
 <!ENTITY pref_category_search3 "Leit">
 <!ENTITY pref_category_search_summary "Stilla leitarvélar">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Hreinsa núna">
 <!ENTITY pref_clear_private_data_category "Hreinsa upplýsingar einkamála">
 <!ENTITY pref_clear_on_exit_title "Ætíð hreinsa við lokun">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur \&quot;Hætta\&quot; úr aðal valmyndinni">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur  \u0022hætta\u0022  úr aðal valmyndinni">
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virkt">
@@ -178,13 +204,12 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur hoppar yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
-<!ENTITY pref_show_product_announcements "Sýna tilkynningar um vörur">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_private_data_history2 "Ferill">
-<!ENTITY pref_private_data_formdata "Eyðublað &amp; leitarferill">
-<!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
+<!ENTITY pref_private_data_formdata "Eyðublað  leitarferill">
+<!ENTITY pref_private_data_cookies2 "Smákökur  virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
 <!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
@@ -208,12 +233,12 @@ size. -->
 <!ENTITY pref_panels_move_up "Færa upp">
 <!ENTITY pref_panels_move_down "Færa niður">
 
-<!ENTITY datareporting_notification_title "&brandShortName; tölfærði &amp; gögn">
+<!ENTITY datareporting_notification_title "&brandShortName; tölfærði  gögn">
 <!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_action "Velja það sem deila á">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
 <!ENTITY datareporting_notification_summary_short "Til að bæta upplifun þína, &brandShortName;...">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Fyrrverandi">
 <!ENTITY find_next "Næsti">
 <!ENTITY find_close "Loka">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Varpa á tæki">
+<!ENTITY media_sending_to "Varpa á tæki">
 <!ENTITY media_play "Spila">
 <!ENTITY media_pause "Setja í bið">
 <!ENTITY media_stop "Stöðva">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Titilslá">
 <!ENTITY pref_titlebar_mode_title "Sýna titil síðunnar">
 <!ENTITY pref_titlebar_mode_url "Sýna vistfang síðunnar">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Skrunu titilslá">
+<!ENTITY pref_scroll_title_bar2 "Vafra í fullum skjá">
+<!ENTITY pref_scroll_title_bar_summary "Fela &brandShortName; titilstöng þegar skrunað er niður síðu">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ frá Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

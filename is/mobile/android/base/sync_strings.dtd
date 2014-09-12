@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Nota sérsniðinn netþjón">
 <!ENTITY sync.input.server.label "URL netþjóns">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Get ekki stillt &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; náði ekki að tengjast netþjóni. Viltu ekki reyna aftur?">
 <!ENTITY sync.button.tryagain.label "Reyna aftur">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Ekki tókst að stofna reikning á tækinu þínu.">
 <!ENTITY sync.subtitle.failmultiple.label "Ertu með fleiri en eina útgáfu af Firefox á tækinu? Akkúrat núna styður &syncBrand.fullName.label; eingöngu eina uppsetta útgáfu af Firefox hverju sinni. Vinsamlega taka út taka út aðrar útgáfur til að nota &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Uppsetningu lokið">
 <!ENTITY sync.subtitle.success.label1 "Gögnin þín eru nú að halast niður í bakgrunni. Þú getur farið í stillingar til að sýsla með reikninginn þinn eða farið að vafra með &brandShortName;.">
 <!ENTITY sync.settings.label "Stillingar">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (rýrt)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; virkt &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Bókarmerkja valmynd">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Notendaskilmálar">
 <!ENTITY fxaccount_status_linkprivacy "Meðferð persónuupplýsinga ">
+<!ENTITY fxaccount_status_more "Meira&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Fjarlægja Firefox reikning">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; mun hætta að synca reikning þinn en mun ekki eyða neinum vafragögnum af þessu tæki.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox reikningur &formatS; fjarlægður.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Fjarlægja aðgang">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Get ekki tengst neti">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; er ekki tengt">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Snertu til að innskrá sem &formatS;">
