@@ -11,13 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "Gat ekki tengst">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Þetta vistfang er lokað">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Netþjónn finnst ekki">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Athugaði hvort það séu innsláttar villu í vistfanginu eins og 
 <strong>ww</strong>.daemi.is í staðinn fyrir 
 <strong>www</strong>.daemi.is</li> 
@@ -43,14 +43,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Tengingin varð fyrir truflun">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Skjal útrunnið">
 <!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki fáanlegt í &brandShortName;'s skyniminninu.</p><ul><li>Sem hluti af varúðarráðstöfun þá biður &brandShortName; ekki sjálfkrafa aftur um viðkvæm skjöl.</li><li>Smellið á Reynið aftur til að biðja aftur um skjalið frá vefsvæðinu.</li></ul>">
 
 <!ENTITY netOffline.title "Aftengdur hamur">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og endurhlaða síðuna.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og enduhlaða síðuna.  
+<button id='wifi'>Virkja Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Villa við dulkóðun innihalds">
@@ -64,10 +66,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Tengingin var endursett">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Vistfangið skildist ekki">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +84,11 @@ að virka rétt.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Gat ekki fundið milliþjón">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
 <li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar.</li>  
+<button id='wifi'>Virkja Wi-Fi</button>   
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Síðan er ekki að beina rétt">
@@ -114,9 +118,11 @@ einhver að reyna að þykjast vera þessi netþjónn.</li>
 tímabundin og þú getur reynt aftur síðar.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> 
-<li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.</li> 
+<li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.   
+<button id='wifi'>Virkja Wi-Fi</button>  
+</li>    
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
