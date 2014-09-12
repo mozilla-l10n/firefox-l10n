@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey "a">
 <!ENTITY certs.ask "Vždy se dotázat">
 <!ENTITY certs.ask.accesskey "d">
+<!ENTITY enableOCSP.label                "Aktuální platnost certifikátů ověřovat na serverech OCSP">
+<!ENTITY enableOCSP.accesskey            "p">
 
 <!ENTITY viewCertificates.label "Certifikáty…">
 <!ENTITY viewCertificates.accesskey "C">
-<!ENTITY validation.label "Ověřování…">
-<!ENTITY validation.accesskey "O">
 <!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení…">
 <!ENTITY viewSecurityDevices.accesskey  "B">
