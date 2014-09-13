@@ -50,7 +50,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Knyt til">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Merk:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "For å finna koden,">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Opna &quot;Innstillinger&quot; og følg desse stega: &syncBrand.shortName.label; -&gt; Set opp &syncBrand.shortName.label; -&gt; Eg har ein konto">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Opna &quot;Innstillingar&quot; og følg desse stega: &syncBrand.shortName.label; -&gt; Set opp &syncBrand.shortName.label; -&gt; Eg har ein konto">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Meir &gt; Innstillingar &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igjen">
 

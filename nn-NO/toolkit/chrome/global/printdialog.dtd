@@ -12,7 +12,7 @@
 
 <!ENTITY fileCheck.label "Skriv ut til fil">
 <!ENTITY fileCheck.accesskey "k">
-<!ENTITY propertiesButton.label "Innstillinger …">
+<!ENTITY propertiesButton.label "Innstillingar …">
 <!ENTITY propertiesButton.accesskey "I">
 <!ENTITY descText.label "Skrivarskildring:">
 <!ENTITY printer.label "Skriv">

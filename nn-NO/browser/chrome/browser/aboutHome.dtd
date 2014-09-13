@@ -26,7 +26,12 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Bokmerke">
 <!ENTITY abouthome.historyButton.label   "Historikk">
-<!ENTITY abouthome.settingsButton.label  "Innstillingar">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Innstillingar">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Innstillingar">
 <!ENTITY abouthome.addonsButton.label    "Utvidingar">
 <!ENTITY abouthome.appsButton.label      "Marknadsplass">
 <!ENTITY abouthome.downloadsButton.label "Nedlastingar">
