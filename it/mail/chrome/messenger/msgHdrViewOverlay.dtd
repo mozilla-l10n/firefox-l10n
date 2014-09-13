@@ -85,7 +85,7 @@
 <!ENTITY saveAttachmentButton1.tooltip "Salva il file allegato">
 <!ENTITY saveAllAttachmentsButton1.label "Salva tutto">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Salva tutti gli allegati">
-<!ENTITY copyLinkCmd.label "Copia indirizzo">
+<!ENTITY copyLinkCmd.label "Copia link">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiare l'identificativo del messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
@@ -93,3 +93,4 @@
 <!ENTITY OpenMessageForMsgId.accesskey "A">
 <!ENTITY OpenBrowserWithMsgId.label "Apri nel browser il messaggio con questo ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
+"B">
