@@ -720,11 +720,11 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY saveLinkAsCmd.label "Salva collegamento come…">
+<!ENTITY saveLinkAsCmd.label "Salva link come…">
 <!ENTITY saveLinkAsCmd.accesskey "v">
 <!ENTITY saveImageAsCmd.label "Salva con nome…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Copia indirizzo">
+<!ENTITY copyLinkCmd.label "Copia link">
 <!ENTITY copyLinkCmd.accesskey "z">
 <!ENTITY copyImageAllCmd.label "Copia immagine">
 <!ENTITY copyImageAllCmd.accesskey "I">
@@ -736,7 +736,7 @@
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Apri nel browser">
 <!ENTITY openInBrowser.accesskey "w">
-<!ENTITY openLinkInBrowser.label "Apri collegamento nel browser">
+<!ENTITY openLinkInBrowser.label "Apri link nel browser">
 <!ENTITY openLinkInBrowser.accesskey "w">
 <!ENTITY statusText.label "Fatto">
 <!ENTITY minimizeWindow.label "Contrai">
@@ -755,3 +755,4 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutto">
 <!ENTITY dockOptions.label "Opzioni icona applicazione…">
+na applicazione…">

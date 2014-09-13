@@ -9,7 +9,7 @@
 <!ENTITY remoteContentExceptions.accesskey "z">
 <!ENTITY acceptRemoteContentInfo.label "Maggiori informazioni sui problemi di privacy dei contenuti remoti">
 <!ENTITY captionWebContent.label "Contenuto web">
-<!ENTITY keepHistory.label "Ricordarsi dei siti web e dei collegamenti visitati">
+<!ENTITY keepHistory.label "Ricordarsi dei siti web e dei link visitati">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Accettare cookie dai siti">
 <!ENTITY acceptCookies.accesskey "A">
@@ -34,3 +34,4 @@
 <!ENTITY dntTrackingOkay.label2 "Informare i siti che desidero essere tracciato">
 <!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">
+ciare">

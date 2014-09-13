@@ -14,10 +14,11 @@
 <!ENTITY backgroundColor.accesskey "S">
 <!ENTITY useSystemColors.label "Utilizza colori personalizzati">
 <!ENTITY useSystemColors.accesskey "U">
-<!ENTITY underlineLinks.label "Sottolinea i collegamenti">
+<!ENTITY underlineLinks.label "Sottolinea i link">
 <!ENTITY underlineLinks.accesskey "o">
-<!ENTITY links "Colori dei collegamenti">
-<!ENTITY linkColor.label "Collegamenti non visitati:">
+<!ENTITY links "Colori dei link">
+<!ENTITY linkColor.label "Link non visitati:">
 <!ENTITY linkColor.accesskey "l">
-<!ENTITY visitedLinkColor.label "Collegamenti visitati:">
+<!ENTITY visitedLinkColor.label "Link visitati:">
 <!ENTITY visitedLinkColor.accesskey "V">
+visitedLinkColor.accesskey "V">
