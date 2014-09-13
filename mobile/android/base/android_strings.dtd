@@ -100,6 +100,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Pridať medzi záložky">
 <!ENTITY overlay_share_reading_list_btn_label "Pridať do zoznamu na prečítanie">
+<!ENTITY overlay_share_bookmark_btn_label_already "Už sa nachádza medzi záložkami">
+<!ENTITY overlay_share_reading_list_btn_label_already "Už sa nachádza v Zozname na prečítanie">
 <!ENTITY overlay_share_send_other "Odoslať do iných zariadení">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
