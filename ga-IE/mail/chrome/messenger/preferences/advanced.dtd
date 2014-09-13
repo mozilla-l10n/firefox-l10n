@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
 <!ENTITY certs.auto "Roghnaigh go huathoibríoch">
-<!ENTITY certs.auto.accesskey "m">
+<!ENTITY certs.auto.accesskey "S">
 <!ENTITY certs.ask "Fiafraigh díom i gcónaí">
 <!ENTITY certs.ask.accesskey "W">
+<!ENTITY enableOCSP.label "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
+<!ENTITY enableOCSP.accesskey "O">
 
 <!ENTITY viewCertificates.label "Taispeáin Teastais">
 <!ENTITY viewCertificates.accesskey "s">
-<!ENTITY validation.label "Bailíochtú">
-<!ENTITY validation.accesskey "B">
 <!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
-<!ENTITY viewSecurityDevices.accesskey "S">
+<!ENTITY viewSecurityDevices.accesskey "d">

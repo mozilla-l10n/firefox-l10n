@@ -23,7 +23,7 @@ sentence. -->
 <!ENTITY sendTyping.label "Abair le daoine nuair a bhím ag clóscríobh">
 <!ENTITY sendTyping.accesskey "d">
 
-<!ENTITY chatNotifications.label "When messages directed at you arrive:">
+<!ENTITY chatNotifications.label "Nuair a thagann teachtaireacht atá dírithe agatsa isteach:">
 <!ENTITY desktopChatNotifications.label "Taispeáin fógra:">
 <!ENTITY desktopChatNotifications.accesskey "r">
 <!ENTITY completeNotification.label "le hainm an tseoltóra agus réamhamharc">

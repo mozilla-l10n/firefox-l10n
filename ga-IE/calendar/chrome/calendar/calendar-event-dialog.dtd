@@ -34,7 +34,7 @@
 
 <!ENTITY event.attendees.notify.label "Cuir in iúl don lucht freastail">
 <!ENTITY event.attendees.notifyundisclosed.label "Cuireadh ar léith do gach rannpháirtí">
-<!ENTITY event.attendees.notifyundisclosed.tooltip "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2 "I">

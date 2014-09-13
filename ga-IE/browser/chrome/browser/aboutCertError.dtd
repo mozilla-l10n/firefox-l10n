@@ -24,6 +24,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Cad Ba Chóir Dom a Dhéanamh?">
 <!ENTITY certerror.whatShouldIDo.content "Má cheanglaíonn tú leis an suíomh seo gan deacracht de ghnáth, b'fhéidir go gciallaíonn an earráid seo go bhfuil duine éigin ag iarraidh aithris a dhéanamh ar an suíomh, agus ní chóir duit leanúint ar aghaidh.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
 <!ENTITY certerror.getMeOutOfHere.label "Amach as seo liom!">
 
 <!ENTITY certerror.expert.heading "Tuigim na Contúirtí">

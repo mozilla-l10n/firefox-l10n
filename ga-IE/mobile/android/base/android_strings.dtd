@@ -5,13 +5,18 @@
 
 <!ENTITY no_space_to_start_error "Ní féidir le &brandShortName; tosú mar nach bhfuil go leor spáis ann.">
 <!ENTITY error_loading_file "Tharla earráid agus na comhaid atá riachtanach chun &brandShortName; a rith á luchtú.">
+
+<!ENTITY onboard_start_message "Fáilte go &brandShortName;!">
+<!ENTITY onboard_start_subtext "Tiomanta duitse, do do phríobháideacht, agus don Ghréasán Oscailte">
+<!ENTITY onboard_start_button_account "Logáil isteach in &brandShortName;">
+<!ENTITY onboard_start_button_browser "Bí ag brabhsáil leat">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY bookmarks_title "Leabharmharcanna">
 <!ENTITY history_title "Stair">
 <!ENTITY reading_list_title "Liosta Léitheoireachta">
-<!ENTITY recent_tabs_title "Recent Tabs">
+<!ENTITY recent_tabs_title "Cluaisíní Is Déanaí">
 
 <!ENTITY switch_to_tab "Téigh go cluaisín">
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Roghnaigh Comhad">
 
-<!ENTITY url_bar_default_text "Cuir Ábhar Cuardaigh nó Seoladh isteach">
+<!ENTITY url_bar_default_text2 "Cuardaigh nó cuir seoladh isteach">
 
 <!ENTITY bookmark "Leabharmharc">
 <!ENTITY bookmark_added "Leabharmharc cruthaithe">
@@ -45,7 +50,7 @@
 <!ENTITY history_today_section "Inniu">
 <!ENTITY history_yesterday_section "Inné">
 <!ENTITY history_week_section2 "An tseachtain seo caite">
-<!ENTITY history_older_section2 "Last Month">
+<!ENTITY history_older_section2 "An Mhí Seo Caite">
 
 <!ENTITY go "Ar Aghaidh">
 <!ENTITY search "Cuardaigh">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Réamhshocrú an chórais">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Cuir le &brandShortName; é">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Leabharmharc">
+<!ENTITY overlay_share_reading_list_btn_label "Cuir le do Liosta Léitheoireachta">
+<!ENTITY overlay_share_send_other "Seol chuig gléasanna eile">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Seol chuig gléas eile">
+<!ENTITY overlay_share_no_url "No link found in this share">
+<!ENTITY overlay_share_retry "Bain triail eile as">
+<!ENTITY overlay_share_select_device "Roghaigh gléas">
 
 <!ENTITY pref_category_search3 "Cuardaigh">
 <!ENTITY pref_category_search_summary "Saincheap na hinnill chuardaigh">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Glan anois">
 <!ENTITY pref_clear_private_data_category "Glan sonraí príobháideacha">
 <!ENTITY pref_clear_on_exit_title "Glan i gcónaí ag am scortha">
-<!ENTITY pref_clear_on_exit_summary "Glanfaidh &brandShortName; do chuid sonraí gach uair a roghnaíonn tú 'Scoir' ón bpríomh-roghchlár">
+<!ENTITY pref_clear_on_exit_summary2 "Bánófar &brandShortName; do chuid sonraí pearsanta nuair a roghnóidh tú \u0022Scoir\u0022 ón bpríomhroghchlár">
 <!ENTITY pref_clear_on_exit_dialog_title "Roghnaigh na sonraí le glanadh">
 <!ENTITY pref_plugins "Forlíontáin">
 <!ENTITY pref_plugins_enabled "Cumasaithe">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Léim an madra rua tapa thar do ríomhaire, agus thug sé luas, solúbthacht, agus slándáil duit. Mar eagraíocht neamhbhrabúis, táimid in ann rudaí nuálacha a chruthú ar do shon, gan aon bhrú seachtrach. Ciallaíonn sé sin go mbainfidh tú níos mó taitneamh as an nGréasán.">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
-<!ENTITY pref_show_product_announcements "Taispeáin fógraí faoi tháirgí nua">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
 <!ENTITY pref_import_android "Iompórtáil ó Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Siar">
 <!ENTITY find_next "Ar Aghaidh">
 <!ENTITY find_close "Dún">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Craoladh ar Ghléas">
+<!ENTITY media_sending_to "Á sheoladh chuig an ngléas">
 <!ENTITY media_play "Seinn">
 <!ENTITY media_pause "Cuir ar Shos">
 <!ENTITY media_stop "Stop">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra teidil">
 <!ENTITY pref_titlebar_mode_title "Taispeáin teideal an leathanaigh">
 <!ENTITY pref_titlebar_mode_url "Taispeáin seoladh an leathanaigh">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Scroll title bar">
+<!ENTITY pref_scroll_title_bar2 "Brabhsáil lánscáileáin">
+<!ENTITY pref_scroll_title_bar_summary "Hide the &brandShortName; title bar when scrolling down a page">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

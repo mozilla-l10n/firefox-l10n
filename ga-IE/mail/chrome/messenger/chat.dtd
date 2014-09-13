@@ -32,11 +32,11 @@
 <!ENTITY openConversationButton.tooltip "Tosaigh comhrá">
 <!ENTITY closeConversationButton.tooltip "Dún comhrá">
 
-<!ENTITY addBuddyButton.label "Cuir Teagmháil Leis">
+<!ENTITY addBuddyButton.label "Cuir Teagmhálaí Leis">
 <!ENTITY joinChatButton.label "Téigh isteach i gComhrá">
 <!ENTITY chatAccountsButton.label "Taispeáin Cuntais">
 
-<!ENTITY status.available "Ar fáil">
+<!ENTITY status.available "Ar Fáil">
 <!ENTITY status.unavailable "Níl ar fáil">
 <!ENTITY status.offline "As Líne">
 

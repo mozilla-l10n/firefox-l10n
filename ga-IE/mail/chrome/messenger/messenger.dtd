@@ -452,7 +452,7 @@
 <!ENTITY activitymanager.accesskey "m">
 <!ENTITY imAccountsStatus.label "Stádas comhrá">
 <!ENTITY imAccountsStatus.accesskey "S">
-<!ENTITY imStatus.available "Ar fáil">
+<!ENTITY imStatus.available "Ar Fáil">
 <!ENTITY imStatus.unavailable "Níl ar fáil">
 <!ENTITY imStatus.offline "As Líne">
 <!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
