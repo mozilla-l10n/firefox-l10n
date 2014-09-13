@@ -64,6 +64,8 @@
 <!ENTITY overlay_share_label "Добавить в &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label "Заложить">
 <!ENTITY overlay_share_reading_list_btn_label "Добавить в Список для чтения">
+<!ENTITY overlay_share_bookmark_btn_label_already "Уже в закладках">
+<!ENTITY overlay_share_reading_list_btn_label_already "Уже в Списке для чтения">
 <!ENTITY overlay_share_send_other "Отправить на другие устройства">
 <!ENTITY overlay_share_send_tab_btn_label "Отправить на другое устройство">
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
