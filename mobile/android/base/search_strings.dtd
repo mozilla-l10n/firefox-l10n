@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "Поиск &brandShortName;">
+<!ENTITY search_for_something "Поиск чего-либо">
+<!ENTITY search_empty_title "Поиск &brandShortName;">
+<!ENTITY search_empty_message "Быстрый поиск всего чего угодно">
+<!ENTITY search_plus_content_description "Добавить в панель поиска">
+<!ENTITY search_pref_title "Параметры">
+<!ENTITY search_pref_button_content_description "Параметры">
+<!ENTITY pref_clearHistory_confirmation "История удалена">
+<!ENTITY pref_clearHistory_dialogMessage "Удалить всю историю поиска с этого устройства?">
+<!ENTITY pref_clearHistory_title "Удаление истории поиска">
+<!ENTITY pref_searchProvider_title "Поисковая система">
+<!ENTITY search_widget_button_label "Поиск">
+<!ENTITY network_error_title "Нет соединения с Интернетом">
+<!ENTITY network_error_message "Нажмите здесь, чтобы проверить свои сетевые настройки">

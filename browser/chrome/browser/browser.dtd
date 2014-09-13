@@ -196,10 +196,10 @@
 <!ENTITY webide.keytext "F8">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolboxMenuItem.label "Показать/скрыть инструменты">
-<!ENTITY devToolboxMenuItem.accesskey "а">
+<!ENTITY devToolboxMenuItem.label "Инструменты разработки">
+<!ENTITY devToolboxMenuItem.accesskey "м">
 <!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработчика">
+<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработки">
 <!ENTITY devToolbarOtherToolsButton.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
@@ -262,9 +262,9 @@
 <!ENTITY appMenuCustomizeExit.tooltip "Завершить настройку">
 <!ENTITY appMenuHistory.label "Журнал">
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
-<!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
+<!ENTITY appMenuHistory.clearRecent.label "Удалить историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
-<!ENTITY appMenuHistory.viewSidebar.label "Показать боковую панель журнала">
+<!ENTITY appMenuHistory.viewSidebar.label "Боковая панель журнала">
 <!ENTITY appMenuHelp.tooltip "Открыть меню Справка">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
