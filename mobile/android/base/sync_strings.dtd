@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Úsáid freastalaí saincheaptha">
 <!ENTITY sync.input.server.label "URL an fhreastalaí">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Ní féidir &syncBrand.shortName.label; a shocrú">
 <!ENTITY sync.subtitle.fail.label "Níorbh fhéidir le &syncBrand.fullName.label; ceangal leis an bhfreastalaí. An bhfuil fonn ort triail eile a bhaint as?">
 <!ENTITY sync.button.tryagain.label "Bain triail eile as">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Níorbh fhéidir cuntas a chruthú ar do ghléas.">
 <!ENTITY sync.subtitle.failmultiple.label "An bhfuil níos mó ná Firefox amháin suiteáilte agat? Ní thacaíonn &syncBrand.fullName.label; le níos mó ná leagan amháin de Firefox faoi láthair. Caithfidh tú leaganacha eile a dhíshuiteáil chun &syncBrand.shortName.label; a úsáid.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Críochnaithe">
 <!ENTITY sync.subtitle.success.label1 "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar na Socruithe chun do chuntas a bhainistiú, nó tosaigh ag brabhsáil le &brandShortName;..">
 <!ENTITY sync.settings.label "Socruithe">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (ligthe i léig)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; ar &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Roghchlár na Leabharmharcanna">
@@ -180,7 +187,7 @@
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
 <!ENTITY fxaccount_status_device_name "Ainm an ghléis">
-<!ENTITY fxaccount_status_sync_server 'Sync server'>
+<!ENTITY fxaccount_status_sync_server "Freastalaí Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: cumasaithe">
 <!ENTITY fxaccount_status_needs_verification2 "Caithfidh tú do chuntas a dhearbhú. Tapáil chun an teachtaireacht dearbhaithe a sheoladh arís.">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Téarmaí Seirbhíse">
 <!ENTITY fxaccount_status_linkprivacy "Fógra Príobháideachais">
+<!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Bain an Cuntas Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Baineadh Cuntas Firefox &formatS;.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Bain Cuntas">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ní féidir ceangal leis an líonra">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Níl &syncBrand.shortName.label; ceangailte">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapáil chun logáil isteach mar &formatS;">

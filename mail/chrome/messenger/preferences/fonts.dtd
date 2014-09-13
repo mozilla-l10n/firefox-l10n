@@ -4,7 +4,7 @@
 
 <!ENTITY fontsAndEncodingsDialog.title "Clófhoirne agus Ionchóduithe">
 <!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
+<!ENTITY window.macWidth "51em">
 <!ENTITY window.unixWidth "49em">
 
 <!ENTITY language.label "Clófhoirne do:">

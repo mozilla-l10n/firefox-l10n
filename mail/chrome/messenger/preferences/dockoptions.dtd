@@ -11,5 +11,5 @@
 <!ENTITY newMessagesCountDock.accesskey "n">
 <!ENTITY showAllUnreadMessagesCount.label "Líon na dteachtaireachtaí gan léamh">
 <!ENTITY showAllUnreadMessagesCount.accesskey "o">
-<!ENTITY dockIconBadge.label "App icon badge">
-<!ENTITY dockIconShow.label "Badge app icon with:">
+<!ENTITY dockIconBadge.label "Deilbhín na haipe">
+<!ENTITY dockIconShow.label "Deilbhín na haipe le:">

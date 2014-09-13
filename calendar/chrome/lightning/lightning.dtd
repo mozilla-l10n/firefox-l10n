@@ -43,13 +43,13 @@
 <!ENTITY lightning.imipbar.btnAccept.label "Glac Leis">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext "Glac leis an gcuireadh">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label "Glac le gach ceann">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext "Accept event invitation for all occurrences of the event">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext "Glac leis an gcuireadh chun na himeachtaí go léir">
 <!ENTITY lightning.imipbar.btnAdd.label "Cuir Leis">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext "Cuir an t-imeacht leis an bhféilire">
 <!ENTITY lightning.imipbar.btnDecline.label "Diúltaigh">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext "Diúltaigh an cuireadh">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Diúltaigh gach ceann">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Decline event invitation for all occurrences of the event">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Diúltaigh an cuireadh chun na himeachtaí go léir">
 <!ENTITY lightning.imipbar.btnDelete.label "Scrios">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Scrios ón bhféilire">
 <!ENTITY lightning.imipbar.btnDetails.label "Mionsonraí…">
@@ -59,11 +59,11 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Deimhnigh arís">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Seol deimhniú eile chuig an eagraí">
 <!ENTITY lightning.imipbar.btnSaveCopy.label "Sábháil cóip den imeacht">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Save a copy of the event to the calendar independently of replying to the organizer. The list of attendees will be cleared.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Sábháil cóip den imeacht san fhéilire gan freagra a thabhairt ar an eagraí. Glanfar liosta na rannpháirtithe.">
 <!ENTITY lightning.imipbar.btnTentative.label "Sealadach">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Glac leis an gcuireadh go sealadach">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Glac le gach ceann go sealadach">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext "Accept event invitation tentatively for all occurrences of the event">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext "Glac leis an gcuireadh chun na himeachtaí go léir go sealadach">
 <!ENTITY lightning.imipbar.btnUpdate.label "Nuashonrú">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext "Nuashonraigh an t-imeacht sa bhféilire">
 <!ENTITY lightning.imipbar.description "Tá cuireadh d'imeacht sa teachtaireacht seo.">

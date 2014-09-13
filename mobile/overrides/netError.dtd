@@ -11,18 +11,22 @@
 
 
 <!ENTITY connectionFailure.title "Ní féidir ceangal">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tá an seoladh seo srianta">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
-<!ENTITY dnsNotFound.longDesc2 "<ul>
-<li>Scrúdaigh an seoladh le haghaidh botún cosúil le 
-<strong>ww</strong>.sampla.com in áit 
-<strong>www</strong>.sampla.com</li>
-<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar do cheangal líonra nó do cheangal gan sreang.</li>
-</ul>">
+<!ENTITY dnsNotFound.longDesc3 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> <li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li></ul>">
@@ -35,15 +39,19 @@
 <!ENTITY malformedURI.longDesc "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.sampla.com/</strong></li> <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Idirbhriseadh an ceangal">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Cáipéis As Feidhm">
 <!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc2 "<ul>
-<li>Bain triail eile as. Déanfaidh &brandShortName; iarracht ceangal a bhunú agus an leathanach a luchtú arís.</li>
-</ul>">
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
@@ -52,10 +60,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
 
 <!ENTITY netReset.title "Athshocraíodh an ceangal">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Ceangal imithe thar am">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Níor tuigeadh an seoladh">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.</li></ul>">
@@ -64,10 +72,14 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> <li>Téigh i dteagmháil le do riarthóir líonra le bheith cinnte go bhfuil an seachfhreastalaí ag obair.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Ní féidir an seachfhreastalaí a aimsiú">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul>
-<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li>
-<li>Cinntigh go bhfuil ceangal líonra nó ceangal gan sreang do ríomhaire ag obair.</li>
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Níl an leathanach ag atreorú i gceart">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith díchumasaithe nó bheith ag diúltú leo.</li></ul>">
@@ -84,10 +96,14 @@
 <!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul>
-<li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li>
-<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra nó ceangal gan sreang do ghléis shoghluaiste.</li>
-</ul>">
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
