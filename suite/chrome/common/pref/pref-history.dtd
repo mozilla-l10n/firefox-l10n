@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "r">
 
 <!ENTITY  locationBarHistory.caption        "Historial de la barra d'ubicació">
+<!ENTITY  urlBarHistoryEnabled.caption      "Habilita l'historial de la barra d'ubicació">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "H">
 <!ENTITY  clearLocationBar.label            "Neteja la llista de llocs emmagatzemats al menú de la barra d'ubicació.">
 <!ENTITY  clearLocationBarButton.label      "Neteja la barra d'ubicació">
 <!ENTITY  clearLocationBarButton.accesskey  "b">

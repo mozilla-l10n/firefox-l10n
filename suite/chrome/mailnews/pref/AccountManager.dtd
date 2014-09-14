@@ -4,7 +4,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Paràmetres del compte">
+<!ENTITY accountManagerTitle.label "Paràmetres dels comptes…">
 
 <!ENTITY addAccountButton.label "Afegeix un compte...">
 <!ENTITY addAccountButton.accesskey "o">

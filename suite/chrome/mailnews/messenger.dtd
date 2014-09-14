@@ -403,9 +403,9 @@
 
 <!ENTITY getMsgButton.label "Recupera">
 <!ENTITY newMsgButton.label "Redacta">
-<!ENTITY newHTMLMessageCmd.label "Redacta-ho amb HTML">
+<!ENTITY newHTMLMessageCmd.label "Redacta-ho en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY newPlainTextMessageCmd.label "Redacta-ho amb text clar">
+<!ENTITY newPlainTextMessageCmd.label "Redacta-ho en text net">
 <!ENTITY newPlainTextMessageCmd.accesskey "c">
 <!ENTITY replyButton.label "Respon">
 <!ENTITY replyAllButton.label "Respon a tots">
@@ -524,7 +524,7 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY searchButton.label "Search Messages…">
+<!ENTITY searchButton.label "Cerca missatges…">
 <!ENTITY searchButton.accesskey "C">
 
 <!ENTITY all.label "Tot">

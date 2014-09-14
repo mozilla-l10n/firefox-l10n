@@ -14,7 +14,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Utilitza un altre servidor LDAP:">
-<!ENTITY directories.accesskey     "D">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Cap">
 <!-- am-addressing.xul -->
 

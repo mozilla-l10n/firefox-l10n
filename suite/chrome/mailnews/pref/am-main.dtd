@@ -20,7 +20,7 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Text de la signatura:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Utilitza HTML">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer:">
 <!ENTITY signatureFile.accesskey "t">

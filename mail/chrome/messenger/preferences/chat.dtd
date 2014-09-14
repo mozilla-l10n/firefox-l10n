@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Quan arribin missatges on se us esmenta:">
-<!ENTITY  desktopChatNotifications.label      "Mostra una notificació">
+<!ENTITY  desktopChatNotifications.label      "Mostra una notificació:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "amb el nom del remitent i la previsualització del missatge">
+<!ENTITY  buddyInfoOnly.label                 "només amb el nom del remitent">
+<!ENTITY  dummyNotification.label             "sense cap informació">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reprodueix un so">
 <!ENTITY  play.label                          "Reprodueix">
