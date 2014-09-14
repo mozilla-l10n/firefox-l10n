@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kattintson további lehetőségekért">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Újra megerősítés">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Ismételt megerősítés küldése a szervezőnek">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Másolat mentése">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Az esemény másolatának mentése a naptárba a szervezőnek küldött választól függetlenül. A résztvevők listája törlésre kerül.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Nem megerősített">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Eseménymeghívó feltételes elfogadása">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Összes feltételes">

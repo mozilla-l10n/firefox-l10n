@@ -330,8 +330,8 @@
 <!ENTITY invite.title.label                     "Résztvevők meghívása">
 <!ENTITY event.organizer.label                  "Szervező">
 <!ENTITY event.freebusy.suggest.slot            "Időablak javasolása:">
-<!ENTITY event.freebusy.next.slot               "Következő hely " >
-<!ENTITY event.freebusy.previous.slot           " Előző hely" >
+<!ENTITY event.freebusy.button.next.slot        "Következő hely">
+<!ENTITY event.freebusy.button.previous.slot    "Előző hely">
 <!ENTITY event.freebusy.zoom                    "Nagyítás:">
 <!ENTITY event.freebusy.legend.free             "Szabad" >
 <!ENTITY event.freebusy.legend.busy             "Elfoglalt" >

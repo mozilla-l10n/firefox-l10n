@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Könyvjelző">
 <!ENTITY  history_title "Előzmény">
 <!ENTITY  reading_list_title "Olvasási lista">
+<!ENTITY  recent_tabs_title "Legutóbbi lapok">
 
 <!ENTITY  switch_to_tab "Váltás erre a lapra">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
-<!ENTITY history_week_section "7 napja">
-<!ENTITY history_older_section "7 napnál régebben">
+<!ENTITY history_week_section2 "2-7 napos üzenetek">
+<!ENTITY history_older_section2 "Múlt hónap">
 
 <!ENTITY go "Ugrás">
 <!ENTITY search "Keresés">
@@ -62,11 +63,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; lap">
 <!ENTITY new_tab_opened "Új lap nyílt meg">
+<!ENTITY new_private_tab_opened "Új privát lap nyílt meg">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "VÁLTÁS">
 
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "nyelv">
+<!ENTITY pref_browser_locale "Böngésző nyelve">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Rendszer alapbeállítása">
+
 <!ENTITY pref_category_search3 "Keresés">
 <!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
 <!ENTITY pref_category_display "Megjelenítés">
@@ -86,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
+<!ENTITY pref_developer_paint_flashing "Rajzolás villogása">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
 
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
-<!ENTITY pref_home_add_panel "Panel hozzáadása">
 <!ENTITY home_add_panel_title "Új panel hozzáadása">
 <!ENTITY home_add_panel_empty "Elnézést, nem találhatók hozzáadható panelek.">
 <!-- Localization note (home_add_panel_installed):
@@ -103,12 +121,15 @@
 <!ENTITY pref_home_updates "Automatikus frissítések">
 <!ENTITY pref_home_updates_enabled "Engedélyezve">
 <!ENTITY pref_home_updates_wifi "Csak Wi-Fi használatakor">
+<!ENTITY pref_home_suggested_sites "Oldaljavaslatok megjelenítése">
+<!ENTITY pref_home_suggested_sites_summary "Indítók megjelenítése a kezdőlapon a szerintünk Ön számára érdekes oldalakra.">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Testreszabás">
 <!ENTITY pref_header_display "Megjelenítés">
 <!ENTITY pref_header_privacy_short "Adatvédelem">
 <!ENTITY pref_header_help "Súgó">
+<!ENTITY pref_header_language "nyelv">
 <!ENTITY pref_header_vendor "&vendorShortName;nak,">
 <!ENTITY pref_header_devtools "Fejlesztői eszközök">
 
@@ -125,7 +146,11 @@
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
-<!ENTITY pref_clear_private_data "Személyes adatok törlése">
+<!ENTITY pref_clear_private_data2 "Törlés most">
+<!ENTITY pref_clear_private_data_category "Személyes adatok törlése">
+<!ENTITY pref_clear_on_exit_title "Törlés minden kilépéskor">
+<!ENTITY pref_clear_on_exit_summary "A &brandShortName; automatikusan törli adatait a főmenü „Kilépés” pontjának kiválasztásakor">
+<!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
@@ -201,10 +226,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Állapotjelentés megjelenítése">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
-<!ENTITY datareporting_crashreporter_summary "A &brandShortName; összeomlás-jelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
+<!ENTITY datareporting_crashreporter_summary "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Összeomlás-jelentő">
+<!ENTITY datareporting_crashreporter_title_short "Hibajelentő">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; földrajzihely-szolgáltatás">
 <!ENTITY datareporting_wifi_geolocation_summary "Wi-Fi és mobilos földrajzihely-adatok fogadása a háttérben futva, és azok megosztása a &vendorShortName;val a földrajzihely-szolgáltatásunk fejlesztése érdekében">
 
@@ -215,6 +240,9 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
 <!ENTITY pref_update_autodownload_never "Soha">
 <!ENTITY pref_update_autodownload_always "Mindig">
+
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Súgó">
 
 <!ENTITY quit "Kilépés">
 
@@ -234,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Új lap">
 <!ENTITY new_private_tab "Új privát lap">
 <!ENTITY close_all_tabs "Minden lap bezárása">
+<!ENTITY close_private_tabs "Privát lapok bezárása">
 <!ENTITY tabs_normal "Lap">
 <!ENTITY tabs_private "Privát">
 <!ENTITY tabs_synced "Szinkronban">
@@ -256,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
 <!ENTITY contextmenu_open_private_tab "Megnyitás privát lapon">
-<!ENTITY contextmenu_open_in_reader "Megnyitás az Olvasóban">
 <!ENTITY contextmenu_remove "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
 <!ENTITY contextmenu_share "Megosztás">
@@ -279,7 +307,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Címsor görgetése">
 
-<!ENTITY history_removed "Oldal eltávolítva">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Oldal eltávolítva">
 
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
@@ -294,7 +325,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
 
 <!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
-<!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
 <!ENTITY reading_list_duplicate "Az oldal már szerepel az Olvasási listában">
 
@@ -321,11 +351,13 @@ size. -->
 <!ENTITY home_top_sites_add "Oldal hozzáadása">
 
 <!ENTITY home_history_title "Előzmény">
+<!ENTITY home_clear_history_button "Böngészési előzmények törlése">
+<!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
+<!ENTITY home_closed_tabs_title "Legutóbb bezárt lapok">
 <!ENTITY home_last_tabs_title "Legutóbbi lapok">
-<!ENTITY home_last_tabs_open "A legutóbbi lapok megnyitása">
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
-<!ENTITY home_most_recent_title "Legutóbbi">
+<!ENTITY home_open_all "Összes megnyitása">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
 <!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -344,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Vissza: ">
+
+<!ENTITY private_browsing_title "Privát böngészés">
+<!ENTITY private_tabs_panel_empty_desc "A privát lapok itt jelennek meg. Noha nem tároljuk a böngészési előzményeket vagy a sütiket, a könyvjelzők és letöltött fájlok továbbra is mentésre kerülnek a készülékre.">
+<!ENTITY private_tabs_panel_learn_more "Szeretne többet tudni?">
 
 <!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
@@ -435,3 +471,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Kész">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Utolsó szinkronizálás: &formatS;">
