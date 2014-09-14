@@ -27,7 +27,7 @@
 
 <!ENTITY addCloudFileAccount.label        "Hozzáadás">
 <!ENTITY addCloudFileAccount.accesskey    "H">
-<!ENTITY addCloudFileAccount.description  "Adjon hozzá új Filelink-tárolószolgáltatást">
+<!ENTITY addCloudFileAccount.description  "Adjon hozzá új óriásfájl-küldési tárolószolgáltatást">
 <!ENTITY removeCloudFileAccount.label     "Eltávolítás">
 <!ENTITY removeCloudFileAccount.accesskey "E">
 <!ENTITY authRequired.description         "Engedélyeznie kell a tárolószolgáltatás beállításainak megtekintését.">

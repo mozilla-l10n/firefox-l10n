@@ -21,11 +21,14 @@ sentence. -->
 <!ENTITY andSetStatusToAway.accesskey  "A">
 
 <!ENTITY  sendTyping.label              "A beszélgetések során értesítés küldése a gépelésről">
-<!ENTITY sendTyping.accesskey          "t">
+<!ENTITY sendTyping.accesskey          "k">
 
 <!ENTITY  chatNotifications.label             "Önnek címzett új üzenet érkezésekor:">
-<!ENTITY  desktopChatNotifications.label      "Értesítés megjelenítése">
+<!ENTITY  desktopChatNotifications.label      "Értesítés megjelenítése:">
 <!ENTITY desktopChatNotifications.accesskey  "r">
+<!ENTITY  completeNotification.label          "feladó nevével és az üzenet előnézetével">
+<!ENTITY  buddyInfoOnly.label                 "csak a feladó nevével">
+<!ENTITY  dummyNotification.label             "információ nélkül">
 <!ENTITY chatSound.accesskey                 "H">
 <!ENTITY  chatSound.label                     "Hangjelzés">
 <!ENTITY  play.label                          "Lejátszás">
@@ -33,7 +36,7 @@ sentence. -->
 <!ENTITY  systemSound.label                   "Alapértelmezett rendszerhang az új üzenethez">
 <!ENTITY systemSound.accesskey               "A">
 <!ENTITY  customsound.label                   "A következő hangfájl használata">
-<!ENTITY customsound.accesskey               "h">
+<!ENTITY customsound.accesskey               "v">
 <!ENTITY  browse.label                        "Tallózás…">
 <!ENTITY browse.accesskey                    "T">
 

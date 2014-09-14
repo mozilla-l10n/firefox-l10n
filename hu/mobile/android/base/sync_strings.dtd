@@ -108,6 +108,11 @@
 
 <!-- Firefox account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox fiókok'>
+
+<!ENTITY fxaccount_custom_server_account_title 'Fiók használata a kiszolgálón'>
+<!ENTITY fxaccount_custom_server_sync_title 'Sync adatok tárolása a kiszolgálón'>
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -169,6 +174,9 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox fiók'>
 <!ENTITY fxaccount_status_signed_in_as 'Bejelentkezve mint'>
+<!ENTITY fxaccount_status_auth_server 'Fiókkiszolgáló'>
+<!ENTITY fxaccount_status_device_name 'Eszköznév'>
+<!ENTITY fxaccount_status_sync_server 'Sync kiszolgáló'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: engedélyezve'>
 <!ENTITY fxaccount_status_needs_verification2 'Fiókját ellenőrizni kell. Koppintson az ellenőrző e-mail újraküldéséhez.'>
