@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "T">
 
 <!ENTITY  locationBarHistory.caption        "Adresselinjehistorikk">
+<!ENTITY  urlBarHistoryEnabled.caption      "Tillat adresselinjehistorikk">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "d">
 <!ENTITY  clearLocationBar.label            "Tøm listen over nettsted som er lagret i adresselinjen.">
 <!ENTITY  clearLocationBarButton.label      "Tøm">
 <!ENTITY  clearLocationBarButton.accesskey  "m">

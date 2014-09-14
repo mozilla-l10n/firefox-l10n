@@ -17,3 +17,13 @@
 <!ENTITY crashReports.caption       "Krasjrapportering">
 <!ENTITY submitCrashes.label        "Send krasjrapporter">
 <!ENTITY submitCrashes.accesskey    "S">
+
+<!ENTITY devTools.caption                 "Utviklerverktøy">
+<!ENTITY allowDebugger.label              "Tillat en debugger å koble til &brandShortName;">
+<!ENTITY allowDebugger.accesskey          "T">
+<!ENTITY allowRemoteConnections.label     "Tillat tilkoblinger fra andre datamaskiner">
+<!ENTITY allowRemoteConnections.accesskey "i">
+<!ENTITY connectionPrompt.label           "Spør om bekreftelse for innkommende tilkoblinger">
+<!ENTITY connectionPrompt.accesskey       "r">
+<!ENTITY remoteDebuggerPort.label         "Portnummer for tilkoblinger:">
+<!ENTITY remoteDebuggerPort.accesskey     "P">
