@@ -13,7 +13,7 @@
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
 <!ENTITY quickMode.accesskey "M">
-<!ENTITY autotagEnable.label "Crear automáticamente etiquetas a partir de los nombres de las &lt;categorías&gt; de los canales">
+<!ENTITY autotagEnable.label "Crear automáticamente etiquetas a partir de los contenidos &lt;category&gt; de los canales">
 <!ENTITY autotagEnable.accesskey "C">
 <!ENTITY autotagUsePrefix.label "Poner a las etiquetas el prefijo:">
 <!ENTITY autotagUsePrefix.accesskey "P">
