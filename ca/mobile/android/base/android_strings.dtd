@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Adreces d\u0027interès">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Llista de lectura">
+<!ENTITY  recent_tabs_title "Pestanyes recents">
 
 <!ENTITY  switch_to_tab "Canvia a la pestanya">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
-<!ENTITY history_week_section "Fa 7 dies">
-<!ENTITY history_older_section "Fa més de 7 dies">
+<!ENTITY history_week_section2 "La setmana passada">
+<!ENTITY history_older_section2 "El mes passat">
 
 <!ENTITY go "Vés-hi">
 <!ENTITY search "Cerca">
@@ -103,13 +104,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
+<!ENTITY pref_developer_paint_flashing "Ressalta l\u0027àrea actualitzada">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
 
 <!ENTITY pref_category_home "Inici">
 <!ENTITY pref_category_home_summary "Personalitzeu la pàgina d\u0027inici">
 <!ENTITY pref_category_home_panels "Subfinestres">
-<!ENTITY pref_home_add_panel "Afegeix una subfinestra">
 <!ENTITY home_add_panel_title "Afegeix una subfinestra nova">
 <!ENTITY home_add_panel_empty "No s\u0027ha trobat cap subfinestra que pugueu afegir.">
 <!-- Localization note (home_add_panel_installed):
@@ -119,7 +120,7 @@
 <!ENTITY pref_category_home_content_settings "Paràmetres del contingut">
 <!ENTITY pref_home_updates "Actualitzacions automàtiques">
 <!ENTITY pref_home_updates_enabled "Activades">
-<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostra suggeriments de llocs">
 <!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -145,7 +146,11 @@
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
-<!ENTITY pref_clear_private_data "Neteja dades privades">
+<!ENTITY pref_clear_private_data2 "Neteja-les ara">
+<!ENTITY pref_clear_private_data_category "Neteja dades privades">
+<!ENTITY pref_clear_on_exit_title "Neteja-les sempre en sortir">
+<!ENTITY pref_clear_on_exit_summary "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitats">
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
@@ -178,13 +183,13 @@ size. -->
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
-<!ENTITY pref_private_data_formdata "Historial de formularis i cerques">
+<!ENTITY pref_private_data_formdata "Formularis i historial de cerca">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
 <!ENTITY pref_private_data_passwords "Contrasenyes desades">
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
-<!ENTITY pref_private_data_downloadFiles2 "Baixades">
+<!ENTITY pref_private_data_downloadFiles2 "Downloads">
 
 
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
@@ -208,7 +213,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Tria què compartir">
 <!ENTITY datareporting_notification_summary "Perquè puguem millorar la vostra experiència, el &brandShortName; tramet automàticament informació a &vendorShortName;. ">
 <!ENTITY datareporting_notification_summary_short "Perquè puguem millorar la vostra experiència, el &brandShortName;...">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -257,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Pestanya nova">
 <!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
+<!ENTITY close_private_tabs "Tanca les pestanyes privades">
 <!ENTITY tabs_normal "Pestanyes">
 <!ENTITY tabs_private "Privades">
 <!ENTITY tabs_synced "Sincronitzades">
@@ -279,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
-<!ENTITY contextmenu_open_in_reader "Obre en el Lector">
 <!ENTITY contextmenu_remove "Suprimeix">
 <!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\u0027inici">
 <!ENTITY contextmenu_share "Comparteix">
@@ -349,10 +354,10 @@ size. -->
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
+<!ENTITY home_closed_tabs_title "Pestanyes tancades recentment">
 <!ENTITY home_last_tabs_title "Pestanyes de l\u0027última vegada">
-<!ENTITY home_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_empty "Aquí es mostren les pestanyes recents.">
-<!ENTITY home_most_recent_title "Més recents">
+<!ENTITY home_open_all "Obre-ho tot">
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +376,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "Torna a &formatS;">
+
+<!ENTITY private_browsing_title "Navegació privada">
+<!ENTITY private_tabs_panel_empty_desc "Aquí es mostren les pestanyes privades. Tot i que no es conservaran ni l\u0027historial de navegació ni les galetes, sí que es desaran al dispositiu les adreces d\u0027interès i els fitxers que baixeu.">
+<!ENTITY private_tabs_panel_learn_more "Voleu més informació?">
 
 <!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 

@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Feu clic aquí per veure més opcions">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirma">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envia una reconfirmació a l'organitzador">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Desa'n una còpia">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Desa una còpia de la cita al calendari independentment de la resposta a l'organitzador. S'esborrarà la llista d'assistents.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisional">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accepta la invitació a la cita provisionalment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tot provisional">

@@ -19,7 +19,7 @@
 <!ENTITY composingMessages.label          "Redacció">
 <!ENTITY format.label                     "Format d'enviament">
 <!ENTITY return.label                     "Confirmacions de recepció">
-<!ENTITY junk.label                       "Correu brossa">
+<!ENTITY junk.label                       "Correu brossa i sospitós">
 <!ENTITY tags.label                       "Etiquetes">
 <!ENTITY characterEncoding.label          "Codificació de caràcters">
 <!ENTITY networkStorage.label             "Xarxa i emmagatzematge">

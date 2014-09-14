@@ -11,7 +11,7 @@
 <!ENTITY closeTabCmd2.label "Tanca la pestanya">
 <!ENTITY closeTabCmd2.accesskey "T">
 <!ENTITY closeOtherTabsCmd2.label "Tanca les altres pestanyes">
-<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!ENTITY closeOtherTabsCmd2.accesskey "l">
 <!ENTITY recentlyClosedTabsCmd.label "Pestanyes tancades recentment">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 

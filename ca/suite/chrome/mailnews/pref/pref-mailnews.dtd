@@ -8,7 +8,7 @@
 <!ENTITY confirmMove.accesskey            "c">
 <!ENTITY preserveThreading.label          "Conserva la conversa en ordenar els missatges">
 <!ENTITY preserveThreading.accesskey      "t">
-<!ENTITY mailBiffOnNewWindow.label        "Només comprova si hi ha correu nou després d'obrir el Correu i grups de discussió">
+<!ENTITY mailBiffOnNewWindow.label        "Només comprova si hi ha correu nou després d'obrir la Missatgeria">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
 <!ENTITY defaultMailSettings.description  "Fes el &brandShortName; l'aplicació per defecte per a:">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "Correu brossa">
+<!ENTITY pref.junk.title "Correu brossa i sospitós">
 <!ENTITY junkSettings.caption "Paràmetres globals del correu brossa">
 <!ENTITY junkMail.intro "Aneu als paràmetres dels comptes per configurar els paràmetres de correu brossa específics de cada compte.">
 <!-- Junk Mail Controls -->

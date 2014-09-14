@@ -9,7 +9,7 @@
 <!ENTITY dontCheckSpelling.label              "Mai">
 <!ENTITY multilineCheckSpelling.label         "En els camps de text multilínia">
 <!ENTITY alwaysCheckSpelling.label            "En tots els camps">
-<!ENTITY spellForMailAndNews.label            "Correu i grups de discussió">
+<!ENTITY spellForMailAndNews.label            "Missatgeria">
 <!ENTITY checkSpellingBeforeSend.label        "Verifica l'ortografia abans d'enviar">
 <!ENTITY checkSpellingBeforeSend.accesskey    "c">
 <!ENTITY spellCheckInline.label               "Verifica l'ortografia a mesura que s'escriu">

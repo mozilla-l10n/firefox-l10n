@@ -23,7 +23,7 @@
 <!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML o imatge):">
-<!ENTITY signatureFile.accesskey "T">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Edita…">
 <!ENTITY choose.label "Trieu…">
 <!ENTITY choose.accesskey "T">

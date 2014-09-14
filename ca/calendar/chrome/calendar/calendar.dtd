@@ -346,7 +346,7 @@
 <!ENTITY calendar.error.title "S'ha produït un error">
 <!-- Extract buttons in message header -->
 
-<!ENTITY calendar.extract.event.button         "Afegeix com esdeveniment">
-<!ENTITY calendar.extract.task.button          "Afegeix com tasca">
-<!ENTITY calendar.extract.event.button.tooltip "Extreu informació del missatge i afegeix-la al calendari com esdeveniment">
-<!ENTITY calendar.extract.task.button.tooltip  "Extreu informació del missatge i afegeix-la al calendari com tasca">
+<!ENTITY calendar.extract.event.button         "Afegeix com a cita">
+<!ENTITY calendar.extract.task.button          "Afegeix com a tasca">
+<!ENTITY calendar.extract.event.button.tooltip "Extreu la informació temporal del missatge i l'afegeix al calendari com a cita">
+<!ENTITY calendar.extract.task.button.tooltip  "Extreu la informació temporal del missatge i l'afegeix al calendari com a tasca">

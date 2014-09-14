@@ -94,7 +94,7 @@
 <!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Només text enriquit (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Text senzill i enriquit (HTML)">
+<!ENTITY bothFormatCmd.label "Text net i enriquit (HTML)">
 <!ENTITY bothFormatCmd.accesskey "L">
 
 <!ENTITY fileCarbonCopyCmd.label "Envia una còpia a">
