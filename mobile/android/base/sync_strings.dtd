@@ -49,7 +49,6 @@
 <!ENTITY sync.button.connect.label "Conectar">
 <!ENTITY sync.button.ok.label "Aceptar">
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (obsoleto)">
-<!ENTITY sync.default.client.name "&formatS1; en &formatS2;">
 <!ENTITY bookmarks.folder.menu.label "Menú de marcadores">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
