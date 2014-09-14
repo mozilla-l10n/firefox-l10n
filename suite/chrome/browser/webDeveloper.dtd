@@ -4,3 +4,5 @@
 
 <!ENTITY validatePage.label            "Oldal ellenőrzése">
 <!ENTITY validatePage.accesskey        "O">
+<!ENTITY allowRemoteDebugging.label     "Távoli hibakeresés engedélyezése">
+<!ENTITY allowRemoteDebugging.accesskey "T">

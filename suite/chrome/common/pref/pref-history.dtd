@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "E">
 
 <!ENTITY  locationBarHistory.caption        "A címmező előzményei">
+<!ENTITY  urlBarHistoryEnabled.caption      "A címmező előzményei">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "c">
 <!ENTITY  clearLocationBar.label            "A címmezőben tárolt oldalak listájának ürítése.">
 <!ENTITY  clearLocationBarButton.label      "Előzmények törlése">
 <!ENTITY  clearLocationBarButton.accesskey  "k">
