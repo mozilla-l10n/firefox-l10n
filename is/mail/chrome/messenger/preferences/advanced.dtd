@@ -100,9 +100,9 @@
 <!ENTITY certs.auto.accesskey "V">
 <!ENTITY certs.ask "Spyrja í hvert skipti">
 <!ENTITY certs.ask.accesskey "a">
+<!ENTITY enableOCSP.label "Tala við OCSP svarþjóna til að staðfesta gildi núverandi skílríkja">
+<!ENTITY enableOCSP.accesskey "T">
 <!ENTITY viewCertificates.label "Skoða skilríki">
 <!ENTITY viewCertificates.accesskey "k">
-<!ENTITY validation.label "Sannprófun">
-<!ENTITY validation.accesskey "S">
 <!ENTITY viewSecurityDevices.label "Öryggistæki">
 <!ENTITY viewSecurityDevices.accesskey "Ö">
