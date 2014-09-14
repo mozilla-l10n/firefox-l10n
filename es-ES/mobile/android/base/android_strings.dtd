@@ -64,6 +64,8 @@
 <!ENTITY overlay_share_label "Añadir a &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
+<!ENTITY overlay_share_bookmark_btn_label_already "Ya está en los marcadores">
+<!ENTITY overlay_share_reading_list_btn_label_already "Ya está en la lista de lectura">
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
@@ -272,6 +274,12 @@
 <!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY home_move_up_to_filter "Volver a &formatS;">
+<!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
+<!ENTITY home_remote_tabs_empty "Sus pestañas de otros dispositivos se muestran aquí.">
+<!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "Regístrese para reconectar su cuenta Firefox y continuar sincronizando.">
+<!ENTITY home_remote_tabs_trouble_verifying "¿Tiene problemas para verificar su cuenta?">
+<!ENTITY home_remote_tabs_need_to_verify "Verifique su cuenta Firefox para comenzar a sincronizar.">
 <!ENTITY private_browsing_title "Navegación privada">
 <!ENTITY private_tabs_panel_empty_desc "Sus pestañas privadas se mostrarán aquí. Aunque no conservamos su historial de navegación ni sus cookies, los marcadores y archivos que descargue seguirán siendo guardados en su dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "¿Desea saber más?">
