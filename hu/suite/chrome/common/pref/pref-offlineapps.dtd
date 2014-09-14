@@ -10,11 +10,15 @@
 <!ENTITY clearOfflineAppCache.label         "Alaphelyzet">
 <!ENTITY clearOfflineAppCache.accesskey     "A">
 
-<!ENTITY offlineNotify.label                "Értesítés, ha a webhely kapcsolat nélküli adatokat tárolna.">
-<!ENTITY offlineNotify.accesskey            "r">
+<!ENTITY offlineAlwaysAllow.label           "Minden webhely tárolhat adatokat kapcsolat nélküli felhasználás céljából">
+<!ENTITY offlineAlwaysAllow.accesskey       "M">
+<!ENTITY offlineExplicit.label              "Engedélyek">
+<!ENTITY offlineExplicit.accesskey          "E">
+<!ENTITY offlineNotifyAsk.label             "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
+<!ENTITY offlineNotifyAsk.accesskey         "F">
 <!ENTITY offlineNotifyPermissions.label     "Jogosultságok kezelése">
 <!ENTITY offlineNotifyPermissions.accesskey "J">
 
-<!ENTITY offlineAppsList.label              "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
+<!ENTITY offlineAppsUsage.label             "A következő webhelyek tárolnak adatokat kapcsolat nélküli használatra:">
 <!ENTITY offlineAppsListRemove.label        "Törlés most…">
 <!ENTITY offlineAppsListRemove.accesskey    "T">
