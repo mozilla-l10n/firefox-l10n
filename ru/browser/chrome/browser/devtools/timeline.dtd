@@ -4,7 +4,7 @@
 
 <!ENTITY timelineUI.recordButton.tooltip "Запись операций на временной шкале">
 <!ENTITY timelineUI.recordLabel "Запись…">
-<!ENTITY timelineUI.emptyNotice1 "Щёлкните по">
-<!ENTITY timelineUI.emptyNotice2 "кнопке, чтобы начать запись событий на временной шкале.">
-<!ENTITY timelineUI.stopNotice1 "Щёлкните по">
-<!ENTITY timelineUI.stopNotice2 "кнопке снова, чтобы остановить запись.">
+<!ENTITY timelineUI.emptyNotice1 "Щёлкните по кнопке">
+<!ENTITY timelineUI.emptyNotice2 ", чтобы начать запись событий на временной шкале.">
+<!ENTITY timelineUI.stopNotice1 "Щёлкните по кнопке">
+<!ENTITY timelineUI.stopNotice2 "снова, чтобы остановить запись.">
