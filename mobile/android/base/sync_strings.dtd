@@ -74,6 +74,13 @@
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (niet meer in gebruik)'>
   
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; op &formatS2;'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Blêdwizermenu'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -193,13 +200,22 @@
 <!ENTITY fxaccount_status_passwords 'Wachtwurden'>
 <!ENTITY fxaccount_status_tabs 'Iepene ljepblêden'>
 <!ENTITY fxaccount_status_legal 'Juridysk' >
-
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Tsjinstbetingsten (Ing.)'>
 <!ENTITY fxaccount_status_linkprivacy 'Privacyferklearring (Ing.)'>
+<!ENTITY fxaccount_status_more 'Mear&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Firefox-account fuortsmite?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; sil stoppe mei syngronisearjne fan jo account, mar sil neat fan jo browsegegevens op dit apparaat.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; fuortsmiten.'>
+
+<!ENTITY fxaccount_remove_account_menu_item 'Account fuortsmite'>
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->

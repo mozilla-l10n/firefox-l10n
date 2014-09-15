@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
 
+<!ENTITY  onboard_start_message "Wolkom by &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Tawijd ta jo, jo privacy en in Iepen Web">
+<!ENTITY  onboard_start_button_account "Meld jo oan by &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Start mei browsen">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Blêdwizers">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Bestân kieze">
 
-<!ENTITY url_bar_default_text "Fier sykterm of adres yn">
+<!ENTITY url_bar_default_text2 "Sykje of fier adres yn">
 
 <!ENTITY bookmark "Blêdwizer">
 <!ENTITY bookmark_added "Blêdwizer tafoege">
@@ -64,7 +69,6 @@
 <!ENTITY num_tabs2 "&formatD; ljepblêden">
 <!ENTITY new_tab_opened "Nij ljepblêd iepene">
 <!ENTITY new_private_tab_opened "Nij priveljepblêd iepene">
-
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -85,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Standertwearde systeem">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Tafoegje oan &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Blêdwizer meitsje">
+<!ENTITY overlay_share_reading_list_btn_label "Tafoegje oan lêslist">
+<!ENTITY overlay_share_send_other "Ferstjoer nei oare apparaten">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Ferstjoer nei oar apparaat">
+<!ENTITY overlay_share_no_url "Gjin keppeling fûn yn dizze útwikseling">
+<!ENTITY overlay_share_retry "Probearje opnij">
+<!ENTITY overlay_share_select_device "Selektearje apparaat">
 
 <!ENTITY pref_category_search3 "Sykje">
 <!ENTITY pref_category_search_summary "Jo sykproviders oanpasse">
@@ -150,8 +175,8 @@
 <!ENTITY pref_clear_private_data2 "No wiskje">
 <!ENTITY pref_clear_private_data_category "Priveegegevens wiskje">
 <!ENTITY pref_clear_on_exit_title "Altyd wiskje by ôfsluten">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; sil automatysk jo gegevens wiskje as jo \'Quit\' selektearje út it haadmenu">
-<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sil automatysk jo gegevens wiskje as jo \u0022Quit\u0022 selektearje út it haadmenu">
+<!ENTITY pref_clear_on_exit_dialog_title "Selektearje hokker gegevens te wiskjen">
 <!ENTITY pref_plugins "Ynstekkers">
 <!ENTITY pref_plugins_enabled "Ynskeakele">
 <!ENTITY pref_plugins_tap_to_play "Tikke foar ôfspyljen">
@@ -179,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "De flugge oranje foks ljept oer jo ferwachtingen mei mear faasje, mear fleksibiliteit en mear feilichheid. As stichting binne wy frij om yn jo belang en sûnder druk foar kompromissen te ynnovearjen. Dat betsjut in bettere ûnderfining foar jo en in strieljende takomst foar it ynternet.">
 
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
-<!ENTITY pref_show_product_announcements "Produktoankundigingen toane">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Sykfoarstelllen toane">
 <!ENTITY pref_import_android "Ymportearje út Android">
@@ -277,9 +301,9 @@ size. -->
 <!ENTITY find_next "Folgjende">
 <!ENTITY find_close "Slute">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Casting nei apparaat">
+<!ENTITY media_sending_to "Ferstjoer nei apparaat">
 <!ENTITY media_play "Ofspylje">
 <!ENTITY media_pause "Pausearje">
 <!ENTITY media_stop "Stoppe">
@@ -304,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Sidetitel toane">
 <!ENTITY pref_titlebar_mode_url "Side-adres toane">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Titelbalke scrolle">
+<!ENTITY pref_scroll_title_bar2 "Folsleinskerm browse">
+<!ENTITY pref_scroll_title_bar_summary "Ferstop de &brandShortName;-titelbalke as in side nei ûnder skowt">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -466,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
