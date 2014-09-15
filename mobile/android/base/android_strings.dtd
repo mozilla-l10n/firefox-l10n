@@ -175,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Jetzt löschen">
 <!ENTITY pref_clear_private_data_category "Private Daten löschen">
 <!ENTITY pref_clear_on_exit_title "Beim Beenden immer löschen">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; löscht automatisch die Daten beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; löscht die Daten automatisch beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
 <!ENTITY pref_clear_on_exit_dialog_title "Zu löschende Daten auswählen">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
