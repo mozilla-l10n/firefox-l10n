@@ -19,6 +19,6 @@
 <!ENTITY offlineNotifyPermissions.label     "Spravovať povolenia">
 <!ENTITY offlineNotifyPermissions.accesskey "S">
 
-<!ENTITY offlineAppsUsage.label             "Nasledujúce webové stránky používajú úložisko offline:">
+<!ENTITY offlineAppsUsage.label             "Nasledujúce webové stránky používajú úložisko režimu offline:">
 <!ENTITY offlineAppsListRemove.label        "Vymazať údaje…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
