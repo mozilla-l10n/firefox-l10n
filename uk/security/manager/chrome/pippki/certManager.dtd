@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Організація (O)">
 <!ENTITY certmgr.certdetail.ou                "Організаційний підрозділ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Серійний номер">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Fingerprint">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Відбиток MD5">
 
 <!ENTITY certmgr.editcert.title               "Зміна параметрів сертифікату">
 <!ENTITY certmgr.editcacert.title             "Зміна ступеню довіри сертифікату CA">

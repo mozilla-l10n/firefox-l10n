@@ -54,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Використання пам’яті">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
+
 <!ENTITY aboutSupport.showDir.label "Відкрити каталог">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -70,6 +72,10 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Вподобання user.js">
 <!ENTITY aboutSupport.userJSDescription "Ваша папка профілю містить <a id='prefs-user-js-link'>файл user.js file</a> з вподобаннями, котрі не були створені програмою &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Important Locked Preferences">
+<!ENTITY aboutSupport.lockedPrefsName "Name">
+<!ENTITY aboutSupport.lockedPrefsValue "Value">
 
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Шрифти">
-<!ENTITY  window.width                            "40em">
-<!ENTITY  window.macWidth                         "58em">
-<!ENTITY  window.unixWidth                        "56em">
 
 <!ENTITY  language.label                          "Шрифти для набору символів:">
 <!ENTITY  language.accesskey                      "с">
@@ -24,18 +21,17 @@
 <!ENTITY  monospace.label                         "Моноширинний:">
 <!ENTITY  monospace.accesskey                     "о">
 
-<!ENTITY  font.langGroup.latin1                   "Західноєвропейські">
-<!ENTITY  font.langGroup.latin2                   "Центральноєвропейські">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Японська">
 <!ENTITY  font.langGroup.trad-chinese             "Традиційна китайська">
 <!ENTITY  font.langGroup.simpl-chinese            "Спрощена китайська">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Традиційна китайська (Гонконг)">
 <!ENTITY  font.langGroup.korean                   "Корейська">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилиця">
-<!ENTITY  font.langGroup.baltic                   "Прибалтійська">
 <!ENTITY  font.langGroup.el                       "Грецька">
-<!ENTITY  font.langGroup.turkish                  "Турецька">
-<!ENTITY  font.langGroup.unicode                  "Інша мова">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "Тайська">
 <!ENTITY  font.langGroup.hebrew                   "Іврит">
 <!ENTITY  font.langGroup.arabic                   "Арабська">
