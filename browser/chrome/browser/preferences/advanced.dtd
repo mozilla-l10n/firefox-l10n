@@ -26,13 +26,6 @@
 <!ENTITY checkSpelling.label             "Перевіряти орфографію при введенні тексту">
 <!ENTITY checkSpelling.accesskey         "е">
 
-<!ENTITY systemDefaults.label            "Встановлення типовим в системі">
-<!ENTITY alwaysCheckDefault.label        "Щоразу перевіряти на початку роботи чи є &brandShortName; типовим браузером"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "Щ">
-<!ENTITY setDefault.label                "Робити &brandShortName; типовим браузером">
-<!ENTITY setDefault.accesskey            "т">
-<!ENTITY isDefault.label                 "&brandShortName; наразі є вашим типовим браузером">
-
 <!ENTITY dataChoicesTab.label            "Вибір даних">
 
 <!ENTITY healthReportSection.label       "Звіт про справність &brandShortName;">
@@ -128,9 +121,9 @@
 <!ENTITY certs.auto.accesskey            "а">
 <!ENTITY certs.ask                       "Питати кожного разу">
 <!ENTITY certs.ask.accesskey             "к">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Перегляд сертифікатів">
 <!ENTITY viewCerts.accesskey             "с">
-<!ENTITY verify2.label                   "Перевірка">
-<!ENTITY verify2.accesskey               "р">
 <!ENTITY viewSecurityDevices.label       "Пристрої захисту">
 <!ENTITY viewSecurityDevices.accesskey   "з">

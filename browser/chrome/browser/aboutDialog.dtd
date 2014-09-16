@@ -10,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Перевірити оновлення">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label                "Перезапусти щоб оновитись">
+<!ENTITY update.updateButton.label2                "Restart &brandShortName; to Update">
 <!ENTITY update.updateButton.accesskey            "О">
 <!ENTITY update.applyButtonBillboard.label        "Застосувати оновлення…">
 <!ENTITY update.applyButtonBillboard.accesskey    "З">

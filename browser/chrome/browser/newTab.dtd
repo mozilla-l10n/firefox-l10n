@@ -4,10 +4,13 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Нова вкладка">
+<!ENTITY newtab.customize.title "Customize your New Tab page">
+<!ENTITY newtab.customize.enhanced "Enhanced">
+<!ENTITY newtab.customize.classic "Classic">
+<!ENTITY newtab.customize.blank "Blank">
+<!ENTITY newtab.customize.what "What is this page?">
+<!ENTITY newtab.intro.header "What is this page?">
 <!ENTITY newtab.undo.removedLabel "Ескіз вилучено.">
 <!ENTITY newtab.undo.undoButton "Скасувати.">
 <!ENTITY newtab.undo.restoreButton "Відновити всі.">
 <!ENTITY newtab.undo.closeTooltip "Приховати">
-<!ENTITY newtab.sponsored.release.message "Цей сайт спонсора було запропоновано тому, що ми сподіваємось він вас зацікавить, а також тому, що він підтримує місію Mozilla.">
-<!ENTITY newtab.sponsored.trial.message "Цей пробний сайт спонсора було запропоновано тому, що ми сподіваємось він вас зацікавить, а також тому, що він підтримує місію Mozilla.">
-<!ENTITY newtab.panel.link.text "Дізнатись більше…">
