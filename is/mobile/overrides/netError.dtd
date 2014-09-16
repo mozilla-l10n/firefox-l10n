@@ -21,7 +21,8 @@
 <li>Athugaði hvort það séu innsláttar villu í vistfanginu eins og 
 <strong>ww</strong>.daemi.is í staðinn fyrir 
 <strong>www</strong>.daemi.is</li> 
-<li>Ef þú getur ekki hlaðið inn neinum síðum, athugaðu þá gagna- eða WiFi tenginguna á tækinu þínu.</li> 
+<li>Ef þú getur ekki hlaðið inn neinum síðum, athugaðu þá gagna- eða WiFi tenginguna á tækinu þínu. 
+</li>  
 </ul>">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
@@ -86,12 +87,12 @@ að virka rétt.</li>
 <!ENTITY proxyResolveFailure.title "Gat ekki fundið milliþjón">
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
-<li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar.</li>  
-<button id='wifi'>Virkja Wi-Fi</button>   
+<li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar. 
+<button id='wifi'>Virkja Wi-Fi</button> 
 </li> 
 </ul>">
 
-<!ENTITY redirectLoop.title "Síðan er ekki að beina rétt">
+<!ENTITY redirectLoop.title "Síðan er ekki að beinast rétt">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Stundum er orsök þessa vandamáls ef neitað er að óvirkjuð meðtaka 
 smákökur.</li> 
@@ -114,7 +115,7 @@ uppsettan.</li>
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Það gæti verið vandamál með uppsetningu netþjónsins eða það gæti verið 
 einhver að reyna að þykjast vera þessi netþjónn.</li> 
-<li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið  
+<li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið 
 tímabundin og þú getur reynt aftur síðar.</li> 
 </ul>">
 
@@ -122,7 +123,7 @@ tímabundin og þú getur reynt aftur síðar.</li>
 <li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> 
 <li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.   
 <button id='wifi'>Virkja Wi-Fi</button>  
-</li>    
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Innihalds öryggisregla hefur lokað á þetta">

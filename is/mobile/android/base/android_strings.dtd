@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName; upp.">
 <!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
 
 <!ENTITY  onboard_start_message "Vertu velkomin í &brandShortName;">
