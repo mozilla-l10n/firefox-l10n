@@ -205,6 +205,7 @@
 <!ENTITY tabs_private "Anonime">
 <!ENTITY tabs_synced "Sincronizzate">
 <!ENTITY set_image_fail "Impossibile impostare immagine">
+<!ENTITY set_image_path_fail "Impossibile salvare l’immagine">
 <!ENTITY set_image_chooser_title "Imposta immagine come">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
