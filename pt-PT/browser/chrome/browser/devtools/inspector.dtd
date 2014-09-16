@@ -22,3 +22,5 @@
 <!ENTITY inspectorSearchHTML.key            "P">
 
 <!ENTITY inspectorCopyImageDataUri.label       "Copiar URL de dados da imagem">
+
+<!ENTITY inspectorShowDOMProperties.label       "Mostrar propriedades do DOM">
