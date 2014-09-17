@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "Ubhrawuza ngokusemfihlweni">
+
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "I-&brandShortName; ayiyi kukhumbula nayiphi na imbali yale festile.">
 
 
+<!ENTITY aboutPrivateBrowsing.description      "Idibanisa imbali yokubhrawuza, imbali yokukhangela, imbali yokukhuphela, imbali yefomu yewebhu. amaqebengwana, kunye neefayile ze-intanethi zethutyana">
 
 
 
