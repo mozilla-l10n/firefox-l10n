@@ -11,15 +11,23 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "Haz clic en el">
+<!ENTITY profilerUI.emptyNotice2    "botón para comenzar a grabar llamadas a funciones JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "Haz clic en el">
+<!ENTITY profilerUI.stopNotice2    "de nuevo para dejar de analizar.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "Cargando...">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "Grabar llamadas a funciones JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -31,7 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
+<!ENTITY profilerUI.table.duration    "Tiempo (ms)">
+<!ENTITY profilerUI.table.percentage  "Costo">
+<!ENTITY profilerUI.table.invocations "Llamadas">
+<!ENTITY profilerUI.table.function    "Función">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña a partir de la selección">
