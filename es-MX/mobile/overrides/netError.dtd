@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "No se puede conectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No se encontró el servidor">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Check the address for typing errors such as 
-<strong>ww</strong>.example.com instead of 
-<strong>www</strong>.example.com</li> 
-<li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>Comprueba que la dirección no tiene errores de escritura del tipo 
+<strong>ww</strong>.ejemplo.com en lugar de 
+<strong>www</strong>.ejemplo.com</li> 
+<li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o tu conexión Wi-Fi. 
+<button id='wifi'>Activar Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "No se encontró el archivo">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "La conexión se interrumpió">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no solicita automáticamente documentos sensibles.</li><li>Haz clic en Intentar de nuevo para volver a solicitar el documento del sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Intentar de nuevo. &brandShortName; intentará abrir una conexión y recargar la página. 
+<button id='wifi'>Activar Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "La conexión se reinició">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Se agotó el tiempo de espera">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "No se comprende la dirección">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,10 +85,12 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Check the proxy settings to make sure that they are correct.</li> 
-<li>Check to make sure your device has a working data or Wi-Fi connection.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Revisa la configuración del Proxy para estar seguro es correcta.</li> 
+<li>Asegúrate que tu dispositivo tiene una conexión operativa de Wi-Fi o de datos. 
+<button id='wifi'>Activar Wi-Fi</button> 
+</li> 
+ </ul>">
 
 <!ENTITY redirectLoop.title "La página no se está redireccionando apropiadamente">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -111,9 +117,11 @@ personal.</li>
 <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporal, intentalo más tarde.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> 
-<li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Intenta de nuevo en unos minutos.</li> 
+<li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o tu conexión Wi-Fi. 
+<button id='wifi'>Activar Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
