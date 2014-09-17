@@ -2,35 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Proje">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Yeni uygulama…">
+<!ENTITY projectMenu_newApp_accesskey "Y">
+<!ENTITY projectMenu_importPackagedApp_label "Paket uygulama aç…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Barındırılan uygulama aç…">
+<!ENTITY projectMenu_importHostedApp_accesskey "B">
+<!ENTITY projectMenu_selectApp_label "Uygulama aç…">
+<!ENTITY projectMenu_selectApp_accesskey "U">
+<!ENTITY projectMenu_play_label "Yükle ve çalıştır">
+<!ENTITY projectMenu_play_accesskey "Y">
+<!ENTITY projectMenu_stop_label "Uygulamayı durdur">
+<!ENTITY projectMenu_stop_accesskey "d">
+<!ENTITY projectMenu_debug_label "Uygulamada hata ayıkla">
+<!ENTITY projectMenu_debug_accesskey "h">
+<!ENTITY projectMenu_remove_label "Projeyi kaldır">
+<!ENTITY projectMenu_remove_accesskey "k">
+<!ENTITY projectMenu_showPrefs_label "Tercihler">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "Çalışma zamanı">
+<!ENTITY runtimeMenu_accesskey "z">
 <!ENTITY runtimeMenu_disconnect_label "Bağlantıyı kes">
-
-
-
+<!ENTITY runtimeMenu_disconnect_accesskey "B">
+<!ENTITY runtimeMenu_showPermissionTable_label "İzin tablosu">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "t">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekran görüntüsü">
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
+<!ENTITY runtimeMenu_showDetails_label "Çalışma zamanı bilgileri">
+<!ENTITY runtimeMenu_showDetails_accesskey "a">
 
 
 
@@ -41,7 +45,7 @@
 
 
 
-
+<!ENTITY runtimeButton_label "Çalışma zamanı seç">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -54,27 +58,33 @@
 
 
 
-
+<!ENTITY runtimePanel_custom "Özel">
 <!ENTITY runtimePanel_installsimulator "Simülatörü yükle">
-
-
+<!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
+<!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!-- Lense -->
 
-
-
+<!ENTITY details_valid_header "geçerli">
+<!ENTITY details_warning_header "uyarılar">
+<!ENTITY details_error_header "hatalar">
+<!ENTITY details_description "Açıklama">
 <!ENTITY details_location "Konum">
-
-
+<!ENTITY details_manifestURL "Uygulama kimliği">
+<!ENTITY details_removeProject_button "Projeyi kaldır">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "Yeni uygulama">
+<!ENTITY newAppHeader "Şablon seçin">
+<!ENTITY newAppLoadingTemplate "Şabolanlar yükleniyor…">
+<!ENTITY newAppProjectName "Proje adı:">
 <!-- Decks -->
 
 
 
 <!ENTITY deck_close "Kapat">
 <!-- Addons -->
+
+<!ENTITY addons_title "Ekstra bileşenler">
 
 <!-- Prefs -->
 
@@ -91,18 +101,22 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY prefs_options_expandtab_tooltip "Tab karakteri yerine boşluk kullan">
+<!ENTITY prefs_options_detectindentation "Otomatik girinti">
+<!ENTITY prefs_options_detectindentation_tooltip "Kaynak içeriğe dayanarak girintilemeyi tahmin et">
+<!ENTITY prefs_options_autocomplete "Otomatik tamamla">
+<!ENTITY prefs_options_autocomplete_tooltip "Kodları otomatik tamamlamayı etkinleştir">
+<!ENTITY prefs_options_autoclosebrackets "Parantezleri otomatik kapat">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Kapatma parantezlerini otomatik ekle">
+<!ENTITY prefs_options_keybindings "Tuş kısayolları">
 <!ENTITY prefs_options_keybindings_default "Varsayılan">
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "İzin tablosu">
 <!ENTITY permissionstable_name_header "Adı">
 <!-- Runtime Details -->
+
+<!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">
 
 
 
@@ -110,4 +124,6 @@
 
 
 <!-- Monitor -->
+
+<!ENTITY monitor_title "İzleyici">
 <!ENTITY monitor_help "Yardım">
