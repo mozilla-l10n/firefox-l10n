@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Khangela upelo lwam njengokuba ndichwetheza">
 <!ENTITY checkSpelling.accesskey         "c">
 
-<!ENTITY systemDefaults.label            "Iziseko zenkqubo">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza esisiseko ekuvuleni">
-<!ENTITY alwaysCheckDefault.accesskey    "o">
-<!ENTITY setDefault.label                "Yenza i-&brandShortName; ibe yibhrawuza esisiseko">
-<!ENTITY setDefault.accesskey            "s">
-<!ENTITY isDefault.label                 "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
-
 <!ENTITY dataChoicesTab.label            "Okukhethwayo kwengcombolo">
 
 <!ENTITY healthReportSection.label       "i-&brandShortName; iNgxelo yeMpilo">

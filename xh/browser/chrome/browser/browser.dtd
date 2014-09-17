@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Imbonakalo yoyilo ephendulayo">
 <!ENTITY responsiveDesignTool.accesskey "e">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Isiwisaliso">
 <!ENTITY eyedropper.accesskey "s">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "U">
 <!ENTITY webide.label                      "I-WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Bonisa / ufihle iithulbha">
 <!ENTITY customizeMode.titlebar "Ibha yomxholo">
 
+<!ENTITY customizeMode.lwthemes.myThemes "Imixholo yam">
+
+<!ENTITY customizeMode.lwthemes.menuManage "Lawula">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Incoko yengqwalaselo">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokubolekisana:">
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "IWindowu okanye iskrini ukwabelana:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Imayikhrofowuni yokubolekisana:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "I">
 <!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Ufikelelo kwikhamera / mayikhrofowuni">
-<!ENTITY webrtcIndicatorButton.tooltip "Bonisa iisayithi obolekisana nazo ngekhamera okanye imayikhrofowuni yakho">
+<!ENTITY mixedContentBlocked2.message "Isiqulatho esingakhuselekanga">
+<!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho encrypted kule webhusayithi zithintelwe">
+<!ENTITY mixedContentBlocked2.learnMore "Funda ngakumbi">
 
-<!ENTITY loopCallButton.tooltip "Mema umntu athethe">
+<!ENTITY mixedContentBlocked2.unblock.label "kunye nokhuseleko lusayekiwe">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Vumela ukhuseleko">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
+<!ENTITY mixedContentBlocked2.disabled.message "Ukhuseleko luyekisiwe">
 
-<!ENTITY mixedContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
+<!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
+<!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe">
+
+
+
+<!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
+<!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
 
 <!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
 
