@@ -295,6 +295,7 @@ size. -->
 <!ENTITY tabs_private "Súkromné">
 <!ENTITY tabs_synced "Synchronizované">
 <!ENTITY set_image_fail "Nie je možné nastaviť obrázok">
+<!ENTITY set_image_path_fail "Nie je možné uložiť obrázok">
 <!ENTITY set_image_chooser_title "Nastaviť obrázok ako">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
