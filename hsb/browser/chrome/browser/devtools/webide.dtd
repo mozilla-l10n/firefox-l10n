@@ -101,7 +101,7 @@
 <!ENTITY prefs_restore "Standard wobnowić">
 <!ENTITY prefs_simulators "Simulatory zarjadować">
 <!ENTITY prefs_options_enablelocalruntime "Lokalny běžny čas zmóžnić">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE dowolić, so ze swojim běžnym časom zwjzać (běžaca instanca wobhladowaka)">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE dowolić, so ze swojim běžnym časom zwjazać (běžaca instanca wobhladowaka)">
 <!ENTITY prefs_options_rememberlastproject "Sej posledni projekt spomjatkować">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Předchadny projekt wobnowić, hdyž WebIDE startuje">
 <!ENTITY prefs_options_templatesurl "URL předłohow">
