@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "լ">
 <!ENTITY alwaysAsk.label "Միշտ հարցնել ֆայլերը պահելու տեղը">
 <!ENTITY alwaysAsk.accesskey "Մ">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչն է">
+
+
