@@ -11,18 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "Ayikwazi kudibanisa">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Le dilesi inemida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Iseva ayifunyenwanga">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Khangela idilesi yokuchwetheza iimposiso njenge 
-<strong>ww</strong>.example.com endaweni ye-
-<strong>www</strong>.example.com</li> 
-<li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela iingcombolo zesixhobo sakho okanye unxibelelwano lwe-Wi-Fi.</li> 
-</ul>">
+
 
 <!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -43,15 +38,13 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Uxwebhu luphelelwe">
 <!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Zama kwakhona. I-&brandShortName; iza kuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi.</li> 
-</ul>">
+
 
 <!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Umdibaniso uphinde wamiselwa">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Umdibaniso uphelelwe lixesha">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Idilesi ayiqondwanga">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +75,7 @@ yasebenza.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> 
-<li>khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano lweengcombolo ezisebenzayo okanye i-Wi-Fi.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "Ikhasi alithumeli kwenye indawo kakuhle">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,10 +104,6 @@ mntu uthile uzama ukuzenza umnini weseva.</li>
 nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Isayithi isenokungafumaneki okwethutyana okanye ixakeke kakhulu. Zama kwakhona emva kwemizuzwana embalwa.</li> 
-<li>Ukuba akukwazi ukulayisha amakhasi, khangela unxibelelwano lweengcombolo zesixhobo sakho esihanjiswayo okanye i-Wi-Fi.</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
