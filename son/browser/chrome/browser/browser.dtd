@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Fasal gunari tuurante">
 <!ENTITY responsiveDesignTool.accesskey "r">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Noonezaakaw">
 <!ENTITY eyedropper.accesskey "z">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -701,12 +701,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Goyjinay zuu cebe / tugu">
 <!ENTITY customizeMode.titlebar "Maa zuu">
 <!ENTITY customizeMode.lwthemes "Furarey">
-
+<!ENTITY customizeMode.lwthemes.myThemes "Ay furarey">
 <!ENTITY customizeMode.lwthemes.recommended "Yaamarante">
 <!ENTITY customizeMode.lwthemes.menuManage "Juwal">
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Furari tontoney guna">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Faakaarawey suuba">
@@ -724,22 +724,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Interneti doo boobey ga goy boryo ba nda gundekunaa woo gagayandi.">
 
-
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "Gundekuna kaŋ ga naanay šii">
+<!ENTITY mixedContentBlocked2.moreinfo "Na hayi-ize fooyaŋ kaŋ mana kufalandi nungoo woo ga gagay.">
+<!ENTITY mixedContentBlocked2.learnMore "Bay ka tonton">
+<!ENTITY mixedContentBlocked2.options "Suubarey">
+<!ENTITY mixedContentBlocked2.unblock.label "Jejebu kaa sohõ se">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Jejebu šintin">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
+<!ENTITY mixedContentBlocked2.disabled.message "Jejeboo kayandi">
 
 <!ENTITY trackingContentBlocked.message "Kuryan">
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "Ir na moo-kunawey kaŋyaŋ ga war monno interneti bande gagay.">
+<!ENTITY trackingContentBlocked.learnMore "Bay ka tonton">
+<!ENTITY trackingContentBlocked.options "Suubarey">
+<!ENTITY trackingContentBlocked.unblock.label2 "Jejeboo kaa moɲoo woo se">
+<!ENTITY trackingContentBlocked.block.label "Bataga jejebuyan">
+<!ENTITY trackingContentBlocked.disabled.message "Monnoyan jejebu n' ka kay">
 
 <!ENTITY pointerLock.notification.message "ESC naagu waati kul k'a cebe koyne.">
 
