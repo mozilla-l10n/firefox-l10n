@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "n">
 <!ENTITY alwaysAsk.label "Luôn hỏi tôi nơi lưu tập tin">
 <!ENTITY alwaysAsk.accesskey "L">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; đang là trình duyệt mặc định">
+
+

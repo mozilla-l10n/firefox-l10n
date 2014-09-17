@@ -15,12 +15,13 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Duyệt web Riêng tư)">
 
+<!ENTITY appmenu.tooltip                     "Mở trình đơn">
 <!ENTITY navbarOverflow.label                "Thêm công cụ...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Tải lại Thẻ">
 <!ENTITY  reloadTab.accesskey                "i">
-<!ENTITY  reloadAllTabs.label                "Tải lại Tất cả Các thẻ">
+<!ENTITY  reloadAllTabs.label                "Tải lại tất cả các thẻ">
 <!ENTITY  reloadAllTabs.accesskey            "l">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -44,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Nhóm Mới">
 <!ENTITY  moveToNewWindow.label              "Di chuyển sang Cửa Sổ Mới">
 <!ENTITY  moveToNewWindow.accesskey          "u">
-<!ENTITY  bookmarkAllTabs.label              "Đánh dấu Tất cả Các thẻ…">
-<!ENTITY  bookmarkAllTabs.accesskey          "u">
-<!ENTITY  undoCloseTab.label                 "Hoàn tác Đóng Thẻ">
-<!ENTITY  undoCloseTab.accesskey             "H">
+
+
+
+
 <!ENTITY  closeTab.label                     "Đóng Thẻ">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -56,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Thẻ Mới">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Mở Địa chỉ…">
 <!ENTITY openFileCmd.label "Mở Tệp (o)…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -76,6 +81,12 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Thanh Đánh Dấu">
 <!ENTITY personalbarCmd.accesskey "u">
 <!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh Dấu">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Mã nguồn của Trang">
 <!ENTITY pageSourceCmd.accesskey "M">
@@ -98,9 +109,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Đăng nhập vào &syncBrand.shortName.label;">
 
 
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; sẽ bắt đầu đồng bộ ngay.">
 
-
-
+<!ENTITY syncErrorPanel.subTitle "Đăng nhập để tiếp tục đồng bộ.">
 
 
 
@@ -147,18 +158,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Các trang đánh dấu Chưa sắp xếp">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 
-<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Tiến tới trang sau">
 <!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử">
 <!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem lịch sử">
 
-<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Tải lại trang này">
 
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ngưng tải trang này">
 <!ENTITY goEndCap.tooltip             "Tải trang trong thanh Địa chỉ">
@@ -196,7 +203,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "m">
 
 <!ENTITY downloads.label              "Trang tải xuống (d)">
-<!ENTITY downloads.tooltip            "Display the progress of ongoing downloads">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -227,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Chế độ Responsive Design">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -254,6 +260,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 
 
+
+
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Bật tắt công cụ (T)">
@@ -430,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Đặt làm ảnh nền… (s)">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Đánh Dấu Liên Kết Này">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Đánh Dấu Khung Này">
@@ -554,11 +563,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Thu phóng">
 <!ENTITY fullZoom.accesskey             "p">
 
-<!ENTITY newTabButton.tooltip           "Open a new tab">
-<!ENTITY newWindowButton.tooltip        "Open a new window">
 <!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
-
-<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label       "Thoát"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "o">
@@ -670,10 +675,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "Các dịch vụ từ <label/> đã được bật. Bạn có thể thay đổi tùy chọn của mình đối với các dịch vụ trong <label class='text-link'>Quản lý Add-on</label>.">
 <!ENTITY social.activated.undo.label "Ôi, hoàn lại việc này!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Tìm hiểu thêm... (L)">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Không phải bây giờ">
+
+
+
+
+
+
+
 
 
 
@@ -696,10 +708,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "chia sẻ Mic:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Truy cập Camera / Microphone">
-<!ENTITY webrtcIndicatorButton.tooltip "Hiển thị trang mà bạn đang chia sẻ camera hoặc microphone">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY mixedContentBlocked.moreinfo "Hầu hết các trang web sẽ vẫn hoạt động tốt ngay cả khi nội dung này bị chặn.">
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Theo dõi">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Ấn ESC vào bất kỳ lúc nào để hiển thị lần nữa.">
 

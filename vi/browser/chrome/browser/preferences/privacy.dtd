@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Thông báo với các trang web rằng tôi muốn được theo dõi">
 
+
+
+
 <!ENTITY doNotTrackInfo.label           "Tìm hiểu Thêm">
 
 <!ENTITY  history.label                 "Lịch sử">
@@ -18,7 +21,7 @@
 
 <!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
 <!ENTITY  locbar.pre.accessKey          "a">
-<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (u)">
+<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (&amp;u)">
 <!ENTITY  locbar.both.label             "Lược sử và Đánh dấu">
 <!ENTITY  locbar.history.label          "Lịch sử">
 <!ENTITY  locbar.bookmarks.label        "Trang ưa thích">

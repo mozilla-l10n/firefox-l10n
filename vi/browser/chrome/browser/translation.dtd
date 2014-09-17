@@ -12,7 +12,7 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-<!ENTITY translation.thisPageIsIn.label         "Trang này đang là">
+<!ENTITY translation.thisPageIsIn.label         "Trang này là">
 <!ENTITY translation.translateThisPage.label    "Dịch trang này?">
 <!ENTITY translation.translate.button           "Dịch">
 <!ENTITY translation.notNow.button              "Không phải bây giờ">
@@ -35,7 +35,7 @@
   -  be grammatically correct. -->
 
 <!ENTITY translation.translatedFrom.label       "Trang này đã được dịch từ">
-<!ENTITY translation.translatedTo.label         "đến">
+<!ENTITY translation.translatedTo.label         "ra">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Xem bản gốc">
@@ -44,4 +44,21 @@
 <!ENTITY translation.errorTranslating.label     "Có lỗi khi đang dịch trang này.">
 <!ENTITY translation.tryAgain.button            "Thử Lại">
 
+<!ENTITY translation.serviceUnavailable.label   "Việc dịch chưa thực hiện được lúc này. Vui lòng thử lại sau.">
+
 <!ENTITY translation.options.menu               "Tùy chọn">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Không bao giờ dịch trang này (e)">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Tùy chọn dịch">
+<!ENTITY translation.options.preferences.accesskey "T">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
+<!ENTITY translation.options.attribution.afterLogo "">
