@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "সংযোগ কৰাত অক্ষম">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "এই ঠিকনা পৰিমিত">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা নগল">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>ঠিকনাক টাইপিং ত্ৰুটিৰ বাবে নিৰীক্ষণ কৰক যেনে 
 <strong>www</strong>.example.com ৰ পৰিৱৰ্তে 
 <strong>ww</strong>.example.com</li> 
-<li>যদি আপুনি পৃষ্ঠাসমূহ ল'ড কৰিব পৰা নাই, আপোনাৰ ডিভাইচৰ তথ্য অথবা Wi-Fiসংযোগ পৰিক্ষা কৰক।</li> 
+<li>যদি আপুনি পৃষ্ঠাসমূহ ল'ড কৰিব পৰা নাই, আপোনাৰ ডিভাইচৰ তথ্য অথবা Wi-Fi সংযোগ পৰিক্ষা কৰক।</li> 
+<button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পোৱা ন'গ'ল">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিচ্ছিন্ন হৈছে">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "দস্তাবেজৰ অৱসান ঘটিল">
 <!ENTITY notCached.longDesc "<p>অনুৰোধ কৰা দস্তাবেজ &brandShortName; -ৰ ক্যাশত উপলব্ধ নহয়।</p><ul><li>সুৰক্ষা কাৰণ হিচাপে, &brandShortName; -এ স্বচালিতভাৱে সংবেদ্য দস্তাবেজসমূহ পুনৰ অনুৰোধ নকৰে।</li><li>ৱেবছাইটৰ পৰা দস্তাবেজ পুনৰ অনুৰোধ কৰিবলে পুনৰ চেষ্টা কৰক ক্লিক কৰক।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>পুনৰ চেষ্টা কৰক। &brandShortName; এ এটা সংযোগ খোলাৰ চেষ্টা কৰিব আৰু পৃষ্ঠাকপুনৰ ল'ড কৰিব।</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>পুনৰ চেষ্টা কৰক। &brandShortName; এ এটা সংযোগ খোলাৰ চেষ্টা কৰি পৃষ্ঠা পুনৰ ল'ড কৰাৰচেষ্টা কৰিব। 
+<button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "সমল এনক'ডিংত ত্ৰুটি">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "সংযোগ পুনৰ প্ৰতিষ্ঠা কৰা হৈছে">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "সংযোত স্থাপনৰ সময়ৰ বিৰতি হৈছে">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ঠিকনা বুজি পোৱা ন'গ'ল">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +85,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্ৰক্সি চাৰ্ভাৰ পোৱা ন'গ'ল">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>প্ৰক্সি সংহতিসমূহ সঠিক আছে নে সুনিশ্চিত কৰক।</li> 
-<li>আপোনাৰ ডিভাইচৰ এটা কাৰ্য্যকৰী তথ্য আৰু Wi-Fi সংযোগ আছে নে সুনিশ্চিত কৰক।</li> 
+<li>আপোনাৰ ডিভাইচৰ এটা কাৰ্য্যকৰী তথ্য আৰু Wi-Fi সংযোগ থকাটো সুনিশ্চিত কৰক।</li> 
+<button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "এই পৃষ্ঠাই শুদ্ধভাবে পুনৰ দিশ দিয়া নাই">
@@ -109,9 +115,11 @@
 <li>যদি অতিতত এই চাৰ্ভাৰৰ লগত সফলভাবে সংযোগ কৰিছে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনৰ চেষ্টা কৰিব পাৰে।</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>এই ছাইট অস্থায়ীভাৱে উপলব্ধ নহয় অথবা অতি ব্যস্ত। কিছু সময় পিছত পুনৰ চেষ্টা কৰি চাওক।</li> 
 <li>যদি আপুনি কোনো পৃষ্ঠা ল'ড কৰিব পৰা নাই, আপোনাৰ মবাইল ডিভাইচৰ তথ্য অথবা Wi-Fi সংযোগ নিৰীক্ষণ কৰক।</li> 
+<button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
