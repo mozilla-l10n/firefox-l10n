@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Özel sunucu kullan">
 <!ENTITY sync.input.server.label "Sunucu adresi">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; kurulamadı">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; sunucuya bağlanamadı. Tekrar denemek ister misiniz?">
 <!ENTITY sync.button.tryagain.label "Yeniden dene">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Aygıtınızda hesap oluşturma başarısız oldu.">
 <!ENTITY sync.subtitle.failmultiple.label "Birden fazla Firefox kurulumunuz mu var? Şimdilik &syncBrand.fullName.label; aynı anda tek bir Firefox kurulumunu destekliyor. &syncBrand.shortName.label;\u0027ı kullanmak için lütfen diğer kurulumları kaldırın.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Kurulum tamamlandı">
 <!ENTITY sync.subtitle.success.label1 "Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar kısmına gidebilir veya &brandShortName; ile gezinmeye başlayabilirsiniz.">
 <!ENTITY sync.settings.label "Ayarlar">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (eski)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; - &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Yer imleri menüsü">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Hizmet Koşulları">
 <!ENTITY fxaccount_status_linkprivacy "Gizlilik İlkeleri">
+<!ENTITY fxaccount_status_more "Daha fazla&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox Hesabı kaldırılsın mı?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; artık hesabınızla eşitlenmeyecektir ama bu cihazdaki mevcut tarama verileri silinmeyecektir.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox Hesabı &formatS; kaldırıldı.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Hesabı sil">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ağa bağlanılamıyor">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; bağlı değil">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum açmak için dokunun">
