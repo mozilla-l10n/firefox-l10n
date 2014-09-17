@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "আইড্রপার y">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "প্রদর্শন/আড়াল টুল-বার">
 <!ENTITY customizeMode.titlebar "শিরোনাম বার">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "পরিচালনা">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চ্যাটে কেন্দ্র করুন (c)">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "শেয়ার করার ক্যামেরা (C):">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "উইন্ডো অথবা স্ক্রিন শেয়ার করতে (W):">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "শেয়ার করার মাইক্রোফোন (M):">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনে সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "ক্যামেরা / মাইক্রোফোন অ্যাক্সেস">
-<!ENTITY webrtcIndicatorButton.tooltip "আপনি বর্তমানে আপনার ক্যামেরা বা মাইক্রোফোন যে সাইটগুলির সঙ্গে শেয়ার করছেন সেগুলি প্রদর্শন করুন">
 
-<!ENTITY loopCallButton.tooltip "কথা বলতে আমন্ত্রণ জানান">
 
-<!ENTITY mixedContentBlocked.moreinfo "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">
 

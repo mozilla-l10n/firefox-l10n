@@ -21,6 +21,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "এই পরিস্থিতিতে কী করা উচিত?">
 <!ENTITY certerror.whatShouldIDo.content "কোনো ধরনের সমস্যাবিনা যদি এই সাইটের সাথে সংযোগ স্থাপন করা সম্ভব হয়, তাহলে সম্ভবত কেউ এই সাইটের সাথে কারচুপি করছে এবং এই ক্ষেত্রে এগিয়ে চলা সমিচীন নয়">
+
 <!ENTITY certerror.getMeOutOfHere.label "এখান থেকে আমি প্রস্থান করতে ইচ্ছুক!">
 
 <!ENTITY certerror.expert.heading "সম্ভাব্য বিপদ সম্পর্কে আমি সচেতন">
