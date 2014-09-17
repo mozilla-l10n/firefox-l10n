@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Jonga">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+
+<!ENTITY details_location "Indawo">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Vala">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Jikelele">
+<!ENTITY prefs_restore "Buyisela ezisisiseko">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Igama">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Uncedo">

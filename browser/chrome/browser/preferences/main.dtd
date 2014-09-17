@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Ndibuze qho ngendawo emazigcinwe kuyo iifayile">
 <!ENTITY alwaysAsk.accesskey "q">
+
+
+
+
+<!ENTITY isDefault.label                  "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
+
+
