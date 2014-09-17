@@ -10,7 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "คัดลอก Unique Selector">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
-
+<!ENTITY inspectorHTMLPasteOuter.label      "วางด้านนอก HTML">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "ว">
 
 <!ENTITY inspectorHTMLDelete.label          "ลบโหนด">
 <!ENTITY inspectorHTMLDelete.accesskey      "ล">
