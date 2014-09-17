@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Գործիք">
 <!ENTITY eyedropper.accesskey "ո">
@@ -267,6 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "Ծ">
 
 
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Ցուցադրել կամ թաքցնել գործիքավահանակները">
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Կառավարել">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
 <!ENTITY social.chatBar.accesskey "ց">
@@ -709,17 +718,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտքը ապարատին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
-
-
 <!ENTITY getUserMedia.selectMicrophone.label "Մուտք բարձրախոսին.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
 
-
-<!ENTITY webrtcIndicatorButton.label "Մուտք ապարատին / բարձրախոսին">
-<!ENTITY webrtcIndicatorButton.tooltip "Ցուցադրել այն կայքերը, որոնք մուտք ունեն ձեր ապարատին և բարձրախոսին">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
 
-<!ENTITY mixedContentBlocked.moreinfo "Կայքերի մեծամասնությունը կշարունակի նորմալ աշխատել, անգամ եթե բովանդակությունը արգելափակված լինի:">
+
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Հետևում">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">
 
