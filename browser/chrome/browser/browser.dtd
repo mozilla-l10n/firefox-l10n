@@ -537,8 +537,10 @@
 <!ENTITY trackingContentBlocked.moreinfo "Sono stati bloccati alcuni elementi in questa pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingContentBlocked.learnMore "Ulteriori informazioni">
 <!ENTITY trackingContentBlocked.options "Opzioni">
-<!ENTITY trackingContentBlocked.unblock.label2 "Disattiva protezione per questo sito">
+<!ENTITY trackingContentBlocked.unblock2.label "Disattiva protezione per questo sito">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Attiva protezione">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protezione antitracciamento è disattivata">
 <!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
 <!ENTITY pluginNotification.showAll.label "Visualizza tutti">
