@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Yeny i mung">
-<!ENTITY privatebrowsingpage.title.normal          "I mito cako Yeny i mung?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; pe bi po ikom gin mukato mo keken pi dirica man.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Kombedi i peke i dirica me mung.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; pe bi po ikom gin mukato mo keken pi dirica man.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "I dirica me Yeny i mung, &brandShortName; pe bi gwoko layeny mo keken mukato, yeny mukato, gam mukato, pwom me kakube mukato, cookies, onyo pwail me intanet me tutunu.  Ento, ki bi gwoko pwail ma i gamo ki alama buk ma icweyo.">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "Me cako yeny i mung, i romo bene yero &newPrivateWindow.label; ki i nying gin ayera.">
-<!ENTITY privatebrowsingpage.howToStop3                "Me juko yeny i mung, i romo loro dirica man.">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "Kun komputa man pe twero bedo ki ricod me yeny mamegi mukato, ngat ma miyi intanet onyo tic romo lubo pot buk ma ilimo.">
-<!ENTITY privatebrowsingpage.learnMore                 "Nong ngec mapol">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
 
 <!ENTITY privatebrowsingpage.howToStart3               "Me cako yeny i mung, iromo bene yero select &basePBMenu.label; &gt; &newPrivateWindow.label;.">

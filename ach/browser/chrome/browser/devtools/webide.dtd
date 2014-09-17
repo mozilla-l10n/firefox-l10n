@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Wek kube">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Cal me wang kio">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Nen">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Ket Cuma">
+
+
+<!-- Lense -->
+
+
+
+<!ENTITY details_location "Kabedo">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Lor">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Yab Gin madoro Lamed ne">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Lumuku">
+<!ENTITY prefs_restore "Dwok i ma pire kene">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Byek kabedo ma i kin kacako coc kun i jenge ikom gin manonge kama oaa iye">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Lor bracket pire kene">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Ket bracket ma loro pire kene">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Nying">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Kony">

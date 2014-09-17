@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Neno me yub ma miyo lagam">
 <!ENTITY responsiveDesignTool.accesskey "l">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "La ton i wang">
 <!ENTITY eyedropper.accesskey "a">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Lok jami tic">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Nyut / Kan gintic">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Lo">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Kem boko lok">
 <!ENTITY social.chatBar.accesskey "e">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Dirica onyo wang kompiuta me anywaka:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "D">
 <!ENTITY getUserMedia.selectMicrophone.label "Micropon me anywaka:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Nong Lamak cal / Micropon">
-<!ENTITY webrtcIndicatorButton.tooltip "Yar kakube ma kombedi i nywako lamak cal onyo micropon ni kwedgi">
 
-<!ENTITY loopCallButton.tooltip "Lwong ngat mo ka lok">
 
-<!ENTITY mixedContentBlocked.moreinfo "Pol kakube pud gi bitiyo maber kadi bed ki geng gin manonge iye man.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Lubo">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Dii ESC cawa mo keken me nyuto doki.">
 
