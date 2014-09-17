@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.o                 "Tổ chức (O)">
 <!ENTITY certmgr.certdetail.ou                "Đơn vị của Tổ chức (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Số Serial">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Vân tay SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Fingerprint">
 
 <!ENTITY certmgr.editcert.title               "Chỉnh sửa Thiết lập Chứng thư Bảo mật">
 <!ENTITY certmgr.editcacert.title             "Chỉnh thiết lập độ tin cậy chứng thư CA">

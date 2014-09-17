@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Kiểm tra cập nhật">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label                "Khởi động lại để cập nhật (r)">
-<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.updateButton.label2                "Khởi động lại &brandShortName; để cập nhật">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Áp dụng cập nhật… (a)">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -100,5 +100,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Bạn hiện đang trên ">
+<!ENTITY channel.description.start  "Bạn hiện đang trên kênh ">
 <!ENTITY channel.description.end    " kênh cập nhật. ">

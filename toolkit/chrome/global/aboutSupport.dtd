@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 
+
 <!ENTITY aboutSupport.showDir.label "Mở Thư mục">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -61,11 +62,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Các tùy chọn quan trọng đã được sửa đổi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tên">
-<!ENTITY aboutSupport.modifiedPrefsValue "Giá trị">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Tinh chỉnh user.js">
 <!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tệp <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Đồ họa">
 

@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Kiểm tra chính tả ngay khi tôi gõ">
 <!ENTITY checkSpelling.accesskey         "a">
 
-<!ENTITY systemDefaults.label            "Mặc định cho Hệ thống">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Luôn kiểm tra xem &brandShortName; có phải là trình duyệt mặc định mỗi khi khởi chạy">
-<!ENTITY alwaysCheckDefault.accesskey    "L">
-<!ENTITY setDefault.label                "Đặt &brandShortName; làm trình duyệt mặc định">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; đang là trình duyệt mặc định">
-
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
 <!ENTITY healthReportSection.label       "Trình báo cáo lỗi &brandShortName;">
@@ -131,7 +123,7 @@
 
 
 
-<!ENTITY verify2.label                   "Phê chuẩn">
-<!ENTITY verify2.accesskey               "P">
+
+
 
 

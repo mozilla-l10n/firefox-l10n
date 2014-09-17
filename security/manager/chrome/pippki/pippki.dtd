@@ -80,17 +80,8 @@
 <!ENTITY createCertInfo.title "Tạo một Khóa Cá nhân">
 <!ENTITY createCertInfo.msg1 "Đang trong tiến trình Tạo Khóa… Việc này có thể mất vài phút….">
 <!ENTITY createCertInfo.msg2 "Vui lòng chờ…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Yêu cầu Kí">
-<!ENTITY formSigning.cert "Kí Chứng chỉ">
-<!ENTITY formSigning.confirmPassword "Để xác nhận việc bạn đồng ý kí vào thông điệp này sử dụng chứng chỉ bạn đã chọn, vui lòng xác nhận bằng cách nhập mật khẩu chính:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Xác thực Mã thông báo được Bảo vệ">
 <!ENTITY protectedAuth.msg "Vui lòng xác thực cho mã thông báo. Phương thức xác thực tùy thuộc vào kiểu mã thông báo của bạn.">
 <!ENTITY protectedAuth.tokenName.label "Mã thông báo:">
-
-<!ENTITY certErrorDlg.title "Kết nối An toàn bị Thất bại">
-<!ENTITY certErrorDlg.info1 "Đây có thể là vấn đề với cấu hình của máy chủ hoặc có thể ai đó đang cố giả mạo là máy chủ.">
-<!ENTITY certErrorDlg.info2 "Nếu bạn đã từng kết nối thành công tới máy chủ này trong quá khứ, lỗi này có thể chỉ là tạm thời và bạn có thể thử lại sau.">
