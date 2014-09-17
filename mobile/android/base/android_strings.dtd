@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ocurrió un error mientras se intentaba cargar los archivos para usar &brandShortName;">
+
+<!ENTITY  onboard_start_message "¡Bienvenido a &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Comprometido contigo, con tu privacidad y con una Web abierta">
+<!ENTITY  onboard_start_button_account "Conectarse a &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Comenzar a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Elegir archivo">
 
-<!ENTITY url_bar_default_text "Ingresar dirección o búsqueda">
+<!ENTITY url_bar_default_text2 "Realizar búsqueda o ingresar dirección">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador agregado">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Sistema predeterminado">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Agregar a &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Marcador">
+<!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
+<!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
+<!ENTITY overlay_share_no_url "No se ha encontrado el enlace para esta compartición">
+<!ENTITY overlay_share_retry "Reintentar">
+<!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personaliza tus herramientas de búsqueda">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Borrar ahora">
 <!ENTITY pref_clear_private_data_category "Clear private data">
 <!ENTITY pref_clear_on_exit_title "Siempre borrar cuando salga">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; automáticamente borrará tus datos cada vez que selecciones \&quot;Salir\&quot; del menú principal.">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente borrará tus datos cada vez que selecciones \u0022Salir\u0022 del menú principal.">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos vas a borrar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Enabled">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Import from Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Asimilando a dispositivo">
+<!ENTITY media_sending_to "Enviando al dispositivo">
 <!ENTITY media_play "Reproducir">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Detener">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Desplazar barra de título">
+<!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Esconder la barra de título de &brandShortName; al bajar en una página">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ desde Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
