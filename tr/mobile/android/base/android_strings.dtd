@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
+
+<!ENTITY  onboard_start_message "&brandShortName; tarayıcısına hoş geldiniz!">
+<!ENTITY  onboard_start_subtext "Sizin için, gizliliğiniz için ve Açık Web için varız">
+<!ENTITY  onboard_start_button_account "&brandShortName; oturumu aç">
+<!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Dosya Seç">
 
-<!ENTITY url_bar_default_text "Aranacak terim veya adres girin">
+<!ENTITY url_bar_default_text2 "Arama yapın veya adres girin">
 
 <!ENTITY bookmark "Yer imi">
 <!ENTITY bookmark_added "Yer imi eklendi">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Sistem varsayılanı">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Ekle: &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Yer imi">
+<!ENTITY overlay_share_reading_list_btn_label "Okuma Listesi\u0027ne ekle">
+<!ENTITY overlay_share_send_other "Diğer cihazlara gönder">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Başka bir cihaza gönder">
+<!ENTITY overlay_share_no_url "Bu paylaşımda bağlantı bulunamadı">
+<!ENTITY overlay_share_retry "Yeniden dene">
+<!ENTITY overlay_share_select_device "Cihaz seçin">
 
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Şimdi temizle">
 <!ENTITY pref_clear_private_data_category "Özel verileri sil">
 <!ENTITY pref_clear_on_exit_title "Çıkarken her zaman temizle">
-<!ENTITY pref_clear_on_exit_summary "Ana menüden \&quot;Çık\&quot;ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
+<!ENTITY pref_clear_on_exit_summary2 "Ana menüden \u0022Çık\u0022ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
 <!ENTITY pref_plugins_enabled "Etkin">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
-<!ENTITY pref_show_product_announcements "Ürün duyurularını göster">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Önceki">
 <!ENTITY find_next "Sonraki">
 <!ENTITY find_close "Kapat">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Cihaza yayın">
+<!ENTITY media_sending_to "Cihaza gönderiliyor">
 <!ENTITY media_play "Yürüt">
 <!ENTITY media_pause "Duraklat">
 <!ENTITY media_stop "Durdur">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
 <!ENTITY pref_titlebar_mode_url "Sayfa adresini göster">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Başlık çubuğunu kaydır">
+<!ENTITY pref_scroll_title_bar2 "Tam ekran gezinti">
+<!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
