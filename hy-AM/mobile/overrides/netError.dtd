@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Չհաջողվեց կապ հաստատել">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Այս հասցեն արգելափակված է">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Համոզվեք, որ հասցեն չեք մուտքագրել 
 <strong>ww</strong>.example.com ձևով՝
 <strong>www</strong>.example.com-ի փոխարեն</li> 
-<li>Եթե այնուհանդերձ չեք կարողանում բացել որևէ կայք, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<li>Եթե, այնուհանդերձ, չեք կարողանում բացել որևէ կայք, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<button id='wifi'>Միացնել Wi-Fi-ը</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Ավարտվել է">
 <!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
 <!ENTITY netOffline.title "Ցանցից դուրս">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Կրկին փորձեք։ &brandShortName;-ը կփորձի կապ հաստատել և վերաբացել էջը։</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։</li> 
+<button id='wifi'>Միացնել Wi-Fi-ը</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
@@ -64,10 +68,10 @@
 այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY netReset.title "Կապը խզվեց">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառվեց">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի է">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Չի ստացվում գտնել պրոքսի սպասարկիչ">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Ստուգեք պրոքսի սպասարկիչի կարգավորումները։</li> 
 <li>Ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<button id='wifi'>Միացնել Wi-Fi-ը</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Էջը ճիշտ չէ վերահասցեավորվել">
@@ -114,10 +120,6 @@
  կարող է ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> 
-<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
