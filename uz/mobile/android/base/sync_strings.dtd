@@ -212,7 +212,9 @@
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; hisobingiz bilan sinxronlashni to‘xtatadi, ammo qurilmangizdagi ko‘rish tarixingizni o‘chirmaydi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox hisobi &formatS; o‘chirildi.">
 
+<!ENTITY fxaccount_remove_account_menu_item "Hisobni olib tashlash">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

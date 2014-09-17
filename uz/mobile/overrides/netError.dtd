@@ -120,6 +120,12 @@ serverni buzishga urinishi bo‘lishi mumkin.</li>
 vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
 </ul>">
 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Sayt vaqtinchalik ishlamayapti yoki juda band bo‘lishi mumkin. Bir necha daqiqadan keyin urinib ko‘ring.</li> 
+<li>Agar birorta ham sahifa yuklanmasa, telefoningizning internetga ulanishini yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
+<button id='wifi'>Wi-Fi’ni yoqish</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
