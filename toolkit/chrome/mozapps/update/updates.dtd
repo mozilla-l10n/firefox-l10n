@@ -22,8 +22,11 @@ install software on this computer.">
 <!ENTITY  manualUpdate.space.desc         "නිර්දේශිත ආරක්ෂිත හා ස්ථායි යාවත්කාලීන කිරීම් ඇති නමුත් ස්ථාපනය සඳහා ඔබ සතුව ප්‍රමාණවත් හිස් ඉඩක් නැත.">
 <!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
 
-
-
+<!ENTITY  unsupported.title               "පද්ධතිය සහය නොදක්වයි">
+<!ENTITY  unsupported.label               "ඔබේ &brandShortName; කල් ඉකුත්වී ඇත, නමුත් නවතම සංස්කරණය සඳහා   
+ඔබේ පද්ධතිය සහය නොදක්වයි. කරුණාකර ඔබේ පද්ධතිය යාවත් කර නැවත  
+උත්සහ කරන්න. මෙම දැන්වීම නැවත නොපෙන්වන නමුත්">
+<!ENTITY  unsupportedLink.label           "තවත් දැනගන්න.">
 
 <!ENTITY  incompatibleCheck.title         "ඇඩෝන අනුකූල තාවය පිරික්සමින්">
 <!ENTITY  incompatibleCheck.label         "ඔබේ ඇඩෝන වල නවතම වෙළුම සඳහා සොයමින්…">

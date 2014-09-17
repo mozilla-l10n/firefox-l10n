@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "යාවත්කාලීන සඳහා පිරික්සන්න (C)">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "යාවත්කාලීන යෙදීමට යළි-ආරඹන්න (R)">
+<!ENTITY update.updateButton.label2                "යාවත් කිරීම සඳහා &brandShortName; යළි අරඹන්න">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "යාවත්කාලීන යොදන්න… (A)">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -19,7 +19,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; වැඩිදියුණු කිරීම පිණිස එය &brandShortName; වෙත ක්‍රියාකාරීත්වය, දෘඩාංග, භාවිතය සහ රුචිකරණ පිළිබඳ තොරතුරු ස්වයංක්‍රීයව යවයි.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -59,6 +59,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "පද්ධති පරිපාලක විසින් යාවත්කාලීන කිරීම අබල (disable) කර ඇත">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "බාහිරව ක්‍රියාකාරිත්වයක් මඟින් &brandShortName; යාවත් වී ඇත.">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -66,7 +67,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "යාවත්කාලීන කිරීම අසාර්ථක විය. ">
-<!ENTITY update.failed.linkText     "නවතම නිකුතුව බාගත කරන්න">
+<!ENTITY update.failed.linkText     "නවතම වෙළුම බාගත කරන්න">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -81,6 +82,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "ඔබට මෙම පද්ධතිය මත තවත් යාවත් කිරීම් සිදු කළ නොහැක. ">
 <!ENTITY update.unsupported.linkText "තවත් දැනගන්න">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

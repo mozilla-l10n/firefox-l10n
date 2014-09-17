@@ -22,7 +22,7 @@
 
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "ගොනු">
+<!ENTITY fileMenu.label               "ගොනුව (F)">
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "නව කවුළුවක්">
@@ -33,9 +33,11 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.label         "මෑතකදි භාවිතා කළ දැ විවෘත කරන්න (R)">
+<!ENTITY openRecentMenu.accesskey     "R">
 
-
-
+<!ENTITY revertCmd.label              "පෙර තත්වයට පත් කරන්න... (t)">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "සුරකින්න">
 <!ENTITY saveFileCmd.accesskey        "S">
@@ -48,9 +50,11 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "දසුන (V)">
+<!ENTITY viewMenu.accesskey           "V">
 
-
-
+<!ENTITY lineNumbers.label             "පේළි අංක පෙන්වන්න (L)">
+<!ENTITY lineNumbers.accesskey         "L">
 
 
 
@@ -123,8 +127,9 @@
 <!ENTITY resetContext2.label          "විචල්‍යයන් යළි-සකසන්න">
 <!ENTITY resetContext2.accesskey      "t">
 
-
-
+<!ENTITY reloadAndRun.label           "පරතිපූර්ණය කර දහාවනය කරන්න (e)">
+<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ක්‍රියාත්මක කරන්න">
 <!ENTITY executeMenu.accesskey        "x">
@@ -138,4 +143,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.key "e">

@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "පිටුව ඇත්තේ">
+<!ENTITY translation.translateThisPage.label    "මෙම පිටුව පරිවර්තනය කරන්නද?">
+<!ENTITY translation.translate.button           "පරිවර්තනය">
+<!ENTITY translation.notNow.button              "දැන් නොවේ">
 
-
-
+<!ENTITY translation.translatingContent.label   "පිටු අන්තර්ගතය පරිවර්තනය කරමින්...">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,13 +33,18 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "මෙම පිටුව පරිවර්තනය වූයේ">
 <!ENTITY translation.translatedTo.label         "වෙතට">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "මූලිකය පෙන්වන්න">
+<!ENTITY translation.showTranslation.button     "පරිවර්තනය පෙන්වන්න">
 
-
+<!ENTITY translation.errorTranslating.label     "මෙම පිටුව පරිවර්තනයේ දෝශයක් ඇතිවිය.">
 <!ENTITY translation.tryAgain.button            "නැවත උත්සාහ කරන්න">
 
+<!ENTITY translation.serviceUnavailable.label   "මේ මොහොතේ පරිවර්තනය නොපවතී. කරුණාකර පසුව නැවත උත්සහ කරන්න.">
 
 <!ENTITY translation.options.menu               "වරණයන්">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -44,12 +52,15 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "මෙම අඩවිය කිසිවිය පරිවර්තනය නොකරන්න (e)">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "පරිවර්තන අභිප්‍රේතයන් (T)">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "පරිවර්තනය කළේ">
 <!ENTITY translation.options.attribution.afterLogo "">

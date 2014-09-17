@@ -5,15 +5,25 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
 
+<!ENTITY closeCmd.key  "W">
 
+<!ENTITY toolboxCloseButton.tooltip    "සනඟවර්දහක මෙවලම් වසන්න">
+<!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
 
 
 <!-- + is above this key on many keyboards -->
 
+<!ENTITY toolboxZoomReset.key          "0">
 
-
+<!ENTITY toolboxReload.key             "r">
+<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
+  -  the iframes menu list that appears only when the document has some.
+  -  It allows you to switch the context of the whole toolbox. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
+
+<!ENTITY options.context.advancedSettings "උසස් සැකසුම්">
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 
@@ -22,6 +32,8 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "ගවේශක මෝස්තර පෙන්වන්න">
+<!ENTITY options.showUserAgentStyles.tooltip "මෙය කරියාත්ම කිරීමෙන් ගවේශයකයෙන් පූර්ණය කල පෙරනිමි මෝස්තර පෙන්වනු  ඇත.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -30,8 +42,12 @@
   -  inspector. This is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "Hex">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL (A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
@@ -63,6 +79,8 @@
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "ඇඩෝන මඟින් ස්තහාපනය කල සනඟවර්දහක මෙවලම්">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
@@ -72,8 +90,6 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-
-
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -88,6 +104,8 @@
 <!ENTITY options.styleeditor.label            "මොස්තර සැකසුම (Style Editor)">
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "මූලික මූල පෙන්වන්න">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->

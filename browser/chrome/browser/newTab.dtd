@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "නව ටැබය">
-
-
-
+<!ENTITY newtab.customize.title "ඔබේ නව ටැබ පිටුව රුචිකරණය කරමින්">
+<!ENTITY newtab.customize.enhanced "දියුණුකළ">
+<!ENTITY newtab.customize.classic "සම්මත">
+<!ENTITY newtab.customize.blank "හිස්">
+<!ENTITY newtab.customize.what "මෙම පිටුව කුමක්ද?">
+<!ENTITY newtab.intro.header "මෙම පිටුව කුමක්ද?">
+<!ENTITY newtab.undo.removedLabel "කුඩාරුව ඉවත් විය.">
+<!ENTITY newtab.undo.undoButton "අහොසි.">
+<!ENTITY newtab.undo.restoreButton "සියල්ල යළි පිහිටුවන්න.">
 <!ENTITY newtab.undo.closeTooltip "සඟවන්න">
-
-
-

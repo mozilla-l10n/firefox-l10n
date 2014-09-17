@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "පොප්-අප්">
+
 <!ENTITY  blockPopups.label           "පොප්-අප් කවුළු වලකන්න">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "හැරදැමීම්...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
+<!ENTITY  fontsAndColors.label        "අක්‍ෂර සහ වර්ණ">
 
 <!ENTITY  defaultFont.label           "පෙරනිමි අක්‍ෂරය:">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -25,7 +28,8 @@
 <!ENTITY chooseButton.label           "තෝරන්න…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "ජාල අන්තර්ගතය පරිවර්තනය (T)">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "හැරදැමීම්...">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -35,4 +39,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "පරිවර්තනය කළේ">
 <!ENTITY translation.options.attribution.afterLogo "">

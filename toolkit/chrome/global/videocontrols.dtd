@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "නිහඬ නොකරන්න">
 <!ENTITY fullscreenButton.enterfullscreenlabel "පූර්ණ තිරය">
 <!ENTITY fullscreenButton.exitfullscreenlabel "පූර්ණ තිරයෙන් ඉවත්වන්න">
-
+<!ENTITY castingButton.castingLabel "තිරයේ විකාශය කරන්න">
 
 <!ENTITY stats.media "මාධ්‍ය">
 <!ENTITY stats.size "විශාලත්වය">
