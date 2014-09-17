@@ -8,6 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; bu pencereye ait geçmişi hatırlamayacaktır.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; gizli pencerelere ait geçmişi hatırlamayacaktır.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Buna tarayıcı geçmişi, arama geçmişi, indirme geçmişi, web formu geçmişi, çerezler ve geçici internet dosyaları dahildir. Ancak indirdiğiniz dosyalar ve yer imlerinize eklediğiniz sayfalar kalacaktır.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Şu anda gizli bir pencerede değilsiniz.">
 
