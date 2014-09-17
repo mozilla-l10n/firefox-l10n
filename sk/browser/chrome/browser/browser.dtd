@@ -738,8 +738,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu online, boli zablokované.">
 <!ENTITY trackingContentBlocked.learnMore "Ďalšie informácie">
 <!ENTITY trackingContentBlocked.options "Možnosti">
-<!ENTITY trackingContentBlocked.unblock.label2 "Vypnúť ochranu pre túto stránku">
+<!ENTITY trackingContentBlocked.unblock2.label "Vypnúť ochranu pre túto stránku">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "V">
 <!ENTITY trackingContentBlocked.block.label "Zapnúť ochranu">
+<!ENTITY trackingContentBlocked.block.accesskey "Z">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrana pred sledovaním je vypnutá">
 
 <!ENTITY pointerLock.notification.message "Stlačením klávesu ESC ho opäť zobrazíte.">
