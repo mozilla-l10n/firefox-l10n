@@ -6,12 +6,15 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "සම්බන්ධවන්න">
+
 <!ENTITY host       "ධාරකය:">
 <!ENTITY port       "පොර්ට්:">
 
 <!ENTITY connecting "සම්බන්ධ වෙයි…">
-
-
+<!ENTITY availableAddons "පවතින දුරස්ථ ඇඩෝන:">
+<!ENTITY availableTabs "පවතින දුරස්ථ ටැබ:">
 
 <!ENTITY connectionError "දෝෂය:">
 
@@ -20,6 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
+<!ENTITY remoteDocumentation "ලේඛණ">
 
 

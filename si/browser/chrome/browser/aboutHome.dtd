@@ -16,15 +16,16 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "ෆයර්ෆොක්ස් තෝරාගැනීම පිළිබඳව ස්තුතියි! ඉන් උපරිමය ලබා ගැනීමට, <a>නවතම විශේෂාංග</a> පිළිබඳව දැනුවත්වන්න.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox තෝරාගැනීම පිළිබඳව ස්තුතියි! ඉන් උපරිමය ලබා ගැනීමට, <a>නවතම විශේෂාංග</a> පිළිබඳව දැනුවත්වන්න.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "ෆයර්ෆොක්ස් ඔබට අවශ්‍ය ආකාරයටම රිසිකරණය කළ හැකිය. <a> ඇඩෝන දහස් ගණනක් අතරෙන් තෝරාගන්න</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox ඔබට අවශ්‍ය ආකාරයටම රිසිකරණය කළ හැකිය. <a> ඇඩෝන දහස් ගණනක් අතරෙන් තෝරාගන්න</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; යනු ලාබ නොලබන ආයතනයක් වන Mozilla පදනමෙ නිදහස් සහ විවෘත මෘදුකාංගයකි. <a>ඔබේ අයිතින් ගැන දැනගන්න…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "පිටු සළකුණු">
-<!ENTITY abouthome.historyButton.label   "පෙරදෑ">
+<!ENTITY abouthome.historyButton.label   "ඉතිහාසය">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "වරණයන්">
@@ -32,6 +33,6 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "මනාපයන්">
 <!ENTITY abouthome.addonsButton.label    "ඇඩෝන">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.appsButton.label      "වෙළඳපළ">
 <!ENTITY abouthome.downloadsButton.label "බාගතකිරීම්">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

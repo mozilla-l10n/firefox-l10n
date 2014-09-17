@@ -26,30 +26,25 @@
 <!ENTITY checkSpelling.label             "මා යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "පද්ධති පෙරනිමිය">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "සැම විටම &brandShortName; ඇරඹුම් ගවේශකය ලෙසට පෙරනිමියේ ඇති බවට පරීක්‍ෂා කරන්න">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY dataChoicesTab.label            "දත්ත තෝරාගැනීම්">
 
+<!ENTITY healthReportSection.label       "&brandShortName; සුව වාර්තාව">
 
+<!ENTITY enableHealthReport.label        "&brandShortName; සුව වාර්තාව සක්‍රීය කරන්න">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "තවත් දැනගන්න">
 
+<!ENTITY telemetrySection.label          "දූරාමිතිය">
 
-
-
-
-
-
-
-
+<!ENTITY enableTelemetry.label           "දූරාමිතිය සක්‍රීය (T)">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "තවත් දැනගන්න">
 
 <!ENTITY crashReporterSection.label      "බිදවැටුම් වාර්තාව">
 
-
-
-
+<!ENTITY enableCrashReporter.label       "බිඳවැටීම් වාර්ථාකරු සක්‍රීය (C)">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "තවත් දැනගන්න">
 
 <!ENTITY networkTab.label                "ජාලය">
 
@@ -122,12 +117,12 @@
 <!ENTITY certificateTab.label            "සහතික">
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "සැමවිටම විමසන්න">
+<!ENTITY certs.ask.accesskey             "A">
 
 
-
-
-
-
-
+<!ENTITY viewCerts.label                 "සහතික පෙන්වන්න (C)">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග (D)">
+<!ENTITY viewSecurityDevices.accesskey   "D">

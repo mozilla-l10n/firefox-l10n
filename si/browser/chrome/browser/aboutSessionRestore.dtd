@@ -14,15 +14,21 @@
 
 <!ENTITY restorepage.tryagainButton "ප්‍රතිස්ථාපනය">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Close">
-
+<!ENTITY restorepage.closeButton    "වසන්න">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "ප්‍රතිස්ථාපනය">
 <!ENTITY restorepage.listHeader     "කවුළු සහ ටැබ්">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "&#037;S වන කවුළුව">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "යළි පිළිගනිමු!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
 
+<!ENTITY welcomeback.pageTitle      "යළි පිළිගනිමු!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; සාර්ථකව ඔබේ පැතිකඩ යළි සකසා ඇත. පහත ඇත්තේ ඔබ විසින් විවෘත කළ කවුළු හා ටැබ වේ; ඔබට ඒවා නැවත පිහිටුවීමට හෝ පිරිසිදුව ඇරඹීමට හැක.">

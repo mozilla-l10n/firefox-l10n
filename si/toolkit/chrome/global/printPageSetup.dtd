@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "පිටු සැකසුම">
 
+<!ENTITY basic.tab           "හැඩගැසුම් සහ අභිප්‍රේත">
 
 <!ENTITY formatGroup.label   "සංයුතිය">
 
@@ -17,15 +18,17 @@
 
 <!ENTITY scale.label         "පරිමාණය:">
 <!ENTITY scale.accesskey     "S">
-
+<!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "පිටු පළලට සරිලන ළෙස අඩු කරන්න">
 <!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "විකල්ප">
 
+<!ENTITY printBG.label       "පසුබිම මුද්‍රණය කරන්න (වර්ණයන් සහ රූප) (B)">
+<!ENTITY printBG.accesskey   "B">
 
-
+<!ENTITY advanced.tab        "සීමා සහ සිරස/පාදම">
 
 <!ENTITY marginGroup.label   "මාර්ජිනයන් (#1)">
 <!ENTITY marginUnits.inches  "අඟල්">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "දකුණ:">
 <!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "ශීර්ෂක සහ පාදම්">
 
 <!ENTITY hfLeft.label        "වම:">
 <!ENTITY hfCenter.label      "මැද:">

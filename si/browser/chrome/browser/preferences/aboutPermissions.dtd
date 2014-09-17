@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "සෑමවිටම විමසන්න">
 <!ENTITY permission.allow                "ඉඩදෙන්න">
 <!ENTITY permission.allowForSession      "සැසිය සඳහා ඩඉදෙන්න">
-
+<!ENTITY permission.allowFirstPartyOnly  "ප්‍රථම පාර්ශවයට පමණක් ඉඩදෙන්න">
 <!ENTITY permission.block                "අවහිර කරන්න">
 
 <!ENTITY password.label                  "රහස්පද ගබඩා කරන්න">
@@ -42,5 +42,5 @@
 <!ENTITY popup.label                     "පැන-නඟින කවුළු විවෘත කරන්න">
 
 <!ENTITY fullscreen.label                "පූර්ණතිරය">
-
-
+<!ENTITY camera.label                    "කැමරාව භාවිත කරන්න">
+<!ENTITY microphone.label                "මයික්‍රෆෝනය භාවිත කරන්න">

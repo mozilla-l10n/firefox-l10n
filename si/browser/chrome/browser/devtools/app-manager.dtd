@@ -2,80 +2,84 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "යෙදුම් කළමණාකරු">
+<!ENTITY index.projects2 "යෙදුම්">
+<!ENTITY index.device2 "උපාංග">
+<!ENTITY index.help "උදව්">
 
-
-
-
-
-
-
-
-
-
-<!ENTITY device.stopApp "Stop">
-
-
-
+<!ENTITY device.debugMainProcess "ප්‍රධාන ක්‍රියාවලිය නිරාකරණය කරන්න">
+<!ENTITY device.debugMainProcessTooltip "උපාංගය මත ප්‍රධාන ක්‍රියාවලියට සබඳවන සංවර්ධක මෙවලම් විවෘත කරන්න">
+<!ENTITY device.screenshot "තිරසටහන">
+<!ENTITY device.screenshotTooltip "උපාංගයේ වත්මන් තත්වය පිළිබඳ තිරරූපයක් නව ටැබයක විවෘත කරන්න">
+<!ENTITY device.title "උපාංග පාලන මධ්‍යස්ථානය">
+<!ENTITY device.notConnected "සබඳකර නොමැත. කරුණාකර ඔබේ උපාංගය සබඳ කරන්න.">
+<!ENTITY device.startApp "අරඹන්න">
+<!ENTITY device.startAppTooltip "උපාංගය මත මෙම යෙදුම අරඹන්න">
+<!ENTITY device.stopApp "නවතන්න">
+<!ENTITY device.stopAppTooltip "උපාංගය මත මෙම යෙදුම නවතන්න">
+<!ENTITY device.debugApp "දෝෂහරණය">
+<!ENTITY device.debugAppTooltip "උපාංගය මත මෙම යෙදුමට සබැඳි සංවර්ධක මෙවලම් විවෘත කරන්න">
 <!ENTITY device.name "නම">
-
-
-
+<!ENTITY device.plain "පැතලි (පෙරනිමි)">
+<!ENTITY device.privileged "බලලත්">
+<!ENTITY device.certified "සහතිකලත්">
 <!ENTITY device.allow "ඉඩදෙන්න">
+<!ENTITY device.allowTooltip "මෙම වර්ගයේ යෙදුම් සඳහා මෙම බලතල වලට ඉඩ ලැබේ">
+<!ENTITY device.prompt "ප්‍රේරකය">
+<!ENTITY device.promptTooltip "මෙම වර්ගයේ යෙදුම් සඳහා මෙම බලතලය වෙත පරිශීලක ප්‍රේරකයක් අවශ්‍යයි">
+<!ENTITY device.deny "ප්‍රතික්ශේප">
+<!ENTITY device.denyTooltip "මෙම වර්ගයේ යෙදුම් සඳහා මෙම බලතල ප්‍රතික්ශේපිතයි">
+<!ENTITY device.installedApps "ස්ථාපිත යෙදුම්">
 
-<!ENTITY device.prompt "Prompt">
+<!ENTITY device.permissions "බලතල">
 
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "ගවේෂක ටැබ්">
 
+<!ENTITY device.debugBrowserTab "දෝෂහරණය">
 
+<!ENTITY device.help "උදව්">
 
+<!ENTITY connection.connectTooltip "උපකරණයට සම්බන්ධ වන්න">
+<!ENTITY connection.disconnect "විසන්ධි කරන්න">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY connection.notConnected2 "සබඳ කර නොමැත.">
+<!ENTITY connection.connectTo "සබඳවන්න:">
+<!ENTITY connection.noDeviceFound "කිසිඳු උපාංගයක් හමු නොවිනි. සබඳ කරන්න">
+<!ENTITY connection.changeHostAndPort "වෙනස් කරන්න">
 
 
+
+<!ENTITY connection.saveConnectionInfo "සුරකින්න">
+<!ENTITY connection.saveConnectionInfoTooltip "ධාරකය හා පේනුව සුරකින්න">
 <!ENTITY connection.connecting "සම්බන්ධ වෙයි…">
-
+<!ENTITY connection.disconnecting "විසන්ධිකරමින්...">
 <!ENTITY connection.cancel "එපා">
+<!ENTITY connection.cancelConnectTooltip "වත්මන් සබඳතාව අවලංගු කරන්න">
+
+<!ENTITY connection.or "හෝ">
 
 
 
+<!ENTITY connection.installAnotherSimulator "එක් කරන්න">
 
+<!ENTITY connection.startRegisteredSimulator "අරඹන්න:">
 
+<!ENTITY projects.addApp "එක් කරන්න">
+<!ENTITY projects.addPackaged "පැකේජ කළ යෙදුම එක් කරන්න">
 
+<!ENTITY projects.addHosted "ධාරිත යෙදුම එක් කරන්න">
 
+<!ENTITY projects.title "දේශීය යෙදුම්">
+<!ENTITY projects.appDetails "යෙදුම් තොරතුරු">
 
+<!ENTITY projects.updateApp "යාවත් කාළීන:">
 
+<!ENTITY projects.debugApp "දෝෂහරණය">
 
+<!ENTITY projects.saveManifest "සුරකින්න">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 
@@ -83,15 +87,16 @@
 
 <!ENTITY projects.valid "නිවැරදි">
 <!ENTITY projects.error "දෝෂය">
+<!ENTITY projects.warning "අනතුරු ඇඟවීම">
+<!ENTITY projects.hosted "ධාරිත">
+<!ENTITY projects.packaged "ඇසුරුම්">
 
+<!ENTITY help.title "යෙදුම් කළමණාකරු">
+<!ENTITY help.close "වසන්න">
 
-
-
-
-
-
-
-
-
+<!ENTITY help.usefullLinks "ප්‍රයෝජනවත් සැබැඳි:">
+<!ENTITY help.appMgrDoc "ලේඛන: යෙදුම් කළමණාකරු භාවිතය">
+<!ENTITY help.configuringDevice "ඔබේ Firefox OS උපාංගය සකසන්නේ කෙසේද?">
+<!ENTITY help.troubleShooting "දෝශ නිරාකරණය">
 
 

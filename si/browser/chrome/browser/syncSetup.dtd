@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "මීට පෙර &syncBrand.fullName.label; භාවිතා කර තිබේද?">
 <!ENTITY setup.choicePage.new.label       "මීට පෙර කිසි දිනෙක &syncBrand.shortName.label; භාවිතා කර නැත">
-
+<!ENTITY setup.choicePage.existing2.label "මම දැනටම වෙනත් උපාංගයක &syncBrand.shortName.label; භාවිතා කරමින් සිටියි">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "සේවාදායකය">
@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "රහස්පදය තහවුරු කරන්න">
 <!ENTITY setup.confirmPassword.accesskey "m">
-
-
+<!ENTITY setup.setupMetro.label     "Windows 8 රටා &brandShortName; සමඟ සම්මුහුර්ත වන්න (S)">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "උපාංගයක් යුගල කරන්න">
 <!ENTITY addDevice.showMeHow.label          "කරන අයුරු පෙන්වන්න.">
 <!ENTITY addDevice.dontHaveDevice.label     "උපාංගය මා සතුව නැත">
-
+<!ENTITY pairDevice.setup.description.label  "සක්‍රීය කිරීමට ඔබේ අනෙක් උපාංගය මත &quot;උපාංගයක් හවුල් කරන්න&quot; තෝරන්න.">
 <!ENTITY addDevice.setup.enterCode.label    "පසුව, මෙම කේතය ඇතුළත් කරන්න:">
-
+<!ENTITY pairDevice.dialog.description.label "ඔබේ නව උපාංගය සක්‍රීය කිරීමට. උපාංගය මත &quot;සම්මුහුර්ත පිහිටුවන්න&quot; තෝරන්න.">
 <!ENTITY addDevice.dialog.enterCode.label   "උපාංගය සපයන කේතය ඇතුළත් කරන්න:">
 <!ENTITY addDevice.dialog.tryAgain.label    "නැවත උත්සාහ කරන්න.">
 <!ENTITY addDevice.dialog.successful.label  "උපාංගය සාර්ථක ලෙස එක් කළා. ආරම්භක සම්මුහුර්තකරණය සඳහා විනාඩි කිහිපයක් ගන්නා අතර එය පසුබිමිහි සිටිමින් සම්පූර්ණ කරනු ඇත.">
@@ -74,15 +74,15 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ඇතුළු වන්න (Sign In)">
-
+<!ENTITY existingRecoveryKey.description "ඔබට &syncBrand.shortName.label; හි විකල්පයන් වෙත පිවිසී &quot;ගිනුම් කළමණාකරණය&quot; යටතේ &quot;මගේ ගැලවීම් යතුර&quot; තෝරාගැනීමෙන්,  ඔබේ ගැලවීම් යතුරේ පිටපතක් ලබාගත හැක.">
 <!ENTITY verifying.label              "ස්ථීර කරයි…">
 <!ENTITY resetPassword.label          "රහස්පද ප්‍රත්‍යාරම්භ (Reset) කිරීම">
 <!ENTITY resetSyncKey.label           "I have lost my other device.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "සම්මුහුර්ත (Sync) විකල්ප">
-
-
+<!ENTITY syncDeviceName.label       "උපාංග නාමය (c):">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "පිටුසළකුණු">
@@ -98,15 +98,16 @@
 <!ENTITY engine.addons.label        "ඇඩෝන">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "මෙම උපාංගයේ දත්ත &syncBrand.shortName.label; දත්ත සමඟ සම්බන්ධ කරන්න">
 <!ENTITY choice2.merge.recommended.label "අනුමත කළ:">
-
-
+<!ENTITY choice2a.client.main.label      "මෙම උපාංගයේ ඇති සියළු දත්ත &syncBrand.shortName.label; මඟින් ප්‍රතිස්ථාපනය කරන්න">
+<!ENTITY choice2a.server.main.label      "මෙම උපාංගයේ දත්ත මඟින් අනෙකුත් සියළු උපාංග ප්‍රතිස්ථාපනය කරන්න">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "තහවුරු කරන්න">
-
-
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; මෙම උපාංගයේ ගවේශකයේ ඇති සියළු තොරතුරු ඔබගේ සම්මුහුර්ත ගිණුමට එක් කරනු ඇත.">
+<!ENTITY confirm.client3.label         "අවවාදයයි: මෙම උපාංගයේ ඇති &brandShortName; පහත දත්ත මකනු ඇත:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; විසින් ඔබගේ &syncBrand.fullName.label; දත්ත මෙම උපාංගයට පිටපත් කරනු ඇත.">
 <!ENTITY confirm.server2.label         "අවවාදයයි: පහත උපාංග මත ඔබගේ සමීප දත්ත (local data) ලියවෙනු ඇත (overwrite):">
 <!-- New & Existing Account: Setup Complete -->
 

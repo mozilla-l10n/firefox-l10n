@@ -6,7 +6,7 @@
 <!ENTITY minimizeWindow.label     "හකුලන්න">
 <!ENTITY bringAllToFront.label    "සියල්ල ඉදිරියට ගෙන එන්න">
 <!ENTITY zoomWindow.label         "විශාලනය">
-<!ENTITY windowMenu.label         "කවුළු">
+<!ENTITY windowMenu.label         "කවුළුව">
 
 <!ENTITY helpMenu.label           "උදව්"> 
 <!ENTITY helpMenu.accesskey       "H"> 
@@ -20,12 +20,14 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "යතුරු පුවරු කෙටි මං... (K)">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-
-<!ENTITY helpSafeMode.label       "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
+<!ENTITY helpSafeMode.label       "ඇඩෝන අබල කර යළි-අරඹන්න… (R)">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-
+<!ENTITY healthReport.label       "&brandShortName; සෞඛ්‍ය වාර්තාව (e)">
+<!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "දෝෂ සෙවීමේ තොරතුරු">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -33,9 +35,10 @@
 <!ENTITY helpFeedbackPage.label      "ප්‍රතිචාරය යවන්න…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour.label             "&brandShortName; සංචාරය (o)">
+<!ENTITY helpShowTour.accesskey         "o">
 
-
-<!ENTITY preferencesCmdMac.label        "මනාපයන්...">
+<!ENTITY preferencesCmdMac.label        "අභිප්‍රේත...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "සේවා">

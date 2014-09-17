@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "පෞද්ගලික යතුරු නිශ්පාදනය වෙමින්">
 <!ENTITY createCertInfo.msg1 "යතුරු නිර්මාණය වෙමින්... මේ සඳහා විනාඩි කීපයක් ගතවේවි....">
 <!ENTITY createCertInfo.msg2 "මඳක් ඉවසන්න...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Text Signing Request">
-<!ENTITY formSigning.cert "Signing Certificate">
-<!ENTITY formSigning.confirmPassword "ප්‍රධාන රහස්පදය ඇතුළත් කිරීමෙන්, ඔබ තේරූ සහතිකය භාවිතයෙන් මෙම පෙළ පණිවුඩය අත්සන් කිරීමට ඔබ කැමති බව ස්ථිර කරන්න:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "ආරක්‍ෂිත ටෝකන සහතික කිරීම">

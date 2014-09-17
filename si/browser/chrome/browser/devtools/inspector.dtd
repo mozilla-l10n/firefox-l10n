@@ -16,5 +16,6 @@
 
 <!ENTITY inspector.selectButton.tooltip     "මවුසය ආධාරයෙන් කොටස් තෝරන්න">
 
-
+<!ENTITY inspectorSearchHTML.label          "HTML සොයන්න">
+<!ENTITY inspectorSearchHTML.key            "F">
 
