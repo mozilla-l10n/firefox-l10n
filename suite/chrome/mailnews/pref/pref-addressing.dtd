@@ -6,7 +6,7 @@
 <!ENTITY emailCollectiontitle.label            "電子郵件地址收藏集">
 <!ENTITY emailCollectionPicker.label           "新增電子郵件地址到我的:">
 <!ENTITY emailCollectionPicker.accesskey       "m">
-<!ENTITY emailCollectiontext.label             "寄送郵件裡的電子郵件位址，會自動地增加到本地的通訊錄。">
+<!ENTITY emailCollectiontext.label             "可自動將寄送郵件裡的電子郵件地址新增到本機通訊錄。">
 
 <!-- Autocompletion -->
 <!ENTITY addressingTitle.label                 "快速選擇收件者">

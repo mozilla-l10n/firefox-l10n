@@ -13,7 +13,7 @@
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "電子郵件地址:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "回函位址:">
+<!ENTITY replyTo.label "回函地址:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "收件者將會回覆到這個地址">
 <!ENTITY organization.label "服務單位:">

@@ -21,7 +21,7 @@
 <!ENTITY publishImgCheckbox.label     "包含圖片與其它檔案">
 <!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip   "輸出圖片及其它本頁參考到的檔案">
-<!ENTITY sameLocationRadio.label      "使用與頁面相同的位址">
+<!ENTITY sameLocationRadio.label      "使用與頁面相同的位置">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "輸出檔案到與頁面相同位置">
 <!ENTITY useSubdirRadio.label         "使用此網站目錄:">

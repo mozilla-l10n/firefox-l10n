@@ -19,7 +19,7 @@
 <!ENTITY readColumn.label "讀取">
 <!ENTITY receivedColumn.label "已接收">
 <!ENTITY flagColumn.label "標示">
-<!ENTITY locationColumn.label "位址">
+<!ENTITY locationColumn.label "位置">
 <!ENTITY idColumn.label "收件順序">
 
 <!--Tooltips-->

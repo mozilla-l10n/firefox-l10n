@@ -31,7 +31,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "帳號資料">
 <!ENTITY setup.confirmPassword.label             "請再次輸入密碼">
 <!ENTITY setup.confirmPassword.accesskey         "C">
-<!ENTITY setup.emailAddress.label                "Email 位址">
+<!ENTITY setup.emailAddress.label                "Email 地址">
 <!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->

@@ -75,7 +75,7 @@
 <!ENTITY details_warning_header "警告">
 <!ENTITY details_error_header "錯誤">
 <!ENTITY details_description "描述">
-<!ENTITY details_location "位址">
+<!ENTITY details_location "位置">
 <!ENTITY details_manifestURL "應用程式 ID">
 <!ENTITY details_removeProject_button "移除專案">
 

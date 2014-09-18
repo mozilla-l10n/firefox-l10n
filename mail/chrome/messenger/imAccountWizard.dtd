@@ -29,5 +29,5 @@
 
 <!ENTITY accountSummaryTitle.label   "摘要">
 <!ENTITY accountSummaryInfo.label    "下面是您輸入的資訊概要。請在建立帳號前確認這些資訊無誤。">
-<!ENTITY accountSummary.connectNow.label "立刻連線此帳號。">
+<!ENTITY accountSummary.connectNow.label "立即連線至此帳號。">
 

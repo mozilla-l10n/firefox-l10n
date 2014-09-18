@@ -39,7 +39,7 @@
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "分鐘自動儲存">
 
-<!ENTITY emailCollectionPicker.label           "自動把寄信時使用的電子郵件位址加到我的:">
+<!ENTITY emailCollectionPicker.label           "自動把寄信時使用的電子郵件地址加到我的:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "快速選擇收件者">
 <!ENTITY autocompleteText.label                "使用下列功能以加速尋找符合的收件者:">

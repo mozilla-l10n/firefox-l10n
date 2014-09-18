@@ -6,7 +6,7 @@
 <!ENTITY fromField.label "寄件者: ">
 <!ENTITY senderField.label "寄件者: ">
 <!ENTITY organizationField.label "組織: ">
-<!ENTITY replyToField.label "回函位址: ">
+<!ENTITY replyToField.label "回函地址:">
 
 <!ENTITY subjectField.label "主旨: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->

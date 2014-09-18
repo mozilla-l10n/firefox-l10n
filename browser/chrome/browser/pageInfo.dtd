@@ -28,10 +28,10 @@
 
 <!ENTITY  mediaTab              "媒體">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "網址:">
+<!ENTITY  mediaLocation         "位置:">
 <!ENTITY  mediaText             "關聯文字:">
 <!ENTITY  mediaAltHeader        "替代文字">
-<!ENTITY  mediaAddress          "位址">
+<!ENTITY  mediaAddress          "位置">
 <!ENTITY  mediaType             "類型">
 <!ENTITY  mediaSize             "大小">
 <!ENTITY  mediaCount            "數量">

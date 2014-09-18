@@ -17,7 +17,7 @@
 <!ENTITY currentTab.label "目前的瀏覽器分頁">
 <!ENTITY editNewWindow.label "新設計師視窗">
 <!ENTITY open.label "開啟">
-<!ENTITY caption.label "開啟網頁位址">
+<!ENTITY caption.label "開啟網頁位置">
 <!ENTITY openWhere.label "開啟到:">
 <!ENTITY openWhere.accesskey "O">
 
