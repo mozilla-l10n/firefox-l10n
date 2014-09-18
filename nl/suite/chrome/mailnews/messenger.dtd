@@ -359,8 +359,8 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Ongewensteberichtenverwerking uitvoeren">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
-<!ENTITY markAsShowRemoteCmd.label "Niet-ingebedde inhoud tonen">
-<!ENTITY markAsShowRemoteCmd.accesskey "n">
+<!ENTITY markAsShowRemoteCmd.label "Externe inhoud tonen">
+<!ENTITY markAsShowRemoteCmd.accesskey "t">
 <!ENTITY markAsShowRemoteCmd.key "r">
 <!ENTITY markAsNotPhishCmd.label "Als geen scam">
 <!ENTITY markAsNotPhishCmd.accesskey "e">
