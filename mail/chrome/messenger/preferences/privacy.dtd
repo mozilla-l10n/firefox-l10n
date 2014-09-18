@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "d">
 <!ENTITY remoteContentExceptions.label "Uitzonderingen…">
 <!ENTITY remoteContentExceptions.accesskey "U">
-<!ENTITY acceptRemoteContentInfo.label "Meer info over de privacyproblemen van niet-ingebedde inhoud">
+<!ENTITY acceptRemoteContentInfo.label "Meer info over de privacyproblemen van externe inhoud">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webinhoud">
