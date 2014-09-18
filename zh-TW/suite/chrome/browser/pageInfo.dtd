@@ -53,7 +53,7 @@
 <!ENTITY  linksTab              "鏈結">
 <!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "名稱">
-<!ENTITY  linkAddress           "位址">
+<!ENTITY  linkAddress           "位置">
 <!ENTITY  linkType              "類型">
 <!ENTITY  linkTarget            "目標">
 <!ENTITY  linkAccessKey         "存取鍵">
@@ -63,7 +63,7 @@
 <!ENTITY  mediaURL              "網址:">
 <!ENTITY  mediaAlt              "替代文字:">
 <!ENTITY  mediaAltHeader        "對應文字">
-<!ENTITY  mediaAddress          "位址">
+<!ENTITY  mediaAddress          "位置">
 <!ENTITY  mediaType             "類型">
 <!ENTITY  mediaSize             "大小">
 <!ENTITY  mediaCount            "計數">

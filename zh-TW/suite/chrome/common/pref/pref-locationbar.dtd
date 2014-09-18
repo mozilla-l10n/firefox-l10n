@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "位址列">
+<!ENTITY pref.locationBar.title                "網址列">
 
 <!ENTITY autoComplete.label                    "自動完成">
 <!ENTITY enableAutoComplete.label              "在您輸入時，自動完成您的瀏覽歷史">

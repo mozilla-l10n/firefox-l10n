@@ -14,7 +14,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "手動設定 Proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "自動設定網址 (URL):(若造成無法連線請改用手動設定)">
+<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址 (URL):">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "l">

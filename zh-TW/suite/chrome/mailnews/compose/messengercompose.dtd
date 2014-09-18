@@ -64,7 +64,7 @@
 
 <!ENTITY quoteCmd.label "引入郵件文字">
 <!ENTITY quoteCmd.accesskey "Q">
-<!ENTITY selectAddressCmd.label "選擇位址…">
+<!ENTITY selectAddressCmd.label "選擇地址…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 

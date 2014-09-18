@@ -10,7 +10,7 @@
 <!ENTITY pixelsPopup.value "圖素">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "圖片位址 (URL):">
+<!ENTITY locationEditField.label "圖片位置:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
 <!ENTITY title.label "提示文字:">

@@ -28,7 +28,7 @@
 <!ENTITY messengerStartPage.caption       "開始頁面">
 <!ENTITY enableStartPage.label            "當啟動 Mail 時，在訊息區域顯示開始頁面">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "位址:">
+<!ENTITY location.label                   "位置:">
 <!ENTITY location.accesskey               "L">
 <!ENTITY useDefault.label                 "回復預設值">
 <!ENTITY useDefault.accesskey             "D">

@@ -520,7 +520,7 @@
 <!ENTITY glodaSearch.title "全域搜尋">
 <!ENTITY searchItem.title "快速搜尋">
 <!ENTITY mailViewsToolbarItem.title "郵件檢視">
-<!ENTITY folderLocationToolbarItem.title "資料夾位址">
+<!ENTITY folderLocationToolbarItem.title "資料夾位置">
 <!ENTITY tagButton.label "標籤">
 <!ENTITY compactButton.label "壓實重整">
 <!ENTITY appmenuButton.label "應用程式選單">

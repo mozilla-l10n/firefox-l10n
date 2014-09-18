@@ -170,11 +170,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "停止載入此網頁">
-<!ENTITY goEndCap.tooltip             "按此瀏覽位址列中的網址">
+<!ENTITY goEndCap.tooltip             "按此前往網址列中的網址">
 <!ENTITY printButton.label            "列印">
 <!ENTITY printButton.tooltip          "列印此頁">
 
-<!ENTITY locationItem.title           "位址">
+<!ENTITY locationItem.title           "位置">
 <!ENTITY searchItem.title             "搜尋">
 
 <!-- Toolbar items --> 
