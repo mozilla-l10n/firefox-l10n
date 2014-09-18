@@ -11,8 +11,12 @@
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Impossibile contattare il server">
-<!ENTITY dnsNotFound.longDesc3 "<ul>
+<!ENTITY dnsNotFound.longDesc4 "<ul>
   <li>Verificare se l’indirizzo contiene errori di battitura del tipo <strong>ww</strong>.example.com invece di <strong>www</strong>.example.com</li>
+  <div id='searchbox'>
+    <input id='searchtext' type='search'></input>
+    <button id='searchbutton'>Cerca</button>
+  </div>
   <li>Se non è possibile caricare alcuna pagina, controllare la connessione dati o wireless del dispositivo.
     <button id='wifi'>Attiva Wi-Fi</button>
   </li>
@@ -29,10 +33,14 @@
 <p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
 ">
 <!ENTITY malformedURI.title "L’indirizzo non è valido">
-<!ENTITY malformedURI.longDesc "
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Gli indirizzi internet normalmente si scrivono nella forma
     <strong>http://www.example.com/</strong></li>
+  <div id='searchbox'>
+    <input id='searchtext' type='search'></input>
+    <button id='searchbutton'>Cerca</button>
+  </div>
   <li>Verificare se si stanno utilizzando le barre corrette (ad esempio     <strong>/</strong>).</li>
 </ul>
 ">
