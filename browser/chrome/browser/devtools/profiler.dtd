@@ -12,6 +12,6 @@
 <!ENTITY profilerUI.clearButton "Cancella">
 <!ENTITY profilerUI.table.duration "Tempo (ms)">
 <!ENTITY profilerUI.table.percentage "Costo">
-<!ENTITY profilerUI.table.invocations "Chiamate">
+<!ENTITY profilerUI.table.samples "Campioni">
 <!ENTITY profilerUI.table.function "Funzioni">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
