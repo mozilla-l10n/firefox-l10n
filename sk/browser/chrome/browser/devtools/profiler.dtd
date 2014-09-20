@@ -41,7 +41,7 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY profilerUI.table.duration    "Čas (ms)">
 <!ENTITY profilerUI.table.percentage  "Vyťaženie">
-<!ENTITY profilerUI.table.invocations "Volania">
+<!ENTITY profilerUI.table.samples     "Vzorky">
 <!ENTITY profilerUI.table.function    "Funkcia">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
