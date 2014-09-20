@@ -739,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Fane krasja">
+<!ENTITY tabCrashed.header "Fana krasja">
 <!ENTITY tabCrashed.message "Vel, dette er pinleg. Vi prøvde å visa nettsida, men ho svarar ikkje.">
 <!ENTITY tabCrashed.checkSendReport "Fortel &vendorShortName; om dette krasjet slik at det kan rettast.">
 <!ENTITY tabCrashed.tryAgain "Prøv igjen">
