@@ -26,9 +26,12 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Når meldingar sendt til deg kjem:">
 <!ENTITY  desktopChatNotifications.label      "Vis eit varsel">
 <!ENTITY  desktopChatNotifications.accesskey  "V">
+<!ENTITY  completeNotification.label          "med namnet åt avsendaren og førehandsvising">
+<!ENTITY  buddyInfoOnly.label                 "berre med namnet åt avsendaren">
+<!ENTITY  dummyNotification.label             "utan nokon info">
 <!ENTITY  chatSound.accesskey                 "l">
 <!ENTITY  chatSound.label                     "Spel ein lyd">
-<!ENTITY  play.label                          "Spel">
+<!ENTITY  play.label                          "Spel av">
 <!ENTITY  play.accesskey                      "p">
 <!ENTITY  systemSound.label                   "Standard systemlyd for ny e-post">
 <!ENTITY  systemSound.accesskey               "D">
