@@ -496,6 +496,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Je dostupná aktualizácia pre &brandShortName;">
 <!ENTITY updater_apply_select2 "Ťuknutím sem ju použijete">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Zmeny sa prejavia po reštatovaní prehliadača">
+<!ENTITY new_tablet_pref "Povoliť nové používateľské rozhranie pre tablety">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Zapnúť režim Hosť">
 <!ENTITY exit_guest_session "Opustiť režim Hosť">
