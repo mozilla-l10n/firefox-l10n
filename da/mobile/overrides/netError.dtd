@@ -23,7 +23,7 @@
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
   <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din enheds
-  data- eller Wi-Fi-forbindelse. <button id='wifi'>Aktiver Wi-Fi</button>
+  data- eller wi-fi-forbindelse. <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
 ">
@@ -62,7 +62,7 @@
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Prøv igen. &brandShortName; vil forsøge at genindlæse siden.
-  <button id='wifi'>Aktiver Wi-Fi</button>
+  <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
 ">
@@ -108,7 +108,7 @@
 <ul>
   <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Undersøg om din computer har en fungerende netværksforbindelse.
-  <button id='wifi'>Aktiver Wi-Fi</button>
+  <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
 ">
@@ -152,7 +152,7 @@
 <ul>
   <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
   <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.
-  <button id='wifi'>Aktiver Wi-Fi</button>
+  <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
 ">
