@@ -12,6 +12,6 @@
 <!ENTITY profilerUI.clearButton "Очистить">
 <!ENTITY profilerUI.table.duration "Время (мс)">
 <!ENTITY profilerUI.table.percentage "Цена">
-<!ENTITY profilerUI.table.invocations "Вызовы">
+<!ENTITY profilerUI.table.samples "Замеры">
 <!ENTITY profilerUI.table.function "Функция">
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">

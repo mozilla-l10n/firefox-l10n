@@ -205,6 +205,7 @@
 <!ENTITY tabs_private "Приватные">
 <!ENTITY tabs_synced "Синхронизированные">
 <!ENTITY set_image_fail "Не удалось установить изображение">
+<!ENTITY set_image_path_fail "Не удалось сохранить изображение">
 <!ENTITY set_image_chooser_title "Установить изображение как">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Назад">
@@ -280,6 +281,10 @@
 <!ENTITY home_remote_tabs_need_to_sign_in "Пожалуйста, войдите, чтобы снова подключиться к учётной записи Firefox и продолжить синхронизацию.">
 <!ENTITY home_remote_tabs_trouble_verifying "Проблема с подтверждением вашей учётной записи?">
 <!ENTITY home_remote_tabs_need_to_verify "Пожалуйста, подтвердите вашу учётную запись Firefox, чтобы начать синхронизацию.">
+<!ENTITY home_remote_tabs_one_hidden_device "Скрыто 1 устройство">
+<!ENTITY home_remote_tabs_many_hidden_devices "Скрыто &formatD; устройств(а)">
+<!ENTITY home_remote_tabs_hidden_devices_title "Скрытые устройства">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Показать выбранные скрытые устройства">
 <!ENTITY private_browsing_title "Приватный просмотр">
 <!ENTITY private_tabs_panel_empty_desc "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
@@ -317,12 +322,16 @@
 <!ENTITY updater_downloading_retry2 "Нажмите для повтора">
 <!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_apply_select2 "Нажмите для обновления">
+<!ENTITY new_tablet_restart "Перезапустите браузер, чтобы изменения вступили в силу">
+<!ENTITY new_tablet_pref "Включить новый планшетный интерфейс">
 <!ENTITY new_guest_session "Новая гостевая сессия">
 <!ENTITY exit_guest_session "Выйти из гостевой сессии">
 <!ENTITY guest_session_dialog_continue "Продолжить">
 <!ENTITY guest_session_dialog_cancel "Отмена">
 <!ENTITY new_guest_session_title "&brandShortName; сейчас будет перезапущен">
 <!ENTITY new_guest_session_text "Человек, использующий гостевую сессию, не увидит ничего из ваших личных данных веб-сёрфинга (таких как сохранённые пароли, история или закладки).\n\nКогда ваш гость закончит, его данные веб-сёрфинга будут удалены, а ваша сессия будет восстановлена.">
+<!ENTITY guest_browsing_notification_title "Включён гостевой веб-серфинг">
+<!ENTITY guest_browsing_notification_text "Нажмите для выхода">
 <!ENTITY exit_guest_session_title "&brandShortName; сейчас будет перезапущен">
 <!ENTITY exit_guest_session_text "Данные веб-серфинга из этой сессии будут удалены.">
 <!ENTITY ellipsis "…">

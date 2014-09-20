@@ -537,8 +537,10 @@
 <!ENTITY trackingContentBlocked.moreinfo "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
 <!ENTITY trackingContentBlocked.learnMore "Подробнее">
 <!ENTITY trackingContentBlocked.options "Настройки">
-<!ENTITY trackingContentBlocked.unblock.label2 "Отключить защиту для этого сайта">
+<!ENTITY trackingContentBlocked.unblock2.label "Отключить защиту для этого сайта">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ю">
 <!ENTITY trackingContentBlocked.block.label "Включить защиту">
+<!ENTITY trackingContentBlocked.block.accesskey "к">
 <!ENTITY trackingContentBlocked.disabled.message "Защита от отслеживания отключена">
 <!ENTITY pointerLock.notification.message "Нажмите в любой момент кнопку Esc, чтобы показать его снова.">
 <!ENTITY pluginNotification.showAll.label "Показать все">
