@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY search_app_name 'Vyhľadávanie &brandShortName;'>
-<!ENTITY search_for_something 'Vyhľadajte niečo'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Hľadať pomocou &formatS;'>
 
 <!ENTITY search_empty_title 'Vyhľadávanie &brandShortName;'>
 <!ENTITY search_empty_message 'Jednoducho vyhľadáte čokoľvek, čo chcete'>
