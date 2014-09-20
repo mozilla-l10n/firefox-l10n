@@ -146,7 +146,7 @@
 <!ENTITY pref_category_home_content_settings "Indstillinger for indhold">
 <!ENTITY pref_home_updates "Automatiske opdateringer">
 <!ENTITY pref_home_updates_enabled "Aktiveret">
-<!ENTITY pref_home_updates_wifi "Kun via Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Kun via wi-fi">
 <!ENTITY pref_home_suggested_sites "Vis webstedsforslag">
 <!ENTITY pref_home_suggested_sites_summary "Vis genveje på din startside til websteder, som vi tror, du vil kunne lide">
 
@@ -256,13 +256,13 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Positionstjeneste">
-<!ENTITY datareporting_wifi_geolocation_summary "Ved kørsel i baggrunden modtages data fra Wi-Fi og mobilmaster om position, som så deles med &vendorShortName; for at forbedre vores positionstjeneste.">
+<!ENTITY datareporting_wifi_geolocation_summary "Ved kørsel i baggrunden modtages data fra wi-fi og mobilmaster om position, som så deles med &vendorShortName; for at forbedre vores positionstjeneste.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Hent automatisk opdateringer">
-<!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Kun via wi-fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
 <!ENTITY pref_update_autodownload_always "Altid">
 
