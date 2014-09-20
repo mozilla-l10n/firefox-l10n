@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.firealarms.label "Zobrazovat upozornění">
 <!ENTITY calendarproperties.cache3.label "Podpora režimu offline">
 <!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
-<!ENTITY calendarproperties.forceDisabled.label "Poskytovatel tohoto kalendáře nemohl být nalezen. To často nastává tehdy, když jste zakázal(a) nebo odinstaloval(a) konkrétní doplňky.">
+<!ENTITY calendarproperties.forceDisabled.label "Poskytovatel tohoto kalendáře nemohl být nalezen. To často nastává tehdy, pokud jste zakázali nebo odinstalovali některé konkrétní doplňky.">
 <!ENTITY calendarproperties.unsubscribe.label "Neodebírat">
 <!ENTITY calendarproperties.unsubscribe.accesskey "N">
 
