@@ -11,15 +11,19 @@
 <!ENTITY deniedPortAccess.title "Обращение к данному адресу заблокировано">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Сервер не найден">
-<!ENTITY dnsNotFound.longDesc3 "
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
-    <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
-       <strong>ww</strong>.example.com вместо
-       <strong>www</strong>.example.com</li>
-    <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.
-      <button id='wifi'>Включить Wi-Fi</button>
-    </li>
-</ul>">
+   <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
+        <strong>ww</strong>.example.com вместо
+        <strong>www</strong>.example.com</li>
+        <div id='searchbox'>
+          <input id='searchtext' type='search'></input>
+          <button id='searchbutton'>Поиск</button>
+     </div>
+   <li>Если вы не можете загрузить ни одну страницу – проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.
+     <button id='wifi'>Включить Wi-Fi</button>
+   </li>
+</ul> ">
 <!ENTITY fileNotFound.title "Файл не найден">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -31,12 +35,17 @@
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не может загрузить эту страницу по неопределённой причине.</p>">
 <!ENTITY malformedURI.title "Формат адреса неверен">
-<!ENTITY malformedURI.longDesc "
+<!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>Адреса веб-сайтов обычно записываются в формате <strong>http://www.example.com/</strong></li>
-  <li>Убедитесь, что вы используете в качестве разделителя прямую косую черту (т.е. <strong>/</strong>).</li>
-</ul>
-">
+  <li>Адреса веб-сайтов обычно записываются в формате
+     <strong>http://www.example.com/</strong></li>
+     <div id='searchbox'>
+       <input id='searchtext' type='search'></input>
+       <button id='searchbutton'>Поиск</button>
+     </div>
+   <li>Убедитесь, что вы используете в качестве разделителя прямую косую черту (т.е.
+     <strong>/</strong>).</li>
+</ul> ">
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 <!ENTITY notCached.title "Документ просрочен">
