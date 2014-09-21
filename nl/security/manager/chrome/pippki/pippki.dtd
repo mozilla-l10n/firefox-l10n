@@ -85,4 +85,3 @@
 <!ENTITY protectedAuth.title "Beschermde tokenauthenticatie">
 <!ENTITY protectedAuth.msg "Authenticeer bij de token. Authenticatiemethode hangt af van het type van uw token.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
-
