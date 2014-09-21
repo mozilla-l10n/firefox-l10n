@@ -28,10 +28,10 @@
 <!ENTITY chooseButton.label           "Вибрати…">
 <!ENTITY chooseButton.accesskey       "и">
 
-<!ENTITY translateWebPages.label      "Translate web content">
-<!ENTITY translateWebPages.accesskey  "T">
-<!ENTITY translateExceptions.label    "Exceptions…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateWebPages.label      "Перекладати веб вміст">
+<!ENTITY translateWebPages.accesskey  "П">
+<!ENTITY translateExceptions.label    "Виключення…">
+<!ENTITY translateExceptions.accesskey "л">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

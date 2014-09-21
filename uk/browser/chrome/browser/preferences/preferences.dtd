@@ -4,7 +4,7 @@
 
 
 <!ENTITY  prefWindow.titleWin     "Налаштування">
-<!ENTITY  prefWindow.title        "Preferences">
+<!ENTITY  prefWindow.title        "Налаштування">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
@@ -26,4 +26,4 @@
 <!ENTITY  buttonForward.tooltip   "На наступну сторінку">
 <!ENTITY  buttonBack.tooltip      "На попередню сторінку">
 
-<!ENTITY  helpButton.label        "Help">
+<!ENTITY  helpButton.label        "Допомога">
