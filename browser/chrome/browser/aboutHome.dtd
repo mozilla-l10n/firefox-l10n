@@ -28,10 +28,10 @@
 <!ENTITY abouthome.historyButton.label   "Історія">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Options">
+<!ENTITY abouthome.preferencesButtonWin.label  "Налаштування">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Preferences">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Налаштування">
 <!ENTITY abouthome.addonsButton.label    "Додатки">
 <!ENTITY abouthome.appsButton.label      "Магазин">
 <!ENTITY abouthome.downloadsButton.label "Завантаження">
