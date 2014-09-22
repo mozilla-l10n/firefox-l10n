@@ -97,7 +97,7 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Croeso i Offer Datblygu Firefox">
+<!ENTITY options.selectDefaultTools.label     "Offer Datblygu Firefox Rhagosodedig">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
