@@ -29,19 +29,19 @@
 <!ENTITY dataChoicesTab.label            "දත්ත තෝරාගැනීම්">
 
 <!ENTITY healthReportSection.label       "&brandShortName; සුව වාර්තාව">
-
+<!ENTITY healthReportDesc.label          "ඔබේ ගවේශකයේ කාර්ය්‍යකෂමතාව පිළිබඳ තේරුම්ගැනීමට සහය වන අතර ඔබේ ගවේශකයේ සෞඛ්‍ය පිළිබඳ දත්ත &vendorShortName; වෙතින් බෙදාගනී">
 <!ENTITY enableHealthReport.label        "&brandShortName; සුව වාර්තාව සක්‍රීය කරන්න">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "තවත් දැනගන්න">
 
 <!ENTITY telemetrySection.label          "දූරාමිතිය">
-
+<!ENTITY telemetryDesc.label             "අපට &brandShortName; දියුණු කිරීමට සහය වීමට ඔබේ ගවේශකයේ කාර්ය්‍යකෂමතාව, භාවිතය, දෘඩාංග හා රුචිකරණය පිළිබඳ දත්ත බෙදාගනී">
 <!ENTITY enableTelemetry.label           "දූරාමිතිය සක්‍රීය (T)">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "තවත් දැනගන්න">
 
 <!ENTITY crashReporterSection.label      "බිදවැටුම් වාර්තාව">
-
+<!ENTITY crashReporterDesc.label         "&vendorShortName; හට ඔබේ ගවේශකය වඩා ස්ථාවර හා ආරක්ෂාකාරී කිරීමට සහය වීමට &brandShortName; බිඳවැටීම් වාර්ථා පළ කරයි">
 <!ENTITY enableCrashReporter.label       "බිඳවැටීම් වාර්ථාකරු සක්‍රීය (C)">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "තවත් දැනගන්න">
@@ -82,8 +82,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "යාවත්කාලීන යාවත්කාලීන ස්වයංක්‍රීයව ස්ථාපනය කරන්න (ආරක්ෂීතබව වැඩිකරයි)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateAutoMetro.label           "වැඩතලය හා Windows 8 රටා &brandShortName; ස්වයංක්‍රීයව යාවත් කරන්න (s)">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න, නමුත් ස්ථාපනය සඳහා මට කේරීමට ඉඩහරින්න">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරීක්ෂා නොකරන්න (අනතුරුදායනවබ බව වැඩිකරයන නිසා නිර්දේශ නොකරයි)">
@@ -92,6 +92,7 @@
 <!ENTITY updateAutoAddonWarn.label       "මෙය මගේ ඇඩෝන කිසිවක් හෝ අබල කරයි නම් මට අනතුරු අඟවන්න">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 රටා &brandShortName; ඇඩෝන ගැලපීම නොපිරික්සයි)">
 
 <!ENTITY updateHistory.label             "යාවත්කාලීන අතීතය පෙන්වන්න">
 <!ENTITY updateHistory.accesskey         "p">
@@ -120,8 +121,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "සැමවිටම විමසන්න">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න (Q)">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "සහතික පෙන්වන්න (C)">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග (D)">
