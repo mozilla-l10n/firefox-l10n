@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "قلم‌ها">
-<!ENTITY  window.width                            "48em">
-<!ENTITY  window.macWidth                         "50em">
-<!ENTITY  window.unixWidth                        "46em">
 
 <!ENTITY  language.label                          "قلم‌ها برای:">
 <!ENTITY  language.accesskey                      "ق">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "ب">
 <!ENTITY  monospace.label                         "تک‌عرض:">
 <!ENTITY  monospace.accesskey                     "ک">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "غربی">
-<!ENTITY  font.langGroup.latin2                   "اروپای مرکزی">
+<!ENTITY  font.langGroup.latin                    "لاتینی">
 
 <!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
 <!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
@@ -34,9 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "زبان‌های دیگر">
-<!ENTITY  font.langGroup.user-def                 "تعریف شده توسط کاربر">
 
 
 

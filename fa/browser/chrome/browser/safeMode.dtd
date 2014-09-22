@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "شروع در حالت ایمن">
-<!ENTITY resetProfile.label           "راه‌اندازی مجدد &brandShortName;">
+<!ENTITY resetProfile.label           "&amp;راه‌اندازی مجدد &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "حالت ایمن یک حالت ویژه برای &brandShortName; است که از آن برای رفع مشکلات استفاده میشود.">
 <!ENTITY safeModeDescription4.label   "افزونه ها و تنظیمات شما برای مدتی غیر فعال میگردند.">

@@ -2,7 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "دربارهٔ &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+
+<!ENTITY update.checkForUpdatesButton.label       "جستجو برای به‌روزرسانی‌ها…">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label2                "جهت انجام بروزرسانی &brandShortName; را مجددا راه اندازی کنید">
+
+
+
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
 
 <!ENTITY warningDesc.version        "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
@@ -17,7 +30,7 @@
 <!ENTITY community.exp.creditsLink  "انجمن جهانی">
 <!ENTITY community.exp.end          "  برای باز، عمومی و قابل دسترس نگاه داشتن وب برای همه با هم کار میکنیم.">
 
-<!ENTITY community.start2           "طراحی شده توسط ;brandShortName  ">
+<!ENTITY community.start2           "طراحی شده توسط ;brandShortName&amp;  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
@@ -41,8 +54,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "گشتن به دنبال به‌هنگام‌سازی‌ها…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "وارسی سازگاری افزودنی‌ها…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; به روز است">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

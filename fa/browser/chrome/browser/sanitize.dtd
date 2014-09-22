@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "تاریخچه">
 <!ENTITY dataSection.label            "اطلاعات">
 
-<!ENTITY itemHistoryAndDownloads.label     "تاریخچهٔ مرور و بارگیری">
-<!ENTITY itemHistoryAndDownloads.accesskey "ت">
-<!ENTITY itemFormSearchHistory.label       "تاریخچهٔ فرم‌ها و جست‌وجوها">
-<!ENTITY itemFormSearchHistory.accesskey   "ف">
+
+
+
 <!ENTITY itemPasswords.label               "گذرواژه‌های ذخیره شده">
 <!ENTITY itemPasswords.accesskey           "گ">
 <!ENTITY itemCookies.label                 "کوکی‌ها">

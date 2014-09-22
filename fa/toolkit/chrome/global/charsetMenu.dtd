@@ -4,7 +4,7 @@
 
 <!ENTITY charsetMenu.label             "کدگذاری نویسه‌ها">
 <!ENTITY charsetMenu.accesskey         "ک">
-
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
 <!-- A reserved for Arabic -->
 
 

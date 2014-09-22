@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "پیشکار SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
+
+
 <!ENTITY  port.label                    "درگاه:">
 <!ENTITY  HTTPport.accesskey            "د">
 <!ENTITY  SSLport.accesskey             "ر">
@@ -42,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬">
 <!ENTITY  shareproxy.label              "استفاده از این پیشکار برای همهٔ قراردادها">
 <!ENTITY  shareproxy.accesskey          "ه">
+
+
+

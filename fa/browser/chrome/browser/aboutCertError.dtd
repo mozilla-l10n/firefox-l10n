@@ -25,6 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "اگر معمولاً بدون اشکال به این پایگاه 
 وصل می‌شوید، این پیغام خطا به معنی آن است که شخصی تلاش می‌کند هویت این پایگاه 
 را جعل کند، پس نباید به مرور این پایگاه ادامه دهید.">
+
 <!ENTITY certerror.getMeOutOfHere.label "ترک این مکان!">
 
 <!ENTITY certerror.expert.heading "متوجه خطرات هستم">
