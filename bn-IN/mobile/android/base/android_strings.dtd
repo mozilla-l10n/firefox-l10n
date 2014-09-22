@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
+
+<!ENTITY  onboard_start_message "&brandShortName; এ স্বাগতম!">
+<!ENTITY  onboard_start_subtext "আপনি, আপনার গোপনীয়তা এবং উন্মুক্ত ওয়েবের কাছে প্রতিশ্রুতিবদ্ধ">
+<!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
+<!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "ফাইল নির্বাচন করুন">
 
-<!ENTITY url_bar_default_text "অনুসন্ধান করুন অথবা ঠিকানা লিখুন">
+<!ENTITY url_bar_default_text2 "ঠিকানা অনুসন্ধান করুন অথবা দিন">
 
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "সিস্টেম ডিফল্ট">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; এ যোগ করুন">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "বুকমার্ক">
+<!ENTITY overlay_share_reading_list_btn_label "পঠন তালিকায় যোগ করুন">
+<!ENTITY overlay_share_send_other "অন্য ডিভাইসসমূহে প্রেরণ করুন">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
+<!ENTITY overlay_share_no_url "এই শেয়ারে কোনো লিংক পাওয়া যায়নি">
+<!ENTITY overlay_share_retry "পুনরায় চেষ্টা করুন">
+<!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীদের স্বনির্ধারণ করুন">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "এখুনি পরিষ্কার করা হোক">
 <!ENTITY pref_clear_private_data_category "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
 <!ENTITY pref_clear_on_exit_title "প্রস্থান করার সময় সর্বদা পরিষ্কার করা হবে">
-<!ENTITY pref_clear_on_exit_summary "আপনি মেনু থেকে \&quot;প্রস্থান\&quot; নির্বাচন করা মাত্র &brandShortName; আপনার সমস্ত তথ্য মুছে ফেলবে">
+<!ENTITY pref_clear_on_exit_summary2 "মেইন মেনু থেকে যখনি অাপনি  \u0022Quit\u0022 নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে অাপনার তথ্য পরিষ্কার করে দেবে">
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগ-ইনসমূহ">
 <!ENTITY pref_plugins_enabled "সক্রিয় অাছে">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "এই ক্ষিপ্র কমলা রঙের শিয়ালটি আপনার কল্পনার থেকেও দ্রুত গতিতে এগিয়ে চলেছে, আরও বেশি স্থিতিস্থাপকতা এবং নিরাপত্তার সঙ্গে। অমূনাফালাভী প্রতিষ্ঠান হিসেবে আমরা মুক্তভাবে আবিষ্কার করে চলেছি কোনরকমভাবে আপোষের কাছে  মাথা নিচু না করেই। এর অর্থ আপনার আরও উন্নত অভিজ্ঞতা এবং ওয়েবের উজ্জ্বল ভবিষ্যৎ।">
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
-<!ENTITY pref_show_product_announcements "পণ্য ঘোষণাপত্র দেখানো হোক">
 <!ENTITY pref_sync "সিঙ্ক">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "পূর্ববর্তী">
 <!ENTITY find_next "পরবর্তী">
 <!ENTITY find_close "বন্ধ করুন">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "যন্ত্রে নিক্ষেপ করা হচ্ছে">
+<!ENTITY media_sending_to "যন্ত্রে পাঠানো হচ্ছে">
 <!ENTITY media_play "চালান">
 <!ENTITY media_pause "বিরতি">
 <!ENTITY media_stop "বন্ধ করুন">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "শিরোনাম বার">
 <!ENTITY pref_titlebar_mode_title "পৃষ্ঠার শিরোনাম প্রদর্শন">
 <!ENTITY pref_titlebar_mode_url "পৃষ্ঠার ঠিকানা প্রদর্শন">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "টাইটেল বার স্ক্রল করুন">
+<!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
+<!ENTITY pref_scroll_title_bar_summary "&brandShortName; শিরোনাম বার কে লুকান যখন একটি পাতায় স্ক্রল করছেন">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
