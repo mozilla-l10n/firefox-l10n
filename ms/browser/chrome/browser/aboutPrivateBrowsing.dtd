@@ -3,14 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Anda melayari secara privasi">
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "Buka satu tetingka&amp;p sulit?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; tidak akan menyimpan sejarah sesi ini.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; tidak akan menyimpan sejarah sesi ini.">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Anda kini tidak berada di privasi tetingkap.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ketahui Lanjut.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
