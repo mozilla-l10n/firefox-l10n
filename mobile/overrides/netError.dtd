@@ -11,16 +11,16 @@
 
 
 <!ENTITY connectionFailure.title "সংযোগ করতে ব্যর্থ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "নিরাপত্তাজনীত কারণে চিহ্নিত ঠিকানার উপর বিধি নিষেধ আরোপ করা হয়েছে">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>অ্যাড্রেস টিতে এই ধরনের টাইপিং ভুল হয়েছে নাকি মিলিয়ে নিন 
-<strong>www</strong>.example.com এর পরিবর্তে 
-<strong>ww</strong>.example.com</li> 
+<strong>ww</strong>.example.com এর পরিবর্তে 
+<strong>www</strong>.example.com</li> 
 <li>যদি কোন পেজ লোড করতে সক্ষম না হন তাহলে আপনার ডিভাইসের তথ্য কিম্বা ওয়াইফাই কানেকশান ঠিক আছে কিনা দেখুন।</li> 
 </ul>">
 
@@ -43,14 +43,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "নথির মেয়াদ উত্তীর্ণ হয়েছে">
 <!ENTITY notCached.longDesc "<p>&brandShortName;-র ক্যাশের মধ্যে, অনুরোধ করা নথিটি উপলব্ধ নেই।</p><ul><li>নিরাপত্তার খাতিরে, সংবেদনশীল নথির ক্ষেত্রে &brandShortName; দ্বারা স্বয়ংক্রিয়ভাবে পুনরায় অনুরোধ করা হয় না।</li><li>ওয়েব-সাইট থেকে নথিটি পুনরায় অনুরোধ করার জন্য 'পুনরায় প্রচেষ্টা' ক্লিক করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>পুনরায় চেষ্টা করুন. &brandShortName; একটি সংযোগ স্থাপন করবে এবং পেজটি রিলোড করবে.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>আবার চেষ্টা করুন। &brandShortName; একটি কানেকশন মুক্ত করার এবং পুনরায় পেজ লোড করার প্রয়াস করবে। 
+<button id='wifi'>Wi-Fi সক্রিয় করুন</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তুর এনকোডিং সংক্রান্ত সমস্যা">
@@ -64,10 +66,10 @@
 </ul>">
 
 <!ENTITY netReset.title "সংযোগ পুনরায় নির্ধারিত হয়েছে">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "সংযোগের সময়সীমা উত্তীর্ণ হয়েছে">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ঠিকানা মীমাংসা করা যায়নি">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +84,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Check the proxy settings to make sure that they are correct.</li> 
-<li>Check to make sure your device has a working data or Wi-Fi connection.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "পেজ থেকে সঠিকরূপে অনুরোধ প্রেরিত হচ্ছে না">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,9 +113,11 @@
 সমস্যা দেখা দিয়েছে এবং পুনরায় কোনো সময়ে প্রচেষ্টা করুন।</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>এই সাইট সাময়িকভাবে অপ্রাপ্য বা খুব ব্যস্ত হতে পারে। কিছু মুহূর্ত পরে পুনঃপ্রচেষ্টা করুন।</li> 
-<li>কোন পেজ লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর তথ্য বা ওয়াই ফাই সংযোগ পরীক্ষা করুন.</li> 
+<li>কোন পেজ লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর তথ্য বা ওয়াই ফাই সংযোগ পরীক্ষা করুন। 
+<button id='wifi'> ওয়াইফাই সক্রিয় করুন</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "তথ্যের নিরাপত্তা সংক্রান্ত নীতির ফলে প্রতিরোধ করা হয়েছে">
