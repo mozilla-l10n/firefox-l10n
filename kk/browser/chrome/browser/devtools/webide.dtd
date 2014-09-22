@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Байланысты үзу">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Скриншот">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Қарап шығу">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Симуляторды орнату">
+
+
+<!-- Lense -->
+
+
+
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Жабу">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Жалпы">
+<!ENTITY prefs_restore "Әдеттілеріне қайту">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Бастапқы код құрамасына негізделіп, шегінуді анықтау">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Жақшаларды автожабу">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Жабатын жақшаларды автокірістіру">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Аты">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Көмек">

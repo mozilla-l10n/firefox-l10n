@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "Т">
 <!ENTITY alwaysAsk.label "Файлдар сақталатын жері туралы әрқашан мені сұрау">
 <!ENTITY alwaysAsk.accesskey "ж">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; сіздің ағымдағы негізгі браузеріңіз">
+
+
