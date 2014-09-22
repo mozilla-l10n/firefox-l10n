@@ -7,9 +7,9 @@
 <!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
 
 <!ENTITY  onboard_start_message "&brandShortName; ішіне қош келдіңіз!">
-
-
-
+<!ENTITY  onboard_start_subtext "Сіз, сіздің жекелігіңіз және ашық интернетке ұмтылады">
+<!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
+<!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -39,7 +39,9 @@
 
 <!ENTITY choose_file "Файлды таңдау">
 
+<!ENTITY url_bar_default_text2 "Іздеу үшін сұранымды немесе адресті енгізіңіз">
 
+<!ENTITY bookmark "Бетбелгі">
 <!ENTITY bookmark_added "Бетбелгі қосылды">
 <!ENTITY bookmark_removed "Бетбелгі өшірілді">
 <!ENTITY bookmark_updated "Бетбелгі жаңартылды">
@@ -90,18 +92,24 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; ішіне қосу">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "Оқу тізіміне қосу">
 
+<!ENTITY overlay_share_bookmark_btn_label "Бетбелгі">
+<!ENTITY overlay_share_reading_list_btn_label "Оқу тізіміне қосу">
+<!ENTITY overlay_share_send_other "Басқа құрылғыларға жіберу">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
-
+<!ENTITY overlay_share_send_tab_btn_label "Басқа құрылғыға жіберу ">
+<!ENTITY overlay_share_no_url "Бұл бөлісуде сілтемелер табылмады">
+<!ENTITY overlay_share_retry "Қайталап көріңіз">
+<!ENTITY overlay_share_select_device "Құрылғыны таңдау">
 
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
@@ -167,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Қазір тазарту">
 <!ENTITY pref_clear_private_data_category "Жеке деректерді өшіру">
 <!ENTITY pref_clear_on_exit_title "Шыққанда әрқашан тазарту">
-
+<!ENTITY pref_clear_on_exit_summary2 "Сіз басты мәзірден \u0022Шығу\u0022 батырмасын басқан кезде &brandShortName; деректеріңізді автоөшіреді">
 <!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
 <!ENTITY pref_plugins "Плагиндер">
 <!ENTITY pref_plugins_enabled "Іске қосулы">
@@ -294,6 +302,8 @@ size. -->
 <!ENTITY find_close "Жабу">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Құрылғыға жіберу">
 <!ENTITY media_play "Ойнау">
 <!ENTITY media_pause "Аялдату">
 <!ENTITY media_stop "Тоқтату">
@@ -320,6 +330,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Толық экранды шолу">
+<!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -478,6 +490,7 @@ Android-тан импорттау">
 
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
