@@ -36,7 +36,7 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Пријем сертификата">
-<!ENTITY downloadCert.message1 "Да ли верујете овој компанији за издавање сертификата.">
+<!ENTITY downloadCert.message1 "Упитани сте да ли верујете новој компанији за издавање сертификата (CA).">
 <!ENTITY downloadCert.trustSSL "Веруј овој компанији о идентитету веб сајтова.">
 <!ENTITY downloadCert.trustEmail "Веруј овој компанији за избор е-поште корисника.">
 <!ENTITY downloadCert.trustObjSign "Веруј овој компанији за избор развоја програма.">
