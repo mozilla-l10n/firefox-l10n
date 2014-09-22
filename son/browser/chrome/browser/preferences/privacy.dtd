@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Nee nungey ay ga baa boro m'ay gana.">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
-
+<!ENTITY trackingProtection.label       "Ganji nungey ma war gana">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "Bay ka tonton">
 <!ENTITY doNotTrackInfo.label           "Bay ka tonton">
 
 <!ENTITY  history.label                 "Taariki">

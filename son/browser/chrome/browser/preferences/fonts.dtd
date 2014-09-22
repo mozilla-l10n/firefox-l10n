@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koore">
 <!ENTITY  font.langGroup.cyrillic                 "Siril">
 <!ENTITY  font.langGroup.el                       "Gereki">
-
+<!ENTITY  font.langGroup.other                    "Šigiri dumi tanayaŋ">
 <!ENTITY  font.langGroup.thai                     "Taayi">
 <!ENTITY  font.langGroup.hebrew                   "Ebere">
 <!ENTITY  font.langGroup.arabic                   "Laaraw">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Laaraw">
-
+<!ENTITY languages.customize.Fallback.baltic      "Balti">
 <!ENTITY languages.customize.Fallback.ceiso       "Eropu gam (ISO)">
 <!ENTITY languages.customize.Fallback.cewindows   "Eropu gam, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Taayi">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turki">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Wiyetinam">

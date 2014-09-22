@@ -25,7 +25,10 @@ koy nungu boryaa doo. Ammaa dogoo woo taamansa ši hin ka tabatandi.">
 <!ENTITY certerror.whatShouldIDo.content "War ka doona ka 
 dogoo woo cee bila nda šenday, firkaa woo maanaa ga hin ka tee kaŋ boro foo ga 
 ceeci ka dogoo woo žente, adiši war ma si bisa.">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP 
+Kanbeyan saajaw šenda (HSTS) ka tabatandi kaŋ &brandShortName; ma ciya a ga de 
+nda saajaw. Woo sabbu ra, boro ši hin ka hasaraw tonton ne 
+ tabatandiyan tiiraa ga.">
 <!ENTITY certerror.getMeOutOfHere.label "Ay kaataray ne!">
 
 <!ENTITY certerror.expert.heading "Ay ga faaham allamaanawey se">
