@@ -13,13 +13,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Բեռնումներ">
 
-
+<!ENTITY cmd.pause.label                  "Ընդմիջել">
+<!ENTITY cmd.pause.accesskey              "Ը">
 <!ENTITY cmd.resume.label                 "Շարունակել">
 <!ENTITY cmd.resume.accesskey             "Շ">
 <!ENTITY cmd.cancel.label                 "Չեղարկել">
 <!ENTITY cmd.cancel.accesskey             "Չ">
-
-
+<!ENTITY cmd.show.label                   "Բացել թղթապանակը">
+<!ENTITY cmd.show.accesskey               "Բ">
 <!ENTITY cmd.showMac.label                "Ցույց տալ Finder -ում">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Բացել">
