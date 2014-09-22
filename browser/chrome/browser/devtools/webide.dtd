@@ -23,32 +23,39 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_disconnect_label "විසන්ධි කරන්න">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "අවසර වගුව">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "තිරපිටපත">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "දහාවන කාල තොරතුරු">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "දර්ශකය">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 <!ENTITY viewMenu_label "දක්වන්න">
+<!ENTITY viewMenu_accesskey "V">
 
 
 
+<!ENTITY viewMenu_showAddons_accesskey "M">
 
-
-
-
+<!ENTITY runtimeButton_label "දහාවන කාලය තෝරන්න">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-<!-- open menu -->
-<!-- reload app -->
-<!-- show toolbox -->
-<!-- toggle sidebar -->
 
+<!ENTITY key_quit "W">
+<!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
+<!-- reload app -->
+<!ENTITY key_play "R">
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
+
+<!ENTITY projectPanel_myProjects "මගේ ව්‍යාපෘති">
 
 
 
@@ -58,12 +65,12 @@
 
 
 <!-- Lense -->
+<!ENTITY details_warning_header "අනතුරු ඇඟවීම්">
+<!ENTITY details_error_header "දෝෂ">
+<!ENTITY details_description "විස්තරය">
+<!ENTITY details_location "ස්ථානය">
 
-
-
-
-
-
+<!ENTITY details_removeProject_button "ව්‍යාපෘතිය ඉවත් කරන්න">
 <!-- New App -->
 
 
