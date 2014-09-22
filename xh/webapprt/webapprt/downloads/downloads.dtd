@@ -43,6 +43,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
+<!ENTITY closeWhenDone.label              "#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Vala xa kugqibile okukhutshelwayo
+#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Vala xa okukhutshelweyo kugqityiwe">
+<!ENTITY closeWhenDone.tooltip            "Ivala ifestile yokukhutshelwayo xa zonke iifayile zigqibile ukukhuphela">
 
-
+<!ENTITY showFolder.label                 "#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Bonisa le fayile
+#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Bonisa le folda">
 <!ENTITY searchBox.label                  "Khangela…">

@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Imbonakalo yoyilo ephendulayo">
 <!ENTITY responsiveDesignTool.accesskey "e">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Isiwisaliso">
 <!ENTITY eyedropper.accesskey "s">
@@ -700,9 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Buyisela ezisisiseko">
 <!ENTITY customizeMode.toolbars "Bonisa / ufihle iithulbha">
 <!ENTITY customizeMode.titlebar "Ibha yomxholo">
-
+<!ENTITY customizeMode.lwthemes "Imixholo">
 <!ENTITY customizeMode.lwthemes.myThemes "Imixholo yam">
-
+<!ENTITY customizeMode.lwthemes.recommended "Okucetyisiweyo">
 <!ENTITY customizeMode.lwthemes.menuManage "Lawula">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
@@ -724,10 +724,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
+
 <!ENTITY mixedContentBlocked2.message "Isiqulatho esingakhuselekanga">
 <!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho encrypted kule webhusayithi zithintelwe">
 <!ENTITY mixedContentBlocked2.learnMore "Funda ngakumbi">
-
+<!ENTITY mixedContentBlocked2.options "Iinketho">
 <!ENTITY mixedContentBlocked2.unblock.label "kunye nokhuseleko lusayekiwe">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 <!ENTITY mixedContentBlocked2.block.label "Vumela ukhuseleko">
@@ -736,9 +738,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe">
-
-
-
+<!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
+<!ENTITY trackingContentBlocked.options "Iinketho">
+<!ENTITY trackingContentBlocked.unblock.label2 "Yekisa ukhuseleko kulesayithi">
 <!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
 
