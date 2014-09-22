@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Թարմացնել էջը">
 <!ENTITY  reloadTab.accesskey                "Թ">
-
-
+<!ENTITY  reloadAllTabs.label                "Կրկին բեռնել բոլոր ներդիրները">
+<!ENTITY  reloadAllTabs.accesskey            "բ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -82,9 +82,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի տարրերը">
 
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Կրկին բեռնել բոլոր ներդիրները">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված էջը">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
 
@@ -235,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Գործիք">
 <!ENTITY eyedropper.accesskey "ո">
@@ -265,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "գ">
 <!ENTITY devAppMgrMenu.label               "Ծրագրի կառավարիչ">
 <!ENTITY devAppMgrMenu.accesskey           "Ծ">
-
-
-
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -701,7 +702,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
 
 
-
+<!ENTITY customizeMode.lwthemes.recommended "Խորհուրդ է տրվում՝">
 <!ENTITY customizeMode.lwthemes.menuManage "Կառավարել">
 
 
@@ -723,9 +724,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Կայքերի մեծամասնությունը կշարունակի նորմալ աշխատել, անգամ եթե բովանդակությունը արգելափակված լինի:">
 
 
-
+<!ENTITY mixedContentBlocked2.learnMore "Ավելին">
+<!ENTITY mixedContentBlocked2.options "Կարգավորումներ">
 
 
 
@@ -734,10 +737,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Հետևում">
 
-
-
-
-
+<!ENTITY trackingContentBlocked.learnMore "Ավելին">
+<!ENTITY trackingContentBlocked.options "Կարգավորումներ">
+<!ENTITY trackingContentBlocked.unblock.label2 "Անջատել պաշտպանությունը այս կայքի համար">
+<!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանություն">
 
 
 <!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">

@@ -146,7 +146,7 @@
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Միացնել մշտական գրառումները">
-
+<!ENTITY options.enablePersistentLogs.tooltip  "Եթե միացնեք այս ընտրանքը, ապա Վեբ Կառավարակետը չի մաքրի արտածումը ամեն անգամ նոր էջում ուղղորդվելիս">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -159,6 +159,7 @@ Gecko հարթակի նշանները">
   -  section. -->
 
 
+<!ENTITY options.sourceeditor.label                     "Խմբագրիչի նախըտրանքներ">
 
 
 
@@ -168,3 +169,5 @@ Gecko հարթակի նշանները">
 
 
 
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "Հիմնական">

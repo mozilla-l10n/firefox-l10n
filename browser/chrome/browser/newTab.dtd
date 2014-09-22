@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Նոր Ներդիր">
-
-
-
-
-
-
+<!ENTITY newtab.customize.title "Կազմաձևել Նոր ներդիրը">
+<!ENTITY newtab.customize.enhanced "Լավարկված">
+<!ENTITY newtab.customize.classic "Դասական">
+<!ENTITY newtab.customize.blank "Դատարկ">
+<!ENTITY newtab.customize.what "Ի՞նչ է այս էջը:">
+<!ENTITY newtab.intro.header "Ի՞նչ է այս էջը:">
 <!ENTITY newtab.undo.removedLabel "Մանրապատկերը հեռացվել է:">
 <!ENTITY newtab.undo.undoButton "Ետարկել:">
 <!ENTITY newtab.undo.restoreButton "Վերականգնել բոլորը:">

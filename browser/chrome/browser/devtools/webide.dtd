@@ -17,9 +17,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "Հեռացնել նախագիծը">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "Կարգավորումներ">
 
 
 
@@ -54,17 +54,19 @@
 
 
 
-
+<!ENTITY runtimePanel_custom "Ընտրված">
 <!ENTITY runtimePanel_installsimulator "Տեղադրել Նմանակիչ">
 
 
 <!-- Lense -->
 
-
-
+<!ENTITY details_valid_header "Վավեր է">
+<!ENTITY details_warning_header "Զգուշացումներ">
+<!ENTITY details_error_header "Սխալմունքներ">
+<!ENTITY details_description "Նկարագրությունը">
 <!ENTITY details_location "Հասցե">
 
-
+<!ENTITY details_removeProject_button "Հեռացնել նախագիծը">
 <!-- New App -->
 
 
@@ -75,10 +77,12 @@
 
 <!ENTITY deck_close "Փակել">
 <!-- Addons -->
-
+<!ENTITY addons_aboutaddons "Բացել Հավելումների կառավարիչը">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "Կարգավորումներ">
 
+<!ENTITY prefs_general_title "Գլխավոր">
 <!ENTITY prefs_restore "Վերականգնել ծրագրայինը">
 
 
@@ -99,7 +103,7 @@
 
 
 
-
+<!ENTITY prefs_options_keybindings_default "Հիմնական">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Անուն">
 <!-- Runtime Details -->
