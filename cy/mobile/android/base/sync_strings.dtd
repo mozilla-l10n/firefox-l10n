@@ -5,7 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Cydweddu">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_full_label "Cyfrif Firefox">
 
 <!ENTITY fxaccount_custom_server_account_title "Defnyddio cyfrif ar weinydd">
-<!ENTITY fxaccount_custom_server_sync_title "Cadw data Cydweddu ar weinydd">
+<!ENTITY fxaccount_custom_server_sync_title "Cadw data Sync ar weinydd">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
