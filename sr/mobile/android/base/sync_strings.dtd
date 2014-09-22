@@ -46,9 +46,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Подешавање завршено'>
-<!ENTITY sync.subtitle.success.label1 'Ваши подаци се сада преузимају у позадини. Можете да одете на Поставке да управљате налогом, или да почнете да прегледавате са &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Ваши подаци се сада преузимају у позадини. Можете да одете на Поставке да управљате налогом или да почнете да прегледавате са &brandShortName;.'>
 <!ENTITY sync.settings.label 'Поставке'>
-<!ENTITY sync.subtitle.manage.label1 'Ваш &syncBrand.fullName.label; налог је већ подешен. Можете да одете на Поставке да управљате налогом, или покренете &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 'Ваш &syncBrand.fullName.label; налог је већ подешен. Можете да одете на Поставке да управљате налогом или да покренете &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Молимо покушајте поново.'>

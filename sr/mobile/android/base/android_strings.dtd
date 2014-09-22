@@ -172,11 +172,11 @@
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
 <!ENTITY pref_char_encoding_off "Немој приказати мени">
-<!ENTITY pref_clear_private_data2 "Очисти">
-<!ENTITY pref_clear_private_data_category "Очисти приватне податке">
-<!ENTITY pref_clear_on_exit_title "Увек очисти при изласку">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски очистити Ваше податке сваки пут када изаберете Изађи из главног менија">
-<!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се очисте">
+<!ENTITY pref_clear_private_data2 "Обриши">
+<!ENTITY pref_clear_private_data_category "Обриши приватне податке">
+<!ENTITY pref_clear_on_exit_title "Увек обриши при изласку">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати Ваше податке сваки пут када изаберете Изађи из главног менија">
+<!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се обришу">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
 <!ENTITY pref_plugins_tap_to_play "Притисните">
@@ -448,7 +448,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            са Android-а">
 <!ENTITY bookmarkhistory_import_history "Увозим историјат
                                          са Android-а">
-<!ENTITY bookmarkhistory_import_wait "Молим Вас сачекајте...">
+<!ENTITY bookmarkhistory_import_wait "Молим Вас сачекајте…">
 
 <!ENTITY suggestions_prompt3 "Да ли желите да укључите предлоге претраге?">
 
@@ -481,7 +481,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Настави">
 <!ENTITY guest_session_dialog_cancel "Откажи">
 <!ENTITY new_guest_session_title "&brandShortName; се неће рестартовати">
-<!ENTITY new_guest_session_text "Особа која га користити неће моћи да види било које од Ваших личних података прегледања (као сачуване лозинке, историја или забелешке).\n\nКад је Ваш гост готов са прегледавањем, подаци ће бити обрисани и Ваша сесија ће се обновити.">
+<!ENTITY new_guest_session_text "Особа која га користи неће моћи да види било које од Ваших личних података прегледања (као сачуване лозинке, историја или забелешке).\n\nКад је Ваш гост готов са прегледавањем, подаци ће бити обрисани и Ваша сесија ће се обновити.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ће се сада поново покренути">
 <!ENTITY exit_guest_session_text "Подаци прегледања из ове сесије ће бити обрисани.">
@@ -505,4 +505,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "Последње синхронизовано: &formatS;">
+<!ENTITY remote_tabs_last_synced "Последња синхронизација: &formatS;">
