@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1;, қайда: &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Бетбелгілер мәзірі">
@@ -204,12 +206,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Қолдану шарттары">
 <!ENTITY fxaccount_status_linkprivacy "Жекелік саясаты">
+<!ENTITY fxaccount_status_more "Көбірек&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox тіркелгісін өшіру керек пе?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; тіркелгіңізбен синхрондауды тоқтатады, бірақ, бұл құрылғыда барлық шолу деректері қалады.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "&formatS; Firefox тіркелгісі өшірілді.">
 
+<!ENTITY fxaccount_remove_account_menu_item "Тіркелгіні өшіру">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
