@@ -68,10 +68,10 @@
 այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY netReset.title "Կապը խզվեց">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;;">
 
 <!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառվեց">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;;">
 
 <!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի է">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -120,6 +120,12 @@
  կարող է ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> 
 </ul>">
 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> 
+<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<button id='wifi'>Միացնել Wi-Fi-ը</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
