@@ -2,15 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "مرور خصوصی">
-<!ENTITY privatebrowsingpage.title.normal          "آیا مایل به شروع مرور خصوصی هستید؟">
 
 
 
 
 
+
+
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-
-<!ENTITY privatebrowsingpage.moreInfo                  "با آن که تاریخچه‌ای از مرور شما در این رایانه باقی نخواهد ماند، فراهم‌کنندهٔ سرویس اینترنت یا کارفرمای شما ممکن است بتوانند شما را ردگیری کنند.">
-<!ENTITY privatebrowsingpage.learnMore                 "بیشتر بدانید">

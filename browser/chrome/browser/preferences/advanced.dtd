@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "بررسی املا در هنگام وارد کردن متن">
 <!ENTITY checkSpelling.accesskey         "م">
 
-<!ENTITY systemDefaults.label            "پیش‌فرض‌های سیستم">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "همیشه هنگام شروع بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض است یا خیر">
-<!ENTITY alwaysCheckDefault.accesskey    "پ">
-<!ENTITY setDefault.label                "&brandShortName; را مرورگر همیشگی قرار بده">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; مرورگر همیشگی شماست">
-
 <!ENTITY dataChoicesTab.label            "انتخاب داده ها ">
 
 
@@ -123,12 +115,12 @@
 <!ENTITY certificateTab.label            "گواهی‌ها">
 <!ENTITY certSelection.description       "هنگامی که کارگزاری گواهی شخصی من را درخواست می‌کند:">
 <!ENTITY certs.auto                      "به طور خودکار انتخاب شود">
-<!ENTITY certs.auto.accesskey            "خ">
+
 <!ENTITY certs.ask                       "هر بار پرسیده شود">
-<!ENTITY certs.ask.accesskey             "ه">
-<!ENTITY viewCerts.label                 "نمایش گواهی‌ها">
-<!ENTITY viewCerts.accesskey             "ن">
-<!ENTITY verify2.label                   "تأیید کردن">
-<!ENTITY verify2.accesskey               "ت">
-<!ENTITY viewSecurityDevices.label       "دستگاه‌های امنیتی">
-<!ENTITY viewSecurityDevices.accesskey   "س">
+
+
+
+
+
+
+

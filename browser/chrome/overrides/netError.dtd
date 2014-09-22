@@ -54,8 +54,8 @@
 <!ENTITY netTimeout.title "مهلت اتصال تمام شد">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "نشانی قابل فهم نبود">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>امکان دارد نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>امکان دارد نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از برقراری اتصال خودداری می‌کند.">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار به درستی کار می‌کند.</li> </ul>">
@@ -70,10 +70,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست زیرا صحت اطلاعات دریافتی از آن قابل بررسی نیست.</li> 
-<li>لطفاً با صاحبان وب‌گاه تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.  همچنین می‌توانید با استفاده از فرمان موجود در منوی راهنما این وب‌گاه ناهموار را گزارش دهید.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

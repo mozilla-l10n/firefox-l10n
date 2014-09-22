@@ -42,6 +42,24 @@
 
 
 
+<!ENTITY viewMenu.label               "نما">
+<!ENTITY viewMenu.accesskey           "ن">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "ویرایش">
 <!ENTITY editMenu.accesskey           "و">
 
@@ -50,6 +68,7 @@
 
 <!ENTITY inspect.label                "وارسی">
 <!ENTITY inspect.accesskey            "و">
+
 
 
 

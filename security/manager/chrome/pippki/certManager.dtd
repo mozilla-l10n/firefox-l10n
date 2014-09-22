@@ -27,15 +27,15 @@
 <!ENTITY certmgr.pending.label                "در حال تأیید گواهی‌ها…">
 <!ENTITY certmgr.subjectinfo.label            "صادر شده برای">
 <!ENTITY certmgr.issuerinfo.label             "صادر شده توسط">
-<!ENTITY certmgr.validity.label               "اعتبار" >
+
 <!ENTITY certmgr.fingerprints.label           "اثر انگشت">
 <!ENTITY certmgr.certdetail.title             "جزئیات گواهی">
 <!ENTITY certmgr.certdetail.cn                "نام معمول (CN)">
 <!ENTITY certmgr.certdetail.o                 "سازمان (O)">
 <!ENTITY certmgr.certdetail.ou                "واحد سازمانی (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "شمارهٔ سریال">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "اثر انگشت SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "اثر انگشت MD5">
 
 <!ENTITY certmgr.editcert.title               "ویرایش تنظیمات گواهی امنیتی">
 <!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "کارگزار">
 <!ENTITY certmgr.override_lifetime            "مدت زمان">
 <!ENTITY certmgr.tokenname                    "دستگاه امنیتی">
-<!ENTITY certmgr.issued                       "تاریخ صدور">
+
 <!ENTITY certmgr.expires                      "تاریخ انقضا">
 <!ENTITY certmgr.email                        "نشانی پست الکترونیکی">
 <!ENTITY certmgr.serial                       "شمارهٔ سریال">

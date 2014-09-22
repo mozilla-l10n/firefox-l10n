@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "تأییدکردن">
-<!ENTITY enableOCSP.label             "برای تأیید اعتبار فعلی گواهی‌ها از قرارداد وضعیت گواهی برخط (OCSP) استفاده شود">
-<!ENTITY enableOCSP.accesskey         "ب">
-<!ENTITY requireOCSP.label            "هنگامی که اتصال به یک کارگزار OSCP شکست بخورد، گواهی نامعتبر تشخیص داده شود">
-<!ENTITY requireOCSP.accesskey        "ه">

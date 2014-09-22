@@ -10,6 +10,8 @@
 
 
 
+
+
 <!ENTITY device.stopApp "توقف">
 
 
@@ -27,6 +29,10 @@
 
 
 <!ENTITY device.permissions "مجوزها">
+
+
+
+
 
 
 
@@ -77,6 +83,8 @@
 
 <!ENTITY projects.valid "معتبر">
 <!ENTITY projects.error "خطا">
+
+
 
 
 <!ENTITY help.close "بستن">

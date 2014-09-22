@@ -20,7 +20,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "نام">
 <!ENTITY aboutSupport.extensionEnabled "فعال">
 <!ENTITY aboutSupport.extensionVersion "نسخه">
-<!ENTITY aboutSupport.extensionId "شناسه">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "شرح">
+
+
+<!ENTITY aboutSupport.experimentHomepage "صفحهٔ آغازه">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "اطلاعات اولیهٔ برنامه">
 <!ENTITY aboutSupport.appBasicsName "نام">
@@ -40,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "نام نمایندهٔ کاربر">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استفاده حافظه">
 
+
 <!ENTITY aboutSupport.showDir.label "باز کردن پوشه">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -51,8 +60,11 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ترجیحات تغییر یافتۀ مهم">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
-<!ENTITY aboutSupport.modifiedPrefsValue "مقدار">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
 
 
 <!ENTITY aboutSupport.graphicsTitle "اطلاعات گرافیکی">

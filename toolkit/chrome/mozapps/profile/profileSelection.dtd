@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "کار برون‌خط">
 <!ENTITY            offlineState.accesskey "ن">
 
-<!ENTITY            autoSelect.label       "هنگام راه‌اندازی سؤال نشود">
-<!ENTITY            autoSelect.accesskey   "س">
+

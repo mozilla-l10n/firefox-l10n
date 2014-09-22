@@ -80,17 +80,8 @@
 <!ENTITY createCertInfo.title "در حال ایجاد کلید خصوصی">
 <!ENTITY createCertInfo.msg1 "تولید کلید در دست اقدام است… این کار ممکن است چند دقیقه طول بکشد….">
 <!ENTITY createCertInfo.msg2 "لطفاً صبر کنید…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "درخواست امضای متن">
-<!ENTITY formSigning.cert "در حال امضای گواهی">
-<!ENTITY formSigning.confirmPassword "برای تصدیق، این پیغام متنی را با استفاده از گواهی انتخاب شدهٔ خود امضا می‌کنید، لطفاً با وارد کردن گذرواژهٔ اصلی انجام این کار را تصدیق کنید:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "تصدیق هویت توسط نشانهٔ حفاظت شده">
 <!ENTITY protectedAuth.msg "لطفأ در برابر این نشانه هویت خود را تصدیق کنید. روش تصدیق هویت به نوع نشانه‌تان بستگی دارد.">
 <!ENTITY protectedAuth.tokenName.label "نشانه:">
-
-<!ENTITY certErrorDlg.title "اتصال امن شکست خورد">
-<!ENTITY certErrorDlg.info1 "امکان دارد این موضوع نشان‌دهندهٔ اشکالی در تنظیم کارگزار و یا تلاش شخص ثالثی برای معرفی خود به عنوان کارگزار باشد.">
-<!ENTITY certErrorDlg.info2 "اگر در گذشته با موفقیت به این پایگاه متصل شده‌اید، احتمال دارد این اشکال موقتی باشد.  می‌توانید دوباره تلاش کنید.">
