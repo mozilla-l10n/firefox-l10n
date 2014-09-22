@@ -39,7 +39,9 @@
 
 <!ENTITY choose_file "Khetha ifayile">
 
+<!ENTITY url_bar_default_text2 "Khangela okanye ngenisa idilesi">
 
+<!ENTITY bookmark "Ibhukhmakhi">
 <!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
 <!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
@@ -90,18 +92,24 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Dibanisa kwi-&brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "Yongeza Kuluhlu Lokufunda">
 
+<!ENTITY overlay_share_bookmark_btn_label "Ibhukhmakhi">
+<!ENTITY overlay_share_reading_list_btn_label "Yongeza Kuluhlu Lokufunda">
+<!ENTITY overlay_share_send_other "Thumela kwezinye iidivayisi">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "Thumela nakwenye idivayisi">
+<!ENTITY overlay_share_no_url "Ayikho ilinki efumanekayo kolulwabelwano">
 <!ENTITY overlay_share_retry "Zama kwakhona">
-
+<!ENTITY overlay_share_select_device "Khetha idivayisi">
 
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
@@ -167,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Susa ngoku">
 <!ENTITY pref_clear_private_data_category "Sula iingcombolo zabucala">
 <!ENTITY pref_clear_on_exit_title "Susa qho xa uphuma">
-
+<!ENTITY pref_clear_on_exit_summary2 "I-&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \u0022Quit\u0022 kwimenyu ephambili">
 <!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
 <!ENTITY pref_plugins "Izifakelo">
 <!ENTITY pref_plugins_enabled "Ezivunyelweyo">
@@ -294,6 +302,8 @@ size. -->
 <!ENTITY find_close "Vala">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Thumela kwidivayisi">
 <!ENTITY media_play "Dlala">
 <!ENTITY media_pause "Nqumama">
 <!ENTITY media_stop "Yima">
@@ -320,6 +330,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
+<!ENTITY pref_scroll_title_bar_summary "Fihla i-&brandShortName; umgca wesihloko xa usihlisa iphepha">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -480,6 +492,7 @@ esuka kwi-Android">
 
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
