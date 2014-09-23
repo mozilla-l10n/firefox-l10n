@@ -67,11 +67,11 @@
 <!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre tryggleik)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Søk etter oppdateringar, men la meg velja om dei skal installerast">
-<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Aldri søk etter oppdateringer (ikkje tilrådd: tryggingsrisiko)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateManual.accesskey          "A">
 <!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av installerte utvidingar">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.accesskey   "t">
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
 
@@ -117,4 +117,4 @@
 <!ENTITY validation.label               "Validering">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Tryggingseiningar">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.accesskey  "T">

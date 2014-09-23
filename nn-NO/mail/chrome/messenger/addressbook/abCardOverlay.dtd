@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Fullt namn:">
 <!ENTITY DisplayName.accesskey          "u">
 <!ENTITY preferDisplayName.label        "Alltid vel fullt namn framfor namnet i meldingshovudet">
-<!ENTITY preferDisplayName.accesskey    "i">
+<!ENTITY preferDisplayName.accesskey    "d">
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "K">
 
@@ -123,7 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">

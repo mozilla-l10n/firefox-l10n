@@ -20,7 +20,7 @@
 <!ENTITY  serif.label                             "Seriffskrift:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Serrifflaus-skrift:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "u">
 <!ENTITY  monospace.label                         "Fast teiknavstand:">
 <!ENTITY  monospace.accesskey                     "F">
 

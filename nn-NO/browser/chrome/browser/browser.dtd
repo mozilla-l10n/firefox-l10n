@@ -725,7 +725,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pointerLock.notification.message "Trykk ESC når som helst for å visa den igjen.">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.accesskey "V">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Tillat no">

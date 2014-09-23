@@ -58,8 +58,10 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å visa fleire val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Stadfest på nytt">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender ei ny stadfesting til hendingsinnkallar">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagre ein kopi">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagre ein kopi av hendinga i kalenderen, uavhengig om du svarar organisator. Deltakarlista vert sletta.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med atterhald">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Godta hendingsinvitasjon med atterhald">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Godta hendingsinvitasjon med atterhald ">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med atterhald">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aksepter hendingsinvitasjon med atterhald, for alle oppføringar av hendinga">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Oppdater">

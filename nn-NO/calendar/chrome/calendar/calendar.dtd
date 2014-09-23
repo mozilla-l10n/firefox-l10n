@@ -53,12 +53,12 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Sorter etter status">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Kalendernamn">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter etter kalendernamn">
-<!ENTITY calendar.unifinder.tree.duration.label            "Forfall om">
+<!ENTITY calendar.unifinder.tree.duration.label            "Forfell om">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfall">
 <!ENTITY calendar.unifinder.close.tooltip                  "Lukkar hendingssøk og hendingsliste">
 
 <!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
-<!ENTITY calendar.todaypane.button.tooltip      "Vis i dagvisinga" >
+<!ENTITY calendar.todaypane.button.tooltip      "Vis i dag-ruta" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
@@ -72,7 +72,7 @@
 <!ENTITY calendar.nextweek.label                "Neste veke" >
 <!ENTITY calendar.prevweek.label                "Førre veke" >
 <!ENTITY calendar.nextweek.accesskey            "e" >
-<!ENTITY calendar.prevweek.accesskey            "i" >
+<!ENTITY calendar.prevweek.accesskey            "ø" >
 <!ENTITY calendar.nextmonth.label               "Neste månad" >
 <!ENTITY calendar.prevmonth.label               "Førre månad" >
 <!ENTITY calendar.nextmonth.accesskey           "s" >
@@ -88,7 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Ny hending" >
 <!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
-<!ENTITY calendar.print.button.accesskey        "P">
+<!ENTITY calendar.print.button.accesskey        "u">
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Veke" >
@@ -154,7 +154,7 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
-<!ENTITY calendar.context.modifyorviewitem.label      "Opne">
+<!ENTITY calendar.context.modifyorviewitem.label      "Opna">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Opna oppgåve …">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
@@ -172,7 +172,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Lim inn">
 <!ENTITY calendar.context.pasteevent.accesskey        "L">
-<!ENTITY calendar.context.button.label                "I dag-vindauge" >
+<!ENTITY calendar.context.button.label                "I dag-rute" >
 <!ENTITY calendar.context.button.accesskey            "d" >
 <!ENTITY calendar.context.attendance.menu.label       "Deltaking" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "D" >
@@ -184,7 +184,7 @@
 <!ENTITY calendar.context.progress.accesskey          "F">
 <!ENTITY calendar.context.priority.label              "Prioritet">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "Utsett oppgåve">
+<!ENTITY calendar.context.postpone.label              "Utset oppgåva">
 <!ENTITY calendar.context.postpone.accesskey          "U">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
@@ -203,7 +203,7 @@
 <!ENTITY progress.level.100            "100 &percnt; fullført">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "Ikkje oppgjeve">
+<!ENTITY priority.level.none                "Ikkje spesifisert">
 <!ENTITY priority.level.none.accesskey      "I">
 <!ENTITY priority.level.low                 "Låg">
 <!ENTITY priority.level.low.accesskey       "L">

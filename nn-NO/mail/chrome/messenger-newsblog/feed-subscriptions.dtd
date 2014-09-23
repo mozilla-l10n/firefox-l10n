@@ -20,7 +20,7 @@
 <!ENTITY quickMode.accesskey         "V">
 
 <!ENTITY autotagEnable.label         "Automatisk lag taggar frå kjelda sitt &lt;kategori&gt;-namn">
-<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagEnable.accesskey     "A">
 <!ENTITY autotagUsePrefix.label      "Prefiks på taggar:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
