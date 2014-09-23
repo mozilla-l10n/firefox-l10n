@@ -540,8 +540,10 @@
 <!ENTITY trackingContentBlocked.moreinfo "Partes de esta página que siguen su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Aprender más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock.label2 "Desactivar protección para este sitio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar protección para este sitio">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de seguimiento está desactivada">
 <!ENTITY pointerLock.notification.message "Presiona ESC en cualquier momento para mostrarlo nuevamente.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todas">
