@@ -736,8 +736,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Certaines parties de la page qui pistent votre activité en ligne ont été bloquées.">
 <!ENTITY trackingContentBlocked.learnMore "En savoir plus">
 <!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock.label2 "Désactiver la protection pour ce site">
+<!ENTITY trackingContentBlocked.unblock2.label "Désactiver la protection pour ce site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activer la protection">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protection contre le pistage est désactivée">
 
 <!ENTITY pointerLock.notification.message "Appuyez sur Échap à tout moment pour l'afficher à nouveau.">
