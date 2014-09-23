@@ -719,8 +719,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
 <!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
 <!ENTITY trackingContentBlocked.options "Ustawienia">
-<!ENTITY trackingContentBlocked.unblock.label2 "Wyłącz ochronę dla tej strony">
+<!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej strony">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "W">
 <!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
+<!ENTITY trackingContentBlocked.block.accesskey "W">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
 
 <!ENTITY pointerLock.notification.message "Naciśnij ESC w dowolnej chwili, aby wyświetlić go ponownie.">
