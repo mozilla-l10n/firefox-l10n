@@ -37,7 +37,7 @@
 <!ENTITY cmd.backup.label               "Tryggingskopiar …">
 <!ENTITY cmd.backup.accesskey           "T">
 <!ENTITY cmd.restore2.label             "Gjenopprett …">
-<!ENTITY cmd.restore2.accesskey         "S">
+<!ENTITY cmd.restore2.accesskey         "G">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
@@ -53,7 +53,7 @@
 <!ENTITY cmd.open_window.label           "Opna i nytt vindauge">
 <!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_tab.label              "Opna i ny fane">
-<!ENTITY cmd.open_tab.accesskey          "e">
+<!ENTITY cmd.open_tab.accesskey          "a">
 <!ENTITY cmd.open_all_in_tabs.label      "Opna alle i faner">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
@@ -104,7 +104,7 @@
 <!ENTITY detailsPane.more.label "Meir">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "i">
+<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil visa og redigera">
 
 <!ENTITY find.label               "Søk:">

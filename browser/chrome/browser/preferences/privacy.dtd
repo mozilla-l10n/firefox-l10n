@@ -47,7 +47,7 @@
 <!ENTITY  showCookies.accesskey         "V">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Hugse historikk">
 <!ENTITY  historyHeader.dontremember.label "Aldri hugse historikk">
 <!ENTITY  historyHeader.custom.label       "Bruke eigne innstillingar for historikk">

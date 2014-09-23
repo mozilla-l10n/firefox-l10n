@@ -40,6 +40,6 @@
 <!ENTITY bottomInput.label "Botn:">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Venstre:">
-<!ENTITY leftInput.accesskey "L">
+<!ENTITY leftInput.accesskey "V">
 <!ENTITY rightInput.label "Høgre:">
 <!ENTITY rightInput.accesskey "H">

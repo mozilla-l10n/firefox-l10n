@@ -183,7 +183,7 @@
 <!ENTITY sortByTagsCmd.label "Merkelappar">
 <!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "y">
+<!ENTITY sortByJunkStatusCmd.accesskey "U">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frå">

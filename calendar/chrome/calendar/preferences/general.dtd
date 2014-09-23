@@ -15,7 +15,7 @@
 
 <!ENTITY pref.defaults.label "Standardverdiar for nye element">
 <!ENTITY pref.events.label "Hendingar">
-<!ENTITY pref.tasks.label "Oppg[ver">
+<!ENTITY pref.tasks.label "Oppgåver">
 
 <!ENTITY pref.default_event_length.label "Standard lengde:" >
 <!ENTITY pref.default_event_length.accesskey "S">
