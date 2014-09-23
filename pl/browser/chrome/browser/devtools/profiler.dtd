@@ -12,6 +12,6 @@
 <!ENTITY profilerUI.clearButton "Wyczyść">
 <!ENTITY profilerUI.table.duration "Czas (ms)">
 <!ENTITY profilerUI.table.percentage "Koszt">
-<!ENTITY profilerUI.table.invocations "Wywołania">
+<!ENTITY profilerUI.table.samples "Próbki">
 <!ENTITY profilerUI.table.function "Funkcja">
 <!ENTITY profilerUI.newtab.tooltiptext "Dodaj nową kartę z zaznaczeniem">
