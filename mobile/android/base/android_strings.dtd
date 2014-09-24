@@ -123,7 +123,7 @@
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_privacy_summary "Contrôler mots de passe, cookies, pistage, données">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "À propos de &brandShortName;, questions fréquentes, données collectées">
+<!ENTITY pref_category_vendor_summary "À propos de &brandShortName;, FAQ, données collectées">
 <!ENTITY pref_category_datareporting "Données collectées">
 <!ENTITY pref_learn_more "En savoir plus">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
@@ -188,7 +188,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activés">
-<!ENTITY pref_plugins_tap_to_play "Appuyer pour lancer la lecture">
+<!ENTITY pref_plugins_tap_to_play "Appuyez pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
 <!ENTITY pref_reflow_on_zoom4 "Adaptation du texte">
@@ -436,7 +436,7 @@ size. -->
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; appareils masqués">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Appuyerareils masqués">
+<!ENTITY home_remote_tabs_hidden_devices_title "Appareils masqués">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Afficher les appareils sélectionnés">
@@ -494,15 +494,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Mise à jour de &brandShortName; disponible">
-<!ENTITY updater_start_select2 "Appuyer pour télécharger">
+<!ENTITY updater_start_select2 "Appuyez pour télécharger">
 
 <!ENTITY updater_downloading_title2 "Téléchargement de &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Le téléchargement a échoué">
-<!ENTITY updater_downloading_select2 "Appuyer pour appliquer la mise à jour une fois téléchargée">
-<!ENTITY updater_downloading_retry2 "Appuyer pour réessayer">
+<!ENTITY updater_downloading_select2 "Appuyez pour appliquer la mise à jour une fois téléchargée">
+<!ENTITY updater_downloading_retry2 "Appuyez pour réessayer">
 
 <!ENTITY updater_apply_title2 "Mise à jour de &brandShortName; disponible">
-<!ENTITY updater_apply_select2 "Appuyer pour mettre à jour">
+<!ENTITY updater_apply_select2 "Appuyez pour mettre à jour">
 
 <!-- New tablet UI -->
 
