@@ -754,7 +754,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Indstillinger">
 <!ENTITY trackingContentBlocked.unblock.label2 "Deaktiver beskyttelse for dette websted">
 <!ENTITY trackingContentBlocked.block.label "Aktiver beskyttelse">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er  deaktiveret">
+<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er deaktiveret">
 
 
 
