@@ -13,7 +13,7 @@
 <!ENTITY aboutPrivateBrowsing.notPrivate            "Du befinder dig ikke i et privat vindue.">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo              "Selvom denne computer ikke vil gemme informationer om hvor du har været, så vil din internetudbyder eller arbejdsgiver stadig kunne følge hvilke sider du besøger.">
-<!ENTITY aboutPrivateBrowsing.learnMore             "Lær mere">
+<!ENTITY aboutPrivateBrowsing.learnMore             "Læs mere">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Åbn et privat vindue">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
