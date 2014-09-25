@@ -121,8 +121,8 @@
 <!ENTITY certs.auto.accesskey            "а">
 <!ENTITY certs.ask                       "Питати кожного разу">
 <!ENTITY certs.ask.accesskey             "к">
-<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.label                "Запитувати у серверів OCSP підтвердження поточного стану сертифікатів">
+<!ENTITY enableOCSP.accesskey            "п">
 <!ENTITY viewCerts.label                 "Перегляд сертифікатів">
 <!ENTITY viewCerts.accesskey             "с">
 <!ENTITY viewSecurityDevices.label       "Пристрої захисту">

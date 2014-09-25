@@ -102,8 +102,8 @@
 <!ENTITY nssFailure2.title "Не вдалось встановити безпечне з’єднання">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що неможливо підтвердити достовірність отриманих даних.</li>
+  <li>Зв'яжіться будь ласка з власниками веб-сайту, щоб повідомити їх про цю проблему.</li>
 </ul>
 ">
 
