@@ -8,7 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Procurar atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label                "Reiniciar e atualizar">
+<!ENTITY update.updateButton.label2               "Reiniciar e atualizar">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplicar atualização...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
