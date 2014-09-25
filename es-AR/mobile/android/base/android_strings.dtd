@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Elegir archivo">
 
-<!ENTITY url_bar_default_text "Ingresá búsqueda o dirección">
+<!ENTITY url_bar_default_text2 "Buscar o ingresar dirección">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador agregado">
@@ -175,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Borrar ahora">
 <!ENTITY pref_clear_private_data_category "Limpiar datos privados">
 <!ENTITY pref_clear_on_exit_title "Siempre limpiar al salir">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; limpiará automáticamente tus datos cuando elijás &quot;Salir&quot; del menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos cuando elijás \u0022Salir\u0022 del menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
@@ -204,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "El rápido zorro naranja salta sobre tus expectativas con más velocidad, más flexibilidad y más seguridad. Como no tenemos fines de lucro, somos libres de innovar en tu nombre sin ninguna presión que nos obligue. Esto genera una mejor experiencia para vos y un futuro más brillante para la web.">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_show_product_announcements "Mostrar anuncios de producto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
@@ -329,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Desplazar barra de título">
+<!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Oculta la barra de título de &brandShortName; cuando se desplace la página hacia abajo">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
