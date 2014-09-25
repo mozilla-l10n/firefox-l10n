@@ -11,15 +11,23 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "Келесі батырма үстіне">
+<!ENTITY profilerUI.emptyNotice2    "JavaScript функциялар шақыруларын жазу үшін шертіңіз.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "Келесі батырма үстіне">
+<!ENTITY profilerUI.stopNotice2    "профильдеуді тоқтату үшін қайта шертіңіз.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "Жүктелуде…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "JavaScript функциялар шақыруларын жазу.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -30,6 +38,8 @@
 <!ENTITY profilerUI.clearButton "Тазарту">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+
+<!ENTITY profilerUI.table.duration    "Уақыт (мс)">
 
 
 
