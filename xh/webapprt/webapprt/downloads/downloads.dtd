@@ -8,8 +8,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
+<!ENTITY starting.label                   "Iyaqalisa…">
 <!ENTITY scanning.label                   "Ihlola iivayirasi…">
 
+<!ENTITY downloads.title                  "#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Okukhutshelwayo
+#-#-#-#-#  downloads.dtd.po (PACKAGE VERSION)  #-#-#-#-#
+Okukhutshelweyo">
 
 <!ENTITY cmd.pause.label                  "Isiqabu">
 <!ENTITY cmd.pause.accesskey              "I">
