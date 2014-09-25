@@ -238,7 +238,7 @@ size. -->
 <!ENTITY share_image_failed "Neizdevās dalīties ar šo attēlu">
 <!ENTITY save_as_pdf "Saglabāt kā PDF">
 <!ENTITY find_in_page "Meklēt lapā">
-<!ENTITY desktop_mode "Izmantot lapu pilnās versijas">
+<!ENTITY desktop_mode "Lapu datora versijas">
 <!ENTITY tools "Rīki">
 <!ENTITY page "Lapa">
 <!ENTITY new_tab "Jauna cilne">
