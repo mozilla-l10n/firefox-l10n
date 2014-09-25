@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "L">
 <!ENTITY bookmarksToolbarItem.label "Lesezeichen-Symbole">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Alle Tabs neu laden">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lesezeichen für alle Tabs hinzufügen…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "h">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Geschlossenen Tab wiederherstellen">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "G">
+
 <!ENTITY pageSourceCmd.label "Seitenquelltext anzeigen">
 <!ENTITY pageSourceCmd.accesskey "q">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -259,6 +266,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "E">
 <!ENTITY devAppMgrMenu.label               "App-Manager">
 <!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "I">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Werkzeuge ein-/ausblenden">
@@ -688,6 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Standard wiederherstellen">
 <!ENTITY customizeMode.toolbars "Symbolleisten ein-/ausblenden">
 <!ENTITY customizeMode.titlebar "Titelleiste">
+<!ENTITY customizeMode.lwthemes "Themes">
+<!ENTITY customizeMode.lwthemes.myThemes "Installiert">
+<!ENTITY customizeMode.lwthemes.recommended "Empfehlungen">
+<!ENTITY customizeMode.lwthemes.menuManage "Verwalten">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "V">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Weitere Themes herunterladen">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "W">
 
 <!ENTITY social.chatBar.commandkey "C">
 <!ENTITY social.chatBar.label "Chats fokussieren">
@@ -702,11 +720,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Zugriff auf folgendes Mikrofon erlauben:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbaren Fenster auf dem Bildschirm werden weitergegeben.">
 
-<!ENTITY webrtcIndicatorButton.label "Zugriff auf Kamera / Mikrofon">
-<!ENTITY webrtcIndicatorButton.tooltip "Websites anzeigen, denen derzeit der Zugriff auf Kamera oder Mikrofon erlaubt ist">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "Die meisten Websites funktionieren ohne Probleme, auch wenn Inhalt blockiert wird.">
 
-<!ENTITY mixedContentBlocked.moreinfo "Die meisten Websites funktionieren auch, wenn diese Art Inhalt blockiert wird.">
+<!ENTITY mixedContentBlocked2.message "Unsicherer Inhalt">
+<!ENTITY mixedContentBlocked2.moreinfo "Einige unverschlüsselt übertragene Elemente dieser Webseite wurden blockiert.">
+<!ENTITY mixedContentBlocked2.learnMore "Weitere Informationen">
+<!ENTITY mixedContentBlocked2.options "Einstellungen">
+<!ENTITY mixedContentBlocked2.unblock.label "Schutz für den Moment aufheben">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "M">
+<!ENTITY mixedContentBlocked2.block.label "Schutz aktivieren">
+<!ENTITY mixedContentBlocked2.block.accesskey "a">
+<!ENTITY mixedContentBlocked2.disabled.message "Schutz ist deaktiviert">
+
+<!ENTITY trackingContentBlocked.message "Schutz vor Verfolgung von Aktivitäten">
+<!ENTITY trackingContentBlocked.moreinfo "Die Elemente der Seite, welche Ihre Online-Aktivitäten verfolgen, wurden blockiert.">
+<!ENTITY trackingContentBlocked.learnMore "Weitere Informationen">
+<!ENTITY trackingContentBlocked.options "Einstellungen">
+<!ENTITY trackingContentBlocked.unblock.label2 "Schutz vor Verfolgung von Aktivitäten für diese Website deaktivieren">
+<!ENTITY trackingContentBlocked.block.label "Schutz aktivieren">
+<!ENTITY trackingContentBlocked.disabled.message "Schutz vor Verfolgung von Aktivitäten ist aktiv">
 
 <!ENTITY pointerLock.notification.message "Der Mauszeiger kann jederzeit durch Drücken der ESC-Taste wieder angezeigt werden.">
 

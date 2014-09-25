@@ -11,18 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fehler: Verbindung fehlgeschlagen">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Fehler: Port aus Sicherheitsgründen blockiert">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fehler: Server nicht gefunden">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
     <strong>ww</strong>.example.com statt
     <strong>www</strong>.example.com</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung.
+    <button id='wifi'>WLAN aktivieren</button>
+  </li>
 </ul>
 ">
 
@@ -51,15 +53,17 @@
 ">
 
 <!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument erloschen">
-<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme ruft &brandShortName; nicht automatisch vertrauliche Dokumente erneut ab.</li><li>Klicken Sie &quot;Nochmal versuchen&quot;, um das Dokument erneut abzurufen.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fordert &brandShortName; nicht automatisch vertrauliche Dokumente erneut an.</li><li>Klicken Sie auf &quot;Nochmals versuchen&quot;, um das Dokument erneut anzufordern.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-Modus">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Probieren Sie es erneut. Es wird versucht, eine Verbindung zu öffnen und die Seite neu zu laden.</li>
+  <li>Probieren Sie es erneut. &brandShortName; wird versuchen, eine Verbindung zu öffnen und die Seite neu zu laden.
+    <button id='wifi'>WLAN aktivieren</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +82,10 @@
 ">
 
 <!ENTITY netReset.title "Fehler: Verbindung unterbrochen">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Fehler: Netzwerk-Zeitüberschreitung">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresse nicht erkannt">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -100,10 +104,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Fehler: Proxy-Server nicht gefunden">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.</li>
-  <li>Überprüfen Sie bitte, ob Ihr Gerät eine funktionierende Daten- oder WLAN-Verbindung hat</li>
+  <li>Überprüfen Sie bitte, ob Ihr Gerät eine funktionierende Daten- oder WLAN-Verbindung hat.
+    <button id='wifi'>WLAN aktivieren</button>
+  </li>
 </ul>
 ">
 
@@ -142,10 +148,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
-  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte später nochmals.</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung Ihres Geräts.</li>
+  <li>Die Website könnte vorübergehend nicht erreichbar oder überlastet sein, versuchen Sie es bitte später nochmals.</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung Ihres Geräts.
+    <button id='wifi'>WLAN aktivieren</button>
+  </li>
 </ul>
 ">
 

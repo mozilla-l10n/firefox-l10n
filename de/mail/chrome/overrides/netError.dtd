@@ -56,7 +56,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument erloschen">
-<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme ruft &brandShortName; nicht automatisch vertrauliche Dokumente erneut ab.</li><li>Klicken Sie &quot;Nochmal versuchen&quot;, um das Dokument erneut abzurufen.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fordert &brandShortName; nicht automatisch vertrauliche Dokumente erneut an.</li><li>Klicken Sie auf &quot;Nochmals versuchen&quot;, um das Dokument erneut anzufordern.</li></ul>">
 
 <!ENTITY netOffline.title "Fehler: Offline-Modus">
 <!ENTITY netOffline.longDesc2 "
