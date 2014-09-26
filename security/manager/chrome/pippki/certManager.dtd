@@ -27,14 +27,14 @@
 <!ENTITY certmgr.pending.label                "Наразі перевіряється сертифікат…">
 <!ENTITY certmgr.subjectinfo.label            "Кому видано">
 <!ENTITY certmgr.issuerinfo.label             "Ким видано">
-<!ENTITY certmgr.periodofvalidity.label       "Period of Validity" >
+<!ENTITY certmgr.periodofvalidity.label       "Термін дії" >
 <!ENTITY certmgr.fingerprints.label           "Відбитки">
 <!ENTITY certmgr.certdetail.title             "Подробиці сертифікату">
 <!ENTITY certmgr.certdetail.cn                "Загальне ім’я (CN)">
 <!ENTITY certmgr.certdetail.o                 "Організація (O)">
 <!ENTITY certmgr.certdetail.ou                "Організаційний підрозділ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Серійний номер">
-<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Fingerprint">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Відбиток SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
 
 <!ENTITY certmgr.editcert.title               "Зміна параметрів сертифікату">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Сервер">
 <!ENTITY certmgr.override_lifetime            "Час життя">
 <!ENTITY certmgr.tokenname                    "Пристрій захисту">
-<!ENTITY certmgr.begins                       "Begins On">
+<!ENTITY certmgr.begins                       "Починається">
 <!ENTITY certmgr.expires                      "Дійсний до">
 <!ENTITY certmgr.email                        "Адреса електронної пошти">
 <!ENTITY certmgr.serial                       "Серійний номер">
