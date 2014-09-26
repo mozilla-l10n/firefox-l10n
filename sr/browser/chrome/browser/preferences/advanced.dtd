@@ -101,8 +101,8 @@
 <!ENTITY useService.accesskey            "з">
 
 <!ENTITY updateOthers.label              "Аутоматски надогради:">
-<!ENTITY enableSearchUpdate.label        "Механизме претраге">
-<!ENTITY enableSearchUpdate.accesskey    "М">
+<!ENTITY enableSearchUpdate.label        "Претраживаче">
+<!ENTITY enableSearchUpdate.accesskey    "е">
 
 <!ENTITY offlineNotify.label             "Обавести ме када веб сајт затражи да смести податке за коришћење ван мреже">
 <!ENTITY offlineNotify.accesskey         "О">
