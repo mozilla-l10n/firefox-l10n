@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Nastavenia">
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
+<!ENTITY pref_category_customize_summary "Úvodná stránka, vyhľadávanie, karty, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Jazyk">
+<!ENTITY pref_category_language_summary "Zmena jazyka prehliadača">
 <!ENTITY pref_browser_locale "Jazyk prehliadača">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -116,8 +118,11 @@
 <!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
 <!ENTITY pref_category_display "Zobrazovanie">
+<!ENTITY pref_category_display_summary "Text, titulok okna, prehliadania v režime Na celú obrazovku">
 <!ENTITY pref_category_privacy_short "Súkromie">
+<!ENTITY pref_category_privacy_summary "Správa hesiel, cookies, sledovanie, údaje">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "O prehliadači &brandShortName;, často kladené otázky, údaje o používaní">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
 <!ENTITY pref_learn_more "Ďalšie informácie">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
@@ -132,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
+<!ENTITY pref_category_devtools_summary "Vzdialené ladenie, zvýrazňovanie prekresľovania">
 <!ENTITY pref_developer_paint_flashing "Zvýrazniť prekresľovanie">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
@@ -208,8 +214,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
+<!ENTITY pref_sync_summary "Synchronizácia kariet, záložiek, hesiel, histórie">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
+<!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
 <!ENTITY pref_private_data_history2 "História prehliadania">
 <!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
