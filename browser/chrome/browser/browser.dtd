@@ -771,4 +771,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label "Barraí Taoibh">
 
 <!ENTITY switchToMetroCmd2.label "Atosaigh &brandShortName; le haghaidh Windows 8 Touch">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc "Déan dearmad ar an tréimhse is déanaí:">
+<!ENTITY panicButton.view.5min "Cúig nóiméad">
+<!ENTITY panicButton.view.2hr "Dhá uair an chloig">
+<!ENTITY panicButton.view.day "24 uair an chloig">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc "Má théann tú ar aghaidh:">
+<!ENTITY panicButton.view.deleteCookies "Scriosfar na <html:strong>Fianáin</html:strong> is déanaí">
+<!ENTITY panicButton.view.deleteHistory "Scriosfar an <html:strong>Stair</html:strong> is déanaí">
+<!ENTITY panicButton.view.deleteTabsAndWindows "Dúnfar gach <html:strong>Cluaisín</html:strong> agus <html:strong>Fuinneog</html:strong>">
+<!ENTITY panicButton.view.openNewWindow "Oscail fuinneog ghlan nua">
+
+<!ENTITY panicButton.view.undoWarning "Ní féidir an gníomh seo a chur ar ceal.">
+<!ENTITY panicButton.view.forgetButton "Déan Dearmad!">
+
+<!ENTITY panicButton.thankyou.msg1 "Scriosadh an stair is déanaí.">
+<!ENTITY panicButton.thankyou.msg2 "Slán leat!">
+<!ENTITY panicButton.thankyou.buttonlabel "Go raibh maith agat!">
 
