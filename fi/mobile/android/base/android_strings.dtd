@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Valitse tiedosto">
 
-<!ENTITY url_bar_default_text "Kirjoita hakutermi tai osoite">
+<!ENTITY url_bar_default_text2 "Kirjoita haku tai osoite">
 
 <!ENTITY bookmark "Kirjanmerkki">
 <!ENTITY bookmark_added "Lisättiin kirjanmerkki">
