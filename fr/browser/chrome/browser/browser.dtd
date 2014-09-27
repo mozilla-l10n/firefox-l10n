@@ -768,3 +768,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label "Panneau latéral">
 <!ENTITY switchToMetroCmd2.label "Rouvrir avec &brandShortName; pour Windows 8 tactile">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Effacer :">
+<!ENTITY panicButton.view.5min                    "Les cinq dernières minutes">
+<!ENTITY panicButton.view.2hr                     "Les deux dernières heures">
+<!ENTITY panicButton.view.day                     "Les 24 dernières heures">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Poursuivre va :">
+<!ENTITY panicButton.view.deleteCookies           "Effacer les <html:strong>cookies</html:strong> récents">
+<!ENTITY panicButton.view.deleteHistory           "Effacer <html:strong>l'historique</html:strong> récent">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fermer tous les <html:strong>onglets</html:strong> et toutes les <html:strong>fenêtres</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Ouvrir une nouvelle fenêtre vierge">
+
+<!ENTITY panicButton.view.undoWarning             "Cette action est irréversible.">
+<!ENTITY panicButton.view.forgetButton            "Effacer">
+
+<!ENTITY panicButton.thankyou.msg1                "Votre historique récent a correctement été effacé.">
+<!ENTITY panicButton.thankyou.msg2                "Bonne navigation !">
+<!ENTITY panicButton.thankyou.buttonlabel         "Merci !">
