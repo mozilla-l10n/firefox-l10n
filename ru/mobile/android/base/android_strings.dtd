@@ -58,7 +58,9 @@
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
+<!ENTITY pref_category_customize_summary "Домашняя, поиск, вкладки, импорт">
 <!ENTITY pref_category_language "Язык">
+<!ENTITY pref_category_language_summary "Изменение языка вашего браузера">
 <!ENTITY pref_browser_locale "Язык браузера">
 <!ENTITY locale_system_default "Язык устройства">
 <!ENTITY overlay_share_label "Добавить в &brandShortName;">
@@ -74,8 +76,11 @@
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
+<!ENTITY pref_category_display_summary "Текст, заголовок окна, полноэкранный просмотр">
 <!ENTITY pref_category_privacy_short "Приватность">
+<!ENTITY pref_category_privacy_summary "Контроль паролей, кук, отслеживания, данных">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "О &brandShortName;, FAQ, выбор данных">
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_learn_more "Подробнее">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
@@ -85,7 +90,8 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!ENTITY pref_category_devtools_summary "Удалённый отладчик, подсветка прорисовки">
+<!ENTITY pref_developer_paint_flashing "Подсветка прорисовки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_category_home "Дом">
@@ -142,8 +148,10 @@
 <!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
+<!ENTITY pref_sync_summary "Синхронизация вкладок, закладок, паролей, истории">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
+<!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
 <!ENTITY pref_private_data_cookies2 "Куки и активные сеансы">
