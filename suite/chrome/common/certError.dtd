@@ -22,6 +22,10 @@ du kommit till rätt plats. Den här webbplatsens identitet kan däremot inte ve
 <!ENTITY certerror.whatShouldIDo.content "Om du vanligtvis utan problem ansluter
 till den här webbplatsen, kan det här felet tyda på att någon annan försöker
 utge webbplatsen för att vara den rätta, och du bör därför inte fortsätta.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denna webbplats använder HTTP
+Strict Transport Security (HSTS) för att se till att &brandShortName; bara ansluter 
+till den på ett säkert sätt. Därför är det inte möjligt att lägga in ett undantag för detta
+certifikat.">
 <!ENTITY certerror.getMeOutOfHere.label "Det låter illa, ta mig till min startsida i stället">
 
 <!ENTITY certerror.expert.heading "Jag förstår riskerna">
