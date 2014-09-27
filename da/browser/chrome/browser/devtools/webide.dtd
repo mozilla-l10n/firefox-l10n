@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Åbn app…">
 <!ENTITY projectMenu_selectApp_accesskey "Å">
 <!ENTITY projectMenu_play_label "Installer og kør">
-<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_play_accesskey "ø">
 <!ENTITY projectMenu_stop_label "Stop app">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Debug app">
@@ -104,7 +104,7 @@
 
 <!ENTITY prefs_options_rememberlastproject "Husk seneste projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Gendan forrige projekt når WebIDE starter">
-<!ENTITY prefs_options_templatesurl "Skabeloner URL">
+<!ENTITY prefs_options_templatesurl "URL til skabeloner">
 <!ENTITY prefs_options_templatesurl_tooltip "Indholdsfortegnelse over tilgængelige skabeloner">
 <!ENTITY prefs_options_showeditor "Vis editor">
 <!ENTITY prefs_options_showeditor_tooltip "Vis intern editor">
