@@ -11,18 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Yhteyden muodostus epäonnistui">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Osoitteen käyttö on rajoitettu">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Palvelinta ei löytynyt">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Tarkista osoite kirjoitusvirheiden varalta: esim. 
     <strong>ww</strong>.mozilla.org oikean muodon,
     <strong>www</strong>.mozilla.org, sijaan</li>
-  <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkon tila.</li>
+  <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkon tila.
+    <button id='wifi'>Aseta Wifi päälle</button>
+  </li>
 </ul>
 ">
 
@@ -51,15 +53,17 @@
 ">
 
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentti on vanhentunut">
 <!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu &brandShortName;in väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Yritä uudelleen. &brandShortName; yrittää avata yhteyden ja ladata sivun uudelleen.</li>
+  <li>Yritä uudelleen. &brandShortName; yrittää avata yhteyden ja ladata sivun uudelleen.
+    <button id='wifi'>Aseta Wifi päälle</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +82,10 @@
 ">
 
 <!ENTITY netReset.title "Yhteys keskeytyi">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Yhteyden aikakatkaisu">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Osoitetta ei ymmärretty">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -100,10 +104,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Välityspalvelinta ei löytynyt">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Tarkista, että välityspalvelinasetukset ovat oikein.</li>
-  <li>Varmista, että laitteen datayhteys tai langaton verkkoyhteys on toimintakunnossa.</li>
+  <li>Varmista, että laitteen datayhteys tai langaton verkkoyhteys on toimintakunnossa.
+    <button id='wifi'>Aseta Wifi päälle</button>
+  </li>
 </ul>
 ">
 
@@ -142,10 +148,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen alaisena. Yritä hetken kuluttua uudestaan.</li>
-  <li>Jos mitkään sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkkoyhteyden tila.</li>
+  <li>Jos mitkään sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkkoyhteyden tila.
+    <button id='wifi'>Aseta Wifi päälle</button>
+  </li>
 </ul>
 ">
 

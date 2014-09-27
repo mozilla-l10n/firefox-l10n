@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "V">
 <!ENTITY certs.ask                       "Kysy joka kerta">
 <!ENTITY certs.ask.accesskey             "K">
+<!ENTITY enableOCSP.label                "Vahvista varmenteiden ajantasainen voimassaolo OCSP-vastaajapalvelimilta">
+<!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY viewCertificates.label         "Näytä varmenteet">
 <!ENTITY viewCertificates.accesskey     "N">
-<!ENTITY validation.label               "Kelpuutus">
-<!ENTITY validation.accesskey           "K">
 <!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">
 <!ENTITY viewSecurityDevices.accesskey  "T">

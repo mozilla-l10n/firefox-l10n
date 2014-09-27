@@ -112,7 +112,7 @@
 <!ENTITY styleStrikeThruCmd.label "Yliviivattu">
 <!ENTITY styleStrikeThruCmd.accesskey "Y">
 <!ENTITY styleSuperscriptCmd.label "Yläindeksi">
-<!ENTITY styleSuperscriptCmd.accesskey "o">
+<!ENTITY styleSuperscriptCmd.accesskey "ä">
 <!ENTITY styleSubscriptCmd.label "Alaindeksi">
 <!ENTITY styleSubscriptCmd.accesskey "a">
 <!ENTITY styleNonbreakingCmd.label "Katkeamaton">
@@ -126,7 +126,7 @@
 <!ENTITY styleAbbr.label "Lyhenne">
 <!ENTITY styleAbbr.accesskey "h">
 <!ENTITY styleAcronym.label "Lyhennesana">
-<!ENTITY styleAcronym.accesskey "u">
+<!ENTITY styleAcronym.accesskey "y">
 <!ENTITY styleCode.label "Koodi">
 <!ENTITY styleCode.accesskey "d">
 <!ENTITY styleSamp.label "Esimerkkiteksti">
