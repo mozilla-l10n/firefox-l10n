@@ -8,45 +8,45 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Starting…">
-<!ENTITY scanning.label                   "Scanning for viruses…">
+<!ENTITY starting.label                   "Починаю…">
+<!ENTITY scanning.label                   "Перевіряю на віруси…">
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "Завантаження">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "Open Containing Folder">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.pause.label                  "Пауза">
+<!ENTITY cmd.pause.accesskey              "П">
+<!ENTITY cmd.resume.label                 "Відновити">
+<!ENTITY cmd.resume.accesskey             "В">
+<!ENTITY cmd.cancel.label                 "Скасувати">
+<!ENTITY cmd.cancel.accesskey             "С">
+<!ENTITY cmd.show.label                   "Відкрити папку розташування">
+<!ENTITY cmd.show.accesskey               "р">
 <!ENTITY cmd.showMac.label                "Show in Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Open">
-<!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "Open With…">
-<!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.open.label                   "Відкрити">
+<!ENTITY cmd.open.accesskey               "О">
+<!ENTITY cmd.openWith.label               "Відкрити за допомогою…">
+<!ENTITY cmd.openWith.accesskey           "д">
+<!ENTITY cmd.retry.label                  "Повторити">
+<!ENTITY cmd.retry.accesskey              "т">
+<!ENTITY cmd.goToDownloadPage.label       "Перейти на сторінку завантаження">
+<!ENTITY cmd.goToDownloadPage.accesskey   "з">
+<!ENTITY cmd.copyDownloadLink.label       "Копіювати посилання для завантаження">
+<!ENTITY cmd.copyDownloadLink.accesskey   "К">
+<!ENTITY cmd.removeFromList.label         "Прибрати зі списку">
+<!ENTITY cmd.removeFromList.accesskey     "р">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
-<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.clearList.label              "Очистити список">
+<!ENTITY cmd.clearList.tooltip            "Прибирає завершені, скасовані та невдалі завантаження зі списку">
+<!ENTITY cmd.clearList.accesskey          "ч">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Close when downloads complete">
-<!ENTITY closeWhenDone.tooltip            "Closes the Downloads window when all files are done downloading">
+<!ENTITY closeWhenDone.label              "Закрити коли завантаження завершиться">
+<!ENTITY closeWhenDone.tooltip            "Закриває вікно завантажень, коли завантаження всіх файлів завершено">
 
-<!ENTITY showFolder.label                 "Show this Folder">
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY showFolder.label                 "Показати цю папку">
+<!ENTITY searchBox.label                  "Пошук…">
