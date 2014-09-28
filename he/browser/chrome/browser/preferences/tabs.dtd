@@ -22,3 +22,5 @@
 
 <!ENTITY showTabsInTaskbar.label          "הצג תצוגה מקדימה של לשוניות בסרגל המשימות של Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "ת">
+
+<!ENTITY tabsGroup.label          "לשוניות">
