@@ -554,3 +554,17 @@
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY switchToMetroCmd2.label "Relanzar en &brandShortName; para Windows 8 táctil">
+<!ENTITY panicButton.view.mainTimeframeDesc "Olvidar los/as últimos/as">
+<!ENTITY panicButton.view.5min "cinco minutos">
+<!ENTITY panicButton.view.2hr "dos horas">
+<!ENTITY panicButton.view.day "24 horas">
+<!ENTITY panicButton.view.mainActionDesc "Si continúa,">
+<!ENTITY panicButton.view.deleteCookies "se eliminarán las <html:strong>cookies</html:strong> recientes">
+<!ENTITY panicButton.view.deleteHistory "se eliminará el <html:strong>historial</html:strong> reciente">
+<!ENTITY panicButton.view.deleteTabsAndWindows "se cerrarán todas las <html:strong>pestañas</html:strong> y <html:strong>ventanas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow "abrirá una ventana nueva limpia">
+<!ENTITY panicButton.view.undoWarning "Esta acción no se puede deshacer.">
+<!ENTITY panicButton.view.forgetButton "¡Olvidar!">
+<!ENTITY panicButton.thankyou.msg1 "Se ha eliminado su historial reciente.">
+<!ENTITY panicButton.thankyou.msg2 "¡Navegación segura!">
+<!ENTITY panicButton.thankyou.buttonlabel "¡Gracias!">
