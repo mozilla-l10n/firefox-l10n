@@ -29,7 +29,7 @@
 <!ENTITY runFilters.label "Ejecutar ahora">
 <!ENTITY runFilters.accesskey "r">
 <!ENTITY stopFilters.label "Parar">
-<!ENTITY stopFilters.accesskey "S">
+<!ENTITY stopFilters.accesskey "P">
 <!ENTITY folderPickerPrefix.label "Ejecutar los filtros seleccionados en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Ayuda">

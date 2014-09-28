@@ -119,11 +119,11 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Chat">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "h">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
