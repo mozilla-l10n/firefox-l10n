@@ -11,6 +11,7 @@
 <!ENTITY  bookmarks_title "Bokmerke">
 <!ENTITY  history_title "Historikk">
 <!ENTITY  reading_list_title "Leseliste">
+<!ENTITY  recent_tabs_title "Nylege faner">
 
 <!ENTITY  switch_to_tab "Byt til fane">
 
@@ -43,8 +44,8 @@
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
-<!ENTITY history_week_section "7 dagar sidan">
-<!ENTITY history_older_section "Eldre enn 7 dagar">
+<!ENTITY history_week_section2 "Sist veke">
+<!ENTITY history_older_section2 "Sist månad">
 
 <!ENTITY go "Gå">
 <!ENTITY search "Søk">
@@ -62,11 +63,28 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; faner">
 <!ENTITY new_tab_opened "Ny fane opna">
+<!ENTITY new_private_tab_opened "Ny privat fane opna">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "BYT">
 
 <!ENTITY settings "Innstillingar">
 <!ENTITY settings_title "Innstillingar">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Språk">
+<!ENTITY pref_browser_locale "Nettlesarspråk">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Systemstandard">
+
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary "Tilpass søkjetilbydarar">
 <!ENTITY pref_category_display "Vising">
@@ -86,29 +104,32 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Legg til ein nettstad som søkjetilbydar ved å lang-trykkje på søkjefeltet og deretter velja &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utvklarverktøy">
+<!ENTITY pref_developer_paint_flashing "Markering av skjermteikning">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_remember_signons "Hugs passord">
 
 <!ENTITY pref_category_home "Heim">
 <!ENTITY pref_category_home_summary "Tilpass startsida.">
 <!ENTITY pref_category_home_panels "Panel">
-<!ENTITY pref_home_add_panel "Leggt il panel">
 <!ENTITY home_add_panel_title "Legg til nytt panel">
-<!ENTITY home_add_panel_empty "Orsak, me klarte ikkje å finna panel som kan leggjast til.">
+<!ENTITY home_add_panel_empty "Beklagar, me klarte ikkje å finna panel som kan leggjast til.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\'&formatS;\' lagt til på startsida">
 <!ENTITY pref_category_home_content_settings "Innhaldsinnstillingar">
 <!ENTITY pref_home_updates "Automatiske oppdateringar">
-<!ENTITY pref_home_updates_enabled "slått på">
+<!ENTITY pref_home_updates_enabled "Slått på">
 <!ENTITY pref_home_updates_wifi "Berre med Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Vis nettstadsforslag">
+<!ENTITY pref_home_suggested_sites_summary "Viser snarvegar til nettstadar på startsida di som me trur du kan synast er interessante">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpass">
 <!ENTITY pref_header_display "Vis">
 <!ENTITY pref_header_privacy_short "Personvern">
 <!ENTITY pref_header_help "Hjelp">
+<!ENTITY pref_header_language "Språk">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Utviklarverktøy">
 
@@ -125,7 +146,11 @@
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
-<!ENTITY pref_clear_private_data "Slett private data">
+<!ENTITY pref_clear_private_data2 "Tøm no">
+<!ENTITY pref_clear_private_data_category "Slett private data">
+<!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutting">
+<!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk sletta dataa dine når du vel «Avslutt» frå hovudmenyen">
+<!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spela av">
@@ -216,6 +241,9 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Aldri">
 <!ENTITY pref_update_autodownload_always "Alltid">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Hjelp">
+
 <!ENTITY quit "Avslutt">
 
 <!ENTITY addons "Utvidingar">
@@ -234,6 +262,7 @@ size. -->
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lukk alle faner">
+<!ENTITY close_private_tabs "Lukk privat fane">
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
@@ -256,7 +285,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Opna i ny fane">
 <!ENTITY contextmenu_open_private_tab "Opna i privat fane">
-<!ENTITY contextmenu_open_in_reader "Opna i Reader">
 <!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
 <!ENTITY contextmenu_share "Del">
@@ -279,7 +307,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Rullering av tittellinje">
 
-<!ENTITY history_removed "Sida fjerna">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Sida fjerna">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Namn">
@@ -294,7 +325,6 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerne.">
 
 <!ENTITY reading_list_added "Sida er lagt til i leselista">
-<!ENTITY reading_list_removed "Sida er fjerna frå leselista">
 <!ENTITY reading_list_failed "Klarte ikkje å leggja til sida i leselista">
 <!ENTITY reading_list_duplicate "Sida er allereie i leselista">
 
@@ -321,11 +351,13 @@ size. -->
 <!ENTITY home_top_sites_add "Legg til nettstad">
 
 <!ENTITY home_history_title "Historikk">
+<!ENTITY home_clear_history_button "Slett nettlesarhistorikk">
+<!ENTITY home_clear_history_confirm "Er du viss på at du vil sletta historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
+<!ENTITY home_closed_tabs_title "Nyleg lukka faner">
 <!ENTITY home_last_tabs_title "Faner frå førre gong">
-<!ENTITY home_last_tabs_open "Opna alle faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
-<!ENTITY home_most_recent_title "Nyleg brukt">
+<!ENTITY home_open_all "Opna alle">
 <!ENTITY home_most_recent_empty "Nettstad som du sist vitja vert vist her.">
 <!ENTITY home_reading_list_empty "Artiklar du lagrar for seinare vert viste her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -344,6 +376,10 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Opp til &formatS;">
+
+<!ENTITY private_browsing_title "Privat nettlesing">
+<!ENTITY private_tabs_panel_empty_desc "Dine private faner vert viste her. Sjølv om nettlesarhistorikk eller infokapslar ikkje vert lagra, vil bokmerke og filer du lastar ned framleis lagrast på eininga.">
+<!ENTITY private_tabs_panel_learn_more "Vil du lesa meir?">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn eit søkjeord">
 
@@ -434,3 +470,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meny">
 <!ENTITY actionbar_done "Ferdig">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Sist synkronisert: &formatS;">
