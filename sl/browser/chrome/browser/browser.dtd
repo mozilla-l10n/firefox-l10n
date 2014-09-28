@@ -748,3 +748,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "Ponovno zaženi kot &brandShortName; za Windows 8 Touch">
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Pozabi:">
+<!ENTITY panicButton.view.5min                    "Zadnjih pet minut">
+<!ENTITY panicButton.view.2hr                     "Zadnji dve uri">
+<!ENTITY panicButton.view.day                     "Zadnjih 24 ur">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Če nadaljujete, boste:">
+<!ENTITY panicButton.view.deleteCookies           "Izbrisali nedavne <html:strong>piškotke</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Izbrisali nedavno <html:strong>zgodovino</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Zaprli vse <html:strong>zavihke</html:strong> in vsa <html:strong>okna</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Odprli novo prazno okno">
+
+<!ENTITY panicButton.view.undoWarning             "Tega dejanja ni mogoče razveljaviti.">
+<!ENTITY panicButton.view.forgetButton            "Pozabi!">
+
+<!ENTITY panicButton.thankyou.msg1                "Vsa nedavna zgodovina je izbrisana.">
+<!ENTITY panicButton.thankyou.msg2                "Varno brskanje!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Hvala!">
+
