@@ -7,7 +7,7 @@
 <!ENTITY viewPicker.label "Ver:">
 <!ENTITY viewPicker.accesskey "V">
 <!ENTITY viewAll.label "Todos">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "o">
 <!ENTITY viewUnread.label "No leídos">
 <!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "No Borrados">

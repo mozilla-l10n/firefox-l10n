@@ -37,7 +37,7 @@
 <!ENTITY smiley10Cmd.accesskey "o">
 <!ENTITY smiley10Cmd.tooltip "Insertar una cara gritona">
 <!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley11Cmd.accesskey "y">
+<!ENTITY smiley11Cmd.accesskey "l">
 <!ENTITY smiley11Cmd.tooltip "Insertar una cara cool">
 <!ENTITY smiley12Cmd.label "Dinero en la boca">
 <!ENTITY smiley12Cmd.accesskey "D">

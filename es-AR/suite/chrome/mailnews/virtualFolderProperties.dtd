@@ -12,7 +12,7 @@
 
 <!ENTITY folderSelectionCaption.label "Seleccionar las carpetas en las que buscar:">
 <!ENTITY chooseFoldersButton.label "Elegir…">
-<!ENTITY chooseFoldersButton.accesskey "h">
+<!ENTITY chooseFoldersButton.accesskey "E">
 
 <!ENTITY searchOnline.label "Buscar en línea (da resultados actualizados de carpetas IMAP y de noticias, pero aumenta el tiempo de apertura de la carpeta)">
 <!ENTITY searchOnline.accesskey "o">

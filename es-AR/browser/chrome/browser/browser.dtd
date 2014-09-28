@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserConsoleCmd.label      "Consola del navegador">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.accesskey  "C">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "o">
