@@ -76,11 +76,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਆਈਟਮਾਂ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reload All Tabs">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ਸਭ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bookmark All Tabs…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "…ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Undo Close Tab">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਿਸ ਲਵੋ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 
@@ -629,7 +629,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "…ਇਸ ਪੇਜ਼ ਉੱਤੇ ਲੱਭੋ">
+<!ENTITY findOnCmd.label     "…ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਲੱਭੋ">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ਮੁੜ ਖੋਜ">
@@ -757,7 +757,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
 <!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Most websites will work properly even if content is blocked.">
+<!ENTITY badContentBlocked.moreinfo "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਸਮਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਦੇ ਬਾਵਜੂਦ ਵੀ ਠੀਕ ਤਰ੍ਹਾਂ ਚੱਲਣਗੀਆਂ।">
 
 <!ENTITY mixedContentBlocked2.message "ਅਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ">
 <!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
@@ -770,12 +770,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ">
 
 
-<!ENTITY trackingContentBlocked.message "Tracking">
+<!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਘ">
 <!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
-<!ENTITY trackingContentBlocked.learnMore "Learn More">
-<!ENTITY trackingContentBlocked.options "Options">
+<!ENTITY trackingContentBlocked.learnMore "ਹੋਰ ਜਾਣੋ">
+<!ENTITY trackingContentBlocked.options "ਚੋਣਾਂ">
 <!ENTITY trackingContentBlocked.unblock.label2 "Disable protection for this site">
-<!ENTITY trackingContentBlocked.block.label "Enable protection">
+<!ENTITY trackingContentBlocked.block.label "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
 <!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
