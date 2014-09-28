@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Tilbakestill til standard">
-<!ENTITY customizeMode.toolbars "Vis/skjul verktøylinjer">
+<!ENTITY customizeMode.toolbars "Vis/Gøym verktøylinjer">
 <!ENTITY customizeMode.titlebar "Tittellinje">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -749,4 +749,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Sidestolpar">
 
 <!ENTITY switchToMetroCmd2.label       "Opna på nytt i &brandShortName; for Windows 8 Touch">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Gløym dei siste:">
+<!ENTITY panicButton.view.5min                    "Fem minutta">
+<!ENTITY panicButton.view.2hr                     "To timane">
+<!ENTITY panicButton.view.day                     "24 timane">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Om du held fram vil:">
+<!ENTITY panicButton.view.deleteCookies           "Nyleg oppretta <html:strong>infokapslar</html:strong> slettast">
+<!ENTITY panicButton.view.deleteHistory           "Nyleg <html:strong>historikk</html:strong> slettast">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukk alle <html:strong>faner</html:strong> og <html:strong>Windows</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Opna eit nytt, friskt vindauge">
+
+<!ENTITY panicButton.view.undoWarning             "Denne handlinga kan ikkje angrast.">
+<!ENTITY panicButton.view.forgetButton            "Gløym!">
+
+<!ENTITY panicButton.thankyou.msg1                "Nyleg nettlesarhistorikk er sletta.">
+<!ENTITY panicButton.thankyou.msg2                "Trygg nettlesing!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Takk!">
 
