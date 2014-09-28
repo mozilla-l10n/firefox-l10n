@@ -754,8 +754,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 <!ENTITY panicButton.view.mainTimeframeDesc       "Glem de siste:">
-<!ENTITY panicButton.view.5min                    "Fem minuttene">
-<!ENTITY panicButton.view.2hr                     "To minuttene">
+<!ENTITY panicButton.view.5min                    "Fem minutter">
+<!ENTITY panicButton.view.2hr                     "To timene">
 <!ENTITY panicButton.view.day                     "24 timer">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
