@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+<!ENTITY getUserMediaDialog.title                   "שיתוף מדיה">
+<!ENTITY getUserMediaDialog.button.accept.label     "שיתוף">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "ש">
+<!ENTITY getUserMediaDialog.button.cancel.label     "ביטול">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "ב">
+
+<!ENTITY getUserMediaDialog.video.label             "בחירת מצלמה">
+<!ENTITY getUserMediaDialog.video.noVideo           "אין וידאו">
+<!ENTITY getUserMediaDialog.audio.label             "בחירת מיקרופון">
+<!ENTITY getUserMediaDialog.audio.noAudio           "אין אודיו">
