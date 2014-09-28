@@ -749,3 +749,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Prøv igen">
 
 <!ENTITY uiTour.infoPanel.close "Luk">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Glem de seneste:">
+<!ENTITY panicButton.view.5min                    "Fem minutter">
+<!ENTITY panicButton.view.2hr                     "To timer">
+<!ENTITY panicButton.view.day                     "24 timer">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Handlingen vil:">
+<!ENTITY panicButton.view.deleteCookies           "Slette seneste <html:strong>cookies</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Slette seneste <html:strong>historik</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukke alle <html:strong>faneblade</html:strong> og <html:strong>vinduer</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Åbne et nyt rent vindue">
+
+<!ENTITY panicButton.view.undoWarning             "Denne handling kan ikke fortrydes.">
+<!ENTITY panicButton.view.forgetButton            "Glem!">
+
+<!ENTITY panicButton.thankyou.msg1                "Din seneste historik er ryddet.">
+<!ENTITY panicButton.thankyou.msg2                "Sikker surfing!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Tak!">
