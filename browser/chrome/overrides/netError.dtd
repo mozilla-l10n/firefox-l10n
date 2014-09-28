@@ -80,6 +80,15 @@
 <!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>
+    ייתכן שצריך להתקין יישום אחר כדי לגשת לכתובת זו.
+  </li>
+</ul>
+">
+
 <!ENTITY protocolNotFound.title "פרוטוקול לא מוכר">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
@@ -118,6 +127,16 @@
 ">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>
+    דף זה לא ניתן להצגה כי לא ניתן לאמת את מהיימנות הנתונים שהתקבלו.
+  </li>
+  <li>
+    נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.
+  </li>
+</ul>
+">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>האתר שאתה מנסה לגשת אליו לא ניתן להצגה כי לא ניתן לוודא את האותנטיות של המידע שהתקבל.</li>
