@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Vevinnhald">
 
+<!ENTITY keepHistory.label "Hugs nettsider og lenker eg har besøkt">
+<!ENTITY keepHistory.accesskey "H">
 <!ENTITY acceptCookies.label "Tillat infokapslar frå nettstadar">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Tillat tredjeparts infokapslar:">

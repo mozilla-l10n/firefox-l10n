@@ -11,13 +11,13 @@
 <!ENTITY inline.label                         "Innebygd">
 <!ENTITY asAttachment.label                   "Som vedlegg">
 <!ENTITY addExtension.label                   "legg til filtype i filnamnet">
-<!ENTITY addExtension.accesskey               "e">
+<!ENTITY addExtension.accesskey               "L">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">
-<!ENTITY font.accesskey                       "p">
-<!ENTITY size.label                           "Størrelse:">
-<!ENTITY size.accesskey                       "ø">
+<!ENTITY font.accesskey                       "S">
+<!ENTITY size.label                           "Storleik:">
+<!ENTITY size.accesskey                       "o">
 <!ENTITY fontColor.label                      "Tekstfarge:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">
@@ -25,24 +25,24 @@
 <!ENTITY restoreHTMLDefaults.label            "Bruk standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "d">
 
-<!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sende">
-<!ENTITY spellCheck.accesskey                 "K">
-<!ENTITY spellCheckInline.label               "Kontroller staving medan du skriv">
-<!ENTITY spellCheckInline1.accesskey          "k">
+<!ENTITY spellCheck.label                     "Stavekontroll før meldingar vert sende">
+<!ENTITY spellCheck.accesskey                 "S">
+<!ENTITY spellCheckInline.label               "Stavekontroller medan du skriv">
+<!ENTITY spellCheckInline1.accesskey          "a">
 <!ENTITY languagePopup.label                  "Språk:">
-<!ENTITY languagePopup.accessKey              "S">
+<!ENTITY languagePopup.accessKey              "k">
 <!ENTITY downloadDictionaries.label           "Last ned fleire ordbøker">
 
 <!ENTITY warnOnSendAccelKey.label             "Stadfest når tastatursnarveg vert brukt for å sende meldingar">
-<!ENTITY warnOnSendAccelKey.accesskey         "S">
+<!ENTITY warnOnSendAccelKey.accesskey         "f">
 <!ENTITY autoSave.label                       "Lagre meldingar automatisk kvart">
 <!ENTITY autoSave.accesskey                   "L">
 <!ENTITY autoSaveEnd.label                    "minutt">
 
 <!ENTITY emailCollectionPicker.label           "Automatisk legg utgåande e-postadresser til i:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
-<!ENTITY autocompleteText.label                "Ved adressering av meldingar, sjå etter samsvarande adresser i">
+<!ENTITY addressingTitle.label                 "Automatisk fullføring av adresser">
+<!ENTITY autocompleteText.label                "Ved adressering av meldingar, sjå etter treff i:">
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Katalogtenar:">
@@ -53,9 +53,9 @@
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillingar …">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptions.accesskey                 "n">
 
-<!ENTITY attachmentReminder.label              "Kontroller for manglande vedlegg">
-<!ENTITY attachmentReminder.accesskey          "o">
+<!ENTITY attachmentReminder.label              "Åtvar dersom vedlegg manglar">
+<!ENTITY attachmentReminder.accesskey          "Å">
 <!ENTITY attachmentReminderOptions.label       "Nøkkelord …">
 <!ENTITY attachmentReminderOptions.accesskey   "N">
