@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "اقطع الاتصال">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "اعرض">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "الوصف">
+<!ENTITY details_location "المكان">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "أغلق">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "افتح مدير الإضافات">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "عام">
+<!ENTITY prefs_restore "استعد الإعدادات المبدئية">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "الاسم">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "مساعدة">
