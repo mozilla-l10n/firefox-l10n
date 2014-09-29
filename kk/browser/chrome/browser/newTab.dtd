@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Жаңа бет">
-
-
-
-
-
-
+<!ENTITY newtab.customize.title "Жаңа бет парағын баптау">
+<!ENTITY newtab.customize.enhanced "Кеңейтілген">
+<!ENTITY newtab.customize.classic "Классикалық">
+<!ENTITY newtab.customize.blank "Бос">
+<!ENTITY newtab.customize.what "Бұл парақ не?">
+<!ENTITY newtab.intro.header "Бұл парақ не?">
 <!ENTITY newtab.undo.removedLabel "Кіші көрініс өшірілді.">
 <!ENTITY newtab.undo.undoButton "Болдырмау.">
 <!ENTITY newtab.undo.restoreButton "Барлығын қалпына келтіру.">
