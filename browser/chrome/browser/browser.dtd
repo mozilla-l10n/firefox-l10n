@@ -745,7 +745,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY trackingContentBlocked.unblock2.label "Deshabilitar protección para este sitio">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Habilitar protección">
-<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de rastreo está deshabilitada">
 
 <!ENTITY pointerLock.notification.message "Pulse ESC en cualquier momento para mostrarlo nuevamente.">
@@ -773,4 +772,29 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 
 <!ENTITY switchToMetroCmd2.label       "Reiniciar en &brandShortName; para Windows 8 Táctil">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Olvidar los últimos:">
+<!ENTITY panicButton.view.5min                    "Cinco minutos">
+<!ENTITY panicButton.view.2hr                     "Dos horas">
+<!ENTITY panicButton.view.day                     "24 horas">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Al continuar se:">
+<!ENTITY panicButton.view.deleteCookies           "Borrarán <html:strong>cookies</html:strong> recientes">
+<!ENTITY panicButton.view.deleteHistory           "Borrará <html:strong>historial</html:strong> reciente">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Cerrarán todas las <html:strong>pestañas</html:strong> y <html:strong>ventanas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Abrir una nueva ventana limpia">
+
+<!ENTITY panicButton.view.undoWarning             "Esta acción no puede deshacerse.">
+<!ENTITY panicButton.view.forgetButton            "¡Olvidar!">
+
+<!ENTITY panicButton.thankyou.msg1                "El historial reciente se ha limpiado.">
+<!ENTITY panicButton.thankyou.msg2                "¡Navegación segura!">
+<!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
 
