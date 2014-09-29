@@ -73,3 +73,63 @@
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "מסוף רשת">
+
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "הצגת חותמות זמן">
+<!ENTITY options.timestampMessages.tooltip    "הפעלת אפשרות זו תציג חותמות זמן בפקודות ובפלט במסוף הרשת">
+
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "עורך סגנון">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "הצגת מקור">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "הצגת קבצי המקור (למשל קבצי Sass) בעורך הסגנון ובמפקח">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "השלמה אוטומטית של CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "השלמה אוטומטית של מאפייני CSS, ערכים ובוררים בעורך הסגנון תוך כדי הקלדה">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "מאבחן JavaScript">
+
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!ENTITY options.commonPrefs.label           "העדפות כלליות">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogs.label    "לאפשר רישום קבוע">
+<!ENTITY options.enablePersistentLogs.tooltip  "אפשרות זו תגרום למסוף הרשת ולצג הרשת לא למחוק את הפלט בכל פעם שהדפדפן עובר לדף חדש">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "הצגת נתוני סביבת Gecko">
+<!ENTITY options.showPlatformData.tooltip  "אפשרות זו תגרום לדיווחי מאבחן ה־JavaScript להכיל גם סמלי סביבת Gecko">
+
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+<!ENTITY options.sourceeditor.label                     "העדפות עורך">
+<!ENTITY options.sourceeditor.detectindentation.label   "לזהות הזחה">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "לנחש הזחה לפי תוכן קוד המקור">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "סגירת סוגריים אוטומטית">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "להכניס את סגירת הסוגריים באופן אוטומטי">
+<!ENTITY options.sourceeditor.expandtab.label           "הזחה עם רווחים">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "להשתמש ברווחים במקום תווי Tab">
+<!ENTITY options.sourceeditor.tabsize.label             "גודל Tab">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "ג">
+<!ENTITY options.sourceeditor.keybinding.label          "קיצורי מקשים">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "ק">
+<!ENTITY options.sourceeditor.keybinding.default.label  "בררת מחדל">
