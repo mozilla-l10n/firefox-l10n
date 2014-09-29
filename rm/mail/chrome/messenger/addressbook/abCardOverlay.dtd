@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "betg enconuschent">
 <!ENTITY chatName.label                 "Num da chat:">
 
-<!ENTITY allowRemoteContent1.label      "Permetter cuntegn extern.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En messadis HTML pon esser incorporads cuntegns da funtaunas externas. Cun mussar quests messadis vegn stabilì ina connexiun ad ina funtauna externa. En questa moda po vegnir verifitgà ch'il messadi vegn legì. Cun activar questa opziun permettas ti da chargiar cuntegns da funtaunas externas da quest speditur.">
-
 <!ENTITY WorkPhone.label                "Lavur:">
 <!ENTITY WorkPhone.accesskey            "L">
 <!ENTITY HomePhone.label                "Chasa:">

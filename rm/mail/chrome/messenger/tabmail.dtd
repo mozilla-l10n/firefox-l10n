@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Serrar il tab">
 <!ENTITY  listAllTabs.label        "Far ina glista cun tut ils tabs">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Partenza">

@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Restaurar il standard">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animar il simbol da dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Midar las preferenzas per l'icona da l'applicaziun">
+<!ENTITY dockOptions.label                "Preferenzas per l'icona da l'applicaziun…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Sche in nov messadi arriva:">
 <!ENTITY playSound.label                  "Far ir in tun">
@@ -20,6 +21,9 @@
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY customizeMailAlert.label         "Modifitgar…">
 <!ENTITY customizeMailAlert.accesskey     "M">
+
+<!ENTITY showTrayIcon.label               "Mussar ina icona en il tray">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Fa ir">
 <!ENTITY play.accesskey                   "i">

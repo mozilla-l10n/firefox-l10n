@@ -57,6 +57,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nov tab">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Avrir in lieu…">
 <!ENTITY openFileCmd.label "Avrir la datoteca…">
 <!ENTITY openFileCmd.accesskey "d">
 <!ENTITY openFileCmd.commandkey "o">
@@ -106,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnectar cun &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a  sincronisar.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a sincronisar.">
 <!ENTITY syncErrorPanel.heading "Impussibel da connectar cun &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "T'annunzia per cuntinuar da sincronisar.">
 <!ENTITY syncErrorPanel.signInButton.label "S'annunziar">
@@ -155,18 +159,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
 
 <!ENTITY backCmd.label                "Enavos">
-<!ENTITY backCmd.accesskey            "E">
 <!ENTITY backButton.tooltip           "Ina pagina enavos">
 <!ENTITY forwardCmd.label             "Enavant">
-<!ENTITY forwardCmd.accesskey         "v">
 <!ENTITY forwardButton.tooltip        "Ina pagina enavant">
 <!ENTITY backForwardButtonMenu.tooltip "Cliccar cun la tasta dretga da la mieur u tegnair smatgà per vesair la cronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tegnair smatgà per vesair la cronologia">
 <!ENTITY reloadCmd.label              "Chargiar danovamain">
-<!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Chargiar danovamain la pagina actuala">
 <!ENTITY stopCmd.label                "Stop">
-<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Interrumper da chargiar questa pagina">
 <!ENTITY goEndCap.tooltip             "Chargiar l'adressa endatada en la trav d'adressas">
@@ -205,7 +205,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "s">
 
 <!ENTITY downloads.label              "Telechargiadas">
-<!ENTITY downloads.tooltip            "Mussa il progress da las telechargiadas actualas">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -237,6 +236,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Vista da design adaptiv">
 <!ENTITY responsiveDesignTool.accesskey "a">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.accesskey "Y">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -445,14 +447,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Configurar sco culissa…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "a">
 <!ENTITY bookmarkPageCmd2.label       "Agiuntar in segnapagina per la pagina">
-<!ENTITY bookmarkPageCmd2.accesskey   "A">
 <!ENTITY bookmarkThisLinkCmd.label      "Agiuntar in segnapagina per la colliaziun">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agiuntar in segnapagina per il frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY emailPageCmd.label           "Trametter la colliaziun per e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "Reaviar &brandShortName; en il stil da Windows 8">
 <!ENTITY savePageCmd.label            "Memorisar la pagina sut…">
 <!ENTITY savePageCmd.accesskey        "u">
 <!-- alternate for content area context menu -->
@@ -569,11 +569,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Avra in nov tab">
-<!ENTITY newWindowButton.tooltip        "Avra ina nova fanestra">
 <!ENTITY sidebarCloseButton.tooltip     "Serrar la trav laterala">
-
-<!ENTITY fullScreenButton.tooltip       "Mussar la fanestra a visur entir">
 
 <!ENTITY quitApplicationCmdWin.label       "Terminar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "T">
@@ -749,49 +745,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY uiTour.infoPanel.close "Serrar">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
-	 
-<!ENTITY navbarCmd.accesskey "n">
-<!ENTITY addonBarCmd.label "Trav da supplements">
-<!ENTITY addonBarCmd.accesskey "t">
-<!ENTITY throbberItem.title           "Indicaziun da l'activitad">
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Avrir il menu da &brandShortName;">
-<!ENTITY feedButton.label             "Abunar">
-<!ENTITY feedButton.tooltip           "Abunar questa pagina…">
-<!ENTITY bookmarksButton.tooltip       "Avra tia glista dals segnapaginas">
-<!ENTITY historyButton.tooltip          "Mussa las paginas che ti has visità dacurt">
-<!ENTITY viewTabsOnTop.label            "Plazzar sisum ils tabs">
-<!ENTITY viewTabsOnTop.accesskey        "t">
-<!ENTITY appMenuEdit.label "Modifitgar">
-<!ENTITY appMenuToolbarLayout.label "Layout da la trav d'utensils…">
-<!ENTITY appMenuSidebars.label "Travs lateralas">
-<!ENTITY appMenuFind.label "Tschertgar…">
-<!ENTITY appMenuUnsorted.label "Segnapaginas betg zavrads">
-<!ENTITY appMenuWebDeveloper.label "Sviluppaders dal web">
-<!ENTITY appMenuGettingStarted.label "Entschaiver">
-<!ENTITY appMenuSafeMode.label "Reaviar e deactivar ils supplements…">
-<!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY cutButton.tooltip              "Tagliar ora">
-<!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Encollar">
-<!ENTITY zoomOutButton.tooltip          "Empitschnir">
-<!ENTITY zoomInButton.tooltip           "Engrondir">
-<!ENTITY zoomControls.label             "Controlla dal zoom">
-<!ENTITY addonBarCloseButton.tooltip  "Serrar la trav da supplements">
-<!ENTITY toggleAddonBarCmd.key        "/">
-<!ENTITY backForwardItem.title        "Enavos/Enavant">
-<!ENTITY viewBookmarksSidebar.label         "Mussar en la trav laterala">
-<!ENTITY bookmarksItem.title          "Segnapaginas">
-<!ENTITY openLocationCmd.label "Avrir l'adressa…">
-<!ENTITY openLocationCmd.accesskey "a">
-<!ENTITY bookmarksMenuButton.tooltip        "Mussar tes segnapaginas">
+<!ENTITY appMenuSidebars.label         "Travs lateralas">
+
 <!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip      "Far gruppas cun ils tabs">
-<!-- end of strings to be removed post-Australis -->
+
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
