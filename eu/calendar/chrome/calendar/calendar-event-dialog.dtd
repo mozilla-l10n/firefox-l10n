@@ -134,9 +134,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Gonbidatu partaideak…">
 <!ENTITY event.invite.attendees.accesskey                 "G">
-<!ENTITY event.email.attendees.label                      "Partaide guztientzat E-posta idatzi…">
+<!ENTITY event.email.attendees.label                      "Partaide guztientzat e-posta idatzi…">
 <!ENTITY event.email.attendees.accesskey                  "g">
-<!ENTITY event.email.tentative.attendees.label            "Erabaki gabeko partaideei E-posta idatzi…">
+<!ENTITY event.email.tentative.attendees.label            "Erabaki gabeko partaideei e-posta idatzi…">
 <!ENTITY event.email.tentative.attendees.accesskey        "E">
 <!-- Toolbar -->
 
@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Gonbidatu partaideak">
 <!ENTITY event.organizer.label                  "Antolatzailea">
 <!ENTITY event.freebusy.suggest.slot            "Denbora-tartea proposatu:">
-<!ENTITY event.freebusy.next.slot               "Hurrengo tartea " >
-<!ENTITY event.freebusy.previous.slot           " Aurreko tartea" >
+<!ENTITY event.freebusy.button.next.slot        "Hurrengo tartea">
+<!ENTITY event.freebusy.button.previous.slot    "Aurreko tartea">
 <!ENTITY event.freebusy.zoom                    "Zooma:">
 <!ENTITY event.freebusy.legend.free             "Libre" >
 <!ENTITY event.freebusy.legend.busy             "Okupatuta" >
@@ -364,10 +364,10 @@
 <!ENTITY read.only.category.label        "Kategoria:">
 <!ENTITY read.only.organizer.label       "Antolatzailea:">
 <!ENTITY read.only.reply.label           "Erantzun:">
-<!ENTITY read.only.accept.label          "Parte hartuko dut.">
-<!ENTITY read.only.decline.label         "Ez dut parte hartuko.">
-<!ENTITY read.only.tentative.label       "Saiatuko naiz parte hartzen.">
-<!ENTITY read.only.needs.action.label    "Geroago baieztatuko dut.">
+<!ENTITY read.only.accept.label          "Parte hartuko dut">
+<!ENTITY read.only.decline.label         "Ez dut parte hartuko">
+<!ENTITY read.only.tentative.label       "Saiatuko naiz parte hartzen">
+<!ENTITY read.only.needs.action.label    "Beranduago baieztatuko dut">
 <!ENTITY read.only.reminder.label        "Gogoratu:">
 <!ENTITY read.only.attendees.label       "Partaideak">
 <!ENTITY read.only.description.label     "Azalpena">
