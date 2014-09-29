@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "टाइप गर्दागर्दै अक्षर विन्यास जाँच गर्नुहोस्">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "प्रणालीका निर्धारितहरू">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; निर्धारित ब्राउजर हो कि होइन सधै सुरुवातमा जाच गर">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; लाइ निर्धारित ब्राउजर बनाउनुहोस">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "तपाइको हालको निर्धारित ब्राउजर &brandShortName;">
-
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरु">
 
 <!ENTITY healthReportSection.label       "&brandShortName; स्वास्थ्य विवरण">

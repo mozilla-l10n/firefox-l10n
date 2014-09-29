@@ -25,6 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "यदि तपाई सामान्यतया यो साइटसँग बिना समस्याहरु जोडिनु हुन्छ भने,
  यो त्रुटिले अरु कसैले यो साइटको रुप धारण गर्ने कोशिश गर्दैछ भन्छ,
  र तपाई अगाडि बढ्न हुँदैन।                                ">
+
 <!ENTITY certerror.getMeOutOfHere.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 
 <!ENTITY certerror.expert.heading "म जोखिमहरु बुझ्दछु">

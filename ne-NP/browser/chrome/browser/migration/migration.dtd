@@ -22,6 +22,7 @@
 
 <!ENTITY noMigrationSources.label       "पुस्तकचिन्हहरु, इतिहास अथवा पासवर्ड डाटा नभएका कार्यक्रमहरु भेटिन सक्छन ।">
 
+<!ENTITY importSource.title             "डाटा र सेटिङहरु आयात गर्नुहोस्">
 <!ENTITY importItems.title              "आयत गर्नपर्ने कुराहरु">
 <!ENTITY importItems.label              "आयात गर्ने चिज छान्नुहोस:">
 

@@ -78,11 +78,6 @@
 <!ENTITY createCertInfo.title "एउटा निजी कुञ्जी उत्पन्न गरिँदै">
 
 
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "पाठ हस्ताक्षर गर्ने आग्रह">
-<!ENTITY formSigning.cert "प्रमाणपत्रमा हस्ताक्षर गर्दै">
-<!ENTITY formSigning.confirmPassword "तपाइँको छानिएको प्रमाणपत्र प्रयोग गरेर यो पाठ सन्देशमा हस्ताक्षर गर्ने कार्य तय गर्नका लागि, कृपया मास्टर प्रवेशचिन्ह प्रविष्ट गरेर तय गर्नुहोस्:">
 <!-- Strings for protectedAuth dialog -->
 
 
