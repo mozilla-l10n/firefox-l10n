@@ -4,7 +4,7 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Arkiveringsinnstillingar">
+<!ENTITY dialogTitle.label "Arkiverings-innstillingar">
 <!ENTITY archiveGranularityPrefix.label "Ved arkivering av meldingar, lagre dei i:">
 <!ENTITY archiveFlat.label "Ei enkel mappe">
 <!ENTITY archiveFlat.accesskey "E">
