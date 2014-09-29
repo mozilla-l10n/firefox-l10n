@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Gwirio am Ddiweddariadau">
 <!ENTITY update.checkForUpdatesButton.accesskey   "D">
-<!ENTITY update.updateButton.label                "Ailgychwyn i Ddiweddaru">
+<!ENTITY update.updateButton.label2               "Ailgychwyn &brandShortName; i'w Ddiweddaru">
 <!ENTITY update.updateButton.accesskey            "A">
 <!ENTITY update.applyButtonBillboard.label        "Gosod Diweddariad…">
 <!ENTITY update.applyButtonBillboard.accesskey    "G">

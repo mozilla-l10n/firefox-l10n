@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
 <!ENTITY certs.auto                      "Dewis un yn awtomatig">
-<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Gofyn i mi bob tro">
 <!ENTITY certs.ask.accesskey             "G">
+<!ENTITY enableOCSP.label                "Ymholi gweinyddion ymatebydd OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
+<!ENTITY enableOCSP.accesskey            "Y">
 
 <!ENTITY viewCertificates.label         "Darllen Tystysgrifau">
 <!ENTITY viewCertificates.accesskey     "D">
-<!ENTITY validation.label               "Dilysu">
-<!ENTITY validation.accesskey           "D">
 <!ENTITY viewSecurityDevices.label      "Dyfeisiau Diogelwch">
-<!ENTITY viewSecurityDevices.accesskey  "y">
+<!ENTITY viewSecurityDevices.accesskey  "D">
