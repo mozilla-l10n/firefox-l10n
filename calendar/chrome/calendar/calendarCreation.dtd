@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY wizard.title             "Ustvari nov koledar">
-<!ENTITY wizard.label             "Ustvari nov koledar">
-<!ENTITY wizard.description       "Poiščite svoj koledar">
+<!ENTITY wizard.title             "Ustvari nov koledar" >
+<!ENTITY wizard.label             "Ustvari nov koledar" >
+<!ENTITY wizard.description       "Poiščite svoj koledar" >
 
-<!ENTITY initialpage.description  "Vaš koledar je lahko shranjen na vašem računalniku ali na strežniku, tako da ga lahko uporabljate oddaljeno ali ga delite s prijatelji ali sodelavci.">
+<!ENTITY initialpage.description    "Vaš koledar je lahko shranjen na vašem računalniku ali na strežniku, tako da ga lahko uporabljate oddaljeno ali ga delite s prijatelji ali sodelavci." >
 <!ENTITY initialpage.computer.label  "Na računalniku">
-<!ENTITY initialpage.network.label "V omrežju">
+<!ENTITY initialpage.network.label  "V omrežju">
 
-<!ENTITY locationpage.description "Podajte podatke, potrebne za dostop do oddaljenega koledarja.">
-<!ENTITY locationpage.login.description "Neobvezno: vnesite uporabniško ime in geslo">
-<!ENTITY locationpage.username.label "Uporabniško ime:">
-<!ENTITY locationpage.password.label "Geslo:">
+<!ENTITY locationpage.description         "Podajte podatke, potrebne za dostop do oddaljenega koledarja." >
+<!ENTITY locationpage.login.description   "Neobvezno: vnesite uporabniško ime in geslo" >
+<!ENTITY locationpage.username.label      "Uporabniško ime:" >
+<!ENTITY locationpage.password.label      "Geslo:" >
 
-<!ENTITY custompage.shortdescription "Koledar po meri">
-<!ENTITY custompage.longdescription "Svojemu koledarju lahko dodelite kratko ime in obarvate dogodke iz tega koledarja.">
+<!ENTITY custompage.shortdescription  "Koledar po meri" >
+<!ENTITY custompage.longdescription   "Svojemu koledarju lahko dodelite kratko ime in obarvate dogodke iz tega koledarja." >
 
-<!ENTITY finishpage.shortdescription "Koledar ustvarjen">
-<!ENTITY finishpage.longdescription "Vaš koledar je bil ustvarjen.">
+<!ENTITY finishpage.shortdescription  "Koledar ustvarjen" >
+<!ENTITY finishpage.longdescription   "Vaš koledar je bil ustvarjen." >

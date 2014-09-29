@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Nastavitve seznama">
 
 <!ENTITY ListType.label "Tip seznama">
@@ -17,4 +17,4 @@
 <!ENTITY changeEntireListRadio.label "Spremeni celoten seznam">
 <!ENTITY changeEntireListRadio.accessKey "z">
 <!ENTITY changeSelectedRadio.label "Spremeni le izbrane postavke">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.accessKey "i">

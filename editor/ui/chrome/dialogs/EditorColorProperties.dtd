@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Barve strani in ozadja">
 <!ENTITY pageColors.label "Barve strani">
 <!ENTITY defaultColorsRadio.label "Privzete barve bralca (ne nastavlja barv za stran)">
 <!ENTITY defaultColorsRadio.accessKey "P">
 <!ENTITY defaultColorsRadio.tooltip "Uporabljaj samo barve, ki jih gledalec (bralec) uporablja v brskalniku">
 <!ENTITY customColorsRadio.label "Uporabi barve po meri:">
-<!ENTITY customColorsRadio.accessKey "M">
+<!ENTITY customColorsRadio.accessKey "m">
 <!ENTITY customColorsRadio.tooltip "Te barvne nastavitve preglasijo vrednosti iz prikazovalnika v brskalniku">
 
 <!ENTITY normalText.label "Običajno besedilo">
@@ -17,12 +17,12 @@
 <!ENTITY linkText.label "Besedilo povezave">
 <!ENTITY linkText.accessKey "B">
 <!ENTITY activeLinkText.label "Besedilo aktivne povezave">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Besedilo obiskane povezave">
-<!ENTITY visitedLinkText.accessKey "O">
+<!ENTITY visitedLinkText.accessKey "o">
 <!ENTITY background.label "Ozadje:">
-<!ENTITY background.accessKey "Z">
+<!ENTITY background.accessKey "z">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Slika za ozadje:">
-<!ENTITY backgroundImage.accessKey "s">
+<!ENTITY backgroundImage.accessKey "S">
 <!ENTITY backgroundImage.tooltip "Uporabi datoteko s sliko za ozadje moje strani">

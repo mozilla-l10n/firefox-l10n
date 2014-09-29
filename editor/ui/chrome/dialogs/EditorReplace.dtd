@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from EdReplace.xul -->
+
 
 <!ENTITY replaceDialog.title "Iskanje in zamenjava">
 <!ENTITY findField.label "Iskano besedilo:">
@@ -20,7 +20,7 @@
 <!ENTITY replaceButton.label "Zamenjaj">
 <!ENTITY replaceButton.accesskey "Z">
 <!ENTITY replaceAndFindButton.label "Zamenjaj in najdi">
-<!ENTITY replaceAndFindButton.accesskey "N">
+<!ENTITY replaceAndFindButton.accesskey "n">
 <!ENTITY replaceAllButton.label "Zamenjaj vse">
 <!ENTITY replaceAllButton.accesskey "v">
 <!ENTITY closeButton.label "Zapri">

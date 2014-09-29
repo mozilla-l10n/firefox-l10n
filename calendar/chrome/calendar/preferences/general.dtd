@@ -1,21 +1,31 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY pref.mainbox.label "Splošne nastavitve" >
 <!ENTITY pref.dateformat.label "Oblika zapisa datuma:" >
-<!ENTITY pref.dateformat.accesskey "D">
+<!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "dolga" >
-<!ENTITY pref.dateformat.short "kratka" >
-<!ENTITY pref.defaultlength.label "Privzeti čas trajanja dogodka:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "Privzeti čas trajanja dremeža:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.dateformat.short "kratka"  >
+
+<!ENTITY pref.events.label "Dogodki">
+<!ENTITY pref.tasks.label "Opravila">
+
+
+
+
+
+<!ENTITY pref.default_task_tomorrow.label "Jutri">
+
+
+
+
+
 <!ENTITY pref.accessibility.label "Dostopnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
 <!ENTITY pref.systemcolors.accesskey "c">

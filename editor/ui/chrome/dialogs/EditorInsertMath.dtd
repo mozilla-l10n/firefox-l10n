@@ -1,25 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "Vstavi matematiko">
 
-<!ENTITY sourceEditField.label "Vnesite izvorno kodo LaTeX:">
 
 <!ENTITY options.label "Možnosti">
-<!ENTITY optionInline.label "Medvrstični način">
-<!ENTITY optionInline.accesskey "N">
-<!ENTITY optionDisplay.label "Prikazni način">
-<!ENTITY optionDisplay.accesskey "P">
-<!ENTITY optionLTR.label "Od leve proti desni">
-<!ENTITY optionLTR.accesskey "L">
-<!ENTITY optionRTL.label "Od desne proti levi">
-<!ENTITY optionRTL.accesskey "R">
 
-<!ENTITY example.label "Primer: ">
+
+
+
+
+
+
+
+
+<!ENTITY example.label "Na primer: ">
 <!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
 <!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
 
 <!ENTITY insertButton.label "Vstavi">
-<!ENTITY insertButton.accesskey "I">
+<!ENTITY insertButton.accesskey "V">
