@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "ఈచిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -60,7 +60,7 @@
 
 
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ఆచిరునామా అర్ధం కావడంలేదు">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
