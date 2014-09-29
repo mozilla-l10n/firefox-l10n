@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ingen kontoar er konfigurerte enno">
-<!ENTITY accountManager.noAccount.description "Trykk på &accountManager.newAccount.label;-knappen for å la &brandShortName; guide deg gjennom prosessen å opprette ein.">
+<!ENTITY accountManager.noAccount.description "Trykk på &accountManager.newAccount.label;-knappen for å la &brandShortName; guide deg gjennom prosessen å oppretta ein.">
 <!ENTITY account.autoSignOn.label     "Kopla til ved oppstart">
 <!ENTITY account.autoSignOn.accesskey "o">
 <!ENTITY account.connect.label        "Kopla til">

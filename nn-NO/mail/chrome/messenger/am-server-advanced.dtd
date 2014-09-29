@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Avanserte kontoinnstillingar">
+<!ENTITY serverAdvanced.label "Avanserte konto-innstillingar">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-tenarkatalog:">
 <!ENTITY serverDirectory.accesskey "t">
@@ -22,10 +22,10 @@
 <!ENTITY publicNamespace.accesskey "O">
 <!ENTITY otherUsersNamespace.label "Andre brukarar:">
 <!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Tillat tenaren å overstyre desse namneromma">
+<!ENTITY overrideNamespaces.label "Tillat tenaren å overstyra desse namneromma">
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3Desc.label "Nye meldingar lasta ned frå POP3-tenaren skal lagrast i denne mappa:" >
-<!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">
+<!ENTITY accountDirectory.label "Innboks for denne tenarkontoen">
 <!ENTITY accountDirectory.accesskey "n">
 <!ENTITY deferToServer.label "Innboksen i ein annan konto">
 <!ENTITY deferToServer.accesskey "b">

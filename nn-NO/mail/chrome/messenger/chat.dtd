@@ -7,13 +7,13 @@
 <!ENTITY conversationsHeader.label     "Samtalar">
 <!ENTITY searchResultConversation.label "Søkjeresultat">
 <!ENTITY chat.noConv.title             "Samtalar vil visast her.">
-<!ENTITY chat.noConv.description       "Bruk kontaktlista i panelet til venstre for å starte ein samtale.">
+<!ENTITY chat.noConv.description       "Bruk kontaktlista i panelet til venstre for å starta ein samtale.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; har ingen tidlegare samtalar lagra for denne kontakten. ">
 <!ENTITY chat.noAccount.title             "Du har ikkje sett opp ein nettprat-konto enno.">
-<!ENTITY chat.noAccount.description       "La &brandShortName; guide deg gjennom å sette opp ein nettprat-konto.">
+<!ENTITY chat.noAccount.description       "La &brandShortName; guide deg gjennom å setta opp ein nettprat-konto.">
 <!ENTITY chat.accountWizard.button       "Kom i gang">
 <!ENTITY chat.noConnectedAccount.title             "Nettpratkontoane dine er no tilkopla.">
-<!ENTITY chat.noConnectedAccount.description       "Du kan kople dei til frå 'Nettpratstatus'-dialogen:">
+<!ENTITY chat.noConnectedAccount.description       "Du kan kopla dei til frå «Nettpratstatus»-dialogen:">
 <!ENTITY chat.showAccountManager.button       "Vis nettpratstatus">
 
 <!ENTITY chat.participants             "Deltakarar:">
@@ -24,7 +24,7 @@
 <!ENTITY openConversationCmd.accesskey "t">
 <!ENTITY closeConversationCmd.label    "Lukk samtale">
 <!ENTITY closeConversationCmd.accesskey "L">
-<!ENTITY aliasCmd.label                "Endre namn">
+<!ENTITY aliasCmd.label                "Endra namn">
 <!ENTITY aliasCmd.accesskey            "E">
 <!ENTITY deleteCmd.label               "Slett kontakt">
 <!ENTITY deleteCmd.accesskey           "S">
@@ -40,5 +40,5 @@
 <!ENTITY status.unavailable        "Utilgjengeleg">
 <!ENTITY status.offline            "Fråkopla">
 
-<!ENTITY openLinkCmd.label            "Opne lenke …">
+<!ENTITY openLinkCmd.label            "Opna lenke …">
 <!ENTITY openLinkCmd.accesskey        "O">
