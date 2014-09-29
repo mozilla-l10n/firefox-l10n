@@ -16,7 +16,7 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.pre.label              "Når eg brukar adresselinja, føreslå:">
+<!ENTITY  locbar.pre.label              "Føreslå ved bruk av adresselinja:">
 <!ENTITY  locbar.pre.accessKey          "r">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historikk og bokmerke">
@@ -48,20 +48,20 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
 <!ENTITY  historyHeader.pre.accesskey      "s">
-<!ENTITY  historyHeader.remember.label     "Hugse historikk">
-<!ENTITY  historyHeader.dontremember.label "Aldri hugse historikk">
-<!ENTITY  historyHeader.custom.label       "Bruke eigne innstillingar for historikk">
+<!ENTITY  historyHeader.remember.label     "Hugsa historikk">
+<!ENTITY  historyHeader.dontremember.label "Aldri hugsa historikk">
+<!ENTITY  historyHeader.custom.label       "Bruka eigne innstillingar for historikk">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; vil hugse nettlesing, nedlasting, skjema og søkehistorikk, og ta vare på infokapslar frå nettsider du vitjar.">
+<!ENTITY  rememberDescription.label      "&brandShortName; vil hugsa nettlesing, nedlasting, skjema og søkehistorikk, og ta vare på infokapslar frå nettsider du vitjar.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Du kan velja å ">
-<!ENTITY  rememberActions.clearHistory.label  "fjerne nyleg historikk">
+<!ENTITY  rememberActions.clearHistory.label  "fjerna nyleg historikk">
 <!ENTITY  rememberActions.middle.label        ", eller ">
-<!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
+<!ENTITY  rememberActions.removeCookies.label "fjerna enkelte infokapslar">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruka dei same innstillingane som privat nettlesing og vil ikkje hugsa historikk medan du brukar nettet.">
@@ -81,7 +81,7 @@
 <!ENTITY  rememberSearchForm.label       "Hugse søke- og skjemahistorikk">
 <!ENTITY  rememberSearchForm.accesskey   "ø">
 
-<!ENTITY  clearOnClose.label             "Slette historikk når &brandShortName; avsluttar">
+<!ENTITY  clearOnClose.label             "Sletta historikk når &brandShortName; avsluttar">
 <!ENTITY  clearOnClose.accesskey         "S">
 
 <!ENTITY  clearOnCloseSettings.label     "Innstillingar …">

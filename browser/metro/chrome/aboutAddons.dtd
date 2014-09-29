@@ -8,7 +8,7 @@
 
 <!ENTITY aboutAddons.title              "&brandShortName; Utvidingar er pågåande prosjekt">
 <!ENTITY aboutAddons.messageTitle       "Uh-Oh!">
-<!ENTITY aboutAddons.message            "Beklagar, &brandShortName; er opptatt med å jobbe på støtte for utvidingar.">
+<!ENTITY aboutAddons.message            "Beklagar, &brandShortName; er opptatt med å jobba på støtte for utvidingar.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.

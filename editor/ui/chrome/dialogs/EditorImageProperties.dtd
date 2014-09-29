@@ -26,20 +26,20 @@
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Verkeleg størrelse:">
-<!ENTITY actualSizeRadio.label "Verkeleg størrelse">
+<!ENTITY actualSize.label "Verkeleg storleik:">
+<!ENTITY actualSizeRadio.label "Verkeleg storleik">
 <!ENTITY actualSizeRadio.accessKey "V">
-<!ENTITY actualSizeRadio.tooltip "Gå tilbake til den verkelege bildestørrelsen">
-<!ENTITY customSizeRadio.label "Eigendefinert størrelse">
+<!ENTITY actualSizeRadio.tooltip "Gå tilbake til den verkelege bildestorleiken">
+<!ENTITY customSizeRadio.label "Eigendefinert storleik">
 <!ENTITY customSizeRadio.accessKey "E">
-<!ENTITY customSizeRadio.tooltip "Endre bildestørrelsenn som vist på sida">
+<!ENTITY customSizeRadio.tooltip "Endre bildestorleik som vist på sida">
 <!ENTITY heightEditField.label "Høgd:">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Breidde:">
 <!ENTITY widthEditField.accessKey "r">
 <!ENTITY constrainCheckbox.label "Avgrens">
 <!ENTITY constrainCheckbox.accessKey "A">
-<!ENTITY constrainCheckbox.tooltip "Behald størrelseforholdet til bildet">
+<!ENTITY constrainCheckbox.tooltip "Behald høgde-/breidde-forhold i bildet">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Bildekart">

@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "Importer data frå ein annan nettlesar …">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Tryggingskopiar …">
+<!ENTITY cmd.backup.label               "Tryggingskopier …">
 <!ENTITY cmd.backup.accesskey           "T">
 <!ENTITY cmd.restore2.label             "Gjenopprett …">
 <!ENTITY cmd.restore2.accesskey         "G">

@@ -6,7 +6,7 @@
 <!-- Calendar Invitations Dialog -->
 <!ENTITY calendar.invitations.dialog.invitations.text                   "Invitasjonar">
 <!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Oppdaterer lista over invitasjonar.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Ingen invitasjonar som ikkje er stadfeste vart funne.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Ingen ubekrefta invitasjonar vart funne.">
 
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label                  "Godta">

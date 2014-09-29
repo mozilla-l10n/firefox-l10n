@@ -4,7 +4,7 @@
 
 <!ENTITY event.title.label                  "Rediger hending" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd når du endrar sluttdatoen">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd ved endring av sluttdato">
 <!ENTITY event.dialog.keepDurationButton.accesskey "B">
 
 <!ENTITY newevent.from.label                "Frå" >
@@ -12,9 +12,9 @@
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
-<!ENTITY newevent.eventStatus.none.label          "Ikkje oppgjeve" >
+<!ENTITY newevent.eventStatus.none.label          "Ikkje spesifisert" >
 <!ENTITY newevent.eventStatus.none.accesskey      "k" >
-<!ENTITY newevent.todoStatus.none.label           "Ikkje oppgjeve" >
+<!ENTITY newevent.todoStatus.none.label           "Ikkje spesifisert" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Avlyst" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Avlyst" >
