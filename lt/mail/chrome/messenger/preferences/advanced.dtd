@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Serveriui paprašius mano liudijimo:">
 <!ENTITY certs.auto                      "parinkti jį automatiškai">
-<!ENTITY certs.auto.accesskey            "a">
+
 <!ENTITY certs.ask                       "visada klausti">
 <!ENTITY certs.ask.accesskey             "k">
 
+
+
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">
 <!ENTITY viewCertificates.accesskey     "L">
-<!ENTITY validation.label               "Patikra">
-<!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Saugumo priemonės">
 <!ENTITY viewSecurityDevices.accesskey  "S">
