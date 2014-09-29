@@ -37,7 +37,7 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "r">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.email.label               "E-posta:">
+<!ENTITY lightning.calendarproperties.email.label               "e-posta:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Onartu">
@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Egin klik aukera gehiago erakusteko">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Birberretsi">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Birberrespena bidaltzen dio antolatzaileari">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gorde kopia bat">
+
 <!ENTITY lightning.imipbar.btnTentative.label                               "Behin-behinekoa">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Onartu gonbidapena behin-behinean">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Behin-behinekoak guztiak">

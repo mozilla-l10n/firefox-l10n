@@ -10,7 +10,7 @@
 <!ENTITY pref.alarmgoesoff.label "Gogorarazle bat muga-egunean denean:">
 <!ENTITY pref.playasound "Soinu bat jo">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "Erabili lehenetsitako soinua">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Erabili soinu lehenetsia">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "l">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Arakatu…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "A">
@@ -20,19 +20,17 @@
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Erakutsi galdutako gogorarazpenak">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Gogorarazleen lehenetsiak">
-<!ENTITY pref.defalarm4events.label "Gertaerentzako lehenetsitako gogorarazle-ezarpenak:">
+<!ENTITY pref.calendar.alarms.defaults.label "Gogorarazleen lehenespenak">
+<!ENTITY pref.defalarm4events.label "Gertaerentzako gogorarazle-ezarpen lehenetsiak:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Zereginetarako lehenetsitako gogorarazle-ezarpenak:">
+<!ENTITY pref.defalarm4todos.label "Zereginetarako gogorarazle-ezarpen lehenetsiak:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Gaitu">
 <!ENTITY pref.alarm.off "Ezgaitu">
 <!ENTITY pref.defalarmlen4events.label "Gertaeren aurretik gogorarazleari ezarriko zaion denbora lehenetsia:">
 <!ENTITY pref.defalarmlen4events.accesskey "u">
-<!ENTITY pref.defalarmlen4todos.label "Zereginen aurretik gogorarazleari ezarriko zaion denbora lehentsia:">
+<!ENTITY pref.defalarmlen4todos.label "Zereginen aurretik gogorarazleari ezarriko zaion denbora lehenetsia:">
 <!ENTITY pref.defalarmlen4todos.accesskey "r">
-<!ENTITY pref.defaultemail.label "Gogorarazleak bidaltzeko lehenetsitako helbidea:">
-<!ENTITY pref.defaulttext.label "Gogorarazleen testu lehenetsia:">
 
 <!ENTITY pref.defaultsnoozelength.label "Geroko uzteko luzera lehenetsia:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "G">

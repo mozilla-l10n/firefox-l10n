@@ -24,7 +24,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "r">
 <!ENTITY pref.calendar.view.visiblehoursend.label "ordu aldi berean">
 
-<!ENTITY pref.numberofweeks.label "Ikusiko den lehenetsitako aste kopurua (Aurreko asteak barne):">
+<!ENTITY pref.numberofweeks.label "Ikusiko den aste kopuru lehenetsia (aurreko asteak barne):">
 <!ENTITY pref.numberofweeks.accesskey "k">
 <!ENTITY pref.numberofpreviousweeks.label "Ikusiko diren aurreko asteak:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "a">
