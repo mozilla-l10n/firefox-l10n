@@ -1,57 +1,83 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Lightning">
 
+
+<!ENTITY lightning.preferencesLabel "Lightning">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Dogodek">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Opravek …">
 <!ENTITY lightning.menupopup.new.task.accesskey "O">
 <!ENTITY lightning.menupopup.new.calendar.label "Koledar …">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Odpri">
-<!ENTITY lightning.menupopup.open.accesskey           "o">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Shranjeno sporočilo …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka koledarja …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "D">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Koledar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Opravki">
 <!ENTITY lightning.menu.view.tasks.accesskey           "O">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Dogodki in opravki">
 <!ENTITY lightning.menu.eventtask.accesskey            "D">
-
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.email.label               "E-poštno sporočilo:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "To sporočilo vsebuje povabilo na dogodek.">
 
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Sprejmi">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Zavrni">
+
+
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Izbriši">
+
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnTentative.label                               "Neodločeno">
+
+
+
+
+
+<!ENTITY lightning.imipbar.description                                      "To sporočilo vsebuje povabilo na dogodek.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "K">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "d">
 <!ENTITY lightning.keys.todo.new "o">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Ustvari nov koledar">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Ustvari nov koledar">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Pokaži mini-mesec">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Pokaži mini-dan">

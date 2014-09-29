@@ -1,25 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Objavi stran">
 <!ENTITY windowTitleSettings.label    "Nastavitve za objavo">
 <!ENTITY publishTab.label             "Objavi">
 <!ENTITY settingsTab.label            "Nastavitve">
 <!ENTITY publishButton.label          "Objavi">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Ime spletišča:">
 <!ENTITY siteList.accesskey           "s">
 <!ENTITY siteList.tooltip             "Izberite spletišče, kjer želite objaviti">
 <!ENTITY newSiteButton.label          "Novo spletišče">
-<!ENTITY newSiteButton.accesskey      "b">
+<!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Podimenik na spletišču za to stran:">
-<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.accesskey         "s">
 <!ENTITY docDirList.tooltip           "Izberite ali vnesite ime oddaljenega podimenika za to stran">
 <!ENTITY publishImgCheckbox.label     "Vključi slike in druge datoteke">
-<!ENTITY publishImgCheckbox.accesskey "O">
+<!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip   "Objavi slike in druge pridružene datoteke, na katere se ta stran sklicuje">
 <!ENTITY sameLocationRadio.label      "Uporabi isto mesto kot za stran">
 <!ENTITY sameLocationRadio.accesskey  "U">
@@ -29,19 +29,19 @@
 <!ENTITY useSubdirRadio.tooltip       "Objavi datoteke na izbrani oddaljeni podimenik">
 <!ENTITY otherDirList.tooltip         "Izberite ali vnesite ime oddaljenega podimenika, kamor naj se datoteke za objavo prenese">
 <!ENTITY pageTitle.label              "Naslov strani:">
-<!ENTITY pageTitle.accesskey          "R">
+<!ENTITY pageTitle.accesskey          "r">
 <!ENTITY pageTitle.tooltip            "Vnesite naslov, ki bo označeval stran v oknu in v zaznamkih">
 <!ENTITY pageTitleExample.label       "npr.: &quot;Moja spletna stran&quot;">
 <!ENTITY filename.label               "Ime datoteke:">
-<!ENTITY filename.accesskey           "D">
+<!ENTITY filename.accesskey           "d">
 <!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran">
 <!ENTITY filenameExample.label        "npr.: &quot;mojastran.html&quot;">
 <!ENTITY setDefaultButton.label       "Privzet račun">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Odstrani stran">
-<!ENTITY removeButton.accesskey       "e">
-
+<!ENTITY removeButton.accesskey       "R">
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Spletišča za objavo">
 <!ENTITY serverInfo.label             "Podatki o strežniku">
 <!ENTITY loginInfo.label              "Podatki za login">
@@ -52,7 +52,7 @@
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ISP ali ponudnika spletnih storitev">
 <!ENTITY browseUrl.label              "HTTP naslov vaše spletne strani(npr.: 'http://www.myisp.com/mojeime'):">
-<!ENTITY browseUrl.accesskey          "R">
+<!ENTITY browseUrl.accesskey          "r">
 <!ENTITY browseUrl.tooltip            "Naslov HTTP:// vašega domačega imenika (ne vključujte imena datoteke)">
 <!ENTITY username.label               "Uporabniško ime:">
 <!ENTITY username.accesskey           "U">

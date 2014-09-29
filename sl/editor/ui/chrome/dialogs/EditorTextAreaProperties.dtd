@@ -24,7 +24,7 @@
 <!ENTITY InitialText.accessKey "Z">
 
 <!ENTITY TextAreaWrap.label "Z lomom besedila:">
-<!ENTITY TextAreaWrap.accessKey "L">
+<!ENTITY TextAreaWrap.accessKey "l">
 <!ENTITY WrapDefault.value "Privzeto">
 <!ENTITY WrapOff.value "Izkl">
 <!ENTITY WrapHard.value "Trdo">

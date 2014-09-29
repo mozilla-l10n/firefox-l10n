@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Lastnosti strani">
 <!ENTITY location.label "Kje:">
 <!ENTITY lastModified.label "Zadnja sprememba:">
 <!ENTITY titleInput.label "Naslov:">
-<!ENTITY titleInput.accessKey "R">
+<!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Avtor:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Opis:">

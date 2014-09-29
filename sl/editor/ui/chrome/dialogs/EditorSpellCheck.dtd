@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Preveri črkovanje">
 
 <!ENTITY misspelledWord.label "Nepravilno napisana beseda:">
 <!ENTITY wordEditField.label "Zamenjaj s/z:">
 <!ENTITY wordEditField.accessKey "Z">
 <!ENTITY checkwordButton.label "Preveri besedo">
-<!ENTITY checkwordButton.accessKey "V">
+<!ENTITY checkwordButton.accessKey "v">
 <!ENTITY suggestions.label "Predlogi:">
 <!ENTITY suggestions.accessKey "P">
 <!ENTITY ignoreButton.label "Prezri">
-<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreButton.accessKey "i">
 <!ENTITY ignoreAllButton.label "Prezri vse">
 <!ENTITY ignoreAllButton.accessKey "v">
 <!ENTITY replaceButton.label "Zamenjaj">
@@ -25,13 +25,13 @@
 <!ENTITY userDictionary.label "Osebni slovar:">
 <!ENTITY moreDictionaries.label "Naloži dodatne slovarje …">
 <!ENTITY addToUserDictionaryButton.label "Dodaj besedo">
-<!ENTITY addToUserDictionaryButton.accessKey "p">
+<!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Urejanje …">
 <!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Ponovno preglej stran">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Zapri">
-<!ENTITY closeButton.accessKey "z">
+<!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Pošlji">
 <!ENTITY sendButton.accessKey "P">
 <!ENTITY languagePopup.label "Jezik:">

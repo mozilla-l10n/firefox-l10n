@@ -18,7 +18,7 @@
 <!ENTITY tableWidth.accessKey             "D">
 <!ENTITY tableBorderSpacing.label         "Robovi in razmik">
 <!ENTITY tableBorderWidth.label           "Rob:">
-<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableBorderWidth.accessKey       "b">
 <!ENTITY tableSpacing.label               "Razmik:">
 <!ENTITY tableSpacing.accessKey           "R">
 <!ENTITY tablePadding.label               "Obroba:">
@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Poravnaj">
 <!ENTITY cellInheritColor.label           "(Naj bo prozorna za barvo strani)">
 <!ENTITY cellUseCheckboxHelp.label        "S pomočjo izbirnih polj določite, katere od lastnosti naj se uporabi za vse izbrane celice">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Velikost">
 <!ENTITY pixels.label                     "pik">
 <!ENTITY backgroundColor.label            "Barva ozadja:">

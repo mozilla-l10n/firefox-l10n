@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.calendar.view.allview.caption "Splošno">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dnevni in tedenski pogledi">
@@ -27,7 +27,7 @@
 <!ENTITY pref.numberofweeks.label "Skupno število tednov prikaza (s predhodnimi):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Število predhodnih tednov v prikazu:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "P">
+<!ENTITY pref.numberofpreviousweeks.accesskey "p">
 <!ENTITY pref.numberofweeks.0 "noben">
 <!ENTITY pref.numberofweeks.1 "1 teden">
 <!ENTITY pref.numberofweeks.2 "2 tedna">

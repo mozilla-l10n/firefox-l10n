@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Lastnosti vodoravne črte">
 
 <!ENTITY dimensionsBox.label "Mere">
@@ -23,5 +23,5 @@
 <!ENTITY threeDShading.label "3-D senčenje">
 <!ENTITY threeDShading.accessKey "3">
 <!ENTITY saveSettings.label "Uporabi za privzeto">
-<!ENTITY saveSettings.accessKey "P">
+<!ENTITY saveSettings.accessKey "p">
 <!ENTITY saveSettings.tooltip "Shrani te nastavitve za uporabo pri vstavljanju vodoravnih črt v bodoče">
