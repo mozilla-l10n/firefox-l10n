@@ -770,13 +770,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ">
 
 
-<!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਘ">
+<!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਗ">
 <!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
 <!ENTITY trackingContentBlocked.learnMore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY trackingContentBlocked.options "ਚੋਣਾਂ">
-<!ENTITY trackingContentBlocked.unblock.label2 "Disable protection for this site">
+<!ENTITY trackingContentBlocked.unblock.label2 "ਇਹ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
 <!ENTITY trackingContentBlocked.block.label "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
-<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
+<!ENTITY trackingContentBlocked.disabled.message "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਕੀਤੀ ਹੋਈ ਹੈ">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
 
