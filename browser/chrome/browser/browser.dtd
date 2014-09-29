@@ -750,3 +750,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "윈도8 &brandShortName;로 전환">
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "지난 시간을 삭제합니다:">
+<!ENTITY panicButton.view.5min                    "5분">
+<!ENTITY panicButton.view.2hr                     "2시간">
+<!ENTITY panicButton.view.day                     "24시간">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "다음을 진행합니다:">
+<!ENTITY panicButton.view.deleteCookies           "최근 <html:strong>쿠키</html:strong> 삭제">
+<!ENTITY panicButton.view.deleteHistory           "최근 <html:strong>방문기록</html:strong> 삭제">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "모든 <html:strong>탭</html:strong>과 <html:strong>창</html:strong> 닫기">
+<!ENTITY panicButton.view.openNewWindow           "빈 새로운 창 열기">
+
+<!ENTITY panicButton.view.undoWarning             "이 작업은 취소할 수 없습니다.">
+<!ENTITY panicButton.view.forgetButton            "삭제!">
+
+<!ENTITY panicButton.thankyou.msg1                "최근 방문기록이 삭제되었습니다.">
+<!ENTITY panicButton.thankyou.msg2                "안전한 브라우징!">
+<!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
+
