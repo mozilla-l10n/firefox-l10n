@@ -8,8 +8,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Patikrinti ar yra naujinimų">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label                "Perleisti ir atnaujinti programą">
-<!ENTITY update.updateButton.accesskey            "P">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Įdiegti naujinimą…">
 <!ENTITY update.applyButtonBillboard.accesskey    "d">
 
