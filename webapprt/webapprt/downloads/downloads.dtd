@@ -19,7 +19,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "В">
 <!ENTITY cmd.cancel.label                 "Скасувати">
 <!ENTITY cmd.cancel.accesskey             "С">
-<!ENTITY cmd.show.label                   "Відкрити папку розташування">
+<!ENTITY cmd.show.label                   "Відкрити теку розташування">
 <!ENTITY cmd.show.accesskey               "р">
 <!ENTITY cmd.showMac.label                "Show in Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
