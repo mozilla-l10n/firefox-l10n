@@ -41,7 +41,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; 依照下列方式提供可選擇的資訊服務（以下簡稱「服務」），例如附加元件安裝建議與更新服務以及 Safe Browsing 功能，供您於此二進位版本的 &brandFullName; 使用。這些服務會預設開啟，若您不想使用這些服務，或是不接受以下的使用條款，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在">
+<!ENTITY rights2.webservices-a "&brandFullName; 依照下列方式提供可選擇的資訊服務（以下簡稱「服務」），例如附加元件安裝建議與更新服務以及 Safe Browsing 功能，供您於此二進位版本的 &brandShortName; 使用。這些服務會預設開啟，若您不想使用這些服務，或是不接受以下的使用條款，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在">
 <!ENTITY rights2.webservices-b "這裡">
 <!ENTITY rights2.webservices-c "找到，其它功能與服務可在應用程式偏好設定中停用。">
 
