@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; køyrer no i trygg modus, som mellombels slår av eigendefinerte innstillingar, tema og utvidingar.">
-<!ENTITY safeModeDescription2.label       "Du kan gjere nokre eller alle av desse endringane permanente:">
+<!ENTITY safeModeDescription2.label       "Du kan gjera nokre eller alle av desse endringane permanente:">
 
 <!ENTITY disableAddons.label              "Slå av alle utvidingane">
 <!ENTITY disableAddons.accesskey          "S">

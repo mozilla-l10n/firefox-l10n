@@ -125,14 +125,14 @@
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Dette kan vera eit problem med tenarinnstillingane, eller det kan vera at nokon prøvar å 
-gje seg ut for å vere tenaren.</li>
+gje seg ut for å vera tenaren.</li>
   <li>Om du har kopla til denne tenaren før, kan feilen vera 
 mellombels, og du kan prøva på nytt seinare.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv om att om
+  <li>Nettstaden kan vera mellombels utilgjengeleg eller oppteken. Prøv om att om
     ei lita stund.</li>
   <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina
     er i orden.</li>

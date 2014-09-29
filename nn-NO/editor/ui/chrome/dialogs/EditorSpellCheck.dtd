@@ -10,7 +10,7 @@
 <!ENTITY wordEditField.accessKey "E">
 <!ENTITY checkwordButton.label "Kontroller ord">
 <!ENTITY checkwordButton.accessKey "K">
-<!ENTITY suggestions.label "Framlegg:">
+<!ENTITY suggestions.label "Forslag:">
 <!ENTITY suggestions.accessKey "F">
 <!ENTITY ignoreButton.label "Ignorer">
 <!ENTITY ignoreButton.accessKey "I">

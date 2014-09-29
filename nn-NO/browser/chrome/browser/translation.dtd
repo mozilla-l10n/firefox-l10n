@@ -14,7 +14,7 @@
   -  sentence. -->
 <!ENTITY translation.thisPageIsIn.label         "Denne sida på">
 <!ENTITY translation.translateThisPage.label    "Omsette denne sida?">
-<!ENTITY translation.translate.button           "Omsett">
+<!ENTITY translation.translate.button           "Omset">
 <!ENTITY translation.notNow.button              "Ikkje no">
 
 <!ENTITY translation.translatingContent.label   "Omsett innhaldet …">
@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Aldri omsett denne nettstaden">
+<!ENTITY translation.options.neverForSite.label "Aldri omset denne nettstaden">
 <!ENTITY translation.options.neverForSite.accesskey "d">
 <!ENTITY translation.options.preferences.label  "Innstillingar for omsetting">
 <!ENTITY translation.options.preferences.accesskey "T">

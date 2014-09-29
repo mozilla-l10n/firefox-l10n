@@ -6,7 +6,7 @@
 
 <!ENTITY printJobOptions.title "Skrivarinnstillingar">
 
-<!ENTITY paperInput.label "Papirstørrelse:">
+<!ENTITY paperInput.label "Papirstorleik:">
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "Plex-modus:">

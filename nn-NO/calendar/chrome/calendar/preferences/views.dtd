@@ -9,24 +9,24 @@
 
 <!ENTITY pref.calendar.view.allview.caption "Generelt">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dag- og vekevising">
-<!ENTITY pref.calendar.view.multiweekview.caption "Vising av fleire veker">
+<!ENTITY pref.calendar.view.multiweekview.caption "Fleirvekevising">
 <!ENTITY pref.calendar.view.workweek.caption "Arbeidsveke">
 
-<!ENTITY pref.weekstarts.label "Start veka på:">
-<!ENTITY pref.weekstarts.accesskey "r">
-<!ENTITY pref.daysoff.label "Ta med desse dagane i arbeidsveka:">
+<!ENTITY pref.weekstarts.label "Første dag i veka:">
+<!ENTITY pref.weekstarts.accesskey "ø">
+<!ENTITY pref.daysoff.label "Dagar i arbeidsveka:">
 
-<!ENTITY pref.calendar.view.daystart.label "Dagen startar:">
+<!ENTITY pref.calendar.view.daystart.label "Dagen startar klokka:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
-<!ENTITY pref.calendar.view.dayend.label "Dagen sluttar:">
+<!ENTITY pref.calendar.view.dayend.label "Dagen sluttar klokka:">
 <!ENTITY pref.calendar.view.dayend.accesskey "s">
 <!ENTITY pref.calendar.view.visiblehours.label "Vis:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "V">
 <!ENTITY pref.calendar.view.visiblehoursend.label "timar om gongen">
 
-<!ENTITY pref.numberofweeks.label "Standard tal på veker (inkludert tidlegare veker):">
+<!ENTITY pref.numberofweeks.label "Standard tal på veker (med tidlegare veker):">
 <!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "Tidlegare veker å vise:">
+<!ENTITY pref.numberofpreviousweeks.label "Tidlegare veker som skal visast:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "T">
 <!ENTITY pref.numberofweeks.0 "ingen">
 <!ENTITY pref.numberofweeks.1 "1 veke">

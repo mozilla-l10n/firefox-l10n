@@ -7,8 +7,8 @@
 <!ENTITY composition.caption    "Vis desse knappane i redigeringsverktøylinja:">
 
 <!ENTITY new.label              "Ny">
-<!ENTITY open.label             "Opne">
-<!ENTITY save.label             "Lagre">
+<!ENTITY open.label             "Opna">
+<!ENTITY save.label             "Lagra">
 <!ENTITY publish.label          "Publiser">
 <!ENTITY preview.label          "Bla gjennom">
 <!ENTITY cut.label              "Klipp ut">

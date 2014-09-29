@@ -10,7 +10,7 @@
 <!ENTITY windowTitle.label "Lagre og endre teiknkoding">
 <!ENTITY documentTitleTitle.label "Sidetittel">
 <!ENTITY documentCharsetTitle.label "Teiknsett">
-<!ENTITY documentCharsetDesc.label "Vel teiknsettet du vil lagre dokumentet i:">
+<!ENTITY documentCharsetDesc.label "Vel teiknsettet du vil lagra dokumentet i:">
 <!ENTITY documentExportToText.label "Eksporter til tekst">
 
 

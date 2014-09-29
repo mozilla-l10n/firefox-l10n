@@ -9,6 +9,6 @@
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Søk">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Søk etter kalendrar å abonnera på:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abonner">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Avslutt abonnement">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Meld av">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Søk …">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Ingen treff.">

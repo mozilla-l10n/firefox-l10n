@@ -9,7 +9,7 @@
 <!ENTITY enableSnapToGrid.label "Slå på festing til rutenett">
 <!ENTITY enableSnapToGrid.accessKey "s">
 
-<!ENTITY sizeEditField.label "Størrelse:">
+<!ENTITY sizeEditField.label "Storleik:">
 <!ENTITY sizeEditField.accessKey "S">
 
 <!ENTITY pixelsLabel.value "pikslar">

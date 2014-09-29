@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Opna lenke i nytt vindauge">
 <!ENTITY openLinkCmd.accesskey        "O">
-<!ENTITY openLinkInPrivateWindowCmd.label "Opne lenke i nytt privat vindauge">
+<!ENTITY openLinkInPrivateWindowCmd.label "Opna lenke i nytt privat vindauge">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Opna lenke">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">

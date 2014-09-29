@@ -56,7 +56,7 @@
 <!ENTITY browseUrl.tooltip            " HTTP://-adressa til heimekatalogen din (ikkje inkluder filnamn)">
 <!ENTITY username.label               "Brukarnamn:">
 <!ENTITY username.accesskey           "B">
-<!ENTITY username.tooltip             "Brukarnamnet du brukar for å logge deg på hos nettleverandøren eller nettverten din">
+<!ENTITY username.tooltip             "Brukarnamnet du brukar for å logga deg på hos nettleverandøren eller nettverten din">
 <!ENTITY password.label               "Passord:">
 <!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Passordet som høyrer til brukarnamnet ditt">
