@@ -718,8 +718,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te dielen:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Finster of skerm om te dielen:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoan om te dielen:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
