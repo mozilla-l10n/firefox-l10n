@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Cendi ka dam bida">
+<!ENTITY migrationWizard.title          "Bida bere">
 
-<!ENTITY importFrom.label               "Cendi ka zaa suubarey, doo-šilbawey, šennikufaley nda bayhaya tanayaŋ ne:">
-<!ENTITY importFromUnix.label           "Cendi ka zaa ibaayey, doo-šilbawey, šennikufaley nda bayhaya tanayaŋ ne:">
-<!ENTITY importFromBookmarks.label      "Cendi ka doo-šilbawey zaa ne:">
+<!ENTITY importFrom.label               "Suubarey, doo-šilbawey, šennikufaley nda bayhaya tanayaŋ bere ka hun ne:">
+<!ENTITY importFromUnix.label           "Ibaayey, doo-šilbawey, šennikufaley nda bayhaya tanayaŋ bere ka hun ne:">
+<!ENTITY importFromBookmarks.label      "Doo-šilbawey bere ka hun ne:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "War ma ši haya kul cendi ka zaa">
+<!ENTITY importFromNothing.label        "War ma ši haya kul bere">
 <!ENTITY importFromNothing.accesskey    "W">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
@@ -33,5 +33,5 @@
 <!ENTITY selectProfile.label            "Alhaaley wey goo no cendi ka zaa ne se:">
 
 <!ENTITY done.title                     "Cendi ka zaayan timme">
-<!ENTITY done.label                     "Hayiizey wey cendi ka zaandi ka ben:">
+<!ENTITY done.label                     "Hayiizey wey n' ka bere ka ben:">
 
