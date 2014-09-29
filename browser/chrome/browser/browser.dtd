@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "अनुक्रियात्मक डिजायन दृश्य (R)">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "ड्रॉपर (E)">
 <!ENTITY eyedropper.accesskey "E">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टॉगल औज़ार (T)">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "दिखाएँ / छिपाएँ औज़ारपट्टी">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "साझा करने के लिए कैमरा (C):">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "विंडो या स्क्रीन साझा करें (W):">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "साझा करने के लिए माइक्रोफोन (M):">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "कैमरा / माइक्रोफोन पहुँच">
-<!ENTITY webrtcIndicatorButton.tooltip "साइटों को दिखाएँ जिसे आप कैमरा या माइक्रोफोन पर साझा करना चाहते हैं">
 
-<!ENTITY loopCallButton.tooltip "बात करने के लिए किसी को आमंत्रित करें">
 
-<!ENTITY mixedContentBlocked.moreinfo "अधिकतर वेबसाइट अभी भी ठीक से काम करते हैं इसके बावजूद कि सामग्री रूका है.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ट्रैकिंग">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ESC को किसी भी समय इसे दिखाने के लिए दबाएँ.">
 
@@ -750,4 +768,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "बाज़ूपट्टी">
 
 <!ENTITY switchToMetroCmd2.label       "विंडोज 8 टच के लिए &brandShortName; में फिर से शुरू">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "इस क्रिया को पहले जैसा नहीं किया जा सकता है.">
+
+
+
+
 
