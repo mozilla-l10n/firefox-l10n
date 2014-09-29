@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "विच्छेद">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनसट">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "दृश्य">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12 ">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "सीमुलेटर स्थापना गर्नुहोस्">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "वर्णन">
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "बन्द गर्नुहोस्">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "सामान्य">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारित">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "नाम">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "मद्दत">

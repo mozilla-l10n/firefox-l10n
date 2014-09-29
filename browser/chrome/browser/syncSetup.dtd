@@ -91,7 +91,7 @@
 <!ENTITY engine.addons.label        "एड-अन">
 <!ENTITY engine.addons.accesskey    "A">
 
-
+<!ENTITY choice2.merge.recommended.label "सिफारिश गरिएको:">
 
 
 <!-- Confirm Merge Options -->

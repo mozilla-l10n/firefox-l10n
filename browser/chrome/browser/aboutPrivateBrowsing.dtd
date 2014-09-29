@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "निजी ब्राउजिङ">
-<!ENTITY privatebrowsingpage.title.normal          "के तपाई निजी ब्राउजिङ सुरु गर्न चाहनुहुन्छ?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "तपाई अहिले निजी संझ्यालमा हुनुहुन्न ।">
+<!ENTITY aboutPrivateBrowsing.subtitle         " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "निजी ब्राउजिङ्ग सञ्झ्यालमा, &brandShortName; ले कुनै पनि ब्राउजर इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फर्म इतिहास, कुकीहरु, या अस्थायी इन्टरनेट फाइलहरु राख्दैन। तैपनि, तपाईले डाउनलोड गर्नुभएका फाइलहरु र पुस्तकचिनोहरु राखिनेछन्।">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "निजी ब्राउजिङ्ग शुरु गर्न मेनुबाट &newPrivateWindow.label; पनि छान्न सक्नुहुन्छ।">
-<!ENTITY privatebrowsingpage.howToStop3                "निजि ब्राउजिङ रोक्न, यो संझ्याल बन्द गर्न सक्नुहुन्छ ।">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "यस कम्प्युटरमा तपाईको ब्राउजिंग इतिहासको एउटा रेकर्ड पनि हुदैन, तपाईको इन्टरनेट सेवा प्रदायक वा नियोक्ताले तपाईँले हेर्नुभएका पानाहरु पछ्याउन सक्दछ।">
-<!ENTITY privatebrowsingpage.learnMore                 "अझ जान्नुहोस्">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
 
 <!ENTITY privatebrowsingpage.howToStart3               "निजी ब्राउजिङ सुरु गर्न तपाई &basePBMenu.label; &gt; &newPrivateWindow.label; पनि छान्न सक्नुहुन्छ ।">

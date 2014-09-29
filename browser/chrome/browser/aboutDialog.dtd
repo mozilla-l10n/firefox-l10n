@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिक जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "अ">
-<!ENTITY update.updateButton.label                "अद्यावधिक गर्नलाई पुन:शुरु गर्नुहोस्">
-<!ENTITY update.updateButton.accesskey            "R">
+
+
 <!ENTITY update.applyButtonBillboard.label        "अद्यावधिक लागू गर्नुहोस...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -53,7 +53,7 @@
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिदैछ …">
+<!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिदैछ…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; अप टु डेट छ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

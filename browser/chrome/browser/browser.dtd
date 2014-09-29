@@ -232,7 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "उत्तरदायी डिजाइन अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -263,6 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टोगल उपकरण">
@@ -693,6 +695,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "उपकरणपट्टी देखाउनुहोस् वा लुकाउनुहोस्">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "व्यवस्था गर्नुहोस्">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "च्याटमा केन्द्रित">
 <!ENTITY social.chatBar.accesskey "c">
@@ -704,18 +713,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-
-
 <!ENTITY getUserMedia.selectMicrophone.label "माइक्रोफोनलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "तपाईंको स्क्रीन मा सबै देखिने सञ्झ्यालहरु साझेदारी गरिनेछ।">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "क्यामेरा/माइक्रोफोनको पहुँच">
-<!ENTITY webrtcIndicatorButton.tooltip "तपाईले अहिले अाफ्नो माइक्रोफोन र क्यामेरा बाँडिराख्नुभएको साइटहरु देखाउनुहोस्">
 
-<!ENTITY loopCallButton.tooltip "कसैलाई कुरा गर्न आमन्त्रण गर्नुहोस्">
 
-<!ENTITY mixedContentBlocked.moreinfo "यस सामग्रीलाई अवरोध गरेपनि धेरै वेबसाइटहरु अझै पनि राम्रोसँग नै चल्नेछ।">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ट्रयाक गरिँदै">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "यसलाई फेरि देखाउन कुनै पनि समयमा ESC थिच्नुहोस्">
 
@@ -744,4 +762,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "साइडबार">
 
 <!ENTITY switchToMetroCmd2.label       "Windows 8 Touchका लागि &brandShortName;मा पुन सरु गर्नुहोस्">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "यो क्रियाकलाप नहुन सक्दैन।">
+
+
+
+
 
