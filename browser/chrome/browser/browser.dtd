@@ -267,6 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "م">
 
 
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "فعّل الأدوات">
@@ -697,6 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "استعد الإعدادات المبدئية">
 <!ENTITY customizeMode.toolbars "أظهر \ أخفِ أشرطة الأدوات">
 <!ENTITY customizeMode.titlebar "شريط العنوان">
+<!ENTITY customizeMode.lwthemes "السِمات">
+<!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
+<!ENTITY customizeMode.lwthemes.recommended "مُزكَّاة">
+<!ENTITY customizeMode.lwthemes.menuManage "أدِر">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
+<!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ركّز على الدردشات">
@@ -709,18 +718,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "النافذة أو الشاشة التي ستُشارك:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "ن">
 <!ENTITY getUserMedia.selectMicrophone.label "الميكروفون الذي سيُشارك:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ك">
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "الوصول إلى الكمرة \ الميكروفون">
-<!ENTITY webrtcIndicatorButton.tooltip "اعرض المواقع التي أشارك كمرتي أو ميكروفوني معها حاليا">
+<!ENTITY badContentBlocked.moreinfo "أغلب المواقع ستستمر في العمل كما ينبغي حتى بعد منع المحتوى.">
 
-<!ENTITY loopCallButton.tooltip "ادعُ شخصًا إلى محادثة">
+<!ENTITY mixedContentBlocked2.message "محتوى غير آمن">
+<!ENTITY mixedContentBlocked2.moreinfo "منعت بعض العناصر غير المُعمّاة في هذا الموقع.">
+<!ENTITY mixedContentBlocked2.learnMore "اطّلع على المزيد">
+<!ENTITY mixedContentBlocked2.options "الخيارات">
+<!ENTITY mixedContentBlocked2.unblock.label "عطّل الحماية في الوقت الحالي">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "ع">
+<!ENTITY mixedContentBlocked2.block.label "فعّل الحماية">
+<!ENTITY mixedContentBlocked2.block.accesskey "ف">
+<!ENTITY mixedContentBlocked2.disabled.message "الحماية مُعطّلة">
 
-<!ENTITY mixedContentBlocked.moreinfo "أغلب المواقع ستستمر في العمل كما ينبغي حتى بعد منع هذا المحتوى.">
+<!ENTITY trackingContentBlocked.message "التعقب">
+<!ENTITY trackingContentBlocked.moreinfo "منعت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
+<!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
+<!ENTITY trackingContentBlocked.options "الخيارات">
+<!ENTITY trackingContentBlocked.unblock.label2 "أوقف الحماية لهذا الموقع">
+<!ENTITY trackingContentBlocked.block.label "فعّل الحماية">
+<!ENTITY trackingContentBlocked.disabled.message "عُطلت حماية التتبع">
 
 <!ENTITY pointerLock.notification.message "اضغط ESC في أي وقت لإظهارها مرة أخرى.">
 
@@ -749,4 +770,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "الأشرطة الجانبية">
 
 <!ENTITY switchToMetroCmd2.label       "شغّل في &brandShortName; بواجهة وندوز لمس">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "لا يمكن التراجع عن هذا الإجراء.">
+
+
+
+
 
