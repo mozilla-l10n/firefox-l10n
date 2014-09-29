@@ -13,20 +13,28 @@
 
 
 
-<!ENTITY webAudioEditorUI.reloadNotice1   "Qayta yuklash">
+<!ENTITY webAudioEditorUI.reloadNotice1   "Saifani qayta yuklang:">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
 
-<!ENTITY webAudioEditorUI.reloadNotice2   "ko‘rish uchun sahifa va audio tarkibni tahrirlash.">
+<!ENTITY webAudioEditorUI.reloadNotice2   "audio matnini ko‘rish va tahrirlash uchun.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
 
-<!ENTITY webAudioEditorUI.emptyNotice     "Yaratiladigan audio matni kutilmoqda…">
+<!ENTITY webAudioEditorUI.emptyNotice     "Yaratish uchun audio matni kutilmoqda…">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties): This is the label shown
   -  for the properties tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.properties  "Parameterlar">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "AudioNode nazoratchisi">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+
+<!ENTITY webAudioEditorUI.inspectorEmpty  "AudioNode tanlanmadi.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+
+<!ENTITY webAudioEditorUI.propertiesEmpty "Ulam hech qanday xossalarga ega emas.">

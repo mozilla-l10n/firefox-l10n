@@ -59,4 +59,6 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Tarjimon:">
 <!ENTITY translation.options.attribution.afterLogo "">

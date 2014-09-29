@@ -8,16 +8,16 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ushbu oynadagi tarixni saqlab qolmaydi.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; maxfiy oynalardagi tarixni saqlab qolmaydi.">
 
-<!ENTITY aboutPrivateBrowsing.description      "Bunga brauzer tarixi, izlash tarixi, yuklab olish tarixi, veb shakli tarixi, kukilar va vaqtinchalik internet fayllari kiradi.  Shunday boʻlsa ham, yuklab olgan fayllaringiz va xatcho‘plaringiz saqlanadi.">
+<!ENTITY aboutPrivateBrowsing.description      "Bunga brauzer tarixi, izlash tarixi, yuklab olish tarixi, veb shakli tarixi, kukilar va vaqtinchalik internet fayllari kiradi.  Shunday bo‘lsa ham, yuklab olgan fayllaringiz va xatcho‘plaringiz saqlanadi.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Siz hozirda maxfiy oynada emassiz.">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo         "Ushbu kompyuteringiz internetga kirgan saytlaringiz tarixini yozib qolmasa ham, ishxonangiz yoki internet xizmatini ko‘rsatuvchi provayderingiz siz kirgan sahifalarni kuzatishi mumkin.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ko‘proq o‘rganish">
 
-
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Maxfiy koʻrish oynasini ochish">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Maxfiy ko‘rish oynasini ochish">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "Maxfiy koʻrishni boshlash uchun &basePBMenu.label; &gt; &newPrivateWindow.label;ni tanlashingiz mumkin.">
+<!ENTITY privatebrowsingpage.howToStart3               "Maxfiy ko‘rishni boshlash uchun &basePBMenu.label; &gt; &newPrivateWindow.label;ni tanlashingiz mumkin.">

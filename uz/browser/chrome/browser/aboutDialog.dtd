@@ -10,9 +10,9 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Yangilanishlar uchun tekshirish">
 <!ENTITY update.checkForUpdatesButton.accesskey   "t">
-
-
-<!ENTITY update.applyButtonBillboard.label        "Yangilashni qoʻllash...">
+<!ENTITY update.updateButton.label2                "Yangilash uchun &brandShortName;ni qayta ishga tushiring">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Yangilashni qo‘llash...">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -44,7 +44,7 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Litsenziya ma`lumotlari">
+<!ENTITY bottomLinks.license        "Litsenziya ma’lumotlari">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Foydalanish shartlari">
@@ -57,7 +57,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; yangilangan">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Yangilanishlar tizim administratoringiz tomonidan oʻchirib qoʻyilgan">
+<!ENTITY update.adminDisabled       "Yangilanishlar tizimingiz administratori tomonidan o‘chirib qo‘yilgan">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; boshqa manbadan yangilanadi">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -66,8 +66,8 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Yangilab boʻlmadi.">
-<!ENTITY update.failed.linkText     "Soʻnggi versiyani yuklab olish">
+<!ENTITY update.failed.start        "Yangilab bo‘lmadi.">
+<!ENTITY update.failed.linkText     "So‘nggi versiyani yuklab olish">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -84,7 +84,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "Siz uzoq yangilanishlarni ushbu tizimda bajara olmaysiz.">
-<!ENTITY update.unsupported.linkText "Koʻproq oʻrganish">
+<!ENTITY update.unsupported.linkText "Ko‘proq o‘rganish">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -92,10 +92,10 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "- yangilanish yuklab olinmoqda">
+<!ENTITY update.downloading.start   "— yangilanish yuklab olinmoqda">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Yangilash qoʻllanmoqda...">
+<!ENTITY update.applying            "Yangilanish qo‘llanmoqda...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

@@ -17,8 +17,10 @@
 <!ENTITY netmonitorUI.perfNotice2         "ishlab chiqarish natijalarini ishga tushirish uchun bosing.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "Qayta yuklash">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• So‘rovni amalga oshiring yoki">
+<!ENTITY netmonitorUI.reloadNotice2       "Sahifani qayta yuklang -">
+<!ENTITY netmonitorUI.reloadNotice3       "tarmoq faoliyati haqida batafsil ma’lumotlarni ko‘rish uchun">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -46,11 +48,11 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 
-<!ENTITY netmonitorUI.toolbar.waterfall   "Vaqt chizig‘i">
+<!ENTITY netmonitorUI.toolbar.waterfall   "Yilnoma">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
-<!ENTITY netmonitorUI.tab.headers         "Sarlavhalar">
+<!ENTITY netmonitorUI.tab.headers         "Bosh qatorlar">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 

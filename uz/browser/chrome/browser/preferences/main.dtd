@@ -6,34 +6,35 @@
 
 <!ENTITY startupPage.label         "&brandShortName; ishga tushirilganda:">
 <!ENTITY startupPage.accesskey     "i">
-<!ENTITY startupHomePage.label     "Uy sahifamni koʻrsatilsin">
-<!ENTITY startupBlankPage.label    "Boʻsh sahifani koʻrsatilsin">
-<!ENTITY startupLastSession.label  "Soʻnggi marta ochilgan barcha oynalarimni koʻrsatilsin">
+<!ENTITY startupHomePage.label     "Uy sahifam ko‘rsatilsin">
+<!ENTITY startupBlankPage.label    "Bo‘sh sahifa ko‘rsatilsin">
+<!ENTITY startupLastSession.label  "So‘nggi marta ochilgan barcha oynalarim ko‘rsatilsin">
 
-<!ENTITY homepage.label            "Uy sahifa:">
+<!ENTITY homepage.label            "Uy sahifasi:">
 <!ENTITY homepage.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Joriy sahifadan foydalanish">
 <!ENTITY useCurrentPage.accesskey  "J">
 <!ENTITY useMultiple.label         "Joriy sahifalardan foydalanish">
-<!ENTITY chooseBookmark.label      "Xatchoʻplardan foydalanish">
+<!ENTITY chooseBookmark.label      "Xatcho‘plardan foydalanish">
 <!ENTITY chooseBookmark.accesskey  "X">
-<!ENTITY restoreDefault.label      "Standart holatiga tikalsh">
+<!ENTITY restoreDefault.label      "Standart holatiga tiklash">
 <!ENTITY restoreDefault.accesskey  "S">
 
 <!ENTITY downloads.label     "Yuklab olishlar">
 
-<!ENTITY saveTo.label "Fayllarni saqlash:">
+<!ENTITY saveTo.label "Fayllarni saqlash manzili:">
 <!ENTITY saveTo.accesskey "s">
-<!ENTITY chooseFolderWin.label        "Koʻrish">
+<!ENTITY chooseFolderWin.label        "Ko‘rish…">
 <!ENTITY chooseFolderWin.accesskey    "K">
 <!ENTITY chooseFolderMac.label        "Tanlash">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Fayllarni qayerga saqlash doimo mendan soʻralsin">
+<!ENTITY alwaysAsk.label "Fayllarni qayerga saqlash doimo mendan so‘ralsin">
 <!ENTITY alwaysAsk.accesskey "d">
 
-
-
-
-<!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz.">
-
+<!ENTITY alwaysCheckDefault.label         "Ishga tushirilganda doimo &brandShortName; standart brauzer ekanligi tekshirilsin">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser.label      "&brandShortName;ni standart brauzer qilish">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "s">
+<!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz">
+<!ENTITY isNotDefault.label               "&brandShortName; - standart brauzeringiz emas">
 
