@@ -771,3 +771,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "Поново покрени у &brandShortName; за Windows 8 Touch">
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Заборави последњих:">
+<!ENTITY panicButton.view.5min                    "5 минута">
+<!ENTITY panicButton.view.2hr                     "2 сата">
+<!ENTITY panicButton.view.day                     "24 сата">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Поступак ће:">
+<!ENTITY panicButton.view.deleteCookies           "Избрисати недавне <html:strong>колачиће</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Избрисати недавни <html:strong>историјат</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Затворити све <html:strong>језичке</html:strong> и <html:strong>прозоре</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Отворити нови прозор">
+
+<!ENTITY panicButton.view.undoWarning             "Ова радња не може да се поништи.">
+<!ENTITY panicButton.view.forgetButton            "Заборави!">
+
+<!ENTITY panicButton.thankyou.msg1                "Ваша недавна историја је обрисана.">
+<!ENTITY panicButton.thankyou.msg2                "Безбедно прегледање!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Хвала!">
+
