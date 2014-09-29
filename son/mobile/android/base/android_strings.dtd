@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
+
+<!ENTITY  onboard_start_message "Kubayni &brandShortName; ga!">
+<!ENTITY  onboard_start_subtext "War suturaa nda interneti feerante t\u0027ir sartoo">
+<!ENTITY  onboard_start_button_account "Huru &brandShortName; ra">
+<!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Tuku suuba">
 
-<!ENTITY url_bar_default_text "Ceeciyan wala aderesu dam">
+<!ENTITY url_bar_default_text2 "Ceeci wala aderesu dam">
 
 <!ENTITY bookmark "Doo-šilbay">
 <!ENTITY bookmark_added "Doo-šilbay tontonante">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Dabariɲaa tilasu">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Tonton &brandShortName; ga">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Doo-šilbay">
+<!ENTITY overlay_share_reading_list_btn_label "Tonton caw maašeedaa ga">
+<!ENTITY overlay_share_send_other "Sanba jinay taney do">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Sanba jinay tana do">
+<!ENTITY overlay_share_no_url "Dobu kul šii žemnaa woo ra">
+<!ENTITY overlay_share_retry "Ceeci koyne">
+<!ENTITY overlay_share_select_device "Jinay suuba">
 
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Tuusu sohõda">
 <!ENTITY pref_clear_private_data_category "Sutura bayhayey tuusu">
 <!ENTITY pref_clear_on_exit_title "Tuusu waati kul ka fatta">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; ga war bayhayey tuusu nga boŋ še waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋ ga">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ga war bayhayey tuusu nga boŋ se waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋoo ra">
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
 <!ENTITY pref_plugins_enabled "Dirante">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Afozo cirya cahãntaa ga sar war anniyawey jine nda kargayan, nda doonay nda boŋ-naannay sifante. Kaŋ ir ši goy arriba še, kul ir goo d\u0027ir boŋ ka haya tejey šii war še bila nda alman wala hinni m\u0027a waažibandi. Maanaa ti goyyan bešere war še nda zama annuurante Interneti še.">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
-<!ENTITY pref_show_product_announcements "Jinay bangandiyaney cebe">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
 <!ENTITY pref_import_android "Zaa Android ra">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Ibisante">
 <!ENTITY find_next "Jine">
 <!ENTITY find_close "Daabu">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Tenjandi nda jinaa">
+<!ENTITY media_sending_to "Ga sanba jinay do">
 <!ENTITY media_play "Hẽenandi">
 <!ENTITY media_pause "Hunanzamay">
 <!ENTITY media_stop "Kayandi">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Maa zuu">
 <!ENTITY pref_titlebar_mode_title "Maa zuu cebe">
 <!ENTITY pref_titlebar_mode_url "Moo aderesu cebe">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Maazuu cendi">
+<!ENTITY pref_scroll_title_bar2 "Dijikul ceeciyan">
+<!ENTITY pref_scroll_title_bar_summary "&brandShortName; maa zuu tugu nda moɲoo ga cenda ka zunbu">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ Android ra">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

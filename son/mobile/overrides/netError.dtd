@@ -11,28 +11,30 @@
 
 
 <!ENTITY connectionFailure.title "Ši hin ka ciya">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Aderesoo woo ti gagayante">
+<!ENTITY deniedPortAccess.title "Aderesoo woo ga gagayandi">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Aderesoo koroši hantumyan firkawey še sanda 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>Aderesoo koroši hantumyan firkawey se sanda 
 <strong>ww</strong>.example.com manti 
 <strong>www</strong>.example.com</li> 
-<li>Nda war ši hin ka moo kul zumandi, war jinaa ciyari bayhayey wala hewbande (Wi-Fi) ciyaroo koroši.</li> 
+<li>Nda war ši hin ka moo kul zumandi, war jinaa ciyari bayhayey wala hewbande (Wi-Fi) ciyaroo gun ka boori.</li> 
+<button id='wifi'>Wi-Fi tunandi</button> 
+</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Tuku ši duwandi">
+<!ENTITY fileNotFound.title "Tukoo ši duwandi">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Tuku maaɲoo guna harfu beerandiyan wala hantum firka taney še.</li> 
-<li>Guna ka dii wala tukooo mana ganandi, maa-barmandi, wala tuusandi.</li> 
+<li>Tuku maaɲoo guna harfu beerandiyan wala hantum firka taney se.</li> 
+<li>Guna ka dii wala tukoo mana ganandi, maa barmay, wala tuusandi.</li> 
 </ul>">
 
 
 <!ENTITY generic.title "Aywa, woo ši hin ka toonandi.">
-<!ENTITY generic.longDesc "<p>Dalil foo še &brandShortName; ši hin ka moɲoo woo zumandi.</p>">
+<!ENTITY generic.longDesc "<p>Dalil foo se &brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Ciyaroo dunbu">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Takaddaa waatoo ben">
 <!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Ceeci koyne. &brandShortName; ga wiri ka ciyari feeri ka moɲoo zumandi taaga.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Ceeci koyne. &brandShortName; ga wiri ka dobu feeri nda ga moɲoo zumandi taaga. 
+<button id='wifi'>Wi-Fi tunandi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Aderesoo mana fahamandi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,9 +86,11 @@ goy ra.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Mana hin ka duu feršikaw tokoraa">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Tokore kayandiyaney koroši ka alhakiika kaŋ i ga šerre.</li> 
-<li>Koroši ka alhakiika kaŋ war jinaa goo nda bayhaya wala hewbande (Wi-Fi) ciyari goyante.</li> 
+<li>Koroši k'alhakiika kaŋ war jinaa goo nda bayhaya wala hewbande (Wi-Fi) ciyari goyante. 
+<button id='wifi'>Wi-Fi tunandi</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Moɲoo woo ši ma bisandi taaga boryo">
@@ -96,7 +102,7 @@ goy ra.</li>
 <!ENTITY unknownSocketType.title "Zaabi kaŋ mana naatandi hun feršikaa do">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Guna ka alhakiika wala boŋ-saajaw juwalkaw 
- sinjandi.</li> 
+sinjandi.</li> 
 <li>Woo aššiloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.</li> 
 </ul>">
 
@@ -114,9 +120,10 @@ boro foo goo ma ceeci ka war feršikaa ženti.</li>
 waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Nungoo mana hin ka duwandi waati foo ra wal'a cindi goy ra. Ceeci koyne nd'a too kayna.</li> 
-<li>Nda war ši hin ka moo kul zumandi, war jinaa bayhayey wala hewbande ciyaroo koroši.</li> 
+<li>Nda war ši hin ka moo kul zumandi, war jinaa bayhayey wala hewbande (Wi-Fi) ciyaroo koroši. <button id='wifi'>Wi-Fi tunandi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
@@ -134,9 +141,9 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL moora">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare de wa šendaa woo bayrandi Interneti nungoo koyey še.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare de wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
 
