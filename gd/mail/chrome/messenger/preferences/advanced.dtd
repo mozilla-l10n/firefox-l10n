@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
 <!ENTITY certs.auto                      "Taghar fear leis fhèin">
-<!ENTITY certs.auto.accesskey            "T">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Faighnich dhìom gach turas">
 <!ENTITY certs.ask.accesskey             "a">
+<!ENTITY enableOCSP.label                "Cuir ceist air OCSP Responder Servers airson dligheachd nan teisteanasan a dhearbhadh">
+<!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY viewCertificates.label         "Seall na teisteanasan">
 <!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY validation.label               "Dearbhadh">
-<!ENTITY validation.accesskey           "D">
-<!ENTITY viewSecurityDevices.label      "Innealan tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey  "I">
+<!ENTITY viewSecurityDevices.label      "Uidheaman tèarainteachd">
+<!ENTITY viewSecurityDevices.accesskey  "U">

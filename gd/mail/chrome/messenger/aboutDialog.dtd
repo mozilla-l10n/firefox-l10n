@@ -8,8 +8,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Thoir sùil airson ùrachaidhean">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label                "Ath-thòisich gus ùrachadh">
-<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.updateButton.label2               "Tòisich &brandShortName; a-rithist airson ùrachadh">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Cuir an sàs an t-ùrachadh…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 

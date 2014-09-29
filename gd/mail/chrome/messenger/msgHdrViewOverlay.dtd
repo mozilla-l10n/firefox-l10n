@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Freagair a h-uile seòladair is faightear">
 <!ENTITY hdrReplyListButton1.label "Freagair an liosta">
 <!ENTITY hdrReplyListButton1.tooltip "Freagair an liosta puist">
-<!ENTITY hdrFollowupButton1.label "Freragair">
+<!ENTITY hdrFollowupButton1.label "Freagair">
 <!ENTITY hdrFollowupButton1.tooltip "Freagair am buidheann-naidheachd seo">
 <!ENTITY hdrMenuForwardButton.label "Sìn air adhart mar">
 <!ENTITY hdrForwardButton1.label "Sìn air adhart">
