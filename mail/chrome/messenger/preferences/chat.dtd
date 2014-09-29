@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Trametter notificaziuns davart il tippar en conversaziuns">
 <!ENTITY  sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "Sch'in messadi adressà a tai arriva:">
+<!ENTITY  desktopChatNotifications.label      "Mussar in avis">
+<!ENTITY  desktopChatNotifications.accesskey  "a">
+<!ENTITY  chatSound.accesskey                 "t">
+<!ENTITY  chatSound.label                     "Far ir in tun">
+<!ENTITY  play.label                          "Far ir">
+<!ENTITY  play.accesskey                      "F">
+<!ENTITY  systemSound.label                   "Tun da standard dal sistem per novs e-mails">
+<!ENTITY  systemSound.accesskey               "d">
+<!ENTITY  customsound.label                   "Utilisar questa datoteca da tun">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Navigar…">
+<!ENTITY  browse.accesskey                    "N">
+

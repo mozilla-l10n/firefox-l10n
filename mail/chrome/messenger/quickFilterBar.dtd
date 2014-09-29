@@ -23,6 +23,13 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
          "s">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Trav per filtrar svelt">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -39,13 +46,6 @@
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
          "Laschar activà ils criteris dals filters cun midar l'ordinatur">
-
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-<!ENTITY quickFilterBar.barLabel.label
-         "Filter svelt:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -160,17 +160,14 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
          "Filtrar quests messadis… #1">
-         
+
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 <!ENTITY quickFilterBar.show.key2
          "k">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel2.nonmac):
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
-     linux (which use the control key).  We use the keybinding for cmd_find
-     used by the find-in-message mechanism, so that's the letter to indicate
-     if you don't use 'f' for your localization.
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
@@ -179,13 +176,35 @@
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
-     We use the keybinding for cmd_find used by the find-in-message mechanism,
-     so that's the letter to indicate  if you don't use 'f' for your
-     localization.
      This should match the value of quickFilterBar.show.key above.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Modus da filtrar etichettas">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Tuts da">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Almain in dals criteris d'etichettas tschernids sto correspunder">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Tuts">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tut ils criteris d'etichettas tschernids ston correspunder">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.

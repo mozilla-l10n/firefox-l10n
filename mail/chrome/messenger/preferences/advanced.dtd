@@ -62,22 +62,18 @@
 <!ENTITY closeMsgOnMoveOrDelete.label  "Serrar la fanestra/il tab dal messadi cun spustar u stizzar">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
-
 <!-- Update -->
-<!ENTITY autoCheck.label                "Tschertgar automaticamain actualisaziuns per:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Supplements installads">
-<!ENTITY enableAddonsUpdate.accesskey   "p">
-<!ENTITY whenUpdatesFound.label         "Sche actualisaziuns per &brandShortName; èn disponiblas,">
-<!ENTITY modeAskMe.label                "dumandar tge far">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "telechargiar ed installar automaticamain l'actualisaziun">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Avisar, per cas ch'in supplement vegn deactivà qua tras">
-<!ENTITY modeAutoAddonWarn.accesskey    "A">
-<!ENTITY showUpdates.label              "Mussar la cronologia da las actualisaziuns">
-<!ENTITY showUpdates.accesskey          "S">
+<!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
+<!ENTITY updateAuto.label                "Installar automaticamain actualisaziuns (recumandà, pli segir)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ellas duain vegnir installadas">
+<!ENTITY updateCheck.accesskey           "T">
+<!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "M'avisar sche supplements vegnissan deactivads quatras">
+<!ENTITY updateAutoAddonWarn.accesskey   "d">
+<!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
+<!ENTITY updateHistory.accesskey         "c">
 
 <!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "r">
@@ -118,8 +114,6 @@
 
 <!ENTITY viewCertificates.label         "Mussar ils certificats">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Glistas da revocaziun">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "Validaziun">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Moduls da criptadi">

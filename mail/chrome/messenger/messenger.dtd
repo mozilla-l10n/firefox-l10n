@@ -6,7 +6,7 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Ordinatur">
+<!ENTITY newFolderCmd.label "Ordinatur…">
 <!ENTITY newFolderCmd.accesskey "d">
 <!ENTITY closeTabCmd2.label "Serrar il tab">
 <!ENTITY closeTabCmd2.accesskey "e">
@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "l">
 <!ENTITY synchronizeOfflineCmd.label "Telechargiar/sincronisar ussa…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Configuraziun dal modus offline…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Configuraziun dal modus offline">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Retschaiver ils messadis marcads">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Retschaiver ils messadis cun staila">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Ordinatur da favurits">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Caracteristicas…">
-<!ENTITY folderPropsFolderCmd.label "Caracteristicas da l'ordinatur…">
-<!ENTITY folderPropsNewsgroupCmd.label "Caracteristicas da la gruppa da discussiun…">
+<!ENTITY folderPropsCmd2.label "Caracteristicas">
+<!ENTITY folderPropsFolderCmd2.label "Caracteristicas da l'ordinatur">
+<!ENTITY folderPropsNewsgroupCmd2.label "Caracteristicas da la gruppa da discussiun">
 <!ENTITY folderPropsCmd.accesskey "r">
 <!ENTITY undoDeleteMsgCmd.label "Revocar: Stizzar il messadi">
 <!ENTITY redoDeleteMsgCmd.label "Repeter: Stizzar il messadi">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Ultims ordinaturs">
 <!ENTITY recentFolders.accesskey "L">
+<!ENTITY compactVersion.label "Vista cumpacta">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Zavrar tenor">
@@ -379,9 +381,9 @@
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etichetta">
 <!ENTITY tagMenu.accesskey "E">
-<!ENTITY tagCmd0.key "1">
+<!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "1">
+<!ENTITY tagCmd2.key "2">
 <!ENTITY tagCmd3.key "3">
 <!ENTITY tagCmd4.key "4">
 <!ENTITY tagCmd5.key "5">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Datotecas memorisadas">
 <!ENTITY savedFiles.accesskey "m">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filters da messadis…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filters da messadis">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Exequir ils filters en l'ordinatur">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Exequir ils filters per ils messadis tschernids">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Stizzar la cronologia pli nova…">
 <!ENTITY clearRecentHistory.accesskey "c">
-<!ENTITY accountManagerCmd.label "Configuraziun da contos…">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Configuraziun da contos">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "c">
 <!ENTITY allowRemoteDebugging.label "Lubir debugging a distanza">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
@@ -563,8 +565,10 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mussar il cuntegn extern en quest messadi">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY remoteContentOptionAllowForAddress.label "Mussar il cuntegn extern da quest speditur">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "p">
+<!ENTITY editRemoteContentSettings.label "Modifitgar las preferenzas per cuntegn extern…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Modifitgar las preferenzas per cuntegn extern…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorar l'avertiment per quest messadi">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Tschertgar messadis…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Caracteristicas…">
-<!ENTITY folderContextProperties.accesskey "C">
+<!ENTITY folderContextProperties2.label "Caracteristicas">
+<!ENTITY folderContextProperties2.accesskey "C">
 <!ENTITY folderContextFavoriteFolder.label "Ordinatur da favurits">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Preferenzas…">
-<!ENTITY folderContextSettings.accesskey "P">
+<!ENTITY folderContextSettings2.label "Preferenzas">
+<!ENTITY folderContextSettings2.accesskey "P">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Il num u il messadi cuntegna:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Avrir il messadi sco conversaziun">
 <!ENTITY contextOpenConversation.accesskey "v">
+<!ENTITY contextOpenContainingFolder.label "Avrir il messadi en l'ordinatur che cuntegna el">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Modifitgar sco nov messadi">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
 <!ENTITY contextArchive.label "Archivar">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferenzas…">
+<!ENTITY preferencesCmdMac2.label       "Preferenzas">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Servetschs">

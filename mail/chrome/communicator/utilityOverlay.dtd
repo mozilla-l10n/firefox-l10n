@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label            "Datoteca">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label        "Marcar tut">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "M">
-<!ENTITY preferencesCmd.label          "Preferenzas…">
-<!ENTITY preferencesCmd.accesskey      "e">
+<!ENTITY preferencesCmd2.label          "Preferenzas">
+<!ENTITY preferencesCmd2.accesskey      "e">
 <!ENTITY preferencesCmdUnix.label      "Preferenzas">
 <!ENTITY preferencesCmdUnix.accesskey  "e">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey    "T">
 <!ENTITY showTaskbarCmd.label          "Trav da status">
 <!ENTITY showTaskbarCmd.accesskey      "u">
-
-<!ENTITY proxy.label                   "Configuraziun dal proxy…">
-<!ENTITY proxy.accesskey               "C">
 
 <!ENTITY closeCmd.label        "Serrar">
 <!ENTITY closeCmd.key          "W">

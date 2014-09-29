@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "Administrar abunaments…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
+<!ENTITY feedWindowTitle.label "Assistent per contos da feed">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs &amp; feeds da novitads">
 <!ENTITY feeds.wizardShortName "Feeds">

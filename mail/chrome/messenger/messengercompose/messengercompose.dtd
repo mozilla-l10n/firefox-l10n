@@ -88,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Marcar tut">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
-<!ENTITY findCmd.label "Tschertgar e remplazzar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "h">
+<!ENTITY findBarCmd.label "Tschertgar…">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Tschertgar e remplazzar…">
+<!ENTITY findReplaceCmd.accesskey "h">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Tschertgar engiu">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Tschertgar ensi">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "i"> 
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vista"> 
@@ -180,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Cudeschet d'adressas">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Configuraziun dals contos…">
-<!ENTITY accountManagerCmd.accesskey "C">
-<!ENTITY accountManagerCmdUnix.accesskey "C">
-<!ENTITY preferencesCmd.label "Preferenzas…">
-<!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY preferencesCmdUnix.label       "Preferenzas">
-<!ENTITY preferencesCmdUnix.accesskey   "P"> 
+<!ENTITY accountManagerCmd2.label "Configuraziun dals contos">
+<!ENTITY accountManagerCmd2.accesskey "C">
+<!ENTITY accountManagerCmdUnix2.accesskey "C">
+<!ENTITY preferencesCmd2.label "Preferenzas">
+<!ENTITY preferencesCmd2.accesskey "P">
+<!ENTITY preferencesCmdUnix.label "Preferenzas">
+<!ENTITY preferencesCmdUnix.accesskey "P"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">

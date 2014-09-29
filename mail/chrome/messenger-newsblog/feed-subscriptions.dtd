@@ -18,6 +18,12 @@
 <!ENTITY quickMode.label             "Mussar la resumaziun da l'artitgel empè da chargiar la website">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "Crear automaticamain etichettas cun ils nums da la &lt;categoria&gt; dal feed">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefix per las etichettas:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Endatescha il prefix per las etichettas">
+
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Controllar la validaziun e retschaiver ina URL valida.">
 
@@ -34,3 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exportar ils feeds cun la structura dad ordinaturs; clicca cun ctrl u smatga la tasta enter cun ctrl per exportar ils feeds sco glista">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Serrar">
