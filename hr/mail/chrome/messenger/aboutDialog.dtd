@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Provjeri dostupnost dopuna">
 <!ENTITY update.checkForUpdatesButton.accesskey   "d">
-<!ENTITY update.updateButton.label                "Ponovno pokrenite za nadogradnju">
+<!ENTITY update.updateButton.label2               "Ponovno pokreni &brandShortName; za ažuriranje">
 <!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Primijeni dopunu…">
 <!ENTITY update.applyButtonBillboard.accesskey    "P">

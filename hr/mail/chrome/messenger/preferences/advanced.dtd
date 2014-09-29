@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Kada poslužitelj zatraži moj osobni certifikat:">
 <!ENTITY certs.auto                      "Automatski odaberi jedan">
-<!ENTITY certs.auto.accesskey            "O">
+<!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Pitaj me svaki put">
 <!ENTITY certs.ask.accesskey             "a">
+<!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata">
+<!ENTITY enableOCSP.accesskey            "U">
 
 <!ENTITY viewCertificates.label         "Prikaz certifikata">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY validation.label               "Provjera valjanosti">
-<!ENTITY validation.accesskey           "v">
 <!ENTITY viewSecurityDevices.label      "Sigurnosni uređaji">
 <!ENTITY viewSecurityDevices.accesskey  "S">
