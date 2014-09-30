@@ -746,3 +746,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label "Panele boczne">
 <!ENTITY switchToMetroCmd2.label "Przejdź do programu &brandShortName; w stylu Windows 8 Touch">
+
+<!ENTITY panicButton.view.mainTimeframeDesc "Wyczyść historię przeglądania ostatnich:">
+<!ENTITY panicButton.view.5min "Pięciu minut">
+<!ENTITY panicButton.view.2hr "Dwóch godzin">
+<!ENTITY panicButton.view.day "24 godzin">
+<!ENTITY panicButton.view.mainActionDesc "Czyszczenie spowoduje:">
+<!ENTITY panicButton.view.deleteCookies "Usunięcie ostatnich <html:strong>ciasteczek</html:strong>">
+<!ENTITY panicButton.view.deleteHistory "Usunięcie ostatniej <html:strong>historii</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows "Zamknięcie wszystkich <html:strong>kart</html:strong> i <html:strong>okien</html:strong>">
+<!ENTITY panicButton.view.openNewWindow "Otwarzenie nowego okna">
+<!ENTITY panicButton.view.undoWarning "Tej operacji nie można cofnąć.">
+<!ENTITY panicButton.view.forgetButton "Wyczyść!">
+<!ENTITY panicButton.thankyou.msg1 "Historia ostatniego przeglądania została wyczyszczona.">
+<!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">
+<!ENTITY panicButton.thankyou.buttonlabel "Dzięki!">
