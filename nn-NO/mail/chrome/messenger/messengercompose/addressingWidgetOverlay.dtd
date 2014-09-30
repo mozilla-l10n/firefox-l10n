@@ -8,6 +8,6 @@
 <!ENTITY ccAddr.label   "Kopi til:"> 
 <!ENTITY bccAddr.label  "Blindkopi til:"> 
 <!ENTITY replyAddr.label   "Svar til:"> 
-<!ENTITY newsgroupsAddr.label   "Nyheitsgruppe:"> 
+<!ENTITY newsgroupsAddr.label   "Nyhendegruppe:"> 
 <!ENTITY followupAddr.label   "Oppfølging til:"> 
 
