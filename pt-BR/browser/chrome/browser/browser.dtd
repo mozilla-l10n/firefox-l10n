@@ -750,3 +750,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "Abrir no &brandShortName; para Windows 8 Touch">
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Esquecer os últimos:">
+<!ENTITY panicButton.view.5min                    "Cinco minutos">
+<!ENTITY panicButton.view.2hr                     "Duas horas">
+<!ENTITY panicButton.view.day                     "24 horas">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "O prosseguimento irá:">
+<!ENTITY panicButton.view.deleteCookies           "Excluir <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Excluir <html:strong>histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todas as <html:strong>abas</html:strong> e <html:strong>janelas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma janela limpa">
+
+<!ENTITY panicButton.view.undoWarning             "Esta ação não poderá ser desfeita.">
+<!ENTITY panicButton.view.forgetButton            "Esquecer!">
+
+<!ENTITY panicButton.thankyou.msg1                "Seus dados pessoais recentes estão limpos.">
+<!ENTITY panicButton.thankyou.msg2                "Boa navegação!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
+
