@@ -213,6 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Doplnky">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Aplikácie">
+<!ENTITY webapps.accesskey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
 <!ENTITY webDeveloperMenu.accesskey   "W">
