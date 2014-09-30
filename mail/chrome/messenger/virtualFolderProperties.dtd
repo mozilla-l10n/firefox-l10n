@@ -10,11 +10,11 @@
 
 <!ENTITY searchTermCaption.label "Vel søkekriteria for dette søket: ">
 
-<!ENTITY folderSelectionCaption.label "Vel mapper å søke i: ">
+<!ENTITY folderSelectionCaption.label "Vel mapper å søkja i: ">
 <!ENTITY chooseFoldersButton.label "Vel …">
 <!ENTITY chooseFoldersButton.accesskey "V">
 
-<!ENTITY searchOnline.label "Søk på ekstern tenar kvar gong (gjer at det tek lengre tid å opne mappa).">
+<!ENTITY searchOnline.label "Søk på ekstern tenar kvar gong (gjer at det tek lengre tid å opna mappa).">
 <!ENTITY searchOnline.accesskey "t">
 <!ENTITY newFolderButton.label       "Opprett">
 <!ENTITY newFolderButton.accesskey   "r">

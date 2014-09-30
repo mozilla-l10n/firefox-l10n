@@ -31,7 +31,7 @@
 <!ENTITY hdrReplyListButton1.label "Svar til liste">
 <!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
 <!ENTITY hdrFollowupButton1.label "Følg opp">
-<!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyheitsgruppa">
+<!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyhendegruppa">
 <!ENTITY hdrMenuForwardButton.label "Vidaresend som">
 <!ENTITY hdrForwardButton1.label "Vidaresend">
 <!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
@@ -50,17 +50,17 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton1.label "Andre handlingar">
-<!ENTITY otherActionsOpenConversation1.label "Opne i samtale">
+<!ENTITY otherActionsOpenConversation1.label "Opna i samtale">
 <!ENTITY otherActionsOpenConversation1.accesskey "O">
-<!ENTITY otherActionsOpenInNewWindow1.label "Opne i nytt vindauge">
+<!ENTITY otherActionsOpenInNewWindow1.label "Opna i nytt vindauge">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
-<!ENTITY otherActionsOpenInNewTab1.label "Opne i ny fane">
+<!ENTITY otherActionsOpenInNewTab1.label "Opna i ny fane">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "e">
 <!ENTITY markAsReadMenuItem1.label "Merk som lest">
 <!ENTITY markAsReadMenuItem1.accesskey "M">
 <!ENTITY markAsUnreadMenuItem1.label "Merk som ulesen">
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
-<!ENTITY saveAsMenuItem1.label "Lagre som …">
+<!ENTITY saveAsMenuItem1.label "Lagra som …">
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
@@ -72,37 +72,37 @@
 <!ENTITY startExpandedCmd.accesskey    "V">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Opne">
+<!ENTITY openAttachmentCmd.label    "Opna">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
+<!ENTITY saveAsAttachmentCmd.label    "Lagra som …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
 <!ENTITY detachAttachmentCmd.accesskey    "T">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
 <!ENTITY deleteAttachmentCmd.accesskey    "L">
-<!ENTITY openAllAttachmentsCmd.label    "Opne alle …">
+<!ENTITY openAllAttachmentsCmd.label    "Opna alle …">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
+<!ENTITY saveAllAttachmentsCmd.label    "Lagra alle …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
-<!ENTITY openAttachment.tooltip "Opne vedlagde fil">
+<!ENTITY openAttachment.tooltip "Opna vedlagde fil">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label       "Lagre">
-<!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagde fil">
-<!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Lagre alle vedlagde filer">
+<!ENTITY saveAttachmentButton1.label       "Lagra">
+<!ENTITY saveAttachmentButton1.tooltip     "Lagra vedlagde fil">
+<!ENTITY saveAllAttachmentsButton1.label   "Lagra alle">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Lagra alle vedlagde filer">
 
 <!ENTITY copyLinkCmd.label        "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopier meldings-ID">
 <!ENTITY CopyMessageId.accesskey "K">
-<!ENTITY OpenMessageForMsgId.label "Opne melding for ID">
+<!ENTITY OpenMessageForMsgId.label "Opna melding for ID">
 <!ENTITY OpenMessageForMsgId.accesskey "n">
-<!ENTITY OpenBrowserWithMsgId.label "Opne nettlesar med meldings-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Opna nettlesar med meldings-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "e">
