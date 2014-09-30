@@ -34,7 +34,7 @@
 
 <!ENTITY choose_file "Izvēlieties failu">
 
-<!ENTITY url_bar_default_text "Ievadiet adresi vai meklējamo frāzi">
+<!ENTITY url_bar_default_text2 "Ievadiet adresi vai meklējamo frāzi">
 
 <!ENTITY bookmark "Grāmatzīme">
 <!ENTITY bookmark_added "Grāmatzīme pievienota">
@@ -156,7 +156,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Mazā oranžā lapsa pārlēca pāri glāžšķūņa rūķeļiem ātrāk, veiklāk un drošāk. Kā bezpeļņas organizācija, mēs atļaujamies inovēt bez kompromisiem. Tas nozīmē patīkamāku pārlūkošanu jums un gaišāku nākotni tīmeklim.">
 
 <!ENTITY pref_use_master_password "Izmantot galveno paroli">
-<!ENTITY pref_show_product_announcements "Rādīt produktu paziņojumus">
 <!ENTITY pref_sync "Sinhronizēšana">
 <!ENTITY pref_search_suggestions "Rādīt meklēšanas ieteikumus">
 <!ENTITY pref_import_android "Importēt no Android">
@@ -226,6 +225,8 @@ size. -->
 <!ENTITY quit "Iziet">
 <!ENTITY edit_mode_cancel "Atcelt">
 <!ENTITY ellipsis "…">
+<!ENTITY colon ":">
+
 <!ENTITY home_move_up_to_filter "Atpakaļ uz &formatS;">
 
 <!ENTITY addons "Papildinājumi">
@@ -257,12 +258,41 @@ size. -->
 <!ENTITY find_next "Nākamā">
 <!ENTITY find_close "Aizvērt">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Raidīšana uz ierīci">
-<!ENTITY media_play "Atskaņot">
-<!ENTITY media_pause "Pauzēt">
-<!ENTITY media_stop "Apturēt">
+<!ENTITY media_sending_to "Sending to Device">
+<!ENTITY media_play "Play">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Stop">
+
+<!ENTITY  onboard_start_message "Laipni lūgti &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Rūpēs par jūsu privātumu un Interneta atvērtību">
+<!ENTITY  onboard_start_button_account "Pierakstīties &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
+
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Pievienot &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Grāmatzīme">
+<!ENTITY overlay_share_reading_list_btn_label "Pievienot lasīšanas sarakstam">
+<!ENTITY overlay_share_send_other "Sūtīt uz citām ierīcēm">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Sūtīt uz citu ierīci">
+<!ENTITY overlay_share_no_url "Saite nav atrasta">
+<!ENTITY overlay_share_retry "Mēģināt vēlreiz">
+<!ENTITY overlay_share_select_device "Izvēlieties ierīci">
+
+
 
 <!ENTITY contextmenu_open_new_tab "Atvērt jaunā cilnē">
 <!ENTITY contextmenu_open_private_tab "Atvērt privātā cilnē">
@@ -287,7 +317,8 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Ritināt virsraksta joslu">
+<!ENTITY pref_scroll_title_bar2 "Pārlūkot pilnekrānā">
+<!ENTITY pref_scroll_title_bar_summary "Paslēpt &brandShortName; virsraksta joslu ritinot lapas">
 
 <!ENTITY bookmark_edit_title "Grāmatzīmes rediģēšana">
 <!ENTITY bookmark_edit_name "Nosaukums">
@@ -341,7 +372,8 @@ size. -->
 <!ENTITY home_open_all "Atvērt visu">
 
 <!ENTITY pref_clear_on_exit_title "Vienmēr notīrīt aizverot">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties  \u0022Iziet\u0022 no galvenās izvēlnes">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties \u0022Iziet\u0022 no galvenās izvēlnes">
+
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
 
 
