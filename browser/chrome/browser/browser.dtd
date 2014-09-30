@@ -266,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
@@ -742,8 +744,7 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY trackingContentBlocked.moreinfo "Partes de la página que rastrean su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Conocer más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock2.label "Deshabilitar protección para este sitio">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.unblock.label2 "Deshabilitar protección para este sitio">
 <!ENTITY trackingContentBlocked.block.label "Habilitar protección">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de rastreo está deshabilitada">
 
