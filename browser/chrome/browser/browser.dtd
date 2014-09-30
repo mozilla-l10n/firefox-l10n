@@ -779,7 +779,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Poursuivre va :">
+<!ENTITY panicButton.view.mainActionDesc          "Si vous continuez vous allez :">
 <!ENTITY panicButton.view.deleteCookies           "Effacer les <html:strong>cookies</html:strong> récents">
 <!ENTITY panicButton.view.deleteHistory           "Effacer <html:strong>l'historique</html:strong> récent">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fermer tous les <html:strong>onglets</html:strong> et toutes les <html:strong>fenêtres</html:strong>">
@@ -788,6 +788,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.undoWarning             "Cette action est irréversible.">
 <!ENTITY panicButton.view.forgetButton            "Effacer">
 
-<!ENTITY panicButton.thankyou.msg1                "Votre historique récent a correctement été effacé.">
+<!ENTITY panicButton.thankyou.msg1                "Votre historique récent a été correctement effacé.">
 <!ENTITY panicButton.thankyou.msg2                "Bonne navigation !">
 <!ENTITY panicButton.thankyou.buttonlabel         "Merci !">
