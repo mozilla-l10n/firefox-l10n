@@ -11,18 +11,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nevar pieslēgties">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Šī adrese ir liegta">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveris nav atrasts">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Pārbaudiet, vai adresē nav drukas kļūdu, piemēram,
     <strong>ww</strong>.example.com, kur būtu jābūt
     <strong>www</strong>.example.com</li>
-  <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu.</li>
+  <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu.
+  <button id='wifi'>Ieslēgt Wi-Fi</button></li>
 </ul>
 ">
 
@@ -59,15 +60,16 @@
 ">
 
 <!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentam ir beidzies derīguma termiņš">
 <!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams &brandShortName; kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ &brandShortName; automātiski neveic sensitīvu dokumentu atkārtotu ielādi.</li><li>Spiediet pogu Mēģināt vēlreiz, lai atkārtoti ielādētu šo dokumentu no attiecīgās vietnes.</li></ul>">
 
 <!ENTITY netOffline.title "Nesaistes režīms">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Mēģiniet vēlreiz. &brandShortName; mēģinās atvērt savienojumu un ielādēt lapu.</li>
+  <li>Mēģiniet vēlreiz. &brandShortName; mēģinās atvērt savienojumu un ielādēt lapu.
+  <button id='wifi'>Ieslēgt Wi-Fi</button></li>
 </ul>
 ">
 
@@ -86,10 +88,10 @@
 ">
 
 <!ENTITY netReset.title "Savienojums tika pārtraukts">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY proxyConnectFailure.title "Starpniekserveris nepieņem savienojumus">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -100,10 +102,11 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Nevar atrast starpniekserveri">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Lūdzu, pārbaudiet starpniekservera iestatījumus un pārliecinieties, ka tie ir korekti.</li>
-  <li>Pārliecinieties, ka ierīces datu vai Wi-Fi savienojums darbojas.</li>
+  <li>Pārliecinieties, ka ierīces datu vai Wi-Fi savienojums darbojas.
+  <button id='wifi'>Ieslēgt Wi-Fi</button></li>
 </ul>
 ">
 
@@ -138,10 +141,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Lapa var būt īslaicīgi nepieejama vai pārāk noslogota, mēģiniet vēlreiz nedaudz vēlāk.</li>
-  <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu.</li>
+  <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu.
+  <button id='wifi'>Ieslēgt Wi-Fi</button></li>
 </ul>
 ">
 
