@@ -313,8 +313,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Изабери све">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "а"> 
-<!ENTITY preferencesCmd2.label       "Опције">
-<!ENTITY preferencesCmd2.accesskey     "О">
+<!ENTITY preferencesCmd2.label       "Поставке">
+<!ENTITY preferencesCmd2.accesskey     "о">
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П"> 
 
@@ -663,7 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Подеси &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "П">
+<!ENTITY syncSetup.accesskey          "и">
 <!ENTITY syncSyncNowItem.label        "Синхронизуј сада">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Поново се конектуј на &syncBrand.shortName.label;…">
