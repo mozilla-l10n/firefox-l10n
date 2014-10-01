@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Ruang yang tersedia tidak mencukupi untuk memulai &brandShortName;.">
 <!ENTITY  error_loading_file "Galat terjadi saat mencoba memuat berkas yang dibutuhkan untuk menjalankan &brandShortName;">
 
+<!ENTITY  onboard_start_message "Selamat Datang di &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Berkomitmen untuk Anda, privasi Anda, dan Web Terbuka">
+<!ENTITY  onboard_start_button_account "Masuk ke &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Markah">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Pilih Berkas">
 
-<!ENTITY url_bar_default_text "Masukkan yang Dicari atau Alamat">
+<!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
 <!ENTITY bookmark "Markah">
 <!ENTITY bookmark_added "Markah ditambahkan">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Bahasa baku sistem">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Tambahkan ke &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Markah">
+<!ENTITY overlay_share_reading_list_btn_label "Tambahkan ke Daftar Bacaan">
+<!ENTITY overlay_share_send_other "Kirim ke perangkat lainnya">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Kirim ke perangkat lainnya">
+<!ENTITY overlay_share_no_url "Tidak ada tautan yang ditemukan dalam pembagian ini">
+<!ENTITY overlay_share_retry "Coba lagi">
+<!ENTITY overlay_share_select_device "Pilih perangkat">
 
 
 <!ENTITY pref_category_search3 "Pencarian">
@@ -150,7 +176,7 @@
 <!ENTITY pref_clear_private_data2 "Bersihkan sekarang">
 <!ENTITY pref_clear_private_data_category "Bersihkan data pribadi">
 <!ENTITY pref_clear_on_exit_title "Selalu bersihkan saat keluar">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; will automatically clear your data whenever you select “Quit“ from the main menu">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis saat Anda memilih \u0022Keluar\u0022 dari menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data untuk dibersihkan">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Aktif">
@@ -179,7 +205,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Si rubah jingga nan tangkas berlari secepat kilat, lebih cepat, lebih lentur, dan lebih aman dari yang disangka. Sebagai nirlaba, kami bebas berinovasi untuk Anda tanpa tekanan dari pihak mana saja. Yang artinya, pengalaman lebih baik untuk Anda, serta masa depan yang lebih cerah untuk dunia Web kita semua.">
 
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
-<!ENTITY pref_show_product_announcements "Tampilkan berita tentang produk">
 <!ENTITY pref_sync "Sinkronkan">
 <!ENTITY pref_search_suggestions "Tampilkan saran pencarian">
 <!ENTITY pref_import_android "Impor dari Android">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "Selanjutnya">
 <!ENTITY find_close "Tutup">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Diteruskan ke Perangkat">
+<!ENTITY media_sending_to "Mengirimkan ke Perangkat">
 <!ENTITY media_play "Putar">
 <!ENTITY media_pause "Jeda">
 <!ENTITY media_stop "Hentikan">
@@ -303,9 +328,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Tampilkan judul halaman">
 <!ENTITY pref_titlebar_mode_url "Tampilkan alamat halaman">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Gulung bilah judul">
+<!ENTITY pref_scroll_title_bar2 "Penjelajahan Layar Penuh">
+<!ENTITY pref_scroll_title_bar_summary "Sembunyikan bilah judul &brandShortName; saat menggulung ke bawah pada laman">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -463,6 +490,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

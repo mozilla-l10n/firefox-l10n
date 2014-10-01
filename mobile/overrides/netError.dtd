@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server tidak ditemukan">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Periksa kesalahan pengetikan pada alamat seperti 
 <strong>ww</strong>.example.com yang seharusnya 
 <strong>www</strong>.example.com</li> 
-<li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.</li> 
+<li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.
+    <button id='wifi'>Aktifkan Wi-Fi</button>
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Sambungan terputus">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumen Kedaluwarsa">
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak tersedia pada tembolok &brandShortName;.</p><ul><li>Sebagai tindakan pencegahan, &brandShortName; tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode luring">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Coba lagi. &brandShortName; akan mencoba membuka sambungan dan memuat ulang lamannya.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Coba lagi. &brandShortName; akan mencoba membuka sambungan dan memuat ulang lamannya.
+    <button id='wifi'>Aktifkan Wi-Fi</button>
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Sambungan diputus">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -83,9 +87,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Periksa pengaturan proxy, pastikan sudah benar.</li> 
-<li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik.</li> 
+<li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik.
+    <button id='wifi'>Aktifkan Wi-Fi</button>
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
@@ -111,9 +117,11 @@
 <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li> 
-<li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.</li> 
+<li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.
+    <button id='wifi'>Aktifkan Wi-Fi</button>
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
