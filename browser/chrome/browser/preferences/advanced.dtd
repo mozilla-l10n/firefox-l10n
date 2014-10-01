@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Check my spelling as I type">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "System Defaults">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
-
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
@@ -126,12 +118,12 @@
 <!ENTITY certificateTab.label            "Certificates">
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "View Certificates">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY verify2.label                   "Validation">
-<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY viewSecurityDevices.accesskey   "D">
