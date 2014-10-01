@@ -57,7 +57,7 @@
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Probá nuevamente. &brandShortName; intentará abrir una conexión y recargar la página.</li>
+  <li>Probá nuevamente. &brandShortName; intentará abrir una conexión y recargar la página.
     <button id='wifi'>Habilitar Wi-Fi</button>
   </li>
 </ul>
