@@ -755,7 +755,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "טוב, זה מביך. אנו מנסים להציג את דף האינטרנט הזה, אבל הוא אינו מגיב.">
 <!ENTITY tabCrashed.checkSendReport "דווח ל־&vendorShortName; על קריסה זו כדי שיוכלו לתקן אותה.">
 <!ENTITY tabCrashed.tryAgain "נסה שוב">
+
 <!ENTITY uiTour.infoPanel.close "סגירה">
+
+<!ENTITY appMenuSidebars.label         "סרגלי צד">
+
+<!ENTITY switchToMetroCmd2.label       "הפעלה מחדש של &brandShortName; במצב Windows 8 Touch">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "לשכוח">
+<!ENTITY panicButton.view.5min                    "חמש דקות">
+<!ENTITY panicButton.view.2hr                     "שעתיים">
+<!ENTITY panicButton.view.day                     "יממה">
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "המשך יוביל ">
+<!ENTITY panicButton.view.deleteCookies           "למחיקת <html:strong>עוגיות</html:strong> אחרונות">
+<!ENTITY panicButton.view.deleteHistory           "למחיקת <html:strong>היסטוריה</html:strong> אחרונה">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "לסגירת כל <html:strong>הלשוניות</html:strong> ו<html:strong>החלונות</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "לפתיחת חלון נקי חדש">
+
+<!ENTITY panicButton.view.undoWarning             "פעולה זו אינה ניתנת לביטול.">
+<!ENTITY panicButton.view.forgetButton            "לשכוח!">
+
+<!ENTITY panicButton.thankyou.msg1                "ההיסטוריה האחרונה שלך נמחקה.">
+<!ENTITY panicButton.thankyou.msg2                "המשך גלישה בטוחה!">
+<!ENTITY panicButton.thankyou.buttonlabel         "תודה!">
+
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
@@ -797,7 +829,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLocationCmd.label         "פתח מיקום">
 <!ENTITY openLocationCmd.accesskey     "מ">
 <!ENTITY bookmarksMenuButton.tooltip   "הצגת הסימניות שלך">
-<!ENTITY switchToMetroCmd2.label       "הפעלה מחדש של &brandShortName; במצב Windows 8 Touch">
+
 <!ENTITY tabGroupsButton.tooltip       "קבץ את הלשוניות שלך">
 <!-- end of strings to be removed post-Australis -->
 
