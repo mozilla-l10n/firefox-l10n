@@ -25,6 +25,7 @@ posjećujete pravo mjesto. Ova stranica nije poslala takvu identifikaciju.">
 <!ENTITY certerror.whatShouldIDo.content "Ako se inače povezujete na 
 ovu stranicu bez problema, ovo upozorenje bi moglo značiti da netko pokušava 
 imitirati stranicu, pa stoga ne biste trebali nastaviti.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Makni me odavde!">
 
 <!ENTITY certerror.expert.heading "Razumijem rizik">
