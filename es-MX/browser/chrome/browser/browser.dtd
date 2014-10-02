@@ -769,9 +769,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Se cierran las <html:strong>Pestañas</html:strong> y <html:strong>Ventanas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Se abre una ventana nueva">
 
-<!ENTITY panicButton.view.undoWarning             "No puedes deshacer esto.">
+<!ENTITY panicButton.view.undoWarning             "Esta acción no podrá deshacerse.">
 <!ENTITY panicButton.view.forgetButton            "¡Olvida!">
 
-<!ENTITY panicButton.thankyou.msg1                "Se borró el historial.">
+<!ENTITY panicButton.thankyou.msg1                "Se borró el historial reciente.">
 <!ENTITY panicButton.thankyou.msg2                "¡Navega con cuidado!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
