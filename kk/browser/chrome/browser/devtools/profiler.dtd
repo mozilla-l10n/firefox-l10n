@@ -40,8 +40,10 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.duration    "Уақыт (мс)">
-
-
-
+<!ENTITY profilerUI.table.percentage  "Бағасы">
+<!ENTITY profilerUI.table.invocations "Шақырулар">
+<!ENTITY profilerUI.table.function    "Функция">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "Таңдалғаннан жаңа бетті қосу">

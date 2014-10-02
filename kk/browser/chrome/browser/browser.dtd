@@ -775,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Соңғы уақытты ұмыту:">
+<!ENTITY panicButton.view.5min                    "Бес минут">
+<!ENTITY panicButton.view.2hr                     "Екі сағат">
+<!ENTITY panicButton.view.day                     "24 сағат">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Жалғастыру нәтижесінде:">
+<!ENTITY panicButton.view.deleteCookies           "Соңғы <html:strong>Cookies</html:strong> өшіру">
+<!ENTITY panicButton.view.deleteHistory           "Соңғы <html:strong>тарихты</html:strong> өшіру">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Барлық <html:strong>беттер</html:strong> және <html:strong>терезелерді</html:strong> жабу">
+<!ENTITY panicButton.view.openNewWindow           "Жаңа бос терезені ашу">
 
 <!ENTITY panicButton.view.undoWarning             "Бұл әрекетті болдырмау мүмкін емес болады.">
+<!ENTITY panicButton.view.forgetButton            "Ұмыту!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Сіздің соңғы тарихыңыз өшірілген.">
+<!ENTITY panicButton.thankyou.msg2                "Қауіпсіз шолу!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Рахмет!">
 
