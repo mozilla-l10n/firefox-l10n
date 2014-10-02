@@ -750,3 +750,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "Als &brandShortName; für Windows 8 Touch neu starten">
 
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Zu löschender Zeitraum:">
+<!ENTITY panicButton.view.5min                    "Fünf Minuten">
+<!ENTITY panicButton.view.2hr                     "Zwei Stunden">
+<!ENTITY panicButton.view.day                     "24 Stunden">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Es werden folgende Aktionen ausgeführt:">
+<!ENTITY panicButton.view.deleteCookies           "Kürzlich angelegte oder geänderte <html:strong>Cookies</html:strong> löschen">
+<!ENTITY panicButton.view.deleteHistory           "Die kürzlich angelegte <html:strong>Chronik</html:strong> löschen">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Alle <html:strong>Tabs</html:strong> und <html:strong>Fenster</html:strong> schließen">
+<!ENTITY panicButton.view.openNewWindow           "Ein leeres Fenster öffnen">
+
+<!ENTITY panicButton.view.undoWarning             "Diese Aktionen können nicht rückgängig gemacht werden.">
+<!ENTITY panicButton.view.forgetButton            "Löschen">
+
+<!ENTITY panicButton.thankyou.msg1                "Die kürzlich angelegte Browser-Chronik wurde gelöscht.">
+<!ENTITY panicButton.thankyou.msg2                "Sicheres Surfen!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Danke">
+
