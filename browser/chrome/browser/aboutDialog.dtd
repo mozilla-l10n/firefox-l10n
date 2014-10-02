@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Check ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "ಪರಿಷ್ಕರಣೆಗಳಿಗಾಗಿ Restart ಮಾಡು">
-<!ENTITY update.updateButton.accesskey            "R">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Apply ಅಪ್‌ಡೇಟ್ …">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
