@@ -26,13 +26,6 @@
 <!ENTITY checkSpelling.label               "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
 
-<!ENTITY systemDefaults.label              "Vaikimisi seaded">
-<!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati, kas &brandShortName; on vaikimisi brauser"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey      "v">
-<!ENTITY setDefault.label                  "Määra &brandShortName; vaikebrauseriks">
-<!ENTITY setDefault.accesskey              "m">
-<!ENTITY isDefault.label                   "&brandShortName; on määratud vaikebrauseriks">
-
 <!ENTITY dataChoicesTab.label              "Saadetavad andmed">
 
 <!ENTITY healthReportSection.label         "&brandShortName;i terviseraport">
