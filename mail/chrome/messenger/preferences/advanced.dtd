@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey             "v">
 <!ENTITY certs.ask                        "küsitakse iga kord">
 <!ENTITY certs.ask.accesskey              "k">
+<!ENTITY enableOCSP.label                 "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
+<!ENTITY enableOCSP.accesskey             "S">
 
 <!ENTITY viewCertificates.label           "Kuva sertifikaate">
 <!ENTITY viewCertificates.accesskey       "f">
-<!ENTITY validation.label                 "Verifitseerimine">
-<!ENTITY validation.accesskey             "t">
 <!ENTITY viewSecurityDevices.label        "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey    "u">
