@@ -212,6 +212,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label 					"Extras">
 <!ENTITY addons.accesskey 				"E">
 <!ENTITY addons.commandkey 				"A">
+<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label 		"Programador web">
 <!ENTITY webDeveloperMenu.accesskey 	"g">
@@ -739,8 +741,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que seguem a sua atividade na rede foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
-<!ENTITY trackingContentBlocked.unblock.label2 "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Proteção do seguimento desativado">
 
 <!ENTITY pointerLock.notification.message "Pressione ESC a qualquer momento para mostrar de novo.">
@@ -770,4 +774,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label 			"Barras laterais">
 
 <!ENTITY switchToMetroCmd2.label		"Reiniciar o &brandShortName; para o Windows 8 Touch">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Esquecer os últimos:">
+<!ENTITY panicButton.view.5min                    "Cinco minutos">
+<!ENTITY panicButton.view.2hr                     "Duas horas">
+<!ENTITY panicButton.view.day                     "24 horas">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
+<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>Cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>Histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
+
+<!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser anulada.">
+<!ENTITY panicButton.view.forgetButton            "Esquecer!">
+
+<!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
+<!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
+
 
