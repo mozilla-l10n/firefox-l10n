@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY starting.label                   "Start…">
+<!ENTITY scanning.label                   "Scanning for viruses…">
+
+<!ENTITY downloads.title                  "Downloads">
+
+<!ENTITY cmd.pause.label                  "Pausearje">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Ferfetsje">
+<!ENTITY cmd.resume.accesskey             "F">
+<!ENTITY cmd.cancel.label                 "Annulearje">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!ENTITY cmd.show.label                   "Byhearrende map iepenje">
+<!ENTITY cmd.show.accesskey               "B">
+<!ENTITY cmd.showMac.label                "Toane yn Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "Iepenje">
+<!ENTITY cmd.open.accesskey               "I">
+<!ENTITY cmd.openWith.label               "Iepenje mei…">
+<!ENTITY cmd.openWith.accesskey           "m">
+<!ENTITY cmd.retry.label                  "Opnij probearje">
+<!ENTITY cmd.retry.accesskey              "O">
+<!ENTITY cmd.goToDownloadPage.label       "Nei downloadside gean">
+<!ENTITY cmd.goToDownloadPage.accesskey   "N">
+<!ENTITY cmd.copyDownloadLink.label       "Downloadkeppeling kopiearje">
+<!ENTITY cmd.copyDownloadLink.accesskey   "D">
+<!ENTITY cmd.removeFromList.label         "Fuortsmite út de list">
+<!ENTITY cmd.removeFromList.accesskey     "l">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.clearList.label              "List wiskje">
+<!ENTITY cmd.clearList.tooltip            "Wisket foltôge, annulearre en mislearre downloads út de list">
+<!ENTITY cmd.clearList.accesskey          "W">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
+
+<!ENTITY closeWhenDone.label              "Slute as downloads foltôge binne">
+<!ENTITY closeWhenDone.tooltip            "Slút it Downloadsfinster as alle bestannrn downloaden binne">
+
+<!ENTITY showFolder.label                 "Toan dizze map">
+<!ENTITY searchBox.label                  "Sykje…">
