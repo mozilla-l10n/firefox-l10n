@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Slika zaslona">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Pogled">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Instaliraj Simulator">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Opis">
+<!ENTITY details_location "Lokacija">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Zatvori">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "Vrati zadano">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "Pogodi uvlake na temelju sadržaja izvora">
+
+
+<!ENTITY prefs_options_autoclosebrackets "Automatsko zatvaranje zagrada">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatski dodaj zatvarajuće zagrade">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Naziv">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Pomoć">
