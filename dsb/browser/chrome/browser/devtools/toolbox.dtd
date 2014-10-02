@@ -36,7 +36,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Stile wobglědowaka pokazaś">
-<!ENTITY options.showUserAgentStyles.tooltip "Gaž to zašaltujośo, standardne stile se pokažu, kótarež wobglědowak  zacytujo.">
+<!ENTITY options.showUserAgentStyles.tooltip "Gaž to zašaltujośo, standardne stile se pokažu, kótarež wobglědowak zacytujo.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->

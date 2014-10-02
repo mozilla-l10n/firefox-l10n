@@ -771,4 +771,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Bócnice">
 
 <!ENTITY switchToMetroCmd2.label       "W &brandShortName; za Windows 8 Touch znowego startowaś">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Zabudniśo:">
+<!ENTITY panicButton.view.5min                    "zachadnych pěś minutow">
+<!ENTITY panicButton.view.2hr                     "zachadnej dwě góźinje">
+<!ENTITY panicButton.view.day                     "zachadnych 24 góźinow">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Gaž pókšacujośo:">
+<!ENTITY panicButton.view.deleteCookies           "wulašuju se nejnowše <html:strong>cookieje</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "wulašujo se nejnowša <html:strong>historija</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "zacynïju se <html:strong>rejtarki</html:strong> a <html:strong>wokna</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "wócynijo se nowe cyste wokno">
+
+<!ENTITY panicButton.view.undoWarning             "Toś ta akcija njedajo se anulěrowaś.">
+<!ENTITY panicButton.view.forgetButton            "Zabyś!">
+
+<!ENTITY panicButton.thankyou.msg1                "Waša nejnowša historija jo wulašowana.">
+<!ENTITY panicButton.thankyou.msg2                "Wěste pśeglědowanje!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Wjeliki źěk!">
 
