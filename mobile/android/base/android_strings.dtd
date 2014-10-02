@@ -404,7 +404,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "Omheech nei &formatS;">
 
 <!ENTITY private_browsing_title "Priveenavigaasje">
-<!ENTITY private_tabs_panel_empty_desc "Jo priveeljepblêden sille hjir toand wurde. Wylst wy neat fan jo browseskiednis of cookies bewarje, blêdwizers en bestannen dy\'t jo downloade sille wol op jo apparaat bewarre wurde.">
+<!ENTITY private_tabs_panel_empty_desc "Jo priveeljepblêden sille hjir toand wurde. Wylst wy neat fan jo browseskiednis of cookies bewarje, sille oanmakke blêdwizers en bestannen dy\'t jo downloade wol op jo apparaat bewarre wurde.">
 <!ENTITY private_tabs_panel_learn_more "Wolle jo mear witte?">
 
 <!ENTITY pin_site_dialog_hint "Fier in sykterm yn">
