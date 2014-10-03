@@ -204,7 +204,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
-<!ENTITY pref_sync "Cydweddu">
+<!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
 <!ENTITY pref_private_data_history2 "Hanes pori">
@@ -256,7 +256,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
 <!ENTITY datareporting_wifi_title2 "Gwasanaethau Lleoliad &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Mae\u0027n derbyn data lleoliad diwyfr a cellog wrth redeg yn y cefndir ac yn ei rhannu gyda &vendorShortName; i wella ein gwasanaeth geoleoliad">
+<!ENTITY datareporting_wifi_geolocation_summary "Mae\u0027n derbyn data lleoliad diwyfr a cellol wrth redeg yn y cefndir ac yn ei rhannu gyda &vendorShortName; i wella ein gwasanaeth geoleoliad">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -401,7 +401,7 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "Hyd at &formatS;">
+<!ENTITY home_move_up_to_filter "I\u0027r &formatS;">
 
 <!ENTITY private_browsing_title "Pori Preifat">
 <!ENTITY private_tabs_panel_empty_desc "Bydd eich tabiau preifat yn ymddangos yn fan hyn. Tra nad ydym yn cadw dim o\u0027ch hanes pori na chwcis, bydd nodau tudalen a ffeiliau y byddwch yn eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
