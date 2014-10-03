@@ -8,11 +8,11 @@
 <!ENTITY aboutPrivateBrowsing.subtitle "Ní choimeádfaidh &brandShortName; stair ar bith san fhuinneog seo.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal "Ní choimeádfaidh &brandShortName; stair ar bith i bhfuinneoga príobháideacha.">
 
-<!ENTITY aboutPrivateBrowsing.description "That includes browsing history, search history, download history, web form history, cookies, and temporary internet files. However, files you download and bookmarks you make will be kept.">
+<!ENTITY aboutPrivateBrowsing.description "Mar shampla, ní choimeádfaidh sé do stair bhrabhsála, stair chuardaigh, stair na n-íosluchtuithe, sonraí a chuir tú isteach i bhfoirmeacha, fianáin, nó comhaid shealadacha Idirlín. Ach, coimeádfaidh sé comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate "Níl tú i bhfuinneog phríobháideach faoi láthair.">
 
-<!ENTITY aboutPrivateBrowsing.moreInfo "While this computer won't have a record of your browsing history, your employer or internet service provider can still track the pages you visit.">
+<!ENTITY aboutPrivateBrowsing.moreInfo "Cé nach gcoimeádfar do stair bhrabhsála ar an ríomhaire seo, is dócha go mbeidh d'fhostóir nó do sholáthraí seirbhíse Idirlín in ann taifead a dhéanamh ar na leathanaigh a ndéanann tú cuairt orthu.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Tuilleadh Eolais.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Oscail Fuinneog Phríobháideach">
