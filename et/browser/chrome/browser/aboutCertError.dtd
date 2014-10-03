@@ -16,8 +16,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1            "Oled soovinud, et &brandShortName; ühenduks
-turvaliselt masinaga aadressil <b>#1</b>, aga meil pole võimalik sinu ühenduse turvalisust kinnitada.">
+<!ENTITY certerror.introPara1            "Sa soovisid, et &brandShortName; looks turvalise ühenduse
+aadressiga <b>#1</b>, aga meil pole võimalik sinu ühenduse turvalisust kinnitada.">
 <!ENTITY certerror.introPara2            "Tavaliselt esitavad veebilehed turvalise ühendumise korral 
 lehe usaldusväärsuse tõenduseks tuvastustunnused. Nende tunnuste alusel on võimalik kindlaks 
 teha, et sa oled õigel veebilehel. Kahjuks pole selle veebilehe identiteeti võimalik kontrollida.">
