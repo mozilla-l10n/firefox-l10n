@@ -125,7 +125,7 @@
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
      has an arrow pointing toward the feature it references.
      -->
-<!ENTITY firstRunTabs.label "SEr du etter fanene dine? Bare trekk ned eller høyreklikk">
+<!ENTITY firstRunTabs.label "Ser du etter fanene dine? Bare trekk ned eller høyreklikk">
 <!ENTITY firstRunTopSites.label "Gå til nettsidene du besøker oftest">
 <!ENTITY firstRunBookmarks.label "Finn sider som du har lagret til senere">
 <!ENTITY firstRunMenu.label "Få tilgang til flere funksjoner og innstillinger">
