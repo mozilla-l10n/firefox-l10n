@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+
 <!ENTITY windowTitle.label "Vprašanje za pošto HTML">
 
 <!ENTITY recipient.label "Nekateri prejemniki niso na seznamu tistih, ki lahko prejemajo pošto HTML.">
@@ -12,7 +12,7 @@
 <!ENTITY plainTextAndHtml.label "Pošlji kot navadno besedilo in HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Pošlji samo kot navadno besedilo">
-<!ENTITY plainTextOnly.accesskey "N">
+<!ENTITY plainTextOnly.accesskey "n">
 <!ENTITY htmlOnly.label "Pošlji samo kot HTML">
 <!ENTITY htmlOnly.accesskey "H">
 

@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsLimit.title   "YouSendIt">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Pošiljanje datotek, velikih več kot 50 MB,">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "je premium funkcija.">
+<!ENTITY fileExceedsLimit.title   "Hightail">
+<!ENTITY fileExceedsLimit.thatsBigFile   "Pošiljanje datotek večjih od 50 MB">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "je premium značilnost.">
 <!ENTITY fileExceedsLimit.accept "Nadgradi">
-<!ENTITY fileExceedsLimit.cancel "Prekini">
+<!ENTITY fileExceedsLimit.cancel "Prekliči">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
 <!ENTITY fileExceedsLimit.proIncludes "Nadgradite, da lahko pošljete to datoteko, plus:">
-<!ENTITY fileExceedsLimit.pros1 "Pošiljate datoteke in mape do 2GB">
+<!ENTITY fileExceedsLimit.pros1 "Pošiljite datoteke in mape do 2GB">
 <!ENTITY fileExceedsLimit.pros2 "Shranite neomejeno število datotek na spletu">
-<!ENTITY fileExceedsLimit.pros3 "Dobite dostop do datotek kjerkoli kadarkoli">
+<!ENTITY fileExceedsLimit.pros3 "Dostopajte do in delite si datoteke kjerkoli">

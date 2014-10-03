@@ -7,7 +7,7 @@
 
 <!ENTITY windowTitle.label "Lastnosti slike">
 
-<!ENTITY pixelsPopup.value "pik">
+<!ENTITY pixelsPopup.value "slikovnih točk">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Mesto slike:">

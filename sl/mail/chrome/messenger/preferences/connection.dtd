@@ -7,13 +7,13 @@
 
 <!ENTITY  proxyTitle.label              "Nastavitve strežnika proxy">
 <!ENTITY  noProxyTypeRadio.label        "Brez proxyja">
-<!ENTITY  noProxyTypeRadio.accesskey    "b">
+<!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
 <!ENTITY  systemTypeRadio.accesskey     "o">
 <!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve proxyja za to mrežo">
-<!ENTITY  WPADTypeRadio.accesskey       "s">
+<!ENTITY  WPADTypeRadio.accesskey       "S">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
-<!ENTITY  manualTypeRadio.accesskey     "r">
+<!ENTITY  manualTypeRadio.accesskey     "R">
 <!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ponovno naloži">
@@ -35,7 +35,7 @@
 <!ENTITY  SOCKSport.label               "Vrata SOCKS:">
 <!ENTITY  SOCKSport.accesskey           "C">
 <!ENTITY  noproxy.label                 "Ni proxyja za:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
 <!ENTITY  shareproxy.label              "Uporabi isti proxy za vse protokole">
 <!ENTITY  shareproxy.accesskey          "i">

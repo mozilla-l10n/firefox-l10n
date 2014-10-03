@@ -4,30 +4,30 @@
 
 <!ENTITY pane.title                   "Povratnice">
 <!ENTITY useGlobalPrefs.label         "Za povratnice uporabi moje splošne nastavitve za ta račun">
-<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY useGlobalPrefs.accesskey     "u">
 <!ENTITY globalReceipts.label         "Splošne nastavitve …">
 <!ENTITY globalReceipts.accesskey     "S">
 <!ENTITY useCustomPrefs.label         "Prilagodi povratnice za ta račun">
 <!ENTITY useCustomPrefs.accesskey     "z">
 <!ENTITY requestReceipt.label         "Ko pošiljaš sporočila, vedno zahtevaj povratnico">
-<!ENTITY requestReceipt.accesskey     "L">
+<!ENTITY requestReceipt.accesskey     "l">
 <!ENTITY receiptArrive.label          "Ko povratnica prispe:">
 <!ENTITY leaveIt.label                "Pusti jo v Prejeto">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Prestavi v mojo mapo &quot;Poslano&quot;">
-<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Kadar dobim zahtevo za povratnico:">
 <!ENTITY returnSome.label             "Dovoljujem povratnico za nekatera sporočila">
 <!ENTITY returnSome.accesskey         "s">
 <!ENTITY never.label                  "Povratnic ne pošiljam nikoli">
-<!ENTITY never.accesskey              "I">
+<!ENTITY never.accesskey              "i">
 <!ENTITY notInToCc.label              "Če nisem v Za ali Kp sporočila:">
-<!ENTITY notInToCc.accesskey          "R">
+<!ENTITY notInToCc.accesskey          "r">
 <!ENTITY outsideDomain.label          "Če je pošiljatelj izven moje domene:">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "V vseh ostalih primerih:">
-<!ENTITY otherCases.accesskey         "B">
+<!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Vprašaj me">
 <!ENTITY alwaysSend.label             "Vedno pošlji">
 <!ENTITY neverSend.label              "Nikoli ne pošiljaj">

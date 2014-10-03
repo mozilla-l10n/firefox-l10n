@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title               "Možnosti ikone aplikacije">
-<!ENTITY window.macWidth                       "35em">
+<!ENTITY dockOptionsDialog.title               "Možnosti ikon programov">
+<!ENTITY window.macWidth                       "45em">
 
-<!ENTITY bounceSystemDockIcon.label            "Animiraj ikono aplikacije, ko prispe novo sporočilo">
-<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY bounceSystemDockIcon.label            "Animiraj ikono programa, kadar prispe novo sporočilo">
+<!ENTITY bounceSystemDockIcon.accesskey        "m">
 <!ENTITY newMessagesCountDock.label            "Število novih sporočil">
-<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY newMessagesCountDock.accesskey        "Š">
 <!ENTITY showAllUnreadMessagesCount.label      "Število neprebranih sporočil">
-<!ENTITY showAllUnreadMessagesCount.accesskey  "p">
-<!ENTITY dockIconBadge.label                   "Priponka ikone aplikacije">
-<!ENTITY dockIconShow.label                    "Dodaj naslednjo priponko ikoni aplikacije:">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "n">
+<!ENTITY dockIconBadge.label                   "Značka ikone programa">
+<!ENTITY dockIconShow.label                    "Dodaj značko ikoni programa:">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 
 <!ENTITY fileMenu.label          "Datoteka">
 <!ENTITY fileMenu.accesskey        "D">
@@ -10,10 +10,10 @@
 <!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "Uredi">
-<!ENTITY editMenu.accesskey        "u">
+<!ENTITY editMenu.accesskey        "U">
 <!ENTITY undoCmd.label            "Razveljavi">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "Z">
+<!ENTITY undoCmd.accesskey          "z">
 <!ENTITY redoCmd.label            "Obnovi">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "b">
@@ -30,29 +30,29 @@
 <!ENTITY deleteCmd.accesskey        "b">
 <!ENTITY selectAllCmd.label          "Izberi vse">
 <!ENTITY selectAllCmd.key          "I">
-<!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd2.label        "Možnosti">
-<!ENTITY preferencesCmd2.accesskey      "O">
+<!ENTITY selectAllCmd.accesskey        "A">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
-<!ENTITY preferencesCmdUnix.accesskey     "o">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "Pogled">
-<!ENTITY viewMenu.accesskey        "p">
+<!ENTITY viewMenu.accesskey        "P">
 <!ENTITY viewToolbarsMenu.label        "Orodne vrstice">
-<!ENTITY viewToolbarsMenu.accesskey      "R">
+<!ENTITY viewToolbarsMenu.accesskey      "r">
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
-<!ENTITY closeCmd.label                                 "Izhod">
-<!ENTITY closeCmd.key                                   "X">
-<!ENTITY closeCmd.accesskey                             "H">
+<!ENTITY closeCmd.label      "Izhod">
+<!ENTITY closeCmd.key      "X">
+<!ENTITY closeCmd.accesskey    "h">
 
 <!ENTITY quitApplicationCmd.label  "Izhod">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "h">
 
 <!ENTITY quitApplicationCmdUnix.label  "Izhod">
-<!ENTITY quitApplicationCmdUnix.accesskey  "q">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapusti &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "q">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

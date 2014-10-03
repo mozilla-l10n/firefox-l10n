@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; varni način">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; teče sedaj v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
+<!ENTITY safeModeDescription.label        "&brandShortName; teče zdaj v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
 <!ENTITY safeModeDescription2.label       "Nekatere ali vse te spremembe lahko naredite za stalno:">
 
 <!ENTITY disableAddons.label              "Onemogoči vse dodatke">

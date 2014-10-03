@@ -43,9 +43,9 @@
 <!ENTITY hdrViewToolbarShowFull.label "Pokaži ikone in besedilo">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Pokaži samo ikone">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Pokaži le besedilo">
-<!ENTITY hdrViewToolbarShowText.accesskey "R">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vedno pokaži odgovor pošiljatelju">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
@@ -65,17 +65,17 @@
 <!ENTITY viewSourceMenuItem1.label "pokaži izvor">
 <!ENTITY viewSourceMenuItem1.accesskey "i">
 <!ENTITY otherActionsPrint1.label "natisni …">
-<!ENTITY otherActionsPrint1.accesskey "T">
-
+<!ENTITY otherActionsPrint1.accesskey "t">
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Na začetku prikaži pano s prilogami">
-<!ENTITY startExpandedCmd.accesskey    "S">
 
+<!ENTITY startExpandedCmd.label    "Na začetku prikaži pano s prilogami">
+<!ENTITY startExpandedCmd.accesskey    "s">
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
-<!ENTITY saveAsAttachmentCmd.accesskey    "K">
+<!ENTITY saveAsAttachmentCmd.accesskey    "k">
 <!ENTITY detachAttachmentCmd.label    "Odpni …">
 <!ENTITY detachAttachmentCmd.accesskey    "n">
 <!ENTITY deleteAttachmentCmd.label    "Izbriši">
@@ -90,8 +90,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
 <!ENTITY openAttachment.tooltip "Odpri pripeto datoteko">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "shrani">
 <!ENTITY saveAttachmentButton1.tooltip     "shrani pripeto datoteko">
 <!ENTITY saveAllAttachmentsButton1.label   "shrani vse">
@@ -105,4 +105,4 @@
 <!ENTITY OpenMessageForMsgId.label "Odpri sporočilo za ID">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Odpri brskalnik z ID sporočila">
-<!ENTITY OpenBrowserWithMsgId.accesskey "B">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">

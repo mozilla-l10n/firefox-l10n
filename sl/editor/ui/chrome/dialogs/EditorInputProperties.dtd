@@ -35,8 +35,8 @@
 <!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Onemogočeno">
 <!ENTITY InputDisabled.accesskey "O">
-<!ENTITY tabIndex.label "Indeks oznake:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.label "Kazalo oznak:">
+<!ENTITY tabIndex.accesskey "K">
 <!ENTITY TextSize.label "Velikost polja:">
 <!ENTITY TextSize.accesskey "V">
 <!ENTITY TextLength.label "Dolžina največ:">

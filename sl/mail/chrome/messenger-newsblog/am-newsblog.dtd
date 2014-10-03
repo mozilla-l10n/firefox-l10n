@@ -7,18 +7,18 @@
 <!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Ob zagonu preveri, ali obstajajo novi članki"> 
-<!ENTITY loginAtStartup.accesskey "N">
+<!ENTITY loginAtStartup.accesskey "n">
 
-<!ENTITY useQuickMode.label "Privzeto - prikaži povzetek članka in ne nalagaj spletne strani"> 
+<!ENTITY useQuickMode.label "Privzeto prikaži povzetek članka namesto nalaganja spletne strani"> 
 <!ENTITY useQuickMode.accesskey "P">
 
-<!ENTITY manageSubscriptions.label "Upravljanje naročnin …"> 
+<!ENTITY manageSubscriptions.label "Upravljaj z naročninami …"> 
 <!ENTITY manageSubscriptions.accesskey "U">
 
 <!ENTITY feedWindowTitle.label "Čarovnik za račune virov">
-
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Novice in spletni dnevniki RSS">
+
+<!ENTITY feeds.accountName "Spletni dnevniki in viri novic">
 <!ENTITY feeds.wizardShortName "Viri">
-<!ENTITY feeds.wizardLongName "Novice in spletni dnevniki RSS">
+<!ENTITY feeds.wizardLongName "Spletni dnevniki in viri novic ">
 <!ENTITY feeds.wizardLongName.accesskey "V">

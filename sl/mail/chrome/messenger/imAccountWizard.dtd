@@ -25,8 +25,8 @@
 <!ENTITY accountAliasInfo.label       "Videti bo le med klepetom, ko govorite, daljinski stiki ga ne bodo videli.">
 <!ENTITY accountProxySettings.caption "Nastavitve za posrednika:">
 <!ENTITY accountProxySettings.change.label     "Spremeni ...">
-<!ENTITY accountProxySettings.change.accessKey "K">
+<!ENTITY accountProxySettings.change.accessKey "C">
 
 <!ENTITY accountSummaryTitle.label   "Povzetek">
 <!ENTITY accountSummaryInfo.label    "Povzetek vnesenih podatkov je prikazan spodaj. Preverite jih prosim, preden se račun ustvari.">
-<!ENTITY accountSummary.connectNow.label "Poveži sedaj ta račun.">
+<!ENTITY accountSummary.connectNow.label "Poveži zdaj ta račun.">

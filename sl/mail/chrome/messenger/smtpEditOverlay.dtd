@@ -5,7 +5,7 @@
 <!ENTITY settings.caption "Nastavitve">
 <!ENTITY security.caption "Varnost in overovljanje">
 <!ENTITY serverName.label "Ime strežnika:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Opis:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Vrata:">

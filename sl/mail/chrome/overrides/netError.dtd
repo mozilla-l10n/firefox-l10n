@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusite ponovno">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Povezava neuspešna">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -17,68 +17,53 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Preverite vtipkani naslov, da ni v njem napak, kot na primer
-    <strong>ww</strong>.primer.si namesto
-    <strong>www</strong>.primer.si</li>
-  <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika
-    z mrežo.</li>
-  <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
-    da ima &brandShortName; pravico uporabljati mrežo.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Preverite vtipkani naslov, da ni v njem napak, kot na primer 
+<strong>ww</strong>.primer.si namesto 
+<strong>www</strong>.primer.si</li> 
+<li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
+z mrežo.</li> 
+<li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte, 
+da ima &brandShortName; pravico uporabljati mrežo.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Prepričajte se, da v imenu datoteke velike in male črka prav nastopajo in da ni drugih tipkarskih napak.</li>
-  <li>Poglejte, da se morda datoteke ni prestavilo, preimenovalo ali zbrisalo.</li> 
-</ul>
-">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Prepričajte se, da v imenu datoteke velike in male črka prav nastopajo in da ni drugih tipkarskih napak.</li> 
+<li>Poglejte, da se morda datoteke ni prestavilo, preimenovalo ali zbrisalo.</li> 
+</ul>">
 
 <!ENTITY generic.title "Opla.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; iz neznanega razloga strani ne more naložiti.</p>
-">
+<!ENTITY generic.longDesc "<p>&brandShortName; iz neznanega razloga strani ne more naložiti.</p>">
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Naslove na mreži se običajno piše takole:
-    <strong>http://www.primer.si/</strong></li>
-  <li>Pazite, da boste uporabljali poševne črte naprej (t.j.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Naslove na mreži se običajno piše takole: 
+<strong>http://www.primer.si/</strong></li> 
+<li>Pazite, da boste uporabljali poševne črte naprej (t.j. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
 
 <!ENTITY notCached.title "Dokument je potekel">
 <!ENTITY notCached.longDesc "<p>Zahtevani dokument v medpomnilniku brskalnika ni več na razpolago.</p><ul><li>Iz varnostnih razlogov &brandShortName; občutljivih dokumentov ne zahteva ponovno.</li><li>Kliknite na poskusi znova, da sdokument ponovno zahteva s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Pritisnite na &quot;Poizkusi znova&quot;, da preklopite v mrežni način in ponovno naložite stran.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Pritisnite na &quot;Poizkusi znova&quot;, da preklopite v mrežni način in ponovno naložite stran.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Obrnite se na lastnike spletišča s tem problemom.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Obrnite se na lastnike spletišča s tem problemom.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Povezava je bila obnovljena">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -86,88 +71,68 @@
 <!ENTITY netTimeout.title "Dovoljeni čas pretekel">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Naslova ni bilo mogoče razumeti">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>Za odpiranje tega naslova boste morda morali namestiti kak drug program.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.title "Naslova ni bilo moč razumeti">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Lahko da boste morali namestiti kak drug program, da pridete lahko na ta naslov</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Strežnik proxy zavrača povezave">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Preverite proxy nastavitve, da so brez napake.</li>
-  <li>Obrnite se na administratorja mreže, da zveste ali proxy strežnik
-    dela.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Preverite proxy nastavitve, da so brez napake.</li> 
+<li>Obrnite se na administratorja mreže, da zveste ali proxy strežnik 
+dela.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Strežnika proxy ni mogoče najti">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Preverite proxy nastavitve, da so brez napake.</li>
-  <li>Preverite, ali je vaš računalnik aktivno povezan z mrežo.</li>
-  <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
-    da ima &brandShortName; pravico uporabljati mrežo.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Preverite proxy nastavitve, da so brez napake.</li> 
+<li>Preverite, ali je vaš računalnik aktivno povezan z mrežo.</li> 
+<li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte, 
+da ima &brandShortName; pravico uporabljati mrežo.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja piškotov.</li>
-</ul>
-">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja piškotov.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito 
-    nameščen.</li>
-  <li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito 
+nameščen.</li> 
+<li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Varna povezava ni uspela">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>Strani, ki jo želite, ni mogoče prikazati, ker oristnoisti podatkov v njej ni bilo mogoče preveriti.</li>
-  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Strani, ki jo želite, ni mogoče prikazati, ker oristnoisti podatkov v njej ni bilo mogoče preveriti.</li> 
+<li>Obrnite se na lastnike spletišča s tem problemom.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Varna povezava ni uspela">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>To je lahko težava s konfiguracijo strežnika, ali pa se
-nekdo poskuša predstaviti kot strežnik.</li>
-  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko 
-    da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>To je lahko težava s konfiguracijo strežnika, ali pa se 
+nekdo poskuša predstaviti kot strežnik.</li> 
+<li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko 
+da začasno napako, tako da lahko ponovno poskusite kasneje.</li> 
+</ul>">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo 
-    kasneje.</li>
-  <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika
-    z mrežo.</li>
-  <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
-  da ima &brandShortName; pravico uporabljati mrežo.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc "<ul> 
+<li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo 
+kasneje.</li> 
+<li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
+z mrežo.</li> 
+<li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte, 
+da ima &brandShortName; pravico uporabljati mrežo.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Morebitna napadalna stran!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Napadalne strani poskušajo namestiti programe, s katerimi kradejo osebne podatke, lahko da zlorabljajo vaš računalnik za napade na druge in lahko tudi vaš sistem poškodujejo.</p>
-<p>Lastniki spletnih strani ki menijo, da se je njih spletišče po krivem razglasilo za napadlno stran, lahko na naslovu <a href='http://www.stopbadware.org/home/reviewinfo'> zahtevajo ponovno obravnavo</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Napadalne strani poskušajo namestiti programe, s katerimi kradejo osebne podatke, lahko da zlorabljajo vaš računalnik za napade na druge in lahko tudi vaš sistem poškodujejo.</p> 
+<p>Lastniki spletnih strani ki menijo, da se je njih spletišče po krivem razglasilo za napadlno stran, lahko na naslovu <a href='http://www.stopbadware.org/home/reviewinfo'> zahtevajo ponovno obravnavo</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p>
-<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
-">
+<!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
@@ -178,19 +143,16 @@ nekdo poskuša predstaviti kot strežnik.</li>
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>Izjem ne dodajajte, če uporabljate internetne povezave, ki jim ne zaupate povsem, ali če za ta strežnik ne pričakujete opozoril.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Izjem ne dodajajte, če uporabljate internetne povezave, ki jim ne zaupate povsem, ali če za ta strežnik ne pričakujete opozoril.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tem problemu.</li></ul></p>">
-

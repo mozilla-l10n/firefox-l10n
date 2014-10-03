@@ -6,15 +6,15 @@
 
 <!ENTITY generalInfo.label                       "Splošne informacije">
 <!ENTITY folderCharsetFallback.label             "Privzet nabor znakov:">
-<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetFallback.accesskey         "e">
 <!ENTITY folderCharsetEnforce.label              "Uveljavi nabor za vsa sporočila v mapi (nastavitve nabora znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "D">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Včasih se kazalo za mapo (. MSF) poškoduje in videti je, kot da sporočila manjkajo, ali pa se javlja, da so zbrisana; če mapo popravite, teh problemov verjetno ne bo več.">
-<!ENTITY folderIncludeInGlobalSearch.label "Vključi sporočila v tej mapi v globalne rezultate iskanja">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "o">
+<!ENTITY folderIncludeInGlobalSearch.label       "Vključi sporočila v tej mapi v globalne rezultate iskanja">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
      
 <!ENTITY retention.label "Pravila zadrževanja">
 <!ENTITY retentionUseAccount.label  "Uporabi moje nastavitve računa">
@@ -25,7 +25,7 @@
 <!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, krajevna in sporočila na oddaljenem strežniku.">
 <!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
 <!ENTITY retentionDeleteMsg.label "Izbriši sporočila starejša kot">
-<!ENTITY retentionDeleteMsg.accesskey "B">
+<!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Ne izbriši nobenih sporočil">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
@@ -35,24 +35,24 @@
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderSynchronizationTab.label          "Sinhronizacija">
+<!ENTITY folderSynchronizationTab.label          "Usklajevanje">
 <!ENTITY folderCheckForNewMessages2.label         "Ko dobivaš nova sporočila za ta račun, vedno preveri to mapo">
 <!ENTITY folderCheckForNewMessages2.accesskey     "u">
 
 <!ENTITY offlineFolder.check.label               "Za delo brez povezave uporabi to mapo">
 <!ENTITY offlineFolder.check.accesskey           "b">
 <!ENTITY offlineFolder.button.label              "Prenesi zdaj">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.button.accesskey          "d">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Izberi to novičarsko skupino za delo brez povezave">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "B">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "b">
 <!ENTITY offlineNewsgroup.button.label           "Prenesi zdaj">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.accesskey       "d">
 
 <!ENTITY folderProps.name.label                  "Ime:">
 <!ENTITY folderProps.name.accesskey              "I">
 <!ENTITY folderProps.location.label              "Mesto:">
-<!ENTITY folderProps.location.accesskey          "m">
+<!ENTITY folderProps.location.accesskey          "M">
 
 <!ENTITY folderSharingTab.label                  "Skupna raba">
 <!ENTITY privileges.button.label                 "Privilegiji…">

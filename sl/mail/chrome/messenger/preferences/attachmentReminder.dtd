@@ -5,7 +5,7 @@
 <!ENTITY attachmentReminderDialog.title   "priponka opomin ključne besede">
 <!ENTITY attachKeywordText.label          "&brandShortName; vas bo opozoril na manjkajoče priponke, če boste želeli poslati e-pošto, ki vsebuje eno od naslednjih ključnih besed.">
 <!ENTITY addKeywordButton.label           "Dodaj">
-<!ENTITY addKeywordButton.accesskey       "N">
+<!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Uredi">
 <!ENTITY editKeywordButton.accesskey      "U">
 <!ENTITY removeKeywordButton.label        "Izbriši">

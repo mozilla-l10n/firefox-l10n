@@ -8,7 +8,8 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Privzeti videz strani">
 
-
+<!ENTITY defaultColors.label        "Privzete bralčeve barve (ne nastavi barv za stran)">
+<!ENTITY defaultColors.accesskey    "P">
 <!ENTITY customColors.label         "Uporabi barve po meri:">
 <!ENTITY customColors.accesskey     "U">
 

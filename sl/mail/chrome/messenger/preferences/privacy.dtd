@@ -1,41 +1,43 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Mail Content -->
+
 <!ENTITY captionMailContent.label "Vsebina pošte">
 
 <!ENTITY acceptRemoteContent.label "Dovoli oddaljeno vsebino v sporočilih">
-<!ENTITY acceptRemoteContent.accesskey "A">
-<!ENTITY remoteContentExceptions.label "Izjeme …">
-<!ENTITY remoteContentExceptions.accesskey "z">
-<!ENTITY acceptRemoteContentInfo.label "Več o problemih zasebnosti oddaljene vsebine">
-
+<!ENTITY acceptRemoteContent.accesskey "d">
+<!ENTITY remoteContentExceptions.label "Izjeme">
+<!ENTITY remoteContentExceptions.accesskey "e">
+<!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih o zasebnosti oddaljene vsebine">
 <!-- Web Content -->
+
 <!ENTITY captionWebContent.label "Spletna vsebina">
 
-<!ENTITY acceptCookies.label "Sprejmi piškotke od strani">
-<!ENTITY acceptCookies.accesskey "A">
-<!ENTITY acceptThirdParty.pre.label "Sprejmi piškotke tretjih strani:">
-<!ENTITY acceptThirdParty.pre.accesskey "p">
+<!ENTITY keepHistory.label "Zapomni si spletna mesta in povezave, ki sem jih obiskal">
+<!ENTITY keepHistory.accesskey "Z">
+<!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke.">
+<!ENTITY acceptCookies.accesskey "D">
+<!ENTITY acceptThirdParty.pre.label "Dovoli piškotke tretjih oseb:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Vedno">
 <!ENTITY acceptThirdParty.never.label "Nikoli">
-<!ENTITY acceptThirdParty.visited.label "Od obiskanih">
-<!ENTITY keepUntil.label "Ohrani dokler:">
-<!ENTITY keepUntil.accesskey "H">
-<!ENTITY expire.label "ne potečejo">
-<!ENTITY close.label "ne zaprem &brandShortName;a">
-<!ENTITY askEachTime.label "vedno vprašaj">
+<!ENTITY acceptThirdParty.visited.label "Iz obiskanih">
+<!ENTITY keepUntil.label "Obdrži do:">
+<!ENTITY keepUntil.accesskey "O">
+<!ENTITY expire.label "dokler ne pretečejo">
+<!ENTITY close.label "dokler ne zaprem &brandShortName;">
+<!ENTITY askEachTime.label "vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label "Izjeme …">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Prikaži piškotke …">
-<!ENTITY showCookies.accesskey "P">
+<!ENTITY cookieExceptions.accesskey "I">
+<!ENTITY showCookies.label "Pokaži piškotke …">
+<!ENTITY showCookies.accesskey "k">
 
-<!ENTITY dntTrackingNopref.label2 "Stranem ne sporočaj mojih nastavitev sledenja">
-<!ENTITY dntTrackingNopref.accesskey "o">
-<!ENTITY dntTrackingNotOkay.label2 "Stranem sporoči, naj mi ne sledijo">
+<!ENTITY dntTrackingNopref.label2 "Ne sporoči spletnim mestom ničesar o mojih nastavitvah sledenja">
+<!ENTITY dntTrackingNopref.accesskey "b">
+<!ENTITY dntTrackingNotOkay.label2 "Obvesti spletna mesta, naj mi ne sledijo">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Stranem sporoči, naj mi sledijo">
-<!ENTITY dntTrackingOkay.accesskey "t">
-<!ENTITY doNotTrackInfo.label "Več o sledenju">
+<!ENTITY dntTrackingOkay.label2 "Obvesti spletna mesta, naj mi sledijo">
+<!ENTITY dntTrackingOkay.accesskey "v">
+<!ENTITY doNotTrackInfo.label "Več o Ne sledi">
 

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Help Menu -->
 
-   <!-- Help Menu -->
 <!ENTITY helpMenu.label "Pomoč">
 <!ENTITY helpMenu.accesskey "č">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoč">
 <!ENTITY helpMenuWin.accesskey "č">
-<!ENTITY helpTroubleshootingInfo.label "Informacije o problemu">
+<!ENTITY helpTroubleshootingInfo.label     "Informacije o problemu">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki…">
 <!ENTITY helpSafeMode.accesskey "ž">
@@ -25,4 +25,4 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "T">
+<!ENTITY aboutMenuCmd.accesskey "A">

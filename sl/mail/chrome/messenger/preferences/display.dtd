@@ -20,27 +20,27 @@
 <!ENTITY quotedTextColor.accesskey        "B">
 <!ENTITY displayWidth.label               "Sporočila v golem besedilu">
 <!ENTITY displayText.label                "Pri prikazu citiranih sporočil v golem besedilu:">
-
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Pokaži smeške kot grafiko">
-<!ENTITY convertEmoticons.accesskey    "G">
 
+<!ENTITY convertEmoticons.label        "Pokaži smeške kot grafiko">
+<!ENTITY convertEmoticons.accesskey    "g">
 <!-- labels -->
+
 <!ENTITY displayTagsText.label     "Oznake lahko uporabite za označevanje prioritet in kategorij svojih sporočil.">
 <!ENTITY addTagButton.label        "Dodaj">
 <!ENTITY addTagButton.accesskey    "D">
 <!ENTITY editTagButton.label       "Uredi">
 <!ENTITY editTagButton.accesskey   "U">
 <!ENTITY removeTagButton.label     "Zbriši">
-<!ENTITY removeTagButton.accesskey "B">
-
+<!ENTITY removeTagButton.accesskey "b">
 <!-- Fonts and Colors -->
+
 <!ENTITY fontsAndColors1.label   "Pisave in barve">
 <!ENTITY defaultFont.label       "Privzeta pisava:">
 <!ENTITY defaultFont.accesskey   "P">
 <!ENTITY defaultSize.label       "Velikost:">
 <!ENTITY defaultSize.accesskey   "V">
-<!ENTITY fontOptions.accesskey   "O">
+<!ENTITY fontOptions.accesskey   "o">
 <!ENTITY fontOptions.label       "Napredno …">
 <!ENTITY colorButton.label       "Barve …">
 <!ENTITY colorButton.accesskey   "B">

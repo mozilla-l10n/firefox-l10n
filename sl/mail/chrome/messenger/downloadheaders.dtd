@@ -15,6 +15,6 @@
 <!ENTITY download.accesskey "P">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "glave">
-<!ENTITY headers.accesskey  "d">
+<!ENTITY headers.accesskey  "h">
 <!ENTITY mark.label         "Označi preostale glave kot prebrane">
 <!ENTITY mark.accesskey     "M">

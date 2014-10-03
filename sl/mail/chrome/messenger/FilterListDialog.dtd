@@ -10,14 +10,14 @@
 <!ENTITY editButton.label "Urejaj…">
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Zbriši">
-<!ENTITY deleteButton.accesskey "B">
+<!ENTITY deleteButton.accesskey "b">
 <!ENTITY reorderTopButton "Premakni na vrh">
 <!ENTITY reorderTopButton.accessKey "V">
 <!ENTITY reorderTopButton.toolTip "Preuredi filter, tako da se izvede pred vsemi ostalimi">
 <!ENTITY reorderUpButton.label "Premakni gor">
-<!ENTITY reorderUpButton.accesskey "G">
+<!ENTITY reorderUpButton.accesskey "g">
 <!ENTITY reorderDownButton.label "Premakni dol">
-<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderDownButton.accesskey "d">
 <!ENTITY reorderBottomButton "Premakni na dno">
 <!ENTITY reorderBottomButton.accessKey "N">
 <!ENTITY reorderBottomButton.toolTip "Preuredi filter, tako da se izvede za vsemi ostalimi">
@@ -31,8 +31,9 @@
 <!ENTITY stopFilters.label "Ustavi">
 <!ENTITY stopFilters.accesskey "U">
 <!ENTITY folderPickerPrefix.label "Zaženi izbrane filtre na:">
-<!ENTITY folderPickerPrefix.accesskey "I">
+<!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY helpButton.label "Pomoč">
 <!ENTITY helpButton.accesskey "č">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Išči filtre po imenu …">
+

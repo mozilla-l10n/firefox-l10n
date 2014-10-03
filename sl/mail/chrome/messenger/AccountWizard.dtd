@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Čarovnik za račune">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-
 <!-- Entities for Account Type page -->
+
 
 <!ENTITY accountSetupInfo2.label "Da lahko prejemate sporočila, morate najprej odpreti račun za pošto ali novičarsko skupino">
 <!ENTITY accountTypeTitle.label "Nastavitev novega računa">
@@ -17,13 +17,13 @@
 <!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Račun za novičarsko skupino">
 <!ENTITY accountTypeNews.accesskey "n">
-
 <!-- Entities for Identity page -->
+
 
 <!ENTITY identityTitle.label "Identiteta">
 <!ENTITY identityDesc.label "Vsak račun ima identiteto, to je informacijo, ki vas identificira pri prejemnikih vaših sporočil.">
-
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!ENTITY fullnameDesc.label "Vnesite ime, ki ga želi videti v polju &quot;Od&quot; pri pošiljanju sporočil">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -31,12 +31,12 @@
 -->
 <!ENTITY fullnameExample.label "(na primer, &quot;Marija Novak&quot;).">
 <!ENTITY fullnameLabel.label "Vaše ime:">
-<!ENTITY fullnameLabel.accesskey "I">
+<!ENTITY fullnameLabel.accesskey "i">
 
 <!ENTITY emailLabel.label "E-naslov:">
-<!ENTITY emailLabel.accesskey "e">
-
+<!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
+
 
 <!ENTITY incomingTitle.label "Podatki o vhodnem strežniku">
 <!ENTITY incomingServerTypeDesc.label "Izberite vrsto vhodnega strežnika, ki ga uporabljate.">
@@ -47,7 +47,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Pusti sporočila na strežniku">
-<!ENTITY leaveMsgsOnSrvr.accesskey "S">
+<!ENTITY leaveMsgsOnSrvr.accesskey "s">
 <!ENTITY portNum.label "Vrata:">
 <!ENTITY portNum.accesskey "V">
 <!ENTITY defaultPortLabel.label "Privzeto:">
@@ -55,7 +55,7 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Vnesite ime svojega vhodnega strežnika (NNTP) (na primer, &quot;posta.naprimer.net&quot;).">
 <!ENTITY incomingServer.label "Vhodni strežnik:">
-<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Vnesite svoje ime za vhodni strežnik, ki ste ga dobili od ponudnika poštnih storitev(na primer,  &quot;Janez.Kralj&quot;).">
 <!ENTITY incomingUsername.label "Uporabniško ime:">
@@ -64,21 +64,21 @@
 <!ENTITY newsServerNameDesc.label "Vnesite ime svojega strežnika za novice (NNTP) (na primer, &quot;novice.naprimer.net&quot;).">
 <!ENTITY newsServerLabel.label "Strežnik za novice:">
 <!ENTITY newsServerLabel.accesskey "S">
-
 <!-- Entities for Outgoing Server page -->
+
 
 <!ENTITY outgoingTitle.label "Podatki o izhodnem strežniku">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Vnesite ime svojega izhodnega strežnika (NNTP) (na primer, &quot;smtp.naprimer.net&quot;).">
 <!ENTITY outgoingServer.label "Izhodni strežnik:">
-<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "Vnesite svoje ime za izhodni strežnik, ki ste ga dobili od ponudnika poštnih storitev(običajno se za ta namen uporablja eno in isto ime).">
 <!ENTITY outgoingUsername.label "Izhodno uporabniško ime:">
-<!ENTITY outgoingUsername.accesskey "U">
-
+<!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+
 <!ENTITY modifyOutgoing.suffix "Nastavitve za izhodne strežnike lahko spremenite v nastavitvah za račun.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +98,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Vaš izhodni (SMTP) strežnik, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, je enak vašemu vhodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime.">
-
 <!-- Entities for Account name page -->
+
 
 <!ENTITY accnameTitle.label "Ime računa">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Vnesite ime za ta račun (na primer, &quot;račun v službi&quot;, &quot;račun doma&quot; ali &quot;račun za novice&quot;).">
 <!ENTITY accnameLabel.label "Ime računa:">
 <!ENTITY accnameLabel.accesskey "I">
-
 <!-- Entities for Done (Congratulations) page -->
+
 
 <!ENTITY completionTitle.label "Čestitamo!">
 <!ENTITY completionText.label "Preverite, da so podatki spodaj pravilni.">
@@ -115,10 +115,10 @@
 <!ENTITY serverNamePrefix.label "Ime vhodnega strežnika:">
 <!ENTITY smtpServerNamePrefix.label "Ime strežnika za izhodno pošto (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ime strežnika za novice (NNTP):">
-<!ENTITY downloadOnLogin.label "Prenesi sedaj sporočila …">
+<!ENTITY downloadOnLogin.label "Prenesi sporočila zdaj …">
 <!ENTITY downloadOnLogin.accesskey "P">
 <!ENTITY deferStorageDesc.label "Izbrišite kljuko v tem polju, če želite pošto za ta račun shranjevati v svojem lastnem imeniku. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del računa Krajevne mape Globalno Vhodni predal">
 <!ENTITY deferStorage.label "Uporabljajo globalni vhodni predal (pošto shranjuj v krajevne mape)">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">
 <!ENTITY clickFinish.labelMac "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">

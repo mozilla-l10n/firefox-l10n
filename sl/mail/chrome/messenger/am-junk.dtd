@@ -5,14 +5,14 @@
 <!ENTITY junkSettings.label "Nastavitve neželene pošte">
 <!ENTITY trainingDescription.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za neželeno pošto v orodni vrstici sporočila označevati kot neželena ali želena, tako da se &brandShortName; lahko nauči, kako neželeno pošto prepoznati. Označiti morate tako neželena kot tudi želena sporočila.">
 <!ENTITY level.label "Za ta račun omogoči prilagodljiv nadzor nad neželeno pošto">
-<!ENTITY level.accesskey "O">
+<!ENTITY level.accesskey "o">
 
 <!ENTITY move.label "Nova neželena sporočila prestavi v:">
 <!ENTITY move.accesskey "N">
 <!ENTITY junkFolderOn.label "Mapa &quot;Neželeno&quot; na:">
-<!ENTITY junkFolderOn.accesskey "P">
+<!ENTITY junkFolderOn.accesskey "p">
 <!ENTITY otherFolder.label "Drugo:">
-<!ENTITY otherFolder.accesskey "O">
+<!ENTITY otherFolder.accesskey "o">
 <!ENTITY purge1.label "Samodejno zbriši neželeno pošto, ki je starejša od:">
 <!ENTITY purge1.accesskey "o">
 <!ENTITY purge2.label "dni">
