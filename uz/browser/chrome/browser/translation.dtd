@@ -12,8 +12,8 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-<!ENTITY translation.thisPageIsIn.label         "Ushbu sahifa">
-<!ENTITY translation.translateThisPage.label    "Ushbu sahifa tarjima qilinsinmi?">
+<!ENTITY translation.thisPageIsIn.label         "Ushbu sahifa tili:">
+<!ENTITY translation.translateThisPage.label    "Bu sahifa tarjima qilinsinmi?">
 <!ENTITY translation.translate.button           "Tarjima qilish">
 <!ENTITY translation.notNow.button              "Hozir emas">
 
@@ -34,7 +34,7 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "Ushbu sahifa bu yerdan tarjima qilingan">
+<!ENTITY translation.translatedFrom.label       "Sahifaning asl tili:">
 <!ENTITY translation.translatedTo.label         "ushbu tilga">
 <!ENTITY translation.translatedToSuffix.label   "">
 
@@ -42,8 +42,9 @@
 <!ENTITY translation.showTranslation.button     "Tarjimani ko‘rsatish">
 
 <!ENTITY translation.errorTranslating.label     "Ushbu sahifani tarjima qilishda xato yuz berdi.">
-<!ENTITY translation.tryAgain.button            "Yana urinib koʻrish">
+<!ENTITY translation.tryAgain.button            "Yana urinib ko‘rish">
 
+<!ENTITY translation.serviceUnavailable.label   "Tarjima ayni lahzalarda mavjud emas. Keyinroq urinib ko‘ring.">
 
 <!ENTITY translation.options.menu               "Moslamalar">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -51,9 +52,10 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "Bu sayt hech qachon tarjima qilinmasin">
+<!ENTITY translation.options.neverForSite.accesskey "h">
+<!ENTITY translation.options.preferences.label  "Tarjima parametrlari">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'

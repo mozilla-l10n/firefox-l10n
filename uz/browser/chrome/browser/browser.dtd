@@ -509,7 +509,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tovushni oʻchirish">
+<!ENTITY mediaMute.label             "Tovushni o‘chirish">
 <!ENTITY mediaMute.accesskey         "o">
 <!ENTITY mediaUnmute.label           "Tovushni yoqish">
 <!ENTITY mediaUnmute.accesskey       "y">
@@ -517,7 +517,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate.accesskey "I">
 <!ENTITY mediaPlaybackRate050x.label "Sekin harakat (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Oʻrtacha tezlik">
+<!ENTITY mediaPlaybackRate100x.label "O‘rtacha tezlik">
 <!ENTITY mediaPlaybackRate100x.accesskey "O">
 <!ENTITY mediaPlaybackRate150x.label "Yuqori tezlik (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "Y">
@@ -529,7 +529,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Boshqaruvlarni koʻrsatish">
+<!ENTITY mediaShowControls.label     "Boshqaruvlarni ko‘rsatish">
 <!ENTITY mediaShowControls.accesskey "B">
 <!ENTITY mediaHideControls.label     "Boshqaruvlarni yashirish">
 <!ENTITY mediaHideControls.accesskey "B">
@@ -540,7 +540,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Statistikalarni koʻrsatish">
+<!ENTITY videoShowStats.label        "Statistikalarni ko‘rsatish">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Statistikalarni yashirish">
 <!ENTITY videoHideStats.accesskey    "t">
@@ -603,12 +603,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Paydo boʻluvchi oynalarni bloklagichni moslash">
-<!ENTITY editPopupSettings.label "Pop-up oynani bloklash moslamalarini oʻzgartirish">
+<!ENTITY editPopupSettingsUnix.label "Paydo bo‘luvchi oynalarni bloklagichni moslash">
+<!ENTITY editPopupSettings.label "Pop-up oynani bloklash moslamalarini o‘zgartirish">
 <!ENTITY editPopupSettings.accesskey "o">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Sahifa yoʻnalishini almashtirish">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Sahifa yo‘nalishini almashtirish">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "y">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Matn yo‘nalishini almashtirish">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
@@ -623,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Lugʻatlar qoʻshish">
+<!ENTITY spellAddDictionaries.label "Lug‘atlar qo‘shish">
 <!ENTITY spellAddDictionaries.accesskey "q">
 
 <!ENTITY editBookmark.done.label                     "Tayyor">
@@ -645,7 +645,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ushbu tomonidan bajariladi:">
 
-<!ENTITY identity.moreInfoLinkText "Koʻproq ma`lumot...">
+<!ENTITY identity.moreInfoLinkText "Ko‘proq ma’lumot…">
 
 <!ENTITY identity.permissions "Ruxsatlar">
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
@@ -661,15 +661,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "Boshqa qurilmalardan ichki oynalar">
 
-<!ENTITY syncBrand.shortName.label    "Sinx-yalash">
+<!ENTITY syncBrand.shortName.label    "Sinxronlash">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label;ni moslash…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Hozir sinx-yalash">
+<!ENTITY syncSyncNowItem.label        "Hozir sinxronlash">
 <!ENTITY syncSyncNowItem.accesskey    "s">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ga qayta ulanish...">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ga qayta ulanish…">
 <!ENTITY syncReAuthItem.accesskey     "q">
-<!ENTITY syncToolbarButton.label      "Sinx-yalash">
+<!ENTITY syncToolbarButton.label      "Sinxronlash">
 
 <!ENTITY socialToolbar.title        "Ijtimoiy asboblar paneli tugmasi">
 
@@ -681,24 +681,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.addons.label "Xizmatlarni boshqarish…">
 
-<!ENTITY social.toggleNotifications.label "Ish stoli eslatmalarini koʻrsatish">
-<!ENTITY social.toggleNotifications.accesskey "e">
+<!ENTITY social.toggleNotifications.label "Ish stoli bildirishnomalarini ko‘rsatish">
+<!ENTITY social.toggleNotifications.accesskey "b">
 
-<!ENTITY social.activated.description "<label/>dan xizmatlar yoqib qoʻyildi. <label class='text-link'>Qoʻshimcha dasturlar boshqaruvchisi</label>dagi xizmatlar uchun moslamalaringizni oʻzgartira olasiz.">
+<!ENTITY social.activated.description "<label/>dan xizmatlar yoqib qo‘yildi. <label class='text-link'>Qo‘shimcha dasturlar boshqaruvchisi</label>dagi xizmatlar uchun moslamalaringizni o‘zgartira olasiz.">
 <!ENTITY social.activated.undo.label "Obbo, buni qaytaring!">
 <!ENTITY social.activated.undo.accesskey "q">
-<!ENTITY social.learnMore.label "Ko‘proq oʻrganish...">
+<!ENTITY social.learnMore.label "Ko‘proq o‘rganish…">
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Hozir emas">
 
 
 
 <!ENTITY customizeMode.tabTitle "&brandShortName;ni qulaylashtirish">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Qoʻshimcha asboblar va xususiyatlar">
-<!ENTITY customizeMode.menuAndToolbars.empty "Koʻproq asboblar kerakmi?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Menlab qoʻshimcha dasturlar ichidan tanlab oling">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Qo‘shimcha asboblar va xususiyatlar">
+<!ENTITY customizeMode.menuAndToolbars.empty "Ko‘proq asboblar kerakmi?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Minglab qo‘shimcha dasturlar ichidan tanlab oling">
 <!ENTITY customizeMode.restoreDefaults "Standart holatni tiklash">
-<!ENTITY customizeMode.toolbars "Asboblar panelini koʻrsatish/yashirish">
+<!ENTITY customizeMode.toolbars "Asboblar panelini ko‘rsatish/yashirish">
 <!ENTITY customizeMode.titlebar "Sarlavha paneli">
 <!ENTITY customizeMode.lwthemes "Mavzular">
 <!ENTITY customizeMode.lwthemes.myThemes "Mening mavzularim">
@@ -715,20 +715,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.markpageMenu.accesskey "s">
 <!ENTITY social.markpageMenu.label "Sahifani saqlash">
 <!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Linkni saqlash...">
+<!ENTITY social.marklinkMenu.label "Linkni saqlash…">
 
-<!ENTITY getUserMedia.selectCamera.label "Boʻlishiladigan kamera:">
+<!ENTITY getUserMedia.selectCamera.label "Bo‘lishiladigan kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-<!ENTITY getUserMedia.selectMicrophone.label "Boʻlishish uchun mikrofon:">
+<!ENTITY getUserMedia.selectMicrophone.label "Bo‘lishish uchun mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lishiladi.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Ushbu kontent bloklangandan soʻng koʻpgina veb saytlar yaxshi ishlay boshlaydi.">
+<!ENTITY badContentBlocked.moreinfo "Ushbu kontent bloklangandan so‘ng ko‘pgina vebsahifalar yaxshi ishlay boshlaydi.">
 
 <!ENTITY mixedContentBlocked2.message "Xavfsiz bo‘lmagan kontent">
 <!ENTITY mixedContentBlocked2.moreinfo "Ushbu vebsahifadagi ba’zi kodlanmagan elementlar bloklandi.">
-<!ENTITY mixedContentBlocked2.learnMore "Koʻproq oʻrganish">
+<!ENTITY mixedContentBlocked2.learnMore "Ko‘proq o‘rganish">
 <!ENTITY mixedContentBlocked2.options "Moslamalar">
 <!ENTITY mixedContentBlocked2.unblock.label "Himoyani hozir o‘chirish">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "h">
@@ -738,15 +738,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Kuzatish">
 <!ENTITY trackingContentBlocked.moreinfo "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
-<!ENTITY trackingContentBlocked.learnMore "Koʻproq oʻrganish">
+<!ENTITY trackingContentBlocked.learnMore "Ko‘proq o‘rganish">
 <!ENTITY trackingContentBlocked.options "Moslamalar">
 <!ENTITY trackingContentBlocked.unblock.label2 "Ushbu sahifadagi himoyalanishni o‘chirish">
 <!ENTITY trackingContentBlocked.block.label "Himoyani yoqish">
 <!ENTITY trackingContentBlocked.disabled.message "Kuzatishdan himoya o‘chirildi">
 
-<!ENTITY pointerLock.notification.message "Uni yana koʻrsatish uchun xohlagan vaqtingizda &quot;ESC&quot; tugmasini bosing.">
+<!ENTITY pointerLock.notification.message "Uni yana ko‘rsatish uchun xohlagan vaqtingizda &quot;ESC&quot; tugmasini bosing.">
 
-<!ENTITY pluginNotification.showAll.label "Barchasini koʻrsatish">
+<!ENTITY pluginNotification.showAll.label "Barchasini ko‘rsatish">
 <!ENTITY pluginNotification.showAll.accesskey "k">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
@@ -763,8 +763,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "Ichki oynada nosozlik!">
 <!ENTITY tabCrashed.message "Sharmandali holat ekanligini bilamiz. Biz vebsahifani ko‘rsatishga harakat qilyapmiz, lekin u javob bermayapti.">
-<!ENTITY tabCrashed.checkSendReport "Nosozlikni bartaraf qilish uchun &vendorShortName;ga xabar berish">
-<!ENTITY tabCrashed.tryAgain "Yana urinib ko‘rish">
+<!ENTITY tabCrashed.checkSendReport "Nosozlikni bartaraf qilish uchun &vendorShortName;ga xabar bering.">
+<!ENTITY tabCrashed.tryAgain "Yana urinib ko‘ring">
 
 <!ENTITY uiTour.infoPanel.close "Yopish">
 
@@ -775,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "So‘nggisini unutish:">
+<!ENTITY panicButton.view.5min                    "Besh daqiqa">
+<!ENTITY panicButton.view.2hr                     "Ikki soat">
+<!ENTITY panicButton.view.day                     "24 soat">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Yaxshi amalga oshdi:">
+<!ENTITY panicButton.view.deleteCookies           "So‘nggi <html:strong>Kukilar</html:strong>ni o‘chirish">
+<!ENTITY panicButton.view.deleteHistory           "So‘nggi <html:strong>Tarix</html:strong>ni o‘chirish">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Barcha <html:strong>Ichki oynalar</html:strong> va <html:strong>Oynalar</html:strong>ni yopish">
+<!ENTITY panicButton.view.openNewWindow           "Yangi toza oynani ochish">
 
 <!ENTITY panicButton.view.undoWarning             "Ushbu amalni orqaga qaytarib boʻlmaydi.">
+<!ENTITY panicButton.view.forgetButton            "Unutish!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "So‘nggi tarixingiz tozalandi.">
+<!ENTITY panicButton.thankyou.msg2                "Xavfsiz ko‘rish!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Rahmat!">
 
