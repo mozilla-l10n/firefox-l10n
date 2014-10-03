@@ -13,13 +13,13 @@
 
 
 
-<!ENTITY profilerUI.emptyNotice1 "Click on the">
-<!ENTITY profilerUI.emptyNotice2 "button to start recording JavaScript function calls.">
+<!ENTITY profilerUI.emptyNotice1 "Cliceáil an cnaipe">
+<!ENTITY profilerUI.emptyNotice2 "chun taifead a dhéanamh ar ghlaonna JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
-<!ENTITY profilerUI.stopNotice1 "Click on the">
-<!ENTITY profilerUI.stopNotice2 "button again to stop profiling.">
+<!ENTITY profilerUI.stopNotice1 "Cliceáil an cnaipe">
+<!ENTITY profilerUI.stopNotice2 "arís chun próifíliú a stopadh.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
 
-<!ENTITY profilerUI.recordButton.tooltip "Record JavaScript function calls.">
+<!ENTITY profilerUI.recordButton.tooltip "Déan taifead ar ghlaonna JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 

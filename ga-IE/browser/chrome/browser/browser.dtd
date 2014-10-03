@@ -727,7 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "Den chuid is mó, feidhmeoidh suímh Ghréasáin mar is ceart fiú má chuireann tú cosc ar ábhar.">
 
 <!ENTITY mixedContentBlocked2.message "Ábhar neamhshlán">
-<!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
+<!ENTITY mixedContentBlocked2.moreinfo "Cuireadh cosc ar roinnt eilimintí gan criptiú ar an suíomh seo.">
 <!ENTITY mixedContentBlocked2.learnMore "Tuilleadh Eolais">
 <!ENTITY mixedContentBlocked2.options "Roghanna">
 <!ENTITY mixedContentBlocked2.unblock.label "Díchumasaigh cosaint don am i láthair">

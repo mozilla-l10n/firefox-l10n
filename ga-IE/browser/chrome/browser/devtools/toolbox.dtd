@@ -35,7 +35,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
-<!ENTITY options.showUserAgentStyles.label "Show Browser Styles">
+<!ENTITY options.showUserAgentStyles.label "Taispeáin Stíleanna Brabhsálaí">
 <!ENTITY options.showUserAgentStyles.tooltip "Turning this on will show default styles that are loaded by the browser.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -141,7 +141,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
-<!ENTITY options.stylesheetAutocompletion.label "Autocomplete CSS">
+<!ENTITY options.stylesheetAutocompletion.label "CSS a uathlíonadh">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Autocomplete CSS properties, values and selectors in Style Editor as you type">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
@@ -172,7 +172,7 @@ Gecko platform symbols">
   -  section. -->
 
 
-<!ENTITY options.sourceeditor.label "Editor Preferences">
+<!ENTITY options.sourceeditor.label "Sainroghanna an Eagarthóra">
 <!ENTITY options.sourceeditor.detectindentation.label "Detect indentation">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Guess indentation based on source content">
 <!ENTITY options.sourceeditor.autoclosebrackets.label "Autoclose brackets">
