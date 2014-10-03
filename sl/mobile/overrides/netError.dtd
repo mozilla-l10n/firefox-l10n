@@ -11,18 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezava neuspešna">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Dostop na ta naslov je omejen">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
-  <li>Morda ste se zmotili pri črkovanju naslova (npr.
-    <strong>ww</strong>.naprimer.si namesto 
-    <strong>www</strong>.naprimer.si</li>
-  <li>Če ne morete naložiti nobene strani, imate morda napačne nastavitve ali brezžično povezavo.</li>
+  <li>Morda ste se zmotili pri črkovanju naslova, npr.
+    <strong>ww</strong>.primer.si namesto
+    <strong>www</strong>.primer.si</li>
+  <li>Če ne morete naložiti nobene strani, preverite nastavitve podatkovne povezave ali Wi-Fi.
+    <button id='wifi'>Omogoči Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -51,15 +53,17 @@
 ">
 
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument je potekel">
 <!ENTITY notCached.longDesc "<p>Zahtevan dokument ni dosegljiv v predpomnilniku &brandShortName;a.</p><ul><li>Kot varnostni ukrep, &brandShortName; ne zahteva samodejne ponovne zahteve za občutljive dokumente.</li><li>Pritisnite Poskusi znova za ponovno zahtevo dokumenta s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Nepovezan način">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Pozkusite znova. &brandShortName; bo skušal odpreti povezavo in stran naložiti.</li>
+  <li>Poskusite znova. &brandShortName; bo poskušal vzpostaviti povezavo in ponovno naložiti stran.
+    <button id='wifi'>Omogoči Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +82,10 @@
 ">
 
 <!ENTITY netReset.title "Povezava je bila ponastavljena">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Dovoljeni čas pretekel">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Naslova ni bilo mogoče razumeti">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -99,10 +103,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Proky strežnika ni mogoče najti">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
-  <li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li>
+  <li>Preverite, ali ima vaša naprava delujočo podatkovno povezavo ali Wi-Fi.</li>
+    <button id='wifi'>Omogoči Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -137,10 +143,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Stran je morda začasno nedosegljiva ali preobremenjena. Poskusite znova nekoliko pozneje.</li>
-  <li>Če ne uspete naložiti nobene strani, preverite povezavo svojega računalnika s spletom.</li>
+  <li>Če ne morete naložiti nobene strani, preverite nastavitve podatkovne povezave ali Wi-Fi.
+    <button id='wifi'>Omogoči Wi-Fi</button>
+  </li>
 </ul>
 ">
 
