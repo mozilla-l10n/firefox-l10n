@@ -41,8 +41,8 @@
 <!ENTITY TextSize.accesskey "F">
 <!ENTITY TextLength.label "Makslengde">
 <!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Hurtigtast:">
-<!ENTITY AccessKey.accesskey "H">
+<!ENTITY AccessKey.label "Snøggtast:">
+<!ENTITY AccessKey.accesskey "S">
 <!ENTITY Accept.label "Godta typar:">
 <!ENTITY Accept.accesskey "G">
 

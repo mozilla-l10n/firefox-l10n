@@ -20,7 +20,7 @@
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "Slått av">
 <!ENTITY ButtonDisabled.accesskey "S">
-<!ENTITY AccessKey.label "Hurtigtast:">
+<!ENTITY AccessKey.label "Snøggtast:">
 <!ENTITY AccessKey.accesskey "H">
 
 <!ENTITY RemoveButton.label "Fjern knapp">

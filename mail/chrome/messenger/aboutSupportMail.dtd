@@ -4,7 +4,7 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "Applikasjonsbygg-ID">
 
-<!ENTITY aboutSupport.accountsTitle "E-post og nyheitsgruppe-kontoar">
+<!ENTITY aboutSupport.accountsTitle "E-post og nyhendegruppe-kontoar">
 <!ENTITY aboutSupport.showPrivateData.mainText "Inkluder kontonamn">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(mogleg person-identifiserbar info)">
 <!ENTITY aboutSupport.accountsID "ID">

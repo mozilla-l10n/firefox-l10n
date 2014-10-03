@@ -10,7 +10,7 @@
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
 <!ENTITY lightning.toolbar.delete.label "Slett">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
-<!ENTITY lightning.toolbar.gototoday.label "Gå til i dag">
+<!ENTITY lightning.toolbar.gototoday.label "Gå til: «I dag»">
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
 
 <!-- Mode Toolbar -->
@@ -38,7 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMeny">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Viser &brandShortName;-menyen">
-<!ENTITY lightning.toolbar.calendarmenu.label        "Kalender-panel">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kalenderpanel">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
 <!ENTITY lightning.toolbar.calendarpane.label        "Vis kalenderpanel">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "V">
