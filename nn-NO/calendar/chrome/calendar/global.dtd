@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY time.midnight "Midnatt" >
-<!ENTITY time.noon "Middag" >
+<!ENTITY time.midnight "00:00" >
+<!ENTITY time.noon "12:00" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
@@ -49,4 +49,4 @@
 <!ENTITY showToday.tooltip "Gå til i dag">
 <!ENTITY onedayforward.tooltip "Ein dag fram">
 <!ENTITY onedaybackward.tooltip "Ein dag tilbake">
-<!ENTITY showselectedday.tooltip "Vis hendingar for valt dag">
+<!ENTITY showselectedday.tooltip "Vis hendingar for vald dag">

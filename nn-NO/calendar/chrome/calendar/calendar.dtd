@@ -57,8 +57,8 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfall">
 <!ENTITY calendar.unifinder.close.tooltip                  "Lukkar hendingssøk og hendingsliste">
 
-<!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
-<!ENTITY calendar.todaypane.button.tooltip      "Vis i dag-ruta" >
+<!ENTITY calendar.today.button.tooltip          "Gå til «I dag»" >
+<!ENTITY calendar.todaypane.button.tooltip      "Vis «I dag»-ruta" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
