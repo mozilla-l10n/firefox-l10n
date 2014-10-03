@@ -9,7 +9,7 @@
 <!ENTITY  onboard_start_message "Pozdravljeni v &brandShortName;u!">
 <!ENTITY  onboard_start_subtext "Predan vam, vaši zasebnosti in odprtemu spletu.">
 <!ENTITY  onboard_start_button_account "Prijava v &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Začnite z brskanjem>
+<!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
