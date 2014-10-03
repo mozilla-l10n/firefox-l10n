@@ -771,4 +771,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
 <!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi&brandShortName; ukulungiselela iWindows 8 Touch">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Libala okokugqibela:">
+<!ENTITY panicButton.view.5min                    "Imizuzu emihlanu">
+<!ENTITY panicButton.view.2hr                     "Iiyure ezimbini">
+<!ENTITY panicButton.view.day                     "Iiyure ezi-24">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Ukuqhubeleka kuya:">
+<!ENTITY panicButton.view.deleteCookies           "Cima okutsha nje <html:strong>Amaqebengwana</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Cima okutsha nje <html:strong>Imbali</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Vala konke <html:strong>Iithebhu</html:strong> kunye <html:strong>Iifestile</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Vula iFestile ecocekileyo entsha">
+
+<!ENTITY panicButton.view.undoWarning             "Eli nyathelo alinakujikwa.">
+<!ENTITY panicButton.view.forgetButton            "Libala!">
+
+<!ENTITY panicButton.thankyou.msg1                "IMbali yakho yakutsha nje isusiwe.">
+<!ENTITY panicButton.thankyou.msg2                "Ukubhrawuza okukhuselekileyo!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Siyabulela!">
 
