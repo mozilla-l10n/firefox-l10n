@@ -8,7 +8,7 @@
 
 <!ENTITY  onboard_start_message "Բարի գալուստ &brandShortName;">
 <!ENTITY  onboard_start_subtext "Ուղղված է Ձեզ, Ձեր անվտանգության և Բաց վեբի համար է">
-<!ENTITY  onboard_start_button_account "Նուտք գործել &brandShortName;">
+<!ENTITY  onboard_start_button_account "Մուտք գործել &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Սկսել">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -175,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Մաքրել">
 <!ENTITY pref_clear_private_data_category "Մաքրել անձնական տվյալները">
 <!ENTITY pref_clear_on_exit_title "Դուրս գրվելիս միշտ մաքրել">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ Դուք ընտրեք   \u0022Փակել\u0022 հիմնական ցանկից">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
 <!ENTITY pref_plugins_enabled "Միացնել">
@@ -236,7 +236,7 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName;-ի վիճակը և տվյալը">
 <!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը տարածել">
 <!ENTITY datareporting_notification_action "Ընտրել, թե ինչը տարածել">
-<!ENTITY datareporting_notification_summary "Ձեր աշխատանքի հարմարության համար &brandShortName;-ը որոշ տեղեկություններ է հաղմորդում &vendorShortName;-ին:">
+<!ENTITY datareporting_notification_summary "Աշխատանքը բարելավելու համար &brandShortName;-ը որոշ տեղեկություններ է հաղորդում &vendorShortName;-ին:">
 <!ENTITY datareporting_notification_summary_short "Ձեր աշխատանքը հարմարեցնելու համար, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
