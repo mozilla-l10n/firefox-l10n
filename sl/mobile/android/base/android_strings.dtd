@@ -378,7 +378,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "Nazaj na &formatS;">
 
 <!ENTITY private_browsing_title "Zasebno brskanje">
-<!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškoti ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
+<!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškotki ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
 <!ENTITY private_tabs_panel_learn_more "Želite izvedeti več?">
 
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">

@@ -93,7 +93,7 @@ da ima &brandShortName; pravico uporabljati mrežo.</li>
 
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja piškotov.</li> 
+<li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja piškotkov.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
