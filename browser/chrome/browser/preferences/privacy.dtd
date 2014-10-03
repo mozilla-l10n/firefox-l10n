@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2          "Stranem sporoči, naj mi sledijo">
 <!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY trackingProtection.label       "Prepreči stranem, da mi sledijo">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "Več o tem">
 <!ENTITY doNotTrackInfo.label           "Več o tem">
 
 <!ENTITY  history.label "Zgodovina">
