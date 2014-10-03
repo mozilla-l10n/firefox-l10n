@@ -8,8 +8,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Bilatu eguneraketak">
 <!ENTITY update.checkForUpdatesButton.accesskey   "B">
-<!ENTITY update.updateButton.label                "Berrabiarazi eguneratzeko">
-<!ENTITY update.updateButton.accesskey            "B">
+<!ENTITY update.updateButton.label2               "Berrabiarazi &brandShortName; eguneratzeko">
+
 <!ENTITY update.applyButtonBillboard.label        "Aplikatu eguneraketa…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 

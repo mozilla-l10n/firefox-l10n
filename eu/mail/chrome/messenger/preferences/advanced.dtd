@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
 <!ENTITY certs.auto                      "Hautatu bat automatikoki">
-<!ENTITY certs.auto.accesskey            "m">
+
 <!ENTITY certs.ask                       "Galdetu beti">
 <!ENTITY certs.ask.accesskey             "G">
 
+
+
 <!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY validation.label               "Balidazioa">
-<!ENTITY validation.accesskey           "d">
-<!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+
+
