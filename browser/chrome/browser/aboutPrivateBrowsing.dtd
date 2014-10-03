@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; za to okno ne bo hranil zgodovine.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Trenutno niste v zasebnem oknu.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "V zasebnem oknu &brandShortName; ne bo shranjeval zgodovine brskanja, iskanja, prenosov in spletnih obrazcev, piškotov ter začasnih datotek. Datoteke, ki jih boste prenesli, in zaznamki, ki jih boste ustvarili, pa se bodo ohranili.">
+<!ENTITY privatebrowsingpage.perwindow.description     "V zasebnem oknu &brandShortName; ne bo shranjeval zgodovine brskanja, iskanja, prenosov in spletnih obrazcev, piškotkov ter začasnih datotek. Datoteke, ki jih boste prenesli, in zaznamki, ki jih boste ustvarili, pa se bodo ohranili.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Odpri zasebno okno">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Z">
