@@ -121,7 +121,7 @@
 <!ENTITY certs.auto.accesskey              "l">
 <!ENTITY certs.ask                         "Küsitakse iga kord">
 <!ENTITY certs.ask.accesskey               "i">
-<!ENTITY enableOCSP.label                  "Sertifikaatide hetkelist valideeruvust kontrollitakse OCSP abil">
+<!ENTITY enableOCSP.label                  "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
 <!ENTITY enableOCSP.accesskey              "e">
 <!ENTITY viewCerts.label                   "Kuva sertifikaate">
 <!ENTITY viewCerts.accesskey               "s">
