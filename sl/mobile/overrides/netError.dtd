@@ -106,7 +106,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
-  <li>Preverite, ali ima vaša naprava delujočo podatkovno povezavo ali Wi-Fi.</li>
+  <li>Preverite, ali ima vaša naprava delujočo podatkovno povezavo ali Wi-Fi.
     <button id='wifi'>Omogoči Wi-Fi</button>
   </li>
 </ul>
