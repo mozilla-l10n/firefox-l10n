@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Napredno spreminjanje …">
+<!ENTITY AdvancedEditButton.label "Napredno urejanje …">
 <!ENTITY AdvancedEditButton.accessKey "N">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
 <!ENTITY chooseFileButton.label "Izberite datoteko …">
 <!ENTITY chooseFileButton.accessKey "I">
 <!ENTITY chooseFileLinkButton.label "Izberite datoteko …">
 <!ENTITY chooseFileLinkButton.accessKey "I">
-
-
-<!ENTITY makeUrlRelative.tooltip "Menjaj iz relativnega v absolutni URL in obratno. Stran morate najprej shraniti, potem šele lahko to spremenite.">
+<!ENTITY makeUrlRelative.label "URL se spreminja glede na mesto strani">
+<!ENTITY makeUrlRelative.accessKey "R">
+<!ENTITY makeUrlRelative.tooltip "Spremeni med relativnem v absolutnim URL in obratno. Stran morate najprej shraniti, potem šele lahko to spremenite.">
 <!-- Shared by Link and Image dialogs -->
 
 <!ENTITY LinkURLEditField.label "Vnesite lokacijo spletne strani, krajevne datoteke, ali pa izberite sidro z imenom oziroma naslov iz seznama:">

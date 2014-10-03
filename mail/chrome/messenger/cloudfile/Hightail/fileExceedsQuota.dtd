@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "YouSendIt">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Meja za prostor dosežena">
-<!ENTITY fileExceedsQuota.accept "Posodobi">
-<!ENTITY fileExceedsQuota.cancel "Prekini">
-<!ENTITY fileExceedsQuota.description "Pri skladiščenju datotek ste prišli do meje 2GB.">
+<!ENTITY fileExceedsQuota.title   "Hightail">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Omejitev shranjevanja je dosežena">
+<!ENTITY fileExceedsQuota.accept "Nadgradi">
+<!ENTITY fileExceedsQuota.cancel "Prekliči">
+<!ENTITY fileExceedsQuota.description "Dosegli ste omejitev shranjevanja na vašem računu 2GB.">
 <!ENTITY fileExceedsQuota.description1 "Trenutno uporabljate #XXX GB prostora.">
-<!ENTITY fileExceedsQuota.description2 "Posodobite že danes na Pro Plus, da dobite več prostora na razpolago.">
+<!ENTITY fileExceedsQuota.description2 "Nadgradite že danes na račun Pro Plus, da dobite na razpolago več prostora.">
 <!ENTITY fileExceedsQuota.description3 "Da pridete do več prostora, lahko tudi zbrišete nekatere od shranjenih datotek.">

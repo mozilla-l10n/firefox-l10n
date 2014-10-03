@@ -4,23 +4,23 @@
 
 <!ENTITY messengerStartPage.label         "&brandShortName;: domača stran">
 <!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži domačo stran v polju sporočila">
-<!ENTITY enableStartPage.accesskey        "L">
+<!ENTITY enableStartPage.accesskey        "l">
 <!ENTITY location.label                   "Mesto:">
-<!ENTITY location1.accesskey              "B">
+<!ENTITY location1.accesskey               "B">
 <!ENTITY useDefault.label                 "Ponastavi privzeto">
-<!ENTITY useDefault.accesskey             "D">
+<!ENTITY useDefault.accesskey             "P">
 
-<!ENTITY changeDockIconOptions.label      "Spremeni nastavitve ikone aplikacije">
-<!ENTITY dockOptions.label                "Možnosti ikone aplikacije …">
+<!ENTITY changeDockIconOptions.label      "Spremeni možnosti ikone programa">
+<!ENTITY dockOptions.label                "Možnosti Ikone programa ....">
 <!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
 <!ENTITY playSound.label                  "Predvajaj zvok">
-<!ENTITY playSound1.accesskey             "p">
+<!ENTITY playSound1.accesskey              "p">
 <!ENTITY showAnimatedAlert.label          "Pokaži opozorilo">
-<!ENTITY showAnimatedAlert.accesskey      "b">
+<!ENTITY showAnimatedAlert.accesskey      "P">
 <!ENTITY customizeMailAlert.label         "Prilagodi …">
-<!ENTITY customizeMailAlert.accesskey     "z">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY showTrayIcon.label               "Prikaži ikono pladnja">
 <!ENTITY showTrayIcon.accesskey           "a">
@@ -29,9 +29,9 @@
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Privzeti sistemski zvok za novo pošto">
 <!ENTITY systemsoundMac.label             "Zvok za sistemsko opozorilo">
-<!ENTITY systemsoundMac.accesskey         "n">
+<!ENTITY systemsoundMac.accesskey         "Z">
 <!ENTITY systemsound.accesskey            "n">
 <!ENTITY customsound.label                "Uporabi naslednjo zvočno datoteko">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Prebrskaj …">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY browse.accesskey                 "b">

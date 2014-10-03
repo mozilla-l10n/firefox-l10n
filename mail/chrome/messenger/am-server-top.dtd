@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Skladišče za sporočila">
 <!ENTITY securitySettings.label "Varnostne nastavitve">
 <!ENTITY serverSettings.label "Nastavitve strežnika">
 <!ENTITY serverType.label "Vrsta strežnika:">
 <!ENTITY serverName.label "Ime strežnika:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Uporabniško ime:">
 <!ENTITY userName.accesskey "i">
 <!ENTITY port.label "Vrata:">
@@ -39,9 +39,9 @@
 <!ENTITY deleteByAgeFromServer.accesskey "č">
 <!ENTITY daysEnd.label "dni">
 <!ENTITY deleteOnServer2.label "Dokler jih ne zbrišem">
-<!ENTITY deleteOnServer2.accesskey "B">
+<!ENTITY deleteOnServer2.accesskey "b">
 <!ENTITY downloadOnBiff.label "Samodejno prenesi nova sporočila">
-<!ENTITY downloadOnBiff.accesskey "s">
+<!ENTITY downloadOnBiff.accesskey "S">
 <!ENTITY username.label "Vaše prijavno ime">
 <!ENTITY deleteMessagePrefix.label "Ko zbrišem sporočilo:">
 <!ENTITY modelMoveToTrash.label "Ga prestavi v mapo:">
@@ -49,12 +49,12 @@
 <!ENTITY modelMarkDeleted.label "Samo označi kot zbrisano">
 <!ENTITY modelMarkDeleted.accesskey "o">
 <!ENTITY modelDeleteImmediately.label "Odstrani ga takoj">
-<!ENTITY modelDeleteImmediately.accesskey "B">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) Prejeto ob izhodu">
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni koš">
-<!ENTITY emptyTrashOnExit.accesskey "X">
+<!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Ob zagonu preveri nova sporočila">
 <!ENTITY loginAtStartup.accesskey "z">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik, vedno zahtevaj preverjanje pristnosti">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "datoteka newsrc:">
-<!ENTITY localPath.label "Krajevni imenik:">
+<!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
 <!ENTITY abbreviateOn.label "Polna imena (Na primer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrajšajte imena (Na primer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno…">
 <!ENTITY advancedButton.accesskey "p">
 <!ENTITY serverDefaultCharset.label "Privzeti nabor znakov:">
+<!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
 <!ENTITY browseFolder.label "Prebrskaj…">
-<!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
+<!ENTITY browseFolder.accesskey "b">
 <!ENTITY browseNewsrc.label "Prebrskaj…">
 <!ENTITY browseNewsrc.accesskey "j">
 

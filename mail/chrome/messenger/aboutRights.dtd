@@ -1,9 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "O vaših pravicah">
 <!ENTITY rights.intro-header     "O vaših pravicah">
 <!ENTITY rights.intro "&brandFullName; je prost in odprtokoden program, ki ga je razvila skupnost na tisoče sodelavcev iz celega sveta. Seznaniti vas želimo z nekaterimi podrobnostmi:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -12,6 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "&brandShortName; vam je na voljo pod pogoji ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". To pomeni, da &brandShortName; lahko uporabljate, kopirate in delite drugim v uporabo. Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da bo ustrezala vašim potrebam. Mozilla Public License vam poleg tega podeljuje pravico, da po svoje spremenjene različice tudi razširjate.">
@@ -19,45 +22,45 @@
 <!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov Mozilla in Thunderbird. Dodatne informacije o blagovnih znamkah lahko najdete ">
 <!ENTITY rights.intro-point2b "tukaj">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "Politiko zasebnosti izdelkov &vendorShortName; lahko najdete ">
 <!ENTITY rights.intro-point3b "tukaj">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Vse ustrezne politike zasebnosti za ta izdelek morajo biti navedene tukaj.">
 
+<!ENTITY rights.intro-point3-unbranded "Vse ustrezne politike zasebnosti za ta izdelek morajo biti navedene tukaj.">
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer skrb za posodobitev razširitev; ni pa mogoče zagotoviti, da so 100&#37; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve deaktivirate, lahko najdete v ">
+
+<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer skrb za posodobitev razširitev; ni pa mogoče zagotoviti, da so 100&#037; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve deaktivirate, lahko najdete v ">
 <!ENTITY rights.intro-point4b "pogojih storitve">
 <!ENTITY rights.intro-point4c ".">
-
 <!-- point 4 text for unbranded builds -->
+
 <!ENTITY rights.intro-point4a-unbranded " Če ta izdelek vključuje spletne storitve, morajo pogoji za te storitve vsebovati povezavo na poglavje ">
 <!ENTITY rights.intro-point4b-unbranded "Spletne storitve">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights.webservices-header "Spletne storitve programa &brandFullName;">
-
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights.webservices-a "&brandFullName; nudi neobvezne storitve (&quot;Storitve&quot;), kot je skrb za posodabljanje razširitev, ki so vam na voljo v tej različici programa &brandShortName;, kot je opisano spodaj. Če ne želite uporabljati storitev ali so spodnji pogoji za vas nesprejemljivi, lahko storitev onemogočite, tako da odprete nastavitve programa in izberete ">
 <!ENTITY rights.webservices-b "Napredno">
 <!ENTITY rights.webservices-c " nato zavihek ">
 <!ENTITY rights.webservices-d "Posodobi">
 <!ENTITY rights.webservices-e " in nato zbrišete izbiro pri &quot;Samodejno preverjaj, če obstajajo posodobitve za&quot;.">
-
 <!-- intro paragraph for unbranded builds -->
+
 <!ENTITY rights.webservices-unbranded "Tukaj mora biti na voljo pregled storitev za spletne strani, ki jih vsebuje izdelek, skupaj z navodili, kako jih onemogočiti, če so na razpolago.">
-
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Tukaj morajo biti našteti vsi morebitni pogoji za uporabo tega izdelka.">
 
+<!ENTITY rights.webservices-term1-unbranded "Tukaj morajo biti našteti vsi morebitni pogoji za uporabo tega izdelka.">
 <!-- points 1-7 text for branded builds -->
+
 <!ENTITY rights.webservices-term1 "&vendorShortName; lahko storitve brez objave opusti ali spremeni.">
 <!ENTITY rights.webservices-term2 "Te storitve lahko uporabljate z ustrezno različico programa &brandShortName;, za to imate vse potrebne pravice. &vendorShortName; in odjemalci njegovih licenc si pridržujejo vse druge pravice v zvezi s storitvami. Namen teh pogojev ni omejiti kakršne koli pravice na osnovi odprtokodne licence programa &brandShortName; in pripadajočih različic njegove izvorne kode.">
 <!ENTITY rights.webservices-term3 "Storitve so na voljo &quot;kot take.&quot; in &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji, vam ne zagotavlja nikakršne izrecne ali implicitne garancije, med drugim brez kakršnih omejitev nobene garancije, da so Storitve primerne in uporabne za vaše namene. Ne glede na kakovost in zmogljivost storitev nosite vso odgovornost za uporabo za svoje namene vi sami Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja garancije, zato ta pogoj morda ne velja za vas.">

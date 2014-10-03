@@ -5,23 +5,23 @@
 <!ENTITY addressbookPicker.label            "Adresar:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Poišči:">
-<!ENTITY searchInput.accesskey              "I">
+<!ENTITY searchInput.accesskey              "i">
 <!ENTITY SearchNameOrEmail.label            "Ime ali E-pošta">
 
 <!ENTITY deleteAddrBookCard.label           "Izbriši">
-<!ENTITY deleteAddrBookCard.accesskey       "B">
+<!ENTITY deleteAddrBookCard.accesskey       "b">
 <!ENTITY addrBookCardProperties.label       "Lastnosti">
 <!ENTITY addrBookCardProperties.accesskey   "L">
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Kp">
-<!ENTITY addtoCcFieldMenu.accesskey         "B">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Skp">
-<!ENTITY addtoBccFieldMenu.accesskey        "C">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
-<!ENTITY toButton.accesskey                 "A">
+<!ENTITY toButton.accesskey                 "a">
 <!ENTITY ccButton.label                     "Dodaj v Kp:">
-<!ENTITY ccButton.accesskey                 "B">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Dodaj v Skp:">
-<!ENTITY bccButton.accesskey                "C">
+<!ENTITY bccButton.accesskey                "B">

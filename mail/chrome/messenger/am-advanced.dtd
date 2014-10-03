@@ -1,23 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Nastavitve strežnika za odhodno pošto (SMTP)">
 
+
+<!ENTITY smtpServer.label "Nastavitve strežnika za odhodno pošto (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+
 <!ENTITY smtpDescription.label "Lahko navedete več kot samo en izhodni strežnik (SMTP), to priporočamo samo naprednim uporabnikom. Če nastavite več strežnikov SMTP, lahko zaradi tega med pošiljanjem sporočil pride do napak.">
 
 <!ENTITY smtpListAdd.label  "Dodaj…">
-<!ENTITY smtpListAdd.accesskey  "p">
+<!ENTITY smtpListAdd.accesskey  "d">
 <!ENTITY smtpListEdit.label "Urejaj…">
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Izbriši">
 <!ENTITY smtpListDelete.accesskey "b">
 <!ENTITY smtpListSetDefault.label "Nastavi na privzeto">
-<!ENTITY smtpListSetDefault.accesskey "n">
+<!ENTITY smtpListSetDefault.accesskey "N">
 
 <!ENTITY serverDescription.label "Opis: ">
 <!ENTITY serverName.label "Ime strežnika: ">

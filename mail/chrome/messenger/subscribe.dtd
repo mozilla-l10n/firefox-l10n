@@ -4,19 +4,19 @@
 
 <!ENTITY subscribeDialog.title        "Naroči se">
 <!ENTITY subscribeButton.label        "Naroči se">
-<!ENTITY subscribeButton.accesskey    "S">
+<!ENTITY subscribeButton.accesskey    "s">
 <!ENTITY unsubscribeButton.label      "Odjavi naročnino">
 <!ENTITY unsubscribeButton.accesskey  "U">
 <!ENTITY newGroupsTab.label           "Nove skupine">
-<!ENTITY newGroupsTab.accesskey       "b">
+<!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Osveži">
 <!ENTITY refreshButton.accesskey      "e">
 <!ENTITY stopButton.label             "Ustavi">
-<!ENTITY stopButton.accesskey         "R">
+<!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Račun:">
-<!ENTITY server.accesskey             "v">
+<!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Pokaži elemente, ki vsebujejo:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY namefield.accesskey          "o">

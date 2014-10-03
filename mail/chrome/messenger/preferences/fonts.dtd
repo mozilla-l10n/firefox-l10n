@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-   <!ENTITY  fontsAndEncodingsDialog.title           "Pisave in kodiranja">
+<!ENTITY  fontsAndEncodingsDialog.title           "Pisave in kodiranja">
 <!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "45em">
 
 <!ENTITY  language.label                          "Pisave za:">
-<!ENTITY  language.accesskey                      "n">
+<!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Velikost:">
 <!ENTITY  proportionalSize.accesskey              "s">
@@ -18,9 +18,9 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "o">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Enoširinska pisava:">
 <!ENTITY  monospace.accesskey                     "s">
 
@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltsko">
 <!ENTITY  font.langGroup.el                       "Grščina">
 <!ENTITY  font.langGroup.turkish                  "Turščina">
-<!ENTITY  font.langGroup.unicode1                  "Unicode">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Določi uporabnik">
 <!ENTITY  font.langGroup.thai                     "Tajščina">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejščina">
@@ -51,30 +51,30 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Kamboščina">
 <!ENTITY  font.langGroup.malayalam                "Malajalamščina">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Najmanjša velikost pisav:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Nič">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Nadzor pisav">
 <!ENTITY  useFixedWidthForPlainText.label         "Za sporočila v golem besedilu uporabi pisavo s fiksno širino">
 <!ENTITY  fixedWidth.accesskey                    "h">
 <!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo druge pisave">
-<!ENTITY  useDocumentFonts.accesskey              "B">
-
+<!ENTITY  useDocumentFonts.accesskey              "b">
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Odhajajoča pošta:">
-<!ENTITY sendDefaultCharset.accesskey     "o">
+<!ENTITY sendDefaultCharset.accesskey     "O">
 <!ENTITY languagesTitle1.label            "Nabori znakov">
 <!ENTITY composingDescription.label       "Nastavi privzete nabore znakov za pošiljanje in prejemanje pošte">
 
 <!ENTITY viewDefaultCharsetList.label     "Prihajajoča pošta:">
-<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY viewDefaultCharsetList.accesskey  "i">
 <!ENTITY replyInDefaultCharset2.label     "Po možnosti za odgovore uporabi privzeti nabor znakov">
 <!ENTITY replyInDefaultCharset2.accesskey "d">

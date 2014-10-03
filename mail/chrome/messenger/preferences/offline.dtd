@@ -6,9 +6,9 @@
 
 <!ENTITY textStartUp "Ob zagonu:">
 <!ENTITY radioRememberPrevState.label "Zapomni si prejšnje stanje povezave">
-<!ENTITY radioRememberPrevState.accesskey "P">
+<!ENTITY radioRememberPrevState.accesskey "p">
 <!ENTITY radioAskMe.label "Ob zagonu me vprašaj za stanje povezave">
-<!ENTITY radioAskMe.accesskey "o">
+<!ENTITY radioAskMe.accesskey "O">
 <!ENTITY radioAlwaysOnline.label "Vedno začni s povezavo">
 <!ENTITY radioAlwaysOnline.accesskey "s">
 

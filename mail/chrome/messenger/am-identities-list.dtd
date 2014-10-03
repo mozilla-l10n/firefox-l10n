@@ -4,12 +4,12 @@
 
 <!ENTITY identitiesListManageDesc.label "Upravljajte identitete za ta račun. Privzeto se uporablja prva identiteta.">
 <!ENTITY identitiesListAdd.label  "Dodaj …">
-<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListAdd.accesskey  "a">
 <!ENTITY identitiesListEdit.label "Uredi …">
-<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.accesskey "e">
 <!ENTITY identitiesListDefault.label "Nastavi kot privzeto">
-<!ENTITY identitiesListDefault.accesskey "S">
+<!ENTITY identitiesListDefault.accesskey "s">
 <!ENTITY identitiesListDelete.label "Izbriši">
-<!ENTITY identitiesListDelete.accesskey "B">
+<!ENTITY identitiesListDelete.accesskey "b">
 <!ENTITY identitiesListClose.label "Zapri">
 <!ENTITY identitiesListClose.accesskey "Z">

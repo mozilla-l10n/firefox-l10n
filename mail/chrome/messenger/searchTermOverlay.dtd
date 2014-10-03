@@ -5,15 +5,15 @@
 <!ENTITY matchAll.label     "Vsebuje vse besede">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Vsebuje vsaj eno besedo">
-<!ENTITY matchAny.accesskey "X">
+<!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Uporabi za vsa sporočila">
 <!ENTITY matchAllMsgs.accesskey "v">
-
-<!-- LOCALIZATION NOTE  
+<!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">

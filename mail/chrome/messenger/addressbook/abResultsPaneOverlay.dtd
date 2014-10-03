@@ -5,32 +5,32 @@
 <!ENTITY GeneratedName.label                   "Ime">
 <!ENTITY GeneratedName.accesskey               "I">
 <!ENTITY PrimaryEmail.label                    "E-pošta">
-<!ENTITY PrimaryEmail.accesskey                "e">
+<!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizacija">
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Fonetično ime">
-<!ENTITY _PhoneticName.accesskey               "B">
+<!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Vzdevek">
-<!ENTITY NickName.accesskey                    "L">
+<!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Dodatna e-pošta">
-<!ENTITY SecondEmail.accesskey                 "s">
+<!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Oddelek">
-<!ENTITY Department.accesskey                  "b">
+<!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Naslov">
-<!ENTITY JobTitle.accesskey                    "R">
+<!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Mobilnik">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Pozivnik">
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Faks">
-<!ENTITY FaxNumber.accesskey                   "D">
+<!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Telefon doma">
-<!ENTITY HomePhone.accesskey                   "D">
+<!ENTITY HomePhone.accesskey                   "d">
 <!ENTITY WorkPhone.label                       "Telefon v službi">
-<!ENTITY WorkPhone.accesskey                   "L">
+<!ENTITY WorkPhone.accesskey                   "l">
 <!ENTITY ChatName.label                        "Ime za klepet">
-<!ENTITY ChatName.accesskey                    "K">
+<!ENTITY ChatName.accesskey                    "k">
 <!ENTITY sortAscending.label                   "Naraščajoče">
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Padajoče">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY sortDescending.accesskey              "d">

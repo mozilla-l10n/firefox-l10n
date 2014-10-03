@@ -11,10 +11,10 @@
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Uporabite Premakni navzgor / navzdol in povežite polja adresarja na levi z ustreznimi podatki za uvoz na desni. Počistite polja pred elementi, ki jih ne želite uvoziti.">
 <!ENTITY fieldMapImport.up.label "Premakni gor">
-<!ENTITY fieldMapImport.up.accesskey "G">
+<!ENTITY fieldMapImport.up.accesskey "g">
 <!ENTITY fieldMapImport.down.label "Premakni dol">
-<!ENTITY fieldMapImport.down.accesskey "D">
+<!ENTITY fieldMapImport.down.accesskey "d">
 <!ENTITY fieldMapImport.fieldListTitle "Polja adresarja">
 <!ENTITY fieldMapImport.dataTitle "Zapis podatkov za uvoz">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Prvi zapis vsebuje imena polj">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "D">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

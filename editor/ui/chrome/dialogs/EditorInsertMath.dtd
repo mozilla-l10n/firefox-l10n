@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Vstavi matematični izraz">
+
+<!ENTITY sourceEditField.label "Vstavi izvorno kodo LaTeX:">
 
 <!ENTITY options.label "Možnosti">
-
-
-
-
-
-
-
-
+<!ENTITY optionInline.label "Način v besedilu">
+<!ENTITY optionInline.accesskey "i">
+<!ENTITY optionDisplay.label "Način prikaza">
+<!ENTITY optionDisplay.accesskey "N">
+<!ENTITY optionLTR.label "Besedilo od leve proti desni">
+<!ENTITY optionLTR.accesskey "l">
+<!ENTITY optionRTL.label "Besedilo od desne proti levi">
+<!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY example.label "Na primer: ">
 <!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->

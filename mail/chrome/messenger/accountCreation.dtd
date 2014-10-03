@@ -8,7 +8,7 @@
 <!ENTITY name.placeholder                "Ime Priimek">
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY email.label                     "E-poštni naslov:">
-<!ENTITY email.accesskey                 "e">
+<!ENTITY email.accesskey                 "E">
 <!ENTITY email.placeholder               "email@naprimer.com">
 <!ENTITY password.label                  "Geslo:">
 <!ENTITY password.accesskey              "G">
@@ -28,7 +28,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Avtentikacija">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP3">
+<!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Sam ugotovi">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -40,7 +40,7 @@
 <!ENTITY advancedSetup.label             "Ročna nastavitev …">
 <!ENTITY advancedSetup.accesskey         "R">
 <!ENTITY cancel.label                    "Prekliči">
-<!ENTITY cancel.accesskey                "Q">
+<!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
 <!ENTITY stop.label                      "Ustavi">
@@ -49,9 +49,9 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label                    "Ponovno preveri">
-<!ENTITY half-manual-test.accesskey                "P">
-<!ENTITY manual-edit.label                      "Uredi ročno">
+<!ENTITY half-manual-test.label          "Ponovno preveri">
+<!ENTITY half-manual-test.accesskey      "P">
+<!ENTITY manual-edit.label               "Uredi ročno">
 <!ENTITY manual-edit.accesskey           "U">
 <!ENTITY switch-to-provisioner.label     "Dobi nov račun">
 <!ENTITY switch-to-provisioner.accesskey "D">
@@ -66,7 +66,7 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Razumem, kaj tvegam.">
 <!ENTITY confirmWarning.accesskey        "R">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "Končano">

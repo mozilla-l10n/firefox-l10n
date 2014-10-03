@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "Povratnice">
-<!ENTITY requestReceipt.label          "Ko pošiljaš sporočila, vedno zahtevaj povratnico">
-<!ENTITY requestReceipt.accesskey      "L">
+<!ENTITY requestReceipt.label          "Ob pošiljanju  sporočila vedno zahtevaj povratnico">
+<!ENTITY requestReceipt.accesskey      "j">
 <!ENTITY receiptArrive.label           "Ko povratnica prispe:">
 <!ENTITY leaveIt.label                 "Pusti jo v Prejeto">
-<!ENTITY leaveIt.accesskey             "L">
-<!ENTITY moveToSent.label              "Prestavi v mojo mapo &quot;Poslano&quot;">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "Prestavi jo v mojo mapo &quot;Poslano&quot;">
 <!ENTITY moveToSent.accesskey          "s">
 <!ENTITY requestMDN.label              "Kadar pride zahteva za povratnico:">
-<!ENTITY never.label                   "Povratnic ne pošiljam nikoli">
+<!ENTITY never.label                   "Nikoli ne pošlji povratnice">
 <!ENTITY never.accesskey               "o">
-<!ENTITY returnSome.label              "Dovoljujem povratnico za nekatera sporočila">
-<!ENTITY returnSome.accesskey          "b">
+<!ENTITY returnSome.label              "Dovoli povratnice za nekatera sporočila">
+<!ENTITY returnSome.accesskey          "p">
 <!ENTITY notInToCc.label               "Če nisem v Za ali Kp sporočila:">
-<!ENTITY notInToCc.accesskey           "D">
+<!ENTITY notInToCc.accesskey           "Č">
 <!ENTITY outsideDomain.label           "Če je pošiljatelj izven moje domene:">
 <!ENTITY outsideDomain.accesskey       "n">
 <!ENTITY otherCases.label              "V vseh ostalih primerih:">

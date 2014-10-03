@@ -11,7 +11,7 @@
 <!ENTITY heightEditField.accessKey "V">
 <!ENTITY widthEditField.label "Dolžina:">
 <!ENTITY widthEditField.accessKey "D">
-<!ENTITY pixelsPopup.value "pik">
+<!ENTITY pixelsPopup.value "slikovnih točk">
 <!ENTITY alignmentBox.label "Poravnava">
 <!ENTITY leftRadio.label "Levo">
 <!ENTITY leftRadio.accessKey "L">

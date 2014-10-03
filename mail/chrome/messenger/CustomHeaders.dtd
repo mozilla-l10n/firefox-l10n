@@ -6,6 +6,6 @@
 <!ENTITY addButton.label "Dodaj">
 <!ENTITY addButton.accesskey "D">
 <!ENTITY removeButton.label "Odstrani">
-<!ENTITY removeButton.accesskey "D">
+<!ENTITY removeButton.accesskey "d">
 <!ENTITY newMsgHeader.label "Nova glava sporočila:">
 <!ENTITY newMsgHeader.accesskey "N">

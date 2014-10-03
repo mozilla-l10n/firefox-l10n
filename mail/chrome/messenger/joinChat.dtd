@@ -7,4 +7,4 @@
 <!ENTITY optional.label                 "(neobvezno)">
 <!ENTITY account.label                  "Račun">
 <!ENTITY autojoin.label                 "Samodejen vstop v to klepetalnico">
-<!ENTITY autojoin.accesskey             "A ">
+<!ENTITY autojoin.accesskey             "A">

@@ -15,19 +15,19 @@
 <!ENTITY sendBoth.accesskey           "o">
 <!ENTITY override.label               "Opomba: Uporabite Adresar za določanje želene oblike sporočil glede na naslovnika.">
 
-<!ENTITY domaindesc.label "Ko pošljete sporočilo na naslov ene od spodnjih domen, bo &brandShortName;  pravilno obliko sporočila izbral samodejno.">
-<!ENTITY HTMLTab.label "Domene za pošto HTML">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Domene za pošto v navadnem besedilu">
-<!ENTITY PlainTextTab.accesskey       "N">
+<!ENTITY domaindesc.label             "Ko pošljete sporočilo na naslov ene od spodnjih domen, bo &brandShortName;  pravilno obliko sporočila izbral samodejno.">
+<!ENTITY HTMLTab.label                "Domene za pošto HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domene za pošto v navadnem besedilu">
+<!ENTITY PlainTextTab.accesskey       "n">
 <!ENTITY AddHtmlDomain.label          "Dodaj …">
-<!ENTITY AddHtmlDomain.accesskey      "H">
+<!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "Dodaj …">
-<!ENTITY AddPlainText.accesskey       "N">
+<!ENTITY AddPlainText.accesskey       "A">
 <!ENTITY DeleteHtmlDomain.label       "Izbriši">
-<!ENTITY DeleteHtmlDomain.accesskey   "B">
+<!ENTITY DeleteHtmlDomain.accesskey   "b">
 <!ENTITY DeletePlainText.label        "Izbriši">
-<!ENTITY DeletePlainText.accesskey    "B">
+<!ENTITY DeletePlainText.accesskey    "b">
 
 <!ENTITY add.htmltitle                "Dodajanje domene za pošto za HTML">
 <!ENTITY add.htmldomain               "domena za pošto za HTML:">

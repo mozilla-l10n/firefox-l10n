@@ -26,7 +26,7 @@
 <!ENTITY TextAreaWrap.label "Z lomom besedila:">
 <!ENTITY TextAreaWrap.accessKey "l">
 <!ENTITY WrapDefault.value "Privzeto">
-<!ENTITY WrapOff.value "Izkl">
+<!ENTITY WrapOff.value "Izklopljeno">
 <!ENTITY WrapHard.value "Trdo">
 <!ENTITY WrapSoft.value "Mehko">
 <!ENTITY WrapPhysical.value "Fizično">

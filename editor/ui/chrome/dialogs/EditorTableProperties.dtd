@@ -23,8 +23,8 @@
 <!ENTITY tableSpacing.accessKey           "R">
 <!ENTITY tablePadding.label               "Obroba:">
 <!ENTITY tablePadding.accessKey           "O">
-<!ENTITY tablePxBetwCells.label           "pik med celicami">
-<!ENTITY tablePxBetwBrdrCellContent.label "pik med robom celice in vsebino">
+<!ENTITY tablePxBetwCells.label           "slikovnih točk med celicami">
+<!ENTITY tablePxBetwBrdrCellContent.label "slikovnih točk med robom celice in vsebino">
 <!ENTITY tableAlignment.label             "Poravnava tabele:">
 <!ENTITY tableAlignment.accessKey         "P">
 <!ENTITY tableCaption.label               "Naslov:">
@@ -52,12 +52,12 @@
 <!ENTITY cellVertical.accessKey           "N">
 <!ENTITY cellStyle.label                  "Slog za celico:">
 <!ENTITY cellStyle.accessKey              "S">
-<!ENTITY cellNormal.label                 "Normalno">
+<!ENTITY cellNormal.label                 "Običajno">
 <!ENTITY cellHeader.label                 "Glava">
-<!ENTITY cellTextWrap.label               "Lomi besedilo:">
-<!ENTITY cellTextWrap.accessKey           "L">
-<!ENTITY cellWrap.label                   "Lomi">
-<!ENTITY cellNoWrap.label                 "Ne lomi">
+<!ENTITY cellTextWrap.label               "Prelomi besedilo:">
+<!ENTITY cellTextWrap.accessKey           "l">
+<!ENTITY cellWrap.label                   "Prelomi">
+<!ENTITY cellNoWrap.label                 "Ne prelomi">
 <!ENTITY cellAlignTop.label               "Vrh">
 <!ENTITY cellAlignMiddle.label            "Sreda">
 <!ENTITY cellAlignBottom.label            "Dno">
@@ -67,7 +67,7 @@
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label                       "Velikost">
-<!ENTITY pixels.label                     "pik">
+<!ENTITY pixels.label                     "slikovnih točk">
 <!ENTITY backgroundColor.label            "Barva ozadja:">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "Levo">

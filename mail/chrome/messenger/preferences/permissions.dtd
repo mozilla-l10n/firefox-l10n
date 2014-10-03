@@ -5,13 +5,13 @@
 <!ENTITY window.title                 "Izjeme">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Stran">
+<!ENTITY treehead.sitename.label      "Spletno mesto">
 <!ENTITY treehead.status.label        "Stanje">
-<!ENTITY removepermission.label       "Odstrani stran">
+<!ENTITY removepermission.label       "Odstrani spletno mesto">
 <!ENTITY removepermission.accesskey   "t">
 <!ENTITY removeallpermissions.label   "Odstrani vse strani">
-<!ENTITY removeallpermissions.accesskey "V">
-<!ENTITY address.label                "Naslov strani:">
+<!ENTITY removeallpermissions.accesskey "v">
+<!ENTITY address.label                "Naslov spletne strani:">
 <!ENTITY address.accesskey            "a">
 <!ENTITY block.label                  "Blokiraj">
 <!ENTITY block.accesskey              "B">

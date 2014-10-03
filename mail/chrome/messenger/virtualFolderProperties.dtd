@@ -6,17 +6,17 @@
 <!ENTITY name.label                 "Ime:">
 <!ENTITY name.accesskey             "I">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
-<!ENTITY description.accesskey      "z">
+<!ENTITY description.accesskey      "C">
 
 <!ENTITY searchTermCaption.label "Priredite pogoje za iskanje, ki se ga rabi v tej mapi za shranjena iskanja: ">
 
 <!ENTITY folderSelectionCaption.label "Izberite mape za iskanje: ">
 <!ENTITY chooseFoldersButton.label "Izberi …">
-<!ENTITY chooseFoldersButton.accesskey "i">
+<!ENTITY chooseFoldersButton.accesskey "I">
 
 <!ENTITY searchOnline.label "Iskanje na spletu (daje najnovejše rezultate za mape za IMAP in novice, podaljša pa čas, potreben za to, da mapo odprete)">
 <!ENTITY searchOnline.accesskey "s">
 <!ENTITY newFolderButton.label       "Ustvari">
-<!ENTITY newFolderButton.accesskey   "b">
+<!ENTITY newFolderButton.accesskey   "r">
 <!ENTITY editFolderButton.label      "Posodobi">
 <!ENTITY editFolderButton.accesskey  "U">

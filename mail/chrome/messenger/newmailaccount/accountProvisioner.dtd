@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Kažemo samo ponudnike na vašem področju. Kliknite tu za vse ponudnike.">
 <!ENTITY error.line1 "Na žalost ni bilo najti nobenega od predlaganih e-naslovov.">
 <!ENTITY error.line2 "Poizkusite iskati z vzdevki ali s kakim drugim izrazom, če želite še več e-poštnih naslovov">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Lahko si tudi pogledate možnosti">
 <!ENTITY error.suggest.middle "za brezplačen e-poštni naslov">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Halo ">
 <!ENTITY success.title.after ", naslednji e-poštni naslovi so vam na razpolago:">
 <!ENTITY success.tip "(če želite še več e-poštnih naslovov, lahko iščete z vzdevki ali kakim drugim izrazom)">
@@ -29,7 +29,7 @@
 <!ENTITY content.close "Svoj račun bom raje uredil kasneje.">
 <!ENTITY successful.title "Čestitamo!">
 <!ENTITY successful.successMessage "Uspešno ste si uredili svoj račun.">
-<!ENTITY successful.write "Sestavite sedaj kako e-pošto">
+<!ENTITY successful.write "Sestavite zdaj kako e-pošto">
 <!ENTITY successful.write.desc "Sporočite svoj novi naslov vašim prijateljem in družini.<br/>Čemu novi račun, če ne zato, da ste v stiku z njimi?">
 <!ENTITY successful.customize "Uredite si &brandShortName; s kul dodatki">
 <!ENTITY successful.customize.desc "Na razpolago imate tisoče dodatkov, s katerim si lahko uredite &brandShortName;, kot vam najbolje ustreza.">

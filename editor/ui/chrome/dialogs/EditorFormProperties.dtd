@@ -8,7 +8,7 @@
 
 <!ENTITY FormName.label "Ime obrazca:">
 <!ENTITY FormName.accesskey "I">
-<!ENTITY FormAction.label "URL za ukrep:">
+<!ENTITY FormAction.label "URL za dejanje:">
 <!ENTITY FormAction.accesskey "U">
 <!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">

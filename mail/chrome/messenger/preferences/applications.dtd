@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label            "Vrsta vsebine">
-<!ENTITY  typeColumn.accesskey        "R">
+<!ENTITY  typeColumn.accesskey        "r">
 
 <!ENTITY  actionColumn2.label         "Dejanje">
-<!ENTITY  actionColumn2.accesskey     "N">
+<!ENTITY  actionColumn2.accesskey     "n">
 
 <!ENTITY  focusSearch1.key            "D">
 <!ENTITY  focusSearch2.key            "k">
@@ -18,22 +18,21 @@
 <!ENTITY alwaysAsk.label              "Vsakokrat me vprašaj, kam shraniti posamezno datoteko">
 <!ENTITY alwaysAsk.accesskey          "k">
 <!ENTITY chooseFolderWin.label        "Prebrskaj …">
-<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderWin.accesskey    "b">
 <!ENTITY chooseFolderMac.label        "Izberi …">
 <!ENTITY chooseFolderMac.accesskey    "z">
-
 
 <!ENTITY attachments.incoming.label   "Vhodni">
 <!ENTITY attachments.outgoing.label   "Izhodni">
 
 <!ENTITY addCloudFileAccount.label        "Dodaj">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.accesskey    "a">
 <!ENTITY addCloudFileAccount.description  "Dodaj novega ponudbika za Filelink storitve">
 <!ENTITY removeCloudFileAccount.label     "Odstrani">
-<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY removeCloudFileAccount.accesskey "r">
 <!ENTITY authRequired.description         "Da je mogoöe prikazati nastavitve za posrednika, je potrebno vaše dovoljenje.">
 <!ENTITY authRequired.button.label        "Dovoljujem">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Ponudba za posredovanje datotek, ki so večje kot">
+<!ENTITY enableCloudFileAccountOffer.label "Ponudi posredovanje datotek večjih od">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

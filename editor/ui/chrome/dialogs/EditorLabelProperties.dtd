@@ -9,7 +9,7 @@
 
 <!ENTITY EditLabelText.label "Uredi besedilo:">
 <!ENTITY EditLabelText.accesskey "U">
-<!ENTITY LabelFor.label "Za kontrolo:">
+<!ENTITY LabelFor.label "Za nadzor:">
 <!ENTITY LabelFor.accesskey "Z">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
