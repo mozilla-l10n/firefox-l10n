@@ -15,8 +15,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
-
-
+<!ENTITY cmd.resume.label                 "Continuar">
+<!ENTITY cmd.resume.accesskey             "r">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
 
