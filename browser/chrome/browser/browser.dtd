@@ -732,6 +732,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.block.accesskey "א">
 <!ENTITY mixedContentBlocked2.disabled.message "ההגנה מנוטרלת">
 
+<!ENTITY trackingContentBlocked.message "מעקב">
+<!ENTITY trackingContentBlocked.moreinfo "נחסמו חלקים מדף זה העוקבים אחר הפעילות המקוונת שלך.">
+<!ENTITY trackingContentBlocked.learnMore "מידע נוסף">
+<!ENTITY trackingContentBlocked.options "אפשרויות">
+<!ENTITY trackingContentBlocked.unblock.label2 "לנטרל הגנה עבור אתר זה">
+<!ENTITY trackingContentBlocked.block.label "לאפשר הגנה">
+<!ENTITY trackingContentBlocked.disabled.message "הגנת מעקב מנוטרלת">
+
 <!ENTITY pointerLock.notification.message "ניתן ללחוץ ESC בכול עת כדי להציג שוב את המצביע.">
 
 <!ENTITY pluginNotification.showAll.label "הצגת הכול">
