@@ -330,8 +330,8 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2          "Üleekraaniline lehitseminei ">
-<!ENTITY pref_scroll_title_bar_summary   "Kerimisel &brandShortName;tiitliriba peidetakse">
+<!ENTITY pref_scroll_title_bar2          "Üleekraaniline lehitsemine">
+<!ENTITY pref_scroll_title_bar_summary   "Kerimisel &brandShortName;i tiitliriba peidetakse">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
