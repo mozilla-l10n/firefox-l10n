@@ -722,8 +722,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Bad Content Blocker Doorhanger Notification -->
 <!ENTITY badContentBlocked.moreinfo "מרבית האתרים יתפקדו כראוי גם אם נחסם תוכן.">
 
-<!ENTITY mixedContentBlocked.helplink "מידע נוסף">
-<!ENTITY mixedContentBlocked.moreinfo "מרבית האתרים ימשיכו לתפקד טוב על אף שתוכן זה חסום.">
+<!ENTITY mixedContentBlocked2.message "תוכן לא בטוח">
+<!ENTITY mixedContentBlocked2.moreinfo "נחסמו מספר רכיבים לא מוצפנים בדף זה.">
+<!ENTITY mixedContentBlocked2.learnMore "מידע נוסף">
+<!ENTITY mixedContentBlocked2.options "אפשרויות">
+<!ENTITY mixedContentBlocked2.unblock.label "לנטרל הגנה כעת">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "נ">
+<!ENTITY mixedContentBlocked2.block.label "לאפשר הגנה">
+<!ENTITY mixedContentBlocked2.block.accesskey "א">
+<!ENTITY mixedContentBlocked2.disabled.message "ההגנה מנוטרלת">
 
 <!ENTITY pointerLock.notification.message "ניתן ללחוץ ESC בכול עת כדי להציג שוב את המצביע.">
 
