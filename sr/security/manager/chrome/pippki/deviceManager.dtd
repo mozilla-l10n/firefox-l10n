@@ -26,7 +26,7 @@
 <!ENTITY devmgr.button.load.accesskey           "ч">
 <!ENTITY devmgr.button.unload.label             "Уклони">
 <!ENTITY devmgr.button.unload.accesskey         "к">
-<!ENTITY devmgr.button.fips.accesskey           "З">
+<!ENTITY devmgr.button.fips.accesskey           "г">
 
 <!ENTITY loaddevice.info                        "Унесите податке о модулу који желите да додате.">
 <!ENTITY loaddevice.modname                     "Име модула:">

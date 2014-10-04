@@ -414,11 +414,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.label     "Отвори везу">
 <!ENTITY openLinkCmdInCurrent.accesskey "в">
 <!ENTITY openFrameCmdInTab.label      "Отвори оквир у новом језичку">
-<!ENTITY openFrameCmdInTab.accesskey  "к">
+<!ENTITY openFrameCmdInTab.accesskey  "ј">
 <!ENTITY openFrameCmd.label           "Отвори оквир у новом прозору">
-<!ENTITY openFrameCmd.accesskey       "О">
+<!ENTITY openFrameCmd.accesskey       "п">
 <!ENTITY showOnlyThisFrameCmd.label     "Прикажи само овај оквир">
-<!ENTITY showOnlyThisFrameCmd.accesskey "к">
+<!ENTITY showOnlyThisFrameCmd.accesskey "о">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Обнови оквир">
 <!ENTITY reloadFrameCmd.accesskey     "и">
@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.label     "Преглед изворног кода оквира">
 <!ENTITY viewFrameSourceCmd.accesskey "о">
 <!ENTITY viewPageInfoCmd.label        "Подаци о страници">
-<!ENTITY viewPageInfoCmd.accesskey    "с">
+<!ENTITY viewPageInfoCmd.accesskey    "н">
 <!ENTITY viewFrameInfoCmd.label       "Подаци о оквиру">
 <!ENTITY viewFrameInfoCmd.accesskey   "к">
 <!ENTITY reloadImageCmd.label         "Поновно учитавање слике">
@@ -448,12 +448,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.label         "Прикажи позадинску слику">
 <!ENTITY viewBGImageCmd.accesskey     "з">
 <!ENTITY setDesktopBackgroundCmd.label      "Постави на радну површину…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "П">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "ш">
 <!ENTITY bookmarkPageCmd2.label       "Забележи ову страницу">
 <!ENTITY bookmarkThisLinkCmd.label      "Забележи ову везу">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "в">
 <!ENTITY bookmarkThisFrameCmd.label      "Забележи овај оквир">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "о">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "З">
 <!ENTITY emailPageCmd.label           "Веза е-поште…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Сачувај страницу као…">
@@ -462,11 +462,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey2       "С">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Сачувај оквир као…">
-<!ENTITY saveFrameCmd.accesskey       "о">
+<!ENTITY saveFrameCmd.accesskey       "С">
 <!ENTITY printFrameCmd.label          "Штампај оквир…">
 <!ENTITY printFrameCmd.accesskey      "Ш">
 <!ENTITY saveLinkCmd.label            "Сачувај везу као…">
-<!ENTITY saveLinkCmd.accesskey        "в">
+<!ENTITY saveLinkCmd.accesskey        "о">
 <!ENTITY saveImageCmd.label           "Сачувај слику као…">
 <!ENTITY saveImageCmd.accesskey       "л">
 <!ENTITY saveVideoCmd.label           "Сачувај видео као…">
@@ -486,9 +486,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "Копирај одредиште везе">
 <!ENTITY copyLinkCmd.accesskey        "К">
 <!ENTITY copyImageCmd.label           "Копирај одредиште слике">
-<!ENTITY copyImageCmd.accesskey       "м">
+<!ENTITY copyImageCmd.accesskey       "т">
 <!ENTITY copyImageContentsCmd.label   "Копирај слику">
-<!ENTITY copyImageContentsCmd.accesskey  "и"> 
+<!ENTITY copyImageContentsCmd.accesskey  "у"> 
 <!ENTITY copyVideoURLCmd.label        "Копирај одредиште за видео">
 <!ENTITY copyVideoURLCmd.accesskey    "К">
 <!ENTITY copyAudioURLCmd.label        "Копирај одредиште за аудио">
