@@ -63,7 +63,6 @@
 <!ENTITY preferencesCmd.accesskey "о">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findBarCmd.accesskey "а">
-<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmd.accesskey "и">
 <!ENTITY findAgainCmd.label "Найти ещё раз">
 <!ENTITY findAgainCmd.key "G">

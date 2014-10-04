@@ -20,6 +20,7 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
+<!ENTITY findReplaceCmd.key "F">
 <!ENTITY redoCmd.key "Z">
 <!ENTITY showHideSidebarCmd.key "S">
 <!ENTITY toggleFolderPaneCmd.key "S">
