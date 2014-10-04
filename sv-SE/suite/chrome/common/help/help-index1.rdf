@@ -305,7 +305,7 @@
      <rdf:li>
        <rdf:Description ID="Composer:keyboard_shortcuts"
          nc:name="kortkommandon"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
 	<rdf:li>
        <rdf:Description ID="Composer:adding_tables"
@@ -987,17 +987,17 @@
 	<rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Composer"
          nc:name="kortkommandon i Composer"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Mail_and_Newsgroups"
          nc:name="kortkommandon i E-post och Grupper"
-         nc:link="shortcuts-mailnews.xhtml"/>
+         nc:link="shortcuts_mailnews.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Navigator"
          nc:name="kortkommandon i webbläsaren"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1989,7 +1989,7 @@
       <rdf:li>
        <rdf:Description ID="browser:keyboard_shortcuts"
          nc:name="kortkommandon"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:start_up_components"
