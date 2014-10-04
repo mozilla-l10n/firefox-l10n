@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Gwiriañ mar bez hizivadurioù d'ober">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
-<!ENTITY update.updateButton.label                "Adloc'hañ evit hizivaat">
+<!ENTITY update.updateButton.label2               "Adloc'hañ &brandShortName; evit hizivaat">
 <!ENTITY update.updateButton.accesskey            "A">
 <!ENTITY update.applyButtonBillboard.label        "Seveniñ an hizivadur…">
 <!ENTITY update.applyButtonBillboard.accesskey    "S">

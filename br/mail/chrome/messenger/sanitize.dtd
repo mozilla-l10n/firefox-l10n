@@ -34,6 +34,6 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 
-<!ENTITY sanitizeEverythingUndoWarning     "Ne c'haller ket dizober an gwezh-mañ..">
+<!ENTITY sanitizeEverythingUndoWarning     "Ne c'haller ket dizober ar gwezh-mañ..">
 
 <!ENTITY dialog.width                 "28em">

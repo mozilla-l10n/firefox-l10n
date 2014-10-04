@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Goulenn diganin bewech">
 <!ENTITY certs.ask.accesskey             "b">
+<!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
+<!ENTITY enableOCSP.accesskey            "G">
 
 <!ENTITY viewCertificates.label         "Gwelout an testenioù">
 <!ENTITY viewCertificates.accesskey     "G">
-<!ENTITY validation.label               "Gwiriadur">
-<!ENTITY validation.accesskey           "w">
-<!ENTITY viewSecurityDevices.label      "Trevnadoù diogelroez">
-<!ENTITY viewSecurityDevices.accesskey  "g">
+<!ENTITY viewSecurityDevices.label      "Trobarzhelloù diogelroez">
+<!ENTITY viewSecurityDevices.accesskey  "d">
