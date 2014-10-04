@@ -9,6 +9,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "В">
 <!ENTITY redoCmd.key "Y">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY accel.emacs_conflict "accel">
