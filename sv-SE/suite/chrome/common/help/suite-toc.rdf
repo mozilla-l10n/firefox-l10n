@@ -1130,9 +1130,9 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Använda kortkommandon" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_general" nc:name="Generella kortkommandon i &brandShortName;" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Kortkommandon i webbläsaren" nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Kortkommandon i E-post &amp; Grupper" nc:link="shortcuts-mailnews.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Kortkommandon i Composer" nc:link="shortcuts-composer.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Kortkommandon i webbläsaren" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Kortkommandon i E-post &amp; Grupper" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Kortkommandon i Composer" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_help" nc:name="Kortkommandon i Hjälp-fönstret" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1141,12 +1141,12 @@
 <rdf:Description about="#shortcuts_navigator">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="för bokmärken" nc:link="shortcuts-navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="för sidnavigering" nc:link="shortcuts-navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="för sidvisning" nc:link="shortcuts-navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="för surfande med flikar" nc:link="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="för sidofältet" nc:link="shortcuts-navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="för formulär" nc:link="shortcuts-navigator.xhtml#forms_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="för bokmärken" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="för sidnavigering" nc:link="shortcuts_navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="för sidvisning" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="för surfande med flikar" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="för sidofältet" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="för formulär" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1154,9 +1154,9 @@
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Generella kortkommandon i e-postklienten" nc:link="shortcuts-mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="för meddelandelistning" nc:link="shortcuts-mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="för att skapa ett nytt meddelande" nc:link="shortcuts-mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Generella kortkommandon i e-postklienten" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="för meddelandelistning" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="för att skapa ett nytt meddelande" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
