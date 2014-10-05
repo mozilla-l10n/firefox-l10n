@@ -74,6 +74,14 @@
   
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (사용되지 않음)'>
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1;, &formatS2;'>
+
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label '북마크 메뉴'>
@@ -197,6 +205,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos '서비스 약관'>
 <!ENTITY fxaccount_status_linkprivacy '개인 정보 보호 정책'>
+<!ENTITY fxaccount_status_more '자세히&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Firefox 계정을 삭제하겠습니까?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName;는 계정과의 동기화를 중단합니다. 하지만 이 기기에 있는 브라우징 데이터를 삭제하지는 않습니다.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox 계정 &formatS; 삭제됨.'>
+
+<!ENTITY fxaccount_remove_account_menu_item '계정 삭제'>
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
