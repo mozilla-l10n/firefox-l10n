@@ -11,13 +11,17 @@
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc3 "
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Revise la dirección en busca de errores tipográficos como
+  <li>Compruebe la dirección en busca de errores tipográficos tales como
     <strong>ww</strong>.ejemplo.com en lugar de
     <strong>www</strong>.ejemplo.com</li>
-  <li>Si no puede cargar ninguna página, revise la conexión wifi o de datos de su dispositivo.
-    <button id='wifi'>Activar wifi</button>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Si no puede cargar ninguna página, compruebe su conexión de datos o WiFi.
+    <button id='wifi'>Activar Wi-Fi</button>
   </li>
 </ul>
 ">
@@ -33,10 +37,16 @@
 <p>&brandShortName; no puede cargar esta página por alguna razón.</p>
 ">
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "
+<!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>Las direcciones web se escriben normalmente como <strong>http://www.ejemplo.com/</strong></li>
-  <li>Asegúrese de que está usando barras inclinadas hacia delante (p.e. <strong>/</strong>).</li>
+  <li>Las direcciones web se escriben normalmente como
+    <strong>http://www.ejemplo.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Asegúrese de que está usando barras normales (i.e.
+    <strong>/</strong>).</li>
 </ul>
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
