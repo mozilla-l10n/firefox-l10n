@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "בדיקת עדכונים">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ב">
-<!ENTITY update.updateButton.label                "הפעלה מחדש להחלת העדכון">
 <!ENTITY update.updateButton.label2                "יש להפעיל מחדש את &brandShortName; כדי לעדכן">
 <!ENTITY update.updateButton.accesskey            "מ">
 <!ENTITY update.applyButtonBillboard.label        "החלת עדכון…">
@@ -55,8 +54,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "בודק אם ישנם עדכונים חדשים…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "בודק תאימות תוספות…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; עדכני">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
