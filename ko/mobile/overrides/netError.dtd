@@ -7,11 +7,20 @@
 <!ENTITY loadError.label "페이지 읽기 오류">
 <!ENTITY retry.label "재시도">
 <!ENTITY connectionFailure.title "연결 실패">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 <!ENTITY deniedPortAccess.title "제한된 주소">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "도메인 정보가 없음">
-<!ENTITY dnsNotFound.longDesc2 "<ul><li>주소를 오타로 <strong>www</strong>.example.com 대신 <strong>ww</strong>.example.com과 같이 입력하지 않았는지 확인해 보시기 바랍니다.</li><li>어떤 페이지에도 접속을 할 수 없다면, 네트워크 상태를 확인해 보시기 바랍니다.</li></ul>">
+<!ENTITY dnsNotFound.longDesc3 "
+<ul>
+  <li>주소를 오타로
+    <strong>www</strong>.example.com 대신
+    <strong>ww</strong>.example.com 와 같이 입력하지 않았는지 확인해 보시기 바랍니다.</li>
+  <li>어떤 페이지에도 접속 할 수 없다면, 데이터 또는 Wi-Fi 연결을 확인해 보시기 바랍니다.
+    <button id='wifi'>Wi-Fi 켜기</button>
+  </li>
+</ul>
+">
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "<ul><li>파일 이름의 대소문자를 비롯한 오타가 없는지 확인해 보시기 바랍니다.</li><li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보시기 바랍니다.</li></ul>">
 <!ENTITY generic.title "이런.">
@@ -21,13 +30,20 @@
 <!ENTITY notCached.title "문서 만료">
 <!ENTITY notCached.longDesc "<p>요청한 문서는 더 이상 &brandShortName; 캐시에 저장되어 있지 않습니다.</p><ul><li>보안 문제로 인해 &brandShortName;는 자동적으로 문서를 재 호출 합니다.</li><li>웹 사이트에서 문서를 재 요청 하시려면 다시 시도를 눌러주십시오.</li></ul>">
 <!ENTITY netInterrupt.title "연결이 끊어짐">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 <!ENTITY netOffline.title "오프라인 모드">
-<!ENTITY netOffline.longDesc2 "<ul><li>온라인 모드로 바꾸고 페이지를 새로 고침하려면 &quot;다시 시도&quot;를 눌러 주십시오.</li></ul>">
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>다시 시도해보세요. &brandShortName;가 다시 연결하여 페이지를 불러옵니다.
+    <button id='wifi'>Wi-Fi 켜기</button>
+  </li>
+</ul>
+">
+
 <!ENTITY netReset.title "연결 초기화">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 <!ENTITY netTimeout.title "연결 시간 초과">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 <!ENTITY unknownProtocolFound.title "인식할 수 없는 주소">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -37,12 +53,20 @@
 <!ENTITY proxyConnectFailure.title "프록시 서버가 연결을 거부함">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>프록시 설정이 올바로 되어있는지 확인해 보시기 바랍니다.</li><li>프록시 서버가 확실히 작동 중인지 네트워크 관리자에게 문의 하시기 바랍니다.</li></ul>">
 <!ENTITY proxyResolveFailure.title "프록시 서버 오류">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul><li>프록시 설정이 올바로 되어있는지 확인해 보시기 바랍니다.</li><li>사용자 컴퓨터가 활성화된 네트워크 연결을 사용하는지 확인해 보시기 바랍니다.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>프록시 설정이 올바르게 되어있는지 확인해 보시기 바랍니다.</li>
+  <li>데이터 또는 Wi-Fi가 정상적으로 연결되었는지 확인해 보시기 바랍니다.
+    <button id='wifi'>Wi-Fi 켜기</button>
+  </li>
+</ul>
+">
+
 <!ENTITY redirectLoop.title "페이지 자동 바꾸기가 제대로 안 됨">
 <!ENTITY redirectLoop.longDesc "<ul><li>이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수 있습니다.</li></ul>">
 <!ENTITY unknownSocketType.title "서버로부터 기대하지 않은 응답을 받음">
 <!ENTITY unknownSocketType.longDesc "<ul><li>시스템에 개인 보안 관리자가 설치 되어 있는지 확인해 보시기 바랍니다.</li><li>서버의 정상적이지 않은 설정 때문일 수도 있습니다.</li></ul>">
-<!ENTITY sharedLongDesc2 "<ul><li>서버가 일시적으로 사용할 수 없거나 또는 너무 많은 접속이 몰리는 상태일 수 있습니다. 잠시 후에 재시도해 보시기 바랍니다.</li><li>어떤 페이지도 열 수 없다면, 컴퓨터의 네트워크 연결을 확인해 보시기 바랍니다.</li></ul>">
+
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
 <!ENTITY contentEncodingError.longDesc "<ul><li>웹 사이트 관리자에게 현재 문제를 알려 주시기 바랍니다.</li></ul>">
 
@@ -58,6 +82,15 @@
 ">
 <!ENTITY nssBadCert.title "보안 연결 실패">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>현재 웹 서버 설정에 문제가 있거나 누군가가 원래 접속하려던 진짜 서버처럼 가장하고 있을 가능성이 있습니다.</li><li>만약 이전에 이 웹 서버에 정상적으로 접속을 한적이 있다면, 일시적인 문제일 수 있으니 나중에 다시 접속해 보시기 바랍니다.</li></ul>">
+
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>사이트가 일시적으로 사용할 수 없거나 또는 너무 많은 접속이 몰리는 상태일 수 있습니다. 잠시 후 다시 시도해 보시기 바랍니다.</li>
+  <li>어떤 페이지도 열 수 없다면, 모바일 기기의 데이터 또는 Wi-Fi 연결 상태를 확인해 보시기 바랍니다.
+    <button id='wifi'>Wi-Fi 켜기</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspFrameAncestorBlocked.title	"콘텐츠 보안 정책에 의해 차단되었습니다">
 <!ENTITY cspFrameAncestorBlocked.longDesc	"<p>콘텐츠 보안 정책에 의해 읽기가 금지된 콘텐츠가 포함되어 있기 때문에 이 페이지의 읽기를 중지했습니다.</p>">

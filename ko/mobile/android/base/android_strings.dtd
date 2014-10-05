@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
+<!ENTITY  onboard_start_message "&brandShortName;에 오신 것을 환영합니다!">
+<!ENTITY  onboard_start_subtext "개인 정보 보호, 오픈 웹 그리고 여러분을 위해 최선을 다하겠습니다">
+<!ENTITY  onboard_start_button_account "&brandShortName; 가입">
+<!ENTITY  onboard_start_button_browser "브라우징 시작">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "북마크">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "파일 선택">
 
-<!ENTITY url_bar_default_text "검색어 또는 주소를 입력하세요">
+<!ENTITY url_bar_default_text2 "검색어 또는 주소를 입력하세요">
 
 <!ENTITY bookmark "북마크">
 <!ENTITY bookmark_added "북마크 추가">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "시스템 기본">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "&brandShortName;에 추가">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "북마크">
+<!ENTITY overlay_share_reading_list_btn_label "읽기 목록에 추가">
+<!ENTITY overlay_share_send_other "다른 기기로 보내기">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "다른 기기로 보내기">
+<!ENTITY overlay_share_no_url "공유 할 링크가 없음">
+<!ENTITY overlay_share_retry "다시 시도">
+<!ENTITY overlay_share_select_device "기기 선택">
 
 <!ENTITY pref_category_search3 "검색">
 <!ENTITY pref_category_search_summary "검색 엔진 커스터마이즈">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "지금 삭제">
 <!ENTITY pref_clear_private_data_category "개인 정보 삭제">
 <!ENTITY pref_clear_on_exit_title "종료 시 항상 삭제">
-<!ENTITY pref_clear_on_exit_summary "주 메뉴를 통해 \u0022종료\u0022 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
+<!ENTITY pref_clear_on_exit_summary2 "주 메뉴를 통해 \u0022종료\u0022 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
 <!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
 <!ENTITY pref_plugins "플러그인">
 <!ENTITY pref_plugins_enabled "사용하기">
@@ -178,7 +204,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "불여우는 여러분이 생각하는 속도, 유연성, 안전성을 뛰어넘습니다. 비영리 단체이기 때문에 타협하는 압박 없이 여러분을 위한 혁신을 마음껏 할 수 있습니다. 이것은 여러분에게 더 나은 인터넷 경험과 웹 미래를  밝게 해줄 것입니다.">
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
-<!ENTITY pref_show_product_announcements "제품 알림 보여주기">
 <!ENTITY pref_sync "동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
 <!ENTITY pref_import_android "Android에서 가져오기">
@@ -276,9 +301,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY find_next "다음">
 <!ENTITY find_close "닫기">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "기기로 보내기">
+<!ENTITY media_sending_to "기기로 보내기">
 <!ENTITY media_play "재생">
 <!ENTITY media_pause "일시 정지">
 <!ENTITY media_stop "정지">
@@ -303,9 +328,10 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
 <!ENTITY pref_titlebar_mode_url "페이지 주소 표시">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "스크롤 제목창">
+<!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
+<!ENTITY pref_scroll_title_bar_summary "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
