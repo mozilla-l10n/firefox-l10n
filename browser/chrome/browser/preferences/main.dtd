@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "E">
 <!ENTITY alwaysAsk.label "Perguntar sempre onde gravar os ficheiros">
 <!ENTITY alwaysAsk.accesskey "s">
+
+<!ENTITY alwaysCheckDefault.label         "Confirmar sempre se &brandShortName; é o navegador por omissão no arranque">
+<!ENTITY alwaysCheckDefault2.accesskey    "C">
+<!ENTITY setAsMyDefaultBrowser.label      "Tornar o &brandShortName; o meu navegador por omissão">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "T">
+<!ENTITY isDefault.label                  "O &brandShortName; é atualmente o seu navegador por omissão">
+<!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador por omissão">
