@@ -160,6 +160,8 @@
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webapps.label "Aplicaciones">
+<!ENTITY webapps.accesskey "p">
 <!ENTITY webDeveloperMenu.label "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY devToolsCmd.keycode "VK_F12">
@@ -537,8 +539,10 @@
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueado.">
 <!ENTITY trackingContentBlocked.learnMore "Saber más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock.label2 "Desactivar la protección en este sitio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar protección en este sitio">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
 <!ENTITY pointerLock.notification.message "Presiona ESC (Escape) en cualquier momento para mostrarlo de nuevo.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
