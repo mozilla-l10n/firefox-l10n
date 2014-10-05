@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY search_app_name "Búsqueda de &brandShortName;">
-<!ENTITY search_for_something "Buscar algo">
+<!ENTITY search_bar_hint "Buscar con &formatS;">
 <!ENTITY search_empty_title "Búsqueda de &brandShortName;">
 <!ENTITY search_empty_message "Busque rápidamente lo que desee">
 <!ENTITY search_plus_content_description "Añadir a la barra de búsqueda">
