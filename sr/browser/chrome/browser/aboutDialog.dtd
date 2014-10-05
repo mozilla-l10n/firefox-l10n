@@ -95,7 +95,7 @@
 <!ENTITY update.downloading.start   "Преузимам надоградњу — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Примењујем надогрању…">
+<!ENTITY update.applying            "Примењујем надоградњу…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
