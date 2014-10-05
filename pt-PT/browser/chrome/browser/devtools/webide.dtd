@@ -2,50 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "WebIDE do Firefox">
 
-<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_label "Projeto">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "New App…">
+<!ENTITY projectMenu_newApp_label "Nova aplicação…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
-<!ENTITY projectMenu_importHostedApp_accesskey "H">
-<!ENTITY projectMenu_selectApp_label "Open App…">
-<!ENTITY projectMenu_selectApp_accessley "S">
-<!ENTITY projectMenu_play_label "Install and Run">
+<!ENTITY projectMenu_importPackagedApp_label "Abrir aplicação empacotada…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "e">
+<!ENTITY projectMenu_importHostedApp_label "Abrir aplicação alojada…">
+<!ENTITY projectMenu_importHostedApp_accesskey "j">
+<!ENTITY projectMenu_selectApp_label "Abrir aplicação…">
+<!ENTITY projectMenu_selectApp_accesskey "A">
+<!ENTITY projectMenu_play_label "Instalar executar">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Stop App">
-<!ENTITY projectMenu_stop_accesskey "S">
-<!ENTITY projectMenu_debug_label "Debug App">
+<!ENTITY projectMenu_stop_label "Parar aplicação">
+<!ENTITY projectMenu_stop_accesskey "r">
+<!ENTITY projectMenu_debug_label "Depurar aplicação">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Remove Project">
+<!ENTITY projectMenu_remove_label "Remover projeto">
 <!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "Preferences">
+<!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 
 <!ENTITY runtimeMenu_label "Runtime">
-<!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Disconnect">
+<!ENTITY runtimeMenu_accesskey "x">
+<!ENTITY runtimeMenu_disconnect_label "Desligar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
-<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showPermissionTable_label "Tabela de permissões">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "p">
+<!ENTITY runtimeMenu_takeScreenshot_label "Captura de ecrã">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "e">
+<!ENTITY runtimeMenu_showDetails_label "Informação de runtime">
+<!ENTITY runtimeMenu_showDetails_accesskey "u">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
-<!ENTITY viewMenu_label "View">
+<!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Trocar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "e">
 <!ENTITY viewMenu_showAddons_label "Gerir simuladores">
 <!ENTITY viewMenu_showAddons_accesskey "m">
 
-<!ENTITY projectButton_label "Abrir App">
+<!ENTITY projectButton_label "Abrir aplicação">
 <!ENTITY runtimeButton_label "Selecionar Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -61,7 +61,8 @@
 <!ENTITY key_toggleEditor "B">
 
 <!ENTITY projectPanel_myProjects "Meus projetos">
-<!ENTITY projectPanel_runtimeApps "Runtime Apps">
+<!ENTITY projectPanel_runtimeApps "Aplicações Runtime">
+<!ENTITY projectPanel_tabs "Separadores">
 <!ENTITY runtimePanel_USBDevices "Dispositivos USB">
 <!ENTITY runtimePanel_WiFiDevices "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_simulators "Simuladores">
@@ -101,7 +102,7 @@
 <!ENTITY prefs_restore "Restaurar pré-definições">
 <!ENTITY prefs_simulators "Gerir simuladores">
 <!ENTITY prefs_options_enablelocalruntime "Ativar runtime local">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permite ao WebIDE ligar-se ao seu próprio runtime (instânciancia do navegador em execução)">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Permite ao WebIDE ligar-se ao seu próprio runtime (instância do navegador em execução)">
 <!ENTITY prefs_options_rememberlastproject "Lembrar último projeto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaura o projeto anterior quando o WebIDE inicia">
 <!ENTITY prefs_options_templatesurl "Modelos URL">
@@ -125,7 +126,7 @@
 <!ENTITY permissionstable_name_header "Nome">
 
 <!-- Runtime Details -->
-<!ENTITY runtimedetails_title "Runtime Info">
+<!ENTITY runtimedetails_title "Informação de Runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
