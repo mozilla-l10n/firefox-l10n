@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label "Chave de recuperação">
 <!ENTITY sync.checkbox.server.label "Usar um outro servidor">
 <!ENTITY sync.input.server.label "Endereço do servidor">
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label "Não foi possível configurar o &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não conseguiu conectar-se ao servidor. Deseja tentar de novo?">
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label "Sem conexão com a internet.">
 <!ENTITY sync.subtitle.failaccount.label "Falha na criação da conta no seu dispositivo.">
 <!ENTITY sync.subtitle.failmultiple.label "Você possui mais de um Firefox instalado? Atualmente, o &syncBrand.fullName.label; suporta somente uma instalação do Firefox de cada vez. Por favor, desinstale outras instâncias para usar o &syncBrand.shortName.label;.">
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Configuração concluída">
 <!ENTITY sync.subtitle.success.label1 "Seus dados estão sendo recebidos em segundo plano. Entre em “Configurações” para gerenciar sua conta ou comece a navegar com o &brandShortName;.">
@@ -74,6 +74,13 @@
 <!-- Account strings -->
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (descontinuado)">
 
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name "&formatS1; no &formatS2;">
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "Menu Favoritos">
 <!ENTITY bookmarks.folder.places.label "">
@@ -97,7 +104,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label "Enviar aba para dispositivos">
+<!ENTITY sync.title.send.tab.label "Enviar aba para disp.">
 <!ENTITY sync.button.send.label "Enviar">
 <!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; para enviar abas">
@@ -199,14 +206,23 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Termos de serviço">
 <!ENTITY fxaccount_status_linkprivacy "Aviso de privacidade">
+<!ENTITY fxaccount_status_more "Mais&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Excluir conta Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; interromperá a sincronização com a sua conta, mas não excluirá nenhum de seus dados pessoais neste dispositivo.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Conta Firefox &formatS; excluída.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Excluir conta">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label "Firefox">
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title "Opções do &syncBrand.shortName.label;">
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Não foi possível conectar-se à rede">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "O &syncBrand.shortName.label; não está conectado">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para identificar-se como &formatS;">
