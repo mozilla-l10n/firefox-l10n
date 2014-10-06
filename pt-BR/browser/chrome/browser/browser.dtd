@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "n">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Exibir/ocultar ferramentas">
@@ -697,6 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
 <!ENTITY customizeMode.toolbars "Exibir/ocultar barras">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.lwthemes "Temas">
+<!ENTITY customizeMode.lwthemes.myThemes "Meus temas">
+<!ENTITY customizeMode.lwthemes.recommended "Recomendados">
+<!ENTITY customizeMode.lwthemes.menuManage "Gerenciar">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Adicionar temas">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "A">
 
 <!ENTITY social.chatBar.commandkey "C">
 <!ENTITY social.chatBar.label "Focar bate-papos">
@@ -709,18 +718,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Câmera a compartilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Janela ou tela a compartilhar:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "J">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfone a compartilhar:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Todas as janelas visíveis na sua tela serão compartilhadas.">
 
-<!ENTITY webrtcIndicatorButton.label "Acesso a câmera/microfone">
-<!ENTITY webrtcIndicatorButton.tooltip "Exibir os sites com os quais você está compartilhando sua câmera ou microfone">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "A maioria dos sites ainda funcionará corretamente mesmo se o conteúdo estiver bloqueado.">
 
-<!ENTITY loopCallButton.tooltip "Convidar alguém para conversar">
+<!ENTITY mixedContentBlocked2.message "Conteúdo inseguro">
+<!ENTITY mixedContentBlocked2.moreinfo "Alguns elementos não criptografados neste site foram bloqueados.">
+<!ENTITY mixedContentBlocked2.learnMore "Saiba mais">
+<!ENTITY mixedContentBlocked2.options "Opções">
+<!ENTITY mixedContentBlocked2.unblock.label "Desativar proteção por enquanto">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Ativar proteção">
+<!ENTITY mixedContentBlocked2.block.accesskey "A">
+<!ENTITY mixedContentBlocked2.disabled.message "A proteção está desativada">
 
-<!ENTITY mixedContentBlocked.moreinfo "A maioria dos sites ainda funcionará corretamente mesmo com este conteúdo bloqueado.">
+<!ENTITY trackingContentBlocked.message "Rastreamento">
+<!ENTITY trackingContentBlocked.moreinfo "Partes desta página que rastreiam sua atividade online foram bloqueadas.">
+<!ENTITY trackingContentBlocked.learnMore "Saiba mais">
+<!ENTITY trackingContentBlocked.options "Opções">
+<!ENTITY trackingContentBlocked.unblock.label2 "Desativar proteção para este site">
+<!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.disabled.message "A proteção antirrastreamento está desativada">
 
 <!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">
 
@@ -749,4 +770,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Painéis">
 
 <!ENTITY switchToMetroCmd2.label       "Abrir no &brandShortName; para Windows 8 Touch">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Esquecer os últimos:">
+<!ENTITY panicButton.view.5min                    "Cinco minutos">
+<!ENTITY panicButton.view.2hr                     "Duas horas">
+<!ENTITY panicButton.view.day                     "24 horas">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "O prosseguimento irá:">
+<!ENTITY panicButton.view.deleteCookies           "Excluir <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Excluir <html:strong>histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todas as <html:strong>abas</html:strong> e <html:strong>janelas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma janela vazia">
+
+<!ENTITY panicButton.view.undoWarning             "Esta ação não poderá ser desfeita.">
+<!ENTITY panicButton.view.forgetButton            "Esquecer!">
+
+<!ENTITY panicButton.thankyou.msg1                "Seus dados pessoais recentes estão limpos.">
+<!ENTITY panicButton.thankyou.msg2                "Boa navegação!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
