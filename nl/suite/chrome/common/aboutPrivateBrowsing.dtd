@@ -7,7 +7,7 @@
    - a regular (non-private) browsing window. -->
 
 <!ENTITY privatebrowsingpage.title.private       "U bevindt zich momenteel in een privénavigatievenster">
-<!ENTITY privatebrowsingpage.title.normal        "Wilt u sterten met privénavigatie?">
+<!ENTITY privatebrowsingpage.title.normal        "Wilt u starten met privénavigatie?">
 
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; zal geen geschiedenis van dit venster bijhouden.">
 <!ENTITY privatebrowsingpage.status.normal       "U bevindt zich momenteel niet in een privévenster.">
@@ -21,7 +21,7 @@
 <!ENTITY privatebrowsingpage.close.label         "Sluit dit venster nu">
 <!ENTITY privatebrowsingpage.close.accesskey     "S">
 
-<!ENTITY privatebrowsingpage.start.info          "Om privénavigatie te straten klik op onderstaande knop of selecteer Bestand ▶ Nieuw ▶ Privévenster in het menu.">
+<!ENTITY privatebrowsingpage.start.info          "Om privénavigatie te starten klik op onderstaande knop of selecteer Bestand ▶ Nieuw ▶ Privévenster in het menu.">
 <!ENTITY privatebrowsingpage.private.label       "Een nieuw privévenster openen">
 <!ENTITY privatebrowsingpage.private.accesskey   "o">
 
