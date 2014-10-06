@@ -11,18 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kan geen verbinding maken">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Dit adres heeft beperkte toegang">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server niet gevonden">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>
-  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.</li>
+  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+    <button id='wifi'>Wi-Fi inschakelen</button>
+  </li>
 </ul>
 ">
 
@@ -51,15 +53,17 @@
 ">
 
 <!ENTITY netInterrupt.title "De verbinding werd onderbroken">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document verlopen">
 <!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als veiligheidsvoorzorgsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Probeer het opnieuw. &brandShortName; zal proberen een verbinding te openen en de pagina opnieuw laden.</li>
+  <li>Probeer het opnieuw. &brandShortName; zal proberen een verbinding te openen en de pagina opnieuw laden.
+    <button id='wifi'>Wi-Fi inschakelen</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +82,10 @@
 ">
 
 <!ENTITY netReset.title "De verbinding werd geherinitialiseerd">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "De wachttijd voor de verbinding is verstreken">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Het adres werd niet begrepen">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -100,10 +104,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kan de proxyserver niet vinden">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Controleer of uw proxyinstellingen juist zijn.</li>
-  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of Wi-Fi-verbinding heeft.</li>
+  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of Wi-Fi-verbinding heeft.
+    <button id='wifi'>Wi-Fi inschakelen</button>
+  </li>
 </ul>
 ">
 
@@ -142,10 +148,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>
-  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.</li>
+  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+    <button id='wifi'>Wi-Fi inschakelen</button>
+  </li>
 </ul>
 ">
 
