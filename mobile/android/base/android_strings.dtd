@@ -305,9 +305,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
 <!ENTITY pref_titlebar_mode_url "Pagina-adres tonen">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Titelbalk scrollen">
+<!ENTITY pref_scroll_title_bar2 "Volledig scherm navigeren">
+<!ENTITY pref_scroll_title_bar_summary "&brandShortName;-titelbalk verbergen tijdens het naar beneden scrollen van een pagina">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
