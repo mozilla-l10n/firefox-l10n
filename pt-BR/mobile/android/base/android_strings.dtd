@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
 
+<!ENTITY  onboard_start_message "Bem-vindo ao &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Comprometido com você, sua privacidade e uma web aberta">
+<!ENTITY  onboard_start_button_account "Entrar no &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Iniciar a navegação">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Favoritos">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Selecionar arquivo">
 
-<!ENTITY url_bar_default_text "Pesquisar ou abrir endereço">
+<!ENTITY url_bar_default_text2 "Pesquisar ou abrir endereço">
 
 <!ENTITY bookmark "Favoritar">
 <!ENTITY bookmark_added "Favorito adicionado">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Padrão do sistema">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Adicionar ao &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Favoritar">
+<!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
+<!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Enviar para outro dispositivo">
+<!ENTITY overlay_share_no_url "Nenhum link encontrado neste compartilhamento">
+<!ENTITY overlay_share_retry "Tentar de novo">
+<!ENTITY overlay_share_select_device "Selecionar dispositivo">
 
 <!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Limpar agora">
 <!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
 <!ENTITY pref_clear_on_exit_title "Sempre limpar ao sair">
-<!ENTITY pref_clear_on_exit_summary "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” do menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativados">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A raposa rápida laranja salta sobre suas expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
-<!ENTITY pref_show_product_announcements "Exibir avisos de produtos">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Sugerir pesquisas">
 <!ENTITY pref_import_android "Importar do Android">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "Próxima">
 <!ENTITY find_close "Fechar">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Transmitindo para dispositivo">
+<!ENTITY media_sending_to "Enviando para dispositivo">
 <!ENTITY media_play "Executar">
 <!ENTITY media_pause "Pausa">
 <!ENTITY media_stop "Parar">
@@ -303,9 +328,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
 <!ENTITY pref_titlebar_mode_url "Exibir endereço da página">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Rolar barra de título">
+<!ENTITY pref_scroll_title_bar2 "Navegação em tela inteira">
+<!ENTITY pref_scroll_title_bar_summary "Ocultar a barra de título do &brandShortName; ao rolar a tela para baixo">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -462,6 +488,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
