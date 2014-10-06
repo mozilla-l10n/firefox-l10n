@@ -150,7 +150,7 @@
 <!ENTITY pref_clear_private_data2 "Nu wissen">
 <!ENTITY pref_clear_private_data_category "Privégegevens wissen">
 <!ENTITY pref_clear_on_exit_title "Altijd wissen bij afsluiten">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u “Afsluiten” selecteert in het hoofdmenu">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u201CAfsluiten\u201D selecteert in het hoofdmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens te wissen">
 <!ENTITY pref_plugins "Plug-ins">
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
