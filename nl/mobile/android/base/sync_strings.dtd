@@ -74,6 +74,13 @@
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (niet meer ondersteund)'>
   
+<!-- Localization note (sync.default.client.name): Default string of the "Device name" menu item upon setting up Firefox Sync.
+     The placeholder &formatS1 will be replaced by the name of the Firefox release channel and &formatS2 by the model name of the
+     Android device. Examples:
+     Aurora on GT-I1950
+     Fennec on MI 2S -->
+<!ENTITY sync.default.client.name '&formatS1; op &formatS2;'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bladwijzermenu'>
 <!ENTITY bookmarks.folder.places.label ''>
