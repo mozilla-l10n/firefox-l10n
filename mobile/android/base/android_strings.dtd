@@ -101,16 +101,16 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bladwijzer maken">
 <!ENTITY overlay_share_reading_list_btn_label "Aan leeslijst toevoegen">
-<!ENTITY overlay_share_send_other "Verzenden naar andere apparaten">
+<!ENTITY overlay_share_send_other "Naar andere apparaten verzenden">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
-<!ENTITY overlay_share_no_url "No link found in this share">
-<!ENTITY overlay_share_retry "Try again">
-<!ENTITY overlay_share_select_device "Select device">
+<!ENTITY overlay_share_send_tab_btn_label "Naar andere apparaten verzenden">
+<!ENTITY overlay_share_no_url "Geen koppeling gevonden in deze deler">
+<!ENTITY overlay_share_retry "Nogmaals proberen">
+<!ENTITY overlay_share_select_device "Apparaat selecteren">
 
 <!ENTITY pref_category_search3 "Zoeken">
 <!ENTITY pref_category_search_summary "Uw zoekproviders aanpassen">
@@ -303,9 +303,9 @@ size. -->
 <!ENTITY find_next "Volgende">
 <!ENTITY find_close "Sluiten">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Casting naar apparaat">
+<!ENTITY media_sending_to "Naar apparaat verzenden">
 <!ENTITY media_play "Afspelen">
 <!ENTITY media_pause "Pauzeren">
 <!ENTITY media_stop "Stoppen">
