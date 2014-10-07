@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "വിഛേദിക്കുക">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "സ്ക്രീന്‍ഷോട്ട്">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "കാണുക ">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "സിമുലേറ്റര്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+
+
+<!-- Lense -->
+
+
+
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "അടയ്ക്കുക">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "സ്രോതസ്സിന്റെ ഉള്ളടക്കം അനുസരിച്ച് ഇൻഡന്റേഷൻ ഊഹിക്കുക">
+
+
+<!ENTITY prefs_options_autoclosebrackets "ബ്രാക്കറ്റുകൾ തനിയേ അടയ്ക്കുക">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "അടയ്ക്കാനുള്ള ബ്രാക്കറ്റുകൾ തനിയേ ചേർക്കുക">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "പേരു്">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "സഹായം ">

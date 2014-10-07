@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "പ">
-<!ENTITY update.updateButton.label                "പുതുക്കാനായി പുനഃരാംരഭിക്കൂ">
-<!ENTITY update.updateButton.accesskey            "പ">
+
+
 <!ENTITY update.applyButtonBillboard.label        "പുതുക്കല്‍ പ്രാവര്‍ത്തികമാക്കൂ...">
 <!ENTITY update.applyButtonBillboard.accesskey    "പ">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "ഐഡ്രോപ്പര്‍">
 <!ENTITY eyedropper.accesskey "ഐ">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "ഗ">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ഉപകരണങ്ങള്‍ മാറ്റുക">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "ടൂള്‍ബാറുകള്‍ കാണിയ്ക്കുക/അദൃശ്യമാക്കുക">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
 
+
+
+
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
 <!ENTITY social.chatBar.accesskey "ക">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "മ">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "പങ്കിടുന്നതിനുള്ള ജാലകം അല്ലെങ്കില്‍ സ്ക്രീന്‍:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "ല">
 <!ENTITY getUserMedia.selectMicrophone.label "പങ്കിടുവാനുള്ള മൈക്രോഫോണ്‍:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ഫ">
 <!ENTITY getUserMedia.allWindowsShared.message "സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "ക്യാമറാ / മൈക്രോഫോണിലേക്കുള്ള പ്രവേശനം">
-<!ENTITY webrtcIndicatorButton.tooltip "നിങ്ങളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ ഉപയോഗിച്ചു് നിലവില്‍ പങ്കിടുന്ന സൈറ്റുകള്‍ കാണിയ്ക്കുക">
 
-<!ENTITY loopCallButton.tooltip "സംസാരിയ്ക്കുന്നതിന് ക്ഷണിയ്ക്കുക">
 
-<!ENTITY mixedContentBlocked.moreinfo "ഈ ഉള്ളടക്കം തടസ്സപ്പെടുത്തിയാലും മിക്ക വെബ്സൈറ്റുകളും ശരിയായി പ്രവര്‍ത്തിയ്ക്കുന്നു.">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">
 
@@ -750,4 +768,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "സൈഡ്ബാറുകള്‍">
 
 <!ENTITY switchToMetroCmd2.label       "Windows 8 Touch-ല്‍ &brandShortName; വീണ്ടും ലഭ്യമാക്കുക">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.">
+
+
+
+
 
