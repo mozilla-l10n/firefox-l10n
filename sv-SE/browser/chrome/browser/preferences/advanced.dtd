@@ -125,5 +125,5 @@
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts.label                 "Visa Certifikat">
 <!ENTITY viewCerts.accesskey             "C">
-
-
+<!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey   "D">

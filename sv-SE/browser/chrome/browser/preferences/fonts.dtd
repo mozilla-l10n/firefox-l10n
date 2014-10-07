@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreanska">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrilliska språk">
 <!ENTITY  font.langGroup.el                       "Grekiska">
-
+<!ENTITY  font.langGroup.other                    "Andra skriftsystem">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreiska">
 <!ENTITY  font.langGroup.arabic                   "Arabiska">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabisk">
-
+<!ENTITY languages.customize.Fallback.baltic      "Baltisk">
 <!ENTITY languages.customize.Fallback.ceiso       "Centraleuropeisk, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Centraleuropeisk, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
