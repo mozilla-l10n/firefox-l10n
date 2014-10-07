@@ -8,8 +8,8 @@
 <!ENTITY newtab.customize.enhanced "Vylepšená">
 <!ENTITY newtab.customize.classic "Klasická">
 <!ENTITY newtab.customize.blank "Prázdna">
-<!ENTITY newtab.customize.what "Čo je táto stránka?">
-<!ENTITY newtab.intro.header "Čo je táto stránka?">
+<!ENTITY newtab.customize.what "Čo je na tejto stránke?">
+<!ENTITY newtab.intro.header "Čo nájdem na tejto stránke?">
 <!ENTITY newtab.undo.removedLabel "Náhľad bol odstránený">
 <!ENTITY newtab.undo.undoButton "Vrátiť späť">
 <!ENTITY newtab.undo.restoreButton "Obnoviť všetky">
