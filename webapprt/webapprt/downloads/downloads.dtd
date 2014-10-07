@@ -11,12 +11,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Startar…">
 <!ENTITY scanning.label                   "Söker efter virus…">
 
+<!ENTITY downloads.title                  "Filhämtningar">
 
-
+<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Återuppta">
 <!ENTITY cmd.resume.accesskey             "Å">
-
-
+<!ENTITY cmd.cancel.label                 "Avbryt">
+<!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.show.label                   "Öppna mapp">
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Visa i Finder">
@@ -29,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "F">
 <!ENTITY cmd.goToDownloadPage.label       "Gå till hämtningssidan">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "Kopiera filhämtningslänk">
+<!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromList.label         "Ta bort från listan">
 <!ENTITY cmd.removeFromList.accesskey     "T">
 

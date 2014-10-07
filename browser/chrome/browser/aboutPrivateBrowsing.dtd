@@ -1,13 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Du besöker webbsidor privat">
 <!ENTITY aboutPrivateBrowsing.title.normal     "Öppna ett privat fönster?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; kommer inte spara någon historik för det här fönstret.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; kommer inte spara någon historik för privata fönster.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Det inkluderar webbläsarhistorik, sökhistorik, filhämtningshistorik, formulärhistorik, kakor och tillfälliga internetfiler. Filer du hämtar och bokmärken du lägger till kommer däremot att bevaras.">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Du är nu inte i ett privat fönster.">
 
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Även om det inte kommer att sparas någon information om din webbläsarhistorik på din dator kan din internetleverantör eller arbetsgivare ändå spåra vilka sidor du besöker.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ta reda på mer.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Öppna ett privat fönster">

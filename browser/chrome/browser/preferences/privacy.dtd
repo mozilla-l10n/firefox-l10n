@@ -10,8 +10,8 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "e">
 <!ENTITY dntTrackingOkay.label2         "Tillåt webbplatser att spåra mig">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
+<!ENTITY trackingProtection.label       "Förhindra webbplatser att spåra mig">
+<!ENTITY trackingProtection.accesskey   "s">
 <!ENTITY trackingProtectionLearnMore.label "Ta reda på mer">
 <!ENTITY doNotTrackInfo.label           "Läs mer">
 

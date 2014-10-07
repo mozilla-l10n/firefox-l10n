@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Ny flik">
-
+<!ENTITY newtab.customize.title "Anpassa din Ny flik-sida">
 <!ENTITY newtab.customize.enhanced "Förbättrad">
 <!ENTITY newtab.customize.classic "Klassisk">
-
-
-
+<!ENTITY newtab.customize.blank "Tom">
+<!ENTITY newtab.customize.what "Vad gör denna sida?">
+<!ENTITY newtab.intro.header "Vad gör denna sida?">
 <!ENTITY newtab.undo.removedLabel "Miniatyr borttagen.">
 <!ENTITY newtab.undo.undoButton "Ångra.">
 <!ENTITY newtab.undo.restoreButton "Återställ alla.">
