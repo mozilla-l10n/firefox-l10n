@@ -700,12 +700,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
 <!ENTITY customizeMode.toolbars "Rodyti / slėpti priemonių juostas">
 <!ENTITY customizeMode.titlebar "Antraštės juosta">
-<!ENTITY customizeMode.lwthemes "Išvaizdos temos">
-<!ENTITY customizeMode.lwthemes.myThemes "Mano temos">
-<!ENTITY customizeMode.lwthemes.recommended "Rekomenduojama">
+<!ENTITY customizeMode.lwthemes "Grafiniai apvalkalai">
+<!ENTITY customizeMode.lwthemes.myThemes "Įdiegti apvalkalai">
+<!ENTITY customizeMode.lwthemes.recommended "Rekomenduojami">
 <!ENTITY customizeMode.lwthemes.menuManage "Tvarkyti">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Gaukite daugiau temų">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -724,22 +724,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Dauguma svetainių veikia korektiškai net ir neįkėlus tokio turinio.">
 
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "Nesaugus turinys">
+<!ENTITY mixedContentBlocked2.moreinfo "Kai kurie šiame tinklalapyje esantys nešifruoti elementai neįkelti.">
+<!ENTITY mixedContentBlocked2.learnMore "Sužinoti daugiau">
+<!ENTITY mixedContentBlocked2.options "Nuostatos">
+<!ENTITY mixedContentBlocked2.unblock.label "Laikinai išjungti apsaugą">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "L">
 <!ENTITY mixedContentBlocked2.block.label "Įjungti apsaugą">
 <!ENTITY mixedContentBlocked2.block.accesskey "j">
 <!ENTITY mixedContentBlocked2.disabled.message "Apsauga išjungta">
 
 <!ENTITY trackingContentBlocked.message "Stebėjimas">
-<!ENTITY trackingContentBlocked.moreinfo "Puslapio dalys, sekančios jūsų veiksmus internete, buvo užblokuotos.">
-<!ENTITY trackingContentBlocked.learnMore "Sužinokite daugiau">
+<!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
+<!ENTITY trackingContentBlocked.learnMore "Sužinoti daugiau">
 <!ENTITY trackingContentBlocked.options "Nuostatos">
 <!ENTITY trackingContentBlocked.unblock.label2 "Išjungti apsaugą šiame tinklalapyje">
 <!ENTITY trackingContentBlocked.block.label "Įjungti apsaugą">
-<!ENTITY trackingContentBlocked.disabled.message "Apsauga nuo sekimo yra išjungta">
+<!ENTITY trackingContentBlocked.disabled.message "Apsauga nuo stebėjimo yra išjungta">
 
 <!ENTITY pointerLock.notification.message "Jeigu norėsite, kad žymeklis būtų vėl parodytas, spauskite klavišą Gr.">
 
@@ -768,4 +771,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Parankinė">
 
 <!ENTITY switchToMetroCmd2.label       "Paleisti „&brandShortName;“ naršyklę „Windows 8 Touch“ aplinkoje">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Pašalinti įrašus:">
+<!ENTITY panicButton.view.5min                    "penkių minučių">
+<!ENTITY panicButton.view.2hr                     "dviejų valandų">
+<!ENTITY panicButton.view.day                     "24 valandų">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Jeigu tęsite, bus:">
+<!ENTITY panicButton.view.deleteCookies           "pašalinti paskiausi <html:strong>slapukai</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "išvalyti <html:strong>naršymo žurnalo</html:strong> įrašai">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "užvertos visos <html:strong>kortelės</html:strong> ir <html:strong>langai</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "atvertas naujas tuščias naršyklės langas">
+
+<!ENTITY panicButton.view.undoWarning             "Atlikus šį veiksmą, jo atšaukti neįmanoma.">
+<!ENTITY panicButton.view.forgetButton            "Valyti!">
+
+<!ENTITY panicButton.thankyou.msg1                "Paskiausi žurnalo įrašai išvalyti.">
+<!ENTITY panicButton.thankyou.msg2                "Saugaus naršymo!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ačiū!">
 

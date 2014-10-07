@@ -6,14 +6,16 @@
 <!ENTITY aboutPrivateBrowsing.title.normal     "Atverti privačiojo naršymo langą?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "Šiame lange „&brandShortName;“ nieko neįsimins.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "„&brandShortName;“ neįsimins nieko, kas atliekama privačiuosiuose languose.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Tai galioja naršymo, paieškos ir atsiuntimų žurnalams, pildytoms formoms, slapukams bei laikiniesiems failams. Tačiau atsiųsti failai ir sukurti adresyno įrašai išliks.">
 
-<!ENTITY aboutPrivateBrowsing.description      "Tai apima naršymo, paieškos, siuntimų žurnalus, pildytas formas, slapukus bei laikinuosius failus. Tačiau parsisiųsti failai bei išsaugoti adresyno įrašai liks.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Šiuo metu jūs esate ne privačiajame lange.">
 
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Nors šiame kompiuteryje ir neliks duomenų apie jūsų naršytus tinklalapius, jūsų interneto paslaugų teikėjas ar darbdavys vis tiek gali sekti, ką naršote.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Sužinoti daugiau.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Atverti privačiojo naršymo langą">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Atverti privatųjį langą">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->

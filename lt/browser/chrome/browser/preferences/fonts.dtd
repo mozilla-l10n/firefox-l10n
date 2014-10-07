@@ -4,8 +4,8 @@
 
 <!ENTITY  fontsDialog.title                       "Šriftai">
 
-<!ENTITY  language.label                          "Kalbų grupė:">
-<!ENTITY  language.accesskey                      "K">
+<!ENTITY  language.label                          "Rašto sistema:">
+<!ENTITY  language.accesskey                      "R">
 
 <!ENTITY  size.label                              "Dydis (taškais)">
 <!ENTITY  sizeProportional.accesskey              "D">
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korėjiečių">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilica">
 <!ENTITY  font.langGroup.el                       "Graikų">
-
+<!ENTITY  font.langGroup.other                    "Kitos rašto sistemos">
 <!ENTITY  font.langGroup.thai                     "Tajų">
 <!ENTITY  font.langGroup.hebrew                   "Hebrajų">
 <!ENTITY  font.langGroup.arabic                   "Arabų">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabų">
-
+<!ENTITY languages.customize.Fallback.baltic      "Baltų">
 <!ENTITY languages.customize.Fallback.ceiso       "Vidurio Europos (ISO)">
 <!ENTITY languages.customize.Fallback.cewindows   "Vidurio Europos (Microsoft)">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Tajų">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turkų">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamiečių">
