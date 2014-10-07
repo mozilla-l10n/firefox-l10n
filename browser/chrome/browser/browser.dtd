@@ -212,6 +212,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label "Dodatki">
 <!ENTITY addons.accesskey "D">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Aplikacije">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
@@ -737,8 +739,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Deli strani, ki sledijo vašim dejanjem na spletu, so bili zavrnjeni.">
 <!ENTITY trackingContentBlocked.learnMore "Več o tem">
 <!ENTITY trackingContentBlocked.options "Možnosti">
-<!ENTITY trackingContentBlocked.unblock.label2 "Onemogoči zaščito za to stran">
+<!ENTITY trackingContentBlocked.unblock2.label "Onemogoči zaščito za to stran">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Omogoči zaščito">
+<!ENTITY trackingContentBlocked.block.accesskey "O">
 <!ENTITY trackingContentBlocked.disabled.message "Zaščita pred seledenjem je onemogočena">
 
 <!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
