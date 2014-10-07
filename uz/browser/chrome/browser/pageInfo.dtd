@@ -21,7 +21,7 @@
 <!ENTITY  generalSize           "Hajmi:">
 <!ENTITY  generalReferrer       "Keltirilgan URL:">
 <!ENTITY  generalSource         "Kesh manbasi:">
-<!ENTITY  generalModified       "Oʻzgartirilgan:">
+<!ENTITY  generalModified       "O‘zgartirilgan:">
 <!ENTITY  generalEncoding       "Kodlash usuli:">
 <!ENTITY  generalMetaName       "Nomi">
 <!ENTITY  generalMetaContent    "Tarkibi">
@@ -29,43 +29,43 @@
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Manzili:">
-<!ENTITY  mediaText             "Bogʻlangan matn:">
+<!ENTITY  mediaText             "Bog‘langan matn:">
 <!ENTITY  mediaAltHeader        "Muqobil matn">
 <!ENTITY  mediaAddress          "Manzil">
 <!ENTITY  mediaType             "Turi">
 <!ENTITY  mediaSize             "Hajmi">
 <!ENTITY  mediaCount            "Miqdori">
-<!ENTITY  mediaDimension        "Oʻlchami:">
-<!ENTITY  mediaLongdesc         "Uzun ta`rif:">
+<!ENTITY  mediaDimension        "O‘lchami:">
+<!ENTITY  mediaLongdesc         "Uzun ta’rif:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Saqlash">
+<!ENTITY  mediaSaveAs           "Saqlash…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Mediani oldindan koʻrish">
+<!ENTITY  mediaPreview          "Mediani oldindan ko‘rish">
 
 <!ENTITY  feedTab               "Tasmalar">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Obuna boʻlish">
+<!ENTITY  feedSubscribe         "Obuna bo‘lish">
 <!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Ruxsatlar">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Standart foydalanish">
-<!ENTITY  permAskAlways         "Doimo soʻralsin">
+<!ENTITY  permAskAlways         "Doimo so‘ralsin">
 <!ENTITY  permAllow             "Ruxsat berish">
 <!ENTITY  permAllowSession      "Seans uchun ruxsat berish">
 <!ENTITY  permBlock             "Bloklash">
 <!ENTITY  permissionsFor        "Ruxsatlar:">
 <!ENTITY  permPlugins           "Plaginlarni faollashtirish">
 
-<!ENTITY  permClearStorage           "Saqlagichni tozalash">
+<!ENTITY  permClearStorage           "Omborni tozalash">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Xavfsizlik">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "Sertifikatni koʻrish">
+<!ENTITY  securityView.certView "Sertifikatni ko‘rish">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Noma`lum">
+<!ENTITY  securityView.unknown   "Noma’lum">
 
 
 <!ENTITY  securityView.identity.header   "Vebsaytni tasdiqdan oʻtkazish">
@@ -75,11 +75,11 @@
 
 <!ENTITY  securityView.privacy.header                   "Maxfiylik va tarix">
 <!ENTITY  securityView.privacy.history                  "Bugun ushbu sahifaga tashrif buyurdimmi?">
-<!ENTITY  securityView.privacy.cookies                  "Ushbu veb sayt ma`lumotlar (kukilar)ni kompyuterimga joylashtiryaptimi?">
-<!ENTITY  securityView.privacy.viewCookies              "Kukilarni koʻrish">
+<!ENTITY  securityView.privacy.cookies                  "Ushbu veb sayt ma’lumotlar (kukilar)ni kompyuterimga joylashtiryaptimi?">
+<!ENTITY  securityView.privacy.viewCookies              "Kukilarni ko‘rish">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Ushbu sahifa uchun parollarni saqladimmi?">
-<!ENTITY  securityView.privacy.viewPasswords            "Saqlangan parollarni koʻrish">
+<!ENTITY  securityView.privacy.viewPasswords            "Saqlangan parollarni ko‘rish">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Texnik ma`lumotlar">
+<!ENTITY  securityView.technical.header                 "Texnik ma’lumotlar">

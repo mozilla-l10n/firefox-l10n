@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Yigʻish">
-<!ENTITY bringAllToFront.label    "Barchasini oldinga oʻtkazish">
-<!ENTITY zoomWindow.label         "Mashstab">
+<!ENTITY minimizeWindow.label     "Yig‘ish">
+<!ENTITY bringAllToFront.label    "Barchasini oldinga o‘tkazish">
+<!ENTITY zoomWindow.label         "Masshtab">
 <!ENTITY windowMenu.label         "Oyna">
 
 <!ENTITY helpMenu.label           "Yordam"> 
@@ -23,13 +23,13 @@
 <!ENTITY helpKeyboardShortcuts.label     "Klaviatura tugmalar birikmasi">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Qoʻshimcha dasturlarni oʻchirib, qaytadan ishga tushirish">
+<!ENTITY helpSafeMode.label       "Qo‘shimcha dasturlarni o‘chirib, qaytadan ishga tushirish">
 <!ENTITY helpSafeMode.accesskey   "q">
 
-<!ENTITY healthReport.label       "&brandShortName; yaroqlilik ma`lumotlari">
+<!ENTITY healthReport.label       "&brandShortName; yaroqlilik ma’lumotlari">
 <!ENTITY healthReport.accesskey   "r">
 
-<!ENTITY helpTroubleshootingInfo.label      "Nosozlik ma`lumoti">
+<!ENTITY helpTroubleshootingInfo.label      "Nosozlik ma’lumoti">
 <!ENTITY helpTroubleshootingInfo.accesskey  "N">
 
 <!ENTITY helpFeedbackPage.label      "Mulohaza bildirish">
@@ -38,7 +38,7 @@
 <!ENTITY helpShowTour.label             "&brandShortName;ga sayohat">
 <!ENTITY helpShowTour.accesskey         "s">
 
-<!ENTITY preferencesCmdMac.label        "Moslashlar...">
+<!ENTITY preferencesCmdMac.label        "Parametrlar…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Xizmatlar">
@@ -49,4 +49,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Boshqalarini yashirish">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Barchasini koʻrsatish">
+<!ENTITY showAllAppsCmdMac.label        "Barchasini ko‘rsatish">

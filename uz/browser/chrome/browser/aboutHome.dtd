@@ -9,20 +9,20 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandFullName; boshlangʻich sahifasi">
+<!ENTITY abouthome.pageTitle "&brandFullName; boshlang‘ich sahifasi">
 
 <!ENTITY abouthome.searchEngineButton.label "Izlash">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "&quot;Firefox&quot;ni tanlaganingiz uchun sizga KATTA RAHMAT!  Brauzeringizni yaxshilash uchun uning <a>soʻnggi xususiyatlari</a> haqida koʻproq ma`lumot oling.">
+<!ENTITY abouthome.defaultSnippet1.v1 "&quot;Firefox&quot;ni tanlaganingiz uchun sizga KATTA RAHMAT!  Brauzeringizni yaxshilash uchun uning <a>so‘nggi xususiyatlari</a> haqida ko‘proq ma’lumot oling.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "&quot;Firefox&quot;ni xohlaganingizdek oʻzingizga moslash juda oson. Buning uchun <a>minglab qoʻshimcha dasturlardan birini tanlang</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "&quot;Firefox&quot;ni xohlaganingizdek o‘zingizga moslash juda oson. Buning uchun <a>minglab qo‘shimcha dasturlardan birini tanlang</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; notijorat Mozilla uyushmasi tomonidan chiqarilgan erkin va ochiq kodli dasturiy ta`minotdir . <a>Huquqlaringizni biling…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; notijorat Mozilla uyushmasi tomonidan chiqarilgan erkin va ochiq kodli dasturiy ta’minotdir . <a>Huquqlaringizni biling…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Xatchoʻplar">
 <!ENTITY abouthome.historyButton.label   "Tarix">
@@ -31,8 +31,8 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "Moslamalar">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Moslamalar">
-<!ENTITY abouthome.addonsButton.label    "Qoʻshimcha dasturlar">
-<!ENTITY abouthome.appsButton.label      "Doʻkon">
-<!ENTITY abouthome.downloadsButton.label "Yuklashlar">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Parametrlar">
+<!ENTITY abouthome.addonsButton.label    "Qo‘shimcha dasturlar">
+<!ENTITY abouthome.appsButton.label      "Do‘kon">
+<!ENTITY abouthome.downloadsButton.label "Yuklab olishlar">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

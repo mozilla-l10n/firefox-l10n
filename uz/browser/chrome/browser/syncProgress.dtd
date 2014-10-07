@@ -6,9 +6,9 @@
     %brandDTD;
 <!-- These strings are used in the sync progress upload page -->
 
-<!ENTITY syncProgress.pageTitle    "Birinchi sinxronizatsiyangiz">
-<!ENTITY syncProgress.textBlurb    "Ma`lumotlaringiz kodlanadi va orqa fonda yuklanadi. Ushbu ichki oynani yopishingiz mumkin va &brandShortName;dan foydalanishda davom etishingiz mumkin.">
+<!ENTITY syncProgress.pageTitle    "Ilk sinxronlash">
+<!ENTITY syncProgress.textBlurb    "Ma’lumotlaringiz kodlanadi va orqa fonda yuklanadi. Ushbu ichki oynani yopishingiz mumkin va &brandShortName;dan foydalanishda davom etishingiz mumkin.">
 <!ENTITY syncProgress.closeButton  "Yopish">
 <!ENTITY syncProgress.logoAltText  "&brandShortName; logosi">
-<!ENTITY syncProgress.diffText     "&brandShortName; orqa fonda avtomatik tarzda sinxronizatsiya qiladi.  Ushbu ichki oynani yopishingiz mumkin va &brandShortName;dan foydalanishda davom etishingiz mumkin.">
+<!ENTITY syncProgress.diffText     "&brandShortName; orqa fonda avtomatik tarzda sinxronlanadi.  Ushbu ichki oynani yopishingiz mumkin va &brandShortName;dan foydalanishda davom etishingiz mumkin.">
 

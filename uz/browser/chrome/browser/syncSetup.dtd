@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "&syncBrand.fullName.label;dan ilgari foydalanmagan boʻlsangiz, xush kelibsiz! Lekin avval yangi hisob yaratishingiz kerak.">
+<!ENTITY setup.pickSetupType.description2 "&syncBrand.fullName.label;dan ilgari foydalanmagan bo‘lsangiz, xush kelibsiz! Lekin avval yangi hisob yaratishingiz kerak.">
 <!ENTITY button.createNewAccount.label "Yangi hisob yaratish">
 <!ENTITY button.haveAccount.label      "Mening hisobim bor">
 
@@ -26,14 +26,14 @@
 <!ENTITY signIn.recoveryKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Hisob ma`lumotlari">
+<!ENTITY setup.newAccountDetailsPage.title.label "Hisob ma’lumotlari">
 <!ENTITY setup.emailAddress.label     "E-pochta manzili">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Parolni tanlash">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Parolni tasdiqlash">
 <!ENTITY setup.confirmPassword.accesskey "t">
-<!ENTITY setup.setupMetro.label     "&brandShortName;ni Windows 8 uslubi bilan sinx-ya qilish">
+<!ENTITY setup.setupMetro.label     "&brandShortName;ni Windows 8 uslubi bilan sinxronlash">
 <!ENTITY setup.setupMetro.accesskey "s">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -42,75 +42,75 @@
 <!ENTITY setup.tosAgree1.accesskey  "r">
 <!ENTITY setup.tosLink.label        "Xizmat shartlari">
 <!ENTITY setup.tosAgree2.label      "va ">
-<!ENTITY setup.ppLink.label         "Xavfsizlik nazorati">
+<!ENTITY setup.ppLink.label         "Maxfiylik siyosati">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; xavfsizligingiz haqida qaygʻuradi">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Umumiy xavfsizligingizni himoyalash uchun kodlangan barcha ma`lumotlaringiz yuklanadi. Yuklanmagan ma`lumotlaringizni kodlash uchun &quot;Tiklash kaliti&quot; kerak.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; maxfiyligingiz haqida qayg‘uradi">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Umumiy maxfiyligingizni himoyalash uchun kodlangan barcha ma’lumotlaringiz yuklanadi. Yuklanmagan ma’lumotlaringizni kodlash uchun &quot;Tiklash kaliti&quot; kerak.">
 <!ENTITY recoveryKeyEntry.label        "Tiklash kalitingiz">
 <!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Yangi kalit yaratish">
-<!ENTITY recoveryKeyBackup.description "&quot;Tiklash kaliti&quot;ngiz boshqa kompyuterlardagi &syncBrand.fullName.label;ga krishga ruxsat soʻraydi. Iltimos, zahira nusxasini yarating. Biz sizga &quot;Tiklash kaliti&quot;ni tiklashda yordam bera olmaymiz.">
+<!ENTITY recoveryKeyBackup.description "&quot;Tiklash kaliti&quot;ngiz boshqa kompyuterlardagi &syncBrand.fullName.label;ga krishga ruxsat so‘ramoqda. Zahira nusxasini yarating. Biz sizga &quot;Tiklash kaliti&quot;ni tiklashda yordam bera olmaymiz.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Chop qilish">
+<!ENTITY button.syncKeyBackup.print.label     "Chop qilish…">
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
-<!ENTITY button.syncKeyBackup.save.label      "Saqlash">
+<!ENTITY button.syncKeyBackup.save.label      "Saqlash…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Qurilmani boʻlishish">
-<!ENTITY addDevice.showMeHow.label          "Qanday qilishni menga koʻrsat">
-<!ENTITY addDevice.dontHaveDevice.label     "Mening boshqa qurilmalarim yoʻq">
-<!ENTITY pairDevice.setup.description.label  "Faollashtirish uchun boshqa qurilmangizdagi &quot;Qurilmani boʻlishish&quot;ni tanlang.">
+<!ENTITY pairDevice.title.label             "Qurilmani bo‘lishish">
+<!ENTITY addDevice.showMeHow.label          "Qanday qilishni menga ko‘rsat.">
+<!ENTITY addDevice.dontHaveDevice.label     "Mening boshqa qurilmalarim yo‘q">
+<!ENTITY pairDevice.setup.description.label  "Faollashtirish uchun boshqa qurilmangizdagi &quot;Qurilmani bo‘lishish&quot;ni tanlang.">
 <!ENTITY addDevice.setup.enterCode.label    "Keyin, kodni kiriting:">
-<!ENTITY pairDevice.dialog.description.label "Yangi qurilmangizni faollashtirish uchun qurilmadagi &quot;Sinx-yani moslash&quot;ni tanlang.">
+<!ENTITY pairDevice.dialog.description.label "Yangi qurilmangizni faollashtirish uchun qurilmadagi &quot;Sinxronlashni moslash&quot;ni tanlang.">
 <!ENTITY addDevice.dialog.enterCode.label   "Keltirilgan qurilma kodini kiriting:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Iltimos, yana urinib koʻring.">
-<!ENTITY addDevice.dialog.successful.label  "Qurilma muvaffaqtiyatli qoʻshildi. Boshlangʻich sinx-ya bir oz vaqtingizni olishi mumkin va orqa fonda tugaydi.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Qurilmangizni faollashtirish uchun &quot;Tiklash kaliti&quot;ngizni kiritish kerak. Bu kalitlarni chop qiling yoki saqlab qoʻying va oʻzingizga oling.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Yana urinib ko‘ring.">
+<!ENTITY addDevice.dialog.successful.label  "Qurilma muvaffaqtiyatli qo‘shildi. Boshlang‘ich sinxronlash biroz vaqtingizni olishi mumkin va orqa fonda tugaydi.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Qurilmangizni faollashtirish uchun &quot;Tiklash kaliti&quot;ngizni kiritish kerak. Bu kalitlarni chop qiling yoki saqlab qo‘ying va o‘zingiz bilan olib yuring.">
 <!ENTITY addDevice.dialog.connected.label   "Qurilma ulandi">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Kirish">
-<!ENTITY existingRecoveryKey.description "Boshqa qurilmalaringizdagi &syncBrand.shortName.label; moslamalariga oʻtib,&quot;Hisoblarni boshqarish&quot; ostidagi &quot;Tiklash kalitim&quot;ni tanlab, &quot;Tiklash kaliti&quot;ngiz nusxasini olishingiz mumkin.">
-<!ENTITY verifying.label              "Tekshirilmoqda">
+<!ENTITY existingRecoveryKey.description "Boshqa qurilmalaringizdagi &syncBrand.shortName.label; moslamalariga o‘tib,&quot;Hisoblarni boshqarish&quot; ostidagi &quot;Tiklash kalitim&quot;ni tanlab, &quot;Tiklash kaliti&quot;ngiz nusxasini olishingiz mumkin.">
+<!ENTITY verifying.label              "Tasdiqlanmoqda…">
 <!ENTITY resetPassword.label          "Parolni tiklash">
-<!ENTITY resetSyncKey.label           "Boshqa qurilmam yoʻqolgan.">
+<!ENTITY resetSyncKey.label           "Boshqa qurilmamni yo‘qolganganman.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sinx-ya moslamalari">
-<!ENTITY syncDeviceName.label       "Qurilma nomi">
+<!ENTITY setup.optionsPage.title      "Sinxronlash moslamalari">
+<!ENTITY syncDeviceName.label       "Qurilma nomi:">
 <!ENTITY syncDeviceName.accesskey   "n">
 
-<!ENTITY syncMy.label               "Mening ...ni sinx-ya qilish">
-<!ENTITY engine.bookmarks.label     "Xatchoʻplar">
+<!ENTITY syncMy.label               "Quyidagilarni sinxronlash:">
+<!ENTITY engine.bookmarks.label     "Xatcho‘plar">
 <!ENTITY engine.bookmarks.accesskey "X">
 <!ENTITY engine.tabs.label          "Ichki oynalar">
 <!ENTITY engine.tabs.accesskey      "I">
 <!ENTITY engine.history.label       "Tarix">
 <!ENTITY engine.history.accesskey   "T">
-<!ENTITY engine.passwords.label     "Parol">
+<!ENTITY engine.passwords.label     "Parollar">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Moslamalar">
-<!ENTITY engine.prefs.accesskey     "M">
-<!ENTITY engine.addons.label        "Qoʻshimcha dasturlar">
+<!ENTITY engine.prefs.label         "Parametrlar">
+<!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Qo‘shimcha dasturlar">
 <!ENTITY engine.addons.accesskey    "Q">
 
-<!ENTITY choice2a.merge.main.label       "Ushbu qurilmadagi ma`lumotlarni &syncBrand.shortName.label;dagi ma`lumotlarim bilan birlashtirish">
+<!ENTITY choice2a.merge.main.label       "Ushbu qurilmadagi ma’lumotlarni &syncBrand.shortName.label;dagi ma’lumotlarim bilan birlashtirish">
 <!ENTITY choice2.merge.recommended.label "Tavsiya qilingan:">
-<!ENTITY choice2a.client.main.label      "Ushbu qurilmadagi barcha ma`lumotlarni &syncBrand.shortName.label;dagi ma`lumotlarim bilan almashtirish">
-<!ENTITY choice2a.server.main.label      "Ushbu qurilma ma`lumotlari barcha boshqa qurilmalarga almashtirib yoziladi">
+<!ENTITY choice2a.client.main.label      "Ushbu qurilmadagi barcha ma’lumotlarni &syncBrand.shortName.label;dagi ma’lumotlarim bilan almashtirish">
+<!ENTITY choice2a.server.main.label      "Ushbu qurilma ma’lumotlari barcha boshqa qurilmalarga almashtirib yoziladi">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tasdiqlash">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; barcha brauzer ma`lumotlarini &quot;Sinx-ya hisobi&quot;ngizdagi ma`lumotlar bilan birlashtiradi.">
-<!ENTITY confirm.client3.label         "Diqqat: qurilmadagi quyidagi &brandShortName; ma`lumotlar oʻchiriladi:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; &syncBrand.fullName.label; ma`lumotlarini ushbu qurilmaga nusxasini koʻchiradi.">
-<!ENTITY confirm.server2.label         "Diqqat: quyidagi qurilmalarga mahalliy ma`lumotlaringiz yoziladi:">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; barcha brauzer ma’lumotlarini &quot;Sinxronlash hisobi&quot;ngizdagi ma’lumotlar bilan birlashtiradi.">
+<!ENTITY confirm.client3.label         "Diqqat: qurilmadagi quyidagi &brandShortName; ma’lumotlar o‘chiriladi:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; &syncBrand.fullName.label; ma’lumotlarini ushbu qurilmaga nusxasini ko‘chiradi.">
+<!ENTITY confirm.server2.label         "Diqqat: quyidagi qurilmalarga mahalliy ma’lumotlaringiz yoziladi:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Moslash tugadi">
-<!ENTITY changeOptions.label "Quyidagi &quot;Sinx-ya moslamalari&quot;ni tanlab, moslashlarni oʻzgartirishingiz mumkin.">
+<!ENTITY setup.successPage.title "O‘rnatish tugadi">
+<!ENTITY changeOptions.label "Quyidagi &quot;Sinxronlash moslamalari&quot;ni tanlab, moslamalarni o‘zgartirishingiz mumkin.">
 <!ENTITY continueUsing.label "Hozir siz &brandShortName;dan foydalanishda davom etishingiz mumkin.">

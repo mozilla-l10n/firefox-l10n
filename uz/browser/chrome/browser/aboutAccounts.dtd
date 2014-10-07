@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;ga xush kelibsiz!">
 
-<!ENTITY aboutAccountsConfig.description "Ichki oynalar, xatchoʻplar, parollar va boshqalarni sinxronlash uchun kiring.">
-<!ENTITY aboutAccountsConfig.startButton.label "Boshlash">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Sinx-yaning eskiroq versiyalaridan foydalanilsinmi?">
+<!ENTITY aboutAccountsConfig.description "Ichki oynalar, xatcho‘plar, parollar va boshqalarni sinxronlash uchun kiring.">
+<!ENTITY aboutAccountsConfig.startButton.label "Boshlandi">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Sinxronlashning eskiroq versiyalaridan foydalanilsinmi?">
 <!ENTITY aboutAccountsConfig.manage.label "Boshqarish">

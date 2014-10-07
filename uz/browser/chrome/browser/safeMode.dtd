@@ -8,12 +8,12 @@
 <!ENTITY startSafeMode.label          "Xavfsiz usulda ishga tushirish">
 <!ENTITY resetProfile.label           "&brandShortName;ni tiklash">
 
-<!ENTITY safeModeDescription3.label   "Xavfsiz usul - nosozliklarni toʻgʻrilash uchun ishlatiladigan &brandShortName; maxsus usuli.">
-<!ENTITY safeModeDescription4.label   "Qoʻshimcha dasturlaringiz va boshqa moslamalaringiz vaqtincha oʻchirib qoʻyiladi.">
+<!ENTITY safeModeDescription3.label   "Xavfsiz usul - nosozliklarni to‘g‘rilash uchun ishlatiladigan &brandShortName; maxsus usuli.">
+<!ENTITY safeModeDescription4.label   "Qo‘shimcha dasturlaringiz va boshqa moslamalaringiz vaqtincha o‘chirib qo‘yiladi.">
 
 <!ENTITY resetProfileInstead.label    "Shuningdek, siz yangidan toza ish boshlash uchun &brandShortName;ni tiklashingiz mumkin. ">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; ishga tushayotganda kutilmaganda yopildi. Bunga sabab qoʻshimcha dasturlar yoki boshqa muammolar boʻlishi mumkin. Siz &brandShortName;ni standart holatida tiklash orqali yoki &quot;Xavfsiz usul&quot;da ishga tushirib, nosozlikni aniqlash orqali muammoni hal qilishingiz mumkin.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; ishga tushayotganda kutilmaganda yopildi. Bunga sabab qo‘shimcha dasturlar yoki boshqa muammolar bo‘lishi mumkin. Siz &brandShortName;ni standart holatida tiklash orqali yoki &quot;Xavfsiz usul&quot;da ishga tushirib, nosozlikni aniqlash orqali muammoni hal qilishingiz mumkin.">
 <!ENTITY resetProfileFooter.label       "Hamma narsa yangi chiqqan holatiga tiklanadi.">
-<!ENTITY safeModeInstead.label          "Agar siz buni xohlamasangiz, &quot;Xavfsiz usul&quot;da qoʻshimcha dasturlaringiz va boshqa moslamalaringizdagi nosozliklarni vaqtinchalik oʻchirib qoʻyib, ishlashni davom ettirishingiz mumkin.">
+<!ENTITY safeModeInstead.label          "Agar siz buni xohlamasangiz, &quot;Xavfsiz usul&quot;da qo‘shimcha dasturlaringiz va boshqa moslamalaringizdagi nosozliklarni vaqtinchalik o‘chirib qo‘yib, ishlashni davom ettirishingiz mumkin.">

@@ -6,11 +6,11 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Yaxshi, bu uyatli hol.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; oynalaringiz va ichki oynalaringizni tiklayotganda muammo yuz berdi. Bunga, odatda, soʻnggi ochilgan veb sahifalar sabab boʻladi.">
-<!ENTITY restorepage.tryThis        "Sinab koʻrishingiz mumkin:">
-<!ENTITY restorepage.restoreSome    "Bitta yoki bir nehcta ichki oynalarni oʻchirish muammoga sabab boʻlishi mumkin">
-<!ENTITY restorepage.startNew       "Butunlay yangi koʻrish seansi boshlanmoqda">
+<!ENTITY restorepage.errorTitle     "Bu sharmandali holat.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; oynalaringiz va ichki oynalaringizni tiklayotganda muammo yuz berdi. Bunga, odatda, so‘nggi ochilgan vebsahifalar sabab bo‘ladi.">
+<!ENTITY restorepage.tryThis        "Sinab ko‘rishingiz mumkin:">
+<!ENTITY restorepage.restoreSome    "Bitta yoki bir nechta ichki oynalarni o‘chirish muammoga sabab bo‘lishi mumkin">
+<!ENTITY restorepage.startNew       "Butunlay yangi ko‘rish seansi boshlanmoqda">
 
 <!ENTITY restorepage.tryagainButton "Tiklash">
 <!ENTITY restorepage.restore.access "R">
@@ -25,10 +25,10 @@
      not for about:sessionstore -->
 
 
-<!ENTITY welcomeback.tabtitle       "Yana xush kelibsiz!">
+<!ENTITY welcomeback.tabtitle       "Qaytganingizdan xursandmiz!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
 
-<!ENTITY welcomeback.pageTitle      "Yana xush kelibsiz!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; profilingizni muvaffaqiyatli ravishda tikladi. Quyida siz ochgan ichki oynalar va oynalar roʻyxati berilgan; ularni tiklashingiz yoki toza holatda ishga tushirishingiz mumkin.">
+<!ENTITY welcomeback.pageTitle      "Qaytganingizdan xursandmiz!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; profilingizni muvaffaqiyatli ravishda tikladi. Quyida siz ochgan ichki oynalar va oynalar ro‘yxati berilgan; ularni tiklashingiz yoki toza holatda ishga tushirishingiz mumkin.">

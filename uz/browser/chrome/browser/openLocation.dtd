@@ -4,8 +4,8 @@
 <!-- extracted from content/openLocation.xul -->
 
 
-<!ENTITY enter.label "Ochmoqchi boʻlgan fayllaringizni yoki internet manzillar (URL)ni kiriting:">  
-<!ENTITY chooseFile.label "Ochmoqchi boʻlgan fayllaringizni yoki internet manzillar (URL)ni kiriting:">
+<!ENTITY enter.label "Ochmoqchi bo‘lgan fayllaringizni yoki internet manzillar (URL)ni kiriting:">  
+<!ENTITY chooseFile.label "Faylni tanlang…">
 <!ENTITY newTab.label "Yangi ichki oyna">
 <!ENTITY newWindow.label "Yangi oyna">
 <!ENTITY topTab.label "Joriy ichki oyna">

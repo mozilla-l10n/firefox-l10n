@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Nosozliklarni toʻgʻrilash ma`lumoti">
+<!ENTITY aboutSupport.pageTitle "Nosozliklarni to‘g‘rilash ma’lumoti">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Bu sahifa muammolarni hal qilishingizda foydasi tegishi mumkin boʻlgan 
- texnik ma`lumotlarga ega. Agar siz &brandShortName; haqida umumiy savollarga 
-javob izlayotgan boʻlsangiz, bizning <a id='supportLink'>yordam saytimiz</a>nitekshirib koʻring.">
+<!ENTITY aboutSupport.pageSubtitle "  Bu sahifa muammolarni hal qilishingizda foydasi tegishi mumkin bo‘lgan 
+ texnik ma’lumotlarga ega. Agar siz &brandShortName; haqida umumiy savollarga 
+javob izlayotgan bo‘lsangiz, bizning <a id='supportLink'>yordam saytimiz</a>nitekshirib ko‘ring.">
 
-<!ENTITY aboutSupport.crashes.title "Nosozlik ma`lumotlari">
+<!ENTITY aboutSupport.crashes.title "Nosozlik ma’lumotlari">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Hisobot ID raqami">
-<!ENTITY aboutSupport.crashes.sendDate "Joʻnatildi">
-<!ENTITY aboutSupport.crashes.allReports "Barcha nosozlik ma`lumotlari">
-<!ENTITY aboutSupport.crashes.noConfig "Ushbu ilova dastur nosozlik ma`lumotlarini koʻrsatish uchun moslanmagan.">
+<!ENTITY aboutSupport.crashes.id "Hisobot xos raqami">
+<!ENTITY aboutSupport.crashes.sendDate "Jo‘natildi">
+<!ENTITY aboutSupport.crashes.allReports "Barcha nosozlik ma’lumotlari">
+<!ENTITY aboutSupport.crashes.noConfig "Ushbu ilova dastur nosozlik ma’lumotlarini ko‘rsatish uchun moslanmagan.">
 
 <!ENTITY aboutSupport.extensionsTitle "Kengaytmalar">
 <!ENTITY aboutSupport.extensionName "Nomi">
-<!ENTITY aboutSupport.extensionEnabled "Yoqib qoʻyilgan">
+<!ENTITY aboutSupport.extensionEnabled "Yoqib qo‘yilgan">
 <!ENTITY aboutSupport.extensionVersion "Versiyasi">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Tajribaga asoslangan xususiyatlar">
 <!ENTITY aboutSupport.experimentName "Nomi">
 <!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Ta`rifi">
+<!ENTITY aboutSupport.experimentDescription "Ta’rifi">
 <!ENTITY aboutSupport.experimentActive "Faol">
 <!ENTITY aboutSupport.experimentEndDate "Tugash sanasi">
 <!ENTITY aboutSupport.experimentHomepage "Uy sahifasi">
@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Yangilash tarixi">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yangilash tarixini koʻrsatish">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yangilash tarixini ko‘rsatish">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Profil direktoriyasi">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -52,31 +52,33 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Foydalanuvchi agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Foydalanilgan xotira">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multijarayon oynalari">
 
 <!ENTITY aboutSupport.showDir.label "Direktoriyani ochish">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Topgichda koʻrsatish">
+<!ENTITY aboutSupport.showMac.label "Topgichda ko‘rsatish">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Jildni koʻrsatish">
+<!ENTITY aboutSupport.showWin.label "Jildni ko‘rsatish">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Muhim oʻzgartirilgan moslamalar">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Muhim o‘zgartirilgan moslamalar">
 <!ENTITY aboutSupport.modifiedPrefsName "Nomi">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "Qiymati">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js parametrlari">
-<!ENTITY aboutSupport.userJSDescription "Profil direktoriyangizda <a id='prefs-user-js-link'>user.js file</a> mavjud, unga &brandShortName; tomonidan yaratilmagan parametrlar qoʻshilgan.">
+<!ENTITY aboutSupport.userJSDescription "Profil direktoriyangizda <a id='prefs-user-js-link'>user.js file</a> mavjud, unga &brandShortName; tomonidan yaratilmagan parametrlar qo‘shilgan.">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Muhim o‘zgartirilgan parametrlar">
+<!ENTITY aboutSupport.lockedPrefsName "Nomi">
+<!ENTITY aboutSupport.lockedPrefsValue "Qiymati">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Qoʻshimchal GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Qo‘shimcha GC">
 
 <!ENTITY aboutSupport.a11yTitle "Qulaylik">
 <!ENTITY aboutSupport.a11yActivated "Faollashtirilgan">
@@ -84,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Kutubxona versiyasi">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Oʻrnatish tarixi">
+<!ENTITY aboutSupport.installationHistoryTitle "O‘rnatish tarixi">
 <!ENTITY aboutSupport.updateHistoryTitle "Yangilash tarixi">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Matndan nusxa olish">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Manba ma`lumotlarni vaqtinchalik xotiraga nusxa olish">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Manba ma’lumotlarni vaqtinchalik xotiraga nusxa olish">
