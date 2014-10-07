@@ -775,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Dirŋa ikoraa:">
+<!ENTITY panicButton.view.5min                    "Miniti guu">
+<!ENTITY panicButton.view.2hr                     "Guuru hinka">
+<!ENTITY panicButton.view.day                     "Guuru 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Koyjineyan ga:">
+<!ENTITY panicButton.view.deleteCookies           "<html:strong>Aleewa</html:strong> korawey tuusu">
+<!ENTITY panicButton.view.deleteHistory           " <html:strong>Taariki</html:strong> koraa tuusu">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>Nor lokey</html:strong> nda <html:strong>Zanfuney</html:strong> kul tuusu">
+<!ENTITY panicButton.view.openNewWindow           "Zanfun henanante taaga feeri">
 
 <!ENTITY panicButton.view.undoWarning             "Teeraa woo ši hin ka taafeeri.">
+<!ENTITY panicButton.view.forgetButton            "Dirŋa!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "War taariki koraa n' ka tuusandi.">
+<!ENTITY panicButton.thankyou.msg2                "Ceeciyan saajante!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Foo nda goy!">
 
