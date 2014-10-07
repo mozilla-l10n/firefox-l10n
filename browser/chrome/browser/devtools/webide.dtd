@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY projectMenu_label "Projekt">
+<!ENTITY projectMenu_accesskey "P">
 
 
 
@@ -17,26 +19,26 @@
 
 
 
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Osobitosti">
+<!ENTITY projectMenu_showPrefs_accesskey "s">
 
-
-
-
-
-
+<!ENTITY runtimeMenu_label "Izvršavanje">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
-
-
-
+<!ENTITY runtimeMenu_disconnect_accesskey "k">
+<!ENTITY runtimeMenu_showPermissionTable_label "Tablica dopuštenja">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Slika zaslona">
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Informacije o vremenu izvršavanja">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Zaslon">
+<!ENTITY runtimeMenu_showMonitor_accesskey "N">
 
 <!ENTITY viewMenu_label "Pogled">
-
-
+<!ENTITY viewMenu_accesskey "l">
+<!ENTITY viewMenu_toggleEditor_label "Uključi/isključi uređivač">
 
 
 
@@ -54,21 +56,25 @@
 
 
 
-
+<!ENTITY runtimePanel_custom "Prilagođeno">
 <!ENTITY runtimePanel_installsimulator "Instaliraj Simulator">
-
-
+<!ENTITY runtimePanel_noadbhelper "Instaliraj ADB pomoćnika">
+<!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "vrijedi">
+<!ENTITY details_warning_header "upozorenja">
+<!ENTITY details_error_header "greške">
 <!ENTITY details_description "Opis">
 <!ENTITY details_location "Lokacija">
-
-
+<!ENTITY details_manifestURL "ID aplikacije">
+<!ENTITY details_removeProject_button "Ukloni projekt">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "Nova aplikacija">
+<!ENTITY newAppHeader "Odaberi predložak">
+<!ENTITY newAppLoadingTemplate "Učitavanje predložaka...">
+<!ENTITY newAppProjectName "Naziv projekta:">
 <!-- Decks -->
 
 
@@ -76,7 +82,11 @@
 <!ENTITY deck_close "Zatvori">
 <!-- Addons -->
 
+<!ENTITY addons_title "Dodatne komponente">
+<!ENTITY addons_aboutaddons "Otvori upravitelja dodacima">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "Postavke">
 
 
 <!ENTITY prefs_restore "Vrati zadano">
@@ -92,22 +102,28 @@
 
 
 
-
+<!ENTITY prefs_options_detectindentation "Automatska uvlaka">
 <!ENTITY prefs_options_detectindentation_tooltip "Pogodi uvlake na temelju sadržaja izvora">
-
-
+<!ENTITY prefs_options_autocomplete "Automatsko dovršavanje">
+<!ENTITY prefs_options_autocomplete_tooltip "Omogući automatsko dovršavanje kôda">
 <!ENTITY prefs_options_autoclosebrackets "Automatsko zatvaranje zagrada">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatski dodaj zatvarajuće zagrade">
-
+<!ENTITY prefs_options_keybindings "Kratice">
 
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "Tablica dopuštenja">
 <!ENTITY permissionstable_name_header "Naziv">
 <!-- Runtime Details -->
 
-
-
-
-
-
+<!ENTITY runtimedetails_title "Informacije o vremenu izvršavanja">
+<!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
+<!ENTITY runtimedetails_summonADBRoot "root uređaj">
+<!ENTITY runtimedetails_ADBRootWarning "(zahtjeva otključani bootloader)">
+<!ENTITY runtimedetails_restrictedPrivileges "DevTools ograničena dopuštenja: ">
+<!ENTITY runtimedetails_requestPrivileges "zatraži veća dopuštenja">
+<!ENTITY runtimedetails_privilegesWarning "(Ponovno će pokrenuti uređaj. Zahtijeva root pristup.)">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "Zaslon">
 <!ENTITY monitor_help "Pomoć">

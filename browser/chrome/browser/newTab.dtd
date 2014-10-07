@@ -5,11 +5,11 @@
 
 <!ENTITY newtab.pageTitle "Nova kartica">
 
-
-
-
-
-
+<!ENTITY newtab.customize.enhanced "Poboljšano">
+<!ENTITY newtab.customize.classic "Klasično">
+<!ENTITY newtab.customize.blank "Prazno">
+<!ENTITY newtab.customize.what "Što je ova stranica?">
+<!ENTITY newtab.intro.header "Što je ova stranica?">
 <!ENTITY newtab.undo.removedLabel "Sličica uklonjena.">
 <!ENTITY newtab.undo.undoButton "Poništi.">
 <!ENTITY newtab.undo.restoreButton "Vrati sve.">
