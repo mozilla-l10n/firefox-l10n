@@ -750,3 +750,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY switchToMetroCmd2.label       "Restartigi en &brandShortName; por Windows 8 Touch">
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Forgesi la lastajn:">
+<!ENTITY panicButton.view.5min                    "5 minutojn">
+<!ENTITY panicButton.view.2hr                     "2 horojn">
+<!ENTITY panicButton.view.day                     "24 horojn">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Je daŭrigo:">
+<!ENTITY panicButton.view.deleteCookies           "Viŝi ĵusajn <html:strong>kuketojn</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Viŝi ĵusajn <html:strong>historion</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fermi ĉiujn <html:strong>langetojn</html:strong> kaj <html:strong>fenestrojn</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Malfermi novan malplenan fenestron">
+
+<!ENTITY panicButton.view.undoWarning             "Tiu ĉi ago ne povas esti malfarita.">
+<!ENTITY panicButton.view.forgetButton            "Forgesi!">
+
+<!ENTITY panicButton.thankyou.msg1                "Via ĵusa historio estis viŝita.">
+<!ENTITY panicButton.thankyou.msg2                "Sekura retesploro!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Dankon!">
+
