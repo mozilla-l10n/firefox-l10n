@@ -13,13 +13,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "பதிவிறக்கங்கள்">
 
-
-
-
-
-
-
-
+<!ENTITY cmd.pause.label                  "இடைநிறுத்தம்">
+<!ENTITY cmd.pause.accesskey              "இ">
+<!ENTITY cmd.resume.label                 "தொடரவும்">
+<!ENTITY cmd.resume.accesskey             "த">
+<!ENTITY cmd.cancel.label                 "இரத்து">
+<!ENTITY cmd.cancel.accesskey             "இ">
+<!ENTITY cmd.show.label                   "உள்ள அடைவைனை திற">
+<!ENTITY cmd.show.accesskey               "அ">
 <!ENTITY cmd.showMac.label                "தேடுவதில் காட்டு">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "திற">
@@ -30,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "பதிவிறக்க பக்கத்திற்கு செல்">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "பதிவிறக்க இணைப்பை நகலெடு">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ப">
 <!ENTITY cmd.removeFromList.label         "பட்டியலிலிருந்து நீக்கு">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
