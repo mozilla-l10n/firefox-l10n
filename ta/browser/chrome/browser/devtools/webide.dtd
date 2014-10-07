@@ -17,9 +17,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "செயற்திட்டத்தை நீக்கு">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "முன்னுரிமைகள்">
 
 
 
@@ -54,17 +54,19 @@
 
 
 
-
+<!ENTITY runtimePanel_custom "தனிபயன்">
 <!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
 
 
 <!-- Lense -->
 
-
-
+<!ENTITY details_valid_header "சரியானது">
+<!ENTITY details_warning_header "எச்சரிக்கைகள்">
+<!ENTITY details_error_header "பிழைகள்">
+<!ENTITY details_description "விவரம்">
 <!ENTITY details_location "இடம்">
 
-
+<!ENTITY details_removeProject_button "செயற்திட்டத்தை நீக்கு">
 <!-- New App -->
 
 
@@ -78,7 +80,9 @@
 <!ENTITY addons_aboutaddons "கூடுதல் இணைப்புகள் மேலாளரை திற">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "முன்னுரிமைகள்">
 
+<!ENTITY prefs_general_title "பொது">
 <!ENTITY prefs_restore "முன்னிருப்பை மீட்டமைக்கவும்">
 
 
@@ -89,16 +93,16 @@
 
 
 
+<!ENTITY prefs_options_tabsize "தத்தல் அளவு">
 
-
-
+<!ENTITY prefs_options_expandtab_tooltip "தத்தலுக்கு பதில் இடைவெளிகளைப் பயன்படுத்து">
 
 <!ENTITY prefs_options_detectindentation_tooltip "மூல உள்ளடக்கத்தின் அடிப்படையில் உள்தள்ளலை ஊகி">
-
+<!ENTITY prefs_options_autocomplete "தானாக முடியும்">
 
 <!ENTITY prefs_options_autoclosebrackets "அடைப்புக் குறிகளை தானாக மூடு">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "மூடும் அடைப்புக் குறிகளை தானாக இடு">
-
+<!ENTITY prefs_options_keybindings "விசைப்பிணைப்புகள்">
 <!ENTITY prefs_options_keybindings_default "முன்னிருப்பு">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "பெயர்">

@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "மேல் சொடுக்கு">
+
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
+
+<!ENTITY profilerUI.stopNotice1    "மேல் சொடுக்கு">
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -26,9 +32,11 @@
 <!ENTITY profilerUI.importButton "இறக்குமதி செய்…">
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
+
+<!ENTITY profilerUI.clearButton "துடை">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-
+<!ENTITY profilerUI.table.percentage  "விலை">
 
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown

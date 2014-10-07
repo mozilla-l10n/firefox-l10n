@@ -177,7 +177,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "அடைப்புக் குறிகளை தானாக மூடு">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "மூடும் அடைப்புக் குறிகளை தானாக இடு">
 <!ENTITY options.sourceeditor.expandtab.label           "இடைவெளியைப் பயன்படுத்தி உள்தள்ளு">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "தத்தலுக்கு பதில் இடைவெளிகளைப் பயன்படுத்து">
 <!ENTITY options.sourceeditor.tabsize.label             "Tab அளவு">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Kவிசைப்பிணைப்புகள்">

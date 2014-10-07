@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "பரிவு வடிவமைப்பை பார்வையிடு">
 <!ENTITY responsiveDesignTool.accesskey "ப">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "கண் துளிசொட்டி(E)">
 <!ENTITY eyedropper.accesskey "E">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -700,13 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "முன்னிருப்பை மீட்டமைக்கவும்">
 <!ENTITY customizeMode.toolbars "கருவிபட்டைகளை காட்டு / மறை">
 <!ENTITY customizeMode.titlebar "தலைப்பு பட்டி">
+<!ENTITY customizeMode.lwthemes "கருப்பொருள்கள்">
+<!ENTITY customizeMode.lwthemes.myThemes "என் கருப்பொருள்கள்">
+<!ENTITY customizeMode.lwthemes.recommended "பரிந்துரைக்கப்பட்டது">
 
-
-
-
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
@@ -724,21 +724,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "இந்த உள்ளடக்கம் தடுக்கபப்ட்டாலும், பெரும்பாலான வலைத்தளங்கள் சரியாக செயல்படும்.">
 
 
+<!ENTITY mixedContentBlocked2.learnMore "மேலும் அறிய">
+<!ENTITY mixedContentBlocked2.options "தேர்வுகள்">
 
 
-
-
-
+<!ENTITY mixedContentBlocked2.block.label "பாதுகாப்பைச் செயல்படுத்து">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
 
 
 <!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
 
-
-
-
-
+<!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
+<!ENTITY trackingContentBlocked.options "தேர்வுகள்">
+<!ENTITY trackingContentBlocked.unblock.label2 "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு">
+<!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
 
 
 <!ENTITY pointerLock.notification.message "எப்போது வேண்டுமானாலும் மீண்டும் இதைக் காண்பிக்க ESC ஐ அழுத்தவும்.">
@@ -768,4 +770,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "பக்கப்பட்டைகள்">
 
 <!ENTITY switchToMetroCmd2.label       "விண்டோஸ் 8 தொடு கணினிக்கு &brandShortName; இல் மறுதுவக்க செய்ய வேண்டும்">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.5min                    "ஐந்து நிமிடங்கள்">
+<!ENTITY panicButton.view.2hr                     "இரண்டு மணிநேரம்">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.deleteCookies           "சமீபத்திய <html:strong>நினைவிகளை</html:strong> அழி">
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "இந்த செயல் மறைக்க முடியாது.">
+
+
+
+
 
