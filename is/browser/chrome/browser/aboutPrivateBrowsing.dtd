@@ -8,6 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; mun ekki muna ferla fyrir þennan glugga.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; man ekki muna ferla fyrir einkaglugga.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Það inniheldur ferilsögu, leitarsögu, niðurhalsferil, innslátt á form, smákökur, og tímbundnar skrár. En, skrár sem þú hefur halað niður og bókamerki verða geymd áfram.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Þú ert ekki í einkaglugga.">
 
