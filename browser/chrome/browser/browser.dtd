@@ -775,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Dìochuimhnich:">
+<!ENTITY panicButton.view.5min                    "na 5 mionaidean seo chaidh">
+<!ENTITY panicButton.view.2hr                     "an dà uair a thìde seo chaidh">
+<!ENTITY panicButton.view.day                     "na 24 uair a thìde seo chaidh">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Ma leanas tu air adhart:">
+<!ENTITY panicButton.view.deleteCookies           "thèid <html:strong>briosgaidean</html:strong> ùra a sguabadh às">
+<!ENTITY panicButton.view.deleteHistory           "thèid an <html:strong>eachdraidh</html:strong> ùr a sguabadh às">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "thèid na <html:strong>tabaichean</html:strong> is <html:strong>uinneagan</html:strong> air fad a dhùnadh">
+<!ENTITY panicButton.view.openNewWindow           "thèid uinneag ùr bhàn fhosgladh">
 
 <!ENTITY panicButton.view.undoWarning             "Chan urrainn dhut an gnìomh seo a neo-dhèanamh.">
+<!ENTITY panicButton.view.forgetButton            "Dìochuimhnich!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Chaidh an eachdraidh ùr agad a sguabadh às.">
+<!ENTITY panicButton.thankyou.msg2                "Brabhsadh sàbhailte!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Mòran taing!">
 
