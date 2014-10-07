@@ -95,12 +95,12 @@
 <!ENTITY prefs_simulators "Симуляторларды басқару">
 
 
-
-
-
-
-
-
+<!ENTITY prefs_options_rememberlastproject "Соңғы жобаны есте сақтау">
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE іске қосылғанда алдыңғы жобаны ашу">
+<!ENTITY prefs_options_templatesurl "Үлгілер сілтемесі">
+<!ENTITY prefs_options_templatesurl_tooltip "Қолжетерлік үлгілер индексі">
+<!ENTITY prefs_options_showeditor "Түзеткішті көрсету">
+<!ENTITY prefs_options_showeditor_tooltip "Ішкі түзеткішті көрсету">
 <!ENTITY prefs_options_tabsize "Табуляция өлшемі">
 
 <!ENTITY prefs_options_expandtab_tooltip "Табуляция орнына бос аралық таңбасын қолдану">
