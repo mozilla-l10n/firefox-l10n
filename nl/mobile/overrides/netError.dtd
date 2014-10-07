@@ -22,8 +22,8 @@
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>
-  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
-    <button id='wifi'>Wi-Fi inschakelen</button>
+  <li>Controleer de gegevens- of wifi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+    <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
 ">
@@ -62,7 +62,7 @@
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Probeer het opnieuw. &brandShortName; zal proberen een verbinding te openen en de pagina opnieuw laden.
-    <button id='wifi'>Wi-Fi inschakelen</button>
+    <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
 ">
@@ -107,8 +107,8 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Controleer of uw proxyinstellingen juist zijn.</li>
-  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of Wi-Fi-verbinding heeft.
-    <button id='wifi'>Wi-Fi inschakelen</button>
+  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of wifi-verbinding heeft.
+    <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
 ">
@@ -151,8 +151,8 @@
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>
-  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
-    <button id='wifi'>Wi-Fi inschakelen</button>
+  <li>Controleer de gegevens- of wifi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+    <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
 ">

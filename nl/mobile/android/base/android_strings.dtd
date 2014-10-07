@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Bestand kiezen">
 
-<!ENTITY url_bar_default_text2 "Zoeken of voer adres in">
+<!ENTITY url_bar_default_text2 "Voer zoekterm of adres in">
 
 <!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
@@ -69,11 +69,10 @@
 <!ENTITY num_tabs2 "&formatD; tabbladen">
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
 <!ENTITY new_private_tab_opened "Nieuw privétabblad geopend">
-
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "WISSEL">
+<!ENTITY switch_button_message "WISSELEN">
 
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
@@ -89,7 +88,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Standaardwaarde systeem">
+<!ENTITY locale_system_default "Systeemstandaard">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -100,16 +99,16 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bladwijzer maken">
-<!ENTITY overlay_share_reading_list_btn_label "Aan leeslijst toevoegen">
-<!ENTITY overlay_share_send_other "Naar andere apparaten verzenden">
+<!ENTITY overlay_share_reading_list_btn_label "Toevoegen aan leeslijst">
+<!ENTITY overlay_share_send_other "Verzenden naar andere apparaten">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Naar andere apparaten verzenden">
+<!ENTITY overlay_share_send_tab_btn_label "Verzenden naar ander apparaat">
 <!ENTITY overlay_share_no_url "Geen koppeling gevonden in deze deler">
-<!ENTITY overlay_share_retry "Nogmaals proberen">
+<!ENTITY overlay_share_retry "Opnieuw proberen">
 <!ENTITY overlay_share_select_device "Apparaat selecteren">
 
 <!ENTITY pref_category_search3 "Zoeken">
@@ -148,8 +147,8 @@
 <!ENTITY pref_home_updates "Automatische updates">
 <!ENTITY pref_home_updates_enabled "Ingeschakeld">
 <!ENTITY pref_home_updates_wifi "Alleen via wifi">
-<!ENTITY pref_home_suggested_sites "Websitesugesties tonen">
-<!ENTITY pref_home_suggested_sites_summary "Toont snelkoppelingen naar websites waarvan wij denken dat u ze interessant vind op uw startpagina">
+<!ENTITY pref_home_suggested_sites "Websitesuggesties tonen">
+<!ENTITY pref_home_suggested_sites_summary "Snelkoppelingen naar websites die u mogelijk interessant vindt op uw startpagina weergeven">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Aanpassen">
@@ -177,7 +176,7 @@
 <!ENTITY pref_clear_private_data_category "Privégegevens wissen">
 <!ENTITY pref_clear_on_exit_title "Altijd wissen bij afsluiten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u201CAfsluiten\u201D selecteert in het hoofdmenu">
-<!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens te wissen">
+<!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens u wilt wissen">
 <!ENTITY pref_plugins "Plug-ins">
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
@@ -230,7 +229,7 @@ size. -->
 
 <!ENTITY pref_panels_show "Tonen">
 <!ENTITY pref_panels_hide "Verbergen">
-<!ENTITY pref_panels_reorder "Volgorde aanpassen">
+<!ENTITY pref_panels_reorder "Volgorde wijzigen">
 <!ENTITY pref_panels_move_up "Omhoog verplaatsen">
 <!ENTITY pref_panels_move_down "Omlaag verplaatsen">
 
@@ -257,8 +256,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-locatieservice">
-<!ENTITY datareporting_wifi_geolocation_summary "Ontvangt Wi-Fi en gsm-locatiegegevens wanneer het op de achtergrond wordt uitgevoerd en deelt deze met &vendorShortName; om onze geolocatieservices te verbeteren">
-
+<!ENTITY datareporting_wifi_geolocation_summary "Ontvangt wifi- en gsm-locatiegegevens bij uitvoeren op de achtergrond en deelt deze met &vendorShortName; om onze geolocatieservice te verbeteren">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -305,7 +303,7 @@ size. -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "Naar apparaat verzenden">
+<!ENTITY media_sending_to "Verzenden naar apparaat">
 <!ENTITY media_play "Afspelen">
 <!ENTITY media_pause "Pauzeren">
 <!ENTITY media_stop "Stoppen">
@@ -332,8 +330,8 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Volledig scherm navigeren">
-<!ENTITY pref_scroll_title_bar_summary "&brandShortName;-titelbalk verbergen tijdens het naar beneden scrollen van een pagina">
+<!ENTITY pref_scroll_title_bar2 "Volledigschermnavigatie">
+<!ENTITY pref_scroll_title_bar_summary "De &brandShortName;-titelbalk verbergen tijdens het omlaag scrollen op een pagina">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -381,13 +379,13 @@ size. -->
 <!ENTITY home_history_title "Geschiedenis">
 <!ENTITY home_clear_history_button "Geschiedenis wissen">
 <!ENTITY home_clear_history_confirm "Weet u zeker dat u uw geschiedenis wilt wissen?">
-<!ENTITY home_bookmarks_empty "Opgeslagen bladwijzers verschijnen hier.">
+<!ENTITY home_bookmarks_empty "Hier verschijnen uw opgeslagen bladwijzers.">
 <!ENTITY home_closed_tabs_title "Onlangs gesloten tabbladen">
 <!ENTITY home_last_tabs_title "Tabbladen van de vorige keer">
-<!ENTITY home_last_tabs_empty "Uw recente tabbladen verschijnen hier.">
+<!ENTITY home_last_tabs_empty "Hier verschijnen uw recente tabbladen.">
 <!ENTITY home_open_all "Alle openen">
-<!ENTITY home_most_recent_empty "Meest recent bezochte websites verschijnen hier.">
-<!ENTITY home_reading_list_empty "Artikelen die u voor later opslaat verschijnen hier.">
+<!ENTITY home_most_recent_empty "Hier verschijnen uw meest recent bezochte websites.">
+<!ENTITY home_reading_list_empty "Hier verschijnen artikelen die u voor later opslaat.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
@@ -406,7 +404,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "Terug naar &formatS;">
 
 <!ENTITY private_browsing_title "Privénavigatie">
-<!ENTITY private_tabs_panel_empty_desc "Uw privétabbladen zullen hier verschijnen. Hoewel we geen navigatiegeschiedenis of cookies bewaren, worden bladwijzers en bestanden die u download wel opgeslagen op uw apparaat.">
+<!ENTITY private_tabs_panel_empty_desc "Hier zullen uw privétabbladen verschijnen. Hoewel we geen navigatiegeschiedenis of cookies bewaren, worden bladwijzers en bestanden die u downloadt wel op uw apparaat opgeslagen.">
 <!ENTITY private_tabs_panel_learn_more "Wilt u meer info?">
 
 <!ENTITY pin_site_dialog_hint "Voer een zoekterm in">
