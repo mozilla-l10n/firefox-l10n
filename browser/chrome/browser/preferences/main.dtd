@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണം എന്നു എപ്പോഴും ചോദിക്കുക">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍">
+
+
