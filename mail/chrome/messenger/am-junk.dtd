@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Posta indesiderata">
-<!ENTITY trainingDescription.label "Se abilitata è necessario istruire &brandShortName; ad identificare la posta indesiderata usando il tasto Posta indesiderata per segnare i messaggi indesiderati o no. Si devono identificare sia i messaggi indesiderati sia quelli non indesiderati. In questo modo &brandShortName; sarà in grado di contrassegnare la posta indesiderata autonomamente.">
+<!ENTITY trainingDescription.label "Se abilitata è necessario istruire &brandShortName; a identificare la posta indesiderata usando il tasto Posta indesiderata per segnare i messaggi indesiderati o no. Si devono identificare sia i messaggi indesiderati sia quelli non indesiderati. In questo modo &brandShortName; sarà in grado di contrassegnare la posta indesiderata autonomamente.">
 <!ENTITY level.label "Attiva i controlli incrementali di posta indesiderata per questo account">
 <!ENTITY level.accesskey "v">
 <!ENTITY move.label "Sposta i nuovi messaggi di posta indesiderata in:">

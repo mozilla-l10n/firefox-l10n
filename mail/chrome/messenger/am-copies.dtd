@@ -8,7 +8,7 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">
 <!ENTITY fccReplyFollowsParent.accesskey "u">
-<!ENTITY ccAddress.label "Cc questi indirizzi di posta:">
+<!ENTITY ccAddress.label "Cc a questi indirizzi di posta:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separare gli indirizzi con virgole">
 <!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">

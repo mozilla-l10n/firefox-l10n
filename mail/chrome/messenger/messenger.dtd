@@ -407,7 +407,7 @@
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Aprire come sommario">
 <!ENTITY openFeedSummary.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web ed il sommario nel riquadro dell'anteprima">
+<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web e il sommario nel riquadro dell'anteprima">
 <!ENTITY openFeedWebPageInMP.accesskey "S">
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY tasksMenu.label "Strumenti">
