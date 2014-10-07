@@ -8,21 +8,22 @@
 <!ENTITY intro.happyLink "Mi piace">
 <!ENTITY intro.sadLink "Ho riscontrato dei problemi">
 <!ENTITY intro.maybeLater "Magari più tardi">
-<!ENTITY support.pre2 "Visita il sito ">
-<!ENTITY support.link "Supporto per &brandShortName;">
-<!ENTITY support.post2 " per ulteriori informazioni.">
+<!ENTITY support.pre3 "Visita il nostro ">
+<!ENTITY support.link2 "sito di supporto">
+<!ENTITY support.post3 " per trovare la soluzione ai problemi più frequenti.">
 <!ENTITY happy.header "Ottimo!">
 <!ENTITY happy.message "Vuoi condividere il tuo apprezzamento assegnandoci 5 stelle su Google Play?">
 <!ENTITY happy.finePrint "Richiede meno di un minuto e ti farà sentire bene.">
 <!ENTITY happy.ratingLink "Sì, apri Google Play">
 <!ENTITY happy.maybeLater2 "Magari più tardi">
 <!ENTITY happy.noThanks "No grazie">
+<!ENTITY sad.header "Oh no!">
 <!ENTITY sad.message "Ci dispiace che tu abbia riscontrato dei problemi con &brandShortName;. Spiegaci che cosa è successo e cercheremo di risolverli.">
 <!ENTITY sad.placeholder "Inserisci i tuoi commenti">
-<!ENTITY sad.lastSite "Ultimo sito visitato (facoltativo)">
+<!ENTITY sad.lastSite2 "Includi l’ultimo sito visitato">
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "Grazie per avercelo comunicato.">
+<!ENTITY sad.thanksHeader2 "Grazie.">
 <!ENTITY sad.thanksMessageTop "Siamo costantemente al lavoro per migliorare &brandShortName;. Ti garantiamo che persone in carne e ossa leggeranno i tuoi commenti e faranno del loro meglio per risolvere il problema.">
 <!ENTITY sad.thanksMessageBottom "È una promessa.">
-<!ENTITY feedback.privacy "Per proteggere la tua privacy non includere alcuna informazione personale nei tuoi commenti.">
+<!ENTITY feedback.privacy2 "Per proteggere la tua privacy non includere alcuna informazione personale nel tuo commento.">
 <!ENTITY feedback.send "Invia commento">
