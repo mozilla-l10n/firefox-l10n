@@ -19,8 +19,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "r">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
-
-
+<!ENTITY cmd.show.label                   "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey               "o">
 <!ENTITY cmd.showMac.label                "Mostrar en Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Abrir">
@@ -31,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Ir a la página de la descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "Copiar enlace de descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey   "e">
 <!ENTITY cmd.removeFromList.label         "Eliminar de la lista">
 <!ENTITY cmd.removeFromList.accesskey     "E">
 

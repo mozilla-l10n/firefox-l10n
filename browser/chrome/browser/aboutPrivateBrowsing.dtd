@@ -8,7 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; no recordará nada del historial para esta ventana.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; no guardará el historial de esta ventana.">
 
-<!ENTITY aboutPrivateBrowsing.description      "Esto incluye el historial de navegación, búsqueda, descargas y formularios web; cookies y archivos temporales de internet. Sin embargo, tus descargas y marcadores serán conservados.">
+<!ENTITY aboutPrivateBrowsing.description      "Eso incluye el historial de navegación, búsqueda, descargas y formularios web; cookies y archivos temporales de internet. Sin embargo, tus descargas y marcadores se conservarán.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Actualmente no estás en una ventana privada.">
 
