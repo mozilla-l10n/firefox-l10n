@@ -11,15 +11,23 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "Spustelėkite mygtuką">
+<!ENTITY profilerUI.emptyNotice2    "„JavaScript“ funkcijų kreipinių įrašymui pradėti.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "Spustelėkite mygtuką">
+<!ENTITY profilerUI.stopNotice2    "vėl profiliavimui užbaigti.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "Įkeliama…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "Įrašyti „JavaScript“ funkcijų kreipinius.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -31,7 +39,9 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
+<!ENTITY profilerUI.table.duration    "Laikas (ms)">
+<!ENTITY profilerUI.table.percentage  "Kaštai">
+<!ENTITY profilerUI.table.invocations "Kreipiniai">
+<!ENTITY profilerUI.table.function    "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

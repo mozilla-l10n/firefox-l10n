@@ -20,9 +20,13 @@
 <!ENTITY shaderEditorUI.fragmentShader  "Fragment Shader">
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice1): This is the label shown
   -  on the button that triggers a page refresh. -->
+
+<!ENTITY shaderEditorUI.reloadNotice1   "Įkelkite tinklalapį iš naujo">
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY shaderEditorUI.reloadNotice2   ", kad galėtumėte redaguoti GLSL kodą.">
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
 
-<!ENTITY shaderEditorUI.emptyNotice     "Laukiama, kol bus sukurtas WebGL kontekstas…">
+<!ENTITY shaderEditorUI.emptyNotice     "Laukiama, kol bus sukurtas „WebGL“ kontekstas…">
