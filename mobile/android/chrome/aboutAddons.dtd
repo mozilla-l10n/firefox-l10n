@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Dodatki">
 <!ENTITY aboutAddons.header2                    "Moji dodatki">
 <!ENTITY aboutAddons.options                    "Možnosti">
-<!ENTITY aboutAddons.browseAll                  "Prebrskaj vse dodatke za Firefox">
 
 <!ENTITY addonAction.enable                     "Omogoči">
 <!ENTITY addonAction.disable                    "Onemogoči">

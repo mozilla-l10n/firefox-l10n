@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
+<!ENTITY pref_category_customize_summary "Dom, iskanje, zavihki, uvoz">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Jezik">
+<!ENTITY pref_category_language_summary "Spremenite jezik vašega brskalnika">
 <!ENTITY pref_browser_locale "Jezik brskalnika">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Dodaj stran med zaznamke">
 <!ENTITY overlay_share_reading_list_btn_label "Dodaj na bralni seznam">
+<!ENTITY overlay_share_bookmark_btn_label_already "Že med zaznamki">
+<!ENTITY overlay_share_reading_list_btn_label_already "Že na bralnem seznamu">
 <!ENTITY overlay_share_send_other "Pošlji na druge naprave">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Iskanje">
 <!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
 <!ENTITY pref_category_display "Prikaži">
+<!ENTITY pref_category_display_summary "Besedilo, naslovna vrstica, celozaslonsko brskanje">
 <!ENTITY pref_category_privacy_short "Zasebnost">
+<!ENTITY pref_category_privacy_summary "Nadzor gesel, piškotkov, sledenja, podatkov">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "O &brandShortName;u, pogosta vprašanja, nastavitve podatkov">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
 <!ENTITY pref_learn_more "Več o tem">
 <!ENTITY pref_category_installed_search_engines "Nameščeni iskalniki">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
+<!ENTITY pref_category_devtools_summary "Oddaljeno razhroščevanje, utripanje izrisovanja">
 <!ENTITY pref_developer_paint_flashing "Utripanje izrisovanja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_sync "Sinhroniziraj">
+<!ENTITY pref_sync_summary "Sinhronizirajte zavihke, zaznamke, gesla in zgodovino">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
+<!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
 <!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
@@ -291,7 +301,8 @@ size. -->
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
 <!ENTITY tabs_synced "Sinhronizirano">
-<!ENTITY set_image_fail "Ne morem nastaviti slike">
+<!ENTITY set_image_fail "Ni mogoče nastaviti slike">
+<!ENTITY set_image_path_fail "Ni mogoče shraniti slike">
 <!ENTITY set_image_chooser_title "Nastavi sliko kot">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,6 +414,26 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Nazaj na &formatS;">
 
+<!ENTITY home_remote_tabs_title "Sinhronizirani zavihki">
+<!ENTITY home_remote_tabs_empty "Tukaj bodo prikazani vaši zavihki iz drugih naprav.">
+<!ENTITY home_remote_tabs_unable_to_connect "Povezava neuspešna">
+<!ENTITY home_remote_tabs_need_to_sign_in "Prijavite se za ponovno povezavo vašega Firefox Računa in nadaljevanje sinhronizacije.">
+<!ENTITY home_remote_tabs_trouble_verifying "Težave pri preverjanju vašega računa?">
+<!ENTITY home_remote_tabs_need_to_verify "Preverite vaš Firefox Račun za začetek sinhronizacije.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 naprava skrita">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Več skritih naprav (&formatD;)">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Skrite naprave">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži izbrane naprave">
+
 <!ENTITY private_browsing_title "Zasebno brskanje">
 <!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškotki ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
 <!ENTITY private_tabs_panel_learn_more "Želite izvedeti več?">
@@ -475,6 +506,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Na voljo je posodobitev za &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapnite za posodobitev">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Za uveljavitev sprememb ponovno zaženite brskalnik">
+<!ENTITY new_tablet_pref "Omogoči nov tablični vmesnik">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
 <!ENTITY exit_guest_session "Izhod iz gostujoče seje">
@@ -482,6 +519,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Prekliči">
 <!ENTITY new_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
 <!ENTITY new_guest_session_text "Oseba, ki jo bo uporabljala, ne bo videla vaših podatkov o brskanju (npr. gesel, zgodovine ali zaznamkov). Ko bo končala z delom, bodo njeni podatki izbrisani in vaša seja se bo obnovila.">
+<!ENTITY guest_browsing_notification_title "Gostujoče brskanje je omogočeno">
+<!ENTITY guest_browsing_notification_text "Tapnite za izhod">
 
 <!ENTITY exit_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
 <!ENTITY exit_guest_session_text "Podatki o brskanju v tej seji bodo izbrisani.">
