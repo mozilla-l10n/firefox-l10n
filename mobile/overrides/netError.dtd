@@ -86,7 +86,7 @@ fungerar.</li>
 <!ENTITY proxyResolveFailure.title "Kan inte hitta proxyservern">
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Kontrollera att proxyinställningarna är riktiga.</li> 
-<li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning.</li> 
+<li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning. 
 <button id='wifi'>Slå på Wi-Fi</button> 
 </li> 
 </ul>">
@@ -119,7 +119,7 @@ någon annan felaktigt utger sig för att vara servern.</li>
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> 
-<li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning.</li> 
+<li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning. 
 <button id='wifi'>Slå på Wi-Fi</button> 
 </li> 
 </ul>">
