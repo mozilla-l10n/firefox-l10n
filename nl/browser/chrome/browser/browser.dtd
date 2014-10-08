@@ -697,6 +697,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
 <!ENTITY customizeMode.toolbars "Werkbalken tonen/verbergen">
 <!ENTITY customizeMode.titlebar "Titelbalk">
+<!ENTITY customizeMode.lwthemes "Thema’s">
+<!ENTITY customizeMode.lwthemes.myThemes "Mijn thema’s">
+<!ENTITY customizeMode.lwthemes.recommended "Aanbevolen">
+<!ENTITY customizeMode.lwthemes.menuManage "Beheren">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Meer thema’s verkrijgen">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chats op voorgrond">
