@@ -26,7 +26,7 @@ that require it.  -->
 
 <!ENTITY itemHistory.label                 "Zgodovina brskanja">
 <!ENTITY itemHistory.accesskey             "b">
-<!ENTITY itemCookies.label                 "Piškotki">
+<!ENTITY itemCookies.label                 "Piškoti">
 <!ENTITY itemCookies.accesskey             "P">
 <!ENTITY itemCache.label                   "Predpomnilnik">
 <!ENTITY itemCache.accesskey               "r">
