@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressing.label "Composizione ed indirizzi">
+<!ENTITY addressing.label "Composizione e indirizzi">
 <!ENTITY addressingGroupTitle.label "Indirizzi">
 <!ENTITY addressingText.label "Quando si cercano indirizzi:">
 <!ENTITY useGlobal.label "Utilizza le preferenze globali per i server LDAP per questo account">
