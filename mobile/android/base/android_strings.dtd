@@ -439,6 +439,10 @@ size. -->
 <!ENTITY private_tabs_panel_empty_desc "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď neuchovávame vašu históriu prehliadania alebo súbory cookies, záložky a prevzaté súbory budú uložené na disku vášho zariadenia.">
 <!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
 
+<!ENTITY remote_tabs_panel_moved_title "Kam zmizli moje karty?">
+<!ENTITY remote_tabs_panel_moved_desc "Karty z vašich ďalších zariadení sme presunuli do panela na vašej domovskej stránke, ktorá sa zobrazí zakaždým, keď otvoríte novú kartu.">
+<!ENTITY remote_tabs_panel_moved_link "Prejsť na môj nový panel">
+
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
