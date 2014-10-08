@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Rodyti daugiau parinkčių">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Pakartotinai patvirtinti">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Nusiųsti pakartotinį patvirtinimą įvykio organizatoriui">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Įrašyti kopiją">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Įrašyti įvykio kopiją nepriklausomai nuo atsakymo jo organizatoriui. Įvykio dalyvių sąrašas bus išvalytas.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Priimti preliminariai">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Preliminariai priimti kvietimą į įvykį">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Visus priimti preliminariai">
