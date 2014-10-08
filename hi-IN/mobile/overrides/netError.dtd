@@ -11,17 +11,18 @@
 
 
 <!ENTITY connectionFailure.title "कनेक्ट करने में असमर्थ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "यह पता प्रतिबंधित है">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Check the address for typing errors such as 
-<strong>ww</strong>.example.com instead of 
-<strong>www</strong>.example.com</li> 
-<li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>टाइपिंग त्रुटियों के लिए पता जाँचें, जैसे कि 
+<strong>www</strong>.example.com की बजाय 
+<strong>ww</strong>.example.com</li> 
+<li>अगर आप कोई भी पृष्ठ लोड करने मे असमर्थ है तो आपके साधन का डाटा या वाई-फाई कनेक्शन जाँचें. 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहीं मिली">
@@ -43,14 +44,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित किया गया था">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्तावेज़ का समय समाप्त">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन मोड">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>फिरसे प्रयास करें. &brandShortName; कनेक्शन खोलने और पृष्ठ रिलोड करने का प्रयास करेगा. 
+<button id='wifi'>वाई-फाई शुरू करें</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
@@ -64,10 +67,10 @@
 </ul>">
 
 <!ENTITY netReset.title "कनेक्शन रिसेट किया गया था">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "कनेक्शन का समय समाप्त हो गया">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +84,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>वे सही हैं यह सुनिश्चत करने के लिए प्रॉक्सी सेटिंग्स को जाँचें। </li> 
-<li>यह सुनिश्चत करने के लिए जाँचें कि आपके डिवाइस का वर्किंग डाटा या Wi-Fi कनेक्शन है।</li> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>जाँचें और यह सुनिश्चत करें कि प्रॉक्सी सेटिंग्स सही हैं.</li> 
+<li>जाँचें और यह सुनिश्चत करें कि आपके साधन का डाटा या वाई-फाई कनेक्शन शुरू है. 
+<button id='wifi'>वाई-फाई शुरू करें</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
@@ -98,7 +103,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं, नहीं दिखाया जा सकता क्योंकि प्राप्त डाटा की प्रमाणिकता जाॅंची नहीं जा सकी.</li> 
+<li>कृपया वेबसाइट के मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -106,9 +114,11 @@
 <li>यदि आप सर्वर से पीछे सफलतापूर्वक कनेक्ट हो चुके हैं, त्रुटि अस्थायी हो सकती है, और आप इसे बाद में फिर कोशिश कर सकते हैं.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> 
-<li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>साइट अस्थायी रूप से अनुपलब्ध अथवा अति व्यस्त रह सकती है. कुछ क्षणों में फिरसे प्रयास करें.</li> 
+<li>यदि आप कोई भी पृष्ठ लोड करने मे असमर्थ है तो आपके साधन का डाटा या वाई-फाई कनेक्शन जाँचें. 
+<button id='wifi'>वाई-फाई शुरू करें</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
@@ -117,8 +127,8 @@
 <!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
-<!ENTITY securityOverride.linkText "या आप एक अपवाद जोड़ सकते हैं…">
-<!ENTITY securityOverride.getMeOutOfHereButton "यहाँ से मुझे बाहर ले जाएँ!">
+<!ENTITY securityOverride.linkText "या आप अपवाद जोड़ सकते हैं…">
+<!ENTITY securityOverride.getMeOutOfHereButton "यहाँ से मुझे बाहर निकालें!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ें…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

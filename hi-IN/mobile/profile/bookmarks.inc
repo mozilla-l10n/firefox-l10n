@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser फ़ायरफ़ॉक्स: आपके ब्राउज़र के बारे में
+#define bookmarks_aboutBrowser Firefox: आपके ब्राउज़र के बारे में
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons फ़ायरफ़ॉक्स : सहयुक्तियाँ मनपसंद बनाएँ
+#define bookmarks_addons Firefox: सहयुक्तियाँ मनपसंद बनाएँ
 
 
 
@@ -57,11 +57,11 @@
 
 
 
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 
 
 
-#define bookmarks_support फ़ायरफ़ॉक्स: समर्थन
+#define bookmarks_support Firefox: समर्थन
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace फ़ायरफ़ॉक्स बाज़ार
+#define bookmarks_marketplace Firefox Marketplace
 
 
 
