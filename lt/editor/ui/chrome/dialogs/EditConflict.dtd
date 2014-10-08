@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Pakeitimų pasirinkimas">
-<!ENTITY conflictWarning.label "Šį tinklalapį jau modifikavo kita programa, tačiau į jį dar neįrašyti rašyklės padaryti  pakeitimai.">
+<!ENTITY conflictWarning.label "Šį tinklalapį jau modifikavo kita programa, tačiau į jį dar neįrašyti rašyklės padaryti pakeitimai.">
 <!ENTITY conflictResolve.label "Pasirinkite, kurią versiją įrašyti:">
 <!ENTITY keepCurrentPageButton.label "Įrašyti į tinklalapį rašyklės padarytus pakeitimus">
 <!ENTITY useOtherPageButton.label "Pakeisti šį tinklalapį, įrašant kita programa padarytus pakeitimus">
