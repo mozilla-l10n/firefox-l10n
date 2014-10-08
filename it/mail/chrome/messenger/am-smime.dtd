@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Sicurezza">
 <!ENTITY securityTab.label "Sicurezza">
-<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o cifrati, devono essere specificati un certificato per la firma digitale ed un certificato per la cifratura.">
+<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o cifrati, devono essere specificati un certificato per la firma digitale e un certificato per la cifratura.">
 <!ENTITY encryptionGroupTitle.label "Cifratura">
 <!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
 <!ENTITY neverEncrypt.label "Mai (non cifrare)">
