@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Prieiga prie šio adreso apribota">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nerastas serveris">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Patikrinkite, ar adrese nepadarėte klaidų, pvz., 
 <strong>ww</strong>.pavyzdys.lt vietoje 
 <strong>www</strong>.pavyzdys.lt</li> 
-<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li> 
+<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su belaidžiu arba duomenų tinklu. 
+<button id='wifi'>Įjungti belaidį tinklą</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
@@ -43,14 +45,16 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 </ul>">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumento galiojimas baigėsi">
 <!ENTITY notCached.longDesc "<p>Prašomo dokumento programos „&brandShortName;“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama neprisijungus prie tinklo">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bandykite vėl. „&brandShortName;“ pamėgins iš naujo užmegzti ryšį ir įkelti tinklalapį.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Bandykite dar kartą. „&brandShortName;“ mėgins užmegzti ryšį ir įkelti tinklalapį iš naujo. 
+<button id='wifi'>Įjungti belaidį tinklą</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
@@ -64,10 +68,10 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 </ul>">
 
 <!ENTITY netReset.title "Ryšys nutrūko">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Baigėsi prisijungimui skirtas laikas">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Neatpažintas adresas">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +85,11 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> 
-<li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su tinklu.</li> 
+<li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su belaidžiu tinklu. 
+<button id='wifi'>Įjungti belaidį tinklą</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Neteisingas tinklalapio peradresavimas">
@@ -109,10 +115,12 @@ dešininiu brūkšniu <strong>/</strong>).</li>
 <li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir 
 bandykite prisijungti iš naujo.</li> 
-<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li> 
+<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su belaidžiu arba duomenų tinklu. 
+<button id='wifi'>Įjungti belaidį tinklą</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
