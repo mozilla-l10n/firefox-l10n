@@ -6,7 +6,7 @@
 
 <!ENTITY calendar.invitations.dialog.invitations.text                   "Povabila">
 <!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Posodabljanje seznama povabil.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Nepotrjenih povabil ni.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Nepotrjenih povabil ni bilo mogoče najti.">
 <!-- Calendar Invitations List -->
 
 <!ENTITY calendar.invitations.list.accept.button.label                  "Sprejmi">
@@ -16,4 +16,4 @@
 <!ENTITY calendar.invitations.list.location.text                        "Kraj: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Udeleženec: ">
-<!ENTITY calendar.invitations.list.none.text                            "brez">
+<!ENTITY calendar.invitations.list.none.text                            "Brez">

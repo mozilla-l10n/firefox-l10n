@@ -32,7 +32,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
+<!ENTITY event.attendees.notify.label               "Obvesti udeležence">
+<!ENTITY event.attendees.notifyundisclosed.label    "Loči povabila za posamezne udeležence">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Ta možnost pošlje eno e-poštno povabilo za posameznega udeleženca. Vsako povabilo vsebuje samo prejemnika-udeleženca, tako da drugi udeleženci niso razkriti.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "D">
@@ -140,16 +142,17 @@
 
 <!ENTITY  event.toolbar.save.label                        "Shrani in zapri">
 <!ENTITY  event.toolbar.delete.label                      "Izbriši">
-
+<!ENTITY  event.toolbar.attendees.label                   "Povabi udeležence">
 <!ENTITY  event.toolbar.privacy.label                     "Zasebnost">
 
-
-
-
-
-
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Shrani in zapri">
+<!ENTITY  event.toolbar.delete.tooltip                    "Izbriši">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Povabi udeležence">
+<!ENTITY  event.toolbar.attachments.tooltip               "Dodaj priloge">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Spremeni zasebnost">
+<!ENTITY  event.toolbar.priority.tooltip                  "Spremeni prednost">
+<!ENTITY  event.toolbar.status.tooltip                    "Spremeni stanje">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Spremeni prosti/zaseden čas">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Naslov:" >
@@ -158,7 +161,7 @@
 <!ENTITY event.location.accesskey                         "j">
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "t">
-
+<!ENTITY event.categories.textbox.label                   "Dodaj novo kategorijo" >
 <!ENTITY event.calendar.label                             "Koledar:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Udeleženci:" >
@@ -177,8 +180,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Ponovitev:" >
 <!ENTITY event.repeat.accesskey                           "v">
-
-
+<!ENTITY event.until.label                                "Do:">
+<!ENTITY event.until.accesskey                            "D">
 <!ENTITY event.reminder.label                             "Opomnik:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Opis:" >
@@ -215,7 +218,8 @@
 
 <!ENTITY event.reminder.multiple.label                    "Večkratni opomniki …" >
 
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Čas kot:">
+<!ENTITY event.statusbarpanel.privacy.label               "Zasebnost:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Uredi ponovitve">
@@ -327,8 +331,8 @@
 <!ENTITY invite.title.label                     "Povabi udeležence">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Predlagaj prosti čas:">
-
-
+<!ENTITY event.freebusy.button.next.slot        "Naslednji termin">
+<!ENTITY event.freebusy.button.previous.slot    "Prejšnji termin">
 <!ENTITY event.freebusy.zoom                    "Povečava:">
 <!ENTITY event.freebusy.legend.free             "brezplačno" >
 <!ENTITY event.freebusy.legend.busy             "Zasedeno" >
@@ -339,10 +343,10 @@
 <!ENTITY event.attendee.role.optional           "Neobvezni udeleženec">
 <!ENTITY event.attendee.role.chair              "Predsedujoči">
 <!ENTITY event.attendee.role.nonparticipant     "Nesodelujoči">
-
-
-
-
+<!ENTITY event.attendee.usertype.individual     "Posamezno">
+<!ENTITY event.attendee.usertype.group          "Skupina">
+<!ENTITY event.attendee.usertype.resource       "Vir">
+<!ENTITY event.attendee.usertype.room           "Klepetalnica">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Prosimo, navedite časovni pas">

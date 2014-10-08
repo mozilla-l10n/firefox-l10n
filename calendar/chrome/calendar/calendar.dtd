@@ -30,40 +30,40 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Končano">
-
-<!ENTITY calendar.unifinder.tree.priority.label            "Prioriteta">
-
-<!ENTITY calendar.unifinder.tree.title.label               "Naslov">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Razvrsti po izvršitvi">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prednost">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Razvrsti po prednosti">
+<!ENTITY calendar.unifinder.tree.title.label               "Naziv">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Razvrsti po nazivu">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; dokončano">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Razvrsti po &#037; c dokončano">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Pričetek">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Razvrsti po datumu">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Konec">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Razvrsti po datumu zaključka">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Rok">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Razvrsti po roku">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Dokončano">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Razvrsti po datumu dokončanja">
 <!ENTITY calendar.unifinder.tree.categories.label          "Kategorija">
-
-<!ENTITY calendar.unifinder.tree.location.label            "Lokacija">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Razvrsti po kategoriji">
+<!ENTITY calendar.unifinder.tree.location.label            "Mesto">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Razvrsti po mestu">
 <!ENTITY calendar.unifinder.tree.status.label              "Stanje">
-
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Razvrsti po stanju">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Ime koledarja">
-
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Razvrsti po imenu koledarja">
 <!ENTITY calendar.unifinder.tree.duration.label            "Zapade">
-
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Razvrsti po času do roka">
 <!ENTITY calendar.unifinder.close.tooltip                  "Zapri iskanje dogodkov in seznam dogodkov">
 
 <!ENTITY calendar.today.button.tooltip          "Pojdi na današnji dan" >
 <!ENTITY calendar.todaypane.button.tooltip      "Pokaži današnji dan" >
 
-<!ENTITY calendar.day.button.tooltip            "Preklopi na dnevni pogled." >
-<!ENTITY calendar.week.button.tooltip           "Preklopi na tedenski pogled." >
-<!ENTITY calendar.month.button.tooltip          "Preklopi na mesečni pogled." >
-<!ENTITY calendar.multiweek.button.tooltip      "Preklopi na večtedenski pogled." >
+<!ENTITY calendar.day.button.tooltip            "Preklopi na dnevni pogled" >
+<!ENTITY calendar.week.button.tooltip           "Preklopi na tedenski pogled" >
+<!ENTITY calendar.month.button.tooltip          "Preklopi na mesečni pogled" >
+<!ENTITY calendar.multiweek.button.tooltip      "Preklopi na večtedenski pogled" >
 
 <!ENTITY calendar.nextday.label                 "Naslednji dan" >
 <!ENTITY calendar.prevday.label                 "Prejšnji dan" >
@@ -87,8 +87,8 @@
 
 <!ENTITY calendar.newevent.button.label         "Nov dogodek" >
 <!ENTITY calendar.newtask.button.label          "Nov opravek" >
-
-
+<!ENTITY calendar.print.button.label            "Natisni" >
+<!ENTITY calendar.print.button.accesskey        "N">
 
 <!ENTITY calendar.day.button.label              "Dan" >
 <!ENTITY calendar.week.button.label             "Teden" >
@@ -305,7 +305,7 @@
 <!ENTITY calendarproperties.name.label                     "Ime:">
 <!ENTITY calendarproperties.readonly.label                 "Samo za branje">
 <!ENTITY calendarproperties.firealarms.label               "Pokaži alarme">
-
+<!ENTITY calendarproperties.cache3.label                   "Podpora v nepovezanem načinu">
 <!ENTITY calendarproperties.enabled.label                  "Vključi ta koledar">
 <!ENTITY calendarproperties.forceDisabled.label            "Ponudnika tega koledarja ni mogoče najti. To se pogosto zgodi, če ste onemogočili ali odstranili določene dodatke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odjavi naročnino">
@@ -346,5 +346,7 @@
 <!ENTITY calendar.error.title "Prišlo je do napake">
 <!-- Extract buttons in message header -->
 
-
-
+<!ENTITY calendar.extract.event.button         "Dodaj kot dogodek">
+<!ENTITY calendar.extract.task.button          "Dodaj kot opravek">
+<!ENTITY calendar.extract.event.button.tooltip "Izvleci koledarske podatke iz sporočila in jih dodaj k svojemu koledarju kot dogodek">
+<!ENTITY calendar.extract.task.button.tooltip  "Izvleci koledarske podatke iz sporočila in jih dodaj k svojemu koledarju kot opravek">
