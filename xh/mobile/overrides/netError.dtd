@@ -51,8 +51,8 @@
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
 <!ENTITY netOffline.longDesc3 "<ul>    
 <li> Zama kwakhona. i-&brandShortName; izakuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi. 
- <button id='wifi'>Vumela iWi-Fi<button>   
-<li>   
+<button id='wifi'>Vumela iWi-Fi</button>   
+</li>   
 </ul>">
 
 <!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
