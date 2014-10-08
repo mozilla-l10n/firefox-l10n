@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ফাইলসমূহ ক'ত সংৰক্ষণ কৰা হব মোক সদায় সোধিব">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ">
+
+

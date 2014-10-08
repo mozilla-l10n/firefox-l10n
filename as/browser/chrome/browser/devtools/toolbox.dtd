@@ -19,6 +19,9 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
+  -  the iframes menu list that appears only when the document has some.
+  -  It allows you to switch the context of the whole toolbox. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -115,8 +118,6 @@
   -  tools. -->
 
 <!ENTITY options.selectDevToolsTheme.label   "DevTools থীম বাছক:">
-<!ENTITY options.darkTheme.label             "এন্ধাৰ থীম">
-<!ENTITY options.lightTheme.label            "পাতল থীম">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -176,7 +177,7 @@ Gecko প্লেটফৰ্ম চিহ্নসমূহ অন্তৰ্
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "স্ববন্ধ ব্ৰেকেটসমূহ">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "বন্ধ কৰা ব্ৰেকেটসমূহ স্বচালিতভাৱে বন্ধ কৰক">
 <!ENTITY options.sourceeditor.expandtab.label           "স্থানসমূহ ব্যৱহাৰ কৰা ইণ্ডেন্ট">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "টেব আখৰৰ পৰিবৰ্তে স্থান ব্যৱহাৰ কৰক">
+
 <!ENTITY options.sourceeditor.tabsize.label             "টেবৰ আকাৰ">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "কিবাইণ্ডিংসমূহ">
