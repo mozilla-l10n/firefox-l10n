@@ -6,7 +6,7 @@
 
 <!ENTITY position.label             "Position:">
 <!ENTITY position.accesskey         "P">
-<!ENTITY position.tile.label        "Tile">
+<!ENTITY position.tile.label        "Mosaico">
 <!ENTITY position.stretch.label     "Stretch">
 <!ENTITY position.center.label      "Center">
 <!ENTITY position.fill.label        "Fill">

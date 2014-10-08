@@ -5,17 +5,22 @@
 
 <!ENTITY  no_space_to_start_error "No i hai prou espacio disponible ta que &brandShortName; se inicie.">
 <!ENTITY  error_loading_file "S\u0027ha produciu una error en mirar de cargar fichers necesarios ta executar &brandShortName;">
+
+<!ENTITY  onboard_start_message "Bienveniu ta &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Compromesos por tu, por a tuya privacidat, y una Web Ubierta">
+<!ENTITY  onboard_start_button_account "Dentrar en &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Dentrar en &brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcapachinas">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Lista de lectura">
-<!ENTITY  recent_tabs_title "Pestanyas recientz">
+<!ENTITY  recent_tabs_title "Pestanyas recients">
 
 <!ENTITY  switch_to_tab "Cambiar ta la pestanya">
 
-<!ENTITY  crash_reporter_title "Informe de fallas d\u0027o &brandShortName;">
+<!ENTITY  crash_reporter_title "Informe de fallos d\u0027o &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; ha trobau un problema y se ye blocau. As suyas pestanyas habrán de listar-se en a pachina d\u0027inicio de &brandShortName; malas que reinicie.">
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; o problema ta que pueda correchir-lo">
 <!ENTITY  crash_include_url2 "Incluir l\u0027adreza d\u0027a pachina web an que i yera">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Trigue un fichero">
 
-<!ENTITY url_bar_default_text "Escriba una busca u una adreza">
+<!ENTITY url_bar_default_text2 "Mirar u escribir adreza">
 
 <!ENTITY bookmark "Marcapachinas">
 <!ENTITY bookmark_added "S\u0027ha adhibiu o marcapachinas">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Predeterminau d\u0027o sistema">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Anyader en &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Marcapachinas">
+<!ENTITY overlay_share_reading_list_btn_label "Anyader a Lista de Lectura">
+<!ENTITY overlay_share_send_other "Ninviar ta atros dispositivos">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Ninviar ta unatro dispositivo">
+<!ENTITY overlay_share_no_url "No s\u0027i ha trobau garra vinclo">
+<!ENTITY overlay_share_retry "Tornar-lo a prebar">
+<!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar os suyos motors de busca">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Escoscar agora">
 <!ENTITY pref_clear_private_data_category "Limpiar os datos privaus">
 <!ENTITY pref_clear_on_exit_title "Borrar siempre en salir">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; borrará os suyos datos automaticament quan trigue \&quot;Salir\&quot; dende o menú central">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automaticament os suyos datos siempre que seleccione \u0022Quit\u0022 en o menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Trigar que datos quiere borrar">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Desactivaus">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A rapida rabosa narancha blinca por dencima d\u0027as expectativas, con mas velocidat, mas flexibilidat y mas seguranza. Como que somos una organización sin animo de lucro, somos libres d\u0027innovar en o vuestro nombre sin garra mena de presión a la hora de comprometer-nos. Ixo quiere dicir que tos podemos ofrir una millor experiencia y un futuro mas brilant t\u0027o web.">
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
-<!ENTITY pref_show_product_announcements "Amostrar anuncios de productos">
 <!ENTITY pref_sync "Sincronizar">
 <!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
 <!ENTITY pref_import_android "Importar dende Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguient">
 <!ENTITY find_close "Zarrar">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Transmitir t\u0027o dispositivo">
+<!ENTITY media_sending_to "&brandShortName; limpiará automaticamente os suyos datos siempre que seleccione \u0022Quit\u0022 dende o menú principal">
 <!ENTITY media_play "Reproducir">
 <!ENTITY media_pause "Pausa">
 <!ENTITY media_stop "Aturar">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra de titol">
 <!ENTITY pref_titlebar_mode_title "Amostrar o titol d\u0027a pachina">
 <!ENTITY pref_titlebar_mode_url "Amostrar l\u0027adreza d\u0027a pachina">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Barra de titol dinamica">
+<!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Amagar a barra de titol &brandShortName; quan se desplace enta abaixo en una pachina">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ dende Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
