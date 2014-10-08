@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "No s'ha puesto connectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "L'adreza ye restrinchida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No s'ha trobau o servidor">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Comprebe que no s'haigan introduciu errors en tecleyar l'adreza, por eixemplo 
-<strong>ww</strong>.eixemplo.com en cuentas de 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>Comprebe l'adreza por si i hese errors como 
+<strong>ww</strong>.eixemplo.com en cuenta de 
 <strong>www</strong>.eixemplo.com</li> 
-<li>Si encara no puede cargar garra pachina, comprebe a connexión a o ret d'o vuestro ordinador.</li> 
+<li>Si puede cargar garra pachina, comprebe a suya connexión de datos u Wi-Fi. 
+<button id='wifi'>Activar a Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobau o fichero">
@@ -43,14 +45,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "S'ha interrumpiu a connexión">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "O documento ha caducau">
 <!ENTITY notCached.longDesc "<p>O documento solicitau ya no ye disponible en a caché de &brandShortName;.</p><ul><li>Por precaución, &brandShortName; no tornará a solicitar automaticament os documentos sensibles.</li><li>Faiga clic en Prebar-lo de nuevas ta tornar a solicitar o documento a o puesto web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin connexión">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pruebe de nuevas. &brandShortName; mirará d'ubrir una connexión y tornar a cargar a pachina.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Torne-lo a prebar. &brandShortName; mirará d'ubrir una connexión y recargar a pachina. 
+<button id='wifi'>Activar a Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación d'o conteniu">
@@ -64,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "S'ha reiniciau a connexión">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "S'ha acotolau o tiempo d'aspera d'a connexión">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "No s'ha entendiu l'adreza">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +85,11 @@ ye funcionando.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No s'ha puesto trobar o servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Asegure-se de que a configuración d'o servidor proxy ye correcta.</li> 
-<li>Comprebe a connexión a o ret d'o suyo ordinador.</li> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Comprebe os achustes d'o proxy ta asegurar-se que son correctos.</li> 
+<li>Comprebe que o suyo dispositivo tien una connexión de datos u Wi-Fi que funciona. 
+<button id='wifi'>Activar a Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "A pachina no ye reendrezando adequadament">
@@ -113,9 +119,11 @@ que belún ye mirando de fer-se pasar por o servidor.</li>
 estar temporal, y puede tornar-lo a prebar mas entabant.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>O puesto web podría estar temporalment no disponible u masiau ocupau. Torne-lo a prebar en uns momentos.</li> 
-<li>Si no puede cargar garra pachina, comprebe a connexión a o ret d'o suyo dipositivo mobil.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Talment o puesto siga temporalment no disponible u masiau ocupau. Torne a intentar-lo en bells momentos.</li> 
+<li>Si no puet cargar garra pachina, comprebe a connexión de datos u Wi-Fi d'o suyo dispoisitivo mobil. 
+<button id='wifi'>Activar a Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "S'ha bloquiau por a politica de seguranza de conteniu">

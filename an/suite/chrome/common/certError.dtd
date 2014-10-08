@@ -22,6 +22,10 @@ o puesto correcto. Manimenos, a identidat d'iste puesto no se puede verificar.">
 <!ENTITY certerror.whatShouldIDo.content "Si normalment connecta a iste 
 puesto web sin problemas, ista error podría querer decir que belún 
 ye intentando fer pasar por o puesto, y no habría de continar.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
 <!ENTITY certerror.getMeOutOfHere.label "Isto tiene mala pinta, millor leva-me/leva'me a la mía pachina d'encieto">
 
 <!ENTITY certerror.expert.heading "Entiendo os risgos">
