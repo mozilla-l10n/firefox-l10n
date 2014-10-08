@@ -41,31 +41,31 @@
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Sprejmi">
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Sprejmi povabilo na dogodek">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Sprejmi vse">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Sprejmi povabilo na dogodek za vse ponovitve tega dogodka">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Dodaj">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Dodaj dogodek h koledarju">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Zavrni">
-
-
-
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Zavrni povabilo k dogodku">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Zavrni vse">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Zavrni povabila k dogodku za vse ponovitve dogodka">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Izbriši">
-
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Izbriši iz koledarja">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži podrobnosti dogodka">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Več">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za več možnosti">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potrdi">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošlje ponovno potrditev organizatorju">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Shrani kopijo">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Shrani kopijo dogodka v koledar neodvisno od odgovora organizatorju. Seznam udeležencev bo izbrisan.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Neodločeno">
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Sprejmi povabilo na dogodek okvirno">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Okvirno vse">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Sprejmi povabilo na dogodek okvirno za vse ponovitve dogodka">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Posodobi">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Posodobi koledar dogodkov">
 <!ENTITY lightning.imipbar.description                                      "To sporočilo vsebuje povabilo na dogodek.">
 <!-- Lightning specific keybindings -->
 

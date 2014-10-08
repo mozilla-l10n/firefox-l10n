@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Orodna vrstica za Calendar">
-
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Orodna vrstica za opravke">
-
+<!ENTITY lightning.toolbar.task.name.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Sinhroniziraj">
 <!ENTITY lightning.toolbar.delete.label "Izbriši">
@@ -36,8 +36,9 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "Meni programa">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Prikaži &brandShortName; meni">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Podokno koledarja">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Prikaži podokno koledarja">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "p">

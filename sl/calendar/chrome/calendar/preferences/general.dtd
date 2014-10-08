@@ -13,18 +13,21 @@
 <!ENTITY pref.dateformat.long "dolga" >
 <!ENTITY pref.dateformat.short "kratka"  >
 
+<!ENTITY pref.defaults.label "Privzete vrednosti za nove predmete">
 <!ENTITY pref.events.label "Dogodki">
 <!ENTITY pref.tasks.label "Opravila">
 
+<!ENTITY pref.default_event_length.label "Privzeta dolžina:" >
+<!ENTITY pref.default_event_length.accesskey "r">
 
-
-
-
+<!ENTITY pref.default_task_none.label "Brez">
+<!ENTITY pref.default_task_start_of_day.label "Začetek dneva">
+<!ENTITY pref.default_task_end_of_day.label "Konec dneva">
 <!ENTITY pref.default_task_tomorrow.label "Jutri">
-
-
-
-
+<!ENTITY pref.default_task_next_week.label "Naslednji teden">
+<!ENTITY pref.default_task_offset_current.label "Glede na trenutni čas">
+<!ENTITY pref.default_task_offset_start.label "Glede na začetek">
+<!ENTITY pref.default_task_offset_next_hour.label "Glede na naslednjo uro">
 
 <!ENTITY pref.accessibility.label "Dostopnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
