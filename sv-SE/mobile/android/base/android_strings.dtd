@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
 <!ENTITY  onboard_start_message "Välkommen till &brandShortName;!">
-
+<!ENTITY  onboard_start_subtext "Engagerande till dig, din integritet och en öppen webb">
 <!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -330,6 +330,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
+<!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
