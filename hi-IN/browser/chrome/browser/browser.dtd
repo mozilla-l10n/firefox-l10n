@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "अनुक्रियात्मक डिजायन दृश्य (R)">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "ड्रॉपर (E)">
 <!ENTITY eyedropper.accesskey "E">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -700,13 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
 <!ENTITY customizeMode.toolbars "दिखाएँ / छिपाएँ औज़ारपट्टी">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
-
-
-
+<!ENTITY customizeMode.lwthemes "प्रसंग">
+<!ENTITY customizeMode.lwthemes.myThemes "मेरा प्रसंग">
+<!ENTITY customizeMode.lwthemes.recommended "अनुशंसित">
 <!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित">
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
@@ -724,22 +724,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "अधिकतर वेबसाइट अभी भी ठीक से काम करते हैं इसके बावजूद कि सामग्री रूका है.">
 
-
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "असुरक्षित कंटेंट">
+<!ENTITY mixedContentBlocked2.moreinfo "इस वेबसाइट पर कुछ विगोपित तत्व रोके गए.">
+<!ENTITY mixedContentBlocked2.learnMore "और जानें">
+<!ENTITY mixedContentBlocked2.options "विकल्प">
+<!ENTITY mixedContentBlocked2.unblock.label "अब सुरक्षा निष्क्रिय करें (D)">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "सुरक्षा सक्रिय करें (b)">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
+<!ENTITY mixedContentBlocked2.disabled.message "सुरक्षा सक्रिय किया हुआ है">
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है.">
+<!ENTITY trackingContentBlocked.learnMore "अधिक जानें">
+<!ENTITY trackingContentBlocked.options "विकल्प">
+<!ENTITY trackingContentBlocked.unblock.label2 "इस साइट पर सुरक्षा निष्क्रिय करें">
+<!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रिय करें">
+<!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय किया हुआ है">
 
 <!ENTITY pointerLock.notification.message "ESC को किसी भी समय इसे दिखाने के लिए दबाएँ.">
 
@@ -772,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "अंतिम किया हुआ भूल गया:">
+<!ENTITY panicButton.view.5min                    "पांच मिनट">
+<!ENTITY panicButton.view.2hr                     "दो घंटे">
+<!ENTITY panicButton.view.day                     "24 घंटे">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "इससे बढ़ेगा:">
+<!ENTITY panicButton.view.deleteCookies           "हालिया <html:strong>कुकीज़</html:strong> मिटाएँ">
+<!ENTITY panicButton.view.deleteHistory           "हालिया <html:strong>इतिहास</html:strong> मिटाएँ">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "सभी <html:strong>टैब</html:strong> और <html:strong>विंडोज़</html:strong> बंद करें">
+<!ENTITY panicButton.view.openNewWindow           "नया साफ़ विंडो खोलें">
 
 <!ENTITY panicButton.view.undoWarning             "इस क्रिया को पहले जैसा नहीं किया जा सकता है.">
+<!ENTITY panicButton.view.forgetButton            "भूलें!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "आपका हालिया इतिहास साफ किया गया.">
+<!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
+<!ENTITY panicButton.thankyou.buttonlabel         "शुक्रिया!">
 
