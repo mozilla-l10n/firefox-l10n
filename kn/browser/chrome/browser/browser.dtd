@@ -556,17 +556,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "=">
 
 <!ENTITY fullZoomReduceCmd.label        "ಕಿರಿದಾಗಿಸು">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "-">
 
 <!ENTITY fullZoomResetCmd.label         "ಮರುಹೊಂದಿಸು">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "ಪಠ್ಯವನ್ನು ಮಾತ್ರ ಹಿಗ್ಗಿಸು">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -724,22 +724,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
+
+<!ENTITY mixedContentBlocked2.message "ಅಸುರಕ್ಷಿತ ವಿಷಯ">
+<!ENTITY mixedContentBlocked2.moreinfo "ಈ ಜಾಲತಾಣದಲ್ಲಿ ಎನ್ಕ್ರಿಪ್ಟ್ ಆಗಿರದ ಕೆಲವು ಅಂಶಗಳನ್ನು ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ.">
 
 
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.unblock.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು (b)">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
+<!ENTITY mixedContentBlocked2.disabled.message "ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY trackingContentBlocked.message "ಜಾಡು ಇರಿಸುವಿಕೆ">
 
 
 
-
-
-
+<!ENTITY trackingContentBlocked.unblock.label2 "ಈ ತಾಣಕ್ಕಾಗಿ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ">
+<!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY pointerLock.notification.message "ಅದನ್ನು ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ತೋರಿಸಲು ESC ಅನ್ನು ಒತ್ತಿ.">
 
@@ -772,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "ಹಿಂದಿನದನ್ನು ಮರೆತುಬಿಡು:">
+<!ENTITY panicButton.view.5min                    "ಐದು ನಿಮಿಷಗಳು">
+<!ENTITY panicButton.view.2hr                     "ಎರಡು ತಾಸುಗಳು">
+<!ENTITY panicButton.view.day                     "24 ತಾಸುಗಳು">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "ಇಲ್ಲಿಂದ ಮುಂದುವರೆದರೆ:">
+<!ENTITY panicButton.view.deleteCookies           "ಇತ್ತೀಚಿನ <html:strong>ಕುಕಿಗಳನ್ನು </html:strong> ಅಳಿಸು">
+<!ENTITY panicButton.view.deleteHistory           "ಇತ್ತೀಚಿನ <html:strong> ಇತಿಹಾಸವನ್ನು<html:strong> ಅಳಿಸು">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ಎಲ್ಲಾ <html:strong>ಹಾಳೆಗಳನ್ನು </html:strong> ಹಾಗೂ <html:strong>ಕಿಟಕಿಗಳನ್ನು </html:strong> ಮುಚ್ಚು">
+<!ENTITY panicButton.view.openNewWindow           "ಒಂದು ಹೊಸ ಸ್ವಚ್ಚವಾದ ಕಿಟಕಿಯನ್ನು ತೆರೆಯಿರಿ">
 
 <!ENTITY panicButton.view.undoWarning             "ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.">
+<!ENTITY panicButton.view.forgetButton            "ಮರೆತುಬಿಡು!">
 
+<!ENTITY panicButton.thankyou.msg1                "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಜಾಲ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಲಾಗಿದೆ.">
 
-
-
+<!ENTITY panicButton.thankyou.buttonlabel         "ಧನ್ಯವಾದಗಳು!">
 
