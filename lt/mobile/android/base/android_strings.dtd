@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
+
+<!ENTITY  onboard_start_message "Sveiki! Čia „&brandShortName;“">
+<!ENTITY  onboard_start_subtext "Naršyklė, pašvęsta jums, jūsų privatumui ir atvirajam saitynui">
+<!ENTITY  onboard_start_button_account "Jungtis prie „&brandShortName;“">
+<!ENTITY  onboard_start_button_browser "Pradėti naršymą">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -29,14 +34,14 @@
 <!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
 <!ENTITY  exit_label "Baigti darbą">
 
-<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programėlės">
-<!ENTITY  launcher_shortcuts_empty "Saityno programėlių nerasta">
+<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programos">
+<!ENTITY  launcher_shortcuts_empty "Saityno programų nerasta">
 
 <!ENTITY choose_file "Parinkite failą">
 
-<!ENTITY url_bar_default_text "Įveskite adresą arba paieškos žodžius">
+<!ENTITY url_bar_default_text2 "Įveskite adresą arba paieškos žodžius">
 
-<!ENTITY bookmark "Adresyne">
+<!ENTITY bookmark "Įtraukti į adresyną">
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Sistemos numatytoji">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Pridėti į „&brandShortName;“">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Įtraukti į adresyną">
+<!ENTITY overlay_share_reading_list_btn_label "Įtraukti į skaitinių sąrašą">
+<!ENTITY overlay_share_send_other "Siųsti į kitus įrenginius">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Siųsti į kitą įrenginį">
+<!ENTITY overlay_share_no_url "Gautame objekte neaptiktas joks saitas">
+<!ENTITY overlay_share_retry "Bandyti vėl">
+<!ENTITY overlay_share_select_device "Pasirinkite įrenginį">
 
 <!ENTITY pref_category_search3 "Paieška">
 <!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Valyti dabar">
 <!ENTITY pref_clear_private_data_category "Valyti privačius duomenis">
 <!ENTITY pref_clear_on_exit_title "Visada valyti baigiant darbą">
-<!ENTITY pref_clear_on_exit_summary "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
+<!ENTITY pref_clear_on_exit_summary2 "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
 <!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
 <!ENTITY pref_plugins "Papildiniai">
 <!ENTITY pref_plugins_enabled "Leidžiami">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą.">
 
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
-<!ENTITY pref_show_product_announcements "Rodyti pranešimus apie produktus">
 <!ENTITY pref_sync "Sinchronizavimas">
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Ankstenis">
 <!ENTITY find_next "Tolesnis">
 <!ENTITY find_close "Užverti">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "Transliavimas į įrenginį">
+<!ENTITY media_sending_to "Transliuojama į įrenginį">
 <!ENTITY media_play "Groti">
 <!ENTITY media_pause "Pauzė">
 <!ENTITY media_stop "Stabdyti">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
 <!ENTITY pref_titlebar_mode_url "Rodyti tinklalapio adresą">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Slinkti antraštės juostą">
+<!ENTITY pref_scroll_title_bar2 "Visaekranis naršymas">
+<!ENTITY pref_scroll_title_bar_summary "Nerodyti „&brandShortName;“ antraštės juostos, slenkant tinklalapį žemyn">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ iš „Android“">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
