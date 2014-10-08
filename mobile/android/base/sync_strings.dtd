@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "मनपसंद सर्वर का उपयोग करें">
 <!ENTITY sync.input.server.label "सर्वर यूआरएल">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label " &syncBrand.shortName.label; सेट अप नहीं कर सकते">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; सर्वर से कनेक्ट नहीं कर सकता. आप फिर से प्रयास करना चाहेंगे?">
 <!ENTITY sync.button.tryagain.label "फिर कोशिश करें">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "आपके डिवायस पर खाता निर्माण विफल रहा.">
 <!ENTITY sync.subtitle.failmultiple.label "क्या आपके पास एक से अधिक फ़ायरफ़ॉक्स संस्थापित है? अभी, &syncBrand.fullName.label; केवल एक फ़ायरफ़ॉक्स का संस्थापन का समर्थन करता है. कृपया &syncBrand.shortName.label; के उपयोग के लिए दूसरे का उपयोग करें.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "सेटअप पूर्ण">
 <!ENTITY sync.subtitle.success.label1 "आपका आँकड़ा पृष्ठभूमि में डाउनलोड किया जा रहा है. आप अपने खाता को प्रबंधित करने के लिए सेटिंग्स में जा सकते हैं, &brandShortName; के साथ ब्राउजिंग आरंभ कर सकते हैं.">
 <!ENTITY sync.settings.label "सेटिंग्स">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecated)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; पर &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "पुस्तचिह्न मेन्यू">
@@ -105,6 +112,12 @@
 <!ENTITY sync.text.tab.sent.label "आपका टैब भेजा गया!">
 <!ENTITY sync.text.tab.not.sent.label "अपने टैब भेजने में कोई समस्या आ रही थी.">
 <!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Firefox Accounts">
+
+<!ENTITY fxaccount_custom_server_account_title "सर्वर पर खाते का प्रयोग">
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -172,7 +185,9 @@
 
 <!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
-
+<!ENTITY fxaccount_status_auth_server "खाता सर्वर">
+<!ENTITY fxaccount_status_device_name "साधन का नाम">
+<!ENTITY fxaccount_status_sync_server "सर्वर से सिंक करें">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्षम">
 <!ENTITY fxaccount_status_needs_verification2 "आपके खाता को सत्यापित करने की जरूरत है। दोबारा सत्यापन ईमेल भेजने के लिए टैप करें।">
@@ -191,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "सेवा की शर्तें">
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता नीति">
+<!ENTITY fxaccount_status_more "अधिक&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox Account मिटाएँ?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपके खाते के साथ सिंक करना बंद करेगा, लेकिन इस साधन पर स्थित आपका कोई भी ब्राउजिंग डाटा नहीं मिटाएगा.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox Account &formatS; मिटाया.">
+
+<!ENTITY fxaccount_remove_account_menu_item "खाता मिटाएँ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "फ़ायरफ़ॉक्स">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -220,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "सर्वर से जुड़ नहीं सका">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जुड़ा हुआ नहीं है">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; के रूप में साइन-इन करने के लिए टैप करें">
