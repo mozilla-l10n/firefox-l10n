@@ -13,7 +13,7 @@
 
 <!ENTITY missingPlugin                                       "Za prikaz te vsebine je potreben vtičnik.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Dotaknite se za vklop vtičnika.">
+<!ENTITY tapToPlayPlugin                                     "Tapnite za vklop vtičnika.">
 <!ENTITY clickToActivatePlugin                               "Vklopi vtičnik.">
 <!ENTITY checkForUpdates                                     "Preveri posodobitve …">
 <!ENTITY disabledPlugin                                      "Ta vtičnik je onemogočen.">
