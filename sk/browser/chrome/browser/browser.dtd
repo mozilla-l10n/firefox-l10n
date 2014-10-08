@@ -783,7 +783,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Pokračovaním:">
 <!ENTITY panicButton.view.deleteCookies           "odstránite nedávno vytvorené <html:strong>cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "vymažete <html:strong>históriu</html:strong> nedávneho prehliadania">
+<!ENTITY panicButton.view.deleteHistory           "vymažete <html:strong>históriu</html:strong> prehliadania">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "zavriete všetky <html:strong>karty</html:strong> a <html:strong>okná</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "otvoríte nové prázdne okno">
 
