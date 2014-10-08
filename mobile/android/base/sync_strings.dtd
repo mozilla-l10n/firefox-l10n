@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2;పై &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ఇష్టాంశముల మోనూ">
@@ -114,6 +116,7 @@
 
 <!ENTITY fxaccount_full_label "ఫైర్‌ఫాక్స్ ఖాతాలు">
 
+<!ENTITY fxaccount_custom_server_account_title "సేవకిలో ఖాతాను వాడుతున్నారు">
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -182,7 +185,7 @@
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
-
+<!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
 
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -209,7 +212,9 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.">
 
+<!ENTITY fxaccount_remove_account_menu_item "ఖాతాని తొలగించు">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

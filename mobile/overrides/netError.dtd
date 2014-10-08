@@ -17,7 +17,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<li>చిరునామాలో  టైపింగ్ దోషాలు ఏమైనా ఉన్నాయేమో చూడండి  
+<strong>www</strong>.example.com బదులుగా 
+<strong>ww</strong>.example.com లాంటివి</li> 
+<li>ఒకవేళ మీరు ఏ పేజీలను తెరవలేకపోతూంటే, మీ పరికరపు డాటా లేదా వై-ఫై అనుసంధానాన్ని పరిశీలించండి. 
+<button id='wifi'>వై-ఫైని చేతనంచేయి</button> </li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ఫైల్  కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -38,7 +44,7 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "పత్రం కాలంచెల్లింది">
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
@@ -57,7 +63,7 @@
 </ul>">
 
 <!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">

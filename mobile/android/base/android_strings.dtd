@@ -41,6 +41,7 @@
 
 <!ENTITY url_bar_default_text2 "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 
+<!ENTITY bookmark "ఇష్టాంశం">
 <!ENTITY bookmark_added "ఇష్టాంశం చేర్చబడింది">
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
@@ -91,15 +92,21 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName;కి చేర్చు">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "చదవాల్సిన జాబితాకి చేర్చు">
 
+<!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశం">
+<!ENTITY overlay_share_reading_list_btn_label "చదవాల్సిన జాబితాకి చేర్చు">
+<!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "మరొక పరికరానికి పంపించు">
 <!ENTITY overlay_share_no_url "ఈ పంచుకోలులో లంకె ఏమీ లేదు">
 <!ENTITY overlay_share_retry "మరలా ప్రయత్నించు">
 <!ENTITY overlay_share_select_device "పరికరాన్ని ఎంచుకోండి">
@@ -123,7 +130,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
-
+<!ENTITY pref_developer_paint_flashing "పెయింట్ ఫ్లాషింగ్">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
 
@@ -165,7 +172,7 @@
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
-
+<!ENTITY pref_clear_private_data2 "ఇప్పుడే చెరిపివేయి">
 <!ENTITY pref_clear_private_data_category "ప్రైవేటు డేటా తొలగించు">
 <!ENTITY pref_clear_on_exit_title "నిష్క్రమించే ప్రతిసారి చెరిపి వేయి">
 
@@ -280,7 +287,7 @@ size. -->
 <!ENTITY new_tab "కొత్త ట్యాబ్">
 <!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
 <!ENTITY close_all_tabs "అన్ని ట్యాబులసు మూసివేయి">
-
+<!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
 <!ENTITY tabs_normal "ట్యాబులు">
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY tabs_synced "సింకైన">
@@ -295,6 +302,8 @@ size. -->
 <!ENTITY find_close "మూసివేయి">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "పరికకానికి పంపిస్తున్నాం">
 <!ENTITY media_play "ఆడు">
 <!ENTITY media_pause "నిలుపు">
 <!ENTITY media_stop "ఆపివేయి">
@@ -321,6 +330,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "నిండుతెర విహరణ">
+<!ENTITY pref_scroll_title_bar_summary "పేజీలను క్రిందికి స్ర్కోల్ చేస్తున్నప్పుడు &brandShortName; శీర్షిక పట్టీని దాచిపెట్టు">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -369,10 +380,10 @@ size. -->
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
-
+<!ENTITY home_closed_tabs_title "ఇటీవల మూసిన ట్యాబులు">
 <!ENTITY home_last_tabs_title "చివరిసారి ట్యాబులు">
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
-
+<!ENTITY home_open_all "అన్నిటినీ తెరువు">
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
 <!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
