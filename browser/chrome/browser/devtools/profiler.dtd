@@ -45,3 +45,5 @@
 <!ENTITY profilerUI.table.function    "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "Pridėti naują kortelę iš pasirinkto intervalo">

@@ -101,7 +101,7 @@
 <!ENTITY prefs_restore "Grąžinti numatytąsias nuostatas">
 <!ENTITY prefs_simulators "Tvarkyti simuliatorius">
 <!ENTITY prefs_options_enablelocalruntime "Leisti vietinį vykdymą">
-
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Leisti „WebIDE“ lokaliai jungtis prie naršyklės, kurioje ji pati veikia">
 <!ENTITY prefs_options_rememberlastproject "Įsiminti paskutinį projektą">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Atverti ankstesnį projektą, paleidus „WebIDE“">
 <!ENTITY prefs_options_templatesurl "Šablonų URL adresas">
@@ -126,9 +126,9 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Įrenginio duomenys">
-<!ENTITY runtimedetails_adbIsRoot "„ADB“ vykdoma „root“ teisėmis: ">
-
-<!ENTITY runtimedetails_ADBRootWarning "(reikalinga neužrakinta paleidyklė)">
+<!ENTITY runtimedetails_adbIsRoot "„ADB“ vykdoma administratoriaus teisėmis: ">
+<!ENTITY runtimedetails_summonADBRoot "gauti įrenginio administratoriaus teises">
+<!ENTITY runtimedetails_ADBRootWarning "(reikalinga atrakinta paleidyklė)">
 <!ENTITY runtimedetails_restrictedPrivileges "Ribota „DevTools“ prieiga: ">
 <!ENTITY runtimedetails_requestPrivileges "prašyti aukštesnių privilegijų">
 <!ENTITY runtimedetails_privilegesWarning "(Įrenginys bus perleistas. Reikalingos „root“ teisės.)">
