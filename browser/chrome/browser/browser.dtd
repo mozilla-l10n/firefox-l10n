@@ -786,13 +786,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Áfram mun:">
 <!ENTITY panicButton.view.deleteCookies           "Eyða nýjustu <html:strong>smákökum</html:strong>">
-
-
-
+<!ENTITY panicButton.view.deleteHistory           "Eyða nýjasta <html:strong>feril</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Loka öllum <html:strong>flipum</html:strong> og <html:strong>gluggum</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Opna nýjan tóman glugga">
 
 <!ENTITY panicButton.view.undoWarning             "Ekki er ekki hægt að bakfæra þessa aðgerð.">
+<!ENTITY panicButton.view.forgetButton            "Gleyma!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Búið er að hreinsa nýlega ferla.">
+<!ENTITY panicButton.thankyou.msg2                "Örugg vöfrun!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Takk!">
 
