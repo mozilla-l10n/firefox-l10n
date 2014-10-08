@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "প্ৰতিক্ৰিয়া ৰূপাঙ্কণ দৰ্শন">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Eyedropper">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "সঁজুলিসমূহ ট'গল কৰক">
@@ -699,6 +701,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "সঁজুলিবাৰ দেখুৱাওক/লুকুৱাওক">
 <!ENTITY customizeMode.titlebar "শীৰ্ষক বাৰ">
 
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "ব্যৱস্থাপনা কৰক">
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চেটসমূহত ফকাচ কৰক">
 <!ENTITY social.chatBar.accesskey "c">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "অংশীদাৰী কৰিবলে কেমেৰা:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "অংশীদাৰী কৰিবলে উইন্ডো অথবা পৰ্দা:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "অংশীদাৰী কৰিবলে মাইক্ৰফোন:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইন্ডোক অংশীদাৰী কৰা হব।">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "কেমেৰা/মাইক্ৰফোনৰ অভিগম">
-<!ENTITY webrtcIndicatorButton.tooltip "ছাইটবোৰ যাৰ সৈতে আপুনি বৰ্তমানে আপোনাৰ কেমেৰা অথবা মাইক্ৰফোন অংশীদাৰী কৰি আছে প্ৰদৰ্শন কৰে">
 
-<!ENTITY loopCallButton.tooltip "কথা পাতিবলে কাবাক নিমন্ত্ৰণ দিয়ক">
 
-<!ENTITY mixedContentBlocked.moreinfo "এই সমল প্ৰতিৰোধিত অৱস্থাতো বেছিৰভাগ ৱেবছাইটে সঠিকভাৱে কাৰ্য্য কৰিব।">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "অনুসৰণ কৰা">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ইয়াক আকৌ দেখুৱাবলে যিকোনো সময়ত ESC টিপক।">
 
@@ -750,4 +768,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "কাষবাৰসমূহ">
 
 <!ENTITY switchToMetroCmd2.label       "Windows 8 টাচৰ বাবে &brandShortName; ত পুনৰলঞ্চ কৰক">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "এই কাৰ্য্য পিছত নোহোৱা কৰিব নোৱাৰি।">
+
+
+
+
 
