@@ -438,6 +438,10 @@ size. -->
 <!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškotki ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
 <!ENTITY private_tabs_panel_learn_more "Želite izvedeti več?">
 
+<!ENTITY remote_tabs_panel_moved_title "Kam so izginili moji zavihki?">
+<!ENTITY remote_tabs_panel_moved_desc "Vaši zavihki iz drugih naprav so bili premaknjeni na ploščo na vaši domači strani, ki je dostopna vedno, ko odprete nov zavihek.">
+<!ENTITY remote_tabs_panel_moved_link "Odpri novo ploščo.">
+
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">
 
 <!ENTITY filepicker_title "Izberi datoteko">
