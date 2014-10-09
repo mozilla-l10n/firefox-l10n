@@ -41,3 +41,10 @@
 <!ENTITY manageAddons.label            "ניהול תוספות…">
 <!ENTITY manageAddons.accesskey        "ת">
 
+<!ENTITY alwaysCheckDefault.label         "לבדוק תמיד בהפעלה אם &brandShortName; הוא דפדפן בררת המחדל">
+<!ENTITY alwaysCheckDefault2.accesskey    "ת">
+<!ENTITY setAsMyDefaultBrowser.label      "להגדיר את  &brandShortName; כדפדפן בררת המחדל">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "ב">
+<!ENTITY isDefault.label                  "&brandShortName; הוא דפדפן בררת המחדל שלך">
+<!ENTITY isNotDefault.label               "&brandShortName; אינו דפדפן בררת המחדל שלך">
+
