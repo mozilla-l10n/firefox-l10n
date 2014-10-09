@@ -16,3 +16,8 @@
 <!ENTITY aboutPrivateBrowsing.title.normal "¿Abrir una ventana privada?">
 <!ENTITY aboutPrivateBrowsing.title "Tas navegando de forma privada">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal "&brandShortName; nun va recordar nengún historial de ventanes privaes.">
+<!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; nun va recordar nengún historial d'esta ventana.">
+<!ENTITY aboutPrivateBrowsing.notPrivate "Agora nun tas nuna ventana privada">
+<!ENTITY aboutPrivateBrowsing.moreInfo "Magar qu'esti equipu nun va caltener nengún rexistru del historial de navegación, el fornidor de servicios d'Internet o la to empresa entá puen rastrexar les páxines que visites.">
+<!ENTITY aboutPrivateBrowsing.learnMore "Deprender más.">
+<!ENTITY aboutPrivateBrowsing.description "Esto inclúi los historiales de navegación, guetes, descargues y formularios web, asina como los ficheros temporales d'internet. Sicasí, los ficheros que descargues y los marcadores que faigas, van caltenese.">
