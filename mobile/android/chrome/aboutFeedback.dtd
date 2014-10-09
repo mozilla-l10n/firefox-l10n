@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "También podés visitar ">
-<!ENTITY support.link              "Soporte de &brandShortName;">
-<!ENTITY support.post2             " para más información.">
+<!ENTITY support.pre3              "Visitá nuestro ">
+<!ENTITY support.link2             "sitio de soporte">
+<!ENTITY support.post3             " para conseguir respuestas a problemas comunes.">
 
 <!ENTITY happy.header              "¡Es bueno escuchar eso!">
 
@@ -35,22 +35,23 @@
 <!ENTITY happy.maybeLater2         "Quizás después">
 <!ENTITY happy.noThanks            "No gracias">
 
+<!ENTITY sad.header                "¡Oh no!">
 <!ENTITY sad.message               "Sentimos mucho que tengás problemas con &brandShortName;. Contanos que pasó así lo podemos arreglar.">
-<!ENTITY sad.placeholder           "Enter your feedback here">
-<!ENTITY sad.lastSite              "Último sitio visitado (opcional)">
+<!ENTITY sad.placeholder           "Escribí tu opinión acá">
+<!ENTITY sad.lastSite2             "Incluir el último sitio visitado">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Gracias por dejarnos saber.">
+<!ENTITY sad.thanksHeader2         "Gracias.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Siempre estamos trabajando para mejorar &brandShortName;. Quedate tranquilo que gente real mirará tu feedback y harán lo mejor para resolver tu cuestión.">
+<!ENTITY sad.thanksMessageTop      "Siempre estamos trabajando para mejorar &brandShortName;. Quedate tranquilo que gente real mirará tu opinión y harán lo mejor para resolver tu cuestión.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "O sufrirán las consecuencias.">
 
-<!ENTITY feedback.privacy          "Para tu privacidad, no pongás ninguna información personal identificable en tu feedback.">
-<!ENTITY feedback.send             "Send Feedback">
+<!ENTITY feedback.privacy2         "Para tu privacidad, no pongás ninguna información personal identificable en tu opinión.">
+<!ENTITY feedback.send             "Enviar opinión">

@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzada">
 <!ENTITY pref_category_customize "Personalizar">
+<!ENTITY pref_category_customize_summary "Inicio, búsqueda, pestañas, importar">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Idioma">
+<!ENTITY pref_category_language_summary "Cambiar el idioma de tu navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_reading_list_btn_label "Agregar a lista de lectura">
+<!ENTITY overlay_share_bookmark_btn_label_already "Ya está en marcadores">
+<!ENTITY overlay_share_reading_list_btn_label_already "Ya está en lista de lectura">
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
+<!ENTITY pref_category_display_summary "Texto, barra de título, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
+<!ENTITY pref_category_privacy_summary "Control de contraseñas, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentes, opciones de datos">
 <!ENTITY pref_category_datareporting "Opciones de datos">
 <!ENTITY pref_learn_more "Conocer más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_category_devtools_summary "Depuración remota, parpadear dibujo">
 <!ENTITY pref_developer_paint_flashing "Parpadear dibujo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "No mostrar menú">
 <!ENTITY pref_clear_private_data2 "Borrar ahora">
 <!ENTITY pref_clear_private_data_category "Limpiar datos privados">
-<!ENTITY pref_clear_on_exit_title "Siempre limpiar al salir">
+<!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos cuando elijás \u0022Salir\u0022 del menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Plugins">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Sincronizar pestañas, marcadores, contraseñas, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
+<!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_formdata "Historial de navegación y búsqueda">
 <!ENTITY pref_private_data_cookies2 "Cookies e ingresos activos">
@@ -292,6 +302,7 @@ size. -->
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY set_image_fail "No se puede establecer imagen">
+<!ENTITY set_image_path_fail "No se puede guardar la imagen">
 <!ENTITY set_image_chooser_title "Poner imagen como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +414,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Hacia &formatS;">
 
+<!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
+<!ENTITY home_remote_tabs_empty "Las pestañas de tus otros dispositivos aparecen acá.">
+<!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "Ingresá para reconectar a tu cuenta de Firefox Account y continuar sincronizando.">
+<!ENTITY home_remote_tabs_trouble_verifying "¿Problemas verificando tu cuenta?">
+<!ENTITY home_remote_tabs_need_to_verify "Verificá tu cuenta de Firefox para comenzar a sincronizar.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Disposiivos ocultos">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Hacer visible los dispositivos seleccionados">
+
 <!ENTITY private_browsing_title "Navegación privada">
 <!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas aparecen acá. Aunque no guardamos tu historial de navegación o cookies, los marcadores y los archivos que se hayan descargados se guardarán en tu dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "¿Querés saber más?">
+
+<!ENTITY remote_tabs_panel_moved_title "¿A donde fueron mis pestañas?">
+<!ENTITY remote_tabs_panel_moved_desc "Movimos las pestañas de tus otros dispositivos a un panel en tu página de inicio que puede accederse fácilmente cada vez que abrás una nueva pestaña.">
+<!ENTITY remote_tabs_panel_moved_link "Ir a mi nuevo panel.">
 
 <!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
@@ -475,6 +510,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Actualización de &brandShortName; disponible">
 <!ENTITY updater_apply_select2 "Tocar para actualizar">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Reiniciar el navegador para que los cambios tengan efecto">
+<!ENTITY new_tablet_pref "Habilitar nueva UI de tablet">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nueva sesión de invitado">
 <!ENTITY exit_guest_session "Salir de sesión de invitado">
@@ -482,6 +523,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
 <!ENTITY new_guest_session_text "La persona que lo use no podrá ver nada de tus datos personales de navegación (como contraseñas guardadas, historial o marcadores).\n\nCuando el invitado termine, sus datos de navegación se borrarán y tu sesión se restaurará.">
+<!ENTITY guest_browsing_notification_title "Navegación de invitado habilitada">
+<!ENTITY guest_browsing_notification_text "Tocá para salir">
 
 <!ENTITY exit_guest_session_title "&brandShortName; se reiniciará">
 <!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión se borrarán.">
