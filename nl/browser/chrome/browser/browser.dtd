@@ -729,7 +729,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loopCallButton.tooltip "Iemand uitnodigen voor een gesprek">
 
-<!ENTITY mixedContentBlocked.moreinfo "De meeste websites zullen nog gewoon werken, zelfs wanneer deze inhoud wordt geblokkeerd.">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "De meeste websites zullen gewoon werken, zelfs wanneer inhoud wordt geblokkeerd.">
+
+<!ENTITY mixedContentBlocked2.message "Onveilige inhoud ">
+<!ENTITY mixedContentBlocked2.moreinfo "Enkele niet-versleutelde elementen op deze website zijn geblokkeerd.">
+<!ENTITY mixedContentBlocked2.learnMore "Meer info">
+<!ENTITY mixedContentBlocked2.options "Opties">
+<!ENTITY mixedContentBlocked2.unblock.label "Bescherming voor nu uitschakelen">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "u">
 
 <!ENTITY pointerLock.notification.message "Druk op ESC om het nogmaals te tonen.">
 
