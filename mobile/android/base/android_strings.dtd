@@ -296,6 +296,9 @@
 <!ENTITY private_browsing_title "Navigazione anonima">
 <!ENTITY private_tabs_panel_empty_desc "Le schede anonime verranno visualizzate in questa sezione. Mentre la cronologia di navigazione e i cookie non vengono conservati, i file scaricati e i segnalibri rimangono salvati sul dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Ulteriori informazioni.">
+<!ENTITY remote_tabs_panel_moved_title "Dove sono finite le schede?">
+<!ENTITY remote_tabs_panel_moved_desc "Le schede provenienti da altri dispositivi sono disponibili in un pannello della pagina principale, facilmente accessibile ogni volta che si apre una nuova scheda.">
+<!ENTITY remote_tabs_panel_moved_link "Apri il nuovo pannello.">
 <!ENTITY pin_site_dialog_hint "Inserire una chiave di ricerca">
 <!ENTITY filepicker_title "Seleziona un file">
 <!ENTITY filepicker_audio_title "Seleziona o registra un suono">
