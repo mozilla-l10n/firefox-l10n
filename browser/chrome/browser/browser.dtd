@@ -742,6 +742,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.block.accesskey "B">
 <!ENTITY mixedContentBlocked2.disabled.message "Bescherming is uitgeschakeld">
 
+<!ENTITY trackingContentBlocked.message "Volgen">
+<!ENTITY trackingContentBlocked.moreinfo "Delen van de pagina die uw online-activiteit volgen zijn geblokkeerd.">
+<!ENTITY trackingContentBlocked.learnMore "Meer info">
+<!ENTITY trackingContentBlocked.options "Opties">
+<!ENTITY trackingContentBlocked.unblock.label "Bescherming uitgeschakelen">
+<!ENTITY trackingContentBlocked.block.label "Bescherming inschakelen">
+<!ENTITY trackingContentBlocked.disabled.message "Volgbescherming is uitgeschakeld">
+
 <!ENTITY pointerLock.notification.message "Druk op ESC om het nogmaals te tonen.">
 
 <!ENTITY pluginNotification.showAll.label "Alles tonen">
