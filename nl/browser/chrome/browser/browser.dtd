@@ -738,6 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Opties">
 <!ENTITY mixedContentBlocked2.unblock.label "Bescherming voor nu uitschakelen">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "u">
+<!ENTITY mixedContentBlocked2.disabled.message "Bescherming is uitgeschakeld">
 
 <!ENTITY pointerLock.notification.message "Druk op ESC om het nogmaals te tonen.">
 
