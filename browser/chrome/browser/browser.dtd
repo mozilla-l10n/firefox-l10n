@@ -106,14 +106,14 @@
 <!ENTITY sharePageCmd.label "Condividi questa pagina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "a">
-<!ENTITY shareLinkCmd.label "Condividi questo link">
-<!ENTITY shareLinkCmd.accesskey "i">
-<!ENTITY shareImageCmd.label "Condividi questa immagine">
-<!ENTITY shareImageCmd.accesskey "g">
-<!ENTITY shareSelectCmd.label "Condividi selezione">
-<!ENTITY shareSelectCmd.accesskey "z">
-<!ENTITY shareVideoCmd.label "Condividi questo video">
-<!ENTITY shareVideoCmd.accesskey "i">
+<!ENTITY shareLink.label "Condividi questo link">
+<!ENTITY shareLink.accesskey "u">
+<!ENTITY shareImage.label "Condividi questa immagine">
+<!ENTITY shareImage.accesskey "i">
+<!ENTITY shareSelect.label "Condividi selezione">
+<!ENTITY shareSelect.accesskey "i">
+<!ENTITY shareVideo.label "Condividi questo video">
+<!ENTITY shareVideo.accesskey "i">
 <!ENTITY feedsMenu.label "Abbonati">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
