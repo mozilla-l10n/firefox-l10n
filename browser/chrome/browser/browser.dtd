@@ -710,7 +710,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusiraj časkanja">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.accesskey "č">
 
 <!ENTITY social.markpageMenu.accesskey "p">
 <!ENTITY social.markpageMenu.label "Spremi stranicu u…">
@@ -741,8 +741,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.learnMore "Saznajte više">
 <!ENTITY trackingContentBlocked.options "Mogućnosti">
 <!ENTITY trackingContentBlocked.unblock.label2 "Onemogući zaštitu na ovoj stranici">
-
-
+<!ENTITY trackingContentBlocked.block.label "Omogući zaštitu">
+<!ENTITY trackingContentBlocked.disabled.message "Zaštita od praćenja je isključena">
 
 <!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
 
@@ -775,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Zaboravi zadnjih:">
+<!ENTITY panicButton.view.5min                    "Pet minuta">
+<!ENTITY panicButton.view.2hr                     "Dva sata">
+<!ENTITY panicButton.view.day                     "24 sata">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Nastavak će:">
+<!ENTITY panicButton.view.deleteCookies           "Obriši nedavne <html:strong>kolačiće</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Obriši nedavnu <html:strong>povijest</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Zatvori sve <html:strong>kartice</html:strong> i <html:strong>prozore</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Otvori novi, čisti prozor">
 
 <!ENTITY panicButton.view.undoWarning             "Ovaj se potez neće moći poništiti.">
+<!ENTITY panicButton.view.forgetButton            "Zaboravi!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Vaša nedavna povijest je obrisana.">
+<!ENTITY panicButton.thankyou.msg2                "Sigurno pretraživanje!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Hvala!">
 
