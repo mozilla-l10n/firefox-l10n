@@ -57,11 +57,20 @@
 
 
 
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 
 
 
 #define bookmarks_support فایرفاکس: پشتیبانی
+
+
+
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
 
 
 
