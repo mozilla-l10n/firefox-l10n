@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Lettertypen">
-<!ENTITY  window.width                            "46em">
-<!ENTITY  window.macWidth                         "50em">
-<!ENTITY  window.unixWidth                        "49em">
 
 <!ENTITY  language.label                          "Lettertypen voor:">
 <!ENTITY  language.accesskey                      "L">
