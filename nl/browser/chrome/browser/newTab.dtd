@@ -8,6 +8,8 @@
 <!ENTITY newtab.customize.enhanced "Verbeterd">
 <!ENTITY newtab.customize.classic "Klassiek">
 <!ENTITY newtab.customize.blank "Leeg">
+<!ENTITY newtab.customize.what "Wat is dit voor een pagina?">
+<!ENTITY newtab.intro.header "Wat is dit voor een pagina?">
 <!ENTITY newtab.undo.removedLabel "Miniatuur verwijderd.">
 <!ENTITY newtab.undo.undoButton "Ongedaan maken.">
 <!ENTITY newtab.undo.restoreButton "Alles herstellen.">
