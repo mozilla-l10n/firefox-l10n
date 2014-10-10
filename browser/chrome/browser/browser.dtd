@@ -141,17 +141,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Modifier ce marque-page">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Découvrir davantage de services de partage…">
 <!ENTITY sharePageCmd.label "Partager cette page">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "P">
-<!ENTITY shareLinkCmd.label "Partager ce lien">
-<!ENTITY shareLinkCmd.accesskey "a">
-<!ENTITY shareImageCmd.label "Partager l'image">
-<!ENTITY shareImageCmd.accesskey "t">
-<!ENTITY shareSelectCmd.label "Partager la sélection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Partager la vidéo">
-<!ENTITY shareVideoCmd.accesskey "a">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Partager ce lien">
+<!ENTITY shareLink.accesskey "r">
+<!ENTITY shareImage.label "Partager l'image">
+<!ENTITY shareImage.accesskey "t">
+<!ENTITY shareSelect.label "Partager la sélection">
+<!ENTITY shareSelect.accesskey "s">
+<!ENTITY shareVideo.label "Partager la vidéo">
+<!ENTITY shareVideo.accesskey "a">
 <!ENTITY feedsMenu.label "S'abonner">
 <!ENTITY subscribeToPageMenupopup.label "S'abonner à cette page">
 <!ENTITY subscribeToPageMenuitem.label "S'abonner à cette page…">
@@ -690,6 +695,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "s">
 <!ENTITY social.closeNotificationItem.label "Plus tard">
 
+<!ENTITY social.directory.label "Répertoire d'activation">
+<!ENTITY social.directory.text "Vous pouvez activer des services de partage depuis le répertoire.">
+<!ENTITY social.directory.button "Ouvrir le répertoire">
+<!ENTITY social.directory.introText "Cliquez sur un service pour l'ajouter à &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Afficher davantage">
 
 <!ENTITY customizeMode.tabTitle "Personnaliser &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Outils et fonctionnalités supplémentaires">
