@@ -19,7 +19,7 @@
 
 <!ENTITY  serif.label                             "סריף:">
 <!ENTITY  serif.accesskey                         "ס">
-<!ENTITY  sans-serif.label                        "סאן-סריף:">
+<!ENTITY  sans-serif.label                        "סאן־סריף:">
 <!ENTITY  sans-serif.accesskey                    "ר">
 <!ENTITY  monospace.label                         "רוחב קבוע:">
 <!ENTITY  monospace.accesskey                     "ב">
@@ -70,7 +70,7 @@
 
 <!ENTITY languages.customize.Fallback.grouplabel  "קידוד תווים עבור תוכן ישן">
 <!ENTITY languages.customize.Fallback.label       "קידוד תווים חלופי:">
-<!ENTITY languages.customize.Fallback.accesskey   "ע">
+<!ENTITY languages.customize.Fallback.accesskey   "ח">
 <!ENTITY languages.customize.Fallback.desc        "קידוד תווים זה נמצא בשימוש עבור תוכן ישן שכשל בהצהרה על הקידוד שלו.">
 
 <!ENTITY languages.customize.Fallback.auto        "בררת מחדל לשפה הנוכחית">
