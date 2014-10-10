@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "O">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Izongezelelo">
+<!ENTITY addons.label                 "I-zongezelelo">
 <!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
 
@@ -590,12 +590,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
-<!ENTITY pageStyleMenu.label "Isimbo sephepha">
-<!ENTITY pageStyleMenu.accesskey "m">
-<!ENTITY pageStyleNoStyle.label "Akukho simbo">
-<!ENTITY pageStyleNoStyle.accesskey "A">
-<!ENTITY pageStylePersistentOnly.label "Isimbo sephepha esisisiseko">
-<!ENTITY pageStylePersistentOnly.accesskey "e">
+<!ENTITY pageStyleMenu.label "Iphepha le-Style">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "I-No Style">
+<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStylePersistentOnly.label "I-Basic Page Style">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "Tshintsa iisetingi zesithinteli esizivelelayo zale webhusayithi">
 
@@ -727,7 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 
 <!ENTITY mixedContentBlocked2.message "Isiqulatho esingakhuselekanga">
-<!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho encrypted kule webhusayithi zithintelwe">
+<!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho enkrayiphu kule webhusayithi zithintelwe">
 <!ENTITY mixedContentBlocked2.learnMore "Funda ngakumbi">
 <!ENTITY mixedContentBlocked2.options "Iinketho">
 <!ENTITY mixedContentBlocked2.unblock.label "kunye nokhuseleko lusayekiwe">
@@ -770,7 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
-<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi&brandShortName; ukulungiselela iWindows 8 Touch">
+<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela iWindows 8 Touch">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
