@@ -30,3 +30,10 @@
 <!ENTITY chooseFolderMac.accesskey    "ស">
 <!ENTITY alwaysAsk.label "សួរ​ខ្ញុំ​ជានិច្ច​​អំពី​កន្លែង​ដែល​ត្រូវ​រក្សាទុក​ឯកសារ ">
 <!ENTITY alwaysAsk.accesskey "រ">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក">
+
+

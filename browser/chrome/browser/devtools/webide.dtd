@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "រូបថត​អេក្រង់">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "មើល">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "ដំឡើង​កម្មវិធី​និម្មិត">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "សេចក្ដី​ពិពណ៌នា">
+<!ENTITY details_location "ទីតាំង">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "បិទ">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "ទូទៅ">
+<!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "ស្មាន​ការ​បញ្ចូល​បន្ទាត់​ផ្អែកលើ​មាតិកា​ប្រភព">
+
+
+<!ENTITY prefs_options_autoclosebrackets "វង់​ក្រចក​បិទ​ស្វ័យប្រវត្តិ">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "បញ្ចូល​វង់ក្រចក​បិទ​ដោយ​ស្វ័យប្រវត្តិ">
+
+<!ENTITY prefs_options_keybindings_default "លំនាំ​ដើម">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "ឈ្មោះ">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "ជំនួយ">

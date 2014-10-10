@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "បិទ/បើក​ឧបករណ៍">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY customizeMode.toolbars "បង្ហាញ / លាក់ របារ​ឧបករណ៍">
 <!ENTITY customizeMode.titlebar "របារ​ចំណង​ជើង">
+<!ENTITY customizeMode.lwthemes "រូបរាង">
+<!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
+
+<!ENTITY customizeMode.lwthemes.menuManage "គ្រប់គ្រង">
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ផ្ដោត​ការ​ជជែក">
@@ -710,18 +719,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក ៖">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "បង្អួច ឬ​អេក្រង់​ដែល​ត្រូវ​​ចែករំលែក៖">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក ៖">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "វីនដូ​​ដែល​អាច​មើល​ឃើញ​ទាំងអស់​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "ការ​ចូល​ប្រើ​ម៉ាស៊ីន​ថត/មីក្រូហ្វូន">
-<!ENTITY webrtcIndicatorButton.tooltip "បង្ហាញ​តំបន់​បណ្ដាញ​ដែល​អ្នក​កំពុង​ចែករំលែក​ម៉ាស៊ីន​ថត និង​មីក្រូហ្វូន​ជាមួយ">
 
-<!ENTITY loopCallButton.tooltip "អញ្ជើញ​អ្នក​ណា​ម្នាក់​ដើម្បី​និយាយ">
 
-<!ENTITY mixedContentBlocked.moreinfo "តំបន់បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ជា​ធម្មតា ទោះបីជា​មាតិកា​នេះ​​ត្រូវ​បាន​ប្លុក​ក៏​ដោយ។">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "តាមដាន">
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "ចុច ESC ប្រសិនបើ​អ្នក​ចង់​បង្ហាញ​វា​ម្ដងទៀត។">
 
@@ -750,4 +768,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "របារ​ចំហៀង">
 
 <!ENTITY switchToMetroCmd2.label       "ចាប់ផ្ដើម​ឡើងវិញក្នុង &brandShortName; សម្រាប់ Windows 8 Touch">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។">
+
+
+
+
 
