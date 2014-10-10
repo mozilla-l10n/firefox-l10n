@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "কোৰিয়ান">
 <!ENTITY  font.langGroup.cyrillic                 "চিৰিলিক">
 <!ENTITY  font.langGroup.el                       "গ্ৰীক">
-
+<!ENTITY  font.langGroup.other                    "অন্য লিখাৰ চিস্টেমসমূহ">
 <!ENTITY  font.langGroup.thai                     "থাই">
 <!ENTITY  font.langGroup.hebrew                   "হিব্ৰু">
 <!ENTITY  font.langGroup.arabic                   "আৰবী">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "আৰবী">
-
+<!ENTITY languages.customize.Fallback.baltic      "বল্টিক">
 <!ENTITY languages.customize.Fallback.ceiso       "মধ্য ইউৰোপীয়, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "মধ্য ইউৰোপীয়, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "থাই">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "তুৰ্কী">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ভিয়েতনামি">

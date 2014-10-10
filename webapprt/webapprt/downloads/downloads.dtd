@@ -19,8 +19,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "বাতিল কৰক">
 <!ENTITY cmd.cancel.accesskey             "C">
-
-
+<!ENTITY cmd.show.label                   "অন্তৰ্ভুক্ত ফোল্ডাৰ খোলক">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "সন্ধানকাৰীত দেখুৱাওক">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "খোলক">
@@ -31,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "ডাউনল'ড পৃষ্ঠালৈ যাওক">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "ডাউনল'ডৰ সংযোগ কপি কৰক">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "তালিকাৰ পৰা আঁতৰাওক">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
