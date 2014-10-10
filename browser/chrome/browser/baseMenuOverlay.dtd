@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "ر">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "میانبرهای صفحه کلید">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey   "م">
