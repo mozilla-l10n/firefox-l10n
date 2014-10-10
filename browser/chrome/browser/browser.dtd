@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "ಪ್ರತಿಕ್ರಿಯೆ ವಿನ್ಯಾಸ ನೋಟ">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Eyedropper">
 <!ENTITY eyedropper.accesskey "y">
@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F4">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -700,13 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY customizeMode.toolbars "ತೋರಿಸು / ಅಡಗಿಸು ಉಪಕರಣ ಪಟ್ಟಿಗಳು">
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
-
-
-
+<!ENTITY customizeMode.lwthemes "ಥೀಮ್‌ಗಳು">
+<!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
+<!ENTITY customizeMode.lwthemes.recommended "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ">
 <!ENTITY customizeMode.lwthemes.menuManage "ನಿರ್ವಹಿಸು">
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ಮಾತುಕತೆಗಳತ್ತ ಗಮನ ಹರಿಸು">
@@ -728,8 +728,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked2.message "ಅಸುರಕ್ಷಿತ ವಿಷಯ">
 <!ENTITY mixedContentBlocked2.moreinfo "ಈ ಜಾಲತಾಣದಲ್ಲಿ ಎನ್ಕ್ರಿಪ್ಟ್ ಆಗಿರದ ಕೆಲವು ಅಂಶಗಳನ್ನು ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ.">
-
-
+<!ENTITY mixedContentBlocked2.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY mixedContentBlocked2.options "ಆಯ್ಕೆಗಳು">
 <!ENTITY mixedContentBlocked2.unblock.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 <!ENTITY mixedContentBlocked2.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು (b)">
@@ -737,9 +737,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY trackingContentBlocked.message "ಜಾಡು ಇರಿಸುವಿಕೆ">
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "ನಿಮ್ಮ ಆನ್‌ಲೈನ್‌ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಕೆಲವು ಪುಟದ ಕೆಲವು ಭಾಗವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
+<!ENTITY trackingContentBlocked.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY trackingContentBlocked.options "ಆಯ್ಕೆಗಳು">
 <!ENTITY trackingContentBlocked.unblock.label2 "ಈ ತಾಣಕ್ಕಾಗಿ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ">
 <!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
@@ -794,6 +794,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.forgetButton            "ಮರೆತುಬಿಡು!">
 
 <!ENTITY panicButton.thankyou.msg1                "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಜಾಲ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಲಾಗಿದೆ.">
-
+<!ENTITY panicButton.thankyou.msg2                "ಸುರಕ್ಷಿತ ಜಾಲವೀಕ್ಷಣೆ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ಧನ್ಯವಾದಗಳು!">
 
