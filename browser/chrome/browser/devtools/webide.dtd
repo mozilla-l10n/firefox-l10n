@@ -123,7 +123,9 @@
 <!ENTITY runtimedetails_summonADBRoot "root పరికరం">
 <!ENTITY runtimedetails_ADBRootWarning "(లాక్‌చేయని బూట్‌లోడర్ అవసరం)">
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools నిర్భందిత అనుమతులు: ">
-
-
+<!ENTITY runtimedetails_requestPrivileges "ఉన్నత అనుమతులు అభ్యర్ధించు">
+<!ENTITY runtimedetails_privilegesWarning "(పరికరం పునఃప్రారంభించును. root ఏక్సెస్ అవసరం.)">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "మానిటర్">
 <!ENTITY monitor_help "సహాయం">
