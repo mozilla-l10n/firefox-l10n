@@ -22,6 +22,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "តើ​ខ្ញុំ​គួរ​តែ​ធ្វើ​អ្វី ? ">
 <!ENTITY certerror.whatShouldIDo.content "ជា​ធម្មតា ប្រសិនបើ​​អ្នក​​តភ្ជាប់​ទៅ​តំបន់បណ្ដាញ​នេះ​​គ្មាន​បញ្ហា កំហុស​នេះ​មាន​ន័យ​ថា មាន​នរណា​ម្នាក់​កំពុង​ព្យាយាម​បន្លំ​តំបន់បណ្ដាញ​នេះ ហើយ​អ្នក​មិន​គួរ​បន្ត​ទៀត​ទេ ។">
+
 <!ENTITY certerror.getMeOutOfHere.label "យក​ខ្ញុំ​ចេញ​ពី​ទីនេះ!">
 
 <!ENTITY certerror.expert.heading "ខ្ញុំ​យល់​ពី​ហានិភ័យ">
