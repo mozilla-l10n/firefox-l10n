@@ -82,7 +82,7 @@
 <!ENTITY sync.default.client.name "&formatS2; இல் &formatS1;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "புத்தகக்குறிகள் மெனு">
+<!ENTITY bookmarks.folder.menu.label "புத்தகக்குறிகள் பட்டி">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ஒட்டுகள்">
 <!ENTITY bookmarks.folder.toolbar.label "புத்தகக்குறிகள் கருவிப்பட்டை">
