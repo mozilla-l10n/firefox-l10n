@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "ប្រើ​ម៉ាស៊ីន​មេ​ផ្ទាល់ខ្លួន">
 <!ENTITY sync.input.server.label "​URL​ របស់​ម៉ាស៊ីន​មេ">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "មិន​អាច​រៀបចំ &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; មិន​អាច​តភ្ជាប់​ទៅកាន់​ម៉ាស៊ីន​មេ​បាន​ទេ ។ តើ​អ្នក​ចង់​សាកល្បង​ម្ដងទៀត​ដែរ​ឬទេ ?">
 <!ENTITY sync.button.tryagain.label "ព្យាយាម​ម្ដងទៀត">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "បាន​បរាជ័យ​ក្នុង​ការ​បង្កើត​គណនី​នៅ​លើ​ឧបករណ៍​របស់​អ្នក ។">
 <!ENTITY sync.subtitle.failmultiple.label "តើ​អ្នក​បាន​ដំឡើង Firefox ច្រើន​ជាង​មួយ​ឬ ? បច្ចុប្បន្ន &syncBrand.fullName.label; គាំទ្រ​តែ Firefox ដែល​បាន​ដំឡើង​នៅ​ពេល​នេះ​ប៉ុណ្ណោះ ។ សូម​លុប​ធាតុ​ផ្សេងទៀត​ដើម្បី​អាច​ប្រើ &syncBrand.shortName.label; បាន ។">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "ការ​រៀបចំ​បញ្ចប់​ទាំងស្រុង">
 <!ENTITY sync.subtitle.success.label1 "ឥឡូវនេះ​ទិន្នន័យ​របស់​អ្នក​កំពុង​ត្រូវ​បាន​ទាញ​យក​នៅ​ក្នុង​ផ្នែក​ខាងក្រោយ ។ អ្នក​អាច​ទៅកាន់​ការ​កំណត់​ដើម្បី​គ្រប់គ្រង​គណនី​របស់​អ្នក ឬ​ចាប់ផ្ដើម​ការ​រុករក​ជាមួយ &brandShortName; ។">
 <!ENTITY sync.settings.label "ការ​កំណត់">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (បាន​បដិសេធ)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; on &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ម៉ឺនុយ​ចំណាំ">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "លក្ខខណ្ឌ​ប្រើប្រាស់">
 <!ENTITY fxaccount_status_linkprivacy "សម្គាល់​ឯកជន">
+<!ENTITY fxaccount_status_more "ច្រើន​ទៀត&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "ច្រើន​ទៀត&ellipsis;">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; នឹង​បញ្ឈប់​ការ​ធ្វើសមកាលកម្ម​ជា​មួយ​គណនី​របស់​អ្នក ប៉ុន្តែ​នឹង​មិន​លុប​ទិន្នន័យ​រុករក​របស់​អ្នក​​ណា​មួយ​ទេ​នៅ​លើ​ឧបករណ៍​នេះ។">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "បាន​លុប​ &formatS; គណនី Firefox ។">
+
+<!ENTITY fxaccount_remove_account_menu_item "បាន​លុប &formatS; គណនី Firefox ។">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "មិន​អាច​តភ្ជាប់​ទៅ​បណ្ដាញ">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ត្រូវ​បាន​តភ្ជាប់">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "ប៉ះ​ដើម្បី​ចូល​ជា &formatS;">

@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ ។">
 <!ENTITY  error_loading_file "មាន​កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​បាន​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
+
+<!ENTITY  onboard_start_message "សូម​ស្វាគមន៍​មក​កាន់ &brandShortName;!">
+<!ENTITY  onboard_start_subtext "ប្ដេជ្ញា​ចំពោះ​អ្នក ភាព​ឯកជន​របស់​អ្នក និង​បណ្ដាញបើកចំហ">
+<!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
+<!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "ជ្រើស​ឯកសារ">
 
-<!ENTITY url_bar_default_text "បញ្ចូល​ការ​ស្វែងរក ឬ​អាសយដ្ឋាន">
+<!ENTITY url_bar_default_text2 "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 
 <!ENTITY bookmark "ចំណាំ">
 <!ENTITY bookmark_added "បាន​បន្ថែម​ចំណាំ">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "លំនាំដើម​របស់​ប្រព័ន្ធ">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "បន្ថែម​ទៅ &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "ចំណាំ">
+<!ENTITY overlay_share_reading_list_btn_label "បន្ថែម​ទៅ​បញ្ជី​អាន">
+<!ENTITY overlay_share_send_other "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
+<!ENTITY overlay_share_no_url "រកមិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
+<!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
+<!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "សម្អាត​ឥឡូវ​">
 <!ENTITY pref_clear_private_data_category "សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY pref_clear_on_exit_title "តែងតែ​សម្អាត​ពេល​បិទ">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ស្វ័យ​ប្រវត្តិ​ពេលណា​​ដែលអ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយមេ">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ស្វ័យ​ប្រវត្តិ​ពេលណា​​ដែលអ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយមេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
 <!ENTITY pref_plugins_enabled "បាន​បើក">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "កញ្ជ្រោង​ពណ៌​ទឹកក្រូច​នឹង​ធ្វើ​​បាន​លើស​ពី​ការ​រំពឹង​ទុក​របស់​អ្នក​ទៅទៀត ដូចជា​ការ​បង្កើន​ល្បឿន ការ​បត់បែន និង​សុវត្ថិភាព ។ ដោយសារតែ​ការ​មិន​រក​ប្រាក់​ចំណេញ\យើង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​កែប្រែ​ដោយ​សេរី និង​ដោយ​មិន​មាន​ការ​ដាក់​កម្រិត​លើ​ការ​ខូចខាត​ឡើយ ។ មានន័យថា​វា​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​ដ៏​ល្អ និង​អនាគត​ដ៏​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ ។">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
-<!ENTITY pref_show_product_announcements "បង្ហាញ​សេចក្ដី​ប្រកាស​ផលិតផល">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "មុន">
 <!ENTITY find_next "បន្ទាប់">
 <!ENTITY find_close "បិទ">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "ចាកចេញ​​ពី​​ឧបករណ៍">
+<!ENTITY media_sending_to "ផ្ញើ​ទៅ​ឧបករណ៍">
 <!ENTITY media_play "ចាក់">
 <!ENTITY media_pause "ផ្អាក">
 <!ENTITY media_stop "បញ្ឈប់">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
 <!ENTITY pref_titlebar_mode_url "បង្ហាញ​អាសយដ្ឋាន​ទំព័រ">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "រមូរ​របារ​ចំណងជើង">
+<!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
+<!ENTITY pref_scroll_title_bar_summary "លាក់​របារ​ចំណង​ជើង &brandShortName; ពេល​រមូរ​ទំព័រ​ចុះក្រោម">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
