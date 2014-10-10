@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "ពិនិត្យមើល​បច្ចុប្បន្នភាព">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "ចាប់ផ្ដើម​​ឡើង​វិញ​ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
+<!ENTITY update.updateButton.label2               "ចាប់ផ្ដើម &brandShortName; ​ឡើងវិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "​អនុវត្ត​បច្ចុប្បន្នភាព…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">

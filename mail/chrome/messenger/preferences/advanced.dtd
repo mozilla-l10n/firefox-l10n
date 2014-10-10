@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ask me every time">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "ម៉ាស៊ីនមេ​​ឆ្លើយតប OCSP ដើម្បី​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​របស់វិញ្ញាបនបត្រ​បច្ចុប្បន្ន">
+<!ENTITY enableOCSP.accesskey            "ម">
 
 <!ENTITY viewCertificates.label         "View Certificates">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Validation">
-<!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.label      "ឧបករណ៍​សុវត្ថិភាព">
+<!ENTITY viewSecurityDevices.accesskey  "D">
