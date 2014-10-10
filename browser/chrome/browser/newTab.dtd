@@ -4,6 +4,10 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nieuw tabblad">
+<!ENTITY newtab.customize.title "Nieuw tabbladpagina aanpassen">
+<!ENTITY newtab.customize.enhanced "Uitgebreid">
+<!ENTITY newtab.customize.classic "Klassiek">
+<!ENTITY newtab.customize.blank "Leeg">
 <!ENTITY newtab.undo.removedLabel "Miniatuur verwijderd.">
 <!ENTITY newtab.undo.undoButton "Ongedaan maken.">
 <!ENTITY newtab.undo.restoreButton "Alles herstellen.">
