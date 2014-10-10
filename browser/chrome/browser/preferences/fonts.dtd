@@ -22,7 +22,6 @@
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "Westers">
-<!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
 <!ENTITY  font.langGroup.japanese                 "Japans">
 <!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
