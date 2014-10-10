@@ -45,6 +45,8 @@
 <!ENTITY viewMenu.label               "نما">
 <!ENTITY viewMenu.accesskey           "ن">
 
+<!ENTITY lineNumbers.label             "نمایش شماره‌ی خطوط">
+<!ENTITY lineNumbers.accesskey         "ش">
 
 
 
@@ -54,11 +56,10 @@
 
 
 
+<!ENTITY smallerFont.commandkey       "-">
 
 
-
-
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "ویرایش">
 <!ENTITY editMenu.accesskey           "و">

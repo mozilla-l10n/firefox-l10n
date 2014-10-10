@@ -1,14 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPrivateBrowsing.title.normal     "پنجره مرورگر ناشناس باز شود؟">
+
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه ای را از این پنجره به خاطر نمی‌سپارد.">
 
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "شما در حال حاضر در پنجره ی حالت ناشناس قرار ندارید.">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "با آن که تاریخچه‌ای از مرور شما در این رایانه باقی نخواهد ماند، فراهم‌کنندهه سرویس اینترنت یا کارفرمای شما ممکن است بتوانند صفحات وب بازدید شده توسط شما را ردگیری کنند.">
 
 
-
-
-
-
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره ناشناس باز کن">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->

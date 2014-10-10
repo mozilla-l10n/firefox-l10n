@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "به  &syncBrand.shortName.label; خوش آمدید">
+<!ENTITY aboutAccounts.welcome "به &syncBrand.shortName.label; خوش آمدید">
 
-<!ENTITY aboutAccountsConfig.description "برای هم‌گام‌سازی زبانه ها، نشانکها و گذرواژه ها و... وارد شوید.">
-<!ENTITY aboutAccountsConfig.startButton.label "شروع کنید">
-<!ENTITY aboutAccountsConfig.useOldSync.label "آیا از نسخه قدیمی‌تر هم‌گام‌سازی استفاده می‌کنید؟">
+<!ENTITY aboutAccountsConfig.description "برای همگام‌سازی زبانه ها، نشانکها و گذرواژه های خود وارد شوید.">
+<!ENTITY aboutAccountsConfig.startButton.label "شروع به کار">
+<!ENTITY aboutAccountsConfig.useOldSync.label "آیا از نسخه قدیمی همگام‌سازی استفاده می‌کنید؟">
 <!ENTITY aboutAccountsConfig.manage.label "مدیریت">

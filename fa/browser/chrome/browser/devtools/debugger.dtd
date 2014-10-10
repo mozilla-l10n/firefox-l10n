@@ -109,9 +109,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "منابع">
 
-
-
+<!ENTITY debuggerUI.tabs.callstack      "پشته تماس">
+<!ENTITY debuggerUI.tabs.variables      "متغیرها">
+<!ENTITY debuggerUI.tabs.events         "رویدادها">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
