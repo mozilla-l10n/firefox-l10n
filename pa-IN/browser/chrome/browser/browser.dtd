@@ -108,7 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ਚਾਲੂ ਹੈ">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ਕੁਝ ਕੁ ਪਲ਼ਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੇਗਾ।">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
-<!ENTITY syncErrorPanel.subTitle "ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸਾਇਨ ਇਨ ਕਰੋ ਜੀ">
+<!ENTITY syncErrorPanel.subTitle "ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ ਜੀ">
 <!ENTITY syncErrorPanel.signInButton.label "ਸਾਇਨ ਇਨ">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "ਕੀਤੀ ਚੋਣ ਸਾਂਝੀ ਕਰੋ">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "ਇਹ ਵਿਡੀਓ ਸਾਂਝੀ ਕਰੋ">
+<!ENTITY shareVideoCmd.label "ਇਹ ਵੀਡੀਓ ਸਾਂਝੀ ਕਰੋ">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
@@ -154,16 +154,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
-<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
-<!ENTITY forwardButton.tooltip        "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
+<!ENTITY forwardButton.tooltip        "ਇੱਕ ਸਫ਼ੇ ਅੱਗੇ ਜਾਓ">
 <!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ">
 <!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਸਫ਼ਾ ਮੁੜ ਲੋਡ ਕਰੋ">
 <!ENTITY stopCmd.label                "ਰੋਕੋ">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ਇਸ ਸਫ਼ਾ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕੋ">
+<!ENTITY stopButton.tooltip           "ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕੋ">
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ਾ ਪਰਿੰਟ ਕਰੋ">
@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 <!ENTITY devAppMgrMenu.label               "ਐਪ ਮੈਨੇਜਰ">
 <!ENTITY devAppMgrMenu.accesskey           "A">
-<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.label                      "ਵੈੱਬ-IDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
@@ -456,7 +456,7 @@ can reach it easily. -->
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "ਵੇਰਵਾ ਵੇਖੋ">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "ਵਿਡੀਓ ਵੇਖੋ">
+<!ENTITY viewVideoCmd.label           "ਵੀਡੀਓ ਵੇਖੋ">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
@@ -486,13 +486,13 @@ can reach it easily. -->
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "…ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "…ਵਿਡੀਓ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveVideoCmd.label           "…ਵੀਡੀਓ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "…ਆਡੀਓ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "…ਚਿੱਤਰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "…ਵਿਡੀਓ ਈਮੇਲ ਕਰੋ">
+<!ENTITY emailVideoCmd.label          "…ਵੀਡੀਓ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "…ਆਡੀਓ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -506,7 +506,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ਚਿੱਤਰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "ਵਿਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
+<!ENTITY copyVideoURLCmd.label        "ਵੀਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ਆਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -725,7 +725,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "ਹੁਣੇ ਨਹੀਂ">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; ਪਸੰਦੀਦਾ">
+<!ENTITY customizeMode.tabTitle "&brandShortName; ਪਸੰਦ">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "ਵਾਧੂ ਟੂਲ ਤੇ ਫੀਚਰ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ਹੋਰ ਟੂਲ ਚਾਹੀਦੇ ਹਨ?">
@@ -760,7 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਸਮਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਦੇ ਬਾਵਜੂਦ ਵੀ ਠੀਕ ਤਰ੍ਹਾਂ ਚੱਲਣਗੀਆਂ।">
 
 <!ENTITY mixedContentBlocked2.message "ਅਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ">
-<!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
+<!ENTITY mixedContentBlocked2.moreinfo "ਇਹ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਕੁਝ ਨਾ-ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
 <!ENTITY mixedContentBlocked2.learnMore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY mixedContentBlocked2.options "ਚੋਣਾਂ">
 <!ENTITY mixedContentBlocked2.unblock.label "ਹੁਣ ਲਈ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
@@ -771,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਗ">
-<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
+<!ENTITY trackingContentBlocked.moreinfo "ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਸਨ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
 <!ENTITY trackingContentBlocked.learnMore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY trackingContentBlocked.options "ਚੋਣਾਂ">
 <!ENTITY trackingContentBlocked.unblock.label2 "ਇਹ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">

@@ -25,7 +25,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) to specify that &brandShortName; only connect
 to it securely. As a result, it is not possible to add an exception for this
 certificate.">
-<!ENTITY certerror.getMeOutOfHere.label "ਮੈਨੂੰ ਇੱਥੋਂ ਕੱਢੋਂ!">
+<!ENTITY certerror.getMeOutOfHere.label "ਮੈਨੂੰ ਇੱਥੋ ਕੱਢੋਂ!">
 
 <!ENTITY certerror.expert.heading "ਮੈਂ ਖਤਰੇ ਸਮਝਦਾ ਹਾਂ">
 <!ENTITY certerror.expert.content "ਜੇ ਤੁਸੀਂ ਸਮਝਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ ਤਾਂ  &brandShortName; ਨੂੰ ਇਸ ਸਾਈਟ ਦੀ ਪਛਾਣ ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਰੋ।

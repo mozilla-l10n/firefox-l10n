@@ -5,10 +5,10 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
-<!ENTITY  onboard_start_message "Welcome to &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Committed to you, your privacy, and an Open Web">
-<!ENTITY  onboard_start_button_account "Sign in to &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Start Browsing">
+<!ENTITY  onboard_start_message "&brandShortName; ਉੱਤੇ ਜੀ ਆਇਆਂ ਨੂੰ!">
+<!ENTITY  onboard_start_subtext "ਤੁਹਾਨੂੰ, ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਤੇ ਖੁੱਲ੍ਹੇ ਵੈੱਬ ਲਈ ਸਮਰਪਿਤ">
+<!ENTITY  onboard_start_button_account "&brandShortName; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
+<!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen. -->
 <!--      They are automatically converted to all caps by the Android platform. -->
@@ -92,23 +92,23 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Add to &brandShortName;">
+<!ENTITY overlay_share_label "&brandShortName; ਵਿੱਚ ਜੋੜੋ">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Bookmark">
-<!ENTITY overlay_share_reading_list_btn_label "Add to Reading List">
-<!ENTITY overlay_share_send_other "Send to other devices">
+<!ENTITY overlay_share_bookmark_btn_label "ਬੁੱਕਮਾਰਕ">
+<!ENTITY overlay_share_reading_list_btn_label "ਪੜ੍ਹਨ-ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY overlay_share_send_other "ਹੋਰ ਯੰਤਰ ਉੱਤੇ ਭੇਜੋ">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
-<!ENTITY overlay_share_no_url "No link found in this share">
-<!ENTITY overlay_share_retry "Try again">
-<!ENTITY overlay_share_select_device "Select device">
+<!ENTITY overlay_share_send_tab_btn_label "ਹੋਰ ਯੰਤਰ ਨੂੰ ਭੇਜੋ">
+<!ENTITY overlay_share_no_url "ਇਹ ਸਾਂਝ ਵਿੱਚ ਕੋਈ ਲਿੰਕ ਨਹੀਂ ਮਿਲਿਆ">
+<!ENTITY overlay_share_retry "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
+<!ENTITY overlay_share_select_device "ਯੰਤਰ ਚੁਣੋ">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -129,7 +129,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ਟੋਟਕਾ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖ ਕੇ ਅਤੇ ਫੇਰ &formatI; ਆਈਕਾਨ ਛੂਹ ਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!ENTITY pref_developer_paint_flashing "ਪੇਂਟ ਫਲੈਸ਼ਿੰਗ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
@@ -345,8 +345,8 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
-<!ENTITY pref_scroll_title_bar_summary "Hide the &brandShortName; title bar when scrolling down a page">
+<!ENTITY pref_scroll_title_bar2 "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY pref_scroll_title_bar_summary "ਸਫ਼ੇ ਨੂੰ ਹੇਠਾਂ ਸਕਰਾਉਣ ਦੇ ਦੌਰਾਨ &brandShortName; ਟਾਈਟਲ ਪੱਟੀ ਓਹਲੇ ਕਰੋ">
   
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -368,7 +368,7 @@ size. -->
 
 <!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!ENTITY reading_list_failed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
-<!ENTITY reading_list_duplicate "ਪੇਜ਼ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
+<!ENTITY reading_list_duplicate "ਸਫਾ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -420,7 +420,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; ਲਈ">
 
 <!ENTITY private_browsing_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we dont keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
+<!ENTITY private_tabs_panel_empty_desc "ਤੁਹਾਡੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵਿਖਾਇਆ ਜਾਵੇਗਾ। ਜਦੋਂ ਕੀ ਅਸੀਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਜਾਂ ਕੂਕੀਜ਼ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਰੱਖਦੇ ਹਾਂ, ਤੁਹਾਡੇ ਕੀਤੇ ਬੁੱਕਮਾਰਕ ਤੇ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
 <!ENTITY private_tabs_panel_learn_more "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਇੱਥੇ ਦਿਓ">
@@ -429,7 +429,7 @@ size. -->
 <!ENTITY filepicker_title "ਫਾਇਲ ਚੁਣੋ">
 <!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 <!ENTITY filepicker_image_title "ਤਸਵੀਰ ਚੁਣੋ ਜਾਂ ਖਿੱਚੋ">
-<!ENTITY filepicker_video_title "ਵਿਡੀਓ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
+<!ENTITY filepicker_video_title "ਵੀਡੀਓ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਜੁੜੇ ਹੋਏ ਹੋ ">

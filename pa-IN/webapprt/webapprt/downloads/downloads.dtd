@@ -8,45 +8,45 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Starting…">
-<!ENTITY scanning.label                   "Scanning for viruses…">
+<!ENTITY starting.label                   "…ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ">
+<!ENTITY scanning.label                   "…ਵਾਈਰਸ ਲਈ ਜਾਂਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ">
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "ਡਾਊਨਲੋਡ">
 
-<!ENTITY cmd.pause.label                  "Pause">
+<!ENTITY cmd.pause.label                  "ਵਿਰਾਮ">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
+<!ENTITY cmd.resume.label                 "ਮੁੜ-ਪ੍ਰਾਪਤ">
 <!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
+<!ENTITY cmd.cancel.label                 "ਰੱਦ ਕਰੋ">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "Open Containing Folder">
+<!ENTITY cmd.show.label                   "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show in Finder">
+<!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖੋ">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Open">
+<!ENTITY cmd.open.label                   "ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "Open With…">
+<!ENTITY cmd.openWith.label               "…ਨਾਲ ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "Retry">
+<!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Go to Download Page">
+<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
+<!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
+<!ENTITY cmd.removeFromList.label         "ਸੂਚੀ ਤੋਂ ਹਟਾਓ">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
+<!ENTITY cmd.clearList.label              "ਸੂਚੀ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY cmd.clearList.tooltip            "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਉ">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Close when downloads complete">
-<!ENTITY closeWhenDone.tooltip            "Closes the Downloads window when all files are done downloading">
+<!ENTITY closeWhenDone.label              "ਬੰਦ ਕਰੋ, ਜਦੋਂ ਡਾਊਨਲੋਡ ਪੂਰੇ ਹੋਣ">
+<!ENTITY closeWhenDone.tooltip            "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ, ਜਦੋਂ ਸਭ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਫਾਇਲਾਂ ਪੂਰੀਆਂ ਹੋ ਜਾਣ">
 
-<!ENTITY showFolder.label                 "Show this Folder">
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY showFolder.label                 "ਇਹ ਫੋਲਡਰ ਵੇਖੋ">
+<!ENTITY searchBox.label                  "…ਖੋਜ">
