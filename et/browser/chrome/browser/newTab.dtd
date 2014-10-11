@@ -10,7 +10,7 @@
 <!ENTITY newtab.customize.blank    "Tühi leht">
 <!ENTITY newtab.customize.what     "Mis leht see on?">
 <!ENTITY newtab.intro.header       "Mis leht see on?">
-<!ENTITY newtab.undo.removedLabel  "Ruuduke eemdaldati.">
+<!ENTITY newtab.undo.removedLabel  "Ruuduke eemaldati.">
 <!ENTITY newtab.undo.undoButton    "Võta tagasi.">
 <!ENTITY newtab.undo.restoreButton "Taasta kõik.">
 <!ENTITY newtab.undo.closeTooltip  "Peida">
