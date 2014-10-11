@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Utilitza un servidor personalitzat">
 <!ENTITY sync.input.server.label "URL del servidor">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "No s\u0027ha pogut configurar el &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "El &syncBrand.fullName.label; no s\u0027ha pogut connectar al servidor. Voleu que ho provi una altra vegada?">
 <!ENTITY sync.button.tryagain.label "Torna-ho a provar">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Ha fallat la creació del compte al dispositiu.">
 <!ENTITY sync.subtitle.failmultiple.label "Teniu més d\u0027un Firefox instal·lat? Actualment, el &syncBrand.fullName.label; només permet una instal·lació del Firefox alhora. Desinstal·leu les altres instàncies per poder utilitzar el &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "S\u0027ha finalitzat la configuració">
 <!ENTITY sync.subtitle.success.label1 "Les vostres dades s\u0027estan baixant en segon pla. Podeu anar als Paràmetres per gestionar el vostre compte o començar a navegar amb el &brandShortName;.">
 <!ENTITY sync.settings.label "Paràmetres">
@@ -73,6 +73,13 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (desfasat)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; en &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Menú de les adreces d\u0027interès">
@@ -199,13 +206,22 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Condicions del servei">
 <!ENTITY fxaccount_status_linkprivacy "Avís de privadesa">
+<!ENTITY fxaccount_status_more "Més&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Voleu eliminar el compte del Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "El &brandShortName; deixarà de sincronitzar-se amb el vostre compte, però les vostres dades de navegació d\u0027aquest dispositiu no s\u0027eliminaran.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "S\u0027ha eliminat el compte del Firefox &formatS;.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Elimina el compte">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No s\u0027ha pogut connectar a la xarxa">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "El &syncBrand.shortName.label; no està connectat">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toqueu per iniciar la sessió com a &formatS;">

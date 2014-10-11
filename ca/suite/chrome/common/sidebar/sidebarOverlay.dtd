@@ -10,8 +10,8 @@
 <!ENTITY sidebar.customize.accesskey    "t">
 <!ENTITY sidebar.hide.label             "Amaga la pestanya">
 <!ENTITY sidebar.hide.accesskey         "g">
-<!ENTITY sidebar.switch.label           "Commuta a la pestanya">
-<!ENTITY sidebar.switch.accesskey       "m">
+<!ENTITY sidebar.switch.label           "Canvia a la pestanya">
+<!ENTITY sidebar.switch.accesskey       "v">
 <!ENTITY sidebarCmd.label               "Barra lateral">
 <!ENTITY sidebarCmd.accesskey           "l">
 <!ENTITY sidebar.loading.label          "S'està carregant...">

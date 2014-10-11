@@ -11,17 +11,19 @@
 
 
 <!ENTITY connectionFailure.title "No s'ha pogut connectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "L'adreça està restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No s'ha trobat el servidor">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc3 "<ul> 
 <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p. ex. 
 <strong>ww</strong>.exemple.com en comptes de 
 <strong>www</strong>.exemple.com</li> 
-<li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre dispositiu.</li> 
+<li>Si no podeu carregar cap pàgina, comproveu la connexió de dades o Wi-Fi del vostre dispositiu. 
+<button id='wifi'>Activa la connexió Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
@@ -42,14 +44,16 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "S'ha interromput la connexió">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "El document ha caducat">
 <!ENTITY notCached.longDesc "<p>El document sol·licitat ja no està disponible a la memòria cau del &brandShortName;.</p><ul><li>Per precaució, el &brandShortName; no tornarà a sol·licitar automàticament els documents sensibles.</li><li>Feu clic a Prova-ho de nou per tornar a sol·licitar el document al lloc web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Torneu-ho a provar. El &brandShortName; intentarà obrir una connexió i tornar a carregar la pàgina.</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Torneu-ho a provar. El &brandShortName; intentarà obrir una connexió i tornar a carregar la pàgina. 
+<button id='wifi'>Activa la connexió Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
@@ -63,10 +67,10 @@
 </ul>">
 
 <!ENTITY netReset.title "S'ha reiniciat la connexió">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "S'ha esgotat el temps d'espera de la connexió">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "No s'ha entès l'adreça">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +85,11 @@ funcionant.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Verifiqueu que els paràmetres del servidor intermediari siguin correctes.</li> 
-<li>Comproveu la connexió a la xarxa del vostre dispositiu.</li> 
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Comproveu que els paràmetres del servidor intermediari siguin correctes.</li> 
+<li>Comproveu que funcioni la connexió de dades o Wi-Fi del vostre dispositiu. 
+<button id='wifi'>Activa la connexió Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "La pàgina no està redirigint adequadament">
@@ -113,9 +119,11 @@ que algú estigués intentant fer-se passar pel servidor.</li>
 ser temporal, i podeu tornar-ho a provar més tard.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí uns moments.</li> 
-<li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre dispositiu mòbil.</li> 
+<li>Si no podeu carregar cap pàgina, comproveu la connexió de dades o Wi-Fi del vostre dispositiu mòbil. 
+<button id='wifi'>Activa la connexió Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat del contingut">

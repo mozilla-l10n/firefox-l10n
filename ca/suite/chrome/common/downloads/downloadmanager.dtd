@@ -12,9 +12,9 @@
 <!ENTITY search.accesskey                "C">
 <!ENTITY search.key                      "f">
 
-<!ENTITY cmd.clearList.label             "Neteja la llista">
-<!ENTITY cmd.clearList.tooltip           "Suprimeix les baixades completades, cancel·lades i fallides de la llista">
-<!ENTITY cmd.clearList.accesskey         "N">
+<!ENTITY cmd.clearList.label             "Buida la llista">
+<!ENTITY cmd.clearList.tooltip           "Elimina de la llista les baixades acabades, cancel·lades o que han fallat">
+<!ENTITY cmd.clearList.accesskey         "B">
 
 <!ENTITY col.name.label                  "Nom">
 <!ENTITY col.name.accesskey              "N">
