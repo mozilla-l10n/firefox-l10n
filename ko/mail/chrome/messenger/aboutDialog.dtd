@@ -8,7 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "업데이트 확인하기">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "업데이트를 위해 재시작하기">
+<!ENTITY update.updateButton.label2               "업데이트를 위해 &brandShortName; 재시작하기">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "업데이트 적용하기…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">

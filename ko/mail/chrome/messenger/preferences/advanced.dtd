@@ -111,11 +111,10 @@
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "매번 물어보기">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "OCSP 응답 서버에 이 인증서의 유효성 확인하기">
+<!ENTITY enableOCSP.accesskey            "Q">
 
-<!-- Certificates -->
 <!ENTITY viewCertificates.label         "인증서 보기">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "인증서 유효성 확인">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "보안 장치">
 <!ENTITY viewSecurityDevices.accesskey  "S">
