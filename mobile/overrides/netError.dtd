@@ -20,11 +20,11 @@
 <!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
 <!ENTITY dnsNotFound.longDesc3 "
 <ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
+  <li>ਲਿਖੇ ਗਏ ਐਡਰੈਸ ਵਿੱਚ ਗਲਤੀਆਂ ਦੀ ਜਾਂਚ ਕਰੋ ਜਿਵੇੇਂ ਕਿ
+    <strong>ww</strong>.example.com ਬਜਾਏ ਕਿ
     <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਯੰਤਰ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
+    <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
@@ -62,8 +62,8 @@
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
 <!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
+  <li>ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ। &brandShortName;  ਕੁਨੈਕਸ਼ਨ ਖੋਲ੍ਹਣ ਅਤੇ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।
+    <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
@@ -146,9 +146,9 @@
 
 <!ENTITY sharedLongDesc3 "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
+  <li>ਸਾਈਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਬਹੁਤ ਰੁਝੀ ਹੋ ਸਕਦੀ ਹੈ। ਕੁਝ ਕੁ ਪਲਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</li>
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਯੰਤਰ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
+    <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
@@ -161,7 +161,7 @@
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">
-<!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ…">
+<!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਿਲ…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

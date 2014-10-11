@@ -11,21 +11,21 @@
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ'>
 <!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ਖਾਤਾ ਸ਼ਾਮਿਲ'>
-<!ENTITY sync.title.pair.label 'ਜੰਤਰ ਪੇਅਰ ਕਰੋ'>
+<!ENTITY sync.title.pair.label 'ਯੰਤਰ ਪੇਅਰ ਕਰੋ'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਜੰਤਰ ਉੱਤੇ “ &syncBrand.shortName.label; ਸੈਟਅੱਪ” ਚੁਣੋ।'>
-<!ENTITY sync.subtitle.header2.label 'ਆਪਣਾ ਇਹ ਕੋਡ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਉੱਤੇ ਦਿਉ'>
-<!ENTITY sync.subtitle.connectlocation2.label 'ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੇ &syncBrand.shortName.label; \&apos;s ਫਾਇਰਫਾਕਸ ਚੋਣਾਂ ਭਾਗ ਵਿੱਚ “&sync.title.pair.label;” ਚੁਣੋ।'>
-<!ENTITY sync.subtitle.pair.label 'ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਉੱਤੇ “ਜੰਤਰ ਪੇਅਰ ਕਰੋ” ਚੋਣ ਕਰੋ।'>
+<!ENTITY sync.subtitle.connect.label 'ਆਪਣੇ ਨਵੇਂ ਯੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਯੰਤਰ ਉੱਤੇ “ &syncBrand.shortName.label; ਸੈਟਅੱਪ” ਚੁਣੋ।'>
+<!ENTITY sync.subtitle.header2.label 'ਆਪਣਾ ਇਹ ਕੋਡ ਆਪਣੇ ਹੋਰ ਯੰਤਰ ਉੱਤੇ ਦਿਉ'>
+<!ENTITY sync.subtitle.connectlocation2.label 'ਆਪਣੇ ਹੋਰ ਯੰਤਰ ਦੇ &syncBrand.shortName.label; \&apos;s ਫਾਇਰਫਾਕਸ ਚੋਣਾਂ ਭਾਗ ਵਿੱਚ “&sync.title.pair.label;” ਚੁਣੋ।'>
+<!ENTITY sync.subtitle.pair.label 'ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਯੰਤਰ ਉੱਤੇ “ਯੰਤਰ ਪੇਅਰ ਕਰੋ” ਚੋਣ ਕਰੋ।'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'ਮੈਨੂੰ ਵੇਖਾਉ ਕਿਵੇਂ।'>
 <!ENTITY sync.link.advancedsetup.label 'ਤਕਨੀਕੀ ਸੈਟਅੱਪ…'>
-<!ENTITY sync.link.nodevice.label 'ਮੇਰੇ ਕੋਲ ਜੰਤਰ ਮੇਰੇ ਕੋਲ ਨਹੀਂ ਨਹੀਂ ਹੈ…'>
+<!ENTITY sync.link.nodevice.label 'ਮੇਰੇ ਕੋਲ ਯੰਤਰ ਮੇਰੇ ਕੋਲ ਨਹੀਂ ਨਹੀਂ ਹੈ…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label '…ਹੋਰ ਜੰਤਰ ਲਈ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
+<!ENTITY sync.jpake.subtitle.waiting.label '…ਹੋਰ ਯੰਤਰ ਲਈ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'ਆਪਣੀ &syncBrand.fullName.label; ਖਾਤਾ ਜਾਣਕਾਰੀ ਦਿਓ'>
@@ -41,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ'>
 <!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।'>
-<!ENTITY sync.subtitle.failaccount.label 'ਤੁਹਾਡੇ ਜੰਤਰ ਉੱਤੇ ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।'>
+<!ENTITY sync.subtitle.failaccount.label 'ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਤੇ ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।'>
 <!ENTITY sync.subtitle.failmultiple.label 'ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਤੋਂ ਵੱਧ ਫਾਇਰਫਾਕਸ ਇੰਸਟਾਲ ਹਨ? ਹਾਲੇ &syncBrand.fullName.label; ਇੱਕੋ ਵੇਲੇ ਇੱਕ ਹੀ ਫਾਇਰਫਾਕਸ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਸਹਾਇਕ ਹੈ। &syncBrand.shortName.label; ਨੂੰ ਵਰਤਣ ਲਈ ਹੋਰ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਹਟਾ ਦਿਉ।'>
 
 <!-- Setup Success -->
@@ -52,11 +52,11 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
-<!ENTITY sync.pair.connectlocation.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਦੀ ਚੋਣ ਕਰੋ ਅਤੇ ਤਦ “ਮੇਰੇ ਕੋਲ ਖਾਤਾ ਹੈ।” ਦੀ ਚੋਣ ਕਰੋ।'>
+<!ENTITY sync.pair.connectlocation.label 'ਆਪਣੇ ਨਵੇਂ ਯੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਯੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਦੀ ਚੋਣ ਕਰੋ ਅਤੇ ਤਦ “ਮੇਰੇ ਕੋਲ ਖਾਤਾ ਹੈ।” ਦੀ ਚੋਣ ਕਰੋ।'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'ਚੋਣਾਂ'>
-<!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਨੂੰ ਆਪਣੇ &syncBrand.shortName.label; ਖਾਤੇ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
+<!ENTITY sync.summary.pair.label 'ਹੋਰ ਯੰਤਰ ਨੂੰ ਆਪਣੇ &syncBrand.shortName.label; ਖਾਤੇ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
 
 
 <!-- Configure Engines -->
@@ -105,11 +105,11 @@
 <!ENTITY sync.new.recoverykey.status.incorrect 'ਰਿਕਵਰੀ ਕੁੰਜੀ ਗਲਤੀ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'ਟੈਬ ਜੰਤਰਾਂ ਉੱਤੇ ਭੇਜੋ'>
+<!ENTITY sync.title.send.tab.label 'ਟੈਬ ਯੰਤਰਾਂ ਉੱਤੇ ਭੇਜੋ'>
 <!ENTITY sync.button.send.label 'ਭੇਜੋ'>
 <!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; ਸੈਟਅੱਪ'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'ਟੈਬਾਂ ਭੇਜਣ ਲਈ &syncBrand.shortName.label; ਸੈਟ ਅੱਪ ਕਰੋ'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਉੱਤੇ ਭੇਜਣ ਲਈ ਆਪਣੇ ਜੰਤਰ ਉੱਤੇ &syncBrand.fullName.label; ਸੈਟਅੱਪ ਕਰੋ।'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਯੰਤਰਾਂ ਉੱਤੇ ਭੇਜਣ ਲਈ ਆਪਣੇ ਯੰਤਰ ਉੱਤੇ &syncBrand.fullName.label; ਸੈਟਅੱਪ ਕਰੋ।'>
 <!ENTITY sync.text.tab.sent.label 'ਤੁਹਾਡੀ ਟੈਬ ਭੇਜੀ ਗਈ!'>
 
 <!ENTITY sync.text.tab.not.sent.label 'ਤੁਹਾਡੀ ਟੈਬ ਭੇਜਣ ਲਈ ਸਮੱਸਿਆ ਆਈ ਸੀ।'>
@@ -207,12 +207,12 @@
 <!ENTITY fxaccount_status_linkprivacy 'ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ'>
 <!ENTITY fxaccount_status_more 'ਹੋਰ&ellipsis;'>
 <!ENTITY fxaccount_remove_account_dialog_title 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਹਟਾਉਣਾ ਹੈ?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਸਿੰਕ ਕਰਨਾ ਰੋਕੇਗਾ, ਪਰ ਇਸ ਯੰਤਰ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਨਹੀਂ ਹਟਾਏਗਾ।'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox Account &formatS; removed.'>
+<!ENTITY fxaccount_remove_account_toast 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ &formatS; ਹਟਾਇਆ ਗਿਆ।'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Remove Account'>
+<!ENTITY fxaccount_remove_account_menu_item 'ਖਾਤਾ ਹਟਾਓ'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
