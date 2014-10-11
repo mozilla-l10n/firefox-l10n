@@ -736,7 +736,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message   "Kaitse on keelatud">
 
 <!ENTITY trackingContentBlocked.message          "Jälitamine">
-<!ENTITY trackingContentBlocked.moreinfo         "Mõned osad sellest lehest, mis jälitavad sinu tegevusi internetis, blokiti.">
+<!ENTITY trackingContentBlocked.moreinfo         "Sellest lehest blokiti mõned osad, mis jälitavad sinu tegevusi internetis.">
 <!ENTITY trackingContentBlocked.learnMore        "Rohkem teavet">
 <!ENTITY trackingContentBlocked.options          "Sätted">
 <!ENTITY trackingContentBlocked.unblock.label2   "Keela kaitse sellel saidil">
