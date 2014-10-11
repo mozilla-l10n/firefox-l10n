@@ -31,7 +31,7 @@
 <!ENTITY font.langGroup.korean                        "Korea">
 <!ENTITY font.langGroup.cyrillic                      "Kirillitsa">
 <!ENTITY font.langGroup.el                            "Kreeka">
-<!ENTITY font.langGroup.other                         "Muud kirjutamise süsteemid">
+<!ENTITY font.langGroup.other                         "Muud kirjasüsteemid">
 <!ENTITY font.langGroup.thai                          "Tai">
 <!ENTITY font.langGroup.hebrew                        "Heebrea">
 <!ENTITY font.langGroup.arabic                        "Araabia">
