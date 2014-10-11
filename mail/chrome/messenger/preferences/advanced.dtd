@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">
 <!ENTITY certs.auto                      "Selecciona'n un automàticament">
-<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Demana-m'ho cada vegada">
 <!ENTITY certs.ask.accesskey             "c">
+<!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
+<!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY viewCertificates.label         "Visualitza els certificats">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY validation.label               "Validació">
-<!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.accesskey  "D">

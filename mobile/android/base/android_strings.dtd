@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "No hi ha prou espai lliure per poder iniciar el &brandShortName;.">
 <!ENTITY  error_loading_file "S\u0027ha produït un error en intentar carregar els fitxers necessaris per executar el &brandShortName;">
+
+<!ENTITY  onboard_start_message "Benvingut al &brandShortName;">
+<!ENTITY  onboard_start_subtext "Compromès amb l\u0027usuari, la privadesa i un web obert">
+<!ENTITY  onboard_start_button_account "Inicia la sessió al &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Trieu un fitxer">
 
-<!ENTITY url_bar_default_text "Escriviu una cerca o adreça">
+<!ENTITY url_bar_default_text2 "Escriviu una cerca o adreça">
 
 <!ENTITY bookmark "Adreça d\u0027interès">
 <!ENTITY bookmark_added "S\u0027ha afegit l\u0027adreça d\u0027interès">
@@ -84,6 +89,27 @@
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Valor per defecte del sistema">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Afegeix al &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
+<!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
+<!ENTITY overlay_share_send_other "Envia a altres dispositius">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "Envia a un altre dispositiu">
+<!ENTITY overlay_share_no_url "No s\u0027ha trobat cap enllaç per compartir">
+<!ENTITY overlay_share_retry "Torna-ho a provar">
+<!ENTITY overlay_share_select_device "Seleccioneu el dispositiu">
 
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Neteja-les ara">
 <!ENTITY pref_clear_private_data_category "Neteja dades privades">
 <!ENTITY pref_clear_on_exit_title "Neteja-les sempre en sortir">
-<!ENTITY pref_clear_on_exit_summary "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitats">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
-<!ENTITY pref_show_product_announcements "Mostra notícies del producte">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
@@ -275,10 +300,10 @@ size. -->
 <!ENTITY find_prev "Enrere">
 <!ENTITY find_next "Endavant">
 <!ENTITY find_close "Tanca">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_casting_to "S\u0027està transmetent al dispositiu">
+<!ENTITY media_sending_to "S\u0027està enviant a un dispositiu">
 <!ENTITY media_play "Reprodueix">
 <!ENTITY media_pause "Pausa">
 <!ENTITY media_stop "Atura">
@@ -302,10 +327,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
 <!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "Desplaça la barra de títol">
+<!ENTITY pref_scroll_title_bar2 "Navegació a pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Amaga la barra de títol del &brandShortName; en desplaçar la pàgina cap avall">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -465,6 +491,8 @@ de l\u0027Android">
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
