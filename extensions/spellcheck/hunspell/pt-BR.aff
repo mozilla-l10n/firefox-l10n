@@ -1409,23 +1409,24 @@ SFX J   e               ito             [^ã]e
 SFX J   o               ito             [^ã]o
 SFX J   0               zito            ão
 
-REP 41
+REP 42
+REP conserteza com_certeza
 REP denovo     de_novo
 REP derrepente de_repente
+REP migo       comigo
 REP encima     em_cima
 REP tui        twee
 REP pataquada  patacoada
 REP estória    história
-REP Beijing    Pequim
-REP Belarus    Bielorrússia
-REP Taipei     Taipé
 REP fotinha    fotinho
 REP abrid      abert
 REP cobrid     cobert
 REP escrevid   escrit
-REP migo       comigo
+REP teje       esteja
 REP hajar      houver
-REP conserteza com_certeza
+REP Beijing    Pequim
+REP Belarus    Bielorrússia
+REP Taipei     Taipé
 REP por pro
 REP pre per
 REP damente mente
