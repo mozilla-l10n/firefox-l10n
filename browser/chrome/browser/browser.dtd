@@ -146,14 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "Zdieľať túto stránku">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "Z">
-<!ENTITY shareLinkCmd.label "Zdieľať tento odkaz">
-<!ENTITY shareLinkCmd.accesskey "Z">
-<!ENTITY shareImageCmd.label "Zdieľať tento obrázok">
-<!ENTITY shareImageCmd.accesskey "Z">
-<!ENTITY shareSelectCmd.label "Zdieľať označené">
-<!ENTITY shareSelectCmd.accesskey "Z">
-<!ENTITY shareVideoCmd.label "Zdieľať toto video">
-<!ENTITY shareVideoCmd.accesskey "Z">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Zdieľať tento odkaz">
+<!ENTITY shareLink.accesskey "e">
+<!ENTITY shareImage.label "Zdieľať tento obrázok">
+<!ENTITY shareImage.accesskey "Z">
+<!ENTITY shareSelect.label "Zdieľať označené">
+<!ENTITY shareSelect.accesskey "Z">
+<!ENTITY shareVideo.label "Zdieľať toto video">
+<!ENTITY shareVideo.accesskey "Z">
 <!ENTITY feedsMenu.label "Odoberať">
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
