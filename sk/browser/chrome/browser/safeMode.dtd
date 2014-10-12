@@ -11,7 +11,6 @@
 <!ENTITY safeModeDescription3.label   "Núdzový režim je špeciálny režim prehliadača &brandShortName;, ktorý slúži na riešenie problémov s programom.">
 <!ENTITY safeModeDescription4.label   "Vaše doplnky a vlastné nastavenia budú dočasne zakázané.">
 
-<!ENTITY resetProfileInstead.label    "Prehliadač môžete takisto obnoviť do predvolených nastavení.">
 <!ENTITY refreshProfileInstead.label  "Núdzový režim môžete preskočiť a skúsiť obnovenie prehliadača &brandShortName; do pôvodných nastavení.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
