@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Lamit kuit ac'hanon deus amañ !">
+<!ENTITY safeb.palm.decline.label "Leuskel ar gouzav-mañ a-gostez">
+<!ENTITY safeb.palm.notforgery.label2 "N'eo ket ur c'hwiberezh dre internet…">
+<!ENTITY safeb.palm.reportPage.label "Perak eo bet harzet ar bajenn-mañ?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Pajenn dagus marilhet !">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Marilhet eo bet ar bajenn-mañ e <span id='malware_sitename'/> evel ur bajenn dagus ha harzet eo bet gant ho kwellvezioù diogelroez.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Ar pajennoù tagus a glask staliañ goulevioù da laerezh titouroù personel, da arverañ hoc'h urzhiataer evit tagañ urzhiataerioù all pe da vekaat ho reizhiad.</p> <p> Ul lod eus ar pajennoù-tagus-mañ a zasparzh meziantoù pistrius koulskoude ez eo diefedus un darn vras anezho hep gouiziegezh pe aotre o ferc'hennerion.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Douetañs a c'hwiberezh dre internet ! ">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Mar bez roet titouroù personel ganeoc'h war ar bajennad-mañ e tegouezho laeroñsi ho pivelezh pe ditouroù all marteze.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ar rizh damrez-mañ war ar web a vez arveret er c'hwiberezhioù graet 'tagadennoù dre higennañ' anezho. Drevezet e vez neuze pajennadoù web pe posteloù hoc'h eus fiziañs enno.</p> ">

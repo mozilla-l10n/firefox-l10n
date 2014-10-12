@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Merdeiñ prevez">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Digoret hoc'h eus un ivinell merdeiñ prevez nevez">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "N'emaoc'h ket e-barzh un ivinell merdeiñ prevez.">
+
+<!ENTITY privatebrowsingpage.description            "E-barzh un ivinell merdeiñ prevez, ne viro ket &brandShortName; ar roll istor, ar c'hlaskoù, ar roll pellgargañ, ar furmskridoù, an toupinoù pe ar restroù kenrouedad padennek. Koulskoude, miret e vo ar restroù pellgarget hag ar sinedoù.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Ha pa ne zalc'hfe ket an trevnad-mañ roll istor ho merdeiñ, e c'hallo ho pourvezer servijoù genrouedad (ISP) pe hoc'h implijer gouzout c'hoazh ar pajennadoù bet gweladennet ganeoc'h.">

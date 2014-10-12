@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutApps.title2                          "Arloadoù">
+<!ENTITY aboutApps.header                          "Hoc'h arloadoù">
+
+<!ENTITY aboutApps.browseMarketplace "Merdeiñ er Marketplace Firefox">
+<!ENTITY aboutApps.uninstall "Distaliañ">
+<!ENTITY aboutApps.checkForUpdates "Klask hizivadennoù">

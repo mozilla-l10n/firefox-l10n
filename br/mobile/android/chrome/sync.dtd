@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "N'eo ket kennasket">
+<!ENTITY sync.connect               "Kennaskañ">
+<!ENTITY sync.connected             "Kennasket">
+<!ENTITY sync.details               "Munudoù">
+<!ENTITY sync.deviceName            "An trevnad-mañ">
+<!ENTITY sync.disconnect            "Digennaskañ">
+<!ENTITY sync.syncNow               "Goubredañ bremañ">
+
+<!ENTITY sync.setup.title           "Kennaskañ ouzh Sync">
+<!ENTITY sync.setup.pair            "Evit gweredekaat, diuzit &quot;Koublañ un trevnad&quot; war ho trevnad all.">
+<!ENTITY sync.fallback              "N'emaon ket e-kichen ma urzhiataer...">
+<!ENTITY sync.setup.manual          "Enankit ho titouroù evit ho kont Sync">
+<!ENTITY sync.account               "Anv kont">
+<!ENTITY sync.password              "Ger-tremen">
+<!ENTITY sync.recoveryKey           "Alc'hwez atoriñ">
+<!ENTITY sync.customServer          "Arverañ an dafariad personelaet">
+<!ENTITY sync.serverURL             "URL an dafariad">
+<!ENTITY sync.setup.connect         "Kennaskañ">
+<!ENTITY sync.setup.cancel          "Nullañ">
+<!ENTITY sync.setup.tutorial        "Diskouez din penaos ober">
+<!ENTITY sync.setup.waiting2        "O c'hortoz an trevnad all…">
+
+<!ENTITY sync.pair.title            "Koublañ un trevnad">
+<!ENTITY sync.pair.description      "Evit gweredekaat ho trevnad nevez, diuzit &quot;Kefluniañ Sync&quot; war an trevnad.">
+<!ENTITY sync.setup.close           "Serriñ">
+<!ENTITY sync.setup.waitingdownload "Ho roadennoù a zo da vezañ pellgarget en drekleur. Serret e vez ar prenestr-mañ ne vern pegoulz.">
