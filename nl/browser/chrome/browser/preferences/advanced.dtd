@@ -121,8 +121,8 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Mij elke keer vragen">
 <!ENTITY certs.ask.accesskey             "e">
-<!ENTITY enableOCSP.label                "Vraag OCSP-responderservers om de geldigheid van certificaten te bevestigen">
-<!ENTITY enableOCSP.accesskey            "V">
+<!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
+<!ENTITY enableOCSP.accesskey            "v">
 <!ENTITY viewCerts.label                 "Certificaten bekijken">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Beveiligingsapparaten">

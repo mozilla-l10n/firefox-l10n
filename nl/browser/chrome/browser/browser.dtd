@@ -239,7 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
+<!ENTITY eyedropper.accesskey "y">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.label               "App-beheerder">
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.accesskey                  "e">
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -774,25 +774,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Vergeet de laatste:">
-<!ENTITY panicButton.view.5min                    "Vijf minuten">
-<!ENTITY panicButton.view.2hr                     "Twee uren">
-<!ENTITY panicButton.view.day                     "24 uur">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Vergeten:">
+<!ENTITY panicButton.view.5min                    "Laatste vijf minuten">
+<!ENTITY panicButton.view.2hr                     "Laatste twee uur">
+<!ENTITY panicButton.view.day                     "Laatste 24 uur">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Doorgaan zal:">
-<!ENTITY panicButton.view.deleteCookies           "recente <html:strong>cookies</html:strong> wissen">
-<!ENTITY panicButton.view.deleteHistory           "recente <html:strong>geschiedenis</html:strong> wissen">
+<!ENTITY panicButton.view.deleteCookies           "Recente <html:strong>cookies</html:strong> wissen">
+<!ENTITY panicButton.view.deleteHistory           "Recente <html:strong>geschiedenis</html:strong> wissen">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Alle <html:strong>tabbladen</html:strong> en <html:strong>vensters</html:strong> sluiten">
 <!ENTITY panicButton.view.openNewWindow           "Een nieuw leeg venster openen">
 
-<!ENTITY panicButton.view.undoWarning             "Deze actie kan niet ongedaan gemaakt worden.">
-<!ENTITY panicButton.view.forgetButton            "Vergeet!">
+<!ENTITY panicButton.view.undoWarning             "Deze actie kan niet ongedaan worden gemaakt.">
+<!ENTITY panicButton.view.forgetButton            "Vergeten!">
 
 <!ENTITY panicButton.thankyou.msg1                "Uw recente geschiedenis is gewist.">
 <!ENTITY panicButton.thankyou.msg2                "Hou het veilig!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Bedankt!">
-
