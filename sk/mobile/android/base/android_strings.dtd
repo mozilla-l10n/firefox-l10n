@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
 <!ENTITY pref_clear_private_data2 "Vymazať teraz">
 <!ENTITY pref_clear_private_data_category "Vymazať súkromné údaje">
-<!ENTITY pref_clear_on_exit_title "Vždy vymazať pri ukončení">
+<!ENTITY pref_clear_on_exit_title2 "Vymazať pri ukončení">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku \u0022Ukončiť\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
 <!ENTITY pref_plugins "Zásuvné moduly">
