@@ -139,6 +139,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Vyhľadať ďalšie služby zdieľania…">
 <!ENTITY sharePageCmd.label "Zdieľať túto stránku">
 <!ENTITY sharePageCmd.commandkey "S">
@@ -692,6 +695,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Ďalšie informácie…">
 <!ENTITY social.learnMore.accesskey "a">
 <!ENTITY social.closeNotificationItem.label "Teraz nie">
+
+<!ENTITY social.directory.label "Katalóg aktivácií">
+<!ENTITY social.directory.text "Služby zdieľania môžete aktivovať z katalógu.">
+<!ENTITY social.directory.button "Prejsť na katalóg">
+<!ENTITY social.directory.introText "Kliknutím na ikonu služby ju pridáte do &brandShortName;u.">
+<!ENTITY social.directory.viewmore.text "Zobraziť ďalšie služby">
 
 <!ENTITY customizeMode.tabTitle "Prispôsobenie &brandShortName;u">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ďalšie nástroje a funkcie">
