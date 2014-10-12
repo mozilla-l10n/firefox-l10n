@@ -1,7 +1,7 @@
-google
-wp-pl
 allegro-pl
-wikipedia-pl
-pwn-pl
+google
 merlin-pl
-fbc-pl
+pwn-pl
+wikipedia-pl
+wolnelektury-pl
+wp-pl
