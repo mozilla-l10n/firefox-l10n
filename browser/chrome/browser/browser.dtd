@@ -730,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "قسمت های مسئول پیگیری فعالیت های آنلاین شما مسدود شده است.">
 
 
-
+<!ENTITY trackingContentBlocked.unblock.label2 "غیرفعال سازی حفاظت برای این وب سایت">
 
 
 
@@ -764,6 +764,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
+<!ENTITY panicButton.view.mainTimeframeDesc       "فراموش کن آخرین:">
+<!ENTITY panicButton.view.5min                    "پنج دقیقه">
 <!ENTITY panicButton.view.2hr                     "دو ساعت">
 <!ENTITY panicButton.view.day                     "۲۴ساعت">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
