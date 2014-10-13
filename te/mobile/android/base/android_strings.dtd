@@ -175,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "ఇప్పుడే చెరిపివేయి">
 <!ENTITY pref_clear_private_data_category "ప్రైవేటు డేటా తొలగించు">
 <!ENTITY pref_clear_on_exit_title "నిష్క్రమించే ప్రతిసారి చెరిపి వేయి">
-
+<!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
 <!ENTITY pref_plugins "ప్లగిన్లు">
 <!ENTITY pref_plugins_enabled "చేతనం">
@@ -404,7 +404,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "తిరిగి &formatS; కి">
 
 <!ENTITY private_browsing_title "గోప్య వీక్షణం">
-
+<!ENTITY private_tabs_panel_empty_desc "మీ ఆంతరంగిక టాబ్లు ఇక్కడ చూపబడును. మేము మీ విహారణ చరిత్రను లేదా కుకీలను ఉంచనప్పటికీ, మీరు గుర్తుంచిన ఇష్టాంశములు మరియు దించిన ఫైళ్ళను మీ పరికరంపైన ఉంచుతాము.">
 <!ENTITY private_tabs_panel_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
 
 <!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
