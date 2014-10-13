@@ -126,7 +126,7 @@
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
 <!ENTITY pref_clear_private_data2 "Limpiar ahora">
 <!ENTITY pref_clear_private_data_category "Limpiar datos privados">
-<!ENTITY pref_clear_on_exit_title "Eliminar siempre al salir">
+<!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
 <!ENTITY pref_plugins "Plugins">
@@ -186,7 +186,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Recibe datos de localización wifi y de la red móvil mientras se ejecuta en fondo y lo comparte con &vendorShortName; para mejorar nuestro servicio de geolocalización">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte la ubicación aproximada en redes wifi y móviles de su dispositivo con &vendorShortName; para mejorar su servicio de geolocalización">
 <!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
@@ -296,6 +296,9 @@
 <!ENTITY private_browsing_title "Navegación privada">
 <!ENTITY private_tabs_panel_empty_desc "Sus pestañas privadas se mostrarán aquí. Aunque no conservamos su historial de navegación ni sus cookies, los marcadores y archivos que descargue seguirán siendo guardados en su dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "¿Desea saber más?">
+<!ENTITY remote_tabs_panel_moved_title "¿Dónde han ido mis pestañas?">
+<!ENTITY remote_tabs_panel_moved_desc "Hemos movido sus pestañas de otros dispositivos a un panel en su página de inicio al que se puede acceder fácilmente cada vez que abra una pestaña nueva.">
+<!ENTITY remote_tabs_panel_moved_link "Llevarme a mi nuevo panel.">
 <!ENTITY pin_site_dialog_hint "Introduzca una palabra clave de búsqueda">
 <!ENTITY filepicker_title "Elegir archivo">
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
