@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; सुरु होण्यासाठी पुरेशी जागा उपलब्ध नाही.">
 <!ENTITY  error_loading_file "&brandShortName; चालवण्यासाठी आवश्यक फाइली चढवताना चूक आढळली">
+
+<!ENTITY  onboard_start_message "&brandShortName; मध्ये आपले स्वागत आहे!">
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,9 +39,7 @@
 
 <!ENTITY choose_file "फाइल निवडा">
 
-<!ENTITY url_bar_default_text "पत्ता टाका किंवा शोधा">
 
-<!ENTITY bookmark "वाचनखूण">
 <!ENTITY bookmark_added "वाचनखूण समाविष्ट">
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
@@ -76,10 +79,25 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
+<!ENTITY pref_browser_locale "ब्राउझर भाषा">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+
+
 
 <!ENTITY pref_category_search3 "शोधा">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
@@ -174,7 +192,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
-<!ENTITY pref_show_product_announcements "उत्पाद घोषणा दाखवा">
 <!ENTITY pref_sync "ताळमेळ">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
@@ -269,10 +286,8 @@ size. -->
 <!ENTITY find_prev "मागील">
 <!ENTITY find_next "पुढील">
 <!ENTITY find_close "बंद करा">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "उपकरणात संचरण होत आहे">
 <!ENTITY media_play "चालू करा">
 <!ENTITY media_pause "थोडा वेळ थांबवा">
 <!ENTITY media_stop "थांबवा">
@@ -296,10 +311,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
 <!ENTITY pref_titlebar_mode_url "पानाचा पत्ता दाखवा">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "शीर्षक पट्टी स्क्रोल करा">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -459,6 +473,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

@@ -11,18 +11,13 @@
 
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
 <!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
 
 <!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>पत्ता टाईप करतेवेळीच्या चुका तपासा जसे 
-<strong>www</strong>.example.com च्या एेवजी 
-<strong>ww</strong>.example.com</li> 
-<li>जर आपण कुठलेही पान लोड करू शकत नसाल, तर आपल्या उपकरणाची माहिती किंवा वाय-फाय जोडणी तपासा.</li> 
-</ul>">
+
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -43,15 +38,13 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "दस्तऐवज मुदतबाह्य">
 <!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरी म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजाची पुनःविनंती करत नाही.</li><li>संकेतस्थळावरून दस्तऐवज परत मागविण्यासाठी पुनःप्रयत्न करा या बटनला क्लिक करा.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>पुन्हा प्रयत्न करा. &brandShortName; परत जोडणीचा प्रयत्न करून, पृष्ठ लोड करेल.</li> 
-</ul>">
+
 
 <!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "जोडणी पुनःप्रस्थापित करण्यात आली">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "जोडणी प्रयत्नाची वेळ मर्यादा समाप्त झाली">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +75,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>प्रॉक्सी सेटींग बरोबर आहेत हे खातरजमा करा.</li> 
-<li>तुमच्या उपकरणावर माहिती किंवा वाय-फाय कनेक्शन सुस्थीतीत आहे हे खातरजमा करा.</li> 
-</ul>">
+
 
 <!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -114,10 +104,6 @@
 पुनःप्रयत्न करू शकता.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> 
-<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीचे माहिती किंवा वाय-फाय जोडणी तपासा.</li> 
-</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
