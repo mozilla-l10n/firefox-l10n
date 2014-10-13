@@ -597,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "I-Basic Page Style">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Tshintsa iisetingi zesithinteli esizivelelayo zale webhusayithi">
+<!ENTITY pageReportIcon.tooltip            "Tshintsa iisethingi zesithinteli esizivelelayo zale webhusayithi">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -684,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Bonisa izaziso zedesktopu">
 <!ENTITY social.toggleNotifications.accesskey "i">
 
-<!ENTITY social.activated.description "Iinkonzo ze-<label/> zenziwe zasebenza. Ungatshintsha iisetingi zakho zeenkonzo kwi <label class='text-link'>Isongezelelo kuMphathi</label>.">
+<!ENTITY social.activated.description "Iinkonzo ze-<label/> zenziwe zasebenza. Ungatshintsha iisethingi zakho zeenkonzo kwi <label class='text-link'>Isongezelelo kuMphathi</label>.">
 <!ENTITY social.activated.undo.label "Hayi khona, buyisela umva oku!">
 <!ENTITY social.activated.undo.accesskey "b">
 <!ENTITY social.learnMore.label "Funda ngakumbi…">
@@ -770,7 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
-<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela iWindows 8 Touch">
+<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela iifestile 8 Touch">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
