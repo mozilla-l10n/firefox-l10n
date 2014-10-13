@@ -1,124 +1,210 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# mazilu59 <mazilu59@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Sincronizare Firefox">
 <!ENTITY syncBrand.shortName.label "Sincronizare">
-
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Conectare la &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Adaugă un cont &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Împerechează un dispozitiv'>
 
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Conectare la &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Adaugă un cont &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Împerechează un dispozitiv">
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
-<!ENTITY sync.subtitle.header2.label 'Introduceți acest cod pe celălalt dispozitiv'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selectați „&sync.title.pair.label;” în &syncBrand.shortName.label; secțiunea opțiuni Firefox din celălalt dispozitiv \&apos;s al dumneavoastră.'>
-<!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Arată-mi cum.'>
-<!ENTITY sync.link.advancedsetup.label 'Configurare avansată…'>
-<!ENTITY sync.link.nodevice.label 'Nu am dispozitivul cu mine…'>
 
+<!ENTITY sync.subtitle.connect.label "Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.">
+<!ENTITY sync.subtitle.header2.label "Introduceți acest cod pe celălalt dispozitiv">
+<!ENTITY sync.subtitle.connectlocation2.label "Selectați „&sync.title.pair.label;” în &syncBrand.shortName.label; secțiunea opțiuni Firefox din celălalt dispozitiv \u0027s al dumneavoastră.">
+<!ENTITY sync.subtitle.pair.label "Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Arată-mi cum.">
+<!ENTITY sync.link.advancedsetup.label "Configurare avansată…">
+<!ENTITY sync.link.nodevice.label "Nu am dispozitivul cu mine…">
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Se așteaptă după celălalt dispozitiv…'>
 
+<!ENTITY sync.jpake.subtitle.waiting.label "Se așteaptă după celălalt dispozitiv…">
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Introduceți informațiile despre contul &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nume cont'>
-<!ENTITY sync.input.password.label 'Parolă'>
-<!ENTITY sync.input.key.label 'Cheie de recuperare'>
-<!ENTITY sync.checkbox.server.label 'Folosește un server personalizat'>
-<!ENTITY sync.input.server.label 'Adresa serverului'>
-  
+
+<!ENTITY sync.subtitle.account.label "Introduceți informațiile despre contul &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nume cont">
+<!ENTITY sync.input.password.label "Parolă">
+<!ENTITY sync.input.key.label "Cheie de recuperare">
+<!ENTITY sync.checkbox.server.label "Folosește un server personalizat">
+<!ENTITY sync.input.server.label "Adresa serverului">
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Nu se poate seta &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nu se poate conecta la server. Vrei să încerci din nou?'>
-<!ENTITY sync.button.tryagain.label 'Încearcă din nou'>
-<!ENTITY sync.button.manual.label 'Setare manuală'>
-<!ENTITY sync.subtitle.nointernet.label 'Nu este disponibilă nicio conexiune la internet.'>
-<!ENTITY sync.subtitle.failaccount.label 'Crearea contului pe dispozitiv a eșuat.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Aveți mai mult decât un Firefox instalat? În prezent, &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalați celelalte instanțe pentru a folosi &syncBrand.shortName.label;.'>
-  
+
+<!ENTITY sync.title.fail.label "Nu se poate seta &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nu se poate conecta la server. Vrei să încerci din nou?">
+<!ENTITY sync.button.tryagain.label "Încearcă din nou">
+<!ENTITY sync.button.manual.label "Setare manuală">
+<!ENTITY sync.subtitle.nointernet.label "Nu este disponibilă nicio conexiune la internet.">
+<!ENTITY sync.subtitle.failaccount.label "Crearea contului pe dispozitiv a eșuat.">
+<!ENTITY sync.subtitle.failmultiple.label "Aveți mai mult decât un Firefox instalat? În prezent, &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalați celelalte instanțe pentru a folosi &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Configurare finalizată'>
-<!ENTITY sync.subtitle.success.label1 'Datele îți sunt descărcate acum în fundal. Poți merge la Setări pentru a-ți gestiona contul sau să începi navigarea cu &brandShortName;.'>
-<!ENTITY sync.settings.label 'Setări'>
-<!ENTITY sync.subtitle.manage.label1 'Contul dumneavoastră &syncBrand.fullName.label; este deja configurat. Puteți merge în Setări pentru a vă gestiona contul sau lansați &brandShortName;.'>
 
+<!ENTITY sync.title.success.label "Configurare finalizată">
+<!ENTITY sync.subtitle.success.label1 "Datele îți sunt descărcate acum în fundal. Poți merge la Setări pentru a-ți gestiona contul sau să începi navigarea cu &brandShortName;.">
+<!ENTITY sync.settings.label "Setări">
+<!ENTITY sync.subtitle.manage.label1 "Contul dumneavoastră &syncBrand.fullName.label; este deja configurat. Puteți merge în Setări pentru a vă gestiona contul sau lansați &brandShortName;.">
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Te rugăm să mai încerci.'>
-<!ENTITY sync.pair.connectlocation.label 'Pentru a-ți activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”'>
 
+<!ENTITY sync.pair.tryagain.label "Te rugăm să mai încerci.">
+<!ENTITY sync.pair.connectlocation.label "Pentru a-ți activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”">
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Opțiuni'>
-<!ENTITY sync.summary.pair.label 'Asociați alt dispozitiv cu contul dumneavoastră &syncBrand.shortName.label;'>
 
+<!ENTITY sync.settings.options.label "Opțiuni">
+<!ENTITY sync.summary.pair.label "Asociați alt dispozitiv cu contul dumneavoastră &syncBrand.shortName.label;">
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Ce se sincronizează'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizarea dumneavoastră…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Semne de carte'>
-<!ENTITY sync.configure.engines.title.passwords 'Parolele'>
-<!ENTITY sync.configure.engines.title.history 'Istoricul'>
-<!ENTITY sync.configure.engines.title.tabs 'File'>
 
+<!ENTITY sync.configure.engines.title.label "Ce se sincronizează">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizarea dumneavoastră…">
+<!ENTITY sync.configure.engines.title.bookmarks "Semne de carte">
+<!ENTITY sync.configure.engines.title.passwords "Parolele">
+<!ENTITY sync.configure.engines.title.history "Istoricul">
+<!ENTITY sync.configure.engines.title.tabs "File">
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Renunță'>
-<!ENTITY sync.button.connect.label 'Conectare'>
-<!ENTITY sync.button.ok.label 'Bine'>
-  
+
+<!ENTITY sync.button.cancel.label "Renunță">
+<!ENTITY sync.button.connect.label "Conectare">
+<!ENTITY sync.button.ok.label "Bine">
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
-  
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Meniul „Semne de carte”'>
+
+<!ENTITY bookmarks.folder.menu.label "Meniul „Semne de carte”">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Etichete'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bara pentru semne de carte'>
-<!ENTITY bookmarks.folder.unfiled.label 'Semne de carte nesortate'>
-<!ENTITY bookmarks.folder.desktop.label 'Semne de carte de pe desktop'>
-<!ENTITY bookmarks.folder.mobile.label 'Semne de carte de pe mobil'>
-<!ENTITY bookmarks.folder.readinglist.label 'Listă de citit'>
+<!ENTITY bookmarks.folder.tags.label "Etichete">
+<!ENTITY bookmarks.folder.toolbar.label "Bara pentru semne de carte">
+<!ENTITY bookmarks.folder.unfiled.label "Semne de carte nesortate">
+<!ENTITY bookmarks.folder.desktop.label "Semne de carte de pe desktop">
+<!ENTITY bookmarks.folder.mobile.label "Semne de carte de pe mobil">
+<!ENTITY bookmarks.folder.readinglist.label "Listă de citit">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Fixat'>
-
+<!ENTITY bookmarks.folder.pinned.label "Fixat">
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'E suportat doar un cont &syncBrand.fullName.label;.'>
-<!ENTITY sync.notification.configure.saved 'Selecțiile dumneavoastră au fost salvate.'>
 
+<!ENTITY sync.notification.oneaccount.label "E suportat doar un cont &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.configure.saved "Selecțiile dumneavoastră au fost salvate.">
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Nume de cont sau parolă incorectă.'>
-<!ENTITY sync.invalidserver.label 'Vă rugăm să introduceți o adresă validă de server'>
-<!ENTITY sync.verifying.label 'Se verifică…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Cheia de recuperare este incorectă. Vă rugăm încercați din nou.'>
 
+<!ENTITY sync.invalidcreds.label "Nume de cont sau parolă incorectă.">
+<!ENTITY sync.invalidserver.label "Vă rugăm să introduceți o adresă validă de server">
+<!ENTITY sync.verifying.label "Se verifică…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Cheia de recuperare este incorectă. Vă rugăm încercați din nou.">
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Trimite fila la dispozitive'>
-<!ENTITY sync.button.send.label 'Trimite'>
-<!ENTITY sync.button.set.up.sync.label 'Setează &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Setare &syncBrand.shortName.label; pentru trimitere de file'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Setează &syncBrand.fullName.label; pe dispozitivul tău pentru a trimite file către alte dispozitive.'>
-<!ENTITY sync.text.tab.sent.label 'Fila a fost trimisă!'>
-<!ENTITY sync.text.tab.not.sent.label 'A apărut o problemă la trimiterea filei dumneavoastră.'>
 
+<!ENTITY sync.title.send.tab.label "Trimite fila la dispozitive">
+<!ENTITY sync.button.send.label "Trimite">
+<!ENTITY sync.button.set.up.sync.label "Setează &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Setare &syncBrand.shortName.label; pentru trimitere de file">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Setează &syncBrand.fullName.label; pe dispozitivul tău pentru a trimite file către alte dispozitive.">
+<!ENTITY sync.text.tab.sent.label "Fila a fost trimisă!">
+<!ENTITY sync.text.tab.not.sent.label "A apărut o problemă la trimiterea filei dumneavoastră.">
+<!-- Firefox Account strings. -->
+
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_password_show "Afișează">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_button "Următor">
+
+
+
+
+
+
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Aflați mai multe">
+
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
