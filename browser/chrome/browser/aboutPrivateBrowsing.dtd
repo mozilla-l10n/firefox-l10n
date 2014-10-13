@@ -8,6 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName;-ը չի հիշի այցելությունների պատմությունը։">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName;-ը չի հիշի այցելությունների պատմությունը։">
 
+<!ENTITY aboutPrivateBrowsing.description      "Այն ներառում է դիտարկումների, որոնումների, վեբ ձևերի պատմությունը, cookie-ները և համացանցային ժամանակավոր ֆայլերը: Այնուհանդերձ, ներբեռնված ֆայլերը և էջանիշերը կմնան:">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Այժմ դուք Գաղտնի դիտարկման էջում չեք։">
 

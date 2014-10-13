@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Հաղորդել կայքերին, որ ես ցանկանում եմ, որ ինձ հետևեն:">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
-
+<!ENTITY trackingProtection.label       "Կանխել այն կայքերը, որոնք փորձում են հետևել ինձ">
+<!ENTITY trackingProtection.accesskey   "ք">
+<!ENTITY trackingProtectionLearnMore.label "Մանրամասն">
 <!ENTITY doNotTrackInfo.label           "Մանրամասն">
 
 <!ENTITY  history.label                 "Պատմություն">
