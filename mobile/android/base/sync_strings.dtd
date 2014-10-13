@@ -116,8 +116,8 @@
 
 <!ENTITY fxaccount_full_label "Firefox Accounts">
 
-<!ENTITY fxaccount_custom_server_account_title "सर्वर पर खाते का प्रयोग">
-
+<!ENTITY fxaccount_custom_server_account_title "सर्वर पर खाते का प्रयोग |">
+<!ENTITY fxaccount_custom_server_sync_title "सिंक डाटा सर्वर पर संग्रहण |">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -185,9 +185,9 @@
 
 <!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
-<!ENTITY fxaccount_status_auth_server "खाता सर्वर">
-<!ENTITY fxaccount_status_device_name "साधन का नाम">
-<!ENTITY fxaccount_status_sync_server "सर्वर से सिंक करें">
+<!ENTITY fxaccount_status_auth_server "खाता सर्वर |">
+<!ENTITY fxaccount_status_device_name "उपकरण का नाम ">
+<!ENTITY fxaccount_status_sync_server "सर्वर से सिंक करें ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्षम">
 <!ENTITY fxaccount_status_needs_verification2 "आपके खाता को सत्यापित करने की जरूरत है। दोबारा सत्यापन ईमेल भेजने के लिए टैप करें।">

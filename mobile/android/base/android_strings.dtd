@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; और के लिए पर्याप्त स्थान उपलब्ध नहीं है; शुरू करने के लिए.">
+<!ENTITY  no_space_to_start_error "&brandShortName;  सुरु करने के लिए यहा पर्याप्त जगह नही है | ">
 <!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुई;">
 
 <!ENTITY  onboard_start_message "&brandShortName; में आपका स्वागत है!">
@@ -16,7 +16,7 @@
 <!ENTITY  bookmarks_title "पुस्तचिह्न">
 <!ENTITY  history_title "इतिहास">
 <!ENTITY  reading_list_title "पाठ सूची">
-<!ENTITY  recent_tabs_title "हाल ही के टैब">
+<!ENTITY  recent_tabs_title "हाल ही की  टैब">
 
 <!ENTITY  switch_to_tab "टैब पर जाएँ">
 
@@ -49,8 +49,8 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "कल">
-<!ENTITY history_week_section2 "पिछले सप्ताह">
-<!ENTITY history_older_section2 "पिछले माह">
+<!ENTITY history_week_section2 "पिछले सप्ताह ">
+<!ENTITY history_older_section2 "पिछले माह  ">
 
 <!ENTITY go "जाएँ">
 <!ENTITY search "खोजें">
@@ -68,7 +68,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
-<!ENTITY new_private_tab_opened "नया निजी टैब खुला">
+<!ENTITY new_private_tab_opened "नयी निजी टैब खुल गयी ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -83,12 +83,12 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "भाषा">
-<!ENTITY pref_browser_locale "ब्राउज़र की भाषा">
+<!ENTITY pref_browser_locale "ब्राउज़र की भाषा  ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "सिस्टम तयशुदा">
+<!ENTITY locale_system_default "सिस्टम डिफ़ॉल्ट ">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -130,7 +130,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
 <!ENTITY pref_category_devtools "डेवलेपर औज़ार">
-<!ENTITY pref_developer_paint_flashing "पेंट फ्लैशिंग">
+<!ENTITY pref_developer_paint_flashing "पेंट चमक्ता ">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
 
@@ -148,7 +148,7 @@
 <!ENTITY pref_home_updates_enabled "सक्षम">
 <!ENTITY pref_home_updates_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_home_suggested_sites "साइट सुझाव दिखाएँ">
-<!ENTITY pref_home_suggested_sites_summary "अपने शुरुआती पृष्ठ पर साइटों के शॉर्टकट दिखायें, जो हमें लगता है कि आपको दिलचस्प लगेेंगे ">
+<!ENTITY pref_home_suggested_sites_summary "अपने शुरुआती पृष्ठ पर साइटों के शॉर्टकट दिखायें, जो हमें लगता है कि आपको दिलचस्प लगेेंगे |">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "मनपसंद बनाएँ">
@@ -174,9 +174,9 @@
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
 <!ENTITY pref_clear_private_data2 "अब साफ़ करें">
 <!ENTITY pref_clear_private_data_category "निजी आँकड़ा साफ़ करें">
-<!ENTITY pref_clear_on_exit_title "बाहर जाते समय हमेशा साफ़ करें">
+<!ENTITY pref_clear_on_exit_title "बाहर जाते समय हमेशा साफ़ करें |">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डाटा साफ करेगा जब आप मुख्य मेन्यू से \u0022बाहर जाएँ\u0022 चुनेंगे">
-<!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें">
+<!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें | ">
 <!ENTITY pref_plugins "प्लगइन">
 <!ENTITY pref_plugins_enabled "सक्षम">
 <!ENTITY pref_plugins_tap_to_play "चलाने के लिए टिपटिपाएँ">
@@ -267,7 +267,7 @@ size. -->
 <!ENTITY pref_update_autodownload_always "हमेशा">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "मदद">
+<!ENTITY help_menu "मदत ">
 
 <!ENTITY quit "बाहर">
 
@@ -287,7 +287,7 @@ size. -->
 <!ENTITY new_tab "नया टैब">
 <!ENTITY new_private_tab "नया निजी टैब">
 <!ENTITY close_all_tabs "सभी टैब बन्द करें">
-<!ENTITY close_private_tabs "निजी टैब बंद करें">
+<!ENTITY close_private_tabs "निजी टैब बंद करें |">
 <!ENTITY tabs_normal "टैब">
 <!ENTITY tabs_private "निजी">
 <!ENTITY tabs_synced "सिंक किया">
@@ -377,13 +377,13 @@ size. -->
 <!ENTITY home_top_sites_add "साइट जोड़ें">
 
 <!ENTITY home_history_title "इतिहास">
-<!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें">
+<!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
 <!ENTITY home_bookmarks_empty "आपके सहेजे पुस्तचिह्न यहाँ दिखेंगे.">
-<!ENTITY home_closed_tabs_title "हाल ही में बंद किए टैब">
+<!ENTITY home_closed_tabs_title "हाल ही में बंद किए टैब |">
 <!ENTITY home_last_tabs_title "पिछले सत्र के टैब">
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
-<!ENTITY home_open_all "सब खोलें">
+<!ENTITY home_open_all "सब खोलें |">
 <!ENTITY home_most_recent_empty "आपके देखे हुए सबसे हालिया वेबसाइट यहाँ दिखाए गए हैं.">
 <!ENTITY home_reading_list_empty "बाद के लिए सहेजे गए आलेख यहाँ दिखते हैं.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -404,7 +404,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; तक">
 
 <!ENTITY private_browsing_title "निजी ब्राउज़िंग">
-<!ENTITY private_tabs_panel_empty_desc "आपके निजी टैब यहाँ पे दिखेंगे. जबकि हम आपका किसी भी प्रकार का ब्राउजिंग इतिहास या कुकी नहीं रखते, तथापि पुस्तचिह्न और आपकी डाउनलोड की हुई फाइलें आपके साधन पर सहेजी जायेगी.">
+<!ENTITY private_tabs_panel_empty_desc "आपके निजी टैब यहाँ पे दिखेंगे. जबकि हम आपका किसी भी प्रकार का ब्राउजिंग इतिहास या कुकी नहीं रखते, तथापि पुस्तचिह्न और आपकी डाउनलोड की हुई फाइलें आपके साधन पर सहेजी जायेगी |">
 <!ENTITY private_tabs_panel_learn_more "अधिक जानना चाहते है?">
 
 <!ENTITY pin_site_dialog_hint "खोज बीजशब्द दर्ज करें">
@@ -505,4 +505,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "अाखरी बार सिंक: &formatS;">
+<!ENTITY remote_tabs_last_synced "अाखरी सिंक: &formatS;">
