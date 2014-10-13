@@ -7,12 +7,12 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
 <!ENTITY update.checkForUpdatesButton.accesskey   "F">
-<!ENTITY update.updateButton.label                "Újraindítás a frissítéshez">
+<!ENTITY update.updateButton.label2               "&brandShortName; újraindítása a frissítéshez">
 <!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Frissítés alkalmazása…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 
-<!ENTITY community.start2           "A &brandShortName;ot a ">
+<!ENTITY community.start2           "A &brandShortName;öt a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " tervezte, egy ">
