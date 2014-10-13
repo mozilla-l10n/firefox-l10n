@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "కొరియన్">
 <!ENTITY  font.langGroup.cyrillic                 "సిరిల్లిక్">
 <!ENTITY  font.langGroup.el                       "గ్రీకు">
-
+<!ENTITY  font.langGroup.other                    "ఇతర వ్రైటింగ్ వ్యవస్థలు">
 <!ENTITY  font.langGroup.thai                     "థాయి">
 <!ENTITY  font.langGroup.hebrew                   "హీబ్రూ">
 <!ENTITY  font.langGroup.arabic                   "అరబిక్">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "అరబిక్">
-
+<!ENTITY languages.customize.Fallback.baltic      "బాల్టిక్">
 <!ENTITY languages.customize.Fallback.ceiso       "సెంట్రల్ యూరోపియన్, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "సెంట్రల్ యూరోపియన్, మైక్రోసాఫ్ట్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "థాయి">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "టర్కిష్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "వియత్నామీస్">

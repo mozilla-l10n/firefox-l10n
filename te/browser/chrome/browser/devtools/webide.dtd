@@ -10,28 +10,29 @@
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "ప్యాకేజ్ చేసిన అనువర్తనం తెరు...">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "హోస్టుచేసిన అనువర్తనం తెరు...">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "అనువర్తనం తెరు...">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "సంస్థాపించి నడుపు">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "అనువర్తనం ఆపు">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "అనువర్తనం డీబగ్">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "ప్రోజెక్ట్ తీసివేయి">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "అభిరుచులు">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "రన్‌టైమ్">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "అననుసంధానించు">
-
-
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "అనుమతుల పట్టిక">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "తెరపట్టు">
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "రన్‌టైమ్ సమాచారం">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "మానిటర్">
@@ -72,37 +73,43 @@
 
 <!ENTITY details_valid_header "చెల్లునటువంటి">
 <!ENTITY details_warning_header "హెచ్చరికలు">
-
+<!ENTITY details_error_header "దోషములు">
 <!ENTITY details_description "వివరణ">
 <!ENTITY details_location "స్థానము">
-
-
+<!ENTITY details_manifestURL "అనువర్తనం ఐడి">
+<!ENTITY details_removeProject_button "ప్రోజెక్ట్ తీసివేయి">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "కొత్త అనువర్తనం">
+<!ENTITY newAppHeader "మాదిరి ఎంపికచేయి">
+<!ENTITY newAppLoadingTemplate "మాదిరిలు లోడ్‌చేయి...">
+<!ENTITY newAppProjectName "ప్రోజెక్ట్ పేరు:">
 <!-- Decks -->
 
 
 
 <!ENTITY deck_close "మూసివేయి">
 <!-- Addons -->
+
+<!ENTITY addons_title "అదనపు కాంపోనెంట్లు">
 <!ENTITY addons_aboutaddons "పొడిగింతలు నిర్వాహికను తెరువుము">
 <!-- Prefs -->
 
-
+<!ENTITY prefs_title "అభిరుచులు">
+<!ENTITY prefs_editor_title "ఎడిటర్">
+<!ENTITY prefs_general_title "సాధారణ">
 <!ENTITY prefs_restore "అప్రమేయాలను తిరిగివుంచు">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_simulators "సిమ్యులేటర్స్ నిర్వహించు">
+<!ENTITY prefs_options_enablelocalruntime "స్థానిక రన్‌టైమ్ చేతనించు">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE ను దాని స్వంత రన్‌టైమ్‌కు అనుసంధానమగుటకు అనుమతించు (బ్రౌజర్ ఇన్‌స్టాన్స్ నడుపుతోంది)">
+<!ENTITY prefs_options_rememberlastproject "ఆఖరి ప్రోజెక్ట్ గుర్తుంచుకో">
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE మొదలగునప్పుడు మునుపటి ప్రోజెక్ట్‌ను తిరిగివుంచు">
+<!ENTITY prefs_options_templatesurl "మాదిరిల URL">
+<!ENTITY prefs_options_templatesurl_tooltip "అందుబాటులోని మాదిరిల సూచిక">
+<!ENTITY prefs_options_showeditor "ఎడిటర్ చూపు">
+<!ENTITY prefs_options_showeditor_tooltip "అంతర్గత ఎడిటర్ చూపు">
+<!ENTITY prefs_options_tabsize "టాబ్ పరిమాణం">
+<!ENTITY prefs_options_expandtab "సాఫ్ట్ టాబ్లు">
 <!ENTITY prefs_options_expandtab_tooltip "టాబ్ కారెక్టర్ బదులుగా ఖాళీలను ఉపయోగించు">
 <!ENTITY prefs_options_detectindentation "ఆటోఇండెంట్">
 <!ENTITY prefs_options_detectindentation_tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
