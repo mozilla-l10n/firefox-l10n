@@ -25,7 +25,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Եթե դուք սովորաբար կապվում եք այս 
 կայքին առանց խնդիրների, ապա այս սխալը կարող է նշանակել, որ 
 ինչ որ մեկը փորձում է կեղծորեն նմանակել այս կայքը և դուք չպետք է շարունակեք։">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Այս կայքը օգտագործում է HTTP 
+Strict Transport Security (HSTS)՝ նշելու համար, որ &brandShortName; կապակցվում է 
+անվտանգ: Որպես արդյունք հնարավոր չէ ավելացնել բացառություն այս 
+վկայագրին:">
 <!ENTITY certerror.getMeOutOfHere.label "Դուրս բեր ինձ այստեղից:">
 
 <!ENTITY certerror.expert.heading "Ես հասկանում եմ ռիսկերը">

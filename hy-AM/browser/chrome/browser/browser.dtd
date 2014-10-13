@@ -700,13 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Վերականգնել ծրագրայինը">
 <!ENTITY customizeMode.toolbars "Ցուցադրել կամ թաքցնել գործիքավահանակները">
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
-
-
+<!ENTITY customizeMode.lwthemes "Ձևավորումներ">
+<!ENTITY customizeMode.lwthemes.myThemes "Իմ ձևավորումները">
 <!ENTITY customizeMode.lwthemes.recommended "Խորհուրդ է տրվում՝">
 <!ENTITY customizeMode.lwthemes.menuManage "Կառավարել">
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
@@ -721,27 +721,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
 <!ENTITY getUserMedia.selectMicrophone.label "Մուտք բարձրախոսին.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
-
+<!ENTITY getUserMedia.allWindowsShared.message "Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
 <!ENTITY badContentBlocked.moreinfo "Կայքերի մեծամասնությունը կշարունակի նորմալ աշխատել, անգամ եթե բովանդակությունը արգելափակված լինի:">
 
-
+<!ENTITY mixedContentBlocked2.message "Ոչ անվտանգ բովանդակություն">
+<!ENTITY mixedContentBlocked2.moreinfo "Որոշ չգաղտնագրված տարրեր այս կայքում արգելափակված են:">
 <!ENTITY mixedContentBlocked2.learnMore "Ավելին">
 <!ENTITY mixedContentBlocked2.options "Կարգավորումներ">
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.unblock.label "Անջատել պաշտպանությունը">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "Ա">
+<!ENTITY mixedContentBlocked2.block.label "Միացնել պաշտպանությունը">
+<!ENTITY mixedContentBlocked2.block.accesskey "ց">
+<!ENTITY mixedContentBlocked2.disabled.message "Պաշտպանությունը անջատած է">
 
 <!ENTITY trackingContentBlocked.message "Հետևում">
-
+<!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
 <!ENTITY trackingContentBlocked.learnMore "Ավելին">
 <!ENTITY trackingContentBlocked.options "Կարգավորումներ">
 <!ENTITY trackingContentBlocked.unblock.label2 "Անջատել պաշտպանությունը այս կայքի համար">
 <!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանություն">
-
+<!ENTITY trackingContentBlocked.disabled.message "Հետևելու պաշտպանությունը անջատած է:">
 
 <!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">
 
@@ -774,20 +775,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Մոռանալ վերջին՝">
+<!ENTITY panicButton.view.5min                    "Հինգ րոպե">
+<!ENTITY panicButton.view.2hr                     "Երկու ժամ">
+<!ENTITY panicButton.view.day                     "24 ժամ">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Շարունակելիս՝">
+<!ENTITY panicButton.view.deleteCookies           "Ջնջել վերջին<html:strong>Cookie-ները</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Ջնջել վերջին <html:strong>Պատմությունը</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Փակել բոլոր <html:strong>Ներդիրները</html:strong> և<html:strong>Պատուհանները</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Բացել նոր մաքուր Պատուհան">
 
 <!ENTITY panicButton.view.undoWarning             "Այս գործողությունը չի կարող ետարկվել:">
+<!ENTITY panicButton.view.forgetButton            "Մոռանալ:">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Վերջին պատմությունը մա,քրվել է:">
+<!ENTITY panicButton.thankyou.msg2                "Անվտանգ դիտարկում:">
+<!ENTITY panicButton.thankyou.buttonlabel         "Շնորհակալություն:">
 

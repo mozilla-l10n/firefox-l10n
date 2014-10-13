@@ -64,14 +64,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Փոփոխված կարևոր կարգավորումներ">
 <!ENTITY aboutSupport.modifiedPrefsName "Անուն">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js-ի կարգավորումներ">
 <!ENTITY aboutSupport.userJSDescription "Ձեր պրոֆիլի թղթապանակը պարունակում է<a id='prefs-user-js-link'>user.js ֆայլ</a>, որը ներառում է կարգավորումներ, որոնք չեն ստեղծվել &brandShortName;-ի կողմից։">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Կողպված կարևոր կարգավորումներ">
+<!ENTITY aboutSupport.lockedPrefsName "Անուն">
+<!ENTITY aboutSupport.lockedPrefsValue "Արժեքը">
 
 <!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
 
