@@ -1,25 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# xdaiana <xdaiana@yahoo.com>
-# titus0818 <https://www.google.com/accounts/o8/id?id=AItOawnf9Zm3ejVfK7qHc-TpT2ZYnpjRtqHpxXw>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# Trizen <swampy_sql@operamail.com>
-# mazilu59 <mazilu59@gmail.com>
-# AdiJapan <adi.japan@yahoo.com>
-# https://www.google.com/accounts/o8/id?id=AItOawmf8-YGMeyElPU6nLpEHtQwMDtbyK3rI1k <https://www.google.com/accounts/o8/id?id=AItOawmf8-YGMeyElPU6nLpEHtQwMDtbyK3rI1k>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -28,10 +6,17 @@
 <!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Saituri populare">
-<!ENTITY  awesomebar_bookmarks_title "Semne de carte">
-<!ENTITY  awesomebar_history_title "Istoric">
-<!ENTITY  awesomebar_switch_to_tab "Schimbă la fila">
+
+
+
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Marcaje">
+
+<!ENTITY  reading_list_title "Listă de citit">
+
+
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele dumneavoastră ar trebui să fie listate pe pagina de start &brandShortName; când reporniți navigatorul.">
@@ -52,12 +37,7 @@
 
 <!ENTITY choose_file "Alegere fișier">
 
-<!ENTITY awesomebar_default_text "Adresă sau căutare">
 
-<!ENTITY remote_tabs "File sincronizate">
-<!ENTITY remote_tabs_show_all "Arată toate filele">
-
-<!ENTITY bookmark "Semn de carte">
 <!ENTITY bookmark_added "S-a adăugat semnul de carte">
 <!ENTITY bookmark_removed "Semn de carte șters">
 <!ENTITY bookmark_updated "Semn de carte actualizat">
@@ -65,8 +45,8 @@
 
 <!ENTITY history_today_section "Azi">
 <!ENTITY history_yesterday_section "Ieri">
-<!ENTITY history_week_section "acum 7 zile">
-<!ENTITY history_older_section "Mai vechi de 7 zile">
+
+
 
 <!ENTITY go "Dute">
 <!ENTITY search "Căutare">
@@ -77,6 +57,7 @@
 <!ENTITY stop "Oprire">
 <!ENTITY site_security "Securitatea saitului">
 
+
 <!ENTITY close_tab "Închide fila">
 <!ENTITY one_tab "o filă">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
@@ -84,26 +65,78 @@
 <!ENTITY num_tabs2 "file &formatD;">
 <!ENTITY new_tab_opened "Filă nouă deschisă">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
-<!ENTITY pref_category_search2 "Setări căutare">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "Încearcă din nou">
+
+
+
 <!ENTITY pref_category_display "Ecran">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opțiuni de date">
+<!ENTITY pref_learn_more "Aflați mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
+
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
+
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
-<!ENTITY pref_developer_remotedebugging_docs "Aflați mai multe">
 <!ENTITY pref_remember_signons "Memorează parolele">
 
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+
+
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
 <!ENTITY pref_header_customize "Personalizare">
 <!ENTITY pref_header_display "Ecran">
 <!ENTITY pref_header_privacy_short "Confidențialitate">
-<!ENTITY pref_header_help "Ajutor">
+
+
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Unelte de dezvoltare">
 
@@ -120,7 +153,11 @@
 <!ENTITY pref_char_encoding "Arată codarea caracterelor">
 <!ENTITY pref_char_encoding_on "Arată meniul">
 <!ENTITY pref_char_encoding_off "Nu arăta meniul">
-<!ENTITY pref_clear_private_data "Curăță datele private">
+
+<!ENTITY pref_clear_private_data_category "Curăță datele private">
+
+
+
 <!ENTITY pref_plugins "Module">
 <!ENTITY pref_plugins_enabled "Activat">
 <!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
@@ -129,8 +166,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Reîncadrare text">
 <!ENTITY pref_restore "File">
 <!ENTITY pref_restore_always "Restaurează întotdeauna">
-<!ENTITY pref_restore_crash "Restaurează după o eroare">
-<!ENTITY pref_restore_never "Nu restaura niciodată">
+
 <!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mic">
 <!ENTITY pref_font_size_medium "Mediu">
@@ -143,43 +179,51 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "a">
-
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
 <!ENTITY pref_font_size_preview_text "Vulpea portocalie ageră face un salt peste așteptările dumneavoastră cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul dumneavoastră fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru dumneavoastră și un viitor mai frumos pentru internet.">
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
-<!ENTITY pref_show_product_announcements "Afișați anunțurile produsului">
 <!ENTITY pref_sync "Sincronizare">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_import_android "Import din Android">
-<!ENTITY pref_private_data_history "Istoric de navigare și descărcare">
-<!ENTITY pref_private_data_formdata "Istoric de formulare și căutări">
-<!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
+
+
+
 <!ENTITY pref_private_data_passwords "Parole salvate">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Date de sait pentru acces offline">
 <!ENTITY pref_private_data_siteSettings2 "Setările saitului">
-<!ENTITY pref_private_data_downloadFiles "Fișiere descărcate">
+
 
 
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
 <!ENTITY pref_vendor_feedback "Trimite opiniile">
 
-<!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
+
+
+
+
+<!ENTITY pref_panels_show "Afișează">
+
+
+
+
+
 <!ENTITY datareporting_notification_action_long "Alegeți ce informații să împărtășiți">
 <!ENTITY datareporting_notification_action "Alegeți ce partajați">
 <!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName; trimite automat câteva informații la &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Împărtășiți date cu &vendorShortName; în legătură cu starea navigatorului și vă ajută să înțelegi performanța navigatorului">
 <!ENTITY datareporting_abouthr_title "Vedeți raportul meu de stare">
@@ -189,18 +233,20 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de probleme">
-<!ENTITY datareporting_wifi_title "Servicii de localizare &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ajută la îmbunătățirea serviciilor de geolocație pentru web-ul deschis permițând lui &brandShortName; să colecteze și să trimită date anonime prin telefon">
 
-<!ENTITY pref_update_autodownload "Actualizări automate">
+
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Dezactivată">
-<!ENTITY pref_update_autodownload_enabled "Activată">
+<!ENTITY pref_update_autodownload_never "Niciodată">
+<!ENTITY pref_update_autodownload_always "Întotdeauna">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Ieșire">
 
 <!ENTITY addons "Suplimente">
-<!ENTITY downloads "Descărcări">
+
 <!ENTITY apps "Aplicații">
 <!ENTITY char_encoding "Codare caractere">
 
@@ -210,63 +256,76 @@ size. -->
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY find_in_page "Găsește în pagină">
 <!ENTITY desktop_mode "Cere versiunea pentru calculator">
+
 <!ENTITY tools "Unelte">
 <!ENTITY new_tab "Filă nouă">
 <!ENTITY new_private_tab "Filă fără urme nouă">
 <!ENTITY close_all_tabs "Închide toate filele">
+
 <!ENTITY tabs_normal "File">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
 <!ENTITY set_image_fail "Nu s-a putut seta imaginea">
 <!ENTITY set_image_chooser_title "Setează imaginea ca">
-
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY find_text "Găsește în pagină">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Redare">
+<!ENTITY media_pause "Pauză">
+
 
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
 <!ENTITY contextmenu_open_private_tab "Deschide în filă fără urme">
-<!ENTITY contextmenu_open_in_reader "Deschide în Cititor">
-<!ENTITY contextmenu_remove_history "Ștergere">
-<!ENTITY contextmenu_remove_bookmark "Elimină">
+
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_share "Împărtășește">
-<!ENTITY contextmenu_pasteandgo "Inserează și accesează">
+
 <!ENTITY contextmenu_paste "Lipește">
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">
 <!ENTITY contextmenu_subscribe "Subscrie la pagină">
 <!ENTITY contextmenu_site_settings "Editare setări sait">
 
+
+
+
+
 <!ENTITY pref_titlebar_mode "Bară titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
 <!ENTITY pref_titlebar_mode_url "Arată adresa paginii">
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY history_removed "Pagina eliminată">
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+
+<!ENTITY page_removed "Pagina eliminată">
 
 <!ENTITY bookmark_edit_title "Editează semnul de carte">
 <!ENTITY bookmark_edit_name "Nume">
 <!ENTITY bookmark_edit_location "Locație">
 <!ENTITY bookmark_edit_keyword "Cuvânt cheie">
-
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
 <!ENTITY site_settings_title3       "Setări sait">
 <!ENTITY site_settings_cancel       "Renunță">
 <!ENTITY site_settings_clear        "Curăță">
 <!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
 
-<!ENTITY reading_list "Listă de citit">
 <!ENTITY reading_list_added "Pagină adăugată la lista ta de citit">
-<!ENTITY reading_list_removed "Pagină eliminată din lista ta de citit">
 <!ENTITY reading_list_failed "Eșec la adăugarea paginii la lista ta de citit">
 <!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citire">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
 <!ENTITY page_action_dropmarker_description "Acțiuni adiționale">
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
@@ -282,35 +341,40 @@ size. -->
 <!ENTITY button_set "Setează">
 <!ENTITY button_clear "Curăță">
 
-<!ENTITY abouthome_addons_title "Suplimentele pentru &brandShortName; dumneavoastră">
-<!ENTITY abouthome_addons_browse "Răsfoiește toate suplimentele &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Filele de data trecută">
-<!ENTITY abouthome_last_tabs_open "Deschide toate filele de data trecută">
-<!ENTITY abouthome_top_sites_title "Saituri de top">
-<!ENTITY abouthome_topsites_edit "Modificare">
-<!ENTITY abouthome_topsites_pin "Fixare sait">
-<!ENTITY abouthome_topsites_unpin "Anulați fixarea saitului">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Configurați Sincronizare Firefox pentru a accesa semnele de carte, istoricul și filele de pe celelalte dispozitive ale dumneavoastră&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Obțineți aplicații din Firefox Marketplace și descoperiți ce are cel mai bun web-ul de oferit&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Sincronizare Firefox">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+
+
+
+
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY private_browsing_title "Navigare fără urme">
+
+
+
 
 <!ENTITY filepicker_title "Alegere fișier">
 <!ENTITY filepicker_audio_title "Alege sau înregistrează în format audio">
 <!ENTITY filepicker_image_title "Alege sau fă o poză">
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
-
 <!-- Site identity popup -->
+
 <!ENTITY identity_connected_to "Sunteți conectat la">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -324,8 +388,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "care este menținut de">
-
 <!-- Mixed content notifications in site identity popup -->
+
 <!ENTITY loaded_mixed_content_message "Această pagină afișează conținut care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; a blocat conținutul care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_bottom "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
@@ -338,25 +402,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
 
 <!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric
-                                       din Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte
-                                            din Android">
-<!ENTITY bookmarkhistory_import_history "Se importă istoricul
-                                          din Android">
+<!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric 
+din Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte 
+din Android">
+<!ENTITY bookmarkhistory_import_history "Se importă istoricul 
+din Android">
 <!ENTITY bookmarkhistory_import_wait "Vă rugăm așteptați...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Doriți să porniți sugestiile de căutare &formatS;?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
 <!ENTITY webapp_generic_name "Aplicație">
 
 <!ENTITY searchable_description "Semne de carte și istoric">
 
 <!ENTITY devtools_remote_debugging_forward "Nu uitați să configurați portul de expediere!">
+<!-- Updater notifications --> 
 
- <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_start_select2 "Apăsați pentru a descărca">
 
@@ -367,8 +431,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
-
 <!-- Guest mode -->
+
 <!ENTITY new_guest_session "Sesiune vizitator nouă">
 <!ENTITY exit_guest_session "Ieșire sesiune vizitator">
 <!ENTITY guest_session_dialog_continue "Continuă">
@@ -378,4 +442,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY exit_guest_session_text "Datele de navigare de la această sesiune vor fi șterse.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "Gata">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
