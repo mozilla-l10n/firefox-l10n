@@ -84,7 +84,12 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
-
+<!ENTITY proxyResolveFailure.longDesc3 "<ul>  
+<li>প্রক্সি বৈশিষ্ট্যাবলী পরীক্ষণ করে দেখুন এগুলি সঠিক কিনা।</li>  
+<li>পরীক্ষণ করে দেখুন অাপনার ডিভাইসের ডাটা অথবা ওয়াই-ফাই সংযোগ অাছে কিনা।  
+<button id='wifi'>ওয়াই-ফাই সক্রিয় করুন</button>  
+</li>  
+</ul>">
 
 <!ENTITY redirectLoop.title "পেজ থেকে সঠিকরূপে অনুরোধ প্রেরিত হচ্ছে না">
 <!ENTITY redirectLoop.longDesc "<ul> 
