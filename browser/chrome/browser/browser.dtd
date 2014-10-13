@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "बंद टैब वापस लें (U)">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "टैब बंद करें">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "सभी टैब सूचीबद्ध करें">
 
@@ -148,7 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "इस छवि को साझा करें (s)">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "चयन साझा करें">
-<!ENTITY shareSelectCmd.accesskey "S">
+<!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "इस वीडियो को साझा करें (s)">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "सदस्यता लें">
@@ -252,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "स्क्रैचपैड">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "विवरण देखें (D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "वीडियो देखें">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "पृष्ठभूमि छवि देखें">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "बतौर डेस्कटॉप पृष्ठभूमि सेट करें…">
@@ -593,9 +593,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "पृष्ठ शैली">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "कोई शैली नहीं">
-<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "मौलिक पृष्ठ शैली">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "इस वेबसाइट के लिए पॉपअप अवरोधन सेटिंग बदलें">
 
@@ -686,9 +686,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> से सेवा सक्रिय की गई है. आप <label class='text-link'>सहयुक्ति प्रबंधक</label> में सेवाओं के लिए सेटिंग बदल सकते हैं.">
 <!ENTITY social.activated.undo.label "ओह, इसे पहले जैसा बनाएँ!">
-<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "और जानें…">
-<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "अभी नहीं">
 
 
@@ -771,29 +771,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "बाज़ूपट्टी">
 
 <!ENTITY switchToMetroCmd2.label       "विंडोज 8 टच के लिए &brandShortName; में फिर से शुरू">
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-
-<!ENTITY panicButton.view.mainTimeframeDesc       "अंतिम किया हुआ भूल गया:">
-<!ENTITY panicButton.view.5min                    "पांच मिनट">
-<!ENTITY panicButton.view.2hr                     "दो घंटे">
-<!ENTITY panicButton.view.day                     "24 घंटे">
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-
-<!ENTITY panicButton.view.mainActionDesc          "इससे बढ़ेगा:">
-<!ENTITY panicButton.view.deleteCookies           "हालिया <html:strong>कुकीज़</html:strong> मिटाएँ">
-<!ENTITY panicButton.view.deleteHistory           "हालिया <html:strong>इतिहास</html:strong> मिटाएँ">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "सभी <html:strong>टैब</html:strong> और <html:strong>विंडोज़</html:strong> बंद करें">
-<!ENTITY panicButton.view.openNewWindow           "नया साफ़ विंडो खोलें">
-
-<!ENTITY panicButton.view.undoWarning             "इस क्रिया को पहले जैसा नहीं किया जा सकता है.">
-<!ENTITY panicButton.view.forgetButton            "भूलें!">
-
-<!ENTITY panicButton.thankyou.msg1                "आपका हालिया इतिहास साफ किया गया.">
-<!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
-<!ENTITY panicButton.thankyou.buttonlabel         "शुक्रिया!">
 
