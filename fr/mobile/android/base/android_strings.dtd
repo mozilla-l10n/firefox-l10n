@@ -139,7 +139,7 @@
 <!ENTITY pref_search_hint "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l\u0027icône &formatI;.">
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_category_devtools_summary "Débogage distant, zones repeintes">
-<!ENTITY pref_developer_paint_flashing "Surbrillance des zones repeintes">
+<!ENTITY pref_developer_paint_flashing "Mise en surbrillance des zones repeintes">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
