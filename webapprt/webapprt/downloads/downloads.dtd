@@ -11,14 +11,16 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "ప్రారంభించుచున్నది...">
 <!ENTITY scanning.label                   "వైరస్‌ల కొరకు స్కానింగ్ చేస్తోంది…">
 
+<!ENTITY downloads.title                  "దింపుకున్నవి">
 
-
+<!ENTITY cmd.pause.label                  "నిలిపివుంచు">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "తిరిగికొనసాగించు">
 <!ENTITY cmd.resume.accesskey             "R">
-
-
-
-
+<!ENTITY cmd.cancel.label                 "రద్దు">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.show.label                   "కలిగివున్న సంచయంను తెరువుము">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ఫైండర్ నందు చూపుము">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "తెరువు">
@@ -29,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "దిగుమతి పేజీకి వెళ్ళుము">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లంకెను నకలుతీయి">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "జాబితానుండి తీసివేయుము">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 

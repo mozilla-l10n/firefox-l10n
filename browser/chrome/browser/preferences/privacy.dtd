@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "నా గురించిన ఆరా కలిగివుండమని వెబ్ సైట్లకు చెప్పు">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
-
+<!ENTITY trackingProtection.label       "నన్ను ట్రాక్ చేయకుండా సైట్లను నిరోధించు">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "మరింత నేర్చుకోండి">
 <!ENTITY doNotTrackInfo.label           "మరింత నేర్చుకోండి">
 
 <!ENTITY  history.label                 "చరిత్ర">
