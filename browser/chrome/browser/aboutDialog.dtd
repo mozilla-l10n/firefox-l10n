@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Khangela izihlaziyi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label2                "Ukuhlaziya;phinda uqale i-&amp;brandShortName">
+<!ENTITY update.updateButton.label2                "Qalisa ngokutsha i-&brandShortName; ukwenzela ukuhlaziya">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Yenza uhlaziyo…">
 <!ENTITY update.applyButtonBillboard.accesskey    "Y">
