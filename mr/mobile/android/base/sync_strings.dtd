@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "मनपसंत सर्वर वापरा">
 <!ENTITY sync.input.server.label "सर्वर URL">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label;ची मांडणी नाही करु शकत">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; सर्वरशी जोडणी नाही करु शकले. तुम्हाला परत प्रयत्न करायला आवडेल?">
 <!ENTITY sync.button.tryagain.label "पुन:प्रयत्न करा">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "तुमच्या उपकरणावर खाते निर्मिती अयशस्वी.">
 <!ENTITY sync.subtitle.failmultiple.label "तुमच्याकडे एकापेक्षा जास्त Firefox प्रतिष्ठापित केलेले आहेत का? सध्या, &syncBrand.fullName.label; एकावेळेस एक Firefox प्रतिष्ठापनेला आधार देतं. &syncBrand.shortName.label; वापरण्यासाठी इतर नमुने कृपया अप्रतिष्ठापित करा.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "प्रतिष्ठापना पूर्ण">
 <!ENTITY sync.subtitle.success.label1 "तुमची माहिती पडद्यामागे डाउनलोड होत आहे. खाते व्यवस्थापनासाठी तुम्ही सेटिंग्समध्ये जाउ शकता, किंवा &brandShortName; वापरणे सुरु करु शकता.">
 <!ENTITY sync.settings.label "सेटिंग्स">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (नापसंत)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "वाचनखूण मेनु">
@@ -195,13 +200,19 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "सेवांच्या अटी">
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता धोरण">
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -224,6 +235,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्कशी जोडू शकत नाही">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जोडलेले नाही">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; म्हणून साइन इनसाठी थाप मारा">
