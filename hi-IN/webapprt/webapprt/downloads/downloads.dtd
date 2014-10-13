@@ -13,13 +13,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "डाउनलोड">
 
+<!ENTITY cmd.pause.label                  "ठहराव(P)">
+<!ENTITY cmd.pause.accesskey              "P">
 
 
-
-
-
-
-
+<!ENTITY cmd.cancel.label                 "खारिज करे(C)">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.show.label                   "संग्राहक फोल्डर खोलें(F)">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "फाइंडर में दिखाएँ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "खोलें">
@@ -30,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड लिंक की नकल करें (L)">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "सूची से हटाएँ">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
