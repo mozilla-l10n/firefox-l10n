@@ -20,7 +20,7 @@
 <!ENTITY restorepage.restoreHeader  "Buyisela">
 <!ENTITY restorepage.listHeader     "I-Windows neethebhu">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Iwindow &#037;S">
+<!ENTITY restorepage.windowLabel    "Ifestile &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
 
@@ -31,4 +31,4 @@
      that now they have a better experience.  -->
 
 <!ENTITY welcomeback.pageTitle      "Siyakwamkela Kwakhona!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; iyiseta ngokutsha iprofayile yakho. Ngezantsi kukho uludwe lweefestile neethebhu ozivulileyo; ungazibuyisela okanye uqale ngokutsha.">
+<!ENTITY welcomeback.pageInfo       "I-&brandShortName; iyiseta ngokutsha iprofayile yakho. Ngezantsi kukho uludwe lweefestile neethebhu ozivulileyo; ungazibuyisela okanye uqale ngokutsha.">

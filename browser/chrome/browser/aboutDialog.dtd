@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Khangela izihlaziyi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2                "Ukuhlaziya;phinda uqale i-&amp;brandShortName">
-<!ENTITY update.updateButton.accesskey            "I would suggest that in a Xhosa text start with &quot;to update&quot; which is the word &quot;ukuhlaziya&quot;it makes sense that way.">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Yenza uhlaziyo…">
 <!ENTITY update.applyButtonBillboard.accesskey    "Y">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -22,26 +22,26 @@
 <!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&vendorShortName; ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Ibuyisela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&venderShortName; ukuze ibe nokwenza i-&brandShortName; ngcono">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "I-&vendorShortName;">
 <!ENTITY community.exp.middle       " yi ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "lwehlabathi">
-<!ENTITY community.exp.end          " olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.">
+<!ENTITY community.exp.end          "  olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.">
 
 <!ENTITY community.start2           "I-&brandShortName; iyilwe ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "I-&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", uluntu ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "lwehlabathi">
-<!ENTITY community.end3             "lisebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.">
+<!ENTITY community.end3             " lisebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.">
 
 <!ENTITY contribute.start           "Ivakala inomdla? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Zibandakanye nawe!">
-<!ENTITY contribute.end             "Zibandakanye nawe!">
+<!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Inkcazelo yonikezelo lwephepha-mvume">
