@@ -50,7 +50,11 @@
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>మరలా ప్రయత్నించు. &brandShortName; అనుసంధానాన్ని తెరుచుటకు ప్రయత్నించును మరియు పేజీను తిరిగిలోడ్ చేయును. 
+<button id='wifi'>వై-ఫై చేతనించు</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -81,7 +85,11 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ప్రోక్సీ సేవికను కనుగొనలేక పోయింది.">
-
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>ప్రోక్సీ అమరికలు సరైనవో కావో ఖాయపరచుటకు వాటిని పరిశీలించండి.</li> 
+<li>మీ పరికరం పనిచేస్తున్న డేటా లేదా వై-ఫై అనుసంధానం కలిగివుండునట్లు చూసుకోండి.</li> 
+<button id='wifi'>వై-ఫై చేతనించు</button> 
+</ul>">
 
 <!ENTITY redirectLoop.title "పేజీ సరిగా తిరిగిపంప బడుటలేదు">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -110,6 +118,11 @@
 కొద్దిసేపటి తరువాత ప్రయత్నించగలరు.</li> 
 </ul>">
 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>సైటు తాత్కాలికంగా అందుబాటులో ఉండివుండకపోవచ్చు లేదా వత్తిడిగా ఉండొచ్చు. కాసేపటి తరువాత మరలా ప్రయత్నించు.</li> 
+<li>ఒకవేళ మీరు ఏ పేజీలను లోడు చేయలేక పోతూంటే, మీ మొబైల్ పరికరపు డేటా లేదా వై-ఫై అనుసంధానం పరిశీలించండి.</li> 
+<button id='wifi'>వై-ఫై చేతనించు</button> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "విషయపు భద్రతా విధానం చేత నిరోధించబడింది">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">

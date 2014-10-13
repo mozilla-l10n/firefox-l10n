@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_full_label "ఫైర్‌ఫాక్స్ ఖాతాలు">
 
 <!ENTITY fxaccount_custom_server_account_title "సేవకిలో ఖాతాను వాడుతున్నారు">
-
+<!ENTITY fxaccount_custom_server_sync_title "సింక్ డేటాను సేవికపై నిల్వవుంచుతోంది">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -187,7 +187,7 @@
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
-
+<!ENTITY fxaccount_status_sync_server "సింక్ సేవిక">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: చేతనం">
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
@@ -209,7 +209,7 @@
 <!ENTITY fxaccount_status_more "మరిన్ని&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ఫైర్‌ఫాక్స్ ఖాతాను తొలగించాలా?">
-
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; మీ ఖాతాతో సింక్ అవ్వడాన్ని ఆపుతుంది, కానీ ఈ పరికరంపైని మీ విహారణ డేటాను తొలగించదు.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.">
