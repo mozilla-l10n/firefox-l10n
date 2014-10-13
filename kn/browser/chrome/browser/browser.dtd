@@ -786,7 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY panicButton.view.mainActionDesc          "ಇಲ್ಲಿಂದ ಮುಂದುವರೆದರೆ:">
 <!ENTITY panicButton.view.deleteCookies           "ಇತ್ತೀಚಿನ <html:strong>ಕುಕಿಗಳನ್ನು </html:strong> ಅಳಿಸು">
-<!ENTITY panicButton.view.deleteHistory           "ಇತ್ತೀಚಿನ <html:strong> ಇತಿಹಾಸವನ್ನು<html:strong> ಅಳಿಸು">
+<!ENTITY panicButton.view.deleteHistory           "ಇತ್ತೀಚಿನ <html:strong> ಇತಿಹಾಸವನ್ನು</html:strong> ಅಳಿಸು">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "ಎಲ್ಲಾ <html:strong>ಹಾಳೆಗಳನ್ನು </html:strong> ಹಾಗೂ <html:strong>ಕಿಟಕಿಗಳನ್ನು </html:strong> ಮುಚ್ಚು">
 <!ENTITY panicButton.view.openNewWindow           "ಒಂದು ಹೊಸ ಸ್ವಚ್ಚವಾದ ಕಿಟಕಿಯನ್ನು ತೆರೆಯಿರಿ">
 
