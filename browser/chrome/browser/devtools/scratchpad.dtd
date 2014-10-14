@@ -53,19 +53,21 @@
 <!ENTITY viewMenu.label               "दृश्य">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "पंक्ति क्रमांक देखाबू (L)">
+<!ENTITY lineNumbers.accesskey         "L">
 
 
 
 
 
 
+<!ENTITY largerFont.commandkey        "+">
 
 
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
+<!ENTITY normalSize.label             "सामान्य आकार (N)">
+<!ENTITY normalSize.accesskey         "N">
 
 
 <!ENTITY editMenu.label               "संपादन">
@@ -83,8 +85,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "बढ़िया छपाइ (P)">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -142,4 +145,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.key "e">
