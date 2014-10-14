@@ -14,12 +14,12 @@
 
 
 <!ENTITY profilerUI.emptyNotice1    "पर क्लिक करें">
-
+<!ENTITY profilerUI.emptyNotice2    "JavaScript फंक्शन कॉल आरंभ करने के लिए बटन दें">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
 <!ENTITY profilerUI.stopNotice1    "पर क्लिक करें">
-
+<!ENTITY profilerUI.stopNotice2    "प्रोफ़ाइलिंग रोकने के लिए फिर बटम">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -39,9 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-<!ENTITY profilerUI.table.duration    "समय (ms)">
 
-<!ENTITY profilerUI.table.invocations "कॉल">
-<!ENTITY profilerUI.table.function    "फंक्शन">
+
+
+<!ENTITY profilerUI.table.function        "फंक्शन">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "चयन के लिए नया टैब खोलें">

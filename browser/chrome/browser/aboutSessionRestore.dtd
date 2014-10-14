@@ -21,14 +21,19 @@
 <!ENTITY restorepage.listHeader     "विंडोज व टैब">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "विंडो &#037;S">
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 
-<!ENTITY welcomeback.tabtitle       "आपका फिर स्वागत है!">
-<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
-     expressing joy that the user has successfully migrated their stuff and hope
-     that now they have a better experience.  -->
 
-<!ENTITY welcomeback.pageTitle      "आपका फिर स्वागत है!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; सफलतापूर्वक आपका प्रोफ़ाइल रीसेट किया. नीचे आपके द्वारा खोले गए विंडोज़ और टैब की एक सूची है; आप उन्हें पुनर्स्थापित या एक साफ स्लेट के साथ शुरू कर सकते हैं.">
+
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
