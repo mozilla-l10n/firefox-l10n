@@ -10,29 +10,29 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Khangela izihlaziyi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label2                "Qalisa ngokutsha i-&brandShortName; ukwenzela ukuhlaziya">
+<!ENTITY update.updateButton.label2                "Qalisa ngokutsha &brandShortName; ukwenzela ukuhlaziya">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Yenza uhlaziyo…">
 <!ENTITY update.applyButtonBillboard.accesskey    "Y">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "I-&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
+<!ENTITY warningDesc.version        "&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&vendorShortName; ukuze ibe nokwenza i-&brandShortName; ngcono.">
+<!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&vendorShortName; ukuze ibe nokwenza &brandShortName; ngcono.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "I-&vendorShortName;">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " yi ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "lwehlabathi">
 <!ENTITY community.exp.end          "  olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.">
 
-<!ENTITY community.start2           "I-&brandShortName; iyilwe ">
+<!ENTITY community.start2           "&brandShortName; iyilwe ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "I-&vendorShortName;">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", uluntu ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "lwehlabathi">
@@ -55,7 +55,7 @@
 
 <!ENTITY update.checkingForUpdates  "Ikhangela izihlaziyi…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "I-&brandShortName; igqibelele">
+<!ENTITY update.noUpdatesFound      "&brandShortName; igqibelele">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Uhlaziyo lurhoxiswe ngumlawuli wekhompyutha yakho">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
