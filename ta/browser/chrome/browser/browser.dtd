@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "இந்தப் புத்தகக்குறியை திருத்து">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "இந்தப் பக்கத்தைப் பகிரவும்">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "இ">
-<!ENTITY shareLinkCmd.label "இந்த இணைப்பைப் பகிரவும்">
-<!ENTITY shareLinkCmd.accesskey "இ">
-<!ENTITY shareImageCmd.label "இந்தப் படத்தைப் பகிர்">
-<!ENTITY shareImageCmd.accesskey "இ">
-<!ENTITY shareSelectCmd.label "தேர்வைப் பகிர்">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "இந்த நிகழ்படத்தை பகிரவும்">
-<!ENTITY shareVideoCmd.accesskey "இ">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "கூடுதல் இணைப்புகள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "வலைத்தள உருவாக்குனர்">
 <!ENTITY webDeveloperMenu.accesskey   "வ">
@@ -693,6 +698,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName; ஐ தனிபயனாக்கு">
 <!ENTITY customizeMode.menuAndToolbars.header2 "கூடுதலான கருவிகளும் வசதிகளும்">
 <!ENTITY customizeMode.menuAndToolbars.empty "கூடுதலாக கருவிகள் வேண்டுமா?">
@@ -707,6 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
@@ -731,16 +740,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "தேர்வுகள்">
 
 
-<!ENTITY mixedContentBlocked2.block.label "பாதுகாப்பைச் செயல்படுத்து">
-<!ENTITY mixedContentBlocked2.block.accesskey "b">
+
+
 
 
 <!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
 
 <!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
 <!ENTITY trackingContentBlocked.options "தேர்வுகள்">
-<!ENTITY trackingContentBlocked.unblock.label2 "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு">
-<!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
+
+
+
+
 
 
 <!ENTITY pointerLock.notification.message "எப்போது வேண்டுமானாலும் மீண்டும் இதைக் காண்பிக்க ESC ஐ அழுத்தவும்.">
