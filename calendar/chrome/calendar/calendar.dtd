@@ -104,7 +104,7 @@
 <!ENTITY calendar.orientation.label "Rotește vizualizarea" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.search.options.searchfor " care conțin">
+<!ENTITY calendar.search.options.searchfor "  care conțin">
 
 <!ENTITY calendar.list.header.label                 "Calendar">
 

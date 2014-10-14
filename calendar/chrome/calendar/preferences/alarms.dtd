@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "Cu cât timp înainte pornește alarma pentru o sarcină:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Adresa la care se trimit alarmele:">
-<!ENTITY pref.defaulttext.label "Textul implicit pentru alarme :">
 
 <!ENTITY pref.defaultsnoozelength.label "Durata implicită a amânării alarmei:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
