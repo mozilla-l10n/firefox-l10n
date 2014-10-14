@@ -148,7 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "с">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Подели ову везу>
+<!ENTITY shareLink.label "Подели ову везу">
 <!ENTITY shareLink.accesskey "в">
 <!ENTITY shareImage.label "Подели ову слику">
 <!ENTITY shareImage.accesskey "с">
