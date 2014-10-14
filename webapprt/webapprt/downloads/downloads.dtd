@@ -45,7 +45,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Vala xa okukhutshelwayo kugqibile">
+<!ENTITY closeWhenDone.label              "Vala xa kugqibile okukhutshelwayo">
 <!ENTITY closeWhenDone.tooltip            "Ivala ifestile yokukhutshelwayo xa zonke iifayile zigqibile ukukhuphela">
 
 <!ENTITY showFolder.label                 "Bonisa le folda">
