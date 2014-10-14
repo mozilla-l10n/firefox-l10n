@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Такође можете посетити ">
-<!ENTITY support.link              "&brandShortName; подршку">
-<!ENTITY support.post2             " за више информација.">
+<!ENTITY support.pre3              "Посетите наш ">
+<!ENTITY support.link2             "Сајт подршке">
+<!ENTITY support.post3             " да бисте добили одговоре за честе проблеме.">
 
 <!ENTITY happy.header              "То је супер!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Можда касније">
 <!ENTITY happy.noThanks            "Не хвала">
 
+<!ENTITY sad.header                "Ох не!">
 <!ENTITY sad.message               "Жао нам је што сте имали проблема са &brandShortName;. Молимо Вас кажите нам шта се десило да можемо да га поправимо.">
 <!ENTITY sad.placeholder           "Овде унесите повратне информације">
-<!ENTITY sad.lastSite              "Последњи посећен сајт (опционо)">
+<!ENTITY sad.lastSite2             "Укључи последњи посећен сајт ">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Хвала што сте нам рекли.">
+<!ENTITY sad.thanksHeader2         "Хвала Вам.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Или.">
 
-<!ENTITY feedback.privacy          "Ради Ваше приватности, молимо Вас да не укључујете Ваше личне информације.">
+<!ENTITY feedback.privacy2         "Ради Ваше приватности, молимо Вас да не укључујете Ваше личне податке при слању повратних информација.">
 <!ENTITY feedback.send             "Пошаљи">
