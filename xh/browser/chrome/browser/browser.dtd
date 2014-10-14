@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Hlela Le Bhukhmakhi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Yabelana ngeli khasi">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "l">
-<!ENTITY shareLinkCmd.label "Yabelana ngeli khonkco">
-<!ENTITY shareLinkCmd.accesskey "l">
-<!ENTITY shareImageCmd.label "Yabelana ngalo mfanekiso">
-<!ENTITY shareImageCmd.accesskey "l">
-<!ENTITY shareSelectCmd.label "Yabelana Ngokhetho">
-<!ENTITY shareSelectCmd.accesskey "Y">
-<!ENTITY shareVideoCmd.label "Yabelana ngale vidiyo">
-<!ENTITY shareVideoCmd.accesskey "l">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "Rhuma">
 <!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "I-zongezelelo">
 <!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
 <!ENTITY webDeveloperMenu.accesskey   "U">
@@ -337,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.accesskey "b">
 <!ENTITY historyUndoMenu.label "Iithebhu ezivaliweyo kutshanje">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Iifestile ezivaliweyo kutshanje">
+<!ENTITY historyUndoWindowMenu.label "I-Windows ezivalwe kutshanje">
 <!ENTITY historyRestoreLastSession.label "Buyisela iseshoni yangaphambili">
 
 <!ENTITY showAllHistoryCmd2.label "Bonisa yonke imbali">
@@ -590,12 +595,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
-<!ENTITY pageStyleMenu.label "Iphepha le-Style">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "I-No Style">
-<!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "I-Basic Page Style">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
+<!ENTITY pageStyleMenu.label "Isimbo sephepha">
+<!ENTITY pageStyleMenu.accesskey "m">
+<!ENTITY pageStyleNoStyle.label "Akukho simbo">
+<!ENTITY pageStyleNoStyle.accesskey "A">
+<!ENTITY pageStylePersistentOnly.label "Isimbo sephepha esisisiseko">
+<!ENTITY pageStylePersistentOnly.accesskey "e">
 
 <!ENTITY pageReportIcon.tooltip            "Tshintsa iisethingi zesithinteli esizivelelayo zale webhusayithi">
 
@@ -693,6 +698,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "Qhelanisa i-&brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Izixhobo neenkalo ezongezelelekileyo">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ufuna izixhobo ezingakumbi?">
@@ -707,6 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Incoko yengqwalaselo">
@@ -732,16 +741,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Iinketho">
 <!ENTITY mixedContentBlocked2.unblock.label "kunye nokhuseleko lusayekiwe">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Vumela ukhuseleko">
-<!ENTITY mixedContentBlocked2.block.accesskey "b">
+
+
 <!ENTITY mixedContentBlocked2.disabled.message "Ukhuseleko luyekisiwe">
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe">
 <!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
 <!ENTITY trackingContentBlocked.options "Iinketho">
-<!ENTITY trackingContentBlocked.unblock.label2 "Yekisa ukhuseleko kulesayithi">
-<!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
+
+
+
+
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
 
 <!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
@@ -770,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
-<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela iifestile 8 Touch">
+<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela i-Windows 8 Touch">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -787,7 +798,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.mainActionDesc          "Ukuqhubeleka kuya:">
 <!ENTITY panicButton.view.deleteCookies           "Cima okutsha nje <html:strong>Amaqebengwana</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Cima okutsha nje <html:strong>Imbali</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Vala konke <html:strong>Iithebhu</html:strong> kunye <html:strong>Iifestile</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Vala konke <html:strong>Iithebhu</html:strong> kunye <html:strong>i-Windows</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Vula iFestile ecocekileyo entsha">
 
 <!ENTITY panicButton.view.undoWarning             "Eli nyathelo alinakujikwa.">
