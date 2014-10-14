@@ -255,6 +255,8 @@
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
 <!ENTITY reading_list_duplicate "La pagina è già presente in Elenco lettura">
+<!ENTITY reading_list_time_minutes "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Più di un’ora">
 <!ENTITY page_action_dropmarker_description "Azioni disponibili">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
