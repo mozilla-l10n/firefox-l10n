@@ -17,12 +17,18 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Undersøg adressen for tastefejl, såsom
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din enheds
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søg</button>
+    </div>
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, kontrollér da din enheds
   data- eller wi-fi-forbindelse. <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
@@ -43,11 +49,17 @@
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Webadresser skrives normalt som
     <strong>http://www.eksempel.dk/</strong></li>
-  <li>Sørg for at du ikke benytter divisionstegn (dvs.
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søg</button>
+    </div>
+  <li>Kontrollér at du ikke benytter divisionstegn (dvs.
     <strong>/</strong>).</li>
 </ul>
 ">
