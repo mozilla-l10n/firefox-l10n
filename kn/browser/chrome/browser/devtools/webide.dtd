@@ -9,15 +9,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_selectApp_label "ಆಪ್ ಅನ್ನು ತೆರೆ...">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ಅನುಸ್ಥಾಪಿಸು ಮತ್ತು ಚಲಾಯಿಸು">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "ಆಪ್ ಅನ್ನು ನಿಲ್ಲಿಸು">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "ಆಪ್ ಅನ್ನು ಡೀಬಗ್ ಮಾಡು">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "ಯೋಜನೆಯನ್ನು ತೆಗೆದುಹಾಕು">
 
 
 
@@ -25,18 +25,18 @@
 
 <!ENTITY runtimeMenu_disconnect_label "ಸಂಪರ್ಕ ತೆಗೆ">
 
-
-
+<!ENTITY runtimeMenu_showPermissionTable_label "ಅನುಮತಿಗಳ ಕೋಷ್ಟಕ">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "ತೆರೆಚಿತ್ರ">
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "ಮಾನಿಟರ್">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 <!ENTITY viewMenu_label "ನೋಟ">
-
-
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "ಸಂಪಾದಕವನ್ನು ಹೊರಳಿಸು">
 
 
 
@@ -50,15 +50,19 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 
+<!ENTITY projectPanel_myProjects "ನನ್ನ ಯೋಜನೆಗಳು">
+<!ENTITY projectPanel_runtimeApps "ಚಾಲನಾಸಮಯದ ಆಪ್‌ಗಳು">
 
-
-
-
-
+<!ENTITY runtimePanel_USBDevices "USB ಸಾಧನಗಳು">
+<!ENTITY runtimePanel_WiFiDevices "ವೈ-ಫೈ ಸಾಧನಗಳು">
+<!ENTITY runtimePanel_simulators "ಸಿಮುಲೇಟರ್‌ಗಳು">
+<!ENTITY runtimePanel_custom "ಅಗತ್ಯಾನುಗುಣ">
 <!ENTITY runtimePanel_installsimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
-
-
+<!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
+<!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
 <!-- Lense -->
+
+<!ENTITY details_valid_header "ಮಾನ್ಯ">
 
 
 <!ENTITY details_description "ವಿವರಣೆ">
@@ -76,12 +80,16 @@
 <!ENTITY deck_close "ಮುಚ್ಚು">
 <!-- Addons -->
 
+<!ENTITY addons_title "ಹೆಚ್ಚುವರಿ ಘಟಕಗಳು">
+<!ENTITY addons_aboutaddons "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕವನ್ನು ತೆರೆ">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "ಆದ್ಯತೆಗಳು">
+<!ENTITY prefs_editor_title "ಸಂಪಾದಕ">
 <!ENTITY prefs_general_title "ಸಾಮಾನ್ಯ">
-<!ENTITY prefs_restore "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
-
-
+<!ENTITY prefs_restore "ಪೂರ್ವನಿಯೋಜಿತಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
+<!ENTITY prefs_simulators "ಸಿಮುಲೇಟರ್‌ಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸಿ">
+<!ENTITY prefs_options_enablelocalruntime "ಸ್ಥಳೀಯ ಚಾಲನಾಸಮಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ">
 
 
 
