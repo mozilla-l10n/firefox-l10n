@@ -1,0 +1,129 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle "फ़ायरफ़ाक्स WebIDE">
+
+<!ENTITY projectMenu_label "प्रोजेक्ट">
+<!ENTITY projectMenu_accesskey "P">
+
+<!ENTITY projectMenu_newApp_accesskey "N">
+
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+
+<!ENTITY projectMenu_selectApp_accesskey "O">
+
+<!ENTITY projectMenu_play_accesskey "I">
+
+<!ENTITY projectMenu_stop_accesskey "S">
+
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "प्रीसेट हटाबू">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "वरीयता">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "डिसकनेक्ट करू">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "मानीटर">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+
+<!ENTITY viewMenu_label "देखू">
+<!ENTITY viewMenu_accesskey "V">
+
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
+
+<!ENTITY viewMenu_showAddons_accesskey "M">
+
+<!ENTITY projectButton_label "अनुप्रयोग खोलू">
+<!ENTITY runtimeButton_label "कार्यसमय चुनू">
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+
+<!ENTITY key_quit "W">
+<!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
+<!-- reload app -->
+<!ENTITY key_play "R">
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
+
+
+<!ENTITY projectPanel_tabs "टैब">
+<!ENTITY runtimePanel_USBDevices "यूएसबी अओजार">
+
+
+<!ENTITY runtimePanel_custom "मनपसिन्न">
+
+
+
+<!-- Lense -->
+
+<!ENTITY details_valid_header "वैध">
+<!ENTITY details_warning_header "चेतावनी">
+<!ENTITY details_error_header "त्रुटि">
+<!ENTITY details_description "विवरण">
+<!ENTITY details_location "स्थान">
+<!ENTITY details_manifestURL "अनुप्रयोग आईडी">
+<!ENTITY details_removeProject_button "प्रोजेक्ट हटाबू">
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "बन्न करू">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "सहयुक्ति प्रबंधन खोलू">
+<!-- Prefs -->
+
+<!ENTITY prefs_title "वरीयता">
+<!ENTITY prefs_editor_title "संपादक">
+<!ENTITY prefs_general_title "सामान्य">
+<!ENTITY prefs_restore "पूर्वनिर्धारित वापस करू">
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_tabsize "टैब आकार">
+
+
+
+
+<!ENTITY prefs_options_autocomplete "स्वतः-पूर्ण">
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारित">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "नाम">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+
+<!ENTITY monitor_title "मानीटर">
+<!ENTITY monitor_help "मद्दति ">

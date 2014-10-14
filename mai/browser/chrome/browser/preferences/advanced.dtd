@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "टाइप  कएनाइ  शुरू करबा पर वर्तनी जाँचू">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "तंत्र पूर्वनिर्धारित">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        " हरदम  ई देखब क लेल जाँचू जे &brandShortName; आरंभन पर पूर्वनिर्धारित ब्राउजर  अछि ">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; केँ तयशुदा ब्राउजर बनाबू (d)">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; अखन अहाँक तयशुदा ब्राउजर अछि">
-
 <!ENTITY dataChoicesTab.label            "आँकड़ा पसंद">
 
 <!ENTITY healthReportSection.label       "&brandShortName; स्वास्थ्य रिपोर्ट">
@@ -130,7 +122,7 @@
 
 
 
-<!ENTITY verify2.label                   "सत्यापन">
-<!ENTITY verify2.accesskey               "V">
+
+
 
 

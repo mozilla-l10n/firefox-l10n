@@ -21,6 +21,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "हमरा की कएनाइ चाही?">
 <!ENTITY certerror.whatShouldIDo.content " जँ अहाँ एहि साइट सँ बिनु ककरो समस्या क प्रायः कनेक्ट होइछी, एहि त्रुटि क मतलब भए सकैत  अछि जे कोनो एहि साइट केँ छद्म रूपेँ अपना लेल देखाबैक कोशिश कए रहल अछि, आओर इएह लेल अहाँकेँ जारी नहि रखनाइ चाही.">
+
 <!ENTITY certerror.getMeOutOfHere.label "हमरा एतय सँ बाहर लए चलू!">
 
 <!ENTITY certerror.expert.heading "हम जोखिम समझैत छी">

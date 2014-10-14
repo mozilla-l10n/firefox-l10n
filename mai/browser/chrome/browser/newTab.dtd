@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "नव टैब">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "थंबनेल हटाएल">
 <!ENTITY newtab.undo.undoButton "पहिने जहिना">
 <!ENTITY newtab.undo.restoreButton "सभटा बहाल करू">
 <!ENTITY newtab.undo.closeTooltip "नुकाउ">
-
-
-

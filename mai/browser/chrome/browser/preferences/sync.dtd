@@ -47,6 +47,8 @@
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "गोपनीयता नीति">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -62,8 +64,8 @@ both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
-
+<!ENTITY signIn.label                "साइन इन">
+<!ENTITY manage.label                "प्रबंधित करू">
 
 
 

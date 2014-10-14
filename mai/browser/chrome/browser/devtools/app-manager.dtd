@@ -6,7 +6,7 @@
 
 
 
-
+<!ENTITY device.screenshot "स्क्रीनशॉट">
 
 
 
@@ -14,7 +14,7 @@
 
 <!ENTITY device.stopApp "रोकू">
 
-
+<!ENTITY device.debugApp "डिबग">
 
 <!ENTITY device.name "नाम">
 
@@ -26,11 +26,19 @@
 
 <!ENTITY device.deny "मना करू ">
 
-
+<!ENTITY device.installedApps "एप्प संस्थापित करू">
 
 <!ENTITY device.permissions "अनुमति">
 
 
+<!ENTITY device.browserTabs "ब्राउजर टैब">
+
+<!ENTITY device.debugBrowserTab "डिबग">
+
+
+
+<!ENTITY connection.connectTooltip "दूरस्थ सर्वर सँ कनेक्ट करू">
+<!ENTITY connection.disconnect "डिसकनेक्ट करू">
 
 
 
@@ -39,14 +47,7 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY connection.saveConnectionInfo "सहेजू">
 
 <!ENTITY connection.connecting "कनेक्ट कए रहल अछि…">
 
@@ -57,6 +58,11 @@
 
 
 
+<!ENTITY connection.installAnotherSimulator "जोड़ू">
+
+<!ENTITY connection.startRegisteredSimulator "आरंभ">
+
+<!ENTITY projects.addApp "जोड़ू">
 
 
 
@@ -64,16 +70,11 @@
 
 
 
+<!ENTITY projects.updateApp "अद्यतन  करू">
 
+<!ENTITY projects.debugApp "डिबग">
 
-
-
-
-
-
-
-
-
+<!ENTITY projects.saveManifest "सहेजू">
 
 
 
@@ -83,11 +84,11 @@
 
 <!ENTITY projects.valid "वैध">
 <!ENTITY projects.error "त्रुटि">
+<!ENTITY projects.warning "चेतावनी">
 
 
 
-
-
+<!ENTITY help.close "बन्न करू">
 
 
 
