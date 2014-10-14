@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Ushbu xatcho‘pni o‘zgartirish">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Ushbu sahifani bo‘lishish">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "b">
-<!ENTITY shareLinkCmd.label "Ushbu linkni bo‘lishish">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Ushbu rasmni bo‘lishish">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Tanlanganni bo‘lishish">
-<!ENTITY shareSelectCmd.accesskey "b">
-<!ENTITY shareVideoCmd.label "Ushbu videoni bo‘lishish">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "Obuna bo‘lish">
 <!ENTITY subscribeToPageMenupopup.label "Ushbu sahifaga obuna bo‘lish">
 <!ENTITY subscribeToPageMenuitem.label "Ushbu sahifaga obuna bo‘lish…">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Qo‘shimcha dasturlar">
 <!ENTITY addons.accesskey             "Q">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Veb dasturchi">
 <!ENTITY webDeveloperMenu.accesskey   "V">
@@ -693,6 +698,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName;ni qulaylashtirish">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Qo‘shimcha asboblar va xususiyatlar">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ko‘proq asboblar kerakmi?">
@@ -707,6 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ko‘proq mavzular olish">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Suhbatlarni markazda ko‘rsatish">
@@ -732,16 +741,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Moslamalar">
 <!ENTITY mixedContentBlocked2.unblock.label "Himoyani hozir o‘chirish">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "h">
-<!ENTITY mixedContentBlocked2.block.label "Himoyani yoqish">
-<!ENTITY mixedContentBlocked2.block.accesskey "y">
+
+
 <!ENTITY mixedContentBlocked2.disabled.message "Himoya o‘chirildi">
 
 <!ENTITY trackingContentBlocked.message "Kuzatish">
 <!ENTITY trackingContentBlocked.moreinfo "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
 <!ENTITY trackingContentBlocked.learnMore "Ko‘proq o‘rganish">
 <!ENTITY trackingContentBlocked.options "Moslamalar">
-<!ENTITY trackingContentBlocked.unblock.label2 "Ushbu sahifadagi himoyalanishni o‘chirish">
-<!ENTITY trackingContentBlocked.block.label "Himoyani yoqish">
+
+
+
+
 <!ENTITY trackingContentBlocked.disabled.message "Kuzatishdan himoya o‘chirildi">
 
 <!ENTITY pointerLock.notification.message "Uni yana ko‘rsatish uchun xohlagan vaqtingizda &quot;ESC&quot; tugmasini bosing.">

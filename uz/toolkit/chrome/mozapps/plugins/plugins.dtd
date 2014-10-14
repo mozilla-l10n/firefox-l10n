@@ -1,27 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pluginWizard.title                                  "Plagin topish xizmati">
-<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title;ga xush kelibsiz">
-
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; hozir mavjud boʻlgan plaginlarni tekshirmoqda…">
-
-<!ENTITY pluginWizard.availablePluginsPage.title             "Mavjud plaginlarni yuklab olish">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Quyidagi plaginlar mavjud:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Plaginlarni oʻrnatish uchun &quot;Keyingi&quot; tugmasini bosing.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Ba`zi plaginlar oʻrnatish jarayonida qoʻshimcha ma`lumotlar soʻrashi mumkin.">
-
-<!ENTITY pluginWizard.licensePage.title                      "Plagin litsenziyasi">
-<!ENTITY pluginWizard.licensePage.accept.label               "Men roziman.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Men rozimasman (plagin oʻrnatilmaydi).">
-
-<!ENTITY pluginWizard.installPluginsPage.title               "Plaginlarni oʻrnatish">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; plaginlarni oʻrnatmoqda…">
-
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; kerakli plaginlarni oʻrnatishni tugatdi:">
-
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Plaginlar haqida koʻproq toping yoki kerakli plaginlarni qoʻlbola toping.">
-<!ENTITY pluginWizard.finalPage.restart.label                "Plagin (lar ) ishlashi uchun &brandShortName; qayta ishga tushirilishi kerak">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
@@ -40,7 +19,6 @@
 <!ENTITY disabledPlugin                                      "Bu plagin oʻchirib qoʻyilgan.">
 <!ENTITY blockedPlugin.label                                 "Himoyangiz uchun ushbu plagin bloklangan.">
 <!ENTITY hidePluginBtn.label                                 "Plaginni yashirish">
-<!ENTITY installPlugin                                       "Plaginlarni oʻrnatish">
 <!ENTITY managePlugins                                       "Plaginlarni boshqarish.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->

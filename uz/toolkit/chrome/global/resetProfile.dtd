@@ -2,14 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "&brandShortName;ni tiklash">
-<!ENTITY resetProfile.dialog.description  "&brandShortName;ni boshlangʻich holatiga tiklashni xohlaysizmi?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; quyidagilarni saqlashga urinadi:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; qayta ishga tushiriladi va barcha narsalar oʻchiriladi.">
-<!ENTITY resetProfile.dialog.button.label "&brandShortName;ni tiklash">
 
-<!ENTITY resetProfile.title               "&brandShortName;ni standart holatiga tiklash">
-<!ENTITY resetProfile.description         "Sizni hal qilib boʻlmaydigan muammolar qiynayaptimi, unda boshlangʻich ma`lumot bilan yangidan ishga tushiring.">
-<!ENTITY resetProfile.button.label2       "&brandShortName;ni tiklash">
 
-<!ENTITY resetProfile.cleaning.description "&brandShortName; eski ma`lumotlaringizni tozalagunicha kutib turing...">
+
+
+
+
+
