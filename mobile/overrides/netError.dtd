@@ -17,13 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>टाइपिंग त्रुटियों के लिए पता जाँचें, जैसे कि 
-<strong>www</strong>.example.com की बजाय 
-<strong>ww</strong>.example.com</li> 
-<li>अगर आप कोई भी पृष्ठ लोड करने मे असमर्थ है तो आपके साधन का डाटा या वाई-फाई कनेक्शन जाँचें. 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "फाइल नहीं मिली">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -36,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
 <!ENTITY malformedURI.title "पता वैध नहीं है">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>वेब पता प्रायः इस तरह लिखा जाता है 
-<strong>http://www.example.com/</strong></li> 
-<li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -50,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन मोड">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>फिरसे प्रयास करें. &brandShortName; कनेक्शन खोलने और पृष्ठ रिलोड करने का प्रयास करेगा. 
 <button id='wifi'>वाई-फाई शुरू करें</button> 
@@ -84,6 +77,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>जाँचें और यह सुनिश्चत करें कि प्रॉक्सी सेटिंग्स सही हैं.</li> 
 <li>जाँचें और यह सुनिश्चत करें कि आपके साधन का डाटा या वाई-फाई कनेक्शन शुरू है. 
@@ -113,6 +108,8 @@
 <li>यह सर्वर विन्यास के साथ समस्या हो सकती है, या कोई दूसरा सर्वर के रूप में छद्म रूप से आने की कोशिश कर सकता है.</li> 
 <li>यदि आप सर्वर से पीछे सफलतापूर्वक कनेक्ट हो चुके हैं, त्रुटि अस्थायी हो सकती है, और आप इसे बाद में फिर कोशिश कर सकते हैं.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>साइट अस्थायी रूप से अनुपलब्ध अथवा अति व्यस्त रह सकती है. कुछ क्षणों में फिरसे प्रयास करें.</li> 
