@@ -144,7 +144,7 @@
 <!ENTITY detail.size                          "आकार">
 
 <!ENTITY detail.checkForUpdates.label         "अद्यतन क लेल जाँचू">
-<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ई सहयुक्ति क लेल अद्यतन क लेल जाँच  करू ">
 <!ENTITY detail.showPreferencesWin.label      "विकल्प">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">

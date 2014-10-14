@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "नाम">
 <!ENTITY col.tags.label          "टैग">
 <!ENTITY col.url.label           "स्थान">
-
+<!ENTITY col.mostrecentvisit.label "Most Recent Visit">
 <!ENTITY col.visitcount.label    "देखबाक संख्या">
 <!ENTITY col.keyword.label       "बीजशब्द">
 <!ENTITY col.description.label   "विवरण">

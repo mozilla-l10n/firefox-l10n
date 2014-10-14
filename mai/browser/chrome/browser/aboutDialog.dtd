@@ -8,7 +8,9 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.updateButton.label                "अपडेट लेल फेर  से शुरू करू">
+<!ENTITY update.checkForUpdatesButton.label       "अद्यतनक लेल जाँचि रहल अछि…">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label2                "Restart &brandShortName; to Update">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "अपडेट लागू करू …">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -57,6 +59,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "अद्यतन केँ अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कएल गेल अछि">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; is being updated by another instance">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -79,6 +82,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "You can not perform further updates on this system. ">
 <!ENTITY update.unsupported.linkText "आओर जानू">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

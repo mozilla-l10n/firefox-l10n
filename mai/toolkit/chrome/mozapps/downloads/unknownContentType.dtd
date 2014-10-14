@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "ई फाइलक सँग &brandShortName; केँ कएनाइ चाही?">
 
 <!ENTITY  openWith.label              "एकरासँ खोलू">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 " आन …">
 
 <!ENTITY  saveFile.label              "फाइल सहेजू">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.accesskey          "s">
 
 <!ENTITY  rememberChoice.label        "ई तरहक फाइलक एहिना आब स्वचालित रूप सँ करू .">
 <!ENTITY  rememberChoice.accesskey    "a">

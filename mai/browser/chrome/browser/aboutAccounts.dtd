@@ -4,6 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; स्वागत अछि ">
 
-
-
-
+<!ENTITY aboutAccountsConfig.description "Sign in to sync your tabs, bookmarks, passwords &amp; more.">
+<!ENTITY aboutAccountsConfig.startButton.label "Get started">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Using an older version of Sync?">
+<!ENTITY aboutAccountsConfig.manage.label "Manage">
