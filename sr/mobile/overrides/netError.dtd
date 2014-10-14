@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Проверите да ли у адреси има грешака у куцању као што су
     <strong>ww</strong>.example.com уместо
     <strong>www</strong>.example.com</li>
+	<div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
   <li>Ако не можете да учитате станице, проверите мобилну или Wi-Fi конекцију Вашег уређаја.
     <button id='wifi'>Омогући Wi-Fi</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Адреса је неважећа">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul> 
   <li>Веб адресе обично изгледају нешто налик на 
-    <strong>http://www.vebsajt.com/</strong></li> 
+    <strong>http://www.example.com/</strong></li>
+	<div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
   <li>Проверите да ли користите исправне знакове (нпр. 
     <strong>/</strong>).</li> 
 </ul>
