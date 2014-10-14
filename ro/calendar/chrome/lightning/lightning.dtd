@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
+
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptați provizoriu invitația la eveniment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Acceptă toate provizoriu">
