@@ -134,18 +134,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ई पुस्तकचिह्न संपादित करू ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
 <!ENTITY sharePageCmd.commandkey "S">
 
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
 
 
 
-
+<!ENTITY shareSelectCmd.label "साझा चयन (S)">
+<!ENTITY shareSelectCmd.accesskey "S">
 
 
 
@@ -205,8 +202,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "सहयुक्ति">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
 
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -683,13 +678,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
-
 <!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित करू">
-
 
 
 
@@ -719,8 +708,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
-
-
 
 
 
