@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Iisetingi">
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_category_customize "Lungiselela">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Ulwimi">
+
 <!ENTITY pref_browser_locale "Ulwimi lokubhrawuza">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Ibhukhmakhi">
 <!ENTITY overlay_share_reading_list_btn_label "Yongeza Kuluhlu Lokufunda">
+
+
 <!ENTITY overlay_share_send_other "Thumela kwezinye iidivayisi">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
 <!ENTITY pref_category_display "Bonisa">
+
 <!ENTITY pref_category_privacy_short "Okwabucala">
+
 <!ENTITY pref_category_vendor "I-&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Ukhetho lweenkcukacha">
 <!ENTITY pref_learn_more "Funda okungakumbi">
 <!ENTITY pref_category_installed_search_engines "Izixhobo ezifakelweyo zokukhangela">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lwe&formatI;.">
 <!ENTITY pref_category_devtools "Izixhobo zabaphuhlisi">
+
 <!ENTITY pref_developer_paint_flashing "Ukukhanya kwepeyinti">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Musa ukubonisa imenyu">
 <!ENTITY pref_clear_private_data2 "Susa ngoku">
 <!ENTITY pref_clear_private_data_category "Sula iingcombolo zabucala">
-<!ENTITY pref_clear_on_exit_title "Susa qho xa uphuma">
+
 <!ENTITY pref_clear_on_exit_summary2 "I-&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \u0022Quit\u0022 kwimenyu ephambili">
 <!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
 <!ENTITY pref_plugins "Izifakelo">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
 <!ENTITY pref_sync "Ungqamaniso">
+
 <!ENTITY pref_search_suggestions "Bonisa iingcamango zokukhangela">
 <!ENTITY pref_import_android "Ngenisa uthatha kwi-Android">
+
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
 <!ENTITY pref_private_data_formdata "Ifom nembali yokukhangela">
 <!ENTITY pref_private_data_cookies2 "Iikhukhi nokungena okusebenzayo">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
 <!ENTITY datareporting_wifi_title2 "I-&vendorShortName; Inkonzo yendawo">
-<!ENTITY datareporting_wifi_geolocation_summary "Ifumana i-Wi-Fi neengcombolo zendawo zeselula xa ihamba ngemva ize yabelane ngazo ne-&vendorShortName; ukuphucula inkonzo yethu yendawo">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Khuphela okwamva ngokuzenzela">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_update_autodownload_never "Ungaze">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Ngasese">
 <!ENTITY tabs_synced "Ngqamanisiweyo">
 <!ENTITY set_image_fail "Ayikwazi ukuseta umfanekiso">
+
 <!ENTITY set_image_chooser_title "Seta umfanekiso njenge">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Ukuya kwi&formatS;">
 
+<!ENTITY home_remote_tabs_title "Iithebhu ezingqamanisiweyo">
+
+<!ENTITY home_remote_tabs_unable_to_connect "Ayikwazi kudibanisa">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Ukubhrawuza kwangasese">
 <!ENTITY private_tabs_panel_empty_desc "Iithebhu zakho zangasese ziza kuvela apha. Ngelixa singagcini nayiphi na imbali yakho yokubhrawuza okanye iikhukhi, iibhukhmakhi neefayile ozikhupheleyo ziya kugcinwa kwisixhobo sakho.">
 <!ENTITY private_tabs_panel_learn_more "Ufuna ukufunda ngaphezulu?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Faka igama eliphambili olikhangelayo">
 
@@ -474,6 +503,9 @@ esuka kwi-Android">
 
 <!ENTITY updater_apply_title2 "Uhlaziyo luyafumaneka ukulungiselela i-&brandShortName;">
 <!ENTITY updater_apply_select2 "Chukumisa ukuze uhlaziye">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Iseshoni Entsha Yondwendwe">
@@ -482,6 +514,8 @@ esuka kwi-Android">
 <!ENTITY guest_session_dialog_cancel "Rhoxisa">
 <!ENTITY new_guest_session_title "&brandShortName; iza kuqala ngoku">
 <!ENTITY new_guest_session_text "Umntu oyisebenzisayo akayi kukwazi ukubona naziphi na iingcombolo zokubhrawuza kwakho buqu (njengeepasiwedi ezigciniweyo, imbali okanye iibhukhmakhi).\n\nXa undwendwe lwakho lugqibile, imbali yabo yokubhrawuza iza kucinywa kuze kubuyiselwe iseshoni yakho.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; iza kuqala ngoku">
 <!ENTITY exit_guest_session_text "Iingcombolo zokubhrawuza zale seshoni ziza kucinywa.">
