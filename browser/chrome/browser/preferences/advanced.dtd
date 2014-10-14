@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "टाइप  कएनाइ  शुरू करबा पर वर्तनी जाँचू">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "तंत्र पूर्वनिर्धारित">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        " हरदम  ई देखब क लेल जाँचू जे &brandShortName; आरंभन पर पूर्वनिर्धारित ब्राउजर  अछि ">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; केँ तयशुदा ब्राउजर बनाबू (d)">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; अखन अहाँक तयशुदा ब्राउजर अछि">
-
 <!ENTITY dataChoicesTab.label            "आँकड़ा पसंद">
 
 <!ENTITY healthReportSection.label       "&brandShortName; स्वास्थ्य रिपोर्ट">
@@ -90,8 +82,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateAutoMetro.label           "Automatically update from desktop and Windows 8 style &brandShortName;">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "अद्यतन जाँचू मुदा हमरा चुनै दिअ जे कतए ओकरा संस्थापित कएनाइ अछि">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
@@ -100,6 +92,7 @@
 <!ENTITY updateAutoAddonWarn.label       "हमरा चेताउ जँ ई कोनो सहयुक्ति केँ निष्क्रिय करैत अछि">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 style &brandShortName; does not check add-on compatibility)">
 
 <!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
@@ -125,12 +118,12 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
-
-
-
-<!ENTITY verify2.label                   "सत्यापन">
-<!ENTITY verify2.accesskey               "V">
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
+<!ENTITY viewSecurityDevices.accesskey   "D">

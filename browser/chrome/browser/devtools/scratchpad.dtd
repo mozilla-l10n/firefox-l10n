@@ -53,20 +53,26 @@
 <!ENTITY viewMenu.label               "दृश्य">
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "पंक्ति क्रमांक देखाबू (L)">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Wrap Text">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Highlight Trailing Space">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "Larger Font">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "Smaller Font">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY normalSize.label             "सामान्य आकार (N)">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "संपादन">
 <!ENTITY editMenu.accesskey           "E">
@@ -83,8 +89,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "बढ़िया छपाइ (P)">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -93,7 +100,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "वातावरण">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "अंतर्वस्तु">
@@ -124,14 +131,14 @@
 
 
 <!ENTITY resetContext2.label          "चर फेर सेट करू">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.label           "फिनु लोड करू आओर चलाबू (e)">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "चलाउ">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.accesskey        "X">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
@@ -142,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "Evaluate Current Function">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">

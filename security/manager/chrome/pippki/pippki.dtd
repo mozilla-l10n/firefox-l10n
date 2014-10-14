@@ -80,17 +80,8 @@
 <!ENTITY createCertInfo.title "एकटा निज कुँजी उत्पन्न कए रहल अछि ">
 <!ENTITY createCertInfo.msg1 "कुंजी जनन प्रगति मे अछि, ई किछु समय लेत....">
 <!ENTITY createCertInfo.msg2 "कृपया प्रतीक्षा करू ...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "पाठ हस्ताक्षर आग्रह">
-<!ENTITY formSigning.cert "प्रमाणपत्र हस्ताक्षरित कए रहल अछि ">
-<!ENTITY formSigning.confirmPassword "ई संपुष्ट करबाक लेल जे अहाँ एहि पाठ संदेशकेँ हस्ताक्षर करबाक लेल सहमत छी अपन चयनित प्रमाणपत्र क प्रयोगसँ, मुख्य गुड़किल्ली डालकर कृप्या संपुष्ट करू :">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "संरक्षित टोकन सत्यापन">
 <!ENTITY protectedAuth.msg "कृपया टोकन मे सत्यापित करू. सत्यापन विधि अहाँक टोकन क प्रकार पर निर्भर करैत अछि .">
 <!ENTITY protectedAuth.tokenName.label "टोकन:">
-
-<!ENTITY certErrorDlg.title "सुरक्षित कनेक्शन विफल">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
