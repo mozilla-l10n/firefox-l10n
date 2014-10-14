@@ -255,6 +255,8 @@
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
 <!ENTITY reading_list_duplicate "Страница уже в вашем Списке для чтения">
+<!ENTITY reading_list_time_minutes "&formatD;мин">
+<!ENTITY reading_list_time_over_an_hour "Более часа">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
