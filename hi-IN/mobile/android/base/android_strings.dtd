@@ -78,11 +78,13 @@
 <!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_advanced "उन्नत">
 <!ENTITY pref_category_customize "मनपसंद बनाएँ">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "भाषा">
+
 <!ENTITY pref_browser_locale "ब्राउज़र की भाषा  ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "पुस्तचिह्न">
 <!ENTITY overlay_share_reading_list_btn_label "पाठ सूची जोड़ें">
+
+
 <!ENTITY overlay_share_send_other "अन्य साधनों पर भेजें">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
 <!ENTITY pref_category_display "दिखाएँ">
+
 <!ENTITY pref_category_privacy_short "गोपनीयता">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
 <!ENTITY pref_learn_more "अधिक जानें">
 <!ENTITY pref_category_installed_search_engines "संस्थापित खोज इंजन">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
 <!ENTITY pref_category_devtools "डेवलेपर औज़ार">
+
 <!ENTITY pref_developer_paint_flashing "पेंट चमक्ता ">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
 <!ENTITY pref_clear_private_data2 "अब साफ़ करें">
 <!ENTITY pref_clear_private_data_category "निजी आँकड़ा साफ़ करें">
-<!ENTITY pref_clear_on_exit_title "बाहर जाते समय हमेशा साफ़ करें |">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डाटा साफ करेगा जब आप मुख्य मेन्यू से \u0022बाहर जाएँ\u0022 चुनेंगे">
 <!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें | ">
 <!ENTITY pref_plugins "प्लगइन">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
+
 <!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
 <!ENTITY pref_import_android "ऐंड्रॉयड से आयात करें">
+
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_formdata "फ़ॉर्म व खोज इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज़ व सक्रिय लॉगिन">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रैश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; अवस्थिति सेवा">
-<!ENTITY datareporting_wifi_geolocation_summary "वाइ-फाइ और सेल्यूलर डाटा प्राप्त करता है जब पृष्ठभूमि में चलता है और इसे &vendorShortName; के साथ अपनी भूअवस्थिति सेवा सुधारने के लिए साझा करता है">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "अद्यतन स्वतः डाउनलोड करें">
 <!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_update_autodownload_never "कभी नहीं">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "निजी">
 <!ENTITY tabs_synced "सिंक किया">
 <!ENTITY set_image_fail "छवि सेट करने में असमर्थ">
+
 <!ENTITY set_image_chooser_title "छवि ऐसे सेट करें">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; तक">
 
+<!ENTITY home_remote_tabs_title "सिंक किया टैब">
+
+<!ENTITY home_remote_tabs_unable_to_connect "कनेक्ट करने में असमर्थ">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "निजी ब्राउज़िंग">
 <!ENTITY private_tabs_panel_empty_desc "आपके निजी टैब यहाँ पे दिखेंगे. जबकि हम आपका किसी भी प्रकार का ब्राउजिंग इतिहास या कुकी नहीं रखते, तथापि पुस्तचिह्न और आपकी डाउनलोड की हुई फाइलें आपके साधन पर सहेजी जायेगी |">
 <!ENTITY private_tabs_panel_learn_more "अधिक जानना चाहते है?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "खोज बीजशब्द दर्ज करें">
 
@@ -474,6 +503,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययन के लिए छुएँ">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नया अतिथि सत्र">
@@ -482,6 +514,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "रद्द करें">
 <!ENTITY new_guest_session_title "&brandShortName; अब पुनः आरंभ होगा">
 <!ENTITY new_guest_session_text "कोई और व्यक्ति आपकी निजी ब्राउज़िंग आँकड़े (सहेजे कूटशब्द, इतिहास या पुस्तचिह्न) नहीं देख पाएगा .\n\nअतिथि के जाने के बाद उनके ब्राउज़िंग आँकड़े भी मिट जाएँगे और आपका सत्र बहाल हो जाएगा.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; अब पुनः आरंभ होगा">
 <!ENTITY exit_guest_session_text "इस सत्र से ब्राउज़िंग आँकड़े मिटा दिए जाएँगे.">
