@@ -4,10 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Filă nouă">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "Miniatură eliminată.">
 <!ENTITY newtab.undo.undoButton "Anulează.">
 <!ENTITY newtab.undo.restoreButton "Restaurează tot.">
 <!ENTITY newtab.undo.closeTooltip "Ascunde">
-<!ENTITY newtab.sponsored.release.message "Acest sait recomandat a fost sugerat deoarece sperăm că veți considera că este interesant și pentru că susține misiunea Mozilla.">
-<!ENTITY newtab.sponsored.trial.message "Acest sait recomandat a fost sugerat deoarece sperăm că veți considera că este interesant și pentru că susține misiunea Mozilla.">
-<!ENTITY newtab.panel.link.text "Aflați mai multe…">

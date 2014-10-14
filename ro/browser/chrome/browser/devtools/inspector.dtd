@@ -10,6 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "Copiați selectorul unic">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "u">
 
+
+
 <!ENTITY inspectorHTMLDelete.label          "Șterge nodul">
 <!ENTITY inspectorHTMLDelete.accesskey      "n">
 
@@ -17,4 +19,5 @@
 
 <!ENTITY inspectorSearchHTML.label          "Caută HTML">
 <!ENTITY inspectorSearchHTML.key            "h">
+
 
