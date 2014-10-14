@@ -17,12 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Iseva ayifunyenwanga">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>Khangela idilesi yokuchwetheza iimposiso njenge 
-<strong>ww</strong>.example.com endaweni ye-
-<strong>www</strong>.example.com</li> 
-<li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela iingcombolo zesixhobo sakho okanye unxibelelwano lwe-Wi-Fi.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Iidilesi zewebhu zidla ngokubhalwa kanje 
-<strong>http://www.example.com/</strong></li> 
-<li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -49,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul>    
 <li> Zama kwakhona. i-&brandShortName; izakuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi. 
 <button id='wifi'>Vumela iWi-Fi</button>   
@@ -84,9 +78,12 @@ yasebenza.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> 
-<li>khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano lweengcombolo ezisebenzayo okanye i-Wi-Fi.<button id='wifi'> Vumela iWi-Fi </button> 
+<li>khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano lweengcombolo ezisebenzayo okanye i-Wi-Fi. 
+<button id='wifi'> Vumela iWi-Fi </button> 
 </li> 
 </ul>">
 
@@ -116,6 +113,8 @@ mntu uthile uzama ukuzenza umnini weseva.</li>
 <li>Ukuba wawunxityelelwe kule seva ngempumelelo ngaphambili, imposiso ise
 nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Isayithi isenokungafumaneki okwethutyana okanye ixakeke kakhulu. Zama kwakhona emva kwemizuzwana embalwa.</li> 
