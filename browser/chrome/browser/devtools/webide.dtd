@@ -62,7 +62,6 @@
 
 <!ENTITY projectPanel_myProjects "मेरी परियोजना">
 <!ENTITY projectPanel_runtimeApps "रनटाइम एप्प">
-<!ENTITY projectPanel_tabs "टैब">
 <!ENTITY runtimePanel_USBDevices "USB युक्तियाँ">
 <!ENTITY runtimePanel_WiFiDevices "Wi-Fi युक्ति">
 <!ENTITY runtimePanel_simulators "सिमुलेटर">
