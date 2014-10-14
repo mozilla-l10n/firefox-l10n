@@ -140,20 +140,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "इस पृष्ठ को साझा करें (s)">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLinkCmd.label "इस कड़ी को साझा करें (s)">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "इस छवि को साझा करें (s)">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "चयन साझा करें">
+<!ENTITY shareSelectCmd.accesskey "S">
+<!ENTITY shareVideoCmd.label "इस वीडियो को साझा करें (s)">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "सदस्यता लें">
 <!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
@@ -215,8 +212,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "सहयुक्तियाँ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
 
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -698,9 +693,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
 <!ENTITY customizeMode.tabTitle "अनुकूलित करें &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अतिरिक्त औज़ार और विशेषता">
 <!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
@@ -715,7 +707,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
@@ -741,18 +732,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "विकल्प">
 <!ENTITY mixedContentBlocked2.unblock.label "अब सुरक्षा निष्क्रिय करें (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "सुरक्षा सक्रिय करें (b)">
+<!ENTITY mixedContentBlocked2.block.accesskey "b">
 <!ENTITY mixedContentBlocked2.disabled.message "सुरक्षा सक्रिय किया हुआ है">
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है.">
 <!ENTITY trackingContentBlocked.learnMore "अधिक जानें">
 <!ENTITY trackingContentBlocked.options "विकल्प">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock.label2 "इस साइट पर सुरक्षा निष्क्रिय करें">
+<!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रिय करें">
 <!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय किया हुआ है">
 
 <!ENTITY pointerLock.notification.message "ESC को किसी भी समय इसे दिखाने के लिए दबाएँ.">
