@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Уреди ову забелешку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Пронађи још сервиса за дељење…">
 <!ENTITY sharePageCmd.label "Подели ову страницу">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "с">
-<!ENTITY shareLinkCmd.label "Подели ову везу">
-<!ENTITY shareLinkCmd.accesskey "в">
-<!ENTITY shareImageCmd.label "Подели ову слику">
-<!ENTITY shareImageCmd.accesskey "с">
-<!ENTITY shareSelectCmd.label "Подели овај одабир">
-<!ENTITY shareSelectCmd.accesskey "о">
-<!ENTITY shareVideoCmd.label "Подели овај видео">
-<!ENTITY shareVideoCmd.accesskey "в">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Подели ову везу>
+<!ENTITY shareLink.accesskey "в">
+<!ENTITY shareImage.label "Подели ову слику">
+<!ENTITY shareImage.accesskey "с">
+<!ENTITY shareSelect.label "Подели овај одабир">
+<!ENTITY shareSelect.accesskey "о">
+<!ENTITY shareVideo.label "Подели овај видео">
+<!ENTITY shareVideo.accesskey "д">
 <!ENTITY feedsMenu.label "Претплати се">
 <!ENTITY subscribeToPageMenupopup.label "Претплата на ову страницу">
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страницу…">
@@ -212,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Додаци">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Апликације">
+<!ENTITY webapps.accesskey            "и">
 
 <!ENTITY webDeveloperMenu.label       "Програмер">
 <!ENTITY webDeveloperMenu.accesskey   "г">
@@ -690,7 +697,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "С">
 <!ENTITY social.closeNotificationItem.label "Не сад">
 
-
+<!ENTITY social.directory.label "Директоријум активација">
+<!ENTITY social.directory.text "Можете активирати сервисе за дељење из директоријума.">
+<!ENTITY social.directory.button "Одведи ме тамо!">
+<!ENTITY social.directory.introText "Кликните на сервис да бисте га додали на &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Прикажи више">
 
 <!ENTITY customizeMode.tabTitle "Прилагоди &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Додатни алати и могућности">
@@ -706,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
+<!ENTITY customizeMode.deveditionTheme.label "Користи &brandShortName; тему">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
@@ -739,8 +751,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате Ваше онлајн активности су блокиране.">
 <!ENTITY trackingContentBlocked.learnMore "Сазнајте више">
 <!ENTITY trackingContentBlocked.options "Опције">
-<!ENTITY trackingContentBlocked.unblock.label2 "Онемогући заштиту за овај сајт">
+<!ENTITY trackingContentBlocked.unblock2.label "Онемогући заштиту за овај сајт">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "н">
 <!ENTITY trackingContentBlocked.block.label "Омогући заштиту">
+<!ENTITY trackingContentBlocked.block.accesskey "з">
 <!ENTITY trackingContentBlocked.disabled.message "Заштита од праћења је онемогућена">
 
 <!ENTITY pointerLock.notification.message "Притисните ESC да га поново прикажете.">
