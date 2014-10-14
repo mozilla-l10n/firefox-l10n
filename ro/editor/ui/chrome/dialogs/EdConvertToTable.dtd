@@ -1,15 +1,9 @@
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Conversie la tabel">
 <!ENTITY instructions1.label   "Composer va crea un nou rând pentru fiecare paragraf din textul selectat.">
 <!ENTITY instructions2.label   "Alegeți caracterul folosit la separarea coloanelor în textul selectat:">
@@ -19,4 +13,3 @@
 <!ENTITY deleteCharCheck.label "Șterge caracterul de separare">
 <!ENTITY collapseSpaces.label  "Ignoră spațiile în plus">
 <!ENTITY collapseSpaces.tooltip "Transformă spațiile adiacente într-un singur separator">
-

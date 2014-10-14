@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -20,7 +8,7 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Aspect implicit pagină">
 
-<!ENTITY defaultColors.label        "Culorile implicite ale cititorului (Nu seta nici o culoare)">
+<!ENTITY defaultColors.label        "Culorile implicite ale cititorului (Nu seta nicio culoare în pagină)">
 <!ENTITY defaultColors.accesskey    "C">
 <!ENTITY customColors.label         "Folosește culori personalizate:">
 <!ENTITY customColors.accesskey     "c">
@@ -41,5 +29,4 @@
 <!ENTITY backgroundImage.accesskey  "g">
 <!ENTITY chooseFile.label           "Alegere fișier…">
 <!ENTITY chooseFile.accesskey       "A">
-
 

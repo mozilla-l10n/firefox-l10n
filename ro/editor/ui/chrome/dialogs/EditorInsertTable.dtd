@@ -1,14 +1,8 @@
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Inserare tabel">
 
 <!ENTITY size.label "Mărime">
@@ -22,4 +16,3 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Tastați un număr pentru grosimea bordurii tabelului, sau zero (0) pentru tabel fără bordură">
 <!ENTITY pixels.label "pixeli">
-

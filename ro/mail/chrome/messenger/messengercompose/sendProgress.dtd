@@ -1,22 +1,8 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+
 <!ENTITY sendDialog.title "Procesare mesaj">
 <!ENTITY status.label "Stare:">
 <!ENTITY progress.label "Progres:">
-

@@ -1,21 +1,8 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
+
 <!ENTITY pref.ldap.window.title    "Servere repertoar LDAP">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Server repertoar LDAP:">
@@ -28,4 +15,3 @@
 <!ENTITY editDirectory.accesskey   "E">
 <!ENTITY deleteDirectory.label     "Șterge">
 <!ENTITY deleteDirectory.accesskey "t">
-

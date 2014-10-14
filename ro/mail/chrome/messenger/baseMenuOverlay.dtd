@@ -1,24 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# strainu <narro@strainu.ro>
-# Nicu <kneekoo@yahoo.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Ajutor">
 <!ENTITY helpMenu.accesskey "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -42,4 +26,3 @@
 
 <!ENTITY aboutMenuCmd.label "Despre &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "D">
-

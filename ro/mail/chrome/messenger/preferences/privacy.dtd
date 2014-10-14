@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+
+<!ENTITY remoteContentExceptions.label "Excepții…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Conținut web">
+
+
+<!ENTITY acceptCookies.label "Acceptă cookie-uri de la saituri">
+<!ENTITY acceptCookies.accesskey "c">
+
+
+<!ENTITY acceptThirdParty.always.label "Întotdeauna">
+<!ENTITY acceptThirdParty.never.label "Niciodată">
+
+<!ENTITY keepUntil.label "Păstrează-le până când:">
+<!ENTITY keepUntil.accesskey "P">
+<!ENTITY expire.label "expiră">
+<!ENTITY close.label "închid &brandShortName;">
+<!ENTITY askEachTime.label "întreabă de fiecare dată">
+<!ENTITY cookieExceptions.label "Excepții...">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Arată cookie-urile...">
+<!ENTITY showCookies.accesskey "A">
+
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Informează saiturile web că nu vreau să fiu urmărit">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Informează saiturile web că vreau să fiu urmărit">
+<!ENTITY dntTrackingOkay.accesskey "t">
+
+

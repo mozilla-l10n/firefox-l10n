@@ -1,31 +1,13 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
-# janimo <jani@ubuntu.com>
-# raulmalea <raul.malea@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# xdaiana <xdaiana@yahoo.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Asistent de creat conturi">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">
-
 <!-- Entities for Account Type page -->
+
 
 <!ENTITY accountSetupInfo2.label "Pentru a putea primi mesaje, trebuie să adăugați un cont.">
 <!ENTITY accountTypeTitle.label "Creare cont nou">
@@ -35,13 +17,13 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
 <!ENTITY accountTypeNews.accesskey "t">
-
 <!-- Entities for Identity page -->
+
 
 <!ENTITY identityTitle.label "Identitate">
 <!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care vă identificați față de ceilalți care primesc mesaje de la dumneavoastră">
-
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!ENTITY fullnameDesc.label "Introduceți numele care doriți să apară în câmpul „From” („De la”) al mesajelor pe care le trimiteți">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -53,8 +35,8 @@
 
 <!ENTITY emailLabel.label "Adresa de email:">
 <!ENTITY emailLabel.accesskey "A">
-
 <!-- Entities for Incoming Server page -->
+
 
 <!ENTITY incomingTitle.label "Informații server de intrare">
 <!ENTITY incomingServerTypeDesc.label "Alegeți tipul serverului de primire pe care îl folosiți.">
@@ -65,25 +47,25 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Păstrează mesajele pe server">
-<!ENTITY leaveMsgsOnSrvr.accesskey "p">
+<!ENTITY leaveMsgsOnSrvr.accesskey "P">
 <!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "p">
+<!ENTITY portNum.accesskey "P">
 <!ENTITY defaultPortLabel.label "Implicit:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Introduceți numele serverului de primire (de exemplu, „mail.example.net”).">
 <!ENTITY incomingServer.label "Server de primire:">
-<!ENTITY incomingServer.accesskey "s">
+<!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire oferit de furnizorul de servicii de email (de exemplu, „rmalea”).">
 <!ENTITY incomingUsername.label "Nume utilizator:">
-<!ENTITY incomingUsername.accesskey "n">
+<!ENTITY incomingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduceți numele serverului NNTP (de exemplu, „news.example.net”).">
+<!ENTITY newsServerNameDesc.label "Introduceți numele serverului de știri (NNTP) (de exemplu, „news.example.net”).">
 <!ENTITY newsServerLabel.label "Server grup de discuții/știri:">
-<!ENTITY newsServerLabel.accesskey "n">
-
+<!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
+
 
 <!ENTITY outgoingTitle.label "Informații server de ieșire">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -92,11 +74,11 @@
 <!ENTITY outgoingServer.accesskey "t">
 <!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY outgoingUsername.label "Nume utilizator pentru trimitere:">
-<!ENTITY outgoingUsername.accesskey "n">
-
+<!ENTITY outgoingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+
 <!ENTITY modifyOutgoing.suffix "Puteți modifica serverele de ieșire din setările contului.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -116,16 +98,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
 <!ENTITY haveSmtp3.suffix3 "”, este identic cu serverul dumneavoastră de primire, numele dumneavoastră de utilizator pentru primire va fi folosit pentru al accesa.">
-
 <!-- Entities for Account name page -->
+
 
 <!ENTITY accnameTitle.label "Nume cont">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introduceți un nume pe care doriți să-l acordați acestui cont (de exemplu, „Cont Serviciu”, „Cont Acasă” sau „Cont Știri”).">
 <!ENTITY accnameLabel.label "Nume cont:">
 <!ENTITY accnameLabel.accesskey "c">
-
 <!-- Entities for Done (Congratulations) page -->
+
 
 <!ENTITY completionTitle.label "Felicitări!">
 <!ENTITY completionText.label "Vă rugăm verificați ca datele de mai jos să fie corecte.">
@@ -140,4 +122,3 @@
 <!ENTITY deferStorage.accesskey "F">
 <!ENTITY clickFinish.label "Apăsați Încheiere pentru a salva setările și a părăsi asistentul de creat conturi.">
 <!ENTITY clickFinish.labelMac "Clic pe „Încheiere” pentru a salva acești parametri și a părăsi asistentul de creat conturi.">
-

@@ -1,31 +1,15 @@
-<!--
-# Translator(s):
-#
-# janimo <jani@ubuntu.com>
-# raulmalea <raul.malea@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Proprietăți imagine">
 
 <!ENTITY pixelsPopup.value "pixeli">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Tastați numele fișierului sau locația imaginii">
@@ -33,63 +17,62 @@
 <!ENTITY title.accessKey "d">
 <!ENTITY title.tooltip "Atributul HTML 'title', care se afișează ca indicație rapidă (tooltip)">
 <!ENTITY altText.label "Text alternativ:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Tastați textul de afișat în locul imaginii">
 <!ENTITY noAltText.label "Fără text alternativ">
 <!ENTITY noAltText.accessKey "F">
 
 <!ENTITY previewBox.label "Previzualizare imagine">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Dimensiune reală:">
 <!ENTITY actualSizeRadio.label "Dimensiune reală">
-<!ENTITY actualSizeRadio.accessKey "R">
+<!ENTITY actualSizeRadio.accessKey "r">
 <!ENTITY actualSizeRadio.tooltip "Înapoi la dimensiunea reală a imaginii">
 <!ENTITY customSizeRadio.label "Dimensiune personalizată">
-<!ENTITY customSizeRadio.accessKey "P">
+<!ENTITY customSizeRadio.accessKey "p">
 <!ENTITY customSizeRadio.tooltip "Modificați dimensiunea imaginii așa cum va fi afișată pe pagină">
 <!ENTITY heightEditField.label "Înălțime:">
-<!ENTITY heightEditField.accessKey "N">
+<!ENTITY heightEditField.accessKey "n">
 <!ENTITY widthEditField.label "Lățime:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Constrânge">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "Menține raportul de aspect al imaginii">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Hartă imagine">
 <!ENTITY removeImageMapButton.label "Elimină">
 <!ENTITY removeImageMapButton.accessKey "E">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Aliniere text cu imagine">
 <!ENTITY bottomPopup.value "Jos">
 <!ENTITY topPopup.value "Sus">
 <!ENTITY centerPopup.value "La centru">
 <!ENTITY wrapRightPopup.value "Înfășurare la dreapta">
 <!ENTITY wrapLeftPopup.value "Înfășurare la stânga">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Spațiere">
 <!ENTITY leftRightEditField.label "Stânga și dreapta:">
 <!ENTITY leftRightEditField.accessKey "S">
 <!ENTITY topBottomEditField.label "Sus și jos:">
-<!ENTITY topBottomEditField.accessKey "U">
+<!ENTITY topBottomEditField.accessKey "u">
 <!ENTITY borderEditField.label "Bordură plină:">
 <!ENTITY borderEditField.accessKey "B">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu legături">
 <!ENTITY showImageLinkBorder.accessKey "A">
 <!ENTITY LinkAdvancedEditButton.label "Editare avansată a legăturii…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
 <!ENTITY LinkAdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "formular">
 <!ENTITY imageLocationTab.label "Locație">
 <!ENTITY imageDimensionsTab.label "Dimensiuni">
 <!ENTITY imageAppearanceTab.label "Aspect">
 <!ENTITY imageLinkTab.label "Legătură">
-

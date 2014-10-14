@@ -1,26 +1,8 @@
-<!--
-# Translator(s):
-#
-# nicubunu <nicubunu@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# janimo <jani@ubuntu.com>
-# rz <rz@r2dev.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Stocare mesaje">
 <!ENTITY securitySettings.label "Setări de securitate">
@@ -31,7 +13,7 @@
 <!ENTITY userName.label "Nume utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Port:">
-<!ENTITY port.accesskey "p">
+<!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Implicit:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
@@ -48,7 +30,7 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Metoda de autentificare:">
-<!ENTITY authMethod.accesskey "m">
+<!ENTITY authMethod.accesskey "M">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Descarcă doar antetele">
@@ -102,4 +84,3 @@
 
 <!ENTITY accountTitle.label "Setările contului">
 <!ENTITY accountSettingsDesc.label "Acesta este un cont special. Cu acesta nu sunt asociate identități.">
-

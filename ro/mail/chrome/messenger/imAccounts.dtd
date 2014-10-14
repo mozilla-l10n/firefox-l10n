@@ -1,20 +1,3 @@
-<!--
-# Translator(s):
-#
-# xdaiana <xdaiana@yahoo.com>
-# raulmalea <raul.malea@gmail.com>
-# Ursan Marius Bogdan <Creationn@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -33,16 +16,17 @@
 <!ENTITY account.autoSignOn.label     "Autentificare la pornire">
 <!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label        "Conectare">
-<!ENTITY account.connect.accesskey    "c">
+<!ENTITY account.connect.accesskey    "C">
 <!ENTITY account.disconnect.label     "Deconectare">
-<!ENTITY account.disconnect.accesskey "d">
+<!ENTITY account.disconnect.accesskey "D">
 <!ENTITY account.edit.label           "Proprietăți">
-<!ENTITY account.edit.accesskey       "p">
+<!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Mută în sus">
 <!ENTITY account.movedown.label       "Mută în jos">
 <!ENTITY account.cancelReconnection.label         "Anulare reconectare">
 <!ENTITY account.cancelReconnection.accesskey     "l">
+
+
 <!ENTITY account.connecting           "Conectare…">
 <!ENTITY account.disconnecting        "Deconectare...">
 <!ENTITY account.disconnected         "Deconectat">
-

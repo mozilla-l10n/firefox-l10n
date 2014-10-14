@@ -1,22 +1,8 @@
-<!--
-# Translator(s):
-#
-# rsandu <razvan.sandu@zando.ro>
-# nicubunu <nicubunu@gmail.com>
-# janimo <jani@ubuntu.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Smiley Menu items -->
+
 <!ENTITY insertSmiley.label "Zâmbăreț">
 <!ENTITY insertSmiley.accesskey "Z">
 
@@ -55,8 +41,7 @@
 <!ENTITY smiley11Cmd.tooltip "Inserează o figură șmecheră">
 <!ENTITY smiley12Cmd.label "Cu banul în gură">
 <!ENTITY smiley12Cmd.accesskey "a">
-<!ENTITY smiley12Cmd.tooltip "Inserează o figură cu gura în formă de dolar
-  ">
+<!ENTITY smiley12Cmd.tooltip "Inserează o figură cu gura în formă de dolar">
 <!ENTITY smiley13Cmd.label "Cu piciorul în gură">
 <!ENTITY smiley13Cmd.accesskey "g">
 <!ENTITY smiley13Cmd.tooltip "Inserează o figură distrusă">
@@ -70,5 +55,4 @@
 <!ENTITY smiley16Cmd.accesskey "b">
 <!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
-
 

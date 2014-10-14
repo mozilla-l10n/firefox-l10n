@@ -1,23 +1,8 @@
-<!--
-# Translator(s):
-#
-# nicubunu <nicubunu@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Redactare și adrese">
 <!ENTITY addressingGroupTitle.label "Adrese">
@@ -29,10 +14,10 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Folosește un alt server LDAP:">
-<!ENTITY directories.accesskey     "a">
+<!ENTITY directories.accesskey     "A">
 <!ENTITY directoriesNone.label     "Niciunul">
-
 <!-- am-addressing.xul -->
+
 
 <!ENTITY compositionGroupTitle.label          "Redactare">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -60,4 +45,3 @@
 
 <!ENTITY globalAddressingPrefs.label          "Preferințe globale pentru adrese…">
 <!ENTITY globalAddressingPrefs.accesskey      "d">
-

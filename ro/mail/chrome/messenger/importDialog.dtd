@@ -1,24 +1,6 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# petrescs <petrescs@yahoo.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -26,6 +8,7 @@ languages for Netscape Communicator 4 releases.
 LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
+
 
 <!ENTITY importDialog.windowTitle "Importă">
 <!ENTITY importAll.label          "Importă totul">
@@ -54,7 +37,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescriptionB.label "Vă rugăm selectați un cont existent sau creați un cont nou:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nume:">
-<!ENTITY acctName.accesskey       "n">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Înapoi">
 <!ENTITY forward.label            "Înainte &gt;">
@@ -65,4 +48,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">
-

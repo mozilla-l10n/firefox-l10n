@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# janimo <jani@ubuntu.com>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -22,4 +9,3 @@
 <!ENTITY info2.label   "La început, trebuie să antrenați &brandShortName; pentru a identifica mesajele nesolicitate marcând mesajele cu „nesolicitat” sau „nu e nesolicitat”. Pentru aceasta aveți la dispoziție un buton în bara pentru mesaje nesolicitate.">
 <!ENTITY info3.label   "După ce &brandShortName; identifică corect mesajele nesolicitate, puteți să folosiți Controalele de mesaje nesolicitate pentru a muta automat mesajele nesolicitate în dosarul Nesolicitate.">
 <!ENTITY info4.label   "Pentru mai multe informații, apăsați Ajutor.">
-

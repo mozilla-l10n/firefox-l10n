@@ -1,61 +1,48 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# rsandu <razvan.sandu@zando.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+
 <!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY previewToolbarCmd.label "Răsfoiește">
 <!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în navigator">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Exportă ca text…">
 <!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Browse Page">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Trimite pagina…">
 <!ENTITY sendPageCmd.accesskey "T">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Bară de redactare">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
 <!ENTITY formattingToolbarCmd.accesskey "B">
 <!ENTITY editmodeToolbarCmd.label "Bară de editare">
 <!ENTITY editmodeToolbarCmd.accesskey "B">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Formatare">
 <!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Grilă de poziționare">
 <!ENTITY grid.accesskey "G">
 <!ENTITY pageProperties.label "Titlul și proprietățile paginii…">
 <!ENTITY pageProperties.accesskey "g">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "Validează HTML">
 <!ENTITY validateCmd.accesskey "V">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mod de editare normal">
 <!ENTITY NormalMode.accesskey "n">
@@ -78,4 +65,3 @@
 <!ENTITY PreviewMode.label "Previzualizează">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în Navigator)">
-

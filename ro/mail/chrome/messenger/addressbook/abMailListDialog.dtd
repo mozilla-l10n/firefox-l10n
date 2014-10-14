@@ -1,14 +1,8 @@
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Listă de expediție">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Adaugă la:">
@@ -20,11 +14,10 @@
 <!ENTITY AddressTitle.label             "Tastați adrese de email în lista de mai jos:">
 <!ENTITY UpButton.label                 "Mută sus">
 <!ENTITY DownButton.label               "Mută jos">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
-
 

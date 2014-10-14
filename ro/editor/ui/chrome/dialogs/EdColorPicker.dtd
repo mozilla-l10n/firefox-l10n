@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -20,7 +7,7 @@
 <!ENTITY lastPickedColor.accessKey "U">
 <!ENTITY setColor1.label "Apăsați pe o culoare sau">
 <!ENTITY setColor2.label "introduceți o culoare HTML">
-<!ENTITY setColor2.accessKey "h">
+<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">
 <!ENTITY default.label "Implicit">
 <!ENTITY default.accessKey "I">
@@ -33,4 +20,3 @@
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Celule">
 <!ENTITY cell.accessKey "C">
-

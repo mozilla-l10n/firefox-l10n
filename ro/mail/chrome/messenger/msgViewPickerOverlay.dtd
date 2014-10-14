@@ -1,20 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 
 <!ENTITY viewPicker.label "Perspectivă:">
 <!ENTITY viewPicker.accesskey "i">
@@ -32,4 +20,3 @@
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Personalizează…">
 <!ENTITY viewCustomizeView.accesskey "P">
-

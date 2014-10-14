@@ -1,26 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# strainu <narro@strainu.ro>
-# turcan <nicturcan@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
 <!ENTITY searchSubfolders.label      "Și în sub-dosare">
@@ -35,26 +17,26 @@
 <!ENTITY deleteButton.accesskey      "g">
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
 <!ENTITY results.label               "Rezultate">
-<!ENTITY moveHereMenu.label          "Mutați aici">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Mută în">
-<!ENTITY moveButton.accesskey        "m">
+<!ENTITY moveButton.accesskey        "M">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Salvează ca Dosar de căutare">
 <!ENTITY saveAsVFButton.accesskey    "a">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Caută în:">
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Proprietăți">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Scrie mesaj">
 <!ENTITY composeButton.accesskey     "S">
+<!ENTITY deleteCardButton.label      "Șterge">
+<!ENTITY deleteCardButton.accesskey  "g">
 <!ENTITY abSearchDialogTitle.label   "Căutare avansată în agenda de contacte">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
@@ -73,25 +55,24 @@
 <!ENTITY starredColumn.label "Cu steluță">
 <!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordine de primire">
-
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
-<!ENTITY threadColumn.tooltip "Clic pentru a grupa mesajele în conversații"> 
-<!ENTITY fromColumn.tooltip "Clic pentru sortare după expeditor">
-<!ENTITY recipientColumn.tooltip "Clic pentru a sorta după destinatar">
-<!ENTITY subjectColumn.tooltip "Clic pentru a sorta după subiect">
-<!ENTITY dateColumn.tooltip "Clic pentru a sorta după dată">
-<!ENTITY priorityColumn.tooltip "Clic pentru a sorta după prioritate">
-<!ENTITY tagsColumn.tooltip "Clic pentru a sorta după etichete">
-<!ENTITY accountColumn.tooltip "Clic pentru a sorta după cont">
-<!ENTITY statusColumn.tooltip "Clic pentru a sorta după stare">
-<!ENTITY sizeColumn.tooltip "Clic pentru a sorta după mărime">
-<!ENTITY junkStatusColumn.tooltip "Clic pentru a sorta după dacă e nesolicitat sau nu">
-<!ENTITY unreadColumn.tooltip "Numărul de mesaje necitite din conversație">
-<!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
-<!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
-<!ENTITY receivedColumn.tooltip "Clic pentru sortare după data primirii">
-<!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
-<!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
-<!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
 
+<!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
+
+
+
+
+<!ENTITY dateColumn2.tooltip "Sortează după dată">
+<!ENTITY priorityColumn2.tooltip "Sortează după prioritate">
+<!ENTITY tagsColumn2.tooltip "Sortează după etichete">
+<!ENTITY accountColumn2.tooltip "Sortează după cont">
+<!ENTITY statusColumn2.tooltip "Sortează după stare">
+<!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
+
+
+
+
+<!ENTITY receivedColumn2.tooltip "Sortează după data primirii">
+<!ENTITY starredColumn2.tooltip "Sortează după stea">
+<!ENTITY locationColumn2.tooltip "Sortează după locație">
+<!ENTITY idColumn2.tooltip "Sortează după data primirii">

@@ -1,17 +1,3 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -27,7 +13,7 @@
 <!ENTITY tableColumns.label               "Coloane:">
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Înălțime:">
-<!ENTITY tableHeight.accessKey            "N">
+<!ENTITY tableHeight.accessKey            "n">
 <!ENTITY tableWidth.label                 "Lățime:">
 <!ENTITY tableWidth.accessKey             "L">
 <!ENTITY tableBorderSpacing.label         "Borduri și spațiere">
@@ -36,13 +22,13 @@
 <!ENTITY tableSpacing.label               "Spațiere:">
 <!ENTITY tableSpacing.accessKey           "S">
 <!ENTITY tablePadding.label               "Spațiu umplere:">
-<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePadding.accessKey           "p">
 <!ENTITY tablePxBetwCells.label           "pixeli între celule">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
 <!ENTITY tableAlignment.label             "Aliniere tabel:">
 <!ENTITY tableAlignment.accessKey         "A">
 <!ENTITY tableCaption.label               "Explicație:">
-<!ENTITY tableCaption.accessKey           "X">
+<!ENTITY tableCaption.accessKey           "x">
 <!ENTITY tableCaptionAbove.label          "Deasupra tabelului">
 <!ENTITY tableCaptionBelow.label          "Sub tabel">
 <!ENTITY tableCaptionLeft.label           "La stânga tabelului">
@@ -55,21 +41,21 @@
 <!ENTITY cellSelectRow.label              "Rând">
 <!ENTITY cellSelectColumn.label           "Coloană">
 <!ENTITY cellSelectNext.label             "Înainte">
-<!ENTITY cellSelectNext.accessKey         "I">
+<!ENTITY cellSelectNext.accessKey         "i">
 <!ENTITY cellSelectPrevious.label         "Înapoi">
-<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellSelectPrevious.accessKey     "p">
 <!ENTITY applyBeforeChange.label          "Schimbările curente vor fi aplicate înainte de schimbarea selecției.">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">
 <!ENTITY cellHorizontal.label             "Orizontală:">
-<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellHorizontal.accessKey         "z">
 <!ENTITY cellVertical.label               "Verticală:">
-<!ENTITY cellVertical.accessKey           "v">
+<!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "Stil celulă:">
 <!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Normală">
 <!ENTITY cellHeader.label                 "Antet">
 <!ENTITY cellTextWrap.label               "Înfășurare text:">
-<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellTextWrap.accessKey           "t">
 <!ENTITY cellWrap.label                   "Înfășoară">
 <!ENTITY cellNoWrap.label                 "Nu înfășura">
 <!ENTITY cellAlignTop.label               "Sus">
@@ -78,13 +64,12 @@
 <!ENTITY cellAlignJustify.label           "Îndreptat">
 <!ENTITY cellInheritColor.label           "(Lasă să se vadă culoarea tabelului)">
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Mărime">
 <!ENTITY pixels.label                     "pixeli">
 <!ENTITY backgroundColor.label            "Culoare fundal:">
-<!ENTITY backgroundColor.accessKey        "F">
+<!ENTITY backgroundColor.accessKey        "f">
 <!ENTITY AlignLeft.label                  "Stânga">
 <!ENTITY AlignCenter.label                "Centru">
 <!ENTITY AlignRight.label                 "Dreapta">
-
