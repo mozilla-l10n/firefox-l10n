@@ -9,7 +9,10 @@
 <!ENTITY dntTrackingNotOkay.label2      "Anunță saiturile că nu doresc să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Anunță saiturile că doresc să fiu urmărit">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
+
+
+
 <!ENTITY doNotTrackInfo.label           "Află mai multe">
 
 <!ENTITY  history.label                 "Istoric">

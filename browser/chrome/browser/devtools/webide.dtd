@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Deconectare">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Captură de ecran">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Vizualizează">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+<!ENTITY projectPanel_tabs "File">
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Instalare simulator">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Descriere">
+<!ENTITY details_location "Adresă">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Închidere">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "General">
+<!ENTITY prefs_restore "Restaurează setările implicite">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Nume">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Ajutor">

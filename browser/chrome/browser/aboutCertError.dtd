@@ -25,6 +25,7 @@ demonstra autenticitatea. Cu toate acestea, identitatea acestui sait nu poate fi
 <!ENTITY certerror.whatShouldIDo.content "Dacă de obicei vă conectați la  
 acest sait fără probleme, această eroare ar putea însemna că cineva 
  încearcă să vă păcălească și nu ar trebui să continuați.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
 
 <!ENTITY certerror.expert.heading "Înțeleg riscurile">

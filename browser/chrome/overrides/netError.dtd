@@ -103,9 +103,9 @@ Manager.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că nu s-a putut verifica autenticitatea datelor primite.</li> 
-<li>Vă rugăm să luați legătura cu proprietarii saitului și să-i informați despre această problemă. Ca o alternativă, puteți folos comanda aflată în meniul „Ajutor” pentru a raporta un sait defect.</li> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că nu s-a putut verifica autenticitatea datelor primite.</li> 
+<li>Vă rugăm să luați legătura cu proprietarii saitului și să-i informați despre această problemă</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea sigură a eșuat">

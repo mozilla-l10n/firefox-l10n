@@ -1,26 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPrivateBrowsing.title.normal     "Deschid o fereastră fără urme?">
 
-<!ENTITY privatebrowsingpage.title                 "Navigare fără urme">
-<!ENTITY privatebrowsingpage.title.normal          "Doriți să începeți navigarea fără urme?">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; nu va memora nimic pentru această fereastră.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; nu va memora nimic pentru această fereastră fără urme.">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; nu va memora nimic pentru această fereastră.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Nu sunteți într-o fereastră fără urme.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "Într-o fereastră de navigare fără urme, &brandShortName; nu va păstra nimic din istoricul navigării, istoricul căutărilor, istoricul descărcărilor, istoricul formularelor web, cookie-uri sau fișierele temporare din internet. Cu toate acestea, fișierele pe care le descărcați și semnele de carte pe care le faceți vor fi păstrate.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Nu sunteți într-o fereastră fără urme.">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Cu toate că acest calculator nu va reține istoricul navigării, furnizorul de internet sau angajatorul ar putea totuși să urmărească paginile pe care le vizitați.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Aflați mai multe.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "Pentru a porni Navigarea fără urme puteți de asemenea selecta &newPrivateWindow.label; din meniu.">
-<!ENTITY privatebrowsingpage.howToStop3                "Pentru a opri navigarea fără urme, puteți închide această fereastră.">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "Cu toate că acest calculator nu va reține istoricul navigării, furnizorul de internet sau angajatorul ar putea totuși să urmărească paginile pe care le vizitați.">
-<!ENTITY privatebrowsingpage.learnMore                 "Află mai multe">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
 
 <!ENTITY privatebrowsingpage.howToStart3               "Pentru a începe navigarea fără urme, puteți să selectați și &basePBMenu.label; &gt; &newPrivateWindow.label;.">
