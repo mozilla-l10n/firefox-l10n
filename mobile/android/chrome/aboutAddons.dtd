@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2 "Дополнения">
 <!ENTITY aboutAddons.header2 "Мои дополнения">
 <!ENTITY aboutAddons.options "Настройки">
-<!ENTITY aboutAddons.browseAll "Обзор всех дополнений Firefox">
 <!ENTITY addonAction.enable "Включить">
 <!ENTITY addonAction.disable "Отключить">
 <!ENTITY addonAction.uninstall "Удалить">

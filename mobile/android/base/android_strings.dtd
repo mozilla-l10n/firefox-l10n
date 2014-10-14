@@ -126,7 +126,7 @@
 <!ENTITY pref_char_encoding_off "Скрывать меню">
 <!ENTITY pref_clear_private_data2 "Удалить сейчас">
 <!ENTITY pref_clear_private_data_category "Удаление моих данных">
-<!ENTITY pref_clear_on_exit_title "Всегда удалять при выходе">
+<!ENTITY pref_clear_on_exit_title2 "Удаление при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
 <!ENTITY pref_plugins "Плагины">
@@ -186,7 +186,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Работая в фоновом режиме, получает данные местоположения точек Wi-Fi и станций сотовой сети, и делится ими с &vendorShortName;, чтобы улучшить нашу службу геолокации">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Делится приблизительным местоположением Wi-Fi и сотовой сети вашего устройства с &vendorShortName;, чтобы улучшить нашу службу геолокации">
 <!ENTITY pref_update_autodownload2 "Автоматически загружать обновления">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
@@ -296,6 +296,9 @@
 <!ENTITY private_browsing_title "Приватный просмотр">
 <!ENTITY private_tabs_panel_empty_desc "Ваши приватные вкладки будут показаны здесь. Мы не будем вести журнал посещений или хранить куки, но загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tabs_panel_learn_more "Хотите узнать больше?">
+<!ENTITY remote_tabs_panel_moved_title "Куда делись мои вкладки?">
+<!ENTITY remote_tabs_panel_moved_desc "Мы переместили вкладки с других устройств на панель на вашей домашней странице, которая легко доступна при каждом открытии вами новой вкладки.">
+<!ENTITY remote_tabs_panel_moved_link "Перенести меня на мою новую панель.">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">

@@ -8,21 +8,22 @@
 <!ENTITY intro.happyLink "Мне нравится">
 <!ENTITY intro.sadLink "Я столкнулся с некоторыми проблемами">
 <!ENTITY intro.maybeLater "Может быть позже">
-<!ENTITY support.pre2 "Для получения большей информации вы можете посетить ">
-<!ENTITY support.link "сайт поддержки &brandShortName;">
-<!ENTITY support.post2 " .">
+<!ENTITY support.pre3 "Посетите наш ">
+<!ENTITY support.link2 "Сайт поддержки">
+<!ENTITY support.post3 " для получения ответов на типичные вопросы.">
 <!ENTITY happy.header "Мы рады это слышать!">
 <!ENTITY happy.message "Хотите этим поделиться, оценив нас в 5 звёздочек на Google Play?">
 <!ENTITY happy.finePrint "Это займет не более минуты и сделает всех немного счастливее.">
 <!ENTITY happy.ratingLink "Да, перейти на Google Play">
 <!ENTITY happy.maybeLater2 "Может быть позже">
 <!ENTITY happy.noThanks "Нет, спасибо">
+<!ENTITY sad.header "О нет!">
 <!ENTITY sad.message "Нам жаль, что у вас возникли некоторые проблемы с &brandShortName;. Пожалуйста, расскажите нам что случилось, чтобы мы смогли это исправить.">
 <!ENTITY sad.placeholder "Введите здесь свой отзыв">
-<!ENTITY sad.lastSite "Последний посещённый сайт (необязательно)">
+<!ENTITY sad.lastSite2 "Включить последний посещённый сайт">
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "Спасибо, что дали нам знать.">
+<!ENTITY sad.thanksHeader2 "Спасибо.">
 <!ENTITY sad.thanksMessageTop "Мы постоянно работаем над тем, чтобы сделать &brandShortName; ещё лучше. Будьте уверены, что ваш отзыв увидят живые люди, которые сделают всё возможное, чтобы решить вашу проблему.">
 <!ENTITY sad.thanksMessageBottom "Иначе им не поздоровится.">
-<!ENTITY feedback.privacy "Для обеспечения вашей приватности, пожалуйста, не включайте в отзыв любую идентифицирующую вас информацию.">
+<!ENTITY feedback.privacy2 "Для обеспечения вашей приватности, пожалуйста, не включайте в отзыв любую идентифицирующую вас информацию.">
 <!ENTITY feedback.send "Отправить отзыв">
