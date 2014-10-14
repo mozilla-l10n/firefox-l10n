@@ -1,17 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -22,10 +8,10 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizație">
 <!ENTITY Company.accesskey                     "O">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
+<!ENTITY _PhoneticName.label                   "Nume fonetic">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Pseudonim">
-<!ENTITY NickName.accesskey                    "c">
+<!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Email suplimentar">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departament">
@@ -43,9 +29,8 @@
 <!ENTITY WorkPhone.label                       "Telefon serviciu">
 <!ENTITY WorkPhone.accesskey                   "s">
 <!ENTITY ChatName.label                        "Nume chat">
-<!ENTITY ChatName.accesskey                    "n">
+<!ENTITY ChatName.accesskey                    "N">
 <!ENTITY sortAscending.label                   "Crescător">
 <!ENTITY sortAscending.accesskey               "C">
 <!ENTITY sortDescending.label                  "Descrescător">
 <!ENTITY sortDescending.accesskey              "D">
-

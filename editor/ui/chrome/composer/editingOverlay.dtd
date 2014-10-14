@@ -1,22 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "Deschide un fișier…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.key "D">
@@ -38,16 +24,15 @@
 <!ENTITY publishAsCmd.accesskey "P">
 <!ENTITY fileRevert.label "Revenire">
 <!ENTITY fileRevert.accesskey "R">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "Opțiuni pentru publicarea pe sait…">
 <!ENTITY publishSettings.accesskey "b">
-
 <!-- Toolbar buttons/items -->
+
 <!ENTITY newToolbarCmd.label "Nou">
 <!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
 <!ENTITY openToolbarCmd.label "Deschide">
 <!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
-

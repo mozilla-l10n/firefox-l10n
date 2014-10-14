@@ -1,21 +1,3 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# janimo <jani@ubuntu.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# iulianv <iulianv@email.com>
-# nicubunu <nicubunu@gmail.com>
-# turcan <nicturcan@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -23,7 +5,6 @@
 <!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Nume">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -31,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -64,10 +46,6 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Necunoscut">
 <!ENTITY chatName.label                 "Nume la chat:">
-
-<!ENTITY allowRemoteContent1.label      "Permite conținutul aflat la distanță.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "În mesajele HTML se poate include conținut aflat pe internet. Deschiderea unor astfel de mesaje va deschide o conexiune la sursa acestui conținut. Acest lucru poate fi folosit pentru a detecta dacă mesajul a fost citit. Bifând această opțiune veți permite încărcarea conținutului de pe internet în mesajele de la această persoană.">
 
 <!ENTITY WorkPhone.label                "Serviciu:">
 <!ENTITY WorkPhone.accesskey            "S">
@@ -143,23 +121,23 @@
 <!ENTITY Chat.tab                       "Chat">
 <!ENTITY Chat.accesskey                 "i">
 <!ENTITY Gtalk.label                    "Google Talk:">
-<!ENTITY Gtalk.accesskey                "g">
+<!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
 <!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
-<!ENTITY Yahoo.accesskey                "y">
+<!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
 <!ENTITY Skype.accesskey                "k">
 <!ENTITY QQ.label                       "QQ:">
-<!ENTITY QQ.accesskey                   "q">
+<!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "m">
+<!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
-<!ENTITY ICQ.accesskey                  "c">
+<!ENTITY ICQ.accesskey                  "C">
 <!ENTITY XMPP.label                     "ID Jabber:">
-<!ENTITY XMPP.accesskey                 "j">
+<!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Pseudonim IRC:">
-<!ENTITY IRC.accesskey                  "p">
+<!ENTITY IRC.accesskey                  "P">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
@@ -176,4 +154,3 @@
 <!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Actualizează">
 <!ENTITY UpdatePhoto.accesskey          "u">
-

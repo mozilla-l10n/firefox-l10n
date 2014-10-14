@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -19,13 +7,13 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Permite conținutului să aleagă propriile sale culori, în loc de selecțiile mele de mai sus">
-<!ENTITY  allowPagesToUse.accesskey       "p">
+<!ENTITY  allowPagesToUse.accesskey       "P">
 
 <!ENTITY  color                           "Text și fundal">
 <!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Fundal:">
-<!ENTITY  backgroundColor.accesskey       "f">
+<!ENTITY  backgroundColor.accesskey       "F">
 <!ENTITY  useSystemColors.label           "Folosește culorile sistemului">
 <!ENTITY  useSystemColors.accesskey       "o">
 
@@ -33,7 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Culori legături">
 <!ENTITY  linkColor.label                 "Legături nevizitate:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Legături vizitate:">
 <!ENTITY  visitedLinkColor.accesskey      "v">
-

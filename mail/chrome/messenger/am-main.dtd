@@ -1,23 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# janimo <jani@ubuntu.com>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
-# Laudatti <Laudatti@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Setările contului">
 <!ENTITY accountName.label "Nume cont:">
@@ -37,7 +22,7 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Folosește HTML (ex: &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Anexează semnătura dintr-un fișier (text, html sau imagine):">
+<!ENTITY signatureFile.label "Anexează semnătura dintr-un fișier (text, HTML sau imagine):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editează…">
 <!ENTITY choose.label "Alege…">
@@ -50,9 +35,8 @@
 
 <!ENTITY manageIdentities.label "Gestiune identități…">
 <!ENTITY manageIdentities.accesskey "G">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Server de trimitere (SMTP):">
-<!ENTITY smtpName.accesskey "t">
-<!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
 
+<!ENTITY smtpName.label "Server de trimitere (SMTP):">
+<!ENTITY smtpName.accesskey "T">
+<!ENTITY smtpDefaultServer.label "Folosește serverul implicit">

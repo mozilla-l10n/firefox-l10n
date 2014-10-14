@@ -1,17 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -21,18 +7,18 @@
 <!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona dumneavoastră. Clic aici pentru a afișa toți furnizorii.">
 <!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de email.">
 <!ENTITY error.line2 "Puteți încerca să căutați după pseudonime sau orice alt termen pentru a găsi mai multe emailuri">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Puteți încerca și una dintre">
 <!ENTITY error.suggest.middle "alternativele de conturi gratuite de email">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Salut ">
 <!ENTITY success.title.after ", următoarele adrese de email vă sunt disponibile:">
 <!ENTITY success.tip "(Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe emailuri)">
@@ -55,4 +41,3 @@
 <!ENTITY search_engine.title "Alegeți motorul de căutare">
 <!ENTITY search_engine.message "Furnizorul dumneavoastră de email poate oferi și căutare pe web.">
 <!ENTITY search_engine.button "Încheiere">
-

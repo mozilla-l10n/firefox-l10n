@@ -1,29 +1,15 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# janimo <jani@ubuntu.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Publicare pagină">
 <!ENTITY windowTitleSettings.label    "Setări de publicare">
 <!ENTITY publishTab.label             "Publică">
 <!ENTITY settingsTab.label            "Setări">
 <!ENTITY publishButton.label          "Publică">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Nume sait:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Alegeți saitul pe care doriți să publicați">
@@ -54,18 +40,18 @@
 <!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină saitul">
 <!ENTITY removeButton.accesskey       "E">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Saituri de publicare">
 <!ENTITY serverInfo.label             "Informații despre server">
 <!ENTITY loginInfo.label              "Informații de autentificare">
 <!ENTITY siteName.label               "Nume sait:">
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Un nume scurt care identifică acest sit de publicare (ex.: „SaitulMeu”)">
-<!ENTITY siteUrl.label                "Adresa de publicare (ex.: 'ftp://ftp.isp.ro/numelemeu'):">
+<!ENTITY siteUrl.label                "Adresa de publicare (ex.: „ftp://ftp.isp.ro/numelemeu”):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
-<!ENTITY browseUrl.label              "Adresa HTTP a paginii dumneavoastră personale (ex.: 'http://www.isp.ro/numelemeu'):">
+<!ENTITY browseUrl.label              "Adresa HTTP a paginii dumneavoastră personale (ex.: „http://www.isp.ro/numelemeu”):">
 <!ENTITY browseUrl.accesskey          "A">
 <!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului dumneavoastră personal (nu includeți nume de fișier)">
 <!ENTITY username.label               "Nume utilizator:">
@@ -77,4 +63,3 @@
 <!ENTITY savePassword.label           "Salvează parola">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Bifați pentru a vă salva securizat parola cu ajutorul Gestionarului de parole">
-

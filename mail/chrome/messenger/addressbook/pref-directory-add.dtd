@@ -1,19 +1,3 @@
-<!--
-# Translator(s):
-#
-# xdaiana <xdaiana@yahoo.com>
-# janimo <jani@ubuntu.com>
-# raulmalea <raul.malea@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -54,10 +38,9 @@
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
-
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "38em">
 
+<!ENTITY newDirectoryWidth                 "38em">

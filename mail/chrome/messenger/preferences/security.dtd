@@ -1,21 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# turcan <nicturcan@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -24,9 +6,8 @@
 <!ENTITY itemPhishing.label      "Înșelătorii prin email">
 <!ENTITY itemPasswords.label     "Parole">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Conținut web">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Alegeți setările implicite pentru mesajele nesolicitate. Se pot alege și setări specifice fiecărui cont din setările contului.">
 <!ENTITY manualMark.label "Când marchez mesaje ca nesolicitate:">
 <!ENTITY manualMark.accesskey "C">
@@ -37,20 +18,20 @@
 <!ENTITY markAsReadOnSpam.label "Marchează mesajele detectate ca nesolicitate ca fiind citite">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Activează jurnalizarea filtrării adaptive de mesaje nesolicitate">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Arată jurnalul">
 <!ENTITY openJunkLog.accesskey "A">
 <!ENTITY resetTrainingData.label "Resetează datele de antrenament">
 <!ENTITY resetTrainingData.accesskey "R">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "&brandShortName; poate analiza mesajele pentru a depista eventuale înșelătorii prin email menite să vă inducă în eroare.">
 <!ENTITY enablePhishingDetector1.label    "Spune-mi dacă mesajul pe care-l citesc pare să fie o înșelătorie">
 <!ENTITY enablePhishingDetector1.accesskey  "t">
 <!ENTITY useDownloadedList.label "Folosește o listă de mesaje suspecte de înșelătorie">
 <!ENTITY useDownloadedList.accesskey "u">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "&brandShortName; poate reține parolele tuturor conturilor dumneavoastră.">
 <!ENTITY useMasterPassword.label        "Folosește o parolă generală">
 <!ENTITY useMasterPassword.accesskey    "F">
@@ -59,27 +40,9 @@
 <!ENTITY changeMasterPassword.accesskey "c">
 <!ENTITY savedPasswords.label           "Parole salvate…">
 <!ENTITY savedPasswords.accesskey       "s">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "&brandShortName; poate ușura munca programelor antivirus scanând mesajele de viruși înainte de a le stoca pe disc.">
 <!ENTITY antiVirus.label      "Permite programelor antivirus să pună în carantină individual mesajele primite">
 <!ENTITY antiVirus.accesskey  "a">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; vă permite să specificați care bloguri, fluxuri de știri și alte saituri web pot seta cookie-uri.">
-<!ENTITY acceptCookies.label            "Acceptă cookie-uri de la saituri">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Păstrează-le până când:">
-<!ENTITY keepUntil.accesskey            "P">
-<!ENTITY expire.label                   "expiră">
-<!ENTITY close.label                    "închid &brandShortName;">
-<!ENTITY askEachTime.label              "întreabă de fiecare dată">
-<!ENTITY cookieExceptions.label         "Excepții...">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Arată cookie-urile...">
-<!ENTITY showCookies.accesskey          "A">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Informează saiturile web că nu vreau să fiu urmărit">
-<!ENTITY doNotTrack.accesskey           "w">
 

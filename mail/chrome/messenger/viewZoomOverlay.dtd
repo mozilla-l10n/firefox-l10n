@@ -1,44 +1,31 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "Mărește mărimea textului">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Micșorează mărimea textului">
-<!ENTITY fullZoomReduceCmd.accesskey    "c">
-<!ENTITY fullZoomReduceCmd.commandkey   "c">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Normal">
-<!ENTITY fullZoomResetCmd.accesskey     "n">
+<!ENTITY fullZoomResetCmd.accesskey     "N">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Focalizare doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "d">
 <!ENTITY fullZoom.label                 "Focalizare">
-<!ENTITY fullZoom.accesskey             "f">
-
+<!ENTITY fullZoom.accesskey             "F">

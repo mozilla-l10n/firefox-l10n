@@ -1,28 +1,10 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# purica <haliciu@gmail.com>
-# nicubunu <nicubunu@gmail.com>
-# turcan <nicturcan@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
-
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Creează">
@@ -35,13 +17,13 @@
 <!ENTITY newAddressBookCmd.label                        "O nouă listă de contacte…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
 <!ENTITY newLDAPDirectoryCmd.label                      "Un nou director LDAP…">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Un mesaj nou">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
-<!ENTITY osxAddressBook.accesskey                       "o">
+<!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">
@@ -56,8 +38,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…">
 <!ENTITY printAddressBook.accesskey                     "a">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Anulează">
@@ -74,7 +56,7 @@
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Lipește">
 <!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "I">
+<!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Șterge">
 <!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
@@ -92,11 +74,11 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Proprietăți…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd2.label                           "Proprietăți">
+<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "I">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label                                 "Vizualizare">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
@@ -120,15 +102,15 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Prenume Nume">
-<!ENTITY firstLastCmd2.accesskey                        "p"> 
+<!ENTITY firstLastCmd2.accesskey                        "P"> 
 <!ENTITY lastFirstCmd.label                             "Nume, Prenume">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Nume de afișat">
 <!ENTITY displayNameCmd.accesskey                       "a">
 <!ENTITY sortMenu.label                                 "Sortează după">
 <!ENTITY sortMenu.accesskey                             "S">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
 <!ENTITY messengerCmd.label                             "Corespondență și grupuri de discuții">
@@ -140,12 +122,12 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opțiuni…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "Opțiuni">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-
 <!-- Address Book Toolbar and Context Menus -->  
+
 <!ENTITY newContactButton.label                         "Contact nou">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
@@ -158,32 +140,32 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Șterge">
 <!ENTITY deleteButton2.accesskey                        "t">
-
 <!-- Address Book Toolbar Tooltips -->
+
 <!ENTITY newContactButton.tooltip                       "Creează un nou contact în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
 <!ENTITY editButton2.tooltip                            "Editează elementul selectat">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
 <!ENTITY deleteButton2.tooltip                           "Șterge elementul selectat">
-
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Agende de contacte">
 
+<!ENTITY dirTreeHeader.label                            "Agende de contacte">
 <!-- Search Bar -->
+
 <!ENTITY SearchNameOrEmail.label                        "Nume sau email">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 <!ENTITY quickSearchCmd.key                             "K">
 <!ENTITY searchItem.title "Căutare rapidă">
-
 <!-- Results Pane -->
+
 <!ENTITY GeneratedName.label                            "Nume">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Nume chat">
-<!ENTITY ChatName.accesskey                             "n">
+<!ENTITY ChatName.accesskey                             "N">
 <!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Pseudonim">
@@ -210,9 +192,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey                        "o">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Acasă">
 <!ENTITY other.heading                                  "Altele">
@@ -225,14 +207,13 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Hartă">
 <!ENTITY mapIt.tooltip                                  "Afișează o hartă de pe web cu această adresă">
-
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
 
+<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY windowMenu.label "Fereastră">
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label "Lupă">
-

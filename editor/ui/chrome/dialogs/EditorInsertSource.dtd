@@ -1,21 +1,8 @@
-<!--
-# Translator(s):
-#
-# nicubunu <nicubunu@gmail.com>
-# janimo <jani@ubuntu.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Inserare HTML">
 <!ENTITY sourceEditField.label "Introduceți tag-uri HTML și text:">
 <!ENTITY example.label "Exemplu:">
@@ -26,4 +13,3 @@
 <!ENTITY exampleText.label "Salutare lume!">
 <!ENTITY insertButton.label "Inserează">
 <!ENTITY insertButton.accesskey "I">
-

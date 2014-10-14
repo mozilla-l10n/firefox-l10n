@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -30,7 +17,6 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Abonare">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mesaje"> -->
+<!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "r">
-

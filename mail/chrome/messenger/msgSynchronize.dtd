@@ -1,22 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Descărcare și sincronizare mesaje">
 <!ENTITY MsgSelect.label "Ce se utilizează în modul offline">
@@ -25,7 +11,7 @@
 <!ENTITY syncTypeMail.label "Mesajele email">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mesajele grupului de discuții">
-<!ENTITY syncTypeNews.accesskey "n">
+<!ENTITY syncTypeNews.accesskey "j">
 <!ENTITY sendMessage.label "Trimite mesajele neexpediate">
 <!ENTITY sendMessage.accesskey "T">
 <!ENTITY workOffline.label "Deconectează imediat ce se termină descărcarea și sincronizarea">

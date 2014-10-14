@@ -1,22 +1,7 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Limita de stocare atinsă">
 <!ENTITY fileExceedsQuota.accept "Actualizare">
 <!ENTITY fileExceedsQuota.cancel "Revocare">
@@ -24,4 +9,3 @@
 <!ENTITY fileExceedsQuota.description1 "Utilizarea dumneavoastră de stocare actuală este de #XXX GB.">
 <!ENTITY fileExceedsQuota.description2 "Treceți astăzi la un cont Pro Plus și obțineți mai mult spațiu.">
 <!ENTITY fileExceedsQuota.description3 "Puteți și să alegeți să ștergeți fișiere din contul dumneavoastră pentru a crea mai mult spațiu.">
-

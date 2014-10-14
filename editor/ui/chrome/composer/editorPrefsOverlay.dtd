@@ -1,22 +1,9 @@
-<!--
-# Translator(s):
-#
-# rsandu <razvan.sandu@zando.ro>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
 
@@ -24,4 +11,3 @@
 <!ENTITY editing.label "Setări pentru pagini noi">
 <!ENTITY toolbars.label "Bare de unelte">
 <!ENTITY publish.label "Publicare">
-

@@ -1,19 +1,3 @@
-<!--
-# Translator(s):
-#
-# Laudatti <Laudatti@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -48,13 +32,8 @@
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "a">
-<!ENTITY choosethis.label "alege acest dosar">
-<!ENTITY choosethisnewsserver.label "alege acest server de știri">
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
 <!ENTITY searchBox.emptyText "Caută filtre după nume…">
-
-
-
 
