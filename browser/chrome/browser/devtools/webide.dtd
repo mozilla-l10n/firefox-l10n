@@ -62,6 +62,7 @@
 
 <!ENTITY projectPanel_myProjects "Mijn projecten">
 <!ENTITY projectPanel_runtimeApps "Runtime-apps">
+<!ENTITY projectPanel_tabs "Tabbladen">
 <!ENTITY runtimePanel_USBDevices "USB-apparaten">
 <!ENTITY runtimePanel_WiFiDevices "Wifi-apparaten">
 <!ENTITY runtimePanel_simulators "Simulatoren">
