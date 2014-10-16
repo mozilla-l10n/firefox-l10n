@@ -8,14 +8,14 @@
 
 <!ENTITY closeCmd.label                 "關閉">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY quitApplicationCmd.label       "結束"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "x">
 
 <!ENTITY redoCmd.key                    "Y">  
-
+<!ENTITY findReplaceCmd.key             "H">
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
 
