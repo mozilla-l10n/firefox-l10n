@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Malfermi gastigatan programon…">
 <!ENTITY projectMenu_importHostedApp_accesskey "g">
 <!ENTITY projectMenu_selectApp_label "Malfermi programon…">
-<!ENTITY projectMenu_selectApp_accessley "S">
+<!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Instali kaj ruli">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Haltigi programon">
@@ -25,7 +25,7 @@
 <!ENTITY projectMenu_showPrefs_label "Preferoj">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 
-<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_label "Rulĉirkaŭaĵo">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Malkonekti">
 <!ENTITY runtimeMenu_disconnect_accesskey "M">
@@ -46,7 +46,7 @@
 <!ENTITY viewMenu_showAddons_accesskey "M">
 
 <!ENTITY projectButton_label "Malfermi programon">
-<!ENTITY runtimeButton_label "Select Runtime">
+<!ENTITY runtimeButton_label "Elekti rulĉirkaŭaĵon">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -61,7 +61,8 @@
 <!ENTITY key_toggleEditor "B">
 
 <!ENTITY projectPanel_myProjects "Miaj projektoj">
-<!ENTITY projectPanel_runtimeApps "Runtime Apps">
+<!ENTITY projectPanel_runtimeApps "Programoj de rulĉirkaŭaĵo">
+<!ENTITY projectPanel_tabs "Langetoj">
 <!ENTITY runtimePanel_USBDevices "Aparatoj USB">
 <!ENTITY runtimePanel_WiFiDevices "Aparatoj sendrataj">
 <!ENTITY runtimePanel_simulators "Imitiloj">
@@ -108,30 +109,30 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Indekso de haveblaj ŝablonoj">
 <!ENTITY prefs_options_showeditor "Montri redaktilon">
 <!ENTITY prefs_options_showeditor_tooltip "Montri internan redaktilon">
-<!ENTITY prefs_options_tabsize "Tab size">
-<!ENTITY prefs_options_expandtab "Soft tabs">
-<!ENTITY prefs_options_expandtab_tooltip "Use spaces instead of the tab character">
+<!ENTITY prefs_options_tabsize "Tabogrando">
+<!ENTITY prefs_options_expandtab "Kvazaŭtaboj">
+<!ENTITY prefs_options_expandtab_tooltip "Uzi spacojn anstataŭ la tabosignon">
 <!ENTITY prefs_options_detectindentation "Aŭtomate krei krommarĝenojn">
-<!ENTITY prefs_options_detectindentation_tooltip "Guess indentation based on source content">
+<!ENTITY prefs_options_detectindentation_tooltip "Diveni krommarĝenojn surbaze de la enhavo de la fonto">
 <!ENTITY prefs_options_autocomplete "Aŭtomate kompletigi">
-<!ENTITY prefs_options_autocomplete_tooltip "Enable code autocompletion">
-<!ENTITY prefs_options_autoclosebrackets "Autoclose brackets">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatically insert closing brackets">
+<!ENTITY prefs_options_autocomplete_tooltip "Aktivigi la aŭtomatan kompletigon de kodo">
+<!ENTITY prefs_options_autoclosebrackets "Aŭtomate fermi krampojn">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Aŭtomate enmeti fermajn krampojn">
 <!ENTITY prefs_options_keybindings "Klavkombinoj">
 <!ENTITY prefs_options_keybindings_default "Normaj">
 
 <!-- Permissions Table -->
-<!ENTITY permissionstable_title "Permissions Table">
+<!ENTITY permissionstable_title "Tabulo de permesoj">
 <!ENTITY permissionstable_name_header "Nomo">
 
 <!-- Runtime Details -->
-<!ENTITY runtimedetails_title "Runtime Info">
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "root device">
-<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools restricted privileges: ">
-<!ENTITY runtimedetails_requestPrivileges "request higher privileges">
-<!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
+<!ENTITY runtimedetails_title "Informo de rulĉirkaŭaĵo">
+<!ENTITY runtimedetails_adbIsRoot "ADB estas radiko: ">
+<!ENTITY runtimedetails_summonADBRoot "radika aparato">
+<!ENTITY runtimedetails_ADBRootWarning "(tio postulas neblokitan ŝargilon de startigilo)">
+<!ENTITY runtimedetails_restrictedPrivileges "DevTools malvastigitaj privilegioj: ">
+<!ENTITY runtimedetails_requestPrivileges "peti pli altajn privilegiojn">
+<!ENTITY runtimedetails_privilegesWarning "(Tio restartigos la aparaton. Aliro kiel root estas postulata.)">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Kontrolilo">
