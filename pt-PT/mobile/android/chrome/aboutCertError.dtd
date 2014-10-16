@@ -26,7 +26,7 @@ fazer-se passar pelo sítio, e não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">
-<!ENTITY certerror.expert.content "se compreender o que está a acontecer, pode
+<!ENTITY certerror.expert.content "Se compreender o que está a acontecer, pode
 dizer ao &brandShortName; para começar a confiar nesta identificação do sítio.
 <b>mesmo que confie no sítio, este erro pode significar que alguém está
 a usar a sua ligação.</b>">
