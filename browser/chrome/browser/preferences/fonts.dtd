@@ -88,3 +88,5 @@
 <!ENTITY languages.customize.Fallback.baltic "Bálticu">
 <!ENTITY languages.customize.Fallback.auto "Predetermináu pa la llingua actual">
 <!ENTITY languages.customize.Fallback.arabic "Árabe">
+<!ENTITY font.langGroup.other "Otros sistemes d'escritura">
+<!ENTITY font.langGroup.latin "Llatinu">
