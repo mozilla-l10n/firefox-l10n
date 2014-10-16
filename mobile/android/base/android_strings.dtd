@@ -78,11 +78,13 @@
 <!ENTITY settings_title "設定">
 <!ENTITY pref_category_advanced "進階">
 <!ENTITY pref_category_customize "自訂">
+<!ENTITY pref_category_customize_summary "首頁、搜尋、分頁、匯入">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "語言">
+<!ENTITY pref_category_language_summary "調整您的瀏覽器語言">
 <!ENTITY pref_browser_locale "瀏覽器語言">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "書籤">
 <!ENTITY overlay_share_reading_list_btn_label "新增至閱讀清單">
+<!ENTITY overlay_share_bookmark_btn_label_already "已經加入書籤">
+<!ENTITY overlay_share_reading_list_btn_label_already "已在閱讀清單當中">
 <!ENTITY overlay_share_send_other "傳送至其他裝置">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "搜尋">
 <!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
 <!ENTITY pref_category_display "顯示">
+<!ENTITY pref_category_display_summary "字體大小、標題列、全螢幕瀏覽">
 <!ENTITY pref_category_privacy_short "個人隱私">
+<!ENTITY pref_category_privacy_summary "主控密碼、Cookies、追蹤、數據回傳">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "關於 &brandShortName;、常見問題、資料選擇">
 <!ENTITY pref_category_datareporting "資料選擇">
 <!ENTITY pref_learn_more "詳細資訊">
 <!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
+<!ENTITY pref_category_devtools_summary "遠端除錯、閃爍描繪區域">
 <!ENTITY pref_developer_paint_flashing "閃爍描繪區域">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_remember_signons "記住密碼">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "不顯示選單">
 <!ENTITY pref_clear_private_data2 "立刻清除">
 <!ENTITY pref_clear_private_data_category "清除隱私資料">
-<!ENTITY pref_clear_on_exit_title "總是在離開時清除">
+<!ENTITY pref_clear_on_exit_title2 "離開時清除">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
 <!ENTITY pref_plugins "外掛程式">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
+<!ENTITY pref_sync_summary "同步您的分頁、書籤、密碼、瀏覽紀錄">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
+<!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
 <!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
 <!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary "在背景執行時接收 Wi-Fi 與基地台位置資料，並分享到 &vendorShortName; 以幫助改善我們的定位服務">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "與 &vendorShortName; 分享您裝置的準確所在位置的 Wi-Fi 與行動基地台資訊以改善我們的地理定位服務">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "隱私">
 <!ENTITY tabs_synced "同步">
 <!ENTITY set_image_fail "無法設定圖片">
+<!ENTITY set_image_path_fail "無法儲存圖片">
 <!ENTITY set_image_chooser_title "將圖片設為">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "&formatS; 的上面">
 
+<!ENTITY home_remote_tabs_title "已同步的分頁">
+<!ENTITY home_remote_tabs_empty "您在其他裝置開啟的書籤將在此顯示。">
+<!ENTITY home_remote_tabs_unable_to_connect "連線失敗">
+<!ENTITY home_remote_tabs_need_to_sign_in "請登入以重新連結至您的 Firefox 帳號並繼續同步。">
+<!ENTITY home_remote_tabs_trouble_verifying "驗證您的帳號時發生問題？">
+<!ENTITY home_remote_tabs_need_to_verify "請驗證您的 Firefox 帳號以進行同步。">
+
+<!ENTITY home_remote_tabs_one_hidden_device "已隱藏 1 個裝置">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "已隱藏 &formatD; 個裝置">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "已隱藏的裝置">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "取消隱藏選擇的裝置">
+
 <!ENTITY private_browsing_title "隱私瀏覽模式">
 <!ENTITY private_tabs_panel_empty_desc "您的隱私分頁將在此顯示，雖然我們不會保留您的瀏覽紀錄或 Cookie，但您建立的書籤與下載的檔案仍然會留在裝置中。">
 <!ENTITY private_tabs_panel_learn_more "想了解更多資訊？">
+
+<!ENTITY remote_tabs_panel_moved_title "我的分頁跑去哪了？">
+<!ENTITY remote_tabs_panel_moved_desc "我們將您其他裝置中開啟的分頁移到首頁中的面板，這樣您可以在開啟新分頁後快速開啟那些分頁。">
+<!ENTITY remote_tabs_panel_moved_link "帶我到我的新面板那兒去。">
 
 <!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 
@@ -472,6 +506,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_apply_select2 "選擇此處套用">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "重開瀏覽器讓變更生效">
+<!ENTITY new_tablet_pref "啟用全新的平板介面">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "進入訪客瀏覽階段">
 <!ENTITY exit_guest_session "結束訪客瀏覽階段">
@@ -479,6 +519,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
 <!ENTITY new_guest_session_text "進入訪客模式後使用者將無法看到您任何的私人瀏覽資料（諸如已存的密碼、歷史紀錄或書籤）。\n\n當您的訪客用完之後，他們的瀏覽資料也會被清除，然後您的瀏覽階段將會被還原。">
+<!ENTITY guest_browsing_notification_title "已進入訪客瀏覽階段">
+<!ENTITY guest_browsing_notification_text "點擊此處結束">
 
 <!ENTITY exit_guest_session_title "&brandShortName; 現在將會重新啟動">
 <!ENTITY exit_guest_session_text "此瀏覽階段中的瀏覽資料將會被清除。">

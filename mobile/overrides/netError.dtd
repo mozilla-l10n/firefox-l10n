@@ -17,12 +17,21 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "找不到伺服器">
-<!ENTITY dnsNotFound.longDesc3 "<ul>
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
   <li>請檢查有沒有打錯網址，像是不小心把
     <strong>www</strong>.example.com 打成
     <strong>ww</strong>.example.com</li>
-  <li>若您還是無法載入任何頁面，請檢查您裝置的數據或 Wi-Fi 連線。</li>
-</ul>">
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>搜尋</button>
+    </div>
+  <li>若您還是無法載入任何頁面，請檢查您裝置的數據或 Wi-Fi 連線。
+    <button id='wifi'>開啟 Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
@@ -39,13 +48,19 @@
 ">
 
 <!ENTITY malformedURI.title "不正確的網址">
-<!ENTITY malformedURI.longDesc "<ul>
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul>
    <li>網址通常長的像
-      <strong>http://www.example.com/</strong>。</li>
+      <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>搜尋</button>
+    </div>
    <li>請確定您用的是斜線 (例:
       <strong>/</strong>)。</li>
 </ul>
-                ">
+">
 
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -54,6 +69,8 @@
 <!ENTITY notCached.longDesc "<p>您所請求的文件已不存在於 &brandShortName; 的快取當中。</p><ul><li>為了您的安全，&brandShortName; 將不會自動重新請求敏感文件。</li><li>請點下重試以重新向網站請求取得文件。</li></ul>">
 
 <!ENTITY netOffline.title "離線模式">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul>
   <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。
     <button id='wifi'>開啟 Wi-Fi</button>
@@ -92,6 +109,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "找不到 Proxy 伺服器">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>
   <li>請檢查 Proxy 設定是否正確。</li>
   <li>請確定您的裝置有可用的數據或 Wi-Fi 連線。
@@ -128,6 +147,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "<ul>
   <li>網站可能太忙碌或暫時無法使用。請稍候再試一次。</li>
   <li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi 連線。
