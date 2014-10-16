@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "您也可以參考">
-<!ENTITY support.link              "&brandShortName; 技術支援">
-<!ENTITY support.post2             "以取得更多資訊。">
+<!ENTITY support.pre3              "前往我們的">
+<!ENTITY support.link2             "技術支援網站">
+<!ENTITY support.post3             "瞭解常見問題的解決方式。">
 
 <!ENTITY happy.header              "很高興您能提供意見給我們！">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "之後再說">
 <!ENTITY happy.noThanks            "不，謝了">
 
+<!ENTITY sad.header                "喔不！">
 <!ENTITY sad.message               "我們對於您在使用 &brandShortName; 的時候遇到問題感到相當抱歉。請告訴我們發生了什麼事，讓我們來修復它。">
 <!ENTITY sad.placeholder           "請在此輸入您的意見">
-<!ENTITY sad.lastSite              "最近開啟的網站（非必要）">
+<!ENTITY sad.lastSite2             "包含最後開啟的網站">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "感謝您讓我們知道這個問題">
+<!ENTITY sad.thanksHeader2         "感謝您。">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,6 +53,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "或者，">
 
-<!ENTITY feedback.privacy          "為了您的隱私安全，請勿在回饋內容中包含任何可認出您的個人資訊。">
+<!ENTITY feedback.privacy2         "為了您的隱私安全，請不要在意見回饋中加入任何個人資訊。">
 <!ENTITY feedback.send             "傳送意見回饋">
 
