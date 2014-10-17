@@ -13,7 +13,7 @@
 <!ENTITY search.key "f">
 
 <!ENTITY cmd.clearList.label "Wyczyść listę">
-<!ENTITY cmd.clearList.tooltip "Usuń z listy pliki, których pobieranie zostało zakończone, anulowane lub nie powiodło się">
+<!ENTITY cmd.clearList.tooltip "Usuń z listy pliki, których pobieranie zostało zakończone, anulowane lub się nie powiodło">
 <!ENTITY cmd.clearList.accesskey "W">
 
 <!ENTITY col.name.label "Nazwa">
