@@ -717,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
+<!ENTITY customizeMode.deveditionTheme.label "Uzi la etoson de &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Elekti retbabilojn">
