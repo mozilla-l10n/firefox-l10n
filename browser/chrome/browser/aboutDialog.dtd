@@ -8,6 +8,8 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
+<!ENTITY update.checkForUpdatesButton.label       "अद्यतनक लेल जाँचू (C)">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 
 
 <!ENTITY update.applyButtonBillboard.label        "अपडेट लागू करू …">
