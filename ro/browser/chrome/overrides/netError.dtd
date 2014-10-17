@@ -72,6 +72,7 @@ dumneavoastră.</li> 
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
 
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">

@@ -23,13 +23,14 @@
 <!ENTITY restorepage.windowLabel    "Fereastra &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Succes!">
 
 <!ENTITY welcomeback2.pageTitle     "Succes!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; este gata să funcționeze.">
 
-
+<!ENTITY welcomeback2.label.restoreAll  "Restaurează toate ferestrele și filele">
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
