@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "میرے ٹائپ کرتے وقت املا چیک کریں">
 <!ENTITY checkSpelling.accesskey         "ٹ">
 
-<!ENTITY systemDefaults.label            "نظام کے طے شدہ">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "ہمیشہ چیک کریں کہ &brandShortName; آغاز پر طےشدہ براؤزر ہے یا نہیں">
-<!ENTITY alwaysCheckDefault.accesskey    "ہ">
-<!ENTITY setDefault.label                "&brandShortName; کو طےشدہ براؤزر بنا دیں">
-<!ENTITY setDefault.accesskey            "ط">
-<!ENTITY isDefault.label                 "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
-
 <!ENTITY dataChoicesTab.label            "کوائف پسند">
 
 <!ENTITY healthReportSection.label       "&brandShortName; تندرستی رپورٹ">
@@ -126,12 +118,12 @@
 <!ENTITY certificateTab.label            "تصدیق نامے">
 <!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
 <!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
-<!ENTITY certs.auto.accesskey            "ت">
+
 <!ENTITY certs.ask                       "مجھے ہر بار پوچھیں">
-<!ENTITY certs.ask.accesskey             "پ">
-<!ENTITY viewCerts.label                 "تصدیق نامے نظارہ کریں">
-<!ENTITY viewCerts.accesskey             "ت">
-<!ENTITY verify2.label                   "جواز دہی">
-<!ENTITY verify2.accesskey               "ج">
-<!ENTITY viewSecurityDevices.label       "سلامتی آلات">
-<!ENTITY viewSecurityDevices.accesskey   "س">
+
+
+
+
+
+
+

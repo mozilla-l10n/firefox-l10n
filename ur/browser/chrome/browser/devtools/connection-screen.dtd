@@ -13,6 +13,7 @@
 <!ENTITY port       "دہانہ:">
 <!ENTITY connect    "جڑیں">
 <!ENTITY connecting "جوڑ رہا ہے…">
+<!ENTITY availableAddons "دستیاب بعید ایڈ اون">
 <!ENTITY availableTabs "دستیاب شدہ بعید ٹیبیں:">
 <!ENTITY availableProcesses "دستیاب شدہ بعید عمل کاری:">
 <!ENTITY connectionError "نقص:">

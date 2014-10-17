@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
 <!ENTITY cmd.uninstallAddon.accesskey         "ہ">
+<!ENTITY cmd.debugAddon.label                 "ٹھیک کریں">
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
@@ -213,3 +214,12 @@
 <!ENTITY eula.accept                          "قبول اور تنصیب کریں...">
 
 <!ENTITY settings.path.button.label           "براؤز کریں ...">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "اور سیکھیں">
+
+
+

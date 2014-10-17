@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "آلہ">
 <!ENTITY index.help "مدد">
 
+<!ENTITY device.debugMainProcess "مین عمل کاری ٹھیک کریں">
+
 <!ENTITY device.screenshot "سکرین شاٹ">
 <!ENTITY device.screenshotTooltip "آلہ کے موجودہ حالات کی سکرین شاٹ نئی ٹیب میں کھولیں">
 <!ENTITY device.title "آلہ کنٹرول مرکز">

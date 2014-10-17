@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "تازہ کاریوں کے لیے پڑتال کریں">
 <!ENTITY update.checkForUpdatesButton.accesskey   "پ">
-<!ENTITY update.updateButton.label                "تازہ کاری کرنے کے لیے دوباره شروع کریں">
-<!ENTITY update.updateButton.accesskey            "د">
+<!ENTITY update.updateButton.label2                "تازہ کرنے کے لیے &brandShortName; کو دوباره شروع کریں">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "تازہ کاری لگائیں…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ت">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -55,7 +55,7 @@
 
 <!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "برانڈ کا مختصر نام; تازہ ترین ہے">
+<!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->

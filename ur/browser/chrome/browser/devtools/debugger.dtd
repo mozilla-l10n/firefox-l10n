@@ -94,6 +94,10 @@
 
 <!ENTITY debuggerUI.showOriginalSource           "اصل ماخذ دکھائیں">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "ہ">
+<!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
+  -  the checkbox that toggles whether sources that we suspect are minified are
+  -  automatically black boxed or not. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 

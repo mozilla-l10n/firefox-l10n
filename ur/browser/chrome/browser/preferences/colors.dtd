@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "ا">
 
 <!ENTITY  color                           "متن و پس منظر">
-
-
+<!ENTITY  textColor.label                 "متن:">
+<!ENTITY  textColor.accesskey             "م">
 <!ENTITY  backgroundColor.label           "پس منظر:">
 <!ENTITY  backgroundColor.accesskey       "پ">
 <!ENTITY  useSystemColors.label           "نظام رنگ استعمال کریں">

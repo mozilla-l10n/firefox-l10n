@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "نجی براوزنگ">
-<!ENTITY privatebrowsingpage.title.normal          "کیا آپ نجی براوزنگ شروع کرنا چاہیں گے؟">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; اس دریچے کے لیے کوئی سابقات نہیں یاد رکھے گا۔">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "آپ فی الحال نجی دریچے میں نہیں۔">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; اس دریچے کے لیے کوئی سابقات نہیں یاد رکھے گا۔">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "نجی براؤزنگ دریچے میں &brandShortName; کوئی براؤزر سابقات، تلاش سابقات، ڈاؤن لوڈ سابقات، ویب فارم سابقات، کوکی، یا عارضی انٹرنیٹ مسلیں نہیں رکھے گا۔  تاہم، آپ کی ڈاؤن لوڈ کی گئی مسلیں اور لگائی ہوئی نشانیاں رکھی جائیں گی۔">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "آیک نجی دریچہ کھولیں">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "نجی براؤزنگ شروع کرنے کے لئے، آپ مینیو سے &newPrivateWindow.label; بھی منتخب کرسکتے ہیں۔">
-<!ENTITY privatebrowsingpage.howToStop3                "نجی براؤزنگ روکنے کے لیے، آپ یہ دریچہ بند کر سکتے ہیں۔">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "اس کمپیوٹر کے پاس آپ کے براؤزنگ سابقات کا کوئی ریکارڈ نہیں ہو گا، لیکن آپ کا انٹرنیٹ سروس پرووائڈر یا باس پھر بھی آپ کے دیکھے گئے صفحات کا سراغ راہ لگا سکتے ہیں۔">
-<!ENTITY privatebrowsingpage.learnMore                 "مزید سیکھیں">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-
-<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &lt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">
+<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &gt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">

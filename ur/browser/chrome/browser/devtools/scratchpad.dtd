@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "و">
 <!ENTITY closeCmd.accesskey           "ب">
 
+<!ENTITY viewMenu.label               "نظارہ">
+<!ENTITY viewMenu.accesskey           "ن">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "تدوین">
 <!ENTITY editMenu.accesskey           "ت">
 

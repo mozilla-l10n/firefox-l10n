@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "نظارہ">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "سمیولیٹر کو تنصیب کریں">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "تصریح">
+<!ENTITY details_location "محل وقوع">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "بند کریں">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "ایڈ اون مینیجر کھولیں">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "عمومی">
+<!ENTITY prefs_restore "طےشدہ بحال کریں">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "طے شدہ">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "نام">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "مدد">
