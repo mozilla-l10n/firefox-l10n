@@ -174,7 +174,7 @@
 <!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
 <!ENTITY pref_clear_private_data2 "Hreinsa núna">
 <!ENTITY pref_clear_private_data_category "Hreinsa upplýsingar einkamála">
-<!ENTITY pref_clear_on_exit_title "Ætíð hreinsa við lokun">
+<!ENTITY pref_clear_on_exit_title "Always clear when quitting">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur  \u0022hætta\u0022  úr aðal valmyndinni">
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
@@ -208,8 +208,8 @@ size. -->
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_private_data_history2 "Ferill">
-<!ENTITY pref_private_data_formdata "Eyðublað &amp; leitarferill">
-<!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
+<!ENTITY pref_private_data_formdata "Eyðublað  leitarferill">
+<!ENTITY pref_private_data_cookies2 "Smákökur  virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
 <!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
@@ -233,12 +233,12 @@ size. -->
 <!ENTITY pref_panels_move_up "Færa upp">
 <!ENTITY pref_panels_move_down "Færa niður">
 
-<!ENTITY datareporting_notification_title "&brandShortName; tölfærði &amp; gögn">
+<!ENTITY datareporting_notification_title "&brandShortName; tölfærði  gögn">
 <!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_action "Velja það sem deila á">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
 <!ENTITY datareporting_notification_summary_short "Til að bæta upplifun þína, &brandShortName;...">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -256,7 +256,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hrunaskýrsla">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Staðsetningar þjónusta">
-<!ENTITY datareporting_wifi_geolocation_summary "Meðtekur Wi-Fi og GSM staðsetningargögn þegar keyrt í bakgrunni og deilir þeim með &vendorShortName; til að betrumbæta jarðstaðsetningar þjónustu okkar">
+<!ENTITY datareporting_wifi_geolocation_summary "Receives Wi-Fi and cellular location data when running in the background and shares it with &vendorShortName; to improve our geolocation service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
