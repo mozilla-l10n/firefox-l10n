@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Tutu zapołožku wobdźěłać">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Dalše dźělenske słužby pytać…">
 <!ENTITY sharePageCmd.label "Tutu stronu dźělić">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Tutón wotkaz dźělić">
-<!ENTITY shareLinkCmd.accesskey "T">
-<!ENTITY shareImageCmd.label "Tutón wobraz dźělić">
-<!ENTITY shareImageCmd.accesskey "w">
-<!ENTITY shareSelectCmd.label "Tutón wuběr dźělić">
-<!ENTITY shareSelectCmd.accesskey "u">
-<!ENTITY shareVideoCmd.label "Tute widejo dźělić">
-<!ENTITY shareVideoCmd.accesskey "i">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Tutón wotkaz dźělić">
+<!ENTITY shareLink.accesskey "T">
+<!ENTITY shareImage.label "Tutón wobraz dźělić">
+<!ENTITY shareImage.accesskey "w">
+<!ENTITY shareSelect.label "Tutón wuběr dźělić">
+<!ENTITY shareSelect.accesskey "u">
+<!ENTITY shareVideo.label "Tute widejo dźělić">
+<!ENTITY shareVideo.accesskey "i">
 <!ENTITY feedsMenu.label "Abonować">
 <!ENTITY subscribeToPageMenupopup.label "Tutu stronu abonować">
 <!ENTITY subscribeToPageMenuitem.label "Tutu stronu abonować…">
@@ -212,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Přidatki">
 <!ENTITY addons.accesskey             "P">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Nałoženja">
+<!ENTITY webapps.accesskey            "N">
 
 <!ENTITY webDeveloperMenu.label       "Webwuwiwar">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -691,7 +698,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "Nic nětko">
 
-
+<!ENTITY social.directory.label "Zapis aktiwizowanjow">
+<!ENTITY social.directory.text "Móžeće dźělenske słužby ze zapisa aktiwizować.">
+<!ENTITY social.directory.button "Dowjědź mje!">
+<!ENTITY social.directory.introText "Klikńće na słužbu, zo byšće ju &brandShortName; přidał.">
+<!ENTITY social.directory.viewmore.text "Wjace pokazać">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; přiměrić">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Přidatne nastroje a funkcije">
@@ -707,6 +718,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalše drasty wobstarać">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "l">
+<!ENTITY customizeMode.deveditionTheme.label "Drastu &brandShortName; wužiwać">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chaty wuzběhnyć">
@@ -733,15 +745,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.unblock.label "Škit nachwilnje znjemóžnić">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "z">
 <!ENTITY mixedContentBlocked2.block.label "Škit zmóžnić">
-<!ENTITY mixedContentBlocked2.block.accesskey "m">
+<!ENTITY mixedContentBlocked2.block.accesskey "z">
 <!ENTITY mixedContentBlocked2.disabled.message "Škit je znjemóžnjeny">
 
 <!ENTITY trackingContentBlocked.message "Slědowanje">
 <!ENTITY trackingContentBlocked.moreinfo "Dźěle strony, kotrež wašu online-aktiwitu slěduja, su so zablokowali.">
 <!ENTITY trackingContentBlocked.learnMore "Dalše informacije">
 <!ENTITY trackingContentBlocked.options "Nastajenja">
-<!ENTITY trackingContentBlocked.unblock.label2 "Škit za tutu stronu znjemóžnić">
+<!ENTITY trackingContentBlocked.unblock2.label "Škit za tute sydło znjemóžnić">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
 <!ENTITY trackingContentBlocked.block.label "Škit zmóžnić">
+<!ENTITY trackingContentBlocked.block.accesskey "m">
 <!ENTITY trackingContentBlocked.disabled.message "Škit přećiwo slědowanju je znjemóžnjeny">
 
 <!ENTITY pointerLock.notification.message "Tłóčće ESC kóždy čas, zo byšće jón hišće raz pokazał.">
