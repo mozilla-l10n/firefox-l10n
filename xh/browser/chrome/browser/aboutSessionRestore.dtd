@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Kodwa, kubanga iintloni oku.">
-<!ENTITY restorepage.problemDesc    "I-&brandShortName; inengxaki ekubuyiseleni i-windows neethebhu. Oku kudla ngokubangelwa likhasi lewebhu elivulwe kutshanje.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; inengxaki ekubuyiseleni i-windows neethebhu. Oku kudla ngokubangelwa likhasi lewebhu elivulwe kutshanje.">
 <!ENTITY restorepage.tryThis        "Ungazama:">
 <!ENTITY restorepage.restoreSome    "Ukususa ithebhu enye nangaphezulu ocinga ukuba yiyo ebangela ingxaki">
 <!ENTITY restorepage.startNew       "Ukuqalisa iseshoni yokubhrawuza entsha ngokupheleleyo">
@@ -20,7 +20,7 @@
 <!ENTITY restorepage.restoreHeader  "Buyisela">
 <!ENTITY restorepage.listHeader     "I-Windows neethebhu">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Ifestile &#037;S">
+<!ENTITY restorepage.windowLabel    "Ifestile &#037;S ">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
