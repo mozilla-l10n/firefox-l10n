@@ -20,6 +20,8 @@
 <!ENTITY profilerUI.loadingNotice "កំពុង​ផ្ទុក…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "កត់​ត្រា​ការ​ហៅ​មុខងារ JavaScript ។">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -31,7 +33,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
+<!ENTITY profilerUI.table.totalDuration   "ពេលវេលា​សរុប (ms)">
+<!ENTITY profilerUI.table.selfDuration    "ពេលវេលា​ផ្ទាល់ខ្លួន (ms)">
+<!ENTITY profilerUI.table.totalPercentage "ថ្លៃ​ដើម​សរុប">
+<!ENTITY profilerUI.table.selfPercentage  "ថ្លៃ​ដើម​ផ្ទាល់ខ្លួន">
+<!ENTITY profilerUI.table.samples         "គំរូ">
+<!ENTITY profilerUI.table.function        "​អនុគមន៍">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "បន្ថែម​ផ្ទាំង​ថ្មី​ពី​ជម្រើស">

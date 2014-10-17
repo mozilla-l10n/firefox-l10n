@@ -2,28 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
+
+<!ENTITY projectMenu_label "គម្រោង">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "កម្មវិធី​ថ្មី…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "បើក​កម្មវិធី​ដែល​បាន​ខ្ចប់…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "បើក​កម្មវិធី​ដែល​បាន​បង្ហោះ…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 
 
 
 
 
 
+<!ENTITY projectMenu_debug_label "កម្មវិធី​បំបាត់​កំហុស">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "លុប​គម្រោង​ចេញ">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "ចំណូលចិត្ត">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "ពេលវេលា​រត់">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "ផ្ដាច់">
 
 
 
@@ -36,21 +40,27 @@
 
 <!ENTITY viewMenu_label "មើល">
 
+<!ENTITY viewMenu_toggleEditor_label "បិទ/បើក​ កម្មវិធី​កែ">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 
+<!ENTITY viewMenu_showAddons_accesskey "M">
 
-
-
-
-
+<!ENTITY projectButton_label "បើក​កម្មវិធី">
+<!ENTITY runtimeButton_label "ជ្រើស​ពេលវេលា​ដំណើរការ">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 
 
+<!ENTITY projectPanel_tabs "ផ្ទាំង">
 
 
 
@@ -60,15 +70,19 @@
 
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "ត្រឹមត្រូវ">
+<!ENTITY details_warning_header "ការ​ព្រមាន">
+<!ENTITY details_error_header "កំហុស">
 <!ENTITY details_description "សេចក្ដី​ពិពណ៌នា">
 <!ENTITY details_location "ទីតាំង">
-
-
+<!ENTITY details_manifestURL "លេខ​សម្គាល់​ក​កម្មវិធី">
+<!ENTITY details_removeProject_button "លុប​គម្រោង​ចេញ">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "កម្មវិធី​ថ្មី">
+<!ENTITY newAppHeader "ជ្រើស​ពុម្ព">
+<!ENTITY newAppLoadingTemplate "កំពុង​ផ្ទុក​ពុម្ព…">
+<!ENTITY newAppProjectName "ឈ្មោះ​គម្រោង៖">
 <!-- Decks -->
 
 
@@ -84,14 +98,14 @@
 
 
 
+<!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
+<!ENTITY prefs_options_templatesurl "URL ពុម្ព">
+<!ENTITY prefs_options_templatesurl_tooltip "លិបិក្រម​នៃ​ពុម្ព​ដែល​អាច​រក​បាន">
+<!ENTITY prefs_options_showeditor "បង្ហាញ​កម្មវិធី​កែ">
+<!ENTITY prefs_options_showeditor_tooltip "បង្ហាញ​កម្មវិធី​កែ​ខាង​ក្នុង">
+<!ENTITY prefs_options_tabsize "ទំហំ​ផ្ទាំង">
 
-
-
-
-
-
-
-
+<!ENTITY prefs_options_expandtab_tooltip "ប្រើ​ចន្លោះ​មិន​ឃើញ​ជំនួស​ថេប តួអក្សរ">
 
 <!ENTITY prefs_options_detectindentation_tooltip "ស្មាន​ការ​បញ្ចូល​បន្ទាត់​ផ្អែកលើ​មាតិកា​ប្រភព">
 
@@ -107,7 +121,9 @@
 
 
 
-
-
+<!ENTITY runtimedetails_requestPrivileges "ស្នើ​សិទ្ធិ​ខ្ពស់​ជាង​នេះ">
+<!ENTITY runtimedetails_privilegesWarning "(នឹង​ចាប់ផ្ដើម​ឧបករណ៍​ឡើង​វិញ ។ ទាមទារ​ដំណើរការ​ជា root ។)">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "ម៉ូនីទ័រ">
 <!ENTITY monitor_help "ជំនួយ">
