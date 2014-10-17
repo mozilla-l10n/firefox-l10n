@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Filă nouă">
-
-
-
-
-
-
+<!ENTITY newtab.customize.title "Personalizare pagină Filă nouă">
+<!ENTITY newtab.customize.enhanced "Îmbunătățit">
+<!ENTITY newtab.customize.classic "Clasic">
+<!ENTITY newtab.customize.blank "Goală">
+<!ENTITY newtab.customize.what "Ce este această pagină?">
+<!ENTITY newtab.intro.header "Ce este această pagină?">
 <!ENTITY newtab.undo.removedLabel "Miniatură eliminată.">
 <!ENTITY newtab.undo.undoButton "Anulează.">
 <!ENTITY newtab.undo.restoreButton "Restaurează tot.">

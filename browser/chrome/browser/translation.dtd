@@ -52,11 +52,13 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 
-
-
+<!ENTITY translation.options.preferences.label  "Preferințe pentru traducere">
+<!ENTITY translation.options.preferences.accesskey "P">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Traduceri de">
 <!ENTITY translation.options.attribution.afterLogo "">
