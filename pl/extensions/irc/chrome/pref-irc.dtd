@@ -5,7 +5,7 @@
 <!ENTITY pref-irc.window.title "ChatZilla">
 
 <!ENTITY pref-irc.open.title "Preferencje ChatZilli">
-<!ENTITY pref-irc.open.desc "Preferencje ChatZilli są zbyt obszerne dla tego okna. Można tutaj otworzyć osobne okno preferencji ChatZilli.">
+<!ENTITY pref-irc.open.desc "Preferencje ChatZilli nie mieszczą się w tym oknie. Aby otworzyć okno preferencji ChatZilli, naciśnij poniższy przycisk.">
 <!ENTITY pref-irc.open.label "Otwórz preferencje ChatZilli">
 <!ENTITY pref-irc.open.accesskey "O">
 <!ENTITY startup.chat.label "ChatZilla">

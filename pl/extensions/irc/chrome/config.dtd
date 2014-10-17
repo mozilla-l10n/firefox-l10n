@@ -4,17 +4,17 @@
 
 <!ENTITY window.title "Preferencje ChatZilli">
 
-<!ENTITY loading.label "Wczytywanie, proszę czekać…">
+<!ENTITY loading.label "Trwa wczytywanie… Proszę czekać.">
 
 <!ENTITY homepage.url "http://chatzilla.hacksrus.com/">
-<!ENTITY homepage.label "Witryna ChatZilli">
+<!ENTITY homepage.label "Strona domowa ChatZilli">
 
 <!ENTITY object.add.label "Dodaj…">
-<!ENTITY object.add.hint "Dodaje sieć, kanał lub użytkownika, dla których można ustawić preferencje">
+<!ENTITY object.add.hint "Dodaje nową sieć, kanał lub użytkownika, dla których można ustawić preferencje">
 <!ENTITY object.add.accesskey "D">
 
 <!ENTITY object.del.label "Usuń">
-<!ENTITY object.del.hint "Usuwa obiekt wraz z jego preferencjami">
+<!ENTITY object.del.hint "Usuwa aktywny obiekt wraz ze wszyskimi jego preferencjami">
 <!ENTITY object.del.accesskey "U">
 
 <!ENTITY object.reset.label "Przywróć domyślne">
@@ -27,14 +27,14 @@
 <!ENTITY channel "Kanał">
 <!ENTITY user "Użytkownik">
 
-<!ENTITY config.add.title "Dodaj obiekt preferencji">
+<!ENTITY config.add.title "Dodaj preferencje obiektu">
 
 <!ENTITY config.type.label "Typ:">
 <!ENTITY config.type.hint "Typ obiektu dla dodawanych preferencji">
-<!ENTITY config.type.accesskey "T">
+<!ENTITY config.type.accesskey "C">
 <!ENTITY config.network.label "Sieć:">
 <!ENTITY config.network.hint "Znana nazwa sieci lub nazwa serwera">
-<!ENTITY config.network.accesskey "S">
-<!ENTITY config.target.label "Obiekt:">
-<!ENTITY config.target.hint "Docelowa nazwa użytkownika lub kanał">
-<!ENTITY config.target.accesskey "O">
+<!ENTITY config.network.accesskey "a">
+<!ENTITY config.target.label "Cel:">
+<!ENTITY config.target.hint "Docelowy kanał lub nazwa użytkownika">
+<!ENTITY config.target.accesskey "o">

@@ -10,8 +10,8 @@
 <!ENTITY description.label "Przejrzysty, łatwy w użyciu i wysoce rozszerzalny klient IRC (Internet Relay Chat).">
 
 <!ENTITY homepage.label "Odwiedź stronę domową">
-<!ENTITY copyversion.label "Kopij informacje o wersji do schowka">
+<!ENTITY copyversion.label "Kopiuj informacje o wersji">
 
 <!ENTITY section.core.label "Podstawowy zespół twórców:">
 <!ENTITY section.locale.label "Lokalizacja:">
-<!ENTITY section.contrib.label "Twórcy:">
+<!ENTITY section.contrib.label "Współtwórcy:">

@@ -5,19 +5,19 @@
 <!ENTITY window.title "Program poprawy jakości obsługi ChatZilli">
 <!ENTITY window.size "szerokość: 42em;">
 
-<!ENTITY intro.label "Program poprawy jakości obsługi ChatZilli zbiera informacje o tym jak ChatZilla jest używana, bez przeszkadzania użytkownikowi. Pomaga to twórcom identyfikować funkcje ChatZilli wymagające ulepszenia. Nie są gromadzone informacje umożliwiające identyfikację lub kontakt z użytkownikiem.">
+<!ENTITY intro.label "Program poprawy jakości obsługi ChatZilli zbiera informacje o tym jak ChatZilla jest używana, bez przeszkadzania użytkownikowi. Pomaga to twórcom identyfikować funkcje ChatZilli wymagające ulepszenia. Żadne informacje umożliwiające identyfikację lub kontakt z użytkownikiem nie są gromadzone.">
 
 <!ENTITY groupSend.label "Wysyłaj następujące dane:">
-<!ENTITY sendClient.label "Kiedy ChatZilla jest uruchamiana i zamykana">
-<!ENTITY sendClient.accesskey "K">
-<!ENTITY sendCommand.label "Używane komendy, menu i dialogi">
-<!ENTITY sendCommand.accesskey "U">
-<!ENTITY sendID.label "Twój unikalny ID:">
+<!ENTITY sendClient.label "Informacje o otwarciu i zamknięciu ChatZilli">
+<!ENTITY sendClient.accesskey "k">
+<!ENTITY sendCommand.label "Informacje o używanych poleceniach, menu i oknach dialogowych">
+<!ENTITY sendCommand.accesskey "u">
+<!ENTITY sendID.label "Twój jednoznaczny identyfikator:">
 <!ENTITY sendIDSrc.label "(generowany losowo)">
 
 <!ENTITY groupNotSent.label "Dane nigdy nie wysyłane:">
-<!ENTITY notsentNickname.label "Twój pseudonim">
-<!ENTITY notsentMessages.label "Treść wiadomości włączając akcje i powiadomienia">
-<!ENTITY notsentArguments.label "Argumenty i dane przekazywane do wszystkich komend, menu i okien dialogowych">
+<!ENTITY notsentNickname.label "Identyfikator użytkownika">
+<!ENTITY notsentMessages.label "Zawartość wiadomości włącznie z czynnościami i powiadomieniami">
+<!ENTITY notsentArguments.label "Argumenty i dane przekazywane do wszystkich poleceń, menu i okien dialogowych">
 <!ENTITY notsentURLs.label "Nazwy i adresy URL sieci, serwerów, kanałów oraz użytkowników">
 <!ENTITY notsentFiles.label "Nazwy oraz zawartość wysłanych i odebranych plików">

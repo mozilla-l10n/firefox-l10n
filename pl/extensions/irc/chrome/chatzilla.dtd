@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Menubar.tooltip "Menu główne">
-<!ENTITY Toolbar.tooltip "Główny pasek narzędzi">
+<!ENTITY Toolbar.tooltip "Główny pasek narzędziowy">
 
 
-<!ENTITY multiline-expand.tooltip " Włącz wielolinijkowe wprowadzanie tekstu (Ctrl+Up)">
-<!ENTITY multiline-contract.tooltip "Włącz jednolinijkowe wprowadzanie tekstu (Ctrl+Down)">
+<!ENTITY multiline-expand.tooltip "Włącz wielowierszowe wprowadzanie tekstu (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "Włącz jednowierszowe wprowadzanie tekstu (Ctrl+Down)">
 <!ENTITY multiline-send.tooltip "Wyślij wprowadzony tekst (Ctrl+Enter)">
-<!ENTITY server-nick.tooltip 'Zmienia identyfikator lub status na "Chwilowo nieobecny". Naciśnij klawisz Esc, aby uaktywnić pole tekstowe.'>
+<!ENTITY server-nick.tooltip "Kliknij, aby zmienić identyfikator lub status. Naciśnij Esc, aby uaktywnić pole tekstowe.">
 
 <!ENTITY Underline.label "Podkreślenie">
 <!ENTITY Bold.label "Pogrubienie">

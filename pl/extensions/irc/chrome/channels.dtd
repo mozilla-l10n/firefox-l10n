@@ -25,9 +25,9 @@
 <!ENTITY refresh.label "Odśwież teraz">
 <!ENTITY refresh.accesskey "">
 
-<!ENTITY network.hint.label "Wprowadź nazwę sieci bądź serwera (można podać port) oraz kanał do dołączenia.">
+<!ENTITY network.hint.label "Wprowadź nazwę sieci lub serwera (można dołączyć numer portu) i kanał, do którego chcesz się przyłączyć.">
 
 <!ENTITY col.network "Sieć">
 <!ENTITY col.name "Nazwa">
-<!ENTITY col.users "Użytkowników">
+<!ENTITY col.users "Użytkownicy">
 <!ENTITY col.topic "Temat">
