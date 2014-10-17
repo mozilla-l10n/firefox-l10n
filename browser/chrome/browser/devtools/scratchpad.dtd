@@ -55,7 +55,8 @@
 
 
 
-
+<!ENTITY smallerFont.label            "قلم کوچک‌تر">
+<!ENTITY smallerFont.accesskey        "و">
 <!ENTITY smallerFont.commandkey       "-">
 
 
@@ -64,18 +65,21 @@
 <!ENTITY editMenu.label               "ویرایش">
 <!ENTITY editMenu.accesskey           "و">
 
-
+<!ENTITY run.label                    "اجرا‌">
+<!ENTITY run.accesskey                "ا">
 
 
 <!ENTITY inspect.label                "وارسی">
 <!ENTITY inspect.accesskey            "و">
 
 
+<!ENTITY display.label                "نمایش">
+<!ENTITY display.accesskey            "ن">
 
 
+<!ENTITY pprint.label                 "چاپ زیبا">
 
-
-
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -105,10 +109,14 @@
   -->
 
 
+<!ENTITY resetContext2.label          "بازنشاندن متغیرها">
+<!ENTITY resetContext2.accesskey      "t">
 
 
 
 
+<!ENTITY executeMenu.label            "اجرا">
+<!ENTITY executeMenu.accesskey        "ا">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

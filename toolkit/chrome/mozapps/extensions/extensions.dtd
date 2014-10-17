@@ -101,7 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "ن">
 <!ENTITY cmd.uninstallAddon.label             "حذف">
 <!ENTITY cmd.uninstallAddon.accesskey         "ح">
-
+<!ENTITY cmd.debugAddon.label                 "اشکال زدایی">
 <!ENTITY cmd.showPreferencesWin.label         "گزینه‌ها">
 <!ENTITY cmd.showPreferencesWin.tooltip       "تغییر گزینه‌های این افزودنی">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">

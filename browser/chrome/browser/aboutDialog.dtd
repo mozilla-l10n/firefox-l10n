@@ -12,8 +12,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "ج">
 <!ENTITY update.updateButton.label2                "جهت انجام بروزرسانی &brandShortName; را مجددا راه اندازی کنید">
 <!ENTITY update.updateButton.accesskey            "R">
-
-
+<!ENTITY update.applyButtonBillboard.label        "اعمال به‌روزرسانی…">
+<!ENTITY update.applyButtonBillboard.accesskey    "ا">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -74,7 +74,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "به‌روز رسانی‌ها در اینجا ">
+<!ENTITY update.manual.start        "به‌روز رسانی‌ها در اینجا قابل دسترسی است:">
 <!ENTITY update.manual.end          " قابل دریافت هستند.">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -100,5 +100,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "شما در حال حاضر در کانال به‌هنگام‌سازی ">
-<!ENTITY channel.description.end    " قرار دارید. ">
+<!ENTITY channel.description.start  "موقعیت کنونی شما ">
+<!ENTITY channel.description.end    " کانال بروزرسانی است.">
