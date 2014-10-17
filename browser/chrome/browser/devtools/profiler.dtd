@@ -39,10 +39,10 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-<!ENTITY profilerUI.table.duration    "Süre (ms)">
-<!ENTITY profilerUI.table.percentage  "Maliyet">
-<!ENTITY profilerUI.table.invocations "Çağrılar">
-<!ENTITY profilerUI.table.function    "Fonksiyon">
+
+
+
+<!ENTITY profilerUI.table.function        "Fonksiyon">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
