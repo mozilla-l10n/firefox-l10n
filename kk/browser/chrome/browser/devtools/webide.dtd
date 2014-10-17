@@ -55,6 +55,7 @@
 
 <!ENTITY projectPanel_myProjects "Менің жобаларым">
 
+<!ENTITY projectPanel_tabs "Беттер">
 <!ENTITY runtimePanel_USBDevices "USB құрылғылары">
 <!ENTITY runtimePanel_WiFiDevices "Wi-Fi құрылғылары">
 <!ENTITY runtimePanel_simulators "Симуляторлар">
