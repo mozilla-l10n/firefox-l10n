@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY index.title "مدیر برنامه">
+<!ENTITY index.projects2 "برنامه‌ها">
+<!ENTITY index.device2 "دستگاه">
 
 
 
@@ -13,8 +15,8 @@
 
 
 <!ENTITY device.stopApp "توقف">
-
-
+<!ENTITY device.stopAppTooltip "ایست برنامه در دستگاه">
+<!ENTITY device.debugApp "اشکال زدایی">
 
 <!ENTITY device.name "نام">
 
@@ -26,20 +28,20 @@
 
 <!ENTITY device.deny "رد کردن">
 
-
+<!ENTITY device.installedApps "برنامه‌های نصب شده">
 
 <!ENTITY device.permissions "مجوزها">
 
 
 
 
+<!ENTITY device.debugBrowserTab "اشکال‌زدایی">
 
 
 
 
 
-
-
+<!ENTITY connection.notConnected2 "اتصال برقرار نیست.">
 
 
 

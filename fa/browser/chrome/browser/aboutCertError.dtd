@@ -9,8 +9,8 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "اتصال غیر قابل اطمینان">
-<!ENTITY certerror.longpagetitle "این اتصال غیر قابل اطمینان است">
+<!ENTITY certerror.pagetitle  "اتصال نا امن">
+<!ENTITY certerror.longpagetitle "این اتصال نا امن می‌باشد">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -25,9 +25,9 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "اگر معمولاً بدون اشکال به این پایگاه 
 وصل می‌شوید، این پیغام خطا به معنی آن است که شخصی تلاش می‌کند هویت این پایگاه 
 را جعل کند، پس نباید به مرور این پایگاه ادامه دهید.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این سایت از HTTP استفاده می‌کند. 
-سیاست امنیتی دقیق در انتقال داده (HSTS) ارتباط ایمن &brandShortName; را 
-تعیین می‌کند. درنتیجه، امکان افزودن استثناء برای این گواهی‌نامه 
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این سایت از HTTP استفاده می‌کند. 
+سیاست امنیتی دقیق در انتقال داده (HSTS) ارتباط ایمن &brandShortName; را 
+تعیین می‌کند. درنتیجه، امکان افزودن استثناء برای این گواهی‌نامه 
 وجود ندارد.">
 <!ENTITY certerror.getMeOutOfHere.label "ترک این مکان!">
 
