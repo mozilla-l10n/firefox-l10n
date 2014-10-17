@@ -22,12 +22,16 @@
   -  on a button that starts a new profile. -->
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
+
+<!ENTITY profilerUI.importButton "आयात करू…">
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
 
 <!ENTITY profilerUI.clearButton "साफ  करू ">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+
+
 
 
 

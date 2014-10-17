@@ -1,16 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "निजी विंडो खोलू?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; एहि सत्र क कोनो इतिहास नहि राखत.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; एहि निजी विंडो क कोनो इतिहास नहि राखत.">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "अहाँ अखन निजी विंडो मे नहि छी.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "जहँ एहि कंप्यूटर मे अहाँक ब्राउजिंग इतिहास क रिकार्ड नहि रहताह अहाँक इंटरनेट सेवा प्रदाता अथवा नियोक्ता अहाँक द्वारा देखल गेल पन्नासभकेँ ट्रैक कए सकैत अछि .">
+<!ENTITY aboutPrivateBrowsing.learnMore        "बेसी  जानू.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "निजी विंडो खोलू (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart3               "निज ब्राउज़िंग आरंभ करबाक लेल, अहाँ सँगे &basePBMenu.label; &gt; &newPrivateWindow.label; केँ चुनि सकैत छी.">
