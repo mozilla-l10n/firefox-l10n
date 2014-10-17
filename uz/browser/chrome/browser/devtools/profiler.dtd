@@ -13,17 +13,17 @@
 
 
 
-<!ENTITY profilerUI.emptyNotice1    "Bosing: ">
-<!ENTITY profilerUI.emptyNotice2    "JavaScript funksiyasini chaqiruvlarini yozib olishni boshlash uchun tugmasiga.">
+<!ENTITY profilerUI.emptyNotice1    "Tugmaga">
+<!ENTITY profilerUI.emptyNotice2    "JavaScript funksiyasini chaqiruvlarini yozib olishni boshlash uchun bosing.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
-<!ENTITY profilerUI.stopNotice1    "Bosing:">
-<!ENTITY profilerUI.stopNotice2    "profillashni yana to‘xtatish tugmasi ustiga.">
+<!ENTITY profilerUI.stopNotice1    "Tugmaga">
+<!ENTITY profilerUI.stopNotice2    "profillashni yana to‘xtatish uchun bosing.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
-<!ENTITY profilerUI.loadingNotice "Yuklanmoqda...">
+<!ENTITY profilerUI.loadingNotice "Yuklanmoqda…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
 
@@ -39,9 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
-
+<!ENTITY profilerUI.table.totalDuration   "Umumiy vaqt (ms)">
+<!ENTITY profilerUI.table.selfDuration    "O‘z vaqti (ms)">
+<!ENTITY profilerUI.table.totalPercentage "Umumiy narxi">
+<!ENTITY profilerUI.table.selfPercentage  "O‘z narxi">
+<!ENTITY profilerUI.table.samples         "Namunalar">
 <!ENTITY profilerUI.table.function        "Funksiya">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

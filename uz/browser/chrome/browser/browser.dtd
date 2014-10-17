@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Ko‘proq bo‘lishish xizmatlarini topish…">
 <!ENTITY sharePageCmd.label "Ushbu sahifani bo‘lishish">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "b">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Ushbu linkni bo‘lishish">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "Ushbu rasmni bo‘lishish">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Tanlanganni bo‘lishish">
+<!ENTITY shareSelect.accesskey "b">
+<!ENTITY shareVideo.label "Ushbu videoni bo‘lishish">
+<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "Obuna bo‘lish">
 <!ENTITY subscribeToPageMenupopup.label "Ushbu sahifaga obuna bo‘lish">
 <!ENTITY subscribeToPageMenuitem.label "Ushbu sahifaga obuna bo‘lish…">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Qo‘shimcha dasturlar">
 <!ENTITY addons.accesskey             "Q">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Ilova dasturlar">
+<!ENTITY webapps.accesskey            "a">
 
 <!ENTITY webDeveloperMenu.label       "Veb dasturchi">
 <!ENTITY webDeveloperMenu.accesskey   "V">
@@ -696,10 +698,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Hozir emas">
 
-
-
-
-
+<!ENTITY social.directory.label "Faollashtirishlar direktoriyasi">
+<!ENTITY social.directory.text "Bo‘lishish xizmatlarini direktoriyadan faollashtirishingiz mumkin.">
+<!ENTITY social.directory.button "Men bu yerdan olib ket!">
+<!ENTITY social.directory.introText "Xizmatni &brandShortName;ga qo‘shish uchun uning ustiga bosing.">
+<!ENTITY social.directory.viewmore.text "Ko‘proq ko‘rish">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName;ni qulaylashtirish">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Qo‘shimcha asboblar va xususiyatlar">
@@ -715,7 +718,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ko‘proq mavzular olish">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "&brandShortName; mavzusidan foydalanish">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Suhbatlarni markazda ko‘rsatish">
@@ -741,18 +744,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Moslamalar">
 <!ENTITY mixedContentBlocked2.unblock.label "Himoyani hozir o‘chirish">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "h">
-
-
+<!ENTITY mixedContentBlocked2.block.label "Himoyani yoqish">
+<!ENTITY mixedContentBlocked2.block.accesskey "y">
 <!ENTITY mixedContentBlocked2.disabled.message "Himoya o‘chirildi">
 
 <!ENTITY trackingContentBlocked.message "Kuzatish">
 <!ENTITY trackingContentBlocked.moreinfo "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
 <!ENTITY trackingContentBlocked.learnMore "Ko‘proq o‘rganish">
 <!ENTITY trackingContentBlocked.options "Moslamalar">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Ushbu sahifa uchun himoyani o‘chirish">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Himoyani yoqish">
+<!ENTITY trackingContentBlocked.block.accesskey "y">
 <!ENTITY trackingContentBlocked.disabled.message "Kuzatishdan himoya o‘chirildi">
 
 <!ENTITY pointerLock.notification.message "Uni yana ko‘rsatish uchun xohlagan vaqtingizda &quot;ESC&quot; tugmasini bosing.">
