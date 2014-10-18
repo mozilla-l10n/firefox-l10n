@@ -90,7 +90,7 @@
 <!ENTITY prefs.button.remove.accesskey "U">
 
 <!-- passwords -->
-<!ENTITY pwd.description "Następujące hasła są zapisane dla następującej domeny:">
+<!ENTITY pwd.description "Następujące hasła są zachowywane dla następującej domeny:">
 
 <!ENTITY pwd.tree.host.label "Witryna">
 <!ENTITY pwd.tree.username.label "Nazwa użytkownika">
