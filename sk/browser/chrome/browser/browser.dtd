@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
-<!ENTITY appmenu.tooltip                     "Ponuka Otvoriť">
+<!ENTITY appmenu.tooltip                     "Otvorí ponuku">
 <!ENTITY navbarOverflow.label                "Ďalšie nástroje…">
 
 <!-- Tab context menu -->
