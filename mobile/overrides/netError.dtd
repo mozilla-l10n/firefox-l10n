@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server sa nenašiel">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Skontrolujte, či ste nezadali napr.
     <strong>ww</strong>.priklad.com namiesto
     <strong>www</strong>.priklad.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Hľadať</button>
+    </div>
   <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti alebo bezdrôtové pripojenie.
     <button id='wifi'>Povoliť Wi-Fi</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Adresa nie je platná">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Webové adresy sú zvyčajne zadávané v tvare
     <strong>http://www.priklad.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Hľadať</button>
+    </div>
   <li>Skontrolujte, či používate správne lomky (t.j. <strong>/</strong>). </li>
 </ul>
 ">
@@ -58,6 +70,8 @@
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača &brandShortName;.</p><ul><li>Z bezpečnostných dôvodov &brandShortName; automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Skúste to znova. &brandShortName; sa pokúsi nadviazať spojenie a načítať stránku.
@@ -102,6 +116,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Server proxy nemožno nájsť">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Skontrolujte, či je nastavenie servera proxy správne.</li>
@@ -142,6 +158,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Server môže byť dočasne nedostupný alebo zaneprázdnený. Svoj pokus opakujte neskôr.</li>
