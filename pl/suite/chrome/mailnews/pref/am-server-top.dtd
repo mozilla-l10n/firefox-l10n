@@ -70,8 +70,8 @@
 <!ENTITY newsrcFilePath.label "Plik newsrc:">
 <!ENTITY newsrcPicker.label "Wybierz plik newsrc">
 <!ENTITY abbreviate.label "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
-<!ENTITY abbreviateOn.label 'Pełnej (Na przykład: "pl.rec.humor.najlepsze")'>
-<!ENTITY abbreviateOff.label 'Skróconej (Na przykład: "p.r.h.najlepsze")'>
+<!ENTITY abbreviateOn.label "Pełnej (Na przykład: „pl.rec.humor.najlepsze”)">
+<!ENTITY abbreviateOff.label "Skróconej (Na przykład: „p.r.h.najlepsze”)">
 <!ENTITY advancedButton.label "Zaawansowane…">
 <!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
 <!ENTITY advancedButton.accesskey "a">

@@ -55,7 +55,7 @@
 <!ENTITY linkName "Nazwa">
 <!ENTITY linkAddress "Adres">
 <!ENTITY linkType "Typ">
-<!ENTITY linkTarget 'Atrybut "Target"'>
+<!ENTITY linkTarget "Atrybut „Target”">
 <!ENTITY linkAccessKey "Klawisz dostępu">
 
 <!ENTITY mediaTab "Media">

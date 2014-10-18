@@ -21,7 +21,7 @@
 
 <!ENTITY sidebar.no-panels.state "Panel boczny jest obecnie pusty.">
 <!ENTITY sidebar.no-panels.add "Możesz dodać karty naciskając przycisk Karty.">
-<!ENTITY sidebar.no-panels.hide 'Aby całkowicie ukryć panel boczny, w menu Widok otwórz pozycję "Pokaż/Ukryj", a następnie "Panel boczny".'>
+<!ENTITY sidebar.no-panels.hide "Aby całkowicie ukryć panel boczny, w menu Widok otwórz pozycję „Pokaż/Ukryj”, a następnie „Panel boczny”.">
 <!ENTITY sidebar.sbDirectory.label "Katalog paneli bocznych…">
 
 <!ENTITY sidebar.pagenotfound.label "Ta karta w chwili obecnej jest niedostępna.">

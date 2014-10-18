@@ -17,7 +17,7 @@
 <!ENTITY returnSome.accesskey "r">
 <!ENTITY never.label "Nigdy nie wysyłaj potwierdzenia dostarczenia wiadomości">
 <!ENTITY never.accesskey "n">
-<!ENTITY notInToCc.label 'Jeżeli mój adres e-mail nie znajduje się w polu "Do" lub "Kopia":'>
+<!ENTITY notInToCc.label "Jeżeli mój adres e-mail nie znajduje się w polu „Do” lub „Kopia”:">
 <!ENTITY notInToCc.accesskey "J">
 <!ENTITY outsideDomain.label "Jeżeli nadawca jest spoza mojej domeny:">
 <!ENTITY outsideDomain.accesskey "t">
