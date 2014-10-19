@@ -21,6 +21,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Ç'duhet të Bëj?">
 <!ENTITY certerror.whatShouldIDo.content "Nëse te ky sajt lidheni zakonisht pa probleme, ky gabim mund të tregonte se dikush është duke u përpjekur të imitojë sajtin, dhe nuk do të duhej të vazhdonit.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP Strict Transport Security (HSTS) për të kërkuar që &brandShortName;-i lidhet me të vetëm në mënyrë të sigurt. Për pasojë, nuk është e mundur të shtohet një përjashtim për këtë dëshmi.">
 <!ENTITY certerror.getMeOutOfHere.label "Hiqmë prej këtej!">
 
 <!ENTITY certerror.expert.heading "I kuptoj Rreziqet">
