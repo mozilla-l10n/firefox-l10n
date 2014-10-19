@@ -6,7 +6,7 @@
 <!ENTITY checkSpellingWhenTyping.label "Sprawdzaj pisownię podczas pisania:">
 <!ENTITY checkSpellingWhenTyping.accesskey "d">
 <!ENTITY dontCheckSpelling.label "nigdy">
-<!ENTITY multilineCheckSpelling.label "w polach wieloliniowych">
+<!ENTITY multilineCheckSpelling.label "w polach wielowierszowych">
 <!ENTITY alwaysCheckSpelling.label "we wszystkich polach">
 <!ENTITY spellForMailAndNews.label "Kurier Poczty">
 <!ENTITY checkSpellingBeforeSend.label "Sprawdzaj pisownię przed wysłaniem wiadomości">

@@ -47,16 +47,16 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Usługi dodatków: ">
-<!ENTITY rights.addons-b "Domyślnie &brandShortName; będzie proponować dodatki na stronie  &view.discover.label; oraz regularnie poszukiwać aktualizacje. Wyłączenie tych funkcji, w celu uniemożliwienia wysyłania informacji o zainstalowanych dodatkach, jest możliwe za pomocą następujących kroków:">
+<!ENTITY rights.addons-b "Domyślnie &brandShortName; będzie proponować dodatki na stronie &view.discover.label; oraz regularnie poszukiwać aktualizacje. Wyłączenie tych funkcji, w celu uniemożliwienia wysyłania informacji o zainstalowanych dodatkach, jest możliwe za pomocą następujących kroków:">
 <!ENTITY rights.addons-term1 "Otworzyć preferencje aplikacji">
-<!ENTITY rights.addons-term2 "Wybrać panel  &smart.label; w kategorii &advance.label;">
+<!ENTITY rights.addons-term2 "Wybrać panel &smart.label; w kategorii &advance.label;">
 <!ENTITY rights.addons-term3 "Odznaczyć opcje &quot;&autoAddOnsUpdates.label;&quot; oraz &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Usługi dodatków zostały w ten sposób wyłączone">
 
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Bezpieczne przeglądanie: ">
-<!ENTITY rights.safebrowsing-b "Wyłączenie Bezpiecznego przelądania nie jest zalecane, gdyż może to skutkować odwiedzaniem niebezpiecznych stron. W celu kompletnego wyłączenia Bezpiecznego przelądania należy wykonać następujące kroki:">
+<!ENTITY rights.safebrowsing-b "Wyłączenie Bezpiecznego przeglądania nie jest zalecane, gdyż może to skutkować odwiedzaniem niebezpiecznych stron. W celu kompletnego wyłączenia Bezpiecznego przeglądania należy wykonać następujące kroki:">
 <!ENTITY rights.safebrowsing-term1 "Otworzyć preferencje aplikacji">
 <!ENTITY rights.safebrowsing-term2 "Wybrać główny panel &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Odznaczyć opcje &quot;&blockAttackSites.label;&quot; oraz &quot;&blockWebForgeries.label;&quot;">
