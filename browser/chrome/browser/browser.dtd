@@ -360,8 +360,6 @@
 <!ENTITY emailImageCmd.accesskey "a">
 <!ENTITY emailVideoCmd.label "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey "a">
-<!ENTITY castVideoCmd.label "Enviar vídeo al dispositivo">
-<!ENTITY castVideoCmd.accesskey "E">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY playPluginCmd.label "Activar este plugin">
