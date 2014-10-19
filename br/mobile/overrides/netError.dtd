@@ -17,12 +17,18 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Dafariad ebet kavet">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Gwiriit ar chomlec'h da gaout fazioù biziata evel
-<strong>www</strong>.skouer.com e-lec'h 
-<strong>www</strong>.example.com</li> 
+<strong>ww</strong>.skouer.com e-lec'h 
+<strong>www</strong>.skouer.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Klask</button> 
+</div> 
 <li>Ma n'eus ket tro da gargañ pajennad ebet, gwiriit roadennoù ho trevnad pe ho kennask dre Wi-Fi. 
-<button id='wifi'>Gweredekaat Wi-Fi</button> 
+<button id='wifi'>Enable Wi-Fi</button> 
 </li> 
 </ul>">
 
@@ -37,9 +43,15 @@
 <!ENTITY generic.longDesc " <p>N'hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
 
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec'h">
-<!ENTITY malformedURI.longDesc "<ul>
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul>
 <li>Skrivet e vez ar chomlec'hioù evel 
 <strong>http://www.skouer.com/</strong></li> 
+ <div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Klask</button> 
+</div> 
 <li>Bezit sur ez arverit beskelloù (d.l.e. 
 <strong>/</strong>).</li> 
 </ul>">
@@ -51,6 +63,8 @@
 <!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh krubuilh &brandShortName;.</p><ul><li>&brandShortName; ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Klaskit en-dro. &brandShortName; a glasko digeriñ ur c'hennask hag adkargañ ar bajennad.
 <button id='wifi'>Gweredekaat ar Wi-Fi</button> 
@@ -86,6 +100,8 @@ an dafariad proksi.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "N'eo ket bet kavet an dafariad proksi">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Gwiriit an arventennoù proksi evit bezañ sur ez int reizh.</li> 
 <li>Gwiriit da vezañ sur ez eus ur c'hennask dre Wi-Fi ha roadennoù o vont en-dro. 
@@ -117,6 +133,8 @@ toupinoù.</li>
 dreveziñ an dafariad.</li> 
 <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li>
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Marteze ez eo al lec'hienn dihegerz pe re ac'hubet evit poent. Klaskit tuchant.</li> 

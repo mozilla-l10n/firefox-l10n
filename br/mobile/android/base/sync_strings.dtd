@@ -14,7 +14,7 @@
 <!ENTITY sync.title.pair.label "Koublañ un trevnad">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Evit gweredekaat ho trevnad nevez, diuzit \u0022&syncBrand.shortName.label;” war an trevnad.">
+<!ENTITY sync.subtitle.connect.label "Evit gweredekaat ho trevnad nevez, diuzit ”&syncBrand.shortName.label;” war an trevnad.">
 <!ENTITY sync.subtitle.header2.label "Enankit ar rineg-mañ war ho trevnad all">
 <!ENTITY sync.subtitle.connectlocation2.label "Diuzañ “&sync.title.pair.label;” e kevrenn &syncBrand.shortName.label; eus dibarzhioù ho trevnad Firefox all.">
 <!ENTITY sync.subtitle.pair.label "Da weredekaat, diuzit “Koublañ un trevnad” war ho trevnad all.">
@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Mar plij, klaskit en-dro.">
-<!ENTITY sync.pair.connectlocation.label "Da weredekaat ho trevnad nevez, diuzit \u0022Kefluniañ &syncBrand.shortName.label;” war an trevnad ha neuze diuzit \u0022Ur gont am eus.\u0022">
+<!ENTITY sync.pair.connectlocation.label "Da weredekaat ho trevnad nevez, diuzit ”Kefluniañ &syncBrand.shortName.label;” war an trevnad ha neuze diuzit ”Ur gont am eus.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Dibarzhioù">
@@ -83,7 +83,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Lañser ar sinedoù">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "a">
 <!ENTITY bookmarks.folder.tags.label "Gerioù Alc\u0027hwez">
 <!ENTITY bookmarks.folder.toolbar.label "Barrenn ostilhoù ar sinedoù">
 <!ENTITY bookmarks.folder.unfiled.label "Sinedoù dirumm">
@@ -193,7 +193,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ezhomm ez eus gwiriañ ho kont. Stokit da gas ar postel gwiriañ en-dro.">
 <!ENTITY fxaccount_status_needs_credentials "N\u0027haller ket kennaskañ. Stokit d\u0027en em varilhañ.">
 <!ENTITY fxaccount_status_needs_upgrade "Ret eo deoc\u0027h hizivaat &brandShortName; d\u0027en em varilhañ.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0022houbred ket ent-emgefreet avat. Trec\u0022haolit an arventenn \u0022Goubredañ ar roadennoù emgefreek\u0022 e Arventennoù Android &gt; Arver ar roadennoù.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent-emgefreet avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_account_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent-emgefreet avat. Stokit da gregiñ gant ar goubredañ.">
 <!ENTITY fxaccount_status_bookmarks "Sinedoù">
 <!ENTITY fxaccount_status_history "Roll istor">

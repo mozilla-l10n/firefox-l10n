@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Gallout a rit ivez gweladenniñ">
-<!ENTITY support.link              "Skor &brandShortName;">
-<!ENTITY support.post2             "evit kaout muioc'h a ditouroù.">
+<!ENTITY support.pre3              "Gweladennit hol ">
+<!ENTITY support.link2             "lec'hienn skor">
+<!ENTITY support.post3             " evit kaout skoazell a-zivout ar c'hudennoù boas">
 
 <!ENTITY happy.header              "Plijus eo da glevout !">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Diwezhatoc'h marteze">
 <!ENTITY happy.noThanks            "Ket, trugarez">
 
+<!ENTITY sad.header                "N'eo ket gwir !">
 <!ENTITY sad.message               "Digarezit, kudennoù hoc'h eus bet gant &brandShortName;. Lavarit deomp petra zo c'hoarvezet evit e c'hellfemp reizhañ an traoù.">
 <!ENTITY sad.placeholder           "Roit ho meno amañ">
-<!ENTITY sad.lastSite              "Lec'hienn diwezhañ gweladennet (dibarzhel)">
+<!ENTITY sad.lastSite2             "Enderc'hel al lec'hiennoù diwezhañ gweladennet">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Trugarez da vezañ roet deomp ho meno.">
+<!ENTITY sad.thanksHeader2         "Trugarez.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Pe a-hend-all.">
 
-<!ENTITY feedback.privacy          "Evit ho tiogelroez, ne roit ket titouroù a c'hellfe hennadiñ ac'hanoc'h e-barzh ho meno.">
+<!ENTITY feedback.privacy2         "Evit gwareziñ ho puhez prevez, ne roit ket titouroù personel e-barzh ho meno.">
 <!ENTITY feedback.send             "Kas ho meno">
