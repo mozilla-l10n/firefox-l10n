@@ -255,6 +255,8 @@
 <!ENTITY reading_list_added "Página añadida a su lista de lectura">
 <!ENTITY reading_list_failed "Ha fallado la adición de esta página a su Lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
+<!ENTITY reading_list_time_minutes "&formatD;min">
+<!ENTITY reading_list_time_over_an_hour "Más de una hora">
 <!ENTITY page_action_dropmarker_description "Acciones adicionales">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
