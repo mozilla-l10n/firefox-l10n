@@ -3,6 +3,6 @@ duckduckgo
 google
 merlin-pl
 pwn-pl
+startpage-pl
 wikipedia-pl
 wolnelektury-pl
-wp-pl
