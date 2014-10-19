@@ -14,7 +14,7 @@
 <!ENTITY object.add.accesskey "D">
 
 <!ENTITY object.del.label "Usuń">
-<!ENTITY object.del.hint "Usuwa aktywny obiekt wraz ze wszyskimi jego preferencjami">
+<!ENTITY object.del.hint "Usuwa aktywny obiekt wraz ze wszystkimi jego preferencjami">
 <!ENTITY object.del.accesskey "U">
 
 <!ENTITY object.reset.label "Przywróć domyślne">
