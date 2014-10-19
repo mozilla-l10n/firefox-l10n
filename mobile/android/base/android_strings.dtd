@@ -122,7 +122,7 @@
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_privacy_summary "Håndtér adgangskoder, cookies, sporing, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQ\'er, datavalg">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQ&apos;er, datavalg">
 <!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_learn_more "Læs mere">
 <!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
@@ -439,7 +439,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "Hvor blev mine faneblade af?">
 <!ENTITY remote_tabs_panel_moved_desc "Vi har flyttet dine faneblade fra andre enheder ind på din startside, så du nemt kan få adgang til dem, hver gang du åbner et nyt faneblad.">
-<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
+<!ENTITY remote_tabs_panel_moved_link "Åbn min startside.">
 
 <!ENTITY pin_site_dialog_hint "Indtast søgeterm">
 

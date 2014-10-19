@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre3              "Besøg vores ">
-<!ENTITY support.link2             "Supportwebsted">
+<!ENTITY support.link2             "supportwebsted">
 <!ENTITY support.post3             " for at finde løsninger på almindeligt forekommende problemer.">
 
 <!ENTITY happy.header              "Det er fantastisk at høre!">
