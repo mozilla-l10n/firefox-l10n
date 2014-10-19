@@ -193,7 +193,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ezhomm ez eus gwiriañ ho kont. Stokit da gas ar postel gwiriañ en-dro.">
 <!ENTITY fxaccount_status_needs_credentials "N\u0027haller ket kennaskañ. Stokit d\u0027en em varilhañ.">
 <!ENTITY fxaccount_status_needs_upgrade "Ret eo deoc\u0027h hizivaat &brandShortName; d\u0027en em varilhañ.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c&apos;houbred ket ent-emgefreet avat. Trec&apos;haolit an arventenn \u0022Goubredañ ar roadennoù emgefreek\u0022 e Arventennoù Android &gt; Arver ar roadennoù.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0022houbred ket ent-emgefreet avat. Trec\u0022haolit an arventenn \u0022Goubredañ ar roadennoù emgefreek\u0022 e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_account_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent-emgefreet avat. Stokit da gregiñ gant ar goubredañ.">
 <!ENTITY fxaccount_status_bookmarks "Sinedoù">
 <!ENTITY fxaccount_status_history "Roll istor">
