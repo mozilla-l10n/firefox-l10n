@@ -415,6 +415,10 @@ size. -->
 <!ENTITY private_tabs_panel_empty_desc "Vos onglets de navigation privée apparaîtront ici. Bien que nous ne conservions aucun historique de navigation ni aucun cookie, les marque-pages et fichiers téléchargés seront conservés sur votre appareil.">
 <!ENTITY private_tabs_panel_learn_more "En savoir plus.">
 
+<!ENTITY remote_tabs_panel_moved_title "Où mes onglets sont-ils passés ?">
+<!ENTITY remote_tabs_panel_moved_desc "Nous avons déplacé les onglets de vos autres appareils au sein d\u0027un panneau de votre écran d\u0027accueil pour que vous puissiez y accéder facilement à chaque ouverture d\u0027un nouvel onglet.">
+<!ENTITY remote_tabs_panel_moved_link "Ouvrir le nouveau panneau.">
+
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
