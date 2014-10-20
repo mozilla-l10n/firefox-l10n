@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Einstellungen">
 <!ENTITY pref_category_advanced "Erweitert">
 <!ENTITY pref_category_customize "Anpassung">
+<!ENTITY pref_category_customize_summary "Startseite, Suche, Tabs, Import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Sprache">
+<!ENTITY pref_category_language_summary "Die Sprache des Browsers ändern">
 <!ENTITY pref_browser_locale "Sprache des Browsers">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Als Lesezeichen hinzufügen">
 <!ENTITY overlay_share_reading_list_btn_label "Zur Leseliste hinzufügen">
+<!ENTITY overlay_share_bookmark_btn_label_already "Bereits als Lesezeichen hinzugefügt">
+<!ENTITY overlay_share_reading_list_btn_label_already "Bereits zur Leseliste hinzugefügt">
 <!ENTITY overlay_share_send_other "An anderes Gerät senden">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Suche">
 <!ENTITY pref_category_search_summary "Suchmaschinen auswählen">
 <!ENTITY pref_category_display "Ansicht">
+<!ENTITY pref_category_display_summary "Text, Titelleiste, Vollbildmodus">
 <!ENTITY pref_category_privacy_short "Privatsphäre">
+<!ENTITY pref_category_privacy_summary "Passwörter, Cookies, Verfolgung und Daten kontrollieren">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Über &brandShortName;, häufig gestellte Fragen, Datenübermittlung">
 <!ENTITY pref_category_datareporting "Datenübermittlung">
 <!ENTITY pref_learn_more "Weitere Informationen">
 <!ENTITY pref_category_installed_search_engines "Installierte Suchmaschinen">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: Sie können die Suche jeder beliebigen Seite zu Ihren Suchmaschinen hinzufügen, indem Sie lang auf das Suchfeld drücken und anschließend das &formatI;-Symbol antippen.">
 <!ENTITY pref_category_devtools "Entwicklerwerkzeuge">
+<!ENTITY pref_category_devtools_summary "Externes Debugging, Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_paint_flashing "Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_remotedebugging "Externes Debugging">
 <!ENTITY pref_remember_signons "Passwörter speichern">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
 <!ENTITY pref_clear_private_data2 "Jetzt löschen">
 <!ENTITY pref_clear_private_data_category "Private Daten löschen">
-<!ENTITY pref_clear_on_exit_title "Beim Beenden immer löschen">
+<!ENTITY pref_clear_on_exit_title2 "Beim Beenden löschen">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; löscht die Daten automatisch beim Verwenden der Funktion \u0022Beenden\u0022 aus dem Hauptmenü.">
 <!ENTITY pref_clear_on_exit_dialog_title "Zu löschende Daten auswählen">
 <!ENTITY pref_plugins "Plugins">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synchronisation von Tabs, Lesezeichen, Passwörtern und Chronik">
 <!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 <!ENTITY pref_import_android "Import aus Android">
+<!ENTITY pref_import_android_summary "Lesezeichen und Chronik aus dem Standardbrowser importieren">
 <!ENTITY pref_private_data_history2 "Chronik">
 <!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; Aktive Logins">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Absturzmelder">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-Standortdienst">
-<!ENTITY datareporting_wifi_geolocation_summary "Läuft im Hintergrund und empfängt Informationen zu Standorten von WLANs und Mobilfunkmasten und gibt diese an &vendorShortName; weiter, um den Standortdienst zu verbessern.">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Teilt ungefähre Standorte von WLANs und Mobilfunkinformationen Ihres Gerätes an &vendorShortName; mit, um unseren Standortdienst zu verbessern.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sync">
 <!ENTITY set_image_fail "Kann Grafik nicht verwenden">
+<!ENTITY set_image_path_fail "Kann Grafik nicht speichern">
 <!ENTITY set_image_chooser_title "Grafik verwenden">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Nach oben zu &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synchronisierte Tabs">
+<!ENTITY home_remote_tabs_empty "Ihre Tabs von anderen Geräten werden hier angezeigt.">
+<!ENTITY home_remote_tabs_unable_to_connect "Verbindung fehlgeschlagen">
+<!ENTITY home_remote_tabs_need_to_sign_in "Bitte melden Sie sich an, um wieder mit Ihrem Firefox-Konto zu verbinden und die Synchronisation wieder aufzunehmen.">
+<!ENTITY home_remote_tabs_trouble_verifying "Probleme beim Verifzieren Ihres Kontos?">
+<!ENTITY home_remote_tabs_need_to_verify "Bitte verifizieren Sie Ihr Firefox-Konto, um mit dem Synchronisieren zu beginnen.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "Ausgeblendete Geräte: 1">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Ausgeblendete Geräte: &formatD;">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Ausgeblendete Geräte">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Ausgewählte Geräte nicht mehr ausblenden">
+
 <!ENTITY private_browsing_title "Privater Modus">
 <!ENTITY private_tabs_panel_empty_desc "Die privaten Tabs werden hier angezeigt. Während die Browser-Chronik und Cookies nicht gespeichert werden, bleiben Lesezeichen und heruntergeladene Dateien auf dem Gerät erhalten.">
 <!ENTITY private_tabs_panel_learn_more "Weitere Informationen">
+
+<!ENTITY remote_tabs_panel_moved_title "Wo sind meine Tabs jetzt?">
+<!ENTITY remote_tabs_panel_moved_desc "Ihre Tabs von anderen Geräten werden jetzt in einer Ansicht auf der Startseite angezeigt. Dadurch können Sie auf diese in jedem neuen Tab schnell zugreifen.">
+<!ENTITY remote_tabs_panel_moved_link "Die neue Ansicht öffnen">
 
 <!ENTITY pin_site_dialog_hint "Geben Sie einen Suchbegriff ein">
 
@@ -472,6 +506,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Update für &brandShortName; verfügbar">
 <!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Starten Sie zur Übernahme der Änderungen den Browser neu.">
+<!ENTITY new_tablet_pref "Neue Benutzeroberfläche für Tablets aktivieren">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Neue Gastsitzung">
 <!ENTITY exit_guest_session "Gastsitzung beenden">
@@ -479,6 +519,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Abbrechen">
 <!ENTITY new_guest_session_title "&brandShortName; startet jetzt neu">
 <!ENTITY new_guest_session_text "Die Person wird keine persönlichen Browser-Daten (wie gespeicherte Passwörter, Chronik oder Lesezeichen) sehen.\n\nNachdem der Gast mit dem Surfen fertig ist, werden seine Browser-Daten gelöscht und Ihre Sitzung wiederhergestellt.">
+<!ENTITY guest_browsing_notification_title "Gastmodus ist aktiv">
+<!ENTITY guest_browsing_notification_text "Zum Beenden antippen">
 
 <!ENTITY exit_guest_session_title "&brandShortName; startet jetzt neu">
 <!ENTITY exit_guest_session_text "Die Browser-Daten der letzten Sitzung werden gelöscht.">

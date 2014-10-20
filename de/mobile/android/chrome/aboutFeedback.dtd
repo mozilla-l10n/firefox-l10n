@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Sie können auch die ">
-<!ENTITY support.link              "Hilfeseite für &brandShortName;">
-<!ENTITY support.post2             " besuchen, um mehr Informationen zu erhalten.">
+<!ENTITY support.pre3              "Besuchen Sie unsere ">
+<!ENTITY support.link2             "Hilfeseite">
+<!ENTITY support.post3             ", um Lösungen für häufig auftretende Probleme zu finden.">
 
 <!ENTITY happy.header              "Schön, das zu hören!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Vielleicht später">
 <!ENTITY happy.noThanks            "Nein, danke">
 
+<!ENTITY sad.header                "Oh nein!">
 <!ENTITY sad.message               "Es tut uns leid, dass Sie bei der Benutzung von &brandShortName; auf Probleme gestoßen sind. Bitte sagen Sie uns, was passiert ist, sodass wir dies beheben können.">
 <!ENTITY sad.placeholder           "Geben Sie Ihr Feedback hier ein">
-<!ENTITY sad.lastSite              "Zuletzt besuchte Seite (optional)">
+<!ENTITY sad.lastSite2             "Zuletzt besuchte Seite mitteilen">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Vielen Dank für Ihre Mitteilung.">
+<!ENTITY sad.thanksHeader2         "Vielen Dank.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "Zum Schutz Ihrer Privatsphäre sollten Sie keine Sie identifizierenden Informationen in Ihrem Feedback angeben.">
+<!ENTITY feedback.privacy2         "Zum Schutz Ihrer Privatsphäre sollten Sie keine persönlichen Informationen in Ihrem Feedback angeben.">
 <!ENTITY feedback.send             "Feedback absenden">
