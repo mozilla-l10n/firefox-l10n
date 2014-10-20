@@ -183,7 +183,7 @@
 <!ENTITY pref_char_encoding_off "Masquer le menu">
 <!ENTITY pref_clear_private_data2 "Effacer maintenant">
 <!ENTITY pref_clear_private_data_category "Effacer mes traces">
-<!ENTITY pref_clear_on_exit_title "Effacer à la fermeture">
+<!ENTITY pref_clear_on_exit_title2 "Effacer à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
@@ -267,7 +267,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Rapports de plantage">
 <!ENTITY datareporting_wifi_title2 "Service de localisation de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Enregistre les positions des réseaux Wi-Fi et cellulaires lorsqu\u0027exécuté en arrière-plan et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Enregistre les positions approximatives des réseaux Wi-Fi et cellulaires détectés et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -366,6 +366,12 @@ size. -->
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
 <!ENTITY reading_list_duplicate "Page déjà dans votre liste de lecture">
 
+<!-- Localization note (reading_list_time_minutes) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Plus d\u0027une heure">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Actions supplémentaires">
@@ -414,6 +420,10 @@ size. -->
 <!ENTITY private_browsing_title "Navigation privée">
 <!ENTITY private_tabs_panel_empty_desc "Vos onglets de navigation privée apparaîtront ici. Bien que nous ne conservions aucun historique de navigation ni aucun cookie, les marque-pages et fichiers téléchargés seront conservés sur votre appareil.">
 <!ENTITY private_tabs_panel_learn_more "En savoir plus.">
+
+<!ENTITY remote_tabs_panel_moved_title "Où mes onglets sont-ils passés ?">
+<!ENTITY remote_tabs_panel_moved_desc "Nous avons déplacé les onglets de vos autres appareils au sein d\u0027un panneau de votre écran d\u0027accueil pour que vous puissiez y accéder facilement à chaque ouverture d\u0027un nouvel onglet.">
+<!ENTITY remote_tabs_panel_moved_link "Ouvrir le nouveau panneau.">
 
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
