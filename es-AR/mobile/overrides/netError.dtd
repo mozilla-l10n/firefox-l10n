@@ -13,17 +13,23 @@
 <!ENTITY connectionFailure.title "No se puede conectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Verificá si la dirección no tiene errores de tipeo como
   <strong>ww</strong>.ejemplo.com en lugar de
   <strong>www</strong>.ejemplo.com</li>
-  <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.     		<button id='wifi'>Habilitar Wi-Fi</button>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.
+    <button id='wifi'>Enable Wi-Fi</button>
   </li>
 </ul>
 ">
@@ -42,19 +48,31 @@
 ">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>Las direcciones web por lo general se escriben como <strong>http://www.ejemplo.com/</strong></li>
-  <li>Asegurate de estar usando las barras diagonales (ej. <strong>/</strong>).</li>
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Las direcciones web por lo general se escriben como
+    <strong>http://www.ejemplo.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Asegurate de estar usando las barras diagonales (ej.
+    <strong>/</strong>).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
+
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en el caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar documentos sensibles automáticamente.</li><li>Haga clic en Intentar nuevamente para solicitar el documento de nuevo al sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Probá nuevamente. &brandShortName; intentará abrir una conexión y recargar la página.
@@ -97,11 +115,13 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Verificá las opciones de proxy para confirmar que sean correctas.</li>
   <li>Asegurate que tu dispositivo tenga una conexión de datos o Wi-Fi en funcionamiento.
-     <button id='wifi'>Habilitar Wi-Fi</button>
+    <button id='wifi'>Habilitar Wi-Fi</button>
   </li>
 </ul>
 ">
@@ -136,12 +156,14 @@ alguien tratando de hacerse pasar por el servidor.</li>
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Quizás el sitio no está disponible temporalmente o está sobrecargado. Intentá nuevamente dentro de unos momentos.</li>
   <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo móvil.
     <button id='wifi'>Habilitar Wi-Fi</button>
-</li>
+  </li>
 </ul>
 ">
 
