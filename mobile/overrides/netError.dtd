@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fehler: Server nicht gefunden">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
     <strong>ww</strong>.example.com statt
     <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Suchen</button>
+    </div>
   <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung.
     <button id='wifi'>WLAN aktivieren</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Fehler: Ungültige Adresse">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Web-Adressen sehen für gewöhnlich folgendermaßen aus:
     <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Suchen</button>
+    </div>
   <li>Bitte stellen Sie sicher, dass Sie nicht den umgekehrten,
     sondern den einfachen Schrägstrich verwenden (<strong>/</strong>).</li>
 </ul>
@@ -59,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fordert &brandShortName; nicht automatisch vertrauliche Dokumente erneut an.</li><li>Klicken Sie auf &quot;Nochmals versuchen&quot;, um das Dokument erneut anzufordern.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-Modus">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Probieren Sie es erneut. &brandShortName; wird versuchen, eine Verbindung zu öffnen und die Seite neu zu laden.
@@ -104,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Fehler: Proxy-Server nicht gefunden">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.</li>
@@ -148,6 +164,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Die Website könnte vorübergehend nicht erreichbar oder überlastet sein, versuchen Sie es bitte später nochmals.</li>
