@@ -267,7 +267,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Rapports de plantage">
 <!ENTITY datareporting_wifi_title2 "Service de localisation de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Enregistre les positions des réseaux Wi-Fi et cellulaires lorsqu\u0027exécuté en arrière-plan et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Enregistre les positions approximatives des réseaux Wi-Fi et cellulaires détectés et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
