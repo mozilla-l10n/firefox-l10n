@@ -183,7 +183,7 @@
 <!ENTITY pref_char_encoding_off "Masquer le menu">
 <!ENTITY pref_clear_private_data2 "Effacer maintenant">
 <!ENTITY pref_clear_private_data_category "Effacer mes traces">
-<!ENTITY pref_clear_on_exit_title "Effacer à la fermeture">
+<!ENTITY pref_clear_on_exit_title2 "Effacer à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
