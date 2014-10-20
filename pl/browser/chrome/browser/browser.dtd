@@ -140,14 +140,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "Udostępnij tę stronę">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "U">
-<!ENTITY shareLinkCmd.label "Udostępnij ten odnośnik">
-<!ENTITY shareLinkCmd.accesskey "U">
-<!ENTITY shareImageCmd.label "Udostępnij ten obrazek">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Udostępnij zaznaczenie">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Udostępnij to wideo">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY shareLink.label "Udostępnij ten odnośnik">
+<!ENTITY shareLink.accesskey "U">
+<!ENTITY shareImage.label "Udostępnij ten obrazek">
+<!ENTITY shareImage.accesskey "s">
+<!ENTITY shareSelect.label "Udostępnij zaznaczenie">
+<!ENTITY shareSelect.accesskey "s">
+<!ENTITY shareVideo.label "Udostępnij to wideo">
+<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "Subskrybuj">
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
