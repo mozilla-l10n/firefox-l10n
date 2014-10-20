@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace Marc'had Firefox
+#define bookmarks_marketplace Marketplace Firefox
 
 
 
