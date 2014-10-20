@@ -484,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "郵寄視訊…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "將影片傳送到裝置">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "郵寄音訊…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "啟用此外掛程式">
@@ -697,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "現在不要">
 
-<!ENTITY social.directory.label "可啟用項目的目錄">
+<!ENTITY social.directory.label "可啟用項目">
 <!ENTITY social.directory.text "您可於目錄中啟用分享服務。">
 <!ENTITY social.directory.button "帶我到那邊去！">
 <!ENTITY social.directory.introText "點擊任一個服務以將其新增到 &brandShortName;。">
