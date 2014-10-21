@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Varat apskatīt arī ">
-<!ENTITY support.link              "&brandShortName; atbalsta lapu">
-<!ENTITY support.post2             ", lai iegūtu vairāk informācijas.">
+<!ENTITY support.pre3              "Apskatiet arī mūsu">
+<!ENTITY support.link2              "atbalsta lapu">
+<!ENTITY support.post3             ", lai atrastu atbildes uz tipiskākajām problēmām.">
 
 <!ENTITY happy.header              "Prieks dzirdēt!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Varbūt vēlāk">
 <!ENTITY happy.noThanks            "Nē, paldies">
 
+<!ENTITY sad.header                "Ak, nē!">
 <!ENTITY sad.message               "Mums žēl, ka tev gadījās ķibele ar &brandShortName;. Lūdzu, pastāsti, kas notika, lai mēs varētu to salabot.">
 <!ENTITY sad.placeholder           "Raksti atsauksmi te">
-<!ENTITY sad.lastSite              "Pēdējā apmeklētā lapa (nav obligāta)">
+<!ENTITY sad.lastSite2             "Iekļaut pēdējo apmeklēto lapu">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Paldies par ziņojumu!">
+<!ENTITY sad.thanksHeader2          "Paldies par ziņojumu.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "Lai pasargātu savu privātumu, lūdzu, nenorādiet personisku informāciju šajā atsauksmē.">
+<!ENTITY feedback.privacy2          "Lai pasargātu savu privātumu, lūdzu, nenorādiet personisku informāciju šajā atsauksmē.">
 <!ENTITY feedback.send             "Nosūtīt atsauksmi">
