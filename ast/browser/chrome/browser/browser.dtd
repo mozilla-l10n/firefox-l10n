@@ -574,3 +574,25 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY badContentBlocked.moreinfo "La mayoría de los sitios web van funcionar correutamente inclusu si se bloquia'l conteníu.">
+<!ENTITY webapps.label "Aplicaciones">
+<!ENTITY webapps.accesskey "p">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar proteición nesti sitiu">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
+<!ENTITY social.directory.viewmore.text "Ver más">
+<!ENTITY social.directory.text "Pues activar servicios de compartición del direutoriu.">
+<!ENTITY social.directory.label "Direutoriu d'activaciones">
+<!ENTITY social.directory.introText "Primi nun serviciu p'amestalu a &brandShortName;.">
+<!ENTITY social.directory.button "¡Llévame ellí!">
+<!ENTITY shareVideo.label "Compartir esti videu">
+<!ENTITY shareVideo.accesskey "m">
+<!ENTITY shareSelect.label "Compartir seleición">
+<!ENTITY shareSelect.accesskey "m">
+<!ENTITY shareLink.label "Compartir esti enllaz">
+<!ENTITY shareLink.accesskey "n">
+<!ENTITY shareImage.label "Compartir esta imaxe">
+<!ENTITY shareImage.accesskey "m">
+<!ENTITY findShareServices.label "Alcontrar más servicios de compartición…">
+<!ENTITY customizeMode.deveditionTheme.label "Usar el tema &brandShortName;">
+<!ENTITY castVideoCmd.label "Unviar videu al preséu">
+<!ENTITY castVideoCmd.accesskey "U">
