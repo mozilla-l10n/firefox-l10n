@@ -122,7 +122,7 @@
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_privacy_summary "Håndtér adgangskoder, cookies, sporing, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQ&apos;er, datavalg">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQ\'er, datavalg">
 <!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_learn_more "Læs mere">
 <!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
