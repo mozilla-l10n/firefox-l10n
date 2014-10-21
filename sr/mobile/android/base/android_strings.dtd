@@ -139,7 +139,7 @@
 <!ENTITY pref_category_devtools "Алати за развој">
 <!ENTITY pref_category_devtools_summary "Удаљено отклањање грешака, трепћућа боја">
 <!ENTITY pref_developer_paint_flashing "Трепћућа боја">
-<!ENTITY pref_developer_remotedebugging "Удаљено отклањање грешака">
+<!ENTITY pref_developer_remotedebugging "Отклањање грешака">
 <!ENTITY pref_remember_signons "Запамти лозинку">
 
 <!ENTITY pref_category_home "Почетна">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Немој приказати мени">
 <!ENTITY pref_clear_private_data2 "Обриши">
 <!ENTITY pref_clear_private_data_category "Обриши приватне податке">
-<!ENTITY pref_clear_on_exit_title2 "Избриши при изласку">
+<!ENTITY pref_clear_on_exit_title2 "Обриши при изласку">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати Ваше податке сваки пут када изаберете Изађи из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се обришу">
 <!ENTITY pref_plugins "Прикључци">
@@ -190,7 +190,7 @@
 <!ENTITY pref_plugins_tap_to_play "Притисните">
 <!ENTITY pref_plugins_disabled "Онемогућени">
 <!ENTITY pref_text_size "Величина текста">
-<!ENTITY pref_reflow_on_zoom4 "Промена форматирања текста">
+<!ENTITY pref_reflow_on_zoom4 "Форматирање текста">
 <!ENTITY pref_restore "Језичци">
 <!ENTITY pref_restore_always "Увек обнови">
 <!ENTITY pref_restore_quit "Немој обновити наком затварања &brandShortName;">
@@ -290,7 +290,7 @@ size. -->
 <!ENTITY share_image_failed "Не могу поделити ову слику">
 <!ENTITY save_as_pdf "Сними као PDF">
 <!ENTITY find_in_page "Пронађи на страници">
-<!ENTITY desktop_mode "Захтевај сајт и десктоп режиму">
+<!ENTITY desktop_mode "Захтевај десктоп сајт">
 <!ENTITY page "Страница">
 <!ENTITY tools "Алати">
 <!ENTITY new_tab "Нови језичак">
@@ -340,7 +340,7 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Прегледање у режиму преко целог екрана">
+<!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
 <!ENTITY pref_scroll_title_bar_summary "Сакрива &brandShortName; насловну траку док скролујете">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
