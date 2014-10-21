@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Papildinājumi">
 <!ENTITY aboutAddons.header2                    "Jūsu papildinājumi">
 <!ENTITY aboutAddons.options                    "Iestatījumi">
-<!ENTITY aboutAddons.browseAll                  "Apskatīt visus Firefox papildinājumus">
 
 <!ENTITY addonAction.enable                     "Aktivēt">
 <!ENTITY addonAction.disable                    "Deaktivēt">
