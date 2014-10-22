@@ -1,138 +1,69 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-<!ENTITY windowTitle "WebIDE de Firefox">
+title_noApp=WebIDE de Firefox
+title_app=WebIDE de Firefox: %S
 
-<!ENTITY projectMenu_label "Proyecto">
-<!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Nueva App…">
-<!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Abrir App empaquetada…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Abrir App hospedada…">
-<!ENTITY projectMenu_importHostedApp_accesskey "H">
-<!ENTITY projectMenu_selectApp_label "Abrir App…">
-<!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "Instalar y ejecutar">
-<!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Detener App">
-<!ENTITY projectMenu_stop_accesskey "S">
-<!ENTITY projectMenu_debug_label "Depurar App">
-<!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Remover proyecto">
-<!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "Preferencias">
-<!ENTITY projectMenu_showPrefs_accesskey "e">
+runtimeButton_label=Seleccionar tiempo de ejecución
+projectButton_label=Abrir App
 
-<!ENTITY runtimeMenu_label "Tiempo de ejecución">
-<!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Desconectar">
-<!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabla de permisos">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
-<!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-<!ENTITY runtimeMenu_showDetails_label "Info del tiempo de ejecución">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+mainProcess_label=Proceso principal
 
-<!ENTITY viewMenu_label "Vista">
-<!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Cambiar editor">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Administrar simuladores">
-<!ENTITY viewMenu_showAddons_accesskey "M">
+local_runtime=Tiempo de ejecución local
+remote_runtime=Tiempo de ejecución remoto
+remote_runtime_promptTitle=Tiempo de ejecución remoto
+remote_runtime_promptMessage=nombreservidor:puerto
 
-<!ENTITY projectButton_label "Abrir App">
-<!ENTITY runtimeButton_label "Seleccionar entorno de ejecución">
+importPackagedApp_title=Seleccionar directorio
+importHostedApp_title=Abrir App hospedada
+importHostedApp_header=Ingresar URL del Manifest
 
-<!-- We try to repicate Firefox' bindings: -->
-<!-- quit app -->
-<!ENTITY key_quit "W">
-<!-- open menu -->
-<!ENTITY key_showProjectPanel "O">
-<!-- reload app -->
-<!ENTITY key_play "R">
-<!-- show toolbox -->
-<!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
+notification_showTroubleShooting_label=solución de errores
+notification_showTroubleShooting_accesskey=t
 
-<!ENTITY projectPanel_myProjects "Mis proyectos">
-<!ENTITY projectPanel_runtimeApps "Aplicaciones del tiempo de ejecución">
-<!ENTITY runtimePanel_USBDevices "Dispositivos USB">
-<!ENTITY runtimePanel_WiFiDevices "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simuladores">
-<!ENTITY runtimePanel_custom "Personalizado">
-<!ENTITY runtimePanel_installsimulator "Instalar simulador">
-<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
-<!ENTITY runtimePanel_nousbdevice "¿No puede ver su dispositivo?">
+# LOCALIZATION NOTE (project_tab_loading): This is shown as a temporary tab
+# title for browser tab projects when the tab is still loading.
+project_tab_loading=Cargando…
 
-<!-- Lense -->
-<!ENTITY details_valid_header "válido">
-<!ENTITY details_warning_header "advertencias">
-<!ENTITY details_error_header "errores">
-<!ENTITY details_description "Descripción">
-<!ENTITY details_location "Ubicación">
-<!ENTITY details_manifestURL "ID de App">
-<!ENTITY details_removeProject_button "Remover proyecto">
+# These messages appear in a notification box when an error occur.
 
-<!-- New App -->
-<!ENTITY newAppWindowTitle "Nueva App">
-<!ENTITY newAppHeader "Seleccionar plantilla">
-<!ENTITY newAppLoadingTemplate "Cargando plantillas…">
-<!ENTITY newAppProjectName "Nombre del proyecto:">
+error_cantInstallNotFullyConnected=No se puede instalar el proyecto. No se esta completamente conectado.
+error_cantInstallValidationErrors=No se puede instalar el proyecto. Errores de validación
+error_listRunningApps=No se puede obtener la lista de apps desde el dispositivo
 
+# Variable: name of the operation (in english)
+error_operationTimeout=Tiempo de espera de la operación agotado: %1$S
+error_operationFail=Falló la operación: %1$S
 
-<!-- Decks -->
+# Variable: app name
+error_cantConnectToApp=No se puede conectar a la app: %1$S
 
-<!ENTITY deck_close "Cerrar">
+# Variable: error message (in english)
+error_cantFetchAddonsJSON=No se puede obtener la lista de complementos: %S
 
-<!-- Addons -->
-<!ENTITY addons_title "Componentes extra">
-<!ENTITY addons_aboutaddons "Abrir Administrador de complementos">
+addons_stable=estable
+addons_unstable=inestable
+addons_simulator_label=Simulador de Firefox OS %1$S (%2$S)
+addons_install_button=instalar
+addons_uninstall_button=desinstalar
+addons_adb_label=Complemento ADB Helper
+addons_adb_warning=Los dispositivos USB no serán detectados sin este complemento
+addons_status_unknown=?
+addons_status_installed=Instalado
+addons_status_uninstalled=No instalado
+addons_status_preparing=preparando
+addons_status_downloading=descargando
+addons_status_installing=instalando
 
-<!-- Prefs -->
-<!ENTITY prefs_title "Preferencias">
-<!ENTITY prefs_editor_title "Editor">
-<!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restaurar predeterminados">
-<!ENTITY prefs_simulators "Administrar simuladores">
-<!ENTITY prefs_options_enablelocalruntime "Activar tiempo de ejecución local">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permitir a WebIDE conectarse a su propio tiempo de ejecución (instancia de navegación ejecutándose)">
-<!ENTITY prefs_options_rememberlastproject "Recordar el último proyecto">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar proyecto anterior cuando WebIDE se inicie">
-<!ENTITY prefs_options_templatesurl "URL de plantillas">
-<!ENTITY prefs_options_templatesurl_tooltip "Índice de plantillas disponibles">
-<!ENTITY prefs_options_showeditor "Mostrar editor">
-<!ENTITY prefs_options_showeditor_tooltip "Mostrar editor interno">
-<!ENTITY prefs_options_tabsize "Tamaño de la pestaña">
-<!ENTITY prefs_options_expandtab "Pestañas suaves">
-<!ENTITY prefs_options_expandtab_tooltip "Usar espacios en lugar del caracter de tabulación">
-<!ENTITY prefs_options_detectindentation "Sangría automática">
-<!ENTITY prefs_options_detectindentation_tooltip "Adivinar sangría basándose en el contenido de la fuente">
-<!ENTITY prefs_options_autocomplete "Autocompletar">
-<!ENTITY prefs_options_autocomplete_tooltip "Activar autocompletación de código">
-<!ENTITY prefs_options_autoclosebrackets "Autocerrar corchetes">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automáticamente insertar corchetes de cierre">
-<!ENTITY prefs_options_keybindings "Combinaciones de teclas">
-<!ENTITY prefs_options_keybindings_default "Por defecto">
+runtimedetails_checkno=no
+runtimedetails_checkyes=si
+runtimedetails_checkunkown=desconocido
+runtimedetails_notUSBDevice=No es un dispositivo USB
 
-<!-- Permissions Table -->
-<!ENTITY permissionstable_title "Tabla de permisos">
-<!ENTITY permissionstable_name_header "Nombre">
-
-<!-- Runtime Details -->
-<!ENTITY runtimedetails_title "Info del tiempo de ejecución">
-<!ENTITY runtimedetails_adbIsRoot "ADB es root: ">
-<!ENTITY runtimedetails_summonADBRoot "rootear dispositivo">
-<!ENTITY runtimedetails_ADBRootWarning "(requiere bootloader desbloqueado)">
-<!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "solicitar requisitos elevados">
-<!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Requiere acceso de root.)">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ayuda">
+# Validation status
+status_tooltip=Estado de validación: %1$S
+status_valid=VALIDO
+status_warning=ADVERTENCIAS
+status_error=ERRORES
+status_unknown=DESCONOCIDO
