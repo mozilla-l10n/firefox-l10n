@@ -93,6 +93,8 @@ The locale includes both language and region concepts. -->
 <!ENTITY overlay_share_bookmark_btn_label "Dodaj zakładkę">
 <!ENTITY overlay_share_reading_list_btn_label "Dodaj do listy „Do przeczytania”">
 <!ENTITY overlay_share_label "Przekaż do przeglądarki &brandShortName;">
+<!ENTITY overlay_share_bookmark_btn_label_already "Zakładka już istnieje">
+<!ENTITY overlay_share_reading_list_btn_label_already "Strona jest już zachowana na później">
 <!ENTITY overlay_share_send_other "Przekaż do innych urządzeń">
 
 <!ENTITY overlay_share_send_tab_btn_label "Przekaż do innego urządzenia">
