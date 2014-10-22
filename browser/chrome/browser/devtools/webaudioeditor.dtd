@@ -37,4 +37,4 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
 
-<!ENTITY webAudioEditorUI.propertiesEmpty "Node does not have any properties.">
+<!ENTITY webAudioEditorUI.propertiesEmpty "Níl aon airíonna ag an nód.">

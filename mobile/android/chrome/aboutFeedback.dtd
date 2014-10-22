@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2 "Nó is féidir cuairt a thabhairt ar ">
-<!ENTITY support.link "Tacaíocht &brandShortName;">
-<!ENTITY support.post2 " chun tuilleadh eolais a fháil.">
+<!ENTITY support.pre3 "Tabhair cuairt ar ár ">
+<!ENTITY support.link2 "Suíomh Tacaíochta">
+<!ENTITY support.post3 " chun freagraí ar cheisteanna coitianta a fháil.">
 
 <!ENTITY happy.header "Cuireann sé sin gliondar ar ár gcroí!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2 "Ar ball">
 <!ENTITY happy.noThanks "Níl">
 
+<!ENTITY sad.header "Ochón!">
 <!ENTITY sad.message "Tá brón orainn go raibh fadhb agat le &brandShortName;. Abair linn cad é a bhí briste agus deiseoimid é más féidir.">
 <!ENTITY sad.placeholder "Cuir do chuid aiseolais anseo">
-<!ENTITY sad.lastSite "An suíomh a raibh tú ann (roghnach)">
+<!ENTITY sad.lastSite2 "Include last visited site">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "Go raibh maith agat as seo.">
+<!ENTITY sad.thanksHeader2 "Go raibh maith agat.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom "Tugaimid an leabhar ann.">
 
-<!ENTITY feedback.privacy "Bí cinnte nach bhfuil aon fhaisnéis inaitheanta phearsanta i do chuid aiseolais.">
+<!ENTITY feedback.privacy2 "For your privacy, please do not include any personal information in your feedback.">
 <!ENTITY feedback.send "Tabhair Aiseolas">

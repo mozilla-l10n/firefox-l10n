@@ -28,7 +28,7 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label "Meabhraigh Focail Fhaire">
 <!ENTITY optionsHeader.displayOverlayButtons.label "Taispeáin Cnaipí Nascleanúna">
-<!ENTITY doNotTrack.title "Ná Lorg">
+<!ENTITY doNotTrack.title "Ná Rianaigh">
 <!ENTITY doNotTrack.options.doNotTrack "Inis do shuímh gan mise a rianú">
 <!ENTITY doNotTrack.options.doTrack "Inis do shuímh gur mhaith liom a bheith rianaithe">
 <!ENTITY doNotTrack.options.default "Ná inis faoi do shuímh maidir le rianú">

@@ -91,7 +91,7 @@
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label2 "Disable Cache (when toolbox is open)">
+<!ENTITY options.disableCache.label2 "Díchumasaigh an Taisce (nuair a bhíonn an bosca uirlisí oscailte)">
 <!ENTITY options.disableCache.tooltip2 "Turning this option on will disable the cache for all tabs that have the toolbox open.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -108,7 +108,7 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
 
-<!ENTITY options.selectEnabledToolboxButtons.label "Available Toolbox Buttons">
+<!ENTITY options.selectEnabledToolboxButtons.label "Cnaipí Bosca Uirlisí atá ar fáil">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -137,7 +137,7 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label "Taispeáin na bunfhoinsí">
-<!ENTITY options.stylesheetSourceMaps.tooltip "Show original sources (e.g. Sass files) in the Style Editor and Inspector">
+<!ENTITY options.stylesheetSourceMaps.tooltip "Taispeáin na bunfhoinsí (m.sh. comhaid Sass) san Eagarthóir Stíle agus sa Scrúdaitheoir">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
