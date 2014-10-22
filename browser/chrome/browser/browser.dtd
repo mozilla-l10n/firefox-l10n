@@ -486,6 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label "Odeslat obrázek…">
 <!ENTITY emailImageCmd.accesskey "e">
 <!ENTITY emailVideoCmd.label "Odeslat video…">
+<!ENTITY castVideoCmd.label           "Odeslat video do zařízení">
+<!ENTITY castVideoCmd.accesskey       "t">
 <!ENTITY emailVideoCmd.accesskey "e">
 <!ENTITY emailAudioCmd.label "Odeslat audio…">
 <!ENTITY emailAudioCmd.accesskey "e">

@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2 "Pro více informací též můžete navštívit ">
-<!ENTITY support.link "podporu aplikace &brandShortName;">
-<!ENTITY support.post2 ".">
+<!ENTITY support.pre3              "Navštivte náš ">
+<!ENTITY support.link2             "web podpory">
+<!ENTITY support.post3             ", kde naleznete informace o nejčastějších problémech.">
 
 <!ENTITY happy.header "Tak to nás těší!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2 "Možná později">
 <!ENTITY happy.noThanks "Ne, díky">
 
+<!ENTITY sad.header                "Ale ne!">
 <!ENTITY sad.message "Je nám líto, že jste s aplikací &brandShortName; narazili na problém. Dejte nám prosím vědět, co se stalo.">
 <!ENTITY sad.placeholder "Popis problému">
-<!ENTITY sad.lastSite "Stránka s problémem (volitelné)">
+<!ENTITY sad.lastSite2             "Zahrnout poslední navštívenou stránku">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "Díky za odeslání popisu.">
+<!ENTITY sad.thanksHeader2         "Děkujeme.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom "">
 
-<!ENTITY feedback.privacy "Z důvodů ochrany vašeho soukromí nevkládejte prosím do hodnocení žádné osobní informace.">
+<!ENTITY feedback.privacy2         "Z důvodů ochrany vašeho soukromí nevkládejte prosím do hodnocení žádné osobní informace.">
 <!ENTITY feedback.send "Odeslat hodnocení">
