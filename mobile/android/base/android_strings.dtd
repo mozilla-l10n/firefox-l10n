@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Nastavení">
 <!ENTITY pref_category_advanced "Rozšířené">
 <!ENTITY pref_category_customize "Přizpůsobení">
+<!ENTITY pref_category_customize_summary "Úvodní stránka, vyhledávání, panely, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Jazyk">
+<!ENTITY pref_category_language_summary "Změna jazyka prohlížeče">
 <!ENTITY pref_browser_locale "Jazyk prohlížeče">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Záložka">
 <!ENTITY overlay_share_reading_list_btn_label "Přidat do Seznamu ke čtení">
+<!ENTITY overlay_share_bookmark_btn_label_already "Již byla přidána">
+<!ENTITY overlay_share_reading_list_btn_label_already "Již se v Seznamu pro čtení nachází">
 <!ENTITY overlay_share_send_other "Odeslat do jiného zařízení">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Vyhledávání">
 <!ENTITY pref_category_search_summary "Přizpůsobte si své vyhledávací moduly">
 <!ENTITY pref_category_display "Zobrazení">
+<!ENTITY pref_category_display_summary "Text, titulek okna, prohlížení v režimu celé obrazovky">
 <!ENTITY pref_category_privacy_short "Soukromí">
+<!ENTITY pref_category_privacy_summary "Správa hesel, cookies, sledování a dat">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "O aplikaci &brandShortName;, FAQ, FAQs, možnosti hlášení">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
 <!ENTITY pref_learn_more "Zjistit více">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
+<!ENTITY pref_category_devtools_summary "Vzdálené ladění, zvýraznění překreslování">
 <!ENTITY pref_developer_paint_flashing "Zvýrazňovat překreslování">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
@@ -206,8 +214,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synchronizace vašich panelů, záložek, hesel a historie">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Import z Androidu">
+<!ENTITY pref_import_android_summary "Import záložek a historie z prohlížeče v systému">
 <!ENTITY pref_private_data_history2 "Historie prohlížení">
 <!ENTITY pref_private_data_formdata "Formuláře a hledání">
 <!ENTITY pref_private_data_cookies2 "Cookies a přihlášení">
@@ -292,6 +302,7 @@ size. -->
 <!ENTITY tabs_private "Anonymní">
 <!ENTITY tabs_synced "Synchronizované">
 <!ENTITY set_image_fail "Nelze nastavit obrázek">
+<!ENTITY set_image_path_fail "Nepodařilo se uložit obrázek">
 <!ENTITY set_image_chooser_title "Nastavit obrázek jako">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +414,34 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Zpět na &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synchronizované panely">
+<!ENTITY home_remote_tabs_empty "Zde se zobrazují vaše panely z jiných zařízení.">
+<!ENTITY home_remote_tabs_unable_to_connect "Nepodařilo se připojit">
+<!ENTITY home_remote_tabs_need_to_sign_in "Přihlaste se prosím, abyste se znovu připojili ke svému Účtu Firefox a mohli tak pokračovat v synchronizaci.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problém s ověřením svého účtu?">
+<!ENTITY home_remote_tabs_need_to_verify "Pro začátek synchronizace ověřte prosím svůj Účet Firefox.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "Skryté zařízení: 1">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Skrytá zařízení: &formatD;">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Skrytá zařízení">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Odkrýt zvolená zařízení">
+
+
 <!ENTITY private_browsing_title "Anonymní prohlížení">
 <!ENTITY private_tabs_panel_empty_desc "Zde se zobrazují otevřené anonymní panely. Ačkoliv neuchováváme vaši historii prohlížení nebo cookies, záložky a stažené soubory budou na vaše zařízení ukládány.">
 <!ENTITY private_tabs_panel_learn_more "Chcete se dozvědět více?">
+
+<!ENTITY remote_tabs_panel_moved_title "Kam zmizely moje panely?">
+<!ENTITY remote_tabs_panel_moved_desc "Panely z vašich dalších zařízení jsme přesunuli do panelu na vaší domovské stránce, která se zobrazí při každém otevření nového panelu.">
+<!ENTITY remote_tabs_panel_moved_link "Přejít na můj nový panel.">
 
 <!ENTITY pin_site_dialog_hint "Vložení hledaného klíčového slova">
 
@@ -479,6 +515,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Zrušit">
 <!ENTITY new_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
 <!ENTITY new_guest_session_text "Osoba používající tento režim nebude moci vidět vaše osobní data o prohlížení (jako jsou uložená hesla, historie či záložky).\n\nJakmile ukončí režim pro hosty, budou jeho data smazána a vaše relace bude obnovena.">
+
+<!ENTITY guest_browsing_notification_title "Prohlížení pro hosty je povoleno">
+<!ENTITY guest_browsing_notification_text "Klepněte pro ukončení">
+
 
 <!ENTITY exit_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
 <!ENTITY exit_guest_session_text "Data o prohlížení z této relace budou smazána.">
