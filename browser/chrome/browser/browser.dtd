@@ -363,8 +363,10 @@
 <!ENTITY emailImageCmd.accesskey "g">
 <!ENTITY emailVideoCmd.label "Enviar video por correo">
 <!ENTITY emailVideoCmd.accesskey "a">
-<!ENTITY emailAudioCmd.label "Enviar audio por correo">
-<!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY castVideoCmd.label           "Enviar video a dispositivo">
+<!ENTITY castVideoCmd.accesskey       "e">
+<!ENTITY emailAudioCmd.label	 	  "Enviar audio por correo">
+<!ENTITY emailAudioCmd.accesskey	  "a">
 <!ENTITY playPluginCmd.label          "Activar este complemento">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Ocultar este complemento">
