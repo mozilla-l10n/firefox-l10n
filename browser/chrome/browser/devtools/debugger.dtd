@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
-<!ENTITY debuggerUI.startTracing "Start Tracing">
+<!ENTITY debuggerUI.startTracing "Tosaigh Rianú">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 

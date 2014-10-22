@@ -20,7 +20,7 @@
 
 <!ENTITY netmonitorUI.reloadNotice1 "• Déan iarratas nó">
 <!ENTITY netmonitorUI.reloadNotice2 "Athluchtaigh">
-<!ENTITY netmonitorUI.reloadNotice3 "the page to see detailed information about network activity.">
+<!ENTITY netmonitorUI.reloadNotice3 "an leathanach ar a bhfuil mionsonraí faoi ghníomhaíocht líonra.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
