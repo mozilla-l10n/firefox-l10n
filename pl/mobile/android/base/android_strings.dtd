@@ -389,6 +389,7 @@ it is applicable. -->
 <!ENTITY tabs_private "Prywatne">
 <!ENTITY tabs_synced "Z Sync">
 <!ENTITY set_image_fail "Nie można ustawić obrazu">
+<!ENTITY set_image_path_fail "Nie można zapisać obrazu">
 <!ENTITY set_image_chooser_title "Ustaw obraz jako">
 
 <!ENTITY suggestions_prompt3 "Włączyć podpowiedzi wyszukiwania?">
