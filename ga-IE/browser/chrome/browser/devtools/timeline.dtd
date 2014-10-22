@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY timelineUI.recordButton.tooltip "Record timeline operations">
+<!ENTITY timelineUI.recordButton.tooltip "Taifead oibríochtaí amlíne">
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
-<!ENTITY timelineUI.emptyNotice1 "Click on the">
-<!ENTITY timelineUI.emptyNotice2 "button to start recording timeline events.">
+<!ENTITY timelineUI.emptyNotice1 "Cliceáil an cnaipe">
+<!ENTITY timelineUI.emptyNotice2 "chun teagmhais ar an amlíne a thaifeadadh.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
