@@ -450,6 +450,9 @@ it is applicable. -->
 <!ENTITY updater_apply_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
 
+<!ENTITY new_tablet_restart "Uruchom ponownie przeglądarkę, aby zmiany weszły w życie">
+<!ENTITY new_tablet_pref "Włącz nowy interfejs dla tabletów">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nowa sesja gościnna">
 <!ENTITY exit_guest_session "Zakończ sesję gościnną">
