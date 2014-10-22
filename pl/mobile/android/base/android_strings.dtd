@@ -374,6 +374,9 @@ it is applicable. -->
     previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Wróć do &formatS;">
 
+<!ENTITY home_remote_tabs_one_hidden_device "Liczba ukrytych urządzeń: 1">
+<!ENTITY home_remote_tabs_many_hidden_devices "Liczba ukrytych urządzeń: &formatD;">
+
 <!ENTITY private_browsing_title "Tryb prywatny">
 <!ENTITY private_tabs_panel_empty_desc "Tu wyświetlą się twoje prywatne karty. Nie zachowamy historii przeglądania ani ciasteczek z tej sesji, ale zachowane zakładki i pobrane pliki zostaną na twoim urządzeniu.">
 <!ENTITY private_tabs_panel_learn_more "Chcesz dowiedzieć się więcej?">
