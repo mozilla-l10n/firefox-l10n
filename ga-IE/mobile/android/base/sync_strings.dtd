@@ -116,8 +116,8 @@
 
 <!ENTITY fxaccount_full_label "Cuntais Firefox">
 
-<!ENTITY fxaccount_custom_server_account_title 'Using account on server'>
-<!ENTITY fxaccount_custom_server_sync_title 'Storing Sync data on server'>
+<!ENTITY fxaccount_custom_server_account_title "Cuntas ar an bhfreastalaí á úsáid">
+<!ENTITY fxaccount_custom_server_sync_title "Sonraí Sync á stóráil ar an bhfreastalaí">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->

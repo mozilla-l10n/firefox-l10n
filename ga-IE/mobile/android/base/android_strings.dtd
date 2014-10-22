@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Socruithe">
 <!ENTITY pref_category_advanced "Ardroghanna">
 <!ENTITY pref_category_customize "Saincheap">
+<!ENTITY pref_category_customize_summary "Baile, cuardach, cluaisíní, iompórtáil">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Teanga">
+<!ENTITY pref_category_language_summary "Athraigh teanga do bhrabhsálaí">
 <!ENTITY pref_browser_locale "Teanga an bhrabhsálaí">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Leabharmharc">
 <!ENTITY overlay_share_reading_list_btn_label "Cuir le do Liosta Léitheoireachta">
+<!ENTITY overlay_share_bookmark_btn_label_already "Leabharmharcáilte cheana">
+<!ENTITY overlay_share_reading_list_btn_label_already "I do Liosta Léitheoireachta cheana">
 <!ENTITY overlay_share_send_other "Seol chuig gléasanna eile">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Cuardaigh">
 <!ENTITY pref_category_search_summary "Saincheap na hinnill chuardaigh">
 <!ENTITY pref_category_display "Taispeáint">
+<!ENTITY pref_category_display_summary "Téacs, barra teidil, brabhsáil lánscáileáin">
 <!ENTITY pref_category_privacy_short "Príobháideachas">
+<!ENTITY pref_category_privacy_summary "Focail fhaire, fianáin, rianú, sonraí">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Maidir le &brandShortName;, ceisteanna coitianta, roghanna sonraí">
 <!ENTITY pref_category_datareporting "Roghanna sonraí">
 <!ENTITY pref_learn_more "Tuilleadh eolais">
 <!ENTITY pref_category_installed_search_engines "Innill chuardaigh suiteáilte">
@@ -130,7 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_devtools "Uirlisí forbróra">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!ENTITY pref_category_devtools_summary "Cian-dífhabhtú, aibhsiú péinteála">
+<!ENTITY pref_developer_paint_flashing "Aibhsiú péinteála">
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Ná taispeáin an roghchlár">
 <!ENTITY pref_clear_private_data2 "Glan anois">
 <!ENTITY pref_clear_private_data_category "Glan sonraí príobháideacha">
-<!ENTITY pref_clear_on_exit_title "Glan i gcónaí ag am scortha">
+<!ENTITY pref_clear_on_exit_title2 "Glan ag am scortha">
 <!ENTITY pref_clear_on_exit_summary2 "Bánófar &brandShortName; do chuid sonraí pearsanta nuair a roghnóidh tú \u0022Scoir\u0022 ón bpríomhroghchlár">
 <!ENTITY pref_clear_on_exit_dialog_title "Roghnaigh na sonraí le glanadh">
 <!ENTITY pref_plugins "Forlíontáin">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Sioncrónaigh do chuid cluaisíní, leabharmharcanna, focail fhaire, stair">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
 <!ENTITY pref_import_android "Iompórtáil ó Android">
+<!ENTITY pref_import_android_summary "Iompórtáil leabharmharcanna agus stair ón mbrabhsálaí dúchasach">
 <!ENTITY pref_private_data_history2 "Stair bhrabhsála">
 <!ENTITY pref_private_data_formdata "Stair fhoirmeacha agus chuardaigh">
 <!ENTITY pref_private_data_cookies2 "Fianáin agus seisiúin ghníomhacha">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
 <!ENTITY datareporting_wifi_title2 "Seirbhís Geoshuite &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Receives Wi-Fi and cellular location data when running in the background and shares it with &vendorShortName; to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Shares approximate Wi-Fi and cellular location of your device with &vendorShortName; to improve our geolocation service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Íosluchtaigh nuashonruithe go huathoibríoch">
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
 <!ENTITY pref_update_autodownload_never "Riamh">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Príobháideach">
 <!ENTITY tabs_synced "Sioncrónaithe">
 <!ENTITY set_image_fail "Ní féidir íomhá a shocrú">
+<!ENTITY set_image_path_fail "Níorbh fhéidir an íomhá a shábháil">
 <!ENTITY set_image_chooser_title "Socraigh Íomhá Mar">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -331,7 +341,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Brabhsáil lánscáileáin">
-<!ENTITY pref_scroll_title_bar_summary "Hide the &brandShortName; title bar when scrolling down a page">
+<!ENTITY pref_scroll_title_bar_summary "Folaigh barra teidil &brandShortName; le linn scrollaithe síos ar leathanach">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Fill ar &formatS;">
 
+<!ENTITY home_remote_tabs_title "Cluaisíní Sioncrónaithe">
+<!ENTITY home_remote_tabs_empty "Taispeánfar do chuid cluaisíní ó ghléasanna eile anseo.">
+<!ENTITY home_remote_tabs_unable_to_connect "Ní féidir ceangal">
+<!ENTITY home_remote_tabs_need_to_sign_in "Please sign in to reconnect your Firefox Account and continue syncing.">
+<!ENTITY home_remote_tabs_trouble_verifying "Trouble verifying your account?">
+<!ENTITY home_remote_tabs_need_to_verify "Please verify your Firefox Account to start syncing.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; devices hidden">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Gléasanna i bhfolach">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Dífholaigh na gléasanna roghnaithe">
+
 <!ENTITY private_browsing_title "Brabhsáil Phríobháideach">
 <!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we don\'t keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
 <!ENTITY private_tabs_panel_learn_more "An bhfuil tuilleadh eolais uait?">
+
+<!ENTITY remote_tabs_panel_moved_title "Cá bhfuil mo chuid cluaisíní?">
+<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
+<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
@@ -474,6 +508,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapáil chun nuashonrú">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Caithfidh tú an brabhsálaí a atosú chun na hathruithe a chur i bhfeidhm">
+<!ENTITY new_tablet_pref "Enable new tablet UI">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Seisiún Nua ar Iasacht">
@@ -482,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Cealaigh">
 <!ENTITY new_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY new_guest_session_text "Má thugann tú do ghléas do chara ar iasacht, ní bheidh sé/sé in ann do chuid sonraí pearsanta a fheiceáil (mar shampla, focail fhaire, stair bhrabhsála, nó leabharmharcanna).\n\nNuair a bheidh do chara críochnaithe, scriosfar a c(h)uid sonraí brabhsála, agus athchóireofar do sheisiún.">
+<!ENTITY guest_browsing_notification_title "Guest browsing is enabled">
+<!ENTITY guest_browsing_notification_text "Tap to exit">
 
 <!ENTITY exit_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY exit_guest_session_text "Scriosfar na sonraí brabhsála ón seisiún seo.">

@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2 "Breiseáin">
 <!ENTITY aboutAddons.header2 "Do chuid Breiseán">
 <!ENTITY aboutAddons.options "Roghanna">
-<!ENTITY aboutAddons.browseAll "Brabhsáil gach Breiseán Firefox">
 
 <!ENTITY addonAction.enable "Cumasaigh">
 <!ENTITY addonAction.disable "Díchumasaigh">
