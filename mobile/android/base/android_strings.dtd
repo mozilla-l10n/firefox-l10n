@@ -183,7 +183,7 @@
 <!ENTITY pref_char_encoding_off "Nezobrazovat nabídku">
 <!ENTITY pref_clear_private_data2 "Vymazat nyní">
 <!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
-<!ENTITY pref_clear_on_exit_title "Vždy vymazat při ukončení">
+<!ENTITY pref_clear_on_exit_title2 "Vymazat při ukončení">
 <!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky"> 
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Při běhu na pozadí sbírá informace o umístění wi-fi sítí a buněk mobilních vysílačů, které sdílí s organizací &vendorShortName;, která je využívá pro vylepšování našich geolokačních služeb">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Při běhu na pozadí sbírá informace o umístění wi-fi sítí a buněk mobilních vysílačů, které sdílí s organizací &vendorShortName;, která je využívá pro vylepšování našich geolokačních služeb">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -507,6 +507,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Dostupná aktualizace aplikace &brandShortName;">
 <!ENTITY updater_apply_select2 "Klepněte pro instalaci aktualizace">
+
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Změny se projeví po restartování prohlížeče">
+<!ENTITY new_tablet_pref "Povolit nové uživatelské rozhraní pro tablety">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nová relace pro hosty">
