@@ -12,3 +12,8 @@
 <!ENTITY profilerUI.emptyNotice2 "pa entamar a grabar llamaes a funciones JavaScript.">
 <!ENTITY profilerUI.emptyNotice1 "Primi nel botón">
 <!ENTITY profilerUI.clearButton "Llimpiar">
+<!ENTITY profilerUI.table.totalPercentage "Coste total">
+<!ENTITY profilerUI.table.totalDuration "Tiempu total (ms)">
+<!ENTITY profilerUI.table.selfPercentage "Coste propiu">
+<!ENTITY profilerUI.table.selfDuration "Tiempu propiu (ms)">
+<!ENTITY profilerUI.table.samples "Exemplos">

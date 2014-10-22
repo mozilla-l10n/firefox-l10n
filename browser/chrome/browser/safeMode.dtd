@@ -8,3 +8,5 @@
 <!ENTITY safeModeDescription3.label "El mou seguru ye un mou especial de &brandShortName; que pue usase pa iguar problemes.">
 <!ENTITY safeModeDescription4.label "Los tos complementos y configuraciones personalizaes van desactivase de mou temporal.">
 
+<!ENTITY refreshProfileInstead.label "Tamién pues omitir la solución de problemes y probar a reaniciar &brandShortName;.">
+<!ENTITY refreshProfile.label "Reaniciar &brandShortName;">
