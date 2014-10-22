@@ -78,11 +78,13 @@ is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_customize "Dostosuj">
+<!ENTITY pref_category_customize_summary "Strona domowa, wyszukiwanie, karty, importowanie">
 
 <!-- Localization note (pref_category_language) : This is the preferences
 section in which the user picks the locale in which to display Firefox UI.
 The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Język">
+<!ENTITY pref_category_language_summary "Zmień język przeglądarki">
 <!ENTITY pref_browser_locale "Język przeglądarki">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -105,8 +107,11 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosuj wyszukiwarki">
 <!ENTITY pref_category_display "Wyświetlanie">
+<!ENTITY pref_category_display_summary "Tekst, pasek tytułowy, przeglądanie pełnoekranowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
+<!ENTITY pref_category_privacy_summary "Kontrola nad hasłami, ciasteczkami, śledzeniem i innymi danymi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "O programie &brandShortName;, najczęściej zadawane pytania, zarządzanie danymi">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
 <!ENTITY pref_learn_more "Dowiedz się więcej">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane silniki wyszukiwania">
@@ -121,6 +126,7 @@ The locale includes both language and region concepts. -->
      it is applicable. -->
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
+<!ENTITY pref_category_devtools_summary "Zdalne debugowanie, migotanie malowania">
 <!ENTITY pref_developer_paint_flashing "Migotanie malowania">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
@@ -195,8 +201,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synchronizuj karty, zakładki, hasła, historię">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
+<!ENTITY pref_import_android_summary "Importuj zakładki i historię z domyślnej przeglądarki systemu Android">
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
 <!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
 <!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
