@@ -252,7 +252,7 @@ size. -->
      except in branding. -->
 <!ENTITY datareporting_crashreporter_title_short "Zgłaszanie awarii">
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Działając w tle, odbiera informacje o lokalizacji przez Wi-Fi i dane komórkowe, a następnie udostępnia je organizacji &vendorShortName;, aby pomóc nam ulepszyć usługi geolokalizacyjne">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Udostępnia organizacji &vendorShortName; przybliżone informacje o lokalizacji urządzenia przez Wi-Fi i dane komórkowe, aby pomóc nam ulepszyć usługi geolokalizacyjne">
 
 <!ENTITY pref_update_autodownload2 "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
