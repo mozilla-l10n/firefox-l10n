@@ -117,10 +117,8 @@
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
-<!ENTITY pref_donottrack_menu "Tracciamento">
-<!ENTITY pref_donottrack_disallow_tracking "Richiedi ai siti di non effettuare alcun tracciamento">
-<!ENTITY pref_donottrack_allow_tracking "Comunica ai siti la disponibilità a essere tracciato">
-<!ENTITY pref_donottrack_no_pref "Non comunicare alcuna preferenza relativa al tracciamento">
+<!ENTITY pref_donottrack_title "Antitracciamento">
+<!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
