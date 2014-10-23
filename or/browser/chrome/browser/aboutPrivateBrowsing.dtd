@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "ଆପଣ ଗୋପନୀୟତାର ସହିତ ବ୍ରାଉଜ କରୁଛନ୍ତି">
+<!ENTITY aboutPrivateBrowsing.title.normal     "ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ ଖୋଲିବେ କି?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ଏହି ୱିଣ୍ଡୋ ପାଇଁ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖିନଥାଏ।">
-
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ଏହି ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ ପାଇଁ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖିନଥାଏ।">
 
 
 
