@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "ఇది కూడా సందర్శించవచ్చు">
-<!ENTITY support.link              "&brandShortName; తోడ్పాటు">
-<!ENTITY support.post2             "మరింత సమాచారం కొరకు.">
+<!ENTITY support.pre3              "ఇక్కడ సందర్శించండి ">
+<!ENTITY support.link2             "తోడ్పాటు సైట్">
+<!ENTITY support.post3             " సందర్శించి ఉమ్మడి సమస్యలపై సమాధానాలు పొందండి.">
 
 <!ENTITY happy.header              "వింటానికి గొప్పగా ఉంది!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "తరువాత చూద్దాం">
 <!ENTITY happy.noThanks            "అడిగినందుకు ధన్యవాదాలు, వద్దు">
 
+<!ENTITY sad.header                "అయ్యో!">
 <!ENTITY sad.message               "&brandShortName; తో మీకు సమస్యలు వచ్చినందుకు మేము చింతిస్తున్నాము. ఏమైందో మాకు చెప్పండి అది మేము పరిష్కరించుతాము.">
 <!ENTITY sad.placeholder           "మీ స్పందనను ఇక్కడ ప్రవేశపెట్టండి">
-<!ENTITY sad.lastSite              "చివరిగా దర్శించన సైటు (ఐచ్చికం)">
+<!ENTITY sad.lastSite2             "అఖరిగా సందర్శించిన సైట్ చేర్చు">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "మాకు తెలియజేసినందుకు కృతజ్ఞతలు.">
+<!ENTITY sad.thanksHeader2         "ధన్యవాదములు.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "లేదంటే.">
 
-<!ENTITY feedback.privacy          "మీ గోప్యత కొరకు, మీ స్పందన నందు వ్యక్తిగత గుర్తింపు సమాచారం చేర్చవద్దు.">
+<!ENTITY feedback.privacy2         "మీ గోప్యత కొరకు, మీ స్పందన నందు వ్యక్తిగత గుర్తింపు సమాచారం చేర్చవద్దు.">
 <!ENTITY feedback.send             "స్పందనను పంపు">

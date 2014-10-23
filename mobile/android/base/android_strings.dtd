@@ -78,11 +78,13 @@
 <!ENTITY settings_title "అమరికలు">
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!ENTITY pref_category_customize "మలచుకొనడం">
+<!ENTITY pref_category_customize_summary "ముంగిలి, వెతుకు, టాబ్స్, దిగుమతి">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "భాష">
+<!ENTITY pref_category_language_summary "మీ విహారణి భాషను మార్చు">
 <!ENTITY pref_browser_locale "విహారిణి భాష">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశం">
 <!ENTITY overlay_share_reading_list_btn_label "చదవాల్సిన జాబితాకి చేర్చు">
+<!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే ఇష్టాంశముగా ఉంది">
+<!ENTITY overlay_share_reading_list_btn_label_already "ఇప్పటికే చదివే జాబితాలో ఉంది">
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
 <!ENTITY pref_category_display "ప్రదర్శన">
+<!ENTITY pref_category_display_summary "పాఠం, శీర్షిక పట్టీ, నిండు-తెర విహారణ">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
+<!ENTITY pref_category_privacy_summary "నియంత్రణ సంకేతపదాలు, కుకీలు, ట్రాకింగ్, డేటా">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "&brandShortName; గురించి, FAQs, డేటా ఎంపికలు">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
+<!ENTITY pref_category_devtools_summary "రిమోట్ డీబగ్గింగ్, పెయింట్ ఫ్లాషింగ్">
 <!ENTITY pref_developer_paint_flashing "పెయింట్ ఫ్లాషింగ్">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
 <!ENTITY pref_clear_private_data2 "ఇప్పుడే చెరిపివేయి">
 <!ENTITY pref_clear_private_data_category "ప్రైవేటు డేటా తొలగించు">
-<!ENTITY pref_clear_on_exit_title "నిష్క్రమించే ప్రతిసారి చెరిపి వేయి">
+<!ENTITY pref_clear_on_exit_title2 "నిష్క్రణతో శుభ్రపరచు">
 <!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
 <!ENTITY pref_plugins "ప్లగిన్లు">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync "సింక్">
+<!ENTITY pref_sync_summary "మీ టాబ్స్, ఇష్టాంశములు, సంకేతపదములు, చరిత్ర సింక్ చేయి">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
+<!ENTITY pref_import_android_summary "స్వాభావిక విహారణి నుండి ఇష్టాంశములు మరియు చరిత్ర దిగుమతిచేయి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 <!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "కిందికి జరుపు">
-<!ENTITY datareporting_wifi_geolocation_summary "మా భౌగోళిక స్థాన సేవను మెరుగుపరచడానికి నేపథ్యంలో నడుస్తూ  వై-ఫై మరియు సెల్యులర్ ప్రాంత భోగట్టాను అందుకుని దాన్ని &vendorShortName;కు పంపిస్తుంది.">
+<!ENTITY datareporting_wifi_geolocation_summary2 "మా భౌగోళికస్థానపు సేవను మెరుగుపరచుటకు మీ పరికరపు వై-ఫై మరియు సెల్యులర్ స్థానపు సమాచారంను &vendorShortName; తో పంచుకొనును.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "నవీకరణలను ఆటోమెటిగ్గా దించుకో">
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY tabs_synced "సింకైన">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
+<!ENTITY set_image_path_fail "చిత్రాన్ని దాయలేక పోయింది">
 <!ENTITY set_image_chooser_title "చిత్రమును ఇలా అమర్చు">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "తిరిగి &formatS; కి">
 
+<!ENTITY home_remote_tabs_title "సింకైన టాబ్స్">
+<!ENTITY home_remote_tabs_empty "ఇతర పరికరాలనుండి మీ టాబ్స్ ఇక్కడ చూపబడును.">
+<!ENTITY home_remote_tabs_unable_to_connect "సంధానం సాధ్యం కావడంలేదు">
+<!ENTITY home_remote_tabs_need_to_sign_in "మీ ఫైర్‌ఫాక్స్ ఖాతాకు తిరిగిఅనుసంధానమై సింక్ అవడాన్ని కొనసాగించుటకు దయచేసి సైన్ ఇన్ కండి.">
+<!ENTITY home_remote_tabs_trouble_verifying "మీ ఖాతాను నిర్ధారించుటలో సమస్యా?">
+<!ENTITY home_remote_tabs_need_to_verify "సింక్ ప్రారంభించుటకు దయచేసి మీ ఫైర్‌ఫాక్స్ ఖాతా నిర్ధారించుము.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 పరికరం దాగివుంది">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; పరికరాలు దాగివున్నాయి">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "దాగివున్న పరికరాలు">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "ఎంపికైన పరికరాలు కనబరచు">
+
 <!ENTITY private_browsing_title "గోప్య వీక్షణం">
 <!ENTITY private_tabs_panel_empty_desc "మీ ఆంతరంగిక టాబ్లు ఇక్కడ చూపబడును. మేము మీ విహారణ చరిత్రను లేదా కుకీలను ఉంచనప్పటికీ, మీరు గుర్తుంచిన ఇష్టాంశములు మరియు దించిన ఫైళ్ళను మీ పరికరంపైన ఉంచుతాము.">
 <!ENTITY private_tabs_panel_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
+
+<!ENTITY remote_tabs_panel_moved_title "నా టాబ్స్ ఎక్కడికి వెళ్యాయి?">
+<!ENTITY remote_tabs_panel_moved_desc "మేము మీ టాబ్‌లను ఇతర పరికరాలనుండి మీ ముంగిలిపేజీ పైని ప్యానల్‌కు మార్చాము మీరు కొత్త టాబ్ తెరిచిన ప్రతిసారి మీరు వాటిని సులువుగా ఏక్సెస్ చేయవచ్చు.">
+<!ENTITY remote_tabs_panel_moved_link "నన్ను నా కొత్త ప్యానల్‌కు తీసుకుపో.">
 
 <!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
 
@@ -474,6 +508,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "మార్పులు ప్రభావితం కావడానికి విహారిణిని పునఃప్రారంభించుము">
+<!ENTITY new_tablet_pref "కొత్త టాబ్లెట్ UI చేతనించు">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
@@ -482,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY new_guest_session_text "దీనిని ఉపయోగించేవారు మీ వ్యక్తిగత విహరణ దత్తాంశాన్ని (భద్రపరచిన సంకేతపదాలు, చరిత్ర లేదా ఇష్టాంశాల వంటివాటిని) చూడలేరు. \n\nమీ అతిథి పని పూర్తికాగానే, వారి విహరణ దత్తాంశం తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
+<!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
+<!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">

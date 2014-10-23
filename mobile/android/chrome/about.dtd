@@ -19,3 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "విడుదల విశేషాలు">
 <!ENTITY aboutPage.credits.label                "పరపతులు">
 <!ENTITY aboutPage.license.label                "లైసెన్సింగ్ సమాచారం">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "ఫైర్‌ఫాక్స్ మరియు ఫైర్‌ఫాక్స్ చిహ్నాలు మొజిల్లా సంస్థ యొక్క వ్యాపారగుర్తులు">

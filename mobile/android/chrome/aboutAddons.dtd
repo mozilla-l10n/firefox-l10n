@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "పొడిగింతలు">
 <!ENTITY aboutAddons.header2                    "మీ ఆడాన్లు">
 <!ENTITY aboutAddons.options                    "ఐచ్ఛికములు">
-<!ENTITY aboutAddons.browseAll                  "అన్ని ఫైర్‌ఫాక్స్ పొడిగింతలు అన్వేషించు">
 
 <!ENTITY addonAction.enable                     "చేతనం">
 <!ENTITY addonAction.disable                    "అచేతనంచేయి">
