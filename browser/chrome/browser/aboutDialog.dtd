@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Kontroleer vir bywerkings">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label                "Herbegin om by te werk">
+<!ENTITY update.updateButton.label2                "Herbegin &brandShortName; om by te werk">
 <!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Pas bywerking toe…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">

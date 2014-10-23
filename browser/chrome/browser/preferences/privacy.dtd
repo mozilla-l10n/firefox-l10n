@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Vertel webwerwe dat ek gemonitor wil word">
 <!ENTITY dntTrackingOkay.accesskey      "b">
+
+
+<!ENTITY trackingProtectionLearnMore.label "Meer inligting">
 <!ENTITY doNotTrackInfo.label           "Meer inligting">
 
 <!ENTITY  history.label                 "Geskiedenis">

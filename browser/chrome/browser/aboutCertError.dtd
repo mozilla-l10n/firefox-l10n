@@ -25,6 +25,7 @@ die regte plek gaan. Hierdie werf se identiteit kan egter nie gestaaf word nie."
 <!ENTITY certerror.whatShouldIDo.content "As u gewoonlik aan hierdie 
 werf koppel sonder probleme, kan hierdie fout dalk beteken dat iemand 
 die werf probeer namaak, en dan moet u nie voortgaan nie.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Eina! Laat ek weg wees!">
 
 <!ENTITY certerror.expert.heading "Ek begryp die risiko">
