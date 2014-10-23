@@ -29,7 +29,7 @@
 <!ENTITY crash_allow_contact2 "Tabhair cead do &vendorShortName; dul i dteagmháil liom maidir leis an tuairisc seo">
 <!ENTITY crash_email "Do sheoladh ríomhphoist">
 <!ENTITY crash_closing_alert "An bhfuil fonn ort imeacht gan tuairisc a sheoladh?">
-<!ENTITY sending_crash_report "Tuairisc ar thuairteáil á seoladh\u2026">
+<!ENTITY sending_crash_report "Tuairisc ar chliseadh á seoladh\u2026">
 <!ENTITY crash_close_label "Dún">
 <!ENTITY crash_restart_label "Atosaigh &brandShortName;">
 <!ENTITY exit_label "Scoir">
@@ -111,7 +111,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Seol chuig gléas eile">
-<!ENTITY overlay_share_no_url "No link found in this share">
+<!ENTITY overlay_share_no_url "Níor aimsíodh aon nasc sa chomhad comhroinnte">
 <!ENTITY overlay_share_retry "Bain triail eile as">
 <!ENTITY overlay_share_select_device "Roghaigh gléas">
 
@@ -135,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
+<!ENTITY pref_search_hint "LEID: Is féidir aon suíomh Gréasáin a chur le do liosta de sholáthraithe cuardaigh trí fhadbhrú ar a réimse cuardaigh, ansin an deilbhín &formatI; a thapáil.">
 <!ENTITY pref_category_devtools "Uirlisí forbróra">
 <!ENTITY pref_category_devtools_summary "Cian-dífhabhtú, aibhsiú péinteála">
 <!ENTITY pref_developer_paint_flashing "Aibhsiú péinteála">
@@ -146,7 +146,7 @@
 <!ENTITY pref_category_home_summary "Saincheap do leathanach baile">
 <!ENTITY pref_category_home_panels "Painéil">
 <!ENTITY home_add_panel_title "Cuir painéal nua leis">
-<!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
+<!ENTITY home_add_panel_empty "Níor aimsíomar aon phainéil a d'fhéadfá cur le do leathanach.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
 <!ENTITY datareporting_wifi_title2 "Seirbhís Geoshuite &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Shares approximate Wi-Fi and cellular location of your device with &vendorShortName; to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comhroinn garbhshuíomh do ghléis (ó cheangal Wi-Fi nó ceallach) le &vendorShortName; chun cabhrú linn feabhas a chur ar ár seirbhís gheoshuite">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -400,10 +400,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: Save articles to your reading list by long pressing the &formatI; icon when it appears in the title bar.">
+<!ENTITY home_reading_list_hint2 "LEID: Chun altanna a shábháil i do Liosta Léitheoireachta, déan fadbhrú ar an deilbhín &formatI; nuair a fheicfidh tú sa bharra teidil é.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
+<!ENTITY home_reading_list_hint_accessible "LEID: Chun altanna a shábháil i do Liosta Léitheoireachta, déan fadbhrú ar dheilbhín an mhóid léitheora nuair a fheicfidh tú sa bharra teidil é.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -416,16 +416,16 @@ size. -->
 <!ENTITY home_remote_tabs_title "Cluaisíní Sioncrónaithe">
 <!ENTITY home_remote_tabs_empty "Taispeánfar do chuid cluaisíní ó ghléasanna eile anseo.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ní féidir ceangal">
-<!ENTITY home_remote_tabs_need_to_sign_in "Please sign in to reconnect your Firefox Account and continue syncing.">
-<!ENTITY home_remote_tabs_trouble_verifying "Trouble verifying your account?">
-<!ENTITY home_remote_tabs_need_to_verify "Please verify your Firefox Account to start syncing.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Logáil isteach chun athcheangal le do Chuntas Firefox agus dul ar aghaidh leis an sioncrónú.">
+<!ENTITY home_remote_tabs_trouble_verifying "Fadhbanna ag deimhniú do chuntais?">
+<!ENTITY home_remote_tabs_need_to_verify "Caithfidh tú do Chuntas Firefox a dheimhniú chun sioncrónú a thosú.">
 
-<!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
+<!ENTITY home_remote_tabs_one_hidden_device "Gléas amháin i bhfolach">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; devices hidden">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; gléas i bhfolach">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Gléasanna i bhfolach">
@@ -434,12 +434,12 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Dífholaigh na gléasanna roghnaithe">
 
 <!ENTITY private_browsing_title "Brabhsáil Phríobháideach">
-<!ENTITY private_tabs_panel_empty_desc "Your private tabs will show up here. While we don\'t keep any of your browsing history or cookies, bookmarks and files that you download will still be saved on your device.">
+<!ENTITY private_tabs_panel_empty_desc "Taispeáinfar do chuid cluaisíní príobháideacha anseo. Cé nach gcoinnímid aon fhianáin nó do stair bhrabhsála, sábhálfar leabharmharcanna agus comhaid a íosluchtaíonn tú ar do ghléas.">
 <!ENTITY private_tabs_panel_learn_more "An bhfuil tuilleadh eolais uait?">
 
 <!ENTITY remote_tabs_panel_moved_title "Cá bhfuil mo chuid cluaisíní?">
-<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
-<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
+<!ENTITY remote_tabs_panel_moved_desc "Bhogamar na cluaisíní ó do ghléasanna eile go painéal nua ar do leathanach baile ar féidir teacht air go héasca nuair a osclóidh tú cluaisín nua.">
+<!ENTITY remote_tabs_panel_moved_link "Taispeáin mo phainéal nua dom.">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
@@ -513,7 +513,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY new_tablet_restart "Caithfidh tú an brabhsálaí a atosú chun na hathruithe a chur i bhfeidhm">
-<!ENTITY new_tablet_pref "Enable new tablet UI">
+<!ENTITY new_tablet_pref "Cumasaigh an comhéadan nua táibléid">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Seisiún Nua ar Iasacht">
@@ -522,8 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Cealaigh">
 <!ENTITY new_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY new_guest_session_text "Má thugann tú do ghléas do chara ar iasacht, ní bheidh sé/sé in ann do chuid sonraí pearsanta a fheiceáil (mar shampla, focail fhaire, stair bhrabhsála, nó leabharmharcanna).\n\nNuair a bheidh do chara críochnaithe, scriosfar a c(h)uid sonraí brabhsála, agus athchóireofar do sheisiún.">
-<!ENTITY guest_browsing_notification_title "Guest browsing is enabled">
-<!ENTITY guest_browsing_notification_text "Tap to exit">
+<!ENTITY guest_browsing_notification_title "Seisiún ar Iasacht ar siúl">
+<!ENTITY guest_browsing_notification_text "Tapáil chun deireadh a chur leis">
 
 <!ENTITY exit_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY exit_guest_session_text "Scriosfar na sonraí brabhsála ón seisiún seo.">

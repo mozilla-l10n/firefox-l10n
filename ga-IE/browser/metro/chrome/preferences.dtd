@@ -35,7 +35,7 @@
 <!ENTITY doNotTrack.learnMoreLink "Tuilleadh eolais&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title "Tuairisceoir na gClistí">
-<!ENTITY optionsHeader.reporting.crashes.label "Seolann &brandShortName; tuairiscí ar thuairteáil chuig Mhozilla chun cabhrú linn brabhsálaí níos cobhsaí níos sláine a fhorbairt">
+<!ENTITY optionsHeader.reporting.crashes.label "Seolann &brandShortName; tuairiscí ar chlistí chuig Mhozilla chun cabhrú linn brabhsálaí níos cobhsaí níos sláine a fhorbairt">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">
 <!ENTITY optionsHeader.telemetry.title "Teiliméadracht">
 <!ENTITY optionsHeader.telemetry.label "Seol staitisticí maidir le húsáid &brandShortName; chuig Mhozilla, chun cabhrú linn feabhas a chur ar do bhrabhsálaí">

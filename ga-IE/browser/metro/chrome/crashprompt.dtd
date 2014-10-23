@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title "An bhfuil fonn ort tuairiscí tuairteála a sheoladh chuig Mhozilla?">
-<!ENTITY crashprompt.message "We are sorry, &brandShortName; just recovered from a crash. Sending crash reports will help Mozilla make &brandShortName; more stable and secure. You can always change your preference in Settings/Options.">
-<!ENTITY crashprompt.detailsLink "Céard atá i dtuairisc ar thuairteáil?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "This may include things like open pages, text typed into forms and the content of open messages, recent browsing history, or geolocation shared with a site.">
+<!ENTITY crashprompt.title "An bhfuil fonn ort tuairiscí ar chlistí a sheoladh chuig Mhozilla?">
+<!ENTITY crashprompt.message "Tá &brandShortName; tar éis athshlánú ó thuairteáil. Nuair a sheolann tú tuairisc ar chliseadh chugainn, cabhraíonn sé linn feabhas a chur ar &brandShortName; sa chaoi go mbeidh sé níos cobhsaí agus níos sláine. Bíonn tú in ann na tuairiscí seo a rialú sna Socruithe/Roghanna.">
+<!ENTITY crashprompt.detailsLink "Céard atá i dtuairisc ar chliseadh?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Cuirimid mionsonraí a bhaineann leis an gcliseadh agus le do ríomhaire sa tuairisc, chomh maith le heolas faoi staid do bhrabhsálaí nuair a chlis air.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "D'fhéadfadh sé go mbeadh sonraí éagsúla san áireamh: leathanaigh oscailte, téacs curtha isteach i bhfoirmeacha, ábhar as teachtaireachtaí oscailte, do stair bhrabhsála is déanaí, nó geoshuíomh a roinn tú le suíomh.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Úsáidimid na tuairiscí seo chun fadhbanna a réiteach agus feabhas a chur ar ár gcuid táirgí. Úsáidimid do chuid faisnéise de réir na dtéarmaí inár ">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Úsáidimid na tuairiscí seo chun fadhbanna a réiteach agus feabhas a chur ar ár gcuid táirgí. Úsáidimid do chuid faisnéise de réir na dtéarmaí i ">
 <!ENTITY crashprompt.privacyPolicyLink "bpolasaí príobháideachta &brandShortName;">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">

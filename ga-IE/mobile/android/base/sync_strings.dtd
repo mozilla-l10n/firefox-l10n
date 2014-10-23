@@ -193,7 +193,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "Caithfidh tú do chuntas a dhearbhú. Tapáil chun an teachtaireacht dearbhaithe a sheoladh arís.">
 <!ENTITY fxaccount_status_needs_credentials "Ní féidir ceangal. Tapáil chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_upgrade "Caithfidh tú &brandShortName; a nuashonrú chun logáil isteach.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_account_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Tapáil chun sioncrónú a thosú.">
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
@@ -209,7 +209,7 @@
 <!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Bain an Cuntas Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.'>
+<!ENTITY fxaccount_remove_account_dialog_message "Stopfaidh &brandShortName; sioncrónú le do chuntas, ach ní scriosfaidh sé do chuid sonraí brabhsála ar an ngléas seo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Baineadh Cuntas Firefox &formatS;.">

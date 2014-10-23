@@ -38,7 +38,7 @@
 <!ENTITY sad.header "Ochón!">
 <!ENTITY sad.message "Tá brón orainn go raibh fadhb agat le &brandShortName;. Abair linn cad é a bhí briste agus deiseoimid é más féidir.">
 <!ENTITY sad.placeholder "Cuir do chuid aiseolais anseo">
-<!ENTITY sad.lastSite2 "Include last visited site">
+<!ENTITY sad.lastSite2 "Cuir an suíomh is déanaí san áireamh">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder "http://">
@@ -53,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom "Tugaimid an leabhar ann.">
 
-<!ENTITY feedback.privacy2 "For your privacy, please do not include any personal information in your feedback.">
+<!ENTITY feedback.privacy2 "Le do phríobháideacht a chosaint, bí cinnte nach bhfuil aon fhaisnéis phearsanta i do chuid aiseolais.">
 <!ENTITY feedback.send "Tabhair Aiseolas">

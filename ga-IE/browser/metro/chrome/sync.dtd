@@ -45,7 +45,7 @@
 <!ENTITY sync.flyout.connected.pair "Ceangail Gléas">
 <!-- Flyout when pairing a device -->
 
-<!ENTITY sync.flyout.pairNewDevice.description "On the new device you want to pair with, select &quot;Set Up &syncBrand.shortName.label;&quot; and enter the code the device produces">
+<!ENTITY sync.flyout.pairNewDevice.description "Roghnaigh &quot;Socraigh &syncBrand.shortName.label;&quot; ar an ngléas nua ar mhaith leat péireáil leis, agus cuir isteach an cód a ghineann sé">
 <!ENTITY sync.flyout.pairNewDevice.pair "Péireáil">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Nóta:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2 "Chun an cód a aimsiú,">

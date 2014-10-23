@@ -28,7 +28,7 @@
 <!ENTITY reloadPlugin.middle "Athluchtaigh an leathanach">
 <!ENTITY reloadPlugin.post " chun triail eile a bhaint as.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please "Seol tuairisc ar thuairteáil">
+<!ENTITY report.please "Seol tuairisc ar chliseadh">
 <!ENTITY report.submitting "Tuairisc á seoladh…">
 <!ENTITY report.submitted "Tuairisc seolta.">
 <!ENTITY report.disabled "Tuairiscí díchumasaithe.">
