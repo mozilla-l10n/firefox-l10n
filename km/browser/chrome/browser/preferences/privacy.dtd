@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "ប្រាប់​តំបន់បណ្ដាញ​ថា ​ខ្ញុំ​ចង់​ឲ្យ​គេ​តាមដាន ។">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
-
+<!ENTITY trackingProtection.label       "ការ​ពារ​តំបន់​បណ្ដាញ​ពី​ការ​តាមដាន​របស់​ខ្ញុំ">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "ស្វែងយល់​បន្ថែម">
 <!ENTITY doNotTrackInfo.label           "សិក្សា​​បន្ថែម">
 
 <!ENTITY  history.label                 "ប្រវត្តិ">

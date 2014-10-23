@@ -13,11 +13,11 @@
 <!ENTITY projectMenu_importHostedApp_label "បើក​កម្មវិធី​ដែល​បាន​បង្ហោះ…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 
-
-
-
-
-
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ដំឡើង និង​ដំណើរការ">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "បញ្ឈប់​កម្មវិធី">
+<!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "កម្មវិធី​បំបាត់​កំហុស">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "លុប​គម្រោង​ចេញ">
@@ -28,18 +28,18 @@
 <!ENTITY runtimeMenu_label "ពេលវេលា​រត់">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ផ្ដាច់">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 
-
-
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "រូបថត​អេក្រង់">
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "ព័ត៌មាន​ពេល​ដំណើរការ">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "ម៉ូនីទ័រ">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 <!ENTITY viewMenu_label "មើល">
-
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "បិទ/បើក​ កម្មវិធី​កែ">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 
@@ -58,16 +58,18 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 
-
+<!ENTITY projectPanel_myProjects "គម្រោង​របស់​ខ្ញុំ">
+<!ENTITY projectPanel_runtimeApps "ពេលវេលា​ដំណើរការ​កម្មវិធី">
 <!ENTITY projectPanel_tabs "ផ្ទាំង">
+<!ENTITY runtimePanel_USBDevices "ឧបករណ៍​យូអេសប៊ី">
+<!ENTITY runtimePanel_WiFiDevices "ឧបករណ៍​វ៉ាយហ្វាយ">
 
-
-
-
+<!ENTITY runtimePanel_custom "ផ្ទាល់ខ្លួន">
 <!ENTITY runtimePanel_installsimulator "ដំឡើង​កម្មវិធី​និម្មិត">
-
-
+<!ENTITY runtimePanel_noadbhelper "ដំឡើង​កម្មវិធី​ជំនួយ ADB">
+<!ENTITY runtimePanel_nousbdevice "មិន​អាច​មើល​ឧបករណ៍​របស់​អ្នក?">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ត្រឹមត្រូវ">
@@ -95,9 +97,9 @@
 <!ENTITY prefs_general_title "ទូទៅ">
 <!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 
+<!ENTITY prefs_options_enablelocalruntime "បើក​ដំណើរការ​ពេលវេលា​មូលដ្ឋាន">
 
-
-
+<!ENTITY prefs_options_rememberlastproject "ចងចាំ​គម្រោង​ចុងក្រោយ">
 <!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
 <!ENTITY prefs_options_templatesurl "URL ពុម្ព">
 <!ENTITY prefs_options_templatesurl_tooltip "លិបិក្រម​នៃ​ពុម្ព​ដែល​អាច​រក​បាន">
@@ -108,17 +110,19 @@
 <!ENTITY prefs_options_expandtab_tooltip "ប្រើ​ចន្លោះ​មិន​ឃើញ​ជំនួស​ថេប តួអក្សរ">
 
 <!ENTITY prefs_options_detectindentation_tooltip "ស្មាន​ការ​បញ្ចូល​បន្ទាត់​ផ្អែកលើ​មាតិកា​ប្រភព">
-
-
+<!ENTITY prefs_options_autocomplete "បំពេញ​ស្វ័យប្រវត្តិ">
+<!ENTITY prefs_options_autocomplete_tooltip "បើក​ការ​បំពេញ​ស្វ័យប្រវត្តិ​សម្រាប់​កូដ">
 <!ENTITY prefs_options_autoclosebrackets "វង់​ក្រចក​បិទ​ស្វ័យប្រវត្តិ">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "បញ្ចូល​វង់ក្រចក​បិទ​ដោយ​ស្វ័យប្រវត្តិ">
-
+<!ENTITY prefs_options_keybindings "បន្សំ​គ្រាប់​ចុច">
 <!ENTITY prefs_options_keybindings_default "លំនាំ​ដើម">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "ឈ្មោះ">
 <!-- Runtime Details -->
 
-
+<!ENTITY runtimedetails_title "ព័ត៌មាន​ពេល​ដំណើរការ">
+<!ENTITY runtimedetails_adbIsRoot "ADB ជា root: ">
+<!ENTITY runtimedetails_summonADBRoot "ឧបករណ៍​ជា root">
 
 
 <!ENTITY runtimedetails_requestPrivileges "ស្នើ​សិទ្ធិ​ខ្ពស់​ជាង​នេះ">

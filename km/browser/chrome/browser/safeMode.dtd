@@ -6,9 +6,10 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "ចាប់ផ្ដើម​ក្នុង​របៀប​សុវត្ថិភាព">
-
+<!ENTITY refreshProfile.label         "ផ្ទុក &brandShortName; ឡើង​វិញ">
 
 <!ENTITY safeModeDescription3.label   "របៀប​សុវត្ថិភាព​គឺជា​របៀប​ពិសេស​មួយ​របស់ &brandShortName; ដែល​ត្រូវ​បាន​ប្រើ​ដើម្បី​ដោះស្រាយ​បញ្ហា ។">
 <!ENTITY safeModeDescription4.label   "ឧបករណ៍​បន្ថែម និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​របស់​អ្នក​នឹង​ត្រូវ​បាន​បិទ​ជា​បណ្ដោះអាសន្ន ។">
 
+<!ENTITY refreshProfileInstead.label  "អ្នក​អាច​រំលង​ការ​ដោះស្រាយ​បញ្ហា ហើយ​ព្យាយាម​ការ​ធ្វើ​ឲ្យ​ &brandShortName; ។">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

@@ -143,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ជា​ច្រើន…">
 <!ENTITY sharePageCmd.label "ចែករំលែក​ទំព័រ​នេះ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -483,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 <!ENTITY emailAudioCmd.label          "អ៊ីមែល​ជា​សំឡេង…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម">
@@ -698,10 +701,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "មិន​មែន​ឥឡូវ​នេះ​ទេ">
 
 <!ENTITY social.directory.label "ថត​សកម្ម">
-
-
-
-
+<!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
+<!ENTITY social.directory.button "យក​ខ្ញុំ​ទៅ​ទីនោះ!">
+<!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ដើម្បី​បន្ថែម​វា​ទៅ​កាន់ &brandShortName; ។">
+<!ENTITY social.directory.viewmore.text "មើល​ជា​ច្រើន">
 
 <!ENTITY customizeMode.tabTitle "ប្ដូរ​​តាម​តម្រូវ​ការ &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "លក្ខណៈ និង​ឧបករណ៍​បន្ថែម">
@@ -712,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.titlebar "របារ​ចំណង​ជើង">
 <!ENTITY customizeMode.lwthemes "រូបរាង">
 <!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
-
+<!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
 <!ENTITY customizeMode.lwthemes.menuManage "គ្រប់គ្រង">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ទទួល​បាន​រូបរាង​ច្រើន">
@@ -741,18 +744,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.moreinfo "ធាតុ​ដែល​មិន​បាន​អ៊ិនគ្រីប​មួយ​ចំនួន​នៅ​លើ​តំបន់​បណ្ដាញ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់។">
 <!ENTITY mixedContentBlocked2.learnMore "ស្វែងយល់​បន្ថែម">
 <!ENTITY mixedContentBlocked2.options "ជម្រើស">
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.unblock.label "បង្ហាញ​ការ​ការពារ​ឥឡូវ">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "បើក​ការការពារ">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
+<!ENTITY mixedContentBlocked2.disabled.message "ការ​ការពារ​ត្រូវ​បាន​បិទ">
 
 <!ENTITY trackingContentBlocked.message "តាមដាន">
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "ផ្នែក​ទំព័រ​ដែល​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ទប់ស្កាត់។">
+<!ENTITY trackingContentBlocked.learnMore "ស្វែងយល់​បន្ថែម">
+<!ENTITY trackingContentBlocked.options "ជម្រើស">
+<!ENTITY trackingContentBlocked.unblock2.label "បិទ​ការ​ការពារ​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "បើក​ការ​ការ​ពារ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "បិទ​ការ​ការ​ពារ​ការ​តាមដាន">
@@ -798,12 +801,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 <!ENTITY panicButton.view.deleteCookies           "លុប​ <html:strong>ខូឃី</html:strong> ថ្មីៗ">
 <!ENTITY panicButton.view.deleteHistory           "លុប <html:strong>ប្រវត្តិ</html:strong> ថ្មី">
-
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ជ្រើស <html:strong>ផ្ទាំង</html:strong> និង <html:strong>បង្អួច</html:strong> ទាំងអស់">
+<!ENTITY panicButton.view.openNewWindow           "បើក​បង្អួច​ដែល​បាន​សម្អាត​ថ្មី">
 
 <!ENTITY panicButton.view.undoWarning             "សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។">
+<!ENTITY panicButton.view.forgetButton            "ភ្លេច!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "ប្រវត្តិ​បច្ចុប្បន្ន​របស់​អ្នក​ត្រូវ​បាន​សម្អាត។">
+<!ENTITY panicButton.thankyou.msg2                "ការ​រុករក​សុវត្ថិភាព!">
+<!ENTITY panicButton.thankyou.buttonlabel         "អរគុណ!">
 

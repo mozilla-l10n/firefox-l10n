@@ -11,9 +11,15 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "ចុច​នៅ​លើ">
+<!ENTITY profilerUI.emptyNotice2    "ចុច​ប៊ូតុង ដើម្បី​ចាប់ផ្ដើម​ការ​កត់ត្រា​ការ​ហៅ​មុខងារ JavaScript ។">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "ចុច​នៅ​លើ">
+<!ENTITY profilerUI.stopNotice2    "ចុច​ប៊ូតុង​ម្ដងទៀត​ដើម្បី​បញ្ឈប់​ការ​កំណត់​ទម្រង់។">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
