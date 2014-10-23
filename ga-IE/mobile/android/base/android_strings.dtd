@@ -146,7 +146,7 @@
 <!ENTITY pref_category_home_summary "Saincheap do leathanach baile">
 <!ENTITY pref_category_home_panels "Painéil">
 <!ENTITY home_add_panel_title "Cuir painéal nua leis">
-<!ENTITY home_add_panel_empty "Níor aimsíomar aon phainéil a d'fhéadfá cur le do leathanach.">
+<!ENTITY home_add_panel_empty "Níor aimsíomar aon phainéil a d\'fhéadfá cur le do leathanach.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
