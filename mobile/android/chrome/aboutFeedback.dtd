@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Daha fazla bilgi için ">
-<!ENTITY support.link              "&brandShortName; Desteği'ni">
-<!ENTITY support.post2             " de ziyaret edebilirsiniz.">
+<!ENTITY support.pre3              "Sık karşılaşılan sorunlara çözüm bulmak için ">
+<!ENTITY support.link2             "destek sitemizi">
+<!ENTITY support.post3             " ziyaret edin.">
 
 <!ENTITY happy.header              "Harika!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Belki daha sonra">
 <!ENTITY happy.noThanks            "Hayır, teşekkürler">
 
+<!ENTITY sad.header                "Tüh!">
 <!ENTITY sad.message               "&brandShortName; ile ilgili sorunlar yaşamanıza üzüldük. Lütfen bize söyleyin ki düzeltebilelim.">
 <!ENTITY sad.placeholder           "Geri bildiriminizi buraya yazın">
-<!ENTITY sad.lastSite              "Son ziyaret edilen site (tercihe bağlı)">
+<!ENTITY sad.lastSite2             "Son ziyaret ettiğim siteyi ekle">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Bildirdiğiniz için teşekkürler.">
+<!ENTITY sad.thanksHeader2         "Teşekkür ederiz.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Or else.">
 
-<!ENTITY feedback.privacy          "Gizliliğinizi korumak için lütfen geri bildiriminize herhangi bir kişisel bilgi eklemeyin.">
+<!ENTITY feedback.privacy2         "Gizliliğinizi korumak için lütfen geri bildiriminize herhangi bir kişisel bilgi eklemeyin.">
 <!ENTITY feedback.send             "Geri bildirim gönder">
