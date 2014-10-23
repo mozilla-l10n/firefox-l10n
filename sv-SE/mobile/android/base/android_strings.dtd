@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_advanced "Avancerat">
 <!ENTITY pref_category_customize "Anpassa">
+<!ENTITY pref_category_customize_summary "Hem, sök, flikar, importera">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Språk">
+<!ENTITY pref_category_language_summary "Byt din webbläsares språk ">
 <!ENTITY pref_browser_locale "Webläsarens Språk">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Bokmärke">
 <!ENTITY overlay_share_reading_list_btn_label "Lägg till i läslistan">
+<!ENTITY overlay_share_bookmark_btn_label_already "Redan bokmärkt">
+<!ENTITY overlay_share_reading_list_btn_label_already "Redan i läslistan">
 <!ENTITY overlay_share_send_other "Skicka till andra enheter">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
 <!ENTITY pref_category_display "Visa">
+<!ENTITY pref_category_display_summary "Text, namnlist, helskärm surfning">
 <!ENTITY pref_category_privacy_short "Integritet">
+<!ENTITY pref_category_privacy_summary "Kontrollera lösenord, kakor, spårning, datatrafik">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQs, val av datanätverk">
 <!ENTITY pref_category_datareporting "Dataalternativ">
 <!ENTITY pref_learn_more "Läs mer">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
+<!ENTITY pref_category_devtools_summary "Fjärravlusare, visa blinkande">
 <!ENTITY pref_developer_paint_flashing "Färg blixtrande ">
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_remember_signons "Spara lösenord">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Visa inte meny">
 <!ENTITY pref_clear_private_data2 "Rensa nu ">
 <!ENTITY pref_clear_private_data_category "Rensa känslig data">
-<!ENTITY pref_clear_on_exit_title "Rensa alltid vid avslut">
+<!ENTITY pref_clear_on_exit_title2 "Töm vid avstängning">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synka dina flikar, bokmärken, lösenord, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
+<!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
-<!ENTITY datareporting_wifi_geolocation_summary "Ta emot Wi-Fi och mobil platsdata när du kör i bakgrunden och delar den med &vendorShortName; för att göra geolocation servicen bättre. ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Hämta uppdateringar automatiskt">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privata">
 <!ENTITY tabs_synced "Synkade">
 <!ENTITY set_image_fail "Kan inte använda bild">
+<!ENTITY set_image_path_fail "Kunde inte spara bild">
 <!ENTITY set_image_chooser_title "Använd bild som">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Up till &formatS; ">
 
+<!ENTITY home_remote_tabs_title "Synkade flikar ">
+<!ENTITY home_remote_tabs_empty "Dina flikar från andra enheter visas här. ">
+<!ENTITY home_remote_tabs_unable_to_connect "Anslutningen misslyckades">
+<!ENTITY home_remote_tabs_need_to_sign_in "Snälla logga in för att återansluta ditt Firefox Konto och fortsätta synka. ">
+<!ENTITY home_remote_tabs_trouble_verifying "Problem med att verifiera ditt konto?">
+<!ENTITY home_remote_tabs_need_to_verify "Var vänlig verifera ditt Firefox Konto för att börja synka.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 enhet gömd">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; enheter gömda">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Gömda enheter">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Ta fram valda enheter">
+
 <!ENTITY private_browsing_title "Privat surfning">
-<!ENTITY private_tabs_panel_empty_desc "Denna privata flikar dyker upp här. Vi sparar inget av din webläsarhistorik eller kakor, bokmärken och filer som du har laddat ner kommer fortfarande sparas på din enhet. ">
+<!ENTITY private_tabs_panel_empty_desc "Dina privata flikar dyker upp här. Vi sparar inget av din webläsarhistorik eller kakor, bokmärken och filer som du har laddat ner kommer fortfarande sparas på din enhet. ">
 <!ENTITY private_tabs_panel_learn_more "Vill du veta mer?">
+
+<!ENTITY remote_tabs_panel_moved_title "Vart tog mina flikar vägen?">
+<!ENTITY remote_tabs_panel_moved_desc "Vi har flyttat dina flikar från dina andra enheter till en panel på din hem-sida så att du enkelt kan hitta dom varje gång du öppnar en ny flik.">
+<!ENTITY remote_tabs_panel_moved_link "Ta mig till min nya panel.">
 
 <!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
@@ -474,6 +508,12 @@ från Android">
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Starta om webläsaren för att ändringarna ska börja gälla">
+<!ENTITY new_tablet_pref "Aktivera nya surfplatte gränssnittet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Ny gästsession">
@@ -482,6 +522,8 @@ från Android">
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; startas om">
 <!ENTITY new_guest_session_text "Personen som använder den kommer inte att kunna se något av din personliga webbläsardata (såsom sparade lösenord, historik eller bokmärken).\n\nNär gästen är klar kommer dess webbläsardata att raderas och din session att återupptas.">
+<!ENTITY guest_browsing_notification_title "Gäst surfning är aktiverat">
+<!ENTITY guest_browsing_notification_text "Tryck för att avsluta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; startas om">
 <!ENTITY exit_guest_session_text "Webbläsardatan från den här sessionen kommer att raderas.">
