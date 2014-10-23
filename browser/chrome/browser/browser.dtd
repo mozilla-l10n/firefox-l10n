@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "ഈ താള്‍ പങ്കു് വയ്ക്കുക">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ഈ">
-<!ENTITY shareLinkCmd.label "ഈ കണ്ണി  പങ്കിടുക">
-<!ENTITY shareLinkCmd.accesskey "ഈ">
-<!ENTITY shareImageCmd.label "ഈ ചിത്രം പങ്കിടുക">
-<!ENTITY shareImageCmd.accesskey "ഈ">
-<!ENTITY shareSelectCmd.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "ഈ വീഡിയോ പങ്കിടുക">
-<!ENTITY shareVideoCmd.accesskey "ഈ">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "അംഗമാകുക">
 <!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -477,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "വീഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 <!ENTITY emailAudioCmd.label          "ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailAudioCmd.accesskey      "ഈ">
 <!ENTITY playPluginCmd.label          "ഈ പ്ലഗിന്‍ സജീവമാക്കുക">
@@ -693,6 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName; യഥേഷ്ടമാക്കുക">
 <!ENTITY customizeMode.menuAndToolbars.header2 "കൂടുതല്‍ വിശേഷതകളും പ്രയോഗങ്ങളും">
 <!ENTITY customizeMode.menuAndToolbars.empty "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ആവശ്യമുണ്ടോ?">
@@ -700,6 +710,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
 <!ENTITY customizeMode.toolbars "ടൂള്‍ബാറുകള്‍ കാണിയ്ക്കുക/അദൃശ്യമാക്കുക">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
+
 
 
 
@@ -734,6 +745,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
+
+
 
 
 
