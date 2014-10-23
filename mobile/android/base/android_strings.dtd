@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Gosodiadau">
 <!ENTITY pref_category_advanced "Uwch">
 <!ENTITY pref_category_customize "Cyfaddasu">
+<!ENTITY pref_category_customize_summary "Cartref, chwilio, tabiau, mewnforio">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Iaith">
+<!ENTITY pref_category_language_summary "Newid iaith eich porwr">
 <!ENTITY pref_browser_locale "Iaith y porwr">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Nod Tudalen">
 <!ENTITY overlay_share_reading_list_btn_label "Ychwanegu at y Rhestr Ddarllen">
+<!ENTITY overlay_share_bookmark_btn_label_already "Nod Tudalen arno eisoes">
+<!ENTITY overlay_share_reading_list_btn_label_already "Eisoes yn y Rhestr Ddarllen">
 <!ENTITY overlay_share_send_other "Anfon i ddyfais arall">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Chwilio">
 <!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
 <!ENTITY pref_category_display "Dangosydd">
+<!ENTITY pref_category_display_summary "Testun, bar teitl, pori sgrin llawn">
 <!ENTITY pref_category_privacy_short "Preifatrwydd">
+<!ENTITY pref_category_privacy_summary "Rheoli cyfrineiriau, cwcis, tracio, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Ynghylch &brandShortName;, Cwestiynau, dewisiadau data">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
 <!ENTITY pref_learn_more "Dysgu rhagor">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_devtools "Offer datblygwyr">
+<!ENTITY pref_category_devtools_summary "Dadfygio pell, fflasio paent">
 <!ENTITY pref_developer_paint_flashing "Fflachio paent">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Peidio dangos dewislen">
 <!ENTITY pref_clear_private_data2 "Clirio nawr">
 <!ENTITY pref_clear_private_data_category "Clirio data preifat">
-<!ENTITY pref_clear_on_exit_title "Clirio wrth adael, bob tro">
+<!ENTITY pref_clear_on_exit_title2 "Clirio wrth adael">
 <!ENTITY pref_clear_on_exit_summary2 "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \u0022Gadael\u0022 o\u0027r brif ddewislen">
 <!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
 <!ENTITY pref_plugins "Ategion">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Cydweddu eich tabiau, nodau tudalen, cyfrineiriau, hanes">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
+<!ENTITY pref_import_android_summary "Mewnforio nodau tudalen a hanes o\u0027r porwr cynhenid">
 <!ENTITY pref_private_data_history2 "Hanes pori">
 <!ENTITY pref_private_data_formdata "Hanes ffurflenni a chwilio">
 <!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
 <!ENTITY datareporting_wifi_title2 "Gwasanaethau Lleoliad &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Mae\u0027n derbyn data lleoliad diwyfr a cellol wrth redeg yn y cefndir ac yn ei rhannu gyda &vendorShortName; i wella ein gwasanaeth geoleoliad">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Mae\u0027n rhannu eich lleoliad diwyfr a cellol eich dyfais gyda &vendorShortName; i wella ein gwasanaethau geoleoliad">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Llwytho ddiweddariadau i lawr yn awtomatig">
 <!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
 <!ENTITY pref_update_autodownload_never "Byth">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Preifat">
 <!ENTITY tabs_synced "Cydweddwyd">
 <!ENTITY set_image_fail "Methu gosod delwedd">
+<!ENTITY set_image_path_fail "Methu cadw delwedd">
 <!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "I\u0027r &formatS;">
 
+<!ENTITY home_remote_tabs_title "Tabiau wedi eu Cydweddu">
+<!ENTITY home_remote_tabs_empty "Mae eich tabiau o ddyfeisiau eraill yn ymddangos yma.">
+<!ENTITY home_remote_tabs_unable_to_connect "Methu cysylltu">
+<!ENTITY home_remote_tabs_need_to_sign_in "Mewngofnodwch i ailgysylltu â\u0027ch Cyfrif Firefox a pharhau i gydweddu.">
+<!ENTITY home_remote_tabs_trouble_verifying "Anhawster gwirio eich cyfrif?">
+<!ENTITY home_remote_tabs_need_to_verify "Gwiriwch eich Cyfrif Firefox i gychwyn cydweddu.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 dyfais cudd">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dyfais cudd">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dyfeisiau cudd">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Datguddio dyfeisiau penodol">
+
 <!ENTITY private_browsing_title "Pori Preifat">
 <!ENTITY private_tabs_panel_empty_desc "Bydd eich tabiau preifat yn ymddangos yn fan hyn. Tra nad ydym yn cadw dim o\u0027ch hanes pori na chwcis, bydd nodau tudalen a ffeiliau y byddwch yn eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
 <!ENTITY private_tabs_panel_learn_more "Eisiau gwybod mwy?">
+
+<!ENTITY remote_tabs_panel_moved_title "Lle aeth fy nhabiau?">
+<!ENTITY remote_tabs_panel_moved_desc "Rydym wedi symud eich tabiau o ddyfeisiau eraill i banel ar eich sgrin gartref sy\u0027n hawdd cael ato bob tro fyddwch yn agor tab newydd.">
+<!ENTITY remote_tabs_panel_moved_link "Cymrwch fi i fy mhanel newydd.">
 
 <!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
@@ -474,6 +508,12 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Ailgychwyn y porwr i\u0027r newidiadau ddigwydd">
+<!ENTITY new_tablet_pref "Galluogi rhyngwyneb newydd tabledi">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiwn Gwestai Newydd">
@@ -482,6 +522,8 @@ o Android">
 <!ENTITY guest_session_dialog_cancel "Diddymu">
 <!ENTITY new_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
 <!ENTITY new_guest_session_text "Ni fydd y person sy\u0027n ei ddefnyddio yn gallu gweld dim o\u0027ch data pori personol ( cyfrineiriau, hanes na nodau tudalen).\n\nPan fydd eich gwestai wedi gorffen, bydd eu data pori\u0027n cael ei ddileu a\u0027ch sesiwn chi\u0027n cael ei hadfer.">
+<!ENTITY guest_browsing_notification_title "Mae pori gwestai wedi ei alluogi">
+<!ENTITY guest_browsing_notification_text "Tapio i adael">
 
 <!ENTITY exit_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
 <!ENTITY exit_guest_session_text "Bydd manylion pori\u0027r sesiwn yn cael ei ddileu.">

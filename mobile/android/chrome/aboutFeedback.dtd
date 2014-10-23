@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Gallwch fynd i ">
-<!ENTITY support.link              "Cefnogaeth &brandShortName;">
-<!ENTITY support.post2             " am ragor o wybodaeth.">
+<!ENTITY support.pre3              "Ymwelwch â'n ">
+<!ENTITY support.link2             "Gwefan Cefnogaeth">
+<!ENTITY support.post3             " i gael atebion i anawsterau cyffredin.">
 
 <!ENTITY happy.header              "Mae hynny'n dda ei glywed!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Rhywbryd eto efallai">
 <!ENTITY happy.noThanks            "Dim diolch">
 
+<!ENTITY sad.header                "O na!">
 <!ENTITY sad.message               "Mae'n ddrwg gennym glywed eich bod wedi cael anawsterau gyda &brandShortName;. Dywedwch wrthym beth ddigwyddodd fel bod modd i ni ei gywiro.">
 <!ENTITY sad.placeholder           "Rhowch eich adborth yma">
-<!ENTITY sad.lastSite              "Ymwelwyd diwethaf â'r wefan (dewisol)">
+<!ENTITY sad.lastSite2             "Cynnwys y wefan ymwelwyd â hi ddiwethaf">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Diolch am adael i ni wybod.">
+<!ENTITY sad.thanksHeader2         "Diolch.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Neu fel arall.">
 
-<!ENTITY feedback.privacy          "Er mwyn eich preifatrwydd, peidiwch â chynnwys unrhyw wybodaeth y mae modd eich adnabod yn eich adborth.">
+<!ENTITY feedback.privacy2         "Er lles eich preifatrwydd, peidiwch â chynnwys unrhyw wybodaeth bersonol yn eich adborth.">
 <!ENTITY feedback.send             "Anfon Adborth">
