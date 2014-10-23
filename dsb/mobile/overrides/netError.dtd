@@ -17,13 +17,19 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serwer njejo se namakał">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Pśeglědajśo adresu za pisańskimi zmólkami ako 
-<strong>ww</strong>.pśikład.de město 
-<strong>www</strong>.pśikład.de</li> 
-<li>Jolic njamóžośo boka zacytaś, pśeglědajśo daty swójogo rěda abo swój WLAN-zwisk. 
-<button id='wifi'>WLAN zmóžniś</button> 
-</li> 
+<strong>ww</strong>.pśikład.com město 
+<strong>www</strong>.pśikład.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Pytaś</button> 
+</div> 
+<li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo WLAN-zwisk. 
+<button id='wifi'>WLAN zmóžniś</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
@@ -37,10 +43,16 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok z někakeje pśicyny cytaś.</p>">
 
 <!ENTITY malformedURI.title "Adresa njejo płaśiwa">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Webadrese pišu se zwětšego ako 
-<strong>http://www.pśikład.de/</strong>.</li> 
-<li>Zawěsććo, až wužywaśo doprědka nachylone nakósne smužki (t.j. 
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Web-adrese pišu se zwětšego ako 
+<strong>http://www.pśikład.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Pytaś</button> 
+</div> 
+<li>Zawěsććo, až wužywaśo nakósne smužki (t. gr. 
 <strong>/</strong>).</li> 
 </ul>">
 
@@ -51,6 +63,8 @@
 <!ENTITY notCached.longDesc "<p>Pominany dokument stoj w pufrowaku &brandShortName; k dispoziciji.</p><ul><li>Ako wěstnotnu napšawu &brandShortName; njewótwołujo awtomatiski delikatne dokumenty znowego.</li><li>Klikniśo na Hyšći raz, aby dokument hyšći raz z websedła wótwołał.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-modus">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Wopytajśo hyšći raz. &brandShortName; wopytajo zwisk wócynjaś a bok znowego zacytowaś. 
 <button id='wifi'>WLAN zmóžniś</button> 
@@ -86,6 +100,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Njejo móžno proksyjowy serwer namakaś">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Pśeglědajśo proksyjowe nastajenja, aby zawěsćił, až su korektne.</li> 
 <li>Pśegldajśo, aby zawěsćił, až waš rěd ma funkcioněrujucy datowy abo WLAN-zwisk. 
@@ -119,6 +135,8 @@ až něchten wopytujo serwer imitěrowaś.</li> 
 <li>Jolic sćo ze serwerom w zachadnosći wuspěšnje zwězany był, by mógła zmólka 
 snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśězone. Wopytajśo za mało wokognuśow hyšći raz.</li> 

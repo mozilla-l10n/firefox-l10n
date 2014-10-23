@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Dodanki">
 <!ENTITY aboutAddons.header2                    "Waše dodanki">
 <!ENTITY aboutAddons.options                    "Nastajenja">
-<!ENTITY aboutAddons.browseAll                  "Wšykne dodanki Firefox pśepytaś">
 
 <!ENTITY addonAction.enable                     "Zmóžniś">
 <!ENTITY addonAction.disable                    "Znjemóžniś">
