@@ -15,7 +15,7 @@
 
 <!ENTITY  bookmarks_title "Էջանիշեր">
 <!ENTITY  history_title "Պատմություն">
-<!ENTITY  reading_list_title "Ընթերցումների ցանկ">
+<!ENTITY  reading_list_title "Ընթերցացուցակ">
 <!ENTITY  recent_tabs_title "Վերջին ներդիրները">
 
 <!ENTITY  switch_to_tab "Անցնել ներդիրին">
@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
+<!ENTITY pref_category_customize_summary "Տուն, որոնել, ներդիրներ, ներմուծել">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Լեզուն">
+<!ENTITY pref_category_language_summary "Փոխել դիտարկիչի լեզուն">
 <!ENTITY pref_browser_locale "Ծրագրի լեզուն">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -99,7 +101,9 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Էջանիշ">
-<!ENTITY overlay_share_reading_list_btn_label "Ավելացնել Ընթերցումների ցանկին">
+<!ENTITY overlay_share_reading_list_btn_label "Ավելացնել Ընթերցացուցակում">
+<!ENTITY overlay_share_bookmark_btn_label_already "Արդեն էջանշվել է">
+<!ENTITY overlay_share_reading_list_btn_label_already "Արդեն Ընթերցացուցակում է">
 <!ENTITY overlay_share_send_other "Ուղարկել այլ սարքի">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Փնտրել">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
 <!ENTITY pref_category_display "Տեսքը">
+<!ENTITY pref_category_display_summary "Տեքստ, գլխագիր, լիաէկրան դիտարկում">
 <!ENTITY pref_category_privacy_short "Անվտանգությունը">
+<!ENTITY pref_category_privacy_summary "Կառավարել գաղտնաբառերը, cookie-ները, տվյալները">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "&brandShortName;-ի մասին, ՀՏՀ, տվյալների ընտրություն">
 <!ENTITY pref_category_datareporting "Ընտրել տվյալները">
 <!ENTITY pref_learn_more "Մանրամասն">
 <!ENTITY pref_category_installed_search_engines "Տեղադրված Որոնիչները">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Հուշում. Նոր որոնիչը կարող եք ավելացնել սեղմած պահելով որոնման դաշտի վրա, ապա կտտացնելով &formatI; պատկերակին:">
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
+
 
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Չցուցադրել">
 <!ENTITY pref_clear_private_data2 "Մաքրել">
 <!ENTITY pref_clear_private_data_category "Մաքրել անձնական տվյալները">
-<!ENTITY pref_clear_on_exit_title "Դուրս գրվելիս միշտ մաքրել">
+<!ENTITY pref_clear_on_exit_title2 "Մաքրել փակելիս">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Օգտ. Հիմնական գաղտնաբառ">
 <!ENTITY pref_sync "Սինք">
+<!ENTITY pref_sync_summary "Համաժամեցնել ներդիրները, էջանիշերը, գաղտնաբառերը, պատմությունը">
 <!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
 <!ENTITY pref_import_android "Ներմուծել Android-ից">
+<!ENTITY pref_import_android_summary "Ներմուծել էջանիշեր և պատմություն հիմնական դիտարկիչից">
 <!ENTITY pref_private_data_history2 "Դիտարկումների պատմությունը">
 <!ENTITY pref_private_data_formdata "Որոնման ձևերի պատմությունը">
 <!ENTITY pref_private_data_cookies2 "Cookie-ներ և ակտիվ մուտքեր">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
-<!ENTITY datareporting_wifi_geolocation_summary "Խորապատկերում աշխատելիս ստանում է Wi-Fi և այլ տվյալներ, դրանք ուղարկում &vendorShortName;-ին՝ տեղորոշման ծառայությունը բարելավելու համար">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Թարմացումները բեռնել ինքնավար">
 <!ENTITY pref_update_autodownload_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_update_autodownload_never "Երբեք">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Անձնական">
 <!ENTITY tabs_synced "Սինք">
 <!ENTITY set_image_fail "Հնարավոր չէ պահել նկարը">
+<!ENTITY set_image_path_fail "Հնարավոր չէ պահպանել նկարը">
 <!ENTITY set_image_chooser_title "Պահել նկարը որպես">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -350,9 +360,9 @@ size. -->
 <!ENTITY site_settings_clear        "Մաքրել">
 <!ENTITY site_settings_no_settings  "Մաքրելու համար կարգավորում չկա:">
 
-<!ENTITY reading_list_added "Էջը ավելացվել է Ընթերցումների ցանկում">
-<!ENTITY reading_list_failed "Հնարավոր չէ էջը ավելացվել Ընթերցումների ցանկում">
-<!ENTITY reading_list_duplicate "Էջը արդեն Ընթերցումների ցանկում է">
+<!ENTITY reading_list_added "Էջը ավելացվել է Ընթերցացուցակում">
+<!ENTITY reading_list_failed "Հնարավոր չէ էջը ավելացվել Ընթերցացուցակում">
+<!ENTITY reading_list_duplicate "Էջը արդեն Ընթերցացուցակում է">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -393,7 +403,7 @@ size. -->
 <!ENTITY home_reading_list_hint2 "Հուշում. Եթե ցանկանում եք նյութերը պահել և հետո ընթերցել, ապա սեղմած պահեք &formatI; պատկերակին, երբ այն երևում է գլխագրում:">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք նյութերը Ընթերցումների ցանկում՝ սեղմած պահելով ընթերցելու կոճակը, երբ այն երևում է գլխագրում։">
+<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք նյութերը Ընթերցացուցակում՝ սեղմած պահելով ընթերցելու կոճակը, երբ այն երևում է գլխագրում։">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Տեղափոխել &formatS;">
 
-<!ENTITY private_browsing_title "Գաղտնի դիտարկում">
+<!ENTITY home_remote_tabs_title "Սինք էջեր">
+<!ENTITY home_remote_tabs_empty "Ձեր ներդիրները այլ սարքերից:">
+<!ENTITY home_remote_tabs_unable_to_connect "Չհաջողվեց կապ հաստատել">
+<!ENTITY home_remote_tabs_need_to_sign_in "Մուտք գործեք՝ վերակապակցվելու Firefox-ի Հաշվի հետ և շարունակելու Սինքը:">
+<!ENTITY home_remote_tabs_trouble_verifying "Խնդիրնե՞ր հաշիվը հաստատելիս:">
+<!ENTITY home_remote_tabs_need_to_verify "Հաստատեք Firefox-ի Ձեր Հաշիվը՝ Սինքը սկսելու համար:">
 
+<!ENTITY home_remote_tabs_one_hidden_device "1 թաքնված սարք">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; թաքնված սարքեր">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Թաքնված սարքեր">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Ցուցադրել նշված սարքերը">
+
+<!ENTITY private_browsing_title "Գաղտնի դիտարկում">
+<!ENTITY private_tabs_panel_empty_desc "Գաղտնի ներդիրները կցուցադրվեն այստեղ: Չնայած չեն պահվում դիտարկման պատմությունը, cookie-ները, էջանիշերը և ֆայլերը, որոնք ներբեռնել եք, այնուհանդերձ դրանք կմնա ձեր սարքում:">
 <!ENTITY private_tabs_panel_learn_more "Ցանկանու՞մ եք իմանալ ավելին">
+
+<!ENTITY remote_tabs_panel_moved_title "Որտե՞ղ են իմ ներդիրները:">
+<!ENTITY remote_tabs_panel_moved_desc "Մենք տեղափոխել եք ձեր ներդիրները այլ սարքերից մեկնարկային էջի վահանակ՝ ամեն անգամնոր ներդիր բացելիս դրանց արագ մուտք ունենալու համար: ">
+<!ENTITY remote_tabs_panel_moved_link "Տա՛ր ինձ նոր վանահակ:">
 
 <!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ փնտրել">
 
@@ -474,6 +508,12 @@ Android-ից">
 
 <!ENTITY updater_apply_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_apply_select2 "Դիպչեք՝ թարմացնելու համար">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Կիրառելու համար վերամեկնարկեք դիտարկիչը:">
+<!ENTITY new_tablet_pref "Միացնել թաբլեթ UI-ին">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Հյուրի աշխատաշրջան">
@@ -482,6 +522,8 @@ Android-ից">
 <!ENTITY guest_session_dialog_cancel "Չեղարկել">
 <!ENTITY new_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY new_guest_session_text "Սա օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառերը, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
+<!ENTITY guest_browsing_notification_title "Միացրած է Հյուրի աշխատաշրջանը">
+<!ENTITY guest_browsing_notification_text "Դիպչեք՝ դուրս գալու համար">
 
 <!ENTITY exit_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY exit_guest_session_text "Այս աշխատաշրջանի դիտարկման պատմությունը կմաքրվի:">
