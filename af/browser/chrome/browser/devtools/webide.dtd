@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Bekyk">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+<!ENTITY projectPanel_tabs "Oortjies">
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Installeer Simulator">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Beskrywing">
+<!ENTITY details_location "Ligging">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Sluit">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Open byvoegingbestuurder">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Algemeen">
+<!ENTITY prefs_restore "Laai verstek terug">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "Verstek">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Naam">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Hulp">

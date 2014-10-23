@@ -30,3 +30,11 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Vra my altyd waar om lêers te stoor">
 <!ENTITY alwaysAsk.accesskey "V">
+
+<!ENTITY alwaysCheckDefault.label         "Kontroleer altyd aan die begin om te sien of &brandShortName; die verstekblaaier is">
+<!ENTITY alwaysCheckDefault2.accesskey    "K">
+<!ENTITY setAsMyDefaultBrowser.label      "Maak &brandShortName; die verstekblaaier">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "v">
+<!ENTITY isDefault.label                  "&brandShortName; is tans die verstekblaaier">
+<!ENTITY isNotDefault.label               "&brandShortName; is nie die verstekblaaier nie">
+
