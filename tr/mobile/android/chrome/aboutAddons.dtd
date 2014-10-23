@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Eklentiler">
 <!ENTITY aboutAddons.header2                    "Eklentileriniz">
 <!ENTITY aboutAddons.options                    "Seçenekler">
-<!ENTITY aboutAddons.browseAll                  "Tüm Firefox eklentilerine göz atın">
 
 <!ENTITY addonAction.enable                     "Etkinleştir">
 <!ENTITY addonAction.disable                    "Devre dışı bırak">

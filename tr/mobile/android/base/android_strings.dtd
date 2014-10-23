@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Dil">
+<!ENTITY pref_category_language_summary "Tarayıcınızın dilini değiştirin">
 <!ENTITY pref_browser_locale "Tarayıcı dili">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Yer imi">
 <!ENTITY overlay_share_reading_list_btn_label "Okuma Listesi\u0027ne ekle">
+<!ENTITY overlay_share_bookmark_btn_label_already "Zaten imlenmiş">
+<!ENTITY overlay_share_reading_list_btn_label_already "Zaten Okuma Listesi\u0027nde">
 <!ENTITY overlay_share_send_other "Diğer cihazlara gönder">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
 <!ENTITY pref_category_display "Görünüm">
+
 <!ENTITY pref_category_privacy_short "Gizlilik">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_learn_more "Daha fazla bilgi">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
+
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
 <!ENTITY pref_clear_private_data2 "Şimdi temizle">
 <!ENTITY pref_clear_private_data_category "Özel verileri sil">
-<!ENTITY pref_clear_on_exit_title "Çıkarken her zaman temizle">
+<!ENTITY pref_clear_on_exit_title2 "Çıkışta temizle">
 <!ENTITY pref_clear_on_exit_summary2 "Ana menüden \u0022Çık\u0022ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Sekmelerinizi, yer imlerinizi, parolalarınızı, geçmişinizi eşitleyin">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
+
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-<!ENTITY datareporting_wifi_geolocation_summary "Coğrafi konum servisimizi geliştirmek için arka planda çalışırken Wi-Fi ve hücresel konum verilerini toplayarak &vendorShortName; ile paylaşır">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Güncellemeleri otomatik indir">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_update_autodownload_never "Asla">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
 <!ENTITY set_image_fail "Resim ayarlanamadı">
+<!ENTITY set_image_path_fail "Resim kaydedilemedi">
 <!ENTITY set_image_chooser_title "Resmi ayarla">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,29 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Yukarı: &formatS;">
 
+<!ENTITY home_remote_tabs_title "Eşitlenmiş Sekmeler">
+<!ENTITY home_remote_tabs_empty "Diğer cihazlardaki sekmeleriniz burada görünür.">
+<!ENTITY home_remote_tabs_unable_to_connect "Bağlanılamadı">
+<!ENTITY home_remote_tabs_need_to_sign_in "Firefox Hesabı\u0027nızı yeniden bağlayarak eşitlemeyi sürdürmek için lütfen giriş yapın.">
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Gizli Tarama">
 <!ENTITY private_tabs_panel_empty_desc "Gizli sekmeleriniz burada görünecek. Tarama geçmişiniz ve çerezleriniz kaydedilmemesine rağmen yer imleriniz ve indirdiğiniz dosyalar cihazınıza kaydedilecektir.">
 <!ENTITY private_tabs_panel_learn_more "Daha fazla bilgi almak ister misiniz?">
+
+<!ENTITY remote_tabs_panel_moved_title "Sekmelerim nereye gitti?">
+
+
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
@@ -471,6 +501,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_pref "Yeni tablet arabirimini etkinleştir">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yeni konuk oturumu">
@@ -479,6 +512,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
+
+<!ENTITY guest_browsing_notification_text "Çıkmak için dokunun">
 
 <!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY exit_guest_session_text "Bu oturumdaki tarama verileri silinecektir.">

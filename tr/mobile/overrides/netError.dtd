@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li><strong>www</strong>.example.com</li> yerine 
-<strong>ww</strong>.example.com gibi 
-yazım hatalarına karşı adresi kontrol edin. 
-<li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin. 
-<button id='wifi'>Wi-Fi'ı etkinleştir</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc " <ul> 
@@ -37,9 +31,8 @@ yazım hatalarına karşı adresi kontrol edin.
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Adresler genelde <strong>http://www.siteadresi.com/</strong> biçiminde yazılır.</li> 
-<li>Adreste düzgün bölü (taksim) işareti (<strong>/</strong>) bulunduğundan emin olun. Bu işaret sola değil, <strong>sağa yatık</strong> olmalıdır.</li> </ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -48,6 +41,8 @@ yazım hatalarına karşı adresi kontrol edin.
 <!ENTITY notCached.longDesc "<p>Talep edilen belge &brandShortName; önbelleğinde mevcut değil.</p><ul><li>Bir güvenli önlemli olarak, &brandShortName; hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi siteden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrim dışı kipi">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeyi çalışacaktır. 
 <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> 
@@ -82,6 +77,8 @@ yazım hatalarına karşı adresi kontrol edin.
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Vekil sunucu ayarlarını kontrol ederek doğruluğundan emin olun.</li> 
 <li>Aygınızın veri veya Wi-Fi bağlantısını kontrol ederek çalışmakta olduğundan emin olun. 
@@ -113,6 +110,8 @@ reddedilmesi olabilmektedir.</li>
 <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
 <li>Gelişmiş şifreleme ayarlarına bakarak güvenlik sorunu yaşadığı bilinen sunucuların listesini görebilir ve üzerinde değişiklik yapabilirsiniz.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Site geçici olarak kullanım dışı veya çok meşgul olabilir Birkaç dakika sonra tekrar deneyin.</li> 
