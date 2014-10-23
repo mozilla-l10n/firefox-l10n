@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер табылмады">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>Адресті теру кезінде қате кетпегенге көз жеткізіңіз, мысалы, 
-<strong>www</strong>.example.com орнына 
-<strong>ww</strong>.example.com</li> 
-<li>Егер бірде-бір парақ жүктелмесе – құрылғыңыздың мобильді не Wi-Fi байланысын тексеріңіз. 
-<button id='wifi'>Wi-Fi іске қосу</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
 <!ENTITY malformedURI.title "Адрес пішімі қате">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Веб адрестері әдетте келесідей жазылады - 
-<strong>http://www.example.com/</strong></li> 
-<li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -51,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Қайталап көріңіз. &brandShortName; байланысты орнатып, парақты қайта жүктеу талабын жасайды. 
 <button id='wifi'>Wi-Fi іске қосу</button> 
@@ -85,6 +77,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сервері табылмады">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Прокси сервер баптауларын терксеріңіз.</li> 
 <li>Құрылғыңыздың мобильді не Wi-Fi желісімен байланысын тексеріңіз. 
@@ -114,6 +108,8 @@
 <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді</li> 
 <li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Сайт уақытша қолжетерсіз немесе тым жүктелген болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> 
