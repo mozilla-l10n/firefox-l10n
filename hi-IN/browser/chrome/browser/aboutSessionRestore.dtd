@@ -26,9 +26,16 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "चलिए चलते हैं!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "सफल!">
 
+<!ENTITY welcomeback2.pageTitle     "सफल!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; जाने के लिए तैयार है.">
 
+<!ENTITY welcomeback2.label.restoreAll  "सभी विंडो और टैब पुनर्स्थापित करें">
+<!ENTITY welcomeback2.label.restoreSome "अपने चाहते को पुनर्स्थापित करें">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -37,3 +44,4 @@ their language.
 -->
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "अधिक जानने की आप क्या कर सकते हैं">
