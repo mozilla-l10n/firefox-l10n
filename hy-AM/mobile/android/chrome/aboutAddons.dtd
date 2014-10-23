@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Հավելումներ">
 <!ENTITY aboutAddons.header2                    "Ձեր Հավելումները">
 <!ENTITY aboutAddons.options                    "Ընտրանքներ">
-<!ENTITY aboutAddons.browseAll                  "Firefox-ի բոլոր հավելումները">
 
 <!ENTITY addonAction.enable                     "Միացնել">
 <!ENTITY addonAction.disable                    "Անջատել">

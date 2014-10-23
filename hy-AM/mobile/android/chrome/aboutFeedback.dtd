@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Կարող եք նաև այցելել՝ ">
-<!ENTITY support.link              "&brandShortName;-ի Աջակցույթունը">
-<!ENTITY support.post2             " լրացուցիչ տեղեկությունների համար:">
+<!ENTITY support.pre3              "Այցելեք մեր ">
+<!ENTITY support.link2             "Աջակցող կայք">
+<!ENTITY support.post3             " գտնելու համար պատասխաններ:">
 
 <!ENTITY happy.header              "Ուրախ ենք լսելու">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Ավելի ուշ">
 <!ENTITY happy.noThanks            "Ոչ">
 
+<!ENTITY sad.header                "Օ՜, ո՛չ:">
 <!ENTITY sad.message               "Ցավում ենք, որ խնդիրներ եք ունեցել &brandShortName;-ի հետ կապված: Խնդրում ենք ասեք մեզ, թե ինչ է պատահել:">
 <!ENTITY sad.placeholder           "Գրեք ձեր կարծիքը">
-<!ENTITY sad.lastSite              "Այցելած վերջին կայքը (պարտադիր չէ)">
+<!ENTITY sad.lastSite2             "Ներառել վերջին այցելած կայքը">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Շնորհակալություն">
+<!ENTITY sad.thanksHeader2         "Շնորհակալություն:">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Հակառակ դեպքում մենք նրանց ցույց կտանք :)">
 
-<!ENTITY feedback.privacy          "Անվտանգության նկատառումներով որևէ անձնական տեղեկություն մի ներառեք:">
+<!ENTITY feedback.privacy2         "Անվտանգության նկատառումներով որևէ անձնական տեղեկություն մի ներառեք:">
 <!ENTITY feedback.send             "Ուղարկել">

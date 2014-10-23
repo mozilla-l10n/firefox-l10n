@@ -89,7 +89,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Չկարգավորված Էջանիշեր">
 <!ENTITY bookmarks.folder.desktop.label "Էջանիշեր">
 <!ENTITY bookmarks.folder.mobile.label "Բջջային էջանիշեր">
-<!ENTITY bookmarks.folder.readinglist.label "Ընթերցումների ցանկ">
+<!ENTITY bookmarks.folder.readinglist.label "Ընթերցացուցակ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ամրացված է">
 <!-- Notification strings -->
