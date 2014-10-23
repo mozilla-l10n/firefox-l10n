@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>टाइपिंग त्रुटियों के लिए पते की जाँच करें 
+<strong>ww</strong>.example.com की जगह
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>यदि आप किसी भी पेज लोड करने में असमर्थ हैं, तो आपके उपकरण के डेटा या वाई-फाई कनेक्शन की जाँच करें. 
+<button id='wifi'>Enable Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहीं मिली">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "पता वैध नहीं है">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>वेब पतों को आम तौर पर इस तरह लिखा जाता है 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>सुनिश्चित करें कि आप आगे स्लैश का उपयोग कर रहे हैं (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
