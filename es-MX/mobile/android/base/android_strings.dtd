@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Idioma">
+<!ENTITY pref_category_language_summary "Cambiar el idioma de tu navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
+
+
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personaliza tus herramientas de búsqueda">
 <!ENTITY pref_category_display "Mostrar">
+
 <!ENTITY pref_category_privacy_short "Privacidad">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Aprender más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Consejo: Agrega cualquier sitio web a tu lista de proveedores de búsqueda haciendo pulsación larga en su campo de búsqueda y tocando despúes el icono &formatI;. ">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
+
 <!ENTITY pref_developer_paint_flashing "Resaltador de pintado">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Don\u0027t show menu">
 <!ENTITY pref_clear_private_data2 "Borrar ahora">
 <!ENTITY pref_clear_private_data_category "Clear private data">
-<!ENTITY pref_clear_on_exit_title "Siempre borrar cuando salga">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente borrará tus datos cada vez que selecciones \u0022Salir\u0022 del menú principal.">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos vas a borrar">
 <!ENTITY pref_plugins "Plugins">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Use master password">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Import from Android">
+
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_formdata "Historial de formularios y búsquedas">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informador de fallos">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Servicios de Ubicación">
-<!ENTITY datareporting_wifi_geolocation_summary "Recibe Wi-Fi y datos de ubicación celular cuando esté operando en el fondo y lo comparte con &vendorShortName; para mejorar nuestros servicios de geolocalización.">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Bajar actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo mediante Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privada">
 <!ENTITY tabs_synced "Sincronizado">
 <!ENTITY set_image_fail "No se puede colocar la imagen">
+<!ENTITY set_image_path_fail "No se pudo guardar la imagen.">
 <!ENTITY set_image_chooser_title "Establece imagen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Navegar a &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synced Tabs">
+<!ENTITY home_remote_tabs_empty "Tus pestañas de otros dispositivos aparecen aquí.">
+<!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Navegación Privada">
 <!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas se mostrarán aquí. Mientras que nosotros nos conservamos tu historial de búsqueda o cookies, los marcadores y archivos que descargaste aún estarán guardados en tu dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "¿Quieres saber más?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
 
@@ -474,6 +503,9 @@ desde Android">
 
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Toca para actualizar">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nueva sesión de invitado">
@@ -482,6 +514,8 @@ desde Android">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; ahora reiniciará">
 <!ENTITY new_guest_session_text "La persona que lo use no podrá ver ninguno de tus datos de navegación personales (como contraseñas, historial y marcadores guardados).\n\nCuando tu invitado acabe, sus datos de navegación serán eliminados y se restaurará tu sesión.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; ahora reiniciará">
 <!ENTITY exit_guest_session_text "Los datos de búsqueda de esta sesión serán eliminados.">
