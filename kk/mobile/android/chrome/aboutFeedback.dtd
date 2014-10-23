@@ -17,9 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Сонымен қатар, көбірек білу үшін ">
-<!ENTITY support.link              "&brandShortName; қолдау көрсету сайтын">
-<!ENTITY support.post2             " шола аласыз.">
+
 
 <!ENTITY happy.header              "Бұны естуге қуаныштымыз!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +33,14 @@
 <!ENTITY happy.maybeLater2         "Мүмкін, кейінірек">
 <!ENTITY happy.noThanks            "Жоқ, рахмет">
 
+<!ENTITY sad.header                "Қап, өкінішті-ақ!">
 <!ENTITY sad.message               "&brandShortName; қолдану кезінде сізде мәселелер болғаны үшін өкінеміз. Олар туралы бізге айтыңыз, сонда біз оларды жөндей аламыз.">
 <!ENTITY sad.placeholder           "Өз пікіріңізді осында қалдырыңыз">
-<!ENTITY sad.lastSite              "Соңғы қаралған сайт (міндетті емес)">
+<!ENTITY sad.lastSite2             "Соңғы қаралған сайт адресін қосу">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Білдірткеніңіз үшін рахмет.">
+<!ENTITY sad.thanksHeader2         "Рахмет.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +51,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Немесе олар өкінеді.">
 
-<!ENTITY feedback.privacy          "Жекелігіңізді сақтау мақсатында, өзіңізді анықтайтын ешбір мәліметті қоспаңыз.">
+<!ENTITY feedback.privacy2         "Жекелігіңізді сақтау мақсатында, ешбір жеке мәліметті қоспаңыз.">
 <!ENTITY feedback.send             "Кері байланыс хабарламасын жіберу">

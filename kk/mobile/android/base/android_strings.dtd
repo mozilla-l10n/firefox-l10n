@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Баптаулар">
 <!ENTITY pref_category_advanced "Кеңейтілген">
 <!ENTITY pref_category_customize "Баптау">
+<!ENTITY pref_category_customize_summary "Үй, іздеу, беттер, импорт">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Тіл">
+<!ENTITY pref_category_language_summary "Браузеріңіздің тілін өзгертіңіз">
 <!ENTITY pref_browser_locale "Браузер тілі">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Бетбелгі">
 <!ENTITY overlay_share_reading_list_btn_label "Оқу тізіміне қосу">
+<!ENTITY overlay_share_bookmark_btn_label_already "Бетбелгілерде бар болып тұр">
+<!ENTITY overlay_share_reading_list_btn_label_already "Оқу тізімінде бар болып тұр">
 <!ENTITY overlay_share_send_other "Басқа құрылғыларға жіберу">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
 <!ENTITY pref_category_display "Көрініс">
+<!ENTITY pref_category_display_summary "Мәтін, атау жолығы, толық экранды шолу">
 <!ENTITY pref_category_privacy_short "Жекелік">
+<!ENTITY pref_category_privacy_summary "Парольдер, cookies, бақылау, деректерді басқару">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "&brandShortName; туралы, ЖҚС, деректер таңдауы">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
 <!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
+
 <!ENTITY pref_developer_paint_flashing "Жыпылықтауды салу">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Мәзірді көрсетпеу">
 <!ENTITY pref_clear_private_data2 "Қазір тазарту">
 <!ENTITY pref_clear_private_data_category "Жеке деректерді өшіру">
-<!ENTITY pref_clear_on_exit_title "Шыққанда әрқашан тазарту">
+<!ENTITY pref_clear_on_exit_title2 "Шыққанда тазарту">
 <!ENTITY pref_clear_on_exit_summary2 "Сіз басты мәзірден \u0022Шығу\u0022 батырмасын басқан кезде &brandShortName; деректеріңізді автоөшіреді">
 <!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
 <!ENTITY pref_plugins "Плагиндер">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
 <!ENTITY pref_sync "Синхрондау">
+<!ENTITY pref_sync_summary "Беттер, бетбелгілер, парольдер, тарихты синхрондау">
 <!ENTITY pref_search_suggestions "Іздеу ұсыныстарын көрсету">
 <!ENTITY pref_import_android "Android-тан импорттау">
+<!ENTITY pref_import_android_summary "Жүйелік браузерден бетбелгілер және шолу тарихын импорттау">
 <!ENTITY pref_private_data_history2 "Шолу тарихы">
 <!ENTITY pref_private_data_formdata "Формалар және іздеу тарихы">
 <!ENTITY pref_private_data_cookies2 "Cookies және белсенді сеанстар">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
-<!ENTITY datareporting_wifi_geolocation_summary "Фонда орындалып, Wi-Fi және ұялы желілер деректерін ұстап, олармен &vendorShortName;-мен геолокация қызметтерін жақсарту мақсатында бөліседі">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Жаңартуларды автожүктеу">
 <!ENTITY pref_update_autodownload_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_update_autodownload_never "Ешқашан">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Жеке">
 <!ENTITY tabs_synced "Синхрондалған">
 <!ENTITY set_image_fail "Суретті орнату мүмкін емес">
+<!ENTITY set_image_path_fail "Суретті сақтау мүмкін емес">
 <!ENTITY set_image_chooser_title "Суретті қалайша орнату">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
 
+<!ENTITY home_remote_tabs_title "Синхрондалған беттер">
+
+<!ENTITY home_remote_tabs_unable_to_connect "Қосылу нәтижесіз аяқталды">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Жекелік шолу">
 <!ENTITY private_tabs_panel_empty_desc "Сіздің жекелік беттеріңіз осында көрсетіледі. Сіздің шолу тарихыңыз және cookies сақталмаса да, бетбелгілер және жүктеліп алынған файлдар құрылғыңызда сақталады.">
 <!ENTITY private_tabs_panel_learn_more "Көбірек білгіңіз келе ме?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
@@ -472,6 +501,9 @@ Android-тан импорттау">
 
 <!ENTITY updater_apply_title2 "&brandShortName; жаңартуы қолжетерлік">
 <!ENTITY updater_apply_select2 "Жаңарту үшін шертіңіз">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Жаңа қоңақ сессиясы">
@@ -480,6 +512,8 @@ Android-тан импорттау">
 <!ENTITY guest_session_dialog_cancel "Бас тарту">
 <!ENTITY new_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY new_guest_session_text "Оны қолданатын адам сіздің жеке деректеріңізді көре алмайтын болады (сақталған парольдер, тарих не бетбелгілер сияқты).\n\nҚоңағыңыз өз жұмысын аяқтаған кезде, оның шолу деректері өшіріледі және сіздің сессияңыз қалпына келтіріледі.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY exit_guest_session_text "Бұл сессияның шолу деректері өшірілетін болады.">
