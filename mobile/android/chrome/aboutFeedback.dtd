@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Du kan även besöka ">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " för mer information.">
+<!ENTITY support.pre3              "Besök våran ">
+<!ENTITY support.link2             "Webbplats för support">
+<!ENTITY support.post3             " för att få svar på vanliga frågor">
 
 <!ENTITY happy.header              "Det var kul att höra!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Kanske senare">
 <!ENTITY happy.noThanks            "Nej tack">
 
+<!ENTITY sad.header                "Åh nej!">
 <!ENTITY sad.message               "Det var tråkigt att du hade problem med &brandShortName;. Berätta vad som hände så kanske vi kan fixa det.">
 <!ENTITY sad.placeholder           "Skriv in dina synpunkter här">
-<!ENTITY sad.lastSite              "Senast besökta webbplats (valfritt)">
+<!ENTITY sad.lastSite2             "Inkludera senast besökta sida">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Tack för dina synpunkter.">
+<!ENTITY sad.thanksHeader2         "Tack så mycket.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Eller annars.">
 
-<!ENTITY feedback.privacy          "Av integritetsskäl bör du inte inkludera några uppgifter som identifierar dig personligen i dina synpunkter.">
+<!ENTITY feedback.privacy2         "Av integritetsskäl bör du inte inkludera några uppgifter som identifierar dig personligen i dina synpunkter.">
 <!ENTITY feedback.send             "Skicka synpunkter">
