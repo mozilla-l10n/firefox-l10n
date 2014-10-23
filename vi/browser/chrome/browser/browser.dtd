@@ -139,15 +139,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Chỉnh sửa trang ưa thích này">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
 <!ENTITY sharePageCmd.commandkey "S">
 
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
 
 
 
-<!ENTITY shareSelectCmd.label "Chia sẻ lựa chọn (S)">
-<!ENTITY shareSelectCmd.accesskey "S">
+
 
 
 
@@ -209,6 +212,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tiện ích">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -469,6 +474,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 
 
+
+
 <!ENTITY playPluginCmd.label          "Kích hoạt plugin này (c)">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Ẩn plugin này (H)">
@@ -694,6 +701,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chuyển sang trò chuyện (c)">
 <!ENTITY social.chatBar.accesskey "c">
@@ -727,6 +740,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
 <!ENTITY pointerLock.notification.message "Ấn ESC vào bất kỳ lúc nào để hiển thị lần nữa.">
 
 <!ENTITY pluginNotification.showAll.label "Hiện tất cả (S)">
@@ -750,5 +765,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY appMenuSidebars.label         "Thanh lề">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "Thao tác này không thể hoàn tác được.">
+
+
+
 
 
