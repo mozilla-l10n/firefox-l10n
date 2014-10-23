@@ -1,21 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
-
-<!ENTITY pluginWizard.availablePluginsPage.description.label "निम्न प्लगइनहरुहरू उपलब्ध छन्:">
-
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "केही प्लगइनहरुको स्थापना समयमा तपाईंबाट थप जानकारी आवश्यक पर्न सक्छ।">
-
-<!ENTITY pluginWizard.licensePage.accept.label               "म सहमत छु।">
-<!ENTITY pluginWizard.licensePage.deny.label                 "म सहमत छैन (प्लगइन स्थापना गरिने छैन)।">
-
-<!ENTITY pluginWizard.installPluginsPage.title               "प्लगइनहरु स्थापना हुँदै">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ले प्लगइनहरु स्थापना गर्दै छ...">
-
-
-
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
@@ -30,7 +15,6 @@
 <!ENTITY disabledPlugin                                      "यो प्लगइन अक्षम भएको छ।">
 
 <!ENTITY hidePluginBtn.label                                 "प्लगइन लुकाउनुहोस्">
-<!ENTITY installPlugin                                       "स्थापित प्लगइन...">
 <!ENTITY managePlugins                                       "प्लगिनहरु संम्हाल्नुहोस्...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
