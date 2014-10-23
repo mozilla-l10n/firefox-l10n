@@ -10,3 +10,4 @@
 
 <!ENTITY refreshProfileInstead.label "Tamién pues omitir la solución de problemes y probar a reaniciar &brandShortName;.">
 <!ENTITY refreshProfile.label "Reaniciar &brandShortName;">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; zarróse de sópitu al arrancar. Esto podría ser por problemes con dalgún complementu. Pues intentar iguar esto usando'l mou seguru.">
