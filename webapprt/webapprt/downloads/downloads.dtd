@@ -15,8 +15,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "ठहराव(P)">
 <!ENTITY cmd.pause.accesskey              "P">
-
-
+<!ENTITY cmd.resume.label                 "पुनः आरम्भ(R)">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "खारिज करे(C)">
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "संग्राहक फोल्डर खोलें(F)">
