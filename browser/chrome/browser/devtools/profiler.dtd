@@ -36,8 +36,10 @@
 <!ENTITY profilerUI.clearButton "Մաքրել">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY profilerUI.table.percentage  "Արժեք">
 
+
+
+<!ENTITY profilerUI.table.samples         "Նմուշներ">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

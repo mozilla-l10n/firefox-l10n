@@ -19,8 +19,8 @@
 <!ENTITY navbarOverflow.label                "Լր. գործիքներ...">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Թարմացնել էջը">
-<!ENTITY  reloadTab.accesskey                "Թ">
+<!ENTITY  reloadTab.label                    "Կրկին բեռնել ներդիրը">
+<!ENTITY  reloadTab.accesskey                "Կ">
 <!ENTITY  reloadAllTabs.label                "Կրկին բեռնել բոլոր ներդիրները">
 <!ENTITY  reloadAllTabs.accesskey            "բ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Գտնել այլ սարքեր...">
 <!ENTITY sharePageCmd.label "Տարածել էջը">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "լ">
-<!ENTITY shareLinkCmd.label "Տարածել հղումը">
-<!ENTITY shareLinkCmd.accesskey "ո">
-<!ENTITY shareImageCmd.label "Տարածել նկարը">
-<!ENTITY shareImageCmd.accesskey "կ">
-<!ENTITY shareSelectCmd.label "Տարածել նշվածը">
-<!ENTITY shareSelectCmd.accesskey "Տ">
-<!ENTITY shareVideoCmd.label "Տարածել տեսանյութը">
-<!ENTITY shareVideoCmd.accesskey "յ">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Տարածել հղումը">
+<!ENTITY shareLink.accesskey "ր">
+<!ENTITY shareImage.label "Տարածել նկարը">
+<!ENTITY shareImage.accesskey "ր">
+<!ENTITY shareSelect.label "Տարածել նշվածը">
+<!ENTITY shareSelect.accesskey "ծ">
+<!ENTITY shareVideo.label "Տարածել տեսանյութը">
+<!ENTITY shareVideo.accesskey "ծ">
 <!ENTITY feedsMenu.label "Բաժանորդագրվել">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
@@ -165,8 +170,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Գնալ Հաջորդ Էջ">
 <!ENTITY backForwardButtonMenu.tooltip "Աջ սեղմում կամ պտտում ներքև՝ պատմությունը դիտելու համար">
 <!ENTITY backForwardButtonMenuMac.tooltip "Պտտեք ներքև՝ պատմությունը դիտելու համար">
-<!ENTITY reloadCmd.label              "Վերբեռնել">
-<!ENTITY reloadButton.tooltip         "Վերաբեռնավորել Տվյալ Էջը">
+<!ENTITY reloadCmd.label              "Կրկին բեռնել">
+<!ENTITY reloadButton.tooltip         "Կրկին բեռնել տվյալ Էջը">
 <!ENTITY stopCmd.label                "Ընդհատել">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ընդհատել Էջի բեռնավորումը">
@@ -212,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Հավելումներ">
 <!ENTITY addons.accesskey             "Հ">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Հավելվածներ">
+<!ENTITY webapps.accesskey            "ե">
 
 <!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
@@ -420,8 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Վերբեռնել շրջանակը">
-<!ENTITY reloadFrameCmd.accesskey     "Վ">
+<!ENTITY reloadFrameCmd.label         "Կրկին բեռնել շրջանակը">
+<!ENTITY reloadFrameCmd.accesskey     "Կ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել Նշված Մասի Կոդը">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Դիտել MathML Կոդը">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -435,8 +442,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "Տ">
 <!ENTITY viewFrameInfoCmd.label       "Տեղեկություն շրջանակի մասին">
 <!ENTITY viewFrameInfoCmd.accesskey   "Տ">
-<!ENTITY reloadImageCmd.label         "Վերբեռնել Նկարը">
-<!ENTITY reloadImageCmd.accesskey     "Վ">
+<!ENTITY reloadImageCmd.label         "Կրկին բեռնել Նկարը">
+<!ENTITY reloadImageCmd.accesskey     "Կ">
 <!ENTITY viewImageCmd.label           "Նայել Նկարը">
 <!ENTITY viewImageCmd.accesskey       "Ն">
 <!ENTITY viewImageInfoCmd.label       "Տեղեկություն Նկարի Մասին">
@@ -477,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ա">
 <!ENTITY emailVideoCmd.label          "Տեսանյութը ուղարկել էլ. փոստով...">
 <!ENTITY emailVideoCmd.accesskey      "ս">
+
+
 <!ENTITY emailAudioCmd.label          "Ուղարկել էլ. փոստով...">
 <!ENTITY emailAudioCmd.accesskey      "ր">
 <!ENTITY playPluginCmd.label          "Ակտիվացնել բաղադրիչը">
@@ -691,7 +700,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "Ա">
 <!ENTITY social.closeNotificationItem.label "Ոչ հիմա">
 
-
+<!ENTITY social.directory.label "Ակտիվացումների գրացուցակ">
+<!ENTITY social.directory.text "Կարող եք ակտիվացնել այլ սարքեր այստեղից:">
+<!ENTITY social.directory.button "Տար ինձ այստեղից:">
+<!ENTITY social.directory.introText "Սեղմեք ծառայությանը՝ &brandShortName;-ում ավելացնելու համար:">
+<!ENTITY social.directory.viewmore.text "Տեսնել ավելին">
 
 <!ENTITY customizeMode.tabTitle "Կարգավորել &brandShortName;-ը">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Լրացուցիչ գործիքներ և հնարավորություններ">
@@ -707,6 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label "Օգտ. &brandShortName;-ի ձևավորում">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
@@ -733,15 +747,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.unblock.label "Անջատել պաշտպանությունը">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "Ա">
 <!ENTITY mixedContentBlocked2.block.label "Միացնել պաշտպանությունը">
-<!ENTITY mixedContentBlocked2.block.accesskey "ց">
+<!ENTITY mixedContentBlocked2.block.accesskey "Մ">
 <!ENTITY mixedContentBlocked2.disabled.message "Պաշտպանությունը անջատած է">
 
 <!ENTITY trackingContentBlocked.message "Հետևում">
 <!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
 <!ENTITY trackingContentBlocked.learnMore "Ավելին">
 <!ENTITY trackingContentBlocked.options "Կարգավորումներ">
-<!ENTITY trackingContentBlocked.unblock.label2 "Անջատել պաշտպանությունը այս կայքի համար">
-<!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանություն">
+<!ENTITY trackingContentBlocked.unblock2.label "Անջատել պաշտպանությունը այս կայքի համար">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "Ա">
+<!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանությունը">
+<!ENTITY trackingContentBlocked.block.accesskey "Մ">
 <!ENTITY trackingContentBlocked.disabled.message "Հետևելու պաշտպանությունը անջատած է:">
 
 <!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">
