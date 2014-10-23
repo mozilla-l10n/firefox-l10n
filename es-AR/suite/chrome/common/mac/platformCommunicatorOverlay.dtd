@@ -30,7 +30,8 @@
 
 <!ENTITY printSetupCmd.label            "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey        "u">
- 
+
+<!ENTITY findReplaceCmd.key             "F">
 <!ENTITY redoCmd.key                    "Z">  
 
 <!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
