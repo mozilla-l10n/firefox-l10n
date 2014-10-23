@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Nwyak pot buk man">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "a">
-<!ENTITY shareLinkCmd.label "Nwyak kakube man">
-<!ENTITY shareLinkCmd.accesskey "a">
-<!ENTITY shareImageCmd.label "Nwyak cal man">
-<!ENTITY shareImageCmd.accesskey "a">
-<!ENTITY shareSelectCmd.label "Nwyak Yer">
-<!ENTITY shareSelectCmd.accesskey "N">
-<!ENTITY shareVideoCmd.label "Nwyak video man">
-<!ENTITY shareVideoCmd.accesskey "a">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "Cone">
 <!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
 <!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Med-ikome">
 <!ENTITY addons.accesskey             "M">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Layub Kakube">
 <!ENTITY webDeveloperMenu.accesskey   "L">
@@ -477,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "l">
 <!ENTITY emailVideoCmd.label          "Cwal video…">
 <!ENTITY emailVideoCmd.accesskey      "l">
+
+
 <!ENTITY emailAudioCmd.label          "Cwal dwon…">
 <!ENTITY emailAudioCmd.accesskey      "l">
 <!ENTITY playPluginCmd.label          "Cak larwak man">
@@ -693,6 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "Yik &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Gintic ki lapok kin jami me ameda">
 <!ENTITY customizeMode.menuAndToolbars.empty "I mito gin tic mukene?">
@@ -704,6 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.lwthemes.menuManage "Lo">
+
 
 
 
@@ -734,6 +745,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY trackingContentBlocked.message "Lubo">
+
+
 
 
 

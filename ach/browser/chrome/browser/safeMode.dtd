@@ -6,14 +6,9 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Cak I kit maber">
-<!ENTITY resetProfile.label           "Ter odoco &brandShortName;">
+
 
 <!ENTITY safeModeDescription3.label   "Kit maber obedo kit ma pire tek me &brandShortName; ma kitwero tic kwede me yubu bal.">
 <!ENTITY safeModeDescription4.label   "Med-ikome mamegi ki yik me ter ki juko ne woko pi tutunu.">
 
-<!ENTITY resetProfileInstead.label    "Itwero bene tero odoco &brandShortName; ka ce imito cako odoco.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; olore atura matye ka cakke. Man romo bino pi med-ikom onyo peko mukene. Itwero temo cobo peko ne kun i tero odoco &brandShortName; i kit mapire kene onyo yubo bal i Kit Maber.">
-<!ENTITY resetProfileFooter.label       "Jami mukene weng ki bitero i mapire kene me ka yubu jami.">
-<!ENTITY safeModeInstead.label          "Ka ce pe imito man, itwero mede i Kit Maber me timo yubu bal mamegi ki med-ikome mamegi ki ter me yik ma kikwanyo woko pi tutunu.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
