@@ -19,3 +19,4 @@
 <!ENTITY aboutPage.relNotes.label               "வெளியீட்டு குறிப்புகள்">
 <!ENTITY aboutPage.credits.label                "புகழ்கள்">
 <!ENTITY aboutPage.license.label                "உரிம தகவல்">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
