@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Nastajenja">
 <!ENTITY pref_category_advanced "Rozšěrjene">
 <!ENTITY pref_category_customize "Přiměrić">
+<!ENTITY pref_category_customize_summary "Startowa strona, pytanje, rajtarki, import">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Rěč">
+<!ENTITY pref_category_language_summary "Změńće rěč swojeho wobhladowaka">
 <!ENTITY pref_browser_locale "Rěč wobhladowaka">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Zapołožku přidać">
 <!ENTITY overlay_share_reading_list_btn_label "Čitanskej lisćinje přidać">
+<!ENTITY overlay_share_bookmark_btn_label_already "Hižo jako zapołožka składowany">
+<!ENTITY overlay_share_reading_list_btn_label_already "Hižo w čitanskej lisćinje">
 <!ENTITY overlay_share_send_other "Na druhe graty pósłać">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Pytać">
 <!ENTITY pref_category_search_summary "Přiměrće swojich pytanskich poskićowarjow">
 <!ENTITY pref_category_display "Zwobraznić">
+<!ENTITY pref_category_display_summary "Tekst, titulna lajsta, přehladowanje w połnej wobrazowce">
 <!ENTITY pref_category_privacy_short "Priwatnosć">
+<!ENTITY pref_category_privacy_summary "Kontrola hesłow, placki, slědowanje, daty">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Wo &brandShortName;, časte prašenja, wuběr datow">
 <!ENTITY pref_category_datareporting "Datowe wuběry">
 <!ENTITY pref_learn_more "Dalše informacije">
 <!ENTITY pref_category_installed_search_engines "Instalowane pytawy">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "POKIW: Přidajće swojej lisćinje pytanskich poskićowarjow websydło, tłóčo dołho na jeho pytanske polo a podótkńće so potom symbol &formatI;.">
 <!ENTITY pref_category_devtools "Wuwiwarske nastroje">
+<!ENTITY pref_category_devtools_summary "Zdalene pytanje zmylkow, barbny błyskot">
 <!ENTITY pref_developer_paint_flashing "Barbne wuzběhnjenje">
 <!ENTITY pref_developer_remotedebugging "Zdalene pytanje za zmylkami">
 <!ENTITY pref_remember_signons "Hesła sej spomjatkować">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Meni njepokazać">
 <!ENTITY pref_clear_private_data2 "Nětko zhašeć">
 <!ENTITY pref_clear_private_data_category "Priwatne daty zhašeć">
-<!ENTITY pref_clear_on_exit_title "Při skónčenju přeco zhašeć">
+<!ENTITY pref_clear_on_exit_title2 "Při kónčenju zhašeć">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; waše daty awtomatiscé zhaša, hdyžkuli \u0022Skónčić\u0022 z hłowneho menija wuběraće.">
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjerće, kotre daty maja so zhašeć">
 <!ENTITY pref_plugins "Tykače">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synchronizujće swoje rajtarki, zapołožki, hesła, historiju">
 <!ENTITY pref_search_suggestions "Pytanske namjety pokazać">
 <!ENTITY pref_import_android "Z Androida importować">
+<!ENTITY pref_import_android_summary "Importujće zapołožki a historiju z prěnjotneho wobhladowaka">
 <!ENTITY pref_private_data_history2 "Přehladowanska historija">
 <!ENTITY pref_private_data_formdata "Formularna a pytanska historija">
 <!ENTITY pref_private_data_cookies2 "Placki a aktiwne přizjewjenja">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Spadowy rozprawjak">
 <!ENTITY datareporting_wifi_title2 "Stejnišćowa słužba &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Přijima stejnišćowe daty Wi-Fi a mobilneho telefona, hdyž w pozadku běži a dźěli je z &vendorShortName;, zo by so naša geolokalizěrowanska słužba polěpšiła">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Dźěli přibližne WLAN-stejnišćo a stejnišćo mobilneho telefona wašeho grata z &vendorShortName;, zo by so naša słužba za postajenje stejnišća polěpšiła">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Aktualizacije awtomatisce sćahnyć">
 <!ENTITY pref_update_autodownload_wifi "Jenož přez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Ženje">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Priwatny">
 <!ENTITY tabs_synced "Synchronizowany">
 <!ENTITY set_image_fail "Wobraz njeda so podać">
+<!ENTITY set_image_path_fail "Wobraz njeda so składować">
 <!ENTITY set_image_chooser_title "Wobraz stajić jako">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Hač do &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synchronizowane rajtarki">
+<!ENTITY home_remote_tabs_empty "Waše rajtarki z druhich gratow so tu pokazuja.">
+<!ENTITY home_remote_tabs_unable_to_connect "Zwisk móžno njeje">
+<!ENTITY home_remote_tabs_need_to_sign_in "Prošu přizjewće so, zo byšće so znowa ze swojim kontom Firefox zwjazał a ze synchronizaciju pokročował.">
+<!ENTITY home_remote_tabs_trouble_verifying "Maće problemy při přepruwowanju swojeho konta?">
+<!ENTITY home_remote_tabs_need_to_verify "Prošu přepruwujće swoje konto Firefox, zo byšće synchronizaciju započał.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 schowany grat">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; graty schowane">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Schowane graty">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Wubrane graty pokazać">
+
 <!ENTITY private_browsing_title "Priwatny modus">
 <!ENTITY private_tabs_panel_empty_desc "Waše priwatne rajtarki so tu pokazaja. Mjeztym zo přehladowansku historiju abo placki njewobchowujemy, budu so zapołožki a dataje, kotrež sćahujeće, hišće na wašim graće składować.">
 <!ENTITY private_tabs_panel_learn_more "Chceće wjace zhonić?">
+
+<!ENTITY remote_tabs_panel_moved_title "Hdźe su moje rajtarki?">
+<!ENTITY remote_tabs_panel_moved_desc "Smy waše rajtarki z druhich grato do pola na wašej startowej stronje přesunyli, na kotrež maće lochki přistup, kóždy raz, hdyž nowy rajtark wočinjeće.">
+<!ENTITY remote_tabs_panel_moved_link "Dowjedź mje do mojeho noweho pola.">
 
 <!ENTITY pin_site_dialog_hint "Zapodajće pytanske klučowe słowo">
 
@@ -474,6 +508,12 @@ z Androida">
 
 <!ENTITY updater_apply_title2 "Aktualizacija za &brandShortName; k dispoziciji">
 <!ENTITY updater_apply_select2 "Dótkńće so, zo byšće aktualizował">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Startujće wobhladowak znowa, zo bychu so změny wuskutkowali.">
+<!ENTITY new_tablet_pref "Nowy tabletowy wužiwarski powjerch zmóžnić">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nowe hóstne posedźenje">
@@ -482,6 +522,8 @@ z Androida">
 <!ENTITY guest_session_dialog_cancel "Přetorhnyć">
 <!ENTITY new_guest_session_title "&brandShortName; budźe nětko znowa startować">
 <!ENTITY new_guest_session_text "Wosoba, kotraž jo wužiwa, njemóže waše wosobinske přehladowanske daty (na př. składowane hesła, historija abo zapołožki) widźeć.\n\nHdyž waš hósć je wotešoł, so jeho přehladowanske daty zhašeja a waše posedźenje so wobnowja.">
+<!ENTITY guest_browsing_notification_title "Hóstne přehladowanje je zmóžnjene">
+<!ENTITY guest_browsing_notification_text "Podótkńće so, zo byšće skónčił">
 
 <!ENTITY exit_guest_session_title "&brandShortName; budźe nětko znowa startować">
 <!ENTITY exit_guest_session_text "Přehladowanske daty z tutoho posedźenja so zhašeja.">

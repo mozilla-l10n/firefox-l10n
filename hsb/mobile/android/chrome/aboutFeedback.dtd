@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Móžeće tež ">
-<!ENTITY support.link              "podpěru &brandShortName;">
-<!ENTITY support.post2             " za dalše informacije wopytać.">
+<!ENTITY support.pre3              "Wopytajće naše ">
+<!ENTITY support.link2             "sydło pomocy,">
+<!ENTITY support.post3             " zo byšće wotmołwy na časte problemy dóstał.">
 
 <!ENTITY happy.header              "Rjenje, zo to słyšimy!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Snano pozdźišo">
 <!ENTITY happy.noThanks            "Ně, dźakuju so">
 
+<!ENTITY sad.header                "Ow ně!">
 <!ENTITY sad.message               "Je nam žel, zo sće problemy z &brandShortName; měł. Prošu zdźělće nam, štož je so stało, zo bychmy móhli to porjedźeć.">
 <!ENTITY sad.placeholder           "Zapodajće waš komentar tu">
-<!ENTITY sad.lastSite              "Jako poslednja wopytana strona (na přeće)">
+<!ENTITY sad.lastSite2             "Zapřijmiće jako poslednje wopytane sydło">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Dźakujemy so za zdźělenku.">
+<!ENTITY sad.thanksHeader2         "Dźakujemy so.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Póńdźe so jemu zlě.">
 
-<!ENTITY feedback.privacy          "Njezapřijmiće wosobinske daty do swojeho komentara, kotrež móhli was identifikować.">
+<!ENTITY feedback.privacy2         "Njezapřijimajće prošu wosobinske daty do swojeho komentara, zo byšće swoju priwatnosć škitał.">
 <!ENTITY feedback.send             "Komentar pósłać">
