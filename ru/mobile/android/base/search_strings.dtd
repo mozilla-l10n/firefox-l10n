@@ -4,8 +4,8 @@
 
 <!ENTITY search_app_name "Поиск &brandShortName;">
 <!ENTITY search_bar_hint "Поиск через &formatS;">
-<!ENTITY search_empty_title "Поиск &brandShortName;">
-<!ENTITY search_empty_message "Быстрый поиск всего чего угодно">
+<!ENTITY search_empty_title2 "Начните поиск">
+<!ENTITY search_empty_message "Быстро найдите всё, что вам нужно">
 <!ENTITY search_plus_content_description "Добавить в панель поиска">
 <!ENTITY search_pref_title "Параметры">
 <!ENTITY search_pref_button_content_description "Параметры">

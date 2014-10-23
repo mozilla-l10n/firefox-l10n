@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY feedSubscriptions.label "Подписки на ленты новостей">
-<!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
+<!ENTITY learnMore.label "Узнать больше о лентах новостей">
 <!ENTITY feedTitle.label "Заголовок:">
 <!ENTITY feedTitle.accesskey "л">
 <!ENTITY feedLocation.label "Адрес ленты новостей:">
 <!ENTITY feedLocation.accesskey "ы">
 <!ENTITY feedLocation.placeholder "Введите корректный адрес ленты новостей">
+<!ENTITY locationValidate.label "Валидация">
+<!ENTITY validateText.label "Проверьте корректность и получите корректную ссылку.">
 <!ENTITY feedFolder.label "Хранить статьи в:">
 <!ENTITY feedFolder.accesskey "н">
 <!ENTITY quickMode.label "Показывать краткое описание статьи вместо загрузки веб-страницы">
@@ -18,8 +20,6 @@
 <!ENTITY autotagUsePrefix.label "Префикс меток:">
 <!ENTITY autotagUsePrefix.accesskey "е">
 <!ENTITY autoTagPrefix.placeholder "Введите префикс метки">
-<!ENTITY locationValidate.label "Валидация">
-<!ENTITY validateText.label "Проверьте корректность и получите корректную ссылку.">
 <!ENTITY button.addFeed.label "Добавить">
 <!ENTITY button.addFeed.accesskey "б">
 <!ENTITY button.editFeed.label "Обновить">
