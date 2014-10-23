@@ -74,7 +74,6 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "B">
-<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
 <!ENTITY findAgainCmd.key "G">
