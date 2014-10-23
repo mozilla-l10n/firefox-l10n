@@ -360,6 +360,8 @@
 <!ENTITY emailImageCmd.accesskey "а">
 <!ENTITY emailVideoCmd.label "Отправить видео по почте…">
 <!ENTITY emailVideoCmd.accesskey "а">
+<!ENTITY castVideoCmd.label "Отправить видео на устройство">
+<!ENTITY castVideoCmd.accesskey "в">
 <!ENTITY emailAudioCmd.label "Отправить аудио по почте…">
 <!ENTITY emailAudioCmd.accesskey "а">
 <!ENTITY playPluginCmd.label "Включить этот плагин">
