@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "You can also visit ">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " for more information.">
+<!ENTITY support.pre3              "Heimsækið   ">
+<!ENTITY support.link2             "Stuðnings svæði">
+<!ENTITY support.post3             "   til að fá svör við algengum málum.">
 
 <!ENTITY happy.header              "Það er gott að heyra!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Kannski seinna">
 <!ENTITY happy.noThanks            "Nei takk">
 
+<!ENTITY sad.header                "Ó nei!">
 <!ENTITY sad.message               "Okkur þykir það leitt að þú lentir í vandræðum með &brandShortName;. Vinsamlega látið okkur vita hvað gerðist svo við getum lagfært það.">
 <!ENTITY sad.placeholder           "Settu inn endurgjöf þína hér">
-<!ENTITY sad.lastSite              "Last visited site (optional)">
+<!ENTITY sad.lastSite2             "Hafa með síðasta svæðið sem var heimsótt">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+<!ENTITY sad.thanksHeader2         "Þakka þér.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Alveg sama hvað á gengur.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
+<!ENTITY feedback.privacy2         "Vinsamlega ekki setja neinar persónugreinanlegar upplýsingar í endurgjöf þína.">
 <!ENTITY feedback.send             "Senda endurgjöf">
