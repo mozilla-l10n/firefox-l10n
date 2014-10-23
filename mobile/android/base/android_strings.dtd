@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Stillingar">
 <!ENTITY pref_category_advanced "Ítarlegt">
 <!ENTITY pref_category_customize "Sérsníða">
+<!ENTITY pref_category_customize_summary "Heim, leit, flipar, flytja inn">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Tungumál">
+<!ENTITY pref_category_language_summary "Breyta tungumáli vafrans">
 <!ENTITY pref_browser_locale "Tungumál vafra">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Bókamerki">
 <!ENTITY overlay_share_reading_list_btn_label "Bæta við leslista">
+<!ENTITY overlay_share_bookmark_btn_label_already "Bókarmerki þegar til staðar">
+<!ENTITY overlay_share_reading_list_btn_label_already "Þegar í leslistanum">
 <!ENTITY overlay_share_send_other "Senda yfir í önnur tæki">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Leit">
 <!ENTITY pref_category_search_summary "Stilla leitarvélar">
 <!ENTITY pref_category_display "Birting">
+<!ENTITY pref_category_display_summary "Texti, titil slá, vafra með fullan skjá">
 <!ENTITY pref_category_privacy_short "Gagnaleynd">
+<!ENTITY pref_category_privacy_summary "Stjórnun lykilorða, smákaka, eftirlits, gagna">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Um &brandShortName;, FAQs, gagnaval">
 <!ENTITY pref_category_datareporting "Fleiri valkostir">
 <!ENTITY pref_learn_more "Fræðast meira">
 <!ENTITY pref_category_installed_search_engines "Uppsettar leitarvélar">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
 <!ENTITY pref_category_devtools "Verkfærakista forritarans">
+<!ENTITY pref_category_devtools_summary "Kembun með fjartengingu, paint flössun">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
 <!ENTITY pref_remember_signons "Muna lykilorð">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
 <!ENTITY pref_clear_private_data2 "Hreinsa núna">
 <!ENTITY pref_clear_private_data_category "Hreinsa upplýsingar einkamála">
-<!ENTITY pref_clear_on_exit_title "Always clear when quitting">
+<!ENTITY pref_clear_on_exit_title2 "Hreinsað í lok">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur  \u0022hætta\u0022  úr aðal valmyndinni">
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
@@ -205,11 +213,13 @@ size. -->
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synca flipana þína, bókarmerki, lykilorð, sögu">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_import_android "Flytja inn frá Android">
+<!ENTITY pref_import_android_summary "Flytja inn bókarmerki og sögu frá innbyggðum vafra">
 <!ENTITY pref_private_data_history2 "Ferill">
-<!ENTITY pref_private_data_formdata "Eyðublað  leitarferill">
-<!ENTITY pref_private_data_cookies2 "Smákökur  virkar innskráningar">
+<!ENTITY pref_private_data_formdata "Eyðublað &amp; leitarferill">
+<!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
 <!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
@@ -233,12 +243,12 @@ size. -->
 <!ENTITY pref_panels_move_up "Færa upp">
 <!ENTITY pref_panels_move_down "Færa niður">
 
-<!ENTITY datareporting_notification_title "&brandShortName; tölfærði  gögn">
+<!ENTITY datareporting_notification_title "&brandShortName; tölfærði &amp; gögn">
 <!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_action "Velja það sem deila á">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
 <!ENTITY datareporting_notification_summary_short "Til að bæta upplifun þína, &brandShortName;...">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hrunaskýrsla">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Staðsetningar þjónusta">
-<!ENTITY datareporting_wifi_geolocation_summary "Receives Wi-Fi and cellular location data when running in the background and shares it with &vendorShortName; to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Deila grófri Wi-Fi og GSM staðsetningu á tækinu þínu með &vendorShortName; til að bæta landfræðilega staðsetningar þjónustuna okkar">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Hlaða niður uppfærslur sjálfvirkt">
 <!ENTITY pref_update_autodownload_wifi "Eingöngu með Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrei">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Einka">
 <!ENTITY tabs_synced "Synced">
 <!ENTITY set_image_fail "Gat ekki notað mynd">
+<!ENTITY set_image_path_fail "Gat ekki vistað mynd">
 <!ENTITY set_image_chooser_title "Nota mynd sem">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Færa upp að &formatS;">
 
+<!ENTITY home_remote_tabs_title "Syncaðir flipar">
+<!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
+<!ENTITY home_remote_tabs_unable_to_connect "Gat ekki tengst">
+<!ENTITY home_remote_tabs_need_to_sign_in "Vinsamlega skráðu þig inn til að endurtengjast við Firefox reikninginn þinn og halda áfram synci.">
+<!ENTITY home_remote_tabs_trouble_verifying "Áttu í erfiðleikum með að staðfesta reikninginn þinn?">
+<!ENTITY home_remote_tabs_need_to_verify "Vinsamlega staðfesta Firefox reikninginn þinn til að hefja sync.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 falið tæki ">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; falin tæki">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Falin tæki">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Sýna valin tæki">
+
 <!ENTITY private_browsing_title "Vafra í einkaglugga">
 <!ENTITY private_tabs_panel_empty_desc "Einkaflipar þínir sjást hér. Þótt við geymum ekki neitt af sögu gögnum þínum né smákökum þá munu bókarmerki og skrár sem þú hleður niður samt vistast á tækinu þínu.">
 <!ENTITY private_tabs_panel_learn_more "Viltu vita meira?">
+
+<!ENTITY remote_tabs_panel_moved_title "Hvert fóru fliparnir mínir?">
+<!ENTITY remote_tabs_panel_moved_desc "Við höfum fært flipana þína frá öðrum tækjum inn í spjaldið á heimasíðunni þinni svo auðveldara sé að nálgast þá þegar þú opnar nýjan flipa.">
+<!ENTITY remote_tabs_panel_moved_link "Sýndu mér nýja spjaldið mitt.">
 
 <!ENTITY pin_site_dialog_hint "Sláðu inn leitar stikkorð">
 
@@ -474,6 +508,12 @@ frá Android">
 
 <!ENTITY updater_apply_title2 "Uppfærsla fáanleg fyrir &brandShortName;">
 <!ENTITY updater_apply_select2 "Snertu til að uppfæra">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Endurræsa þarf vafrann til að breytingarnar taki gildi">
+<!ENTITY new_tablet_pref "Virkja nýja töflu UI">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Ný gesta lota">
@@ -482,6 +522,8 @@ frá Android">
 <!ENTITY guest_session_dialog_cancel "Hætta við">
 <!ENTITY new_guest_session_title "&brandShortName; mun nú endurræsa">
 <!ENTITY new_guest_session_text "Manneskjan sem notar þetta mun ekki sjá neitt af þínum persónulegum gögnum í vafranum (eins og vistuð lykilorð, ferli eða bókarmerki). \n\nÞegar gestur þinn hefur lokið notkun sinni þá mun vafra gögnum hans verða eytt og lotu þinni verður endurheimt.">
+<!ENTITY guest_browsing_notification_title "Gesta vöfrun er virkjuð">
+<!ENTITY guest_browsing_notification_text "Snertu til að hætta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; mun nú endurræsa">
 <!ENTITY exit_guest_session_text "Vafra gögnun frá þessari lotu mun verða eytt.">
