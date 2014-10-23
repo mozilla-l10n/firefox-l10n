@@ -484,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "E">
 <!ENTITY emailVideoCmd.label          "E-posta video…">
 <!ENTITY emailVideoCmd.accesskey      "E">
+
+
 <!ENTITY emailAudioCmd.label          "E-posta ljud…">
 <!ENTITY emailAudioCmd.accesskey      "E">
 <!ENTITY playPluginCmd.label          "Aktivera insticksmodulen">
@@ -700,7 +702,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY social.directory.button "Ta mig dit!">
-
+<!ENTITY social.directory.introText "Klicka på en tjänst för att lägga till den till &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Visa Mer">
 
 <!ENTITY customizeMode.tabTitle "Anpassa &brandShortName;">
@@ -753,8 +755,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Inställningar">
 <!ENTITY trackingContentBlocked.unblock2.label "Inaktivera skydd för den här sidan">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "I">
-
-
+<!ENTITY trackingContentBlocked.block.label "Aktivera skydd">
+<!ENTITY trackingContentBlocked.block.accesskey "s">
 <!ENTITY trackingContentBlocked.disabled.message "Skyddet mot spårning är inaktiverat">
 
 <!ENTITY pointerLock.notification.message "Tryck ESC när du vill visa den igen.">
