@@ -482,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "у">
 <!ENTITY emailVideoCmd.label          "Видеоны эл. поштамен жіберу…">
 <!ENTITY emailVideoCmd.accesskey      "В">
+
+
 <!ENTITY emailAudioCmd.label          "Аудионы эл. поштамен жіберу…">
 <!ENTITY emailAudioCmd.accesskey      "А">
 <!ENTITY playPluginCmd.label          "Бұл плагинді белсендіру">
