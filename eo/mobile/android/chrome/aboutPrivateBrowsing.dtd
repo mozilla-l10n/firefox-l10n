@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privata retesploro">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Vi malfermis novan privatan langeton.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Vi ne estas en privata langeto.">
+
+<!ENTITY privatebrowsingpage.description            "En privataj langetoj, &brandShortName; ne konservos historiojn retesploran, serĉan, elŝutan, aŭ tiun de Teksaĵaj formularoj. Ankaŭ ne kuketojn aŭ tempajn interretajn dosierojn. Tamen, elŝutitaj dosieroj kaj legosignoj kiujn vi faras, estos konservitaj.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Eĉ se tiu ĉi aparato ne registros vian retesploran historion, via retprovizanto ankoraŭ povas spuri la paĝojn, kiujn vi vizitas.">
