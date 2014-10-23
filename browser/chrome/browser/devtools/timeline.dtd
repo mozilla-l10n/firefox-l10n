@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "កត់​ត្រា​ការប្រតិបត្តិ​បន្ទាត់​ពេលវេលា">
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,6 +21,10 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "ចុច​នៅ​លើ">
+<!ENTITY timelineUI.emptyNotice2    "ចុច​ប៊ូតុង ដើម្បី​ចាប់ផ្ដើម​កត់​ត្រា​ព្រឹត្តិការណ៍​របាយការណ៍។">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "ចុច​នៅ​លើ">
+<!ENTITY timelineUI.stopNotice2    "ចុច​ប៊ូតុង​ម្ដងទៀត​ដើម្បី​បញ្ឈប់​ការ​កត់​ត្រា។">
