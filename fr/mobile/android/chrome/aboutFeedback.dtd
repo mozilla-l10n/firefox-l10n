@@ -19,13 +19,13 @@
 
 <!ENTITY happy.header              "Merci de votre soutien !">
 <!ENTITY happy.message             "Voulez-vous nous aider encore plus en nous attribuant une note de 5 étoiles sur Google Play ?">
-<!ENTITY happy.finePrint           "C\u0027est très rapide et vous ferez une bonne action.">
+<!ENTITY happy.finePrint           "C'est très rapide et vous ferez une bonne action.">
 <!ENTITY happy.ratingLink          "Oui, ouvrir Google Play">
 <!ENTITY happy.maybeLater2         "Plus tard, peut-être">
 <!ENTITY happy.noThanks            "Non merci">
 
 <!ENTITY sad.header                "Ah mince…">
-<!ENTITY sad.message               "Nous sommes désolés d\u0027apprendre que vous rencontrez des problèmes avec &brandShortName;. Expliquez-nous ce qu'il s'est passé afin que nous puissions le corriger.">
+<!ENTITY sad.message               "Nous sommes désolés d'apprendre que vous rencontrez des problèmes avec &brandShortName;. Expliquez-nous ce qu'il s'est passé afin que nous puissions le corriger.">
 <!ENTITY sad.placeholder           "Saisissez votre retour ici">
 <!ENTITY sad.lastSite2             "Inclure le dernier site visité">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
