@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Երբ սպասարկիչը պահանջում է հավաստագիր.">
 <!ENTITY certs.auto                      "Ընտրել որևէ մեկը">
-<!ENTITY certs.auto.accesskey            "m">
+
 <!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
 <!ENTITY certs.ask.accesskey             "A">
 
+
+
 <!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
 <!ENTITY viewCertificates.accesskey     "հ">
-<!ENTITY validation.label               "Հավաստում">
-<!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Անվտանգության սարքեր">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+
+

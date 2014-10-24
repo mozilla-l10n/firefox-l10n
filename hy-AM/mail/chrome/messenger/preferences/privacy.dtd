@@ -5,14 +5,14 @@
 
 <!ENTITY captionMailContent.label "Նամակի բովանդակությունը">
 
-<!ENTITY acceptRemoteContent.label "Թույլատրել նամակի հեռակա բովանդակությունը">
-<!ENTITY acceptRemoteContent.accesskey "Թ">
+
 <!ENTITY remoteContentExceptions.label "Բացառություններ...">
 <!ENTITY remoteContentExceptions.accesskey "ց">
 <!ENTITY acceptRemoteContentInfo.label "Մանրամասներ՝ հեռակա բովանդակության անվտանգության մասին">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Վեբ բովանդակություն">
+
 
 <!ENTITY acceptCookies.label "Ընդունել cookie-ներ հետևյալ կայքերից՝">
 <!ENTITY acceptCookies.accesskey "Ը">

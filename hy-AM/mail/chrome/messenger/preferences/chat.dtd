@@ -23,8 +23,11 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Ուղարկել տեղեկացման նշումը երկխոսությունում">
 <!ENTITY  sendTyping.accesskey          "Ո">
 
-<!ENTITY  desktopChatNotifications.label      "Ցուցադրել ծանուցումները">
-<!ENTITY  desktopChatNotifications.accesskey  "ո">
+
+
+
+
+
 <!ENTITY  chatSound.accesskey                 "ա">
 <!ENTITY  chatSound.label                     "Խաղարկել ձայն">
 <!ENTITY  play.label                          "Խաղարկել">
