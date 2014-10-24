@@ -9,9 +9,9 @@
 
 <!ENTITY clearTimeDuration.label          "Časowy wotrězk za zhašenje: ">
 <!ENTITY clearTimeDuration.accesskey      "w">
-<!ENTITY clearTimeDuration.lastHour       "Poslednja hodźina">
-<!ENTITY clearTimeDuration.last2Hours     "Poslednjej dwě hodźinje">
-<!ENTITY clearTimeDuration.last4Hours     "Poslednje štyri hodźiny">
+<!ENTITY clearTimeDuration.lastHour       "Zańdźena hodźina">
+<!ENTITY clearTimeDuration.last2Hours     "Zańdźenej dwě hodźinje">
+<!ENTITY clearTimeDuration.last4Hours     "Zańdźene štyri hodźiny">
 <!ENTITY clearTimeDuration.today          "Dźensa">
 <!ENTITY clearTimeDuration.everything     "Wšitko">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
