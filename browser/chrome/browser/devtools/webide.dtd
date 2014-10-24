@@ -61,7 +61,7 @@
 <!ENTITY key_toggleEditor "B">
 
 <!ENTITY projectPanel_myProjects "Mes projets">
-<!ENTITY projectPanel_runtimeApps "Environnements d'applications">
+<!ENTITY projectPanel_runtimeApps "Applications de l'environnement">
 <!ENTITY runtimePanel_USBDevices "Périphériques USB">
 <!ENTITY runtimePanel_WiFiDevices "Périphériques Wi-Fi">
 <!ENTITY runtimePanel_simulators "Simulateurs">
