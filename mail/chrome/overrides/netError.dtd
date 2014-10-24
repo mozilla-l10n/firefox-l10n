@@ -60,7 +60,10 @@
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>S-ar putea să fie nevoie să instalați alt program pentru a deschide această adresă.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
