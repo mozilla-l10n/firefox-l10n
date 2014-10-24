@@ -209,10 +209,11 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Avārijas ziņojums">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; atrašanās vietas">
-<!ENTITY datareporting_wifi_geolocation_summary "Darbojoties fonā saņem datus par Wi-Fi un mobilo sakaru torņiem un sūta šo informāciju &vendorShortName;, lai uzlabotu ģeolokācijas pakalpojumu">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Lai uzlabotu ģeolokācijas pakalpojumu, sūta aptuvenus datus par Wi-Fi un mobilo sakaru torņiem &vendorShortName;">
 <!ENTITY reading_list_added "Lapa pievienota lasīšanas sarakstam">
 
-
+<!ENTITY guest_browsing_notification_title "Darbojas viesa pārlūkošana">
+<!ENTITY guest_browsing_notification_text "Pieskarieties, lai izietu">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -269,12 +270,18 @@ size. -->
 <!ENTITY  onboard_start_subtext "Rūpēs par jūsu privātumu un Interneta atvērtību">
 <!ENTITY  onboard_start_button_account "Pierakstīties &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
+<!ENTITY pref_category_customize_summary "Sākums, meklēšana, cilnes, importēšana">
 
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
 <!ENTITY overlay_share_label "Pievienot &brandShortName;">
+<!ENTITY pref_category_devtools_summary "Attālinātā atkļūdošana, pārzīmēšanas izgaismošana">
+<!ENTITY pref_category_display_summary "Teksts, virsraksta josla, pilnekrāna pārlūkošana">
+<!ENTITY pref_category_language_summary "Mainiet pārlūka valodu">
+<!ENTITY pref_category_privacy_summary "Kontrolējiet paroles, sīkdatnes un sekošanu">
+<!ENTITY pref_category_vendor_summary "Par &brandShortName;, BUJ, datu izvēles">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -282,6 +289,10 @@ size. -->
 <!ENTITY overlay_share_bookmark_btn_label "Grāmatzīme">
 <!ENTITY overlay_share_reading_list_btn_label "Pievienot lasīšanas sarakstam">
 <!ENTITY overlay_share_send_other "Sūtīt uz citām ierīcēm">
+
+<!ENTITY overlay_share_bookmark_btn_label_already "Jau atzīmēta grāmatzīmēs">
+<!ENTITY overlay_share_reading_list_btn_label_already "Jau ir lasīšanas sarakstā">
+
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -371,10 +382,18 @@ size. -->
 <!ENTITY home_top_sites_add "Pievienot lapu">
 <!ENTITY home_open_all "Atvērt visu">
 
-<!ENTITY pref_clear_on_exit_title "Vienmēr notīrīt aizverot">
+<!ENTITY pref_clear_on_exit_title2 "Notīrīt aizverot">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties \u0022Iziet\u0022 no galvenās izvēlnes">
 
+<!ENTITY remote_tabs_panel_moved_title "Kur palika manas cilnes?">
+<!ENTITY remote_tabs_panel_moved_desc "Cilnes no citām ierīcēm esam pārcēluši uz paneli sākuma ekrānā, kur tās var vieglāk atrast katru reizi atverot jaunu cilni.">
+<!ENTITY remote_tabs_panel_moved_link "Vediet mani uz šo jauno paneli.">
+<!ENTITY set_image_path_fail "Neizdevās saglabāt attēlu">
+
+
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
+<!ENTITY pref_import_android_summary "Importējiet grāmatzīmes un vēsturi no iebūvētā pārlūka">
+<!ENTITY pref_sync_summary "Sinhronizējiet cilnes, grāmatzīmes, paroles un vēsturi">
 
 
 <!ENTITY home_history_title "Vēsture">
@@ -394,6 +413,30 @@ size. -->
 <!ENTITY filepicker_audio_title "Izvēlieties vai ierakstiet skaņu">
 <!ENTITY filepicker_image_title "Izvēlieties vai uzņemiet attēlu">
 <!ENTITY filepicker_video_title "Izvēlieties vai ierakstiet video">
+
+<!ENTITY home_remote_tabs_title "Sinhronizētās cilnes">
+<!ENTITY home_remote_tabs_empty "Šeit parādīsies cilnes no citām ierīcēm.">
+<!ENTITY home_remote_tabs_unable_to_connect "Neizdodas savienoties">
+<!ENTITY home_remote_tabs_need_to_sign_in "Lūdzu pieslēdzieties savam Firefox kontam, lai turpinātu sinhronizēšanu.">
+<!ENTITY home_remote_tabs_trouble_verifying "Neizdodas apstiprināt kontu?">
+<!ENTITY home_remote_tabs_need_to_verify "Lūdzu apstipriniet savu Firefox kontu, lai sāktu sinhronizēšanu.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 slēpta ierīce">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; slēptas ierīces">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Slēptās ierīces">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Parādīt izvēlētās ierīces">
+
+<!ENTITY new_tablet_restart "Lai redzētu izmaiņas pārstartējiet datoru">
+<!ENTITY new_tablet_pref "Ieslēgt planšetdatoru dizainu">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ir savienojums ar">
