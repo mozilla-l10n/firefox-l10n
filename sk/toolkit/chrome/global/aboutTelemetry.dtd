@@ -8,6 +8,8 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetria je <span>vypnutá</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "Všeobecné údaje">
+
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé výrazy SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Zlyhania prehliadača">
