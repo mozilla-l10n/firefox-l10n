@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Spegulado">
+<!ENTITY sync.notconnected          "Ne konektita">
+<!ENTITY sync.connect               "Konekti">
+<!ENTITY sync.connected             "Konektita">
+<!ENTITY sync.details               "Detaloj">
+<!ENTITY sync.deviceName            "Tiu ĉi aparato">
+<!ENTITY sync.disconnect            "Malkonekti">
+<!ENTITY sync.syncNow               "Speguli nun">
+
+<!ENTITY sync.setup.title           "Konekti al Spegulado">
+<!ENTITY sync.setup.pair            "Por aktivigi, elektu &#x0022;Asocii aparaton&#x0022; en via alia aparato.">
+<!ENTITY sync.fallback              "Mi ne estas proksime de mia komputilo…">
+<!ENTITY sync.setup.manual          "Tajpu la informon de via konto de Spegulado">
+<!ENTITY sync.account               "Nomo de konto">
+<!ENTITY sync.password              "Pasvorto">
+<!ENTITY sync.recoveryKey           "Reakira ŝlosilo">
+<!ENTITY sync.customServer          "Uzi propran servilon">
+<!ENTITY sync.serverURL             "URL de servilo">
+<!ENTITY sync.setup.connect         "Konekti">
+<!ENTITY sync.setup.cancel          "Nuligi">
+<!ENTITY sync.setup.tutorial        "Montri al mi kiel fari tion">
+<!ENTITY sync.setup.waiting2        "Atendo je la alia aparato…">
+
+<!ENTITY sync.pair.title            "Asocii aparaton">
+<!ENTITY sync.pair.description      "Por aktivigi la novan aparaton, elektu &#x0022;Agordi speguladon&#x0022; en la aparato.">
+<!ENTITY sync.setup.close           "Fermi">
+<!ENTITY sync.setup.waitingdownload "Viaj datumoj estas nun fone elŝutataj. Vi povas fermi tiun ĉi fenestron iam ajn.">

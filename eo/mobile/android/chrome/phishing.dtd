@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Lasu min foriri el ĉi tie!">
+<!ENTITY safeb.palm.decline.label "Ignori tiun ĉi atentigon">
+<!ENTITY safeb.palm.notforgery.label2 "Tio ĉi ne estas reta falsaĵo…">
+<!ENTITY safeb.palm.reportPage.label "Kial tiu ĉi retejo estis blokita?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Denuncita ataka retejo!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "La retejo ĉe <span id='malware_sitename'/> estis denuncita kiel ataka retejo, kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatajn informojn, uzas vian komputilon por ataki aliajn aŭ difektas vian sistemon.</p><p>Kelkaj retejoj intence distribuas difektan programaron, sed multaj estas uzataj sen la scio aŭ permeso de ĝiaj posedantoj.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Retfalsaĵo suspektata!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Enigo de personaj informoj en tiu ĉi paĝo povas reszultigi ŝtelon de idento aŭ aliajn trompojn.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tiuj tipoj de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, en kiuj trompaj retpaĝoj kaj retmesaĝoj estas uzataj por imiti retpaĝojn aŭ organizojn, kiujn vi eble fidas.</p>">
