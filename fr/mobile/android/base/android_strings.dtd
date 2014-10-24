@@ -286,7 +286,7 @@ size. -->
 <!ENTITY page "Page">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
-<!ENTITY new_private_tab "Nouvel onglet de nav. privée">
+<!ENTITY new_private_tab "Onglet de nav. privée">
 <!ENTITY close_all_tabs "Fermer tous les onglets">
 <!ENTITY close_private_tabs "Fermer les onglets privés">
 <!ENTITY tabs_normal "Onglets">
