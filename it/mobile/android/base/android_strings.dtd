@@ -278,6 +278,7 @@
 <!ENTITY home_last_tabs_empty "In questa sezione verranno visualizzate le schede recenti.">
 <!ENTITY home_open_all "Apri tutte">
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
+<!ENTITY home_most_recent_emptyhint "Psst: la &formatS1;Navigazione anonima&formatS2; non salva alcuna cronologia.">
 <!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
 <!ENTITY home_reading_list_hint2 "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &formatI; che appare nella barra del titolo.">
 <!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona modalità lettura che appare nella barra del titolo.">
