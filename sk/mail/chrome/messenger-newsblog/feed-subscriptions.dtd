@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Odoberané informačné kanály">
-<!ENTITY subscriptionDesc.label      "Poznámka: odstránenie alebo zmena priečinka kanálu nemá vplyv na už prevzaté príspevky.">
+<!ENTITY learnMore.label             "Ďalšie informácie o informačných kanáloch">
 
 <!ENTITY feedTitle.label             "Titulok:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Adresa kanála:">
 <!ENTITY feedLocation.accesskey      "A">
 <!ENTITY feedLocation.placeholder    "Zadajte platnú adresu kanála">
+<!ENTITY locationValidate.label      "Skontrolovať">
+<!ENTITY validateText.label          "Skontrolovať platnosť kanálu a získať platnú adresu URL.">
 
 <!ENTITY feedFolder.label            "Články ukladať v:">
 <!ENTITY feedFolder.accesskey        "n">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Pridávať predponu:">
 <!ENTITY autotagUsePrefix.accesskey  "r">
 <!ENTITY autoTagPrefix.placeholder   "Zadajte predponu značky">
-
-<!ENTITY locationValidate.label      "Overiť">
-<!ENTITY validateText.label          "Overiť platnosť kanálu a získať platnú adresu URL.">
 
 <!ENTITY button.addFeed.label        "Pridať">
 <!ENTITY button.addFeed.accesskey    "P">
