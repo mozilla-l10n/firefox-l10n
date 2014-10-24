@@ -51,10 +51,10 @@
 <!ENTITY projectPanel_myProjects "I miei progetti">
 <!ENTITY projectPanel_runtimeApps "App runtime">
 <!ENTITY projectPanel_tabs "Schede">
-<!ENTITY runtimePanel_USBDevices "Dispositivi USB">
-<!ENTITY runtimePanel_WiFiDevices "Dispositivi Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simulatori">
-<!ENTITY runtimePanel_custom "Personalizzato">
+<!ENTITY runtimePanel_usb "Dispositivi USB">
+<!ENTITY runtimePanel_wifi "Dispositivi Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simulatori">
+<!ENTITY runtimePanel_other "Altro">
 <!ENTITY runtimePanel_installsimulator "Installa simulatore">
 <!ENTITY runtimePanel_noadbhelper "Installa ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Il dispositivo non è visibile?">
@@ -77,8 +77,6 @@
 <!ENTITY prefs_general_title "Generale">
 <!ENTITY prefs_restore "Ripristina predefiniti">
 <!ENTITY prefs_simulators "Gestione simulatori">
-<!ENTITY prefs_options_enablelocalruntime "Attiva runtime locale">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Consenti a WebIDE di connettersi al proprio runtime (istanza del browser in esecuzione)">
 <!ENTITY prefs_options_rememberlastproject "Ricorda l’ultimo progetto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Ripristina il progetto precedente all’avvio di WebIDE">
 <!ENTITY prefs_options_templatesurl "URL modelli">
