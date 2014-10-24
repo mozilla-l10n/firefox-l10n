@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
 <!ENTITY pref_cookies_disabled "Zakázané">
 
-<!ENTITY pref_donottrack_menu "Sledovanie">
-<!ENTITY pref_donottrack_disallow_tracking "Požiadať stránky, aby nesledovali moju aktivitu">
-<!ENTITY pref_donottrack_allow_tracking "Informovať stránky, že môžu sledovať moju aktivitu">
-<!ENTITY pref_donottrack_no_pref "Neinformovať stránky o mojich preferenciách v oblasti sledovania aktivity">
+<!ENTITY pref_donottrack_title "Funkcia Do not track">
+<!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
