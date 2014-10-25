@@ -15,8 +15,8 @@
 <!ENTITY allowContextmenuDisable.label "Отключать или замещать контекстные меню">
 <!ENTITY allowHideStatusBar.label "Скрывать строку состояния">
 <!ENTITY enablePlugins.label "Включить плагины для">
-<!ENTITY enablePluginForSuite.label "Suite">
-<!ENTITY enablePluginForSuite.accesskey "u">
+<!ENTITY enablePluginForSuite.label "SeaMonkey">
+<!ENTITY enablePluginForSuite.accesskey "e">
 <!ENTITY whenPageRequiresPlugins.label "Когда странице потребуются плагины">
 <!ENTITY activateAllPlugins.label "Активировать все плагины по умолчанию">
 <!ENTITY activateAllPlugins.accesskey "в">
