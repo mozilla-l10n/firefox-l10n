@@ -51,10 +51,10 @@
 <!ENTITY projectPanel_myProjects "Мои проекты">
 <!ENTITY projectPanel_runtimeApps "Runtime приложения">
 <!ENTITY projectPanel_tabs "Вкладки">
-<!ENTITY runtimePanel_USBDevices "USB устройства">
-<!ENTITY runtimePanel_WiFiDevices "Wi-Fi устройства">
-<!ENTITY runtimePanel_simulators "Симуляторы">
-<!ENTITY runtimePanel_custom "Другие">
+<!ENTITY runtimePanel_usb "USB устройства">
+<!ENTITY runtimePanel_wifi "Wi-Fi устройства">
+<!ENTITY runtimePanel_simulator "Симуляторы">
+<!ENTITY runtimePanel_other "Другие">
 <!ENTITY runtimePanel_installsimulator "Установить Симулятор">
 <!ENTITY runtimePanel_noadbhelper "Установить ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Не видите ваше устройство?">
@@ -77,8 +77,6 @@
 <!ENTITY prefs_general_title "Основные">
 <!ENTITY prefs_restore "Восстановить по умолчанию">
 <!ENTITY prefs_simulators "Управление симуляторами">
-<!ENTITY prefs_options_enablelocalruntime "Включить локальный runtime">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Разрешить WebIDE соединяться со своим собственным runtime (запустив экземпляр браузера)">
 <!ENTITY prefs_options_rememberlastproject "Запоминать последний проект">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Восстанавливать последний проект при запуске WebIDE">
 <!ENTITY prefs_options_templatesurl "URL шаблонов">
