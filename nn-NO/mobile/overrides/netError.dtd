@@ -11,17 +11,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
-<!ENTITY dnsNotFound.longDesc2 "<ul>
-  <li>sjekk om det er skrivefeil i adressa, til dømes
-    <strong>ww</strong>.example.com i staden for
-    <strong>www</strong>.example.com</li>
-  <li>Om du ikkje klarer å lasta nokre nettstader, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>
+<!ENTITY dnsNotFound.longDesc3 "<ul>
+  <li>Kontroller adressa for skrivefeil, slik som
+    <strong>ww</strong>.eksempel.com i staden for
+    <strong>www</strong>.eksempel.com</li>
+  <li>Om du ikkje klarer å lasta sider, kontroller data- eller WiFi-tilkoplinga på eininga di.
+    <button id='wifi'>Slå på WiFi</button>
+  </li>
 </ul>
 ">
 
@@ -47,14 +49,16 @@
 ">
 
 <!ENTITY netInterrupt.title "Tilkoplinga vart avbroten">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
 <!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn hentar ikkje &brandShortName; automatisk inn sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å henta inn dokumentet frå nettsida på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Fråkopla-modus">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>Prøv igjen. &brandShortName; vil prøva å opna ei tilkopling og lasta sida inn på nytt.</li>
+<!ENTITY netOffline.longDesc3 "<ul>
+  <li>Prøv igjen. &brandShortName; vil freista å opna ei tilkopling og lasta sida på nytt.
+    <button id='wifi'>Slå på WiFi</button>
+  </li>
 </ul>
 ">
 
@@ -71,10 +75,10 @@
 ">
 
 <!ENTITY netReset.title "Brot i sambandet">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Tidsavbrot i sambandet">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
 <!ENTITY unknownProtocolFound.longDesc "<ul>
@@ -91,12 +95,15 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Klarer ikkje å finna mellomtenar">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul>
-  <li>Kontroller at mellomtenarinnstillingane er rette.</li>
-  <li>Kontroller at eininga har eit data- eller Wi-Fi-samband som fungerer.</li>
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul>
+  <li>Kontroller mellomtenarinnstillingane dine for å vera viss på at dei er rette.</li>
+  <li>Kontroller at data- eller WiFi-tilkoplinga på eininga di fungerer.
+    <button id='wifi'>Slå på Wi-Fi</button>
+  </li>
+</ul>
+">
 
-<!ENTITY redirectLoop.title "Sida vidarekoplar ikkje skikkeleg">
+<!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 <!ENTITY redirectLoop.longDesc "<ul>
   <li>Dette problemet kan av og til skuldast at infokapslar er
     slått av.</li>
@@ -111,7 +118,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sikkert samband feila">
+<!ENTITY nssFailure2.title "Trygg tilkopling feila">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
   <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kunne stadfestast at overførte data er autentiske.</li> 
   <li>Kontakt nettstadeigaren og informer om problemet.</li> 
@@ -127,9 +134,11 @@ vera krtvarig, og du kan prøva igjen seinare.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "<ul>
-  <li>Sida kan vera mellombels utilgjengeleg, eller opptatt. Prøv igjen om ei stund.</li>
-  <li>Om du ikkje klarer å lasta sider, kontroller at data- eller Wi-Fi-sambandet ditt på mobil-eininga di fungerer.</li>
+<!ENTITY sharedLongDesc3 "<ul>
+  <li>Sida kan vera mellombels utilgjengeleg eller oppteken. Prøv igjen snart.</li>
+  <li>Om du ikkje klarer å lasta sider, kontroller data- eller WiFi-tilkoplinga på eininga di.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
 </ul>
 ">
 
