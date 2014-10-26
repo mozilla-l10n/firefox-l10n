@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Ynstellingen">
 <!ENTITY pref_category_advanced "Avansearre">
 <!ENTITY pref_category_customize "Oanpasse">
+<!ENTITY pref_category_customize_summary "Start, sykje, ljepblêden, ymport">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Taal">
+<!ENTITY pref_category_language_summary "De taal fan jo browser wizigje">
 <!ENTITY pref_browser_locale "Browsertaal">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Blêdwizer meitsje">
 <!ENTITY overlay_share_reading_list_btn_label "Tafoegje oan lêslist">
+<!ENTITY overlay_share_bookmark_btn_label_already "Blêdwizer bestiet al">
+<!ENTITY overlay_share_reading_list_btn_label_already "Al yn lêslist">
 <!ENTITY overlay_share_send_other "Ferstjoer nei oare apparaten">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Sykje">
 <!ENTITY pref_category_search_summary "Jo sykproviders oanpasse">
 <!ENTITY pref_category_display "Werjefte">
+<!ENTITY pref_category_display_summary "Tekst, titelbalke, folsleinskerm browse">
 <!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_privacy_summary "Wachtwurden, cookies, folgjen en gegevens behearje">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Oer &brandShortName;, FAQs, gegevenskar">
 <!ENTITY pref_category_datareporting "Gegevenskar">
 <!ENTITY pref_learn_more "Lês mear">
 <!ENTITY pref_category_installed_search_engines "Ynstallearre sykmasines">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: foegje in website oan jo list mei sykproviders ta troch jo finger op it sykfjild dêrfan te hâlden en dêrnei op it piktogram &formatI; te tikken.">
 <!ENTITY pref_category_devtools "Untwikkelersark">
+<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Menu net toane">
 <!ENTITY pref_clear_private_data2 "No wiskje">
 <!ENTITY pref_clear_private_data_category "Priveegegevens wiskje">
-<!ENTITY pref_clear_on_exit_title "Altyd wiskje by ôfsluten">
+<!ENTITY pref_clear_on_exit_title2 "Wiskje by ôfsluten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sil automatysk jo gegevens wiskje as jo \u0022Quit\u0022 selektearje út it haadmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selektearje hokker gegevens te wiskjen">
 <!ENTITY pref_plugins "Ynstekkers">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Syngronisearje jo ljepblêden, blêdwizers, wachtwurden, skiednis">
 <!ENTITY pref_search_suggestions "Sykfoarstelllen toane">
 <!ENTITY pref_import_android "Ymportearje út Android">
+<!ENTITY pref_import_android_summary "Ymportearje blêdwizers en skiednis fan de ynboude browser">
 <!ENTITY pref_private_data_history2 "Navigaasjeskiednis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; sykskiednis">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; aktive oanmeldingen">
@@ -256,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-lokaasjetsjinst">
-<!ENTITY datareporting_wifi_geolocation_summary "Untfangt gegevens oer wifi en gsm-stjoermastlokaasjes as it op \'e achtergrûn rint en dielt dit mei &vendorShortName; om ús geolokaasjtsjinst te ferbetterjen">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Dielt globale wifi en gsm-stjoermastlokaasjes fan jo apparaat mei &vendorShortName; om ús geolokaasjtsjinst te ferbetterjen">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -292,6 +302,7 @@ size. -->
 <!ENTITY tabs_private "Privee">
 <!ENTITY tabs_synced "Syngronisearre">
 <!ENTITY set_image_fail "Kin ôfbylding net ynstelle">
+<!ENTITY set_image_path_fail "Kin ôfbylding net bewarje">
 <!ENTITY set_image_chooser_title "Ofbylding ynstelle as">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +414,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Omheech nei &formatS;">
 
+<!ENTITY home_remote_tabs_title "Syngronisearre ljepblêden">
+<!ENTITY home_remote_tabs_empty "Jo ljepblêden fan oare apparaten komme hjir.">
+<!ENTITY home_remote_tabs_unable_to_connect "Ferbining net mooglik">
+<!ENTITY home_remote_tabs_need_to_sign_in "Meld jo oan om te ferbinen mei jo Firefox-account en troch te gean mei syngronisaasje.">
+<!ENTITY home_remote_tabs_trouble_verifying "Probleme om te ferbinen mei jo account?">
+<!ENTITY home_remote_tabs_need_to_verify "Kontrolearje jo Firefox-account om syngronisearjen te starten.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 apparaat ferstoppe">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; apparaten ferstoppe">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Ferstoppe apparaten">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Selektearre apparaten net ferstoppe">
+
 <!ENTITY private_browsing_title "Priveenavigaasje">
 <!ENTITY private_tabs_panel_empty_desc "Jo priveeljepblêden sille hjir toand wurde. Wylst wy neat fan jo browseskiednis of cookies bewarje, sille oanmakke blêdwizers en bestannen dy\'t jo downloade wol op jo apparaat bewarre wurde.">
 <!ENTITY private_tabs_panel_learn_more "Wolle jo mear witte?">
+
+<!ENTITY remote_tabs_panel_moved_title "Wêr binne myn ljepblêden bleaun?">
+<!ENTITY remote_tabs_panel_moved_desc "Wy hawwe jo ljepblêden fan oare appraten ferpleatst nei in paniel op jo startside dy\'t maklik tagonklik is eltse kear as jo in nij ljepbêd iepenje.">
+<!ENTITY remote_tabs_panel_moved_link "Bring my nei myn nije paniel.">
 
 <!ENTITY pin_site_dialog_hint "Fier in sykterm yn">
 
@@ -475,6 +510,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Fernijing foar &brandShortName; beskikber">
 <!ENTITY updater_apply_select2 "Reitsje oan om by te wurkjen">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Werstart de browser om de wizigingen te aktivearjen">
+<!ENTITY new_tablet_pref "Nij tablet-UI aktivearje">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nije gastsesje">
 <!ENTITY exit_guest_session "Gastsesje ferlitte">
@@ -482,6 +523,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Annulearje">
 <!ENTITY new_guest_session_title "&brandShortName; sil no opnij starte">
 <!ENTITY new_guest_session_text "De persoan dy\'t dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre wachtwurden, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
+<!ENTITY guest_browsing_notification_title "Gastbrowsen is ynskeakele">
+<!ENTITY guest_browsing_notification_text "Tik om ôf te sluten">
 
 <!ENTITY exit_guest_session_title "&brandShortName; sil no opnij starte">
 <!ENTITY exit_guest_session_text "De navigaasjegegevens fan dizze sesje sille fuortsmiten wurde.">
