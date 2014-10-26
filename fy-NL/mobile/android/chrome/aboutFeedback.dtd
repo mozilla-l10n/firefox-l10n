@@ -38,7 +38,7 @@
 <!ENTITY sad.header                "Oh nee!">
 <!ENTITY sad.message               "It spyt ús dat &brandShortName; jo teloarsteld hat. Fertel ús wat der mis gie, sadat wy hjir wat oan dwaan kinne.">
 <!ENTITY sad.placeholder           "Fier jo kommentaar hjir yn">
-<!ENTITY sad.lastSite              "Lêst besochte website (opsjoneel)">
+<!ENTITY sad.lastSite2             "Lêst besochte website meijaan">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
