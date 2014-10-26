@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Velg fil">
 
-<!ENTITY url_bar_default_text "Skriv inn søk eller adresse">
+<!ENTITY url_bar_default_text2 "Søk eller skriv inn adresse">
 
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
@@ -175,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Tøm nå">
 <!ENTITY pref_clear_private_data_category "Slett private data">
 <!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutning">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk slette dine data når du velger Avslutt fra hovedmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \u0022Avslutt\u0022 fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
@@ -301,9 +301,9 @@ size. -->
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Caster til enhet">
+<!ENTITY media_sending_to "Sender til enhet">
 <!ENTITY media_play "Spill av">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Stopp">
