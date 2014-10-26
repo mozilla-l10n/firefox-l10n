@@ -711,8 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Dritare ose ekran për ndarje me të tjerët:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
