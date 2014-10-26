@@ -11,7 +11,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -53,7 +53,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
 <!ENTITY notCached.longDesc "<p>Det foerspurte dokumentet er ikke tilgjengelig i &brandShortName; sitt hurtiglager.</p><ul><li>Av sikkerhetshensyn henter ikke &brandShortName; automatisk inn sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å hente inn dokumentet fra nettsiden på nytt.</li></ul>">
