@@ -16,7 +16,7 @@
 <!ENTITY restorepage.listHeader "Ventanas y pestañas">
 <!ENTITY restorepage.windowLabel "Ventana &#037;S">
 <!ENTITY welcomeback2.restoreButton "¡Vamos!">
-<!ENTITY welcomeback2.restoreButton.access "g">
+<!ENTITY welcomeback2.restoreButton.access "V">
 <!ENTITY welcomeback2.tabtitle "¡Éxito!">
 <!ENTITY welcomeback2.pageTitle "¡Éxito!">
 <!ENTITY welcomeback2.pageInfo1 "&brandShortName; está listo para continuar.">
