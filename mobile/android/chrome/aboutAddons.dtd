@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                   "Add-ons">
 <!ENTITY aboutAddons.header2                  "Jo add-ons">
 <!ENTITY aboutAddons.options                  "Opsjes">
-<!ENTITY aboutAddons.browseAll                "Troch alle Firefox-add-ons blêdzje">
 
 <!ENTITY addonAction.enable                   "Ynskeakelje">
 <!ENTITY addonAction.disable                  "Utskeakelje">

@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2               "Jo kinne ek ">
-<!ENTITY support.link               "&brandShortName; Stipe">
-<!ENTITY support.post2              " besykje foar mear ynformaasje">
+<!ENTITY support.pre3               "Besykje ús ">
+<!ENTITY support.link2              "stipewebsite">
+<!ENTITY support.post3              " om antwurden te krijen op algemiene fragen">
 
 <!ENTITY happy.header               "Da’s goed om te hearren!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Miskien letter">
 <!ENTITY happy.noThanks            "Nee, tankewol">
 
-<!ENTITY sad.message               "It spyt ús dat &brandShortName; jo teloorstelde. Fertel ús wat der mis gie, sadat wy hjir wat oan dwaan kinne.">
+<!ENTITY sad.header                "Oh nee!">
+<!ENTITY sad.message               "It spyt ús dat &brandShortName; jo teloarsteld hat. Fertel ús wat der mis gie, sadat wy hjir wat oan dwaan kinne.">
 <!ENTITY sad.placeholder           "Fier jo kommentaar hjir yn">
 <!ENTITY sad.lastSite              "Lêst besochte website (opsjoneel)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Bedankt foar it trochjaan.">
+<!ENTITY sad.thanksHeader2          "Tankewol.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Wat der ek foar nedich is.">
 
-<!ENTITY feedback.privacy          "Soargje der omwille fan jo privacy foar dat der gjin persoanlike gegevens yn jo kommentaar opnommen binne.">
+<!ENTITY feedback.privacy2         "Soargje der om reden fan jo privacy foar dat jo gjin persoanlike gegevens yn jo kommentaar opnimme.">
 <!ENTITY feedback.send             "Kommentaar ferstjoere">
