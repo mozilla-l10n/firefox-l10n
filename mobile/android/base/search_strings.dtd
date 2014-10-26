@@ -6,7 +6,7 @@
 
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Mit \u0020;&formatS;\u0020; suchen'>
+<!ENTITY search_bar_hint 'Mit \u0022&formatS;\u0022 suchen'>
 
 <!ENTITY search_empty_title '&brandShortName;-Suche'>
 <!ENTITY search_empty_message 'Schnell nach dem gewünschten Suchen'>
