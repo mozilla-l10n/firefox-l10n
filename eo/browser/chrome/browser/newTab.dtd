@@ -8,8 +8,8 @@
 <!ENTITY newtab.customize.enhanced "Plibonigita">
 <!ENTITY newtab.customize.classic "Klasika">
 <!ENTITY newtab.customize.blank "Malplena">
-<!ENTITY newtab.customize.what "What is this page?">
-<!ENTITY newtab.intro.header "What is this page?">
+<!ENTITY newtab.customize.what "Kio estas tiu ĉi paĝo?">
+<!ENTITY newtab.intro.header "Kio estas tiu ĉi paĝo?">
 <!ENTITY newtab.undo.removedLabel "Forigita miniaturo.">
 <!ENTITY newtab.undo.undoButton "Malfari.">
 <!ENTITY newtab.undo.restoreButton "Restarigi ĉiujn.">

@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Redakti tiun ĉi legosignon">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Serĉi pli da dividaj servoj…">
 <!ENTITY sharePageCmd.label "Dividi tiun ĉi paĝon">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "p">
-<!ENTITY shareLinkCmd.label "Dividi tiun ĉi ligilon">
-<!ENTITY shareLinkCmd.accesskey "l">
-<!ENTITY shareImageCmd.label "Dividi tiun ĉi bildon">
-<!ENTITY shareImageCmd.accesskey "b">
-<!ENTITY shareSelectCmd.label "Dividi elektaĵon">
-<!ENTITY shareSelectCmd.accesskey "e">
-<!ENTITY shareVideoCmd.label "Dividi filmeton">
-<!ENTITY shareVideoCmd.accesskey "f">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Dividi tiun ĉi ligilon">
+<!ENTITY shareLink.accesskey "l">
+<!ENTITY shareImage.label "Dividi tiun ĉi bildon">
+<!ENTITY shareImage.accesskey "b">
+<!ENTITY shareSelect.label "Dividi elektaĵon">
+<!ENTITY shareSelect.accesskey "e">
+<!ENTITY shareVideo.label "Dividi tiun ĉi filmeton">
+<!ENTITY shareVideo.accesskey "f">
 <!ENTITY feedsMenu.label "Aboni">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
@@ -212,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Aldonaĵoj">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Programoj">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "TTTa programisto">
 <!ENTITY webDeveloperMenu.accesskey   "P">
@@ -477,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "b">
 <!ENTITY emailVideoCmd.label          "Sendi filmeton retpoŝte…">
 <!ENTITY emailVideoCmd.accesskey      "S">
+<!ENTITY castVideoCmd.label           "Sendi filmeton al aparato">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Sendi sonon retpoŝte…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Aktivigi tiun ĉi kromprogramon">
@@ -690,7 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "i">
 <!ENTITY social.closeNotificationItem.label "Nun ne">
 
-
+<!ENTITY social.directory.label "Dosierujo de aktivigoj">
+<!ENTITY social.directory.text "Vi povas aktivigi dividajn servojn el la dosierujo.">
+<!ENTITY social.directory.button "Porti min tien!">
+<!ENTITY social.directory.introText "Klaku servon por aldoni ĝin al &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Vidi pli da servoj">
 
 <!ENTITY customizeMode.tabTitle "Persone agordi &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Aldonaj iloj kaj trajtoj">
@@ -699,17 +712,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
 <!ENTITY customizeMode.toolbars "Montri / kaŝi ilarojn">
 <!ENTITY customizeMode.titlebar "Titolstrio">
-<!ENTITY customizeMode.lwthemes "Themes">
-<!ENTITY customizeMode.lwthemes.myThemes "My Themes">
-<!ENTITY customizeMode.lwthemes.recommended "Recommended">
-<!ENTITY customizeMode.lwthemes.menuManage "Manage">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Get More Themes">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes "Etosoj">
+<!ENTITY customizeMode.lwthemes.myThemes "Miaj etosoj">
+<!ENTITY customizeMode.lwthemes.recommended "Rekomenditaj">
+<!ENTITY customizeMode.lwthemes.menuManage "Administri">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
+<!ENTITY customizeMode.deveditionTheme.label "Uzi la etoson de &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Elekti retbabilojn">
+<!ENTITY social.chatBar.accesskey "r">
 
 <!ENTITY social.markpageMenu.accesskey "p">
 <!ENTITY social.markpageMenu.label "Sendi la paĝon al…">
@@ -723,25 +737,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.">
 
 <!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Most websites will work properly even if content is blocked.">
+<!ENTITY badContentBlocked.moreinfo "La plimulto de la retejoj funkcios bone eĉ se parto de la enhavo estas blokita.">
 
-<!ENTITY mixedContentBlocked2.message "Insecure content">
-<!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
-<!ENTITY mixedContentBlocked2.learnMore "Learn More">
-<!ENTITY mixedContentBlocked2.options "Options">
-<!ENTITY mixedContentBlocked2.unblock.label "Disable protection for now">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Enable protection">
+<!ENTITY mixedContentBlocked2.message "Nesekura enhavo">
+<!ENTITY mixedContentBlocked2.moreinfo "Kelkaj neĉifritaj elementoj en tiu ĉi retejo estis blokitaj.">
+<!ENTITY mixedContentBlocked2.learnMore "Pli da informo">
+<!ENTITY mixedContentBlocked2.options "Elektebloj">
+<!ENTITY mixedContentBlocked2.unblock.label "Momente malaktivigi la protekton">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "M">
+<!ENTITY mixedContentBlocked2.block.label "Aktivigi protekton">
 <!ENTITY mixedContentBlocked2.block.accesskey "B">
-<!ENTITY mixedContentBlocked2.disabled.message "Protection is disabled">
+<!ENTITY mixedContentBlocked2.disabled.message "La protekto ne estas aktiva">
 
-<!ENTITY trackingContentBlocked.message "Tracking">
-<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
-<!ENTITY trackingContentBlocked.learnMore "Learn More">
-<!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock.label2 "Disable protection for this site">
-<!ENTITY trackingContentBlocked.block.label "Enable protection">
-<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
+<!ENTITY trackingContentBlocked.message "Spurado">
+<!ENTITY trackingContentBlocked.moreinfo "Partoj de la paĝo, kiuj spuras vian retesploran aktivecon, estis blokitaj.">
+<!ENTITY trackingContentBlocked.learnMore "Pli da informo">
+<!ENTITY trackingContentBlocked.options "Elektebloj">
+<!ENTITY trackingContentBlocked.unblock2.label "Malaktivigi protekton por tiu ĉi retejo">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "M">
+<!ENTITY trackingContentBlocked.block.label "Aktivigi protekton">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
+<!ENTITY trackingContentBlocked.disabled.message "La protekto kontraŭ spurado ne estas aktiva">
 
 <!ENTITY pointerLock.notification.message "Premu ESC iam ajn por denove montri ĝin.">
 
@@ -774,25 +790,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Forget the last:">
-<!ENTITY panicButton.view.5min                    "Five minutes">
-<!ENTITY panicButton.view.2hr                     "Two hours">
-<!ENTITY panicButton.view.day                     "24 hours">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Forgesi la lastajn:">
+<!ENTITY panicButton.view.5min                    "5 minutojn">
+<!ENTITY panicButton.view.2hr                     "2 horojn">
+<!ENTITY panicButton.view.day                     "24 horojn">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Proceeding will:">
-<!ENTITY panicButton.view.deleteCookies           "Delete Recent <html:strong>Cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Delete Recent <html:strong>History</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Close all <html:strong>Tabs</html:strong> and <html:strong>Windows</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Open a new clean Window">
+<!ENTITY panicButton.view.mainActionDesc          "Je daŭrigo:">
+<!ENTITY panicButton.view.deleteCookies           "Viŝi ĵusajn <html:strong>kuketojn</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Viŝi ĵusajn <html:strong>historion</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fermi ĉiujn <html:strong>langetojn</html:strong> kaj <html:strong>fenestrojn</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Malfermi novan malplenan fenestron">
 
-<!ENTITY panicButton.view.undoWarning             "This action cannot be undone.">
-<!ENTITY panicButton.view.forgetButton            "Forget!">
+<!ENTITY panicButton.view.undoWarning             "Tiu ĉi ago ne povas esti malfarita.">
+<!ENTITY panicButton.view.forgetButton            "Forgesi!">
 
-<!ENTITY panicButton.thankyou.msg1                "Your recent history is cleared.">
-<!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
-<!ENTITY panicButton.thankyou.buttonlabel         "Thanks!">
+<!ENTITY panicButton.thankyou.msg1                "Via ĵusa historio estis viŝita.">
+<!ENTITY panicButton.thankyou.msg2                "Sekura retesploro!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Dankon!">
 
