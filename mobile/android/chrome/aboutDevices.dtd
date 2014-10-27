@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDevices.title              "设备">
 <!ENTITY aboutDevices.header             "您的设备">
-<!ENTITY aboutDevices.refresh            "刷新(R)">
+<!ENTITY aboutDevices.refresh            "刷新">
 <!ENTITY aboutDevices.addDeviceHeader    "添加设备">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
