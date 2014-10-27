@@ -8,7 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "检查更新">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "重新启动以更新">
+<!ENTITY update.updateButton.label2               "重启 &brandShortName; 以更新">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "应用更新…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">

@@ -108,13 +108,13 @@
 <!-- Certificates -->
 <!ENTITY certSelection.description       "当某个服务器索取我的个人证书时：">
 <!ENTITY certs.auto                      "自动选择">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "每次均询问">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "查询 OCSP 响应服务器以确认证书的当前有效性">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "查看证书">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "验证">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "安全设备">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.accesskey  "D">
