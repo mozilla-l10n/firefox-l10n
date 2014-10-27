@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
 
-<!ENTITY appmenu.tooltip                     "ਮੇਨੂ ਖੋਲ੍ਹੋ">
+<!ENTITY appmenu.tooltip                     "ਮੀਨੂ ਖੋਲ੍ਹੋ">
 <!ENTITY navbarOverflow.label                "…ਹੋਰ ਟੂਲ">
 
 
@@ -65,7 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY menubarCmd.label "ਮੇਨੂ ਬਾਰੇ">
+<!ENTITY menubarCmd.label "ਮੀਨੂ ਬਾਰੇ">
 <!ENTITY menubarCmd.accesskey "M">
 
 <!ENTITY goOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
@@ -117,12 +117,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenAutohide.label "ਟੂਲਬਾਰ ਓਹਲੇ">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ">
+<!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਵਿੱਚੋਂ ਬਾਹਰ">
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY fullscreenAllowButton.label "ਮਨਜ਼ੂਰ">
 <!ENTITY fullscreenExitButton.label "ਇਨਕਾਰ">
 <!ENTITY fullscreenExitHint2.value "ਬਾਹਰ ਆਉਣ ਲਈ ਕਿਸੇ ਵੀ ਸਮੇਂ ESC ਦੱਬੋ।">
-<!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
+<!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਨੂੰ ਛੱਡੋ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
@@ -356,7 +356,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
-<!ENTITY appMenuCustomize.tooltip "ਮੇਨੂ ਤੇ ਟੂਲਬਾਰ ਨੂੰ ਪਸੰਦ ਮੁਬਾਤਕ ਬਣਾਓ">
+<!ENTITY appMenuCustomize.tooltip "ਮੀਨੂ ਤੇ ਟੂਲਬਾਰ ਨੂੰ ਪਸੰਦ ਮੁਬਾਤਕ ਬਣਾਓ">
 <!ENTITY appMenuCustomizeExit.label "ਪਸੰਦ ਬੰਦ ਕਰੋ">
 <!ENTITY appMenuCustomizeExit.tooltip "ਪਸੰਦੀਦਾ ਬਣਾਉਣਾ ਪੂਰਾ ਹੋਇਆ">
 <!ENTITY appMenuHistory.label "ਅਤੀਤ">
@@ -364,11 +364,11 @@ can reach it easily. -->
 <!ENTITY appMenuHistory.clearRecent.label "…ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY appMenuHistory.restoreSession.label "ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY appMenuHistory.viewSidebar.label "ਅਤੀਤ ਬਾਹੀ ਵੇਖੋ">
-<!ENTITY appMenuHelp.tooltip "ਮਦਦ ਮੇਨੂ ਖੋਲ੍ਹੋ">
+<!ENTITY appMenuHelp.tooltip "ਮਦਦ ਮੀਨੂ ਖੋਲ੍ਹੋ">
 
 <!ENTITY customizeMenu.addToToolbar.label "ਟੂਲਬਾਰ ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "ਮੇਨੂ ਵਿੱਚ ਜੋੜੋ">
+<!ENTITY customizeMenu.addToPanel.label "ਮੀਨੂ ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ਟੂਲਬਾਰ ਵਿੱਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
@@ -377,11 +377,11 @@ can reach it easily. -->
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "ਮੇਨੂ ਵਿੱਚ ਭੇਜੋ">
+<!ENTITY customizeMenu.moveToPanel.label "ਮੀਨੂ ਵਿੱਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "ਟੂਲਬਾਰ ਵਿੱਚੋਂ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "ਮੇਨੂ ਤੋਂ ਹਟਾਓ">
+<!ENTITY customizeMenu.removeFromMenu.label "ਮੀਨੂ ਤੋਂ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "…ਹੋਰ ਆਈਟਮਾਂ ਜੋੜੋ">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
