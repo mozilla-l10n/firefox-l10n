@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "查找更多分享服务…">
 <!ENTITY sharePageCmd.label "分享此页面">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "分享此链接">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "分享此图片">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "分享选中段">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "分享此视频">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "分享此链接">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "分享此图像">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "分享选中部分">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "分享此视频">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "订阅
 ">
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
@@ -213,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "附加组件">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "应用">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Web 开发者">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -269,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "切换工具箱">
@@ -476,6 +485,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "用邮件发送视频…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "发送视频到设备">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "用邮件发送音频…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "激活此插件">
@@ -588,11 +599,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY pageStyleMenu.label "页面风格">
+<!ENTITY pageStyleMenu.label "页面样式">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "无风格">
+<!ENTITY pageStyleNoStyle.label "无样式">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "基本页面风格">
+<!ENTITY pageStylePersistentOnly.label "基本页面样式">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "更改此站点的弹出阻止设置">
@@ -689,7 +700,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "暂不操作">
 
-
+<!ENTITY social.directory.label "激活目录">
+<!ENTITY social.directory.text "您可以从目录激活共享服务。">
+<!ENTITY social.directory.button "带我去！">
+<!ENTITY social.directory.introText "点击要添加的服务将其添加到 &brandShortName;。">
+<!ENTITY social.directory.viewmore.text "查看更多">
 
 <!ENTITY customizeMode.tabTitle "定制 &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "更多工具和功能">
@@ -698,6 +713,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
 <!ENTITY customizeMode.toolbars "显示/隐藏工具栏">
 <!ENTITY customizeMode.titlebar "标题栏">
+<!ENTITY customizeMode.lwthemes "主题">
+<!ENTITY customizeMode.lwthemes.myThemes "我的主题">
+<!ENTITY customizeMode.lwthemes.recommended "推荐">
+<!ENTITY customizeMode.lwthemes.menuManage "管理">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label "使用 &brandShortName; 主题">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "聚焦聊天">
@@ -710,18 +733,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "共享的摄像头：">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "要共享的窗口或屏幕：">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "共享的麦克风：">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
-<!ENTITY webrtcIndicatorButton.label "摄像头/麦克风访问">
-<!ENTITY webrtcIndicatorButton.tooltip "显示您正在共享您摄像头或麦克风的站点">
+<!-- Bad Content Blocker Doorhanger Notification -->
+<!ENTITY badContentBlocked.moreinfo "即使内容被屏蔽，大多数网站仍能正常工作。">
 
-<!ENTITY loopCallButton.tooltip "邀请别人加入讨论">
+<!ENTITY mixedContentBlocked2.message "不安全内容">
+<!ENTITY mixedContentBlocked2.moreinfo "此网站上的一些未加密的元素已被屏蔽。">
+<!ENTITY mixedContentBlocked2.learnMore "详细了解">
+<!ENTITY mixedContentBlocked2.options "选项">
+<!ENTITY mixedContentBlocked2.unblock.label "暂时解除保护">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "启用保护">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
+<!ENTITY mixedContentBlocked2.disabled.message "保护已禁用">
 
-<!ENTITY mixedContentBlocked.moreinfo "即使此类内容被屏蔽，大多数网站仍能正常工作。">
+<!ENTITY trackingContentBlocked.message "跟踪">
+<!ENTITY trackingContentBlocked.moreinfo "跟踪您的网上活动的部分已被屏蔽。">
+<!ENTITY trackingContentBlocked.learnMore "详细了解">
+<!ENTITY trackingContentBlocked.options "选项">
+<!ENTITY trackingContentBlocked.unblock2.label "在此网站上禁用保护">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "启用保护">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.disabled.message "跟踪保护已禁用">
 
 <!ENTITY pointerLock.notification.message "随时可以按 ESC 显示鼠标指针。">
 
@@ -750,4 +787,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "侧栏">
 
 <!ENTITY switchToMetroCmd2.label       "在 Windows 8 触屏版下重启 &brandShortName;">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "忘记最近：">
+<!ENTITY panicButton.view.5min                    "5 分钟">
+<!ENTITY panicButton.view.2hr                     "2 小时">
+<!ENTITY panicButton.view.day                     "24 小时">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "程序将：">
+<!ENTITY panicButton.view.deleteCookies           "删除近期的 <html:strong>Cookie</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "删除近期的<html:strong>历史记录</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "关闭所有的<html:strong>标签页</html:strong>和<html:strong>窗口</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "打开一个新的窗口">
+
+<!ENTITY panicButton.view.undoWarning             "此操作无法撤销。">
+<!ENTITY panicButton.view.forgetButton            "忘记吧！">
+
+<!ENTITY panicButton.thankyou.msg1                "您近期的历史记录已清除。">
+<!ENTITY panicButton.thankyou.msg2                "享受安全的浏览吧！">
+<!ENTITY panicButton.thankyou.buttonlabel         "谢谢！">
 

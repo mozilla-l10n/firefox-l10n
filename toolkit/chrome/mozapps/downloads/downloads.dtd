@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "重试">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "转至下载页面">
+<!ENTITY cmd.goToDownloadPage.label       "前往下载页面">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "复制下载链接">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">

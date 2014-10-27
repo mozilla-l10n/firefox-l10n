@@ -52,7 +52,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
-<!ENTITY netmonitorUI.tab.headers         "标题头">
+<!ENTITY netmonitorUI.tab.headers         "消息头">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
@@ -231,6 +231,19 @@
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "R">
 
+<!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders): This is the label displayed
+  -  on the button in the headers tab that toggle view for raw request/response headers
+     from the currently displayed request -->
+<!ENTITY netmonitorUI.summary.rawHeaders "原始头">
+
+<!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.requestHeaders): This is the label displayed
+  -  in the network details headers tab identifying the raw request headers textarea -->
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "请求头：">
+
+<!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.responseHeaders): This is the label displayed
+  -  in the network details headers tab identifying the raw response headers textarea -->
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "响应头：">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
@@ -251,7 +264,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
-<!ENTITY netmonitorUI.custom.headers      "请求头部:">
+<!ENTITY netmonitorUI.custom.headers      "请求头:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->

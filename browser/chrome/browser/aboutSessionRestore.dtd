@@ -23,12 +23,28 @@
 <!ENTITY restorepage.windowLabel    "窗口 &#037;S">
 
 
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-<!ENTITY welcomeback.tabtitle       "欢迎回来！">
 
-<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
-     expressing joy that the user has successfully migrated their stuff and hope
-     that now they have a better experience.  -->
-<!ENTITY welcomeback.pageTitle      "欢迎回来！">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; 成功重置了你的配置文件。下面列出了你之前打开的窗口和标签页，你可以恢复它们，也可以打开一个全新的窗口。">
+<!ENTITY welcomeback2.restoreButton  "恢复！">
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "成功！">
+
+<!ENTITY welcomeback2.pageTitle     "成功！">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; 蓄势待发。">
+
+<!ENTITY welcomeback2.label.restoreAll  "恢复所有窗口和标签页">
+<!ENTITY welcomeback2.label.restoreSome "只恢复您想要的">
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "您的附加组件和自定义已被移除，并且您的浏览器设置已被恢复到其默认值。如果这没有解决您的问题，">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
+<!ENTITY welcomeback2.link.pageInfo2        "了解您还可以做些什么。">
