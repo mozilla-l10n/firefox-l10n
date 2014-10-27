@@ -106,9 +106,9 @@
 <!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
+  <li>ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਦੀ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਉਹ ਠੀਕ ਹਨ।</li>
+  <li>ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਹਾਡੇ ਯੰਤਰ ਲਈ ਡਾਟਾ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸਨ ਕੰਮ ਕਰਦਾ ਹੈ।
+    <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
