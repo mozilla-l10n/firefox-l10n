@@ -131,7 +131,7 @@
 <!ENTITY runtimedetails_summonADBRoot "appareils avec les privilèges administrateur">
 <!ENTITY runtimedetails_ADBRootWarning "(nécessite un bootloader débloqué)">
 <!ENTITY runtimedetails_restrictedPrivileges "Privilèges restreints aux outils de développement : ">
-<!ENTITY runtimedetails_requestPrivileges "nécessite des privilèges supplémentaires">
+<!ENTITY runtimedetails_requestPrivileges "Demander des privilèges supplémentaires">
 <!ENTITY runtimedetails_privilegesWarning "(Redémarrera l'appareil. Nécessite les privilèges administrateur.)">
 
 <!-- Monitor -->
