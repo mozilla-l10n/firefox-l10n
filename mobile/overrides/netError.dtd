@@ -50,6 +50,7 @@
 <!ENTITY malformedURI.longDesc2 "<ul>
   <li>网页地址通常格式为
     <strong>http://www.example.com/</strong></li>
+   <div id='searchbox'>
    <input id='searchtext' type='search'></input>
    <button id='searchbutton'>搜索</button>
    </div>
