@@ -390,7 +390,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIPP: Speichern Sie Artikel in Ihrer Leseliste, in dem Sie lang auf das in der Titelleiste angezeigte &formatI;-Symbol drücken.">
+<!ENTITY home_reading_list_hint2 "TIPP: Speichern Sie Artikel in Ihrer Leseliste, indem Sie lang auf das in der Titelleiste angezeigte &formatI;-Symbol drücken.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPP: Speichern Sie Artikel in Ihrer Leseliste, indem Sie lang auf das in der Titelleiste angezeigte Leselisten-Symbol drücken.">
