@@ -74,7 +74,7 @@
 <!ENTITY saveFrameCmd.label           "保存帧">
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY saveLinkAsCmd.label          "将链接目标另存为…">
-<!ENTITY saveLinkCmd.label            "复制链接地址">
+<!ENTITY saveLinkCmd.label            "保存链接目标">
 <!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageAsCmd.label         "将图像另存为…">
 <!ENTITY saveImageCmd.label           "保存图像">
