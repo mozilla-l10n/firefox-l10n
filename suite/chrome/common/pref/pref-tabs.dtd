@@ -17,4 +17,4 @@
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "替换已有的标签">
 <!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label "激活一个tab页来代替窗口">
+<!ENTITY openTabs.label "打开一个标签页而非窗口，当：">
