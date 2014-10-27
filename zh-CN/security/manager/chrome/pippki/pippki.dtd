@@ -8,7 +8,7 @@
 <!ENTITY setPassword.oldPassword.label "当前密码:">
 <!ENTITY setPassword.newPassword.label "新密码:">
 <!ENTITY setPassword.reenterPassword.label "新密码(重复):">
-<!ENTITY setPassword.meter.label "密码品质指示器">
+<!ENTITY setPassword.meter.label "密码质量标尺">
 <!ENTITY setPassword.meter.loading "正在载入">
 
 <!-- Values for resetpassword.xul -->
@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "产生新的私钥">
 <!ENTITY createCertInfo.msg1 "正在生成密钥… 可能需要几分钟…。">
 <!ENTITY createCertInfo.msg2 "请稍候…">
-
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "文字签署请求">
-<!ENTITY formSigning.cert "正在签署证书">
-<!ENTITY formSigning.confirmPassword "为了确定您同意使用您所选的证书来签署此文本消息，请输入主密码确认：">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "受保护的令牌身份验证">

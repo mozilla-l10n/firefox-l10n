@@ -6,7 +6,7 @@
 <!ENTITY  from.label                  "来源：">
 <!ENTITY  actionQuestion.label        "您想要 &brandShortName; 如何处理此文件？">
 
-<!ENTITY  openWith.label              "打开方式">
+<!ENTITY  openWith.label              "打开，通过">
 <!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "其他…">
 

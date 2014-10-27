@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "告诉网站我想被跟踪">
 <!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY trackingProtection.label       "防止网站跟踪我">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "详细了解">
 <!ENTITY doNotTrackInfo.label           "详细了解">
 
 <!ENTITY  history.label                 "历史记录">
