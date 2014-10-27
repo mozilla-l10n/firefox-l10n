@@ -99,6 +99,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "ਬੁੱਕਮਾਰਕ">
 <!ENTITY overlay_share_reading_list_btn_label "ਪੜ੍ਹਨ-ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
+<!ENTITY overlay_share_reading_list_btn_label_already "Already in Reading List">
 <!ENTITY overlay_share_send_other "ਹੋਰ ਯੰਤਰ ਉੱਤੇ ਭੇਜੋ">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -153,13 +155,30 @@
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "ਪਸੰਦੀਦਾ">
-<!ENTITY pref_header_display "ਡਿਸਪਲੇਅ">
-<!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
-<!ENTITY pref_header_help "ਮਦਦ">
-<!ENTITY pref_header_language "ਭਾਸ਼ਾ">
-<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_category_search3 "ਖੋਜ">
+<!ENTITY pref_category_search_summary "Customize your search providers">
+<!ENTITY pref_category_display "ਵਿਖਾਉਣਾ">
+<!ENTITY pref_category_display_summary "Text, title bar, full-screen browsing">
+<!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
+<!ENTITY pref_category_privacy_summary "Control passwords, cookies, tracking, data">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "About &brandShortName;, FAQs, data choices">
+<!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
+<!ENTITY pref_learn_more "ਹੋਰ ਜਾਣੋ">
+<!ENTITY pref_category_installed_search_engines "Installed search engines">
+<!ENTITY pref_category_add_search_providers "Add more search providers">
+<!ENTITY pref_category_search_restore_defaults "Restore search engines">
+<!ENTITY pref_search_restore_defaults "Restore defaults">
+<!ENTITY pref_search_restore_defaults_summary "Restore defaults">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
+<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
@@ -187,7 +206,7 @@
 <!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਵੇਖਾਓ">
 <!ENTITY pref_clear_private_data2 "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_private_data_category "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY pref_clear_on_exit_title "ਬੰਦ ਕਰਨ ਉੱਤੇ ਹਮੇਸ਼ਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pref_clear_on_exit_title2 "ਬਾਹਰ ਜਾਣ ਸਮੇਂ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ਆਟੋਮੈਟਿਕ ਹੀ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੇਗਾ, ਜਦੋਂ ਵੀ ਮੁੱਖ ਮੇਨੂ ਤੋਂ ਤੁਸੀਂ \u0022ਬੰਦ ਕਰੋ\u0022 ਦੀ ਚੋਣ ਕਰੋਗੇ">
 <!ENTITY pref_clear_on_exit_dialog_title "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਡਾਟਾ ਸਾਫ਼ ਕਰਨਾ ਹੈ">
 <!ENTITY pref_plugins "ਪਲੱਗਇਨ">
@@ -218,8 +237,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
+<!ENTITY pref_sync_summary "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਸਿੰਕ ਕਰੋ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ">
+<!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!ENTITY pref_private_data_history2 "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
@@ -270,8 +291,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
-<!ENTITY datareporting_wifi_geolocation_summary "ਵਾਈ-ਫਾਈ ਅਤੇ ਸੈਲੂਲਰ ਟਿਕਾਣਾ ਡਾਟਾ ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ, ਜਦੋਂ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਚੱਲਦੀ ਹੈ ਅਤੇ ਇਸ ਨੂੰ  &vendorShortName; ਨਾਲ ਸਾਡੇ ਭੂਗੋਲਿਕ-ਟਿਕਾਣਾ ਸੇਵਾ ਨਾਲ ਸਾਂਝਾ ਕਰਦੀ ਹੈ।">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "ਤੁਹਾਡੇ ਯੰਤਰ ਦਾ ਲਗਭਗ ਵਾਈ-ਫਾਈ ਅਤੇ ਸੈਲੂਲਰ ਟਿਕਾਣਾ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਡੇ ਭੂਗੋਲਿਕ-ਟਿਕਾਣਾ ਸੇਵਾ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਸਾਂਝਾ ਕਰਦੀ ਹੈ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -306,6 +326,7 @@ size. -->
 <!ENTITY tabs_private "ਪ੍ਰਾਈਵੇਟ">
 <!ENTITY tabs_synced "ਸਿੰਕ ਕੀਤੇ">
 <!ENTITY set_image_fail "ਚਿੱਤਰ ਸੈੱਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY set_image_path_fail "Unable to save image">
 <!ENTITY set_image_chooser_title "ਚਿੱਤਰ ਇੰਝ ਸੈੱਟ ਕਰੋ">
 
 
@@ -419,10 +440,32 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "&formatS; ਲਈ">
 
+<!ENTITY home_remote_tabs_title "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!ENTITY home_remote_tabs_empty "Your tabs from other devices show up here.">
+<!ENTITY home_remote_tabs_unable_to_connect "Unable to connect">
+<!ENTITY home_remote_tabs_need_to_sign_in "Please sign in to reconnect your Firefox Account and continue syncing.">
+<!ENTITY home_remote_tabs_trouble_verifying "Trouble verifying your account?">
+<!ENTITY home_remote_tabs_need_to_verify "Please verify your Firefox Account to start syncing.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; devices hidden">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "ਯੰਤਰ ਓਹਲੇ ਕਰੋ">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Unhide selected devices">
+
 <!ENTITY private_browsing_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
 <!ENTITY private_tabs_panel_empty_desc "ਤੁਹਾਡੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵਿਖਾਇਆ ਜਾਵੇਗਾ। ਜਦੋਂ ਕੀ ਅਸੀਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਜਾਂ ਕੂਕੀਜ਼ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਰੱਖਦੇ ਹਾਂ, ਤੁਹਾਡੇ ਕੀਤੇ ਬੁੱਕਮਾਰਕ ਤੇ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
 <!ENTITY private_tabs_panel_learn_more "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
-
+<!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
+<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
+<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
 <!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਇੱਥੇ ਦਿਓ">
 
 
@@ -488,6 +531,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY updater_apply_select2 "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਛੂਹੋ">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Restart the browser for the changes to take effect">
+<!ENTITY new_tablet_pref "Enable new tablet UI">
+
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "ਨਵਾਂ ਮਹਿਮਾਨ ਸ਼ੈਸ਼ਨ">
 <!ENTITY exit_guest_session "ਮਹਿਮਾਨ ਸ਼ੈਸ਼ਨ ਬੰਦ ਕਰੋ">
@@ -495,6 +545,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY new_guest_session_title "&brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ">
 <!ENTITY new_guest_session_text "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਪਾਸਵਰਡ, ਅਤੀ ਜਾਂ ਬੁੱਕਮਾਰ) ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY guest_browsing_notification_title "Guest browsing is enabled">
+<!ENTITY guest_browsing_notification_text "Tap to exit">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ਹੁਣ ਮੁੜ-ਚਾਲੂ ਹੋਵੇਗਾ">
 <!ENTITY exit_guest_session_text "ਇਹ ਸ਼ੈਸ਼ਨ ਤੋਂ ਬਰਾਊਜ਼ਰ ਕੀਤਾ ਡਾਟਾ ਹਟਾਇਆ ਜਾਵੇਗਾ।">

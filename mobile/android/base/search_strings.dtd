@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; ਖੋਜ'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint '&formatS; ਨਾਲ ਖੋਜ'>
+
+<!ENTITY search_empty_title '&brandShortName; ਖੋਜ'>
+<!ENTITY search_empty_message 'ਜੋ ਵੀ ਤੁਸੀਂ ਚਾਹੋ ਦੇ ਲਈ ਤੁਰੰਤ ਖੋਜ'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰੋ'>
+
+<!ENTITY search_pref_title 'Settings'>
+<!ENTITY search_pref_button_content_description 'ਸੈਟਿੰਗ'>
+
+<!ENTITY pref_clearHistory_confirmation 'ਅਤੀਤ ਸਾਫ਼ ਕੀਤਾ'>
+<!ENTITY pref_clearHistory_dialogMessage 'ਇਹ ਯੰਤਰ ਤੋਂ ਸਭ ਖੋਜ ਅਤੀਤ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?'>
+<!ENTITY pref_clearHistory_title 'ਖੋਜ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ'>
+
+<!ENTITY pref_searchProvider_title 'ਖੋਜ ਇੰਜਣ'>
+
+<!ENTITY search_widget_button_label 'ਖੋਜ'>
+
+<!ENTITY network_error_title 'ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ'>
+<!ENTITY network_error_message 'ਆਪਣੀ ਨੈੱਟਵਰਕ ਸੈਟਿੰਗ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ'>
