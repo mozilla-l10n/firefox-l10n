@@ -1,6 +1,6 @@
-amazondotcom
+bing
+eBay-france
 google
 twitter
-wikipedia
-yahoo
-bing
+wikipedia-br
+yahoo-france
