@@ -33,7 +33,7 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrankopio">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
-<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_label "Rulĉirkaŭaĵa informo">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Kontrolilo">
 <!ENTITY runtimeMenu_showMonitor_accesskey "K">
@@ -108,9 +108,9 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Indekso de haveblaj ŝablonoj">
 <!ENTITY prefs_options_showeditor "Montri redaktilon">
 <!ENTITY prefs_options_showeditor_tooltip "Montri internan redaktilon">
-<!ENTITY prefs_options_tabsize "Tab size">
-<!ENTITY prefs_options_expandtab "Soft tabs">
-<!ENTITY prefs_options_expandtab_tooltip "Use spaces instead of the tab character">
+<!ENTITY prefs_options_tabsize "Tabogrando">
+<!ENTITY prefs_options_expandtab "Kvazaŭtaboj">
+<!ENTITY prefs_options_expandtab_tooltip "Uzi spacojn anstataŭ la tabosignon">
 <!ENTITY prefs_options_detectindentation "Aŭtomate krei krommarĝenojn">
 <!ENTITY prefs_options_detectindentation_tooltip "Diveni krommarĝenojn surbaze de la enhavo de la fonto">
 <!ENTITY prefs_options_autocomplete "Aŭtomate kompletigi">
