@@ -136,17 +136,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Gjeni më tepër shërbime Ndarjesh Me të Tjerë…">
 <!ENTITY sharePageCmd.label "Ndajeni Këtë Faqe Me të Tjerët">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "N">
-<!ENTITY shareLinkCmd.label "Ndajeni Këtë Lidhje Me të Tjerët">
-<!ENTITY shareLinkCmd.accesskey "N">
-<!ENTITY shareImageCmd.label "Ndajeni Këtë Figurë Me të Tjerët">
-<!ENTITY shareImageCmd.accesskey "N">
-<!ENTITY shareSelectCmd.label "Ndajeni Përzgjedhjen Me të Tjerët">
-<!ENTITY shareSelectCmd.accesskey "N">
-<!ENTITY shareVideoCmd.label "Ndajeni Këtë Video Me të Tjerët">
-<!ENTITY shareVideoCmd.accesskey "N">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Ndajeni Këtë Lidhje Me të Tjerët">
+<!ENTITY shareLink.accesskey "d">
+<!ENTITY shareImage.label "Ndajeni Këtë Figurë Me të Tjerët">
+<!ENTITY shareImage.accesskey "N">
+<!ENTITY shareSelect.label "Ndajeni Përzgjedhjen Me të Tjerët">
+<!ENTITY shareSelect.accesskey "N">
+<!ENTITY shareVideo.label "Ndajeni Këtë Video Me të Tjerët">
+<!ENTITY shareVideo.accesskey "N">
 <!ENTITY feedsMenu.label "Pajtohuni">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
@@ -204,9 +209,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Shtesa">
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Zbatime">
+<!ENTITY webapps.accesskey            "b">
 
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.accesskey   "Z">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -472,6 +479,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Dërgoni Video me Email…">
 <!ENTITY emailVideoCmd.accesskey      "v">
+<!ENTITY castVideoCmd.label           "Dërgoje Videon Te Pajisja">
+<!ENTITY castVideoCmd.accesskey       "s">
 <!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktivizoje këtë shtojcë">
@@ -684,6 +693,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "M">
 <!ENTITY social.closeNotificationItem.label "Jo Tani">
 
+<!ENTITY social.directory.label "Listë Aktivizimesh">
+<!ENTITY social.directory.text "Prej listës mund të aktivizoni shërbime Ndarjesh Me të Tjerë.">
+<!ENTITY social.directory.button "Shpjemë atje!">
+<!ENTITY social.directory.introText "Klikoni mbi një shërbim që të shtohet te &brandShortName;-i.">
+<!ENTITY social.directory.viewmore.text "Shihni Më Tepër">
+
 <!ENTITY customizeMode.tabTitle "Personalizojeni &brandShortName;-in">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mjete dhe Veçori Shtesë">
 <!ENTITY customizeMode.menuAndToolbars.empty "Doni më tepër mjete?">
@@ -698,7 +713,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-
+<!ENTITY customizeMode.deveditionTheme.label "Përdor Temën e &brandShortName;-it">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Përqendrohu te fjalosjet">
@@ -729,11 +744,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Mbrojtja është e çaktivizuar">
 
 <!ENTITY trackingContentBlocked.message "Gjurmim">
-<!ENTITY trackingContentBlocked.moreinfo "U çaktivizuan pjesë të faqes që gjurmojnë veprimtarinë tuaj në rrjet.">
+<!ENTITY trackingContentBlocked.moreinfo "U bllokuan pjesë të faqes që gjurmojnë veprimtarinë tuaj në rrjet.">
 <!ENTITY trackingContentBlocked.learnMore "Mësoni Më Tepër">
 <!ENTITY trackingContentBlocked.options "Mundësi">
-<!ENTITY trackingContentBlocked.unblock.label2 "Çaktivizoje mbrojtjen për këtë sajt">
+<!ENTITY trackingContentBlocked.unblock2.label "Çaktivizoje mbrojtjen për këtë sajt">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "Ç">
 <!ENTITY trackingContentBlocked.block.label "Aktivizoje mbrojtjen">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Mbrojtja nga gjurmimet është e çaktivizuar">
 
 <!ENTITY pointerLock.notification.message "Që të rishfaqet, shtypni ESC në çfarëdo çasti.">
