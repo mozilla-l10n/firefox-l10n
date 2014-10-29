@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPrivateBrowsing.title.normal     "پنجره مرورگر ناشناس باز شود؟">
 
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه ای را از این پنجره به خاطر نمی‌سپارد.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه‌ای را از این پنجره به خاطر نمی‌سپارد.">
 
 
+<!ENTITY aboutPrivateBrowsing.description      "این شامل تاریخچه مرورگر، تاریخچه جست‌وجو، تاریخچه دانلودها، تاریخچه فرمهای وب، کوکی‌ها و فایل‌های موقتی اینترنت است. با این حال، فایل‌هایی را که دانلود می‌کنید و نشانک‌هایی را که می‌سازید برایتان نگه می‌دارد.">
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "شما در حال حاضر در پنجره ی حالت ناشناس قرار ندارید.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "شما در حال حاضر در پنجره‌ی ناشناس قرار ندارید.">
 
-<!ENTITY aboutPrivateBrowsing.moreInfo         "با آن که تاریخچه‌ای از مرور شما در این رایانه باقی نخواهد ماند، فراهم‌کنندهه سرویس اینترنت یا کارفرمای شما ممکن است بتوانند صفحات وب بازدید شده توسط شما را ردگیری کنند.">
+<!ENTITY aboutPrivateBrowsing.moreInfo         "با آن که تاریخچه‌ای از مرور شما در این رایانه ثبت نخواهد شد، اما سرویس‌دهنده‌ی اینترنت یا کارفرمای شما هنوز می‌توانند صفحات وبی را که بازدید می‌کنید ردگیری کنند.">
 
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره ناشناس باز کن">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره‌ی ناشناس باز کن">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart3               "برای شروع مرور ناشناس، می‌توانید از مسیر منوی &basePBMenu.label;، گزینه‌ی &privateBrowsingCmd.start.label; هم بروید.">

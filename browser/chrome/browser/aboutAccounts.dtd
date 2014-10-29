@@ -6,5 +6,5 @@
 
 <!ENTITY aboutAccountsConfig.description "برای همگام‌سازی زبانه ها، نشانکها و گذرواژه های خود وارد شوید.">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع به کار">
-<!ENTITY aboutAccountsConfig.useOldSync.label "آیا از نسخه قدیمی همگام‌سازی استفاده می‌کنید؟">
+<!ENTITY aboutAccountsConfig.useOldSync.label "آیا دارید از یک نسخه‌ی قدیمی همگام‌سازی استفاده می‌کنید؟">
 <!ENTITY aboutAccountsConfig.manage.label "مدیریت">

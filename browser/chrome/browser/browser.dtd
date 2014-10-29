@@ -479,6 +479,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 
 
+
+
 <!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "پنهان کردن این افزونه">
@@ -696,7 +698,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "شخصی‌سازی &brandShortName;">
-
+<!ENTITY customizeMode.menuAndToolbars.header2 "ویژگی‌ها و ابزارهای افزودنی ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ابزار بیشتری می خواهید؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "انتخاب از میان هزاران افرونه">
 
@@ -745,7 +747,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY trackingContentBlocked.disabled.message "حفاظت از طریق ردگیری غیرفعال است‌‌">
 
 <!ENTITY pointerLock.notification.message "برای نمایش مجدد در هر زمانی دکمه ESC را فشار دهید.">
 

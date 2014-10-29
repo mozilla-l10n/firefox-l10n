@@ -16,13 +16,13 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "از انتخاب فایرفاکس متشکریم! برای استفاده بهتر از مرورگرتان، پیشنهاد می‌کنیم درباره‌ی <a>جدیدترین ویژگی‌های</a> آن بخوانید.">
+<!ENTITY abouthome.defaultSnippet1.v1 "از انتخاب فایرفاکس متشکریم! برای آن که از مرورگرتان بهترین استفاده را ببرید، پیشنهاد می‌کنیم درباره‌ی <a>جدیدترین ویژگی‌های آن</a> بیشتر بدانید.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "به راحتی میتواتید هر جور که دوست دارید فایرفاکس را برای خودتان  سفارشی‌سازی کنید. <a> افزونه های دلخواهتان را از میان هزاران افرونه موجود پیدا کنید</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "به راحتی می‌توانید فایرفاکس را همان طور که دوست دارید سفارشی‌سازی کنید. <a> افزونه‌های دلخواهتان را از بین هزاران افرونه‌ی موجود انتخاب کنید</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; یک نرم افزار مجانی و متن باز از بنیاد غیر دولتی موزیلاست<a>حقوق خود را بدانید...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; یک نرم‌افزار آزاد و متن‌باز از بنیاد غیرانتفاعی موزیلا است. <a>حقوق خود را بدانید ...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "نشانک‌ها">
 <!ENTITY abouthome.historyButton.label   "تاریخچه">
@@ -31,8 +31,8 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "گزینه‌ها">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "تنظیمات">
-<!ENTITY abouthome.addonsButton.label    "افزودنی‌ها">
+<!ENTITY abouthome.preferencesButtonUnix.label  "ترجیحات">
+<!ENTITY abouthome.addonsButton.label    "افزونه‌ها">
 <!ENTITY abouthome.appsButton.label      "بازار">
-<!ENTITY abouthome.downloadsButton.label "بارگیری‌ها">
+<!ENTITY abouthome.downloadsButton.label "دانلودها">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
