@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "कुँजीपटल शार्टकट">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
@@ -34,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिअ…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; यात्रा">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "वरीयता…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

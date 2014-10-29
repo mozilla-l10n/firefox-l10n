@@ -56,19 +56,23 @@
 <!ENTITY lineNumbers.label             "पंक्ति क्रमांक देखाबू (L)">
 <!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "पाठ नपेटू (W)">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "ट्रेलिंग स्थान उभारू (H)">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
-
-
-
+<!ENTITY largerFont.label             "पैघ फाँट आकार (a)">
+<!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 
-
+<!ENTITY smallerFont.label            "छोट फाँट आकार (m)">
+<!ENTITY smallerFont.accesskey        "m">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "सामान्य आकार (N)">
 <!ENTITY normalSize.accesskey         "N">
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "संपादन">
 <!ENTITY editMenu.accesskey           "E">
@@ -145,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
+<!ENTITY evalFunction.label "वर्तमान फ़ंक्शन क मूल्यांकन करू (v)">
+<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">

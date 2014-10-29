@@ -21,22 +21,34 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "एहि स्रोत करिया बक्सा अछि: ई ब्रेकप्वाइंट अक्षम, आओर एकरा माध्यम सँ रुकि जाएत कदम राखि रहल अछि.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "एहि स्रोत केँ करिया बाक्सिंग करए सँ रोकू">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
 <!ENTITY debuggerUI.optsButton.tooltip  "डीबगर विकल्प">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "करिया बाक्सिंग टॉगल करू ">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "स्रोत सुंदर बनाबू">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "न्यूनीकृत स्रोत केँ स्वतः अच्छा बनाबू">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "सभ ब्रेकपॉइंट सक्रिय/निष्क्रिय करू">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -47,6 +59,8 @@
 <!ENTITY debuggerUI.clearButton "साफ  करू ">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "एकत्र कएल निशान साफ करू">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -54,6 +68,8 @@
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "पकड़ल अपवाद नज़रअंदाज़ करू">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -81,6 +97,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+
+<!ENTITY debuggerUI.autoBlackBox           "स्वचालित रूप सँ करिया बक्सा न्यूनीकृत स्रोत">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->

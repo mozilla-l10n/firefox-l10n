@@ -82,8 +82,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateAutoMetro.label           "डेस्कटॉप आओर विंडोज 8 शैली &brandShortName; सँ स्वतः अद्यतन करू">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "अद्यतन जाँचू मुदा हमरा चुनै दिअ जे कतए ओकरा संस्थापित कएनाइ अछि">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
@@ -92,6 +92,7 @@
 <!ENTITY updateAutoAddonWarn.label       "हमरा चेताउ जँ ई कोनो सहयुक्ति केँ निष्क्रिय करैत अछि">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
+<!ENTITY updateAutoMetroWarn.label       "(विंडोज़ 8 शैली &brandShortName; सहयुक्ति सुसंगतता केर जाँच नहि करैत अछि)">
 
 <!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
@@ -117,12 +118,12 @@
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
+<!ENTITY certs.ask.accesskey             "A">
 
 
-
-
-
-
-
+<!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा डिवाइस">
+<!ENTITY viewSecurityDevices.accesskey   "D">
