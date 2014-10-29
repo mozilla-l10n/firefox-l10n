@@ -29,7 +29,8 @@
 <!ENTITY openFileCmd.accesskey        "ب">
 
 
-
+<!ENTITY openRecentMenu.label         "باز کردن آخرین">
+<!ENTITY openRecentMenu.accesskey     "آ">
 
 
 
@@ -56,7 +57,7 @@
 
 
 <!ENTITY smallerFont.label            "قلم کوچک‌تر">
-<!ENTITY smallerFont.accesskey        "و">
+<!ENTITY smallerFont.accesskey        "ک">
 <!ENTITY smallerFont.commandkey       "-">
 
 
@@ -65,8 +66,8 @@
 <!ENTITY editMenu.label               "ویرایش">
 <!ENTITY editMenu.accesskey           "و">
 
-<!ENTITY run.label                    "اجرا‌">
-<!ENTITY run.accesskey                "ا">
+<!ENTITY run.label                    "اجرا کردن">
+<!ENTITY run.accesskey                "R">
 
 
 <!ENTITY inspect.label                "وارسی">

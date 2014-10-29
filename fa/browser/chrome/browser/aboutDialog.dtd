@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "جستجو برای به‌روزرسانی‌ها">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ج">
-<!ENTITY update.updateButton.label2                "جهت انجام بروزرسانی &brandShortName; را مجددا راه اندازی کنید">
+<!ENTITY update.updateButton.label2                "برای انجام به‌روزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "اعمال به‌روزرسانی…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ا">
@@ -19,7 +19,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "برای کمک به بهتر کردن &brandShortName; ، این برنامه به‌طور خودکار اطلاعات اجرایی،سخت افزاری، کاربری و سفارشی را به &vendorShortName; میفرستد.">
+<!ENTITY warningDesc.telemetryDesc  "این برنامه برای کمک به بهتر کردن &brandShortName;، به طور خودکار اطلاعاتی را درباره‌ی عملکرد، سخت‌افزار، نوع استفاده و تنظیمات شخصی به &vendorShortName; می‌فرستد.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -27,18 +27,18 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " است ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "انجمن جهانی">
-<!ENTITY community.exp.end          " با هم کار میکنیم تا وب برای همه قابل دسترس، عمومی و باز بماند.">
+<!ENTITY community.exp.creditsLink  "جامعه‌ی جهانی">
+<!ENTITY community.exp.end          "با هم کار می‌کنیم تا وب را باز، عمومی و برای همه قابل دسترس نگه داریم.">
 
 <!ENTITY community.start2           " ;brandShortName&amp; طراحی شده توسط ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "انجمن جهانی">
-<!ENTITY community.end3             " با هم کار میکنیم تا وب برای همه قابل دسترس، عمومی و باز بماند.">
+<!ENTITY community.creditsLink      "جامعه‌ی جهانی">
+<!ENTITY community.end3             "با هم کار می‌کنیم تا وب را باز، عمومی و برای همه قابل دسترس نگه داریم.">
 
-<!ENTITY contribute.start           "به نظرتان جالب می‌رسد؟ ">
+<!ENTITY contribute.start           "جالب به نظر می‌رسد؟ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "مشارکتتان را آغاز کنید!">
 <!ENTITY contribute.end             "">
@@ -53,28 +53,28 @@
 <!ENTITY bottomLinks.privacy        "سیاست حفظ حریم خصوصی">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "بررسی بروزرسانی …">
+<!ENTITY update.checkingForUpdates  "جستجو برای به‌روزرسانی‌ها …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; به روز است">
+<!ENTITY update.noUpdatesFound      "&brandShortName; به‌روز است">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "به روز رسانی توسط مدیر سیستم‌ شما غیرفعال شده است.">
+<!ENTITY update.adminDisabled       "مدیر سیستم‌ شما به‌روزرسانی‌ها را غیرفعال کرده است.">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; در بخش دیگری از برنامه درحال بروزرسانی می‌باشد.">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; در بخش دیگری از برنامه در حال به‌روزرسانی است.">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "به‌روز رسانی با مشکل مواجه شد. ">
-<!ENTITY update.failed.linkText     "دریافت آخرین نسخه">
+<!ENTITY update.failed.start        "به‌روزرسانی ناموفق بود. ">
+<!ENTITY update.failed.linkText     "آخرین نسخه را دانلود کنید">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "به‌روز رسانی‌ها در اینجا قابل دسترسی است:">
+<!ENTITY update.manual.start        "به‌روزرسانی‌ها در این‌جا قابل دسترسی هستند:">
 <!ENTITY update.manual.end          " قابل دریافت هستند.">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -83,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "شما قادر به انجام بروز رسانی های بیشتر بر روی این دستگاه نیستید">
+<!ENTITY update.unsupported.start    "شما نمی‌توانید به‌روزرسانی‌های بیشتری را بر روی این سیستم انجام بدهید.">
 
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -92,7 +92,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "در حال دریافت به‌روز رسانی — ">
+<!ENTITY update.downloading.start   "در حال دریافت به‌روزرسانی — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "اعمال به‌‌روزرسانی…">
@@ -100,5 +100,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "موقعیت کنونی شما ">
-<!ENTITY channel.description.end    " کانال بروزرسانی است.">
+<!ENTITY channel.description.start  "در حال حاضر در ">
+<!ENTITY channel.description.end    " کانال به‌روزرسانی هستید.">

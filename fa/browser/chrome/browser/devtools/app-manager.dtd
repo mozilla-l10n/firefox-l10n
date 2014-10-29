@@ -7,14 +7,15 @@
 <!ENTITY index.device2 "دستگاه">
 
 
-
-
-
-
-
-
-
-<!ENTITY device.stopApp "توقف">
+<!ENTITY device.debugMainProcess "روند اصلی اشکال‌زدایی">
+<!ENTITY device.debugMainProcessTooltip "باز کردن اتصال دهنده ابزار برنامه نویسی به پردازش اصلی در دستگاه">
+<!ENTITY device.screenshot "عکس صفحه">
+<!ENTITY device.screenshotTooltip "یک عکس از وضعیت فعلی صفحه دستگاه بگیر و در زبانه تازه باز کن">
+<!ENTITY device.title "مرکز کنترل دستگاه">
+<!ENTITY device.notConnected "متصل نیست. لطفاً دستگاهتان را به زیر متصل کنید.">
+<!ENTITY device.startApp "آغاز">
+<!ENTITY device.startAppTooltip "آغاز برنامه در دستگاه">
+<!ENTITY device.stopApp "ایست">
 <!ENTITY device.stopAppTooltip "ایست برنامه در دستگاه">
 <!ENTITY device.debugApp "اشکال زدایی">
 
@@ -41,7 +42,7 @@
 
 
 
-<!ENTITY connection.notConnected2 "اتصال برقرار نیست.">
+<!ENTITY connection.notConnected2 "متصل نیست.">
 
 
 
