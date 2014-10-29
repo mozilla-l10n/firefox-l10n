@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "'S urrainn dhut air na leanas cuideachd ">
-<!ENTITY support.link              "Taic le &brandShortName;">
-<!ENTITY support.post2             " airson barrachd fiosrachaidh.">
+<!ENTITY support.pre3              "Tadhail air ">
+<!ENTITY support.link2             "làrach na taice">
+<!ENTITY support.post3             " againn airson freagairtean air duilgheadasan cumanta.">
 
 <!ENTITY happy.header              "Tha sinn fìor thoilichte sin a chluinntinn!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Uaireigin eile 's dòcha">
 <!ENTITY happy.noThanks            "Chan eil mi airson sin a dhèanamh, mòran taing">
 
+<!ENTITY sad.header                "Ìoc!">
 <!ENTITY sad.message               "Tha sinn duilich gun robh duilgheadas agad le &brandShortName;. Nach innis thu dhuinn dè thachair ach an urrainn dhuinn a chur ceart?">
 <!ENTITY sad.placeholder           "Cuir do bheachdan an-seo">
-<!ENTITY sad.lastSite              "An làrach mu dheireadh air an do thadhail thu (roghainneil)">
+<!ENTITY sad.lastSite2             "Gabh a-steach an làrach mu dheireadh a thadhail thu air">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Tapadh leat airson innse dhuinn.">
+<!ENTITY sad.thanksHeader2         "Gun robh math agad.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Air neo.">
 
-<!ENTITY feedback.privacy          "Air sgàth adhbharan prìobhaideachd, na cuir a-steach fiosrachadh pearsanta 'nad bheachdan.">
+<!ENTITY feedback.privacy2         "Air sgàth adhbharan prìobhaideachd, na cuir a-steach fiosrachadh pearsanta 'nad bheachdan.">
 <!ENTITY feedback.send             "Cuir thugainn do bheachdan">
