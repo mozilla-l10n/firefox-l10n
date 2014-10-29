@@ -8,14 +8,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ayiyi kukhumbula nayiphi na imbali yale festile.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ayiyi kukhumbula nayiphi na imbali yale festile.">
 
-<!ENTITY aboutPrivateBrowsing.description      "Idibanisa imbali yokubhrawuza, imbali yokukhangela, imbali yokukhuphela, imbali yefomu yewebhu. amaqebengwana, kunye neefayile ze-intanethi zethutyana">
+<!ENTITY aboutPrivateBrowsing.description      "Idibanisa imbali yokubhrawuza, imbali yokukhangela, imbali yokukhuphela, imbali yefomu yewebhu. amaqebengwana, kunye neefayile ze-intanethi zethutyana.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Awukho kwifestile yangasese okwangoku.">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo         "Ngelixa le khompyutha ingayi kuba narekhodi yembali yokubhrawuza yakho, umqeshi wakho okanye umnikezeli wenkonzo ye-intanethi yakho unakho ukulanda umkhondo wamakhasi owatyeleleyo.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Funda ngakumbi.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Vula ifestile yangasese ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Vula ifestile yangasese">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 <!-- TO BE REMOVED POST-AUSTRALIS --> 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
