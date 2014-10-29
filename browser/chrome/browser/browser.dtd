@@ -484,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Senda myndband…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "Senda myndband í tæki">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Senda hljóðskrá…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Gera þessa viðbót virka">
@@ -700,7 +700,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "F">
 <!ENTITY social.closeNotificationItem.label "Ekki núna">
 
-
+<!ENTITY social.directory.label "Virkjanir">
+<!ENTITY social.directory.text "Þú getur virkja deilingarþjónustur frá þessu skráarsafni.">
 <!ENTITY social.directory.button "Fara þangað!">
 <!ENTITY social.directory.introText "Smelltu á þjónust til að bæta henni við &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Skoða meira">
