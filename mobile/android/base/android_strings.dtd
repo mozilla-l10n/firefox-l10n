@@ -78,13 +78,13 @@
 <!ENTITY settings_title "அமைப்புகள்">
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
-
+<!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "மொழி">
-
+<!ENTITY pref_category_language_summary "உங்கள் உலாவியின் மொழியை மாற்று">
 <!ENTITY pref_browser_locale "உலாவி மொழி">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "புத்தகக்குறி">
 <!ENTITY overlay_share_reading_list_btn_label "படித்தல் பட்டியல்களுடன் சேர்">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "புத்தகக்குறி உள்ளது">
+<!ENTITY overlay_share_reading_list_btn_label_already "படிக்கும் பட்டியலில் உள்ளது">
 <!ENTITY overlay_share_send_other "பிற சாதனங்களுக்கு அனுப்பு">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_search_summary "தேடு பொறி வழங்குநர்களை தனிப்பயனாக்கு">
 <!ENTITY pref_category_display "காண்பி">
-
+<!ENTITY pref_category_display_summary "உரை, தலைப்பு பட்டை, முழுத்திரை உலாவல்">
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
-
+<!ENTITY pref_category_privacy_summary "கடவுச்சொற்கள், நினைவிகள், தடமறிதல், தரவு போன்றவற்றை கட்டுப்படுத்து">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;, அகேகே, தரவு வாய்ப்புகள் பற்றி">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
 <!ENTITY pref_learn_more "மேலும் அறிய">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "குறிப்பு: தெடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி வழங்குநர்களின் பட்டியலுடன் சேர்க்கவும்.">
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
-
+<!ENTITY pref_category_devtools_summary "தொலைநிலை வழுநீக்கம், வண்ணப்பூச்சு அடித்தல்">
 <!ENTITY pref_developer_paint_flashing "பளிச்சிடும் வண்ணப்பூச்சு">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினை">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "பட்டியலை காட்ட வேண்டாம்">
 <!ENTITY pref_clear_private_data2 "இப்போது துடை">
 <!ENTITY pref_clear_private_data_category "தனிபயன் தரவை நீக்கவும்">
-
+<!ENTITY pref_clear_on_exit_title2 "வெளியேறும்போது துடை">
 <!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \&quot;வெளியேறு\&quot; என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; தானாகவே துடைத்துவிடும்">
 <!ENTITY pref_clear_on_exit_dialog_title "துடைக்க வேண்டிய தரவை தேர்">
 <!ENTITY pref_plugins "செருகுநிரல்கள்">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
 <!ENTITY pref_sync "ஒத்திசை">
-
+<!ENTITY pref_sync_summary "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசைவுச் செய்">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்கு">
-
+<!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
 <!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "உங்கள் சாதனத்தின் வை-பை, செல்லூலார் போன்றவற்றின் தேராய இடத்தை &vendorShortName; உடன் பகிர்ந்து புவியிருப்பிட சேவையை மேம்படுத்த உதவவும்">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "தனிப்பட்ட">
 <!ENTITY tabs_synced "ஒருங்கிணைக்கப்பட்டது">
 <!ENTITY set_image_fail "படத்தை அமைக்க முடியவில்லை">
-
+<!ENTITY set_image_path_fail "படத்தை சேமிக்க முடியவில்லை">
 <!ENTITY set_image_chooser_title "படத்தை இப்படி அமை">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -414,25 +414,30 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; க்கு மேல்">
 
 <!ENTITY home_remote_tabs_title "ஒத்திசைக்கப்பட்ட தத்தல்கள்">
-
+<!ENTITY home_remote_tabs_empty "மற்ற சாதனங்களின் கீற்றுகள் இங்கே தோன்றும்.">
 <!ENTITY home_remote_tabs_unable_to_connect "இணைக்க முடியவில்லை">
+<!ENTITY home_remote_tabs_need_to_sign_in "ஒத்திசைவைத் தொடர பயர்பாக்ஸ் கணக்குடன் புகுபதிகைச் செய்யவும்.">
+<!ENTITY home_remote_tabs_trouble_verifying "உங்கள் கணக்கைச் சரிபார்ப்பதில் பிழை?">
+<!ENTITY home_remote_tabs_need_to_verify "பயர்பாக்ஸ் கணக்குடன் புகுபதிகைச் செய்து ஒத்திசைவைத் தொடங்கவும்.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 சாதனம் மறைந்துள்ளது">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; சாதனங்கள் மறைந்துள்ளன">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "மறைந்துள்ள சாதனங்கள்">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "தேர்ந்த சாதனங்கள் மறைக்காதே">
 
 <!ENTITY private_browsing_title "தனிப்பட்ட உலாவல்">
 <!ENTITY private_tabs_panel_empty_desc "உங்கள் தனிப்பட்ட கீற்று இங்கே காண்பிக்கப்படும். நாங்கள் உங்களுடைய உலாவல் வரலாறு அல்லது நினைவிகள், புத்தகக்குறிகள் பதிவிறக்கிய கோப்புகள் போன்றவற்றை வைத்திருக்காத நிலையில் உங்கள் கருவியில் சேமிக்கப்பட்டுவிடும்.">
 <!ENTITY private_tabs_panel_learn_more "மேலும் அறிய ஆவளா?">
 
+<!ENTITY remote_tabs_panel_moved_title "என் கீற்றுகள் எங்கே பொனது?">
 
 
 
