@@ -42,7 +42,7 @@
 <!ENTITY profilerUI.table.totalDuration   "Total Tid (ms)">
 
 <!ENTITY profilerUI.table.totalPercentage "Total Kostnad">
-
+<!ENTITY profilerUI.table.selfPercentage  "Självkostnad">
 <!ENTITY profilerUI.table.samples         "Exempel">
 <!ENTITY profilerUI.table.function        "Funktion">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
