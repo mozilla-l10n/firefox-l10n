@@ -6,16 +6,17 @@
 <!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
-
+<!ENTITY  onboard_start_message "Bun venit la &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcaje">
-
+<!ENTITY  history_title "Istoric">
 <!ENTITY  reading_list_title "Listă de citit">
-
+<!ENTITY  recent_tabs_title "File recente">
 
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
@@ -45,8 +46,8 @@
 
 <!ENTITY history_today_section "Azi">
 <!ENTITY history_yesterday_section "Ieri">
-
-
+<!ENTITY history_week_section2 "Săptămâna trecută">
+<!ENTITY history_older_section2 "Luna trecută">
 
 <!ENTITY go "Dute">
 <!ENTITY search "Căutare">
@@ -73,9 +74,11 @@
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -88,6 +91,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
 
+
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -98,8 +103,11 @@
 
 
 <!ENTITY pref_category_display "Ecran">
+
 <!ENTITY pref_category_privacy_short "Confidențialitate">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Opțiuni de date">
 <!ENTITY pref_learn_more "Aflați mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
@@ -113,6 +121,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
+
 
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_remember_signons "Memorează parolele">
@@ -186,8 +195,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
 <!ENTITY pref_sync "Sincronizare">
+
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_import_android "Import din Android">
+
 
 
 
@@ -266,6 +277,7 @@ size. -->
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
 <!ENTITY set_image_fail "Nu s-a putut seta imaginea">
+
 <!ENTITY set_image_chooser_title "Setează imaginea ca">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -364,7 +376,25 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+
+<!ENTITY home_remote_tabs_unable_to_connect "Conectare imposibilă">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Navigare fără urme">
+
+
+
 
 
 
@@ -431,6 +461,9 @@ din Android">
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiune vizitator nouă">
@@ -439,6 +472,8 @@ din Android">
 <!ENTITY guest_session_dialog_cancel "Anulează">
 <!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY new_guest_session_text "Persoana ce-l va utiliza nu va avea posibilitatea să vadă niciuna din datele de navigare cu caracter personal (cum ar fi parolele salvate, istoricul sau semnele de carte). \n\nCând vizita este finalizată, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY exit_guest_session_text "Datele de navigare de la această sesiune vor fi șterse.">

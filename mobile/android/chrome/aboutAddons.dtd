@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Suplimente">
 <!ENTITY aboutAddons.header2                    "Suplimentele tale">
 <!ENTITY aboutAddons.options                    "Opțiuni">
-<!ENTITY aboutAddons.browseAll                  "Vedeți toate suplimentele Firefox">
 
 <!ENTITY addonAction.enable                     "Activează">
 <!ENTITY addonAction.disable                    "Dezactivat">
