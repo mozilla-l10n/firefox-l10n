@@ -206,7 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.accesskey   "Z">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
