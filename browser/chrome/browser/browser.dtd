@@ -484,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Enviar video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "Enviar video a dispositivo">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Enviar audio por correo…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activar este complemento">
@@ -699,10 +701,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Ahora no">
 
 <!ENTITY social.directory.label "Directorio de activaciones">
-
-
-
-
+<!ENTITY social.directory.text "Puedes activar Servicios Compartidos desde el directorio.">
+<!ENTITY social.directory.button "¡Llévame allí!">
+<!ENTITY social.directory.introText "Clic en un servicio para añadirlo a &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Ver más">
 
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y características adicionales">
@@ -718,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-
+<!ENTITY customizeMode.deveditionTheme.label "Usar el tema &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar chats">
@@ -744,18 +746,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Opciones">
 <!ENTITY mixedContentBlocked2.unblock.label "Protección inhabilitada por ahora">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "Protección habilitada">
+<!ENTITY mixedContentBlocked2.block.accesskey "P">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está inhabilitada">
 
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Aprender más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar la protección para este sitio">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Protección habilitada">
+<!ENTITY trackingContentBlocked.block.accesskey "P">
 <!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
 
 <!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
