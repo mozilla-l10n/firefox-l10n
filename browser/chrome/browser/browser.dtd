@@ -143,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Fumana  iinkonzo ezininzi zoKwabelana...">
 <!ENTITY sharePageCmd.label "Yabelana ngeli khasi">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "l">
@@ -215,8 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "I-zongezelelo">
 <!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "I-Apps">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
 <!ENTITY webDeveloperMenu.accesskey   "U">
@@ -287,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "Fumana izixhobo ezingaphezulu">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "i">
 
-<!ENTITY fileMenu.label         "Ifayili"> 
+<!ENTITY fileMenu.label         "Ifayile"> 
 <!ENTITY fileMenu.accesskey       "I">
 <!ENTITY newNavigatorCmd.label        "Ifestile entsha">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -482,6 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "k">
 <!ENTITY emailVideoCmd.label          "Thumela Ividiyo ngeimeyile…">
 <!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY castVideoCmd.label           "Thumela iVidiyo kwisiXhobo">
+<!ENTITY castVideoCmd.accesskey       "h">
 <!ENTITY emailAudioCmd.label          "Thumela ngeimeyile okunesandi…">
 <!ENTITY emailAudioCmd.accesskey      "e">
 <!ENTITY playPluginCmd.label          "Vuselela le softwe incedisayo">
@@ -696,10 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "F">
 <!ENTITY social.closeNotificationItem.label "Hayi Ngoku">
 
-
-
-
-
+<!ENTITY social.directory.label "Uluhlu lokwenza zisebenze">
+<!ENTITY social.directory.text "Ungazenza iinkonzo zoKwabelana zisebenze kuluhlu.">
+<!ENTITY social.directory.button "Ndithathe undise apho!">
+<!ENTITY social.directory.introText "Cofa kwinkonzo ukuyifaka kwi-&brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Bona okuNinzi">
 
 <!ENTITY customizeMode.tabTitle "Qhelanisa i-&brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Izixhobo neenkalo ezongezelelekileyo">
@@ -739,14 +743,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho enkrayiphu kule webhusayithi zithintelwe">
 <!ENTITY mixedContentBlocked2.learnMore "Funda ngakumbi">
 <!ENTITY mixedContentBlocked2.options "Iinketho">
-<!ENTITY mixedContentBlocked2.unblock.label "kunye nokhuseleko lusayekiwe">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.unblock.label "Kunye nokhuseleko lusayekiwe">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "K">
 
 
 <!ENTITY mixedContentBlocked2.disabled.message "Ukhuseleko luyekisiwe">
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
-<!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe">
+<!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
 <!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
 <!ENTITY trackingContentBlocked.options "Iinketho">
 

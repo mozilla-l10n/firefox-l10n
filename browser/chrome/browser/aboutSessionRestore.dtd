@@ -20,20 +20,30 @@
 <!ENTITY restorepage.restoreHeader  "Buyisela">
 <!ENTITY restorepage.listHeader     "I-Windows neethebhu">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Ifestile &#037;S ">
+<!ENTITY restorepage.windowLabel    "Ifestile &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 
 
+<!ENTITY welcomeback2.restoreButton  "Masihambe!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "Impumelelo!">
 
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; sele ikulungele ukuhamba.">
 
+<!ENTITY welcomeback2.label.restoreAll  "Gcina zonke ii-Windows neeTabs">
+<!ENTITY welcomeback2.label.restoreSome "Gcina kuphela ozifunayo">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Izongezelelo zakho nolungiselelo lususiwe kwaye iisetingi zebhrawza zigciniwe kwizinto zazo zendalo. Ukuba oku akukhange kuyilungise imeko yakho,">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "funda ngakumbi malunga nento onokuyenza.">

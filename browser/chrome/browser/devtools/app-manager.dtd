@@ -3,33 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY index.title "Umphathi weaplikheshini">
-
-
+<!ENTITY index.projects2 "Ii-Apps">
+<!ENTITY index.device2 "Isixhobo">
 <!ENTITY index.help "Uncedo">
 
-
-
-
-
-
+<!ENTITY device.debugMainProcess "Susa inkathazo kweyona nkqubo">
+<!ENTITY device.debugMainProcessTooltip "Vula iziXhobo zoMvelisi onxibelele kweyona nkqubo ekwisixhobo">
+<!ENTITY device.screenshot "Iskrinshot">
+<!ENTITY device.screenshotTooltip "Vula iskrinshot semeko yangoku yesixhobo esikwithebhu entsha">
+<!ENTITY device.title "Iziko lolawulo lwesixhobo">
+<!ENTITY device.notConnected "Ayinxibelelananga. Nceda unxibelelanise isixhobo sakho apha ngezantsi.">
 <!ENTITY device.startApp "Qala">
-
+<!ENTITY device.startAppTooltip "Qala le app kwisixhobo">
 <!ENTITY device.stopApp "Nqumama">
+<!ENTITY device.stopAppTooltip "Nqumamisa le app kwisixhobo">
 
-
-
+<!ENTITY device.debugAppTooltip "Vula izixhobo zomvelisi onxibelelene kule app kwisixhobo">
 <!ENTITY device.name "Igama">
-
-
-
+<!ENTITY device.plain "Ayinanto (okwendalo)">
+<!ENTITY device.privileged "Ilungelo elilodwa">
+<!ENTITY device.certified "Iqinisekisiwe">
 <!ENTITY device.allow "Vumela">
-
+<!ENTITY device.allowTooltip "le mvume ivunyelwe kwii-app zolu hlobo">
 <!ENTITY device.prompt "Khumbuza">
-
+<!ENTITY device.promptTooltip "Le mvume ifuna ukuqhutywa ngumsebenzisi ngee-app zolu hlobo">
 <!ENTITY device.deny "Khanyela">
+<!ENTITY device.denyTooltip "Le mvume yaliwe ngee-apps zolu hlobo">
 
-
-
+<!ENTITY device.installedAppsTooltip "Bona uluhlu lwee-apps ezifakelwe kwisixhobo. Ezinye ii-apps, ezifana nee-apps eziqinisekisiweyo, zingathintelwe kulo mbono.">
 <!ENTITY device.permissions "Iimvume">
 
 

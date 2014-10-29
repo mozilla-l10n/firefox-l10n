@@ -6,11 +6,13 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
-
+<!ENTITY aboutWarningTitle.label "Oku kungasiphuthisa isiqinisekiso!">
+<!ENTITY aboutWarningText.label "Ukutshintha ezi setingi eziqhubele phambili zingaba yingozi ekuzinzeni, kukhuseleko nokusebenza kwale aplikheshini. Kufuneka uqhubeke kuphela ukuba uqinisekile ngento oyenzayo.">
+<!ENTITY aboutWarningButton.label "Ndiza kulumka, Ndiyathembisa!">
 <!ENTITY aboutWarningCheckbox.label "Bonisa esi silumkiso kwixesha elizayo">
 
 
-
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Igama Lesikhethwa">
@@ -22,6 +24,8 @@
 <!ENTITY prefColumnHeader.tooltip "Nqomfa ukuze uhlelahlele"> 
 <!ENTITY columnChooser.tooltip "Nqomfa uze ukhethe imiqolo eyehlayo ukuze ubonise"> 
 <!-- Context Menu -->
+
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopa">
 <!ENTITY copyPref.accesskey "K">
 
