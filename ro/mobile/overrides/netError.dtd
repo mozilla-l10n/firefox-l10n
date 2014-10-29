@@ -17,7 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
@@ -27,7 +28,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri corecte (adică <strong>/</strong>).</li> </ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 
@@ -36,7 +38,8 @@
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -60,7 +63,8 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
@@ -78,7 +82,8 @@ putea ca cineva să încerce să pretindă că este acest server.</li>
 <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi 
 temporară și puteți încerca din nou mai târziu.</li> 
 </ul>">
-
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
