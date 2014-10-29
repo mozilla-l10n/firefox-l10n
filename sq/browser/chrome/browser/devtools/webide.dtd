@@ -62,6 +62,7 @@
 
 <!ENTITY projectPanel_myProjects "Projektet e Mia">
 <!ENTITY projectPanel_runtimeApps "Zbatime Runtime">
+<!ENTITY projectPanel_tabs "Skeda">
 <!ENTITY runtimePanel_USBDevices "Pajisje USB">
 <!ENTITY runtimePanel_WiFiDevices "Pajisje Wi-Fi">
 <!ENTITY runtimePanel_simulators "Simulues">
@@ -109,13 +110,10 @@
 <!ENTITY prefs_options_showeditor "Shfaq përpunuesin">
 <!ENTITY prefs_options_showeditor_tooltip "Shfaq përpunuesin e brendshëm">
 <!ENTITY prefs_options_tabsize "Madhësi tabulacioni">
-<!-- Needs explanation 
-<!ENTITY prefs_options_expandtab "Tabulacione të butë">
--->
+<!ENTITY prefs_options_expandtab "Tabulacione me hapësira">
 <!ENTITY prefs_options_expandtab_tooltip "Përdor hapësira, në vend se shenjën e tabulacionit">
-<!--
-<!ENTITY prefs_options_detectindentation "Autoindent">
-<!ENTITY prefs_options_detectindentation_tooltip "Guess indentation based on source content"> -->
+<!ENTITY prefs_options_detectindentation "Vetëdhëmbëzoje">
+<!ENTITY prefs_options_detectindentation_tooltip "Vlerësoja dhëmbëzimin duke u bazuar në lëndën burim">
 <!ENTITY prefs_options_autocomplete "Vetëplotësim">
 <!ENTITY prefs_options_autocomplete_tooltip "Aktivizoni vetëplotësim kodi">
 <!ENTITY prefs_options_autoclosebrackets "Vetëmbylli kllapat">
