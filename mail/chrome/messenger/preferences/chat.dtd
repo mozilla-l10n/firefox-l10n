@@ -5,7 +5,7 @@
 <!ENTITY  startupAction.label         "&brandShortName; -ի մեկնարկի ժամանակ`">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Պահել Զրույցի իմ հաշիվը անցանց">
-<!ENTITY  startupConnectAuto.label    "Միանալ Զրույցի իմ հաշվեկշռին միանգամից">
+<!ENTITY  startupConnectAuto.label    "Կապակցել Զրույցի իմ հաշվեկշռին միանգամից">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the

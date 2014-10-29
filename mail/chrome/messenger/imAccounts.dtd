@@ -15,8 +15,8 @@
 <!ENTITY accountManager.noAccount.description "Սեղմեք &accountManager.newAccount.label; կոճակը, որպեսզի &brandShortName;-ը օգնի Ձեզ կարգավորելու հարցում։">
 <!ENTITY account.autoSignOn.label     "Մուտք գործել բացելիս">
 <!ENTITY account.autoSignOn.accesskey "Մ">
-<!ENTITY account.connect.label        "Միանալ">
-<!ENTITY account.connect.accesskey    "Մ">
+<!ENTITY account.connect.label        "Կապակցել">
+<!ENTITY account.connect.accesskey    "ա">
 <!ENTITY account.disconnect.label     "Անջատել">
 <!ENTITY account.disconnect.accesskey "ջ">
 <!ENTITY account.edit.label           "Հատկություններ">

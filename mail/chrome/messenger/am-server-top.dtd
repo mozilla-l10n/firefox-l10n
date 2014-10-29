@@ -65,8 +65,8 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
-<!ENTITY alwaysAuthenticate.label "Սպասարկիչին միանալիս միշտ պահանջել վավերացում">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել վավերացում">
+<!ENTITY alwaysAuthenticate.accesskey "տ">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
