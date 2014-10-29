@@ -6,10 +6,14 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
-<!ENTITY search_empty_title "&brandShortName; іздеуі">
+<!ENTITY search_bar_hint "&formatS; көмегімен іздеу">
 
+<!ENTITY search_empty_title "&brandShortName; іздеуі">
+<!ENTITY search_empty_message "Өзіңізге керек нәрсені жылдам іздеңіз">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+
+<!ENTITY search_plus_content_description "Іздеу панеліне қосу">
 
 <!ENTITY search_pref_title "Баптаулар">
 <!ENTITY search_pref_button_content_description "Баптаулар">
