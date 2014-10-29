@@ -14,11 +14,13 @@
 
 
 <!ENTITY netmonitorUI.perfNotice1         "• पर क्लिक करू">
-
+<!ENTITY netmonitorUI.perfNotice2         "ई बटन प्रदर्शन केर विश्लेषण शुरू करए कलेल.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "फेर लोड  करू ">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• कोनो आग्रह क पालन करू अथवा">
+<!ENTITY netmonitorUI.reloadNotice2       "फेर लोड  करू ">
+<!ENTITY netmonitorUI.reloadNotice3       "संजाल गतिविधि केर बारे मे विस्तृत सूचना देखए कलेल पृष्ठ.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -117,6 +119,8 @@
 <!ENTITY netmonitorUI.footer.clear  "साफ  करू ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "टॉगल प्रदर्शन विश्लेषण…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -189,6 +193,8 @@
 <!ENTITY netmonitorUI.timings.receive     "प्राप्त कएल रहल अछि:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "प्रदर्शन विश्लेषण शुरू करू…">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
 
@@ -201,12 +207,16 @@
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl    "बतौर cURL नक़ल लिअ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "डाटा URI केर रूप मे छवि नक़ल करू">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 
@@ -214,6 +224,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend "संपादित करू आओर पुनः पठाबू">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 
@@ -237,6 +249,8 @@
 <!ENTITY netmonitorUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
+
+<!ENTITY netmonitorUI.custom.newRequest   "नव अनुरोध">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 

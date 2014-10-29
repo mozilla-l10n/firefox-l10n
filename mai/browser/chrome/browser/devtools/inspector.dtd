@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "HTML जहिना संपादित करू">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नकल लिअ">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -10,7 +10,8 @@
 <!ENTITY inspectorCopyUniqueSelector.label       "कॉपी आओर अद्वितीय चयनकर्ता ">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
-
+<!ENTITY inspectorHTMLPasteOuter.label      "बाहरी HTML क' साटू">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
 
 <!ENTITY inspectorHTMLDelete.label          "नोड मेटाउ">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
@@ -20,4 +21,5 @@
 <!ENTITY inspectorSearchHTML.label          "खोजू HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "डाटा URI केर छवि नकल करू">
 

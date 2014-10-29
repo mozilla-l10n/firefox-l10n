@@ -12,6 +12,8 @@
   -  on a button that starts a new recording. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
+
+<!ENTITY timelineUI.recordLabel "रेकार्ड भ रहल अछि...">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 

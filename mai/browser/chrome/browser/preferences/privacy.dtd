@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
+<!ENTITY dntTrackingNopref.accesskey    "o">
 
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
 
-
-
-
+<!ENTITY dntTrackingOkay.accesskey      "h">
 
 
 

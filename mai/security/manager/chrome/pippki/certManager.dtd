@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.o                 "संगठन (O)">
 <!ENTITY certmgr.certdetail.ou                "सांगठनिक एकाइ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "क्रम संख्या">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 फिंगरप्रिंट">
 
 <!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र जमावट संपादित  करू ">

@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "पाप-अप्स">
+
 <!ENTITY  blockPopups.label           "पापअप विंडो केँ रोकू">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "अपवाद...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
+<!ENTITY  fontsAndColors.label        "फान्ट आ रंग">
 
 <!ENTITY  defaultFont.label           "पूर्वनिर्धारित फान्ट:">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -25,7 +28,8 @@
 <!ENTITY chooseButton.label           "चुनू…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "वेब सामग्रीक अनुवाद करू">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "अपवाद...">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -35,4 +39,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "द्वारा अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
