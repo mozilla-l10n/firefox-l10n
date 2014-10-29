@@ -147,14 +147,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "Deze pagina delen">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "d">
-<!ENTITY shareLinkCmd.label "Deze koppeling delen">
-<!ENTITY shareLinkCmd.accesskey "d">
-<!ENTITY shareImageCmd.label "Deze afbeelding delen">
-<!ENTITY shareImageCmd.accesskey "d">
-<!ENTITY shareSelectCmd.label "Selectie delen">
-<!ENTITY shareSelectCmd.accesskey "d">
-<!ENTITY shareVideoCmd.label "Deze video delen">
-<!ENTITY shareVideoCmd.accesskey "d">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Deze koppeling delen">
+<!ENTITY shareLink.accesskey "p">
+<!ENTITY shareImage.label "Deze afbeelding delen">
+<!ENTITY shareImage.accesskey "l">
+<!ENTITY shareSelect.label "Selectie delen">
+<!ENTITY shareSelect.accesskey "l">
+<!ENTITY shareVideo.label "Deze video delen">
+<!ENTITY shareVideo.accesskey "l">
 <!ENTITY feedsMenu.label "Abonneren">
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
