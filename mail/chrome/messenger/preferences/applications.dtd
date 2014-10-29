@@ -14,25 +14,25 @@
 <!ENTITY  filter.placeholder          "Išči">
 
 <!ENTITY saveTo.label                 "Shrani datoteke v">
-<!ENTITY saveTo.accesskey             "v">
+<!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "Vsakokrat me vprašaj, kam shraniti posamezno datoteko">
-<!ENTITY alwaysAsk.accesskey          "k">
-<!ENTITY chooseFolderWin.label        "Prebrskaj …">
-<!ENTITY chooseFolderWin.accesskey    "b">
+<!ENTITY alwaysAsk.accesskey          "V">
+<!ENTITY chooseFolderWin.label        "Brskaj …">
+<!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Izberi …">
 <!ENTITY chooseFolderMac.accesskey    "z">
 
-<!ENTITY attachments.incoming.label   "Vhodni">
-<!ENTITY attachments.outgoing.label   "Izhodni">
+<!ENTITY attachments.incoming.label   "Dohodne">
+<!ENTITY attachments.outgoing.label   "Odhodne">
 
 <!ENTITY addCloudFileAccount.label        "Dodaj">
-<!ENTITY addCloudFileAccount.accesskey    "a">
-<!ENTITY addCloudFileAccount.description  "Dodaj novega ponudbika za Filelink storitve">
+<!ENTITY addCloudFileAccount.accesskey    "D">
+<!ENTITY addCloudFileAccount.description  "Dodaj novega ponudnika za storitev Povezave datoteke">
 <!ENTITY removeCloudFileAccount.label     "Odstrani">
-<!ENTITY removeCloudFileAccount.accesskey "r">
-<!ENTITY authRequired.description         "Da je mogoöe prikazati nastavitve za posrednika, je potrebno vaše dovoljenje.">
-<!ENTITY authRequired.button.label        "Dovoljujem">
-<!ENTITY authRequired.button.accesskey    "u">
+<!ENTITY removeCloudFileAccount.accesskey "O">
+<!ENTITY authRequired.description         "Za prikaz nastavitev ponudnika je potrebno vaše dovoljenje.">
+<!ENTITY authRequired.button.label        "Dovoli">
+<!ENTITY authRequired.button.accesskey    "D">
 
 <!ENTITY enableCloudFileAccountOffer.label "Ponudi posredovanje datotek večjih od">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

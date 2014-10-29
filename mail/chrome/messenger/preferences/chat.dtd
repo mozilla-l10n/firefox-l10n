@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  startupAction.label         "Ko se &brandShortName; zažene:">
-<!ENTITY  startupAction.accesskey     "s">
-<!ENTITY  startupOffline.label        "Ne poveži se samodejno v klepet">
-<!ENTITY  startupConnectAuto.label    "Samodejno poveži moje račune za klepet">
+<!ENTITY  startupAction.accesskey     "K">
+<!ENTITY  startupOffline.label        "se ne poveži samodejno v klepet">
+<!ENTITY  startupConnectAuto.label    "samodejno poveži moje račune za klepet">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -13,28 +13,28 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "Naj moji stiki vedo, da sem neaktiven po">
-<!ENTITY  reportIdleAfter.accesskey     "i">
+<!ENTITY  reportIdleAfter.label         "Naj moji stiki vedo, da sem nedejaven po">
+<!ENTITY  reportIdleAfter.accesskey     "N">
 <!ENTITY  idleTime                      "minutah nedejavnosti">
 
 <!ENTITY  andSetStatusToAway.label      "in mojo odsotnost objavi s sporočilom stanja:">
-<!ENTITY  andSetStatusToAway.accesskey  "A">
+<!ENTITY  andSetStatusToAway.accesskey  "o">
 
-<!ENTITY  sendTyping.label              "Pošlji obvestila o tipkanju med pogovori">
-<!ENTITY  sendTyping.accesskey          "t">
+<!ENTITY  sendTyping.label              "Med pogovori pošlji obvestila o tipkanju">
+<!ENTITY  sendTyping.accesskey          "M">
 
 <!ENTITY  chatNotifications.label             "Kadar prispejo sporočila namenjena meni:">
 <!ENTITY  desktopChatNotifications.label      "Prikaži obvestilo:">
-<!ENTITY  desktopChatNotifications.accesskey  "o">
+<!ENTITY  desktopChatNotifications.accesskey  "P">
 <!ENTITY  completeNotification.label          "s pošiljateljevim imenom in predogledom sporočila">
 <!ENTITY  buddyInfoOnly.label                 "samo s pošiljateljevim imenom">
 <!ENTITY  dummyNotification.label             "brez podatkov">
-<!ENTITY  chatSound.accesskey                 "z">
+<!ENTITY  chatSound.accesskey                 "r">
 <!ENTITY  chatSound.label                     "Predvajaj zvok">
 <!ENTITY  play.label                          "Predvajaj">
-<!ENTITY  play.accesskey                      "P">
+<!ENTITY  play.accesskey                      "e">
 <!ENTITY  systemSound.label                   "Privzeti sistemski zvok za novo pošto">
-<!ENTITY  systemSound.accesskey               "n">
+<!ENTITY  systemSound.accesskey               "v">
 <!ENTITY  customsound.label                   "Uporabi naslednjo zvočno datoteko">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Brskaj ...">

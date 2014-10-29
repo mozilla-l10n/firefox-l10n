@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "priponka opomin ključne besede">
+<!ENTITY attachmentReminderDialog.title   "Ključne besede za opomnika priponk">
 <!ENTITY attachKeywordText.label          "&brandShortName; vas bo opozoril na manjkajoče priponke, če boste želeli poslati e-pošto, ki vsebuje eno od naslednjih ključnih besed.">
 <!ENTITY addKeywordButton.label           "Dodaj">
-<!ENTITY addKeywordButton.accesskey       "A">
+<!ENTITY addKeywordButton.accesskey       "D">
 <!ENTITY editKeywordButton.label          "Uredi">
 <!ENTITY editKeywordButton.accesskey      "U">
 <!ENTITY removeKeywordButton.label        "Izbriši">
-<!ENTITY removeKeywordButton.accesskey    "D">
+<!ENTITY removeKeywordButton.accesskey    "I">

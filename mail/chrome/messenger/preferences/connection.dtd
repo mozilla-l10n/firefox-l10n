@@ -5,22 +5,22 @@
 <!ENTITY  connectionsDialog.title       "Nastavitve povezave">
 <!ENTITY  window.width                   "39em">
 
-<!ENTITY  proxyTitle.label              "Nastavitve strežnika proxy">
-<!ENTITY  noProxyTypeRadio.label        "Brez proxyja">
+<!ENTITY  proxyTitle.label              "Nastavitve posrednika">
+<!ENTITY  noProxyTypeRadio.label        "Brez posrednika">
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
-<!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
-<!ENTITY  systemTypeRadio.accesskey     "o">
-<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve proxyja za to mrežo">
+<!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za posrednika">
+<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve posrednika za to omrežje">
 <!ENTITY  WPADTypeRadio.accesskey       "S">
-<!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
+<!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika:">
 <!ENTITY  manualTypeRadio.accesskey     "R">
-<!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
+<!ENTITY  autoTypeRadio.label           "URL za samodejno nastavitev posrednika:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ponovno naloži">
-<!ENTITY  reload.accesskey              "o">
-<!ENTITY  http.label                    "Proxy HTTP:">
+<!ENTITY  reload.accesskey              "P">
+<!ENTITY  http.label                    "Posrednik HTTP:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Proxy SSL:">
+<!ENTITY  ssl.label                     "Posrednik SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Gostitelj SOCKS:">
 <!ENTITY  socks.accesskey               "O">
@@ -28,14 +28,14 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-<!ENTITY  HTTPport.label                "Vrata HTTP:">
-<!ENTITY  HTTPport.accesskey            "H">
-<!ENTITY  SSLport.label                 "Vrata SSL:">
-<!ENTITY  SSLport.accesskey             "S">
-<!ENTITY  SOCKSport.label               "Vrata SOCKS:">
-<!ENTITY  SOCKSport.accesskey           "C">
-<!ENTITY  noproxy.label                 "Ni proxyja za:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
-<!ENTITY  shareproxy.label              "Uporabi isti proxy za vse protokole">
-<!ENTITY  shareproxy.accesskey          "i">
+<!ENTITY  HTTPport.label                "Vrata:">
+<!ENTITY  HTTPport.accesskey            "V">
+<!ENTITY  SSLport.label                 "Vrata:">
+<!ENTITY  SSLport.accesskey             "r">
+<!ENTITY  SOCKSport.label               "Vrata:">
+<!ENTITY  SOCKSport.accesskey           "a">
+<!ENTITY  noproxy.label                 "Brez posrednika za:">
+<!ENTITY  noproxy.accesskey             "B">
+<!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Uporabi isti posrednik za vse protokole">
+<!ENTITY  shareproxy.accesskey          "t">

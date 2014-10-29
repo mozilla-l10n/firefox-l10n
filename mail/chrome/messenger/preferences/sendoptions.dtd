@@ -4,32 +4,32 @@
 
 <!ENTITY dialog.title                 "Možnosti pošiljanja">
 <!ENTITY sendMail.title               "Oblika besedila">
-<!ENTITY sendMaildesc.label           "Ko pošiljam sporočila v obliki HTML, eden ali več prejemnikov pa ne more sprejemati HTML:">
+<!ENTITY sendMaildesc.label           "Ko pošiljam sporočila v obliki HTML, eden ali več prejemnikov pa ne more prejemati HTML:">
 <!ENTITY askMe.label                  "me vprašaj, kaj storiti">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "spremeni sporočilo v navadno besedilo">
-<!ENTITY convertPlain.accesskey       "v">
+<!ENTITY askMe.accesskey              "m">
+<!ENTITY convertPlain.label           "pretvori sporočilo v golo besedilo">
+<!ENTITY convertPlain.accesskey       "p">
 <!ENTITY sendHTML.label               "vseeno pošlji sporočilo v obliki HTML">
-<!ENTITY sendHTML.accesskey           "s">
-<!ENTITY sendBoth.label               "pošlji sporočilo v obeh oblikah, kot navadno besedilo in HTML">
+<!ENTITY sendHTML.accesskey           "v">
+<!ENTITY sendBoth.label               "pošlji sporočilo v obeh oblikah, kot golo besedilo in HTML">
 <!ENTITY sendBoth.accesskey           "o">
-<!ENTITY override.label               "Opomba: Uporabite Adresar za določanje želene oblike sporočil glede na naslovnika.">
+<!ENTITY override.label               "Opomba: za določanje želene oblike sporočil za posameznega naslovnika uporabite imenik.">
 
-<!ENTITY domaindesc.label             "Ko pošljete sporočilo na naslov ene od spodnjih domen, bo &brandShortName;  pravilno obliko sporočila izbral samodejno.">
+<!ENTITY domaindesc.label             "Ko pošljete sporočilo na naslov ene od spodnjih domen, bo &brandShortName; samodejno izbral pravilno obliko sporočila.">
 <!ENTITY HTMLTab.label                "Domene za pošto HTML">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Domene za pošto v navadnem besedilu">
-<!ENTITY PlainTextTab.accesskey       "n">
+<!ENTITY PlainTextTab.label           "Domene za pošto v golem besedilu">
+<!ENTITY PlainTextTab.accesskey       "g">
 <!ENTITY AddHtmlDomain.label          "Dodaj …">
-<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddHtmlDomain.accesskey      "D">
 <!ENTITY AddPlainText.label           "Dodaj …">
-<!ENTITY AddPlainText.accesskey       "A">
+<!ENTITY AddPlainText.accesskey       "D">
 <!ENTITY DeleteHtmlDomain.label       "Izbriši">
-<!ENTITY DeleteHtmlDomain.accesskey   "b">
+<!ENTITY DeleteHtmlDomain.accesskey   "z">
 <!ENTITY DeletePlainText.label        "Izbriši">
-<!ENTITY DeletePlainText.accesskey    "b">
+<!ENTITY DeletePlainText.accesskey    "z">
 
 <!ENTITY add.htmltitle                "Dodajanje domene za pošto za HTML">
-<!ENTITY add.htmldomain               "domena za pošto za HTML:">
-<!ENTITY add.plaintexttitle           "Dodajanje domene za navadno pošto">
-<!ENTITY add.plaintextdomain          "domena za navadno pošto">
+<!ENTITY add.htmldomain               "Ime domene za pošto HTML:">
+<!ENTITY add.plaintexttitle           "Dodajanje domene za pošto v golem besedilu">
+<!ENTITY add.plaintextdomain          "Domena za navadno pošto">

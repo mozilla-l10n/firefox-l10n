@@ -5,24 +5,24 @@
 <!ENTITY offlineDialog.title "Nastavitve za stanje brez povezave">
 
 <!ENTITY textStartUp "Ob zagonu:">
-<!ENTITY radioRememberPrevState.label "Zapomni si prejšnje stanje povezave">
-<!ENTITY radioRememberPrevState.accesskey "p">
-<!ENTITY radioAskMe.label "Ob zagonu me vprašaj za stanje povezave">
-<!ENTITY radioAskMe.accesskey "O">
-<!ENTITY radioAlwaysOnline.label "Vedno začni s povezavo">
-<!ENTITY radioAlwaysOnline.accesskey "s">
+<!ENTITY radioRememberPrevState.label "si zapomni prejšnje stanje povezave">
+<!ENTITY radioRememberPrevState.accesskey "s">
+<!ENTITY radioAskMe.label "me vprašaj za stanje povezave">
+<!ENTITY radioAskMe.accesskey "m">
+<!ENTITY radioAlwaysOnline.label "vedno začni s povezavo">
+<!ENTITY radioAlwaysOnline.accesskey "v">
 
-<!ENTITY textGoingOnline "Naj pošljem neodposlana sporočila ob začetku povezave?">
+<!ENTITY textGoingOnline "Ali naj se neposlana sporočila pošljejo ob začetku povezave?">
 <!ENTITY radioAutoSend.label "Da">
 <!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Ne">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Vprašaj me">
-<!ENTITY radioAskUnsent.accesskey "V">
-<!ENTITY textGoingOffline "Naj prenesem sporočila za delo brez povezave, preden se povezavo prekine?">
+<!ENTITY radioAskUnsent.accesskey "r">
+<!ENTITY textGoingOffline "Ali naj se sporočila za delo brez povezave prenesejo pred prekinitvijo povezave?">
 <!ENTITY radioAutoDownload.label "Da">
-<!ENTITY radioAutoDownload.accesskey "D">
+<!ENTITY radioAutoDownload.accesskey "a">
 <!ENTITY radioNotDownload.label "Ne">
-<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioNotDownload.accesskey "e">
 <!ENTITY radioAskDownload.label "Vprašaj me">
-<!ENTITY radioAskDownload.accesskey "V">
+<!ENTITY radioAskDownload.accesskey "a">
