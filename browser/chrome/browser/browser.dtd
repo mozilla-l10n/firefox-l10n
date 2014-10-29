@@ -149,12 +149,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Compartir este enlace">
 <!ENTITY shareLink.accesskey "m">
-<!ENTITY shareImageCmd.label "Compartir esta imagen">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Compartir selección">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Compartir este video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY shareImage.label "Compartir esta imagen">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Compartir selección">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "Compartir este video">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "Suscribir">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
@@ -215,6 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "o">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Aplicaciones">
+<!ENTITY webapps.accesskey            "p">
+
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -702,7 +705,11 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No ahora">
 
-
+<!ENTITY social.directory.label "Directorio de activacioness">
+<!ENTITY social.directory.text "Puede activar servicios de compartición desde el directorio.">
+<!ENTITY social.directory.button "¡Lléveme ahí!">
+<!ENTITY social.directory.introText "Clic en un servicio para agregarlo a &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Ver más">
 
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y funcionalidades adicionales">
