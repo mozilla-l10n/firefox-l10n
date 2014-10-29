@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Dovoli vsebini, da izbere lastne barve namesto mojih nastavitev">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+<!ENTITY  allowPagesToUse.accesskey       "D">
 
 <!ENTITY  color                           "Besedilo in ozadje">
 <!ENTITY  textColor.label                 "Besedilo:">
@@ -15,12 +15,12 @@
 <!ENTITY  backgroundColor.label           "Ozadje:">
 <!ENTITY  backgroundColor.accesskey       "O">
 <!ENTITY  useSystemColors.label           "Uporabi sistemske barve">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "U">
 
 <!ENTITY  underlineLinks.label            "Podčrtaj povezave">
 <!ENTITY  underlineLinks.accesskey        "P">
 <!ENTITY  links                           "Barve povezav">
 <!ENTITY  linkColor.label                 "Neobiskane povezave:">
-<!ENTITY  linkColor.accesskey             "e">
+<!ENTITY  linkColor.accesskey             "N">
 <!ENTITY  visitedLinkColor.label          "Obiskane povezave:">
 <!ENTITY  visitedLinkColor.accesskey      "O">

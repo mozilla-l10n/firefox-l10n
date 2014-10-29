@@ -6,64 +6,64 @@
 <!ENTITY itemDisplay.label       "Branje in prikaz">
 <!ENTITY itemUpdate.label        "Posodobi">
 <!ENTITY itemNetworking.label    "Omrežje in zasedenost diska">
-<!ENTITY itemCertificates.label  "Digitalna potrdila">
+<!ENTITY itemCertificates.label  "Potrdila">
 <!-- General Settings -->
 
 
 <!ENTITY submitTelemetry.label         "Pošlji podatke o zmogljivosti">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Dodatne podatki o telemetriji">
-<!ENTITY enableGlodaSearch.label       "Omogoči globalno iskanje in kazalnik">
-<!ENTITY enableGlodaSearch.accesskey   "e">
+<!ENTITY telemetryInfoLink.label       "Dodatni podatki o telemetriji">
+<!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
+<!ENTITY enableGlodaSearch.accesskey   "m">
 
 <!ENTITY scrolling.label               "Drsenje">
 <!ENTITY useAutoScroll.label           "Uporabi samodejno drsenje">
-<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useAutoScroll.accesskey       "s">
 <!ENTITY useSmoothScrolling.label      "Uporabi gladko drsenje">
 <!ENTITY useSmoothScrolling.accesskey  "g">
 
 <!ENTITY systemIntegration.label       "Sistemska povezljivost">
 <!ENTITY alwaysCheckDefault.label      "Ob zagonu vedno preveri, ali je &brandShortName; privzeti odjemalec elektronske pošte">
-<!ENTITY alwaysCheckDefault.accesskey  "n">
-<!ENTITY searchIntegration.label       "Dovoli &searchIntegration.engineName; iskanje sporočil">
+<!ENTITY alwaysCheckDefault.accesskey  "O">
+<!ENTITY searchIntegration.label       "Dovoli &searchIntegration.engineName;, da preišče sporočila">
 <!ENTITY searchIntegration.accesskey   "D">
 <!ENTITY checkDefaultsNow.label        "Preveri zdaj …">
-<!ENTITY checkDefaultsNow.accesskey    "i">
+<!ENTITY checkDefaultsNow.accesskey    "r">
 <!ENTITY configEditDesc.label          "Napredne nastavitve">
 <!ENTITY configEdit.label              "Urejevalnik nastavitev …">
 <!ENTITY configEdit.accesskey          "U">
 <!ENTITY returnReceiptsInfo.label      "Določi kako &brandShortName; obravnava povratnice">
 <!ENTITY showReturnReceipts.label      "Povratnice …">
-<!ENTITY showReturnReceipts.accesskey  "P">
+<!ENTITY showReturnReceipts.accesskey  "o">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Branje">
 <!ENTITY display.caption               "Prikaz">
 <!ENTITY showCondensedAddresses.label  "Za osebe v mojem imeniku prikaži le ime za prikaz">
-<!ENTITY showCondensedAddresses.accesskey "i">
+<!ENTITY showCondensedAddresses.accesskey "e">
 
 <!ENTITY autoMarkAsRead.label          "Samodejno označi sporočila kot prebrana">
-<!ENTITY autoMarkAsRead.accesskey      "n">
+<!ENTITY autoMarkAsRead.accesskey      "S">
 <!ENTITY markAsReadNoDelay.label       "Takoj na zaslonu">
-<!ENTITY markAsReadNoDelay.accesskey   "n">
+<!ENTITY markAsReadNoDelay.accesskey   "T">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Potem ko je prikazano za">
+<!ENTITY markAsReadDelay.label         "Potem, ko so prikazana za">
 <!ENTITY markAsReadDelay.accesskey     "P">
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY openMsgIn.label               "Odpri sporočila v:">
 <!ENTITY openMsgInNewTab.label         "novem zavihku">
-<!ENTITY openMsgInNewTab.accesskey     "n">
+<!ENTITY openMsgInNewTab.accesskey     "z">
 <!ENTITY reuseExpRadio0.label          "novem oknu">
 <!ENTITY reuseExpRadio0.accesskey      "o">
 <!ENTITY reuseExpRadio1.label          "obstoječem oknu za sporočila">
-<!ENTITY reuseExpRadio1.accesskey      "s">
+<!ENTITY reuseExpRadio1.accesskey      "b">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "a">
 <!-- Update -->
 
-<!ENTITY updateApp.label                 "&brandShortName; posodobitve:">
+<!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">
 <!ENTITY updateAuto.label                "Samodejno namesti posodobitve (priporočeno: izboljšana varnost)">
 <!ENTITY updateAuto.accesskey            "S">
 <!ENTITY updateCheck.label               "Preveri za posodobitve, toda naj sam izberem ali naj se namestijo">
@@ -71,9 +71,9 @@
 <!ENTITY updateManual.label              "Nikoli ne preveri za posodobitve (ni priporočljivo: varnostno tveganje)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateAutoAddonWarn.label       "Opozori me, če bo to onemogočilo razširitve in teme">
-<!ENTITY updateAutoAddonWarn.accesskey   "l">
+<!ENTITY updateAutoAddonWarn.accesskey   "O">
 <!ENTITY updateHistory.label             "Pokaži zgodovino posodobitev">
-<!ENTITY updateHistory.accesskey         "b">
+<!ENTITY updateHistory.accesskey         "o">
 
 <!ENTITY useService.label                "Za nameščanje posodobitev uporabljaj storitev v ozadju">
 <!ENTITY useService.accesskey            "Z">
@@ -86,11 +86,11 @@
 <!ENTITY offlineInfo.caption           "Brez povezave">
 <!ENTITY offlineInfo.label             "Uredi nastavitve za stanje brez povezave">
 <!ENTITY showOffline.label             "Brez povezave …">
-<!ENTITY showOffline.accesskey         "o">
+<!ENTITY showOffline.accesskey         "B">
 
 <!ENTITY Diskspace                       "Prostor na disku">
 <!ENTITY offlineCompactFolders.label     "Strni mape, kadar bo to prihranilo več kot">
-<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFolders.accesskey "S">
 <!ENTITY offlineCompactFoldersMB.label   "MB skupaj">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -100,21 +100,21 @@
 -->
 
 <!ENTITY useCacheBefore.label            "Porabi do">
-<!ENTITY useCacheBefore.accesskey        "r">
+<!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB prostora za predpomnjenje.">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
-<!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY clearCacheNow.accesskey         "o">
 <!-- Certificates -->
 
 <!ENTITY certSelection.description       "Ko strežnik zahteva moje osebno digitalno potrdilo:">
-<!ENTITY certs.auto                      "Ga izberi samodejno">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Me vsakokrat vprašaj">
-<!ENTITY certs.ask.accesskey             "V">
+<!ENTITY certs.auto                      "ga izberi samodejno">
+<!ENTITY certs.auto.accesskey            "s">
+<!ENTITY certs.ask                       "me vsakokrat vprašaj">
+<!ENTITY certs.ask.accesskey             "v">
 <!ENTITY enableOCSP.label                "Poizvej po odzivnih strežnikih OCSP za potrditev trenutne veljavnosti potrdil">
 <!ENTITY enableOCSP.accesskey            "P">
 
 <!ENTITY viewCertificates.label         "Pokaži potrdila">
-<!ENTITY viewCertificates.accesskey     "t">
+<!ENTITY viewCertificates.accesskey     "o">
 <!ENTITY viewSecurityDevices.label      "Varnostne naprave">
-<!ENTITY viewSecurityDevices.accesskey  "n">
+<!ENTITY viewSecurityDevices.accesskey  "V">

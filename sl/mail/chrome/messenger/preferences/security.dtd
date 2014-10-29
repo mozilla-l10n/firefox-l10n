@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Neželeno">
+<!ENTITY itemJunk.label          "Neželena pošta">
 <!ENTITY itemPhishing.label      "E-poštne prevare">
 <!ENTITY itemPasswords.label     "Gesla">
-<!ENTITY itemAntiVirus.label     "Proti virusom">
+<!ENTITY itemAntiVirus.label     "Protivirusna zaščita">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Za račun tipične nastavitve za neželeno pošto se lahko priredi v nastavitvah računa.">
-<!ENTITY manualMark.label "Ko se označi sporočila kot neželena:">
-<!ENTITY manualMark.accesskey "l">
-<!ENTITY manualMarkModeMove.label "Prestavi jih v mapo &quot;Neželeno&quot;">
-<!ENTITY manualMarkModeMove.accesskey "ž">
-<!ENTITY manualMarkModeDelete.label "Jih zbriši">
-<!ENTITY manualMarkModeDelete.accesskey "b">
-<!ENTITY markAsReadOnSpam.label "Označi nezaželena sporočila kot prebrana">
-<!ENTITY markAsReadOnSpam.accesskey "p">
-<!ENTITY enableAdaptiveJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
+<!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Nastavitve neželene pošte za posamezni račun lahko prilagodite v nastavitvah računa.">
+<!ENTITY manualMark.label "Med označevanjem sporočil kot neželenih:">
+<!ENTITY manualMark.accesskey "M">
+<!ENTITY manualMarkModeMove.label "jih prestavi jih v mapo &quot;Neželeno&quot;">
+<!ENTITY manualMarkModeMove.accesskey "r">
+<!ENTITY manualMarkModeDelete.label "jih izbriši">
+<!ENTITY manualMarkModeDelete.accesskey "z">
+<!ENTITY markAsReadOnSpam.label "Označi neželena sporočila kot prebrana">
+<!ENTITY markAsReadOnSpam.accesskey "O">
+<!ENTITY enableAdaptiveJunkLogging.label "Omogoči dnevnik prilagodljivega filtra neželenih sporočil">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "m">
 <!ENTITY openJunkLog.label "Pokaži dnevnik">
-<!ENTITY openJunkLog.accesskey "d">
+<!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Ponastavi podatke za učenje">
-<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY resetTrainingData.accesskey "n">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "&brandShortName; lahko preveri, ali je sum e-poštne prevare utemeljen tako, da v sporočilu išče pogosto uporabljene metode za zavajanje.">
+<!ENTITY phishingDetector1.intro  "&brandShortName; lahko z iskanjem pogosto uporabljenih metod za zavajanje preveri sporočila, za katera sumi, da vsebujejo e-poštno prevaro .">
 <!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je odprto sporočilo e-poštna prevara">
-<!ENTITY enablePhishingDetector1.accesskey  "r">
-<!ENTITY useDownloadedList.label "Uporabi prenesen spisek sumov na e-poštno prevaro">
+<!ENTITY enablePhishingDetector1.accesskey  "S">
+<!ENTITY useDownloadedList.label "Uporabi prenesen seznam sumov e-poštnih prevar">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
@@ -37,12 +37,12 @@
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.">
 <!ENTITY changeMasterPassword.label     "Nastavi glavno geslo …">
-<!ENTITY changeMasterPassword.accesskey "g">
+<!ENTITY changeMasterPassword.accesskey "N">
 <!ENTITY savedPasswords.label           "Shranjena gesla …">
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani krajevno.">
-<!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna prejeta sporočila spravijo v karanteno">
-<!ENTITY antiVirus.accesskey  "n">
+<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira, preden se krajevno shranijo.">
+<!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna dohodna sporočila spravijo v karanteno">
+<!ENTITY antiVirus.accesskey  "D">
 

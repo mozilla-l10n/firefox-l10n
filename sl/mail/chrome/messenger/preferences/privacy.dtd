@@ -6,9 +6,9 @@
 <!ENTITY captionMailContent.label "Vsebina pošte">
 
 <!ENTITY acceptRemoteContent.label "Dovoli oddaljeno vsebino v sporočilih">
-<!ENTITY acceptRemoteContent.accesskey "d">
-<!ENTITY remoteContentExceptions.label "Izjeme">
-<!ENTITY remoteContentExceptions.accesskey "e">
+<!ENTITY acceptRemoteContent.accesskey "D">
+<!ENTITY remoteContentExceptions.label "Izjeme ...">
+<!ENTITY remoteContentExceptions.accesskey "I">
 <!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih o zasebnosti oddaljene vsebine">
 <!-- Web Content -->
 
@@ -19,25 +19,25 @@
 <!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke.">
 <!ENTITY acceptCookies.accesskey "D">
 <!ENTITY acceptThirdParty.pre.label "Dovoli piškotke tretjih oseb:">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
-<!ENTITY acceptThirdParty.always.label "Vedno">
-<!ENTITY acceptThirdParty.never.label "Nikoli">
-<!ENTITY acceptThirdParty.visited.label "Iz obiskanih">
-<!ENTITY keepUntil.label "Obdrži do:">
+<!ENTITY acceptThirdParty.pre.accesskey "v">
+<!ENTITY acceptThirdParty.always.label "vedno">
+<!ENTITY acceptThirdParty.never.label "nikoli">
+<!ENTITY acceptThirdParty.visited.label "od obiskanih">
+<!ENTITY keepUntil.label "Obdrži dokler:">
 <!ENTITY keepUntil.accesskey "O">
-<!ENTITY expire.label "dokler ne pretečejo">
-<!ENTITY close.label "dokler ne zaprem &brandShortName;">
+<!ENTITY expire.label "ne pretečejo">
+<!ENTITY close.label "ne zaprem &brandShortName;">
 <!ENTITY askEachTime.label "vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label "Izjeme …">
-<!ENTITY cookieExceptions.accesskey "I">
-<!ENTITY showCookies.label "Pokaži piškotke …">
-<!ENTITY showCookies.accesskey "k">
+<!ENTITY cookieExceptions.accesskey "z">
+<!ENTITY showCookies.label "Prikaži piškotke …">
+<!ENTITY showCookies.accesskey "P">
 
 <!ENTITY dntTrackingNopref.label2 "Ne sporoči spletnim mestom ničesar o mojih nastavitvah sledenja">
-<!ENTITY dntTrackingNopref.accesskey "b">
+<!ENTITY dntTrackingNopref.accesskey "N">
 <!ENTITY dntTrackingNotOkay.label2 "Obvesti spletna mesta, naj mi ne sledijo">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingNotOkay.accesskey "O">
 <!ENTITY dntTrackingOkay.label2 "Obvesti spletna mesta, naj mi sledijo">
-<!ENTITY dntTrackingOkay.accesskey "v">
+<!ENTITY dntTrackingOkay.accesskey "b">
 <!ENTITY doNotTrackInfo.label "Več o Ne sledi">
 
