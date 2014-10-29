@@ -12,7 +12,7 @@
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "បើក​កម្មវិធី​ដែល​បាន​បង្ហោះ…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
-
+<!ENTITY projectMenu_selectApp_label "បើក​កម្មវិធី…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ដំឡើង និង​ដំណើរការ">
 <!ENTITY projectMenu_play_accesskey "I">
@@ -92,13 +92,17 @@
 <!ENTITY deck_close "បិទ">
 <!-- Addons -->
 
+<!ENTITY addons_title "សមាសភាគ​ខាងក្រៅ">
+<!ENTITY addons_aboutaddons "បើក​កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "ចំណូលចិត្ត">
+<!ENTITY prefs_editor_title "កម្មវិធី​កែសម្រួល">
 <!ENTITY prefs_general_title "ទូទៅ">
 <!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 
 <!ENTITY prefs_options_enablelocalruntime "បើក​ដំណើរការ​ពេលវេលា​មូលដ្ឋាន">
-
+<!ENTITY prefs_options_enablelocalruntime_tooltip "អនុញ្ញាត​ឲ្យ WebIDE តភ្ជាប់​ទៅ​ពេលវេលា​ដំណើរការ​ផ្ទាល់​ខ្លួន​ (ដំណើរការ​កម្មវិធី​រុករក​ជំនួស)">
 <!ENTITY prefs_options_rememberlastproject "ចងចាំ​គម្រោង​ចុងក្រោយ">
 <!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
 <!ENTITY prefs_options_templatesurl "URL ពុម្ព">
