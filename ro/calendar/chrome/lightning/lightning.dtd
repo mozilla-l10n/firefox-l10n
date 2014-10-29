@@ -28,7 +28,7 @@
 <!-- View Menu -->
 
 <!ENTITY lightning.menu.view.calendar.label            "Calendar">
-<!ENTITY lightning.menu.view.calendar.accesskey        "C">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Sarcini">
 <!ENTITY lightning.menu.view.tasks.accesskey           "S">
 <!-- Events and Tasks menu -->
@@ -59,7 +59,7 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
-
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvați o copie a evenimentului din calendar în mod independent de răspunsul de la organizator. Lista de participanți va fi ștearsă.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptați provizoriu invitația la eveniment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Acceptă toate provizoriu">
