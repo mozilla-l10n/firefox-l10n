@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Tuilleadain">
 <!ENTITY aboutAddons.header2                    "Na tuilleadain agad">
 <!ENTITY aboutAddons.options                    "Roghainnean">
-<!ENTITY aboutAddons.browseAll                  "Brabhsaich na tuilleadain Firefox uile">
 
 <!ENTITY addonAction.enable                     "Cuir an comas">
 <!ENTITY addonAction.disable                    "Cuir à comas">

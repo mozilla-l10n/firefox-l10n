@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
+<!ENTITY pref_category_customize_summary "Dachaidh, lorg, tabaichean, ion-phortadh">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Cànan">
+<!ENTITY pref_category_language_summary "Atharraich cànan a\u0027 bhrabhsair agad">
 <!ENTITY pref_browser_locale "Cànan a\u0027 bhrabhsair">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Comharra-lìn">
 <!ENTITY overlay_share_reading_list_btn_label "Cuir ris an liosta leughaidh">
+<!ENTITY overlay_share_bookmark_btn_label_already "Tha seo \u0027na chomharra-lìn mu thràth">
+<!ENTITY overlay_share_reading_list_btn_label_already "Tha seo air an liosta-leughaidh mu thràth">
 <!ENTITY overlay_share_send_other "Cuir gu uidheaman eile">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
 <!ENTITY pref_category_display "Taisbeanadh">
+<!ENTITY pref_category_display_summary "Teacsa, bàr an tiotail, brabhsadh làn-sgrìn">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
+<!ENTITY pref_category_privacy_summary "Smachd air faclan-faire, briosgaidean, tracadh, dàta">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Mu dhèidhinn &brandShortName;, CÀBHA, roghainnean dàta">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
 <!ENTITY pref_learn_more "Barrachd fiosrachaidh">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige \u0027s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
+<!ENTITY pref_category_devtools_summary "Dì-bhugachadh cèin, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
 <!ENTITY pref_clear_private_data2 "Falamhaich an-dràsta">
 <!ENTITY pref_clear_private_data_category "Falamhaich an dàta prìobhaideach">
-<!ENTITY pref_clear_on_exit_title "Falamhaich aig àm fàgail an-còmhnaidh">
+<!ENTITY pref_clear_on_exit_title2 "Falamhaich aig àm fàgail">
 <!ENTITY pref_clear_on_exit_summary2 "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a thaghas tu “Fàg an-seo” sa phrìomh chlàr-taice">
 <!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
 <!ENTITY pref_plugins "Plugain">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
+<!ENTITY pref_sync_summary "Sioncronaich na tabaichean, comharran-lìn, faclan-faire \u0027s an eachdraidh agad">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
+<!ENTITY pref_import_android_summary "Ion-phortaich comharran-lìn is an eachdraidh on bhrabhsair tùsail aig an uidheam">
 <!ENTITY pref_private_data_history2 "An eachdraidh brabhsaidh">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Gheibh seo dàta WiFi is dàta mu ionad an fhòn-làimhe nuair a ruitheas e sa chùlaibh agus co-roinnidh e seo le &vendorShortName; ach an urrainn dhuinn an t-seirbheis geò-lorgadh againn a leasachadh">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Bheir e tuairmeas air ionad WiFi is mobile an uidheim agad dha &vendorShortName; ach an urrainn dhuinn an t-seirbheis geò-lorgaidh againn a leasachadh">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Fèin-luchdaich na h-ùrachaidhean">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_update_autodownload_never "Chan ann idir">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Prìobhaideach">
 <!ENTITY tabs_synced "Sioncronaichte">
 <!ENTITY set_image_fail "Cha ghabh an dealbh seo a shuidheachadh">
+<!ENTITY set_image_path_fail "Cha ghabh an dealbh seo a shàbhaladh">
 <!ENTITY set_image_chooser_title "Suidhich an dealbh mar">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Suas gu &formatS;">
 
+<!ENTITY home_remote_tabs_title "Tabaichean sioncronaichte">
+<!ENTITY home_remote_tabs_empty "Nochdaidh na tabaichean a tha agad air uidheaman eile an-seo.">
+<!ENTITY home_remote_tabs_unable_to_connect "Cha ghabh ceangal a dhèanamh ris">
+<!ENTITY home_remote_tabs_need_to_sign_in "Clàraich a-steach airson an cunntas Firefox agad ath-cheangal is leantainn air adhart leis an t-sioncronachadh.">
+<!ENTITY home_remote_tabs_trouble_verifying "Duilgheadas le dearbhadh a\u0027 chunntais agad?">
+<!ENTITY home_remote_tabs_need_to_verify "Dearbh an cunntas Firefox agad gus tòiseachadh air sioncronachadh.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "Aon uidheam am falach">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; uidheaman am falach">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Uidheaman falaichte">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Na falaich na h-uidheaman a thagh thu tuilleadh">
+
 <!ENTITY private_browsing_title "Brabhsadh prìobhaideach">
 <!ENTITY private_tabs_panel_empty_desc "Nochdaidh na tabaichean prìobhaideach agad an-seo. Cha chum sinn gin dhen eachdraidh bhrabhsaidh, dhe na briosgaidean no comharran-lìn agad agus thèid faidhlichean a luchdaicheas tu a-nuas a stòradh air an uidheam agad fhathast.">
 <!ENTITY private_tabs_panel_learn_more "A bheil thu ag iarraidh barrachd fiosrachaidh?">
+
+<!ENTITY remote_tabs_panel_moved_title "Cà bheil na tabaichean agam?">
+<!ENTITY remote_tabs_panel_moved_desc "Ghluais sinn na tabaichean agad o uidheaman eile gu panail air an duilleag mhòr agad ach am faigh thu greim orra gu luath gach turas a dh\u0027fhosglas tu taba ùr.">
+<!ENTITY remote_tabs_panel_moved_link "Thoir leam dhan phanail ùr agam.">
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 
@@ -474,6 +508,12 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_apply_select2 "Suath ris gus ùrachadh">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Ath-thòisich am brabhsair gus na dh\u0027atharraich thu a chur an gnìomh">
+<!ENTITY new_tablet_pref "Cuir an comas UI ùr na tablaide">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Seisean aoigheachd ùr">
@@ -482,6 +522,8 @@ o Android">
 <!ENTITY guest_session_dialog_cancel "Sguir dheth">
 <!ENTITY new_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
 <!ENTITY new_guest_session_text "Chan fhaic an neach a chleachdas e gin dhen dàta bhrabhsaidh phearsanta agad (mar fhaclan-faire, an eachdraidh no na comharran-lìn).\n\nNuair a bhios d\u0027 aoigh deiseil, thèid an dàta brabhsaidh aca a sguabadh às agus thèid an seisean agadsa aiseag.">
+<!ENTITY guest_browsing_notification_title "Tha brabhsadh mar aoigh an comas">
+<!ENTITY guest_browsing_notification_text "Thoir gnogag gus fàgail a dhèanamh">
 
 <!ENTITY exit_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
 <!ENTITY exit_guest_session_text "Thèid dàta brabhsadh an t-seisein seo a sguabadh às.">
