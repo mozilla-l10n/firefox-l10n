@@ -484,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "b">
 <!ENTITY emailVideoCmd.label          "Widejo e-mejlować…">
 <!ENTITY emailVideoCmd.accesskey      "m">
-
-
+<!ENTITY castVideoCmd.label           "Widejo na grat pósłać">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Awdiodataju e-mejlować…">
 <!ENTITY emailAudioCmd.accesskey      "i">
 <!ENTITY playPluginCmd.label          "Tutón tykač aktiwizować">
