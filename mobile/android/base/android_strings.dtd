@@ -252,7 +252,7 @@
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
-<!ENTITY reading_list_time_minutes "&formatD; min">
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
 <!ENTITY reading_list_time_over_an_hour "Più di un’ora">
 <!ENTITY page_action_dropmarker_description "Azioni disponibili">
 <!ENTITY masterpassword_create_title "Imposta password principale">
