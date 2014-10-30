@@ -1,81 +1,80 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Lightning">
-
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Evento…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendário…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Abrir">
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Mensagem salva…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
 <!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de calendário…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Calendário">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Tarefas">
 <!ENTITY lightning.menu.view.tasks.accesskey           "r">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Eventos e tarefas">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
-
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Mensagens">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "Calendário">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tarefas">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Evento">
-<!ENTITY lightning.toolbar.newtask.label      "Tarefa">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dia">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Semana">
-<!ENTITY lightning.toolbar.week.accesskey            "S">
-<!ENTITY lightning.toolbar.multiweek.label           "Multissemana">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Mês">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Exibir eventos no painel 'Hoje'">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Exibir tarefas no painel 'Hoje' e no modo de tarefas">
+
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Esta mensagem contém um convite para um evento.">
 
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Aceitar">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Recusar">
+
+
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Excluir">
+
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes…">
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnTentative.label                               "Tentativa">
+
+
+
+
+
+<!ENTITY lightning.imipbar.description                                      "Esta mensagem contém um convite para um evento.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Criar novo calendário">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Criar novo calendário">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Exibir minimês">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Exibir minidia">
