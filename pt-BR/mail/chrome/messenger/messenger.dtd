@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-
 <!-- File Menu -->
+
 <!ENTITY newFolderCmd.label "Pasta…">
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd2.label "Fechar aba">
@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
 <!ENTITY newIMAccountCmd.label "Configurar conta de bate-papo…">
 <!ENTITY newIMAccountCmd.accesskey "b">
+
+
 <!ENTITY newIMContactCmd.label "Novo contato…">
 <!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
@@ -70,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "M">
 <!ENTITY synchronizeOfflineCmd.label "Receber/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "b">
-<!ENTITY settingsOfflineCmd.label "Configurar…">
-<!ENTITY settingsOfflineCmd.accesskey "C">
+
+
 <!ENTITY downloadSelectedCmd.label "Receber mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Receber mensagens com estrela">
@@ -83,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "C">
-
 <!-- Edit Menu -->
+
 <!ENTITY deleteMsgCmd.label "Excluir mensagem">
 <!ENTITY deleteMsgCmd.accesskey "x">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensagem">
@@ -98,9 +100,9 @@
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "C">
 <!ENTITY selectMenu.label "Selecionar">
-<!ENTITY selectMenu.accesskey "s">
-<!ENTITY all.label "Tudo">
-<!ENTITY all.accesskey "T">
+<!ENTITY selectMenu.accesskey "S">
+
+
 <!ENTITY selectThreadCmd.label "Tópico">
 <!ENTITY selectThreadCmd.accesskey "c">
 <!ENTITY selectThreadCmd.key "A">
@@ -108,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY menuFavoriteFolder.label "Pasta favorita">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Propriedades">
-<!ENTITY folderPropsFolderCmd.label "Propriedades da pasta">
-<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do newsgroup">
-<!ENTITY folderPropsCmd.accesskey "e">
+<!ENTITY folderPropsCmd2.label "Propriedades">
+<!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
+
+
 <!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Desfazer (Mover mensagem)">
@@ -124,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refazer">
 <!ENTITY redoDefaultCmd.accesskey "R">
-
 <!-- View Menu -->
+
 <!ENTITY menubarCmd.label "Barra de menus">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Padrão">
@@ -140,7 +142,7 @@
 <!ENTITY messagePaneWide.label "Largo">
 <!ENTITY messagePaneWide.accesskey "L">
 <!ENTITY messagePaneVertical.label "Vertical">
-<!ENTITY messagePaneVertical.accesskey "v">
+<!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Painel de pastas">
 <!ENTITY showFolderPaneCmd.accesskey "a">
 <!ENTITY showMessageCmd.label "Painel de mensagens">
@@ -159,7 +161,9 @@
 <!ENTITY recentFolders.label "Recentes">
 <!ENTITY recentFolders.accesskey "R">
 
+
 <!-- Sort Menu -->
+
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "d">
 <!ENTITY sortByDateCmd.label "Data">
@@ -171,7 +175,7 @@
 <!ENTITY sortByAttachmentsCmd.label "Anexos">
 <!ENTITY sortByAttachmentsCmd.accesskey "x">
 <!ENTITY sortByPriorityCmd.label "Prioridade">
-<!ENTITY sortByPriorityCmd.accesskey "p">
+<!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Tamanho">
 <!ENTITY sortBySizeCmd.accesskey "h">
 <!ENTITY sortByStatusCmd.label "Status">
@@ -255,8 +259,8 @@
 <!ENTITY pageSourceCmd.key "U">
 <!ENTITY getNewMessagesCmd.key "Y">
 <!ENTITY getAllNewMessagesCmd.key "y">
-
 <!-- Search Menu -->
+
 <!ENTITY findMenu.label "Localizar">
 <!ENTITY findMenu.accesskey "z">
 <!ENTITY findCmd.label "Localizar nesta mensagem…">
@@ -273,8 +277,8 @@
 <!ENTITY searchMailCmd.key "F">
 <!ENTITY searchAddressesCmd.label "Pesquisar catálogo…">
 <!ENTITY searchAddressesCmd.accesskey "e">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY nextMenu.label "Próxima">
@@ -284,7 +288,7 @@
 <!ENTITY nextMsgCmd.key "F">
 <!ENTITY nextUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY nextUnreadMsgCmd.accesskey "l">
-<!ENTITY nextUnreadMsgCmd.key "N">
+
 <!ENTITY nextStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Tópico não lido">
@@ -298,31 +302,29 @@
 <!ENTITY prevUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "P">
-<!ENTITY goForwardCmd.label "Avançar">
-<!ENTITY goForwardCmd.accesskey "A">
+
+
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Voltar">
 <!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Bate-papo">
 <!ENTITY goChatCmd.accesskey "B">
-<!ENTITY goChatCmd.key "I">
+
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Pasta">
 <!ENTITY folderMenu.accesskey "P">
-<!ENTITY thisFolder.label "Esta pasta">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Reabrir aba">
 <!ENTITY goRecentlyClosedTabs.accesskey "b">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
-
 <!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Mensagem">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nova">
-<!ENTITY newMsgCmd.accesskey "n">
+<!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arquivar">
@@ -336,7 +338,7 @@
 <!ENTITY replySenderCmd.label "Responder ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "Responder ao grupo">
-<!ENTITY replyNewsgroupCmd2.accesskey  "P">
+<!ENTITY replyNewsgroupCmd2.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.label "Re: Todos">
 <!ENTITY replyToAllMsgCmd.accesskey  "T">
 <!ENTITY replyToAllMsgCmd.key  "R">
@@ -348,13 +350,13 @@
 <!ENTITY forwardMsgCmd.key  "L">
 <!ENTITY forwardAsMenu.label "Encaminhar como">
 <!ENTITY forwardAsMenu.accesskey "h">
-<!ENTITY forwardAsInline.label "Texto na mensagem">
-<!ENTITY forwardAsInline.accesskey "T">
-<!ENTITY forwardAsAttachmentCmd.label "Anexo">
-<!ENTITY forwardAsAttachmentCmd.accesskey "x">
-<!ENTITY editMsgAsNewCmd.label "Editar como nova">
-<!ENTITY editMsgAsNewCmd.accesskey "d">
-<!ENTITY editMsgAsNewCmd.key "E">
+
+
+
+
+
+
+
 <!ENTITY createFilter.label "Criar filtro para o remetente…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
@@ -368,8 +370,8 @@
 <!ENTITY moveToFolderAgain.label "Mover de novo">
 <!ENTITY moveToFolderAgain.accesskey "M">
 <!ENTITY moveToFolderAgainCmd.key "M">
-<!ENTITY killThreadMenu.label "Ignorar tópico">
-<!ENTITY killThreadMenu.accesskey "I">
+
+
 <!ENTITY killThreadMenu.key "K">
 <!ENTITY killSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY killSubthreadMenu.accesskey "s">
@@ -377,10 +379,6 @@
 <!ENTITY watchThreadMenu.label "Monitorar tópico">
 <!ENTITY watchThreadMenu.accesskey "p">
 <!ENTITY watchThreadMenu.key "W">
-<!ENTITY fileHereMenu.label "Mover para cá">
-<!ENTITY fileHereMenu.accesskey "M">
-<!ENTITY copyHereMenu.label "Copiar para cá">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Aplicar tag">
 <!ENTITY tagMenu.accesskey "l">
 <!ENTITY tagCmd0.key "0">
@@ -411,7 +409,7 @@
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markStarredCmd.label "Com estrela">
 <!ENTITY markStarredCmd.accesskey "e">
-<!ENTITY markStarredCmd.key "s">
+
 <!ENTITY markAsJunkCmd.label "Como spam">
 <!ENTITY markAsJunkCmd.accesskey "s">
 <!ENTITY markAsJunkCmd.key "J">
@@ -421,26 +419,26 @@
 <!ENTITY recalculateJunkScoreCmd.label "Aplicar antispam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
-<!ENTITY openMessageWindowCmd.accesskey "B">
+<!ENTITY openMessageWindowCmd.accesskey "b">
 <!ENTITY openMessageWindowCmd.key "O">
 <!ENTITY openConversationCmd.label "Abrir como conversa">
-<!ENTITY openConversationCmd.accesskey "R">
+<!ENTITY openConversationCmd.accesskey "r">
 <!ENTITY openConversationCmd.key "O">
 <!ENTITY openAttachmentListCmd.label "Anexos">
-<!ENTITY openAttachmentListCmd.accesskey "X">
+<!ENTITY openAttachmentListCmd.accesskey "x">
 <!ENTITY openFeedMessage1.label "Ao abrir mensagens RSS">
-<!ENTITY openFeedMessage1.accesskey "B">
+<!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Abrir como página web">
-<!ENTITY openFeedWebPage.accesskey "P">
+<!ENTITY openFeedWebPage.accesskey "p">
 <!ENTITY openFeedSummary.label "Abrir resumo">
-<!ENTITY openFeedSummary.accesskey "R">
+<!ENTITY openFeedSummary.accesskey "r">
 <!ENTITY openFeedWebPageInMP.label "Alternar entre página web e resumo no painel de mensagens">
 <!ENTITY openFeedWebPageInMP.accesskey "A">
-
 <!-- Windows Menu -->
-<!ENTITY windowMenu.label "Janela">
 
+<!ENTITY windowMenu.label "Janela">
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
 <!ENTITY messengerCmd.label "Mensagens">
@@ -463,8 +461,8 @@
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "J">
-<!ENTITY filtersCmd.label "Filtros de mensagens">
-<!ENTITY filtersCmd.accesskey "F">
+
+
 <!ENTITY filtersApply.label "Aplicar filtros na pasta">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Aplicar filtros nas mensagens selecionadas">
@@ -476,20 +474,19 @@
 <!ENTITY deleteJunk.label "Excluir spans desta pasta">
 <!ENTITY deleteJunk.accesskey "x">
 <!ENTITY importCmd.label "Importar…">
-<!ENTITY importCmd.accesskey "i">
+<!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Limpar dados de navegação…">
 <!ENTITY clearRecentHistory.accesskey "L">
-<!ENTITY accountManagerCmd.label "Configurar contas…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
-     which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "n">
+
+
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
+        which is placed under the Edit menu on Unix systems -->
+
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Receber">
 <!ENTITY newMsgButton.label "Nova msg">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Re: Todos">
@@ -524,8 +521,8 @@
 <!ENTITY tagButton.label "Tags">
 <!ENTITY compactButton.label "Condensar">
 <!ENTITY appmenuButton.label "Menu &brandShortName;">
-
 <!-- Mail Toolbar Tooltips-->
+
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
 <!ENTITY getMsgButton.tooltip "Receber mensagens desta conta">
 <!ENTITY getAllNewMsgCmd.label "Todas as contas">
@@ -535,6 +532,8 @@
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY replyListButton.tooltip "Responder à lista de e-mails">
 <!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
+
+
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY nextButton.tooltip "Mover para próxima mensagem não lida">
@@ -555,35 +554,48 @@
 <!ENTITY tagButton.tooltip "Aplicar tag em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu &brandShortName;">
+<!-- Toolbar Button Popup -->
+
+<!-- Remote Content Button Popup -->
+
+
+
+
+
+<!-- Phishing Button Popup -->
+
+
+
+
 
 <!-- AppMenu Popup -->
+
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
 <!ENTITY appmenuNewContactCmd.label "Contato no catálogo de endereços…">
 <!ENTITY appmenuEditMenu.label "Editar">
-<!ENTITY appmenuQFBMenu.label "Barra de filtragem">
 <!ENTITY appmenuToolbarLayout.label "Personalizar barras…">
 <!ENTITY appmenuSelectThread.label "Selecionar tópico">
 <!ENTITY appmenuSelectFlagged.label "Selecionar mensagens com estrela">
-
 <!-- Tags Menu Popup -->
+
 <!ENTITY addNewTag.label "Nova tag…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Gerenciar tags…">
 <!ENTITY manageTags.accesskey "G">
-
 <!-- Folder Pane -->
+
 <!ENTITY folderColumn.label "Nome">
 <!ENTITY folderSizeColumn.label "Tamanho">
-
 <!-- Folder Pane Context Menu -->
+
 <!ENTITY folderContextGetMessages.label "Receber mensagens">
 <!ENTITY folderContextGetMessages.accesskey "R">
-<!ENTITY folderContextOpenNewWindow.label "Abrir">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+
+
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNew.label "Nova pasta…">
-<!ENTITY folderContextNew.accesskey "n">
+<!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">
@@ -606,21 +618,21 @@
 <!ENTITY folderContextSubscribe.accesskey "v">
 <!ENTITY folderContextSearchForMessages.label "Pesquisar mensagens…">
 <!ENTITY folderContextSearchForMessages.accesskey "e">
-<!ENTITY folderContextProperties.label "Propriedades">
-<!ENTITY folderContextProperties.accesskey "o">
+
+
 <!ENTITY folderContextFavoriteFolder.label "Pasta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "P">
-<!ENTITY folderContextSettings.label "Configurar…">
-<!ENTITY folderContextSettings.accesskey "C">
+
 
 <!-- Search Bar -->
+
 <!ENTITY SearchNameOrEmail.label "Localizar nome ou e-mail:">
 <!ENTITY SearchNameOrEmail.accesskey "z">
-
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Pesquisar mensagens…">
 
+<!ENTITY glodaSearchBar.placeholder "Pesquisar mensagens…">
 <!-- Quick Search Menu Bar -->
+
 <!ENTITY searchSubjectMenu.label "Assunto">
 <!ENTITY searchFromMenu.label "De">
 <!ENTITY searchSubjectOrFromMenu.label "Assunto ou De">
@@ -628,8 +640,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Assunto, Para ou Cc">
 <!ENTITY searchMessageBody.label "Texto da mensagem">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvar como pasta…">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
@@ -649,30 +661,28 @@
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
 <!ENTITY attachmentColumn.label "Anexos">
-
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
-<!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico">
-<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
-<!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
-<!ENTITY dateColumn.tooltip "Clique para ordenar pela data">
-<!ENTITY priorityColumn.tooltip "Clique para ordenar pela prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar pelas tags">
-<!ENTITY accountColumn.tooltip "Clique para ordenar pela conta">
-<!ENTITY statusColumn.tooltip "Clique para ordenar pelo status">
-<!ENTITY sizeColumn.tooltip "Clique para ordenar pelo tamanho">
-<!ENTITY junkStatusColumn.tooltip "Clique para ordenar pela classificação de spam">
-<!ENTITY unreadColumn.tooltip "Número de mensagens não lidas do tópico">
-<!ENTITY totalColumn.tooltip "Número de mensagens do tópico">
-<!ENTITY readColumn.tooltip "Clique para ordenar por mensagem lida">
-<!ENTITY receivedColumn.tooltip "Clique para ordenar pela data de recebimento">
-<!ENTITY starredColumn.tooltip "Clique para ordenar pela estrela">
-<!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
-<!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de chegada">
-<!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Thread Pane Context Menu -->
+
 <!ENTITY contextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
@@ -683,40 +693,52 @@
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensagem como conversa">
 <!ENTITY contextOpenConversation.accesskey "r">
-<!ENTITY contextEditAsNew.label "Editar como nova">
-<!ENTITY contextEditAsNew.accesskey "d">
+
+
+
+
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Responder ao grupo">
-<!ENTITY contextReplyNewsgroup2.accesskey "P">
+<!ENTITY contextReplyNewsgroup2.accesskey "p">
 <!ENTITY contextReplyAll.label "Re: Todos">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Re: Lista">
 <!ENTITY contextReplyList.accesskey "s">
 <!ENTITY contextForward.label "Encaminhar">
 <!ENTITY contextForward.accesskey "E">
-<!ENTITY contextForwardAsAttachment.label "Encaminhar como anexos">
-<!ENTITY contextForwardAsAttachment.accesskey "E">
+
+
+
+
+
+
+
+
 <!ENTITY contextMoveMsgMenu.label "Mover para">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recentes">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
+
+
+
+
 <!ENTITY contextSaveAs.label "Salvar como arquivo…">
 <!ENTITY contextSaveAs.accesskey "l">
 <!ENTITY contextPrint.label "Imprimir…">
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "V">
-
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
+
 <!ENTITY columnPicker.resetToInbox.label "Restaurar colunas padrão">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
@@ -757,9 +779,9 @@
    "File here" option for the move to/copy to widge.t
   -->
 <!ENTITY columnPicker.thisFolder.label "Esta pasta">
-
-
 <!-- Media (video/audio) controls -->
+
+
 <!ENTITY contextPlay.label "Executar">
 <!ENTITY contextPlay.accesskey "x">
 <!ENTITY contextPause.label "Pausa">
@@ -768,33 +790,12 @@
 <!ENTITY contextMute.accesskey "a">
 <!ENTITY contextUnmute.label "Ativar som">
 <!ENTITY contextUnmute.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "O &brandShortName; acha que esta mensagem é um Spam.">
-<!ENTITY junkBarButton1.label "Não é spam">
-<!ENTITY junkInfoButton.label "Dica">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Para proteger a sua privacidade, o &brandShortName; bloqueou o conteúdo remoto desta mensagem.">
-<!ENTITY loadRemoteContentButton3.label "Exibir conteúdo remoto">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um golpe.">
-<!ENTITY removePhishingBarButton1.label "Ignorar alerta">
-<!ENTITY disablePhishingWarning1.label "Desativar detecção de golpes para todas as mensagens">
-<!ENTITY reportPhishingError1.label "Esta mensagem não aparenta ser um golpe.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Enviar confirmação de leitura">
-<!ENTITY mdnBarSendButton2.accesskey "E">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed 
      -->
+
 <!ENTITY quickSearchCmd.key "K">
 <!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
@@ -818,14 +819,14 @@
      above, the letter should match it.
      -->
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
-
 <!-- Message Header Context Menu -->
+
 <!ENTITY AddToAddressBook.label "Adicionar ao catálogo de endereços…">
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Adicionar ao catálogo de endereços">
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
-<!ENTITY EditContact.label "Propriedades do contato">
-<!ENTITY EditContact.accesskey "P">
+
+
 <!ENTITY ViewContact.label "Exibir contato">
 <!ENTITY ViewContact.accesskey "x">
 <!ENTITY SubscribeToNewsgroup.label "Inscrever o newsgroup">
@@ -842,12 +843,12 @@
 <!ENTITY CreateFilterFrom.accesskey "r">
 <!ENTITY reportPhishingURL.label "Denunciar e-mail como fraudulento">
 <!ENTITY reportPhishingURL.accesskey "e">
-
 <!-- Spell checker context menu items -->
+
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 <!-- Content Pane Context Menu -->
+
 <!ENTITY saveLinkAsCmd.label "Salvar link como…">
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Salvar imagem como…">
@@ -866,18 +867,18 @@
 <!ENTITY openInBrowser.accesskey "A">
 <!ENTITY openLinkInBrowser.label "Abrir link no navegador">
 <!ENTITY openLinkInBrowser.accesskey "A">
-
 <!-- Statusbar -->
-<!ENTITY statusText.label "Concluído">
 
+<!ENTITY statusText.label "Concluído">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Trazer Todas para Frente">
 <!ENTITY zoomWindow.label "Ampliar/Reduzir">
-
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferências…">
+
+<!ENTITY preferencesCmdMac2.label       "Preferências">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Serviços">
@@ -888,3 +889,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
+<!-- Mac OS X Dock Icon pop-up menu -->

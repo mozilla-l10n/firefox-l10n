@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Editar e endereçar">
 <!ENTITY addressingGroupTitle.label "Endereçar">
@@ -16,10 +16,10 @@
 <!ENTITY directories.label         "Usar um servidor LDAP diferente:">
 <!ENTITY directories.accesskey     "r">
 <!ENTITY directoriesNone.label     "Nenhum">
-
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Editar">
+
+<!ENTITY compositionGroupTitle.label          "Editar">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Usar formatação (HTML)">
 <!ENTITY useHtml.accesskey                    "H">
@@ -41,8 +41,7 @@
 <!ENTITY includeSigOnForward.accesskey        "n">
 
 <!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
-<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalComposingPrefs.accesskey       "g">
 
 <!ENTITY globalAddressingPrefs.label          "Preferências globais de endereçamento…">
 <!ENTITY globalAddressingPrefs.accesskey      "P">
-

@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Mensagens e páginas podem usar outras cores">
-<!ENTITY  allowPagesToUse.accesskey       "O">
+<!ENTITY  allowPagesToUse.accesskey       "o">
 
 <!ENTITY  color                           "Cores padrão">
 <!ENTITY  textColor.label                 "Texto:">
@@ -15,7 +15,7 @@
 <!ENTITY  backgroundColor.label           "Plano de fundo:">
 <!ENTITY  backgroundColor.accesskey       "P">
 <!ENTITY  useSystemColors.label           "Usar cores do sistema">
-<!ENTITY  useSystemColors.accesskey       "A">
+<!ENTITY  useSystemColors.accesskey       "a">
 
 <!ENTITY  underlineLinks.label            "Sublinhar">
 <!ENTITY  underlineLinks.accesskey        "S">

@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Apenas mostramos os provedores que oferecem endereços para a sua região. Clique aqui para mostrar todos os provedores.">
 <!ENTITY error.line1 "Desculpe, não pudemos localizar nenhuma sugestão de endereço de e-mail.">
 <!ENTITY error.line2 "Você pode tentar pesquisar por apelidos ou qualquer outro termo para localizar mais e-mails">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Você também pode tentar uma destas ">
 <!ENTITY error.suggest.middle "alternativas de conta de e-mail grátis">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Olá ">
 <!ENTITY success.title.after ", estes endereços de e-mail estão disponíveis para você:">
 <!ENTITY success.tip "(você também pode pesquisar por apelidos ou qualquer outro termo para localizar mais e-mails)">

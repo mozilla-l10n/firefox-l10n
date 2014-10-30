@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Controle das fontes">
 <!ENTITY  useFixedWidthForPlainText.label         "Usar fonte monoespaçada em mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "U">
 <!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
 <!ENTITY  useDocumentFonts.accesskey              "n">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle1.label            "Codificações padrão">

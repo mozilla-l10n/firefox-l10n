@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Enviar dados sobre desempenho">
 <!ENTITY submitTelemetry.accesskey     "d">
@@ -18,7 +18,7 @@
 
 <!ENTITY scrolling.label               "Navegação">
 <!ENTITY useAutoScroll.label           "Autorolagem">
-<!ENTITY useAutoScroll.accesskey       "T">
+<!ENTITY useAutoScroll.accesskey       "t">
 <!ENTITY useSmoothScrolling.label      "Rolagem suave">
 <!ENTITY useSmoothScrolling.accesskey  "R">
 
@@ -35,8 +35,8 @@
 <!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
 <!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
 <!ENTITY showReturnReceipts.accesskey  "C">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Leitura">
 <!ENTITY display.caption               "Exibição">
 <!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
@@ -61,27 +61,22 @@
 <!ENTITY reuseExpRadio1.accesskey      "J">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Ao mover ou excluir, fechar aba/janela da mensagem">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
-
 <!-- Update -->
-<!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "B">
-<!ENTITY enableAddonsUpdate.label       "Extensões e temas instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "E">
-<!ENTITY whenUpdatesFound.label         "Ao encontrar atualizações do &brandShortName;:">
-<!ENTITY modeAskMe.label                "Perguntar o que fazer">
-<!ENTITY modeAskMe.accesskey            "P">
-<!ENTITY modeAutomatic.label            "Receber e instalar a atualização automaticamente">
-<!ENTITY modeAutomatic.accesskey        "R">
-<!ENTITY modeAutoAddonWarn.label        "Alertar caso desative alguma extensão ou tema">
-<!ENTITY modeAutoAddonWarn.accesskey    "A">
-<!ENTITY showUpdates.label              "Histórico de atualizações">
-<!ENTITY showUpdates.accesskey          "H">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Configurar conexão…">
 <!ENTITY showSettings.accesskey        "C">
 <!ENTITY proxiesConfigure.label        "Determine como o &brandShortName; conecta-se à internet.">
@@ -91,35 +86,33 @@
 <!ENTITY showOffline.label             "Configurar modo off-line…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Espaço em disco">
-<!ENTITY offlineCompactFolders.label "Condensar todas as pastas se puder liberar pelo menos">
+<!ENTITY Diskspace                       "Espaço em disco">
+<!ENTITY offlineCompactFolders.label     "Condensar todas as pastas se puder liberar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "n">
-<!ENTITY offlineCompactFoldersMB.label "MB">
-
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Usar no máximo">
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB de espaço para o cache">
 <!ENTITY clearCacheNow.label             "Limpar cache agora">
 <!ENTITY clearCacheNow.accesskey         "L">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Quando um servidor solicitar meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Perguntar quando necessário">
-<!ENTITY certs.ask.accesskey             "P">
+
+
+
 
 <!ENTITY viewCertificates.label         "Certificados">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Revogações">
-<!ENTITY viewCRLs.accesskey             "R">
-<!ENTITY validation.label               "Validação">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey  "D">

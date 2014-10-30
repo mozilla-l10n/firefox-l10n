@@ -1,10 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 
 <!ENTITY fileMenu.label          "Arquivo">
 <!ENTITY fileMenu.accesskey        "A">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Selecionar tudo">
 <!ENTITY selectAllCmd.key          "a">
 <!ENTITY selectAllCmd.accesskey        "S">
-<!ENTITY preferencesCmd.label        "Opções…">
-<!ENTITY preferencesCmd.accesskey      "o">
+
+
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "B">
 <!ENTITY showTaskbarCmd.label          "Barra de status">
 <!ENTITY showTaskbarCmd.accesskey        "s">
-
-<!ENTITY proxy.label                                    "Configuração de proxy…">
-<!ENTITY proxy.accesskey                                "x">
 
 <!ENTITY closeCmd.label      "Fechar">
 <!ENTITY closeCmd.key      "w">

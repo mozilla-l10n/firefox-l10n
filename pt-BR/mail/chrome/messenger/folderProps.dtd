@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
 <!ENTITY generalInfo.label                       "Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação padrão:">
-<!ENTITY folderCharsetTab.accesskey              "C">
-<!ENTITY folderCharsetOverride.label             "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
-<!ENTITY folderCharsetOverride.accesskey         "U">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Recriar arquivo de índice">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

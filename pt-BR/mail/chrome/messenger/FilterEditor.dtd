@@ -25,12 +25,12 @@
 <!ENTITY contextAfterCls.label "Filtrar após aplicar o Antispam">
 
 <!ENTITY filterActionDesc.label "Executar estas ações:">
-<!ENTITY filterActionDesc.accesskey "X">
+<!ENTITY filterActionDesc.accesskey "x">
 
 <!ENTITY filterActionOrderWarning.label "Observação: os filtros serão aplicados em uma ordem diferente.">
 <!ENTITY filterActionOrder.label "Ver ordem de execução">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Mover para">
 <!ENTITY copyMessage.label "Copiar para">
 <!ENTITY forwardTo.label "Encaminhar para">
@@ -51,12 +51,11 @@
 
 <!ENTITY addAction.tooltip "Adicionar uma nova ação">
 <!ENTITY removeAction.tooltip "Remover esta ação">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
-
