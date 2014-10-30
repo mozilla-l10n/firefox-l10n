@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Edição">
 <!ENTITY paneChat.title           "Bate-papo">
 <!ENTITY paneAttachments.title    "Anexos">
+
 <!ENTITY paneSecurity.title       "Segurança">
 <!ENTITY paneAdvanced.title       "Avançado">

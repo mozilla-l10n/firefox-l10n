@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Lista de e-mails">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Criar em:">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Forneça os endereços para adicioná-los à lista de e-mails:">
 <!ENTITY UpButton.label                 "Para cima">
 <!ENTITY DownButton.label               "Para baixo">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "C">
 <!ENTITY ListName.accesskey             "N">
 <!ENTITY ListNickName.accesskey         "A">

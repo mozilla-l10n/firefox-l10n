@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Geral">
 <!ENTITY Contact.accesskey               "G">
 <!ENTITY Name.box                        "Nome">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -26,15 +26,15 @@
 <!ENTITY NameField1.label               "Primeiro:">
 <!ENTITY NameField1.accesskey           "m">
 <!ENTITY NameField2.label               "Último:">
-<!ENTITY NameField2.accesskey           "L">
+<!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
 <!ENTITY DisplayName.accesskey          "A">
 <!ENTITY preferDisplayName.label        "Usar o nome de “Apresentar como” ao exibir mensagens">
-<!ENTITY preferDisplayName.accesskey    "I">
+<!ENTITY preferDisplayName.accesskey    "i">
 <!ENTITY NickName.label                 "Apelido:">
-<!ENTITY NickName.accesskey             "D">
+<!ENTITY NickName.accesskey             "d">
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Sem preferência">
 <!ENTITY chatName.label                 "Bate-papo:">
 
-<!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
-<!ENTITY allowRemoteContent1.accesskey  "N">
-<!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível embutir conteúdo de fontes remotas. Ao ser aberta, uma mensagem dessas irá realizar uma conexão para estas fontes. Isto pode permitir o rastreamento da leitura da mensagem. Marque esta opção para permitir conteúdos externos em mensagens HTML deste contato.">
-
-
-
-
-
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "C">
 <!ENTITY HomePhone.label                "Residencial:">
@@ -62,7 +54,7 @@
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "p">
+<!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Celular:">
 <!ENTITY CellularNumber.accesskey       "u">
 
@@ -73,9 +65,9 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Cidade:">
-<!ENTITY HomeCity.accesskey             "D">
+<!ENTITY HomeCity.accesskey             "d">
 <!ENTITY HomeState.label                "Estado:">
-<!ENTITY HomeState.accesskey            "A">
+<!ENTITY HomeState.accesskey            "a">
 <!ENTITY HomeZipCode.label              "CEP:">
 <!ENTITY HomeZipCode.accesskey          "E">
 <!ENTITY HomeCountry.label              "País:">
@@ -95,7 +87,7 @@
 <!ENTITY JobTitle.label                 "Cargo:">
 <!ENTITY JobTitle.accesskey             "C">
 <!ENTITY Department.label               "Setor:">
-<!ENTITY Department.accesskey           "R">
+<!ENTITY Department.accesskey           "r">
 <!ENTITY Company.label                  "Empresa:">
 <!ENTITY Company.accesskey              "m">
 <!ENTITY WorkAddress.label              "Endereço:">
@@ -103,9 +95,9 @@
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Cidade:">
-<!ENTITY WorkCity.accesskey             "D">
+<!ENTITY WorkCity.accesskey             "d">
 <!ENTITY WorkState.label                "Estado:">
-<!ENTITY WorkState.accesskey            "A">
+<!ENTITY WorkState.accesskey            "a">
 <!ENTITY WorkZipCode.label              "CEP:">
 <!ENTITY WorkZipCode.accesskey          "E">
 <!ENTITY WorkCountry.label              "País:">
@@ -124,18 +116,18 @@
 <!ENTITY Custom4.label                  "Personalizado 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Observações:">
-<!ENTITY Notes.accesskey                "V">
+<!ENTITY Notes.accesskey                "v">
 
 <!ENTITY Chat.tab                       "Bate-papo">
 <!ENTITY Chat.accesskey                 "B">
 <!ENTITY Gtalk.label                    "Google Talk:">
-<!ENTITY Gtalk.accesskey                "L">
+<!ENTITY Gtalk.accesskey                "l">
 <!ENTITY AIM.label                      "AIM:">
 <!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
-<!ENTITY Skype.accesskey                "K">
+<!ENTITY Skype.accesskey                "k">
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
@@ -151,7 +143,7 @@
 <!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Selecione uma destas opções:">
 <!ENTITY GenericPhoto.label             "Foto genérica">
-<!ENTITY GenericPhoto.accesskey         "C">
+<!ENTITY GenericPhoto.accesskey         "c">
 <!ENTITY DefaultPhoto.label             "Padrão">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "N">

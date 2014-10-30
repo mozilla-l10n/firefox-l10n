@@ -2,27 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Para ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Emissor ">
-<!ENTITY organizationField3.label "Empresa ">
-<!ENTITY replyToField3.label "Responder a ">
+<!ENTITY toField4.label "Para">
+<!ENTITY fromField4.label "De">
 
-<!ENTITY subjectField3.label "Assunto ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Cco ">
-<!ENTITY newsgroupsField3.label "Newsgroups ">
-<!ENTITY followupToField3.label "Followup to ">
-<!ENTITY tagsHdr3.label "Tags ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "Referências ">
-<!ENTITY messageIdField3.label "Identificador de mensagem ">
-<!ENTITY inReplyToField3.label "Em resposta a ">
-<!ENTITY originalWebsite3.label "Site ">
+<!ENTITY organizationField4.label "Empresa">
 
-<!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
-<!ENTITY editMessageButton.label "Editar">
+
+<!ENTITY subjectField4.label "Assunto">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Cco">
+<!ENTITY newsgroupsField4.label "Newsgroups">
+
+<!ENTITY tagsHdr4.label "Tags">
+<!ENTITY dateField4.label "Data">
+
+<!ENTITY referencesField4.label "Referências">
+
+
+
+
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquivar esta mensagem">
 <!ENTITY hdrSmartReplyButton1.label "Responder inteligente">
@@ -34,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder à lista de e-mails">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Postar uma resposta neste grupo">
+
 <!ENTITY hdrForwardButton1.label "Encaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Encaminhar mensagem">
 <!ENTITY hdrJunkButton1.label "Spam">
@@ -67,12 +66,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "x">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "I">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Sempre exibir o painel de anexos">
 <!ENTITY startExpandedCmd.accesskey    "S">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Salvar como…">
@@ -91,8 +90,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "x">
 
 <!ENTITY openAttachment.tooltip "Abrir o arquivo anexo">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Salvar">
 <!ENTITY saveAttachmentButton1.tooltip     "Salvar arquivo anexo">
 <!ENTITY saveAllAttachmentsButton1.label   "Salvar todos">

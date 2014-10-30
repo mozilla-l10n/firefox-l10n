@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
 <!ENTITY serverType.label "Tipo:">
 <!ENTITY serverName.label "Servidor:">
-<!ENTITY serverName.accesskey "s">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Usuário:">
 <!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Porta:">
@@ -36,7 +36,7 @@
 <!ENTITY headersOnly.label "Receber somente os cabeçalhos">
 <!ENTITY headersOnly.accesskey "b">
 <!ENTITY deleteByAgeFromServer.label "Por no máximo">
-<!ENTITY deleteByAgeFromServer.accesskey "O">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
 <!ENTITY deleteOnServer2.label "Até eu excluí-las">
 <!ENTITY deleteOnServer2.accesskey "e">
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar-se a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "m">
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
-<!ENTITY localPath.label "Pasta local:">
+<!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset.label "Codificação padrão:">
+<!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
 <!ENTITY browseFolder.label "Procurar…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
 <!ENTITY browseNewsrc.label "Procurar…">
 <!ENTITY browseNewsrc.accesskey "r">
 
