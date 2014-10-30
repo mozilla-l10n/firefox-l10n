@@ -9,6 +9,7 @@
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY bookmarks_title "Segnalibri">
+<!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
 <!ENTITY reading_list_title "Elenco lettura">
 <!ENTITY recent_tabs_title "Schede recenti">
