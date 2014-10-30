@@ -57,10 +57,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "O &brandShortName; memorizará o histórico, os downloads, os dados fornecidos a formulários e à barra de pesquisa e preservará os cookies dos sites visitados.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "Você pode desejar ">
 <!ENTITY  rememberActions.clearHistory.label  "limpar os dados de navegação mais recentes">
 <!ENTITY  rememberActions.middle.label        " ou ">
@@ -68,9 +68,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "O &brandShortName; usará as mesmas configurações da navegação privativa. Nenhum dado pessoal será armazenado durante a sua navegação.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "Você pode desejar também ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todos os dados de navegação">
 <!ENTITY  dontrememberActions.post.label         ".">
