@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server niet gevonden">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4" 
 <ul>
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Zoeken</button>
+    </div>
   <li>Controleer de gegevens- of wifi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
     <button id='wifi'>Wifi inschakelen</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Het adres is niet geldig">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Webadressen worden doorgaans geschreven als
     <strong>http://www.voorbeeld.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Zoeken</button>
+    </div
   <li>Let erop dat u voorwaartse slashes gebruikt (d.i.
     <strong>/</strong>).</li>
 </ul>
@@ -59,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als veiligheidsvoorzorgsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Probeer het opnieuw. &brandShortName; zal proberen een verbinding te openen en de pagina opnieuw laden.
@@ -104,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kan de proxyserver niet vinden">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Controleer of uw proxyinstellingen juist zijn.</li>
@@ -148,6 +164,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>
