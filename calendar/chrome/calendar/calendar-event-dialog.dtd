@@ -5,9 +5,9 @@
 <!ENTITY event.title.label                  "Editar item" >
 
 
+
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "A" >
-<!ENTITY newevent.attendees.notify.label    "Notificar participantes">
 
 <!ENTITY newevent.status.label                    "Posição" >
 <!ENTITY newevent.status.accesskey                "P" >
@@ -24,15 +24,20 @@
 <!ENTITY newevent.status.needsaction.label        "Requer ação" >
 <!ENTITY newevent.status.inprogress.label         "Em andamento" >
 <!ENTITY newevent.status.completed.label          "Completado em" >
-
 <!-- The following entity is for New Task dialog only -->
+
 <!ENTITY newtodo.percentcomplete.label      "&#037; completada">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
 
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
-<!ENTITY event.dialog.close.key                   "W">
+
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
 <!ENTITY event.dialog.print.key                   "P">
@@ -41,9 +46,9 @@
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
-<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Novo">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Evento">
@@ -55,7 +60,7 @@
 <!ENTITY  event.menu.item.new.contact.label               "Contato do catálogo de endereços">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Fechar">
-<!ENTITY  event.menu.item.close.accesskey                 "C">
+<!ENTITY  event.menu.item.close.accesskey                 "c">
 <!ENTITY  event.menu.item.save.label                      "Salvar">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 <!ENTITY  event.menu.item.saveandclose.label              "Salvar e fechar">
@@ -95,18 +100,10 @@
 
 <!ENTITY  event.menu.options.label                            "Opções">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Anexar página da internet…">
-<!ENTITY  event.menu.options.attachments.accesskey            "A">
 <!ENTITY  event.menu.options.attendees.label                  "Convidar participantes…">
 <!ENTITY  event.menu.options.attendees.accesskey              "C">
-<!ENTITY  event.menu.options.spellcheck.label                 "Verificar ortografia…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "V">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Verificar ortografia ao digitar">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "d">
-<!ENTITY  event.menu.options.link.label                       "Adicionar atalho…">
-<!ENTITY  event.menu.options.link.accesskey                   "A">
-<!ENTITY  event.menu.options.timezone.label                   "Fuso horário">
-<!ENTITY  event.menu.options.timezone.accesskey               "F">
+
+
 <!ENTITY  event.menu.options.priority2.label                  "Prioridade">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Não especificada">
@@ -138,22 +135,29 @@
 <!ENTITY event.email.attendees.accesskey                  "m">
 <!ENTITY event.email.tentative.attendees.label            "Criar mensagem aos participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Excluir">
-<!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
-<!ENTITY  event.toolbar.spellcheck.label                  "Verificação ortográfica">
+
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
-<!ENTITY  event.toolbar.attachments.label                 "Anexar">
+
+
+
+
+
+
+
 
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Título:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Local:" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "g">
+
 <!ENTITY event.calendar.label                             "Calendário:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participantes:" >
@@ -172,12 +176,18 @@
 <!ENTITY task.status.accesskey                            "o">
 <!ENTITY event.repeat.label                               "Repetir:" >
 <!ENTITY event.repeat.accesskey                           "R">
+
+
 <!ENTITY event.reminder.label                             "Lembrete:" >
 <!ENTITY event.reminder.accesskey                         "b">
 <!ENTITY event.description.label                          "Descrição:" >
 <!ENTITY event.description.accesskey                      "s">
 <!ENTITY event.attachments.label                          "Anexos:" >
 <!ENTITY event.attachments.accesskey                      "A" >
+
+
+
+
 <!ENTITY event.attachments.popup.remove.label             "Excluir" >
 <!ENTITY event.attachments.popup.remove.accesskey         "E" >
 <!ENTITY event.attachments.popup.open.label               "Abrir" >
@@ -204,7 +214,9 @@
 
 <!ENTITY event.reminder.multiple.label                    "Lembretes múltiplos…" >
 
+
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Editar recorrência">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Não repete">
@@ -253,7 +265,6 @@
 <!ENTITY event.recurrence.every.label                        "A cada:" >
 <!ENTITY repeat.units.years.both                             "Ano(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "A cada" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -261,6 +272,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Janeiro" >
@@ -309,16 +321,14 @@
 <!ENTITY event.recurrence.appointments.label            "Reunião(ões)" >
 <!ENTITY event.repeat.until.label                       "Repetir até" >
 <!ENTITY event.recurrence.preview.label                 "Visualizar">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Convidar participantes">
 <!ENTITY event.organizer.label                  "Organizador">
 <!ENTITY event.freebusy.suggest.slot            "Sugerir tempo disponível:">
-<!ENTITY event.freebusy.next.slot               "Tempo seguinte " >
-<!ENTITY event.freebusy.previous.slot           " Tempo anterior" >
+
+
 <!ENTITY event.freebusy.zoom                    "Zoom:">
-<!ENTITY event.freebusy.plus                    "Horário seguinte" >
-<!ENTITY event.freebusy.minus                   "Horário anterior" >
 <!ENTITY event.freebusy.legend.free             "Disponível" >
 <!ENTITY event.freebusy.legend.busy             "Ocupado" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativa" >
@@ -329,12 +339,21 @@
 <!ENTITY event.attendee.role.chair              "Presidente">
 <!ENTITY event.attendee.role.nonparticipant     "Não participante">
 
+
+
+
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
 
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "Geral">
 <!ENTITY read.only.title.label           "Título:">
+
+
+
+
 <!ENTITY read.only.repeat.label          "Repete:">
 <!ENTITY read.only.location.label        "Local:">
 <!ENTITY read.only.category.label        "Categoria:">
@@ -347,5 +366,4 @@
 <!ENTITY read.only.reminder.label        "Lembrete:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Descrição">
-<!ENTITY read.only.documents.label       "Documentos">
 <!ENTITY read.only.link.label            "Atalho relacionado">

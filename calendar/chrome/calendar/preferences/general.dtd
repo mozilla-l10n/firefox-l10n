@@ -1,21 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.mainbox.label "Configurações gerais" >
 <!ENTITY pref.dateformat.label "Formato de data:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
-<!ENTITY pref.defaultlength.label "Duração padrão para eventos:" >
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Retardo padrão para eventos:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "R">
-<!ENTITY pref.refreshbox.label "Atualizar" >
-<!ENTITY pref.autorefresh.label "Atualizar calendários a cada" >
-<!ENTITY pref.autorefresh.accesskey "A" >
+
+<!ENTITY pref.events.label "Eventos">
+<!ENTITY pref.tasks.label "Tarefas">
+
+
+
+
+
+<!ENTITY pref.default_task_tomorrow.label "Amanhã">
+
+
+
+
+
+
+
