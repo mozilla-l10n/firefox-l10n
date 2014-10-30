@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Restaurar sessão">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Bem, isto é constrangedor…">
 <!ENTITY restorepage.problemDesc    "O &brandShortName; está com dificuldades para restaurar suas janelas e abas. Normalmente isto é causado por uma página aberta recentemente.">
 <!ENTITY restorepage.tryThis        "Você pode tentar:">
@@ -21,14 +21,19 @@
 <!ENTITY restorepage.listHeader     "Páginas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Janela &#037;S">
-
-
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-<!ENTITY welcomeback.tabtitle       "Bem-vindo de volta!">
 
-<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
-     expressing joy that the user has successfully migrated their stuff and hope
-     that now they have a better experience.  -->
-<!ENTITY welcomeback.pageTitle      "Bem-vindo de volta!">
-<!ENTITY welcomeback.pageInfo       "O &brandShortName; restaurou com êxito o seu perfil. Abaixo está a lista com as abas que estavam abertas. Você pode reabri-las ou iniciar do zero.">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
