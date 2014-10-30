@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Server niet gevonden">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4" 
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
@@ -58,7 +58,7 @@
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Zoeken</button>
-    </div
+    </div>
   <li>Let erop dat u voorwaartse slashes gebruikt (d.i.
     <strong>/</strong>).</li>
 </ul>
