@@ -10,9 +10,9 @@
 <!ENTITY  onboard_start_subtext "Comprometido com você, sua privacidade e uma web aberta">
 <!ENTITY  onboard_start_button_account "Entrar no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+
 <!ENTITY  bookmarks_title "Favoritos">
 <!ENTITY  history_title "Histórico">
 <!ENTITY  reading_list_title "Lista de leitura">
@@ -82,30 +82,34 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-<!ENTITY pref_category_language "Idioma">
-<!ENTITY pref_browser_locale "Idioma do navegador">
 
+<!ENTITY pref_category_language "Idioma">
+
+<!ENTITY pref_browser_locale "Idioma do navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Padrão do sistema">
 
+<!ENTITY locale_system_default "Padrão do sistema">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Adicionar ao &brandShortName;">
 
+<!ENTITY overlay_share_label "Adicionar ao &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
 <!ENTITY overlay_share_bookmark_btn_label "Favoritar">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
-<!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 
+
+<!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+
 <!ENTITY overlay_share_send_tab_btn_label "Enviar para outro dispositivo">
 <!ENTITY overlay_share_no_url "Nenhum link encontrado neste compartilhamento">
 <!ENTITY overlay_share_retry "Tentar de novo">
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
 <!ENTITY pref_category_display "Aparência">
+
 <!ENTITY pref_category_privacy_short "Privacidade">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "DICA: adicione qualquer site para sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e então tocando no ícone &formatI;.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
+
 <!ENTITY pref_developer_paint_flashing "Realçar regiões atualizadas">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_remember_signons "Memorizar senhas">
@@ -145,12 +153,12 @@
 <!ENTITY home_add_panel_installed "“&formatS;” adicionado à página inicial">
 <!ENTITY pref_category_home_content_settings "Conteúdo">
 <!ENTITY pref_home_updates "Atualização automática">
-<!ENTITY pref_home_updates_enabled "Ativa">
+
 <!ENTITY pref_home_updates_wifi "Somente com Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Exibir sugestões de sites">
 <!ENTITY pref_home_suggested_sites_summary "Exibir na sua página inicial atalhos de sites que pensamos que você ache interessantes">
-
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Aparência">
 <!ENTITY pref_header_privacy_short "Privacidade">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Não exibir menu">
 <!ENTITY pref_clear_private_data2 "Limpar agora">
 <!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
-<!ENTITY pref_clear_on_exit_title "Sempre limpar ao sair">
+
 <!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
@@ -198,15 +206,17 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
-
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
 <!ENTITY pref_font_size_preview_text "A raposa rápida laranja salta sobre suas expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Sugerir pesquisas">
 <!ENTITY pref_import_android "Importar do Android">
+
 <!ENTITY pref_private_data_history2 "Histórico">
 <!ENTITY pref_private_data_formdata "Campos de páginas e da pesquisa">
 <!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
@@ -239,13 +249,13 @@ size. -->
 <!ENTITY datareporting_notification_summary "Para aprimorar sua experiência, o &brandShortName; automaticamente envia alguns dados para a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para aprimorar sua experiência, o &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
 <!ENTITY datareporting_fhr_title "Relatório de Integridade do &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre a integridade do navegador e ajuda você a entender o desempenho dele.">
 <!ENTITY datareporting_abouthr_title "Exibir meu relatório de integridade">
@@ -256,7 +266,6 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização da &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Recebe dados de localização de celular e Wi-Fi quando executar em plano de fundo e compartilha com a &vendorShortName; para aprimorar nosso serviço de geolocalização">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -265,8 +274,8 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Sempre">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
 <!ENTITY help_menu "Ajuda">
 
 <!ENTITY quit "Sair">
@@ -292,17 +301,18 @@ size. -->
 <!ENTITY tabs_private "Privativas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY set_image_fail "Não foi possível definir a imagem">
-<!ENTITY set_image_chooser_title "Definir imagem como">
 
+<!ENTITY set_image_chooser_title "Definir imagem como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY find_text "Localizar na página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Próxima">
 <!ENTITY find_close "Fechar">
-
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY media_sending_to "Enviando para dispositivo">
 <!ENTITY media_play "Executar">
 <!ENTITY media_pause "Pausa">
@@ -327,24 +337,24 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
 <!ENTITY pref_titlebar_mode_url "Exibir endereço da página">
-
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
 <!ENTITY pref_scroll_title_bar2 "Navegação em tela inteira">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar a barra de título do &brandShortName; ao rolar a tela para baixo">
-
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+
 <!ENTITY page_removed "Página excluída">
 
 <!ENTITY bookmark_edit_title "Editar favorito">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Endereço">
 <!ENTITY bookmark_edit_keyword "Palavra-chave">
-
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
 <!ENTITY site_settings_title3       "Configurações do site">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
@@ -353,9 +363,9 @@ size. -->
 <!ENTITY reading_list_added "Página adicionada à lista de leitura">
 <!ENTITY reading_list_failed "Falha ao adicionar a página à lista de leitura">
 <!ENTITY reading_list_duplicate "Página já existente em sua lista de leitura">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
 <!ENTITY page_action_dropmarker_description "Ações adicionais">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
@@ -394,18 +404,36 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "DICA: salve artigos em sua lista de leitura dando um toque longo no botão do modo de leitura quando ele aparecer na barra de título.">
-
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "Nenhum conteúdo pôde ser encontrado para este painel.">
 
+<!ENTITY home_default_empty "Nenhum conteúdo pôde ser encontrado para este painel.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
 <!ENTITY home_move_up_to_filter "Voltar para &formatS;">
+
+
+<!ENTITY home_remote_tabs_unable_to_connect "Não é possível conectar-se">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
 
 <!ENTITY private_browsing_title "Navegação privativa">
 <!ENTITY private_tabs_panel_empty_desc "Suas abas privativas serão mostradas aqui. Apesar de não mantermos nenhum de seus dados de navegação ou cookies, os favoritos e downloads serão salvos em seu dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Deseja saber mais?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
@@ -413,8 +441,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Selecione ou grave um som">
 <!ENTITY filepicker_image_title "Selecione ou tire uma foto">
 <!ENTITY filepicker_video_title "Selecione ou grave um vídeo">
-
 <!-- Site identity popup -->
+
 <!ENTITY identity_connected_to "Conectado a">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -428,8 +456,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
-
 <!-- Mixed content notifications in site identity popup -->
+
 <!ENTITY loaded_mixed_content_message "Esta página está exibindo conteúdo não seguro.">
 <!ENTITY blocked_mixed_content_message_top "O &brandShortName; bloqueou conteúdo não seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "A maioria dos sites ainda funcionará corretamente mesmo com este conteúdo bloqueado.">
@@ -448,10 +476,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde…">
 
 <!ENTITY suggestions_prompt3 "Deseja ativar as sugestões de pesquisa?">
-
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
 <!ENTITY suggestion_for_engine "Pesquisa &formatS1;: &formatS2;">
 
 <!ENTITY webapp_generic_name "Aplicativo">
@@ -459,8 +487,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Favoritos e histórico">
 
 <!ENTITY devtools_remote_debugging_forward "Não esqueça de definir o redirecionamento da porta!">
+<!-- Updater notifications --> 
 
- <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para receber">
 
@@ -471,8 +499,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
 <!-- Guest mode -->
+
 <!ENTITY new_guest_session "Sessão de convidado">
 <!ENTITY exit_guest_session "Sair da sessão de convidado">
 <!ENTITY guest_session_dialog_continue "Continuar">
@@ -480,26 +511,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
 <!ENTITY new_guest_session_text "A pessoa que usar a sessão não poderá ver seus dados pessoais de navegação (como senhas memorizadas, histórico ou favoritos).\n\nAssim que o seu convidado tiver concluído, os dados de navegação dele serão excluídos e a sua sessão será restaurada.">
 
+
+
 <!ENTITY exit_guest_session_title "O &brandShortName; irá reiniciar agora">
 <!ENTITY exit_guest_session_text "Os dados de navegação desta sessão serão excluídos.">
-
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Concluir">
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
 <!ENTITY remote_tabs_last_synced "Última sincronização: &formatS;">
