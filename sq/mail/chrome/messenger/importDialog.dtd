@@ -31,7 +31,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Adresash, Rregullime dhe Filtra">
 
 <!ENTITY importDescription1.label "Ky ndihmës do të importojë te &brandShortName;-i mesazhe poste, zëra librash adresash, pajtime në prurje, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash adresash.">
-<!ENTITY importDescription2.label "Pasi të jenë importuar, do të jeni në gjendje t'i përdorni që nga &brandShortName;-i.">
+<!ENTITY importDescription2.label "Pasi të jenë importuar, do të jeni në gjendje t&apos;i përdorni që nga &brandShortName;-i.">
 
 <!ENTITY selectDescription.label  "Ju lutemi, përzgjidhni llojin e kartelës që doni të importohet:">
 <!ENTITY selectDescriptionB.label "Ju lutemi, përzgjidhni një llogari ekzistuese ose krijoni një llogari të re:">

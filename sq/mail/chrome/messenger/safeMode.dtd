@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName;-i tani po xhiron nën Mënyrën e Sigurt, me të cilën çaktivizohen përkohësisht rregullimet tuaja të personalizuara, temat, dhe zgjerimet.">
-<!ENTITY safeModeDescription2.label       "Disa, ose krejt këto ndryshime, mund t'i kaloni si të përhershme:">
+<!ENTITY safeModeDescription2.label       "Disa, ose krejt këto ndryshime, mund t&apos;i kaloni si të përhershme:">
 
 <!ENTITY disableAddons.label              "Çaktivizo krejt shtesat">
 <!ENTITY disableAddons.accesskey          "Ç">

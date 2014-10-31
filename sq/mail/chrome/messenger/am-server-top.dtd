@@ -32,7 +32,7 @@
 <!ENTITY deleteByAgeFromServer.label "Për e shumta">
 <!ENTITY deleteByAgeFromServer.accesskey "u">
 <!ENTITY daysEnd.label "ditë">
-<!ENTITY deleteOnServer2.label "Derisa t'i fshij ata">
+<!ENTITY deleteOnServer2.label "Derisa t&apos;i fshij ata">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
 <!ENTITY downloadOnBiff.accesskey "k">
