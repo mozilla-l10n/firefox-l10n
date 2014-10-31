@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(مرور خصوصی)‏">
 
 <!ENTITY appmenu.tooltip                     "باز کردن منو">
-
+<!ENTITY navbarOverflow.label                "ابزارهای بیشتر...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
@@ -76,14 +76,15 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "نوار منو">
 <!ENTITY menubarCmd.accesskey "م">
-
+<!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
 <!ENTITY personalbarCmd.accesskey "ا">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همه ی زبانه‌ها">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ه">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه ی زبانه‌ها…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ز">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگشت زبانه های بسته شده">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ب">
 
@@ -105,18 +106,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "ز">
 
+<!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; فعال شد">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; به زودی هم‌گام‌سازی را شروع میکند">
-
+<!ENTITY syncErrorPanel.heading "قادر به اتصال به &syncBrand.shortName.label; نیست.">
 <!ENTITY syncErrorPanel.subTitle "لطفا جهت ادامه همگام سازی به سیستم وارد شوید.">
-
-
+<!ENTITY syncErrorPanel.signInButton.label "ورود">
+<!ENTITY syncErrorPanel.signInButton.accesskey "و">
 
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
-
+<!ENTITY fullScreenClose.tooltip "بستن">
 <!ENTITY fullScreenAutohide.label "پنهان‌سازی نوارهای ابزار">
 <!ENTITY fullScreenAutohide.accesskey "پ">
 <!ENTITY fullScreenExit.label "خروج از حالت مرور تمام‌صفحه">
@@ -133,7 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "نشانک‌ها">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY editThisBookmarkCmd.label "ویرایش این نشانک">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -149,8 +151,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
+<!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
+<!ENTITY shareVideo.accesskey "ب">
 <!ENTITY feedsMenu.label "مشترک شدن">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه…">
@@ -159,12 +161,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "نشانک‌های مرتب نشده">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
+<!ENTITY backCmd.label                "برگشت">
 <!ENTITY backButton.tooltip           "برگشتن به یک صفحه قبل">
-
+<!ENTITY forwardCmd.label             "جلو">
 <!ENTITY forwardButton.tooltip        "جلو رفتن به یک صفحه بعد">
 <!ENTITY backForwardButtonMenu.tooltip "برای نمایش تاریخچه، کلیک راست کنید یا به طرف پایین بکشید">
 <!ENTITY backForwardButtonMenuMac.tooltip "برای نمایش تاریخجه، به طرف پایین بکشید">
-
+<!ENTITY reloadCmd.label              "بارگیری مجدد">
 <!ENTITY reloadButton.tooltip         "بازآوردن همین صفحه">
 <!ENTITY stopCmd.label                "توقف">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -186,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "نشانک‌ها">
 <!ENTITY bookmarksMenuButton.unsorted.label "نشانک‌های مرتب نشده">
-
+<!ENTITY viewBookmarksSidebar2.label        "نمایش نوار ابزار نشانک‌ها">
 <!ENTITY viewBookmarksToolbar.label         "نمایش نوار ابزار نشانک‌ها">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -195,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "تاریخچه">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ابزارها">
@@ -210,8 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "افزودنی‌ها">
 <!ENTITY addons.accesskey             "ا">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "برنامه‌ها">
+<!ENTITY webapps.accesskey            "ب">
 
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -236,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "نمای طراحی پاسخگو">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "قطره چکان">
 <!ENTITY eyedropper.accesskey "ط">
@@ -264,8 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "بستن نوار توسعه دهنده">
 <!ENTITY devToolbarMenu.label              "نوار توسعه دهنده">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "مدیر برنامه">
+<!ENTITY devAppMgrMenu.accesskey           "م">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 
@@ -579,7 +583,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "خروج از &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ترک"> 
@@ -669,8 +673,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "ظ">
 <!ENTITY syncSyncNowItem.label        "انجام هم‌گام‌سازی">
 <!ENTITY syncSyncNowItem.accesskey    "ه">
-
-
+<!ENTITY syncReAuthItem.label         "بازگشت به &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "ب">
 <!ENTITY syncToolbarButton.label      "هم‌گام‌سازی">
 
 <!ENTITY socialToolbar.title        "دکمۀ نوار اجتماعی">
@@ -678,7 +682,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "تأیید">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "نمایش نوار جانبی">
+<!ENTITY social.toggleSidebar.accesskey "ن">
 
 <!ENTITY social.addons.label "مدیریت سرویس‌ها…">
 
@@ -692,10 +697,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ط">
 <!ENTITY social.closeNotificationItem.label "اکنون نه">
 
+<!ENTITY social.directory.text "شما می توانید سرویس به اشتراک گذاری را از این دایرکتوری فعال کنید.">
 
 
-
-
+<!ENTITY social.directory.viewmore.text "مشاهده بیشتر ">
 
 <!ENTITY customizeMode.tabTitle "شخصی‌سازی &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ویژگی‌ها و ابزارهای افزودنی ">
@@ -742,11 +747,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.message "ره‌گیری">
 <!ENTITY trackingContentBlocked.moreinfo "قسمت های مسئول پیگیری فعالیت های آنلاین شما مسدود شده است.">
 
-
-
-
-
-
+<!ENTITY trackingContentBlocked.options "گزینه‌ها">
+<!ENTITY trackingContentBlocked.unblock2.label "غیرفعال سازی حفاظت برای این وب سایت">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
+<!ENTITY trackingContentBlocked.block.accesskey "ف">
 <!ENTITY trackingContentBlocked.disabled.message "حفاظت از طریق ردگیری غیرفعال است‌‌">
 
 <!ENTITY pointerLock.notification.message "برای نمایش مجدد در هر زمانی دکمه ESC را فشار دهید.">
@@ -771,6 +776,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "به &vendorShortName; در مورد این فروپاشی اطلاع دهید تا آن را اصلاح کنند.">
 <!ENTITY tabCrashed.tryAgain "تلاش مجدد">
 
+<!ENTITY uiTour.infoPanel.close "بستن">
 
 <!ENTITY appMenuSidebars.label         "نوارهای کناری">
 

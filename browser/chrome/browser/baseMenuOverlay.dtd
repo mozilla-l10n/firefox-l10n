@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "ارسال نظر…">
 <!ENTITY helpFeedbackPage.accesskey  "س">
 
-
+<!ENTITY helpShowTour.label             "راهنمای &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
