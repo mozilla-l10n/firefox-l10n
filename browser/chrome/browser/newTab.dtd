@@ -8,8 +8,8 @@
 <!ENTITY newtab.customize.enhanced "E zgjeruar">
 <!ENTITY newtab.customize.classic "Klasike">
 <!ENTITY newtab.customize.blank "E zbrazët">
-<!ENTITY newtab.customize.what "Ç&apos;'është kjo faqe?">
-<!ENTITY newtab.intro.header "Ç&apos;'është kjo faqe?">
+<!ENTITY newtab.customize.what "Ç&apos;është kjo faqe?">
+<!ENTITY newtab.intro.header "Ç&apos;është kjo faqe?">
 <!ENTITY newtab.undo.removedLabel "Miniatura u hoq.">
 <!ENTITY newtab.undo.undoButton "Zhbëje.">
 <!ENTITY newtab.undo.restoreButton "Riktheji Krejt.">
