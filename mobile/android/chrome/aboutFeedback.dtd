@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "பார்க்கவும் ">
+<!ENTITY support.link2             "ஆதரவு தளம்">
+<!ENTITY support.post3             " பொதுவான பிரிச்சனைகளுக்கு பதில் பெற.">
 
 <!ENTITY happy.header              "இதை கேட்கவே நன்றாக இருக்கிறது!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "பிறகு இருக்கலாம்">
 <!ENTITY happy.noThanks            "இல்லை நன்றி">
 
+<!ENTITY sad.header                "அய்யோ இல்லை!">
 <!ENTITY sad.message               "&brandShortName; உடன் சில பிரச்சனைகள் இருந்தற்காக எங்களை மன்னிக்கனும். தயவுச்செய்து எங்களுக்கு என் நடந்தது என்பதை தெரிந்தால் அதை சரிசெய்ய முடியும்.">
 <!ENTITY sad.placeholder           "உங்களுடைய கருத்தை இங்கே தட்டுங்கள்">
-
+<!ENTITY sad.lastSite2             "கடைசியாக பார்த்த தளங்களை சேர்">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "நன்றி.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "இல்லையென்றால்.">
 
+<!ENTITY feedback.privacy2         "உங்களின் தனியுரிமைக்காக, பின்னூட்ட கருத்துக்களில் சுயத்தகவல் எதையும் சேர்த்து அனுப்ப வேண்டாம்.">
 <!ENTITY feedback.send             "பின்னுட்டத்தை அனுப்பு">
