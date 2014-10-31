@@ -166,6 +166,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Overovací odkaz bol odoslaný na adresu &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Znova odoslať e-mail'>
+<!ENTITY fxaccount_confirm_account_change_email 'Zabudnúť túto e-mailovú adresu?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Overovací e-mail bol odoslaný'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodarilo sa odoslať overovací e-mail'>
 
