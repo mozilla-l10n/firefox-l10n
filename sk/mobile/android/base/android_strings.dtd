@@ -389,6 +389,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridať stránku">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Úvodná stránka &brandShortName;u">
 <!ENTITY home_history_title "História">
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
