@@ -12,6 +12,10 @@
   Telemetry está <span>deshabilitado</span>.
 ">
 
+<!ENTITY aboutTelemetry.generalDataSection "
+  Datos generales
+">
+
 <!ENTITY aboutTelemetry.slowSqlSection "
   Sentencias SQL lentas
 ">

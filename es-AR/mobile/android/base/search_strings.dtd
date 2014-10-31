@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Buscar con &formatS;'>
 
-<!ENTITY search_empty_title 'Búsqueda de &brandShortName;'>
+<!ENTITY search_empty_title2 'Comenzar a buscar'>
 <!ENTITY search_empty_message 'Búsqueda rápida para lo que se te ocurra'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
