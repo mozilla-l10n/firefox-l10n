@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "W">
 <!ENTITY cellSelectPrevious.label         "Kent">
 <!ENTITY cellSelectPrevious.accessKey     "K">
-<!ENTITY applyBeforeChange.label          "Sevenet e vo ar c'hemmoù bremanel kent kemmañ an diuzad.">
+<!ENTITY applyBeforeChange.label          "Arloet e vo ar c'hemmoù bremanel kent kemmañ an diuzad.">
 <!ENTITY cellContentAlignment.label       "Desteudadur an endalc'had">
 <!ENTITY cellHorizontal.label             "A-zremm :">
 <!ENTITY cellHorizontal.accessKey         "z">

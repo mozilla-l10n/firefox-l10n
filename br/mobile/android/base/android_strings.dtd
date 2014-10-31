@@ -503,7 +503,7 @@ diouzh Android">
 
 <!ENTITY updater_downloading_title2 "O pellgargañ &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "C\u0027hwitadenn war ar pellgargadur">
-<!ENTITY updater_downloading_select2 "Stekiñ da seveniñ an hizivadenn ur wech pellgarget">
+<!ENTITY updater_downloading_select2 "Stekiñ da arloañ an hizivadenn ur wech pellgarget">
 <!ENTITY updater_downloading_retry2 "Stekiñ da glask en-dro">
 
 <!ENTITY updater_apply_title2 "Hegerz ez eus un hizivadenn evit  &brandShortName;">

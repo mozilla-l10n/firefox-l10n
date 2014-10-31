@@ -39,7 +39,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 
-<!ENTITY quickFilterBar.sticky.tooltip "Mirout ar siloù sevenet pa zigoran un teuliad all">
+<!ENTITY quickFilterBar.sticky.tooltip "Mirout ar siloù arloet pa zigoran un teuliad all">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.

@@ -319,8 +319,8 @@
 <!ENTITY boldToolbarCmd.tooltip "Tev">
 <!ENTITY italicToolbarCmd.tooltip "Stouet">
 <!ENTITY underlineToolbarCmd.tooltip "Islinennañ">
-<!ENTITY bulletListToolbarCmd.tooltip "Seveniñ pe zilemel ar roll dre badelligoù">
-<!ENTITY numberListToolbarCmd.tooltip "Seveniñ pe lemel kuit ar roll niverennet">
+<!ENTITY bulletListToolbarCmd.tooltip "Arloañ pe zilemel ar roll dre badelligoù">
+<!ENTITY numberListToolbarCmd.tooltip "Arloañ pe lemel kuit ar roll niverennet">
 <!ENTITY outdentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-gleiz)">
 <!ENTITY indentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-zehou)">
 <!ENTITY AlignPopupButton.tooltip "Dibab steudadur an destenn">
