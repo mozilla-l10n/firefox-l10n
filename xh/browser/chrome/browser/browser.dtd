@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "O">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "I-zongezelelo">
+<!ENTITY addons.label                 "zongezelelo">
 <!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "I-Apps">
@@ -755,8 +755,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Iinketho">
 
 
-
-
+<!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
+<!ENTITY trackingContentBlocked.block.accesskey "V">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
 
 <!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
