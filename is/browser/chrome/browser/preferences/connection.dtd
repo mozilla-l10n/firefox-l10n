@@ -36,8 +36,8 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Gátt:">
 <!ENTITY  HTTPport.accesskey            "G">
-
-
+<!ENTITY  SSLport.accesskey             "t">
+<!ENTITY  FTPport.accesskey             "t">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Ekki nota milliþjóna fyrir:">
 <!ENTITY  noproxy.accesskey             "n">
