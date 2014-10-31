@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "&brandShortName; жаңарту">
-
-
-
-
+<!ENTITY refreshProfile.dialog.description1  "Мәселелерді шешу және өнімділікті қалпына келтіру үшін жаңадан бастау.">
+<!ENTITY refreshProfile.dialog.description2  "Нәтижесінде:">
+<!ENTITY refreshProfile.dialog.items.label1  "Кеңейтулер және баптаулар өшіріледі">
+<!ENTITY refreshProfile.dialog.items.label2  "Браузер баптаулары бастапқы мәндеріне тасталады">
 
 
 
