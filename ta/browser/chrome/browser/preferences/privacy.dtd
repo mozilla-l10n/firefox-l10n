@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "நான் கண்காணிக்கப்படுவதை விரும்புகிறேன் என்று அனைத்து வலைதளங்களிடம் கூறவும்">
 <!ENTITY dntTrackingOkay.accesskey      "h">
-
-
-
+<!ENTITY trackingProtection.label       "என்னை தடமறிதலிருந்து தளங்களைத் தடு">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "மேலும் அறிய">
 <!ENTITY doNotTrackInfo.label           "இன்னும் கற்க">
 
 <!ENTITY  history.label                 "வரலாறு">
