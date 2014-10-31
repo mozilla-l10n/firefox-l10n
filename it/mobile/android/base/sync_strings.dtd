@@ -49,7 +49,7 @@
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.button.ok.label "OK">
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecato)">
-<!ENTITY sync.default.client.name '&formatS1; su &formatS2;'>
+<!ENTITY sync.default.client.name "&formatS1; su &formatS2;">
 <!ENTITY bookmarks.folder.menu.label "Menu segnalibri">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etichette">
@@ -72,9 +72,9 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
-<!ENTITY fxaccount_full_label 'Firefox Account'>
-<!ENTITY fxaccount_custom_server_account_title 'Si sta utilizzando un account sul server'>
-<!ENTITY fxaccount_custom_server_sync_title 'Si stanno salvando dati per Sync sul server'>
+<!ENTITY fxaccount_full_label "Firefox Account">
+<!ENTITY fxaccount_custom_server_account_title "Si sta utilizzando un account sul server">
+<!ENTITY fxaccount_custom_server_sync_title "Si stanno salvando dati per Sync sul server">
 <!ENTITY fxaccount_email_hint "Email">
 <!ENTITY fxaccount_password_hint "Password">
 <!ENTITY fxaccount_password_hide "Nascondi">
@@ -116,9 +116,9 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "Impossibile accedere">
 <!ENTITY fxaccount_status_header2 "Firefox Account">
 <!ENTITY fxaccount_status_signed_in_as "Identificato come">
-<!ENTITY fxaccount_status_auth_server 'Server account'>
+<!ENTITY fxaccount_status_auth_server "Server account">
 <!ENTITY fxaccount_status_device_name "Nome dispositivo">
-<!ENTITY fxaccount_status_sync_server 'Server Sync'>
+<!ENTITY fxaccount_status_sync_server "Server Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: attivo">
 <!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
@@ -133,11 +133,11 @@
 <!ENTITY fxaccount_status_legal "Note legali">
 <!ENTITY fxaccount_status_linktos "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_status_linkprivacy "Informativa sulla privacy">
-<!ENTITY fxaccount_status_more 'Altro&ellipsis;'>
-<!ENTITY fxaccount_remove_account_dialog_title 'Rimuovere questo account?'>
-<!ENTITY fxaccount_remove_account_dialog_message 'La sincronizzazione di &brandShortName; per questo account verrà interrotta ma non verrà eliminato alcun dato di navigazione da questo dispositivo.'>
-<!ENTITY fxaccount_remove_account_toast 'Rimosso Firefox Account &formatS;.'>
-<!ENTITY fxaccount_remove_account_menu_item 'Rimuovi account'>
+<!ENTITY fxaccount_status_more "Altro&ellipsis;">
+<!ENTITY fxaccount_remove_account_dialog_title "Rimuovere questo account?">
+<!ENTITY fxaccount_remove_account_dialog_message "La sincronizzazione di &brandShortName; per questo account verrà interrotta ma non verrà eliminato alcun dato di navigazione da questo dispositivo.">
+<!ENTITY fxaccount_remove_account_toast "Rimosso Firefox Account &formatS;.">
+<!ENTITY fxaccount_remove_account_menu_item "Rimuovi account">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configura &syncBrand.shortName.label;">
