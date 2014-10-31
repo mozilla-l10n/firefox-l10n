@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "مرورگر شما در حالت ناشناس است">
 <!ENTITY aboutPrivateBrowsing.title.normal     "پنجره مرورگر ناشناس باز شود؟">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه‌ای را از این پنجره به خاطر نمی‌سپارد.">
-
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; هیچگونه تاریخچه ای را از پنجره های ناشناس به خاطر نمی‌سپارد.">
 
 <!ENTITY aboutPrivateBrowsing.description      "این شامل تاریخچه مرورگر، تاریخچه جست‌وجو، تاریخچه دانلودها، تاریخچه فرمهای وب، کوکی‌ها و فایل‌های موقتی اینترنت است. با این حال، فایل‌هایی را که دانلود می‌کنید و نشانک‌هایی را که می‌سازید برایتان نگه می‌دارد.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "شما در حال حاضر در پنجره‌ی ناشناس قرار ندارید.">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo         "با آن که تاریخچه‌ای از مرور شما در این رایانه ثبت نخواهد شد، اما سرویس‌دهنده‌ی اینترنت یا کارفرمای شما هنوز می‌توانند صفحات وبی را که بازدید می‌کنید ردگیری کنند.">
-
+<!ENTITY aboutPrivateBrowsing.learnMore        "بیشتر بدانید.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره‌ی ناشناس باز کن">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
