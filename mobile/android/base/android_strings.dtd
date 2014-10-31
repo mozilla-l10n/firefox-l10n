@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
 
-<!ENTITY pref_donottrack_menu "Rastreo">
-<!ENTITY pref_donottrack_disallow_tracking "Decirle a los sitios que no quiero ser rastreado">
-<!ENTITY pref_donottrack_allow_tracking "Decirle a los sitios que quiero ser rastreado">
-<!ENTITY pref_donottrack_no_pref "No decirle a los sitios nada sobre mis preferencias de rastreo">
+<!ENTITY pref_donottrack_title "No rastrear">
+<!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
@@ -266,8 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Recibe datos de ubicación mediante Wi-Fi y celular al ejecutarse en segundo plano y lo comparte con &vendorShortName; para mejorar nuestro servicio de geolocalización">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo con &vendorShortName; para mejorar nuestro servicio de geolocalización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -362,8 +359,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
-<!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
-<!ENTITY reading_list_duplicate "Página ya agregada a tu lista de lectura">
+
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Más de una hora">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -387,6 +389,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Agregar un sitio">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Querés limpiar tu historial?">
@@ -396,6 +401,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
 <!ENTITY home_open_all "Abrir todas">
 <!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: usar &formatS1;Nueva pestaña privada&formatS2; no guardará tu historial.">
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
