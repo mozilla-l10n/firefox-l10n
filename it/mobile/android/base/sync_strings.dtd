@@ -101,6 +101,7 @@
 <!ENTITY fxaccount_confirm_account_header "Conferma account">
 <!ENTITY fxaccount_confirm_account_verification_link "Un link di verifica è stato inviato a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reinvia email">
+<!ENTITY fxaccount_confirm_account_change_email "Dimenticato l’indirizzo email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email di verifica inviata">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Impossibile inviare l’email di verifica">
 <!ENTITY fxaccount_sign_in_sub_header "Accedi">
