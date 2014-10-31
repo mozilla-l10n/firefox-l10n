@@ -2,220 +2,220 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Don't localize these. They're here until they have
+<!-- Don"t localize these. They"re here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Lidhu me &syncBrand.shortName.label;-un'>
-<!ENTITY sync.title.adddevice.label 'Krijoni një Llogari &syncBrand.fullName.label;-u'>
-<!ENTITY sync.title.pair.label 'Çiftoni një Pajisje'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Lidhu me &syncBrand.shortName.label;-un">
+<!ENTITY sync.title.adddevice.label "Krijoni një Llogari &syncBrand.fullName.label;-u">
+<!ENTITY sync.title.pair.label "Çiftoni një Pajisje">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”.'>
-<!ENTITY sync.subtitle.header2.label 'Jepeni këtë kod te pajisja juaj tjetër'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Përzgjidhni “&sync.title.pair.label;” te ndarja &syncBrand.shortName.label; e mundësive të Firefox-it në pajisjen tuaj tjetër.'>
-<!ENTITY sync.subtitle.pair.label 'Që ta aktivizoni, përzgjidhni te pajisja juaj tjetër “Çiftoni një pajisje”.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Tregomëni se si.'>
-<!ENTITY sync.link.advancedsetup.label 'Rregullim i thelluar…'>
-<!ENTITY sync.link.nodevice.label 'Nuk e kam me vete pajisjen…'>
+<!ENTITY sync.subtitle.connect.label "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”.">
+<!ENTITY sync.subtitle.header2.label "Jepeni këtë kod te pajisja juaj tjetër">
+<!ENTITY sync.subtitle.connectlocation2.label "Përzgjidhni “&sync.title.pair.label;” te ndarja &syncBrand.shortName.label; e mundësive të Firefox-it në pajisjen tuaj tjetër.">
+<!ENTITY sync.subtitle.pair.label "Që ta aktivizoni, përzgjidhni te pajisja juaj tjetër “Çiftoni një pajisje”.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Tregomëni se si.">
+<!ENTITY sync.link.advancedsetup.label "Rregullim i thelluar…">
+<!ENTITY sync.link.nodevice.label "Nuk e kam me vete pajisjen…">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Po pritet për pajisje tjetër…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Po pritet për pajisje tjetër…">
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Jepni të dhënat e llogarisë suaj &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Emër Llogarie'>
-<!ENTITY sync.input.password.label 'Fjalëkalim'>
-<!ENTITY sync.input.key.label 'Kyç Rimarrjeje'>
-<!ENTITY sync.checkbox.server.label 'Përdorni shërbyes tuajin'>
-<!ENTITY sync.input.server.label 'URL Shërbyesi'>
+<!ENTITY sync.subtitle.account.label "Jepni të dhënat e llogarisë suaj &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Emër Llogarie">
+<!ENTITY sync.input.password.label "Fjalëkalim">
+<!ENTITY sync.input.key.label "Kyç Rimarrjeje">
+<!ENTITY sync.checkbox.server.label "Përdorni shërbyes tuajin">
+<!ENTITY sync.input.server.label "URL Shërbyesi">
 
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Nuk Rregullon Dot &syncBrand.shortName.label;-un'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label;-u nuk u lidh dot te shërbyesi. Doni të riprovohet?'>
-<!ENTITY sync.button.tryagain.label 'Riprovo'>
-<!ENTITY sync.button.manual.label 'Rregullim Dorazi'>
-<!ENTITY sync.subtitle.nointernet.label 'Nuk u kap lidhje interneti aktive.'>
-<!ENTITY sync.subtitle.failaccount.label 'Krijimi i llogarisë në pajisjen tuaj dështoi.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Keni më shumë se një Firefox të instaluar? Hëpërhë, &syncBrand.fullName.label;-u mbulon vetëm një instalim Firefox-i në herë. Ju lutemi, që të përdorni &syncBrand.shortName.label;-un çinstaloni instancat e tjera.'>
+<!ENTITY sync.title.fail.label "Nuk Rregullon Dot &syncBrand.shortName.label;-un">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;-u nuk u lidh dot te shërbyesi. Doni të riprovohet?">
+<!ENTITY sync.button.tryagain.label "Riprovo">
+<!ENTITY sync.button.manual.label "Rregullim Dorazi">
+<!ENTITY sync.subtitle.nointernet.label "Nuk u kap lidhje interneti aktive.">
+<!ENTITY sync.subtitle.failaccount.label "Krijimi i llogarisë në pajisjen tuaj dështoi.">
+<!ENTITY sync.subtitle.failmultiple.label "Keni më shumë se një Firefox të instaluar? Hëpërhë, &syncBrand.fullName.label;-u mbulon vetëm një instalim Firefox-i në herë. Ju lutemi, që të përdorni &syncBrand.shortName.label;-un çinstaloni instancat e tjera.">
 
 
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Rregullim i Plotësuar'>
-<!ENTITY sync.subtitle.success.label1 'Të dhënat tuaja tani po shkarkohen në prapaskenë. Për të administruar llogarinë tuaj mund të shkoni te Rregullimet, ose filloni të shfletoni me with &brandShortName;-un.'>
-<!ENTITY sync.settings.label 'Rregullime'>
-<!ENTITY sync.subtitle.manage.label1 'Llogaria juaj &syncBrand.fullName.label; është e rregulluar tashmë. Kaloni te Rregullimet që të administroni llogarinë tuaj, ose nisni &brandShortName;-un.'>
+<!ENTITY sync.title.success.label "Rregullim i Plotësuar">
+<!ENTITY sync.subtitle.success.label1 "Të dhënat tuaja tani po shkarkohen në prapaskenë. Për të administruar llogarinë tuaj mund të shkoni te Rregullimet, ose filloni të shfletoni me with &brandShortName;-un.">
+<!ENTITY sync.settings.label "Rregullime">
+<!ENTITY sync.subtitle.manage.label1 "Llogaria juaj &syncBrand.fullName.label; është e rregulluar tashmë. Kaloni te Rregullimet që të administroni llogarinë tuaj, ose nisni &brandShortName;-un.">
 
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Ju lutemi, riprovoni.'>
-<!ENTITY sync.pair.connectlocation.label 'Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”, dhe mandej përzgjidhni “Kam një Llogari.”'>
+<!ENTITY sync.pair.tryagain.label "Ju lutemi, riprovoni.">
+<!ENTITY sync.pair.connectlocation.label "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”, dhe mandej përzgjidhni “Kam një Llogari.”">
 
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Mundësi'>
-<!ENTITY sync.summary.pair.label 'Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër'>
+<!ENTITY sync.settings.options.label "Mundësi">
+<!ENTITY sync.summary.pair.label "Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër">
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Ç\u0027të njëkohësohet'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Njëkohësoni…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Faqerojtësit tuaj'>
-<!ENTITY sync.configure.engines.title.passwords 'Fjalëkalimet tuaja'>
-<!ENTITY sync.configure.engines.title.history 'Historikun tuaj'>
-<!ENTITY sync.configure.engines.title.tabs 'Skedat tuaja'>
+<!ENTITY sync.configure.engines.title.label "Ç&apos;të njëkohësohet">
+<!ENTITY sync.configure.engines.sync.my.title.label "Njëkohësoni…">
+<!ENTITY sync.configure.engines.title.bookmarks "Faqerojtësit tuaj">
+<!ENTITY sync.configure.engines.title.passwords "Fjalëkalimet tuaja">
+<!ENTITY sync.configure.engines.title.history "Historikun tuaj">
+<!ENTITY sync.configure.engines.title.tabs "Skedat tuaja">
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Anuloje'>
-<!ENTITY sync.button.connect.label 'Lidhu'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label "Anuloje">
+<!ENTITY sync.button.connect.label "Lidhu">
+<!ENTITY sync.button.ok.label "OK">
 
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (e vjetruar)'>
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (e vjetruar)">
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Menu Faqerojtësish'>
-<!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Etiketa'>
-<!ENTITY bookmarks.folder.toolbar.label 'Panel Faqerojtësish'>
-<!ENTITY bookmarks.folder.unfiled.label 'Faqerojtës të Parenditur'>
-<!ENTITY bookmarks.folder.desktop.label 'Faqerojtës Desktopi'>
-<!ENTITY bookmarks.folder.mobile.label 'Faqerojtës Celulari'>
-<!ENTITY bookmarks.folder.readinglist.label 'Listë Leximesh'>
+<!ENTITY bookmarks.folder.menu.label "Menu Faqerojtësish">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Etiketa">
+<!ENTITY bookmarks.folder.toolbar.label "Panel Faqerojtësish">
+<!ENTITY bookmarks.folder.unfiled.label "Faqerojtës të Parenditur">
+<!ENTITY bookmarks.folder.desktop.label "Faqerojtës Desktopi">
+<!ENTITY bookmarks.folder.mobile.label "Faqerojtës Celulari">
+<!ENTITY bookmarks.folder.readinglist.label "Listë Leximesh">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Të fiksuar'>
+<!ENTITY bookmarks.folder.pinned.label "Të fiksuar">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Mbulohet vetëm një llogari &syncBrand.fullName.label;..'>
-<!ENTITY sync.notification.configure.saved 'Përzgjedhjet tuaja u ruajtën.'>
+<!ENTITY sync.notification.oneaccount.label "Mbulohet vetëm një llogari &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.configure.saved "Përzgjedhjet tuaja u ruajtën.">
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Emër ose fjalëkalim llogarie i pasaktë.'>
-<!ENTITY sync.invalidserver.label 'Ju lutemi, jepni një URL të vlefshme shërbyesi'>
-<!ENTITY sync.verifying.label 'Po verifikohet…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Kyç i pasaktë Riparimi. Ju lutemi, riprovoni.'>
+<!ENTITY sync.invalidcreds.label "Emër ose fjalëkalim llogarie i pasaktë.">
+<!ENTITY sync.invalidserver.label "Ju lutemi, jepni një URL të vlefshme shërbyesi">
+<!ENTITY sync.verifying.label "Po verifikohet…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Kyç i pasaktë Riparimi. Ju lutemi, riprovoni.">
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Dërgojeni Skedën Te Pajisjet'>
-<!ENTITY sync.button.send.label 'Dërgoje'>
-<!ENTITY sync.button.set.up.sync.label 'Rregulloni &syncBrand.shortName.label;-un'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Rregullojeni &syncBrand.shortName.label;-un që të dërgojë skeda'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Rregullojeni &syncBrand.fullName.label;-un në pajisjen tuaj të dërgojë skeda në pajisjet e tjera.'>
-<!ENTITY sync.text.tab.sent.label 'Skeda juaj u dërgua!'>
-<!ENTITY sync.text.tab.not.sent.label 'Pati një gabim gjatë dërgimit të skedës suaj.'>
+<!ENTITY sync.title.send.tab.label "Dërgojeni Skedën Te Pajisjet">
+<!ENTITY sync.button.send.label "Dërgoje">
+<!ENTITY sync.button.set.up.sync.label "Rregulloni &syncBrand.shortName.label;-un">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Rregullojeni &syncBrand.shortName.label;-un që të dërgojë skeda">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Rregullojeni &syncBrand.fullName.label;-un në pajisjen tuaj të dërgojë skeda në pajisjet e tjera.">
+<!ENTITY sync.text.tab.sent.label "Skeda juaj u dërgua!">
+<!ENTITY sync.text.tab.not.sent.label "Pati një gabim gjatë dërgimit të skedës suaj.">
 
 <!-- Firefox account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-<!ENTITY fxaccount_email_hint 'Email'>
-<!ENTITY fxaccount_password_hint 'Fjalëkalim'>
-<!ENTITY fxaccount_password_hide 'Fshihe'>
-<!ENTITY fxaccount_password_show 'Shfaqe'>
+<!ENTITY fxaccount_email_hint "Email">
+<!ENTITY fxaccount_password_hint "Fjalëkalim">
+<!ENTITY fxaccount_password_hide "Fshihe">
+<!ENTITY fxaccount_password_show "Shfaqe">
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Mbrapsht në shfletim'>
+<!ENTITY fxaccount_back_to_browsing "Mbrapsht në shfletim">
 
-<!ENTITY fxaccount_policy_linktos 'Kushte Shërbimi'>
-<!ENTITY fxaccount_policy_linkprivacy 'Shënim Privatësie'>
+<!ENTITY fxaccount_policy_linktos "Kushte Shërbimi">
+<!ENTITY fxaccount_policy_linkprivacy "Shënim Privatësie">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Mirë se vini te &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Bëni hyrjen që të njëkohësoni skedat, faqerojtësit, fjalëkalimet tuaja &amp; etj.'>
-<!ENTITY fxaccount_getting_started_get_started 'Fillojani'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Po përdorni një version të vjetër të &syncBrand.shortName.label;-it'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Mirë se vini te &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Bëni hyrjen që të njëkohësoni skedat, faqerojtësit, fjalëkalimet tuaja &amp; etj.">
+<!ENTITY fxaccount_getting_started_get_started "Fillojani">
+<!ENTITY fxaccount_getting_started_old_firefox "Po përdorni një version të vjetër të &syncBrand.shortName.label;-it">
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header2 'Krijoni një Llogari Firefox'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Duhet të jetë e pakta 8 shenja'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Viti i lindjes'>
+<!ENTITY fxaccount_create_account_header2 "Krijoni një Llogari Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "Duhet të jetë e pakta 8 shenja">
+<!ENTITY fxaccount_create_account_year_of_birth "Viti i lindjes">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në re.'>
-<!ENTITY fxaccount_create_account_button 'Pasuesi'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zgjidhni ç\u0027utë njëkohësohen'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Keni tashmë një llogari? Hyni në të'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 ose më herët'>
-<!ENTITY fxaccount_create_account_unknown_error 'Nuk u krijua dot llogari'>
+<!ENTITY fxaccount_create_account_policy_text2 "Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në re.">
+<!ENTITY fxaccount_create_account_button "Pasuesi">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Zgjidhni ç&apos;të njëkohësohen">
+<!ENTITY fxaccount_create_account_sign_in_instead "Keni tashmë një llogari? Hyni në të">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 ose më herët">
+<!ENTITY fxaccount_create_account_unknown_error "Nuk u krijua dot llogari">
 
-<!ENTITY fxaccount_account_create_not_allowed 'Nuk krijohet dot llogari'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Duhet të plotësoni disa domosdoshmëri, që të krijoni një llogari.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Mësoni më tepër'>
+<!ENTITY fxaccount_account_create_not_allowed "Nuk krijohet dot llogari">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Duhet të plotësoni disa domosdoshmëri, që të krijoni një llogari.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Mësoni më tepër">
 
-<!ENTITY fxaccount_confirm_account_header 'Ripohoni llogarinë tuaj'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Një lidhje verifikimi u dërgua te &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Ridërgoje email-in'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Email-i i verifikimit u dërgua'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'S\u0027u dërgua dot email-i i verifikimit'>
+<!ENTITY fxaccount_confirm_account_header "Ripohoni llogarinë tuaj">
+<!-- Localization note: &formatS; is the Firefox account"s email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Një lidhje verifikimi u dërgua te &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Ridërgoje email-in">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email-i i verifikimit u dërgua">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S&apos;u dërgua dot email-i i verifikimit">
 
-<!ENTITY fxaccount_sign_in_sub_header 'Hyni'>
-<!ENTITY fxaccount_sign_in_button_label 'Hyni'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Harruat fjalëkalimin?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Krijoni një llogari'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Nuk u bë dot hyrja'>
+<!ENTITY fxaccount_sign_in_sub_header "Hyni">
+<!ENTITY fxaccount_sign_in_button_label "Hyni">
+<!ENTITY fxaccount_sign_in_forgot_password "Harruat fjalëkalimin?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Krijoni një llogari">
+<!ENTITY fxaccount_sign_in_unknown_error "S&apos;u bë dot hyrja">
 
-<!ENTITY fxaccount_account_verified_sub_header 'Llogaria u verifikua'>
-<!ENTITY fxaccount_account_verified_description2 'Njëkohësimi i të dhënave tuaja do të fillojë në çast.'>
+<!ENTITY fxaccount_account_verified_sub_header "Llogaria u verifikua">
+<!ENTITY fxaccount_account_verified_description2 "Njëkohësimi i të dhënave tuaja do të fillojë në çast.">
 
-<!ENTITY fxaccount_update_credentials_header 'Hyni'>
-<!ENTITY fxaccount_update_credentials_button_label 'Hyni'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Nuk u bë dot hyrja'>
+<!ENTITY fxaccount_update_credentials_header "Hyni">
+<!ENTITY fxaccount_update_credentials_button_label "Hyni">
+<!ENTITY fxaccount_update_credentials_unknown_error "Nuk u bë dot hyrja">
 
-<!ENTITY fxaccount_status_header2 'Llogari Firefox'>
-<!ENTITY fxaccount_status_signed_in_as 'I futur si'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: i aktivizuar'>
-<!ENTITY fxaccount_status_needs_verification2 'Llogaria juaj duhet verifikuar. Prekeni që të ridërgohet email-i i verifikimit.'>
-<!ENTITY fxaccount_status_needs_credentials 'Nuk lidhet dot. Prekeni që të hyni.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Lypset të përmirësoni &brandShortName;-un që të hyni.'>
-<!ENTITY fxaccount_status_bookmarks 'Faqerojtës'>
-<!ENTITY fxaccount_status_history 'Historik'>
-<!ENTITY fxaccount_status_passwords 'Fjalëkalime'>
-<!ENTITY fxaccount_status_tabs 'Skeda të hapura'>
-<!ENTITY fxaccount_status_legal 'Ligjore' >
+<!ENTITY fxaccount_status_header2 "Llogari Firefox">
+<!ENTITY fxaccount_status_signed_in_as "I futur si">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: i aktivizuar">
+<!ENTITY fxaccount_status_needs_verification2 "Llogaria juaj duhet verifikuar. Prekeni që të ridërgohet email-i i verifikimit.">
+<!ENTITY fxaccount_status_needs_credentials "Nuk lidhet dot. Prekeni që të hyni.">
+<!ENTITY fxaccount_status_needs_upgrade "Lypset të përmirësoni &brandShortName;-un që të hyni.">
+<!ENTITY fxaccount_status_bookmarks "Faqerojtës">
+<!ENTITY fxaccount_status_history "Historik">
+<!ENTITY fxaccount_status_passwords "Fjalëkalime">
+<!ENTITY fxaccount_status_tabs "Skeda të hapura">
+<!ENTITY fxaccount_status_legal "Ligjore" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Kushte Shërbimi'>
-<!ENTITY fxaccount_status_linkprivacy 'Shënim Privatësie'>
+<!ENTITY fxaccount_status_linktos "Kushte Shërbimi">
+<!ENTITY fxaccount_status_linkprivacy "Shënim Privatësie">
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label 'Firefox'>
+     itself for a Firefox account. Don"t localize this. -->
+<!ENTITY fxaccount_account_type_label "Firefox">
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
-<!ENTITY fxaccount_options_title 'Mundësi &syncBrand.shortName.label;-u'>
-<!ENTITY fxaccount_options_configure_title 'Formësoni &syncBrand.shortName.label;-un'>
+<!ENTITY fxaccount_options_title "Mundësi &syncBrand.shortName.label;-u">
+<!ENTITY fxaccount_options_configure_title "Formësoni &syncBrand.shortName.label;-un">
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Lypset të përmirësoni Firefox-in'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Lypset të përmirësoni Firefox-in">
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Llogaria ekziston tashmë. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email ose fjalëkalim i pavlefshëm'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email ose fjalëkalim i pavlefshëm'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Llogaria nuk është verifikuar'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Shërbyes i zënë, riprovoni së shpejti'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Shërbyes i zënë, riprovoni së shpejti'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Pati një problem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nuk lidhet dot në rrjet'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Llogaria ekziston tashmë. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email ose fjalëkalim i pavlefshëm">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email ose fjalëkalim i pavlefshëm">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Llogaria nuk është verifikuar">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Shërbyes i zënë, riprovoni së shpejti">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Shërbyes i zënë, riprovoni së shpejti">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Pati një problem">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nuk lidhet dot në rrjet">
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-u nuk është i lidhur'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label;-u nuk është i lidhur">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Prekeni që të hyni si &formatS;'>
+     with the Firefox account"s email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Prekeni që të hyni si &formatS;">

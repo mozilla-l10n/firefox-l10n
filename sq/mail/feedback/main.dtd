@@ -19,7 +19,7 @@
 <!ENTITY testpilot.studiesWindow.title                  "Studimet Tuaja Në Kuadrin e Testit Pilot">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Studime të Tanishme">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studime të Përfunduara">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ç'Panë Studimet">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ç&apos;Panë Studimet">
 <!ENTITY testpilot.studiesWindow.settings.label         "Rregullime">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutemi, prisni…">
 
