@@ -26,9 +26,16 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "உடனே பொலாம்!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "வெற்றி!">
 
+<!ENTITY welcomeback2.pageTitle     "வெற்றி!">
+<!ENTITY welcomeback2.pageInfo1     "போவதற்கு &brandShortName; தயார்.">
 
+<!ENTITY welcomeback2.label.restoreAll  "அனைத்து சாளரங்களையும் கீற்றுகளையும் மீட்டமை">
+<!ENTITY welcomeback2.label.restoreSome "உங்களுக்கு வேண்டியதை மட்டும் மீட்டமை">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -37,3 +44,4 @@ their language.
 -->
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "நீங்கள் வேற என்ன செய்ய முடியும் என்பது பற்றி மேலும் அறிய.">
