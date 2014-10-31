@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "Amatyala">
 <!ENTITY aboutPage.license.label                "Inkcazelo yonikezelo lwephepha-mvume">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "I-Firefox neelogo ze-Firefox ziimpawu zomenzi we-Mozilla Foundation.">

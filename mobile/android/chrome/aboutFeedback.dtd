@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "Tyelela eyethu">
+<!ENTITY support.link2             "Xhasa isayithi">
+<!ENTITY support.post3             "  ukufumana iimpendulo zemiba eqhelekileyo">
 
 <!ENTITY happy.header              "Kuhle ukuva ngoko!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Mhlawumbi kamva">
 <!ENTITY happy.noThanks            "Hayi, enkosi">
 
+<!ENTITY sad.header                "Oh hayi!">
 <!ENTITY sad.message               "Siyaxolisa ngokuba ube neengxaki nge-&brandShortName;. Sixelele okwenzekileyo ukuze sibe nokukulungisa.">
 <!ENTITY sad.placeholder           "Faka ingxelo yakho apha">
-
+<!ENTITY sad.lastSite2             "Dibanisa isayithi yokugqibela etyelelweyo">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "Enkosi.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
