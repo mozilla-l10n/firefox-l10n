@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Inte nu">
 
-
+<!ENTITY social.directory.text "Du kan aktivera Dela tjänster från katalogen.">
 <!ENTITY social.directory.button "Ta mig dit!">
 <!ENTITY social.directory.introText "Klicka på en tjänst för att lägga till den till &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Visa Mer">
