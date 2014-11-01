@@ -390,6 +390,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ajouter un site">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Accueil de &brandShortName;">
 <!ENTITY home_history_title "Historique">
 <!ENTITY home_clear_history_button "Effacer l\u0027historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
