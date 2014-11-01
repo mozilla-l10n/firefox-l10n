@@ -251,9 +251,7 @@
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
-<!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
-<!ENTITY reading_list_duplicate "Страница уже в вашем Списке для чтения">
-<!ENTITY reading_list_time_minutes "&formatD;мин">
+<!ENTITY reading_list_time_minutes2 "&formatD; мин">
 <!ENTITY reading_list_time_over_an_hour "Более часа">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
@@ -269,6 +267,7 @@
 <!ENTITY button_clear "Очистить">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
+<!ENTITY home_title "Дом &brandShortName;">
 <!ENTITY home_history_title "История">
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
@@ -278,7 +277,7 @@
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
 <!ENTITY home_open_all "Открыть все">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
-<!ENTITY home_most_recent_emptyhint "Псс: В режиме &formatS1;Приватного просмотра&formatS2; ваша история сохраняться не будет.">
+<!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
 <!ENTITY home_reading_list_hint2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в строке заголовка.">
 <!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
