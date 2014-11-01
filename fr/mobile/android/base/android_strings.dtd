@@ -330,11 +330,11 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 <!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
-<!ENTITY contextmenu_site_settings "Modifier paramètres de site">
+<!ENTITY contextmenu_site_settings "Modifier param. de site">
 <!ENTITY contextmenu_top_sites_edit "Modifier">
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
 <!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
-<!ENTITY contextmenu_add_search_engine "Ajouter moteur de recherche">
+<!ENTITY contextmenu_add_search_engine "Ajouter moteur recherche">
 
 <!ENTITY pref_titlebar_mode "Barre de titre">
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
