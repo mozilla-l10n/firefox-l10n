@@ -366,12 +366,6 @@ size. -->
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
 <!ENTITY reading_list_duplicate "Page déjà dans votre liste de lecture">
 
-<!-- Localization note (reading_list_time_minutes) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Plus d\u0027une heure">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Actions supplémentaires">
