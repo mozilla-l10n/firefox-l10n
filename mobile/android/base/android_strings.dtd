@@ -173,10 +173,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
-<!ENTITY pref_donottrack_menu "Pistage">
-<!ENTITY pref_donottrack_disallow_tracking "Indiquer aux sites que je ne souhaite pas être pisté">
-<!ENTITY pref_donottrack_allow_tracking "Indiquer aux sites que je souhaite être pisté">
-<!ENTITY pref_donottrack_no_pref "Ne rien indiquer aux sites concernant mes préférences de pistage">
+<!ENTITY pref_donottrack_title "Ne pas me pister">
+<!ENTITY pref_donottrack_summary "&brandShortName; indiquera aux sites que vous ne souhaitez pas être pisté">
 
 <!ENTITY pref_char_encoding "Encodage de caractères">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
