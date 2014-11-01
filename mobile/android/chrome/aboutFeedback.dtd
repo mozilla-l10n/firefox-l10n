@@ -30,7 +30,7 @@
 <!ENTITY sad.lastSite2             "Inclure le dernier site visité">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Merci de nous en avoir informé.">
+<!ENTITY sad.thanksHeader2         "Merci de nous en avoir informé.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
      strings will appear as separate paragraphs but make up one message. -->
