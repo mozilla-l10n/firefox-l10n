@@ -790,7 +790,7 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY panicButton.view.deleteCookies           "Borrarán <html:strong>cookies</html:strong> recientes">
 <!ENTITY panicButton.view.deleteHistory           "Borrará <html:strong>historial</html:strong> reciente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Cerrarán todas las <html:strong>pestañas</html:strong> y <html:strong>ventanas</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Abrir una nueva ventana limpia">
+<!ENTITY panicButton.view.openNewWindow           "Abrirá una nueva ventana limpia">
 
 <!ENTITY panicButton.view.undoWarning             "Esta acción no puede deshacerse.">
 <!ENTITY panicButton.view.forgetButton            "¡Olvidar!">
