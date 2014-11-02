@@ -405,6 +405,10 @@ size. -->
 
 <!ENTITY home_remote_tabs_title "Gesynchroniseerde tabbbladen">
 <!ENTITY home_remote_tabs_empty "Uw tabbladen van andere apparaten verschijnen hier.">
+<!ENTITY home_remote_tabs_unable_to_connect "Kan geen verbinding maken">
+<!ENTITY home_remote_tabs_need_to_sign_in "Meld u aan om uw Firefox-account opnieuw te verbinden en door te gaan met synchroniseren.">
+<!ENTITY home_remote_tabs_trouble_verifying "Probleem om us account te verifiëren?">
+<!ENTITY home_remote_tabs_need_to_verify "Controleer uw Firefox-account om synchroniseren te starten.">
 
 <!ENTITY private_browsing_title "Privénavigatie">
 <!ENTITY private_tabs_panel_empty_desc "Hier zullen uw privétabbladen verschijnen. Hoewel we geen navigatiegeschiedenis of cookies bewaren, worden bladwijzers en bestanden die u downloadt wel op uw apparaat opgeslagen.">
