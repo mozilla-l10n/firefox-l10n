@@ -438,6 +438,10 @@ size. -->
 <!ENTITY private_tabs_panel_empty_desc "Hier zullen uw privétabbladen verschijnen. Hoewel we geen navigatiegeschiedenis of cookies bewaren, worden bladwijzers en bestanden die u downloadt wel op uw apparaat opgeslagen.">
 <!ENTITY private_tabs_panel_learn_more "Wilt u meer info?">
 
+<!ENTITY remote_tabs_panel_moved_title "Waar zijn mijn tabbalden gebleven?">
+<!ENTITY remote_tabs_panel_moved_desc "We hebben uw tabbalden van andere apparaten verplaatst naar een makkelijk bereikbaar paneel op uw startpagina elke keer als u een nieuw tabblad opent.">
+<!ENTITY remote_tabs_panel_moved_link "Breng me naar mijn nieuwe paneel.">
+
 <!ENTITY pin_site_dialog_hint "Voer een zoekterm in">
 
 <!ENTITY filepicker_title "Bestand kiezen">
