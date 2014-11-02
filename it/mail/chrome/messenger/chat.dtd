@@ -7,7 +7,7 @@
 <!ENTITY conversationsHeader.label "Conversazioni">
 <!ENTITY searchResultConversation.label "Risultati ricerca">
 <!ENTITY chat.noConv.title "Le conversazioni saranno mostrate qui.">
-<!ENTITY chat.noConv.description "Usare la lista contatti sulla sinistra per iniziare una conversazione.">
+<!ENTITY chat.noConv.description "Utilizzare la lista contatti sulla sinistra per iniziare una conversazione.">
 <!ENTITY chat.noPreviousConv.description "&brandShortName; non ha salvato alcuna conversazione precedente con questo contatto.">
 <!ENTITY chat.noAccount.title "Nessun account di chat configurato.">
 <!ENTITY chat.noAccount.description "Consenti a &brandShortName; di guidarti attraverso la configurazione del tuo account di chat.">
@@ -36,4 +36,3 @@
 <!ENTITY status.offline "Non in linea">
 <!ENTITY openLinkCmd.label "Apri link…">
 <!ENTITY openLinkCmd.accesskey "A">
-
