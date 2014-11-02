@@ -100,6 +100,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bladwijzer maken">
 <!ENTITY overlay_share_reading_list_btn_label "Toevoegen aan leeslijst">
+<!ENTITY overlay_share_bookmark_btn_label_already "al een bladwijzer van gemaakt">
+<!ENTITY overlay_share_reading_list_btn_label_already "Al in leeslijst">
 <!ENTITY overlay_share_send_other "Verzenden naar andere apparaten">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
