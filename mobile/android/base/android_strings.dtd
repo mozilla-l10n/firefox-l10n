@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Instellingen">
 <!ENTITY pref_category_advanced "Geavanceerd">
 <!ENTITY pref_category_customize "Aanpassen">
+<!ENTITY pref_category_customize_summary "Start, zoeken, tabbladen, importeren">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Taal">
+<!ENTITY pref_category_language_summary "Verander de taal van uw browser">
 <!ENTITY pref_browser_locale "Browsertaal">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -116,8 +118,11 @@
 <!ENTITY pref_category_search3 "Zoeken">
 <!ENTITY pref_category_search_summary "Uw zoekproviders aanpassen">
 <!ENTITY pref_category_display "Weergave">
+<!ENTITY pref_category_display_summary "Tekst, titelbalk, volledigschermnavigatie">
 <!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_privacy_summary "wachtwoorden beheren, cookies, tracking, gegevens">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Over &brandShortName;, FAQs, gegevenskeuzes">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_learn_more "Meer info">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
@@ -132,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden en daarna op het pictogram &formatI; te tikken.">
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
+<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
@@ -207,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synchroniseer uw tabbladen, bladwijzers, wachtwoorden, geschiedenis">
 <!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 <!ENTITY pref_import_android "Importeren uit Android">
+<!ENTITY pref_import_android_summary "Bladwijzers en geschiedenis importeren vanuit de native browser">
 <!ENTITY pref_private_data_history2 "Navigatiegeschiedenis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; actieve aanmeldingen">
