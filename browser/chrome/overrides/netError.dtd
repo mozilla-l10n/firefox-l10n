@@ -181,5 +181,14 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.title "Nahlásiť túto chybu">
+<!ENTITY errorReporting.longDesc "Nahlásením adresy a informácií o certifikáte pre <span id='hostname'></span> nám pomôžete identifikovať a zablokovať podvodné stránky. Ďakujeme, že pomáhate vytvárať bezpečnejsí web!">
+<!ENTITY errorReporting.automatic "V budúcnosti automaticky nahlasovať chyby">
+<!ENTITY errorReporting.learnMore "Ďalšie informácie…">
+<!ENTITY errorReporting.sending "Hlásenie sa odosiela">
+<!ENTITY errorReporting.sent "Hlásenie odoslané">
+<!ENTITY errorReporting.report "Nahlásiť">
+<!ENTITY errorReporting.tryAgain "Skúsiť znova">
+
 <!ENTITY remoteXUL.title "Vzdialené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
