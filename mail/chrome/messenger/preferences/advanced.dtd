@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "u">
 <!ENTITY certs.ask                       "Megerősítés minden alkalommal">
 <!ENTITY certs.ask.accesskey             "M">
+<!ENTITY enableOCSP.label                "Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez">
+<!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
-<!ENTITY validation.label               "Érvényesítés">
-<!ENTITY validation.accesskey           "r">
 <!ENTITY viewSecurityDevices.label      "Adatvédelmi eszközök">
-<!ENTITY viewSecurityDevices.accesskey  "d">
+<!ENTITY viewSecurityDevices.accesskey  "D">
