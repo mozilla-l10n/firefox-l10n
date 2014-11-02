@@ -74,6 +74,13 @@
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (elavult)'>
 
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; ezen: &formatS2;'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Könyvjelzők menü'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -196,6 +203,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Felhasználási feltételek'>
 <!ENTITY fxaccount_status_linkprivacy 'Adatvédelmi megjegyzések'>
+<!ENTITY fxaccount_status_more 'Több&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Eltávolítja a Firefox fiókot?'>
+<!ENTITY fxaccount_remove_account_dialog_message 'A &brandShortName; befejezi a szinkronizálást a fiókjával, de nem fog böngészési adatokat törölni erről az eszközről.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast '&formatS; Firefox fiók eltávolítva.'>
+
+<!ENTITY fxaccount_remove_account_menu_item 'Fiók eltávolítása'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
