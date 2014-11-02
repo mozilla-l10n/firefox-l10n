@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Hírforrások">
-<!ENTITY subscriptionDesc.label      "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
+<!ENTITY learnMore.label             "További tudnivalók a Hírforrásokról">
 
 <!ENTITY feedTitle.label             "Cím:">
 <!ENTITY feedTitle.accesskey         "C">
