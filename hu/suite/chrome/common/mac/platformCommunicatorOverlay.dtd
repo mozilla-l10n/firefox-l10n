@@ -25,8 +25,8 @@
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label                 "Bezárás">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Bezárás">
+<!ENTITY closeCmd.key                   "W">
 
 <!ENTITY printSetupCmd.label            "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey        "O">
@@ -39,10 +39,11 @@
 <!ENTITY toggleFolderPaneCmd.key        "S">
 <!ENTITY toggleDirectoryPaneCmd.key     "S">
 
-<!ENTITY historyCmd.key                 "H">  
+<!ENTITY historyCmd.key                 "H">
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">
+<!ENTITY findReplaceCmd.key             "H">
 
 <!ENTITY accel.emacs_conflict           "accel">
 
