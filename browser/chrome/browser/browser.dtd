@@ -235,11 +235,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "E">
 
 <!ENTITY responsiveDesignTool.label   "Alkalmazkodó megjelenés nézet">
-<!ENTITY responsiveDesignTool.accesskey "m">
+<!ENTITY responsiveDesignTool.accesskey "A">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Pipetta">
-<!ENTITY eyedropper.accesskey "a">
+<!ENTITY eyedropper.accesskey "P">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
