@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Увійти в &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Перепідключитись до &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; увімкнено">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; увімкнена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; почне синхронізацію негайно.">
 <!ENTITY syncErrorPanel.heading "Неможливо під’єднатись до &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Увійдіть щоб відновити синхронізацію.">
