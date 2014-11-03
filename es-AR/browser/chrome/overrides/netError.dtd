@@ -192,6 +192,15 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.title "Informar este error">
+<!ENTITY errorReporting.longDesc "Informar la dirección y la información de certificado para <span id='hostname'></span> nos ayudará a identificar y bloquear sitios maliciosos. ¡Gracias por ayudarnos a crear una web más segura!">
+<!ENTITY errorReporting.automatic "Informar errores automáticamente en el futuro">
+<!ENTITY errorReporting.learnMore "Conocer más…">
+<!ENTITY errorReporting.sending "Enviando informe">
+<!ENTITY errorReporting.sent "Informe enviado">
+<!ENTITY errorReporting.report "Informar">
+<!ENTITY errorReporting.tryAgain "Intentar nuevamente">
+
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños de sitio web para informarles de este problema.</li></ul></p>">
 
