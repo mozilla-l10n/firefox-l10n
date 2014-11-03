@@ -12,6 +12,7 @@
   Telemetria jest <span>wyłączona</span>.
 ">
 
+<!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Powolne polecenia SQL
 ">
