@@ -32,6 +32,10 @@
   Histogramas
 ">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Histogramas con clave
+">
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medidas simples
 ">
