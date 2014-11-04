@@ -49,16 +49,18 @@
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "a">
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 
-
+<!ENTITY projectPanel_myProjects "Projelerim">
+<!ENTITY projectPanel_runtimeApps "Çalışma zamanı uygulamaları">
 <!ENTITY projectPanel_tabs "Sekmeler">
-
-
-
+<!ENTITY runtimePanel_USBDevices "USB aygıtları">
+<!ENTITY runtimePanel_WiFiDevices "Wi-Fi aygıtları">
+<!ENTITY runtimePanel_simulators "Simülatörler">
 <!ENTITY runtimePanel_custom "Özel">
 <!ENTITY runtimePanel_installsimulator "Simülatörü yükle">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
@@ -92,15 +94,15 @@
 <!ENTITY prefs_general_title "Genel">
 <!ENTITY prefs_restore "Varsayılanları geri yükle">
 
+<!ENTITY prefs_options_enablelocalruntime "Yerel çalışma zamanını etkinleştir">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE'nin kendi çalışma zamanına (çalışan tarayıcı) bağlanmasına izin ver">
+<!ENTITY prefs_options_rememberlastproject "Son projeyi hatırla">
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE başladığında önceki projeyi geri yükle">
 
 
-
-
-
-
-
-
-
+<!ENTITY prefs_options_showeditor "Editörü göster">
+<!ENTITY prefs_options_showeditor_tooltip "Dahili editörü göster">
+<!ENTITY prefs_options_tabsize "Sekme boyutu">
 
 <!ENTITY prefs_options_expandtab_tooltip "Tab karakteri yerine boşluk kullan">
 <!ENTITY prefs_options_detectindentation "Otomatik girinti">
