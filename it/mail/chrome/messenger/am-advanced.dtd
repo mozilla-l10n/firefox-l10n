@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
-<!ENTITY smtpDescription.label "Nella gestione delle proprie identità è possibile usare un server della lista seguente selezionandolo come Server in uscita (SMTP) o lasciare il predefinito selezionando &quot;Server predefinito&quot;.">
+<!ENTITY smtpDescription.label "Nella gestione delle proprie identità è possibile utilizzare un server della lista seguente selezionandolo come Server in uscita (SMTP) o lasciare il predefinito selezionando &quot;Server predefinito&quot;.">
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "g">
 <!ENTITY smtpListEdit.label "Modifica…">
