@@ -13,9 +13,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="https://fr.wikipedia.org/wiki/Spécial:Recherche" resultdomain="wikipedia.org">
+<Url type="text/html" method="GET" template="https://fr.wikipedia.org/wiki/Spécial:Recherche"
+     resultdomain="wikipedia.org" rel="searchform">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>https://fr.wikipedia.org/wiki/Spécial:Recherche</SearchForm>
 </SearchPlugin>
