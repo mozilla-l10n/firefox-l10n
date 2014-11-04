@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "ألسنة المتصفح">
 
 <!ENTITY device.debugBrowserTab "نقّح">
-
+<!ENTITY device.debugBrowserTabTooltip "افتح أدوات المطور المتصلة بهذا المتصفح على الجهاز">
 <!ENTITY device.help "مساعدة">
 
 <!ENTITY connection.connectTooltip "اتصل بالجهاز">

@@ -65,7 +65,8 @@
 
 
 
-
+<!ENTITY normalSize.label             "الحجم العادي">
+<!ENTITY normalSize.accesskey         "ح">
 
 
 <!ENTITY editMenu.label               "تحرير">

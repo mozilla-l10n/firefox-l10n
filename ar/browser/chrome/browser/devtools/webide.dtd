@@ -19,7 +19,7 @@
 
 
 
-
+<!ENTITY projectMenu_showPrefs_label "التفضيلات">
 
 
 
@@ -55,13 +55,15 @@
 
 
 
-
+<!ENTITY runtimePanel_custom "مخصّص">
 
 
 
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "صالحة">
+<!ENTITY details_warning_header "تحذيرات">
+<!ENTITY details_error_header "أعطال">
 <!ENTITY details_description "الوصف">
 <!ENTITY details_location "المكان">
 
@@ -78,6 +80,8 @@
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "افتح مدير الإضافات">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "التفضيلات">
 
 <!ENTITY prefs_general_title "عام">
 <!ENTITY prefs_restore "استعد الإعدادات المبدئية">
@@ -100,7 +104,7 @@
 
 
 
-
+<!ENTITY prefs_options_keybindings_default "المبدئي">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "الاسم">
 <!-- Runtime Details -->

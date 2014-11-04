@@ -31,9 +31,10 @@
 <!ENTITY alwaysAsk.label "اسألني دائمًا عن مكان حفظ الملفّات">
 <!ENTITY alwaysAsk.accesskey "ن">
 
-
-
-
+<!ENTITY alwaysCheckDefault.label         "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
+<!ENTITY alwaysCheckDefault2.accesskey    "د">
+<!ENTITY setAsMyDefaultBrowser.label      "اجعل &brandShortName; متصفّحي المبدئي">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "ص">
 <!ENTITY isDefault.label                  "‏&brandShortName; هو المتصفح المبدئي حاليا">
-
+<!ENTITY isNotDefault.label               "‏&brandShortName; ليس المتصفح المبدئي حاليا">
 

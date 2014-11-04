@@ -10,9 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "ه">
 <!ENTITY dntTrackingOkay.label2         "أخبر المواقع أنني أريدها أن تتعقبني">
 <!ENTITY dntTrackingOkay.accesskey      "ه">
-
-
-
+<!ENTITY trackingProtection.label       "امنع المواقع من تتبعي">
+<!ENTITY trackingProtection.accesskey   "ت">
+<!ENTITY trackingProtectionLearnMore.label "اطّلع على المزيد">
 <!ENTITY doNotTrackInfo.label           "اطّلع على المزيد">
 
 <!ENTITY  history.label                 "التأريخ">

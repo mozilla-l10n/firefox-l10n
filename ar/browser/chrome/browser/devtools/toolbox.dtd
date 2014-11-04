@@ -121,6 +121,7 @@
   -  section. -->
 
 
+<!ENTITY options.sourceeditor.label                     "تفضيلات المحرر">
 
 
 
@@ -130,3 +131,5 @@
 
 
 
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "المبدئي">
