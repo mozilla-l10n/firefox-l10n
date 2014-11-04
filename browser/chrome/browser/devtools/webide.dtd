@@ -23,6 +23,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferenze">
 <!ENTITY projectMenu_showPrefs_accesskey "P">
+<!ENTITY projectMenu_manageComponents_label "Gestione componenti extra">
+<!ENTITY projectMenu_manageComponents_accesskey "G">
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Disconnetti">
@@ -39,8 +41,6 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Visualizza/nascondi editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "e">
-<!ENTITY viewMenu_showAddons_label "Gestisci simulatori">
-<!ENTITY viewMenu_showAddons_accesskey "S">
 <!ENTITY projectButton_label "Apri app">
 <!ENTITY runtimeButton_label "Seleziona runtime">
 <!ENTITY key_quit "W">
