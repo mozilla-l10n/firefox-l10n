@@ -17,6 +17,8 @@
    Зависания нитей ">
 <!ENTITY aboutTelemetry.histogramsSection "
    Гистограммы ">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Гистограммы ключей">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
    Простые измерения ">
 <!ENTITY aboutTelemetry.addonDetailsSection "

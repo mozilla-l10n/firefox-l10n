@@ -23,6 +23,8 @@
 <!ENTITY projectMenu_remove_accesskey "а">
 <!ENTITY projectMenu_showPrefs_label "Настройки">
 <!ENTITY projectMenu_showPrefs_accesskey "с">
+<!ENTITY projectMenu_manageComponents_label "Управление дополнительными компонентами">
+<!ENTITY projectMenu_manageComponents_accesskey "п">
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Отсоединить">
@@ -39,8 +41,6 @@
 <!ENTITY viewMenu_accesskey "и">
 <!ENTITY viewMenu_toggleEditor_label "Переключить редактор">
 <!ENTITY viewMenu_toggleEditor_accesskey "е">
-<!ENTITY viewMenu_showAddons_label "Управление симуляторами">
-<!ENTITY viewMenu_showAddons_accesskey "п">
 <!ENTITY projectButton_label "Открыть приложение">
 <!ENTITY runtimeButton_label "Выбрать Runtime">
 <!ENTITY key_quit "W">
@@ -76,7 +76,7 @@
 <!ENTITY prefs_editor_title "Редактор">
 <!ENTITY prefs_general_title "Основные">
 <!ENTITY prefs_restore "Восстановить по умолчанию">
-<!ENTITY prefs_simulators "Управление симуляторами">
+<!ENTITY prefs_manage_components "Управление дополнительными компонентами">
 <!ENTITY prefs_options_rememberlastproject "Запоминать последний проект">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Восстанавливать последний проект при запуске WebIDE">
 <!ENTITY prefs_options_templatesurl "URL шаблонов">

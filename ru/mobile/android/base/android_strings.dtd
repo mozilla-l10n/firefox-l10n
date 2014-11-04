@@ -251,6 +251,7 @@
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
+<!ENTITY reading_list_duplicate "Страница уже находится в вашем Списке для чтения">
 <!ENTITY reading_list_time_minutes2 "&formatD; мин">
 <!ENTITY reading_list_time_over_an_hour "Более часа">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
