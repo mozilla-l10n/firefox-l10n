@@ -4,13 +4,13 @@
 
 <!ENTITY startup.label             "Qalisa">
 
-<!ENTITY startupPage.label         "Xa i-&brandShortName; iqalisa:">
+<!ENTITY startupPage.label         "Xa &brandShortName; iqalisa:">
 <!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupHomePage.label     "Bonisa ikhasi lasekhaya lam">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
 <!ENTITY startupLastSession.label  "Bonisa iifestile neethebhu ukususela ukugqibela kwam">
 
-<!ENTITY homepage.label            "IPhepha laseKhaya:">
+<!ENTITY homepage.label            "Phepha laseKhaya:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Sebenzisa iphepha langoku">
 <!ENTITY useCurrentPage.accesskey  "S">
@@ -31,10 +31,10 @@
 <!ENTITY alwaysAsk.label "Ndibuze qho ngendawo emazigcinwe kuyo iifayile">
 <!ENTITY alwaysAsk.accesskey "q">
 
-<!ENTITY alwaysCheckDefault.label         "Khangela qho ukuba i-&brandShortName; iyibhrawuza esisiseko ekuvuleni">
+<!ENTITY alwaysCheckDefault.label         "Khangela qho ukuba &brandShortName; iyibhrawuza esisiseko ekuvuleni">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser.label      "Yenza i-&brandShortName; ibe yibhrawuza esisiseko">
+<!ENTITY setAsMyDefaultBrowser.label      "Yenza &brandShortName; ibe yibhrawuza esisiseko">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "D">
-<!ENTITY isDefault.label                  "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
-<!ENTITY isNotDefault.label               "I-&brandShortName; ayiyobhrawuza yakho esisiseko">
+<!ENTITY isDefault.label                  "&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
+<!ENTITY isNotDefault.label               "&brandShortName; ayiyobhrawuza yakho esisiseko">
 
