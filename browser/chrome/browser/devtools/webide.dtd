@@ -25,19 +25,18 @@
 <!ENTITY projectMenu_showPrefs_label "Indstillinger">
 <!ENTITY projectMenu_showPrefs_accesskey "I">
 
-
-
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Afbryd">
 <!ENTITY runtimeMenu_disconnect_accesskey "A">
-
-
+<!ENTITY untimeMenu_showPermissionTable_label "Tilladelses-tabel">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skærmbillede">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-
-
+<!ENTITY runtimeMenu_showDetails_label "Info om runtime">
+<!ENTITY runtimeMenu_showDetails_accesskey "I">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
 <!ENTITY viewMenu_label "Vis">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Vis/skjul editor">
@@ -46,7 +45,7 @@
 <!ENTITY viewMenu_showAddons_accesskey "H">
 
 <!ENTITY projectButton_label "Åbn app">
-
+<!ENTITY runtimeButton_label "Vælg Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -61,7 +60,7 @@
 <!ENTITY key_toggleEditor "B">
 
 <!ENTITY projectPanel_myProjects "Mine projekter">
-
+<!ENTITY projectPanel_runtimeApps "Runtime-apps">
 <!ENTITY runtimePanel_USBDevices "USB-enheder">
 <!ENTITY runtimePanel_WiFiDevices "Wi-fi-enheder">
 <!ENTITY runtimePanel_simulators "Simulatorer">
@@ -102,6 +101,8 @@
 <!ENTITY prefs_simulators "Håndter simulatorer">
 
 
+<!ENTITY prefs_options_enablelocalruntime "Aktiver lokal runtime">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Tillad WebIDE at oprette forbindelse til sin egen runtim (ved at køre en browser-instans)">
 <!ENTITY prefs_options_rememberlastproject "Husk seneste projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Gendan forrige projekt når WebIDE starter">
 <!ENTITY prefs_options_templatesurl "URL til skabeloner">
@@ -109,23 +110,29 @@
 <!ENTITY prefs_options_showeditor "Vis editor">
 <!ENTITY prefs_options_showeditor_tooltip "Vis intern editor">
 <!ENTITY prefs_options_tabsize "Tabulatortørrelse">
-
+<!ENTITY prefs_options_expandtab "Bløde tabulatortegn">
 <!ENTITY prefs_options_expandtab_tooltip "Brug mellemrum i stedet for tabulatortegn">
 <!ENTITY prefs_options_detectindentation "Autoindryk">
 <!ENTITY prefs_options_detectindentation_tooltip "Gæt indrykning baseret på kildeindhold">
 <!ENTITY prefs_options_autocomplete "Autofuldfør">
-
+<!ENTITY prefs_options_autocomplete_tooltip "Aktiver automatisk fuldførelse af kode">
 <!ENTITY prefs_options_autoclosebrackets "Luk automatisk parenteser">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Indsæt automatisk afsluttende parenteser">
 <!ENTITY prefs_options_keybindings "Tastaturgenveje">
 <!ENTITY prefs_options_keybindings_default "Standard">
 
 <!-- Permissions Table -->
-
+<!ENTITY permissionstable_title "Tilladelses-tabel">
 <!ENTITY permissionstable_name_header "Navn">
 
 <!-- Runtime Details -->
-
+<!ENTITY runtimedetails_title "Info om runtime">
+<!ENTITY runtimedetails_adbIsRoot "ADB er root: ">
+<!ENTITY runtimedetails_summonADBRoot "root-enhed">
+<!ENTITY runtimedetails_ADBRootWarning "(kræver oplåst bootloader)">
+<!ENTITY runtimedetails_restrictedPrivileges "Begrænset privilegier i udviklerværktøjer">
+<!ENTITY runtimedetails_requestPrivileges "anmod om højere privilegierc">
+<!ENTITY runtimedetails_privilegesWarning "(Genstarter enhed. Kræver root-adgang.)">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
