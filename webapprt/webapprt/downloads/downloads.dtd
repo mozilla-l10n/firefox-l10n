@@ -11,12 +11,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "يبدأ…">
 <!ENTITY scanning.label                   "يفحص وجود فيروسات…">
 
+<!ENTITY downloads.title                  "التنزيلات">
 
-
+<!ENTITY cmd.pause.label                  "ألبث">
+<!ENTITY cmd.pause.accesskey              "ل">
 <!ENTITY cmd.resume.label                 "استأنف">
 <!ENTITY cmd.resume.accesskey             "س">
-
-
+<!ENTITY cmd.cancel.label                 "ألغ">
+<!ENTITY cmd.cancel.accesskey             "ل">
 <!ENTITY cmd.show.label                   "افتح المجلد المحتوي">
 <!ENTITY cmd.show.accesskey               "م">
 <!ENTITY cmd.showMac.label                "اعرض في فايندر">

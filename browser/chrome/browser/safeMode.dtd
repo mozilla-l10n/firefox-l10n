@@ -6,9 +6,11 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "ابدأ في الوضع الآمن">
-
+<!ENTITY refreshProfile.label         "أنعش &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "الوضع الآمن هو وضع خاص في &brandShortName; يمكن استخدام لتتبع المشاكل.">
 <!ENTITY safeModeDescription4.label   "ستُعطّل إضافات وإعداداتك المخصصة مؤقتا.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "أُغلق &brandShortName; فجأة أثناء البدء. قد يكون هذا بسبب أحد الإضافات أو البرامج الأخرى. يمكن محاولة حل المشكلة بتتبعها في الوضع الآمن.">

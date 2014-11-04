@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "ابحث عن المزيد من خدمات المشاركة…">
 <!ENTITY sharePageCmd.label "شارك هذه الصفحة">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ش">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "شارك هذا الرابط">
+<!ENTITY shareLink.accesskey "ش">
+<!ENTITY shareImage.label "شارك هذه الصورة">
+<!ENTITY shareImage.accesskey "ش">
+<!ENTITY shareSelect.label "شارك هذا التحديد">
+<!ENTITY shareSelect.accesskey "ش">
+<!ENTITY shareVideo.label "شارك هذا الڤديو">
+<!ENTITY shareVideo.accesskey "ش">
 <!ENTITY feedsMenu.label "اشترك">
 <!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
@@ -205,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "أدوات">
 <!ENTITY toolsMenu.accesskey          "د"> 
 
-<!ENTITY keywordfield.label           "أضِف كلمة مفتاحية لهذا البحث…">
+<!ENTITY keywordfield.label           "أضِف كلمة رئيسية لهذا البحث…">
 <!ENTITY keywordfield.accesskey       "ك">
 
 <!ENTITY downloads.label              "التنزيلات">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "الإضافات">
 <!ENTITY addons.accesskey             "ض">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "التطبيقات">
+<!ENTITY webapps.accesskey            "ط">
 
 <!ENTITY webDeveloperMenu.label       "مطوّري الوب">
 <!ENTITY webDeveloperMenu.accesskey   "و">
@@ -479,10 +481,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "ت">
 <!ENTITY emailImageCmd.label          "أرسل الصورة بالبريد…">
 <!ENTITY emailImageCmd.accesskey      "ص">
-<!ENTITY emailVideoCmd.label          "أرسل الفديو بالبريد…">
-<!ENTITY emailVideoCmd.accesskey      "ف">
-
-
+<!ENTITY emailVideoCmd.label          "أرسل الڤديو بالبريد…">
+<!ENTITY emailVideoCmd.accesskey      "ڤ">
+<!ENTITY castVideoCmd.label           "أرسل الڤديو إلى جهاز…">
+<!ENTITY castVideoCmd.accesskey       "ڤ">
 <!ENTITY emailAudioCmd.label          "أرسل الصوت بالبريد…">
 <!ENTITY emailAudioCmd.accesskey      "ت">
 <!ENTITY playPluginCmd.label          "فعّل هذه المُلحقة">
@@ -697,10 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ط">
 <!ENTITY social.closeNotificationItem.label "ليس الآن">
 
-
-
-
-
+<!ENTITY social.directory.label "دليل التفعيل">
+<!ENTITY social.directory.text "يمكنك تفعيل خدمات المشاركة من هذا الدليل.">
+<!ENTITY social.directory.button "خذني إلى هناك!">
+<!ENTITY social.directory.introText "انقر على خدمة لتضيفها إلى &brandShortName;">
+<!ENTITY social.directory.viewmore.text "اعرض المزيد">
 
 <!ENTITY customizeMode.tabTitle "خصّص &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "أدوات و خصائص إضافية">
@@ -716,7 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
-
+<!ENTITY customizeMode.deveditionTheme.label "استخدم سمة &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ركّز على الدردشات">
@@ -742,18 +745,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "الخيارات">
 <!ENTITY mixedContentBlocked2.unblock.label "عطّل الحماية في الوقت الحالي">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "ع">
-
-
+<!ENTITY mixedContentBlocked2.block.label "فعّل الحماية">
+<!ENTITY mixedContentBlocked2.block.accesskey "ف">
 <!ENTITY mixedContentBlocked2.disabled.message "الحماية مُعطّلة">
 
 <!ENTITY trackingContentBlocked.message "التعقب">
 <!ENTITY trackingContentBlocked.moreinfo "منعت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
 <!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
 <!ENTITY trackingContentBlocked.options "الخيارات">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "أوقف الحماية لهذا الموقع">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ق">
+<!ENTITY trackingContentBlocked.block.label "فعّل الحماية">
+<!ENTITY trackingContentBlocked.block.accesskey "ف">
 <!ENTITY trackingContentBlocked.disabled.message "عُطلت حماية التتبع">
 
 <!ENTITY pointerLock.notification.message "اضغط ESC في أي وقت لإظهارها مرة أخرى.">
@@ -787,20 +790,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "انسَ الأخير:">
+<!ENTITY panicButton.view.5min                    "خمس دقائق">
+<!ENTITY panicButton.view.2hr                     "ساعتين">
+<!ENTITY panicButton.view.day                     "24 ساعة">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "المتابعة سوف:">
+<!ENTITY panicButton.view.deleteCookies           "تحذف <html:strong>الكعكات</html:strong> الحديثة">
+<!ENTITY panicButton.view.deleteHistory           "تحذف <html:strong>السجل</html:strong> الحديث">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "تغلق كل <html:strong>الألسنة</html:strong> و <html:strong>النوافذ</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "يفتح نافذة جديدة خالية">
 
 <!ENTITY panicButton.view.undoWarning             "لا يمكن التراجع عن هذا الإجراء.">
+<!ENTITY panicButton.view.forgetButton            "انسَ!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "مُسح تأريخك الحديث.">
+<!ENTITY panicButton.thankyou.msg2                "التصفح الآمن!">
+<!ENTITY panicButton.thankyou.buttonlabel         "شكرًا!">
 
