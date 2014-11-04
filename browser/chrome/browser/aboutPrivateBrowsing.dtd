@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "مرورگر شما در حالت ناشناس است">
-<!ENTITY aboutPrivateBrowsing.title.normal     "پنجره مرورگر ناشناس باز شود؟">
+<!ENTITY aboutPrivateBrowsing.title.normal     "پنجره‌ی مرورگر ناشناس باز شود؟">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه‌ای را از این پنجره به خاطر نمی‌سپارد.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; هیچگونه تاریخچه ای را از پنجره های ناشناس به خاطر نمی‌سپارد.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; هیچگونه تاریخچه‌ای را از پنجره‌های ناشناس به خاطر نمی‌سپارد.">
 
 <!ENTITY aboutPrivateBrowsing.description      "این شامل تاریخچه مرورگر، تاریخچه جست‌وجو، تاریخچه دانلودها، تاریخچه فرمهای وب، کوکی‌ها و فایل‌های موقتی اینترنت است. با این حال، فایل‌هایی را که دانلود می‌کنید و نشانک‌هایی را که می‌سازید برایتان نگه می‌دارد.">
 
