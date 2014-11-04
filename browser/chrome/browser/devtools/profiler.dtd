@@ -40,7 +40,7 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration   "Total Tid (ms)">
-
+<!ENTITY profilerUI.table.selfDuration    "Egen tid (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Total Kostnad">
 <!ENTITY profilerUI.table.selfPercentage  "Självkostnad">
 <!ENTITY profilerUI.table.samples         "Exempel">
