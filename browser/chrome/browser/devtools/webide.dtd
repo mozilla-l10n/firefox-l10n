@@ -51,7 +51,7 @@
 <!-- toggle sidebar -->
 
 
-
+<!ENTITY projectPanel_tabs "Iithebhu">
 
 
 
@@ -60,7 +60,7 @@
 
 
 <!-- Lense -->
-
+<!ENTITY details_warning_header "Izilumkiso">
 
 
 <!ENTITY details_location "Indawo">

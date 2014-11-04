@@ -62,7 +62,7 @@
 
 <!ENTITY cmd.sortby_name.label              "Lungisa ngeGama">
 <!ENTITY cmd.sortby_name.accesskey          "L">
-<!ENTITY cmd.context_sortby_name.accesskey  "z">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Isalathisi Esiphawulayo Esitsha…">
 <!ENTITY cmd.new_bookmark.accesskey        "E">

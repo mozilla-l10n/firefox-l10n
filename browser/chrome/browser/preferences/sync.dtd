@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Seta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "I-&syncBrand.fullName.label; ivumela ufikelelo kwimbali, kwiibhukhmakhi, kwiipasiwedi kwaye ivula iithebhu kuzo zonke izixhobo.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ivumela ufikelelo kwimbali, kwiibhukhmakhi, kwiipasiwedi kwaye ivula iithebhu kuzo zonke izixhobo.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
