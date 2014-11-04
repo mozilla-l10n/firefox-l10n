@@ -15,7 +15,7 @@
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <!-- Search activity -->
-<Url type="text/html" method="GET" rel="mobile" template="https://en.m.wikipedia.org/wiki/Special:Search">
+<Url type="text/html" method="GET" rel="mobile" template="https://eu.m.wikipedia.org/wiki/Special:Search">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
