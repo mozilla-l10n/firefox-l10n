@@ -101,8 +101,6 @@
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurar predeterminados">
 <!ENTITY prefs_simulators "Administrar simuladores">
-<!ENTITY prefs_options_enablelocalruntime "Activar tiempo de ejecución local">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permitir a WebIDE conectarse a su propio tiempo de ejecución (instancia de navegación ejecutándose)">
 <!ENTITY prefs_options_rememberlastproject "Recordar el último proyecto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar proyecto anterior cuando WebIDE se inicie">
 <!ENTITY prefs_options_templatesurl "URL de plantillas">
