@@ -342,9 +342,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Geçmiş">
 <!ENTITY historyMenu.accesskey "G">
-<!ENTITY historyUndoMenu.label "Yeni kapatılan sekmeler">
+<!ENTITY historyUndoMenu.label "Son kapatılan sekmeler">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Yeni kapatılan pencereler">
+<!ENTITY historyUndoWindowMenu.label "Son kapatılan pencereler">
 <!ENTITY historyRestoreLastSession.label "Önceki oturumu geri yükle">
 
 <!ENTITY showAllHistoryCmd2.label "Tüm geçmişi göster">

@@ -24,7 +24,7 @@
 <!ENTITY password.label                  "Parolaları kaydet">
 <!ENTITY password.manage                 "Parolaları yönet…">
 
-<!ENTITY cookie.label                    "Çerez bırak">
+<!ENTITY cookie.label                    "Çerez bırakabilir">
 <!ENTITY cookie.remove                   "Çerezleri sil">
 <!ENTITY cookie.manage                   "Çerezleri yönet…">
 <!ENTITY cookie.removeAll                "Tüm çerezleri sil">
