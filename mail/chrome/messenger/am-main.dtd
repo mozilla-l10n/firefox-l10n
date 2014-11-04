@@ -33,4 +33,4 @@
 <!ENTITY manageIdentities.accesskey "G">
 <!ENTITY smtpName.label "Server in uscita (SMTP):">
 <!ENTITY smtpName.accesskey "u">
-<!ENTITY smtpDefaultServer.label "Usare il server predefinito">
+<!ENTITY smtpDefaultServer.label "Utilizzare il server predefinito">
