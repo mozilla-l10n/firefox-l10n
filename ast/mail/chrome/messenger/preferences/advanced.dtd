@@ -64,8 +64,6 @@
 <!ENTITY certs.ask.accesskey "E">
 <!ENTITY viewCertificates.label "Ver certificaos">
 <!ENTITY viewCertificates.accesskey "a">
-<!ENTITY validation.label "Validación">
-<!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Preseos de seguridá">
 <!ENTITY viewSecurityDevices.accesskey "P">
 <!ENTITY useService.label "Usar un serviciu en segundu planu pa instalar anovamientos">
@@ -91,3 +89,5 @@
 <!ENTITY updateAuto.label "Instalar anovamientos automáticamente (recomiéndase: ameyora la seguridá)">
 <!ENTITY updateAuto.accesskey "I">
 <!ENTITY updateApp.label "Anovamientos de &brandShortName;:">
+<!ENTITY enableOCSP.label "Entrugar a los sirvidores respondedores d'OCSP pa confirmar la validez actual de los certificaos">
+<!ENTITY enableOCSP.accesskey "u">

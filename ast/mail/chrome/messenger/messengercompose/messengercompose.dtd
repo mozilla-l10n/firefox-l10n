@@ -76,9 +76,6 @@
 <!ENTITY selectAllCmd.label "Esbillar too">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY findCmd.label "Guetar y trocar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "G">
 <!ENTITY findAgainCmd.label "Repetir la gueta">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "t">
@@ -153,11 +150,6 @@
 <!ENTITY addressBookCmd.label "Llibreta de direiciones">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Configuración de les cuentes…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY minimizeWindow.key "m">
@@ -261,3 +253,13 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printButton.tooltip "Imprentar esti mensaxe">
 <!ENTITY printButton.label "Imprentar">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY findReplaceCmd.label "Guetar y trocar…">
+<!ENTITY findReplaceCmd.accesskey "G">
+<!ENTITY findBarCmd.label "Guetar…">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "G">
+<!ENTITY accountManagerCmdUnix2.accesskey "C">
+<!ENTITY accountManagerCmd2.label "Configuración de cuenta">
+<!ENTITY accountManagerCmd2.accesskey "C">

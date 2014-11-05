@@ -28,3 +28,8 @@
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY button.exportOPML.tooltip "Esportar canales cola estructura de canales; ctrl clic o ctrl enter pa esportar les canales como una llista">
 <!ENTITY button.close.label "Zarrar">
+<!ENTITY autotagUsePrefix.label "Poner a les etiquetes el prefixu:">
+<!ENTITY autotagUsePrefix.accesskey "P">
+<!ENTITY autotagEnable.label "Crear automáticamente etiquetes a partir de los conteníos &lt;category&gt; de les canales">
+<!ENTITY autotagEnable.accesskey "d">
+<!ENTITY autoTagPrefix.placeholder "Introduz un prefixu d'etiqueta">

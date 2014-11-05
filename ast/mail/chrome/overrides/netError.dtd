@@ -115,7 +115,6 @@
 </ul>
 ">
 <!ENTITY nssFailure2.title "Conexón segura fallida">
-<!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La páxina que tas intentando ver nun pue amosase porque nun pudo verificase l'autenticidá de los datos recibíos.</li>
   <li>Por favor, contauta colos alministradores del sitiu web pa informa-yos d'esti problema. De mou alternativu, usa la opción del menú Ayuda pa informar del problema d'esti sitiu web.</li>
@@ -161,3 +160,4 @@
 ">
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
+<!ENTITY nssFailure2.longDesc2 "">
