@@ -19,6 +19,5 @@
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-
 <SearchForm>https://lt.wikipedia.org/wiki/Specialus:Paieška</SearchForm>
 </SearchPlugin>
