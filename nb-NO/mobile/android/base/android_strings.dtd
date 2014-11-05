@@ -6,6 +6,11 @@
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
+<!ENTITY  onboard_start_message "Velkommen til &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Forpliktet til deg, ditt personvern og en åpen web">
+<!ENTITY  onboard_start_button_account "Logg inn på &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Start nettlesing">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Bokmerker">
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "Velg fil">
 
-<!ENTITY url_bar_default_text "Skriv inn søk eller adresse">
+<!ENTITY url_bar_default_text2 "Søk eller skriv inn adresse">
 
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
@@ -84,6 +89,27 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 <!ENTITY locale_system_default "Systemstandard">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Legg til i &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
+<!ENTITY overlay_share_reading_list_btn_label "Legg til i leselisten">
+<!ENTITY overlay_share_send_other "Send til annen enhet">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Send til annen enhet">
+<!ENTITY overlay_share_no_url "Ingen lenke funnet i denne delingen">
+<!ENTITY overlay_share_retry "Prøv igjen">
+<!ENTITY overlay_share_select_device "Velg enhet">
 
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary "Tilpass søketilbydere">
@@ -149,7 +175,7 @@
 <!ENTITY pref_clear_private_data2 "Tøm nå">
 <!ENTITY pref_clear_private_data_category "Slett private data">
 <!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutning">
-<!ENTITY pref_clear_on_exit_summary "&brandShortName; vil automatisk slette dine data når du velger &quot;Avslutt&quot; fra hovedmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \u0022Avslutt\u0022 fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
@@ -178,7 +204,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
-<!ENTITY pref_show_product_announcements "Vis produktnyheter">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
@@ -276,9 +301,9 @@ size. -->
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Caster til enhet">
+<!ENTITY media_sending_to "Sender til enhet">
 <!ENTITY media_play "Spill av">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Stopp">
@@ -305,7 +330,8 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Rullering av tittellinje">
+<!ENTITY pref_scroll_title_bar2 "Nettlesing i fullskjerm">
+<!ENTITY pref_scroll_title_bar_summary "Skjul tittellinjen i &brandShortName; ved rulling nedover på en side">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -465,6 +491,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

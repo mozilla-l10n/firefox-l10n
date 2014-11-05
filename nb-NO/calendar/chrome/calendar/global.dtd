@@ -47,6 +47,6 @@
 <!ENTITY onemonthbackward.tooltip "En måned tilbake" >
 <!ENTITY onemonthforward.tooltip "En måned frem" >
 <!ENTITY showToday.tooltip "Gå til i dag">
-<!ENTITY onedayforward.tooltip "En dag tilbake">
-<!ENTITY onedaybackward.tooltip "En dag frem">
+<!ENTITY onedayforward.tooltip "En dag frem">
+<!ENTITY onedaybackward.tooltip "En dag tilbake">
 <!ENTITY showselectedday.tooltip "Vis hendelser på valgt dag">
