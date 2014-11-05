@@ -67,8 +67,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nome y apellíos">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "t">
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Propiedaes…">
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
@@ -111,8 +109,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Esportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY newContactButton.label "Contautu nuevu">
@@ -187,3 +183,7 @@
 <!ENTITY ChatName.label "Nome nel chat">
 <!ENTITY ChatName.accesskey "c">
 <!ENTITY chat.heading "Chatear">
+<!ENTITY propertiesCmd2.label "Propiedaes">
+<!ENTITY propertiesCmd2.accesskey "i">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
