@@ -12,7 +12,7 @@
 </Url>
 <Url type="text/html" method="GET" template="https://ru.wikipedia.org/wiki/Служебная:Поиск">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="mozilla-search"/>
+  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <!-- Search activity -->
 <Url type="text/html" method="GET" rel="mobile" template="https://ru.m.wikipedia.org/wiki/Служебная:Поиск">
