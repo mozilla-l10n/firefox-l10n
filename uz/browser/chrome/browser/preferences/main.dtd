@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "d">
 
 <!ENTITY alwaysCheckDefault.label         "Ishga tushirilganda doimo &brandShortName; standart brauzer ekanligi tekshirilsin">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "&brandShortName;ni standart brauzer qilish">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "s">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz">
 <!ENTITY isNotDefault.label               "&brandShortName; - standart brauzeringiz emas">
+
+
 
