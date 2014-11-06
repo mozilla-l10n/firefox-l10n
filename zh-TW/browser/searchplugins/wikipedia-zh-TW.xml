@@ -17,5 +17,6 @@
      resultdomain="wikipedia.org" rel="searchform">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
+  <Param name="variant" value="zh-tw"/>
 </Url>
 </SearchPlugin>
