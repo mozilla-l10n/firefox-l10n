@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "d">
 <!ENTITY projectMenu_showPrefs_label "Možnosti">
 <!ENTITY projectMenu_showPrefs_accesskey "M">
+<!ENTITY projectMenu_manageComponents_label "Spravovať extra komponenty">
+<!ENTITY projectMenu_manageComponents_accesskey "x">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -42,8 +44,6 @@
 <!ENTITY viewMenu_accesskey "Z">
 <!ENTITY viewMenu_toggleEditor_label "Prepnúť Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Spravovať simulátory">
-<!ENTITY viewMenu_showAddons_accesskey "S">
 
 <!ENTITY projectButton_label "Otvoriť aplikáciu">
 <!ENTITY runtimeButton_label "Zvoliť Runtime">
@@ -100,7 +100,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Všeobecné">
 <!ENTITY prefs_restore "Obnoviť predvolené">
-<!ENTITY prefs_simulators "Spravovať simulátory">
+<!ENTITY prefs_manage_components "Spravovať extra komponenty">
 <!ENTITY prefs_options_rememberlastproject "Zapmätať si posledný projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Obnoviť naposledy použitý projekt pri štarte WebIDE">
 <!ENTITY prefs_options_templatesurl "Adresa pre šablóny">
