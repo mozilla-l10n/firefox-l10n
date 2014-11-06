@@ -148,13 +148,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Yabelana Ngeli Khonkco">
+<!ENTITY shareLink.accesskey "a">
+<!ENTITY shareImage.label "Yabelana Ngalo Mfanekiso">
+<!ENTITY shareImage.accesskey "b">
+<!ENTITY shareSelect.label "Yabelana Ngokhetho">
+<!ENTITY shareSelect.accesskey "b">
+<!ENTITY shareVideo.label "Yabelana Ngale Vidiyo">
+<!ENTITY shareVideo.accesskey "b">
 <!ENTITY feedsMenu.label "Rhuma">
 <!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
@@ -719,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "Sebenzisa Umxholo we-&brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Incoko yengqwalaselo">
@@ -745,16 +746,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Iinketho">
 <!ENTITY mixedContentBlocked2.unblock.label "Kunye nokhuseleko lusayekiwe">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "K">
-
-
+<!ENTITY mixedContentBlocked2.block.label "Vumela ukhuseleko">
+<!ENTITY mixedContentBlocked2.block.accesskey "V">
 <!ENTITY mixedContentBlocked2.disabled.message "Ukhuseleko luyekisiwe">
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
 <!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
 <!ENTITY trackingContentBlocked.options "Iinketho">
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
 <!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
 <!ENTITY trackingContentBlocked.block.accesskey "V">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
