@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "q">
 
 <!ENTITY alwaysCheckDefault.label         "Khangela qho ukuba &brandShortName; iyibhrawuza esisiseko ekuvuleni">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "Yenza &brandShortName; ibe yibhrawuza esisiseko">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "D">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
 <!ENTITY isNotDefault.label               "&brandShortName; ayiyobhrawuza yakho esisiseko">
+
+
 
