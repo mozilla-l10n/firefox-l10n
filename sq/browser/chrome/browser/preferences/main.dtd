@@ -31,9 +31,15 @@
 <!ENTITY alwaysAsk.accesskey "u">
 
 <!ENTITY alwaysCheckDefault.label         "Kontrollo përherë gjatë nisjes për të parë nëse &brandShortName;-i është shfletuesi parazgjedhje">
+<!ENTITY alwaysCheckDefault2.label        "Kontrolloni përherë për të parë nëse &brandShortName;-i është shfletuesi juaj parazgjedhje">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
 <!ENTITY setAsMyDefaultBrowser.label      "Kaloje &brandShortName;-in Si Shfletuesin Tim Parazgjedhje">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "P">
+<!ENTITY setAsMyDefaultBrowser2.label     "Vendose Si Parazgjedhje">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "V">
 <!ENTITY isDefault.label                  "&brandShortName;-i është shfletuesi juaj parazgjedhje">
 <!ENTITY isNotDefault.label               "&brandShortName;-i s&apos;është shfletuesi juaj parazgjedhje">
 
+<!ENTITY separateProfileMode.label        "Lejojeni &brandShortName; dhe Firefox-in të xhirojnë në të njëjtën kohë">
+<!ENTITY useFirefoxSync.label             "Ndihmëz: Kjo përdor profile veçmas. Përdorni Sync-n për të ndarë mes tyre të dhëna.">
+<!ENTITY getStarted.label                 "Filloni të përdorni Sync-un…">
