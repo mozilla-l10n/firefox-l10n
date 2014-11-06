@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.domain   "پایگاه وبی:">
 <!ENTITY  securityView.identity.verifier "تأیید شده توسط:">
 
+<!ENTITY  securityView.privacy.header                   "تاریخچه و موارد حریم شخصی">
 <!ENTITY  securityView.privacy.history                  "آیا قبل از امروز از این وب‌گاه بازدید کرده‌ام؟">
 <!ENTITY  securityView.privacy.cookies                  "آیا این وب‌گاه اطلاعاتی (کوکی) بر روی رایانهٔ من ذخیره کرده است؟">
 <!ENTITY  securityView.privacy.viewCookies              "مشاهدهٔ کوکی‌ها">

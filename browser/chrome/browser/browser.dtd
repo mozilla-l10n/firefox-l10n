@@ -21,15 +21,15 @@
 
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
 <!ENTITY  reloadTab.accesskey                "ی">
-
-
+<!ENTITY  reloadAllTabs.label                "بازآوری همهٔ زبانه‌ها">
+<!ENTITY  reloadAllTabs.accesskey            "ه">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "بستن زبانه‌ها به راست">
 <!ENTITY  closeTabsToTheEnd.accesskey        "ر">
-
-
+<!ENTITY  closeOtherTabs.label               "بستن زبانه‌های دیگر">
+<!ENTITY  closeOtherTabs.accesskey           "س">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "گروه جدید">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه ی زبانه‌ها…">
+<!ENTITY  bookmarkAllTabs.accesskey          "ز">
+<!ENTITY  undoCloseTab.label                 "برگردان بستن زبانه">
+<!ENTITY  undoCloseTab.accesskey             "ب">
 <!ENTITY  closeTab.label                     "بستن زبانه">
 <!ENTITY  closeTab.accesskey                 "ب">
 
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "باز کردن مکان">
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
@@ -142,15 +143,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
+<!ENTITY findShareServices.label "یافتن سرویس های به اشتراک گذاری بیشتر…">
+<!ENTITY sharePageCmd.label "به‌اشتراک‌گذاری این صفحه">
 <!ENTITY sharePageCmd.commandkey "S">
-
+<!ENTITY sharePageCmd.accesskey "ا">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
+<!ENTITY shareLink.label "به‌اشتراک‌گذاری این پیوند">
+<!ENTITY shareLink.accesskey "ب">
+<!ENTITY shareImage.label "به‌اشتراک‌گذاری این عکس">
+<!ENTITY shareImage.accesskey "ب">
+<!ENTITY shareSelect.label "به‌اشتراک‌گذاری انتخاب شده">
+<!ENTITY shareSelect.accesskey "ب">
 <!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
 <!ENTITY shareVideo.accesskey "ب">
 <!ENTITY feedsMenu.label "مشترک شدن">
@@ -272,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "م">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F4">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -281,18 +284,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ابزارهای گسترش دهنده">
-<!ENTITY devToolbarOtherToolsButton.label  "ابزار بیشتر">
+<!ENTITY devToolbarOtherToolsButton.label  "ابزارهای بیشتر">
 
-<!ENTITY getMoreDevtoolsCmd.label        "دریافت ابزار بیشتر">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "دریافت ابزارهای بیشتر">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ا">
 
-<!ENTITY fileMenu.label         "پرونده"> 
-<!ENTITY fileMenu.accesskey       "پ">
-<!ENTITY newNavigatorCmd.label        "پنجرهٔ جدید">
+<!ENTITY fileMenu.label         "فایل"> 
+<!ENTITY fileMenu.accesskey       "ف">
+<!ENTITY newNavigatorCmd.label        "پنجره‌ی جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ج">
-<!ENTITY newPrivateWindow.label     "صفحۀ خصوصی جدید">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newNavigatorCmd.accesskey      "پ">
+<!ENTITY newPrivateWindow.label     "پنجره‌ی ناشناس جدید">
+<!ENTITY newPrivateWindow.accesskey "پ">
 
 <!ENTITY editMenu.label         "ویرایش"> 
 <!ENTITY editMenu.accesskey       "و"> 
@@ -305,9 +308,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ر"> 
-<!ENTITY copyCmd.label            "رونوشت برداشتن">  
+<!ENTITY copyCmd.label            "کپی">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ن"> 
+<!ENTITY copyCmd.accesskey          "ک"> 
 <!ENTITY pasteCmd.label           "چسباندن">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "چ"> 
@@ -322,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ح"> 
 
-<!ENTITY clearRecentHistory.label               "پاکسازی آخرین تاریخچه ثبت شده ...">
+<!ENTITY clearRecentHistory.label               "پاک کردن تاریخچه اخیر">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -342,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته شده">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
-
+<!ENTITY historyRestoreLastSession.label "بازآوری نشست قبلی">
 
 <!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -351,10 +354,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "سفارشی‌سازی منو و نوار ابزار ها">
 <!ENTITY appMenuCustomizeExit.label "خروج از سفارشی‌سازی">
 <!ENTITY appMenuCustomizeExit.tooltip "پایان شخصی‌سازی">
-
+<!ENTITY appMenuHistory.label "تاریخچه">
 <!ENTITY appMenuHistory.showAll.label "نمایش تمام تاریخچه">
-
-
+<!ENTITY appMenuHistory.clearRecent.label "پاک‌سازی تاریخچهٔ اخیر…">
+<!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 
@@ -453,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "ص">
 <!ENTITY setDesktopBackgroundCmd.label      "قرار دادن در پس‌زمینهٔ رومیزی ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ق">
-
+<!ENTITY bookmarkPageCmd2.label       "نشانک‌گذاری این صفحه">
 <!ENTITY bookmarkThisLinkCmd.label      "نشانک‌گذاری این پیوند">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
@@ -473,18 +476,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "پ">
 <!ENTITY saveImageCmd.label           "ذخیرهٔ تصویر به نام…">
 <!ENTITY saveImageCmd.accesskey       "خ">
-
-
+<!ENTITY saveVideoCmd.label           "ذخیرهٔ ویدیو با نام…">
+<!ENTITY saveVideoCmd.accesskey       "خ">
 <!ENTITY saveAudioCmd.label           "ذخیرهٔ پروندهٔ صوتی به نام…">
 <!ENTITY saveAudioCmd.accesskey       "ذ">
 <!ENTITY emailImageCmd.label          "ایمیل کردن عکس...">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ایمیل کردن فیلم...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
-
-
+<!ENTITY castVideoCmd.label           "ارسال ویدیو به دستگاه">
+<!ENTITY castVideoCmd.accesskey       "ا">
+<!ENTITY emailAudioCmd.label          "ایمیل کردن صدا...">
+<!ENTITY emailAudioCmd.accesskey      "ی">
 <!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "پنهان کردن این افزونه">
@@ -699,14 +702,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.directory.text "شما می توانید سرویس به اشتراک گذاری را از این دایرکتوری فعال کنید.">
 
-
+<!ENTITY social.directory.introText "برای اضافه شدن یک سرویس به&brandShortName;روی آن کلیک کنید.">
 <!ENTITY social.directory.viewmore.text "مشاهده بیشتر ">
 
 <!ENTITY customizeMode.tabTitle "شخصی‌سازی &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ویژگی‌ها و ابزارهای افزودنی ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ابزار بیشتری می خواهید؟">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "انتخاب از میان هزاران افرونه">
-
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "از بین هزاران افرونه انتخاب کنید">
+<!ENTITY customizeMode.restoreDefaults "بازگرداندن پیش‌فرض‌ها">
 <!ENTITY customizeMode.toolbars "نمایش/مخفی کردن نوار ابزار">
 <!ENTITY customizeMode.titlebar "نوار عنوان">
 <!ENTITY customizeMode.lwthemes "تم و زمینه ها">
@@ -716,7 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "دریافت زمینه های بیشتر">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "استفاده از پوسته&brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "تمرکز بر روی گپ‌ها">
@@ -731,37 +734,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "د">
 <!ENTITY getUserMedia.selectMicrophone.label "میکروفون جهت به‌اشتراک‌گذاری:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
-<!ENTITY getUserMedia.allWindowsShared.message "نمام پنجره هایی که مشاهده میکنید به اشتراک گذاشته میشود.">
+<!ENTITY getUserMedia.allWindowsShared.message "همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY mixedContentBlocked2.message "محتوا ناامن">
-<!ENTITY mixedContentBlocked2.moreinfo "بعضی از عناصر رمزنگاری نشده وبسایت مسدود شده است.">
+<!ENTITY badContentBlocked.moreinfo "بیشتر سایت‌ها حتی با مسدود شدن این محتوا هم به درستی کار می‌کنند.">
 
-
+<!ENTITY mixedContentBlocked2.message "محتوای ناامن">
+<!ENTITY mixedContentBlocked2.moreinfo "بعضی از عناصر رمزگذاری‌نشده‌ی این وبسایت مسدود شده‌اند.">
+<!ENTITY mixedContentBlocked2.learnMore "بیشتر بدانید">
+<!ENTITY mixedContentBlocked2.options "گزینه‌ها">
 <!ENTITY mixedContentBlocked2.unblock.label "فعلا محافظت غیرفعال شود.">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "غ">
-
-
+<!ENTITY mixedContentBlocked2.block.label "فعال کردن محافظ">
+<!ENTITY mixedContentBlocked2.block.accesskey "ف">
 <!ENTITY mixedContentBlocked2.disabled.message "محافظت غیرفعال است.">
 
-<!ENTITY trackingContentBlocked.message "ره‌گیری">
-<!ENTITY trackingContentBlocked.moreinfo "قسمت های مسئول پیگیری فعالیت های آنلاین شما مسدود شده است.">
-
+<!ENTITY trackingContentBlocked.message "ردگیری">
+<!ENTITY trackingContentBlocked.moreinfo "بخش‌هایی از این صفحه که فعالیت آنلاین شما را ردگیری می‌کنند مسدوده شده‌اند.">
+<!ENTITY trackingContentBlocked.learnMore "بیشتر بدانید">
 <!ENTITY trackingContentBlocked.options "گزینه‌ها">
 <!ENTITY trackingContentBlocked.unblock2.label "غیرفعال سازی حفاظت برای این وب سایت">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
 <!ENTITY trackingContentBlocked.block.accesskey "ف">
-<!ENTITY trackingContentBlocked.disabled.message "حفاظت از طریق ردگیری غیرفعال است‌‌">
+<!ENTITY trackingContentBlocked.disabled.message "محافظت در برابر ردگیری غیرفعال است‌‌">
 
-<!ENTITY pointerLock.notification.message "برای نمایش مجدد در هر زمانی دکمه ESC را فشار دهید.">
+<!ENTITY pointerLock.notification.message "هر زمان که دکمه‌ی ESC را فشار بدهید دوباره نمایش داده می‌شود.">
 
 <!ENTITY pluginNotification.showAll.label "نمایش همه">
 <!ENTITY pluginNotification.showAll.accesskey "ن">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "الان اجازه بده">
-<!ENTITY pluginActivateAlways.label "اجازه بده و به‌خاطر بسپار">
+<!ENTITY pluginActivateNow.label "این بار اجازه بده">
+<!ENTITY pluginActivateAlways.label "اجازه بده و به خاطر بسپار">
 <!ENTITY pluginBlockNow.label "بلوکه کردن متصل‌شونده">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -771,37 +776,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "زبانه فروپاشید">
-<!ENTITY tabCrashed.message "خب، یکم خجالت آوره. سعی کردیم که این صفحه وب رو نمایش بدیم، اما ظاهرا پاسخگو نیست.">
-<!ENTITY tabCrashed.checkSendReport "به &vendorShortName; در مورد این فروپاشی اطلاع دهید تا آن را اصلاح کنند.">
+<!ENTITY tabCrashed.header "زبانه از کار افتاد">
+<!ENTITY tabCrashed.message "راستش، این باعث شرمندگی است. سعی کردیم که این صفحه‌ی وب را نمایش بدهیم، اما ظاهرا پاسخ نمی‌دهد.">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; را در جریان این خرابی بگذارید تا بتوانند اشکال را برطرف نمایند.">
 <!ENTITY tabCrashed.tryAgain "تلاش مجدد">
 
 <!ENTITY uiTour.infoPanel.close "بستن">
 
-<!ENTITY appMenuSidebars.label         "نوارهای کناری">
+<!ENTITY appMenuSidebars.label         "نوارهای جانبی">
 
 <!ENTITY switchToMetroCmd2.label       "راه‌اندازی مجدد در &brandShortName; برای ویندوز ۸ لمسی">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-<!ENTITY panicButton.view.mainTimeframeDesc       "فراموش کن آخرین:">
+<!ENTITY panicButton.view.mainTimeframeDesc       "آخرین را فراموش کن:">
 <!ENTITY panicButton.view.5min                    "پنج دقیقه">
 <!ENTITY panicButton.view.2hr                     "دو ساعت">
-<!ENTITY panicButton.view.day                     "۲۴ساعت">
+<!ENTITY panicButton.view.day                     "۲۴ ساعت">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.deleteCookies           "حذف <html:strong>کوکی</html:strong> های اخیر">
-<!ENTITY panicButton.view.deleteHistory           "حذف <html:strong>تاریخچه</html:strong> های اخیر">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "بستن <html:strong>زبانه</html:strong> ها و <html:strong>پنجره</html:strong> های اخیر">
+<!ENTITY panicButton.view.deleteCookies           "حذف <html:strong>کوکی‌های</html:strong> اخیر">
+<!ENTITY panicButton.view.deleteHistory           "حذف <html:strong>تاریخچه</html:strong> اخیر">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "بستن همه‌ی <html:strong>زبانه‌ها</html:strong> و <html:strong>پنجره‌ها</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "باز کردن یک پنجره تمیز جدید">
 
 <!ENTITY panicButton.view.undoWarning             "این عمل قابل واگرد نیست.">
 <!ENTITY panicButton.view.forgetButton            "فراموش کن!">
 
-<!ENTITY panicButton.thankyou.msg1                "تاریخچه صفحه‌های اخیراً بازدید شده شما پاک شد.">
+<!ENTITY panicButton.thankyou.msg1                "تاریخچه‌ی اخیر شما پاک شد.">
 <!ENTITY panicButton.thankyou.msg2                "مرور امن!">
-<!ENTITY panicButton.thankyou.buttonlabel         "متشکر!">
+<!ENTITY panicButton.thankyou.buttonlabel         "متشکریم!">
 
