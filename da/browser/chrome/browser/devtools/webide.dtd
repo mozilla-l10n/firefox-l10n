@@ -102,14 +102,14 @@
 
 
 <!ENTITY prefs_options_enablelocalruntime "Aktiver lokal runtime">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Tillad WebIDE at oprette forbindelse til sin egen runtim (ved at køre en browser-instans)">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Tillad WebIDE at oprette forbindelse til sin egen runtime (ved at køre en browser-instans)">
 <!ENTITY prefs_options_rememberlastproject "Husk seneste projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Gendan forrige projekt når WebIDE starter">
 <!ENTITY prefs_options_templatesurl "URL til skabeloner">
 <!ENTITY prefs_options_templatesurl_tooltip "Indholdsfortegnelse over tilgængelige skabeloner">
 <!ENTITY prefs_options_showeditor "Vis editor">
 <!ENTITY prefs_options_showeditor_tooltip "Vis intern editor">
-<!ENTITY prefs_options_tabsize "Tabulatortørrelse">
+<!ENTITY prefs_options_tabsize "Tabulatorstørrelse">
 <!ENTITY prefs_options_expandtab "Bløde tabulatortegn">
 <!ENTITY prefs_options_expandtab_tooltip "Brug mellemrum i stedet for tabulatortegn">
 <!ENTITY prefs_options_detectindentation "Autoindryk">
@@ -130,8 +130,8 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB er root: ">
 <!ENTITY runtimedetails_summonADBRoot "root-enhed">
 <!ENTITY runtimedetails_ADBRootWarning "(kræver oplåst bootloader)">
-<!ENTITY runtimedetails_restrictedPrivileges "Begrænset privilegier i udviklerværktøjer">
-<!ENTITY runtimedetails_requestPrivileges "anmod om højere privilegierc">
+<!ENTITY runtimedetails_restrictedPrivileges "Begrænsede privilegier i udviklerværktøjer">
+<!ENTITY runtimedetails_requestPrivileges "anmod om højere privilegier">
 <!ENTITY runtimedetails_privilegesWarning "(Genstarter enhed. Kræver root-adgang.)">
 
 <!-- Monitor -->
