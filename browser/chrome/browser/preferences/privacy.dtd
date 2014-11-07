@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Spurado">
 
-<!ENTITY dntTrackingNopref.label2       "Ne informi al retejoj ion ajn pri miaj preferoj pri spurado">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Informi al retejoj ke mi ne volas esti spurita">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Informi al retejoj ke mi volas esti spurita">
-<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY trackingProtection.label       "Eviti ke retejoj spuru min">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Pli da informo">

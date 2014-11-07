@@ -152,5 +152,14 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.title "Raporti tiun ĉi eraron">
+<!ENTITY errorReporting.longDesc "Raporti la adreson kaj atestilan informon por <span id='hostname'></span> helpos nin identigi kaj bloki malicajn retejojn. Dankon pro via helpo krei pli sekuran Teksaĵon!">
+<!ENTITY errorReporting.automatic "Aŭtomate raporti erarojn en la estonteco">
+<!ENTITY errorReporting.learnMore "Pli da informo…">
+<!ENTITY errorReporting.sending "Raporto sendata">
+<!ENTITY errorReporting.sent "Raporto sendita">
+<!ENTITY errorReporting.report "Raporto">
+<!ENTITY errorReporting.tryAgain "Klopodi denove">
+
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">

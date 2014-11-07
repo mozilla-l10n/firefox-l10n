@@ -484,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "b">
 <!ENTITY emailVideoCmd.label          "Sendi filmeton retpoŝte…">
 <!ENTITY emailVideoCmd.accesskey      "S">
+<!ENTITY castVideoCmd.label           "Sendi filmeton al aparato">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Sendi sonon retpoŝte…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Aktivigi tiun ĉi kromprogramon">
