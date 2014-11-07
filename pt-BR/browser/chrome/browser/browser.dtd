@@ -699,10 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "S">
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
+<!ENTITY social.directory.label "Diretório de ativações">
 
-
+<!ENTITY social.directory.button "Leve-me lá!">
 <!ENTITY social.directory.introText "Clique em um serviço para adicioná-lo ao &brandShortName;.">
-
+<!ENTITY social.directory.viewmore.text "Exibir mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Adicionar ferramentas e recursos">
@@ -752,8 +753,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Partes desta página que rastreiam sua atividade online foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saiba mais">
 <!ENTITY trackingContentBlocked.options "Opções">
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 
 
 <!ENTITY trackingContentBlocked.disabled.message "A proteção antirrastreamento está desativada">
