@@ -137,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Հուշում. Նոր որոնիչը կարող եք ավելացնել սեղմած պահելով որոնման դաշտի վրա, ապա կտտացնելով &formatI; պատկերակին:">
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
-
-
+<!ENTITY pref_category_devtools_summary "Հեռակա վրիպազերծում, գունազարդում">
+<!ENTITY pref_developer_paint_flashing "Գունազարդում">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
 

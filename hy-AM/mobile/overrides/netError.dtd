@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
-<li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։</li> 
+<li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։  
 <button id='wifi'>Միացնել Wi-Fi-ը</button> 
 </li> 
 </ul>">
@@ -104,7 +104,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Ստուգեք պրոքսի սպասարկիչի կարգավորումները։</li> 
-<li>Ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<li>Ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  
 <button id='wifi'>Միացնել Wi-Fi-ը</button> 
 </li> 
 </ul>">
@@ -140,7 +140,7 @@
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> 
-<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։</li> 
+<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  
 <button id='wifi'>Միացնել Wi-Fi-ը</button> 
 </li> 
 </ul>">
