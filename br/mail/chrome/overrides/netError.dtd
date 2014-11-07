@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -36,7 +36,7 @@
 
 <!ENTITY netOffline.title "Mod ezlinenn">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pouezit war &quot;Klask en-dro&quot; evit trec'haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li> 
+<li>Pouezit war &quot;Klask en-dro&quot; evit trec&apos;haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
