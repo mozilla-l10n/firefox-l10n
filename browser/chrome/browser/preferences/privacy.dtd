@@ -4,13 +4,13 @@
 
 <!ENTITY tracking.label                 "Fastizar">
 
-<!ENTITY dntTrackingNopref.label2       "Na betg tradir insatge davart mias preferenzas davart suandar fastizs">
+<!ENTITY dntTrackingNopref.label2       "Betg tradir mias preferenzas davart suandar fastizs">
 <!ENTITY dntTrackingNopref.accesskey    "a">
-<!ENTITY dntTrackingNotOkay.label2      "Infurmar websites ch'jau na vul betg ch'ellas suondan mes fastizs">
+<!ENTITY dntTrackingNotOkay.label2      "Communitgar a las websites ch'jau na vi betg ch'ellas suondan mes fastizs">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Infurmar websites ch'jau vul ch'ellas suondan mes fastizs">
+<!ENTITY dntTrackingOkay.label2         "Communitgar a las websites ch'jau vi ch'ellas suondan mes fastizs">
 <!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Dapli infurmaziuns">
+<!ENTITY doNotTrackInfo.label           "Ulteriuras infurmaziuns">
 
 <!ENTITY  history.label                 "Cronologia">
 
