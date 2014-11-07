@@ -33,7 +33,7 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrankopio">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
-<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_label "Rulĉirkaŭaĵa informo">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Kontrolilo">
 <!ENTITY runtimeMenu_showMonitor_accesskey "K">
