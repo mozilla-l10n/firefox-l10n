@@ -82,6 +82,8 @@
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+
+<!ENTITY blocked.label                    "BLOQUEADO">
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
