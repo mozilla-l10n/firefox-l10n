@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Сервер табылмады">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Адресті қателерге тексеріңіз, мысалы, 
+<strong>www</strong>.example.com орнына 
+<strong>ww</strong>.example.com енгізілуі мүмкін</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Іздеу</button> 
+</div> 
+<li>Ешбір парақ жүктелмесе, деректер не Wi-Fi байланысын тексеріңіз. 
+<button id='wifi'>Wi-Fi іске қосу</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "Адрес пішімі қате">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Веб адрестері әдетте келесідей жазылады: 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Іздеу</button> 
+</div> 
+<li>Дұрыс слеш таңбалардың қолдануын тексеріңіз (яғни 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

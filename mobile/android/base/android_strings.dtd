@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Біздің геолокация қызметтерін жақсарту мақсатында құрылғыңыздың жуықталған Wi-Fi және ұялы желілер орналасуын &vendorShortName; қызметімен бөліседі">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -414,27 +414,32 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
 
 <!ENTITY home_remote_tabs_title "Синхрондалған беттер">
-
+<!ENTITY home_remote_tabs_empty "Басқа құрылғыларыңыздан беттер осында көрсетіледі.">
 <!ENTITY home_remote_tabs_unable_to_connect "Қосылу нәтижесіз аяқталды">
+<!ENTITY home_remote_tabs_need_to_sign_in "Firefox тіркелгісін қайта байланыстыру және синхрондауды жалғастыру үшін кіріңіз.">
+<!ENTITY home_remote_tabs_trouble_verifying "Тіркелгіңізді растау мәселелері бар ма?">
+<!ENTITY home_remote_tabs_need_to_verify "Синхрондауды бастау үшін өз Firefox тіркелгісін растаңыз.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 жасырын құрылғы">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; жасырын құрылғы">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Жасырын құрылғылар">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Таңдалған құрылғылар жасыруын алып тастау">
 
 <!ENTITY private_browsing_title "Жекелік шолу">
 <!ENTITY private_tabs_panel_empty_desc "Сіздің жекелік беттеріңіз осында көрсетіледі. Сіздің шолу тарихыңыз және cookies сақталмаса да, бетбелгілер және жүктеліп алынған файлдар құрылғыңызда сақталады.">
 <!ENTITY private_tabs_panel_learn_more "Көбірек білгіңіз келе ме?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Менің беттерім қайда кетті?">
+<!ENTITY remote_tabs_panel_moved_desc "Басқа құрылғыларыңыздан беттерді біз сіздің үй парағыңызға жылжыттық, жаңа бетті ашу кезінде оларға жеңіл түрде қатынауға болады.">
+<!ENTITY remote_tabs_panel_moved_link "Мені жаңа панельге апару.">
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
@@ -504,6 +509,9 @@ Android-тан импорттау">
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "Өзгерістерді іске асыру үшін браузерді қайта іске қосыңыз">
+<!ENTITY new_tablet_pref "Жаңа планшеттік интерфейсті іске қосу">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Жаңа қоңақ сессиясы">
@@ -512,8 +520,8 @@ Android-тан импорттау">
 <!ENTITY guest_session_dialog_cancel "Бас тарту">
 <!ENTITY new_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY new_guest_session_text "Оны қолданатын адам сіздің жеке деректеріңізді көре алмайтын болады (сақталған парольдер, тарих не бетбелгілер сияқты).\n\nҚоңағыңыз өз жұмысын аяқтаған кезде, оның шолу деректері өшіріледі және сіздің сессияңыз қалпына келтіріледі.">
-
-
+<!ENTITY guest_browsing_notification_title "Қоңақ шолу режимі іске қосылған">
+<!ENTITY guest_browsing_notification_text "Шығу үшін шертіңіз">
 
 <!ENTITY exit_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY exit_guest_session_text "Бұл сессияның шолу деректері өшірілетін болады.">
