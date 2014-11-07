@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "Біздің ">
+<!ENTITY support.link2             "қолдау көрсету сайтын">
+<!ENTITY support.post3             " жиі мәселелерге жауаптарды алу үшін шолыңыз.">
 
 <!ENTITY happy.header              "Бұны естуге қуаныштымыз!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
