@@ -17,12 +17,18 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server topilmadi">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>Manzillarning quyidagicha xato yozilganligini tekshirib ko‘ring:
-<strong>ww</strong>.example.com kabi yozilishi xato 
-<strong>www</strong>.example.com</li> shaklida yozilishi kerak 
-<li>Agar birorta ham sahifa yuklanmayotgan bo‘lsa, qurilmangizning internetga yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
-<button id='wifi'>Wi-Fi’ni yoqing</button> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Quyidagiga o‘xshash xatolarni tekshirib chiqing: 
+<strong>ww</strong>.example.com kabi yozilgan bo‘lishi mumkin, aslida  
+<strong>www</strong>.example.com</li> kabi bo‘lishi kerak
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Izlash</button> 
+</div> 
+<li>Agar birorta ham sahifa yuklanmasa, qurilmangizning internetga yoki WI-Fi’ga ulanganligini tekshirib ko‘ring. 
+<button id='wifi'>Wi-Fi’ni yoqish</button> 
 </li> 
 </ul>">
 
@@ -37,10 +43,16 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
 
 <!ENTITY malformedURI.title "Xato manzil">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Veb manzillar, odatda, quyidagicha:
-<strong>http://www.example.com/</strong> yoziladi</li> 
-<li>/ belgisini to‘g‘ri yozilganligini tekshirib ko‘ring 
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Veb manzillar odatda 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> kabi yoziladi
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Izlash</button> 
+</div> 
+<li>To‘g‘ri yo‘naltirish belgisidan foydalanayotganingizga ishonch hosil qiling (masalan: 
 <strong>/</strong>).</li> 
 </ul>">
 
@@ -51,6 +63,8 @@
 <!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName;&apos;ning keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn usuli">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani yangilashga urinib ko‘radi. 
 <button id='wifi'>Wi-Fi’ni yoqish</button> 
@@ -86,6 +100,8 @@ tarmoq administratori bilan bog‘laning.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
 <li>Qurilmangizda internetga ulanish yoqilganligi yoki Wi-Fi’ga ualanganligini tekshirib ko‘ring. 
@@ -119,6 +135,8 @@ serverni buzishga urinishi bo‘lishi mumkin.</li>
 <li>Agar serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato 
 vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Sayt vaqtinchalik ishlamayapti yoki juda band bo‘lishi mumkin. Bir necha daqiqadan keyin urinib ko‘ring.</li> 

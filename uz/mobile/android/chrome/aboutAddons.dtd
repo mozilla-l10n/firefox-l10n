@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Qoʻshimcha dasturlar">
 <!ENTITY aboutAddons.header2                    "Qo‘shimcha dasturlaringiz">
 <!ENTITY aboutAddons.options                    "Parametrlar">
-<!ENTITY aboutAddons.browseAll                  "Barcha &quot;Firefox qo‘shimcha dasturlari&quot;ni ko‘rish">
 
 <!ENTITY addonAction.enable                     "Yoqib qo‘yish">
 <!ENTITY addonAction.disable                    "O‘chirib qo‘yish">

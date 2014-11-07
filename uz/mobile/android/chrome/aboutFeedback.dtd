@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Shuningdek, bu yerga ham kirishingiz mumkin ">
-<!ENTITY support.link              "&brandShortName; yordam">
-<!ENTITY support.post2             " ko‘proq ma’lumot uchun.">
+<!ENTITY support.pre3              "Umumiy muammolarga">
+<!ENTITY support.link2             "javob topish uchun">
+<!ENTITY support.post3             "yordam saytimizga tashrif buyuring.">
 
 <!ENTITY happy.header              "Buni eshitish naqadar ajoyib!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Balkim, kiyinroq">
 <!ENTITY happy.noThanks            "Yo‘q, rahmat">
 
+<!ENTITY sad.header                "Yo‘q, yo‘q!">
 <!ENTITY sad.message               "&brandShortName; bilan muammo bo‘lganligi uchun sizdan uzr so‘raymiz. Bizga nima bo‘lgani haqida ayting, biz tezda uni hal qilamiz.">
 <!ENTITY sad.placeholder           "Mulohazangizni bu yerga kiriting">
-<!ENTITY sad.lastSite              "So‘nggi kirilgan sayt (majburiy emas)">
+<!ENTITY sad.lastSite2             "So‘nggi tashrif buyurilgan sahifani ham qo‘shish">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Bizga bildirganingiz uchun rahmat.">
+<!ENTITY sad.thanksHeader2         "Rahmat.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Yoki yana.">
 
-<!ENTITY feedback.privacy          "Xavfsizligingiz uchun birorta ham shaxsingiz haqidagi ma’lumotlarni mulohazangizga qo‘shmang.">
+<!ENTITY feedback.privacy2         "Xavfsizligingiz uchun birorta ham shaxsingiz haqidagi ma’lumotlarni mulohazangizga qo‘shmang.">
 <!ENTITY feedback.send             "Mulohaza jo‘natish">

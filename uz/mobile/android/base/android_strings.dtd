@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Sozlamalar">
 <!ENTITY pref_category_advanced "Qo‘shimcha">
 <!ENTITY pref_category_customize "Moslash">
+<!ENTITY pref_category_customize_summary "Uy, izlash, ichki oynalar, import">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Til">
+<!ENTITY pref_category_language_summary "Brauzeringiz tilini o‘zgartirish">
 <!ENTITY pref_browser_locale "Brauzer tili">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Xatcho‘p">
 <!ENTITY overlay_share_reading_list_btn_label "O‘qish ro‘yxatiga qo‘shish">
+<!ENTITY overlay_share_bookmark_btn_label_already "Allaqachon xatcho‘plarga qo‘shildi">
+<!ENTITY overlay_share_reading_list_btn_label_already "Allaqachon o‘qish ro‘yxatida">
 <!ENTITY overlay_share_send_other "Boshqa qurilmalarga jo‘natish">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Izlash">
 <!ENTITY pref_category_search_summary "Izlash tizimlarini moslash">
 <!ENTITY pref_category_display "Ko‘rsatish">
+<!ENTITY pref_category_display_summary "Matn, sarlavha paneli, butun ekranda ko‘rish">
 <!ENTITY pref_category_privacy_short "Maxfiylik">
+<!ENTITY pref_category_privacy_summary "Parollar, kukilar, kuzatish, ma’lumotlarni boshqarish">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "&brandShortName;, KSSlar, ma’lumotlarni tanlash haqida">
 <!ENTITY pref_category_datareporting "Tanlangan ma’lumotlar">
 <!ENTITY pref_learn_more "Koʻproq o‘rganish">
 <!ENTITY pref_category_installed_search_engines "Izlash tizimlari o‘rnatildi">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: birorta veb sahifani izlash xizmatlariga ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing va so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
+<!ENTITY pref_category_devtools_summary "Masofadan tuzatish, yarqiratib bo‘yash">
 <!ENTITY pref_developer_paint_flashing "Charaqlatib bo‘yash">
 <!ENTITY pref_developer_remotedebugging "Masofadan turib nosozliklarni hal qilish">
 <!ENTITY pref_remember_signons "Parolni eslab qolish">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Menyu ko‘rsatilmasin">
 <!ENTITY pref_clear_private_data2 "Hozir tozalash">
 <!ENTITY pref_clear_private_data_category "Menyu ko‘rsatilmasin">
-<!ENTITY pref_clear_on_exit_title "Chiqayotganda doim tozalansin">
+<!ENTITY pref_clear_on_exit_title2 "Chiqishda tozalash">
 <!ENTITY pref_clear_on_exit_summary2 "Asosiy menyudan \u0022Quit\u0022 ni tanlasangiz, avtomatik tarzda &brandShortName; ma’lumotlaringizni tozalaydi.">
 <!ENTITY pref_clear_on_exit_dialog_title "Tozalanadigan ma’lumotlarni tanlang">
 <!ENTITY pref_plugins "Plaginlar">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Parol ustasidan foydalaning">
 <!ENTITY pref_sync "Sinxronlash">
+<!ENTITY pref_sync_summary "Ichki oynalar, xatcho‘plar, parollar, tarixni sinxronlash">
 <!ENTITY pref_search_suggestions "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
 <!ENTITY pref_import_android "Androiddan emport qilish">
+<!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
 <!ENTITY pref_private_data_formdata "Shakl va izlash tarixi">
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Nosozlik ma’lumot bergichi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; joylashuv xizmatlari">
-<!ENTITY datareporting_wifi_geolocation_summary "Orqa fonda ishga tushirilganda Wi-Fi va tarmoqdagi joylashuv ma’lumotlari qabul qilinadi va &vendorShortName; bilan geojoylash xizmatini yaxshilash uchun baham ko‘riladi">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Geojoylashuvimiz xizmatini yaxshilash uchun &vendorShortName; bilan qurilmangizning mobil tarmoq manzili va taxminiy Wi-Fi’ni bo‘lishishlar">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Yangilanishlarni avtomatik yuklab olish">
 <!ENTITY pref_update_autodownload_wifi "Faqat Wi-Fi orqali">
 <!ENTITY pref_update_autodownload_never "Hech qachon">
@@ -271,7 +280,7 @@ size. -->
 
 <!ENTITY quit "Chiqish">
 
-<!ENTITY addons "Qoʻshimcha dasturlar">
+<!ENTITY addons "Qo‘shimcha dasturlar">
 <!ENTITY downloads "Yuklab olishlar">
 <!ENTITY apps "Ilova dasturlar">
 <!ENTITY char_encoding "Kodlash usuli">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Maxfiy">
 <!ENTITY tabs_synced "Sinxronlandi">
 <!ENTITY set_image_fail "Rasmni o‘rnatib bo‘lmadi">
+<!ENTITY set_image_path_fail "Rasmni saqlab bo‘lmadi">
 <!ENTITY set_image_chooser_title "Rasm sifatida o‘rnatish">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Tepaga &formatS;">
 
+<!ENTITY home_remote_tabs_title "Sinxronlangan ichki oynalar">
+<!ENTITY home_remote_tabs_empty "Boshqa qurilmalaringizdagi ichki oynalar bu yerda ko‘rsatiladi.">
+<!ENTITY home_remote_tabs_unable_to_connect "Ulana olmadi">
+<!ENTITY home_remote_tabs_need_to_sign_in "Firefox hisobingizga qayta ulanish va sinxornlashni davom ettirish uchun kiring.">
+<!ENTITY home_remote_tabs_trouble_verifying "Hisobingizni tasdiqlashda muammo yuz berdimi?">
+<!ENTITY home_remote_tabs_need_to_verify "Sinxronlashni boshlash uchun Firefox hisobingizni tasdiqlang.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 ta qurilma yashirilgan">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ta qurilma yashirilgan">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Yashirilgan qurilmalar">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Tanlangan qurilmalarni ko‘rsatish">
+
 <!ENTITY private_browsing_title "Maxfiy ko‘rish">
 <!ENTITY private_tabs_panel_empty_desc "Maxfiy ichki oynalaringiz bu yerda ko‘rinadi. Biz ko‘rish tarixi yoki kukilar, xatcho‘plar va faylllarni saqlamasak ham, yuklab olgan narsalaringiz qurilmada saqlanib qoladi.">
 <!ENTITY private_tabs_panel_learn_more "Ko‘proq o‘rganishni xohlaysizmi?">
+
+<!ENTITY remote_tabs_panel_moved_title "Ichki oynalarim qayerga ketdi?">
+<!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz sizning boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
+<!ENTITY remote_tabs_panel_moved_link "Meni yangi panelimga o‘tkaz.">
 
 <!ENTITY pin_site_dialog_hint "Izlash uchun kalit so‘zni kiriting">
 
@@ -474,6 +508,12 @@ import qilinmoqda">
 
 <!ENTITY updater_apply_title2 "&brandShortName; uchun yangilanishlar mavjud">
 <!ENTITY updater_apply_select2 "Yangilash uchun bosing">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "O‘zgarishlar kuchga kirishi uchun brauzerni qaytadan ishga tushiring">
+<!ENTITY new_tablet_pref "Yangi planshet grafik muhitini yoqish">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yangi mehmon seansi">
@@ -482,6 +522,8 @@ import qilinmoqda">
 <!ENTITY guest_session_dialog_cancel "Bekor qilish">
 <!ENTITY new_guest_session_title "&brandShortName; hozir qayta ishga tushiriladi">
 <!ENTITY new_guest_session_text "Foydalanayotgan inson sizning birorta ham shaxsiy ko‘rish ma’lumotlaringizni (saqlangan parollar, tarix va xatcho‘plar kabi) ko‘ra olmaydi.\n\n Mehmoningiz ishini tugatgandan so‘ng, uning ko‘rish ma’lumotlari o‘chiriladi va sizning seansingiz tiklanadi.">
+<!ENTITY guest_browsing_notification_title "Mehmon sifatida kirish yoqilgan">
+<!ENTITY guest_browsing_notification_text "Chiqish uchun bosing">
 
 <!ENTITY exit_guest_session_title "&brandShortName; hozir qayta ishga tushiriladi">
 <!ENTITY exit_guest_session_text "Ushbu seansda ko‘rilgan ma’lumotlar o‘chiriladi.">
