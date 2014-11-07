@@ -55,3 +55,4 @@
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copia testo negli appunti">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia dati non elaborati negli appunti">
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
