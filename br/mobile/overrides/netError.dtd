@@ -20,7 +20,7 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Gwiriit ar chomlec'h da gaout fazioù biziata evel
+<li>Gwiriit ar chomlec'h da gaout fazioù biziata evel 
 <strong>ww</strong>.skouer.com e-lec'h 
 <strong>www</strong>.skouer.com</li> 
 <div id='searchbox'> 
@@ -33,9 +33,9 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Restr ebet kavet">
-<!ENTITY fileNotFound.longDesc "<ul>
-<li>Gwiriit anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li>
-<li>Gwiriit hag-eñ eo bet dilec'hiet, adanvet pe dilamet ar restr</li>
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Gwiriit anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li> 
+<li>Gwiriit hag-eñ eo bet dilec'hiet, adanvet pe dilamet ar restr</li> 
 </ul>">
 
 
@@ -45,10 +45,10 @@
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec'h">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>
+<!ENTITY malformedURI.longDesc2 "<ul> 
 <li>Skrivet e vez ar chomlec'hioù evel 
 <strong>http://www.skouer.com/</strong></li> 
- <div id='searchbox'> 
+<div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Klask</button> 
 </div> 
@@ -66,19 +66,19 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
-<li>Klaskit en-dro. &brandShortName; a glasko digeriñ ur c'hennask hag adkargañ ar bajennad.
+<li>Klaskit en-dro. &brandShortName; a glasko digeriñ ur c'hennask hag adkargañ ar bajennad. 
 <button id='wifi'>Gweredekaat ar Wi-Fi</button> 
 </li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
-<!ENTITY contentEncodingError.longDesc " <ul>
- <li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li>
+<!ENTITY contentEncodingError.longDesc " <ul> 
+<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Rizh restr arvarus ">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li>
+<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Ehanet eo bet ar c'hennaskañ">
@@ -88,15 +88,15 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "N'eo ket bet komprenet ar chomlec'h">
-<!ENTITY unknownProtocolFound.longDesc "<ul>
-<li>Ezhomm hoc'h eus staliañ ur meziant all evit digeriñ ar chomlec'h marteze.</li>
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Ezhomm hoc'h eus staliañ ur meziant all evit digeriñ ar chomlec'h marteze.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "An dafariad proksi a nac'h ar c'hennaskañ">
-<!ENTITY proxyConnectFailure.longDesc "<ul>
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Gwiriit an arventennoù proksi evit bezañ sur ez int reizh.</li> 
 <li>Kit e darempred gant hoc'h ardoer reizhiad evit bezañ sur ez a en-dro 
-an dafariad proksi.</li>
+an dafariad proksi.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "N'eo ket bet kavet an dafariad proksi">
@@ -111,27 +111,27 @@ an dafariad proksi.</li>
 
 <!ENTITY redirectLoop.title "Adheñchañ ar bajenn n'eo ket dereat">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>A-wechoù e c'hoarvez ar gudenn-mañ rak diweredekaet pe nac'het eo bet an
+<li>A-wechoù e c'hoarvez ar gudenn-mañ rak diweredekaet pe nac'het eo bet an 
 toupinoù.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Respont dic'hortoz a-berzh an dafariad">
-<!ENTITY unknownSocketType.longDesc "<ul>
-<li>Bezit sur eo bet staliet an ardoer diogelroez personel (Personal Security Manage).</li>
-<li>Marteze e c'hoarvez an dra-se abalamour d'ur c'hefluniadur anskoueriek war an dafariad.</li>
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Bezit sur eo bet staliet an ardoer diogelroez personel (Personal Security Manage).</li> 
+<li>Marteze e c'hoarvez an dra-se abalamour d'ur c'hefluniadur anskoueriek war an dafariad.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaskañ diogel">
-<!ENTITY nssFailure2.longDesc2 "<ul>
-<li>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet dilested ar roadennoù bet degemeret.</li>
-<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li>
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet dilested ar roadennoù bet degemeret.</li> 
+<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaskañ diogel">
-<!ENTITY nssBadCert.longDesc2 "<ul>
+<!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask 
 dreveziñ an dafariad.</li> 
-<li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li>
+<li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
