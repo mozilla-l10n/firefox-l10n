@@ -5,6 +5,11 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; ଆରମ୍ଭ କରିବା ପାଇଁ  ଅଧିକ ସ୍ଥାନ ନାହିଁ ।">
 <!ENTITY  error_loading_file "&brandShortName; ଚଳାଇବା ପାଇଁ ଫାଇଲଟିଏ ଲୋଡ଼ କଲାବେଳେ ଅସୁବିଧାଟିଏ ଘଟିଲା">
+
+<!ENTITY  onboard_start_message "&brandShortName; ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ!">
+
+<!ENTITY  onboard_start_button_account "&brandShortName; ରେ ସାଇନ ଇନ୍‌ କରନ୍ତୁ">
+<!ENTITY  onboard_start_button_browser "ବ୍ରାଉଜିଙ୍ଗ ଆରମ୍ଭ କରନ୍ତୁ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,7 +39,7 @@
 
 <!ENTITY choose_file "ଫାଇଲ ବାଛନ୍ତୁ">
 
-<!ENTITY url_bar_default_text "ଖୋଜନ୍ତୁ ଅଥବା ଠିକଣା ଦିଅନ୍ତୁ">
+<!ENTITY url_bar_default_text2 "ଠିକଣା ଖୋଜନ୍ତୁ ଅଥବା ଲେଖନ୍ତୁ">
 
 <!ENTITY bookmark "ବୁକମାର୍କ">
 <!ENTITY bookmark_added "ବୁକମାର୍କ ଯୋଡାଯାଇଛି">
@@ -73,23 +78,51 @@
 <!ENTITY settings_title "ସଂରଚନା">
 <!ENTITY pref_category_advanced "ଉନ୍ନତ">
 <!ENTITY pref_category_customize "ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ଭାଷା">
+<!ENTITY pref_category_language_summary "ଆପଣଙ୍କ ବ୍ରାଉଜରର ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY pref_browser_locale "ବ୍ରାଉଜର ଭାଷା">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "ସିଷ୍ଟମ ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; ରେ ଯୋଗ କରନ୍ତୁ">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "ବୁକମାର୍କ">
+<!ENTITY overlay_share_reading_list_btn_label "ପଢ଼ିବା ତାଲିକାରେ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY overlay_share_bookmark_btn_label_already "ପୂର୍ବରୁ ବୁକମାର୍କ୍‌ କରାହୋଇଛି">
+<!ENTITY overlay_share_reading_list_btn_label_already "ପୂର୍ବରୁ ପଠନ ତାଲିକାରେ ଅଛି">
+<!ENTITY overlay_share_send_other "ଅନ୍ୟ ଉପକରଣଗୁଡ଼ିକୁ ପଠାନ୍ତୁ">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "ଅନ୍ୟ ଏକ ଉପକରଣକୁ ପଠାନ୍ତୁ">
+<!ENTITY overlay_share_no_url "ଏହି ସହଭାଗରେ କୌଣସି ଲିଙ୍କ ମିଳିଲା ନାହିଁ">
+<!ENTITY overlay_share_retry "ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ">
+<!ENTITY overlay_share_select_device "ଉପକରଣ ବାଛନ୍ତୁ">
 
 <!ENTITY pref_category_search3 "ଖୋଜନ୍ତୁ">
 <!ENTITY pref_category_search_summary "ନିଜ ସନ୍ଧାନ ପ୍ରଦାନକାରୀଙ୍କୁ ଇଚ୍ଛା ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ">
 <!ENTITY pref_category_display "ପ୍ରଦର୍ଶନୀ">
+
 <!ENTITY pref_category_privacy_short "ଗୋପନୀୟତା">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "ତଥ୍ଯ ପସନ୍ଦଗୁଡ଼ିକ">
 <!ENTITY pref_learn_more "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 <!ENTITY pref_category_installed_search_engines "ସ୍ଥାପିତ ସନ୍ଧାନ ଯନ୍ତ୍ରଗୁଡ଼ିକ">
@@ -104,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ଖୋଜିବା ଘରେ ଅଧିକ ସମୟ ବଟନ ଦବାଇରଖି ଓ ତାହାପରେ &formatI; ଆଇକନ ଦବାଇ ନିଜ ତାଲିକାରେ ଯେକୌଣସି ୱେବସାଇଟ ଯୋଡ଼ନ୍ତୁ ।">
 <!ENTITY pref_category_devtools "ବିକାଶକାରୀ ସାଧନ">
+
 <!ENTITY pref_developer_paint_flashing "ଗଙ୍ଗ ଫ୍ଲାସ କରୁଅଛି">
 <!ENTITY pref_developer_remotedebugging "ଦୂରରୁ ରହି ଅସୁବିଧା ସୁଧାରିବା">
 <!ENTITY pref_remember_signons "ପ୍ରବେଶ ସଂକେତ ମନେରଖନ୍ତୁ">
@@ -148,8 +182,8 @@
 <!ENTITY pref_char_encoding_off "ତାଲିକା ଦେଖାନ୍ତୁ ନାହିଁ">
 <!ENTITY pref_clear_private_data2 "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
 <!ENTITY pref_clear_private_data_category "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ">
-<!ENTITY pref_clear_on_exit_title "ବିଦାୟ ନେବା ସମୟରେ ସର୍ବଦା ସଫାକରନ୍ତୁ">
-<!ENTITY pref_clear_on_exit_summary "ମୂଖ୍ୟ ତାଲିକାରୁ \&quot;ବିଦାୟ\&quot; କୁ ବାଛିଲେ &brandShortName; ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଆପଣଙ୍କର ତଥ୍ୟକୁ ସଫାକରିବ">
+
+
 <!ENTITY pref_clear_on_exit_dialog_title "କେଉଁ ତଥ୍ୟକୁ ସଫାକରିବା ଉଚିତ ତାହା ବାଛନ୍ତୁ">
 <!ENTITY pref_plugins "ପ୍ଲଗଇନଗୁଡ଼ିକ">
 <!ENTITY pref_plugins_enabled "ସକ୍ରିୟ">
@@ -178,10 +212,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "ଇଂରାଜୀର ସବୁ ଅକ୍ଷର ଥିବା ଏକ ବାକ୍ୟ ଦି କୁଇକ ଅରେଞ୍ଜ ଫକ୍ସ ଅଧିକ ସୁରକ୍ଷାର ସହିତ ଆପଣଙ୍କ ଆଶାନୁରୂପ ବେଗଠୁ ଅଧିକ ଜୋରରେ ଧାଉଁଛି । ଏକ ଅଣ-ଲାଭକାରୀ ସଙ୍ଗଠନ ଭାବେ ଆମେ ଯେତେ ଅଧିକ ପାରୁଛୁ ଆପଣଙ୍କ ସୁବିଧା ପାଇଁ ନୂଆ ନୂଆ ବାଟ ଆପଣାଉଛୁ । ତାହା ଆପଣଙ୍କ ପାଇଁ ଅଧିକ ସୁବିଧା ଆଣିଦେବା ସହ ୱେବ ପାଇଁ ଏକ ଉଜ୍ଜଳ ଭବିଷ୍ୟତର ଆରମ୍ଭ କରିବ ।">
 
 <!ENTITY pref_use_master_password "ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY pref_show_product_announcements "ଉତ୍ପାଦନ ଘୋଷଣାଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "ସନ୍ଧାନ ପ୍ରସ୍ତାବଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY pref_import_android "ଆଣ୍ଡ୍ରଏଡରୁ ଆଣନ୍ତୁ">
+
 <!ENTITY pref_private_data_history2 "ବ୍ରାଉଜିଂ ଇତିହାସ">
 <!ENTITY pref_private_data_formdata "ଫର୍ମ &amp; ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY pref_private_data_cookies2 "କୁକି ଓ ସକ୍ରିୟ ଲଗଇନମାନ">
@@ -231,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ନଷ୍ଟ ବିବରଣୀକାରୀ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ଅବସ୍ଥିତି ସର୍ଭିସ">
-<!ENTITY datareporting_wifi_geolocation_summary "ଭୌଗଳିକ ଅବସ୍ଥିତି ସର୍ଭିସକୁ ଉନ୍ନତ କରିବା ପାଇଁ ପ୍ରଚ୍ଛଦରେ ଚାଲୁଥିବା ସମୟରେ Wi-Fi ଓ ସେଲ୍ୟୁଲାର ଅବସ୍ଥିତି ତଥ୍ୟ &vendorShortName;ଙ୍କୁ ଜଣାଇଥାଏ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଆହରଣ କରନ୍ତୁ">
 <!ENTITY pref_update_autodownload_wifi "କେବଳ Wi-Fi ରେ">
 <!ENTITY pref_update_autodownload_never "କଦାପି ନୁହଁ">
@@ -267,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "ବ୍ଯକ୍ତିଗତ">
 <!ENTITY tabs_synced "ସନ୍ତୁଳିତ">
 <!ENTITY set_image_fail "ଛବି ସେଟ କରିପାରୁନାହିଁ">
+
 <!ENTITY set_image_chooser_title "ଛବି ଏହିପରି ସେଟ କରନ୍ତୁ">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -275,10 +310,8 @@ size. -->
 <!ENTITY find_prev "ପୂର୍ବ">
 <!ENTITY find_next "ପରବର୍ତ୍ତୀ">
 <!ENTITY find_close "ବନ୍ଦକରନ୍ତୁ">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "ଉପକରଣରେ ଆରମ୍ଭ କରୁଅଛି">
 <!ENTITY media_play "ଚଲାନ୍ତୁ">
 <!ENTITY media_pause "ବିରତି">
 <!ENTITY media_stop "ଅଟକାନ୍ତୁ">
@@ -302,10 +335,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "ଶିରୋନାମ ପଟି">
 <!ENTITY pref_titlebar_mode_title "ପୃଷ୍ଠାର ନାମଟି ଦେଖାନ୍ତୁ">
 <!ENTITY pref_titlebar_mode_url "ପୃଷ୍ଠାର ୱେବଠିକଣା ଦେଖାନ୍ତୁ">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "ଶିରୋନାମ ପଟି ଉପରେ ସ୍କ୍ରୋଲ କରନ୍ତୁ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -377,9 +409,31 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; ପର୍ଯ୍ୟନ୍ତ">
 
+
+<!ENTITY home_remote_tabs_unable_to_connect "ସଂଯୋଗ କରିବାରେ ଅସମର୍ଥ">
+
+
+
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 ଉପକରଣ ଲୁଚିଅଛି">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ଉପକରଣ ଲୁଚିଅଛି">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "ଲୁଚିରହିଥିବା ଉପକରଣଗୁଡ଼ିକ">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "ବଚ୍ଛିତ ଉପକରଣଗୁଡ଼ିକୁ ଲୁଚାଇ ରଖନ୍ତୁ ନାହିଁ">
+
 <!ENTITY private_browsing_title "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ">
 <!ENTITY private_tabs_panel_empty_desc "ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଏଠାରେ ଦର୍ଶାଯିବ। ଆମେ ଆପଣଙ୍କର କୌଣସି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ କିମ୍ବା କୁକି, ଚିହ୍ନିତ ସ୍ଥାନ ଏବଂ ଫାଇଲଗୁଡ଼ିକୁ ରଖିବୁ ନାହିଁ ଯାହାକୁ ଆପଣ ଆହରଣ କରୁଛନ୍ତି ଏବଂ ତାହା ଆପଣଙ୍କର ଉପକରଣରେ ସଂରକ୍ଷିତ ହୋଇ ରହିବ।">
 <!ENTITY private_tabs_panel_learn_more "ଅଧିକ ଜାଣିବାକୁ ଚାହୁଁଛନ୍ତି କି?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "ସନ୍ଧାନସୂଚକ ଶବ୍ଦଟିେ ଲେଖନ୍ତୁ">
 
@@ -448,6 +502,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; ପାଇଁ ଅଦ୍ୟତନ ଉପଲବ୍ଧ">
 <!ENTITY updater_apply_select2 "ଅଦ୍ୟତନ କରିବା ପାଇଁ ଛୁଅଁନ୍ତୁ">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ନୂଆ ଅତିଥି ଅଧିବେଶନ">
@@ -457,6 +514,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; ଅଧୁନା ପୁନରାରମ୍ଭ ହେବ">
 <!ENTITY new_guest_session_text "ଏହାକୁ ବ୍ୟବହାର କରୁଥିବା ବ୍ୟକ୍ତି ଆପଣଙ୍କର କୌଣସି ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ଦେଖିପାରିବ ନାହିଁ (ଯଥା: ସଞ୍ଚିତ ପାସୱାର୍ଡ଼, ପୁରୁଣା ତଥ୍ୟ କିମ୍ବା ପୃଷ୍ଠାସଂକେତ)।\n\nଆପଣଙ୍କର ଅତିଥିଙ୍କର କାମ ସରିବା ପରେ, ସେମାନଙ୍କ ବ୍ରାଉଜିଙ୍ଗ ତଥ୍ୟ ଅପସାରଣ କରାଯିବ ଏବଂ ଆପଣଙ୍କର ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପନ କରାଯିବ ।">
 
+
+
 <!ENTITY exit_guest_session_title "&brandShortName; ବର୍ତ୍ତମାନ ପୁନଃଚାଳନ ହେବ">
 <!ENTITY exit_guest_session_text "ଏହି ଅଧିବେଶନରୁ ବ୍ରାଉଜିଙ୍ଗ ତଥ୍ୟକୁ ଅପସାରଣ କରାଯିବ।">
 <!-- Miscellaneous -->
@@ -465,6 +524,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
