@@ -60,7 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Open Location…">
+<!ENTITY openLocationCmd.label "Відкрити розташування…">
 <!ENTITY openFileCmd.label "Відкрити файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
@@ -82,12 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "к">
 <!ENTITY bookmarksToolbarItem.label "Елементи панелі закладок">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reload All Tabs">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bookmark All Tabs…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Undo Close Tab">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Перезавантажити всі вкладки">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "П">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закласти всі вкладки…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "З">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Відновити закриту вкладку">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "В">
 
 <!ENTITY pageSourceCmd.label "Початковий код сторінки">
 <!ENTITY pageSourceCmd.accesskey "а">
@@ -219,8 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Вміст…">
+<!ENTITY devtoolsConnect.accesskey    "В">
 
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey    "м">
@@ -576,7 +576,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Вийти"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "й">
-<!ENTITY quitApplicationCmdWin.tooltip     "Exit &brandShortName;">
+<!ENTITY quitApplicationCmdWin.tooltip     "Вийти з &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Вийти"> 
@@ -699,13 +699,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Відновити типові">
 <!ENTITY customizeMode.toolbars "Показати / Сховати панелі">
 <!ENTITY customizeMode.titlebar "Панель заголовку">
-<!ENTITY customizeMode.lwthemes "Themes">
-<!ENTITY customizeMode.lwthemes.myThemes "My Themes">
-<!ENTITY customizeMode.lwthemes.recommended "Recommended">
-<!ENTITY customizeMode.lwthemes.menuManage "Manage">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Get More Themes">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes "Теми">
+<!ENTITY customizeMode.lwthemes.myThemes "Мої теми">
+<!ENTITY customizeMode.lwthemes.recommended "Рекомендовані">
+<!ENTITY customizeMode.lwthemes.menuManage "Керувати">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Отримати більше тем">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "б">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
@@ -720,28 +720,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ до мікрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
-<!ENTITY getUserMedia.allWindowsShared.message "All visible windows on your screen will be shared.">
+<!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
 <!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Most websites will work properly even if content is blocked.">
+<!ENTITY badContentBlocked.moreinfo "Більшість веб-сайтів будуть працювати правильно, навіть якщо вміст заблокований.">
 
-<!ENTITY mixedContentBlocked2.message "Insecure content">
-<!ENTITY mixedContentBlocked2.moreinfo "Some unencrypted elements on this website have been blocked.">
-<!ENTITY mixedContentBlocked2.learnMore "Learn More">
-<!ENTITY mixedContentBlocked2.options "Options">
-<!ENTITY mixedContentBlocked2.unblock.label "Disable protection for now">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Enable protection">
-<!ENTITY mixedContentBlocked2.block.accesskey "B">
-<!ENTITY mixedContentBlocked2.disabled.message "Protection is disabled">
+<!ENTITY mixedContentBlocked2.message "Небезпечний вміст">
+<!ENTITY mixedContentBlocked2.moreinfo "Деякі незашифровані елементи на цьому веб-сайті заблоковано.">
+<!ENTITY mixedContentBlocked2.learnMore "Дізнатися більше">
+<!ENTITY mixedContentBlocked2.options "Налаштування">
+<!ENTITY mixedContentBlocked2.unblock.label "Тимчасово вимкнути захист">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "в">
+<!ENTITY mixedContentBlocked2.block.label "Увімкнути захист">
+<!ENTITY mixedContentBlocked2.block.accesskey "У">
+<!ENTITY mixedContentBlocked2.disabled.message "Захист вимкнено">
 
-<!ENTITY trackingContentBlocked.message "Tracking">
-<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
-<!ENTITY trackingContentBlocked.learnMore "Learn More">
-<!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock.label2 "Disable protection for this site">
-<!ENTITY trackingContentBlocked.block.label "Enable protection">
-<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
+<!ENTITY trackingContentBlocked.message "Стеження">
+<!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
+<!ENTITY trackingContentBlocked.learnMore "Дізнатися більше">
+<!ENTITY trackingContentBlocked.options "Налаштування">
+<!ENTITY trackingContentBlocked.unblock.label2 "Вимкнути захист для цього сайту">
+<!ENTITY trackingContentBlocked.block.label "Увімкнути захист">
+<!ENTITY trackingContentBlocked.disabled.message "Захист від стеження вимкнено">
 
 <!ENTITY pointerLock.notification.message "Натисніть ESC будь-коли, щоб показати його знову.">
 
