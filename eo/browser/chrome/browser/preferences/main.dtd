@@ -37,7 +37,7 @@
 <!ENTITY setAsMyDefaultBrowser.label      "Igi &brandShortName; mia ĉefa retesplorilo">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "e">
 <!ENTITY setAsMyDefaultBrowser2.label     "Igi ĉefa">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "I">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "g">
 <!ENTITY isDefault.label                  "&brandShortName; estas nuntempe via ĉefa retesplorilo">
 <!ENTITY isNotDefault.label               "&brandShortName; ne estas via ĉefa retesplorilo">
 
