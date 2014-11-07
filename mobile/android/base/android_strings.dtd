@@ -78,13 +78,13 @@
 <!ENTITY settings_title "Configurações">
 <!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
-
+<!ENTITY pref_category_customize_summary "Página inicial, pesquisar, abas, importar">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Idioma">
-
+<!ENTITY pref_category_language_summary "Alterar o idioma do seu navegador">
 <!ENTITY pref_browser_locale "Idioma do navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -103,7 +103,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "Favoritar">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
 
-
+<!ENTITY overlay_share_reading_list_btn_label_already "Já na lista de leitura">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
