@@ -20,8 +20,8 @@
 <!ENTITY  panePrivacy.title       "Privacy">
 <!ENTITY  paneSecurity.title      "Security">
 <!ENTITY  paneAdvanced.title      "Advanced">
-
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
 <!ENTITY  paneSync.title          "Sync">
 <!ENTITY  buttonForward.tooltip   "Go forwards one page">
 <!ENTITY  buttonBack.tooltip      "Go backwards one page">
