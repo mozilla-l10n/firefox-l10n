@@ -7,7 +7,9 @@
 <!ENTITY refreshProfile.dialog.description2  "Нәтижесінде:">
 <!ENTITY refreshProfile.dialog.items.label1  "Кеңейтулер және баптаулар өшіріледі">
 <!ENTITY refreshProfile.dialog.items.label2  "Браузер баптаулары бастапқы мәндеріне тасталады">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; жұмысын жаңғырту">
 
+<!ENTITY refreshProfile.title                "&brandShortName; үдетіп жіберу">
+<!ENTITY refreshProfile.button.label         "&brandShortName; жұмысын жаңғырту…">
 
-
-
+<!ENTITY refreshProfile.cleaning.description "Дайын болуға жақын…">
