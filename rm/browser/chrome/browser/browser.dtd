@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Mussar/zuppentar utensils">
+<!ENTITY devToolboxMenuItem.label          "Mussar/zuppentar ils utensils">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
@@ -698,7 +698,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.titlebar "Trav dal titel">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focussar il chat">
+<!ENTITY social.chatBar.label "Focussar ils chats">
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
@@ -715,11 +715,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
 <!ENTITY webrtcIndicatorButton.label "Access la camera / microfon">
-<!ENTITY webrtcIndicatorButton.tooltip "Mussar las paginas che han actualmain access a tia camera u tes microfon">
+<!ENTITY webrtcIndicatorButton.tooltip "Mussar las paginas che han actualmain access a tia camera u a tes microfon">
 
 <!ENTITY loopCallButton.tooltip "Envidar insatgi per discurrer">
 
-<!ENTITY mixedContentBlocked.moreinfo "La pli gronda part da las paginas d'internet vegnan era a funcziunar sche quest cuntegn vegn bloccà.">
+<!ENTITY mixedContentBlocked.moreinfo "La pli gronda part da las paginas d'internet funcziuneschan era sche quest cuntegn vegn bloccà.">
 
 <!ENTITY pointerLock.notification.message "Smatga ESC per mussar puspè quai messadi.">
 

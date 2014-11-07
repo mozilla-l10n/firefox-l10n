@@ -53,7 +53,7 @@
 <!ENTITY report.disabled                                     "Annunzias da collaps èn deactivadas.">
 <!ENTITY report.failed                                       "Errur cun trametter.">
 <!ENTITY report.unavailable                                  "Nagina annunzia disponibla.">
-<!ENTITY report.comment                                      "Agiuntar in commentari (commentaris èn visibels publicamain)">
+<!ENTITY report.comment                                      "Agiuntar in commentari (commentaris vegnan publitgads)">
 <!ENTITY report.pageURL                                      "Integrar la URL da la pagina">
 
 <!ENTITY plugin.file                                         "Datoteca">
