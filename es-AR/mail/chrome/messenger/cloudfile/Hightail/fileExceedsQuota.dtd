@@ -3,9 +3,6 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Límite de almacenamiento alcanzado">
-<!ENTITY fileExceedsQuota.accept "Actualizar">
-<!ENTITY fileExceedsQuota.cancel "Cancelar">
 <!ENTITY fileExceedsQuota.description "Ha alcanzado el límite de almacenamiento de su cuenta de 2GB.">
 <!ENTITY fileExceedsQuota.description1 "El uso de almacenamiento actual es de #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Actualice hoy a una cuenta Pro Plus y consiga más almacenamiento.">
-<!ENTITY fileExceedsQuota.description3 "También puede elegir borrar archivos de su cuenta para crear más espacio.">
+
