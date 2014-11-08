@@ -39,6 +39,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Nastavenia zariadenia">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 
 <!ENTITY viewMenu_label "Zobraziť">
 <!ENTITY viewMenu_accesskey "Z">
@@ -131,6 +133,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Oprávnenia obmedzené na DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "vyžiadať vyššie oprávnenia">
 <!ENTITY runtimedetails_privilegesWarning "(reštartuje zariadenie. Vyžaduje root práva.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Nastavenia zariadenia">
+<!ENTITY devicepreferences_search "Hľadať v nastaveniach">
+<!ENTITY devicepreferences_newname "Názov novej predvoľby">
+<!ENTITY devicepreferences_newtext "Hodnota predvoľby">
+<!ENTITY devicepreferences_addnew "Pridať novú predvoľbu">
+<!ENTITY devicepreferences_typeboolean "Logická">
+<!ENTITY devicepreferences_typenumber "Celé číslo">
+<!ENTITY devicepreferences_typestring "Reťazec">
+<!ENTITY devicepreferences_typenone "Zvoľte typ">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
