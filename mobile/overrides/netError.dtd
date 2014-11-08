@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc             "">
 
 <!ENTITY dnsNotFound.title                     "Serverit ei leitud">
-<!ENTITY dnsNotFound.longDesc3                 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4                 "
 <ul>
   <li>Kontrolli, kas aadressis pole kirjavigu nagu
     <strong>www</strong>.eesti.ee asemel hoopis
     <strong>ww</strong>.eesti.ee.</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Otsi</button>
+    </div>
   <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma seadme andmeside või Wi-Fi ühendust.
     <button id='wifi'>Luba Wi-Fi</button>
 </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title                    "Aadress pole korrektne">
-<!ENTITY malformedURI.longDesc                 "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2                "
 <ul>
   <li>Veebiaadressid on tavaliselt kirjutatud kujul
     <strong>http://www.eesti.ee/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Otsi</button>
+    </div>
   <li>Kontrolli üle, et kasutad ikka õigetpidi kaldkriipse (näiteks
     <strong>/</strong>).</li>
 </ul>
