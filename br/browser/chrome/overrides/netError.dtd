@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
-
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">
 <!ENTITY deniedPortAccess.longDesc "">
