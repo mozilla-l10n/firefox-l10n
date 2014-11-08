@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferencias">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Administrar componentes extras">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "Tiempo de ejecución">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -37,13 +39,13 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Vista">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Cambiar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Administrar simuladores">
-<!ENTITY viewMenu_showAddons_accesskey "M">
 
 <!ENTITY projectButton_label "Abrir App">
 <!ENTITY runtimeButton_label "Seleccionar entorno de ejecución">
@@ -100,7 +102,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurar predeterminados">
-<!ENTITY prefs_simulators "Administrar simuladores">
+<!ENTITY prefs_manage_components "Administrar componentes extras">
 <!ENTITY prefs_options_rememberlastproject "Recordar el último proyecto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar proyecto anterior cuando WebIDE se inicie">
 <!ENTITY prefs_options_templatesurl "URL de plantillas">
@@ -131,6 +133,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar requisitos elevados">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Requiere acceso de root.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Device Preferences">
+<!ENTITY devicepreferences_search "Buscar preferencias">
+<!ENTITY devicepreferences_newname "Nombre de la nueva preferencia">
+<!ENTITY devicepreferences_newtext "Valor de la preferencia">
+<!ENTITY devicepreferences_addnew "Añadir nueva preferencia">
+<!ENTITY devicepreferences_typeboolean "Lógico">
+<!ENTITY devicepreferences_typenumber "Entero">
+<!ENTITY devicepreferences_typestring "Cadena">
+<!ENTITY devicepreferences_typenone "Seleccionar un tipo">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
