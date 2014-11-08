@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Odosielanie súborov väčších ako 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "je prémiová funkcia.">
-<!ENTITY fileExceedsLimit.accept "Prejsť na vyššiu verziu">
-<!ENTITY fileExceedsLimit.cancel "Zrušiť">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Odosielanie súborov väčších ako 50 MB je povolené len pre prémiové účty.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Prechodom na vyššiu verziu odošlete tento súbor a získate:">
-<!ENTITY fileExceedsLimit.pros1 "možnosť odosielať súbory a priečinky do veľkosti 2 GB">
-<!ENTITY fileExceedsLimit.pros2 "možnosť ukladať neobmedzené množstvo súborov">
-<!ENTITY fileExceedsLimit.pros3 "prístup a zdieľanie súborov z každého miesta">
