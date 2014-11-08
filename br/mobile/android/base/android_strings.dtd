@@ -219,7 +219,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Enporzhiañ ar sinedoù hag ar roll istor adalek ar merdeer genidik">
 <!ENTITY pref_private_data_history2 "Roll istor merdeiñ">
 <!ENTITY pref_private_data_formdata "Furmskrid ha klask ar roll istor">
-<!ENTITY pref_private_data_cookies2 "Toupinoù &amp; kennaskoù oberiant">
+<!ENTITY pref_private_data_cookies2 "Toupinoù ha kennaskoù oberiant">
 <!ENTITY pref_private_data_passwords "Gerioù-tremen enrollet">
 <!ENTITY pref_private_data_cache "Krubuilh">
 <!ENTITY pref_private_data_offlineApps "Roadennoù ezlinenn al lec\u0027hiennoù">
@@ -243,7 +243,7 @@ size. -->
 <!ENTITY pref_panels_move_up "Kas er c\u0027hrec\u0027h">
 <!ENTITY pref_panels_move_down "Kas en traoñ">
 
-<!ENTITY datareporting_notification_title "Roadennoù &amp; stadegoù &brandShortName;">
+<!ENTITY datareporting_notification_title "Roadennoù ha stadegoù &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dibab pe ditouroù a vo rannet">
 <!ENTITY datareporting_notification_action "Dibab pezh a vo rannet">
 <!ENTITY datareporting_notification_summary "Kaset e vez ent-emgefreek titouroù gant &brandShortName; da &vendorShortName; a-benn gwellaat hoc\u0027h arver">
@@ -323,7 +323,7 @@ size. -->
 <!ENTITY contextmenu_remove "Dilemel">
 <!ENTITY contextmenu_add_to_launcher "Ouzhpennañ d\u0027ar skramm pennañ">
 <!ENTITY contextmenu_share "Rannañ">
-<!ENTITY contextmenu_pasteandgo "Pegañ &amp; Mont">
+<!ENTITY contextmenu_pasteandgo "Pegañ ha mont kuit">
 <!ENTITY contextmenu_paste "Pegañ">
 <!ENTITY contextmenu_copyurl "Eilañ ar chomlec\u0027h">
 <!ENTITY contextmenu_edit_bookmark "Embann">
