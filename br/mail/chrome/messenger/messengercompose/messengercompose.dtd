@@ -176,7 +176,7 @@
 
 <!ENTITY tasksMenu.label "Ostilhoù">
 <!ENTITY tasksMenu.accesskey "O">
-<!ENTITY messengerCmd.label "Posteloù &amp; strolladoù-keleier">
+<!ENTITY messengerCmd.label "Posteloù ha strolladoù-keleier">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Karned chomlec'hioù">

@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Azgoulennet (n'hall ket kas kemennadennoù anez ma vefe testenioù gant an holl zegemererien)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Arverañ an testeni-mañ evit enrinegañ &amp; ezrinegañ ar c'hemennadennoù kaset deoc'h :">
+<!ENTITY encryptionCert.message "Arverañ an testeni-mañ evit enrinegañ hag ezrinegañ ar c'hemennadennoù kaset deoc'h :">
 <!ENTITY digitalSign.certificate.button "Diuzañ…">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Skarzhañ">

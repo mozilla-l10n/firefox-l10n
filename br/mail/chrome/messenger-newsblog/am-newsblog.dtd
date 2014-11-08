@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "Skoazeller ar c'hontoù lanvioù">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogoù &amp; keleier">
+<!ENTITY feeds.accountName "Blogoù ha Lanvioù keleier">
 <!ENTITY feeds.wizardShortName "Lanvioù">
-<!ENTITY feeds.wizardLongName "Blogoù &amp; keleier">
+<!ENTITY feeds.wizardLongName "Blogoù ha Lanvioù keleier">
 <!ENTITY feeds.wizardLongName.accesskey "B">

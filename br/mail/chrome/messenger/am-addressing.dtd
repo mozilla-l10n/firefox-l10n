@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Aozañ &amp; chomlec'hiañ">
+<!ENTITY addressing.label          "Aozañ ha chomlec'hiañ">
 <!ENTITY addressingGroupTitle.label "Chomlec'hiañ">
 <!ENTITY addressingText.label      "Pa vez klasket chomlec'hioù :">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

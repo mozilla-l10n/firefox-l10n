@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Nodrezhoù &amp; Bonegadurioù">
+<!ENTITY  fontsAndEncodingsDialog.title           "Nodrezhoù ha bonegadurioù">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">

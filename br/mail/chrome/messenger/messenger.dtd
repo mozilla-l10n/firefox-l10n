@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Diuzañ">
 <!ENTITY selectMenu.accesskey "D">
-
-
+<!ENTITY all.label "Pep tra">
+<!ENTITY all.accesskey "a">
 <!ENTITY selectThreadCmd.label "Neudennad">
 <!ENTITY selectThreadCmd.accesskey "N">
 <!ENTITY selectThreadCmd.key "a">
@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Perzhioù…">
 <!ENTITY folderPropsFolderCmd2.label "Perzhioù an teuliad">
 <!ENTITY folderPropsNewsgroupCmd2.label "Perzhioù ar strollad-keleier">
-
+<!ENTITY folderPropsCmd.accesskey "s">
 <!ENTITY undoDeleteMsgCmd.label "Dizober Dilemel ar gemennadenn">
 <!ENTITY redoDeleteMsgCmd.label "Adober Dilemel ar gemennadenn">
 <!ENTITY undoMoveMsgCmd.label "Dizober Dilec'hiañ ar gemennadenn">
@@ -302,8 +302,8 @@
 <!ENTITY prevUnreadMsgCmd.label "Kemennadenn anlennet">
 <!ENTITY prevUnreadMsgCmd.accesskey "a">
 <!ENTITY prevUnreadMsgCmd.key "p">
-
-
+<!ENTITY goForwardCmd.label "War-lerc'h">
+<!ENTITY goForwardCmd.accesskey "W">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Kent">
 <!ENTITY goBackCmd.accesskey "K">
@@ -441,7 +441,7 @@
 
 <!ENTITY tasksMenu.label "Ostilhoù">
 <!ENTITY tasksMenu.accesskey "O">
-<!ENTITY messengerCmd.label "Posteloù &amp; strolladoù-keleier">
+<!ENTITY messengerCmd.label "Posteloù ha strolladoù-keleier">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Karned chomlec'hioù">
 <!ENTITY addressBookCmd.accesskey "a">

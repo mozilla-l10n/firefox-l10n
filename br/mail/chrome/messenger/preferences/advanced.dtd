@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Hollek">
-<!ENTITY itemDisplay.label       "Lenn &amp; Skrammañ">
+<!ENTITY itemDisplay.label       "Lenn ha Skrammañ">
 <!ENTITY itemUpdate.label        "Hizivaat">
-<!ENTITY itemNetworking.label    "Rouedad &amp; Egor war ar gantenn">
+<!ENTITY itemNetworking.label    "Rouedad hag egor war ar gantenn">
 <!ENTITY itemCertificates.label  "Testenioù">
 <!-- General Settings -->
 
