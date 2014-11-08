@@ -103,5 +103,14 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Permessi limitati per strumenti di sviluppo: ">
 <!ENTITY runtimedetails_requestPrivileges "richiede permessi più elevati">
 <!ENTITY runtimedetails_privilegesWarning "(Il dispositivo verrà riavviato. Richiede accesso root.)">
+<!ENTITY devicepreferences_title "Preferenze del dispositivo">
+<!ENTITY devicepreferences_search "Cerca nelle preferenze">
+<!ENTITY devicepreferences_newname "Nome nuova preferenza">
+<!ENTITY devicepreferences_newtext "Valore preferenza">
+<!ENTITY devicepreferences_addnew "Aggiungi nuova preferenza">
+<!ENTITY devicepreferences_typeboolean "Booleano">
+<!ENTITY devicepreferences_typenumber "Intero">
+<!ENTITY devicepreferences_typestring "Stringa">
+<!ENTITY devicepreferences_typenone "Seleziona un tipo">
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Aiuto">
