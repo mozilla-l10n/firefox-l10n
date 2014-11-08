@@ -32,6 +32,6 @@
 <!ENTITY setAsMyDefaultBrowser2.accesskey "o">
 <!ENTITY isDefault.label "&brandShortName; è attualmente il browser predefinito">
 <!ENTITY isNotDefault.label "&brandShortName; non è il browser predefinito">
-<!ENTITY separateProfileMode.label "Consenti l’esecuzione di &brandShortName; e Firefox in contemporanea">
+<!ENTITY separateProfileMode.label "Consenti l’esecuzione in contemporanea di &brandShortName; e Firefox">
 <!ENTITY useFirefoxSync.label "Consiglio: questo comporta l’utilizzo di profili diversi. È possibile appoggiarsi a Sync per la sincronizzazione dei dati.">
 <!ENTITY getStarted.label "Avvia Sync…">
