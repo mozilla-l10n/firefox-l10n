@@ -37,6 +37,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "n">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferenze dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 <!ENTITY viewMenu_label "Visualizza">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Visualizza/nascondi editor">
