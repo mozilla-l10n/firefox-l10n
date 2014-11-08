@@ -187,6 +187,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY browserToolboxMenu.label "Cassetta degli attrezzi browser">
+<!ENTITY browserContentToolboxMenu.label "Cassetta degli attrezzi contenuti browser">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
