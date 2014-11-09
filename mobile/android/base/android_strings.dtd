@@ -188,7 +188,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activés">
-<!ENTITY pref_plugins_tap_to_play "Appuyez pour lancer la lecture">
+<!ENTITY pref_plugins_tap_to_play "Appuyer pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
 <!ENTITY pref_reflow_on_zoom4 "Adaptation du texte">
