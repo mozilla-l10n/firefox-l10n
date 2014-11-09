@@ -41,7 +41,8 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY profilerUI.table.duration    "Tid (ms)">
 
+<!ENTITY profilerUI.table.percentage  "Pris">
 <!ENTITY profilerUI.table.invocations "Kald">
 <!ENTITY profilerUI.table.function    "Funktion">
 
-
+<!ENTITY profilerUI.newtab.tooltiptext "Tilføj nyt faneblad fra markering">
