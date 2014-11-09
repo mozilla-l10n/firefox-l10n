@@ -10,11 +10,7 @@
 <!ENTITY newtab.customize.blank "Tom"> 
 <!ENTITY newtab.customize.what "Hvad er denne side?"> 
 <!ENTITY newtab.intro.header "Hvad er denne side?">
-
 <!ENTITY newtab.undo.removedLabel "Miniature fjernet.">
 <!ENTITY newtab.undo.undoButton "Fortryd.">
 <!ENTITY newtab.undo.restoreButton "Gendan alle.">
 <!ENTITY newtab.undo.closeTooltip "Skjul">
-<!ENTITY newtab.sponsored.release.message "Dette sponsor-websted bliver foreslået, fordi det støtter Mozillas mission. Vi håber, at du finder det interessant.">
-<!ENTITY newtab.sponsored.trial.message2 "Dette websted bliver foreslået, fordi det støtter Mozillas mission. Vi håber, at du finder det interessant.">
-<!ENTITY newtab.panel.link.text "Læs mere…">
