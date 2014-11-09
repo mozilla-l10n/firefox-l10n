@@ -188,6 +188,7 @@
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY browserToolboxMenu.label "Caja de herramientas del navegador">
 <!ENTITY browserToolboxMenu.accesskey "h">
+<!ENTITY browserContentToolboxMenu.label "Caja de herramientas de contenido del navegador">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey "B">
@@ -360,6 +361,8 @@
 <!ENTITY emailImageCmd.accesskey "a">
 <!ENTITY emailVideoCmd.label "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey "a">
+<!ENTITY castVideoCmd.label "Enviar vídeo al dispositivo">
+<!ENTITY castVideoCmd.accesskey "">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY playPluginCmd.label "Activar este plugin">
