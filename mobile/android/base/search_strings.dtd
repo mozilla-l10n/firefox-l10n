@@ -4,7 +4,7 @@
 
 <!ENTITY search_app_name "Búsqueda de &brandShortName;">
 <!ENTITY search_bar_hint "Buscar con &formatS;">
-<!ENTITY search_empty_title "Búsqueda de &brandShortName;">
+<!ENTITY search_empty_title2 "Comenzar la búsqueda">
 <!ENTITY search_empty_message "Busque rápidamente lo que desee">
 <!ENTITY search_plus_content_description "Añadir a la barra de búsqueda">
 <!ENTITY search_pref_title "Configuración">

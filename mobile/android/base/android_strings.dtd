@@ -117,10 +117,8 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
-<!ENTITY pref_donottrack_menu "Rastreo">
-<!ENTITY pref_donottrack_disallow_tracking "Indicar a los sitios que no quiero ser rastreado">
-<!ENTITY pref_donottrack_allow_tracking "Indicar a los sitios que quiero ser rastreado">
-<!ENTITY pref_donottrack_no_pref "No indicar a los sitios nada sobre mis preferencias de rastreo">
+<!ENTITY pref_donottrack_title "No rastrear">
+<!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
@@ -253,9 +251,8 @@
 <!ENTITY site_settings_clear "Limpiar">
 <!ENTITY site_settings_no_settings "No hay configuraciones para limpiar.">
 <!ENTITY reading_list_added "Página añadida a su lista de lectura">
-<!ENTITY reading_list_failed "Ha fallado la adición de esta página a su Lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
-<!ENTITY reading_list_time_minutes "&formatD;min">
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
 <!ENTITY reading_list_time_over_an_hour "Más de una hora">
 <!ENTITY page_action_dropmarker_description "Acciones adicionales">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
@@ -271,6 +268,7 @@
 <!ENTITY button_clear "Limpiar">
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
+<!ENTITY home_title "Página de inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Está seguro de que quiere limpiar su historial?">
@@ -280,6 +278,7 @@
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_open_all "Abrir todo">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
 <!ENTITY home_reading_list_hint2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &formatI; cuando aparezca en la barra de título.">
 <!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
