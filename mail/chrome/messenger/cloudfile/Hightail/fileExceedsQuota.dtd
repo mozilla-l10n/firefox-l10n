@@ -4,9 +4,5 @@
 
 <!ENTITY fileExceedsQuota.title "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached "Достигнут лимит хранилища">
-<!ENTITY fileExceedsQuota.accept "Сменить тарифный план">
-<!ENTITY fileExceedsQuota.cancel "Отмена">
 <!ENTITY fileExceedsQuota.description "Вы достигли лимита вашей учётной записи равного 2ГБ.">
 <!ENTITY fileExceedsQuota.description1 "Ваше хранилище сейчас использует #XXX ГБ.">
-<!ENTITY fileExceedsQuota.description2 "Чтобы получить больше места, перейдите на тарифный план Pro Plus.">
-<!ENTITY fileExceedsQuota.description3 "Или же вы можете удалить файлы в вашей учётной записи, освободив тем самым место.">
