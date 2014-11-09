@@ -29,7 +29,7 @@
 <!ENTITY runtimeMenu_accesskey "R"> 
 <!ENTITY runtimeMenu_disconnect_label "Afbryd">
 <!ENTITY runtimeMenu_disconnect_accesskey "A">
-<!ENTITY untimeMenu_showPermissionTable_label "Tilladelses-tabel"> 
+<!ENTITY runtimeMenu_showPermissionTable_label "Tilladelses-tabel">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skærmbillede">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
@@ -37,6 +37,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+
 <!ENTITY viewMenu_label "Vis">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Vis/skjul editor">
@@ -45,7 +46,7 @@
 <!ENTITY viewMenu_showAddons_accesskey "H">
 
 <!ENTITY projectButton_label "Åbn app">
-
+<!ENTITY runtimeButton_label "Vælg Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -60,7 +61,7 @@
 <!ENTITY key_toggleEditor "B">
 
 <!ENTITY projectPanel_myProjects "Mine projekter">
-<!ENTITY runtimeButton_label "Vælg Runtime">
+<!ENTITY projectPanel_runtimeApps "Runtime-apps">
 <!ENTITY runtimePanel_USBDevices "USB-enheder">
 <!ENTITY runtimePanel_WiFiDevices "Wi-fi-enheder">
 <!ENTITY runtimePanel_simulators "Simulatorer">
