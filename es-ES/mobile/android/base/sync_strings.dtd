@@ -101,6 +101,7 @@
 <!ENTITY fxaccount_confirm_account_header "Confirme su cuenta">
 <!ENTITY fxaccount_confirm_account_verification_link "Se ha enviado un enlace de verificación a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Enviar mensaje de nuevo">
+<!ENTITY fxaccount_confirm_account_change_email "¿Olvidar esta dirección de correo?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensaje de verificación enviado">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No se ha podido enviar el mensaje de verificación">
 <!ENTITY fxaccount_sign_in_sub_header "Conectarse">
