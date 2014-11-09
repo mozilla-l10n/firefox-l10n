@@ -3,12 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile "Отправка файлов размером более 50 МБ">
-<!ENTITY fileExceedsLimit.thatsBigFile2 "является премиум возможностью.">
-<!ENTITY fileExceedsLimit.accept "Сменить тарифный план">
-<!ENTITY fileExceedsLimit.cancel "Отмена">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Отправка файлов размером более 50 МБ не поддерживается для не-премиум учётных записей.">
 <!ENTITY fileExceedsLimit.style "width: 50em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Смените тарифный план, чтобы отправить этот файл, плюс:">
-<!ENTITY fileExceedsLimit.pros1 "Вы сможете отправлять файлы и папки размером до 2ГБ">
-<!ENTITY fileExceedsLimit.pros2 "Вы сможете хранить в сети неограниченное число файлов">
-<!ENTITY fileExceedsLimit.pros3 "Вы сможете получать доступ и делиться файлами из любого места">
