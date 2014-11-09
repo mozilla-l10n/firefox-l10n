@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY feedSubscriptions.label "Suscripciones a canales">
-<!ENTITY subscriptionDesc.label "Nota: eliminar o cambiar la carpeta de un canal no afectará a los artículos descargados previamente.">
+<!ENTITY learnMore.label "Más información sobre Canales">
 <!ENTITY feedTitle.label "Título:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY feedLocation.label "URL del canal:">
 <!ENTITY feedLocation.accesskey "L">
 <!ENTITY feedLocation.placeholder "Introduzca una URL de canal válida para añadir">
+<!ENTITY locationValidate.label "Validar">
+<!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY feedFolder.label "Guardar artículos en:">
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
@@ -18,8 +20,6 @@
 <!ENTITY autotagUsePrefix.label "Poner a las etiquetas el prefijo:">
 <!ENTITY autotagUsePrefix.accesskey "P">
 <!ENTITY autoTagPrefix.placeholder "Introduzca un prefijo de etiqueta">
-<!ENTITY locationValidate.label "Validar">
-<!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY button.addFeed.label "Añadir">
 <!ENTITY button.addFeed.accesskey "A">
 <!ENTITY button.editFeed.label "Actualizar">
