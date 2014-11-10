@@ -401,6 +401,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Hier verschijnen uw recente tabbladen.">
 <!ENTITY home_open_all "Alle openen">
 <!ENTITY home_most_recent_empty "Hier verschijnen uw meest recent bezochte websites.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+       The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: een &formatS1;Nieuw privétabblad&formatS2; openen zal uw geschiedenis niet opslaan.">
 <!ENTITY home_reading_list_empty "Hier verschijnen artikelen die u voor later opslaat.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
