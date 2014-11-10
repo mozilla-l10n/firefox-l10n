@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
 
-<!ENTITY pref_donottrack_menu "Volgen">
-<!ENTITY pref_donottrack_disallow_tracking "Websites laten weten dat ik niet gevolgd wil worden">
-<!ENTITY pref_donottrack_allow_tracking "Websites laten weten dat ik gevolgd wil worden">
-<!ENTITY pref_donottrack_no_pref "Websites niets vertellen over mijn volginstellingen">
+<!ENTITY pref_donottrack_title "Niet volgen">
+<!ENTITY pref_donottrack_summary "&brandShortName; zal websites laten weten dat u niet gevolgd wil worden">
 
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
