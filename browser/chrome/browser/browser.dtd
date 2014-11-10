@@ -219,8 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "Вміст…">
-<!ENTITY devtoolsConnect.accesskey    "В">
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey    "м">
