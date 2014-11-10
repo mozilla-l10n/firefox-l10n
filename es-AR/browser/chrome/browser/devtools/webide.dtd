@@ -39,11 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "d">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_zoomin_label "Aumentar">
+<!ENTITY viewMenu_zoomin_accesskey "A">
+<!ENTITY viewMenu_zoomout_label "Disminuir">
+<!ENTITY viewMenu_zoomout_accesskey "D">
+<!ENTITY viewMenu_resetzoom_label "Normal">
+<!ENTITY viewMenu_resetzoom_accesskey "r">
 
 <!ENTITY projectButton_label "Abrir aplicaciones">
 <!ENTITY runtimeButton_label "Select Runtime">
@@ -59,6 +67,11 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mis proyectos">
 <!ENTITY projectPanel_runtimeApps "Runtime Apps">
@@ -131,6 +144,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilegios superiores">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Se requiere acceso root.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Preferencias de dispositivo">
+<!ENTITY devicepreferences_search "Buscar preferencias">
+<!ENTITY devicepreferences_newname "Nuevo nombre de preferencia">
+<!ENTITY devicepreferences_newtext "Valor de preferencia">
+<!ENTITY devicepreferences_addnew "Agregar nueva preferencia">
+<!ENTITY devicepreferences_typeboolean "Lógico">
+<!ENTITY devicepreferences_typenumber "Entero">
+<!ENTITY devicepreferences_typestring "Cadena">
+<!ENTITY devicepreferences_typenone "Seleccione un tipo">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">

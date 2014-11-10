@@ -267,6 +267,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "Barra de herramientas del navegador">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Barra de contenido del navegador">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey          "r">
