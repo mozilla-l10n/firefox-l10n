@@ -771,4 +771,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Kenar çubukları">
 
 <!ENTITY switchToMetroCmd2.label       "Windows 8 için dokunmatik &brandShortName; tarayıcısını aç">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
 
+<!ENTITY panicButton.view.mainTimeframeDesc       "Unut…">
+<!ENTITY panicButton.view.5min                    "Son beş dakikayı">
+<!ENTITY panicButton.view.2hr                     "Son iki saati">
+<!ENTITY panicButton.view.day                     "Son 24 saati">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Devam ederseniz…">
+<!ENTITY panicButton.view.deleteCookies           "En son <html:strong>çerezler</html:strong> silinecek">
+<!ENTITY panicButton.view.deleteHistory           "Yakın <html:strong>geçmişiniz</html:strong> silinecek">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tüm <html:strong>sekme</html:strong> ve <html:strong>pencereler</html:strong> kapatılacak">
+<!ENTITY panicButton.view.openNewWindow           "Yeni bir temiz pencere açılacak">
+
+<!ENTITY panicButton.view.undoWarning             "Bu işlem geri alınamaz.">
+<!ENTITY panicButton.view.forgetButton            "Unut!">
+
+<!ENTITY panicButton.thankyou.msg1                "Yakın geçmişiniz temizlendi.">
+<!ENTITY panicButton.thankyou.msg2                "Güvenli gezintiler dileriz!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Teşekkürler!">
