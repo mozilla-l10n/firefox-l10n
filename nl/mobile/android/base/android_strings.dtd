@@ -389,6 +389,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Een website toevoegen">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName;-startpagina">
 <!ENTITY home_history_title "Geschiedenis">
 <!ENTITY home_clear_history_button "Geschiedenis wissen">
 <!ENTITY home_clear_history_confirm "Weet u zeker dat u uw geschiedenis wilt wissen?">
@@ -539,7 +542,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Klaar">
