@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠাটি শেয়ার করুন">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "প">
-<!ENTITY shareLinkCmd.label "এই লিঙ্কটি শেয়ার করুন">
-<!ENTITY shareLinkCmd.accesskey "ল">
-<!ENTITY shareImageCmd.label "এই ছবিটি শেয়ার করুন">
-<!ENTITY shareImageCmd.accesskey "ছ">
-<!ENTITY shareSelectCmd.label "মনোনয়ন শেয়ার করুন (S)">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন">
-<!ENTITY shareVideoCmd.accesskey "ভ">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "অতিরিক্ত সামগ্রী">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -477,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ই-মেইল করুন…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 <!ENTITY emailAudioCmd.label          "অডিও ই-মেইল করুন…">
 <!ENTITY emailAudioCmd.accesskey      "ই">
 <!ENTITY playPluginCmd.label          "এই প্লাগিনটি সক্রিয় করুন (c)">
@@ -693,6 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত বৈশিষ্ট্য এবং টুল">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরও টুল দরকার?">
@@ -707,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম দেখুন">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চ্যাটে কেন্দ্র করুন (c)">
@@ -732,16 +743,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "বিকল্প">
 <!ENTITY mixedContentBlocked2.unblock.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "সুরক্ষা সক্রিয় করুন">
-<!ENTITY mixedContentBlocked2.block.accesskey "য়">
+
+
 <!ENTITY mixedContentBlocked2.disabled.message "সুরক্ষা নিষ্ক্রিয় করা অাছে">
 
 <!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
 <!ENTITY trackingContentBlocked.options "বিকল্প">
-<!ENTITY trackingContentBlocked.unblock.label2 "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
-<!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
+
+
+
+
 <!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">
