@@ -22,7 +22,9 @@
   -  in the timeline view when empty. -->
 
 <!ENTITY timelineUI.emptyNotice1    "Haz clic en el">
-
+<!ENTITY timelineUI.emptyNotice2    "botón para comenzar a grabar eventos de la línea de tiempo.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "Haz clic en el">
+<!ENTITY timelineUI.stopNotice2    "botón de nuevo para dejar de grabar.">
