@@ -748,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "La protection est désactivée">
 
 <!ENTITY trackingContentBlocked.message "Pistage">
-<!ENTITY trackingContentBlocked.moreinfo "Certaines parties de la page qui pistent votre activité en ligne ont été bloquées.">
+<!ENTITY trackingContentBlocked.moreinfo "Les parties de la page qui pistent votre activité en ligne ont été bloquées.">
 <!ENTITY trackingContentBlocked.learnMore "En savoir plus">
 <!ENTITY trackingContentBlocked.options "Options">
 <!ENTITY trackingContentBlocked.unblock2.label "Désactiver la protection pour ce site">
