@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Desconnectar">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Ecran">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Veire">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+<!ENTITY projectPanel_tabs "Onglets">
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Installar lo Simulator">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Descripcion">
+<!ENTITY details_location "Adreça">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Tampar">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Dobrir lo gestionari de moduls complementaris">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "General">
+<!ENTITY prefs_restore "Restablir l'òrdre inicial">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Nom">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Ajuda">

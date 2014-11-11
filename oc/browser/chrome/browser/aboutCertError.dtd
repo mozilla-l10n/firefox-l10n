@@ -20,6 +20,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "De qué me cal far ?">
 <!ENTITY certerror.whatShouldIDo.content "Se de costuma, vos connectatz a aqueste site sens problèma, aquesta error pòt voler dire que qualqu'un ensaja de s'apropriar lo site e que deuriatz pas contunhar.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d'aicí !">
 
 <!ENTITY certerror.expert.heading "Ai compreses los risques">

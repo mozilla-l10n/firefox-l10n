@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Poliças">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Poliças per :">
 <!ENTITY  language.accesskey                      "P">
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace :">
 <!ENTITY  monospace.accesskey                     "s">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Europèu central">
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japonés">
 <!ENTITY  font.langGroup.trad-chinese             "Chinés tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinés simplificat">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinés tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Corean">
 <!ENTITY  font.langGroup.cyrillic                 "Cirillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "Grèc">
-<!ENTITY  font.langGroup.turkish                  "Turc">
-<!ENTITY  font.langGroup.unicode                  "Autras lengas">
+
 <!ENTITY  font.langGroup.thai                     "Tai">
 <!ENTITY  font.langGroup.hebrew                   "Ebrieu">
 <!ENTITY  font.langGroup.arabic                   "Arabi">

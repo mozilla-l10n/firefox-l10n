@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "Generar una clau privada">
 <!ENTITY createCertInfo.msg1 "Generacion de la clau en cors… Aquesta operacion pòt prendre mantuna minuta…">
 <!ENTITY createCertInfo.msg2 "Esperatz...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Requèsta de signatura de tèxte">
-<!ENTITY formSigning.cert "Certificat de signatura">
-<!ENTITY formSigning.confirmPassword "Per confirmar qu'acceptatz de signar aqueste messatge amb lo certificat seleccionat, picatz lo senhal principal :">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autentificacion protegida per geton">

@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Recèrca de las mesas a jorn">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
-<!ENTITY update.updateButton.label                "Reaviar per aplicar la mesa a jorn">
+<!ENTITY update.updateButton.label2                "Tornar aviar &brandShortName; per aplicar los cambiaments">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplicar la mesa a jorn...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">

@@ -140,17 +140,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Partejar aquesta pagina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "P">
-<!ENTITY shareLinkCmd.label "Partejar aqueste ligam">
-<!ENTITY shareLinkCmd.accesskey "P">
-<!ENTITY shareImageCmd.label "Partejar l'imatge">
-<!ENTITY shareImageCmd.accesskey "t">
-<!ENTITY shareSelectCmd.label "Partejar la seleccion">
-<!ENTITY shareSelectCmd.accesskey "P">
-<!ENTITY shareVideoCmd.label "Partejar la vidèo">
-<!ENTITY shareVideoCmd.accesskey "a">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Partejar aqueste ligam">
+<!ENTITY shareLink.accesskey "P">
+<!ENTITY shareImage.label "Partejar aqueste imatge">
+<!ENTITY shareImage.accesskey "t">
+<!ENTITY shareSelect.label "Partejar la seleccion">
+<!ENTITY shareSelect.accesskey "P">
+<!ENTITY shareVideo.label "Partejar aquesta vidèo">
+<!ENTITY shareVideo.accesskey "a">
 <!ENTITY feedsMenu.label "S'inscriure">
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
@@ -212,6 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "j">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Desvolopaire web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -268,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "G">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "VK_F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
@@ -475,6 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "t">
 <!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic...">
 <!ENTITY emailVideoCmd.accesskey      "d">
+
+
 <!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic...">
 <!ENTITY emailAudioCmd.accesskey      "d">
 <!ENTITY playPluginCmd.label          "Activar aqueste plugin">
@@ -691,6 +701,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Aisinas e foncionalitats suplementàrias">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
@@ -698,6 +711,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
 <!ENTITY customizeMode.toolbars "Afichar/Amagar las barras d'aisinas">
 <!ENTITY customizeMode.titlebar "Barra de títol">
+<!ENTITY customizeMode.lwthemes "Tèmas">
+<!ENTITY customizeMode.lwthemes.myThemes "Mos tèmas">
+<!ENTITY customizeMode.lwthemes.recommended "Recomandats">
+<!ENTITY customizeMode.lwthemes.menuManage "Gerir">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label "Cambiar lo tèma de &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleccionar las discussions">
@@ -710,17 +731,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
-
-
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-
-<!ENTITY webrtcIndicatorButton.label "Accès webcam/microfòn">
-<!ENTITY webrtcIndicatorButton.tooltip "Afichar los sites amb los quals partejatz actualament vòstre webcam o vòstre microfòn">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
 
-<!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">
+
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Pistatge">
+
+
+<!ENTITY trackingContentBlocked.options "Opcions">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar la proteccion per aqueste site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
+
 
 <!ENTITY pointerLock.notification.message "Quichatz sus Escap a tot moment per l'afichar tornarmai.">
 
@@ -749,4 +782,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Panèl lateral">
 
 <!ENTITY switchToMetroCmd2.label       "Tornar dobrir amb &brandShortName; per Windows 8 tactile">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.deleteCookies           "Suprimir los <html:strong>Cookies</html:strong> recents">
+<!ENTITY panicButton.view.deleteHistory           "Suprimir l'<html:strong>Istoric</html:strong> recent">
+
+
+
+<!ENTITY panicButton.view.undoWarning             "Impossible d'anullar aquesta accion.">
+
+
+
+<!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
 
