@@ -32,14 +32,15 @@
 <!ENTITY alwaysAsk.accesskey "d">
 
 <!ENTITY alwaysCheckDefault.label         "Ishga tushirilganda doimo &brandShortName; standart brauzer ekanligi tekshirilsin">
-
-
+<!ENTITY alwaysCheckDefault2.label        "Agar &brandShortName; standart brauzeringiz bo‘lsa, doimo tekshirilsin">
+<!ENTITY alwaysCheckDefault2.accesskey    "t">
 <!ENTITY setAsMyDefaultBrowser.label      "&brandShortName;ni standart brauzer qilish">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "s">
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "Asosiy sifatida o‘rnatish">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "A">
 <!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz">
 <!ENTITY isNotDefault.label               "&brandShortName; - standart brauzeringiz emas">
 
-
-
+<!ENTITY separateProfileMode.label        "&brandShortName; Firefox’ni bir vaqtda ishga tushirishga ruxsat berish">
+<!ENTITY useFirefoxSync.label             "Maslahat: U alohida profillardan foydalandi. Ular o‘rtasida ma’lumotlarni almashish uchum sinxronlashdan foydalaning.">
+<!ENTITY getStarted.label                 "Sinxronlashdan foydalanishni boshlash…">
