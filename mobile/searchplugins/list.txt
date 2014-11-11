@@ -1,6 +1,7 @@
-yahoo-france
-google
-wikipedia-fr
-eBay-france
-twitter
 bing
+duckduckgo
+eBay-france
+google
+twitter
+wikipedia-fr
+yahoo-france
