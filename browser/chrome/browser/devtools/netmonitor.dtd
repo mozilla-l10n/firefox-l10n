@@ -114,7 +114,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
 
-<!ENTITY netmonitorUI.summary.url         "यूआरएल अनुरोध गर्नुहोस्:">
+<!ENTITY netmonitorUI.summary.url         "URL अनुरोध गर्नुहोस्:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
@@ -191,6 +191,8 @@
   -  http://en.wikipedia.org/wiki/CURL -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "सी">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
@@ -202,6 +204,8 @@
 <!ENTITY netmonitorUI.summary.editAndResend "सम्पादन गर्नुहोस् अनि फेरि पठाउनुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "आर्">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->

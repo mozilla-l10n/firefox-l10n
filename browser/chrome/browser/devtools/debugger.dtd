@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile.key       "P">
-<!ENTITY debuggerUI.searchFile.altkey    "O">
+<!ENTITY debuggerUI.searchFile.altkey    "आे">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
@@ -113,7 +113,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables.key       "V">
+<!ENTITY debuggerUI.focusVariables.key       "भि">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -140,7 +140,7 @@
   -  appears in the source editor context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.seMenuAddWatch      "अभिव्यक्ति हेर्न चयन गर्नुहोस्">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "इ">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 <!ENTITY debuggerUI.addWatch.accesskey  "E">

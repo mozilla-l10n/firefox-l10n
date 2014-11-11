@@ -36,7 +36,12 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणवस् यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
-
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>वेब ठेगाना धेरै जसो यसरी लेखिन्छ 
+<strong>http://www.example.com/</strong></li> 
+<li>तपाईले अगाडिको स्ल्यास प्रयोग गर्नु भएको छ भन्ने कुरा पक्का गर्नुहोस् (जस्तै की 
+<strong>/</strong>)।</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "यो जडानमा हस्तछेप भएको छ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -50,10 +55,14 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
-
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>कृपया यो समस्याको जानकारी गर्न वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> 
+</ul>">
 
 <!ENTITY netReset.title "यो जडान रिसेट भएको थियो">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -66,6 +75,7 @@
 <li>यो ठेगाना खोल्नको लागि तपाईंले अर्को सफ्टवेयर स्थापना गर्नुपर्ने हुन सक्छ।</li> 
 </ul>">
 
+<!ENTITY proxyConnectFailure.title "प्रोक्सी सर्भरले जडान हुन मानेको छैन">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>यिनीहरु ठिक छ भन्ने सुनिश्चित गर्नको लागि प्रोक्सी सर्भर सेटिङहरु जाँच गर्नुहोस्।</li> 
 <li>प्रोक्सी सर्भर काम गरिराखेको छ भन्ने सुनिश्चत गर्न आफ्नो सञ्जाल प्रशासकसँग सम्पर्क गर्नुहोस्।</li> 
@@ -116,7 +126,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
 
 <!ENTITY corruptedContentError.title "भ्रष्ट सामग्री त्रुटि">
-
+<!ENTITY corruptedContentError.longDesc "<p>डाटा ट्रान्समिसनमा खराबी भएको पत्ता लागेकोले तपाईंले हेर्न खोज्नु भएको पृष्ठ देखाउन मिलेन। </p><ul><li>कृपया वेव मालिकलाई यस खराबीको बारेमा जानकारी दिन सम्पर्क गर्नुहोस्।</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "वा तपाईले एउटा अपवाद थप्न सक्नुहुन्छ…">
