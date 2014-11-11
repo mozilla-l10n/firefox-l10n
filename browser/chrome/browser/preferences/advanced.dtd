@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Verificar l'ortografia pendent que picatz">
 <!ENTITY checkSpelling.accesskey         "V">
 
-<!ENTITY systemDefaults.label            "Valors per defaut del sistèma">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Verificar totjorn a l'aviada que &brandShortName; es lo navigador per defaut">
-<!ENTITY alwaysCheckDefault.accesskey    "o">
-<!ENTITY setDefault.label                "Far de &brandShortName; lo navigador per defaut">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; es actualament vòstre navigador per defaut">
-
 <!ENTITY dataChoicesTab.label            "Donadas">
 
 <!ENTITY healthReportSection.label       "Bilanç de santat de &brandShortName;">
@@ -126,9 +118,9 @@
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certSelection.description       "Quand un servidor demanda mon certificat personal :">
 <!ENTITY certs.auto                      "ne seleccionar un automaticament">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Me demandar a cada còp">
-
+<!ENTITY certs.ask.accesskey             "A">
 
 
 <!ENTITY viewCerts.label                 "Afichar los certificats">

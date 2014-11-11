@@ -30,3 +30,16 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 <!ENTITY alwaysAsk.label "Demandar totjorn ont cal enregistrar los fichièrs">
 <!ENTITY alwaysAsk.accesskey "t">
+
+<!ENTITY alwaysCheckDefault.label         "Verificar t&amp;otjorn a l'aviada que &brandShortName; es lo navigador per defaut">
+
+
+<!ENTITY setAsMyDefaultBrowser.label      "Far de &brandShortName; lo navigador per defaut">
+<!ENTITY setAsMyDefaultBrowser.accesskey  "d">
+
+
+<!ENTITY isDefault.label                  "&brandShortName; es actualament vòstre navigador per defaut">
+<!ENTITY isNotDefault.label               "Actualament, &brandShortName; es pas vòstre navigador per defaut">
+
+
+
