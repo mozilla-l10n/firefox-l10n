@@ -32,14 +32,15 @@
 <!ENTITY alwaysAsk.accesskey "q">
 
 <!ENTITY alwaysCheckDefault.label         "Khangela qho ukuba &brandShortName; iyibhrawuza esisiseko ekuvuleni">
-
-
+<!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
+<!ENTITY alwaysCheckDefault2.accesskey    "o">
 <!ENTITY setAsMyDefaultBrowser.label      "Yenza &brandShortName; ibe yibhrawuza esisiseko">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "D">
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "Yenza Ibeyemiselweyo">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "I">
 <!ENTITY isDefault.label                  "&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
 <!ENTITY isNotDefault.label               "&brandShortName; ayiyobhrawuza yakho esisiseko">
 
-
-
+<!ENTITY separateProfileMode.label        "Vumela &brandShortName; kunye ne-Firefox ukuba zisebenze ngaxeshanye">
+<!ENTITY useFirefoxSync.label             "Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.">
+<!ENTITY getStarted.label                 "Qalisa ukusebenzisa uNgqamaniso…">
