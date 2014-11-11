@@ -1,6 +1,7 @@
-google
-yahoo-es
+11870
 bing
+duckduckgo
+google
 twitter
 wikipedia-es
-11870
+yahoo-es
