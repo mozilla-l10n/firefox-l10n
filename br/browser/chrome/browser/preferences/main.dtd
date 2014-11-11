@@ -32,12 +32,12 @@
 <!ENTITY alwaysAsk.accesskey "t">
 
 <!ENTITY alwaysCheckDefault.label         "Gwiriañ atav ma'z eo &brandShortName; ar merdeer dre ziouer e-pad al loc'hañ">
-<!ENTITY alwaysCheckDefault2.label        "Gwiriañ atav ma'z eo &brandShortName; ho merdeer dre ziouer">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "Arverañ &brandShortName; da verdeer dre ziouer">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "i">
-<!ENTITY setAsMyDefaultBrowser2.label     "Lakaat dre ziouer">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+
+
 <!ENTITY isDefault.label                  "Ho merdeer dre ziouer eo &brandShortName;">
 <!ENTITY isNotDefault.label               "N'eo ket &brandShortName; ho merdeer dre ziouer">
 
