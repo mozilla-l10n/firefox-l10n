@@ -46,6 +46,12 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Cambiar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_zoomin_label "Acercar">
+<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomout_label "Alejar">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Restablecer">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir App">
 <!ENTITY runtimeButton_label "Seleccionar entorno de ejecución">
@@ -61,6 +67,11 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mis proyectos">
 <!ENTITY projectPanel_runtimeApps "Aplicaciones del tiempo de ejecución">
