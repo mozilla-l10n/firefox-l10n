@@ -17,7 +17,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Аата">
 <!ENTITY aboutSupport.extensionEnabled "Холбоммут">
 <!ENTITY aboutSupport.extensionVersion "Барыл">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Сиһилии">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Дьиэ-сирэй">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Приложение туһунан">
 <!ENTITY aboutSupport.appBasicsName "Аат">
@@ -26,7 +34,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Саҥардыы сурунаала">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Саҥардыы сурунаалын көрдөр">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Саҥардыы су&amp;рунаалын көрдөр">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Профиль паапката">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -39,6 +47,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
 
+
 <!ENTITY aboutSupport.showDir.label "Паапканы арый">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -50,11 +59,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Сүрүн уларытыллыбыт туруоруулар ">
 <!ENTITY aboutSupport.modifiedPrefsName "Аат">
-<!ENTITY aboutSupport.modifiedPrefsValue "Суолта">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js туруоруулара">
 <!ENTITY aboutSupport.userJSDescription "Профилиҥ паапкатыгар  &brandShortName; оҥорботох туруоруулардаах <a id='prefs-user-js-link'>user.js билэ</a> сытар эбит.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 

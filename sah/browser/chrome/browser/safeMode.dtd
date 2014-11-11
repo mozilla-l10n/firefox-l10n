@@ -6,14 +6,9 @@
 <!ENTITY window.maxWidth              "500">
 
 <!ENTITY startSafeMode.label          "Бигэ эрэсиимҥэ ыыт">
-<!ENTITY resetProfile.label           "Маны &brandShortName; хаттаан ыыт">
+
 
 <!ENTITY safeModeDescription3.label   "Бигэ эрэсиимҥэ киирэн &brandShortName; сорох кыһалҕаларын быһаарыахха сөп.">
 <!ENTITY safeModeDescription4.label   "Эбиискэлэр уонна туруорууларыҥ быстах кэмҥэ араарыллыахтара.">
 
-<!ENTITY resetProfileInstead.label    "Өссө &brandShortName; бырагыраамманы хос ыытыан көрүөххүн сөп, оччоҕо барыта саҥаттан барыа.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; ыытар кэмҥэ эмискэ сабыллан хаалла. Ханнык эрэ эбиискэттэн дуу атын төрүөттэн дуу буолуон сөп. Тахсыбыт кыһалҕаны маны &brandShortName; хос ыытан, эбэтэр Бигэ эрэсиммҥэ кииллэрэн быһааран көрүөххүн сөп.">
-<!ENTITY resetProfileFooter.label       "Атына барыта саҥа турукка түһүө.">
-<!ENTITY safeModeInstead.label          "Оннук буолуон баҕарбат буоллаххына Бигэ туругунан салгыы үлэлээн бэйэҥ быһаарсан көрүөххүн сөп. Оччоҕо эбиискэлэриҥ уонна туруорууларыҥ быстах кэмҥэ араарыллыахтара.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

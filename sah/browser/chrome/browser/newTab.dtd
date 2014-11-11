@@ -4,6 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Саҥа кыбытык">
+
+
+
+
+
+
 <!ENTITY newtab.undo.removedLabel "Ойуучаан сотулунна.">
 <!ENTITY newtab.undo.undoButton "Төннөр.">
 <!ENTITY newtab.undo.restoreButton "Барытын төннөр.">

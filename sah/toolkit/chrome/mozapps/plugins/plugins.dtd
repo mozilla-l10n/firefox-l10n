@@ -1,27 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pluginWizard.title                                  "Плагиннары көрдүүр сулууспа">
-<!ENTITY pluginWizard.firstPage.title                        "Манна &pluginWizard.title; киирбиккинэн!">
-
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; туттуллар кыахтаах плагиннар баалларын көрөр…">
-
-<!ENTITY pluginWizard.availablePluginsPage.title             "Туттуллар кыахтаах плагиннары хачайданыы">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Маннык плагиннар туттуллар кыахтаахтар:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Бу плагиннары туруорарга «Салгыы» диэн тимэҕи баттаа.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Сорох плагиннары туруорарга атын информация наада буолуон сөп.">
-
-<!ENTITY pluginWizard.licensePage.title                      "Плагин лиссиэнсийэтэ">
-<!ENTITY pluginWizard.licensePage.accept.label               "Сөбүлэһэбин.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Сөбүлэспэппин (плагин туруо суоҕа).">
-
-<!ENTITY pluginWizard.installPluginsPage.title               "Плагиннары туруоруу">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "Плагиннары манна &brandShortName; туруоруу бара турар...">
-
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; тиийбэт плагииннары туруорда:">
-
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Плагииннар тустарынан сиһилии эбэтэр тиийбэт плагииннары туруорунуу.">
-<!ENTITY pluginWizard.finalPage.restart.label                "Плагииннары холбуурга &brandShortName; хос ыытыллыахтаах.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
@@ -40,7 +19,6 @@
 <!ENTITY disabledPlugin                                      "Бу плагиин араарыллыбыт.">
 <!ENTITY blockedPlugin.label                                 "Бу плагиин куттал суох буоллун диэн бүөлэммит.">
 <!ENTITY hidePluginBtn.label                                 "Плаагины кистээ">
-<!ENTITY installPlugin                                       "Плагиины туруор...">
 <!ENTITY managePlugins                                       "Плагииннары салайыы...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->

@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Таба суруйуутун суруйа олордохпуна тургут">
 <!ENTITY checkSpelling.accesskey         "т">
 
-<!ENTITY systemDefaults.label            "Тиһик туруоруулара">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; сүрүн браузер буоларын холбуурга куруук тургут">
-<!ENTITY alwaysCheckDefault.accesskey    "р">
-<!ENTITY setDefault.label                "&brandShortName; браузеры куруук холбонор оҥор">
-<!ENTITY setDefault.accesskey            "е">
-<!ENTITY isDefault.label                 "Билигин куруук холбонор браузер - &brandShortName;">
-
 <!ENTITY dataChoicesTab.label            "Дааннайдары талыы">
 
 <!ENTITY healthReportSection.label       "&brandShortName; үлэтин туһунан отчуот">
@@ -125,12 +117,12 @@
 <!ENTITY certificateTab.label            "Сэртипикээттэр">
 <!ENTITY certSelection.description       "Сиэрбэр тус сэртипикээти көрдөөтөҕүнэ:">
 <!ENTITY certs.auto                      "Аптамаатынан ыыт">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Сырыы аайы ыйыт">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Сэртипикээттэрин көрүү">
-<!ENTITY viewCerts.accesskey             "С">
-<!ENTITY verify2.label                   "Бигэргэтии">
-<!ENTITY verify2.accesskey               "Б">
-<!ENTITY viewSecurityDevices.label       "Көмүскэл тэриллэрэ">
-<!ENTITY viewSecurityDevices.accesskey   "м">
+
+
+
+
+
+
+

@@ -30,3 +30,15 @@
 <!ENTITY chooseFolderMac.accesskey    "а">
 <!ENTITY alwaysAsk.label "Билэни киллэрэргэ куруук ыйыт">
 <!ENTITY alwaysAsk.accesskey "Б">
+
+
+
+
+
+
+
+<!ENTITY isDefault.label                  "Билигин куруук холбонор браузер - &brandShortName;">
+
+
+
+

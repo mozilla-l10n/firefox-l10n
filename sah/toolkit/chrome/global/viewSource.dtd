@@ -68,6 +68,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY backCmd.label "Төнүн">
 <!ENTITY backCmd.accesskey "Т">
 <!ENTITY forwardCmd.label "Инники">

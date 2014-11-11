@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Сирэй туруоруулара">
 
-<!ENTITY basic.tab           "Формаата уонна опциялара">
 
 <!ENTITY formatGroup.label   "Формаат">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Опциялара">
 
-<!ENTITY printBG.label       "Фонун бэчээттээ (өҥүн уонна ойуутун)">
-<!ENTITY printBG.accesskey   "б">
 
-<!ENTITY advanced.tab        "Лиис кытыыта уонна колонтитуллара">
+
 
 <!ENTITY marginGroup.label   "Кырыылара (#1)">
 <!ENTITY marginUnits.inches  "дюйм">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Уҥаттан:">
 <!ENTITY marginRight.accesskey "У">
 
-<!ENTITY headerFooter.label  "Колонтитуллар">
 
 <!ENTITY hfLeft.label        "Хаҥастан:">
 <!ENTITY hfCenter.label      "Ортотунан:">

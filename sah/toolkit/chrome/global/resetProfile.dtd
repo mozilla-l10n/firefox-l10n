@@ -2,14 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Маны &brandShortName; хос ыыт">
-<!ENTITY resetProfile.dialog.description  "Маны &brandShortName; саҥа туругар дылы төннөрүөххүн баҕараҕын дуо?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; маны оннунан хааллара сатыаҕа:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; хос ыытыллыа уонна атына сотуллуо.">
-<!ENTITY resetProfile.dialog.button.label "Маны &brandShortName; саҥаттан ыыт">
 
-<!ENTITY resetProfile.title               "Маны &brandShortName; саҥа туругар түһэрии">
-<!ENTITY resetProfile.description         "Сатаан быһаарбат кыһалҕаҥ үөскээбит буоллаҕына бэйэҕэр туһалааҕы бигэргэтэн баран саҥаттан саҕалаа.">
-<!ENTITY resetProfile.button.label2       "Маны &brandShortName; хос ыыт…">
 
-<!ENTITY resetProfile.cleaning.description "Бука диэн &brandShortName; эргэ билэлэри ыраастыырын кэтэс…">
+
+
+
+
+

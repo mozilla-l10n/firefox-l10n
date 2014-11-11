@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Бичиктэр">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "58em">
-<!ENTITY  window.unixWidth                        "56em">
 
 <!ENTITY  language.label                          "Анаммыт бичиктэр:">
 <!ENTITY  language.accesskey                      "А">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "Э">
 <!ENTITY  monospace.label                         "Биир кэтиттээх:">
 <!ENTITY  monospace.accesskey                     "к">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Арҕааҥы">
-<!ENTITY  font.langGroup.latin2                   "Киин Европатааҕы">
+<!ENTITY  font.langGroup.latin                    "Латыын">
 
 <!ENTITY  font.langGroup.trad-chinese             "Утум кытайдыы (Тайбаан)">
 <!ENTITY  font.langGroup.simpl-chinese            "Судургу кытайдыы">
@@ -34,8 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Атын тылларынан">
 
 
 

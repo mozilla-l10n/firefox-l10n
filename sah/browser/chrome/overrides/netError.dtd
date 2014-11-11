@@ -68,8 +68,8 @@
 <!ENTITY netTimeout.title "Холбонууну кэтэһии болдьоҕо бүппүт">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Аадырыс көрүҥэ биллибэт">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Аадырыс көрүҥэ биллибэт">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Бу аадырыһы арыйарга баҕар туспа бырагыраамманы туруорар наада буолуо.</li> 
 </ul>">
 
@@ -98,10 +98,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Көмүскэллээх холбонуу сатаммата">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Көрөөрү гынар сирэйиҥ көстөр кыаҕа суох, тоҕо диэтэххэ ылыллыбыт дааннайдары тургутар кыах суох.</li> 
-<li>Бука диэн ситим-сир иччитигэр тахсан бу туһунан кэпсээ. Эбэтэр, алҕас туһунан «Көмө» менютун нөҥүө биллэриэххин сөп.</li> 
-</ul> ">
+
 
 <!ENTITY nssBadCert.title "Көмүскэллээх холбонуу кэмигэр алҕас таҕыста">
 <!ENTITY nssBadCert.longDesc2 "<ul>

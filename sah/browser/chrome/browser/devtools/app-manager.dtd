@@ -10,6 +10,8 @@
 
 
 
+
+
 <!ENTITY device.stopApp "Тохтот">
 
 
@@ -27,6 +29,10 @@
 
 
 <!ENTITY device.permissions "Көҥүллээһин">
+
+
+
+
 
 
 
@@ -77,6 +83,8 @@
 
 
 <!ENTITY projects.error "Алҕас">
+
+
 
 
 <!ENTITY help.close "Сап">

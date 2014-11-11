@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Көрүү">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F2">
+<!-- toggle sidebar -->
+
+
+<!ENTITY projectPanel_tabs "Кыбытыктар">
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Сиһилии">
+<!ENTITY details_location "Аадырыс">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Сап">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Эбиискэлэри салайар түннүгү арый">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Сүрүн">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Аат">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Көмө">

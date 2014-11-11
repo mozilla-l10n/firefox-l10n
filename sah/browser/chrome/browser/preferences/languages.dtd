@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "38em">
 
 <!ENTITY languages.customize.Header                     "Тыллар">
-<!ENTITY languages.customize.prefLangDescript           "Сорох ситим-сирдэр хас да тылынан бэриллэллэр. Тыллары талыы уочаратын ый.">
-<!ENTITY languages.customize.active.label               "Тыллар наарданыыларынан:">
+
 <!ENTITY languages.customize.moveUp.label               "Үөһэ">
 <!ENTITY languages.customize.moveUp.accesskey           "Ү">
 <!ENTITY languages.customize.moveDown.label             "Аллара">

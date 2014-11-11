@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Барытын сырдатан көрдөр">
 <!ENTITY highlightAll.accesskey "т">
 <!ENTITY highlightAll.tooltiptext "Этиини тиэкискэ баарын барытын сырдатан көрдөр">
-<!ENTITY caseSensitive.label "Буукуба улаханын-кыратын арааран">
-<!ENTITY caseSensitive.accesskey "c">
+
+
 <!ENTITY caseSensitive.tooltiptext "Буукуба улаханын-кыратын учуоттаан көрдөө">

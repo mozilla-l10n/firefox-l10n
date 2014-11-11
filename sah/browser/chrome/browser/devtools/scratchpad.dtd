@@ -48,6 +48,24 @@
 
 <!ENTITY closeCmd.accesskey           "С">
 
+<!ENTITY viewMenu.label               "Көстүү">
+<!ENTITY viewMenu.accesskey           "К">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Көннөрүү">
 <!ENTITY editMenu.accesskey           "р">
 
@@ -56,6 +74,7 @@
 
 <!ENTITY inspect.label                "Чинчий">
 <!ENTITY inspect.accesskey            "Ч">
+
 
 
 

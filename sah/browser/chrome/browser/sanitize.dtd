@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Сурунаал">
 <!ENTITY dataSection.label            "Дааннайдар">
 
-<!ENTITY itemHistoryAndDownloads.label     "Киирии уонна хачайдааһын сурунаала">
-<!ENTITY itemHistoryAndDownloads.accesskey "р">
-<!ENTITY itemFormSearchHistory.label       "Формалары толоруу уонна көрдөөһүн сурунаала">
-<!ENTITY itemFormSearchHistory.accesskey   "Ф">
+
+
+
 <!ENTITY itemPasswords.label               "Долоҕойго угуллубут киирии тыллар">
 <!ENTITY itemPasswords.accesskey           "р">
 <!ENTITY itemCookies.label                 "Куукалар">

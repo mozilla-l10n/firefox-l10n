@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "Кодировката:">
 <!ENTITY  generalMetaName       "Аат">
 <!ENTITY  generalMetaContent    "Иһинээҕитэ">
-<!ENTITY  generalSecurityDetails   "Сиһилии">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Медиа">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Көмүскэл">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Сирэй көмүскэлин туһунан">
 <!ENTITY  securityView.certView "Сэртипикээтин көрүү">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Биллибэт">
@@ -76,7 +73,6 @@
 <!ENTITY  securityView.identity.domain   "Ситим-сир:">
 <!ENTITY  securityView.identity.verifier "Бигэргэтилиннэ:">
 
-<!ENTITY  securityView.privacy.header                   "Тус эйгэни көмүскээһин уонна көрүү сурунаала">
 <!ENTITY  securityView.privacy.history                  "Урут бу ситим-сиргэ сылдьыбыттаахпын дуо?">
 <!ENTITY  securityView.privacy.cookies                  "Бу ситим-сир мин туспунан информацияны (куукалары) көмпүүтэрбэр уга сытар дуо?">
 <!ENTITY  securityView.privacy.viewCookies              "Куукалары көрөргө">

@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Саҥардыыны көрүү">
 <!ENTITY update.checkForUpdatesButton.accesskey   "к">
-<!ENTITY update.updateButton.label                "Саҥардарга хос ыыт">
-<!ENTITY update.updateButton.accesskey            "х">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Саҥардыыны туруоруу...">
 <!ENTITY update.applyButtonBillboard.accesskey    "т">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
