@@ -482,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "s">
 <!ENTITY emailVideoCmd.label          "Išsiųsti vaizdo įrašą el. paštu…">
 <!ENTITY emailVideoCmd.accesskey      "s">
+
+
 <!ENTITY emailAudioCmd.label          "Išsiųsti garso įrašą el. paštu…">
 <!ENTITY emailAudioCmd.accesskey      "s">
 <!ENTITY playPluginCmd.label          "Aktyvinti šį papildinį">

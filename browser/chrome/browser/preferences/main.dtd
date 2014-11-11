@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "K">
 
 <!ENTITY alwaysCheckDefault.label         "Paleidžiant naršyklę „&brandShortName;“, tikrinti, ar ji yra numatytoji">
-<!ENTITY alwaysCheckDefault2.accesskey    "n">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "Skirti „&brandShortName;“ numatytąja naršykle">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "S">
+
+
 <!ENTITY isDefault.label                  "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">
 <!ENTITY isNotDefault.label               "„&brandShortName;“ šiuo metu nėra numatytoji naršyklė">
+
+
 
