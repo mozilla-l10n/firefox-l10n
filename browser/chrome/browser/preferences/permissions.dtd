@@ -18,5 +18,6 @@
 <!ENTITY allow.accesskey              "अ">
 <!ENTITY windowClose.key              "w">
 
-
+<!ENTITY button.close.label           "बन्द गर्नुहोस्">
+<!ENTITY button.close.accesskey       "C">
 
