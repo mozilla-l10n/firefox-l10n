@@ -19,7 +19,7 @@ was trying to connect. -->
 pero no podemos confirmar que a connexión sía segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Qué habría de fer?">
-<!ENTITY certerror.whatShouldIDo.content "Si por un regular accedeixe ta iste puesto sin problemas,
+<!ENTITY certerror.whatShouldIDo.content "Si por un regular accedeixe ta iste puesto sin problemas, 
 ista error puede estar ocurrindo porque belún 
 ye intentando suplantar a o puesto, y no habría de continar.">
 <!ENTITY certerror.getMeOutOfHere.label "Saca-me d'aquí!">

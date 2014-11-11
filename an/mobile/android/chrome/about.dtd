@@ -19,3 +19,4 @@
 <!ENTITY aboutPage.relNotes.label               "Notas d'a versión">
 <!ENTITY aboutPage.credits.label                "Creditos">
 <!ENTITY aboutPage.license.label                "Información d'a licencia">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
