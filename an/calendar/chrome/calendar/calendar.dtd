@@ -35,8 +35,8 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sort by priority">
 <!ENTITY calendar.unifinder.tree.title.label               "Titol">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Sort by title">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Complete">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sort by &#37; complete">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; Complete">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sort by &#037; complete">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Encieto">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sort by start date">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fin">

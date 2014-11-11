@@ -27,7 +27,7 @@
 <!ENTITY newevent.status.completed.label          "Completau o" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#37; complete">
+<!ENTITY newtodo.percentcomplete.label      "&#037; complete">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
@@ -156,7 +156,7 @@
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Title:" >
-<!ENTITY event.title.textbox.accesskey                    "I">
+<!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Puesto:" >
 <!ENTITY event.location.accesskey                         "P">
 <!ENTITY event.categories.label                           "Categoría:">
@@ -278,7 +278,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+<!ENTITY event.recurrence.pattern.yearly.of.label            "de" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Chinero" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Febrero" >
