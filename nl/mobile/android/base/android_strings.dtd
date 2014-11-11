@@ -182,7 +182,6 @@
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
 <!ENTITY pref_clear_private_data2 "Nu wissen">
 <!ENTITY pref_clear_private_data_category "Privégegevens wissen">
-<!ENTITY pref_clear_on_exit_title "Altijd wissen bij afsluiten">
 <!ENTITY pref_clear_on_exit_title2 "Wissen bij sluiten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u201CAfsluiten\u201D selecteert in het hoofdmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens u wilt wissen">
