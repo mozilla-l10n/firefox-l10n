@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "m">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Treballar difuera de linia">
 <!ENTITY goOfflineCmd.accesskey "d">
@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapachinas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Compartir ista pachina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "t">
-<!ENTITY shareLinkCmd.label "Compartir iste vinclo">
-<!ENTITY shareLinkCmd.accesskey "t">
-<!ENTITY shareImageCmd.label "Compartir ista imachen">
-<!ENTITY shareImageCmd.accesskey "t">
-<!ENTITY shareSelectCmd.label "Compartir a selección">
-<!ENTITY shareSelectCmd.accesskey "t">
-<!ENTITY shareVideoCmd.label "Compartir iste video">
-<!ENTITY shareVideoCmd.accesskey "t">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "Conducir-me-ie">
 <!ENTITY subscribeToPageMenupopup.label "Conducir-se a ista pachina">
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
@@ -197,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historial">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Ferramientas">
 <!ENTITY toolsMenu.accesskey          "t"> 
@@ -212,6 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
 <!ENTITY addons.commandkey            "C">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Desembolicador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -308,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "A"> 
 <!ENTITY deleteCmd.label          "Eliminar">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "l"> 
 <!ENTITY selectAllCmd.label         "Seleccionar-lo tot">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -419,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Amostrar nomás ista bastida">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Esviellar a bastida">
 <!ENTITY reloadFrameCmd.accesskey     "E">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Veyer o codigo fuent d'a selección">
@@ -477,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Ninviar o video por correu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 <!ENTITY emailAudioCmd.label          "Ninviar audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activar iste plugin">
@@ -693,6 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ferramientas y funcions adicionals">
 <!ENTITY customizeMode.menuAndToolbars.empty "En quiere mas, de ferramientas?">
@@ -707,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "N">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Aconseguir mas temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar as conversas">
@@ -732,16 +743,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Opcions">
 <!ENTITY mixedContentBlocked2.unblock.label "Desactivar a protección por agora">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Activar a protección">
-<!ENTITY mixedContentBlocked2.block.accesskey "v">
+
+
 <!ENTITY mixedContentBlocked2.disabled.message "A protección ye desactivada">
 
 <!ENTITY trackingContentBlocked.message "Seguimiento">
 <!ENTITY trackingContentBlocked.moreinfo "S'ha blocau bellas partes d'a pachina que fan seguimiento d'a suya actividat online">
 <!ENTITY trackingContentBlocked.learnMore "Saber-ne mas">
 <!ENTITY trackingContentBlocked.options "Opcions">
-<!ENTITY trackingContentBlocked.unblock.label2 "Desactivar a protección ta iste puesto">
-<!ENTITY trackingContentBlocked.block.label "Activar a proteccióni">
+
+
+
+
 <!ENTITY trackingContentBlocked.disabled.message "A protección d'o seguimiento ye desactivada">
 
 <!ENTITY pointerLock.notification.message "Pretar ESC en qualsiquier momento ta amostrar-lo de nuevas.">
