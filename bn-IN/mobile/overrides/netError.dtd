@@ -17,12 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>অ্যাড্রেস টিতে এই ধরনের টাইপিং ভুল হয়েছে নাকি মিলিয়ে নিন 
-<strong>ww</strong>.example.com এর পরিবর্তে 
-<strong>www</strong>.example.com</li> 
-<li>যদি কোন পেজ লোড করতে সক্ষম না হন তাহলে আপনার ডিভাইসের তথ্য কিম্বা ওয়াইফাই কানেকশান ঠিক আছে কিনা দেখুন।</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>কোনো কারণবসত &brandShortName;-র দ্বারা এই পৃষ্ঠা লোড করা সম্ভব নয়।</p>">
 
 <!ENTITY malformedURI.title "ঠিকানা বৈধ নয়">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>ওয়েব ঠিকানা সাধারণত উল্লিখিত রূপে লেখা হয় 
-<strong>http://www.example.com/</strong></li> 
-<li>আপনি ফরওয়ার্ড স্ল্যাশ চিহ্ন ব্যবহার করেছেন কিনা তা পরীক্ষা করুন (i.e. 
-<strong>/</strong>)।</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -49,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName;-র ক্যাশের মধ্যে, অনুরোধ করা নথিটি উপলব্ধ নেই।</p><ul><li>নিরাপত্তার খাতিরে, সংবেদনশীল নথির ক্ষেত্রে &brandShortName; দ্বারা স্বয়ংক্রিয়ভাবে পুনরায় অনুরোধ করা হয় না।</li><li>ওয়েব-সাইট থেকে নথিটি পুনরায় অনুরোধ করার জন্য 'পুনরায় প্রচেষ্টা' ক্লিক করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>আবার চেষ্টা করুন। &brandShortName; একটি কানেকশন মুক্ত করার এবং পুনরায় পেজ লোড করার প্রয়াস করবে। 
 <button id='wifi'>Wi-Fi সক্রিয় করুন</button> 
@@ -84,6 +78,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>  
 <li>প্রক্সি বৈশিষ্ট্যাবলী পরীক্ষণ করে দেখুন এগুলি সঠিক কিনা।</li>  
 <li>পরীক্ষণ করে দেখুন অাপনার ডিভাইসের ডাটা অথবা ওয়াই-ফাই সংযোগ অাছে কিনা।  
@@ -117,6 +113,8 @@
 <li>পূর্বে এই সার্ভারের সাথে সফল সংযোগ স্থাপন করা হয়ে থাকলে, সম্ভবত কোনো অস্থায়ী কারণে এই 
 সমস্যা দেখা দিয়েছে এবং পুনরায় কোনো সময়ে প্রচেষ্টা করুন।</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>এই সাইট সাময়িকভাবে অপ্রাপ্য বা খুব ব্যস্ত হতে পারে। কিছু মুহূর্ত পরে পুনঃপ্রচেষ্টা করুন।</li> 

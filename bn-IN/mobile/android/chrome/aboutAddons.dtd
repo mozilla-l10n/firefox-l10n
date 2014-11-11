@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "অ্যাড-অনসমূহ">
 <!ENTITY aboutAddons.header2                    "আপনার Add-ons">
 <!ENTITY aboutAddons.options                    "বিকল্প">
-<!ENTITY aboutAddons.browseAll                  "সকল Firefox Add-ons ব্রাউস করুন">
 
 <!ENTITY addonAction.enable                     "সক্রিয় করুন">
 <!ENTITY addonAction.disable                    "নিষ্ক্রিয় করুন">
