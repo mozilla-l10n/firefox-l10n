@@ -18,7 +18,7 @@
 <!ENTITY pref.tasks.label "Tasks">
 
 <!ENTITY pref.default_event_length.label "Default Length:" >
-<!ENTITY pref.default_event_length.accesskey "E">
+<!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "None">
 <!ENTITY pref.default_task_start_of_day.label "Start of Day">
