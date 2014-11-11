@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY time.midnight "Polnoč" >
-<!ENTITY time.noon "Poldne" >
+<!ENTITY time.midnight "Opolnoči" >
+<!ENTITY time.noon "Opoldne" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
@@ -17,7 +17,7 @@
 <!ENTITY day.4.Ddd "Sre" >
 <!ENTITY day.4.Ddd.accesskey "S">
 <!ENTITY day.5.Ddd "Čet" >
-<!ENTITY day.5.Ddd.accesskey "č">
+<!ENTITY day.5.Ddd.accesskey "Č">
 <!ENTITY day.6.Ddd "Pet" >
 <!ENTITY day.6.Ddd.accesskey "e">
 <!ENTITY day.7.Ddd "Sob" >
@@ -49,4 +49,4 @@
 <!ENTITY showToday.tooltip "Pojdi na današnji dan">
 <!ENTITY onedayforward.tooltip "En dan naprej">
 <!ENTITY onedaybackward.tooltip "En dan nazaj">
-<!ENTITY showselectedday.tooltip "Pokaži dogodke na izbrani dan">
+<!ENTITY showselectedday.tooltip "Prikaži dogodke na izbrani dan">

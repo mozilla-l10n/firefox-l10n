@@ -9,7 +9,7 @@
 
 <!ENTITY pref.mainbox.label "Splošne nastavitve" >
 <!ENTITY pref.dateformat.label "Oblika zapisa datuma:" >
-<!ENTITY pref.dateformat.accesskey "d">
+<!ENTITY pref.dateformat.accesskey "O">
 <!ENTITY pref.dateformat.long "dolga" >
 <!ENTITY pref.dateformat.short "kratka"  >
 
@@ -18,7 +18,7 @@
 <!ENTITY pref.tasks.label "Opravila">
 
 <!ENTITY pref.default_event_length.label "Privzeta dolžina:" >
-<!ENTITY pref.default_event_length.accesskey "r">
+<!ENTITY pref.default_event_length.accesskey "P">
 
 <!ENTITY pref.default_task_none.label "Brez">
 <!ENTITY pref.default_task_start_of_day.label "Začetek dneva">
@@ -31,4 +31,4 @@
 
 <!ENTITY pref.accessibility.label "Dostopnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
-<!ENTITY pref.systemcolors.accesskey "c">
+<!ENTITY pref.systemcolors.accesskey "m">

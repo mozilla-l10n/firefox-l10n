@@ -7,30 +7,30 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Ko se sproži alarm:">
-<!ENTITY pref.playasound "predvajaj zvok">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "p">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "uporabi privzeti zvok">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "z">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Prebrskaj …">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "b">
+<!ENTITY pref.alarmgoesoff.label "Ko se prikaže opomnik:">
+<!ENTITY pref.playasound "Predvajaj zvok">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Uporabi privzeti zvok">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Brskaj …">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Predogled">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
-<!ENTITY pref.showalarmbox "Prikaži sporočilo o alarmu">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "p">
-<!ENTITY pref.missedalarms "Prikaži zgrešene alarme">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "r">
+<!ENTITY pref.showalarmbox "Prikaži pogovorno okno opomnika">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "o">
+<!ENTITY pref.missedalarms "Prikaži zgrešene opomnike">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
-<!ENTITY pref.calendar.alarms.defaults.label "Privzete nastavitve za alarm">
-<!ENTITY pref.defalarm4events.label "Privzeta nastavitev alarma za dogodke:">
-<!ENTITY pref.defalarm4events.accesskey "g">
-<!ENTITY pref.defalarm4todos.label "Privzeta nastavitev alarma za opravke:">
-<!ENTITY pref.defalarm4todos.accesskey "v">
+<!ENTITY pref.calendar.alarms.defaults.label "Privzete nastavitve za opomnike">
+<!ENTITY pref.defalarm4events.label "Privzeta nastavitev opomnika za dogodke:">
+<!ENTITY pref.defalarm4events.accesskey "n">
+<!ENTITY pref.defalarm4todos.label "Privzeta nastavitev opomnika za opravila:">
+<!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "vklopljen">
 <!ENTITY pref.alarm.off "izklopljen">
-<!ENTITY pref.defalarmlen4events.label "Privzeti čas sprožitve alarma pred dogodkom:">
-<!ENTITY pref.defalarmlen4events.accesskey "d">
-<!ENTITY pref.defalarmlen4todos.label "Privzeti čas sprožitve alarma pred opravkom:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defalarmlen4events.label "Privzeti čas prikaza opomnika pred dogodkom:">
+<!ENTITY pref.defalarmlen4events.accesskey "č">
+<!ENTITY pref.defalarmlen4todos.label "Privzeti čas prikaza opomnika pred opravilom:">
+<!ENTITY pref.defalarmlen4todos.accesskey "s">
 
 <!ENTITY pref.defaultsnoozelength.label "Privzeta dolžina dremeža:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "d">

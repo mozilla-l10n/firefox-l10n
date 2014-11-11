@@ -56,7 +56,7 @@
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Dogodek">
 <!ENTITY  event.menu.item.new.event.accesskey             "D">
-<!ENTITY  event.menu.item.new.task.label                  "Opravek">
+<!ENTITY  event.menu.item.new.task.label                  "Opravilo">
 <!ENTITY  event.menu.item.new.task.accesskey              "O">
 <!ENTITY  event.menu.item.new.message.label               "Sporočilo">
 <!ENTITY  event.menu.item.new.message.accesskey           "p">
@@ -98,14 +98,14 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "d">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Prilagodi…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "g">
-<!ENTITY  event.menu.view.showlink.label                  "Pokaži sorodno povezavo">
+<!ENTITY  event.menu.view.showlink.label                  "Prikaži sorodno povezavo">
 <!ENTITY  event.menu.view.showlink.accesskey              "s">
 
 <!ENTITY  event.menu.options.label                            "Možnosti">
 <!ENTITY  event.menu.options.accesskey                        "M">
 <!ENTITY  event.menu.options.attendees.label                  "Povabi udeležence …">
 <!ENTITY  event.menu.options.attendees.accesskey              "u">
-<!ENTITY  event.menu.options.timezone2.label                  "Pokaži časovne pasove">
+<!ENTITY  event.menu.options.timezone2.label                  "Prikaži časovne pasove">
 <!ENTITY  event.menu.options.timezone2.accesskey              "č">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteta">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
@@ -121,11 +121,11 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "Z">
 <!ENTITY  event.menu.options.privacy.public.label             "Javni dogodek">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Pokaži le čas in datum">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "l">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Prikaži samo čas in datum">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "s">
 <!ENTITY  event.menu.options.privacy.private.label            "Zasebni dogodek">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "g">
-<!ENTITY  event.menu.options.show.time.label                  "Pokaži čas kot">
+<!ENTITY  event.menu.options.show.time.label                  "Prikaži čas kot">
 <!ENTITY  event.menu.options.show.time.accesskey              "ž">
 <!ENTITY  event.menu.options.show.time.busy.label             "Zaseden">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "a">
@@ -224,13 +224,13 @@
 
 <!ENTITY recurrence.title.label                         "Uredi ponovitve">
 
-<!ENTITY event.repeat.does.not.repeat.label             "se ne ponavlja">
-<!ENTITY event.repeat.daily.label                       "dnevno">
-<!ENTITY event.repeat.weekly.label                      "tedensko">
-<!ENTITY event.repeat.every.weekday.label               "vsak delavnik">
-<!ENTITY event.repeat.bi.weekly.label                   "dvotedensko">
-<!ENTITY event.repeat.monthly.label                     "mesečno">
-<!ENTITY event.repeat.yearly.label                      "letno">
+<!ENTITY event.repeat.does.not.repeat.label             "Se ne ponavlja">
+<!ENTITY event.repeat.daily.label                       "Dnevno">
+<!ENTITY event.repeat.weekly.label                      "Tedensko">
+<!ENTITY event.repeat.every.weekday.label               "Vsak delavnik">
+<!ENTITY event.repeat.bi.weekly.label                   "Dvotedensko">
+<!ENTITY event.repeat.monthly.label                     "Mesečno">
+<!ENTITY event.repeat.yearly.label                      "Letno">
 <!ENTITY event.repeat.custom.label                      "Po meri ...">
 
 <!ENTITY event.recurrence.pattern.label                 "Vzorec ponavljanja">
@@ -323,18 +323,18 @@
 <!ENTITY event.recurrence.range.label                   "Obseg ponavljanja">
 <!ENTITY event.recurrence.forever.label                 "Brez končnega datuma" >
 <!ENTITY event.recurrence.repeat.for.label              "Ustvari" >
-<!ENTITY event.recurrence.appointments.label            "Zmenek(i)" >
+<!ENTITY event.recurrence.appointments.label            "Zmenki" >
 <!ENTITY event.repeat.until.label                       "Ponavljaj do" >
 <!ENTITY event.recurrence.preview.label                 "Predogled">
 <!-- Attendees dialog -->
 
 <!ENTITY invite.title.label                     "Povabi udeležence">
 <!ENTITY event.organizer.label                  "Organizator">
-<!ENTITY event.freebusy.suggest.slot            "Predlagaj prosti čas:">
+<!ENTITY event.freebusy.suggest.slot            "Predlagaj časovni termin:">
 <!ENTITY event.freebusy.button.next.slot        "Naslednji termin">
 <!ENTITY event.freebusy.button.previous.slot    "Prejšnji termin">
 <!ENTITY event.freebusy.zoom                    "Povečava:">
-<!ENTITY event.freebusy.legend.free             "brezplačno" >
+<!ENTITY event.freebusy.legend.free             "Prosto" >
 <!ENTITY event.freebusy.legend.busy             "Zasedeno" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Neodločeno" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Nedosegljivo" >
@@ -343,13 +343,13 @@
 <!ENTITY event.attendee.role.optional           "Neobvezni udeleženec">
 <!ENTITY event.attendee.role.chair              "Predsedujoči">
 <!ENTITY event.attendee.role.nonparticipant     "Nesodelujoči">
-<!ENTITY event.attendee.usertype.individual     "Posamezno">
+<!ENTITY event.attendee.usertype.individual     "Posameznik">
 <!ENTITY event.attendee.usertype.group          "Skupina">
 <!ENTITY event.attendee.usertype.resource       "Vir">
 <!ENTITY event.attendee.usertype.room           "Klepetalnica">
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Prosimo, navedite časovni pas">
+<!ENTITY timezone.title.label            "Navedite časovni pas">
 <!ENTITY event.timezone.custom.label     "Dodatni časovni pasovi …">
 <!-- Read-Only dialog -->
 
