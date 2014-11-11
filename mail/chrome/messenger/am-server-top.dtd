@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) Prejeto ob izhodu">
 <!ENTITY expungeOnExit.accesskey "e">
-<!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni koš">
+<!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni Koš">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Ob zagonu preveri nova sporočila">
 <!ENTITY loginAtStartup.accesskey "z">
@@ -65,8 +65,8 @@
 <!ENTITY maxMessagesStart.accesskey "V">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "sporočil">
-<!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik, vedno zahtevaj preverjanje pristnosti">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik vedno zahtevaj overitev">
+<!ENTITY alwaysAuthenticate.accesskey "O">
 <!ENTITY newsrcFilePath.label "datoteka newsrc:">
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">

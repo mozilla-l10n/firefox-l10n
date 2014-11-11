@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Fonetično:">
 <!ENTITY DisplayName.label              "Pokaži:">
 <!ENTITY DisplayName.accesskey          "P">
-<!ENTITY preferDisplayName.label        "Vedno ime za prikaz nad glavo sporočila">
+<!ENTITY preferDisplayName.label        "Vedno raje prikaži prikazano ime namesto glave sporočila">
 <!ENTITY preferDisplayName.accesskey    "n">
 <!ENTITY NickName.label                 "Vzdevek:">
 <!ENTITY NickName.accesskey             "k">

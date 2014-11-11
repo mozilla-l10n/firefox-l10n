@@ -33,7 +33,7 @@
 <!ENTITY folderPickerPrefix.label "Zaženi izbrane filtre na:">
 <!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY helpButton.label "Pomoč">
-<!ENTITY helpButton.accesskey "č">
+<!ENTITY helpButton.accesskey "m">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Išči filtre po imenu …">
 

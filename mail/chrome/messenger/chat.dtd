@@ -11,7 +11,7 @@
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; trenutno za ta stik nima shranjenih nobenih predhodnih pogovorov.">
 <!ENTITY chat.noAccount.title             "Računa za klepete še niste odprli.">
 <!ENTITY chat.noAccount.description       "Pustite, da vas &brandShortName; vodi skozi postopek priprave vašega računa za klepete.">
-<!ENTITY chat.accountWizard.button       "Začnimo">
+<!ENTITY chat.accountWizard.button       "Začni">
 <!ENTITY chat.noConnectedAccount.title             "Vaši računi za klepet niso povezani.">
 <!ENTITY chat.noConnectedAccount.description       "Lahko se povežete v pogovornem oknu 'Stanje pogovorov':">
 <!ENTITY chat.showAccountManager.button       "Pokaži stanje klepetov">

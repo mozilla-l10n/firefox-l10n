@@ -6,7 +6,7 @@
 
 <!ENTITY accountManagerTitle.label "Nastavitve računa">
 
-<!ENTITY accountActionsButton.label "Delo z računi">
+<!ENTITY accountActionsButton.label "Dejanja z računi">
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Dodaj račun …">
 <!ENTITY addMailAccountButton.accesskey "a">

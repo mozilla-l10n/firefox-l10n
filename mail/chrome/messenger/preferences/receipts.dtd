@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "Povratnice">
-<!ENTITY requestReceipt.label          "Ob pošiljanju  sporočila vedno zahtevaj povratnico">
+<!ENTITY requestReceipt.label          "Ob pošiljanju sporočila vedno zahtevaj povratnico">
 <!ENTITY requestReceipt.accesskey      "O">
 <!ENTITY receiptArrive.label           "Ko povratnica prispe:">
 <!ENTITY leaveIt.label                 "jo pusti v Prejeto">

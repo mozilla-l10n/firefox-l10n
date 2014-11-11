@@ -7,7 +7,7 @@
 <!ENTITY accountProtocolTitle.label   "Omrežje za klepet">
 <!ENTITY accountProtocolInfo.label    "Izberite mrežo za svoj račun za klepet.">
 <!ENTITY accountProtocolField.label   "Omrežje:">
-<!ENTITY accountProtocolGetMore.label "Dobite še več …">
+<!ENTITY accountProtocolGetMore.label "Pridobite si še več …">
 
 <!ENTITY accountUsernameTitle.label   "Uporabniško ime">
 <!ENTITY accountUsernameDuplicate.label "Ta račun je že urejen!">
@@ -15,13 +15,13 @@
 <!ENTITY accountPasswordTitle.label   "Geslo">
 <!ENTITY accountPasswordInfo.label    "Vnesite geslo v polje spodaj.">
 <!ENTITY accountPasswordField.label   "Geslo:">
-<!ENTITY accountPasswordManager.label "Geslo, ki ste ga vnesli, se bo Skrbnika za gesla shranil. Pustite to polje prazno, če želite  geslo vsakič znova vnesti, ko se na ta račun prijavite.">
+<!ENTITY accountPasswordManager.label "Tukaj vneseno geslo bo shranjeno v Upravitelju gesel. Pustite to polje prazno, če želite geslo vsakič znova vnesti, ko se na ta račun prijavite.">
 
 <!ENTITY accountAdvancedTitle.label   "Dodatne možnosti">
 <!ENTITY accountAdvancedInfo.label    "Ta korak, če želite, lahko preskočite.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Obveščaj o novi pošti">
-<!ENTITY accountAliasGroupbox.caption "Lokalni psevdonim">
-<!ENTITY accountAliasField.label      "Drugo ime:">
+<!ENTITY accountAliasGroupbox.caption "Krajevni vzdevek">
+<!ENTITY accountAliasField.label      "Vzdevek:">
 <!ENTITY accountAliasInfo.label       "Videti bo le med klepetom, ko govorite, daljinski stiki ga ne bodo videli.">
 <!ENTITY accountProxySettings.caption "Nastavitve za posrednika:">
 <!ENTITY accountProxySettings.change.label     "Spremeni ...">

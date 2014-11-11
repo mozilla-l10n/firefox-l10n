@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Geslo, ki je povezano z vašim uporabniškim imenom">
 <!ENTITY savePassword.label           "Shrani geslo">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Izberite, da svoje geslo varno shranite s pomočjo Skrbnika za gesla">
+<!ENTITY savePassword.tooltip         "Izberite, da svoje geslo varno shranite s pomočjo Upravitelja gesel">

@@ -9,8 +9,8 @@
 <!ENTITY globalReceipts.accesskey     "S">
 <!ENTITY useCustomPrefs.label         "Prilagodi povratnice za ta račun">
 <!ENTITY useCustomPrefs.accesskey     "z">
-<!ENTITY requestReceipt.label         "Ko pošiljaš sporočila, vedno zahtevaj povratnico">
-<!ENTITY requestReceipt.accesskey     "l">
+<!ENTITY requestReceipt.label         "Med pošiljanjem sporočil vedno zahtevaj povratnico">
+<!ENTITY requestReceipt.accesskey     "M">
 <!ENTITY receiptArrive.label          "Ko povratnica prispe:">
 <!ENTITY leaveIt.label                "Pusti jo v Prejeto">
 <!ENTITY leaveIt.accesskey            "i">

@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Če omogočeno, bo &brandShortName; sporočila, ki jih je zunanji klasifikator označil, razumel kot smeti.">
-<!ENTITY ispHeaders.label "Zaupaj glavam neželene pošte, kot je nastavil: ">
+<!ENTITY ispHeaders.label "Zaupaj glavam neželene pošte, kot jih je nastavil: ">
 <!ENTITY ispHeaders.accesskey "Z">
 
 <!ENTITY junkClassification.label "Izbira">

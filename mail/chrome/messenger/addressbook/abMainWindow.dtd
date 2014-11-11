@@ -205,7 +205,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Opis">
 <!ENTITY addresses.heading                              "Naslovi">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Dobi zemljevid">
+<!ENTITY mapItButton.label                              "Prikaži zemljevid">
 <!ENTITY mapIt.tooltip                                  "Pokaži zemljevid s spleta za ta naslov">
 <!-- Status Bar -->
 

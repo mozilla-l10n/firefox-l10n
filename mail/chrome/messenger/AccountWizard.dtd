@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Da lahko prejemate sporočila, morate najprej odpreti račun za pošto ali novičarsko skupino">
 <!ENTITY accountTypeTitle.label "Nastavitev novega računa">
-<!ENTITY accountTypeDesc2.label "Ta čarovnik bo zbiral informacije, ki jih rabi za odprtje računa za pošto ali novičarsko skupino Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
+<!ENTITY accountTypeDesc2.label "Ta čarovnik bo zbiral podatke, ki jih potrebuje za odprtje računa za pošto ali novičarsko skupino Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
 <!ENTITY accountTypeDirections.label "Izberite vrsto računa, ki ga želite odpreti:">
 <!ENTITY accountTypeMail.label "Račun za e-pošto">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -70,9 +70,9 @@
 <!ENTITY outgoingTitle.label "Podatki o izhodnem strežniku">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Vnesite ime svojega izhodnega strežnika (NNTP) (na primer, &quot;smtp.naprimer.net&quot;).">
-<!ENTITY outgoingServer.label "Izhodni strežnik:">
+<!ENTITY outgoingServer.label "Odhodni strežnik:">
 <!ENTITY outgoingServer.accesskey "s">
-<!ENTITY outgoingUsername.description "Vnesite svoje ime za izhodni strežnik, ki ste ga dobili od ponudnika poštnih storitev(običajno se za ta namen uporablja eno in isto ime).">
+<!ENTITY outgoingUsername.description "Vnesite uporabniško ime odhodnega strežnika, ki ste ga dobili od svojega ponudnika e-poštnih storitev (to je običajno isto, kot uporabniško ime dohodnega strežnika).">
 <!ENTITY outgoingUsername.label "Izhodno uporabniško ime:">
 <!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
@@ -96,7 +96,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Vaš izhodni (SMTP) strežnik, &quot;">
+<!ENTITY haveSmtp3.prefix "Vaš odhodni strežnik (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, je enak vašemu vhodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime.">
 <!-- Entities for Account name page -->
 

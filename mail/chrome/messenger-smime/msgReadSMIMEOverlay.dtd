@@ -4,5 +4,5 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
 
-<!ENTITY menu_securityStatus.label "Informacije o varnosti sporočila">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.label "Podatki o varnosti sporočila">
+<!ENTITY menu_securityStatus.accesskey "P">

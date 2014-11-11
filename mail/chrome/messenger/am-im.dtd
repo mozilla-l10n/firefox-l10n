@@ -8,7 +8,7 @@
 <!ENTITY account.advanced              "Dodatne možnosti">
 <!ENTITY account.name                  "Uporabniško ime:">
 <!ENTITY account.password              "Geslo:">
-<!ENTITY account.alias                 "Drugo ime:">
+<!ENTITY account.alias                 "Vzdevek:">
 <!ENTITY account.newMailNotification   "Obveščaj o novi pošti">
 <!ENTITY account.autojoin              "Samodejno združeni kanali:">
 <!ENTITY account.proxySettings.caption "Nastavitve za posrednika:">

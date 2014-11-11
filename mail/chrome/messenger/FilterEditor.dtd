@@ -17,7 +17,7 @@
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
 <!ENTITY contextDesc.label "Uporabi filter:">
-<!ENTITY contextIncomingMail.label "Preverjanje nove pošte:">
+<!ENTITY contextIncomingMail.label "Prejem nove pošte:">
 <!ENTITY contextIncomingMail.accesskey "P">
 <!ENTITY contextManual.label "Ročni zagon">
 <!ENTITY contextManual.accesskey "R">
