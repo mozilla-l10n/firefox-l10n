@@ -4,7 +4,7 @@
 
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
-<!ENTITY generalInfo.label                       "Splošne informacije">
+<!ENTITY generalInfo.label                       "Splošni podatki">
 <!ENTITY folderCharsetFallback.label             "Privzet nabor znakov:">
 <!ENTITY folderCharsetFallback.accesskey         "e">
 <!ENTITY folderCharsetEnforce.label              "Uveljavi nabor za vsa sporočila v mapi (nastavitve nabora znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
@@ -36,7 +36,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Usklajevanje">
-<!ENTITY folderCheckForNewMessages2.label         "Ko dobivaš nova sporočila za ta račun, vedno preveri to mapo">
+<!ENTITY folderCheckForNewMessages2.label         "Ob prejemu novih sporočil za ta račun vedno preveri to mapo">
 <!ENTITY folderCheckForNewMessages2.accesskey     "u">
 
 <!ENTITY offlineFolder.check.label               "Za delo brez povezave uporabi to mapo">

@@ -230,7 +230,7 @@
 <!ENTITY bccAddr.label "Skp:">
 <!ENTITY replyAddr.label "Odgovor-Za:">
 <!ENTITY newsgroupsAddr.label "Novičarska skupina:">
-<!ENTITY followupAddr.label "Nadaljnje delo - Za:">
+<!ENTITY followupAddr.label "Nadalje odgovori za:">
 <!ENTITY subject.label "Zadeva:">
 <!ENTITY subject.accesskey "Z">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

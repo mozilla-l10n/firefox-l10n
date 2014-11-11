@@ -30,10 +30,10 @@
 <!ENTITY editVCard.label "Uredi kartico …">
 <!ENTITY editVCard.accesskey "U">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Sporočilom pripni  mojo vKartico">
+<!ENTITY attachVCard.label "Sporočilom pripni mojo vizitko (vCard)">
 <!ENTITY attachVCard.accesskey "p">
 
-<!ENTITY manageIdentities.label "Urejaj identitete …">
+<!ENTITY manageIdentities.label "Upravljaj z identitetami …">
 <!ENTITY manageIdentities.accesskey "d">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 

@@ -40,7 +40,7 @@
 <!ENTITY reading.caption               "Branje">
 <!ENTITY display.caption               "Prikaz">
 <!ENTITY showCondensedAddresses.label  "Za osebe v mojem imeniku prikaži le ime za prikaz">
-<!ENTITY showCondensedAddresses.accesskey "e">
+<!ENTITY showCondensedAddresses.accesskey "a">
 
 <!ENTITY autoMarkAsRead.label          "Samodejno označi sporočila kot prebrana">
 <!ENTITY autoMarkAsRead.accesskey      "S">
@@ -54,13 +54,13 @@
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY openMsgIn.label               "Odpri sporočila v:">
 <!ENTITY openMsgInNewTab.label         "novem zavihku">
-<!ENTITY openMsgInNewTab.accesskey     "z">
+<!ENTITY openMsgInNewTab.accesskey     "n">
 <!ENTITY reuseExpRadio0.label          "novem oknu">
-<!ENTITY reuseExpRadio0.accesskey      "o">
+<!ENTITY reuseExpRadio0.accesskey      "v">
 <!ENTITY reuseExpRadio1.label          "obstoječem oknu za sporočila">
-<!ENTITY reuseExpRadio1.accesskey      "b">
+<!ENTITY reuseExpRadio1.accesskey      "o">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "a">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">

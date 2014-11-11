@@ -19,7 +19,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". To pomeni, da &brandShortName; lahko uporabljate, kopirate in delite drugim v uporabo. Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da bo ustrezala vašim potrebam. Mozilla Public License vam poleg tega podeljuje pravico, da po svoje spremenjene različice tudi razširjate.">
 
-<!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov Mozilla in Thunderbird. Dodatne informacije o blagovnih znamkah lahko najdete ">
+<!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov Mozilla in Thunderbird. Dodatne podatke o blagovnih znamkah lahko najdete ">
 <!ENTITY rights.intro-point2b "tukaj">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "Napredno">
 <!ENTITY rights.webservices-c " nato zavihek ">
 <!ENTITY rights.webservices-d "Posodobi">
-<!ENTITY rights.webservices-e " in nato zbrišete izbiro pri &quot;Samodejno preverjaj, če obstajajo posodobitve za&quot;.">
+<!ENTITY rights.webservices-e " in nato odznačite možnost &quot;Samodejno preverjaj, če obstajajo posodobitve za&quot;.">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "Tukaj mora biti na voljo pregled storitev za spletne strani, ki jih vsebuje izdelek, skupaj z navodili, kako jih onemogočiti, če so na razpolago.">
@@ -66,4 +66,4 @@
 <!ENTITY rights.webservices-term3 "Storitve so na voljo &quot;kot take.&quot; in &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji, vam ne zagotavlja nikakršne izrecne ali implicitne garancije, med drugim brez kakršnih omejitev nobene garancije, da so Storitve primerne in uporabne za vaše namene. Ne glede na kakovost in zmogljivost storitev nosite vso odgovornost za uporabo za svoje namene vi sami Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja garancije, zato ta pogoj morda ne velja za vas.">
 <!ENTITY rights.webservices-term4 "Razen če tako zahteva zakon, &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji ne odgovarja za nobeno posredno, posebno, posledično ali vzročno škodo, ki izhaja ali je na kakršenkoli način povezana z uporabo programa &brandShortName; in storitev. Skupna odgovornost pod temi pogoji ne bo presegala 500$ (petsto dolarjev). Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja nekaterih škod, zato ta pogoj morda ne velja za vas.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; lahko od časa do časa po potrebi te pogoje posodobi. Brez pisnega soglasja &vendorShortName; pa jih ni dovoljeno spreminjati ali preklicati.">
-<!ENTITY rights.webservices-term6 "Ti pogoji so predmet zakonodaje države Kalifornija, ZDA, z izjemo določil v zvezi s kolizijo zakonov. Če se za katerikoli del teh pogojev meni, da je neveljaven ali neizvršljiv, ostaja preostali del še vedno v polni veljavi. V primeru neskladnosti med prevodom teh pogojev in angleško različico, obvelja različica v angleškem jeziku.">
+<!ENTITY rights.webservices-term6 "Ti pogoji so predmet zakonodaje države Kalifornija, ZDA, z izjemo spora v zvezi z določbami zakonodaje. Če se za katerikoli del teh pogojev meni, da je neveljaven ali neizvršljiv, ostaja preostali del še vedno v polni veljavi. V primeru neskladnosti med prevodom teh pogojev in angleško različico, obvelja različica v angleškem jeziku.">

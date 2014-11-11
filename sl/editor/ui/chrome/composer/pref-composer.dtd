@@ -17,8 +17,8 @@
 <!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
 <!ENTITY  saveAssociatedFiles.label     "Shrani slike in druge pridružene datoteke, kadar se shranjuje strani">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Kadar se objavlja strani, vedno pokaži dvogovor Objava">
-<!ENTITY  showPublishDialog.accesskey   "K">
+<!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno pokaži pogovorno okno Objavi">
+<!ENTITY  showPublishDialog.accesskey   "M">
 <!ENTITY  composerEditing.label         "Urejanje">
 <!ENTITY  maintainStructure.label       "Med vstavljanjem ali brisanjem celic obdrži obliko tabele">
 <!ENTITY  maintainStructure.tooltip     "Med vstavljanjem ali brisanjem celic ohranjuje pravokotno obliko tabele">

@@ -16,5 +16,5 @@
 <!ENTITY securityButton.label "Varnost">
 <!ENTITY securityButton.tooltip "Pokaži ali spremeni varnostne nastavitve">
 
-<!ENTITY menu_viewSecurityStatus.label "Informacije o varnosti sporočila">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.label "Podatki o varnosti sporočila">
+<!ENTITY menu_viewSecurityStatus.accesskey "P">

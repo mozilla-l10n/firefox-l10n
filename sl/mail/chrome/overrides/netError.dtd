@@ -98,7 +98,7 @@ da ima &brandShortName; pravico uporabljati mrežo.</li>
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito 
+<li>Preverite, ali ima vaš sistem Upravitelja za osebno varnost 
 nameščen.</li> 
 <li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li> 
 </ul>">
