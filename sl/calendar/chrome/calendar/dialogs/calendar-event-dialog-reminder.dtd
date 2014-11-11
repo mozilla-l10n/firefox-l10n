@@ -11,7 +11,7 @@
 <!ENTITY reminder.reminderDetails.label                    "Podrobnosti o opomniku">
 <!ENTITY reminder.action.label                             "Izberite dejanje opomnika">
 
-<!ENTITY reminder.action.alert.label                       "Pokaži opozorilo">
+<!ENTITY reminder.action.alert.label                       "Prikaži opozorilo">
 <!ENTITY reminder.action.email.label                       "Pošlji e-sporočilo">
 
 <!ENTITY alarm.units.minutes                               "minut" >

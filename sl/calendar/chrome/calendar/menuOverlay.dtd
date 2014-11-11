@@ -6,7 +6,7 @@
 <!ENTITY event.new.event                        "Nov dogodek …">
 <!ENTITY event.new.event.accesskey              "g">
 
-<!ENTITY event.new.task                         "Nov opravek …">
+<!ENTITY event.new.task                         "Novo opravilo …">
 <!ENTITY event.new.task.accesskey               "o">
 
 <!ENTITY calendar.import.label                  "Uvozi …">
@@ -27,14 +27,14 @@
 <!ENTITY showUnifinderCmd.label                 "Najdi dogodke">
 <!ENTITY showUnifinderCmd.accesskey             "i">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Pokaži opravke v koledarju">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Prikaži opravila v koledarju">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "o">
 
 <!ENTITY goTodayCmd.label                       "Danes">
 <!ENTITY goTodayCmd.accesskey                   "s">
 
 <!ENTITY showCurrentView.label                  "Trenutni pogled">
-<!ENTITY showCurrentView.accesskey              "T">
+<!ENTITY showCurrentView.accesskey              "r">
 
 <!ENTITY calendar.properties.label              "Lastnosti koledarja …">
 <!ENTITY calendar.properties.accesskey          "L">

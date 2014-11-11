@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Barva">
 <!ENTITY pref.categories.usecolor.label "Uporabi barvo">
 <!ENTITY pref.categories.none.label "(brez)">
-<!ENTITY pref.categories.overwrite "Takšno ime kategorije že obstaja.\nJo želite prepisati?">
-<!ENTITY pref.categories.overwrite.title "Opozorilo: ime je že v uporabi.">
+<!ENTITY pref.categories.overwrite "Kategorija s tem imenom že obstaja.\nAli ga želite prepisati?">
+<!ENTITY pref.categories.overwrite.title "Opozorilo: podvojeno ime">
 <!ENTITY pref.categories.noBlankCategories "Vnesti morate ime kategorije.">

@@ -5,7 +5,7 @@
 <!-- Calendar Subscriptions Dialog -->
 
 <!ENTITY calendar.subscriptions.dialog.title                            "Naroči se na koledarje">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Pokaži koledarje, ki vsebujejo:">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Prikaži koledarje, ki vsebujejo:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Išči">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Izberite koledarje za prijavo:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Naroči se">
