@@ -4,6 +4,7 @@
 
 <!ENTITY event.title.label                  "Editar item" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mantenha a duração ao alterar a data final">
 
 
 <!ENTITY newevent.from.label                "De" >
@@ -31,7 +32,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
+<!ENTITY event.attendees.notify.label               "Notificar participantes">
+<!ENTITY event.attendees.notifyundisclosed.label    "Convite separado por participante">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -144,10 +147,10 @@
 
 
 
-
-
-
-
+<!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
+<!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
+<!ENTITY  event.toolbar.status.tooltip                    "Alterar status">
 
 <!-- Main page -->
 
@@ -157,7 +160,7 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "g">
-
+<!ENTITY event.categories.textbox.label                   "Adicionar uma nova categoria" >
 <!ENTITY event.calendar.label                             "Calendário:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participantes:" >
@@ -184,10 +187,10 @@
 <!ENTITY event.description.accesskey                      "s">
 <!ENTITY event.attachments.label                          "Anexos:" >
 <!ENTITY event.attachments.accesskey                      "A" >
-
-
-
-
+<!ENTITY event.attachments.menubutton.label               "Anexar">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Página web…">
+<!ENTITY event.attachments.url.accesskey                  "w">
 <!ENTITY event.attachments.popup.remove.label             "Excluir" >
 <!ENTITY event.attachments.popup.remove.accesskey         "E" >
 <!ENTITY event.attachments.popup.open.label               "Abrir" >
@@ -214,7 +217,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Lembretes múltiplos…" >
 
-
+<!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Editar recorrência">
@@ -338,10 +341,10 @@
 <!ENTITY event.attendee.role.optional           "Participante opcional">
 <!ENTITY event.attendee.role.chair              "Presidente">
 <!ENTITY event.attendee.role.nonparticipant     "Não participante">
-
-
-
-
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Grupo">
+<!ENTITY event.attendee.usertype.resource       "Recurso">
+<!ENTITY event.attendee.usertype.room           "Sala">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
