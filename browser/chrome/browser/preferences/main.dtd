@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "எ">
 
 <!ENTITY alwaysCheckDefault.label         "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "&brandShortName; ஐ முன்னிருப்பு உலாவியாக்கு">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "D">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது">
 <!ENTITY isNotDefault.label               "&brandShortName; உங்களுடைய முன்னிருப்பு உலாவியாக இல்லை">
+
+
 
