@@ -9,32 +9,32 @@
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
-<!ENTITY pasteNoFormatting.accesskey "P">
+<!ENTITY pasteNoFormatting.accesskey "b">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepi kot">
 <!ENTITY pasteAs.accesskey "k">
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
-<!ENTITY pasteAsQuotationCmd.accesskey "r">
+<!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Najdi ...">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj ...">
 <!ENTITY enableInlineSpellChecker.label "Preveri črkovanje med pisanjem">
-<!ENTITY enableInlineSpellChecker.accesskey "e">
+<!ENTITY enableInlineSpellChecker.accesskey "r">
 <!ENTITY checkSpellingCmd2.label "Preveri črkovanje ...">
-<!ENTITY checkSpellingCmd2.accesskey "v">
+<!ENTITY checkSpellingCmd2.accesskey "P">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Vstavi">
 <!ENTITY insertMenu.accesskey "V">
-<!ENTITY insertLinkCmd.label "Povezava …">
+<!ENTITY insertLinkCmd.label "Povezavo …">
 <!ENTITY insertLinkCmd.accesskey "P">
 <!ENTITY insertLinkCmd.key "P ">
 <!ENTITY insertAnchorCmd.label "Sidro z imenom …">
-<!ENTITY insertAnchorCmd.accesskey "S">
-<!ENTITY insertImageCmd.label "Slika …">
-<!ENTITY insertImageCmd.accesskey "l">
-<!ENTITY insertHLineCmd.label "Vodoravna črta">
+<!ENTITY insertAnchorCmd.accesskey "d">
+<!ENTITY insertImageCmd.label "Sliko …">
+<!ENTITY insertImageCmd.accesskey "S">
+<!ENTITY insertHLineCmd.label "Vodoravno črto">
 <!ENTITY insertHLineCmd.accesskey "V">
 <!ENTITY insertTableCmd.label "Tabela …">
 <!ENTITY insertTableCmd.accesskey "T">
@@ -42,7 +42,7 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "Matematični izraz ...">
 <!ENTITY insertMathCmd.accesskey "M">
-<!ENTITY insertCharsCmd.label "Znaki in simboli …">
+<!ENTITY insertCharsCmd.label "Znake in simbole …">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Prelomi pod sliko/slikami">
 <!ENTITY insertBreakAllCmd.accesskey "r">
@@ -50,7 +50,7 @@
 
 <!ENTITY createLinkCmd.label "Ustvari povezavo …">
 <!ENTITY createLinkCmd.accesskey "U">
-<!ENTITY editLinkCmd.label "Uredi povezavo v novem Composerju">
+<!ENTITY editLinkCmd.label "Uredi povezavo v novem Sestavljalniku">
 <!ENTITY editLinkCmd.accesskey "U">
 <!-- Font Face SubMenu -->
 
@@ -63,7 +63,7 @@
 <!ENTITY fontFixedWidth.accesskey "a">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
-<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
@@ -83,19 +83,19 @@
 <!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Velikost">
-<!ENTITY fontSizeMenu.accesskey "e">
+<!ENTITY fontSizeMenu.accesskey "V">
 <!ENTITY size-xx-smallCmd.label "xx-majhna">
 <!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "x-majhna">
-<!ENTITY size-x-smallCmd.accesskey "j">
+<!ENTITY size-x-smallCmd.accesskey "h">
 <!ENTITY size-smallCmd.label "majhna">
-<!ENTITY size-smallCmd.accesskey "m">
+<!ENTITY size-smallCmd.accesskey "a">
 <!ENTITY size-mediumCmd.label "srednja">
 <!ENTITY size-mediumCmd.accesskey "s">
 <!ENTITY size-largeCmd.label "velika">
-<!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-largeCmd.accesskey "e">
 <!ENTITY size-x-largeCmd.label "x-velika">
-<!ENTITY size-x-largeCmd.accesskey "x">
+<!ENTITY size-x-largeCmd.accesskey "k">
 <!ENTITY size-xx-largeCmd.label "xx-velika">
 <!ENTITY size-xx-largeCmd.accesskey "i">
 <!-- Font Style SubMenu -->
@@ -104,12 +104,12 @@
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Krepko">
 <!ENTITY styleBoldCmd.accesskey "K">
-<!ENTITY styleBoldCmd.key "K">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Ležeče">
 <!ENTITY styleItalicCmd.accesskey "L">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Podčrtano">
-<!ENTITY styleUnderlineCmd.accesskey "d">
+<!ENTITY styleUnderlineCmd.accesskey "P">
 <!ENTITY styleUnderlineCmd.key "d">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
 <!ENTITY styleStrikeThruCmd.accesskey "r">
@@ -117,27 +117,27 @@
 <!ENTITY styleSuperscriptCmd.accesskey "N">
 <!ENTITY styleSubscriptCmd.label "Podpisano">
 <!ENTITY styleSubscriptCmd.accesskey "o">
-<!ENTITY styleNonbreakingCmd.label "Se ne sme deliti">
-<!ENTITY styleNonbreakingCmd.accesskey "m">
+<!ENTITY styleNonbreakingCmd.label "Nedeljeno">
+<!ENTITY styleNonbreakingCmd.accesskey "e">
 <!ENTITY styleEm.label "Poudarek">
 <!ENTITY styleEm.accesskey "u">
 <!ENTITY styleStrong.label "Močnejši poudarek">
-<!ENTITY styleStrong.accesskey "j">
-<!ENTITY styleCite.label "Citat">
-<!ENTITY styleCite.accesskey "C">
+<!ENTITY styleStrong.accesskey "M">
+<!ENTITY styleCite.label "Navedek">
+<!ENTITY styleCite.accesskey "a">
 <!ENTITY styleAbbr.label "Okrajšava">
-<!ENTITY styleAbbr.accesskey "j">
+<!ENTITY styleAbbr.accesskey "k">
 <!ENTITY styleAcronym.label "Kratica">
-<!ENTITY styleAcronym.accesskey "a">
+<!ENTITY styleAcronym.accesskey "c">
 <!ENTITY styleCode.label "Koda">
 <!ENTITY styleCode.accesskey "d">
-<!ENTITY styleSamp.label "Vzorec izhoda">
+<!ENTITY styleSamp.label "Vzorec izpisa">
 <!ENTITY styleSamp.accesskey "V">
 <!ENTITY styleVar.label "Spremenljivo">
-<!ENTITY styleVar.accesskey "r">
+<!ENTITY styleVar.accesskey "e">
 
 <!ENTITY formatFontColor.label "Barva besedila …">
-<!ENTITY formatFontColor.accesskey "i">
+<!ENTITY formatFontColor.accesskey "B">
 <!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice …">
 <!ENTITY tableOrCellColor.accesskey "B">
 
