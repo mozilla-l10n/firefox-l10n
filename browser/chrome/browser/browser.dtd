@@ -545,7 +545,7 @@
 <!ENTITY eyedropper.accesskey "S">
 <!ENTITY panicButton.view.undoWarning "Esta aición nun pue desfacese.">
 <!ENTITY panicButton.view.openNewWindow "va abrise una ventana nueva llimpia">
-<!ENTITY panicButton.view.mainTimeframeDesc "Escaecer los/es último/es">
+<!ENTITY panicButton.view.mainTimeframeDesc "Escaecer últimos/es">
 <!ENTITY panicButton.view.mainActionDesc "Si sigues,">
 <!ENTITY panicButton.view.forgetButton "¡Escaecer!">
 <!ENTITY panicButton.view.deleteTabsAndWindows "van zarrase toles <html:strong>llingüetes</html:strong> y <html:strong>ventanes</html:strong>">
