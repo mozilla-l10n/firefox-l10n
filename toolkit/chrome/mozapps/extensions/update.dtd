@@ -41,7 +41,7 @@
 
 <!ENTITY  versioninfo.wizard.title        "正在检查附加组件的兼容性">
 <!ENTITY  versioninfo.top.label           "正在检查您的附加组件与 &brandShortName; 此版本的兼容性。">
-<!ENTITY  versioninfo.waiting             "这可能会花一些时间…">
+<!ENTITY  versioninfo.waiting             "这可能需要几分钟…">
 
 <!ENTITY  installerrors.wizard.title      "安装更新时出现问题">
 <!ENTITY  installerrors.intro.label       "&brandShortName; 在更新您的某些附加组件时遇到问题。">
