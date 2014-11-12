@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "இன்னும் பல பகிரும் சேவைகளை தேடு...">
 <!ENTITY sharePageCmd.label "இந்தப் பக்கத்தைப் பகிரவும்">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "இ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "இந்த இணைப்பைப் பகிரவும்">
+<!ENTITY shareLink.accesskey "h">
 
 
-
-
-
-
-
+<!ENTITY shareSelect.label "தேர்வைப் பகிர்">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "இந்த நிகழ்படத்தை பகிரவும்">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "கூடுதல் இணைப்புகள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "பயன்பாடுகள்">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "வலைத்தள உருவாக்குனர்">
 <!ENTITY webDeveloperMenu.accesskey   "வ">
@@ -482,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ப">
 <!ENTITY emailVideoCmd.label          "மின்னஞ்சல் வீடியோ...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "சாதனத்திற்கு காணொளியை அனுப்பு">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ஒலி மின்னஞ்சல்...">
 <!ENTITY emailAudioCmd.accesskey      "ம">
 <!ENTITY playPluginCmd.label          "இந்த செருகுநிரலைச் செயல்படுத்தவும்">
@@ -701,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY social.directory.viewmore.text "மேலும் பார்">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; ஐ தனிபயனாக்கு">
 <!ENTITY customizeMode.menuAndToolbars.header2 "கூடுதலான கருவிகளும் வசதிகளும்">
@@ -713,11 +715,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes "கருப்பொருள்கள்">
 <!ENTITY customizeMode.lwthemes.myThemes "என் கருப்பொருள்கள்">
 <!ENTITY customizeMode.lwthemes.recommended "பரிந்துரைக்கப்பட்டது">
-
+<!ENTITY customizeMode.lwthemes.menuManage "நிர்வகி">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "&amp;brandShortName கருப்பொருளை பயன்படுத்து;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
@@ -737,24 +739,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY badContentBlocked.moreinfo "இந்த உள்ளடக்கம் தடுக்கபப்ட்டாலும், பெரும்பாலான வலைத்தளங்கள் சரியாக செயல்படும்.">
 
-
+<!ENTITY mixedContentBlocked2.message "பாதுகாப்பற்ற உள்ளடக்கம்">
+<!ENTITY mixedContentBlocked2.moreinfo "இந்த வலைதளத்தில் சில குறிமுறையாக்கப்படாத உறுப்புகள் தடுக்கப்பட்டுள்ளன.">
 <!ENTITY mixedContentBlocked2.learnMore "மேலும் அறிய">
 <!ENTITY mixedContentBlocked2.options "தேர்வுகள்">
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.unblock.label "இப்பொழுது பாதுகாப்பை முடக்கு">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "பாதுகாப்பைச் செயல்படுத்து">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
+<!ENTITY mixedContentBlocked2.disabled.message "பாதுகாப்பு முடங்கியுள்ளது">
 
 <!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
-
+<!ENTITY trackingContentBlocked.moreinfo "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் பகுதிகள் இந்த பக்கத்தில் தடுக்கப்பட்டுள்ளன.">
 <!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
 <!ENTITY trackingContentBlocked.options "தேர்வுகள்">
-
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.disabled.message "கண்காணிப்பு பாதுகாப்பு முடங்கியுள்ளது">
 
 <!ENTITY pointerLock.notification.message "எப்போது வேண்டுமானாலும் மீண்டும் இதைக் காண்பிக்க ESC ஐ அழுத்தவும்.">
 
@@ -786,9 +789,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "முன்னர் நடந்ததை மற:">
 <!ENTITY panicButton.view.5min                    "ஐந்து நிமிடங்கள்">
 <!ENTITY panicButton.view.2hr                     "இரண்டு மணிநேரம்">
-
+<!ENTITY panicButton.view.day                     "24 மணி நேரம்">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
@@ -802,5 +807,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
 

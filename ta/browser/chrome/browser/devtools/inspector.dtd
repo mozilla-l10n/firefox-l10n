@@ -23,3 +23,4 @@
 
 <!ENTITY inspectorCopyImageDataUri.label       "படத்தரவின் இணைப்பை நகலெடு">
 
+<!ENTITY inspectorShowDOMProperties.label       "DOM பண்புகளைக் காட்டு">
