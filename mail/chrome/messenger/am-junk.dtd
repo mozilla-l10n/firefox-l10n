@@ -20,12 +20,12 @@
 <!ENTITY whitelistHeader.label "Ne označi kot neželeno pošto, če je pošiljatelj v: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "Če omogočeno, bo &brandShortName; sporočila, ki jih je zunanji klasifikator označil, razumel kot smeti.">
+<!ENTITY ispHeadersWarning.label "Če je omogočeno, bo &brandShortName; samodejno obravnaval sporočila označena s tem zunanjim razvrščevalcem kot neželena.">
 <!ENTITY ispHeaders.label "Zaupaj glavam neželene pošte, kot jih je nastavil: ">
 <!ENTITY ispHeaders.accesskey "Z">
 
 <!ENTITY junkClassification.label "Izbira">
 <!ENTITY junkActions.label "Cilj in ohranitev">
 
-<!ENTITY globalJunkPrefs.label "Globalne nastavitve neželene pošte …">
-<!ENTITY globalJunkPrefs.accesskey "G">
+<!ENTITY globalJunkPrefs.label "Splošne nastavitve neželene pošte …">
+<!ENTITY globalJunkPrefs.accesskey "S">

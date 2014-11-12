@@ -77,7 +77,7 @@
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Prikaži samo sporočila od ljudi v mojem adresarju">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Prikaži samo sporočila od ljudi v mojem imeniku">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.

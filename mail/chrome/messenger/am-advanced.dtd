@@ -24,4 +24,4 @@
 <!ENTITY serverPort.label "Vrata: ">
 <!ENTITY userName.label   "Uporabniško ime: ">
 <!ENTITY connectionSecurity.label "Varnost povezave: ">
-<!ENTITY authMethod.label   "Metoda overovitve: ">
+<!ENTITY authMethod.label   "Metoda overitve: ">

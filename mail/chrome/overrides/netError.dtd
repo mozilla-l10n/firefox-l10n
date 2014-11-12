@@ -29,8 +29,8 @@ da ima &brandShortName; pravico uporabljati mrežo.</li>
 
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Prepričajte se, da v imenu datoteke velike in male črka prav nastopajo in da ni drugih tipkarskih napak.</li> 
-<li>Poglejte, da se morda datoteke ni prestavilo, preimenovalo ali zbrisalo.</li> 
+<li>Preverite ali so bile velike in male črke v imenu datoteke pravilno natipkane in da ni drugih napak.</li> 
+<li>Preverite ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li> 
 </ul>">
 
 <!ENTITY generic.title "Opla.">
