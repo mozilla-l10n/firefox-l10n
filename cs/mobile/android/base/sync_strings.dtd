@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (zavrženo)'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (zastaralé)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
