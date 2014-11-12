@@ -20,7 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "代码片段速记器">
+<!ENTITY window.title                 "代码草稿纸">
 
 <!ENTITY fileMenu.label               "文件">
 <!ENTITY fileMenu.accesskey           "F">
@@ -123,7 +123,7 @@
 <!ENTITY helpMenuWin.label            "帮助">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "MDN 上的速记器帮助">
+<!ENTITY documentationLink.label      "MDN 上的代码草稿纸帮助">
 <!ENTITY documentationLink.accesskey  "D">
 
 
