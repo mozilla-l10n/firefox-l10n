@@ -144,13 +144,13 @@
 <!ENTITY formatRemoveStyles.key "D">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Odstrani sidra z imenom">
-<!ENTITY formatRemoveNamedAnchors.accesskey "d">
+<!ENTITY formatRemoveNamedAnchors.accesskey "O">
 <!ENTITY formatRemoveNamedAnchors2.key "A">
 
 <!ENTITY paragraphMenu.label "Odstavek">
-<!ENTITY paragraphMenu.accesskey "t">
+<!ENTITY paragraphMenu.accesskey "d">
 <!ENTITY paragraphParagraphCmd.label "Odstavek">  
-<!ENTITY paragraphParagraphCmd.accesskey "t">
+<!ENTITY paragraphParagraphCmd.accesskey "O">
 <!ENTITY heading1Cmd.label "Glava 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Glava 2">
@@ -170,43 +170,43 @@
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Seznam">
-<!ENTITY formatlistMenu.accesskey "S">
+<!ENTITY formatlistMenu.accesskey "e">
 <!ENTITY noneCmd.label "Brez">
 <!ENTITY noneCmd.accesskey "B">
-<!ENTITY listBulletCmd.label "Z vidnimi gumbi">
-<!ENTITY listBulletCmd.accesskey "Z">
+<!ENTITY listBulletCmd.label "S seznamskimi točkami">
+<!ENTITY listBulletCmd.accesskey "S">
 <!ENTITY listNumberedCmd.label "Oštevilčeno">
 <!ENTITY listNumberedCmd.accesskey "O">
 <!ENTITY listTermCmd.label "Izraz">
-<!ENTITY listTermCmd.accesskey "I">
+<!ENTITY listTermCmd.accesskey "z">
 <!ENTITY listDefinitionCmd.label "Določilo">
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Nastavitve seznama ...">
-<!ENTITY listPropsCmd.accesskey "s">
+<!ENTITY listPropsCmd.accesskey "N">
 
-<!ENTITY ParagraphSelect.tooltip "izberite obliko odstavka">
+<!ENTITY ParagraphSelect.tooltip "Izberite obliko odstavka">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Telo besedila">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Napredne nastavitve">
-<!ENTITY advancedPropertiesCmd.accesskey "p">
+<!ENTITY advancedPropertiesCmd.label "Napredne lastnosti">
+<!ENTITY advancedPropertiesCmd.accesskey "N">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Poravnaj">
-<!ENTITY alignMenu.accesskey "P">
+<!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Levo">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Poravnaj levo">
-<!ENTITY alignCenter.label "Center">
-<!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Poravnaj na sredo">
+<!ENTITY alignCenter.label "Sredina">
+<!ENTITY alignCenter.accesskey "S">
+<!ENTITY alignCenter.tooltip "Poravnaj na sredino">
 <!ENTITY alignRight.label "Desno">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Poravnaj desno">
-<!ENTITY alignJustify.label "Justiraj">
-<!ENTITY alignJustify.accesskey "J">
-<!ENTITY alignJustify.tooltip "Poravnaj justirano">
+<!ENTITY alignJustify.label "Obojestransko">
+<!ENTITY alignJustify.accesskey "O">
+<!ENTITY alignJustify.tooltip "Poravnaj obojestransko">
 <!-- Layer toolbar items -->
 
 <!ENTITY layer.tooltip "Plast">
@@ -214,14 +214,14 @@
 <!ENTITY layerBringToFront.tooltip "Prestavi v ospredje">
 
 <!ENTITY increaseIndent.label "Povečaj zamik">
-<!ENTITY increaseIndent.accesskey "P">
+<!ENTITY increaseIndent.accesskey "v">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Zmanjšaj zamik">
-<!ENTITY decreaseIndent.accesskey "Z">
+<!ENTITY decreaseIndent.label "Pomanjšaj zamik">
+<!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Barve strani in ozadja …">
-<!ENTITY colorsAndBackground.accesskey "B">
+<!ENTITY colorsAndBackground.accesskey "v">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Tabela">
@@ -229,62 +229,62 @@
 <!-- Select Submenu -->
 
 <!ENTITY tableSelectMenu.label "Izberi">
-<!ENTITY tableSelectMenu.accesskey "I">
+<!ENTITY tableSelectMenu.accesskey "z">
 
 <!ENTITY tableSelectMenu2.label "Izberi tabelo">
-<!ENTITY tableSelectMenu2.accesskey "I">
+<!ENTITY tableSelectMenu2.accesskey "b">
 <!ENTITY tableInsertMenu2.label "Vstavi tabelo">
 <!ENTITY tableInsertMenu2.accesskey "V">
 <!ENTITY tableDeleteMenu2.label "Izbriši tabelo">
-<!ENTITY tableDeleteMenu2.accesskey "z">
+<!ENTITY tableDeleteMenu2.accesskey "r">
 <!-- Insert SubMenu -->
 
 <!ENTITY tableInsertMenu.label "Vstavi">
 <!ENTITY tableInsertMenu.accesskey "V">
-<!ENTITY tableTable.label "Tabela">
+<!ENTITY tableTable.label "Tabelo">
 <!ENTITY tableTable.accesskey "T">
-<!ENTITY tableRow.label "Vrstica">
-<!ENTITY tableRows.label "Vrstica(e)">
-<!ENTITY tableRow.accesskey "r">
-<!ENTITY tableRowAbove.label "Vrsta nad">
+<!ENTITY tableRow.label "Vrstico">
+<!ENTITY tableRows.label "Vrstice">
+<!ENTITY tableRow.accesskey "V">
+<!ENTITY tableRowAbove.label "Vrstico nad">
 <!ENTITY tableRowAbove.accesskey "n">
-<!ENTITY tableRowBelow.label "Vrsta pod">
+<!ENTITY tableRowBelow.label "Vrstico pod">
 <!ENTITY tableRowBelow.accesskey "p">
 <!ENTITY tableColumn.label "Stolpec">
-<!ENTITY tableColumns.label "Stolpec(i)">
-<!ENTITY tableColumn.accesskey "o">
+<!ENTITY tableColumns.label "Stolpce">
+<!ENTITY tableColumn.accesskey "S">
 <!ENTITY tableColumnBefore.label "Stolpec pred">
 <!ENTITY tableColumnBefore.accesskey "o">
-<!ENTITY tableColumnAfter.label "Stolpec po">
-<!ENTITY tableColumnAfter.accesskey "l">
-<!ENTITY tableCell.label "Celica">
+<!ENTITY tableColumnAfter.label "Stolpec za">
+<!ENTITY tableColumnAfter.accesskey "e">
+<!ENTITY tableCell.label "Celico">
 <!ENTITY tableCells.label "Celice">
 <!ENTITY tableCell.accesskey "C">
-<!ENTITY tableCellContents.label "Vsebina celice">
-<!ENTITY tableCellContents.accesskey "n">
+<!ENTITY tableCellContents.label "Vsebino celice">
+<!ENTITY tableCellContents.accesskey "V">
 <!ENTITY tableAllCells.label "Vse celice">
 <!ENTITY tableAllCells.accesskey "V">
-<!ENTITY tableCellBefore.label "Celica pred">
+<!ENTITY tableCellBefore.label "Celico pred">
 <!ENTITY tableCellBefore.accesskey "C">
-<!ENTITY tableCellAfter.label "Celica po">
-<!ENTITY tableCellAfter.accesskey "p">
+<!ENTITY tableCellAfter.label "Celico za">
+<!ENTITY tableCellAfter.accesskey "o">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Izbriši">
-<!ENTITY tableDeleteMenu.accesskey "I">
+<!ENTITY tableDeleteMenu.accesskey "b">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
-<!ENTITY tableSplitCell.label "Deli celico">
-<!ENTITY tableSplitCell.accesskey "D">
+<!ENTITY tableJoinCells.label "d">
+<!ENTITY tableJoinCells.accesskey "d">
+<!ENTITY tableSplitCell.label "Razdeli celico">
+<!ENTITY tableSplitCell.accesskey "R">
 <!ENTITY convertToTable.label "Ustvari tabelo iz izbire">
 <!ENTITY convertToTable.accesskey "U">
 <!ENTITY tableProperties.label "Lastnosti tabele …">
-<!ENTITY tableProperties.accesskey "n">
+<!ENTITY tableProperties.accesskey "L">
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Vrstica z menijem">
@@ -311,7 +311,7 @@
 <!ENTITY TextColorButton.tooltip "Izberite barvo za besedilo">
 <!ENTITY BackgroundColorButton.tooltip "Izberite barvo za ozadje">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Izberite barvo za besedilo">
+<!ENTITY HighlightColorButton.tooltip "Izberite označevalno barvo za besedilo">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
@@ -319,7 +319,7 @@
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
 <!ENTITY italicToolbarCmd.tooltip "Ležeče">
 <!ENTITY underlineToolbarCmd.tooltip "Podčrtano">
-<!ENTITY bulletListToolbarCmd.tooltip "Uporabi ali odstrani seznam z vidnimi gumbi">
+<!ENTITY bulletListToolbarCmd.tooltip "Uporabi ali odstrani seznam s seznamskimi točkami">
 <!ENTITY numberListToolbarCmd.tooltip "Uporabi ali odstrani oštevilčen seznam">
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
@@ -332,7 +332,7 @@
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label         "Izberi">
-<!ENTITY structSelect.accesskey     "I">
+<!ENTITY structSelect.accesskey     "z">
 <!ENTITY structRemoveTag.label      "Odstrani oznako">
 <!ENTITY structRemoveTag.accesskey  "O">
 <!ENTITY structChangeTag.label      "Spremeni oznako">

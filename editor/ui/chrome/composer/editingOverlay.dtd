@@ -14,7 +14,7 @@
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Shrani kot …">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY publishCmd.label "Objavi">
@@ -31,7 +31,7 @@
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Novo">
-<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Composerju">
+<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Sestavljalniku">
 <!ENTITY openToolbarCmd.label "Odpri">
 <!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
