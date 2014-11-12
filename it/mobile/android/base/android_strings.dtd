@@ -330,7 +330,6 @@
 <!ENTITY suggestion_for_engine "Cerca &formatS2; in &formatS1;">
 <!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
-<!ENTITY devtools_remote_debugging_forward "Ricordarsi di attivare l’inoltro alla porta (port forwarding).">
 <!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_start_select2 "Tocca per scaricare">
 <!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
