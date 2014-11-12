@@ -39,9 +39,9 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 <!ENTITY viewMenu_label "Golwg">
-<!ENTITY viewMenu_accesskey "D">
+<!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Toglo'r Golygydd">
-<!ENTITY viewMenu_toggleEditor_accesskey "G">
+<!ENTITY viewMenu_toggleEditor_accesskey "T">
 <!ENTITY viewMenu_showAddons_label "Rheoli Efelychiadau">
 <!ENTITY viewMenu_showAddons_accesskey "R">
 
