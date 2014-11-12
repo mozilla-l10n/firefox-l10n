@@ -31,7 +31,7 @@
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Novo">
-<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Sestavljalniku">
+<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran Sestavljalnika">
 <!ENTITY openToolbarCmd.label "Odpri">
 <!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">

@@ -36,7 +36,7 @@
 <!ENTITY insertImageCmd.accesskey "S">
 <!ENTITY insertHLineCmd.label "Vodoravno črto">
 <!ENTITY insertHLineCmd.accesskey "V">
-<!ENTITY insertTableCmd.label "Tabela …">
+<!ENTITY insertTableCmd.label "Tabelo …">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
@@ -292,7 +292,7 @@
 <!ENTITY cutToolbarCmd.tooltip "Izreži">
 <!ENTITY copyToolbarCmd.tooltip "Kopiraj">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepi">
-<!ENTITY printToolbarCmd.label "Tiskanje">
+<!ENTITY printToolbarCmd.label "Natisni">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">
 <!ENTITY findToolbarCmd.label "Poišči">
 <!ENTITY findToolbarCmd.tooltip "Poišči besedilo v strani">
@@ -300,7 +300,7 @@
 <!ENTITY spellToolbarCmd.tooltip "Preveri črkovanje besedila v izbiri ali na celotni strani">
 <!ENTITY imageToolbarCmd.label "Slika">
 <!ENTITY imageToolbarCmd.tooltip "Vstavi novo sliko ali uredi lastnosti izbrane slike">
-<!ENTITY hruleToolbarCmd.label "Vod.črta">
+<!ENTITY hruleToolbarCmd.label "Vod. črta">
 <!ENTITY hruleToolbarCmd.tooltip "Vstavi vodoravno črto ali uredi lastnosti izbrane črte">
 <!ENTITY tableToolbarCmd.label "Tabela">
 <!ENTITY tableToolbarCmd.tooltip "Vstavi novo tabelo ali uredi lastnosti izbrane tabele">
@@ -308,10 +308,10 @@
 <!ENTITY linkToolbarCmd.tooltip "Vstavi novo povezavo ali uredi lastnosti izbrane povezave">
 <!ENTITY anchorToolbarCmd.label "Sidro">
 <!ENTITY anchorToolbarCmd.tooltip "Vstavi novo sidro ali uredi lastnosti izbranega sidra">
-<!ENTITY TextColorButton.tooltip "Izberite barvo za besedilo">
-<!ENTITY BackgroundColorButton.tooltip "Izberite barvo za ozadje">
+<!ENTITY TextColorButton.tooltip "Izberi barvo besedila">
+<!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Izberite označevalno barvo za besedilo">
+<!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">

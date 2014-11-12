@@ -9,15 +9,15 @@
 
 <!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "Meni nedavne strani">
-<!ENTITY  documentsInMenu.label         "Strani v seznamu največ:">
-<!ENTITY  documentsInMenu.accesskey     "S">
-<!ENTITY  savingFiles.title             "Ko se strani shranjuje ali objavlja">
+<!ENTITY  documentsInMenu.label         "Največje število strani na seznamu:">
+<!ENTITY  documentsInMenu.accesskey     "s">
+<!ENTITY  savingFiles.title             "Ob shranjevanju ali objavljanju strani">
 <!ENTITY  preserveExisting.label        "Ohrani prvotno oblikovanje izvora">
 <!ENTITY  preserveExisting.accesskey    "O">
 <!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
-<!ENTITY  saveAssociatedFiles.label     "Shrani slike in druge pridružene datoteke, kadar se shranjuje strani">
+<!ENTITY  saveAssociatedFiles.label     "Ob shranjevanju strani shrani slike in druge povezane datoteke ">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno pokaži pogovorno okno Objavi">
+<!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno prikaži pogovorno okno Objavi">
 <!ENTITY  showPublishDialog.accesskey   "M">
 <!ENTITY  composerEditing.label         "Urejanje">
 <!ENTITY  maintainStructure.label       "Med vstavljanjem ali brisanjem celic obdrži obliko tabele">

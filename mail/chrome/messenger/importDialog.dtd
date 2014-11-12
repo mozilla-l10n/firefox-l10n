@@ -17,8 +17,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importMail.accesskey     "P">
 <!ENTITY importFeeds.label        "Naročnine za novice">
 <!ENTITY importFeeds.accesskey    "r">
-<!ENTITY importAddressbook.label  "Adresarje">
-<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importAddressbook.label  "Imeniki">
+<!ENTITY importAddressbook.accesskey "m">
 <!ENTITY importSettings.label     "Nastavitve">
 <!ENTITY importSettings.accesskey "N">
 <!ENTITY importFilters.label      "Filtre">
@@ -28,9 +28,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; Čarovnik za uvoz">
-<!ENTITY importShortDesc.label    "Uvozite pošto, adresarje, nastavitve in filtre iz drugih programov">
+<!ENTITY importShortDesc.label    "Uvozite pošto, imenike, nastavitve in filtre iz drugih programov">
 
-<!ENTITY importDescription1.label "S tem čarovnikom boste uvozili poštna sporočila, stike v adresarju, nastavitve in/ali filtre iz drugih programov in pogostih formatov adresarjev v &brandShortName;.">
+<!ENTITY importDescription1.label "S tem čarovnikom boste uvozili poštna sporočila, vnose v imeniku, naročnine na vire, nastavitve in/ali filtre iz drugih poštnih programov in pogostih oblik imenikov v &brandShortName;.">
 <!ENTITY importDescription2.label "Ko jih boste enkrat uvozili, jih boste lahko uporabljali kar v &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Izberite vrsto datoteke, ki jo želite uvoziti:">

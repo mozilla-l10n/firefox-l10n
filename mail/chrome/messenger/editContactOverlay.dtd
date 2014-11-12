@@ -11,8 +11,8 @@
 <!ENTITY editContactEmail.label "E-pošta:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactAddressBook.label "Adresar:">
-<!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.label "Imenik:">
+<!ENTITY editContactAddressBook.accesskey "m">
 
 <!ENTITY editContactPanelCancel.label "Prekliči">
 <!ENTITY editContactPanelCancel.accesskey "P">
@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "Končano">
 <!ENTITY editContactPanelDone.accesskey "D">
 
-<!ENTITY contactMoveDisabledWarning.description "Ker je stik v seznamu stikov, adresarja ne morete zamenjati.">
+<!ENTITY contactMoveDisabledWarning.description "Imenika ne morete zamenjati, ker je stik na dopisnem seznamu.">
