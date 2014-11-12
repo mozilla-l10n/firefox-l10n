@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label            "Adresar:">
-<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY addressbookPicker.label            "Imenik:">
+<!ENTITY addressbookPicker.accesskey        "m">
 <!ENTITY searchInput.label                  "Poišči:">
 <!ENTITY searchInput.accesskey              "i">
 <!ENTITY SearchNameOrEmail.label            "Ime ali E-pošta">
