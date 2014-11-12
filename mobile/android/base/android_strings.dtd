@@ -310,6 +310,9 @@
 <!ENTITY loaded_mixed_content_message "Questa pagina presenta contenuti non sicuri.">
 <!ENTITY blocked_mixed_content_message_top "Alcuni contenuti non sicuri sono stati bloccati da &brandShortName;.">
 <!ENTITY blocked_mixed_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY loaded_tracking_content_message "Questa pagina traccia la tua attività online.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha impedito a questa pagina di tracciare la tua attività online.">
+<!ENTITY blocked_tracking_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se il tracciamento online viene bloccato.">
 <!ENTITY learn_more "Ulteriori informazioni">
 <!ENTITY enable_protection "Attiva protezione">
 <!ENTITY disable_protection "Disattiva protezione">
