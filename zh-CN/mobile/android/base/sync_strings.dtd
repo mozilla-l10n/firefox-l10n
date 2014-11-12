@@ -214,7 +214,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox 账户 &formatS; 已移除。'>
 
-<!ENTITY fxaccount_remove_account_menu_item '删除帐户'>
+<!ENTITY fxaccount_remove_account_menu_item '移除账户'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
