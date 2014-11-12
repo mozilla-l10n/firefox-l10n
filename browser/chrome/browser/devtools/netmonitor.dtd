@@ -179,7 +179,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey  "K">
 <!ENTITY netmonitorUI.footer.clear  "Notīrīt">
 
 <!ENTITY netmonitorUI.context.newTab      "Atvērt jaunā cilnē">
