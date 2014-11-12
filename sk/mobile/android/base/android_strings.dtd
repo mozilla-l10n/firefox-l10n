@@ -210,6 +210,9 @@ size. -->
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože sme neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosť pre web.">
 
+<!ENTITY pref_media_autoplay_enabled "Povoliť automatické prehrávanie">
+<!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
+
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_sync_summary "Synchronizácia kariet, záložiek, hesiel, histórie">
