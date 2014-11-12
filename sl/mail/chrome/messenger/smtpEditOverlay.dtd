@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Nastavitve">
-<!ENTITY security.caption "Varnost in overovljanje">
+<!ENTITY security.caption "Varnost in overitev">
 <!ENTITY serverName.label "Ime strežnika:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Opis:">
@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Strežnik SMTP">
 <!ENTITY serverPortDefault.label "Privzeto:">
-<!ENTITY authMethod.label "Metoda overovitve:">
+<!ENTITY authMethod.label "Metoda overitve:">
 <!ENTITY authMethod.accesskey "M">

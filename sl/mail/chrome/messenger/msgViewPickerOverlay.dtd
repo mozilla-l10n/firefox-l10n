@@ -10,7 +10,7 @@
 <!ENTITY viewAll.accesskey "V">
 <!ENTITY viewUnread.label "Neprebrano">
 <!ENTITY viewUnread.accesskey "p">
-<!ENTITY viewNotDeleted.label "Ne zbrisano">
+<!ENTITY viewNotDeleted.label "Ne izbrisano">
 <!ENTITY viewNotDeleted.accesskey "N">
 <!ENTITY viewTags.label "Oznake">
 <!ENTITY viewTags.accesskey "O">

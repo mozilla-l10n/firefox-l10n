@@ -29,7 +29,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, če je na voljo">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Metoda overovitve:">
+<!ENTITY authMethod.label "Metoda overitve:">
 <!ENTITY authMethod.accesskey "M">
 <!ENTITY leaveOnServer.label "Pusti sporočila na strežniku">
 <!ENTITY leaveOnServer.accesskey "s">
@@ -46,7 +46,7 @@
 <!ENTITY deleteMessagePrefix.label "Ko zbrišem sporočilo:">
 <!ENTITY modelMoveToTrash.label "Ga prestavi v mapo:">
 <!ENTITY modelMoveToTrash.accesskey "G">
-<!ENTITY modelMarkDeleted.label "Samo označi kot zbrisano">
+<!ENTITY modelMarkDeleted.label "Samo označi kot izbrisano">
 <!ENTITY modelMarkDeleted.accesskey "o">
 <!ENTITY modelDeleteImmediately.label "Odstrani ga takoj">
 <!ENTITY modelDeleteImmediately.accesskey "d">

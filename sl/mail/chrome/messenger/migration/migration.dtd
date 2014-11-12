@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Čarovnik za uvoz">
 
-<!ENTITY importFromWin.label            "Uvozi izbire, nastavitve računa, adresar, filtre in druge podatke iz:">
-<!ENTITY importFromNonWin.label         "Uvozi izbire, nastavitve računa, adresar, filtre in druge podatke iz:">
+<!ENTITY importFromWin.label            "Uvozi Možnosti, Nastavitve računa, Imenik, Filtre in druge podatke iz:">
+<!ENTITY importFromNonWin.label         "Uvozi Možnosti, Nastavitve računa, Imenik, Filtre in druge podatke iz:">
 
 <!ENTITY importFromNothing.label        "Ne uvozi ničesar">
 <!ENTITY importFromNothing.accesskey    "D">

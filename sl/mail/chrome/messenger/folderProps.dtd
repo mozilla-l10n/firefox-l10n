@@ -12,8 +12,8 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Včasih se kazalo za mapo (. MSF) poškoduje in videti je, kot da sporočila manjkajo, ali pa se javlja, da so zbrisana; če mapo popravite, teh problemov verjetno ne bo več.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Vključi sporočila v tej mapi v globalne rezultate iskanja">
+<!ENTITY folderRebuildSummaryFile.explanation    "Včasih se kazalo za mapo (. MSF) poškoduje in je videti, kot da sporočila manjkajo ali pa se izbrisana sporočila zopet pojavljajo; če mapo popravite, teh problemov verjetno ne bo več.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Vključi sporočila v tej mapi v rezultate Splošnega iskanja">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
      
 <!ENTITY retention.label "Pravila zadrževanja">
