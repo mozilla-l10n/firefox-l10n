@@ -21,10 +21,10 @@
 
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
-<!ENTITY timelineUI.emptyNotice1    "Klik på">
-<!ENTITY timelineUI.emptyNotice2    "knappen for at optage tidslinje-hændelser.">
+<!ENTITY timelineUI.emptyNotice1    "Klik på knappen">
+<!ENTITY timelineUI.emptyNotice2    "for at optage tidslinje-hændelser.">
 
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
-<!ENTITY timelineUI.stopNotice1    "Klik på">
-<!ENTITY timelineUI.stopNotice2    "knappen igen for at afbryde optagelsen.">
+<!ENTITY timelineUI.stopNotice1    "Klik på knappen">
+<!ENTITY timelineUI.stopNotice2    "igen for at afbryde optagelsen.">

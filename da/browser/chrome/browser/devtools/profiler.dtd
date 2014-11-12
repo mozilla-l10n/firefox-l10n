@@ -39,10 +39,10 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY profilerUI.table.totalDuration   "Total tid (ms)">
+<!ENTITY profilerUI.table.totalDuration   "Samlet tid (ms)">
 <!ENTITY profilerUI.table.selfDuration    "Self-tid (ms)">
-<!ENTITY profilerUI.table.totalPercentage "Total pris">
-<!ENTITY profilerUI.table.selfPercentage  "Self-pris">
+<!ENTITY profilerUI.table.totalPercentage "Total omkostning">
+<!ENTITY profilerUI.table.selfPercentage  "Self-omkostning">
 <!ENTITY profilerUI.table.samples         "Prøver">
 <!ENTITY profilerUI.table.function        "Funktion">
 
