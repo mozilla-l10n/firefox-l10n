@@ -76,7 +76,7 @@
 <!ENTITY saveLinkCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkCmd.accesskey "U">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
-<!ENTITY saveImageCmd.label "Uložit obrázek jako…">
+<!ENTITY saveImageCmd.label "Uložit obrázek">
 <!ENTITY saveImageCmd.accesskey "l">
 <!ENTITY saveVideoCmd.label "Uložit video jako…">
 <!ENTITY saveVideoCmd.accesskey "l">
