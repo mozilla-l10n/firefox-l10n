@@ -33,11 +33,7 @@
 <!ENTITY showCookies.label "Zobraziť cookies…">
 <!ENTITY showCookies.accesskey "Z">
 
-<!ENTITY dntTrackingNopref.label2 "Neinformovať stránky o mojich preferenciách v oblasti sledovania aktivity">
-<!ENTITY dntTrackingNopref.accesskey "e">
 <!ENTITY dntTrackingNotOkay.label2 "Požiadať webové stránky, aby nesledovali moju aktivitu">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Informovať webové stránky, že môžu sledovať moju aktivitu">
-<!ENTITY dntTrackingOkay.accesskey "w">
 <!ENTITY doNotTrackInfo.label "Ďalšie informácie o funkcii Do Not Track">
 
