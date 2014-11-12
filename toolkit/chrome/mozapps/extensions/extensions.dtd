@@ -126,7 +126,7 @@
 <!ENTITY detail.version.label                 "Versão">
 <!ENTITY detail.lastupdated.label             "Última atualização">
 <!ENTITY detail.creator.label                 "Developer">
-
+<!ENTITY detail.homepage.label                "Página inicial">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
 <!ENTITY detail.contributions.description     "O autor solicita o seu apoio no desenvolvimento através de uma pequena contribuição.">
