@@ -149,13 +149,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "d">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Deze koppeling delen">
-<!ENTITY shareLink.accesskey "p">
+<!ENTITY shareLink.accesskey "d">
 <!ENTITY shareImage.label "Deze afbeelding delen">
-<!ENTITY shareImage.accesskey "l">
+<!ENTITY shareImage.accesskey "z">
 <!ENTITY shareSelect.label "Selectie delen">
-<!ENTITY shareSelect.accesskey "l">
+<!ENTITY shareSelect.accesskey "z">
 <!ENTITY shareVideo.label "Deze video delen">
-<!ENTITY shareVideo.accesskey "l">
+<!ENTITY shareVideo.accesskey "z">
 <!ENTITY feedsMenu.label "Abonneren">
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
@@ -207,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Extra">
 <!ENTITY toolsMenu.accesskey          "x">
 
-<!ENTITY keywordfield.label           "Sleutelwoord voor deze zoektocht toevoegen…">
+<!ENTITY keywordfield.label           "Sleutelwoord voor deze zoekopdracht toevoegen…">
 <!ENTITY keywordfield.accesskey       "S">
 
 <!ENTITY downloads.label              "Downloads">
@@ -700,10 +700,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Niet nu">
 
 <!ENTITY social.directory.label "Activeringslijst">
-<!ENTITY social.directory.text "U kunt een deelservice van de lijst activeren.">
-<!ENTITY social.directory.button "Er naar toe!">
+<!ENTITY social.directory.text "U kunt deelservices van de lijst activeren.">
+<!ENTITY social.directory.button "Ernaartoe!">
 <!ENTITY social.directory.introText "Klik op een service om deze aan &brandShortName; toe te voegen.">
-<!ENTITY social.directory.viewmore.text "Meer bekijken">
+<!ENTITY social.directory.viewmore.text "Meer weergeven">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; aanpassen">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Extra hulpmiddelen en functies">
