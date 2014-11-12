@@ -754,7 +754,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrana je vypnutá">
 
 <!ENTITY trackingContentBlocked.message "Sledovanie">
-<!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu online, boli zablokované.">
+<!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu na webe, boli zablokované.">
 <!ENTITY trackingContentBlocked.learnMore "Ďalšie informácie">
 <!ENTITY trackingContentBlocked.options "Možnosti">
 <!ENTITY trackingContentBlocked.unblock2.label "Vypnúť ochranu pre túto stránku">
