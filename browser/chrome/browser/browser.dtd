@@ -55,7 +55,7 @@ left instead of right. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "…ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
-<!ENTITY openFileCmd.label "…ਫਾਇਲ ਖੋਲ੍ਹੋ">
+<!ENTITY openFileCmd.label "…ਫਾਈਲ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "…ਸਫ਼ਾ ਸੈਟਿੰਗ">
@@ -300,7 +300,7 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "ਹੋਰ ਟੂਲ ਲਵੋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY fileMenu.label         "ਫਾਇਲ">
+<!ENTITY fileMenu.label         "ਫਾਈਲ">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -731,10 +731,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "ਹੁਣੇ ਨਹੀਂ">
 
 
-<!ENTITY social.directory.label "Activations Directory">
-<!ENTITY social.directory.text "You can activate Share services from the directory.">
+<!ENTITY social.directory.label "ਸਰਗਰਮ ਡਾਇਰੈਕਟਰੀ">
+<!ENTITY social.directory.text "ਤੁਸੀਂ ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਸਾਂਝੀਆਂ ਸੇਵਾਵਾਂ ਨੂੰ ਸਰਗਰਮ ਕਰ ਸਕਦੇ ਹੋ।">
 <!ENTITY social.directory.button "ਮੈਨੂੰ ਉੱਥੇ ਲੈ ਕੇ ਜਾਓ!">
-<!ENTITY social.directory.introText "Click on a service to add it to &brandShortName;.">
+<!ENTITY social.directory.introText "&brandShortName; ਵਿੱਚ ਜੋੜਨ ਲਈ ਸੇਵਾ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।">
 <!ENTITY social.directory.viewmore.text "ਹੋਰ ਵੇਖੋ">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; ਪਸੰਦ">

@@ -39,5 +39,5 @@
 <!ENTITY report.unavailable                                  "ਰਿਪੋਰਟ ਉਪਲੱਬਧ ਨਹੀਂ">
 <!ENTITY report.comment                                      "ਟਿੱਪਣੀ ਕਰੋ (ਟਿੱਪਣੀਆਂ ਪਬਲਿਕ ਹਨ)">
 <!ENTITY report.pageURL                                      "ਸਫ਼ਾ URL ਸਮੇਤ">
-<!ENTITY plugin.file                                         "ਫਾਇਲ">
+<!ENTITY plugin.file                                         "ਫਾਈਲ">
 <!ENTITY plugin.mimeTypes                                    "MIME ਕਿਸਮਾਂ">

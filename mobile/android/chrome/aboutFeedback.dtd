@@ -24,6 +24,8 @@
 <!ENTITY support.post3             " ਨੂੰ ਵੇਖੋ।">
 
 
+<!ENTITY happy.header              "ਸੁਣਨ ਕੇ ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਈ!">
+
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 <!ENTITY happy.message             "ਕੀ ਗੂਗਲ ਪਲੇਅ ਉੱਤੇ ਸਾਨੂੰ 5 ਤਾਰੇ ਲਗਾ ਕੇ ਪਿਆਰ ਸਾਂਝਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
