@@ -150,60 +150,60 @@
 
 <!ENTITY folderView.label "Mape">
 <!ENTITY folderView.accesskey "M">
-<!ENTITY unifiedFolders.label "Poenoteno">
+<!ENTITY unifiedFolders.label "Poenotene">
 <!ENTITY unifiedFolders.accesskey "P">
 <!ENTITY allFolders.label "Vse">
 <!ENTITY allFolders.accesskey "V">
-<!ENTITY unreadFolders.label "Neprebrano">
+<!ENTITY unreadFolders.label "Neprebrane">
 <!ENTITY unreadFolders.accesskey "N">
-<!ENTITY favoriteFolders.label "Priljubljeno">
+<!ENTITY favoriteFolders.label "Priljubljene">
 <!ENTITY favoriteFolders.accesskey "r">
-<!ENTITY recentFolders.label "Nedavno">
-<!ENTITY recentFolders.accesskey "N">
+<!ENTITY recentFolders.label "Nedavne">
+<!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zgoščen pogled">
 <!ENTITY compactVersion.accesskey "Z">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Razvrsti po">
 <!ENTITY sortMenu.accesskey "a">
-<!ENTITY sortByDateCmd.label "Datum">
+<!ENTITY sortByDateCmd.label "Datumu">
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Prejeto">
 <!ENTITY sortByReceivedCmd.accesskey "P">
-<!ENTITY sortByStarCmd.label "Zvezdica">
+<!ENTITY sortByStarCmd.label "Zvezdici">
 <!ENTITY sortByStarCmd.accesskey "Z">
-<!ENTITY sortByAttachmentsCmd.label "Priponke">
+<!ENTITY sortByAttachmentsCmd.label "Priponkah">
 <!ENTITY sortByAttachmentsCmd.accesskey "n">
-<!ENTITY sortByPriorityCmd.label "Prednost">
+<!ENTITY sortByPriorityCmd.label "Prednosti">
 <!ENTITY sortByPriorityCmd.accesskey "r">
-<!ENTITY sortBySizeCmd.label "Velikost">
+<!ENTITY sortBySizeCmd.label "Velikosti">
 <!ENTITY sortBySizeCmd.accesskey "k">
-<!ENTITY sortByStatusCmd.label "Stanje">
+<!ENTITY sortByStatusCmd.label "Stanju">
 <!ENTITY sortByStatusCmd.accesskey "S">
-<!ENTITY sortByTagsCmd.label "Oznake">
+<!ENTITY sortByTagsCmd.label "Oznakah">
 <!ENTITY sortByTagsCmd.accesskey "z">
-<!ENTITY sortByJunkStatusCmd.label "Stanje za neželeno">
+<!ENTITY sortByJunkStatusCmd.label "Stanju za neželeno">
 <!ENTITY sortByJunkStatusCmd.accesskey "a">
-<!ENTITY sortBySubjectCmd.label "Zadeva">
+<!ENTITY sortBySubjectCmd.label "Zadevi">
 <!ENTITY sortBySubjectCmd.accesskey "d">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "O">
-<!ENTITY sortByRecipientCmd.label "Prejemnik">
+<!ENTITY sortByRecipientCmd.label "Prejemniku">
 <!ENTITY sortByRecipientCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Prebrano">
 <!ENTITY sortByUnreadCmd.accesskey "b">
 <!ENTITY sortByOrderReceivedCmd.label "Vrstnem redu prejema">
-<!ENTITY sortByOrderReceivedCmd.accesskey "V">
+<!ENTITY sortByOrderReceivedCmd.accesskey "m">
 <!ENTITY sortAscending.label "Naraščajoče">
-<!ENTITY sortAscending.accesskey "N">
+<!ENTITY sortAscending.accesskey "š">
 <!ENTITY sortDescending.label "Padajoče">
-<!ENTITY sortDescending.accesskey "a">
+<!ENTITY sortDescending.accesskey "č">
 <!ENTITY sortThreaded.label "V niti">
 <!ENTITY sortThreaded.accesskey "V">
 <!ENTITY sortUnthreaded.label "Brez niti">
-<!ENTITY sortUnthreaded.accesskey "B">
+<!ENTITY sortUnthreaded.accesskey "t">
 <!ENTITY groupBySort.label "V skupinah po razvrstitvi">
-<!ENTITY groupBySort.accesskey "k">
+<!ENTITY groupBySort.accesskey "u">
 <!ENTITY msgsMenu.label "Sporočila">
 <!ENTITY msgsMenu.accesskey "S">
 <!ENTITY threads.label "Niti">
@@ -214,9 +214,9 @@
 <!ENTITY expandAllThreadsCmd.accesskey "R">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Strni vse niti">
-<!ENTITY collapseAllThreadsCmd.accesskey "n">
+<!ENTITY collapseAllThreadsCmd.accesskey "v">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Neprebrano">
+<!ENTITY unreadMsgsCmd.label "Neprebrane">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Niti z neprebranimi">
 <!ENTITY threadsWithUnreadCmd.accesskey "z">
@@ -240,16 +240,16 @@
 <!ENTITY bodyAsPlaintext.label "Golo besedilo">
 <!ENTITY bodyAsPlaintext.accesskey "G">
 <!ENTITY bodyAllParts.label "Vsi deli telesa">
-<!ENTITY bodyAllParts.accesskey "a">
+<!ENTITY bodyAllParts.accesskey "V">
 
 <!ENTITY bodyMenuFeed.label "Podaj vsebino sporočila kot">
-<!ENTITY bodyMenuFeed.accesskey "k">
+<!ENTITY bodyMenuFeed.accesskey "s">
 <!ENTITY viewFeedWebPage.label "Spletno stran">
-<!ENTITY viewFeedWebPage.accesskey "l">
+<!ENTITY viewFeedWebPage.accesskey "S">
 <!ENTITY viewFeedSummary.label "Povzetek">
-<!ENTITY viewFeedSummary.accesskey "z">
+<!ENTITY viewFeedSummary.accesskey "P">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Privzeta oblika">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "o">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "r">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Prikaži priponke v besedilu">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "P">
@@ -264,11 +264,11 @@
 <!ENTITY findMenu.label "Najdi">
 <!ENTITY findMenu.accesskey "N">
 <!ENTITY findCmd.label "Najdi v tem sporočilu …">
-<!ENTITY findCmd.accesskey "v">
-<!ENTITY findCmd.key "n">
-<!ENTITY findAgainCmd.label "Ponovno najdi">
-<!ENTITY findAgainCmd.accesskey "P">
-<!ENTITY findAgainCmd.key "p">
+<!ENTITY findCmd.accesskey "N">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "&amp;Najdi ponovno">
+<!ENTITY findAgainCmd.accesskey "p">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "r">
 <!ENTITY findPrevCmd.key2 "VK_F3">
@@ -290,7 +290,7 @@
 <!ENTITY nextUnreadMsgCmd.accesskey "N">
 <!ENTITY nextUnreadMsgCmd.key "E">
 <!ENTITY nextStarredMsgCmd.label "Sporočilo z zvezdico">
-<!ENTITY nextStarredMsgCmd.accesskey "o">
+<!ENTITY nextStarredMsgCmd.accesskey "z">
 <!ENTITY nextUnreadThread.label "Neprebrana nit">
 <!ENTITY nextUnreadThread.accesskey "e">
 <!ENTITY nextUnreadThread.key "R">
@@ -312,7 +312,7 @@
 <!ENTITY goChatCmd.accesskey "K">
 <!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
-<!ENTITY prevStarredMsgCmd.accesskey "o">
+<!ENTITY prevStarredMsgCmd.accesskey "z">
 <!ENTITY folderMenu.label "Mapa">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY goRecentlyClosedTabs.label "Nedavno zaprti zavihki">
