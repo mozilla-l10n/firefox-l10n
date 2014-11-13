@@ -205,6 +205,9 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
 
+<!ENTITY pref_media_autoplay_enabled "Permitir ejecución automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Controlar si los sitios web pueden reproducir automáticamente videos y otro contenido de medios">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "El rápido zorro naranja salta sobre tus expectativas con más velocidad, más flexibilidad y más seguridad. Como no tenemos fines de lucro, somos libres de innovar en tu nombre sin ninguna presión que nos obligue. Esto genera una mejor experiencia para vos y un futuro más brillante para la web.">
@@ -476,6 +479,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "Esta pagina está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado el contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionarán correctamente aún cuando este contenido sea bloqueado.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message "Esta página está rastreando tu actividad en línea.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha bloqueado esta página por el rastreo de tu actividad en línea.">
+<!ENTITY blocked_tracking_content_message_bottom "La mayor parte de los sitios web trabajarán correctamente aunque el rastreo en línea esté bloqueado.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Conocer más">
 <!ENTITY enable_protection "Habilitar protección">
 <!ENTITY disable_protection "Deshabilitar protección">
@@ -503,8 +513,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aplicación">
 
 <!ENTITY searchable_description "Marcadores e historial">
-
-<!ENTITY devtools_remote_debugging_forward "¡No te olvidés de derivar los puertos!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualización de &brandShortName; disponible">
@@ -558,3 +566,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
 
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
