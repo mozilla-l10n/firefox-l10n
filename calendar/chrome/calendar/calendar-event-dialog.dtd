@@ -244,13 +244,13 @@
 <!ENTITY repeat.units.days.both                         "Dnevi" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Vsak delovnik" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Vsak" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Vsakih" >
 <!ENTITY repeat.units.weeks.both                        "tednov" >
 <!ENTITY event.recurrence.on.label                      "Na:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "Vsak" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Vsak(ih)" >
 <!ENTITY repeat.units.months.both                       "mesec(ev)" >
-<!ENTITY event.recurrence.monthly.every.label           "Vsak" >
+<!ENTITY event.recurrence.monthly.every.label           "Vsak(ih)" >
 <!ENTITY event.recurrence.monthly.first.label           "prvi">
 <!ENTITY event.recurrence.monthly.second.label          "drugi">
 <!ENTITY event.recurrence.monthly.third.label           "tretji">
@@ -267,8 +267,8 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "dan meseca">
 <!ENTITY event.recurrence.repeat.recur.label            "Ponovi čez dni">
 
-<!ENTITY event.recurrence.every.label                        "Vsak:" >
-<!ENTITY repeat.units.years.both                             "leto" >
+<!ENTITY event.recurrence.every.label                        "Vsakih:" >
+<!ENTITY repeat.units.years.both                             "let" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Vsak" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -292,7 +292,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "December" >
-<!ENTITY event.recurrence.yearly.every.label                 "Vsak">
+<!ENTITY event.recurrence.yearly.every.label                 "Vsakih">
 <!ENTITY event.recurrence.yearly.first.label                 "prvi">
 <!ENTITY event.recurrence.yearly.second.label                "drugi">
 <!ENTITY event.recurrence.yearly.third.label                 "tretji">
@@ -323,7 +323,7 @@
 <!ENTITY event.recurrence.range.label                   "Obseg ponavljanja">
 <!ENTITY event.recurrence.forever.label                 "Brez končnega datuma" >
 <!ENTITY event.recurrence.repeat.for.label              "Ustvari" >
-<!ENTITY event.recurrence.appointments.label            "Zmenki" >
+<!ENTITY event.recurrence.appointments.label            "domenkov" >
 <!ENTITY event.repeat.until.label                       "Ponavljaj do" >
 <!ENTITY event.recurrence.preview.label                 "Predogled">
 <!-- Attendees dialog -->
