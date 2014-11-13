@@ -77,12 +77,14 @@
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
+<!ENTITY pref_category_customize_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਦਰਾਮਦ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "ਭਾਸ਼ਾ">
-<!ENTITY pref_browser_locale "ਬਰਾਊਜ਼ਰ ਭਾਸ਼ਾ">
+<!ENTITY pref_category_language_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਭਾਸ਼ਾ ਬਦਲੋ">
+<!ENTITY pref_browser_locale "ਬਰਾਊਜ਼ਰ ਦੀ ਭਾਸ਼ਾ">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -188,6 +190,7 @@
 <!ENTITY pref_header_display "ਵੇਖਾਓ">
 <!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_header_help "ਮਦਦ">
+<!ENTITY pref_header_language "ਭਾਸ਼ਾ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 
