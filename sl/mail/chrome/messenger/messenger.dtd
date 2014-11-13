@@ -338,37 +338,37 @@
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljatelju">
 <!ENTITY replySenderCmd.accesskey "š">
 <!ENTITY replyNewsgroupCmd2.label "Nadalje odgovori novičarski skupini">
-<!ENTITY replyNewsgroupCmd2.accesskey  "N">
+<!ENTITY replyNewsgroupCmd2.accesskey  "a">
 <!ENTITY replyToAllMsgCmd.label "Odgovori vsem">
 <!ENTITY replyToAllMsgCmd.accesskey  "v">
 <!ENTITY replyToAllMsgCmd.key  "o">
 <!ENTITY replyToListMsgCmd.label "Odgovori seznamu">
-<!ENTITY replyToListMsgCmd.accesskey  "e">
+<!ENTITY replyToListMsgCmd.accesskey  "s">
 <!ENTITY replyToListMsgCmd.key  "s">
 <!ENTITY forwardMsgCmd.label "Posreduj">
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key  "p">
 <!ENTITY forwardAsMenu.label "Posreduj kot">
-<!ENTITY forwardAsMenu.accesskey "s">
+<!ENTITY forwardAsMenu.accesskey "e">
 <!ENTITY forwardAsInline.label "V besedilu">
 <!ENTITY forwardAsInline.accesskey "V">
-<!ENTITY forwardAsAttachmentCmd.label "Priponke">
-<!ENTITY forwardAsAttachmentCmd.accesskey "n">
+<!ENTITY forwardAsAttachmentCmd.label "Priponko">
+<!ENTITY forwardAsAttachmentCmd.accesskey "P">
 <!ENTITY editAsNewMsgCmd.label "Uredi kot novo sporočilo">
 <!ENTITY editAsNewMsgCmd.accesskey "U">
 <!ENTITY editAsNewMsgCmd.key "u">
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgToMenu.label "Prestavi v">
-<!ENTITY moveMsgToMenu.accesskey "e">
+<!ENTITY moveMsgToMenu.label "Premakni v">
+<!ENTITY moveMsgToMenu.accesskey "m">
 <!ENTITY moveCopyMsgRecentMenu.label "Nedavno">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY copyMessageLocation.label "Kopiraj mesto sporočila">
 <!ENTITY copyMessageLocation.accesskey "K">
 <!ENTITY copyMsgToMenu.label "Kopiraj v">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveToFolderAgain.label "Ponovno prestavi">
-<!ENTITY moveToFolderAgain.accesskey "v">
+<!ENTITY moveToFolderAgain.label "Ponovno premakni">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "i">
 <!ENTITY killThreadMenu.label "Prezri nit">
 <!ENTITY killThreadMenu.accesskey "t">
@@ -377,10 +377,10 @@
 <!ENTITY killSubthreadMenu.accesskey "i">
 <!ENTITY killSubthreadMenu.key "r">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
-<!ENTITY watchThreadMenu.accesskey "m">
+<!ENTITY watchThreadMenu.accesskey "l">
 <!ENTITY watchThreadMenu.key "n">
 <!ENTITY tagMenu.label "Dodaj oznako">
-<!ENTITY tagMenu.accesskey "n">
+<!ENTITY tagMenu.accesskey "j">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -399,10 +399,10 @@
 <!ENTITY markAsUnreadCmd.label "Kot neprebrano">
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
-<!ENTITY markThreadAsReadCmd.accesskey "N">
+<!ENTITY markThreadAsReadCmd.accesskey "r">
 <!ENTITY markThreadAsReadCmd.key "N">
 <!ENTITY markReadByDateCmd.label "Kot prebrano na datum …">
-<!ENTITY markReadByDateCmd.accesskey "r">
+<!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "D">
 <!ENTITY markAllReadCmd.label "Vse prebrano">
 <!ENTITY markAllReadCmd.accesskey "V">
