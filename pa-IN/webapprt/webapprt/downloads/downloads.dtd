@@ -46,7 +46,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "ਬੰਦ ਕਰੋ, ਜਦੋਂ ਡਾਊਨਲੋਡ ਪੂਰੇ ਹੋਣ">
-<!ENTITY closeWhenDone.tooltip            "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ, ਜਦੋਂ ਸਭ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਫਾਇਲਾਂ ਪੂਰੀਆਂ ਹੋ ਜਾਣ">
+<!ENTITY closeWhenDone.tooltip            "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ, ਜਦੋਂ ਸਭ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਫਾਈਲਾਂ ਪੂਰੀਆਂ ਹੋ ਜਾਣ">
 
 <!ENTITY showFolder.label                 "ਇਹ ਫੋਲਡਰ ਵੇਖੋ">
 <!ENTITY searchBox.label                  "…ਖੋਜ">

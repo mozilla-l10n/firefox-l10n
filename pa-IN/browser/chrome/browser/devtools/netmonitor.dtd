@@ -28,31 +28,31 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
-<!ENTITY netmonitorUI.toolbar.method      "Method">
+<!ENTITY netmonitorUI.toolbar.method      "ਢੰਗ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
-<!ENTITY netmonitorUI.toolbar.file        "File">
+<!ENTITY netmonitorUI.toolbar.file        "ਫਾਈਲ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
-<!ENTITY netmonitorUI.toolbar.domain      "Domain">
+<!ENTITY netmonitorUI.toolbar.domain      "ਡੋਮੇਨ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
-<!ENTITY netmonitorUI.toolbar.type        "Type">
+<!ENTITY netmonitorUI.toolbar.type        "ਕਿਸਮ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column. -->
-<!ENTITY netmonitorUI.toolbar.size        "Size">
+<!ENTITY netmonitorUI.toolbar.size        "ਆਕਾਰ">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
-<!ENTITY netmonitorUI.toolbar.waterfall   "Timeline">
+<!ENTITY netmonitorUI.toolbar.waterfall   "ਸਮਾਂ-ਹੱਦ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
-<!ENTITY netmonitorUI.tab.headers         "Headers">
+<!ENTITY netmonitorUI.tab.headers         "ਹੈੱਡਰ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->

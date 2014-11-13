@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "ਫਾਇਰਫਾਕਸ WebIDE">
 
-<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_label "ਪਰੋਜੈਕਟ">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "New App…">
+<!ENTITY projectMenu_newApp_label "ਨਵੀਂ ਐਪ…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
@@ -14,9 +14,9 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Open App…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "Install and Run">
+<!ENTITY projectMenu_play_label "ਇੰਸਟਾਲ ਕਰੋ ਤੇ ਚਲਾਓ">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Stop App">
+<!ENTITY projectMenu_stop_label "ਐਪ ਰੋਕੋ">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
@@ -25,7 +25,7 @@
 <!ENTITY projectMenu_showPrefs_label "Preferences">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 
-<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_label "ਰਨਟਾਈਮ">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Disconnect">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -38,15 +38,15 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
-<!ENTITY viewMenu_label "View">
+<!ENTITY viewMenu_label "ਵੇਖੋ">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_showAddons_label "Manage Simulators">
 <!ENTITY viewMenu_showAddons_accesskey "M">
 
-<!ENTITY projectButton_label "Open App">
-<!ENTITY runtimeButton_label "Select Runtime">
+<!ENTITY projectButton_label "ਐਪ ਖੋਲ੍ਹੋ">
+<!ENTITY runtimeButton_label "ਰਨਟਾਈਮ ਚੁਣੋ">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -60,7 +60,7 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 
-<!ENTITY projectPanel_myProjects "My Projects">
+<!ENTITY projectPanel_myProjects "ਮੇਰੇ ਪਰੋਜੈਕਟ">
 <!ENTITY projectPanel_runtimeApps "Runtime Apps">
 <!ENTITY projectPanel_tabs "Tabs">
 <!ENTITY runtimePanel_USBDevices "USB Devices">
@@ -81,7 +81,7 @@
 <!ENTITY details_removeProject_button "Remove Project">
 
 <!-- New App -->
-<!ENTITY newAppWindowTitle "New App">
+<!ENTITY newAppWindowTitle "ਨਵੀਂ ਐਪ">
 <!ENTITY newAppHeader "Select template">
 <!ENTITY newAppLoadingTemplate "Loading templates…">
 <!ENTITY newAppProjectName "Project Name:">
@@ -89,7 +89,7 @@
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Close">
+<!ENTITY deck_close "ਬੰਦ ਕਰੋ">
 
 <!-- Addons -->
 <!ENTITY addons_title "Extra Components">
@@ -135,5 +135,5 @@
 <!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
 
 <!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Help">
+<!ENTITY monitor_title "ਨਿਗਰਾਨੀ">
+<!ENTITY monitor_help "ਮਦਦ">
