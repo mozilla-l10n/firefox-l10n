@@ -39,7 +39,7 @@
 
 <!ENTITY reading.caption               "Branje">
 <!ENTITY display.caption               "Prikaz">
-<!ENTITY showCondensedAddresses.label  "Za osebe v mojem imeniku prikaži le ime za prikaz">
+<!ENTITY showCondensedAddresses.label  "Za osebe v mojem imeniku prikaži le prikazano ime">
 <!ENTITY showCondensedAddresses.accesskey "a">
 
 <!ENTITY autoMarkAsRead.label          "Samodejno označi sporočila kot prebrana">
