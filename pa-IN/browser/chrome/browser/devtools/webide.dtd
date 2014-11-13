@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "ਫਾਇਰਫਾਕਸ WebIDE">
+<!ENTITY windowTitle "Firefox WebIDE">
 
-<!ENTITY projectMenu_label "ਪ੍ਰੋਜੈਕਟ">
+<!ENTITY projectMenu_label "Project">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "ਨਵੀਂ ਐਪ…">
+<!ENTITY projectMenu_newApp_label "New App…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
@@ -14,9 +14,9 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Open App…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "ਇੰਸਟਾਲ ਕਰੋ ਤੇ ਚਲਾਓ">
+<!ENTITY projectMenu_play_label "Install and Run">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "ਐਪ ਰੋਕੋ">
+<!ENTITY projectMenu_stop_label "Stop App">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
@@ -62,6 +62,7 @@
 
 <!ENTITY projectPanel_myProjects "My Projects">
 <!ENTITY projectPanel_runtimeApps "Runtime Apps">
+<!ENTITY projectPanel_tabs "Tabs">
 <!ENTITY runtimePanel_USBDevices "USB Devices">
 <!ENTITY runtimePanel_WiFiDevices "Wi-Fi Devices">
 <!ENTITY runtimePanel_simulators "Simulators">
@@ -88,16 +89,16 @@
 
 <!-- Decks -->
 
-<!ENTITY deck_close "ਬੰਦ ਕਰੋ">
+<!ENTITY deck_close "Close">
 
 <!-- Addons -->
 <!ENTITY addons_title "Extra Components">
 <!ENTITY addons_aboutaddons "Open Add-ons Manager">
 
 <!-- Prefs -->
-<!ENTITY prefs_title "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY prefs_editor_title "ਐਡੀਟਰ">
-<!ENTITY prefs_general_title "ਆਮ">
+<!ENTITY prefs_title "Preferences">
+<!ENTITY prefs_editor_title "Editor">
+<!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restore Defaults">
 <!ENTITY prefs_simulators "Manage Simulators">
 <!ENTITY prefs_options_enablelocalruntime "Enable local runtime">
