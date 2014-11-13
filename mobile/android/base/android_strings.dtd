@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Տարածում է մոտակա Wi-Fi-ը և ձեր սարքի բջջային տեղադրությունը &vendorShortName;-ի հետ՝ բարելավելու համար տեղադրության ծառայությունը:">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
