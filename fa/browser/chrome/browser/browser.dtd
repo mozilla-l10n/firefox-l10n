@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "ابزارهای گسترش دهنده">
+<!ENTITY devToolbarToolsButton.tooltip     "فعال کردن ابزارهای توسعه‌دهنده">
 <!ENTITY devToolbarOtherToolsButton.label  "ابزارهای بیشتر">
 
 <!ENTITY getMoreDevtoolsCmd.label        "دریافت ابزارهای بیشتر">
@@ -700,8 +700,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ط">
 <!ENTITY social.closeNotificationItem.label "اکنون نه">
 
+<!ENTITY social.directory.label "دایرکتوری فعالیتها">
 <!ENTITY social.directory.text "شما می توانید سرویس به اشتراک گذاری را از این دایرکتوری فعال کنید.">
-
+<!ENTITY social.directory.button "مرا به آنجا ببر!">
 <!ENTITY social.directory.introText "برای اضافه شدن یک سرویس به&brandShortName;روی آن کلیک کنید.">
 <!ENTITY social.directory.viewmore.text "مشاهده بیشتر ">
 
@@ -714,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.titlebar "نوار عنوان">
 <!ENTITY customizeMode.lwthemes "تم و زمینه ها">
 <!ENTITY customizeMode.lwthemes.myThemes "زمینه های من">
-
+<!ENTITY customizeMode.lwthemes.recommended "پیشنهاد شده">
 <!ENTITY customizeMode.lwthemes.menuManage "مدیریت">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "دریافت زمینه های بیشتر">
@@ -798,6 +799,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "پیگیری خواهد:">
 <!ENTITY panicButton.view.deleteCookies           "حذف <html:strong>کوکی‌های</html:strong> اخیر">
 <!ENTITY panicButton.view.deleteHistory           "حذف <html:strong>تاریخچه</html:strong> اخیر">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "بستن همه‌ی <html:strong>زبانه‌ها</html:strong> و <html:strong>پنجره‌ها</html:strong>">
