@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webinhalte">
 
+<!ENTITY keepHistory.label "Besuchte Webseiten und Links merken">
+<!ENTITY keepHistory.accesskey "W">
 <!ENTITY acceptCookies.label "Cookies von Webseiten akzeptieren">
 <!ENTITY acceptCookies.accesskey "C">
 <!ENTITY acceptThirdParty.pre.label "Cookies von Drittanbietern akzeptieren:">

@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "A">
 <!ENTITY certs.ask                       "Jedes Mal fragen">
 <!ENTITY certs.ask.accesskey             "e">
+<!ENTITY enableOCSP.label                "Aktuelle Gültigkeit von Zertifikaten durch Anfrage bei OCSP-Server bestätigen lassen">
+<!ENTITY enableOCSP.accesskey            "G">
 
 <!ENTITY viewCertificates.label         "Zertifikate">
 <!ENTITY viewCertificates.accesskey     "Z">
-<!ENTITY validation.label               "Validierung">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Kryptographie-Module">
 <!ENTITY viewSecurityDevices.accesskey  "K">
