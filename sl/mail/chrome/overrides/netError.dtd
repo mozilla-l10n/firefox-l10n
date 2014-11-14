@@ -100,7 +100,7 @@ da ima &brandShortName; pravico uporabljati mrežo.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Preverite, ali ima vaš sistem Upravitelja za osebno varnost 
 nameščen.</li> 
-<li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li> 
+<li>To je lahko posledica nestandardnih nastavitev na strežniku.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Varna povezava ni uspela">
@@ -111,7 +111,7 @@ nameščen.</li>
 
 <!ENTITY nssBadCert.title "Varna povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>To je lahko težava s konfiguracijo strežnika, ali pa se 
+<li>To je lahko težava z nastavitvami strežnika ali pa se 
 nekdo poskuša predstaviti kot strežnik.</li> 
 <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko 
 da začasno napako, tako da lahko ponovno poskusite kasneje.</li> 
