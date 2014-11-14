@@ -23,7 +23,7 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Shranjeno sporočilo …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
-<!ENTITY lightning.menupopup.open.calendar.label      "Datoteka koledarja …">
+<!ENTITY lightning.menupopup.open.calendar.label      "Datoteko koledarja …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "D">
 <!-- View Menu -->
 
