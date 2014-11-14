@@ -310,7 +310,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Klepet">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.key "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
 <!ENTITY folderMenu.label "Mapa">
@@ -331,23 +331,23 @@
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Prekliči sporočilo">
-<!ENTITY cancelNewsMsgCmd.accesskey "l">
+<!ENTITY cancelNewsMsgCmd.accesskey "č">
 <!ENTITY replyMsgCmd.label "Odgovori">
 <!ENTITY replyMsgCmd.accesskey "d">
-<!ENTITY replyMsgCmd.key  "o">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljatelju">
 <!ENTITY replySenderCmd.accesskey "š">
 <!ENTITY replyNewsgroupCmd2.label "Nadalje odgovori novičarski skupini">
-<!ENTITY replyNewsgroupCmd2.accesskey  "a">
+<!ENTITY replyNewsgroupCmd2.accesskey  "g">
 <!ENTITY replyToAllMsgCmd.label "Odgovori vsem">
 <!ENTITY replyToAllMsgCmd.accesskey  "v">
-<!ENTITY replyToAllMsgCmd.key  "o">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Odgovori seznamu">
 <!ENTITY replyToListMsgCmd.accesskey  "s">
-<!ENTITY replyToListMsgCmd.key  "s">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Posreduj">
 <!ENTITY forwardMsgCmd.accesskey "P">
-<!ENTITY forwardMsgCmd.key  "p">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Posreduj kot">
 <!ENTITY forwardAsMenu.accesskey "e">
 <!ENTITY forwardAsInline.label "V besedilu">
@@ -356,7 +356,7 @@
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
 <!ENTITY editAsNewMsgCmd.label "Uredi kot novo sporočilo">
 <!ENTITY editAsNewMsgCmd.accesskey "U">
-<!ENTITY editAsNewMsgCmd.key "u">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Premakni v">
@@ -369,10 +369,10 @@
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Ponovno premakni">
 <!ENTITY moveToFolderAgain.accesskey "i">
-<!ENTITY moveToFolderAgainCmd.key "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
 <!ENTITY killThreadMenu.accesskey "t">
-<!ENTITY killThreadMenu.key "n">
+<!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Prezri podnit">
 <!ENTITY killSubthreadMenu.accesskey "i">
 <!ENTITY killSubthreadMenu.key "r">
