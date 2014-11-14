@@ -148,12 +148,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "t">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
-
-
-
-
-
-
+<!ENTITY shareImage.label "Compartir ista imachen">
+<!ENTITY shareImage.accesskey "t">
+<!ENTITY shareSelect.label "Compartir tria">
+<!ENTITY shareSelect.accesskey "t">
+<!ENTITY shareVideo.label "Compartir iste vidio">
+<!ENTITY shareVideo.accesskey "t">
 <!ENTITY feedsMenu.label "Conducir-me-ie">
 <!ENTITY subscribeToPageMenupopup.label "Conducir-se a ista pachina">
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
@@ -215,8 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
 <!ENTITY addons.commandkey            "C">
-
-
+<!ENTITY webapps.label                "Aplicacions">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Desembolicador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
