@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Проверка на правописа по време на въвеждане">
 <!ENTITY checkSpelling.accesskey         "П">
 
-<!ENTITY systemDefaults.label            "По подразбиране">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "При стартиране проверка дали &brandShortName; е подразбиращият се браузър">
-<!ENTITY alwaysCheckDefault.accesskey    "д">
-<!ENTITY setDefault.label                "&brandShortName; да е стандартният браузър">
-<!ENTITY setDefault.accesskey            "с">
-<!ENTITY isDefault.label                 "&brandShortName; е вашият стандартен браузър">
-
 <!ENTITY dataChoicesTab.label            "Данни">
 
 <!ENTITY healthReportSection.label       "Доклад за изправност на &brandShortName; ">

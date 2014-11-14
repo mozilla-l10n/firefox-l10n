@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "Развързване">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Снимка на екрана">
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Преглед">
+
+
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+
+
+<!ENTITY projectPanel_tabs "Подпрозорци">
+
+
+
+
+<!ENTITY runtimePanel_installsimulator "Инсталиране на симулатор">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Описание">
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Затваряне">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "Възстановяване на стандартните настройки">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Име">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Помощ">

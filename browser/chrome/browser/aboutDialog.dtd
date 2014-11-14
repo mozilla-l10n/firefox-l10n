@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Проверка за обновления…">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label                "Рестартиране за обновяване">
-<!ENTITY update.updateButton.accesskey            "Р">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Прилагане на обновления…">
 <!ENTITY update.applyButtonBillboard.accesskey    "П">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

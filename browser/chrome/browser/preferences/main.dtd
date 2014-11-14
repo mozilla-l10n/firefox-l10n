@@ -30,3 +30,15 @@
 <!ENTITY chooseFolderMac.accesskey    "И">
 <!ENTITY alwaysAsk.label "Винаги да се пита къде да се записват файловете">
 <!ENTITY alwaysAsk.accesskey "В">
+
+
+
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
+
+
+
+
