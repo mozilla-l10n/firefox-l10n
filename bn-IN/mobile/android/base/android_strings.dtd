@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "বুকমার্ক">
 <!ENTITY overlay_share_reading_list_btn_label "পঠন তালিকায় যোগ করুন">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "আগে থেকেই বুকমার্ক করা আছে">
+<!ENTITY overlay_share_reading_list_btn_label_already "আগে থেকেই পঠন তালিকার অন্তর্ভুক্ত রয়েছে">
 <!ENTITY overlay_share_send_other "অন্য ডিভাইসসমূহে প্রেরণ করুন">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীদের স্বনির্ধারণ করুন">
 <!ENTITY pref_category_display "প্রদর্শন">
-
+<!ENTITY pref_category_display_summary "লেখা,শিরোনাম,ফুলস্ক্রিন ব্রাউজিং">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
-
+<!ENTITY pref_category_privacy_summary "পাসওয়ার্ড নিয়ন্ত্রণ, কুকি, ট্র‍্যাকিং, তথ্য">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;FAQs সম্বন্ধিত, তথ্যের পছন্দ">
 <!ENTITY pref_category_datareporting "পছন্দসই তথ্য">
 <!ENTITY pref_learn_more "আরও জানুন">
 <!ENTITY pref_category_installed_search_engines "ইন্সটল করা সার্চ ইঞ্জিনসমূহ">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার নুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
-
+<!ENTITY pref_category_devtools_summary "দূরবর্তী ডিবাগিং, পেইন্ট ফ্ল্যাশিং">
 <!ENTITY pref_developer_paint_flashing "পেইন্ট ফ্ল্যাশিং">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "মেনু দেখানো না হোক">
 <!ENTITY pref_clear_private_data2 "এখুনি পরিষ্কার করা হোক">
 <!ENTITY pref_clear_private_data_category "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
-
+<!ENTITY pref_clear_on_exit_title2 "প্রস্থানকালে পরিষ্কার">
 <!ENTITY pref_clear_on_exit_summary2 "মেইন মেনু থেকে যখনি অাপনি  \u0022Quit\u0022 নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে অাপনার তথ্য পরিষ্কার করে দেবে">
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগ-ইনসমূহ">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_sync "সিঙ্ক">
-
+<!ENTITY pref_sync_summary "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
-
+<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
 <!ENTITY pref_private_data_formdata "ফর্ম এবং অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ এবং সক্রিয় লগইন গুলি">
