@@ -21,7 +21,7 @@
 
 <!ENTITY success.title.before "Pozdravljeni, ">
 <!ENTITY success.title.after ", naslednji e-poštni naslovi so vam na razpolago:">
-<!ENTITY success.tip "(če želite najti še več e-poštnih naslovov, lahko iščete z vzdevki ali kakim drugim izrazom)">
+<!ENTITY success.tip "(Če želite najti še več sporočil, lahko iščete z vzdevki ali kakim drugim izrazom)">
 <!ENTITY partnership.description "V sodelovanju z več ponudniki vam &brandShortName; lahko ponudi nov e-poštni naslov. Za začetek enostavno v zgornje polje vnesite svoje ime in priimek, ali besede po vaši želji.">
 <!ENTITY existing.header "Ali že imate naslov, ki bi ga hoteli uporabljati?">
 <!ENTITY tinyheader.title "Imate že naslov?">
