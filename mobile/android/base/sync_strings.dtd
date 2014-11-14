@@ -117,6 +117,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox Account">
 <!ENTITY fxaccount_status_signed_in_as "Identificato come">
 <!ENTITY fxaccount_status_auth_server "Server account">
+<!ENTITY fxaccount_status_sync_now "Sincronizza adesso">
+<!ENTITY fxaccount_status_syncing "Sincronizzazione…">
 <!ENTITY fxaccount_status_device_name "Nome dispositivo">
 <!ENTITY fxaccount_status_sync_server "Server Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
