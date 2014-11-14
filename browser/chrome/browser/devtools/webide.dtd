@@ -10,8 +10,8 @@
 <!ENTITY projectMenu_newApp_accesskey "н">
 <!ENTITY projectMenu_importPackagedApp_label "Дестеленген қолданбаны ашу…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "д">
-
-
+<!ENTITY projectMenu_importHostedApp_label "Сақталатын қолданбаны ашу…">
+<!ENTITY projectMenu_importHostedApp_accesskey "с">
 <!ENTITY projectMenu_selectApp_label "Қолданбаны ашу…">
 <!ENTITY projectMenu_selectApp_accesskey "ш">
 <!ENTITY projectMenu_play_label "Орнату және жөнелту">
