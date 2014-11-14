@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "m">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Treballar difuera de linia">
 <!ENTITY goOfflineCmd.accesskey "d">
