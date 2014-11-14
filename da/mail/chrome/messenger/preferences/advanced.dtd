@@ -111,10 +111,10 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Spørg mig hver gang">
 <!ENTITY certs.ask.accesskey             "ø">
+<!ENTITY enableOCSP.label                "Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed">
+<!ENTITY enableOCSP.accesskey            "e">
 
 <!ENTITY viewCertificates.label         "Vis certifikater">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY validation.label               "Verifikation">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey  "S">

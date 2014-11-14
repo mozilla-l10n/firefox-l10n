@@ -16,16 +16,17 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om at oprette en
-sikker forbindelse til <b>#1</b>, men vi kan ikke bekræfte at denne forbindelse er sikker.">
-<!ENTITY certerror.introPara2 "Normalt, når du opretter en sikker forbindelse, vil webstedet
-identificere sig med gyldig identifikation for at bekræfte at du forbinder til det rigtige
-sted. Dette websteds identifikation kan dog ikke bekræftes.">
+<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om at oprette en sikker forbindelse til <b>#1</b>, men vi kan ikke bekræfte at denne forbindelse er sikker.">
+<!ENTITY certerror.introPara2 "Normalt, når du opretter en sikker forbindelse, vil webstedet identificere sig med gyldig identifikation for at bekræfte at du forbinder til det rigtige sted. Dette websteds identifikation kan dog ikke bekræftes.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hvad skal jeg gøre?">
 <!ENTITY certerror.whatShouldIDo.content "Hvis du uden problemer plejer at kunne oprette
 forbindelse til dette websted, kan denne fejl betyde at nogen forsøger at give sig ud for
 at være dette websted, og du bør ikke fortsætte.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette websted bruger HTTP 
+Strict Transport Security (HSTS) til at angive, at &brandShortName;
+kun må oprette en sikker forbindelse til det. 
+Det er derfor ikke muligt at tilføje en undtagelse for dette certifikat.">
 <!ENTITY certerror.getMeOutOfHere.label "Få mig væk herfra!">
 
 <!ENTITY certerror.expert.heading "Jeg er indforstået med risikoen">

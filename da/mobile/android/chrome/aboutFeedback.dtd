@@ -14,13 +14,12 @@
 <!ENTITY intro.sadLink             "Jeg løb ind i nogle problemer">
 <!ENTITY intro.maybeLater          "Måske senere">
 
-
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Du kan også besøge ">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " for yderligere information.">
+<!ENTITY support.pre3              "Besøg vores ">
+<!ENTITY support.link2             "supportwebsted">
+<!ENTITY support.post3             " for at finde løsninger på almindeligt forekommende problemer.">
 
 <!ENTITY happy.header              "Det er fantastisk at høre!">
 
@@ -36,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Måske senere">
 <!ENTITY happy.noThanks            "Nej tak">
 
+<!ENTITY sad.header                "Åh nej!">
 <!ENTITY sad.message               "Vi beklager, at du har haft nogle problemer med &brandShortName;. Fortæl os, hvad der skete, så vi kan løse dem.">
 <!ENTITY sad.placeholder           "Indtast din feedback her">
-<!ENTITY sad.lastSite              "Seneste besøgte websted (valgfrit)">
+<!ENTITY sad.lastSite2             "Inkluder seneste besøgte websted (valgfrit)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Tak for oplysningerne.">
+<!ENTITY sad.thanksHeader2         "Tak!">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -53,5 +53,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "Beskyt dit privatliv. Lad være med at angive personlige oplysninger i din feedback.">
+<!ENTITY feedback.privacy2         "Beskyt dit privatliv. Lad være med at angive personlige oplysninger i din feedback.">
+
 <!ENTITY feedback.send             "Send feedback">
