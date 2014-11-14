@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "w">
 
 <!ENTITY alwaysCheckDefault.label         "Koroši waati kul ka dii wala &brandShortName; ti tilasu Interneti ceecikaw tunandi waate">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "Wa &brandShortName; tee war tilasu ceecikaa">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "t">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; ti war tilasu ceecikaa sohõda.">
 <!ENTITY isNotDefault.label               "&brandShortName; manti war tilasu ceecikaa sohõda">
+
+
 
