@@ -74,6 +74,13 @@
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (forældet)'>
 
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; på &formatS2;'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bogmærkemenuen'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -196,6 +203,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Tjenestevilkår'>
 <!ENTITY fxaccount_status_linkprivacy 'Privatlivspolitik'>
+<!ENTITY fxaccount_status_more 'Læs mere&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Fjern Firefox-konto?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; vil ikke længere synkronisere med din konto, men vil ikke slette dine data på denne enhed.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox-kontoen &formatS; er fjernet.'>
+
+<!ENTITY fxaccount_remove_account_menu_item 'Fjern konto'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->

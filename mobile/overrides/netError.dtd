@@ -11,18 +11,26 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
-<!ENTITY dnsNotFound.longDesc2 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Undersøg adressen for tastefejl, såsom
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din enheds data- eller Wi-Fi-forbindelse.</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søg</button>
+    </div>
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, kontrollér da din enheds
+  data- eller wi-fi-forbindelse. <button id='wifi'>Aktiver wi-fi</button>
+  </li>
 </ul>
 ">
 
@@ -41,25 +49,33 @@
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Webadresser skrives normalt som
     <strong>http://www.eksempel.dk/</strong></li>
-  <li>Sørg for at du ikke benytter divisionstegn (dvs.
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søg</button>
+    </div>
+  <li>Kontrollér at du ikke benytter divisionstegn (dvs.
     <strong>/</strong>).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-tilstand">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Prøv igen. &brandShortName; vil forsøge at genindlæse siden.</li>
+  <li>Prøv igen. &brandShortName; vil forsøge at genindlæse siden.
+  <button id='wifi'>Aktiver wi-fi</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +94,10 @@
 ">
 
 <!ENTITY netReset.title "Forbindelsen blev nulstillet">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -100,10 +116,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Undersøg om din computer har en fungerende netværksforbindelse.</li>
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Undersøg om din computer har en fungerende netværksforbindelse.
+  <button id='wifi'>Aktiver wi-fi</button>
+  </li>
 </ul>
 ">
 
@@ -142,10 +160,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
-  <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
+  <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.
+  <button id='wifi'>Aktiver wi-fi</button>
+  </li>
 </ul>
 ">
 
