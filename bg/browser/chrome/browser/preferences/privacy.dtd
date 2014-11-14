@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "К">
 <!ENTITY dntTrackingOkay.label2         "Казване на сайтовете, че искам да бъда следен">
 <!ENTITY dntTrackingOkay.accesskey      "с">
+
+
+
 <!ENTITY doNotTrackInfo.label           "Научете повече">
 
 <!ENTITY  history.label                 "История">

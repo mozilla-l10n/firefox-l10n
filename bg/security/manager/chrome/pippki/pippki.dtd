@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "Генериране на личен ключ">
 <!ENTITY createCertInfo.msg1 "Тече генериране на ключ… Това може да отнеме няколко минути…">
 <!ENTITY createCertInfo.msg2 "Моля, изчакайте…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Текстова заявка за подписване">
-<!ENTITY formSigning.cert "Подписване на сертификат">
-<!ENTITY formSigning.confirmPassword "Ако сте съгласни да подпишете този текст чрез избрания сертификат, моля потвърдете с въвеждане на главната парола:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Защитена удостоверяваща токена">

@@ -20,6 +20,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Какво да правя?">
 <!ENTITY certerror.whatShouldIDo.content "Ако обикновено нямате проблеми при свързване с този сайт, тази грешка може да означава, че някой се опитва лъжливо да се представи за сайта и не трябва да продължавате.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Махни ме от тук!">
 
 <!ENTITY certerror.expert.heading "Разбирам опасностите">
