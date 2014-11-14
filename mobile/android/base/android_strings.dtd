@@ -78,13 +78,13 @@
 <!ENTITY settings_title "Opcions">
 <!ENTITY pref_category_advanced "Abanzau">
 <!ENTITY pref_category_customize "Personalización">
-
+<!ENTITY pref_category_customize_summary "Inicio, busca, pestanyas, importar">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Luenga">
-
+<!ENTITY pref_category_language_summary "Cambiar o idioma d\u0027o tuyo navegador">
 <!ENTITY pref_browser_locale "Luenga d\u0027o navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Marcapachinas">
 <!ENTITY overlay_share_reading_list_btn_label "Anyader a Lista de Lectura">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Ya marcada">
+<!ENTITY overlay_share_reading_list_btn_label_already "Ya en a Lista de Lectura">
 <!ENTITY overlay_share_send_other "Ninviar ta atros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar os suyos motors de busca">
 <!ENTITY pref_category_display "Amostrar">
-
+<!ENTITY pref_category_display_summary "Texto, barra de titol, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidat">
-
+<!ENTITY pref_category_privacy_summary "Controlar as claus, cookies, seguimiento, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "Arredol de &brandShortName;, FAQs, trigas de datos">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Aprender-ne mas">
 <!ENTITY pref_category_installed_search_engines "Motors de busca instalaus">
@@ -137,9 +137,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELLO: adhiba qualsieuir puesto web en a suya lista de motors de busca con una pretada larga en o suyo campo de busca y dimpués tocando l\u0027icono &formatI;.">
 <!ENTITY pref_category_devtools "Ferramientas ta desembolicadors">
-
-<!ENTITY pref_developer_paint_flashing "Parpadeo en debuxar">
-<!ENTITY pref_developer_remotedebugging "Debug remoto">
+<!ENTITY pref_category_devtools_summary "Depuración remota, parpadeyo en debuixar">
+<!ENTITY pref_developer_paint_flashing "Parpadeyo en debuixar">
+<!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_remember_signons "Recordar as claus">
 
 <!ENTITY pref_category_home "Inicio">
@@ -153,7 +153,7 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adhibiu en a pachina d\u0027inicio">
 <!ENTITY pref_category_home_content_settings "Achustes de conteniu">
 <!ENTITY pref_home_updates "Actualizacions automaticas">
-
+<!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Amostrar sucherencias de puestos">
 <!ENTITY pref_home_suggested_sites_summary "Fer veyer en a pachina d\u0027inicio vinclos t\u0027os puestos que talment trobes interesants">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "No amuestres o menú">
 <!ENTITY pref_clear_private_data2 "Escoscar agora">
 <!ENTITY pref_clear_private_data_category "Limpiar os datos privaus">
-
+<!ENTITY pref_clear_on_exit_title2 "Limpiar en salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automaticament os suyos datos siempre que seleccione \u0022Quit\u0022 en o menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Trigar que datos quiere borrar">
 <!ENTITY pref_plugins "Connectors">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_sync "Sincronizar">
-
+<!ENTITY pref_sync_summary "Sincroniza as tuyas pestanyas, marcapachinas, claus, historial">
 <!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
 <!ENTITY pref_import_android "Importar dende Android">
-
+<!ENTITY pref_import_android_summary "Importar marcapachinas y historial dende o navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_formdata "Formularios e historial de miras">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesions activas">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallas">
 <!ENTITY datareporting_wifi_title2 "Servicios d\u0027ubicación de &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte Wi-fis proximas y o puesto celulars d\u0027o tuyo dispositivo con &vendorShortName;  ta amillorar o nuestro servicio de cheolocalización.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY set_image_fail "Ista imachen no se puet establir">
-
+<!ENTITY set_image_path_fail "Ista imachen no se puet alzar">
 <!ENTITY set_image_chooser_title "Establir imachen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -413,27 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Tornar ta &formatS;">
 
-
+<!ENTITY home_remote_tabs_title "Pestanyas sintonizadas">
+<!ENTITY home_remote_tabs_empty "As tuyas pestanyas en atros dispositivos s\u0027amuestran aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha puesto connectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "Torna a dentar ta reconnectar-te con Firefox Account y continuar sincronizando.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problemas verificando a tuya cuenta?">
+<!ENTITY home_remote_tabs_need_to_verify "Por favor verifica a tuya Cuenta Firefox ta empecipiar a sincronizar.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo amagau">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos amagaus">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos amagaus">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Amostrar os fichers seleccionaus">
 
 <!ENTITY private_browsing_title "Navegación privada">
 <!ENTITY private_tabs_panel_empty_desc "As suyas pestanyas privadas s\u0027amostraran aqui. Encara que no alzamos o suyo historial de navegación ni as suyas cookies, os marcadors y ficheros que descargue continarán estando alzaus en o suyo dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Deseya saber-ne mas?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Ta ón han iu as mías pestanyas?">
+<!ENTITY remote_tabs_panel_moved_desc "Hemos moviu as suyas pestanyas dende atros dispositivos ta un panel en a suya pachina d\u0027inicio que ye de buen accedir cada vegada que ubras una nueva pestanya.">
+<!ENTITY remote_tabs_panel_moved_link "Leva-me ta o siguient panel nuevo.">
 
 <!ENTITY pin_site_dialog_hint "Escriba una parola clau de busca">
 
@@ -505,6 +511,9 @@ dende Android">
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "Reiniciar o navegador pa que tiengan efectos os cambios">
+<!ENTITY new_tablet_pref "Activar o nuevo interfaz d\u0027usuario de tablet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nueva sesión de convidau">
@@ -513,8 +522,8 @@ dende Android">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
 <!ENTITY new_guest_session_text "A persona que lo faiga servir no podrá accedir a garra dato d\u0027a suya información personal de navegación (como claus, historial, u marcapachinas).\n\nQuan remate a sesión de convidau, ixos datos s\u0027eliminarán y a sesión precedent se restaurará.">
-
-
+<!ENTITY guest_browsing_notification_title "A navegación \&quot;como convidau\&quot; ye activa">
+<!ENTITY guest_browsing_notification_text "Tocar ta salir-ne">
 
 <!ENTITY exit_guest_session_title "&brandShortName; se reiniciará">
 <!ENTITY exit_guest_session_text "Os datos de navegación d\u0027ista sesión se eliminarán.">
