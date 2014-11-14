@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
-
+<!ENTITY pref_category_devtools_summary "Қашықтан жөндеу, суреттелетінді жыпылықтау">
 <!ENTITY pref_developer_paint_flashing "Жыпылықтауды салу">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
