@@ -58,8 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Щракнете за показване на повече възможности">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Препотвърждаване">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Изпращане на препотвърждаване до организатора">
-
-
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Запис на копие">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Запис на копие на събитието в календара независимо от отговора към организатора. Списъскът с участници ще бъде изчистен.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Несигурно">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Приемане на събитието като несигурно">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Всички са несигурни">
