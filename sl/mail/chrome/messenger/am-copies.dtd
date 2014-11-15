@@ -9,42 +9,42 @@
 <!ENTITY fccMailFolder.label "Vstavi kopijo v:">
 <!ENTITY fccMailFolder.accesskey "V">
 <!ENTITY fccReplyFollowsParent.label "Vstavi odgovore v mapo s sporočilom, na katerega odgovarjam">
-<!ENTITY fccReplyFollowsParent.accesskey "r">
+<!ENTITY fccReplyFollowsParent.accesskey "o">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc na te naslove:">
-<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddress.label "Pošlji Kp na te naslove:">
+<!ENTITY ccAddress.accesskey "K">
 <!ENTITY ccAddressList.placeholder "Loči naslove z vejicami">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc na te naslove:">
-<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddress.label "Pošlji Skp na te naslove:">
+<!ENTITY bccAddress.accesskey "S">
 <!ENTITY bccAddressList.placeholder "Loči naslove z vejicami">
-<!ENTITY saveMessageDlg.label "Pokaži potrdilno okno, kadar se sporočila shranjuje">
-<!ENTITY saveMessageDlg.accesskey "k">
+<!ENTITY saveMessageDlg.label "Ob shranjevanju sporočil prikaži potrdilno okno">
+<!ENTITY saveMessageDlg.accesskey "O">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "mapa &quot;Poslano&quot; na:">
+<!ENTITY sentFolderOn.label "mapo &quot;Poslano&quot; na:">
 <!ENTITY sentFolderOn.accesskey "P">
 <!ENTITY sentInOtherFolder.label "Drugo:">
-<!ENTITY sentInOtherFolder.accesskey "o">
+<!ENTITY sentInOtherFolder.accesskey "D">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arhivi za sporočila">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
-<!ENTITY keepArchives.accesskey "h">
+<!ENTITY keepArchives.accesskey "A">
 <!ENTITY archiveHierarchyButton.label "Možnosti za arhive …">
 <!ENTITY archiveHierarchyButton.accesskey "M">
-<!ENTITY archivesFolderOn.label "mapa &quot;Arhivi&quot; na:">
-<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archivesFolderOn.label "mapo &quot;Arhivi&quot; na:">
+<!ENTITY archivesFolderOn.accesskey "h">
 <!ENTITY archiveInOtherFolder.label "Drugo:">
-<!ENTITY archiveInOtherFolder.accesskey "D">
+<!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Osnutki in predloge">
 <!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "mapa &quot;Osnutki&quot; na:">
-<!ENTITY draftsFolderOn.accesskey "O">
+<!ENTITY draftsFolderOn.label "mapo &quot;Osnutki&quot; na:">
+<!ENTITY draftsFolderOn.accesskey "n">
 <!ENTITY draftInOtherFolder.label "Drugo:">
 <!ENTITY draftInOtherFolder.accesskey "u">
 <!ENTITY keepTemplates.label "Predloge za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; na:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.label "mapo &quot;Predloge&quot; na:">
+<!ENTITY templatesFolderOn.accesskey "e">
 <!ENTITY templateInOtherFolder.label "Drugo:">
 <!ENTITY templateInOtherFolder.accesskey "D">
