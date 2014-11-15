@@ -43,6 +43,12 @@
 <!ENTITY viewMenu_accesskey "и">
 <!ENTITY viewMenu_toggleEditor_label "Переключить редактор">
 <!ENTITY viewMenu_toggleEditor_accesskey "е">
+<!ENTITY viewMenu_zoomin_label "Увеличить масштаб">
+<!ENTITY viewMenu_zoomin_accesskey "в">
+<!ENTITY viewMenu_zoomout_label "Уменьшить масштаб">
+<!ENTITY viewMenu_zoomout_accesskey "м">
+<!ENTITY viewMenu_resetzoom_label "Сбросить масштаб">
+<!ENTITY viewMenu_resetzoom_accesskey "о">
 <!ENTITY projectButton_label "Открыть приложение">
 <!ENTITY runtimeButton_label "Выбрать Runtime">
 <!ENTITY key_quit "W">
@@ -50,6 +56,10 @@
 <!ENTITY key_play "R">
 <!ENTITY key_toggleToolbox "VK_F12">
 <!ENTITY key_toggleEditor "B">
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 <!ENTITY projectPanel_myProjects "Мои проекты">
 <!ENTITY projectPanel_runtimeApps "Runtime приложения">
 <!ENTITY projectPanel_tabs "Вкладки">

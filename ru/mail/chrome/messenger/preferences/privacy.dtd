@@ -27,10 +27,6 @@
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
 <!ENTITY showCookies.accesskey "з">
-<!ENTITY dntTrackingNopref.label2 "Не сообщать сайтам ничего о моих настройках отслеживания">
-<!ENTITY dntTrackingNopref.accesskey "е">
 <!ENTITY dntTrackingNotOkay.label2 "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
 <!ENTITY dntTrackingNotOkay.accesskey "о">
-<!ENTITY dntTrackingOkay.label2 "Сообщать сайтам, что я хочу, чтобы меня отслеживали">
-<!ENTITY dntTrackingOkay.accesskey "ь">
 <!ENTITY doNotTrackInfo.label "Подробнее об Отказе-от-отслеживания">
