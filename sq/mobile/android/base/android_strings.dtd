@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "Kalo te skeda">
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-u">
-<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t&apos;i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t\&apos;i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshije adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
@@ -94,7 +94,7 @@
 <!ENTITY pref_category_home_panels "Panele">
 <!ENTITY pref_home_add_panel "Shtoni panel">
 <!ENTITY home_add_panel_title "Shtoni panel të ri">
-<!ENTITY home_add_panel_empty "Na ndjeni, s&apos;gjetëm dot panele që t&apos;i shtoni.">
+<!ENTITY home_add_panel_empty "Na ndjeni, s\&apos;gjetëm dot panele që t\&apos;i shtoni.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->

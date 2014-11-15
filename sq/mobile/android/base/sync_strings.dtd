@@ -62,7 +62,7 @@
 <!ENTITY sync.summary.pair.label "Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër">
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label "Ç&apos;të njëkohësohet">
+<!ENTITY sync.configure.engines.title.label "Ç\&apos;të njëkohësohet">
 <!ENTITY sync.configure.engines.sync.my.title.label "Njëkohësoni…">
 <!ENTITY sync.configure.engines.title.bookmarks "Faqerojtësit tuaj">
 <!ENTITY sync.configure.engines.title.passwords "Fjalëkalimet tuaja">
@@ -76,6 +76,13 @@
 
 <!-- Account strings -->
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (e vjetruar)">
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; në &formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "Menu Faqerojtësish">
@@ -109,6 +116,10 @@
 <!ENTITY sync.text.tab.not.sent.label "Pati një gabim gjatë dërgimit të skedës suaj.">
 
 <!-- Firefox account strings. -->
+<!ENTITY fxaccount_full_label "Firefox Accounts">
+
+<!ENTITY fxaccount_custom_server_account_title "Përdorim i llogarisë në shërbyes">
+<!ENTITY fxaccount_custom_server_sync_title "Depozitim të dhënash Sync në shërbyes">
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -140,7 +151,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në re.">
 <!ENTITY fxaccount_create_account_button "Pasuesi">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Zgjidhni ç&apos;të njëkohësohen">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Zgjidhni ç\&apos;të njëkohësohen">
 <!ENTITY fxaccount_create_account_sign_in_instead "Keni tashmë një llogari? Hyni në të">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 ose më herët">
 <!ENTITY fxaccount_create_account_unknown_error "Nuk u krijua dot llogari">
@@ -154,13 +165,13 @@
 <!ENTITY fxaccount_confirm_account_verification_link "Një lidhje verifikimi u dërgua te &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ridërgoje email-in">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email-i i verifikimit u dërgua">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S&apos;u dërgua dot email-i i verifikimit">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S\&apos;u dërgua dot email-i i verifikimit">
 
 <!ENTITY fxaccount_sign_in_sub_header "Hyni">
 <!ENTITY fxaccount_sign_in_button_label "Hyni">
 <!ENTITY fxaccount_sign_in_forgot_password "Harruat fjalëkalimin?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Krijoni një llogari">
-<!ENTITY fxaccount_sign_in_unknown_error "S&apos;u bë dot hyrja">
+<!ENTITY fxaccount_sign_in_unknown_error "S\&apos;u bë dot hyrja">
 
 <!ENTITY fxaccount_account_verified_sub_header "Llogaria u verifikua">
 <!ENTITY fxaccount_account_verified_description2 "Njëkohësimi i të dhënave tuaja do të fillojë në çast.">
@@ -169,13 +180,18 @@
 <!ENTITY fxaccount_update_credentials_button_label "Hyni">
 <!ENTITY fxaccount_update_credentials_unknown_error "Nuk u bë dot hyrja">
 
-<!ENTITY fxaccount_status_header2 "Llogari Firefox">
+<!ENTITY fxaccount_status_header2 "Firefox Account">
 <!ENTITY fxaccount_status_signed_in_as "I futur si">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_auth_server "Shërbyes llogarie">
+<!ENTITY fxaccount_status_device_name "Emër pajisjeje">
+<!ENTITY fxaccount_status_sync_server "Shërbyes Sync">
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: i aktivizuar">
 <!ENTITY fxaccount_status_needs_verification2 "Llogaria juaj duhet verifikuar. Prekeni që të ridërgohet email-i i verifikimit.">
 <!ENTITY fxaccount_status_needs_credentials "Nuk lidhet dot. Prekeni që të hyni.">
 <!ENTITY fxaccount_status_needs_upgrade "Lypset të përmirësoni &brandShortName;-un që të hyni.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Përdorim të Dhënash.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Prekeni që të fillojë njëkohësimi.">
 <!ENTITY fxaccount_status_bookmarks "Faqerojtës">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords "Fjalëkalime">
@@ -187,6 +203,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Kushte Shërbimi">
 <!ENTITY fxaccount_status_linkprivacy "Shënim Privatësie">
+<!ENTITY fxaccount_status_more "Më tepër&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "Të hiqet Firefox Account?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-i do të reshtë së njëkohësuari me llogarinë tuaj, por s\’do të fshijë ndonjë nga të dhënat e shfletimit tuaj në këtë pajisje.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox Account për &formatS; u hoq.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Hiqe Llogarinë">
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don"t localize this. -->
