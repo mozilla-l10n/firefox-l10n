@@ -231,8 +231,8 @@
 <!ENTITY headersAllCmd.accesskey "V">
 <!ENTITY headersNormalCmd.label "Običajna velikost">
 <!ENTITY headersNormalCmd.accesskey "O">
-<!ENTITY bodyMenu.label "Vsebina sporočila kot">
-<!ENTITY bodyMenu.accesskey "V">
+<!ENTITY bodyMenu.label "Telo sporočila kot">
+<!ENTITY bodyMenu.accesskey "T">
 <!ENTITY bodyAllowHTML.label "Izvirni HTML">
 <!ENTITY bodyAllowHTML.accesskey "z">
 <!ENTITY bodySanitized.label "Enostaven HTML">
@@ -242,8 +242,8 @@
 <!ENTITY bodyAllParts.label "Vsi deli telesa">
 <!ENTITY bodyAllParts.accesskey "V">
 
-<!ENTITY bodyMenuFeed.label "Podaj vsebino sporočila kot">
-<!ENTITY bodyMenuFeed.accesskey "s">
+<!ENTITY bodyMenuFeed.label "Podaj telo sporočila kot">
+<!ENTITY bodyMenuFeed.accesskey "t">
 <!ENTITY viewFeedWebPage.label "Spletno stran">
 <!ENTITY viewFeedWebPage.accesskey "S">
 <!ENTITY viewFeedSummary.label "Povzetek">
