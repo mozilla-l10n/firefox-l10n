@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY alwaysCheckDefault.label         "A l'inici, comprova sempre si el &brandShortName; és el navegador per defecte">
-<!ENTITY alwaysCheckDefault2.accesskey    "n">
+<!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
+<!ENTITY alwaysCheckDefault2.accesskey    "o">
 <!ENTITY setAsMyDefaultBrowser.label      "Fes que el &brandShortName; sigui el navegador per defecte">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "F">
+
+
 <!ENTITY isDefault.label                  "Actualment el &brandShortName; és el navegador per defecte">
 <!ENTITY isNotDefault.label               "El &brandShortName; no és el navegador per defecte">
+
+
 
