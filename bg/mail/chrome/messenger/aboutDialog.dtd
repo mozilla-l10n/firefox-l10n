@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Проверка за обновявания">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label                "Рестартиране на програмата, за да се извърши обновявянето">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Прилагане на обновяването">
 <!ENTITY update.applyButtonBillboard.accesskey    "П">

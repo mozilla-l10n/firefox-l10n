@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Новинарски групи">
 <!ENTITY feeds.label "Емисии">
 
-<!ENTITY unsetDefault.tooltip 'Не е възможно да отмените &brandShortName; като клиент по подразбиране за  &brandShortName; За да изберете друго приложение, трябва да използвате диалога "По подразбиране"'>
+<!ENTITY unsetDefault.tooltip "Не е възможно да отмените &brandShortName; като клиент по подразбиране за  &brandShortName; За да изберете друго приложение, трябва да използвате диалога &quot;По подразбиране&quot;">
 
 <!ENTITY checkOnStartup.label "Винаги се прави тази проверка при стартиране на &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">

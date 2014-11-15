@@ -43,8 +43,7 @@
 <!ENTITY setJunkScore.label "Задаване статус нежелана поща на">
 <!ENTITY deleteMessage.label "Изтриване на писмо">
 <!ENTITY deleteFromPOP.label "Изтриване от POP сървъра">
-<!ENTITY fetchFromPOP.label "Извличане от POP сървъра
-">
+<!ENTITY fetchFromPOP.label "Извличане от POP сървъра">
 <!ENTITY ignoreThread.label "Игнориране на дискусия">
 <!ENTITY ignoreSubthread.label "Игнориране на поддискусия">
 <!ENTITY watchThread.label "Наблюдаване на дискусия">
