@@ -27,7 +27,7 @@
 <!ENTITY newevent.status.completed.label          "Завършено на" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#37; завършено">
+<!ENTITY newtodo.percentcomplete.label      "&#037; завършено">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
