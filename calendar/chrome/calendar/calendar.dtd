@@ -35,8 +35,8 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Сортиране по приоритет">
 <!ENTITY calendar.unifinder.tree.title.label               "Заглавие">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Сортиране по заглавие">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; са завършени">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Сортиране по &#37; завършеност">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; са завършени">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Сортиране по &#037; завършеност">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Начало">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Сортиране по начална дата">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Край">
