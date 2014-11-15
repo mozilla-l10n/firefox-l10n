@@ -105,7 +105,7 @@
 <!ENTITY all.accesskey "V">
 <!ENTITY selectThreadCmd.label "Nit">
 <!ENTITY selectThreadCmd.accesskey "N">
-<!ENTITY selectThreadCmd.key "N">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Sporočila z zvezdico">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Priljubljena mapa">
@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Lastnosti">
 <!ENTITY folderPropsFolderCmd2.label "Lastnosti mape">
 <!ENTITY folderPropsNewsgroupCmd2.label "Lastnosti novičarske skupine …">
-<!ENTITY folderPropsCmd.accesskey "L">
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Razveljavi izbris sporočila">
 <!ENTITY redoDeleteMsgCmd.label "Uveljavi izbris sporočila">
 <!ENTITY undoMoveMsgCmd.label "Razveljavi premik sporočila">
@@ -266,8 +266,8 @@
 <!ENTITY findCmd.label "Najdi v tem sporočilu …">
 <!ENTITY findCmd.accesskey "N">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "&amp;Najdi ponovno">
-<!ENTITY findAgainCmd.accesskey "p">
+<!ENTITY findAgainCmd.label "Najdi znova">
+<!ENTITY findAgainCmd.accesskey "z">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "r">
