@@ -13,7 +13,7 @@
 <!ENTITY sendHTML.accesskey "s">
 <!ENTITY sendBoth.label "Send meddelelsen som både HTML og ren tekst-format">
 <!ENTITY sendBoth.accesskey "b">
-<!ENTITY override.label "Note: Brug adressebogen til at specificere tekstformat for modtagere.">
+<!ENTITY override.label "Note: Brug adressebogen til at angive tekstformat for modtagere.">
 
 <!ENTITY domaindesc.label "Når du sender en meddelelse til en adresse i et af nedenstående domæner, sender &brandShortName; den automatisk i det rigtige format.">
 <!ENTITY HTMLTab.label "HTML-domæner">
