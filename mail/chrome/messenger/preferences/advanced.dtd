@@ -112,9 +112,9 @@
 <!ENTITY certs.ask                       "Запитване всеки път">
 <!ENTITY certs.ask.accesskey             "З">
 
+
+
 <!ENTITY viewCertificates.label         "Преглед сертификати">
 <!ENTITY viewCertificates.accesskey     "П">
-<!ENTITY validation.label               "Потвърждаване">
-<!ENTITY validation.accesskey           "ж">
 <!ENTITY viewSecurityDevices.label      "Защитни устройства">
 <!ENTITY viewSecurityDevices.accesskey  "З">

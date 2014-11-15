@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "О">
 <!ENTITY selectMenu.label "Избор">
 <!ENTITY selectMenu.accesskey "И">
-<!ENTITY all.label "Всичко">
-<!ENTITY all.accesskey "В">
+
+
 <!ENTITY selectThreadCmd.label "Дискусия">
 <!ENTITY selectThreadCmd.accesskey "Д">
 <!ENTITY selectThreadCmd.key "a">
@@ -158,8 +158,8 @@
 <!ENTITY unreadFolders.accesskey "Н">
 <!ENTITY favoriteFolders.label "Любими">
 <!ENTITY favoriteFolders.accesskey "ю">
-<!ENTITY recentFolders.label "Най-последни">
-<!ENTITY recentFolders.accesskey "Н">
+
+
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
 <!-- Sort Menu -->
@@ -283,8 +283,8 @@
 <!ENTITY goMenu.accesskey "Н">
 <!ENTITY nextMenu.label "Следващо">
 <!ENTITY nextMenu.accesskey "С">
-<!ENTITY nextMsgCmd.label "Писмо">
-<!ENTITY nextMsgCmd.accesskey "П">
+
+
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Непрочетено писмо">
 <!ENTITY nextUnreadMsgCmd.accesskey "Н">
@@ -302,8 +302,8 @@
 <!ENTITY prevUnreadMsgCmd.label "Непрочетено писмо">
 <!ENTITY prevUnreadMsgCmd.accesskey "Н">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Препращане">
-<!ENTITY goForwardCmd.accesskey "щ">
+
+
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">

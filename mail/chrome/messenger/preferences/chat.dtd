@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Когато пристигне пряко съобщение до вас:">
 <!ENTITY  desktopChatNotifications.label      "Показване на уведомление">
 <!ENTITY  desktopChatNotifications.accesskey  "у">
+
+
+
 <!ENTITY  chatSound.accesskey                 "з">
 <!ENTITY  chatSound.label                     "Възпроизвеждане на звук">
 <!ENTITY  play.label                          "Възпроизвеждане">
