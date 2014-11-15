@@ -166,22 +166,22 @@
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.label "Vsaj eden">
+<!ENTITY quickFilterBar.booleanModeAny.label "Katerokoli">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Vsaj eden izmed izbranih kriterijev mora ustrezati">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Ustrezati mora vsaj eno od izbranih meril oznak">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.label "Vsi">
+<!ENTITY quickFilterBar.booleanModeAll.label "Vse">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Vsi izbrani kriteriji morajo ustrezati">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Ustrezati morajo vsa izbrana merila oznak">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
