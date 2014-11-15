@@ -9,7 +9,7 @@
 <!ENTITY fccMailFolder.label "Vstavi kopijo v:">
 <!ENTITY fccMailFolder.accesskey "V">
 <!ENTITY fccReplyFollowsParent.label "Vstavi odgovore v mapo s sporočilom, na katerega odgovarjam">
-<!ENTITY fccReplyFollowsParent.accesskey "o">
+<!ENTITY fccReplyFollowsParent.accesskey "m">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Pošlji Kp na te naslove:">
 <!ENTITY ccAddress.accesskey "K">
@@ -47,4 +47,4 @@
 <!ENTITY templatesFolderOn.label "mapo &quot;Predloge&quot; na:">
 <!ENTITY templatesFolderOn.accesskey "e">
 <!ENTITY templateInOtherFolder.label "Drugo:">
-<!ENTITY templateInOtherFolder.accesskey "D">
+<!ENTITY templateInOtherFolder.accesskey "o">
