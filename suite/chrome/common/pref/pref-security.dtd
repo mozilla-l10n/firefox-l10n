@@ -5,12 +5,10 @@
 <!ENTITY pref.security.title "Приватность и защита">
 <!ENTITY tracking.label "Отслеживание пользователя">
 <!ENTITY trackingIntro.label "Веб-сайты могут отслеживать то, как вы их используете, что влияет на вашу приватность.">
-<!ENTITY dntTellSites.label "Сообщать веб-сайтам о моей настройке отслеживания">
-<!ENTITY dntTellSites.accesskey "о">
-<!ENTITY dntTrackingNotOkay.label "Я не хочу, чтобы меня отслеживали">
-<!ENTITY dntTrackingNotOkay.accesskey "н">
-<!ENTITY dntTrackingOkay.label "Я согласен, чтобы меня отслеживали">
-<!ENTITY dntTrackingOkay.accesskey "а">
+<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы меня отслеживали">
+<!ENTITY doNotTrack.accesskey "о">
+<!ENTITY trackProtect.label "Предотвращать отслеживание со стороны известных сайтов">
+<!ENTITY trackProtect.accesskey "е">
 <!ENTITY geoLocation.label "Определение местоположения при веб-серфинге">
 <!ENTITY geoIntro.label "Веб-сайты могут запрашивать дополнительную информацию о вашем текущем местоположении.">
 <!ENTITY geoEnabled.label "Запрашивать у меня разрешение, если сделан запрос">

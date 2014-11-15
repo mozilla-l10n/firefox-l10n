@@ -117,6 +117,8 @@
 <!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
 <!ENTITY fxaccount_status_auth_server "Сервер учётной записи">
+<!ENTITY fxaccount_status_sync_now "Синхронизировать">
+<!ENTITY fxaccount_status_syncing2 "Синхронизация…">
 <!ENTITY fxaccount_status_device_name "Имя устройства">
 <!ENTITY fxaccount_status_sync_server "Сервер синхронизации">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
