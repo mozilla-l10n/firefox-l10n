@@ -78,11 +78,13 @@
 <!ENTITY settings_title "프로그램 설정">
 <!ENTITY pref_category_advanced "고급">
 <!ENTITY pref_category_customize "사용자 설정">
+<!ENTITY pref_category_customize_summary "홈, 검색, 탭, 가져오기">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "언어">
+<!ENTITY pref_category_language_summary "브라우저 언어 변경">
 <!ENTITY pref_browser_locale "브라우저 언어">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "북마크">
 <!ENTITY overlay_share_reading_list_btn_label "읽기 목록에 추가">
+<!ENTITY overlay_share_bookmark_btn_label_already "이미 북마크 됨">
+<!ENTITY overlay_share_reading_list_btn_label_already "이미 읽기 목록에 있음">
 <!ENTITY overlay_share_send_other "다른 기기로 보내기">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "검색">
 <!ENTITY pref_category_search_summary "검색 엔진 커스터마이즈">
 <!ENTITY pref_category_display "디스플레이">
+<!ENTITY pref_category_display_summary "문자, 제목창, 전체 화면 브라우징">
 <!ENTITY pref_category_privacy_short "개인 정보">
+<!ENTITY pref_category_privacy_summary "암호, 쿠키, 추적, 데이터 설정">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "&brandShortName; 소개, FAQ, 데이터 선택">
 <!ENTITY pref_category_datareporting "데이터 선택">
 <!ENTITY pref_learn_more "더 알아보기">
 <!ENTITY pref_category_installed_search_engines "설치된 검색 엔진">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
 <!ENTITY pref_category_devtools "개발자 도구">
+<!ENTITY pref_category_devtools_summary "원격 디버깅, 그려진 자리 보이기">
 <!ENTITY pref_developer_paint_flashing "그려진 자리 보이기">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
 <!ENTITY pref_remember_signons "암호 저장">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "메뉴 숨기기">
 <!ENTITY pref_clear_private_data2 "지금 삭제">
 <!ENTITY pref_clear_private_data_category "개인 정보 삭제">
-<!ENTITY pref_clear_on_exit_title "종료 시 항상 삭제">
+<!ENTITY pref_clear_on_exit_title2 "종료 시 삭제">
 <!ENTITY pref_clear_on_exit_summary2 "주 메뉴를 통해 \u0022종료\u0022 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
 <!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
 <!ENTITY pref_plugins "플러그인">
@@ -205,8 +213,10 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
+<!ENTITY pref_sync_summary "탭, 북마크, 암호, 방문 이력 동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
-<!ENTITY pref_import_android "Android에서 가져오기">
+<!ENTITY pref_import_android "안드로이드에서 가져오기">
+<!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
 <!ENTITY pref_private_data_history2 "방문 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
 <!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
@@ -256,8 +266,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "오류 보고서">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 위치 기반 서비스">
-<!ENTITY datareporting_wifi_geolocation_summary "위치 기반 서비스의 품질 향상을 위하여 백그라운드에서 Wi-Fi와 셀룰러 위치 데이터를 수집하고 &vendorShortName;에 공유합니다.">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "위치 기반 서비스 품질 향상을 위해 대략적인 Wi-Fi와 셀룰러 위치 데이터를 &vendorShortName;에 공유합니다">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -291,7 +300,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY tabs_normal "탭">
 <!ENTITY tabs_private "사생활">
 <!ENTITY tabs_synced "동기화">
-<!ENTITY set_image_fail "이미지로 지정 실패">
+<!ENTITY set_image_fail "이미지 지정 실패">
+<!ENTITY set_image_path_fail "이미지 저장 실패">
 <!ENTITY set_image_chooser_title "이미지로 지정">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,32 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "&formatS;(으)로 이동">
 
+<!ENTITY home_remote_tabs_title "동기화 탭">
+<!ENTITY home_remote_tabs_empty "여기에 다른 기기의 탭들이 나타납니다.">
+<!ENTITY home_remote_tabs_unable_to_connect "연결 끊기">
+<!ENTITY home_remote_tabs_need_to_sign_in "Firefox 계정에 다시 연결하고 동기화하기 위해 로그인이 필요합니다.">
+<!ENTITY home_remote_tabs_trouble_verifying "계정을 확인하는데 문제가 있나요?">
+<!ENTITY home_remote_tabs_need_to_verify "동기화를 시작하기 위해 Firefox 계정 확인이 필요합니다.">
+<!ENTITY home_remote_tabs_one_hidden_device "숨겨진 기기 1대">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "숨겨진 기기 &formatD;대">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "숨겨진 기기들">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "선택한 기기 숨기기 취소">
+
 <!ENTITY private_browsing_title "사생활 보호 모드">
 <!ENTITY private_tabs_panel_empty_desc "여기에 사생활 탭이 나타납니다. 방문 이력, 쿠키, 북마크는 전혀 기록이 남지 않습니다. 단 직접 다운로드 받은 파일은 여러분의 기기에 저장됩니다.">
 <!ENTITY private_tabs_panel_learn_more "더 알고 싶은가요?">
+
+<!ENTITY remote_tabs_panel_moved_title "탭들이 어디로 갔나요?">
+<!ENTITY remote_tabs_panel_moved_desc "새로운 탭을 열 때 마다 쉽게 접근 할 수 있도록 탭들을 다른 기기에서 홈 페이지의 패널로 옮겼습니다.">
+<!ENTITY remote_tabs_panel_moved_link "새로운 패널로 데려다주세요.">
 
 <!ENTITY pin_site_dialog_hint "검색어를 입력하세요">
 
@@ -472,6 +505,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "&brandShortName;의 업데이트 있음">
 <!ENTITY updater_apply_select2 "업데이트">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "변경된 효과를 적용하기 위해 브라우저 재시작">
+<!ENTITY new_tablet_pref "새로운 태블릿 UI 활성화">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "새 손님 세션">
 <!ENTITY exit_guest_session "손님 세션 나가기">
@@ -479,6 +518,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "취소">
 <!ENTITY new_guest_session_title "&brandShortName;를 다시 시작합니다">
 <!ENTITY new_guest_session_text "손님은 기존의 저장된 암호, 방문내역, 북마크와 같은 개인 브라우징 정보를 볼 수 없게 됩니다.\n\n손님 세션이 종료되면, 손님의 브라우징 정보는 삭제되고 기존 세션으로 돌아갑니다.">
+<!ENTITY guest_browsing_notification_title "손님 브라우징 활성화">
+<!ENTITY guest_browsing_notification_text "나가기">
 
 <!ENTITY exit_guest_session_title "&brandShortName;를 다시 시작합니다">
 <!ENTITY exit_guest_session_text "이 세션의 브라우징 데이터는 모두 삭제됩니다.">

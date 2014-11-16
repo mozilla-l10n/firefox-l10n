@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; 검색'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint '&formatS; 검색'>
+
+<!ENTITY search_empty_title '&brandShortName; 검색'>
+<!ENTITY search_empty_message '원하는 것을 빠르게 검색'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description '검색창에 추가'>
+
+<!ENTITY search_pref_title '설정'>
+<!ENTITY search_pref_button_content_description '설정'>
+
+<!ENTITY pref_clearHistory_confirmation '기록 삭제'>
+<!ENTITY pref_clearHistory_dialogMessage '이 기기의 모든 검색 기기를 삭제하시겠습니까?'>
+<!ENTITY pref_clearHistory_title '검색 기록 삭제'>
+
+<!ENTITY pref_searchProvider_title '검색 엔진'>
+
+<!ENTITY search_widget_button_label '검색'>
+
+<!ENTITY network_error_title '인터넷 연결 안 됨'>
+<!ENTITY network_error_message '네트워크 설정 점검하기'>
