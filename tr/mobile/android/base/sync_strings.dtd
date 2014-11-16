@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "Oturum aç">
 <!ENTITY fxaccount_update_credentials_unknown_error "Oturum açılamadı">
 
-<!ENTITY fxaccount_status_header2 "Firefox hesabı">
+<!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan:">
 <!ENTITY fxaccount_status_auth_server "Hesap sunucusu">
 <!ENTITY fxaccount_status_device_name "Cihaz adı">
@@ -214,7 +214,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox Hesabı &formatS; kaldırıldı.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Hesabı sil">
+<!ENTITY fxaccount_remove_account_menu_item "Hesabı kaldır">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
