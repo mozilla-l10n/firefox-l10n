@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "বিপর্যয় প্রতিবেদক">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; অবস্থান পরিষেবা">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "&vendorShortName; এর সাথে আপনার ডিভাইসের ওয়াইফাই এবং সেলুলার অবস্থানের আনুমানিক তথ্য শেয়ার করে ভূ পরিষেবার মানোন্নয়ন করা হয়">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "সিঙ্ককরা হয়েছে">
 <!ENTITY set_image_fail "ছবি স্থাপন করা গেল না">
-
+<!ENTITY set_image_path_fail "ছবি সংরক্ষণ করা গেল না">
 <!ENTITY set_image_chooser_title "ছবিটি স্থাপন করুন এইভাবে">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -414,7 +414,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; অবধি">
 
 <!ENTITY home_remote_tabs_title "Synced Tabs">
-
+<!ENTITY home_remote_tabs_empty "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে প্রদর্শিত করা হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
 
 
