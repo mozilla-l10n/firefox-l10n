@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "Vsebina">
-<!ENTITY buildToc.label      "Izgradi vsebino iz:">
+<!ENTITY buildToc.label      "Izgradi kazalo vsebine iz:">
 <!ENTITY tag.label           "Oznaka:">
 <!ENTITY class.label         "Razred:">
-<!ENTITY header1.label       "Raven 1">
-<!ENTITY header2.label       "Raven 2">
-<!ENTITY header3.label       "Raven 3">
-<!ENTITY header4.label       "Raven 4">
-<!ENTITY header5.label       "Raven 5">
-<!ENTITY header6.label       "Raven 6">
-<!ENTITY makeReadOnly.label  "Nastavi kazalo na samo za branje">
-<!ENTITY orderedList.label   "Oštevilči vse postavke v kazalu">
+<!ENTITY header1.label       "1. raven">
+<!ENTITY header2.label       "2. raven">
+<!ENTITY header3.label       "3. raven">
+<!ENTITY header4.label       "4. raven">
+<!ENTITY header5.label       "5. raven">
+<!ENTITY header6.label       "6. raven">
+<!ENTITY makeReadOnly.label  "Nastavi kazalo vsebine na samo za branje">
+<!ENTITY orderedList.label   "Oštevilči vse vnose v kazalu vsebine">
