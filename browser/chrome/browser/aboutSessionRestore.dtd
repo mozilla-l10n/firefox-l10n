@@ -25,10 +25,14 @@
      not for about:sessionstore -->
 
 
+
+<!ENTITY welcomeback2.restoreButton  "Imo-mos-ne!">
+<!ENTITY welcomeback2.restoreButton.access "I">
+
 <!ENTITY welcomeback2.tabtitle      "Exito!">
 
 <!ENTITY welcomeback2.pageTitle     "Exito!">
-
+<!ENTITY welcomeback2.pageInfo1     "O &brandShortName; ye presto.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurar todas as finestras y pestanyas">
 <!ENTITY welcomeback2.label.restoreSome "Restaurar solo que as que quieras">
@@ -38,5 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "S'han eliminau os suyos complementos y personalizacions y os achustes d'o navegador s'han restaurau a las suyas valuras por defecto. Si isto no ha apanyau o problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "aquí puede trobar mas información sobre qué puede fer.">
