@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title "Opciones del iconu de l'aplicación">
+<!ENTITY window.macWidth "42em">
+<!ENTITY bounceSystemDockIcon.label "Animar l'iconu de l'aplicación cuando aporte un mensaxe nuevu">
+<!ENTITY bounceSystemDockIcon.accesskey "A">
+<!ENTITY newMessagesCountDock.label "Cuenta de mensaxes nuevos">
+<!ENTITY newMessagesCountDock.accesskey "C">
+<!ENTITY showAllUnreadMessagesCount.label "Cuenta de mensaxes non lleíos">
+<!ENTITY showAllUnreadMessagesCount.accesskey "u">
+<!ENTITY dockIconBadge.label "Insignia del iconu de l'aplicación">
+<!ENTITY dockIconShow.label "Iconu insignia d'aplicación con:">
