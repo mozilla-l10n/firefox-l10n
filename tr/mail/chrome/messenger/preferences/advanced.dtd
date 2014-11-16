@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto                      "Birini otomatik olarak seç">
-<!ENTITY certs.auto.accesskey            "m">
+
 <!ENTITY certs.ask                       "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey             "H">
 
+
+
 <!ENTITY viewCertificates.label         "Onay belgelerini göster">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY validation.label               "Doğrulama">
-<!ENTITY validation.accesskey           "D">
-<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
-<!ENTITY viewSecurityDevices.accesskey  "G">
+
+

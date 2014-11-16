@@ -5,14 +5,14 @@
 
 <!ENTITY captionMailContent.label "E-posta içeriği">
 
-<!ENTITY acceptRemoteContent.label "İletilerde uzaktan çekilen içeriğe izin ver">
-<!ENTITY acceptRemoteContent.accesskey "u">
+
 <!ENTITY remoteContentExceptions.label "Ayrıcalıklar…">
 <!ENTITY remoteContentExceptions.accesskey "c">
 <!ENTITY acceptRemoteContentInfo.label "Uzaktan içeriklerin gizlilik sorunları hakkında bilgi alın">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Web içeriği">
+
 
 <!ENTITY acceptCookies.label "Sitelerden çerez kabul et">
 <!ENTITY acceptCookies.accesskey "k">
