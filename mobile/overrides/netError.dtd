@@ -45,6 +45,16 @@
 <!ENTITY malformedURI.title "ঠিকানা বৈধ নয়">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>ওয়েব অ্যাড্রেস সাধারণত এরকমভাবে লেখা থাকে 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>অনুসন্ধান</button> 
+</div> 
+<li>forward slash ব্যবহার করছেন কিনা তা যাচাই করে নিন (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

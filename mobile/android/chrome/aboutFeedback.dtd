@@ -38,11 +38,11 @@
 <!ENTITY sad.header                "ওহহো!">
 <!ENTITY sad.message               "আমরা দুঃখিত যে &brandShortName; কে নিয়ে আপনি কিছু সমস্যায় পরেছেন। কি হয়েছে আমাদের জানান যাতে আমরা সমাধান বের করতে পারি।">
 <!ENTITY sad.placeholder           "এখানে আপনার প্রতিক্রিয়া জানান">
-
+<!ENTITY sad.lastSite2             "শেষ ভ্রমণ করা সাইট অন্তর্ভুক্ত করুন">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "ধন্যবাদ।">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -53,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "তা নাহলে">
 
+<!ENTITY feedback.privacy2         "গোপনীয়তার জন্য, দয়া করে আপনার মতামতে কোনো ব্যক্তিগতভাবে শনাক্তযোগ্য তথ্য অন্তর্ভুক্ত করবে না।">
 <!ENTITY feedback.send             "প্রতিক্রিয়া পাঠান">
