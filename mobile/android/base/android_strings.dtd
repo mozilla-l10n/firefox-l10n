@@ -144,6 +144,8 @@
 <!ENTITY pref_font_size_set "Usar">
 <!ENTITY pref_font_size_adjust_char "r">
 <!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
+<!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden autorreproducir vídeos y otro contenido de medios">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sincronizar sus pestañas, marcadores, contraseñas, historial">
@@ -310,6 +312,9 @@
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
+<!ENTITY loaded_tracking_content_message "Esta página rastrea su actividad en línea.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha bloqueado que esta página rastree su actividad en línea.">
+<!ENTITY blocked_tracking_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso cuando se bloquea el rastreo.">
 <!ENTITY learn_more "Saber más">
 <!ENTITY enable_protection "Activar protección">
 <!ENTITY disable_protection "Desactivar protección">
@@ -328,7 +333,6 @@
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
-<!ENTITY devtools_remote_debugging_forward "¡No olvide configurar el desvío de puerto (port forwarding)!">
 <!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_start_select2 "Pulse para descargar">
 <!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
@@ -354,3 +358,4 @@
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
+<!ENTITY find_matchcase "Aa">
