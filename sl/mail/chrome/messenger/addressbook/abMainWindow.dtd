@@ -167,13 +167,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY ChatName.label                                 "Ime za klepet">
 <!ENTITY ChatName.accesskey                             "k">
 <!ENTITY Company.label                                  "Organizacija">
-<!ENTITY Company.accesskey                              "z">
+<!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Vzdevek">
 <!ENTITY NickName.accesskey                             "V">
 <!ENTITY SecondEmail.label                              "Dodatna e-pošta">
-<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY SecondEmail.accesskey                          "D">
 <!ENTITY Department.label                               "Oddelek">
-<!ENTITY Department.accesskey                           "d">
+<!ENTITY Department.accesskey                           "e">
 <!ENTITY JobTitle.label                                 "Naziv">
 <!ENTITY JobTitle.accesskey                             "N">
 <!ENTITY CellularNumber.label                           "Mobilnik">
@@ -185,11 +185,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY HomePhone.label                                "Telefon doma">
 <!ENTITY HomePhone.accesskey                            "d">
 <!ENTITY WorkPhone.label                                "Telefon v službi">
-<!ENTITY WorkPhone.accesskey                            "l">
+<!ENTITY WorkPhone.accesskey                            "s">
 <!ENTITY sortAscending.label                            "Naraščajoče">
 <!ENTITY sortAscending.accesskey                        "N">
 <!ENTITY sortDescending.label                           "Padajoče">
-<!ENTITY sortDescending.accesskey                       "d">
+<!ENTITY sortDescending.accesskey                       "a">
 <!ENTITY _PhoneticName.label                            "Fonetično ime">
 <!ENTITY _PhoneticName.accesskey                        "o">
 <!-- Card Summary Pane -->
@@ -206,7 +206,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Naslovi">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Prikaži zemljevid">
-<!ENTITY mapIt.tooltip                                  "Pokaži zemljevid s spleta za ta naslov">
+<!ENTITY mapIt.tooltip                                  "Prikaži zemljevid za ta naslov s spleta">
 <!-- Status Bar -->
 
 <!ENTITY statusText.label "">
@@ -214,6 +214,6 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY windowMenu.label "Okno">
 <!ENTITY minimizeWindow.label "Pomanjšaj">
-<!ENTITY minimizeWindow.key "s">
+<!ENTITY minimizeWindow.key "P">
 <!ENTITY bringAllToFront.label "Vse v ospredje">
-<!ENTITY zoomWindow.label "Povečaj/pomanjšaj">
+<!ENTITY zoomWindow.label "Povečava">
