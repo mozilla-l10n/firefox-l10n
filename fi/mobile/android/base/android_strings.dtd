@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Asetukset">
 <!ENTITY pref_category_advanced "Lisäasetukset">
 <!ENTITY pref_category_customize "Muokkaa">
+<!ENTITY pref_category_customize_summary "Aloitus, haku, välilehdet, tuo">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Kieli">
+<!ENTITY pref_category_language_summary "Vaihda selaimen kieli">
 <!ENTITY pref_browser_locale "Selaimen kieli">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Lisää kirjanmerkki">
 <!ENTITY overlay_share_reading_list_btn_label "Lisää lukulistaan">
+<!ENTITY overlay_share_bookmark_btn_label_already "Kirjanmerkki on jo tehty">
+<!ENTITY overlay_share_reading_list_btn_label_already "Lisätty jo aiemmin lukulistalle">
 <!ENTITY overlay_share_send_other "Lähetä muihin laitteisiin">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Haku">
 <!ENTITY pref_category_search_summary "Muokkaa hakupalveluita">
 <!ENTITY pref_category_display "Näyttö">
+<!ENTITY pref_category_display_summary "Teksti, otsikko, kokonäyttöselaus">
 <!ENTITY pref_category_privacy_short "Tietosuoja">
+<!ENTITY pref_category_privacy_summary "Salasanat, evästeet, seuranta, selaustiedot">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Tietoja &brandShortName;isat, UKKt, tiedonkeruu">
 <!ENTITY pref_category_datareporting "Tietojen lähettäminen">
 <!ENTITY pref_learn_more "Lue lisää">
 <!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_devtools "Web-työkalut (englanninkielisiä)">
+<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Älä näytä valikkoa">
 <!ENTITY pref_clear_private_data2 "Poista nyt">
 <!ENTITY pref_clear_private_data_category "Poista yksityisyystiedot">
-<!ENTITY pref_clear_on_exit_title "Poista tiedot aina suljettaessa">
+<!ENTITY pref_clear_on_exit_title2 "Poista suljettaessa">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automaattisesti poistaa tiedot kun valitset \u0022Lopeta\u0022 päävalikosta">
 <!ENTITY pref_clear_on_exit_dialog_title "Valitse poistettavat tiedot">
 <!ENTITY pref_plugins "Liitännäiset">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synkronoi välilehdet, kirjanmerkit, salasanat, sivuhistoria">
 <!ENTITY pref_search_suggestions "Näytä hakuehdotukset">
 <!ENTITY pref_import_android "Tuo Androidista">
+<!ENTITY pref_import_android_summary "Tuo kirjanmerkit ja sivuhistoria järjestelmäselaimesta">
 <!ENTITY pref_private_data_history2 "Selaushistoria">
 <!ENTITY pref_private_data_formdata "Lomake- ja hakuhistoria">
 <!ENTITY pref_private_data_cookies2 "Evästeet ja aktiiviset kirjautumiset">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaatumisilmoitukset">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;n paikannuspalvelut">
-<!ENTITY datareporting_wifi_geolocation_summary "Vastaanottaa sijaintitietoja Wi-Fi- ja matkapuhelinverkoista kun ohjelma on käynnissä taustalla. Tiedot jaetaan &vendorShortName;n kanssa parantaaksemme paikannuspalvelujamme">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Wi-Fi- ja matkapuhelinverkoista saatu arvioitu sijaintitieto jaetaan &vendorShortName;n kanssa parantaaksemme paikannuspalvelujamme">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Yksityinen">
 <!ENTITY tabs_synced "Synkronoitu">
 <!ENTITY set_image_fail "Kuvan asettaminen epäonnistui">
+<!ENTITY set_image_path_fail "Kuvan tallentaminen epäonnistui">
 <!ENTITY set_image_chooser_title "Aseta kuva">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Edelliseen sijaintiin &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synkronoidut välilehdet">
+<!ENTITY home_remote_tabs_empty "Välilehdet muista laitteista näkyvät tässä.">
+<!ENTITY home_remote_tabs_unable_to_connect "Yhteyttä ei voitu muodostaa">
+<!ENTITY home_remote_tabs_need_to_sign_in "Kirjaudu sisään palauttaaksesi yhteyden Firefox-tiliisi ja jatkaaksesi synkrointia.">
+<!ENTITY home_remote_tabs_trouble_verifying "Ongelmia tilisi todentamisessa?">
+<!ENTITY home_remote_tabs_need_to_verify "Todenna Firefox-tilisi aloittaaksesi synkronoinnin.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 laite piilotettu">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; laitetta piilotettu">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Piilotetut laitteet">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Aseta esille valitut laitteet">
+
 <!ENTITY private_browsing_title "Yksityinen selaus">
 <!ENTITY private_tabs_panel_empty_desc "Yksityisen selauksen välilehdet näkyvät tässä. Vaikka emme säilytäkään selaushistoriaa tai evästeitä, uudet kirjanmerkit ja lataamasi tiedostot tallennetaan normaalisti.">
 <!ENTITY private_tabs_panel_learn_more "Lue lisää">
+
+<!ENTITY remote_tabs_panel_moved_title "Minne välilehteni hävisivät?">
+<!ENTITY remote_tabs_panel_moved_desc "Siirsimme välilehtesi muilta laitteilta paneeliin aloitussivulla, jotta pääset niihin käsiksi joka kerta kun avaat uuden välilehden.">
+<!ENTITY remote_tabs_panel_moved_link "Siirry uuteen paneelinäkymään.">
 
 <!ENTITY pin_site_dialog_hint "Kirjoita hakusana">
 
@@ -475,6 +509,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_apply_select2 "Päivitä hipaisemalla">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Käynnistä selain uudestaan toteuttaaksesi muutokset">
+<!ENTITY new_tablet_pref "Ota käyttöön uusi käyttöliittymä">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Uusi vierasistunto">
 <!ENTITY exit_guest_session "Lopeta vierasistunto">
@@ -482,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Peruuta">
 <!ENTITY new_guest_session_title "&brandShortName; käynnistyy uudestaan">
 <!ENTITY new_guest_session_text "Selaimen käyttäjä vierasistunnon aikana ei voi nähdä henkilökohtaisia selaustietojasi (kuten tallennettuja salasanoja, selaushistoriaa tai kirjanmerkkejä).\n\nKun vierastilan käyttö loppuu, sen aikana kertyneet selaustiedot poistetaan ja aikaisempi istunto palautetaan.">
+<!ENTITY guest_browsing_notification_title "Vierasistunto on käytössä">
+<!ENTITY guest_browsing_notification_text "Kosketa poistuaksesi">
 
 <!ENTITY exit_guest_session_title "&brandShortName; käynnistyy uudestaan">
 <!ENTITY exit_guest_session_text "Tämän istunnon selaustiedot poistetaan.">

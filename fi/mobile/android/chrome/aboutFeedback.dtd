@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "Palautetta &brandShortName;ista">
 
 <!ENTITY intro.header              "Onko sinulla minuutti aikaa?">
-<!ENTITY intro.message             "Kerro meille mielipiteesi &brandShortName;ista Android.">
+<!ENTITY intro.message             "Kerro meille mielipiteesi &brandShortName;ista Androidille.">
 <!ENTITY intro.happyLink           "Rakastan sitä">
 <!ENTITY intro.sadLink             "Ajauduin ongelmiin">
 <!ENTITY intro.maybeLater          "Ehkä myöhemmin">
@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Voit myös vierailla ">
-<!ENTITY support.link              "&brandShortName;in tukisivustolla">
-<!ENTITY support.post2             " jos haluat lisätietoja.">
+<!ENTITY support.pre3              "Vieraile ">
+<!ENTITY support.link2             "tukisivustollamme">
+<!ENTITY support.post3             " ja löydät vastauksia tavanomaisiin ongelmiin.">
 
 <!ENTITY happy.header              "Hieno juttu!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Ehkä myöhemmin">
 <!ENTITY happy.noThanks            "Ei kiitos">
 
-<!ENTITY sad.message               "Olemme pahoillamme, että yhteiselosi &brandShortName;in kanssa ei ole sujunut. Kerro meille, mikä meni vikaan, jotta voimme korjata sen tuleviin versioihin.">
+<!ENTITY sad.header                "Voi ei!">
+<!ENTITY sad.message               "Olemme pahoillamme, että yhteiselosi &brandShortName;in kanssa ei ole sujunut niin kuin pitäisi. Kerro meille, mikä meni vikaan, jotta voimme korjata sen tuleviin versioihin.">
 <!ENTITY sad.placeholder           "Kirjoita palautteesi tähän (englanniksi jos osaat sitä)">
-<!ENTITY sad.lastSite              "Viimeisin vierailtu sivusto (valinnainen)">
+<!ENTITY sad.lastSite2             "Liitä tieto viimeiseksi vieraillusta sivustosta">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Kiitos, että jaoit kokemuksesi.">
+<!ENTITY sad.thanksHeader2         "Kiitos.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Tai mörökölli meidät vieköön...">
 
-<!ENTITY feedback.privacy          "Varmistaaksesi yksityisyydensuojasi älä kirjoita antamaasi palautteeseen mitään sinut henkilökohtaisesti tunnistavia tietoja.">
+<!ENTITY feedback.privacy2         "Varmistaaksesi yksityisyydensuojasi älä kirjoita antamaasi palautteeseen mitään henkilökohtaisia tietoja.">
 <!ENTITY feedback.send             "Lähetä palaute">
