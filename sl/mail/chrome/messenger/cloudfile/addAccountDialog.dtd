@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title   "Nastavitev FileLink">
+<!ENTITY addAccountDialog.title   "Nastavite FileLink">
 <!ENTITY addAccountDialog.menuTitle "Izberite spletno storitev za shranjevanje podatkov">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Ime računa:">
@@ -9,5 +9,5 @@
 <!ENTITY addAccountDialog.createAccountText2 "Večje priponke lahko pošiljate s pomočjo ene od številnih spletnih storitev za shranjevanje podatkov. Uredite si v ta namen bodisi obstoječi račun, ali pa odprite novega.">
 <!ENTITY addAccountDialog.authorizing "Preverjanje dovoljenja ...">
 <!ENTITY addAccountDialog.error "Med odpiranjem računa je prišlo do napake!">
-<!ENTITY addAccountDialog.acceptButton.label "Uredite si račun">
+<!ENTITY addAccountDialog.acceptButton.label "Uredi si račun">
 <!ENTITY addAccountDialog.learnMore "Več o tem …">
