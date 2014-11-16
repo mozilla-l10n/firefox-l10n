@@ -32,7 +32,7 @@
 <!ENTITY healthReportDesc.label          "Li aduya a entender o rendimiento d'o suyo navegador y comparte datos con &vendorShortName; sobre a salut d'o suyo navegador">
 <!ENTITY enableHealthReport.label        "Activar l'informe de salut de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
-
+<!ENTITY healthReportLearnMore.label     "Ta saber-ne mas">
 
 <!ENTITY telemetrySection.label          "Telemetría">
 <!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizacions sobre o suyo navegador con &vendorShortName; ta aduyar a amillorar o &brandShortName;">
