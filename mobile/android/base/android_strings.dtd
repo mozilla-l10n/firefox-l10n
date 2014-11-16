@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
 <!ENTITY pref_clear_private_data2 "Tøm nå">
 <!ENTITY pref_clear_private_data_category "Slett private data">
-<!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutning">
+<!ENTITY pref_clear_on_exit_title2 "Slett ved avslutning">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \u0022Avslutt\u0022 fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_plugins "Programtillegg">
