@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li> এরকম কোন বানান ভুল হয়েছে কিনা তা অ্যাড্রেসের সাথে মিলিয়ে নিন 
+<strong>ww</strong>.example.com দিয়েছেন কিনা এইটার পরিবর্তে 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>অনুসন্ধান</button> 
+</div> 
+<li>আপনি যদি কোন পেজ লোড করতে সক্ষম না হন তাহলে, আপনার ডিভাইসের ডেটা এবং ওয়াইফাই কানেকশান পরীক্ষা করে নিন। 
+<button id='wifi'>ওয়াইফাই চালু করুন</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> 

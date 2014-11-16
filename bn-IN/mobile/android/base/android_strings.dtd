@@ -416,25 +416,30 @@ size. -->
 <!ENTITY home_remote_tabs_title "Synced Tabs">
 <!ENTITY home_remote_tabs_empty "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে প্রদর্শিত করা হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
+<!ENTITY home_remote_tabs_need_to_sign_in "আপনার ফায়ারফক্স অ্যাকাউন্ট এর সাথে আবার সংযোগ স্থাপন করে সিঙ্কিং চালিয়ে যেতে হলে দয়া করে সাইন ইন করুন।">
+<!ENTITY home_remote_tabs_trouble_verifying "আপনার অ্যাকাউন্ট যাঁচাই করতে সমস্যার সম্মুখীন হচ্ছেন?">
+<!ENTITY home_remote_tabs_need_to_verify "সিঙ্ক শুরু করতে হলে আপনার ফায়ারফক্স অ্যাকাউন্ট যাঁচাই করে নিন।">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 টি গোপন ডিভাইস আছে">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; গুলি ডিভাইস গোপন">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "গোপন ডিভাইসগুলি">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস গুলি প্রকাশ করুন">
 
 <!ENTITY private_browsing_title "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
 <!ENTITY private_tabs_panel_empty_desc "আপনার ব্যক্তিগত ট্যাবগুলি এখানে দেখাবে। যদিও আমরা আপনার ব্রাউজিং ইতিহাস অথবা কুকিসমূহ, বুকমার্কসমূহ এবং ডাউনলোড করা ফাইল গুলি সংরক্ষণ করি না তবুও সেগুলি আপনার ডিভাইসে সংরক্ষিত থাকবে।">
 <!ENTITY private_tabs_panel_learn_more "আরো জানতে চান?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "আমার ট্যাবগুলো কোথায় গেল?">
+<!ENTITY remote_tabs_panel_moved_desc "আমরা আপনার হোম পেজে একটি প্যানেলের মধ্যে অন্যান্য ডিভাইস থেকে আপনার ট্যাব স্থানান্তরিত করেছি যাতে করে সহজেই আপনি একটি নতুন ট্যাব খোলার সময় সেগুলো ব্যবহার করতে পারেন।">
+<!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
 
 <!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
 
@@ -506,6 +511,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "পরিবর্তন গুলি পেতে হলে ব্রাউজার রিস্টার্ট করুন">
+<!ENTITY new_tablet_pref "নতুন ট্যাবলেট UI সক্রিয় করুন">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "নতুন গেস্ট সেশন">
