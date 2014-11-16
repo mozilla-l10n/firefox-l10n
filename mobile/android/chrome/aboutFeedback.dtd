@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "더 자세히 알고 싶으시면">
-<!ENTITY support.link              "&brandShortName; 고객 지원">
-<!ENTITY support.post2             "을 방문해 주십시오.">
+<!ENTITY support.pre3              "더 자세히 알고 싶으시면 ">
+<!ENTITY support.link2             "고객 지원 사이트">
+<!ENTITY support.post3             "를 방문해 주십시오.">
 
 <!ENTITY happy.header              "정말 좋아요!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "나중에">
 <!ENTITY happy.noThanks            "아니오">
 
+<!ENTITY sad.header                "이럴수가!">
 <!ENTITY sad.message               "&brandShortName;에 문제가 있어 죄송합니다. 문제 해결을 위해서 어떠한 문제가 일어났는지 가르쳐 주세요.">
 <!ENTITY sad.placeholder           "여기에 당신의 의견을 입력해 주세요!">
-<!ENTITY sad.lastSite              "마지막 방문한 사이트 (임의)">
+<!ENTITY sad.lastSite2             "마지막 방문 사이트 포함">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "알려 주셔서 감사합니다.">
+<!ENTITY sad.thanksHeader2         "감사합니다..">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people"  We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "개인 정보 보호 때문에 의견 속에 어떠한 개인정보도 포함하지 않기를 부탁합니다.">
+<!ENTITY feedback.privacy2         "사생활 보호를 위해, 의견에 개인 정보가 포함되는 일은 삼가 부탁드립니다.">
 <!ENTITY feedback.send             "의견 보내기">

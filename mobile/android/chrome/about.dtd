@@ -16,3 +16,7 @@
 <!ENTITY aboutPage.checkForUpdates.downloading  "업데이트 다운로드 중…">
 <!ENTITY aboutPage.license.label 				"라이선스 정보">
 <!ENTITY aboutPage.checkForUpdates.link         "최신 버전 확인">
+
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox와 Firefox 로고는 Mozilla 재단의 상표입니다.">
+
