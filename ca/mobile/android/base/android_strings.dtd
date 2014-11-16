@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Ja és a les adreces d\u0027interès">
+<!ENTITY overlay_share_reading_list_btn_label_already "Ja és a la llista de lectura">
 <!ENTITY overlay_share_send_other "Envia a altres dispositius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
 <!ENTITY pref_category_display "Visualització">
-
+<!ENTITY pref_category_display_summary "Text, barra de títol, navegació a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privadesa">
-
+<!ENTITY pref_category_privacy_summary "Controla contrasenyes, galetes, seguiment, dades">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "Quant al &brandShortName;, PMF, elecció de dades">
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_learn_more "Més informació">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
-
+<!ENTITY pref_category_devtools_summary "Depuració remota, ressaltat de l\u0027àrea actualitzada">
 <!ENTITY pref_developer_paint_flashing "Ressalta l\u0027àrea actualitzada">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary "Sincronitza pestanyes, adreces d\u0027interès, contrasenyes, historial">
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
-
+<!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_formdata "Formularis i historial de cerca">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
@@ -413,27 +413,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Torna a &formatS;">
 
-
+<!ENTITY home_remote_tabs_title "Pestanyes sincronitzades">
+<!ENTITY home_remote_tabs_empty "Aquí es mostren les pestanyes d\u0027altres dispositius.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha pogut connectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "Inicieu la sessió per tornar-vos a connectar al compte del Firefox i continuar la sincronització.">
+<!ENTITY home_remote_tabs_trouble_verifying "Teniu problemes per verificar el vostre compte?">
+<!ENTITY home_remote_tabs_need_to_verify "Verifiqueu el compte del Firefox per iniciar la sincronització.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 dispositiu ocult">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositius ocults">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispositius ocults">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Mostra els dispositius seleccionats">
 
 <!ENTITY private_browsing_title "Navegació privada">
 <!ENTITY private_tabs_panel_empty_desc "Aquí es mostren les pestanyes privades. Tot i que no es conservaran ni l\u0027historial de navegació ni les galetes, sí que es desaran al dispositiu les adreces d\u0027interès i els fitxers que baixeu.">
 <!ENTITY private_tabs_panel_learn_more "Voleu més informació?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "On són les meves pestanyes?">
+<!ENTITY remote_tabs_panel_moved_desc "Hem mogut les vostres pestanyes dels altres dispositius a una subfinestra de la pàgina d\u0027inici, a la qual podeu accedir fàcilment sempre que obriu una pestanya nova.">
+<!ENTITY remote_tabs_panel_moved_link "Vés a la subfinestra nova.">
 
 <!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
@@ -505,6 +511,9 @@ de l\u0027Android">
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "Reinicieu el navegador per aplicar els canvis">
+<!ENTITY new_tablet_pref "Activa la interfície nova de tauleta">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessió de convidat">
@@ -513,8 +522,8 @@ de l\u0027Android">
 <!ENTITY guest_session_dialog_cancel "Cancel·la">
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY new_guest_session_text "La persona que l\u0027utilitzi no podrà veure cap de les dades de navegació personals (com les contrasenyes desades, l\u0027historial o les adreces d\u0027interès).\n\nQuan el convidat hagi acabat, se suprimiran les seves dades de navegació i es restaurarà la vostra sessió.">
-
-
+<!ENTITY guest_browsing_notification_title "S\u0027ha activat la navegació en mode de convidat">
+<!ENTITY guest_browsing_notification_text "Toqueu per sortir">
 
 <!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">
