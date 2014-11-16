@@ -8,22 +8,22 @@
 
 
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Meni nedavne strani">
+<!ENTITY  recentFiles.title             "Meni nedavnih strani">
 <!ENTITY  documentsInMenu.label         "Največje število strani na seznamu:">
 <!ENTITY  documentsInMenu.accesskey     "s">
 <!ENTITY  savingFiles.title             "Ob shranjevanju ali objavljanju strani">
 <!ENTITY  preserveExisting.label        "Ohrani prvotno oblikovanje izvora">
 <!ENTITY  preserveExisting.accesskey    "O">
 <!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
-<!ENTITY  saveAssociatedFiles.label     "Ob shranjevanju strani shrani slike in druge povezane datoteke ">
+<!ENTITY  saveAssociatedFiles.label     "Ob shranjevanju strani shrani slike in druge povezane datoteke">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno prikaži pogovorno okno Objavi">
 <!ENTITY  showPublishDialog.accesskey   "M">
 <!ENTITY  composerEditing.label         "Urejanje">
-<!ENTITY  maintainStructure.label       "Med vstavljanjem ali brisanjem celic obdrži obliko tabele">
-<!ENTITY  maintainStructure.tooltip     "Med vstavljanjem ali brisanjem celic ohranjuje pravokotno obliko tabele">
+<!ENTITY  maintainStructure.label       "Med vstavljanjem ali brisanjem celic obdrži razporeditev tabele">
+<!ENTITY  maintainStructure.tooltip     "S samodejnim dodajanjem celic po njihovim vstavljanjem ali brisanjem ohranjuje pravokotno obliko tabele">
 <!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Uporabi sloge CSS namesto elementov in prilastkov HTML">
+<!ENTITY  useCSS.label                  "Uporabi sloge CSS namesto elementov in atributov HTML">
 <!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Nova vrsta v odstavku vedno ustvari nov odstavek.">
+<!ENTITY  crInPCreatesNewP.label        "Nova vrsta v odstavku vedno ustvari nov odstavek">
 <!ENTITY  crInPCreatesNewP.accesskey    "e">

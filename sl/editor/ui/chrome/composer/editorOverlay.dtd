@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "V">
 <!ENTITY insertLinkCmd.label "Povezavo …">
 <!ENTITY insertLinkCmd.accesskey "P">
-<!ENTITY insertLinkCmd.key "P ">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Sidro z imenom …">
 <!ENTITY insertAnchorCmd.accesskey "d">
 <!ENTITY insertImageCmd.label "Sliko …">
@@ -44,13 +44,13 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znake in simbole …">
 <!ENTITY insertCharsCmd.accesskey "Z">
-<!ENTITY insertBreakAllCmd.label "Prelomi pod sliko/slikami">
+<!ENTITY insertBreakAllCmd.label "Prelomi pod slikami">
 <!ENTITY insertBreakAllCmd.accesskey "r">
 <!-- Used just in context popup. -->
 
 <!ENTITY createLinkCmd.label "Ustvari povezavo …">
 <!ENTITY createLinkCmd.accesskey "U">
-<!ENTITY editLinkCmd.label "Uredi povezavo v novem Sestavljalniku">
+<!ENTITY editLinkCmd.label "Uredi povezavo v novem sestavljalniku">
 <!ENTITY editLinkCmd.accesskey "U">
 <!-- Font Face SubMenu -->
 
@@ -110,7 +110,7 @@
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Podčrtano">
 <!ENTITY styleUnderlineCmd.accesskey "P">
-<!ENTITY styleUnderlineCmd.key "d">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
 <!ENTITY styleStrikeThruCmd.accesskey "r">
 <!ENTITY styleSuperscriptCmd.label "Nadpisano">
@@ -141,27 +141,27 @@
 <!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice …">
 <!ENTITY tableOrCellColor.accesskey "B">
 
-<!ENTITY formatRemoveStyles.key "D">
+<!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Odstrani sidra z imenom">
 <!ENTITY formatRemoveNamedAnchors.accesskey "O">
-<!ENTITY formatRemoveNamedAnchors2.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Odstavek">
 <!ENTITY paragraphMenu.accesskey "d">
 <!ENTITY paragraphParagraphCmd.label "Odstavek">  
 <!ENTITY paragraphParagraphCmd.accesskey "O">
-<!ENTITY heading1Cmd.label "Glava 1">
+<!ENTITY heading1Cmd.label "Naslov 1">
 <!ENTITY heading1Cmd.accesskey "1">
-<!ENTITY heading2Cmd.label "Glava 2">
+<!ENTITY heading2Cmd.label "Naslov 2">
 <!ENTITY heading2Cmd.accesskey "2">
-<!ENTITY heading3Cmd.label "Glava 3">
+<!ENTITY heading3Cmd.label "Naslov 3">
 <!ENTITY heading3Cmd.accesskey "3">
-<!ENTITY heading4Cmd.label "Glava 4">
+<!ENTITY heading4Cmd.label "Naslov 4">
 <!ENTITY heading4Cmd.accesskey "4">
-<!ENTITY heading5Cmd.label "Glava 5">
+<!ENTITY heading5Cmd.label "Naslov 5">
 <!ENTITY heading5Cmd.accesskey "5">
-<!ENTITY heading6Cmd.label "Glava 6">
+<!ENTITY heading6Cmd.label "Naslov 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Naslov">
 <!ENTITY paragraphAddressCmd.accesskey "N">
@@ -181,8 +181,8 @@
 <!ENTITY listTermCmd.accesskey "z">
 <!ENTITY listDefinitionCmd.label "Določilo">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Nastavitve seznama ...">
-<!ENTITY listPropsCmd.accesskey "N">
+<!ENTITY listPropsCmd.label "Lastnosti seznama ...">
+<!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Izberite obliko odstavka">
 <!-- Shared in Paragraph, and Toolbar menulist -->
@@ -198,8 +198,8 @@
 <!ENTITY alignLeft.label "Levo">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Poravnaj levo">
-<!ENTITY alignCenter.label "Sredina">
-<!ENTITY alignCenter.accesskey "S">
+<!ENTITY alignCenter.label "Na sredino">
+<!ENTITY alignCenter.accesskey "N">
 <!ENTITY alignCenter.tooltip "Poravnaj na sredino">
 <!ENTITY alignRight.label "Desno">
 <!ENTITY alignRight.accesskey "D">
@@ -294,7 +294,7 @@
 <!ENTITY pasteToolbarCmd.tooltip "Prilepi">
 <!ENTITY printToolbarCmd.label "Natisni">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">
-<!ENTITY findToolbarCmd.label "Poišči">
+<!ENTITY findToolbarCmd.label "Najdi">
 <!ENTITY findToolbarCmd.tooltip "Poišči besedilo v strani">
 <!ENTITY spellToolbarCmd.label "Črkuj">
 <!ENTITY spellToolbarCmd.tooltip "Preveri črkovanje besedila v izbiri ali na celotni strani">
@@ -307,7 +307,7 @@
 <!ENTITY linkToolbarCmd.label "Povezava">
 <!ENTITY linkToolbarCmd.tooltip "Vstavi novo povezavo ali uredi lastnosti izbrane povezave">
 <!ENTITY anchorToolbarCmd.label "Sidro">
-<!ENTITY anchorToolbarCmd.tooltip "Vstavi novo sidro ali uredi lastnosti izbranega sidra">
+<!ENTITY anchorToolbarCmd.tooltip "Vstavi novo sidro z imenom ali uredi lastnosti izbranega sidra">
 <!ENTITY TextColorButton.tooltip "Izberi barvo besedila">
 <!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
@@ -324,7 +324,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
 <!ENTITY AlignPopupButton.tooltip "Izberi zamik besedila">
-<!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, sidro, sliko vodoravno črto ali tabelo">
+<!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, sidro, sliko, vodoravno črto ali tabelo">
 <!ENTITY alignLeftButton.tooltip "Poravnaj besedilo na levi rob">
 <!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredino">
 <!ENTITY alignRightButton.tooltip "Poravnaj besedilo na desni rob">

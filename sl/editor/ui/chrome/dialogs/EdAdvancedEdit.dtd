@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY WindowTitle.label              "Napreden urejevalnik lastnosti">
-<!ENTITY AttName.label                  "Prilastek: ">
+<!ENTITY WindowTitle.label              "Napredni urejevalnik lastnosti">
+<!ENTITY AttName.label                  "Atribut: ">
 <!ENTITY AttValue.label                 "Vrednost: ">
 <!ENTITY PropertyName.label             "Lastnost: ">
-<!ENTITY currentattributesfor.label     "Trenutni prilastki za: ">
-<!ENTITY tree.attributeHeader.label     "Prilastek">
+<!ENTITY currentattributesfor.label     "Trenutni atributi za: ">
+<!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Lastnost">
 <!ENTITY tree.valueHeader.label         "Vrednost">
-<!ENTITY tabHTML.label                  "Prilastki HTML">
-<!ENTITY tabCSS.label                   "Notranji (Inline) slog">
-<!ENTITY tabJSE.label                   "JavaScript dogodki">
+<!ENTITY tabHTML.label                  "Atributi HTML">
+<!ENTITY tabCSS.label                   "Slog v besedilu">
+<!ENTITY tabJSE.label                   "Dogodki JavaScript">
 
-<!ENTITY editAttribute.label    "Kliknite na predmet zgoraj, če želite spremeniti njegovo vrednost">
+<!ENTITY editAttribute.label    "Za urejanje zgornjega predmeta kliknite na njegovo vrednost">
 <!ENTITY removeAttribute.label  "Odstrani">
