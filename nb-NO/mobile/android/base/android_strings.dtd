@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Innstillinger">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
+<!ENTITY pref_category_customize_summary "Hjem, søk, faner, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Språk">
+<!ENTITY pref_category_language_summary "Endre språket til nettleseren">
 <!ENTITY pref_browser_locale "Nettleserspråk">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
 <!ENTITY overlay_share_reading_list_btn_label "Legg til i leselisten">
+<!ENTITY overlay_share_bookmark_btn_label_already "Er allerede i bokmerker">
+<!ENTITY overlay_share_reading_list_btn_label_already "Er allerede i leselisten">
 <!ENTITY overlay_share_send_other "Send til annen enhet">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary "Tilpass søketilbydere">
 <!ENTITY pref_category_display "Visning">
+<!ENTITY pref_category_display_summary "Tekst, tittellinje, nettlesing i fullskjerm">
 <!ENTITY pref_category_privacy_short "Personvern">
+<!ENTITY pref_category_privacy_summary "Behandle passord, infokapsler, sporing og data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, OSS og datavalg">
 <!ENTITY pref_category_datareporting "Datavalg">
 <!ENTITY pref_learn_more "Les mer">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Legg til et nettsted som søketilbyder ved å lang-trykke på søkefeltet og deretter velge &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utviklerverktøy">
+<!ENTITY pref_category_devtools_summary "Ekstern feilsøking og markering av skjermtegning">
 <!ENTITY pref_developer_paint_flashing "Markering av skjermtegning">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_remember_signons "Husk passord">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Synkroniser faner, bokmerker, passord og historikk">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
+<!ENTITY pref_import_android_summary "Importer bokmerker og historikk fra den opprinnelige nettleseren">
 <!ENTITY pref_private_data_history2 "Nettleserhistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapsler og aktive innlogginger">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; stedstjeneste">
-<!ENTITY datareporting_wifi_geolocation_summary "Mottar Wi-Fi og mobilnett-info når den kjører i bakgrunnen, og deler det med &vendorShortName; for å forbedre vår geolokasjon-tjeneste">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Deler omtrentlig Wi-Fi og mobilnett-posisjon for enheten din med &vendorShortName; for å forbedre vår geolokasjon-tjeneste">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
 <!ENTITY set_image_fail "Klarte ikke sette bilde">
+<!ENTITY set_image_path_fail "Klarte ikke lagre bilde">
 <!ENTITY set_image_chooser_title "Sett bilde som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Opp til &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synkroniserte faner">
+<!ENTITY home_remote_tabs_empty "Faner fra andre enheter vises her.">
+<!ENTITY home_remote_tabs_unable_to_connect "Klarte ikke koble til">
+<!ENTITY home_remote_tabs_need_to_sign_in "Logg inn for å koble til Firefox-kontoen din på nytt og fortsette synkronisering.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problem med bekreftelse av kontoen?">
+<!ENTITY home_remote_tabs_need_to_verify "Kontroller Firefox-kontoen din for å starte synkroniseringen.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 enhet skjult">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; enheter skjult">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Skjulte enheter">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Opphev skjuling av enheter">
+
 <!ENTITY private_browsing_title "Privat nettlesing">
 <!ENTITY private_tabs_panel_empty_desc "Dine private faner vil vises her. Selv om nettleserhistorikk eller infokapsler ikke lagres, vil bokmerker og filer du laster ned fortsatt lagres på enheten.">
 <!ENTITY private_tabs_panel_learn_more "Vil du lese mer?">
+
+<!ENTITY remote_tabs_panel_moved_title "Hvor forsvant fanene mine?">
+<!ENTITY remote_tabs_panel_moved_desc "Vi har flyttet fanene dine fra andre enheter til et panel på startsiden, som du enkelt kan få tilgang til hver gang du åpner en ny fane.">
+<!ENTITY remote_tabs_panel_moved_link "Ta meg med til det nye panelet.">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn et søkeord">
 
@@ -475,6 +509,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatere">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Start nettleseren på nytt for å ta i bruk endringene">
+<!ENTITY new_tablet_pref "Slå på nytt nettbrett-UI">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gjesteøkt">
 <!ENTITY exit_guest_session "Avslutt gjesteøkt">
@@ -482,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; vil nå starte på nytt">
 <!ENTITY new_guest_session_text "Personen som bruker den vil ikke se noen av dine nettleserdata (som lagrede passord, historikk eller bokmerker).\n\nNår gjesten er ferdig vil deres nettleserdata slettes, og din nettleserøkt vil gjenopprettes.">
+<!ENTITY guest_browsing_notification_title "Gjestenettlesing er påslått">
+<!ENTITY guest_browsing_notification_text "Trykk for å avslutte">
 
 <!ENTITY exit_guest_session_title "&brandShortName; vil nå starte på nytt">
 <!ENTITY exit_guest_session_text "Nettleserdata fra denne økten vil bli slettet.">
