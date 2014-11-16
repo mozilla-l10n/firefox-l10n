@@ -11,18 +11,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nuk arrin të lidhet">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
-<!ENTITY dnsNotFound.longDesc2 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
-  <li>Kontrolloni adresën për gabime shkrimi si, p.sh.
+  <li>Kontrolloni adresën për gabime shkrimi si, p.sh.,
     <strong>ww</strong>.shembull.com në vend të
     <strong>www</strong>.shembull.com</li>
-  <li>>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen tuaj Wi-Fi.</li>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen tuaj Wi-Fi..
+    <button id='wifi'>Aktivizoni Wi-Fi-n</button>
+  </li>
 </ul>
 ">
 
@@ -50,12 +52,14 @@
 ">
 
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Riprovojeni. &brandShortName;-i do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.</li>
+  <li>Riprovojeni. &brandShortName;-i do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.
+    <button id='wifi'>Aktivizoni Wi-Fi-n</button>
+  </li>
 </ul>
 ">
 
@@ -77,10 +81,10 @@
 ">
 
 <!ENTITY netReset.title "Lidhja u rivendos">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nuk u kuptua">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -98,10 +102,12 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Nuk arrin të gjejë shërbyesin ndërmjetës">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
-  <li>Kontrolloni për t&apos;u siguruar që pajisja juaj ka të dhëna funksionimi ose lidhje Wi-Fi.</li>
+  <li>Kontrolloni për t&apos;u siguruar që pajisja juaj ka lidhje funksionale të dhënash ose Wi-Fi.
+    <button id='wifi'>Aktivizoni Wi-Fi-n</button>
+  </li>
 </ul>
 ">
 
@@ -121,10 +127,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Faqja që po provoni të shihni nuk shihet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u bërë të ditur këtë problem. Rrugë tjetër: përdorni urdhrin që gjendet te menuja e ndihmës, për të njoftuar këtë sajt problematik.</li>
+  <li>Faqja që po provoni të shihni nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -136,10 +142,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>Sajti mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.</li>
-  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen Wi-Fi.</li>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen e pajisjes suaj për të dhëna ose lidhjen Wi-Fi.
+    <button id='wifi'>Aktivizoni Wi-Fi-n</button>
+  </li>
 </ul>
 ">
 

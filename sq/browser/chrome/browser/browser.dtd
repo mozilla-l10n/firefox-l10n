@@ -578,14 +578,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mbylleni anështyllën">
-<!ENTITY quitApplicationCmdWin.label       "Dil"> 
+<!ENTITY quitApplicationCmdWin.label       "Dilni"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "D">
 <!ENTITY quitApplicationCmdWin.tooltip     "Dilni nga &brandShortName;-i">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Dil"> 
+<!ENTITY quitApplicationCmd.label       "Dilni"> 
 <!ENTITY quitApplicationCmd.accesskey   "l">
-<!ENTITY quitApplicationCmdMac.label    "Dil prej &brandShortName;-it">
+<!ENTITY quitApplicationCmdMac.label    "Dilni prej &brandShortName;-it">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
