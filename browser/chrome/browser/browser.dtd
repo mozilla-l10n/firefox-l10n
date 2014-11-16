@@ -753,7 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Deler av siden som sporer aktiviteten din på nettet er blokkert.">
 <!ENTITY trackingContentBlocked.learnMore "Les mer">
 <!ENTITY trackingContentBlocked.options "Innstillinger">
-<!ENTITY trackingContentBlocked.unblock.label2 "Slå av beskyttelse for dette nettstedet">
+<!ENTITY trackingContentBlocked.unblock2.label "Slå av beskyttelse for dette nettstedet">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "S">
 <!ENTITY trackingContentBlocked.block.label "Slå på beskyttelse">
 <!ENTITY trackingContentBlocked.block.accesskey "l">

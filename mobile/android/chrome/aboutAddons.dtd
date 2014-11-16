@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Utvidelser">
 <!ENTITY aboutAddons.header2                    "Utvidelser">
 <!ENTITY aboutAddons.options                    "Innstillinger">
-<!ENTITY aboutAddons.browseAll                  "Bla gjennom alle Firefox-utvidelser">
 
 <!ENTITY addonAction.enable                     "Slå på">
 <!ENTITY addonAction.disable                    "Slå av">
