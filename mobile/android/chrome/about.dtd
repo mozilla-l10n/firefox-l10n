@@ -17,9 +17,5 @@
 <!ENTITY aboutPage.credits.label                "Falënderime">
 <!ENTITY aboutPage.license.label                "Të dhëna Lejimi">
 
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox-i dhe logot e Firefox-it janë shenja tregtare të Mozilla Foundation-it.">
