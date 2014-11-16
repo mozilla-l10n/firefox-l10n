@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "lähtestatakse brauseri sätted vaikeväärtustele">
 <!ENTITY refreshProfile.dialog.button.label  "Värskenda &brandShortName;">
 
-<!ENTITY refreshProfile.title                "Anna &brandShortName;ile uus algus">
+<!ENTITY refreshProfile.title                "Alusta &brandShortName;iga puhtalt lehelt">
 <!ENTITY refreshProfile.button.label         "Värskenda &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Peaaegu valmis…">

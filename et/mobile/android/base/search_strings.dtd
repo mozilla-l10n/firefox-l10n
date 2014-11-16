@@ -9,7 +9,7 @@
 <!ENTITY search_bar_hint                        'Otsi otsingumootoriga &formatS;'>
 
 <!ENTITY search_empty_title                     '&brandShortName;i otsing'>
-<!ENTITY search_empty_message                   'Otsi kiiresti mida iganes soovid'>
+<!ENTITY search_empty_message                   'Otsi kiiresti kõike vajalikku'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
