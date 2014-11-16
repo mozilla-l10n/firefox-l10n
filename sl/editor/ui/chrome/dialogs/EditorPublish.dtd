@@ -47,19 +47,19 @@
 <!ENTITY loginInfo.label              "Podatki za prijavo">
 <!ENTITY siteName.label               "Ime spletne strani:">
 <!ENTITY siteName.accesskey           "s">
-<!ENTITY siteName.tooltip             "Vzdevek, ki istoveti to spletno mesto za objavo (npr.: 'MojSplet')">
-<!ENTITY siteUrl.label                "Naslov za objavo(e.g.: 'ftp://ftp.myisp.com/mojeime'):">
+<!ENTITY siteName.tooltip             "Vzdevek za prepoznavo te spletne strani objave (npr.: 'MojSplet')">
+<!ENTITY siteUrl.label                "Naslov za objavo (e.g.: 'ftp://ftp.myisp.com/mojeime'):">
 <!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ISP ali ponudnika spletnih storitev">
-<!ENTITY browseUrl.label              "HTTP naslov vaše spletne strani(npr.: 'http://www.myisp.com/mojeime'):">
+<!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ISP-ja ali storitve spletnega gostovanja">
+<!ENTITY browseUrl.label              "Naslov HTTP vaše domače strani (npr.: 'http://www.myisp.com/mojeime'):">
 <!ENTITY browseUrl.accesskey          "r">
-<!ENTITY browseUrl.tooltip            "Naslov HTTP:// vašega domačega imenika (ne vključujte imena datoteke)">
+<!ENTITY browseUrl.tooltip            "Naslov HTTP:// vaše domače mape (ne vključite imena datoteke)">
 <!ENTITY username.label               "Uporabniško ime:">
 <!ENTITY username.accesskey           "U">
-<!ENTITY username.tooltip             "Uporabniško ime, s katerim se prijavljate pri svojem ISP ali ponudniku spletnih storitev">
+<!ENTITY username.tooltip             "Uporabniško ime, s katerim se prijavljate pri svojem ISP-ju ali storitvi spletnega gostovanja">
 <!ENTITY password.label               "Geslo:">
 <!ENTITY password.accesskey           "w">
 <!ENTITY password.tooltip             "Geslo, ki je povezano z vašim uporabniškim imenom">
 <!ENTITY savePassword.label           "Shrani geslo">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Izberite, da svoje geslo varno shranite s pomočjo Upravitelja gesel">
+<!ENTITY savePassword.tooltip         "Izberite varno shranjevanje gesla z uporabo Upravitelja gesel">

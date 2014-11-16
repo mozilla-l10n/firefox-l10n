@@ -14,8 +14,8 @@
 <!ENTITY tableColumns.accessKey           "S">
 <!ENTITY tableHeight.label                "Višina:">
 <!ENTITY tableHeight.accessKey            "V">
-<!ENTITY tableWidth.label                 "Dolžina:">
-<!ENTITY tableWidth.accessKey             "D">
+<!ENTITY tableWidth.label                 "Širina:">
+<!ENTITY tableWidth.accessKey             "Š">
 <!ENTITY tableBorderSpacing.label         "Robovi in razmik">
 <!ENTITY tableBorderWidth.label           "Rob:">
 <!ENTITY tableBorderWidth.accessKey       "b">
@@ -27,14 +27,14 @@
 <!ENTITY tablePxBetwBrdrCellContent.label "slikovnih točk med robom celice in vsebino">
 <!ENTITY tableAlignment.label             "Poravnava tabele:">
 <!ENTITY tableAlignment.accessKey         "P">
-<!ENTITY tableCaption.label               "Naslov:">
+<!ENTITY tableCaption.label               "Napis:">
 <!ENTITY tableCaption.accessKey           "N">
 <!ENTITY tableCaptionAbove.label          "Nad tabelo">
 <!ENTITY tableCaptionBelow.label          "Pod tabelo">
 <!ENTITY tableCaptionLeft.label           "Levo od tabele">
 <!ENTITY tableCaptionRight.label          "Desno od tabele">
-<!ENTITY tableCaptionNone.label           "Nič">
-<!ENTITY tableInheritColor.label           "(Naj bo prozorna za barvo strani)">
+<!ENTITY tableCaptionNone.label           "Brez">
+<!ENTITY tableInheritColor.label           "(Naj bo barva strani prosojna)">
 
 <!ENTITY cellSelection.label              "Izbira">
 <!ENTITY cellSelectCell.label             "Celica">
@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "Prejšnje">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY applyBeforeChange.label          "Trenutne spremembe se bo izvedlo, preden se spremeni izbiro.">
+<!ENTITY applyBeforeChange.label          "Trenutne spremembe bodo uveljavljene pred spremembo izbire.">
 <!ENTITY cellContentAlignment.label       "Poravnava vsebine">
 <!ENTITY cellHorizontal.label             "Vodoravno:">
 <!ENTITY cellHorizontal.accessKey         "V">
@@ -54,16 +54,16 @@
 <!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Običajno">
 <!ENTITY cellHeader.label                 "Glava">
-<!ENTITY cellTextWrap.label               "Prelomi besedilo:">
-<!ENTITY cellTextWrap.accessKey           "l">
-<!ENTITY cellWrap.label                   "Prelomi">
-<!ENTITY cellNoWrap.label                 "Ne prelomi">
+<!ENTITY cellTextWrap.label               "Oblivanje besedila:">
+<!ENTITY cellTextWrap.accessKey           "O">
+<!ENTITY cellWrap.label                   "Oblij">
+<!ENTITY cellNoWrap.label                 "Ne oblij">
 <!ENTITY cellAlignTop.label               "Vrh">
-<!ENTITY cellAlignMiddle.label            "Sreda">
+<!ENTITY cellAlignMiddle.label            "Sredina">
 <!ENTITY cellAlignBottom.label            "Dno">
 <!ENTITY cellAlignJustify.label           "Poravnaj">
-<!ENTITY cellInheritColor.label           "(Naj bo prozorna za barvo strani)">
-<!ENTITY cellUseCheckboxHelp.label        "S pomočjo izbirnih polj določite, katere od lastnosti naj se uporabi za vse izbrane celice">
+<!ENTITY cellInheritColor.label           "(Naj bo barva tabele prosojna)">
+<!ENTITY cellUseCheckboxHelp.label        "Uporabi potrditvena polja za določanje lastnosti, ki naj se uporabijo za vse izbrane celice">
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label                       "Velikost">

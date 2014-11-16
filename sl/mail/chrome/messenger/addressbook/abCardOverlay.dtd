@@ -29,10 +29,10 @@
 <!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Fonetično:">
 <!ENTITY PhoneticField2.label           "Fonetično:">
-<!ENTITY DisplayName.label              "Pokaži:">
+<!ENTITY DisplayName.label              "Prikaži:">
 <!ENTITY DisplayName.accesskey          "P">
-<!ENTITY preferDisplayName.label        "Vedno raje prikaži prikazano ime namesto glave sporočila">
-<!ENTITY preferDisplayName.accesskey    "n">
+<!ENTITY preferDisplayName.label        "Daj prednost prikazanemu imenu namesto glavi sporočila">
+<!ENTITY preferDisplayName.accesskey    "D">
 <!ENTITY NickName.label                 "Vzdevek:">
 <!ENTITY NickName.accesskey             "k">
 
@@ -40,7 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Dodatna E-pošta:">
 <!ENTITY SecondEmail.accesskey          "š">
-<!ENTITY PreferMailFormat.label         "Raje prejema sporočila oblike:">
+<!ENTITY PreferMailFormat.label         "Raje prejema sporočila v obliki:">
 <!ENTITY PreferMailFormat.accesskey     "p">
 <!ENTITY PlainText.label                "Golo besedilo">
 <!ENTITY HTML.label                     "HTML">
@@ -59,9 +59,9 @@
 <!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Home.tab                       "Zasebno">
-<!ENTITY Home.accesskey                 "z">
-<!ENTITY HomeAddress.label              "Spletni naslov:">
-<!ENTITY HomeAddress.accesskey          "S">
+<!ENTITY Home.accesskey                 "Z">
+<!ENTITY HomeAddress.label              "Naslov:">
+<!ENTITY HomeAddress.accesskey          "N">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Kraj:">
@@ -74,8 +74,8 @@
 <!ENTITY HomeCountry.accesskey          "ž">
 <!ENTITY HomeWebPage.label              "Spletna stran:">
 <!ENTITY HomeWebPage.accesskey          "S">
-<!ENTITY Birthday.label                 "Rojstni datum:">
-<!ENTITY Birthday.accesskey             "R">
+<!ENTITY Birthday.label                 "Datum rojstva:">
+<!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Leto">
 <!ENTITY Or.value                       "ali">
@@ -83,25 +83,25 @@
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Služba">
-<!ENTITY Work.accesskey                 "L">
-<!ENTITY JobTitle.label                 "Naslov:">
-<!ENTITY JobTitle.accesskey             "l">
+<!ENTITY Work.accesskey                 "U">
+<!ENTITY JobTitle.label                 "Naziv:">
+<!ENTITY JobTitle.accesskey             "a">
 <!ENTITY Department.label               "Oddelek:">
-<!ENTITY Department.accesskey           "m">
+<!ENTITY Department.accesskey           "e">
 <!ENTITY Company.label                  "Organizacija:">
 <!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "Spletni naslov:">
-<!ENTITY WorkAddress.accesskey          "n">
+<!ENTITY WorkAddress.label              "Naslov:">
+<!ENTITY WorkAddress.accesskey          "N">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Kraj:">
 <!ENTITY WorkCity.accesskey             "K">
 <!ENTITY WorkState.label                "Zv. država/provinca:">
-<!ENTITY WorkState.accesskey            "ž">
+<!ENTITY WorkState.accesskey            "Z">
 <!ENTITY WorkZipCode.label              "Poštna številka:">
-<!ENTITY WorkZipCode.accesskey          "v">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Država:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "D">
 <!ENTITY WorkWebPage.label              "Spletna stran:">
 <!ENTITY WorkWebPage.accesskey          "S">
 
@@ -116,14 +116,14 @@
 <!ENTITY Custom4.label                  "Po meri 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Beležke:">
-<!ENTITY Notes.accesskey                "ž">
+<!ENTITY Notes.accesskey                "B">
 
 <!ENTITY Chat.tab                       "Klepet">
 <!ENTITY Chat.accesskey                 "K">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -134,23 +134,23 @@
 <!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.label                     "&amp;ID Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Vzdevek za IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
-<!ENTITY Photo.tab                      "Slika">
-<!ENTITY Photo.accesskey                "S">
+<!ENTITY Photo.tab                      "Fotografija">
+<!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Izberite:">
-<!ENTITY GenericPhoto.label             "navadno fotografijo">
-<!ENTITY GenericPhoto.accesskey         "f">
+<!ENTITY GenericPhoto.label             "Splošna fotografija">
+<!ENTITY GenericPhoto.accesskey         "S">
 <!ENTITY DefaultPhoto.label             "Privzeto">
 <!ENTITY PhotoFile.label                "Na tem računalniku">
-<!ENTITY PhotoFile.accesskey            "N">
+<!ENTITY PhotoFile.accesskey            "r">
 <!ENTITY BrowsePhoto.label              "Brskaj">
 <!ENTITY BrowsePhoto.accesskey          "B">
-<!ENTITY PhotoURL.label                 "Na mreži">
-<!ENTITY PhotoURL.accesskey             "m">
-<!ENTITY PhotoURL.placeholder           "Prilepite sliko ali vtipkajte njen naslov na mreži">
+<!ENTITY PhotoURL.label                 "Na spletu">
+<!ENTITY PhotoURL.accesskey             "s">
+<!ENTITY PhotoURL.placeholder           "Prilepite ali vtipkajte spletni naslov fotografije">
 <!ENTITY UpdatePhoto.label              "Posodobi">
-<!ENTITY UpdatePhoto.accesskey          "o">
+<!ENTITY UpdatePhoto.accesskey          "P">
