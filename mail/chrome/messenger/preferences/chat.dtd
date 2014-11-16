@@ -13,3 +13,19 @@
 <!ENTITY andSetStatusToAway.accesskey "t">
 <!ENTITY sendTyping.label "Unviar notificaciones d'escritura en conversaciones">
 <!ENTITY sendTyping.accesskey "U">
+<!ENTITY systemSound.label "Soníu por defeutu del sistema pal corréu nuevu">
+<!ENTITY systemSound.accesskey "S">
+<!ENTITY play.label "Reproducir">
+<!ENTITY play.accesskey "c">
+<!ENTITY dummyNotification.label "ensin nenguna información">
+<!ENTITY desktopChatNotifications.label "Amosar una notificación:">
+<!ENTITY desktopChatNotifications.accesskey "M">
+<!ENTITY customsound.label "Usar el siguiente ficheru de soníu">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY completeNotification.label "col nome del remitente y una vista preliminar del mensaxe">
+<!ENTITY chatSound.label "Reproducir un soníu">
+<!ENTITY chatSound.accesskey "R">
+<!ENTITY chatNotifications.label "Cuando aporten mensaxes dirixíos a mi:">
+<!ENTITY buddyInfoOnly.label "col nome del remitente namái">
+<!ENTITY browse.label "Desaminar…">
+<!ENTITY browse.accesskey "s">
