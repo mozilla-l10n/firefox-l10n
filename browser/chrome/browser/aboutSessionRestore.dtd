@@ -29,9 +29,9 @@
 <!ENTITY welcomeback2.restoreButton  "Başlayalım!">
 <!ENTITY welcomeback2.restoreButton.access "B">
 
-<!ENTITY welcomeback2.tabtitle      "Başarılı!">
+<!ENTITY welcomeback2.tabtitle      "Başardınız!">
 
-<!ENTITY welcomeback2.pageTitle     "Başarılı!">
+<!ENTITY welcomeback2.pageTitle     "Başardınız!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; başlamaya hazır.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Tüm pencereleri ve sekmeleri geri yükle">

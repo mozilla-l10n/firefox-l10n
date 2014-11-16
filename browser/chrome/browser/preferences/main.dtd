@@ -32,9 +32,14 @@
 <!ENTITY alwaysAsk.accesskey "n">
 
 <!ENTITY alwaysCheckDefault.label         "Her başlangıçta &brandShortName; tarayıcısının varsayılan olup olmadığına bak">
-<!ENTITY alwaysCheckDefault2.accesskey    "b">
+
+
 <!ENTITY setAsMyDefaultBrowser.label      "&brandShortName; tarayıcısını varsayılan yap">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "v">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; şu anda varsayılan tarayıcınız">
 <!ENTITY isNotDefault.label               "&brandShortName; varsayılan tarayıcınız değil">
+
+
 
