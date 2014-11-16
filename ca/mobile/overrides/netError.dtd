@@ -17,10 +17,16 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No s'ha trobat el servidor">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p. ex. 
 <strong>ww</strong>.exemple.com en comptes de 
 <strong>www</strong>.exemple.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Cerca</button> 
+</div> 
 <li>Si no podeu carregar cap pàgina, comproveu la connexió de dades o Wi-Fi del vostre dispositiu. 
 <button id='wifi'>Activa la connexió Wi-Fi</button> 
 </li> 
@@ -36,9 +42,15 @@
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
 <!ENTITY malformedURI.title "L'adreça no és vàlida">
-<!ENTITY malformedURI.longDesc "<ul> 
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
 <li>Les adreces web normalment s'escriuen així: 
 <strong>http://www.exemple.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Cerca</button> 
+</div> 
 <li>Assegureu-vos que utilitzeu les barres inclinades 
 (<strong>/</strong>).</li> 
 </ul>">
@@ -50,6 +62,8 @@
 <!ENTITY notCached.longDesc "<p>El document sol·licitat ja no està disponible a la memòria cau del &brandShortName;.</p><ul><li>Per precaució, el &brandShortName; no tornarà a sol·licitar automàticament els documents sensibles.</li><li>Feu clic a Prova-ho de nou per tornar a sol·licitar el document al lloc web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode fora de línia">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Torneu-ho a provar. El &brandShortName; intentarà obrir una connexió i tornar a carregar la pàgina. 
 <button id='wifi'>Activa la connexió Wi-Fi</button> 
@@ -85,6 +99,8 @@ funcionant.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Comproveu que els paràmetres del servidor intermediari siguin correctes.</li> 
 <li>Comproveu que funcioni la connexió de dades o Wi-Fi del vostre dispositiu. 
@@ -118,6 +134,8 @@ que algú estigués intentant fer-se passar pel servidor.</li>
 <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria 
 ser temporal, i podeu tornar-ho a provar més tard.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí uns moments.</li> 

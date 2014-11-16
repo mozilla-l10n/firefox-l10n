@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Complements">
 <!ENTITY aboutAddons.header2                    "Els vostres complements">
 <!ENTITY aboutAddons.options                    "Opcions">
-<!ENTITY aboutAddons.browseAll                  "Mostra tots els complements del Firefox">
 
 <!ENTITY addonAction.enable                     "Habilita">
 <!ENTITY addonAction.disable                    "Inhabilita">
