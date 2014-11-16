@@ -41,7 +41,7 @@
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "K">
 <!ENTITY pasteCmd.label                     "Yapıştır">
-<!ENTITY pasteCmd.key                       "Y">
+<!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "Y">
 <!ENTITY deleteCmd.label                    "Sil">
 <!ENTITY deleteCmd.key                      "D">
