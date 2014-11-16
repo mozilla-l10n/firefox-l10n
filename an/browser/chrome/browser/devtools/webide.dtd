@@ -21,7 +21,7 @@
 <!ENTITY projectMenu_debug_label "Depurar aplicación">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Borrar prochecto">
-
+<!ENTITY projectMenu_remove_accesskey "B">
 <!ENTITY projectMenu_showPrefs_label "Preferencias">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 

@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "Rechistrar operacions d'a linia temporal">
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,6 +21,10 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Faiga clic en o">
+<!ENTITY timelineUI.emptyNotice2    "botón d'empecipiar a rechistrar eventos d'a linia temporal.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "Faiga clic en o">
+<!ENTITY timelineUI.stopNotice2    "botón &quot;atra vegada&quot; ta amortar o rechistro.">
