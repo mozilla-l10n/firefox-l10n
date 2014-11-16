@@ -21,7 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4                 "
 <ul>
-  <li>Kontrolli, kas aadressis pole kirjavigu nagu
+  <li>Kontrolli, kas aadressis pole kirjavigu, näiteks
     <strong>www</strong>.eesti.ee asemel hoopis
     <strong>ww</strong>.eesti.ee.</li>
     <div id='searchbox'>
