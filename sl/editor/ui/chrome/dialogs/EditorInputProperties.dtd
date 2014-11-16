@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Nastavitve za polja obrazca">
-<!ENTITY windowTitleImage.label "Nastavitve za slike obrazca">
+<!ENTITY windowTitle.label "Lastnosti polj obrazca">
+<!ENTITY windowTitleImage.label "Lastnosti slik obrazca">
 
 <!ENTITY InputType.label "Vrsta polja">
 <!ENTITY InputType.accesskey "V">
@@ -35,12 +35,12 @@
 <!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Onemogočeno">
 <!ENTITY InputDisabled.accesskey "O">
-<!ENTITY tabIndex.label "Kazalo oznak:">
+<!ENTITY tabIndex.label "Kazalo zavihkov:">
 <!ENTITY tabIndex.accesskey "K">
 <!ENTITY TextSize.label "Velikost polja:">
 <!ENTITY TextSize.accesskey "V">
-<!ENTITY TextLength.label "Dolžina največ:">
-<!ENTITY TextLength.accesskey "D">
+<!ENTITY TextLength.label "Največja dolžina:">
+<!ENTITY TextLength.accesskey "d">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "Sprejmi vrste:">

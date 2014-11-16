@@ -15,13 +15,13 @@
 <!ENTITY alignmentBox.label "Poravnava">
 <!ENTITY leftRadio.label "Levo">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Sredina">
-<!ENTITY centerRadio.accessKey "S">
+<!ENTITY centerRadio.label "Na sredino">
+<!ENTITY centerRadio.accessKey "N">
 <!ENTITY rightRadio.label "Desno">
 <!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "3-D senčenje">
 <!ENTITY threeDShading.accessKey "3">
-<!ENTITY saveSettings.label "Uporabi za privzeto">
+<!ENTITY saveSettings.label "Uporabi kot privzeto">
 <!ENTITY saveSettings.accessKey "p">
-<!ENTITY saveSettings.tooltip "Shrani te nastavitve za uporabo pri vstavljanju vodoravnih črt v bodoče">
+<!ENTITY saveSettings.tooltip "Shrani te nastavitve za uporabo pri vstavljanju vodoravnih črt">

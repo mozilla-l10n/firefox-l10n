@@ -12,13 +12,13 @@
 
 <!ENTITY locationEditField.label "Mesto slike:">
 <!ENTITY locationEditField.accessKey "M">
-<!ENTITY locationEditField.tooltip "Vnesite ime datoteke ali lokacijo za sliko">
-<!ENTITY title.label "Nasvet:">
-<!ENTITY title.accessKey "N">
-<!ENTITY title.tooltip "Prilastek html 'title', ki se ga prikazuje kot nasvet">
+<!ENTITY locationEditField.tooltip "Vnesite ime datoteke ali mesto slike">
+<!ENTITY title.label "Orodni namig:">
+<!ENTITY title.accessKey "O">
+<!ENTITY title.tooltip "Atribut html 'title', ki se prikazuje kot orodni namig">
 <!ENTITY altText.label "Nadomestno besedilo:">
 <!ENTITY altText.accessKey "N">
-<!ENTITY altTextEditField.tooltip "Vnesite besedilo, ki se ga bo kazalo namesto slike">
+<!ENTITY altTextEditField.tooltip "Vnesite besedilo za prikaz namesto slike">
 <!ENTITY noAltText.label "Ne uporabljaj nadomestnega besedila">
 <!ENTITY noAltText.accessKey "N">
 
@@ -37,9 +37,9 @@
 <!ENTITY heightEditField.accessKey "V">
 <!ENTITY widthEditField.label "Dolžina:">
 <!ENTITY widthEditField.accessKey "D">
-<!ENTITY constrainCheckbox.label "Stisni">
-<!ENTITY constrainCheckbox.accessKey "S">
-<!ENTITY constrainCheckbox.tooltip "Ohrani razmerje med dimenzijami slike">
+<!ENTITY constrainCheckbox.label "Omeji">
+<!ENTITY constrainCheckbox.accessKey "O">
+<!ENTITY constrainCheckbox.tooltip "Ohrani razmerje med merami slike">
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Zemljevid slik">
@@ -64,15 +64,15 @@
 <!ENTITY borderEditField.accessKey "N">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Pokaži rob okoli povezane strani">
+<!ENTITY showImageLinkBorder.label "Prikaži rob okoli povezane slike">
 <!ENTITY showImageLinkBorder.accessKey "P">
-<!ENTITY LinkAdvancedEditButton.label "Napredno urejanje povezave…">
+<!ENTITY LinkAdvancedEditButton.label "Napredno urejanje povezave …">
 <!ENTITY LinkAdvancedEditButton.accessKey "u">
-<!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ali uredi prilastke za HTML in slog ter JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Obrazec">
-<!ENTITY imageLocationTab.label "Položaj">
+<!ENTITY imageLocationTab.label "Mesto">
 <!ENTITY imageDimensionsTab.label "Mere">
 <!ENTITY imageAppearanceTab.label "Videz">
 <!ENTITY imageLinkTab.label "Povezava">
