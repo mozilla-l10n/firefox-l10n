@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "També podeu visitar ">
-<!ENTITY support.link              "Assistència del &brandShortName;">
-<!ENTITY support.post2             " per obtenir més informació.">
+<!ENTITY support.pre3              "Visiteu el ">
+<!ENTITY support.link2             "lloc d'assistència">
+<!ENTITY support.post3             " per obtenir respostes als problemes més comuns.">
 
 <!ENTITY happy.header              "Això és bo!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Potser més tard">
 <!ENTITY happy.noThanks            "No, gràcies">
 
+<!ENTITY sad.header                "Vaja.">
 <!ENTITY sad.message               "Sentim que hàgiu tingut problemes amb el &brandShortName;. Digueu-nos què ha passat perquè puguem solucionar-ho.">
 <!ENTITY sad.placeholder           "Introduïu aquí el vostre comentari">
-<!ENTITY sad.lastSite              "Darrer lloc visitat (opcional)">
+<!ENTITY sad.lastSite2             "Inclou el darrer lloc visitat">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Gràcies per fer-nos-ho saber.">
+<!ENTITY sad.thanksHeader2         "Gràcies.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "No importa com.">
 
-<!ENTITY feedback.privacy          "Per la vostra privadesa, no inclogueu en el comentari cap informació d'identificació personal.">
+<!ENTITY feedback.privacy2         "Per a la vostra privadesa, no inclogueu informació personal en el comentari.">
 <!ENTITY feedback.send             "Envia el comentari">

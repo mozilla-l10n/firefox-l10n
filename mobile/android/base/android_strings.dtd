@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Paràmetres">
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
+<!ENTITY pref_category_customize_summary "Inici, cerca, pestanyes, importa">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Llengua">
+<!ENTITY pref_category_language_summary "Canvia la llengua del navegador">
 <!ENTITY pref_browser_locale "Llengua del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
+
+
 <!ENTITY overlay_share_send_other "Envia a altres dispositius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
 <!ENTITY pref_category_display "Visualització">
+
 <!ENTITY pref_category_privacy_short "Privadesa">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_learn_more "Més informació">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
+
 <!ENTITY pref_developer_paint_flashing "Ressalta l\u0027àrea actualitzada">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "No mostris el menú">
 <!ENTITY pref_clear_private_data2 "Neteja-les ara">
 <!ENTITY pref_clear_private_data_category "Neteja dades privades">
-<!ENTITY pref_clear_on_exit_title "Neteja-les sempre en sortir">
+<!ENTITY pref_clear_on_exit_title2 "Neteja-les en sortir">
 <!ENTITY pref_clear_on_exit_summary2 "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
+
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_formdata "Formularis i historial de cerca">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
@@ -214,7 +224,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_downloadFiles2 "Baixades">
 
 
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informes de fallada">
 <!ENTITY datareporting_wifi_title2 "Serveis d\u0027ubicació de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Emmagatzema dades d\u0027ubicació de xarxes Wi-Fi i mòbils mentre s\u0027executa en segon pla i les comparteix amb &vendorShortName; per millorar el nostre servei de geolocalització">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comparteix les dades d\u0027ubicació aproximada de xarxes Wi-Fi i mòbils del vostre dispositiu amb &vendorShortName; per millorar el nostre servei de geolocalització">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Baixa actualitzacions automàticament">
 <!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privades">
 <!ENTITY tabs_synced "Sincronitzades">
 <!ENTITY set_image_fail "No es pot definir la imatge">
+<!ENTITY set_image_path_fail "No es pot desar la imatge">
 <!ENTITY set_image_chooser_title "Defineix la imatge com a">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,27 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Torna a &formatS;">
 
+
+<!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha pogut connectar">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Navegació privada">
 <!ENTITY private_tabs_panel_empty_desc "Aquí es mostren les pestanyes privades. Tot i que no es conservaran ni l\u0027historial de navegació ni les galetes, sí que es desaran al dispositiu les adreces d\u0027interès i els fitxers que baixeu.">
 <!ENTITY private_tabs_panel_learn_more "Voleu més informació?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
@@ -474,6 +502,9 @@ de l\u0027Android">
 
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessió de convidat">
@@ -482,6 +513,8 @@ de l\u0027Android">
 <!ENTITY guest_session_dialog_cancel "Cancel·la">
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY new_guest_session_text "La persona que l\u0027utilitzi no podrà veure cap de les dades de navegació personals (com les contrasenyes desades, l\u0027historial o les adreces d\u0027interès).\n\nQuan el convidat hagi acabat, se suprimiran les seves dades de navegació i es restaurarà la vostra sessió.">
+
+
 
 <!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">
