@@ -5,7 +5,7 @@
 <!ENTITY fileExceedsQuota.storageLimitReached   "Omejitev shranjevanja je dosežena">
 <!ENTITY fileExceedsQuota.accept "Nadgradi">
 <!ENTITY fileExceedsQuota.cancel "Prekliči">
-<!ENTITY fileExceedsQuota.description "Dosegli ste omejitev shranjevanja na vašem računu 2GB.">
+<!ENTITY fileExceedsQuota.description "Dosegli ste omejitev shranjevanja na vašem računu 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Trenutno uporabljate #XXX GB prostora.">
 <!ENTITY fileExceedsQuota.description2 "Nadgradite že danes na račun Pro Plus, da si pridobite na razpolago več prostora.">
-<!ENTITY fileExceedsQuota.description3 "Da pridete do več prostora, lahko tudi zbrišete nekatere od shranjenih datotek.">
+<!ENTITY fileExceedsQuota.description3 "Da pridete do več prostora, lahko tudi izbrišete nekatere od shranjenih datotek.">
