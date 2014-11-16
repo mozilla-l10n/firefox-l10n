@@ -3,11 +3,11 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
 <!ENTITY fileExceedsLimit.thatsBigFile   "Pošiljanje datotek večjih od 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "je premium značilnost.">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "je plačljiva značilnost.">
 <!ENTITY fileExceedsLimit.accept "Nadgradi">
 <!ENTITY fileExceedsLimit.cancel "Prekliči">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Nadgradite, da lahko pošljete to datoteko, plus:">
-<!ENTITY fileExceedsLimit.pros1 "Pošiljite datoteke in mape do 2GB">
+<!ENTITY fileExceedsLimit.proIncludes "Za pošiljanje te datoteke nadgradite zdaj plus:">
+<!ENTITY fileExceedsLimit.pros1 "Pošljite datoteke in mape do 2 GB">
 <!ENTITY fileExceedsLimit.pros2 "Shranite neomejeno število datotek na spletu">
 <!ENTITY fileExceedsLimit.pros3 "Dostopajte do in delite si datoteke kjerkoli">
