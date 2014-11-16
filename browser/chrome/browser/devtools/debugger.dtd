@@ -44,7 +44,7 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Formatar automaticament o codigo fuent">
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
@@ -99,7 +99,7 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "Pasar automaticament a modo de caixa negra as fuents minificadas">
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -115,7 +115,7 @@
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "Mirar en totz os fichers">
-
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "f">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
