@@ -6,9 +6,10 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Empecipiar en Modo seguro">
-
+<!ENTITY refreshProfile.label         "Refrescar o &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "O Modo seguro ye un modo especial d'o &brandShortName; que se fa servir ta solucionar problemas.">
 <!ENTITY safeModeDescription4.label   "Os suyos complementos y configuracions personalizadas se desactivarán de traza temporal.">
 
+<!ENTITY refreshProfileInstead.label  "Tamién puetz blincar a resolución de problemas mirando de refrescar o &brandShortName;.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
