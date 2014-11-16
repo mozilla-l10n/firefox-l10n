@@ -33,7 +33,7 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label               "Katılımcıları uyar">
-
+<!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
 
 <!-- Keyboard Shortcuts -->
 
@@ -158,7 +158,7 @@
 <!ENTITY event.location.accesskey                         "K">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "t">
-
+<!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "T">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
