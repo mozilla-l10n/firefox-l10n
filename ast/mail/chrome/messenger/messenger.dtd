@@ -61,8 +61,6 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
 <!ENTITY synchronizeOfflineCmd.label "Sincronizar/Descargar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Configuración ensin conexón…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Descargar mensaxes esbillaos">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Descargar mensaxes con estrella">
@@ -97,9 +95,6 @@
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Carpeta favorita">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Propiedaes…">
-<!ENTITY folderPropsFolderCmd.label "Propiedaes de carpeta…">
-<!ENTITY folderPropsNewsgroupCmd.label "Propiedaes del grupu…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Desfacer 'Desaniciar mensaxe'">
 <!ENTITY redoDeleteMsgCmd.label "Refacer 'Desaniciar mensaxe'">
@@ -400,8 +395,6 @@
 <!ENTITY savedFiles.label "Ficheros guardaos">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtros de mensaxes…">
-<!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Executar filtros na carpeta">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Executar filtros nos mensaxes esbillaos">
@@ -416,9 +409,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Consola d'errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Configuración de les cuentes…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a toos">
@@ -504,12 +494,8 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Guetar mensaxes…">
 <!ENTITY folderContextSearchForMessages.accesskey "e">
-<!ENTITY folderContextProperties.label "Propiedaes…">
-<!ENTITY folderContextProperties.accesskey "o">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Configuración…">
-<!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY SearchNameOrEmail.label "El nome o direición contién:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY glodaSearchBar.placeholder "Guetar mensaxes…">
@@ -626,7 +612,6 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Traer too al frente">
 <!ENTITY zoomWindow.label "Averar ventana">
-<!ENTITY preferencesCmdMac.label "Preferencies…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Servicios">
@@ -721,8 +706,6 @@
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamañu">
 <!ENTITY remoteContentOptionsAllowForMsg.label "Amosar el conteníu remotu nesti mensaxe">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
-<!ENTITY remoteContentOptionAllowForAddress.label "Amosar el conteníu remotu d'esti remitente">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
 <!ENTITY receivedColumn2.tooltip "Ordenar por data de receición">
 <!ENTITY readColumn2.tooltip "Ordenar por lleíos/non lleíos">
@@ -749,3 +732,26 @@
 <!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
 <!ENTITY EditContact1.label "Editar contautu">
 <!ENTITY EditContact1.accesskey "E">
+<!ENTITY settingsOfflineCmd2.label "Configuración ensin conexón">
+<!ENTITY settingsOfflineCmd2.accesskey "o">
+<!ENTITY preferencesCmdMac2.label "Preferencies">
+<!ENTITY folderPropsNewsgroupCmd2.label "Propiedaes del grupu">
+<!ENTITY folderPropsFolderCmd2.label "Propiedaes de carpeta">
+<!ENTITY folderPropsCmd2.label "Propiedaes">
+<!ENTITY folderContextSettings2.label "Configuración">
+<!ENTITY folderContextSettings2.accesskey "o">
+<!ENTITY folderContextProperties2.label "Propiedaes">
+<!ENTITY folderContextProperties2.accesskey "P">
+<!ENTITY filtersCmd2.label "Filtros de mensaxes">
+<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY editRemoteContentSettingsUnix.label "Editar preferencies de conteníu remotu…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
+<!ENTITY editRemoteContentSettings.label "Editar opciones de conteníu remotu…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY contextOpenContainingFolder.label "Abrir mensaxe na carpeta que lu contién">
+<!ENTITY contextOpenContainingFolder.accesskey "c">
+<!ENTITY compactVersion.label "Vista compauta">
+<!ENTITY compactVersion.accesskey "C">
+<!ENTITY accountManagerCmdUnix2.accesskey "C">
+<!ENTITY accountManagerCmd2.label "Configuración de cuenta">
+<!ENTITY accountManagerCmd2.accesskey "C">
