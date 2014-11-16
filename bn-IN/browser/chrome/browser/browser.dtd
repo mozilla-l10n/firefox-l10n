@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "আরও শেয়ার সার্ভিস খুঁজুন…">
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠাটি শেয়ার করুন">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "প">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "এই লিঙ্কটি শেয়ার করুন">
+<!ENTITY shareLink.accesskey "ল">
+<!ENTITY shareImage.label "এই ছবিটি শেয়ার করুন">
+<!ENTITY shareImage.accesskey "ছ">
+<!ENTITY shareSelect.label "নির্বাচন শেয়ার করুন">
+<!ENTITY shareSelect.accesskey "য়">
+<!ENTITY shareVideo.label "এই ভিডিওটি শেয়ার করুন">
+<!ENTITY shareVideo.accesskey "ভ">
 <!ENTITY feedsMenu.label "সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "অতিরিক্ত সামগ্রী">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "অ্যাপসমূহ">
+<!ENTITY webapps.accesskey            "প">
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
