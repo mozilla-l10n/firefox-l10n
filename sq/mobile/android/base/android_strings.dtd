@@ -40,7 +40,7 @@
 
 <!ENTITY choose_file "Zgjidhni Kartelë">
 
-<!ENTITY url_bar_default_text "Jepni Kërkim ose Adresë">
+<!ENTITY url_bar_default_text2 "Kërkoni ose jepni adresë">
 
 <!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
@@ -51,7 +51,7 @@
 <!ENTITY history_today_section "Sot">
 <!ENTITY history_yesterday_section "Dje">
 <!ENTITY history_week_section2 "Javën e Shkuar">
-<!ENTITY history_week_section2 "Javën e Shkuar">
+<!ENTITY history_older_section2 "Muajin e Shkuar">
 
 <!ENTITY go "Shko">
 <!ENTITY search "Kërko">
@@ -62,7 +62,6 @@
 <!ENTITY stop "Ndale">
 <!ENTITY site_security "Siguri Sajti">
 <!ENTITY edit_mode_cancel "Anuloje">
-<!ENTITY save "Ruaje">
 
 <!ENTITY close_tab "Mbylleni Skedën">
 <!ENTITY one_tab "1 skedë">
@@ -80,11 +79,13 @@
 <!ENTITY settings_title "Rregullime">
 <!ENTITY pref_category_advanced "Të mëtejshme">
 <!ENTITY pref_category_customize "Personalizim">
+<!ENTITY pref_category_customize_summary "Kreu, kërkim, skeda, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Gjuhë">
+<!ENTITY pref_category_language_summary "Ndërroni gjuhën e shfletuesit tuaj">
 <!ENTITY pref_browser_locale "Gjuha e shfletuesit">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -102,6 +103,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Faqeruajeni">
 <!ENTITY overlay_share_reading_list_btn_label "Shtojeni te Listë Leximesh">
+<!ENTITY overlay_share_bookmark_btn_label_already "Faqeruajtur tashmë">
+<!ENTITY overlay_share_reading_list_btn_label_already "Te Lista e Leximeve tashmë">
 <!ENTITY overlay_share_send_other "Dërgojeni në pajisje të tjera">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -116,9 +119,12 @@
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
 <!ENTITY pref_category_display "Ekran">
+<!ENTITY pref_category_display_summary "Tekst, shtyllë titujsh, shfletim sa krejt ekrani">
 <!ENTITY pref_category_privacy_short "Privatësi">
+<!ENTITY pref_category_privacy_summary "Kontrolloni fjalëkalime, cookies, gjurmime, të dhëna">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Zgjedhje të dhënash">
+<!ENTITY pref_category_vendor_summary "Mbi &brandShortName;, FAQ, zgjedhje të dhënash">
 <!ENTITY pref_learn_more "Mësoni më tepër">
 <!ENTITY pref_category_installed_search_engines "Motorë të instaluar kërkimesh">
 <!ENTITY pref_category_add_search_providers "Shtoni më tepër furnizues kërkimesh">
@@ -132,15 +138,14 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti web te lista juaj e mundësuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
 <!ENTITY pref_category_devtools "Mjete zhvilluesi">
-#<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!--<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">-->
+<!--<!ENTITY pref_developer_paint_flashing "Paint flashing">-->
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
-<!ENTITY pref_developer_remotedebugging_docs "Mësoni më tepër">
 <!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
 
 <!ENTITY pref_category_home "Kreu">
 <!ENTITY pref_category_home_summary "Personalizoni kreun tuaj">
 <!ENTITY pref_category_home_panels "Panele">
-<!ENTITY pref_home_add_panel "Shtoni panel">
 <!ENTITY home_add_panel_title "Shtoni panel të ri">
 <!ENTITY home_add_panel_empty "Na ndjeni, s\&apos;gjetëm dot panele që t\&apos;i shtoni.">
 <!-- Localization note (home_add_panel_installed):
@@ -178,7 +183,7 @@
 <!ENTITY pref_char_encoding_off "Mos e shfaq menunë">
 <!ENTITY pref_clear_private_data2 "Pastroji tani">
 <!ENTITY pref_clear_private_data_category "Pastro të dhënat private">
-<!ENTITY pref_clear_on_exit_title "Pastroji përherë gjatë daljes">
+<!ENTITY pref_clear_on_exit_title2 "Pastroji gjatë daljes">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-i do të pastrojë vetvetiu të dhënat tuaja kurdo që zgjidhni 
 \u0022Dilni\u0022 prej menusë kryesore">
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
@@ -196,7 +201,7 @@
 <!ENTITY pref_font_size_medium "Të mesme">
 <!ENTITY pref_font_size_large "Të mëdha">
 <!ENTITY pref_font_size_xlarge "Shumë të mëdha">
-<!--<!ENTITY pref_font_size_set "Set">-->
+<!ENTITY pref_font_size_set "Vendosi">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -209,10 +214,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Dhelpra e shpejtë ngjyrë portokalli kërcen më lart se çka prisnit, me më shumë shpejtësi, më tepër zhdërvjelltësi dhe më tepër siguri. Si një organizëm jofitimprurës, jemi të lirë të sjellim për ju risi, pa trysni për komprometim. Kjo përkthehet në punim më të mirë për ju dhe të ardhme më të ndritur për Web-in.">
 
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
-<!ENTITY pref_show_product_announcements "Shfaq njoftime produkti">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Njëkohësoni skedat, faqerojtësit, fjalëkalimet dhe historikun tuaj">
 <!ENTITY pref_search_suggestions "Shfaq këshillime kërkimi">
 <!ENTITY pref_import_android "Importoni prej Android-i">
+<!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit origjinal">
 <!ENTITY pref_private_data_history2 "Historik shfletimesh">
 <!ENTITY pref_private_data_formdata "Historik formularësh &amp; kërkimesh">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; hyrje aktive">
@@ -234,6 +240,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Shfaqe">
 <!ENTITY pref_panels_hide "Fshihe">
+<!ENTITY pref_panels_reorder "Ndryshojuni renditjen">
+<!ENTITY pref_panels_move_up "Ngjite sipër">
+<!ENTITY pref_panels_move_down "Zbrite poshtë">
 
 <!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;-u ">
 <!ENTITY datareporting_notification_action_long "Zgjidhni ç\u0027të dhëna të ndahen me të tjerët">
@@ -257,10 +266,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
-<!ENTITY datareporting_wifi_title2 "Shërbim Lokalizimi &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Merr të dhëna lokalizimi Wi-Fi dhe celulari teksa xhiron në prapaskenë dhe i ndan ato me &vendorShortName; për të përmirësuar shërbimin tonë të gjeovendëzimit">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Ndan me &vendorShortName; të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit">
 <!ENTITY datareporting_wifi_title "Shërbime vendëzimi &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ndihmoni të përmirësohen shërbimet e gjeovendëzimit për Web-in e Hapur, duke e lejuar &brandShortName;-n të grumbullojë dhe dërgojë të dhëna anonime mbi mbulimin me sinjal celulari">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -291,10 +298,12 @@ size. -->
 <!ENTITY new_tab "Skedë e Re">
 <!ENTITY new_private_tab "Skedë e Re Private">
 <!ENTITY close_all_tabs "Mbylli Krejt Skedat">
+<!ENTITY close_private_tabs "Mbyll Skedat Private">
 <!ENTITY tabs_normal "Skeda">
 <!ENTITY tabs_private "Private">
 <!ENTITY tabs_synced "Të njëkohësuara">
 <!ENTITY set_image_fail "Nuk arrin të vendosë figurën">
+<!ENTITY set_image_path_fail "Nuk arrin të ruajë figurën">
 <!ENTITY set_image_chooser_title "Vendose Figurën Si">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -313,7 +322,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
 <!ENTITY contextmenu_open_private_tab "Hape në Skedë Private">
-<!ENTITY contextmenu_open_in_reader "Hape në Lexues">
 <!ENTITY contextmenu_remove "Hiqe">
 <!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
@@ -354,8 +362,6 @@ size. -->
 <!ENTITY site_settings_clear        "Pastroje">
 <!ENTITY site_settings_no_settings  "Nuk ka rregullime për t\u0027i pastruar.">
 
-<!ENTITY reading_list_add "Shtojeni te Lista e Leximeve">
-<!ENTITY reading_list_added "Faqja u shtua te Lista juaj e Leximeve">
 <!ENTITY reading_list_removed "Faqja u hoq prej Listës suaj të Leximeve">
 <!ENTITY reading_list_failed "Dështoi shtimi i faqes te Lista juaj e Leximeve">
 <!ENTITY reading_list_duplicate "Faqe tashmë e pranishme te Lista juaj e Leximeve">
@@ -388,7 +394,6 @@ size. -->
 <!ENTITY home_bookmarks_empty "Faqerojtësit që ruani, shfaqen këtu.">
 <!ENTITY home_closed_tabs_title "Skeda të mbyllura së fundi">
 <!ENTITY home_last_tabs_title "Skeda nga hera e fundit">
-<!ENTITY home_last_tabs_open "Hapni krejt skedat e herës së fundit">
 <!ENTITY home_last_tabs_empty "Skedat tuaja të herës së fundit, shfaqen këtu.">
 <!ENTITY home_open_all "Hapi krejt">
 <!ENTITY home_most_recent_empty "Sajtet Web që keni vizituar së fundi, shfaqen këtu.">
@@ -410,9 +415,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Sipër te &formatS;">
 
+<!ENTITY home_remote_tabs_title "Skeda të Njëkohësuara">
+<!ENTITY home_remote_tabs_empty "Skedat tuaja prej pajisjesh të tjera do të shfaqen këtu.">
+<!ENTITY home_remote_tabs_unable_to_connect "I pazoti të lidhet">
+<!ENTITY home_remote_tabs_need_to_sign_in "Ju lutemi, bëni hyrjen që të rilidhet llogaria juaj Firefox Account dhe të vazhdohet njëkohësimi.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problem me verifikimin e llogarisë suaj?">
+<!ENTITY home_remote_tabs_need_to_verify "Ju lutemi, verifikoni llogarinë tuaj Firefox Account që të fillohet njëkohësimi.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 pajisje e fshehur">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; pajisje të fshehura">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Pajisje të fshehura">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Zbuloji pajisjet e përzgjedhura">
+
 <!ENTITY private_browsing_title "Shfletim Privat">
 <!ENTITY private_tabs_panel_empty_desc "Skedat tuaja private do të duken këtu. Ne nuk ruajmë gjë nga historiku i shfletimeve apo cookie-t tuaja, kurse faqerojtësit dhe kartelat që shkarkoni do të ruhen te pajisja juaj.">
 <!ENTITY private_tabs_panel_learn_more "Doni të dini më tepër?">
+
+<!ENTITY remote_tabs_panel_moved_title "Ku shkuan skedat e mia?">
+<!ENTITY remote_tabs_panel_moved_desc "Skedat tuaja nga pajisje të tjera i kemi kaluar te një panel në faqen tuaj hyrëse, prej nga mund të përdoren kollaj sa herë hapni një skedë të re.">
+<!ENTITY remote_tabs_panel_moved_link "Shpjemëni te paneli im i ri.">
 
 <!ENTITY pin_site_dialog_hint "Jepni një fjalëkyç kërkimi">
 
@@ -482,6 +511,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Ka përditësim gati për &brandShortName;-un">
 <!ENTITY updater_apply_select2 "Prekeni që të përditësohet">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Riniseni shfletuesin që të hyjnë në fuqi ndryshimet">
+<!ENTITY new_tablet_pref "Aktivizoni NG të re për tablete">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesion i Ri Mysafiri">
 <!ENTITY exit_guest_session "Dilni nga Sesion Mysafiri">
@@ -489,6 +524,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Anuloje">
 <!ENTITY new_guest_session_title "&brandShortName;-u tani do të riniset">
 <!ENTITY new_guest_session_text "Personi që po e përdor nuk do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si fjalëkalime, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
+<!ENTITY guest_browsing_notification_title "Shfletimi si mysafir është i aktivizuar">
+<!ENTITY guest_browsing_notification_text "Prekeni që të dilet prej tij">
 
 <!ENTITY exit_guest_session_title "&brandShortName;-u tani do të riniset">
 <!ENTITY exit_guest_session_text "Të dhënat e shfletimit të këtij sesioni do të fshihen.">

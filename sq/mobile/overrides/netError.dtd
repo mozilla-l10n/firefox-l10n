@@ -17,12 +17,18 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Kontrolloni adresën për gabime shkrimi si, p.sh.,
     <strong>ww</strong>.shembull.com në vend të
     <strong>www</strong>.shembull.com</li>
-  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen tuaj Wi-Fi..
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni për pajisjen tuaj lidhjen për të dhëna pse atë Wi-Fi.
     <button id='wifi'>Aktivizoni Wi-Fi-n</button>
   </li>
 </ul>
@@ -42,10 +48,16 @@
 ">
 
 <!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Adresat Web zakonisht shkruhen si
     <strong>http://www.shembull.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Kërkoni</button>
+    </div>
   <li>Sigurohuni që po përdorni pjerrake djathtas (d.m.th.
     <strong>/</strong>).</li>
 </ul>
