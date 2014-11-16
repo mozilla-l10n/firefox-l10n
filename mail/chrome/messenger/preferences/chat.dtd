@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "Y">
 
 <!ENTITY  chatNotifications.label             "Bana gönderilen mesajlar ulaştığında:">
-<!ENTITY  desktopChatNotifications.label      "Bildirim göster">
-<!ENTITY  desktopChatNotifications.accesskey  "B">
+
+
+
+
+
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Ses çal">
 <!ENTITY  play.label                          "Oynat">
