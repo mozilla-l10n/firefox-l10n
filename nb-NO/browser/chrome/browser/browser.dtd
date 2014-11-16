@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Rediger dette bokmerket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Finn flere deletjenester …">
 <!ENTITY sharePageCmd.label "Del denne siden">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "D">
-<!ENTITY shareLinkCmd.label "Del denne lenken">
-<!ENTITY shareLinkCmd.accesskey "l">
-<!ENTITY shareImageCmd.label "Del dette bildet">
-<!ENTITY shareImageCmd.accesskey "b">
-<!ENTITY shareSelectCmd.label "Del utvalg">
-<!ENTITY shareSelectCmd.accesskey "u">
-<!ENTITY shareVideoCmd.label "Del denne videoen">
-<!ENTITY shareVideoCmd.accesskey "v">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Del denne lenken">
+<!ENTITY shareLink.accesskey "l">
+<!ENTITY shareImage.label "Del dette bildet">
+<!ENTITY shareImage.accesskey "b">
+<!ENTITY shareSelect.label "Del utvalg">
+<!ENTITY shareSelect.accesskey "u">
+<!ENTITY shareVideo.label "Del denne videoen">
+<!ENTITY shareVideo.accesskey "v">
 <!ENTITY feedsMenu.label "Abonner">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne siden">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne siden …">
@@ -212,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Utvidelser">
 <!ENTITY addons.accesskey             "U">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Apper">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "t">
@@ -477,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Send video …">
 <!ENTITY emailVideoCmd.accesskey      "n">
+<!ENTITY castVideoCmd.label           "Send video til enhet">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Send lyd …">
 <!ENTITY emailAudioCmd.accesskey      "n">
 <!ENTITY playPluginCmd.label          "Aktiver dette programtillegget">
@@ -690,7 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Ikke nå">
 
-
+<!ENTITY social.directory.label "Aktiveringskatalog">
+<!ENTITY social.directory.text "Du kan aktivere delingstjenester fra katalogen.">
+<!ENTITY social.directory.button "Ta meg dit!">
+<!ENTITY social.directory.introText "Trykk på en tjeneste for å legge den til i &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Vis flere">
 
 <!ENTITY customizeMode.tabTitle "Tilpass &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Flere verktøy og funksjoner">
@@ -706,6 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "H">
+<!ENTITY customizeMode.deveditionTheme.label "Bruk &brandShortName;-tema">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokuser på nettprat">
@@ -740,7 +754,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.learnMore "Les mer">
 <!ENTITY trackingContentBlocked.options "Innstillinger">
 <!ENTITY trackingContentBlocked.unblock.label2 "Slå av beskyttelse for dette nettstedet">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "S">
 <!ENTITY trackingContentBlocked.block.label "Slå på beskyttelse">
+<!ENTITY trackingContentBlocked.block.accesskey "l">
 <!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er avslått">
 
 <!ENTITY pointerLock.notification.message "Trykk ESC når som helst for å vise den igjen.">
