@@ -15,7 +15,7 @@
 <!ENTITY  crash_close_label "Mbylle">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
-<!ENTITY  exit_label "Dil">
+<!ENTITY  exit_label "Dilni">
 <!ENTITY  continue_label "Vazhdo">
 
 <!ENTITY  launcher_shortcuts_title "Zbatime Web &brandShortName;">

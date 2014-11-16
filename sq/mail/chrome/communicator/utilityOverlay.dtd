@@ -51,12 +51,12 @@
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"M">
 
-<!ENTITY quitApplicationCmd.label	"Dil"> 
+<!ENTITY quitApplicationCmd.label	"Dilni"> 
 <!ENTITY quitApplicationCmd.key		"D"> 
 <!ENTITY quitApplicationCmd.accesskey	"D">
 
-<!ENTITY quitApplicationCmdUnix.label	"Dil"> 
+<!ENTITY quitApplicationCmdUnix.label	"Dilni"> 
 <!ENTITY quitApplicationCmdUnix.accesskey	"d">
 
-<!ENTITY quitApplicationCmdMac.label  "Dil nga &brandShortName;-i">
+<!ENTITY quitApplicationCmdMac.label  "Dilni nga &brandShortName;-i">
 <!ENTITY quitApplicationCmdMac.accesskey  "D">
