@@ -20,7 +20,7 @@
 <!ENTITY  showPublishDialog.label       "Sempre mostra el diàleg Publica quan es publiquin pàgines">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Edició">
-<!ENTITY  maintainStructure.label       "Manté el format de la taula quan s'insereixen o suprimeixen cel·les">
+<!ENTITY  maintainStructure.label       "Mantén el format de la taula quan s'insereixen o suprimeixen cel·les">
 <!ENTITY  maintainStructure.tooltip     "Preserva la forma rectangular de la taula afegint automàticament cel·les després d'inserir-ne'n o suprimir-ne'n">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Utilitza els estils CSS en comptes d'elements HTML i d'atributs">
