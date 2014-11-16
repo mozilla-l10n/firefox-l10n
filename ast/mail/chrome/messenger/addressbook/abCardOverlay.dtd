@@ -31,9 +31,6 @@
 <!ENTITY PlainText.label "Testu ensin formatu">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocíu">
-<!ENTITY allowRemoteContent1.label "Permitir conteníu remotu.">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "Nos mensaxes HTML ye posible incluyir conteníu d'oríxenes remotos. Abrir talos mensaxes abrirá tamién una conexón a esi orixe esternu. Esto pue permitir el siguimientu de la llectura del mensaxe. Conseñar esta caxella va permitir esti tipu de conteníu nos mensaxes HTML d'esti contautu.">
 <!ENTITY WorkPhone.label "Trabayu:">
 <!ENTITY WorkPhone.accesskey "T">
 <!ENTITY HomePhone.label "Casa:">
