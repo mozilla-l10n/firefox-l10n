@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "ভ্রমণ করুন ">
+<!ENTITY support.link2             "সমর্থনকারি সাইট">
+<!ENTITY support.post3             " সাধারণ সমস্যা গুলি থেকে উত্তর পেতে চাইলে।">
 
 <!ENTITY happy.header              "শুনে দারুণ লাগলো!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,6 +35,7 @@
 <!ENTITY happy.maybeLater2         "হয়তো পরে">
 <!ENTITY happy.noThanks            "না, ধন্যবাদ">
 
+<!ENTITY sad.header                "ওহহো!">
 <!ENTITY sad.message               "আমরা দুঃখিত যে &brandShortName; কে নিয়ে আপনি কিছু সমস্যায় পরেছেন। কি হয়েছে আমাদের জানান যাতে আমরা সমাধান বের করতে পারি।">
 <!ENTITY sad.placeholder           "এখানে আপনার প্রতিক্রিয়া জানান">
 
