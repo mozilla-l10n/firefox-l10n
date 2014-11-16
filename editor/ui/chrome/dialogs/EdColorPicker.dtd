@@ -12,11 +12,11 @@
 <!ENTITY default.label "Privzeto">
 <!ENTITY default.accessKey "P">
 <!ENTITY palette.label "Paleta:">
-<!ENTITY standardPalette.label "Standardno">
+<!ENTITY standardPalette.label "Običajno">
 <!ENTITY webPalette.label "Vse spletne barve">
 <!ENTITY background.label "Ozadje za:">
 <!ENTITY background.accessKey "O">
 <!ENTITY table.label "Tabela">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Celica(e)">
+<!ENTITY cell.label "Celice">
 <!ENTITY cell.accessKey "C">
