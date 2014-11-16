@@ -36,7 +36,7 @@
 <!ENTITY calendar.quit.key                                 "Q">
 <!ENTITY calendar.quit.label.mac                           "Mbylle &brandShortName;-in">
 
-<!ENTITY calendar.exit.label                               "Dil">
+<!ENTITY calendar.exit.label                               "Dilni">
 <!ENTITY calendar.exit.accesskey                           "D">
 
 <!ENTITY calendar.undo.label                               "Zhbëje">
