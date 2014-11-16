@@ -5,5 +5,5 @@
 
 <!ENTITY windowTitle.label     "Preveri mesta slik in povezav">
 <!ENTITY succeeded.label       "Uspešno">
-<!ENTITY failed.label          "Neuspešno">
+<!ENTITY failed.label          "Spodletelo">
 <!ENTITY closeButton.label     "Zapri">

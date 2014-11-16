@@ -14,27 +14,27 @@
 <!ENTITY undoCmd.label            "Razveljavi">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "z">
-<!ENTITY redoCmd.label            "Obnovi">
+<!ENTITY redoCmd.label            "Uveljavi">
 <!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "b">
+<!ENTITY redoCmd.accesskey          "U">
 <!ENTITY cutCmd.label            "Izreži">
 <!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "ž">
+<!ENTITY cutCmd.accesskey          "z">
 <!ENTITY copyCmd.label            "Kopiraj">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "j">
+<!ENTITY copyCmd.accesskey          "K">
 <!ENTITY pasteCmd.label            "Prilepi">
 <!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "r">
-<!ENTITY deleteCmd.label          "Zbriši">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "Izbriši">
 <!ENTITY deleteCmd.accesskey        "b">
 <!ENTITY selectAllCmd.label          "Izberi vse">
-<!ENTITY selectAllCmd.key          "I">
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY viewMenu.label          "Pogled">
 <!ENTITY viewMenu.accesskey        "P">
@@ -44,7 +44,7 @@
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
 <!ENTITY closeCmd.label      "Izhod">
-<!ENTITY closeCmd.key      "X">
+<!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "h">
 
 <!ENTITY quitApplicationCmd.label  "Izhod">
@@ -52,7 +52,7 @@
 <!ENTITY quitApplicationCmd.accesskey  "h">
 
 <!ENTITY quitApplicationCmdUnix.label  "Izhod">
-<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
+<!ENTITY quitApplicationCmdUnix.accesskey  "h">
 
-<!ENTITY quitApplicationCmdMac.label  "Zapusti &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label  "Zapri &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">
