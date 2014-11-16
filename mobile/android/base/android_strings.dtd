@@ -78,7 +78,7 @@
 <!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
-
+<!ENTITY pref_category_customize_summary "Başlangıç, arama, sekmeler, içerik alma">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
 <!ENTITY pref_category_display "Görünüm">
-
+<!ENTITY pref_category_display_summary "Metin, başlık çubuğu, tam ekran gezinti">
 <!ENTITY pref_category_privacy_short "Gizlilik">
-
+<!ENTITY pref_category_privacy_summary "Parolaları, çerezleri, izlemeyi, verileri yönet">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName; hakkında, SSS, veri tercihleri">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_learn_more "Daha fazla bilgi">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
-
+<!ENTITY pref_category_devtools_summary "Uzaktan hata ayıklama, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
@@ -216,7 +216,7 @@ size. -->
 <!ENTITY pref_sync_summary "Sekmelerinizi, yer imlerinizi, parolalarınızı, geçmişinizi eşitleyin">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
-
+<!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Coğrafi konum servisimizi geliştirmek için cihazınızın yaklaşık Wi-Fi ve hücresel konumunu &vendorShortName; ile paylaşır">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -417,25 +417,29 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Diğer cihazlardaki sekmeleriniz burada görünür.">
 <!ENTITY home_remote_tabs_unable_to_connect "Bağlanılamadı">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox Hesabı\u0027nızı yeniden bağlayarak eşitlemeyi sürdürmek için lütfen giriş yapın.">
+<!ENTITY home_remote_tabs_trouble_verifying "Hesabınızı doğrulayamadınız mı?">
+<!ENTITY home_remote_tabs_need_to_verify "Eşitlemeyi başlatmak için lütfen Firefox Hesabınızı doğrulayın.">
 
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 cihaz gizlendi">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; cihaz gizlendi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Gizlenmiş cihazlar">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Seçilen cihazları göster">
 
 <!ENTITY private_browsing_title "Gizli Tarama">
 <!ENTITY private_tabs_panel_empty_desc "Gizli sekmeleriniz burada görünecek. Tarama geçmişiniz ve çerezleriniz kaydedilmemesine rağmen yer imleriniz ve indirdiğiniz dosyalar cihazınıza kaydedilecektir.">
 <!ENTITY private_tabs_panel_learn_more "Daha fazla bilgi almak ister misiniz?">
 
 <!ENTITY remote_tabs_panel_moved_title "Sekmelerim nereye gitti?">
-
-
+<!ENTITY remote_tabs_panel_moved_desc "Diğer aygıtlardaki sekmelerinizi giriş sayfasındaki bir panele taşıdık. Her yeni sekme açtığınızda onlara kolayca ulaşabilirsiniz.">
+<!ENTITY remote_tabs_panel_moved_link "Yeni panelime gidelim.">
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
@@ -503,6 +507,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+
+<!ENTITY new_tablet_restart "Değişiklikleri uygulamak için tarayıcıyı yeniden başlatın">
 <!ENTITY new_tablet_pref "Yeni tablet arabirimini etkinleştir">
 <!-- Guest mode -->
 
@@ -512,7 +519,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
-
+<!ENTITY guest_browsing_notification_title "Konum oturumu etkinleşti">
 <!ENTITY guest_browsing_notification_text "Çıkmak için dokunun">
 
 <!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
