@@ -39,7 +39,9 @@
 
 <!ENTITY choose_file "ಕಡತವನ್ನು ಆರಿಸು">
 
+<!ENTITY url_bar_default_text2 "ಹುಡುಕಿ ಅಥವಾ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ">
 
+<!ENTITY bookmark "ಪುಟ ಗುರುತು">
 <!ENTITY bookmark_added "ಬುಕ್ ಮಾರ್ಕ್ ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
@@ -76,13 +78,13 @@
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
-
+<!ENTITY pref_category_customize_summary "ಮನೆ, ಹುಡುಕು, ಹಾಳೆಗಳು, ಆಮದುಮಾಡು">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ಭಾಷೆ">
-
+<!ENTITY pref_category_language_summary "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ಭಾಷೆ ಬದಲಾಯಿಸಿ">
 <!ENTITY pref_browser_locale "ವೀಕ್ಷಕದ ಭಾಷೆ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -92,20 +94,26 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; ಗೆ ಸೇರಿಸಿ">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "ಪುಟ ಗುರುತು">
 <!ENTITY overlay_share_reading_list_btn_label "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
+<!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
 
-
-
+<!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
+<!ENTITY overlay_share_no_url "ಈ ಹಂಚಿಕೆಯಲ್ಲಿ ಯಾವುದೇ ಸಂಪರ್ಕ ಕೊಂಡಿ ಸಿಗಲಿಲ್ಲ">
 <!ENTITY overlay_share_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
-
+<!ENTITY overlay_share_select_device "ಸಾಧನವನ್ನು ಆಯ್ಕೆಮಾಡು">
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
@@ -513,6 +521,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
