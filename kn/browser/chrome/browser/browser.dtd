@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "ಇನ್ನಷ್ಟು ಹಂಚಬಲ್ಲ ಸೇವೆಗಳ ಬಗ್ಗೆ ಹುಡುಕಿ...">
 <!ENTITY sharePageCmd.label "This ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "ಈ ಕೊಂಡಿಯನ್ನು Share">
+<!ENTITY shareLink.accesskey "h">
 
 
 
 
-
-
-
+<!ENTITY shareVideo.label "ಈ ವೀಡಿಯೊವನ್ನು Share">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
@@ -482,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ವೀಡಿಯೊವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "ವೀಡಿಯೊವನ್ನು ಸಾಧನಕ್ಕೆ Send">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Email ಆಡಿಯೊ…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ಈ ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
@@ -697,9 +701,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
 
-
-
-
+<!ENTITY social.directory.button "ನನ್ನನ್ನು ಅಲ್ಲಿಗೆ ಕರೆದೊಯ್ಯಿ!">
+<!ENTITY social.directory.introText "&brandShortName; ಗೆ ಸೇವೆಯನ್ನು ಸೇರಿಸಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ.">
+<!ENTITY social.directory.viewmore.text "ಇನ್ನಷ್ಟು ವೀಕ್ಷಿಸಿ">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ಹೆಚ್ಚುವರಿ ಉಪಕರಣಗಳು ಮತ್ತು ವಿಶೇಷತೆಗಳು">
@@ -741,8 +745,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "ಆಯ್ಕೆಗಳು">
 <!ENTITY mixedContentBlocked2.unblock.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY trackingContentBlocked.message "ಜಾಡು ಇರಿಸುವಿಕೆ">
@@ -751,8 +755,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "ಆಯ್ಕೆಗಳು">
 
 
-
-
+<!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY pointerLock.notification.message "ಅದನ್ನು ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ತೋರಿಸಲು ESC ಅನ್ನು ಒತ್ತಿ.">
