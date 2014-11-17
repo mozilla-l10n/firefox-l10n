@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ದಸ್ತಾವೇಜಿನ ವಾಯಿದೆ ತೀರಿದೆ">
 <!ENTITY notCached.longDesc "<p>ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು &brandShortName; ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</p><ul><li>As a security precautionಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.</li><li>ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</li></ul>">
@@ -55,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "ಸಂಪರ್ಕವು ಮರಳಿ ಹೊಂದಿಸಲ್ಪಟ್ಟಿತು">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "ಸಂಪರ್ಕದ ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,6 +75,12 @@
 <!ENTITY proxyResolveFailure.title "ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>ಪ್ರಾಕ್ಸಿ ಸಂಯೋಜನೆಗಳು ಸರಿಯಿದೆಯೇ ಪರಿಶೀಲಿಸಿ.</li> 
+<li>ಹಾಗೆಯೇ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮೊಬೈಲ್ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಇದೆಯೇ ಪರೀಕ್ಷಿಸಿ. 
+<button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸಿ</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -104,6 +110,13 @@
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>ಈ ತಾಣವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲದಿರಬಹುದು ಅಥವಾ ಕಾರ್ಯದ ಒತ್ತಡದಲ್ಲಿರಬಹುದು. ಕೆಲವು ಕ್ಷಣಗಳ ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</li> 
+<li>ಯಾವುದೇ ಪುಟವೂ ತೆರೆಯದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಮೊಬೈಲಿನ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಪರಿಶೀಲಿಸಿ.  
+<button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸಿ</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುದಂತೆ &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
