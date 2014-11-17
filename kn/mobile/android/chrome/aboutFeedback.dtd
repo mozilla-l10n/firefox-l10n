@@ -17,9 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "ನೀವು ಕೂಡ ಭೇಟಿಕೊಡಬಹುದು ">
-<!ENTITY support.link              "&brandShortName; ಬೆಂಬಲ">
-<!ENTITY support.post2             " ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ.">
+
 
 <!ENTITY happy.header              "ಅದನ್ನು ಕೇಳಲು ಹೆಮ್ಮೆಯೆನಿಸುತ್ತದೆ!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -37,11 +35,11 @@
 
 <!ENTITY sad.message               "&brandShortName; ನಲ್ಲಿ ನಿಮಗೆ ತೊಂದರೆಯಾಗಿದ್ದಕ್ಕೆ ವಿಷಾದಿಸುತ್ತೇವೆ. ಇದನ್ನು ನಿವಾರಿಸಲು, ದಯವಿಟ್ಟು ಏನಾಯ್ತು ಎಂಬ ವಿವರಗಳನ್ನು ನಮಗೆ ತಿಳಿಸಿ.">
 <!ENTITY sad.placeholder           "ನಿಮ್ಮ ಫೀಡ್ ಬ್ಯಾಕ್ ಅನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ">
-<!ENTITY sad.lastSite              "ಕೊನೆಯಲ್ಲಿ ಭೇಟಿಮಾಡಿದ ತಾಣ (ಐಚ್ಛಿಕ)">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "ನಿಮಗೆ ತಿಳಿಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು.">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +50,4 @@
 
 <!ENTITY sad.thanksMessageBottom   "ಅಥವಾ.">
 
-<!ENTITY feedback.privacy          "ನಿಮ್ಮ ಗೋಪ್ಯತೆಗಾಗಿ, ದಯವಿಟ್ಟು ಯಾವುದೇ ರೀತಿಯ ವೈಯಕ್ತಿಕವಾಗಿ ಗುರುತಿಸುವಂತ ವಿವರಗಳನ್ನು ನಿಮ್ಮ ಫೀಡ್ ಬ್ಯಾಕ್‌ನಲ್ಲಿ ಸೇರಿಸಬೇಡಿ.">
 <!ENTITY feedback.send             "ಅಭಿಪ್ರಾಯವನ್ನು ಕಳುಹಿಸಿ">
