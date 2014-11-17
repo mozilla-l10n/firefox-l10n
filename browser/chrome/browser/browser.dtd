@@ -745,18 +745,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "বিকল্প">
 <!ENTITY mixedContentBlocked2.unblock.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "সুরক্ষা সক্রিয় করুন">
+<!ENTITY mixedContentBlocked2.block.accesskey "স">
 <!ENTITY mixedContentBlocked2.disabled.message "সুরক্ষা নিষ্ক্রিয় করা অাছে">
 
 <!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
 <!ENTITY trackingContentBlocked.options "বিকল্প">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "এ">
+<!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
+<!ENTITY trackingContentBlocked.block.accesskey "স">
 <!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">
