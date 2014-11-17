@@ -25,9 +25,9 @@
 <!ENTITY AddPlainText.label           "Dodaj …">
 <!ENTITY AddPlainText.accesskey       "D">
 <!ENTITY DeleteHtmlDomain.label       "Izbriši">
-<!ENTITY DeleteHtmlDomain.accesskey   "z">
+<!ENTITY DeleteHtmlDomain.accesskey   "b">
 <!ENTITY DeletePlainText.label        "Izbriši">
-<!ENTITY DeletePlainText.accesskey    "z">
+<!ENTITY DeletePlainText.accesskey    "b">
 
 <!ENTITY add.htmltitle                "Dodajanje domene za pošto za HTML">
 <!ENTITY add.htmldomain               "Ime domene za pošto HTML:">
