@@ -31,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Барлығын ерекшелеу">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "е">
-
-
+<!ENTITY preferencesCmd2.label "Опциялар">
+<!ENTITY preferencesCmd2.accesskey "О">
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м">
 

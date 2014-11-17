@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+
+
+
+
+<!-- Web Content -->
+
+
+
+
+
+
+
+
+
+<!ENTITY keepUntil.label "Келесі уақыт бойы cookies сақтау:">
+<!ENTITY keepUntil.accesskey "у">
+<!ENTITY expire.label "олардың мерзімі аяқталғанша дейін">
+<!ENTITY close.label "Мен &brandShortName; жапқанға дейін">
+<!ENTITY askEachTime.label "әрқашан менен сұрау">
+<!ENTITY cookieExceptions.label "Осыдан бөлек…">
+<!ENTITY cookieExceptions.accesskey "О">
+<!ENTITY showCookies.label "Cookies көрсету…">
+<!ENTITY showCookies.accesskey "р">
+
+
+
+
+
+
+
+
