@@ -35,19 +35,22 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Çalışma zamanı bilgileri">
 <!ENTITY runtimeMenu_showDetails_accesskey "a">
-
-
+<!ENTITY runtimeMenu_showMonitor_label "İzleyici">
+<!ENTITY runtimeMenu_showMonitor_accesskey "z">
 
 <!ENTITY viewMenu_label "Göster">
+<!ENTITY viewMenu_accesskey "G">
+<!ENTITY viewMenu_toggleEditor_label "Editörü aç/kapat">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_showAddons_label "Simülatörleri yönet">
+<!ENTITY viewMenu_showAddons_accesskey "S">
 
-
-
-
-
-
+<!ENTITY projectButton_label "Uygulama aç">
 <!ENTITY runtimeButton_label "Çalışma zamanı seç">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "a">
 <!-- reload app -->
@@ -88,17 +91,19 @@
 <!-- Addons -->
 
 <!ENTITY addons_title "Ekstra bileşenler">
-
+<!ENTITY addons_aboutaddons "Eklenti Yöneticisi'ni aç">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "Tercihler">
+<!ENTITY prefs_editor_title "Editör">
 <!ENTITY prefs_general_title "Genel">
 <!ENTITY prefs_restore "Varsayılanları geri yükle">
-
+<!ENTITY prefs_simulators "Simülatörleri yönet">
 <!ENTITY prefs_options_enablelocalruntime "Yerel çalışma zamanını etkinleştir">
 <!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE'nin kendi çalışma zamanına (çalışan tarayıcı) bağlanmasına izin ver">
 <!ENTITY prefs_options_rememberlastproject "Son projeyi hatırla">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE başladığında önceki projeyi geri yükle">
-
+<!ENTITY prefs_options_templatesurl "Şablonların URL'si">
 
 <!ENTITY prefs_options_showeditor "Editörü göster">
 <!ENTITY prefs_options_showeditor_tooltip "Dahili editörü göster">
