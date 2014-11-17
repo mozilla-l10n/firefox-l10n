@@ -268,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F*">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Txandakatu tresnak">
@@ -698,6 +700,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
 <!ENTITY customizeMode.toolbars "Erakutsi/ezkutatu tresna-barrak">
 <!ENTITY customizeMode.titlebar "Titulu-barra">
+<!ENTITY customizeMode.lwthemes "Gaiak">
+<!ENTITY customizeMode.lwthemes.myThemes "Nire gaiak">
+<!ENTITY customizeMode.lwthemes.recommended "Gomendatua">
+<!ENTITY customizeMode.lwthemes.menuManage "Kudeatu">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Lortu gai gehiago">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Ezarri fokua txatetan">
@@ -710,18 +719,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Partekatzeko kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Partekatu beharreko leihoa edo pantaila:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "l">
 <!ENTITY getUserMedia.selectMicrophone.label "Partekatzeko mikrofonoa:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "Kamera / Mikrofono atzipena">
-<!ENTITY webrtcIndicatorButton.tooltip "Bistaratu une honetan zein gunerekin partekatzen duzun kamera edo mikrofonoa">
+<!ENTITY badContentBlocked.moreinfo "Webgune gehienak ondo ibiliko dira nahiz eta edukia blokeatu.">
 
-<!ENTITY loopCallButton.tooltip "Gonbidatu norbait hitz egitera">
+<!ENTITY mixedContentBlocked2.message "Eduki ez-segurua">
+<!ENTITY mixedContentBlocked2.moreinfo "Webgune honetako zifratu gabeko hainbat elementu blokeatu egin dira.">
+<!ENTITY mixedContentBlocked2.learnMore "Argibide gehiago">
+<!ENTITY mixedContentBlocked2.options "Aukerak">
+<!ENTITY mixedContentBlocked2.unblock.label "Desgaitu babesa momentuz">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Gaitu babesa">
+<!ENTITY mixedContentBlocked2.block.accesskey "G">
+<!ENTITY mixedContentBlocked2.disabled.message "Babesa desgaituta dago">
 
-<!ENTITY mixedContentBlocked.moreinfo "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta ere.">
+<!ENTITY trackingContentBlocked.message "Jarraipena">
+<!ENTITY trackingContentBlocked.moreinfo "Zure lineako jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
+<!ENTITY trackingContentBlocked.learnMore "Argibide gehiago">
+<!ENTITY trackingContentBlocked.options "Aukerak">
+<!ENTITY trackingContentBlocked.unblock.label2 "Desgaitu babesa orri honetarako">
+<!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
+<!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
 
 <!ENTITY pointerLock.notification.message "Berriro erakusteko, sakatu ESK tekla edozein unetan.">
 
@@ -750,4 +771,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Alboko barrak">
 
 <!ENTITY switchToMetroCmd2.label       "Berrabiarazi Windows 8 Touch-erako &brandShortName;(e)n">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Ahaztu azken:">
+<!ENTITY panicButton.view.5min                    "Bost minutuak">
+<!ENTITY panicButton.view.2hr                     "Bi orduak">
+<!ENTITY panicButton.view.day                     "24 orduak">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Jarraitzearekin bat:">
+<!ENTITY panicButton.view.deleteCookies           "Azken <html:strong>cookieak</html:strong> ezabatu egingo dira">
+<!ENTITY panicButton.view.deleteHistory           "Azken <html:strong>historia</html:strong> ezabatu egingo da">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>Fitxa</html:strong> eta <html:strong>leiho</html:strong> guztiak itxi egingo dira">
+<!ENTITY panicButton.view.openNewWindow           "Ireki leiho garbi berria">
+
+<!ENTITY panicButton.view.undoWarning             "Aldaketa hau ezin da desegin.">
+<!ENTITY panicButton.view.forgetButton            "Ahaztu!">
+
+<!ENTITY panicButton.thankyou.msg1                "Azken historia garbitu egin da.">
+<!ENTITY panicButton.thankyou.msg2                "Nabigatu seguru!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Eskerrik asko!">
 
