@@ -266,8 +266,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
+<!ENTITY datareporting_wifi_title2 "Shërbime Lokalizimi &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary2 "Ndan me &vendorShortName; të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit">
-<!ENTITY datareporting_wifi_title "Shërbime vendëzimi &vendorShortName;">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -362,7 +362,7 @@ size. -->
 <!ENTITY site_settings_clear        "Pastroje">
 <!ENTITY site_settings_no_settings  "Nuk ka rregullime për t\u0027i pastruar.">
 
-<!ENTITY reading_list_removed "Faqja u hoq prej Listës suaj të Leximeve">
+<!ENTITY reading_list_added "Faqja u shtua te Lista juaj e Leximeve">
 <!ENTITY reading_list_failed "Dështoi shtimi i faqes te Lista juaj e Leximeve">
 <!ENTITY reading_list_duplicate "Faqe tashmë e pranishme te Lista juaj e Leximeve">
 
