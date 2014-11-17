@@ -4,7 +4,7 @@
 
 <!ENTITY  startupAction.label         "Ko se &brandShortName; zažene:">
 <!ENTITY  startupAction.accesskey     "K">
-<!ENTITY  startupOffline.label        "se ne poveži samodejno v klepet">
+<!ENTITY  startupOffline.label        "pusti moje račune za klepet nepovezane">
 <!ENTITY  startupConnectAuto.label    "samodejno poveži moje račune za klepet">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is

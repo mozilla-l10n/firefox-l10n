@@ -9,4 +9,4 @@
 <!ENTITY editKeywordButton.label          "Uredi">
 <!ENTITY editKeywordButton.accesskey      "U">
 <!ENTITY removeKeywordButton.label        "Izbriši">
-<!ENTITY removeKeywordButton.accesskey    "I">
+<!ENTITY removeKeywordButton.accesskey    "b">

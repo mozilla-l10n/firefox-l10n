@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "D">
 <!ENTITY remoteContentExceptions.label "Izjeme ...">
 <!ENTITY remoteContentExceptions.accesskey "I">
-<!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih o zasebnosti oddaljene vsebine">
+<!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih zasebnosti oddaljene vsebine">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Spletna vsebina">

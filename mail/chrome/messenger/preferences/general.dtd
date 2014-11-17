@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "&brandShortName;: domača stran">
-<!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži domačo stran v polju sporočila">
+<!ENTITY messengerStartPage.label         "&brandShortName;: začetna stran">
+<!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži začetno stran v polju sporočila">
 <!ENTITY enableStartPage.accesskey        "K">
 <!ENTITY location.label                   "Mesto:">
 <!ENTITY location1.accesskey               "M">
@@ -11,7 +11,7 @@
 <!ENTITY useDefault.accesskey             "o">
 
 <!ENTITY changeDockIconOptions.label      "Spremeni možnosti ikone programa">
-<!ENTITY dockOptions.label                "Možnosti Ikone programa ....">
+<!ENTITY dockOptions.label                "Možnosti ikone programa ....">
 <!ENTITY dockOptions.accesskey            "o">
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
