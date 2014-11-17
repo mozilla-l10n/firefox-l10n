@@ -26,9 +26,14 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "Pirmyn!">
 
 
 
+
+
+<!ENTITY welcomeback2.label.restoreAll  "Atkurti visus langus ir korteles">
+<!ENTITY welcomeback2.label.restoreSome "Atkurti tik pageidaujamus">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
