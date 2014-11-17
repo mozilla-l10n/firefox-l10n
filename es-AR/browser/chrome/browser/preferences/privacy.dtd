@@ -15,7 +15,7 @@
 
 <!ENTITY  locationBar.label             "Barra de direcciones">
 
-<!ENTITY  locbar.pre.label              "Al usar la barra de direcciones, sugerir:">
+<!ENTITY  locbar.suggest.label          "Al usar la barra de direcciones, sugerir:">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "i">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">

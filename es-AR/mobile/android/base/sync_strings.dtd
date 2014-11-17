@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
 <!ENTITY fxaccount_status_auth_server 'Servidor de cuenta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar ahora'>
-<!ENTITY fxaccount_status_syncing 'Sincronizando...'>
+<!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
 <!ENTITY fxaccount_status_device_name 'Nombre de dispositivo'>
 <!ENTITY fxaccount_status_sync_server 'Servidor de Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
