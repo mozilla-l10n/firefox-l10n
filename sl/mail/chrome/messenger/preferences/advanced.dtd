@@ -12,7 +12,7 @@
 
 <!ENTITY submitTelemetry.label         "Pošlji podatke o zmogljivosti">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Dodatni podatki o telemetriji">
+<!ENTITY telemetryInfoLink.label       "Več podatkov o telemetriji">
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 
@@ -106,7 +106,7 @@
 <!ENTITY clearCacheNow.accesskey         "o">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description       "Ko strežnik zahteva moje osebno digitalno potrdilo:">
+<!ENTITY certSelection.description       "Ko strežnik zahteva moje osebno potrdilo:">
 <!ENTITY certs.auto                      "ga izberi samodejno">
 <!ENTITY certs.auto.accesskey            "s">
 <!ENTITY certs.ask                       "me vsakokrat vprašaj">

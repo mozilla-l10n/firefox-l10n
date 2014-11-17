@@ -33,7 +33,7 @@
 <!ENTITY languagePopup.accessKey              "J">
 <!ENTITY downloadDictionaries.label           "Prenesi dodatne slovarje">
 
-<!ENTITY warnOnSendAccelKey.label             "Potrdi, kadar za pošiljanje sporočil uporabljate bližnjice">
+<!ENTITY warnOnSendAccelKey.label             "Potrdi, kadar se za pošiljanje sporočil uporablja tipkovne bližnjice">
 <!ENTITY warnOnSendAccelKey.accesskey         "o">
 <!ENTITY autoSave.label                       "Samodejno shrani vsakih">
 <!ENTITY autoSave.accesskey                   "S">
@@ -51,7 +51,7 @@
 <!ENTITY editDirectories.label                 "Uredi imenike …">
 <!ENTITY editDirectories.accesskey             "U">
 
-<!ENTITY sendOptionsDescription.label          "Nastavi obnašanje oblike besedila">
+<!ENTITY sendOptionsDescription.label          "Nastavi vedenje oblike besedila">
 <!ENTITY sendOptions.label                     "Možnosti pošiljanja …">
 <!ENTITY sendOptions.accesskey                 "M">
 

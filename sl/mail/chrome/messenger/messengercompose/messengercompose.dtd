@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Spletno stran …">
 <!ENTITY attachPageCmd.accesskey "S">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -30,9 +30,9 @@
 <!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY remindLater.label "Opomni me kasneje">
 <!ENTITY remindLater.accesskey "O">
-<!ENTITY closeCmd.label "Izhod">
+<!ENTITY closeCmd.label "Zapri">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "h">
+<!ENTITY closeCmd.accesskey "Z">
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
@@ -81,7 +81,7 @@
 <!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Izbriši">
 <!ENTITY deleteCmd.accesskey "b">
-<!ENTITY editRewrapCmd.label "Ponovno prelomi">
+<!ENTITY editRewrapCmd.label "Ponovno oblij">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Preimenuj prilogo …">
 <!ENTITY renameAttachmentCmd.accesskey "e">
@@ -90,7 +90,7 @@
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY findBarCmd.label "Najdi ...">
 <!ENTITY findBarCmd.accesskey "N">
-<!ENTITY findBarCmd.key "N">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj …">
 <!ENTITY findReplaceCmd.accesskey "a">
 <!ENTITY findReplaceCmd.key "H">
@@ -130,7 +130,7 @@
 <!ENTITY optionsMenu.label "Možnosti">
 <!ENTITY optionsMenu.accesskey "M">
 <!ENTITY checkSpellingCmd2.label "Preveri črkovanje …">
-<!ENTITY checkSpellingCmd2.key "P">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "č">
 <!ENTITY enableInlineSpellChecker.label "Preverjaj črkovanje med pisanjem">
@@ -150,9 +150,9 @@
 <!ENTITY deliveryFormatMenu.accesskey "b">
 <!ENTITY autoFormatCmd.label "Samodejno zaznaj">
 <!ENTITY autoFormatCmd.accesskey "S">
-<!ENTITY plainTextFormatCmd.label "Le golo besedilo">
+<!ENTITY plainTextFormatCmd.label "Samo golo besedilo">
 <!ENTITY plainTextFormatCmd.accesskey "g">
-<!ENTITY htmlFormatCmd.label "Le obogateno besedilo (HTML)">
+<!ENTITY htmlFormatCmd.label "Samo obogateno besedilo (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "o">
 <!ENTITY bothFormatCmd.label "Golo in obogateno (HTML) besedilo">
 <!ENTITY bothFormatCmd.accesskey "b">
@@ -171,7 +171,7 @@
 <!ENTITY highestPriorityCmd.accesskey "š">
 <!ENTITY fileCarbonCopyCmd.label "Pošlji kopijo za">
 <!ENTITY fileCarbonCopyCmd.accesskey "š">
-<!ENTITY fileHereMenu.label "Uvrsti sem">
+<!ENTITY fileHereMenu.label "Shrani tukaj">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Orodja">
@@ -184,7 +184,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Nastavitve računa">
 <!ENTITY accountManagerCmd2.accesskey "N">
-<!ENTITY accountManagerCmdUnix2.accesskey "R">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
@@ -193,8 +193,8 @@
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Skrči">
-<!ENTITY bringAllToFront.label "Vse v ospredje">
-<!ENTITY zoomWindow.label "Povečaj/pomanjšaj">
+<!ENTITY bringAllToFront.label "Prestavi vse v ospredje">
+<!ENTITY zoomWindow.label "Povečava">
 <!ENTITY windowMenu.label "Okno">
 <!-- Mail Toolbar -->
 
@@ -285,13 +285,13 @@
 <!ENTITY selectAll.accesskey "b">
 <!ENTITY attachFile.label "Pripni datoteke …">
 <!ENTITY attachFile.accesskey "d">
-<!ENTITY attachCloud.label "Povezava datoteke …">
-<!ENTITY attachCloud.accesskey "P">
+<!ENTITY attachCloud.label "Filelink …">
+<!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Pretvori v …">
 <!ENTITY convertCloud.accesskey "v">
 <!ENTITY cancelUpload.label "Prekliči pošiljanje">
 <!ENTITY cancelUpload.accesskey "k">
-<!ENTITY convertRegularAttachment.label "Redna priloga">
+<!ENTITY convertRegularAttachment.label "Običajna priloga">
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "W">

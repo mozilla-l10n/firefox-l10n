@@ -5,7 +5,7 @@
 <!ENTITY  connectionsDialog.title       "Nastavitve povezave">
 <!ENTITY  window.width                   "39em">
 
-<!ENTITY  proxyTitle.label              "Nastavitve posrednika">
+<!ENTITY  proxyTitle.label              "Nastavitve posrednika za dostop do interneta">
 <!ENTITY  noProxyTypeRadio.label        "Brez posrednika">
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za posrednika">

@@ -6,7 +6,7 @@
 <!ENTITY requestReceipt.label          "Ob pošiljanju sporočila vedno zahtevaj povratnico">
 <!ENTITY requestReceipt.accesskey      "O">
 <!ENTITY receiptArrive.label           "Ko povratnica prispe:">
-<!ENTITY leaveIt.label                 "jo pusti v Prejeto">
+<!ENTITY leaveIt.label                 "jo pusti v mapi Prejeto">
 <!ENTITY leaveIt.accesskey             "j">
 <!ENTITY moveToSent.label              "jo prestavi v mojo mapo &quot;Poslano&quot;">
 <!ENTITY moveToSent.accesskey          "p">

@@ -6,14 +6,14 @@
 <!ENTITY migrationWizard.title          "Čarovnik za uvoz">
 
 <!ENTITY importFromWin.label            "Uvozi Možnosti, Nastavitve računa, Imenik, Filtre in druge podatke iz:">
-<!ENTITY importFromNonWin.label         "Uvozi Možnosti, Nastavitve računa, Imenik, Filtre in druge podatke iz:">
+<!ENTITY importFromNonWin.label         "Uvozi Nastavitve, Nastavitve računa, Imenik, Filtre in druge podatke iz:">
 
 <!ENTITY importFromNothing.label        "Ne uvozi ničesar">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ali več">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "O">
+<!ENTITY importFromOExpress.accesskey   "x">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 <!ENTITY importFromEudora.label         "Eudora">
@@ -24,10 +24,10 @@
 <!ENTITY importItems.label              "Izberite, kaj želite uvoziti:">
 
 <!ENTITY migrating.title                "Uvoz …">
-<!ENTITY migrating.label                "Trenutno se uvaža sledeče …">
+<!ENTITY migrating.label                "Trenutno se uvaža naslednje predmete …">
 
 <!ENTITY selectProfile.title            "Izberite profil">
 <!ENTITY selectProfile.label            "Uvoz je možen iz naslednjih profilov:">
 
 <!ENTITY done.title                     "Konec uvoza">
-<!ENTITY done.label                     "Uspešno je bilo uvoženo naslednje:">
+<!ENTITY done.label                     "Naslednji predmeti so bili uspešno uvoženi:">

@@ -27,10 +27,10 @@
 
 <!ENTITY addCloudFileAccount.label        "Dodaj">
 <!ENTITY addCloudFileAccount.accesskey    "D">
-<!ENTITY addCloudFileAccount.description  "Dodaj novega ponudnika za storitev Povezave datoteke">
+<!ENTITY addCloudFileAccount.description  "Dodaj novega ponudnika storitve za shranjevanje podatkov Filelink">
 <!ENTITY removeCloudFileAccount.label     "Odstrani">
 <!ENTITY removeCloudFileAccount.accesskey "O">
-<!ENTITY authRequired.description         "Za prikaz nastavitev ponudnika je potrebno vaše dovoljenje.">
+<!ENTITY authRequired.description         "Za prikaz nastavitev te storitve za shranjevanje podatkov je potrebno vaše dovoljenje.">
 <!ENTITY authRequired.button.label        "Dovoli">
 <!ENTITY authRequired.button.accesskey    "D">
 

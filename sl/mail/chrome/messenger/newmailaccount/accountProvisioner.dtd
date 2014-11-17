@@ -12,23 +12,23 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 
-<!ENTITY error.suggest.before "Lahko si tudi pogledate možnosti">
+<!ENTITY error.suggest.before "Lahko si tudi pogledate možnosti ">
 <!ENTITY error.suggest.middle "za brezplačen e-poštni naslov">
 <!ENTITY error.suggest.after ".">
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 
-<!ENTITY success.title.before "Pozdravljeni, ">
+<!ENTITY success.title.before "Pozdravljeni ">
 <!ENTITY success.title.after ", naslednji e-poštni naslovi so vam na razpolago:">
 <!ENTITY success.tip "(Če želite najti še več sporočil, lahko iščete z vzdevki ali kakim drugim izrazom)">
 <!ENTITY partnership.description "V sodelovanju z več ponudniki vam &brandShortName; lahko ponudi nov e-poštni naslov. Za začetek enostavno v zgornje polje vnesite svoje ime in priimek, ali besede po vaši želji.">
 <!ENTITY existing.header "Ali že imate naslov, ki bi ga hoteli uporabljati?">
-<!ENTITY tinyheader.title "Imate že naslov?">
+<!ENTITY tinyheader.title "Že imate naslov?">
 <!ENTITY tinyheader.existing "Preskoči in uporabi moj obstoječi e-naslov">
 <!ENTITY content.close "Svoj račun bom raje uredil kasneje.">
 <!ENTITY successful.title "Čestitke!">
-<!ENTITY successful.successMessage "Uspešno ste si uredili svoj račun.">
+<!ENTITY successful.successMessage "Uspešno ste si namestili svoj račun.">
 <!ENTITY successful.write "Sestavite zdaj kako e-pošto">
 <!ENTITY successful.write.desc "Sporočite svoj novi naslov vašim prijateljem in družini.<br/>Čemu novi račun, če ne zato, da ste v stiku z njimi?">
 <!ENTITY successful.customize "Uredite si &brandShortName; z nekaj kul dodatki">
@@ -39,5 +39,5 @@
 <!ENTITY input.namePlaceholder "Vaše ime ali vzdevek">
 <!ENTITY input.search "Išči">
 <!ENTITY search_engine.title "Prilagodite si iskalnik">
-<!ENTITY search_engine.message "Vaš ponudnik pošte vam lahko tudi nudi možnosti za iskanje po spletu.">
+<!ENTITY search_engine.message "Vaš ponudnik pošte vam lahko tudi omogoči zmožnosti iskanja po spletu.">
 <!ENTITY search_engine.button "Končaj">

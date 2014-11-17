@@ -5,7 +5,7 @@
 <!ENTITY notificationsDialog2.title       "Prilagodi opozorilo o novi pošti">
 <!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro         "Izberite, katera polja bodo vidna v obvestilu z opozorilom:">
+<!ENTITY alertCustomization.intro         "Izberite, katera polja naj bodo prikazana v obvestilu z opozorilom:">
 <!ENTITY previewText.label                "Besedilo predogleda sporočila">
 <!ENTITY previewText.accesskey            "B">
 <!ENTITY subject.label                    "Zadeva">
@@ -19,6 +19,6 @@ totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  totalOpenTimeBefore.label       "Koliko sekund naj bo prikazano obvestilo o novi pošti">
-<!ENTITY  totalOpenTimeBefore.accesskey   "K">
+<!ENTITY  totalOpenTimeBefore.label       "Prikaži opozorilo o novi pošti za">
+<!ENTITY  totalOpenTimeBefore.accesskey   "r">
 <!ENTITY  totalOpenTimeEnd.label          "sekund">
