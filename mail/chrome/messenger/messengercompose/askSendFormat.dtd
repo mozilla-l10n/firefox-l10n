@@ -7,12 +7,12 @@
 
 <!ENTITY recipient.label "Nekateri prejemniki niso na seznamu tistih, ki lahko prejemajo pošto HTML.">
 
-<!ENTITY question.label "Želite pretvoriti sporočilo v navadno besedilo, ali ga poslati kot HTML?">
+<!ENTITY question.label "Želite pretvoriti sporočilo v navadno besedilo ali ga poslati kot HTML?">
 
-<!ENTITY plainTextAndHtml.label "Pošlji kot navadno besedilo in HTML">
-<!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Pošlji samo kot navadno besedilo">
-<!ENTITY plainTextOnly.accesskey "n">
+<!ENTITY plainTextAndHtml.label "Pošlji kot golo besedilo in HTML">
+<!ENTITY plainTextAndHtml.accesskey "o">
+<!ENTITY plainTextOnly.label "Pošlji samo kot golo besedilo">
+<!ENTITY plainTextOnly.accesskey "b">
 <!ENTITY htmlOnly.label "Pošlji samo kot HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
