@@ -65,6 +65,7 @@
 
 
 
+<!ENTITY projects.addApp "যোগ করুন">
 
 
 
@@ -72,12 +73,11 @@
 
 
 
+<!ENTITY projects.updateApp "আপডেট করুন">
 
+<!ENTITY projects.debugApp "ডিবাগ করুন">
 
-
-
-
-
+<!ENTITY projects.saveManifest "সংরক্ষণ করুন">
 
 
 
@@ -86,7 +86,7 @@
 
 
 <!ENTITY projects.valid "মেয়াদ">
-
+<!ENTITY projects.error "ত্রুটি">
 
 
 
