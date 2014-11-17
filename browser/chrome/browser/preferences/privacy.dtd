@@ -11,7 +11,7 @@
 <!ENTITY doNotTrackInfo.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
-<!ENTITY locbar.pre.label "Nella barra degli indirizzi visualizza suggerimenti da:">
+<!ENTITY locbar.suggest.label "Nella barra degli indirizzi visualizza suggerimenti da:">
 <!ENTITY locbar.history.label "cronologia">
 <!ENTITY locbar.history.accesskey "n">
 <!ENTITY locbar.bookmarks.label "segnalibri">
