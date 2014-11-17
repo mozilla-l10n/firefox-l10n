@@ -13,7 +13,7 @@
 <!ENTITY password.label                  "Geslo:">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Geslo">
-<!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
+<!ENTITY password.text                   "Izbirno, uporabilo se bo samo za potrditev vašega uporabniškega imena">
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
 <!ENTITY rememberPassword.accesskey      "Z">
 
@@ -26,19 +26,19 @@
 <!ENTITY hostname.label                  "Ime strežnika">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
-<!ENTITY auth.label                      "Avtentikacija">
+<!ENTITY auth.label                      "Overitev">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Sam ugotovi">
+<!ENTITY autodetect.label                "Samodejno zaznaj">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Brez">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Ročna nastavitev …">
-<!ENTITY advancedSetup.accesskey         "R">
+<!ENTITY advancedSetup.label             "Napredna nastavitev …">
+<!ENTITY advancedSetup.accesskey         "N">
 <!ENTITY cancel.label                    "Prekliči">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Nadaljuj">
@@ -51,20 +51,20 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ponovno preveri">
 <!ENTITY half-manual-test.accesskey      "P">
-<!ENTITY manual-edit.label               "Uredi ročno">
-<!ENTITY manual-edit.accesskey           "U">
+<!ENTITY manual-edit.label               "Ročna nastavitev">
+<!ENTITY manual-edit.accesskey           "R">
 <!ENTITY switch-to-provisioner.label     "Pridobi si nov račun">
 <!ENTITY switch-to-provisioner.accesskey "P">
 
 
 <!ENTITY warning.label                   "Opozorilo!">
-<!ENTITY incomingSettings.label          "Nastavitve za prihajajočo pošto:">
-<!ENTITY outgoingSettings.label          "Nastavitve za odhajajočo pošto:">
+<!ENTITY incomingSettings.label          "Nastavitve za dohodno pošto:">
+<!ENTITY outgoingSettings.label          "Nastavitve za odhodno pošto:">
 <!ENTITY technicaldetails.label          "Tehnične podrobnosti">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Razumem, kaj tvegam.">
+<!ENTITY confirmWarning.label            "Razumem tveganje.">
 <!ENTITY confirmWarning.accesskey        "R">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
