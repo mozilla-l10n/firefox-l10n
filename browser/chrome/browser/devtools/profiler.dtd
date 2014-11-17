@@ -39,9 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration   "Toplam süre (ms)">
 
 
 
+<!ENTITY profilerUI.table.samples         "Örnekler">
 <!ENTITY profilerUI.table.function        "Fonksiyon">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

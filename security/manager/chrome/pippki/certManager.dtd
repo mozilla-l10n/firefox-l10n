@@ -104,7 +104,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Onay belgesini al">
 <!ENTITY exceptionMgr.certlocation.accesskey  "a">
 <!ENTITY exceptionMgr.certstatus.caption      "Onay belgesi durumu">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Bak…">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Göster…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "B">
 <!ENTITY exceptionMgr.permanent.label         "Bu özel durumu sürekli kaydet">
 <!ENTITY exceptionMgr.permanent.accesskey     "k">
