@@ -85,4 +85,4 @@
 
 <!ENTITY insecureUnencrypted.description "Svojo e-pošto in overitev pa pošiljate nešifrirano, tako da vaše geslo (in vaše sporočilo) zlahka berejo tudi drugi. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se morali obrniti na svojega ponudnika e-pošte glede nastavitev strežnika z varno povezavo.">
 <!ENTITY insecureSelfSigned.description  "Strežnik uporablja potrdilo, ki ni zaupanja vredno, tako da ni gotovo, da nekdo ne prestreza prometa med &brandShortName; in strežnikom. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se res morali obrniti na svojega e-poštnega ponudnika glede nastavitve strežnika z zaupanja vrednim potrdilom.">
-<!ENTITY secureServer.description        "Čestitamo! Ta strežnik je varen.">
+<!ENTITY secureServer.description        "Čestitke! Ta strežnik je varen.">
