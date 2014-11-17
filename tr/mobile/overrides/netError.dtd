@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Adresi yazım hatalarına karşı kontrol edin. Örneğin 
+<strong>www</strong>.example.com yerine
+<strong>ww</strong>.example.com yazmadığınızdan emin olun. </li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Ara</button> 
+</div> 
+<li>Hiçbir sayfa açılmıyorsa cihazınızın veri veya Wi-Fi bağlantısını kontrol edin. 
+<button id='wifi'>Wi-Fi'ı etkinleştir</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc " <ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "Adres geçersiz">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Web adresleri genellikle 
+<strong>http://www.example.com/</strong>şeklinde yazılır.</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Ara</button> 
+</div> 
+<li>Sağa yatık bölü işaret kullandığınızdan emin olun (örn. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
