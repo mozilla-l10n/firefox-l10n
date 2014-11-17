@@ -26,7 +26,7 @@
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "&brandShortName; lahko z iskanjem pogosto uporabljenih metod za zavajanje preveri sporočila, za katera sumi, da vsebujejo e-poštno prevaro .">
-<!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je odprto sporočilo e-poštna prevara">
+<!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je prikazano sporočilo e-poštna prevara">
 <!ENTITY enablePhishingDetector1.accesskey  "S">
 <!ENTITY useDownloadedList.label "Uporabi prenesen seznam sumov e-poštnih prevar">
 <!ENTITY useDownloadedList.accesskey "U">
@@ -42,7 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira, preden se krajevno shranijo.">
+<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da dohodna sporočila analizira, preden se krajevno shranijo.">
 <!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna dohodna sporočila spravijo v karanteno">
 <!ENTITY antiVirus.accesskey  "D">
 
