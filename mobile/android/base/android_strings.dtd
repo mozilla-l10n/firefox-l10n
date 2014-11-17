@@ -5,12 +5,18 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; ಆರಂಭಿಸಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇಲ್ಲ.">
 <!ENTITY  error_loading_file "&brandShortName; ನ ಚಾಲನೆಗೆ ಅಗತ್ಯವಿರುವ ಕಡತಗಳನ್ನು ತುಂಬುವ ಪ್ರಯತ್ನದಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ;">
+
+<!ENTITY  onboard_start_message "&brandShortName; ಗೆ ಸ್ವಾಗತ!">
+<!ENTITY  onboard_start_subtext "ನಾವು, ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಹಾಗು ಮುಕ್ತ ಅಂತರ್ಜಾಲಕ್ಕೆ ಬದ್ಧ">
+<!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
+<!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY  history_title "ಇತಿಹಾಸ">
 <!ENTITY  reading_list_title "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
+<!ENTITY  recent_tabs_title "ಇತ್ತೀಚಿನ ಹಾಳೆಗಳು">
 
 <!ENTITY  switch_to_tab "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು">
 
@@ -33,9 +39,7 @@
 
 <!ENTITY choose_file "ಕಡತವನ್ನು ಆರಿಸು">
 
-<!ENTITY url_bar_default_text "ಹುಡುಕು ಅಥವಾ ವಿಳಾಸವನ್ನು ಟೈಪಿಸಿ">
 
-<!ENTITY bookmark "ಬುಕ್‌ಮಾರ್ಕ್">
 <!ENTITY bookmark_added "ಬುಕ್ ಮಾರ್ಕ್ ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
@@ -43,8 +47,8 @@
 
 <!ENTITY history_today_section "ಇಂದು">
 <!ENTITY history_yesterday_section "ನಿನ್ನೆ">
-<!ENTITY history_week_section "7 ದಿನಗಳ ಹಿಂದೆ">
-<!ENTITY history_older_section "7 ದಿನಗಳಿಗಿಂತ ಹಿಂದಿನದು">
+<!ENTITY history_week_section2 "ಹಿಂದಿನ ವಾರ">
+<!ENTITY history_older_section2 "ಹಿಂದಿನ ತಿಂಗಳು">
 
 <!ENTITY go "ಹೋಗು">
 <!ENTITY search "ಹುಡುಕು">
@@ -72,23 +76,45 @@
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ಭಾಷೆ">
+
 <!ENTITY pref_browser_locale "ವೀಕ್ಷಕದ ಭಾಷೆ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "ವ್ಯವಸ್ಥೆಯ ಪೂರ್ವನಿಯೋಜಿತ">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
+
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
+
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_category_installed_search_engines "ಅನುಸ್ಥಾಪಿಸಿರುವ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗಳು">
@@ -103,13 +129,14 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
+
+
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
 <!ENTITY pref_category_home_summary "ನಿಮ್ಮ ಮುಖಪುಟವನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
 <!ENTITY pref_category_home_panels "ಫಲಕಗಳು">
-<!ENTITY pref_home_add_panel "ಮುಖ್ಯ ಪಟ್ಟಿ ಸೇರಿಸು">
 <!ENTITY home_add_panel_title "ಹೊಸ ಮುಖ್ಯ ಪಟ್ಟಿ ಸೇರಿಸು">
 <!ENTITY home_add_panel_empty "ಕ್ಷಮಿಸಿ, ನೀವು ಸೇರಿಸಬಹುದಾದ ಯಾವುದೇ ಮುಖ್ಯಪಟ್ಟಿ ನಮಗೆ ದೊರೆತಿಲ್ಲ.">
 <!-- Localization note (home_add_panel_installed):
@@ -145,7 +172,11 @@
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
 <!ENTITY pref_char_encoding_off "ಪರಿವಿಡಿ ತೋರಿಸಬೇಡ">
-<!ENTITY pref_clear_private_data "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ಖಾಲಿಮಾಡು">
+<!ENTITY pref_clear_private_data2 "ಈಗಲೆ ಅಳಿಸು">
+<!ENTITY pref_clear_private_data_category "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ಖಾಲಿಮಾಡು">
+
+
+<!ENTITY pref_clear_on_exit_dialog_title "ಯಾವ ಡೇಟಾ ತೆರವುಗೊಳಿಸಬೇಕು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY pref_plugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳು">
 <!ENTITY pref_plugins_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_plugins_tap_to_play "ಆಡಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
@@ -173,10 +204,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "ಕಿತ್ತಳೆ ಬಣ್ಣದ ನರಿಯೊಂದು, ನಿಮ್ಮ ಊಹೆಗೆ ಮೀರಿದ ವೇಗ, ಫ್ಲೆಕ್ಸಿಬಿಲಿಟಿ ಮತ್ತು ಸುರಕ್ಷೆಯಿಂದ ನೆಗೆಯುವುದು. ನಾವು ಲಾಭದ ಹಿಂದೆ ಇಲ್ಲದ ಕಾರಣ, ಬಾಹ್ಯ ಒತ್ತಡಗಳಿಗೆ ಮಣಿಯದೆ, ನಿಮ್ಮ ಪರವಾಗಿ ಕೇವಲ ಹೊಸ ಕಲ್ಪನೆಗಳಿಗೆ ಇಂಬು ನೀಡಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇದರರ್ಥ, ನೀವು ವೆಬ್-ಭವಿಷ್ಯದಲ್ಲಿ, ಮತ್ತಷ್ಟು ಮೇರೆ ಮೀರಿದ ಅನುಭವವನ್ನು ಪಡೆಯುವಿರಿ.">
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
-<!ENTITY pref_show_product_announcements "ಉತ್ಪನ್ನದ ಘೋಷಣೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
+
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
+
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
@@ -226,11 +258,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಾರ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
-<!ENTITY datareporting_wifi_geolocation_summary "ನಮ್ಮ ಜಿಯೋಲೊಕೇಶನ್ ಸೇವೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸುವುದಕ್ಕಾಗಿ ವೈ-ಫೈ ಮತ್ತು ಸೆಲ್ಯುಲರ್ ಸ್ಥಳ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಿರ್ವಹಿಸುವಾಗ ಪಡೆದುಕೊಂಡು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
 <!ENTITY pref_update_autodownload_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_update_autodownload_never "ಎಂದಿಗೂ ಬೇಡ">
@@ -257,10 +288,12 @@ size. -->
 <!ENTITY new_tab "ಹೊಸ ಟ್ಯಾಬ್">
 <!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
+<!ENTITY close_private_tabs "ಖಾಸಗಿ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY tabs_normal "ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY tabs_private "ಖಾಸಗಿ">
 <!ENTITY tabs_synced "ಮೇಳೈಸಿದೆ">
 <!ENTITY set_image_fail "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
+
 <!ENTITY set_image_chooser_title "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -269,17 +302,14 @@ size. -->
 <!ENTITY find_prev "ಹಿಂದಿನ">
 <!ENTITY find_next "ಮುಂದೆ">
 <!ENTITY find_close "ಮುಚ್ಚು">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "ಸಾಧನಕ್ಕೆ ಪ್ರಸರಣೊಗಳಿಸಲಾಗುತ್ತಿದೆ">
 <!ENTITY media_play "ಪ್ಲೇ ಮಾಡು">
 <!ENTITY media_pause "ವಿರಾಮ">
 <!ENTITY media_stop "ನಿಲ್ಲಿಸು">
 
 <!ENTITY contextmenu_open_new_tab "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
-<!ENTITY contextmenu_open_in_reader "ರೀಡರಿನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆ">
 <!ENTITY contextmenu_add_to_launcher "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
 <!ENTITY contextmenu_share "ಹಂಚಿಕೊಳ್ಳಿ">
@@ -297,10 +327,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
 <!ENTITY pref_titlebar_mode_url "ಪುಟದ ವಿಳಾಸ ತೋರಿಸು">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "ಶೀರ್ಷಿಕೆ ಬಾರ್ ಅನ್ನು ಜಾರಿಸಿ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -349,10 +378,10 @@ size. -->
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
+<!ENTITY home_closed_tabs_title "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY home_last_tabs_title "ಕಡೆಯ ಸಾರ್ತಿಯ ಪುಟಗಳು">
-<!ENTITY home_last_tabs_open "ಕಳೆದ ಬಾರಿಯ ಎಲ್ಲ ಪುಟಗಳನ್ನು ತೆರೆ">
 <!ENTITY home_last_tabs_empty "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಪುಟಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
-<!ENTITY home_most_recent_title "ಅತಿ ಇತ್ತೀಚಿನ">
+<!ENTITY home_open_all "ಎಲ್ಲವನ್ನೂ ತೆರೆ">
 <!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -371,6 +400,28 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_up_to_filter "&formatS; ವರೆಗೆ">
+
+
+<!ENTITY home_remote_tabs_unable_to_connect "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+
+<!ENTITY private_tabs_panel_learn_more "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
 
@@ -439,6 +490,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; ಕ್ಕೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ">
 <!ENTITY updater_apply_select2 "ಪರಿಷ್ಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
@@ -448,6 +502,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
 <!ENTITY new_guest_session_text "ಇದನ್ನು ಬಳಸುವ ವ್ಯಕ್ತಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಜಾಲಾಟದ ದತ್ತಾಂಶ (ಉಳಿಸಿದ ಪ್ರವೇಶಪದಗಳು, ಇತಿಹಾಸ ಅಥವಾ ಪುಟಗುರುತುಗಳು ಇತ್ಯಾದಿ)ಕಾಣಲು ಸಾಧ್ಯವಿಲ್ಲ.\n\n ನಿಮ್ಮ ಅತಿಥಿಗಳ ಕೆಲಸ ಮುಗಿದ ನಂತರ, ಅವರ ಜಾಲಾಟದ ದತ್ತಾಂಶವು ಅಳಿಸಲ್ಪಟ್ಟು ನಿಮ್ಮ ಅಧಿವೇಶನ ಪುನರಾರಂಭಗೊಳ್ಳುತ್ತದೆ.">
 
+
+
 <!ENTITY exit_guest_session_title "&brandShortName; ಈಗ ಪುನರಾರಂಭವಾಗುತ್ತದೆ">
 <!ENTITY exit_guest_session_text "ಈ ಅಧಿವೇಶನದಿಂದ ಜಾಲಾವೀಕ್ಷಣೆ ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ.">
 <!-- Miscellaneous -->
@@ -456,6 +512,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

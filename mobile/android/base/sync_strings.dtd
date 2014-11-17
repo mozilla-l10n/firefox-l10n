@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "ಇಚ್ಛೆಯ ಪೂರೈಕೆದಾರನನ್ನು ಬಳಸಿ">
 <!ENTITY sync.input.server.label "ಪರಿಚಾರಕದ URL">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಲಾಗಲಿಲ್ಲ">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ಸರ್ವರ್ ಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ನೀವು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಲು ಬಯಸುವಿರಾ?">
 <!ENTITY sync.button.tryagain.label "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಖಾತೆ ರಚನೆ ವಿಫಲವಾಗಿದೆ.">
 <!ENTITY sync.subtitle.failmultiple.label "ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಾ? ಸಧ್ಯಕ್ಕೆ , &syncBrand.fullName.label; ಕೇವಲ ಒಮ್ಮೆಗೆ ಒಂದು ಫೈರ್ಫಾಕ್ಸ್ ಸ್ಥಾಪನೆಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಲು ಇತರೆ ಸ್ಥಾಪನೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
 <!ENTITY sync.subtitle.success.label1 "ಈಗ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಕಲಿಳಿಸಲಾಗುತ್ತಿದೆ. ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ ನಿರ್ವಹಿಸಬಹುದು, ಅಥವಾ &brandShortName; ನೊಂದಿಗೆ ಜಾಲಾಟ ಆರಂಭಿಸಬಹುದು.">
 <!ENTITY sync.settings.label "ಸಿದ್ಧತೆಗಳು">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (ಹಳತಾದ)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
@@ -108,6 +113,9 @@
 
 
 <!ENTITY fxaccount_full_label "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆಗಳು">
+
+<!ENTITY fxaccount_custom_server_account_title "ಸರ್ವರ್‌ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY fxaccount_custom_server_sync_title "ಸಿಂಕ್ ಡೇಟಾ‌ವನ್ನು ಸರ್ವರ್‌ನಲ್ಲಿ ಇರಿಸಲಾಗುತ್ತಿದೆ">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -175,7 +183,9 @@
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
+<!ENTITY fxaccount_status_auth_server "ಖಾತೆ ಸರ್ವರ್">
 <!ENTITY fxaccount_status_device_name "ಸಾಧನದ ಹೆಸರು">
+<!ENTITY fxaccount_status_sync_server "ಸಿಂಕ್ ಸರ್ವರ್">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
@@ -194,13 +204,19 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "ಸೇವೆಯ ನಿಯಮಗಳು">
 <!ENTITY fxaccount_status_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "ಫೈರ್ಫಾಕ್ಸ್">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -223,6 +239,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ಜಾಲಬಂಧದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
