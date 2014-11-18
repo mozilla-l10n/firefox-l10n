@@ -372,13 +372,13 @@
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
 <!ENTITY killThreadMenu.accesskey "z">
-<!ENTITY killThreadMenu.key "k">
+<!ENTITY killThreadMenu.key "u">
 <!ENTITY killSubthreadMenu.label "Prezri podnit">
 <!ENTITY killSubthreadMenu.accesskey "t">
-<!ENTITY killSubthreadMenu.key "r">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
 <!ENTITY watchThreadMenu.accesskey "l">
-<!ENTITY watchThreadMenu.key "w">
+<!ENTITY watchThreadMenu.key "s">
 <!ENTITY tagMenu.label "Dodaj oznako">
 <!ENTITY tagMenu.accesskey "j">
 <!ENTITY tagCmd0.key "0">
