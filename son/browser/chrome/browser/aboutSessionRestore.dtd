@@ -26,8 +26,15 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "Ir ma koy!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "Zaame!">
 
+<!ENTITY welcomeback2.pageTitle     "Zaame!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; soolu ka koy.">
+
+<!ENTITY welcomeback2.label.restoreAll  "Zanfuney nda nor lokey kul yeeti">
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively

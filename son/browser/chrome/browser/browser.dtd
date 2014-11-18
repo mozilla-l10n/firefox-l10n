@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Žemna goymee tontoney ceeci…">
 <!ENTITY sharePageCmd.label "Moɲoo woo žemna">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "e">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Doboo woo žemna">
+<!ENTITY shareLink.accesskey "e">
+<!ENTITY shareImage.label "Biyoo woo žemna">
+<!ENTITY shareImage.accesskey "e">
+<!ENTITY shareSelect.label "Suubaroo woo žemna">
+<!ENTITY shareSelect.accesskey "e">
+<!ENTITY shareVideo.label "Widewo woo žemna">
+<!ENTITY shareVideo.accesskey "e">
 <!ENTITY feedsMenu.label "Boŋ-maa hantum">
 <!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga…">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tontoney">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Porogaramizey">
+<!ENTITY webapps.accesskey            "P">
 
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 <!ENTITY webDeveloperMenu.accesskey   "T">
@@ -482,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Widewo sanba bataga ra…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "Widewo sanba jinaa do">
+<!ENTITY castVideoCmd.accesskey       "a">
 <!ENTITY emailAudioCmd.label          "Jinde tukoo sanba…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Sukaroo woo tunandi">
@@ -698,10 +700,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "B">
 <!ENTITY social.closeNotificationItem.label "Manti sohõ">
 
-
-
-
-
+<!ENTITY social.directory.label "Dirandiyan fooloɲaa">
+<!ENTITY social.directory.text "War ga hin ka žemna goymiɲey dirandi ka hun fooloɲaŋoo ga.">
+<!ENTITY social.directory.button "Ay zaa noodin!">
+<!ENTITY social.directory.introText "Goymee naagu k'a tonton &brandShortName; ga.">
+<!ENTITY social.directory.viewmore.text "Guna ka tonton">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; hanse war boŋše">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Goyjinay nda alhaaliyaŋ tonton">
@@ -717,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Furari tontoney guna">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "Goy nda &brandShortName; furari">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Faakaarawey suuba">
@@ -743,18 +746,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Suubarey">
 <!ENTITY mixedContentBlocked2.unblock.label "Jejebu kaa sohõ se">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "Jejebuyan tunandi">
+<!ENTITY mixedContentBlocked2.block.accesskey "e">
 <!ENTITY mixedContentBlocked2.disabled.message "Jejeboo kayandi">
 
 <!ENTITY trackingContentBlocked.message "Kuryan">
 <!ENTITY trackingContentBlocked.moreinfo "Ir na moo-kunawey kaŋyaŋ ga war monno interneti bande gagay.">
 <!ENTITY trackingContentBlocked.learnMore "Bay ka tonton">
 <!ENTITY trackingContentBlocked.options "Suubarey">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Jejeboo kaa moɲoo woo se">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "a">
+<!ENTITY trackingContentBlocked.block.label "Jejebuyan tunandi">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Monnoyan jejebu n' ka kay">
 
 <!ENTITY pointerLock.notification.message "ESC naagu waati kul k'a cebe koyne.">
