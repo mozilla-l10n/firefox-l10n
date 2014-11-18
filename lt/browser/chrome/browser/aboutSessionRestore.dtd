@@ -29,8 +29,10 @@
 <!ENTITY welcomeback2.restoreButton  "Pirmyn!">
 
 
+<!ENTITY welcomeback2.tabtitle      "Pavyko!">
 
-
+<!ENTITY welcomeback2.pageTitle     "Pavyko!">
+<!ENTITY welcomeback2.pageInfo1     "„&brandShortName;“ jau pasiruošė.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Atkurti visus langus ir korteles">
 <!ENTITY welcomeback2.label.restoreSome "Atkurti tik pageidaujamus">
@@ -40,5 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Jūsų priedai bei parinktys buvo panaikinti, o naršyklės nustatymai buvo sugrąžinti į numatytus. Jeigu tai neišsprendė problemos, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "sužinokite, ką dar galite išbandyti.">
