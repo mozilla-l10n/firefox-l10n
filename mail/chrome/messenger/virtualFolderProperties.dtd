@@ -4,19 +4,19 @@
 
 <!ENTITY virtualFolderProperties.title "Nova mapa za shranjeno iskanje">
 <!ENTITY name.label                 "Ime:">
-<!ENTITY name.accesskey             "I">
+<!ENTITY name.accesskey             "m">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Priredite pogoje za iskanje, ki se ga rabi v tej mapi za shranjena iskanja: ">
+<!ENTITY searchTermCaption.label "Nastavite merila za iskanje, ki se uporabljajo za to mapo shranjena iskanja: ">
 
 <!ENTITY folderSelectionCaption.label "Izberite mape za iskanje: ">
 <!ENTITY chooseFoldersButton.label "Izberi …">
-<!ENTITY chooseFoldersButton.accesskey "I">
+<!ENTITY chooseFoldersButton.accesskey "z">
 
-<!ENTITY searchOnline.label "Iskanje na spletu (daje najnovejše rezultate za mape za IMAP in novice, podaljša pa čas, potreben za to, da mapo odprete)">
-<!ENTITY searchOnline.accesskey "s">
+<!ENTITY searchOnline.label "Išči na spletu (daje najnovejše rezultate za mape IMAP in novic, toda podaljša čas odpiranja mape)">
+<!ENTITY searchOnline.accesskey "š">
 <!ENTITY newFolderButton.label       "Ustvari">
-<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY newFolderButton.accesskey   "U">
 <!ENTITY editFolderButton.label      "Posodobi">
-<!ENTITY editFolderButton.accesskey  "U">
+<!ENTITY editFolderButton.accesskey  "P">
