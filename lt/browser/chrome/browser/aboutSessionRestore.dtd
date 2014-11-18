@@ -27,7 +27,7 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Pirmyn!">
-
+<!ENTITY welcomeback2.restoreButton.access "m">
 
 <!ENTITY welcomeback2.tabtitle      "Pavyko!">
 
@@ -44,7 +44,7 @@ their language.
 -->
 
 
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Jūsų priedai bei parinktys buvo panaikinti, o naršyklės nustatymai buvo sugrąžinti į numatytus. Jeigu tai neišsprendė problemos, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Jūsų priedai bei parinktys buvo panaikinti, o naršyklės nuostatos buvo sugrąžintos į numatytas. Jeigu tai neišsprendė problemos, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "sužinokite, ką dar galite išbandyti.">
