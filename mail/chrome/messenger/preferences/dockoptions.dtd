@@ -12,4 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.label      "Okunmamış ileti sayısı">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "O">
 <!ENTITY dockIconBadge.label                   "Uygulama simgesi rozet">
-
+<!ENTITY dockIconShow.label                    "Uygulama simgesine rozet ekle:">
