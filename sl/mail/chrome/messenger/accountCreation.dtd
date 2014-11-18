@@ -20,8 +20,8 @@
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
 <!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
-<!ENTITY incoming.label                  "Prihajajoča:">
-<!ENTITY outgoing.label                  "Odhajajoča:">
+<!ENTITY incoming.label                  "Dohodni:">
+<!ENTITY outgoing.label                  "Dohodni:">
 <!ENTITY username.label                  "Uporabniško ime:">
 <!ENTITY hostname.label                  "Ime strežnika">
 <!ENTITY port.label                      "Port">
