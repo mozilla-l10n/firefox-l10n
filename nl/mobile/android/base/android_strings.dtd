@@ -514,8 +514,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bladwijzers en geschiedenis">
 
-<!ENTITY devtools_remote_debugging_forward "Vergeet niet om port forwarding in te stellen!">
-
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Update voor &brandShortName; beschikbaar">
 <!ENTITY updater_start_select2 "Raak aan om te downloaden">
