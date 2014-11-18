@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label     "Izpolni vse pogoje">
+<!ENTITY matchAll.label     "Izpolni vsa merila">
 <!ENTITY matchAll.accesskey "v">
-<!ENTITY matchAny.label     "Izpolni vsaj en pogoj">
+<!ENTITY matchAny.label     "Izpolni vsaj eno merilo">
 <!ENTITY matchAny.accesskey "e">
 <!ENTITY matchAllMsgs.label     "Uporabi za vsa sporočila">
 <!ENTITY matchAllMsgs.accesskey "s">
