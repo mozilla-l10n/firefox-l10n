@@ -209,6 +209,9 @@ size. -->
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "De snelle oranje vos springt over uw verwachtingen met meer snelheid, meer flexibiliteit en meer veiligheid. Als stichting zijn we vrij om in uw belang en zonder druk voor compromissen te innoveren. Dat betekent een betere ervaring voor u en een stralende toekomst voor het internet.">
 
+<!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
+<!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
+
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Tabbladen, bladwijzers, wachtwoorden en geschiedenis synchroniseren">
