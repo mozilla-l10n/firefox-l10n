@@ -116,5 +116,5 @@
 
 <!ENTITY viewCertificates.label         "Onay belgelerini göster">
 <!ENTITY viewCertificates.accesskey     "a">
-
-
+<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.accesskey  "G">

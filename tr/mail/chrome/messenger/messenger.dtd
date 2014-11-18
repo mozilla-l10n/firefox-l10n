@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd2.label "Sekmeyi kapat">
 <!ENTITY closeTabCmd2.accesskey "S">
-
-
+<!ENTITY closeOtherTabsCmd2.label "Diğer sekmeleri kapat">
+<!ENTITY closeOtherTabsCmd2.accesskey "D">
 <!ENTITY recentlyClosedTabsCmd.label "Son kapatılan sekmeler">
 <!ENTITY recentlyClosedTabsCmd.accesskey "a">
 
@@ -32,8 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
 <!ENTITY newIMAccountCmd.label "Sohbet hesabı…">
 <!ENTITY newIMAccountCmd.accesskey "o">
-
-
+<!ENTITY newFeedAccountCmd.label "Besleme hesabı…">
+<!ENTITY newFeedAccountCmd.accesskey "B">
 <!ENTITY newIMContactCmd.label "Sohbet Kişisi…">
 <!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "v">
 <!ENTITY synchronizeOfflineCmd.label "Şimdi indir/eşitle…">
 <!ENTITY synchronizeOfflineCmd.accesskey "m">
-
-
+<!ENTITY settingsOfflineCmd2.label "Çevrim dışı ayarları">
+<!ENTITY settingsOfflineCmd2.accesskey "d">
 <!ENTITY downloadSelectedCmd.label "Seçili iletileri indir">
 <!ENTITY downloadSelectedCmd.accesskey "i">
 <!ENTITY downloadStarredCmd.label "Yıldızlı iletileri indir">
@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
 <!ENTITY selectMenu.label "Seç">
 <!ENTITY selectMenu.accesskey "S">
-
-
+<!ENTITY all.label "Tümü">
+<!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Dizi">
 <!ENTITY selectThreadCmd.accesskey "i">
 <!ENTITY selectThreadCmd.key "a">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "l">
 <!ENTITY menuFavoriteFolder.label "Dizini favorilere ekle">
 <!ENTITY menuFavoriteFolder.accesskey "e">
-
-
-
-
+<!ENTITY folderPropsCmd2.label "Özellikler">
+<!ENTITY folderPropsFolderCmd2.label "Dizin özellikleri">
+<!ENTITY folderPropsNewsgroupCmd2.label "Haber grubu özellikleri">
+<!ENTITY folderPropsCmd.accesskey "u">
 <!ENTITY undoDeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY redoDeleteMsgCmd.label "İletiyi tekrar sil">
 <!ENTITY undoMoveMsgCmd.label "İleti taşımayı geri al">
@@ -158,10 +158,10 @@
 <!ENTITY unreadFolders.accesskey "u">
 <!ENTITY favoriteFolders.label "Favoriler">
 <!ENTITY favoriteFolders.accesskey "F">
-
-
-
-
+<!ENTITY recentFolders.label "En son">
+<!ENTITY recentFolders.accesskey "E">
+<!ENTITY compactVersion.label "Yoğun görünüm">
+<!ENTITY compactVersion.accesskey "Y">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sıralama koşulu">
@@ -172,8 +172,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "A">
 <!ENTITY sortByStarCmd.label "Yıldız">
 <!ENTITY sortByStarCmd.accesskey "z">
-
-
+<!ENTITY sortByAttachmentsCmd.label "Ekler">
+<!ENTITY sortByAttachmentsCmd.accesskey "k">
 <!ENTITY sortByPriorityCmd.label "Öncelik">
 <!ENTITY sortByPriorityCmd.accesskey "n">
 <!ENTITY sortBySizeCmd.label "Boyut">
@@ -283,8 +283,8 @@
 <!ENTITY goMenu.accesskey "i">
 <!ENTITY nextMenu.label "Sonraki">
 <!ENTITY nextMenu.accesskey "S">
-
-
+<!ENTITY nextMsgCmd.label "İleti">
+<!ENTITY nextMsgCmd.accesskey "t">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Okunmamış ileti">
 <!ENTITY nextUnreadMsgCmd.accesskey "O">
@@ -424,8 +424,8 @@
 <!ENTITY openConversationCmd.label "Dizi görünümünde aç">
 <!ENTITY openConversationCmd.accesskey "D">
 <!ENTITY openConversationCmd.key "D">
-
-
+<!ENTITY openAttachmentListCmd.label "Ekler">
+<!ENTITY openAttachmentListCmd.accesskey "k">
 
 
 
@@ -480,8 +480,8 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
 <!ENTITY clearRecentHistory.accesskey "H">
-
-
+<!ENTITY accountManagerCmd2.label "Hesap ayarları">
+<!ENTITY accountManagerCmd2.accesskey "H">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 
@@ -618,12 +618,12 @@
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "İletilerde ara…">
 <!ENTITY folderContextSearchForMessages.accesskey "a">
-
-
+<!ENTITY folderContextProperties2.label "Özellikler">
+<!ENTITY folderContextProperties2.accesskey "Ö">
 <!ENTITY folderContextFavoriteFolder.label "Favori dizinler">
 <!ENTITY folderContextFavoriteFolder.accesskey "e">
-
-
+<!ENTITY folderContextSettings2.label "Ayarlar">
+<!ENTITY folderContextSettings2.accesskey "A">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "İsim veya e-posta:">
@@ -660,7 +660,7 @@
 <!ENTITY starredColumn.label "Yıldızlı">
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alınma sırası">
-
+<!ENTITY attachmentColumn.label "Ekler">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
