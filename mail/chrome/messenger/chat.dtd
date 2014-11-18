@@ -29,7 +29,7 @@
 <!ENTITY deleteCmd.label               "移除聯絡人">
 <!ENTITY deleteCmd.accesskey           "v">
 
-<!ENTITY openConversationButton.tooltip  "開啟一個對話">
+<!ENTITY openConversationButton.tooltip  "開始對話">
 <!ENTITY closeConversationButton.tooltip "關閉對話">
 
 <!ENTITY addBuddyButton.label          "新增聯絡人">

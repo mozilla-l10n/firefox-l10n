@@ -7,7 +7,7 @@
 
 <!ENTITY fromAddr.label "寄件者:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY subject.label  "主題:">
+<!ENTITY subject.label  "主旨:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "附加檔案:">
 <!ENTITY attachments.accesskey "c">
