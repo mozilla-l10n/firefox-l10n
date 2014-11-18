@@ -8,12 +8,10 @@
 <!ENTITY tracking.label                   "Sledovanie používateľov">
 <!ENTITY trackingIntro.label              "Webové stránky môžu sledovať ako ich používate, čo ovplyvňuje vaše súkromie.">
 
-<!ENTITY dntTellSites.label               "Povedzte stránkam, či chcete byť sledovaný">
-<!ENTITY dntTellSites.accesskey           "o">
-<!ENTITY dntTrackingNotOkay.label         "Nechcem byť sledovaný">
-<!ENTITY dntTrackingNotOkay.accesskey     "N">
-<!ENTITY dntTrackingOkay.label            "Môžem byť sledovaný">
-<!ENTITY dntTrackingOkay.accesskey        "M">
+<!ENTITY doNotTrack.label                 "Oznámiť webovým stránkam, že nechcem byť sledovaný">
+<!ENTITY doNotTrack.accesskey             "O">
+<!ENTITY trackProtect.label               "Obmedziť sledovacie aktivity známych stránok">
+<!ENTITY trackProtect.accesskey           "m">
 
 <!ENTITY geoLocation.label                "Prehliadanie s prezradením polohy">
 <!ENTITY geoIntro.label                   "Webové stránky môžu požadovať informácie o vašej aktuálnej polohe.">
