@@ -15,7 +15,7 @@
 
 <!ENTITY  locationBar.label             "Panel s adresou">
 
-<!ENTITY  locbar.pre.label              "Pri používaní panela s adresou ponúkať:">
+<!ENTITY  locbar.suggest.label          "Pri používaní panela s adresou ponúkať:">
 <!ENTITY  locbar.history.label          "záznamy z histórie">
 <!ENTITY  locbar.history.accesskey      "r">
 <!ENTITY  locbar.bookmarks.label        "záložky">
