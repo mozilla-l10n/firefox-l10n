@@ -476,6 +476,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "Deze pagina geeft inhoud weer die niet is beveiligd.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft inhoud die niet is beveiligd geblokkeerd.">
 <!ENTITY blocked_mixed_content_message_bottom "De meeste websites zullen nog gewoon werken, zelfs wanneer deze inhoud wordt geblokkeerd.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message "Deze pagina volgt uw online-activiteit.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; heeft deze pagina geblokkeerd om uw online-activiteit te volgen.">
+<!ENTITY blocked_tracking_content_message_bottom "De meeste websites zullen nog gewoon werken, zelfs wanneer online-volgen wordt geblokkeerd.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Meer info">
 <!ENTITY enable_protection "Bescherming inschakelen">
 <!ENTITY disable_protection "Bescherming uitschakelen">
