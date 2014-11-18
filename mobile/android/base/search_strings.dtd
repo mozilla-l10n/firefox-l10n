@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name '&brandShortName; zoeken'>
+<!ENTITY search_app_name '&brandShortName; Zoeken'>
 
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Met &formatS; zoeken'>
+<!ENTITY search_bar_hint 'Zoeken met &formatS;'>
 
 <!ENTITY search_empty_title2 'Start zoeken'>
-<!ENTITY search_empty_message 'Snel zoekn naar wat u maar wilt'>
+<!ENTITY search_empty_message 'Snel zoeken naar wat u maar wilt'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Aan zoekbalk toevoegen'>
+<!ENTITY search_plus_content_description 'Toevoegen aan zoekbalk'>
 
 <!ENTITY search_pref_title 'Instellingen'>
 <!ENTITY search_pref_button_content_description 'Instellingen'>

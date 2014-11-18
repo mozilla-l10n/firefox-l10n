@@ -84,7 +84,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Taal">
-<!ENTITY pref_category_language_summary "Verander de taal van uw browser">
+<!ENTITY pref_category_language_summary "De taal van uw browser wijzigen">
 <!ENTITY pref_browser_locale "Browsertaal">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -102,7 +102,7 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bladwijzer maken">
 <!ENTITY overlay_share_reading_list_btn_label "Toevoegen aan leeslijst">
-<!ENTITY overlay_share_bookmark_btn_label_already "al een bladwijzer van gemaakt">
+<!ENTITY overlay_share_bookmark_btn_label_already "Bladwijzer bestaat al">
 <!ENTITY overlay_share_reading_list_btn_label_already "Al in leeslijst">
 <!ENTITY overlay_share_send_other "Verzenden naar andere apparaten">
 
@@ -120,9 +120,9 @@
 <!ENTITY pref_category_display "Weergave">
 <!ENTITY pref_category_display_summary "Tekst, titelbalk, volledigschermnavigatie">
 <!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary "wachtwoorden beheren, cookies, tracking, gegevens">
+<!ENTITY pref_category_privacy_summary "Wachtwoorden beheren, cookies, volgen, gegevens">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Over &brandShortName;, FAQs, gegevenskeuzes">
+<!ENTITY pref_category_vendor_summary "Over &brandShortName;, FAQ’s, gegevenskeuzes">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_learn_more "Meer info">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
@@ -180,7 +180,7 @@
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
 <!ENTITY pref_clear_private_data2 "Nu wissen">
 <!ENTITY pref_clear_private_data_category "Privégegevens wissen">
-<!ENTITY pref_clear_on_exit_title2 "Wissen bij sluiten">
+<!ENTITY pref_clear_on_exit_title2 "Wissen bij afsluiten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u201CAfsluiten\u201D selecteert in het hoofdmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens u wilt wissen">
 <!ENTITY pref_plugins "Plug-ins">
@@ -211,10 +211,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Synchroniseer uw tabbladen, bladwijzers, wachtwoorden, geschiedenis">
+<!ENTITY pref_sync_summary "Tabbladen, bladwijzers, wachtwoorden en geschiedenis synchroniseren">
 <!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 <!ENTITY pref_import_android "Importeren uit Android">
-<!ENTITY pref_import_android_summary "Bladwijzers en geschiedenis importeren vanuit de native browser">
+<!ENTITY pref_import_android_summary "Bladwijzers en geschiedenis vanuit de systeemeigen browser importeren">
 <!ENTITY pref_private_data_history2 "Navigatiegeschiedenis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; actieve aanmeldingen">
@@ -264,7 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-locatieservice">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Deelt bij benadering wifi- en gsm-locatiegegevens van uw apparaat met &vendorShortName; om onze geolocatieservice te verbeteren">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Deelt geschatte wifi- en gsm-locatiegegevens van uw apparaat met &vendorShortName; om onze geolocatieservice te verbeteren">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -423,11 +423,11 @@ size. -->
 <!ENTITY home_move_up_to_filter "Terug naar &formatS;">
 
 <!ENTITY home_remote_tabs_title "Gesynchroniseerde tabbbladen">
-<!ENTITY home_remote_tabs_empty "Uw tabbladen van andere apparaten verschijnen hier.">
+<!ENTITY home_remote_tabs_empty "Hier verschijnen uw tabbladen van andere apparaten.">
 <!ENTITY home_remote_tabs_unable_to_connect "Kan geen verbinding maken">
 <!ENTITY home_remote_tabs_need_to_sign_in "Meld u aan om uw Firefox-account opnieuw te verbinden en door te gaan met synchroniseren.">
-<!ENTITY home_remote_tabs_trouble_verifying "Probleem om us account te verifiëren?">
-<!ENTITY home_remote_tabs_need_to_verify "Controleer uw Firefox-account om synchroniseren te starten.">
+<!ENTITY home_remote_tabs_trouble_verifying "Probleem bij het verifiëren van uw account?">
+<!ENTITY home_remote_tabs_need_to_verify "Verifieer uw Firefox-account om het synchroniseren te starten.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 apparaat verborgen">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -437,7 +437,7 @@ size. -->
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; apparaten verborgen">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Verborden apparten">
+<!ENTITY home_remote_tabs_hidden_devices_title "Verborgen apparaten">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Geselecteerde apparaten zichtbaar maken">
@@ -447,7 +447,7 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "Wilt u meer info?">
 
 <!ENTITY remote_tabs_panel_moved_title "Waar zijn mijn tabbalden gebleven?">
-<!ENTITY remote_tabs_panel_moved_desc "We hebben uw tabbalden van andere apparaten verplaatst naar een makkelijk bereikbaar paneel op uw startpagina elke keer als u een nieuw tabblad opent.">
+<!ENTITY remote_tabs_panel_moved_desc "We hebben uw tabbladen van andere apparaten naar een paneel op uw startpagina verplaatst dat telkens wanneer u een nieuw tabblad opent makkelijk bereikbaar is.">
 <!ENTITY remote_tabs_panel_moved_link "Breng me naar mijn nieuwe paneel.">
 
 <!ENTITY pin_site_dialog_hint "Voer een zoekterm in">
@@ -470,7 +470,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "welke wordt beheerd door">
+<!ENTITY identity_run_by "Deze website wordt beheerd door">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Deze pagina geeft inhoud weer die niet is beveiligd.">
@@ -521,8 +521,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- New tablet UI -->
 
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart " Herstart de browser om wijzigingen van kracht te laten worden">
-<!ENTITY new_tablet_pref "Nieuw tablet-UI activeren">
+<!ENTITY new_tablet_restart "Herstart de browser om de wijzigingen van kracht te laten worden">
+<!ENTITY new_tablet_pref "Nieuwe tablet-UI inschakelen">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nieuwe gastsessie">
@@ -531,8 +531,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Annuleren">
 <!ENTITY new_guest_session_title "&brandShortName; zal nu herstarten">
 <!ENTITY new_guest_session_text "De persoon die dit gebruikt zal uw persoonlijke navigatiegegevens (zoals opgeslagen wachtwoorden, geschiedenis of bladwijzers) niet kunnen zien.\n\nZodra uw gast klaar is, worden zijn of haar navigatiegegevens verwijderd en wordt uw sessie hersteld.">
-<!ENTITY guest_browsing_notification_title "Gastnavigeren is ingeschakeld">
-<!ENTITY guest_browsing_notification_text "Tik om te sluiten">
+<!ENTITY guest_browsing_notification_title "Gastnavigatie is ingeschakeld">
+<!ENTITY guest_browsing_notification_text "Tik om af te sluiten">
 
 <!ENTITY exit_guest_session_title "&brandShortName; zal nu herstarten">
 <!ENTITY exit_guest_session_text "De navigatiegegevens van deze sessie zullen worden verwijderd.">
