@@ -484,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ই-মেইল করুন…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "ডিভাইসে ভিডিও পাঠান">
+<!ENTITY castVideoCmd.accesskey       "ঠ">
 <!ENTITY emailAudioCmd.label          "অডিও ই-মেইল করুন…">
 <!ENTITY emailAudioCmd.accesskey      "ই">
 <!ENTITY playPluginCmd.label          "এই প্লাগিনটি সক্রিয় করুন (c)">
@@ -700,10 +700,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এই মুহূর্তে নয়">
 
-
-
-
-
+<!ENTITY social.directory.label "অ্যাক্টিভেশানের পঞ্জি">
+<!ENTITY social.directory.text "এই ডাইরেক্টরি থেকে আপনি শেয়ার পরিষেবা সক্রিয় করতে পারবেন।">
+<!ENTITY social.directory.button "আমাকে সেখানে নিয়ে যান!">
+<!ENTITY social.directory.introText "কোন পরিষেবা তে ক্লিক করে তাকে &brandShortName; এর সাথে যুক্ত করতে পারবেন।">
+<!ENTITY social.directory.viewmore.text "আরো দেখুন">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত বৈশিষ্ট্য এবং টুল">
@@ -719,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম দেখুন">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label "&brandShortName; থিম ব্যবহার করুন">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চ্যাটে কেন্দ্র করুন (c)">
@@ -790,20 +791,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "শেষের টি ভুলে যান:">
+<!ENTITY panicButton.view.5min                    "পাঁচ মিনিট">
+<!ENTITY panicButton.view.2hr                     "দুই ঘণ্টা">
+<!ENTITY panicButton.view.day                     "24 ঘন্টা">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
+<!ENTITY panicButton.view.mainActionDesc          "যদি আপনি আগে এগোন:">
+<!ENTITY panicButton.view.deleteCookies           "সাম্প্রতিক<html:strong>কুকিগুলি</html:strong> মুছে ফেলুন">
+<!ENTITY panicButton.view.deleteHistory           "সাম্প্রতিক <html:strong> ইতিহাস </html:strong> মুছে ফেলুন">
 
 
 
 <!ENTITY panicButton.view.undoWarning             "এই কাজ নাকচ করা সম্ভব নয়।">
 
 
-
-
+<!ENTITY panicButton.thankyou.msg2                "সুরক্ষিত ব্রাউজিং!">
+<!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
 
