@@ -32,6 +32,10 @@
   Histogrammen
 ">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Keyed histogrammen
+">
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Eenvoudige metingen
 ">
