@@ -10,6 +10,9 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "i">
 <!ENTITY dntTrackingOkay.label2         "Esan guneei nire jarraipena egiteko">
 <!ENTITY dntTrackingOkay.accesskey      "j">
+<!ENTITY trackingProtection.label       "Eragotzi guneek nire jarraipena egitea">
+<!ENTITY trackingProtection.accesskey   "z">
+<!ENTITY trackingProtectionLearnMore.label "Argibide gehiago">
 <!ENTITY doNotTrackInfo.label           "Argibide gehiago">
 
 <!ENTITY  history.label                 "Historia">
