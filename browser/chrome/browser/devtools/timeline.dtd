@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "Įrašyti laiko juostos operacijas">
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,6 +21,10 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Spustelėkite">
+<!ENTITY timelineUI.emptyNotice2    "mygtuką, norėdami pradėti įrašinėti įvykius iš laiko juostos.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
+
+<!ENTITY timelineUI.stopNotice1    "Spustelėkite">
 
