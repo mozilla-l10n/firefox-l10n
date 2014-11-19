@@ -34,8 +34,8 @@
 <!ENTITY sortAscending.accesskey               "b">
 <!ENTITY sortDescending.label                  "Atvirkščiai">
 <!ENTITY sortDescending.accesskey              "k">
-
 <!-- context menu -->
+
 <!ENTITY composeEmail.label                    "Rašyti laišką">
 <!ENTITY composeEmail.accesskey                "R">
 <!ENTITY copyAddress.label                     "Kopijuoti el. pašto adresą">

@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- mac -->
 <!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
   Cmd.key. -->
-
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
   application menu. Never change the modifiers unless you are 100% sure that
   they are different on your locale (should be very rare). -->
+
+
 <!ENTITY preferencesCmd.label           "Nuostatos…">
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
@@ -20,7 +20,7 @@
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Rodyti viską">
-<!ENTITY quitApplicationCmd.label       "Baigti „&brandShortName;“ darbą">
+<!ENTITY quitApplicationCmd.label       "Baigti „&brandShortName;“ darbą"> 
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
@@ -31,10 +31,11 @@
 <!ENTITY printSetupCmd.label            "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey        "P">
 
-<!ENTITY redoCmd.key                    "Z">  
-
+<!ENTITY findReplaceCmd.key             "F">
+<!ENTITY redoCmd.key                    "Z">
 <!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
   Address Book -->
+
 <!ENTITY showHideSidebarCmd.key         "S">
 <!ENTITY toggleFolderPaneCmd.key        "S">
 <!ENTITY toggleDirectoryPaneCmd.key     "S">
@@ -49,14 +50,14 @@
 <!ENTITY minimizeWindowCmd.label        "Suskleisti">
 <!ENTITY minimizeWindowCmd.key          "M">
 <!ENTITY zoomWindowCmd.label            "Keisti dydį">
+<!-- Help menu -->
 
-<!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "„&brandShortName;“ žinynas">
 <!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
-
 <!-- Key labels, for mousewheel prefs -->
-<!ENTITY ctrlKey.label                  "Ctrl">
-<!ENTITY altKey.label                   "Option">
-<!ENTITY shiftKey.label                 "Shift">
+
+<!ENTITY ctrlKey.label                   "Ctrl">
+<!ENTITY altKey.label                    "Option">
+<!ENTITY shiftKey.label                  "Shift">

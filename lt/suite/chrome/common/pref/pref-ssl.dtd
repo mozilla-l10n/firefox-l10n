@@ -19,12 +19,12 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description2 "Programa „&brandShortName;“ gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus:">
-<!ENTITY warn.enteringsecure "įkeliant tinklalapį, turintį šifravimo priemones">
+<!ENTITY warn.description2                  "Programa „&brandShortName;“ gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus:">
+<!ENTITY warn.enteringsecure                "įkeliant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.enteringsecure.accesskey      "k">
-<!ENTITY warn.insecurepost "persiunčiant formų duomenis tarp dviejų nešifruotų tinklalapių">
+<!ENTITY warn.insecurepost                  "persiunčiant formų duomenis tarp dviejų nešifruotų tinklalapių">
 <!ENTITY warn.insecurepost.accesskey        "f">
-<!ENTITY warn.leavingsecure "užveriant tinklalapį, turintį šifravimo priemones">
+<!ENTITY warn.leavingsecure                 "užveriant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.leavingsecure.accesskey       "u">
 
 <!ENTITY mixed.description                  "Šifruotuose tinklalapiuose gali būti ir nešifruoto turinio, kurį gali matyti ir pašaliniai. Programa „&brandShortName;“ tokį turinį gali aptikti ir jo neįkelti.">
@@ -37,8 +37,8 @@
 <!ENTITY block.displaycontent               "Neįkelti kito tipo mišraus turinio šifruotuose tinklalapiuose">
 <!ENTITY block.displaycontent.accesskey     "e">
 
-<!ENTITY certselect.description "Kai svetainė paprašo liudijimo, naršyklė turi jį parinkti:">
-<!ENTITY certselect.auto "savaime">
+<!ENTITY certselect.description             "Kai svetainė paprašo liudijimo, naršyklė turi jį parinkti:">
+<!ENTITY certselect.auto                    "savaime">
 <!ENTITY certselect.auto.accesskey          "s">
-<!ENTITY certselect.ask "paklausti">
+<!ENTITY certselect.ask                     "paklausti">
 <!ENTITY certselect.ask.accesskey           "p">

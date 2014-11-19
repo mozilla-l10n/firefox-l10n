@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.http.title                     "HTTP protokolas">
-
 <!-- Network-->
+
 <!ENTITY prefDirect.label                    "Tiesioginio ryšio parinktys">
 <!ENTITY prefProxy.label                     "Ryšio per įgaliotąjį serverį parinktys">
 <!ENTITY prefEnableHTTP10.label              "HTTP 1.0">

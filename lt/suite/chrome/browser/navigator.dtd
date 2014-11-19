@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/navigator.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandShortName;"> 
+
+
+
+<!ENTITY mainWindow.title "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
@@ -37,8 +37,8 @@
 <!ENTITY menuBar.tooltip                  "Meniu juosta">
 <!ENTITY bookmarksToolbar.tooltip         "Adresyno juosta">
 <!ENTITY navigationToolbar.tooltip        "Naršymo mygtykų juosta">
-
 <!-- Toolbar items --> 
+
 <!ENTITY backButton.label             "Atgal">
 <!ENTITY backButton.tooltip           "Vienu tinklalapiu atgal">
 <!ENTITY forwardButton.label          "Pirmyn">
@@ -59,7 +59,6 @@
 <!ENTITY locationBar.tooltip          "Paieškai surinkite žodį, frazę arba interneto adresą">
 <!ENTITY locationBar.accesskey        "A">
 <!ENTITY locationBar.title            "Adresas">
-
 <!ENTITY proxyIcon.tooltip            "Jei norite saitą į tinklalapį įrašyti į asmeninę mygtukų juostą, nuvilkite šį ženkliuką">
 
 <!ENTITY searchItem.title             "Paieška">
@@ -69,14 +68,14 @@
 <!ENTITY homeButton.label             "Pradžia">
 <!ENTITY bookmarksToolbarItem.label   "Adresyno juostos elementai">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rodyti daugiau adresų">
-
 <!-- Statusbar -->
-<!ENTITY statusText.label           "Dokumentas baigtas">
+
+<!ENTITY  statusText.label            "Dokumentas baigtas">
 
 <!ENTITY popupIcon.tooltiptext      "Leisti šios svetainės iškylančiuosius langus">
 
 <!ENTITY viewSecurityInfo.label      "Rodyti saugos informaciją">
-<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewSecurityInfo.accesskey  "s">
 <!ENTITY viewCertificate.label       "Rodyti liudijimą">
 <!ENTITY viewCertificate.accesskey   "l">
 <!ENTITY viewCertManager.label       "Atverti liudijimų tvarkytuvę">

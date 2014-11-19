@@ -1,57 +1,57 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label             "Žurnalas">
-<!ENTITY menuBar.tooltip                      "Meniu juosta">
-<!ENTITY searchBar.tooltip                    "Paieškos juosta">
 
-<!ENTITY search.placeholder                   "Ieškoti žurnale">
-<!ENTITY search.key                           "f">
-<!ENTITY view.label                           "Rodymas">
+<!ENTITY historyWindowTitle.label       "Žurnalas">
+<!ENTITY menuBar.tooltip                "Meniu juosta">
+<!ENTITY searchBar.tooltip              "Paieškos juosta">
 
-<!ENTITY view.columns.label                   "Rodyti stulpelius">
-<!ENTITY view.columns.accesskey               "s">
-<!ENTITY view.sortBy.label                    "Rikiuoti pagal">
-<!ENTITY view.sortBy.accesskey                "R">
-<!ENTITY view.groupBy.label                   "Grupuoti pagal">
-<!ENTITY view.groupBy.accesskey               "G">
+<!ENTITY search.placeholder             "Ieškoti žurnale">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "Rodymas">
 
-<!ENTITY view.unsorted.label                  "Nerikiuoti">
-<!ENTITY view.unsorted.accesskey              "N">
-<!ENTITY view.sortAscending.label             "Abėcėlės tvarka">
-<!ENTITY view.sortAscending.accesskey         "A">
-<!ENTITY view.sortDescending.label            "Atvirkštine abėcėlės tvarka">
-<!ENTITY view.sortDescending.accesskey        "t">
+<!ENTITY view.columns.label             "Rodyti stulpelius">
+<!ENTITY view.columns.accesskey         "s">
+<!ENTITY view.sortBy.label              "Rikiuoti pagal">
+<!ENTITY view.sortBy.accesskey          "R">
+<!ENTITY view.groupBy.label             "Grupuoti pagal">
+<!ENTITY view.groupBy.accesskey         "G">
 
-<!ENTITY view.groupNone.label                 "negrupuoti">
-<!ENTITY view.groupNone.accesskey             "n">
-<!ENTITY view.groupDay.label                  "datą">
-<!ENTITY view.groupDay.accesskey              "d">
-<!ENTITY view.groupSite.label                 "svetainę">
-<!ENTITY view.groupSite.accesskey             "s">
-<!ENTITY view.groupDayAndSite.label           "datą ir svetainę">
-<!ENTITY view.groupDayAndSite.accesskey       "a">
+<!ENTITY view.unsorted.label            "Nerikiuoti">
+<!ENTITY view.unsorted.accesskey        "N">
+<!ENTITY view.sortAscending.label       "Abėcėlės tvarka">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Atvirkštine abėcėlės tvarka">
+<!ENTITY view.sortDescending.accesskey  "t">
 
-<!ENTITY cmd.open.label                       "Atverti">
-<!ENTITY cmd.open.accesskey                   "A">
-<!ENTITY cmd.open_window.label                "Atverti naujame lange">
-<!ENTITY cmd.open_window.accesskey            "l">
-<!ENTITY cmd.open_tab.label                   "Atverti naujoje kortelėje">
-<!ENTITY cmd.open_tab.accesskey               "o">
+<!ENTITY view.groupNone.label           "negrupuoti">
+<!ENTITY view.groupNone.accesskey       "n">
+<!ENTITY view.groupDay.label            "datą">
+<!ENTITY view.groupDay.accesskey        "d">
+<!ENTITY view.groupSite.label           "svetainę">
+<!ENTITY view.groupSite.accesskey       "s">
+<!ENTITY view.groupDayAndSite.label     "datą ir svetainę">
+<!ENTITY view.groupDayAndSite.accesskey "a">
 
-<!ENTITY bookmarkLinkCmd.label                "Saitą įrašyti į adresyną…">
-<!ENTITY bookmarkLinkCmd.accesskey            "d">
-<!ENTITY bookmarkLinksCmd.label               "Saitus įrašyti į adresyną">
-<!ENTITY bookmarkLinksCmd.accesskey           "d">
+<!ENTITY cmd.open.label                 "Atverti">
+<!ENTITY cmd.open.accesskey             "A">
+<!ENTITY cmd.open_window.label          "Atverti naujame lange">
+<!ENTITY cmd.open_window.accesskey      "l">
+<!ENTITY cmd.open_tab.label             "Atverti naujoje kortelėje">
+<!ENTITY cmd.open_tab.accesskey         "o">
 
-<!ENTITY col.title.label                      "Pavadinimas">
-<!ENTITY col.title.accesskey                  "P">
-<!ENTITY col.url.label                        "Adresas">
-<!ENTITY col.url.accesskey                    "A">
-<!ENTITY col.lastvisit.label                  "Paskiausiai aplankytas">
-<!ENTITY col.lastvisit.accesskey              "l">
-<!ENTITY col.visitcount.label                 "Aplankymų kiekis">
-<!ENTITY col.visitcount.accesskey             "k">
+<!ENTITY bookmarkLinkCmd.label          "Saitą įrašyti į adresyną…">
+<!ENTITY bookmarkLinkCmd.accesskey      "d">
+<!ENTITY bookmarkLinksCmd.label         "Saitus įrašyti į adresyną">
+<!ENTITY bookmarkLinksCmd.accesskey     "d">
+
+<!ENTITY col.title.label                "Pavadinimas">
+<!ENTITY col.title.accesskey            "P">
+<!ENTITY col.url.label                  "Adresas">
+<!ENTITY col.url.accesskey              "A">
+<!ENTITY col.lastvisit.label            "Paskiausiai aplankytas">
+<!ENTITY col.lastvisit.accesskey        "l">
+<!ENTITY col.visitcount.label           "Aplankymų kiekis">
+<!ENTITY col.visitcount.accesskey       "k">

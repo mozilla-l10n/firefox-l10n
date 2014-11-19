@@ -49,9 +49,9 @@
 <!ENTITY col.endtime.label               "Pabaiga">
 <!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "Pabaigos laikas">
-<!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
-<!ENTITY col.progresstext.tooltip        "Eiga (&#37;)">
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
+<!ENTITY col.progresstext.tooltip        "Eiga (&#037;)">
 <!ENTITY col.source.label                "Šaltinis">
 <!ENTITY col.source.accesskey            "n">
 <!ENTITY col.source.tooltip              "Šaltinis">
@@ -64,7 +64,7 @@
 <!ENTITY view.unsorted.label             "Nerikiuoti">
 <!ENTITY view.unsorted.accesskey         "N">
 <!ENTITY view.sortAscending.label        "Pagal abėcėlę">
-<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortAscending.accesskey    "a">
 <!ENTITY view.sortDescending.label       "Prieš abėcėlę">
 <!ENTITY view.sortDescending.accesskey   "r">
 

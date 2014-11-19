@@ -5,17 +5,17 @@
 <!ENTITY messengerWindow.title "Paštas ir naujienų grupės">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " – ">
-
 <!-- tabmail -->
+
 <!ENTITY tabmailClose.label "Užverti kortelę">
 <!ENTITY tabmailClose.tooltip "Užverti kortelę">
 <!ENTITY tabmailNewButton.tooltip "Dubliuoti aktyvią kortelę">
 <!ENTITY tabmailCloseButton.tooltip "Užverti aktyvią kortelę">
 <!ENTITY tabmailAllTabs.tooltip "Visų kortelių sąrašas">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- File menu items -->
+
+
 <!ENTITY newMessage.label "Naujas laiškas">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "Aplankas…">
@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Pervardyti aplanką…">
 <!ENTITY renameFolder.accesskey "e">
 <!ENTITY compactFolders.label "Suglaudinti aplankus">
-<!ENTITY compactFolders.accesskey		"g">
+<!ENTITY compactFolders.accesskey  "g">
 <!ENTITY emptyTrashCmd.label "Išvalyti šiukšlinę">
-<!ENTITY emptyTrashCmd.accesskey		"v">
+<!ENTITY emptyTrashCmd.accesskey  "v">
 <!ENTITY offlineMenu.label "Prisijungti arba atsijungti">
 <!ENTITY offlineMenu.accesskey "r">
 <!ENTITY synchronizeOfflineCmd.label "Suvienodinti…">
@@ -71,8 +71,8 @@
 <!ENTITY downloadSelectedCmd.accesskey "ž">
 <!ENTITY downloadFlaggedCmd.label "Atsiųsti gairele pažymėtus laiškus">
 <!ENTITY downloadFlaggedCmd.accesskey "k">
-
 <!-- Edit Menu -->
+
 <!ENTITY deleteMsgCmd.label "Pašalinti laišką">
 <!ENTITY deleteMsgCmd.accesskey "š">
 <!ENTITY undeleteMsgCmd.label "Atšaukti laiško šalinimą">
@@ -110,12 +110,12 @@
 <!ENTITY redoMarkAllCmd.label "Atstatyti laiškų pažymėjimą skaitytais">
 <!ENTITY undoDefaultCmd.label "Atšaukti">
 <!ENTITY redoDefaultCmd.label "Atstatyti">
-
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Pašto mygtukų juosta">
-<!ENTITY showMessengerToolbarCmd.accesskey	"P">
-<!ENTITY showSearchToolbarCmd.label		"Paieškos juosta">
-<!ENTITY showSearchToolbarCmd.accesskey	"š">
+
+<!ENTITY showMessengerToolbarCmd.label "Pašto mygtukų juosta">
+<!ENTITY showMessengerToolbarCmd.accesskey "P">
+<!ENTITY showSearchToolbarCmd.label "Paieškos juosta">
+<!ENTITY showSearchToolbarCmd.accesskey "š">
 <!ENTITY showTabsToolbarCmd.label "Kortelių juosta">
 <!ENTITY showTabsToolbarCmd.accesskey "K">
 
@@ -133,8 +133,8 @@
 <!ENTITY showThreadPaneCmd.accesskey "G">
 <!ENTITY showFolderPaneCmd.label "Aplankų polangis">
 <!ENTITY showFolderPaneCmd.accesskey "A">
-
 <!-- sortMenu is also used by addressbook -->
+
 <!ENTITY sortMenu.label "Rikiavimas">
 <!ENTITY sortMenu.accesskey "R">
 
@@ -195,7 +195,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Peržiūrimos gijos, turinčios neskaitytų laiškų">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "k">
 <!ENTITY ignoredThreadsCmd.label "Nepaisomos gijos">
-<!ENTITY ignoredThreadsCmd.accesskey "a">  
+<!ENTITY ignoredThreadsCmd.accesskey "a">
 
 <!ENTITY headersMenu.label "Laiško antraštė">
 <!ENTITY headersMenu.accesskey "a">
@@ -234,12 +234,12 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Ieškoti šiame laiške…">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
-<!ENTITY quickFilterBar.show.key2 "K">
 
+<!ENTITY quickFilterBar.show.key2 "K">
 <!-- Go Menu -->
+
 
 <!ENTITY goMenu.label "Eiti">
 <!ENTITY goMenu.accesskey "E">
@@ -274,8 +274,8 @@
 <!ENTITY prevFlaggedMsgCmd.accesskey "a">
 <!ENTITY startPageCmd.label "Į pašto pradžios tinklalapį">
 <!ENTITY startPageCmd.accesskey "r">
-
 <!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Laiškas">
 <!ENTITY msgMenu.accesskey "L">
 <!ENTITY newMsgCmd.label "Naujas laiškas…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "L">
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "A">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Atsakyti el. pašto grupei">
 <!ENTITY replyListCmd.accesskey "g">
 <!ENTITY replyNewsgroupCmd.label "Atsakyti naujienų grupei">
-<!ENTITY replyNewsgroupCmd.accesskey	"g">
+<!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replySenderCmd.label "Atsakyti">
 <!ENTITY replySenderCmd.accesskey "A">
 <!ENTITY replyToAllMsgCmd.label "Atsakyti visiems">
-<!ENTITY replyToAllMsgCmd.accesskey	"v">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "v">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Atsakyti siuntėjui ir naujienų grupei">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "t">
 <!ENTITY replyToAllRecipientsCmd.label "Atsakyti visiems gavėjams">
 <!ENTITY replyToAllRecipientsCmd.accesskey "v">
 <!ENTITY forwardMsgCmd.label "Persiųsti">
 <!ENTITY forwardMsgCmd.accesskey "P">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Persiųsti kitaip">
 <!ENTITY forwardAsMenu.accesskey "k">
 <!ENTITY forwardAsInline.label "Tiesiogiai">
@@ -373,8 +373,8 @@
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Tinklalapis/santrauka pranešimo polangyje">
 <!ENTITY openFeedWebPageInMP.accesskey "p">
-
 <!-- Tools Menu -->
+
 <!ENTITY searchMailCmd.label "Ieškoti pašto ir naujienų laiškuose…">
 <!ENTITY searchMailCmd.accesskey "k">
 <!ENTITY searchMailCmd.key "s">
@@ -394,13 +394,13 @@
 <!ENTITY deleteJunk.accesskey "š">
 <!ENTITY importCmd.label "Importuoti…">
 <!ENTITY importCmd.accesskey "I">
-
 <!-- Folder Pane -->
+
 <!ENTITY nameColumn.label "Vardas">
 <!ENTITY unreadColumn.label "Neskaitytas">
 <!ENTITY totalColumn.label "Iš viso">
-
 <!-- Toolbar items -->
+
 <!ENTITY getMsgButton.label "Atsiųsti">
 <!ENTITY newMsgButton.label "Rašyti">
 <!ENTITY newHTMLMessageCmd.label "Rašyti HTML">
@@ -421,8 +421,8 @@
 <!ENTITY junkButton.label "Brukalas">
 <!ENTITY notJunkButton.label "Ne brukalas">
 <!ENTITY searchButton.title "Išplėstinė paieška">
-
 <!-- Tooltips -->
+
 <!ENTITY menuBar.tooltip "Meniu juosta">
 <!ENTITY mailToolbar.tooltip "Pašto mygtukų juosta">
 <!ENTITY searchToolbar.tooltip "Paieškos juosta">
@@ -444,11 +444,11 @@
 <!ENTITY throbber.tooltip "Atverti &vendorShortName; pradžios tinklalapį">
 <!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip brukalą (arba pašalinti tokį žymėjimą)">
 <!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra brukalas">
-
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Dokumentas baigtas">
 
+<!ENTITY  statusText.label "Dokumentas baigtas">
 <!-- Thread Pane Context Menu -->
+
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextOpenNewTab.label "Atverti laišką naujoje kortelėje">
@@ -483,8 +483,8 @@
 <!ENTITY contextPrint.accesskey "S">
 <!ENTITY contextPrintPreview.label "Spaudinio peržiūra">
 <!ENTITY contextPrintPreview.accesskey "S">
-
 <!-- Folder Pane Context Menu -->
+
 <!ENTITY folderContextGetMessages.label "Atsiųsti šios paskyros laiškus">
 <!ENTITY folderContextGetMessages.accesskey "A">
 <!ENTITY folderContextOpenNewWindow.label "Atverti naujame lange">
@@ -519,8 +519,8 @@
 <!ENTITY folderContextProperties.accesskey "S">
 <!ENTITY folderContextSettings.label "Nuostatos…">
 <!ENTITY folderContextSettings.accesskey "o">
-
 <!-- focusSearchInput.key also used by addressbook -->
+
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "a">

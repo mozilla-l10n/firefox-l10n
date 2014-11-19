@@ -7,10 +7,10 @@
 <!ENTITY downloadBehavior.label         "Prasidėjus siuntimui">
 <!ENTITY doNothing.label                "Nieko neatverti">
 <!ENTITY doNothing.accesskey            "N">
-<!ENTITY openDM.label                   "Atverti atsiuntimo tvarkytuvę">
-<!ENTITY openDM.accesskey               "t">
 <!ENTITY openProgressDialog.label       "Atverti eigos langą">
 <!ENTITY openProgressDialog.accesskey   "e">
+<!ENTITY openDM.label                   "Atverti atsiuntimo tvarkytuvę">
+<!ENTITY openDM.accesskey               "t">
 <!ENTITY flashWhenOpen.label            "Mirktelėti atsiuntimų tvarkytuvės langą, jei jis jau atvertas">
 <!ENTITY flashWhenOpen.accesskey        "M">
 

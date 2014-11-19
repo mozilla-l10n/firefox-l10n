@@ -21,8 +21,8 @@
 <!ENTITY flagColumn.label "Gairelė">
 <!ENTITY locationColumn.label "Vieta">
 <!ENTITY idColumn.label "Atsiuntimo eilė">
-
 <!--Tooltips-->
+
 <!ENTITY columnChooser2.tooltip "Rinktis rodomus stulpelius">
 <!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
 <!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">

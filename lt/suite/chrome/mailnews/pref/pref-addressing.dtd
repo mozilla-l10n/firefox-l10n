@@ -7,8 +7,8 @@
 <!ENTITY emailCollectionPicker.label           "El. pašto adresus automatiškai įtraukti į:">
 <!ENTITY emailCollectionPicker.accesskey       "E">
 <!ENTITY emailCollectiontext.label             "Išsiunčiamų laiškų elektroninio pašto adresus galima automatiškai įtraukti į adresų knygą.">
-
 <!-- Autocompletion -->
+
 <!ENTITY addressingTitle.label                 "Adresų užbaigimas pagal surinktą pradžią">
 <!ENTITY highlightNonMatches.label             "Paryškinti adresus, kurių nepavyksta užbaigti">
 <!ENTITY highlightNonMatches.accesskey         "P">

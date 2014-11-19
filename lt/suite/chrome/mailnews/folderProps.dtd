@@ -16,24 +16,24 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Į globalios paieškos rezultatus įtraukti šiame aplanke esančius laiškus">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
-<!ENTITY retention.label                         "Laiškų šalinimas">
-<!ENTITY retentionUseAccount.label               "Laikytis paskyros nuostatų">
-<!ENTITY retentionUseAccount.accesskey           "n">
-<!ENTITY daysOld.label                           "d.">
-<!ENTITY message.label                           "laiškų">
-<!ENTITY retentionCleanup.label                  "Palikti laiškus:">
-<!ENTITY retentionCleanupImap.label              "Palikti laiškus (tiek vietines kopijas, tiek originalus serveryje):">
-<!ENTITY retentionCleanupPop.label               "Palikti laiškus (taip pat ir originalus serveryje):">
-<!ENTITY retentionDeleteMsg.label                "ne senesnius nei">
-<!ENTITY retentionDeleteMsg.accesskey            "s">
-<!ENTITY retentionKeepAll.label                  "visus laiškus">
-<!ENTITY retentionKeepAll.accesskey              "v">
-<!ENTITY retentionKeepRecent.label               "paskiausius">
-<!ENTITY retentionKeepRecent.accesskey           "p">
+<!ENTITY retention.label "Laiškų šalinimas">
+<!ENTITY retentionUseAccount.label "Laikytis paskyros nuostatų">
+<!ENTITY retentionUseAccount.accesskey "n">
+<!ENTITY daysOld.label "d.">
+<!ENTITY message.label "laiškų">
+<!ENTITY retentionCleanup.label "Palikti laiškus:">
+<!ENTITY retentionCleanupImap.label "Palikti laiškus (tiek vietines kopijas, tiek originalus serveryje):">
+<!ENTITY retentionCleanupPop.label "Palikti laiškus (taip pat ir originalus serveryje):">
+<!ENTITY retentionDeleteMsg.label "ne senesnius nei">
+<!ENTITY retentionDeleteMsg.accesskey "s">
+<!ENTITY retentionKeepAll.label "visus laiškus">
+<!ENTITY retentionKeepAll.accesskey "v">
+<!ENTITY retentionKeepRecent.label "paskiausius">
+<!ENTITY retentionKeepRecent.accesskey "p">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label         "visada šalinti skaitytus laiškus (nepaisant jų amžiaus)">
-<!ENTITY retentionApplyToFlagged.label           "visada palikti žvaigždute pažymėtus laiškus">
-<!ENTITY retentionApplyToFlagged.accesskey       "ž">
+<!ENTITY retentionKeepUnreadHidden.label "visada šalinti skaitytus laiškus (nepaisant jų amžiaus)">
+<!ENTITY retentionApplyToFlagged.label "visada palikti žvaigždute pažymėtus laiškus">
+<!ENTITY retentionApplyToFlagged.accesskey "ž">
 
 <!ENTITY folderSynchronizationTab.label          "Sinchronizavimas">
 <!ENTITY folderCheckForNewMessages2.label        "Tikrinant, ar šioje paskyroje yra naujų laiškų, visada patikrinti ir šį aplanką">

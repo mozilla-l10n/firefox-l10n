@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Adresatų parinkimas">
 
+<!ENTITY selectAddressWindow.title           "Adresatų parinkimas">
 <!-- Buttons -->
+
 <!ENTITY toButton.label                      "Kam:"> 
 <!ENTITY toButton.accesskey                  "K"> 
 <!ENTITY ccButton.label                      "Kopija:"> 
@@ -24,8 +24,8 @@
 <!ENTITY for.accesskey                       "e"> 
 <!ENTITY for.placeholder                     "Asmenvardis arba el. pašto adresas">
 <!ENTITY addressMessageTo.label              "Laiško adresatas(-ai):"> 
-
 <!-- Tooltips items -->  
+
 <!ENTITY addressPickerNewButton.tooltip      "Sukurti naują adresų knygos kortelę"> 
 <!ENTITY addressPickerEditButton.tooltip     "Taisyti pasirinktą kortelę arba adresatų sąrašą"> 
 

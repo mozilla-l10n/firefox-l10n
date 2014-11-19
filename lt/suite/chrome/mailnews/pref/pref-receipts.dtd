@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
+
 <!ENTITY pref.receipts.title          "Laiškų pristatymo pažymos">
 <!ENTITY prefReceipts.caption         "Laiškų pristatymo pažymos">
 <!ENTITY requestReceipt.label         "Kai išsiunčiamas laiškas, paprašyti pranešti apie jo pristatymą">

@@ -13,8 +13,8 @@
 <!ENTITY sendBoth.label               "išsiųsti laišką abiejų tipų tekstais – raiškiuoju ir grynuoju (laiškas bus didesnis)">
 <!ENTITY sendBoth.accesskey           "ų">
 <!ENTITY override.label               "Kiekvieno rašomo laiško teksto tipą galima parinkti atskirai. Tam pašto laiškų rašymo lange reikia atverti meniu „Parinktys“ ir pasirinkti „Siunčiamo teksto tipas“.">
-
 <!-- Html and Plain Text Domains  -->
+
 <!ENTITY domain.title                 "Raiškiojo (HTML) ir grynojo teksto laiškų sritys">
 <!ENTITY domaindesc.label             "Kai siunčiate laišką adresu, esančiu vienoje žemiau išvardintų sričių, programa jį automatiškai išsiųs nurodytu formatu (raiškiuoju arba grynuoju tekstu).">
 <!ENTITY HTMLdomaintitle.label        "HTML sritys">
@@ -27,8 +27,8 @@
 <!ENTITY DeleteButton.label           "Pašalinti">
 <!ENTITY DeleteHtmlDomain.accesskey   "P">
 <!ENTITY DeletePlainText.accesskey    "š">
-
 <!-- Add Domain Name -->
+
 <!ENTITY add.htmltitle                "HTML srities vardo įtraukimas">
 <!ENTITY add.htmldomain               "Srities, priimančios HTML teksto laiškus, vardas:">
 <!ENTITY add.plaintexttitle           "Grynojo teksto srities vardo įtraukimas">

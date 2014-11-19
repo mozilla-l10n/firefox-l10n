@@ -6,7 +6,6 @@
 <!ENTITY syncKey.page.description         "Šis raktas yra naudojamas duomenų, laikomų jūsų „&syncBrand.fullName.label;“ paskyroje, iššifravimui. Šį raktą turėsite įvesti kaskart, konfigūruodami „&syncBrand.fullName.label;“ naujame kompiuteryje ar kitame įrenginyje.">
 <!ENTITY syncKey.keepItSecret.heading     "Laikykite raktą paslaptyje">
 <!ENTITY syncKey.keepItSecret.description "Jūsų „&syncBrand.fullName.label;“ paskyros duomenys yra šifruojami, siekiant užtikrinti jūsų privatumą. Neturint šio rakto, jūsų asmeninių duomenų iššifravimui prireiktų ne vienerių metų. Vienintelis asmuo, kuris turėtų žinoti šį raktą, esate jūs – tik taip bus galima užtikrinti, kad tik jūs galėsite pasiekti savo duomenis „&syncBrand.fullName.label;“ paskyroje.">
-
 <!ENTITY syncKey.keepItSafe.heading       "Nepameskite rakto">
 <!ENTITY syncKey.keepItSafe1.description  "Nepameskite šio rakto.">
 <!ENTITY syncKey.keepItSafe2.description  " Mes neturime jo kopijos (jei turėtume, jis nebūtų slaptas!), tad, jei jį užmiršite, ">
