@@ -803,7 +803,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.mainActionDesc          "যদি আপনি আগে এগোন:">
 <!ENTITY panicButton.view.deleteCookies           "সাম্প্রতিক<html:strong>কুকিগুলি</html:strong> মুছে ফেলুন">
 <!ENTITY panicButton.view.deleteHistory           "সাম্প্রতিক <html:strong> ইতিহাস </html:strong> মুছে ফেলুন">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "সব <html:strong>ট্যাবগুলি/html:strong> এবং <html:strong>উইন্ডো</html:strong> বন্ধ করুন">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "সব <html:strong>ট্যাবগুলি</html:strong> এবং <html:strong>উইন্ডো</html:strong> বন্ধ করুন">
 <!ENTITY panicButton.view.openNewWindow           "একটি নতুন পরিষ্কার উইন্ডো খুলুন">
 
 <!ENTITY panicButton.view.undoWarning             "এই কাজ নাকচ করা সম্ভব নয়।">
