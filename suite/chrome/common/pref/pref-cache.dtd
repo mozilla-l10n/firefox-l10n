@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/pref-cache.xul -->
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 
-<!-- LOCALIZATION NOTE : FILE Cache prefs dialog -->
+
 <!ENTITY pref.cache.title                "Podėlis">
 <!ENTITY pref.cache.caption              "Podėlio parinktys">
 <!ENTITY cachePara                       "Podėlyje laikomos dažniausiai lankomų tinklalapių kopijos. Spustelėjus naršyklės mygtukų juostoje „Iš naujo“, visada bus atsiųsta vėliausia tinklalapio versija.">

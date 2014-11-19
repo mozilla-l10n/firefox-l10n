@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identityDialog.style       "width: 67ch;">
-<!ENTITY identityTitle.label        "Tapatumo nuostatos">
-<!ENTITY identityListDesc.label     "Parinkite šios paskyros tapatumo nuostatas:">
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "Tapatumo nuostatos">
+<!ENTITY identityListDesc.label "Parinkite šios paskyros tapatumo nuostatas:">
 
-<!ENTITY settingsTab.label          "Nuostatos">
-<!ENTITY copiesFoldersTab.label     "Laiškai ir aplankai">
-<!ENTITY addressingTab.label        "Laiškų rašymas ir adresavimas">
+<!ENTITY settingsTab.label       "Nuostatos">
+<!ENTITY copiesFoldersTab.label "Laiškai ir aplankai">
+<!ENTITY addressingTab.label    "Laiškų rašymas ir adresavimas">

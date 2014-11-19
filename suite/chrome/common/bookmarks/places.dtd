@@ -39,12 +39,12 @@
 <!ENTITY cmd.restoreFromFile.label      "Pasirinkite failą…">
 <!ENTITY cmd.restoreFromFile.accesskey  "f">
 
-<!ENTITY cmd.bookmarkLink.label          "Įrašyti šį tinklalapį…">
-<!ENTITY cmd.bookmarkLink.accesskey      "r">
-<!ENTITY cmd.delete.label                "Pašalinti šį tinklalapį">
-<!ENTITY cmd.delete.accesskey            "š">
-<!ENTITY cmd.deleteDomainData.label      "Užmiršti viską apie šią svetainę">
-<!ENTITY cmd.deleteDomainData.accesskey  "U">
+<!ENTITY cmd.bookmarkLink.label         "Įrašyti šį tinklalapį…">
+<!ENTITY cmd.bookmarkLink.accesskey     "r">
+<!ENTITY cmd.delete.label               "Pašalinti šį tinklalapį">
+<!ENTITY cmd.delete.accesskey           "š">
+<!ENTITY cmd.deleteDomainData.label     "Užmiršti viską apie šią svetainę">
+<!ENTITY cmd.deleteDomainData.accesskey "U">
 
 <!ENTITY cmd.open.label                  "Atverti">
 <!ENTITY cmd.open.accesskey              "A">
@@ -55,11 +55,11 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Atverti kortelėse">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 
-<!ENTITY cmd.properties.label              "Savybės">
-<!ENTITY cmd.properties.accesskey          "S">
+<!ENTITY cmd.properties.label      "Savybės">
+<!ENTITY cmd.properties.accesskey  "S">
 
-<!ENTITY cmd.sortby_name.label             "Rikiuoti pagal pavadinimą">
-<!ENTITY cmd.sortby_name.accesskey         "R">
+<!ENTITY cmd.sortby_name.label              "Rikiuoti pagal pavadinimą">
+<!ENTITY cmd.sortby_name.accesskey          "R">
 
 <!ENTITY cmd.new_bookmark.label            "Naujas adresas…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
@@ -72,8 +72,8 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Įkelti sklaidos kanalą iš naujo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "t">
 
-<!ENTITY cmd.moveBookmarks.label           "Perkelti…">
-<!ENTITY cmd.moveBookmarks.accesskey       "P">
+<!ENTITY cmd.moveBookmarks.label                  "Perkelti…">
+<!ENTITY cmd.moveBookmarks.accesskey              "P">
 
 <!ENTITY col.title.label         "Pavadinimas">
 <!ENTITY col.tags.label          "Gairės">
@@ -98,15 +98,15 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY backButton.tooltip                        "Eiti atgal">
-<!ENTITY forwardButton.tooltip                     "Eiti pirmyn">
+<!ENTITY backButton.tooltip  "Eiti atgal">
+<!ENTITY forwardButton.tooltip  "Eiti pirmyn">
 
-<!ENTITY detailsPane.more.label                    "Daugiau">
-<!ENTITY detailsPane.more.accesskey                "a">
-<!ENTITY detailsPane.fewer.label                   "Mažiau">
-<!ENTITY detailsPane.fewer.accesskey               "a">
-<!ENTITY detailsPane.selectAnItemText.description  "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
+<!ENTITY detailsPane.more.label "Daugiau">
+<!ENTITY detailsPane.more.accesskey "a">
+<!ENTITY detailsPane.fewer.label "Mažiau">
+<!ENTITY detailsPane.fewer.accesskey "a">
+<!ENTITY detailsPane.selectAnItemText.description "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
-<!ENTITY editBookmark.done.label                   "Baigta">
-<!ENTITY editBookmark.cancel.label                 "Atsisakyti">
-<!ENTITY editBookmark.removeBookmark.accessKey     "š">
+<!ENTITY editBookmark.done.label "Baigta">
+<!ENTITY editBookmark.cancel.label "Atsisakyti">
+<!ENTITY editBookmark.removeBookmark.accessKey "š">

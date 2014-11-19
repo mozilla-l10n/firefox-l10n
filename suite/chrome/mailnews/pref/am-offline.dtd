@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label    "Taupant vietą diske, neparsiųsti:">
-<!ENTITY doNotDownloadNntp.label            "Taupant vietą diske, naudojimui neprisijungus prie tinklo neparsiųsti:">
-<!ENTITY doNotDownloadImap.label            "Taupant vietą diske, galima apriboti laiškų, parsiunčiamų iš serverio ir laikomų diske naudojimui neprisijungus, amžių bei dydį.">
+<!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske, neparsiųsti:">
+<!ENTITY doNotDownloadNntp.label "Taupant vietą diske, naudojimui neprisijungus prie tinklo neparsiųsti:">
+<!ENTITY doNotDownloadImap.label "Taupant vietą diske, galima apriboti laiškų, parsiunčiamų iš serverio ir laikomų diske naudojimui neprisijungus, amžių bei dydį.">
 <!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
 <!ENTITY allFoldersOffline.accesskey "Š">
 <!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
-<!ENTITY autosyncNotDownload.label          "Neparsiųsti laiškų, didesnių kaip">
-<!ENTITY autosyncNotDownload.accesskey      "d">
+<!ENTITY autosyncNotDownload.label "Neparsiųsti laiškų, didesnių kaip">
+<!ENTITY autosyncNotDownload.accesskey "d">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "d.">
 <!ENTITY message.label "laiškų">
@@ -39,20 +39,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "P">
 <!ENTITY syncGroupTitle.label "Laiškų sinchronizavimas">
 <!ENTITY diskspaceGroupTitle.label "Disko atmintinė">
-
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label                  "Sinchronizuoti visus laiškus, neatsižvelgiant į jų amžių">
-<!ENTITY allAutosync.accesskey              "v">
-<!ENTITY ageAutosyncBefore.label            "Sinchronizuoti tik pastarųjų">
-<!ENTITY ageAutosync.accesskey              "z">
-<!ENTITY ageAutosyncMiddle.label            "">
-<!ENTITY dayAgeInterval.label               "dienų">
-<!ENTITY weekAgeInterval.label              "savaičių">
-<!ENTITY monthAgeInterval.label             "mėnesių">
-<!ENTITY yearAgeInterval.label              "metų">
-<!ENTITY ageAutosyncAfter.label             "laiškus">
+
+<!ENTITY allAutosync.label               "Sinchronizuoti visus laiškus, neatsižvelgiant į jų amžių">
+<!ENTITY allAutosync.accesskey           "v">
+<!ENTITY ageAutosyncBefore.label         "Sinchronizuoti tik pastarųjų">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "dienų">
+<!ENTITY weekAgeInterval.label           "savaičių">
+<!ENTITY monthAgeInterval.label          "mėnesių">
+<!ENTITY yearAgeInterval.label           "metų">
+<!ENTITY ageAutosyncAfter.label          "laiškus">

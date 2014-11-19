@@ -10,7 +10,7 @@
 
 <!ENTITY subjectField.label "Tema: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopija: ">
+<!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Nematomoji kopija: ">
 <!ENTITY newsgroupsField.label "Naujienų grupė: ">
 <!ENTITY followupToField.label "Kita grupė: ">
@@ -28,7 +28,6 @@
 
 <!ENTITY attachmentsTree.label             "Priedai:">
 <!ENTITY attachmentsTree.accesskey         "P">
-
 <!ENTITY openAttachmentCmd.label           "Atverti">
 <!ENTITY openAttachmentCmd.accesskey       "A">
 <!ENTITY viewAttachmentCmd.label           "Pirminis tekstas">

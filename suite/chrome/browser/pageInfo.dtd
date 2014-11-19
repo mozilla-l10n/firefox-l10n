@@ -1,18 +1,20 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Kopijuoti">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Pažymėti viską">
-<!ENTITY  selectall.accesskey   "v">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Kopijuoti">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Pažymėti viską">
+<!ENTITY  selectall.accesskey    "v">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Kopijuoti saitą (-us)">
 <!ENTITY  copyLinks.accesskey       "o">
 <!ENTITY  openInNewTab.label        "Atverti naujoje kortelėje">
@@ -23,8 +25,8 @@
 <!ENTITY  generalTab            "Bendroji">
 <!ENTITY  generalTab.accesskey  "B">
 <!ENTITY  generalURL            "URL:">
-<!ENTITY  generalMode           "Atvaizdavimo veiksena:">
 <!ENTITY  generalType           "Tipas:">
+<!ENTITY  generalMode           "Atvaizdavimo veiksena:">
 <!ENTITY  generalSize           "Dydis:">
 <!ENTITY  generalReferrer       "Iš kur ateina:">
 <!ENTITY  generalSource         "Šaltinis:">
@@ -32,8 +34,8 @@
 <!ENTITY  generalEncoding       "Koduotė:">
 <!ENTITY  generalMetaName       "Vardas">
 <!ENTITY  generalMetaContent    "Reikšmė">
-<!ENTITY  generalSecurityDetails             "Išsamiau">
-<!ENTITY  generalSecurityDetails.accesskey   "I">
+<!ENTITY  generalSecurityDetails           "Išsamiau">
+<!ENTITY  generalSecurityDetails.accesskey "I">
 
 <!ENTITY  formsTab              "Formos">
 <!ENTITY  formsTab.accesskey    "F">
@@ -101,6 +103,7 @@
 <!ENTITY  securityView.certView "Rodyti liudijimą">
 <!ENTITY  securityView.accesskey "R">
 <!ENTITY  securityView.unknown   "Nežinomas">
+
 
 <!ENTITY  securityView.identity.header   "Svetainės tapatumas">
 <!ENTITY  securityView.identity.owner    "Savininkas: ">

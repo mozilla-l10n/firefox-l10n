@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File Menu -->
+
 <!ENTITY tabCmd.label "Naršyklės kortelė">
 <!ENTITY tabCmd.accesskey "o">
 <!ENTITY tabCmd.commandkey "T">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey "P">
-
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
 
+<!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
 <!-- View Menu -->
+
 <!ENTITY toolbarsCmd.label "Priemonių juostos">
 <!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY tabbarCmd.label "Kortelių juosta">
@@ -44,23 +44,23 @@
 <!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Pagrindinis tinklalapio stilius">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "P">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">
+<!ENTITY bidiSwitchPageDirectionItem.label "Pakeisti puslapio kryptį">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "P">
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Eiti">
 <!ENTITY goMenu.accesskey "E">
 <!ENTITY goHomeCmd.label "Į pradžios tinklalapį">
 <!ENTITY goHomeCmd.accesskey "r">
-<!ENTITY historyCmd.label           "Į žurnalą">
-<!ENTITY historyCmd.accesskey       "ž">
-<!ENTITY history.commandKey         "h">
+<!ENTITY historyCmd.label "Į žurnalą">
+<!ENTITY historyCmd.accesskey "ž">
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Paskiausiai užvertos kortelės">
 <!ENTITY recentTabs.accesskey "P">
 <!ENTITY recentTabs.commandkey "t">
@@ -69,10 +69,10 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY historyRestoreLastSession.accesskey "A">
-<!ENTITY syncTabsMenu.label         "Kortelės iš kitų kompiuterių">
+<!ENTITY syncTabsMenu.label "Kortelės iš kitų kompiuterių">
 <!ENTITY syncTabsMenu.accesskey "k">
-
 <!-- Bookmarks Menu -->
+
 <!ENTITY bookmarksMenu.label "Adresynas">
 <!ENTITY bookmarksMenu.accesskey "A">
 <!ENTITY addCurPageCmd.label "Įrašyti į adresyną">
@@ -85,8 +85,8 @@
 <!ENTITY manBookmarksCmd.label "Tvarkyti adresyną…">
 <!ENTITY manBookmarksCmd.accesskey "T">
 <!ENTITY manBookmarksCmd.commandkey "b">
-
 <!-- Tools Menu -->
+
 <!ENTITY searchInternetCmd.label "Paieška internete">
 <!ENTITY searchInternetCmd.accesskey "n">
 <!ENTITY searchInternet.commandKey "s">
@@ -122,10 +122,10 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "N">
 <!ENTITY cookieBlockImagesMsg.label "Šios svetainės paveikslai nebus atsiunčiami.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Leisti šios svetainės iškylančiuosius langus">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "L">
-<!ENTITY cookieManagePopups.label                    "Tvarkyti iškylančiųjų langų leidimus">
-<!ENTITY cookieManagePopups.accesskey                "š">
+<!ENTITY cookieAllowPopupsCmd.label "Leisti šios svetainės iškylančiuosius langus">
+<!ENTITY cookieAllowPopupsCmd.accesskey "L">
+<!ENTITY cookieManagePopups.label "Tvarkyti iškylančiųjų langų leidimus">
+<!ENTITY cookieManagePopups.accesskey "š">
 
 <!ENTITY cookieCookieManager.label "Slapukų tvarkytuvė">
 <!ENTITY cookieCookieManager.accesskey "S">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Laiškų saugojimas">
 <!ENTITY securitySettings.label "Saugumo nuostatos">
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Nurodyti serveriui, kad jis patikrintų abonento vardą ir slaptažodį">
 <!ENTITY alwaysAuthenticate.accesskey "N">
 <!ENTITY newsrcFilePath.label "Vieta diske, kur laikomas naujienų *.rc failas:">
-<!ENTITY localPath.label "Katalogas diske, kuriame laikomi naujienų grupių laiškai:">
+<!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
 <!ENTITY abbreviate.label "Naujienų grupių vardus pašto aplankų polangyje rodyti:">
 <!ENTITY abbreviateOn.label "pilnus (pvz., „netscape.public.mozilla.mail-news“)">
 <!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY serverDefaultCharset.label "Numatytoji koduotė:">
 <!ENTITY advancedButton.accesskey "P">
+<!ENTITY localPath.label "Katalogas diske, kuriame laikomi naujienų grupių laiškai:">
 <!ENTITY localFolderPicker.label "Vietinio katalogo parinkimas">
 <!ENTITY browseFolder.label "Parinkti…">
 <!ENTITY browseFolder.accesskey "r">
-<!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
 <!ENTITY browseNewsrc.label "Parinkti…">
 <!ENTITY browseNewsrc.accesskey "P">
 

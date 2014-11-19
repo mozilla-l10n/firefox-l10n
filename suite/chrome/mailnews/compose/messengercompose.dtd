@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "Laiško rašymas">
 
 <!ENTITY fromAddr.label "Kas:">
@@ -11,10 +11,10 @@
 <!ENTITY subject.accesskey "m">
 <!ENTITY attachments.label "Priedai:">
 <!ENTITY attachments.accesskey "e">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- File menu items -->
+
+
 <!ENTITY saveCmd.label "Įrašyti">
 <!ENTITY saveCmd.accesskey "r">
 <!ENTITY saveAsCmd.label "Įrašyti kaip">
@@ -40,25 +40,25 @@
 <!ENTITY sendLaterCmd.label "Išsiųsti vėliau">
 <!ENTITY sendLaterCmd.keycode "VK_ENTER">
 <!ENTITY sendLaterCmd.accesskey "v">
-
 <!-- Edit menu items -->
+
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "n">
 <!ENTITY accountManagerCmd.label "Paskyrų nuostatos…">
 <!ENTITY accountManagerCmd.accesskey "P">
-
 <!-- View menu items -->
+
 <!ENTITY showComposeToolbarCmd.label "Pašto mygtukų juosta">
 <!ENTITY showComposeToolbarCmd.accesskey "P">
 <!ENTITY showFormatToolbarCmd.label "Formatavimo juosta">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Formatas">
 <!ENTITY formatMenu.accesskey "F">
-
 <!-- Options menu items -->
+
 <!ENTITY optionsMenu.label "Parinktys">
 <!ENTITY optionsMenu.accesskey "a">
 
@@ -100,17 +100,18 @@
 <!ENTITY fileCarbonCopyCmd.label "Laiško kopiją įdėti į">
 <!ENTITY fileCarbonCopyCmd.accesskey "L">
 <!ENTITY fileHereMenu.label "Perkelti į aplanką">
-
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+
 <!ENTITY sendButton.label "Išsiųsti">
 <!ENTITY addressButton.label "Adresatai">
 <!ENTITY attachButton.label "Pridėti">
 <!ENTITY spellingButton.label "Tikrinti rašybą">
 <!ENTITY saveButton.label "Įrašyti">
 <!ENTITY stopButton.label "Stabdyti">
-
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+
 <!ENTITY addressBar.tooltip "Adresų juosta">
 <!ENTITY formatToolbar.tooltip "Formatavimo mygtukų juosta">
 <!ENTITY sendButton.tooltip "Išsiųsti laišką dabar"> 
@@ -119,8 +120,8 @@
 <!ENTITY attachButton.tooltip "Pridėti priedą prie šio laiško"> 
 <!ENTITY saveButton.tooltip "Įrašyti šį laišką"> 
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą"> 
-
 <!-- context menu items -->
+
 <!ENTITY openAttachment.label "Atverti">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Pervardinti…">

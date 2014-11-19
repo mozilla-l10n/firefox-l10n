@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.cookies.title             "Slapukai">
-
 <!-- cookies -->
+
 
 <!ENTITY cookiePolicy.label             "Slapukų priėmimo politika">
 
@@ -42,3 +42,4 @@
 
 <!ENTITY viewCookies.label              "Slapukų tvarkytuvė">
 <!ENTITY viewCookies.accesskey          "S">
+

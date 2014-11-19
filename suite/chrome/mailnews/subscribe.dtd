@@ -17,6 +17,6 @@
 <!ENTITY server.accesskey             "u">
 <!ENTITY subscribedHeader.label       "Prenumerata">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Laiškai"> -->
+<!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Rodyti objektus, turinčius:">
 <!ENTITY namefield.accesskey          "R">

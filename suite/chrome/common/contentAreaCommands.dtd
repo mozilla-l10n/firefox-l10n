@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Context Menu -->
+
 <!ENTITY popupWindowRejectCmd.label     "Neatverti iškylančiųjų langų iš šios svetainės">
 <!ENTITY popupWindowRejectCmd.accesskey "N">
 <!ENTITY popupWindowAllowCmd.label      "Leisti atverti iškylančiuosius langus iš šios svetainės">
 <!ENTITY popupWindowAllowCmd.accesskey  "L">
-<!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
-<!ENTITY openLinkCmd.accesskey        "t">
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
+<!ENTITY openLinkCmd.accesskey        "t">
 <!ENTITY openLinkCmdInPrivateWindow.label     "Atverti saitą privačiojo naršymo lange">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label    "Atverti">
@@ -57,8 +57,8 @@
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
-<!ENTITY setDesktopBackgroundCmd.accesskey    "d">
+<!ENTITY setDesktopBackgroundCmd.label     "Naudoti kaip darbastalio fono piešinį…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "d">
 <!ENTITY bookmarkPageCmd.label        "Tinklalapį įrašyti į adresyną">
 <!ENTITY bookmarkPageCmd.accesskey    "š">
 <!ENTITY bookmarkLinkCmd.label        "Saitą įrašyti į adresyną">
@@ -136,8 +136,8 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
 <!ENTITY spellAddToDictionary.label     "Įtraukti į žodyną">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellUndoAddToDictionary.label     "Atšaukti įtraukimą į žodyną">
-<!ENTITY spellUndoAddToDictionary.accesskey "u">
+<!ENTITY spellUndoAddToDictionary.label      "Atšaukti įtraukimą į žodyną">
+<!ENTITY spellUndoAddToDictionary.accesskey  "u">
 <!ENTITY spellIgnoreWord.label          "Praleisti žodį">
 <!ENTITY spellIgnoreWord.accesskey      "P">
 <!ENTITY spellCheckEnable.label         "Tikrinti rašybą">

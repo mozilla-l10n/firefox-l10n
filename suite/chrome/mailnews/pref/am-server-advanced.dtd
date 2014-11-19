@@ -4,7 +4,7 @@
 
 <!ENTITY serverAdvanced.label "Papildomos paskyros nuostatos">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP serverio katalogas:">
+<!ENTITY serverDirectory.label "IMAP server directory:">
 <!ENTITY serverDirectory.accesskey "k">
 <!ENTITY usingSubscription.label "Rodyti tik prenumeruotus aplankus">
 <!ENTITY usingSubscription.accesskey "R">
@@ -15,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "Didžiausias serverio prisijungimų prie podėlio skaičius">
 <!ENTITY maximumConnectionsNumber.accesskey "D">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Šios nuostatos apibrežia IMAP serverio vardų sritis">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Asmeninė vardų sritis:">
 <!ENTITY personalNamespace.accesskey "A">
 <!ENTITY publicNamespace.label "Viešoji (bendro naudojimo):">

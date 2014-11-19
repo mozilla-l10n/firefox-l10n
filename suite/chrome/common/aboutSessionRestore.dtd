@@ -18,5 +18,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Atkurti">
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Langas nr. &#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Langas nr. &#037;S">
