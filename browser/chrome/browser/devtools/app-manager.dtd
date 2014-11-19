@@ -22,7 +22,7 @@
 <!ENTITY device.name "نام">
 
 
-
+<!ENTITY device.certified "تأییدشده">
 <!ENTITY device.allow "اجازه دادن">
 
 <!ENTITY device.prompt "پرسش">
@@ -33,21 +33,22 @@
 
 <!ENTITY device.permissions "مجوزها">
 
-
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
 
 <!ENTITY device.debugBrowserTab "اشکال‌زدایی">
 
 
 
-
+<!ENTITY connection.connectTooltip "اتصال به دستگاه">
+<!ENTITY connection.disconnect "قطع ارتباط">
 
 <!ENTITY connection.notConnected2 "متصل نیست.">
+<!ENTITY connection.connectTo "اتصال به:">
 
+<!ENTITY connection.changeHostAndPort "تغییر دادن">
 
-
-
-
+<!ENTITY connection.startSimulator "شروع شبیه ساز">
 
 
 
@@ -56,14 +57,15 @@
 <!ENTITY connection.cancel "انصراف">
 
 
+<!ENTITY connection.or "یا">
+<!ENTITY connection.noSimulatorInstalled "شبیه‌ساز نصب نشده است.">
+<!ENTITY connection.installOneSimulator "نصب شبیه‌ساز">
 
 
 
 
 
-
-
-
+<!ENTITY projects.localApps "برنامه های محلی">
 
 
 
@@ -78,7 +80,7 @@
 
 
 
-
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 
