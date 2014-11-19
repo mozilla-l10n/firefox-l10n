@@ -10,7 +10,8 @@
 <!ENTITY blocklist.softandhard       "Izongezelelo ezinomngcipheko wokudala ukungazinzi okanye iingxaki zokhuseleko zithintelwe. Ezinye zinomngcipheko omncinci, kodwa kuyacetyiswa ngamandla ukuba uqalele kwakhona ukuzenza zingasebenzi.  ">
 <!ENTITY blocklist.moreinfo          "Ulwazi oluthe chatha">
 
-
+<!ENTITY blocklist.accept.label      "Qalisa &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "Q">
 
 <!ENTITY blocklist.blocked.label     "Okuthintelweyo">
 

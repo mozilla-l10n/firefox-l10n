@@ -107,11 +107,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Bonisa zonke iithebhu">
 <!ENTITY showAllTabsCmd.accesskey "z">
 
-<!ENTITY fxaSignIn.label "Ngena kwi-&syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha kwi-&syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
-<!ENTITY syncErrorPanel.heading "Ayikwazi ukuqhagamshela kwi-&syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.heading "Ayikwazi ukuqhagamshela &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Sicela ungene ukuze uqalise kwakhona ukungqamanisa.">
 <!ENTITY syncErrorPanel.signInButton.label "Sayina uNgene">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
@@ -363,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Yongeza kwiThulbha">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Y">
-<!ENTITY customizeMenu.addToPanel.label "Yongeza kwi-Menyu">
+<!ENTITY customizeMenu.addToPanel.label "Yongeza Menyu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Fudukela kwiThulbha">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
@@ -676,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
-<!ENTITY syncReAuthItem.label         "Qhagamshelanisa ngokutsha kwi-&syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Ungqamaniso">
 
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "Uluhlu lokwenza zisebenze">
 <!ENTITY social.directory.text "Ungazenza iinkonzo zoKwabelana zisebenze kuluhlu.">
 <!ENTITY social.directory.button "Ndithathe undise apho!">
-<!ENTITY social.directory.introText "Cofa kwinkonzo ukuyifaka kwi-&brandShortName;.">
+<!ENTITY social.directory.introText "Cofa kwinkonzo ukuyifaka &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Bona okuNinzi">
 
 <!ENTITY customizeMode.tabTitle "Qhelanisa &brandShortName;">
@@ -786,7 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
-<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha kwi-&brandShortName; ukulungiselela i-Windows 8 Touch">
+<!ENTITY switchToMetroCmd2.label       "Lontsha ngokutsha &brandShortName; ukulungiselela i-Windows 8 Touch">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->

@@ -20,7 +20,7 @@
 <!ENTITY  autoTypeRadio.accesskey       "o">
 <!ENTITY  reload.label                  "Khuphela kwakhona">
 <!ENTITY  reload.accesskey              "u">
-<!ENTITY  ftp.label                     "Iproksi ye-FTP:">
+<!ENTITY  ftp.label                     "Iproksi FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "IProksi ye-HTTP:">
 <!ENTITY  http.accesskey                "k">
