@@ -39,9 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
-
+<!ENTITY profilerUI.table.totalDuration   "Waatoo kul (ms)">
+<!ENTITY profilerUI.table.selfDuration    "Boŋ-waati diiyan (ms)">
+<!ENTITY profilerUI.table.totalPercentage "Hayoo kul">
+<!ENTITY profilerUI.table.selfPercentage  "Boŋ-hayoo">
+<!ENTITY profilerUI.table.samples         "Cebe-izey">
 <!ENTITY profilerUI.table.function        "Goyyan">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

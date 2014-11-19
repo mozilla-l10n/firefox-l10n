@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>Aderesoo koroši hantumyan firkawey se sanda 
-<strong>ww</strong>.example.com manti 
-<strong>www</strong>.example.com</li> 
-<li>Nda war ši hin ka moo kul zumandi, war jinaa ciyari bayhayey wala hewbande (Wi-Fi) ciyaroo gun ka boori. 
-<button id='wifi'>Wi-Fi tunandi</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Tukoo ši duwandi">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>Dalil foo se &brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Interneti aderesey ši doona ka hantumandi sanda 
-<strong>http://www.example.com/</strong></li> 
-<li>Wa alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Ciyaroo dunbu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -51,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Ceeci koyne. &brandShortName; ga wiri ka dobu feeri nda ga moɲoo zumandi taaga. 
 <button id='wifi'>Wi-Fi tunandi</button> 
@@ -86,6 +78,8 @@ goy ra.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Mana hin ka duu feršikaw tokoraa">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Tokore kayandiyaney koroši ka alhakiika kaŋ i ga šerre.</li> 
 <li>Koroši k'alhakiika kaŋ war jinaa goo nda bayhaya wala hewbande (Wi-Fi) ciyari goyante. 
@@ -119,6 +113,8 @@ boro foo goo ma ceeci ka war feršikaa ženti.</li>
 <li>Nda war bay ka feršikaa woo ciya ka boori han foo, firkaa ga hin ka tee 
 waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Nungoo mana hin ka duwandi waati foo ra wal'a cindi goy ra. Ceeci koyne nd'a too kayna.</li> 

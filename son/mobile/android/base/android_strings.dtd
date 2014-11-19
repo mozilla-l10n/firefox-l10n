@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Šenni">
+
 <!ENTITY pref_browser_locale "Ceecikaw šenni">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Doo-šilbay">
 <!ENTITY overlay_share_reading_list_btn_label "Tonton caw maašeedaa ga">
+
+
 <!ENTITY overlay_share_send_other "Sanba jinay taney do">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
 <!ENTITY pref_category_display "Cebe">
+
 <!ENTITY pref_category_privacy_short "Sutura">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
 <!ENTITY pref_learn_more "Bay ka tonton">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
+
 <!ENTITY pref_developer_paint_flashing "Doo gaayay">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
 <!ENTITY pref_clear_private_data2 "Tuusu sohõda">
 <!ENTITY pref_clear_private_data_category "Sutura bayhayey tuusu">
-<!ENTITY pref_clear_on_exit_title "Tuusu waati kul ka fatta">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ga war bayhayey tuusu nga boŋ se waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋoo ra">
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
 <!ENTITY pref_import_android "Zaa Android ra">
+
 <!ENTITY pref_private_data_history2 "Ceeciyan taariki">
 <!ENTITY pref_private_data_formdata "Takari nda ceeciyan taariki">
 <!ENTITY pref_private_data_cookies2 "Aleewawey nda ciyari hunantey">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; gorodoo goymee">
-<!ENTITY datareporting_wifi_geolocation_summary "Ga du Wi-Fi nda fargandi gorodoo bayhaya waati kaŋ a ga dira bandafaaroo ra nd\u0027a ga žemna nda &vendorShortName; k\u0027ir gorodoo goymee boryandi ka tonton">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Taagandirey ma zunbu ngi boŋše">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_update_autodownload_never "Abada">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
 <!ENTITY set_image_fail "Ši hin ka bii kayandi">
+
 <!ENTITY set_image_chooser_title "Bii kayandi sanda">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -403,9 +413,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Hala &formatS; do">
 
+<!ENTITY home_remote_tabs_title "Nor loku cere-hangantey">
+
+<!ENTITY home_remote_tabs_unable_to_connect "Ši hin ka ciya">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "Sutura naarumi">
 <!ENTITY private_tabs_panel_empty_desc "War sutura nor lokey ga bangay ne. Baa kaŋ ir ši taariki gaabu war ceeciyan wala aleewawey ga, doo-šilbawey nda tukey kaŋ war n\u0027i zumandi ga cindi war boŋ jinaa ga.">
 <!ENTITY private_tabs_panel_learn_more "Bay ka tonton wala?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
 
@@ -474,6 +503,9 @@ Android ra">
 
 <!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; še">
 <!ENTITY updater_apply_select2 "Daaru ka taagandi">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yaw goywaati taaga">
@@ -482,6 +514,8 @@ Android ra">
 <!ENTITY guest_session_dialog_cancel "Naŋ">
 <!ENTITY new_guest_session_title "&brandShortName; ga tunandi taaga">
 <!ENTITY new_guest_session_text "Boraa kaŋ ga goy nd\u0027a ši hin ka dii war hunday ceeciyan bayhayey (sanda šennikufal gaabuntey, taariki wala doo-šilbawey).\n\nWaati kaŋ war yawoo ben, ngey ceeciyan bayhayey ga tuusandi nda war goywaatoo ga yeeti dogoo ra.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; ga tunandi taaga">
 <!ENTITY exit_guest_session_text "Goywaatoo woo ceeciyan bayhayey ga tuusandi.">

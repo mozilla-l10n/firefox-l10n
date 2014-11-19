@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "Goy waati ceebandey jiši">
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,6 +21,10 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Naagu ne">
+<!ENTITY timelineUI.emptyNotice2    "butoŋoo ga ka šintin ka waati ceebandu batey jiši.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "Naagu ne">
+<!ENTITY timelineUI.stopNotice2    "botoŋoo koyne ka jišiyan naŋ.">
