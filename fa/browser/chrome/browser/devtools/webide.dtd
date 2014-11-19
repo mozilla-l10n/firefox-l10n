@@ -23,7 +23,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_disconnect_label "قطع ارتباط">
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-
+<!ENTITY runtimePanel_installsimulator "نصب شبیه‌ساز">
 
 
 <!-- Lense -->
