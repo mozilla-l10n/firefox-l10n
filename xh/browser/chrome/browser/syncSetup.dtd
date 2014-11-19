@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "Useto lwe-&syncBrand.fullName.label;">
+<!ENTITY accountSetupTitle.label    "Useto &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Sayina uNgene">
-<!ENTITY existingRecoveryKey.description "Ungafumana ikopi yeQhosha lokuFumana lakho ngokuya kwi-&syncBrand.shortName.label; Iindlela zokhetho kwesinye isixhobo sakho, nokukhetha  &quot;iQhosha lokuFumana Lam&quot; ngaphantsi &quot;Lawula iAkhawunti&quot;.">
+<!ENTITY existingRecoveryKey.description "Ungafumana ikopi yeQhosha lokuFumana lakho ngokuya &syncBrand.shortName.label; Iindlela zokhetho kwesinye isixhobo sakho, nokukhetha  &quot;iQhosha lokuFumana Lam&quot; ngaphantsi &quot;Lawula iAkhawunti&quot;.">
 <!ENTITY verifying.label              "Iyaqinisekisa…">
 <!ENTITY resetPassword.label          "Seta ngokutsha iPhaswedi">
 <!ENTITY resetSyncKey.label           "Ndilahlekelwe sesinye isixhobo sam.">
@@ -98,16 +98,16 @@
 <!ENTITY engine.addons.label        "Izongezelelo">
 <!ENTITY engine.addons.accesskey    "z">
 
-<!ENTITY choice2a.merge.main.label       "Dibanisa le ngcombolo yesixhobo kunye nengcombolo yam ye-&syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Dibanisa le ngcombolo yesixhobo kunye nengcombolo yam &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Okucetyisiweyo:">
-<!ENTITY choice2a.client.main.label      "Buyisela yonke ingcombolo ekwesi sixhobo kunye nengcombolo yam ye-&syncBrand.shortName.label;">
+<!ENTITY choice2a.client.main.label      "Buyisela yonke ingcombolo ekwesi sixhobo kunye nengcombolo yam &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Buyisela zonke ezinye izixhobo kunye nengcombolo yesi sixhobo">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Qinisekisa">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ngoku iya kudibanisa yonke ingcombolo yebhrawuza yesi sixhobo ibe kwiakhawunti yakho yoNgqamaniso.">
-<!ENTITY confirm.client3.label         "Isilumkiso: Ingcombolo ye-&brandShortName; elandelayo kwesi sixhobo   iya kucinywa:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; iya kuthi iyikopele kwesi sixhobo ingcombolo ye-&syncBrand.fullName.label; yakho.">
+<!ENTITY confirm.client3.label         "Isilumkiso: Ingcombolo &brandShortName; elandelayo kwesi sixhobo   iya kucinywa:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; iya kuthi iyikopele kwesi sixhobo ingcombolo &syncBrand.fullName.label; yakho.">
 <!ENTITY confirm.server2.label         "Isilumkiso: Izixhobo ezilandelayo ziya kucinywa yingcombolo yakho yalapha:">
 <!-- New & Existing Account: Setup Complete -->
 

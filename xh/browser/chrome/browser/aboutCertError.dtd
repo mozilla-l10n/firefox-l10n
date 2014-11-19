@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Ucele i-&brandShortName; udibanise
+<!ENTITY certerror.introPara1 "Ucele &brandShortName; udibanise
 gokungaqinanga kwi<b>#1</b>, kodwa asingeqinisekisi ukuba ukudibanisa kwakho kuqinile.">
 <!ENTITY certerror.introPara2 "Ngokwesiqhelo, xa uzama ukudibanisa ngokuqinileyo, 
 iisayithi ziya kuba nofaniso oluthembekileyo ukubonisa ukuba uya 
@@ -33,7 +33,7 @@ kwesisatifikethi.">
 
 <!ENTITY certerror.expert.heading "Ndiyayiqonda imingcipheko">
 <!ENTITY certerror.expert.content "Ukuba uyayiqonda into eyenzekayo, 
-ungaxelela i-&brandShortName; ukuba iqalise ukuthemba ufaniso lwale sayithi. 
+ungaxelela &brandShortName; ukuba iqalise ukuthemba ufaniso lwale sayithi. 
 <b>Nokuba uyayithemba isayithi, le mposiso isenokuthetha ukuba kukho umntu 
 obhucabhuca ukudibanisa kwakho.</b>">
 <!ENTITY certerror.expert.contentPara2 "Musa ukongeza i-eksepshini ngaphandle kokuba 

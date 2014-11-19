@@ -14,7 +14,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. I-&brandShortName; iya kukhangela 
 izihlaziyi amaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
-kwe-&brandShortName; okuzenzekelayo.">
+&brandShortName; okuzenzekelayo.">
 
 <!ENTITY  manualUpdate.title              "Ayikwazi ukuHlaziya">
 <!ENTITY  manualUpdate.desc               "Uhlaziyo lokhuseleko nozinziso olucetyisiweyo luyafumaneka, kodwa wena 
@@ -23,7 +23,7 @@ nomlawuli wesistim yakho, okanye zama kwakhona kwiakhawunti enemvume
 yokufakela isoftwe kule khompyutha.">
 <!ENTITY  manualUpdate.space.desc         "Uhlaziyo lokhuseleko nozinziso olucetyisiweyo luyafumaneka, kodwa wena 
 awunaso isithuba esaneleyo sokuyifakela.">
-<!ENTITY  manualUpdateGetMsg.label        "Ungasoloko ulufumana uguqulelo lwangoku lwe-&brandShortName; ku-:">
+<!ENTITY  manualUpdateGetMsg.label        "Ungasoloko ulufumana uguqulelo lwangoku &brandShortName; ku-:">
 
 <!ENTITY  unsupported.title               "Inkqubo Ayixhaswa">
 <!ENTITY  unsupported.label               "Eyakho &brandShortName; iphelelwe lixesha, kodwa uhlelo lwakutshanje aluxhaswa 
@@ -37,7 +37,7 @@ Akuzukuphinda usibone kwakhona esi saziso, kodwa unako">
 <!ENTITY  clickHere.label                 "Jonga ulwazi olungaphaya kolunikiweyo malunga nolu hlaziyo">
 
 <!ENTITY  evangelism.desc                 "Kucetyiswa kakhulu ukuba usebenzise olu 
-hlaziyo lwe-&brandShortName; ngokukhawuleza kangangoko.">
+hlaziyo &brandShortName; ngokukhawuleza kangangoko.">
 
 <!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma
 ngaphantsi uqhube nokufakela olu hlaziyo.">
@@ -52,7 +52,7 @@ ngaphantsi uqhube nokufakela olu hlaziyo.">
 
 <!ENTITY  incompatibleList.title          "IZongezelelo ezingahambelaniyo ziFunyenwe">
 
-<!ENTITY  downloadPage.title              "Ikhuphela i-&brandShortName;">
+<!ENTITY  downloadPage.title              "Ikhuphela &brandShortName;">
 <!ENTITY  downloading.intro               "Ikhuphela uhlaziyo…">
 <!ENTITY  connecting.label                "Iyanxibelelana kwiseva yohlaziyo…">
 <!ENTITY  verificationFailedText.label    "I-&brandShortName; ayikwazanga ukuqinisekisa imfezeko yo
@@ -72,25 +72,25 @@ hlaziyo. I-&brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
 uze ukhuphelele uhlelo lwamvanje:">
                                            
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. 
-i-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
+&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
 
-<!ENTITY  genericBackgroundError.label    "i-&brandShortName; ayikwazi ukumisela ukuba ingaba kukho uhlaziyo olufumanekayo na. Nceda 
-uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo i-&brandShortName; ekuhlaziyeni ngokukhuselekileyo. 
-Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Kukho into ezama ukubhida i-&brandShortName; ekwamkeleni 
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ayikwazi ukumisela ukuba ingaba kukho uhlaziyo olufumanekayo na. Nceda 
+uqinisekise ukuba unalo uguqulelo lwakutsha nje &brandShortName; olusuka:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo &brandShortName; ekuhlaziyeni ngokukhuselekileyo. 
+Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje &brandShortName; olusuka:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Kukho into ezama ukubhida &brandShortName; ekwamkeleni 
 uhlaziyo olungakhuselekanga. Nceda uqhagamshelane nomboneleli wenethiwekhi yakho uze ufune uncedo.">
 
 <!ENTITY  finishedPage.title              "Uhlaziyo luKulungele ukuFakela">
-<!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo i-&brandShortName; iqalisa. Wena 
-ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
+<!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo &brandShortName; iqalisa. Wena 
+ungaphinda uyiqalise &brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 
-<!ENTITY  finishedBackgroundPage.text     "Uhlaziyo lokhuseleko nozinziso lwe-&brandShortName; lu
+<!ENTITY  finishedBackgroundPage.text     "Uhlaziyo lokhuseleko nozinziso &brandShortName; lu
 khutshelwe kwaye lukulungele ukufakelwa.">
 <!ENTITY  finishedBackground.name         "Uhlaziyo:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Uhlaziyo luya kufakelwa kwixesha elizayo i-&brandShortName; iqalisa. Wena 
-ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
+<!ENTITY  finishedBackground.more         "Uhlaziyo luya kufakelwa kwixesha elizayo &brandShortName; iqalisa. Wena 
+ungaphinda uyiqalise &brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 
 <!ENTITY  installed.title                 "Uhlaziyo luFakelwe">
 <!ENTITY  installed.intro                 "Uhlaziyo lufakelwe ngempumelelo.">

@@ -9,7 +9,7 @@
 
 <!ENTITY            profilename.label      "Igama leprofayile:">
 
-<!ENTITY            start.label            "Qalisa i-&brandShortName;">
+<!ENTITY            start.label            "Qalisa &brandShortName;">
 <!ENTITY            exit.label             "Phuma">
 
 <!ENTITY            availprofiles.label    "Iiprofayile ezifumanekayo">

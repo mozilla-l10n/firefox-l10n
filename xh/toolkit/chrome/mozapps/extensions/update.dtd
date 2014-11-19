@@ -13,7 +13,7 @@ hlelo.">
 
 <!ENTITY  mismatch.win.title              "Izongezelelo ezingahambelaniyo">
 <!ENTITY  mismatch.top.label              "Izongezelelo ezilandelayo azihambelani nolu hlelo
-lwe-&brandShortName; kwaye yenziwe ayasebenza:">
+&brandShortName; kwaye yenziwe ayasebenza:">
 <!ENTITY  mismatch.bottom.label           "I-&brandShortName; ingakhangela ukuba kukho iintlelo ezihambelanayo na 
 zezi zongezelelo zifumanekayo.">
 
@@ -47,12 +47,12 @@ xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
 <!ENTITY  adminDisabled.wizard.title      "Ayikwazi ukuKhangela iziHlaziyi">
 <!ENTITY  adminDisabled.warning.label     "Akukwazeki ukukhangela izihlaziyi kwizongezelelo ezingahambelaniyo 
-ngenxa yokuba ufakelo lwesoftwe lwe-&brandShortName; lwenziwe alwasebenza. 
+ngenxa yokuba ufakelo lwesoftwe &brandShortName; lwenziwe alwasebenza. 
 Nceda uqhagamshelane noMlawuli weSistim yakho ukufumana uncedo.">
 
 <!ENTITY  versioninfo.wizard.title        "Ikhangela iZongezelelo zoHambelwano">
 <!ENTITY  versioninfo.top.label           "Ikhangela izongezelelo zakho zohambelwano ngolu 
-hlelo lwe-&brandShortName;.">
+hlelo &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Oku kunokuthatha imizuzu embalwa…">
 
 <!ENTITY  installerrors.wizard.title      "Iingxaki zokuFakela iziHlaziyi">
@@ -60,6 +60,6 @@ hlelo lwe-&brandShortName;.">
 ezinye zezongezelelo zakho.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa i-&brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa i-&brandShortName;.">
+<!ENTITY  clickFinish.label               "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShortName;.">
 <!ENTITY  enableChecking.label            "Vumela i&brandShortName; ijongisise uhlaziyo.">

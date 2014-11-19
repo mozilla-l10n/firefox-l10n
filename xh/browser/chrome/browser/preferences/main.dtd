@@ -32,7 +32,7 @@
 <!ENTITY alwaysAsk.accesskey "q">
 
 <!ENTITY alwaysCheckDefault.label         "Khangela qho ukuba &brandShortName; iyibhrawuza esisiseko ekuvuleni">
-<!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
+<!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba &brandShortName; iyibhrawuza yakho esisiseko">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
 <!ENTITY setAsMyDefaultBrowser.label      "Yenza &brandShortName; ibe yibhrawuza esisiseko">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "D">

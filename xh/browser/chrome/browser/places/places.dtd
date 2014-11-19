@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "L">
 <!ENTITY view.unsorted.label            "Akuhlelahlelwanga">
 <!ENTITY view.unsorted.accesskey        "A">
-<!ENTITY view.sortAscending.label       "Ulandelelwano Lokuhlelahlela lwe-A > Z">
+<!ENTITY view.sortAscending.label       "Ulandelelwano Lokuhlelahlela A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Ulandelelwano Lokuhlelahlela lwe-Z > A">
+<!ENTITY view.sortDescending.label      "Ulandelelwano Lokuhlelahlela Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Ngenisa izalathisi eziphawulweyo ezivela ku-HTML…">
