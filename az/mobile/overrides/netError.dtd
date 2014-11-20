@@ -17,7 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ünvan tapılmadı">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
 
@@ -27,16 +28,18 @@
 
 
 <!ENTITY malformedURI.title "Yanlış ünvan">
-
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd brauzerin yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -49,10 +52,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Bağlantı kəsildi">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Baməlum əlaqə protokolu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -68,7 +71,8 @@ saxlayın.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy-server tapılmadı">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -86,7 +90,8 @@ saxlayın.</li>
 
 <!ENTITY nssBadCert.title "Təhlükəsiz bağlantı qurulmadı">
 
-
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspFrameAncestorBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauzer bu səhfənin yüklənməsini blokladı; çünki səhifə, yüklənməsinə icazə verməyən bir məzmun məzmun təhlükəsizlik qanuna sahibdir.</p>">

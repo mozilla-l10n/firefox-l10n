@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAddons.options                    "Nizamlar">
 
-
 <!ENTITY addonAction.enable                     "Aktiv et">
 <!ENTITY addonAction.disable                    "Söndür">
 <!ENTITY addonAction.uninstall                  "Sil">

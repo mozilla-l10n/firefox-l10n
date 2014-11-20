@@ -11,23 +11,23 @@
 <!ENTITY backButton.label               "Geri qayıt">
 <!ENTITY backButton.accesskey           "G">
 <!ENTITY backButton.tooltip             "Əvvəlki səhifəyə qayıt">
-<!ENTITY forwardButton.label            "İleri">
+<!ENTITY forwardButton.label            "İrəli">
 <!ENTITY forwardButton.accesskey        "r">
 <!ENTITY forwardButton.tooltip          "Sonrakı səhifəyə keç">
 <!ENTITY copyCmd.label                  "Kopyala">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Hamısını Seç">
 <!ENTITY selectAllCmd.accesskey         "H">
-<!ENTITY goBackCmd.commandkey           "-">
-<!ENTITY goForwardCmd.commandkey        "+">
-<!ENTITY homeButton.label               "Sətirin əvvəli">
-<!ENTITY homeButton.tooltip             "Kömək Ana Səhifəsinə keç">
-<!ENTITY printButton.label              "Yazdır">
-<!ENTITY printButton.tooltip            "Bu sayfayı yazdırır">
-<!ENTITY closeWindow.commandkey         "W">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Başlanğıc">
+<!ENTITY homeButton.tooltip             "Ana Kömək Səhifəsinə keç">
+<!ENTITY printButton.label              "Çap et">
+<!ENTITY printButton.tooltip            "Bu səhifəni çap et">
+<!ENTITY closeWindow.commandkey         "Ü">
 
 <!ENTITY search.emptytext               "Axtar">
-<!ENTITY searchHeader.label             "Arama sonuçları">
+<!ENTITY searchHeader.label             "Axtarış nəticələri">
 <!ENTITY toctab.label                   "Məzmun">
 <!ENTITY toctab.accesskey               "M">
 <!-- LOCALIZATION NOTE :

@@ -16,7 +16,7 @@
 #define bookmarks_heading Əlfəcinlər
 
 
-#define bookmarks_toolbarfolder Əlfəcin Alət Sətiri qovluğu
+#define bookmarks_toolbarfolder Əlfəcin Alət Sətiri Qovluğu
 
 
 #define bookmarks_toolbarfolder_description Əlfəcinlər Çubuğunda görmək istədiyiniz əlfəcinləri bu qovluğa əlavə edin

@@ -2,10 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Əlfəçinlər">
+
 
 
 
@@ -28,7 +33,6 @@
 <!ENTITY choose_file "Fayl Seç">
 
 
-<!ENTITY bookmark "Yer imi">
 
 <!ENTITY bookmark_removed "Əlfəçin silindi">
 
@@ -36,8 +40,8 @@
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dün">
-<!ENTITY history_week_section "7 gün əvvəl">
-<!ENTITY history_older_section "7 gündən gec">
+
+
 
 
 <!ENTITY reload "Yenilə">
@@ -62,13 +66,35 @@
 <!ENTITY settings_title "Seçimlər">
 
 
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "Yeniden dene">
+
+
+
+
 
 
 
@@ -88,8 +114,9 @@
      it is applicable. -->
 
 
-<!ENTITY pref_remember_signons "Şifrəni xatırla">
 
+
+<!ENTITY pref_remember_signons "Şifrəni xatırla">
 
 
 
@@ -124,6 +151,10 @@
 
 
 
+
+
+
+
 <!ENTITY pref_plugins "Əlavə proqramlar">
 
 
@@ -147,8 +178,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-
 <!ENTITY pref_sync "Eşitle">
+
+
 
 
 
@@ -225,19 +257,20 @@ size. -->
 
 
 
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Əvvəlkini tap">
 <!ENTITY find_next "Növbətini tap">
 <!ENTITY find_close "Bağla">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Göstər">
 <!ENTITY media_pause "Dayandır">
 
 
 <!ENTITY contextmenu_open_new_tab "Yeni vərəqdə aç">
-
 
 
 
@@ -255,8 +288,9 @@ size. -->
 
 
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -311,6 +345,28 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 
+<!ENTITY home_remote_tabs_unable_to_connect "Əlaqə cəhdi uğursuz oldu">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "Gizli baxış">
+
+
+
+
+
+
+
 <!ENTITY filepicker_title "Faylı seç">
 
 
@@ -361,9 +417,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "İrəli">
+
+
 
 
 
@@ -373,6 +434,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Oldu">
