@@ -484,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "อ">
 <!ENTITY emailVideoCmd.label          "อีเมลวีดิทัศน์…">
 <!ENTITY emailVideoCmd.accesskey      "อ">
-
-
+<!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
+<!ENTITY castVideoCmd.accesskey       "ส">
 <!ENTITY emailAudioCmd.label          "อีเมลเสียง…">
 <!ENTITY emailAudioCmd.accesskey      "อ">
 <!ENTITY playPluginCmd.label          "เรียกทำงานโปรแกรมเสริมนี้">
