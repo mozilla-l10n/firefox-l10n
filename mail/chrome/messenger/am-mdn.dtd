@@ -4,30 +4,30 @@
 
 <!ENTITY pane.title                   "Povratnice">
 <!ENTITY useGlobalPrefs.label         "Za povratnice uporabi moje splošne nastavitve za ta račun">
-<!ENTITY useGlobalPrefs.accesskey     "u">
+<!ENTITY useGlobalPrefs.accesskey     "Z">
 <!ENTITY globalReceipts.label         "Splošne nastavitve …">
-<!ENTITY globalReceipts.accesskey     "S">
+<!ENTITY globalReceipts.accesskey     "n">
 <!ENTITY useCustomPrefs.label         "Prilagodi povratnice za ta račun">
-<!ENTITY useCustomPrefs.accesskey     "z">
-<!ENTITY requestReceipt.label         "Med pošiljanjem sporočil vedno zahtevaj povratnico">
-<!ENTITY requestReceipt.accesskey     "M">
+<!ENTITY useCustomPrefs.accesskey     "P">
+<!ENTITY requestReceipt.label         "Ob pošiljanju sporočil vedno zahtevaj povratnico">
+<!ENTITY requestReceipt.accesskey     "O">
 <!ENTITY receiptArrive.label          "Ko povratnica prispe:">
-<!ENTITY leaveIt.label                "Pusti jo v Prejeto">
-<!ENTITY leaveIt.accesskey            "i">
+<!ENTITY leaveIt.label                "jo pusti v mapi &quot;Prejeto&quot;">
+<!ENTITY leaveIt.accesskey            "u">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Prestavi v mojo mapo &quot;Poslano&quot;">
-<!ENTITY moveToSent.accesskey         "m">
+<!ENTITY moveToSent.label             "jo premakni v mojo mapo &quot;Poslano&quot;">
+<!ENTITY moveToSent.accesskey         "r">
 <!ENTITY requestMDN.label             "Kadar dobim zahtevo za povratnico:">
-<!ENTITY returnSome.label             "Dovoljujem povratnico za nekatera sporočila">
-<!ENTITY returnSome.accesskey         "s">
-<!ENTITY never.label                  "Povratnic ne pošiljam nikoli">
-<!ENTITY never.accesskey              "i">
+<!ENTITY returnSome.label             "dovoli povratnice za nekatera sporočila">
+<!ENTITY returnSome.accesskey         "d">
+<!ENTITY never.label                  "nikoli ne pošlji povratnice">
+<!ENTITY never.accesskey              "n">
 <!ENTITY notInToCc.label              "Če nisem v Za ali Kp sporočila:">
-<!ENTITY notInToCc.accesskey          "r">
+<!ENTITY notInToCc.accesskey          "s">
 <!ENTITY outsideDomain.label          "Če je pošiljatelj izven moje domene:">
-<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY outsideDomain.accesskey      "e">
 <!ENTITY otherCases.label             "V vseh ostalih primerih:">
-<!ENTITY otherCases.accesskey         "o">
-<!ENTITY askMe.label                  "Vprašaj me">
+<!ENTITY otherCases.accesskey         "V">
+<!ENTITY askMe.label                  "Me vprašaj">
 <!ENTITY alwaysSend.label             "Vedno pošlji">
 <!ENTITY neverSend.label              "Nikoli ne pošiljaj">
