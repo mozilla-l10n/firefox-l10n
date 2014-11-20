@@ -1,20 +1,24 @@
-<!ENTITY newsblogTitle.label "Imimiselo Yeeakhawunti ze-RSS">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY biffStart.label "Qwalasela amanqaku amatsha qho ">
 <!ENTITY biffStart.accesskey "e">
 <!ENTITY biffEnd.label "imizuzu">
 
-<!ENTITY loginAtStartup.label "Qwalasela amanqaku amatsha ngexesha lokuqalisa">
+<!ENTITY loginAtStartup.label "Qwalasela amanqaku amatsha ngexesha lokuqalisa"> 
 <!ENTITY loginAtStartup.accesskey "Q">
 
-<!ENTITY useQuickMode.label "Ngokusebenza okuhlala kukho, bonisa isihwankathelo senqaku endaweni yokulayisha ikhasi lothungelwano">
+<!ENTITY useQuickMode.label "Ngokusebenza okuhlala kukho, bonisa isihwankathelo senqaku endaweni yokulayisha ikhasi lothungelwano"> 
 <!ENTITY useQuickMode.accesskey "N">
 
-<!ENTITY manageSubscriptions.label "Lawula Imirhumo...">
+<!ENTITY manageSubscriptions.label "Lawula Imirhumo..."> 
 <!ENTITY manageSubscriptions.accesskey "L">
-<!-- entities from defaults/isp/rss.rdf -->
 
-<!ENTITY rss.accountName "Iindaba &amp; Blogs">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "Iindaba ze-RSS &amp; Blogs">
-<!ENTITY rss.hostName "Iindaba &amp; Blogs">
+<!ENTITY feedWindowTitle.label "Feed Account Wizard">
+<!-- entities from rss.rdf -->
+
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">

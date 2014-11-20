@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Thoba umthwalo uze Uhambise Kunye Imiyalezo">
 <!ENTITY MsgSelect.label "Amanqaku Asetyenziselwa Imo Engeyo Yokusebenza">
@@ -13,7 +17,7 @@
 <!ENTITY workOffline.label "Umsebenzi ukwimo engeyo yokusebenza wakuba uthotyiwe umthwalo kunye/okanye ukuhambisa kunye kugqityiwe">
 <!ENTITY workOffline.accesskey "U">
 <!ENTITY selectButton.label "Khetha...">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Khetha iziqulathi zeefayili zemeyile kunye namaqela eendaba asetyenziselwa imo engeyo yokusebenza.">
 <!ENTITY MsgSelectInd.label "Thoba umthwalo">
 <!ENTITY MsgSelectItems.label "Iziqulatho zeefayili kunye Namaqela eendaba">
