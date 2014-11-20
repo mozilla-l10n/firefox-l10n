@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อได้">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "ที่ตั้งนี้ถูกจำกัด">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>ตรวจสอบว่าพิมพ์ที่ตั้งถูกหรือไม่ เช่น 
-<strong>ww</strong>.example.com แทนที่จะเป็น 
-<strong>www</strong>.example.com</li> 
-<li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางประการ</p>">
 
 <!ENTITY malformedURI.title "รูปแบบที่ตั้งนี้ไม่ถูกต้อง">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>ที่ตั้งเว็บโดยทั่วไปจะอยู่ในรูป 
-<strong>http://www.example.com/</strong></li> 
-<li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับ (เช่น 
-<strong>/</strong>) ได้ถูกต้อง</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัด">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
 <!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "ทำงานออฟไลน์">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>ลองใหม่ &brandShortName; จะพยายามสร้างการเชื่อมต่อและโหลดหน้าเว็บใหม่</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสอักขระในเนื้อหาผิดพลาด">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "หมดเวลาการเชื่อมต่อ">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่ตั้งนี้">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,10 +72,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ไม่พบเซิร์ฟเวอร์พร็อกซี">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> 
-<li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "หน้าเว็บเปลี่ยนแปลงทิศการเรียกไม่ถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -108,11 +97,8 @@
 <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้ได้โดยไม่พบปัญหา ข้อผิดพลาดครั้งนี้อาจเป็น
 แค่ชั่วคราว คุณสามารถลองใหม่ทีหลังได้</li> 
 </ul>">
-
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li> 
-<li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspFrameAncestorBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">

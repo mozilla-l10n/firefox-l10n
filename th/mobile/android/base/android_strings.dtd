@@ -5,12 +5,17 @@
 
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  history_title "ประวัติ">
 <!ENTITY  reading_list_title "รายการอ่าน">
+
 
 <!ENTITY  switch_to_tab "สลับแท็บ">
 
@@ -33,9 +38,7 @@
 
 <!ENTITY choose_file "เลือกแฟ้ม">
 
-<!ENTITY url_bar_default_text "กรอกคำค้นหรือที่อยู่เว็บ">
 
-<!ENTITY bookmark "ที่คั่นหน้า">
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_updated "แก้ไขที่คั่นหน้าแล้ว">
@@ -43,8 +46,8 @@
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
-<!ENTITY history_week_section "7 วันที่ผ่านมา">
-<!ENTITY history_older_section "เก่ากว่า 7 วัน">
+
+
 
 <!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
@@ -71,19 +74,41 @@
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "เพิ่งเข้ารายการอ่าน">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "ลองใหม่">
+
 
 <!ENTITY pref_category_search3 "ค้นหา">
 
 <!ENTITY pref_category_display "การแสดงผล">
+
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่ม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
@@ -97,13 +122,14 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
+
+
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
 
 <!ENTITY pref_category_home "หน้าหลัก">
 
 <!ENTITY pref_category_home_panels "แผง">
-
 
 
 <!-- Localization note (home_add_panel_installed):
@@ -138,7 +164,11 @@
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-<!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
+
+<!ENTITY pref_clear_private_data_category "ล้างข้อมูลส่วนตัว">
+
+
+
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "เปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
@@ -166,10 +196,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "หมาป่าว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการพัฒนาตามเพื่อคุณ โดยไม่มีแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
-<!ENTITY pref_show_product_announcements "แสดงประกาศของผลิตภัณฑ์">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
+
 
 
 
@@ -222,7 +253,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "ดาวน์โหลดการปรับปรุงโดยอัตโนมัติ">
 
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
@@ -247,10 +277,12 @@ size. -->
 <!ENTITY new_tab "แท็บใหม่">
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
 <!ENTITY close_all_tabs "ปิดทุกแท็บ">
+
 <!ENTITY tabs_normal "แท็บ">
 <!ENTITY tabs_private "ส่วนตัว">
 <!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งค่ารูป">
+
 <!ENTITY set_image_chooser_title "บันทึกรูปเป็น">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -259,17 +291,14 @@ size. -->
 <!ENTITY find_prev "ก่อนหน้า">
 <!ENTITY find_next "ถัดไป">
 <!ENTITY find_close "ปิด">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "ถ่ายทอดไปยังอุปกรณ์">
 <!ENTITY media_play "เล่น">
 <!ENTITY media_pause "หยุดพัก">
 <!ENTITY media_stop "หยุด">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
-<!ENTITY contextmenu_open_in_reader "เปิดในตัวอ่าน">
 <!ENTITY contextmenu_remove "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
@@ -287,10 +316,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
 <!ENTITY pref_titlebar_mode_url "แสดงที่อยู่เว็บ">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "เลื่อนแถบหัวเรื่อง">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -339,10 +367,10 @@ size. -->
 
 
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
+
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
-<!ENTITY home_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
 <!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
-<!ENTITY home_most_recent_title "ล่าสุด">
+
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -356,6 +384,29 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
+
+<!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อได้">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "การดูเว็บแบบส่วนตัว">
+
+
+
+
+
 
 <!ENTITY pin_site_dialog_hint "ระบุคำค้น">
 
@@ -423,6 +474,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
 <!ENTITY updater_apply_select2 "แตะเพื่อปรับปรุง">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
@@ -432,12 +486,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY new_guest_session_text "ผู้ที่ใช้จะไม่เห็นข้อมูลการท่องเว็บส่วนตัวของคุณ (เช่น รหัสผ่านที่บันทึกไว้, ประวัติการท่องเว็บ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จแล้ว ข้อมูลการท่องเว็บของเขาจะถูกลบ และวาระของคุณจะถูกเรียกคืนมา">
 
+
+
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
