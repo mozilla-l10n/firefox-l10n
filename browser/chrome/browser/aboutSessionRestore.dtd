@@ -35,12 +35,16 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; พร้อมที่จะเริ่ม">
 
 <!ENTITY welcomeback2.label.restoreAll  "เรียกคืนทุกหน้าต่างและแท็บ">
-
+<!ENTITY welcomeback2.label.restoreSome "เรียกคืนเฉพาะที่คุณต้องการ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "ส่วนเสริมและการปรับแต่งของคุณได้ถูกนำออกแล้ว และการตั้งค่าเบราเซอร์ของคุณได้ถูกคืนค่าเป็นค่าปริยาย ถ้านี้ไม่สามารถแก้ไขปัญหาของคุณได้ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "เรียนรู้เพิ่มเกี่ยวกับสิ่งที่คุณสามารถทำได้">
