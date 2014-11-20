@@ -26,5 +26,5 @@
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
-<!ENTITY timelineUI.stopNotice1    "Spustelėkite">
-
+<!ENTITY timelineUI.stopNotice1    "Dar kartą spustelėkite">
+<!ENTITY timelineUI.stopNotice2    "norėdami užbaigti įrašinėjimą.">
