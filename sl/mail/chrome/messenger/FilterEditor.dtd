@@ -31,7 +31,7 @@
 <!ENTITY filterActionOrder.label "Vrstni red izvajanja">
 <!-- New Style Filter Rule Actions -->
 
-<!ENTITY moveMessage.label "Prestavi sporočilo v">
+<!ENTITY moveMessage.label "Premakni sporočilo v">
 <!ENTITY copyMessage.label "Kopiraj sporočilo v">
 <!ENTITY forwardTo.label "Posreduj sporočilo v">
 <!ENTITY replyWithTemplate.label "Odgovori s predlogo">
