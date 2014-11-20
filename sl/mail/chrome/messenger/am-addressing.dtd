@@ -23,25 +23,25 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sporočila sestavljaj v obliki HTML">
 <!ENTITY useHtml.accesskey                    "S">
-<!ENTITY autoQuote.label                      "V odgovoru samodejno navedi izvirno sporočilo">
-<!ENTITY autoQuote.accesskey                  "s">
+<!ENTITY autoQuote.label                      "V odgovoru samodejno navedi izvirno sporočilo,">
+<!ENTITY autoQuote.accesskey                  "V">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Potem">
-<!ENTITY then.accesskey                       "P">
+<!ENTITY then.label                           "potem">
+<!ENTITY then.accesskey                       "o">
 <!ENTITY aboveQuote.label                     "začni moj odgovor nad navedenim besedilom">
 <!ENTITY belowQuote.label                     "začni moj odgovor pod navedenim besedilom">
 <!ENTITY selectAndQuote.label                 "izberi navedeno besedilo">
 <!ENTITY place.label                          "in vstavi moj podpis">
-<!ENTITY place.accesskey                      "p">
+<!ENTITY place.accesskey                      "n">
 <!ENTITY belowText.label                      "pod navedeno besedilo (priporočeno)">
 <!ENTITY aboveText.label                      "pod moj odgovor (nad navedeno besedilo)">
 <!ENTITY includeSigOnReply.label              "Dodaj podpis odgovorom">
-<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnReply.accesskey          "r">
 <!ENTITY includeSigOnForward.label            "Dodaj podpis posredovanim sporočilom">
-<!ENTITY includeSigOnForward.accesskey        "r">
+<!ENTITY includeSigOnForward.accesskey        "s">
 
 <!ENTITY globalComposingPrefs.label           "Splošne nastavitve za sestavljanje …">
-<!ENTITY globalComposingPrefs.accesskey       "S">
+<!ENTITY globalComposingPrefs.accesskey       "e">
 
 <!ENTITY globalAddressingPrefs.label          "Splošne nastavitve za naslavljanje …">
 <!ENTITY globalAddressingPrefs.accesskey      "n">
