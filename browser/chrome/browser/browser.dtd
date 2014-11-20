@@ -461,7 +461,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Bidali lotura posta elektronikoz…">
+<!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -480,13 +480,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "b">
 <!ENTITY saveAudioCmd.label           "Gorde audioa honela…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY emailImageCmd.label          "Bidali irudia posta elektronikoz…">
+<!ENTITY emailImageCmd.label          "Bidali irudia postaz…">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Bidali bideoa posta elektronikoz…">
+<!ENTITY emailVideoCmd.label          "Bidali bideoa postaz…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Bidali bideoa gailura">
 <!ENTITY castVideoCmd.accesskey       "B">
-<!ENTITY emailAudioCmd.label          "Bidali audioa posta elektronikoz…">
+<!ENTITY emailAudioCmd.label          "Bidali audioa postaz…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktibatu plugin hau">
 <!ENTITY playPluginCmd.accesskey      "k">
