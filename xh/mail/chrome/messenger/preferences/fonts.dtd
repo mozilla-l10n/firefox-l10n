@@ -1,64 +1,80 @@
-<!ENTITY fontsDialog.title "Iifonti">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY language.label "Iifonti ukwenzela:">
-<!ENTITY language.accesskey "t">
+<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY typefaces.label "Isimbo sokuchwetheza">
-<!ENTITY sizes.label "Ubukhulu (bamachokoza eskrinini)">
+<!ENTITY  language.label                          "Iifonti ukwenzela:">
+<!ENTITY  language.accesskey                      "t">
 
-<!ENTITY proportional.label "Ngolwalamano:">
-<!ENTITY proportional.accesskey "N">
+<!ENTITY  size.label                              "Size:">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  sizeMono.accesskey                      "i">
 
-<!ENTITY serif.label "i-Serif:">
-<!ENTITY serif.accesskey "s">
-<!ENTITY sans-serif.label "i-Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Isithuba esihamba sodwa:">
-<!ENTITY monospace.accesskey "i">
+<!ENTITY  proportional.label                      "Ngolwalamano:">
+<!ENTITY  proportional.accesskey                  "N">
 
-<!ENTITY fontsize.units "amachokoza eskrinini">
+<!ENTITY  serif.label                             "i-Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "i-Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Isithuba esihamba sodwa:">
+<!ENTITY  monospace.accesskey                     "I">
 
-<!ENTITY font.langGroup.latin1 "ngokwaseNtshona">
-<!ENTITY font.langGroup.latin2 "ngokwaseYurophu eseMbindini">
-<!ENTITY font.langGroup.japanese "ngokwesiJapan">
-<!ENTITY font.langGroup.trad-chinese "ngokwesiTshayina Somthonyama (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "isiTshayina Esenziwe Lula">
-<!ENTITY font.langGroup.trad-chinese-hk "ngokwesiTshayina Somthonyama (Hong Kong)">
-<!ENTITY font.langGroup.korean "ngokwesiKorea">
-<!ENTITY font.langGroup.cyrillic "ngokwesiCyrillic">
-<!ENTITY font.langGroup.baltic "ngokwesiBaltic">
-<!ENTITY font.langGroup.el "ngokwesiGrike">
-<!ENTITY font.langGroup.turkish "ngokwesiTurkish">
-<!ENTITY font.langGroup.unicode "Ezinye Iilwimi">
-<!ENTITY font.langGroup.user-def "Kuchazelwe Umsebenzisi">
-<!ENTITY font.langGroup.thai "ngokwesiThai">
-<!ENTITY font.langGroup.hebrew "ngokwesiHebheru">
-<!ENTITY font.langGroup.arabic "ngokwesiArab">
-<!ENTITY font.langGroup.devanagari "ngokwesiDevanagari">
-<!ENTITY font.langGroup.tamil "ngokwesiTamil">
-<!ENTITY font.langGroup.armenian "ngokwesiArmenian">
-<!ENTITY font.langGroup.bengali "ngokwesiBengali">
-<!ENTITY font.langGroup.canadian "ngokwesiUnified Canadian Syllabary">
-<!ENTITY font.langGroup.ethiopic "ngokwesiEthiopic">
-<!ENTITY font.langGroup.georgian "ngokwesiGeorgia">
-<!ENTITY font.langGroup.gujarati "ngokwesiGujarati">
-<!ENTITY font.langGroup.gurmukhi "ngokwesiGurmukhi">
-<!ENTITY font.langGroup.khmer "ngokwesiKhmer">
-<!ENTITY font.langGroup.malayalam "ngokwesiMalayalam">
+<!ENTITY  font.langGroup.latin1                   "ngokwaseNtshona">
+<!ENTITY  font.langGroup.latin2                   "ngokwaseYurophu eseMbindini">
+<!ENTITY  font.langGroup.japanese                 "ngokwesiJapan">
+<!ENTITY  font.langGroup.trad-chinese             "ngokwesiTshayina Somthonyama (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "isiTshayina Esenziwe Lula">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ngokwesiTshayina Somthonyama (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "ngokwesiKorea">
+<!ENTITY  font.langGroup.cyrillic                 "ngokwesiCyrillic">
+<!ENTITY  font.langGroup.baltic                   "ngokwesiBaltic">
+<!ENTITY  font.langGroup.el                       "ngokwesiGrike">
+<!ENTITY  font.langGroup.turkish                  "ngokwesiTurkish">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
+<!ENTITY  font.langGroup.user-def                 "Kuchazelwe Umsebenzisi">
+<!ENTITY  font.langGroup.thai                     "ngokwesiThai">
+<!ENTITY  font.langGroup.hebrew                   "ngokwesiHebheru">
+<!ENTITY  font.langGroup.arabic                   "ngokwesiArab">
+<!ENTITY  font.langGroup.devanagari               "ngokwesiDevanagari">
+<!ENTITY  font.langGroup.tamil                    "ngokwesiTamil">
+<!ENTITY  font.langGroup.armenian                 "ngokwesiArmenian">
+<!ENTITY  font.langGroup.bengali                  "ngokwesiBengali">
+<!ENTITY  font.langGroup.canadian                 "ngokwesiUnified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "ngokwesiEthiopic">
+<!ENTITY  font.langGroup.georgian                 "ngokwesiGeorgia">
+<!ENTITY  font.langGroup.gujarati                 "ngokwesiGujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "ngokwesiGurmukhi">
+<!ENTITY  font.langGroup.khmer                    "ngokwesiKhmer">
+<!ENTITY  font.langGroup.malayalam                "ngokwesiMalayalam">
 <!-- Minimum font size -->
 
-<!ENTITY minSize.label "Owona mlinganiselo mncinci wefonti:">
-<!ENTITY minSize.accesskey "n">
-<!ENTITY minSize.none "Akukho">
+<!ENTITY minSize.label                            "Owona mlinganiselo mncinci wefonti:">
+<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize.none                             "Akukho">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "I-Serif">
-<!ENTITY useDefaultFontSansSerif.label "i-Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "I-Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "i-Sans Serif">
+<!-- fonts in message -->
 
-<!ENTITY newLanguages.label "Iilwimi ezintsha zinokubumbeka ngokusebenzisa Isigqeba Seelwimi.">
+<!ENTITY  fontControl.label                       "Font Control">
+<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Vumela imiyalezo ukuba isebenzise ezinye iifonti">
+<!ENTITY  useDocumentFonts.accesskey              "m">
+<!-- Language settings -->
 
-<!ENTITY useDocumentFonts.label "Vumela imiyalezo ukuba isebenzise ezinye iifonti">
-<!ENTITY useDocumentFonts.accesskey "m">
+<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Character Encodings">
+<!ENTITY composingDescription.label       "Set the default character encodings for sending and receiving mail">
+
+<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

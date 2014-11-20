@@ -1,12 +1,6 @@
-<!ENTITY accountTitle.label "Imimiselo Yeeakhawunti">
-<!ENTITY accountSettingsDesc.label "Le ilandelayo yiakhawunti yohlobo olulodwa.  Akukho zimpawu zokuchonga ezinxulumene nayo.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Igama Leakhawunti:">
 <!ENTITY accountName.accesskey "L">
-<!ENTITY messageStorage.label "Ulondolozo Lomyalezo">
-<!ENTITY emptyTrashOnExit.label "Lahla Inkunkuma xa Uphuma">
-<!ENTITY emptyTrashOnExit.accesskey "p">
-<!ENTITY localPath.label "Uvimba weefayili zendawo leyo:">
-<!ENTITY localPath.accesskey "Z">
-<!ENTITY localFolderPicker.label "Khetha Uvimba Weefayili Zendawo Leyo">
-<!ENTITY browseFolder.label "Khangela...">
-<!ENTITY browseFolder.accesskey "K">

@@ -1,13 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+
 <!ENTITY smtpServer.label "Imimiselo Yeseva Ekhutshwayo (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "Nangona unokuxela ngaphezu kweseva enye ekhutshwayo (SMTP), oku kucetyiswa kuphela kubasebenzi benqanaba eliphambili. Ukumisela iiseva ezininzi ze-SMTP kusenokubanga iimposiso xa kuthunyelwa imiyalezo.">
+<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
 
-<!ENTITY smtpListAdd.label "Fakela...">
-<!ENTITY smtpListAdd.accesskey "e">
+<!ENTITY smtpListAdd.label  "Fakela...">
+<!ENTITY smtpListAdd.accesskey  "e">
 <!ENTITY smtpListEdit.label "Hlela...">
 <!ENTITY smtpListEdit.accesskey "H">
 <!ENTITY smtpListDelete.label "Susa">
@@ -18,5 +22,6 @@
 <!ENTITY serverDescription.label "Inkcazelo: ">
 <!ENTITY serverName.label "Igama Leseva: ">
 <!ENTITY serverPort.label "Isiqhagamshelisi: ">
-<!ENTITY userName.label "Igama Lomsebenzisi: ">
-<!ENTITY useSecureConnection.label "Khusela Umdibaniso: ">
+<!ENTITY userName.label   "Igama Lomsebenzisi: ">
+<!ENTITY connectionSecurity.label "Connection Security: ">
+<!ENTITY authMethod.label   "Authentication method: ">

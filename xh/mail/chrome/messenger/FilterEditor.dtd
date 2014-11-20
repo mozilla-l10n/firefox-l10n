@@ -1,20 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Imigqaliselo Yezihluzi">
-<!ENTITY subject.label "intloko">
-<!ENTITY sender.label "umthumeli">
-<!ENTITY date.label "umhla">
-<!ENTITY anyText.label "nasiphi isiqendu">
-<!ENTITY keyword.label "igama elisentloko">
-<!ENTITY age.label "ubudala ngokweentsuku">
-<!ENTITY to.label "ukuya">
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "isimo">
-<!ENTITY priority.label "ngokokubaluleka">
-<!ENTITY body.label "isiqu">
-<!ENTITY contains.label "kuqulethe">
-<!ENTITY nocontains.label "akuqulethanga">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Igama lesihluzi:">
 <!ENTITY filterName.accesskey "h">
 
@@ -27,12 +16,19 @@
 <!ENTITY highPriorityCmd.label "Phezulu">
 <!ENTITY highestPriorityCmd.label "Okona kuphezulu">
 
-<!ENTITY conditionDesc.label "Ukwenzela imiyalezo efikayo ethe:">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
+<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+
 <!ENTITY filterActionDesc.label "Yenza la manyathelo:">
 <!ENTITY filterActionDesc.accesskey "Y">
 
-<!ENTITY newFolderButton.label "Isiqulathi Seefayili Esitsha...">
-<!ENTITY newFolderButton.accesskey "I">
+<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrder.label "See execution order">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Shenxisela Umyalezo apha">
@@ -40,8 +36,8 @@
 <!ENTITY forwardTo.label "Gqithisela Phambili Umyalezo apha">
 <!ENTITY replyWithTemplate.label "Phendula Ngesakhelo Seenkcukacha">
 <!ENTITY markMessageRead.label "Phawula Njengesinokufundwa">
+<!ENTITY markMessageUnread.label "Mark As Unread">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Faka Ileyibhile Kumyalezo Kanje">
 <!ENTITY setPriority.label "Misela Ngokokubaluleka apha">
 <!ENTITY addTag.label "Tag Message">
 <!ENTITY setJunkScore.label "Misela Isimo Sengxubevange apha">
@@ -49,5 +45,17 @@
 <!ENTITY deleteFromPOP.label "Cima Ukusuka Kwiseva ye-POP">
 <!ENTITY fetchFromPOP.label "Landa Ukusuka kwiseva ye-POP">
 <!ENTITY ignoreThread.label "Ungawuhoyi Umsonto">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
 <!ENTITY watchThread.label "Gada Umsonto">
+<!ENTITY stopExecution.label "Stop Filter Execution">
 
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY removeAction.tooltip "Remove this action">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

@@ -1,18 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Imirhumo ye-RSS">
-<!ENTITY subscriptionDesc.label "Qaphela: Ukususa okanye ukuguqula isiqulathi seefayili ukwenzela ukondla akusayi kuchaphazela amanqaku ebethotywe umthwal ngaphambili.">
-<!ENTITY feedTitle.label "Isihloko:">
-<!ENTITY location.label "Indawo yokuthile:">
 
-<!ENTITY button.addFeed.label "Fakela">
-<!ENTITY button.addFeed.accesskey "F">
-<!ENTITY button.editFeed.label "Hlela">
-<!ENTITY button.editFeed.accesskey "H">
-<!ENTITY button.removeFeed.label "Susa">
+<!ENTITY feedSubscriptions.label     "Feed Subscriptions">
+<!ENTITY subscriptionDesc.label      "Qaphela: Ukususa okanye ukuguqula isiqulathi seefayili ukwenzela ukondla akusayi kuchaphazela amanqaku ebethotywe umthwal ngaphambili.">
+
+<!ENTITY feedTitle.label             "Isihloko:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefix tags with:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Fakela">
+<!ENTITY button.addFeed.accesskey    "F">
+<!ENTITY button.editFeed.label       "Hlela">
+<!ENTITY button.editFeed.accesskey   "H">
+<!ENTITY button.removeFeed.label     "Susa">
 <!ENTITY button.removeFeed.accesskey "S">
-<!ENTITY button.importOPML.label "Thatha ngaphandle">
+<!ENTITY button.importOPML.label     "Thatha ngaphandle">
 <!ENTITY button.importOPML.accesskey "T">
-<!ENTITY button.exportOPML.label "Thumela ngaphandle">
-<!ENTITY button.exportOPML.accesskey "P">
+<!ENTITY button.exportOPML.label     "Thumela ngaphandle">
+<!ENTITY button.exportOPML.accesskey "p">
+<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Close">
