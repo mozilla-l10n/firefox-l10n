@@ -301,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
 <!ENTITY set_image_fail "Ši hin ka bii kayandi">
-
+<!ENTITY set_image_path_fail "Ši hin ka bii gaabu">
 <!ENTITY set_image_chooser_title "Bii kayandi sanda">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
