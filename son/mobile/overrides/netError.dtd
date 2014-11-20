@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Aderesoo koroši hantum firkawey se sanda 
+<strong>ww</strong>.example.com manti 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Ceeci</button> 
+</div> 
+<li>Nda war ši hin ka moo kulyaŋ zumandi, war jinaa bayhayey wala Wi-Fi dobuyano koroši. 
+<button id='wifi'>Wi-Fi tunandi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Tukoo ši duwandi">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Interneti aderesey ga doona ka hantum sanda 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Ceeci</button> 
+</div> 
+<li>War m'alhakiika kaŋ war ga goy nda jine žeeri šiirantey (sanda 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Ciyaroo dunbu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

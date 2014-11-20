@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "Ir naaru ">
+<!ENTITY support.link2             "Faaba doo">
+<!ENTITY support.post3             " ka duu boŋfeeray hankul šendawey se.">
 
 <!ENTITY happy.header              "A ga kan nda boro maa woo!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Wala kala kayna">
 <!ENTITY happy.noThanks            "Kalaa naŋ">
 
+<!ENTITY sad.header                "Aywa kala!">
 <!ENTITY sad.message               "W'alhaa naŋ kaŋ war dii šenday fooyaŋ nda &brandShortName;. Har ir še woo kaŋ tee hal'ir ma hin k'a hanse.">
 <!ENTITY sad.placeholder           "War laasaaboo hantum ne">
-
+<!ENTITY sad.lastSite2             "Nungu gunante koraa tonton">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "Foo nda goy.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Wala nda.">
 
+<!ENTITY feedback.privacy2         "War suturaa se, taare wa ši alhabar kul dam war hantumoo ra kaŋ war boŋ-alhaaloo fukkar.">
 <!ENTITY feedback.send             "Laasaaboo sanba">

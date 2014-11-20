@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "Kanbuzaakey">
 <!ENTITY aboutPage.license.label                "Duɲeyan alhabar">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox nda Firefox maabiyey ti teekaw tammaasayaŋ Mozilla Foundation se.">

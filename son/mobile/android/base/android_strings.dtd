@@ -78,13 +78,13 @@
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
-
+<!ENTITY pref_category_customize_summary "Šintin moo, ceeciyan, nor lokey, zaayan">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Šenni">
-
+<!ENTITY pref_category_language_summary "War ceecikaa šennoo barmay">
 <!ENTITY pref_browser_locale "Ceecikaw šenni">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Doo-šilbay">
 <!ENTITY overlay_share_reading_list_btn_label "Tonton caw maašeedaa ga">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Doo-šilbandi ka ben">
+<!ENTITY overlay_share_reading_list_btn_label_already "Goo caw maašeede ga ka ben">
 <!ENTITY overlay_share_send_other "Sanba jinay taney do">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
 <!ENTITY pref_category_display "Cebe">
-
+<!ENTITY pref_category_display_summary "Hantum, maa žeeri, dijikul naaruyan">
 <!ENTITY pref_category_privacy_short "Sutura">
-
+<!ENTITY pref_category_privacy_summary "Dabari šennikufaley, aleewawey, hangayan, bayhayey">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName; ga, hankul hãayaney, bayhaya suubarey ">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
 <!ENTITY pref_learn_more "Bay ka tonton">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
-
+<!ENTITY pref_category_devtools_summary "Mooray hasaraw kaayan, doo gaayan">
 <!ENTITY pref_developer_paint_flashing "Doo gaayay">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
 <!ENTITY pref_clear_private_data2 "Tuusu sohõda">
 <!ENTITY pref_clear_private_data_category "Sutura bayhayey tuusu">
-
+<!ENTITY pref_clear_on_exit_title2 "Konnandi fattayan ga">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ga war bayhayey tuusu nga boŋ se waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋoo ra">
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary "War nor lokey. doo-šilbawey, šennikufaley, taarikoo hangandi cere">
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
 <!ENTITY pref_import_android "Zaa Android ra">
-
+<!ENTITY pref_import_android_summary "Doo-šilbawey nda taariki zaa aššil ceecikaa ga">
 <!ENTITY pref_private_data_history2 "Ceeciyan taariki">
 <!ENTITY pref_private_data_formdata "Takari nda ceeciyan taariki">
 <!ENTITY pref_private_data_cookies2 "Aleewawey nda ciyari hunantey">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; gorodoo goymee">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "War jinaa Wi-Fi doo nda kanbe talfon manantey nda &vendorShortName; k\u0027ir goymee gorodogoo boryandi ka tonton.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -414,27 +414,32 @@ size. -->
 <!ENTITY home_move_up_to_filter "Hala &formatS; do">
 
 <!ENTITY home_remote_tabs_title "Nor loku cere-hangantey">
-
+<!ENTITY home_remote_tabs_empty "Wa cebe ne war nor lokey kaŋ hun jinay taney ga.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ši hin ka ciya">
+<!ENTITY home_remote_tabs_need_to_sign_in "Huru taare ka war Firefox kontoo cee nda ka gaabandi ka hangandi.">
+<!ENTITY home_remote_tabs_trouble_verifying "Šenday war kontu tabatandiyan ra?">
+<!ENTITY home_remote_tabs_need_to_verify "Taare war Firefox kontoo koroši ka šintin ka hangandi.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "Jinay tugante 1">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Jinay tugante &formatD;">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Jinay tugantey">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Jinay tugantey cebe koyne">
 
 <!ENTITY private_browsing_title "Sutura naarumi">
 <!ENTITY private_tabs_panel_empty_desc "War sutura nor lokey ga bangay ne. Baa kaŋ ir ši taariki gaabu war ceeciyan wala aleewawey ga, doo-šilbawey nda tukey kaŋ war n\u0027i zumandi ga cindi war boŋ jinaa ga.">
 <!ENTITY private_tabs_panel_learn_more "Bay ka tonton wala?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Man n\u0027ay nor lokey koy?">
+<!ENTITY remote_tabs_panel_moved_desc "Ir na war nor lokey ganandi ka hun jinay tanayaŋ ga fasaldogoo ra war šintin moɲoo ga kaŋ ga hin ka cahã ka duwandi waati kul kaŋ war na nor loku feeri.">
+<!ENTITY remote_tabs_panel_moved_link "Ay kanbe ay fasaldoo taagaa ra.">
 
 <!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
 
@@ -506,6 +511,9 @@ Android ra">
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "Ceecikaa tunandi taaga hala barmawey ma hin ka goro">
+<!ENTITY new_tablet_pref "Walha diji taagaa tunandi">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yaw goywaati taaga">
@@ -514,8 +522,8 @@ Android ra">
 <!ENTITY guest_session_dialog_cancel "Naŋ">
 <!ENTITY new_guest_session_title "&brandShortName; ga tunandi taaga">
 <!ENTITY new_guest_session_text "Boraa kaŋ ga goy nd\u0027a ši hin ka dii war hunday ceeciyan bayhayey (sanda šennikufal gaabuntey, taariki wala doo-šilbawey).\n\nWaati kaŋ war yawoo ben, ngey ceeciyan bayhayey ga tuusandi nda war goywaatoo ga yeeti dogoo ra.">
-
-
+<!ENTITY guest_browsing_notification_title "Yaw naaru n\u0027 ka tunandi">
+<!ENTITY guest_browsing_notification_text "Karkar to fatta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ga tunandi taaga">
 <!ENTITY exit_guest_session_text "Goywaatoo woo ceeciyan bayhayey ga tuusandi.">
