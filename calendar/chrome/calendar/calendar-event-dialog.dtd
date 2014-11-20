@@ -343,8 +343,8 @@
 <!ENTITY event.attendee.role.nonparticipant     "Não participante">
 <!ENTITY event.attendee.usertype.individual     "Individual">
 <!ENTITY event.attendee.usertype.group          "Grupo">
-<!ENTITY event.attendee.usertype.resource       "Recurso">
-<!ENTITY event.attendee.usertype.room           "Sala">
+
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
