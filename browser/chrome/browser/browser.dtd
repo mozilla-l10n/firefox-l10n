@@ -700,8 +700,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ร">
 <!ENTITY social.closeNotificationItem.label "ไม่ใช่ตอนนี้">
 
-
-
+<!ENTITY social.directory.text "คุณสามารถเปิดใช้งานบริการ Share จากไดเรกทอรี">
+<!ENTITY social.directory.button "พาฉันไปที่นั่น!">
 
 
 
