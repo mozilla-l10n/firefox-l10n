@@ -87,7 +87,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Страницата не може да бъде показана, защото използва невалидно или неподдържано компресиране.</p><ul><li>Моля, свържете се със собственика на сайта и го информирайте за този проблем.</li></ul>">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
-<!ENTITY remoteXUL.longDesc "<ul><li>Моля, свържете се със собственика на сайта и го информирайте за този проблем.</li></ul>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собственика на сайта и го информирайте за този проблем.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
