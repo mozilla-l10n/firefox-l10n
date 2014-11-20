@@ -3,3 +3,4 @@ kaz-kk
 wikipedia-kk
 flip
 twitter
+yandex
