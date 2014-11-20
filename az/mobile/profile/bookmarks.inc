@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title Mobil
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,11 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser Firefox: Səyyahınız haqqında
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
-
 
 
 
@@ -47,6 +49,7 @@
 
 
 
+#define bookmarks_addons Firefox: Əlavələrlə özəlləşdirin
 
 
 
@@ -54,14 +57,11 @@
 
 
 
-
-
-
 # link title for https://support.mozilla.org/
 
 
 
-
+#define bookmarks_support Firefox: Dəstək
 
 
 
@@ -69,16 +69,11 @@
 
 
 
-
-
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
-
+#define bookmarks_marketplace Firefox Marketplace
 
 
 

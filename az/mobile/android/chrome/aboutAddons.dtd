@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "Eklentiler">
-
-<!ENTITY aboutAddons.options                    "Nizamlar">
+<!ENTITY aboutAddons.title2                     "Əlavələr">
+<!ENTITY aboutAddons.header2                    "Əlavələriniz">
+<!ENTITY aboutAddons.options                    "Seçimlər">
 
 <!ENTITY addonAction.enable                     "Aktiv et">
 <!ENTITY addonAction.disable                    "Söndür">
 <!ENTITY addonAction.uninstall                  "Sil">
-<!ENTITY addonAction.undo                       "Ləğv et">
+<!ENTITY addonAction.undo                       "Geri al">
