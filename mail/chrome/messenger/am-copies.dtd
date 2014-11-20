@@ -18,13 +18,13 @@
 <!ENTITY bccAddress.label "Pošlji Skp na te naslove:">
 <!ENTITY bccAddress.accesskey "S">
 <!ENTITY bccAddressList.placeholder "Loči naslove z vejicami">
-<!ENTITY saveMessageDlg.label "Ob shranjevanju sporočil prikaži potrdilno okno">
+<!ENTITY saveMessageDlg.label "Ob shranjevanju sporočil prikaži potrditveno okno">
 <!ENTITY saveMessageDlg.accesskey "O">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "mapo &quot;Poslano&quot; na:">
 <!ENTITY sentFolderOn.accesskey "P">
-<!ENTITY sentInOtherFolder.label "Drugo:">
-<!ENTITY sentInOtherFolder.accesskey "D">
+<!ENTITY sentInOtherFolder.label "drugo:">
+<!ENTITY sentInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arhivi za sporočila">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
@@ -33,18 +33,18 @@
 <!ENTITY archiveHierarchyButton.accesskey "M">
 <!ENTITY archivesFolderOn.label "mapo &quot;Arhivi&quot; na:">
 <!ENTITY archivesFolderOn.accesskey "h">
-<!ENTITY archiveInOtherFolder.label "Drugo:">
+<!ENTITY archiveInOtherFolder.label "drugo:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Osnutki in predloge">
 <!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "mapo &quot;Osnutki&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "n">
-<!ENTITY draftInOtherFolder.label "Drugo:">
+<!ENTITY draftInOtherFolder.label "drugo:">
 <!ENTITY draftInOtherFolder.accesskey "u">
 <!ENTITY keepTemplates.label "Predloge za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "mapo &quot;Predloge&quot; na:">
 <!ENTITY templatesFolderOn.accesskey "e">
-<!ENTITY templateInOtherFolder.label "Drugo:">
+<!ENTITY templateInOtherFolder.label "drugo:">
 <!ENTITY templateInOtherFolder.accesskey "o">

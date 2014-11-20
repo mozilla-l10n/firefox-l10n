@@ -4,14 +4,14 @@
 <!-- extracted from am-server-top.xul -->
 
 
-<!ENTITY messageStorage.label "Skladišče za sporočila">
+<!ENTITY messageStorage.label "Shramba sporočil">
 <!ENTITY securitySettings.label "Varnostne nastavitve">
 <!ENTITY serverSettings.label "Nastavitve strežnika">
 <!ENTITY serverType.label "Vrsta strežnika:">
 <!ENTITY serverName.label "Ime strežnika:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Uporabniško ime:">
-<!ENTITY userName.accesskey "i">
+<!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Vrata:">
 <!ENTITY port.accesskey "V">
 <!ENTITY serverPortDefault.label "Privzeto:">
@@ -20,11 +20,11 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Preveri nova sporočila vsakih ">
-<!ENTITY biffStart.accesskey "n">
+<!ENTITY biffStart.label "Preveri za nova sporočila vsakih ">
+<!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "minut">
 <!ENTITY connectionSecurity.label "Varnost povezave:">
-<!ENTITY connectionSecurity.accesskey "o">
+<!ENTITY connectionSecurity.accesskey "a">
 <!ENTITY connectionSecurityType-0.label "Brez">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, če je na voljo">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -32,55 +32,55 @@
 <!ENTITY authMethod.label "Metoda overitve:">
 <!ENTITY authMethod.accesskey "M">
 <!ENTITY leaveOnServer.label "Pusti sporočila na strežniku">
-<!ENTITY leaveOnServer.accesskey "s">
+<!ENTITY leaveOnServer.accesskey "u">
 <!ENTITY headersOnly.label "Prenesi samo glave">
-<!ENTITY headersOnly.accesskey "g">
+<!ENTITY headersOnly.accesskey "r">
 <!ENTITY deleteByAgeFromServer.label "Za največ">
-<!ENTITY deleteByAgeFromServer.accesskey "č">
+<!ENTITY deleteByAgeFromServer.accesskey "n">
 <!ENTITY daysEnd.label "dni">
-<!ENTITY deleteOnServer2.label "Dokler jih ne zbrišem">
-<!ENTITY deleteOnServer2.accesskey "b">
+<!ENTITY deleteOnServer2.label "Dokler jih ne izbrišem">
+<!ENTITY deleteOnServer2.accesskey "D">
 <!ENTITY downloadOnBiff.label "Samodejno prenesi nova sporočila">
-<!ENTITY downloadOnBiff.accesskey "S">
+<!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Vaše prijavno ime">
-<!ENTITY deleteMessagePrefix.label "Ko zbrišem sporočilo:">
-<!ENTITY modelMoveToTrash.label "Ga prestavi v mapo:">
-<!ENTITY modelMoveToTrash.accesskey "G">
-<!ENTITY modelMarkDeleted.label "Samo označi kot izbrisano">
-<!ENTITY modelMarkDeleted.accesskey "o">
-<!ENTITY modelDeleteImmediately.label "Odstrani ga takoj">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY deleteMessagePrefix.label "Ko izbrišem sporočilo:">
+<!ENTITY modelMoveToTrash.label "ga premakni v mapo:">
+<!ENTITY modelMoveToTrash.accesskey "r">
+<!ENTITY modelMarkDeleted.label "ga samo označi kot izbrisano">
+<!ENTITY modelMarkDeleted.accesskey "m">
+<!ENTITY modelDeleteImmediately.label "ga odstrani takoj">
+<!ENTITY modelDeleteImmediately.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) Prejeto ob izhodu">
-<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) mapo Prejeto ob izhodu">
+<!ENTITY expungeOnExit.accesskey "č">
 <!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni Koš">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Ob zagonu preveri nova sporočila">
+<!ENTITY emptyTrashOnExit.accesskey "h">
+<!ENTITY loginAtStartup.label "Ob zagonu preveri za nova sporočila">
 <!ENTITY loginAtStartup.accesskey "z">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Vprašaj me pred prenašanjem več kot">
-<!ENTITY maxMessagesStart.accesskey "V">
+<!ENTITY maxMessagesStart.accesskey "r">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "sporočil">
 <!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik vedno zahtevaj overitev">
-<!ENTITY alwaysAuthenticate.accesskey "O">
-<!ENTITY newsrcFilePath.label "datoteka newsrc:">
+<!ENTITY alwaysAuthenticate.accesskey "o">
+<!ENTITY newsrcFilePath.label "Datoteka newsrc:">
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
 <!ENTITY abbreviateOn.label "Polna imena (Na primer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrajšajte imena (Na primer, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Napredno…">
-<!ENTITY advancedButton.accesskey "p">
-<!ENTITY serverDefaultCharset.label "Privzeti nabor znakov:">
+<!ENTITY advancedButton.label "Napredno …">
+<!ENTITY advancedButton.accesskey "N">
+<!ENTITY serverDefaultCharset.label "Privzeto kodiranje znakov:">
 <!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
-<!ENTITY browseFolder.label "Prebrskaj…">
-<!ENTITY browseFolder.accesskey "b">
-<!ENTITY browseNewsrc.label "Prebrskaj…">
-<!ENTITY browseNewsrc.accesskey "j">
+<!ENTITY browseFolder.label "Brskaj …">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseNewsrc.label "Brskaj …">
+<!ENTITY browseNewsrc.accesskey "k">
 
 <!ENTITY accountTitle.label "Nastavitve računa">
-<!ENTITY accountSettingsDesc.label "Gre za račun posebne vrste.  Z njim ni povezana nobena istovetnost.">
+<!ENTITY accountSettingsDesc.label "Naslednje je račun posebne vrste.  Z njim ni povezana nobena identiteta.">
