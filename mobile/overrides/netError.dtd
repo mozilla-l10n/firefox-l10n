@@ -167,9 +167,8 @@ alguien tratando de hacerse pasar por el servidor.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
-
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
+<!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad que la deshabilita.</p>">
 
 <!ENTITY corruptedContentError.title "Error de contenido corrupto">
 <!ENTITY corruptedContentError.longDesc "<p>La página que estás tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Ponete en contacto con los propietarios del sitio para informarles acerca de este problema.</li></ul>">
