@@ -74,7 +74,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Prenašanje posodobitev —">
+<!ENTITY update.downloading.start   "Prenašanje posodobitev — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Nameščanje posodobitev …">

@@ -4,7 +4,7 @@
 
 <!ENTITY itemGeneral.label       "Splošno">
 <!ENTITY itemDisplay.label       "Branje in prikaz">
-<!ENTITY itemUpdate.label        "Posodobi">
+<!ENTITY itemUpdate.label        "Posodobitev">
 <!ENTITY itemNetworking.label    "Omrežje in zasedenost diska">
 <!ENTITY itemCertificates.label  "Potrdila">
 <!-- General Settings -->

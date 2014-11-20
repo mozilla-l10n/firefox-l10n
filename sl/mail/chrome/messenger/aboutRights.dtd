@@ -32,14 +32,14 @@
 <!ENTITY rights.intro-point3-unbranded "Vse ustrezne politike zasebnosti za ta izdelek morajo biti navedene tukaj.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer skrb za posodobitev razširitev; ni pa mogoče zagotoviti, da so 100&#037; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve deaktivirate, lahko najdete v ">
+<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer storitev za posodobitev razširitev; ni pa mogoče zagotoviti, da so 100&#037; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve onemogočite, lahko najdete v ">
 <!ENTITY rights.intro-point4b "pogojih storitve">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded " Če ta izdelek vključuje spletne storitve, morajo pogoji za te storitve vsebovati povezavo na poglavje ">
+<!ENTITY rights.intro-point4a-unbranded "Če ta izdelek vključuje spletne storitve, morajo pogoji storitev vsebovati povezavo na odsek ">
 <!ENTITY rights.intro-point4b-unbranded "Spletne storitve">
-<!ENTITY rights.intro-point4c-unbranded " .">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "Spletne storitve programa &brandFullName;">
 <!-- Note that this paragraph references a couple of entities from
