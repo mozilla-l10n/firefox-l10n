@@ -22,7 +22,7 @@
 <!ENTITY  locbar.pre.label              "عند استخدام شريط العناوين، اقترح:">
 <!ENTITY  locbar.pre.accessKey          "ح">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "التأريخ والعلامات">
+<!ENTITY  locbar.both.label             "التأريخ و العلامات">
 <!ENTITY  locbar.history.label          "التأريخ">
 <!ENTITY  locbar.bookmarks.label        "العلامات">
 <!ENTITY  locbar.nothing.label          "لا شيء">
