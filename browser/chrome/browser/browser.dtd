@@ -153,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.label "Deze afbeelding delen">
 <!ENTITY shareImage.accesskey "z">
 <!ENTITY shareSelect.label "Selectie delen">
-<!ENTITY shareSelect.accesskey "z">
+<!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "Deze video delen">
 <!ENTITY shareVideo.accesskey "z">
 <!ENTITY feedsMenu.label "Abonneren">
@@ -483,7 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label          "Afbeelding e-mailen…">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Video e-mailen…">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.accesskey      "l">
 <!ENTITY castVideoCmd.label           "Video naar apparaat verzenden">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Audio e-mailen…">
@@ -523,12 +523,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Dempen uitschakelen">
 <!ENTITY mediaUnmute.accesskey       "D">
 <!ENTITY mediaPlaybackRate.label     "Afspeelsnelheid">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow motion (0.5×)">
+<!ENTITY mediaPlaybackRate.accesskey "s">
+<!ENTITY mediaPlaybackRate050x.label "Slow motion (0,5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "Normale snelheid">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Hoge snelheid (1.5×)">
+<!ENTITY mediaPlaybackRate150x.label "Hoge snelheid (1,5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "H">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -651,7 +651,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "welke wordt beheerd door">
+<!ENTITY identity.runBy "Deze website wordt beheerd door">
 
 <!ENTITY identity.moreInfoLinkText "Meer informatie…">
 
