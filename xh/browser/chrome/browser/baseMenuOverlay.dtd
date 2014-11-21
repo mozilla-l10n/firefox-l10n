@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Uncedo"> 
 <!ENTITY helpMenuWin.accesskey    "U">
-<!ENTITY aboutProduct.label       "Malunga ne-&brandShortName;">
+<!ENTITY aboutProduct.label       "Malunga &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "M">
 <!ENTITY productHelp.label        "&brandShortName; uncedo">
 <!ENTITY productHelp.accesskey    "u">
