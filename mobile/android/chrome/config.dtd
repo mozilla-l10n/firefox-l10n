@@ -8,10 +8,10 @@
 <!ENTITY newPref.namePlaceholder       "Назва">
 
 <!ENTITY newPref.valueBoolean          "Булеве">
-<!ENTITY newPref.valueString           "Строка">
+<!ENTITY newPref.valueString           "Рядок">
 <!ENTITY newPref.valueInteger          "Ціле">
 
-<!ENTITY newPref.stringPlaceholder     "Введіть строку">
+<!ENTITY newPref.stringPlaceholder     "Введіть рядок">
 <!ENTITY newPref.numberPlaceholder     "Введіть число">
 
 <!ENTITY newPref.toggleButton          "Перемкнути">
