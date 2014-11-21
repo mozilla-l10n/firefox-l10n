@@ -7,11 +7,12 @@
 <!ENTITY index.device2 "อุปกรณ์">
 <!ENTITY index.help "วิธีใช้">
 
+<!ENTITY device.debugMainProcess "ดีบักโปรเซสหลัก">
 <!ENTITY device.debugMainProcessTooltip "เปิดแถบเครื่องมือนักพัฒนาที่เชื่อมต่อกับแอปนี้บนอุปกรณ์">
-
-
-
-
+<!ENTITY device.screenshot "จับภาพหน้าจอ">
+<!ENTITY device.screenshotTooltip "เปิดภาพหน้าจอปัจจุบันของอุปกรณ์ในแท็บใหม่">
+<!ENTITY device.title "ศูนย์ควบคุมอุปกรณ์">
+<!ENTITY device.notConnected "ไม่มีการเชื่อมต่อ กรุณาเชื่อมต่ออุปกรณ์">
 <!ENTITY device.startApp "เริ่ม">
 <!ENTITY device.startAppTooltip "เริ่มการทำงานของแอปนี้บนอุปกรณ์">
 <!ENTITY device.stopApp "หยุด">
