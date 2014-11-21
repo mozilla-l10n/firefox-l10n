@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Pengaya">
 <!ENTITY aboutAddons.header2                    "Pengaya Anda">
 <!ENTITY aboutAddons.options                    "Opsi">
-<!ENTITY aboutAddons.browseAll                  "Jelajahi berbagai Pengaya Firefox">
 
 <!ENTITY addonAction.enable                     "Aktifkan">
 <!ENTITY addonAction.disable                    "Nonaktifkan">

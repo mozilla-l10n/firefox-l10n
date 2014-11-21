@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Anda juga dapat mengunjungi ">
-<!ENTITY support.link              "Layanan Dukungan &brandShortName;">
-<!ENTITY support.post2             " untuk mendapatkan informasi lebih lanjut.">
+<!ENTITY support.pre3              "Kunjungi ">
+<!ENTITY support.link2             "Layanan Dukungan">
+<!ENTITY support.post3             " kami untuk mendapatkan jawaban atas masalah yang umum terjadi.">
 
 <!ENTITY happy.header              "Kami gembira sekali mendengarnya!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Nanti saja">
 <!ENTITY happy.noThanks            "Tidak, trims.">
 
+<!ENTITY sad.header                "Waduh!">
 <!ENTITY sad.message               "Kami mohon maaf jika Anda menemukan masalah tentang &brandShortName;. Mohon beri tahu kami apa yang terjadi agar kami dapat memperbaikinya.">
 <!ENTITY sad.placeholder           "Masukkan saran Anda di sini">
-<!ENTITY sad.lastSite              "Situs terakhir yang dikunjungi (opsional)">
+<!ENTITY sad.lastSite2             "Sertakan situs terakhir yang dikunjungi">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Terima kasih telah memberi tahu.">
+<!ENTITY sad.thanksHeader2         "Terima kasih.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "Untuk privasi Anda, jangan sertakan informasi yang dapat mengidentifikasi orang pada saran Anda.">
+<!ENTITY feedback.privacy2         "Untuk privasi Anda, jangan sertakan informasi yang dapat mengidentifikasi orang pada saran Anda.">
 <!ENTITY feedback.send             "Kirim Saran">
