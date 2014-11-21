@@ -717,12 +717,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Fy Thema">
 <!ENTITY customizeMode.lwthemes.recommended "Cymeradwy">
 <!ENTITY customizeMode.lwthemes.menuManage "Rheoli">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
 <!ENTITY customizeMode.deveditionTheme.label "Defnyddio Thema &brandShortName;">
 
-<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.commandkey "C">
 <!ENTITY social.chatBar.label "Canolbwynt sgyrsiau">
 <!ENTITY social.chatBar.accesskey "a">
 
