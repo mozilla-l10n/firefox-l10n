@@ -745,18 +745,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "ตัวเลือก">
 <!ENTITY mixedContentBlocked2.unblock.label "ปิดการปกป้องสำหรับตอนนี้">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "ป">
-
-
+<!ENTITY mixedContentBlocked2.block.label "เปิดการปกป้อง">
+<!ENTITY mixedContentBlocked2.block.accesskey "เ">
 <!ENTITY mixedContentBlocked2.disabled.message "การป้องกันถูกปิดใช้งาน">
 
 <!ENTITY trackingContentBlocked.message "การติดตาม">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่ม">
 <!ENTITY trackingContentBlocked.options "ตัวเลือก">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "ปิดการปกป้องสำหรับไซต์นี้">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ป">
+<!ENTITY trackingContentBlocked.block.label "เปิดการปกป้อง">
+<!ENTITY trackingContentBlocked.block.accesskey "เ">
 <!ENTITY trackingContentBlocked.disabled.message "การป้องกันการติดตามถูกปิดใช้งาน">
 
 <!ENTITY pointerLock.notification.message "กด ESC ได้ตลอดเวลาเพื่อแสดงอีกครั้ง">
