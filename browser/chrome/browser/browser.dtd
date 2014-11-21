@@ -148,13 +148,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "s">
 <!ENTITY sharePageCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Compartilhar este link">
+<!ENTITY shareLink.accesskey "h">
 
 
-
-
-
-
-
+<!ENTITY shareSelect.label "Compartilhar seleção">
+<!ENTITY shareSelect.accesskey "h">
+<!ENTITY shareVideo.label "Compartilhar este vídeo">
+<!ENTITY shareVideo.accesskey "h">
 <!ENTITY feedsMenu.label "Inscrever">
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
