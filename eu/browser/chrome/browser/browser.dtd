@@ -715,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.titlebar "Titulu-barra">
 <!ENTITY customizeMode.lwthemes "Gaiak">
 <!ENTITY customizeMode.lwthemes.myThemes "Nire gaiak">
-<!ENTITY customizeMode.lwthemes.recommended "Gomendatua">
+<!ENTITY customizeMode.lwthemes.recommended "Gomendatuak">
 <!ENTITY customizeMode.lwthemes.menuManage "Kudeatu">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu gai gehiago">
