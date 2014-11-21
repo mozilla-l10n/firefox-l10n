@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Виберіть файл">
 
-<!ENTITY url_bar_default_text2 "Пошук або введіть адресу">
+<!ENTITY url_bar_default_text2 "Введіть запит чи адресу">
 
 <!ENTITY bookmark "Закласти">
 <!ENTITY bookmark_added "Закладку додано">
