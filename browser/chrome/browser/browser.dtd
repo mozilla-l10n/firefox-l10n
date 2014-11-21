@@ -701,7 +701,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
 <!ENTITY social.directory.label "Diretório de ativações">
-
+<!ENTITY social.directory.text "Você pode ativar serviços de compartilhamento a partir do diretório.">
 <!ENTITY social.directory.button "Leve-me lá!">
 <!ENTITY social.directory.introText "Clique em um serviço para adicioná-lo ao &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Exibir mais">
@@ -720,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Adicionar temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "A">
-
+<!ENTITY customizeMode.deveditionTheme.label "Use o tema &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "C">
 <!ENTITY social.chatBar.label "Focar bate-papos">
