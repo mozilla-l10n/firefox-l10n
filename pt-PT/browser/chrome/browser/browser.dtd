@@ -140,17 +140,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Procurar mais serviços de partilha…">
 <!ENTITY sharePageCmd.label "Partilhar esta página">
 <!ENTITY sharePageCmd.commandkey "s">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Partilhar esta ligação">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Partilhar esta imagem">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Partilhar seleção">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Partilhar este vídeo">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Partilhar esta ligação">
+<!ENTITY shareLink.accesskey "s">
+<!ENTITY shareImage.label "Partilhar esta imagem">
+<!ENTITY shareImage.accesskey "s">
+<!ENTITY shareSelect.label "Partilhar seleção">
+<!ENTITY shareSelect.accesskey "s">
+<!ENTITY shareVideo.label "Partilhar este vídeo">
+<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "Subscrever">
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
@@ -262,6 +267,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label			"Caixa de ferramentas do navegador">
 <!ENTITY browserToolboxMenu.accesskey		"e">
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 
 <!ENTITY devToolbarCloseButton.tooltiptext	"Fechar barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.label 				"Barra de ferramentas do programador">
@@ -479,6 +489,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey 		"n">
 <!ENTITY emailVideoCmd.label 			"Enviar vídeo...">
 <!ENTITY emailVideoCmd.accesskey 		"a">
+<!ENTITY castVideoCmd.label           "Enviar vídeo para o dispositivo">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label 			"Enviar áudio...">
 <!ENTITY emailAudioCmd.accesskey 		"a">
 <!ENTITY playPluginCmd.label 			"Ativar este plugin">
@@ -692,7 +704,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
-
+<!ENTITY social.directory.label "Pasta de ativações">
+<!ENTITY social.directory.text "Pode ativar serviços de partilha a partir da pasta.">
+<!ENTITY social.directory.button "Levem-me lá!">
+<!ENTITY social.directory.introText "Clique no serviço para o adicionar ao &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
@@ -708,6 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar edição do tema do desenvolvedor">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">
@@ -799,5 +816,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
-
 
