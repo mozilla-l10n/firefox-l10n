@@ -32,14 +32,15 @@
 <!ENTITY alwaysAsk.accesskey "ن">
 
 <!ENTITY alwaysCheckDefault.label         "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
-
-
+<!ENTITY alwaysCheckDefault2.label        "تحقق دائمًا من كون &brandShortName; متصفّحك المبدئي">
+<!ENTITY alwaysCheckDefault2.accesskey    "د">
 <!ENTITY setAsMyDefaultBrowser.label      "اجعل &brandShortName; متصفّحي المبدئي">
 <!ENTITY setAsMyDefaultBrowser.accesskey  "ص">
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "اجعله المبدئي">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "م">
 <!ENTITY isDefault.label                  "‏&brandShortName; هو المتصفح المبدئي حاليا">
 <!ENTITY isNotDefault.label               "‏&brandShortName; ليس المتصفح المبدئي حاليا">
 
-
-
+<!ENTITY separateProfileMode.label        "اسمح بتشغيل &brandShortName; و فَيَرفُكس في نفس الوقت">
+<!ENTITY useFirefoxSync.label             "فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم «تزامن» لمشاركة البيانات بينهما.">
+<!ENTITY getStarted.label                 "ابدأ استخدام «تزامن»…">
