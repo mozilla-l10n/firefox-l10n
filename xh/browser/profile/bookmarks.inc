@@ -37,7 +37,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading I-Mozilla Firefox
+#define firefox_heading Mozilla Firefox
 
 
 # LOCALIZATION NOTE (firefox_help):

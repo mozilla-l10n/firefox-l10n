@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Uhlaziyo lwesoftwe">
 
 <!ENTITY  checking.title                  "Ikhangela izihlaziyi">
-<!ENTITY  updateCheck.label               "Ikhangela iinguqulelo ezintshana ze-&brandShortName;…">
+<!ENTITY  updateCheck.label               "Ikhangela iinguqulelo ezintshana &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Izifumene iZihlaziyi zeesoftwe ezincedisayo">
 <!ENTITY  pluginupdatesfound.label        "Iinguqulelo ezintshana zenye nangaphezulu zeesoftwe ezincedisayo zakho zifunyenwe.">

@@ -16,10 +16,10 @@
      deliberate for formatting around the embedded links. -->
 
 <!ENTITY rights.intro-point1a "&brandShortName; yenziwe yafumaneka kuwe phantsi kwemiqathango ">
-<!ENTITY rights.intro-point1b "I-Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Oku kuthetha ukuba ungayisebenzisa, ungayikhuphela kwaye ungayinikezela &brandShortName; kwabanye.  Unakho nokuyilungisa ikhowudi yoxwebhu &brandShortName; njengoko ufuna ukuhlangabezana neemfuno zakho. I-Mozilla Public License ikwakunika ilungelo lokunikezela ngeenguqulelo zakho ezilungisiweyo.">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Oku kuthetha ukuba ungayisebenzisa, ungayikhuphela kwaye ungayinikezela &brandShortName; kwabanye.  Unakho nokuyilungisa ikhowudi yoxwebhu &brandShortName; njengoko ufuna ukuhlangabezana neemfuno zakho. Mozilla Public License ikwakunika ilungelo lokunikezela ngeenguqulelo zakho ezilungisiweyo.">
 
-<!ENTITY rights.intro-point2-a "Akunikwanga nawaphi na amalungelo ophawu lorhwebo okanye amaphepha-mvume eempawu zorhwebo ze-Mozilla Foundation okanye ezalo naliphi na iqela kuqukwa, ngokungenamida, igama lakwa-Firefox okanye imbasa yabo. Inkcazelo engaphezulu ngeempawu zorhwebo ingafumaneka ">
+<!ENTITY rights.intro-point2-a "Akunikwanga nawaphi na amalungelo ophawu lorhwebo okanye amaphepha-mvume eempawu zorhwebo Mozilla Foundation okanye ezalo naliphi na iqela kuqukwa, ngokungenamida, igama lakwa-Firefox okanye imbasa yabo. Inkcazelo engaphezulu ngeempawu zorhwebo ingafumaneka ">
 <!ENTITY rights.intro-point2-b "apha">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
@@ -27,7 +27,7 @@
 <!ENTITY rights.intro-point2.5 "Ezinye iimpawu &brandShortName;, ezinjenge-Crash Reporter zikunika enye indlela yokunika ingxelo &vendorShortName;. Ngokukhetha ukuthumela ingxelo, unika &vendorShortName; imvume yokusebenzisa ingxelo ukuze iphucule imveliso yayo, yokupapasha ingxelo kwiiwebhusayithi zayo nokunikezela ngengxelo.">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights2.intro-point3a "Indlela esisebenzisa ngayo iinkcukacha zakho kwanengxelo ethunyelweyo kwi- &vendorShortName; nge-&brandShortName; ichazwe ">
+<!ENTITY rights2.intro-point3a "Indlela esisebenzisa ngayo iinkcukacha zakho kwanengxelo ethunyelweyo &vendorShortName; &brandShortName; ichazwe ">
 <!ENTITY rights2.intro-point3b "&brandShortName; Umgaqo-nkqubo wangasese">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Nayiphi na imigaqo-nkqubo yangasese esebenzayo yale mveliso imele idweliswe apha.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Ezinye iimpawu ze-&brandShortName; zisebenzisa iinkonzo zenkcukacha esekeke kwiwebhu, nangona kunjalo, asinakuziqinisekisa ukuba zichaneke ngo-100&#037; okanye azinazimposiso. Iinkcukacha ezingaphezulu kuqukwa nenkcazelo yokuqhwalelisa iimpawu ezisebenzisa ezi nkonzo, zingafumaneka ">
+<!ENTITY rights2.intro-point4a "Ezinye iimpawu &brandShortName; zisebenzisa iinkonzo zenkcukacha esekeke kwiwebhu, nangona kunjalo, asinakuziqinisekisa ukuba zichaneke ngo-100&#037; okanye azinazimposiso. Iinkcukacha ezingaphezulu kuqukwa nenkcazelo yokuqhwalelisa iimpawu ezisebenzisa ezi nkonzo, zingafumaneka ">
 <!ENTITY rights.intro-point4b "kwimiqathango yenkonzo">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
