@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>تحقق من عدم وجود أي أخطاء في العنوان مثل 
-<strong>ww</strong>.example.com بدلًا من 
-<strong>www</strong>.example.com</li> 
-<li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة البيانات أو الشبكة اللاسلكية.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>تُكتب عناوين الوب عادة على الشكل التالي 
-<strong>http://www.example.com/</strong></li> 
-<li>تأكد أنك تستخدم الشرطة المائلة إلى اليمين (أي 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "قوطع الاتصال">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "انتهت صلاحية المستند">
 <!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على 'حاول مجددًا' لإعادة طلب المستند من الموقع.</li></ul>">
 
 <!ENTITY netOffline.title "نمط اللا اتصال">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>جرّب مجددًا. سيحاول &brandShortName; فتح اتصال ومعاودة تحميل الصفحة.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "صُفّر الاتصال">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +73,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>تحقق من أن إعدادات الوسيط صحيحة.</li> 
-<li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "الصفحة لا تعيد التوجيه بشكل صحيح">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -113,11 +102,8 @@
 <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي، 
  قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> 
 </ul>">
-
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> 
-<li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspFrameAncestorBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">

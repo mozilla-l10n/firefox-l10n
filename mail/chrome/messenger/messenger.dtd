@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "الخصائص">
 <!ENTITY folderPropsFolderCmd2.label "خصائص المجلد">
 <!ENTITY folderPropsNewsgroupCmd2.label "خصائص مجموعة البريد">
-
+<!ENTITY folderPropsCmd.accesskey "م">
 <!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
 <!ENTITY undoMoveMsgCmd.label "ألغِ نقل الرسالة">
@@ -160,8 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "م">
 <!ENTITY recentFolders.label "حديث">
 <!ENTITY recentFolders.accesskey "ح">
-
-
+<!ENTITY compactVersion.label "منظور متضام">
+<!ENTITY compactVersion.accesskey "م">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "رتّب حسب">
@@ -484,6 +484,7 @@
 <!ENTITY accountManagerCmd2.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix2.accesskey "ح">
 <!ENTITY allowRemoteDebugging.label "اسمح بالتنقيح عن بعد">
 <!ENTITY allowRemoteDebugging.accesskey "ق">
 <!-- Mail Toolbar -->
@@ -564,10 +565,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "أظهر المحتوى البعيد في هذه الرسالة">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "ظ">
-
-
-
-
+<!ENTITY editRemoteContentSettings.label "حرر خيارات المحتوى البعيد…">
+<!ENTITY editRemoteContentSettings.accesskey "ح">
+<!ENTITY editRemoteContentSettingsUnix.label "حرر تفضيلات المحتوى البعيد…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "ح">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "تجاهل التحذير لهذه الرسالة">

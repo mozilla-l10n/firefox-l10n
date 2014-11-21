@@ -13,6 +13,6 @@
 <!ENTITY paneComposition.title    "التحرير">
 <!ENTITY paneChat.title           "الدردشة">
 <!ENTITY paneAttachments.title    "المرفقات">
-
+<!ENTITY panePrivacy.title        "الخصوصية">
 <!ENTITY paneSecurity.title       "الأمان">
 <!ENTITY paneAdvanced.title       "متقدم">

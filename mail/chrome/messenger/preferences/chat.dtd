@@ -23,6 +23,10 @@ sentence. -->
 <!ENTITY  sendTyping.label              "أرسل تنويهات الكتابة في المحادثات">
 <!ENTITY  sendTyping.accesskey          "ك">
 
+<!ENTITY  chatNotifications.label             "عندما تصل الرسائل الموجهة إليك:">
+
+
+
 
 
 <!ENTITY  chatSound.accesskey                 "ع">

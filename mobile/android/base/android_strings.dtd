@@ -5,6 +5,10 @@
 
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -34,9 +38,7 @@
 
 <!ENTITY choose_file "اختر ملفًا">
 
-<!ENTITY url_bar_default_text "أدخِل بحثًا أو عنوانًا">
 
-<!ENTITY bookmark "علامة">
 <!ENTITY bookmark_added "أُضيفت العلامة">
 <!ENTITY bookmark_removed "أُزيلت العلامة">
 <!ENTITY bookmark_updated "حُدّثت العلامة">
@@ -73,23 +75,45 @@
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "اللغة">
+
 <!ENTITY pref_browser_locale "لغة المتصفّح">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "مبدئي النظام">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "أضِف إلى قائمة القراءة">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+
+
 
 <!ENTITY pref_category_search3 "ابحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
 <!ENTITY pref_category_display "العرض">
+
 <!ENTITY pref_category_privacy_short "الخصوصية">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
@@ -104,6 +128,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
 <!ENTITY pref_category_devtools "أدوات المطورين">
+
 
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
@@ -148,8 +173,8 @@
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
 <!ENTITY pref_clear_private_data2 "امسح الان">
 <!ENTITY pref_clear_private_data_category "امسح البيانات الخاصة">
-<!ENTITY pref_clear_on_exit_title "امسح دائمًا عند الخروج">
-<!ENTITY pref_clear_on_exit_summary "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك \&quot;أغلق\&quot; من القائمة الرئيسية">
+
+
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
@@ -178,10 +203,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
-<!ENTITY pref_show_product_announcements "اعرض أخبار المنتجات">
 <!ENTITY pref_sync "تزامُن">
+
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
+
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_formdata "تأريخ البحث و النماذج">
 <!ENTITY pref_private_data_cookies2 "الكعكات و الولوجات النشطة">
@@ -231,11 +257,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "مُبلّغ الانهيار">
 <!ENTITY datareporting_wifi_title2 "خدمات التموضع من &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "يتلقى بينات التموضع من واي فاي و الاتصال الهاتفي أثناء العمل في الخلفية و يشاركها مع &vendorShortName; لتحسين خدماتنا للتموضع الجغرافي">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "نزّل التحديثات تلقائيًا">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
@@ -267,6 +292,7 @@ size. -->
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
+
 <!ENTITY set_image_chooser_title "استخدم الصورة ك‍">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -275,10 +301,8 @@ size. -->
 <!ENTITY find_prev "السابق">
 <!ENTITY find_next "التالي">
 <!ENTITY find_close "أغلق">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "يُسجل إلى جهاز">
 <!ENTITY media_play "شغّل">
 <!ENTITY media_pause "ألبِث">
 <!ENTITY media_stop "أوقف">
@@ -302,10 +326,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
 <!ENTITY pref_titlebar_mode_url "أظهر مسار الصفحة">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar "لف شريط العنوان">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -377,9 +400,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "انتقل أعلى إلى &formatS;">
 
+<!ENTITY home_remote_tabs_title "الألسنة المُزامنة">
+
+<!ENTITY home_remote_tabs_unable_to_connect "تعذر الاتصال">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "التصفح الخاص">
 <!ENTITY private_tabs_panel_empty_desc "ألسنتك الخاصة ستظهر هنا. بينما لا نحفظ تاريخ تصفحك أو الكعكات، إلا أن العلامات و الملفات التي تحمّّلها ستبقى محفوظة على جهازك.">
 <!ENTITY private_tabs_panel_learn_more "هل تريد معرفة المزيد؟">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">
 
@@ -448,6 +490,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_apply_select2 "المس للتحديث">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "جلسة ضيف جديدة">
@@ -457,6 +502,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 <!ENTITY new_guest_session_text "لن يستطيع الشخص الذي يستخدمه الاطلاع على أي من بيانات تصفحك (مثل كلمات السر المحفوظة، و التأريخ، و العلامات).\n\nعند انتهاء الضيف، كل بيانات تصفحه ستُحذف و ستُستعاد جلستك.">
 
+
+
 <!ENTITY exit_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 <!ENTITY exit_guest_session_text "ستُحذف بيانات تصفح هذه الجلسة.">
 <!-- Miscellaneous -->
@@ -465,6 +512,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 
 <!ENTITY ellipsis "…">
+
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

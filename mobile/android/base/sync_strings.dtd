@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "استخدم خادومًا مخصصًا">
 <!ENTITY sync.input.server.label "عنوان الخادوم">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "تعذّر إعداد &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "تعذّر على &syncBrand.fullName.label; الاتصال بالخادوم. أتريد إعادة المحاولة؟">
 <!ENTITY sync.button.tryagain.label "أعِد المحاولة">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "فشل إنشاء الحساب على جهازك.">
 <!ENTITY sync.subtitle.failmultiple.label "ألديك أكثر من نسخة فيَرفُكس مثبّتة؟ حاليا لا يدعم &syncBrand.fullName.label; أكثر من تثبيت لفيَرفُكس في المرة. من فضلك أزل التثبيتات الأخرى لتستطيع استخدام &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "اكتمل الإعداد">
 <!ENTITY sync.subtitle.success.label1 "بياناتك تُنزّل الآن في الخلفية. يمكنك الذهاب إلى الإعدادات لإدارة حسابك، أو البدء في التصفح باستخدام &brandShortName;.">
 <!ENTITY sync.settings.label "الإعدادات">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (لاغٍ)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "قائمة العلامات">
@@ -199,13 +204,19 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "بنود الخدمة">
 <!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "فَيَرفُكس">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -228,6 +239,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "تعذّر الاتصال بالشبكة">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر لتسجيل الدخول باسم &formatS;">
