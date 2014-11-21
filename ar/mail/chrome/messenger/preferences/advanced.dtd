@@ -108,13 +108,13 @@
 
 <!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصية:">
 <!ENTITY certs.auto                      "اختر واحدة تلقائيًا">
-<!ENTITY certs.auto.accesskey            "و">
+
 <!ENTITY certs.ask                       "اسألني كل مرة">
 <!ENTITY certs.ask.accesskey             "ك">
 
+
+
 <!ENTITY viewCertificates.label         "اعرض الشهادات">
 <!ENTITY viewCertificates.accesskey     "ش">
-<!ENTITY validation.label               "الصلاحية">
-<!ENTITY validation.accesskey           "ص">
-<!ENTITY viewSecurityDevices.label      "أجهزة الأمن">
-<!ENTITY viewSecurityDevices.accesskey  "م">
+
+

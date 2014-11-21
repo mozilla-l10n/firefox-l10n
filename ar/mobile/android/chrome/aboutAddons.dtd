@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "الإضافات">
 <!ENTITY aboutAddons.header2                    "إضافاتك">
 <!ENTITY aboutAddons.options                    "الخيارات">
-<!ENTITY aboutAddons.browseAll                  "تصفح كل إضافات فَيرفُكس">
 
 <!ENTITY addonAction.enable                     "فعّل">
 <!ENTITY addonAction.disable                    "عطّل">

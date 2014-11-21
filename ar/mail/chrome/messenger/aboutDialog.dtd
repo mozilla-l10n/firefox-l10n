@@ -8,8 +8,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "التمس التحديثات">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ت">
-<!ENTITY update.updateButton.label                "أعد التشغيل للتحديث">
-<!ENTITY update.updateButton.accesskey            "ش">
+
+
 <!ENTITY update.applyButtonBillboard.label        "طبّق التحديث…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ط">
 

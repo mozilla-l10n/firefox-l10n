@@ -19,10 +19,11 @@
 <!ENTITY quickMode.label             "اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
 <!ENTITY quickMode.accesskey         "ص">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "أنشئ وسومًا تلقائيًا من أسماء فئات التلقيمات">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "ضع قبل أسماء الوسوم:">
+<!ENTITY autotagUsePrefix.accesskey  "س">
+<!ENTITY autoTagPrefix.placeholder   "أدخل سابقة الوسوم">
 
 <!ENTITY locationValidate.label      "الصلاحية">
 <!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">

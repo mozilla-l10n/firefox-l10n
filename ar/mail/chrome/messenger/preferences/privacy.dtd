@@ -3,22 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
-<!ENTITY acceptRemoteContent.label "أظهر المحتوى البعيد في الرسائل">
-<!ENTITY acceptRemoteContent.accesskey "ظ">
+<!ENTITY captionMailContent.label "محتوى البريد">
+
+
 <!ENTITY remoteContentExceptions.label "الاستثناءات…">
 <!ENTITY remoteContentExceptions.accesskey "ث">
-
+<!ENTITY acceptRemoteContentInfo.label "اطلع على المزيد حول مسائل الخصوصية مع المحتوى البعيد">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "محتوى الوب">
 
+
 <!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
 <!ENTITY acceptCookies.accesskey "ك">
-
-
-
-
-
+<!ENTITY acceptThirdParty.pre.label "اقبل الكعكات من أطراف أخرى:">
+<!ENTITY acceptThirdParty.pre.accesskey "ب">
+<!ENTITY acceptThirdParty.always.label "دائمًا">
+<!ENTITY acceptThirdParty.never.label "أبدًا">
+<!ENTITY acceptThirdParty.visited.label "من المواقع المُزارة">
 <!ENTITY keepUntil.label "احتفظ بها حتى:">
 <!ENTITY keepUntil.accesskey "ف">
 <!ENTITY expire.label "تنتهي صلاحيتها">
@@ -29,10 +31,11 @@
 <!ENTITY showCookies.label "أظهِر الكعكات…">
 <!ENTITY showCookies.accesskey "ظ">
 
-
+<!ENTITY dntTrackingNopref.label2 "لا تخبر المواقع بأي شيء عن تفضيلاتي للتعقب">
+<!ENTITY dntTrackingNopref.accesskey "ت">
 <!ENTITY dntTrackingNotOkay.label2 "أخبر المواقع أنني لا أريدها أن تتعقبني">
-
+<!ENTITY dntTrackingNotOkay.accesskey "خ">
 <!ENTITY dntTrackingOkay.label2 "أخبر المواقع أنني أريدها أن تتعقبني">
-
-
+<!ENTITY dntTrackingOkay.accesskey "ق">
+<!ENTITY doNotTrackInfo.label "اطلع على المزيد حول ”لا تتعقبني“">
 
