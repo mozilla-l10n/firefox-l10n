@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Setelan">
 <!ENTITY pref_category_advanced "Canggih">
 <!ENTITY pref_category_customize "Ubahsuai">
+<!ENTITY pref_category_customize_summary "Beranda, pencarian, tab, impor">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Bahasa">
+<!ENTITY pref_category_language_summary "Ubah bahasa peramban Anda">
 <!ENTITY pref_browser_locale "Bahasa peramban">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Markah">
 <!ENTITY overlay_share_reading_list_btn_label "Tambahkan ke Daftar Bacaan">
+<!ENTITY overlay_share_bookmark_btn_label_already "Sudah dimarkahi">
+<!ENTITY overlay_share_reading_list_btn_label_already "Sudah dalam Daftar Bacaan">
 <!ENTITY overlay_share_send_other "Kirim ke perangkat lainnya">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -115,8 +119,11 @@
 <!ENTITY pref_category_search3 "Pencarian">
 <!ENTITY pref_category_search_summary "Ubahsuai layanan pencari Anda">
 <!ENTITY pref_category_display "Tampilan">
+<!ENTITY pref_category_display_summary "Teks, bilah judul, layar penuh">
 <!ENTITY pref_category_privacy_short "Privasi">
+<!ENTITY pref_category_privacy_summary "Kelola sandi, kuki, pelacakan, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Tentang &brandShortName;, PAD, pilihan data">
 <!ENTITY pref_category_datareporting "Pilihan data">
 <!ENTITY pref_learn_more "Pelajari selengkapnya">
 <!ENTITY pref_category_installed_search_engines "Mesin pencari yang diinstal">
@@ -131,6 +138,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs web apa saja ke daftar mesin pencari dengan menekan agak lama pada bidang pencariannya lalu mengetuk ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alat pengembang">
+<!ENTITY pref_category_devtools_summary "Pendebugan daring, paint flash">
 <!ENTITY pref_developer_paint_flashing "Gambar proses penggambaran">
 <!ENTITY pref_developer_remotedebugging "Debug daring">
 <!ENTITY pref_remember_signons "Ingat sandi">
@@ -175,7 +183,7 @@
 <!ENTITY pref_char_encoding_off "Jangan tampilkan menu">
 <!ENTITY pref_clear_private_data2 "Bersihkan sekarang">
 <!ENTITY pref_clear_private_data_category "Bersihkan data pribadi">
-<!ENTITY pref_clear_on_exit_title "Selalu bersihkan saat keluar">
+<!ENTITY pref_clear_on_exit_title2 "Bersihkan saat keluar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis saat Anda memilih \u0022Keluar\u0022 dari menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data untuk dibersihkan">
 <!ENTITY pref_plugins "Plugin">
@@ -206,8 +214,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
 <!ENTITY pref_sync "Sinkronkan">
+<!ENTITY pref_sync_summary "Sinkronkan tab, markah, sandi, dan riwayar Anda">
 <!ENTITY pref_search_suggestions "Tampilkan saran pencarian">
 <!ENTITY pref_import_android "Impor dari Android">
+<!ENTITY pref_import_android_summary "Impor markah dan riwayat dari peramban asli perangkat">
 <!ENTITY pref_private_data_history2 "Riwayat penjelajahan">
 <!ENTITY pref_private_data_formdata "Riwayat pencarian &amp; isian formulir">
 <!ENTITY pref_private_data_cookies2 "Info masuk aktif &amp; kuki">
@@ -256,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Pelapor Kerusakan">
 <!ENTITY datareporting_wifi_title2 "Layanan Lokasi &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Dapatkan data lokasi Wi-Fi dan seluler saat berjalan di latar belakang dan bagikan dengan &vendorShortName; untuk meningkatkan layanan geolokasi kami">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Bagikan perkiraan lokasi Wi-FI dan seluler perangkat Anda dengan &vendorShortName; untuk meningkatkan layanan geolokasi kami">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -292,6 +302,7 @@ size. -->
 <!ENTITY tabs_private "Pribadi">
 <!ENTITY tabs_synced "Disinkronkan">
 <!ENTITY set_image_fail "Gagal menyetel gambar">
+<!ENTITY set_image_path_fail "Gagal menyimpan gambar">
 <!ENTITY set_image_chooser_title "Setel Gambar Sebagai">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +414,32 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Hingga &formatS;">
 
+<!ENTITY home_remote_tabs_title "Tab yang Disinkronkan">
+<!ENTITY home_remote_tabs_empty "Tab dari perangkat lain akan muncul di sini.">
+<!ENTITY home_remote_tabs_unable_to_connect "Gagal tersambung">
+<!ENTITY home_remote_tabs_need_to_sign_in "Masuk untuk menyambungkan kembali Firefox Account dan melanjutkan sinkronisasi.">
+<!ENTITY home_remote_tabs_trouble_verifying "Bermasalah dengan akun Anda?">
+<!ENTITY home_remote_tabs_need_to_verify "Verifikasikan Firefox Account Anda untuk mulai menyinkronkan.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 perangkat tersembunyi">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; perangkat tersembunyi">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Perangkat tersembunyi">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Munculkan perangkat tersembunyi">
+
 <!ENTITY private_browsing_title "Penjelajahan Pribadi">
 <!ENTITY private_tabs_panel_empty_desc "Tab pribadi Anda akan tampil di sini. Walau kami tidak menyimpan riwayat penjelajahan atau kuki Anda, markah dan berkas yang diunduh masih akan disimpan pada perangkat Anda.">
 <!ENTITY private_tabs_panel_learn_more "Ingin tahu lebih lanjut?">
+<!ENTITY remote_tabs_panel_moved_title "Di mana tab saya berada?">
+<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab dari perangkat lainnya ke panel pada beranda Anda agar dapat diakses dengan mudah saat Anda membuka tab baru.">
+<!ENTITY remote_tabs_panel_moved_link "Buka panel baru saya.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci pencarian">
 
@@ -474,6 +508,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Versi baru tersedia untuk &brandShortName;">
 <!ENTITY updater_apply_select2 "Sentuh untuk mempebarui">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Mulai ulang peramban untuk menerapkan perubahan">
+<!ENTITY new_tablet_pref "Aktifkan antarmuka tablet yang baru">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesi Tamu Baru">
 <!ENTITY exit_guest_session "Keluar dari Sesi Tamu">
@@ -481,6 +521,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan dimulai ulang">
 <!ENTITY new_guest_session_text "Orang yang menggunakan tidak akan dapat melihat data penjelahan pribadi Anda (misalnya sandi tersimpan, riwayat, atau markah).\n\nSetelah tamu Anda selesai, data penjelajahan mereka akan dihapus dan sesi Anda akan dipulihkan.">
+<!ENTITY guest_browsing_notification_title "Penjelajahan tamu diaktifkan">
+<!ENTITY guest_browsing_notification_text "Ketuk untuk keluar">
 
 <!ENTITY exit_guest_session_title "&brandShortName; akan dimulai ulang">
 <!ENTITY exit_guest_session_text "Data penjelajahan pada sesi ini akan dihapus.">
