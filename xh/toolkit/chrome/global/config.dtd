@@ -44,5 +44,5 @@
 <!ENTITY string.accesskey "U">
 <!ENTITY integer.label "Inani elipheleleyo">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "I-Boolean">
+<!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">

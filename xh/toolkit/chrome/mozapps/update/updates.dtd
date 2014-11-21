@@ -11,7 +11,7 @@
 <!ENTITY  pluginupdateslink.label         "Bona ukuba zihlaziywa njani na iisoftwe ezincedisayo zakho.">
 
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
-<!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. I-&brandShortName; iya kukhangela 
+<!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. &brandShortName; iya kukhangela 
 izihlaziyi amaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
 &brandShortName; okuzenzekelayo.">
@@ -55,7 +55,7 @@ ngaphantsi uqhube nokufakela olu hlaziyo.">
 <!ENTITY  downloadPage.title              "Ikhuphela &brandShortName;">
 <!ENTITY  downloading.intro               "Ikhuphela uhlaziyo…">
 <!ENTITY  connecting.label                "Iyanxibelelana kwiseva yohlaziyo…">
-<!ENTITY  verificationFailedText.label    "I-&brandShortName; ayikwazanga ukuqinisekisa imfezeko yo
+<!ENTITY  verificationFailedText.label    "&brandShortName; ayikwazanga ukuqinisekisa imfezeko yo
 hlaziyo olwandayo elukhupheleyo, ngoko ke ngoku ikhuphela
 umqulu wohlaziyo epheleleyo.">
 
@@ -66,7 +66,7 @@ umqulu wohlaziyo epheleleyo.">
 <!ENTITY  error.title                     "Uhlaziyo aluPhumelelanga">
 
 <!ENTITY  error.label                     "Bekukho iingxaki ekukhangeleni, ukukhuphela, okanye ukufakela olu 
-hlaziyo. I-&brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
+hlaziyo. &brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
                                            
 <!ENTITY  errorManual.label               "Ungahlaziya &brandShortName; ngokwakho ngokuthi utyelele kweli khonkco 
 uze ukhuphelele uhlelo lwamvanje:">
