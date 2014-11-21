@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "I-&brandShortName; Hlaziya">
+<!ENTITY  updateWizard.title              "&brandShortName; Hlaziya">
 
 <!ENTITY  offline.title                   "&brandShortName; isebenza ngaphandle kweintanethi">
 <!ENTITY  offline.description             "&brandShortName; idinga ukuya kwi-intanethi ukuze ibone ukuba ingaba izihlaziyi 

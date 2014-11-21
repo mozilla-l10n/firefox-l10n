@@ -29,13 +29,13 @@
 <!ENTITY dataChoicesTab.label            "Okukhethwayo kwengcombolo">
 
 <!ENTITY healthReportSection.label       "&brandShortName; iNgxelo yeMpilo">
-<!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho nge-&vendorShortName; malungi nempilo yebhrawuza yakho">
+<!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho &vendorShortName; malungi nempilo yebhrawuza yakho">
 <!ENTITY enableHealthReport.label        "Yenza isebenze &brandShortName; iNgxelo yeMpilo">
 <!ENTITY enableHealthReport.accesskey    "y">
 <!ENTITY healthReportLearnMore.label     "Funda ngaphezulu">
 
 <!ENTITY telemetrySection.label          "Ithelemetri">
-<!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ene-&vendorShortName; ukusinceda ekwenzeni &brandShortName; ibe ngcono">
+<!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho &vendorShortName; ukusinceda ekwenzeni &brandShortName; ibe ngcono">
 <!ENTITY enableTelemetry.label           "Yenza isebenze iThelemetri">
 <!ENTITY enableTelemetry.accesskey       "i">
 <!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
