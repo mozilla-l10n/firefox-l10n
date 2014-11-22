@@ -309,6 +309,8 @@
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_run_by "que pertenece a">
+<!ENTITY identity_no_info "Este sitio web no proporciona información de identidad.">
+<!ENTITY identity_not_encrypted "La conexión a este sitio web no está cifrada.">
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
