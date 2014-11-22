@@ -29,15 +29,22 @@
 <!ENTITY welcomeback2.restoreButton  "Som-hi!">
 <!ENTITY welcomeback2.restoreButton.access "S">
 
+<!ENTITY welcomeback2.tabtitle      "Tot correcte">
 
+<!ENTITY welcomeback2.pageTitle     "Tot correcte">
+<!ENTITY welcomeback2.pageInfo1     "El &brandShortName; ja està llest.">
 
-
-
+<!ENTITY welcomeback2.label.restoreAll  "Restaura totes les finestres i pestanyes">
+<!ENTITY welcomeback2.label.restoreSome "Restaura només algunes pestanyes">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "S'han eliminat els vostres complements i personalitzacions i s'han restaurat els paràmetres del navegador per defecte. Si això no resol el problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "obteniu més informació sobre què podeu fer.">
