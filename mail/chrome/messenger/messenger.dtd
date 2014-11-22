@@ -1,3 +1,35 @@
+
+
+
+
+
+
+
+
+remoteContentMessage2.label
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -39,8 +71,6 @@
 <!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
-<!ENTITY openAttachmentCmd.label "Bashkëngjitje">
-<!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Ruaje Si">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Kartelë">
@@ -119,9 +149,6 @@
 <!ENTITY folderPropsFolderCmd2.label "Veti Dosjeje">
 <!ENTITY folderPropsNewsgroupCmd2.label "Veti Grupi Lajmesh">
 <!ENTITY folderPropsCmd.accesskey "v">
-<!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
-<!ENTITY accountManagerCmd.accesskey "u">
-<!ENTITY accountManagerCmdUnix.accesskey "L">
 <!ENTITY undoDeleteMsgCmd.label "Zhbëje Fshirjen e Mesazhit">
 <!ENTITY redoDeleteMsgCmd.label "Ribëje Fshirjen e Mesazhit">
 <!ENTITY undoMoveMsgCmd.label "Zhbëje Lëvizjen e Mesazhit">
@@ -324,8 +351,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Dosje">
 <!ENTITY folderMenu.accesskey "D">
-<!ENTITY thisFolder.label "Këtë Dosje">
-<!ENTITY thisFolder.accesskey "K">
 <!ENTITY goRecentlyClosedTabs.label "Skeda të Mbyllura Së Fundmi">
 <!ENTITY goRecentlyClosedTabs.accesskey "S">
 <!ENTITY startPageCmd.label "Faqe Fillimi Poste">
@@ -390,10 +415,6 @@
 <!ENTITY watchThreadMenu.label "Mbikëqyre Rrjedhën">
 <!ENTITY watchThreadMenu.accesskey "M">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Kartelën Këtu">
-<!ENTITY fileHereMenu.accesskey "K">
-<!ENTITY copyHereMenu.label "Kopjoje Këtu">
-<!ENTITY copyHereMenu.accesskey "O">
 <!ENTITY tagMenu.label "Etiketë">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
@@ -598,7 +619,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Mesazh i Ri">
 <!ENTITY appmenuNewContactCmd.label "Kontakt Nga Libër Adresash…">
 <!ENTITY appmenuEditMenu.label "Përpunoni">
-<!ENTITY appmenuQFBMenu.label "Shtyllë Filtrash të Shpejtë">
 <!ENTITY appmenuToolbarLayout.label "Skemë Paneli…">
 <!ENTITY appmenuSelectThread.label "Përzgjidhni Prurje">
 <!ENTITY appmenuSelectFlagged.label "Përzgjidhni Mesazhe Me Yll">
@@ -818,27 +838,6 @@
 <!ENTITY contextMute.accesskey "a">
 <!ENTITY contextUnmute.label "Me Zë">
 <!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName;-i mendon se ky mesazh është postë e pavlerë.">
-<!ENTITY junkBarButton1.label "Jo e Pavlerë">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Për të mbrojtur privatësinë tuaj, &brandShortName;-i bllokoi lëndë të largët në këtë mesazh.">
-<!ENTITY loadRemoteContentButton3.label "Shfaq Lëndë të Largët">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Ky mesazh mund të jetë mashtrim.">
-<!ENTITY removePhishingBarButton1.label "Shpërfille Sinjalizimin">
-<!ENTITY disablePhishingWarning1.label "Çaktivizoje zbulimin e mashtrimeve për krejt mesazhet">
-<!ENTITY reportPhishingError1.label "Ky mesazh nuk duket të jetë mashtrim.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Shpërfille">
-<!ENTITY mdnBarIgnoreButton2.accesskey "S">
-<!ENTITY mdnBarSendButton2.label "Dërgoji Faturë Kthimi">
-<!ENTITY mdnBarSendButton2.accesskey "D">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

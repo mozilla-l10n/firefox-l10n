@@ -44,9 +44,6 @@
 <!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
 <!ENTITY showTaskbarCmd.accesskey				"G"> 
 
-<!ENTITY proxy.label                                    "Formësim ndërmjetësi…">
-<!ENTITY proxy.accesskey                                "F">
-
 <!ENTITY closeCmd.label			"Mbylle">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"M">

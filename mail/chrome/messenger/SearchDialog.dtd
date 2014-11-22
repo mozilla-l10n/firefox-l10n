@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fromColumn.label "Nga">
-<!ENTITY fromColumn.tooltip "Klikoni për t&apos;i renditur sipas Nga">
 <!ENTITY receivedColumn.label "Marrë më">
-<!ENTITY receivedColumn.tooltip "Klikoni për t&apos;i renditur sipas Marrë më">
 
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Kërko për mesazhe në:">
@@ -24,10 +22,6 @@
 <!ENTITY results.label               "Përfundime">
 <!ENTITY moveButton.label            "Kaloje Te">
 <!ENTITY moveButton.accesskey        "T">
-<!ENTITY fileHereMenu.label          "Kartelë Këtu">
-<!ENTITY fileHereMenu.accesskey      "K">
-<!ENTITY fileButton.label            "Kartelë">
-<!ENTITY fileButton.accesskey        "K">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Hape në Dosje">
 <!ENTITY openInFolder.accesskey      "H">
@@ -87,4 +81,3 @@
 <!ENTITY idColumn2.tooltip "Sort by order received">
 
 <!ENTITY starredColumn.label "Me yllkë">
-<!ENTITY starredColumn.tooltip "Klikoni për t&apos;i renditur sipas yllkash">
