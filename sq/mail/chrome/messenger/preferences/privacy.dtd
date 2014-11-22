@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Lëndë Poste">
+
+<!ENTITY acceptRemoteContent.label "Lejo lëndë të largët në mesazhe">
+<!ENTITY acceptRemoteContent.accesskey "L">
+<!ENTITY remoteContentExceptions.label "Përjashtime…">
+<!ENTITY remoteContentExceptions.accesskey "P">
+<!ENTITY acceptRemoteContentInfo.label "Mësoni më tepër rreth çështjesh privatësie lënde të largët">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Lëndë Web">
+
+<!ENTITY keepHistory.label "Mba mend sajte web dhe lidhje që kam vizituar">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Prano cookies prej sajtesh">
+<!ENTITY acceptCookies.accesskey "s">
+<!ENTITY acceptThirdParty.pre.label "Prano cookies palësh të treta:">
+<!ENTITY acceptThirdParty.pre.accesskey "t">
+<!ENTITY acceptThirdParty.always.label "Përherë">
+<!ENTITY acceptThirdParty.never.label "Kurrë">
+<!ENTITY acceptThirdParty.visited.label "Nga të vizituarit">
+<!ENTITY keepUntil.label "Mbaji:">
+<!ENTITY keepUntil.accesskey "M">
+<!ENTITY expire.label "deri sa të skadojnë">
+<!ENTITY close.label "deri sa të mbyll &brandShortName;-in">
+<!ENTITY askEachTime.label "pyetmë çdo herë">
+<!ENTITY cookieExceptions.label "Përjashtime…">
+<!ENTITY cookieExceptions.accesskey "ë">
+<!ENTITY showCookies.label "Shfaqni Cookie-t…">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY dntTrackingNopref.label2 "Mos u trego gjë sajteve rreth parapëlqimeve të mia mbi gjurmimet">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Tregoju sajteve web se nuk dua të më gjurmojnë">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Tregoju sajteve web se dua të më gjurmojnë">
+<!ENTITY dntTrackingOkay.accesskey "d">
+<!ENTITY doNotTrackInfo.label "Mësoni më tepër rreth Mos Më Gjurmo">
