@@ -6,12 +6,12 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Inicia en mode segur">
-<!ENTITY refreshProfile.label         "Reinicia el &brandShortName; a l'estat inicial">
+<!ENTITY refreshProfile.label         "Restableix el &brandShortName; a l'estat inicial">
 
 <!ENTITY safeModeDescription3.label   "El mode segur és un mode especial del &brandShortName; que podeu utilitzar per a la resolució de problemes.">
 <!ENTITY safeModeDescription4.label   "Els vostres complements i paràmetres personalitzats s'inhabilitaran temporalment.">
 
-<!ENTITY refreshProfileInstead.label  "També podeu ometre la resolució de problemes i provar de reiniciar el &brandShortName; al seu estat inicial.">
+<!ENTITY refreshProfileInstead.label  "També podeu ometre la resolució de problemes i provar de restablir el &brandShortName; al seu estat inicial.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
 <!ENTITY autoSafeModeDescription3.label "El &brandShortName; s'ha tancat de forma inesperada. Pot ser a causa dels complements o altres problemes. Per intentar resoldre el problema, podeu reiniciar en mode segur.">
