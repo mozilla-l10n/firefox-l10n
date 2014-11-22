@@ -2,44 +2,46 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Për ">
-<!ENTITY fromField3.label "Nga ">
-<!ENTITY senderField3.label "Dërgues ">
-<!ENTITY organizationField3.label "Organizëm ">
-<!ENTITY replyToField3.label "Përgjigjuni te ">
+<!ENTITY toField4.label "Për ">
+<!ENTITY fromField4.label "Nga ">
+<!ENTITY senderField4.label "Dërgues ">
+<!ENTITY organizationField4.label "Organizëm ">
+<!ENTITY replyToField4.label "Përgjigjuni te ">
 
-<!ENTITY subjectField3.label "Subjekt ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Grupe lajmesh ">
-<!ENTITY followupToField3.label "Vazhdoje te ">
-<!ENTITY tagsHdr3.label "Etiketa ">
-<!ENTITY dateField3.label "Datë ">
-<!ENTITY userAgentField3.label "Agjent përdoruesi ">
-<!ENTITY referencesField3.label "Referenca ">
-<!ENTITY messageIdField3.label "ID mesazhi ">
-<!ENTITY inReplyToField3.label "Në përgjigje të ">
-<!ENTITY originalWebsite3.label "Sajt web ">
+<!ENTITY subjectField4.label "Subjekt ">
+<!ENTITY ccField4.label "Cc ">
+<!ENTITY bccField4.label "Bcc ">
+<!ENTITY newsgroupsField4.label "Grupe lajmesh ">
+<!ENTITY followupToField4.label "Vazhdojeni te ">
+<!ENTITY tagsHdr4.label "Etiketa ">
+<!ENTITY dateField4.label "Datë ">
+<!ENTITY userAgentField4.label "Agjent përdoruesi ">
+<!ENTITY referencesField4.label "Referenca ">
+<!ENTITY messageIdField4.label "ID mesazhi ">
+<!ENTITY inReplyToField4.label "Në përgjigje të ">
+<!ENTITY originalWebsite4.label "Sajt web ">
 
-<!ENTITY editMessageDescription.label "Kjo është një skicë mesazhi">
-<!ENTITY editMessageButton.label "Përpunojeni…">
 <!ENTITY hdrArchiveButton1.label "Arkiv">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
 <!ENTITY hdrSmartReplyButton1.label "Përgjigje e Mençur">
-<!ENTITY hdrReplyButton1.label "Përgjigjuni">
-<!ENTITY hdrReplyButton2.tooltip "Përgjigjiuni dërguesit të këtij mesazhi">
+<!ENTITY hdrReplyButton1.label "Reply">
+<!ENTITY hdrReplyButton2.tooltip "Reply to the sender of this message">
 <!ENTITY hdrReplyAllButton1.label "Përgjigjiuni të Tërëve">
 <!ENTITY hdrReplyAllButton1.tooltip "Përgjigjiuni dërguesit dhe tërë marrësve">
 <!ENTITY hdrReplyListButton1.label "Përgjigjuni te Lista">
 <!ENTITY hdrReplyListButton1.tooltip "Përgjigjuni te lista e postimeve">
 <!ENTITY hdrFollowupButton1.label "Vazhdim">
 <!ENTITY hdrFollowupButton1.tooltip "Postoni një vazhdim te ky grup lajmesh">
+<!ENTITY hdrMenuForwardButton.label "Përcille Si">
 <!ENTITY hdrForwardButton1.label "Përcille">
 <!ENTITY hdrForwardButton1.tooltip "Përcilleni këtë mesazh">
 <!ENTITY hdrJunkButton1.label "I pavlerë">
 <!ENTITY hdrJunkButton1.tooltip "I vini shenjë këtij mesazhi si i pavlerë">
 <!ENTITY hdrTrashButton1.label "Fshije">
 <!ENTITY hdrTrashButton1.tooltip "Fshijeni këtë mesazh">
+
+<!ENTITY hdrReplyButton1.label "Përgjigjuni">
+<!ENTITY hdrReplyButton2.tooltip "Përgjigjiuni dërguesit të këtij mesazhi">
 
 <!ENTITY hdrViewToolbarShowFull.label "Shfaq Ikona dhe Tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey "d">
