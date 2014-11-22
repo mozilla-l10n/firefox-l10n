@@ -724,6 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 <!ENTITY customizeMode.deveditionTheme.label "Použiť tému &brandShortName;">
+<!ENTITY customizeMode.deveditionTheme.label2 "Použiť tému vývojárskej edície">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">
