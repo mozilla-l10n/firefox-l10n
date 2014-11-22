@@ -9,8 +9,8 @@
 <!ENTITY unsubscribeButton.accesskey  "u">
 <!ENTITY newGroupsTab.label           "Grups nous">
 <!ENTITY newGroupsTab.accesskey       "n">
-<!ENTITY refreshButton.label          "Refresca">
-<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY refreshButton.label          "Actualitza">
+<!ENTITY refreshButton.accesskey      "z">
 <!ENTITY stopButton.label             "Atura">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Compte:">
