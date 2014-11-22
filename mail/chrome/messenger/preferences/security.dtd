@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "E pavlerë">
-<!ENTITY itemPhishing.label      "Sajesa E-mail">
+<!ENTITY itemPhishing.label      "Mashtrime E-mail">
 <!ENTITY itemPasswords.label     "Fjalëkalime">
 <!ENTITY itemAntiVirus.label     "Anti-Virus">
 
@@ -26,10 +26,10 @@
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName;-i mund t&apos;i analizojë mesazhet për sajesa email duke parë për teknika të zakonshme që përdoren për t&apos;ju hedhur hi syve.">
-<!ENTITY enablePhishingDetector1.label    "Nëse mesazhi që po lexoj dyshohet si sajesë email, ma bëj të ditur">
+<!ENTITY phishingDetector1.intro  "&brandShortName;-i mund t&apos;i analizojë mesazhet për email mashtrues duke parë për teknika të zakonshme që përdoren për t&apos;ju hedhur hi syve.">
+<!ENTITY enablePhishingDetector1.label    "Nëse mesazhi që po lexoj dyshohet si email mashtrim, ma bëj të ditur">
 <!ENTITY enablePhishingDetector1.accesskey  "M">
-<!ENTITY useDownloadedList.label "Përdor listë të shkarkuar sajesash email të dyshuara">
+<!ENTITY useDownloadedList.label "Përdor listë të shkarkuar email-esh të dyshuar si mashtrim">
 <!ENTITY useDownloadedList.accesskey "P">
 
 

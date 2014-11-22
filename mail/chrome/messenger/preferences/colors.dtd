@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Ngjyra">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Lejoje lëndën të zgjedhë ngjyrat e saj, në vend se të përzgjedhjes sime më sipër">
+<!ENTITY  allowPagesToUse.accesskey       "L">
+
+<!ENTITY  color                           "Tekst dhe Sfond">
+<!ENTITY  textColor.label                 "Tekst:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "Sfond:">
+<!ENTITY  backgroundColor.accesskey       "S">
+<!ENTITY  useSystemColors.label           "Përdor ngjyra sistemi">
+<!ENTITY  useSystemColors.accesskey       "m">
+
+<!ENTITY  underlineLinks.label            "Nënvozji Lidhjet">
+<!ENTITY  underlineLinks.accesskey        "N">
+<!ENTITY  links                           "Ngjyra Lidhjesh">
+<!ENTITY  linkColor.label                 "Lidhje të *Pavizituara:">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Lidhje të Vizituara:">
+<!ENTITY  visitedLinkColor.accesskey      "V">

@@ -85,10 +85,10 @@
 <!ENTITY netTimeout.title "Lidhjes i mbaroi koha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Nuk u kuptua adresa">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Nuk u kuptua adresa">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Mund t&apos;ju duhet të instaloni tjetër &quot;software&quot; për hapjen e kësaj adresa.</li>
+  <li>Mund t&apos;ju duhet të instaloni tjetër software për hapjen e kësaj adrese</li>
 </ul>
 ">
 
@@ -126,7 +126,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Lidhja e sigurt dështoi">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Faqja që po provoni të shihni nuk mund të shfaqet, ngaqë nuk verifikohet dot që të dhënat e marra janë të mirëfillta.</li>
   <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;i njoftuar për këtë problem.</li>

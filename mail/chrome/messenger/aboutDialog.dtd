@@ -1,4 +1,16 @@
-<!ENTITY aboutDialog.title          "Rreth &brandFullName;">
+<!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
+
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Kontrolloni për Përditësime">
+<!ENTITY update.checkForUpdatesButton.accesskey   "K">
+<!ENTITY update.updateButton.label2               "Riniseni &brandShortName;-in që të Përditësohet">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Zbatoni Përditësimin…">
+<!ENTITY update.applyButtonBillboard.accesskey    "Z">
 
 <!ENTITY community.start2           "&brandShortName; është hartuar nga ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -47,6 +59,16 @@
 <!ENTITY update.manual.start        "Shkarkoni ">
 <!ENTITY update.manual.linkText     "versionin më të ri">
 <!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Nuk mund të kryeni përditësime të tjera në këtë sistem. ">
+<!ENTITY update.unsupported.linkText "Mësoni më tepër">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
