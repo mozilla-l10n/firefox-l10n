@@ -196,6 +196,8 @@
 <!ENTITY fxaccount_status_header2 'Compte Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
 <!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
+<!ENTITY fxaccount_status_sync_now 'Synchroniser maintenant'>
+<!ENTITY fxaccount_status_syncing2 'Synchronisation…'>
 <!ENTITY fxaccount_status_device_name 'Nom de l\u0027appareil'>
 <!ENTITY fxaccount_status_sync_server 'Serveur Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

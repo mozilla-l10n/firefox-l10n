@@ -210,6 +210,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Le panda roux, rapide comme l\u0027éclair, bondit au-delà de vos attentes avec plus de vitesse, plus de souplesse et plus de sécurité. En tant que fondation à but non lucratif, nous sommes libres d\u0027innover pour vous sans aucune pression ni aucun compromis. Cela signifie une meilleure expérience pour vous et un meilleur avenir pour le Web.">
 
+<!ENTITY pref_media_autoplay_enabled "Lecture automatique">
+<!ENTITY pref_media_autoplay_enabled_summary "Décider si les sites peuvent lancer automatiquement la lecture des vidéos et d\u0027autres contenus multimédia.">
+
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Synchroniser onglets, marque-pages, mots de passe, historique">
@@ -361,6 +364,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "Aucun paramètre à effacer.">
 
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
+<!ENTITY reading_list_duplicate "La page se trouve déjà dans votre liste de lecture">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -472,11 +476,20 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dont le détenteur est">
+<!ENTITY identity_no_info "Ce site web ne fournit aucune information sur son identité.">
+<!ENTITY identity_not_encrypted "La connexion vers ce site n\u0027est pas chiffrée.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Cette page affiche du contenu non sécurisé.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; a bloqué du contenu non sécurisé.">
 <!ENTITY blocked_mixed_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message "Cette page piste votre activité en ligne.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; a empêché cette page de pister votre activité en ligne.">
+<!ENTITY blocked_tracking_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si le pistage en ligne est bloqué.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "En savoir plus">
 <!ENTITY enable_protection "Activer la protection">
 <!ENTITY disable_protection "Désactiver la protection">
@@ -501,8 +514,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Application">
 
 <!ENTITY searchable_description "Marque-pages et historique">
-
-<!ENTITY devtools_remote_debugging_forward "N\u0027oubliez pas de configurer la redirection de port !">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Mise à jour de &brandShortName; disponible">
@@ -555,3 +566,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Dernière synchronisation : &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
