@@ -309,6 +309,8 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY identity_no_info "Информация о подлинности этого веб-сайта отсутствует.">
+<!ENTITY identity_not_encrypted "Ваше соединение с этим веб-сайтом не зашифровано.">
 <!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
