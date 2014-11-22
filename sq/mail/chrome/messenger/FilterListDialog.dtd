@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "N">
 <!ENTITY folderPickerPrefix.label "Filtrin(at) e përzgjedhur vëre në punë mbi:">
 <!ENTITY folderPickerPrefix.accesskey "u">
-<!ENTITY choosethis.label "zgjidhni këtë dosje">
-<!ENTITY choosethisnewsserver.label "zgjidhni këtë shërbyes lajmesh">
 <!ENTITY helpButton.label "Ndihmë">
 <!ENTITY helpButton.accesskey "d">
 <!ENTITY closeCmd.key "W">
