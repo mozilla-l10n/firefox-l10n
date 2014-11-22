@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "Aktibazioen direktorioa">
 <!ENTITY social.directory.text "Partekatzeko zerbitzuak direktoriotik parteka ditzakezu.">
 <!ENTITY social.directory.button "Eraman nazazu hara!">
-<!ENTITY social.directory.introText "Egin klik zerbitzu batean &amp;brandShortName:(e)ra gehitzeko.">
+<!ENTITY social.directory.introText "Egin klik zerbitzu batean &brandShortName;(e)ra gehitzeko.">
 <!ENTITY social.directory.viewmore.text "Ikusi gehiago">
 
 <!ENTITY customizeMode.tabTitle "Pertsonalizatu &brandShortName;">
