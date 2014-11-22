@@ -93,7 +93,7 @@
 <!ENTITY JobTitle.label                 "Titull:">
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Degë:">
-<!ENTITY Department.accesskey           "d">
+<!ENTITY Department.accesskey           "D">
 <!ENTITY Company.label                  "Organizëm:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Adresë:">
@@ -109,7 +109,7 @@
 <!ENTITY WorkCountry.label              "Vend:">
 <!ENTITY WorkCountry.accesskey          "V">
 <!ENTITY WorkWebPage.label              "Faqe Web:">
-<!ENTITY WorkWebPage.accesskey          "f">
+<!ENTITY WorkWebPage.accesskey          "F">
 
 <!ENTITY Other.tab                      "Tjetër">
 <!ENTITY Other.accesskey                "T">
@@ -142,6 +142,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Nofkë IRC-je:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "f">

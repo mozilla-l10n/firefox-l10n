@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Hartim">
 <!ENTITY paneChat.title           "Fjalosje">
 <!ENTITY paneAttachments.title    "Bashkëngjitje">
+<!ENTITY panePrivacy.title        "Privatësi">
 <!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneSecurity.title       "Siguri">

@@ -30,6 +30,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Hollësi">
 <!ENTITY detailsProgressiveDisclosure.accesskey "h">
 
+<!ENTITY itemHistory.label                 "Historik Shfletimesh">
+<!ENTITY itemHistory.accesskey             "S">
+
 <!ENTITY historySection.label         "Historik">
 <!ENTITY dataSection.label            "Të dhëna">
 

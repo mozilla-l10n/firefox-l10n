@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Rimerr Parazgjedhjet">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Zgjo ikonën përkatëse">
-<!ENTITY bounceSystemDockIcon.accesskey   "Z">
+<!ENTITY changeDockIconOptions.label      "Ndryshoni parapëlqimet për ikonën e zbatimit">
+<!ENTITY dockOptions.label                "Mundësi Ikone Zbatimi…">
+<!ENTITY dockOptions.accesskey            "M">
 
 <!ENTITY newMessagesArrive.label          "Kur mbërrijnë mesazhe të rinj:">
 <!ENTITY playSound.label                  "Luaj një tingull">
@@ -20,6 +21,9 @@
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY customizeMailAlert.label         "Përshtateni…">
 <!ENTITY customizeMailAlert.accesskey     "P">
+
+<!ENTITY showTrayIcon.label               "Shfaq ikonë paneli">
+<!ENTITY showTrayIcon.accesskey           "p">
 
 <!ENTITY play.label                       "Luaje">
 <!ENTITY play.accesskey                   "u">

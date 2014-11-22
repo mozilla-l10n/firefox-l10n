@@ -21,11 +21,15 @@
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Faqe Web…">
 <!ENTITY attachPageCmd.accesskey "F">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kartë Vetjake (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY remindLater.label "Kujtoma Më Vonë">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Mbylle">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "M">
@@ -42,12 +46,14 @@
 <!ENTITY saveAsTemplateCmd.accesskey "G">
 <!ENTITY sendNowCmd.label "Dërgoje Tani">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "t">
+<!ENTITY sendNowCmd.accesskey "T">
 <!ENTITY sendLaterCmd.label "Dërgoje Më Vonë">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "V">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Paraparje Shtypjeje">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
@@ -57,7 +63,7 @@
 <!ENTITY editMenu.accesskey "P">
 <!ENTITY undoCmd.label "Zhbëje">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "z"> 
+<!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Ribëje">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
@@ -66,24 +72,28 @@
 <!ENTITY cutCmd.accesskey "i"> 
 <!ENTITY copyCmd.label "Kopjoje">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k"> 
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Ngjite">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "N">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Rimbështille">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Fshije">
-<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY deleteCmd.accesskey "F">
 <!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkëngjitjen…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "K"> 
-<!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "G">
+<!ENTITY findBarCmd.label "Gjeni…">
+<!ENTITY findBarCmd.accesskey "G">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Gjeni dhe Zëvendësoni…">
+<!ENTITY findReplaceCmd.accesskey "G">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Gjeje Sërish">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "s">
@@ -114,7 +124,7 @@
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatim">
-<!ENTITY formatMenu.accesskey "f">
+<!ENTITY formatMenu.accesskey "F">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
@@ -134,13 +144,13 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Kthim Faturash">
-<!ENTITY returnReceiptMenu.accesskey "k">
+<!ENTITY returnReceiptMenu.accesskey "K">
 <!ENTITY dsnMenu.label "Njoftim Gjendjeje Shpërndarjeje">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Format Shpërndarjeje">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Vetëzbulo">
-<!ENTITY autoFormatCmd.accesskey "v">
+<!ENTITY autoFormatCmd.accesskey "V">
 <!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">
 <!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Vetëm Tekst të Pasur (HTML)">
@@ -151,17 +161,17 @@
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Përparësi:">
 <!ENTITY lowestPriorityCmd.label "Më e Ulta">
-<!ENTITY lowestPriorityCmd.accesskey "u">
+<!ENTITY lowestPriorityCmd.accesskey "U">
 <!ENTITY lowPriorityCmd.label "E ulët">
 <!ENTITY lowPriorityCmd.accesskey "l">
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY normalPriorityCmd.accesskey "o">
 <!ENTITY highPriorityCmd.label "E lartë">
-<!ENTITY highPriorityCmd.accesskey "e">
+<!ENTITY highPriorityCmd.accesskey "E">
 <!ENTITY highestPriorityCmd.label "Më e Larta">
 <!ENTITY highestPriorityCmd.accesskey "a">
 <!ENTITY fileCarbonCopyCmd.label "Dërgoji një Kopje">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.accesskey "D">
 <!ENTITY fileHereMenu.label "Kartelë Këtu">
 
 <!-- Tools Menu -->
@@ -173,11 +183,11 @@
 <!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
-<!ENTITY accountManagerCmd.accesskey "R">
-<!ENTITY accountManagerCmdUnix.accesskey "R">
-<!ENTITY preferencesCmd.label "Mundësi…">
-<!ENTITY preferencesCmd.accesskey "u">
+<!ENTITY accountManagerCmd2.label "Rregullime Llogarish">
+<!ENTITY accountManagerCmd2.accesskey "R">
+<!ENTITY accountManagerCmdUnix2.accesskey "R">
+<!ENTITY preferencesCmd2.label "Mundësi">
+<!ENTITY preferencesCmd2.accesskey "u">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey   "a"> 
 
@@ -195,6 +205,7 @@
 <!ENTITY attachButton.label "Bashkangjitni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
+<!ENTITY printButton.label "Shtypni">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dërgojeni këtë mesazh tani"> 
@@ -207,6 +218,7 @@
 <!ENTITY cutButton.tooltip              "Prijeni">
 <!ENTITY copyButton.tooltip             "Kopjojeni">
 <!ENTITY pasteButton.tooltip            "Ngjiteni">
+<!ENTITY printButton.tooltip "Shtyp këtë mesazh">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -222,6 +234,8 @@
 <!ENTITY followupAddr.label "Vazhdoje-Te:"> 
 <!ENTITY subject.label "Subjekt:">
 <!ENTITY subject.accesskey "S">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -264,6 +278,8 @@
 <!ENTITY openAttachment.accesskey "H">
 <!ENTITY delete.label "Fshije">
 <!ENTITY delete.accesskey "F">
+<!ENTITY removeAttachment.label "Hiqe Bashkëngjitjen">
+<!ENTITY removeAttachment.accesskey "H">
 <!ENTITY renameAttachment.label "Riemërtojeni…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
@@ -283,13 +299,12 @@
 <!ENTITY attachPage.label "Bashkëngjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "q">
 
-<!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Kontakte">
-
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY removeAttachment.accesskey "H">
-<!ENTITY removeAttachment.label "Hiqe Bashkëngjitjen">
-
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "S">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Kontakte">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY removeAttachment.accesskey "H">
+<!ENTITY removeAttachment.label "Hiqe Bashkëngjitjen">

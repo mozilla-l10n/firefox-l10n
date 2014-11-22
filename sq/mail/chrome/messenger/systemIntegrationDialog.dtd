@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Integrim me Sistemin">
 <!ENTITY acceptIntegration.label  "Caktoje si Parazgjedhje">
 <!ENTITY cancelIntegration.label  "Anashkaloje Integrimin">
+<!ENTITY cancelIntegration2.label  "Anuloje">
 <!ENTITY defaultClient.intro  "Përdor &brandShortName;-in si klient parazgjedhje për:">
 
 <!ENTITY email.label "E-Mail">

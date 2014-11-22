@@ -15,8 +15,8 @@
 <!ENTITY regularSize.label                "Të rregullta">
 <!ENTITY bigger.label                     "Më të mëdha">
 <!ENTITY smaller.label                    "Më të vogla">
-<!ENTITY color.label                      "Ngjyrë:">
-<!ENTITY color.accesskey                  "N">
+<!ENTITY quotedTextColor.label            "Ngjyrë:">
+<!ENTITY quotedTextColor.accesskey        "N">
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
 <!ENTITY displayText.label	          "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
 <!ENTITY colors.label                     "Ngjyra">
@@ -39,11 +39,13 @@
 <!ENTITY removeTagButton.label    "Fshije">
 <!ENTITY removeTagButton.accesskey "F">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Shkronja">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Ngjyra &amp; Shkronja">
 <!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
 <!ENTITY defaultFont.accesskey   "a">
 <!ENTITY defaultSize.label       "Madhësi:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "S">
 <!ENTITY fontOptions.label       "Shkronja…">
+<!ENTITY colorButton.label       "Ngjyra…">
+<!ENTITY colorButton.accesskey   "N">
