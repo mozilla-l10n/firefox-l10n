@@ -143,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Cerca més serveis de compartició…">
 <!ENTITY sharePageCmd.label "Comparteix aquesta pàgina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "C">
@@ -216,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Complements">
 <!ENTITY addons.accesskey             "m">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Aplicacions">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -483,8 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Envia el vídeo per correu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "Envia el vídeo al dispositiu">
+<!ENTITY castVideoCmd.accesskey       "E">
 <!ENTITY emailAudioCmd.label          "Envia l'àudio per correu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activa aquest connector">
@@ -699,10 +700,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "M">
 <!ENTITY social.closeNotificationItem.label "Ara no">
 
-
-
-
-
+<!ENTITY social.directory.label "Directori d'activacions">
+<!ENTITY social.directory.text "Podeu activar els serveix de compartició des del directori.">
+<!ENTITY social.directory.button "Vés-hi">
+<!ENTITY social.directory.introText "Feu clic en un servei per afegir-lo al &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Mostra'n més">
 
 <!ENTITY customizeMode.tabTitle "Personalitza el &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Eines i funcions addicionals">
@@ -718,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
-
+<!ENTITY customizeMode.deveditionTheme.label "Utilitza el tema del &brandShortName;">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus del xat">
