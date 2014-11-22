@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Mundësi ikone zbatimi">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Gjallëroje ikonën e zbatimit kur mbërrrin një mesazh i ri">
+<!ENTITY bounceSystemDockIcon.accesskey        "G">
+<!ENTITY newMessagesCountDock.label            "Numër mesazhesh të rinj">
+<!ENTITY newMessagesCountDock.accesskey        "r">
+<!ENTITY showAllUnreadMessagesCount.label      "Numër mesazhesh të palexuar">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "a">
+<!ENTITY dockIconBadge.label                   "Stemë ikone zbatimi">
+<!ENTITY dockIconShow.label                    "Stemë ikone zbatimi me:">

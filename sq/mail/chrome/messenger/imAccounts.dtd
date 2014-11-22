@@ -23,6 +23,8 @@
 <!ENTITY account.movedown.label       "Zbrit Poshtë">
 <!ENTITY account.cancelReconnection.label         "Anuloje rilidhjen">
 <!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Kopjo Regjistrimin e Diagnostikimit">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Po lidhet…">
 <!ENTITY account.disconnecting        "Po shkëputet…">
 <!ENTITY account.disconnected         "I palidhur">

@@ -77,7 +77,7 @@
 <!ENTITY phishingBlocked.title "Dyshim për Sajesë Web!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Dhënia e çfarëdo të dhëne vetjake në këtë faqe mund të sjellë përvetësim të identitetit ose mashtrime të tjera.</p>
-<p>Këto lloje sajesash përdoren në rrengje të njohura si sulme karremëzimi, me të cilët faqe web dhe email-e të rremë përdoren për të imituar burime që ju i besoni.</p>
+<p>Këto lloje sajesash përdoren në mashtrime të njohura si sulme karremëzimi, me të cilët faqe web dhe email-e të rremë përdoren për të imituar burime që ju i besoni.</p>
 ">
 
 <!ENTITY unsafeContentType.title "Lloj i Pasigurt Kartele">
