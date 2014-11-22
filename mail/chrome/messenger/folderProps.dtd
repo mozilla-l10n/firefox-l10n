@@ -4,10 +4,16 @@
 
 <!ENTITY folderProps.windowtitle.label           "Veti">
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
-<!ENTITY folderCharsetTab.label                  "Kodim Shkronjash Parazgjedhje:">
-<!ENTITY folderCharsetTab.accesskey              "K">
-<!ENTITY folderCharsetOverride.label             "Zbato parazgjedhjen mbi tërë mesazhet e dosjes (rregullimet vetjake për kodim shkronjash mesazhesh dhe vetëzbulimi do të shpërfillen)">
-<!ENTITY folderCharsetOverride.accesskey         "Z">
+<!ENTITY folderCharsetFallback.label             "Fallback Character Encoding:">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetEnforce.label              "Zbatoje kodimin për krejt mesazhet te dosja (kodimi i shkronjave për mesazhe individuale dhe vetëzbulimi do të shpërfillen)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
+<!ENTITY folderRebuildSummaryFile2.label         "Riparoje Dosjen">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ndonjëherë kartela e treguesit të dosjes (.msf) dëmtohet dhe mesazhet mund të duken sikur mungojnë, ose mesazhe të fshirë të vazhdojnë të duken; riparimi i dosjes mund ta ndreqë këtë punë.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Përfshiji mesazhet e kësaj dosjeje në përfundime Kërkimi Global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
 
 <!ENTITY retention.label "Rregulla Mbajtjeje">
 <!ENTITY retentionUseAccount.label  "Përdor rregullimet e llogarisë sime">

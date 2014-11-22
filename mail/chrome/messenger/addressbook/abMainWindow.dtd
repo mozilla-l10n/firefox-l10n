@@ -6,12 +6,15 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Kartelë">
-<!ENTITY fileMenu.accesskey                             "k">
+<!ENTITY fileMenu.accesskey                             "K">
 <!ENTITY newMenu.label                                  "E re">
 <!ENTITY newMenu.accesskey                              "E">
+<!ENTITY newContact.label                               "Kontakt Nga Libri i Adresave…">
+<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Listë Postimesh…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newListCmd.accesskey                           "P">
+<!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Libër Adresash…">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
 <!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP…">
@@ -20,13 +23,21 @@
 <!ENTITY newMessageCmd.label                            "Mesazh">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "s">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Përdor Libër Adresash Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "P">
 <!ENTITY closeCmd.label                                 "Mbylle">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "M">
 <!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey                        "R">
+<!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
+<!ENTITY printPreviewContactCmd.accesskey               "a">
 <!ENTITY printPreviewAddressBook.label                  "Paraparje e Shtypjes së Librit të Adresave">
 <!ENTITY printPreviewAddressBook.accesskey              "L">
+<!ENTITY printContactCmd.label                          "Shtypni Kontakt…">
+<!ENTITY printContactCmd.accesskey                      "y">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Shtypni Libër Adresash…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
@@ -51,6 +62,11 @@
 <!ENTITY deleteCmd.label                                "Fshije">
 <!ENTITY deleteCmd.accesskey                            "F">
 <!ENTITY deleteAbCmd.label                              "Fshi Libër Adresash">
+<!ENTITY deleteContactCmd.label                         "Fshije Kontaktin">
+<!ENTITY deleteContactsCmd.label                        "Fshiji Kontaktet">
+<!ENTITY deleteListCmd.label                            "Fshije Listën">
+<!ENTITY deleteListsCmd.label                           "Fshiji Listat">
+<!ENTITY deleteItemsCmd.label                           "Fshiji Elementët">
 <!ENTITY selectAllCmd.label                             "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key                               "j">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -60,9 +76,9 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Veti…">
+<!ENTITY propertiesCmd2.label                            "Veti">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey                        "V">
+<!ENTITY propertiesCmd2.accesskey                        "V">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -87,6 +103,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "G">
 <!ENTITY customizeToolbar.label                         "Përshtatni…">
 <!ENTITY customizeToolbar.accesskey                     "P">
+<!ENTITY layoutMenu.label                               "Skemë">
+<!ENTITY layoutMenu.accesskey                           "ë">
+<!ENTITY showDirectoryPane.label                        "Kuadrat Liste">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Kuadrat Kontakti">
+<!ENTITY showContactPane2.accesskey                     "u">
 <!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
@@ -112,15 +134,19 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportoni…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Mundësi…">
-<!ENTITY preferencesCmd.accesskey                       "u">
+<!ENTITY preferencesCmd2.label                           "Mundësi">
+<!ENTITY preferencesCmd2.accesskey                       "M">
 <!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey                   "a"> 
 
 
 <!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newContactButton.label                         "Kontakt i Ri">
+<!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Listë e Re">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editButton2.label                              "Veti">
+<!ENTITY editButton2.accesskey                          "V">
 <!ENTITY newmsgButton.label                             "Shkruani">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Mesazh i Atypëratyshëm">
@@ -129,7 +155,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "F">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri adresash">
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
+<!ENTITY editButton2.tooltip                            "Përpunoni objektin e përzgjedhur">
 <!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
 <!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
@@ -140,13 +168,9 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Emër ose Email">
 <!ENTITY SearchNameOrEmail.accesskey                    "E">
-
-
-
-
-
 <!ENTITY advancedButton.tooltip                         "Kërkim i mëtejshëm adresash">
 <!ENTITY quickSearchCmd.key                             "K">
+<!ENTITY searchItem.title "Kërkim i Shpejtë">
 
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Emrash">
@@ -202,31 +226,7 @@ because displayed names don't have the comma in between. -->
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Dritare">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizo">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Bjeri të Tëra Përpara">
 <!ENTITY zoomWindow.label "Zoom">
-
-<!ENTITY searchItem.title "Kërkim i Shpejtë">
-
-<!ENTITY osxAddressBook.label                           "Përdor Libër Adresash Mac OS X">
-<!ENTITY osxAddressBook.accesskey                       "P">
-<!ENTITY deleteListCmd.label                            "Fshije Listën">
-<!ENTITY deleteListsCmd.label                           "Fshiji Listat">
-<!ENTITY deleteItemsCmd.label                           "Fshiji Elementët">
-<!ENTITY deleteContactCmd.label                         "Fshije Kontaktin">
-<!ENTITY deleteContactsCmd.label                        "Fshiji Kontaktet">
-<!ENTITY editButton2.label                              "Veti">
-<!ENTITY editButton2.accesskey                          "V">
-<!ENTITY editButton2.tooltip                            "Përpunoni objektin e përzgjedhur">
-
-<!ENTITY newContact.label                               "Kontakt Nga Libri i Adresave…">
-<!ENTITY newContact.accesskey                           "K">
-<!ENTITY newContact.key                                 "N">
-<!ENTITY newContactButton.label                         "Kontakt i Ri">
-<!ENTITY newContactButton.accesskey                     "K">
-<!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri adresash">
-<!ENTITY printContactCmd.label                          "Shtypni Kontakt…">
-<!ENTITY printContactCmd.accesskey                      "Y">
-<!ENTITY printContactCmd.key                            "P">
-

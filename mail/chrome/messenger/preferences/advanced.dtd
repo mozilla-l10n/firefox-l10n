@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "M">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Shih vetvetiu për përditësime të:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;-it">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Shtesave të Instaluara">
-<!ENTITY enableAddonsUpdate.accesskey   "S">
-<!ENTITY whenUpdatesFound.label         "Kur gjenden përditësime të &brandShortName;-it,">
-<!ENTITY modeAskMe.label                "Pyetmë se ç&apos;dua të bëj">
-<!ENTITY modeAskMe.accesskey            "P">
-<!ENTITY modeAutomatic.label            "Shkarkoje dhe instaloje përditësimin vetvetiu">
-<!ENTITY modeAutomatic.accesskey        "v">
-<!ENTITY modeAutoAddonWarn.label        "Sinjalizomë, nëse kështu do të çaktivizohej ndonjë prej shtesave të mia">
-<!ENTITY modeAutoAddonWarn.accesskey    "z">
-<!ENTITY showUpdates.label              "Shfaq Historik Përditësimesh">
-<!ENTITY showUpdates.accesskey          "H">
+<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i">
+<!ENTITY updateAuto.label                "Instaloji përditësimet vetvetiu (e këshillueshme: siguri e përmirësuar)">
+<!ENTITY updateAuto.accesskey            "v">
+<!ENTITY updateCheck.label               "Kontrollo për përditësime, po lejomë të vendos për instalimin ose jo të tyre">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
+<!ENTITY updateManual.accesskey          "M">
+<!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë cilëndo nga shtojcat e mia">
+<!ENTITY updateAutoAddonWarn.accesskey   "S">
+<!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
+<!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Për instalim përditësimesh përdor një shërbim në prapaskenë">
 <!ENTITY useService.accesskey            "i">
@@ -116,12 +113,10 @@
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Pyetmë çdo herë">
 <!ENTITY certs.ask.accesskey             "y">
+<!ENTITY enableOCSP.label                "Pyet shërbyesit OCSP përgjigjës, për t&apos;u ripohuar vlefshmëria për tani e dëshmive">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "Shihni Dëshmi">
 <!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewCRLs.label                 "Lista Shfuqizimesh">
-<!ENTITY viewCRLs.accesskey             "l">
-<!ENTITY validation.label               "Vleftësim">
-<!ENTITY validation.accesskey           "v">
 <!ENTITY viewSecurityDevices.label      "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey  "a">

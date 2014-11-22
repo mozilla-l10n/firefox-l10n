@@ -9,10 +9,17 @@
 <!ENTITY newsSectionHdr.label         "Grupe Lajmesh"> 
 <!ENTITY subscribeNewsLink.label      "Administroni pajtime në grupe lajmesh"> 
 
+<!ENTITY feedsSectionHdr.label        "Prurje">
+<!ENTITY subscribeFeeds.label         "Administroni pajtime">
+
+<!ENTITY chat.label                   "Fjalosje">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Llogari"> 
 <!ENTITY subscribeImapFolders.label   "Administroni dosje pajtimesh">
 <!ENTITY settingsLink.label           "Shihni rregullimet për këtë llogari"> 
 <!ENTITY newAcctLink.label            "Krijoni një llogari të re"> 
+<!ENTITY newAcct.label                "Krijoni llogari të ri:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Veçori të Mëtejshme"> 
 <!ENTITY searchMsgsLink.label         "Kërkoni në mesazhe"> 

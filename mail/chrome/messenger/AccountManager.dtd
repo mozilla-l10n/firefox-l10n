@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "S">
 <!ENTITY addIMAccountButton.label "Shtoni Llogari Fjalosjeje…">
 <!ENTITY addIMAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.label "Shtoni Llogari Prurjesh…">
+<!ENTITY addFeedAccountButton.accesskey "P">
 <!ENTITY addOtherAccountButton.label "Shtoni Llogari Tjetër…">
 <!ENTITY addOtherAccountButton.accesskey "T">
 <!ENTITY setDefaultButton.label "Vëre si Parazgjedhje">
