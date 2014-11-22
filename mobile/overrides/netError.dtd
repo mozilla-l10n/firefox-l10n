@@ -126,8 +126,8 @@
     <button id='wifi'>Включить Wi-Fi</button>
   </li>
 </ul>">
-<!ENTITY cspFrameAncestorBlocked.title "Заблокировано политикой защиты содержимого">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотвратил загрузку этой страницы данным способом, так как страница имеет политику защиты содержимого, запрещающую это.</p>">
+<!ENTITY cspBlocked.title "Заблокировано политикой защиты содержимого">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; заблокировал данный способ загрузки этой страницы, так как страница имеет политику защиты содержимого, которая это запрещает.</p>">
 <!ENTITY corruptedContentError.title "Ошибка искажения содержимого">
 <!ENTITY corruptedContentError.longDesc "<p>Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка при передаче данных.</p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li></ul>">
 <!ENTITY securityOverride.linkText "Или же вы можете добавить исключение…">
