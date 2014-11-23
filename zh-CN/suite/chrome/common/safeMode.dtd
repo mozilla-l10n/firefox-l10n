@@ -17,7 +17,7 @@
 <!ENTITY deleteBookmarks.label        "删除全部书签（备份除外）">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label         "重置 &brandShortName; 所有用户的首选项为默认">
+<!ENTITY resetUserPrefs.label         "重置所有的用户首选项至 &brandShortName; 默认值">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "恢复默认搜索引擎">

@@ -17,6 +17,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "怎么办？">
 <!ENTITY certerror.whatShouldIDo.content "如果您过去连接到此网站并且没有发现问题，那么此错误信息表示可能有人想冒充该网站，所以您应该停止浏览。">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全协议（HSTS），要求 &brandShortName;，只能与其建立安全的连接。正因如此，此证书无法添加到例外。">
 <!ENTITY certerror.getMeOutOfHere.label "太可怕了，还是返回我的默认主页吧">
 
 <!ENTITY certerror.expert.heading "我已充分了解可能的风险">
