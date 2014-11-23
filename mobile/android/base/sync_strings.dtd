@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label '恢复密钥'>
 <!ENTITY sync.checkbox.server.label '使用自定义服务器'>
 <!ENTITY sync.input.server.label '服务器网址'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label '无法设置 &syncBrand.shortName.label;'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label '没有互联网连接可用。'>
 <!ENTITY sync.subtitle.failaccount.label '在您的设备上创建账户失败。'>
 <!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '初始设置完成'>
 <!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。您可以到“设置”中管理您的账户，或者开始用 &brandShortName; 浏览网络。'>
@@ -73,6 +73,13 @@
 
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label;（旧版）'>
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '运行于 &formatS2; 的 &formatS1;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label '书签菜单'>
@@ -191,7 +198,7 @@
 <!ENTITY fxaccount_status_bookmarks '书签'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords '密码'>
-<!ENTITY fxaccount_status_tabs '打开多个标签页'>
+<!ENTITY fxaccount_status_tabs '打开的标签页'>
 <!ENTITY fxaccount_status_legal '法律' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -199,14 +206,23 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos '服务条款'>
 <!ENTITY fxaccount_status_linkprivacy '隐私声明'>
+<!ENTITY fxaccount_status_more '更多&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title '移除 Firefox 账户？'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; 将停止与您的账户的同步，但不会删除您在此设备上的任何浏览数据。'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox 账户 &formatS; 已移除。'>
+
+<!ENTITY fxaccount_remove_account_menu_item '移除账户'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 选项'>
@@ -228,6 +244,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT '无法连接到网络'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未连接'>
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '点按以登录为 &formatS;'>

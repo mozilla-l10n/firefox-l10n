@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
    - which loads a webapp in a separate process from Firefox.  Webapps loaded
    - in this way have very little application chrome, but the runtime does
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
+
 
 <!ENTITY fileMenu.label                     "文件">
 <!ENTITY fileMenu.accesskey                 "F">
@@ -22,8 +22,8 @@
 <!ENTITY hideOtherAppsCmdMac.label          "隐藏其他">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "全部显示">
-
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
+
 <!ENTITY quitApplicationCmdUnix.key          "Q">
 
 <!ENTITY editMenu.label                     "编辑">
