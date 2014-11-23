@@ -200,7 +200,7 @@
 
 <!ENTITY sendButton.label "Envia">
 <!ENTITY quoteButton.label "Cita">
-<!ENTITY addressButton.label "Adreça">
+<!ENTITY addressButton.label "Contactes">
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
