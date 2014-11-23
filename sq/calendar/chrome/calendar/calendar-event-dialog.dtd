@@ -9,7 +9,6 @@
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >
-<!ENTITY newevent.attendees.notify.label    "Njofto pjesëmarrësit">
 
 <!ENTITY newevent.status.label              "Gjendje" >
 <!ENTITY newevent.status.accesskey          "G" >
@@ -29,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; e plotësuar">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Njotoni pjesëmarrësit">
+<!ENTITY event.attendees.notifyundisclosed.label    "Ndaji ftesat sipas pjesëmarrësve">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Kjo mundësi bën të dërgohet një email ftesë për pjesëmarrës. Çdo ftesë përmban vetëm pjesëmarrësin të cilit i dërgohet, kështu që identitetet e pjesëmarrësve të tjerë nuk zbulohen.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -137,8 +143,17 @@
 <!ENTITY  event.toolbar.save.label                        "Ruaje dhe Mbylle">
 <!ENTITY  event.toolbar.delete.label                      "Fshije">
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
-<!ENTITY  event.toolbar.spellcheck.label                  "Kontroll Drejtshkrimi">
 <!ENTITY  event.toolbar.privacy.label                     "Privatësi">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Ruajeni dhe mbylleni">
+<!ENTITY  event.toolbar.delete.tooltip                    "Fshijeni">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Ftoni Pjesëmarrës">
+<!ENTITY  event.toolbar.attachments.tooltip               "Shtoni Bashkëngjitje">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Ndryshojini Privatësinë">
+<!ENTITY  event.toolbar.priority.tooltip                  "Ndryshojini Përparësinë">
+<!ENTITY  event.toolbar.status.tooltip                    "Ndryshojini Gjendjen">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Nryshojini kohën I lirë/I zënë">
+
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
@@ -147,6 +162,7 @@
 <!ENTITY event.location.accesskey                         "V">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "o">
+<!ENTITY event.categories.textbox.label                   "Shtoni kategori të re" >
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "l">
 <!ENTITY event.attendees.label                            "Pjesëmarrës:" >
@@ -165,6 +181,8 @@
 <!ENTITY task.status.accesskey                            "e">
 <!ENTITY event.repeat.label                               "Përsëritje:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Deri më:">
+<!ENTITY event.until.accesskey                            "D">
 <!ENTITY event.reminder.label                             "Kujtues:" >
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Përshkrim:" >
@@ -201,6 +219,9 @@
 <!ENTITY event.reminder.custom.label                      "Përshtateni…" >
 
 <!ENTITY event.reminder.multiple.label                    "Kujtues të Shumëfishtë…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Kohë sipas:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privatësi:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Përpunoni Ripërsëritje">
@@ -312,6 +333,8 @@
 <!ENTITY invite.title.label                     "Ftoni Pjesëmarrës">
 <!ENTITY event.organizer.label                  "Organizues">
 <!ENTITY event.freebusy.suggest.slot            "Këshilloni kohë të përshtatshme:">
+<!ENTITY event.freebusy.button.next.slot        "Kohë pasuese">
+<!ENTITY event.freebusy.button.previous.slot    "Kohë e mëparshme">
 <!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "I lirë" >
 <!ENTITY event.freebusy.legend.busy             "I zënë" >
@@ -350,5 +373,4 @@
 <!ENTITY read.only.reminder.label        "Kujtues:">
 <!ENTITY read.only.attendees.label       "Pjesëmarrës">
 <!ENTITY read.only.description.label     "Përshkrim">
-<!ENTITY read.only.documents.label       "Dokumente">
 <!ENTITY read.only.link.label            "Lidhje e Afërt">
