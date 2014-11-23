@@ -167,8 +167,8 @@ ne peut être vérifiée.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqué par une stratégie de sécurité de contenu">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
+<!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
 
 <!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
