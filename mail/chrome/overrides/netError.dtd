@@ -157,8 +157,8 @@
 <p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
+<!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
+<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
 <!ENTITY corruptedContentError.title "Poškodený obsah">
 <!ENTITY corruptedContentError.longDesc "<p>Tento obsah nemohol byť zobrazený kvôli chybe pri prenose údajov.</p><ul><li>Kontaktuje poskytovateľa obsahu a informujte ho o tomto probléme.</li></ul>">
