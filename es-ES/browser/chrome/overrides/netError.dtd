@@ -157,5 +157,13 @@
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY errorReporting.title "Informar de este error">
+<!ENTITY errorReporting.longDesc "Informar de la dirección y la información del certificado de <span id='hostname'></span> nos ayudará a identificar y bloquear los sitios maliciosos. ¡Gracias por ayudar a crear una web más segura!">
+<!ENTITY errorReporting.automatic "En lo sucesivo, informar de errores automáticamente">
+<!ENTITY errorReporting.learnMore "Más información…">
+<!ENTITY errorReporting.sending "Enviando informe">
+<!ENTITY errorReporting.sent "Informe enviado">
+<!ENTITY errorReporting.report "Informar">
+<!ENTITY errorReporting.tryAgain "Vuelva a intentarlo">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">

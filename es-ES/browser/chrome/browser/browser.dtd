@@ -522,7 +522,7 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
-<!ENTITY customizeMode.deveditionTheme.label "Usar el tema &brandShortName;">
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar el tema Developer Edition">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
