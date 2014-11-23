@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "You can also visit ">
-<!ENTITY support.link              "&brandShortName;(r)en laguntza">
-<!ENTITY support.post2             " ere bisita dezakezu informazio gehiagorako.">
+<!ENTITY support.pre3              "Bisitatu gure">
+<!ENTITY support.link2             "laguntza-gunea">
+<!ENTITY support.post3             "ohiko arazoen inguruko erantzunak aurkitzeko.">
 
 <!ENTITY happy.header              "Ederra da hori entzutea!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Geroago agian">
 <!ENTITY happy.noThanks            "Ez milesker">
 
+<!ENTITY sad.header                "Oh ez!">
 <!ENTITY sad.message               "Sentitzen dugu &brandShortName;(r)ekin arazoak izan dituzula. Esaiguzu zer gertatu den konpontzeko gai izan gaitezen.">
 <!ENTITY sad.placeholder           "Idatzi zure iritzia hemen">
-<!ENTITY sad.lastSite              "Bisitatutako azken gunea (aukerazkoa)">
+<!ENTITY sad.lastSite2             "Sartu bisitatutako azken gunea">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Eskerrik asko zure iritziaren berri emateagatik.">
+<!ENTITY sad.thanksHeader2         "Eskerrik asko.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Edo bestela...">
 
-<!ENTITY feedback.privacy          "Zure pribatutasunerako, ez sartu inolako informazio pertsonalik zure iritzian.">
+<!ENTITY feedback.privacy2         "Zure pribatutasunerako, ez sartu inolako informazio pertsonalik zure iritzian.">
 <!ENTITY feedback.send             "Bidali iritzia">
