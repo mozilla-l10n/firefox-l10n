@@ -25,7 +25,7 @@
 <!ENTITY  crash_send_report_message3 "Notifiqueu la fallada a &vendorShortName; per intentar solucionar-la">
 <!ENTITY  crash_include_url2 "Inclou l\u0027adreça de la pàgina on estava">
 <!ENTITY  crash_sorry "Ho lamentem">
-<!ENTITY  crash_comment "Afegeix un comentari (els comentaris són visibles públicament)">
+<!ENTITY  crash_comment "Afegiu-hi un comentari (els comentaris són visibles públicament)">
 <!ENTITY  crash_allow_contact2 "Permet que &vendorShortName; pugui contactar amb mi en referència a aquest problema">
 <!ENTITY  crash_email "La vostra adreça electrònica">
 <!ENTITY  crash_closing_alert "Voleu sortir sense enviar un informe de fallada?">
