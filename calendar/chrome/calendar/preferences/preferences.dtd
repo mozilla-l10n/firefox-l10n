@@ -2,15 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Mundësi">
-<!ENTITY  prefWindow.titleGNOME   "Parapëlqime për &brandShortName;-in">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "Të përgjithshme">
 <!ENTITY  paneAlarms.title        "Alarme">
 <!ENTITY  paneCategories.title    "Kategori">
 <!ENTITY  paneViews.title         "Parje">
 <!ENTITY  paneTimezones.title     "Zonë Kohore">
-<!ENTITY  paneAdvanced.title      "Të mëtejshme">
+
