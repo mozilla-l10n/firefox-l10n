@@ -1,212 +1,212 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox 同步">
 <!ENTITY syncBrand.shortName.label "同步">
-
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label '连接到 &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label '添加 &syncBrand.fullName.label; 账户'>
-<!ENTITY sync.title.pair.label '设备配对'>
 
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "连接到 &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "添加 &syncBrand.fullName.label; 账户">
+<!ENTITY sync.title.pair.label "设备配对">
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label '要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。'>
-<!ENTITY sync.subtitle.header2.label '在您其他设备中输入此代码'>
-<!ENTITY sync.subtitle.connectlocation2.label '请在您其他设备的 Firefox 选项 &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。'>
-<!ENTITY sync.subtitle.pair.label '要想激活，请在您的其他设备上选择“设备配对”。'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label '告诉我怎么办。'>
-<!ENTITY sync.link.advancedsetup.label '高级设置...'>
-<!ENTITY sync.link.nodevice.label '该设备不在我身边…'>
 
+<!ENTITY sync.subtitle.connect.label "要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。">
+<!ENTITY sync.subtitle.header2.label "在您其他设备中输入此代码">
+<!ENTITY sync.subtitle.connectlocation2.label "请在您其他设备的 Firefox 选项 &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。">
+<!ENTITY sync.subtitle.pair.label "要想激活，请在您的其他设备上选择“设备配对”。">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "告诉我怎么办。">
+<!ENTITY sync.link.advancedsetup.label "高级设置...">
+<!ENTITY sync.link.nodevice.label "该设备不在我身边…">
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label '正在等待其他设备…'>
 
+<!ENTITY sync.jpake.subtitle.waiting.label "正在等待其他设备…">
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label '请输入您的 &syncBrand.fullName.label; 账户信息'>
-<!ENTITY sync.input.username.label '账户名称'>
-<!ENTITY sync.input.password.label '密码'>
-<!ENTITY sync.input.key.label '恢复密钥'>
-<!ENTITY sync.checkbox.server.label '使用自定义服务器'>
-<!ENTITY sync.input.server.label '服务器网址'>
 
+<!ENTITY sync.subtitle.account.label "请输入您的 &syncBrand.fullName.label; 账户信息">
+<!ENTITY sync.input.username.label "账户名称">
+<!ENTITY sync.input.password.label "密码">
+<!ENTITY sync.input.key.label "恢复密钥">
+<!ENTITY sync.checkbox.server.label "使用自定义服务器">
+<!ENTITY sync.input.server.label "服务器网址">
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label '无法设置 &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？'>
-<!ENTITY sync.button.tryagain.label '重试'>
-<!ENTITY sync.button.manual.label '手动设置'>
-<!ENTITY sync.subtitle.nointernet.label '没有互联网连接可用。'>
-<!ENTITY sync.subtitle.failaccount.label '在您的设备上创建账户失败。'>
-<!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
 
+<!ENTITY sync.title.fail.label "无法设置 &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？">
+<!ENTITY sync.button.tryagain.label "重试">
+<!ENTITY sync.button.manual.label "手动设置">
+<!ENTITY sync.subtitle.nointernet.label "没有互联网连接可用。">
+<!ENTITY sync.subtitle.failaccount.label "在您的设备上创建账户失败。">
+<!ENTITY sync.subtitle.failmultiple.label "您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。">
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label '初始设置完成'>
-<!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。您可以到“设置”中管理您的账户，或者开始用 &brandShortName; 浏览网络。'>
-<!ENTITY sync.settings.label '设置'>
-<!ENTITY sync.subtitle.manage.label1 '您的 &syncBrand.fullName.label; 账户已建立。您可以到“设置”中管理您的账户，或者启动 &brandShortName;。'>
 
+<!ENTITY sync.title.success.label "初始设置完成">
+<!ENTITY sync.subtitle.success.label1 "正在后台下载你的数据。您可以到“设置”中管理您的账户，或者开始用 &brandShortName; 浏览网络。">
+<!ENTITY sync.settings.label "设置">
+<!ENTITY sync.subtitle.manage.label1 "您的 &syncBrand.fullName.label; 账户已建立。您可以到“设置”中管理您的账户，或者启动 &brandShortName;。">
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label '请重试。'>
-<!ENTITY sync.pair.connectlocation.label '要激活你的新设备，在设备上选择 “设置 &syncBrand.shortName.label; ”，然后选择“已有账户”。'>
 
+<!ENTITY sync.pair.tryagain.label "请重试。">
+<!ENTITY sync.pair.connectlocation.label "要激活你的新设备，在设备上选择 “设置 &syncBrand.shortName.label; ”，然后选择“已有账户”。">
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label '选项'>
-<!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 账户'>
 
+<!ENTITY sync.settings.options.label "选项">
+<!ENTITY sync.summary.pair.label "链接其他设备到您的 &syncBrand.shortName.label; 账户">
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label '同步范围'>
-<!ENTITY sync.configure.engines.sync.my.title.label '同步你的…'>
-<!ENTITY sync.configure.engines.title.bookmarks '书签'>
-<!ENTITY sync.configure.engines.title.passwords '密码'>
-<!ENTITY sync.configure.engines.title.history '历史记录'>
-<!ENTITY sync.configure.engines.title.tabs '标签页'>
 
+<!ENTITY sync.configure.engines.title.label "同步范围">
+<!ENTITY sync.configure.engines.sync.my.title.label "同步你的…">
+<!ENTITY sync.configure.engines.title.bookmarks "书签">
+<!ENTITY sync.configure.engines.title.passwords "密码">
+<!ENTITY sync.configure.engines.title.history "历史记录">
+<!ENTITY sync.configure.engines.title.tabs "标签页">
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label '取消'>
-<!ENTITY sync.button.connect.label '连接'>
-<!ENTITY sync.button.ok.label '确定'>
 
+<!ENTITY sync.button.cancel.label "取消">
+<!ENTITY sync.button.connect.label "连接">
+<!ENTITY sync.button.ok.label "确定">
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label;（旧版）'>
 
+<!ENTITY sync.account.label "&syncBrand.fullName.label;（旧版）">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '运行于 &formatS2; 的 &formatS1;'>
 
+<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label '书签菜单'>
+
+<!ENTITY bookmarks.folder.menu.label "书签菜单">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label '标签'>
-<!ENTITY bookmarks.folder.toolbar.label '书签工具栏'>
-<!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
-<!ENTITY bookmarks.folder.desktop.label '桌面版书签'>
-<!ENTITY bookmarks.folder.mobile.label '移动版书签'>
-<!ENTITY bookmarks.folder.readinglist.label '阅读列表'>
+<!ENTITY bookmarks.folder.tags.label "标签">
+<!ENTITY bookmarks.folder.toolbar.label "书签工具栏">
+<!ENTITY bookmarks.folder.unfiled.label "未分类书签">
+<!ENTITY bookmarks.folder.desktop.label "桌面版书签">
+<!ENTITY bookmarks.folder.mobile.label "移动版书签">
+<!ENTITY bookmarks.folder.readinglist.label "阅读列表">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label '已固定'>
-
+<!ENTITY bookmarks.folder.pinned.label "已固定">
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 账户。'>
-<!ENTITY sync.notification.configure.saved '你的选择已保存。'>
 
+<!ENTITY sync.notification.oneaccount.label "仅支持一个 &syncBrand.fullName.label; 账户。">
+<!ENTITY sync.notification.configure.saved "你的选择已保存。">
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label '不正确的账户名或密码。'>
-<!ENTITY sync.invalidserver.label '请输入有效的服务器 URL'>
-<!ENTITY sync.verifying.label '正在校验…'>
-<!ENTITY sync.new.recoverykey.status.incorrect '恢复密钥不正确。请重试。'>
 
+<!ENTITY sync.invalidcreds.label "不正确的账户名或密码。">
+<!ENTITY sync.invalidserver.label "请输入有效的服务器 URL">
+<!ENTITY sync.verifying.label "正在校验…">
+<!ENTITY sync.new.recoverykey.status.incorrect "恢复密钥不正确。请重试。">
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label '发送标签页到设备'>
-<!ENTITY sync.button.send.label '发送'>
-<!ENTITY sync.button.set.up.sync.label '设置 &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label '设置 &syncBrand.shortName.label; 以发送标签页'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label '在您的设备上设置 &syncBrand.fullName.label; 以发送标签页到其他设备。'>
-<!ENTITY sync.text.tab.sent.label '您的标签页已发送！'>
-<!ENTITY sync.text.tab.not.sent.label '发送您的标签页时遇到问题。'>
 
+<!ENTITY sync.title.send.tab.label "发送标签页到设备">
+<!ENTITY sync.button.send.label "发送">
+<!ENTITY sync.button.set.up.sync.label "设置 &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "设置 &syncBrand.shortName.label; 以发送标签页">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "在您的设备上设置 &syncBrand.fullName.label; 以发送标签页到其他设备。">
+<!ENTITY sync.text.tab.sent.label "您的标签页已发送！">
+<!ENTITY sync.text.tab.not.sent.label "发送您的标签页时遇到问题。">
 <!-- Firefox Account strings. -->
 
-<!ENTITY fxaccount_full_label 'Firefox 账户'>
 
-<!ENTITY fxaccount_custom_server_account_title '使用服务器上的账号'>
-<!ENTITY fxaccount_custom_server_sync_title '在服务器上存储同步数据'>
+<!ENTITY fxaccount_full_label "Firefox 账户">
 
+<!ENTITY fxaccount_custom_server_account_title "使用服务器上的账号">
+<!ENTITY fxaccount_custom_server_sync_title "在服务器上存储同步数据">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-<!ENTITY fxaccount_email_hint '电子邮件'>
-<!ENTITY fxaccount_password_hint '密码'>
-<!ENTITY fxaccount_password_hide '隐藏'>
-<!ENTITY fxaccount_password_show '显示'>
 
+<!ENTITY fxaccount_email_hint "电子邮件">
+<!ENTITY fxaccount_password_hint "密码">
+<!ENTITY fxaccount_password_hide "隐藏">
+<!ENTITY fxaccount_password_show "显示">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing '返回浏览状态'>
 
+<!ENTITY fxaccount_back_to_browsing "返回浏览状态">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos '服务条款'>
-<!ENTITY fxaccount_policy_linkprivacy '隐私声明'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync '欢迎使用 &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description '登录以同步您的标签页、书签等信息。'>
-<!ENTITY fxaccount_getting_started_get_started '开始使用'>
-<!ENTITY fxaccount_getting_started_old_firefox '使用旧版本的 &syncBrand.shortName.label;？'>
+<!ENTITY fxaccount_policy_linktos "服务条款">
+<!ENTITY fxaccount_policy_linkprivacy "隐私声明">
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync "欢迎使用 &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "登录以同步您的标签页、书签等信息。">
+<!ENTITY fxaccount_getting_started_get_started "开始使用">
+<!ENTITY fxaccount_getting_started_old_firefox "使用旧版本的 &syncBrand.shortName.label;？">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 '创建 Firefox 账户'>
-<!ENTITY fxaccount_create_account_password_length_restriction '至少要有8个字符'>
-<!ENTITY fxaccount_create_account_year_of_birth '出生年份'>
+
+<!ENTITY fxaccount_create_account_header2 "创建 Firefox 账户">
+<!ENTITY fxaccount_create_account_password_length_restriction "至少要有8个字符">
+<!ENTITY fxaccount_create_account_year_of_birth "出生年份">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 '若继续进行，则代表我同意 Firefox 云服务的《&formatS1;》及《&formatS2;》。'>
-<!ENTITY fxaccount_create_account_button '下一步'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync '选择要同步的项目'>
-<!ENTITY fxaccount_create_account_sign_in_instead '已有账户？马上登录'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990年或更早'>
-<!ENTITY fxaccount_create_account_unknown_error '无法创建账户'>
+<!ENTITY fxaccount_create_account_policy_text2 "若继续进行，则代表我同意 Firefox 云服务的《&formatS1;》及《&formatS2;》。">
+<!ENTITY fxaccount_create_account_button "下一步">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "选择要同步的项目">
+<!ENTITY fxaccount_create_account_sign_in_instead "已有账户？马上登录">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990年或更早">
+<!ENTITY fxaccount_create_account_unknown_error "无法创建账户">
 
-<!ENTITY fxaccount_account_create_not_allowed '无法创建账户'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements '您必须符合年龄要求才能创建账户。'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more '详细了解'>
+<!ENTITY fxaccount_account_create_not_allowed "无法创建账户">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "您必须符合年龄要求才能创建账户。">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "详细了解">
 
-<!ENTITY fxaccount_confirm_account_header '确认您的账户'>
+<!ENTITY fxaccount_confirm_account_header "确认您的账户">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link '一个验证链接已发送到 &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email '重发邮件'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 '发送验证邮件'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '无法发送验证邮件'>
+<!ENTITY fxaccount_confirm_account_verification_link "一个验证链接已发送到 &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "重发邮件">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "发送验证邮件">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "无法发送验证邮件">
 
-<!ENTITY fxaccount_sign_in_sub_header '登录'>
-<!ENTITY fxaccount_sign_in_button_label '登录'>
-<!ENTITY fxaccount_sign_in_forgot_password '忘记密码？'>
-<!ENTITY fxaccount_sign_in_create_account_instead '创建账户'>
-<!ENTITY fxaccount_sign_in_unknown_error '无法登录'>
+<!ENTITY fxaccount_sign_in_sub_header "登录">
+<!ENTITY fxaccount_sign_in_button_label "登录">
+<!ENTITY fxaccount_sign_in_forgot_password "忘记密码？">
+<!ENTITY fxaccount_sign_in_create_account_instead "创建账户">
+<!ENTITY fxaccount_sign_in_unknown_error "无法登录">
 
-<!ENTITY fxaccount_account_verified_sub_header '账户已验证'>
-<!ENTITY fxaccount_account_verified_description2 '您的数据将很快开始同步。'>
+<!ENTITY fxaccount_account_verified_sub_header "账户已验证">
+<!ENTITY fxaccount_account_verified_description2 "您的数据将很快开始同步。">
 
-<!ENTITY fxaccount_update_credentials_header '登录'>
-<!ENTITY fxaccount_update_credentials_button_label '登录'>
-<!ENTITY fxaccount_update_credentials_unknown_error '无法登录'>
+<!ENTITY fxaccount_update_credentials_header "登录">
+<!ENTITY fxaccount_update_credentials_button_label "登录">
+<!ENTITY fxaccount_update_credentials_unknown_error "无法登录">
 
-<!ENTITY fxaccount_status_header2 'Firefox 账户'>
-<!ENTITY fxaccount_status_signed_in_as '已登录为'>
-<!ENTITY fxaccount_status_auth_server '账户服务器'>
-<!ENTITY fxaccount_status_device_name '设备名称'>
-<!ENTITY fxaccount_status_sync_server '同步服务器'>
-<!ENTITY fxaccount_status_sync '服务'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已启用'>
-<!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点按以重发验证邮件。'>
-<!ENTITY fxaccount_status_needs_credentials '无法连接。点按以登录。'>
-<!ENTITY fxaccount_status_needs_upgrade '您需要升级 &brandShortName; 才能登录。'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。点按开始同步。'>
-<!ENTITY fxaccount_status_bookmarks '书签'>
-<!ENTITY fxaccount_status_history '历史记录'>
-<!ENTITY fxaccount_status_passwords '密码'>
-<!ENTITY fxaccount_status_tabs '打开的标签页'>
-<!ENTITY fxaccount_status_legal '法律' >
+<!ENTITY fxaccount_status_header2 "Firefox 账户">
+<!ENTITY fxaccount_status_signed_in_as "已登录为">
+<!ENTITY fxaccount_status_auth_server "账户服务器">
+<!ENTITY fxaccount_status_device_name "设备名称">
+<!ENTITY fxaccount_status_sync_server "同步服务器">
+<!ENTITY fxaccount_status_sync "服务">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: 已启用">
+<!ENTITY fxaccount_status_needs_verification2 "您的账户需要验证。点按以重发验证邮件。">
+<!ENTITY fxaccount_status_needs_credentials "无法连接。点按以登录。">
+<!ENTITY fxaccount_status_needs_upgrade "您需要升级 &brandShortName; 才能登录。">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。点按开始同步。">
+<!ENTITY fxaccount_status_bookmarks "书签">
+<!ENTITY fxaccount_status_history "历史记录">
+<!ENTITY fxaccount_status_passwords "密码">
+<!ENTITY fxaccount_status_tabs "打开多个标签页">
+<!ENTITY fxaccount_status_legal "法律" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos '服务条款'>
-<!ENTITY fxaccount_status_linkprivacy '隐私声明'>
-<!ENTITY fxaccount_status_more '更多&ellipsis;'>
+<!ENTITY fxaccount_status_linktos "服务条款">
+<!ENTITY fxaccount_status_linkprivacy "隐私声明">
+<!ENTITY fxaccount_status_more 'More&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '移除 Firefox 账户？'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; 将停止与您的账户的同步，但不会删除您在此设备上的任何浏览数据。'>
@@ -214,36 +214,36 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox 账户 &formatS; 已移除。'>
 
-<!ENTITY fxaccount_remove_account_menu_item '移除账户'>
-
+<!ENTITY fxaccount_remove_account_menu_item 'Remove Account'>
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label 'Firefox'>
 
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 选项'>
-<!ENTITY fxaccount_options_configure_title '配置 &syncBrand.shortName.label;'>
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; 选项">
+<!ENTITY fxaccount_options_configure_title "配置 &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED '您需要升级 Firefox'>
 
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "您需要升级 Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 '账户已存在。&formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST '无效的电子邮箱或密码'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD '无效的电子邮箱或密码'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT '账户未验证'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS '服务器繁忙，请稍候再试'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '服务器繁忙，请稍候再试'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '遇到问题'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT '无法连接到网络'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未连接'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "账户已存在。&formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "无效的电子邮箱或密码">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "无效的电子邮箱或密码">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "账户未验证">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "服务器繁忙，请稍候再试">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "服务器繁忙，请稍候再试">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "遇到问题">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "无法连接到网络">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; 未连接">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '点按以登录为 &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "点按以登录为 &formatS;">

@@ -5,6 +5,7 @@
 <!ENTITY aboutAddons.title2                     "附加组件">
 <!ENTITY aboutAddons.header2                    "您的附加组件">
 <!ENTITY aboutAddons.options                    "选项">
+<!ENTITY aboutAddons.browseAll                  "浏览全部 Firefox 附加组件">
 
 <!ENTITY addonAction.enable                     "启用">
 <!ENTITY addonAction.disable                    "禁用">
