@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
+<!ENTITY pref_category_customize_summary "Kezdőlap, keresés, lapok, importálás">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "nyelv">
+<!ENTITY pref_category_language_summary "Böngésző nyelvének módosítása">
 <!ENTITY pref_browser_locale "Böngésző nyelve">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Könyvjelző">
 <!ENTITY overlay_share_reading_list_btn_label "Olvasási listához adás">
+<!ENTITY overlay_share_bookmark_btn_label_already "Már könyvjelzőzve">
+<!ENTITY overlay_share_reading_list_btn_label_already "Már az olvasási listán van">
 <!ENTITY overlay_share_send_other "Küldés más eszközökre">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "Keresés">
 <!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
 <!ENTITY pref_category_display "Megjelenítés">
+<!ENTITY pref_category_display_summary "Szöveg, címsáv, teljes képernyős böngészés">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
+<!ENTITY pref_category_privacy_summary "Jelszavak, sütik, követési adatok felügyelete">
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
+<!ENTITY pref_category_vendor_summary "A &brandShortName; névjegye, GyIK, adatválasztások">
 <!ENTITY pref_category_datareporting "Adatválasztások">
 <!ENTITY pref_learn_more "További információ">
 <!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
+<!ENTITY pref_category_devtools_summary "Távoli hibakeresés, kirajzolás jelzése">
 <!ENTITY pref_developer_paint_flashing "Rajzolás villogása">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
@@ -174,8 +182,8 @@
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
 <!ENTITY pref_clear_private_data2 "Törlés most">
 <!ENTITY pref_clear_private_data_category "Személyes adatok törlése">
-<!ENTITY pref_clear_on_exit_title "Törlés minden kilépéskor">
-<!ENTITY pref_clear_on_exit_summary2 "A &brandShortName; automatikusan törli az adatait, amikor a főmenü \u201eKilépés\u201d pontját választja. ">
+<!ENTITY pref_clear_on_exit_title2 "Törlés kilépéskor">
+<!ENTITY pref_clear_on_exit_summary2 "A &brandShortName; automatikusan törli az adatait, amikor a főmenü \u201eKilépés\u201d pontját választja">
 <!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Lapok, könyvjelzők, jelszavak, előzmények szinkronizálása">
 <!ENTITY pref_search_suggestions "Keresési javaslatok">
 <!ENTITY pref_import_android "Importálás Androidról">
+<!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
 <!ENTITY pref_private_data_history2 "Böngészés előzményei">
 <!ENTITY pref_private_data_formdata "Űrlap- és keresési előzmények">
 <!ENTITY pref_private_data_cookies2 "Sütik és aktív bejelentkezések">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hibajelentő">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; földrajzihely-szolgáltatás">
-<!ENTITY datareporting_wifi_geolocation_summary "Wi-Fi és mobilos földrajzihely-adatok fogadása a háttérben futva, és azok megosztása a &vendorShortName;val a földrajzihely-szolgáltatásunk fejlesztése érdekében">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "A készülék hozzávetőleges Wi-Fi és mobilhálózati helyének megosztása a &vendorShortName;val a helymeghatározási szolgáltatásunk fejlesztéséhez">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privát">
 <!ENTITY tabs_synced "Szinkronban">
 <!ENTITY set_image_fail "Nem állítható be kép">
+<!ENTITY set_image_path_fail "A kép nem menthető">
 <!ENTITY set_image_chooser_title "Kép beállítása mint">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Vissza: ">
 
+<!ENTITY home_remote_tabs_title "Szinkronizált lapok">
+<!ENTITY home_remote_tabs_empty "A lapok más készülékekről itt jelennek meg.">
+<!ENTITY home_remote_tabs_unable_to_connect "A kapcsolódás sikertelen">
+<!ENTITY home_remote_tabs_need_to_sign_in "Jelentkezzen be a Firefox fiókja újracsatlakoztatásához és a szinkronizálás folytatásához.">
+<!ENTITY home_remote_tabs_trouble_verifying "Probléma a fiók ellenőrzésekor?">
+<!ENTITY home_remote_tabs_need_to_verify "Ellenőrizze Firefox fiókját a szinkronizálás megkezdéséhez.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 készülék elrejtve">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; készülék elrejtve">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Rejtett készülékek">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Kijelölt eszközök megjelenítése">
+
 <!ENTITY private_browsing_title "Privát böngészés">
 <!ENTITY private_tabs_panel_empty_desc "A privát lapok itt jelennek meg. Noha nem tároljuk a böngészési előzményeket vagy a sütiket, a könyvjelzők és letöltött fájlok továbbra is mentésre kerülnek a készülékre.">
 <!ENTITY private_tabs_panel_learn_more "Szeretne többet tudni?">
+
+<!ENTITY remote_tabs_panel_moved_title "Hová tűntek a lapok?">
+<!ENTITY remote_tabs_panel_moved_desc "A más készülékekről származó lapokat a kezdőlap egy paneljére mozgattuk, amely új lap megnyitásakor mindig egyszerűen elérhető.">
+<!ENTITY remote_tabs_panel_moved_link "Látni szeretném az új panelt.">
 
 <!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
@@ -476,6 +510,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_apply_select2 "Koppintson a frissítéshez">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Indítsa újra a böngészőt a módosítások életbe lépéséhez">
+<!ENTITY new_tablet_pref "Új tablet felület bekapcsolása">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Új vendég munkamenet">
 <!ENTITY exit_guest_session "Vendég munkamenet elhagyása">
@@ -483,6 +523,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Mégse">
 <!ENTITY new_guest_session_title "A &brandShortName; most újraindul">
 <!ENTITY new_guest_session_text "Az ezt használók nem fogják látni az Ön személyes böngészési adatait (mentett jelszavakat, előzményeket vagy könyvjelzőket).\n\nAmikor a vendég végzett, a böngészési adatai törlésre kerülnek, és az Ön munkamenete visszaállításra kerül.">
+<!ENTITY guest_browsing_notification_title "A vendég böngészés bekapcsolva">
+<!ENTITY guest_browsing_notification_text "Koppintson a kilépéshez">
 
 <!ENTITY exit_guest_session_title "A &brandShortName; most újraindul">
 <!ENTITY exit_guest_session_text "A munkamenet böngészési adatai törlésre kerülnek.">

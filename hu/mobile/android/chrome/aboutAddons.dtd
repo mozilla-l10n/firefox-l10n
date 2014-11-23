@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Kiegészítők">
 <!ENTITY aboutAddons.header2                    "Kiegészítők">
 <!ENTITY aboutAddons.options                    "Beállítások">
-<!ENTITY aboutAddons.browseAll                  "Minden Firefox kiegészítő böngészése">
 
 <!ENTITY addonAction.enable                     "Engedélyezés">
 <!ENTITY addonAction.disable                    "Letiltás">
