@@ -6,14 +6,19 @@
 <!ENTITY aboutPage.telemetryStart               " Кини көмпүүтэр үлэтин, туохтан турарын, туттуу уонна туруоруулар тустарынан сибидиэнньэлэри манна ыыта турар ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " &brandShortName; тубустун диэн.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
+
+
+
+<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Install update">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Өйөбүл">
 <!ENTITY aboutPage.privacyPolicy.label          "Көмүскэл сиэрэ">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
+
+
 <!ENTITY aboutPage.credits.label                "Ааптардар">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">

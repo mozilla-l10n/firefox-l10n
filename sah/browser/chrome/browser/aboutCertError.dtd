@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Эн &brandShortName;-ка манна холбон диэбиккин <b>#1</b>, ол эрэн бу холбонуу көмүскэллээх холбонуу буоларын бигэргэтэр кыахпыт суох.">
+<!ENTITY certerror.introPara1 "Эн &brandShortName;-у кытта маны холбоору гынаҕын <b>#1</b>, ол эрэн бу холбонуу көмүскэллээх буоларын бигэргэтэр кыахпыт суох.">
 <!ENTITY certerror.introPara2 "Үксүн, көмүскэллээх холбонууну оҥоро сатаатахха, 
 ситим-сирдэр тургутуллубут идентификаторы көрдөрөллөр. 
 Кини сөптөөх сиргэ бараргын бигэргэтэр. Ол эрээри бу ситим-сир идентификатора биллибэтэ.">

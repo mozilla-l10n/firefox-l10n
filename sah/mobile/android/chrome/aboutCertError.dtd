@@ -19,7 +19,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Хайыыбыный?">
 <!ENTITY certerror.whatShouldIDo.content "Өскө бу ситим-сири кытта урут туох да эҥкилэ суох ситимнэһэр эбит буоллаххына бу алҕас ким эрэ ситим-сири атынынан уларыта сатыырыттан буолуон сөп. Оннук буоллаҕына салгыы үлэлиириҥ кутталлаах.">
-<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
+
 
 <!ENTITY certerror.expert.heading "Куттал суоһуурун толору өйдүүбүн">
 <!ENTITY certerror.expert.content "Туох буола турарын толору өйдүүр түгэҥҥэр 
@@ -28,7 +28,7 @@ was trying to connect. -->
 ким эрэ кыбылла сатыырын туоһулуон сөп.</b>">
 <!ENTITY certerror.expert.contentPara2 "Бу ситим-сир бигэргэтэр идентификаторы  
 тоҕо туттубатын чуолкай билбэт буоллаххына туорааһыны олохтоомо.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
+
 <!ENTITY certerror.addPermanentException.label "Мэлдьи баар буолар туорааһыны эп">
 
 <!ENTITY certerror.technical.heading "Техникаҕа сыһыаннаах информация">
