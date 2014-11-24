@@ -387,6 +387,11 @@ it is applicable. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Ukryte urządzenia">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ujawnij wybrane urządzenia">
 
+<!ENTITY home_remote_tabs_unable_to_connect "Nie udało się nawiązać połączenia">
+<!ENTITY home_remote_tabs_need_to_sign_in "Zaloguj się na konto Firefox, aby kontynuować synchronizację.">
+<!ENTITY home_remote_tabs_trouble_verifying "Masz problem z weryfikacją konta?">
+<!ENTITY home_remote_tabs_need_to_verify "Przed synchronizacją musisz zweryfikować konto Firefox.">
+
 <!ENTITY private_browsing_title "Tryb prywatny">
 <!ENTITY private_tabs_panel_empty_desc "Tu wyświetlą się twoje prywatne karty. Nie zachowamy historii przeglądania ani ciasteczek z tej sesji, ale zachowane zakładki i pobrane pliki zostaną na twoim urządzeniu.">
 <!ENTITY private_tabs_panel_learn_more "Chcesz dowiedzieć się więcej?">
