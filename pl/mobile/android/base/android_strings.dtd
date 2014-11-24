@@ -387,6 +387,8 @@ it is applicable. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Ukryte urządzenia">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ujawnij wybrane urządzenia">
 
+<!ENTITY home_remote_tabs_title "Zsynchronizowane">
+<!ENTITY home_remote_tabs_empty "Tutaj pojawią się twoje karty zsynchronizowane z innymi urządzeniami.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nie udało się nawiązać połączenia">
 <!ENTITY home_remote_tabs_need_to_sign_in "Zaloguj się na konto Firefox, aby kontynuować synchronizację.">
 <!ENTITY home_remote_tabs_trouble_verifying "Masz problem z weryfikacją konta?">
