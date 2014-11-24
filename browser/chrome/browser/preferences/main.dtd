@@ -31,6 +31,7 @@
 <!ENTITY alwaysAsk.label "Rákérdezés a fájlok letöltési helyére">
 <!ENTITY alwaysAsk.accesskey "R">
 
+<!ENTITY alwaysCheckDefault.label         "Indításkor mindig ellenőrizze, hogy a &brandShortName;-e az alapértelmezett böngésző">
 <!ENTITY alwaysCheckDefault2.label         "Mindig ellenőrizze, hogy a &brandShortName;-e az alapértelmezett böngésző">
 <!ENTITY alwaysCheckDefault2.accesskey    "M">
 <!ENTITY setAsMyDefaultBrowser.label      "Legyen a &brandShortName; az alapértelmezett böngészőm">
