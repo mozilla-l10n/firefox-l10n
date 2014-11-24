@@ -98,7 +98,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "书签">
+<!ENTITY overlay_share_bookmark_btn_label "添加书签">
 <!ENTITY overlay_share_reading_list_btn_label "添加到阅读列表">
 <!ENTITY overlay_share_send_other "发送到其他设备">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
