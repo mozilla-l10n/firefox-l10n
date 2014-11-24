@@ -80,7 +80,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name ' &formatS2; ਉੱਤੇ &formatS1;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'ਬੁੱਕਮਾਰਕ ਮੇਨੂ'>
@@ -150,7 +150,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਅਤੇ &formatS2;ਸਹਿਮਤ ਹਾਂ।'>
+<!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਤੇ &formatS2; ਸਹਿਮਤ ਹਾਂ।'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਸਾਇਨ ਇਨ'>
@@ -165,7 +165,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'ਜਾਂਚ ਲਿੰਕ &formatS; ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ'>
 <!ENTITY fxaccount_confirm_account_resend_email 'ਈਮੇਲ ਫੇਰ ਭੇਜੋl'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀਗਈ '>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਗਈ '>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
