@@ -15,7 +15,7 @@
 <!ENTITY quitApplicationCmd.accesskey "Q">
 
 <!ENTITY redoCmd.key "Y">
-
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 
