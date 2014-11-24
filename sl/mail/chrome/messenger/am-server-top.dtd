@@ -35,11 +35,11 @@
 <!ENTITY leaveOnServer.accesskey "u">
 <!ENTITY headersOnly.label "Prenesi samo glave">
 <!ENTITY headersOnly.accesskey "r">
-<!ENTITY deleteByAgeFromServer.label "Za največ">
+<!ENTITY deleteByAgeFromServer.label "za največ">
 <!ENTITY deleteByAgeFromServer.accesskey "n">
 <!ENTITY daysEnd.label "dni">
-<!ENTITY deleteOnServer2.label "Dokler jih ne izbrišem">
-<!ENTITY deleteOnServer2.accesskey "D">
+<!ENTITY deleteOnServer2.label "dokler jih ne izbrišem">
+<!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Samodejno prenesi nova sporočila">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Vaše prijavno ime">
