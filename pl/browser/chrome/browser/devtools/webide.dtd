@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "U">
 <!ENTITY projectMenu_showPrefs_label "Ustawienia">
 <!ENTITY projectMenu_showPrefs_accesskey "a">
+<!ENTITY projectMenu_manageComponents_label "Zarządzaj dodatkowymi komponentami">
+<!ENTITY projectMenu_manageComponents_accesskey "k">
 
 <!ENTITY runtimeMenu_label "Środowisko">
 <!ENTITY runtimeMenu_accesskey "o">
@@ -42,8 +44,6 @@
 <!ENTITY viewMenu_accesskey "W">
 <!ENTITY viewMenu_toggleEditor_label "Edytor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Menedżer symulatorów">
-<!ENTITY viewMenu_showAddons_accesskey "M">
 
 <!ENTITY projectButton_label "Otwórz aplikację">
 <!ENTITY runtimeButton_label "Wybierz środowisko">
@@ -86,7 +86,7 @@
 <!ENTITY prefs_editor_title "Edytor">
 <!ENTITY prefs_general_title "Ogólne">
 <!ENTITY prefs_restore "Przywróć domyślne">
-<!ENTITY prefs_simulators "Zarządzaj symulatorami">
+<!ENTITY prefs_manage_components "Zarządzaj dodatkowymi komponentami">
 <!ENTITY prefs_options_rememberlastproject "Przywracanie projektu">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Przywróć ostatni otwarty projekt podczas uruchamiania WebIDE">
 <!ENTITY prefs_options_templatesurl "Adres URL szablonów">
