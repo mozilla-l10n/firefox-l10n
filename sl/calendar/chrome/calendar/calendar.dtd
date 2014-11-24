@@ -287,7 +287,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel               "Končaj dremež">
+<!ENTITY calendar.alarm.snooze.cancel               "Prekini dremež">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Uredi koledar">
@@ -336,11 +336,11 @@
 <!ENTITY calendar.print.to.label "Za:">
 <!ENTITY calendar.print.settingsGroup.label "Nastavitve tiskanja">
 <!ENTITY calendar.print.optionsGroup.label "Možnosti">
-<!ENTITY calendar.print.taskswithnoduedate.label "Opravila brez datuma izteka">
+<!ENTITY calendar.print.taskswithnoduedate.label "Opravila brez roka">
 <!ENTITY calendar.print.completedtasks.label "Dokončana opravila">
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.detail "Podrobnosti…">
+<!ENTITY calendar.error.detail "Podrobnosti …">
 <!ENTITY calendar.error.code "Koda napake:">
 <!ENTITY calendar.error.description "Opis:">
 <!ENTITY calendar.error.title "Prišlo je do napake">
