@@ -486,6 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "i">
 <!ENTITY emailAudioCmd.label          "Hang küldése e-mailben…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "Videó eszközre küldése">
+<!ENTITY castVideoCmd.accesskey       "V">
 <!ENTITY playPluginCmd.label          "Ezen bővítmény aktiválása">
 <!ENTITY playPluginCmd.accesskey      "k">
 <!ENTITY hidePluginCmd.label          "Bővítmény elrejtése">
