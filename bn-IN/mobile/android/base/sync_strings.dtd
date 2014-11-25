@@ -149,14 +149,14 @@
      etc).  The account remains a "Firefox Account". -->
 
 <!ENTITY fxaccount_create_account_header2 "একটি নতুন Firefox অ্যাকাউন্ট তৈরি করুন">
-<!ENTITY fxaccount_create_account_password_length_restriction "অন্তত ৮ অক্ষর বিশিষ্ট হওয়া আবশ্যক">
+<!ENTITY fxaccount_create_account_password_length_restriction "অন্তত 8 অক্ষর বিশিষ্ট হওয়া আবশ্যক">
 <!ENTITY fxaccount_create_account_year_of_birth "জন্মের সাল">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "আমি ফায়ারফক্স ক্লাউড সার্ভিস সমূহের &formatS1; এবং &formatS2; সেবাগুলির সাথে সম্মত হয়েই অগ্রসর হচ্ছি।">
 <!ENTITY fxaccount_create_account_button "পরবর্তী">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "কি সিঙ্ক করবেন তা বাছুন">
 <!ENTITY fxaccount_create_account_sign_in_instead "ইতিমধ্যে একটি একাউন্ট আছে? সাইন ইন করুন">
-<!ENTITY fxaccount_create_account_1990_or_earlier "১৯৯০ অথবা আগের">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 অথবা আগের">
 <!ENTITY fxaccount_create_account_unknown_error "অ্যাকাউন্ট তৈরি করা যাচ্ছে না">
 
 <!ENTITY fxaccount_account_create_not_allowed "অ্যাকাউন্ট তৈরি করা যায়নি">
