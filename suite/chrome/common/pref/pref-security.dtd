@@ -12,6 +12,8 @@
 <!ENTITY doNotTrack.accesskey             "O">
 <!ENTITY trackProtect.label               "Obmedziť sledovacie aktivity známych stránok">
 <!ENTITY trackProtect.accesskey           "m">
+<!ENTITY warnTrackContent.label           "Upozorniť ma, ak sa zistia známe sledovacie aktivity">
+<!ENTITY warnTrackContent.accesskey       "U">
 
 <!ENTITY geoLocation.label                "Prehliadanie s prezradením polohy">
 <!ENTITY geoIntro.label                   "Webové stránky môžu požadovať informácie o vašej aktuálnej polohe.">
