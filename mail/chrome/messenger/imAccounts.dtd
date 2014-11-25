@@ -9,7 +9,7 @@
 <!ENTITY accountManager.close.label          "Zapri">
 <!ENTITY accountManager.close.accesskey      "Z">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "O ">
+<!ENTITY accountManager.close.commandkey     "O">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ni še nastavljenih računov">
 <!ENTITY accountManager.noAccount.description "Kliknite na gumb &accountManager.newAccount.label;, da vam &brandShortName; pomaga odpreti račun.">
