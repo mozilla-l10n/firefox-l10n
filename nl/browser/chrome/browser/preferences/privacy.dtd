@@ -19,13 +19,13 @@
 
 <!ENTITY  locationBar.label             "Locatiebalk">
 
-<!ENTITY  locbar.pre.label              "Bij gebruik van de locatiebalk, suggereren:">
-<!ENTITY  locbar.pre.accessKey          "e">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Geschiedenis en bladwijzers">
+<!ENTITY  locbar.suggest.label          "Bij gebruik van de locatiebalk, suggereren:">
 <!ENTITY  locbar.history.label          "Geschiedenis">
+<!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Bladwijzers">
-<!ENTITY  locbar.nothing.label          "Niets">
+<!ENTITY  locbar.bookmarks.accesskey    "d">
+<!ENTITY  locbar.openpage.label         "Open tabbladen">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
