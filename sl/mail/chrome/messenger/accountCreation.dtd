@@ -4,7 +4,7 @@
 
 <!ENTITY autoconfigWizard.title          "Nastavitev poštnega računa">
 <!ENTITY name.label                      "Vaše ime:">
-<!ENTITY name.accesskey                  "V">
+<!ENTITY name.accesskey                  "m">
 <!ENTITY name.placeholder                "Ime Priimek">
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY email.label                     "E-poštni naslov:">
@@ -20,11 +20,11 @@
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
 <!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
-<!ENTITY incoming.label                  "Dohodni:">
-<!ENTITY outgoing.label                  "Dohodni:">
+<!ENTITY incoming.label                  "Dohodno:">
+<!ENTITY outgoing.label                  "Odhodno:">
 <!ENTITY username.label                  "Uporabniško ime:">
 <!ENTITY hostname.label                  "Ime strežnika">
-<!ENTITY port.label                      "Port">
+<!ENTITY port.label                      "Vrata">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Overitev">
 <!ENTITY imap.label                      "IMAP">
@@ -40,7 +40,7 @@
 <!ENTITY advancedSetup.label             "Napredna nastavitev …">
 <!ENTITY advancedSetup.accesskey         "N">
 <!ENTITY cancel.label                    "Prekliči">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "P">
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
 <!ENTITY stop.label                      "Ustavi">
@@ -50,11 +50,11 @@
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ponovno preveri">
-<!ENTITY half-manual-test.accesskey      "P">
+<!ENTITY half-manual-test.accesskey      "o">
 <!ENTITY manual-edit.label               "Ročna nastavitev">
 <!ENTITY manual-edit.accesskey           "R">
 <!ENTITY switch-to-provisioner.label     "Pridobi si nov račun">
-<!ENTITY switch-to-provisioner.accesskey "P">
+<!ENTITY switch-to-provisioner.accesskey "r">
 
 
 <!ENTITY warning.label                   "Opozorilo!">

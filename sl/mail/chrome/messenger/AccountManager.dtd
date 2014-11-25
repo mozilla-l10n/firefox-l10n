@@ -9,17 +9,17 @@
 <!ENTITY accountActionsButton.label "Dejanja z računi">
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Dodaj račun …">
-<!ENTITY addMailAccountButton.accesskey "a">
+<!ENTITY addMailAccountButton.accesskey "r">
 <!ENTITY addIMAccountButton.label "Dodaj račun za klepet …">
 <!ENTITY addIMAccountButton.accesskey "k">
 <!ENTITY addFeedAccountButton.label "Dodaj račun za vir …">
 <!ENTITY addFeedAccountButton.accesskey "v">
 <!ENTITY addOtherAccountButton.label "Dodaj drug račun …">
-<!ENTITY addOtherAccountButton.accesskey "D">
+<!ENTITY addOtherAccountButton.accesskey "u">
 <!ENTITY setDefaultButton.label "Privzet račun">
 <!ENTITY setDefaultButton.accesskey "P">
 <!ENTITY removeButton.label "Odstrani račun">
-<!ENTITY removeButton.accesskey "d">
+<!ENTITY removeButton.accesskey "O">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

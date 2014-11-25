@@ -368,7 +368,7 @@
 <!ENTITY copyMsgToMenu.label "Kopiraj v">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Ponovno premakni">
-<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgain.accesskey "k">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
 <!ENTITY killThreadMenu.accesskey "z">
@@ -873,7 +873,7 @@
 <!ENTITY stopCmd.label "Ustavi">
 <!ENTITY stopCmd.accesskey "s">
 <!ENTITY reloadCmd.label "Ponovno naloži">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "P">
 <!ENTITY openInBrowser.label "Odpri v brskalniku">
 <!ENTITY openInBrowser.accesskey "p">
 <!ENTITY openLinkInBrowser.label "Odpri povezavo v brskalniku">
