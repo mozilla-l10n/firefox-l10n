@@ -41,5 +41,5 @@
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador padrão">
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador padrão">
 
-
+<!ENTITY useFirefoxSync.label             "Dica: Este utiliza perfis separados. Use o Sync para compartilhar dados entre eles.">
 
