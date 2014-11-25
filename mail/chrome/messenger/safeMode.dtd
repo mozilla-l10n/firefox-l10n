@@ -15,7 +15,7 @@
 <!ENTITY resetToolbars.accesskey          "P">
 
 <!ENTITY changeAndRestartButton.label     "Izvedi spremembe in ponovno poženi">
-<!ENTITY changeAndRestartButton.accesskey "I">
+<!ENTITY changeAndRestartButton.accesskey "z">
 
 <!ENTITY continueButton.label             "Nadaljuj v varnem načinu">
 <!ENTITY continueButton.accesskey         "N">

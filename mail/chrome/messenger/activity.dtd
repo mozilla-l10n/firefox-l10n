@@ -20,10 +20,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "U">
 <!ENTITY cmd.recover.label                "Obnovi">
 <!ENTITY cmd.recover.accesskey            "O">
-<!ENTITY cmd.retry.label                  "Poizkusi znova">
-<!ENTITY cmd.retry.accesskey              "z">
+<!ENTITY cmd.retry.label                  "Poskusi znova">
+<!ENTITY cmd.retry.accesskey              "s">
 <!ENTITY cmd.removeFromList.label         "Odstrani s seznama">
-<!ENTITY cmd.removeFromList.accesskey     "s">
+<!ENTITY cmd.removeFromList.accesskey     "d">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
@@ -34,4 +34,4 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Poišči…">
+<!ENTITY searchBox.label                  "Poišči …">
