@@ -41,7 +41,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY back.label               "&lt; nazaj">
 <!ENTITY forward.label            "Naprej &gt;">
-<!ENTITY finish.label             "Dokončaj">
+<!ENTITY finish.label             "Končaj">
 <!ENTITY cancel.label             "Prekliči">
 
 <!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
