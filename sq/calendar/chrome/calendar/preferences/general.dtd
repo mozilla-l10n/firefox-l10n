@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "I gjatë" >
 <!ENTITY pref.dateformat.short "I shkurtër"  >
-<!ENTITY pref.defaultlength.label "Zgjatje Parazgjedhje e Veprimtarisë:" >
-<!ENTITY pref.defaultlength.accesskey "N">
-<!ENTITY pref.defaultsnoozelength.label "Zgjatje Parazgjedhje e Dremitjes:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "D">
+
+<!ENTITY pref.defaults.label "Vlera Parazgjedhje për Zëra të Rinj">
+<!ENTITY pref.events.label "Veprimtari">
+<!ENTITY pref.tasks.label "Punë">
+
+<!ENTITY pref.default_event_length.label "Kohëzgjatje Parazgjedhje:" >
+<!ENTITY pref.default_event_length.accesskey "K">
+
+<!ENTITY pref.default_task_none.label "Asnjë">
+<!ENTITY pref.default_task_start_of_day.label "Fillim Dite">
+<!ENTITY pref.default_task_end_of_day.label "Fund Dite">
+<!ENTITY pref.default_task_tomorrow.label "Nesër">
+<!ENTITY pref.default_task_next_week.label "Javën Pasuese">
+<!ENTITY pref.default_task_offset_current.label "E lidhur me Kohën e Tanishme">
+<!ENTITY pref.default_task_offset_start.label "E lidhur me Fillimin">
+<!ENTITY pref.default_task_offset_next_hour.label "E lidhur me Orën Pasuese">
 
 <!ENTITY pref.accessibility.label "Përdorshmëri" >
 <!ENTITY pref.systemcolors.label "Optimizo ngjyrat për përdorshmëri" >
