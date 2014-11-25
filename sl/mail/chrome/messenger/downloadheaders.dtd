@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY all.label          "Prenesi vse glave">
-<!ENTITY all.accesskey      "D">
+<!ENTITY all.accesskey      "v">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -17,4 +17,4 @@
 <!ENTITY headers.label      "glave">
 <!ENTITY headers.accesskey  "h">
 <!ENTITY mark.label         "Označi preostale glave kot prebrane">
-<!ENTITY mark.accesskey     "M">
+<!ENTITY mark.accesskey     "O">

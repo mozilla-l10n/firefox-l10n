@@ -23,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Digitalno podpisovanje">
 <!ENTITY signMessage.label "Digitalno podpiši sporočila (privzeto)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Uporabi to potrdilo za digitalni podpis sporočila, ki ga pošiljate:">
+<!ENTITY signingCert.message "Uporabi to potrdilo za digitalno podpisovanje sporočil, ki jih pošiljate:">
 
 <!ENTITY certificates.label "Digitalna potrdila">
 <!ENTITY manageCerts.label "Pokaži potrdila">
