@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY email.label                     "E-poštni naslov:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@naprimer.com">
+<!ENTITY email.placeholder               "epošta@primer.com">
 <!ENTITY password.label                  "Geslo:">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Geslo">
