@@ -5,12 +5,12 @@
 <!ENTITY window.title "Filtri sporočil">
 <!ENTITY nameColumn.label "Ime filtra">
 <!ENTITY activeColumn.label "Omogočeno">
-<!ENTITY newButton.label "Nov…">
+<!ENTITY newButton.label "Nov …">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Urejaj…">
+<!ENTITY editButton.label "Uredi …">
 <!ENTITY editButton.accesskey "U">
-<!ENTITY deleteButton.label "Zbriši">
-<!ENTITY deleteButton.accesskey "b">
+<!ENTITY deleteButton.label "Izbriši">
+<!ENTITY deleteButton.accesskey "z">
 <!ENTITY reorderTopButton "Premakni na vrh">
 <!ENTITY reorderTopButton.accessKey "V">
 <!ENTITY reorderTopButton.toolTip "Preuredi filter, tako da se izvede pred vsemi ostalimi">
@@ -19,7 +19,7 @@
 <!ENTITY reorderDownButton.label "Premakni dol">
 <!ENTITY reorderDownButton.accesskey "d">
 <!ENTITY reorderBottomButton "Premakni na dno">
-<!ENTITY reorderBottomButton.accessKey "N">
+<!ENTITY reorderBottomButton.accessKey "o">
 <!ENTITY reorderBottomButton.toolTip "Preuredi filter, tako da se izvede za vsemi ostalimi">
 <!ENTITY filterHeader.label "Omogočeni filtri se samodejno zaženejo po spodnjem vrstnem redu.">
 <!ENTITY filtersForPrefix.label "Filtri za:">

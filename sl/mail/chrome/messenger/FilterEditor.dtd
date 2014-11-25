@@ -4,25 +4,25 @@
 
 <!ENTITY window.title "Pravila za filtriranje">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Ime filtra">
-<!ENTITY filterName.accesskey "I">
+<!ENTITY filterName.label "Ime filtra:">
+<!ENTITY filterName.accesskey "m">
 
 <!ENTITY junk.label "Neželeno">
-<!ENTITY notJunk.label "Niso smeti">
+<!ENTITY notJunk.label "Ni neželeno">
 
 <!ENTITY lowestPriorityCmd.label "Najnižje">
 <!ENTITY lowPriorityCmd.label "Nizko">
-<!ENTITY normalPriorityCmd.label "Normalno">
+<!ENTITY normalPriorityCmd.label "Običajno">
 <!ENTITY highPriorityCmd.label "Visoko">
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
 <!ENTITY contextDesc.label "Uporabi filter:">
-<!ENTITY contextIncomingMail.label "Prejem nove pošte:">
-<!ENTITY contextIncomingMail.accesskey "P">
-<!ENTITY contextManual.label "Ročni zagon">
-<!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Preverjanje pošte pred razvrščanjem">
-<!ENTITY contextAfterCls.label "Preverjanje pošte po razvrščanju">
+<!ENTITY contextIncomingMail.label "prejemu nove pošte:">
+<!ENTITY contextIncomingMail.accesskey "r">
+<!ENTITY contextManual.label "ročni zagon">
+<!ENTITY contextManual.accesskey "r">
+<!ENTITY contextBeforeCls.label "Filtriraj pred razvrščanjem neželene pošte">
+<!ENTITY contextAfterCls.label "Filtriraj po razvrščanju neželene pošte">
 
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "I">
@@ -38,7 +38,7 @@
 <!ENTITY markMessageRead.label "Označi kot prebrano">
 <!ENTITY markMessageUnread.label "Označi kot neprebrano">
 <!ENTITY markMessageStarred.label "Dodaj zvezdico">
-<!ENTITY setPriority.label "Nastavi prioriteto na">
+<!ENTITY setPriority.label "Nastavi prednost na">
 <!ENTITY addTag.label "Označi sporočilo">
 <!ENTITY setJunkScore.label "Nastavi stanje Neželeno na">
 <!ENTITY deleteMessage.label "Izbriši sporočilo">
@@ -46,11 +46,11 @@
 <!ENTITY fetchFromPOP.label "Prenesi s POP strežnika">
 <!ENTITY ignoreThread.label "Prezri nit">
 <!ENTITY ignoreSubthread.label "Prezri podnit">
-<!ENTITY watchThread.label "Opazuj nit">
+<!ENTITY watchThread.label "Spremljaj nit">
 <!ENTITY stopExecution.label "Ustavi izvajanje filtra">
 
-<!ENTITY addAction.tooltip "Dodaj nov ukrep">
-<!ENTITY removeAction.tooltip "Odstrani ta ukrep">
+<!ENTITY addAction.tooltip "Dodaj novo dejanje">
+<!ENTITY removeAction.tooltip "Odstrani to dejanje">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
