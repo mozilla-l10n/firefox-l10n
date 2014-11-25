@@ -5,8 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
 <!ENTITY generalInfo.label                       "Splošni podatki">
-<!ENTITY folderCharsetFallback.label             "Privzet nabor znakov:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
+<!ENTITY folderCharsetFallback.label             "Pomožni nabor znakov:">
+<!ENTITY folderCharsetFallback.accesskey         "P">
 <!ENTITY folderCharsetEnforce.label              "Uveljavi nabor za vsa sporočila v mapi (nastavitve nabora znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
 <!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
@@ -23,7 +23,7 @@
 <!ENTITY message.label "sporočil">
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila.">
 <!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, krajevna in sporočila na oddaljenem strežniku.">
-<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
+<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z izvirniki na oddaljenem strežniku.">
 <!ENTITY retentionDeleteMsg.label "Izbriši sporočila starejša kot">
 <!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Ne izbriši nobenih sporočil">
@@ -50,18 +50,18 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
 <!ENTITY folderProps.name.label                  "Ime:">
-<!ENTITY folderProps.name.accesskey              "I">
+<!ENTITY folderProps.name.accesskey              "m">
 <!ENTITY folderProps.location.label              "Mesto:">
 <!ENTITY folderProps.location.accesskey          "M">
 
 <!ENTITY folderSharingTab.label                  "Skupna raba">
-<!ENTITY privileges.button.label                 "Privilegiji…">
+<!ENTITY privileges.button.label                 "Pooblastila …">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Imate naslednja dovoljenja:">
 <!ENTITY folderType.label                        "Vrsta mape:">
 
-<!ENTITY folderQuotaTab.label                    "Kvota">
-<!ENTITY folderQuotaRoot.label                   "Kvota koren:">
+<!ENTITY folderQuotaTab.label                    "Količinska omejitev">
+<!ENTITY folderQuotaRoot.label                   "Koren količinske omejitve:">
 <!ENTITY folderQuotaUsage.label                  "Uporaba:">
 <!ENTITY folderQuotaStatus.label                 "Stanje:">
 
