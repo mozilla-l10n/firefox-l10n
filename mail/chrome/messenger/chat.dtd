@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "Stiki na spletu">
-<!ENTITY offlineContactsHeader.label   "Stiki prez povezave">
+<!ENTITY onlineContactsHeader.label    "Povezani stiki">
+<!ENTITY offlineContactsHeader.label   "Nepovezani stiki">
 <!ENTITY conversationsHeader.label     "Pogovori">
 <!ENTITY searchResultConversation.label "Rezultat iskanja">
 <!ENTITY chat.noConv.title             "Pogovore se bo prikazovalo tu.">

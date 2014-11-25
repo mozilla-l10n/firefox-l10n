@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "m">
 <!ENTITY helpTroubleshootingInfo.label     "Podatki o reševanju težav">
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki…">
+<!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki …">
 <!ENTITY helpSafeMode.accesskey "ž">
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
 <!ENTITY releaseCmd2.accesskey "O">

@@ -71,7 +71,7 @@
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
 <!ENTITY abbreviateOn.label "Polna imena (Na primer, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Skrajšajte imena (Na primer, 'n.p.m.mail-news')">
+<!ENTITY abbreviateOff.label "Skrajšaj imena (Na primer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno …">
 <!ENTITY advancedButton.accesskey "N">
 <!ENTITY serverDefaultCharset.label "Privzeto kodiranje znakov:">
