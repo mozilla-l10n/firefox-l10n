@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "Koha parazgjedhje pas së cilës një alarm pushon përpara një pune:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Adresë parazgjedhje për dërgim alarmesh:">
-<!ENTITY pref.defaulttext.label "Tekst parazgjedhje për alarmet:">
+
+<!ENTITY pref.defaultsnoozelength.label "Kohëzgjatje Parazgjedhje Dremitjeje:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "K">
