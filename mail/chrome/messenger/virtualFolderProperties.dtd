@@ -8,7 +8,7 @@
 <!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Nastavite merila za iskanje, ki se uporabljajo za to mapo shranjena iskanja: ">
+<!ENTITY searchTermCaption.label "Nastavite merila za iskanje, ki se uporabljajo za to mapo shranjenega iskanja: ">
 
 <!ENTITY folderSelectionCaption.label "Izberite mape za iskanje: ">
 <!ENTITY chooseFoldersButton.label "Izberi …">

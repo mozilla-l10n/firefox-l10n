@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName; varni način">
+<!ENTITY safeModeDialog.title             "&brandShortName;ov Varni način">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; teče zdaj v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
-<!ENTITY safeModeDescription2.label       "Nekatere ali vse te spremembe lahko naredite za stalno:">
+<!ENTITY safeModeDescription.label        "&brandShortName; se zdaj izvaja v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
+<!ENTITY safeModeDescription2.label       "Nekatere ali vse te spremembe lahko naredite trajne:">
 
 <!ENTITY disableAddons.label              "Onemogoči vse dodatke">
 <!ENTITY disableAddons.accesskey          "O">
 
-<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in kontrolne elemente">
+<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in nadzorne elemente">
 <!ENTITY resetToolbars.accesskey          "P">
 
 <!ENTITY changeAndRestartButton.label     "Izvedi spremembe in ponovno poženi">

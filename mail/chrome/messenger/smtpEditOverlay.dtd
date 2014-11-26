@@ -7,13 +7,13 @@
 <!ENTITY serverName.label "Ime strežnika:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Opis:">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.accesskey "O">
 <!ENTITY serverPort.label "Vrata:">
 <!ENTITY serverPort.accesskey "V">
 <!ENTITY userName.label "Uporabniško ime:">
-<!ENTITY userName.accesskey "i">
+<!ENTITY userName.accesskey "U">
 <!ENTITY connectionSecurity.label "Varnost povezave:">
-<!ENTITY connectionSecurity.accesskey "o">
+<!ENTITY connectionSecurity.accesskey "a">
 <!ENTITY connectionSecurityType-0.label "Brez">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, če je na voljo">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">

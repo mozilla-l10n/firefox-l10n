@@ -7,8 +7,8 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
-<!ENTITY clearTimeDuration.label          "Časovni obseg brisanja: ">
-<!ENTITY clearTimeDuration.accesskey      "o">
+<!ENTITY clearTimeDuration.label          "Časovno obdobje brisanja: ">
+<!ENTITY clearTimeDuration.accesskey      "Č">
 <!ENTITY clearTimeDuration.lastHour       "Zadnja ura">
 <!ENTITY clearTimeDuration.last2Hours     "Zadnji dve uri">
 <!ENTITY clearTimeDuration.last4Hours     "Zadnje štiri ure">
@@ -22,11 +22,11 @@ that require it.  -->
      480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label     "Podrobnosti">
-<!ENTITY detailsProgressiveDisclosure.accesskey "i">
+<!ENTITY detailsProgressiveDisclosure.accesskey "P">
 
 <!ENTITY itemHistory.label                 "Zgodovina brskanja">
 <!ENTITY itemHistory.accesskey             "b">
-<!ENTITY itemCookies.label                 "Piškoti">
+<!ENTITY itemCookies.label                 "Piškotki">
 <!ENTITY itemCookies.accesskey             "P">
 <!ENTITY itemCache.label                   "Predpomnilnik">
 <!ENTITY itemCache.accesskey               "r">

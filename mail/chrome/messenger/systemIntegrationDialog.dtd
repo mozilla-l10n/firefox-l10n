@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title  "Sistemska integracija">
+<!ENTITY systemIntegration.title  "Sistemska povezljivost">
 <!ENTITY acceptIntegration.label  "Nastavi kot privzeto">
-<!ENTITY cancelIntegration.label  "Preskoči integracijo">
+<!ENTITY cancelIntegration.label  "Preskoči povezljivost">
 <!ENTITY cancelIntegration2.label  "Prekliči">
 <!ENTITY defaultClient.intro  "Uporabi &brandShortName; kot privzeti program za:">
 
