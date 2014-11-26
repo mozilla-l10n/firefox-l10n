@@ -2,54 +2,67 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "Propriedades">
-<!ENTITY generalInfo.label "Geral">
-<!ENTITY folderCharsetTab.label "Codificação padrão:">
-<!ENTITY folderCharsetTab.accesskey "F">
-<!ENTITY folderCharsetOverride.label "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Reconstruir índice">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Reconstruir arquivo de índice">
+<!ENTITY folderProps.windowtitle.label           "Propriedades">
+
+<!ENTITY generalInfo.label                       "Geral">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY retention.label "Política de retenção">
-<!ENTITY retentionUseDefault.label "Usar o padrão do servidor">
-<!ENTITY retentionUseDefault.accesskey "p">
+
+
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens mais recentes">
 <!ENTITY retentionCleanup.label "Manter:">
-<!ENTITY retentionKeepAll.label "Todas as mensagens">
-<!ENTITY retentionKeepAll.accesskey "T">
-<!ENTITY retentionKeepNew.label "As">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Somente mensagens não-lidas">
-<!ENTITY retentionKeepUnread.accesskey "n">
-<!ENTITY folderOfflineTab.label "Modo desconectado">
-<!ENTITY folderCheckForNewMessages.label "Verificar esta pasta por novas mensagens">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
-<!ENTITY offlineFolder.check.label "Selecionar a pasta para leitura em modo desconectado">
-<!ENTITY offlineFolder.check.accesskey "S">
-<!ENTITY offlineFolder.button.label "Baixar agora">
-<!ENTITY offlineFolder.button.accesskey "B">
-<!ENTITY selectofflineNewsgroup.check.label "Selecionar este newsgroup para leitura em modo desconectado">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY offlineNewsgroup.button.label "Baixar agora">
-<!ENTITY offlineNewsgroup.button.accesskey "B">
-<!ENTITY folderProps.name.label "Nome:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderSharingTab.label "Compartilhamento">
-<!ENTITY privileges.button.label "Privilégios...">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "Você possui as seguintes permissões:">
-<!ENTITY folderType.label "Pasta de tipo:">
-<!ENTITY folderQuotaTab.label "Cota">
-<!ENTITY folderQuotaRoot.label "Raiz de cotas:">
-<!ENTITY folderQuotaUsage.label "Uso:">
-<!ENTITY folderQuotaStatus.label "Status:">
-<!ENTITY folderProps.location.accesskey          "E">
-<!ENTITY folderProps.location.label              "Endereço:">
-<!ENTITY retentionDeleteMsg.label "Apagar mensagens recebidas há mais">
-<!ENTITY retentionDeleteMsg.accesskey "r">
-<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
-<!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY retentionCleanupImap.label "Manter mensagens, tanto cópias locais quanto suas originais no servidor:">
 <!ENTITY retentionCleanupPop.label "Manter mensagens, incluindo suas originais no servidor:">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens recebidas há mais">
+<!ENTITY retentionDeleteMsg.accesskey "r">
+<!ENTITY retentionKeepAll.label "Todas as mensagens">
+<!ENTITY retentionKeepAll.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
+<!ENTITY retentionApplyToFlagged.accesskey "S">
+
+
+
+
+<!ENTITY offlineFolder.check.label               "Selecionar a pasta para leitura em modo desconectado">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Baixar agora">
+<!ENTITY offlineFolder.button.accesskey          "B">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este newsgroup para leitura em modo desconectado">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Baixar agora">
+<!ENTITY offlineNewsgroup.button.accesskey       "B">
+
+<!ENTITY folderProps.name.label                  "Nome:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Endereço:">
+<!ENTITY folderProps.location.accesskey          "E">
+
+<!ENTITY folderSharingTab.label                  "Compartilhamento">
+<!ENTITY privileges.button.label                 "Privilégios...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Você possui as seguintes permissões:">
+<!ENTITY folderType.label                        "Pasta de tipo:">
+
+<!ENTITY folderQuotaTab.label                    "Cota">
+<!ENTITY folderQuotaRoot.label                   "Raiz de cotas:">
+<!ENTITY folderQuotaUsage.label                  "Uso:">
+<!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

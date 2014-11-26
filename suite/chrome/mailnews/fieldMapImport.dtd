@@ -18,3 +18,4 @@
 <!ENTITY fieldMapImport.dataTitle "Gravar dados de importação">
 <!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registro contém nomes de campos">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "r">
+

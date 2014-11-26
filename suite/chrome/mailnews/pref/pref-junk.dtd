@@ -5,21 +5,31 @@
 <!ENTITY pref.junk.title "Spam">
 <!ENTITY junkSettings.caption "Configurações globais">
 <!ENTITY junkMail.intro "Configurações globais de spam.">
-<!ENTITY manualMark.label "Quando eu marcar uma mensagem como spam:">
-<!ENTITY manualMark.accesskey "s">
-<!ENTITY manualMarkModeMove.label "Movê-la para a pasta &quot;Spam&quot;">
-<!ENTITY manualMarkModeMove.accesskey "M">
-<!ENTITY manualMarkModeDelete.label "Excluí-la">
+<!-- Junk Mail Controls -->
+
+<!ENTITY manualMark.label               "Quando eu marcar uma mensagem como spam:">
+<!ENTITY manualMark.accesskey           "s">
+<!ENTITY manualMarkModeMove.label       "Movê-la para a pasta &quot;Spam&quot;">
+<!ENTITY manualMarkModeMove.accesskey   "M">
+<!ENTITY manualMarkModeDelete.label     "Excluí-la">
 <!ENTITY manualMarkModeDelete.accesskey "x">
-<!ENTITY enableJunkLogging.label "Ativar o log do filtro anti-spam">
-<!ENTITY enableJunkLogging.accesskey "l">
-<!ENTITY openJunkLog.label "Exibir log">
-<!ENTITY openJunkLog.accesskey "b">
-<!ENTITY resetTrainingData.label "Excluir o treinamento">
-<!ENTITY resetTrainingData.accesskey "t">
+
+<!ENTITY markAsRead.intro               "Marcar mensagens como lidas:">
 <!ENTITY autoMarkAsRead.label           "Quando o &brandShortName; determina que elas são spam">
 <!ENTITY autoMarkAsRead.accesskey       "d">
 <!ENTITY manualMarkAsRead.label         "Quando eu, manualmente, marcá-las como spam">
 <!ENTITY manualMarkAsRead.accesskey     "m">
 
-<!ENTITY markAsRead.intro               "Marcar mensagens como lidas:">
+<!ENTITY enableJunkLogging.label        "Ativar o log do filtro anti-spam">
+<!ENTITY enableJunkLogging.accesskey    "l">
+<!ENTITY openJunkLog.label              "Exibir log">
+<!ENTITY openJunkLog.accesskey          "b">
+<!ENTITY resetTrainingData.label        "Excluir o treinamento">
+<!ENTITY resetTrainingData.accesskey    "t">
+
+<!-- Phishing Detector -->
+
+
+<!-- Anti Virus -->
+
+

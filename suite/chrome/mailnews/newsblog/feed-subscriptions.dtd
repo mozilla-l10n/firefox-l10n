@@ -1,22 +1,36 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Inscrições RSS">
-<!ENTITY subscriptionDesc.label "Nota: Remover ou trocar a pasta para um RSS não afetará itens baixados anteriormente.">
-<!ENTITY feedTitle.label "Título:">
-<!ENTITY location.label  "Endereço:">
+<!ENTITY subscriptionDesc.label      "Nota: Remover ou trocar a pasta para um RSS não afetará itens baixados anteriormente.">
 
-<!ENTITY button.addFeed.label       "Adicionar">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Editar">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Remover">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "Importar">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exportar">
-<!ENTITY button.exportOPML.accesskey   "X">
 
-<!ENTITY cmd.close.commandKey             "w">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY button.addFeed.label        "Adicionar">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Editar">
+<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.removeFeed.label     "Remover">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label     "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportar">
+<!ENTITY button.exportOPML.accesskey "x">
+
+
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Fechar">

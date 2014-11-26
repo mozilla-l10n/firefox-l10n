@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "Nome:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Endereço:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "E">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY editBookmarkOverlay.description.label               "Descrição:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+
+
+
+
+
+
+

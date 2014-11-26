@@ -2,33 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.formatting.title "Formato de envio">
-<!ENTITY sendMaildesc.label "Quando enviar emails em HTML e um destinatário não estiver definido para receber nesse formato:">
-<!ENTITY askMe.label "Perguntar qual é o formato desejado">
-<!ENTITY askMe.accesskey "p">
-<!ENTITY convertPlain.label "Enviar só como texto sem formatação (alguma formatação será perdida)">
-<!ENTITY convertPlain.accesskey "c">
-<!ENTITY sendHTML.label "Enviar só em HTML (programas antigos não exibirão a mensagem)">
-<!ENTITY sendHTML.accesskey "s">
-<!ENTITY sendBoth.label "Enviar em ambos os formatos (a mensagem terá maior tamanho)">
-<!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Você pode alterar estas opções para cada mensagem usando o menu Opções enquanto redige a mensagem.">
-<!ENTITY domain.title "Ao enviar emails para um dos domínios abaixo">
-<!ENTITY domaindesc.label "Ao enviar uma mensagem para um dos domínios listados abaixo, o SeaMonkey Email &amp; grupos de notícias automaticamente envia a mensagem no formato correto (texto formatado ou texto sem formatação).">
-<!ENTITY HTMLdomaintitle.label "Enviar em HTML:">
-<!ENTITY HTMLdomaintitle.accesskey "H">
-<!ENTITY PlainTexttitle.label "Enviar como texto sem formatação:">
-<!ENTITY PlainTexttitle.accesskey "t">
-<!ENTITY AddButton.label "Adicionar...">
-<!ENTITY AddHtmlDomain.accesskey "A">
-<!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteButton.label "Excluir">
-<!ENTITY DeleteHtmlDomain.accesskey "x">
-<!ENTITY DeletePlainText.accesskey "u">
-<!ENTITY add.htmltitle "Adicionar um domínio">
-<!ENTITY add.htmldomain "Domínio de HTML:">
-<!ENTITY add.plaintexttitle "Adicionar um domínio">
-<!ENTITY add.plaintextdomain "Domínio de texto sem formatação:">
-<!ENTITY domainnameError.title "Erro de nome de domínio">
+<!ENTITY pref.formatting.title        "Formato de envio">
+<!ENTITY sendMaildesc.label           "Quando enviar emails em HTML e um destinatário não estiver definido para receber nesse formato:">
+<!ENTITY askMe.label                  "Perguntar qual é o formato desejado">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Enviar só como texto sem formatação (alguma formatação será perdida)">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "Enviar só em HTML (programas antigos não exibirão a mensagem)">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Enviar em ambos os formatos (a mensagem terá maior tamanho)">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Você pode alterar estas opções para cada mensagem usando o menu Opções enquanto redige a mensagem.">
+<!-- Html and Plain Text Domains  -->
+
+<!ENTITY domain.title                 "Ao enviar emails para um dos domínios abaixo">
+<!ENTITY domaindesc.label             "Ao enviar uma mensagem para um dos domínios listados abaixo, o SeaMonkey Email &amp; grupos de notícias automaticamente envia a mensagem no formato correto (texto formatado ou texto sem formatação).">
+<!ENTITY HTMLdomaintitle.label        "Enviar em HTML:">
+<!ENTITY HTMLdomaintitle.accesskey    "H">
+<!ENTITY PlainTexttitle.label         "Enviar como texto sem formatação:">
+<!ENTITY PlainTexttitle.accesskey     "t">
+<!ENTITY AddButton.label              "Adicionar...">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Excluir">
+<!ENTITY DeleteHtmlDomain.accesskey   "x">
+<!ENTITY DeletePlainText.accesskey    "u">
+<!-- Add Domain Name -->
+
+<!ENTITY add.htmltitle                "Adicionar um domínio">
+<!ENTITY add.htmldomain               "Domínio de HTML:">
+<!ENTITY add.plaintexttitle           "Adicionar um domínio">
+<!ENTITY add.plaintextdomain          "Domínio de texto sem formatação:">
+
+<!ENTITY domainnameError.title        "Erro de nome de domínio">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "O nome de domínio @string@ é inválido e será ignorado. Nomes de domínio válidos requerem ao menos um '.' e possuir caracteres em ambos os lados.">

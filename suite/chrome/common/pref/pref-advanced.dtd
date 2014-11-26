@@ -1,15 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 
-<!ENTITY pref.advanced.title "Avançado">
-<!ENTITY prefEnableJava.caption "Funcionalidades que ajudam a interpretar as páginas">
-<!ENTITY enbJavaCheck.label "Permitir Java">
-<!ENTITY enbJavaCheck.accesskey "j">
-<!ENTITY systemPref.caption "Preferências do Sistema">
-<!ENTITY systemPrefCheck.label "Usar preferências do sistema">
-<!ENTITY systemPrefCheck.accesskey "s">
-<!ENTITY systemPref.desc "Marque este item para herdar as preferências do sistema. As preferências do sistema sobrescreverão as preferências do &brandShortName;">
-<!ENTITY prefCheckDefault.caption   "Integração com o sistema">
+<!ENTITY pref.advanced.title              "Avançado">
+
+<!ENTITY systemPref.caption               "Preferências do Sistema">
+<!ENTITY systemPrefCheck.label            "Usar preferências do sistema">
+<!ENTITY systemPrefCheck.accesskey        "s">
+<!ENTITY systemPref.desc                  "Marque este item para herdar as preferências do sistema. As preferências do sistema sobrescreverão as preferências do &brandShortName;">
+
+<!ENTITY prefCheckDefault.caption         "Integração com o sistema">
+<!ENTITY prefCheckDefaultClient.label     "Verificar configurações de aplicativos padrão ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
-<!ENTITY prefCheckDefaultClient.label "Verificar configurações de aplicativos padrão ao iniciar">
+
+
+
+
+
+
+
+
+
+
+
+

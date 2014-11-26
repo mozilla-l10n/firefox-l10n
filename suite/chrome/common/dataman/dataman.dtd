@@ -1,0 +1,121 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.permissions.label "Permissões">
+<!ENTITY tab.preferences.label "Preferências">
+<!ENTITY tab.passwords.label "Senhas">
+
+
+
+<!-- cookies -->
+
+<!ENTITY cookies.tree.name.label "Cookie">
+
+
+<!ENTITY cookies.infobox.label "Detalhes do cookie selecionado">
+
+<!ENTITY cookies.info.name.label "Nome:">
+<!ENTITY cookies.info.value.label "Valor:">
+<!ENTITY cookies.info.host.label "Servidor:">
+<!ENTITY cookies.info.domain.label "Domínio:">
+<!ENTITY cookies.info.path.label "Caminho:">
+<!ENTITY cookies.info.sendtype.label "Enviar:">
+<!ENTITY cookies.info.expires.label "Válido até:">
+
+
+
+
+
+
+
+
+<!-- permissions -->
+
+<!ENTITY perm.UseDefault "Usar padrão">
+<!ENTITY perm.AskAlways "Sempre perguntar">
+
+<!ENTITY perm.Allow "Permitir">
+
+
+<!ENTITY perm.Block "Bloquear">
+
+
+
+<!-- preferences -->
+
+
+
+
+
+
+
+
+
+<!-- passwords -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- storage -->
+
+<!ENTITY storage.tree.type.label "Tipo">
+<!ENTITY storage.tree.size.label "Tamanho">
+
+
+
+
+
+
+<!-- form data -->
+
+<!ENTITY fdata.tree.fieldname.label "Nome">
+
+
+
+
+
+
+
+
+
+
+<!-- forget -->
+
+<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.accesskey "C">
+
+
+
+
+
+
+
+
+
+
+
+

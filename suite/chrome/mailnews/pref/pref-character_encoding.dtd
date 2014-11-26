@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.character.encoding.title "Codificação">
-<!ENTITY messageDisplay.caption "Aparência">
-<!ENTITY viewDefaultCharset.label "Codificação padrão:">
-<!ENTITY viewDefaultCharset.accesskey "D">
-<!ENTITY composingMessages.caption "Edição">
-<!ENTITY useMIME.label "Usar a codificação MIME 'quoted printable' em mensagens contendo acentuação ou símbolos (deixe desmarcado para enviar os caracteres sem nenhuma codificação.">
-<!ENTITY useMIME.accesskey "F">
-<!ENTITY sendDefaultCharset.label "Codificação padrão:">
-<!ENTITY sendDefaultCharset.accesskey "C">
+<!ENTITY pref.character.encoding.title   "Codificação">
+<!ENTITY messageDisplay.caption          "Aparência">
+
+
+
+
+<!ENTITY composingMessages.caption       "Edição">
+<!ENTITY useMIME.label                   "Usar a codificação MIME 'quoted printable' em mensagens contendo acentuação ou símbolos (deixe desmarcado para enviar os caracteres sem nenhuma codificação.">
+<!ENTITY useMIME.accesskey               "f">
+<!ENTITY sendDefaultCharset.label        "Codificação padrão:">
+<!ENTITY sendDefaultCharset.accesskey    "C">
+<!ENTITY replyInDefaultCharset2.label    "Quando possível, usar esta codificação de caracteres como padrão ao responder (se desmarcado, a codificação padrão será usada somente em novas mensagens).">
 <!ENTITY replyInDefaultCharset2.accesskey "Q">
-<!ENTITY replyInDefaultCharset2.label "Quando possível, usar esta codificação de caracteres como padrão ao responder (se desmarcado, a codificação padrão será usada somente em novas mensagens).">

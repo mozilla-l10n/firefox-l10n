@@ -6,6 +6,6 @@
 <!ENTITY addButton.label "Adicionar">
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Excluir">
-<!ENTITY removeButton.accesskey "X">
+<!ENTITY removeButton.accesskey "x">
 <!ENTITY newMsgHeader.label "Novo cabeçalho:">
 <!ENTITY newMsgHeader.accesskey "N">

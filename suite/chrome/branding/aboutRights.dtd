@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+
+<!ENTITY rights.intro-header    "Sobre os seus direitos">
+<!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, desenvolvido por uma comunidade de milhares de pessoas de todo o mundo. Existem algumas coisas que você deve saber:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado para você de acordo com os termos do ">
+<!ENTITY rights.intro-point1b "Licença Pública Mozilla">
+<!ENTITY rights.intro-point1c ". Isto significa que você pode usar, copiar e distribuir o &brandShortName; para os outros. Você também é bem-vindo para modificar o código-fonte do &brandShortName; para atender às suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
+
+<!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas registradas ou logotipos da Mozilla e SeaMonkey. Informações adicionais sobre as marcas comerciais podem ser encontrados ">
+<!ENTITY rights.intro-point2b "aqui">
+<!ENTITY rights.intro-point2c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "As políticas de privacidade para os produtos &vendorShortName; podem ser encontrados">
+<!ENTITY rights.intro-point3b "aqui">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "termos de serviço">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-b "aqui">
+<!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativadas nas preferências do aplicativo.">
+<!-- add-on related points for branded builds -->
+
+<!ENTITY rights.addons-term1 "Abra as preferências do aplicativo">
+<!ENTITY rights.addons-term2 "Selecione o painel &smart.label; na categoria &advance.label;">
+
+
+<!-- safe browsing points for branded builds -->
+
+
+
+
+
+<!-- points 1-6 text for branded builds -->
+
+
+
+
+
+

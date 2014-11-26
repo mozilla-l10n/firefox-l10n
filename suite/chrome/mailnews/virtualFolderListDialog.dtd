@@ -4,5 +4,6 @@
 
 <!ENTITY server.label "Conta: ">
 <!ENTITY server.accesskey "C">
-<!ENTITY virtualFolderListTitle.title "Selecionar pasta(s)">
-<!ENTITY virtualFolderDesc.label "Selecione as pastas a pesquisar:">
+<!ENTITY virtualFolderListTitle.title        "Selecionar pasta(s)">
+<!ENTITY virtualFolderDesc.label       "Selecione as pastas a pesquisar:">
+
