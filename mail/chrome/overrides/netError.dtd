@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Povezava neuspešna">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Ta naslov je onemogočen">
+<!ENTITY deniedPortAccess.title "Ta naslov je omejen">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">

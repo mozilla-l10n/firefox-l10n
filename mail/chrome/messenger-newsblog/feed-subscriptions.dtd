@@ -35,7 +35,7 @@
 <!ENTITY button.removeFeed.label     "Odstrani">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Uvozi">
-<!ENTITY button.importOPML.accesskey "i">
+<!ENTITY button.importOPML.accesskey "U">
 <!ENTITY button.exportOPML.label     "Izvozi">
 <!ENTITY button.exportOPML.accesskey "z">
 <!ENTITY button.exportOPML.tooltip   "Izvozi vire s strukturo map; ctrl klik ali ctrl enter za izvoz virov kot seznam">
