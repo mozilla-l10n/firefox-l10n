@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "Aplankykite mūsų ">
+<!ENTITY support.link2             "pagalbos svetainę">
+<!ENTITY support.post3             " norėdami gauti atsakymus į dažnas problemas.">
 
 <!ENTITY happy.header              "Džiugu girdėti!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "Galbūt vėliau">
 <!ENTITY happy.noThanks            "Ačiū, ne">
 
+<!ENTITY sad.header                "O ne!">
 <!ENTITY sad.message               "Apgailestaujame, jog patyrėte nepatogumų, naudodamiesi „&brandShortName;“. Papasakokite, kas nutiko, kad galėtume šią problemą pašalinti.">
 <!ENTITY sad.placeholder           "Įrašykite savo atsiliepimą čia">
-
+<!ENTITY sad.lastSite2             "Įtraukti paskiausiai aplankytą svetainę">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "Ačiū.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "Garbės žodis!">
 
+<!ENTITY feedback.privacy2         "Norėdami apsaugoti savo privatumą, pasistenkite atsiliepime nerašyti jokios asmeninės informacijos.">
 <!ENTITY feedback.send             "Siųsti atsiliepimą">
