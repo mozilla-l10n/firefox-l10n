@@ -5,17 +5,20 @@
 <!ENTITY folderProps.windowtitle.label           "ویژگی‌ها">
 
 <!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "کدگذاری پیش‌فرض نویسه‌ها:">
-<!ENTITY folderCharsetTab.accesskey              "ک">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File"> 
+
+
+
+
+
+
+
+
+
+
      
 <!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
+
+
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
 <!ENTITY retentionCleanup.label "برای آزاد کردن فضای دیسک، پیغام‌های قدیمی را می‌توان برای همیشه حذف نمود.">
@@ -25,16 +28,14 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
-<!ENTITY retentionKeepUnread.accesskey "r">
+
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+
 
 <!ENTITY offlineFolder.check.label               "Select this folder for offline use">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -61,3 +62,7 @@
 <!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "Usage:">
 <!ENTITY folderQuotaStatus.label                 "وضعیت:">
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

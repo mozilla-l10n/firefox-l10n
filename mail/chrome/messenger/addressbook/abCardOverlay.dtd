@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "نام">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Phonetic:">
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
+
+
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -43,16 +45,7 @@
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "نامشخص">
-<!ENTITY ScreenName.label               "Screen Name:">
-<!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images.">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -84,9 +77,9 @@ images in HTML messages from this contact.">
 <!ENTITY Birthday.label                 "Birthday:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Year">
+
 <!ENTITY Or.value                       "or">
-<!ENTITY Age.emptytext                  "سن">
+
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Work">
@@ -124,3 +117,38 @@ images in HTML messages from this contact.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY DefaultPhoto.label             "Default">
+
+
+
+
+
+
+
+
+

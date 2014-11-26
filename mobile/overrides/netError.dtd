@@ -17,7 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نما یافته، یا پاک شده است.</li> </ul>">
@@ -27,7 +28,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌تواند این صفحه را نمایش دهد.</p>">
 
 <!ENTITY malformedURI.title "این نشانی معتبر نمی‌باشد">
-<!ENTITY malformedURI.longDesc "<ul> <li>نشانی‌های وب به طور معمول به صورت <span dir='ltr'><strong>http://www.example.com/</strong></span>نوشته می‌شوند</li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 
@@ -36,7 +38,8 @@
 <!ENTITY notCached.longDesc "<p>پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>به عنوان یک احتیاط امنیتی، &brandShortName; به‌طور خودکار نوشتارهای حساس را مجددا درخواست نمی‌کند.</li><li>بر روی تلاش مجدد کلیک کنید تا نوشتار از پایگاه‌وب مجددا درخواست شود.</li></ul>">
 
 <!ENTITY netOffline.title "حالت منفصل">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -61,7 +64,8 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار عمل می‌کند.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نمی‌شود">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 <!ENTITY redirectLoop.longDesc "<ul> <li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول کوکی باشد.</li> </ul>">
@@ -77,7 +81,8 @@
 <li>علت می‌تواند اشکالی در تنظیم کارگزار، یا تلاش شخصی برای وانمود کردن خود به جای این کارگزار باشد.</li> 
 <li>اگر در گذشته با موفقیت به این وب‌گاه متصل شده‌اید، امکان دارد این اشکال موقتی باشد، و می‌توانید بعداً دوباره تلاش کنید.</li> 
 </ul>">
-
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspFrameAncestorBlocked.title "بلوکه شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; از بارگذاری این صفحه به این شکل جلوگیری کرد، زیرا که صفحه محتوایی دارد که سیاست امنیتی مانع آن می‌شود</p>">

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Publish Page">
 <!ENTITY windowTitleSettings.label    "Publish Settings">
 <!ENTITY publishTab.label             "Publish">
 <!ENTITY settingsTab.label            "تنظیمات">
 <!ENTITY publishButton.label          "Publish">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Site Name:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Choose the site that you want to publish to">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "حذف پایگاه">
 <!ENTITY removeButton.accesskey       "ح">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Publishing Sites">
 <!ENTITY serverInfo.label             "Server Information">
 <!ENTITY loginInfo.label              "Login Information">

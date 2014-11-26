@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
-
 <!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Server Settings">
 <!ENTITY serverType.label "Server Type:">
@@ -28,8 +26,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Use secure authentication">
-<!ENTITY useSecAuth.accesskey "i">
+
+
 <!ENTITY leaveOnServer.label "Leave messages on server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Fetch headers only">
@@ -67,16 +65,19 @@
 <!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "پیشرفته…">
 <!ENTITY advancedButton.accesskey "پ">
 <!ENTITY serverDefaultCharset.label "کدگذاری پیش‌فرض نویسه‌ها:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
 <!ENTITY browseFolder.label "مرور…">
 <!ENTITY browseFolder.accesskey "م">
-<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "مرور…">
 <!ENTITY browseNewsrc.accesskey "م">
+
+<!ENTITY accountTitle.label "Account Settings">
+

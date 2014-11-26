@@ -1,86 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY fileMenu.label "پرونده">
-<!ENTITY fileMenu.accesskey "پ">
-<!ENTITY newBlankPageCmd.label "Composer Page">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "جدید">
-<!ENTITY openFileCmd.label "بازکردن پرونده…">
-<!ENTITY openFileCmd.accesskey "ب">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Open Web Location…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Recent Pages">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Revert">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "ذخیره">
-<!ENTITY saveCmd.accesskey "ذ">
+
+
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "ذخیره به نام…">
-<!ENTITY saveAsCmd.accesskey "ذ">
-
-<!ENTITY publishCmd.label "Publish">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publish As…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey "ت">
-<!ENTITY printCmd.label "چاپ…">
-<!ENTITY printCmd.accesskey "چ">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "بستن">
-<!ENTITY closeCmd.accesskey "ب">
-<!ENTITY closeCmd.key "W">
-
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "ویرایش">
-<!ENTITY editMenu.accesskey "و">
+
 <!ENTITY pasteNoFormatting.label "Paste Without Formatting">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Paste As">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Publishing Site Settings…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY findCmd.label "Find and Replace…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "پیدا کردن مجدد">
-<!ENTITY findAgainCmd.accesskey "پ">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "پیدا کردن قبلی">
-<!ENTITY findPrevCmd.accesskey "پ">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
+
+
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "بررسی املا">
 <!ENTITY checkSpellingCmd2.accesskey "ب">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Validate HTML">
-<!ENTITY validateCmd.accesskey "V">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "Insert">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Link…">
@@ -96,40 +40,20 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+
+
 <!ENTITY insertCharsCmd.label "Characters and Symbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Break Below Image(s)">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(No Suggestions Found)">
-<!ENTITY spellCheckIgnoreWord.label "Ignore Word">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
-<!ENTITY spellCheckAddToDictionary.accesskey "ا">
+
 <!ENTITY createLinkCmd.label "Create Link…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Edit Link in New Composer">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "واگرد">
-<!ENTITY undoCmd.accesskey "و">
-<!ENTITY redoCmd.label "از نو">
-<!ENTITY redoCmd.accesskey "ز">
-<!ENTITY cutCmd.label "بریدن">
-<!ENTITY cutCmd.accesskey "ب">
-<!ENTITY copyCmd.label "رونوشت برداشتن">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "چسباندن">
-<!ENTITY pasteCmd.accesskey "چ">
-<!ENTITY deleteCmd.label "حذف">
-<!ENTITY deleteCmd.accesskey "ح">
-<!ENTITY clearCmd.label "پاک کردن">
-<!ENTITY clearCmd.accesskey "پ">
-<!ENTITY selectAllCmd.label "انتخاب همه">
-<!ENTITY selectAllCmd.accesskey "ا">
-
 <!-- Font Face SubMenu -->
+
 <!ENTITY FontFaceSelect.tooltip "Choose a font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -144,16 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "Choose a font size">
 <!ENTITY decreaseFontSize.label "Smaller">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
+
+<!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Larger">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+
+<!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Size">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -171,8 +96,8 @@
 <!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-large">
 <!ENTITY size-xx-largeCmd.accesskey "e">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "Text Style">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Bold">
@@ -218,7 +143,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Remove Named Anchors">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+
 
 <!ENTITY paragraphMenu.label "Paragraph">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -240,8 +165,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "ن">
 <!ENTITY paragraphPreformatCmd.label "Preformat">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "فهرست">
 <!ENTITY formatlistMenu.accesskey "ف">
 <!ENTITY noneCmd.label "هیچ">
@@ -264,8 +189,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Advanced Properties">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "Align">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "چپ">
@@ -280,8 +205,8 @@
 <!ENTITY alignJustify.label "Justify">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Align Justified">
-
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "Layer">
 <!ENTITY layerSendToBack.tooltip "Send to Back">
 <!ENTITY layerBringToFront.tooltip "Bring to Front">
@@ -293,19 +218,14 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Page Title and Properties…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Page Colors and Background…">
 <!ENTITY colorsAndBackground.accesskey "u">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "Table">
 <!ENTITY tableMenu.accesskey "b">
-
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "انتخاب">
 <!ENTITY tableSelectMenu.accesskey "ا">
 
@@ -315,8 +235,8 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Table Delete">
 <!ENTITY tableDeleteMenu2.accesskey "D">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "Insert">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Table">
@@ -349,12 +269,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "حذف">
 <!ENTITY tableDeleteMenu.accesskey "ح">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Split Cell">
@@ -363,18 +283,13 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Table Properties…">
 <!ENTITY tableProperties.accesskey "o">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "Menu Bar">
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
 <!ENTITY formatToolbar.tooltip "Formatting Toolbar">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
-<!ENTITY openToolbarCmd.label "باز کردن">
-<!ENTITY openToolbarCmd.tooltip "Open a local file">
-<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
-<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY cutToolbarCmd.tooltip "بریدن">
+<!ENTITY copyToolbarCmd.tooltip "رونوشت برداشتن">
+<!ENTITY pasteToolbarCmd.tooltip "چسباندن">
 <!ENTITY printToolbarCmd.label "چاپ">
 <!ENTITY printToolbarCmd.tooltip "چاپ کردن این صفحه">
 <!ENTITY findToolbarCmd.label "پیدا کردن">
@@ -395,8 +310,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Choose color for background">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smaller font size">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Larger font size">
 <!ENTITY boldToolbarCmd.tooltip "Bold">
@@ -411,43 +326,17 @@
 <!ENTITY alignLeftButton.tooltip "Align text along left margin">
 <!ENTITY alignCenterButton.tooltip "Align text centered">
 <!ENTITY alignRightButton.tooltip "Align text along right margin">
-<!ENTITY alignjustifyButton.tooltip "Align text along left and right margins">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "عادی">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
-<!ENTITY AllTagsMode.label "HTML Tags">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
-
-<!ENTITY HTMLSourceMode.label "HTML Source">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Source">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
-<!ENTITY PreviewMode.label "پیش‌نمایش">
-<!ENTITY PreviewMode.accesskey "پ">
-<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "rtl">
 
 <!-- Structure Toolbar Context Menu items -->
+
 <!ENTITY structSelect.label         "انتخاب">
 <!ENTITY structSelect.accesskey     "ا">
 <!ENTITY structRemoveTag.label      "Remove tag">
 <!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Change tag">
 <!ENTITY structChangeTag.accesskey  "C">
-
 <!-- TOC manipulation -->
+
 <!ENTITY insertTOC.label          "Insert">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "به‌هنگام‌سازی">
