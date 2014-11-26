@@ -9,8 +9,6 @@
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >
-<!ENTITY newevent.attendees.notify.label    "Njofto pjesëmarrësit">
-
 <!ENTITY newevent.status.label              "Gjendje" >
 <!ENTITY newevent.status.accesskey          "G" >
 <!ENTITY newevent.eventStatus.none.label          "E papërcaktuar" >
@@ -105,12 +103,6 @@
 <!ENTITY  event.menu.options.accesskey                        "M">
 <!ENTITY  event.menu.options.attendees.label                  "Ftoni Pjesëmarrës…">
 <!ENTITY  event.menu.options.attendees.accesskey              "F">
-<!ENTITY  event.menu.options.spellcheck.label                 "Kontroll Drejtshkrimi…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "K">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Kontrolloji Drejtshkrimin në Shkrim e Sipër">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Shtoni Lidhje…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                   "Shfaq Zona Kohore">
 <!ENTITY  event.menu.options.timezone2.accesskey               "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Përparësi">
@@ -150,7 +142,6 @@
 <!ENTITY  event.toolbar.save.label                        "Ruaje dhe Mbylle">
 <!ENTITY  event.toolbar.delete.label                      "Fshije">
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
-<!ENTITY  event.toolbar.spellcheck.label                  "Kontroll Drejtshkrimi">
 <!ENTITY  event.toolbar.privacy.label                     "Privatësi">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Ruajeni dhe mbylleni">
@@ -341,8 +332,6 @@
 <!ENTITY invite.title.label                     "Ftoni Pjesëmarrës">
 <!ENTITY event.organizer.label                  "Organizues">
 <!ENTITY event.freebusy.suggest.slot            "Këshilloni kohë të përshtatshme:">
-<!ENTITY event.freebusy.next.slot               "Koha pasuese " >
-<!ENTITY event.freebusy.previous.slot           " Koha e mëparshme" >
 <!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "I lirë" >
 <!ENTITY event.freebusy.legend.busy             "I zënë" >
@@ -381,5 +370,4 @@
 <!ENTITY read.only.reminder.label        "Kujtues:">
 <!ENTITY read.only.attendees.label       "Pjesëmarrës">
 <!ENTITY read.only.description.label     "Përshkrim">
-<!ENTITY read.only.documents.label       "Dokumente">
 <!ENTITY read.only.link.label            "Lidhje e Afërt">
