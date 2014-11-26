@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "e Premte" >
 <!ENTITY day.7.name "e Shtunë" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minutë">
-<!ENTITY calendar.global.units.minutes  "minuta">
-<!ENTITY calendar.global.units.hour     "orë">
-<!ENTITY calendar.global.units.hours    "orë">
-<!ENTITY calendar.global.units.day      "ditë">
-<!ENTITY calendar.global.units.days     "ditë">
-
 <!ENTITY month.1.name "Janar" >
 <!ENTITY month.2.name "Shkurt" >
 <!ENTITY month.3.name "Mars" >
