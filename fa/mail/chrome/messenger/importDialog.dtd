@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -10,11 +9,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+
 <!ENTITY importDialog.windowTitle "Import">
 <!ENTITY importAll.label          "Import Everything">
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "Mail">
 <!ENTITY importMail.accesskey     "M">
+
+
 <!ENTITY importAddressbook.label  "Address Books">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "تنظیمات">
@@ -32,7 +34,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
+
 <!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "نام:">
+<!ENTITY acctName.accesskey       "ن">
 
 <!ENTITY back.label               "&lt; عقب">
 <!ENTITY forward.label            "بعدی &gt;">
@@ -43,11 +48,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "عنوان">
 <!ENTITY processing.label         "در حال وارد کردن…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importHome.label        "Home">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Work">
-<!ENTITY importWork.accesskey    "W">

@@ -1,14 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+
+<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 <!ENTITY smtpListAdd.label  "Add…">
 <!ENTITY smtpListAdd.accesskey  "d">
@@ -24,4 +22,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "User Name: ">
 <!ENTITY connectionSecurity.label "Connection Security: ">
-<!ENTITY useSecureAuthentication.label   "Secure Authentication: ">
+

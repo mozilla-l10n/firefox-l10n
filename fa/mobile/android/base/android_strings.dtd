@@ -76,11 +76,13 @@
 <!ENTITY settings_title "تنظیمات">
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "زبان">
+
 <!ENTITY pref_browser_locale "زبان مرورگر">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -95,6 +97,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "اضافه کردن به فهرست خواندنی‌ها">
 
+
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -106,8 +110,11 @@
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
+
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
 <!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
@@ -121,6 +128,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
+
 
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
 <!ENTITY pref_remember_signons "به خاطر سپردن گذرواژه‌ها">
@@ -196,8 +204,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_sync "هم‌گام‌سازی">
+
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY pref_import_android "وارد کردن از آندروید">
+
 
 
 
@@ -250,7 +260,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "بروزرسانی‌ها را به صورت خودکار بارگیری کن">
 
 <!ENTITY pref_update_autodownload_never "هرگز">
@@ -280,6 +289,7 @@ size. -->
 <!ENTITY tabs_private "خصوصی">
 <!ENTITY tabs_synced "همگام‌سازی شد">
 <!ENTITY set_image_fail "ناتوانی در تنظیم تصویر">
+
 <!ENTITY set_image_chooser_title "تنظیم تصویر به عنوان">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -382,7 +392,26 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_remote_tabs_title "زبانه‌های همگام‌سازی شده">
+
+<!ENTITY home_remote_tabs_unable_to_connect "قادر به اتصال نیست">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "مرور خصوصی">
+
+
+
 
 
 
@@ -452,6 +481,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "بروزرسانی برای &brandShortName; موجود است">
 <!ENTITY updater_apply_select2 "برای بروزرسانی لمس کنید">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "نشست جدید مهمان">
@@ -460,6 +492,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "انصراف">
 <!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
 <!ENTITY new_guest_session_text "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
 <!ENTITY exit_guest_session_text "داده‌های مرور شده در این نشست حذف خواهند شد.">

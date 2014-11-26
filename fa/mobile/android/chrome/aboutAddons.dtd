@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "افزودنی‌ها">
 <!ENTITY aboutAddons.header2                    "افزودنی‌های شما">
 <!ENTITY aboutAddons.options                    "گزینه‌ها">
-<!ENTITY aboutAddons.browseAll                  "مرور تمام افزونه‌های فایرفاکس">
 
 <!ENTITY addonAction.enable                     "به کار انداختن">
 <!ENTITY addonAction.disable                    "غیر فعال‌سازی">

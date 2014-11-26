@@ -9,9 +9,7 @@
 <!ENTITY forwardMsg.label                     "Forward messages:">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "Inline">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "add extension to file name">
 <!ENTITY addExtension.accesskey               "f">
 
@@ -30,9 +28,9 @@
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "زبان:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
 <!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
@@ -56,3 +54,7 @@
 <!ENTITY sendOptionsDescription.label          "Configure text format behavior">
 <!ENTITY sendOptions.label                     "Send Options…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+
+
+

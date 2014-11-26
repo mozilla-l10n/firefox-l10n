@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Page Colors and Background">
 <!ENTITY pageColors.label "Page Colors">
 <!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
 <!ENTITY customColorsRadio.label "Use custom colors:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.accessKey "c">
 <!ENTITY customColorsRadio.tooltip "These color settings override the viewer's browser settings">
 
 <!ENTITY normalText.label "Normal text">
