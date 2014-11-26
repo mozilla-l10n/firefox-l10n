@@ -8,7 +8,7 @@
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "U">
-<!ENTITY folderRestriction1.label   "Ta strežnik razdeli imenike na dve posebni vrsti.">
+<!ENTITY folderRestriction1.label   "Ta strežnik omejuje mape na dve posebni vrsti.">
 <!ENTITY folderRestriction2.label   "Nov imenik lahko vsebuje:">
 <!ENTITY foldersOnly.label          "Samo imeniki">
 <!ENTITY messagesOnly.label         "Samo sporočila">
