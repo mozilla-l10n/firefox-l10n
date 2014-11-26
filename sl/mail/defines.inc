@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Mark Tyndall
+#define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
