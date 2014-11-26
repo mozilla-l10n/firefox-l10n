@@ -78,13 +78,13 @@
 <!ENTITY settings_title "Nuostatos">
 <!ENTITY pref_category_advanced "Kitkas">
 <!ENTITY pref_category_customize "Individualizavimas">
-
+<!ENTITY pref_category_customize_summary "Pradžia, paieška, kortelės, importavimas">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Kalba">
-
+<!ENTITY pref_category_language_summary "Pakeiskite savo naršyklės sąsajos kalbą">
 <!ENTITY pref_browser_locale "Naršyklės sąsajos kalba">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -102,8 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Įtraukti į adresyną">
 <!ENTITY overlay_share_reading_list_btn_label "Įtraukti į skaitinių sąrašą">
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Jau yra adresyne">
+<!ENTITY overlay_share_reading_list_btn_label_already "Jau yra skaitinių sąraše">
 <!ENTITY overlay_share_send_other "Siųsti į kitus įrenginius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Paieška">
 <!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
 <!ENTITY pref_category_display "Rodymas">
-
+<!ENTITY pref_category_display_summary "Tekstas, antraštės juosta, naršymas visame ekrane">
 <!ENTITY pref_category_privacy_short "Privatumas">
-
+<!ENTITY pref_category_privacy_summary "Valdykite slaptažodžius, slapukus, stebėjimą, duomenis">
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
-
+<!ENTITY pref_category_vendor_summary "Apie „&brandShortName;“, DUK, duomenų siuntimą">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
 <!ENTITY pref_learn_more "Sužinoti daugiau">
 <!ENTITY pref_category_installed_search_engines "Įdiegtos ieškyklės">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
-
+<!ENTITY pref_category_devtools_summary "Nuotolinis derinimas, piešimo paryškinimas">
 <!ENTITY pref_developer_paint_flashing "Piešiamos srities akcentavimas">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Nerodyti meniu">
 <!ENTITY pref_clear_private_data2 "Valyti dabar">
 <!ENTITY pref_clear_private_data_category "Valyti privačius duomenis">
-
+<!ENTITY pref_clear_on_exit_title2 "Išvalyti išeinant">
 <!ENTITY pref_clear_on_exit_summary2 "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
 <!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
 <!ENTITY pref_plugins "Papildiniai">
@@ -213,10 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
-
+<!ENTITY pref_sync_summary "Sinchronizuokite korteles, adresyną, slaptažodžius, istoriją">
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
-
+<!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
 <!ENTITY pref_private_data_history2 "Naršymo žurnalas">
 <!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
 <!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
@@ -266,7 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Strigčių pranešiklis">
 <!ENTITY datareporting_wifi_title2 "„Mozillos“ geografinės vietos nustatymo paslaugos">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Siekiant pagerinti mūsų padėties nustatymo tarnybas, apytiksliai jūsų įrenginio belaidžio ir mobilaus ryšio vietos duomenys yra siunčiami į „&vendorShortName;“">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "Privačiosios">
 <!ENTITY tabs_synced "Sinchronizuojamos">
 <!ENTITY set_image_fail "Nepavyko naudoti paveikslo">
-
+<!ENTITY set_image_path_fail "Nepavyko išsaugoti paveikslo">
 <!ENTITY set_image_chooser_title "Naudoti paveikslą kaip">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -413,11 +413,12 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Aukštyn į „&formatS;“">
 
-
+<!ENTITY home_remote_tabs_title "Sinchronizuotos kortelės">
+<!ENTITY home_remote_tabs_empty "Kortelės iš kitų jūsų įrenginių matomos čia.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nepavyko užmegzti ryšio">
-
-
-
+<!ENTITY home_remote_tabs_need_to_sign_in "Norint tęsti sinchronizavimą, reikia iš naujo prisijungti prie jūsų „Firefox“ paskyros.">
+<!ENTITY home_remote_tabs_trouble_verifying "Nepavyksta patvirtinti paskyros?">
+<!ENTITY home_remote_tabs_need_to_verify "Prieš pradedant sinchronizavimą, reikia patvirtinti jūsų „Firefox“ paskyrą.">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -514,7 +515,7 @@ iš „Android“">
 <!ENTITY new_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY new_guest_session_text "Asmuo, kuris ja naudosis, nematys jokių jūsų asmeninių naršymo duomenų (įrašytų slaptažodžių, žurnalo, adresyno ir kitų).\n\nJūsų svečiui baigus naršymą, bus pašalinti jo naršymo duomenys ir atkurtas, jūsų naršymo seansas.">
 
-
+<!ENTITY guest_browsing_notification_text "Bakstelėkite, norėdami išeiti">
 
 <!ENTITY exit_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY exit_guest_session_text "Šio naršymo seanso duomenys bus pašalinti.">
