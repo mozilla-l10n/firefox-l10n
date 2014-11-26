@@ -12,7 +12,7 @@
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Sporočila novičarskih skupin">
 <!ENTITY syncTypeNews.accesskey "n">
-<!ENTITY sendMessage.label "Pošlji neodposlana sporočila">
+<!ENTITY sendMessage.label "Pošlji neposlana sporočila">
 <!ENTITY sendMessage.accesskey "š">
 <!ENTITY workOffline.label "Delaj v nepovezanem načinu, ko se prenos in/ali usklajevanje konča">
 <!ENTITY workOffline.accesskey "l">

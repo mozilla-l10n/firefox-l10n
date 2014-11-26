@@ -12,13 +12,13 @@
 <!ENTITY ccField4.label "Kp">
 <!ENTITY bccField4.label "Skp">
 <!ENTITY newsgroupsField4.label "Novičarske skupine">
-<!ENTITY followupToField4.label "Nadalje odgovori za ">
+<!ENTITY followupToField4.label "Nadalje odgovori za">
 <!ENTITY tagsHdr4.label "Oznake">
-<!ENTITY dateField4.label "datumu">
+<!ENTITY dateField4.label "Datum">
 <!ENTITY userAgentField4.label "Uporabniški posrednik">
 <!ENTITY referencesField4.label "Sklici">
 <!ENTITY messageIdField4.label "ID sporočila">
-<!ENTITY inReplyToField4.label "V odgovoru na">
+<!ENTITY inReplyToField4.label "V odgovoru za">
 <!ENTITY originalWebsite4.label "Spletna stran">
 
 <!ENTITY hdrArchiveButton1.label "Arhiviraj">
