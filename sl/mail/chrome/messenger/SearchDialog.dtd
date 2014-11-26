@@ -4,7 +4,7 @@
 <!-- for SearchDialog.xul -->
 
 <!ENTITY searchHeading.label         "Išči po sporočilih v:">
-<!ENTITY searchHeading.accesskey     "I">
+<!ENTITY searchHeading.accesskey     "s">
 <!ENTITY searchSubfolders.label      "Išči v podmapah">
 <!ENTITY searchSubfolders.accesskey  "p">
 <!ENTITY searchOnServer.label        "Zaženi iskanje na strežniku">
@@ -14,26 +14,26 @@
 <!ENTITY openButton.label            "Odpri">
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Izbriši">
-<!ENTITY deleteButton.accesskey      "I">
+<!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Išči po sporočilih">
 <!ENTITY results.label               "Rezultati">
 <!ENTITY moveButton.label            "Premakni v">
-<!ENTITY moveButton.accesskey        "v">
+<!ENTITY moveButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Odpri v mapi">
-<!ENTITY openInFolder.accesskey      "m">
+<!ENTITY openInFolder.accesskey      "O">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
-<!ENTITY saveAsVFButton.accesskey    "p">
+<!ENTITY saveAsVFButton.accesskey    "S">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label       "Išči v:">
-<!ENTITY abSearchHeading.accesskey   "č">
+<!ENTITY abSearchHeading.accesskey   "š">
 <!ENTITY propertiesButton.label      "Lastnosti">
 <!ENTITY propertiesButton.accesskey  "L">
 <!ENTITY composeButton.label         "Sestavi">
 <!ENTITY composeButton.accesskey     "S">
 <!ENTITY deleteCardButton.label      "Izbriši">
-<!ENTITY deleteCardButton.accesskey  "I">
+<!ENTITY deleteCardButton.accesskey  "b">
 <!ENTITY abSearchDialogTitle.label   "Napredno iskanje v imeniku">
 <!-- Thread Pane -->
 
