@@ -35,8 +35,11 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "S">
 <!ENTITY lightning.toolbar.month.label               "Muaj">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu Zbatimesh">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Shfaq Menunë e &brandShortName;-it">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kuadrat Kalendari">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
+<!ENTITY lightning.toolbar.calendarpane.label        "Shfaqe Kuadratin e Kalendarit">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "K">
