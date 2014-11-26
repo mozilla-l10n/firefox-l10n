@@ -12,6 +12,8 @@
 <!ENTITY doNotTrack.accesskey             "t">
 <!ENTITY trackProtect.label               "Evitar actividades de rastreo de sitios conocidos">
 <!ENTITY trackProtect.accesskey           "n">
+<!ENTITY warnTrackContent.label           "Avisarme cuando se detecten actividades de rastreo conocidas">
+<!ENTITY warnTrackContent.accesskey       "v">
 
 <!ENTITY geoLocation.label                "Navegación dependiente de la ubicación">
 <!ENTITY geoIntro.label                   "Los sitios web pueden solicitar información sobre su ubicación actual.">
