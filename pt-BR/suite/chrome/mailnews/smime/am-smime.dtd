@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY securityTitle.label "Segurança">
+<!ENTITY securityTab.label "Segurança">
 <!ENTITY securityHeading.label "Para enviar e receber mensagens assinadas ou criptografadas, você deve especificar um certificado de assinatura digital e um certificado de criptografia.">
 <!ENTITY encryptionGroupTitle.label "Criptografia">
 <!ENTITY encryptionChoiceLabel.label "Opção padrão de criptografia ao enviar mensagens:">
@@ -21,12 +22,11 @@
 <!ENTITY encryption.certificate_clear.accesskey "L">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
 <!ENTITY signMessage.label "Assinar mensagens digitalmente (por padrão)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Certificado usado para assinar digitalmente mensagens que você enviar:">
-<!ENTITY securityTab.label "Segurança">
 
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.accesskey "G">
 <!ENTITY manageCerts.label "Gerenciar certificados…">
-<!ENTITY manageDevices.accesskey "s">
+<!ENTITY manageCerts.accesskey "G">
 <!ENTITY manageDevices.label "Gerenciar dispositivos de segurança…">
+<!ENTITY manageDevices.accesskey "s">

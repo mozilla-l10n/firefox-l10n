@@ -4,29 +4,39 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "Versões do protocolo SSL">
 <!ENTITY  SSLWarnings.caption               "Alertas de SSL">
+
 <!ENTITY  SSLClientAuthMethod.caption       "Seleção do certificado do cliente">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl3                        "SSL3">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "TLS">
-<!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description                   "O &brandShortName; pode alertá-lo a respeito do status de segurança da página visitada. Defina o &brandShortName; para exibir um alerta e solicitar permissão antes de:">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY warn.enteringsecure                "Carregar uma página que usa criptografia">
 <!ENTITY warn.enteringsecure.accesskey      "C">
-<!ENTITY warn.enteringweak                  "Carregar uma página que usa criptografia de nível baixo">
-<!ENTITY warn.enteringweak.accesskey        "a">
 <!ENTITY warn.insecurepost                  "Enviar informações de formulário de uma página não criptografada para outra página não criptografada">
 <!ENTITY warn.insecurepost.accesskey        "E">
 <!ENTITY warn.leavingsecure                 "Sair de uma página criptografada">
 <!ENTITY warn.leavingsecure.accesskey       "S">
-<!ENTITY warn.viewmixed                     "Exibir uma página com elementos criptografados e não criptografados">
-<!ENTITY warn.viewmixed.accesskey           "x">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY certselect.description             "Escolha como o &brandShortName; seleciona um certificado de segurança para apresentar a sites que solicitem um:">
 <!ENTITY certselect.auto                    "Selecionar automaticamente">
 <!ENTITY certselect.auto.accesskey          "S">
 <!ENTITY certselect.ask                     "Perguntar quando necessário">
 <!ENTITY certselect.ask.accesskey           "P">
-

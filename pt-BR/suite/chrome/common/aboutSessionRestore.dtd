@@ -19,4 +19,4 @@
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Janelas e abas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Janela &#37;S">
+<!ENTITY restorepage.windowLabel    "Janela &#037;S">

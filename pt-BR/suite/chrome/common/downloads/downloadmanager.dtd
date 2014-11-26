@@ -1,0 +1,85 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchBar.tooltip               "Barra de pesquisa">
+
+
+
+
+
+
+
+
+<!ENTITY col.name.label                  "Nome">
+<!ENTITY col.name.accesskey              "N">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY view.columns.label              "Exibir colunas">
+<!ENTITY view.columns.accesskey          "u">
+<!ENTITY view.sortBy.label               "Ordenar por">
+<!ENTITY view.sortBy.accesskey           "O">
+
+<!ENTITY view.unsorted.label             "Não ordenar">
+<!ENTITY view.unsorted.accesskey         "N">
+<!ENTITY view.sortAscending.label        "Ordem crescente">
+<!ENTITY view.sortAscending.accesskey    "c">
+<!ENTITY view.sortDescending.label       "Ordem decrescente">
+<!ENTITY view.sortDescending.accesskey   "d">
+
+<!ENTITY cmd.pause.label                 "Pausar">
+<!ENTITY cmd.pause.accesskey             "P">
+
+
+
+
+
+
+
+
+<!ENTITY cmd.open.label                  "Abrir">
+<!ENTITY cmd.open.accesskey              "A">
+
+
+
+
+
+
+
+

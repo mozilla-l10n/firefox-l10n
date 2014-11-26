@@ -1,0 +1,118 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- File Menu -->
+
+
+
+
+
+<!ENTITY openFileCmd.label "Abrir arquivo...">
+<!ENTITY openFileCmd.accesskey "o">
+
+
+
+
+
+
+
+<!-- Edit Menu -->
+<!-- View Menu -->
+
+
+
+<!ENTITY taskbarCmd.label "Barra de status">
+<!ENTITY taskbarCmd.accesskey "s">
+
+
+
+
+
+
+<!ENTITY useStyleSheetNone.label "Não agrupar">
+<!ENTITY useStyleSheetNone.accesskey "N">
+
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Alternar a direção da página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+
+
+
+
+
+
+<!-- Go Menu -->
+
+<!ENTITY goMenu.label "Ir">
+<!ENTITY goMenu.accesskey "I">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Bookmarks Menu -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Tools Menu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cookieManagePopups.label "Gerenciar popups">
+<!ENTITY cookieManagePopups.accesskey "G">
+
+
+
+
+
+
+
+
