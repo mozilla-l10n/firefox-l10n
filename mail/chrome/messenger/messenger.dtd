@@ -128,8 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "U">
 <!-- View Menu -->
 
-<!ENTITY menubarCmd.label "Menijska vrstica">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "Vrstica z menijem">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Orodna vrstica za pošto">
 <!ENTITY showMessengerToolbarCmd.accesskey "O">
 <!ENTITY customizeToolbar.label "Prilagodi …">
@@ -456,8 +456,8 @@
 <!ENTITY imStatus.unavailable        "Odsoten">
 <!ENTITY imStatus.offline            "Nedosegljiv">
 <!ENTITY imStatus.showAccounts       "Pokaži račune …">
-<!ENTITY joinChatCmd.label "Vključi se v klepet …">
-<!ENTITY joinChatCmd.accesskey "V">
+<!ENTITY joinChatCmd.label "Pridruži se klepetu …">
+<!ENTITY joinChatCmd.accesskey "r">
 <!ENTITY savedFiles.label "Shranjene datoteke">
 <!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
@@ -466,11 +466,11 @@
 <!ENTITY filtersApply.label "Poženi filtre v mapi">
 <!ENTITY filtersApply.accesskey "m">
 <!ENTITY filtersApplyToSelection.label "Poženi filtre za izbrana sporočila">
-<!ENTITY filtersApplyToSelection.accesskey "r">
+<!ENTITY filtersApplyToSelection.accesskey "č">
 <!ENTITY filtersApplyToMessage.label "Poženi filtre za sporočilo">
-<!ENTITY filtersApplyToMessage.accesskey "r">
+<!ENTITY filtersApplyToMessage.accesskey "č">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
-<!ENTITY runJunkControls.accesskey "n">
+<!ENTITY runJunkControls.accesskey "a">
 <!ENTITY deleteJunk.label "Izbriši v mapi pošto označeno kot neželeno">
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Uvozi …">
@@ -481,7 +481,7 @@
 <!ENTITY clearRecentHistory.label "Počisti nedavno zgodovino …">
 <!ENTITY clearRecentHistory.accesskey "P">
 <!ENTITY accountManagerCmd2.label "Nastavitve računa">
-<!ENTITY accountManagerCmd2.accesskey "v">
+<!ENTITY accountManagerCmd2.accesskey "N">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "R">
@@ -716,7 +716,7 @@
 <!ENTITY contextReplyNewsgroup2.accesskey "N">
 <!ENTITY contextReplyAll.label "Odgovori vsem">
 <!ENTITY contextReplyAll.accesskey "v">
-<!ENTITY contextReplyList.label "Odgovori po seznamu">
+<!ENTITY contextReplyList.label "Odgovori seznamu">
 <!ENTITY contextReplyList.accesskey "m">
 <!ENTITY contextForward.label "Posreduj">
 <!ENTITY contextForward.accesskey "d">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messageMarkByDate.label "Označi sporočila kot prebrana po datumu">
-<!ENTITY markByDateLower.label "Od:">
+<!ENTITY markByDateLower.label "Označi sporočila kot prebrana od:">
 <!ENTITY markByDateLower.accesskey "d">
 <!ENTITY markByDateUpper.label "Za:">
-<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.accesskey "Z">

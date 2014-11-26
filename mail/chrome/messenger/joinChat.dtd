@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY joinChatWindow.title           "Pridružite se klepetu">
-<!ENTITY name.label                     "Soba">
-<!ENTITY optional.label                 "(neobvezno)">
+<!ENTITY name.label                     "Klepetalnica">
+<!ENTITY optional.label                 "(izbirno)">
 <!ENTITY account.label                  "Račun">
-<!ENTITY autojoin.label                 "Samodejen vstop v to klepetalnico">
-<!ENTITY autojoin.accesskey             "A">
+<!ENTITY autojoin.label                 "Samodejno se pridruži tej klepetalnici">
+<!ENTITY autojoin.accesskey             "S">
