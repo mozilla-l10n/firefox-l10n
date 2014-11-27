@@ -6,18 +6,18 @@
 <!ENTITY itemTags.label                   "Labels">
 
 <!ENTITY style.label                      "Stijl:">
-<!ENTITY style.accesskey                  "S">
+<!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normaal">
 <!ENTITY bold.label                       "Vet">
 <!ENTITY italic.label                     "Cursief">
 <!ENTITY boldItalic.label                 "Vet en cursief">
 <!ENTITY size.label                       "Grootte:">
-<!ENTITY size.accesskey                   "G">
+<!ENTITY size.accesskey                   "r">
 <!ENTITY regularSize.label                "Normaal">
 <!ENTITY bigger.label                     "Groter">
 <!ENTITY smaller.label                    "Kleiner">
 <!ENTITY quotedTextColor.label            "Kleur:">
-<!ENTITY quotedTextColor.accesskey        "K">
+<!ENTITY quotedTextColor.accesskey        "u">
 <!ENTITY displayWidth.label               "Plattetekstberichten">
 <!ENTITY displayText.label                "Geciteerde tekst in plattetekstberichten weergeven als:">
 

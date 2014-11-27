@@ -10,11 +10,11 @@
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY changeDockIconOptions.label      "Wijzig eigenschappen van het programmasymbool">
-<!ENTITY dockOptions.label                "Opties programmasymbool…">
-<!ENTITY dockOptions.accesskey            "p">
+<!ENTITY changeDockIconOptions.label      "Voorkeuren van het programmasymbool wijzigen">
+<!ENTITY dockOptions.label                "Programmasymboolopties…">
+<!ENTITY dockOptions.accesskey            "P">
 
-<!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
+<!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
 <!ENTITY playSound1.accesskey             "u">
 <!ENTITY showAnimatedAlert.label          "Een melding tonen">

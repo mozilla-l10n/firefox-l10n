@@ -89,8 +89,8 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Schijfruimte">
-<!ENTITY offlineCompactFolders.label     "Mappen comprimeren als het meer bespaart dan">
-<!ENTITY offlineCompactFolders.accesskey "M">
+<!ENTITY offlineCompactFolders.label     "Alle mappen comprimeren als het meer bespaart dan">
+<!ENTITY offlineCompactFolders.accesskey "m">
 <!ENTITY offlineCompactFoldersMB.label   "MB in totaal">
 
 <!-- LOCALIZATION NOTE:
@@ -111,8 +111,8 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Mij elke keer vragen">
 <!ENTITY certs.ask.accesskey             "e">
-<!ENTITY enableOCSP.label                "Vraag OCSP-responderservers om de geldigheid van certificaten te bevestigen">
-<!ENTITY enableOCSP.accesskey            "V">
+<!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
+<!ENTITY enableOCSP.accesskey            "v">
 
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
