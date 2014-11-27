@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupAction.label         "Als &brandShortName; start:">
-<!ENTITY startupAction.accesskey     "s">
-<!ENTITY startupOffline.label        "Mijn chataccounts offline houden">
-<!ENTITY startupConnectAuto.label    "Mijn accounts automatisch verbinden">
+<!ENTITY startupAction.label          "Als &brandShortName; start:">
+<!ENTITY startupAction.accesskey      "s">
+<!ENTITY startupOffline.label         "Mijn chataccounts offline houden">
+<!ENTITY startupConnectAuto.label     "Mijn chataccounts automatisch verbinden">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -20,12 +20,12 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "en mijn status op Afwezig instellen met dit statusbericht:">
 <!ENTITY  andSetStatusToAway.accesskey  "A">
 
-<!ENTITY  sendTyping.label              "Typenotificaties verzenden in conversaties">
+<!ENTITY  sendTyping.label              "Typemeldingen verzenden in conversaties">
 <!ENTITY  sendTyping.accesskey          "T">
 
-<!ENTITY  chatNotifications.label             "Als er aan u geadresseerde berichten arriveren:">
-<!ENTITY  desktopChatNotifications.label      "Melding tonen">
-<!ENTITY  desktopChatNotifications.accesskey  "M">
+<!ENTITY  chatNotifications.label             "Als er aan u geadresseerde berichten binnenkomen:">
+<!ENTITY  desktopChatNotifications.label      "Een melding tonen">
+<!ENTITY  desktopChatNotifications.accesskey  "m">
 <!ENTITY  completeNotification.label          "met naam van de afzender en voorbeeld van het bericht">
 <!ENTITY  buddyInfoOnly.label                 "met alleen de naam van de afzender">
 <!ENTITY  dummyNotification.label             "zonder informatie">
