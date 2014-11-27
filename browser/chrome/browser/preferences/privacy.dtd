@@ -15,13 +15,13 @@
 
 <!ENTITY  locationBar.label             "Retadresa strio">
 
-<!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
-<!ENTITY  locbar.pre.accessKey          "r">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historio kaj legosignoj">
+<!ENTITY  locbar.suggest.label          "Dum uzado de la retadresa strio, sugesti el:">
 <!ENTITY  locbar.history.label          "Historio">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
-<!ENTITY  locbar.nothing.label          "Nenio">
+<!ENTITY  locbar.bookmarks.accesskey    "L">
+<!ENTITY  locbar.openpage.label         "Malfermitaj langetoj">
+<!ENTITY  locbar.openpage.accesskey     "M">
 
 <!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies.accesskey       "A">
