@@ -39,11 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Kontrolilo">
 <!ENTITY runtimeMenu_showMonitor_accesskey "K">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferoj de aparato">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Vidi">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Ŝalti/malŝalti redaktilon">
 <!ENTITY viewMenu_toggleEditor_accesskey "r">
+<!ENTITY viewMenu_zoomin_label "Grandigi">
+<!ENTITY viewMenu_zoomin_accesskey "G">
+<!ENTITY viewMenu_zoomout_label "Malpligrandigi">
+<!ENTITY viewMenu_zoomout_accesskey "M">
+<!ENTITY viewMenu_resetzoom_label "Normala grando">
+<!ENTITY viewMenu_resetzoom_accesskey "N">
 
 <!ENTITY projectButton_label "Malfermi programon">
 <!ENTITY runtimeButton_label "Elekti rulĉirkaŭaĵon">
@@ -59,6 +67,11 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Miaj projektoj">
 <!ENTITY projectPanel_runtimeApps "Programoj de rulĉirkaŭaĵo">
@@ -131,6 +144,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools malvastigitaj privilegioj: ">
 <!ENTITY runtimedetails_requestPrivileges "peti pli altajn privilegiojn">
 <!ENTITY runtimedetails_privilegesWarning "(Tio restartigos la aparaton. Aliro kiel root estas postulata.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Preferoj de aparato">
+<!ENTITY devicepreferences_search "Preferoj de serĉo">
+<!ENTITY devicepreferences_newname "Nova nomo de prefero">
+<!ENTITY devicepreferences_newtext "Valoro de prefero">
+<!ENTITY devicepreferences_addnew "Aldoni novan preferon">
+<!ENTITY devicepreferences_typeboolean "Bulea">
+<!ENTITY devicepreferences_typenumber "Plennombra">
+<!ENTITY devicepreferences_typestring "Teksta">
+<!ENTITY devicepreferences_typenone "Elektu tipon">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Kontrolilo">
