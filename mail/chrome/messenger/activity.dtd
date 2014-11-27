@@ -17,7 +17,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.label                 "Prekliči">
 <!ENTITY cmd.cancel.accesskey             "r">
 <!ENTITY cmd.undo.label                   "Razveljavi">
-<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.undo.accesskey               "R">
 <!ENTITY cmd.recover.label                "Obnovi">
 <!ENTITY cmd.recover.accesskey            "O">
 <!ENTITY cmd.retry.label                  "Poskusi znova">

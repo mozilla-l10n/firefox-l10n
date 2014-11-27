@@ -35,7 +35,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY selectDescription.label  "Izberite vrsto datoteke, ki jo želite uvoziti:">
 <!ENTITY selectDescriptionB.label "Izberite obstoječi račun ali odprite novega:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "z">
 <!ENTITY acctName.label           "Ime:">
 <!ENTITY acctName.accesskey       "I">
 

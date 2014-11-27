@@ -17,4 +17,4 @@
 <!ENTITY fieldMapImport.fieldListTitle "Polja imenika">
 <!ENTITY fieldMapImport.dataTitle "Zapis podatkov za uvoz">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Prvi zapis vsebuje imena polj">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">

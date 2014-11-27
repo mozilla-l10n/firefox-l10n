@@ -16,7 +16,7 @@
 <!ENTITY  preserveExisting.accesskey    "O">
 <!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
 <!ENTITY  saveAssociatedFiles.label     "Ob shranjevanju strani shrani slike in druge povezane datoteke">
-<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  saveAssociatedFiles.accesskey "O">
 <!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno prikaži pogovorno okno Objavi">
 <!ENTITY  showPublishDialog.accesskey   "M">
 <!ENTITY  composerEditing.label         "Urejanje">

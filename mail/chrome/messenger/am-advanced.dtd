@@ -10,8 +10,8 @@
 
 <!ENTITY smtpDescription.label "Med upravljanjem z identitetami lahko iz seznama izberete odhodni strežnik (SMTP) ali pa z izbiro &quot;Uporabi privzeti strežnik&quot; uporabite privzetega.">
 
-<!ENTITY smtpListAdd.label  "Dodaj…">
-<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListAdd.label  "Dodaj …">
+<!ENTITY smtpListAdd.accesskey  "D">
 <!ENTITY smtpListEdit.label "Urejaj…">
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Izbriši">
