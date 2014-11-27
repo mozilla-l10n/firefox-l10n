@@ -414,6 +414,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Vyhľadať ">
+<!ENTITY searchWith.label             " pomocou:">
+<!ENTITY changeSearchSettings.button  "Zmeniť nastavenia vyhľadávania">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label "Otvoriť odkaz na novej karte">
