@@ -484,9 +484,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message "Táto stránka sleduje vašu aktivitu na webe.">
-<!ENTITY blocked_tracking_content_message_top "&brandShortName; zablokoval tejto stránke možnosť sledovať vašu aktivitu na webe.">
-<!ENTITY blocked_tracking_content_message_bottom "Väčšina webových stránok bude aj po zablokovaní sledovania aktivity naďalej fungovať správne.">
+<!ENTITY loaded_tracking_content_message_top "Ochrana pred sledovaním je vypnutá.">
+<!ENTITY loaded_tracking_content_message_bottom "Niektoré súčasti tejto stránky môžu sledovať vašu aktivitu.">
+<!ENTITY blocked_tracking_content_message_top2 "Ochrana pred sledovaním je zapnutá.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Súčasti stránky, ktoré sledujú vašu aktivitu, boli zablokované.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ďalšie informácie">
