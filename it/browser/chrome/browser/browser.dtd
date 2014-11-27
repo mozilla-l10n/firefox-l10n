@@ -291,6 +291,9 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFor.label "Cerca ">
+<!ENTITY searchWith.label " con:">
+<!ENTITY changeSearchSettings.button "Modifica impostazioni di ricerca">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Apri link in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "s">
