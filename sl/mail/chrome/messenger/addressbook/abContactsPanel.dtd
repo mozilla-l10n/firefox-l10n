@@ -15,13 +15,13 @@
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
 <!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Kp">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Skp">
-<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY addtoBccFieldMenu.accesskey        "S">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
 <!ENTITY toButton.accesskey                 "a">
 <!ENTITY ccButton.label                     "Dodaj v Kp:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.accesskey                 "K">
 <!ENTITY bccButton.label                    "Dodaj v Skp:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.accesskey                "S">

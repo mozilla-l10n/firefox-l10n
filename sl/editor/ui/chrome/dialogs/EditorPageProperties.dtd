@@ -7,7 +7,7 @@
 <!ENTITY location.label "Mesto:">
 <!ENTITY lastModified.label "Zadnja sprememba:">
 <!ENTITY titleInput.label "Naslov:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.accessKey "N">
 <!ENTITY authorInput.label "Avtor:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Opis:">

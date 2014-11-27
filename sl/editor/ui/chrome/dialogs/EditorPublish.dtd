@@ -37,9 +37,9 @@
 <!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran">
 <!ENTITY filenameExample.label        "npr.: &quot;mojastran.html&quot;">
 <!ENTITY setDefaultButton.label       "Nastavi kot privzeto">
-<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefaultButton.accesskey   "r">
 <!ENTITY removeButton.label           "Odstrani stran">
-<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeButton.accesskey       "O">
 <!-- Settings Tab Panel -->
 
 <!ENTITY publishSites.label           "Spletne strani za objavo">
@@ -58,7 +58,7 @@
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "Uporabniško ime, s katerim se prijavljate pri svojem ISP-ju ali storitvi spletnega gostovanja">
 <!ENTITY password.label               "Geslo:">
-<!ENTITY password.accesskey           "w">
+<!ENTITY password.accesskey           "G">
 <!ENTITY password.tooltip             "Geslo, ki je povezano z vašim uporabniškim imenom">
 <!ENTITY savePassword.label           "Shrani geslo">
 <!ENTITY savePassword.accesskey       "S">

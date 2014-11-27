@@ -70,7 +70,7 @@
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "v">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Zamenjaj ime in priimek">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "Z">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
@@ -191,7 +191,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.label                           "Padajoče">
 <!ENTITY sortDescending.accesskey                       "a">
 <!ENTITY _PhoneticName.label                            "Fonetično ime">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY _PhoneticName.accesskey                        "F">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

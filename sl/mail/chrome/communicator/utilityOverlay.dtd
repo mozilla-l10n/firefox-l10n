@@ -30,7 +30,7 @@
 <!ENTITY deleteCmd.accesskey        "b">
 <!ENTITY selectAllCmd.label          "Izberi vse">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
+<!ENTITY selectAllCmd.accesskey        "v">
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
@@ -55,4 +55,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "h">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapri &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "Z">
