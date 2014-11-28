@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "x">
-
-
+<!ENTITY preferencesCmd2.label                          "Opções">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
 <!-- Address Book Toolbar and Context Menus -->  
