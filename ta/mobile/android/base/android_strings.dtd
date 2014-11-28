@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
-<!ENTITY pref_donottrack_menu "கண்காணிப்பு">
-<!ENTITY pref_donottrack_disallow_tracking "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY pref_donottrack_allow_tracking "நான் கண்காணிக்கப்படுவதை விரும்புகிறேன் என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY pref_donottrack_no_pref "என்னுடைய கண்காணிப்பு விருப்ப முன்னுரிமைகளை வலைதளங்களிடம் சொல்ல வேண்டாம்">
+
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "செம்மஞ்சள் நிற நரி உங்களுடைய எதிர்பார்ப்புகளுக்கும் மேல் அதிக வேகத்துடன், அதிக நெகிழ்வு தன்மையும் மேலும் பாதுகாப்புடனும் மேலோங்கி இருக்கிறது. ஒரு இலாப நோக்கற்ற, எந்த சமரசமும் அழுத்தமும் இல்லாமல் உங்கள் சார்பாக கட்டற்று புத்தாக்கத்தை உருவாக்க இருக்கிறோம். அப்படி என்றால் உங்களுக்கு நல்லதொரு அனுபவம் மற்றும் இணையத்திற்கு ஒளிமையமான எதிர்காலமும் எனலாம்.">
+
+
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
 <!ENTITY pref_sync "ஒத்திசை">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
 
 <!ENTITY reading_list_added "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் சேர்க்கப்பட்டுள்ளது">
-<!ENTITY reading_list_failed "உங்கள் வாசிப்பு பட்டியலில் பக்கத்தைச் சேர்க்கமுடியவில்லை">
 <!ENTITY reading_list_duplicate "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் ஏற்கனவே உள்ளது">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,8 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ஒரு இணையத்தளத்தை சேர்">
-
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "வரலாறு">
 <!ENTITY home_clear_history_button "உலாவி வரலாற்றை துடை">
 <!ENTITY home_clear_history_confirm "உங்களுடைய வரலாற்றை நிச்சையமாக துடைக்க வேண்டுமா?">
@@ -395,6 +398,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்.">
 <!ENTITY home_open_all "அனைத்தையும் திற">
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "நீங்கள் சேமித்த கட்டுரைகள் பிறகு இங்கு காண்பிக்கப்படும்.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +467,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "இதுவால் இயக்கப்படுகிறது">
+<!ENTITY identity_no_info "இந்த இணைய தளம் அடையாள விவரங்களை கொடுக்கவில்லை.">
+<!ENTITY identity_not_encrypted "இந்த இணைய தளத்தில் உங்கள் இணைப்பு மறைகுறியாக்கப்படவில்லை.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "இந்த பக்கத்தில் தோன்றும் உள்ளடக்கங்கள் பாதுகாப்பானது அல்ல.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; பாதுகாப்பற்ற தடுத்த உள்ளடக்கங்கள் வைத்துள்ளது.">
 <!ENTITY blocked_mixed_content_message_bottom "இந்த உள்ளடக்கம் தடுக்கப்பட்ட போதிலும் பெரும்பான்மையான இணையத்தளங்கள் நன்றாக தான் வேலை செய்கிறது.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "இன்னும் கற்க">
 <!ENTITY enable_protection "பாதுகாப்பை செயற்படுத்து">
 <!ENTITY disable_protection "பாதுகாப்பை முடக்கவும்">
@@ -494,8 +507,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "பயன்பாடு">
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
-
-<!ENTITY devtools_remote_debugging_forward "சேவை முனை முன்செலுத்தலை அமைக்க மறக்காதீர்கள்!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;விற்கு புதுபித்தல் கிடைக்கிறது">
@@ -535,7 +546,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "பட்டி">
@@ -548,3 +559,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "கடைசி ஒத்தசைவு: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "அஆ">

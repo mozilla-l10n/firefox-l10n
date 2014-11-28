@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "இந்த இணைப்பைப் பகிரவும்">
 <!ENTITY shareLink.accesskey "h">
-
-
+<!ENTITY shareImage.label "இப்படத்தைப் பகிர்">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "தேர்வைப் பகிர்">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "இந்த நிகழ்படத்தை பகிரவும்">
@@ -267,6 +267,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "உலவி கருவிப் பெட்டி">
 <!ENTITY browserToolboxMenu.accesskey "உ">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "உலாவியின் உள்ளடக்க கருவிப் பெட்டி">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "உருவாக்குனர் கருவிப்பட்டையை மூடவும்">
 <!ENTITY devToolbarMenu.label              "டெவலப்பர் கருவிப்பட்டை">
@@ -409,6 +414,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "இதற்காக தேடு ">
+<!ENTITY searchWith.label             " உடன்:">
+<!ENTITY changeSearchSettings.button  "தேடல் அமைவுகளை மாற்று">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -700,9 +712,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ம">
 <!ENTITY social.closeNotificationItem.label "இப்போது வேண்டாம்">
 
-
-
-
+<!ENTITY social.directory.label "செயல்படுத்தும் அடைவு">
+<!ENTITY social.directory.text "நீங்கள் அடைவிலிருந்து பகிரும் சேவைகளை செயல்படுத்த முடியும்.">
+<!ENTITY social.directory.button "என்னை அங்கு கொண்டுசெல்!">
+<!ENTITY social.directory.introText "&brandShortName; என்பதற்கு சேர்க்க சேவை மீது சொடுக்கவும்.">
 <!ENTITY social.directory.viewmore.text "மேலும் பார்">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; ஐ தனிபயனாக்கு">
@@ -719,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label "&amp;brandShortName கருப்பொருளை பயன்படுத்து;">
+<!ENTITY customizeMode.deveditionTheme.label2 "உருவாக்குபவர் பதிப்பின் கருப்பொருளைப் பாவிக்கவும்">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
@@ -798,14 +811,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "தொடரும்பொருட்டு:">
 <!ENTITY panicButton.view.deleteCookies           "சமீபத்திய <html:strong>நினைவிகளை</html:strong> அழி">
-
-
-
+<!ENTITY panicButton.view.deleteHistory           "சமீபத்திய <html:strong>வரலாறுகளை</html:strong> அழி">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "அனைத்து <html:strong>தத்தல்கள்</html:strong> மற்றும் <html:strong>சாளரங்களை</html:strong> மூடு">
+<!ENTITY panicButton.view.openNewWindow           "ஒரு புதிய சுத்தமான சாளரத்தை திற">
 
 <!ENTITY panicButton.view.undoWarning             "இந்த செயல் மறைக்க முடியாது.">
+<!ENTITY panicButton.view.forgetButton            "மற!">
 
-
-
+<!ENTITY panicButton.thankyou.msg1                "உங்கள் சமீபத்திய வரலாறு துடைக்கப்பட்டது.">
+<!ENTITY panicButton.thankyou.msg2                "பாதுகாப்பான உலவல்!">
 <!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
 
