@@ -182,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Ne pokaži menija">
 <!ENTITY pref_clear_private_data2 "Počisti zdaj">
 <!ENTITY pref_clear_private_data_category "Počisti zasebne podatke">
-<!ENTITY pref_clear_on_exit_title "Vedno počisti ob izhodu">
+<!ENTITY pref_clear_on_exit_title2 "Počisti ob izhodu">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali \u0022Izhod\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
 <!ENTITY pref_plugins "Vtičniki">
@@ -266,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročila o sesutju">
 <!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Ko teče v ozadju, prejema podatke o lokaciji mobilnih in brezžičnih omrežij in jih pošilja organizaciji &vendorShortName; za izboljšanje naših gelokacijskih storitev">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Pošilja podatke o približni lokaciji mobilnih in brezžičnih omrežij in jih pošilja organizaciji &vendorShortName; za izboljšanje naših gelokacijskih storitev">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
