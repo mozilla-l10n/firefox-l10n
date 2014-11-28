@@ -120,9 +120,9 @@
 <!ENTITY pref_category_display "Pantalla">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary "Controlar contraseñas, cookies, rastreo, datos">
+<!ENTITY pref_category_privacy_summary "Control de contraseñas, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentas, elecciones de datos">
+<!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentes, opciones de datos">
 <!ENTITY pref_category_datareporting "Opciones de datos">
 <!ENTITY pref_learn_more "Conocer más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
 
-<!ENTITY pref_donottrack_menu "Rastreo">
-<!ENTITY pref_donottrack_disallow_tracking "Decirle a los sitios que no quiero ser rastreado">
-<!ENTITY pref_donottrack_allow_tracking "Decirle a los sitios que quiero ser rastreado">
-<!ENTITY pref_donottrack_no_pref "No decirle a los sitios nada sobre mis preferencias de rastreo">
+<!ENTITY pref_donottrack_title "No rastrear">
+<!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
@@ -206,6 +204,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
+<!ENTITY pref_media_autoplay_enabled "Permitir ejecución automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Controlar si los sitios web pueden reproducir automáticamente videos y otro contenido de medios">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
@@ -266,8 +267,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte ubicación aproximada de tu dispositivo por Wi-Fi y celular con &vendorShortName; para mejorar nuestro servicio de geolocalización">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo con &vendorShortName; para mejorar nuestro servicio de geolocalización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -362,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
-<!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
-<!ENTITY reading_list_duplicate "Página ya agregada a tu lista de lectura">
+<!ENTITY reading_list_duplicate "La página ya está en tu lista de lectura">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Más de una hora">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -387,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Agregar un sitio">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Querés limpiar tu historial?">
@@ -396,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
 <!ENTITY home_open_all "Abrir todas">
 <!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: usar &formatS1;Nueva pestaña privada&formatS2; no guardará tu historial.">
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -415,11 +426,11 @@ size. -->
 <!ENTITY home_move_up_to_filter "Hacia &formatS;">
 
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
-<!ENTITY home_remote_tabs_empty "Tus pestañas de otros dispositivos se muestran acá.">
+<!ENTITY home_remote_tabs_empty "Las pestañas de tus otros dispositivos aparecen acá.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
-<!ENTITY home_remote_tabs_need_to_sign_in "Ingresá para reconectar tu cuenta de Firefox y continuar sincronizando.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Ingresá para reconectar a tu cuenta de Firefox Account y continuar sincronizando.">
 <!ENTITY home_remote_tabs_trouble_verifying "¿Problemas verificando tu cuenta?">
-<!ENTITY home_remote_tabs_need_to_verify "Verificá tu cuenta de Firefox para empezar a sincronizar.">
+<!ENTITY home_remote_tabs_need_to_verify "Verificá tu cuenta de Firefox para comenzar a sincronizar.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -429,18 +440,18 @@ size. -->
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
+<!ENTITY home_remote_tabs_hidden_devices_title "Disposiivos ocultos">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Mostrar dispositivos ocultos">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Hacer visible los dispositivos seleccionados">
 
 <!ENTITY private_browsing_title "Navegación privada">
 <!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas aparecen acá. Aunque no guardamos tu historial de navegación o cookies, los marcadores y los archivos que se hayan descargados se guardarán en tu dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "¿Querés saber más?">
 
-<!ENTITY remote_tabs_panel_moved_title "¿A dónde fueron mis pestañas?">
-<!ENTITY remote_tabs_panel_moved_desc "Movimos tus pestañas de otros dispositivos a un panel en tu página de inicio que puede ser accedido fácilmente al abrir una nueva pestaña.">
-<!ENTITY remote_tabs_panel_moved_link "Llevame a mi nuevo panel.">
+<!ENTITY remote_tabs_panel_moved_title "¿A donde fueron mis pestañas?">
+<!ENTITY remote_tabs_panel_moved_desc "Movimos las pestañas de tus otros dispositivos a un panel en tu página de inicio que puede accederse fácilmente cada vez que abrás una nueva pestaña.">
+<!ENTITY remote_tabs_panel_moved_link "Ir a mi nuevo panel.">
 
 <!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
@@ -463,11 +474,20 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ejecutado por">
+<!ENTITY identity_no_info "Este sitio web no soporta información de identidad.">
+<!ENTITY identity_not_encrypted "Tu conexión a este sitio web no está cifrada.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Esta pagina está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado el contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionarán correctamente aún cuando este contenido sea bloqueado.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message "Esta página está rastreando tu actividad en línea.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha bloqueado esta página por el rastreo de tu actividad en línea.">
+<!ENTITY blocked_tracking_content_message_bottom "La mayor parte de los sitios web trabajarán correctamente aunque el rastreo en línea esté bloqueado.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Conocer más">
 <!ENTITY enable_protection "Habilitar protección">
 <!ENTITY disable_protection "Deshabilitar protección">
@@ -496,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcadores e historial">
 
-<!ENTITY devtools_remote_debugging_forward "¡No te olvidés de derivar los puertos!">
-
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualización de &brandShortName; disponible">
 <!ENTITY updater_start_select2 "Tocar para descargar">
@@ -514,7 +532,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 <!ENTITY new_tablet_restart "Reiniciar el navegador para que los cambios tengan efecto">
-<!ENTITY new_tablet_pref "Habilitar nueva UI para tablet">
+<!ENTITY new_tablet_pref "Habilitar nueva UI de tablet">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nueva sesión de invitado">
@@ -550,3 +568,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
 
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
