@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Kanalowe abonomenty">
-
+<!ENTITY learnMore.label             "Dalše informacije wo kanalach">
 
 <!ENTITY feedTitle.label             "Titul:">
 <!ENTITY feedTitle.accesskey         "T">
