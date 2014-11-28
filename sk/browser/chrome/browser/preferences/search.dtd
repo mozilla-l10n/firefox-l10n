@@ -12,6 +12,6 @@
 
 <!ENTITY oneClickSearchEngines.label           "Vyhľadávacie moduly na jedno kliknutie">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Panel Vyhľadávanie vám umožní priamo vyhľadať alternatívne moduly. Zvoľte si, ktoré si prajete zobraziť.">
+<!ENTITY chooseWhichOneToDisplay.label         "Panel Vyhľadávanie vám umožní vyhľadávať aj cez alternatívne moduly. Zvoľte, ktoré si prajete zobrazovať.">
 
 <!ENTITY addMoreSearchEngines.label            "Pridať ďalšie vyhľadávacie moduly…">
