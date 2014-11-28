@@ -136,7 +136,7 @@ reddedilmesi olabilmektedir.</li>
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
-<li>Site geçici olarak kullanım dışı veya çok meşgul olabilir Birkaç dakika sonra tekrar deneyin.</li> 
+<li>Site geçici olarak kullanım dışı veya çok meşgul olabilir. Birkaç dakika sonra tekrar deneyin.</li> 
 <li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin. 
 <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> 
 </li> 
