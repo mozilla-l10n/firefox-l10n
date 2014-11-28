@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "   Telemetry <span>devre dışı</span>. ">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "   Yavaş SQL Deyimleri ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "   Tarayıcı Takılmaları ">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  İş Parçacığı Takılmaları">
 
 <!ENTITY aboutTelemetry.histogramsSection "   Histogramlar ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
 

@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Yüksek">
-<!ENTITY priority.level.high.accesskey      "Y">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 saat">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "s">
@@ -241,6 +241,12 @@
 <!ENTITY calendar.context.export.accesskey             "a">
 <!ENTITY calendar.context.properties.label             "Özellikler">
 <!ENTITY calendar.context.properties.accesskey         "k">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Dönüştür">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
