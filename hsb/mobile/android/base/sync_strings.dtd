@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Přepruwowanski wotkaz je so na &formatS; pósłał">
 <!ENTITY fxaccount_confirm_account_resend_email "E-mejl znowa pósłać">
-
+<!ENTITY fxaccount_confirm_account_change_email "Tutu e-mejlowu adresu zabyć?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Přepruwowanska e-mejl je so pósłała">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Přepruwowanska e-mejl njeda so pósłać">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
 <!ENTITY fxaccount_status_auth_server "Kontowy serwer">
-
-
+<!ENTITY fxaccount_status_sync_now "Nětko synchronizować">
+<!ENTITY fxaccount_status_syncing2 "Sychronizuje so…">
 <!ENTITY fxaccount_status_device_name "Gratowe mjeno">
 <!ENTITY fxaccount_status_sync_server "Synchronizaciski serwer">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

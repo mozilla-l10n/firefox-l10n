@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
 
-
+<!ENTITY pref_donottrack_title "Njeslědować">
+<!ENTITY pref_donottrack_summary "&brandShortName; zdźěli sydłam, zo nochceće, zo wam slěduja.">
 
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
@@ -208,6 +209,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Spěšna oranžowa liška skoči nad waše wočakowanja z wjetšej spěšnosću, wyšej fleksibelnosću a wyšej wěstotu. Jako powšitkownosći wužitna organizacija, móžemy k wašemu wužitkej bjez ćišća kompromisa nowostki zawjesć. To woznamjenja lěpše dožiwjenje za was a swětliši přichod za web.">
 
+<!ENTITY pref_media_autoplay_enabled "Awtomatiske wothraće dowolić">
 
 
 <!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
