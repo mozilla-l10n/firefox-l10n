@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-
+<!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, desenvolvido por uma comunidade de milhares de pessoas de todo o mundo. Existem algumas coisas que você deve saber:">
 <!-- Note on pointa / pointb / pointc form:
