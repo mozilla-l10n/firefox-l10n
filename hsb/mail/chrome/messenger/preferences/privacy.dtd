@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Placki pokazać…">
 <!ENTITY showCookies.accesskey "c">
 
-<!ENTITY dntTrackingNopref.label2 "Sydłam ničo wo slědowanskich nastajenjach njezdźělić">
-<!ENTITY dntTrackingNopref.accesskey "S">
 <!ENTITY dntTrackingNotOkay.label2 "Sydłam zdźělić, zo nimaja mje slědować">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Sydłam zdźělić, zo smědźa mje slědować">
-<!ENTITY dntTrackingOkay.accesskey "z">
 <!ENTITY doNotTrackInfo.label "Dalše informacije wo Do Not Track">
-

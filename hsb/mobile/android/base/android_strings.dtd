@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
 
-<!ENTITY pref_donottrack_menu "Slědowanje">
-<!ENTITY pref_donottrack_disallow_tracking "Sydłam zdźělić, zo nochcu so slědować">
-<!ENTITY pref_donottrack_allow_tracking "Sydłam zdźělić, zo chcu so slědować">
-<!ENTITY pref_donottrack_no_pref "Sydłam ničo wo mojich slědowanskich nastajenjach njezdźělić">
+
 
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Spěšna oranžowa liška skoči nad waše wočakowanja z wjetšej spěšnosću, wyšej fleksibelnosću a wyšej wěstotu. Jako powšitkownosći wužitna organizacija, móžemy k wašemu wužitkej bjez ćišća kompromisa nowostki zawjesć. To woznamjenja lěpše dožiwjenje za was a swětliši přichod za web.">
+
+
 
 <!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nastajenja za zhašenje njejsu.">
 
 <!ENTITY reading_list_added "Strona je so wašej čitanskej lisćinje přidała">
-<!ENTITY reading_list_failed "Strona njeda so wašej čitanskej lisćinje přidać">
 <!ENTITY reading_list_duplicate "Strona je hižo we wašej čitanskej lisćinje">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Sydło přidać">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "Startowa strona &brandShortName;">
 <!ENTITY home_history_title "Historija">
 <!ENTITY home_clear_history_button "Přehladowansku historiju wuprózdnić">
 <!ENTITY home_clear_history_confirm "Chceće woprawdźe historiju wuprózdnić?">
@@ -395,6 +400,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Waše najnowše rajtarki so tu pokazuja.">
 <!ENTITY home_open_all "Wšě wočinić">
 <!ENTITY home_most_recent_empty "Websydła, kotrež sće njedawno wopytał, so tu pokazuja.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Nastawki, kotrež za pozdźišo składujeće, so tu pokazuja.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +469,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by ", kotryž wudźeržuje so wot">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Tuta strona zwobraznja wobsah, kotryž wěsty njeje.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; je wobsah zablokował, kotryž wěsty njeje.">
 <!ENTITY blocked_mixed_content_message_bottom "Njawjace websydłow budźe hišće derje fungować, byrnjež tutón wobsah zablokowany był.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Dalše informacije">
 <!ENTITY enable_protection "Škit zmóžnić">
 <!ENTITY disable_protection "Škit znjemóžnić">
@@ -494,8 +509,6 @@ z Androida">
 <!ENTITY webapp_generic_name "Nałoženje">
 
 <!ENTITY searchable_description "Zapołožki a historija">
-
-<!ENTITY devtools_remote_debugging_forward "Njezabudźće port za dalesposrědkowanje nastajić!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Aktualizacija za &brandShortName; k dispoziciji">
@@ -535,7 +548,7 @@ z Androida">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Meni">
@@ -548,3 +561,8 @@ z Androida">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Posledni raz synchronizowany: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

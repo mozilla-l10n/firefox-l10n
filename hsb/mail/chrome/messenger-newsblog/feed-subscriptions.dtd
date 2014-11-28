@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Kanalowe abonomenty">
-<!ENTITY subscriptionDesc.label      "Kedźbu: Wotstronjenje abo změnjenje rjadowaka za kanal njebudźe prjedy sćehnjene nastawki wobwliwować.">
+
 
 <!ENTITY feedTitle.label             "Titul:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL kanala:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Zapodajće płaćiwy URL kanala">
+<!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
+<!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">
 
 <!ENTITY feedFolder.label            "Nastawki składować w:">
 <!ENTITY feedFolder.accesskey        "N">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Znački prefigować z:">
 <!ENTITY autotagUsePrefix.accesskey  "f">
 <!ENTITY autoTagPrefix.placeholder   "Zapodajće značkowy prefiks">
-
-<!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
-<!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">
 
 <!ENTITY button.addFeed.label        "Přidać">
 <!ENTITY button.addFeed.accesskey    "P">

@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Standardna pytawa">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Wubjerće swoju standardnu pytawu. &brandShortName; wužiwa ju w adresowym polu, w pytanskej polu  na startowej stronje">
+
+<!ENTITY provideSearchSuggestions.label        "Pytanske namjety podać">
+<!ENTITY provideSearchSuggestions.accesskey    "P">
+
+
+<!ENTITY oneClickSearchEngines.label           "Pytawy z jednym kliknjenjom">
+
+<!ENTITY chooseWhichOneToDisplay.label         "Tute pytanske polo wam zmóžnja, direktnje z druhimi pytawami pytać. Wubjerće, kotre maja so zwobraznić.">
+
+<!ENTITY addMoreSearchEngines.label            "Dalše pytawy přidać…">

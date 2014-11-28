@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Składowanski limit docpěty">
-<!ENTITY fileExceedsQuota.accept "Aktualizować">
-<!ENTITY fileExceedsQuota.cancel "Přetorhnyć">
 <!ENTITY fileExceedsQuota.description "Sće swój kontowy składowanski limit 2GB docpěł.">
 <!ENTITY fileExceedsQuota.description1 "Waše aktualne składowe wužiće je #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Zaktualizujće dźensa na konto Pro Plus a dóstaj wjace składa.">
-<!ENTITY fileExceedsQuota.description3 "Móžeće tež dataje w swojim konće zhašeć, zo byšće wjace ruma wutworił.">

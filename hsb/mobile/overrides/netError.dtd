@@ -145,8 +145,8 @@ snano nachwilny być a móžeće pozdźišo hišće raz spytać.</li> 
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
+<!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
 
 <!ENTITY corruptedContentError.title "Zmylk - wobškodźeny wobsah">
 <!ENTITY corruptedContentError.longDesc "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž je so zmylk při přenošowanju datow namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
