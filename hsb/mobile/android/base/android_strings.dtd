@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Spěšna oranžowa liška skoči nad waše wočakowanja z wjetšej spěšnosću, wyšej fleksibelnosću a wyšej wěstotu. Jako powšitkownosći wužitna organizacija, móžemy k wašemu wužitkej bjez ćišća kompromisa nowostki zawjesć. To woznamjenja lěpše dožiwjenje za was a swětliši přichod za web.">
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wothraće dowolić">
-
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolować, hač websydła móža wideja a druhi medijowy wobsah automatisce wothrać.">
 
 <!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
 <!ENTITY pref_sync "Sync">
@@ -367,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; mjeń">
+<!ENTITY reading_list_time_over_an_hour "Přez hodźinu">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -404,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Websydła, kotrež sće njedawno wopytał, so tu pokazuja.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Pst: wužiwanje &formatS1;noweho priwatneho rajtarka&formatS2; njebudźe wašu historiju składować.">
 <!ENTITY home_reading_list_empty "Nastawki, kotrež za pozdźišo składujeće, so tu pokazuja.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -471,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by ", kotryž wudźeržuje so wot">
-
-
+<!ENTITY identity_no_info "Tute websydło informacije wo identitach njepodawa.">
+<!ENTITY identity_not_encrypted "Waš zwisk z tutym websydłom njeje zaklučowany.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Tuta strona zwobraznja wobsah, kotryž wěsty njeje.">
@@ -480,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Njawjace websydłow budźe hišće derje fungować, byrnjež tutón wobsah zablokowany był.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Slědowanski škit je znjemóžnjeny.">
+<!ENTITY loaded_tracking_content_message_bottom "Dźěle tuteje strony slěduja snano wašu online-aktiwitu.">
+<!ENTITY blocked_tracking_content_message_top2 "Slědowanski škit zmóžnjeny.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Dźěle strony, kotraž wašu online-aktiwitu slěduje, su so zablokowali.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Dalše informacije">
