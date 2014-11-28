@@ -19,10 +19,11 @@
 <!ENTITY quickMode.label             "Exibir o conteúdo do item em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "E">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Criar tags automaticamente dos nomes das &lt;categorias&gt; do feed.">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Tags com prefixo:">
+<!ENTITY autotagUsePrefix.accesskey  "p">
+<!ENTITY autoTagPrefix.placeholder   "Digite um prefixo de tag">
 
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">

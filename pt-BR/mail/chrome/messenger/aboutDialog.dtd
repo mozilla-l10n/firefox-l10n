@@ -5,10 +5,10 @@
 # the about dialog.
 -->
 
+<!ENTITY update.updateButton.label2               "Reiniciar o &brandShortName; para atualizar">
 
-
-
-
+<!ENTITY update.applyButtonBillboard.label        "Aplicar atualização…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 <!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Inserir Math">
+
+<!ENTITY sourceEditField.label "Digite o código-fonte LaTeX:">
 
 <!ENTITY options.label "Opções">
 
 
 
 
-
-
-
-
+<!ENTITY optionLTR.label "Texto no sentido esquerda para a direita">
+<!ENTITY optionLTR.accesskey "e">
+<!ENTITY optionRTL.label "Texto no sentido direita para esquerda">
+<!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY example.label "Exemplo: ">
 <!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
