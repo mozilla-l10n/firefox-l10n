@@ -605,14 +605,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Osnovni slog strani">
 <!ENTITY pageStylePersistentOnly.accesskey "o">
 
-<!ENTITY pageReportIcon.tooltip "Spremeni nastavitve prepovedovanja neželenih oken za to stran">
+<!ENTITY pageReportIcon.tooltip "Spremeni nastavitve prepovedovanja pojavnih oken za to stran">
 
 <!ENTITY allowPopups.accesskey "d">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja neželenih oken …">
-<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja neželenih oken …">
+<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja pojavnih oken …">
+<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja pojavnih oken …">
 <!ENTITY editPopupSettings.accesskey "U">
 <!ENTITY dontShowMessage.accesskey "N">
 
