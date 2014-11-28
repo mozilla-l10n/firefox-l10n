@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Firefox hanse war boŋše
+#define firefox_customize Firefox hanse war boŋ se
 
 
 # LOCALIZATION NOTE (firefox_community):
