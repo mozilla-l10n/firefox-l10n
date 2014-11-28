@@ -7,5 +7,5 @@
 <!ENTITY provideSearchSuggestions.label "Visualizza suggerimenti di ricerca">
 <!ENTITY provideSearchSuggestions.accesskey "V">
 <!ENTITY oneClickSearchEngines.label "Motori di ricerca in un clic">
-<!ENTITY chooseWhichOneToDisplay.label "La barra di ricerca permette di cercare direttamente in diversi motori. È possibile scegliere quali motori di ricerca visualizzare tra quelli disponibili.">
+<!ENTITY chooseWhichOneToDisplay.label "La barra di ricerca permette di effettuare ricerche direttamente in diversi siti. È possibile scegliere quali motori di ricerca visualizzare tra quelli disponibili.">
 <!ENTITY addMoreSearchEngines.label "Aggiungi altri motori di ricerca…">
