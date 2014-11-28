@@ -15,6 +15,7 @@
 <!ENTITY manageSubscriptions.label "Inscrições RSS…"> 
 <!ENTITY manageSubscriptions.accesskey "I">
 
+<!ENTITY feedWindowTitle.label "Assistente de contas de Feed">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "RSS de blogs e notícias">
