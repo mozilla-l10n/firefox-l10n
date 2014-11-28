@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "துண்டி">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "பார்">
 
 
+
+<!ENTITY viewMenu_zoomin_label "பெரிதாக்கு">
+
+<!ENTITY viewMenu_zoomout_label "சிறிதாக்கு">
 
 
 
@@ -49,13 +57,17 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "தத்தல்கள்">
 
 
 
-<!ENTITY runtimePanel_custom "தனிபயன்">
+
 <!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
 
 
@@ -92,8 +104,6 @@
 
 
 
-
-
 <!ENTITY prefs_options_tabsize "தத்தல் அளவு">
 
 <!ENTITY prefs_options_expandtab_tooltip "தத்தலுக்கு பதில் இடைவெளிகளைப் பயன்படுத்து">
@@ -108,6 +118,15 @@
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "பெயர்">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

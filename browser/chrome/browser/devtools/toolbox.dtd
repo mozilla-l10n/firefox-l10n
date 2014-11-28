@@ -113,11 +113,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* தற்போதைய கருவிப்பெட்டி இலக்குக்கு ஆதரவில்லை">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "DevTools தீமைத் தேர்வு செய்யவும்:">
+<!ENTITY options.selectDevToolsTheme.label2   "கருப்பொருள்கள்">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -183,3 +186,4 @@
 <!ENTITY options.sourceeditor.keybinding.label          "Kவிசைப்பிணைப்புகள்">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "முன்னிருப்பு">
+

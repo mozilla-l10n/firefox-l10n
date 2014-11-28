@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "ஒரு புதிய தனிப்பட்ட சாளரத்தைத் திற">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "தனிப்பட்ட உலாவலைத் தொடங்க, நீங்கள் &basePBMenu.label; &gt; &newPrivateWindow.label; ஐயும் தேர்ந்தெடுக்கலாம்.">

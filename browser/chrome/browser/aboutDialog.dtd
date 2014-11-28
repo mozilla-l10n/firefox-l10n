@@ -38,10 +38,13 @@
 <!ENTITY community.creditsLink      "உலகளாவிய சமூகம்">
 <!ENTITY community.end3             " இணையத்தை திறந்ததாக , பொதுவானதாக மற்றும் அனைவருக்கும் கிடைக்கும் வகையில் இருக்க இணைந்து உழைக்கிறது.">
 
-<!ENTITY contribute.start           "சுவரசியமாக உள்ளதா? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "பங்குபெறுங்கள்!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "உதவ விரும்புகிறீர்களா? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "கொடை வழங்குக">
+<!ENTITY helpus.middle              " அல்லது ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "பங்குபெறுங்கள்!">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "உரிம தகவல்">

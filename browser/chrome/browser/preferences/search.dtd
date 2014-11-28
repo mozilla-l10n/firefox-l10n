@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "முன்னிருப்பு தேடுப்பொறி">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "உங்கள் முன்னிருப்பு தேடுப்பொறியைத் தேர்ந்தெடுக்கவும். &brandShortName; ஆனது இடப்பட்டையையும் தேடல் பட்டையையும் தொடக்கப் பக்கத்தையும் பயன்படுத்தும்.">
+
+<!ENTITY provideSearchSuggestions.label        "தேடல் பரிந்துரைகளை வழங்கு">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+
+<!ENTITY oneClickSearchEngines.label           "ஒரு சொடுக்கில் தேடு பொறிகள்">
+
+<!ENTITY chooseWhichOneToDisplay.label         "தேடல் பட்டையானது மாற்று பொறிகளை தேரடியாக தேட உதவுகிறது. காண்பிக்க வேண்டியதை தேர்ந்தெடுக்கவும்.">
+
+<!ENTITY addMoreSearchEngines.label            "இன்னும் அதிகமான தேடு பொறிகளை சேர்...">
