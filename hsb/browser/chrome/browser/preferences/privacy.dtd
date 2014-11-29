@@ -20,8 +20,8 @@
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Zapołožki">
 <!ENTITY  locbar.bookmarks.accesskey    "Z">
-<!ENTITY  locbar.openpage.label         "Rajtarki wočinić">
-<!ENTITY  locbar.openpage.accesskey     "R">
+<!ENTITY  locbar.openpage.label         "Wočinjene rajtarki">
+<!ENTITY  locbar.openpage.accesskey     "o">
 
 <!ENTITY  acceptCookies.label           "Placki ze sydłow akceptować">
 <!ENTITY  acceptCookies.accesskey       "c">

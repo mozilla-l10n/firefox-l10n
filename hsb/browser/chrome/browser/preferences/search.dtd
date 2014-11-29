@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Standardna pytawa">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Wubjerće swoju standardnu pytawu. &brandShortName; wužiwa ju w adresowym polu, w pytanskej polu  na startowej stronje">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Wubjerće swoju standardnu pytawu. &brandShortName; wužiwa ju w adresowym polu, w pytanskej polu a na startowej stronje.">
 
 <!ENTITY provideSearchSuggestions.label        "Pytanske namjety podać">
 <!ENTITY provideSearchSuggestions.accesskey    "P">
