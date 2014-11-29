@@ -46,6 +46,12 @@
 <!ENTITY viewMenu_accesskey "W">
 <!ENTITY viewMenu_toggleEditor_label "Edytor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_zoomin_label "Powiększ">
+<!ENTITY viewMenu_zoomin_accesskey "P">
+<!ENTITY viewMenu_zoomout_label "Pomniejsz">
+<!ENTITY viewMenu_zoomout_accesskey "z">
+<!ENTITY viewMenu_resetzoom_label "Rozmiar pierwotny">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Otwórz aplikację">
 <!ENTITY runtimeButton_label "Wybierz środowisko">
@@ -55,6 +61,10 @@
 <!ENTITY key_play "R">
 <!ENTITY key_toggleToolbox "VK_F12">
 <!ENTITY key_toggleEditor "B">
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projekty">
 <!ENTITY projectPanel_runtimeApps "Aplikacje środowiska">
