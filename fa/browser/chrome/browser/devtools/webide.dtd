@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "قطع ارتباط">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "نمایش">
 
 
+
+<!ENTITY viewMenu_zoomin_label "بزرگ‌نمایی">
+
+<!ENTITY viewMenu_zoomout_label "کوچک‌نمایی">
 
 
 
@@ -49,6 +57,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "زبانه‌ها">
@@ -98,12 +110,19 @@
 
 
 
-
-
 <!ENTITY prefs_options_keybindings_default "پیش‌فرض">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

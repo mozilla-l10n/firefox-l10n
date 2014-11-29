@@ -92,8 +92,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>وارد کردن اطلاعات شخصی در این صقحه ممکن است به سرقت هویت شما یا تخلفات دیگری بیانجامد</p> 
 <p>این نوع جعل‌های وبی در برخی حقه‌ها به نام حملات ماهی‌گیری استفاده می‌شوند.  در این نوع حملات، از صفحات وب متخلف و پست الکترونیکی برای بازی کردن نقش منبعی که به آن اطمینان دارید استفاده می‌شود.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
+<!ENTITY cspBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
 <!ENTITY corruptedContentError.title "خطای خرابی محتوا">
 <!ENTITY corruptedContentError.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
@@ -112,6 +112,14 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+
+
+
+
+
+
+
 
 <!ENTITY remoteXUL.title "XUL راه دور">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
