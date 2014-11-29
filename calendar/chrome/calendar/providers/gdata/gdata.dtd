@@ -12,5 +12,11 @@
 <!ENTITY gdata.migration.upgrade.label "Opgrader">
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Kontroller altid">
+<!ENTITY gdata.reminder.default "Standardpåmindelse">
 
 <!ENTITY gdata.reminder.action.sms.label "Send en SMS">
+
+<!ENTITY gdata.wizard.session.description "Vælg en eksisterende session, eller indtast en mailadresse, for at oprette en ny session. Du skal kun bruge én session pr. konto.">
+<!ENTITY gdata.wizard.calendars.description "Vælg de kalendere og lister over opgaver, du vil abonnere på.">
+
+<!ENTITY gdata.wizard.nextstep.description "Fortsæt til næste trin for at indstille dine kalendere.">
