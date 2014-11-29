@@ -289,9 +289,10 @@
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
 <!ENTITY home_remote_tabs_empty "Sus pestañas de otros dispositivos se muestran aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
-<!ENTITY home_remote_tabs_need_to_sign_in "Regístrese para reconectar su cuenta Firefox y continuar sincronizando.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Regístrese para reconectar su cuenta de Firefox y continuar sincronizando.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "¡Su nueva cuenta de Firefox está lista!">
 <!ENTITY home_remote_tabs_trouble_verifying "¿Tiene problemas para verificar su cuenta?">
-<!ENTITY home_remote_tabs_need_to_verify "Verifique su cuenta Firefox para comenzar a sincronizar.">
+<!ENTITY home_remote_tabs_need_to_verify "Verifique su cuenta de Firefox para comenzar a sincronizar.">
 <!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
@@ -314,9 +315,10 @@
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
-<!ENTITY loaded_tracking_content_message "Esta página rastrea su actividad en línea.">
-<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha bloqueado que esta página rastree su actividad en línea.">
-<!ENTITY blocked_tracking_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso cuando se bloquea el rastreo.">
+<!ENTITY loaded_tracking_content_message_top "Protección contra rastreo desactivada.">
+<!ENTITY loaded_tracking_content_message_bottom "Algunas partes de esta página pueden rastrear su actividad en Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "La protección contra rastreo está activada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
 <!ENTITY learn_more "Saber más">
 <!ENTITY enable_protection "Activar protección">
 <!ENTITY disable_protection "Desactivar protección">
