@@ -291,6 +291,9 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFor.label "Buscar:">
+<!ENTITY searchWith.label " con:">
+<!ENTITY changeSearchSettings.button "Cambiar configuración de búsqueda">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey "T">
@@ -546,7 +549,7 @@
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está desactivada">
 <!ENTITY trackingContentBlocked.message "Rastreo">
-<!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueado.">
+<!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber más">
 <!ENTITY trackingContentBlocked.options "Opciones">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactivar protección en este sitio">
