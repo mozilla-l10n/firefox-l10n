@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "啟用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "停用">
 
-<!ENTITY pref_donottrack_menu "追蹤">
-<!ENTITY pref_donottrack_disallow_tracking "告訴網站我不想被追蹤">
-<!ENTITY pref_donottrack_allow_tracking "告訴網站我想要被追蹤">
-<!ENTITY pref_donottrack_no_pref "不要告訴網站我的追蹤偏好">
+<!ENTITY pref_donottrack_title "Do not track">
+<!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. 作為非營利組織，我們站在您的立場進行創新，不向任何壓力妥協。您將能夠有更好的上網體驗，並讓網路有個更光明的未來。">
+
+<!ENTITY pref_media_autoplay_enabled "允許自動播放">
+<!ENTITY pref_media_autoplay_enabled_summary "控制網站是否能夠自動播放影片或其他媒體內容">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
-<!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
 <!ENTITY reading_list_duplicate "頁面已存在於您的閱讀清單中">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; 分">
+<!ENTITY reading_list_time_over_an_hour "超過一小時">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "新增網站">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; 首頁">
 <!ENTITY home_history_title "歷史記錄">
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
 <!ENTITY home_open_all "開啟全部">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "噓！&formatS1;開新隱私瀏覽分頁&formatS2; 後將不會儲存您的瀏覽紀錄。">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
+<!ENTITY identity_no_info "此網站沒有提供身分識別資訊。">
+<!ENTITY identity_not_encrypted "您與此網站的連線並未加密。">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; 已封鎖了不安全的內容。">
 <!ENTITY blocked_mixed_content_message_bottom "大部分的網站在此內容被封鎖時還是能正常使用。">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "追蹤保護已停用。">
+<!ENTITY loaded_tracking_content_message_bottom "本頁面中的部分內容可能會追蹤您的線上行為。">
+<!ENTITY blocked_tracking_content_message_top2 "追蹤保護已啟用。">
+<!ENTITY blocked_tracking_content_message_bottom2 "已封鎖本頁面中部分追蹤您線上行為的內容。">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "更多資訊">
 <!ENTITY enable_protection "啟用保護">
 <!ENTITY disable_protection "停用保護">
@@ -491,8 +513,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "程式">
 
 <!ENTITY searchable_description "書籤與歷史紀錄">
-
-<!ENTITY devtools_remote_debugging_forward "別忘記設定轉發通訊埠 (port forwarding)！">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "有可用的 &brandShortName; 更新">
@@ -533,7 +553,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "選單">
 <!ENTITY actionbar_done "完成">
@@ -545,4 +565,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "最後同步: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
 

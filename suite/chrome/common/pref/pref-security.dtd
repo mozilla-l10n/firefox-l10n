@@ -8,12 +8,12 @@
 <!ENTITY tracking.label                   "使用者追蹤">
 <!ENTITY trackingIntro.label              "某些網站可能會追蹤您的使用方式，這可能會影響您的隱私權。">
 
-<!ENTITY dntTellSites.label               "告訴網站我對追蹤行為的偏好">
-<!ENTITY dntTellSites.accesskey           "T">
-<!ENTITY dntTrackingNotOkay.label         "我不想被追蹤">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "我同意被追蹤">
-<!ENTITY dntTrackingOkay.accesskey        "c">
+<!ENTITY doNotTrack.label                 "告訴網站我不想被追蹤">
+<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY trackProtect.label               "防止已知網站的追蹤行為">
+<!ENTITY trackProtect.accesskey           "n">
+<!ENTITY warnTrackContent.label           "偵測到追蹤行為時警告我">
+<!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "位置感知瀏覽">
 <!ENTITY geoIntro.label                   "網站可能會向您請求所在位置的準確資訊。">

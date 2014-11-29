@@ -2,13 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "傳送超過 50 MB 大小的檔案">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "是收費版本才有的功能。">
-<!ENTITY fileExceedsLimit.accept "升級">
-<!ENTITY fileExceedsLimit.cancel "取消">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "非付費帳號無法傳送超過  50 MB 大小的檔案。">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "立即升級以傳送此檔案，還有:">
-<!ENTITY fileExceedsLimit.pros1 "傳送最大 2GB 的檔案與資料夾">
-<!ENTITY fileExceedsLimit.pros2 "在網路上儲存不限數量的檔案">
-<!ENTITY fileExceedsLimit.pros3 "隨時隨地存取並分享檔案">
 

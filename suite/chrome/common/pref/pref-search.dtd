@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
 <!ENTITY pref.search.title                "網際網路搜尋">
-<!ENTITY legendHeader                     "當按下「搜尋」按鈕時:">
+<!ENTITY legendHeader                     "預設搜尋引擎">
 <!ENTITY defaultSearchEngine.label        "使用搜尋引擎:">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
