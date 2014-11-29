@@ -39,6 +39,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor zasobów">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Ustawienia urządzenia">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "U">
 
 <!ENTITY viewMenu_label "Widok">
 <!ENTITY viewMenu_accesskey "W">
@@ -115,6 +117,16 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Ograniczone uprawnienia narzędzi: ">
 <!ENTITY runtimedetails_requestPrivileges "zażądaj wyższych uprawnień">
 <!ENTITY runtimedetails_privilegesWarning "Urządzenie zostanie uruchomione ponownie. Wymagane uprawnienia użytkownika „root”">
+
+<!ENTITY devicepreferences_title "Ustawienia urządzenia">
+<!ENTITY devicepreferences_search "Ustawienia wyszukiwania">
+<!ENTITY devicepreferences_newname "Nazwa ustawienia">
+<!ENTITY devicepreferences_newtext "Wartość ustawienia">
+<!ENTITY devicepreferences_addnew "Dodaj ustawienie">
+<!ENTITY devicepreferences_typeboolean "Wartość logiczna">
+<!ENTITY devicepreferences_typenumber "Liczba całkowita">
+<!ENTITY devicepreferences_typestring "Łańcuch znaków">
+<!ENTITY devicepreferences_typenone "Wybierz typ">
 
 <!ENTITY monitor_title "Monitor zasobów">
 <!ENTITY monitor_help "Pomoc">
