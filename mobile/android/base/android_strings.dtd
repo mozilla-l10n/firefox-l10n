@@ -5,12 +5,17 @@
 
 <!ENTITY  no_space_to_start_error "Nema dovoljno prostora za pokretanje &brandShortName;.">
 <!ENTITY  error_loading_file "Došlo je do greške prilikom učitavanja datoteka potrebnih za pokretanje &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Zabilješke">
 <!ENTITY  history_title "Povijest">
 <!ENTITY  reading_list_title "Popis čitanja">
+
 
 <!ENTITY  switch_to_tab "Prebaci na karticu">
 
@@ -33,9 +38,7 @@
 
 <!ENTITY choose_file "Odaberi datoteku">
 
-<!ENTITY url_bar_default_text "Upišite pojam pretraživanja ili adresu">
 
-<!ENTITY bookmark "Zabilješka">
 <!ENTITY bookmark_added "Zabilješka dodana">
 <!ENTITY bookmark_removed "Zabilješka uklonjena">
 <!ENTITY bookmark_updated "Zabilješka ažurirana">
@@ -43,8 +46,8 @@
 
 <!ENTITY history_today_section "Danas">
 <!ENTITY history_yesterday_section "Jučer">
-<!ENTITY history_week_section "prije 7 dana">
-<!ENTITY history_older_section "Starije od 7 dana">
+
+
 
 <!ENTITY go "Idi">
 <!ENTITY search "Traži">
@@ -72,23 +75,45 @@
 <!ENTITY settings_title "Postavke">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Prilagodite">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Jezik">
+
 <!ENTITY pref_browser_locale "Jezik preglednika">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
 <!ENTITY locale_system_default "Zadani sistemski">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "Dodaj na popis za čitanje">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "Pokušaj ponovno">
+
 
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
 <!ENTITY pref_category_display "Prikaz">
+
 <!ENTITY pref_category_privacy_short "Privatnost">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Izbori podataka">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači interneta">
@@ -103,13 +128,14 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
 <!ENTITY pref_category_devtools "Alati za razvijatelje">
+
+
 <!ENTITY pref_developer_remotedebugging "Udaljeno otklanjanje grešaka">
 <!ENTITY pref_remember_signons "Zapamti lozinke">
 
 <!ENTITY pref_category_home "Početak">
 <!ENTITY pref_category_home_summary "Prilagodite početnu stranicu">
 <!ENTITY pref_category_home_panels "Ploče">
-<!ENTITY pref_home_add_panel "Dodaj ploču">
 <!ENTITY home_add_panel_title "Dodaj novu ploču">
 <!ENTITY home_add_panel_empty "Nismo mogli pronaći ploče koje biste mogli dodati.">
 <!-- Localization note (home_add_panel_installed):
@@ -137,15 +163,16 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
 
-<!ENTITY pref_donottrack_menu "Praćenje">
-<!ENTITY pref_donottrack_disallow_tracking "Obavijesti stranice da me ne prate">
-<!ENTITY pref_donottrack_allow_tracking "Obavijesti stranice da me prate">
-<!ENTITY pref_donottrack_no_pref "Ne obaviještavaj stranice o mojim postavkama praćenja">
+
 
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
 <!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
-<!ENTITY pref_clear_private_data "Očisti privatne podatke">
+
+<!ENTITY pref_clear_private_data_category "Očisti privatne podatke">
+
+
+
 <!ENTITY pref_plugins "Priključci">
 <!ENTITY pref_plugins_enabled "Omogućeno">
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
@@ -170,11 +197,14 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+
+
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
-<!ENTITY pref_show_product_announcements "Prikaži objave proizvoda">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 <!ENTITY pref_import_android "Uvoz iz Androida">
+
 
 <!ENTITY pref_private_data_formdata "Povijest formi i traženja">
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
@@ -228,7 +258,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikada">
@@ -253,10 +282,12 @@ size. -->
 <!ENTITY new_tab "Nova kartica">
 <!ENTITY new_private_tab "Nova privatna kartica">
 <!ENTITY close_all_tabs "Zatvori sve kartice">
+
 <!ENTITY tabs_normal "Kartice">
 <!ENTITY tabs_private "Privatno">
 <!ENTITY tabs_synced "Sinkronizirano">
 <!ENTITY set_image_fail "Nije moguće postaviti sliku">
+
 <!ENTITY set_image_chooser_title "Postavi sliku kao">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -265,17 +296,14 @@ size. -->
 <!ENTITY find_prev "Prethodni">
 <!ENTITY find_next "Sljedeći">
 <!ENTITY find_close "Zatvori">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY media_casting_to "Prijenos na uređaj">
 <!ENTITY media_play "Pokreni">
 <!ENTITY media_pause "Pauziraj">
 <!ENTITY media_stop "Zaustavi">
 
 <!ENTITY contextmenu_open_new_tab "Otvori u novoj kartici">
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
-<!ENTITY contextmenu_open_in_reader "Otvori u čitaču">
 <!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
 <!ENTITY contextmenu_share "Dijeli">
@@ -293,8 +321,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Naslovna traka">
 <!ENTITY pref_titlebar_mode_title "Prikaži naslov stranice">
 <!ENTITY pref_titlebar_mode_url "Prikaži adresu stranice">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -314,8 +343,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
 <!ENTITY reading_list_added "Stranica dodana na popis za čitanje">
-<!ENTITY reading_list_failed "Neuspješno dodavanje stranice na popis za čitanje">
 <!ENTITY reading_list_duplicate "Stranica je već na popisu za čitanje">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -338,16 +370,19 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Dodaj stranicu">
-
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "Povijest">
 
 
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
-<!ENTITY home_last_tabs_title "Kartice od zadnji puta">
-<!ENTITY home_last_tabs_open "Otvori sve kartice od zadnji puta">
-<!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
-<!ENTITY home_most_recent_title "Aktualno">
 
+<!ENTITY home_last_tabs_title "Kartice od zadnji puta">
+<!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
+
+
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -359,6 +394,27 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+
+<!ENTITY home_remote_tabs_unable_to_connect "Povezivanje nije moguće">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+
+
+
+
+
 
 
 <!ENTITY filepicker_title "Odaberi datoteku">
@@ -377,8 +433,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+
+
 <!-- Mixed content notifications in site identity popup -->
 
+
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Saznajte više">
 
@@ -397,7 +461,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 
 
-
 <!-- Updater notifications -->
 
 
@@ -405,6 +468,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
 <!-- Guest mode -->
 
@@ -414,11 +480,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Izbornik">
@@ -429,3 +498,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

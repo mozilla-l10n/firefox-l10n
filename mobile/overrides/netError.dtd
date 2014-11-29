@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "Povezivanje nije moguće">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Ova adresa je ograničena">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Poslužitelj nije pronađen">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Provjerite postoje li greške u pisanju adrese kao 
-<strong>ww</strong>.primjer.com umjesto 
-<strong>www</strong>.primjer.com</li> 
-<li>Ukoliko ne možete učitati niti jednu stranicu, provjerite mobilnu podatkovnu vezu ili Wi-Fi vezu.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>Iz nekog razloga &brandShortName; ne može učitati ovu stranicu.</p>">
 
 <!ENTITY malformedURI.title "Adresa nije ispravna">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Adrese web stranica se uobičajeno pišu kao 
-<strong>http://www.primjer.com/</strong></li> 
-<li>Provjerite koristite li kose crte prema naprijed (tj. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Dokument je istekao">
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; priručnoj memoriji.</p><ul><li>Radi sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušajte ponovno da biste zatražili dokument od web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni rad">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pokušajte ponovno. &brandShortName; će pokušati otvoriti vezu i ponovno učitati stranicu.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Veza je prekinuta">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme čekanja">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Adresa nije prepoznata">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +73,8 @@ administratora.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy poslužitelj nije pronađen">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Provjerite proxy postavke i potvrdite da su ispravne.</li> 
-<li>Provjerite radi li podatkovna ili Wi-Fi veza bez problema.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Stranica ne preusmjerava ispravno">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -105,7 +94,8 @@ kolačića.</li>
 
 <!ENTITY nssBadCert.title "Sigurna veza nije uspjela">
 
-
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 
 

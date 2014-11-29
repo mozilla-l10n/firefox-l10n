@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Koristi prilagođeni poslužitelj">
 <!ENTITY sync.input.server.label "URL poslužitelja">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Nije moguće podesiti &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; se nije uspio povezati na poslužitelj. Želite li pokušati ponovno?">
 <!ENTITY sync.button.tryagain.label "Pokušaj ponovno">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Stvaranje računa na vašem uređaju nije uspjelo.">
 <!ENTITY sync.subtitle.failmultiple.label "Imate li instalirano više od jednog Firefoxa? Trenutno, &syncBrand.fullName.label; podržava samo jednu Firefox instalaciju. Obrišite druge instalacije kako biste koristili &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Podešavanje dovršeno">
 <!ENTITY sync.subtitle.success.label1 "Vaši podaci se preuzimaju u pozadini. Možete otići u Postavke za uređivanje vašeg računa, ili započeti surfati sa &brandShortName;om.">
 <!ENTITY sync.settings.label "Postavke">
@@ -71,6 +71,11 @@
 <!ENTITY sync.button.connect.label "Poveži">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Izbornik zabilješki">
@@ -103,6 +108,8 @@
 <!ENTITY sync.text.tab.sent.label "Vaša kartica je poslana!">
 <!ENTITY sync.text.tab.not.sent.label "Pojavio se problem prilikom slanja vaše kartice.">
 <!-- Firefox Account strings. -->
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -155,6 +162,11 @@
 
 
 
+
+
+
+
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: omogućeno">
 
@@ -172,11 +184,17 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -194,5 +212,5 @@
 
 
 
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

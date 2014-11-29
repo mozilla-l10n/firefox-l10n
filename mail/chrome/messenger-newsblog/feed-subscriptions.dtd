@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Pretplate kanala">
-<!ENTITY subscriptionDesc.label      "Napomena: uklanjanje ili promjena direktorija kanala neće utjecati na već preuzete članke.">
+
 
 <!ENTITY feedTitle.label             "Naslov:">
 <!ENTITY feedTitle.accesskey         "N">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL kanala:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Unesite ispravnu web adresu kanala za dodati">
+<!ENTITY locationValidate.label      "Provjeri ispravnost">
+<!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
 
 <!ENTITY feedFolder.label            "Spremi članke u:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Prefiks za oznake:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Unesite prefiks oznake">
-
-<!ENTITY locationValidate.label      "Provjeri ispravnost">
-<!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">

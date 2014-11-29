@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normalan">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Visok">
-<!ENTITY priority.level.high.accesskey      "V">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 sat">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "s">
@@ -243,6 +243,12 @@
 <!ENTITY calendar.context.export.accesskey             "e">
 <!ENTITY calendar.context.properties.label             "Postavke">
 <!ENTITY calendar.context.properties.accesskey         "P">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Pretvori u">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "e">
