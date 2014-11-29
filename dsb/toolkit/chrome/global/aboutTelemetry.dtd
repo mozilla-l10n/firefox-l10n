@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija jo <span>znjemóžnjona</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "Powšykne daty">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Pómałe SQL-pśikaze">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Skoděrowane histogramy">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jadnore měrjenja">
 
