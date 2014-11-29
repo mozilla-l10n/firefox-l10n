@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "W">
 
 <!ENTITY otherActionsButton2.label "Wěcej">
-
+<!ENTITY otherActionsButton.tooltip "Dalšne akcije">
 <!ENTITY otherActionsOpenConversation1.label "W konwersaciji wócyniś">
 <!ENTITY otherActionsOpenConversation1.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow1.label "W nowem woknje wócyniś">
