@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label "Поисковая система по умолчанию">
+<!ENTITY chooseYourDefaultSearchEngine.label "Выберите поисковую систему по умолчанию. &brandShortName; использует её в панели адреса, панели поиска и на начальной странице.">
+<!ENTITY provideSearchSuggestions.label "Отображать поисковые предложения">
+<!ENTITY provideSearchSuggestions.accesskey "п">
+<!ENTITY oneClickSearchEngines.label "Поиск одним щелчком">
+<!ENTITY chooseWhichOneToDisplay.label "Через панель поиска вы можете сразу же произвести поиск в других системах. Выберите, какие из них нужно отображать.">
+<!ENTITY addMoreSearchEngines.label "Добавить другие поисковые системы…">

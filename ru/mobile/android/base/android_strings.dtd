@@ -314,9 +314,10 @@
 <!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
-<!ENTITY loaded_tracking_content_message "Эта страница отслеживает ваши действия в Интернете.">
-<!ENTITY blocked_tracking_content_message_top "&brandShortName; заблокировал отслеживание этой страницей ваших действий в Интернете.">
-<!ENTITY blocked_tracking_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда онлайновое отслеживание заблокировано.">
+<!ENTITY loaded_tracking_content_message_top "Защита от отслеживания отключена.">
+<!ENTITY loaded_tracking_content_message_bottom "Части этой страницы могут отслеживать ваши действия в Интернете.">
+<!ENTITY blocked_tracking_content_message_top2 "Защита от отслеживания включена.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
 <!ENTITY learn_more "Подробнее">
 <!ENTITY enable_protection "Включить защиту">
 <!ENTITY disable_protection "Отключить защиту">
