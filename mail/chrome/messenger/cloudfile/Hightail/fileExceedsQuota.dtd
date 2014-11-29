@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Pladsgrænse overskredet">
-<!ENTITY fileExceedsQuota.accept "Opgrader">
-<!ENTITY fileExceedsQuota.cancel "Annuller">
 <!ENTITY fileExceedsQuota.description "Du har opbrugt din plads, der har en grænse på 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Du bruger i øjeblikket #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Opgrader i dag til en Pro Plus-konto og få mere plads.">
-<!ENTITY fileExceedsQuota.description3 "Du kan alternativt vælge at slette filer på din konto for at få mere ledig plads.">

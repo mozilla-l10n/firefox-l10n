@@ -33,11 +33,7 @@
 <!ENTITY showCookies.label "Vis cookies…">
 <!ENTITY showCookies.accesskey "V">
 
-<!ENTITY dntTrackingNopref.label2 "Fortæl ikke websteder, om jeg vil spores eller ej">
-<!ENTITY dntTrackingNopref.accesskey "F">
 <!ENTITY dntTrackingNotOkay.label2 "Fortæl websteder, at jeg ikke vil spores">
 <!ENTITY dntTrackingNotOkay.accesskey "o">
-<!ENTITY dntTrackingOkay.label2 "Fortæl websteder, at jeg vil spores">
-<!ENTITY dntTrackingOkay.accesskey "r">
 <!ENTITY doNotTrackInfo.label "Læs mere om sporing">
 
