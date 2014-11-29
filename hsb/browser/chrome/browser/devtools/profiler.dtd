@@ -39,11 +39,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
-<!ENTITY profilerUI.invertTree "Wołanski štom wobroćić">
+<!ENTITY profilerUI.invertTree "Wołanski štom přewobroćić">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
 
-<!ENTITY profilerUI.invertTree.tooltiptext "Wobroćenje wołanskeho štoma zwobraznja wołanske šćežki, kotrež započinaja wot najmłódšich wobłukow a rozšěrjeja so na starše wobłuki. ">
+<!ENTITY profilerUI.invertTree.tooltiptext "Přewobroćenje wołanskeho štoma zwobraznja wołanske šćežki, započinajo wot najmłódšich wobłukow a rozšěrjejo so na starše wobłuki. ">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
