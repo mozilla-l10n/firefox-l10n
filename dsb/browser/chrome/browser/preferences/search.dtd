@@ -6,7 +6,12 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Wubjeŕśo swóju standardnu pytnicu. &brandShortName; wužywa ju w adresowem pólu, w pytańskej pólu a na startowem boku.">
 
+<!ENTITY provideSearchSuggestions.label        "Pytańske naraźenja pódaś">
+<!ENTITY provideSearchSuggestions.accesskey    "P">
 
 
+<!ENTITY oneClickSearchEngines.label           "Pytnice z jadnym kliknjenim">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Toś to pytańske pólo wam zmóžnja, direktnje z drugimi pytnicami pytaś. Wubjeŕśo, kótare maju se zwobrazniś.">
 
+<!ENTITY addMoreSearchEngines.label            "Dalšne pytnice pśidaś…">
