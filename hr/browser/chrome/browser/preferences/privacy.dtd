@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Praćenje">
 
-<!ENTITY dntTrackingNopref.label2       "Ne obaviještavaj stranice o mojim postavkama praćenja.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Obavijesti stranice da me ne prate.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Obavijesti stranice da me prate">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "Onemogući stranicama da me prate">
 <!ENTITY trackingProtection.accesskey   "g">
 <!ENTITY trackingProtectionLearnMore.label "Saznajte više">
 <!ENTITY doNotTrackInfo.label           "Saznajte više">
 
-<!ENTITY  history.label                 "Povijest">
 
 <!ENTITY  locationBar.label             "Adresna traka">
 
-<!ENTITY  locbar.pre.label              "Pri korištenju adresne trake, predloži:">
-<!ENTITY  locbar.pre.accessKey          "l">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "povijest i zabilješke">
-<!ENTITY  locbar.history.label          "povijest">
-<!ENTITY  locbar.bookmarks.label        "zabilješke">
-<!ENTITY  locbar.nothing.label          "ništa">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
 
-<!ENTITY  keepUntil.label               "Zadrži do:">
-<!ENTITY  keepUntil.accesskey           "ž">
+
 
 <!ENTITY  expire.label                  "isteka roka">
 <!ENTITY  close.label                   "zatvaranja &brandShortName;">
