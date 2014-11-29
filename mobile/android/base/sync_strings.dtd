@@ -104,6 +104,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Забыть об этом адресе электронной почты?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Письмо для подтверждения отправлено">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Не удалось послать письмо для подтверждения">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Повторить отправку письма для разблокировки">
+<!ENTITY fxaccount_unlock_code_sent "Письмо для разблокировки учётной записи отправлено">
+<!ENTITY fxaccount_unlock_code_not_sent "Не удалось послать письмо для разблокировки учётной записи">
 <!ENTITY fxaccount_sign_in_sub_header "Войти">
 <!ENTITY fxaccount_sign_in_button_label "Войти">
 <!ENTITY fxaccount_sign_in_forgot_password "Забыли пароль?">
@@ -111,9 +114,13 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_account_verified_sub_header "Учётная запись подтверждена">
 <!ENTITY fxaccount_account_verified_description2 "Ваши данные сейчас начнут синхронизироваться.">
+<!ENTITY fxaccount_migration_finished_header "Обновление завершено">
 <!ENTITY fxaccount_update_credentials_header "Войти">
 <!ENTITY fxaccount_update_credentials_button_label "Войти">
 <!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
+<!ENTITY fxaccount_finish_migrating_header "Войти, чтобы завершить обновление">
+<!ENTITY fxaccount_finish_migrating_button_label "Завершить обновление">
+<!ENTITY fxaccount_finish_migrating_description "При обновлении может передаваться большое количество данных. Лучше всего подключиться к сети Wi-Fi.">
 <!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
 <!ENTITY fxaccount_status_auth_server "Сервер учётной записи">
@@ -128,6 +135,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Синхронизация настроена, но автоматически не запущена. Установите флажок «Автосинхронизация» в меню «Настройки &gt; Использование данных» Android.">
 <!ENTITY fxaccount_status_needs_account_enabled "Синхронизация настроена, но автоматически не запущена. Нажмите, чтобы начать синхронизацию.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Нажмите, чтобы войти в новую учётную запись Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Закладки">
 <!ENTITY fxaccount_status_history "История">
 <!ENTITY fxaccount_status_passwords "Пароли">
@@ -152,5 +160,8 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер занят, подождите и попробуйте ещё раз">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Возникла проблема">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Не удается соединиться с сетью">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Учётная запись заблокирована. &formatS1;">
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Нет соединения с сервером Синхронизации">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Нажмите, чтобы войти как &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Завершить обновление &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Нажмите, чтобы войти как &formatS;">

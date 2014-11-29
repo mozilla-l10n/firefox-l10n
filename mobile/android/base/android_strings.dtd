@@ -290,6 +290,7 @@
 <!ENTITY home_remote_tabs_empty "Ваши вкладки с других устройств появятся здесь.">
 <!ENTITY home_remote_tabs_unable_to_connect "Попытка соединения не удалась">
 <!ENTITY home_remote_tabs_need_to_sign_in "Пожалуйста, войдите, чтобы снова подключиться к учётной записи Firefox и продолжить синхронизацию.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Ваша новая учётная запись Firefox готова!">
 <!ENTITY home_remote_tabs_trouble_verifying "Проблема с подтверждением вашей учётной записи?">
 <!ENTITY home_remote_tabs_need_to_verify "Пожалуйста, подтвердите вашу учётную запись Firefox, чтобы начать синхронизацию.">
 <!ENTITY home_remote_tabs_one_hidden_device "Скрыто 1 устройство">
