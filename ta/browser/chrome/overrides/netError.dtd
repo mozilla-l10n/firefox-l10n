@@ -124,13 +124,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "இப்பிழையை அறிவி">
+<!ENTITY errorReporting.longDesc "தள முகவரியையும் சான்றிதழையும் தெரிவிப்பது <span id='hostname'></span> இடையூறு உண்டாக்கும் தளங்களை கண்டறிய உதவும். பாதுகாப்பான இணையத்தை உருவாக உதவும் உங்களுக்கு நன்றி!">
+<!ENTITY errorReporting.automatic "வருஙகாலம் முதல் தானாகவே பிழைகளை அறியப்படுத்தவும்">
 <!ENTITY errorReporting.learnMore "மேலும் அறிக...">
-
-
-
-
+<!ENTITY errorReporting.sending "அறிக்கையை அனுப்புகிறது">
+<!ENTITY errorReporting.sent "அறிக்கை அனுப்பப்பட்டது">
+<!ENTITY errorReporting.report "அறிக்கை">
+<!ENTITY errorReporting.tryAgain "மீண்டும் முயற்சிக்கவும்">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p> <ul> <li> இந்த பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க. </li></ul></p>">

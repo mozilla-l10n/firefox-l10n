@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  டெலிமெட்ரி <span>முடக்கப்பட்டுள்ளது</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  பொது தரவு">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  மெதுவான SQL கூற்றுகள்">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  செவ்வக வரைபடங்கள்">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  விசையாலான செவ்வகப்படங்கள்">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  எளிய அளவீடுகள்">
 
