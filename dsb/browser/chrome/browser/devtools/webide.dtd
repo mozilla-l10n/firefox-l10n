@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Nałoženje wócyniś…">
 <!ENTITY projectMenu_selectApp_accesskey "w">
 <!ENTITY projectMenu_play_label "Instalěrowaś a startowaś">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Nałoženje zastajiś">
 <!ENTITY projectMenu_stop_accesskey "s">
 <!ENTITY projectMenu_debug_label "Nałoženje za zmólkami pśepytaś">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "w">
 <!ENTITY projectMenu_showPrefs_label "Nastajenja">
 <!ENTITY projectMenu_showPrefs_accesskey "s">
-
-
+<!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zastojaś">
+<!ENTITY projectMenu_manageComponents_accesskey "E">
 
 <!ENTITY runtimeMenu_label "Běžny cas">
 <!ENTITY runtimeMenu_accesskey "B">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "f">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Rědowe nastajenja">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "R">
 
 <!ENTITY viewMenu_label "Naglěd">
 <!ENTITY viewMenu_accesskey "l">
 <!ENTITY viewMenu_toggleEditor_label "Editor pśešaltowaś">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Pówětšyś">
-
+<!ENTITY viewMenu_zoomin_accesskey "w">
 <!ENTITY viewMenu_zoomout_label "Pómjeńšyś">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "m">
+<!ENTITY viewMenu_resetzoom_label "Skalěrowanje slědk stajiś">
+<!ENTITY viewMenu_resetzoom_accesskey "S">
 
 <!ENTITY projectButton_label "Nałoženje wócyniś">
 <!ENTITY runtimeButton_label "Běžny cas wubraś">
@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Móje projekty">
 <!ENTITY projectPanel_runtimeApps "Nałoženja běžnego casa">
@@ -112,7 +113,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Powšykne">
 <!ENTITY prefs_restore "Standard wótnowiś">
-
+<!ENTITY prefs_manage_components "Ekstrakomponenty zastojaś">
 <!ENTITY prefs_options_rememberlastproject "Slědny projekt se spomnjeś">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Pjerwjejšny projekt wótnowiś, gaž WebIDE startujo">
 <!ENTITY prefs_options_templatesurl "URL pśedłogow">
@@ -145,13 +146,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Buźo rěd znowego startowaś. Trjeba administratorowy pśistup.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Rědowe nastajenja">
+<!ENTITY devicepreferences_search "Pytańske nastajenja">
+<!ENTITY devicepreferences_newname "Mě nowego nastajenja">
+<!ENTITY devicepreferences_newtext "Gódnota nastajenja">
+<!ENTITY devicepreferences_addnew "Nowe nastajenje pśidaś">
+<!ENTITY devicepreferences_typeboolean "Boolean">
+<!ENTITY devicepreferences_typenumber "Integer">
+<!ENTITY devicepreferences_typestring "&amp;String">
+<!ENTITY devicepreferences_typenone "Typ wubraś">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
