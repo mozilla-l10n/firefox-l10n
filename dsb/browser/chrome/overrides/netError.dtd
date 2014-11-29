@@ -157,13 +157,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Toś tu zmólku k wěsći daś">
+<!ENTITY errorReporting.longDesc "Wuzjawjanje adrese a certifikatowych informacijow za <span id='hostname'></span> buźo wam pomagaś, złosne sedła identificěrowaś a blokěrowaś. Wjeliki źěk, až pomagaśo, wěsćejšy web napóraś!">
+<!ENTITY errorReporting.automatic "W pśichoźe zmólki awtomatiski k wěsći daś">
 <!ENTITY errorReporting.learnMore "Dalšne informacije…">
-
-
-
-
+<!ENTITY errorReporting.sending "Rozpšawa se sćelo">
+<!ENTITY errorReporting.sent "Rozpšawa jo se pósłała">
+<!ENTITY errorReporting.report "K wěsći daś">
+<!ENTITY errorReporting.tryAgain "Hyšći raz wopytaś">
 
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó problemje informěrował.</li></ul></p>">

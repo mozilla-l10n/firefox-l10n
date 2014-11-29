@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Dalšne informacije">
 <!ENTITY doNotTrackInfo.label           "Dalšne informacije">
 
+<!ENTITY  history.label                 "Historija">
 
 <!ENTITY  locationBar.label             "Adresowe pólo">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Pśi wužywanju adresowego póla naraźiś:">
+<!ENTITY  locbar.history.label          "Historija">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Cytańske znamjenja">
+<!ENTITY  locbar.bookmarks.accesskey    "C">
+<!ENTITY  locbar.openpage.label         "Wócynjone rejtarki">
+<!ENTITY  locbar.openpage.accesskey     "r">
 
 <!ENTITY  acceptCookies.label           "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nigda">
 <!ENTITY  acceptThirdParty.visited.label  "Jano wót woglědanych tśeśich">
 
-
+<!ENTITY  keepUntil.label               "Wobchowaś až do:">
+<!ENTITY  keepUntil.accesskey           "b">
 
 <!ENTITY  expire.label                  "až njepśepadnu">
 <!ENTITY  close.label                   "až &brandShortName; se njezacynijo">
