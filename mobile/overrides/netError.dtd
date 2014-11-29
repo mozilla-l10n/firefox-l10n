@@ -84,8 +84,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "بلوکه شده بنا بر سیاست امنیتی محتوا">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; از بارگذاری این صفحه به این شکل جلوگیری کرد، زیرا که صفحه محتوایی دارد که سیاست امنیتی مانع آن می‌شود</p>">
+<!ENTITY cspBlocked.title "بلوکه شده بنا بر سیاست امنیتی محتوا">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگذاری این صفحه به این شکل جلوگیری کرد، زیرا که صفحه محتوایی دارد که سیاست امنیتی مانع آن می‌شود</p>">
 
 <!ENTITY corruptedContentError.title "خطای خرابی محتوا">
 <!ENTITY corruptedContentError.longDesc "<p>صفحه‌ای که تلاش می‌کنید ببینید به دلیل وجود یک خطا در انتقال داده، نمی‌تواند نمایش داده شود.</p><ul><li> لطفا با مسئولین سایت تماس بگیرید و آنها را از این مشکل مطلع سازید.</li></ul>">

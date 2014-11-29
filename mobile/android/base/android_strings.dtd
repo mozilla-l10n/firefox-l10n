@@ -163,10 +163,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
-<!ENTITY pref_donottrack_menu "درحال ردیابی">
-<!ENTITY pref_donottrack_disallow_tracking "به سایت‌ها بگو که نمی‌خواهم ردیابی شوم">
-<!ENTITY pref_donottrack_allow_tracking "به وب‌سایت‌ها بگویید که می‌خواهید ردیابی شوید">
-<!ENTITY pref_donottrack_no_pref "به وب‌سایت‌ها هیچ چیزی در مورد تنظیمات ردیابی من نگو">
+
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
@@ -201,6 +198,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "روباه سریع نارنجی بالاتر از انتظارات شما با سرعت بیشتر می‌پرد، انعطاف‌پذیری بیشتر و امنیت بالاتر. ما به عنوان یک سازمان غیر انتفاعی، ما برای نوآوری از جانب شما بدون هر گونه فشار به سازش آزاد هستیم. این یعنی تجربه‌ای بهتر برای شما و آینده‌ای بهتر برای وب.">
+
+
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_sync "هم‌گام‌سازی">
@@ -345,8 +344,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "هیج تنظیماتی برای پاک کردن نیست.">
 
 <!ENTITY reading_list_added "صفحه به لیست خواندن اضافه شد">
-<!ENTITY reading_list_failed "خطا هنگام اضافه کردن صفحه به لیست خواندن">
 <!ENTITY reading_list_duplicate "صفحه از قبل در فهرست خواندن شما است">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -369,7 +371,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "افزودن یک سایت">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "خانه &brandShortName;">
 <!ENTITY home_history_title "تاریخچه">
 
 
@@ -379,6 +384,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
 
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "مقاله‌هایی را که برای بعد ذخیره کرده‌اید، در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -436,11 +443,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "اداره کننده:">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "این صفحه محتویاتی را نمایش می‌دهد که ایمن نیست.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; به دلیل ناامن بودن دارای محتویات بلوکه شده است.">
 <!ENTITY blocked_mixed_content_message_bottom "اکثر پایگاه‌ها هنوز به درستی کار خواهند کرد حتی زمانی که این محتویات بلوکه‌شده باشد.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "بیشتر بدانید">
 <!ENTITY enable_protection "فعال‌سازی حفاظت">
 <!ENTITY disable_protection "غیرفعال سازی حفاظت">
@@ -467,8 +482,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "برنامه">
 
 <!ENTITY searchable_description "نشانک‌ها و تاریخچه">
-
-<!ENTITY devtools_remote_debugging_forward "راه اندازی انتقال درگاه را فراموش نکن!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "بروزرسانی برای &brandShortName; موجود است">
@@ -502,7 +515,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "منو">
@@ -513,3 +526,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "آپ">

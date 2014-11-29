@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره‌ی ناشناس باز کن">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "برای شروع مرور ناشناس، می‌توانید از مسیر منوی &basePBMenu.label;، گزینه‌ی &privateBrowsingCmd.start.label; هم بروید.">

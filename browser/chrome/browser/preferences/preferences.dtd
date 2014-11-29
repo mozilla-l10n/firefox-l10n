@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "عمومی">
 <!ENTITY  paneTabs.title          "زبانه‌ها">
+<!ENTITY  paneSearch.title        "جست‌وجو">
 <!ENTITY  paneContent.title       "محتوا">
 <!ENTITY  paneApplications.title  "برنامه‌ها">
 <!ENTITY  panePrivacy.title       "حریم خصوصی">
