@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Wobkšuśeński wótkaz jo se na &formatS; pósłał">
 <!ENTITY fxaccount_confirm_account_resend_email "Mailku znowego pósłaś">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Wobkšuśeńska mailka jo se pósłała">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Wobkšuśeńska mailka njedajo se pósłaś">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Pśizjawjony ako">
 <!ENTITY fxaccount_status_auth_server "Kontowy serwer">
+
+
 <!ENTITY fxaccount_status_device_name "Rědowe mě">
 <!ENTITY fxaccount_status_sync_server "Synchronizaciski serwer">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

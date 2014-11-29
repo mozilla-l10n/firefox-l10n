@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Nałoženje wócyniś…">
 <!ENTITY projectMenu_selectApp_accesskey "w">
 <!ENTITY projectMenu_play_label "Instalěrowaś a startowaś">
-<!ENTITY projectMenu_play_accesskey "I">
+
 <!ENTITY projectMenu_stop_label "Nałoženje zastajiś">
 <!ENTITY projectMenu_stop_accesskey "s">
 <!ENTITY projectMenu_debug_label "Nałoženje za zmólkami pśepytaś">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "w">
 <!ENTITY projectMenu_showPrefs_label "Nastajenja">
 <!ENTITY projectMenu_showPrefs_accesskey "s">
+
+
 
 <!ENTITY runtimeMenu_label "Běžny cas">
 <!ENTITY runtimeMenu_accesskey "B">
@@ -38,12 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "Naglěd">
 <!ENTITY viewMenu_accesskey "l">
 <!ENTITY viewMenu_toggleEditor_label "Editor pśešaltowaś">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Simulatory zastojaś">
-<!ENTITY viewMenu_showAddons_accesskey "S">
+<!ENTITY viewMenu_zoomin_label "Pówětšyś">
+
+<!ENTITY viewMenu_zoomout_label "Pómjeńšyś">
+
+
+
 
 <!ENTITY projectButton_label "Nałoženje wócyniś">
 <!ENTITY runtimeButton_label "Běžny cas wubraś">
@@ -59,14 +67,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "Móje projekty">
 <!ENTITY projectPanel_runtimeApps "Nałoženja běžnego casa">
 <!ENTITY projectPanel_tabs "Rejtarki">
-<!ENTITY runtimePanel_USBDevices "USB-rědy">
-<!ENTITY runtimePanel_WiFiDevices "WLAN-rědy">
-<!ENTITY runtimePanel_simulators "Simulatory">
-<!ENTITY runtimePanel_custom "Swójski">
+<!ENTITY runtimePanel_usb "USB-rědy">
+<!ENTITY runtimePanel_wifi "WLAN-rědy">
+<!ENTITY runtimePanel_simulator "Simulatory">
+<!ENTITY runtimePanel_other "Druge">
 <!ENTITY runtimePanel_installsimulator "Simulator instalěrowaś">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper instalěrowaś">
 <!ENTITY runtimePanel_nousbdevice "Njamóžośo swój rěd wiźeś?">
@@ -100,9 +112,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Powšykne">
 <!ENTITY prefs_restore "Standard wótnowiś">
-<!ENTITY prefs_simulators "Simulatory zastojaś">
-<!ENTITY prefs_options_enablelocalruntime "Lokalny běžny cas zmóžniś">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE dowóliś, se ze swójim běžnym casom zwězaś (běžeca instanca wobglědowaka)">
+
 <!ENTITY prefs_options_rememberlastproject "Slědny projekt se spomnjeś">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Pjerwjejšny projekt wótnowiś, gaž WebIDE startujo">
 <!ENTITY prefs_options_templatesurl "URL pśedłogow">
@@ -133,6 +143,15 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Wuwijarske rědy su priwilegije wobgranicowali: ">
 <!ENTITY runtimedetails_requestPrivileges "wó wuše priwilegije pšosyś">
 <!ENTITY runtimedetails_privilegesWarning "(Buźo rěd znowego startowaś. Trjeba administratorowy pśistup.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">

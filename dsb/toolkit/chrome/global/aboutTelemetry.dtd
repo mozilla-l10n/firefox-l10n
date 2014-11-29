@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija jo <span>znjemóžnjona</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Pómałe SQL-pśikaze">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Wisanja wobglědowaka">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jadnore měrjenja">
 

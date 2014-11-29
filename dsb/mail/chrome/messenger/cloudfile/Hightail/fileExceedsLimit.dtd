@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Słanje datajow, kótarež su wětše ako 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "jo wósebna funkcija.">
-<!ENTITY fileExceedsLimit.accept "Aktualizěrowaś">
-<!ENTITY fileExceedsLimit.cancel "Pśetergnuś">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Słanje datajow, kótarež su wětše ako 50 MB njepódpěra se za njepremiumowe konta.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Zaktualizěrujśo něnto, aby toś tu dataju pósłał, plus:">
-<!ENTITY fileExceedsLimit.pros1 "Dataje a zarědniki z wjelikosću až do 2GB pósłaś">
-<!ENTITY fileExceedsLimit.pros2 "Njewobgranicowane dataje online składowaś">
-<!ENTITY fileExceedsLimit.pros3 "Pśistup a źělenje datajow zwótkul niźi">
