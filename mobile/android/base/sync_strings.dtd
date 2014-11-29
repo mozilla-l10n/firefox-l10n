@@ -166,6 +166,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Overovací odkaz bol odoslaný na adresu &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Znova odoslať e-mail'>
+<!ENTITY fxaccount_confirm_account_change_email 'Zabudnúť túto e-mailovú adresu?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Overovací e-mail bol odoslaný'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodarilo sa odoslať overovací e-mail'>
 
@@ -185,6 +186,8 @@
 <!ENTITY fxaccount_status_header2 'Účet Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Prihlásený ako'>
 <!ENTITY fxaccount_status_auth_server 'Server účtu'>
+<!ENTITY fxaccount_status_sync_now 'Synchronizovať'>
+<!ENTITY fxaccount_status_syncing2 'Synchronizuje sa…'>
 <!ENTITY fxaccount_status_device_name 'Názov zariadenia'>
 <!ENTITY fxaccount_status_sync_server 'Server služby Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

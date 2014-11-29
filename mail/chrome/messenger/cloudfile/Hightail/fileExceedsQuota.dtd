@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Dosiahnutý limit úložiska">
-<!ENTITY fileExceedsQuota.accept "Prejsť na vyššiu verziu">
-<!ENTITY fileExceedsQuota.cancel "Zrušiť">
 <!ENTITY fileExceedsQuota.description "Dosiahli ste limit úložiska, ktorý je nastavený na 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Práve využívate #XXX GB miesta na úložisku.">
-<!ENTITY fileExceedsQuota.description2 "Prechodom na verziu účtu Pro Plus získate väčší priestor na úložisku.">
-<!ENTITY fileExceedsQuota.description3 "Viac miesta môžete získať aj odstránením nepotrebných súborov z úložiska.">
