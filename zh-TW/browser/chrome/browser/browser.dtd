@@ -268,6 +268,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "瀏覽器工具箱">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "瀏覽器內容工具箱">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "關閉開發者工具列">
 <!ENTITY devToolbarMenu.label              "開發者工具列">
 <!ENTITY devToolbarMenu.accesskey          "v">
@@ -409,6 +414,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "搜尋">
+<!ENTITY searchWith.label             "使用:">
+<!ENTITY changeSearchSettings.button  "變更搜尋設定">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -719,7 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "下載更多佈景主題">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label "使用 &brandShortName; 佈景主題">
+<!ENTITY customizeMode.deveditionTheme.label2 "使用 Developer Edition 的佈景主題">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "聊天焦點">
@@ -750,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "已停止保護">
 
 <!ENTITY trackingContentBlocked.message "追蹤">
-<!ENTITY trackingContentBlocked.moreinfo "此網頁上某些追蹤您的線上行為的部分已被封鎖。">
+<!ENTITY trackingContentBlocked.moreinfo "已封鎖本頁面中部分追蹤您線上行為的內容。">
 <!ENTITY trackingContentBlocked.learnMore "更多資訊">
 <!ENTITY trackingContentBlocked.options "選項">
 <!ENTITY trackingContentBlocked.unblock2.label "為此網站停用保護">

@@ -13,5 +13,11 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "總是檢查 ">
 
+<!ENTITY gdata.reminder.default "預設提醒">
 <!ENTITY gdata.reminder.action.sms.label "傳送手機簡訊">
+
+<!ENTITY gdata.wizard.session.description "請選擇現有的連線階段，或輸入您的電子郵件地址以建立新的連線階段。每個帳號您只需要建立一個連線。">
+<!ENTITY gdata.wizard.calendars.description "請選擇您要訂閱的行事曆與工作清單。">
+
+<!ENTITY gdata.wizard.nextstep.description "請前往下一步設定您的行事曆。">
 

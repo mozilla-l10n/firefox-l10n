@@ -33,12 +33,7 @@
 <!ENTITY showCookies.label "顯示 Cookie…">
 <!ENTITY showCookies.accesskey "S">
 
-<!ENTITY dntTrackingNopref.label2 "不要告訴網站我的追蹤偏好">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "告訴網站我不想被追蹤">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "告訴網站我想要被追蹤">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "了解 Do Not Track 功能">
-
 

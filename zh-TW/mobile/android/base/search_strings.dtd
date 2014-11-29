@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint '使用 &formatS; 搜尋'>
 
-<!ENTITY search_empty_title '&brandShortName; 搜尋'>
+<!ENTITY search_empty_title2 '開始搜尋'>
 <!ENTITY search_empty_message '快速搜尋您想找的東西'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

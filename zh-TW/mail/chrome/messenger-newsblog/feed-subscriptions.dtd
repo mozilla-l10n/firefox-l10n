@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "消息來源訂閱">
-<!ENTITY subscriptionDesc.label      "注意: 移除或變更消息來源資料夾並不會影響已下載的文章。">
+<!ENTITY learnMore.label             "了解更多資訊來源">
 
 <!ENTITY feedTitle.label             "標題:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "來源 URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "請輸入有效的消息來源網址以新增">
+<!ENTITY locationValidate.label      "驗證">
+<!ENTITY validateText.label          "確認是否有效並回傳有效的網址。">
 
 <!ENTITY feedFolder.label            "保存文章於:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "為標籤加上前綴:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "輸入標籤前綴">
-
-<!ENTITY locationValidate.label      "驗證">
-<!ENTITY validateText.label          "確認是否有效並回傳有效的網址。">
 
 <!ENTITY button.addFeed.label        "新增">
 <!ENTITY button.addFeed.accesskey    "A">

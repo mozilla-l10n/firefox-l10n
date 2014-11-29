@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link '已將驗證連結寄送至 &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email '重寄驗證郵件'>
+<!ENTITY fxaccount_confirm_account_change_email '要忘記此電子郵件地址？'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '已寄出驗證郵件'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '無法傳送驗證郵件'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
 <!ENTITY fxaccount_status_auth_server '帳號伺服器'>
+<!ENTITY fxaccount_status_sync_now '立即同步'>
+<!ENTITY fxaccount_status_syncing2 '同步中…'>
 <!ENTITY fxaccount_status_device_name '裝置名稱'>
 <!ENTITY fxaccount_status_sync_server 'Sync 伺服器'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
