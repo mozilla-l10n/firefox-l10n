@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
-<!ENTITY pref_donottrack_menu "Seguiment">
-<!ENTITY pref_donottrack_disallow_tracking "Fes saber als llocs web que no vull que se\u0027m segueixi.">
-<!ENTITY pref_donottrack_allow_tracking "Fes saber als llocs web que vull que se\u0027m segueixi.">
-<!ENTITY pref_donottrack_no_pref "No facis saber res als llocs sobre les meves preferències de seguiment.">
+
 
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
+
+
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 
 <!ENTITY reading_list_added "La pàgina s\u0027ha afegit a la vostra llista de lectura">
-<!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "Inici del &brandShortName;">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
@@ -395,6 +400,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Aquí es mostren les pestanyes recents.">
 <!ENTITY home_open_all "Obre-ho tot">
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +469,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertany a">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
 <!ENTITY blocked_mixed_content_message_top "El &brandShortName; ha blocat el contingut no segur.">
 <!ENTITY blocked_mixed_content_message_bottom "La majoria de pàgines web continuen funcionant correctament encara que s\u0027hagi blocat contingut.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Més informació">
 <!ENTITY enable_protection "Activa la protecció">
 <!ENTITY disable_protection "Desactiva la protecció">
@@ -494,8 +509,6 @@ de l\u0027Android">
 <!ENTITY webapp_generic_name "Aplicacions">
 
 <!ENTITY searchable_description "Adreces d\u0027interès i historial">
-
-<!ENTITY devtools_remote_debugging_forward "No oblideu configurar el reenviament de ports!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
@@ -535,7 +548,7 @@ de l\u0027Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menú">
@@ -548,3 +561,8 @@ de l\u0027Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Última sinc.: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Àà·Çç">
