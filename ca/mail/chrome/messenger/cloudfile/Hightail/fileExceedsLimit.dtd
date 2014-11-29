@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Enviar fitxers de més de 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "és una característica premium.">
-<!ENTITY fileExceedsLimit.accept "Actualitza">
-<!ENTITY fileExceedsLimit.cancel "Cancel·la">
+
 <!ENTITY fileExceedsLimit.style "width: 48em; min-height: 28em;">
-<!ENTITY fileExceedsLimit.proIncludes "Actualitzeu-vos ara per enviar aquest fitxer i a més:">
-<!ENTITY fileExceedsLimit.pros1 "Envieu fitxers i carpetes de fins a 2 GB">
-<!ENTITY fileExceedsLimit.pros2 "Emmagatzemeu un nombre il·limitat de fitxers en línia">
-<!ENTITY fileExceedsLimit.pros3 "Accediu als fitxers i compartiu-los des de qualsevol lloc">

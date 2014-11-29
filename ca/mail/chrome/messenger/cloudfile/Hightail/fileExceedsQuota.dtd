@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "S'ha arribat al límit d'emmagatzematge">
-<!ENTITY fileExceedsQuota.accept "Actualitza">
-<!ENTITY fileExceedsQuota.cancel "Cancel·la">
 <!ENTITY fileExceedsQuota.description "Heu arribat al vostre límit d'emmagatzematge de 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Actualment esteu utilitzant #XXX GB d'emmagatzematge.">
-<!ENTITY fileExceedsQuota.description2 "Actualitzeu avui al compte Pro Plus per aconseguir més emmagatzematge.">
-<!ENTITY fileExceedsQuota.description3 "També podeu suprimir fitxers del vostre compte per crear més espai.">

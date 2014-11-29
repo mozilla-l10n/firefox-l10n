@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  La telemesura està <span>inhabilitada</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Sentències SQL lentes">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  El navegador es penja">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloquejos de fils">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrames">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesures senzilles">
 

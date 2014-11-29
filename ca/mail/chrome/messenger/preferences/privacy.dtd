@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Mostra les galetes…">
 <!ENTITY showCookies.accesskey "s">
 
-<!ENTITY dntTrackingNopref.label2 "No facis saber res als llocs sobre les meves preferències de seguiment">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Fes saber als llocs web que no vull que se'm segueixi">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Fes saber als llocs web que vull que se'm segueixi">
-<!ENTITY dntTrackingOkay.accesskey "F">
 <!ENTITY doNotTrackInfo.label "Més informació de «No vull que se'm segueixi»">
-
