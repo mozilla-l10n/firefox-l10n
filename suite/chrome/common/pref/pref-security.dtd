@@ -7,8 +7,10 @@
 <!ENTITY trackingIntro.label "Веб-сайты могут отслеживать то, как вы их используете, что влияет на вашу приватность.">
 <!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы меня отслеживали">
 <!ENTITY doNotTrack.accesskey "о">
-<!ENTITY trackProtect.label "Предотвращать отслеживание со стороны известных сайтов">
+<!ENTITY trackProtect.label "Предотвращать отслеживания действий со стороны известных сайтов">
 <!ENTITY trackProtect.accesskey "е">
+<!ENTITY warnTrackContent.label "Предупреждать меня, когда обнаружены известные нам отслеживания действий">
+<!ENTITY warnTrackContent.accesskey "ж">
 <!ENTITY geoLocation.label "Определение местоположения при веб-серфинге">
 <!ENTITY geoIntro.label "Веб-сайты могут запрашивать дополнительную информацию о вашем текущем местоположении.">
 <!ENTITY geoEnabled.label "Запрашивать у меня разрешение, если сделан запрос">
