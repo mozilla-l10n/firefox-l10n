@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed-abonnementer">
-<!ENTITY subscriptionDesc.label "Bemærk, at hvis du fjerner eller ændrer en feed-mappe, vil det ikke påvirke tidligere hentede artikler.">
+<!ENTITY learnMore.label             "Læs mere om feeds">
 
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey "T">
