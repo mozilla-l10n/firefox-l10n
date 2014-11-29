@@ -198,6 +198,10 @@
 <!ENTITY calendar.context.export.accesskey "E">
 <!ENTITY calendar.context.properties.label "Propiedades">
 <!ENTITY calendar.context.properties.accesskey "P">
+<!ENTITY calendar.context.togglevisible.accesskey "l">
+<!ENTITY calendar.context.showonly.accesskey "O">
+<!ENTITY calendar.context.showall.label "Mostrar todos los calendarios">
+<!ENTITY calendar.context.showall.accesskey "i">
 <!ENTITY calendar.context.convertmenu.label "Convertir a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
