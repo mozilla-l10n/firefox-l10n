@@ -145,8 +145,8 @@
 <!ENTITY phishingBlocked.title "¡Posible sitio web fraudulento!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducir cualquier información personal en esta página puede resultar en un robo de identidad u otro fraude.</p>
 <p>Estos tipos de webs fraudulentas son usadas en ataques de phishing, en los cuales páginas y correos electrónicos fraudulentos se utilizan para imitar fuentes en las que confías.</p>">
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueada por la política de seguridad de contenidos">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedido que esta página se cargue de este modo porque la página contiene una política de seguridad de contenidos que lo impide.</p>">
+<!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedido que se cargue esta página de esta forma porque la página tiene una política de seguridad de contenido que lo impide.</p>">
 <!ENTITY corruptedContentError.title "Error por contenido corrupto">
 <!ENTITY corruptedContentError.longDesc "<p>El contenido que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios para informarles de este problema.</li></ul>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
