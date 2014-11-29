@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Više">
-
+<!ENTITY otherActionsButton.tooltip "Više radnji">
 <!ENTITY otherActionsOpenConversation1.label "Otvori kao razgovor">
 <!ENTITY otherActionsOpenConversation1.accesskey "O">
 <!ENTITY otherActionsOpenInNewWindow1.label "Otvori u novom prozoru">
