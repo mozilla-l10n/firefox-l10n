@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija je <span>isključena</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Opći podaci">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Spori SQL upiti">
 
