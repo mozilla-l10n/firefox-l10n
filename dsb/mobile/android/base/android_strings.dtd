@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
-
+<!ENTITY pref_donottrack_title "Njeslědowaś">
+<!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju.">
 
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Malsna oranžowa liška skoka nad waše wócakowanja z wětšeju malsnosću, wušeju fleksibelnosću a wušeju wěstotu. Ako za wše wužytna organizacija, móžomy k wašomu wužytkoju bźez śišća kompromisa nowoty zawjasć. To wóznamjenijo lěpše dožywjenje za was a swětlejšy pśichod za web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Awtomatiske wógraśe dowóliś">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras.">
 
 <!ENTITY pref_use_master_password "Głowne gronidło wužywaś">
 <!ENTITY pref_sync "Snychronizěrowaś">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Pśez góźinu">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Websedła, kótarež sćo se njedawno woglědał, pokazuju se how.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Pst: wužywanje &formatS1;nowego priwatnego rejtarka&formatS2; njebuźo wašu historiju składowaś.">
 <!ENTITY home_reading_list_empty "Nastawki, kótarež składujośo na pózdźej, pokazuju se how.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -469,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by ", kótaryž wuźaržujo se wót">
-
-
+<!ENTITY identity_no_info "Toś to websedło njepódawa informacije wó identitach.">
+<!ENTITY identity_not_encrypted "Waš zwisk z toś tym websedłom njejo skoděrowany.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Toś ten bok zwobraznja wopśimjeśe, kótarež njejo wěste.">
@@ -478,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Nejwěcej websedłow buźo hyšći derje funkcioněrowaś, lěcrownož toś to wopśimjeśe blokěrowany było.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Slědowański šćit jo znjemóžnjony.">
+<!ENTITY loaded_tracking_content_message_bottom "Źěle toś togo boka slěduju snaź wašu online-aktiwitu.">
+<!ENTITY blocked_tracking_content_message_top2 "Slědowański šćit zmóžnjony.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Źěle boka, kótaryž slědujo wašu online-aktiwitu, su se blokěrowali.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Dalšne informacije">
