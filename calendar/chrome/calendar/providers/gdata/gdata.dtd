@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "N">
 <!ENTITY gdata.migration.showagain.label "Uvijek provjeri ">
 
+<!ENTITY gdata.reminder.default "Zadani podsjetnik">
 <!ENTITY gdata.reminder.action.sms.label "Pošalji tekstualnu poruku">
 
+<!ENTITY gdata.wizard.session.description "Odaberite postojeću sesiju ili unesite vašu adresu e-pošte kako biste stvorili novu sesiju. Trebate samo jednu sesiju po računu.">
+<!ENTITY gdata.wizard.calendars.description "Odaberite kalendare i popise zadataka na koje se želite pretplatiti.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Nastavite na slijedeći korak kako biste postavili svoje kalendare.">
