@@ -104,13 +104,13 @@
 <!ENTITY overlay_share_reading_list_btn_label "Okuma Listesi\u0027ne ekle">
 <!ENTITY overlay_share_bookmark_btn_label_already "Zaten imlenmiş">
 <!ENTITY overlay_share_reading_list_btn_label_already "Zaten Okuma Listesi\u0027nde">
-<!ENTITY overlay_share_send_other "Diğer cihazlara gönder">
+<!ENTITY overlay_share_send_other "Başka aygıtlara gönder">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_send_tab_btn_label "Başka bir cihaza gönder">
+<!ENTITY overlay_share_send_tab_btn_label "Başka bir aygıta gönder">
 <!ENTITY overlay_share_no_url "Bu paylaşımda bağlantı bulunamadı">
 <!ENTITY overlay_share_retry "Yeniden dene">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
+<!ENTITY pref_donottrack_title "Beni izleme">
 
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
@@ -208,6 +209,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
+<!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
 
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
@@ -312,7 +314,7 @@ size. -->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_sending_to "Cihaza gönderiliyor">
+<!ENTITY media_sending_to "Aygıta gönderiliyor">
 <!ENTITY media_play "Yürüt">
 <!ENTITY media_pause "Duraklat">
 <!ENTITY media_stop "Durdur">
@@ -327,7 +329,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "Adresi kopyala">
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
 <!ENTITY contextmenu_subscribe "Sayfaya abone ol">
-<!ENTITY contextmenu_site_settings "Süzgeç ayarlarını düzenle">
+<!ENTITY contextmenu_site_settings "Site ayarlarını düzenle">
 <!ENTITY contextmenu_top_sites_edit "Düzenle">
 <!ENTITY contextmenu_top_sites_pin "Siteyi sabitle">
 <!ENTITY contextmenu_top_sites_unpin "Sabitlenmesini kaldır">
