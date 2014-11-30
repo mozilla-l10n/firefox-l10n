@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Ko‘proq o‘rganish">
 <!ENTITY doNotTrackInfo.label           "Ko‘proq o‘rganish">
 
+<!ENTITY  history.label                 "Tarix">
 
 <!ENTITY  locationBar.label             "Manzil paneli">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Manzil panelidan foydalanilganda, tavsiya qilinsin:">
+<!ENTITY  locbar.history.label          "Tarix">
+<!ENTITY  locbar.history.accesskey      "T">
+<!ENTITY  locbar.bookmarks.label        "Xatcho‘plar">
+<!ENTITY  locbar.bookmarks.accesskey    "X">
+<!ENTITY  locbar.openpage.label         "Ichki oynalarni ochish">
+<!ENTITY  locbar.openpage.accesskey     "o">
 
 <!ENTITY  acceptCookies.label           "Saytlardan kukilarga rozi bo‘lish">
 <!ENTITY  acceptCookies.accesskey       "r">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Hech qachon">
 <!ENTITY  acceptThirdParty.visited.label  "Kirilganlardan">
 
-
+<!ENTITY  keepUntil.label               "Saqlansin:">
+<!ENTITY  keepUntil.accesskey           "S">
 
 <!ENTITY  expire.label                  "ular eskirguncha">
 <!ENTITY  close.label                   "Men &brandShortName;ni yopaman">

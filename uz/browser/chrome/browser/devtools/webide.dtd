@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Ilova dasturni ochish…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "O‘rnatish va ishga tushirish">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Ilova dasturni to‘xtatish">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ilova dasturni tuzatish">
@@ -24,12 +24,12 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Parametrlar">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Qo‘shimcha komponentlarni boshqarish">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "Ishga tushish vaqti">
 <!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Uzilmoqda…">
+<!ENTITY runtimeMenu_disconnect_label "Uzish">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Ruxsatlar jadvali">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Qurilma parametrlari">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Ko‘rinishi">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Tahrirlagichni yoqish/o‘chirish">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Kattalashtirish">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Kichiklashtirish">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Mashstabni tiklash">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ilova dasturni ochish">
 <!ENTITY runtimeButton_label "Ishga tushish vaqtini tanlash">
@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mening loyihalarim">
 <!ENTITY projectPanel_runtimeApps "Ilova dasturlarning ishga tushish vaqti">
@@ -112,7 +113,7 @@
 <!ENTITY prefs_editor_title "Tahrirlagich">
 <!ENTITY prefs_general_title "Umumiy">
 <!ENTITY prefs_restore "Standart holatni tiklash">
-
+<!ENTITY prefs_manage_components "Qo‘shimcha komponentlarni boshqarish">
 <!ENTITY prefs_options_rememberlastproject "So‘nggi loyihani eslab qolish">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE ishga tushirilganda oldingi loyihani tiklash">
 <!ENTITY prefs_options_templatesurl "Dizaynlar URL manzili">
@@ -145,13 +146,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Qurilma qaytadan ishga tushiriladi. Asosga kirish huquqi so‘ralmoqda.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Qurilma parametrlari">
+<!ENTITY devicepreferences_search "Qidiruv parametrlari">
+<!ENTITY devicepreferences_newname "Yangi parametr nomi">
+<!ENTITY devicepreferences_newtext "Parametr qiymati">
+<!ENTITY devicepreferences_addnew "Yangi parametr qo‘shish">
+<!ENTITY devicepreferences_typeboolean "Mantiqiy">
+<!ENTITY devicepreferences_typenumber "Butun son">
+<!ENTITY devicepreferences_typestring "Qator">
+<!ENTITY devicepreferences_typenone "Turini tanlash">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
