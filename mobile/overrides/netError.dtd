@@ -140,8 +140,8 @@
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
+<!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
 <!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
 <!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
