@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "N">
 <!ENTITY gdata.migration.showagain.label "Seiceáil i gcónaí">
 
+<!ENTITY gdata.reminder.default "Meabhrúchán Réamhshocraithe">
 <!ENTITY gdata.reminder.action.sms.label "Seol Teachtaireacht Téacs">
+
+<!ENTITY gdata.wizard.session.description "Roghnaigh seisiún atá ann nó cuir isteach do sheoladh ríomhphoist chun seisiún nua a chruthú. Ní theastaíonn uait ach seisiún amháin do gach cuntas.">
+<!ENTITY gdata.wizard.calendars.description "Roghnaigh na féilirí agus liostaí tascanna ar mian leat liostáil leo.">
+
+<!ENTITY gdata.wizard.nextstep.description "Téigh go dtí an chéad chéim eile chun do chuid féilirí a shocrú.">

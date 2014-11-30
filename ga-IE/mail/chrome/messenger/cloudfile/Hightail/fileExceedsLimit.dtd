@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile "Ní féidir comhaid atá níos mó ná 50MB a sheoladh">
-<!ENTITY fileExceedsLimit.thatsBigFile2 "gan íoc as ardchuntas.">
-<!ENTITY fileExceedsLimit.accept "Uasghrádú">
-<!ENTITY fileExceedsLimit.cancel "Cealaigh">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Ní féidir comhad atá níos mó ná 50 MB a sheoladh mura bhfuil scothchuntas agat.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Uasghrádaigh anois chun an comhad seo a sheoladh, agus:">
-<!ENTITY fileExceedsLimit.pros1 "Seol comhaid agus fillteáin suas le 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Sábháil comhaid ar líne gan teorainn">
-<!ENTITY fileExceedsLimit.pros3 "Tar ar agus roinn comhaid ó aon áit">

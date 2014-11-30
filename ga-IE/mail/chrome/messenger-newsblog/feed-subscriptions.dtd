@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label "Síntiúis Fhotha">
-<!ENTITY subscriptionDesc.label "Nóta: ní chuirfidh baint nó athrú fillteáin fhotha isteach ar altanna atá íosluchtaithe cheana féin.">
+<!ENTITY learnMore.label "Tuilleadh eolais faoi Fhothaí">
 
 <!ENTITY feedTitle.label "Teideal:">
 <!ENTITY feedTitle.accesskey "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label "URL an fhotha:">
 <!ENTITY feedLocation.accesskey "U">
 <!ENTITY feedLocation.placeholder "Cuir URL bailí d'fhotha isteach">
+<!ENTITY locationValidate.label "Bailíochtaigh">
+<!ENTITY validateText.label "Bailíochtaigh agus faigh URL bailí.">
 
 <!ENTITY feedFolder.label "Sábháil Ailt i:">
 <!ENTITY feedFolder.accesskey "S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label "Cuir an réimír seo roimh chlibeanna:">
 <!ENTITY autotagUsePrefix.accesskey "C">
 <!ENTITY autoTagPrefix.placeholder "Cuir réimír isteach">
-
-<!ENTITY locationValidate.label "Bailíochtaigh">
-<!ENTITY validateText.label "Bailíochtaigh agus faigh URL bailí.">
 
 <!ENTITY button.addFeed.label "Cuir Leis">
 <!ENTITY button.addFeed.accesskey "L">
