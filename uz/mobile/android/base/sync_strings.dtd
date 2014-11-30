@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Tasdiqlash kodi linki &formatS;ga jo‘natildi">
 <!ENTITY fxaccount_confirm_account_resend_email "E-pochtani qayta jo‘natish">
-
+<!ENTITY fxaccount_confirm_account_change_email "Ushbu e-pochta manzili unutilsinmi?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Tasdiqlash kodi e-pochtangizga jo‘natildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "E-pochtangizga tasdiqlash kodini jo‘natib bo‘lmadi">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox hisobi">
 <!ENTITY fxaccount_status_signed_in_as "Kirilgan foydalanuvchi nomi">
 <!ENTITY fxaccount_status_auth_server "Hisob serveri">
-
-
+<!ENTITY fxaccount_status_sync_now "Hozir sinxronlash">
+<!ENTITY fxaccount_status_syncing2 "Sinxornlanmoqda…">
 <!ENTITY fxaccount_status_device_name "Qurilma nomi">
 <!ENTITY fxaccount_status_sync_server "Sinxronlash serveri">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
