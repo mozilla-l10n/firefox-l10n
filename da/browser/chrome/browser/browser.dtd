@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
-<!ENTITY viewSidebarMenu.label "Sidepanel">
+<!ENTITY viewSidebarMenu.label "Sidepaneler">
 <!ENTITY viewSidebarMenu.accesskey "S">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
