@@ -415,6 +415,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "جستجو برای ">
 <!ENTITY searchWith.label             " با:">
 <!ENTITY changeSearchSettings.button  "تغییر تنظیمات جستجو">
 
@@ -728,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "دریافت زمینه های بیشتر">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "استفاده از تم (زمینه) برنامه نویسان">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "تمرکز بر روی گپ‌ها">
