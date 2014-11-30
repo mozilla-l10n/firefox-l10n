@@ -8,7 +8,7 @@
 
 <!ENTITY search_bar_hint "Cuardaigh le &formatS;">
 
-<!ENTITY search_empty_title "Cuardach &brandShortName;">
+<!ENTITY search_empty_title2 "Cuardach">
 <!ENTITY search_empty_message "Déan cuardach ar aon rud go sciobtha">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

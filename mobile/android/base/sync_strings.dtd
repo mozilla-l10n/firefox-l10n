@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Seoladh nasc deimhnithe chuig &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Seol an ríomhphost arís">
+<!ENTITY fxaccount_confirm_account_change_email "Déan dearmad den seoladh ríomhphoist seo?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Seoladh teachtaireacht deimhnithe trí ríomhphost">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Níorbh fhéidir an teachtaireacht dearbhaithe a sheoladh">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Cuntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
+<!ENTITY fxaccount_status_sync_now "Sioncrónaigh anois">
+<!ENTITY fxaccount_status_syncing2 "Á Shioncrónú…">
 <!ENTITY fxaccount_status_device_name "Ainm an ghléis">
 <!ENTITY fxaccount_status_sync_server "Freastalaí Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

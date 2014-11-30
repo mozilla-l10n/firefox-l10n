@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
-<!ENTITY pref_donottrack_menu "Rianú">
-<!ENTITY pref_donottrack_disallow_tracking "Cuir in iúl do shuímh Ghréasáin gan mé a rianú">
-<!ENTITY pref_donottrack_allow_tracking "Cuir in iúl do shuímh Ghréasáin gur mhaith liom a bheith rianaithe">
-<!ENTITY pref_donottrack_no_pref "Ná hinis faic do shuímh maidir le rianú">
+<!ENTITY pref_donottrack_title "Ná rianaigh">
+<!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a rianú">
 
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
 <!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
@@ -210,6 +208,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Léim an madra rua tapa thar do ríomhaire, agus thug sé luas, solúbthacht, agus slándáil duit. Mar eagraíocht neamhbhrabúis, táimid in ann rudaí nuálacha a chruthú ar do shon, gan aon bhrú seachtrach. Ciallaíonn sé sin go mbainfidh tú níos mó taitneamh as an nGréasán.">
+
+<!ENTITY pref_media_autoplay_enabled "Ceadaigh uathsheinm">
+<!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings "Níl aon socruithe le glanadh.">
 
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
-<!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
 <!ENTITY reading_list_duplicate "Tá an leathanach seo i do liosta léitheoireachta cheana">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; nóim">
+<!ENTITY reading_list_time_over_an_hour "Níos mó ná uair an chloig">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +391,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Cuir suíomh leis">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "Baile &brandShortName;">
 <!ENTITY home_history_title "Stair">
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
 <!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
 <!ENTITY home_open_all "Oscail uile">
 <!ENTITY home_most_recent_empty "Taispeántar na suímh ar thug tú cuairt orthu le déanaí anseo.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Cogar: úsáid &formatS1;Cluaisín Nua Príobháideach&formatS2; chun brabhsáil gan do stair a shábháil.">
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "atá á reáchtáil ag">
+<!ENTITY identity_no_info "Ní sholáthraíonn an suíomh seo faisnéis maidir lena aitheantas.">
+<!ENTITY identity_not_encrypted "Níl do cheangal leis an suíomh Gréasáin seo criptithe.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ábhar neamhshlán á thaispeáint ar an leathanach seo.">
 <!ENTITY blocked_mixed_content_message_top "Chuir &brandShortName; cosc ar ábhar neamhshlán.">
 <!ENTITY blocked_mixed_content_message_bottom "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "Tracking protection disabled.">
+<!ENTITY loaded_tracking_content_message_bottom "Parts of this page may track your online activity.">
+<!ENTITY blocked_tracking_content_message_top2 "Tracking protection enabled.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Cuireadh cosc ar chodanna den leathanach a rianaíonn do chuid ghníomhaíochta ar líne.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Tuilleadh Eolais">
 <!ENTITY enable_protection "Cumasaigh cosaint">
 <!ENTITY disable_protection "Díchumasaigh cosaint">
@@ -494,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aip">
 
 <!ENTITY searchable_description "Leabharmharcanna agus stair">
-
-<!ENTITY devtools_remote_debugging_forward "Ná déan dearmad poirt a chur ar aghaidh!">
 <!-- Updater notifications -->
 
 <!ENTITY updater_start_title2 "Nuashonrú ar fáil: &brandShortName;">
@@ -535,7 +555,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Roghchlár">
@@ -548,3 +568,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Sioncrónaithe: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "AaÁa">

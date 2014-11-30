@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Taispeáin Freagra don Seoltóir i gCónaí">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton1.label "Gníomhartha Eile">
+<!ENTITY otherActionsButton2.label "Tuilleadh">
+<!ENTITY otherActionsButton.tooltip "Tuilleadh gníomhartha">
 <!ENTITY otherActionsOpenConversation1.label "Oscail i gComhrá">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "Oscail i bhFuinneog Nua">
