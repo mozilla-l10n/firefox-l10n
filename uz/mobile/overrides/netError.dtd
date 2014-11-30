@@ -145,8 +145,8 @@ vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
+<!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
 
 <!ENTITY corruptedContentError.title "Buzilgan tarkib xatosi">
 <!ENTITY corruptedContentError.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki ma’lumotlarni uzatishda xato aniqlandi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul>">

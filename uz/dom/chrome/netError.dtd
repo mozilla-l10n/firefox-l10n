@@ -80,8 +80,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga shaxsiy ma`lumotlarni kiritish, ularni oʻgʻirlanishiga yoki boshqa tovlamachiliklarga sabab boʻlishi mumkin.</p> 
 <p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolgʻon veb sayt va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Sayt xavfsizlik nazorati tomonidan bloklandi">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauzer ushbu sahifani bu usulda yuklashiga toʻsqinlik qildi, chunki sahifadagi xavfsizlik nazorati bularga ruxsat bermadi.</p>">
+<!ENTITY cspBlocked.title "Sayt xavfsizlik nazorati tomonidan bloklandi">
+<!ENTITY cspBlocked.longDesc "<p>Brauzer ushbu sahifani bu usulda yuklashiga toʻsqinlik qildi, chunki sahifadagi xavfsizlik nazorati bularga ruxsat bermadi.</p>">
 
 <!ENTITY corruptedContentError.title "Buzilgan tarkib xatosi">
 <!ENTITY corruptedContentError.longDesc "<p>Siz koʻrmoqchi boʻlgan sahifani koʻrsatib boʻlmaydi, chunki ma`lumotlarni uzatishda xato aniqlandi.</p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul>">

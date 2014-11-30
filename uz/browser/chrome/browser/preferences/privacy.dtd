@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Kuzatish">
 
-<!ENTITY dntTrackingNopref.label2       "Kuzatish moslamalarim haqida saytlarga hech narsa aytilmasin.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Kuzatishlarini xohlamasligim saytlarga aytilsin.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Kuzatishlarini xohlashim saytlarga aytilsin">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "Saytlarni meni kuzatishlariga to‘sqinlik qilinsin">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Ko‘proq o‘rganish">
 <!ENTITY doNotTrackInfo.label           "Ko‘proq o‘rganish">
 
-<!ENTITY  history.label                 "Tarix">
 
 <!ENTITY  locationBar.label             "Manzil paneli">
 
-<!ENTITY  locbar.pre.label              "Manzil panelidan foydalanilganda, tavsiya qilinsin:">
-<!ENTITY  locbar.pre.accessKey          "f">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Tarix va xatcho‘plar">
-<!ENTITY  locbar.history.label          "Tarix">
-<!ENTITY  locbar.bookmarks.label        "Xatcho‘plar">
-<!ENTITY  locbar.nothing.label          "Hech narsa">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Saytlardan kukilarga rozi bo‘lish">
 <!ENTITY  acceptCookies.accesskey       "r">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Hech qachon">
 <!ENTITY  acceptThirdParty.visited.label  "Kirilganlardan">
 
-<!ENTITY  keepUntil.label               "Saqlab qolish:">
-<!ENTITY  keepUntil.accesskey           "S">
+
 
 <!ENTITY  expire.label                  "ular eskirguncha">
 <!ENTITY  close.label                   "Men &brandShortName;ni yopaman">

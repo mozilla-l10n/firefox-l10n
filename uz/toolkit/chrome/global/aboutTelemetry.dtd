@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>oʻchirib qoʻyilgan</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Sekin SQL ma`lumotlari">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Brauzer osilishlari">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Osilib turgan mavzular">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Gistogrammalar">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Oddiy oʻlchamlar">
 

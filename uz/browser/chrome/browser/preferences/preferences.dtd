@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Umumiy">
 <!ENTITY  paneTabs.title          "Ichki oynalar">
+<!ENTITY  paneSearch.title        "Izlash">
 <!ENTITY  paneContent.title       "Tarkibi">
 <!ENTITY  paneApplications.title  "Ilova dasturlar">
 <!ENTITY  panePrivacy.title       "Shaxsiylik">

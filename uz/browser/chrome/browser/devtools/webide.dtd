@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Ilova dasturni ochish…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "O‘rnatish va ishga tushirish">
-<!ENTITY projectMenu_play_accesskey "I">
+
 <!ENTITY projectMenu_stop_label "Ilova dasturni to‘xtatish">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ilova dasturni tuzatish">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Parametrlar">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+
+
 
 <!ENTITY runtimeMenu_label "Ishga tushish vaqti">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -38,12 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "Ko‘rinishi">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Tahrirlagichni yoqish/o‘chirish">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Simulyatorlarni boshqarish">
-<!ENTITY viewMenu_showAddons_accesskey "M">
+<!ENTITY viewMenu_zoomin_label "Kattalashtirish">
+
+<!ENTITY viewMenu_zoomout_label "Kichiklashtirish">
+
+
+
 
 <!ENTITY projectButton_label "Ilova dasturni ochish">
 <!ENTITY runtimeButton_label "Ishga tushish vaqtini tanlash">
@@ -59,14 +67,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "Mening loyihalarim">
 <!ENTITY projectPanel_runtimeApps "Ilova dasturlarning ishga tushish vaqti">
 <!ENTITY projectPanel_tabs "Ichki oynalar">
-<!ENTITY runtimePanel_USBDevices "USB qurilmalar">
-<!ENTITY runtimePanel_WiFiDevices "Wi-Fi qurilmalar">
-<!ENTITY runtimePanel_simulators "Simulyatorlar">
-<!ENTITY runtimePanel_custom "Boshqa">
+<!ENTITY runtimePanel_usb "USB qurilmalar">
+<!ENTITY runtimePanel_wifi "Wi-Fi qurilmalar">
+<!ENTITY runtimePanel_simulator "Simulyatorlar">
+<!ENTITY runtimePanel_other "Boshqa">
 <!ENTITY runtimePanel_installsimulator "Simulyatorni o‘rnatish">
 <!ENTITY runtimePanel_noadbhelper "ADB yordamchini o‘rnatish">
 <!ENTITY runtimePanel_nousbdevice "Qurilmangizni ko‘rmayapsizmi?">
@@ -100,9 +112,7 @@
 <!ENTITY prefs_editor_title "Tahrirlagich">
 <!ENTITY prefs_general_title "Umumiy">
 <!ENTITY prefs_restore "Standart holatni tiklash">
-<!ENTITY prefs_simulators "Simulyatorlarni boshqarish">
-<!ENTITY prefs_options_enablelocalruntime "Mahalliy ishga tushish vaqtini yoqish">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE’ga o‘zining ishga tushish vaqtiga ulanishiga ruxsat berish (ishga tushgan brauzer o‘rniga)">
+
 <!ENTITY prefs_options_rememberlastproject "So‘nggi loyihani eslab qolish">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE ishga tushirilganda oldingi loyihani tiklash">
 <!ENTITY prefs_options_templatesurl "Dizaynlar URL manzili">
@@ -133,6 +143,15 @@
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools cheklangan imtiyozlari: ">
 <!ENTITY runtimedetails_requestPrivileges "yuqoriroq imtiyozlarni so‘rash">
 <!ENTITY runtimedetails_privilegesWarning "(Qurilma qaytadan ishga tushiriladi. Asosga kirish huquqi so‘ralmoqda.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
