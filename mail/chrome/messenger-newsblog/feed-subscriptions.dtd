@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Naročnine na spletne vire">
-<!ENTITY subscriptionDesc.label      "Opomba: odstranitev ali sprememba mape za spletne vire ne bo imelo nobenega vpliva na že prenesene članke .">
+<!ENTITY learnMore.label             "Več o virih">
 
 <!ENTITY feedTitle.label             "Naslov:">
 <!ENTITY feedTitle.accesskey         "N">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL za vir:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Vnesite veljaven vir URL za dodajanje">
+<!ENTITY locationValidate.label      "Preveri">
+<!ENTITY validateText.label          "Preveri potrditev in pridobi veljaven url.">
 
 <!ENTITY feedFolder.label            "Shrani članke v:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Oznakam dodaj predpono:">
 <!ENTITY autotagUsePrefix.accesskey  "O">
 <!ENTITY autoTagPrefix.placeholder   "Vnesite predpono oznak">
-
-<!ENTITY locationValidate.label      "Preveri">
-<!ENTITY validateText.label          "Preveri potrditev in pridobi veljaven url.">
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">

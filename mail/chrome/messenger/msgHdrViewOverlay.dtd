@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vedno pokaži odgovor pošiljatelju">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-<!ENTITY otherActionsButton1.label "Ostala dejanja">
+<!ENTITY otherActionsButton2.label "Več">
+<!ENTITY otherActionsButton.tooltip "Več dejanj">
 <!ENTITY otherActionsOpenConversation1.label "Odpri kot pogovor">
 <!ENTITY otherActionsOpenConversation1.accesskey "p">
 <!ENTITY otherActionsOpenInNewWindow1.label "Odpri v novem oknu">
