@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "RSS-prenumerationer">
-<!ENTITY subscriptionDesc.label      "Obs: Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
+<!ENTITY learnMore.label             "Läs mer om RSS-kanaler">
 
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
