@@ -104,6 +104,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Dimenticato l’indirizzo email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email di verifica inviata">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Impossibile inviare l’email di verifica">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Reinvia email di sblocco">
+<!ENTITY fxaccount_unlock_code_sent "Inviata email di sblocco account">
+<!ENTITY fxaccount_unlock_code_not_sent "Impossibile inviare l’email di sblocco">
 <!ENTITY fxaccount_sign_in_sub_header "Accedi">
 <!ENTITY fxaccount_sign_in_button_label "Accedi">
 <!ENTITY fxaccount_sign_in_forgot_password "Password dimenticata?">
@@ -157,6 +160,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server occupato, riprovare più tardi">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Si è verificato un problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Impossibile accedere alla rete">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "L’account è bloccato. &formatS1;">
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; non è connesso">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tocca per accedere come &formatS;">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Tocca per accedere come &formatS;">
