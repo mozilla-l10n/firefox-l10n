@@ -38,9 +38,12 @@
 <!ENTITY community.creditsLink      "global jamiyati tomonidan yaratilgan. ">
 <!ENTITY community.end3             " Ushbu jamoa internetni hamma uchun ochiq va qulay qilish uchun birga ishlaydi.">
 
+<!ENTITY helpus.start               "Yordam kerakmi?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-
+<!ENTITY helpus.donateLink          "Xayriya qiling">
+<!ENTITY helpus.middle              " yoki ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "qo‘shiling!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -92,10 +95,10 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "— yangilanish yuklab olinmoqda">
+<!ENTITY update.downloading.start   "Yangilanish yuklab olinmoqda —">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Yangilanish qo‘llanmoqda...">
+<!ENTITY update.applying            "Yangilanish qo‘llanmoqda…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
