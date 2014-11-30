@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
-<!ENTITY pref_donottrack_menu "Sporing">
-<!ENTITY pref_donottrack_disallow_tracking "Fortæl websteder, at jeg ikke vil spores">
-<!ENTITY pref_donottrack_allow_tracking "Fortæl websteder, at jeg vil spores">
-<!ENTITY pref_donottrack_no_pref "Fortæl ikke websteder, om jeg vil spores eller ej">
+<!ENTITY pref_donottrack_title "Spor mig ikke">
+<!ENTITY pref_donottrack_summary "&brandShortName; vil fortælle websteder, at du ikke vil spores">
 
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Den hurtige orange ræv springer over dine forventninger med større hastighed, mere fleksibilitet og mere sikkerhed. Som en non-profit-organisation, kan vi udvikle på dine vegne uden at blive presset til at gå på kompromis. Det betyder en bedre oplevelse for dig og en lysere fremtid for internettet.">
+
+<!ENTITY pref_media_autoplay_enabled "Tillad automatisk sfspilning">
+<!ENTITY pref_media_autoplay_enabled_summary "Bestemmer om websteder kan starte afspilning af video og andet medieindhold automatisk">
 
 <!ENTITY pref_use_master_password "Brug hovedadgangskode">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
-<!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min.">
+<!ENTITY reading_list_time_over_an_hour "Over en time">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,10 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Tilføj et websted">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; Startskærm">
+
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_clear_history_button "Ryd browserhistorik">
 <!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
@@ -395,6 +405,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
 <!ENTITY home_open_all "Åbn alle">
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Ny fane med privat browsing&formatS2; bliver din historik ikke gemt.">
 <!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +475,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives af">
+<!ENTITY identity_no_info "Dette websted leverer ikke identitetsinformation.">
+<!ENTITY identity_not_encrypted "Din forbindelse til dette websted er ikke krypteret.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Denne side viser usikkert indhold.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokeret usikkert indhold.">
 <!ENTITY blocked_mixed_content_message_bottom "De fleste websteder vil stadig virke, selvom dette indhold er blokeret.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Beskyttelse mod sporing er deaktiveret.">
+<!ENTITY loaded_tracking_content_message_bottom "Dele af denne webside kan risikere at spore din aktivitet online.">
+<!ENTITY blocked_tracking_content_message_top2 "Beskyttelse mod sporing er aktiveret.">
+<!ENTITY blocked_tracking_content_message_bottom2 "De dele af websiden, som kan spore din aktivitet online, er blevet blokeret.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Læs mere">
 <!ENTITY enable_protection "Aktiver beskyttelse">
 <!ENTITY disable_protection "Deaktiver beskyttelse">
@@ -494,8 +517,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bogmærker og historik">
-
-<!ENTITY devtools_remote_debugging_forward "Husk at opsætte port forwarding!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Opdatering tilgængelig til &brandShortName;">
@@ -548,3 +569,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sidst synkroniseret: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
