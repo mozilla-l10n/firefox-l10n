@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>oʻchirib qoʻyilgan</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Umumiy ma’lumot">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Sekin SQL ma`lumotlari">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Gistogrammalar">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Kalitlangan gistogrammarl">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Oddiy oʻlchamlar">
 
