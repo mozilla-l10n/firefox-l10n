@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Претражи са &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName; претрага'>
+<!ENTITY search_empty_title2 'Започни претрагу'>
 <!ENTITY search_empty_message 'Брзо претражите све што Вас занима'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

@@ -71,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Покушај поново“ да бисте поново покушали да добавите документ са веб сајта.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Покушај поново. &brandShortName; ће покушати да успостави конекцију и да учита страницу.
@@ -116,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Не могу да пронађем прокси сервер">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Проверите да ли су исправне прокси поставке.</li>
@@ -160,6 +164,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Сајт је тренутно недоуступан или је преоптерећен. Покушајте поново за неколико тренутака.</li>
@@ -169,8 +175,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
+<!ENTITY cspBlocked.title "Блокирано због полисе о безбедности садржаја">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
 <!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
 <!ENTITY corruptedContentError.longDesc "<p>Страница коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Молимо да се обратите власницима веб странице и обавестите их о проблему.</li></ul>">
