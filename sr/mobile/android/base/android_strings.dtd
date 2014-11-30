@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Омогућено, укључујући трећа лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
-<!ENTITY pref_donottrack_menu "Праћење">
-<!ENTITY pref_donottrack_disallow_tracking "Обавести веб сајтове да не желим да будем праћен">
-<!ENTITY pref_donottrack_allow_tracking "Обавести веб сајтове да желим да будем праћен">
-<!ENTITY pref_donottrack_no_pref "Не откривај веб сајтовима моје поставке о праћењу">
+<!ENTITY pref_donottrack_title "Не желим да ме прате">
+<!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
 
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује Ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у Ваше име без икаквог притиска на компромис. Самим тим Ви имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
+
+<!ENTITY pref_media_autoplay_enabled "Дозволи аутоматску репродукцију">
+<!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
 
 <!ENTITY pref_use_master_password "Користи главну лозинку">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Нема поставки за чишћење.">
 
 <!ENTITY reading_list_added "Страница је додата на листу за читање">
-<!ENTITY reading_list_failed "Нисам успео да додам страницу на листу за читање">
 <!ENTITY reading_list_duplicate "Страница је већ на листи за читање">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; мин">
+<!ENTITY reading_list_time_over_an_hour "Преко 1 сата">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Додај сајт">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; почетна страница">
 <!ENTITY home_history_title "Историја">
 <!ENTITY home_clear_history_button "Избриши податке прегледавања">
 <!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете Ваш историјат?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Ваши недавни језичци су приказани овде.">
 <!ENTITY home_open_all "Отвори све">
 <!ENTITY home_most_recent_empty "Веб сајтови које сте посетили су приказани овде.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће снимити Ваш историјат.">
 <!ENTITY home_reading_list_empty "Чланци које сте сачували за касније су приказани овде.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "коју води">
+<!ENTITY identity_no_info "Овај сајт не испоручује информације о идентитету.">
+<!ENTITY identity_not_encrypted "Ваша веза ка веб сајту није шифрована.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Ова страница приказује садржај који није сигуран.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; је блокирао садржај који није сигуран.">
 <!ENTITY blocked_mixed_content_message_bottom "Већина сајтова ће и даље радити правилно чак и када је блокиран овај садржај.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Заштита од праћена је искључена.">
+<!ENTITY loaded_tracking_content_message_bottom "Делови ове странице могу пратити Ваше онлајн активности.">
+<!ENTITY blocked_tracking_content_message_top2 "Заштита од праћена је укључена.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Делови ове странице који прате Ваше онлајн активности су блокирани.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Сазнајте више">
 <!ENTITY enable_protection "Омогући заштиту">
 <!ENTITY disable_protection "Онемогући заштиту">
@@ -494,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Апликација">
 
 <!ENTITY searchable_description "Забелешке и историја">
-
-<!ENTITY devtools_remote_debugging_forward "Немојте заборавити да подесите прослеђивање портова!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Надоградња је доступна за &brandShortName;">
@@ -548,3 +568,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Последња синхронизација: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
