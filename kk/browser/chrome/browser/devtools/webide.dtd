@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Қолданбаны ашу…">
 <!ENTITY projectMenu_selectApp_accesskey "ш">
 <!ENTITY projectMenu_play_label "Орнату және жөнелту">
-<!ENTITY projectMenu_play_accesskey "т">
+
 <!ENTITY projectMenu_stop_label "Қолданбаны тоқтату">
 <!ENTITY projectMenu_stop_accesskey "о">
 <!ENTITY projectMenu_debug_label "Қолданбаны жөндеу">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "ш">
 <!ENTITY projectMenu_showPrefs_label "Баптаулар">
 <!ENTITY projectMenu_showPrefs_accesskey "п">
+
+
 
 
 <!ENTITY runtimeMenu_disconnect_label "Байланысты үзу">
@@ -37,9 +39,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Қарап шығу">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Үлкейту">
+
+<!ENTITY viewMenu_zoomout_label "Кішірейту">
 
 
 
@@ -52,14 +60,18 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "Менің жобаларым">
 
 <!ENTITY projectPanel_tabs "Беттер">
-<!ENTITY runtimePanel_USBDevices "USB құрылғылары">
-<!ENTITY runtimePanel_WiFiDevices "Wi-Fi құрылғылары">
-<!ENTITY runtimePanel_simulators "Симуляторлар">
-<!ENTITY runtimePanel_custom "Таңдауыңызша">
+<!ENTITY runtimePanel_usb "USB құрылғылары">
+<!ENTITY runtimePanel_wifi "Wi-Fi құрылғылары">
+<!ENTITY runtimePanel_simulator "Симуляторлар">
+<!ENTITY runtimePanel_other "Басқа">
 <!ENTITY runtimePanel_installsimulator "Симуляторды орнату">
 <!ENTITY runtimePanel_noadbhelper "ADB көмекшісін орнату">
 <!ENTITY runtimePanel_nousbdevice "Құрылғыңыз көрінбей ме?">
@@ -93,8 +105,6 @@
 <!ENTITY prefs_editor_title "Түзеткіш">
 <!ENTITY prefs_general_title "Жалпы">
 <!ENTITY prefs_restore "Әдеттілеріне қайту">
-<!ENTITY prefs_simulators "Симуляторларды басқару">
-
 
 <!ENTITY prefs_options_rememberlastproject "Соңғы жобаны есте сақтау">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE іске қосылғанда алдыңғы жобаны ашу">
@@ -124,6 +134,15 @@
 
 
 <!ENTITY runtimedetails_privilegesWarning "(Құрылғыны қайта іске қосады. Root рұқсаттарын талап етеді.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Бақылау">

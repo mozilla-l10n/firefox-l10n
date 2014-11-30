@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Телеметрия <span>сөндірілген</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Баяу SQL сұраныстары">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Браузердің тоқталуы">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Ағын тоқталуы">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Гистограммалар">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Қарапайым өлшемдер">
 
