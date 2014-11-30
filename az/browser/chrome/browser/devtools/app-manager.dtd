@@ -14,22 +14,22 @@
 <!ENTITY device.startApp "Başla">
 
 <!ENTITY device.stopApp "Dayan">
+<!ENTITY device.stopAppTooltip "Bu tətbiqetməni avadanlıqda dayandır">
 
-
-
+<!ENTITY device.debugAppTooltip "Cihazdakı bu tətbiqetməyə bağlı Tərtibatçı Alətlərini aç">
 <!ENTITY device.name "Ad">
-
-
+<!ENTITY device.plain "Düz (ilkin vəziyyət)">
+<!ENTITY device.privileged "İmtiyazlı">
 <!ENTITY device.certified "Sertifikatlaşdırılmış">
 <!ENTITY device.allow "İcazə ver">
-
+<!ENTITY device.allowTooltip "Bu icazə bu növdə olan tətbiqetmələrə verilir">
 <!ENTITY device.prompt "Klient">
 <!ENTITY device.promptTooltip "Bu icazə, bu cür tətbiqetmələrin istifadəçiyə soruşmasını tələb edir.">
 
+<!ENTITY device.denyTooltip "Bu icazə bu növdə olan tətbiqetmələr üçün qadağandır">
 
 
-
-
+<!ENTITY device.permissions "İcazələr">
 
 
 <!ENTITY device.browserTabs "Səyyah vərəqləri">
@@ -44,7 +44,7 @@
 
 
 
-
+<!ENTITY connection.changeHostAndPort "Dəyişdir">
 
 <!ENTITY connection.startSimulator "Simulyatoru başlat">
 

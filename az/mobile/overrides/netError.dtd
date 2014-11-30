@@ -93,8 +93,8 @@ saxlayın.</li>
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauzer bu səhfənin yüklənməsini blokladı; çünki səhifə, yüklənməsinə icazə verməyən bir məzmun məzmun təhlükəsizlik qanuna sahibdir.</p>">
+<!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
+<!ENTITY cspBlocked.longDesc "<p>Brauzer bu səhfənin yüklənməsini blokladı; çünki səhifə, yüklənməsinə icazə verməyən bir məzmun məzmun təhlükəsizlik qanuna sahibdir.</p>">
 
 <!ENTITY corruptedContentError.title "Zədəli Məzmun Xətası">
 <!ENTITY corruptedContentError.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">

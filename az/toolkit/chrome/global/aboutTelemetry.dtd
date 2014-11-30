@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>bağlıdır</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Zəif SQL İfadələr">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Səyyahın Donması">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Əlaqənin donması">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histoqram">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Sadə Ölçülər">
 

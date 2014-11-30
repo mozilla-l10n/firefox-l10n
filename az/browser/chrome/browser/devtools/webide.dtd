@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Bağlantını kəs">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Görünüş">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Yaxınlaş">
+
+<!ENTITY viewMenu_zoomout_label "Uzaqlaş">
 
 
 
@@ -49,6 +57,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Vərəqlər">
@@ -98,12 +110,19 @@
 
 
 
-
-
 <!ENTITY prefs_options_keybindings_default "Standart">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Ad">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 
