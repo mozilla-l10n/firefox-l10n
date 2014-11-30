@@ -162,6 +162,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Et bekræftelseslink er blevet sendt til &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Send ny mail'>
+<!ENTITY fxaccount_confirm_account_change_email 'Glem denne mailadresse?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Bekræftelsesmail er sendt'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kunne ikke sende Bekræftelsesmail'>
 
@@ -181,6 +182,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget ind som'>
 <!ENTITY fxaccount_status_auth_server 'Kontoserver'>
+<!ENTITY fxaccount_status_sync_now 'Synkroniser nu'>
+<!ENTITY fxaccount_status_syncing2 'Synkroniserer…'>
 <!ENTITY fxaccount_status_device_name 'Enhedens navn'>
 <!ENTITY fxaccount_status_sync_server 'Synkroniseringsserver'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
