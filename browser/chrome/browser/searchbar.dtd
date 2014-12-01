@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Kudeatu bilaketa-motorrak...">
 <!ENTITY searchEndCap.label             "Bilaketa">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Hurrengoa">
+<!ENTITY SearchHighlightClose "Eskerrik asko!">

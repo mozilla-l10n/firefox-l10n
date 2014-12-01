@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR mozilla.org / Librezale.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Librezale.org</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Librezale.org/em:contributor
 
 #unfilter emptyLines

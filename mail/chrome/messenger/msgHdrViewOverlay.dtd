@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Erakutsi beti 'erantzun bidaltzaileari'">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton1.label "Bestelako ekintzak">
+<!ENTITY otherActionsButton2.label "Gehiago">
+
 <!ENTITY otherActionsOpenConversation1.label "Ireki hizketaldian">
 <!ENTITY otherActionsOpenConversation1.accesskey "h">
 <!ENTITY otherActionsOpenInNewWindow1.label "Ireki leiho berrian">

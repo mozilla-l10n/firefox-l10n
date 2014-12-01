@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Egiaztapen-lotura &formatS; helbidera bidali da">
 <!ENTITY fxaccount_confirm_account_resend_email "Birbidali mezua">
+<!ENTITY fxaccount_confirm_account_change_email "Helbide elektronikoa ahaztuta?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Egiaztapen-mezua bidali da">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ezin izan da egiaztapen-mezua bidali">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
 <!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
+<!ENTITY fxaccount_status_sync_now "Sinkronizatu orain">
+<!ENTITY fxaccount_status_syncing2 "SInkronizatzen…">
 <!ENTITY fxaccount_status_device_name "Gailuaren izena">
 <!ENTITY fxaccount_status_sync_server "Sync zerbitzaria">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
