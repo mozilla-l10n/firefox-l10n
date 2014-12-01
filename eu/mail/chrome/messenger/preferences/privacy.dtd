@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Erakutsi cookieak…">
 <!ENTITY showCookies.accesskey "E">
 
-<!ENTITY dntTrackingNopref.label2 "Ez eman guneei nire jarraipen-hobespenen berri.">
-<!ENTITY dntTrackingNopref.accesskey "z">
 <!ENTITY dntTrackingNotOkay.label2 "Esan guneei nire jarraipenik ez egiteko">
 <!ENTITY dntTrackingNotOkay.accesskey "s">
-<!ENTITY dntTrackingOkay.label2 "Esan guneei nire jarraipena egiteko">
-<!ENTITY dntTrackingOkay.accesskey "E">
 <!ENTITY doNotTrackInfo.label "Do No Track-i buruzko argibide gehiago">
-

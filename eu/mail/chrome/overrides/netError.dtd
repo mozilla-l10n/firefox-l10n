@@ -116,8 +116,8 @@
 <!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
 <!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala idaztean nortasun iruzur bat egiteko aukera dago.</p>s <p>Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+<!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
 <!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
 <!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren edukia ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan arduradunekin arazo honen berri emateko.</li></ul>">

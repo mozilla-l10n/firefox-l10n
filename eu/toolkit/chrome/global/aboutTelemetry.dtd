@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry <span>desgaituta</span> dago.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL instrukzio motelak">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Nabigatzailearen esekitzeak">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Harien esekitzeak">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramak">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Neurketa sinpleak">
 

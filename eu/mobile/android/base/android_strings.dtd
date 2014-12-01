@@ -150,7 +150,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' panela hasiera-orrira gehitu da">
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 panela hasiera-orrira gehitu da">
 <!ENTITY pref_category_home_content_settings "Edukiaren ezarpenak">
 <!ENTITY pref_home_updates "Eguneraketa automatikoak">
 <!ENTITY pref_home_updates_enabled "Gaituta">
@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-<!ENTITY pref_donottrack_menu "Jarraipena">
-<!ENTITY pref_donottrack_disallow_tracking "Esan guneei nire jarraipenik ez egiteko">
-<!ENTITY pref_donottrack_allow_tracking "Esan guneei nire jarraipena egiteko">
-<!ENTITY pref_donottrack_no_pref "Ez eman guneei nire jarraipen-hobespenen berri.">
+
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Azeri laranja azkarrak zure aurreikuspenen gainetik egiten du jauzi abiadura, malgutasun eta segurtasun gehiagorekin. Irabazi-asmorik gabeko modura, libre gara zure alde berrikuntzak egiteko inongo akordioen presiorik gabe. Zuretzako esperientzia hobean eta webarentzat etorkizun argiagoan itzultzen da hori.">
+
+
 
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +360,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
 <!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
-<!ENTITY reading_list_failed "Huts egin du orria zure irakurketa-zerrendara gehitzean">
 <!ENTITY reading_list_duplicate "Orria badago lehendik irakurketa-zerrendan">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Ordubetetik gora">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +389,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Gehitu gunea">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; hasiera-orria">
 <!ENTITY home_history_title "Historia">
 <!ENTITY home_clear_history_button "Garbitu nabigatze-historia">
 <!ENTITY home_clear_history_confirm "Ziur zaude nabigatze-historia garbitu nahi duzula?">
@@ -395,6 +402,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
 <!ENTITY home_open_all "Ireki guztiak">
 <!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Adi: &formatS1;Fitxa pribatu berria&formatS2; erabiliz gero ez da historiarik gordeko.">
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +472,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Honen menpe dago: ">
+<!ENTITY identity_no_info "Webgune honek ez du identitate-informaziorik eskaintzen.">
+<!ENTITY identity_not_encrypted "Webgune honetarako konexioa ez dago zifratuta.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Orri hau segurua ez den edukia ari da bistaratzen.">
 <!ENTITY blocked_mixed_content_message_top "Segurua ez den edukia blokeatu du &brandShortName;(e)k.">
 <!ENTITY blocked_mixed_content_message_bottom "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta egonda ere.">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "Jarraipen-babesa desgaituta.">
+<!ENTITY loaded_tracking_content_message_bottom "Orri honen zenbait zatik zure jardueraren jarraipena egin lezakete.">
+<!ENTITY blocked_tracking_content_message_top2 "Jarraipen-babesa gaituta.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Zure jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Argibide gehiago…">
 <!ENTITY enable_protection "Gaitu babesa">
 <!ENTITY disable_protection "Desgaitu babesa">
@@ -489,13 +509,11 @@ Android-etik">
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "Bilatu \'&formatS2;\' &formatS1;(e)n">
+<!ENTITY suggestion_for_engine "Bilatu \u0027&formatS2;\u0027 &formatS1;(e)n">
 
 <!ENTITY webapp_generic_name "Apl">
 
 <!ENTITY searchable_description "Laster-markak eta historia">
-
-<!ENTITY devtools_remote_debugging_forward "Ez ahaztu ataka-birbidalketa konfiguratzeaz!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
@@ -535,7 +553,7 @@ Android-etik">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menua">
@@ -548,3 +566,8 @@ Android-etik">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Azken sinkronizazioa: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

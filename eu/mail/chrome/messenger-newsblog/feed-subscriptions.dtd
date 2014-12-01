@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Jario harpidetzak">
-<!ENTITY subscriptionDesc.label      "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
+
 
 <!ENTITY feedTitle.label             "Izenburua:">
 <!ENTITY feedTitle.accesskey         "I">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Jarioaren URLa:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Idatzi gehitzeko baliozko jario URLa">
+<!ENTITY locationValidate.label      "Balidatu">
+<!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
 
 <!ENTITY feedFolder.label            "Gorde artikuluak hemen:">
 <!ENTITY feedFolder.accesskey        "G">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Erabili aurrizkia etiketentzat:">
 <!ENTITY autotagUsePrefix.accesskey  "z">
 <!ENTITY autoTagPrefix.placeholder   "Idatzi etiketaren aurrizkia">
-
-<!ENTITY locationValidate.label      "Balidatu">
-<!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
 
 <!ENTITY button.addFeed.label        "Gehitu">
 <!ENTITY button.addFeed.accesskey    "G">
