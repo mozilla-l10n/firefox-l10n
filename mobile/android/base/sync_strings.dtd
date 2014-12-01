@@ -179,9 +179,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Účet overený'>
 <!ENTITY fxaccount_account_verified_description2 'Vaše údaje sa práve začínajú synchronizovať.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Aktualizácia dokončená'>
+
 <!ENTITY fxaccount_update_credentials_header 'Prihlásenie'>
 <!ENTITY fxaccount_update_credentials_button_label 'Prihlásiť sa'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Nepodarilo sa prihlásiť'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Prihláste sa a dokončite aktualizáciu'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Dokončiť aktualizáciu'>
+<!ENTITY fxaccount_finish_migrating_description 'Aktualizácia môže vyžadovať prenos veľkého množstva údajov. Odporúča sa byť pripojený k sieti Wi-Fi.'>
 
 <!ENTITY fxaccount_status_header2 'Účet Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Prihlásený ako'>
@@ -197,6 +203,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach synchronizácie systému Android.'>
 <!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju spustíte.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
 <!ENTITY fxaccount_status_passwords 'Heslá'>
@@ -249,3 +256,8 @@
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Ťuknutím sa pripojíte ako &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Dokončiť aktualizáciu účtu služby &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Ťuknutím sa prihlásite ako &formatS;'>
