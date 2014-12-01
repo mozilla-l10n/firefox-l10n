@@ -193,7 +193,7 @@
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
-<!ENTITY bringAllToFront.label "Ön plana getir">
+<!ENTITY bringAllToFront.label "Tümünü ön plana getir">
 <!ENTITY zoomWindow.label "Yakınlaştır">
 <!ENTITY windowMenu.label "Pencere">
 <!-- Mail Toolbar -->
