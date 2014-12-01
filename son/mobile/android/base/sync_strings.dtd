@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Tabatandiyan dobu sanbandi &formatS; do">
 <!ENTITY fxaccount_confirm_account_resend_email "Bataga sanba taaga">
+<!ENTITY fxaccount_confirm_account_change_email "Dirŋa bataga aderesoo wa?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Tabatandiyan bataga sanbandi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Mana hin ka tabatandiyan bataga sanba">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
 <!ENTITY fxaccount_status_auth_server "Kontu feršikaw">
+<!ENTITY fxaccount_status_sync_now "Hangandi sohõ">
+<!ENTITY fxaccount_status_syncing2 "Goo ma hangandi…">
 <!ENTITY fxaccount_status_device_name "Jinay maa">
 <!ENTITY fxaccount_status_sync_server "Sync feršikaw">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

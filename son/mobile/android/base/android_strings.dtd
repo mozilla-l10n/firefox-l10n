@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Tunante, bila nda aleewa waani">
 <!ENTITY pref_cookies_disabled "Kayante">
 
-<!ENTITY pref_donottrack_menu "Monnoyan">
-<!ENTITY pref_donottrack_disallow_tracking "Nee Interneti nungey še kaŋ ay ši baa ya hangandi">
-<!ENTITY pref_donottrack_allow_tracking "Nee Interneti nungey še kaŋ ay ga baa ya hangandi">
-<!ENTITY pref_donottrack_no_pref "Ma ši haya kul har nungey še ay ceebandu ibaayey ga">
+<!ENTITY pref_donottrack_title "May ši ay gana">
+<!ENTITY pref_donottrack_summary "&brandShortName; ga har nungey se kaŋ war ši baa boro ma war gana">
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
@@ -210,6 +208,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Afozo cirya cahãntaa ga sar war anniyawey jine nda kargayan, nda doonay nda boŋ-naannay sifante. Kaŋ ir ši goy arriba še, kul ir goo d\u0027ir boŋ ka haya tejey šii war še bila nda alman wala hinni m\u0027a waažibandi. Maanaa ti goyyan bešere war še nda zama annuurante Interneti še.">
+
+<!ENTITY pref_media_autoplay_enabled "Yadda boŋhẽenandiyan ga">
+<!ENTITY pref_media_autoplay_enabled_summary "Dabari wala nungey ga hin ka widewo nda hoorayjinay tana hẽenandi ngi boŋ se">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 
 <!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
-<!ENTITY reading_list_failed "Mana hin ka moɲoo tonton war caw maašeedaa ga">
 <!ENTITY reading_list_duplicate "Moo goo war caw maašeedaa ra">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Ga bisa guuru foo">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +391,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; šintin moo">
 <!ENTITY home_history_title "Taariki">
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
 <!ENTITY home_open_all "Ikul feeri">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura nor loku taaga&formatS2; ši war taarikoo gaabu.">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kaŋ tunandikaa ti">
+<!ENTITY identity_no_info "Interneti nungoo woo ši boŋtammaasa alhabar noo.">
+<!ENTITY identity_not_encrypted "War ciyaroo Interneti nungoo woo do ši tugandi.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Moɲoo woo ka gundekuna cebe kaŋ ši saajaw.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; na gundekuna gagay kaŋ ši saajaw.">
 <!ENTITY blocked_mixed_content_message_bottom "Interneti nungi boobey ga goy boryo ba gundekunaa woo n\u0027 ka gagayandi.">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "Jejebu ganayan n\u0027 ka kay.">
+<!ENTITY loaded_tracking_content_message_bottom "Moɲoo woo jereyaŋ ga hin ka war interneti gana goyey gana.">
+<!ENTITY blocked_tracking_content_message_top2 "Ganayan jejebu n\u0027 ka tunandi.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Moɲoo woo jereyaŋ kaŋ ga war interneti goyey gana n\u0027 ka kayandi.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Bay ka tonton">
 <!ENTITY enable_protection "Jejebu tunandi">
 <!ENTITY disable_protection "Jejebu kayandi">
@@ -494,8 +516,6 @@ Android ra">
 <!ENTITY webapp_generic_name "Porogaramize">
 
 <!ENTITY searchable_description "Doo-šilbawey nda taariki">
-
-<!ENTITY devtools_remote_debugging_forward "Ši dirɲa ka kotay-mee kayandi bisandiyan še!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Taagandiri ga bara &brandShortName; še">
@@ -535,7 +555,7 @@ Android ra">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Šilbayboŋ">
@@ -548,3 +568,8 @@ Android ra">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Hangande koraa: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
