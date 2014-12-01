@@ -11,13 +11,14 @@
 <!ENTITY trackingProtectionLearnMore.label "Ta reda på mer">
 <!ENTITY doNotTrackInfo.label           "Läs mer">
 
+<!ENTITY  history.label                 "Historik">
 
 <!ENTITY  locationBar.label             "Adressfältet">
 
-
-
-
-
+<!ENTITY  locbar.history.label          "Historik">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Bokmärken">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 
 
 

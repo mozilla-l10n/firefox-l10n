@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Inställningar">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Hantera extra komponenter">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "Körtid">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -40,18 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Övervaka">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Visa">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Växla redigerare">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Zooma in">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Zooma ut">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Återställ zoom">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Öppna app">
 <!ENTITY runtimeButton_label "Välj Körtid">
@@ -68,6 +68,7 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 
 
 
@@ -150,8 +151,8 @@
 
 
 
-
-
+<!ENTITY devicepreferences_typestring "Sträng">
+<!ENTITY devicepreferences_typenone "Välj en typ">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Övervaka">

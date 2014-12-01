@@ -114,7 +114,7 @@
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Inga nerladningar för denna session. ">
+<!ENTITY downloadsPanelEmpty.label        "Inga nedladdningar för denna session. ">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
