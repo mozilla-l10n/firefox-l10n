@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Feedabonnementen">
-<!ENTITY subscriptionDesc.label      "Opmerking: het verwijderen of wijzigen van een feedmap heeft geen invloed op eerder gedownloade artikelen.">
+<!ENTITY learnMore.label             "Meer info over feeds">
 
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
 <!ENTITY feedLocation.placeholder    "Voer een geldige feed-URL in om toe te voegen">
+<!ENTITY locationValidate.label      "Valideren">
+<!ENTITY validateText.label          "Controleer validatie en haal een geldige URL op.">
 
 <!ENTITY feedFolder.label            "Artikelen opslaan in:">
 <!ENTITY feedFolder.accesskey        "s">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Labels laten voorafgaan door:">
 <!ENTITY autotagUsePrefix.accesskey  "v">
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
-
-<!ENTITY locationValidate.label      "Valideren">
-<!ENTITY validateText.label          "Controleer validatie en haal een geldige URL op.">
 
 <!ENTITY button.addFeed.label        "Toevoegen">
 <!ENTITY button.addFeed.accesskey    "T">
