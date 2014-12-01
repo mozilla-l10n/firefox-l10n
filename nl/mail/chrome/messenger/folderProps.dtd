@@ -5,9 +5,9 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenschappen">
 
 <!ENTITY generalInfo.label                       "Algemene informatie">
-<!ENTITY folderCharsetFallback.label             "Terugval tekenset:">
+<!ENTITY folderCharsetFallback.label             "Terugvaltekenset:">
 <!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Tekenset toepassen op alle berichten in de map (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
+<!ENTITY folderCharsetEnforce.label              "Tekenset op alle berichten in de map toepassen (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
 <!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">      
 <!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
@@ -50,7 +50,7 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
 <!ENTITY folderProps.name.label                  "Naam:">
-<!ENTITY folderProps.name.accesskey              "m">
+<!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Locatie:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -68,6 +68,6 @@
 <!ENTITY numberOfMessages.label                  "Aantal berichten:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "onbekend">
-<!ENTITY sizeOnDisk.label                        "Diskruimte:">
+<!ENTITY sizeOnDisk.label                        "Grootte op schijf:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "onbekend">
