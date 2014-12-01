@@ -14,6 +14,7 @@
 
 <!ENTITY  paneGeneral.title       "Ogólne">
 <!ENTITY  paneTabs.title          "Karty">
+<!ENTITY  paneSearch.title "Wyszukiwanie">
 <!ENTITY  paneContent.title       "Treść">
 <!ENTITY  paneApplications.title  "Aplikacje">
 <!ENTITY  panePrivacy.title       "Prywatność">
