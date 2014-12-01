@@ -119,7 +119,7 @@ bağlantısını kontrol edin.</li>
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
 <!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
-<p>Yanlışlıkla saldırı sitesi olarak rapor edilen Web sitesi yöneticileri yapılan raporun <a href='http://www.stopbadware.org/home/reviewinfo'> gözden geçirilmesini</a> isteyebilir.</p>">
+<p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 

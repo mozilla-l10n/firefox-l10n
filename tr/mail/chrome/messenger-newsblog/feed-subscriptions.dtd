@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Besleme abonelikleri">
-
+<!ENTITY learnMore.label             "Beslemeler hakkında bilgi alın">
 
 <!ENTITY feedTitle.label             "Başlık: ">
 <!ENTITY feedTitle.accesskey         "T">
