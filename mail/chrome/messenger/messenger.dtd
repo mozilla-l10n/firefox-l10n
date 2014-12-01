@@ -487,6 +487,8 @@
 
 
 <!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton1.label "İletileri indir">
 <!ENTITY newMsgButton.label "Yeni ileti">
 <!ENTITY replyButton.label "Yanıtla">
 <!ENTITY replyAllButton.label "Tümünü yanıtla">

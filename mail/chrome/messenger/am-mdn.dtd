@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title                   "Alındı Onayları">
+<!ENTITY pane.title                   "Alındı onayları">
 <!ENTITY useGlobalPrefs.label         "Bu hesap için genel alındı onayı tercihlerimi kullan">
 <!ENTITY useGlobalPrefs.accesskey     "n">
 <!ENTITY globalReceipts.label         "Global tercihler…">
