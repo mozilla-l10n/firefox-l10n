@@ -157,13 +157,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "Rapportera det här felet">
 
 
 
-
-
-
-
+<!ENTITY errorReporting.sending "Skickar rapporten…">
+<!ENTITY errorReporting.sent "Rapport skickad">
+<!ENTITY errorReporting.report "Rapportera">
+<!ENTITY errorReporting.tryAgain "Försök igen">
 
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
