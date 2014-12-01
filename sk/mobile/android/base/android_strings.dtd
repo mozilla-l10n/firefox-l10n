@@ -430,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Tu sa zobrazujú karty z vašich ostatných zariadení">
 <!ENTITY home_remote_tabs_unable_to_connect "Nie je možné sa pripojiť">
 <!ENTITY home_remote_tabs_need_to_sign_in "Prosím, prihláste sa, aby ste sa znova pripojili k svojmu účtu Firefox Account a mohli tak pokračovať v synchronizácii.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Váš nový účet Firefox Account je pripravený!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problémy s overením svojho účtu?">
 <!ENTITY home_remote_tabs_need_to_verify "Synchronizácia bude spustená po overení vášho účtu Firefox Account.">
 
