@@ -184,7 +184,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Hesap ayarları…">
 <!ENTITY accountManagerCmd2.accesskey "a">
-
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Seçenekler">
 <!ENTITY preferencesCmd2.accesskey "S">
 <!ENTITY preferencesCmdUnix.label "Tercihler">

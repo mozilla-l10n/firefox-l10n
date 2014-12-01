@@ -131,7 +131,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.label                         "Yeni kişi">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yeni liste">
-<!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY newlistButton.accesskey                        "Y">
 <!ENTITY editButton2.label                              "Özellikler…">
 <!ENTITY editButton2.accesskey                          "r">
 <!ENTITY newmsgButton.label                             "Yaz">
