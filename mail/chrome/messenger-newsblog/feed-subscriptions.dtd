@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
-<!ENTITY subscriptionDesc.label      "Հիշեք. Նորությունների շղթայի թղթապանակի ջնջումը կամ փոփոխումը չի ազդի նախորդ գրառումների վրա։">
+
 
 <!ENTITY feedTitle.label             "Վերնագիրը.">
 <!ENTITY feedTitle.accesskey         "Վ">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Շղթայի վեբ հղումը.">
 <!ENTITY feedLocation.accesskey      "Շ">
 <!ENTITY feedLocation.placeholder    "Նշեք ճիշտ վեբ հղում">
+<!ENTITY locationValidate.label      "Վավերացնել">
+<!ENTITY validateText.label          "Ստուգել և ստանալ ճիշտ վեբ հղում։">
 
 <!ENTITY feedFolder.label            "Պահել հոդվածները՝">
 <!ENTITY feedFolder.accesskey        "Պ">
@@ -23,9 +25,6 @@
 
 
 
-
-<!ENTITY locationValidate.label      "Վավերացնել">
-<!ENTITY validateText.label          "Ստուգել և ստանալ ճիշտ վեբ հղում։">
 
 <!ENTITY button.addFeed.label        "Ավելացնել">
 <!ENTITY button.addFeed.accesskey    "A">

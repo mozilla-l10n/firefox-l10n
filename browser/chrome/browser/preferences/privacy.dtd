@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Հետևում">
 
-<!ENTITY dntTrackingNopref.label2       "Կայքերին չհաղորդել հետևելու իմ կարգավորումների մասին">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն:">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Հաղորդել կայքերին, որ ես ցանկանում եմ, որ ինձ հետևեն:">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "Կանխել այն կայքերը, որոնք փորձում են հետևել ինձ">
 <!ENTITY trackingProtection.accesskey   "ք">
 <!ENTITY trackingProtectionLearnMore.label "Մանրամասն">
 <!ENTITY doNotTrackInfo.label           "Մանրամասն">
 
-<!ENTITY  history.label                 "Պատմություն">
 
 <!ENTITY  locationBar.label             "Հասցեի վահանակ">
 
-<!ENTITY  locbar.pre.label              "Հասցեի վահանակը օգտագործելիս առաջարկել հղումներ՝">
-<!ENTITY  locbar.pre.accessKey          "օ">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Պատմություն և էջանիշեր">
-<!ENTITY  locbar.history.label          "Պատմություն">
-<!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
-<!ENTITY  locbar.nothing.label          "Ոչինչ">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
 
-<!ENTITY  keepUntil.label               "Պահել մինչև`">
-<!ENTITY  keepUntil.accesskey           "և">
+
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
 <!ENTITY  close.label                   "&brandShortName;-ը փակելը">

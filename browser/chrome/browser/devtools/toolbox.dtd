@@ -107,11 +107,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* Չի աջակցվում ընթացիկ գործիքներում">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Ընտրել DevTools թեման">
+<!ENTITY options.selectDevToolsTheme.label2   "Ձևավորումներ">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -171,3 +174,4 @@ Gecko հարթակի նշանները">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "Հիմնական">
+

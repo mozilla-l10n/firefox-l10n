@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry-ին <span>անջատված է</span>։">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Ցուցադրել SQL-ի առաջարկությունը">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Դիտարկիչի կախումներ">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection " Շղթների կախում ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Գծապատկերներ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Պարզ չափումներ">
 

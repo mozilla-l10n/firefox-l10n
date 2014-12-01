@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Հաստատման հղումը ուղարկվել է &formatS;-ին">
 <!ENTITY fxaccount_confirm_account_resend_email "Կրկնել">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Հաստատումը ուղարկվել է">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Չհաջողվեց ուղարկել">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
 <!ENTITY fxaccount_status_auth_server "Հաշվի սպասարկիչը">
+
+
 <!ENTITY fxaccount_status_device_name "Սարքի անունը">
 <!ENTITY fxaccount_status_sync_server "Սինքի սպասարկիչը">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

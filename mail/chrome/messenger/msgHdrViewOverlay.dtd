@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Միշտ ցուցադրել պատասխանը ուղարկողին">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "Այլք">
+<!ENTITY otherActionsButton2.label "Ավելին">
+
 <!ENTITY otherActionsOpenConversation1.label "Բացել պատուհանով">
 <!ENTITY otherActionsOpenConversation1.accesskey "Բ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանով">
