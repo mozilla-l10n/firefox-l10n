@@ -2,9 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.storageLimitReached   "Սահմանափակումը լրացել է">
-<!ENTITY fileExceedsQuota.accept "Թարմացնել">
-<!ENTITY fileExceedsQuota.cancel "Չեղարկել">
 <!ENTITY fileExceedsQuota.description "Գերազանցվել է 2ԳԲ սահմանափակումը:">
 <!ENTITY fileExceedsQuota.description1 "Այժմ օգտագործվում է #XXX ԳԲ:">
-<!ENTITY fileExceedsQuota.description2 "Upgrade today to Pro Plus account and get more storage.">
-<!ENTITY fileExceedsQuota.description3 "You can also choose to delete files in your account to create more space.">

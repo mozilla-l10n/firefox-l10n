@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Որոնողական հանգույցների կառավարում…">
 <!ENTITY searchEndCap.label             "Փնտրել">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Հաջորդ">
+<!ENTITY SearchHighlightClose "Շնորհակալություն:">

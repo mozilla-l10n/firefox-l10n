@@ -31,11 +31,7 @@
 <!ENTITY alwaysAsk.label "Միշտ հարցնել ֆայլերը պահելու տեղը">
 <!ENTITY alwaysAsk.accesskey "Մ">
 
-<!ENTITY alwaysCheckDefault.label         "Մեկնարկում միշտ ստուգել, արդյոք &brandShortName;-ը հիմնական դիտարկիչն է">
 
-
-<!ENTITY setAsMyDefaultBrowser.label      "Հաստատել &brandShortName;-ը որպես հիմնական դիտարկիչ">
-<!ENTITY setAsMyDefaultBrowser.accesskey  "հ">
 
 
 <!ENTITY isDefault.label                  "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչն է">
