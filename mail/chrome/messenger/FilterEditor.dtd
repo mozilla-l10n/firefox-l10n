@@ -36,7 +36,7 @@
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
 <!ENTITY replyWithTemplate.label "Antwoorden met sjabloon">
 <!ENTITY markMessageRead.label "Markeren als gelezen">
-<!ENTITY markMessageUnread.label "Narkeren als ongelezen">
+<!ENTITY markMessageUnread.label "Markeren als ongelezen">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
 <!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
