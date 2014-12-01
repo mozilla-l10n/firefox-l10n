@@ -153,13 +153,14 @@ functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Firkaa woo bayrandi">
+<!ENTITY errorReporting.longDesc "Aderesoo nda tabatiyan-tiiraa alhabar bayrandi <span id='hostname'></span> se k'ir gaa ka interneti nungu laaley šilbay nda k'i hode. Foo nda goy kaŋ war ga faaba ka interneti tee saajante ka tonton!">
+<!ENTITY errorReporting.automatic "Hiino firkawey bayrandi ngi boŋ se">
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
-
-
-
-
+<!ENTITY errorReporting.sending "Goo ma bayrandi sanba">
+<!ENTITY errorReporting.sent "Bayrandi sanbante">
+<!ENTITY errorReporting.report "Bayrandi">
+<!ENTITY errorReporting.tryAgain "Ceeci koyne">
 
 <!ENTITY remoteXUL.title "XUL moora">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">

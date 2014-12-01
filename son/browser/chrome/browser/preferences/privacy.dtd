@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Bay ka tonton">
 <!ENTITY doNotTrackInfo.label           "Bay ka tonton">
 
+<!ENTITY  history.label                 "Taariki">
 
 <!ENTITY  locationBar.label             "Gorodoo žeeri">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Nda war ga gorodoo zuwoo ka goy, honnandi:">
+<!ENTITY  locbar.history.label          "Taariki">
+<!ENTITY  locbar.history.accesskey      "T">
+<!ENTITY  locbar.bookmarks.label        "Doo-šilbay">
+<!ENTITY  locbar.bookmarks.accesskey    "i">
+<!ENTITY  locbar.openpage.label         "Nor lokey feeri">
+<!ENTITY  locbar.openpage.accesskey     "f">
 
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Abada">
 <!ENTITY  acceptThirdParty.visited.label  "Kaŋ gunandi">
 
-
+<!ENTITY  keepUntil.label               "Gaabu hala:">
+<!ENTITY  keepUntil.accesskey           "h">
 
 <!ENTITY  expire.label                  "ngi waatoo ga ben">
 <!ENTITY  close.label                   "Ay ga &brandShortName; daabu">

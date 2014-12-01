@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Mooru-neešiyan n' ka <span>kayandi</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection " Yamma bayhayey">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL yaamar cee-yaynayaŋ">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "--Titilawey">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection " Bayhaya titila kufalantey">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Neešiyan faalantey">
 
