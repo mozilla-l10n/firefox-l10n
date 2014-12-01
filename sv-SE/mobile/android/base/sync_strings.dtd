@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "En bekräftelselänk har skickats till &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Skicka email igen">
+<!ENTITY fxaccount_confirm_account_change_email "Glöm denna emailadress? ">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Skickat ett bekräftelsemejl">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Kunde inte skicka något bekräftelsemejl">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
 <!ENTITY fxaccount_status_auth_server "Konto server">
+<!ENTITY fxaccount_status_sync_now "Synkronisera nu">
+<!ENTITY fxaccount_status_syncing2 "Synkroniserar...">
 <!ENTITY fxaccount_status_device_name "Enhetsnamn">
 <!ENTITY fxaccount_status_sync_server "Sync Server">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

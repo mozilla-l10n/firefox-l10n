@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
-<!ENTITY pref_donottrack_menu "Spårning">
-<!ENTITY pref_donottrack_disallow_tracking "Be webbplatser att inte spåra mig">
-<!ENTITY pref_donottrack_allow_tracking "Tillåt webbplatser att spåra mig">
-<!ENTITY pref_donottrack_no_pref "Säg inget till webbplatser om min inställning till spårning">
+
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
+
+
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +360,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
-<!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reading_list_duplicate "Sidan finns redan i din läslista">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Över en timme">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +389,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; start">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
@@ -395,6 +402,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
 <!ENTITY home_open_all "Öppna alla">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Artiklar som du sparat till senare visas här.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +471,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
+
+<!ENTITY identity_not_encrypted "Din anslutning till denna webbsida är inte krypterad.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Den här sidan visar innehåll som inte är säkert.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blockerat osäkert innehåll.">
 <!ENTITY blocked_mixed_content_message_bottom "De flesta webbplatser fungerar bra även om det här innehållet blockeras.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Läs mer">
 <!ENTITY enable_protection "Aktivera skydd">
 <!ENTITY disable_protection "Inaktivera skydd">
@@ -494,8 +511,6 @@ från Android">
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bokmärken och historik">
-
-<!ENTITY devtools_remote_debugging_forward "Glöm inte att ställa in vidarebefordring av port!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
@@ -535,7 +550,7 @@ från Android">
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Meny">
@@ -548,3 +563,8 @@ från Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Senast synkad:  &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
