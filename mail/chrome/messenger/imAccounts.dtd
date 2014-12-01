@@ -11,7 +11,7 @@
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "Nog geen account geconfigureerd!">
+<!ENTITY accountManager.noAccount.title      "Nog geen account geconfigureerd">
 <!ENTITY accountManager.noAccount.description "Klik op de knop &accountManager.newAccount.label; om &brandShortName; u door het accountconfiguratieproces te laten leiden.">
 <!ENTITY account.autoSignOn.label     "Aanmelden bij opstarten">
 <!ENTITY account.autoSignOn.accesskey "s">
@@ -25,7 +25,7 @@
 <!ENTITY account.movedown.label       "Omlaag verplaatsen">
 <!ENTITY account.cancelReconnection.label         "Opnieuw verbinden annuleren">
 <!ENTITY account.cancelReconnection.accesskey     "a">
-<!ENTITY account.copyDebugLog.label     "Debuglogbestand kopiëren">
+<!ENTITY account.copyDebugLog.label     "Debuglogboek kopiëren">
 <!ENTITY account.copyDebugLog.accesskey "D">
 <!ENTITY account.connecting           "Verbinden…">
 <!ENTITY account.disconnecting        "Verbinding verbreken…">

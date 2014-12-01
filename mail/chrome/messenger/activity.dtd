@@ -18,10 +18,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.undo.label                   "Ongedaan maken">
 <!ENTITY cmd.undo.accesskey               "O">
-<!ENTITY cmd.recover.label                "Vrij maken">
-<!ENTITY cmd.recover.accesskey            "V">
+<!ENTITY cmd.recover.label                "Herstellen">
+<!ENTITY cmd.recover.accesskey            "s">
 <!ENTITY cmd.retry.label                  "Opnieuw proberen">
-<!ENTITY cmd.retry.accesskey              "p">
+<!ENTITY cmd.retry.accesskey              "r">
 <!ENTITY cmd.removeFromList.label         "Verwijderen uit lijst">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 

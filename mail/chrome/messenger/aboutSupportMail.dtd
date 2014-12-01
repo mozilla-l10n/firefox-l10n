@@ -16,4 +16,4 @@
 <!ENTITY aboutSupport.accountsAuthMethod "Authenticatiemethode">
 <!ENTITY aboutSupport.accountsDefault "Standaard?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Via e-mail versturen">
+<!ENTITY aboutSupport.sendViaEmail.label "Verzenden via e-mail">

@@ -26,12 +26,12 @@
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogboek">
 <!ENTITY viewLogButton.accesskey "i">
-<!ENTITY runFilters.label "Nu toepassen">
-<!ENTITY runFilters.accesskey "t">
+<!ENTITY runFilters.label "Nu uitvoeren">
+<!ENTITY runFilters.accesskey "u">
 <!ENTITY stopFilters.label "Stoppen">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) toepassen op:">
-<!ENTITY folderPickerPrefix.accesskey "p">
+<!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) uitvoeren op:">
+<!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

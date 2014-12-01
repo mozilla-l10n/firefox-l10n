@@ -1,5 +1,6 @@
 <!ENTITY aboutDialog.title          "Over &brandFullName;">
 
+
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -64,7 +65,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "U kunt geen verdere updates op dit systeem uit te voeren. ">
+<!ENTITY update.unsupported.start    "U kunt op dit systeem geen updates meer installeren. ">
 <!ENTITY update.unsupported.linkText "Meer info">
 <!ENTITY update.unsupported.end      "">
 

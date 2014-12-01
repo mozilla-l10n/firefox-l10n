@@ -9,7 +9,7 @@
 <!ENTITY account.name                  "Gebruikersnaam:">
 <!ENTITY account.password              "Wachtwoord:">
 <!ENTITY account.alias                 "Alias:">
-<!ENTITY account.newMailNotification   "Notificatie bij nieuwe e-mail">
+<!ENTITY account.newMailNotification   "Melding geven bij nieuwe e-mail">
 <!ENTITY account.autojoin              "Automatisch bijgewoonde kanalen:">
 <!ENTITY account.proxySettings.caption "Proxyinstellingen:">
 <!ENTITY account.proxySettings.change.label     "Wijzigen…">
