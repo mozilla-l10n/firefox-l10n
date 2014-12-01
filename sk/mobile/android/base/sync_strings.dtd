@@ -169,6 +169,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Zabudnúť túto e-mailovú adresu?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Overovací e-mail bol odoslaný'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodarilo sa odoslať overovací e-mail'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Znova odoslať správu na odomknutie účtu'>
+<!ENTITY fxaccount_unlock_code_sent 'E-mailová správa na odomknutie účtu bola odoslaná'>
+<!ENTITY fxaccount_unlock_code_not_sent 'E-mailovú správu na odomknutie účtu sa nepodarilo odoslať'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Prihlásenie'>
 <!ENTITY fxaccount_sign_in_button_label 'Prihlásiť sa'>
@@ -251,6 +254,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdnený, skúste to neskôr'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytol sa problém'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nie je možné pripojiť sa k sieti'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je uzamknutý. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Služba &syncBrand.shortName.label; nie je pripojená'>
 <!-- Note to translators: the format string below will be replaced
