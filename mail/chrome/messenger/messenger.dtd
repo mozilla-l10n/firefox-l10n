@@ -302,15 +302,15 @@
 <!ENTITY prevUnreadMsgCmd.label "Okunmamış ileti">
 <!ENTITY prevUnreadMsgCmd.accesskey "u">
 <!ENTITY prevUnreadMsgCmd.key "p">
-
-
+<!ENTITY goForwardCmd.label "İleri">
+<!ENTITY goForwardCmd.accesskey "e">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Geri">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sohbet">
 <!ENTITY goChatCmd.accesskey "b">
-
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı ileti">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY folderMenu.label "Dizin">
@@ -350,13 +350,13 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Farklı ilet">
 <!ENTITY forwardAsMenu.accesskey "F">
-
-
-
-
-
-
-
+<!ENTITY forwardAsInline.label "İleti içinde">
+<!ENTITY forwardAsInline.accesskey "d">
+<!ENTITY forwardAsAttachmentCmd.label "Ek olarak">
+<!ENTITY forwardAsAttachmentCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.label "Yeni ileti olarak düzenle">
+<!ENTITY editAsNewMsgCmd.accesskey "d">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "s">
 <!ENTITY moveMsgToMenu.label "Taşı">
@@ -370,8 +370,8 @@
 <!ENTITY moveToFolderAgain.label "Tekrar taşı">
 <!ENTITY moveToFolderAgain.accesskey "k">
 <!ENTITY moveToFolderAgainCmd.key "m">
-
-
+<!ENTITY killThreadMenu.label "Diziyi göz ardı et">
+<!ENTITY killThreadMenu.accesskey "D">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Alt diziyi göz ardı et">
 <!ENTITY killSubthreadMenu.accesskey "d">
@@ -409,8 +409,8 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Yıldız ekle">
 <!ENTITY markStarredCmd.accesskey "k">
-
-<!ENTITY markAsJunkCmd.label "Gereksiz ">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Gereksiz">
 <!ENTITY markAsJunkCmd.accesskey "G">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Gereksiz değil">
@@ -420,20 +420,20 @@
 <!ENTITY recalculateJunkScoreCmd.accesskey "G">
 <!ENTITY openMessageWindowCmd.label "İletiyi aç">
 <!ENTITY openMessageWindowCmd.accesskey "y">
-
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Dizi görünümünde aç">
 <!ENTITY openConversationCmd.accesskey "D">
-<!ENTITY openConversationCmd.key "D">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Ekler">
 <!ENTITY openAttachmentListCmd.accesskey "k">
-
-
-
-
-
-
+<!ENTITY openFeedMessage1.label "Besleme iletilerini açarken">
+<!ENTITY openFeedMessage1.accesskey "B">
+<!ENTITY openFeedWebPage.label "Web sayfası olarak aç">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Özet olarak aç">
+<!ENTITY openFeedSummary.accesskey "Ö">
 <!ENTITY openFeedWebPageInMP.label "İleti bölmesinde web sayfası ve özet arasında geçiş yap">
-<!ENTITY openFeedWebPageInMP.accesskey "d">
+<!ENTITY openFeedWebPageInMP.accesskey "b">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Pencere">
@@ -441,8 +441,8 @@
 
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "l">
-
-
+<!ENTITY messengerCmd.label "Posta ve haber grupları">
+<!ENTITY messengerCmd.accesskey "h">
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
@@ -666,24 +666,24 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
+<!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
+<!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
+<!ENTITY subjectColumn2.tooltip "Konuya göre sırala">
+<!ENTITY dateColumn2.tooltip "Tarihe göre sırala">
+<!ENTITY priorityColumn2.tooltip "Önceliğe göre sırala">
+<!ENTITY tagsColumn2.tooltip "Etiketlere göre sırala">
+<!ENTITY accountColumn2.tooltip "Hesaba göre sırala">
+<!ENTITY statusColumn2.tooltip "Duruma göre sırala">
+<!ENTITY sizeColumn2.tooltip "Boyuta göre sırala">
+<!ENTITY junkStatusColumn2.tooltip "Gereksiz durumuna göre sırala">
 <!ENTITY unreadColumn2.tooltip "Dizideki okunmamış iletilerin sayısı">
 <!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Okunma durumuna göre sırala">
+<!ENTITY receivedColumn2.tooltip "Alınma tarihine göre sırala">
+<!ENTITY starredColumn2.tooltip "Yıldıza göre sırala">
+<!ENTITY locationColumn2.tooltip "Konuma göre sırala">
+<!ENTITY idColumn2.tooltip "Alınmaya göre sırala">
 
 <!-- Thread Pane Context Menu -->
 
