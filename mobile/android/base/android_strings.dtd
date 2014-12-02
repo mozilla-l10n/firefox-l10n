@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
+<!ENTITY pref_donottrack_title "Spåra inte">
 
 
 <!ENTITY pref_char_encoding "Teckenkodning">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Tillåt automatisk uppspelning">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrollera om webbplatser kan spela upp automatiskt videor och annat medieinnehåll">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
@@ -471,7 +473,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
-
+<!ENTITY identity_no_info "Denna webbplats levererar inte identitetsinformation.">
 <!ENTITY identity_not_encrypted "Din anslutning till denna webbsida är inte krypterad.">
 <!-- Mixed content notifications in site identity popup -->
 
@@ -480,8 +482,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "De flesta webbplatser fungerar bra även om det här innehållet blockeras.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Spårnings skydd inaktiverad.">
+<!ENTITY loaded_tracking_content_message_bottom "Delar av den här sidan kan spåra din online-aktivitet.">
+<!ENTITY blocked_tracking_content_message_top2 "Spårnings skydd aktiverat.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Delar av sidan som spårar din online-aktivitet har blockerats.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Läs mer">
