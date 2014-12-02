@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "General">
 <!ENTITY  paneTabs.title          "Pestañas">
+<!ENTITY  paneSearch.title        "Buscar">
 <!ENTITY  paneContent.title       "Contenido">
 <!ENTITY  paneApplications.title  "Programas">
 <!ENTITY  panePrivacy.title       "Privacidad">

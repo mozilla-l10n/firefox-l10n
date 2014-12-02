@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNopref.label2       "No indicar a los sitios nada sobre mis preferencias de rastreo">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "Impedir que los sitios me rastreen">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
-<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de ubicación">
 
-<!ENTITY  locbar.pre.label              "Cuando se utilice, mostrar:">
-<!ENTITY  locbar.pre.accessKey          "m">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historial y marcadores">
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.nothing.label          "Nada">
+
+
+
+
+<!ENTITY  locbar.openpage.label         "Abrir pestañas">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -37,7 +31,7 @@
 <!ENTITY  acceptThirdParty.visited.label  "Visitado">
 
 <!ENTITY  keepUntil.label               "Mantener hasta que:">
-<!ENTITY  keepUntil.accesskey           "q">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "cierre &brandShortName;">

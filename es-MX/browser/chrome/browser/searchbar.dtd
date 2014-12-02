@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Administrar mis motores de búsqueda…">
 <!ENTITY searchEndCap.label             "Buscar">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Siguiente">
+<!ENTITY SearchHighlightClose "¡Gracias!">
