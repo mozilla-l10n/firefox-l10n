@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitado">
 
-
+<!ENTITY pref_donottrack_title "No rastrear">
+<!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Show menu">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Permitir reproducción automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden reproducir videos automáticamente y otros contenidos multimedia">
 
 <!ENTITY pref_use_master_password "Use master password">
 <!ENTITY pref_sync "Sync">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Más de una hora">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Los sitios Web que visitaste recientemente se mostrarán aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: usando una &formatS1;nueva pestaña de navegación privada&formatS2; no se salvará tu historial.">
 <!ENTITY home_reading_list_empty "Los artículos que guardes para verlos más tarde se mostrarán aquí.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -469,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertenece a">
-
-
+<!ENTITY identity_no_info "Este sitio web no proporciona información de identidad.">
+<!ENTITY identity_not_encrypted "La conexión a este sitio web no está cifrada.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
@@ -478,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Protección contra rastreo desactivada.">
+<!ENTITY loaded_tracking_content_message_bottom "Algunas partes de esta página pueden rastrear tu actividad en Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "La protección contra rastreo está activada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Las partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Learn More">
