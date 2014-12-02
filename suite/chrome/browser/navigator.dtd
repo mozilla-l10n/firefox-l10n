@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Navegação privativa">
 
 <!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "r">
@@ -21,8 +22,8 @@
 
 <!ENTITY navbarCmd.label "Barra de ferramentas">
 <!ENTITY navbarCmd.accesskey "f">
-
-
+<!ENTITY bookmarksToolbarCmd.label     "Barra dos favoritos">
+<!ENTITY bookmarksToolbarCmd.accesskey "v">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "F">
@@ -34,7 +35,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Menu (clique para exibir)">
-
+<!ENTITY bookmarksToolbar.tooltip         "Barra dos favoritos">
 <!ENTITY navigationToolbar.tooltip        "Barra de ferramentas (clique para exibir)">
 <!-- Toolbar items --> 
 
@@ -65,14 +66,15 @@
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
 <!ENTITY homeButton.label             "Página Inicial">
 <!ENTITY bookmarksToolbarItem.label   "Marcadores da barra de ferramentas">
-
+<!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label            "Concluído">
 
 <!ENTITY popupIcon.tooltiptext      "Um popup foi bloqueado - clique para desbloquear este site">
 
-
+<!ENTITY viewSecurityInfo.label      "Ver informações de segurança">
+<!ENTITY viewSecurityInfo.accesskey  "s">
 <!ENTITY viewCertificate.label       "Visualizar certificado">
 <!ENTITY viewCertificate.accesskey   "c">
 

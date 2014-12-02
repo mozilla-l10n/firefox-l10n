@@ -9,7 +9,7 @@
 
 
 <!ENTITY tabmailCloseButton.tooltip "Fechar aba atual">
-
+<!ENTITY tabmailAllTabs.tooltip "Listar todas as abas">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
