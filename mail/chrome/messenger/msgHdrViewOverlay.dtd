@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Afzender beantwoorden altijd tonen">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "b">
 
-<!ENTITY otherActionsButton1.label "Andere acties">
+<!ENTITY otherActionsButton2.label "Meer">
+<!ENTITY otherActionsButton.tooltip "Meer acties">
 <!ENTITY otherActionsOpenConversation1.label "Openen in conversatie">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Openen in nieuw venster">

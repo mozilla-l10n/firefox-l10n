@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Ruimtequotum bereikt">
-<!ENTITY fileExceedsQuota.accept "Upgraden">
-<!ENTITY fileExceedsQuota.cancel "Annuleren">
 <!ENTITY fileExceedsQuota.description "U hebt het ruimtequotum van 2GB van uw account bereikt.">
 <!ENTITY fileExceedsQuota.description1 "Uw huidige opslaggebruik is #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Upgrade nu naar een Pro Plus-account en krijg meer opslagruimte.">
-<!ENTITY fileExceedsQuota.description3 "U kunt ook bestanden in uw account verwijderen om meer ruimte te maken.">
