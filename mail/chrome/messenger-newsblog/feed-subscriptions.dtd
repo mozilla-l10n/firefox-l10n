@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Inscrições RSS">
-<!ENTITY subscriptionDesc.label      "Nota: excluir ou alterar a pasta de um RSS não afetará os itens já recebidos.">
+
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL do RSS:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Forneça uma URL de RSS válida a adicionar">
+<!ENTITY locationValidate.label      "Validar">
+<!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">
 
 <!ENTITY feedFolder.label            "Armazenar artigos em:">
 <!ENTITY feedFolder.accesskey        "r">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Tags com prefixo:">
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Digite um prefixo de tag">
-
-<!ENTITY locationValidate.label      "Validar">
-<!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">
 
 <!ENTITY button.addFeed.label        "Novo">
 <!ENTITY button.addFeed.accesskey    "N">
