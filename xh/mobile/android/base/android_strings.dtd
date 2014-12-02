@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
 
-
+<!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
+<!ENTITY pref_donottrack_summary "&brandShortName; izakuxelela isayithi ukub akufundi ukulandwa">
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
@@ -208,6 +209,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Impungutye ekhawulezayo eorenji itsiba ngaphezu kobukulindele ngesantya esingaphezulu, ngokuthamba okungaphezulu nangokhuseleko olungaphezulu. Njengabangenzi ngeniso, sikhululekile ukungenisa okutsha egameni lakho ngaphandle koxinzelelo lokuhlangabeza. Oko kuthetha amava angcono kuwe nekamva eliqaqambileyo kwiwebhu.">
 
+<!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
 
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
