@@ -145,8 +145,8 @@ tímabundin og þú getur reynt aftur síðar.</li>
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að síðan hlóðst inn á þennan hátt vegna þess að á síðunni er efni með öryggisreglu sem leyfir það ekki.</p>">
+<!ENTITY cspBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að síðan hlóðst inn á þennan hátt vegna þess að á síðunni er efni með öryggisreglu sem leyfir það ekki.</p>">
 
 <!ENTITY corruptedContentError.title "Brengluð innihalds villa">
 <!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða því villa greindist í gagna sendingu.</p><ul><li>Vinsamlega hafið samband við vefsvæðis eigendur og látið þá vita af vandamálinu.</li></ul>">
