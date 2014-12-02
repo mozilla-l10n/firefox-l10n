@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  IThelemetri <span>ayivunyelwanga</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Iingxelo ze-SQL ezicothayo">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Ukubhrawuza kuyajinga">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Ithredi iyajinga">
 
 <!ENTITY aboutTelemetry.histogramsSection "  IiHistogrem">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Imilinganiselo elula">
 

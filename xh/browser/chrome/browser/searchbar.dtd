@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Lawula iinjini zokukhangela…">
 <!ENTITY searchEndCap.label             "Khangela">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Okulandelayo">
+<!ENTITY SearchHighlightClose "Siyabulela!">

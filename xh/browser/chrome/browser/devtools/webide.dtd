@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Jonga">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Sondeza Kufuphi">
+
+<!ENTITY viewMenu_zoomout_label "Bhekelisela Kudana">
 
 
 
@@ -49,6 +57,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Iithebhu">
@@ -99,11 +111,18 @@
 
 
 
-
-
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Igama">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

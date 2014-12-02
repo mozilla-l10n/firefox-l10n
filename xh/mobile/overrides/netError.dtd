@@ -145,8 +145,8 @@ nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li>
  </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Ithintelwe nguMgaqonkqubo woKhuseleko lomXholo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
+<!ENTITY cspBlocked.title "Ithintelwe nguMgaqonkqubo woKhuseleko lomXholo">
+<!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
 <!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
