@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Funda ngakumbi">
 <!ENTITY doNotTrackInfo.label           "Funda ngaphezulu">
 
+<!ENTITY  history.label                 "Imbali">
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Cebisa xa usebenzisa ibha yendawo:">
+<!ENTITY  locbar.history.label          "Imbali">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Vula iithebhu">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwisayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Ungaze">
 <!ENTITY  acceptThirdParty.visited.label  "Isuka kwetyelelweyo">
 
-
+<!ENTITY  keepUntil.label               "Gcina zide:">
+<!ENTITY  keepUntil.accesskey           "z">
 
 <!ENTITY  expire.label                  "ziphelelwe">
 <!ENTITY  close.label                   "Ndivala &brandShortName;">
