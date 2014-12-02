@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Նոր խումբ">
 <!ENTITY  moveToNewWindow.label              "Տեղափոխել Նոր Պատուհան">
 <!ENTITY  moveToNewWindow.accesskey          "Պ">
-<!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները">
+<!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները...">
 <!ENTITY  bookmarkAllTabs.accesskey          "ն">
-<!ENTITY  undoCloseTab.label                 "Հետարկել փակված ներդիրը">
-<!ENTITY  undoCloseTab.accesskey             "Հ">
+<!ENTITY  undoCloseTab.label                 "Ետարկել փակված ներդիրը">
+<!ENTITY  undoCloseTab.accesskey             "Ե">
 <!ENTITY  closeTab.label                     "Փակել ներդիրը">
 <!ENTITY  closeTab.accesskey                 "Փ">
 
@@ -86,8 +86,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված էջը">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Ետարկել փակված էջը">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Ե">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "ո">
