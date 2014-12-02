@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Abrir aplicativo…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instalar e executar">
-<!ENTITY projectMenu_play_accesskey "I">
+
 <!ENTITY projectMenu_stop_label "Parar aplicativo">
 <!ENTITY projectMenu_stop_accesskey "P">
 <!ENTITY projectMenu_debug_label "Depurar aplicativo">
@@ -24,6 +24,8 @@
 
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+
+
 
 <!ENTITY runtimeMenu_label "Ambiente de execução">
 <!ENTITY runtimeMenu_accesskey "m">
@@ -38,12 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitorar">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "Exibir">
 <!ENTITY viewMenu_accesskey "x">
 <!ENTITY viewMenu_toggleEditor_label "Alternar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "A">
-<!ENTITY viewMenu_showAddons_label "Gerenciar simuladores">
-<!ENTITY viewMenu_showAddons_accesskey "G">
+<!ENTITY viewMenu_zoomin_label "Aumentar zoom">
+
+<!ENTITY viewMenu_zoomout_label "Diminuir zoom">
+
+
+
 
 <!ENTITY projectButton_label "Abrir aplicativo">
 <!ENTITY runtimeButton_label "Selecionar ambiente de execução">
@@ -59,14 +67,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "b">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "Meus projetos">
 <!ENTITY projectPanel_runtimeApps "Aplicativos do ambiente de execução">
 <!ENTITY projectPanel_tabs "Abas">
-<!ENTITY runtimePanel_USBDevices "Dispositivos USB">
-<!ENTITY runtimePanel_WiFiDevices "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simuladores">
-<!ENTITY runtimePanel_custom "Personalizar">
+<!ENTITY runtimePanel_usb "Dispositivos USB">
+<!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simuladores">
+<!ENTITY runtimePanel_other "Outros">
 <!ENTITY runtimePanel_installsimulator "Instalar Simulator">
 <!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Não consegue ver seu dispositivo?">
@@ -100,9 +112,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Geral">
 <!ENTITY prefs_restore "Restaurar padrões">
-<!ENTITY prefs_simulators "Gerenciar simuladores">
-<!ENTITY prefs_options_enablelocalruntime "Ativar ambiente de execução local">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permitir que o WebIDE conecte-se ao seu próprio ambiente de execução (executando instância do navegador)">
+
 <!ENTITY prefs_options_rememberlastproject "Memorizar último projeto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar projeto anterior ao iniciar o WebIDE">
 <!ENTITY prefs_options_templatesurl "URL dos modelos:">
@@ -133,6 +143,15 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Privilégios DevTools restritos: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilégios maiores">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Obrigatório acesso root.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitorar">
