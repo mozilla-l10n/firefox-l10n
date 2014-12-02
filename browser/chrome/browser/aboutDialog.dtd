@@ -43,6 +43,7 @@
 <!ENTITY helpus.donateLink          "Nika  isipho">
 <!ENTITY helpus.middle              " okanye ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "Zibandakanye!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

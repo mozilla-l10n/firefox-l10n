@@ -159,12 +159,12 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.title "Xela esi siphoso">
 <!ENTITY errorReporting.longDesc "Xela idilesi kunye neenkcukacha zesatifikethi kwi <span id='hostname'> </span> loo nto iyakusinceda sikwazi ukubona iisayithi ezinobungozi. Enkosi ngokunceda sibenewebhu ekhuselekileyo!">
-
+<!ENTITY errorReporting.automatic "Xela ngokuzenzekelayo iziphoso zexesha elizayo">
 <!ENTITY errorReporting.learnMore "Funda okungakumbi…">
-
-
-
-
+<!ENTITY errorReporting.sending "Ithumela ingxelo">
+<!ENTITY errorReporting.sent "Ingxelo ithunyelwe">
+<!ENTITY errorReporting.report "Ingxelo">
+<!ENTITY errorReporting.tryAgain "Zama kwakhona">
 
 <!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
