@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Impungutye ekhawulezayo eorenji itsiba ngaphezu kobukulindele ngesantya esingaphezulu, ngokuthamba okungaphezulu nangokhuseleko olungaphezulu. Njengabangenzi ngeniso, sikhululekile ukungenisa okutsha egameni lakho ngaphandle koxinzelelo lokuhlangabeza. Oko kuthetha amava angcono kuwe nekamva eliqaqambileyo kwiwebhu.">
 
 <!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
-
+<!ENTITY pref_media_autoplay_enabled_summary "Lawula xa iiwebhusayithi zikakho ukuzidlalela ngokuzenzelayo iivido kunye neminye imiba yemidiya">
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
 <!ENTITY pref_sync "Ungqamaniso">
@@ -367,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; ubuncinane">
+<!ENTITY reading_list_time_over_an_hour "Ngaphezulu kweyure">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -404,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: usebenzisa i &formatS1; Ithebu entsha yabucala &formatS2; ayinakho ukugcina imbali yakho.">
 <!ENTITY home_reading_list_empty "Amanqaku owagcinele ukuwasebenzisa kamva abonakala apha.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -471,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ehanjiswa nge">
-
-
+<!ENTITY identity_no_info "Le webhusayithi ayinikezeli ngenkcazelo yesazisi.">
+<!ENTITY identity_not_encrypted "Unxibelelwano lwakho kule webhusayithi aluzinyeliswanga.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Eli khasi libonisa umbandela ongakhuselekanga.">
@@ -480,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Uphando olukhuselayo lunqunyanyisiwe.">
+<!ENTITY loaded_tracking_content_message_bottom "Indawo zeli phepha zingalanda umsebenzi wakho we intenethi.">
+<!ENTITY blocked_tracking_content_message_top2 "Uphando olukhuselayo luvunyelwe.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Indawo zeli phepha ezilanda umsebenzi wakho we intanethi zithintelwe.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Funda ngaphezulu">
