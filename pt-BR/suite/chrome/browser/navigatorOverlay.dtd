@@ -15,8 +15,11 @@
 
 
 
-
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
+
+<!ENTITY findOnCmd.label "Localizar nesta página…">
 <!-- View Menu -->
 
 
@@ -38,17 +41,17 @@
 
 
 
-
-
+<!ENTITY pageInfoCmd.label "Informações da página">
+<!ENTITY pageInfoCmd.accesskey "I">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
-
-
-
-
+<!ENTITY goHomeCmd.label "Página inicial">
+<!ENTITY goHomeCmd.accesskey "i">
+<!ENTITY historyCmd.label "Histórico">
+<!ENTITY historyCmd.accesskey "s">
 
 
 
@@ -82,7 +85,7 @@
 
 
 
-
+<!ENTITY cookieAllowCookiesMsg.label "Cookies deste website serão sempre permitidos.">
 
 
 
