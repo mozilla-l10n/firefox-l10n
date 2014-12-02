@@ -8,7 +8,7 @@
 
 <!ENTITY search_bar_hint "Leita á &formatS;">
 
-<!ENTITY search_empty_title "&brandShortName; leit">
+<!ENTITY search_empty_title2 "Hefja leit">
 <!ENTITY search_empty_message "Hröð leit að því sem þig vantar">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

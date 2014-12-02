@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName; upp.">
+<!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
 <!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
 
-<!ENTITY  onboard_start_message "Vertu velkomin í &brandShortName;">
+<!ENTITY  onboard_start_message "Vertu velkomin í &brandShortName;!">
 <!ENTITY  onboard_start_subtext "Fyrir þig, þína friðhelgi og netfrelsi">
-<!ENTITY  onboard_start_button_account "Skrá inní &brandShortName;">
+<!ENTITY  onboard_start_button_account "Innskráning á &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
-<!ENTITY pref_donottrack_menu "Eftirlit">
-<!ENTITY pref_donottrack_disallow_tracking "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
-<!ENTITY pref_donottrack_allow_tracking "Segja vefsvæðum að ég vilji láta fylgjast með mér">
-<!ENTITY pref_donottrack_no_pref "Ekki segja vefsvæðum frá því hvort ég hef valið að láta fylgjast með mér">
+<!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
+<!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
 
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
@@ -210,6 +208,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur hoppar yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
+
+<!ENTITY pref_media_autoplay_enabled "Leyfa sjálfvirka afspilun">
+<!ENTITY pref_media_autoplay_enabled_summary "Stjórna hvort vefsvæði geta sjálfvirkt spilað myndbönd og aðra miðla">
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Engar stillingar til að hreinsa.">
 
 <!ENTITY reading_list_added "Síðunni bætt við leslistann þinn">
-<!ENTITY reading_list_failed "Ekki tókst að bæta síðu við leslistann">
 <!ENTITY reading_list_duplicate "Síðan er nú þegar á leslistanum þínum">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; mín">
+<!ENTITY reading_list_time_over_an_hour "Meira en klst.">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +391,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Bæta við svæði">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; heim">
 <!ENTITY home_history_title "Ferill">
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
 <!ENTITY home_open_all "Opna allt">
 <!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Hey, ferill þinn er ekki vistaður þegar þú notar &formatS1;ný einkaflipi&formatS2;.">
 <!ENTITY home_reading_list_empty "Greinar sem þú vistar til að skoða síðar birtast hér.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sem er starfrækt af">
+<!ENTITY identity_no_info "Þetta vefsvæði gefur ekki upp auðkennis upplýsingar.">
+<!ENTITY identity_not_encrypted "Tenging þín við þetta vefsvæði er ekki dulrituð.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Þessi síða birtir efni sem er ekki öruggt.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; hefur lokað á efni sem er ekki öruggt.">
 <!ENTITY blocked_mixed_content_message_bottom "Flest svæði munu samt virka eðlilega þrátt fyrir að lokað sé á þetta efni.">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "Vernd gegn eftirliti óvirk.">
+<!ENTITY loaded_tracking_content_message_bottom "Hluti þessarar síðu gæti verið að fylgjast með vefverknaði þínum.">
+<!ENTITY blocked_tracking_content_message_top2 "Vernd gegn eftirliti virk.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Lokað hefur verið á þá hluta vefsíðunnar sem er að fylgjast með vefverknaði þínum.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Fræðast meira">
 <!ENTITY enable_protection "Virkja vörn">
 <!ENTITY disable_protection "Slökkva á vörn">
@@ -494,8 +516,6 @@ frá Android">
 <!ENTITY webapp_generic_name "Smáforrit">
 
 <!ENTITY searchable_description "Bókarmerki og ferill">
-
-<!ENTITY devtools_remote_debugging_forward "Ekki gleyma að stilla áframsendingu á porti!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Uppfærsla tiltæk fyrir &brandShortName;">
@@ -535,7 +555,7 @@ frá Android">
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Valmynd">
@@ -548,3 +568,8 @@ frá Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Síðasta sync: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

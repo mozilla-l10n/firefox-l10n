@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Staðfestingar hlekkur hefur verið sendur til &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Endursenda tölvupóst">
+<!ENTITY fxaccount_confirm_account_change_email "Gleyma þessu tölvupóstfangi?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Staðfestingar tölvupóstur sendur">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Gat ekki sent staðfestinga tölvupóst">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
 <!ENTITY fxaccount_status_auth_server "Netþjónn reiknings">
+<!ENTITY fxaccount_status_sync_now "Sync-a núna">
+<!ENTITY fxaccount_status_syncing2 "Er að sync-a...">
 <!ENTITY fxaccount_status_device_name "Heiti á tæki">
 <!ENTITY fxaccount_status_sync_server "Sync netþjónn">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

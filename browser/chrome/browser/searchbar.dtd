@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Stilla leitarvélar…">
 <!ENTITY searchEndCap.label             "Leita">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Næsta">
+<!ENTITY SearchHighlightClose "Takk!">
