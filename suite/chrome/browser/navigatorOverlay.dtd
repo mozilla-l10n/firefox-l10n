@@ -74,27 +74,30 @@
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY addCurPageCmd.label "Adicionar aos favoritos">
 <!ENTITY addCurPageCmd.accesskey "v">
-
-
-
-
-
-
-
-
+<!ENTITY addCurPageAsCmd.label "Adicionar arquivo aos favoritos">
+<!ENTITY addCurPageAsCmd.accesskey "o">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Adicionar grupo aos favoritos...">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Gerenciar favoritos">
+<!ENTITY manBookmarksCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.commandkey "b">
 <!-- Tools Menu -->
 
+<!ENTITY searchInternetCmd.label "Pesquisar na Web">
+<!ENTITY searchInternetCmd.accesskey "P">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Traduzir esta página">
+<!ENTITY translateMenu.accesskey "T">
 
-
-
-
-
-
-
-
-<!ENTITY cookieAllowCookiesMsg.label "Cookies deste website serão sempre permitidos.">
-
-
+<!ENTITY cookieMessageTitle.label "Permissões dos cookies alteradas">
+<!ENTITY cookieDisplayCookiesCmd.label "Gerenciar cookies armazenados">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "m">
+<!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste site">
+<!ENTITY cookieAllowCookiesCmd.accesskey "d">
+<!ENTITY cookieAllowCookiesMsg.label "Todos cookies deste site serão permitidos.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies por sessão para este site">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 
 
 
