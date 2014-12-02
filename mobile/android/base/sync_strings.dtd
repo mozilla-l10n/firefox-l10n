@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Uthunyelelwe ikhonkco lokuqinisekisa kwi-&formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Phinda uthumele i-imeyili">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "I-imeyili yokuqinisekisa ithunyelwe">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ayikwazanga ukukuthumelela i-imeyili yokuqinisekisa">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
 <!ENTITY fxaccount_status_auth_server "Iseva yeakhawunti">
+
+
 <!ENTITY fxaccount_status_device_name "Igama lesixhobo">
 <!ENTITY fxaccount_status_sync_server "Iseva yongqamaniso">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
