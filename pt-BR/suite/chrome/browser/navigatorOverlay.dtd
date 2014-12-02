@@ -98,25 +98,26 @@
 <!ENTITY cookieAllowCookiesMsg.label "Todos cookies deste site serão permitidos.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies por sessão para este site">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Este website será capaz de definir cookies apenas para a sessão atual.">
+
+
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies deste website serão aceitos ou rejeitados com base nas configurações padrão.">
+<!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste site">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies deste website serão sempre rejeitados.">
+
+<!ENTITY cookieImageMessageTitle.label "Permissões de imagens alterada">
 
 
 
 
+<!ENTITY cookieAllowImagesMsg.label "As imagens deste site serão sempre baixadas.">
 
 
+<!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão baixadas com base nas configurações padrão.">
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão baixadas.">
 
 
 <!ENTITY cookieManagePopups.label "Gerenciar popups">
