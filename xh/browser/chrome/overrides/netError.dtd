@@ -157,7 +157,8 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
+<!ENTITY errorReporting.title "Xela esi siphoso">
+<!ENTITY errorReporting.longDesc "Xela idilesi kunye neenkcukacha zesatifikethi kwi <span id='hostname'> </span> loo nto iyakusinceda sikwazi ukubona iisayithi ezinobungozi. Enkosi ngokunceda sibenewebhu ekhuselekileyo!">
 
 <!ENTITY errorReporting.learnMore "Funda okungakumbi…">
 
