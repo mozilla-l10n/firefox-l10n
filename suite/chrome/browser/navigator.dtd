@@ -73,7 +73,7 @@
 <!ENTITY popupIcon.tooltiptext      "Um popup foi bloqueado - clique para desbloquear este site">
 
 
-
-
+<!ENTITY viewCertificate.label       "Visualizar certificado">
+<!ENTITY viewCertificate.accesskey   "c">
 
 
