@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "একটি যাঁচাইকারী লিঙ্ক &formatS; এ পাঠানো হল">
 <!ENTITY fxaccount_confirm_account_resend_email "পুনরায় ইমেল পাঠান">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "যাঁচাইকারী ইমেল পাঠানো হয়েছে">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "যাঁচাইকারী ইমেল পাঠানো যাচ্ছেনা">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
 <!ENTITY fxaccount_status_auth_server "অ্যাকাউন্ট সার্ভার">
+
+
 <!ENTITY fxaccount_status_device_name "ডিভাইসের নাম">
 <!ENTITY fxaccount_status_sync_server "সিঙ্ক সার্ভার">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

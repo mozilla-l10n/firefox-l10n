@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয় অাছে , 3rd পার্টি ছাড়া">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
-<!ENTITY pref_donottrack_menu "অনুসরণ করা হচ্ছে">
-<!ENTITY pref_donottrack_disallow_tracking "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়">
-<!ENTITY pref_donottrack_allow_tracking "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয়">
-<!ENTITY pref_donottrack_no_pref "ওয়েব-সাইটকে আমার পছন্দসমূহ সম্বন্ধে জানানো হবে না">
+<!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
+<!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাও">
@@ -210,6 +208,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "এই ক্ষিপ্র কমলা রঙের শিয়ালটি আপনার কল্পনার থেকেও দ্রুত গতিতে এগিয়ে চলেছে, আরও বেশি স্থিতিস্থাপকতা এবং নিরাপত্তার সঙ্গে। অমূনাফালাভী প্রতিষ্ঠান হিসেবে আমরা মুক্তভাবে আবিষ্কার করে চলেছি কোনরকমভাবে আপোষের কাছে  মাথা নিচু না করেই। এর অর্থ আপনার আরও উন্নত অভিজ্ঞতা এবং ওয়েবের উজ্জ্বল ভবিষ্যৎ।">
+
+<!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
+<!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_sync "সিঙ্ক">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "মুছে ফেলার জন্য কোন সেটিংস নেই।">
 
 <!ENTITY reading_list_added "পঠন তালিকায় পৃষ্ঠাটি যুক্ত করা হল">
-<!ENTITY reading_list_failed "আপনার পঠন তালিকায় পৃষ্ঠাটি যুক্ত করতে ব্যর্থ">
 <!ENTITY reading_list_duplicate "পৃষ্ঠাটি আগে থেকেই আপনার পাঠ তালিকার অন্তর্ভুক্ত করা আছে">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; মিন">
+<!ENTITY reading_list_time_over_an_hour "এক ঘন্টা পরে">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +391,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; হোম">
 <!ENTITY home_history_title "পূর্ববর্তী তথ্য">
 <!ENTITY home_clear_history_button "ব্রাউসারের ইতিহাস মুছে ফেলুন">
 <!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
 <!ENTITY home_open_all "সবগুলি খুলুন">
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিকতম পরিদর্শিত ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1;নতুন প্রাইভেট ট্যাব&formatS2; ব্যবহার করলে আপনার ইতিহাস সংরক্ষিত থাকবে না।">
 <!ENTITY home_reading_list_empty "পরবর্তীকালে দর্শনীয় প্রবন্ধসমূহ এখানে দেখাবে">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "এটি সঞ্চালনকারী">
+<!ENTITY identity_no_info "এই ওয়েব-সাইট দ্বারা পরিচিতি সংক্রান্ত তথ্য সরবরাহ করা হয় না।">
+<!ENTITY identity_not_encrypted "এই ওয়েব-সাইটের সাথে এনক্রিপশন সহ সংযোগ স্থাপন করা হয়নি।">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "এই পৃষ্ঠা অনিরাপদ বিষয়বস্তু প্রদর্শন করছে।">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; বিপজ্জনক সামগ্রী প্রতিরোধ করেছে।">
 <!ENTITY blocked_mixed_content_message_bottom "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "আরও জানুন">
 <!ENTITY enable_protection "সুরক্ষা সক্রিয় করুন">
 <!ENTITY disable_protection "সুরক্ষা নিষ্ক্রিয় করুন">
@@ -494,8 +514,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "অ্যাপ">
 
 <!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
-
-<!ENTITY devtools_remote_debugging_forward "পোর্ট ফরওয়ার্ডিং স্থাপন করতে ভুলবেন না!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "আপডেট উপলব্ধ &brandShortName; জন্য">
@@ -535,7 +553,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "মেনু">
@@ -548,3 +566,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "সর্বশেষ বার সিঙ্ক হয়েছে: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

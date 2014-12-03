@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "অনুসরণকরণ">
 
-<!ENTITY dntTrackingNopref.label2       "ওয়েব-সাইটকে আমার পছন্দসমূহ সম্বন্ধে জানানো হবে না।">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়।">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয়">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "আমাকে নির্ধারণ করা সাইটগুলি থেকে আটকান">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "আরও জানুন">
 <!ENTITY doNotTrackInfo.label           "আরও জানুন">
 
-<!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
 
 <!ENTITY  locationBar.label             "অবস্থানসূচক বার">
 
-<!ENTITY  locbar.pre.label              "অবস্থানসূচক বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "পূর্ববর্তী তথ্য ও বুকমার্ক">
-<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
-<!ENTITY  locbar.bookmarks.label        "বুকমার্ক">
-<!ENTITY  locbar.nothing.label          "কোনো তথ্য প্রস্তাবিত হবে না">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "কখনই নয়">
 <!ENTITY  acceptThirdParty.visited.label  "পরিদর্শিত থেকে">
 
-<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:">
-<!ENTITY  keepUntil.accesskey           "K">
+
 
 <!ENTITY  expire.label                  "মেয়াদ উত্তীর্ণ না হওয়া অবধি">
 <!ENTITY  close.label                   "&brandShortName; বন্ধ করার সময় অবধি">
