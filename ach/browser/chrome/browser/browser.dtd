@@ -715,8 +715,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "Kabedo me cako tic">
 <!ENTITY social.directory.text "Itwero cako tic me nywak ki i kabedo ne.">
 <!ENTITY social.directory.button "Cwala kunu">
-
-
+<!ENTITY social.directory.introText "Dii ikom tic mo me medo ne i &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Nen mapol">
 
 <!ENTITY customizeMode.tabTitle "Yik &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Gintic ki lapok kin jami me ameda">
@@ -725,14 +725,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Dwok i ma pire kene">
 <!ENTITY customizeMode.toolbars "Nyut / Kan gintic">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
-
-
-
+<!ENTITY customizeMode.lwthemes "Theme">
+<!ENTITY customizeMode.lwthemes.myThemes "Theme mamega">
+<!ENTITY customizeMode.lwthemes.recommended "Kicwako">
 <!ENTITY customizeMode.lwthemes.menuManage "Lo">
-
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Gam them mapol">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label2 "Tii ki Theme pa luyub">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Kem boko lok">
@@ -750,24 +750,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Pol kakube pud bitic maber kadi ki geng gin manonge iye.">
 
-
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "Gin manonge iye mape ber ">
+<!ENTITY mixedContentBlocked2.moreinfo "Kigengo woko gin mogo mape ki mungo i kakube man.">
+<!ENTITY mixedContentBlocked2.learnMore "Nong ngec mapol">
+<!ENTITY mixedContentBlocked2.options "Gin ayera">
+<!ENTITY mixedContentBlocked2.unblock.label "Juk gwoke pi kombedi">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "J">
+<!ENTITY mixedContentBlocked2.block.label "Cak gwoke">
+<!ENTITY mixedContentBlocked2.block.accesskey "C">
+<!ENTITY mixedContentBlocked2.disabled.message "Kijuko gwoke woko">
 
 <!ENTITY trackingContentBlocked.message "Lubo">
-
-
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "Kigengo woko but pot buk ma lubo kor tici me wi yamo.">
+<!ENTITY trackingContentBlocked.learnMore "Nong ngec mapol">
+<!ENTITY trackingContentBlocked.options "Gin ayera">
+<!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi pot buk man">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "J">
+<!ENTITY trackingContentBlocked.block.label "Cak gwokke">
+<!ENTITY trackingContentBlocked.block.accesskey "C">
+<!ENTITY trackingContentBlocked.disabled.message "Kijuko woko gwokke me lubo kor">
 
 <!ENTITY pointerLock.notification.message "Dii ESC cawa mo keken me nyuto doki.">
 
@@ -800,20 +803,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Wek wi wil ikom agiki me:">
+<!ENTITY panicButton.view.5min                    "Dakika abic">
+<!ENTITY panicButton.view.2hr                     "Cawa aryo">
+<!ENTITY panicButton.view.day                     "Cawa 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Mede bi:">
+<!ENTITY panicButton.view.deleteCookies           "Jwayo <html:strong>Coc ma kigwoko</html:strong> cokcoki">
+<!ENTITY panicButton.view.deleteHistory           "Jwayo <html:strong>Gin mukato</html:strong> cokcoki">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Loro <html:strong>Dirica matino</html:strong> ki <html:strong>Dirica</html:strong> weng">
+<!ENTITY panicButton.view.openNewWindow           "Yabo dirica manyen maleng">
 
 <!ENTITY panicButton.view.undoWarning             "Tic man pe kitwero gonyo ne.">
+<!ENTITY panicButton.view.forgetButton            "Wek wi wil">
 
-
-
+<!ENTITY panicButton.thankyou.msg1                "Gin mukato cokcok mamegi kijwayo woko.">
+<!ENTITY panicButton.thankyou.msg2                "Yeny ma ber">
 <!ENTITY panicButton.thankyou.buttonlabel         "Pwoc">
 
