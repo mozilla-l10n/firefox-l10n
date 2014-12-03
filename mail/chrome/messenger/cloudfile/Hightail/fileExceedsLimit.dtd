@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile3 "Het verzenden van bestanden groter dan 50 MB wordt niet ondersteund door niet-Premium-accounts.">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Het verzenden van bestanden groter dan 50 MB wordt niet ondersteund voor niet-Premium-accounts.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

@@ -21,7 +21,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiteit">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die u identificeert bij anderen als ze berichten van u ontvangen.">
+<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit zijn de gegevens waarmee anderen u herkennen als uw berichten worden ontvangen.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het “Van”-veld van uw uitgaande berichten">
@@ -115,15 +115,15 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gefeliciteerd!">
-<!ENTITY completionText.label "Controleer of de informatie hieronder juist is.">
+<!ENTITY completionText.label "Controleer of de gegevens hieronder juist zijn.">
 <!ENTITY serverTypePrefix.label "Type van inkomende server:">
 <!ENTITY serverNamePrefix.label "Naam van inkomende server:">
 <!ENTITY smtpServerNamePrefix.label "Naam van uitgaande server (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Naam van nieuwsserver (NNTP):">
 <!ENTITY downloadOnLogin.label "Berichten nu downloaden">
 <!ENTITY downloadOnLogin.accesskey "B">
-<!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in zijn eigen map. Dat zal van deze account een top-levelaccount maken. Anders zal hij deel uitmaken van het globale Postvak IN onder Lokale mappen.">
+<!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in een eigen map, waardoor deze account als een top-levelaccount zichtbaar wordt. Anders zal deze deel uitmaken van het globale Postvak IN onder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postvak IN gebruiken (e-mail opslaan onder Lokale mappen)">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klik op Voltooien om de instellingen te bewaren en de Accountwizard af te sluiten.">
-<!ENTITY clickFinish.labelMac "Klik op Klaar om de instellingen te bewaren en de Accountwizard af te sluiten.">
+<!ENTITY clickFinish.labelMac "Klik op Gereed om de instellingen te bewaren en de Accountwizard af te sluiten.">

@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
 <!ENTITY identityTitle.label "Standaardidentiteit">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die anderen zien als ze uw bericht lezen.">
+<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit zijn de gegevens die anderen zien bij het lezen van uw berichten.">
 <!ENTITY name.label "Uw naam:">
 <!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-mailadres:">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Sleutelwoorden voor bijlageherinnering">
-<!ENTITY attachKeywordText.label          "&brandShortName; zal u waarschuwen voor ontbrekende bijlagen als u een bericht wilt versturen dat één van de volgende sleutelwoorden bevat.">
+<!ENTITY attachKeywordText.label          "&brandShortName; zal u waarschuwen voor ontbrekende bijlagen als u een bericht wilt verzenden dat een van de volgende sleutelwoorden bevat.">
 <!ENTITY addKeywordButton.label           "Toevoegen">
 <!ENTITY addKeywordButton.accesskey       "T">
 <!ENTITY editKeywordButton.label          "Bewerken">

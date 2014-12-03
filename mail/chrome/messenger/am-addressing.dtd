@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Ondertekening invoegen bij doorsturen">
 <!ENTITY includeSigOnForward.accesskey        "s">
 
-<!ENTITY globalComposingPrefs.label           "Algemene opstelinstellingen…">
+<!ENTITY globalComposingPrefs.label           "Algemene opstelvoorkeuren…">
 <!ENTITY globalComposingPrefs.accesskey       "e">
 
-<!ENTITY globalAddressingPrefs.label          "Algemene adresseringsinstellingen…">
+<!ENTITY globalAddressingPrefs.label          "Algemene adresseringsvoorkeuren…">
 <!ENTITY globalAddressingPrefs.accesskey      "r">
