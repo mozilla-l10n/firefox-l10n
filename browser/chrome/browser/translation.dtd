@@ -12,7 +12,9 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "این صفحه نوشته شده به زبان ">
+<!ENTITY translation.translateThisPage.label    "ترجمه این صفحه؟">
+<!ENTITY translation.translate.button           "ترجمه">
 <!ENTITY translation.notNow.button              "اکنون نه">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
@@ -35,7 +37,7 @@
 
 
 
-
+<!ENTITY translation.tryAgain.button            "تلاش دوباره">
 
 
 <!ENTITY translation.options.menu               "گزینه‌ها">
@@ -44,12 +46,15 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "هرگز این وبسایت را ترجمه نکن">
+<!ENTITY translation.options.neverForSite.accesskey "گ">
+<!ENTITY translation.options.preferences.label  "ترجیحات ترجمه">
+<!ENTITY translation.options.preferences.accesskey "ت">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "ترجمه با">
 <!ENTITY translation.options.attribution.afterLogo "">
