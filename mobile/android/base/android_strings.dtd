@@ -181,7 +181,7 @@
 <!ENTITY pref_clear_private_data2 "இப்போது துடை">
 <!ENTITY pref_clear_private_data_category "தனிபயன் தரவை நீக்கவும்">
 <!ENTITY pref_clear_on_exit_title2 "வெளியேறும்போது துடை">
-<!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \&quot;வெளியேறு\&quot; என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; தானாகவே துடைத்துவிடும்">
+<!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \u0022Quit\u0022 என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; இது தானாகவே துடைத்துவிடும்">
 <!ENTITY pref_clear_on_exit_dialog_title "துடைக்க வேண்டிய தரவை தேர்">
 <!ENTITY pref_plugins "செருகுநிரல்கள்">
 <!ENTITY pref_plugins_enabled "செயல்படுத்தப்பட்டது">
@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "செம்மஞ்சள் நிற நரி உங்களுடைய எதிர்பார்ப்புகளுக்கும் மேல் அதிக வேகத்துடன், அதிக நெகிழ்வு தன்மையும் மேலும் பாதுகாப்புடனும் மேலோங்கி இருக்கிறது. ஒரு இலாப நோக்கற்ற, எந்த சமரசமும் அழுத்தமும் இல்லாமல் உங்கள் சார்பாக கட்டற்று புத்தாக்கத்தை உருவாக்க இருக்கிறோம். அப்படி என்றால் உங்களுக்கு நல்லதொரு அனுபவம் மற்றும் இணையத்திற்கு ஒளிமையமான எதிர்காலமும் எனலாம்.">
 
 <!ENTITY pref_media_autoplay_enabled "தானியக்கத்தை அனுமதி">
-
+<!ENTITY pref_media_autoplay_enabled_summary "வலைத்தளங்கள் தானாக காணொளிகளையும் பிற ஊடங்களையும் இயக்கினால் கட்டுப்படுத்தவும்">
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
 <!ENTITY pref_sync "ஒத்திசை">
@@ -367,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; நி">
+<!ENTITY reading_list_time_over_an_hour "ஒரு மணி நேரத்திற்கு மேல்">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -391,6 +393,8 @@ size. -->
 <!ENTITY home_top_sites_add "ஒரு இணையத்தளத்தை சேர்">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; முகப்பு">
 <!ENTITY home_history_title "வரலாறு">
 <!ENTITY home_clear_history_button "உலாவி வரலாற்றை துடை">
 <!ENTITY home_clear_history_confirm "உங்களுடைய வரலாற்றை நிச்சையமாக துடைக்க வேண்டுமா?">
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "பராக்: &formatS1; பயன்னடுத்தி தனிப்பட்ட கீற்று&formatS2; உங்கள் வரலாற்றை சேமிக்காது.">
 <!ENTITY home_reading_list_empty "நீங்கள் சேமித்த கட்டுரைகள் பிறகு இங்கு காண்பிக்கப்படும்.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -478,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "இந்த உள்ளடக்கம் தடுக்கப்பட்ட போதிலும் பெரும்பான்மையான இணையத்தளங்கள் நன்றாக தான் வேலை செய்கிறது.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "கண்காணிப்பு தடுப்பு முடக்கப்பட்டுள்ளது.">
+<!ENTITY loaded_tracking_content_message_bottom "இந்த வலைபக்கத்தில் சில பகுதிகள் உங்கள் இணைய செயல்களை கண்காணிக்க கூடும்.">
+<!ENTITY blocked_tracking_content_message_top2 "கண்காணிப்பு தடுப்பு செயலிலுள்ளது.">
+<!ENTITY blocked_tracking_content_message_bottom2 "இந்த வலைபக்கத்தில் உள்ள உங்கள் இணைய செயல்களை கண்காணிக்கும் பகுதிகள் தடுக்கப்பட்டுள்ளன.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "இன்னும் கற்க">

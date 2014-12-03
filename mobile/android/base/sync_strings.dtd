@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; க்கு ஒரு சரிபார்ப்பு தொடுப்பு அனுப்பப்பட்டுள்ளது">
 <!ENTITY fxaccount_confirm_account_resend_email "மின்னஞ்சலை திரும்ப அனுப்பவும்">
-
+<!ENTITY fxaccount_confirm_account_change_email "இந்த மின்னஞ்சல் முகவரியை மறக்கவா?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "சரிபார்ப்பு மின்னஞ்சல் அனுப்பப்பட்டது">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "சோதனை மடல் அனுப்ப முடியவில்லை">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
 <!ENTITY fxaccount_status_auth_server "கணக்கு சேவையகம்">
-
-
+<!ENTITY fxaccount_status_sync_now "இப்போது ஒத்திசைவுச் செய்">
+<!ENTITY fxaccount_status_syncing2 "ஒத்திசைக்கிறது...">
 <!ENTITY fxaccount_status_device_name "சாதனத்தின் பெயர்">
 <!ENTITY fxaccount_status_sync_server "ஒத்திசைவு சேவையகம்">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
