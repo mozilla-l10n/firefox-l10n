@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
-
+<!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
+<!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என சொல்லவும்">
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -208,6 +209,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "செம்மஞ்சள் நிற நரி உங்களுடைய எதிர்பார்ப்புகளுக்கும் மேல் அதிக வேகத்துடன், அதிக நெகிழ்வு தன்மையும் மேலும் பாதுகாப்புடனும் மேலோங்கி இருக்கிறது. ஒரு இலாப நோக்கற்ற, எந்த சமரசமும் அழுத்தமும் இல்லாமல் உங்கள் சார்பாக கட்டற்று புத்தாக்கத்தை உருவாக்க இருக்கிறோம். அப்படி என்றால் உங்களுக்கு நல்லதொரு அனுபவம் மற்றும் இணையத்திற்கு ஒளிமையமான எதிர்காலமும் எனலாம்.">
 
+<!ENTITY pref_media_autoplay_enabled "தானியக்கத்தை அனுமதி">
 
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
