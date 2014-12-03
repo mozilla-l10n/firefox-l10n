@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "সাধারণ">
 <!ENTITY  paneTabs.title          "ট্যাব">
+
 <!ENTITY  paneContent.title       "বিষয়বস্তু">
 <!ENTITY  paneApplications.title  "অ্যাপ্লিকেশন তালিকা">
 <!ENTITY  panePrivacy.title       "গোপনীয়তা">
