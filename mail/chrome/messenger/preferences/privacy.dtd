@@ -32,11 +32,6 @@
 <!ENTITY showCookies.label "Показване на бисквитки…">
 <!ENTITY showCookies.accesskey "П">
 
-<!ENTITY dntTrackingNopref.label2 "Без казване на сайтовете за моите предпочитания по следенето">
-<!ENTITY dntTrackingNopref.accesskey "з">
 <!ENTITY dntTrackingNotOkay.label2 "Казване на сайтовете, че не искам да бъда следен">
 <!ENTITY dntTrackingNotOkay.accesskey "н">
-<!ENTITY dntTrackingOkay.label2 "Казване на сайтовете, че искам да бъда следен">
-<!ENTITY dntTrackingOkay.accesskey "с">
 <!ENTITY doNotTrackInfo.label "Научете повече относно забраната за следене">
-

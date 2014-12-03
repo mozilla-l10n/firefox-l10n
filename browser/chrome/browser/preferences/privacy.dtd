@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Следене">
 
-<!ENTITY dntTrackingNopref.label2       "Не споделяй никога със сайтовете за моите настройки за проследяване">
-<!ENTITY dntTrackingNopref.accesskey    "Н">
 <!ENTITY dntTrackingNotOkay.label2      "Казване на сайтовете, че не искам да бъда следен">
 <!ENTITY dntTrackingNotOkay.accesskey   "К">
-<!ENTITY dntTrackingOkay.label2         "Казване на сайтовете, че искам да бъда следен">
-<!ENTITY dntTrackingOkay.accesskey      "с">
 
 
 
 <!ENTITY doNotTrackInfo.label           "Научете повече">
 
-<!ENTITY  history.label                 "История">
 
 <!ENTITY  locationBar.label             "Лента за адрес">
 
-<!ENTITY  locbar.pre.label              "При използване на лентата за адрес, показване на:">
-<!ENTITY  locbar.pre.accessKey          "л">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "История и отметки">
-<!ENTITY  locbar.history.label          "История">
-<!ENTITY  locbar.bookmarks.label        "Отметки">
-<!ENTITY  locbar.nothing.label          "Нищо">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
 
-<!ENTITY  keepUntil.label               "Запазване до:">
-<!ENTITY  keepUntil.accesskey           "З">
+
 
 <!ENTITY  expire.label                  "загуба на валидност">
 <!ENTITY  close.label                   "затваряне на &brandShortName;">

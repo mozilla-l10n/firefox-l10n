@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Развързване">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Преглед">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Приближаване">
+
+<!ENTITY viewMenu_zoomout_label "Отдалечаване">
 
 
 
@@ -49,13 +57,17 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Подпрозорци">
 
 
 
-
+<!ENTITY runtimePanel_other "Друго">
 <!ENTITY runtimePanel_installsimulator "Инсталиране на симулатор">
 
 
@@ -99,11 +111,18 @@
 
 
 
-
-
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Име">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 
