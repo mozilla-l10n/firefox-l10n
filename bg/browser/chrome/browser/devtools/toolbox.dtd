@@ -111,11 +111,12 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* Не се поддържа от назначението на текущата кутия с инструменти">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Избор на тема на DevTools:">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -167,6 +168,7 @@
 ще включват символите на платформата Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
+
 
 
 

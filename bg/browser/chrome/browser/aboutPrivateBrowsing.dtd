@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Oтваряне на прозовец за поверително сърфиране">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "За да започнете поверително сърфиране, изберете &basePBMenu.label; &gt; &newPrivateWindow.label;.">

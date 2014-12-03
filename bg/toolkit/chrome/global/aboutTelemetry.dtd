@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Телеметрията е <span>изключена</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection " Бавни заявки на SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection " Сривове в браузъра">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "Нишката зависна">
 
 <!ENTITY aboutTelemetry.histogramsSection " Хистограми">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection " Прости изчисления">
 

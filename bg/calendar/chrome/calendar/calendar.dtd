@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Нормален">
 <!ENTITY priority.level.normal.accesskey    "о">
 <!ENTITY priority.level.high                "Висок">
-<!ENTITY priority.level.high.accesskey      "В">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 час">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "ч">
@@ -243,6 +243,12 @@
 <!ENTITY calendar.context.export.accesskey             "р">
 <!ENTITY calendar.context.properties.label             "Свойства">
 <!ENTITY calendar.context.properties.accesskey         "й">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Конвертиране в">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "к">

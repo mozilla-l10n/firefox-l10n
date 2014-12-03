@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Основни">
 <!ENTITY  paneTabs.title          "Подпрозорци">
+<!ENTITY  paneSearch.title        "Търсене">
 <!ENTITY  paneContent.title       "Съдържание">
 <!ENTITY  paneApplications.title  "Приложения">
 <!ENTITY  panePrivacy.title       "Лични данни">

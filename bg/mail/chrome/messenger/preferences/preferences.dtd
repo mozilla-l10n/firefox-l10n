@@ -5,7 +5,7 @@
 <!ENTITY  prefWindow.titleWin     "Настройки">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; настройки">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38em;">
-<!ENTITY  prefWindow.styleMac     "width: 60em;">
+
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Основни">

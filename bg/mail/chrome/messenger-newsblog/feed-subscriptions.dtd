@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Абонаменти за емисии">
-<!ENTITY subscriptionDesc.label      "Забележка: Премахването или промяната на папката за извличане няма да повлияе на изтеглените по-рано статии.">
+
 
 <!ENTITY feedTitle.label             "Заглавие:">
 <!ENTITY feedTitle.accesskey         "З">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Адрес на емисия:">
 <!ENTITY feedLocation.accesskey      "А">
 <!ENTITY feedLocation.placeholder    "Въведете валиден адрес на емисия за добавяне">
+<!ENTITY locationValidate.label      "Проверка">
+<!ENTITY validateText.label          "Проверяване и изтегляне на валиден адрес.">
 
 <!ENTITY feedFolder.label            "Съхраняване на статиите в: ">
 <!ENTITY feedFolder.accesskey        "С">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Представка за създаваните етикети:">
 <!ENTITY autotagUsePrefix.accesskey  "П">
 <!ENTITY autoTagPrefix.placeholder   "Въведете представка за етикет">
-
-<!ENTITY locationValidate.label      "Проверка">
-<!ENTITY validateText.label          "Проверяване и изтегляне на валиден адрес.">
 
 <!ENTITY button.addFeed.label        "Добавяне">
 <!ENTITY button.addFeed.accesskey    "Д">
