@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Moteur de recherche par défaut">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Sélectionnez votre moteur de recherche par défaut. &brandShortName; l'utilise dans la barre d'adresse, la barre de recherche et la page de démarrage.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Sélectionnez votre moteur de recherche par défaut. &brandShortName; l'utilise dans la barre d'adresse, la barre de recherche et sur la page de démarrage.">
 
 <!ENTITY provideSearchSuggestions.label        "Afficher des suggestions de recherche">
 <!ENTITY provideSearchSuggestions.accesskey    "A">
