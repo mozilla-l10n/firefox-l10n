@@ -5,13 +5,13 @@
 <!ENTITY pane.title                   "Leesbevestigingen">
 <!ENTITY useGlobalPrefs.label         "Mijn algemene leesbevestigingsinstellingen gebruiken voor deze account">
 <!ENTITY useGlobalPrefs.accesskey     "M">
+<!ENTITY globalReceipts.label         "Algemene instellingen…">
+<!ENTITY globalReceipts.accesskey     "t">
 <!ENTITY useCustomPrefs.label         "Leesbevestigingen voor deze account aanpassen">
 <!ENTITY useCustomPrefs.accesskey     "L">
-<!ENTITY globalReceipts.label         "Algemene instellingen…">
-<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY requestReceipt.label         "Altijd een leesbevestiging vragen bij het verzenden van berichten">
 <!ENTITY requestReceipt.accesskey     "A">
-<!ENTITY receiptArrive.label          "Als een leesbevestiging aankomt:">
+<!ENTITY receiptArrive.label          "Als een leesbevestiging binnenkomt:">
 <!ENTITY leaveIt.label                "Deze in mijn Postvak IN laten staan">
 <!ENTITY leaveIt.accesskey            "P">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->

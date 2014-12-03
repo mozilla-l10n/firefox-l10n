@@ -14,7 +14,7 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webinhoud">
 
-<!ENTITY keepHistory.label "Websites en koppelingen die ik bezocht heb onthouden">
+<!ENTITY keepHistory.label "Websites en koppelingen die ik heb bezocht onthouden">
 <!ENTITY keepHistory.accesskey "W">
 <!ENTITY acceptCookies.label "Cookies van websites accepteren">
 <!ENTITY acceptCookies.accesskey "C">
@@ -33,10 +33,6 @@
 <!ENTITY showCookies.label "Cookies tonen…">
 <!ENTITY showCookies.accesskey "t">
 
-<!ENTITY dntTrackingNopref.label2 "Websites niets vertellen over mijn volgvoorkeuren">
-<!ENTITY dntTrackingNopref.accesskey "r">
 <!ENTITY dntTrackingNotOkay.label2 "Websites laten weten dat ik niet gevolgd wil worden">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Websites laten weten dat ik gevolgd wil worden">
-<!ENTITY dntTrackingOkay.accesskey "v">
 <!ENTITY doNotTrackInfo.label "Meer info over Niet volgen">

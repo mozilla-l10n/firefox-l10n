@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Berichten niet automatisch als ongewenst markeren als de afzender voorkomt in mijn: ">
 <!ENTITY whitelistHeader.accesskey "m">
 
-<!ENTITY ispHeadersWarning.label "Indien geactiveerd, zal &brandShortName; automatisch berichten gemarkeerd door deze externe classifier overwegen als ongewenst.">
+<!ENTITY ispHeadersWarning.label "Indien geactiveerd, zal &brandShortName; door deze externe classificeerder gemarkeerde berichten automatisch als ongewenst beschouwen.">
 <!ENTITY ispHeaders.label "Ongewenstberichtkopregels vertrouwen die zijn ingesteld door: ">
 <!ENTITY ispHeaders.accesskey "u">
 

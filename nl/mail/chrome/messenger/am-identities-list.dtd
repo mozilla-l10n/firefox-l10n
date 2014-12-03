@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListManageDesc.label "Identiteiten voor dit account beheren. De eerste identiteit wordt standaard gebruikt.">
+<!ENTITY identitiesListManageDesc.label "Identiteiten voor deze account beheren. Standaard wordt de eerste identiteit gebruikt.">
 <!ENTITY identitiesListAdd.label "Toevoegen…">
 <!ENTITY identitiesListAdd.accesskey "T">
-<!ENTITY identitiesListDefault.label "Standaard instellen">
-<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListEdit.label "Bewerken…">
 <!ENTITY identitiesListEdit.accesskey "B">
+<!ENTITY identitiesListDefault.label "Standaard instellen">
+<!ENTITY identitiesListDefault.accesskey "d">
 <!ENTITY identitiesListDelete.label "Verwijderen">
 <!ENTITY identitiesListDelete.accesskey "V">
 <!ENTITY identitiesListClose.label "Sluiten">

@@ -18,7 +18,7 @@
 
 <!ENTITY chat.participants             "Deelnemers:">
 <!ENTITY chat.previousConversations    "Vorige conversaties:">
-<!ENTITY chat.ongoingConversation      "Lopende conversatie">
+<!ENTITY chat.ongoingConversation      "Actieve conversatie">
 
 <!ENTITY openConversationCmd.label     "Een conversatie beginnen">
 <!ENTITY openConversationCmd.accesskey "c">

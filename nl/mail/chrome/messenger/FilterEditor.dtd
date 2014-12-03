@@ -17,39 +17,39 @@
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
 <!ENTITY contextDesc.label "Filter toepassen bij het:">
-<!ENTITY contextIncomingMail.label "Ophalen nieuwe berichten:">
+<!ENTITY contextIncomingMail.label "Ophalen van nieuwe e-mail:">
 <!ENTITY contextIncomingMail.accesskey "O">
 <!ENTITY contextManual.label "Handmatig uitvoeren">
 <!ENTITY contextManual.accesskey "H">
-<!ENTITY contextBeforeCls.label "Filter voor ongewensteberichtenclassificatie">
-<!ENTITY contextAfterCls.label "Filter na ongewensteberichtenclassificatie">
+<!ENTITY contextBeforeCls.label "Filteren voor ongewensteberichtenclassificatie">
+<!ENTITY contextAfterCls.label "Filteren na ongewensteberichtenclassificatie">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">
 
-<!ENTITY filterActionOrderWarning.label "Noot: filteracties worden uitgevoerd in een andere volgorde.">
-<!ENTITY filterActionOrder.label "Zie uitvoervolgorde">
+<!ENTITY filterActionOrderWarning.label "Noot: filteracties worden in een andere volgorde uitgevoerd.">
+<!ENTITY filterActionOrder.label "Uitvoeringsvolgorde bekijken">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
-<!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
-<!ENTITY markMessageRead.label "Als gelezen markeren">
-<!ENTITY markMessageUnread.label "Als ongelezen markeren">
+<!ENTITY replyWithTemplate.label "Antwoorden met sjabloon">
+<!ENTITY markMessageRead.label "Markeren als gelezen">
+<!ENTITY markMessageUnread.label "Markeren als ongelezen">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
 <!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">
-<!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
-<!ENTITY fetchFromPOP.label "Van POP-server ophalen">
+<!ENTITY deleteFromPOP.label "Verwijderen van POP-server">
+<!ENTITY fetchFromPOP.label "Ophalen van POP-server">
 <!ENTITY ignoreThread.label "Conversatie negeren">
 <!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
 
-<!ENTITY addAction.tooltip "Nieuwe actie toevoegen">
+<!ENTITY addAction.tooltip "Een nieuwe actie toevoegen">
 <!ENTITY removeAction.tooltip "Deze actie verwijderen">
 
 <!-- LOCALIZATION NOTE
