@@ -113,13 +113,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
-
-
-
-
-
+<!ENTITY errorReporting.title "گزارش این خطا">
+<!ENTITY errorReporting.longDesc "گزارش آدرس و اطلاعات گواهی‌نامه برای <span id='hostname'></span> به ما کمک میکند سایتهای مخرب را شناسایی کنیم. از اینکه برای ساختن وب امنتر کمک میکنید متشکریم!">
+<!ENTITY errorReporting.automatic "در آینده خطاها به صورت خودکار گزارش داده شود">
+<!ENTITY errorReporting.learnMore "اطلاعات بیشتر…">
+<!ENTITY errorReporting.sending "در حال ارسال گزارش">
+<!ENTITY errorReporting.sent "گزارش ارسال شد">
+<!ENTITY errorReporting.report "گزارش">
+<!ENTITY errorReporting.tryAgain "تلاش دوباره">
 
 <!ENTITY remoteXUL.title "XUL راه دور">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">

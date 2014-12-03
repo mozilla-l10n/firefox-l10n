@@ -8,7 +8,8 @@
    - UITour popups that shows on first use of the new search panel. -->
 
 
-
+<!ENTITY SearchHighlight2.title " پیشنهادات هوشمندانه">
+<!ENTITY SearchHighlight2.text "پیشنهادات موتور جستو جوی پیشفرض شما در طول تایپ کردن شما نمایش داده میشود.">
 
 <!ENTITY SearchHighlightNext "بعدی">
 <!ENTITY SearchHighlightClose "متشکریم!">
