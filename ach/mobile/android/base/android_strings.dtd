@@ -3,26 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Tero &brandShortName;mamegi">
-<!ENTITY  splash_bookmarks_history "Wan watye ka mino ngec mamegi me alama me buk ki lok mukato, maromo tero dakika keken onyo dong.">
-
 <!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Kakube maloyo">
-<!ENTITY  awesomebar_bookmarks_title "Alama me buk">
-<!ENTITY  awesomebar_history_title "Lok Mukato">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+
+
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Alama me buk">
+
+<!ENTITY  reading_list_title "Nying jami me kwan">
+
+
+
+<!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
+
+
+
+
+
+
+
+
 <!ENTITY  sending_crash_report "Cwalo ngec ma opoto aturat\u2026">
 <!ENTITY  crash_close_label "Lor">
 <!ENTITY  crash_restart_label "Cak &brandShortName;">
@@ -33,74 +37,138 @@
 
 <!ENTITY choose_file "Yer Pwail">
 
-<!ENTITY awesomebar_default_text "Ket Yeny onyo Kanonge">
 
-<!ENTITY remote_tabs "Ditija matidi me Synced">
-<!ENTITY remote_tabs_show_all "Nyut dirija matidi weng">
-
-<!ENTITY bookmark "Alama me buk">
 <!ENTITY bookmark_added "Kimedo Alama me buk">
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
 <!ENTITY bookmark_updated "Kimedo Alama me buk">
+<!ENTITY bookmark_options "Me ayera">
 
 <!ENTITY history_today_section "Tin">
 <!ENTITY history_yesterday_section "Lawo">
-<!ENTITY history_week_section "Nino 7 mukato angec">
-<!ENTITY history_older_section "Muti loyo nino 7">
+
+
 
 <!ENTITY go "Ceti">
-<!ENTITY search "Yeny">
+
 <!ENTITY reload "Nwo pango">
 <!ENTITY forward "Cwal anyim">
-<!ENTITY menu "Nying Jami">
+
 <!ENTITY back "Cen">
-<!ENTITY stop "Juk">
+
 <!ENTITY site_security "Ber bedo me Dyer bar">
+
 
 <!ENTITY close_tab "Lor Dirica matidi">
 <!ENTITY one_tab "dirica matidi 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Kiyabo Tab manyen">
+
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY settings "Tero">
 <!ENTITY settings_title "Tero">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_about_firefox "Makwako &brandShortName;">
+
+
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "Med ikom Nying jami me akwana">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "Tem doki">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+
+
+
+
 <!ENTITY pref_remember_signons "Poyo I cwil me donyo">
+
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+
+
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privacy &amp; Security">
-<!ENTITY pref_header_content "Content">
+
+
+
+
+
 
 <!ENTITY pref_cookies_menu "Kakube me intanet">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
+
+
+
+
 
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Ywe tic pa dano">
+
+
+<!ENTITY pref_clear_private_data_category "Ywe tic pa dano">
+
+
+
 <!ENTITY pref_plugins "Rwaki iyie">
-<!ENTITY pref_plugins_enabled "Enabled">
+
 <!ENTITY pref_plugins_tap_to_play "Gwet wek tuki">
-<!ENTITY pref_plugins_disabled "Disabled">
+
 <!ENTITY pref_text_size "Dit pa nyig Coc">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
+
+
+
+
 <!ENTITY pref_font_size_tiny "Tino">
 <!ENTITY pref_font_size_small "Tidi">
 <!ENTITY pref_font_size_medium "Dyere dyere">
@@ -116,52 +184,70 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
-<!ENTITY pref_show_product_announcements "Nyut kwena me jami ma kato">
 <!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
 <!ENTITY pref_import_android "Kel ki woko ki Android">
-<!ENTITY pref_private_data_history "Tye ka yabo &amp; Gol Mukato">
-<!ENTITY pref_private_data_formdata "Fom &amp; yeny mukato">
-<!ENTITY pref_private_data_cookies2 "Layab intanet &amp; donyo iyie me oyoto">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+
+
+
+
+
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+
+
+
+<!ENTITY pref_about_firefox "Makwako &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Mi lagam">
+
+<!ENTITY pref_dialog_default "Bal tye iye">
+
+
+
+<!ENTITY pref_panels_show "Nyuti">
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+
+
+
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+
+<!ENTITY pref_update_autodownload_never "Pe">
+
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Wek woko">
 
 <!ENTITY addons "Lamed-ikome">
-<!ENTITY downloads "Kigolo woko">
+
 <!ENTITY apps "Purugram">
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
 
@@ -169,45 +255,57 @@ size. -->
 <!ENTITY share_title "Nywak kun beo">
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
-<!ENTITY find_in_page "Find in Page">
+
 <!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
+
 <!ENTITY tools "Gitic">
 <!ENTITY new_tab "Tab Manyen">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Tabs">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+
+
+
+
+
+
+
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
 <!ENTITY find_next "En mukene">
-<!ENTITY find_close "Close">
+
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Tuki">
+<!ENTITY media_pause "Cung manok">
+
 
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Yab ki I gin kwano">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
+
+
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
 <!ENTITY contextmenu_share "Nywak">
-<!ENTITY contextmenu_pasteandgo "Dac &amp; Ceti">
+<!ENTITY contextmenu_pasteandgo "Dac &amp; Woti">
 <!ENTITY contextmenu_paste "Dani">
 <!ENTITY contextmenu_copyurl "Lok Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
 
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
 
-<!ENTITY history_removed "Kikwanyo woko pot buk">
+
+
+
+
+
+
+
+
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+
+<!ENTITY page_removed "Kikwanyo woko pot buk">
 
 <!ENTITY bookmark_edit_title "Yub Alama buk">
 <!ENTITY bookmark_edit_name "Nying">
@@ -215,18 +313,18 @@ size. -->
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
-<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Jwik">
-<!ENTITY site_settings_clear        "Clear">
+
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
 
-<!ENTITY reading_list "Nying jami me kwan">
 <!ENTITY reading_list_added "Kimedo woko pot buk ii Nying jami me Akwan mamegi">
-<!ENTITY reading_list_removed "Kikwanyo woko pot nuk ki Nying jami me akwani ni">
-<!ENTITY reading_list_failed "Medo pot buk pe olare ki Nying Jami me kwani">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
-<!ENTITY reader "Reader">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Ket I cwil me donyo Madit">
 <!ENTITY masterpassword_remove_title "Kwany woko i cwil me donyo pa Ladit">
@@ -239,30 +337,59 @@ size. -->
 <!ENTITY button_no "Pe/Ku">
 <!ENTITY button_clear_data "Ywe tic">
 <!ENTITY button_set "Ter">
-<!ENTITY button_clear "Clear">
 
-<!ENTITY abouthome_addons_title "Med iwiye pi &brandShortName; megi">
-<!ENTITY abouthome_addons_browse "Yeny &brandShortName; weng pi med iwiye">
-<!ENTITY abouthome_last_tabs_title "Lanyik megi ki kare mukato angec">
-<!ENTITY abouthome_last_tabs_open "Yab Tab weng ki i kare mukato">
-<!ENTITY abouthome_top_sites_title "Kakube maloyo">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
 
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_top_sites_title "Kakube maloyo">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+
+
+
+
+
+
+
+
+
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_remote_tabs_title "Ditija matidi me Synced">
+
+<!ENTITY home_remote_tabs_unable_to_connect "Pe romo kubo">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "Yeny pa ma megi">
+
+
+
+
+
+
 
 <!ENTITY filepicker_title "Yer Pwail">
 <!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
@@ -283,6 +410,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "En aye tiyo kwede">
+<!ENTITY identity_no_info "Kakube man me Web pe poko ngec me tikitiki.">
+<!ENTITY identity_not_encrypted "Kube mamegi i di bar man me Web pe otyeko coyo alama ne.">
+<!-- Mixed content notifications in site identity popup -->
+
+
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
+<!ENTITY learn_more "Nong ngec Mapol">
+
+
+
 
 <!ENTITY private_data_success "Giyweyo woko tic pa dano">
 <!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
@@ -295,23 +437,50 @@ ki Android">
 <!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato 
 ki Android">
 <!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
 <!ENTITY webapp_generic_name "Purugram">
 
 <!ENTITY searchable_description "Alama buk ki lok mukato angec">
-<!-- Updater notifications --> 
+<!-- Updater notifications -->
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
 
 <!ENTITY updater_downloading_title2 "Golo &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
+
 <!ENTITY updater_downloading_select2 "Gud wek ket ngec ka dong gikwanyo oko">
 <!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Gudi wek imi ngec">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Mede anyim">
+
+
+
+
+
+
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "Otum">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

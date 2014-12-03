@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Wek kube">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Nen">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Kwot Madit">
+
+<!ENTITY viewMenu_zoomout_label "Jwik Matidi">
 
 
 
@@ -49,6 +57,7 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
 
 
 
@@ -56,6 +65,9 @@
 
 
 
+
+
+<!ENTITY runtimePanel_other "Mukene">
 <!ENTITY runtimePanel_installsimulator "Ket Cuma">
 
 
@@ -92,8 +104,6 @@
 
 
 
-
-
 <!ENTITY prefs_options_detectindentation_tooltip "Byek kabedo ma i kin kacako coc kun i jenge ikom gin manonge kama oaa iye">
 
 
@@ -104,6 +114,15 @@
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Nying">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

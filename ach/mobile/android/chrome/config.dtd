@@ -2,6 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Yeny Tero">
-<!ENTITY clear.altText          "Jwa">
-<!ENTITY newpref.label2         "Med Tera Manyen">
+
+<!ENTITY toolbar.searchPlaceholder     "Yeny">
+
+<!ENTITY newPref.namePlaceholder       "Nying">
+
+<!ENTITY newPref.valueBoolean          "gin matye kwede acel ki not">
+<!ENTITY newPref.valueString           "Tol">
+<!ENTITY newPref.valueInteger          "Namba ne">
+
+
+
+<!ENTITY newPref.cancelButton          "Juk">
+
+

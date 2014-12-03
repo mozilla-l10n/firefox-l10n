@@ -136,8 +136,8 @@ meno &brandShortName; tye ki rukuca me donyo i Kakube.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Keto kit ngec mo keken ma keme ki dano i pot buk man romo kelo adwogi me kwo me jami pa dano onyo goba mogo.</p> 
 <p>Kit kakube ateta magi kitiyo kwedgi i kwo ma ngene calo phishing attacks, kama pot buk gobagoba ki email kitiyo kwedgi me poro kama in igeno.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Kigengo ki Cik me Gwoko ber-bedo pa jami matye iye">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ogengo woko pot buk man me canne i yo man pien pot buk ke tye ki cik me jami matye iye mape ye en.</p>">
+<!ENTITY cspBlocked.title "Kigengo ki Cik me Gwoko ber-bedo pa jami matye iye">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ogengo woko pot buk man me canne i yo man pien pot buk ke tye ki cik me jami matye iye mape ye en.</p>">
 
 <!ENTITY corruptedContentError.title "Bal me jami matye iye ma oballe">
 <!ENTITY corruptedContentError.longDesc "<p>Pot buk ma i tye katemo neno ne ni pe kitwero nyuto ne pien bal onyute i cwalo tic.</p><ul><li>Tim ber i kube ki wegi kakube man pi mini gi ngec pi peko man.</li></ul>">
@@ -156,6 +156,14 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+
+
+<!ENTITY errorReporting.learnMore "Nong ngec mapol…">
+
+
+
+
 
 <!ENTITY remoteXUL.title "XUL ma tye wa kama bor">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube pi mini gi ngec pi peko man.</li></ul></p>">

@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sync Kombedi">
 
 <!ENTITY sync.setup.title           "Kub i Sync">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+
 <!ENTITY sync.fallback              "Ape acok ki kompiuta mamega...">
 <!ENTITY sync.setup.manual          "Ket ngec me akaunti pa Sync mamegi">
 <!ENTITY sync.account               "Nying akaunti">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Tye ka kuro nyonyo mukene...">
 
 <!ENTITY sync.pair.title            "Ket Nyonyo Aryo Aryo">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+
 <!ENTITY sync.setup.close           "Lor">
 <!ENTITY sync.setup.waitingdownload "Tic mamegi kombedi tye ka golo i yonge. I romo dong cego dirija man i cawa mo keken.">

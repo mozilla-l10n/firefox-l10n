@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Me cako yeny i mung, iromo bene yero select &basePBMenu.label; &gt; &newPrivateWindow.label;.">

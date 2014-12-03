@@ -4,12 +4,6 @@
 
 <!ENTITY aboutApps.title2                          "Purugram">
 <!ENTITY aboutApps.header                          "Tic Mamegi">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
-<!ENTITY aboutApps.noApps.pre "Tic me web dong pe kiketo woko. Nong mukene ki ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
-<!ENTITY aboutApps.noApps.post ".">
 <!ENTITY aboutApps.uninstall "Pe I ket">
-<!ENTITY aboutApps.addToHomescreen "Med I gang Kio ma neno">
+<!ENTITY aboutApps.checkForUpdates "Rot pi ngec manyen">
