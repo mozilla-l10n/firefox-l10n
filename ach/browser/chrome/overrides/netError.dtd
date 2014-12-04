@@ -157,13 +157,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Kel lok pi bal ma">
+<!ENTITY errorReporting.longDesc "Kelo lok pi ngec me kabedo ki waraga pi <span id='hostname'></span> bi konyo wa nyuto ki gengo kakube ma raco. Pwoc pi konyo cweyo kakube ma ber">
+<!ENTITY errorReporting.automatic "Kel lok pire kene pi bal iye anyim">
 <!ENTITY errorReporting.learnMore "Nong ngec mapol…">
-
-
-
-
+<!ENTITY errorReporting.sending "Tye ka cwalo lok">
+<!ENTITY errorReporting.sent "Kicwalo lok">
+<!ENTITY errorReporting.report "Kel lok">
+<!ENTITY errorReporting.tryAgain "Tem odoco">
 
 <!ENTITY remoteXUL.title "XUL ma tye wa kama bor">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube pi mini gi ngec pi peko man.</li></ul></p>">
