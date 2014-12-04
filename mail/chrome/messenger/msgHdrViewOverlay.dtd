@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "B">
 
 <!ENTITY otherActionsButton2.label "Rhagor">
-
+<!ENTITY otherActionsButton.tooltip "Rhagor o weithredoedd">
 <!ENTITY otherActionsOpenConversation1.label "Agor mewn Trafodaeth">
 <!ENTITY otherActionsOpenConversation1.accesskey "T">
 <!ENTITY otherActionsOpenInNewWindow1.label "Agor Ffenestr Newydd">
