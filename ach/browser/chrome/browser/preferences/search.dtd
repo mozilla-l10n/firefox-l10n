@@ -2,8 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Ingin me yeny makwongo">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Yer ingin me yeny mamegi makwongo. &brandShortName; tiyo kwede i lanyut me kabedo, lanyut me yeny, ki pot buk me acaki.">
+
+<!ENTITY provideSearchSuggestions.label        "Mi tam me yeny">
+<!ENTITY provideSearchSuggestions.accesskey    "y">
 
 
+<!ENTITY oneClickSearchEngines.label           "Ingin me yeny ma idiyo kicel">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Lanyut me yeny weko i yenyo atir ingin ma igwenyo kingi. Yer mene me nyuto kama leng.">
 
-
+<!ENTITY addMoreSearchEngines.label            "Med ingin me yeny mapol…">

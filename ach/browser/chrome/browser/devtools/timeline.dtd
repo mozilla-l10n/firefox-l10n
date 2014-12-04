@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "Mak tic pa jami ma otime">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,11 +21,19 @@
 <!-- LOCALIZATION NOTE (timelineUI.timelineUI.memoryCheckbox.label): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY timelineUI.memoryCheckbox.label "Kakano jami">
 <!-- LOCALIZATION NOTE (timelineUI.timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
+
+<!ENTITY timelineUI.memoryCheckbox.tooltip "Ye pimo kakano jami">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Dii kom">
+<!ENTITY timelineUI.emptyNotice2    "jarara me cako mako jami ma otime.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "Dii kom">
+<!ENTITY timelineUI.stopNotice2    "jarara doki me juko mako.">
