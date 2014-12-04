@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
-
+<!ENTITY pref_donottrack_title "Dim tracio">
+<!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am eich tracio">
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Caniatáu awtochwarae">
+<!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Sync">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; mun">
+<!ENTITY reading_list_time_over_an_hour "Dros awr">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -389,6 +393,8 @@ size. -->
 <!ENTITY home_top_sites_add "Ychwanegu gwefan">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Cartref &brandShortName;">
 <!ENTITY home_history_title "Hanes">
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
@@ -400,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: bydd defnyddio &formatS1;Tab Preifat Newydd&formatS2; ddim yn cadw eich hanes.">
 <!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -468,7 +475,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sy\u0027n cael ei redeg gan">
 <!ENTITY identity_no_info "Nid yw\u0027r wefan yn darparu gwybodaeth hunaniaeth.">
-
+<!ENTITY identity_not_encrypted "Nid yw eich cysylltiad â\u0027r wefan hon wedi ei hamgryptio.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Mae\u0027r dudalen yn dangos cynnwys nad yw\u0027n ddiogel.">
@@ -476,7 +483,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Bydd y rhan fwyaf o wefannau yn gweithio hyd yn oed pan fydd y cynnwys wedi ei rwystro.">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY loaded_tracking_content_message_top "Mae diogelwch rhag tracio wedi ei analluogi">
+<!ENTITY loaded_tracking_content_message_bottom "Gall rhannau o\u0027r dudalen hon dracio eich gweithgaredd ar-lein.">
+<!ENTITY blocked_tracking_content_message_top2 "Mae diogelwch rhag tracio wedi ei alluogi.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
