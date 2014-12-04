@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Gwirio bob tro ">
 
+<!ENTITY gdata.reminder.default "Atgoffwr Rhagosodedig">
 <!ENTITY gdata.reminder.action.sms.label "Anfon Neges Testun">
 
+<!ENTITY gdata.wizard.session.description "Dewiswch sesiwn gyfredol neu rhowch gyfeiriad e-bost a chreu sesiwn newydd. Dim ond un sesiwn i'r cyfrif sydd ei angen.">
+<!ENTITY gdata.wizard.calendars.description "Dewiswch y calendrau a'r rhestrau tasgau yr hoffech danysgrifio iddyn nhw.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Symudwch ymlaen i'r cam nesaf er mwyn gosod eich calendrau.">
