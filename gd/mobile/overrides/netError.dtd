@@ -145,8 +145,8 @@ gu bheil cuideigin a’ feuchainn ri gabhail orra gur iadsan am frithealaiche.</
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "’Ga chasgadh le poileasaidh tèarainteachd susbainte">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn ’s gu bheil poileasaidh tèarainteachd susbainte ann nach eil ’ga cheadachadh.</p>">
+<!ENTITY cspBlocked.title "’Ga chasgadh le poileasaidh tèarainteachd susbainte">
+<!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn ’s gu bheil poileasaidh tèarainteachd susbainte ann nach eil ’ga cheadachadh.</p>">
 
 <!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentError.longDesc "<p>Cha ghabh an duilleag a dh’iarr thu a shealltainn a chionn ’s gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">

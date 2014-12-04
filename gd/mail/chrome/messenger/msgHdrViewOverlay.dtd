@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall &quot;Freagair an seòladair&quot; an-còmhnaidh">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton1.label "Gnìomhan eile">
+<!ENTITY otherActionsButton2.label "Barrachd">
+
 <!ENTITY otherActionsOpenConversation1.label "Fosgail ann an còmhradh">
 <!ENTITY otherActionsOpenConversation1.accesskey "o">
 <!ENTITY otherActionsOpenInNewWindow1.label "Fosgail ann an uinneag ùr">

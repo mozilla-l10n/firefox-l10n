@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Ràinig thu crìoch an stòrais">
-<!ENTITY fileExceedsQuota.accept "Àrdaich">
-<!ENTITY fileExceedsQuota.cancel "Sguir dheth">
 <!ENTITY fileExceedsQuota.description "Ràinig thu crìoch an stòraisb agad, 2GB.">
 <!ENTITY fileExceedsQuota.description1 "Tha thu a' cleachdadh #XXX GB de stòras an-dràsta.">
-<!ENTITY fileExceedsQuota.description2 "Àrdaich gu cunntas Pro Plus an-diugh airson barrachd stòrais.">
-<!ENTITY fileExceedsQuota.description3 "No 's urrainn dhut faidhlichean a sguabadh às a' chunntas agad gu rùm a shaoradh.">

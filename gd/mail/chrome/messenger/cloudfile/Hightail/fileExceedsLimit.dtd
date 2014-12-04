@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Chan urrainn dhut faidhlichean a chur a tha nas motha na 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "ach ma tha cunntas Premium agad.">
-<!ENTITY fileExceedsLimit.accept "Àrdaich">
-<!ENTITY fileExceedsLimit.cancel "Sguir dheth">
+
 <!ENTITY fileExceedsLimit.style "width: 60em; min-height: 30em;">
-<!ENTITY fileExceedsLimit.proIncludes "Àrdaich an-drasta gus am faidhle seo a chur agus airson:">
-<!ENTITY fileExceedsLimit.pros1 "Faidhlichean is pasgain a tha suas ri 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Stòras fhaidhlichean gun chrìoch air loidhne">
-<!ENTITY fileExceedsLimit.pros3 "Inntrigeadh is co-roinneadh fhaidhlichean o àite sam bith">

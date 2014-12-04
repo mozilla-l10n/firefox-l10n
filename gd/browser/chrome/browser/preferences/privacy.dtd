@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Tracadh">
 
-<!ENTITY dntTrackingNopref.label2       "Na innis do làraichean dè na roghainnean tracaidh a tha agam">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Innis do làraichean-lìn gun urrainn dhaibh tracadh a dhèanamh orm">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 <!ENTITY trackingProtection.label       "Na leig le làraichean mo thracadh">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY doNotTrackInfo.label           "Barrachd fiosrachaidh">
 
-<!ENTITY  history.label                 "Eachdraidh">
 
 <!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
-<!ENTITY  locbar.pre.label              "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Eachdraidh is comharran-lìn">
-<!ENTITY  locbar.history.label          "Eachdraidh">
-<!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
-<!ENTITY  locbar.nothing.label          "Chan eil càil">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
 <!ENTITY  acceptCookies.accesskey       "a">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Chan ann idir">
 <!ENTITY  acceptThirdParty.visited.label  "O fheadhainn air an deach tadhal">
 
-<!ENTITY  keepUntil.label               "Cum gus:">
-<!ENTITY  keepUntil.accesskey           "C">
+
 
 <!ENTITY  expire.label                  "am falbh an ùine orra">
 <!ENTITY  close.label                   "an dùin mi &brandShortName;">

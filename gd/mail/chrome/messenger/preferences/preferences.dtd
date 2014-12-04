@@ -5,7 +5,7 @@
 <!ENTITY  prefWindow.titleWin     "Roghainnean">
 <!ENTITY  prefWindow.titleGNOME   "Roghainnean &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 55em; min-height: 45em;">
-<!ENTITY  prefWindow.styleMac     "width: 65em;">
+
 <!ENTITY  prefWindow.styleGNOME   "width: 65em; min-height: 45em;">
 
 <!ENTITY paneGeneral.title        "Coitcheann">
