@@ -9,8 +9,14 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Sitio considerado de ataque">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "O sitio web en  <span 
+id='malware_sitename'/> consta como de ataque e foi bloqueado segundo as 
+preferencias de seguranza actuais.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os sitios de ataque tentan 
+instalar 
+programas que rouban información privada, que utilizan o computador para atacar a terceiros ou que danan o sistema.</p><p>Algúns deles distribúen de forma intencionada software pernicioso, mais moitos comproméntense sen o permiso ou coñecemento dos/as propietarios/as.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title "Web denunciada como falsificación!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "O sitio web en  <span id='phishing_sitename'/> consta como falsificación web e foi bloqueado segundo as preferencias de seguranza actuais.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>As falsificacións web están deseñadas para facerse pasar por sitios de confianza e así enganar e obter información financeira ou persoal relevante.</p><p>Fornecer información neste tipo de páxinas pode levar a roubos ou fraude.</p>">

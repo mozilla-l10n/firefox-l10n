@@ -16,3 +16,8 @@
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
+<!ENTITY title                  "Modelo de caixa">
+
+
+<!ENTITY padding.tooltip        "recheo">
+<!ENTITY content.tooltip        "contido">

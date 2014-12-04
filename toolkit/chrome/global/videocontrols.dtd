@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Desenmudecer">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Saír de pantalla completa">
-<!ENTITY castingButton.castingLabel "Cast to Screen">
+
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Tamaño">
