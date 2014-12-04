@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "Søg efter ">
 <!ENTITY searchWith.label             " med:">
-<!ENTITY changeSearchSettings.button  "Ændr søgeindstillinger">
+<!ENTITY changeSearchSettings.button  "Skift søgeindstillinger">
 
 <!ENTITY tabView.commandkey           "e">
 
