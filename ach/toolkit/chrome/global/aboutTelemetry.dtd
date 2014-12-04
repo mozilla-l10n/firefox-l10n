@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Pimo tic tye ma <span>kijuko</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Tic lumuku">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Lok me SQL ma woto mot">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Cura me tic">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Wel ma kimungo">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pim mayot">
 
