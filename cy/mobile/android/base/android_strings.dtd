@@ -483,10 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Bydd y rhan fwyaf o wefannau yn gweithio hyd yn oed pan fydd y cynnwys wedi ei rwystro.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Mae diogelwch rhag tracio wedi ei analluogi">
+<!ENTITY loaded_tracking_content_message_top "Mae diogelwch rhag tracio wedi ei analluogi.">
 <!ENTITY loaded_tracking_content_message_bottom "Gall rhannau o\u0027r dudalen hon dracio eich gweithgaredd ar-lein.">
 <!ENTITY blocked_tracking_content_message_top2 "Mae diogelwch rhag tracio wedi ei alluogi.">
-
+<!ENTITY blocked_tracking_content_message_bottom2 "Mae\u0027r rhannau o\u0027r dudalen sy\u0027n eich tracio wedi eu rhwystro.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Dysgu Rhagor">
