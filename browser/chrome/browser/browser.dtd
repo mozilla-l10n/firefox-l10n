@@ -416,7 +416,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-
+<!ENTITY changeSearchSettings.button  "Alterar configurações de pesquisa">
 
 <!ENTITY tabView.commandkey           "E">
 
@@ -728,7 +728,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Adicionar temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "A">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar o tema Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "C">
 <!ENTITY social.chatBar.label "Focar bate-papos">
