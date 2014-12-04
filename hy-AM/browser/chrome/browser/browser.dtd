@@ -47,8 +47,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "Պ">
 <!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները...">
 <!ENTITY  bookmarkAllTabs.accesskey          "ն">
-<!ENTITY  undoCloseTab.label                 "Ետարկել փակված ներդիրը">
-<!ENTITY  undoCloseTab.accesskey             "Ե">
+<!ENTITY  undoCloseTab.label                 "Հետարկել փակված ներդիրը">
+<!ENTITY  undoCloseTab.accesskey             "Հ">
 <!ENTITY  closeTab.label                     "Փակել ներդիրը">
 <!ENTITY  closeTab.accesskey                 "Փ">
 
@@ -86,8 +86,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Ետարկել փակված էջը">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Ե">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված էջը">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "ո">
@@ -302,9 +302,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Խմբագրել"> 
 <!ENTITY editMenu.accesskey       "Խ"> 
-<!ENTITY undoCmd.label            "Ետարկել">  
+<!ENTITY undoCmd.label            "Հետարկել ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Ե"> 
+<!ENTITY undoCmd.accesskey          "Հ"> 
 <!ENTITY redoCmd.label            "Կրկնել">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "Կ"> 
