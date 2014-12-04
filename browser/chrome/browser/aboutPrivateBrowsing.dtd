@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Fosgail uinneag phrìobhaideach">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Gus tòiseachadh air brabhsadh prìobhaideach, 's urrainn dhut &basePBMenu.label; &gt; &newPrivateWindow.label; a thaghadh cuideachd.">

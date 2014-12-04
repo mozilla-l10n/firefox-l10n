@@ -136,8 +136,8 @@ dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p> 
 <p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil&quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
+<!ENTITY cspBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
+<!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
 
 <!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentError.longDesc "<p>Cha ghabh an duilleag a dh'iarr thu a shealltainn a chionn 's gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">
@@ -156,6 +156,14 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+
+
+<!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
+
+
+
+
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">

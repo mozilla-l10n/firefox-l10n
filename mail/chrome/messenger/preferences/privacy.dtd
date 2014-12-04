@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Seall na briosgaidean…">
 <!ENTITY showCookies.accesskey "S">
 
-<!ENTITY dntTrackingNopref.label2 "Na innis do làraichean dè na roghainnean tracaidh a tha agam">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Innis do làraichean-lìn gum faod iad mo thracadh">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Barrachd fiosrachaidh air a&apos; ghleus &quot;Na tracaich orm&quot;">
-
