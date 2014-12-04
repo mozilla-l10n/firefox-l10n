@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Standard-søgemaskine">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Vælg hvilken søgemaskine, du vil bruge som standard. &brandShortName; bruger den i adresselinjen, søgelinjen og på startsiden.">
+
+<!ENTITY provideSearchSuggestions.label        "Vis søgeforslag">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+
+<!ENTITY oneClickSearchEngines.label           "One-click search engines">
+
+<!ENTITY chooseWhichOneToDisplay.label         "Du kan søge direkte i andre søgemaskiner ved at bruge søgelinjen. Vælg hvilke, der skal vises.">
+
+<!ENTITY addMoreSearchEngines.label            "Tilføj flere søgemaskiner…">
