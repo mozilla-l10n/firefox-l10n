@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Tanysgrifiad Llif">
-
+<!ENTITY learnMore.label             "Dysgu rhagor am Llif">
 
 <!ENTITY feedTitle.label             "Teitl:">
 <!ENTITY feedTitle.accesskey         "T">
