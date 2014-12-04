@@ -70,7 +70,7 @@
 <!-- zoom -->
 
 
-
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Meus projetos">
 <!ENTITY projectPanel_runtimeApps "Aplicativos do ambiente de execução">
@@ -112,7 +112,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Geral">
 <!ENTITY prefs_restore "Restaurar padrões">
-
+<!ENTITY prefs_manage_components "Gerenciar componentes extras">
 <!ENTITY prefs_options_rememberlastproject "Memorizar último projeto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar projeto anterior ao iniciar o WebIDE">
 <!ENTITY prefs_options_templatesurl "URL dos modelos:">
