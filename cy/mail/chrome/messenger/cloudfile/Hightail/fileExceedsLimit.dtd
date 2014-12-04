@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Mae anfon ffeiliau mwy na 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "yn nodwedd sydd rhaid talu amdano.">
-<!ENTITY fileExceedsLimit.accept "Diweddaru">
-<!ENTITY fileExceedsLimit.cancel "Diddymu">
+
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Diweddarwch er mwyn anfon y ffeil:">
-<!ENTITY fileExceedsLimit.pros1 "Anfon ffeiliau a ffolderi hyd at 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Storio ffeiliau diderfyn ar-lein">
-<!ENTITY fileExceedsLimit.pros3 "Cael mynediad a rhannu ffeiliau o bob man">

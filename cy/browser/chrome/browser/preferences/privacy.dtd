@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Tracio">
 
-<!ENTITY dntTrackingNopref.label2       "Dweud dim wrth wefannau am fy newisiadau tracio">
-<!ENTITY dntTrackingNopref.accesskey    "n">
 <!ENTITY dntTrackingNotOkay.label2      "Dweud wrth wefannau: Peidio tracio">
 <!ENTITY dntTrackingNotOkay.accesskey   "P">
-<!ENTITY dntTrackingOkay.label2         "Dweud wrth wefannau: Croeso i chi dracio">
-<!ENTITY dntTrackingOkay.accesskey      "C">
 <!ENTITY trackingProtection.label       "Rhwystro gwefannau rhag fy nilyn">
 <!ENTITY trackingProtection.accesskey   "R">
 <!ENTITY trackingProtectionLearnMore.label "Dysgu rhagor">
 <!ENTITY doNotTrackInfo.label           "Dysgu Rhagor">
 
-<!ENTITY  history.label                 "Hanes">
 
 <!ENTITY  locationBar.label             "Bar Lleoliad">
 
-<!ENTITY  locbar.pre.label              "Pan yn defnyddio'r bar lleoliad, cynnig:">
-<!ENTITY  locbar.pre.accessKey          "P">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Hanes a Nodau Tudalen">
-<!ENTITY  locbar.history.label          "Hanes">
-<!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
-<!ENTITY  locbar.nothing.label          "Dim">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
 
-<!ENTITY  keepUntil.label               "Cadw tan:">
-<!ENTITY  keepUntil.accesskey           "C">
+
 
 <!ENTITY  expire.label                  "byddant yn dod i ben">
 <!ENTITY  close.label                   "Cau &brandShortName;">

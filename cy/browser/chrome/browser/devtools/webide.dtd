@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Agor Ap…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Gosod a Rhedeg">
-<!ENTITY projectMenu_play_accesskey "G">
+
 <!ENTITY projectMenu_stop_label "Atal yr App">
 <!ENTITY projectMenu_stop_accesskey "t">
 <!ENTITY projectMenu_debug_label "Dadfygio App">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "T">
 <!ENTITY projectMenu_showPrefs_label "Dewisiadau">
 <!ENTITY projectMenu_showPrefs_accesskey "D">
+
+
 
 <!ENTITY runtimeMenu_label "Amser rhedeg">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -38,12 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitro">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "Golwg">
 <!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Toglo'r Golygydd">
 <!ENTITY viewMenu_toggleEditor_accesskey "T">
-<!ENTITY viewMenu_showAddons_label "Rheoli Efelychiadau">
-<!ENTITY viewMenu_showAddons_accesskey "R">
+<!ENTITY viewMenu_zoomin_label "Chwyddo Mewn">
+
+<!ENTITY viewMenu_zoomout_label "Chwyddo Allan">
+
+
+
 
 <!ENTITY projectButton_label "Agor yr Ap">
 <!ENTITY runtimeButton_label "Dewis yr Amser Rhedeg">
@@ -59,14 +67,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "Projectau">
 <!ENTITY projectPanel_runtimeApps "Apiau Amser Rhedeg">
 <!ENTITY projectPanel_tabs "Tabiau">
-<!ENTITY runtimePanel_USBDevices "Dyfeisiau USB">
-<!ENTITY runtimePanel_WiFiDevices "Dyfeisiau Di-wyfr">
-<!ENTITY runtimePanel_simulators "Efelychwyr">
-<!ENTITY runtimePanel_custom "Cyfaddas">
+<!ENTITY runtimePanel_usb "Dyfeisiau USB">
+<!ENTITY runtimePanel_wifi "Dyfeisiau Di-wyfr">
+<!ENTITY runtimePanel_simulator "Efelychwyr">
+<!ENTITY runtimePanel_other "Arall">
 <!ENTITY runtimePanel_installsimulator "Gosod yr Efelychydd">
 <!ENTITY runtimePanel_noadbhelper "Gosod ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Methu gweld eich dyfais?">
@@ -100,9 +112,7 @@
 <!ENTITY prefs_editor_title "Golygydd">
 <!ENTITY prefs_general_title "Cyffredinol">
 <!ENTITY prefs_restore "Adfer y Rhagosodiadau">
-<!ENTITY prefs_simulators "Rheoli Efelychwyr">
-<!ENTITY prefs_options_enablelocalruntime "Galluogi amser rhedeg lleol">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Caniatáu i WebIDE i gysylltu i'w amser rhedeg (rhedeg enghraifft o'r porwr)">
+
 <!ENTITY prefs_options_rememberlastproject "Cofio'r project diwethaf">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Adfer y project diwethaf wrth gychwyn WebIDE">
 <!ENTITY prefs_options_templatesurl "URL templedi">
@@ -133,6 +143,15 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Breintiau cyfyngedig DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "gofyn am freintiau uwch">
 <!ENTITY runtimedetails_privilegesWarning "(Ailgychwyn y ddyfais. Angen mynediad isradd.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitro">

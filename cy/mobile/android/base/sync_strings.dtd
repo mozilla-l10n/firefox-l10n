@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Mae dolen dilysu wedi ei anfon at &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ail anfon e-bost">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Anfonwyd yr e-bost dilysu">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Methu anfon yr e-bost dilysu">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
 <!ENTITY fxaccount_status_auth_server "Gweinydd cyfrif">
+
+
 <!ENTITY fxaccount_status_device_name "Enw dyfais">
 <!ENTITY fxaccount_status_sync_server "Gweinydd cydweddu">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

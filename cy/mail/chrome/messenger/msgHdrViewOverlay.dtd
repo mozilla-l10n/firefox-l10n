@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Dangos Ateb i Anfonwr Bob Tro">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "B">
 
-<!ENTITY otherActionsButton1.label "Gweithredoedd Eraill">
+<!ENTITY otherActionsButton2.label "Rhagor">
+
 <!ENTITY otherActionsOpenConversation1.label "Agor mewn Trafodaeth">
 <!ENTITY otherActionsOpenConversation1.accesskey "T">
 <!ENTITY otherActionsOpenInNewWindow1.label "Agor Ffenestr Newydd">

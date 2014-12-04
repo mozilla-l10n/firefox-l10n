@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Dangos Cwcis…">
 <!ENTITY showCookies.accesskey "D">
 
-<!ENTITY dntTrackingNopref.label2 "Dweud dim wrth wefannau am fy newisiadau tracio">
-<!ENTITY dntTrackingNopref.accesskey "d">
 <!ENTITY dntTrackingNotOkay.label2 "Dweud wrth wefannau nad wyf am gael fy nilyn">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Dweud wrth wefannau rwyf am gael fy nilyn">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Dysgu rhagor am Peidiwch Tracio">
-
