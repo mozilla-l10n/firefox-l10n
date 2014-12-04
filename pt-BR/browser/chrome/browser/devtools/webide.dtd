@@ -145,6 +145,8 @@
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Obrigatório acesso root.)">
 <!-- Device Preferences -->
 
+<!ENTITY devicepreferences_title "Preferência do dispositivo">
+<!ENTITY devicepreferences_search "Preferências de pesquisa">
 
 
 
