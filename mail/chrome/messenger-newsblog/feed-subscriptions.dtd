@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Tanysgrifiad Llif">
-<!ENTITY subscriptionDesc.label      "Sylw: Ni fydd tynnu neu newid y ffolder llif yn effeithio ar yr erthyglau sydd wedi'u llwytho i lawr eisoes.">
+
 
 <!ENTITY feedTitle.label             "Teitl:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL Llif:">
 <!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i Ychwanegu">
+<!ENTITY locationValidate.label      "Dilysu">
+<!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
 <!ENTITY feedFolder.label            "Cadw erthyglau yn:">
 <!ENTITY feedFolder.accesskey        "e">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Rhagosod tagiau gyda:">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Rhoi rhagosodiad tag">
-
-<!ENTITY locationValidate.label      "Dilysu">
-<!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
 <!ENTITY button.addFeed.label        "Ychwanegu">
 <!ENTITY button.addFeed.accesskey    "Y">

@@ -136,8 +136,8 @@ gwnewch yn siŵr fod gan &brandShortName; hawl i fynediad i'r we.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Gall gyflwyno gwybodaeth bersonol ar y dudalen hon arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
 <p>Mae'r math yma o dwyll ar y we yn cael eu defnyddio ar gyfer ymosodiad pysgota neu phishing attacks, lle mae tudalennau gwe neu e-byst twyllodrus yn cael eu defnyddio i efelychu ffynonellau rydych yn ymddiried ynddynt.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
+<!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
+<!ENTITY cspBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
 <!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych y ceisio ei gweld oherwydd bu canfuwyd gwall wrth drosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
@@ -156,6 +156,14 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+
+
+<!ENTITY errorReporting.learnMore "Dysgu rhagor…">
+
+
+
+
 
 <!ENTITY remoteXUL.title "XUL pell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">

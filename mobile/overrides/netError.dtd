@@ -145,8 +145,8 @@ mai gwall dros dro ydyw ac i geisio eto.</li>
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
+<!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
+<!ENTITY cspBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
 <!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">

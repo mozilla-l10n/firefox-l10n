@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Arferol">
 <!ENTITY priority.level.normal.accesskey    "A">
 <!ENTITY priority.level.high                "Uchel">
-<!ENTITY priority.level.high.accesskey      "U">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 Awr">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "1">
@@ -243,6 +243,12 @@
 <!ENTITY calendar.context.export.accesskey             "A">
 <!ENTITY calendar.context.properties.label             "Priodweddau">
 <!ENTITY calendar.context.properties.accesskey         "P">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Trosi i">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

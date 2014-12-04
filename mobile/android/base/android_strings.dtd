@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
-<!ENTITY pref_donottrack_menu "Tracio">
-<!ENTITY pref_donottrack_disallow_tracking "Dweud wrth wefannau: dim tracio">
-<!ENTITY pref_donottrack_allow_tracking "Dweud wrth wefannau rwyf am gael fy nrhacio">
-<!ENTITY pref_donottrack_no_pref "Dweud dim wrth wefannau am fy newisiadau tracio">
+
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
+
+
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Sync">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
 
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
-<!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
 <!ENTITY reading_list_duplicate "Tudalen eisoes ar eich Rhestr Ddarllen">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,8 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ychwanegu gwefan">
-
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "Hanes">
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
@@ -395,6 +398,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
 <!ENTITY home_open_all "Agor y cyfan">
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +467,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sy\u0027n cael ei redeg gan">
+<!ENTITY identity_no_info "Nid yw\u0027r wefan yn darparu gwybodaeth hunaniaeth.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Mae\u0027r dudalen yn dangos cynnwys nad yw\u0027n ddiogel.">
 <!ENTITY blocked_mixed_content_message_top "Mae &brandShortName; wedi rhwystro cynnwys nad yw\u0027n ddiogel.">
 <!ENTITY blocked_mixed_content_message_bottom "Bydd y rhan fwyaf o wefannau yn gweithio hyd yn oed pan fydd y cynnwys wedi ei rwystro.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Dysgu Rhagor">
 <!ENTITY enable_protection "Galluogi diogelu">
 <!ENTITY disable_protection "Analluogi diogelu">
@@ -494,8 +507,6 @@ o Android">
 <!ENTITY webapp_generic_name "Ap">
 
 <!ENTITY searchable_description "Nodau Tudalen a hanes">
-
-<!ENTITY devtools_remote_debugging_forward "Peidiwch anghofio gosod blaenyrru porth!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
@@ -535,7 +546,7 @@ o Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Dewislen">
@@ -548,3 +559,8 @@ o Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Cydweddwyd diwethaf: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
