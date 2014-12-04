@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Fræðast meira">
 <!ENTITY doNotTrackInfo.label           "Fræðast meira">
 
+<!ENTITY  history.label                 "Ferill">
 
 <!ENTITY  locationBar.label             "Staðsetningarslá">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Þegar ég nota staðsetningarslá, stinga upp á:">
+<!ENTITY  locbar.history.label          "Ferill">
+<!ENTITY  locbar.history.accesskey      "F">
+<!ENTITY  locbar.bookmarks.label        "Bókamerki">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Opnir flipar">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Þiggja smákökur frá vefsvæðum">
 <!ENTITY  acceptCookies.accesskey       "Þ">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
 
-
+<!ENTITY  keepUntil.label               "Eiga þangað til:">
+<!ENTITY  keepUntil.accesskey           "E">
 
 <!ENTITY  expire.label                  "þær renna út">
 <!ENTITY  close.label                   "ég loka &brandShortName;">
