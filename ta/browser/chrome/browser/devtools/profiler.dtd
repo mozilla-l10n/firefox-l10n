@@ -14,18 +14,20 @@
 
 
 <!ENTITY profilerUI.emptyNotice1    "மேல் சொடுக்கு">
-
+<!ENTITY profilerUI.emptyNotice2    "JavaScript செயல் அழைப்புகளை பதிவுச் செய்ய தொடங்குவதற்கான பொத்தான்">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
 <!ENTITY profilerUI.stopNotice1    "மேல் சொடுக்கு">
-
+<!ENTITY profilerUI.stopNotice2    "விரங்களை நிறுத்துவதற்கான பொத்தான்.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "ஏற்றுகிறது…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "JavaScript செயல் அழைப்புகளைப் பதியவும்.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -36,6 +38,8 @@
 <!ENTITY profilerUI.clearButton "துடை">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "அழைப்பு வரிசைகளை தலை கீழாக்கு">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
