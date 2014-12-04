@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Paste Inner HTML">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -39,28 +41,32 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Líma…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "L">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Paste…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
-<!ENTITY inspectorHTMLPasteBefore.label      "Fyrir">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "F">
+<!ENTITY inspectorHTMLPasteBefore.label      "Before">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
-<!ENTITY inspectorHTMLPasteAfter.label       "Eftir">
-<!ENTITY inspectorHTMLPasteAfter.accesskey   "E">
+<!ENTITY inspectorHTMLPasteAfter.label       "After">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "As First Child">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "As Last Child">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
