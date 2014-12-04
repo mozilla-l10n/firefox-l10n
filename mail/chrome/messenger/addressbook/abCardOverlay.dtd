@@ -24,24 +24,24 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Ime:">
-<!ENTITY NameField1.accesskey           "I">
+<!ENTITY NameField1.accesskey           "m">
 <!ENTITY NameField2.label               "Priimek:">
 <!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Fonetično:">
 <!ENTITY PhoneticField2.label           "Fonetično:">
 <!ENTITY DisplayName.label              "Prikaži:">
-<!ENTITY DisplayName.accesskey          "P">
+<!ENTITY DisplayName.accesskey          "r">
 <!ENTITY preferDisplayName.label        "Daj prednost prikazanemu imenu namesto glavi sporočila">
-<!ENTITY preferDisplayName.accesskey    "D">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Vzdevek:">
-<!ENTITY NickName.accesskey             "k">
+<!ENTITY NickName.accesskey             "V">
 
 <!ENTITY PrimaryEmail.label             "E-pošta:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Dodatna E-pošta:">
-<!ENTITY SecondEmail.accesskey          "š">
-<!ENTITY PreferMailFormat.label         "Raje prejema sporočila v obliki:">
-<!ENTITY PreferMailFormat.accesskey     "p">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Priljubljena oblika prejemanja sporočil:">
+<!ENTITY PreferMailFormat.accesskey     "u">
 <!ENTITY PlainText.label                "Golo besedilo">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznano">
@@ -67,15 +67,15 @@
 <!ENTITY HomeCity.label                 "Kraj:">
 <!ENTITY HomeCity.accesskey             "K">
 <!ENTITY HomeState.label                "Zv. država/provinca:">
-<!ENTITY HomeState.accesskey            "ž">
+<!ENTITY HomeState.accesskey            "Z">
 <!ENTITY HomeZipCode.label              "Poštna številka:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Država:">
-<!ENTITY HomeCountry.accesskey          "ž">
+<!ENTITY HomeCountry.accesskey          "D">
 <!ENTITY HomeWebPage.label              "Spletna stran:">
 <!ENTITY HomeWebPage.accesskey          "S">
 <!ENTITY Birthday.label                 "Datum rojstva:">
-<!ENTITY Birthday.accesskey             "D">
+<!ENTITY Birthday.accesskey             "a">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Leto">
 <!ENTITY Or.value                       "ali">
@@ -133,9 +133,9 @@
 <!ENTITY MSN.label                      "MSN:">
 <!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
-<!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "&amp;ID Jabber:">
-<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY ICQ.accesskey                  "C">
+<!ENTITY XMPP.label                     "ID Jabber:">
+<!ENTITY XMPP.accesskey                 "a">
 <!ENTITY IRC.label                      "Vzdevek za IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
@@ -146,7 +146,7 @@
 <!ENTITY GenericPhoto.accesskey         "S">
 <!ENTITY DefaultPhoto.label             "Privzeto">
 <!ENTITY PhotoFile.label                "Na tem računalniku">
-<!ENTITY PhotoFile.accesskey            "r">
+<!ENTITY PhotoFile.accesskey            "e">
 <!ENTITY BrowsePhoto.label              "Brskaj">
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "Na spletu">

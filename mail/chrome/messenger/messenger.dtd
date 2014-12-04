@@ -272,10 +272,10 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "r">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Išči po sporočilih …">
+<!ENTITY searchMailCmd.label "Išči sporočila …">
 <!ENTITY searchMailCmd.accesskey "s">
 <!ENTITY searchMailCmd.key "i">
-<!ENTITY searchAddressesCmd.label "Išči po naslovih …">
+<!ENTITY searchAddressesCmd.label "Išči naslove …">
 <!ENTITY searchAddressesCmd.accesskey "n">
 <!-- Go Menu -->
 
