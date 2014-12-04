@@ -158,13 +158,13 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Tilkynna villu">
-
-
+<!ENTITY errorReporting.longDesc "Að tilkynna slóðina og skilríkið fyrir <span id='hostname'></span> mun hjálpa okkur að bera kennsl á og loka á hættuleg vefsvæði. Takk fyrir að hjálpa okkur að búa til öruggari vef!">
+<!ENTITY errorReporting.automatic "Tilkynna sjálfvirkt villur í framtíðinni">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
-
-
-
-
+<!ENTITY errorReporting.sending "Sendi skýrslu">
+<!ENTITY errorReporting.sent "Skýrsla send">
+<!ENTITY errorReporting.report "Skýrsla">
+<!ENTITY errorReporting.tryAgain "Reyndu aftur">
 
 <!ENTITY remoteXUL.title "Fjarlægt XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
