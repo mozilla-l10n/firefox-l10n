@@ -5,11 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Información para solucionar problemas">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "Esta páxina contén información técnica que pode serlle útil cando tente solucionar un problema. Se está buscando respostas a preguntas frecuentes sobre o &brandShortName;, visite o noso <a id='supportLink'>sitio web de asistencia</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Informes de erro">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -94,4 +90,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto ao portapapeis">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo ao portapapeis">
 
-<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+

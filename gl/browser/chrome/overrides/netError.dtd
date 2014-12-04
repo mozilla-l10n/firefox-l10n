@@ -126,7 +126,7 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "Informar deste erro">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
+
 <!ENTITY errorReporting.automatic "Informar automaticamente de erros no futuro">
 <!ENTITY errorReporting.learnMore "Obter máis información…">
 <!ENTITY errorReporting.sending "Enviando informe">
