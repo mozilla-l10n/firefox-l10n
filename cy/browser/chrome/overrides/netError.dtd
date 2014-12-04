@@ -157,13 +157,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Adrodd ar y gwall hwn">
+<!ENTITY errorReporting.longDesc "Bydd adrodd ar gyfeiriad a manylion tystysgrif <span id='hostname'></span> yn ein cynorthwyo i adnabod a rhwystro gwefannau maleisus. Diolch am helpu i greu gwe fwy diogel!">
+<!ENTITY errorReporting.automatic "Adrodd gwallau'n awtomatig yn y dyfodol">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
-
-
-
-
+<!ENTITY errorReporting.sending "Anfon adroddiad">
+<!ENTITY errorReporting.sent "Adroddiad wedi ei anfon">
+<!ENTITY errorReporting.report "Adroddiad">
+<!ENTITY errorReporting.tryAgain "Ceisiwch eto">
 
 <!ENTITY remoteXUL.title "XUL pell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">

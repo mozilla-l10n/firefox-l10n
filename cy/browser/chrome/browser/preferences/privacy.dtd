@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Dysgu rhagor">
 <!ENTITY doNotTrackInfo.label           "Dysgu Rhagor">
 
+<!ENTITY  history.label                 "Hanes">
 
 <!ENTITY  locationBar.label             "Bar Lleoliad">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Pan yn defnyddio'r bar lleoliad, cynnig:">
+<!ENTITY  locbar.history.label          "Hanes">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
+<!ENTITY  locbar.bookmarks.accesskey    "N">
+<!ENTITY  locbar.openpage.label         "Agor tabiau">
+<!ENTITY  locbar.openpage.accesskey     "A">
 
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
 
-
+<!ENTITY  keepUntil.label               "Cadw tan:">
+<!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "byddant yn dod i ben">
 <!ENTITY  close.label                   "Cau &brandShortName;">

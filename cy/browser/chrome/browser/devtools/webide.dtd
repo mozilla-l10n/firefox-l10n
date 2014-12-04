@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Agor Ap…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Gosod a Rhedeg">
-
+<!ENTITY projectMenu_play_accesskey "G">
 <!ENTITY projectMenu_stop_label "Atal yr App">
 <!ENTITY projectMenu_stop_accesskey "t">
 <!ENTITY projectMenu_debug_label "Dadfygio App">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "T">
 <!ENTITY projectMenu_showPrefs_label "Dewisiadau">
 <!ENTITY projectMenu_showPrefs_accesskey "D">
-
-
+<!ENTITY projectMenu_manageComponents_label "Rheoli Cydrannau Ychwanegol">
+<!ENTITY projectMenu_manageComponents_accesskey "R">
 
 <!ENTITY runtimeMenu_label "Amser rhedeg">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "G">
 <!ENTITY runtimeMenu_showMonitor_label "Monitro">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Dewisiadau'r Ddyfais">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Golwg">
 <!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Toglo'r Golygydd">
 <!ENTITY viewMenu_toggleEditor_accesskey "T">
 <!ENTITY viewMenu_zoomin_label "Chwyddo Mewn">
-
+<!ENTITY viewMenu_zoomin_accesskey "D">
 <!ENTITY viewMenu_zoomout_label "Chwyddo Allan">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Ailosod Chwyddo">
+<!ENTITY viewMenu_resetzoom_accesskey "A">
 
 <!ENTITY projectButton_label "Agor yr Ap">
 <!ENTITY runtimeButton_label "Dewis yr Amser Rhedeg">
@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projectau">
 <!ENTITY projectPanel_runtimeApps "Apiau Amser Rhedeg">
@@ -112,7 +113,7 @@
 <!ENTITY prefs_editor_title "Golygydd">
 <!ENTITY prefs_general_title "Cyffredinol">
 <!ENTITY prefs_restore "Adfer y Rhagosodiadau">
-
+<!ENTITY prefs_manage_components "Rheoli Cydrannau Ychwanegol">
 <!ENTITY prefs_options_rememberlastproject "Cofio'r project diwethaf">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Adfer y project diwethaf wrth gychwyn WebIDE">
 <!ENTITY prefs_options_templatesurl "URL templedi">
@@ -145,13 +146,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Ailgychwyn y ddyfais. Angen mynediad isradd.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Dewisiadau'r Ddyfais">
+<!ENTITY devicepreferences_search "Dewisiadau chwilio">
+<!ENTITY devicepreferences_newname "Enw'r dewis newydd">
+<!ENTITY devicepreferences_newtext "Gwerth y dewis">
+<!ENTITY devicepreferences_addnew "Ychwanegu dewis newydd">
+<!ENTITY devicepreferences_typeboolean "Booleaidd">
+<!ENTITY devicepreferences_typenumber "Cyfanrif">
+<!ENTITY devicepreferences_typestring "Llinyn">
+<!ENTITY devicepreferences_typenone "Dewis math">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitro">
