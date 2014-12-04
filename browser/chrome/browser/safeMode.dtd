@@ -11,4 +11,5 @@
 <!ENTITY safeModeDescription3.label   "حالت ایمن یک حالت ویژه برای &brandShortName; است که از آن برای رفع مشکلات استفاده میشود.">
 <!ENTITY safeModeDescription4.label   "افزونه ها و تنظیمات شما برای مدتی غیر فعال میگردند.">
 
+<!ENTITY refreshProfileInstead.label  "شما میتوانید از مرحله عیبگیری صرف نظر کرده و &brandShortName; را بازآوری کنید. ">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
