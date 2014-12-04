@@ -85,16 +85,16 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "O"> 
 <!ENTITY menubarCmd.label                               "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Orodna vrstica za imenik">
-<!ENTITY showAbToolbarCmd.accesskey                     "e">
+<!ENTITY showAbToolbarCmd.label                         "Orodna vrstica imenika">
+<!ENTITY showAbToolbarCmd.accesskey                     "O">
 <!ENTITY showTaskbarCmd.label                           "Vrstica stanja">
-<!ENTITY showTaskbarCmd.accesskey                       "s">
+<!ENTITY showTaskbarCmd.accesskey                       "a">
 <!ENTITY customizeToolbar.label                         "Prilagodi …">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY layoutMenu.label                               "Razporeditev">
 <!ENTITY layoutMenu.accesskey                           "R">
 <!ENTITY showDirectoryPane.label                        "Podokno za kazalo">
-<!ENTITY showDirectoryPane.accesskey                    "k">
+<!ENTITY showDirectoryPane.accesskey                    "z">
 <!ENTITY showContactPane2.label                         "Podokno za stike">
 <!ENTITY showContactPane2.accesskey                     "s">
 <!ENTITY menu_ShowNameAs.label                          "Prikaži ime kot">
@@ -160,43 +160,43 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Hitro Iskanje">
 <!-- Results Pane -->
 
-<!ENTITY GeneratedName.label                            "Ime">
+<!ENTITY GeneratedName.label                            "Imenu">
 <!ENTITY GeneratedName.accesskey                        "m">
-<!ENTITY PrimaryEmail.label                             "E-pošta">
+<!ENTITY PrimaryEmail.label                             "E-pošti">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Ime za klepet">
+<!ENTITY ChatName.label                                 "Imenu za klepet">
 <!ENTITY ChatName.accesskey                             "k">
-<!ENTITY Company.label                                  "Organizacija">
+<!ENTITY Company.label                                  "Organizaciji">
 <!ENTITY Company.accesskey                              "O">
-<!ENTITY NickName.label                                 "Vzdevek">
+<!ENTITY NickName.label                                 "Vzdevku">
 <!ENTITY NickName.accesskey                             "V">
-<!ENTITY SecondEmail.label                              "Dodatna e-pošta">
+<!ENTITY SecondEmail.label                              "Dodatni e-pošti">
 <!ENTITY SecondEmail.accesskey                          "D">
-<!ENTITY Department.label                               "Oddelek">
+<!ENTITY Department.label                               "Oddelku">
 <!ENTITY Department.accesskey                           "e">
-<!ENTITY JobTitle.label                                 "Naziv">
+<!ENTITY JobTitle.label                                 "Nazivu">
 <!ENTITY JobTitle.accesskey                             "N">
-<!ENTITY CellularNumber.label                           "Mobilnik">
+<!ENTITY CellularNumber.label                           "Mobilniku">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pozivnik">
+<!ENTITY PagerNumber.label                              "Pozivniku">
 <!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Faks">
+<!ENTITY FaxNumber.label                                "Faksu">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Telefon doma">
-<!ENTITY HomePhone.accesskey                            "d">
-<!ENTITY WorkPhone.label                                "Telefon v službi">
+<!ENTITY HomePhone.label                                "Telefonu doma">
+<!ENTITY HomePhone.accesskey                            "a">
+<!ENTITY WorkPhone.label                                "Telefonu v službi">
 <!ENTITY WorkPhone.accesskey                            "s">
 <!ENTITY sortAscending.label                            "Naraščajoče">
 <!ENTITY sortAscending.accesskey                        "N">
 <!ENTITY sortDescending.label                           "Padajoče">
-<!ENTITY sortDescending.accesskey                       "a">
-<!ENTITY _PhoneticName.label                            "Fonetično ime">
+<!ENTITY sortDescending.accesskey                       "č">
+<!ENTITY _PhoneticName.label                            "Fonetičnem imenu">
 <!ENTITY _PhoneticName.accesskey                        "F">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
 <!ENTITY contact.heading                                "Stik">
-<!ENTITY home.heading                                   "Domov">
+<!ENTITY home.heading                                   "Doma">
 <!ENTITY other.heading                                  "Drugo">
 <!ENTITY chat.heading                                   "Klepet">
 <!ENTITY phone.heading                                  "Telefon">
