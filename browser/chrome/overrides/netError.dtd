@@ -182,7 +182,7 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "Rapporter denne fejl">
-<!ENTITY errorReporting.longDesc "Når du rapporterer adressen og certifikat-information for <span id='hostname'></span> hjælper det os med at identificere og blokere farlige websteder. Tak fordi du er med at sørge for et mere sikkert internet!">
+<!ENTITY errorReporting.longDesc "Når du rapporterer adressen og certifikat-information for <span id='hostname'></span> hjælper det os med at identificere og blokere farlige websteder. Tak fordi du er med til at sørge for et mere sikkert internet!">
 <!ENTITY errorReporting.automatic "Rapporter fejl automatisk i fremtiden">
 <!ENTITY errorReporting.learnMore "Læs mere…">
 <!ENTITY errorReporting.sending "Sender rapport">
