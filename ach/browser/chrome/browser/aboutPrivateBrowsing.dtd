@@ -3,14 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Itye ka yeny i mung">
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "Yab dirica me mung?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; pe bi po ikom gin mukato mo keken pi dirica man.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; pe bi po ikom gin mukato mo keken pi dirica me mung.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Meno i kine tye gin mukato me layeny, gin mukato me yeny, gin mukato me gam, gin mukato me pwom me kakube, coc ma kigwoko, ki pwail me intanet pi tutunu. Ento kono, pwail ma i bigamo ki alama pot buk ma i keto ki bigwoko.">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Kombedi pe itye i dirica me mung.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Kun komputa man pe twero bedo ki ricod me yeny mamegi mukato, ngat ma miyi intanet onyo tic romo lubo kor pot buk ma ilimo.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Nong ngec mapol.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
