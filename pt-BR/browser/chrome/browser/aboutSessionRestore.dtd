@@ -32,7 +32,7 @@
 <!ENTITY welcomeback2.tabtitle      "Sucesso!">
 
 <!ENTITY welcomeback2.pageTitle     "Sucesso!">
-<!ENTITY welcomeback2.pageInfo1     "O &BrandShortName; está pronto.">
+<!ENTITY welcomeback2.pageInfo1     "O &brandShortName; está pronto.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurar todas as janelas e abas">
 <!ENTITY welcomeback2.label.restoreSome "Restaurar apenas aquelas que você deseja">
