@@ -75,7 +75,7 @@
 <!ENTITY inspectorHTMLDelete.label          "Slet node">
 <!ENTITY inspectorHTMLDelete.accesskey      "n">
 
-<!ENTITY inspector.selectButton.tooltip     "Væl element med musen">
+<!ENTITY inspector.selectButton.tooltip     "Vælg element med musen">
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
      the placeholder in inspector search box -->
