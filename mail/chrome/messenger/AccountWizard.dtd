@@ -21,7 +21,7 @@
 
 
 <!ENTITY identityTitle.label "Identiteta">
-<!ENTITY identityDesc.label "Vsak račun ima identiteto, to je informacijo, ki vas identificira pri prejemnikih vaših sporočil.">
+<!ENTITY identityDesc.label "Vsak račun ima identiteto, to je podatek, ki vas istoveti pri prejemnikih vaših sporočil.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
 <!ENTITY fullnameDesc.label "Vnesite ime, ki ga želi videti v polju &quot;Od&quot; pri pošiljanju sporočil">
