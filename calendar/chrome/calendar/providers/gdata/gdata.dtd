@@ -10,4 +10,8 @@
 <!ENTITY gdata.migration.upgrade.label "Uppfæra">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Alltaf athuga ">
+<!ENTITY gdata.reminder.default "Sjálfgefin áminning">
 <!ENTITY gdata.reminder.action.sms.label "Senda texta skilaboð">
+<!ENTITY gdata.wizard.session.description "Veldu lotu sem er til fyrir eða sláðu inn tölvupóstfang til að búa til nýja lotu. Þú þarft aðeins eina lotu per reikning.">
+<!ENTITY gdata.wizard.calendars.description "Veldu þau dagatöl og verkefnalista sem þú vilt gerast áskrifandi að.">
+<!ENTITY gdata.wizard.nextstep.description "Farðu áfram á næsta skref til að setja upp dagatölin.">

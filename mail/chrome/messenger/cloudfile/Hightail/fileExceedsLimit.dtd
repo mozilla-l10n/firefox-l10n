@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile "Að senda skrár yfir 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2 "er plús eiginleiki.">
-<!ENTITY fileExceedsLimit.accept "Uppfæra">
-<!ENTITY fileExceedsLimit.cancel "Hætta við">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Ekki er hægt að senda stærri skrár en 50 MB fyrir venjulegan reikning.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Uppfærðu núna til að geta sent þessa skrá og einnig:">
-<!ENTITY fileExceedsLimit.pros1 "Senda skrá og möppur allt að 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Geyma ótakmarkað fjölda af skrám á netinu">
-<!ENTITY fileExceedsLimit.pros3 "Fá aðgang og deila skrám hvert sem er">

@@ -29,10 +29,6 @@
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Sýna smákökur…">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY dntTrackingNopref.label2 "Ekki segja vefsvæðum frá því hvort ég hef valið að láta fylgjast með mér">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Segja vefsvæðum að ég vilji láta fylgjast með mér">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Fræðast meira um fylgjast ekki með">

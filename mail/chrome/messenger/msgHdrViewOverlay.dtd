@@ -45,7 +45,8 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltaf sýna svar til sendanda">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
-<!ENTITY otherActionsButton1.label "Aðrar aðgerðir">
+<!ENTITY otherActionsButton2.label "Meira">
+<!ENTITY otherActionsButton.tooltip "Fleiri aðgerðir">
 <!ENTITY otherActionsOpenConversation1.label "Opna í samtali">
 <!ENTITY otherActionsOpenConversation1.accesskey "s">
 <!ENTITY otherActionsOpenInNewWindow1.label "Opna í nýjum glugga">
