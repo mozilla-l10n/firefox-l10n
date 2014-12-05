@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY doNotTrackInfo.label           "Barrachd fiosrachaidh">
 
+<!ENTITY  history.label                 "Eachdraidh">
 
 <!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh:">
+<!ENTITY  locbar.history.label          "Eachdraidh">
+<!ENTITY  locbar.history.accesskey      "h">
+<!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
+<!ENTITY  locbar.bookmarks.accesskey    "o">
+<!ENTITY  locbar.openpage.label         "Fosgail tabaichean">
+<!ENTITY  locbar.openpage.accesskey     "o">
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
 <!ENTITY  acceptCookies.accesskey       "a">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Chan ann idir">
 <!ENTITY  acceptThirdParty.visited.label  "O fheadhainn air an deach tadhal">
 
-
+<!ENTITY  keepUntil.label               "Cum gus:">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "am falbh an ùine orra">
 <!ENTITY  close.label                   "an dùin mi &brandShortName;">
