@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Chaidh ceangal dearbhaidh a chur gu &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Cuir am post-d a-rithist">
-
+<!ENTITY fxaccount_confirm_account_change_email "A bheil airson ’s gun leig sinn am post-d seo air dìochuimhne?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Chaidh am post-d dearbhaidh a chur">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Cha b\u0027 urrainn dhuinn am post-d dearbhaidh a chur">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
 <!ENTITY fxaccount_status_auth_server "Frithealaiche a\u0027 chunntais">
-
-
+<!ENTITY fxaccount_status_sync_now "Sioncronaich an-dràsta">
+<!ENTITY fxaccount_status_syncing2 "’Ga shioncronachadh...">
 <!ENTITY fxaccount_status_device_name "Ainm an uidheim">
 <!ENTITY fxaccount_status_sync_server "Frithealaiche an t-sioncronachaidh">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
