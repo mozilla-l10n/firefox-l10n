@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Stebėjimas">
 
-<!ENTITY dntTrackingNopref.label2       "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
-<!ENTITY dntTrackingNopref.accesskey    "e">
 <!ENTITY dntTrackingNotOkay.label2      "Nurodyti svetainėms, kad jos jūsų nestebėtų">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Nurodyti svetainėms, kad jos jus stebėtų">
-<!ENTITY dntTrackingOkay.accesskey      "s">
 <!ENTITY trackingProtection.label       "Neleisti svetainėms jus stebėti">
 <!ENTITY trackingProtection.accesskey   "a">
 <!ENTITY trackingProtectionLearnMore.label "Sužinoti daugiau">
 <!ENTITY doNotTrackInfo.label           "Sužinoti daugiau">
 
-<!ENTITY  history.label                 "Žurnalas">
 
 <!ENTITY  locationBar.label             "Adreso laukas">
 
-<!ENTITY  locbar.pre.label              "Rašant adreso lauke, siūlyti tinklalapius iš:">
-<!ENTITY  locbar.pre.accessKey          "d">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "žurnalo ir adresyno">
-<!ENTITY  locbar.history.label          "žurnalo">
-<!ENTITY  locbar.bookmarks.label        "adresyno">
-<!ENTITY  locbar.nothing.label          "nesiūlyti">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "L">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
 
-<!ENTITY  keepUntil.label               "Laikyti iki:">
-<!ENTITY  keepUntil.accesskey           "k">
+
 
 <!ENTITY  expire.label                  "jų galiojimo laiko pabaigos">
 <!ENTITY  close.label                   "„&brandShortName;“ seanso pabaigos">

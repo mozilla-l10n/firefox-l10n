@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Norint siųsti didesnius nei 50 MB failus,">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "reikalinga premium paskyra.">
-<!ENTITY fileExceedsLimit.accept "Plėtoti">
-<!ENTITY fileExceedsLimit.cancel "Atsisakyti">
+
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Plėtokite paskyrą dabar ir galėsite ne tik išsiųsti šį failą, bet ir:">
-<!ENTITY fileExceedsLimit.pros1 "Siųsti iki 2GB dydžio failus ir aplankus">
-<!ENTITY fileExceedsLimit.pros2 "Laikyti neribotą failų kiekį">
-<!ENTITY fileExceedsLimit.pros3 "Prieiti prie failų iš bet kur ir jais dalintis">
