@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.accesskey "F">
 <!ENTITY feedsMenu.label "Tanysgrifio">
 <!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen">
-<!ENTITY subscribeToPageMenuitem.label "Tanysgrifo i'r Dudalen Hon…">
+<!ENTITY subscribeToPageMenuitem.label "Tanysgrifio i'r Dudalen Hon…">
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY unsortedBookmarksCmd.label "Nodau Tudalen heb eu Trefnu">
