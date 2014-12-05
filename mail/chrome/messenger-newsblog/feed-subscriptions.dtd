@@ -4,13 +4,15 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnements aux flux">
-<!ENTITY subscriptionDesc.label      "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
+<!ENTITY learnMore.label             "En savoir plus à propos des flux">
 <!ENTITY feedTitle.label             "Titre :">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Adresse du flux : ">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Saisir une adresse de flux valide à ajouter">
+<!ENTITY locationValidate.label      "Valider">
+<!ENTITY validateText.label          "Vérifier la validité de l'adresse du flux.">
 
 <!ENTITY feedFolder.label            "Conserver les articles du flux dans : ">
 <!ENTITY feedFolder.accesskey        "C">
@@ -23,9 +25,6 @@
 <!ENTITY autotagUsePrefix.label      "Préfixer les étiquettes avec :">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Saisir un préfixe d'étiquette">
-
-<!ENTITY locationValidate.label      "Valider">
-<!ENTITY validateText.label          "Vérifier la validité de l'adresse du flux.">
 
 <!ENTITY button.addFeed.label        "Ajouter">
 <!ENTITY button.addFeed.accesskey    "A">
