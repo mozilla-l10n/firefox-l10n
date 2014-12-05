@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Rodyti slapukus…">
 <!ENTITY showCookies.accesskey "R">
 
-<!ENTITY dntTrackingNopref.label2 "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
-<!ENTITY dntTrackingNopref.accesskey "e">
 <!ENTITY dntTrackingNotOkay.label2 "Nurodyti svetainėms, kad jos jūsų nestebėtų">
 <!ENTITY dntTrackingNotOkay.accesskey "N">
-<!ENTITY dntTrackingOkay.label2 "Nurodyti svetainėms, kad jos jus stebėtų">
-<!ENTITY dntTrackingOkay.accesskey "u">
 <!ENTITY doNotTrackInfo.label "Sužinoti daugiau apie „Nestebėti“ („Do Not Track“) antraštę">
-

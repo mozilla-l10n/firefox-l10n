@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Sklaidos kanalų prenumerata">
-<!ENTITY subscriptionDesc.label      "Dėmesio! Prenumeratos aplanko pakeitimas ar pašalinimas negalioja jau parsiųstiems straipsniams.">
+
 
 <!ENTITY feedTitle.label             "Pavadinimas:">
 <!ENTITY feedTitle.accesskey         "v">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Kanalo URL: ">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Įveskite galiojantį sklaidos kanalo adresą">
+<!ENTITY locationValidate.label      "Patikrinti">
+<!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 
 <!ENTITY feedFolder.label            "Kanalo straipsnius laikyti aplanke:">
 <!ENTITY feedFolder.accesskey        "K">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Gairėms suteikti prefiksą:">
 <!ENTITY autotagUsePrefix.accesskey  "s">
 <!ENTITY autoTagPrefix.placeholder   "Įveskite gairių prefiksą">
-
-<!ENTITY locationValidate.label      "Patikrinti">
-<!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 
 <!ENTITY button.addFeed.label        "Pridėti">
 <!ENTITY button.addFeed.accesskey    "P">

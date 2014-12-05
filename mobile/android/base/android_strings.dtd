@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
-<!ENTITY pref_donottrack_menu "Stebėjimas">
-<!ENTITY pref_donottrack_disallow_tracking "Nurodyti svetainėms, kad jos jūsų nestebėtų">
-<!ENTITY pref_donottrack_allow_tracking "Nurodyti svetainėms, kad jos jus stebėtų">
-<!ENTITY pref_donottrack_no_pref "Neinformuoti svetainių apie jūsų požiūrį į stebėjimą">
+
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą.">
+
+
 
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
-<!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
 <!ENTITY reading_list_duplicate "Tinklalapis jau yra skaitinių sąraše">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY home_history_title "Žurnalas">
 <!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
 <!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
@@ -395,6 +400,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
 <!ENTITY home_open_all "Atverti visas">
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +469,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kurią valdo">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Šiame tinklalapyje esama įkelto neapsaugoto turinio.">
 <!ENTITY blocked_mixed_content_message_top "„&brandShortName;“ užblokavo neapsaugotą turinį.">
 <!ENTITY blocked_mixed_content_message_bottom "Dauguma svetainių veikia korektiškai net kai šis turinys blokuojamas.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Sužinoti daugiau">
 <!ENTITY enable_protection "Įgalinti apsaugą">
 <!ENTITY disable_protection "Išjungti apsaugą">
@@ -494,8 +509,6 @@ iš „Android“">
 <!ENTITY webapp_generic_name "Programa">
 
 <!ENTITY searchable_description "Adresynas ir žurnalas">
-
-<!ENTITY devtools_remote_debugging_forward "Nepamirškite nukreipti prievado!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Išleistas „&brandShortName;“ naujinimas">
@@ -535,7 +548,7 @@ iš „Android“">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Meniu">
@@ -548,3 +561,8 @@ iš „Android“">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Paskiausiai sinchronizuota: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

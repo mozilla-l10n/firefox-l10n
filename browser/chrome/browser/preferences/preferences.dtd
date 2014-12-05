@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Bendrosios">
 <!ENTITY  paneTabs.title          "Kortelės">
+
 <!ENTITY  paneContent.title       "Saitynas">
 <!ENTITY  paneApplications.title  "Programos">
 <!ENTITY  panePrivacy.title       "Privatumas">
