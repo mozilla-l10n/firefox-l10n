@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Barrachd">
-
+<!ENTITY otherActionsButton.tooltip "Barrachd ghnìomhan">
 <!ENTITY otherActionsOpenConversation1.label "Fosgail ann an còmhradh">
 <!ENTITY otherActionsOpenConversation1.accesskey "o">
 <!ENTITY otherActionsOpenInNewWindow1.label "Fosgail ann an uinneag ùr">
