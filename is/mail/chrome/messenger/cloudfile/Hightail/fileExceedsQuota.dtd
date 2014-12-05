@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached "Náði geymsutakmörkunum">
-<!ENTITY fileExceedsQuota.accept "Uppfæra">
-<!ENTITY fileExceedsQuota.cancel "Hætta við">
 <!ENTITY fileExceedsQuota.description "Þú hefur náð hámarksgeymslustærð fyrir þinn reikning sem er 2GB.">
 <!ENTITY fileExceedsQuota.description1 "Núverandi geymslunotkun er #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Uppfærðu núna í Pro Plus reikning og fáðu meira geymslusvæði.">
-<!ENTITY fileExceedsQuota.description3 "Þú getur einnig valið að eyða út skrám hjá þér til að búa til meira pláss.">

@@ -4,12 +4,14 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Straumaáskriftir">
-<!ENTITY subscriptionDesc.label "Athugið: Fjarlægja eða breyta á möppu fyrir straum mun ekki hafa áhrif á áður niðurhalaðar greinar.">
+<!ENTITY learnMore.label "Fræðast meira um strauma">
 <!ENTITY feedTitle.label "Titill:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY feedLocation.label "Straumslóð:">
 <!ENTITY feedLocation.accesskey "u">
 <!ENTITY feedLocation.placeholder "Sláðu inn löglegan straum tengil til að bæta við">
+<!ENTITY locationValidate.label "Sannreyna">
+<!ENTITY validateText.label "Athuga sannprófun og ná í rétt veffang.">
 <!ENTITY feedFolder.label "Geyma greinar í:">
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
@@ -19,8 +21,6 @@
 <!ENTITY autotagUsePrefix.label "Setja forskeyti á tög:">
 <!ENTITY autotagUsePrefix.accesskey "S">
 <!ENTITY autoTagPrefix.placeholder "Sláðu inn forskeyti fyrir tög">
-<!ENTITY locationValidate.label "Sannreyna">
-<!ENTITY validateText.label "Athuga sannprófun og ná í rétt veffang.">
 <!ENTITY button.addFeed.label "Bæta við">
 <!ENTITY button.addFeed.accesskey "æ">
 <!ENTITY button.editFeed.label "Breyta">
