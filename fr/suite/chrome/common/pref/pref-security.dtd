@@ -8,13 +8,12 @@
 <!ENTITY tracking.label                   "Pistage de l'utilisateur">
 <!ENTITY trackingIntro.label              "Les sites web peuvent pister la façon dont vous les utilisez, ce qui affecte votre vie privée.">
 
-
-<!ENTITY dntTellSites.label               "Indiquer aux sites web mes préférences de pistage">
-<!ENTITY dntTellSites.accesskey           "I">
-<!ENTITY dntTrackingNotOkay.label         "Je ne souhaite pas être pisté">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "J'accepte d'être pisté">
-<!ENTITY dntTrackingOkay.accesskey        "c">
+<!ENTITY doNotTrack.label                 "Indiquer aux sites que je ne souhaite pas être pisté">
+<!ENTITY doNotTrack.accesskey             "I">
+<!ENTITY trackProtect.label               "Empêcher les sites connus de me pister">
+<!ENTITY trackProtect.accesskey           "E">
+<!ENTITY warnTrackContent.label           "Me prévenir lorsque des tentatives de pistage sont détectées">
+<!ENTITY warnTrackContent.accesskey       "v">
 
 <!ENTITY geoLocation.label                "Navigation géolocalisée">
 <!ENTITY geoIntro.label                   "Les sites web peuvent demander des informations sur votre emplacement actuel.">
