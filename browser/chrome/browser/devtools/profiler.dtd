@@ -42,12 +42,18 @@
 <!ENTITY profilerUI.invertTree "அழைப்பு வரிசைகளை தலை கீழாக்கு">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "இளம் சட்டங்களிலிருந்து தொடங்கி பழைய சட்டங்களாக வெளிப்படும் அழைப்பு பாதை விவரக்குறிப்புகளை வரிசைகளை தழைகீழாக்குகிறது.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
-
-
+<!ENTITY profilerUI.table.totalDuration   "மொத்த நேரம் (மிவி)">
+<!ENTITY profilerUI.table.selfDuration    "சுய நேரம் (மிவி)">
+<!ENTITY profilerUI.table.totalPercentage "மொத்த பணம்">
+<!ENTITY profilerUI.table.selfPercentage  "சுய பணம்">
+<!ENTITY profilerUI.table.samples         "மாதிரிகள்">
+<!ENTITY profilerUI.table.function        "செயல்">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "தேர்விலிருந்து புதிய கீற்றை சேர்">
