@@ -156,10 +156,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
-<!ENTITY pref_donottrack_menu "การติดตาม">
-<!ENTITY pref_donottrack_disallow_tracking "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
-<!ENTITY pref_donottrack_allow_tracking "บอกเว็บไซต์ต่าง ๆ ว่าติดตามฉัน">
-<!ENTITY pref_donottrack_no_pref "ไม่ต้องบอกเว็บไซต์ต่าง ๆ ทุกอย่างที่เกี่ยวกับการตั้งค่าการติดตามของฉัน">
+
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -194,6 +191,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "หมาป่าว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการพัฒนาตามเพื่อคุณ โดยไม่มีแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
+
+
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync "Sync">
@@ -338,8 +337,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 
 <!ENTITY reading_list_added "เพิ่มหน้าเว็บเข้ารายการอ่านของคุณแล้ว">
-<!ENTITY reading_list_failed "ไม่สามารถเพิ่มหน้าเว็บเข้ารายการอ่านของคุณ">
 <!ENTITY reading_list_duplicate "หน้าเว็บนี้มีอยู่ในรายการอ่านแล้ว">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -362,7 +364,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "เพิ่มเว็บไซต์">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "หน้าหลัก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 
 
@@ -372,6 +377,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
 
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -429,11 +436,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ให้บริการโดย">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "หน้าเว็บนี้กำลังแสดงเนื้อหาที่ไม่ปลอดภัย">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัย">
 <!ENTITY blocked_mixed_content_message_bottom "เว็บไซต์ส่วนใหญ่ยังสามารถทำงานได้ถูกต้องแม้เนื้อหานี้จะถูกปิดกั้น">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "เรียนรู้เพิ่ม">
 <!ENTITY enable_protection "เปิดการปกป้อง">
 <!ENTITY disable_protection "ปิดการปกป้อง">
@@ -460,8 +475,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "แอป">
 
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติการท่องเว็บ">
-
-<!ENTITY devtools_remote_debugging_forward "อย่าลืมตั้งค่าการส่งต่อพอร์ต">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
@@ -495,7 +508,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "เมนู">
@@ -506,3 +519,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
