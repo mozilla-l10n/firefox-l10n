@@ -2,8 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "An t-einnsean-luirg bunaiteach">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Tagh einnsean-luirg bunaiteach dhut. Cleachdaidh &brandShortName; ann am bàr an t-seòlaidh, bàr nan lorg is air an duilleag mhòr e.">
+
+<!ENTITY provideSearchSuggestions.label        "Thoir dhomh molaidhean-luirg">
+<!ENTITY provideSearchSuggestions.accesskey    "T">
 
 
+<!ENTITY oneClickSearchEngines.label           "Einnseanan-luirg aon-bhriogaidh">
 
+<!ENTITY chooseWhichOneToDisplay.label         "'S urrainn dhut einnseanan-luirg eile a thaghadh ann am bàr nan lorg fhèin. Tagh an fheadhainn a bu mhath leat fhaicinn.">
 
-
+<!ENTITY addMoreSearchEngines.label            "Faigh barrachd einnseanan-luirg…">

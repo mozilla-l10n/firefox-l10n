@@ -157,7 +157,8 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
+<!ENTITY errorReporting.title "Dèan aithris air a' mhearachd seo">
+<!ENTITY errorReporting.longDesc "Ma nì thu aithris air an t-seòladh is an teisteanas aig <span id='hostname'>, cuidichidh sin leinn fiosrachadh a chruinneachadh air làraichean droch-rùnach is bacadh a chur orra. Tha sinne 's eadar-lìon nas tèarainte fada 'nad chomain!">
 
 <!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
 
