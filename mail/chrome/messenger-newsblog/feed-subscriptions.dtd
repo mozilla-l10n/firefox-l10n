@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Fo-sgrìobhaidhean an inbhir">
-
+<!ENTITY learnMore.label             "Barrachd fiosrachaidh air inbhirean">
 
 <!ENTITY feedTitle.label             "Tiotal:">
 <!ENTITY feedTitle.accesskey         "T">
