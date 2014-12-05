@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Tha an telemeatraidh <span>à comas</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL Statements slaodach">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Tomhaisean simplidh">
 

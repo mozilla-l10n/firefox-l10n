@@ -159,12 +159,12 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.title "Dèan aithris air a' mhearachd seo">
 <!ENTITY errorReporting.longDesc "Ma nì thu aithris air an t-seòladh is an teisteanas aig <span id='hostname'>, cuidichidh sin leinn fiosrachadh a chruinneachadh air làraichean droch-rùnach is bacadh a chur orra. Tha sinne 's eadar-lìon nas tèarainte fada 'nad chomain!">
-
+<!ENTITY errorReporting.automatic "Dèan aithris air mearachdan gu fèin-obrachail san àm ri teachd">
 <!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
-
-
-
-
+<!ENTITY errorReporting.sending "A' cur na h-aithisge">
+<!ENTITY errorReporting.sent "Chaidh an aithisg a chur">
+<!ENTITY errorReporting.report "Aithisg">
+<!ENTITY errorReporting.tryAgain "Feuch ris a-rithist">
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
