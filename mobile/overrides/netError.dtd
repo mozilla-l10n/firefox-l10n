@@ -100,8 +100,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
+<!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
 
 <!ENTITY corruptedContentError.title "ผิดพลาดจากเนื้อหาเสียหาย">
 <!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าเว็บที่คุณพยายามเรียกดูได้เนื่องจากเกิดความผิดพลาดในการรับส่งข้อมูล </p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul>">

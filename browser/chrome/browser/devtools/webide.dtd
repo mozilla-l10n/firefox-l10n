@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "ยกเลิกการเชื่อมต่อ">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "ดู">
 
 
+
+<!ENTITY viewMenu_zoomin_label "ขยาย">
+
+<!ENTITY viewMenu_zoomout_label "ย่อ">
 
 
 
@@ -49,13 +57,17 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "แท็บ">
 
 
 
-
+<!ENTITY runtimePanel_other "อื่น ๆ">
 
 
 
@@ -92,8 +104,6 @@
 
 
 
-
-
 <!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
 
 
@@ -104,6 +114,15 @@
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "ชื่อ">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 
