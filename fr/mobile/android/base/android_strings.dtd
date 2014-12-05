@@ -441,6 +441,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Vos onglets provenant d\u0027autres appareils s\u0027affichent ici.">
 <!ENTITY home_remote_tabs_unable_to_connect "Connexion impossible">
 <!ENTITY home_remote_tabs_need_to_sign_in "Veuillez vous connecter pour reconnecter votre compte Firefox et poursuivre la synchronisation.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Votre nouveau compte Firefox est prêt.">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Des soucis pour vérifier votre compte ?">
 <!ENTITY home_remote_tabs_need_to_verify "Veuillez vérifier votre compte Firefox pour lancer la synchronisation.">
 

@@ -179,6 +179,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Oublier cette adresse électronique ?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Courriel de vérification envoyé'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Impossible d\u0027envoyer le courriel de vérification'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Renvoyer le courriel de déverrouillage'>
+<!ENTITY fxaccount_unlock_code_sent 'Courriel de déverrouillage du compte envoyé'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Impossible d\u0027envoyer le courriel de déverrouillage du compte'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Connexion'>
 <!ENTITY fxaccount_sign_in_button_label 'Se connecter'>
@@ -189,9 +192,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Compte vérifié'>
 <!ENTITY fxaccount_account_verified_description2 'La synchronisation de vos données débutera dans un instant.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Mise à jour terminée'>
+
 <!ENTITY fxaccount_update_credentials_header 'Connexion'>
 <!ENTITY fxaccount_update_credentials_button_label 'Se connecter'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Connexion impossible'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Connectez-vous pour terminer la mise à jour'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Terminer la mise à jour'>
+<!ENTITY fxaccount_finish_migrating_description 'Terminer la mise à jour peut nécessiter de transférer une grande quantité de données. Il est recommandé de se connecter à un réseau Wi-Fi.'>
 
 <!ENTITY fxaccount_status_header2 'Compte Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
@@ -207,6 +216,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Vous devez mettre à jour &brandShortName; pour vous connecter.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Cochez « Synchronisation automatique » dans Paramètres Android &gt; Consommation des données.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Appuyez pour lancer la synchronisation.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Appuyez pour vous connecter à votre nouveau compte Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marque-pages'>
 <!ENTITY fxaccount_status_history 'Historique'>
 <!ENTITY fxaccount_status_passwords 'Mots de passe'>
@@ -245,8 +255,13 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveur occupé, veuillez réessayer ultérieurement'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Un problème est survenu'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Connexion au réseau impossible'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Le compte est verrouillé. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n\u0027est pas connecté'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Appuyez pour vous connecter en tant que &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Terminer la mise à jour de &syncBrand.shortName.label; ?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Appuyez pour vous connecter en tant que &formatS;'>
