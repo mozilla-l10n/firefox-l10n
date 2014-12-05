@@ -7,14 +7,14 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Kopiera Inner HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.label       "Kopiera innerHTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Kopiera Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopiera outerHTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
@@ -25,12 +25,14 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "Klistra in yttre-HTML">
+<!ENTITY inspectorHTMLPasteOuter.label      "Klistra in outerHTML">
 <!ENTITY inspectorHTMLPasteOuter.accesskey  "K">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Klistra in innerHTML">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
