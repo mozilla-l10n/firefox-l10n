@@ -106,10 +106,10 @@ emot kakor.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
-<!ENTITY nssFailure2.longDesc2 "<p>Sidan du försöker se kan inte visas eftersom 
-den mottagna datans autenticitet inte kan verifieras.</p> 
-<ul> 
-<li>Kontakta webbplatsens ägare och informera dem om detta problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Sidan du försöker se kan inte visas eftersom autenticiteten för mottagen data inte kan verifieras.</li> 
+<li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Säker anslutning misslyckades">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -160,7 +160,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.title "Rapportera det här felet">
 
 
-
+<!ENTITY errorReporting.learnMore "Läs mer…">
 <!ENTITY errorReporting.sending "Skickar rapporten…">
 <!ENTITY errorReporting.sent "Rapport skickad">
 <!ENTITY errorReporting.report "Rapportera">
