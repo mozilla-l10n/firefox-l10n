@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "L">
 <!ENTITY gdata.migration.showagain.label "Thoir sùil an-còmhnaidh ">
 
+<!ENTITY gdata.reminder.default "An cuimhneachan bunaiteach">
 <!ENTITY gdata.reminder.action.sms.label "Cuir teachdaireachd teacsa">
 
+<!ENTITY gdata.wizard.session.description "Tagh seisean làithreach no cuir a-steach seòladh puist-d gus seisean ùr a chruthachadh. Chan fheum thu ach aon seisean do gach cunntas.">
+<!ENTITY gdata.wizard.calendars.description "Tagh na mìosachain 's liostaichean nan saothraichean a bu mhath leat fo-sgrìobhadh thuca.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Suidhichidh tu na mìosachain agad san ath-cheum.">

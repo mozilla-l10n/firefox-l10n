@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Àbhaisteach">
 <!ENTITY priority.level.normal.accesskey    "À">
 <!ENTITY priority.level.high                "Àrd">
-
+<!ENTITY priority.level.high.accesskey      "U">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 uair a thìde">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "u">
@@ -245,10 +245,14 @@
 <!ENTITY calendar.context.properties.accesskey         "R">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.togglevisible.accesskey      "U">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
-
+<!ENTITY calendar.context.showonly.accesskey           "A">
+<!ENTITY calendar.context.showall.label                "Seall gach mìosachan">
+<!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Iompaich 'na">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
