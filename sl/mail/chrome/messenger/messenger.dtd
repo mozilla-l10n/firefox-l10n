@@ -400,38 +400,38 @@
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
 <!ENTITY markThreadAsReadCmd.accesskey "r">
-<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markThreadAsReadCmd.key "p">
 <!ENTITY markReadByDateCmd.label "Kot prebrano na datum …">
 <!ENTITY markReadByDateCmd.accesskey "d">
-<!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Vse prebrano">
+<!ENTITY markReadByDateCmd.key "d">
+<!ENTITY markAllReadCmd.label "Vse kot prebrano">
 <!ENTITY markAllReadCmd.accesskey "V">
-<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markAllReadCmd.key "v">
 <!ENTITY markStarredCmd.label "Dodaj zvezdico">
 <!ENTITY markStarredCmd.accesskey "D">
-<!ENTITY markStarredCmd.key "S">
+<!ENTITY markStarredCmd.key "Z">
 <!ENTITY markAsJunkCmd.label "Kot neželeno">
 <!ENTITY markAsJunkCmd.accesskey "K">
-<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsJunkCmd.key "n">
 <!ENTITY markAsNotJunkCmd.label "Ne kot neželeno">
 <!ENTITY markAsNotJunkCmd.accesskey "e">
-<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.key "e">
 <!ENTITY recalculateJunkScoreCmd.label "Poženi nadzor za neželeno pošto">
 <!ENTITY recalculateJunkScoreCmd.accesskey "P">
 <!ENTITY openMessageWindowCmd.label "Odpri sporočilo">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Odpri kot pogovor">
-<!ENTITY openConversationCmd.accesskey "r">
+<!ENTITY openConversationCmd.accesskey "v">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Priponke">
-<!ENTITY openAttachmentListCmd.accesskey "n">
+<!ENTITY openAttachmentListCmd.accesskey "r">
 <!ENTITY openFeedMessage1.label "Med odpiranjem sporočil vira">
 <!ENTITY openFeedMessage1.accesskey "r">
 <!ENTITY openFeedWebPage.label "Odpri kot spletno stran">
 <!ENTITY openFeedWebPage.accesskey "s">
 <!ENTITY openFeedSummary.label "Odpri kot povzetek">
-<!ENTITY openFeedSummary.accesskey "p">
+<!ENTITY openFeedSummary.accesskey "v">
 <!ENTITY openFeedWebPageInMP.label "Preklopi med spletno stranjo in povzetkom v podoknu za sporočila">
 <!ENTITY openFeedWebPageInMP.accesskey "m">
 <!-- Windows Menu -->
