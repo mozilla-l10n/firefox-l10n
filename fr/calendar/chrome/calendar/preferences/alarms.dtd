@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Temps de déclenchement d'une alarme avant une tâche :">
 <!ENTITY pref.defalarmlen4todos.accesskey "s">
-<!ENTITY pref.defaultemail.label "Envoyer les alarmes à l'adresse par défaut :">
-<!ENTITY pref.defaulttext.label "Texte par défaut pour les alarmes :">
 
 <!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
