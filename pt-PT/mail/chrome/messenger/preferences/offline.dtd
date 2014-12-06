@@ -1,14 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY offlineDialog.title "Definições do modo desligado">
-<!ENTITY textStartUp "Ao iniciar:">
+
+<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado detetado">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estado ao iniciar:">
 <!ENTITY radioRememberPrevState.label "Memorizar o último estado">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskMe.label "Perguntar o estado ao iniciar">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Iniciar sempre ligado">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAskState.label "Perguntar o estado">
+<!ENTITY radioAskState.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Ligado">
+<!ENTITY radioAlwaysOnline.accesskey "L">
+<!ENTITY radioAlwaysOffline.label "Desligado">
+<!ENTITY radioAlwaysOffline.accesskey "g">
+
 <!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ligar?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
