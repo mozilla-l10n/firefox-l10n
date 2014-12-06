@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri är <span>inaktiverad</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Allmän data">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Nyckelhistogram">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkla mätningar">
 
