@@ -4,14 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "Buscador predeterminado">
 
-
+<!ENTITY chooseYourDefaultSearchEngine.label   "Escolla o seu buscador predeterminado. &brandShortName; úsao na barra de localización, na barra de busca e na páxina de inicio.">
 
 <!ENTITY provideSearchSuggestions.label        "Fornecer suxestións de busca">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
+<!ENTITY oneClickSearchEngines.label           "Buscadores nun clic">
 
-
-
+<!ENTITY chooseWhichOneToDisplay.label         "A barra de busca permítelle usar outros buscadores directamente. Escolla cales quere amosar.">
 
 <!ENTITY addMoreSearchEngines.label            "Engadir máis buscadores…">
