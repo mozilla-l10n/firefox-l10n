@@ -7,12 +7,12 @@
 <!ENTITY tracking.label "Śledzenie użytkownika">
 <!ENTITY trackingIntro.label "Witryny mogą śledzić sposób ich użytkowania, co ogranicza prywatność użytkownika.">
 
-<!ENTITY dntTellSites.label "Powiadamiaj witryny o preferencjach użytkownika dotyczących śledzenia">
-<!ENTITY dntTellSites.accesskey "w">
-<!ENTITY dntTrackingNotOkay.label "Użytkownik nie chce być śledzony">
-<!ENTITY dntTrackingNotOkay.accesskey "N">
-<!ENTITY dntTrackingOkay.label "Użytkownik chce być śledzony">
-<!ENTITY dntTrackingOkay.accesskey "U">
+<!ENTITY doNotTrack.label "Informuj witryny, że użytkownik nie chce być śledzony">
+<!ENTITY doNotTrack.accesskey "w">
+<!ENTITY trackProtect.label "Zapobiegaj śledzeniu przez znane witryny">
+<!ENTITY trackProtect.accesskey "u">
+<!ENTITY warnTrackContent.label "Ostrzegaj, jeśli znane sytuacje śledzenia użytkownika zostaną wykryte">
+<!ENTITY warnTrackContent.accesskey "n">
 
 <!ENTITY geoLocation.label "Przeglądanie z uwzględnieniem położenia geograficznego">
 <!ENTITY geoIntro.label "Witryny mogą żądać więcej informacji o obecnym położeniu.">
