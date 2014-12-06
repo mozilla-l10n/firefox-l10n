@@ -166,6 +166,9 @@
 </ul>
 ">
 
+<!ENTITY cspBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
+
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ਾ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
 

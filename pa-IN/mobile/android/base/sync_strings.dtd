@@ -165,6 +165,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'ਜਾਂਚ ਲਿੰਕ &formatS; ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ'>
 <!ENTITY fxaccount_confirm_account_resend_email 'ਈਮੇਲ ਫੇਰ ਭੇਜੋl'>
+<!ENTITY fxaccount_confirm_account_change_email 'ਕੀ ਇਹ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਭੁੱਲ ਗਏ ਹੋ?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਗਈ '>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 
@@ -184,6 +185,8 @@
 <!ENTITY fxaccount_status_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ'>
 <!ENTITY fxaccount_status_signed_in_as 'ਸਾਇਨ ਇਨ ਕੀਤਾ'>
 <!ENTITY fxaccount_status_auth_server 'ਖਾਤਾ ਸਰਵਰ'>
+<!ENTITY fxaccount_status_sync_now 'ਹੁਣੇ ਸਿੰਕ ਕਰੋ'>
+<!ENTITY fxaccount_status_syncing2 'ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…'>
 <!ENTITY fxaccount_status_device_name 'ਯੰਤਰ ਨਾਂ'>
 <!ENTITY fxaccount_status_sync_server 'ਸਿੰਕ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
