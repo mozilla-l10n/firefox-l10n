@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Параметры автономной работы">
-<!ENTITY textStartUp "При запуске:">
+<!ENTITY checkAutoDetect.label "Автоматически выбирать обнаруженное состояние подключения">
+<!ENTITY checkAutoDetect.accesskey "м">
+<!ENTITY titleStartUp "Ручной выбор состояния при запуске:">
 <!ENTITY radioRememberPrevState.label "Использовать режим работы предыдущего сеанса">
 <!ENTITY radioRememberPrevState.accesskey "ы">
-<!ENTITY radioAskMe.label "Спрашивать о подключении при запуске">
-<!ENTITY radioAskMe.accesskey "з">
-<!ENTITY radioAlwaysOnline.label "Всегда подключаться при запуске">
-<!ENTITY radioAlwaysOnline.accesskey "п">
+<!ENTITY radioAskState.label "Запросить состояние подключения">
+<!ENTITY radioAskState.accesskey "о">
+<!ENTITY radioAlwaysOnline.label "Подключён к сети">
+<!ENTITY radioAlwaysOnline.accesskey "ю">
+<!ENTITY radioAlwaysOffline.label "Автономная работа">
+<!ENTITY radioAlwaysOffline.accesskey "в">
 <!ENTITY textGoingOnline "Отправить неотправленные сообщения при подключении?">
 <!ENTITY radioAutoSend.label "Да">
 <!ENTITY radioAutoSend.accesskey "Д">
