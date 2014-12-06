@@ -71,6 +71,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Modo offline">
 <!ENTITY goOfflineCmd.accesskey "M">
@@ -152,6 +153,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "h">
 
 
+<!ENTITY shareImage.label "Share This Image">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "Compartilhar seleção">
 <!ENTITY shareSelect.accesskey "h">
 <!ENTITY shareVideo.label "Compartilhar este vídeo">
@@ -203,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Histórico">
 
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "F"> 
@@ -316,6 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "o"> 
 <!ENTITY deleteCmd.label          "Excluir">  
 
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "x"> 
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "a">  
@@ -427,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
 
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Código-fonte da seleção">
@@ -662,10 +668,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 
 <!ENTITY identity.help.tooltip "Como saber se minha conexão com um site é segura?">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Abas do navegador">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu2.label     "Abas de outros dispositivos">
@@ -748,6 +756,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 
 
+<!ENTITY mixedContentBlocked2.block.label "Enable protection">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "A proteção está desativada">
 
 <!ENTITY trackingContentBlocked.message "Rastreamento">
@@ -758,6 +768,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 
 
+<!ENTITY trackingContentBlocked.block.label "Enable protection">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção antirrastreamento está desativada">
 
 <!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">
