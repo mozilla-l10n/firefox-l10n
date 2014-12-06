@@ -22,29 +22,29 @@
 
 <!ENTITY saveButton.label           "Gardar">
 <!ENTITY saveButton.tooltip         "Gardar esta folla de estilo a un ficheiro">
-<!ENTITY saveButton.accesskey       "G">
+<!ENTITY saveButton.accesskey       "s">
 
-
+<!ENTITY optionsButton.tooltip      "Opcións do editor de estilo">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
-
+<!ENTITY showOriginalSources.label     "Amosar as fontes orixinais">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
-
+<!ENTITY showOriginalSources.accesskey  "o">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
-
+<!ENTITY showMediaSidebar.label     "Amosar o panel lateral @media">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
-
+<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
-
+<!ENTITY mediaRules.label           "Regras @media">
 
 <!ENTITY editorTextbox.placeholder  "Escriba aquí a CSS.">
 
@@ -55,7 +55,7 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
-<!ENTITY noStyleSheet-tip-start.label  "Talvez lle gustaría ">
+<!ENTITY noStyleSheet-tip-start.label  "Quizais lle gustaría ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
 <!ENTITY noStyleSheet-tip-action.label "engadir unha nova folla de estilo">
