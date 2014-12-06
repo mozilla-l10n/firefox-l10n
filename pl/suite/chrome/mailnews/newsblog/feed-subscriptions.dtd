@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Subskrypcje">
-<!ENTITY subscriptionDesc.label "Uwaga: Usunięcie lub zmiana folderu dla kanału nie będą miały wpływu na pobrane wcześniej artykuły.">
+<!ENTITY learnMore.label "Więcej informacji o źródłach aktualności">
 
 <!ENTITY feedTitle.label "Tytuł:">
 <!ENTITY feedTitle.accesskey "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label "Adres URL:">
 <!ENTITY feedLocation.accesskey "R">
 <!ENTITY feedLocation.placeholder "Wprowadź poprawny adres URL kanału do dodania">
+<!ENTITY locationValidate.label "Sprawdź poprawność">
+<!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
 <!ENTITY feedFolder.label "Przechowuj artykuły w">
 <!ENTITY feedFolder.accesskey "a">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label "Przedrostek etykiet:">
 <!ENTITY autotagUsePrefix.accesskey "z">
 <!ENTITY autoTagPrefix.placeholder "przedrostek etykiet">
-
-<!ENTITY locationValidate.label "Sprawdź poprawność">
-<!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
 <!ENTITY button.addFeed.label "Dodaj">
 <!ENTITY button.addFeed.accesskey "D">
