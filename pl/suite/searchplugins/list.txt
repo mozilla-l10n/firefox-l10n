@@ -1,5 +1,5 @@
 allegro-pl
-duckduckgo
+ddg-pl
 google
 merlin-pl
 pwn-pl
