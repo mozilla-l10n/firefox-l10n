@@ -192,3 +192,12 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Pripojenie nie je zabezpečené">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; nemôže garantovať bezpečnosť vašich údajov na stránke <span id='hostname'></span>, pretože táto používa prelomený protokol SSLv3.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Rozšírené informácie: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Ďalšie informácie…">
