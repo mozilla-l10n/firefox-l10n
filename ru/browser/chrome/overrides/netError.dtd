@@ -147,7 +147,7 @@
 <!ENTITY oldSecurityProtocol.title "Установка защищённого соединения не удалась">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc "Firefox не может гарантировать безопасность ваших данных на <span id='hostname'></span>, так как он использует уязвимый протокол защиты SSLv3.">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; не может гарантировать безопасность ваших данных на <span id='hostname'></span>, так как он использует уязвимый протокол защиты SSLv3.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Дополнительная информация: <span id='errorcode'></span>">
