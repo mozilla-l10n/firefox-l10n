@@ -12,5 +12,11 @@
 <!ENTITY gdata.migration.upgrade.label "Mettre à jour">
 <!ENTITY gdata.migration.upgrade.accesskey "M">
 <!ENTITY gdata.migration.showagain.label "Toujours vérifier ">
+<!ENTITY gdata.reminder.default "Rappel par défaut">
 
 <!ENTITY gdata.reminder.action.sms.label "Envoyer un SMS">
+
+<!ENTITY gdata.wizard.session.description "Veuillez choisir une session existante ou saisir votre adresse électronique afin de créer une nouvelle session. Une seule session par compte est nécessaire.">
+<!ENTITY gdata.wizard.calendars.description "Veuillez sélectionner les agendas et listes de tâches auxquels vous souhaitez vous abonner.">
+
+<!ENTITY gdata.wizard.nextstep.description "Veuillez passer à l'étape suivante pour configurer vos agendas.">
