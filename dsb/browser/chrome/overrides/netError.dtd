@@ -172,7 +172,7 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.title "Wěsty zwisk njejo móžno">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; njamóžo wěstotu wašych datow na <span id='hostname'> garantěrowaś, dokulaž wužywa SSLv3, wobškóźony wěstotny protokol.">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; njamóžo wěstotu wašych datow na <span id='hostname'></span> garantěrowaś, dokulaž wužywa SSLv3, wobškóźony wěstotny protokol.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Rozšyrjona informacija: <span id='errorcode'></span>">
