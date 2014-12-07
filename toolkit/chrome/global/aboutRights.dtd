@@ -20,12 +20,12 @@
 <!ENTITY rights.intro-point1b "Licencës Publike Mozilla">
 <!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe tua shpërndani të tjerëve. Jeni gjithashtu të lirë ta ndryshoni kodin burim të &brandShortName;-it në përputhje me nevojat tuaja. Licenca Publike Mozilla ju jep po ashtu të drejtën të shpërndani versionet tuaj të ndryshuar.">
 
-<!ENTITY rights.intro-point2-a "Mozilla nuk ju jep ndonjë të drejtë mbi shenjat tregtare ose mbi licencat për shenjat tregtare të Mozilla Foundation-it ose të çfarëdo pale të tretë, përfshi pa kufizim emrin dhe stemën e Firefox-it. Mund të gjeni më tepër të dhëna rreth shenjave tregtare (trademarks) ">
+<!ENTITY rights.intro-point2-a "Mozilla nuk ju jep ndonjë të drejtë mbi shenjat tregtare ose mbi licencat për shenjat tregtare të Mozilla Foundation-it ose të çfarëdo pale të tretë, përfshi pa kufizim emrin dhe stemën e Firefox-it.Mund të gjeni më tepër të dhëna rreth shenjave tregtare (trademarks) ">
 <!ENTITY rights.intro-point2-b "këtu">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Disa veçori te &brandShortName;-i, të tilla si Njoftuesi i Vithisjeve, ju japin mundësinë të furnizoni përshtypjet te &vendorShortName;. Duke zgjedhur parashtrim përshtypjesh, i jepni leje &vendorShortName;-s t&apos;i përdorë përshtypjet për të përmirësuar produktet e veta, të botojë përshtypje te sajtet e veta web, dhe t&apos;i shpërndajë përshtypjet.">
+<!ENTITY rights.intro-point2.5 "Disa veçori te &brandShortName;-i, të tilla si Njoftuesi i Vithisjeve, ju japin mundësinë të furnizoni përshtypjet te &vendorShortName;. Duke zgjedhur parashtrim përshtypjesh, i jepni leje &vendorShortName;-s t&apos;i përdorë përshtypjet për të përmirësuar produktet e veta, të botojë përshtypje te sajtet e veta, dhe t&apos;i shpërndajë përshtypjet.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Se si i përdorim ne të dhënat tuaja vetjake dhe përshtypjet tuaja e dhëna te &vendorShortName; përmes &brandShortName;-it përshkruhet te ">
@@ -43,9 +43,9 @@
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Nëse ky produkt përmban brenda shërbime web, çfarëdo kushtesh të zbatueshëm për shërbimin(et) do të duhej të tregoheshin me një lidhje te ">
 <!ENTITY rights.intro-point4b-unbranded "ndarja">
-<!ENTITY rights.intro-point4c-unbranded " Shërbime Sajtesh Web.">
+<!ENTITY rights.intro-point4c-unbranded " Shërbime Sajtesh.">
 
-<!ENTITY rights2.webservices-header "Shërbime Sajtesh Web të &brandFullName;-it">
+<!ENTITY rights2.webservices-header "Shërbime Sajtesh të &brandFullName;-it">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -75,7 +75,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Shfletimi i Ndjeshëm Ndaj Vendit tani është joveprues">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Një përmbledhje shërbimesh sajtesh web të përfshira në produkt, bashkë me udhëzimet se si të çaktivizohen ato, në pastë, do të duhej të përfshiheshin këtu.">
+<!ENTITY rights.webservices-unbranded "Një përmbledhje shërbimesh sajtesh të përfshirë në produkt, bashkë me udhëzimet se si të çaktivizohen ato, në pastë, do të duhej të përfshiheshin këtu.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Çfarëdo kushtesh shërbimi të zbatueshëm për këtë produkt do të duhej të radhiteshin këtu.">

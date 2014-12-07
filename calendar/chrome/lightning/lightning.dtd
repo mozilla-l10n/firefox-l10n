@@ -31,7 +31,6 @@
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Punë">
 <!ENTITY lightning.menu.view.tasks.accesskey           "P">
-<!-- properties dialog, calendar creation wizard -->
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Veprimtari dhe Punë">
@@ -39,7 +38,6 @@
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Pranojeni">
@@ -68,7 +66,7 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accept event invitation tentatively for all occurrences of the event">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Përditësojeni">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Përditësoni veprimtarinë te kalendari">
-<!ENTITY lightning.imipbar.description "Ky mesazh përmban ftesë për një veprimtari.">
+<!ENTITY lightning.imipbar.description                                      "Ky mesazh përmban ftesë për një veprimtari.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
@@ -90,13 +88,3 @@
 <!ENTITY todaypane.showTodayPane.accesskey "K">
 <!ENTITY todaypane.statusButton.label "Kuadrati Sot">
 
-
-<!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Veprimtari dhe Punë">
-<!ENTITY lightning.menu.eventtask.accesskey            "N">
-
-<!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "Kalendar">
-<!ENTITY lightning.menu.view.calendar.accesskey        "K">
-<!ENTITY lightning.menu.view.tasks.label               "Punë">
-<!ENTITY lightning.menu.view.tasks.accesskey           "P">

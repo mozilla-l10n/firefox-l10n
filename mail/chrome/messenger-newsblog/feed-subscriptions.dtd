@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Në vend se të ngarkosh faqen web, shfaq përmbledhje artikulli">
 <!ENTITY quickMode.accesskey         "N">
 
+<!ENTITY autotagEnable.label         "Krijo vetvetiu etiketa prej emrash &lt;kategorish&gt; prurjesh">
+<!ENTITY autotagEnable.accesskey     "K">
+<!ENTITY autotagUsePrefix.label      "Etiketat parapriji me:">
+<!ENTITY autotagUsePrefix.accesskey  "E">
+<!ENTITY autoTagPrefix.placeholder   "Jepni një parashtesë etikete">
+
 <!ENTITY locationValidate.label      "Kontrolloje">
 <!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
 
@@ -32,7 +38,7 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Eksporto">
 <!ENTITY button.exportOPML.accesskey   "E">
-
-<!ENTITY cmd.close.commandKey             "w">
-
 <!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; ctrl klik ose ctrl enter që të eksportohen Prurje si një listë">
+
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Mbylleni">
