@@ -5,7 +5,7 @@
 <!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_label "Projeto">
-
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Novo aplicativo…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Abrir aplicativo empacotado…">
@@ -21,6 +21,7 @@
 <!ENTITY projectMenu_debug_label "Depurar aplicativo">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Excluir projeto">
+<!ENTITY projectMenu_remove_accesskey "x">
 
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
