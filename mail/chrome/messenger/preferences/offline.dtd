@@ -5,7 +5,7 @@
 <!ENTITY offlineDialog.title "Paramètres hors connexion">
 
 <!ENTITY checkAutoDetect.label "Toujours passer en mode en ligne lorsque cela est possible">
-<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY checkAutoDetect.accesskey "T">
 <!ENTITY titleStartUp "Au démarrage :">
 
 <!ENTITY radioRememberPrevState.label "Se souvenir de l'état précédent">
@@ -13,10 +13,9 @@
 <!ENTITY radioAskState.label "Demander à passer en mode en ligne">
 <!ENTITY radioAskState.accesskey "D">
 <!ENTITY radioAlwaysOnline.label "Passer en mode en ligne">
+<!ENTITY radioAlwaysOnline.accesskey "P">
 <!ENTITY radioAlwaysOffline.label "Passer en mode hors connexion">
-<!ENTITY radioAlwaysOffline.accesskey "P">
-
-<!ENTITY radioAlwaysOnline.accesskey "T">
+<!ENTITY radioAlwaysOffline.accesskey "a">
 
 <!ENTITY textGoingOnline "Envoyer les messages en attente lors du passage en mode en ligne ?">
 <!ENTITY radioAutoSend.label "Oui">
