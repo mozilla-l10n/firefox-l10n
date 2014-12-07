@@ -51,7 +51,7 @@
 <!ENTITY itemCookies.label       "Lëndë Web">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;-i ju lejon të përcaktoni cilëve blogje, prurje lajmesh, dhe sajtesh të tjerë web u lejohet të depozitojnë cookies.">
+<!ENTITY cookies.intro                  "&brandShortName;-i ju lejon të përcaktoni cilëve blogje, prurje lajmesh, dhe sajtesh të tjerë u lejohet të depozitojnë cookies.">
 <!ENTITY acceptCookies.label            "Prano cookies prej sajtesh">
 <!ENTITY acceptCookies.accesskey        "P">
 <!ENTITY keepUntil.label                "Mbaji:">
@@ -65,5 +65,5 @@
 <!ENTITY showCookies.accesskey          "S">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Tregoju sajteve web që nuk dua të më gjurmojnë">
+<!ENTITY doNotTrack.label               "Tregoju sajteve që nuk dua të më gjurmojnë">
 <!ENTITY doNotTrack.accesskey           "T">

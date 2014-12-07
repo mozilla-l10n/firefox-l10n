@@ -19,7 +19,7 @@
 <!ENTITY referencesField4.label "Referenca ">
 <!ENTITY messageIdField4.label "ID mesazhi ">
 <!ENTITY inReplyToField4.label "Në përgjigje të ">
-<!ENTITY originalWebsite4.label "Sajt web ">
+<!ENTITY originalWebsite4.label "Sajt ">
 
 <!ENTITY hdrArchiveButton1.label "Arkiv">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
