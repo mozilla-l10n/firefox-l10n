@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "ทั่วไป">
 <!ENTITY  paneTabs.title          "แท็บ">
-
+<!ENTITY  paneSearch.title        "ค้นหา">
 <!ENTITY  paneContent.title       "เนื้อหา">
 <!ENTITY  paneApplications.title  "โปรแกรม">
 <!ENTITY  panePrivacy.title       "ความเป็นส่วนตัว">
