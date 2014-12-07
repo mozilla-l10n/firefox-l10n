@@ -14,7 +14,7 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Lëndë Web">
 
-<!ENTITY keepHistory.label "Mba mend sajte web dhe lidhje që kam vizituar">
+<!ENTITY keepHistory.label "Mba mend sajte dhe lidhje që kam vizituar">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Prano cookies prej sajtesh">
 <!ENTITY acceptCookies.accesskey "s">
@@ -35,8 +35,8 @@
 
 <!ENTITY dntTrackingNopref.label2 "Mos u trego gjë sajteve rreth parapëlqimeve të mia mbi gjurmimet">
 <!ENTITY dntTrackingNopref.accesskey "o">
-<!ENTITY dntTrackingNotOkay.label2 "Tregoju sajteve web se nuk dua të më gjurmojnë">
+<!ENTITY dntTrackingNotOkay.label2 "Tregoju sajteve se nuk dua të më gjurmojnë">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Tregoju sajteve web se dua të më gjurmojnë">
+<!ENTITY dntTrackingOkay.label2 "Tregoju sajteve se dua të më gjurmojnë">
 <!ENTITY dntTrackingOkay.accesskey "d">
 <!ENTITY doNotTrackInfo.label "Mësoni më tepër rreth Mos Më Gjurmo">

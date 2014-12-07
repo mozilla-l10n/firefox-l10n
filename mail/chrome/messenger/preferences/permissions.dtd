@@ -11,7 +11,7 @@
 <!ENTITY removepermission.accesskey   "H">
 <!ENTITY removeallpermissions.label   "Hiqi Tërë Sajtet">
 <!ENTITY removeallpermissions.accesskey "T">
-<!ENTITY address.label                "Adresë sajti web:">
+<!ENTITY address.label                "Adresë sajti:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Bllokoje">
 <!ENTITY block.accesskey              "B">

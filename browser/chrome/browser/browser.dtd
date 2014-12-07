@@ -599,7 +599,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "P">
 <!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt web">
+<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt">
 
 <!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -632,7 +632,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Anuloje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
-<!ENTITY identity.unverifiedsite2 "Ky sajt web nuk furnizon të dhëna identiteti.">
+<!ENTITY identity.unverifiedsite2 "Ky sajt nuk furnizon të dhëna identiteti.">
 <!ENTITY identity.connectedTo "Jeni lidhur te">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -654,7 +654,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Nga ta kuptoj nëse është a jo e sigurt lidhja ime me një sajt web?">
+<!ENTITY identity.help.tooltip "Nga ta kuptoj nëse është a jo e sigurt lidhja ime me një sajt?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -731,10 +731,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 
 <!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Shumica e sajteve web prapë do të funksionojnë si duhet, edhe kur bllokohet lëndë.">
+<!ENTITY badContentBlocked.moreinfo "Shumica e sajteve prapë do të funksionojnë si duhet, edhe kur bllokohet lëndë.">
 
 <!ENTITY mixedContentBlocked2.message "Lëndë e pasigurt">
-<!ENTITY mixedContentBlocked2.moreinfo "U bllokuan disa elementë të pakoduar në këtë sajt web.">
+<!ENTITY mixedContentBlocked2.moreinfo "U bllokuan disa elementë të pakoduar në këtë sajt.">
 <!ENTITY mixedContentBlocked2.learnMore "Mësoni Më Tepër">
 <!ENTITY mixedContentBlocked2.options "Mundësi">
 <!ENTITY mixedContentBlocked2.unblock.label "Tani për tani çaktivizoje mbrojtjen">
