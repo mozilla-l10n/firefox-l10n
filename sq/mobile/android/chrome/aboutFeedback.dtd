@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre3              "Vizitoni ">
-<!ENTITY support.link2             "Sajtin tonë të Asistencës">
-<!ENTITY support.post3             " që të gjeni përgjigje për çështje të rëndomta.">
+<!ENTITY support.pre2              "Mund të vizitoni edhe ">
+<!ENTITY support.link              "Asistencën e &brandShortName;-it">
+<!ENTITY support.post2             " për më tepër të dhëna.">
 
 <!ENTITY happy.header              "Gëzohemi për sa thoni!">
 
@@ -35,14 +35,13 @@
 <!ENTITY happy.maybeLater2         "Më vonë ndoshta">
 <!ENTITY happy.noThanks            "Jo, faleminderit">
 
-<!ENTITY sad.header                "Mos!">
 <!ENTITY sad.message               "Na vjen keq që patët ca probleme me &brandShortName;-in. Ju lutemi, na tregoni se çfarë ndodhi, që të mund ta ndreqim.">
 <!ENTITY sad.placeholder           "Jepni këtu përshtypjet tuaja">
-<!ENTITY sad.lastSite2             "Përfshini sajtin e vizituar së fundi">
+<!ENTITY sad.lastSite              "Sajti i vizituar së fundi (opsionale)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader2          "Faleminderit.">
+<!ENTITY sad.thanksHeader          "Faleminderit që na e bëtë të ditur.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -53,5 +52,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy2          "Për hir të privatësisë suaj, ju lutemi, mos përfshini në përshtypjet tuaja çfarëdo të dhënash personale.">
+<!ENTITY feedback.privacy          "Për hir të privatësisë suaj, ju lutemi, mos përfshini në përshtypjet tuaja çfarëdo të dhënash personale të identifikueshme.">
 <!ENTITY feedback.send             "Dërgojini Përshtypjet">

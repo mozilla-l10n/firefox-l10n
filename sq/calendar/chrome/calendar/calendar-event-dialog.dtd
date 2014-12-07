@@ -9,6 +9,7 @@
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >
+
 <!ENTITY newevent.status.label              "Gjendje" >
 <!ENTITY newevent.status.accesskey          "G" >
 <!ENTITY newevent.eventStatus.none.label          "E papërcaktuar" >
@@ -332,6 +333,8 @@
 <!ENTITY invite.title.label                     "Ftoni Pjesëmarrës">
 <!ENTITY event.organizer.label                  "Organizues">
 <!ENTITY event.freebusy.suggest.slot            "Këshilloni kohë të përshtatshme:">
+<!ENTITY event.freebusy.button.next.slot        "Kohë pasuese">
+<!ENTITY event.freebusy.button.previous.slot    "Kohë e mëparshme">
 <!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "I lirë" >
 <!ENTITY event.freebusy.legend.busy             "I zënë" >

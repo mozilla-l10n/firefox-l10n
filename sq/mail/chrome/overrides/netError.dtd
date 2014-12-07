@@ -56,7 +56,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumenti Skadoi">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyra i palidhur">
 <!ENTITY netOffline.longDesc2 "
@@ -68,14 +68,14 @@
 <!ENTITY contentEncodingError.title "Gabim në kodim lënde">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Lloj i pasigurt kartele">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
 </ul>
 ">
 
@@ -129,7 +129,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Faqja që po provoni të shihni nuk mund të shfaqet, ngaqë nuk verifikohet dot që të dhënat e marra janë të mirëfillta.</li>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;i njoftuar për këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;i njoftuar për këtë problem.</li>
 </ul>
 ">
 
@@ -153,7 +153,7 @@
 <!ENTITY malwareBlocked.title "Sajt i dyshuar për sulme!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Sajtet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna private, përdorin kompjuterin tuaj për të sulmuar të tjerë, ose dëmtojnë sistemin tuaj.</p>
-<p>Të zotë sajtesh Web, që janë të bindur se sajti tyre është raportuar gabimisht si sajt sulmesh, mund të <a href='http://www.stopbadware.org/home/reviewinfo'>kërkojnë një shqyrtim</a>.</p>
+<p>Të zotë sajtesh, që janë të bindur se sajti tyre është raportuar gabimisht si sajt sulmesh, mund të <a href='http://www.stopbadware.org/home/reviewinfo'>kërkojnë një shqyrtim</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Dyshim për sajesë web!">
@@ -166,7 +166,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-i e pengoi këtë faqe të ngarkohej sipas kësaj mënyre, ngaqë për faqen ka rregulla sigurie të lëndës që nuk ia lejojnë këtë.</p>">
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -185,4 +185,4 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit web për t’i njoftuar për këtë problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’i njoftuar për këtë problem.</li></ul></p>">

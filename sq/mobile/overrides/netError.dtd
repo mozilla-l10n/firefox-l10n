@@ -17,17 +17,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
-<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
-     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "
+<!ENTITY dnsNotFound.longDesc3 "
 <ul>
   <li>Kontrolloni adresën për gabime shkrimi si, p.sh.,
     <strong>ww</strong>.shembull.com në vend të
     <strong>www</strong>.shembull.com</li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Search</button>
-    </div>
   <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni për pajisjen tuaj lidhjen për të dhëna pse atë Wi-Fi.
     <button id='wifi'>Aktivizoni Wi-Fi-n</button>
   </li>
@@ -48,16 +42,10 @@
 ">
 
 <!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
-<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
-     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "
+<!ENTITY malformedURI.longDesc "
 <ul>
   <li>Adresat Web zakonisht shkruhen si
     <strong>http://www.shembull.com/</strong></li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Kërkoni</button>
-    </div>
   <li>Sigurohuni që po përdorni pjerrake djathtas (d.m.th.
     <strong>/</strong>).</li>
 </ul>
@@ -76,19 +64,19 @@
 ">
 
 <!ENTITY notCached.title "Dokumenti Skadoi">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Që ta rikërkoni dokumentin prej sajtit web, klikoni mbi Riprovoni.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Lloj i Pasigurt Kartelash">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -142,7 +130,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Faqja që po provoni të shihni nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -167,7 +155,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-u e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit web për t&apos;u njoftuar këtë problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -186,4 +174,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit web që t&apos;i njoftoni për këtë problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">

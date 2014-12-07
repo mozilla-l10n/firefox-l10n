@@ -5,6 +5,7 @@
 <!ENTITY aboutAddons.title2                     "Shtesa">
 <!ENTITY aboutAddons.header2                    "Shtesat Tuaja">
 <!ENTITY aboutAddons.options                    "Mundësi">
+<!ENTITY aboutAddons.browseAll                  "Shfletoni krejt Shtesat për Firefox">
 
 <!ENTITY addonAction.enable                     "Aktivizoje">
 <!ENTITY addonAction.disable                    "Çaktivizoje">
