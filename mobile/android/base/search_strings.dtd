@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Meklet ar &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName; meklēšana'>
+<!ENTITY search_empty_title2 'Sākt meklēšanu'>
 <!ENTITY search_empty_message 'Ātri atrodiet ko vien vēlaties'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
