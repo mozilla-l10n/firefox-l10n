@@ -295,7 +295,7 @@ size. -->
 <!ENTITY page "Side">
 <!ENTITY tools "Funktioner">
 <!ENTITY new_tab "Nyt faneblad">
-<!ENTITY new_private_tab "Ny fane med privat browsing">
+<!ENTITY new_private_tab "Nyt faneblad med privat browsing">
 <!ENTITY close_all_tabs "Luk alle faneblade">
 <!ENTITY close_private_tabs "Luk faneblade med privat browsing">
 <!ENTITY tabs_normal "Faneblade">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Ny fane med privat browsing&formatS2; bliver din historik ikke gemt.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Nyt faneblad med privat browsing&formatS2; bliver din historik ikke gemt.">
 <!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
