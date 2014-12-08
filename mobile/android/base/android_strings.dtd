@@ -483,9 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionarán correctamente aún cuando este contenido sea bloqueado.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message "Esta página está rastreando tu actividad en línea.">
-<!ENTITY blocked_tracking_content_message_top "&brandShortName; ha bloqueado esta página por el rastreo de tu actividad en línea.">
-<!ENTITY blocked_tracking_content_message_bottom "La mayor parte de los sitios web trabajarán correctamente aunque el rastreo en línea esté bloqueado.">
+<!ENTITY loaded_tracking_content_message_top "Protección de rastreo deshabilitada.">
+<!ENTITY loaded_tracking_content_message_bottom "Partes de esta página pueden rastrear tu actividad en línea.">
+<!ENTITY blocked_tracking_content_message_top2 "Protección de rastreo habilitada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Conocer más">
