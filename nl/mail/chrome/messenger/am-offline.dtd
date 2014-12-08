@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveMsgBody.label "Berichtkernen verwijderen die ouder zijn dan">
+<!ENTITY nntpRemoveMsgBody.label "Berichtteksten verwijderen die ouder zijn dan">
 <!ENTITY nntpRemoveMsgBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
 <!ENTITY offlineSelectNntp.accesskey "s">

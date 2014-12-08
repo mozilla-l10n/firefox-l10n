@@ -225,21 +225,21 @@
 <!ENTITY ignoredThreadsCmd.label "Genegeerde conversaties">
 <!ENTITY ignoredThreadsCmd.accesskey "n">
 
-<!ENTITY headersMenu.label "Berichtkopregels">
-<!ENTITY headersMenu.accesskey "k">
+<!ENTITY headersMenu.label "Kopregels">
+<!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Berichtopmaak als">
-<!ENTITY bodyMenu.accesskey "o">
+<!ENTITY bodyMenu.label "Berichttekst als">
+<!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "Originele HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
 <!ENTITY bodySanitized.label "Vereenvoudigde HTML">
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
-<!ENTITY bodyAllParts.label "Alle berichttekstdelen">
+<!ENTITY bodyAllParts.label "Alle tekstgedeelten">
 <!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feedberichttekst als">
@@ -248,7 +248,7 @@
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Samenvatting">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardformaat">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardindeling">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Bijlagen in bericht weergeven">
@@ -316,7 +316,7 @@
 <!ENTITY folderMenu.label "Map">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY goRecentlyClosedTabs.label "Onlangs gesloten tabbladen">
-<!ENTITY goRecentlyClosedTabs.accesskey "O">
+<!ENTITY goRecentlyClosedTabs.accesskey "t">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -337,8 +337,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "a">
-<!ENTITY replyNewsgroupCmd2.label "Reageer naar nieuwsgroep">
-<!ENTITY replyNewsgroupCmd2.accesskey  "u">
+<!ENTITY replyNewsgroupCmd2.label "Reageren naar nieuwsgroep">
+<!ENTITY replyNewsgroupCmd2.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -354,8 +354,8 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editAsNewMsgCmd.label "Bericht als nieuw bewerken">
-<!ENTITY editAsNewMsgCmd.accesskey "b">
+<!ENTITY editAsNewMsgCmd.label "Bewerken als nieuw bericht">
+<!ENTITY editAsNewMsgCmd.accesskey "B">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
@@ -426,11 +426,11 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Bijlagen">
 <!ENTITY openAttachmentListCmd.accesskey "n">
-<!ENTITY openFeedMessage1.label "Als feedbericht openen">
+<!ENTITY openFeedMessage1.label "Bij het openen van feedberichten">
 <!ENTITY openFeedMessage1.accesskey "o">
-<!ENTITY openFeedWebPage.label "Als webpagina openen">
+<!ENTITY openFeedWebPage.label "Openen als webpagina">
 <!ENTITY openFeedWebPage.accesskey "w">
-<!ENTITY openFeedSummary.label "Als samenvatting openen">
+<!ENTITY openFeedSummary.label "Openen als samenvatting">
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Webpagina en samenvatting in berichtvenster omschakelen">
 <!ENTITY openFeedWebPageInMP.accesskey "e">
@@ -533,7 +533,7 @@
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
 <!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
-<!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
+<!ENTITY replyListButton.tooltip "Mailinglijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY forwardAsInline.tooltip "Geselecteerde bericht doorsturen in het bericht">
 <!ENTITY forwardAsAttachment.tooltip "Geselecteerde bericht doorsturen als bijlage">
@@ -560,7 +560,7 @@
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Doorsturen in het bericht">
-<!ENTITY buttonMenuForwardAsAttachment.label "Doorsturen als bijlagen">
+<!ENTITY buttonMenuForwardAsAttachment.label "Doorsturen als bijlage">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Externe inhoud in dit bericht tonen">
@@ -706,14 +706,14 @@
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Bericht openen in bijbehorende map">
 <!ENTITY contextOpenContainingFolder.accesskey "m">
-<!ENTITY contextEditMsgAsNew.label "Als nieuw bericht bewerken…">
-<!ENTITY contextEditMsgAsNew.accesskey "b">
+<!ENTITY contextEditMsgAsNew.label "Bewerken as nieuw bericht…">
+<!ENTITY contextEditMsgAsNew.accesskey "B">
 <!ENTITY contextArchive.label "Archiveren">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
 <!ENTITY contextReplyNewsgroup2.label "Reageren naar nieuwsgroep">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyNewsgroup2.accesskey "r">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">
@@ -880,7 +880,7 @@
 <!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Klaar">
+<!ENTITY statusText.label "Gereed">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimaliseren">
@@ -902,4 +902,4 @@
 <!ENTITY showAllAppsCmdMac.label        "Toon alles">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Programmasymbool opties…">
+<!ENTITY dockOptions.label              "Programmasymboolopties…">

@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-servermap">
 <!ENTITY serverDirectory.accesskey "m">
-<!ENTITY usingSubscription.label "Alleen aangemelde mappen tonen">
+<!ENTITY usingSubscription.label "Alleen geabonneerde mappen tonen">
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
 <!ENTITY dualUseFolders.accesskey "o">

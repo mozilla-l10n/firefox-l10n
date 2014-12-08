@@ -4,7 +4,7 @@
 
 <!ENTITY junkSettings.label "Ongewensteberichteninstellingen">
 <!ENTITY trainingDescription.label "Indien geactiveerd, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren. Daarna zal &brandShortName; ongewenste berichten automatisch kunnen markeren.">
-<!ENTITY level.label "Zelflerende ongewensteberichtendetectie voor deze account activeren">
+<!ENTITY level.label "Zelflerende ongewensteberichtendetectie voor deze account inschakelen">
 <!ENTITY level.accesskey "Z">
 
 <!ENTITY move.label "Nieuwe ongewenste berichten verplaatsen naar:">

@@ -28,4 +28,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Zoomen">
 <!ENTITY fullZoom.accesskey             "Z">
-

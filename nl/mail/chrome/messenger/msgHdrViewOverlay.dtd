@@ -31,7 +31,7 @@
 <!ENTITY hdrReplyListButton1.label "Lijst beantwoorden">
 <!ENTITY hdrReplyListButton1.tooltip "Mailinglijst beantwoorden">
 <!ENTITY hdrFollowupButton1.label "Reactie">
-<!ENTITY hdrFollowupButton1.tooltip "Post een reactie naar deze nieuwsgroep">
+<!ENTITY hdrFollowupButton1.tooltip "Een reactie naar deze nieuwsgroep posten">
 <!ENTITY hdrMenuForwardButton.label "Doorsturen als">
 <!ENTITY hdrForwardButton1.label "Doorsturen">
 <!ENTITY hdrForwardButton1.tooltip "Dit bericht doorsturen">
@@ -57,9 +57,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "v">
 <!ENTITY otherActionsOpenInNewTab1.label "Openen in nieuw tabblad">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "t">
-<!ENTITY markAsReadMenuItem1.label "Als gelezen markeren">
+<!ENTITY markAsReadMenuItem1.label "Markeren als gelezen">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
-<!ENTITY markAsUnreadMenuItem1.label "Als ongelezen markeren">
+<!ENTITY markAsUnreadMenuItem1.label "Markeren als ongelezen">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "Opslaan als…">
 <!ENTITY saveAsMenuItem1.accesskey "s">
