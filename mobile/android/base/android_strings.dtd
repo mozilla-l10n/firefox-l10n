@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
 
-<!ENTITY pref_donottrack_menu "ట్రాకింగ్">
-<!ENTITY pref_donottrack_disallow_tracking "నా జాడ తెలుసుకోవద్దని సైట్లకు చెప్పు">
-<!ENTITY pref_donottrack_allow_tracking "నా జాడ తెలుసుకోమని సైట్లకు చెప్పు">
-<!ENTITY pref_donottrack_no_pref "నా ట్రాకింగ్ అభీష్టాల గురించి సైట్లకు ఏమీ చెప్పవద్దు">
+
 
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
+
+
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync "సింక్">
@@ -361,8 +360,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 
 <!ENTITY reading_list_added "మీ చదివే జాబితాకు పేజీ చేర్చబడింది">
-<!ENTITY reading_list_failed "మీ చదివే జాబితాకు పేజీని చేర్చడం విఫలమైంది">
 <!ENTITY reading_list_duplicate "ఈ పేజీ ఇప్పటికే మీ చదివే జాబితాలో ఉంది">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; నిమి">
+<!ENTITY reading_list_time_over_an_hour "గంట పైన">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +389,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; ముంగిలి">
 <!ENTITY home_history_title "చరిత్ర">
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
@@ -395,6 +402,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
 <!ENTITY home_open_all "అన్నిటినీ తెరువు">
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +471,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ఏదైతే దీనిద్వారా నడుస్తుందో">
+<!ENTITY identity_no_info "ఈ వెబ్‌సైట్ గుర్తింపు సమాచారాన్ని అందించుటలేదు.">
+<!ENTITY identity_not_encrypted "ఈ సైట్‌కు మీ అనుసంధానం ఎన్క్రిప్టు చేయబడిలేదు.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ఈ పేజీ సురక్షితం కాని విషయాన్ని ప్రదర్శిస్తూంది.">
 <!ENTITY blocked_mixed_content_message_top "సురక్షితం కాని విషయాన్ని &brandShortName; నిరోధించింది.">
 <!ENTITY blocked_mixed_content_message_bottom "ఈ విషయాన్ని నిరోధించినా చాలా వెబ్‌సైట్లు సరిగానే పనిచేస్తాయి.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
 <!ENTITY enable_protection "సంరక్షణను చేతనంచేయి">
 <!ENTITY disable_protection "సంరక్షణను ఆపివేయి">
@@ -494,8 +511,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "ఆప్">
 
 <!ENTITY searchable_description "ఇష్టాంశాలు మరియు చరిత్ర">
-
-<!ENTITY devtools_remote_debugging_forward "పోర్ట్ ఫార్వార్డింగ్ అమర్చుట మరువవద్దు!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
@@ -535,7 +550,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "మెనూ">
@@ -548,3 +563,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "చివరిగా సింకైంది: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
