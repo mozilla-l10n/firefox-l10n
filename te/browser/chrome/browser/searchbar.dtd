@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "శోధన యంత్రాలను నిర్వహించు...">
 <!ENTITY searchEndCap.label             "శోధించు">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "తరువాతి">
+<!ENTITY SearchHighlightClose "ధన్యవాదములు!">

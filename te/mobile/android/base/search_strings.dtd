@@ -1,14 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY search_app_name "&brandShortName; అన్వేషణ">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
 <!ENTITY search_bar_hint "&formatS; తో వెతుకు">
 
-<!ENTITY search_empty_title "&brandShortName; అన్వేషణ">
+<!ENTITY search_empty_title2 "వెతకడం మొదలుపెట్టండి">
 <!ENTITY search_empty_message "మీకు కావలసింది త్వరగా వెతుకుము">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

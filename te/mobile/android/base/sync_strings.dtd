@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "నిర్ధారణ కోరుతూ లంకె &formatS; కు పంపబడెను.">
 <!ENTITY fxaccount_confirm_account_resend_email "ఈమెయిల్ తిరిగిపంపు">
+<!ENTITY fxaccount_confirm_account_change_email "ఈ ఈమెయిలు చిరునామాను మరచిపోవాలా?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "నిర్ధారణ కోరుతీ ఈమెయిల్ పంపెను">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "నిర్ధారణ కోరుతూ ఈమెయిల్ పంపలేక పోయెను">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
+<!ENTITY fxaccount_status_sync_now "ఇప్పుడు సింక్ చేయి">
+
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
 <!ENTITY fxaccount_status_sync_server "సింక్ సేవిక">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
