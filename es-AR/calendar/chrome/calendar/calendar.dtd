@@ -243,6 +243,16 @@
 <!ENTITY calendar.context.properties.label             "Propiedades">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "o">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "s">
+<!ENTITY calendar.context.showall.label                "Mostrar todos los calendarios">
+<!ENTITY calendar.context.showall.accesskey            "a">
+
 <!ENTITY calendar.context.convertmenu.label              "Convertir a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
