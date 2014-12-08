@@ -209,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "A rapida rabosa narancha blinca por dencima d\u0027as expectativas, con mas velocidat, mas flexibilidat y mas seguranza. Como que somos una organización sin animo de lucro, somos libres d\u0027innovar en o vuestro nombre sin garra mena de presión a la hora de comprometer-nos. Ixo quiere dicir que tos podemos ofrir una millor experiencia y un futuro mas brilant t\u0027o web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si os puestos web pueden autoreproducir videos u atros contenius multimedia">
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_sync "Sincronizar">
@@ -366,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Mas d\u0027una hora">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -403,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Os puestos web que ha visitau en zagueras s\u0027amostrarán aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: fer servir una &formatS1;Nueva Pestanya Privada&formatS2; no alzará a suya historia.">
 <!ENTITY home_reading_list_empty "Os articlos que alce ta veyer-los mas enta debant amaneixerán aquí.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -470,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que perteneix a">
-
-
+<!ENTITY identity_no_info "Iste puesto web no da información d\u0027identidat.">
+<!ENTITY identity_not_encrypted "A suya connexción a iste puesto web no ye zifrau.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ista pachina amuestra conteniu no seguro.">
@@ -479,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "A mayoría de pachinas web continan funcionando correctament encara que s\u0027haiga blocau conteniu.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "S\u0027ha desactivau a protección de seguimiento.">
+<!ENTITY loaded_tracking_content_message_bottom "Bella parte d\u0027ista pachina puede fer seguimiento d\u0027a suya actividat en linia.">
+<!ENTITY blocked_tracking_content_message_top2 "Bella parte d\u0027ista pachina puede fer seguimiento d\u0027a suya actividat en linia.">
+<!ENTITY blocked_tracking_content_message_bottom2 "As partes d\u0027ista pachina que fan seguimiento d\u0027a suya actividat en linia s\u0027han blocau.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Aprender-ne mas">
