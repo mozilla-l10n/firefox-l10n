@@ -1,11 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "&brandShortName; іздеуі">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
 <!ENTITY search_bar_hint "&formatS; көмегімен іздеу">
 
+<!ENTITY search_empty_title2 "Іздеуді бастау">
 <!ENTITY search_empty_message "Өзіңізге керек нәрсені жылдам іздеңіз">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

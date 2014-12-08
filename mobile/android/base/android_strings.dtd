@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
-
+<!ENTITY pref_donottrack_title "Бақыламау">
+<!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Жылдам қызғылт түлкі өзіңіз күткен жылдамдық, икемділік және қауіпсіздік деңгейінен асып кетеді. Коммерциялы емес болған соң, біз инновациялар үшін ешбір кедергісіз ашықпыз. Бұл дегеніміз сіздің пайдасына және Интернеттің жарқын болашағы үшін арналған.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Автоойнатуды рұқсат ету">
+<!ENTITY pref_media_autoplay_enabled_summary "Веб сайттар видеолар және басқа медиа құрамасын автоойнату мүмкіндігін басқару">
 
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
 <!ENTITY pref_sync "Синхрондау">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; мин">
+<!ENTITY reading_list_time_over_an_hour "Бір сағаттан көп">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Назарыңызға: &formatS1;Жаңа жекелік бет&formatS2; мүмкіндігін қолдану таризыңызды сақтамайды.">
 <!ENTITY home_reading_list_empty "Кейінірек үшін сақталған мақалалар осында болады.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -469,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "келесімен басқарылады">
-
-
+<!ENTITY identity_no_info "Осы сайт шындығы туралы ақпаратты ұсынбайды.">
+<!ENTITY identity_not_encrypted "Сіз осы сайтқа шифрленбеген түрде қосылдыңыз.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Бұл парақ қауіпсіз емес құраманы көрсетіп тұр.">
@@ -478,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Веб-сайттардың көбі бұл құрама сөндірілген болса да, дұрыс жұмыс жасай береді.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Бақылаудан қорғаныс сөндірулі.">
+<!ENTITY loaded_tracking_content_message_bottom "Бұл парақтың кейбір бөліктері сіздің желідегі әрекеттеріңізді бақылай алады.">
+<!ENTITY blocked_tracking_content_message_top2 "Бақылаудан қорғаныс іске қосулы. ">
+<!ENTITY blocked_tracking_content_message_bottom2 "Бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктері блокталды. ">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Көбірек білу">

@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Растау сілтемесі &formatS; үшін жіберілді">
 <!ENTITY fxaccount_confirm_account_resend_email "Эл. поштаты қайта жіберу">
-
+<!ENTITY fxaccount_confirm_account_change_email "Бұл эл. пошта адресін ұмыту керек пе?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Растау хаты жіберілді">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Растау хатын жіберу мүмкін емес">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
 <!ENTITY fxaccount_status_auth_server "Тіркелгі сервері">
-
-
+<!ENTITY fxaccount_status_sync_now "Қазір синхрондау">
+<!ENTITY fxaccount_status_syncing2 "Синхрондау…">
 <!ENTITY fxaccount_status_device_name "Құрылғы аты">
 <!ENTITY fxaccount_status_sync_server "Sync сервері">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
