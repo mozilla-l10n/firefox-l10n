@@ -15,7 +15,7 @@
 <!ENTITY SecondEmail.label                     "További e-mail">
 <!ENTITY SecondEmail.accesskey                 "T">
 <!ENTITY Department.label                      "Részleg">
-<!ENTITY Department.accesskey                  "r">
+<!ENTITY Department.accesskey                  "R">
 <!ENTITY JobTitle.label                        "Beosztás">
 <!ENTITY JobTitle.accesskey                    "B">
 <!ENTITY CellularNumber.label                  "Mobil">

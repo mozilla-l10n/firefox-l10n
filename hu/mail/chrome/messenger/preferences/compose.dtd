@@ -11,7 +11,7 @@
 <!ENTITY inline.label                         "Beágyazva">
 <!ENTITY asAttachment.label                   "Mellékletként">
 <!ENTITY addExtension.label                   "Kiterjesztés hozzáadása a fájlnévhez">
-<!ENTITY addExtension.accesskey               "k">
+<!ENTITY addExtension.accesskey               "K">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Betű:">
@@ -40,7 +40,7 @@
 <!ENTITY autoSaveEnd.label                    "percenként">
 
 <!ENTITY emailCollectionPicker.label           "A kimenő levelek címeinek automatikus hozzáadása:">
-<!ENTITY emailCollectionPicker.accesskey       "E">
+<!ENTITY emailCollectionPicker.accesskey       "e">
 <!ENTITY addressingTitle.label                 "Automatikus címkiegészítés">
 <!ENTITY autocompleteText.label                "Üzenetek címzésekor egyezések keresése a következő helyeken:">
 <!ENTITY addressingEnable.label                "Helyi címjegyzékek">
@@ -53,7 +53,7 @@
 
 <!ENTITY sendOptionsDescription.label          "Szövegformátum beállítása">
 <!ENTITY sendOptions.label                     "Üzenetküldési beállítások…">
-<!ENTITY sendOptions.accesskey                 "B">
+<!ENTITY sendOptions.accesskey                 "b">
 
 <!ENTITY attachmentReminder.label              "Figyelmeztetés a hiányzó mellékletekre">
 <!ENTITY attachmentReminder.accesskey          "m">

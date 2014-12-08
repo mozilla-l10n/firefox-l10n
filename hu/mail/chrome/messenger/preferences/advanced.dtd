@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Frissítés">
 <!ENTITY itemNetworking.label    "Hálózat és lemezterület">
 <!ENTITY itemCertificates.label  "Tanúsítványok">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Teljesítményadatok küldése">
 <!ENTITY submitTelemetry.accesskey     "T">
@@ -26,7 +26,7 @@
 <!ENTITY alwaysCheckDefault.label      "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett levelező">
 <!ENTITY alwaysCheckDefault.accesskey  "I">
 <!ENTITY searchIntegration.label       "A(z) &searchIntegration.engineName; kereshet az üzenetek között">
-<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Ellenőrzés most…">
 <!ENTITY checkDefaultsNow.accesskey    "E">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
@@ -35,15 +35,15 @@
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények…">
 <!ENTITY showReturnReceipts.accesskey  "T">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Olvasás">
 <!ENTITY display.caption               "Megjelenítés">
 <!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "C">
 
 <!ENTITY autoMarkAsRead.label          "Üzenetek automatikus megjelölése olvasottként">
-<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY autoMarkAsRead.accesskey      "a">
 <!ENTITY markAsReadNoDelay.label       "Megjelenítéskor azonnal">
 <!ENTITY markAsReadNoDelay.accesskey   "M">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
@@ -61,11 +61,11 @@
 <!ENTITY reuseExpRadio1.accesskey      "l">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Üzenetablak/-lap bezárása áthelyezéskor vagy törléskor">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
-
 <!-- Update -->
+
 <!ENTITY updateApp.label                 "&brandShortName; frissítések:">
 <!ENTITY updateAuto.label                "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
-<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
 <!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
@@ -77,8 +77,8 @@
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Beállítások…">
 <!ENTITY showSettings.accesskey        "B">
 <!ENTITY proxiesConfigure.label        "A &brandShortName; internetkapcsolatának megadása">
@@ -92,20 +92,20 @@
 <!ENTITY offlineCompactFolders.label     "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB összesen">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Legfeljebb">
 <!ENTITY useCacheBefore.accesskey        "L">
 <!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
 <!ENTITY certs.auto                      "Automatikus választás">
 <!ENTITY certs.auto.accesskey            "u">
@@ -117,4 +117,4 @@
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
 <!ENTITY viewSecurityDevices.label      "Adatvédelmi eszközök">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+<!ENTITY viewSecurityDevices.accesskey  "d">

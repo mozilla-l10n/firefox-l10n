@@ -21,7 +21,7 @@
 
 <!ENTITY sidebar.no-panels.state     "Az Oldalsáv jelenleg üres.">
 <!ENTITY sidebar.no-panels.add       "Hozzáadhat panellapokat az Oldalsávhoz, ha a fenti Panellapok gombra kattint.">
-<!ENTITY sidebar.no-panels.hide      'Ha szeretné teljesen elrejteni az Oldalsávot, kattintson a fenti "Nézet" menüre, és a "Megjelenítés/Elrejtés" almenüből válassza az "Oldalsáv" parancsot.'>
+<!ENTITY sidebar.no-panels.hide      "Ha szeretné teljesen elrejteni az Oldalsávot, kattintson a fenti &quot;Nézet&quot; menüre, és a &quot;Megjelenítés/Elrejtés&quot; almenüből válassza az &quot;Oldalsáv&quot; parancsot.">
 <!ENTITY sidebar.sbDirectory.label   "Oldalsáv-katalógus…">
 
 <!ENTITY sidebar.pagenotfound.label  "Ez a panellap most nem áll rendelkezésre.">

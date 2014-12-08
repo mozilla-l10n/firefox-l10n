@@ -18,7 +18,7 @@
 <!ENTITY radioNotSend.label "Soha">
 <!ENTITY radioNotSend.accesskey "S">
 <!ENTITY radioAskUnsent.label "Kérdés">
-<!ENTITY radioAskUnsent.accesskey "k">
+<!ENTITY radioAskUnsent.accesskey "K">
 <!ENTITY textGoingOffline "Üzenetek letöltése kapcsolat nélküli üzemmódra váltáskor">
 <!ENTITY radioAutoDownload.label "Igen">
 <!ENTITY radioAutoDownload.accesskey "g">

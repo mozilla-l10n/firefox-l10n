@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
 <!ENTITY accountName.label "Postafiók neve:">
@@ -34,9 +34,9 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Személyazonosságok kezelése…">
-<!ENTITY manageIdentities.accesskey "A">
-
+<!ENTITY manageIdentities.accesskey "a">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Levélküldő kiszolgáló (SMTP):">
 <!ENTITY smtpName.accesskey "k">
 <!ENTITY smtpDefaultServer.label "Alapértelmezett kiszolgáló használata">

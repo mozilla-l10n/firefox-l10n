@@ -12,20 +12,20 @@
 <!ENTITY lightning.toolbar.edit.label "Szerkesztés">
 <!ENTITY lightning.toolbar.gototoday.label "Ugrás a mai napra">
 <!ENTITY lightning.toolbar.print.label "Nyomtatás">
-
 <!-- Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.calendar.label     "Naptár">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Átváltás a naptár lapra">
 <!ENTITY lightning.toolbar.calendar.accesskey "N">
 <!ENTITY lightning.toolbar.task.label         "Feladatok">
 <!ENTITY lightning.toolbar.task.tooltip       "Átváltás a feladatok lapra">
 <!ENTITY lightning.toolbar.task.accesskey     "F">
-
 <!-- Toolbar write button -->
+
 <!ENTITY lightning.toolbar.newevent.label     "Esemény">
 <!ENTITY lightning.toolbar.newtask.label      "Feladat">
-
 <!-- Calendar and Task Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.day.label                 "Nap">
 <!ENTITY lightning.toolbar.day.accesskey             "N">
 <!ENTITY lightning.toolbar.week.label                "Hét">
@@ -41,4 +41,4 @@
 <!ENTITY lightning.toolbar.calendarmenu.label        "Naptár ablaktábla">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "N">
 <!ENTITY lightning.toolbar.calendarpane.label        "A naptár ablaktábla megjelenítése">
-<!ENTITY lightning.toolbar.calendarpane.accesskey    "N">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "n">

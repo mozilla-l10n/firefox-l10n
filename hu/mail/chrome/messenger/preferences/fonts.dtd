@@ -8,21 +8,21 @@
 <!ENTITY  window.unixWidth                        "55em">
 
 <!ENTITY  language.label                          "Kódolás:">
-<!ENTITY language.accesskey                      "K">
+<!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Méret:">
-<!ENTITY proportionalSize.accesskey              "M">
-<!ENTITY sizeMono.accesskey                      "r">
+<!ENTITY  proportionalSize.accesskey              "M">
+<!ENTITY  sizeMono.accesskey                      "r">
 
 <!ENTITY  proportional.label                      "Proporcionális:">
-<!ENTITY proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Talpas:">
-<!ENTITY serif.accesskey                         "T">
+<!ENTITY  serif.accesskey                         "T">
 <!ENTITY  sans-serif.label                        "Talpatlan:">
-<!ENTITY sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Fix szélességű:">
-<!ENTITY monospace.accesskey                     "F">
+<!ENTITY  monospace.accesskey                     "F">
 
 <!ENTITY  font.langGroup.latin1                   "Nyugati">
 <!ENTITY  font.langGroup.latin2                   "Közép-európai">
@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Legkisebb betűméret:">
 <!ENTITY minSize.accesskey                        "L">
 <!ENTITY minSize.none                             "Nincs">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Betűbeállítások">
 <!ENTITY  useFixedWidthForPlainText.label         "Fix szélességű betűk a normál szöveges üzenetekhez">
-<!ENTITY fixedWidth.accesskey                    "x">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Az üzenetek használhatják a saját maguk által megadott betűkészleteket.">
-<!ENTITY useDocumentFonts.accesskey              "z">
-
+<!ENTITY  useDocumentFonts.accesskey              "z">
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Kimenő levelek:">
 <!ENTITY sendDefaultCharset.accesskey     "K">
 <!ENTITY languagesTitle1.label            "Karakterkódolások">

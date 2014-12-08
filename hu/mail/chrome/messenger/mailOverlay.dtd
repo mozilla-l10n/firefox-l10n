@@ -5,7 +5,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Üzenet">
-<!ENTITY newMessageCmd.accesskey         "Ü">
+<!ENTITY  newMessageCmd.accesskey         "Ü">
  
 <!ENTITY  newContactCmd.label             "Névjegy…">
-<!ENTITY newContactCmd.accesskey         "N">
+<!ENTITY  newContactCmd.accesskey         "N">

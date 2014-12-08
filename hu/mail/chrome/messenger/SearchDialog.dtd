@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Keresés helye:">
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Keresés az almappákban is">
@@ -18,14 +18,14 @@
 <!ENTITY searchDialogTitle.label     "Üzenetek keresése">
 <!ENTITY results.label               "Eredmények">
 <!ENTITY moveButton.label            "Áthelyezés">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Megnyitás mappában">
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Mentés keresési mappaként">
 <!ENTITY saveAsVFButton.accesskey    "k">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Keresési hely:">
 <!ENTITY abSearchHeading.accesskey   "K">
 <!ENTITY propertiesButton.label      "Tulajdonságok">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Törlés">
 <!ENTITY deleteCardButton.accesskey  "T">
 <!ENTITY abSearchDialogTitle.label   "Összetett keresés a címjegyzékben">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Témacsoport">
 <!ENTITY fromColumn.label "Feladó">
 <!ENTITY recipientColumn.label "Címzett">
@@ -55,8 +55,8 @@
 <!ENTITY starredColumn.label "Csillagozott">
 <!ENTITY locationColumn.label "Hely">
 <!ENTITY idColumn.label "Érkezési sorrend">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser2.tooltip "Jelölje ki a megjelenítendő oszlopokat">
 <!ENTITY threadColumn2.tooltip "Témacsoportok megjelenítése">
 <!ENTITY fromColumn2.tooltip "Rendezés feladó szerint">

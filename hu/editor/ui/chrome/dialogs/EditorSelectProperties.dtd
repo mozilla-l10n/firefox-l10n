@@ -43,6 +43,6 @@
 <!ENTITY RemoveElement.label "Eltávolítás">
 <!ENTITY RemoveElement.accesskey "E">
 <!ENTITY MoveElementUp.label "Mozgatás felfelé">
-<!ENTITY MoveElementUp.accesskey "F">
+<!ENTITY MoveElementUp.accesskey "f">
 <!ENTITY MoveElementDown.label "Mozgatás lefelé">
-<!ENTITY MoveElementDown.accesskey "L">
+<!ENTITY MoveElementDown.accesskey "l">

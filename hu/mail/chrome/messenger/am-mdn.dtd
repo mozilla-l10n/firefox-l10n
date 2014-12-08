@@ -19,7 +19,7 @@
 <!ENTITY moveToSent.accesskey         "E">
 <!ENTITY requestMDN.label             "Tértivevény küldésére vonatkozó kérés érkezésekor:">
 <!ENTITY returnSome.label             "Tértivevény küldése bizonyos üzeneteknél">
-<!ENTITY returnSome.accesskey         "K">
+<!ENTITY returnSome.accesskey         "k">
 <!ENTITY never.label                  "Sose küldjön tértivevényt">
 <!ENTITY never.accesskey              "S">
 <!ENTITY notInToCc.label              "Ha nem vagyok a címzettek vagy a másolatot kapók között:">

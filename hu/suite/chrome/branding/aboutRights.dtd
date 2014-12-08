@@ -29,7 +29,8 @@
 <!ENTITY rights.intro-point3b "az Adatvédelmi Irányelvek">
 <!ENTITY rights.intro-point3c " szerint kezeljük.">
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "A &brandShortName; webalapú információs szolgáltatásokat is nyújt, mindazonáltal nem garantálható, hogy ezek 100&#37;-osan pontosak és hibamentesek. A szolgáltatások letiltásáról szóló információk a ">
+
+<!ENTITY rights2.intro-point4a "A &brandShortName; webalapú információs szolgáltatásokat is nyújt, mindazonáltal nem garantálható, hogy ezek 100&#037;-osan pontosak és hibamentesek. A szolgáltatások letiltásáról szóló információk a ">
 <!ENTITY rights.intro-point4b "szolgáltatás feltételei">
 <!ENTITY rights.intro-point4c " dokumentumban olvashatók.">
 
@@ -39,23 +40,18 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights2.webservices-a "A &brandFullName; webalapú információs szolgáltatásokat („Szolgáltatások”) használ egyes funkciók megvalósítására. Ezek a Szolgáltatások a &brandShortName; bináris verziójával együtt érhetők el az alább leírt módon. Ha nem akarja használni a Szolgáltatásokat, illetve az alábbi feltételek elfogadhatatlanok, letilthatja a funkciót vagy a Szolgáltatásokat. Egy adott funkció vagy Szolgáltatás letiltásáról ">
 <!ENTITY rights2.webservices-b "itt">
 <!ENTITY rights2.webservices-c " található információ. Más funkciók és szolgáltatások az alkalmazás beállításaiban kapcsolhatók ki.">
 <!-- add-on related points for branded builds -->
 
-<!ENTITY rights.addons-a "Kiegészítő profilja">
-<!ENTITY rights.addons-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
-<!ENTITY rights.addons-term3 "Vegye le a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” négyzetekről.">
-
-<!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Kiegészítők szolgáltatás: ">
 <!ENTITY rights.addons-b "Alapértelmezésben a &brandShortName; kiterjesztéseket fog ajánlani a &view.discover.label; oldalon keresztül, valamint meghatározott időközönként frissítéseket keres. Ha teljesen le akarja tiltani ezeket funkciókat, hogy megakadályozza a telepített kiegészítőkkel kapcsolatos információk közlését a kiszolgálóval, kövesse az alábbi lépéseket:">
 <!ENTITY rights.addons-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
 <!ENTITY rights.addons-term2 "Válassza ki a &smart.label; panelt a fő &advance.label; beállítópanelen">
 <!ENTITY rights.addons-term3 "Vegye ki a jelölést a &quot;&autoAddOnsUpdates.label;&quot; és a &quot;&enablePersonalized.label;&quot; jelölőnégyzetekből">
 <!ENTITY rights.addons-term4 "A Kiegészítők szolgáltatás most le van tiltva.">
-
 <!-- safe browsing points for branded builds -->
 
 

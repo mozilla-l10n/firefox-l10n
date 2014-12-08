@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "A „Válasz a feladónak” mindig megjelenik">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-<!ENTITY otherActionsButton1.label "Egyéb művelet">
+<!ENTITY otherActionsButton2.label "Több">
+
 <!ENTITY otherActionsOpenConversation1.label "Megnyitás beszélgetésben">
 <!ENTITY otherActionsOpenConversation1.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow1.label "Megnyitás új ablakban">
@@ -61,21 +62,21 @@
 <!ENTITY markAsUnreadMenuItem1.label "Megjelölés olvasatlanként">
 <!ENTITY markAsUnreadMenuItem1.accesskey "v">
 <!ENTITY saveAsMenuItem1.label "Mentés másként…">
-<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Forrás megtekintése">
 <!ENTITY viewSourceMenuItem1.accesskey "F">
 <!ENTITY otherActionsPrint1.label "Nyomtatás…">
 <!ENTITY otherActionsPrint1.accesskey "N">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Melléklet panel megjelenítése induláskor">
 <!ENTITY startExpandedCmd.accesskey    "p">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Mentés másként…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Leválasztás…">
 <!ENTITY detachAttachmentCmd.accesskey    "L">
 <!ENTITY deleteAttachmentCmd.label    "Törlés">
@@ -90,8 +91,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
 
 <!ENTITY openAttachment.tooltip "Csatolt fájl megnyitása">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Mentés">
 <!ENTITY saveAttachmentButton1.tooltip     "Csatolt fájl mentése">
 <!ENTITY saveAllAttachmentsButton1.label   "Összes mentése">

@@ -15,7 +15,7 @@
 <!ENTITY chooseFoldersButton.accesskey "T">
 
 <!ENTITY searchOnline.label "Online keresés (naprakész eredményeket ad az IMAP- és News-mappákhoz, de megnövekszik a mappa megnyitásához szükséges idő)">
-<!ENTITY searchOnline.accesskey "S">
+<!ENTITY searchOnline.accesskey "s">
 <!ENTITY newFolderButton.label       "Létrehozás">
 <!ENTITY newFolderButton.accesskey   "L">
 <!ENTITY editFolderButton.label      "Frissítés">

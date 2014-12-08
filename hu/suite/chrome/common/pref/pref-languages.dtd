@@ -20,7 +20,7 @@
 <!ENTITY languages.customize.others.accesskey           "E">
 <!ENTITY languages.customize.Fallback.grouplabel        "Karakterkódolás örökölt tartalomhoz">
 <!ENTITY languages.customize.Fallback.label             "Tartalék karakterkódolás:">
-<!ENTITY languages.customize.Fallback.accesskey         "N">
+<!ENTITY languages.customize.Fallback.accesskey         "C">
 <!ENTITY languages.customize.Fallback.desc              "Ez a karakterkódolás kerül felhasználásra az örökölt tartalmakhoz, amelyek nem adják meg a kódolásukat.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "például: en-bz, ar-jo">
