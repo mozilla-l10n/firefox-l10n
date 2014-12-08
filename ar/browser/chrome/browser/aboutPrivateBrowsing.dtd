@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "افتح نافذة خاصة">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "خ">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "لبدء التصفح الخاص، اختر &basePBMenu.label; ← &newPrivateWindow.label;.">

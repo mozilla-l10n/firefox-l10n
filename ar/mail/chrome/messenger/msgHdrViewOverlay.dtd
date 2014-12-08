@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "أظهِر دائمًا ردّ على المرسِل">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ر">
 
-<!ENTITY otherActionsButton1.label "إجراءات أخرى">
+<!ENTITY otherActionsButton2.label "أكثر">
+
 <!ENTITY otherActionsOpenConversation1.label "افتح في محادثة">
 <!ENTITY otherActionsOpenConversation1.accesskey "ث">
 <!ENTITY otherActionsOpenInNewWindow1.label "افتح في نافذة جديدة">

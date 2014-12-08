@@ -38,10 +38,13 @@
 <!ENTITY community.creditsLink      "مجتمع عالمي">
 <!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
-<!ENTITY contribute.start           "أتجد هذا شيّقًا؟ ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "شارِك معنا إذًا!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "هل تريد المساعدة؟ ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "تبرّع">
+<!ENTITY helpus.middle              " أو ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "شارِك معنا.">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "معلومات الترخيص">

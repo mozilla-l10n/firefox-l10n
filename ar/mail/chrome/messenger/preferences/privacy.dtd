@@ -31,11 +31,6 @@
 <!ENTITY showCookies.label "أظهِر الكعكات…">
 <!ENTITY showCookies.accesskey "ظ">
 
-<!ENTITY dntTrackingNopref.label2 "لا تخبر المواقع بأي شيء عن تفضيلاتي للتعقب">
-<!ENTITY dntTrackingNopref.accesskey "ت">
 <!ENTITY dntTrackingNotOkay.label2 "أخبر المواقع أنني لا أريدها أن تتعقبني">
 <!ENTITY dntTrackingNotOkay.accesskey "خ">
-<!ENTITY dntTrackingOkay.label2 "أخبر المواقع أنني أريدها أن تتعقبني">
-<!ENTITY dntTrackingOkay.accesskey "ق">
 <!ENTITY doNotTrackInfo.label "اطلع على المزيد حول ”لا تتعقبني“">
-

@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "أطلِق الصوت">
 <!ENTITY fullscreenButton.enterfullscreenlabel "ملء الشاشة">
 <!ENTITY fullscreenButton.exitfullscreenlabel "غادر ملء الشاشة">
-
+<!ENTITY castingButton.castingLabel "اعرض على الشاشة">
 
 <!ENTITY stats.media "الوسيطة">
 <!ENTITY stats.size "الحجم">
