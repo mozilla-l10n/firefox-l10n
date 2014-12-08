@@ -11,7 +11,7 @@
 <!ENTITY junkMail.intro "Estableixca a suya configuración predeterminada t'o correu no deseyau. a configuración especifica de cada cuenta puede realizar en Configuración d'as cuentas.">
 <!ENTITY manualMark.label "Quan marco os mensaches como no deseyaus:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "Move them to the account&apos;s &quot;Junk&quot; folder">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminar-los">
 <!ENTITY manualMarkModeDelete.accesskey "E">

@@ -21,7 +21,7 @@
 <!ENTITY chat.ongoingConversation      "Ongoing conversation">
 
 <!ENTITY openConversationCmd.label     "Start a Conversation">
-<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY openConversationCmd.accesskey "C">
 <!ENTITY closeConversationCmd.label    "Close Conversation">
 <!ENTITY closeConversationCmd.accesskey "C">
 <!ENTITY aliasCmd.label                "Rename">
