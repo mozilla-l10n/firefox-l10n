@@ -62,12 +62,12 @@
 <!ENTITY highlightTrailingSpace.label     "Realzar espazos ao final da liña">
 <!ENTITY highlightTrailingSpace.accesskey "z">
 
-
-
+<!ENTITY largerFont.label             "Maior tamaño de letra">
+<!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 
-
-
+<!ENTITY smallerFont.label            "Menor tamaño de letra">
+<!ENTITY smallerFont.accesskey        "m">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Tamaño normal">
@@ -89,9 +89,9 @@
 <!ENTITY display.accesskey            "m">
 <!ENTITY display.key                  "l">
 
-
+<!ENTITY pprint.label                 "Adaptar para impresión">
 <!ENTITY pprint.key                   "p">
-
+<!ENTITY pprint.accesskey             "p">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context

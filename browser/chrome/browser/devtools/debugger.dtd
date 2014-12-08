@@ -98,8 +98,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-
-
+<!ENTITY debuggerUI.autoBlackBox           "Pasar ao modo de caixa negra automaticamente as fontes compactadas">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "g">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
