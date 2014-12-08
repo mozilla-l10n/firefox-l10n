@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Compartilhar este link">
 <!ENTITY shareLink.accesskey "h">
-
-
+<!ENTITY shareImage.label "Compartilhar esta imagem">
+<!ENTITY shareImage.accesskey "h">
 <!ENTITY shareSelect.label "Compartilhar seleção">
 <!ENTITY shareSelect.accesskey "h">
 <!ENTITY shareVideo.label "Compartilhar este vídeo">
@@ -270,6 +270,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Ocultar barra do desenvolvedor">
 <!ENTITY devToolbarMenu.label              "Barra do desenvolvedor">
