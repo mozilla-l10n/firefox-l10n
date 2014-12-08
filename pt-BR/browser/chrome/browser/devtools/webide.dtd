@@ -24,7 +24,7 @@
 
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
+<!ENTITY projectMenu_manageComponents_label "Gerenciar componentes extras">
 
 
 <!ENTITY runtimeMenu_label "Ambiente de execução">
@@ -149,11 +149,11 @@
 <!ENTITY devicepreferences_search "Preferências de pesquisa">
 
 
-
-
-
-
-
+<!ENTITY devicepreferences_addnew "Adicionar nova preferência">
+<!ENTITY devicepreferences_typeboolean "Boolean">
+<!ENTITY devicepreferences_typenumber "Número inteiro">
+<!ENTITY devicepreferences_typestring "String">
+<!ENTITY devicepreferences_typenone "Selecione um tipo">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitorar">
