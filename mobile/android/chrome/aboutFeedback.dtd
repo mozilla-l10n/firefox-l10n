@@ -10,16 +10,16 @@
 
 <!ENTITY intro.header              "Ten un minuto?">
 <!ENTITY intro.message             "Contenos que pensa sobre o &brandShortName; para Android ata agora.">
-<!ENTITY intro.happyLink           "Encantame">
+<!ENTITY intro.happyLink           "Encántame">
 <!ENTITY intro.sadLink             "Teño algúns problemas">
-<!ENTITY intro.ideaLink            "Teño unha idea">
+<!ENTITY intro.maybeLater          "Quizais máis tarde">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Se precisa axuda ou ten algún problema co &brandShortName;, visite a páxina de ">
-<!ENTITY support.link              "Asistencia do &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.pre3              "Visite o noso ">
+<!ENTITY support.link2             "sitio de asistencia">
+<!ENTITY support.post3             " para obter respostas ás cuestións habituais.">
 
 <!ENTITY happy.header              "Iso está ben!">
 
@@ -32,16 +32,17 @@
 <!ENTITY happy.finePrint           "Leva menos dun minuto e sentirase moi ben.">
 
 <!ENTITY happy.ratingLink          "Si, ir a Google Play">
-<!ENTITY happy.maybeLater          "Quizais máis tarde">
+<!ENTITY happy.maybeLater2         "Quizais máis tarde">
 <!ENTITY happy.noThanks            "Non, grazas">
 
+<!ENTITY sad.header                "Oh non!">
 <!ENTITY sad.message               "Sentimos que tivera algúns problemas co &brandShortName;. Contenos que pasou para que poidamos arranxalo.">
 <!ENTITY sad.placeholder           "Escriba aquí a súa opinión">
-<!ENTITY sad.lastSite              "Último sitio visitado (opcional)">
+<!ENTITY sad.lastSite2             "Incluír o último sitio visitado">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Grazas por facérnolo saber.">
+<!ENTITY sad.thanksHeader2         "Grazas.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,19 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Ou doutra maneira.">
 
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Encantaríanos escoitar as súas ideas! Comparta a súa opinión a continuación. (Só o relacionado co &brandShortName;.)">
-<!ENTITY idea.placeholder          "Escriba aquí a súa idea">
-<!ENTITY idea.thanksHeader         "Grazas!">
-
-<!ENTITY idea.thanksMessageTop     "Agradecemoslle o tempo que se tomou para compartir a súas ideas. Sempre estamos traballando para facer o &brandShortName; mellor e colaboracións como a súa poden levar a grandes cousas.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Non é posíbel que o vexa, pero estamos dándolle a man para darlle as grazas.">
-
-<!ENTITY feedback.privacy          "Pola súa privacidade, non inclúa información persoal que o poida identificar na súa opinión.">
+<!ENTITY feedback.privacy2         "Para protexer a súa privacidade, non inclúa información persoal na súa opinión.">
 <!ENTITY feedback.send             "Enviar opinión">
