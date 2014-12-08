@@ -189,7 +189,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.label "één van">
+<!ENTITY quickFilterBar.booleanModeAny.label "Eén van">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
@@ -259,7 +259,7 @@
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Hele bericht">
+         "Berichttekst">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
@@ -273,4 +273,4 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Druk nogmaals op ‘Enter’ om verder te zoeken naar: #1">
+         "Druk nogmaals op ‘Enter’ om verder te zoeken naar #1">

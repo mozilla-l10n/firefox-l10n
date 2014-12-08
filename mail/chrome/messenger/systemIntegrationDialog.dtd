@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Nieuwsgroepen">
 <!ENTITY feeds.label "Feeds">
 
-<!ENTITY unsetDefault.tooltip "Het is niet mogelijk om &brandShortName; niet meer als de standaardclient in te stellen binnen &brandShortName;. Om een andere toepassing als standaard in te stellen moet u zijn 'Instellen als standaard' dialoogvenster gebruiken.">
+<!ENTITY unsetDefault.tooltip "Het is niet mogelijk om het instellen van &brandShortName; als de standaardclient binnen &brandShortName; ongedaan te maken. Om een andere toepassing de standaardclient te maken moet u het dialoogvenster ‘Als standaard instellen’ ervan gebruiken.">
 
 <!ENTITY checkOnStartup.label "Deze controle altijd uitvoeren bij het starten van &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "D">

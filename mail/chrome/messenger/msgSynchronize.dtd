@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Berichten downloaden en synchroniseren">
 <!ENTITY MsgSelect.label "Items voor offlinegebruik">
-<!ENTITY MsgSyncDesc.label "Als u reeds e-mailmappen of nieuwsgroepen hebt geselecteerd voor offlinegebruik, kunt u ze nu downloaden en/of synchroniseren. Gebruik anders de knop “Selecteren” om e-mailmappen en nieuwsgroepen te selecteren voor offlinegebruik.">
+<!ENTITY MsgSyncDesc.label "Als u al e-mailmappen of nieuwsgroepen hebt geselecteerd voor offlinegebruik, kunt u deze nu downloaden en/of synchroniseren. Gebruik anders de knop “Selecteren” om e-mailmappen en nieuwsgroepen te selecteren voor offlinegebruik.">
 <!ENTITY MsgSyncDirections.label "Het volgende downloaden en/of synchroniseren:">
 <!ENTITY syncTypeMail.label "E-mailberichten">
 <!ENTITY syncTypeMail.accesskey "E">

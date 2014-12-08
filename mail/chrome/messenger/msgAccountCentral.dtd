@@ -9,6 +9,9 @@
 <!ENTITY newsSectionHdr.label         "Nieuwsgroepen">
 <!ENTITY subscribeNewsLink.label      "Nieuwsgroepabonnementen beheren">
 
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Abonnementen beheren">
+
 <!ENTITY chat.label                   "Chat">
 <!ENTITY movemail.label               "Movemail">
 
@@ -23,6 +26,3 @@
 <!ENTITY filtersLink.label            "Berichtenfilters beheren">
 <!ENTITY junkSettings.label           "Ongewensteberichtenfilters instellen">
 <!ENTITY offlineLink.label            "Offline-instellingen">
-
-<!ENTITY feedsSectionHdr.label        "Feeds">
-<!ENTITY subscribeFeeds.label         "Abonnementen beheren">

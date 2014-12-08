@@ -21,7 +21,7 @@
 
 <!ENTITY compositionGroupTitle.label          "Opstellen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Berichten opstellen in HTML-formaat">
+<!ENTITY useHtml.label                        "Berichten opstellen in HTML-indeling">
 <!ENTITY useHtml.accesskey                    "B">
 <!ENTITY autoQuote.label                      "Automatisch het originele bericht citeren bij antwoorden">
 <!ENTITY autoQuote.accesskey                  "A">

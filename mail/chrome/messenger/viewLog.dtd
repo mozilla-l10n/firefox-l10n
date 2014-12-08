@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Filterlogboek">
-<!ENTITY viewLogInfo.text "Het filterlogboek registreert welke filters zijn toegepast voor deze account. Gebruik het selectievakje om de registratie te activeren.">
+<!ENTITY viewLogInfo.text "Het filterlogboek documenteert welke filters voor deze account zijn uitgevoerd. Gebruik het selectievakje om logboekregistratie in te schakelen.">
 <!ENTITY clearLog.label "Logboek wissen">
 <!ENTITY clearLog.accesskey "w">
-<!ENTITY enableLog.label "Filterregistratie activeren">
-<!ENTITY enableLog.accesskey "a">
+<!ENTITY enableLog.label "Filterregistratie inschakelen">
+<!ENTITY enableLog.accesskey "n">
 <!ENTITY closeLog.label "Sluiten">
 <!ENTITY closeLog.accesskey "S">

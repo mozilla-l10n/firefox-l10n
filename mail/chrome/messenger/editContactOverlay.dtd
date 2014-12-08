@@ -15,9 +15,9 @@
 <!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelCancel.label "Annuleren">
-<!ENTITY editContactPanelCancel.accesskey "A">
+<!ENTITY editContactPanelCancel.accesskey "n">
 
-<!ENTITY editContactPanelDone.label "Klaar">
-<!ENTITY editContactPanelDone.accesskey "K">
+<!ENTITY editContactPanelDone.label "Gereed">
+<!ENTITY editContactPanelDone.accesskey "r">
 
 <!ENTITY contactMoveDisabledWarning.description "U kunt het adresboek niet wijzigen, omdat het contact in een mailinglijst staat.">
