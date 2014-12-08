@@ -8,9 +8,9 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Проверка за обновявания">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-
-<!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Прилагане на обновяването">
+<!ENTITY update.updateButton.label2               "Презареждане на &brandShortName;, за да завърши обновяването">
+<!ENTITY update.updateButton.accesskey            "П">
+<!ENTITY update.applyButtonBillboard.label        "Прилагане на обновяването...">
 <!ENTITY update.applyButtonBillboard.accesskey    "П">
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
@@ -65,7 +65,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Не може да извършите повече обновяване на системата.">
+<!ENTITY update.unsupported.start    "Не може да извършите повече обновявания на системата.">
 <!ENTITY update.unsupported.linkText "Научете повече">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -77,7 +77,7 @@
 <!ENTITY update.downloading.start   "Изтегляне на обновление – ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Прилагам осъвременената версия...">
+<!ENTITY update.applying            "Прилагане на обновлението...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
