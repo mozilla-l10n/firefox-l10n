@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Абонаменти за емисии">
-
+<!ENTITY learnMore.label             "Научете повече относно емисиите.">
 
 <!ENTITY feedTitle.label             "Заглавие:">
 <!ENTITY feedTitle.accesskey         "З">
