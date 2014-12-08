@@ -20,12 +20,12 @@
 <!ENTITY quotedTextColor.accesskey        "z">
 <!ENTITY displayWidth.label               "Normál szöveges levelek">
 <!ENTITY displayText.label                "A következő beállítások használata idézett szöveges levelek esetén:">
-
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
 <!ENTITY convertEmoticons.label        "Hangulatjelek megjelenítése grafikaként">
 <!ENTITY convertEmoticons.accesskey    "H">
-
 <!-- labels -->
+
 <!ENTITY displayTagsText.label     "A címkék az üzenetek kategorizálására és priorálására használhatók.">
 <!ENTITY addTagButton.label        "Hozzáadás">
 <!ENTITY addTagButton.accesskey    "H">
@@ -33,13 +33,13 @@
 <!ENTITY editTagButton.accesskey   "S">
 <!ENTITY removeTagButton.label     "Törlés">
 <!ENTITY removeTagButton.accesskey "T">
-
 <!-- Fonts and Colors -->
+
 <!ENTITY fontsAndColors1.label   "Betűk és színek">
 <!ENTITY defaultFont.label       "Alapértelmezett betű:">
 <!ENTITY defaultFont.accesskey   "b">
 <!ENTITY defaultSize.label       "Méret:">
-<!ENTITY defaultSize.accesskey   "m">
+<!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "c">
 <!ENTITY fontOptions.label       "Speciális…">
 <!ENTITY colorButton.label       "Színek…">

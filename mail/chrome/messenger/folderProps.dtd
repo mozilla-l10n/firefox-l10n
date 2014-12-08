@@ -14,7 +14,7 @@
 <!ENTITY folderRebuildSummaryFile2.accesskey     "M">
 <!ENTITY folderRebuildSummaryFile.explanation    "Néha a mappaindex (.msf) fájlja megsérül, és az üzenetek nem jelennek meg, vagy a törölt üzenetek megjelennek; a mappa javítása megszüntetheti ezeket a problémákat.">
 <!ENTITY folderIncludeInGlobalSearch.label       "A mappa üzeneteinek megjelenítése a globális keresés eredményei között">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Megőrzési házirend">
 <!ENTITY retentionUseAccount.label  "A postafiók beállításainak megfelelően">
@@ -37,7 +37,7 @@
 
 <!ENTITY folderSynchronizationTab.label          "Szinkronizálás">
 <!ENTITY folderCheckForNewMessages2.label         "Ha új üzenetet érkezik ebbe a postafiókba, mindig nézze meg ezt a mappát.">
-<!ENTITY folderCheckForNewMessages2.accesskey     "h">
+<!ENTITY folderCheckForNewMessages2.accesskey     "H">
 
 <!ENTITY offlineFolder.check.label               "Mappa kiválasztása kapcsolat nélküli munkához">
 <!ENTITY offlineFolder.check.accesskey           "M">

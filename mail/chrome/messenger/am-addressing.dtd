@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Szerkesztés és címzés">
 <!ENTITY addressingGroupTitle.label "Címzés">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Másik LDAP-kiszolgáló használata:">
 <!ENTITY directories.accesskey     "M">
 <!ENTITY directoriesNone.label     "Nincs">
-
 <!-- am-addressing.xul -->
+
 
 <!ENTITY compositionGroupTitle.label          "Szerkesztés">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

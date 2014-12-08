@@ -7,20 +7,20 @@
 <!ENTITY  window.macWidth                 "55em">
 
 <!ENTITY  allowPagesToUse.label           "A tartalom a saját maga által kiválasztott színeket használhatja a fent megadottak helyett">
-<!ENTITY allowPagesToUse.accesskey       "d">
+<!ENTITY  allowPagesToUse.accesskey       "d">
 
 <!ENTITY  color                           "Szöveg és háttér">
 <!ENTITY  textColor.label                 "Szöveg:">
-<!ENTITY textColor.accesskey             "S">
+<!ENTITY  textColor.accesskey             "S">
 <!ENTITY  backgroundColor.label           "Háttér:">
-<!ENTITY backgroundColor.accesskey       "h">
+<!ENTITY  backgroundColor.accesskey       "H">
 <!ENTITY  useSystemColors.label           "Rendszerszínek használata">
-<!ENTITY useSystemColors.accesskey       "R">
+<!ENTITY  useSystemColors.accesskey       "R">
 
 <!ENTITY  underlineLinks.label            "Hivatkozások aláhúzása">
-<!ENTITY underlineLinks.accesskey        "a">
+<!ENTITY  underlineLinks.accesskey        "a">
 <!ENTITY  links                           "Hivatkozás színei">
 <!ENTITY  linkColor.label                 "Nem látogatott hivatkozások:">
-<!ENTITY linkColor.accesskey             "v">
+<!ENTITY  linkColor.accesskey             "v">
 <!ENTITY  visitedLinkColor.label          "Látogatott hivatkozások:">
-<!ENTITY visitedLinkColor.accesskey      "L">
+<!ENTITY  visitedLinkColor.accesskey      "L">

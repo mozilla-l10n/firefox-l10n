@@ -25,12 +25,13 @@
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label                 "Bezárás">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Bezárás">  
+<!ENTITY closeCmd.key                   "W">  
 
 <!ENTITY printSetupCmd.label            "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey        "O">
 
+<!ENTITY findReplaceCmd.key             "H">
 <!ENTITY redoCmd.key                    "Z">
 <!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
   Address Book -->
@@ -39,11 +40,10 @@
 <!ENTITY toggleFolderPaneCmd.key        "S">
 <!ENTITY toggleDirectoryPaneCmd.key     "S">
 
-<!ENTITY historyCmd.key                 "H">
+<!ENTITY historyCmd.key                 "H">  
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">
-<!ENTITY findReplaceCmd.key             "H">
 
 <!ENTITY accel.emacs_conflict           "accel">
 

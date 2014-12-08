@@ -1,45 +1,45 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Naptár">
 
+
+<!ENTITY lightning.preferencesLabel "Naptár">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Esemény…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Feladat…">
 <!ENTITY lightning.menupopup.new.task.accesskey "F">
 <!ENTITY lightning.menupopup.new.calendar.label "Naptár…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "N">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Megnyitás">
 <!ENTITY lightning.menupopup.open.accesskey           "M">
 <!ENTITY lightning.menupopup.open.message.label       "Mentett üzenet…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "z">
 <!ENTITY lightning.menupopup.open.calendar.label      "Naptárfájl…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "N">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Naptár">
 <!ENTITY lightning.menu.view.calendar.accesskey        "N">
 <!ENTITY lightning.menu.view.tasks.label               "Feladatok">
 <!ENTITY lightning.menu.view.tasks.accesskey           "F">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Események és feladatok">
 <!ENTITY lightning.menu.eventtask.accesskey            "E">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 <!-- iMIP Bar (meeting support) -->
+
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Elfogadás">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Eseménymeghívás elfogadása">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Összes elfogadása">
@@ -67,17 +67,17 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Frissítés">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Esemény frissítése a naptárban">
 <!ENTITY lightning.imipbar.description                                      "Ez az üzenet egy eseményre szóló meghívót tartalmaz.">
-
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Új naptár létrehozása">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Új naptár létrehozása">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Mini hónap megjelenítése">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Mini nap megjelenítése">

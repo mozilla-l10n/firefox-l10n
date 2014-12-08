@@ -27,9 +27,9 @@
 <!ENTITY generalMessageDisplay.caption    "Általános">
 <!ENTITY autoMarkAsRead.label             "Üzenetek automatikus olvasottnak jelölése">
 <!ENTITY autoMarkAsRead.accesskey         "j">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadAfter.label            "Megjelenítés után">
 <!ENTITY markAsReadAfter.accesskey        "u">
 <!ENTITY secondsLabel.label               "másodperccel">
