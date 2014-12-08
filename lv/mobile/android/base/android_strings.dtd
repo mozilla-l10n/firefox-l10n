@@ -34,6 +34,12 @@
 
 <!ENTITY choose_file "Izvēlieties failu">
 
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Izsekošanas aizsardzība deaktivēta.">
+<!ENTITY loaded_tracking_content_message_bottom "Šīs lapas daļas var sekot jūsu darbībām.">
+<!ENTITY blocked_tracking_content_message_top2 "Izsekošanas aizsardzība aktivēta.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Šīs lapas daļas, kas seko jūsu darbībām ir bloķētas.">
+
 <!ENTITY url_bar_default_text2 "Ievadiet adresi vai meklējamo frāzi">
 
 <!ENTITY bookmark "Grāmatzīme">
@@ -118,10 +124,12 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
-<!ENTITY pref_donottrack_menu "Sekošana">
-<!ENTITY pref_donottrack_disallow_tracking "Teikt lapām, ka nevēlos, lai mani izseko">
-<!ENTITY pref_donottrack_allow_tracking "Teikt lapām, ka vēlos, lai mani izseko">
-<!ENTITY pref_donottrack_no_pref "Neteikt neko lapām par manām izsekošanas vēlmēm">
+<!ENTITY pref_donottrack_title "Izsekošanas bloķēšana">
+<!ENTITY pref_donottrack_summary "&brandShortName; teiks lapām, ka nevēlaties, lai jūs izseko">
+
+<!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
+<!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
+
 
 <!ENTITY pref_char_encoding "Rakstzīmju kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
@@ -350,13 +358,15 @@ size. -->
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
 <!ENTITY locale_system_default "Sistēmas noklusētā">
-<!ENTITY reading_list_failed "Neizdevās pievienot lapu lasīšanas sarakstam">
 <!ENTITY reading_list_duplicate "Lapa jau ir jūsu lasīšanas sarakstā">
 <!ENTITY new_private_tab_opened "Atvērta jauna privātā cilne">
 <!ENTITY page_removed "Lapa aizvākta">
 <!ENTITY pref_category_language "Valoda">
 <!ENTITY pref_browser_locale "Pārlūka valoda">
 <!ENTITY pref_header_language "Valoda">
+
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Vairāk par stundu">
 
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -452,6 +462,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kuru pārvalda">
+<!ENTITY identity_no_info "Šī lapa nepiedāvā informāciju par tās saimniekiem.">
+<!ENTITY identity_not_encrypted "Savienojums ar šo lapu netiek šifrēts.">
+
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Šī lapa attēlo saturu, kas nav drošs.">
@@ -486,9 +499,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Grāmatzīmes un vēsture">
 
-<!ENTITY devtools_remote_debugging_forward "Neaizmirstiet iestatīt portu pārsūtīšanu!">
-
- <!-- Updater notifications -->
+<!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Ir pieejams &brandShortName; atjauninājums">
 <!ENTITY updater_start_select2 "Pieskarieties, lai lejupielādētu">
 
@@ -515,3 +526,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Izvēlne">
 <!ENTITY actionbar_done "Darīts">
+<!ENTITY find_matchcase "Aa">
+<!ENTITY home_most_recent_emptyhint2 "Khmm: izmantojot &formatS1;Jauna privātā cilve&formatS2; netiks saglabāta pārlūkošanas vēsture.">
+<!ENTITY home_title "&brandShortName; sākumlapa">
