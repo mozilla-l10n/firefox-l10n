@@ -294,6 +294,10 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFor.label              "Buscar ">
+<!ENTITY searchWith.label             " con:">
+<!ENTITY changeSearchSettings.button  "Cambiar ajustes de búsqueda">
+
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey "t">
@@ -525,7 +529,7 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label "Usar el tema de &brandShortName;">
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar tema de Developer Edition">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
 <!ENTITY social.chatBar.accesskey "c">
