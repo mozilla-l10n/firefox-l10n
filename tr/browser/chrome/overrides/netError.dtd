@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Sayfa yüklenirken hata oluştu">
+<!ENTITY loadError.label "Sayfa yükleme sorunu">
 <!ENTITY retry.label "Yeniden dene">
 <!-- Specific error messages -->
 
