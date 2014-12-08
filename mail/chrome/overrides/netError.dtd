@@ -80,8 +80,8 @@
 <!ENTITY phishingBlocked.title "خداع وِب مُشتبه به!">
 <!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> <p>تستخدم طرق التزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "منعته سياسة أمن المحتوى">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن الصفحة تحتوي سياسة أمن محتوى تمنع ذلك.</p>">
+<!ENTITY cspBlocked.title "منعته سياسة أمن المحتوى">
+<!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن الصفحة تحتوي سياسة أمن محتوى تمنع ذلك.</p>">
 
 <!ENTITY corruptedContentError.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentError.longDesc "<p>تعذر عرض المحتوى الذي تحاول مشاهدته بسبب خطأ في نقل البيانات.</p><ul><li>الرجاء تبليغ مالك الموقع بهذه المشكلة.</li></ul>">

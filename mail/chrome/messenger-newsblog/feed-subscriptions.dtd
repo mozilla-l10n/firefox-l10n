@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "اشتراكات التلقيمات">
-<!ENTITY subscriptionDesc.label      "ملاحظة: لن يؤثر حذف أو تغيير مجلد التلقيم على المقالات التي نُزِّلت من قبل.">
+
 
 <!ENTITY feedTitle.label             "العنوان:">
 <!ENTITY feedTitle.accesskey         "ن">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "مسار التلقيمات:">
 <!ENTITY feedLocation.accesskey      "س">
 <!ENTITY feedLocation.placeholder    "أدخل مسار تلقيمات سليم لإضافته">
+<!ENTITY locationValidate.label      "الصلاحية">
+<!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
 
 <!ENTITY feedFolder.label            "احفظ المقالات في:">
 <!ENTITY feedFolder.accesskey        "ظ">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "ضع قبل أسماء الوسوم:">
 <!ENTITY autotagUsePrefix.accesskey  "س">
 <!ENTITY autoTagPrefix.placeholder   "أدخل سابقة الوسوم">
-
-<!ENTITY locationValidate.label      "الصلاحية">
-<!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
 
 <!ENTITY button.addFeed.label        "أضِف">
 <!ENTITY button.addFeed.accesskey    "ض">

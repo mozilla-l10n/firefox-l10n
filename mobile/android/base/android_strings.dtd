@@ -163,10 +163,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
-<!ENTITY pref_donottrack_menu "التعقب">
-<!ENTITY pref_donottrack_disallow_tracking "أخبر المواقع أنني لا أريدها أن تتعقبني">
-<!ENTITY pref_donottrack_allow_tracking "أخبر المواقع أنني أريدها أن تتعقبني">
-<!ENTITY pref_donottrack_no_pref "لا تخبر المواقع بأي شيء عن تفضيلاتي للتعقب">
+
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
@@ -201,6 +198,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
+
+
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync "تزامُن">
@@ -348,8 +347,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 
 <!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
-<!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_duplicate "الصفحة موجودة في قائمة القراءة">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -372,7 +374,8 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
-
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "التأريخ">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
@@ -382,6 +385,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
 <!ENTITY home_open_all "افتح الكل">
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -444,11 +449,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "والذي يعمل ب‍">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
 <!ENTITY blocked_mixed_content_message_top "منع &brandShortName; محتوًى غير آمن.">
 <!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "اطّلع على المزيد">
 <!ENTITY enable_protection "فعّل الحماية">
 <!ENTITY disable_protection "عطّل الحماية">
@@ -476,8 +489,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "تطبيق">
 
 <!ENTITY searchable_description "العلامات والتأريخ">
-
-<!ENTITY devtools_remote_debugging_forward "لا تنس إعداد تمرير المنافذ.">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
@@ -513,7 +524,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY ellipsis "…">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "القائمة">
@@ -526,3 +537,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "آخر مزامنة: &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "أب">

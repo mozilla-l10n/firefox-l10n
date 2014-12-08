@@ -266,6 +266,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "صندوق أدوات المتصفح">
 <!ENTITY browserToolboxMenu.accesskey "ص">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "صندوق أدوات محتوى المتصفح">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "أغلق شريط المطورين">
 <!ENTITY devToolbarMenu.label              "شريط المطورين">
@@ -408,6 +413,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "ابحث عن ">
+<!ENTITY searchWith.label             " مستخدمًا:">
+<!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -719,7 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
-<!ENTITY customizeMode.deveditionTheme.label "استخدم سمة &brandShortName;">
+<!ENTITY customizeMode.deveditionTheme.label2 "استخدم سمة إصدارة المطورين">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ركّز على الدردشات">
