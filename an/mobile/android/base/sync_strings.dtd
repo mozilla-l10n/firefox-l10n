@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "S\u0027ha ninviau un vinclo de verificación ta &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Tornar a ninviar o mensache">
+<!ENTITY fxaccount_confirm_account_change_email "Ha ixublidau ista adreza de correu?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensache de verificación ninviau">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No s\u0027ha puesto ninviar o mensache de verificación">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Connectau como">
 <!ENTITY fxaccount_status_auth_server "Servidor de cuentas">
+<!ENTITY fxaccount_status_sync_now "Sincronizar agora">
+<!ENTITY fxaccount_status_syncing2 "Sincronizando…">
 <!ENTITY fxaccount_status_device_name "Nombre d\u0027o dispositivo">
 <!ENTITY fxaccount_status_sync_server "Servidor de Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

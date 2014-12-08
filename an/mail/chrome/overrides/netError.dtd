@@ -54,11 +54,9 @@ eliminau.</li>
 <!ENTITY notCached.longDesc "<p>O documento solicitau no ye disponible en a caché.</p><ul><li>Como precacción de seguranza, &brandShortName; no torna a solicitar automaticament documentos con información privada.</li><li>Prete Reintentar ta tornar a solicitar o documento d'o puesto web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin connexión">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de conteniu">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -145,8 +143,8 @@ t'a web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Introducir qualsiquier información personal en ista pachina puede resultar en un rapo d'identidat u unatro fraude.</p> 
 <p>Istes tipos de webs fraudulentas son usadas en ataques de phishing, en os quals pachinas y correus electronicos fraudulentos s'utilizan ta imitar fuents en el qual confías.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloquiada por a politica de seguranza de contenius">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impediu que ista pachina se cargue d'iste modo porque a pachina contiene una politica de seguranza de contenius que lo impide.</p>">
+<!ENTITY cspBlocked.title "Bloquiada por a politica de seguranza de contenius">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impediu que ista pachina se cargue d'iste modo porque a pachina contiene una politica de seguranza de contenius que lo impide.</p>">
 
 <!ENTITY corruptedContentError.title "Error por conteniu corrupto">
 <!ENTITY corruptedContentError.longDesc "<p>O conteniu que ye intentando veyer no puede amostrar porque s'ha detectau una error en a transmisión de datos.</p><ul><li>Por favor, contacte con os propietarios ta informar-les d'iste problema.</li></ul>">

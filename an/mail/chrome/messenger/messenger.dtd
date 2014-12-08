@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Seleccionar">
 <!ENTITY selectMenu.accesskey "l">
-<!ENTITY all.label "All">
-<!ENTITY all.accesskey "A">
+
+
 <!ENTITY selectThreadCmd.label "Conversación">
 <!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "a">
@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Properties">
 <!ENTITY folderPropsFolderCmd2.label "Folder Properties">
 <!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
-<!ENTITY folderPropsCmd.accesskey "o">
+
 <!ENTITY undoDeleteMsgCmd.label "Desfer 'Eliminar mensache'">
 <!ENTITY redoDeleteMsgCmd.label "Refer 'Eliminar mensache'">
 <!ENTITY undoMoveMsgCmd.label "Desfer 'Mover mensache'">
@@ -158,8 +158,8 @@
 <!ENTITY unreadFolders.accesskey "n">
 <!ENTITY favoriteFolders.label "Favoritas">
 <!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "Recent">
-<!ENTITY recentFolders.accesskey "R">
+
+
 <!ENTITY compactVersion.label "Compact View">
 <!ENTITY compactVersion.accesskey "C">
 <!-- Sort Menu -->
@@ -302,14 +302,14 @@
 <!ENTITY prevUnreadMsgCmd.label "Mensaje no leito">
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+
+
 <!ENTITY goForwardCmd.commandKey " ]">
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.accesskey "C">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Mensaje con estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "s">

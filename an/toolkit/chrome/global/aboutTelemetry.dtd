@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  A telemetría ye <span>desactivada</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Consultas SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Penchadas d'o navegador">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Penchadas de filos">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Midas simples">
 
