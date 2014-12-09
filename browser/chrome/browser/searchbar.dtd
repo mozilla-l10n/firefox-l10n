@@ -4,3 +4,14 @@
 
 <!ENTITY cmd_engineManager.label        "Zoekmachines beheren…">
 <!ENTITY searchEndCap.label             "Zoeken">
+
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+<!ENTITY SearchHighlight1.title "Een-klik zoekopdrachten">
+<!ENTITY SearchHighlight1.text "Direct doorzoeken van een van deze website zonder uw standaardzoekmachine te wijzigen.">
+
+<!ENTITY SearchHighlight2.title "Slimme suggesties">
+<!ENTITY SearchHighlight2.text "Suggesties van uw standaardzoekmachine verschijnen terwijl u typed.">
+
+<!ENTITY SearchHighlightNext "Volgende">
+<!ENTITY SearchHighlightClose "Bedankt!">
