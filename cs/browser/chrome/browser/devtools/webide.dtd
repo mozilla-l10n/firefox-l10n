@@ -43,7 +43,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Zobrazení">
-<!ENTITY viewMenu_accesskey "T">
+<!ENTITY viewMenu_accesskey "Z">
 <!ENTITY viewMenu_toggleEditor_label "Přepnout editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "P">
 <!ENTITY viewMenu_zoomin_label "Zvětšit">
@@ -78,7 +78,7 @@
 <!ENTITY projectPanel_tabs "Panely">
 <!ENTITY runtimePanel_usb "USB zařízení">
 <!ENTITY runtimePanel_wifi "Wi-Fi zařízení">
-<!ENTITY runtimePanel_simulators "Simulátory">
+<!ENTITY runtimePanel_simulator "Simulátory">
 <!ENTITY runtimePanel_other "Ostatní">
 <!ENTITY runtimePanel_installsimulator "Instalovat simulátor">
 <!ENTITY runtimePanel_noadbhelper "Instalovat ADB Helper">
