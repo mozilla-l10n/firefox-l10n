@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY provideSearchSuggestions.label        "Fornecer sugestões de pesquisa">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
+<!ENTITY oneClickSearchEngines.label           "Mecanismos de pesquisa em um clique">
 
+<!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite pesquisar em mecanismos alternativos. Escolha um.">
 
