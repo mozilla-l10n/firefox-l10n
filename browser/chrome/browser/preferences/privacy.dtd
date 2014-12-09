@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Көбірек білу">
 <!ENTITY doNotTrackInfo.label           "Көбірек білу">
 
+<!ENTITY  history.label                 "Тарихы">
 
 <!ENTITY  locationBar.label             "Адрес жолы">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Адрес жолағын қолдану кезінде, ұсыну:">
+<!ENTITY  locbar.history.label          "Тарихы">
+<!ENTITY  locbar.history.accesskey      "Т">
+<!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
+<!ENTITY  locbar.bookmarks.accesskey    "л">
+<!ENTITY  locbar.openpage.label         "Ашық беттер">
+<!ENTITY  locbar.openpage.accesskey     "А">
 
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
 
-
+<!ENTITY  keepUntil.label               "Дейін сақтау:">
+<!ENTITY  keepUntil.accesskey           "н">
 
 <!ENTITY  expire.label                  "олардың мерзімі аяқталғанша дейін">
 <!ENTITY  close.label                   "Мен &brandShortName; жапқанға дейін">
