@@ -2,8 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Негізгі іздеу қызметі">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Негізгі іздеу қызметін таңдау. &brandShortName; оны адрестер, іздеу жолағы және басты бет үшін қолданады.">
+
+<!ENTITY provideSearchSuggestions.label        "Іздеу ұсыныстарын көрсету">
+<!ENTITY provideSearchSuggestions.accesskey    "с">
 
 
+<!ENTITY oneClickSearchEngines.label           "Бірлік шертумен іздеу қызметтері">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағы арқылы қосымша іздеу қызметтері арқылы іздеуге мүмкін етеді. Көрсетілетіндерді таңдаңыз.">
 
-
+<!ENTITY addMoreSearchEngines.label            "Көбірек іздеу қызметтерін қосу…">
