@@ -136,3 +136,12 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Imposíbel estabelecer unha conexión segura">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "Non é posíbel que &brandShortName; garanta a seguranza dos seus datos no sitio <span id='hostname'></span> xa que usa SSLv3, protocolo de seguranza non fiábel.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Detalles do erro: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Obter máis información…">
