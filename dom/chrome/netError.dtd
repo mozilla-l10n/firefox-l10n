@@ -77,7 +77,7 @@ erro da configuración do servidor e non do computador.</li></ul>">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Pode ser debido a un problema da configuración do servidor ou pode ser que alguén estea a tentar facerse pasar polo 
 servidor.</li>
-<li>Se xa estivo conectado con este servidor correctamente, o erro podería ser temporal e poderá tentar de novo máis tarde.</li>
+<li>Se xa estivo conectado correctamente con este servidor, o erro podería ser temporal e poderá tentar de novo máis tarde.</li>
 </ul>
 ">
 

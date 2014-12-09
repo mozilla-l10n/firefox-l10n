@@ -99,7 +99,7 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Contorno">
+<!ENTITY environmentMenu.label        "Entorno">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
