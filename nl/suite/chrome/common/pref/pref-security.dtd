@@ -8,12 +8,10 @@
 <!ENTITY tracking.label                   "Gebruikersanalyse">
 <!ENTITY trackingIntro.label              "Websites kunnen volgen hoe u ze gebruikt en dat heeft effect op uw privacy.">
 
-<!ENTITY dntTellSites.label               "Websites mijn volginstellingen laten weten">
-<!ENTITY dntTellSites.accesskey           "W">
-<!ENTITY dntTrackingNotOkay.label         "Ik wil niet gevolgd worden">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "Ik geeft toestemming om gevolgd te worden">
-<!ENTITY dntTrackingOkay.accesskey        "t">
+<!ENTITY doNotTrack.label                 "Vertel websites dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.accesskey             "V">
+<!ENTITY trackProtect.label               "Voorkom volgactiviteiten van bekende websites">
+<!ENTITY trackProtect.accesskey           "n">
 <!ENTITY warnTrackContent.label           "Waarschuw me als bekende volgactiviteiten worden gedetecteerd">
 <!ENTITY warnTrackContent.accesskey       "W">
 
