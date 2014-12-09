@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "เรียนรู้เพิ่ม">
 <!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
 
+<!ENTITY  history.label                 "ประวัติ">
 
 <!ENTITY  locationBar.label             "แถบที่อยู่">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "เมื่อใช้แถบที่อยู่ ให้เสนอแนะ :">
+<!ENTITY  locbar.history.label          "ประวัติ">
+<!ENTITY  locbar.history.accesskey      "ป">
+<!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
+<!ENTITY  locbar.bookmarks.accesskey    "ค">
+<!ENTITY  locbar.openpage.label         "เปิดแท็บ">
+<!ENTITY  locbar.openpage.accesskey     "เ">
 
 <!ENTITY  acceptCookies.label           "รับคุกกี้จากเว็บไซต์">
 <!ENTITY  acceptCookies.accesskey       "ร">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "ไม่ต้อง">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
 
-
+<!ENTITY  keepUntil.label               "เก็บจนกระทั่ง :">
+<!ENTITY  keepUntil.accesskey           "ก">
 
 <!ENTITY  expire.label                  "มันหมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
