@@ -129,7 +129,7 @@ nie pobiera ponownie wrażliwych dokumentów automatycznie.</li><li>Kliknij przy
 <p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p>
 <p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">                        
+<!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Wprowadzanie jakichkolwiek informacji osobistych na tej stronie może skutkować
 kradzieżą tożsamości lub inną malwersacją.</p>
@@ -171,3 +171,8 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; nie może zagwarantować bezpieczeństwa danych wymienianych z <span id='hostname'></span> ponieważ ten serwer używa SSLv3, wadliwego protokołu bezpieczeństwa.">
+<!ENTITY oldSecurityProtocol.advancedInfo "Szczegóły: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Więcej informacji…">
