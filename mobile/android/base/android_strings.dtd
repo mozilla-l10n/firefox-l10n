@@ -6,7 +6,7 @@
 <!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
 <!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
 
-<!ENTITY  onboard_start_message "Wamkelekile kwibrandShortName;!">
+<!ENTITY  onboard_start_message "Wamkelekile &brandShortName;!">
 <!ENTITY  onboard_start_subtext "Izinikele kuwe, kwimfihlo yakho, kunye neWebhu eVulelekileyo">
 <!ENTITY  onboard_start_button_account "Sayina ungene nebrandShortName">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
