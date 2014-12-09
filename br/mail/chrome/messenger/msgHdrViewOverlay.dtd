@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton2.label "Muioc'h">
-
+<!ENTITY otherActionsButton.tooltip "Gweredoù all">
 <!ENTITY otherActionsOpenConversation1.label "Digeriñ e-barzh ar gaozeadenn">
 <!ENTITY otherActionsOpenConversation1.accesskey "D">
 <!ENTITY otherActionsOpenInNewWindow1.label "Digeriñ e-barzh ur prenestr nevez">
