@@ -2,8 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Zadana tražilica">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Odaberite vašu zadanu tražilicu. &brandShortName; je koristi u lokacijskoj traci, traci pretraživanja i početnoj stranici.">
+
+<!ENTITY provideSearchSuggestions.label        "Prikaži prijedloge pretraživanja">
+<!ENTITY provideSearchSuggestions.accesskey    "P">
 
 
+<!ENTITY oneClickSearchEngines.label           "Tražilice jednog klika">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Traka pretraživanja vam omogućava izravno korištenje tražilica. Odaberite one koje želite da budu prikazane.">
 
-
+<!ENTITY addMoreSearchEngines.label            "Dodaj više tražilica…">

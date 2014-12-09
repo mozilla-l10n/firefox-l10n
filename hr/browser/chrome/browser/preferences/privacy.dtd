@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Saznajte više">
 <!ENTITY doNotTrackInfo.label           "Saznajte više">
 
+<!ENTITY  history.label                 "Povijest">
 
 <!ENTITY  locationBar.label             "Adresna traka">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Pri korištenju adresne trake, predloži:">
+<!ENTITY  locbar.history.label          "Povijest">
+<!ENTITY  locbar.history.accesskey      "P">
+<!ENTITY  locbar.bookmarks.label        "Zabilješke">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Otvori kartice">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
 
-
+<!ENTITY  keepUntil.label               "Zadrži do:">
+<!ENTITY  keepUntil.accesskey           "ž">
 
 <!ENTITY  expire.label                  "isteka roka">
 <!ENTITY  close.label                   "zatvaranja &brandShortName;">
