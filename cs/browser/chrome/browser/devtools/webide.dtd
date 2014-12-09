@@ -43,7 +43,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Zobrazení">
-<!ENTITY viewMenu_accesskey "T">
+<!ENTITY viewMenu_accesskey "Z">
 <!ENTITY viewMenu_toggleEditor_label "Přepnout editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "P">
 <!ENTITY viewMenu_zoomin_label "Zvětšit">
