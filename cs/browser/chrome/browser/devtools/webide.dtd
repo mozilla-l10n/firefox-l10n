@@ -78,7 +78,7 @@
 <!ENTITY projectPanel_tabs "Panely">
 <!ENTITY runtimePanel_usb "USB zařízení">
 <!ENTITY runtimePanel_wifi "Wi-Fi zařízení">
-<!ENTITY runtimePanel_simulators "Simulátory">
+<!ENTITY runtimePanel_simulator "Simulátory">
 <!ENTITY runtimePanel_other "Ostatní">
 <!ENTITY runtimePanel_installsimulator "Instalovat simulátor">
 <!ENTITY runtimePanel_noadbhelper "Instalovat ADB Helper">
