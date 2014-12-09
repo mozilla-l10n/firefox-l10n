@@ -38,20 +38,21 @@
 
 
 
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Құрылғы баптаулары">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "ы">
 
 <!ENTITY viewMenu_label "Қарап шығу">
-
-
-
+<!ENTITY viewMenu_accesskey "ш">
+<!ENTITY viewMenu_toggleEditor_label "Түзеткішті көрсету/жасыру">
+<!ENTITY viewMenu_toggleEditor_accesskey "е">
 <!ENTITY viewMenu_zoomin_label "Үлкейту">
-
+<!ENTITY viewMenu_zoomin_accesskey "к">
 <!ENTITY viewMenu_zoomout_label "Кішірейту">
+<!ENTITY viewMenu_zoomout_accesskey "й">
+<!ENTITY viewMenu_resetzoom_label "Масштабты тастау">
+<!ENTITY viewMenu_resetzoom_accesskey "у">
 
-
-
-
+<!ENTITY projectButton_label "Қолданбаны ашу">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -132,17 +133,19 @@
 
 
 
-
+<!ENTITY runtimedetails_requestPrivileges "жоғарылау привилегияларын сұрау">
 <!ENTITY runtimedetails_privilegesWarning "(Құрылғыны қайта іске қосады. Root рұқсаттарын талап етеді.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Құрылғы баптаулары">
+<!ENTITY devicepreferences_search "Іздеу параметрлері">
+<!ENTITY devicepreferences_newname "Жаңа параметр атауы">
+<!ENTITY devicepreferences_newtext "Параметр мәні">
+<!ENTITY devicepreferences_addnew "Жаңа параметрді қосу">
+<!ENTITY devicepreferences_typeboolean "Логикалық">
+<!ENTITY devicepreferences_typenumber "Бүтін">
+<!ENTITY devicepreferences_typestring "Жол">
+<!ENTITY devicepreferences_typenone "Түрін таңдау">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Бақылау">
