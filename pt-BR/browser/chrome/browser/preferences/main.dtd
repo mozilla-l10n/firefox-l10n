@@ -31,7 +31,8 @@
 <!ENTITY alwaysAsk.label "Sempre perguntar onde salvar arquivos">
 <!ENTITY alwaysAsk.accesskey "e">
 
-
+<!ENTITY alwaysCheckDefault2.label        "Sempre verificar se o &brandShortName; é o navegador padrão">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
 
 
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador padrão">
