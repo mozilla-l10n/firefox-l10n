@@ -1,0 +1,17 @@
+!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Standaardzoekmachine">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Kies uw standaardzoekmachine. &brandShortName; gebruikt deze in de locatiebalk, zoekbalk, en startpagina.">
+
+<!ENTITY provideSearchSuggestions.label        "Zoeksuggesties geven">
+<!ENTITY provideSearchSuggestions.accesskey    "Z">
+
+
+<!ENTITY oneClickSearchEngines.label           "Een-klik zoekmachines">
+
+<!ENTITY chooseWhichOneToDisplay.label         "U kunt met alternative zoekmachines direct zoeken in de zoekbalk. Kies welke getoond worden.">
+
+<!ENTITY addMoreSearchEngines.label            "Meer zoekmachines toevoegen…">
