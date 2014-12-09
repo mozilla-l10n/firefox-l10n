@@ -188,7 +188,7 @@
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
 <!ENTITY fxaccount_status_auth_server "Frithealaiche a\u0027 chunntais">
 <!ENTITY fxaccount_status_sync_now "Sioncronaich an-dràsta">
-<!ENTITY fxaccount_status_syncing2 "’Ga shioncronachadh...">
+<!ENTITY fxaccount_status_syncing2 "’Ga shioncronachadh…">
 <!ENTITY fxaccount_status_device_name "Ainm an uidheim">
 <!ENTITY fxaccount_status_sync_server "Frithealaiche an t-sioncronachaidh">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
