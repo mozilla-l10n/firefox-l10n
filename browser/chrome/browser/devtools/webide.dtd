@@ -39,7 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "P">
 <!ENTITY runtimeMenu_showMonitor_label "Monitorar">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferência do dispositivo">
 
 
 <!ENTITY viewMenu_label "Exibir">
@@ -50,7 +50,7 @@
 
 <!ENTITY viewMenu_zoomout_label "Diminuir zoom">
 
-
+<!ENTITY viewMenu_resetzoom_label "Redefinir zoom">
 
 
 <!ENTITY projectButton_label "Abrir aplicativo">
@@ -68,8 +68,9 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "b">
 <!-- zoom -->
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Meus projetos">
@@ -147,7 +148,7 @@
 
 <!ENTITY devicepreferences_title "Preferência do dispositivo">
 <!ENTITY devicepreferences_search "Preferências de pesquisa">
-
+<!ENTITY devicepreferences_newname "Novo nome da preferência">
 
 <!ENTITY devicepreferences_addnew "Adicionar nova preferência">
 <!ENTITY devicepreferences_typeboolean "Boolean">

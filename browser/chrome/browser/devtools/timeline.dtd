@@ -17,8 +17,12 @@
 <!-- LOCALIZATION NOTE (timelineUI.timelineUI.memoryCheckbox.label): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY timelineUI.memoryCheckbox.label "Memória">
 <!-- LOCALIZATION NOTE (timelineUI.timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
+
+<!ENTITY timelineUI.memoryCheckbox.tooltip "Ativar medições de memória">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 <!ENTITY timelineUI.emptyNotice2    "botão para iniciar a gravação de eventos na linha de tempo.">
