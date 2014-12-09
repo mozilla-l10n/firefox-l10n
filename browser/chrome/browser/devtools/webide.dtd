@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Öppna app...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Installera och Kör ">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Stoppa app">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Avlusa app">
@@ -70,8 +70,8 @@
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 
-
-
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mina Projekt">
 <!ENTITY projectPanel_runtimeApps "Körmiljöappar">
@@ -79,7 +79,7 @@
 <!ENTITY runtimePanel_usb "USB-enheter">
 <!ENTITY runtimePanel_wifi "Wi-Fi enheter">
 <!ENTITY runtimePanel_simulator "Simuleringar">
-
+<!ENTITY runtimePanel_other "Annat ">
 <!ENTITY runtimePanel_installsimulator "Installera Simulator">
 <!ENTITY runtimePanel_noadbhelper "Installera ADB Hjälpprogram">
 <!ENTITY runtimePanel_nousbdevice "Kan inte hitta din enhet? ">
@@ -113,7 +113,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Allmänt">
 <!ENTITY prefs_restore "Återställ standard">
-
+<!ENTITY prefs_manage_components "Hantera extra komponenter">
 <!ENTITY prefs_options_rememberlastproject "Kom ihåg senaste projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Återställ föregående projekt när WebIDE startar">
 <!ENTITY prefs_options_templatesurl "Mall URL ">
@@ -145,10 +145,10 @@
 <!ENTITY runtimedetails_requestPrivileges "begär högre rättigheter ">
 <!ENTITY runtimedetails_privilegesWarning "(Kommer starta om enheten. Kräver root åtkomst.)">
 <!-- Device Preferences -->
-
-
-
-
+<!ENTITY devicepreferences_search "Sökinställningar">
+<!ENTITY devicepreferences_newname "Nytt inställnings namn">
+<!ENTITY devicepreferences_newtext "Inställnings värde">
+<!ENTITY devicepreferences_addnew "Lägg till ny inställning">
 
 
 <!ENTITY devicepreferences_typestring "Sträng">
