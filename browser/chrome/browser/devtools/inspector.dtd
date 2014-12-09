@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Zalijepi unutarnji HTML">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "i">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -39,22 +41,32 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Zalijepi…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "Z">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "Prije">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "e">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "Nakon">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "a">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "Kao prvo dijete">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "d">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "Kao zadnje dijete">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
