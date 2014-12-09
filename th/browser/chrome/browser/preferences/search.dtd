@@ -2,8 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "เครื่องมือค้นหาปริยาย">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "เลือกเครื่องมือค้นหาปริยายของคุณ &brandShortName; ใช้มันในแถบที่อยู่ แถบค้นหา และหน้าเริ่มต้น">
+
+<!ENTITY provideSearchSuggestions.label        "ให้คำค้นหาแนะนำ">
+<!ENTITY provideSearchSuggestions.accesskey    "ค">
 
 
+<!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 
+<!ENTITY chooseWhichOneToDisplay.label         "แถบค้นหาช่วยให้คุณค้นเครื่องมืออื่นได้โดยตรง เลือกอันที่ต้องการแสดง">
 
-
+<!ENTITY addMoreSearchEngines.label            "เพิ่มเครื่องมือค้นหา…">
