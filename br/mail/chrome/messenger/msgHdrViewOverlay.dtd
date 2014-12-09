@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Diskouez atav Respont d'ar c'haser">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "Gwezhioù all">
+<!ENTITY otherActionsButton2.label "Muioc'h">
+
 <!ENTITY otherActionsOpenConversation1.label "Digeriñ e-barzh ar gaozeadenn">
 <!ENTITY otherActionsOpenConversation1.accesskey "D">
 <!ENTITY otherActionsOpenInNewWindow1.label "Digeriñ e-barzh ur prenestr nevez">

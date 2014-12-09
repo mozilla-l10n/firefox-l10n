@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Diskouez an toupinoù…">
 <!ENTITY showCookies.accesskey "s">
 
-<!ENTITY dntTrackingNopref.label2 "Na lavarout tra ebet d'al lec'hiennoù a-zivout ma gwellvezioù heuliañ.">
-<!ENTITY dntTrackingNopref.accesskey "N">
 <!ENTITY dntTrackingNotOkay.label2 "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
 <!ENTITY dntTrackingNotOkay.accesskey "L">
-<!ENTITY dntTrackingOkay.label2 "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">
-<!ENTITY dntTrackingOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Gouzout hiroc'h a-zivout Do Not Track">
-

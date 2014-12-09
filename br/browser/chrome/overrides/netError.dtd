@@ -88,8 +88,8 @@
 <!ENTITY phishingBlocked.title "Douetañs a c'hwiberezh dre internet ! ">
 <!ENTITY phishingBlocked.longDesc " <p>Mar bez roet titouroù personel ganeoc'h war ar bajennad-mañ e tegouezho laeroñsi ho pivelezh pe ditouroù all marteze.</p> <p>Ar rizh damrez-mañ war ar web a vez arveret er c'hwiberezhioù graet 'tagadennoù dre higennañ' anezho. Drevezet e vez neuze pajennadoù web pe posteloù hoc'h eus fiziañs enno.</p> ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
+<!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
 <!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
 <!ENTITY corruptedContentError.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p> 
@@ -110,5 +110,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
+
+
+
+
+
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

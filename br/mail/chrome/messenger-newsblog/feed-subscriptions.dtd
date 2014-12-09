@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Koumanantoù da lanvioù">
-<!ENTITY subscriptionDesc.label      "Notenn : Mar bez dilec'hiet pe gemmet an teuliad evit ul lanv ne vo ket tizhet ar pennadoù bet pellgarget a-raok.">
+
 
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL al lanv : ">
 <!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Bizskrivit ur chomlec'h lanv talvoudek da ouzhpennañ">
+<!ENTITY locationValidate.label      "Talvoudañ">
+<!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 
 <!ENTITY feedFolder.label            "Gwarediñ pennadoù al lanv e :">
 <!ENTITY feedFolder.accesskey        "n">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Rakgeriañ ar c'hlavioù gant :">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Enankit ur rakger klav">
-
-<!ENTITY locationValidate.label      "Talvoudañ">
-<!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 
 <!ENTITY button.addFeed.label        "Ouzhpennañ">
 <!ENTITY button.addFeed.accesskey    "O">

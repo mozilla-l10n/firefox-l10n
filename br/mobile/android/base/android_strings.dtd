@@ -172,10 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gweredekaet, hep an trede">
 <!ENTITY pref_cookies_disabled "Diweredekaet">
 
-<!ENTITY pref_donottrack_menu "Heuliañ ho roudoù">
-<!ENTITY pref_donottrack_disallow_tracking "Lavarout d\u0027al lec\u0027hiennoù ne fell ket din bezañ heuliet.">
-<!ENTITY pref_donottrack_allow_tracking "Lavarout d\u0027al lec\u0027hiennoù e fell din bezañ heuliet.">
-<!ENTITY pref_donottrack_no_pref "Na lavarout tra ebet d\u0027al lec\u0027hiennoù a-zivout ma gwellvezioù heuliañ.">
+
 
 <!ENTITY pref_char_encoding "Bonegadur an arouezennoù">
 <!ENTITY pref_char_encoding_on "Diskouez al lañser">
@@ -210,6 +207,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Al louarn orañjez herrek a lamm dreist pezh a oac\u0027h o c\u0027hortoz gant un tizh buanoc\u0027h, muioc\u0027h a azasausted ha diogelroez. Ne glaskomp ket gounit arc\u0027hant, neuze e c\u0027hallomp neveziñ evel ma fell deomp hep bezañ levezonet e nep doare. Un arver gwellañ evidoc\u0027h hag un dazont bravoc\u0027h evit ar web a dalv an dra-mañ.">
+
+
 
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
 <!ENTITY pref_sync "Goubred">
@@ -361,8 +360,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "N\u0027eus arventenn ebet da skarzhañ.">
 
 <!ENTITY reading_list_added "Pajennad ouzhpennet war ho roll lennadurioù">
-<!ENTITY reading_list_failed "C\u0027hwitadenn war ouzhpennañ ar bajennad war ho roll lennadurioù">
 <!ENTITY reading_list_duplicate "Emañ ar bajennad war ho roll lennadurioù endeo">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +387,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ouzhpennañ ul lec\u0027hienn">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "Skoazell &brandShortName;">
 <!ENTITY home_history_title "Roll istor">
 <!ENTITY home_clear_history_button "Skarzhañ ar roll istor">
 <!ENTITY home_clear_history_confirm "Ha sur oc\u0027h e fell deoc\u0027h skarzhañ ho roll istor ?">
@@ -395,6 +400,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "Skrammet e vez ho sinedoù nevesañ amañ.">
 <!ENTITY home_open_all "Digeriñ an holl anezho">
 <!ENTITY home_most_recent_empty "Skrammet e vez al lec\u0027hiennoù nevez gweladennet amañ.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Skrammet e vez ar pennadoù enrollet ganeoc\u0027h amañ.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +469,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "hag a zo lañset gant">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Endalc\u0027had a vefe arvarus a zo skrammet gant ar bajennad-mañ.">
 <!ENTITY blocked_mixed_content_message_top "Harzet eo bet endalc\u0027had a vefe arvarus gant &brandShortName;.">
 <!ENTITY blocked_mixed_content_message_bottom "An darn vrasañ eus al lec\u0027hiennoù a yelo en-dro ent dereat ha pa vo harzet an endalc\u0027had-mañ.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Gouzout hiroc\u0027h">
 <!ENTITY enable_protection "Gweredekaat ar gwareziñ">
 <!ENTITY disable_protection "Diweredekaat ar gwareziñ">
@@ -494,8 +509,6 @@ diouzh Android">
 <!ENTITY webapp_generic_name "Arload">
 
 <!ENTITY searchable_description "Sinedoù ha roll istor">
-
-<!ENTITY devtools_remote_debugging_forward "N\u0027ankouait ket kefluniañ ar porzh treuzkas !">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Hegerz ez eus un hizivadenn evit &brandShortName;">
@@ -535,7 +548,7 @@ diouzh Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Lañser">
@@ -548,3 +561,8 @@ diouzh Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Goubredañ diwezhañ : &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

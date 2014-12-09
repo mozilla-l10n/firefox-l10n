@@ -5,7 +5,7 @@
 <!ENTITY  prefWindow.titleWin     "Dibarzhioù">
 <!ENTITY  prefWindow.titleGNOME   "Gwellvezioù &brandShortName; ">
 <!ENTITY  prefWindow.styleWindows "width: 59em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 58em;">
+
 <!ENTITY  prefWindow.styleGNOME   "width: 58em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Hollek">

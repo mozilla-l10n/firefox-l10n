@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Kaset ez eus bet un ere gwiriañ da &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Adkas ar postel">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Kaset eo bet ar postel gwiriañ">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "N\u0027halled ket kas ar postel gwiriañ">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Kont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Kennasket evel">
 <!ENTITY fxaccount_status_auth_server "Dafariad ar gont">
+
+
 <!ENTITY fxaccount_status_device_name "Anv an trevnad">
 <!ENTITY fxaccount_status_sync_server "Dafariad Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

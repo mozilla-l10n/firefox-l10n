@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Tizhet eo bet ar vevenn gadaviñ">
-<!ENTITY fileExceedsQuota.accept "Hizivaat">
-<!ENTITY fileExceedsQuota.cancel "Nullañ">
 <!ENTITY fileExceedsQuota.description "Tizhet eo bet ho pevenn gadaviñ eus 2 Ge.">
 <!ENTITY fileExceedsQuota.description1 "Emaoc'h oc'h arverañ #XXX Ge eus hoc'h egor kadaviñ.">
-<!ENTITY fileExceedsQuota.description2 "Hizivait hiziv gant ur gont Pro Plus hag ho pezet muioc'h a varr kadaviñ.">
-<!ENTITY fileExceedsQuota.description3 "Gallout a rit ivez dilemel restroù war ho kont evit kaout muioc'h a egor dieub">
