@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permitir que as páxinas escollan as súas propias cores en lugar das seleccionadas anteriormente">
-<!ENTITY  allowPagesToUse.accesskey       "P">
+<!ENTITY  allowPagesToUseColors.label           "Permitir que as páxinas escollan as súas propias cores en lugar das seleccionadas anteriormente:">
+<!ENTITY  allowPagesToUseColors.accesskey       "p">
+
+<!ENTITY  allowPagesToUseColors.automatic.label "Automático">
+<!ENTITY  allowPagesToUseColors.always.label    "Sempre">
+<!ENTITY  allowPagesToUseColors.never.label     "Nunca">
 
 <!ENTITY  color                           "Texto e fondo">
 <!ENTITY  textColor.label                 "Texto:">
