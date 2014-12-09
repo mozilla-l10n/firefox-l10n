@@ -92,3 +92,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiraj tekst u međuspremnik">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobrađene podatke u međuspremnik">
 
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">

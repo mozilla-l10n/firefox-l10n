@@ -18,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrami">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrami s ključem">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednostavna mjerenja">
 
