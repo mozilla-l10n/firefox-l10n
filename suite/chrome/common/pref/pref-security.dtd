@@ -14,6 +14,8 @@
 <!ENTITY dntTrackingNotOkay.accesskey     "n">
 <!ENTITY dntTrackingOkay.label            "Ik geeft toestemming om gevolgd te worden">
 <!ENTITY dntTrackingOkay.accesskey        "t">
+<!ENTITY warnTrackContent.label           "Waarschuw me als bekende volgactiviteiten worden gedetecteerd">
+<!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "Locatiebewust navigeren">
 <!ENTITY geoIntro.label                   "Websites kan meer informatie over uw huidige locatie vragen.">
