@@ -77,7 +77,7 @@
 <!ENTITY projectPanel_runtimeApps "Runtime-apps">
 <!ENTITY projectPanel_tabs "Faneblade">
 <!ENTITY runtimePanel_usb "USB-enheder">
-<!ENTITY runtimePanel_wifi "Wi-Fi-enheder">
+<!ENTITY runtimePanel_wifi "Wi-fi-enheder">
 <!ENTITY runtimePanel_simulator "Simulatorer">
 <!ENTITY runtimePanel_other "Andre">
 <!ENTITY runtimePanel_installsimulator "Installer simulator">
