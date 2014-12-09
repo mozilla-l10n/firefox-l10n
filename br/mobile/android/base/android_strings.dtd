@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gweredekaet, hep an trede">
 <!ENTITY pref_cookies_disabled "Diweredekaet">
 
-
+<!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
+<!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
 <!ENTITY pref_char_encoding "Bonegadur an arouezennoù">
 <!ENTITY pref_char_encoding_on "Diskouez al lañser">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Al louarn orañjez herrek a lamm dreist pezh a oac\u0027h o c\u0027hortoz gant un tizh buanoc\u0027h, muioc\u0027h a azasausted ha diogelroez. Ne glaskomp ket gounit arc\u0027hant, neuze e c\u0027hallomp neveziñ evel ma fell deomp hep bezañ levezonet e nep doare. Un arver gwellañ evidoc\u0027h hag un dazont bravoc\u0027h evit ar web a dalv an dra-mañ.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Aotre al lenn emgefreek">
+<!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\u0027hiennoù ">
 
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
 <!ENTITY pref_sync "Goubred">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; a vun.">
+<!ENTITY reading_list_time_over_an_hour "Hiroc\u0027h eget un eurvezh">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -469,8 +473,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "hag a zo lañset gant">
-
-
+<!ENTITY identity_no_info "Ne bourchas ket al lec\u0027hienn-mañ titouroù a-fet pivelezh.">
+<!ENTITY identity_not_encrypted "N\u0027eo ket enrineget ho kennask ouzh al lec\u0027hienn-mañ.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Endalc\u0027had a vefe arvarus a zo skrammet gant ar bajennad-mañ.">
@@ -478,8 +482,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "An darn vrasañ eus al lec\u0027hiennoù a yelo en-dro ent dereat ha pa vo harzet an endalc\u0027had-mañ.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Gwarez a-enep an heuliañ diweredekaet.">
+<!ENTITY loaded_tracking_content_message_bottom "Lodennoù eus ar bajennad-mañ a c\u0027hallfe heuliañ hoc\u0027h obererezh enlinenn.">
+<!ENTITY blocked_tracking_content_message_top2 "Gwarez a-enep an heuliañ gweredekaet. ">
+<!ENTITY blocked_tracking_content_message_bottom2 "Kaelet eo bet lodennoù ar bajennad-mañ a heuilh hoc\u0027h obererezh enlinenn.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Gouzout hiroc\u0027h">
