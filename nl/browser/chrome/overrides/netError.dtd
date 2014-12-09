@@ -203,3 +203,12 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Kan geen beveiligde verbinding maken">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; kan geen garantie geven op de veiligheid van uw gegegevens op <span id='hostname'></span> omdat het SSLv3 gebruikt, een gebroken beveiligingsprotocol.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Uitgebreide info: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Meer info…">
