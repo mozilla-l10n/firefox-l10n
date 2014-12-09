@@ -419,8 +419,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 
 <!ENTITY searchFor.label              "Klask ">
-
-
+<!ENTITY searchWith.label             " gant :">
+<!ENTITY changeSearchSettings.button  "Kemmañ an arventennoù klask">
 
 <!ENTITY tabView.commandkey           "e">
 
