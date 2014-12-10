@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -50,7 +53,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; usa servizos de información baseados na web (&quot;Servizos&quot;) para fornecer algunhas das características ofrecidas para o seu uso con esta versión binaria do &brandShortName; baixo os termos descritos a continuación. Se non quere usar un ou máis dos servizos ou os termos que seguen non son aceptábeis, pode desactivar a característica ou servizo(s). As instrucións sobre como desactivar unha característica ou servizo concreto poden encontrarse ">
 <!ENTITY rights2.webservices-b "aquí">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Outras características e servizos poden desactivarse nas preferencias do aplicativo.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
