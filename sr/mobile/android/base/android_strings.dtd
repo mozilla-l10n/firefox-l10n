@@ -484,9 +484,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY loaded_tracking_content_message_top "Заштита од праћена је искључена.">
-<!ENTITY loaded_tracking_content_message_bottom "Делови ове странице могу пратити Ваше онлајн активности.">
+<!ENTITY loaded_tracking_content_message_bottom "Делови ове странице могу пратити Ваше активности на мрежи.">
 <!ENTITY blocked_tracking_content_message_top2 "Заштита од праћена је укључена.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Делови ове странице који прате Ваше онлајн активности су блокирани.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Делови ове странице које прате Ваше активности на мрежи су блокиране.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Сазнајте више">

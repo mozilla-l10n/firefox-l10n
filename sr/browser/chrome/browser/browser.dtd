@@ -762,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Заштита је онемогућена">
 
 <!ENTITY trackingContentBlocked.message "Праћење">
-<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате Ваше онлајн активности су блокиране.">
+<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате Ваше активности на мрежи су блокиране.">
 <!ENTITY trackingContentBlocked.learnMore "Сазнајте више">
 <!ENTITY trackingContentBlocked.options "Опције">
 <!ENTITY trackingContentBlocked.unblock2.label "Онемогући заштиту за овај сајт">
