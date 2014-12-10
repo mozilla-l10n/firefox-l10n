@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Správce kanálů">
-<!ENTITY subscriptionDesc.label "Odebrání nebo změna složky kanálu neovlivní již stažené články.">
+<!ENTITY learnMore.label  "Zjistit více o kanálech">
 
 <!ENTITY feedTitle.label "Název:">
 <!ENTITY feedTitle.accesskey "N">
