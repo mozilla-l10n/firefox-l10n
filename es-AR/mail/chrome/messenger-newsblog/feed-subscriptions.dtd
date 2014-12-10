@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Suscripciones a canales">
-<!ENTITY subscriptionDesc.label      "Nota: Si elimina o cambia la carpeta de un canal, ello no afectará los artículos previamente descargados.">
+<!ENTITY learnMore.label             "Conocer más acerca de los canales">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
