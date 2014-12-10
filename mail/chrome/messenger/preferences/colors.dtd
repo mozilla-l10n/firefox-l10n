@@ -20,7 +20,7 @@
 <!ENTITY  underlineLinks.label            "Enlaces subrayados">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Color de enlaces">
-<!ENTITY  linkColor.label                 "Enaces no visitados:">
+<!ENTITY  linkColor.label                 "Enlaces no visitados:">
 <!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Enlaces visitados:">
 <!ENTITY  visitedLinkColor.accesskey      "v">
