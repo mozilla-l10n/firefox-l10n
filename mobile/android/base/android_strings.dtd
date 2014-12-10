@@ -395,7 +395,7 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Úvodní stránka &brandShortName;u">
+<!ENTITY home_title "Úvodní stránka &brandShortName;">
 <!ENTITY home_history_title "Historie">
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
 <!ENTITY home_clear_history_confirm "Jste si jist(a), že chcete vymazat svou historii?">
