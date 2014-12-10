@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Hledat pomocí &formatS;'>
 
-<!ENTITY search_empty_title 'Vyhledávání &brandShortName;'>
+<!ENTITY search_empty_title2 'Začátek vyhledávání'>
 <!ENTITY search_empty_message 'Rychlé vyhledání všeho, co chcete'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
