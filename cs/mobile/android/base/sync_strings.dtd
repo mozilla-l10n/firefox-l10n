@@ -175,7 +175,7 @@
 <!ENTITY fxaccount_sign_in_forgot_password 'Zapomenuto heslo?'>
 <!ENTITY fxaccount_sign_in_create_account_instead 'Vytvoření účtu'>
 <!ENTITY fxaccount_sign_in_unknown_error 'Nepodařilo se přihlásit'>
-
+<!ENTITY fxaccount_confirm_account_change_email 'Zapomenout tuto e-malovou adresu?'>
 <!ENTITY fxaccount_account_verified_sub_header 'Účet ověřen'>
 <!ENTITY fxaccount_account_verified_description2 'Vaše data se začnou brzy synchronizovat.'>
 
@@ -186,6 +186,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
 <!ENTITY fxaccount_status_auth_server 'Server s účtem'>
+<!ENTITY fxaccount_status_sync_now 'Synchronizovat'>
+<!ENTITY fxaccount_status_syncing2 'Probíhá synchronizace…'>
 <!ENTITY fxaccount_status_device_name 'Název zařízení'>
 <!ENTITY fxaccount_status_sync_server 'Synchronizační server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

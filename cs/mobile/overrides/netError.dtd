@@ -69,8 +69,9 @@
 
 <!ENTITY notCached.title "Platnost dokumentu vypršela">
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument již není dostupný v mezipaměti aplikace &brandShortName;.</p><ul><li>Z důvodů bezpečnosti &brandShortName; automaticky nestahuje důvěrné dokumenty.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
-
 <!ENTITY netOffline.title "Režim offline">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Zkute to znovu. &brandShortName; se pokusí otevřít spojení a obnovit stránku.
@@ -116,6 +117,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
@@ -160,6 +163,8 @@ kdo se snaží vydávat za server.</li>
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Server je dočasně nedostupný. Zkuste to prosím znovu za chvíli.</li>
@@ -168,6 +173,10 @@ kdo se snaží vydávat za server.</li>
   </li>
 </ul>
 ">
+
+<!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
+<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, neboť má bezpečnostní pravidla, která tento způsob načtení zakazují.</p>">
+
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel stránky">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, neboť tato stránka má bezpečnostní pravidla, která tento způsob užití zakazují.</p>">
