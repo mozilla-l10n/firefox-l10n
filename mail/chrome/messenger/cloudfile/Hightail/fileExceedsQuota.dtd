@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Dosažen limit úložiště">
-<!ENTITY fileExceedsQuota.accept "Aktualizace">
-<!ENTITY fileExceedsQuota.cancel "Zrušit">
 <!ENTITY fileExceedsQuota.description "Dosáhli jste limitu svého účtu, který je 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Vaše aktuální zaplnění je #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Aktualizujte dnes svůj účet na Pro Plus a získejte více místa.">
-<!ENTITY fileExceedsQuota.description3 "Pro získání více místa můžete též smazat některé soubory ve svém účtu.">

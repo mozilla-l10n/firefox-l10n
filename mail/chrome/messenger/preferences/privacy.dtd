@@ -35,9 +35,5 @@
 
 <!ENTITY dntTrackingNotOkay.label2 "Informovat servery, že nechci být sledován">
 <!ENTITY dntTrackingNotOkay.accesskey "r">
-<!ENTITY dntTrackingOkay.label2 "Informovat servery, že můžu být sledován">
-<!ENTITY dntTrackingOkay.accesskey "t">
-<!ENTITY dntTrackingNopref.label2 "Neinformovat servery o mém nastavení, zda chci být sledován">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY doNotTrackInfo.label "Zjistit více o Do Not Track">
 
