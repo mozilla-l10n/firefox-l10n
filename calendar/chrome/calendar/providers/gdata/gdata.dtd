@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Vždy kontrolovat">
 
+<!ENTITY gdata.reminder.default "Výchozí připomenutí">
 <!ENTITY gdata.reminder.action.sms.label "Poslat SMS">
+
+<!ENTITY gdata.wizard.session.description "Vyberte prosím existující relaci nebo vložte vaši e-mailovou adresu pro vytvoření nové. Pro jeden účet stačí pouze jedna relace.">
+<!ENTITY gdata.wizard.calendars.description "Vyberte prosím kalendáře a úkoly, které chcete odebírat.">
+
+<!ENTITY gdata.wizard.nextstep.description "Pokračujte prosím dalším krokem pro nastavení vašich kalendářů.">

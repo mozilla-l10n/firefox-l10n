@@ -243,6 +243,16 @@
 <!ENTITY calendar.context.properties.label "Možnosti">
 <!ENTITY calendar.context.properties.accesskey "M">
 
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "Z">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "p">
+<!ENTITY calendar.context.showall.label                "Zobrazit všechny kalendáře">
+<!ENTITY calendar.context.showall.accesskey            "v">
+
 <!ENTITY calendar.context.convertmenu.label "Převést na">
 <!ENTITY calendar.context.convertmenu.accesskey.mail "P">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
