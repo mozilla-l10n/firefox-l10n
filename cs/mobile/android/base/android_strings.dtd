@@ -173,10 +173,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
-<!ENTITY pref_donottrack_menu "Sledování">
-<!ENTITY pref_donottrack_disallow_tracking "Informovat servery, že nechci být sledován">
-<!ENTITY pref_donottrack_allow_tracking "Informovat servery, že můžu být sledován">
-<!ENTITY pref_donottrack_no_pref "Neinformovat servery o mém nastavení, zda chci být sledován">
+<!ENTITY pref_donottrack_title "Funkce Do not track">
+<!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovali vaši aktivitu">
 
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
@@ -519,8 +517,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aplikace">
 
 <!ENTITY searchable_description "Záložky a historie">
-
-<!ENTITY devtools_remote_debugging_forward "Nezapomeňte nastavit port pro přesměrování">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
