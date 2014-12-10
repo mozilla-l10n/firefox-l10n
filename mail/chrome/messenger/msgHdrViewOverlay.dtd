@@ -49,8 +49,6 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vždy zobrazit Odpovědět odesílateli">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-
-<!ENTITY otherActionsButton1.label "Další akce">
 <!ENTITY otherActionsButton2.label "Další">
 <!ENTITY otherActionsButton.tooltip "Další akce">
 <!ENTITY otherActionsOpenConversation1.label "Otevřít jako konverzaci">
