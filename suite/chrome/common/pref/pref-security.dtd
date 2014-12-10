@@ -8,12 +8,12 @@
 <!ENTITY tracking.label "Sledování uživatelů">
 <!ENTITY trackingIntro.label "Webové servery mohou sledovat, jak je používáte, což ovlivňuje vaše soukromí.">
 
-<!ENTITY dntTellSites.label "Servery o mé volbě neinformovat.">
-<!ENTITY dntTellSites.accesskey "o">
-<!ENTITY dntTrackingNotOkay.label "Informovat servery, že nechci být sledován.">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label "Informovat servery, že můžu být sledován.">
-<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrack.label                 "Informovat servery, že nechci být sledován">
+<!ENTITY doNotTrack.accesskey             "n">
+<!ENTITY trackProtect.label               "Zamezit známým serverům mě sledovat">
+<!ENTITY trackProtect.accesskey           "z">
+<!ENTITY warnTrackContent.label           "Varovat, pokud budou zjištěny známé aktivity sledování">
+<!ENTITY warnTrackContent.accesskey       "V">
 
 <!ENTITY geoLocation.label                "Prohlížení se znalostí polohy">
 <!ENTITY geoIntro.label                   "Webové stránky mohou požadovat více informací o vaší současné poloze.">
