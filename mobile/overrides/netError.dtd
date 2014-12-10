@@ -11,18 +11,26 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Non é posíbel conectarse">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Este enderezo está restrinxido">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Non se atopou o servidor">
-<!ENTITY dnsNotFound.longDesc2 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Comprobe que o enderezo non conteña erros de escrita tales
     como <strong>ww</strong>.example.com no lugar de
     <strong>www</strong>.example.com</li>
-  <li>Se resulta imposíbel cargar algunhas páxinas, comprobe a conexión de datos ou Wi-Fi do seu dispositivo.</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
+  <li>Se resulta imposíbel cargar algunhas páxinas, comprobe a conexión de datos ou Wi-Fi do seu dispositivo.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -35,24 +43,35 @@
 ">
 
 <!ENTITY malformedURI.title "O enderezo é incorrecto">
-<!ENTITY malformedURI.longDesc "<ul>
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
   <li>Normalmente, os enderezos web escríbense como
-    <strong>http://www.exemplo.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Search</button>
+    </div>
   <li>Asegúrese de que está a usar barras inclinadas
     cara adiante (p. ex. <strong>/</strong>).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "Interrompeuse a conexión">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "O documento caducou">
 <!ENTITY notCached.longDesc "<p>O documento solicitado non está dispoñíbel na memoria caché do &brandShortName;.</p><ul><li>Por razóns de seguranza, automaticamente o &brandShortName; non volve a solicitar documentos sensíbeis.</li><li>Prema Tentar de novo para volver a solicitar o documento do sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sen conexión">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Tentar de novo. &brandShortName; tentará abrir unha conexión e recargar a páxina.</li>
+  <li>Tentar de novo. &brandShortName; tentará abrir unha conexión e recargar a páxina.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -63,13 +82,13 @@
 <!ENTITY unsafeContentType.longDesc "<ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY netReset.title "Reiniciouse a conexión">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "A conexión esgotou o tempo">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY protocolNotFound.title "Non se entendeu o enderezo">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Non se entendeu o enderezo">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>É posíbel que necesite instalar outro software para abrir este enderezo.</li>
 </ul>
@@ -83,10 +102,14 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Non é posíbel encontrar o servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Comprobe a configuración do proxy para asegurarse de que é a correcta.</li>
-  <li>Asegúrese de que o seu dispositivo ten unha conexión de datos ou Wi-Fi que funcione.</li>
+  <li>Asegúrese de que o seu dispositivo ten unha conexión de datos ou Wi-Fi que funcione.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -97,23 +120,32 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Comprobe que o seu sistema ten instalado o Xestor de seguranza persoal.</li><li>Isto podería deberse a unha configuración non estándar no servidor.</li></ul>">
 
 <!ENTITY nssFailure2.title "Fallou a conexión segura">
-<!ENTITY nssFailure2.longDesc "<ul><li>Non é posíbel mostrar a páxina que está a tentar visualizar porque non foi posíbel verificar a autenticidade dos datos recibidos.</li><li>Contacte cos propietarios do sitio web para informalos deste problema. Tamén pode usar a orde que se atopa no menú de axuda para informar deste sitio con problemas.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Non é posíbel amosar a páxina que está a tentar visualizar porque non foi posíbel comprobar a autenticidade dos datos recibidos.</li>
+  <li>Contacte cos propietarios do sitio web para informalos deste problema.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Fallou a conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Isto podería ser un problema coa configuración do servidor ou pode ser alguén que está tentando facerse pasar polo servidor.</li><li>Se xa puido conectarse a este servidor de forma correcta, pode ser que o erro sexa temporal e pode tentalo máis tarde.</li></ul>">
 
-<!ENTITY sharedLongDesc2 "
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
 <ul>
-  <li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos</li>
-  <li>Se non consegue cargar algunhas páxinas, comprobe a conexión de datos ou Wi-Fi do seu dispositivo móbil.</li>
+  <li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos.</li>
+  <li>Se non consegue cargar algunhas páxinas, comprobe a conexión de datos ou Wi-Fi do seu dispositivo móbil.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pola política de seguranza de contidos">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
+<!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de contido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel mostrar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel amosar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáqueme de aquí!">
