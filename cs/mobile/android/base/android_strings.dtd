@@ -173,10 +173,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
-<!ENTITY pref_donottrack_menu "Sledování">
-<!ENTITY pref_donottrack_disallow_tracking "Informovat servery, že nechci být sledován">
-<!ENTITY pref_donottrack_allow_tracking "Informovat servery, že můžu být sledován">
-<!ENTITY pref_donottrack_no_pref "Neinformovat servery o mém nastavení, zda chci být sledován">
+<!ENTITY pref_donottrack_title "Funkce Do not track">
+<!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovali vaši aktivitu">
 
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
@@ -211,6 +209,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
+
+<!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
+<!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
@@ -362,8 +363,13 @@ size. -->
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
-<!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
 <!ENTITY reading_list_duplicate "Stránka je již v Seznamu ke čtení">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Přes hodinu">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -387,6 +393,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Přidat stránku">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Úvodní stránka &brandShortName;">
 <!ENTITY home_history_title "Historie">
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
 <!ENTITY home_clear_history_confirm "Jste si jist(a), že chcete vymazat svou historii?">
@@ -396,6 +405,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_open_all "Otevřít vše">
 <!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navštívili, se zobrazí zde.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Mimochodem: při používání &formatS1;Nový anonymní panel&formatS2; nebude vaše historie ukládána.">
 <!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -464,11 +476,22 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "která je provozována">
+<!ENTITY identity_no_info "Tato stránka neposkytuje informace o své identitě.">
+<!ENTITY identity_not_encrypted "Připojení k této stránce není zabezpečené.">
+
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">      
 <!ENTITY blocked_mixed_content_message_top "Aplikace &brandShortName; zablokovala obsah, který není zabezpečený.">
 <!ENTITY blocked_mixed_content_message_bottom "Většina stránek bude fungovat přesto, že by tento obsah zablokován.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Ochrana před sledováním je vypnuta.">
+<!ENTITY loaded_tracking_content_message_bottom "Některé součásti této stránky mohou sledovat vaši aktivitu.">
+<!ENTITY blocked_tracking_content_message_top2 "Ochrana před sledováním je zapnutá.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Součásti stránky, které sledují vaši aktivitu, byly zablokovány.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Zjistit více">
 <!ENTITY enable_protection "Povolit ochranu">
 <!ENTITY disable_protection "Zakázat ochranu">
@@ -493,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aplikace">
 
 <!ENTITY searchable_description "Záložky a historie">
-
-<!ENTITY devtools_remote_debugging_forward "Nezapomeňte nastavit port pro přesměrování">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
@@ -549,3 +570,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Poslední synchronizace: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
