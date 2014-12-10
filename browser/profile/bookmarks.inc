@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description Engadir marcadores a este cartafol para velos na Barra de marcadores
 
 # LOCALIZATION NOTE (getting_started):
-# link title for https://www.mozilla.org/en-US/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define getting_started Iniciarse
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -36,10 +36,5 @@
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Sobre nós
-
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Enviar opinión
 
 #unfilter emptyLines
