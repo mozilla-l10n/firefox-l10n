@@ -40,7 +40,33 @@
 <!ENTITY lightning.calendarproperties.email.label               "Correo electrónico:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Esta mensaxe contén unha invitación a un evento.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.description                                      "Esta mensaxe contén unha invitación a un evento.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
