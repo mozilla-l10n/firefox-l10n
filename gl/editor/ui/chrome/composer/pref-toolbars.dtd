@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Barras de ferramentas">
 
-<!ENTITY composition.caption    "Mostrar estes botóns na barra de ferramentas Composición:">
+<!ENTITY composition.caption    "Amosar estes botóns na barra de ferramentas Composición:">
 
 <!ENTITY new.label              "Nova">
 <!ENTITY open.label             "Abrir">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Ligazón">
 <!ENTITY anchor.label           "Áncora">
 
-<!ENTITY formatting.caption     "Mostrar estes botóns na barra de ferramentas Formato:">
+<!ENTITY formatting.caption     "Amosar estes botóns na barra de ferramentas Formato:">
 
 <!ENTITY smaller.label          "Menor">
 <!ENTITY larger.label           "Maior">
@@ -30,8 +30,8 @@
 <!ENTITY bullets.label          "Viñetas">
 <!ENTITY numbers.label          "Números">
 <!ENTITY italic.label           "Cursiva">
-<!ENTITY outdent.label          "Anular sangría">
-<!ENTITY indent.label           "Aplicar sangría">
+<!ENTITY outdent.label          "Anular sangrado">
+<!ENTITY indent.label           "Aplicar sangrado">
 <!ENTITY underline.label        "Subliñado">
 
 <!ENTITY absolutePosition.label "Colocación fixa">

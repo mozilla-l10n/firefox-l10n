@@ -9,9 +9,10 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 50em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Xeral">
-<!ENTITY paneDisplay.title        "Mostrar">
+<!ENTITY paneDisplay.title        "Amosar">
 <!ENTITY paneComposition.title    "Redacción">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Anexos">
+
 <!ENTITY paneSecurity.title       "Seguranza">
 <!ENTITY paneAdvanced.title       "Opcións avanzadas">

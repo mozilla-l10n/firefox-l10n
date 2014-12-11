@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Restaurar as predefinicións">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animar a icona da áncora">
-<!ENTITY bounceSystemDockIcon.accesskey   "c">
+
+
+
 
 <!ENTITY newMessagesArrive.label          "Cando cheguen mensaxes novas:">
 <!ENTITY playSound.label                  "Reproducir un son">
@@ -20,6 +21,9 @@
 <!ENTITY showAnimatedAlert.accesskey      "r">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "P">
+
+
+
 
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "r">
