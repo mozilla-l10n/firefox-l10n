@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "a">
 <!ENTITY addIMAccountButton.label "Engadir conta de chat…">
 <!ENTITY addIMAccountButton.accesskey "c">
+
+
 <!ENTITY addOtherAccountButton.label "Engadir outra conta…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Estabelecer como predeterminada">

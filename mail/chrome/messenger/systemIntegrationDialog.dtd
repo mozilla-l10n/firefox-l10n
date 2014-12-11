@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Integración co sistema">
 <!ENTITY acceptIntegration.label  "Estabelecer como predeterminado">
 <!ENTITY cancelIntegration.label  "Saltar integración">
+
 <!ENTITY defaultClient.intro  "Usar o &brandShortName; como o cliente predeterminado para:">
 
 <!ENTITY email.label "Correo">

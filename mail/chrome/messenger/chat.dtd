@@ -6,7 +6,7 @@
 <!ENTITY offlineContactsHeader.label   "Contactos desconectados">
 <!ENTITY conversationsHeader.label     "Conversacións">
 <!ENTITY searchResultConversation.label "Resultados da busca">
-<!ENTITY chat.noConv.title             "Mostraranse aquí as conversacións.">
+<!ENTITY chat.noConv.title             "Amosaranse aquí as conversacións.">
 <!ENTITY chat.noConv.description       "Use a lista de contactos no panel da esquerda para iniciar unha conversación.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; non ten conversacións gardadas para este contacto.">
 <!ENTITY chat.noAccount.title             "Aínda non configurou unha conta de conversas.">
@@ -14,7 +14,7 @@
 <!ENTITY chat.accountWizard.button       "Comezar">
 <!ENTITY chat.noConnectedAccount.title             "As súas contas de conversas non están conectadas.">
 <!ENTITY chat.noConnectedAccount.description       "Pode conectalas desde a caixa de diálogo 'Estado da conexión':">
-<!ENTITY chat.showAccountManager.button       "Mostrar o estado da conexión">
+<!ENTITY chat.showAccountManager.button       "Amosar o estado da conexión">
 
 <!ENTITY chat.participants             "Participantes:">
 <!ENTITY chat.previousConversations    "Conversacións anteriores:">
@@ -34,7 +34,7 @@
 
 <!ENTITY addBuddyButton.label          "Engadir contacto">
 <!ENTITY joinChatButton.label          "Únete a conversa">
-<!ENTITY chatAccountsButton.label      "Mostrar contas">
+<!ENTITY chatAccountsButton.label      "Amosar contas">
 
 <!ENTITY status.available          "Dispoñíbel">
 <!ENTITY status.unavailable        "Non dispoñíbel">

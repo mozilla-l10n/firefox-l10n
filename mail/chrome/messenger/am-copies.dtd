@@ -18,7 +18,7 @@
 <!ENTITY bccAddress.label "Bcc para estes enderezos de correo:">
 <!ENTITY bccAddress.accesskey "e">
 <!ENTITY bccAddressList.placeholder "Separar os enderezos con vírgulas">
-<!ENTITY saveMessageDlg.label "Mostrar unha caixa de diálogo de confirmación ao gardar mensaxes">
+<!ENTITY saveMessageDlg.label "Amosar unha caixa de diálogo de confirmación ao gardar mensaxes">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Cartafol &quot;Enviados&quot; en:">

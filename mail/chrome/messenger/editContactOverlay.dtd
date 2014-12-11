@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "Feito">
 <!ENTITY editContactPanelDone.accesskey "t">
 
-<!ENTITY contactMoveDisabledWarning.description "Non é posíbel que cambie a axenda de enderezos porque o contacto está nunha rolda de correo.">
+<!ENTITY contactMoveDisabledWarning.description "Non é posíbel que cambie a axenda de enderezos porque o contacto está nunha lista de correo.">

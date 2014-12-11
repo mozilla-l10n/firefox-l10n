@@ -47,13 +47,6 @@
 <!ENTITY Unknown.label                  "Descoñecido">
 <!ENTITY chatName.label                 "Nome das conversas:">
 
-<!ENTITY allowRemoteContent1.label      "Permitir contido remoto.">
-<!ENTITY allowRemoteContent1.accesskey  "m">
-<!ENTITY allowRemoteContent1.tooltip    "Nas mensaxes HTML é posíbel incorporar
-contido de orixes remotas. Ao abrilas conectarase con esta orixe externa. Isto pode 
-permitir o rastrexamento das mensaxe que foron lidas. Marcando esta caixa permitirase 
-a visualización do contido incorporado nas mensaxes HTML deste contacto.">
-
 <!ENTITY WorkPhone.label                "Traballo:">
 <!ENTITY WorkPhone.accesskey            "l">
 <!ENTITY HomePhone.label                "Domicilio:">
