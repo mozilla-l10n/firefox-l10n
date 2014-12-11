@@ -576,7 +576,7 @@
 <!ENTITY editRemoteContentSettingsUnix.accesskey "p">
 
 <!-- Phishing Button Popup -->
-<!ENTITY phishingOptionIgnore.label "Shpërfille sinjalzimin për këtë mesazh">
+<!ENTITY phishingOptionIgnore.label "Shpërfille sinjalizimin për këtë mesazh">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Përpunoni mundësi zbulimi mashtrimesh…">
 <!ENTITY phishingOptionSettings.accesskey "a">
