@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
-<!ENTITY pref.defaultlength.label "Duración predeterminada dun evento:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada da suspensión:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY pref.accessibility.label "Accesibilidade" >
 <!ENTITY pref.systemcolors.label "Optimizar as cores para accesibilidade" >

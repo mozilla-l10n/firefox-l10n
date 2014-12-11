@@ -11,10 +11,7 @@
 <!ENTITY reminder.reminderDetails.label                    "Detalles do recordatorio">
 <!ENTITY reminder.action.label                             "Escolla unha acción de recordatorio">
 
-<!ENTITY reminder.relation.before.label                    "antes" >
-<!ENTITY reminder.relation.after.label                     "despois" >
-
-<!ENTITY reminder.action.alert.label                       "Mostrar unha alerta">
+<!ENTITY reminder.action.alert.label                       "Amosar unha alerta">
 <!ENTITY reminder.action.email.label                       "Enviar un correo">
 
 <!ENTITY alarm.units.minutes                               "minutos" >
