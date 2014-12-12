@@ -40,7 +40,33 @@
 <!ENTITY lightning.calendarproperties.email.label               "Correo electrónico:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Esta mensaxe contén unha invitación a un evento.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Aceptar">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Aceptar invitación ao evento">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Aceptar todo">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Aceptar as invitacións para todas as ocorrencias do evento">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Engadir">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Engadir o evento ao calendario">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Rexeitar">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Rexeitar invitación ao evento">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Rexeitar todo">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Rexeitar as invitacións para todas as ocorrencias do evento">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Eliminar">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Eliminar do calendario">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalles…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Amosar os detalles do evento">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Máis">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Prema para amosar máis opcións">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Volver a confirmar">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Envía a confirmación de novo ao organizador">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gardar unha copia">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Garda unha copia do evento no calendario independentemente da resposta dada ao organizador. Borrarase a lista de asistentes.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Aceptar provisionalmente">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Aceptar provisionalmente a invitación ao evento">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Aceptar provisionalmente todas">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aceptar provisionalmente as invitacións para todas as ocorrencias do evento">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualizar">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizar evento no calendario">
+<!ENTITY lightning.imipbar.description                                      "Esta mensaxe contén unha invitación a un evento.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
