@@ -10,6 +10,7 @@
 <!ENTITY prefWinMinSize.styleGNOME "width: 50em; min-height: 40.5em;">
 <!ENTITY paneGeneral.title "Generale">
 <!ENTITY paneTabs.title "Schede">
+<!ENTITY paneSearch.title "Ricerca">
 <!ENTITY paneContent.title "Contenuti">
 <!ENTITY paneApplications.title "Applicazioni">
 <!ENTITY panePrivacy.title "Privacy">
