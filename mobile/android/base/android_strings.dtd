@@ -429,6 +429,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Las pestañas de tus otros dispositivos aparecen acá.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Ingresá para reconectar a tu cuenta de Firefox Account y continuar sincronizando.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Tu nueva cuenta en Firefox Account está lista">
+
 <!ENTITY home_remote_tabs_trouble_verifying "¿Problemas verificando tu cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Verificá tu cuenta de Firefox para comenzar a sincronizar.">
 
