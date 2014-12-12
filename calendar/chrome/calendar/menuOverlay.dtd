@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Novo evento…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Nova tarefa…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "N">
 
-<!ENTITY calendar.new.server.label              "Novo calendario…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "l">
-
-<!ENTITY calendar.print.label                   "Imprimir…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "p">
-
 <!ENTITY calendar.import.label                  "Importar…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Exportar…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Exportar selección…">
-<!ENTITY calendar.export.selection.accesskey    "s">
 
 <!ENTITY calendar.publish.label                 "Publicar…">
 <!ENTITY calendar.publish.accesskey             "b">
@@ -40,15 +27,8 @@
 <!ENTITY showUnifinderCmd.label                 "Atopar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "A">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Mostrar as tarefas no calendario">
+<!ENTITY calendar.displaytodos.checkbox.label       "Amosar as tarefas no calendario">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Tamaño da vista de varias semanas">
-<!ENTITY calendar.menu.numberofweeks.2          "Dúas semanas">
-<!ENTITY calendar.menu.numberofweeks.3          "Tres semanas">
-<!ENTITY calendar.menu.numberofweeks.4          "Catro semanas">
-<!ENTITY calendar.menu.numberofweeks.5          "Cinco semanas">
-<!ENTITY calendar.menu.numberofweeks.6          "Seis semanas">
 
 <!ENTITY goTodayCmd.label                       "Hoxe">
 <!ENTITY goTodayCmd.accesskey                   "H">

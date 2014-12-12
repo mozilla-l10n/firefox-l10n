@@ -5,7 +5,7 @@
 
 <!-- Calendar Subscriptions Dialog -->
 <!ENTITY calendar.subscriptions.dialog.title                            "Subscribirse aos calendarios">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Mostrar os calendarios que conteñan:">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Amosar os calendarios que conteñan:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Buscar">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Seleccione a que calendarios desexa subscribirse:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscribir">

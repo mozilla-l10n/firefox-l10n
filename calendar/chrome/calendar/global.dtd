@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Venres" >
 <!ENTITY day.7.name "Sábado" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minuto">
-<!ENTITY calendar.global.units.minutes  "minutos">
-<!ENTITY calendar.global.units.hour     "hora">
-<!ENTITY calendar.global.units.hours    "horas">
-<!ENTITY calendar.global.units.day      "día">
-<!ENTITY calendar.global.units.days     "días">
-
 <!ENTITY month.1.name "Xaneiro" >
 <!ENTITY month.2.name "Febreiro" >
 <!ENTITY month.3.name "Marzo" >
@@ -57,4 +49,4 @@
 <!ENTITY showToday.tooltip "Ir ao día actual">
 <!ENTITY onedayforward.tooltip "Avanzar un día">
 <!ENTITY onedaybackward.tooltip "Retroceder un día">
-<!ENTITY showselectedday.tooltip "Mostrar eventos para o día seleccionado">
+<!ENTITY showselectedday.tooltip "Amosar eventos para o día seleccionado">
