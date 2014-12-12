@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "La barre de recherche vous permet de changer de moteur de recherche à la volée. Sélectionnez ceux à afficher.">
 
+<!ENTITY engineNameColumn.label                "Moteur de recherche">
+<!ENTITY engineKeywordColumn.label             "Mot-clé">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurer les moteurs de recherche par défaut">
+<!ENTITY restoreDefaultSearchEngines.accesskey "R">
+
+<!ENTITY removeEngine.label                    "Supprimer">
+<!ENTITY removeEngine.accesskey                "S">
+
 <!ENTITY addMoreSearchEngines.label            "Ajouter d'autres moteurs de recherche…">
