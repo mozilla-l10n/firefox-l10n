@@ -38,7 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menú do aplicativo">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Amosa o menú do &brandShortName;">
-
-
-
-
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panel de calendario">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Amosar panel de calendario">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "p">

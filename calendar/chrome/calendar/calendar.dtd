@@ -30,31 +30,31 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Feito">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por rematado">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
-
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar pola prioridade">
 <!ENTITY calendar.unifinder.tree.title.label               "Título">
-
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordenar polo título">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "Progresión">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordenar pola progresión">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Inicio">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordenar pola data de inicio">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fin">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordenar pola data de fin">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Vencemento">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordenar pola data de vencemento">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Rematado">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordenar pola data de remate">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categoría">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ordenar pola categoría">
 <!ENTITY calendar.unifinder.tree.location.label            "Localización">
-
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Ordenar pola localización">
 <!ENTITY calendar.unifinder.tree.status.label              "Estado">
-
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ordenar polo estado">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nome do calendario">
-
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar polo nome do calendario">
 <!ENTITY calendar.unifinder.tree.duration.label            "Tempo restante">
-
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordenar polo tempo ata o vencemento">
 <!ENTITY calendar.unifinder.close.tooltip                  "Pechar a lista da busca de eventos e a lista de eventos">
 
 <!ENTITY calendar.today.button.tooltip          "Ir ao día actual" >
@@ -88,7 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Novo evento" >
 <!ENTITY calendar.newtask.button.label          "Nova tarefa" >
 <!ENTITY calendar.print.button.label            "Imprimir" >
-
+<!ENTITY calendar.print.button.accesskey        "p">
 
 <!ENTITY calendar.day.button.label              "Día" >
 <!ENTITY calendar.week.button.label             "Semana" >
@@ -193,7 +193,7 @@
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
 <!ENTITY progress.level.0             "0&percnt; completado">
-
+<!ENTITY progress.level.0.accesskey   "0">
 <!ENTITY progress.level.25            "25&percnt; completado">
 <!ENTITY progress.level.25.accesskey  "2">
 <!ENTITY progress.level.50            "50&percnt; completado">
@@ -245,13 +245,13 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
-
+<!ENTITY calendar.context.togglevisible.accesskey      "m">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-
-
-
+<!ENTITY calendar.context.showonly.accesskey           "o">
+<!ENTITY calendar.context.showall.label                "Amosar todos os calendarios">
+<!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Converter a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
@@ -355,7 +355,7 @@
 <!ENTITY calendar.error.title "Produciuse un erro">
 
 <!-- Extract buttons in message header -->
-
-
-
-
+<!ENTITY calendar.extract.event.button         "Engadir como evento">
+<!ENTITY calendar.extract.task.button          "Engadir como tarefa">
+<!ENTITY calendar.extract.event.button.tooltip "Extrae a información temporal da mensaxe e engádea ao calendario como un evento">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrae a información temporal da mensaxe e engádea ao calendario como unha tarefa">

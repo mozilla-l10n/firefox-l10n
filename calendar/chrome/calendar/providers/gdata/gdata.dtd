@@ -13,10 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Comprobar sempre ">
 
-
+<!ENTITY gdata.reminder.default "Recordatorio predeterminado">
 <!ENTITY gdata.reminder.action.sms.label "Enviar unha mensaxe de texto">
 
+<!ENTITY gdata.wizard.session.description "Seleccione unha sesión existente ou escriba o seu correo para crear unha nova sesión. Só necesita unha sesión por conta.">
+<!ENTITY gdata.wizard.calendars.description "Seleccione os calendarios e listas de tarefas ás que quere subscribirse.">
 
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Avance ao seguinte paso para configurar os seus calendarios.">
