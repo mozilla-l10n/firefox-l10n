@@ -4,14 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "Standaardzoekmachine">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Kies uw standaardzoekmachine. &brandShortName; gebruikt deze in de locatiebalk, zoekbalk, en startpagina.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Kies uw standaardzoekmachine. &brandShortName; gebruikt deze in de locatiebalk, zoekbalk en startpagina.">
 
 <!ENTITY provideSearchSuggestions.label        "Zoeksuggesties geven">
 <!ENTITY provideSearchSuggestions.accesskey    "Z">
 
 
-<!ENTITY oneClickSearchEngines.label           "Een-klik zoekmachines">
+<!ENTITY oneClickSearchEngines.label           "Een-klik-zoekmachines">
 
-<!ENTITY chooseWhichOneToDisplay.label         "U kunt met alternative zoekmachines direct zoeken in de zoekbalk. Kies welke getoond worden.">
+<!ENTITY chooseWhichOneToDisplay.label         "In de zoekbalk kunt u direct bij alternatieve zoekmachines zoeken. Kies de machines om weer te geven.">
 
 <!ENTITY addMoreSearchEngines.label            "Meer zoekmachines toevoegen…">
