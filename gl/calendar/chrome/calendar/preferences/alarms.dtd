@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "Tempo predeterminado no que se activará unha alarma antes dunha tarefa:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Enderezo predeterminado ao que enviar as alarmas:">
-<!ENTITY pref.defaulttext.label "Texto predeterminado para as alarmas:">
+
+<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada da suspensión:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

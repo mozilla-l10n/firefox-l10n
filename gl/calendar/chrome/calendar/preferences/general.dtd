@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
-<!ENTITY pref.defaultlength.label "Duración predeterminada dun evento:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada da suspensión:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.defaults.label "Valores predeterminados para os novos elementos">
+<!ENTITY pref.events.label "Eventos">
+<!ENTITY pref.tasks.label "Tarefas">
+
+<!ENTITY pref.default_event_length.label "Duración predeterminada:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Ningunha">
+<!ENTITY pref.default_task_start_of_day.label "Inicio do día">
+<!ENTITY pref.default_task_end_of_day.label "Fin do día">
+<!ENTITY pref.default_task_tomorrow.label "Mañá">
+<!ENTITY pref.default_task_next_week.label "Seguinte semana">
+<!ENTITY pref.default_task_offset_current.label "Relativo á hora actual">
+<!ENTITY pref.default_task_offset_start.label "Relativo ao inicio">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativo a próxima hora">
 
 <!ENTITY pref.accessibility.label "Accesibilidade" >
 <!ENTITY pref.systemcolors.label "Optimizar as cores para accesibilidade" >
