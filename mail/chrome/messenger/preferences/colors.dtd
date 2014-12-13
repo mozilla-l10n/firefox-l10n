@@ -5,8 +5,14 @@
 <!ENTITY  colorsDialog.title              "Cores">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
-<!ENTITY  allowPagesToUse.label           "Permitir que o conteúdo escolha as suas cores, em vez das seleções acima">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+
+<!ENTITY  allowPagesToUseColors.label     "Permitir que o conteúdo escolha as suas cores, em vez das seleções acima:">
+<!ENTITY  allowPagesToUseColors.accesskey "a">
+
+<!ENTITY  allowPagesToUseColors.automatic.label "Automático">
+<!ENTITY  allowPagesToUseColors.always.label    "Sempre">
+<!ENTITY  allowPagesToUseColors.never.label     "Nunca">
+
 <!ENTITY  color                           "Texto e fundo">
 <!ENTITY  textColor.label                 "Texto:">
 <!ENTITY  textColor.accesskey             "t">
@@ -14,6 +20,7 @@
 <!ENTITY  backgroundColor.accesskey       "d">
 <!ENTITY  useSystemColors.label           "Utilizar cores do sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
+
 <!ENTITY  underlineLinks.label            "Ligações sublinhadas">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Cores das ligações">

@@ -10,16 +10,13 @@
 <!ENTITY options.label "Opções">
 <!ENTITY optionInline.label "Modo em linha">
 <!ENTITY optionInline.accesskey "n">
-<!ENTITY optionDisplay.label "Mostrar modo">
+<!ENTITY optionDisplay.label "Modo de exibição">
 <!ENTITY optionDisplay.accesskey "d">
-<!ENTITY optionLTR.label "Direção da esq. - dir.">
-<!ENTITY optionLTR.accesskey "q">
-<!ENTITY optionRTL.label "Direção dir.- esq.">
-<!ENTITY optionRTL.accesskey "i">
-
-<!ENTITY example.label "Example: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+<!ENTITY optionLTR.label "Da esquerda para a direita">
+<!ENTITY optionLTR.accesskey "e">
+<!ENTITY optionRTL.label "Da direita para a esquerda">
+<!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY insertButton.label "Inserir">
 <!ENTITY insertButton.accesskey "I">
+
