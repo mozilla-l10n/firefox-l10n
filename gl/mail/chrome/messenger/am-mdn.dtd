@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Avisos de recepción">
 <!ENTITY useGlobalPrefs.label         "Utilizar as miñas preferencias globais do aviso de recepción para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "U">

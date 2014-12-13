@@ -12,7 +12,7 @@
 <!ENTITY newContact.label                               "Contacto da axenda de enderezos…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Rolda de correo…">
+<!ENTITY newListCmd.label                               "Lista de correo…">
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Axenda de enderezos…">
 <!ENTITY newAddressBookCmd.accesskey                    "x">
@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Propiedades…">
-<!ENTITY propertiesCmd.accesskey                        "p">
+<!ENTITY propertiesCmd2.label                           "Propiedades">
+<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -97,7 +97,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "d">
 <!ENTITY showContactPane2.label                         "Panel de contactos">
 <!ENTITY showContactPane2.accesskey                     "c">
-<!ENTITY menu_ShowNameAs.label                          "Mostrar nome como">
+<!ENTITY menu_ShowNameAs.label                          "Amosar nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "s"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "a">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opcións…">
-<!ENTITY preferencesCmd.accesskey                       "p">
+<!ENTITY preferencesCmd2.label                          "Opcións">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey                   "f">
 

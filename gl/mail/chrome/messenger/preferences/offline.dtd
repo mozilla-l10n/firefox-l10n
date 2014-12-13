@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Configuración sen conexión">
 
-<!ENTITY textStartUp "Ao iniciar:">
+
+
+
 <!ENTITY radioRememberPrevState.label "Lembrar o estado de cando estaba conectado">
 <!ENTITY radioRememberPrevState.accesskey "L">
-<!ENTITY radioAskMe.label "Preguntar se devolver a conexión ao iniciar">
-<!ENTITY radioAskMe.accesskey "P">
-<!ENTITY radioAlwaysOnline.label "Sempre iniciar conectado">
+
+
+
 <!ENTITY radioAlwaysOnline.accesskey "m">
+
+
 
 <!ENTITY textGoingOnline "Enviar as mensaxes non enviadas ao desconectar?">
 <!ENTITY radioAutoSend.label "Si">

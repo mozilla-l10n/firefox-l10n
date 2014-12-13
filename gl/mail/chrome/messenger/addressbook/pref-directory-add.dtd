@@ -28,7 +28,7 @@
 <!ENTITY scopeOneLevel.accesskey           "U">
 <!ENTITY scopeSubtree.label                "Subárbore">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Non mostrar máis de">
+<!ENTITY return.label                      "Non amosar máis de">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Se descarga unha copia local do directorio poderá traballar nela sen ter conexión.">

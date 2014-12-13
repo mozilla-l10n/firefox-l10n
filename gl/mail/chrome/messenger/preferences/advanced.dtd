@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Buscar automaticamente actualizacións para:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "a">
-<!ENTITY whenUpdatesFound.label         "Cando se atopen actualizacións para &brandShortName;:">
-<!ENTITY modeAskMe.label                "Preguntarme que quero facer">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Descargar e instalar automaticamente a actualización">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Avisarme se supón a desactivación dalgún complemento">
-<!ENTITY modeAutoAddonWarn.accesskey    "g">
-<!ENTITY showUpdates.label              "Amosar o historial de actualizacións">
-<!ENTITY showUpdates.accesskey          "s">
+<!ENTITY updateApp.label                 "Actualizacións do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar actualizacións automaticamente (recomendado: mellora a seguranza)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Buscar actualizacións, pero permitirme escoller se quero instalalas">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Non buscar actualizacións (non recomendado: risco de seguranza)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avisarme se isto desactivase algún dos meus complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+<!ENTITY updateHistory.label             "Amosar o historial de actualizacións">
+<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
 <!ENTITY useService.accesskey            "z">
@@ -114,12 +111,10 @@
 <!ENTITY certs.auto.accesskey            "E">
 <!ENTITY certs.ask                       "Preguntarme cada vez">
 <!ENTITY certs.ask.accesskey             "P">
+<!ENTITY enableOCSP.label                "Consultar aos servidores OCSP responder para confirmar a validez dos certificados">
+<!ENTITY enableOCSP.accesskey            "t">
 
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "t">
-<!ENTITY viewCRLs.label                 "Listas de revogación">
-<!ENTITY viewCRLs.accesskey             "L">
-<!ENTITY validation.label               "Validación">
-<!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositivos de seguranza">
 <!ENTITY viewSecurityDevices.accesskey  "s">

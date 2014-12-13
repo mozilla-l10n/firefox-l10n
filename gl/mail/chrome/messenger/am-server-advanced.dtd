@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Directorio do servidor IMAP:">
 <!ENTITY serverDirectory.accesskey "r">
-<!ENTITY usingSubscription.label "Mostrar só os cartafoles subscritos">
+<!ENTITY usingSubscription.label "Amosar só os cartafoles subscritos">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor admite cartafoles que conteñan subcartafoles e mensaxes">
 <!ENTITY dualUseFolders.accesskey "e">
@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que o servidor ignore estes espazos de nome">
 <!ENTITY overrideNamespaces.accesskey "n">
 <!ENTITY pop3Desc.label "Ao descargar correo pop deste servidor, utilizar o seguinte cartafol para o correo novo:" >
-<!ENTITY globalInbox.label "Caixa de entrada global (conta de cartafoles locais)">
-<!ENTITY globalInbox.accesskey "a">
 <!ENTITY accountDirectory.label "Caixa de entrada para esta conta do servidor">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Caixa de entrada para outra conta">

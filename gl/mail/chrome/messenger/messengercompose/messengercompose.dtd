@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Escribir: (sen asunto)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Ficheiro"> 
+<!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Tarxeta persoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Lembrarmo máis tarde">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Pechar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "P">
@@ -50,25 +52,27 @@
 <!ENTITY sendLaterCmd.accesskey "m">
 <!ENTITY printSetupCmd.label "Configuración da páxina…">
 <!ENTITY printSetupCmd.accesskey "C">
+<!ENTITY printPreviewCmd.label "Previsualizar">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Editar"> 
+<!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "D"> 
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY redoCmd.label "Refacer">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "C"> 
+<!ENTITY cutCmd.accesskey "C">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "o"> 
+<!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
@@ -83,24 +87,27 @@
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "S"> 
-<!ENTITY findCmd.label "Localizar e substituír…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "L">
+<!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituír…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
+<!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "a"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Ver"> 
+<!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "B"> 
+<!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas">
+<!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Barra de ferramentas do Composer">
@@ -112,8 +119,8 @@
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "s">
 
-<!ENTITY addressSidebar.label "Barra lateral de contactos"> 
-<!ENTITY addressSidebar.accesskey "l"> 
+<!ENTITY addressSidebar.label "Barra lateral de contactos">
+<!ENTITY addressSidebar.accesskey "l">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formato">
@@ -175,19 +182,19 @@
 <!ENTITY addressBookCmd.label "Axenda de enderezos">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "e">
-<!ENTITY accountManagerCmd.label "Configuración da conta…">
-<!ENTITY accountManagerCmd.accesskey "C">
-<!ENTITY accountManagerCmdUnix.accesskey "n">
-<!ENTITY preferencesCmd.label "Opcións…">
-<!ENTITY preferencesCmd.accesskey "c">
-<!ENTITY preferencesCmdUnix.label       "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey   "f"> 
+<!ENTITY accountManagerCmd2.label "Configuración da conta">
+<!ENTITY accountManagerCmd2.accesskey "g">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opcións">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferencias">
+<!ENTITY preferencesCmdUnix.accesskey "f">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Traer todo á fronte">
-<!ENTITY zoomWindow.label "Zoom"> 
+<!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Xanela">
 
 <!-- Mail Toolbar -->
@@ -197,18 +204,20 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Gardar">
+<!ENTITY printButton.label "Imprimir">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Enviar esta mensaxe agora"> 
-<!ENTITY sendlaterButton.tooltip "Enviar esta mensaxe máis tarde"> 
-<!ENTITY quoteButton.tooltip "Citar a mensaxe anterior"> 
-<!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos"> 
-<!ENTITY attachButton.tooltip "Incluír un anexo"> 
-<!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa"> 
-<!ENTITY saveButton.tooltip "Gardar esta mensaxe"> 
+<!ENTITY sendButton.tooltip "Enviar esta mensaxe agora">
+<!ENTITY sendlaterButton.tooltip "Enviar esta mensaxe máis tarde">
+<!ENTITY quoteButton.tooltip "Citar a mensaxe anterior">
+<!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
+<!ENTITY attachButton.tooltip "Incluír un anexo">
+<!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
+<!ENTITY saveButton.tooltip "Gardar esta mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Pegar">
+<!ENTITY printButton.tooltip "Imprimir esta mensaxe">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -216,12 +225,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "e">
-<!ENTITY toAddr.label "Para:"> 
-<!ENTITY ccAddr.label "CC:"> 
-<!ENTITY bccAddr.label "CCO:"> 
-<!ENTITY replyAddr.label "Responder a: "> 
-<!ENTITY newsgroupsAddr.label "Grupo de noticias:"> 
-<!ENTITY followupAddr.label "Seguimento de:"> 
+<!ENTITY toAddr.label "Para:">
+<!ENTITY ccAddr.label "CC:">
+<!ENTITY bccAddr.label "CCO:">
+<!ENTITY replyAddr.label "Responder a: ">
+<!ENTITY newsgroupsAddr.label "Grupo de noticias:">
+<!ENTITY followupAddr.label "Seguimento de:">
 <!ENTITY subject.label "Asunto: ">
 <!ENTITY subject.accesskey "n">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -284,14 +293,12 @@
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
-
 <!ENTITY attachPage.label "Anexar páxina web…">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
 <!ENTITY spellAddDictionaries.accesskey "a">
-
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
