@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Configuración sin conexión">
-<!ENTITY textStartUp "Al iniciar:">
+<!ENTITY checkAutoDetect.label "Seguir automáticamente el estado de conexión detectado">
+<!ENTITY checkAutoDetect.accesskey "a">
+<!ENTITY titleStartUp "Estado manual al iniciar:">
 <!ENTITY radioRememberPrevState.label "Recordar el estado de conexión anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Preguntarme el modo de conexión al iniciar">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Iniciar siempre conectado">
+<!ENTITY radioAskState.label "Preguntarme el estado de conexión">
+<!ENTITY radioAskState.accesskey "d">
+<!ENTITY radioAlwaysOnline.label "Con conexión">
 <!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY radioAlwaysOffline.label "Sin conexión">
+<!ENTITY radioAlwaysOffline.accesskey "o">
 <!ENTITY textGoingOnline "¿Enviar mensajes pendientes al pasar a modo con conexión?">
 <!ENTITY radioAutoSend.label "Sí">
 <!ENTITY radioAutoSend.accesskey "S">

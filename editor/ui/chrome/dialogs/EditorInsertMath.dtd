@@ -13,7 +13,5 @@
 <!ENTITY optionLTR.accesskey "z">
 <!ENTITY optionRTL.label "Dirección de derecha a izquierda">
 <!ENTITY optionRTL.accesskey "d">
-<!ENTITY example.label "Ejemplo: ">
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
 <!ENTITY insertButton.label "Insertar">
 <!ENTITY insertButton.accesskey "I">
