@@ -69,7 +69,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "S">
 <!ENTITY newsrcFilePath.label "ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Seleccionar un ficheiro newsrc">
-<!ENTITY abbreviate.label "Mostrar os nomes dos grupos de novas no cartafol de correo como:">
+<!ENTITY abbreviate.label "Amosar os nomes dos grupos de novas no cartafol de correo como:">
 <!ENTITY abbreviateOn.label "Nomes completos (por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
@@ -79,7 +79,6 @@
 <!ENTITY localFolderPicker.label "Seleccione un cartafol local">
 <!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">
-<!ENTITY newsrcPicker.label "Seleccionar un ficheiro newsrc">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "E">
 

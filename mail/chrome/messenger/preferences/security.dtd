@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Correos fraudulentos">
 <!ENTITY itemPasswords.label     "Contrasinais">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Contido web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Defina a configuración predeterminada para o correo lixo. As configuracións específicas de cada conta poden configurarse en Configuracións da conta.">
@@ -20,7 +19,7 @@
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Activar o rexistro do filtro adaptábel do lixo">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "e">
-<!ENTITY openJunkLog.label "Mostrar o rexistro">
+<!ENTITY openJunkLog.label "Amosar o rexistro">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Restabelecer os datos de adestramento">
 <!ENTITY resetTrainingData.accesskey "R">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label      "Permitir que os clientes antivirus poñan en corentena mensaxes individuais entrantes.">
 <!ENTITY antiVirus.accesskey  "P">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; permítelle especificar que blogs, fontes de novas e outros sitios web teñen permitido estabelecer cookies.">
-<!ENTITY acceptCookies.label            "Aceptar cookies dos sitios">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Conservar até:">
-<!ENTITY keepUntil.accesskey            "a">
-<!ENTITY expire.label                   "que caduquen">
-<!ENTITY close.label                    "que peche &brandShortName;">
-<!ENTITY askEachTime.label              "preguntarme cada vez">
-<!ENTITY cookieExceptions.label         "Excepcións…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mostrar cookies…">
-<!ENTITY showCookies.accesskey          "M">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Dicirlle aos sitios que non quero ser seguido">
-<!ENTITY doNotTrack.accesskey           "d">

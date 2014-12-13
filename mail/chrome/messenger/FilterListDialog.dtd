@@ -21,7 +21,7 @@
 <!ENTITY reorderBottomButton "Mover ao final">
 <!ENTITY reorderBottomButton.accessKey "f">
 <!ENTITY reorderBottomButton.toolTip "Reordena o filtro para que se execute despois dos outros">
-<!ENTITY filterHeader.label "Os filtro activados actívanse automaticamente na orde mostrada a seguir.">
+<!ENTITY filterHeader.label "Os filtro activados actívanse automaticamente na orde amosada a seguir.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Rexistro de filtros">
@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "t">
 <!ENTITY folderPickerPrefix.label "Executar os filtros seleccionados en:">
 <!ENTITY folderPickerPrefix.accesskey "s">
-<!ENTITY choosethis.label "escoller este cartafol">
-<!ENTITY choosethisnewsserver.label "escoller este servidor de noticias">
 <!ENTITY helpButton.label "Axuda">
 <!ENTITY helpButton.accesskey "x">
 <!ENTITY closeCmd.key "W"> 

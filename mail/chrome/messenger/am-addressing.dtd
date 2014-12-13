@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Redacción">
+<!ENTITY compositionGroupTitle.label          "Redacción">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redactar mensaxes en formato HTML">
 <!ENTITY useHtml.accesskey                    "d">

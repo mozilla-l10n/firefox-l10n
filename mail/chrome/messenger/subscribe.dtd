@@ -17,6 +17,6 @@
 <!ENTITY server.accesskey             "a">
 <!ENTITY subscribedHeader.label       "Subscribir">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mensaxes"> -->
-<!ENTITY namefield.label              "Mostrar elementos que conteñan:">
+<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY namefield.label              "Amosar elementos que conteñan:">
 <!ENTITY namefield.accesskey          "o">
