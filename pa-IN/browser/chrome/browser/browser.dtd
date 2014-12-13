@@ -423,6 +423,13 @@ can reach it easily. -->
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "ਖੋਜ ">
+<!ENTITY searchWith.label             " ਇਸ ਨਾਲ:">
+<!ENTITY changeSearchSettings.button  "ਖੋਜ ਸੈਟਿੰਗ ਬਦਲੋ">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label            "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
