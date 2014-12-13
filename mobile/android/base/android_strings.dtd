@@ -117,6 +117,8 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
+<!ENTITY pref_tracking_protection_title "Защита от отслеживания">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; будет не давать сайтам вас отслеживать">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
 <!ENTITY pref_char_encoding "Кодировка">
