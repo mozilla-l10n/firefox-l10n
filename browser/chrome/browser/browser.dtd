@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label "Ustavi">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Prenehaj z nalaganjem te strani">
-<!ENTITY goEndCap.tooltip "Odpri mesto v naslovnem polju">
+<!ENTITY goEndCap.tooltip "Odpri mesto v vrstici z naslovom">
 <!ENTITY printButton.label "Natisni">
 <!ENTITY printButton.tooltip "Natisni to stran">
 
@@ -404,6 +404,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Išči ">
+<!ENTITY searchWith.label             " z iskalnikom:">
+<!ENTITY changeSearchSettings.button  "Spremeni nastavitve iskanja">
 
 <!ENTITY tabView.commandkey           "e">
 
