@@ -169,8 +169,8 @@ temporário e pode tentar mais tarde.</li>
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio eletrónico são utilizadas para imitar fontes em que confia.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página porque a mesma tem uma política de segurança de conteúdo que a impede.</p>">
+<!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
+<!ENTITY cspBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página porque a mesma tem uma política de segurança de conteúdo que a impede.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>O conteúdo que está a tentar visualizar não pode ser mostrado porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os donos do sítio web para os informar sobre este problema.</li></ul>">
