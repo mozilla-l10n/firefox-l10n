@@ -291,7 +291,7 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
-<!ENTITY searchFor.label "Поиск">
+<!ENTITY searchFor.label "Поиск ">
 <!ENTITY searchWith.label " через:">
 <!ENTITY changeSearchSettings.button "Изменить настройки поиска">
 <!ENTITY tabView.commandkey "e">
