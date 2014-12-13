@@ -8,9 +8,16 @@
 <!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migrera skrivskyddade kalendrar">
-<!ENTITY gdata.migration.description "Leverantören av Google Calendar har upptäckt att du har kalendrar som endast kan användas i skrivskyddat läge. Om du vill uppgradera någon av dessa kalendrar, vänligen ange dem nedan">
-<!ENTITY gdata.migration.upgrade.label "Upgradera">
+<!ENTITY gdata.migration.description "Leverantören av Google Kalender har upptäckt att du har kalendrar som endast kan användas i skrivskyddat läge. Om du vill uppgradera någon av dessa kalendrar, vänligen ange dem nedan">
+<!ENTITY gdata.migration.upgrade.label "Uppgradera">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Kontrollera alltid">
 
+<!ENTITY gdata.reminder.default "Standard påminnelse">
 <!ENTITY gdata.reminder.action.sms.label "Skicka ett text-meddelande">
+
+<!ENTITY gdata.wizard.session.description "Välj en befintlig session eller skriv in din e-postadress för att skapa en ny session. Du behöver bara en session per konto.">
+<!ENTITY gdata.wizard.calendars.description "Välj de kalendrar och uppgiftslistor du vill prenumerera på.">
+
+<!ENTITY gdata.wizard.nextstep.description "Gå vidare till nästa steg för att konfigurera dina kalendrar.">
+

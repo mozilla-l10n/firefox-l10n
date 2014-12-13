@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Filterregler">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Namn på filterregeln:">
+<!ENTITY filterName.label "Filternamn:">
 <!ENTITY filterName.accesskey "N">
 
 <!ENTITY junk.label "Skräp">
@@ -24,8 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filtrera innan skräppostklassificering">
 <!ENTITY contextAfterCls.label "Filtrera efter skräppostklassificering">
 
-<!ENTITY filterActionDesc.label "Gör följande:">
-<!ENTITY filterActionDesc.accesskey "G">
+<!ENTITY filterActionDesc.label "Utför dessa åtgärder:">
+<!ENTITY filterActionDesc.accesskey "t">
 
 <!ENTITY filterActionOrderWarning.label "OBS: Filteråtgärder kommer att köras i en annan ordning.">
 <!ENTITY filterActionOrder.label "Se exekveringsordning">
