@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Cuir sùil airson artagailean ùra gach ">
-<!ENTITY biffStart.accesskey "C">
+<!ENTITY biffStart.label "Thoir sùil airson artaigealan ùra gach ">
+<!ENTITY biffStart.accesskey "T">
 <!ENTITY biffEnd.label "mionaid(ean)">
 
-<!ENTITY loginAtStartup.label "Cuir sùil airson artagailean ùra nuair a thòisicheas am prògram"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.label "Thoir sùil airson artaigealan ùra nuair a thòisicheas am prògram"> 
+<!ENTITY loginAtStartup.accesskey "T">
 
 <!ENTITY useQuickMode.label "Seall gearr-chunntas an artagail seach a bhith a' luchdadh na duilleige-lìn a ghnàth"> 
 <!ENTITY useQuickMode.accesskey "b">

@@ -36,7 +36,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sioncronachadh">
-<!ENTITY folderCheckForNewMessages2.label         "Nuair a lorgar teachdaireachdan ùra airson a' chunntais seo, cuir sùil air a' phasgan seo an-còmhnaidh">
+<!ENTITY folderCheckForNewMessages2.label         "Nuair a lorgar teachdaireachdan ùra airson a' chunntais seo, thoir sùil sa phasgan seo an-còmhnaidh">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Tagh am pasgan seo a chum cleachdaidh far loidhne">
