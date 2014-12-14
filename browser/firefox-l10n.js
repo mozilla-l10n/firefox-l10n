@@ -6,3 +6,4 @@
 
 pref("general.useragent.locale", "@AB_CD@");
 pref("browser.fixup.alternate.suffix", ".sk");
+pref("browser.search.showOneOffButtons", true);
