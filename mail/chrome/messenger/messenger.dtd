@@ -32,8 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
 <!ENTITY newIMAccountCmd.label "Configurar conta de bate-papo…">
 <!ENTITY newIMAccountCmd.accesskey "b">
-
-
+<!ENTITY newFeedAccountCmd.label "Conta RSS">
+<!ENTITY newFeedAccountCmd.accesskey "R">
 <!ENTITY newIMContactCmd.label "Novo contato…">
 <!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Propriedades">
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
-
+<!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
 
 <!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
@@ -160,8 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recentes">
 <!ENTITY recentFolders.accesskey "R">
-
-
+<!ENTITY compactVersion.label "Visualização compacta">
+<!ENTITY compactVersion.accesskey "c">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Ordenar por">
@@ -354,9 +354,9 @@
 
 
 
-
-
-
+<!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Criar filtro para o remetente…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
@@ -532,8 +532,8 @@
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY replyListButton.tooltip "Responder à lista de e-mails">
 <!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
-
-
+<!ENTITY forwardAsInline.tooltip "Reencaminhar mensagem selecionada como texto">
+<!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY nextButton.tooltip "Mover para próxima mensagem não lida">
@@ -556,18 +556,24 @@
 <!ENTITY appmenuButton1.tooltip "Exibir o menu &brandShortName;">
 <!-- Toolbar Button Popup -->
 
+<!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">
+<!ENTITY buttonMenuForwardAsAttachment.label "Encaminhar como anexo">
 <!-- Remote Content Button Popup -->
 
-
-
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto desta mensagem">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY editRemoteContentSettings.label "Editar opções de conteúdo remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Editar preferências de conteúdo remoto…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 <!-- Phishing Button Popup -->
 
-
-
-
-
+<!ENTITY phishingOptionIgnore.label "Ignorar aviso desta mensagem">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Editar opções da detecção de fraudes…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editar preferências da detecção de fraudes…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "p">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
@@ -663,24 +669,26 @@
 <!ENTITY attachmentColumn.label "Anexos">
 <!-- Thread Pane Tooltips -->
 
+<!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
+<!ENTITY threadColumn2.tooltip "Exibir mensagens agrupadas">
+<!ENTITY fromColumn2.tooltip "Ordenar por remetente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
+<!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar por tags">
+<!ENTITY accountColumn2.tooltip "Ordenar por conta">
+<!ENTITY statusColumn2.tooltip "Ordenar por status">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas na discussão">
+<!ENTITY totalColumn2.tooltip "Número total de mensagens na discussão">
+<!ENTITY readColumn2.tooltip "Ordenar por lidas">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de recebimento">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrela">
+<!ENTITY locationColumn2.tooltip "Ordenar por localização">
+<!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Abrir em nova janela">
@@ -693,10 +701,10 @@
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensagem como conversa">
 <!ENTITY contextOpenConversation.accesskey "r">
-
-
-
-
+<!ENTITY contextOpenContainingFolder.label "Abrir mensagem na pasta">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Editar como uma nova mensagem">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder">
@@ -890,3 +898,5 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Opções do ícone…">

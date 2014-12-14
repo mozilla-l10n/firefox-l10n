@@ -9,13 +9,15 @@
 
 <!-- Web Content -->
 
+<!ENTITY captionWebContent.label "Conteúdo da web">
 
 
 
 
 
 
-
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Nunca">
 
 
 
