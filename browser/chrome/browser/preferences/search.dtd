@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Mecanismo de pesquisa padrão">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu mecanismo de pesquisa padrão. O &brandShortName; irá usá-lo na barra de endereço, barra de pesquisa e na página inicial.">
 
 <!ENTITY provideSearchSuggestions.label        "Fornecer sugestões de pesquisa">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
@@ -10,4 +13,11 @@
 <!ENTITY oneClickSearchEngines.label           "Mecanismos de pesquisa em um clique">
 
 <!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite pesquisar em mecanismos alternativos. Escolha um.">
+
+<!ENTITY engineKeywordColumn.label             "Palavra-chave">
+
+
+
+<!ENTITY removeEngine.label                    "Excluir">
+<!ENTITY removeEngine.accesskey                "x">
 

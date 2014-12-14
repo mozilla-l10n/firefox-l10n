@@ -149,7 +149,7 @@
 <!ENTITY devicepreferences_title "Preferência do dispositivo">
 <!ENTITY devicepreferences_search "Preferências de pesquisa">
 <!ENTITY devicepreferences_newname "Novo nome da preferência">
-
+<!ENTITY devicepreferences_newtext "Valor da preferência">
 <!ENTITY devicepreferences_addnew "Adicionar nova preferência">
 <!ENTITY devicepreferences_typeboolean "Boolean">
 <!ENTITY devicepreferences_typenumber "Número inteiro">
