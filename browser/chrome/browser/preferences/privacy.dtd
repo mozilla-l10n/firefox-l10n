@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "আরও জানুন">
 <!ENTITY doNotTrackInfo.label           "আরও জানুন">
 
+<!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
 
 <!ENTITY  locationBar.label             "অবস্থানসূচক বার">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "অবস্থানসূচক বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে:">
+<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য(H)">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ(k)">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ট্যাব খুলুন(O)">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "কখনই নয়">
 <!ENTITY  acceptThirdParty.visited.label  "পরিদর্শিত থেকে">
 
-
+<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:(u)">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "মেয়াদ উত্তীর্ণ না হওয়া অবধি">
 <!ENTITY  close.label                   "&brandShortName; বন্ধ করার সময় অবধি">
