@@ -20,8 +20,8 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Cuir sùil airson teachdaireachdan ùra gach ">
-<!ENTITY biffStart.accesskey "C">
+<!ENTITY biffStart.label "Thoir sùil airson teachdaireachdan ùra gach ">
+<!ENTITY biffStart.accesskey "T">
 <!ENTITY biffEnd.label "mionaid(ean)">
 <!ENTITY connectionSecurity.label "Tèarainteachd a' cheangail:">
 <!ENTITY connectionSecurity.accesskey "T">
@@ -55,8 +55,8 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Falamhaich an sgudal nuair a dhùineas mi am prògram">
 <!ENTITY emptyTrashOnExit.accesskey "F">
-<!ENTITY loginAtStartup.label "Cuir sùil airson teachdaireachdan ùra nuair a thòisicheas am prògram">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.label "Thoir sùil airson teachdaireachdan ùra nuair a thòisicheas am prògram">
+<!ENTITY loginAtStartup.accesskey "T">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them

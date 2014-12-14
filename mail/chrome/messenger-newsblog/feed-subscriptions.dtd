@@ -13,7 +13,7 @@
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Cuir URL dligheach de dh'inbhir a-steach gus a chur ris">
 <!ENTITY locationValidate.label      "Dearbhaich">
-<!ENTITY validateText.label          "Sgrudaich an dearbhadh is faigh URL dligheach.">
+<!ENTITY validateText.label          "Sgrùdaich an dearbhadh is faigh URL dligheach.">
 
 <!ENTITY feedFolder.label            "Stòir artaigilean ann an:">
 <!ENTITY feedFolder.accesskey        "S">
