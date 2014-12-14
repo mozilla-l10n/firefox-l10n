@@ -11,17 +11,25 @@
 
 
 <!ENTITY connectionFailure.title "कनेक्ट करबामे असमर्थ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "ई पता प्रतिबंधित अछि ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहि भेटल">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>पताकेँ टाइपिंग गलतीक लेल जाँचू जहिना 
 <strong>ww</strong>.example.com 
 <strong>www</strong>.example.com</li>क बदला 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>खोजू</button> 
+</div> 
 <li>जँ अहाँ कोनो पृष्ठ लोड करबामे असमर्थ अछि, अपन युक्ति आँकड़ा जाँचू अथवा Wi-Fi कनेक्शन.</li> 
+<button id='wifi'>Wi-Fi कनेक्शन सक्रिय करू</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहि भेटल">
@@ -35,22 +43,32 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .</p>">
 
 <!ENTITY malformedURI.title "पता वैध नहि अछि ">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>वेब पता प्रायः एहि तरह लिखा जाएत अछि 
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>वेब पता एकरा जहिना प्रायः लिखल अछि 
 <strong>http://www.example.com/</strong></li> 
-<li>सुनिश्चित करू जे अहाँ फारवर्ड स्लैश क प्रयोग कए रहल छी (यानी 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>खोजू</button> 
+</div> 
+<li> सुनिश्चित करू अहाँ अगिला स्लैशक प्रयोग कए रहल छी (यानी 
 <strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित कएल गेल छल">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्ताबेज क समय समाप्त">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 "<ul> 
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
 <li>फेर कोसिस करू. &brandShortName; कनेक्शन खोलबाक कोशिश करताह आओर पृष्ठ फेर लोड करताह.</li> 
+<button id='wifi'>Wi-Fi सक्रिय करू</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
@@ -64,10 +82,10 @@
 </ul>">
 
 <!ENTITY netReset.title "कनेक्शन रिसेट कएल गेल छल">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "कनेक्शनक समय समाप्त भए गेल">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "पता समझल नहिगेल छला">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,10 +99,14 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़वमे असमर्थ">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>प्राक्सी सेटिंग जाँचू जाहिसँ पक्का कए सकू जे ओ सही अछि.</li> 
-<li>जाँचू पक्का करबाक लेल जे अहाँक युक्तिक संग कार्यशील आँकड़ा अछि अथवा Wi-Fi कनेक्शन.</li> 
-</ul>">
+<li>जाँचू पक्का करबाक लेल जे अहाँक युक्तिक संग कार्यशील आँकड़ा अछि अथवा Wi-Fi कनेक्शन
+<button id='wifi'>Wi-Fi कनेक्शन सक्रिय करू</button> 
+</li> 
+</ul></ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीकसँ पुनर्निर्देशित नहि कए रहल अछि ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -98,21 +120,28 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>पृष्ठ जकरा अहाँ देखबाक कोशिश कए रहल छी नहि देखाओल जाए सकैत अछि किएक प्राप्त आंकड़ाक प्रमाणिकता जांचल नहि जाए सकल.</li> 
+<li>कृपया वेब साइट मालिक केँ एहि समस्याक संबंध मे सूचित करबाक लेल संपर्क  करू .</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>ई सर्वर विन्यासक सँग समस्या भए सकैत अछि, अथवा कोनो दोसर सर्वरक रूपेँ छद्म रूपसँ आबैक कोशिश कए सकैत अछि.</li> 
 <li>जँ अहाँ सर्वरसँ पाछाँ सफलतापूर्वक कनेक्ट भए चुकल अछि, त्रुटि अस्थायी भए सकैत अछि, आओर अहाँ एकरा बादमे फेर कोशिश कए सकैत  अछि.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>साइट अस्थायी रूपेँ मोजुद नहि अछि अथवा बहुत व्यस्त अछि. किछु क्षणमे फेर कोसिस करू.</li> 
-<li>जँ अहाँ कोनो पन्ना लोड करबामे असमर्थ छी, अपन मोबाइल युक्ति आँकड़ा जाँचू या Wi-Fi कनेक्शन.</li> 
+<li>जँ अहाँ कोनो पन्ना लोड करबामे असमर्थ छी, अपन मोबाइल युक्ति आँकड़ा जाँचू या Wi-Fi कनेक्शन.
+<button id='wifi'>Wi-Fi कनेक्शन सक्रिय करू</button> 
+</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "खोज इंजन प्रबंधित  करू ...">
 <!ENTITY searchEndCap.label             "खोजू">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "आगाँ">
+<!ENTITY SearchHighlightClose "शुक्रिया!">

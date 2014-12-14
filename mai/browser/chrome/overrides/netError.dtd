@@ -121,8 +121,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>ककरो निज सूचना केँ एहि पृष्ठ पर दाखिल कएनाइ पहचान चोरी अथवा दोसर धोखाक कारण भए सकैत अछि.</p> 
 <p>ई प्रकारक वेब धोखाधड़ी केँ फिशिंग हमलामे प्रयुक्त होइछ, जकरामे धोखा दिअबला वेब पृष्ठ आओर इमेल केँ ओ स्रोतक नकलक लेल प्रयोग कएल जाइत  अछि जकरा पर अहाँ भरोसा करैत अछि.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
@@ -142,5 +142,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "आओर जानू…">
+
+
+
+
+
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

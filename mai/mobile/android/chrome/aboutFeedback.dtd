@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "अहाँ सेहो देख सकैत अछि">
-<!ENTITY support.link              "&brandShortName; समर्थन">
-<!ENTITY support.post2             " बेसी जानकारी कलेल.">
+<!ENTITY support.pre3              "हमर">
+<!ENTITY support.link2             "समर्थन साइट देखू">
+<!ENTITY support.post3             "सामान्य मुद्दा पर जवाबक लेल">
 
 <!ENTITY happy.header              "ई बहुत नीक बात अछि सुनबाक लेल!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "संभवतः बाद मे">
 <!ENTITY happy.noThanks            "नहि धन्यवाद">
 
+<!ENTITY sad.header                "ओह नहि!">
 <!ENTITY sad.message               "हमरा खेद अछि जे अहाँकेँ &brandShortName; क सँग किछु समस्या छल. कृपया  हमरा बताओ जे क एहन हुआ अछि जे हम एकरा बेस कए सकैत अछि.">
 <!ENTITY sad.placeholder           "एतय अपन प्रतिक्रिया दर्ज करू">
-<!ENTITY sad.lastSite              "अंतिम दौरा कएल साइट (वैकल्पिक)">
+<!ENTITY sad.lastSite2             "अंतिम देखल साइट शामिल करू">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "हमरा बताबै कलेल धन्यवाद">
+<!ENTITY sad.thanksHeader2         "अहाँक धन्यवाद.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "अथवा वरना">
 
-<!ENTITY feedback.privacy          "अहाँक गोपनीयता कलेल, अपन प्रतिक्रिया मे ककरो सेहो व्यक्तिगत रूप सँ पहचान योग्य जानकारी सामिल नहि अछि.">
+<!ENTITY feedback.privacy2         "अहाँक गोपनीयता कलेल, अपन प्रतिक्रिया मे ककरो सेहो व्यक्तिगत रूप सँ पहचान योग्य जानकारी सामिल नहि अछि.">
 <!ENTITY feedback.send             "फ़ीडबैक पठाबू">

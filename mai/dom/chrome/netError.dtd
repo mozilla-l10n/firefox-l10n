@@ -80,8 +80,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>ककरो निज सूचना केँ एहि पृष्ठ पर दाखिल कएनाइ पहचान चोरी अथवा दोसर धोखाक कारण भए सकैत अछि.</p> 
 <p>ई प्रकारक वेब धोखाधड़ी केँ फिशिंग हमलामे प्रयुक्त होइछ, जकरामे धोखा दिअबला वेब पृष्ठ आओर इमेल केँ ओ स्रोतक नकलक लेल प्रयोग कएल जाइत  अछि जकरा पल अहाँ भरोस करैत छी.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "खराब सामग्री त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
