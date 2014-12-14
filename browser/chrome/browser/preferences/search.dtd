@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Motor Parazgjedhje Kërkimesh">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Zgjidhni motorin tuaj parazgjedhje për kërkimet. &brandShortName;-i e përdor te shtylla e vendeve, shtylla e kërkimeve, dhe faqet e fillimit.">
+
+<!ENTITY provideSearchSuggestions.label        "Ofro këshillime kërkimi">
+<!ENTITY provideSearchSuggestions.accesskey    "O">
+
+
+<!ENTITY oneClickSearchEngines.label           "Motorë kërkimesh njëklikimsh">
+
+<!ENTITY chooseWhichOneToDisplay.label         "Shtylla e kërkimeve ju lejon të kërkoni drejtpërsëdrejti me motorë alternativë kërkimesh. Zgjidhni cilët të shfaqen.">
+
+<!ENTITY engineNameColumn.label                "Motor Kërkimesh">
+<!ENTITY engineKeywordColumn.label             "Fjalëkyç">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Rikthe Motorët Parazgjedhje të Kërkimeve">
+<!ENTITY restoreDefaultSearchEngines.accesskey "R">
+
+<!ENTITY removeEngine.label                    "Hiqe">
+<!ENTITY removeEngine.accesskey                "H">
+
+<!ENTITY addMoreSearchEngines.label            "Shtoni më tepër motorë kërkimesh…">

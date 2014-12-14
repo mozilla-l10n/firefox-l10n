@@ -12,6 +12,7 @@
 <!ENTITY dntTrackingOkay.accesskey      "d">
 <!ENTITY trackingProtection.label       "Parandalojua sajteve të më gjurmojnë">
 <!ENTITY trackingProtection.accesskey   "a">
+<!ENTITY trackingProtectionLearnMore.label "Mësoni më tepër">
 <!ENTITY doNotTrackInfo.label           "Mësoni Më Tepër">
 
 <!ENTITY  history.label                 "Historik">
