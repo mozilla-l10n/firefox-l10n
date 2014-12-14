@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "39em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Povoliť obsahu používať vlastné farby namiesto mnou vyššie vybraných">
-<!ENTITY  allowPagesToUse.accesskey       "o">
+<!ENTITY  allowPagesToUseColors.label     "Povoliť obsahu používať vlastné farby namiesto mnou vyššie vybraných:">
+<!ENTITY  allowPagesToUseColors.accesskey "o">
+
+<!ENTITY  allowPagesToUseColors.automatic.label "Automaticky">
+<!ENTITY  allowPagesToUseColors.always.label    "Vždy">
+<!ENTITY  allowPagesToUseColors.never.label     "Nikdy">
 
 <!ENTITY  color                           "Text a pozadie">
 <!ENTITY  textColor.label                 "Text:">
