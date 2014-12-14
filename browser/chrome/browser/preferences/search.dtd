@@ -14,4 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Mae'r bar chwilio'n caniatáu i chi chwilio peiriannau bob yn ail. Dewiswch pa rai i'w dangos.">
 
+<!ENTITY engineKeywordColumn.label             "Allweddair">
+
+
+
+<!ENTITY removeEngine.label                    "Tynnu">
+<!ENTITY removeEngine.accesskey                "T">
+
 <!ENTITY addMoreSearchEngines.label            "Ychwanegu peiriannau chwilio eraill…">
