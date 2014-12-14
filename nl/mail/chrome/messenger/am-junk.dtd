@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Ongewensteberichteninstellingen">
-<!ENTITY trainingDescription.label "Indien geactiveerd, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren. Daarna zal &brandShortName; ongewenste berichten automatisch kunnen markeren.">
+<!ENTITY trainingDescription.label "Als dit is ingeschakeld, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren. Daarna zal &brandShortName; ongewenste berichten automatisch kunnen markeren.">
 <!ENTITY level.label "Zelflerende ongewensteberichtendetectie voor deze account inschakelen">
 <!ENTITY level.accesskey "Z">
 
@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Berichten niet automatisch als ongewenst markeren als de afzender voorkomt in mijn: ">
 <!ENTITY whitelistHeader.accesskey "m">
 
-<!ENTITY ispHeadersWarning.label "Indien geactiveerd, zal &brandShortName; door deze externe classificeerder gemarkeerde berichten automatisch als ongewenst beschouwen.">
+<!ENTITY ispHeadersWarning.label "Als dit is ingeschakeld, zal &brandShortName; berichten die door deze externe classificeerder zijn gemarkeerd automatisch als ongewenst beschouwen.">
 <!ENTITY ispHeaders.label "Ongewenstberichtkopregels vertrouwen die zijn ingesteld door: ">
 <!ENTITY ispHeaders.accesskey "u">
 

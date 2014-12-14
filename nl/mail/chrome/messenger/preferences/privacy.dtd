@@ -6,9 +6,9 @@
 <!ENTITY captionMailContent.label "E-mailinhoud">
 
 <!ENTITY acceptRemoteContent.label "Externe inhoud in berichten toestaan">
-<!ENTITY acceptRemoteContent.accesskey "d">
+<!ENTITY acceptRemoteContent.accesskey "E">
 <!ENTITY remoteContentExceptions.label "Uitzonderingen…">
-<!ENTITY remoteContentExceptions.accesskey "U">
+<!ENTITY remoteContentExceptions.accesskey "z">
 <!ENTITY acceptRemoteContentInfo.label "Meer info over de privacyproblemen van externe inhoud">
 
 <!-- Web Content -->
