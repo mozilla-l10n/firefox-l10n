@@ -14,9 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Mae'r bar chwilio'n caniatáu i chi chwilio peiriannau bob yn ail. Dewiswch pa rai i'w dangos.">
 
+<!ENTITY engineNameColumn.label                "Peiriannau Chwilio">
 <!ENTITY engineKeywordColumn.label             "Allweddair">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Adfer Peiriannau Chwilio Rhagosodedig">
+<!ENTITY restoreDefaultSearchEngines.accesskey "A">
 
 <!ENTITY removeEngine.label                    "Tynnu">
 <!ENTITY removeEngine.accesskey                "T">
