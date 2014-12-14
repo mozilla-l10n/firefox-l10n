@@ -418,6 +418,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "Pesquisar por ">
+<!ENTITY searchWith.label             " com:">
 <!ENTITY changeSearchSettings.button  "Alterar configurações de pesquisa">
 
 <!ENTITY tabView.commandkey           "E">

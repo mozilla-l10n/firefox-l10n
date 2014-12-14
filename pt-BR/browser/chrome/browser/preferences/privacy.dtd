@@ -11,13 +11,15 @@
 <!ENTITY trackingProtectionLearnMore.label "Saiba mais">
 <!ENTITY doNotTrackInfo.label           "Saiba mais">
 
+<!ENTITY  history.label                 "Histórico">
 
 <!ENTITY  locationBar.label             "Barra de endereço">
 
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Ao digitar um endereço, sugerir:">
+<!ENTITY  locbar.history.label          "Histórico">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Favoritos">
+<!ENTITY  locbar.bookmarks.accesskey    "F">
 
 
 

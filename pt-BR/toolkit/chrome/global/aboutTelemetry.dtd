@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "A telemetria está <span>desativada</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
 <!ENTITY aboutTelemetry.slowSqlSection "Instruções SQL lentas">
 
