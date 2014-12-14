@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled " दूरमापी <span>अक्षम अछि </span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "धीमा sql निवेदन">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "ब्राउजर  लटकनाइ">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  लड़ी हैंग करैछ">
 
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारण माप ">
 

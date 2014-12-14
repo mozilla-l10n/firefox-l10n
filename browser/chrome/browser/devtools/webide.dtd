@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "एप्प खोलू…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "संस्थापित करू आओर चलाबू">
-<!ENTITY projectMenu_play_accesskey "I">
+
 <!ENTITY projectMenu_stop_label "एप्प रोकू">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "एप्प डिबग करू">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "वरीयता">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+
+
 
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "डिसकनेक्ट करू">
@@ -37,12 +39,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "मानीटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "देखू">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "टॉगल संपादक">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "सिमुलेटर प्रबंधित करू">
-<!ENTITY viewMenu_showAddons_accesskey "M">
+<!ENTITY viewMenu_zoomin_label "पैघ करू">
+
+<!ENTITY viewMenu_zoomout_label "छोट करू">
+
+
+
 
 <!ENTITY projectButton_label "अनुप्रयोग खोलू">
 <!ENTITY runtimeButton_label "कार्यसमय चुनू">
@@ -58,14 +66,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "हमर परियोजना">
 <!ENTITY projectPanel_runtimeApps "रनटाइम एप्प">
 <!ENTITY projectPanel_tabs "टैब">
-<!ENTITY runtimePanel_USBDevices "यूएसबी अओजार">
-<!ENTITY runtimePanel_WiFiDevices "Wi-Fi डिवाइस">
-<!ENTITY runtimePanel_simulators "सिमुलेटर">
-<!ENTITY runtimePanel_custom "मनपसिन्न">
+<!ENTITY runtimePanel_usb "यूएसबी अओजार">
+<!ENTITY runtimePanel_wifi "Wi-Fi डिवाइस">
+<!ENTITY runtimePanel_simulator "सिमुलेटर">
+
 <!ENTITY runtimePanel_installsimulator "सिम्युलेटर स्थापित करू">
 <!ENTITY runtimePanel_noadbhelper "एडीबी हेल्पर स्थापित करू">
 <!ENTITY runtimePanel_nousbdevice "अहाँक उपकरण नहि देख सकैत अछि?">
@@ -99,9 +111,7 @@
 <!ENTITY prefs_editor_title "संपादक">
 <!ENTITY prefs_general_title "सामान्य">
 <!ENTITY prefs_restore "पूर्वनिर्धारित वापस करू">
-<!ENTITY prefs_simulators "सिमुलेटर प्रबंधित करू">
-<!ENTITY prefs_options_enablelocalruntime "स्थानीय रनटाइम सक्रिय करू">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "WebIDE केँ ई स्वयं केर रनटाइम सँ कनेक्ट करू (ब्राउज़र उदाहरण चलाए रहल अछि)">
+
 <!ENTITY prefs_options_rememberlastproject "पछिला प्रोजेक्ट याद राखू">
 <!ENTITY prefs_options_rememberlastproject_tooltip "पछिला प्रोजेक्ट बहाल करू जखन WebIDE आरंभ हाएत अछि">
 <!ENTITY prefs_options_templatesurl "नमूना यूआरएल">
@@ -132,6 +142,15 @@
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools क निषेधित अधिकार:">
 <!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करू">
 <!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करताह. रूट पहुँच चाही.)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "मानीटर">

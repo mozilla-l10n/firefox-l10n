@@ -265,6 +265,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ब्राउज़र औजारपट्टी (e)">
 <!ENTITY browserToolboxMenu.accesskey "e">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "डेवलेपरक टूलबार बन्न करू">
 <!ENTITY devToolbarMenu.label              "डेवलेपर टूलबार (v)">
@@ -407,6 +410,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
