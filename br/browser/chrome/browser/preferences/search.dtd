@@ -2,6 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Keflusker enklask dre ziouer">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Dibabit ho keflusker enklask dre ziouer. Implijet e vo er varenn lec'hiadur, er varenn enklask, ha war ar bajenn degemer gant &brandShortName;.">
+
+
+
+
+<!ENTITY oneClickSearchEngines.label           "Kefluskerioù enklask gant ur c'hlik.">
+
+<!ENTITY chooseWhichOneToDisplay.label         "Laosket oc'h da glask kefluskerioù enklask disheñvel war-eeun. Dibabit peseurt hini vo diskouezet.">
+
+<!ENTITY engineKeywordColumn.label             "Gerioù alc'hwez">
 
 
 

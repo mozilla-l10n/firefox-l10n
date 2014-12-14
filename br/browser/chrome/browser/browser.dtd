@@ -732,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kaout muioc'h a neuzioù">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "Implijout neuz au Embannadur Diorroiñ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Diuzañ ar c'haozeadennoù">
