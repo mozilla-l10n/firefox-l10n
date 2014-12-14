@@ -199,10 +199,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "ਚਾਲੂ ਹਨ, ਸੁਤੰਤਰ ਧਿਰ ਨੂੰ ਛੱਡ ਕੇ">
 <!ENTITY pref_cookies_disabled "ਬੰਦ ਹਨ">
 
-<!ENTITY pref_donottrack_menu "ਟਰੈਕ ਕਰਨਾ">
-<!ENTITY pref_donottrack_disallow_tracking "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ">
-<!ENTITY pref_donottrack_allow_tracking "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ">
-<!ENTITY pref_donottrack_no_pref "ਸਾਈਟਾਂ ਨੂੰ ਮੇਰੀ ਟਰੈਕ ਹੋਣ ਪਸੰਦ ਬਾਰੇ ਕੁਝ ਨਾ ਦੱਸੋ">
+<!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
+<!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
 <!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
@@ -237,6 +235,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "ਤੇਜ਼ ਸੰਤਰੀ ਲੂੰਬੜ ਵੱਧ ਤੇਜ਼ ਗਤੀ, ਵੱਧ ਆਗਿਆਕਾਰੀ ਸੁਭਾਅ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਆ ਨਾਲ ਤੁਹਾਡੀਆਂ ਉਮੀਦ ਤੋਂ ਅੱਗੇ ਲੰਘ ਗਿਆ ਹੈ। ਗ਼ੈਰ-ਫਾਇਦਾ ਹੋਣ ਕਰਕੇ, ਅਸੀਂ ਬਿਨਾਂ ਕਿਸੇ ਸਮਝੌਤੇ ਕਰਨ ਦੇ ਦਬਾਅ ਦੇ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਖੋਜਾਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਤੇ ਭਵਿੱਖ ਦੇ ਵੈੱਬ ਨੂੰ ਵਧੀਆ ਤਜਰਬਾ ਮਿਲਦਾ ਹੈ।">
+
+<!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਉ">
+<!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਜੇ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
@@ -391,8 +392,13 @@ size. -->
 
 
 <!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
-<!ENTITY reading_list_failed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
 <!ENTITY reading_list_duplicate "ਸਫਾ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; ਮਿੰਟ">
+<!ENTITY reading_list_time_over_an_hour "ਇੱਕ ਘੰਟੇ ਤੋਂ ਵੱਧ">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -416,6 +422,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਿਲ">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY home_history_title "ਅਤੀਤ">
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
@@ -425,6 +434,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਤਾਜ਼ਾ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
 <!ENTITY home_open_all "Open all">
 <!ENTITY home_most_recent_empty "ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਤੁਸੀਂ ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ ਹਨ, ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst:  &formatS1;ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ&formatS2; ਦੀ ਵਰਤੋਂ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।">
 <!ENTITY home_reading_list_empty "ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਲੇਖ ਇੱਥੇ ਬਾਅਦ ਵਿੱਚ ਵੇਖਾਈ ਦੇਣਗੇ।">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -479,6 +491,9 @@ size. -->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਜੁੜੇ ਹੋਏ ਹੋ ">
+<!ENTITY identity_no_info "ਇਹ ਵੈੱਬਸਾਈਟ ਕੋਈ ਵੀ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।">
+<!ENTITY identity_not_encrypted "ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਹੈ।">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -496,6 +511,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "ਇਹ ਸਫ਼ਾ ਸਮੱਗਰੀ ਵੇਖਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ।">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ਨੇ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਸੀ।">
 <!ENTITY blocked_mixed_content_message_bottom "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਇਟ ਤਦ ਵੀ ਕੰਮ ਕਰਨਗੀਆਂ, ਭਾਵੇਂ ਕਿ ਇਹ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਅਸਮਰੱਥ ਹੈ।">
+<!ENTITY loaded_tracking_content_message_bottom "ਇਹ ਸਫ਼ੇ ਦੇ ਭਾਗ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।">
+<!ENTITY blocked_tracking_content_message_top2 "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਹੈ।">
+<!ENTITY blocked_tracking_content_message_bottom2 "ਸਫ਼ੇ ਦੇ ਭਾਗ, ਜੋ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਹਨ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "ਹੋਰ ਜਾਣੋ">
 <!ENTITY enable_protection "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
 <!ENTITY disable_protection "ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
@@ -521,7 +543,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ">
 
-<!ENTITY devtools_remote_debugging_forward "ਪੋਰਟ ਫਾਰਵਰਡ ਨੂੰ ਸੈੱਟ ਕਰਨ ਨਾ ਭੁੱਲੋ!">
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY updater_start_select2 "ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਛੂਹੋ">
@@ -563,7 +584,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-<!ENTITY actionbar_menu "ਮੇਨੂ">
+<!ENTITY actionbar_menu "ਮੀਨੂ">
 <!ENTITY actionbar_done "ਮੁਕੰਮਲ">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
@@ -573,3 +594,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "ਪਿਛਲਾ ਸਿੰਕ: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
