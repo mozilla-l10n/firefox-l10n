@@ -7,3 +7,10 @@
 
 
 
+<!ENTITY engineKeywordColumn.label             "Igama eliphambili">
+
+
+
+<!ENTITY removeEngine.label                    "Susa">
+<!ENTITY removeEngine.accesskey                "S">
+
