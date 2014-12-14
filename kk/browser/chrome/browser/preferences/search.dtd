@@ -14,4 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағы арқылы қосымша іздеу қызметтері арқылы іздеуге мүмкін етеді. Көрсетілетіндерді таңдаңыз.">
 
+
+
+
+
+<!ENTITY removeEngine.label                    "Өшіру">
+<!ENTITY removeEngine.accesskey                "ш">
+
 <!ENTITY addMoreSearchEngines.label            "Көбірек іздеу қызметтерін қосу…">
