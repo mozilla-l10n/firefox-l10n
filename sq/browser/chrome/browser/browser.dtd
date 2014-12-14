@@ -139,7 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Gjeni më tepër shërbime Ndarjesh Me Të Tjerët…">
+<!ENTITY findShareServices.label "Gjeni më tepër shërbime Ndarjesh Me të Tjerë…">
 <!ENTITY sharePageCmd.label "Ndajeni Këtë Faqe Me të Tjerët">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "N">
@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.label "Ndajeni Përzgjedhjen Me të Tjerët">
 <!ENTITY shareSelect.accesskey "N">
 <!ENTITY shareVideo.label "Ndajeni Këtë Video Me të Tjerët">
-<!ENTITY shareVideo.accesskey "r">
+<!ENTITY shareVideo.accesskey "N">
 <!ENTITY feedsMenu.label "Pajtohuni">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Zbatime">
-<!ENTITY webapps.accesskey            "m">
+<!ENTITY webapps.accesskey            "b">
 
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
 <!ENTITY webDeveloperMenu.accesskey   "Z">
@@ -486,8 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Dërgoni Video me Email…">
 <!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY castVideoCmd.label           "Dërgoni Video Te Pajisje">
-<!ENTITY castVideoCmd.accesskey       "o">
+<!ENTITY castVideoCmd.label           "Dërgoje Videon Te Pajisja">
+<!ENTITY castVideoCmd.accesskey       "s">
 <!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktivizoje këtë shtojcë">
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "Listë Aktivizimesh">
 <!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
 <!ENTITY social.directory.button "Shpjemë atje!">
-<!ENTITY social.directory.introText "Klikoni mbi një shërbim që të shtohet te &brandShortName;.">
+<!ENTITY social.directory.introText "Klikoni mbi një shërbim që të shtohet te &brandShortName;-i.">
 <!ENTITY social.directory.viewmore.text "Shihni Më Tepër">
 
 <!ENTITY customizeMode.tabTitle "Personalizojeni &brandShortName;-in">

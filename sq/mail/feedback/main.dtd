@@ -36,5 +36,5 @@
 <!ENTITY testpilot.sad.label                            "Firefox-i Më Trishtoi, Ngaqë…">
 <!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird-i Më Kënaqi, Ngaqë…">
 <!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird-i Më Trishtoi, Ngaqë…">
-<!ENTITY testpilot.broken.label                         "Njoftoni për këtë sajt web si të dëmtuar…">
+<!ENTITY testpilot.broken.label                         "Njoftoni për këtë sajt si të dëmtuar…">
 <!ENTITY testpilot.idea.label                           "Na jepni një këshillë…">

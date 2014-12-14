@@ -6,10 +6,10 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Nise nën Mënyrë të Sigurt">
-<!ENTITY refreshProfile.label         "Refresh &brandShortName;">
+<!ENTITY refreshProfile.label         "Rifreskoni &brandShortName;-in">
 
 <!ENTITY safeModeDescription3.label   "Mënyra e Sigurt është një mënyrë speciale e &brandShortName;-it që mund të përdoret për raste diagnostikimi.">
-<!ENTITY safeModeDescription4.label   "Shtesat dhe rregullimet tuaja të personalizuara do të nxirren jashtë loje përkohësisht.">
+<!ENTITY safeModeDescription4.label   "Shtesat dhe rregullimet tuaja të personalizuara do të çaktivizohen përkohësisht.">
 
 <!ENTITY refreshProfileInstead.label  "Mundeni edhe ta anashkaloni diagnostikimin dhe të provoni rifreskimin e &brandShortName;-it.">
 

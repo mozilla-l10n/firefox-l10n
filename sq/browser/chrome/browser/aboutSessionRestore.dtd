@@ -22,13 +22,13 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
-<!ENTITY welcomeback2.restoreButton  "Shkojmë!">
-<!ENTITY welcomeback2.restoreButton.access "S">
+<!ENTITY welcomeback2.restoreButton  "Oburra!">
+<!ENTITY welcomeback2.restoreButton.access "O">
 
 <!ENTITY welcomeback2.tabtitle      "Sukses!">
 
 <!ENTITY welcomeback2.pageTitle     "Sukses!">
-<!ENTITY welcomeback2.pageInfo1     "&brandShortName;-i është gati për vazhdim.">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName;-i është gati.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Riktheni krejt Dritaret dhe Skedat">
 <!ENTITY welcomeback2.label.restoreSome "Riktheni vetëm ato që doni">
@@ -40,7 +40,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Shtesat dhe përshtatjet tuaja janë hequr dhe rregullimet e shfletuesit tuaj janë kthyer te parazgjedhjet për to. Nëse kjo nuk e zgjidhi problemin tuaj, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Shtesat dhe përshtatjet tuaja janë hequr dhe rregullimet e shfletuesit tuaj janë kthyer te parazgjedhjet për to. Nëse kjo nuk e zgjidh problemin tuaj, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "mësoni më tepër rreth asaj çka mund të bëni.">
