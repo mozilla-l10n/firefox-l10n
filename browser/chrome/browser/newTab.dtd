@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "புதிய தத்தல்">
+<!ENTITY newtab.pageTitle "புதிய கீற்று">
 <!ENTITY newtab.customize.title "உங்களின் புதிய கீற்றுப் பக்கத்தை தனிபயனாக்கவும்">
 <!ENTITY newtab.customize.enhanced "செழுமையான">
 <!ENTITY newtab.customize.classic "தொன்மையான">
