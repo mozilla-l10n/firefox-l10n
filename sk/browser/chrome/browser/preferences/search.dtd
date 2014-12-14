@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Panel Vyhľadávanie vám umožní vyhľadávať aj cez alternatívne moduly. Zvoľte, ktoré si prajete zobrazovať.">
 
+<!ENTITY engineNameColumn.label                "Vyhľadávací modul">
+<!ENTITY engineKeywordColumn.label             "Kľúčové slovo">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Obnoviť predvolené vyhľadávacie moduly">
+<!ENTITY restoreDefaultSearchEngines.accesskey "O">
+
+<!ENTITY removeEngine.label                    "Odstrániť">
+<!ENTITY removeEngine.accesskey                "d">
+
 <!ENTITY addMoreSearchEngines.label            "Pridať ďalšie vyhľadávacie moduly…">
