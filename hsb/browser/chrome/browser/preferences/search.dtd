@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Tute pytanske polo wam zmóžnja, direktnje z druhimi pytawami pytać. Wubjerće, kotre maja so zwobraznić.">
 
+<!ENTITY engineNameColumn.label                "Pytawa">
+<!ENTITY engineKeywordColumn.label             "Klučowe słowo">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Standardne pytawy wobnowić">
+<!ENTITY restoreDefaultSearchEngines.accesskey "S">
+
+<!ENTITY removeEngine.label                    "Wotstronić">
+<!ENTITY removeEngine.accesskey                "o">
+
 <!ENTITY addMoreSearchEngines.label            "Dalše pytawy přidać…">
