@@ -1,7 +1,6 @@
-amazondotcom
-aol-web-search
+google
 bing
-eBay
-twitter
-wikipedia
 yahoo
+wikipedia-sv-SE
+tyda-sv-SE
+prisjakt-sv-SE
