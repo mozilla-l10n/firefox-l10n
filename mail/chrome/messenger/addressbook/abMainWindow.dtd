@@ -160,37 +160,37 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Hitro Iskanje">
 <!-- Results Pane -->
 
-<!ENTITY GeneratedName.label                            "Imenu">
+<!ENTITY GeneratedName.label                            "Ime">
 <!ENTITY GeneratedName.accesskey                        "m">
-<!ENTITY PrimaryEmail.label                             "E-pošti">
+<!ENTITY PrimaryEmail.label                             "E-pošta">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Imenu za klepet">
+<!ENTITY ChatName.label                                 "Ime za klepet">
 <!ENTITY ChatName.accesskey                             "k">
-<!ENTITY Company.label                                  "Organizaciji">
+<!ENTITY Company.label                                  "Organizacija">
 <!ENTITY Company.accesskey                              "O">
-<!ENTITY NickName.label                                 "Vzdevku">
+<!ENTITY NickName.label                                 "Vzdevek">
 <!ENTITY NickName.accesskey                             "V">
-<!ENTITY SecondEmail.label                              "Dodatni e-pošti">
+<!ENTITY SecondEmail.label                              "Dodatna e-pošti">
 <!ENTITY SecondEmail.accesskey                          "D">
-<!ENTITY Department.label                               "Oddelku">
+<!ENTITY Department.label                               "Oddelek">
 <!ENTITY Department.accesskey                           "e">
-<!ENTITY JobTitle.label                                 "Nazivu">
+<!ENTITY JobTitle.label                                 "Naziv">
 <!ENTITY JobTitle.accesskey                             "N">
-<!ENTITY CellularNumber.label                           "Mobilniku">
+<!ENTITY CellularNumber.label                           "Mobilnik">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pozivniku">
+<!ENTITY PagerNumber.label                              "Pozivnik">
 <!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Faksu">
+<!ENTITY FaxNumber.label                                "Faks">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Telefonu doma">
+<!ENTITY HomePhone.label                                "Telefon doma">
 <!ENTITY HomePhone.accesskey                            "a">
-<!ENTITY WorkPhone.label                                "Telefonu v službi">
+<!ENTITY WorkPhone.label                                "Telefon v službi">
 <!ENTITY WorkPhone.accesskey                            "s">
 <!ENTITY sortAscending.label                            "Naraščajoče">
 <!ENTITY sortAscending.accesskey                        "N">
 <!ENTITY sortDescending.label                           "Padajoče">
 <!ENTITY sortDescending.accesskey                       "č">
-<!ENTITY _PhoneticName.label                            "Fonetičnem imenu">
+<!ENTITY _PhoneticName.label                            "Fonetično ime">
 <!ENTITY _PhoneticName.accesskey                        "F">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
