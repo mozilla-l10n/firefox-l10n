@@ -12,6 +12,12 @@
 
 <!ENTITY oneClickSearchEngines.label           "Tek tıklamalı arama motorları">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Arama çubuğı alternatif motorlarda doğrudan arama yapmanızı sağlar. Hangilerinin görüneceğini seçin.">
+<!ENTITY chooseWhichOneToDisplay.label         "Arama çubuğu alternatif motorlarda doğrudan arama yapmanızı sağlar. Hangilerinin görüneceğini seçin.">
+
+<!ENTITY engineKeywordColumn.label             "Anahtar kelime">
+
+
+
+
 
 <!ENTITY addMoreSearchEngines.label            "Daha fazla arama motoru ekle…">

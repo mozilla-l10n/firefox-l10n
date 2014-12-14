@@ -63,7 +63,7 @@
 
 <!ENTITY  securityTab           "Güvenlik">
 <!ENTITY  securityTab.accesskey "G">
-<!ENTITY  securityView.certView "Onay belgesini göster">
+<!ENTITY  securityView.certView "Sertifikayı göster">
 <!ENTITY  securityView.accesskey "O">
 <!ENTITY  securityView.unknown   "Bilinmiyor">
 
@@ -71,7 +71,7 @@
 <!ENTITY  securityView.identity.header   "Sayfa kimliği">
 <!ENTITY  securityView.identity.owner    "Sahibi:">
 <!ENTITY  securityView.identity.domain   "Web sitesi:">
-<!ENTITY  securityView.identity.verifier "Onaylayan:">
+<!ENTITY  securityView.identity.verifier "Doğrulayan:">
 
 <!ENTITY  securityView.privacy.header                   "Güvenlik ve geçmiş">
 <!ENTITY  securityView.privacy.history                  "Bu siteyi daha önce ziyaret ettim mi?">
