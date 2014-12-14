@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Toś to pytańske pólo wam zmóžnja, direktnje z drugimi pytnicami pytaś. Wubjeŕśo, kótare maju se zwobrazniś.">
 
+<!ENTITY engineNameColumn.label                "Pytnica">
+<!ENTITY engineKeywordColumn.label             "Klucowe słowo">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Standardne pytnice wótnowiś">
+<!ENTITY restoreDefaultSearchEngines.accesskey "S">
+
+<!ENTITY removeEngine.label                    "Wótpóraś">
+<!ENTITY removeEngine.accesskey                "W">
+
 <!ENTITY addMoreSearchEngines.label            "Dalšne pytnice pśidaś…">
