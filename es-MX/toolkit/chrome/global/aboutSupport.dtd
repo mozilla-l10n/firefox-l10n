@@ -92,3 +92,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar el texto al portapapeles">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo al portapapeles">
 
+<!ENTITY aboutSupport.sandboxTitle "Arenero">

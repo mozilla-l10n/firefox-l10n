@@ -14,4 +14,10 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "La barra de búsqueda te permite usar otros buscadores directamente. Elige cuáles se mostrarán.">
 
+<!ENTITY engineKeywordColumn.label             "Palabra clave">
+
+
+
+
+
 <!ENTITY addMoreSearchEngines.label            "Añadir más buscadores…">
