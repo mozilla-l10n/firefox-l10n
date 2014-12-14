@@ -53,8 +53,9 @@
 
 <!ENTITY connection.saveConnectionInfoTooltip "হোস্ট এবং পোর্ট সংরক্ষণ করুন">
 <!ENTITY connection.connecting "সংযোগ স্থাপন করা হচ্ছে…">
-
+<!ENTITY connection.disconnecting "বিচ্ছিন্ন করা হচ্ছে...">
 <!ENTITY connection.cancel "বাতিল">
+<!ENTITY connection.cancelConnectTooltip "চলমান সংযোগটি বাতিল করুন">
 
 
 
@@ -62,17 +63,17 @@
 
 
 
+<!ENTITY connection.startRegisteredSimulator "আরম্ভ:">
 
-
-
+<!ENTITY projects.localApps "লোকাল অ্যাপ">
 <!ENTITY projects.addApp "যোগ করুন">
-
-
-
-
-
-
-
+<!ENTITY projects.addPackaged "প্যাকেজড্‌ অ্যাপ যোগ করুন">
+<!ENTITY projects.addPackagedTooltip "অাপনার কম্পিউটার থেকে একটি নতুন প্যাকেজড্‌ অ্যাপ (একটি ডিরেক্তরী) যোগ করুন">
+<!ENTITY projects.addHosted "হোস্টেড অ্যাপ যোগ করুন">
+<!ENTITY projects.addHostedTooltip "হোস্টেড অ্যাপ যোগ করুন ( manifest.webapp ফাইলে লিংক করুন) দূরবর্তী ওয়েবসাইট থেকে">
+<!ENTITY projects.title "লোকাল অ্যাপ">
+<!ENTITY projects.appDetails "অ্যাপের বিবরণ">
+<!ENTITY projects.removeAppFromList "আপনি যেসমস্ত অ্যাপস নিয়ে কাজ করছেন তার তালিকা থেকে এই অ্যাপটি সরান। এটা ডিভাইস বা সিমুলেটর থেকে অ্যাপটি মুছে ফেলবে না।">
 <!ENTITY projects.updateApp "আপডেট করুন">
 
 <!ENTITY projects.debugApp "ডিবাগ করুন">
@@ -84,18 +85,18 @@
 
 
 
-
+<!ENTITY projects.manifestViewerTooltip "আপনার অ্যাপের মানিফেস্ট নীচের প্যানেলে পরীক্ষা করুন">
 <!ENTITY projects.valid "মেয়াদ">
 <!ENTITY projects.error "ত্রুটি">
-
-
-
+<!ENTITY projects.warning "সতর্কবাণী">
+<!ENTITY projects.hosted "হোস্টেড্‌">
+<!ENTITY projects.packaged "প্যাকেজড্‌">
 
 <!ENTITY help.close "বন্ধ">
-
-
-
-
+<!ENTITY help.intro "এই টুলটি আপনাকে ওয়েব অ্যাপস গঠন করতে এবং ইনস্টল করতে সাহায্য করবে সামঞ্জস্যপূর্ণ ডিভাইসে(i.e. Firefox OS)।<strong>অ্যাপস</strong> ট্যাব আপনাকে সাহায্য করবে বৈধতা যাচাইকারন এবং ইনস্টলেসানের প্রক্রিয়ার জন্যে।এই <strong>ডিভাইস</strong>ট্যাব আপনাকে তথ্য দেবে সংযুক্ত ডিভাইস নিয়ে। নীচের টুল-বার ব্যাবহার করুন কোন ডিভাইসের সঙ্গে সংযোগ করতে অথবা সিমুলেটর আরম্ভ করতে।">
+<!ENTITY help.usefullLinks "প্রয়োজনীয় লিঙ্কসমূহ:">
+<!ENTITY help.appMgrDoc "ডকুমেন্টেশন: অ্যাপ ম্যানেজারকে ব্যবহার করা">
+<!ENTITY help.configuringDevice "আপনার Firefox OS ডিভাইস কিভাবে সেট আপ করবেন ">
 
 
 
