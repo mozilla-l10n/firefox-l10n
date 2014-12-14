@@ -14,10 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "தேடல் பட்டையானது மாற்று பொறிகளை தேரடியாக தேட உதவுகிறது. காண்பிக்க வேண்டியதை தேர்ந்தெடுக்கவும்.">
 
+<!ENTITY engineNameColumn.label                "தேடுபொறி">
+<!ENTITY engineKeywordColumn.label             "முக்கியச்சொல்">
 
+<!ENTITY restoreDefaultSearchEngines.label     "முன்னிருப்பு தேடுபொறிகளை மீட்டமை">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
-
-
-
+<!ENTITY removeEngine.label                    "நீக்கு">
+<!ENTITY removeEngine.accesskey                "R">
 
 <!ENTITY addMoreSearchEngines.label            "இன்னும் அதிகமான தேடு பொறிகளை சேர்...">
