@@ -63,11 +63,13 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 <!-- Update -->
 
-
-
-
-
-
+<!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca verificar se há atualizações (não recomendado: risco de segurança)">
+<!ENTITY updateManual.accesskey          "N">
 
 
 

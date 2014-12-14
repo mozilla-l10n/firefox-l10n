@@ -8,10 +8,10 @@
 <!ENTITY sourceEditField.label "Digite o código-fonte LaTeX:">
 
 <!ENTITY options.label "Opções">
-
-
-
-
+<!ENTITY optionInline.label "Modo inline">
+<!ENTITY optionInline.accesskey "i">
+<!ENTITY optionDisplay.label "Modo de exibição">
+<!ENTITY optionDisplay.accesskey "M">
 <!ENTITY optionLTR.label "Texto no sentido esquerda para a direita">
 <!ENTITY optionLTR.accesskey "e">
 <!ENTITY optionRTL.label "Texto no sentido direita para esquerda">

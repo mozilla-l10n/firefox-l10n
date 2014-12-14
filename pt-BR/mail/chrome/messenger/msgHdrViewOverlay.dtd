@@ -18,8 +18,8 @@
 
 <!ENTITY referencesField4.label "Referências">
 
-
-
+<!ENTITY inReplyToField4.label "Em resposta a">
+<!ENTITY originalWebsite4.label "Site da web">
 
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquivar esta mensagem">
@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "S">
 
 <!ENTITY otherActionsButton2.label "Mais">
-
+<!ENTITY otherActionsButton.tooltip "Mais ações">
 <!ENTITY otherActionsOpenConversation1.label "Abrir como conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "r">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir em nova janela">

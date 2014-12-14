@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Inscrições RSS">
-
+<!ENTITY learnMore.label             "Saiba mais sobre Feeds RSS">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -37,7 +37,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportar">
 <!ENTITY button.exportOPML.accesskey "o">
-<!ENTITY button.exportOPML.tooltip   "Exporta mantendo a estrutra de pastas; clique segurando Ctrl ou pressione Ctrl + Enter para exportar como uma lista">
+<!ENTITY button.exportOPML.tooltip   "Exporta mantendo a estrutura de pastas; clique segurando Ctrl ou pressione Ctrl + Enter para exportar como uma lista">
 
 <!ENTITY cmd.close.commandKey        "W">
 <!ENTITY button.close.label          "Fechar">
