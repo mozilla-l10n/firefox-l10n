@@ -40,6 +40,6 @@
 <!ENTITY isDefault.label                  "&brandShortName;-i është shfletuesi juaj parazgjedhje">
 <!ENTITY isNotDefault.label               "&brandShortName;-i s&apos;është shfletuesi juaj parazgjedhje">
 
-<!ENTITY separateProfileMode.label        "Lejoje &brandShortName;-in dhe Firefox të xhirojnë në të njëjtën kohë">
-<!ENTITY useFirefoxSync.label             "Ndihmëz: Kjo përdor profile ndaras. Përdorni Sync-n që të ndani mes tyre të dhëna.">
-<!ENTITY getStarted.label                 "Start using Sync…">
+<!ENTITY separateProfileMode.label        "Lejojeni &brandShortName;-in dhe Firefox-in të xhirojnë në të njëjtën kohë">
+<!ENTITY useFirefoxSync.label             "Ndihmëz: Kjo përdor profile ndaras. Për ndarje të dhënash mes tyre përdorni Sync-n.">
+<!ENTITY getStarted.label                 "Filloni të përdorni Sync-un…">

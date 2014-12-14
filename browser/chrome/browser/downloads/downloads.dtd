@@ -76,7 +76,7 @@
      when malware or potentially unwanted downloads are blocked.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY cmd.removeFile.label             "Hiqe Filtrin">
+<!ENTITY cmd.removeFile.label             "Hiqe Kartelën">
 <!ENTITY cmd.removeFile.accesskey         "H">
 
 <!-- LOCALIZATION NOTE (blocked.label):
