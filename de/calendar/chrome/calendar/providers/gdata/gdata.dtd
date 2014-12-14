@@ -13,5 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Immer überprüfen ">
 
+<!ENTITY gdata.reminder.default "Standarderinnerung">
 <!ENTITY gdata.reminder.action.sms.label "Eine SMS senden">
 
+<!ENTITY gdata.wizard.session.description "Bitte wählen Sie eine vorhandene Sitzung aus oder geben Sie Ihre E-Mail-Adresse ein, um eine neue Sitzung zu erstellen. Sie benötigen nur eine Sitzung pro Konto.">
+<!ENTITY gdata.wizard.calendars.description "Bitte wählen Sie die Kalender und Aufgabenlisten aus, die Sie abonnieren möchten.">
+
+<!ENTITY gdata.wizard.nextstep.description "Bitte fahren Sie mit dem nächsten Schritt fort, um Ihre Kalender einzurichten.">
