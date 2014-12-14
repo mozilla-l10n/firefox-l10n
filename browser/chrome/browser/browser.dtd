@@ -271,6 +271,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "กล่องเครื่องมือเนื้อหาเบราเซอร์">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.accesskey          "พ">
@@ -417,8 +419,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 
 <!ENTITY searchFor.label              "ค้นหา ">
-
-
+<!ENTITY searchWith.label             " กับ:">
+<!ENTITY changeSearchSettings.button  "เปลี่ยนการตั้งค่าการค้นหา">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -710,10 +712,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ร">
 <!ENTITY social.closeNotificationItem.label "ไม่ใช่ตอนนี้">
 
+<!ENTITY social.directory.label "ไดเรกทอรีการเปิดใช้งาน">
 <!ENTITY social.directory.text "คุณสามารถเปิดใช้งานบริการ Share จากไดเรกทอรี">
 <!ENTITY social.directory.button "พาฉันไปที่นั่น!">
-
-
+<!ENTITY social.directory.introText "คลิกบนบริการเพื่อเพิ่มเข้าไปใน &brandShortName;">
+<!ENTITY social.directory.viewmore.text "ดูเพิ่ม">
 
 <!ENTITY customizeMode.tabTitle "ปรับแต่ง &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "เพิ่มเครื่องมือและคุณสมบัติ">
@@ -729,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่ม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "ใช้ชุดตกแต่ง Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "มุ่งไปที่การพูดคุย">
