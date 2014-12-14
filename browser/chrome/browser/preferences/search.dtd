@@ -10,8 +10,17 @@
 <!ENTITY provideSearchSuggestions.accesskey    "Z">
 
 
-<!ENTITY oneClickSearchEngines.label           "Een-klik-zoekmachines">
+<!ENTITY oneClickSearchEngines.label           "Eén-klik-zoekmachines">
 
 <!ENTITY chooseWhichOneToDisplay.label         "In de zoekbalk kunt u direct bij alternatieve zoekmachines zoeken. Kies de machines om weer te geven.">
+
+<!ENTITY engineNameColumn.label                "Zoekmachine">
+<!ENTITY engineKeywordColumn.label             "Sleutelwoord">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Standaardzoekmachines terugzetten">
+<!ENTITY restoreDefaultSearchEngines.accesskey "S">
+
+<!ENTITY removeEngine.label                    "Verwijderen">
+<!ENTITY removeEngine.accesskey                "V">
 
 <!ENTITY addMoreSearchEngines.label            "Meer zoekmachines toevoegen…">
