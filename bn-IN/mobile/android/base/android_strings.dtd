@@ -483,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয়।">
+<!ENTITY loaded_tracking_content_message_bottom "এই পেজের কিছু অংশ আপনার অনলাইন কার্যকলাপ ট্র্যাক করতে পারে।">
+<!ENTITY blocked_tracking_content_message_top2 "ট্র্যাকিং সুরক্ষা সক্রিয়।">
+<!ENTITY blocked_tracking_content_message_bottom2 "পেজের কিছু অংশ যা আপার অনলাইন কাজকর্মকে ট্র্যাক করে তাকে ব্লক করে দেওয়া হয়েছে।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "আরও জানুন">
