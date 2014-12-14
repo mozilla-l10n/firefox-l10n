@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  การวัดและส่งข้อมูลทางไกล <span>ถูกปิดใช้งาน</span>">
 
+<!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  คำสั่ง SQL ที่ทำงานช้า">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
 
