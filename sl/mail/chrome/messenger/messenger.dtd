@@ -451,26 +451,26 @@
 <!ENTITY activitymanager.label "Upravitelj dejavnosti">
 <!ENTITY activitymanager.accesskey "U">
 <!ENTITY imAccountsStatus.label "Stanje klepeta">
-<!ENTITY imAccountsStatus.accesskey "a">
+<!ENTITY imAccountsStatus.accesskey "n">
 <!ENTITY imStatus.available          "Dosegljiv">
 <!ENTITY imStatus.unavailable        "Odsoten">
 <!ENTITY imStatus.offline            "Nedosegljiv">
 <!ENTITY imStatus.showAccounts       "Pokaži račune …">
 <!ENTITY joinChatCmd.label "Pridruži se klepetu …">
-<!ENTITY joinChatCmd.accesskey "r">
+<!ENTITY joinChatCmd.accesskey "ž">
 <!ENTITY savedFiles.label "Shranjene datoteke">
 <!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtri sporočil">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Poženi filtre v mapi">
-<!ENTITY filtersApply.accesskey "m">
+<!ENTITY filtersApply.accesskey "a">
 <!ENTITY filtersApplyToSelection.label "Poženi filtre za izbrana sporočila">
 <!ENTITY filtersApplyToSelection.accesskey "č">
 <!ENTITY filtersApplyToMessage.label "Poženi filtre za sporočilo">
 <!ENTITY filtersApplyToMessage.accesskey "č">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
-<!ENTITY runJunkControls.accesskey "a">
+<!ENTITY runJunkControls.accesskey "z">
 <!ENTITY deleteJunk.label "Izbriši v mapi pošto označeno kot neželeno">
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Uvozi …">
