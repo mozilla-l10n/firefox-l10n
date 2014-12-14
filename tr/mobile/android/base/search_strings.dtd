@@ -8,6 +8,7 @@
 
 <!ENTITY search_bar_hint "&formatS;ile ara">
 
+<!ENTITY search_empty_title2 "Aramaya başla">
 <!ENTITY search_empty_message "İstediğiniz her şeyi hızlıca arayın">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

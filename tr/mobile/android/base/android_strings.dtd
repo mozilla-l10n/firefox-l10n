@@ -139,7 +139,7 @@
 <!ENTITY pref_category_devtools "Geliştirici araçları">
 <!ENTITY pref_category_devtools_summary "Uzaktan hata ayıklama, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
-<!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
+<!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 
 <!ENTITY pref_category_home "Başlangıç">
@@ -173,7 +173,7 @@
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
 <!ENTITY pref_donottrack_title "Beni izleme">
-
+<!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
 <!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
-
+<!ENTITY pref_media_autoplay_enabled_summary "Web sitelerinin videoları ve diğer ortam içeriklerini otomatik oynatıp oynatamayacağını kontrol et">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
@@ -367,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; dk.">
+<!ENTITY reading_list_time_over_an_hour "Bir saatten fazla">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -404,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Son ziyaret ettiğiniz siteler burada görünür.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Pşşt: &formatS1;Yeni gizli sekme&formatS2; açarsanız geçmişinizin saklanmayacağını biliyor musunuz?">
 <!ENTITY home_reading_list_empty "Daha sonra okumak üzere kaydettiğiniz yazılar burada görünür.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -471,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
-
-
+<!ENTITY identity_no_info "Bu web sitesi kimlik bilgisi sağlamıyor.">
+<!ENTITY identity_not_encrypted "Bu siteyle aranızdaki bağlantı şifrelenmemiş.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Bu sayfada güvenli olmayan içerik görüntüleniyor.">
@@ -480,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Bu içerik engellense bile çoğu web sitesi düzgün çalışmaya devam edecektir.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "İzleme koruması devre dışı.">
+<!ENTITY loaded_tracking_content_message_bottom "Bu sayfanın bazı kısımları çevrimiçi etkinliklerinizi izleyebilir.">
+<!ENTITY blocked_tracking_content_message_top2 "İzleme koruması etkin.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Sayfanın çevrimiçi etkinliğinizi izleyen kısımları engellendi.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Daha fazla bilgi">

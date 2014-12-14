@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; adresine doğrulama bağlantısı gönderildi">
 <!ENTITY fxaccount_confirm_account_resend_email "E-postayı tekrar gönder">
-
+<!ENTITY fxaccount_confirm_account_change_email "Bu e-posta adresini unuttunuz mu?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Doğrulama e-postası gönderilemedi">
 
@@ -185,7 +185,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "Oturum açılamadı">
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
-<!ENTITY fxaccount_status_signed_in_as "Oturum açan:">
+<!ENTITY fxaccount_status_signed_in_as "Oturum açan">
 <!ENTITY fxaccount_status_auth_server "Hesap sunucusu">
 <!ENTITY fxaccount_status_sync_now "Şimdi eşitle">
 <!ENTITY fxaccount_status_syncing2 "Eşitleniyor…">
