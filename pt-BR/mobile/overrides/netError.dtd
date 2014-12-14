@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Verifique se o endereço tem erros de digitação, como 
+<strong>ww</strong>.example.com em vez de 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Pesquisa</button> 
+</div> 
+<li>Se você não consegue carregar nenhuma página, verifique a conexão Wi-Fi. 
+<button id='wifi'>Ativar Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "Endereço inválido">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Os endereços da Web são geralmente escritos como 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Pesquisar</button> 
+</div> 
+<li>Certifique-se de que está usando barras (ou seja, 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Conexão interrompida">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

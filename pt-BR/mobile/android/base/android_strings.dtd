@@ -102,7 +102,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Favoritar">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Já está nos favoritos">
 <!ENTITY overlay_share_reading_list_btn_label_already "Já na lista de leitura">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -118,11 +118,11 @@
 <!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
 <!ENTITY pref_category_display "Aparência">
-
+<!ENTITY pref_category_display_summary "Texto, barra de título, navegação em tela inteira">
 <!ENTITY pref_category_privacy_short "Privacidade">
-
+<!ENTITY pref_category_privacy_summary "Controle senhas, cookies, rastreamento, dados">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "Sobre o &brandShortName;, FAQs, escolhas de dados">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "DICA: adicione qualquer site para sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e então tocando no ícone &formatI;.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
-
+<!ENTITY pref_category_devtools_summary "Depuração remota, realçar regiões atualizadas">
 <!ENTITY pref_developer_paint_flashing "Realçar regiões atualizadas">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_remember_signons "Memorizar senhas">
@@ -172,14 +172,15 @@
 <!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
 <!ENTITY pref_cookies_disabled "Desativar">
 
-
+<!ENTITY pref_donottrack_title "Não rastrear">
+<!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Exibir menu">
 <!ENTITY pref_char_encoding_off "Não exibir menu">
 <!ENTITY pref_clear_private_data2 "Limpar agora">
 <!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
-
+<!ENTITY pref_clear_on_exit_title2 "Limpar ao sair">
 <!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
@@ -208,14 +209,15 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "A raposa rápida laranja salta sobre suas expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Controle se os sites podem reproduzir vídeos e outras mídias automaticamente">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary "Sincronize suas abas, favoritos, senhas, histórico">
 <!ENTITY pref_search_suggestions "Sugerir pesquisas">
 <!ENTITY pref_import_android "Importar do Android">
-
+<!ENTITY pref_import_android_summary "Importar favoritos e histórico do navegador nativo">
 <!ENTITY pref_private_data_history2 "Histórico">
 <!ENTITY pref_private_data_formdata "Campos de páginas e da pesquisa">
 <!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
@@ -300,7 +302,7 @@ size. -->
 <!ENTITY tabs_private "Privativas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY set_image_fail "Não foi possível definir a imagem">
-
+<!ENTITY set_image_path_fail "Não foi possível salvar a imagem">
 <!ENTITY set_image_chooser_title "Definir imagem como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -420,27 +424,33 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Voltar para &formatS;">
 
-
+<!ENTITY home_remote_tabs_title "Abas sincronizadas">
+<!ENTITY home_remote_tabs_empty "Suas abas de outros dispositivos aparecem aqui.">
 <!ENTITY home_remote_tabs_unable_to_connect "Não é possível conectar-se">
+<!ENTITY home_remote_tabs_need_to_sign_in "Identifique-se para reconectar sua conta Firefox e continuar a sincronização.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problemas ao verificar a sua conta?">
+<!ENTITY home_remote_tabs_need_to_verify "Por favor, verifique sua conta Firefox para começar a sincronização.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Reexibir dispositivos selecionados">
 
 <!ENTITY private_browsing_title "Navegação privativa">
 <!ENTITY private_tabs_panel_empty_desc "Suas abas privativas serão mostradas aqui. Apesar de não mantermos nenhum de seus dados de navegação ou cookies, os favoritos e downloads serão salvos em seu dispositivo.">
 <!ENTITY private_tabs_panel_learn_more "Deseja saber mais?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Onde estão as minhas abas?">
+<!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que podem ser facilmente acessados ​​toda vez que você abrir uma nova aba.">
+<!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
 
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
@@ -463,8 +473,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
-
-
+<!ENTITY identity_no_info "Este site não fornece informações de identidade.">
+<!ENTITY identity_not_encrypted "A conexão com este site não é criptografada.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Esta página está exibindo conteúdo não seguro.">
@@ -472,8 +482,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "A maioria dos sites ainda funcionará corretamente mesmo com este conteúdo bloqueado.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Proteção contra rastreamento desativada.">
+<!ENTITY loaded_tracking_content_message_bottom "Partes deste página podem rastrear suas atividades online.">
+<!ENTITY blocked_tracking_content_message_top2 "Proteção contra rastreamento ativada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partes da página que rastreiam sua atividade online foram bloqueadas.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Saiba mais">
@@ -515,6 +527,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- New tablet UI -->
 <!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
+
+<!ENTITY new_tablet_restart "Reinicie o navegador para que as alterações entrem em vigor">
+<!ENTITY new_tablet_pref "Ativar a nova interface tablet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessão de convidado">
@@ -523,8 +538,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
 <!ENTITY new_guest_session_text "A pessoa que usar a sessão não poderá ver seus dados pessoais de navegação (como senhas memorizadas, histórico ou favoritos).\n\nAssim que o seu convidado tiver concluído, os dados de navegação dele serão excluídos e a sua sessão será restaurada.">
-
-
+<!ENTITY guest_browsing_notification_title "Navegação do convidado está ativa">
+<!ENTITY guest_browsing_notification_text "Toque para sair">
 
 <!ENTITY exit_guest_session_title "O &brandShortName; irá reiniciar agora">
 <!ENTITY exit_guest_session_text "Os dados de navegação desta sessão serão excluídos.">
