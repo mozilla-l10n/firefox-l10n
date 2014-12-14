@@ -22,3 +22,5 @@
 <!ENTITY inspectorSearchHTML.key            "T">
 
 <!ENTITY inspectorCopyImageDataUri.label       "Kopjoni URL Të Dhënash Figure">
+
+<!ENTITY inspectorShowDOMProperties.label       "Shfa Vetitë DOM">
