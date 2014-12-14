@@ -115,8 +115,8 @@
 
 
 <!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão baixadas com base nas configurações padrão.">
-
-
+<!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste site">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão baixadas.">
 
 
@@ -126,7 +126,7 @@
 
 
 
-
-
+<!ENTITY cookiePopupManager.label "Gerenciador de popup">
+<!ENTITY cookiePopupManager.accesskey "o">
 
 

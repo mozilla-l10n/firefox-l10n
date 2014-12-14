@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR SeaMonkey BR
+#define MOZ_LANGPACK_CREATOR Mozilla Brasil
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 

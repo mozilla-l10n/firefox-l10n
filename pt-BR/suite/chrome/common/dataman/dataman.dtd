@@ -2,15 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dataman.windowTitle "Gerenciador de dados">
 
 
+<!ENTITY select.all.label "Todos os tipos de dados">
+<!ENTITY select.cookies.label "Somente os cookies">
+<!ENTITY select.permissions.label "Somente as permissões">
+<!ENTITY select.preferences.label "Somente as preferências">
+<!ENTITY select.passwords.label "Somente as senhas">
+<!ENTITY select.storage.label "Somente o armazenamento">
+
+<!ENTITY domain.search.placeholder "Domínios de pesquisa">
 
 
-
-
-
-
-
+<!ENTITY domain.tree.domain.label "Domínio">
 
 
 
@@ -21,13 +26,16 @@
 <!ENTITY tab.permissions.label "Permissões">
 <!ENTITY tab.preferences.label "Preferências">
 <!ENTITY tab.passwords.label "Senhas">
-
-
-
+<!ENTITY tab.storage.label "Armazenamento">
+<!ENTITY tab.formdata.label "Dados de formulários">
+<!ENTITY tab.forget.label "Esquecer">
 <!-- cookies -->
 
-<!ENTITY cookies.tree.name.label "Cookie">
+<!ENTITY cookies.description "Este domínio armazena os seguintes cookies no seu computador:">
 
+<!ENTITY cookies.tree.host.label "Site da web">
+<!ENTITY cookies.tree.name.label "Cookie">
+<!ENTITY cookies.tree.expires.label "Expira">
 
 <!ENTITY cookies.infobox.label "Detalhes do cookie selecionado">
 
@@ -50,9 +58,9 @@
 
 <!ENTITY perm.UseDefault "Usar padrão">
 <!ENTITY perm.AskAlways "Sempre perguntar">
-
+<!ENTITY perm.NeverSave "Nunca salvar">
 <!ENTITY perm.Allow "Permitir">
-
+<!ENTITY perm.AllowSameDomain "Permitir para o mesmo domínio">
 
 <!ENTITY perm.Block "Bloquear">
 
@@ -60,8 +68,8 @@
 
 <!-- preferences -->
 
-
-
+<!ENTITY prefs.tree.name.label "Nome da preferência">
+<!ENTITY prefs.tree.value.label "Valor">
 
 
 
@@ -70,12 +78,14 @@
 
 <!-- passwords -->
 
+<!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
+
+<!ENTITY pwd.tree.username.label "Nome de usuário">
 
 
 
-
-
-
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
 
 
 
@@ -93,10 +103,10 @@
 <!-- form data -->
 
 <!ENTITY fdata.tree.fieldname.label "Nome">
-
-
-
-
+<!ENTITY fdata.tree.value.label "Valor digitado">
+<!ENTITY fdata.tree.usecount.label "Contagem de Uso">
+<!ENTITY fdata.tree.firstused.label "Primeira utilização">
+<!ENTITY fdata.tree.lastused.label "Última utilização">
 
 
 
@@ -113,8 +123,8 @@
 
 
 
-
-
+<!ENTITY forget.storage.label "Armazenamento">
+<!ENTITY forget.storage.accesskey "m">
 
 
 

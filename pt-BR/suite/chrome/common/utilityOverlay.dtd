@@ -75,11 +75,11 @@
 
 
 
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Localizar anterior">
 
 
-
-
-
+<!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao digitar">
 <!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Localizar links ao digitar">
@@ -150,3 +150,4 @@
 <!ENTITY dontShowMessage.label        "Não exibir esta mensagem quando popups forem bloqueados">
 <!ENTITY dontShowMessage.accesskey    "N">
 
+<!ENTITY syncToolbarButton.label "Sincronizar">

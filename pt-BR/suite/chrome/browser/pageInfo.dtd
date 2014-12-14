@@ -13,7 +13,7 @@
 <!ENTITY  selectall.key          "A">
 <!ENTITY  selectall.label        "Selecionar tudo">
 <!ENTITY  selectall.accesskey    "a">
-
+<!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
 
 

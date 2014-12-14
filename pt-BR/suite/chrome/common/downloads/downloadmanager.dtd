@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
 
@@ -13,6 +14,9 @@
 
 <!ENTITY col.name.label                  "Nome">
 <!ENTITY col.name.accesskey              "N">
+<!ENTITY col.name.tooltip                "Nome do arquivo">
+<!ENTITY col.status.label                "Status">
+<!ENTITY col.status.accesskey            "S">
 
 
 
@@ -25,6 +29,13 @@
 
 
 
+<!ENTITY col.timeremaining.tooltip       "Tempo restante">
+
+
+
+
+
+<!ENTITY col.transferrate.tooltip        "Velocidade">
 
 
 
@@ -36,20 +47,10 @@
 
 
 
+<!ENTITY col.progresstext.tooltip        "Progresso (&#037;)">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY col.source.tooltip              "Origem">
 
 <!ENTITY view.columns.label              "Exibir colunas">
 <!ENTITY view.columns.accesskey          "u">

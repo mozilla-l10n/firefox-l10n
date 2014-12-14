@@ -9,8 +9,8 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 
 
-
-
+<!ENTITY searchOnRemote.label        "Servidor remoto">
+<!ENTITY searchOnLocal.label         "Sistema local">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">

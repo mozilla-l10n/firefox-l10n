@@ -22,7 +22,7 @@
 <!ENTITY lookIn.accesskey                    "x"> 
 <!ENTITY for.label                           "Localizar nome ou email:"> 
 <!ENTITY for.accesskey                       "z"> 
-
+<!ENTITY for.placeholder                     "Nome ou e-mail">
 <!ENTITY addressMessageTo.label              "Enviar para:"> 
 <!-- Tooltips items -->  
 

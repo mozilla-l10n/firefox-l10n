@@ -22,7 +22,10 @@ está indo para o lugar certo. Porém, a identidade deste site não pode ser ver
 <!ENTITY certerror.whatShouldIDo.content "Se você normalmente se conecta neste 
 site sem problemas, este erro pode significar que alguém invadiu 
 o site e você não deva continuar.">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP 
+Strict Transport Security (HSTS) para especificar que o &brandShortName; 
+deve conectar-se a ele seguramente. Como resultado, não é possível adicionar 
+exceções a este certificado.">
 <!ENTITY certerror.getMeOutOfHere.label "Isso parece estranho, me leve para minha página inicial">
 
 <!ENTITY certerror.expert.heading "Eu entendo os riscos">
