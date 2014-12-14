@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
 
+<!ENTITY tabs.otherComputers.label               "Abas de outros computadores">
+
+<!ENTITY tabs.searchText.label                   "Digite aqui para encontrar abas…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
      Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->

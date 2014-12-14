@@ -670,7 +670,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
-<!ENTITY threadColumn2.tooltip "Exibir mensagens agrupadas">
+
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY subjectColumn2.tooltip "Ordenar por assunto">

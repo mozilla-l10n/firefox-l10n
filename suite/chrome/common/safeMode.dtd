@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY safeModeDialog.title         "Modo de segurança do &brandShortName;">
+<!ENTITY window.width                 "37em">
 
+<!ENTITY safeModeDescription.label    "&brandShortName; está sendo executado no modo de segurança, que desativa temporariamente suas configurações personalizadas, temas e complementos.">
+<!ENTITY safeModeDescription2.label   "Você pode tornar algumas ou todas essas mudanças permanentes:">
 
+<!ENTITY disableAddons.label          "Desativar todos os complementos">
+<!ENTITY disableAddons.accesskey      "D">
 
-
-
-
+<!ENTITY resetToolbars.label          "Resetar tamanho de barras de ferramentas e janelas">
+<!ENTITY resetToolbars.accesskey      "R">
 
 
 
