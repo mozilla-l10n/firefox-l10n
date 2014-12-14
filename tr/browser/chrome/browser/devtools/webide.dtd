@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Uygulama aç…">
 <!ENTITY projectMenu_selectApp_accesskey "U">
 <!ENTITY projectMenu_play_label "Yükle ve çalıştır">
-
+<!ENTITY projectMenu_play_accesskey "ü">
 <!ENTITY projectMenu_stop_label "Uygulamayı durdur">
 <!ENTITY projectMenu_stop_accesskey "d">
 <!ENTITY projectMenu_debug_label "Uygulamada hata ayıkla">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "k">
 <!ENTITY projectMenu_showPrefs_label "Tercihler">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Ek bileşenleri yönet">
+<!ENTITY projectMenu_manageComponents_accesskey "n">
 
 <!ENTITY runtimeMenu_label "Çalışma zamanı">
 <!ENTITY runtimeMenu_accesskey "z">
@@ -65,9 +65,11 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 
-
+<!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projelerim">
@@ -118,7 +120,7 @@
 <!ENTITY prefs_options_showeditor "Editörü göster">
 <!ENTITY prefs_options_showeditor_tooltip "Dahili editörü göster">
 <!ENTITY prefs_options_tabsize "Sekme boyutu">
-
+<!ENTITY prefs_options_expandtab "Tab yerine boşluk">
 <!ENTITY prefs_options_expandtab_tooltip "Tab karakteri yerine boşluk kullan">
 <!ENTITY prefs_options_detectindentation "Otomatik girinti">
 <!ENTITY prefs_options_detectindentation_tooltip "Kaynak içeriğe dayanarak girintilemeyi tahmin et">
