@@ -10,7 +10,7 @@
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
 <!ENTITY dualUseFolders.accesskey "o">
-<!ENTITY useIdle.label "IDLE-commando gebruiken als de server het ondersteunt">
+<!ENTITY useIdle.label "IDLE-opdracht gebruiken als de server het ondersteunt">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maximumaantal serververbindingen in de buffer">
 <!ENTITY maximumConnectionsNumber.accesskey "n">
