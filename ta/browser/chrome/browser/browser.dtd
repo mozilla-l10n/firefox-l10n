@@ -19,26 +19,26 @@
 <!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "தத்தலை மீளேற்று">
+<!ENTITY  reloadTab.label                    "கீற்றை மீளேற்று">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "அனைத்து கீற்றுகளையும் மீளேற்று">
 <!ENTITY  reloadAllTabs.accesskey            "அ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "வலது பக்கதிசையில் தத்தல்களை மூடு">
+<!ENTITY  closeTabsToTheEnd.label            "வலது பக்கதிசையில் கீற்றுகளை மூடு">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "மற்ற தத்தல்களை மூடவும்">
-<!ENTITY  closeOtherTabs.accesskey           "ம">
+<!ENTITY  closeOtherTabs.label               "மற்ற கீற்றுகளை மூடவும்">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "தாவலையை சேர்">
+<!ENTITY  pinTab.label                       "கீற்றைச் சேர்">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "தத்தலை பின் நீக்கு">
+<!ENTITY  unpinTab.label                     "கீற்றை நீக்கு">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "குழுவுக்கு நகர்த்து">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -49,12 +49,12 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "க">
 <!ENTITY  undoCloseTab.label                 "மூடிய கீற்றுகளைத் திற">
 <!ENTITY  undoCloseTab.accesskey             "ம">
-<!ENTITY  closeTab.label                     "தத்தலை மூடவும்">
+<!ENTITY  closeTab.label                     "கீற்றை மூடவும்">
 <!ENTITY  closeTab.accesskey                 "C">
 
-<!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடு">
+<!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
 
-<!ENTITY tabCmd.label "புதிய தத்தல்">
+<!ENTITY tabCmd.label "புதிய கீற்று">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -86,8 +86,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "மூடிய நகீற்றுகளை திற">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ம">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "மூடிய கீற்றுகளைத் திற">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "பக்க மூலம்">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டு">
+<!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu.label "சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
-<!ENTITY addCurPagesCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியீடு…">
+<!ENTITY addCurPagesCmd.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியீடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
 <!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
@@ -185,7 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "இல்லம்">
 
-<!ENTITY tabGroupsButton.label        "தத்தல்கள் குழுக்கள்">
+<!ENTITY tabGroupsButton.label        "கீற்று குழுக்கள்">
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "பார்வை"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "தத்தல் குழுக்கள்">
+<!ENTITY viewTabGroups.label            "கீற்று குழுக்கள்">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "கருவிப்பட்டைகள்"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "வரலாறு">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
+<!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
 <!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "தத்தலுக்கு மாற்று:">
+<!ENTITY urlbar.switchToTab.label     "கீற்றுக்கு மாற்று:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "புதிய தத்தலில் இணைப்பைத் திற">
+<!ENTITY openLinkCmdInTab.label       "இணைப்பை புதிய கீற்றில் திற">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "புதிய தத்தலில் சட்டத்தைத் திற">
+<!ENTITY openFrameCmdInTab.label      "சட்டத்தை புதிய கீற்றில் திற">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
@@ -677,10 +677,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!ENTITY tabsToolbar.label "உலாவி தத்தல்கள்">
+<!ENTITY tabsToolbar.label "உலாவி கீற்றுகள்">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "மற்ற சாதனங்களிலிருந்து தத்தல்கள்">
+<!ENTITY syncTabsMenu2.label     "மற்ற சாதனங்களிலிருந்த கீற்றுகள்">
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
@@ -815,7 +815,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.mainActionDesc          "தொடரும்பொருட்டு:">
 <!ENTITY panicButton.view.deleteCookies           "சமீபத்திய <html:strong>நினைவிகளை</html:strong> அழி">
 <!ENTITY panicButton.view.deleteHistory           "சமீபத்திய <html:strong>வரலாறுகளை</html:strong> அழி">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "அனைத்து <html:strong>தத்தல்கள்</html:strong> மற்றும் <html:strong>சாளரங்களை</html:strong> மூடு">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "அனைத்து <html:strong>கீற்றுகள்</html:strong> மற்றும் <html:strong>சாளரங்களை</html:strong> மூடு">
 <!ENTITY panicButton.view.openNewWindow           "ஒரு புதிய சுத்தமான சாளரத்தை திற">
 
 <!ENTITY panicButton.view.undoWarning             "இந்த செயல் மறைக்க முடியாது.">
