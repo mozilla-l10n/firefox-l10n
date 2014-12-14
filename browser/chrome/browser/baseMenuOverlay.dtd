@@ -35,10 +35,10 @@
 <!ENTITY helpFeedbackPage.label      "Кері байланыс хабарламасын жіберу…">
 <!ENTITY helpFeedbackPage.accesskey  "е">
 
-<!ENTITY helpShowTour.label             "&brandShortName;-қа cаяхат">
+<!ENTITY helpShowTour.label             "&brandShortName; ішіне cаяхат">
 <!ENTITY helpShowTour.accesskey         "я">
 
-<!ENTITY preferencesCmdMac.label        "Баптаулар...">
+<!ENTITY preferencesCmdMac.label        "Баптаулар…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Қызметтер">
