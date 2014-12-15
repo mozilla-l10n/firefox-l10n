@@ -17,6 +17,8 @@
 
 
 
+
+
 <!ENTITY keepUntil.label "Hou tot:">
 <!ENTITY keepUntil.accesskey "H">
 <!ENTITY expire.label "hulle verval">
@@ -26,11 +28,6 @@
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Wys koekies…">
 <!ENTITY showCookies.accesskey "W">
-
-
-
-
-
 
 
 

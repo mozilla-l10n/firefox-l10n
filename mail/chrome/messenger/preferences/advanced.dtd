@@ -101,13 +101,13 @@
 
 <!ENTITY certSelection.description       "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
 <!ENTITY certs.auto                      "Kies een outomaties">
-<!ENTITY certs.auto.accesskey            "m">
+
 <!ENTITY certs.ask                       "Vra my elke keer">
 <!ENTITY certs.ask.accesskey             "A">
 
+
+
 <!ENTITY viewCertificates.label         "Bekyk sertifikate">
 <!ENTITY viewCertificates.accesskey     "s">
-<!ENTITY validation.label               "Stawing">
-<!ENTITY validation.accesskey           "S">
-<!ENTITY viewSecurityDevices.label      "Sekuriteitstoestelle">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+
+

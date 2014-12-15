@@ -2,8 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+
 
 
 
@@ -25,7 +30,6 @@
 
 
 
-<!ENTITY bookmark "Boekmerk">
 
 
 
@@ -33,7 +37,7 @@
 
 <!ENTITY history_today_section "Vandag">
 <!ENTITY history_yesterday_section "Gister">
-<!ENTITY history_week_section "7 dae gelede">
+
 
 
 <!ENTITY go "Gaan">
@@ -59,13 +63,35 @@
 
 
 
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+<!ENTITY overlay_share_retry "Probeer weer">
+
+
+
+
 
 
 
@@ -83,6 +109,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+
 
 
 
@@ -121,6 +148,8 @@
 
 
 
+
+
 <!ENTITY pref_plugins "Inproppe">
 
 
@@ -145,7 +174,10 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
+
 <!ENTITY pref_sync "Sync">
+
+
 
 
 
@@ -215,7 +247,9 @@ size. -->
 
 
 
+
 <!ENTITY tabs_private "Privaat">
+
 
 
 
@@ -224,11 +258,10 @@ size. -->
 <!ENTITY find_prev "Vorige">
 <!ENTITY find_next "Volgende">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Speel">
 <!ENTITY media_pause "Laat wag">
-
 
 
 
@@ -248,8 +281,9 @@ size. -->
 
 
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -264,6 +298,9 @@ size. -->
 
 
 
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -282,6 +319,8 @@ size. -->
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
 
 
@@ -291,6 +330,8 @@ size. -->
 
 
 
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -302,6 +343,28 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+
+<!ENTITY home_remote_tabs_unable_to_connect "Kan nie koppel nie">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "Private blaaiery">
+
+
+
+
+
 
 
 
@@ -322,8 +385,16 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "wat bedryf word deur">
+<!ENTITY identity_no_info "Hierdie webwerf verskaf nie identiteitinligting nie.">
+<!ENTITY identity_not_encrypted "U verbinding aan hierdie webwerf is nie geënkripteer nie.">
 <!-- Mixed content notifications in site identity popup -->
 
+
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Leer meer">
 
@@ -343,7 +414,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 
 
-
 <!-- Updater notifications -->
 
 
@@ -353,9 +423,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "Gaan voort">
+
+
 
 
 
@@ -365,7 +440,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Klaar">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
@@ -374,3 +450,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

@@ -34,9 +34,17 @@
 
 
 
+
+
+
+
 <!ENTITY viewMenu_label "Bekyk">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Zoem in">
+
+<!ENTITY viewMenu_zoomout_label "Zoem uit">
 
 
 
@@ -49,6 +57,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Oortjies">
@@ -98,12 +110,19 @@
 
 
 
-
-
 <!ENTITY prefs_options_keybindings_default "Verstek">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Naam">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 
