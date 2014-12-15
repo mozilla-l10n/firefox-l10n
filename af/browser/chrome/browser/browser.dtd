@@ -416,7 +416,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-
+<!ENTITY searchFor.label              "Soek  ">
+<!ENTITY searchWith.label             " met:">
+<!ENTITY changeSearchSettings.button  "Verander soekinstellings">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -721,10 +723,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.toolbars "Wys / Versteek nutsbalke">
 <!ENTITY customizeMode.titlebar "Titelbalk">
 <!ENTITY customizeMode.lwthemes "Temas">
-
+<!ENTITY customizeMode.lwthemes.myThemes "My temas">
 <!ENTITY customizeMode.lwthemes.recommended "Aanbeveel">
 <!ENTITY customizeMode.lwthemes.menuManage "Bestuur">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kry meer temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
 <!ENTITY customizeMode.deveditionTheme.label2 "Gebruik die Ontwikkelaars-uitgawe se tema">
@@ -753,16 +755,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Opsies">
 <!ENTITY mixedContentBlocked2.unblock.label "Deaktiveer beskerming tydelik">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
-
+<!ENTITY mixedContentBlocked2.block.label "Aktiveer beskerming">
+<!ENTITY mixedContentBlocked2.block.accesskey "A">
+<!ENTITY mixedContentBlocked2.disabled.message "Beskerming is gedeaktiveer">
 
 <!ENTITY trackingContentBlocked.message "Monitering">
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "Dele van die bladsy wat u aanlyn aktiwiteit beloer is geblok.">
+<!ENTITY trackingContentBlocked.learnMore "Meer inligting">
+<!ENTITY trackingContentBlocked.options "Opsies">
+<!ENTITY trackingContentBlocked.unblock2.label "Deaktiveer beveiliging vir dié werf">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 
@@ -811,11 +813,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.deleteCookies           "onlangse <html:strong>koekies</html:strong> uitgevee word">
 <!ENTITY panicButton.view.deleteHistory           "onlangse <html:strong>geskiedenis</html:strong> uitgevee word">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "alle <html:strong>oortjies</html:strong> en <html:strong>vensters</html:strong> gesluit word">
-
+<!ENTITY panicButton.view.openNewWindow           "Open 'n nuwe skoon venster">
 
 <!ENTITY panicButton.view.undoWarning             "Hierdie aksie kan nie ontdoen word nie.">
 
 
-
+<!ENTITY panicButton.thankyou.msg2                "Blaai veilig!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankie!">
 
