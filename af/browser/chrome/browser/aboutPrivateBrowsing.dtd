@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "U blaai nou privaat">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Open 'n privaatvenster">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; sal nie enige geskiedenis vir dié venster onthou nie.">
-
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; sal nie enige geskiedenis vir private vensters onthou nie.">
 
 
 
@@ -12,7 +14,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Open 'n privaatvenster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Om privaat te begin blaai, kan jy ook &basePBMenu.label; &gt; &newPrivateWindow.label; kies.">

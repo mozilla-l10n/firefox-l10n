@@ -8,11 +8,13 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrie is <span>gedeaktiveer</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Stadige SQL-stellings">
 
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramme">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Eenvoudige mates">
 

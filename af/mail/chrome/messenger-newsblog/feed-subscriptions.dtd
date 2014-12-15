@@ -4,7 +4,9 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Voerintekeninge">
-<!ENTITY subscriptionDesc.label      "Let wel: Om die vouer vir 'n nuusvoer te verwyder of te wysig sal nie voorheen afgelaaide artikels affekteer nie.">
+
+
+
 
 
 
@@ -15,8 +17,6 @@
 
 <!ENTITY quickMode.label             "Wys die artikelopsomming in plaas daarvan om die webbladsy te laai">
 <!ENTITY quickMode.accesskey         "s">
-
-
 
 
 
