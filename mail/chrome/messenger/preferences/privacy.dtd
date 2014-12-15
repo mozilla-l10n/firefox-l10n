@@ -3,36 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Mail Content -->
+<!ENTITY captionMailContent.label "Contido das mensaxes">
 
-
-
-
-
-
-
+<!ENTITY acceptRemoteContent.label "Permitir contido remoto nas mensaxes">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Excepcións…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Obteña máis información sobre os problemas de privacidade do contido remoto">
 
 <!-- Web Content -->
+<!ENTITY captionWebContent.label "Contido web">
 
+<!ENTITY keepHistory.label "Lembrar os sitios web e as ligazóns que visitei">
+<!ENTITY keepHistory.accesskey "r">
+<!ENTITY acceptCookies.label "Aceptar cookies dos sitios">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Aceptar cookies de terceiros:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Nunca">
+<!ENTITY acceptThirdParty.visited.label "Dos visitados">
+<!ENTITY keepUntil.label "Conservar ata:">
+<!ENTITY keepUntil.accesskey "t">
+<!ENTITY expire.label "que caduquen">
+<!ENTITY close.label "que peche &brandShortName;">
+<!ENTITY askEachTime.label "preguntarme cada vez">
+<!ENTITY cookieExceptions.label "Excepcións…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Amosar as cookies…">
+<!ENTITY showCookies.accesskey "s">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY dntTrackingNotOkay.label2 "Indicarlle aos sitios que non quero ser seguido">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Máis información sobre Do Not Track">

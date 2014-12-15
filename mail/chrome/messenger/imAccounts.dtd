@@ -25,8 +25,8 @@
 <!ENTITY account.movedown.label       "Baixar">
 <!ENTITY account.cancelReconnection.label         "Cancelar que se volva a conectar">
 <!ENTITY account.cancelReconnection.accesskey     "a">
-
-
+<!ENTITY account.copyDebugLog.label     "Copiar rexistro de depuración">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
 <!ENTITY account.disconnected         "Desconectado">

@@ -10,9 +10,9 @@
 <!ENTITY radioAskMe.label "Preguntar se devolver a conexión ao iniciar">
 <!ENTITY radioAskMe.accesskey "P">
 <!ENTITY radioAlwaysOnline.label "Sempre iniciar conectado">
-<!ENTITY radioAlwaysOnline.accesskey "m">
+<!ENTITY radioAlwaysOnline.accesskey "I">
 
-<!ENTITY textGoingOnline "Enviar as mensaxes non enviadas ao desconectar?">
+<!ENTITY textGoingOnline "Enviar as mensaxes non enviadas ao pasar o modo en liña?">
 <!ENTITY radioAutoSend.label "Si">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Non">
