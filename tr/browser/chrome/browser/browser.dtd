@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Sekme çöktü">
-<!ENTITY tabCrashed.message "Söylemekten utanıyoruz ama... Görüntülemeye çalıştığınız bu sayfa yanıt vermiyor.">
+<!ENTITY tabCrashed.message "Söylemekten utanıyoruz ama… Görüntülemeye çalıştığınız bu sayfa yanıt vermiyor.">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; bu çökmeden haberdar edilsin ki sorunu düzeltebilsin.">
 <!ENTITY tabCrashed.tryAgain "Yeniden dene">
 
