@@ -25,4 +25,4 @@
 <!ENTITY radioNotDownload.label "否">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload.label "询问我">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload.accesskey "A">

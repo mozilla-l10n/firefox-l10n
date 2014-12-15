@@ -8,8 +8,7 @@
 <!ENTITY cmd.resume.tooltip              "恢复">
 <!ENTITY cmd.retry.tooltip               "重试">
 <!ENTITY cmd.cancel.tooltip              "取消">
-<!ENTITY cmd.open.label                  "打开
-">
+<!ENTITY cmd.open.label                  "打开">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.show.label                  "打开所在文件夹">
 <!ENTITY cmd.show.accesskey              "F">

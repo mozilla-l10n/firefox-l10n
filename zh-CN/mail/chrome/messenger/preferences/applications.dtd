@@ -32,7 +32,7 @@
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "您需要授权才能看到此存储服务的设置。">
 <!ENTITY authRequired.button.label        "授权">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY enableCloudFileAccountOffer.label "大于此数值的文件提议分享：">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

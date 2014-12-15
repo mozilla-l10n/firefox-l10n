@@ -29,7 +29,7 @@
 <!ENTITY displayIcon.accesskey          "D">
 
 <!ENTITY displayNotification.label      "在正文区域顶部显示通知栏">
-<!ENTITY displayNotification.accesskey  "N">
+<!ENTITY displayNotification.accesskey  "n">
 
 <!ENTITY popupNote.description          "提示: 阻挡所有弹出窗口可能会让您错过一些重要信息,例如银行或购物站点的重要信息.点击帮住查看如何添加例外,当阻挡所有弹出窗口时，不会错过重要网站的通知.">
 

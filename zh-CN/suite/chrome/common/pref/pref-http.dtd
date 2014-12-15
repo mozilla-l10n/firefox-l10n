@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.http.title                     "HTTP 连网">
-
 <!-- Network-->
+
 <!ENTITY prefDirect.label                    "直接连接选项">
 <!ENTITY prefProxy.label                     "代理连接选项">
 <!ENTITY prefEnableHTTP10.label              "使用HTTP 1.0协议">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
 <!ENTITY prefEnableHTTP11.label              "使用HTTP 1.1协议">
-<!ENTITY prefEnableHTTP11.accesskey          "E">
+<!ENTITY prefEnableHTTP11.accesskey          "e">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefEnablePipelining.label          "允许流水线操作">
 <!ENTITY prefEnablePipelining.accesskey      "P">

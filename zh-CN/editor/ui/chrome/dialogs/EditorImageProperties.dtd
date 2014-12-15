@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "图像属性">
 
 <!ENTITY pixelsPopup.value "像素">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "图像 URL：">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "输入图像的文件名或地址">
@@ -23,9 +23,9 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "预览图像">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "实际大小：">
 <!ENTITY actualSizeRadio.label "实际大小">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -34,27 +34,27 @@
 <!ENTITY customSizeRadio.accessKey "S">
 <!ENTITY customSizeRadio.tooltip "将图像的大小变为显示于页面中">
 <!ENTITY heightEditField.label "高度:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "宽度：">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY constrainCheckbox.label "限制">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "保持图像比例">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "图像映射">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "将文本与图像对齐">
 <!ENTITY bottomPopup.value "在底部">
 <!ENTITY topPopup.value "在顶部">
 <!ENTITY centerPopup.value "居中">
 <!ENTITY wrapRightPopup.value "折行右对齐">
 <!ENTITY wrapLeftPopup.value "折行左对齐">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "单元间隔">
 <!ENTITY leftRightEditField.label "左右空间：">
 <!ENTITY leftRightEditField.accessKey "L">
@@ -62,15 +62,15 @@
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "实心边框：">
 <!ENTITY borderEditField.accessKey "B">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "显示已链接图片的边框">
-<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY showImageLinkBorder.accessKey "b">
 <!ENTITY LinkAdvancedEditButton.label "链接高级编辑…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "添加或修改 HTML 属性、样式属性以及 JavaScript">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "表单">
 <!ENTITY imageLocationTab.label "地址">
 <!ENTITY imageDimensionsTab.label "尺寸">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "订阅收取点">
 <!ENTITY subscriptionDesc.label      "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
 
@@ -37,7 +37,7 @@
 <!ENTITY button.importOPML.label     "导入">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "导出">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "x">
 <!ENTITY button.exportOPML.tooltip   "按目录结构导出收取点；Ctrl+单击或者Ctrl+回车即可导出收取点列表">
 
 <!ENTITY cmd.close.commandKey        "w">

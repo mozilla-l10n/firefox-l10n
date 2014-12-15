@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY saveCmd.key "S">
 
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
+
 <!ENTITY pasteNoFormatting.label "粘贴为无格式文本">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "拼写检查">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "插入">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "链接…">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "分开下面的图像">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
 <!-- Used just in context popup. -->
+
 <!ENTITY createLinkCmd.label "创建链接…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "在新网页编写器窗口中编辑此链接">
 <!ENTITY editLinkCmd.accesskey "i">
-
 <!-- Font Face SubMenu -->
+
 <!ENTITY FontFaceSelect.tooltip "选择字体">
 <!ENTITY fontfaceMenu.label "字体">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -68,17 +68,19 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "选择字体大小">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "更大">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "大小">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -96,8 +98,8 @@
 <!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-large">
 <!ENTITY size-xx-largeCmd.accesskey "e">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "文本样式">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "粗体">
@@ -165,8 +167,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "预设格式">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "列表">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "无">
@@ -189,8 +191,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "高级属性">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "对齐">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "左对齐">
@@ -205,8 +207,8 @@
 <!ENTITY alignJustify.label "调整">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "对齐已调整">
-
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "层">
 <!ENTITY layerSendToBack.tooltip "置后">
 <!ENTITY layerBringToFront.tooltip "前置">
@@ -220,12 +222,12 @@
 
 <!ENTITY colorsAndBackground.label "页面颜色和背景…">
 <!ENTITY colorsAndBackground.accesskey "u">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "表格">
 <!ENTITY tableMenu.accesskey "b">
-
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "选择">
 <!ENTITY tableSelectMenu.accesskey "S">
 
@@ -235,8 +237,8 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "表格删除">
 <!ENTITY tableDeleteMenu2.accesskey "D">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "插入">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "表格">
@@ -269,12 +271,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "删除">
 <!ENTITY tableDeleteMenu.accesskey "D">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "分割单元格">
@@ -283,8 +285,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "表格属性…">
 <!ENTITY tableProperties.accesskey "o">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "菜单栏">
 <!ENTITY formatToolbar.tooltip "格式化工具栏">
 <!ENTITY cutToolbarCmd.tooltip "剪切">
@@ -310,8 +312,8 @@
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
@@ -327,21 +329,21 @@
 <!ENTITY alignCenterButton.tooltip "文本居中对齐">
 <!ENTITY alignRightButton.tooltip "向右对齐文本">
 <!ENTITY alignJustifyButton.tooltip "左右对齐文本">
-
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "选择">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "移除标记符">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "修改标记符">
-<!ENTITY structChangeTag.accesskey  "c">
 
+<!ENTITY structSelect.label         "选择">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "移除标记符">
+<!ENTITY structRemoveTag.accesskey  "R">
+<!ENTITY structChangeTag.label      "修改标记符">
+<!ENTITY structChangeTag.accesskey  "C">
 <!-- TOC manipulation -->
+
 <!ENTITY insertTOC.label          "插入">
-<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "更新">
-<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY updateTOC.accesskey      "U">
 <!ENTITY removeTOC.label          "移除">
-<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "目录…">
 <!ENTITY tocMenu.accesskey        "b">

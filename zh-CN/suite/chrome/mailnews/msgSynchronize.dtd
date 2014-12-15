@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "下载/同步消息">
 <!ENTITY MsgSelect.label "脱机使用项">
@@ -17,7 +17,7 @@
 <!ENTITY workOffline.label "下载或同步完成之后马上脱机工作">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "选择…">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "选择供脱机工作的邮件夹和新闻组。">
 <!ENTITY MsgSelectInd.label "下载">
 <!ENTITY MsgSelectItems.label "文件夹及新闻组">

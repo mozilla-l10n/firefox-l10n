@@ -4,6 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "将消息标记为某日已读">
 <!ENTITY markByDateLower.label "从：">
-<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateLower.accesskey "f">
 <!ENTITY markByDateUpper.label "到：">
 <!ENTITY markByDateUpper.accesskey "T">

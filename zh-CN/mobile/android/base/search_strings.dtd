@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name '&brandShortName; 搜索'>
-
+<!ENTITY search_app_name "&brandShortName; 搜索">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint '使用 &formatS; 搜索'>
 
-<!ENTITY search_empty_title '&brandShortName; 搜索'>
-<!ENTITY search_empty_message '快速搜索任何你想要的东西'>
+<!ENTITY search_bar_hint "使用 &formatS; 搜索">
 
+<!ENTITY search_empty_title "&brandShortName; 搜索">
+<!ENTITY search_empty_message "快速搜索任何你想要的东西">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description '添加到搜索栏'>
 
-<!ENTITY search_pref_title '设置'>
-<!ENTITY search_pref_button_content_description '设置'>
+<!ENTITY search_plus_content_description "添加到搜索栏">
 
-<!ENTITY pref_clearHistory_confirmation '历史记录已清除'>
-<!ENTITY pref_clearHistory_dialogMessage '删除此设备的所有搜索记录？'>
-<!ENTITY pref_clearHistory_title '清除搜索记录'>
+<!ENTITY search_pref_title "设置">
+<!ENTITY search_pref_button_content_description "设置">
 
-<!ENTITY pref_searchProvider_title '搜索引擎'>
+<!ENTITY pref_clearHistory_confirmation "历史记录已清除">
+<!ENTITY pref_clearHistory_dialogMessage "删除此设备的所有搜索记录？">
+<!ENTITY pref_clearHistory_title "清除搜索记录">
 
-<!ENTITY search_widget_button_label '搜索'>
+<!ENTITY pref_searchProvider_title "搜索引擎">
 
-<!ENTITY network_error_title '没有互联网连接'>
-<!ENTITY network_error_message '点按这里检查您的网络设置'>
+<!ENTITY search_widget_button_label "搜索">
+
+<!ENTITY network_error_title "没有互联网连接">
+<!ENTITY network_error_message "点按这里检查您的网络设置">

@@ -18,11 +18,11 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "衬线字体：">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "无衬线字体：">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "等宽字体：">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "西方">
 <!ENTITY  font.langGroup.latin2                   "中欧">
@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "果鲁穆奇语">
 <!ENTITY  font.langGroup.khmer                    "高棉语">
 <!ENTITY  font.langGroup.malayalam                "马拉亚拉姆">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "无">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "衬线字体">
 <!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "字体控制">
 <!ENTITY  useFixedWidthForPlainText.label         "用等宽字体显示纯文本信息">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "允许消息使用其他字体">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "发送邮件：">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label            "字符编码">

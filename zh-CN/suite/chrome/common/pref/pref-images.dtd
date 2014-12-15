@@ -5,11 +5,11 @@
 <!ENTITY pref.images.title              "图片">
 
 <!ENTITY imageBlocking.label            "图片接收策略">
-
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
+
 <!ENTITY imageDetails                   "定义 &brandShortName; 处理图片的方式。">
 
 <!ENTITY loadAllImagesRadio.label       "载入所有图像">

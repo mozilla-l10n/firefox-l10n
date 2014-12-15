@@ -21,8 +21,8 @@
 <!ENTITY flagColumn.label "标记">
 <!ENTITY locationColumn.label "地点">
 <!ENTITY idColumn.label "按接收时间排序">
-
 <!--Tooltips-->
+
 <!ENTITY columnChooser2.tooltip "选择要显示的列">
 <!ENTITY threadColumn2.tooltip "显示消息话题">
 <!ENTITY fromColumn2.tooltip "按发件人排序">

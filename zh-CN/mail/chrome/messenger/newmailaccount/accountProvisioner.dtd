@@ -7,18 +7,18 @@
 <!ENTITY other.languages "我们仅显示您所在区域的地址提供商。点击此处即可查看全部提供商。">
 <!ENTITY error.line1 "抱歉，我们无法找到任何推荐的电子邮箱地址。">
 <!ENTITY error.line2 "您可以尝试搜索昵称或者其他词语来找到更多电子邮件">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "您也可以尝试 ">
 <!ENTITY error.suggest.middle "免费电子邮件帐号">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "您好 ">
 <!ENTITY success.title.after "，如下电子邮件地址可用：">
 <!ENTITY success.tip "（您可以尝试搜索昵称或者其他词语来找到更多电子邮件）">

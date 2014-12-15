@@ -12,7 +12,7 @@
 <!ENTITY sidebar.hide.accesskey         "H">
 <!ENTITY sidebar.switch.label           "切换至标签页">
 <!ENTITY sidebar.switch.accesskey       "T">
-<!ENTITY sidebarCmd.label               "侧栏 (b)">
+<!ENTITY sidebarCmd.label               "侧栏 ">
 <!ENTITY sidebarCmd.accesskey           "b">
 <!ENTITY sidebar.loading.label          "载入中…">
 <!ENTITY sidebar.loadstopped.label      "停止载入">
@@ -20,8 +20,8 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "当前侧栏为空。">
-<!ENTITY sidebar.no-panels.add       '点击上方的"标签页"按钮打开新标签。'>
-<!ENTITY sidebar.no-panels.hide      '单击上方“查看”菜单，然后从“显示/隐藏”子菜单选择“侧栏”，即可完全隐藏侧栏。'>
+<!ENTITY sidebar.no-panels.add       "点击上方的&quot;标签页&quot;按钮打开新标签。">
+<!ENTITY sidebar.no-panels.hide      "单击上方“查看”菜单，然后从“显示/隐藏”子菜单选择“侧栏”，即可完全隐藏侧栏。">
 <!ENTITY sidebar.sbDirectory.label   "侧栏目录…">
 
 <!ENTITY sidebar.pagenotfound.label  "此标签当前不可用。">

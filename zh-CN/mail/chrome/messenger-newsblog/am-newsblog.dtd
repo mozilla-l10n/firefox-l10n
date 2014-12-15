@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!ENTITY feedWindowTitle.label "收取点账号向导">
-
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "博客和新闻收取点">
 <!ENTITY feeds.wizardShortName "收取点">
 <!ENTITY feeds.wizardLongName "博客和新闻收取点">

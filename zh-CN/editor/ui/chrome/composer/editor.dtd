@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "编写器"> 
+
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "编写工具栏">
 <!ENTITY previewToolbarCmd.label "浏览">
 <!ENTITY previewToolbarCmd.tooltip "在浏览器中载入此页面">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "导出至文本…">
 <!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "浏览页面">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "发送页面…">
 <!ENTITY sendPageCmd.accesskey "d">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "编写工具栏">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "格式工具栏">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "编辑模式工具栏">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "定位表格">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "页面标题和属性…">
 <!ENTITY pageProperties.accesskey "g">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "验证 HTML">
 <!ENTITY validateCmd.accesskey "V">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "常规">
 <!ENTITY NormalMode.label "常规编辑模式">
 <!ENTITY NormalMode.accesskey "N">

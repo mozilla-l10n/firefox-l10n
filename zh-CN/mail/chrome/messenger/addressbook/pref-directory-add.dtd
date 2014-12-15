@@ -4,13 +4,13 @@
 
 <!ENTITY newDirectoryTitle.label           "目录服务器属性">
 <!ENTITY directoryName.label               "名称：">
-<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "主机名：">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "基准标识名：">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "查找">
-<!ENTITY findButton.accesskey              "f">
+<!ENTITY findButton.accesskey              "F">
 <!ENTITY directorySecure.label             "使用安全连接 (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "使用用户名和密码来登录">
@@ -19,7 +19,7 @@
 <!ENTITY Offline.tab                       "脱机">
 <!ENTITY Advanced.tab                      "高级">
 <!ENTITY portNumber.label                  "端口号：">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "搜索过滤器：">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "范围：">
@@ -38,9 +38,9 @@
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
-
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
 <!ENTITY newDirectoryWidth                 "36em">

@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-proxies.xul -->
-
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+
+
 <!ENTITY  pref.proxies.title            "代理服务器">
 <!ENTITY  pref.proxies.desc             "代理服务器是一种能为你过滤及加速互联网连接的网络服务.">
 <!ENTITY  proxyTitle.label              "配置访问因特网的代理">

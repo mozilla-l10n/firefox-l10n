@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "发布页">
 <!ENTITY windowTitleSettings.label    "发布设置">
 <!ENTITY publishTab.label             "发布">
 <!ENTITY settingsTab.label            "设置">
 <!ENTITY publishButton.label          "发布">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "站点名称:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "请选择您要发布的站点">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "移除站点">
 <!ENTITY removeButton.accesskey       "R">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "发布站点">
 <!ENTITY serverInfo.label             "服务器信息">
 <!ENTITY loginInfo.label              "登录信息">

@@ -12,20 +12,20 @@
 <!ENTITY lightning.toolbar.edit.label "编辑">
 <!ENTITY lightning.toolbar.gototoday.label "转至今天">
 <!ENTITY lightning.toolbar.print.label "打印">
-
 <!-- Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.calendar.label     "日历">
 <!ENTITY lightning.toolbar.calendar.tooltip   "切换到日历选项卡">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "任务">
 <!ENTITY lightning.toolbar.task.tooltip       "切换到任务选项卡">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
-
 <!-- Toolbar write button -->
+
 <!ENTITY lightning.toolbar.newevent.label     "事件">
 <!ENTITY lightning.toolbar.newtask.label      "任务">
-
 <!-- Calendar and Task Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.day.label                 "日">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "周">

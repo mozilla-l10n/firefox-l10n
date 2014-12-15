@@ -18,4 +18,4 @@
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "允许 &searchIntegration.engineName; 搜索邮件">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.accesskey "s">

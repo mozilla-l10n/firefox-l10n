@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Mail Content -->
+
 <!ENTITY captionMailContent.label "邮件内容">
 
 <!ENTITY acceptRemoteContent.label "允许消息中的远程内容">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "例外…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "详细了解有关远程内容的隐私问题">
-
 <!-- Web Content -->
+
 <!ENTITY captionWebContent.label "网络内容">
 
 <!ENTITY keepHistory.label "记住我访问过的网站和链接">
@@ -19,7 +19,7 @@
 <!ENTITY acceptCookies.label "接受站点的 cookie">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "接受第三方 Cookie：">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.pre.accesskey "C">
 <!ENTITY acceptThirdParty.always.label "总是">
 <!ENTITY acceptThirdParty.never.label "总不">
 <!ENTITY acceptThirdParty.visited.label "仅访问过的域">
