@@ -14,7 +14,9 @@
 <!ENTITY appmenu.tooltip                     "Atvērt izvēlni">
 <!ENTITY trackingContentBlocked.unblock2.label "Atslēgt aizsardzību šajā lapā">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
+<!ENTITY searchFor.label              "Meklē ">
+<!ENTITY searchWith.label             " izmantojot:">
+<!ENTITY changeSearchSettings.button  "Mainīt meklēšanas iestatījumus">
 
 <!ENTITY appMenuCustomize.label "Pielāgot">
 <!ENTITY appMenuCustomize.tooltip "Pielāgot izvēlni un rīkjoslas">
