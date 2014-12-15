@@ -150,12 +150,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Deel dié skakel">
 <!ENTITY shareLink.accesskey "D">
-
-
-
-
-
-
+<!ENTITY shareImage.label "Deel dié beeld">
+<!ENTITY shareImage.accesskey "D">
+<!ENTITY shareSelect.label "Deel seleksie">
+<!ENTITY shareSelect.accesskey "D">
+<!ENTITY shareVideo.label "Deel dié video">
+<!ENTITY shareVideo.accesskey "D">
 <!ENTITY feedsMenu.label "Teken in">
 <!ENTITY subscribeToPageMenupopup.label "Teken in op hierdie bladsy">
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -720,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Laai verstek terug">
 <!ENTITY customizeMode.toolbars "Wys / Versteek nutsbalke">
 <!ENTITY customizeMode.titlebar "Titelbalk">
-
+<!ENTITY customizeMode.lwthemes "Temas">
 
 <!ENTITY customizeMode.lwthemes.recommended "Aanbeveel">
 <!ENTITY customizeMode.lwthemes.menuManage "Bestuur">
@@ -749,10 +749,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked2.message "Onveilige inhoud">
 <!ENTITY mixedContentBlocked2.moreinfo "Sommige ongeënkripteerde elemente op dié werf is geblok.">
-
-
-
-
+<!ENTITY mixedContentBlocked2.learnMore "Meer inligting">
+<!ENTITY mixedContentBlocked2.options "Opsies">
+<!ENTITY mixedContentBlocked2.unblock.label "Deaktiveer beskerming tydelik">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 
 
 

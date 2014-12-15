@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Versteksoekenjin">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Kies die versteksoekenjin. &brandShortName; gebruik dit in die adresbalk, soekbalk en op die beginbladsy.">
 
+<!ENTITY provideSearchSuggestions.label        "Verskaf soekvoorstelle">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
 <!ENTITY oneClickSearchEngines.label           "'n Mozilla-vennoot het dié teëltjie visueel verbeter en die skermskoot vervang. Verbeterde teëls kan afgeskakel word deur die &#037;1$S-knop te druk vir voorkeure. &#037;2$S">
