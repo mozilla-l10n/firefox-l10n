@@ -35,10 +35,16 @@
 <!ENTITY showOriginalSources.accesskey  "o">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
+
+<!ENTITY showMediaSidebar.label     "@মিডিয়া(m) সাইডবার দেখান">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
+
+<!ENTITY showMediaSidebar.accesskey     "m">
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
+
+<!ENTITY mediaRules.label           "@মিডিয়া নিয়ম">
 
 <!ENTITY editorTextbox.placeholder  "Type CSS here.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no

@@ -75,15 +75,15 @@
 <!ENTITY projects.appDetails "অ্যাপের বিবরণ">
 <!ENTITY projects.removeAppFromList "আপনি যেসমস্ত অ্যাপস নিয়ে কাজ করছেন তার তালিকা থেকে এই অ্যাপটি সরান। এটা ডিভাইস বা সিমুলেটর থেকে অ্যাপটি মুছে ফেলবে না।">
 <!ENTITY projects.updateApp "আপডেট করুন">
-
+<!ENTITY projects.updateAppTooltip "বৈধতা যাচাইকারন পরীক্ষণ সঞ্চালনা করুন এবং সংযুক্ত ডিভাইসে অ্যাপটি আপডেট করুন">
 <!ENTITY projects.debugApp "ডিবাগ করুন">
-
-<!ENTITY projects.saveManifest "সংরক্ষণ করুন">
-
-
-
-
-
+<!ENTITY projects.debugAppTooltip "এই অ্যাপের সাথে সংযুক্ত ডেভেলপার টুল খুলুন">
+<!ENTITY projects.saveManifest "সংরক্ষণ করা">
+<!ENTITY projects.saveManifestTooltip "মানিফেস্ট এডিটরের বিষয়বস্তু সংরক্ষণ করুন">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "কোন নতুন প্রজেক্ট নেই।একটা নতুন প্যাকেজড্‌ অ্যাপ যোগ করুন নীচে (স্থানীয় তথ্যসম্বলিত পঞ্জি) অথবা একটা হোস্টেড্‌ অ্যাপ(মানিফেস্ট ফাইলের লিংক) ।">
+<!ENTITY projects.manifestEditor "মানিফেস্ট এডিটর">
+<!ENTITY projects.manifestEditorTooltip "অ্যাপের মানিফেস্ট সম্পাদনা করুন নীচের প্যানেলে। আপডেট বোতাম আপনার পরিবর্তনগুলি সংরক্ষণ করবে এবং অ্যাপটাকে আপডেট করবে।">
 
 <!ENTITY projects.manifestViewerTooltip "আপনার অ্যাপের মানিফেস্ট নীচের প্যানেলে পরীক্ষা করুন">
 <!ENTITY projects.valid "মেয়াদ">

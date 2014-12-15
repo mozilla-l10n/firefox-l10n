@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "টাইমলাইন অপারেশনসমূহ রেকর্ড করুন">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
