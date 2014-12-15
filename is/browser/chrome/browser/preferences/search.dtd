@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Leitarsláin leyfir þér að leita beint í öðrum leitarvélum. Veldu hverjar þú vilt birta.">
 
+<!ENTITY engineNameColumn.label                "Leitarvél">
+<!ENTITY engineKeywordColumn.label             "Stikkorð">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Endurheimta sjálfgefnar leitarvélar">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+
+<!ENTITY removeEngine.label                    "Fjarlægja">
+<!ENTITY removeEngine.accesskey                "r">
+
 <!ENTITY addMoreSearchEngines.label            "Bæta við fleiri leitarvélum…">
