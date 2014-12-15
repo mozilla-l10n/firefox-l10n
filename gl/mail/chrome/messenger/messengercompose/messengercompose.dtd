@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Tarxeta persoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
-
-
+<!ENTITY remindLater.label "Lembrarmo máis tarde">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Pechar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "P">
@@ -52,8 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "m">
 <!ENTITY printSetupCmd.label "Configuración da páxina…">
 <!ENTITY printSetupCmd.accesskey "C">
-
-
+<!ENTITY printPreviewCmd.label "Previsualizar">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
@@ -88,12 +88,12 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
-
-
-
-
-
-
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituír…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar de novo">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Axenda de enderezos">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "e">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Configuración da conta">
+<!ENTITY accountManagerCmd2.accesskey "g">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opcións">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "f">
 
@@ -204,7 +204,7 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Gardar">
-
+<!ENTITY printButton.label "Imprimir">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensaxe agora">
@@ -217,7 +217,7 @@
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Pegar">
-
+<!ENTITY printButton.tooltip "Imprimir esta mensaxe">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

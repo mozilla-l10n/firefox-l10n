@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedades">
 
 <!ENTITY generalInfo.label                       "Información xeral">
-
-
-
-
+<!ENTITY folderCharsetFallback.label             "Codificación de caracteres alternativa:">
+<!ENTITY folderCharsetFallback.accesskey         "e">
+<!ENTITY folderCharsetEnforce.label              "Aplicar a codificación a todas as mensaxes do cartafol (ignóranse as preferencias de codificación de caracteres de mensaxes individuais, así como a detección automática)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruír índice do ficheiro resumo">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar o cartafol">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -36,7 +36,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronización">
-<!ENTITY folderCheckForNewMessages2.label         "Ao obter novas mensaxes parar esta conta, comprobar sempre este cartafol">
+<!ENTITY folderCheckForNewMessages2.label         "Cando obteña novas mensaxes parar esta conta, comprobar sempre este cartafol">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Seleccionar este cartafol para utilizar sen conexión">

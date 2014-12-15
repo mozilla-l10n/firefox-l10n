@@ -6,12 +6,12 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-
-
-
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "Buscar actualizacións">
+<!ENTITY update.checkForUpdatesButton.accesskey   "c">
+<!ENTITY update.updateButton.label2               "Reinicie &brandShortName; para actualizalo">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Aplicar actualización…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 <!ENTITY community.start2           "&brandShortName; está deseñado por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -65,8 +65,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-
-
+<!ENTITY update.unsupported.start    "Non é posíbel efectuar máis actualizacións neste sistema.">
+<!ENTITY update.unsupported.linkText "Máis información">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

@@ -15,7 +15,7 @@
 <!ENTITY manageSubscriptions.label "Xestionar subscricións…"> 
 <!ENTITY manageSubscriptions.accesskey "X">
 
-
+<!ENTITY feedWindowTitle.label "Asistente de conta de fontes">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs e fontes de novas">

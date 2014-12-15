@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dockOptionsDialog.title               "Opcións da icona do aplicativo">
+<!ENTITY window.macWidth                       "42em">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY bounceSystemDockIcon.label            "Animar a icona do aplicativo cando chegue unha nova mensaxe">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "O número de novas mensaxes">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "O número de mensaxes non lidas">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "m">
+<!ENTITY dockIconBadge.label                   "Insignia da icona do aplicativo">
+<!ENTITY dockIconShow.label                    "Amosar na icona do aplicativo:">

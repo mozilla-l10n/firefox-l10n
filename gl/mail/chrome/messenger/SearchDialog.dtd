@@ -17,8 +17,8 @@
 <!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
 <!ENTITY results.label               "Resultados">
-
-
+<!ENTITY moveButton.label            "Mover a">
+<!ENTITY moveButton.accesskey        "M">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Abrir en cartafol">
 <!ENTITY openInFolder.accesskey      "c">
@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Escribir">
 <!ENTITY composeButton.accesskey     "E">
-
-
+<!ENTITY deleteCardButton.label      "Eliminar">
+<!ENTITY deleteCardButton.accesskey  "E">
 <!ENTITY abSearchDialogTitle.label   "Busca avanzada na axenda de enderezos">
 
 <!-- Thread Pane -->
@@ -57,22 +57,22 @@
 <!ENTITY idColumn.label "Aviso de recepción">
 
 <!-- Thread Pane Tooltips -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Seleccione as columnas a amosar">
+<!ENTITY threadColumn2.tooltip "Amosar as mensaxes agrupadas por fíos">
+<!ENTITY fromColumn2.tooltip "Ordenar polo remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar polo destinatario">
+<!ENTITY subjectColumn2.tooltip "Ordenar polo asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar pola data">
+<!ENTITY priorityColumn2.tooltip "Ordenar pola prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar polas etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar pola conta">
+<!ENTITY statusColumn2.tooltip "Ordenar polo estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar polo tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar polo estado de correo lixo">
+<!ENTITY unreadColumn2.tooltip "Número de mensaxes non lidas no fío">
+<!ENTITY totalColumn2.tooltip "Número total de mensaxes no fío">
+<!ENTITY readColumn2.tooltip "Ordenar polo estado de lectura">
+<!ENTITY receivedColumn2.tooltip "Ordenar pola data de recepción">
+<!ENTITY starredColumn2.tooltip "Ordenar polas estrelas">
+<!ENTITY locationColumn2.tooltip "Ordenar pola localización">
+<!ENTITY idColumn2.tooltip "Ordenar pola orde de recepción">

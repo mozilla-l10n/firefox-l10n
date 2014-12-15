@@ -16,8 +16,8 @@
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Máis grande">
 <!ENTITY smaller.label                    "Menor">
-
-
+<!ENTITY quotedTextColor.label            "Cor:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Mensaxe de texto sen formato">
 <!ENTITY displayText.label                "Cando se amose texto sen formato entre comiñas:">
 
@@ -35,12 +35,12 @@
 <!ENTITY removeTagButton.accesskey "o">
 
 <!-- Fonts and Colors -->
-
-<!ENTITY defaultFont.label       "Tipo de letra predefinido:">
-<!ENTITY defaultFont.accesskey   "l">
+<!ENTITY fontsAndColors1.label   "Tipos de letra e cores">
+<!ENTITY defaultFont.label       "Tipo de letra predeterminado:">
+<!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Tamaño:">
 <!ENTITY defaultSize.accesskey   "T">
-<!ENTITY fontOptions.accesskey   "r">
+<!ENTITY fontOptions.accesskey   "a">
 <!ENTITY fontOptions.label       "Tipos de letra…">
-
-
+<!ENTITY colorButton.label       "Cores…">
+<!ENTITY colorButton.accesskey   "C">

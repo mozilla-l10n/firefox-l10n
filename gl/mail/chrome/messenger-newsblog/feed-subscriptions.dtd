@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Subscricións a fontes">
-
+<!ENTITY learnMore.label             "Obteña máis información sobre as fontes">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -21,11 +21,11 @@
 <!ENTITY quickMode.label             "Amosar o resumo do artigo en vez de cargar a páxina web">
 <!ENTITY quickMode.accesskey         "g">
 
-
-
-
-
-
+<!ENTITY autotagEnable.label         "Crea automaticamente etiquetas a partir do nome das &lt;categorías&gt; das fontes names">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Pórlle as etiquetas o prefixo:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Escriba un prefixo de etiqueta">
 
 <!ENTITY button.addFeed.label        "Engadir">
 <!ENTITY button.addFeed.accesskey    "a">
@@ -40,4 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exportar as fontes coa estrutura do cartafol; Ctrl clic ou Ctrl Intro para exportar as fontes como unha lista">
 
 <!ENTITY cmd.close.commandKey        "w">
-
+<!ENTITY button.close.label          "Pechar">
