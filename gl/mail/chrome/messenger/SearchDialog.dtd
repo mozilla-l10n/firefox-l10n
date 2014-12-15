@@ -17,10 +17,8 @@
 <!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
 <!ENTITY results.label               "Resultados">
-<!ENTITY fileHereMenu.label          "Gardar aquí">
-<!ENTITY fileHereMenu.accesskey      "r">
-<!ENTITY fileButton.label            "Ficheiro">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveButton.label            "Mover a">
+<!ENTITY moveButton.accesskey        "M">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Abrir en cartafol">
 <!ENTITY openInFolder.accesskey      "c">
@@ -34,6 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Escribir">
 <!ENTITY composeButton.accesskey     "E">
+<!ENTITY deleteCardButton.label      "Eliminar">
+<!ENTITY deleteCardButton.accesskey  "E">
 <!ENTITY abSearchDialogTitle.label   "Busca avanzada na axenda de enderezos">
 
 <!-- Thread Pane -->
@@ -57,22 +57,22 @@
 <!ENTITY idColumn.label "Aviso de recepción">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Prema para seleccionar as columnas a mostrar">
-<!ENTITY threadColumn.tooltip "Prema para mostrar as mensaxes agrupadas por fíos"> 
-<!ENTITY fromColumn.tooltip "Premer para ordenar por De">
-<!ENTITY recipientColumn.tooltip "Prema para ordenar por destinatario">
-<!ENTITY subjectColumn.tooltip "Prema para ordenar por asunto">
-<!ENTITY dateColumn.tooltip "Prema para ordenar por data">
-<!ENTITY priorityColumn.tooltip "Prema para ordenar por prioridade">
-<!ENTITY tagsColumn.tooltip "Prema para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Prema para ordenar por conta">
-<!ENTITY statusColumn.tooltip "Prema para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Prema para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Prema para ordenar por estado de correo lixo">
-<!ENTITY unreadColumn.tooltip "Número de mensaxes non lidas no fío">
-<!ENTITY totalColumn.tooltip "Número total de mensaxes no fío">
-<!ENTITY readColumn.tooltip "Prema para ordenar as mensaxes por lidas">
-<!ENTITY receivedColumn.tooltip "Prema para ordenar por data de recepción">
-<!ENTITY starredColumn.tooltip "Prema para ordenar por estrelas">
-<!ENTITY locationColumn.tooltip "Prema para ordenar por enderezo">
-<!ENTITY idColumn.tooltip "Prema para ordenar por aviso de recepción">
+<!ENTITY columnChooser2.tooltip "Seleccione as columnas a amosar">
+<!ENTITY threadColumn2.tooltip "Amosar as mensaxes agrupadas por fíos">
+<!ENTITY fromColumn2.tooltip "Ordenar polo remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar polo destinatario">
+<!ENTITY subjectColumn2.tooltip "Ordenar polo asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar pola data">
+<!ENTITY priorityColumn2.tooltip "Ordenar pola prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar polas etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar pola conta">
+<!ENTITY statusColumn2.tooltip "Ordenar polo estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar polo tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar polo estado de correo lixo">
+<!ENTITY unreadColumn2.tooltip "Número de mensaxes non lidas no fío">
+<!ENTITY totalColumn2.tooltip "Número total de mensaxes no fío">
+<!ENTITY readColumn2.tooltip "Ordenar polo estado de lectura">
+<!ENTITY receivedColumn2.tooltip "Ordenar pola data de recepción">
+<!ENTITY starredColumn2.tooltip "Ordenar polas estrelas">
+<!ENTITY locationColumn2.tooltip "Ordenar pola localización">
+<!ENTITY idColumn2.tooltip "Ordenar pola orde de recepción">

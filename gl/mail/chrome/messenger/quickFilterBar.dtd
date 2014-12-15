@@ -23,6 +23,13 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
          "B">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Barra de filtro rápido">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -40,13 +47,6 @@
 <!ENTITY quickFilterBar.sticky.tooltip
          "Conservar os filtros aplicados ao cambiar os cartafoles">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-<!ENTITY quickFilterBar.barLabel.label
-         "Filtro rápido:">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -59,7 +59,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Mostrar só as mensaxes non lidas">
+         "Amosar só as mensaxes non lidas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -73,7 +73,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Mostrar só as mensaxes con estrela">
+         "Amosar só as mensaxes con estrela">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -180,6 +180,31 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Modo de filtrado de etiquetas">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Calquera de">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Polo menos unha das etiquetas seleccionadas debería coincidir">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Todas de">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Todas as etiquetas seleccionadas deben coincidir">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.

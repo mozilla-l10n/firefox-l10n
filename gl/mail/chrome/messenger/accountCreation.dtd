@@ -6,7 +6,7 @@
 <!ENTITY name.label                      "O seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nome e apelidos">
-<!ENTITY name.text                       "O seu nome, como se mostrará aos demais">
+<!ENTITY name.text                       "O seu nome, como se amosará aos demais">
 <!ENTITY email.label                     "Enderezo de correo:">
 <!ENTITY email.accesskey                 "E">
 <!ENTITY email.placeholder               "correoe@exemplo.es">
