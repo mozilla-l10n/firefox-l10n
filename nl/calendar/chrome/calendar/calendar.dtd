@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
-<!ENTITY calendar.unifinder.tree.done.label                "Klaar">
+<!ENTITY calendar.unifinder.tree.done.label                "Gereed">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Sorteren op voltooiing">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioriteit">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sorteren op prioriteit">
@@ -307,7 +307,7 @@
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label                   "Formaat:">
+<!ENTITY calendarproperties.format.label                   "Indeling:">
 <!ENTITY calendarproperties.location.label                 "Locatie:">
 <!ENTITY calendarproperties.refreshInterval.label          "Agenda verversen:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Handmatig">

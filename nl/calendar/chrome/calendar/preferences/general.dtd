@@ -8,8 +8,8 @@
   -->
 
 <!ENTITY pref.mainbox.label "Algemene instellingen" >
-<!ENTITY pref.dateformat.label "Datumtekstformaat:" >
-<!ENTITY pref.dateformat.accesskey "f">
+<!ENTITY pref.dateformat.label "Datumtekstnotatie:" >
+<!ENTITY pref.dateformat.accesskey "n">
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
 

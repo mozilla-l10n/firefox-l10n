@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Kleur">
 <!ENTITY pref.categories.usecolor.label "Kleur gebruiken">
 <!ENTITY pref.categories.none.label "(geen)">
-<!ENTITY pref.categories.overwrite "Er bestaat reeds een categorie met deze naam. \n Wilt u deze overschrijven?">
+<!ENTITY pref.categories.overwrite "Er bestaat al een categorie met deze naam. \n Wilt u deze overschrijven?">
 <!ENTITY pref.categories.overwrite.title "Waarschuwing: dubbele naam">
 <!ENTITY pref.categories.noBlankCategories "U moet een categorienaam invoeren.">
