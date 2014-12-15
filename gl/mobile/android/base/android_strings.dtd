@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, excluíndo as de terceiros">
 <!ENTITY pref_cookies_disabled "Desactivadas">
 
+<!ENTITY pref_tracking_protection_title "Protección contra o seguimento">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; impedirá que os sitios o sigan">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicaralle aos sitios que non quere ser seguido">
 
