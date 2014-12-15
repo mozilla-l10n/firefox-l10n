@@ -19,5 +19,5 @@
 <!ENTITY            profileManagerText.label "&brandShortName; 将您配置文件中的设置、首选项、书签、已保存消息以及其他用户项等信息保存至您的用户配置文件中。">
 
 <!ENTITY            autoSelect.label         "默认使用此配置文件">
-<!ENTITY            autoSelect.accesskey     "S">
+<!ENTITY            autoSelect.accesskey     "s">
 

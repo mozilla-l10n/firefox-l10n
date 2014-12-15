@@ -15,9 +15,9 @@
 <!ENTITY  restricted.label    "受限的站点">
 
 <!ENTITY  addSite.label       "添加站点…">
-<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  addSite.accesskey   "A">
 <!ENTITY  settings.label      "设置 ">
 <!ENTITY  settings.accesskey  "s">
 
 <!ENTITY  description.label   "策略描述:">
- 
+

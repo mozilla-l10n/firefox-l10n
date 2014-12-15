@@ -10,9 +10,9 @@
 <!ENTITY chooseFileLinkButton.label "选择文件…">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL和页面地址相关">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "转换相对和绝对 URL。您必须先保存本页才能更改。">
-
 <!-- Shared by Link and Image dialogs -->
+
 <!ENTITY LinkURLEditField.label "请输入一个网页地址、本地文件、或者从弹出列表中选择一个锚标或头">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "w">

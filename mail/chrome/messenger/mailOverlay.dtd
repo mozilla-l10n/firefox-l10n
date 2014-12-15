@@ -5,7 +5,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "消息">
-<!ENTITY  newMessageCmd.accesskey         "m">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
 <!ENTITY  newContactCmd.label             "通讯录联系人…">
 <!ENTITY  newContactCmd.accesskey         "C">

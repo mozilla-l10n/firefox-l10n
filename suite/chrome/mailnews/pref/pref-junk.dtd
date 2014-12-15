@@ -5,8 +5,8 @@
 <!ENTITY pref.junk.title "垃圾 &amp; 可疑邮件">
 <!ENTITY junkSettings.caption "全球垃圾邮件设置">
 <!ENTITY junkMail.intro "到账户设置中配置账户具体垃圾邮件设置。">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY manualMark.label               "当我将消息标记为垃圾邮件时：">
 <!ENTITY manualMark.accesskey           "W">
 <!ENTITY manualMarkModeMove.label       "将它们移动至帐户的 &quot;垃圾&quot; 文件夹">
@@ -28,13 +28,13 @@
 <!ENTITY resetTrainingData.accesskey    "R">
 
 <!ENTITY pref.suspectMail.caption       "嫌疑邮件">
-
 <!-- Phishing Detector -->
+
 <!ENTITY pref.phishing.caption            "电子邮件欺诈">
 <!ENTITY enablePhishingDetector.label     "告诉我正在阅读的消息是否是欺诈邮件">
 <!ENTITY enablePhishingDetector.accesskey "T">
-
 <!-- Anti Virus -->
+
 <!ENTITY pref.antivirus.caption           "防病毒">
 <!ENTITY antiVirus.label                  "允许防病毒软件更容易地扫描接收到的消息">
 <!ENTITY antiVirus.accesskey              "A">

@@ -49,9 +49,9 @@
 <!ENTITY col.endtime.label               "结束时间">
 <!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "结束时间">
-<!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
-<!ENTITY col.progresstext.tooltip        "进程 (&#37;)">
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
+<!ENTITY col.progresstext.tooltip        "进程 (&#037;)">
 <!ENTITY col.source.label                "源代码">
 <!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "源代码">
@@ -78,8 +78,7 @@
 <!ENTITY cmd.cancel.accesskey            "C">
 <!ENTITY cmd.remove.label                "从列表中移除">
 <!ENTITY cmd.remove.accesskey            "e">
-<!ENTITY cmd.open.label                  "打开
-">
+<!ENTITY cmd.open.label                  "打开">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.show.label                  "打开所在文件夹">
 <!ENTITY cmd.show.accesskey              "F">

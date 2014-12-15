@@ -34,8 +34,8 @@
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "降序">
 <!ENTITY sortDescending.accesskey              "D">
-
 <!-- context menu -->
+
 <!ENTITY composeEmail.label                    "编写邮件给">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "复制邮件地址">

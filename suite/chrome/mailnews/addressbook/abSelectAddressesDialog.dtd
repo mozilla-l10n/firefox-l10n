@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "选择地址">
 
+<!ENTITY selectAddressWindow.title           "选择地址">
 <!-- Buttons -->
+
 <!ENTITY toButton.label                      "到->"> 
 <!ENTITY toButton.accesskey                  "T"> 
 <!ENTITY ccButton.label                      "抄送->"> 
@@ -24,8 +24,8 @@
 <!ENTITY for.accesskey                       "f"> 
 <!ENTITY for.placeholder                     "名称或者电子邮件">
 <!ENTITY addressMessageTo.label              "地址信息:"> 
-
 <!-- Tooltips items -->  
+
 <!ENTITY addressPickerNewButton.tooltip      "创建新的通讯录名片"> 
 <!ENTITY addressPickerEditButton.tooltip     "编辑选择的名片"> 
 

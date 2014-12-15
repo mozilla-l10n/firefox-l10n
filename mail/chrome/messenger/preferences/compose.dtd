@@ -30,7 +30,7 @@
 <!ENTITY spellCheckInline.label               "启用即时拼写检查">
 <!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "语言：">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "下载更多字典">
 
 <!ENTITY warnOnSendAccelKey.label             "当使用键盘快捷键发送消息时需确认">

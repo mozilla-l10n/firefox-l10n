@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "帐户设置">
 <!ENTITY accountName.label "帐户名称：">
@@ -23,7 +23,7 @@
 <!ENTITY signatureHtml.label "使用 HTML (例如, &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "附加一个文件（文本、HTML或图片）作为签名：">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "编辑…">
 <!ENTITY choose.label "选择…">
 <!ENTITY choose.accesskey "C">
@@ -35,8 +35,8 @@
 
 <!ENTITY manageIdentities.label "管理标识…">
 <!ENTITY manageIdentities.accesskey "M">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "发送服务器 (SMTP)：">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">

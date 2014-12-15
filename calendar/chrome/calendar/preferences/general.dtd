@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.mainbox.label "常规设置" >
 <!ENTITY pref.dateformat.label "日期格式：" >
@@ -18,7 +18,7 @@
 <!ENTITY pref.tasks.label "任务">
 
 <!ENTITY pref.default_event_length.label "默认长度：" >
-<!ENTITY pref.default_event_length.accesskey "E">
+<!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "无">
 <!ENTITY pref.default_task_start_of_day.label "开始日期">

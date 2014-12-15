@@ -13,7 +13,7 @@
 <!ENTITY tableColumns.label               "列：">
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "高度:">
-<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableHeight.accessKey            "g">
 <!ENTITY tableWidth.label                 "宽度：">
 <!ENTITY tableWidth.accessKey             "W">
 <!ENTITY tableBorderSpacing.label         "边界和间隔">
@@ -28,7 +28,7 @@
 <!ENTITY tableAlignment.label             "表格对齐:">
 <!ENTITY tableAlignment.accessKey         "T">
 <!ENTITY tableCaption.label               "标题：">
-<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaption.accessKey           "n">
 <!ENTITY tableCaptionAbove.label          "表格上方">
 <!ENTITY tableCaptionBelow.label          "表格之后">
 <!ENTITY tableCaptionLeft.label           "表格左侧">
@@ -47,7 +47,7 @@
 <!ENTITY applyBeforeChange.label          "当前变更将在更改选择项之前应用">
 <!ENTITY cellContentAlignment.label       "内容对齐">
 <!ENTITY cellHorizontal.label             "水平：">
-<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellHorizontal.accessKey         "z">
 <!ENTITY cellVertical.label               "垂直：">
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "单元格样式：">
@@ -64,11 +64,10 @@
 <!ENTITY cellAlignJustify.label           "调整">
 <!ENTITY cellInheritColor.label           "（允许表格颜色透过）">
 <!ENTITY cellUseCheckboxHelp.label        "使用检查框决定哪个特性将应用于所选择的单元">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "大小">
-<!ENTITY pixels.label                     "像素
-">
+<!ENTITY pixels.label                     "像素">
 <!ENTITY backgroundColor.label            "背景颜色：">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "左对齐">

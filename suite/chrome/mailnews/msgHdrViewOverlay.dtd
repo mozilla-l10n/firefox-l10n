@@ -10,7 +10,7 @@
 
 <!ENTITY subjectField.label "主题: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "抄送: ">
+<!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "密送: ">
 <!ENTITY newsgroupsField.label "新闻组: ">
 <!ENTITY followupToField.label "跟帖发送至：">
@@ -28,8 +28,7 @@
 
 <!ENTITY attachmentsTree.label             "附件：">
 <!ENTITY attachmentsTree.accesskey         "c">
-<!ENTITY openAttachmentCmd.label           "打开
-">
+<!ENTITY openAttachmentCmd.label           "打开">
 <!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "查看源代码">
 <!ENTITY viewAttachmentCmd.accesskey       "V">

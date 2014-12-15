@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-fonts.xul -->
-
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+
+
 <!ENTITY  pref.fonts.title                        "字体">
 
 <!ENTITY  language.label                          "针对 (t)：">
@@ -17,16 +17,16 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "衬线字体：">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "无衬线字体：">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "等宽字体：">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "梦幻： ">
-<!ENTITY  fantasy.accesskey                       "f">
+<!ENTITY  fantasy.accesskey                       "F">
 <!ENTITY  cursive.label                           "手写体：">
-<!ENTITY  cursive.accesskey                       "c">
+<!ENTITY  cursive.accesskey                       "C">
 
 <!ENTITY  font.langGroup.latin1                   "西欧">
 <!ENTITY  font.langGroup.latin2                   "中欧">
@@ -59,15 +59,15 @@
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "无">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "衬线字体">
 <!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
 
 <!ENTITY  useDocumentFonts.label                  "允许文档使用其他字体">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-
 <!-- leaving this stuff in for now -->
+
 
 <!ENTITY  header2                                 "当网页自定义字体时">
 <!ENTITY  useDefaultFont.label                    "使用默认字体，忽略网页字体设置">

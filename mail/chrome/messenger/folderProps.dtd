@@ -27,7 +27,7 @@
 <!ENTITY retentionDeleteMsg.label "删除超过">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "不要删除任何消息">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "除最近使用的全部删除">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
+
 
 <!ENTITY historyWindowTitle.label       "历史记录">
 <!ENTITY menuBar.tooltip                "菜单栏">
@@ -35,8 +35,7 @@
 <!ENTITY view.groupDayAndSite.label     "日期和站点">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
-<!ENTITY cmd.open.label                 "打开
-">
+<!ENTITY cmd.open.label                 "打开">
 <!ENTITY cmd.open.accesskey             "O">
 <!ENTITY cmd.open_window.label          "在新窗口中打开">
 <!ENTITY cmd.open_window.accesskey      "W">

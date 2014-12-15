@@ -13,8 +13,8 @@
 <!ENTITY sendBoth.label               "以文本和HTML格式发送邮件（比较大的信件）">
 <!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "在写信件时，您可以点击选项菜单为单独的信件重新设置。">
-
 <!-- Html and Plain Text Domains  -->
+
 <!ENTITY domain.title                 "超文本域和普通文本域">
 <!ENTITY domaindesc.label             "如果您向属于下面列举的域名的地址发送信件，Mail会自动以首选格式（格式化文本或者普通文本）来发送信件。">
 <!ENTITY HTMLdomaintitle.label        "HTML 域">
@@ -27,8 +27,8 @@
 <!ENTITY DeleteButton.label           "删除">
 <!ENTITY DeleteHtmlDomain.accesskey   "e">
 <!ENTITY DeletePlainText.accesskey    "t">
-
 <!-- Add Domain Name -->
+
 <!ENTITY add.htmltitle                "添加 HTML 域名">
 <!ENTITY add.htmldomain               "HTML 域名：">
 <!ENTITY add.plaintexttitle           "添加纯文本域名：">

@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label  "证书">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "提交性能数据">
 <!ENTITY submitTelemetry.accesskey     "P">
@@ -35,8 +35,8 @@
 <!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
 <!ENTITY showReturnReceipts.label      "回执…">
 <!ENTITY showReturnReceipts.accesskey  "R">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "阅读">
 <!ENTITY display.caption               "显示">
 <!ENTITY showCondensedAddresses.label  "仅显示我通讯录中联系人的显示名。">
@@ -61,8 +61,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "移动或删除后关闭消息窗口/标签">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-
 <!-- Update -->
+
 <!ENTITY updateApp.label                 "&brandShortName; 更新：">
 <!ENTITY updateAuto.label                "自动安装更新（推荐：可提升安全性）">
 <!ENTITY updateAuto.accesskey            "A">
@@ -77,8 +77,8 @@
 
 <!ENTITY useService.label                "使用后台服务来安装更新">
 <!ENTITY useService.accesskey            "b">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "设置…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "配置 &brandShortName; 如何连接至国际互联网">
@@ -92,20 +92,20 @@
 <!ENTITY offlineCompactFolders.label     "需要节省空间时压缩全部文件夹">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB 合计">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "最多使用">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB 磁盘空间作为缓存">
 <!ENTITY clearCacheNow.label             "立即清空">
 <!ENTITY clearCacheNow.accesskey         "C">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "当某个服务器索取我的个人证书时：">
 <!ENTITY certs.auto                      "自动选择">
 <!ENTITY certs.auto.accesskey            "S">

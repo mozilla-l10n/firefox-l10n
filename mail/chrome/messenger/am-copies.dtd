@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "副本和文件夹设置">
 <!ENTITY sendingPrefix.label "当发送消息时，自动：">
 <!ENTITY fccMailFolder.label "保留副本到：">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "将回复的邮件放入被回复邮件同一文件夹中">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc 这些邮件地址：">
 <!ENTITY ccAddress.accesskey "C">

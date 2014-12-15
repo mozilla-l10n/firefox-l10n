@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "编写 &amp; 地址簿">
 <!ENTITY addressingGroupTitle.label "地址查找">
@@ -14,10 +14,10 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "使用其他 LDAP 服务器：">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "无">
-
 <!-- am-addressing.xul -->
+
 
 <!ENTITY compositionGroupTitle.label          "编写">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

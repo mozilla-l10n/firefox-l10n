@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY askViewZoom.title "缩放">
-<!ENTITY selectZoom.label "选择缩放比例(&#37;):">
+<!ENTITY selectZoom.label "选择缩放比例(&#037;):">

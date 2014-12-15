@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-scripts.xul -->
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+
+
 <!ENTITY pref.scripts.title              "脚本和插件">
 
 <!ENTITY navigator.label                 "浏览器">
 <!ENTITY navigator.accesskey             "B">
-
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+
 <!ENTITY enableJavaScript.label          "启用JavaScript">
 <!ENTITY allowScripts.label              "脚本程序:">
 <!ENTITY allowScripts.accesskey          "s">

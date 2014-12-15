@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File Menu -->
+
 <!ENTITY tabCmd.label "浏览器标签页 (T)">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "页面设置…">
 <!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "在当前页查找…">
 
+<!ENTITY findOnCmd.label "在当前页查找…">
 <!-- View Menu -->
+
 <!ENTITY toolbarsCmd.label "显示/隐藏">
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY tabbarCmd.label "标签页栏 (T)">
@@ -52,8 +52,8 @@
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "转到">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "主页">
@@ -71,8 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "来自其他计算机的标签页">
 <!ENTITY syncTabsMenu.accesskey "O">
-
 <!-- Bookmarks Menu -->
+
 <!ENTITY bookmarksMenu.label "书签">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY addCurPageCmd.label "将此页面加为书签">
@@ -85,9 +85,9 @@
 <!ENTITY manBookmarksCmd.label "管理书签">
 <!ENTITY manBookmarksCmd.accesskey "M">
 <!ENTITY manBookmarksCmd.commandkey "b">
-
 <!-- Tools Menu -->
-<!ENTITY searchInternetCmd.label "搜索互联网 (b)">
+
+<!ENTITY searchInternetCmd.label "搜索互联网 ">
 <!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "翻译页面">

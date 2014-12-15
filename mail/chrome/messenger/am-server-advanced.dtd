@@ -26,8 +26,8 @@
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "从此服务器下载 pop 邮件时，使用下列文件夹保存新邮件：" >
 <!ENTITY accountDirectory.label "此服务器帐户的收件箱">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "不同帐户的收件箱">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "收取新邮件时包括此服务器">
 <!ENTITY deferGetNewMail.accesskey "I">

@@ -25,18 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "将处理" >
 <!ENTITY newevent.status.inprogress.label         "处理中" >
 <!ENTITY newevent.status.completed.label          "已完成" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; 完成">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; 完成">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+
 <!ENTITY event.attendees.notify.label               "通知参加者">
 <!ENTITY event.attendees.notifyundisclosed.label    "保持不在邀请函中披露与会者">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "这个选项为每个参加者发送一封邀请信。每封邀请信只包含收件方而不会暴露其他参加者。">
-
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -50,8 +50,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "新建">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "事件">
@@ -138,8 +138,8 @@
 <!ENTITY event.email.attendees.accesskey                  "A">
 <!ENTITY event.email.tentative.attendees.label            "编写邮件给待定的参与者…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "保存并关闭">
 <!ENTITY  event.toolbar.delete.label                      "删除">
 <!ENTITY  event.toolbar.attendees.label                   "邀请参与者">
@@ -153,10 +153,10 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "更改优先级">
 <!ENTITY  event.toolbar.status.tooltip                    "更改状态">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "更改忙/闲时间">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "标题：" >
-<!ENTITY event.title.textbox.accesskey                    "I">
+<!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "位置：" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "分类：">
@@ -220,8 +220,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "标记时间为：">
 <!ENTITY event.statusbarpanel.privacy.label               "隐私政策：">
-
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "编辑重复事件">
 
 <!ENTITY event.repeat.does.not.repeat.label             "不重复">
@@ -270,7 +270,6 @@
 <!ENTITY event.recurrence.every.label                        "每：" >
 <!ENTITY repeat.units.years.both                             "年" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "每" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -278,6 +277,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "一月" >
@@ -326,8 +326,8 @@
 <!ENTITY event.recurrence.appointments.label            "指派" >
 <!ENTITY event.repeat.until.label                       "重复直到" >
 <!ENTITY event.recurrence.preview.label                 "预览">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "邀请参与者">
 <!ENTITY event.organizer.label                  "组织者">
 <!ENTITY event.freebusy.suggest.slot            "建议时间间距：">
@@ -347,12 +347,12 @@
 <!ENTITY event.attendee.usertype.group          "群组">
 <!ENTITY event.attendee.usertype.resource       "资源">
 <!ENTITY event.attendee.usertype.room           "房间">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "请指定时区">
 <!ENTITY event.timezone.custom.label     "更多时区…">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "常规">
 <!ENTITY read.only.title.label           "标题：">
 <!ENTITY read.only.event.start.label     "开始日期：">

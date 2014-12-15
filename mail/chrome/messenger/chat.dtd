@@ -21,7 +21,7 @@
 <!ENTITY chat.ongoingConversation      "正在进行的对话">
 
 <!ENTITY openConversationCmd.label     "开始一个对话">
-<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY openConversationCmd.accesskey "C">
 <!ENTITY closeConversationCmd.label    "关闭对话">
 <!ENTITY closeConversationCmd.accesskey "C">
 <!ENTITY aliasCmd.label                "重命名">

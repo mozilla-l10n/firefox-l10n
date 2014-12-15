@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "编写：（无标题）">
 
+<!ENTITY msgComposeWindow.title "编写：（无标题）">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label "文件">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "新建">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "新建消息">
@@ -32,10 +32,10 @@
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "关闭">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY saveCmd.label "保存">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "另存为">
 <!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "文件…">
@@ -57,37 +57,37 @@
 <!ENTITY printCmd.label "打印…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label "编辑">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "撤销">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "重做">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "剪切">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "复制">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "粘贴">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "删除">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY editRewrapCmd.label "重新排版">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY editRewrapCmd.label "重新换行">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "重命名附件…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findBarCmd.label "查找…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -102,10 +102,10 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label "查看">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "工具栏">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY menubarCmd.label "菜单栏">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "联系人侧栏">
 <!ENTITY addressSidebar.accesskey "o">
-
 <!-- Format Menu -->
+
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
-
 <!-- Options Menu -->
+
 <!ENTITY optionsMenu.label "选项">
 <!ENTITY optionsMenu.accesskey "p">
 <!ENTITY checkSpellingCmd2.label "检查拼写…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "引用原始消息">
 <!ENTITY quoteCmd.accesskey "Q">
-
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
 <!ENTITY attachVCard.label "附加个人名片（vCard）">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -149,18 +149,18 @@
 <!ENTITY deliveryFormatMenu.label "发送格式">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "自动检测">
-<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "仅纯文本">
-<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY plainTextFormatCmd.accesskey "P">
 <!ENTITY htmlFormatCmd.label "仅复杂文本 (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "R">
 <!ENTITY bothFormatCmd.label "简单或复杂 (HTML) 文本">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "优先级">
-<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "优先级：">
 <!ENTITY lowestPriorityCmd.label "最低">
-<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowestPriorityCmd.accesskey "L">
 <!ENTITY lowPriorityCmd.label "低">
 <!ENTITY lowPriorityCmd.accesskey "o">
 <!ENTITY normalPriorityCmd.label "正常">
@@ -172,15 +172,15 @@
 <!ENTITY fileCarbonCopyCmd.label "复制至">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "移动至此处">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "邮件和新闻组">
+<!ENTITY messengerCmd.label "邮件与新闻组">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通讯录">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "账户设置">
 <!ENTITY accountManagerCmd2.accesskey "S">
@@ -189,15 +189,15 @@
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "首选项">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "最小化">
 <!ENTITY bringAllToFront.label "全部置前">
 <!ENTITY zoomWindow.label "缩放">
 <!ENTITY windowMenu.label "窗口">
-
 <!-- Mail Toolbar -->
+
 <!ENTITY sendButton.label "发送">
 <!ENTITY quoteButton.label "引用">
 <!ENTITY addressButton.label "地址">
@@ -205,8 +205,8 @@
 <!ENTITY spellingButton.label "拼写">
 <!ENTITY saveButton.label "保存">
 <!ENTITY printButton.label "打印">
-
 <!-- Mail Toolbar Tooltips -->
+
 <!ENTITY sendButton.tooltip "现在发送此消息">
 <!ENTITY sendlaterButton.tooltip "以后发送此消息">
 <!ENTITY quoteButton.tooltip "引用上一条消息">
@@ -218,10 +218,10 @@
 <!ENTITY copyButton.tooltip             "复制">
 <!ENTITY pasteButton.tooltip            "粘贴">
 <!ENTITY printButton.tooltip "打印这条消息">
-
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "发件人:">
 <!ENTITY fromAddr.accesskey "r">
@@ -236,8 +236,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
-
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+
 <!ENTITY SmileButton.tooltip "插入一个笑脸">
 <!ENTITY smiley1Cmd.label "微笑">
 <!ENTITY smiley2Cmd.label "皱眉">
@@ -255,8 +255,8 @@
 <!ENTITY smiley14Cmd.label "无辜">
 <!ENTITY smiley15Cmd.label "哭泣">
 <!ENTITY smiley16Cmd.label "缄默">
-
 <!-- Message Pane Context Menu -->
+
 <!ENTITY spellCheckNoSuggestions.label "无法找到可建议修改的词">
 <!ENTITY spellCheckIgnoreWord.label "忽略词">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -278,7 +278,7 @@
 <!ENTITY delete.label "删除">
 <!ENTITY delete.accesskey "D">
 <!ENTITY removeAttachment.label "移除附件">
-<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "重命名…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "选择全部">
@@ -295,11 +295,11 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "附加网页…">
 <!ENTITY attachPage.accesskey "W">
-
 <!-- Spell checker context menu items -->
+
 <!ENTITY spellAddDictionaries.label "添加词典…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 <!-- Title for the address picker panel -->
+
 <!ENTITY addressesSidebarTitle.label "地址">
 
