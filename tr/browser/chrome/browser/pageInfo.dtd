@@ -64,7 +64,7 @@
 <!ENTITY  securityTab           "Güvenlik">
 <!ENTITY  securityTab.accesskey "G">
 <!ENTITY  securityView.certView "Sertifikayı göster">
-<!ENTITY  securityView.accesskey "O">
+<!ENTITY  securityView.accesskey "S">
 <!ENTITY  securityView.unknown   "Bilinmiyor">
 
 
