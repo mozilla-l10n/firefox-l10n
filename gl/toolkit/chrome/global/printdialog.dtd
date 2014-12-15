@@ -26,7 +26,7 @@
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "de">
 <!ENTITY frompageInput.accesskey  "d">
-<!ENTITY topageInput.label  "até">
+<!ENTITY topageInput.label  "ata">
 <!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Selección">
 <!ENTITY selectionRadio.accesskey "S">
