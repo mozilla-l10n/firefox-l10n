@@ -8,9 +8,12 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; sal nie enige geskiedenis vir dié venster onthou nie.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; sal nie enige geskiedenis vir private vensters onthou nie.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Dit sluit in: geskiedenis oor blaai, soek, aflaai en webvorms, koekies, en tydelike internetlêers. Afgelaaide lêers en boekmerke sal wél gehou word.">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "U is nie tans in 'n private venster nie.">
 
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Hoewel hierdie rekenaar nie 'n rekord hou van u blaaigeskiedenis nie, kan u werkgewer of internetdiensverskaffer dit dalk hou.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Meer inligting.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Open 'n privaatvenster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">

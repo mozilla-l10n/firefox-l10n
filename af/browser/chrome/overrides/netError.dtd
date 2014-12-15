@@ -163,14 +163,17 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Meer inligting…">
 <!ENTITY errorReporting.sending "Stuur tans verslag">
 <!ENTITY errorReporting.sent "Verslag gestuur">
-<!ENTITY errorReporting.report "Verslag">
-
+<!ENTITY errorReporting.report "Rapporteer">
+<!ENTITY errorReporting.tryAgain "Probeer weer">
 
 <!ENTITY remoteXUL.title "Afgeleë XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Kan nie beveilig koppel nie">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; kan nie die veiligheid van u kommunikasie met <span id='hostname'></span> waarborg nie aangesien dit SSLv3 gebruik – 'n gebreekte sekuriteitsprotokol.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "Gevorderde inligting: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Meer inligting…">
