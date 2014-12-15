@@ -6,7 +6,11 @@
 
 
 
+<!ENTITY oneClickSearchEngines.label           "'n Mozilla-vennoot het dié teëltjie visueel verbeter en die skermskoot vervang. Verbeterde teëls kan afgeskakel word deur die &#037;1$S-knop te druk vir voorkeure. &#037;2$S">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Met die soekbalk kan direk met alternatiewe enjins gesoek word. Kies watter gewys moet vertoon.">
+
+<!ENTITY engineNameColumn.label                "Soekenjin">
 <!ENTITY engineKeywordColumn.label             "Sleutelwoord">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Stel versteksoekenjins terug">
