@@ -24,10 +24,15 @@
 <!ENTITY saveButton.tooltip         "Save this style sheet to a file">
 <!ENTITY saveButton.accesskey       "S">
 
+<!ENTITY optionsButton.tooltip      "স্টাইল সম্পাদকের অপশন">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.label     "আসল উৎস প্রদর্শন(o) করুন">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.accesskey  "o">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for

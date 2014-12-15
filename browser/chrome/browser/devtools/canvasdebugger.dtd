@@ -15,6 +15,8 @@
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+<!ENTITY canvasDebuggerUI.emptyNotice1    "ক্লিক করুন">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice1): This is the label shown
   -  in the call list view while loading a snapshot. -->
 

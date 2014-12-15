@@ -36,13 +36,13 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ব্রাউজারের ট্যাব">
 <!ENTITY device.browserTabsTooltip "সংযুক্ত ডিভাইস এর ব্রাউজার ট্যাবের একটি তালিকা দেখুন">
-<!ENTITY device.debugBrowserTab "ডিবাগ করুন">
-<!ENTITY device.debugBrowserTabTooltip "ডেভেলপার টুল খুলুন যেটা এই ব্রাউজার ট্যাবের সঙ্গে ডিভাইসে সংযুক্ত আছে">
+<!ENTITY device.debugBrowserTab "ডিবাগ ">
+<!ENTITY device.debugBrowserTabTooltip "ডেভেলপার টুল খুলুন যেটা এই ব্রাউজার ট্যাবের সঙ্গে সংযুক্ত আছে ডিভাইসে">
 <!ENTITY device.help "সহায়তা">
 
-<!ENTITY connection.connectTooltip "দূরবর্তী ডিভাইসের সাথে সংযোগ স্থাপন করুন">
+<!ENTITY connection.connectTooltip "ডিভাইসের সাথে সংযোগ করুন">
 <!ENTITY connection.disconnect "বিচ্ছিন্ন করুন">
-<!ENTITY connection.disconnectTooltip "বর্তমান ডিভাইস বা সিমুলেটরের সাথে সংযোগ বিচ্ছিন্ন করুন">
+<!ENTITY connection.disconnectTooltip "বর্তমান ডিভাইস বা সিমুলেটরের সাথে সংযোগ বিচ্ছিন্ন করুন ">
 <!ENTITY connection.notConnected2 "সংযুক্ত নয়।">
 <!ENTITY connection.connectTo "সংযোগ করুন:">
 <!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি।একটি ডিভাইস প্লাগ করুন।">
@@ -56,13 +56,13 @@
 <!ENTITY connection.disconnecting "বিচ্ছিন্ন করা হচ্ছে...">
 <!ENTITY connection.cancel "বাতিল">
 <!ENTITY connection.cancelConnectTooltip "চলমান সংযোগটি বাতিল করুন">
+<!ENTITY connection.cancelShowSimulatorTooltip "সিমুলেটর সংযোগ মোড প্রস্থান করুন এবং আদ্যক্ষর প্রম্পতে ফেরত যান">
+<!ENTITY connection.or "অথবা">
+<!ENTITY connection.noSimulatorInstalled "কোন সিমুলেটর ইনস্টল করা হয়নি।">
+<!ENTITY connection.installOneSimulator "সিমুলেটর ইনস্টল করুন">
+<!ENTITY connection.installOneSimulatorTooltip "সিমুলেটরের একটা সংস্করণ ইনস্টল করুন প্রাসঙ্গিক অ্যাড-অন ডাউনলোড করে">
 
-
-
-
-
-
-
+<!ENTITY connection.installAnotherSimulatorTooltip "সিমুলেটরের একটা অতিরিক্ত সংস্করণ ইনস্টল করুন প্রাসঙ্গিক অ্যাড-অন ডাউনলোড করে">
 <!ENTITY connection.startRegisteredSimulator "আরম্ভ:">
 
 <!ENTITY projects.localApps "লোকাল অ্যাপ">
