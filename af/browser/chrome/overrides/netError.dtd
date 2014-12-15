@@ -157,12 +157,13 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Rapporteer dié fout">
+<!ENTITY errorReporting.longDesc "Deur die adres en sertifikaatinligting van <span id='hostname'></span> te rapporteer, help u om kwaadwillige werwe te identifiseer en te blok. Dankie dat u help om die web veiliger te maak!">
+<!ENTITY errorReporting.automatic "Rapporteer voortaan foute outomaties">
 <!ENTITY errorReporting.learnMore "Meer inligting…">
-
-
-
+<!ENTITY errorReporting.sending "Stuur tans verslag">
+<!ENTITY errorReporting.sent "Verslag gestuur">
+<!ENTITY errorReporting.report "Verslag">
 
 
 <!ENTITY remoteXUL.title "Afgeleë XUL">
