@@ -134,11 +134,12 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "এই ত্রুটিটি রিপোর্ট করুন">
 
-
+<!ENTITY errorReporting.automatic "ভবিষ্যতে ত্রুটিসমূহ স্বয়ংক্রিয়ভাবে রিপোর্ট করুন">
 <!ENTITY errorReporting.learnMore "আরও জানুন ...">
-
-
+<!ENTITY errorReporting.sending "রিপোর্ট পাঠানো হচ্ছে">
+<!ENTITY errorReporting.sent "রিপোর্ট পাঠানো হয়ে গেছে">
 <!ENTITY errorReporting.report "রিপোর্ট">
 <!ENTITY errorReporting.tryAgain "পুনরায় চেষ্টা করুন">
 
@@ -152,4 +153,4 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "উন্নত তথ্য: <span id='errorcode'></span>">
-
+<!ENTITY oldSecurityProtocol.learnMore "আরও জানুন...">
