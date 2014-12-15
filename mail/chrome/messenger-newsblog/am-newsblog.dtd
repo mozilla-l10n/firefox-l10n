@@ -9,11 +9,13 @@
 <!ENTITY loginAtStartup.label "Comprobar se hai novos artigos ao iniciar"> 
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "Mostrar de forma predefinida o resumo do artigo en vez de cargar a páxina web"> 
+<!ENTITY useQuickMode.label "Amosar de forma predeterminada o resumo do artigo en vez de cargar a páxina web"> 
 <!ENTITY useQuickMode.accesskey "b">
 
 <!ENTITY manageSubscriptions.label "Xestionar subscricións…"> 
 <!ENTITY manageSubscriptions.accesskey "X">
+
+<!ENTITY feedWindowTitle.label "Asistente de conta de fontes">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs e fontes de novas">

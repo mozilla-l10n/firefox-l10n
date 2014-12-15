@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Localizar e substituír…">
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findReplaceCmd.label "Localizar e substituír…">
 <!ENTITY enableInlineSpellChecker.label "Corrixir a ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Corrección ortográfica…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Expresión matemática…">
+<!ENTITY insertMathCmd.accesskey "m">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Quebrar imaxes">
@@ -208,10 +211,10 @@
 <!ENTITY layerSendToBack.tooltip "Enviar cara a atrás">
 <!ENTITY layerBringToFront.tooltip "Traer cara a adiante">
 
-<!ENTITY increaseIndent.label "Aumentar sangría">
+<!ENTITY increaseIndent.label "Aumentar sangrado">
 <!ENTITY increaseIndent.accesskey "A">
 <!ENTITY increaseIndent.key "=">
-<!ENTITY decreaseIndent.label "Diminuír sangría">
+<!ENTITY decreaseIndent.label "Diminuír sangrado">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
@@ -316,8 +319,8 @@
 <!ENTITY underlineToolbarCmd.tooltip "Subliñado">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou retirar a lista con viñetas">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou retirar a lista numerada">
-<!ENTITY outdentToolbarCmd.tooltip "Anular sangría do texto (mover cara á esquerda)">
-<!ENTITY indentToolbarCmd.tooltip "Aplicar sangría ao texto (mover cara á dereita)">
+<!ENTITY outdentToolbarCmd.tooltip "Anular sangrado do texto (mover cara á esquerda)">
+<!ENTITY indentToolbarCmd.tooltip "Aplicar sangrado ao texto (mover cara á dereita)">
 <!ENTITY AlignPopupButton.tooltip "Escoller aliñamento de texto">
 <!ENTITY InsertPopupButton.tooltip "Inserir unha ligazón, áncora, imaxe, liña horizontal ou táboa">
 <!ENTITY alignLeftButton.tooltip "Aliñar texto pola marxe esquerda">

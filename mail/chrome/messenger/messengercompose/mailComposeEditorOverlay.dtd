@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachImageSource.label         "Engadir esta imaxe á mensaxe">
-<!ENTITY attachImageSource.accesskey     "E">
+<!ENTITY attachImageSource.accesskey     "s">
 
 <!ENTITY attachLinkSource.label          "Anexar a fonte desta ligazón á mensaxe">
-<!ENTITY attachLinkSource.accesskey      "A">
+<!ENTITY attachLinkSource.accesskey      "s">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY all.label          "Descargar todas as cabeceiras">
-<!ENTITY all.accesskey      "t">
+<!ENTITY all.accesskey      "D">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:

@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "C">
 
 <!ENTITY accountSummaryTitle.label   "Resumo">
-<!ENTITY accountSummaryInfo.label    "A continuación mostrase un resumo da información que introduciu. Comprobe os datos antes de crear a conta.">
+<!ENTITY accountSummaryInfo.label    "A continuación amosarase un resumo da información que introduciu. Comprobe os datos antes de crear a conta.">
 <!ENTITY accountSummary.connectNow.label "Conectar esta conta agora.">
