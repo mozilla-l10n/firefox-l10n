@@ -42,19 +42,22 @@
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.tooltip "Log network access">
 
+<!ENTITY btnPageNet.label   "নেট(N)">
+<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageCSS.label   "CSS(C)">
 
-
-
-
+<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
-
+<!ENTITY btnPageJS.accesskey  "J">
 
 
 
@@ -88,5 +91,6 @@
 <!ENTITY copyURLCmd.label     "Copy Link Location">
 <!ENTITY copyURLCmd.accesskey "a">
 
-
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
 
