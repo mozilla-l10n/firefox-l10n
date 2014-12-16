@@ -66,6 +66,8 @@
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Duplica scheda">
+<!ENTITY mirrorTabCmd.accesskey "u">
 <!ENTITY enterFullScreenCmd.label "Passa a schermo intero">
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Esci da schermo intero">
