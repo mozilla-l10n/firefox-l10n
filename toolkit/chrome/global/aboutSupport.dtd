@@ -93,3 +93,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto para a área de transferência">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar dados para a área de transferência">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
