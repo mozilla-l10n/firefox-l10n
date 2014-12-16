@@ -13,10 +13,10 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ดูเว็บแบบส่วนตัว)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(การดูเว็บแบบส่วนตัว)">
 
 <!ENTITY appmenu.tooltip                     "เปิดเมนู">
-<!ENTITY navbarOverflow.label                "เครื่องมืออื่น…">
+<!ENTITY navbarOverflow.label                "เครื่องมืออื่นๆ…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "เรียกแท็บนี้ใหม่">
