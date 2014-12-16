@@ -20,5 +20,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "Restaurar os motors de busca por defecto">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
+<!ENTITY removeEngine.label                    "Borrar…">
+<!ENTITY removeEngine.accesskey                "r">
 
-
+<!ENTITY addMoreSearchEngines.label            "Anyader mas motors de busca…">
