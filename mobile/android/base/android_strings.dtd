@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Der schnelle, orange Fuchs überspringt Ihre Erwartungen mit mehr Geschwindigkeit, mehr Flexibilität und mehr Sicherheit. Als nicht-kommerzielle Organisation sind wir frei, um zu Ihrem Wohle zu entwickeln ohne durch äußeren Druck Kompromisse eingehen zu müssen. Das bedeutet ein besseres Benutzererlebnis für Sie und eine rosigere Zukunft für das Internet.">
 
 <!ENTITY pref_media_autoplay_enabled "Automatische Wiedergabe">
-<!ENTITY pref_media_autoplay_enabled_summary "Festlegen, ob Videos und andere Medieninhalte durch Webseiten automatisch wiedergegeben werden können">
+<!ENTITY pref_media_autoplay_enabled_summary "Webseiten die automatische Wiedergabe von Videos und anderen Medieninhalten erlauben">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync "Sync">
