@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "टेली मेटरी डाटा ">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "टेली मेटरी दो  <बिता़ >हुय होचो</बिता़>.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "टेली मेटरी दो  <बिता़ >हुय होचो</बिता़>.">
+
+<!ENTITY aboutTelemetry.slowSqlSection " SQL  ला़य उदुक् बा़य बा़य .">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "ब्राउजार आका को.">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "सुता़म आका को">
+
+<!ENTITY aboutTelemetry.histogramsSection "हिस्टोग्राम">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारोन माप को ">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "एड-ऑन पुरा बिबरोन ">
+
+<!ENTITY aboutTelemetry.lateWritesSection "बिलोम ओल को">
+
+<!ENTITY aboutTelemetry.systemInfoSection "सेस्टेम ला़य सोदोर">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  हिस्टोग्राम एड-ऑन दाराय ते तुमा़लाक् .">
+
+<!ENTITY aboutTelemetry.toggle "तोल हा़टिञ रे ओता">
+
+<!ENTITY aboutTelemetry.emptySection "  (जाहान डाटा बाय तुमा़लाकाना )">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: बा़य बा़याक्  SQL डिवॉगिंग दो हुय होचो तेयाराक् काना. पुरा़  SQL स्ट्रिंग दो लातार रे उदुक् दाड़ेयाक् आ मेनखान उनकु टेलीनेटरी रे बाको जोमा दाड़ेयाक् आ .">
+
+<!ENTITY aboutTelemetry.fetchSymbols " आका डांग को ला़गित् सेन काते आ़ग ञुतुम को .">
+
+<!ENTITY aboutTelemetry.hideSymbols "आका को खोन बेरेल डाटा उदुग् मे.">
+
+<!ENTITY aboutTelemetry.filterText "छा़नियाक् (स्ट्रिंग आर बाङ  /regexp/)">

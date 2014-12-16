@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "साहटा साजाव">
+
+<!ENTITY basic.tab           "तेयार आपनार मोने तेयाक् ( O) .">
+
+<!ENTITY formatGroup.label   "तेयार">
+
+<!ENTITY orientation.label   "झालकावाक् जिनिस:">
+<!ENTITY portrait.label      "चिता़र बेनाव (P)">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "ञेल ञामाक् (L)">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY scale.label         "नापाक्:(S)">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   " साहटा ओसार  खाप हा़विच् ओताय मे. (W)">
+<!ENTITY shrinkToFit.accesskey "W">
+
+<!ENTITY optionsGroup.label  "आपनार मोने तेयाक् को">
+
+<!ENTITY printBG.label       "छापा ओनोड़  (रोङ चिता़र को  )  B">
+<!ENTITY printBG.accesskey   "B">
+
+<!ENTITY advanced.tab        "साहटा सिमा़ साहटा चेतान/ साहटा लातार ( H )">
+
+<!ENTITY marginGroup.label   "साहटा सिमा़  को (#1)">
+<!ENTITY marginUnits.inches  "इंच को">
+<!ENTITY marginUnits.metric  "मिलीमीटर को">
+<!ENTITY marginTop.label     "चेतान (T)">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "लातार (B)">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "लेंगा: (L)">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "जोजोम: (R)">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "साहटा चेतान साहटालातार को (  F) ">
+
+<!ENTITY hfLeft.label        "लेंगा:">
+<!ENTITY hfCenter.label      "ताला:">
+<!ENTITY hfRight.label       "जोजोम सेत्:">
+<!ENTITY headerLeft.tip      "लेंगा सेदाक् चेतान ञुतुम">
+<!ENTITY headerCenter.tip    "तालामा चेतान ञुतुम ">
+<!ENTITY headerRight.tip     "जोजोम सेदाक् चेतान ञुतुम">
+<!ENTITY footerLeft.tip      "लेंगा सेदाक् लातार ञुतुम">
+<!ENTITY footerCenter.tip    "जोजोम सेदाक् लातार ञुतुम">
+<!ENTITY footerRight.tip     " जोजोम सेदाक् लातार ञुतुम">
+
+<!ENTITY hfTitle             "ञुतुम एम">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "मा़हित्/ओकतो ">
+<!ENTITY hfPage              "साहटा #">
+<!ENTITY hfPageAndTotal      "रेयाक् # साहटा #">
+<!ENTITY hfBlank             "--सादा--">
+<!ENTITY hfCustom            " कुसियाक् तेयार …">
+
+<!ENTITY customPrompt.title  " कुसियाक् तेयार …">
+<!ENTITY customPrompt.prompt "आमक कुसियाक्  तेयार चेतान /लातार ञुतुम  ओनो ल आदेर मे">

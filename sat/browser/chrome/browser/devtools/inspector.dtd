@@ -1,0 +1,24 @@
+<!ENTITY inspectorHTMLEdit.label       " HTML  लेका सासापड़ाव (E)">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
+
+<!ENTITY inspectorHTMLCopyInner.label       "भितिर HTML नोकोल मे     (I)">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "बाहरे  HTML नोकोल मे ( O)">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "भेनेगार बाछाविच् नोकोल एम (U)">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorHTMLPasteOuter.label      "बाहरे  HTML लाठा सेलेद मे  (P)">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
+
+<!ENTITY inspectorHTMLDelete.label          "गांट मेटाव मे  (D)">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "माउस सांव जिनिस बाछाव मे">
+
+<!ENTITY inspectorSearchHTML.label          " HTML पानते मे">
+<!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "चिता़र टाडा -URL नोकोल मे.">

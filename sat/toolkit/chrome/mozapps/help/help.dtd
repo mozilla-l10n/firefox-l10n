@@ -1,0 +1,57 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "तायोम सेत् (B)">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "मित् साहटा तायोम चालाक् मे">
+<!ENTITY forwardButton.label            " माड़ाङ सेत् (F)">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "मित् साहटा लाहा चालाक् मे">
+<!ENTITY copyCmd.label                  "नोकोल (C)">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "जोतो बाछाव  (A)">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "ओड़ाक् ">
+<!ENTITY homeButton.tooltip             "गोड़ो एहोब साहटा रे चालाक् मे .">
+<!ENTITY printButton.label              " छापा">
+<!ENTITY printButton.tooltip            "नोवा साहटा छापाय मे.">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "पानते">
+<!ENTITY searchHeader.label             "पानते कुड़ाइ को">
+<!ENTITY toctab.label                   "बिसोय को (C) ">
+<!ENTITY toctab.accesskey               "C">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "जोवगे चोट रे ( T) ">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "माराङ आ हुडिञ तेयार( O) ">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "हुड़िञयाक् माराङ तेयार( I) ">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

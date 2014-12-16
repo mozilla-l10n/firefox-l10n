@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Profiler strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+<!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
+  -  in the call list view when empty. -->
+
+
+
+<!ENTITY profilerUI.emptyNotice1    "रे ओताय मे">
+<!ENTITY profilerUI.emptyNotice2    "जावा चिकी का़मी होहो को रेकोर्डिं  एहोब ला़गित् बुता़म .">
+<!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
+  -  in the call list view while recording a profile. -->
+
+<!ENTITY profilerUI.stopNotice1    "रे ओताय मे">
+<!ENTITY profilerUI.stopNotice2    "प्रोफाइल तिंगु ला़गित् बुता़म दोहड़ा. ">
+<!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
+  -  in the call list view while loading a profile. -->
+
+<!ENTITY profilerUI.loadingNotice "लादेयेक् आ…">
+<!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
+  -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "जावा चिकी का़मी होहो को रेकर्डो को .">
+<!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
+  -  on a button that opens a dialog to import a saved profile data file. -->
+
+<!ENTITY profilerUI.importButton "आ़गु …">
+<!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
+  -  on a button that remvoes all the recordings. -->
+
+<!ENTITY profilerUI.clearButton "फा़रचा">
+<!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
+  -  in the call tree headers for a recording. -->
+
+<!ENTITY profilerUI.table.duration    "Time (ms)">
+<!ENTITY profilerUI.table.percentage  "Cost">
+<!ENTITY profilerUI.table.invocations "Calls">
+<!ENTITY profilerUI.table.function    "का़मी">
+<!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
+  -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "बाछाव खोन नावा टेब  सेलेद मे .">

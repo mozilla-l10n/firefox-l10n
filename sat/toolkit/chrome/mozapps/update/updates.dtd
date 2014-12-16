@@ -1,0 +1,101 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "सोफ्टवेयार हा़ली मे ">
+
+<!ENTITY  checking.title                  "हा़ली को ला़गित् ञेल येत् आ ">
+<!ENTITY  updateCheck.label               "&brandShortName;रेयाक् नावा नाक् बार्सान ला़गित् ञेलेत् आ…">
+
+<!ENTITY  pluginupdatesfound.title        "खोंजा आदेर ला़गित् हा़ली को ञाम लेना .">
+<!ENTITY  pluginupdatesfound.label        "आमाक् खोंजा आदेर रेयाक् मित् आर बाङ ढेर नावानाक् बार्सान नामलेन ताहेंना .">
+<!ENTITY  pluginupdateslink.label         "आमाक् खोंजा आदेर चेत् लेका रे हा़ली रकाबा ञेल मे ">
+
+<!ENTITY  noupdatesfound.title            "जाहांन हा़ली को बाय ञाम लेना .">
+<!ENTITY  noupdatesautoenabled.intro      "नोडे जाहान हा़ली बाय ञामोक् आ. &brandShortName;  ञेला  
+हा़ली ला़गित् ओकतो ओकतो रे.">
+<!ENTITY  noupdatesautodisabled.intro     "नोडे जाहान हा़ली बाय ञामोक् आ.तायोम ते दोहड़ा ञेल आर बाङ हुय होचो ञेल मे  
+&brandShortName;' आच् आच् ते हा़ली ञेल आ .">
+
+<!ENTITY  manualUpdate.title              "हा़ली बाय हुय तेयार">
+<!ENTITY  manualUpdate.desc               "बातावाक् जा़पती आर तिंगु थिर हा़ली ञामोक् आ,मेन खान आमेम का़मी या  
+नोवा बोहा़ल ला़गित् सेस्टेम छा़ड को रेयाक् ला़कती बा़नुक् आ. सोम्पोक एम आमिज. 
+सेस्टेम सासोनिच् , आर बाङ मित् खाता खोन दोहड़ा कुरुमुटुय मे  
+नोवा कांप्युटार रे सोफ्टवेयार बोहा़ल मे .">
+<!ENTITY  manualUpdate.space.desc         "बातावाक् जा़पती आर तिंगु थिर हा़ली ञामोक् आ,मेन खान आमेम का़मी या  
+नोवा रे बोहाल ला़गित् ढेर जायगा बा़नुक् आ .">
+<!ENTITY  manualUpdateGetMsg.label        "&brandShortName; रे : रेयाक् नावानाक् बार्सान आम जावगे ञाम दाड़ेयाक् आ.">
+
+<!ENTITY  unsupported.title               "सेस्टेम बाङ गोड़ोवाक् काना .">
+<!ENTITY  unsupported.label               " &brandShortName; दो आमाक् ओकोतो पारोमाक् काना , मेन खान नावा नाक् बार्सान दो  
+आमाक् सेस्टेम रे बाय गोड़ोवाक् आ . आमाक् सेस्टेम हा़ली राकाब मे , इना तायोम दोहड़ा कुरुमुटुय मे . 
+आम नोवा इतलाय दोहड़ा बाम ञेला , मेन खान आम दाड़ेआ. ">
+<!ENTITY  unsupportedLink.label           "बाड़ती चेद मे .">
+
+<!ENTITY  incompatibleCheck.title         "एड-ऑन हुय दाड़ेयाक् ञेलयेत् आ .">
+<!ENTITY  incompatibleCheck.label         "आमाक् एड- ऑन रेयाक् नावानाक् बार्सान ला़गित्  ञेलयेत् आ …">
+
+<!ENTITY  clickHere.label                 "नोवा हा़ली बाबोत ते बाड़ती ञेल सोदोर ञेल मे .">
+
+<!ENTITY  evangelism.desc                 "नोवा केटेच् ते बातावा काना जे आम नोवा बाहाल  
+ &brandShortName; ला़गित् हा़ली लोगोन ते हुय दाड़ेयाक्.">
+
+<!ENTITY  license.instructions            "जुदी आम नोवा बोनोत रेयाक् नियोम सांव सिका़र आ, इञ सिका़र रे ओताय मे 
+लातार नोवा हा़ली बोहाल लेताड़ ला़गित् .">
+
+<!ENTITY  license.titleText               "सोफ्टवेयार लाइसेंस गोनोत .">
+<!ENTITY  license.introText               "नोवा सोफ्टवेयार बेभार ला़ॉगित् नियोम आर दोब को .">
+<!ENTITY  license.instructionText         "नोवा को लाइसेंस बोनोत् पाड़हाव मे. नोवा बोनोत् रेयाक् सारेच् ञेल ला़गित् स्क्रोल बार बेभार मे.">
+<!ENTITY  license.accept                  "इञ लाइसेंस बोनोत् रेयाक् नियोम को बातावेक् आ">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "इञ लाइसेंस बोनोत् रेयाक् नियोम को  NOT बातावा">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "बाङ हुय दाड़े एड-ऑन ञामेना">
+
+<!ENTITY  downloadPage.title              " &brandShortName; आ़तुर आंड़गोयेत् आ">
+<!ENTITY  downloading.intro               "हा़ली आ़तुर आंड़गोयेत् आ…">
+<!ENTITY  connecting.label                "हा़लियाक् सार्बार रे जोड़ावेत् आ…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; रेयाक् ञेल मिला़व बाय हुय लेन ताहेंना
+बाड़हावाक् हा़ली नोवा आ़तुर आंड़गोलेना, ओना ते नितोक् आ़तुर आंड़गो येत् आ 
+पुरा हा़ली घेंट..">
+
+<!ENTITY  viewDetails.tooltip             "नोवा हा़ली ला़गित् बिबरोन को ञेल मे">
+
+<!ENTITY  details.link                    "बिवरोन को">
+
+<!ENTITY  error.title                     "हा़ली होचो डिगा़वेना">
+
+<!ENTITY  error.label                     "ञेल ला़गित्, आ़तुर आंड़गो, आर बाङ नोवा बोहाल ला़गित् दिगधा़ ताहे लेन ताहेंना 
+हा़ली. &brandShortName; हा़ली राकाब बाय दाड़ेयाक् आ चेदाक् जे:">
+                                           
+<!ENTITY  errorManual.label               "You can update &brandShortName; नोवा खोंजा ञेल दाराय ते आम ती तेम हा़ली दाड़ेयाक् आ 
+आर नावा उता़र बार्सान आ़तुर आंड़गोयेत् आ:">
+                                           
+<!ENTITY  errorpatching.intro             "तापरा हा़ली बाङ बाहाल दाड़ेयाक् आ. 
+&brandShortName; मित् पुरा़ हा़ली आ़तुर आंड़गो दाराय ते दोहड़ा कुरुमुटुया.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; दो बाय गोटा दाड़ेयाक् आ जुदी नोडे मित् हा़ली ञामोक् आ.  
+गोटाय मे जे आम ठेन &brandShortName; रेयाक्  नावा उता़र बार्सान मेनाक् आ खोन:">
+<!ENTITY  errorCertAttrNoUpdate2.label    " &brandShortName; जाहानाक् आकोटेक् आ हा़ली जा़पती खोन . 
+ गोटाय मे जे आम ठेन  &brandShortName; रेयाक् नावा उता़र बार्सान मेनाक् खोन:">
+<!ENTITY  errorCertAttrHasUpdate.label    "&brandShortName;एड़ेला़गित् जाहानाक् ए कुरुमुटु येत् आ,मित् हा़ताव रे   
+बाङ जा़पती  हा़ली .आमिज नेटवार्क एमोगिज सोमपोक एम आर गोड़ो ञाम मे.">
+
+<!ENTITY  finishedPage.title              "बोहाल ला़गित् हा़ली सापड़ावाकाना .">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  finishedBackgroundPage.text     " &brandShortName; ला़गित् जा़पती आर तिंगु थिर  
+ दो आ़तुर आंड़गो होचोवाकाना आर बोहाल ला़गित् सापड़ावा काना.">
+<!ENTITY  finishedBackground.name         "हा़ली :">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  installed.title                 "हा़ली बोहाल एना ">
+<!ENTITY  installed.intro                 "हा़ली रा़स लेकाते बोहाल लेन ताहेना .">
+<!ENTITY  whatsnew.label                  "चेत् नावानाक् काना बाबोत ते ढेर पाड़हाक् मे …">
+
+<!ENTITY  update.details.label            "बिवरोन को">
+<!ENTITY  update.installedOn.label        "रे बोहालेना :">
+<!ENTITY  update.status.label             "दोसार :">

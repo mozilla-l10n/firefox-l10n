@@ -1,0 +1,103 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "एप बेबोसतायिच्  (A)">
+<!ENTITY index.projects2 "एप को">
+<!ENTITY index.device2 "डिबाइस">
+<!ENTITY index.help "गोड़ो">
+
+<!ENTITY device.debugMainProcess "मुल का़मी डिबॉग ">
+<!ENTITY device.debugMainProcessTooltip "डिबाइस रे मुल का़मी ला़गित् लाहवाक् टुल को  जोड़ोव झिज मे.">
+<!ENTITY device.screenshot "इस्क्रिंन सोट">
+<!ENTITY device.screenshotTooltip "मित् नावा टेब रे डिभाइस रेयाक् नितोगाक् ओबोसता रेयाक् मित् स्क्रिंन सोट झिज मे.">
+<!ENTITY device.title "डिबाइस कोबोज सेनटार">
+<!ENTITY device.notConnected "बाङ जोड़ावाकाना. लातार रे आमाक् डिबाइस जोड़ावमे.">
+<!ENTITY device.startApp "एतोहोब">
+<!ENTITY device.startAppTooltip "डिबाइस रे नोवा एप एहोब मे .">
+<!ENTITY device.stopApp "तिंगु">
+<!ENTITY device.stopAppTooltip "डिबाइस रे नोवा एप तिंगुय मे .">
+<!ENTITY device.debugApp "डिबॉग">
+<!ENTITY device.debugAppTooltip "डिबाइस रे नोवा एप  लाहवाक् टुल को जोड़ाव ए झिजा ">
+<!ENTITY device.name "ञुतुम">
+<!ENTITY device.plain "सादा  (हुड़ाक् )">
+<!ENTITY device.privileged "बिसेस होक">
+<!ENTITY device.certified "पोरमान आकान">
+<!ENTITY device.allow "बाताव एम">
+<!ENTITY device.allowTooltip "नोवा छाड दो नोवा लेकान एफस ला़गित् बातवेएम आ .">
+<!ENTITY device.prompt "लोगोन ते">
+<!ENTITY device.promptTooltip "नोवा छाड नोवा लेकान एप को ला़गित् मित् बेभारिज लोगोन ते ला़कतीयाक् .">
+<!ENTITY device.deny "बाङ हें">
+<!ENTITY device.denyTooltip "नोवा छाड नोवा लेकान एप को ला़गित् बाय हें या.">
+<!ENTITY device.installedApps "बोहालाक् एप कतो">
+<!ENTITY device.installedAppsTooltip "डिबाइस रे एप को बोहाला कान मित् सुची ञेल मे . तिनाक् गान एप को , जे लेका पोरमान एमाक् एप को  नोवा ञेल को खोन बाहरे दाड़ेयाक् आ.">
+<!ENTITY device.permissions "छाड को">
+<!ENTITY device.permissionsTooltip "एप को रेयाक् भेनेगार लेकान छाड को आ़तुराक् मित् टेबुल ञेल मे.">
+<!ENTITY device.permissionsHelpLink "https://लाहावाक्.मोजिला.org/डॉक/वेब/एप को/एप _छाड को .">
+<!ENTITY device.browserTabs "ब्रउजार टेब को ">
+<!ENTITY device.browserTabsTooltip "जोड़ावाक् डिबाइस ब्राउजार रे टेप को रेयाक् मित् सुची ञेल मे .">
+<!ENTITY device.debugBrowserTab "डिबॉग">
+<!ENTITY device.debugBrowserTabTooltip "डिबाइस रे नोवा ब्राउजार टेब रे साहावाक् टुल को जोड़ाव झिज मे .">
+<!ENTITY device.help "गोड़ो">
+
+<!ENTITY connection.connectTooltip "डिबाइस रे जोड़ाव ">
+<!ENTITY connection.disconnect "जोड़ाव ओचोक्">
+<!ENTITY connection.disconnectTooltip "नितोगाक् डिबाइस आर बाङ सिमुलेटार खोन जोड़ाव ओचोक् मे.">
+<!ENTITY connection.notConnected2 "बाय जोड़ावाकाना ">
+<!ENTITY connection.connectTo "रे जोड़ाव :">
+<!ENTITY connection.noDeviceFound "जाहान डिबाइस बाङ ञाम लेना.  मित् डिबाइस खोंजाय मे.">
+<!ENTITY connection.changeHostAndPort "बोदोल">
+<!ENTITY connection.changeHostAndPortTooltip "डिबाइस रे जोड़ाव हुय होचो यिच् आर पोट बेभार बोदोल मे  (नोडे हुय होचोयिजाक् हुड़ाक् रे :6000)">
+<!ENTITY connection.startSimulator "सेमुलेटार एहोब">
+<!ENTITY connection.startSimulatorTooltip "सामुलेटार रेयाक् मित् ञेलाक् एहोब आर ओना रे जोड़ाव .">
+<!ENTITY connection.saveConnectionInfo "साञचाव">
+<!ENTITY connection.saveConnectionInfoTooltip "हुयहोचोयिक् आर पोर्ट सांचाव मे .">
+<!ENTITY connection.connecting "जोड़ावेत आ…">
+<!ENTITY connection.disconnecting "जोडाव ओचोगेत् आ …">
+<!ENTITY connection.cancel "बा़डरा">
+<!ENTITY connection.cancelConnectTooltip "जोड़ाव बा़डरा लाहा आकाना .">
+<!ENTITY connection.cancelShowSimulatorTooltip "सेमुलेटार जोनोड़ाव ओबोसता बाहरे ओडोक आर एतोहोब लोगोन ते रे रुवा़ड़ मे .">
+<!ENTITY connection.or "आर बाङ">
+<!ENTITY connection.noSimulatorInstalled "जाहान सामुलेटार बाय बोहालाकाना .">
+<!ENTITY connection.installOneSimulator "सेमुलेटार बोहाल मे ">
+<!ENTITY connection.installOneSimulatorTooltip "सोमबोंध एड -ऑन आ़तुर आंड़गोदाराय ते सेमुलेटार रेयाक् मित् बार्सान बोहाल मे . ">
+<!ENTITY connection.installAnotherSimulator "सेलेद मे">
+<!ENTITY connection.installAnotherSimulatorTooltip "सोमबोंध एड -ऑन आ़तुर आंड़गो  दाराय ते सेमुलेटार रेयाक् मित् बाड़तियाक् बार्सान बोहाल मे . ">
+<!ENTITY connection.startRegisteredSimulator "एबोब :">
+
+<!ENTITY projects.localApps "Local Apps">
+<!ENTITY projects.addApp "सेलेद मे">
+<!ENTITY projects.addPackaged "घेंटआक् सेलेद मे">
+<!ENTITY projects.addPackagedTooltip "आमाक् काम्प्युटर खोन मित् नावा घेंटआ एप  (मित् उनुदुक्) सेलेद मे .">
+<!ENTITY projects.addHosted "हुय होचोवाक् सेलेद मे .">
+<!ENTITY projects.addHostedTooltip "मित् सांगिञाक् बेबसाइट खोन मित् नावा हुय होचोवाक् एप  (मित् पुसटाव .वेब एप रेत् खोंजाय मे) सेलेद मे. ">
+<!ENTITY projects.title "Local Apps">
+<!ENTITY projects.appDetails "एप बिबरोन को">
+<!ENTITY projects.removeAppFromList "आमेम का़मी कान एप रेयाक् सुची खोन नोवा एप ओचोग मे. नोवा बाय ओचोगाक् मित् डिबाइस आर बाङ मित् सेमुलेटर खोन.">
+<!ENTITY projects.updateApp "हा़ली">
+<!ENTITY projects.updateAppTooltip "तुला पायला ञेल का़मी आर जोनड़ाव डिबाइस रे एप हा़ली मे .">
+<!ENTITY projects.debugApp "डिबॉग">
+<!ENTITY projects.debugAppTooltip "नोवा एप रे जोड़ावाक् लाहायिजाक् टुल को झिज मे .">
+<!ENTITY projects.saveManifest "साञचाव">
+<!ENTITY projects.saveManifestTooltip "लातार पुस्टावाक् सासपड़ाविच् बिसोय को सांचाव मे.">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://जेलेका .कॉम/एप/पुस्टावाक् .वेब एप.">
+<!ENTITY projects.noProjects "जाहान प्रोजेकट बाङ . लातार मित् नावा घेंट एप  (नोडेनाक् उनपदुक् ) आर बाङ मित् हुय होचोवाक् एप सेलेद मे (पुस्टावाक् रेत् रे खोंजा ).">
+<!ENTITY projects.manifestEditor "पुस्टाव सासापड़ाविच्">
+<!ENTITY projects.manifestEditorTooltip "लातार पेनाल रे आमाक् एप रेयाक् पुस्टाव सासापड़ाव मे .हा़लियाक् बुता़म आमाक् बोदोल को आर एप हा़ली को सांचवा.">
+<!ENTITY projects.manifestViewer "पुस्टाव ञेनेलिच् ">
+<!ENTITY projects.manifestViewerTooltip "लातार पेनेल रे आमाक् एप रेयाक् पुस्टाव ञेल बिड़ाव मे ">
+<!ENTITY projects.valid "बातावाक्">
+<!ENTITY projects.error "भुल ">
+<!ENTITY projects.warning "हुसियार">
+<!ENTITY projects.hosted "हुयहोचोवाक्">
+<!ENTITY projects.packaged "घेंटाक्">
+
+<!ENTITY help.title "एप बेबोसतायिच्  (A)">
+<!ENTITY help.close "बोंदो">
+<!ENTITY help.intro "नोवा टुल आम हुयहोचो डिबाइस रे  (जेलेका .फायरफ़ोक्स  OS). रे वेब एप तेयार आर बोहाल गोड़ोवामा <केटेच् >एप को </केटेच् >टेब आमाक् एप रेयाक् तुला पयला आर बोहाल का़मी रे गोड़ो आमा <केटेच् >डिबाइस</केटेच्> टेब आम डिबाइस जोड़ाव बाबोत ला़य सोदोर एएमाम. मित् डिबाइस आर बाङ सेमुलेटार रे एहोब लागित् लातार टुल बार रे जोड़ाव बेभार मे.">
+<!ENTITY help.usefullLinks "लाबाक् खोंजा को :">
+<!ENTITY help.appMgrDoc "दोलिल तेयार : एप बेबोसतायिच् बेभाराते">
+<!ENTITY help.configuringDevice "चेत लेका रे आमाक् फायर फॉक्स  OS  डिबाइस. ">
+<!ENTITY help.troubleShooting "कोस्टो हुयुगाक् ">
+<!ENTITY help.simulatorAddon "सेमुलेटार एड-ऑन बोहाल मे">
+<!ENTITY help.adbHelperAddon " Adb गोड़ोवाक् बोहाल मे .">

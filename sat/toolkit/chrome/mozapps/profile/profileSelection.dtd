@@ -1,0 +1,31 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY            windowtitle.label      "&brandShortName; -बेभारिजाक् मोहोर बाछाव मे. ">
+
+<!ENTITY            profilename.label      " मोहोर ञुतुम:">
+
+<!ENTITY            start.label            "&brandShortName; एहोब मे . ">
+<!ENTITY            exit.label             "बाहरे ओडोक्">
+
+<!ENTITY            availprofiles.label    " ञामोगाक्  मोहोर ">
+
+<!ENTITY            newButton.label        " मोहोर तेयार मे (C)...">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "  मोहोर दोहड़ा ञुतुम मे (R)...">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     " मोहोर मेटाव  मे (D)...">
+<!ENTITY            deleteButton.accesskey "D">
+<!-- manager entities -->
+
+<!ENTITY            pmDescription.label    "&brandShortName; आमाक् साजाव कुसियाक् आर एटाक् बेभार कोवाक् बाबोत जिनिस जोगाव ला़य सोदोर . ">
+
+<!ENTITY            offlineState.label    "ऑफलाइन का़मी (o)">
+<!ENTITY            offlineState.accesskey "o">
+
+<!ENTITY            useSelected.label       "एहोब रे बेगोर कुली ते बाछावाक् प्रोफाइल बेभार मे (s) ">
+<!ENTITY            useSelected.accesskey   "s">

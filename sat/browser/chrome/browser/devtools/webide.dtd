@@ -1,0 +1,138 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle "फायर फोक्स वेब IDE">
+
+<!ENTITY projectMenu_label "प्रोजोक्ट">
+<!ENTITY projectMenu_accesskey " P">
+<!ENTITY projectMenu_newApp_label "नावा एप …">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "घेंट एब झिज मे …">
+<!ENTITY projectMenu_importPackagedApp_accesskey " P">
+<!ENTITY projectMenu_importHostedApp_label "हुय होचो एप झिज मे…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "एप झिज मे…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "बोहाल आर चालाव">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "एप तिंगुय मे">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "डिबॉग एप">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "पा़हिल तेयाक् साजाव ओचोग मे">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "कुसियाक् को">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+
+<!ENTITY runtimeMenu_label "चालाव ओकतो">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "जोड़ाव ओचोक्">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey " P">
+<!ENTITY runtimeMenu_takeScreenshot_label "इस्क्रिंन सोट">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+
+<!ENTITY viewMenu_label "ञेनेल">
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "टोगाल सासापड़ाविच्">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_showAddons_label "Manage Simulators">
+<!ENTITY viewMenu_showAddons_accesskey "M">
+
+<!ENTITY projectButton_label "एप  झिज मे ">
+<!ENTITY runtimeButton_label "चोलोव ओकतो बाछाव मे .">
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+
+<!ENTITY key_quit "W">
+<!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
+<!-- reload app -->
+<!ENTITY key_play "R">
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
+
+<!ENTITY projectPanel_myProjects "इंञाक् प्रोजेक्ट">
+<!ENTITY projectPanel_runtimeApps "चालाव ओकतो एप">
+<!ENTITY runtimePanel_USBDevices "USB Devices">
+<!ENTITY runtimePanel_WiFiDevices "Wi-Fi Devices">
+<!ENTITY runtimePanel_simulators "Simulators">
+<!ENTITY runtimePanel_custom "Custom">
+<!ENTITY runtimePanel_installsimulator "सेमुलेटार बोहाल मे ">
+<!ENTITY runtimePanel_noadbhelper "बोहाल ADB  गोड़ोयिज ">
+<!ENTITY runtimePanel_nousbdevice "आमाक् डिभाइज बाङ ञेल दाड़ेयाक् ?">
+<!-- Lense -->
+
+<!ENTITY details_valid_header "बातावाक्">
+<!ENTITY details_warning_header "हुंसियार को">
+<!ENTITY details_error_header "भुल को">
+<!ENTITY details_description "विबरोन">
+<!ENTITY details_location "ठांव">
+<!ENTITY details_manifestURL "एप ID">
+<!ENTITY details_removeProject_button "पा़हिल तेयाक् साजाव ओचोग मे">
+<!-- New App -->
+
+<!ENTITY newAppWindowTitle "नावा एप">
+<!ENTITY newAppHeader "ना़मुना बाछाव मे">
+<!ENTITY newAppLoadingTemplate "ना़मुना को लादेयेत आ…">
+<!ENTITY newAppProjectName "प्रोजेक्ट ञुतुम:">
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "बोंद मे">
+<!-- Addons -->
+
+<!ENTITY addons_title "बाड़तियाक् जोड़ान को ">
+<!ENTITY addons_aboutaddons "एड- ऑन बेबोसतायिच् झिज मे">
+<!-- Prefs -->
+
+<!ENTITY prefs_title "कुसियाक् को">
+<!ENTITY prefs_editor_title "सासापड़ाव">
+<!ENTITY prefs_general_title "साधारोन">
+<!ENTITY prefs_restore "जोगाव आ़रु हुड़ाक् को">
+<!ENTITY prefs_simulators "Manage Simulators">
+<!ENTITY prefs_options_enablelocalruntime "Enable local runtime">
+<!ENTITY prefs_options_enablelocalruntime_tooltip "Allow WebIDE to connect to its own runtime (running browser instance)">
+<!ENTITY prefs_options_rememberlastproject "मुचा़त् प्रोजेक्ट उयहा़र मे .">
+<!ENTITY prefs_options_rememberlastproject_tooltip "वेब IDE  एहोब जोहोक्  पा़हिल तेयाक् प्रोजेकट जोगाव आ़रुय मे ">
+<!ENTITY prefs_options_templatesurl "ना़मुना   URL">
+<!ENTITY prefs_options_templatesurl_tooltip "ञामोगाक् ना़मुना को रेयाक् साबाद सुची.">
+<!ENTITY prefs_options_showeditor "सासापड़ाविच् उदुक् एम">
+<!ENTITY prefs_options_showeditor_tooltip "भितिर सासापड़ाविच् उदुग एम">
+<!ENTITY prefs_options_tabsize "टेब माराङ तेत्">
+<!ENTITY prefs_options_expandtab "सोफ्ट टेब को">
+<!ENTITY prefs_options_expandtab_tooltip "टेब आखोर रेयाक् बादाल ते फांक को बेभार मे.">
+<!ENTITY prefs_options_detectindentation "आच् तेयाक् साहटा सिमा़">
+<!ENTITY prefs_options_detectindentation_tooltip "सोत बिसोय रे बाय साव साहटा सिमा़ ओनमान .">
+<!ENTITY prefs_options_autocomplete "आच् ते पुरा़व">
+<!ENTITY prefs_options_autocomplete_tooltip "कोड आच् ते पुरा़व हुय होचो .">
+<!ENTITY prefs_options_autoclosebrackets "आच् ते बोंदो ब्रेकेट को">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "आच् ते सोगे बोंदो ब्रेकेट को ">
+<!ENTITY prefs_options_keybindings "का़ठी तोल को">
+<!ENTITY prefs_options_keybindings_default "हुड़ाक्">
+<!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "Permissions Table">
+<!ENTITY permissionstable_name_header "ञुतुम">
+<!-- Runtime Details -->
+
+<!ENTITY runtimedetails_title "Runtime Info">
+<!ENTITY runtimedetails_adbIsRoot "ADB  दो रेहेत् काना : ">
+<!ENTITY runtimedetails_summonADBRoot "रेहेत् डिबाइज">
+<!ENTITY runtimedetails_ADBRootWarning "(बाङ कुलुप बुट लादेयाक् ला़कतिया )">
+<!ENTITY runtimedetails_restrictedPrivileges "Dev  टुल्स कोहड़ाव रे बिसेस होक को  : ">
+<!ENTITY runtimedetails_requestPrivileges "चेतान बिसेस होक को नेहोर">
+<!ENTITY runtimedetails_privilegesWarning "(डिबाइस दोहड़ा रिबुट . रेहेत् आ़तुर ला़कतिया). ">
+<!-- Monitor -->
+
+<!ENTITY monitor_title "Monitor">
+<!ENTITY monitor_help "गोड़ो">

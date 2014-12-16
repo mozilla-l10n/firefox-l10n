@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "खिलोंड">
+<!ENTITY playButton.pauseLabel "तिंग होचो">
+<!ENTITY muteButton.muteLabel "बोबा">
+<!ENTITY muteButton.unmuteLabel "साडे होचो">
+<!ENTITY fullscreenButton.enterfullscreenlabel "पुरा़ स्क्रिन">
+<!ENTITY fullscreenButton.exitfullscreenlabel "पुरा़ स्क्रिन खोन बाहरे">
+<!ENTITY castingButton.castingLabel "Cast to Screen">
+
+<!ENTITY stats.media "मिडिया">
+<!ENTITY stats.size "माराङ तेत्">
+<!ENTITY stats.activity "चोगोड़">
+<!ENTITY stats.activityPaused "तिंगु लेना">
+<!ENTITY stats.activityPlaying "खिलोंड़  काना">
+<!ENTITY stats.activityEnded "मुचा़त् आकाना">
+<!ENTITY stats.activitySeeking "(पानतेयेत् अ)">
+<!ENTITY stats.volume "रा़रु">
+<!ENTITY stats.framesParsed "साज को बेयान आकाना">
+<!ENTITY stats.framesDecoded "साज चिनहा़ आखोर पुसटा़व">
+<!ENTITY stats.framesPresented "साज उदुक् लेना">
+<!ENTITY stats.framesPainted "साज चिता़र ते उदुक्">
+
+<!ENTITY error.aborted "मिडियो लादे तिंगुयेना.">
+<!ENTITY error.network "मिडियो खेलोंड रुवा़ड़ मित् नेटवार्क भुल कारोन ते आड़ाक् होचो केत् आ .">
+<!ENTITY error.decode "मिडियो बाङ खेलोंड होचो दाड़ेयाक् आ चेदाक् जे रेत् रा़पुद गेया .">
+<!ENTITY error.srcNotSupported "मिडियो तेयार आर बाङ  MIME लेकान दो बाङ गोड़ोवाक् काना  .">
+<!ENTITY error.noSource2 "गोड़ोवाक् तेयार आर  MIME  लेकान सांव जाहान मिडियो बाय ञाम लेना .">
+<!ENTITY error.generic "मिडियो सेतोंड रुवाड़ मित् बाङ बाडाय भुल कारोन ते आड़ाक् लेना. ">
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
+<!ENTITY scrubberScale.nameFormat "#1 of #2 रेयाक् पारोम तेत्">

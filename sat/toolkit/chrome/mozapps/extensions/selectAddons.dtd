@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY upgrade.style               "ओसार: 93ch; उसुल: 448px;">
+
+<!ENTITY checking.heading            "आमाक् एड-ऑनस तेघानेत् आ">
+<!ENTITY checking.progress.label     "&brandShortName; रेयाक् नोवा बार्सान सांव सोंगोतोक् ला़गित् आमाक् एड -ऑनस तेंघानेक् आ ;.">
+
+<!ENTITY select.heading              "आमाक् एड-ऑनस को बाछाव मे ">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "&brandShortName; तेयार में, आम बाङ हिय होचो एड-ऑनस आर बाम बेभारोक दाराय ते लोगोनोक् रेहों . माराङ खोन गे तेसार दोल दाराय ते बो़हाल एड-ऑनस आच् तेगे बाङ हुय होचो तेया रोक् आ तिन हा़विच् आम ओना को लातार रेयाक् बाछावाम (b).">
+<!ENTITY select.keep                 "दोहोय मे">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "ओसार: 6ch;">
+<!ENTITY select.action               "का़मी">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "ओसार: 35ch;">
+<!ENTITY select.source               "दाराय ते बो़हाल आकाना">
+<!ENTITY select.name                 "ञुतुम">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "ओसार: 33ch;">
+
+<!ENTITY confirm.heading             "आमाक् एड-ऑनस को बाछाव मे ">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "&brandShortName; तेयार में, आम बाङ हिय होचो एड-ऑनस आर बाम बेभारोक दाराय ते लोगोनोक् रेहों . माराङ खोन गे तेसार दोल दाराय ते बो़हाल एड-ऑनस आच् तेगे बाङ हुय होचो तेया रोक् आ तिन हा़विच् आम ओना को लातार रेयाक् बाछावाम (b).">
+
+<!ENTITY action.disable.heading      "नोवा को एड-ऑनस बाङ हुय होचोक् आ :">
+<!ENTITY action.incompatible.heading "नोवा को एड-ऑनस बाङ हुय होचोवाकाना मेनखान जाहां लेका गे ओना को सोंगोतोक् आ हुय होचो तेयारोक् आ :">
+<!ENTITY action.update.heading       "नोवा को एड-ऑनस हा़लिक् आ:">
+<!ENTITY action.enable.heading       "नोवा को एड-ऑनस हा़लिक् आ:">
+
+<!ENTITY update.heading              "आमाक् एड-ऑनस हा़लियेक् आ">
+<!ENTITY update.progress.label       "आ़तुर आंड़गो आर आमाक् बाछावाक् एड-ऑनस ला़गित् हा़ली को बो़हाल रे .">
+
+<!ENTITY errors.heading              "&brandShortName; तिना़क् गान आमाक् एड-ऑनस बाय हा़ली दाड़ेयाक् आ .">
+<!ENTITY errors.description          "आमाक् तिनाक् गान एड-ऑनस ला़गित् हा़लियाक् को बो़हाल डिगा़वेना &brandShortName; आच् आच् लेका ते ओनाको तायोम ते दोहड़ा ते हा़ली ला़गित् कुरुमुटुया.">
+
+<!ENTITY footer.label                "आम जावगे एड-ऑनस बेबोसतायिच् रे चालाव दाराय ते आमाक् एड-ऑनस बोदोल  दाड़ेयाक् आ .">
+<!ENTITY cancel.label                "बा़डरा़">
+<!ENTITY back.label                  "तायोम सेत्">
+<!ENTITY next.label                  "इना़ तायोम">
+<!ENTITY done.label                  "का़मी येना">

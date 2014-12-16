@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- These strings are used in the about:newtab page -->
+
+<!ENTITY newtab.pageTitle "नावा टैब">
+<!ENTITY newtab.customize.title "आमाक् नावा टैब साहटा कुसियाक् तेयार मे">
+<!ENTITY newtab.customize.enhanced "बाड़हाव आकाना">
+<!ENTITY newtab.customize.classic "क्लासिक्">
+<!ENTITY newtab.customize.blank "एकेनाक्">
+<!ENTITY newtab.customize.what "What is this page?">
+<!ENTITY newtab.intro.header "What is this page?">
+<!ENTITY newtab.undo.removedLabel "थंबनेल ओचोग मे.">
+<!ENTITY newtab.undo.undoButton "ञाम रुवा़ड़.">
+<!ENTITY newtab.undo.restoreButton "जोतो जोगाव आ़रु.">
+<!ENTITY newtab.undo.closeTooltip "उकु">

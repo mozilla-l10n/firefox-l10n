@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editMenu.label            " सासापड़ाव (E)">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "रुवा़ड़ (U)">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY redoCmd.label             "दोहड़ाकोराव (R)">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "गेत् (t)">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "नोकोल (C)">
+<!ENTITY copyCmd.key               " C">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "लाठा (P)">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "मेटाव (D)">
+<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY selectAllCmd.label        "जोतो बाछाव  (A)">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY findCmd.label             "ञाम">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "दोहड़ा ञाम  (g)">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findPreviousCmd.label     "तायोम तेयाक् ञाम (v)">
+<!ENTITY findPreviousCmd.accesskey "v">

@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "नावा टेब रे नावा विंडो झिज बादाल ( t) ">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "होंसियार इञ मे तिन रे आ़डी लेकान टेब को बोनदो आ ( m) .">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "होंसिया़रइञ मे तिन रे आ़डी लेकान टेब बा़य बा़य लातार दाड़ेयाक् आ  &brandShortName; ( d).">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
+
+<!ENTITY restoreTabsOnDemand.label        "बाछाव हा़बिच् टैब को आलोम लादेया ( u) .">
+<!ENTITY restoreTabsOnDemand.accesskey    "u">
+
+<!ENTITY switchToNewTabs.label        "तिन रे इ़ञ मित् नावा टैब ओना रे लोगोन ते ओता वात झिजा .">
+<!ENTITY switchToNewTabs.accesskey    "h">
+
+<!ENTITY showTabsInTaskbar.label          "विंडो टास्क बार रे टेब माड़ाङ तेयाक् ञेंल उदुग मे (k) .">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "टेब को">

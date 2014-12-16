@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "हुड़िञ उता़र तेयार">
+<!ENTITY bringAllToFront.label    "जोतो सामाङ रे आ़गु.">
+<!ENTITY zoomWindow.label         "हुडिञ ला़टु तेयार">
+<!ENTITY windowMenu.label         "विंडो">
+
+<!ENTITY helpMenu.label           "गोड़ो(H)"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "गोड़ो(H)"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "About &brandShortName;(A)">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName;  गोड़ो (H)">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "का़ठी बोर्ड काटो तेयार (K)">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …(R)">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY healthReport.label       "&brandShortName;  बेस होड़मो रिपोर्ट (H)">
+<!ENTITY healthReport.accesskey   ")">
+
+<!ENTITY helpTroubleshootingInfo.label      "दिगधा़ हुयुगाक् ला़य सोदोर (T)">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "फिडबैक जोमा एम …(S)">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY helpShowTour.label             "&brandShortName;  दाड़ान(o)">
+<!ENTITY helpShowTour.accesskey         "o">
+
+<!ENTITY preferencesCmdMac.label        "कुसियाक् को…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "का़मी को">
+
+<!ENTITY hideThisAppCmdMac.label        " &brandShortName; उकुय मे">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "एटागाक् को उकुय मे.">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "जोतो उदुग मे.">

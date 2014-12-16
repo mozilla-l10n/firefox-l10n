@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "रोङ को">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "साहटा को आजाक् निजेर रोङ  ला़गित् बाताव एम, इञाक् नोवा बाछावाक् बादाल ते (A)  .">
+<!ENTITY  allowPagesToUse.accesskey       "A">
+
+<!ENTITY  color                           "ओनोल आर ओनोड़ को">
+<!ENTITY  textColor.label                 "ओनोल (T) :">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "ओनोड़(B) :">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "सेस्टेम रोङ को बेभार मे (s) ">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            " ओल लातार गाराक् खोंजा को (U)">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "खोंजा रोङ को">
+<!ENTITY  linkColor.label                 "बाङ ञेलाक् खोंजा को ( L) :">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          " ञेलाक् खोंजा को (V) :">
+<!ENTITY  visitedLinkColor.accesskey      "V">

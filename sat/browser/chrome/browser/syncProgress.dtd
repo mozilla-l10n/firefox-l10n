@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+<!-- These strings are used in the sync progress upload page -->
+
+<!ENTITY syncProgress.pageTitle    "आमाक् पा़हिल मित् ओकतो लेका तेयार .">
+<!ENTITY syncProgress.textBlurb    "आमाक् डाटा नित् ओनोड़ रे दानाङाक् आर लादे राकाबोक् काना. आम नोवा टैब बोनदो दाड़ेयाक् आ आर  &brandShortName; बेभार लेताड़ा.">
+<!ENTITY syncProgress.closeButton  "बोंद मे">
+<!ENTITY syncProgress.logoAltText  "&brandShortName; लोगो .">
+<!ENTITY syncProgress.diffText     "&brandShortName; नितोक् आच् आच्  ते ओनोड़ रे मित् ओकतो लेका तेयार. आम नोवा टैब बोनदो दाड़ेयाक् आ आर  &brandShortName; लेताड़ बेभारा.">
+

@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY permissionsManager.title        "छा़ड एम बेबोसतायिच">
+
+<!ENTITY sites.search                    "साइट को पानते मे">
+<!ENTITY sites.allSites                  " जोतो साइट को ">
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+
+<!ENTITY header.site.start               "ला़गित् छा़ड को">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "जोतो साइट ला़गित्  हुड़ाक् छा़ड को .">
+
+<!ENTITY permissions.forgetSite          "नोवा साइड बाबोत ते हिड़िञ मे">
+
+<!ENTITY permission.alwaysAsk            "जोवगे कुली मे">
+<!ENTITY permission.allow                "बाताव एम">
+<!ENTITY permission.allowForSession      "का़मी ओकतो ला़गित् बाताव एम">
+<!ENTITY permission.allowFirstPartyOnly  "एकेन पा़हिल दोल को बाताव">
+<!ENTITY permission.block                "आकोट">
+
+<!ENTITY password.label                  "दानाङ साबाद को जोगाव मे.">
+<!ENTITY password.manage                 "दानाङ साबाद को बेबोसताय मे…">
+
+<!ENTITY cookie.label                    "कुकी को साजाव मे.">
+<!ENTITY cookie.remove                   "कुकि को ओचोग मे">
+<!ENTITY cookie.manage                   "कुकी को बेबोसताय मे…">
+<!ENTITY cookie.removeAll                "जोतो कुकी को ओचोग मे">
+
+<!ENTITY geo.label                       "ठांव को हा़टिञ">
+
+<!ENTITY plugins.label                   "खोंजा आदेर को">
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
+<!ENTITY indexedDB.label                 "ऑफलाइन जोगाव मेल सामटाव .">
+
+<!ENTITY popup.label                     "पोप ऑप विंडो झिज मे .">
+
+<!ENTITY fullscreen.label                "पुरा़ स्क्रिन">
+<!ENTITY camera.label                    "केमरा बेभार मे">
+<!ENTITY microphone.label                "मायक्रोफोन बेभार मे">

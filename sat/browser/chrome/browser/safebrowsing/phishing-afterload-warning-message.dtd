@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "इञ नोडे खोन बाहरे ओड़ोकिंञ मे !">
+<!ENTITY safeb.palm.decline.label "नोवा हुंसियार आड़ाक् काक् मे ">
+<!ENTITY safeb.palm.notforgery.label2 "नोवा दो वेब कुम्बुड़ु बाङ काना…">
+<!ENTITY safeb.palm.reportPage.label "चेदाक् नोवा साहटा आकोट आकाना ?">
+
+<!ENTITY safeb.blocked.malwarePage.title "मुंहा़ साहटा रिपोर्ट आकाना !">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "नोवा वेब साहटा  रे  <span id='malware_sitename'/> मित् मुंहा़ साहटा लेका रिपोर्ट आकान आर आमाक् जाती कुसियाक् रे बाय़ साव आकोट होचो आकाना .">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>मुंहा़ साहटा प्रोग्राम  बोहाल ला़गित् कुरुमुटुया ओका निजेराक् लाय सोदोर आच् किरा ,एटाक् मुंहा़ ला़गित्  आमाक् काम्प्युटार बेभार मे , आर बाङ आमाक् सेस्टेम रा़पुद मे .</p><p> तिनाक् गान मुंहा़ साहटा को बाडाय काते घा़ताक् सोफ्टवेयार हा़टिञ आ, मेन खान आ़डी गान गेयान आर बाङ आकोवाक् निजे छा़ड को बेगोर सुलेनामाया.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "वेब कुम्बड़ु रिपोर्ट एम !">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "नोवा वेब साहटा रे  <span id='phishing_sitename'/> मित् वेब कुम्बड़ु लेका रिपोर्ट होचो आकाना आर आर आमाक् जा़पती कुसियाक् को रे बा़यसा़व आकोट आकाना.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p> वेब कुम्बाड़ु को दो  निजे आर बाङ आम पा़तया़व दाड़ेयाक् नोकोल आंड़गो दाड़ेयाक् सोत को दाराय ते टाका का़वड़ी ला़य सोदोर उदुक् रे आम एड़े ला़गित् जोह तेयाराकाना.</p><p>नोवा वेब साहटा रे जाहां गे ला़य सोदोर आदेर ते चिनहा़ कुम्बड़ू आर बाङ एटाक् एड़ेयाक् हुय दाड़ेयाक् आ.</p>">

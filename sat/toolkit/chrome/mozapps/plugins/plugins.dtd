@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pluginWizard.title                                  "Plugin Finder Service">
+<!ENTITY pluginWizard.firstPage.title                        "Welcome to the &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; is now checking for available plugins…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Available Plugin Downloads">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "The following plugins are available:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Press Next to install these plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Some plugins may require additional information from you during installation.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Plugin Licenses">
+<!ENTITY pluginWizard.licensePage.accept.label               "I agree.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "I do not agree (plugin will not be installed).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Installing Plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; is installing plugins…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finished installing the missing plugins:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Find out more about Plugins or manually find missing plugins.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; needs to be restarted for the plugin(s) to work.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "आले आ़डी ले हारुङ आकाना, मेनखान &brandShortName; नोवा डिवाइस रे फ्लैश बाय खेलोंड दाड़ेयाक् आ.आले आ़डी ले हारुङ आकाना, मेनखान &brandShortName;  नोवा डिवाइस रे फ्लैश बाय खेलोंड दाड़ेयाक् आ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "ढेर चेद मे…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!ENTITY missingPlugin                                       "मित् खोंजा आदेर ला़गित् नोवा विसोय उदुक् ला़गित् ला़कती या.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "नोडे टेप खोंजा आदेर चोगोड़ मे.">
+<!ENTITY clickToActivatePlugin                               "चोगोड़ खोंजा आदेर.">
+<!ENTITY checkForUpdates                                     "हा़ली को ला़गित् तेंघान…">
+<!ENTITY disabledPlugin                                      "नोवा खोंजा आदेर दो बाय हुय होचो आकाना.">
+<!ENTITY blockedPlugin.label                                 "नोवा खोंजा आदेर दो आमाक् आ़ड ला़गित् आकोट होचो आकाना.">
+<!ENTITY hidePluginBtn.label                                 "खोंजा आदेर उकु">
+<!ENTITY installPlugin                                       "Install plugin…">
+<!ENTITY managePlugins                                       "खोंजा आदेर को बेबोसताय मे…">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "साहटा दोहड़ा लादे मे">
+<!ENTITY reloadPlugin.post                                   "    दोहड़ा कुरुमुटुय ला़गित्.दोहड़ा कुरुमुटुय ला़गित्.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "रा़पुत् रिपोर्ट कुल मे">
+<!ENTITY report.submitting                                   "रिपोर्ट कुलेत् आ…">
+<!ENTITY report.submitted                                    "रा़पुत् रिपोर्ट कुलेना.">
+<!ENTITY report.disabled                                     "रा़पुत् रिपोर्ट बाङ हुय होचो आकाना.">
+<!ENTITY report.failed                                       "उधिन रे डिगा़वाकाना.">
+<!ENTITY report.unavailable                                  "जाहान रिपोर्ट बाय ञामोक् आ.">
+<!ENTITY report.comment                                      "मित् ओकता सेलेद मे  (ओकता को दो होड़ को ठेन ञेंलोक् आ)">
+<!ENTITY report.pageURL                                      "साहटा रेयाक्  URL सा़मिल मे.">
+
+<!ENTITY plugin.file                                         "रेत् ">
+<!ENTITY plugin.mimeTypes                                    "MIME लेकान">

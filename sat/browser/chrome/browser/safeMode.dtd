@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "&brandShortName; जा़पती ओबोसता .">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "जा़पती ओबोसता रे एहोब मे.">
+<!ENTITY resetProfile.label           "Reset &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "जा़पती ओबोसता दो  &brandShortName; रेयाक् बिसेस ओबोसता काना. ओका दो आनाट ओडोक् का़मी ला़गित् बेभार दाड़ेयाक् आ. ">
+<!ENTITY safeModeDescription4.label   "आमाक् एड-ऑन आर कुसियाक् साजाव को दो सुयदोम ला़गित् बाय हुय होचोक् आ .">
+
+<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
+<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
+<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">

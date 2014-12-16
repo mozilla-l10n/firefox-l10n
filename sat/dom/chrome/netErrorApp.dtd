@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+
+<!ENTITY securityOverride.linkText "आर बाङ बादाक्  एम सेलेद दाड़ेयाक् आ...">
+<!ENTITY securityOverride.warningContent "<p>आम बादाक् बाङ सेलेद ला़कती जुदी आम इन्टारनेट जोनोड़ाव बेभारेत् आम ओका पुरा़ बाम पातिया़वाक् आ आर बाङ जुदी आम नोवा सार्बार ला़गित् मित् हुंसियार ञेल ला़गित् बाङ बेभार येत् आ .</p> 
+<p>जुदी आम नित हों नोवा साइट ला़गित् बादाक्  सेलेद सानाम काना , आम आमाक् लाहावाक् दानाङ साजाव को रे का़मी दाड़ेयाक् .</p>">

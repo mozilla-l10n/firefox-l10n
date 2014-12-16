@@ -1,0 +1,110 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY certmgr.title                       "पोरमान साकाम बेबो़सतायिच् .">
+
+<!ENTITY certmgr.tab.mine                     "आमाक् पोरमान साकाम.">
+<!ENTITY certmgr.tab.others2                  "होड़ ">
+<!ENTITY certmgr.tab.websites3                "सार्वार को ">
+<!ENTITY certmgr.tab.ca                       "पोरमान एमोक् को">
+<!ENTITY certmgr.tab.orphan2                  "एटागाक्">
+
+<!ENTITY certmgr.ca.builtins                  " CAs भितिर रे तेयार आकाना">
+<!ENTITY certmgr.ca.mycas                     "CAs आम दाराय ते बेबोसता आकाना">
+
+<!ENTITY certmgr.mine                         "आम नोवा को आसड़ा खोन पोरमान साकाम एम ञाम आकात् आ ओका आमे उपरुम मेया:">
+<!ENTITY certmgr.others                       "रेत् रे आमाक् पोरमान साकाम मेनाक् आ ओना नुकु होड़को उपरुम कोवा:">
+<!ENTITY certmgr.websites2                    "रेत् रे आमाक् पोरमान साकाम को मेनाक् ओका नोवाको सर्वर ए उपरुमा:">
+<!ENTITY certmgr.cas                          "रेत् रे आमाक् पोरमान साकाम मेनाक् आ ओना नोवा पोरमान साकाम एमोक् को चिनहा़व कोवा:">
+<!ENTITY certmgr.orphans                      "आम ठेन रेत् रे पोरमान साकाम मेनाक् आ. ओका एटाक् हा़टिञ को रेयाक् जाहांनाक् रे बाय खापोक् आ :">
+
+<!ENTITY certmgr.detail.general_tab.title     "साधरोन (G)">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "पुरा़ विवोरन (D)">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.pending.label                "नितोक पोरमान साकाम ञेल मिला़वेत् आ …">
+<!ENTITY certmgr.subjectinfo.label            "को एम आकाना">
+<!ENTITY certmgr.issuerinfo.label             "दाराय  ते एम आकाना.">
+<!ENTITY certmgr.periodofvalidity.label       "बाताव एम रेयाक् ओकतो." >
+<!ENTITY certmgr.fingerprints.label           "टिपा़ छाप को">
+<!ENTITY certmgr.certdetail.title             "पोरमान साकाम पुरा़ विवोरन.">
+<!ENTITY certmgr.certdetail.cn                "साधोरन ञुतुम (CN)">
+<!ENTITY certmgr.certdetail.o                 "सेमलेत्">
+<!ENTITY certmgr.certdetail.ou                "सेमलेत नानापाक् (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "तिरया़व लेखा">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 टिपा़ छाप">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 टिपा़छाप">
+
+<!ENTITY certmgr.editcert.title               "जा़पती पोरमान साकाम साजाव को सासापड़ाव">
+<!ENTITY certmgr.editcacert.title             "CA पोरमान पातिया़व साजाव को सासापड़ाव">
+<!ENTITY certmgr.editcert.edittrust           "पातिया़व साजाव को सासापड़ाव:">
+<!ENTITY certmgr.editcert.trustssl            "नोवा पोरमान साकाम वेबसाइट को उपरुमा.">
+<!ENTITY certmgr.editcert.trustemail          "नोवा पोरमान साकाम मेल बेभार को उपरुम दाड़ेयाको वा.">
+<!ENTITY certmgr.editcert.trustobjsign        "नोवा पोरमान साकाम सोफ्ट वेयार तेयार को उपरुम दाड़ेयाकोवा. ">
+<!ENTITY certmgr.editemailcert.title          "ई-मेल पोरमान साकाम पा़तिया़व साजाव को सासापड़ाव.">
+<!ENTITY certmgr.editemailcert.edittrust      "पोरमान साकाम पा़तिया़व साजाव को सासापड़ाव:">
+<!ENTITY certmgr.editemailcert.dotrust        "नोवा पोरमान साकाम रेयाक् पोरमान एम पा़तिया़व.">
+<!ENTITY certmgr.editemailcert.donttrust      "नेवा पोरमान साकाम  रेयाक् पोरमान एम आलोम पा़तिया़वाक् आ.">
+
+<!ENTITY certmgr.deletecert.title             "पोरमान साकाम मेटाव">
+<!ENTITY certmgr.deletecert.beforename        "आम नोवा पोरमान साकाम मेटाव ला़गित् एम नोहोर लेत् आ:">
+<!ENTITY certmgr.deletecert.aftername         "चेत् आम निसटा़ आकात् आ नोवा पोरमान साकाम मेटाव सानाम काना?">
+<!ENTITY certmgr.deleteusercert.title         "आमाक् पोरमान साकाम मेटाव मे">
+<!ENTITY certmgr.deleteusercert.beforename    "आम पोरमान साकाम मेटाव एम नेहोर लेत् आ:">
+<!ENTITY certmgr.deleteusercert.aftername     "मित् धाव आम नोवा पोरमान साकाम एम मेटाव लेखान, आम मेल बाङ पाड़हाव दाड़ेयाक् ओका नोवा सांव दानाङ होचो आकाना.">
+
+<!ENTITY certmgr.certname                     "पोरमान साकाम ञुतुम ">
+<!ENTITY certmgr.certserver                   "सार्वार  को ">
+<!ENTITY certmgr.override_lifetime            "जिबोन भुर ">
+<!ENTITY certmgr.tokenname                    "जा़पती साधोन">
+<!ENTITY certmgr.begins                       "रे एहोब">
+<!ENTITY certmgr.expires                      "रे ओकोतो चाबा आ.">
+<!ENTITY certmgr.email                        "ई-मेल ठिका़न">
+<!ENTITY certmgr.serial                       "तिरया़व लेखा">
+
+<!ENTITY certmgr.close.label                  "बोंद मे (C)">
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "ञेनेल… (V)">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "पा़तया़व सासापड़ाव मे… (E)">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.editca.label                 "CA पा़तिया़व सासापड़ाव (d)">
+<!ENTITY certmgr.editca.accesskey             "d">
+<!ENTITY certmgr.add.label                    "सेलेद मे (A)">
+<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.export.label                 "बाहरे कुल मे… (x)">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "मेटाव मे… (D)">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         " आर बाङ आलोम पा़तया़वाक् आ… (D)">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "नोकोल जोगाव… (B)">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "जोतो नोकोल जोगाव (k)">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "आ़गू... (m)">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "पोरमान साकाम जायगा को  (F)">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "जायगा गोनोङ (V)">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "पोरमान साकाम पोद थार (C)">
+<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.addException.label           "बादाक् को सेलेद… (x)">
+<!ENTITY certmgr.addException.accesskey       "x">
+
+<!ENTITY exceptionMgr.title                   "जा़पती बादाक सेलेद ">
+<!ENTITY exceptionMgr.exceptionButton.label   "जा़पती बादाक् गोटाय मे (C)">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "आ़न लेकातेनाक् बैंक, जोगाव को, आर एटाक् होड़ साइट को नोवा का़मी ला़गित् बाय कुली मेया.">
+<!ENTITY exceptionMgr.certlocation.caption2   "सार्वार  को ">
+<!ENTITY exceptionMgr.certlocation.url        "जायगा ठांव:">
+<!ENTITY exceptionMgr.certlocation.download   "पोरमान साकाम ञाम मे">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "पोरमान साकाम दोसा को">
+<!ENTITY exceptionMgr.certstatus.viewCert     "ञेनेल…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "नोवा बादाक् जाव ला़गित् जोगावाकाना (P)">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">

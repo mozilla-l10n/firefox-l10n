@@ -1,0 +1,93 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "दिगधा़ साहा बाडाय तेत् को">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle " नोवा साहटा रे प्रौद्योगिकी ला़य सोदोर मेनाक् आ. ओका दो लाब ञामोगाक् काना, तिन रे आम  
+मित् दिञघा सा़त ला़गित् कुरुमुटुया . जुदी आम साधारोन कुकली ला़य ला़गित् ञेलेत् आम 
+ &brandShortName;, बाबोत ते आलेयाक् तेंघाना मे  <a id='supportLink'>गोड़ो वेब साइट </a>.">
+
+<!ENTITY aboutSupport.crashes.title "रा़पुत् रेयाक् रिपोर्ट को">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "रिपोर्ट ID">
+<!ENTITY aboutSupport.crashes.sendDate "जोमा एम आकाग">
+<!ENTITY aboutSupport.crashes.allReports "जोतो रा़पुद रिपोर्ट">
+<!ENTITY aboutSupport.crashes.noConfig "नोवा एपलिकेसोन दो रा़पुद रिपोर्ट उदुक् ला़गित् भितिर तेयार  बाय हुय होचो आकाना .">
+
+<!ENTITY aboutSupport.extensionsTitle "पासनाव को">
+<!ENTITY aboutSupport.extensionName "ञुतुम">
+<!ENTITY aboutSupport.extensionEnabled "हुय होचोवाक्">
+<!ENTITY aboutSupport.extensionVersion "बार्सान">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "का़मी काते ञेलाक् गुन को.">
+<!ENTITY aboutSupport.experimentName "ञुतुम">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "विबरोन">
+<!ENTITY aboutSupport.experimentActive "उसरा़व">
+<!ENTITY aboutSupport.experimentEndDate "मा़हित मुचा़त्">
+<!ENTITY aboutSupport.experimentHomepage "ओड़ाक् साहटा">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "एपलिकेसोन मुल को">
+<!ENTITY aboutSupport.appBasicsName "ञुतुम">
+<!ENTITY aboutSupport.appBasicsVersion "बार्सान">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "हा़लियाक् हिता़ल">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "हा़ली राकाब हिता़ल उदुग मे.">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल उनुदुक् पुथी">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "प्रोफाइल पोटोम">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "हुय होचोवाक् खोंजा आदेर">
+<!ENTITY aboutSupport.appBasicsBuildConfig "तेयार रेयाक् भितिर बेनाव">
+<!ENTITY aboutSupport.appBasicsUserAgent "बेभार कोयिज एजेन्ट">
+<!ENTITY aboutSupport.appBasicsMemoryUse "मेमोरी बेभार">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "आ़डी ल लेकान का़मी विंडो.">
+
+<!ENTITY aboutSupport.showDir.label "झिज उनुदुक्">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "पानतेयाक् रे उदुक्">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "पोटोम उदुक्">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "मोहोत बोदोलाक् कुसियाक् को">
+<!ENTITY aboutSupport.modifiedPrefsName "ञुतुम">
+<!ENTITY aboutSupport.modifiedPrefsValue "गोनोङ">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js कुसियाक् को">
+<!ENTITY aboutSupport.userJSDescription "आमाक् प्रोफाइल पोटोम रे <a id='prefs-user-js-link'>user.js रेत्</a>,मेनाक् आ, ओका रे कुसियाक् को सा़मिल मेनाक् आ ओका दो  &brandShortName; दाराय ते बाय तेयार लेन ताहेंना.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "मोहोत कुलुपाक् कुसियाक् को .">
+<!ENTITY aboutSupport.lockedPrefsName "ञुतुम">
+<!ENTITY aboutSupport.lockedPrefsValue "गोनोङ">
+
+<!ENTITY aboutSupport.graphicsTitle "गार चिता़र">
+
+<!ENTITY aboutSupport.jsTitle "जावा चिकी">
+<!ENTITY aboutSupport.jsIncrementalGC "बाड़हागाक् GC">
+
+<!ENTITY aboutSupport.a11yTitle "आ़तुर दाड़े तेत्">
+<!ENTITY aboutSupport.a11yActivated "चोगोड़ होचोवाक्">
+<!ENTITY aboutSupport.a11yForceDisabled "आ़तुर लेकाक् आकोट होचो">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "पुथी ओड़ाक् बार्सान ">
+
+<!ENTITY aboutSupport.installationHistoryTitle "बोहालोगाक् हिता़ल">
+<!ENTITY aboutSupport.updateHistoryTitle "हा़लियाक् हिता़ल">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "रेटोपबोर्ड रे ओनोल नोकोल मे .">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "रेटोपबोर्ड रे बेरेल डाटा नोकोल मे.">

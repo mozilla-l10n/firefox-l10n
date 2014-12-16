@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
+
+<!ENTITY tabs.otherDevices.label               "एटाक् डिबाइस खोन टेब ">
+
+<!ENTITY tabs.searchText.label                   "टैब ञाम ला़गित् नोडे टाइप मे …">
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+
+<!ENTITY tabs.context.openTab.label                   "नोवा टेब झिज मे (O)">
+<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openMultipleTabs.label          "बाछावाक् टैब को झिज में (O)">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "नोवा टैब को पुथी चिनहा़य में (B)…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "बाछावाक् टैब को पुथी टिनहा़य में (B)…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.refreshList.label               "सुची नावा  आ़रु(R)">
+<!ENTITY tabs.context.refreshList.accesskey           "R">
