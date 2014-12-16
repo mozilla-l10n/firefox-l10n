@@ -572,11 +572,11 @@
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Prezri opozorilo za to sporočilo">
-<!ENTITY phishingOptionIgnore.accesskey "z">
+<!ENTITY phishingOptionIgnore.accesskey "P">
 <!ENTITY phishingOptionSettings.label "Uredi možnosti odkrivanja prevar ...">
-<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettings.accesskey "U">
 <!ENTITY phishingOptionSettingsUnix.label "Uredi nastavitve odkrivanja prevar ...">
-<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.accesskey "U">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
