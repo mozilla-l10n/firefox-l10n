@@ -16,7 +16,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "បើក​បង្អួច​ឯកជន">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "ដើម្បី​ចាប់ផ្ដើម​ការ​រុករក​ឯកជន អ្នក​អាច​ជ្រើស &basePBMenu.label; &gt; &newPrivateWindow.label; ។">

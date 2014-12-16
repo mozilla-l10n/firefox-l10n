@@ -38,10 +38,10 @@
 <!ENTITY community.creditsLink      "សហគមន៍​សកល">
 <!ENTITY community.end3             "ដែល​ធ្វើការ​ជាមួយ​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​​អាច​ភ្ជាប់​ទៅ​កាន់​​គ្រប់គ្នា ។">
 
-<!ENTITY contribute.start           "គួរ​ឲ្យ​ចាប់​អារម្មណ៍​ដែរ​ទេ ?">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "ចូល​រួម!">
-<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "ព័ត៌មាន​អាជ្ញាប័ណ្ណ">

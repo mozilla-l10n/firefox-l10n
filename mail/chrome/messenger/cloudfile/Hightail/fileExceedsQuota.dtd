@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "ប្រញាប់ប្រញាល់">
 <!ENTITY fileExceedsQuota.storageLimitReached   "បាន​ដល់​ដែន​កំណត់​ផ្ទុក">
-<!ENTITY fileExceedsQuota.accept "បង្កើន​ទំហំ">
-<!ENTITY fileExceedsQuota.cancel "បោះបង់">
 <!ENTITY fileExceedsQuota.description "អ្នក​បាន​ដល់​ដែន​កំណត់​ទំហំ​ផ្ទុក​គណនី​របស់​អ្នក​នៃ ២ ជីកាបៃ។">
 <!ENTITY fileExceedsQuota.description1 "ការ​ប្រើ​ទំហំ​ផ្ទុក​បច្ចុប្បន្ន​របស់​អ្នក​គឺ #XXX ជីកាបៃ។">
-<!ENTITY fileExceedsQuota.description2 "បង្កើន​ទំហំ​ទៅ​គណនី Pro Plus ថ្ងៃនេះ នឹង​ទទួល​បាន​ទំហំ​ផ្ទុក​បន្ថែម។">
-<!ENTITY fileExceedsQuota.description3 "អ្នក​អាច​លុប​ឯកសារ​នៅ​ក្នុង​គណនី​របស់​អ្នក​ដើម្បី​បង្កើន​ទំហំ។">

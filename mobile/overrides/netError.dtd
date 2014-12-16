@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "រក​មិន​ឃើញ​ម៉ាស៊ីន​បម្រើ">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>ពិនិត្យ​អាសយដ្ឋាន​សម្រាប់​​បញ្ចូល​កំហុស​ដូច​ជា 
-<strong>ww</strong>.example.com ជំនួស​ឲ្យ 
-<strong>www</strong>.example.com</li> 
-<li>បើ​អ្នក​មិន​អាច​ផ្ទុក​ទំព័រ​ណា​មួយ​ ពិនិត្យ​ការ​ភ្ជាប់​ទិន្នន័យ ឬ​វ៉ាយហ្វាយ​​ឧបករណ៍​របស់​អ្នក។ 
-<button id='wifi'>បើក​វ៉ាយហ្វាយ</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "រក​មិន​ឃើញ​ឯកសារ">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; មិន​អាច​ផ្ទុក​ទំព័រ​នេះ​បាន​ទេ ពីព្រោះ​តែ​ហេតុផល​មួយ​ចំនួន ។</p>">
 
 <!ENTITY malformedURI.title "អាសយដ្ឋាន​មិនត្រឹមត្រូវ">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>ជាទូទៅ អាសយដ្ឋាន​បណ្ដាញ​ត្រូវ​បាន​សរសេរ​ដូចនេះ 
-<strong>http://www.example.com/</strong></li> 
-<li>សូម​ប្រាកដ​ថា អ្នក​កំពុង​តែ​ប្រើ​សញ្ញា (/) (ឧ. 
-<strong>/</strong>)។</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -51,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>ឯកសារ​ដែល​បាន​ស្នើ មិន​មាន​នៅ​ក្នុង​ឃ្លាំង​សម្ងាត់​របស់ &brandShortName; ទេ ។</p><ul><li>ជា​ការ​ប្រុងប្រយ័ត្ន​សុវត្ថិភាព​ជាមុន &brandShortName; មិន​ស្នើ​ឯកសារ​សម្ងាត់​ឡើងវិញ​ដោយ​ស្វ័យប្រវត្តិ​ឡើយ ។</li><li>ចុច​ព្យាយាម​ម្ដងទៀត ដើម្បី​ស្នើ​ឯកសារ​ម្ដងទៀត​ពី​តំបន់​បណ្ដាញ ។</li></ul>">
 
 <!ENTITY netOffline.title "របៀប​ក្រៅ​បណ្ដាញ">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>ព្យាយាម​ម្ដង​ទៀត។ &brandShortName; នឹង​ព្យាយាម​បើក​ការ​ភ្ជាប់ ឬ​ផ្ទុកទំព័រ​ឡើងវិញ។ 
 <button id='wifi'>បើក​វ៉ាយហ្វាយ</button> 
@@ -83,6 +75,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "មិន​អាច​រក​ឃើញ​ម៉ាស៊ីន​បម្រើ​ប្រូកស៊ី​">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>ពិនិត្យមើល​ការ​កំណត់​ប្រូកស៊ី​ដើម្បីឲ្យ​ប្រាកដ​ថា​វា​ត្រឹមត្រូវ ។</li> 
 <li>ពិនិត្យមើល​ដើម្បីឲ្យ​ប្រាកដ​ថា​ឧបករណ៍​របស់​អ្នក​មាន​ទិន្នន័យ​ដំណើរការ ឬ​ការភ្ជាប់​វ៉ាយហ្វាយ។</li> 
@@ -109,14 +103,16 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>នេះ​អាច​បណ្ដាល​មកពី​បញ្ហា​ជាមួយ​នឹង​ការ​កំណត់​រចនាសម្ព័ន្ធ​របស់​ម៉ាស៊ីន​បម្រើ ឬ​វា​អាច​បណ្ដាល​មក​ពី​អ្នកណា​ម្នាក់​ព្យាយាម​បន្លំ​ម៉ាស៊ីន​បម្រើ ។</li> <li>ប្រសិនបើ​ពីមុន អ្នក​បាន​តភ្ជាប់​ទៅកាន់​ម៉ាស៊ីន​បម្រើ​នេះ​ដោយ​ជោគជ័យ​​រួចហើយ កំហុស​អាច​នឹង​មាន​លក្ខណៈ​បណ្ដោះអាសន្ន​ ហើយ​អ្នក​អាច​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ ។</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>តំបន់បណ្ដាញ​កំពុង​ជាប់​រវល់ ឬ​មិន​មាន​ជា​បណ្ដោះអាសន្ន ។ សូម​ព្យាយាម​នៅ​ពេល​បន្តិច​ទៀត ។</li> 
 <li>ប្រសិនបើ​អ្នក​មិន​អាច​ផ្ទុក​ទំព័រ​ណាមួយ​​ ​ពិនិត្យមើល​ទិន្នន័យ​របស់​ឧបករណ៍​ចល័ត ឬ​ការ​​ភ្ជាប់​វ៉ាយហ្វាយ​របស់​អ្នក ។</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "បាន​ទប់ស្កាត់​ដោយ​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ផ្ទុក​តាម​មធ្យោបាយ​នេះ​ទេ ពីព្រោះ​ទំព័រ​មាន​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា​ដែល​មិន​អនុញ្ញាត​ចំពោះ​វា ។</p>">
+<!ENTITY cspBlocked.title "បាន​ទប់ស្កាត់​ដោយ​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ផ្ទុក​តាម​មធ្យោបាយ​នេះ​ទេ ពីព្រោះ​ទំព័រ​មាន​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា​ដែល​មិន​អនុញ្ញាត​ចំពោះ​វា ។</p>">
 
 <!ENTITY corruptedContentError.title "កំហុស​មាតិកា​ដែល​ខូច">
 <!ENTITY corruptedContentError.longDesc "<p>ទំព័រ​ដែល​អ្នក​កំពុងតែ​ព្យាយាម​មើល​ មិន​អាច​បង្ហាញ​បាន​ទេ ពីព្រោះ​បាន​រក​ឃើញ​កំហុស​នៅ​ក្នុង​ការ​ផ្ទេរ​ទិន្នន័យ ។</p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ឲ្យ​ពួក​គេ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul>">

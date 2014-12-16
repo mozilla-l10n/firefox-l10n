@@ -19,3 +19,4 @@
 <!ENTITY aboutPage.relNotes.label               "ឯកសារ​ចេញផ្សាយ">
 <!ENTITY aboutPage.credits.label                "អ្នក​ចូលរួម">
 <!ENTITY aboutPage.license.label                "ព័ត៌មាន​អាជ្ញាប័ណ្ណ">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->

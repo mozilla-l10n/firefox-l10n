@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "បើក​កម្មវិធី…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ដំឡើង និង​ដំណើរការ">
-<!ENTITY projectMenu_play_accesskey "I">
+
 <!ENTITY projectMenu_stop_label "បញ្ឈប់​កម្មវិធី">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "កម្មវិធី​បំបាត់​កំហុស">
@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "ចំណូលចិត្ត">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+
+
 
 <!ENTITY runtimeMenu_label "ពេលវេលា​រត់">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -38,12 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "ម៉ូនីទ័រ">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "មើល">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "បិទ/បើក​ កម្មវិធី​កែ">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_zoomin_label "​ពង្រីក">
 
-<!ENTITY viewMenu_showAddons_accesskey "M">
+<!ENTITY viewMenu_zoomout_label "​បង្រួម">
+
+
+
 
 <!ENTITY projectButton_label "បើក​កម្មវិធី">
 <!ENTITY runtimeButton_label "ជ្រើស​ពេលវេលា​ដំណើរការ">
@@ -59,14 +67,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "គម្រោង​របស់​ខ្ញុំ">
 <!ENTITY projectPanel_runtimeApps "ពេលវេលា​ដំណើរការ​កម្មវិធី">
 <!ENTITY projectPanel_tabs "ផ្ទាំង">
-<!ENTITY runtimePanel_USBDevices "ឧបករណ៍​យូអេសប៊ី">
-<!ENTITY runtimePanel_WiFiDevices "ឧបករណ៍​វ៉ាយហ្វាយ">
+<!ENTITY runtimePanel_usb "ឧបករណ៍​យូអេសប៊ី">
+<!ENTITY runtimePanel_wifi "ឧបករណ៍​វ៉ាយហ្វាយ">
 
-<!ENTITY runtimePanel_custom "ផ្ទាល់ខ្លួន">
+<!ENTITY runtimePanel_other "ផ្សេងទៀត">
 <!ENTITY runtimePanel_installsimulator "ដំឡើង​កម្មវិធី​និម្មិត">
 <!ENTITY runtimePanel_noadbhelper "ដំឡើង​កម្មវិធី​ជំនួយ ADB">
 <!ENTITY runtimePanel_nousbdevice "មិន​អាច​មើល​ឧបករណ៍​របស់​អ្នក?">
@@ -101,8 +113,6 @@
 <!ENTITY prefs_general_title "ទូទៅ">
 <!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 
-<!ENTITY prefs_options_enablelocalruntime "បើក​ដំណើរការ​ពេលវេលា​មូលដ្ឋាន">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "អនុញ្ញាត​ឲ្យ WebIDE តភ្ជាប់​ទៅ​ពេលវេលា​ដំណើរការ​ផ្ទាល់​ខ្លួន​ (ដំណើរការ​កម្មវិធី​រុករក​ជំនួស)">
 <!ENTITY prefs_options_rememberlastproject "ចងចាំ​គម្រោង​ចុងក្រោយ">
 <!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
 <!ENTITY prefs_options_templatesurl "URL ពុម្ព">
@@ -131,6 +141,15 @@
 
 <!ENTITY runtimedetails_requestPrivileges "ស្នើ​សិទ្ធិ​ខ្ពស់​ជាង​នេះ">
 <!ENTITY runtimedetails_privilegesWarning "(នឹង​ចាប់ផ្ដើម​ឧបករណ៍​ឡើង​វិញ ។ ទាមទារ​ដំណើរការ​ជា root ។)">
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "ម៉ូនីទ័រ">

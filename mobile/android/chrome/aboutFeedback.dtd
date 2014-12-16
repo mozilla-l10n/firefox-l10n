@@ -17,9 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "អ្នក​ក៏​អាច​ទស្សនា ">
-<!ENTITY support.link              "ជំនួយ​របស់ &brandShortName;">
-<!ENTITY support.post2             " សម្រាប់​ព័ត៌មាន​លម្អិត។">
+
 
 <!ENTITY happy.header              "ប្រសើរ​ណាស់​ដែល​បាន​ឭ !">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -37,11 +35,11 @@
 
 <!ENTITY sad.message               "យើង​សូម​អភ័យទោស​ចំពោះ​ការ​ជួប​បញ្ហា​ជាមួយ &brandShortName;។ សូម​ប្រាប់​ពួក​យើង​អំពី​អ្វី​ដែល​បាន​កើតឡើង ដើម្បីឲ្យ​ពួក​យើង​កែតម្រូវ​វា ។">
 <!ENTITY sad.placeholder           "បញ្ចូល​មតិ​របស់​អ្នក​នៅ​ទីនេះ">
-<!ENTITY sad.lastSite              "តំបន់បណ្ដាញ​ដែល​បាន​ទស្សនា​ចុងក្រោយ (ជា​ជម្រើស)">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "អរគុណ​សម្រាប់​ការ​ជូនដំណឹង ។">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +50,4 @@
 
 <!ENTITY sad.thanksMessageBottom   "ឬ​ផ្សេងទៀត ។">
 
-<!ENTITY feedback.privacy          "សម្រាប់​ភាព​ឯកជន សូម​កុំ​បញ្ចូល​ព័ត៌មាន​ដែល​បញ្ជាក់​ពី​អត្តសញ្ញាណ​ផ្ទាល់​នៅ​ក្នុង​មតិ​អ្នកប្រើ ។">
 <!ENTITY feedback.send             "ផ្ញើ​មតិ​អ្នកប្រើ">

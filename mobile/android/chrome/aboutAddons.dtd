@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "កម្មវិធី​បន្ថែម">
 <!ENTITY aboutAddons.header2                    "កម្មវិធី​បន្ថែម​របស់​អ្នក">
 <!ENTITY aboutAddons.options                    "ជម្រើស">
-<!ENTITY aboutAddons.browseAll                  "រក​មើល​កម្មវិធី​បន្ថែម​ទាំងអស់​របស់ Firefox">
 
 <!ENTITY addonAction.enable                     "បើក">
 <!ENTITY addonAction.disable                    "បិទ">
