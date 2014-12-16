@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "តំណ​ការ​ផ្ទៀងផ្ទាត់​ត្រូវ​បាន​ផ្ញើ​ទៅ &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "ផ្ញើ​អ៊ីមែល​ម្ដង​ទៀត">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ផ្ញើ​អ៊ីមែល​ម្ដងទៀត">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "មិន​អាច​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
 <!ENTITY fxaccount_status_auth_server "ម៉ាស៊ីន​មេ​គណនី">
+
+
 <!ENTITY fxaccount_status_device_name "ឈ្មោះ​ឧបករណ៍">
 <!ENTITY fxaccount_status_sync_server "ធ្វើ​សមកាលកម្មម៉ាស៊ីន​មេ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

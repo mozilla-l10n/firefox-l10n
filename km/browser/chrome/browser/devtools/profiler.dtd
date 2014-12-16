@@ -36,6 +36,10 @@
   -  on a button that remvoes all the recordings. -->
 
 <!ENTITY profilerUI.clearButton "សម្អាត">
+<!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
+  -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
+  -  for the tree-inverting checkbox's label.  -->
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 

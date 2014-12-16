@@ -78,11 +78,13 @@
 <!ENTITY settings_title "ការ​កំណត់">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
+<!ENTITY pref_category_customize_summary "ផ្ទះ ស្វែងរក ផ្ទាំង នាំចូល">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ភាសា">
+<!ENTITY pref_category_language_summary "ប្ដូរ​ភាសា​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
 <!ENTITY pref_browser_locale "ភាសា​កម្មវិធី​រុករក">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -100,6 +102,8 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ចំណាំ">
 <!ENTITY overlay_share_reading_list_btn_label "បន្ថែម​ទៅ​បញ្ជី​អាន">
+<!ENTITY overlay_share_bookmark_btn_label_already "បាន​ចំណាំ​រួច">
+<!ENTITY overlay_share_reading_list_btn_label_already "នៅ​ក្នុង​បញ្ជី​អាន​រួចហើយ">
 <!ENTITY overlay_share_send_other "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -114,8 +118,11 @@
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_display "បង្ហាញ">
+<!ENTITY pref_category_display_summary "អត្ថបទ របារ​ចំណងជើង ការ​រកមើល​ពេញ​អេក្រង់">
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
+<!ENTITY pref_category_privacy_summary "គ្រប់គ្រង​ពាក្យសម្ងាត់ ខូគី ការ​តាមដាន ទិន្នន័យ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "អំពី &brandShortName;, FAQs, ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_learn_more "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក​ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា ហើយ​បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
+<!ENTITY pref_category_devtools_summary "ការ​កែ​កំហុស​ពី​ចម្ងាយ ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
@@ -164,17 +172,15 @@
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក​រួមបញ្ចូល​ទាំង​ភាគី​ទី ៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
-<!ENTITY pref_donottrack_menu "តាមដាន">
-<!ENTITY pref_donottrack_disallow_tracking "ប្រាប់​តំបន់បណ្ដាញ​ថា​ខ្ញុំ​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
-<!ENTITY pref_donottrack_allow_tracking "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​អត់​ឲ្យ​តាមដាន">
-<!ENTITY pref_donottrack_no_pref "កុំ​ប្រាប់​តំបន់បណ្ដាញ​អំពី​ចំណូលចិត្ត​តាមដាន​របស់​ខ្ញុំ">
+<!ENTITY pref_donottrack_title "កុំ​តាមដាន">
+<!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_clear_private_data2 "សម្អាត​ឥឡូវ​">
 <!ENTITY pref_clear_private_data_category "សម្អាត​ទិន្នន័យ​ឯកជន">
-<!ENTITY pref_clear_on_exit_title "តែងតែ​សម្អាត​ពេល​បិទ">
+<!ENTITY pref_clear_on_exit_title2 "សម្អាត​ពេល​ចេញ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ស្វ័យ​ប្រវត្តិ​ពេលណា​​ដែលអ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយមេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
@@ -203,10 +209,14 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "កញ្ជ្រោង​ពណ៌​ទឹកក្រូច​នឹង​ធ្វើ​​បាន​លើស​ពី​ការ​រំពឹង​ទុក​របស់​អ្នក​ទៅទៀត ដូចជា​ការ​បង្កើន​ល្បឿន ការ​បត់បែន និង​សុវត្ថិភាព ។ ដោយសារតែ​ការ​មិន​រក​ប្រាក់​ចំណេញ\យើង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​កែប្រែ​ដោយ​សេរី និង​ដោយ​មិន​មាន​ការ​ដាក់​កម្រិត​លើ​ការ​ខូចខាត​ឡើយ ។ មានន័យថា​វា​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​ដ៏​ល្អ និង​អនាគត​ដ៏​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ ។">
 
+
+
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
+
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
+
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_formdata "ទម្រង់ &amp; ប្រវត្តិ​ស្វែងរក">
 <!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
@@ -256,11 +266,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
-<!ENTITY datareporting_wifi_geolocation_summary "ចាប់​បាន Wi-Fi និង​ទិន្នន័យ​ទីតាំង​​​តាម​ទូរស័ព្ទ​ដៃ​នៅ​ពេល​កំពុង​ដំណើរការ​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ និង​ចែករំលែក​វា​ជាមួយ &vendorShortName; ដើម្បី​ជួយ​ធ្វើ​ឲ្យ​ប្រសើរ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​របស់​យើង">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "ទាញ​យក​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_update_autodownload_wifi "តែ​តាម​ហ្វាយវ៉ាយ​​ប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
+
 <!ENTITY set_image_chooser_title "កំណត់​រូបភាព​ជា">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -351,8 +361,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ ។">
 
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
-<!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -375,7 +388,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "ទំព័រ​ដើម &brandShortName;">
 <!ENTITY home_history_title "ប្រវត្តិ">
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនទេ?">
@@ -385,6 +401,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_open_all "បើកទាំង​អស់">
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -403,9 +421,28 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "ឡើង​ដល់ &formatS;">
 
+<!ENTITY home_remote_tabs_title "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
+
+<!ENTITY home_remote_tabs_unable_to_connect "មិន​អាច​តភ្ជាប់">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "ការ​រក​មើល​ឯកជន">
 <!ENTITY private_tabs_panel_empty_desc "ផ្ទាំង​ឯកជន​របស់អ្នក​នឹង​បង្ហាញ​នៅ​ទីនេះ។ ខណៈ​ដែលយើង​មិន​រក្សាទុកប្រវត្តិ ឬ​ខូឃី​, ចំណាំ និង​ឯកសារ​រុករក​របស់អ្នកណា​មួយ ដែលអ្នកទាញយក​នឹង​នៅ​តែ​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។">
 <!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់បន្ថែម?">
+
+
+
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
@@ -428,11 +465,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ដែល​រត់​ដោយ">
+<!ENTITY identity_no_info "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
+<!ENTITY identity_not_encrypted "ការ​តភ្ជាប់​របស់​អ្នក​ទៅកាន់​តំបន់បណ្ដាញ​នេះ​មិន​ទាន់​ត្រូវ​បាន​អ៊ិនគ្រីប​ទេ ។">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; បាន​ទប់ស្កាត់​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
 <!ENTITY blocked_mixed_content_message_bottom "តំបន់​បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ធម្មតា ទោះបី​មាតិកា​នេះ​ត្រូវ​បាន​បិទ​ក៏ដោយ។">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "សិក្សា​​បន្ថែម">
 <!ENTITY enable_protection "បើក​ការ​ការពារ">
 <!ENTITY disable_protection "បិទ​ការ​ការពារ">
@@ -460,8 +505,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "កម្មវិធី">
 
 <!ENTITY searchable_description "ចំណាំ និង​ប្រវត្តិ">
-
-<!ENTITY devtools_remote_debugging_forward "កុំ​ភ្លេង​កំណត់​ច្រក​បញ្ជូន​បន្ត!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
@@ -474,6 +517,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_apply_select2 "ប៉ះ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">
@@ -482,6 +528,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "បោះបង់">
 <!ENTITY new_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY new_guest_session_text "មនុស្ស​ដែល​ប្រើ​វា នឹង​មិន​អាច​មើល​ឃើញ​ការ​រុករក​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក (ដូចជា​ពាក្យសម្ងាត់, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក) បាន​ទេ។\n\nពេល​អ្នក​បាន​បញ្ចប់​សម័យ​ភ្ញៀវ, ទិន្នន័យ​ការ​រុករក​របស់​ពួកគេ​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​នឹង​ត្រូវ​ស្ដារ។">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូ​បាន​លុប។">
@@ -493,7 +541,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "ម៉ឺនុយ">
@@ -506,3 +554,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

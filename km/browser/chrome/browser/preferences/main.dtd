@@ -31,11 +31,7 @@
 <!ENTITY alwaysAsk.label "សួរ​ខ្ញុំ​ជានិច្ច​​អំពី​កន្លែង​ដែល​ត្រូវ​រក្សាទុក​ឯកសារ ">
 <!ENTITY alwaysAsk.accesskey "រ">
 
-<!ENTITY alwaysCheckDefault.label         "ពិនិត្យមើល​ជានិច្ច ថា​តើ &brandShortName; គឺជា​កម្មវិធី​រុករក​លំនាំដើម នៅ​ពេល​ចាប់ផ្ដើម​ដែរ​ឬទេ">
 
-
-<!ENTITY setAsMyDefaultBrowser.label      "ធ្វើឲ្យ &brandShortName; ជា​កម្មវិធី​រុករក​លំនាំដើម">
-<!ENTITY setAsMyDefaultBrowser.accesskey  "D">
 
 
 <!ENTITY isDefault.label                  "&brandShortName; បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក">

@@ -114,11 +114,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* មិន​ត្រូវ​បាន​គាំទ្រ​សម្រាប់​គោលដៅ​ប្រអប់​ឧបករណ៍​បច្ចុប្បន្ន">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "ជ្រើស​រូបរាង DevTools ៖">
+<!ENTITY options.selectDevToolsTheme.label2   "រូបរាង">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -184,3 +187,4 @@
 <!ENTITY options.sourceeditor.keybinding.label          "បន្សំ​គ្រាប់​ចុច">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "លំនាំ​ដើម">
+
