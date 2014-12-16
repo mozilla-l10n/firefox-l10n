@@ -14,9 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "แถบค้นหาช่วยให้คุณค้นเครื่องมืออื่นได้โดยตรง เลือกอันที่ต้องการแสดง">
 
+<!ENTITY engineNameColumn.label                "เครื่องมือค้นหา">
+<!ENTITY engineKeywordColumn.label             "คำสำคัญ">
 
-
-
+<!ENTITY restoreDefaultSearchEngines.label     "เรียกคืนเครื่องมือค้นหาปริยาย">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ป">
 
 <!ENTITY removeEngine.label                    "เอาออก">
 <!ENTITY removeEngine.accesskey                "อ">
