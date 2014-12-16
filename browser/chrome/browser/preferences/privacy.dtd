@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Saber-ne mas">
 <!ENTITY doNotTrackInfo.label           "Saber-ne mas">
 
+<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra d'adrezas">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Quan se faiga servir a barra d'adrezas, sucherir:">
+<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Marcapachinas">
+<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.openpage.label         "Ubrir as pestanyas">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
 
-
+<!ENTITY  keepUntil.label               "Conservar-las dica:">
+<!ENTITY  keepUntil.accesskey           "d">
 
 <!ENTITY  expire.label                  "que circumduzcan">
 <!ENTITY  close.label                   "que zarre o &brandShortName;">
