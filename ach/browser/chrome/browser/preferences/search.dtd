@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Lanyut me yeny weko i yenyo atir ingin ma igwenyo kingi. Yer mene me nyuto kama leng.">
 
+<!ENTITY engineNameColumn.label                "Ingin me Yeny">
+<!ENTITY engineKeywordColumn.label             "Lok mapire tek">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Dwok ingin me yeny makwongo">
+<!ENTITY restoreDefaultSearchEngines.accesskey "k">
+
+<!ENTITY removeEngine.label                    "Kwany">
+<!ENTITY removeEngine.accesskey                "K">
+
 <!ENTITY addMoreSearchEngines.label            "Med ingin me yeny mapol…">
