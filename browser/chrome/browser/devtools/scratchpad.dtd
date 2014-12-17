@@ -50,16 +50,21 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "প্রদর্শন">
+<!ENTITY viewMenu.accesskey           "প">
 
+<!ENTITY lineNumbers.label             "লাইন সংখ্যা দেখান">
+<!ENTITY lineNumbers.accesskey         "ল">
 
+<!ENTITY wordWrap.label                "পাঠ্য মোড়ান(W)">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "ট্রেলিং স্পেস হাইলাইট করুন(H)">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
-
-
-
-
-
-
+<!ENTITY largerFont.label             "অপেক্ষাকৃত বড় হরফ(a)">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
 
 
 
