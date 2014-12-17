@@ -80,7 +80,7 @@
 <!ENTITY runtimePanel_wifi "Wi-Fi aygıtları">
 <!ENTITY runtimePanel_simulator "Simülatörler">
 <!ENTITY runtimePanel_other "Diğer">
-<!ENTITY runtimePanel_installsimulator "Simülatörü yükle">
+<!ENTITY runtimePanel_installsimulator "Simülatör yükle">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!-- Lense -->
