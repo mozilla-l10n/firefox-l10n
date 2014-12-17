@@ -35,10 +35,10 @@
 <!ENTITY happy.maybeLater2         "Më vonë ndoshta">
 <!ENTITY happy.noThanks            "Jo, faleminderit">
 
-<!ENTITY sad.header                "Mos!">
+<!ENTITY sad.header                "Moos!">
 <!ENTITY sad.message               "Na vjen keq që patët ca probleme me &brandShortName;-in. Ju lutemi, na tregoni se çfarë ndodhi, që të mund ta ndreqim.">
 <!ENTITY sad.placeholder           "Jepni këtu përshtypjet tuaja">
-<!ENTITY sad.lastSite2             "Përfshini sajtin e vizituar së fundi">
+<!ENTITY sad.lastSite2             "Përfshini sajtin e fundit të vizituar">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">

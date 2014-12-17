@@ -26,9 +26,9 @@
     <strong>www</strong>.shembull.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Search</button>
+      <button id='searchbutton'>Kërkoni</button>
     </div>
-  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni për pajisjen tuaj lidhjen për të dhëna pse atë Wi-Fi.
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrollojini pajisjes tuaj lidhjen për të dhëna ose atë Wi-Fi.
     <button id='wifi'>Aktivizoni Wi-Fi-n</button>
   </li>
 </ul>
@@ -58,7 +58,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Kërkoni</button>
     </div>
-  <li>Sigurohuni që po përdorni pjerrake djathtas (d.m.th.
+  <li>Sigurohuni që po përdorni pjerrëse djathtas (d.m.th.
     <strong>/</strong>).</li>
 </ul>
 ">
