@@ -3,13 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File Menu -->
 
+<!ENTITY tabCmd.label "Aba do navegador">
+<!ENTITY tabCmd.accesskey "A">
+<!ENTITY tabCmd.commandkey "t">
 
 
-
-
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Abrir arquivo...">
 <!ENTITY openFileCmd.accesskey "o">
-
+<!ENTITY openFileCmd.commandkey "o">
 
 
 
@@ -99,34 +101,37 @@
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies por sessão para este site">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Este website será capaz de definir cookies apenas para a sessão atual.">
-
-
+<!ENTITY cookieCookiesDefaultCmd.label "Usar as permissões padrão de cookies">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Cookies deste website serão aceitos ou rejeitados com base nas configurações padrão.">
 <!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste site">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Cookies deste website serão sempre rejeitados.">
 
 <!ENTITY cookieImageMessageTitle.label "Permissões de imagens alterada">
-
-
-
-
+<!ENTITY cookieDisplayImagesCmd.label "Gerenciar permissão de imagens">
+<!ENTITY cookieDisplayImagesCmd.accesskey "G">
+<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste site">
+<!ENTITY cookieAllowImagesCmd.accesskey "P">
 <!ENTITY cookieAllowImagesMsg.label "As imagens deste site serão sempre baixadas.">
-
-
-<!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão baixadas com base nas configurações padrão.">
+<!ENTITY cookieImagesDefaultCmd.label "Usar padrão de permissão de imagens">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "As imagens deste site serão baixadas com base nas configurações padrão.">
 <!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste site">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão baixadas.">
+<!ENTITY cookieBlockImagesMsg.label "As imagens deste site nunca serão baixadas.">
 
-
+<!ENTITY cookieAllowPopupsCmd.label "Permitir popups deste site">
+<!ENTITY cookieAllowPopupsCmd.accesskey "P">
 <!ENTITY cookieManagePopups.label "Gerenciar popups">
 <!ENTITY cookieManagePopups.accesskey "G">
 
-
-
-
+<!ENTITY cookieCookieManager.label "Gerenciador de cookies">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Gerenciador de imagens">
+<!ENTITY cookieImageManager.accesskey "i">
 <!ENTITY cookiePopupManager.label "Gerenciador de popup">
 <!ENTITY cookiePopupManager.accesskey "o">
 
-
+<!ENTITY clearPrivateDataCmd.label "Limpar dados privados">
+<!ENTITY clearPrivateDataCmd.accesskey "e">

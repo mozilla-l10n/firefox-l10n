@@ -77,5 +77,5 @@
 <!ENTITY viewSecurityInfo.accesskey  "s">
 <!ENTITY viewCertificate.label       "Visualizar certificado">
 <!ENTITY viewCertificate.accesskey   "c">
-
-
+<!ENTITY viewCertManager.label       "Abrir gerenciador de certificados">
+<!ENTITY viewCertManager.accesskey   "A">

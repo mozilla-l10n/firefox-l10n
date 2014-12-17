@@ -9,12 +9,13 @@
 <!ENTITY privatebrowsingpage.title.private       "Você está em uma janela de navegação privativa">
 <!ENTITY privatebrowsingpage.title.normal        "Gostaria de iniciar a navegação privativa?">
 
+<!ENTITY privatebrowsingpage.status.private      "O &brandShortName; não se lembrará de nenhuma história para esta janela.">
 <!ENTITY privatebrowsingpage.status.normal       "Você não está em uma janela privativa atualmente.">
 
 <!ENTITY privatebrowsingpage.common.description  "Em uma aba privativa, o &brandShortName; não memoriza histórico, dados fornecidos a páginas e à barra de pesquisa, lista de downloads, cookies e arquivos temporários. Entretanto, serão preservados arquivos baixados e novos favoritos.">
 <!ENTITY privatebrowsingpage.track.warn          "Embora este computador não guardará registros do seu histórico, seu empregador ou provedor de internet ainda podem rastrear as páginas que você visita.">
-
-
+<!ENTITY privatebrowsingpage.learnmore.label     "Aprenda mais">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "m">
 
 <!ENTITY privatebrowsingpage.close.info          "Uma vez feito isso, feche a janela para interromper a navegação privativa.">
 <!ENTITY privatebrowsingpage.close.label         "Fechar esta janela agora">
