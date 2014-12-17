@@ -309,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.accesskey          "G"> 
 <!ENTITY redoCmd.label            "Yinele">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Y"> 
+<!ENTITY redoCmd.accesskey          "n"> 
 <!ENTITY cutCmd.label           "Kes">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "e"> 

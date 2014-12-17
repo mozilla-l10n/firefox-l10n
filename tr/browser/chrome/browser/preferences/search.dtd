@@ -14,10 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Arama çubuğu alternatif motorlarda doğrudan arama yapmanızı sağlar. Hangilerinin görüneceğini seçin.">
 
+<!ENTITY engineNameColumn.label                "Arama motoru">
 <!ENTITY engineKeywordColumn.label             "Anahtar kelime">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Varsayılan arama motorlarını geri yükle">
+<!ENTITY restoreDefaultSearchEngines.accesskey "V">
 
-
-
+<!ENTITY removeEngine.label                    "Kaldır">
+<!ENTITY removeEngine.accesskey                "K">
 
 <!ENTITY addMoreSearchEngines.label            "Daha fazla arama motoru ekle…">
