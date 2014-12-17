@@ -30,7 +30,7 @@ ve internete bağlı olduğunuzdan emin olun.</li>
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Büyük-küçük harflere ve yazım hatası olup olmadığına bakın.</li> 
-<li>Dosyanın taşınıp taşınmadığından, adının değiştirilip değişmediğinden ya da silinip silinmediğinden emin olun.</li> 
+<li>Dosyanın taşınmadığından, adının değiştirilmediğinden veya silinmediğinden emin olun.</li> 
 </ul>">
 
 
