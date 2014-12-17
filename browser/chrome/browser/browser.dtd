@@ -65,11 +65,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "y">
+<!ENTITY printSetupCmd.accesskey "ü">
 <!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "ö">
 <!ENTITY printCmd.label "Yazdır…">
-<!ENTITY printCmd.accesskey "Y">
+<!ENTITY printCmd.accesskey "z">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.accesskey "a">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
-<!ENTITY pageInfoCmd.accesskey "S">
+<!ENTITY pageInfoCmd.accesskey "b">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
