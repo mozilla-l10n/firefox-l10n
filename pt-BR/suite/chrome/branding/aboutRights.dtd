@@ -51,14 +51,14 @@
 <!ENTITY rights.addons-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.addons-term2 "Selecione o painel &smart.label; na categoria &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarque as opções &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
-
+<!ENTITY rights.addons-term4 "Os serviços dos complementos estão agora desativados">
 <!-- safe browsing points for branded builds -->
 
 
 <!ENTITY rights.safebrowsing-a "Navegação Segura: ">
 <!ENTITY rights.safebrowsing-b "A desativação da Navegação Segura não é recomendada pois pode resultar no uso de sites inseguros. Caso deseje desativar totalmente este recurso, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abra as preferências do aplicativo">
-
+<!ENTITY rights.safebrowsing-term2 "Selecione o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A Navegação Segura agora está desativada">
 <!-- points 1-6 text for branded builds -->

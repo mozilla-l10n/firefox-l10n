@@ -484,8 +484,8 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
-
-
+<!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
+<!ENTITY folderContextOpenNewTab.accesskey "a">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">

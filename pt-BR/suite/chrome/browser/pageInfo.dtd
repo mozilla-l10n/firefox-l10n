@@ -15,12 +15,12 @@
 <!ENTITY  selectall.accesskey    "a">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-
-
-
-
-
-
+<!ENTITY  copyLinks.label           "Copiar link(s)">
+<!ENTITY  copyLinks.accesskey       "l">
+<!ENTITY  openInNewTab.label        "Abrir em nova aba">
+<!ENTITY  openInNewTab.accesskey    "a">
+<!ENTITY  openInNewWindow.label     "Abrir em nova janela">
+<!ENTITY  openInNewWindow.accesskey "j">
 
 <!ENTITY  generalTab            "Geral">
 <!ENTITY  generalTab.accesskey  "G">
@@ -35,7 +35,7 @@
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Valor">
 <!ENTITY  generalSecurityDetails           "Detalhes">
-
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulários">
 <!ENTITY  formsTab.accesskey    "F">
