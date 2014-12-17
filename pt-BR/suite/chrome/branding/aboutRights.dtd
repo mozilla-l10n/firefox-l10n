@@ -45,6 +45,8 @@
 <!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativadas nas preferências do aplicativo.">
 <!-- add-on related points for branded builds -->
+
+<!ENTITY rights.addons-a "Serviços dos complementos:">
 <!ENTITY rights.addons-b "Por padrão, o &brandShortName; irá sugerir complementos e verificação de atualizações em intervalos regulares na página &view.discover.label;. Se você quiser desativar esses recursos para evitar a transmissão de informações sobre complementos instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.addons-term2 "Selecione o painel &smart.label; na categoria &advance.label;">
