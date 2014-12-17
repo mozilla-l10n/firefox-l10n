@@ -6,14 +6,15 @@
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
 
+<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
-
+<!ENTITY cmd.close.key                  "w">
 
 <!ENTITY view.columns.label             "Exibir colunas">
 <!ENTITY view.columns.accesskey         "u">
-
-
+<!ENTITY view.sort.label                "Ordenar">
+<!ENTITY view.sort.accesskey            "O">
 <!ENTITY view.unsorted.label            "Não ordenar">
 <!ENTITY view.unsorted.accesskey        "N">
 <!ENTITY view.sortAscending.label       "Ordem crescente">
@@ -21,9 +22,10 @@
 <!ENTITY view.sortDescending.label      "Ordem decrescente">
 <!ENTITY view.sortDescending.accesskey  "d">
 
-
-
-
+<!ENTITY cmd.findInBookmarks.label      "Localizar nos favoritos...">
+<!ENTITY cmd.findInBookmarks.accesskey  "L">
+<!ENTITY cmd.findCurrent.label          "Procurar na coleção atual...">
+<!ENTITY cmd.findCurrent.accesskey      "P">
 
 <!ENTITY cmd.exportHTML.label           "Exportar HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
@@ -32,10 +34,10 @@
 
 <!ENTITY cmd.backup.label               "Backup…">
 <!ENTITY cmd.backup.accesskey           "B">
-
-
-
-
+<!ENTITY cmd.restore2.label             "Restaurar">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Escolher arquivo...">
+<!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 
 
@@ -84,8 +86,8 @@
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 
-
-
+<!ENTITY search.scopeBookmarks.label               "Favoritos">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY saveSearch.label                          "Salvar">
 <!ENTITY saveSearch.accesskey                      "v">
 
