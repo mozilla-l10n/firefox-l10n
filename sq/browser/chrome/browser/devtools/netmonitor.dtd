@@ -244,7 +244,6 @@
   -  in the network details headers tab identifying the raw response headers textarea -->
 <!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Krye përgjigjeje:">
 
-
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->

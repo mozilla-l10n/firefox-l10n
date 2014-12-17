@@ -16,7 +16,7 @@
 <!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Kontakt Libri Adresash…">
 <!ENTITY newContact.accesskey "K">
-<!ENTITY attachMenu.label "Bashkangjitni">
+<!ENTITY attachMenu.label "Bashkëngjitni">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
@@ -202,7 +202,7 @@
 <!ENTITY sendButton.label "Dërgoje">
 <!ENTITY quoteButton.label "Citoje">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkangjitni">
+<!ENTITY attachButton.label "Bashkëngjitni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 <!ENTITY printButton.label "Shtypni">
