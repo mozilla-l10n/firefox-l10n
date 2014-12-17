@@ -370,8 +370,8 @@
 <!ENTITY moveToFolderAgain.label "Mover de novo">
 <!ENTITY moveToFolderAgain.accesskey "M">
 <!ENTITY moveToFolderAgainCmd.key "M">
-
-
+<!ENTITY killThreadMenu.label "Ignorar tópico">
+<!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "K">
 <!ENTITY killSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY killSubthreadMenu.accesskey "s">
@@ -480,13 +480,15 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Limpar dados de navegação…">
 <!ENTITY clearRecentHistory.accesskey "L">
-
-
+<!ENTITY accountManagerCmd2.label "Configurações de conta">
+<!ENTITY accountManagerCmd2.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-
-
+<!ENTITY allowRemoteDebugging.label "Permitir depuração remota">
+<!ENTITY allowRemoteDebugging.accesskey "d">
 <!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton1.label "Receber mensagens">
 <!ENTITY newMsgButton.label "Nova msg">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Re: Todos">
@@ -596,8 +598,8 @@
 
 <!ENTITY folderContextGetMessages.label "Receber mensagens">
 <!ENTITY folderContextGetMessages.accesskey "R">
-
-
+<!ENTITY folderContextOpenInNewWindow.label "Abrir em nova janela">
+<!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNew.label "Nova pasta…">
@@ -628,8 +630,8 @@
 
 <!ENTITY folderContextFavoriteFolder.label "Pasta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "P">
-
-
+<!ENTITY folderContextSettings2.label "Configurações">
+<!ENTITY folderContextSettings2.accesskey "C">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Localizar nome ou e-mail:">
@@ -670,7 +672,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
-
+<!ENTITY threadColumn2.tooltip "Exibir tópicos de mensagens">
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
