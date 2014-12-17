@@ -17,9 +17,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "Kwany tic woko">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "Ma imaro">
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Ma imaro pi nonyo">
 
 
 <!ENTITY viewMenu_label "Nen">
@@ -63,7 +63,7 @@
 
 
 
-
+<!ENTITY projectPanel_tabs "Dirica matidi">
 
 
 
@@ -72,12 +72,12 @@
 
 
 <!-- Lense -->
-
-
-
+<!ENTITY details_warning_header "cik">
+<!ENTITY details_error_header "bal">
+<!ENTITY details_description "Lok ikome">
 <!ENTITY details_location "Kabedo">
 
-
+<!ENTITY details_removeProject_button "Kwany tic woko">
 <!-- New App -->
 
 
@@ -91,6 +91,8 @@
 <!ENTITY addons_aboutaddons "Yab Gin madoro Lamed ne">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "Ma imaro">
+
 <!ENTITY prefs_general_title "Lumuku">
 <!ENTITY prefs_restore "Dwok i ma pire kene">
 
@@ -100,17 +102,17 @@
 
 
 
+<!ENTITY prefs_options_tabsize "Dit pa dirica matidi">
 
-
-
+<!ENTITY prefs_options_expandtab_tooltip "Tii ki kabedo me kaka kit me dirica matidi">
 
 <!ENTITY prefs_options_detectindentation_tooltip "Byek kabedo ma i kin kacako coc kun i jenge ikom gin manonge kama oaa iye">
-
+<!ENTITY prefs_options_autocomplete "Tyek pire kene">
 
 <!ENTITY prefs_options_autoclosebrackets "Lor bracket pire kene">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ket bracket ma loro pire kene">
-
-
+<!ENTITY prefs_options_keybindings "Twec mapire tek">
+<!ENTITY prefs_options_keybindings_default "Makwongo">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Nying">
 <!-- Runtime Details -->
