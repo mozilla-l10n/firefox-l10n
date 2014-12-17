@@ -99,14 +99,18 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "হ্রাস করা উৎসগুলিকে স্বয়ংক্রিয়ভাবে ব্ল্যাক বক্স করুন">
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+
+<!ENTITY debuggerUI.searchPanelOperators    "অপারেটরসমূহ:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "স্ক্রিপ্টগুলি ফিল্টার করুন">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
-
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
@@ -139,6 +143,8 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables           "ভেরিয়েবল ট্রিতে ফোকাস করুন">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -153,11 +159,15 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "শর্তাধীন বিরতি বিন্দু যোগ করুন">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-
+<!ENTITY debuggerUI.tabs.sources        "উৎসগুলি">
+<!ENTITY debuggerUI.tabs.traces         "চিহ্নগুলি">
+<!ENTITY debuggerUI.tabs.callstack      "কল স্তূপ">
 <!ENTITY debuggerUI.tabs.variables      "ভেরিয়েবল">
 <!ENTITY debuggerUI.tabs.events         "ঘটনাসমূহ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
