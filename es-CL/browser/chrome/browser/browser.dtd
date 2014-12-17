@@ -287,7 +287,7 @@
 
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
+<!ENTITY urlbar.placeholder2 "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a pestaña:">
 
