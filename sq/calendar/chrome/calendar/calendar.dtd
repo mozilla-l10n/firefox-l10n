@@ -32,9 +32,9 @@
 <!ENTITY calendar.unifinder.tree.done.label                "I kryer">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Renditi sipas kryerjesh">
 <!ENTITY calendar.unifinder.tree.priority.label            "Përparësi">
-<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Renditi sipas përparësisë">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Renditi sipas përparësish">
 <!ENTITY calendar.unifinder.tree.title.label               "Titull">
-<!ENTITY calendar.unifinder.tree.title.tooltip2            "Renditi sipas titullit">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Renditi sipas titujsh">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Plotësuar">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Renditi sipas &#37; plotësimit">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Fillim">
