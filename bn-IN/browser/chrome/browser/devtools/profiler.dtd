@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "ক্লিক করুন">
+<!ENTITY profilerUI.emptyNotice2    "JavaScript ফাংশন কল রেকর্ড করা শুরু করার জন্য বাটন।">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
+
+<!ENTITY profilerUI.stopNotice1    "ক্লিক করুন">
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -28,14 +34,20 @@
 <!ENTITY profilerUI.clearButton "মুছে ফেলুন">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "ইনভার্ট কল ট্রী">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
-
-
+<!ENTITY profilerUI.table.totalDuration   "মোট সময় (ms)">
+<!ENTITY profilerUI.table.selfDuration    "নিজস্ব সময় (ms)">
+<!ENTITY profilerUI.table.totalPercentage "মোট দাম">
+<!ENTITY profilerUI.table.selfPercentage  "নিজস্ব দাম">
+<!ENTITY profilerUI.table.samples         "নমুনা">
+<!ENTITY profilerUI.table.function        "ফাংশন">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
+
+<!ENTITY profilerUI.newtab.tooltiptext "নির্বাচন থেকে নতুন ট্যাব যোগ করুন">
