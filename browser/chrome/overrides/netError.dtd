@@ -27,7 +27,7 @@
   <li>revise si elarchivo fue movido, renombrado o eliminado.</li>
 </ul>
 ">
-<!ENTITY generic.title "Ups.">
+<!ENTITY generic.title "¡Diantres!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; no puede cargar esta página por alguna razón.</p>
 ">
@@ -43,7 +43,7 @@
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como unaprecaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles.</li><li>Apriete Intentar nuevamente para volver a solicitar el documento desde el sitio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles.</li><li>Apriete Intentar nuevamente para volver a solicitar el documento desde el sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
