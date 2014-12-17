@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Traka pretraživanja vam omogućava izravno korištenje tražilica. Odaberite one koje želite da budu prikazane.">
 
+<!ENTITY engineNameColumn.label                "Pretraživač">
+<!ENTITY engineKeywordColumn.label             "Ključna riječ">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Vrati zadane pretraživače">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+
+<!ENTITY removeEngine.label                    "Ukloni">
+<!ENTITY removeEngine.accesskey                "U">
+
 <!ENTITY addMoreSearchEngines.label            "Dodaj više tražilica…">
