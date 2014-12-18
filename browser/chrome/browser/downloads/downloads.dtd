@@ -20,6 +20,7 @@
      For example, in English, a long string would be:
 
      59 minutes, 59 seconds remaining - 1022 of 1023 KB
+
      That's 50 characters, so we set the width at 50ch.
      -->
 <!ENTITY downloadDetails.width            "50ch">

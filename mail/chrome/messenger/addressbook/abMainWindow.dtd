@@ -139,7 +139,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey                   "a"> 
 
-
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Kontakt i Ri">
 <!ENTITY newContactButton.accesskey                     "K">

@@ -31,6 +31,7 @@
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Punë">
 <!ENTITY lightning.menu.view.tasks.accesskey           "P">
+<!-- properties dialog, calendar creation wizard -->
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Veprimtari dhe Punë">

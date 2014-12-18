@@ -39,10 +39,10 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Nëse ky produkt përmban shërbime web, çfarëdo kushti i zbatueshëm për shërbimin(et) do të duhej të lidhej me ">
-<!ENTITY rights.intro-point4b-unbranded "ndarjen Shërbime Sajti Web">
+<!ENTITY rights.intro-point4b-unbranded "ndarjen Shërbime Sajtesh">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
-<!ENTITY rights.webservices-header "Shërbime Sajti Web &brandFullName;">
+<!ENTITY rights.webservices-header "Shërbime Sajtesh &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
