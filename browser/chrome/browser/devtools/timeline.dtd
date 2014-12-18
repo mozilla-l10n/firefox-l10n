@@ -31,7 +31,9 @@
   -  in the timeline view when empty. -->
 
 <!ENTITY timelineUI.emptyNotice1    "ক্লিক করুন">
-
+<!ENTITY timelineUI.emptyNotice2    "টাইমলাইন ইভেন্ট রেকর্ড শুরু করতে বাটন করুন।">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "ক্লিক করুন">
+<!ENTITY timelineUI.stopNotice2    "রেকর্ড করা বন্ধ করতে আবার বাটন করুন।">

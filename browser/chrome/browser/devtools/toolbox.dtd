@@ -36,19 +36,29 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "ব্রাউজার স্টাইল দেখান">
-
+<!ENTITY options.showUserAgentStyles.tooltip "এটি চালু করলে, ব্রাউজার দ্বারা লোড করা ডিফল্ট স্টাইল দেখানো হবে।">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "ডিফল্ট রঙ ইউনিট">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "ড">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "হেক্স">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
@@ -86,16 +96,24 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "ডিফল্ট Firefox ডেভেলপার টুল">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "অ্যাড-ওন দিয়ে ইনস্টল করা ডেভেলপার টুল">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "উপলব্ধ টুলবাক্স বোতাম">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* বর্তমান টুলবাক্স টার্গেটের ক্ষেত্রে সমর্থিত নয়">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
@@ -104,6 +122,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "ডেভেলপার সংস্করণ ব্রাউজার থীম ব্যবহার করুন">
+<!ENTITY options.usedeveditiontheme.tooltip "ডেভেলপার সংস্করণ ব্রাউজার থীম অদলবদল করুন।">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -111,6 +131,8 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "টাইমস্ট্যাম্প সক্রিয় করুন">
+<!ENTITY options.timestampMessages.tooltip    "অাপনি এই বিকল্প কম্যান্ড সক্রিয় করলে এবং ওয়েব কনসোলে অাউটপুট একটি সময়স্ট্যাম্প দেখাবে">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -155,12 +177,15 @@ Gecko প্ল্যাটফর্ম সংকেত অন্তর্ভু
   -  section. -->
 
 
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.label                     "সম্পাদকের পছন্দসই">
+<!ENTITY options.sourceeditor.detectindentation.label   "ইন্ডেনটেশন শনাক্ত করুন">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "সোর্স বিষয়বস্তুর ভিত্তিতে ইন্ডেনটেশেনের অনুমান করুন">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "বন্ধনী স্বয়ং-বন্ধ">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "সমাপ্তি বন্ধনী স্বয়ংক্রিয় ভাবে দিন">
+<!ENTITY options.sourceeditor.expandtab.label           "শূন্যস্থান দিয়ে ইন্ডেন্ট">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব অক্ষরের বদলে স্পেস ব্যবহার করুন">
+<!ENTITY options.sourceeditor.tabsize.label             "ট্যাবের মাপ(T)">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "কি-বাইন্ডিং(K)">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "ডিফল্ট">

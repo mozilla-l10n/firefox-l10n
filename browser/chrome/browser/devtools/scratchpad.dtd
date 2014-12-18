@@ -66,11 +66,13 @@
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 
+<!ENTITY smallerFont.label            "অপেক্ষাকৃত ছোট হরফ(m)">
+<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
+<!ENTITY normalSize.label             "স্বাভাবিক মাপ">
+<!ENTITY normalSize.accesskey         "স">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "সম্পাদনা">
 <!ENTITY editMenu.accesskey           "E">
@@ -87,8 +89,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "প্রিটি প্রিন্ট">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "প">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -146,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "বর্তমান ফাংশন মূল্যায়ন করুন">
+<!ENTITY evalFunction.accesskey "ম">
+<!ENTITY evalFunction.key "e">

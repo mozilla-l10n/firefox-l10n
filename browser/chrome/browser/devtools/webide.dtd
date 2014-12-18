@@ -11,16 +11,16 @@
 <!ENTITY projectMenu_importPackagedApp_label "মুক্ত প্যাকেজড অ্যাপ...">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "মুক্ত হোস্টেড অ্যাপ...">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "অ্যাপ খুলুন...">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ইন্সটল এবং রান করুন">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "অ্যাপ বন্ধ করুন">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "অ্যাপ ডিবাগ করুন">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "প্রোজেক্ট সরান">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "পছন্দসমূহ">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
@@ -34,16 +34,16 @@
 <!ENTITY runtimeMenu_showPermissionTable_label "অনুমতি টেবিল">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্রিনশট">
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "মনিটর">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "ডিভাইস সংক্রান্ত পছন্দ">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "প্রদর্শন">
-
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "সম্পাদনা টগল করুন">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "বড় মাপে প্রদর্শন">
@@ -68,11 +68,12 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 
 
 
 
-
+<!ENTITY projectPanel_runtimeApps "রানটাইম অ্যাপসমূহ">
 <!ENTITY projectPanel_tabs "ট্যাব">
 <!ENTITY runtimePanel_usb "USB ডিভাইসসমূহ">
 <!ENTITY runtimePanel_wifi "Wi-Fi ডিভাইসসমূহ">
@@ -86,20 +87,24 @@
 <!ENTITY details_valid_header "বৈধ">
 <!ENTITY details_warning_header "সতর্কবার্তা">
 <!ENTITY details_error_header "ত্রুটিসমূহ">
-
+<!ENTITY details_description "বিবরণ">
 <!ENTITY details_location "অবস্থান">
-
-
+<!ENTITY details_manifestURL "অ্যাপ আইডি">
+<!ENTITY details_removeProject_button "প্রোজেক্ট সরান">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "নতুন অ্যাপ">
+<!ENTITY newAppHeader "টেমপ্লেট নির্বাচন করুন">
+<!ENTITY newAppLoadingTemplate "টেমপ্লেট লোড করা হচ্ছে...">
+<!ENTITY newAppProjectName "প্রোজেক্ট নাম:">
 <!-- Decks -->
 
 
 
 <!ENTITY deck_close "বন্ধ করুন">
 <!-- Addons -->
+
+<!ENTITY addons_title "বাড়তি কম্পোনেন্টসমূহ">
 <!ENTITY addons_aboutaddons "খুলুন Add-ons ম্যানেজার">
 <!-- Prefs -->
 
@@ -114,13 +119,13 @@
 
 
 
+<!ENTITY prefs_options_expandtab_tooltip "ট্যাব অক্ষরের বদলে স্পেস ব্যবহার করুন">
+
+<!ENTITY prefs_options_detectindentation_tooltip "সোর্স বিষয়বস্তুর ভিত্তিতে ইন্ডেনটেশেনের অনুমান করুন">
 
 
-
-
-
-
-
+<!ENTITY prefs_options_autoclosebrackets "বন্ধনী স্বয়ং-বন্ধ">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "সমাপ্তি বন্ধনী স্বয়ংক্রিয় ভাবে দিন">
 
 <!ENTITY prefs_options_keybindings_default "ডিফল্ট">
 <!-- Permissions Table -->
