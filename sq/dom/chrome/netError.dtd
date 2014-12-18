@@ -97,7 +97,7 @@
 %netErrorAppDTD;
 
 <!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga një Rregull Sigurie Lënde">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Shfletuesi pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që e pengon këtë.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Shfletuesi e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që e pengon këtë.</p>">
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul>">

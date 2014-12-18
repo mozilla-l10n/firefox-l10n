@@ -5,6 +5,7 @@
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Veprimtari e Re…">
 <!ENTITY event.new.event.accesskey              "N">
+
 <!ENTITY event.new.task                         "Punë e Re…">
 <!ENTITY event.new.task.accesskey               "P">
 
@@ -13,7 +14,6 @@
 
 <!ENTITY calendar.export.label                  "Eksportoni…">
 <!ENTITY calendar.export.accesskey              "E">
-
 <!ENTITY calendar.publish.label                 "Botoni…">
 <!ENTITY calendar.publish.accesskey             "b">
 

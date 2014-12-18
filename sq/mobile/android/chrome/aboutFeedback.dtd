@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre3              "Vizitoni ">
 <!ENTITY support.link2             "Sajtin tonë të Asistencës">
-<!ENTITY support.post3             " që të merrni përgjigje për probleme të rëndomta.">
+<!ENTITY support.post3             " që të gjeni përgjigje për çështje të rëndomta.">
 
 <!ENTITY happy.header              "Gëzohemi për sa thoni!">
 
@@ -53,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy2         "Për hir të privatësisë suaj, ju lutemi, mos përfshini në përshtypjet tuaja çfarëdo të dhënash personale të identifikueshme.">
+<!ENTITY feedback.privacy2         "Për hir të privatësisë suaj, ju lutemi, mos përfshini në përshtypjet tuaja çfarëdo të dhënash personale.">
 <!ENTITY feedback.send             "Dërgojini Përshtypjet">
