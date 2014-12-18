@@ -164,6 +164,7 @@
 <!-- Localization note: &formatS; is the Firefox account"s email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Një lidhje verifikimi u dërgua te &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ridërgoje email-in">
+<!ENTITY fxaccount_confirm_account_change_email "Të harrohet kjo adresë email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email-i i verifikimit u dërgua">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S\&apos;u dërgua dot email-i i verifikimit">
 
@@ -183,6 +184,8 @@
 <!ENTITY fxaccount_status_header2 "Llogari Firefox">
 <!ENTITY fxaccount_status_signed_in_as "I futur si">
 <!ENTITY fxaccount_status_auth_server "Shërbyes llogarie">
+<!ENTITY fxaccount_status_sync_now "Njëkohësoje tani">
+<!ENTITY fxaccount_status_syncing2 "Po njëkohësohet…">
 <!ENTITY fxaccount_status_device_name "Emër pajisjeje">
 <!ENTITY fxaccount_status_sync_server "Shërbyes Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

@@ -394,6 +394,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Shtoni një sajt">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Kreu i &brandShortName;-it">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_clear_history_button "Pastro historikun e shfletimit">
 <!ENTITY home_clear_history_confirm "Jeni i sigurt se doni të pastrohet historiku i shfletimeve tuaja?">
@@ -403,6 +406,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Skedat tuaja të herës së fundit, shfaqen këtu.">
 <!ENTITY home_open_all "Hapi krejt">
 <!ENTITY home_most_recent_empty "Sajtet që keni vizituar së fundi, shfaqen këtu.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: përdorimi i një &formatS1;Skede të Re Private&formatS2; nuk do të shkaktojë ruajtjen e historikut tuaj.">
 <!ENTITY home_reading_list_empty "Artikujt që keni ruajtur për më vonë, shfaqen këtu.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -470,6 +476,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "që i përket">
+<!ENTITY identity_no_info "Ky sajt nuk jep të dhëna identiteti.">
+<!ENTITY identity_not_encrypted "Lidhja juaj me këtë sajt nuk është e koduar.">
+
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Kjo faqe po shfaq lëndë që nuk është e sigurt.">
@@ -562,3 +571,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Njëkohësuar së fundi: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
