@@ -19,8 +19,8 @@
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-
-
+<!ENTITY  locbar.openpage.label         "Öppna flikar">
+<!ENTITY  locbar.openpage.accesskey     "Ö">
 
 <!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -31,7 +31,8 @@
 <!ENTITY  acceptThirdParty.never.label    "aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "från platser jag besökt">
 
-
+<!ENTITY  keepUntil.label               "Behåll tills:">
+<!ENTITY  keepUntil.accesskey           "B">
 
 <!ENTITY  expire.label                  "de förfaller">
 <!ENTITY  close.label                   "&brandShortName; stängs">
