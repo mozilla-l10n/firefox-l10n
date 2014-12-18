@@ -174,7 +174,7 @@
 <!ENTITY pref_cookies_disabled "Të çaktivizuara">
 
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
-<!ENTITY pref_donottrack_summary "&brandShortName;-i do t&apos;u thotë sajteve se nuk doni të gjurmoheni">
+<!ENTITY pref_donottrack_summary "&brandShortName;-i do t\&apos;u thotë sajteve se nuk doni të gjurmoheni">
 
 <!ENTITY pref_char_encoding "Kodim shkronjash">
 <!ENTITY pref_char_encoding_on "Shfaqe menunë">
