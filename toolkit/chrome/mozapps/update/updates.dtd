@@ -73,7 +73,7 @@ en kısa sürede uygulamanız şiddetle tavsiye edilir.">
 kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla görüşün ve yardım alın.">
 
 <!ENTITY  finishedPage.title              "Güncelleme kurulmaya hazır">
-<!ENTITY  finishedPage.text               "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak. &brandShortName; tarayıcısını 
+<!ENTITY  finishedPage.text               "Güncelleme bir sonraki &brandShortName; açılışında kurulacak. &brandShortName; tarayıcısını 
 hemen baştan başlatabilir veya şimdi işinize devam edip daha sonra da baştan başlatabilirsiniz.">
 
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; için bir güvenlik ve kararlılık güncellemesi 

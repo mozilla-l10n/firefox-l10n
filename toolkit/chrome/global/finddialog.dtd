@@ -9,10 +9,10 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Büyük/küçük harfe duyarlı">
 <!ENTITY caseSensitiveCheckbox.accesskey "B">
-<!ENTITY wrapCheckbox.label "Baştan başla">
-<!ENTITY wrapCheckbox.accesskey "l">
-<!ENTITY findButton.label "Bul">
-<!ENTITY findButton.accesskey "B">
+<!ENTITY wrapCheckbox.label "Kaydır">
+<!ENTITY wrapCheckbox.accesskey "K">
+<!ENTITY findButton.label "Sonrakini bul">
+<!ENTITY findButton.accesskey "S">
 <!ENTITY cancelButton.label "Vazgeç">
 <!ENTITY closeButton.label "Kapat">
 <!ENTITY up.label "Yukarı">
