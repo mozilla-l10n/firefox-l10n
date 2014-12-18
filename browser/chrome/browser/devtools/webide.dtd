@@ -69,10 +69,11 @@
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
+<!ENTITY projectPanel_myProjects "আমার প্রোজেক্টসমূহ">
 <!ENTITY projectPanel_runtimeApps "রানটাইম অ্যাপসমূহ">
 <!ENTITY projectPanel_tabs "ট্যাব">
 <!ENTITY runtimePanel_usb "USB ডিভাইসসমূহ">
@@ -108,43 +109,51 @@
 <!ENTITY addons_aboutaddons "খুলুন Add-ons ম্যানেজার">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "পছন্দসমূহ">
+<!ENTITY prefs_editor_title "সম্পাদক">
 <!ENTITY prefs_general_title "সাধারণ">
 <!ENTITY prefs_restore "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_manage_components "বাড়তি কম্পোনেন্টসমূহ পরিচালনা করুন">
+<!ENTITY prefs_options_rememberlastproject "শেষ প্রোজেক্ট মনে রাখুন">
+<!ENTITY prefs_options_rememberlastproject_tooltip "যখন WebIDE শুরু হবে তখন আগের প্রোজেক্ট রিস্টোর করুন">
+<!ENTITY prefs_options_templatesurl "টেমপ্লেটসমূহের URL">
+<!ENTITY prefs_options_templatesurl_tooltip "উপলব্ধ টেমপ্লেটসমূহের ইন্ডেক্স">
+<!ENTITY prefs_options_showeditor "এডিটর দেখান">
+<!ENTITY prefs_options_showeditor_tooltip "অন্তর্বর্তী এডিটর দেখান">
+<!ENTITY prefs_options_tabsize "ট্যাবের পরিমাপ">
+<!ENTITY prefs_options_expandtab "নরম ট্যাবসমূহ">
 <!ENTITY prefs_options_expandtab_tooltip "ট্যাব অক্ষরের বদলে স্পেস ব্যবহার করুন">
-
-<!ENTITY prefs_options_detectindentation_tooltip "সোর্স বিষয়বস্তুর ভিত্তিতে ইন্ডেনটেশেনের অনুমান করুন">
-
-
-<!ENTITY prefs_options_autoclosebrackets "বন্ধনী স্বয়ং-বন্ধ">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "সমাপ্তি বন্ধনী স্বয়ংক্রিয় ভাবে দিন">
-
+<!ENTITY prefs_options_detectindentation "স্বয়ংছিদ্র">
+<!ENTITY prefs_options_detectindentation_tooltip "উৎস বিষয়বস্তুর উপর ভিত্তি করে খাঁজ অনুমান">
+<!ENTITY prefs_options_autocomplete "স্বয়ংসম্পন্ন">
+<!ENTITY prefs_options_autocomplete_tooltip "কোড স্বয়ংসম্পন্নতা সক্রিয় করুন">
+<!ENTITY prefs_options_autoclosebrackets "ব্র্যাকেটসমূহ স্বয়ংবন্ধ করুন">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "স্বয়ংভাবেই বন্ধ হওয়ার ব্র্যাকেট ঢোকান">
+<!ENTITY prefs_options_keybindings "কি-বাইন্ডিং">
 <!ENTITY prefs_options_keybindings_default "ডিফল্ট">
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "অনুমতি টেবিল">
 <!ENTITY permissionstable_name_header "নাম">
 <!-- Runtime Details -->
 
-
-
-
-
+<!ENTITY runtimedetails_title "রানটাইম তথ্য">
+<!ENTITY runtimedetails_adbIsRoot "ADB হল রুট: ">
+<!ENTITY runtimedetails_summonADBRoot "রুট ডিভাইস">
+<!ENTITY runtimedetails_ADBRootWarning "(আনব্লক বুটলোডার প্রয়োজন)">
+<!ENTITY runtimedetails_restrictedPrivileges "DevTools সীমিত অধিকার: ">
+<!ENTITY runtimedetails_requestPrivileges "উচ্চ অধিকার অনুরোধ করুন">
 
 <!-- Device Preferences -->
 
 
 
 
-
-
-
-
+<!ENTITY devicepreferences_typeboolean "Boolean">
+<!ENTITY devicepreferences_typenumber "পূর্ণসংখ্যা">
+<!ENTITY devicepreferences_typestring "স্ট্রিং">
+<!ENTITY devicepreferences_typenone "ধরন নির্বাচন করুন">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "মনিটর">
 <!ENTITY monitor_help "সাহায্য">
