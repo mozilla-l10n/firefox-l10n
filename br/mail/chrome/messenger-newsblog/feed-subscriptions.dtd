@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Koumanantoù da lanvioù">
-
+<!ENTITY learnMore.label             "Gouzout hiroc'h a-zivout al lanvioù">
 
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
