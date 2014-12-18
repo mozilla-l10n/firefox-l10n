@@ -39,7 +39,6 @@
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Pranojeni">

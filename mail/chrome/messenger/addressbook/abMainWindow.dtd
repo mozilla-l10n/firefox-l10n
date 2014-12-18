@@ -87,7 +87,7 @@
 <!ENTITY menubarCmd.label                               "Shtyllë Menush">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Adresash">
-<!ENTITY showAbToolbarCmd.accesskey                     "a">
+<!ENTITY showAbToolbarCmd.accesskey                     "L">
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjesh">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Përshtateni…">
@@ -227,7 +227,7 @@ because displayed names don't have the comma in between. -->
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Dritare">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizo">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Bjeri të Tëra Përpara">
 <!ENTITY zoomWindow.label "Zoom">
