@@ -19,13 +19,15 @@
   -  in the call list view while recording a profile. -->
 
 <!ENTITY profilerUI.stopNotice1    "ক্লিক করুন">
-
+<!ENTITY profilerUI.stopNotice2    "প্রোফাইল বন্ধ করতে বাটন করুন।">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "লোড করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "JavaScript ফাংশন কল রেকর্ড করুন।">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
