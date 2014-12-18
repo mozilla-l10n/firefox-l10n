@@ -35,8 +35,6 @@
      maximum length. For English, this seems like a reasonable limit:
 
      + 999 other downloads
-     + 999 shkarkime të tjera
-
      that's 21 characters, so we set the minimum width to 21ch.
      -->
 <!ENTITY downloadsSummary.minWidth2       "25ch">

@@ -103,8 +103,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Faqeruajeni">
 <!ENTITY overlay_share_reading_list_btn_label "Shtojeni te Listë Leximesh">
-<!ENTITY overlay_share_bookmark_btn_label_already "Faqeruajtur tashmë">
-<!ENTITY overlay_share_reading_list_btn_label_already "Te Lista e Leximeve tashmë">
+<!ENTITY overlay_share_bookmark_btn_label_already "E faqeruajtur një herë">
+<!ENTITY overlay_share_reading_list_btn_label_already "E pranishme Tashmë te Lista e Leximeve">
 <!ENTITY overlay_share_send_other "Dërgojeni në pajisje të tjera">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -123,8 +123,8 @@
 <!ENTITY pref_category_privacy_short "Privatësi">
 <!ENTITY pref_category_privacy_summary "Mbani nën kontroll fjalëkalime, cookie, gjurmime, të dhëna">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Mbi &brandShortName;-in, FAQ, zgjedhje mbi të dhënat">
 <!ENTITY pref_category_datareporting "Zgjedhje të dhënash">
-<!ENTITY pref_category_vendor_summary "Mbi &brandShortName;, FAQ, zgjedhje të dhënash">
 <!ENTITY pref_learn_more "Mësoni më tepër">
 <!ENTITY pref_category_installed_search_engines "Motorë të instaluar kërkimesh">
 <!ENTITY pref_category_add_search_providers "Shtoni më tepër furnizues kërkimesh">
