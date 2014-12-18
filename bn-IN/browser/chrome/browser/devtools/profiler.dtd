@@ -42,6 +42,8 @@
 <!ENTITY profilerUI.invertTree "ইনভার্ট কল ট্রী">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "প্রোফাইলের কল পাথের কনিষ্ঠ ফ্রেম থেকে শুরু এবং বয়স্ক ফ্রেম আউট পর্যন্ত বিস্তৃত কল ট্রী প্রদর্শন ইনভার্টা করা হচ্ছে।">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
