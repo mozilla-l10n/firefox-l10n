@@ -39,7 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Övervaka">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Enhetsinställningar">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Visa">
@@ -69,7 +69,7 @@
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
-
+<!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
@@ -145,6 +145,8 @@
 <!ENTITY runtimedetails_requestPrivileges "begär högre rättigheter ">
 <!ENTITY runtimedetails_privilegesWarning "(Kommer starta om enheten. Kräver root åtkomst.)">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreferences_title "Enhetsinställningar">
 <!ENTITY devicepreferences_search "Sökinställningar">
 <!ENTITY devicepreferences_newname "Nytt inställnings namn">
 <!ENTITY devicepreferences_newtext "Inställnings värde">

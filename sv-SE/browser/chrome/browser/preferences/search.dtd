@@ -9,4 +9,13 @@
 
 
 
+<!ENTITY engineNameColumn.label                "Sökmotor">
+<!ENTITY engineKeywordColumn.label             "Nyckelord">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Återställ standard sökmotorer">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
+
+<!ENTITY removeEngine.label                    "Ta bort">
+<!ENTITY removeEngine.accesskey                "T">
+
 <!ENTITY addMoreSearchEngines.label            "Hämta fler sökmotorer…">
