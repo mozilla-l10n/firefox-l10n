@@ -143,12 +143,14 @@
 <!ENTITY runtimedetails_ADBRootWarning "(আনব্লক বুটলোডার প্রয়োজন)">
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools সীমিত অধিকার: ">
 <!ENTITY runtimedetails_requestPrivileges "উচ্চ অধিকার অনুরোধ করুন">
-
+<!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 <!-- Device Preferences -->
 
-
-
-
+<!ENTITY devicepreferences_title "ডিভাইস সংক্রান্ত পছন্দ">
+<!ENTITY devicepreferences_search "পছন্দসমূহ অনুসন্ধান করুন">
+<!ENTITY devicepreferences_newname "নতুন পছন্দের নাম">
+<!ENTITY devicepreferences_newtext "পছন্দের মান">
+<!ENTITY devicepreferences_addnew "নতুন পছন্দ যোগ করুন">
 <!ENTITY devicepreferences_typeboolean "Boolean">
 <!ENTITY devicepreferences_typenumber "পূর্ণসংখ্যা">
 <!ENTITY devicepreferences_typestring "স্ট্রিং">
