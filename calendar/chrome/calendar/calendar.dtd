@@ -335,7 +335,7 @@
 
 <!ENTITY calendar.print.window.title "Natisni koledar">
 <!ENTITY calendar.print.title.label "Naslov:">
-<!ENTITY calendar.print.layout.label "Postavitev">
+<!ENTITY calendar.print.layout.label "Razporeditev">
 <!ENTITY calendar.print.range.label "Območje tiskanja">
 <!ENTITY calendar.print.currentView2.label "Trenutni pogled">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Izbrani dogodki/opravila">
