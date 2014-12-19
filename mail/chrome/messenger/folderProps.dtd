@@ -16,7 +16,7 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Vključi sporočila v tej mapi v rezultate Splošnega iskanja">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
      
-<!ENTITY retention.label "Pravila zadrževanja">
+<!ENTITY retention.label "Politika zadrževanja">
 <!ENTITY retentionUseAccount.label  "Uporabi moje nastavitve računa">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dni">
