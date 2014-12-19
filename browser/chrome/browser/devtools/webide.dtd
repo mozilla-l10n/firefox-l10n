@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Abrir aplicativo aloxado…">
 <!ENTITY projectMenu_importHostedApp_accesskey "x">
 <!ENTITY projectMenu_selectApp_label "Abrir aplicativo…">
-<!ENTITY projectMenu_selectApp_accesskey "o">
+<!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instalar e executar">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Deter aplicativo">
@@ -28,11 +28,11 @@
 <!ENTITY projectMenu_manageComponents_accesskey "m">
 
 <!ENTITY runtimeMenu_label "Tempo de execución">
-<!ENTITY runtimeMenu_accesskey "p">
+<!ENTITY runtimeMenu_accesskey "T">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Táboa de permisos">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "p">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "l">
 <!ENTITY runtimeMenu_showDetails_label "Información do tempo de execución">
@@ -40,7 +40,7 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias do dispositivo">
-<!ENTITY runtimeMenu_showDevicePrefs_accesskey "d">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
