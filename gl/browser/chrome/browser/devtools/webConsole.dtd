@@ -68,7 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Rexistro">
 <!ENTITY btnPageLogging.tooltip "Rexistrar as mensaxes enviadas ao obxecto window.console">
-<!ENTITY btnPageLogging.accesskey3 "l">
+<!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors       "Erros">
 <!ENTITY btnConsoleInfo         "Información">
 <!ENTITY btnConsoleWarnings     "Avisos">
