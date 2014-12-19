@@ -14,9 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағы арқылы қосымша іздеу қызметтері арқылы іздеуге мүмкін етеді. Көрсетілетіндерді таңдаңыз.">
 
+<!ENTITY engineNameColumn.label                "Іздеу жүйесі">
+<!ENTITY engineKeywordColumn.label             "Кілтсөз">
 
-
-
+<!ENTITY restoreDefaultSearchEngines.label     "Бастапқы іздеу жүйелерін қалпына келтіру">
+<!ENTITY restoreDefaultSearchEngines.accesskey "д">
 
 <!ENTITY removeEngine.label                    "Өшіру">
 <!ENTITY removeEngine.accesskey                "ш">
