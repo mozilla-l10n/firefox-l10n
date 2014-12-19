@@ -149,13 +149,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "u">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Bu bağlantıyı paylaş">
-<!ENTITY shareLink.accesskey "B">
+<!ENTITY shareLink.accesskey "a">
 <!ENTITY shareImage.label "Bu resmi paylaş">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "s">
 <!ENTITY shareSelect.label "Seçimi paylaş">
 <!ENTITY shareSelect.accesskey "m">
 <!ENTITY shareVideo.label "Bu videoyu paylaş">
-<!ENTITY shareVideo.accesskey "B">
+<!ENTITY shareVideo.accesskey "v">
 <!ENTITY feedsMenu.label "Abone ol">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
@@ -459,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "Resme bak">
 <!ENTITY viewImageCmd.accesskey       "R">
 <!ENTITY viewImageInfoCmd.label       "Resim bilgilerini göster">
-<!ENTITY viewImageInfoCmd.accesskey   "b">
+<!ENTITY viewImageInfoCmd.accesskey   "n">
 <!ENTITY viewImageDescCmd.label       "Açıklamayı göster">
 <!ENTITY viewImageDescCmd.accesskey   "A">
 <!ENTITY viewVideoCmd.label           "Videoyu izle">
@@ -493,13 +493,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "Sesi farklı kaydet…">
 <!ENTITY saveAudioCmd.accesskey       "f">
 <!ENTITY emailImageCmd.label          "Resmi e-posta ile gönder…">
-<!ENTITY emailImageCmd.accesskey      "e">
+<!ENTITY emailImageCmd.accesskey      "ö">
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
-<!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY emailVideoCmd.accesskey      "ö">
 <!ENTITY castVideoCmd.label           "Videoyu aygıta gönder">
 <!ENTITY castVideoCmd.accesskey       "a">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
-<!ENTITY emailAudioCmd.accesskey      "e">
+<!ENTITY emailAudioCmd.accesskey      "ö">
 <!ENTITY playPluginCmd.label          "Bu yan uygulamayı etkinleştir">
 <!ENTITY playPluginCmd.accesskey      "e">
 <!ENTITY hidePluginCmd.label          "Bu yan uygulamayı gizle">

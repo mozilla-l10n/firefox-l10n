@@ -58,13 +58,13 @@
 <!ENTITY certPicker.detailsLabel "Seçilen sertifikanın ayrıntıları:">
 
 <!ENTITY pkcs12.setpassword.title  "Sertifika yedeği için bir parola seçin">
-<!ENTITY pkcs12.setpassword.message  "Koyduğunuz onay belgesi yedekleme parolası, oluşturmak istediğiniz yedekleme dosyalarını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız.">
-<!ENTITY pkcs12.setpassword.label1 "Onay belgesi yedekleme parolası:">
-<!ENTITY pkcs12.setpassword.label2 "Onay belgesi yedekleme parolası (tekrar):">
-<!ENTITY pkcs12.setpassword.reminder "Önemli: Eğer onay belgesi yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.">
+<!ENTITY pkcs12.setpassword.message  "Burada belirttiğiniz sertifika yedeği parolası, oluşturmak üzere olduğunuz yedek dosyasını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız.">
+<!ENTITY pkcs12.setpassword.label1 "Sertifika yedek parolası:">
+<!ENTITY pkcs12.setpassword.label2 "Sertifika yedek parolası (tekrar):">
+<!ENTITY pkcs12.setpassword.reminder "Önemli: Eğer sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemexsiniz. Lütfen bunu güvenli bir yere kaydedin.">
 
 <!ENTITY pkcs12.getpassword.title  "Parola Giriş Penceresi">
-<!ENTITY pkcs12.getpassword.message "Lütfen güvenlik onay belgesini ve onun özel anahtarını yedekleyen parolanızı girin.">
+<!ENTITY pkcs12.getpassword.message "Lütfen bu sertifika yedeğini şifrelemek için kullanılan parolayı girin.">
 
 <!ENTITY chooseToken.title  "Jeton Seçim Kutusu">
 <!ENTITY chooseToken.message1 "Lütfen bir jeton seçin.">
