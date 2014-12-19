@@ -294,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Yeni pencere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
-<!ENTITY newPrivateWindow.label     "Yeni gizli pencere">
+<!ENTITY newPrivateWindow.label     "\u00ADYeni gizli pencere">
 <!ENTITY newPrivateWindow.accesskey "n">
 
 <!ENTITY editMenu.label         "Düzen"> 
