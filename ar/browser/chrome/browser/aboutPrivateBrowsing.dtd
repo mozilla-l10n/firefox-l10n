@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "تتصفح بخصوصية">
-<!ENTITY aboutPrivateBrowsing.title.normal     "افتح نافذة خاصة">
+<!ENTITY aboutPrivateBrowsing.title.normal     "أأفتح نافذة خاصة؟">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "لن يحفظ &brandShortName; أيّ تأريخ لهذه النافذة.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "لن يحفظ &brandShortName; أيّ تأريخ للنوافذ الخاصة.">
