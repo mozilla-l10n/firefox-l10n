@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "لِج إلى &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "أعِد الاتصال مع &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; مفعّل">
-<!ENTITY syncStartPanel2.subTitle "سيبدأ &brandShortName; في المزامنة حالًا">
+<!ENTITY syncStartPanel2.subTitle "سيبدأ &brandShortName; في المزامنة حالًا.">
 <!ENTITY syncErrorPanel.heading "تعذّر الاتصال مع &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "من فضلك لِج لمواصلة المزامنة.">
 <!ENTITY syncErrorPanel.signInButton.label "لج">
@@ -245,7 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "ص">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "القطارة">
+<!ENTITY eyedropper.accesskey "ق">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -272,8 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserContentToolboxMenu.label     "صندوق أدوات محتوى المتصفح">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "أغلق شريط المطورين">
-<!ENTITY devToolbarMenu.label              "شريط المطورين">
+<!ENTITY devToolbarCloseButton.tooltiptext "أغلق شريط أدوات المطورين">
+<!ENTITY devToolbarMenu.label              "شريط أدوات المطورين">
 <!ENTITY devToolbarMenu.accesskey          "ط">
 <!ENTITY devAppMgrMenu.label               "مدير التطبيقات">
 <!ENTITY devAppMgrMenu.accesskey           "م">
@@ -305,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.accesskey       "ح"> 
 <!ENTITY undoCmd.label            "تراجع">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ر"> 
+<!ENTITY undoCmd.accesskey          "ت"> 
 <!ENTITY redoCmd.label            "أعِد">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ع"> 
@@ -346,9 +347,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "تأريخ">
 <!ENTITY historyMenu.accesskey "ت">
-<!ENTITY historyUndoMenu.label "الألسنة المُغلقة حديثًا">
+<!ENTITY historyUndoMenu.label "الألسنة المُغلقة مؤخرًا">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "النوافذ المغلقة حديثًا">
+<!ENTITY historyUndoWindowMenu.label "النوافذ المغلقة مؤخرًا">
 <!ENTITY historyRestoreLastSession.label "استعد الجلسة السابقة">
 
 <!ENTITY showAllHistoryCmd2.label "أظهر كل التأريخ">
@@ -357,7 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "خصّص">
 <!ENTITY appMenuCustomize.tooltip "خصّص القائمة و أشرطة الأدوات">
 <!ENTITY appMenuCustomizeExit.label "أغلق التخصيص">
-<!ENTITY appMenuCustomizeExit.tooltip "أنه التخصيص">
+<!ENTITY appMenuCustomizeExit.tooltip "أنهِ التخصيص">
 <!ENTITY appMenuHistory.label "التأريخ">
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
@@ -495,7 +496,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ص">
 <!ENTITY emailVideoCmd.label          "أرسل الڤديو بالبريد…">
 <!ENTITY emailVideoCmd.accesskey      "ڤ">
-<!ENTITY castVideoCmd.label           "أرسل الڤديو إلى جهاز…">
+<!ENTITY castVideoCmd.label           "أرسل الڤديو إلى جهاز">
 <!ENTITY castVideoCmd.accesskey       "ڤ">
 <!ENTITY emailAudioCmd.label          "أرسل الصوت بالبريد…">
 <!ENTITY emailAudioCmd.accesskey      "ت">
@@ -714,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "دليل التفعيل">
 <!ENTITY social.directory.text "يمكنك تفعيل خدمات المشاركة من هذا الدليل.">
 <!ENTITY social.directory.button "خذني إلى هناك!">
-<!ENTITY social.directory.introText "انقر على خدمة لتضيفها إلى &brandShortName;">
+<!ENTITY social.directory.introText "انقر على خدمة لتضيفها إلى &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "اعرض المزيد">
 
 <!ENTITY customizeMode.tabTitle "خصّص &brandShortName;">

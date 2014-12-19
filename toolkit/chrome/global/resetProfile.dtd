@@ -10,6 +10,6 @@
 <!ENTITY refreshProfile.dialog.button.label  "أنعش &brandShortName;">
 
 <!ENTITY refreshProfile.title                "حسّن أداء &brandShortName;">
-<!ENTITY refreshProfile.button.label         "أنعش &brandShortName;">
+<!ENTITY refreshProfile.button.label         "أنعش &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "أوشكنا على الانتهاء…">

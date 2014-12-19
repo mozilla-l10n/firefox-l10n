@@ -55,8 +55,8 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
-<!ENTITY contentEncodingError.longDesc "<ul>
- <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> 
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "نوع ملف غير آمن">
