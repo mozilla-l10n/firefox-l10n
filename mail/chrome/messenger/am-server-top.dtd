@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Eliminala inmediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Limpar (&quot;Expurgar&quot;) a Caixa de entrada ao saír">
+<!ENTITY expungeOnExit.label "Borrar (&quot;Expurgar&quot;) a Caixa de entrada ao saír">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Baleirar o lixo ao saír">
 <!ENTITY emptyTrashOnExit.accesskey "x">

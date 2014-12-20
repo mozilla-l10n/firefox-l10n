@@ -31,7 +31,7 @@
 <!ENTITY addTagButton.accesskey    "d">
 <!ENTITY editTagButton.label       "Editar">
 <!ENTITY editTagButton.accesskey   "t">
-<!ENTITY removeTagButton.label     "Borrar">
+<!ENTITY removeTagButton.label     "Eliminar">
 <!ENTITY removeTagButton.accesskey "o">
 
 <!-- Fonts and Colors -->

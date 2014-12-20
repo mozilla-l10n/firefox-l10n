@@ -79,7 +79,7 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "x">
-<!ENTITY deleteCmd.label "Borrar">
+<!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "o">
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
@@ -257,7 +257,7 @@
 <!ENTITY smiley16Cmd.label "Labios selados">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Non se encontraron suxestións">
+<!ENTITY spellCheckNoSuggestions.label "Non se atoparon suxestións">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar a palabra">
 <!ENTITY spellCheckIgnoreWord.accesskey "a">
 <!ENTITY spellCheckAddToDictionary.label "Engadir ao dicionario">
@@ -275,7 +275,7 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "b">
-<!ENTITY delete.label "Borrar">
+<!ENTITY delete.label "Eliminar">
 <!ENTITY delete.accesskey "o">
 <!ENTITY removeAttachment.label "Retirar anexo">
 <!ENTITY removeAttachment.accesskey "E">

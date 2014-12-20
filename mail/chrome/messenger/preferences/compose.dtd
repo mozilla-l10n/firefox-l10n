@@ -22,7 +22,7 @@
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Cor de fondo:">
 <!ENTITY bgColor.accesskey                    "r">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar predefinidos">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar predeterminados">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY spellCheck.label                     "Verificar a ortografía antes do envío">
