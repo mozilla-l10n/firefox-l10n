@@ -72,7 +72,7 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
-<!ENTITY fxaccount_full_label "Аккаунты Firefox">
+<!ENTITY fxaccount_full_label "Учётные записи Firefox">
 <!ENTITY fxaccount_custom_server_account_title "Используется учётная запись на сервере">
 <!ENTITY fxaccount_custom_server_sync_title "Данные синхронизации хранятся на сервере">
 <!ENTITY fxaccount_email_hint "Эл. почта">
@@ -135,7 +135,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Синхронизация настроена, но автоматически не запущена. Установите флажок «Автосинхронизация» в меню «Настройки &gt; Использование данных» Android.">
 <!ENTITY fxaccount_status_needs_account_enabled "Синхронизация настроена, но автоматически не запущена. Нажмите, чтобы начать синхронизацию.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Нажмите, чтобы войти в новую учётную запись Firefox.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Нажмите, чтобы войти в новую Учётную запись Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Закладки">
 <!ENTITY fxaccount_status_history "История">
 <!ENTITY fxaccount_status_passwords "Пароли">
@@ -144,7 +144,7 @@
 <!ENTITY fxaccount_status_linktos "Условия службы">
 <!ENTITY fxaccount_status_linkprivacy "Уведомление о приватности">
 <!ENTITY fxaccount_status_more "Подробнее&ellipsis;">
-<!ENTITY fxaccount_remove_account_dialog_title "Удалить учётную запись Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_title "Удалить Учётную запись Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; остановит синхронизацию с вашей учётной записью, но не будет удалять ничего из ваших данных веб-сёрфинга на этом устройстве.">
 <!ENTITY fxaccount_remove_account_toast "Учётная запись Firefox &formatS; удалена.">
 <!ENTITY fxaccount_remove_account_menu_item "Удалить учётную запись">
