@@ -310,9 +310,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.label            "Қайталау">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "й"> 
-<!ENTITY cutCmd.label           "Қию">  
+<!ENTITY cutCmd.label           "Қиып алу">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ю"> 
+<!ENTITY cutCmd.accesskey         "ы"> 
 <!ENTITY copyCmd.label            "Көшіру">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ш"> 
