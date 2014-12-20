@@ -259,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "r">
+<!ENTITY scratchpad.accesskey         "h">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Limpar historial recente…">
+<!ENTITY clearRecentHistory.label               "Borrar historial recente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Rematar a personalización">
 <!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Amosar todo o historial">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar historial recente…">
+<!ENTITY appMenuHistory.clearRecent.label "Borrar historial recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver o panel do historial">
 <!ENTITY appMenuHelp.tooltip "Abrir o menú de axuda">
@@ -644,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
-<!ENTITY spellAddDictionaries.accesskey "E">
+<!ENTITY spellAddDictionaries.accesskey "g">
 
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
