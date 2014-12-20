@@ -425,7 +425,7 @@
 <!ENTITY openMessageWindowCmd.label "Hape Mesazhin">
 <!ENTITY openMessageWindowCmd.accesskey "H">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Hape në Bashkëbisedim">
+<!ENTITY openConversationCmd.label "Hape si Bisedë">
 <!ENTITY openConversationCmd.accesskey "B">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Bashkëngjitje">
@@ -707,7 +707,7 @@
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Hape Mesazhin në Skedë të Re">
 <!ENTITY contextOpenNewTab.accesskey "S">
-<!ENTITY contextOpenConversation.label "Hape Mesazhin në Bashkëbisedim">
+<!ENTITY contextOpenConversation.label "Hape Mesazhin si Bisedë">
 <!ENTITY contextOpenConversation.accesskey "B">
 <!ENTITY contextOpenContainingFolder.label "Hape Mesazhin në Dosjen Që e Përmban">
 <!ENTITY contextOpenContainingFolder.accesskey "n">

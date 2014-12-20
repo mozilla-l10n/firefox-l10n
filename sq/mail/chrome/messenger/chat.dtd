@@ -4,11 +4,11 @@
 
 <!ENTITY onlineContactsHeader.label    "Kontakte Në Linjë">
 <!ENTITY offlineContactsHeader.label   "Kontakte Jo Në Linjë">
-<!ENTITY conversationsHeader.label     "Bashkëbisedime">
+<!ENTITY conversationsHeader.label     "Biseda">
 <!ENTITY searchResultConversation.label "Përfundime kërkimi">
-<!ENTITY chat.noConv.title             "Bashkëbisedimet do të shfaqen këtu.">
-<!ENTITY chat.noConv.description       "Përdorni listën e kontakteve te kuadrati majtas që të nisni një bashkëbisedim.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName;-i hëpërhë nuk ka ndonjë bashkëbisedim të mëparshëm të ruajtur për këtë kontakt.">
+<!ENTITY chat.noConv.title             "Biseda do të shfaqen këtu.">
+<!ENTITY chat.noConv.description       "Përdorni listën e kontakteve te kuadrati majtas që të nisni një bisedë.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName;-i hëpërhë nuk ka ndonjë bisedë të mëparshmë të ruajtur për këtë kontakt.">
 <!ENTITY chat.noAccount.title             "Ende nuk keni të rregulluar ndonjë llogari fjalosjeje.">
 <!ENTITY chat.noAccount.description       "Lëreni &brandShortName;-in t&apos;ju udhëheqë nëpër procesin e rregullimit të llogarisë suaj të fjalosjes.">
 <!ENTITY chat.accountWizard.button       "Fillojani">
@@ -17,20 +17,20 @@
 <!ENTITY chat.showAccountManager.button       "Shfaq gjendje fjalosjeje">
 
 <!ENTITY chat.participants             "Pjesëmarrës:">
-<!ENTITY chat.previousConversations    "Bashkëbisedime të Mëparshme:">
-<!ENTITY chat.ongoingConversation      "Bashkëbisedime në zhvillim e sipër">
+<!ENTITY chat.previousConversations    "Biseda të Mëparshme:">
+<!ENTITY chat.ongoingConversation      "Biseda në zhvillim e sipër">
 
-<!ENTITY openConversationCmd.label     "Nisni një Bashkëbisedim">
+<!ENTITY openConversationCmd.label     "Nisni një Bisedë">
 <!ENTITY openConversationCmd.accesskey "N">
-<!ENTITY closeConversationCmd.label    "Mbylle Bashkëbisedimin">
+<!ENTITY closeConversationCmd.label    "Mbylle Bisedën">
 <!ENTITY closeConversationCmd.accesskey "M">
 <!ENTITY aliasCmd.label                "Riemërtoje">
 <!ENTITY aliasCmd.accesskey            "R">
 <!ENTITY deleteCmd.label               "Hiqe Kontaktin">
 <!ENTITY deleteCmd.accesskey           "H">
 
-<!ENTITY openConversationButton.tooltip  "Nisni një bashkëbisedim">
-<!ENTITY closeConversationButton.tooltip "Mbylleni bashkëbisedimin">
+<!ENTITY openConversationButton.tooltip  "Nisni një bisedë">
+<!ENTITY closeConversationButton.tooltip "Mbylleni bisedën">
 
 <!ENTITY addBuddyButton.label          "Shtoni Një Kontakt">
 <!ENTITY joinChatButton.label          "Hyni Në Fjalosje">
