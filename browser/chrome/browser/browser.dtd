@@ -95,6 +95,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Vytvoriť kópiu karty">
+<!ENTITY mirrorTabCmd.accesskey "k">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Prejsť do režimu Na celú obrazovku">
