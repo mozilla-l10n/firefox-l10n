@@ -48,10 +48,6 @@
 <!ENTITY Unknown.label                  "Nuk dihet">
 <!ENTITY chatName.label                 "Emër Fjalosjeje:">
 
-<!ENTITY allowRemoteContent1.label       "Lejo lëndë të largët.">
-<!ENTITY allowRemoteContent1.accesskey   "L">
-<!ENTITY allowRemoteContent1.tooltip     "Në mesazhet HTML është e mundur të trupëzohet lëndë nga burime të largëta. Hapja e mesazheve të tillë do të hapë një lidhje me këtë burim të jashtëm. Kjo mund të lejojë gjurmimin e mesazhit që lexohet. Duke i vënë shenjë kësaj kutize, do të lejoni për mesazhe HTML prej këtij kontakti lëndë të tillë të jashtme të trupëzuar.">
-
 <!ENTITY WorkPhone.label                "Pune:">
 <!ENTITY WorkPhone.accesskey            "u">
 <!ENTITY HomePhone.label                "Banese:">
