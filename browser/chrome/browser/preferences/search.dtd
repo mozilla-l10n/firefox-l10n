@@ -6,8 +6,8 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Zgjidhni motorin tuaj parazgjedhje për kërkimet. &brandShortName;-i e përdor atë te shtylla e vendeve, shtylla e kërkimeve, dhe faqja e fillimit.">
 
-<!ENTITY provideSearchSuggestions.label        "Jep këshillime kërkimesh">
-<!ENTITY provideSearchSuggestions.accesskey    "J">
+<!ENTITY provideSearchSuggestions.label        "Ofro këshillime kërkimesh">
+<!ENTITY provideSearchSuggestions.accesskey    "O">
 
 
 <!ENTITY oneClickSearchEngines.label           "Motorë kërkimesh me një klikim">
@@ -17,7 +17,7 @@
 <!ENTITY engineNameColumn.label                "Motor Kërkimesh">
 <!ENTITY engineKeywordColumn.label             "Fjalëkyç">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Rikthe Motorin Parazgjedhje të Kërkimeve">
+<!ENTITY restoreDefaultSearchEngines.label     "Rikthe Motorët Parazgjedhje të Kërkimeve">
 <!ENTITY restoreDefaultSearchEngines.accesskey "R">
 
 <!ENTITY removeEngine.label                    "Hiqe">

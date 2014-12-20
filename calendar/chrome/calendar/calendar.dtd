@@ -91,7 +91,6 @@
 <!ENTITY calendar.alarm.dismiss.label               "Hidhe Tej" >
 <!ENTITY calendar.alarm.dismissall.label            "Hidhi Tej të Tëra" >
 
-
 <!ENTITY calendar.newevent.button.label         "Veprimtari e Re" >
 <!ENTITY calendar.newtask.button.label          "Punë e Re" >
 <!ENTITY calendar.print.button.label            "Shtype" >
@@ -346,7 +345,6 @@
 
 <!ENTITY calendar.copylink.label       "Kopjo Vend Lidhjeje">
 <!ENTITY calendar.copylink.accesskey   "K">
-
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

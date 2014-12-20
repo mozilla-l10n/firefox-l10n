@@ -137,7 +137,7 @@
 <!ENTITY menubarCmd.accesskey "S">
 <!ENTITY showMessengerToolbarCmd.label "Panel Poste">
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
-<!ENTITY customizeToolbar.label "Përshtatni…">
+<!ENTITY customizeToolbar.label "Përshtateni…">
 <!ENTITY customizeToolbar.accesskey "N">
 
 <!ENTITY messagePaneLayoutStyle.label "Skemë">
