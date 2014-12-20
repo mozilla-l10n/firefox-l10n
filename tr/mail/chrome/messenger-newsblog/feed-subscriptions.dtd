@@ -29,8 +29,8 @@
 
 <!ENTITY button.addFeed.label        "Ekle">
 <!ENTITY button.addFeed.accesskey    "l">
-<!ENTITY button.editFeed.label       "Düzenle">
-<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.editFeed.label       "Güncelle">
+<!ENTITY button.editFeed.accesskey   "G">
 <!ENTITY button.removeFeed.label     "Kaldır">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "İçe aktar">

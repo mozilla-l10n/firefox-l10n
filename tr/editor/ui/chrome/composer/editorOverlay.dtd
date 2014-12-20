@@ -14,7 +14,7 @@
 <!ENTITY pasteAs.label "Farklı yapıştır">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
-<!ENTITY pasteAsQuotationCmd.accesskey "o">
+<!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Bul…">
 <!ENTITY findReplaceCmd.label "Bul ve değiştir…">

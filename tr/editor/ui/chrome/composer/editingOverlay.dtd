@@ -26,7 +26,7 @@
 <!ENTITY fileRevert.accesskey "G">
 <!-- Edit menu items -->
 
-<!ENTITY publishSettings.label "Yayın sitesi ayarları">
+<!ENTITY publishSettings.label "Yayın sitesi ayarları…">
 <!ENTITY publishSettings.accesskey "Y">
 <!-- Toolbar buttons/items -->
 

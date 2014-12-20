@@ -671,24 +671,24 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
+<!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
+<!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
+<!ENTITY subjectColumn2.tooltip "Konuya göre sırala">
+<!ENTITY dateColumn2.tooltip "Tarihe göre sırala">
+<!ENTITY priorityColumn2.tooltip "Önceliğe göre sırala">
+<!ENTITY tagsColumn2.tooltip "Etiketlere göre sırala">
+<!ENTITY accountColumn2.tooltip "Hesaba göre sırala">
+<!ENTITY statusColumn2.tooltip "Duruma göre sırala">
+<!ENTITY sizeColumn2.tooltip "Boyuta göre sırala">
+<!ENTITY junkStatusColumn2.tooltip "Gereksiz durumuna göre sırala">
 <!ENTITY unreadColumn2.tooltip "Dizideki okunmamış iletilerin sayısı">
 <!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Okunma durumuna göre sırala">
+<!ENTITY receivedColumn2.tooltip "Alınma tarihine göre sırala">
+<!ENTITY starredColumn2.tooltip "Yıldıza göre sırala">
+<!ENTITY locationColumn2.tooltip "Konuma göre sırala">
+<!ENTITY idColumn2.tooltip "Alınmaya göre sırala">
 
 <!-- Thread Pane Context Menu -->
 

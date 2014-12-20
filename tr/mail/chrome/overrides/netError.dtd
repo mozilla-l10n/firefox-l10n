@@ -79,7 +79,7 @@ gibi yanlış yazılmış olabilir.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
-<!ENTITY proxyResolveFailure.longDesc " <ul> 
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> 
 <li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
 <li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> 
