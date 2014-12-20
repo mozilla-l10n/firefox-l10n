@@ -47,23 +47,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName;-i mund t&apos;ia lehtësojë software-it tuaj anti-virus analizat për viruse në mesazhe poste ardhëse, përpara se ato të depozitohen lokalisht.">
 <!ENTITY antiVirus.label      "Lejo klientë anti-virus të vendosin në karantinë mesazhe të veçantë ardhës">
 <!ENTITY antiVirus.accesskey  "L">
-
-<!ENTITY itemCookies.label       "Lëndë Web">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;-i ju lejon të përcaktoni cilëve blogje, prurje lajmesh, dhe sajtesh të tjerë u lejohet të depozitojnë cookies.">
-<!ENTITY acceptCookies.label            "Prano cookies prej sajtesh">
-<!ENTITY acceptCookies.accesskey        "P">
-<!ENTITY keepUntil.label                "Mbaji:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "deri sa të skadojnë">
-<!ENTITY close.label                    "deri sa të mbyll &brandShortName;-in">
-<!ENTITY askEachTime.label              "pyetmë çdo herë">
-<!ENTITY cookieExceptions.label         "Përjashtime…">
-<!ENTITY cookieExceptions.accesskey     "ë">
-<!ENTITY showCookies.label              "Shfaqni Cookie-t…">
-<!ENTITY showCookies.accesskey          "S">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Tregoju sajteve që nuk dua të më gjurmojnë">
-<!ENTITY doNotTrack.accesskey           "T">

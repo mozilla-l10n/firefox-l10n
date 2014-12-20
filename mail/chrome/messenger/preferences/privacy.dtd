@@ -32,11 +32,6 @@
 <!ENTITY cookieExceptions.accesskey "ë">
 <!ENTITY showCookies.label "Shfaqni Cookie-t…">
 <!ENTITY showCookies.accesskey "S">
-
-<!ENTITY dntTrackingNopref.label2 "Mos u trego gjë sajteve rreth parapëlqimeve të mia mbi gjurmimet">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Tregoju sajteve se nuk dua të më gjurmojnë">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Tregoju sajteve se dua të më gjurmojnë">
-<!ENTITY dntTrackingOkay.accesskey "d">
 <!ENTITY doNotTrackInfo.label "Mësoni më tepër rreth Mos Më Gjurmo">

@@ -15,16 +15,10 @@
 <!ENTITY regularSize.label                "Të rregullta">
 <!ENTITY bigger.label                     "Më të mëdha">
 <!ENTITY smaller.label                    "Më të vogla">
-<!ENTITY quotedTextColor.label            "Ngjyrë:">
-<!ENTITY quotedTextColor.accesskey        "N">
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
 <!ENTITY displayText.label	          "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
-<!ENTITY colors.label                     "Ngjyra">
-<!ENTITY overrideColors.label             "Kur shfaqen mesazhe, përdor ngjyrat vijuese:">
 <!ENTITY textColor.label                  "Ngjyrë Teksti:">
 <!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Ngjyrë Sfondi:">
-<!ENTITY backgroundColor.accesskey        "f">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Emotikonet shfaqi si grafikë">

@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Lejo shërbyesin të anashkalojë këto emërhapësira">
 <!ENTITY overrideNamespaces.accesskey "L">
 <!ENTITY pop3Desc.label "Kur shkarkohet postë pop për këtë shërbyes, përdor dosjen vijuese për postë të re:" >
-<!ENTITY globalInbox.label "Kuti e Përgjithshme (Llogaria Dosje Vetjake)">
-<!ENTITY globalInbox.accesskey "K">
 <!ENTITY accountDirectory.label "Të marrët për llogarinë e këtij shërbyesi">
 <!ENTITY accountDirectory.accesskey "b">
 <!ENTITY deferToServer.label "Të marrët për tjetër llogari">
