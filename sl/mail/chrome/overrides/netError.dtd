@@ -136,7 +136,7 @@ da ima &brandShortName; pravico dostopati do omrežja.</li>
 <p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
 
 <!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
 
 <!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
 <!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se na lastnike strani in jih obvestite o težavi.</li></ul>">
