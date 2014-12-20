@@ -178,9 +178,9 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Amosar o menú">
 <!ENTITY pref_char_encoding_off "Non amosar o menú">
-<!ENTITY pref_clear_private_data2 "Limpar agora">
-<!ENTITY pref_clear_private_data_category "Limpar os datos privados">
-<!ENTITY pref_clear_on_exit_title2 "Limpar ao saír">
+<!ENTITY pref_clear_private_data2 "Borrar agora">
+<!ENTITY pref_clear_private_data_category "Borrar os datos privados">
+<!ENTITY pref_clear_on_exit_title2 "Borrar ao saír">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; borrará automaticamente os seus datos sempre que seleccione \u0022Saír\u0022 dende o menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione que datos quere borrar">
 <!ENTITY pref_plugins "Engadidos">
@@ -352,14 +352,14 @@ size. -->
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Localización">
-<!ENTITY bookmark_edit_keyword "Palabra chave">
+<!ENTITY bookmark_edit_keyword "Palabra clave">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Configuración do sitio">
 <!ENTITY site_settings_cancel       "Cancelar">
-<!ENTITY site_settings_clear        "Limpar">
-<!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
+<!ENTITY site_settings_clear        "Borrar">
+<!ENTITY site_settings_no_settings  "Non hai configuracións para borrar.">
 
 <!ENTITY reading_list_added "Engadiuse a páxina á lista de lectura">
 <!ENTITY reading_list_duplicate "A páxina xa está na lista de lectura">
@@ -383,9 +383,9 @@ size. -->
 <!ENTITY button_cancel "Cancelar">
 <!ENTITY button_yes "Si">
 <!ENTITY button_no "Non">
-<!ENTITY button_clear_data "Limpar datos">
+<!ENTITY button_clear_data "Borrar datos">
 <!ENTITY button_set "Estabelecer">
-<!ENTITY button_clear "Limpar">
+<!ENTITY button_clear "Borrar">
 
 <!ENTITY home_top_sites_title "Sitios favoritos">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -494,8 +494,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Desactivar a protección">
 <!ENTITY keep_blocking "Continuar o bloqueo">
 
-<!ENTITY private_data_success "Limpáronse os datos privados">
-<!ENTITY private_data_fail "Non foi posíbel limpar algúns datos privados">
+<!ENTITY private_data_success "Borráronse os datos privados">
+<!ENTITY private_data_fail "Non foi posíbel borrar algúns datos privados">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importando marcadores e historial desde Android">
