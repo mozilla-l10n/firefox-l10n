@@ -8,7 +8,7 @@
 <!ENTITY searchResultConversation.label "Përfundime kërkimi">
 <!ENTITY chat.noConv.title             "Biseda do të shfaqen këtu.">
 <!ENTITY chat.noConv.description       "Përdorni listën e kontakteve te kuadrati majtas që të nisni një bisedë.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName;-i hëpërhë nuk ka ndonjë bisedë të mëparshmë të ruajtur për këtë kontakt.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName;-i hëpërhë nuk ka ndonjë bisedë të mëparshme të ruajtur për këtë kontakt.">
 <!ENTITY chat.noAccount.title             "Ende nuk keni të rregulluar ndonjë llogari fjalosjeje.">
 <!ENTITY chat.noAccount.description       "Lëreni &brandShortName;-in t&apos;ju udhëheqë nëpër procesin e rregullimit të llogarisë suaj të fjalosjes.">
 <!ENTITY chat.accountWizard.button       "Fillojani">

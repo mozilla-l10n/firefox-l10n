@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtatni…"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtateni…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P"> 
 
 <!ENTITY historyMenu.label "Historik">
@@ -413,7 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "Kërkoni për ">
 <!ENTITY searchWith.label             " me:">
-<!ENTITY changeSearchSettings.button  "Ndryshoni Rregullime Kërkimi">
+<!ENTITY changeSearchSettings.button  "Ndryshoji Rrregullimet e Kërkimit">
 
 <!ENTITY tabView.commandkey           "e">
 
