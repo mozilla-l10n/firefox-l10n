@@ -5,8 +5,8 @@
 
 
 <!ENTITY status.label "İleti güvenliği">
-<!ENTITY signatureCert.label "İmza onay belgesini göster">
-<!ENTITY encryptionCert.label "Şifreleme onay belgesini göster">
+<!ENTITY signatureCert.label "İmza sertifikasın göster">
+<!ENTITY encryptionCert.label "Şifreleme sertifikasını göster">
 
 <!ENTITY signer.name "İmzalayan:">
 <!ENTITY recipient.name "Bunun için şifrelenmiş:">

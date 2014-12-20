@@ -5,7 +5,7 @@
 
 
 <!ENTITY editorCheck.label "Composer">
-
+<!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Düzenleyici">
 <!ENTITY editing.label "Yeni sayfa ayarları">

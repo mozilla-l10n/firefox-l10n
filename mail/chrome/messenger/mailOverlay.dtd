@@ -5,7 +5,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "İleti">
-<!ENTITY  newMessageCmd.accesskey         "M">
+<!ENTITY  newMessageCmd.accesskey         "İ">
  
 <!ENTITY  newContactCmd.label             "Adres defteri kişisi…">
 <!ENTITY  newContactCmd.accesskey         "A">
