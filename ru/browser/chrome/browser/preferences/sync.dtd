@@ -48,3 +48,4 @@
 <!ENTITY welcome.signIn.label "Войти">
 <!ENTITY welcome.createAccount.label "Создать учётную запись">
 <!ENTITY welcome.useOldSync.label "Используете старую версию Синхронизации?">
+<!ENTITY migrate.upgradeNeeded "Поддержка системы учетных записей синхронизации прекращена. Для синхронизации необходимо наличие Учётной записи Firefox.">
