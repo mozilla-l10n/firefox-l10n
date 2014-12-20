@@ -18,7 +18,7 @@
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Skift til fanebladet Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Opgave">
+<!ENTITY lightning.toolbar.task.label         "Opgaver">
 <!ENTITY lightning.toolbar.task.tooltip       "Skift til fanebladet Opgave">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 

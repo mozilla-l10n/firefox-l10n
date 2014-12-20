@@ -141,7 +141,7 @@
 
 <!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Fjern navngivet linkmål">
+<!ENTITY formatRemoveNamedAnchors.label "Fjern navngivne linkmål">
 <!ENTITY formatRemoveNamedAnchors.accesskey "å">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
