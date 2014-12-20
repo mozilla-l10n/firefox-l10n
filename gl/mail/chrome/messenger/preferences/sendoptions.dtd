@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title                 "Opcións de envío">
 <!ENTITY sendMail.title               "Formato de texto">
-<!ENTITY sendMaildesc.label           "Cando se envíen mensaxes en formato HTML e un/ha ou máis destinatarios/as non se encontren na lista dos que poden recibilas:">
+<!ENTITY sendMaildesc.label           "Cando se envíen mensaxes en formato HTML e un/ha ou máis destinatarios/as non se atopen na lista dos que poden recibilas:">
 <!ENTITY askMe.label                  "Preguntar que facer">
 <!ENTITY askMe.accesskey              "r">
 <!ENTITY convertPlain.label           "Converter a mensaxe en texto sen formato">
@@ -15,7 +15,7 @@
 <!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "Nota: Utilice a axenda de enderezos para especificar os formatos de texto preferidos para cada destinatario/a.">
 
-<!ENTITY domaindesc.label             "Se envía mensaxes a enderezos cuxos nomes de domino se encontran na seguinte lista, &brandShortName; farao automaticamente no formato adecuado.">
+<!ENTITY domaindesc.label             "Se envía mensaxes a enderezos cuxos nomes de domino se atopan na seguinte lista, &brandShortName; farao automaticamente no formato adecuado.">
 <!ENTITY HTMLTab.label                "Dominios HTML">
 <!ENTITY HTMLTab.accesskey            "T">
 <!ENTITY PlainTextTab.label           "Dominios de texto sen formato">
@@ -24,9 +24,9 @@
 <!ENTITY AddHtmlDomain.accesskey      "d">
 <!ENTITY AddPlainText.label           "Engadir…">
 <!ENTITY AddPlainText.accesskey       "E">
-<!ENTITY DeleteHtmlDomain.label       "Borrar">
+<!ENTITY DeleteHtmlDomain.label       "Eliminar">
 <!ENTITY DeleteHtmlDomain.accesskey   "o">
-<!ENTITY DeletePlainText.label        "Borrar">
+<!ENTITY DeletePlainText.label        "Eliminar">
 <!ENTITY DeletePlainText.accesskey    "o">
 
 <!ENTITY add.htmltitle                "Engadir nome de dominio HTML">

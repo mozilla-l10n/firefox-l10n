@@ -79,7 +79,7 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Desanexar…">
 <!ENTITY detachAttachmentCmd.accesskey    "x">
-<!ENTITY deleteAttachmentCmd.label    "Borrar">
+<!ENTITY deleteAttachmentCmd.label    "Eliminar">
 <!ENTITY deleteAttachmentCmd.accesskey    "B">
 <!ENTITY openAllAttachmentsCmd.label    "Abrir todo…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
@@ -87,7 +87,7 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey    "G">
 <!ENTITY detachAllAttachmentsCmd.label    "Desanexar todo…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar todo…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">
 
 <!ENTITY openAttachment.tooltip "Abrir o ficheiro anexado">

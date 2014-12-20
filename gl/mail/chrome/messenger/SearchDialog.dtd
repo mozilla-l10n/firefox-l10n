@@ -9,11 +9,11 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY searchOnServer.label        "Executar busca no servidor">
 <!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Limpar">
+<!ENTITY resetButton.label           "Borrar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "b">
-<!ENTITY deleteButton.label          "Borrar">
+<!ENTITY deleteButton.label          "Eliminar">
 <!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
 <!ENTITY results.label               "Resultados">
