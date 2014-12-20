@@ -66,6 +66,8 @@
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Reflejar pestaña">
+<!ENTITY mirrorTabCmd.accesskey "R">
 <!ENTITY enterFullScreenCmd.label "Entrar a la pantalla completa">
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Salir de la pantalla completa">
@@ -365,7 +367,7 @@
 <!ENTITY emailVideoCmd.label "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY castVideoCmd.label "Enviar vídeo al dispositivo">
-<!ENTITY castVideoCmd.accesskey "">
+<!ENTITY castVideoCmd.accesskey "E">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY playPluginCmd.label "Activar este plugin">
