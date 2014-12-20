@@ -35,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
-<!ENTITY profilerUI.clearButton "Limpar">
+<!ENTITY profilerUI.clearButton "Borrar">
 
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->

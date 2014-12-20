@@ -43,7 +43,7 @@
 
 <!ENTITY cmd.bookmarkLink.label         "Marcar esta páxina…">
 <!ENTITY cmd.bookmarkLink.accesskey     "M">
-<!ENTITY cmd.delete.label               "Borrar esta páxina">
+<!ENTITY cmd.delete.label               "Eliminar esta páxina">
 <!ENTITY cmd.delete.accesskey           "x">
 <!ENTITY cmd.deleteDomainData.label     "Esquecer este sitio">
 <!ENTITY cmd.deleteDomainData.accesskey "s">
