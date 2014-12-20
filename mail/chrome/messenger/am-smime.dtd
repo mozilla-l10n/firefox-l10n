@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Siguri">
 <!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të shifruar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi shifrimesh.">
 <!ENTITY encryptionGroupTitle.label "Shifrim">
-<!ENTITY encryptionChoiceLabel.label "Rregullime parazgjedhje shifrimi kur dërgohen mesazhe:">
+<!ENTITY encryptionChoiceLabel.label "Rregullime parazgjedhje shifrimi për dërgim mesazhesh:">
 <!ENTITY neverEncrypt.label "Kurrë (mos përdor shifrim)">
 <!ENTITY neverEncrypt.accesskey "K">
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
@@ -21,7 +21,7 @@
 <!ENTITY encryption.certificate_clear.button "Pastroje">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
-<!ENTITY signMessage.label "Nënshkruaj në mënyrë shifrore (si parazgjedhje) mesazhe">
+<!ENTITY signMessage.label "Nënshkruaji mesazhet në mënyrë shifrore (si parazgjedhje)">
 <!ENTITY signMessage.accesskey "N">
 <!ENTITY signingCert.message "Përdor këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
 

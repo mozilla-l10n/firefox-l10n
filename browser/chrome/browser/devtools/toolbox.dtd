@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "Njësi ngjyrash parazgjedhje">
+<!ENTITY options.defaultColorUnit.label "Njësi parazgjedhje ngjyrash">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -104,10 +104,17 @@
   -  for the target of the toolbox. -->
 <!ENTITY options.toolNotSupported.label  "* I pambuluar për objektin e tanishëm të grupit të mjeteve">
 
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "Zgjidhni temë Mjetesh:">
+<!ENTITY options.selectDevToolsTheme.label2   "Tema">
+
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Përdor temën e versionit Version Zhvilluesi">
+<!ENTITY options.usedeveditiontheme.tooltip "Vë në punë temën e versionit Version Zhvilluesi.">
+
+<!ENTITY d   "Zgjidhni temë Mjetesh:">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

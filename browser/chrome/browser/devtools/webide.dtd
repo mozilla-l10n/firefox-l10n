@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "q">
 <!ENTITY projectMenu_showPrefs_label "Parapëlqime">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Administroini Përbërës Ekstra">
+<!ENTITY projectMenu_manageComponents_accesskey "A">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -42,8 +44,12 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Hapni/Mbyllni Përpunuesin">
 <!ENTITY viewMenu_toggleEditor_accesskey "P">
-<!ENTITY viewMenu_showAddons_label "Administroni Simulues">
-<!ENTITY viewMenu_showAddons_accesskey "A">
+<!ENTITY viewMenu_zoomin_label "Zmadhojeni">
+<!ENTITY viewMenu_zoomin_accesskey "m">
+<!ENTITY viewMenu_zoomout_label "Zvogëlojeni">
+<!ENTITY viewMenu_zoomout_accesskey "v">
+<!ENTITY viewMenu_resetzoom_label "Sa origjinali">
+<!ENTITY viewMenu_resetzoom_accesskey "o">
 
 <!ENTITY projectButton_label "Hape Zbatimin">
 <!ENTITY runtimeButton_label "Përzgjidhni Runtime">
@@ -59,17 +65,23 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projektet e Mia">
 <!ENTITY projectPanel_runtimeApps "Zbatime Runtime">
 <!ENTITY projectPanel_tabs "Skeda">
-<!ENTITY runtimePanel_USBDevices "Pajisje USB">
-<!ENTITY runtimePanel_WiFiDevices "Pajisje Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simulues">
-<!ENTITY runtimePanel_custom "I përshtatur">
+<!ENTITY runtimePanel_usb "Pajisje USB">
+<!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simulues">
+<!ENTITY runtimePanel_other "Tjetër">
 <!ENTITY runtimePanel_installsimulator "Instaloni Simulues">
 <!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
+
 
 <!-- Lense -->
 <!ENTITY details_valid_header "e vlefshme">
@@ -100,9 +112,7 @@
 <!ENTITY prefs_editor_title "Përpunues">
 <!ENTITY prefs_general_title "Të përgjithshme">
 <!ENTITY prefs_restore "Rikthe Parazgjedhjet">
-<!ENTITY prefs_simulators "Administroni Simulues">
-<!ENTITY prefs_options_enablelocalruntime "Aktivizoni runtime vendore">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Lejojeni WebIDE-n të lidhet me runtime-in e vet (duke xhiruar instancë shfletuesi)">
+<!ENTITY prefs_manage_components "Administroni Përbërës Ekstra">
 <!ENTITY prefs_options_rememberlastproject "Mba mend projektin e fundit">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Rikthe projektin e mëparshëm, kur niset WebIDE-ja">
 <!ENTITY prefs_options_templatesurl "URL Gjedhesh">
@@ -133,6 +143,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Privilegje DevTools të kufizuara: ">
 <!ENTITY runtimedetails_requestPrivileges "kërko privilegje më të mëdha">
 <!ENTITY runtimedetails_privilegesWarning "(Do të rinisë pajisjen. Lyp akses si rrënjë.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Parapëlqime Mbi Pajisjen">
+<!ENTITY devicepreferences_search "Parapëlqime Kërkimi">
+<!ENTITY devicepreferences_newname "Emër parapëlqimi të ri">
+<!ENTITY devicepreferences_newtext "Vlerë parapëlqimi">
+<!ENTITY devicepreferences_addnew "Shtoni parapëlqim të ri">
+<!ENTITY devicepreferences_typeboolean "Buleane">
+<!ENTITY devicepreferences_typenumber "E plotë">
+<!ENTITY devicepreferences_typestring "Varg">
+<!ENTITY devicepreferences_typenone "Përzgjidhni një lloj">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
