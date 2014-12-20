@@ -20,7 +20,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "dhe gjendjen time kaloje si i Larguar, dhe me këtë mesazh gjendjeje:">
 <!ENTITY  andSetStatusToAway.accesskey  "d">
 
-<!ENTITY  sendTyping.label              "Dërgo gjatë bashkëbisedimeve njoftime lidhur me shtypje në tastierë">
+<!ENTITY  sendTyping.label              "Dërgo gjatë bisedave njoftime lidhur me shtypje në tastierë">
 <!ENTITY  sendTyping.accesskey          "ë">
 
 <!ENTITY  chatNotifications.label             "Kur mbërrijnë mesazhe drejtuar jush:">

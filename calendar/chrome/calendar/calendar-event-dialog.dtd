@@ -9,7 +9,6 @@
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >
-
 <!ENTITY newevent.status.label              "Gjendje" >
 <!ENTITY newevent.status.accesskey          "G" >
 <!ENTITY newevent.eventStatus.none.label          "E papërcaktuar" >
@@ -95,7 +94,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "P">
 <!ENTITY  event.menu.view.toolbars.event.label            "Panel Veprimtarish">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "N">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Përshtatni…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Përshtateni…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "a">
 <!ENTITY  event.menu.view.showlink.label                  "Shfaq Lidhje të Afërta">
 <!ENTITY  event.menu.view.showlink.accesskey              "S">

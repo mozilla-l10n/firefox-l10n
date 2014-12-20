@@ -8,7 +8,7 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Dukje Parazgjedhje e Faqes">
 
-<!ENTITY defaultColors.label        "Ngjyrë parazgjedhje e lexuesit (Mos cakto ngjyra në faqe)">
+<!ENTITY defaultColors.label        "Ngjyrat parazgjedhje të lexuesit (Mos vendos ngjyra në faqe">
 <!ENTITY defaultColors.accesskey    "N">
 <!ENTITY customColors.label         "Përdor ngjyra vetjake:">
 <!ENTITY customColors.accesskey     "P">

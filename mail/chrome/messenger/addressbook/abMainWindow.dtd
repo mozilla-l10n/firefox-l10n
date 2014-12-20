@@ -99,17 +99,17 @@
 <!ENTITY showContactPane2.label                          "Kuadrat Kontakti">
 <!ENTITY showContactPane2.accesskey                      "u">
 
-<!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
+<!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjesh">
 <!ENTITY showTaskbarCmd.accesskey                       "G">
-<!ENTITY customizeToolbar.label                         "Përshtatni…">
-<!ENTITY customizeToolbar.accesskey                     "P">
+<!ENTITY customizeToolbar.label                         "Përshtateni…">
+<!ENTITY customizeToolbar.accesskey                     "e">
 <!ENTITY layoutMenu.label                               "Skemë">
 <!ENTITY layoutMenu.accesskey                           "ë">
 <!ENTITY showDirectoryPane.label                        "Kuadrat Liste">
-<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showDirectoryPane.accesskey                    "L">
 <!ENTITY showContactPane2.label                         "Kuadrat Kontakti">
-<!ENTITY showContactPane2.accesskey                     "u">
-<!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
+<!ENTITY showContactPane2.accesskey                     "k">
+<!ENTITY menu_ShowNameAs.label                          "Shfaqe Emrin Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
