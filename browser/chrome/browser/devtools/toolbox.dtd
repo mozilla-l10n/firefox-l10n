@@ -114,8 +114,6 @@
 <!ENTITY options.usedeveditiontheme.label   "Përdor temën e versionit Version Zhvilluesi">
 <!ENTITY options.usedeveditiontheme.tooltip "Vë në punë temën e versionit Version Zhvilluesi.">
 
-<!ENTITY d   "Zgjidhni temë Mjetesh:">
-
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Konsol Web">
