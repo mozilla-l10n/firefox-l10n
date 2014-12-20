@@ -20,6 +20,6 @@
 <!ENTITY rightRadio.accessKey "D">
 <!ENTITY threeDShading.label "Hijezim 3-D">
 <!ENTITY threeDShading.accessKey "H">
-<!ENTITY saveSettings.label "Përdor si Parazgjedhje">
+<!ENTITY saveSettings.label "Përdori si Parazgjedhje">
 <!ENTITY saveSettings.accessKey "P">
 <!ENTITY saveSettings.tooltip "Ruajini këto rregullime për t&apos;i përdorur kur futen vija të reja horizontale">

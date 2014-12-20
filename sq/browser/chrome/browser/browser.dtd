@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Grup mjetesh Shfletuesi">
+<!ENTITY browserToolboxMenu.label     "Grup Mjetesh Shfletuesi">
 <!ENTITY browserToolboxMenu.accesskey "G">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtatni…"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtateni…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P"> 
 
 <!ENTITY historyMenu.label "Historik">
@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Kërko për ">
+<!ENTITY searchFor.label              "Kërkoni për ">
 <!ENTITY searchWith.label             " me:">
 <!ENTITY changeSearchSettings.button  "Ndryshoji Rrregullimet e Kërkimit">
 
