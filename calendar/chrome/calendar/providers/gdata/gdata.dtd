@@ -8,9 +8,15 @@
 <!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "Migro kalendarë vetëm-lexim">
-<!ENTITY gdata.migration.description "Mundësuesi i Kalendarëve Google ka zbuluar se keni kalendarë ekzistues që mundet të hyjnë në Kalendarët Google vetëm nën mënyrën lexim. Nëse doni të përditësoni ndonjë prej këtyre kalendarëve, ju lutemi, përzgjidhini më poshtë">
+<!ENTITY gdata.migration.description "Mundësuesi për Google Calendar ka zbuluar se keni kalendarë ekzistues që mundet të hyjnë në Google Calendar vetëm nën mënyrën lexim. Nëse doni të përditësoni ndonjë prej këtyre kalendarëve, ju lutemi, përzgjidhini më poshtë">
 <!ENTITY gdata.migration.upgrade.label "Përmirësoji">
 <!ENTITY gdata.migration.upgrade.accesskey "P">
-<!ENTITY gdata.migration.showagain.label "Kontrollo Përherë ">
+<!ENTITY gdata.migration.showagain.label "Kontrollo përherë ">
 
+<!ENTITY gdata.reminder.default "Kujtues Parazgjedhje">
 <!ENTITY gdata.reminder.action.sms.label "Dërgo një Mesazh Tekst">
+
+<!ENTITY gdata.wizard.session.description "Ju lutemi, zgjidhni një sesion ekzistues ose jepni adresën tuaj që të krijohet një sesion i ri. Ju duhet vetëm një sesion për llogari.">
+<!ENTITY gdata.wizard.calendars.description "Ju lutemi, përzgjidhni kalendarët dhe listat e punëve te të cilat do të donit të pajtoheshit.">
+
+<!ENTITY gdata.wizard.nextstep.description "Ju lutemi, që të rregulloni kalendarët tuaj, vazhdoni me hapin pasues.">
