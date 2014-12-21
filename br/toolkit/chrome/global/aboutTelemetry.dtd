@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  <span>Diweredekaet</span> eo Telemetry.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Roadennoù hollek">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Azgoulennoù SQL gorrek">
 

@@ -124,6 +124,8 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.title "N'haller ket kennaskañ outi ent diarvar">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; n'eo ket gouest da warantiñ diogelroez ho roadennoù war <span id='hostname'></span>rak SSLv3 a arver, ur c'homenad diogelroez torr.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Titouroù kempleshoc'h : <span id='errorcode'></span>">
 
