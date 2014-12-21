@@ -8,55 +8,52 @@
 
 <!ENTITY fileMenu.label					"Kartelë"> 
 <!ENTITY fileMenu.accesskey				"K">
-<!ENTITY newMenu.label						"E re">
-<!ENTITY newMenu.accesskey					"E">
+<!ENTITY newMenu.label					"E re">
+<!ENTITY newMenu.accesskey				"E">
 <!ENTITY editMenu.label					"Përpunim"> 
 <!ENTITY editMenu.accesskey				"P"> 
-<!ENTITY undoCmd.label						"Zhbëje">  
-<!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"Z"> 
-<!ENTITY redoCmd.label						"Ribëje">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"R"> 
-<!ENTITY cutCmd.label						"Prije">  
-<!ENTITY cutCmd.accesskey					"P"> 
-<!ENTITY cutCmd.key              "X">
-<!ENTITY copyCmd.label						"Kopjoje">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"K"> 
-<!ENTITY pasteCmd.label						"Ngjite">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"N"> 
-<!ENTITY deleteCmd.label					"Fshije">  
+<!ENTITY undoCmd.label					"Zhbëje">  
+<!ENTITY undoCmd.key					"Z">  
+<!ENTITY undoCmd.accesskey				"Z"> 
+<!ENTITY redoCmd.label					"Ribëje">  
+<!ENTITY redoCmd.key					"Y">  
+<!ENTITY redoCmd.accesskey				"R"> 
+<!ENTITY cutCmd.label					"Prije">  
+<!ENTITY cutCmd.accesskey				"P"> 
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY copyCmd.label					"Kopjoje">  
+<!ENTITY copyCmd.key					"C">  
+<!ENTITY copyCmd.accesskey				"K"> 
+<!ENTITY pasteCmd.label					"Ngjite">  
+<!ENTITY pasteCmd.key					"V">  
+<!ENTITY pasteCmd.accesskey				"N"> 
+<!ENTITY deleteCmd.label				"Fshije">  
 <!ENTITY deleteCmd.accesskey				"F"> 
-<!ENTITY selectAllCmd.label					"Përzgjidhe Krejt">  
-<!ENTITY selectAllCmd.key					"j">  
+<!ENTITY selectAllCmd.label				"Përzgjidhe Krejt">  
+<!ENTITY selectAllCmd.key				"j">  
 <!ENTITY selectAllCmd.accesskey				"T"> 
-<!ENTITY preferencesCmd.label				"Mundësi…">
+<!ENTITY preferencesCmd2.label                          "Mundësi">
 <!ENTITY preferencesCmd.accesskey			"M"> 
-<!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "a"> 
+<!ENTITY preferencesCmdUnix.label     			"Parapëlqime">
+<!ENTITY preferencesCmdUnix.accesskey     		"a"> 
 
 <!ENTITY viewMenu.label					"Shfaqje"> 
 <!ENTITY viewMenu.accesskey				"S"> 
 <!ENTITY viewToolbarsMenu.label				"Panele"> 
 <!ENTITY viewToolbarsMenu.accesskey			"P"> 
-<!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
-<!ENTITY showTaskbarCmd.accesskey				"G"> 
+<!ENTITY showTaskbarCmd.label				"Shtyllë Gjendjeje">  
+<!ENTITY showTaskbarCmd.accesskey			"G"> 
 
-<!ENTITY proxy.label                                    "Formësim ndërmjetësi…">
-<!ENTITY proxy.accesskey                                "F">
+<!ENTITY closeCmd.label					"Mbylle">  
+<!ENTITY closeCmd.key					"W">  
+<!ENTITY closeCmd.accesskey				"M">
 
-<!ENTITY closeCmd.label			"Mbylle">  
-<!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"M">
+<!ENTITY quitApplicationCmd.label			"Dilni"> 
+<!ENTITY quitApplicationCmd.key				"D"> 
+<!ENTITY quitApplicationCmd.accesskey			"D">
 
-<!ENTITY quitApplicationCmd.label	"Dilni"> 
-<!ENTITY quitApplicationCmd.key		"D"> 
-<!ENTITY quitApplicationCmd.accesskey	"D">
+<!ENTITY quitApplicationCmdUnix.label			"Dilni"> 
+<!ENTITY quitApplicationCmdUnix.accesskey		"d">
 
-<!ENTITY quitApplicationCmdUnix.label	"Dilni"> 
-<!ENTITY quitApplicationCmdUnix.accesskey	"d">
-
-<!ENTITY quitApplicationCmdMac.label  "Dilni nga &brandShortName;-i">
-<!ENTITY quitApplicationCmdMac.accesskey  "D">
+<!ENTITY quitApplicationCmdMac.label  			"Dilni nga &brandShortName;-i">
+<!ENTITY quitApplicationCmdMac.accesskey  		"D">
