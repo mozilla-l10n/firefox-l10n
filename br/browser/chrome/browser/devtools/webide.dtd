@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Open App…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Install and Run">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Stop App">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Debug App">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferences">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Ardeiñ ar parzhioù dreist">
+<!ENTITY projectMenu_manageComponents_accesskey "A">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -39,18 +39,18 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Gwellvezioù an trevnad">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "G">
 
 <!ENTITY viewMenu_label "View">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Zoum brasaat">
-
+<!ENTITY viewMenu_zoomin_accesskey "R">
 <!ENTITY viewMenu_zoomout_label "Zoum bihanaat">
-
-
+<!ENTITY viewMenu_zoomout_accesskey "B">
+<!ENTITY viewMenu_resetzoom_label "Adderaouekaat ar zoum">
 
 
 <!ENTITY projectButton_label "Open App">
@@ -70,7 +70,7 @@
 <!-- zoom -->
 
 
-
+<!ENTITY key_resetzoom "O">
 
 <!ENTITY projectPanel_myProjects "My Projects">
 <!ENTITY projectPanel_runtimeApps "Runtime Apps">
@@ -112,7 +112,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restore Defaults">
-
+<!ENTITY prefs_manage_components "Ardeiñ ar parzhioù dreist">
 <!ENTITY prefs_options_rememberlastproject "Remember last project">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
 <!ENTITY prefs_options_templatesurl "Templates URL">
@@ -145,10 +145,12 @@
 <!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
 <!-- Device Preferences -->
 
-
-
-
-
+<!ENTITY devicepreferences_title "Gwellvezioù an trevnad">
+<!ENTITY devicepreferences_search "Gwellvezioù ar c'hlask">
+<!ENTITY devicepreferences_newname "Anv ar gwellvez nevez">
+<!ENTITY devicepreferences_newtext "Gwerzh ar gwellvez">
+<!ENTITY devicepreferences_addnew "Ouzhpennañ ur gwellvez">
+<!ENTITY devicepreferences_typeboolean "Boulean">
 
 
 

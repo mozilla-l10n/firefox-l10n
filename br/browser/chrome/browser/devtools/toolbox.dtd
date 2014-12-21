@@ -122,6 +122,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "Implijit neuz merdeer embannadur an diorroerien">
+<!ENTITY options.usedeveditiontheme.tooltip "Gwintañ war-du neuz merdeer embannadur an diorroerien.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 

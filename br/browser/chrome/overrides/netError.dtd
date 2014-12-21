@@ -110,17 +110,18 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.longDesc "Kas un danevell a-zivout chomlec'h ha stlennoù an testeni evit <span id='hostname'></span> a skoazello ac'hanomp da hennadiñ ha kaelat ouzh al lec'hiennoù arvarus. Trugarez d'hor skoazellañ da sevel ur genrouedad diogeloc'h.">
+<!ENTITY errorReporting.automatic "Kas un danevell a-fet fazioù ent emgefreek en dazont">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
-
-
-
-
+<!ENTITY errorReporting.sending "O kas an danevell">
+<!ENTITY errorReporting.sent "Kaset eo bet an danevell">
+<!ENTITY errorReporting.report "Danevell">
+<!ENTITY errorReporting.tryAgain "Klask en-dro">
 
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "N'haller ket kennaskañ outi ent diarvar">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate

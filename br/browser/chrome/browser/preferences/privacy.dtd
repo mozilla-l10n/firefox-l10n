@@ -11,13 +11,15 @@
 <!ENTITY trackingProtectionLearnMore.label "Gouzout hiroc'h">
 <!ENTITY doNotTrackInfo.label           "Gouzout hiroc'h">
 
+<!ENTITY  history.label                 "Roll istor">
 
 <!ENTITY  locationBar.label             "Barrenn chomlec'hioù">
 
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Pa 'z implijan ar varrenn chomlec'hioù, aliañ:">
+<!ENTITY  locbar.history.label          "Roll istor">
+<!ENTITY  locbar.history.accesskey      "R">
+<!ENTITY  locbar.bookmarks.label        "Sinedoù">
+<!ENTITY  locbar.bookmarks.accesskey    "S">
 
 
 
