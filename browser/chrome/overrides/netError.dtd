@@ -158,7 +158,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Rapportera det här felet">
-
+<!ENTITY errorReporting.longDesc "Genom att rapportera adressen och certifikatsinformationen för <span id='hostname'></span> underlättar du för oss att identifiera och blockera illasinnade webbplatser. Tack för att du hjälper till att skapa en säkrare webb!">
 <!ENTITY errorReporting.automatic "Automatiskt rapportera fel i framtiden">
 <!ENTITY errorReporting.learnMore "Läs mer…">
 <!ENTITY errorReporting.sending "Skickar rapporten…">
@@ -169,8 +169,10 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Genom att rapportera adressen och certifikatsinformationen för <span id='hostname'></span> underlättar du för oss att identifiera och blockera illasinnade webbplatser. Tack för att du hjälper till att skapa en säkrare webb!">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; kan inte garantera säkerheten för ditt data på <span id='hostname'></span> då webbplatsen använder säkerhetsprotokollet SSLv3, som inte längre är säkert.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Avancerad info: <span id='errorcode'></span>">

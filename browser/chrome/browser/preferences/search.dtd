@@ -4,10 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard sökmotor">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Välj din standardsökmotor. &brandShortName; använder den i adressfältet, i sökfältet och på startsidan.">
+
+<!ENTITY provideSearchSuggestions.label        "Ge sökförslag">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
+<!ENTITY oneClickSearchEngines.label           "Sökfältets sökmotorer">
 
-
+<!ENTITY chooseWhichOneToDisplay.label         "Sökfältet låter dig söka med alternativa sökmotorer direkt. Välj vilka som ska visas.">
 
 <!ENTITY engineNameColumn.label                "Sökmotor">
 <!ENTITY engineKeywordColumn.label             "Nyckelord">
