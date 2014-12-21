@@ -13,4 +13,9 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Kontrolli alati ">
 
+<!ENTITY gdata.reminder.default "Vaikimisi meeldetuletus">
 <!ENTITY gdata.reminder.action.sms.label "Saada SMS">
+
+<!ENTITY gdata.wizard.session.description "Palun vali olemasolev seanss või sisesta e-posti aadress uue seansi loomiseks. Iga konto vajab vaid ühte seanssi.">
+<!ENTITY gdata.wizard.calendars.description "Palun vali kalendrid ja ülesannete nimekirjad, mida soovid tellida.">
+<!ENTITY gdata.wizard.nextstep.description "Kalendrite seadistamiseks liigu järgmise sammu juurde.">

@@ -240,6 +240,16 @@
 <!ENTITY calendar.context.properties.label             "Omadused">
 <!ENTITY calendar.context.properties.accesskey         "O">
 
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "I">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "V">
+<!ENTITY calendar.context.showall.label                "Näita kõiki kalendreid">
+<!ENTITY calendar.context.showall.accesskey            "N">
+
 <!ENTITY calendar.context.convertmenu.label              "Teisenda">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "T">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "T">
