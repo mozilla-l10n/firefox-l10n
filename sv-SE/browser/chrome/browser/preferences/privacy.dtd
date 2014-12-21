@@ -15,6 +15,7 @@
 
 <!ENTITY  locationBar.label             "Adressfältet">
 
+<!ENTITY  locbar.suggest.label          "Ge förslag i adressfältet från:">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">

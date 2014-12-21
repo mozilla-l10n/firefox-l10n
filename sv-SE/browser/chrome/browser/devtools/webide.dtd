@@ -151,8 +151,8 @@
 <!ENTITY devicepreferences_newname "Nytt inställnings namn">
 <!ENTITY devicepreferences_newtext "Inställnings värde">
 <!ENTITY devicepreferences_addnew "Lägg till ny inställning">
-
-
+<!ENTITY devicepreferences_typeboolean "Boolesk">
+<!ENTITY devicepreferences_typenumber "Heltal">
 <!ENTITY devicepreferences_typestring "Sträng">
 <!ENTITY devicepreferences_typenone "Välj en typ">
 <!-- Monitor -->
