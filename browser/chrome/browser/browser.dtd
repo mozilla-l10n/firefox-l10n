@@ -140,22 +140,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Find flere tjenester til deling…">
 <!ENTITY sharePageCmd.label "Del denne side">
 <!ENTITY sharePageCmd.commandkey "D">
 <!ENTITY sharePageCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Del dette link">
-<!ENTITY shareLink.accesskey "l">
-<!ENTITY shareImage.label "Del dette billede">
-<!ENTITY shareImage.accesskey "D">
-<!ENTITY shareSelect.label "Del markering">
-<!ENTITY shareSelect.accesskey "D">
-<!ENTITY shareVideo.label "Del denne video">
-<!ENTITY shareVideo.accesskey "D">
+<!ENTITY shareLinkCmd.label "Del dette link">
+<!ENTITY shareLinkCmd.accesskey "D">
+<!ENTITY shareImageCmd.label "Del dette billede">
+<!ENTITY shareImageCmd.accesskey "D">
+<!ENTITY shareSelectCmd.label "Del markering">
+<!ENTITY shareSelectCmd.accesskey "D">
+<!ENTITY shareVideoCmd.label "Del denne video">
+<!ENTITY shareVideoCmd.accesskey "D">
 <!ENTITY feedsMenu.label "Abonner">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
@@ -179,6 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
+<!ENTITY viewBookmarksSidebar2.label   "Vis i sidepanelet">
 <!ENTITY locationItem.title           "Adressefelt">
 <!ENTITY searchItem.title             "Søgefelt">
 
@@ -209,7 +205,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Tilføj et stikord til denne søgning…">
 <!ENTITY keywordfield.accesskey       "s">
-
 <!ENTITY downloads.label              "Filhentning">
 <!ENTITY downloads.accesskey          "F">
 <!ENTITY downloads.commandkey         "j">
@@ -217,8 +212,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tilføjelser">
 <!ENTITY addons.accesskey             "t">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
-<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -275,8 +268,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Vis værktøjer">
@@ -351,6 +342,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tilpas">
+<!ENTITY appMenuSidebars.label "Sidepaneler">
+
+<!ENTITY appMenuCustomize.label "Tilpas">
 <!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
 <!ENTITY appMenuCustomizeExit.label "Afslut tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Afslut tilpasning">
@@ -410,6 +404,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Søg efter  ">
+<!ENTITY searchWith.label             " med:">
+<!ENTITY changeSearchSettings.button  "Skift søgeindstillinger">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Åbn link i nyt faneblad">
@@ -450,6 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "i">
 <!ENTITY viewImageDescCmd.label       "Vis beskrivelse">
 <!ENTITY viewImageDescCmd.accesskey   "b">
+
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis baggrundsbillede">
@@ -463,6 +465,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send link…">
 <!ENTITY emailPageCmd.accesskey       "l">
+<!ENTITY switchToMetroCmd2.label      "Genstart &brandShortName; til Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Gem side som…">
 <!ENTITY savePageCmd.accesskey        "m">
 <!-- alternate for content area context menu -->
@@ -484,8 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "S">
 <!ENTITY emailVideoCmd.label          "Send video…">
 <!ENTITY emailVideoCmd.accesskey      "d">
-<!ENTITY castVideoCmd.label           "Send video til enhed">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Send lyd…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Aktiver dette plugin">
@@ -699,27 +700,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Ikke nu">
 
-<!ENTITY social.directory.label "Aktiverings-mapper">
-<!ENTITY social.directory.text "Du kan aktivere delings-tjenester fra mappen.">
-<!ENTITY social.directory.button "Gå til mappen">
-<!ENTITY social.directory.introText "Klik på en tjeneste for at føje den til &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Se flere">
 
 <!ENTITY customizeMode.tabTitle "Tilpas &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Flere værktøjer og funktioner">
-<!ENTITY customizeMode.menuAndToolbars.empty "Ønsker du flere værktøjer?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vælg mellem tusindvis af tilføjelser">
-<!ENTITY customizeMode.restoreDefaults "Gendan standarder">
+<!ENTITY customizeMode.menuAndToolbars.empty "Vil du have flere værktøjer">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vælg fra tusindvis af tilføjelser">
+<!ENTITY customizeMode.restoreDefaults "Gendan oprindelige indstillinger">
 <!ENTITY customizeMode.toolbars "Vis / skjul værktøjslinjer">
 <!ENTITY customizeMode.titlebar "Titellinje">
-<!ENTITY customizeMode.lwthemes "Temaer">
-<!ENTITY customizeMode.lwthemes.myThemes "Mine temaer">
-<!ENTITY customizeMode.lwthemes.recommended "Anbefalede">
-<!ENTITY customizeMode.lwthemes.menuManage "Håndter">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-<!ENTITY customizeMode.deveditionTheme.label "Brug &brandShortName;-tema">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Flyt fokus til chats">
@@ -732,32 +720,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera til deling:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectWindowOrScreen.label "Vindue eller skærm til deling:">
+<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "V">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon til deling:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på din skærm vil blive delt.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "De fleste websteder vil virke, selvom indhold er blokeret.">
+<!ENTITY webrtcIndicatorButton.label "Adgang til kamera/mikrofon">
+<!ENTITY webrtcIndicatorButton.tooltip "Vis de websteder, som du i øjeblikket deler dit kamera og/eller din mikrofon med">
 
-<!ENTITY mixedContentBlocked2.message "Usikkert indhold">
-<!ENTITY mixedContentBlocked2.moreinfo "Ukrypteret indhold på dette websted er blevet blokeret.">
-<!ENTITY mixedContentBlocked2.learnMore "Læs mere">
-<!ENTITY mixedContentBlocked2.options "Indstillinger">
-<!ENTITY mixedContentBlocked2.unblock.label "Deaktiver beskyttelse for nu">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Aktiver beskyttelse">
-<!ENTITY mixedContentBlocked2.block.accesskey "A">
-<!ENTITY mixedContentBlocked2.disabled.message "Beskyttelse er deaktiveret">
+<!ENTITY loopCallButton.tooltip "Inviter nogen til at snakke">
 
-<!ENTITY trackingContentBlocked.message "Sporing">
-<!ENTITY trackingContentBlocked.moreinfo "Dele af siden, der sporer din aktivitet på nettet, er blevet blokeret.">
-<!ENTITY trackingContentBlocked.learnMore "Læs mere">
-<!ENTITY trackingContentBlocked.options "Indstillinger">
-<!ENTITY trackingContentBlocked.unblock2.label "Deaktiver beskyttelse for dette websted">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Aktiver beskyttelse">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er deaktiveret">
+<!ENTITY mixedContentBlocked.moreinfo "De fleste websteder vil stadig fungere korrekt, selvom dette indhold er blokeret.">
 
 <!ENTITY pointerLock.notification.message "Tryk på ESC for at få den vist igen.">
 
@@ -782,10 +756,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Prøv igen">
 
 <!ENTITY uiTour.infoPanel.close "Luk">
-
-<!ENTITY appMenuSidebars.label "Sidepaneler">
-
-<!ENTITY switchToMetroCmd2.label       "Genindlæs i &brandShortName; til Windows 8 Touch">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
