@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Pajtime Në Prurje">
-<!ENTITY subscriptionDesc.label "Shënim: Heqja apo ndryshimi i dosjes për prurjet nuk do të prekë artikuj të shkarkuar më parë.">
+<!ENTITY learnMore.label             "Mësoni më tepër rreth Prurjeve">
 
 <!ENTITY feedTitle.label 	     "Titull:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -22,6 +22,12 @@
 <!ENTITY locationValidate.label      "Kontrolloje">
 <!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
 
+<!ENTITY autotagEnable.label         "Krijo vetvetiu etiketa prej emrash &lt;kategorie&gt; prurjesh">
+<!ENTITY autotagEnable.accesskey     "K">
+<!ENTITY autotagUsePrefix.label      "Parapriji etiketat me:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Jepni një parashtesë etikete">
+
 <!ENTITY button.addFeed.label       "Shto">
 <!ENTITY button.addFeed.accesskey   "S">
 <!ENTITY button.editFeed.label      "Përpunoni">
@@ -32,7 +38,7 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Eksporto">
 <!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; ctrl klik ose ctrl enter që të eksportohen Prurje si një listë">
 
 <!ENTITY cmd.close.commandKey             "w">
-
-<!ENTITY button.exportOPML.tooltip   "Eksportojini Prurjet me strukturë dosjesh; ctrl klik ose ctrl enter që të eksportohen Prurje si një listë">
+<!ENTITY button.close.label          "Mbylle">
