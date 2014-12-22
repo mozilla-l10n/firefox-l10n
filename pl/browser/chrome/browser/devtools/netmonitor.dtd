@@ -33,9 +33,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 <!ENTITY netmonitorUI.toolbar.type        "Typ">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
-  -  in the network table toolbar, above the "size" column. -->
+<!ENTITY netmonitorUI.toolbar.transferred "Przesłano">
 <!ENTITY netmonitorUI.toolbar.size        "Rozmiar">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
