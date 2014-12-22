@@ -26,7 +26,7 @@
 
 <!ENTITY certmgr.pending.label                "Sertifika şu anda doğrulanıyor…">
 <!ENTITY certmgr.subjectinfo.label            "Verilen">
-<!ENTITY certmgr.issuerinfo.label             "Düzenleyen">
+<!ENTITY certmgr.issuerinfo.label             "Yayıncı">
 <!ENTITY certmgr.periodofvalidity.label       "Geçerlilik dönemi" >
 <!ENTITY certmgr.fingerprints.label           "Parmak izleri">
 <!ENTITY certmgr.certdetail.title             "Sertifika ayrıntısı">
@@ -70,7 +70,7 @@
 <!ENTITY certmgr.view2.accesskey              "G">
 <!ENTITY certmgr.edit3.label                  "Güven ayarları...">
 <!ENTITY certmgr.edit3.accesskey              "G">
-<!ENTITY certmgr.editca.label                 "CA güvenlik düzenle">
+<!ENTITY certmgr.editca.label                 "CA güvenini düzenle">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Ekle">
 <!ENTITY certmgr.add.accesskey                "E">
