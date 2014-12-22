@@ -30,6 +30,6 @@
 <!ENTITY findAgainCmd.label        "Sonrakini bul">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "o">
+<!ENTITY findAgainCmd.accesskey    "n">
 <!ENTITY findPreviousCmd.label     "Öncekini bul">
 <!ENTITY findPreviousCmd.accesskey "n">
