@@ -571,6 +571,8 @@
 <!ENTITY editRemoteContentSettingsUnix.accesskey "d">
 <!-- Phishing Button Popup -->
 
+<!ENTITY phishingOptionIgnore.label "Bu ileti için uyarıyı göz ardı et">
+<!ENTITY phishingOptionIgnore.accesskey "u">
 <!ENTITY phishingOptionSettings.label "Sahtekârlık tespit seçeneklerini düzenle…">
 <!ENTITY phishingOptionSettings.accesskey "S">
 <!ENTITY phishingOptionSettingsUnix.label "Sahtekârlık tespit tercihlerini düzenle…">
@@ -671,25 +673,25 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
+<!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
+<!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
+<!ENTITY subjectColumn2.tooltip "Konuya göre sırala">
+<!ENTITY dateColumn2.tooltip "Tarihe göre sırala">
+<!ENTITY priorityColumn2.tooltip "Önceliğe göre sırala">
+<!ENTITY tagsColumn2.tooltip "Etiketlere göre sırala">
+<!ENTITY accountColumn2.tooltip "Hesaba göre sırala">
+<!ENTITY statusColumn2.tooltip "Duruma göre sırala">
+<!ENTITY sizeColumn2.tooltip "Boyuta göre sırala">
+<!ENTITY junkStatusColumn2.tooltip "Gereksiz durumuna göre sırala">
 <!ENTITY unreadColumn2.tooltip "Dizideki okunmamış iletilerin sayısı">
 <!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
-
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Okunma durumuna göre sırala">
+<!ENTITY receivedColumn2.tooltip "Alınış tarihine göre sırala">
+<!ENTITY starredColumn2.tooltip "Yıldıza göre sırala">
+<!ENTITY locationColumn2.tooltip "Konuma göre sırala">
+<!ENTITY idColumn2.tooltip "Alınış sırasına göre sırala">
+<!ENTITY attachmentColumn2.tooltip "Eklere göre sırala">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "İletiyi yeni pencerede aç">
@@ -724,18 +726,18 @@
 
 
 
-
-
+<!ENTITY contextMultiForwardAsAttachment.label "Ek olarak ilet">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Taşı">
 <!ENTITY contextMoveMsgMenu.accesskey "T">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Son kullanılan">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "k">
 <!ENTITY contextCopyMsgMenu.label "Buraya kopyala">
 <!ENTITY contextCopyMsgMenu.accesskey "B">
+<!ENTITY contextKillThreadMenu.label "Diziyi göz ardı et">
+<!ENTITY contextKillThreadMenu.accesskey "D">
 
-
-
-
+<!ENTITY contextWatchThreadMenu.label "Di&amp;ziyi izle">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
 <!ENTITY contextPrint.label "Yazdır…">
@@ -886,6 +888,8 @@
 <!ENTITY bringAllToFront.label "Hepsini ön plana al">
 <!ENTITY zoomWindow.label "Yakınlaştırma">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Tercihler">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Hizmetler">
