@@ -64,3 +64,5 @@
 <!ENTITY welcome.signIn.label "Zaloguj się">
 <!ENTITY welcome.createAccount.label "Utwórz konto">
 <!ENTITY welcome.useOldSync.label "Używasz starszej wersji synchronizacji?">
+
+<!ENTITY migrate.upgradeNeeded "Dotychczasowe konta Sync nie są dłużej obsługiwane. Nowe konto Firefoksa jest wymagane do synchronizacji.">
