@@ -14,9 +14,11 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "'S urrainn dhut einnseanan-luirg eile a thaghadh ann am bàr nan lorg fhèin. Tagh an fheadhainn a bu mhath leat fhaicinn.">
 
+<!ENTITY engineNameColumn.label                "Einnseanan-luirg">
 <!ENTITY engineKeywordColumn.label             "Facal-luirg">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Aisig na h-einnseanan-luirg bunaiteach">
+<!ENTITY restoreDefaultSearchEngines.accesskey "s">
 
 <!ENTITY removeEngine.label                    "Thoir air falbh">
 <!ENTITY removeEngine.accesskey                "r">
