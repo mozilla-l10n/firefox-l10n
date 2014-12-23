@@ -41,7 +41,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label                                 "Düzenle">
-<!ENTITY editMenu.accesskey                             "e">
+<!ENTITY editMenu.accesskey                             "ü">
 <!ENTITY undoCmd.label                                  "Geri al">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "r">
@@ -56,7 +56,7 @@
 <!ENTITY copyCmd.accesskey                              "o">
 <!ENTITY pasteCmd.label                                 "Yapıştır">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
+<!ENTITY pasteCmd.accesskey                             "a">
 <!ENTITY deleteCmd.label                                "Sil">
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Adres defterini sil">
@@ -131,7 +131,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.label                         "Yeni kişi">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yeni liste">
-<!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY newlistButton.accesskey                        "Y">
 <!ENTITY editButton2.label                              "Özellikler…">
 <!ENTITY editButton2.accesskey                          "r">
 <!ENTITY newmsgButton.label                             "Yaz">

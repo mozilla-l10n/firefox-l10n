@@ -7,7 +7,7 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Buraya ekle: ">
 
-<!ENTITY ListName.label                 "Liste Adı:">
+<!ENTITY ListName.label                 "Liste adı: ">
 <!ENTITY ListNickName.label             "Liste takma adı:">
 <!ENTITY ListDescription.label          "Açıklama: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->

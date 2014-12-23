@@ -108,11 +108,11 @@
 
 <!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto                      "Birini otomatik olarak seç">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey             "H">
-
-
+<!ENTITY enableOCSP.label                "Onay belgelerinin geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
+<!ENTITY enableOCSP.accesskey            "O">
 
 <!ENTITY viewCertificates.label         "Onay belgelerini göster">
 <!ENTITY viewCertificates.accesskey     "a">

@@ -22,10 +22,10 @@
 <!ENTITY cutCmd.accesskey          "K">
 <!ENTITY copyCmd.label            "Kopyala">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY copyCmd.accesskey          "o">
 <!ENTITY pasteCmd.label            "Yapıştır">
 <!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "p">
+<!ENTITY pasteCmd.accesskey          "a">
 <!ENTITY deleteCmd.label          "Sil">
 <!ENTITY deleteCmd.accesskey        "S">
 <!ENTITY selectAllCmd.label          "Tümünü seç">
@@ -41,7 +41,7 @@
 <!ENTITY viewToolbarsMenu.label        "Araç çubukları">
 <!ENTITY viewToolbarsMenu.accesskey      "A">
 <!ENTITY showTaskbarCmd.label          "Durum çubuğu">
-<!ENTITY showTaskbarCmd.accesskey        "m">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY closeCmd.label      "Kapat">
 <!ENTITY closeCmd.key      "W">

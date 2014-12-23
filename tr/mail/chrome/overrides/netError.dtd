@@ -79,7 +79,7 @@ gibi yanlış yazılmış olabilir.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
-<!ENTITY proxyResolveFailure.longDesc " <ul> 
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> 
 <li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
 <li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> 
@@ -119,14 +119,14 @@ bağlantısını kontrol edin.</li>
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
 <!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
-<p>Yanlışlıkla saldırı sitesi olarak rapor edilen Web sitesi yöneticileri yapılan raporun <a href='http://www.stopbadware.org/home/reviewinfo'> gözden geçirilmesini</a> isteyebilir.</p>">
+<p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
 <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
+<!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
 <!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
 <!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz içerik gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">

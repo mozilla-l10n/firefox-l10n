@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Besleme abonelikleri">
-<!ENTITY subscriptionDesc.label      "Not: Bir besleme dizininin silinmesi veya değiştirilmesi önceden indirilmiş haberleri etkilemez.">
+<!ENTITY learnMore.label             "Beslemeler hakkında bilgi alın">
 
 <!ENTITY feedTitle.label             "Başlık: ">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Besleme adresi:">
 <!ENTITY feedLocation.accesskey      "a">
 <!ENTITY feedLocation.placeholder    "Eklemek için geçerli bir besleme adresi girin">
+<!ENTITY locationValidate.label      "Doğrula">
+<!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">
 
 <!ENTITY feedFolder.label            "Haberlerin depolanacağı yer:">
 <!ENTITY feedFolder.accesskey        "d">
@@ -25,13 +27,10 @@
 <!ENTITY autotagUsePrefix.accesskey  "ö">
 <!ENTITY autoTagPrefix.placeholder   "Etiket ön eki girin">
 
-<!ENTITY locationValidate.label      "Doğrula">
-<!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">
-
 <!ENTITY button.addFeed.label        "Ekle">
 <!ENTITY button.addFeed.accesskey    "l">
-<!ENTITY button.editFeed.label       "Düzenle">
-<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.editFeed.label       "Güncelle">
+<!ENTITY button.editFeed.accesskey   "G">
 <!ENTITY button.removeFeed.label     "Kaldır">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "İçe aktar">
