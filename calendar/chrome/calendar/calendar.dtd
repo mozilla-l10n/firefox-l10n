@@ -240,6 +240,16 @@
 <!ENTITY calendar.context.properties.label             "Eigenskippen">
 <!ENTITY calendar.context.properties.accesskey         "E">
 
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "e">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "n">
+<!ENTITY calendar.context.showall.label                "Alle aginda’s toane">
+<!ENTITY calendar.context.showall.accesskey            "A">
+
 <!ENTITY calendar.context.convertmenu.label               "Konvertearje nei">
 <!ENTITY calendar.context.convertmenu.accesskey.mail      "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar  "K">
