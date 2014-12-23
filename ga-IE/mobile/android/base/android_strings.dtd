@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Léim an madra rua tapa thar do ríomhaire, agus thug sé luas, solúbthacht, agus slándáil duit. Mar eagraíocht neamhbhrabúis, táimid in ann rudaí nuálacha a chruthú ar do shon, gan aon bhrú seachtrach. Ciallaíonn sé sin go mbainfidh tú níos mó taitneamh as an nGréasán.">
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaigh uathsheinm">
-<!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
+<!ENTITY pref_media_autoplay_enabled_summary "An bhfuil cead ag suímh Ghréasáin físeáin nó meáin eile a sheinm go huathoibríoch?">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync "Sync">
@@ -483,9 +483,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Tracking protection disabled.">
-<!ENTITY loaded_tracking_content_message_bottom "Parts of this page may track your online activity.">
-<!ENTITY blocked_tracking_content_message_top2 "Tracking protection enabled.">
+<!ENTITY loaded_tracking_content_message_top "Tá cosaint ó rianú díchumasaithe.">
+<!ENTITY loaded_tracking_content_message_bottom "Tá seans ann go bhfuil an leathanach seo ag rianú do ghníomhaíocht ar líne.">
+<!ENTITY blocked_tracking_content_message_top2 "Tá cosaint ó rianú cumasaithe.">
 <!ENTITY blocked_tracking_content_message_bottom2 "Cuireadh cosc ar chodanna den leathanach a rianaíonn do chuid ghníomhaíochta ar líne.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 

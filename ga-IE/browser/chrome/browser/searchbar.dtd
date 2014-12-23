@@ -8,10 +8,10 @@
    - UITour popups that shows on first use of the new search panel. -->
 
 <!ENTITY SearchHighlight1.title "Cuardach Aonchlic">
-<!ENTITY SearchHighlight1.text "Search any of these sites instantly, without changing your default.">
+<!ENTITY SearchHighlight1.text "Cuardaigh aon cheann de na suímh seo láithreach, gan an t-inneall réamhshocraithe a athrú.">
 
 <!ENTITY SearchHighlight2.title "Moltaí Cliste">
-<!ENTITY SearchHighlight2.text "Suggestions from your default search engine appear as you type.">
+<!ENTITY SearchHighlight2.text "Feicfidh tú moltaí beo ón inneall cuardaigh réamhshocraithe.">
 
 <!ENTITY SearchHighlightNext "Ar Aghaidh">
 <!ENTITY SearchHighlightClose "Go raibh maith agat!">

@@ -116,7 +116,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Déan tuairisc ar an earráid seo">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
+<!ENTITY errorReporting.longDesc "Dá dtabharfá seoladh agus eolas faoin teastas le haghaidh <span id='hostname'></span> dúinn, chabhródh sé linn suímh mhailíseacha a aithint agus cosc a chur orthu.  Go raibh maith agat as Gréasán níos sláine níos sábháilte a thógáil linn!">
 <!ENTITY errorReporting.automatic "Déan tuairisc ar earráidí go huathoibríoch amach anseo">
 <!ENTITY errorReporting.learnMore "Tuilleadh eolais…">
 <!ENTITY errorReporting.sending "Tuairisc á seoladh">
