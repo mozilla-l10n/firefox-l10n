@@ -136,7 +136,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELLO: Para engadir calquera sitio web a súa lista de buscadores, manteña premido o campo de busca e pulse a icona &formatI;.">
-<!ENTITY pref_category_devtools "Ferramentas de desenvolvemento">
+<!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_category_devtools_summary "Depuración remota, áreas repintadas">
 <!ENTITY pref_developer_paint_flashing "Destacar áreas repintadas">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
@@ -155,7 +155,7 @@
 <!ENTITY pref_home_updates "Actualizacións automáticas">
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Só coa Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Amosar suxestións de sitios">
+<!ENTITY pref_home_suggested_sites "Suxestións de sitios">
 <!ENTITY pref_home_suggested_sites_summary "Amosa na súa páxina de inicio accesos directos a sitios que pensamos que lle poden interesar">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -165,7 +165,7 @@
 <!ENTITY pref_header_help "Axuda">
 <!ENTITY pref_header_language "Idioma">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Ferramentas de desenvolvemento">
+<!ENTITY pref_header_devtools "Ferramentas do desenvolvedor">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
@@ -209,13 +209,13 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "O panda laranxa máis veloz salta máis alá das súas expectativas con máis velocidade, máis flexibilidade e máis seguridade. Como unha organización sen ánimo de lucro, somos libres para innovar por vostede sen ningún tipo de presión e sen compromiso. Isto resulta nunha mellor experiencia para vostede e nun mellor futuro para a Web.">
 
-<!ENTITY pref_media_autoplay_enabled "Permitir reprodución automática">
+<!ENTITY pref_media_autoplay_enabled "Reprodución automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla se os sitios web poden reproducir automaticamente os vídeos e outro contido multimedia">
 
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sincronizar as súas lapelas, marcadores, contrasinais, historial">
-<!ENTITY pref_search_suggestions "Amosar suxestións de busca">
+<!ENTITY pref_search_suggestions "Suxestións de busca">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial dende o navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
@@ -266,12 +266,12 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informador de erros">
-<!ENTITY datareporting_wifi_title2 "Servizo se localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_title2 "Xeolocalización de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary2 "Comparta a localización aproximada en redes Wi-Fi e móbiles do seu dispositivo con &vendorShortName; para mellorar o noso servizo de localización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Descargar actualizacións automaticamente">
+<!ENTITY pref_update_autodownload2 "Actualizacións automáticas">
 <!ENTITY pref_update_autodownload_wifi "Só coa Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Sempre">
@@ -322,14 +322,14 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
 <!ENTITY contextmenu_open_private_tab "Abrir nunha lapela privada">
 <!ENTITY contextmenu_remove "Retirar">
-<!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
+<!ENTITY contextmenu_add_to_launcher "Engadir á pantalla inicial">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copiar enderezo">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Subscribirse á páxina">
-<!ENTITY contextmenu_site_settings "Editar a configuración do sitio">
+<!ENTITY contextmenu_site_settings "Editar axustes do sitio">
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fixar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Quitar sitio">
@@ -341,7 +341,7 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
+<!ENTITY pref_scroll_title_bar2 "Pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Agochar a barra de título do &brandShortName; ao baixar por unha páxina">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -498,9 +498,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Non foi posíbel borrar algúns datos privados">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importando marcadores e historial desde Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores desde Android">
-<!ENTITY bookmarkhistory_import_history "Importando historial desde Android">
+<!ENTITY bookmarkhistory_import_both "Importando marcadores e historial dende Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores dende Android">
+<!ENTITY bookmarkhistory_import_history "Importando historial dende Android">
 <!ENTITY bookmarkhistory_import_wait "Agarde...">
 
 <!ENTITY suggestions_prompt3 "Desexa activar as suxestións de busca?">
