@@ -126,3 +126,12 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Ní féidir ceangal slán a bhunú">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; cannot guarantee the safety of your data on <span id='hostname'></span> because it uses SSLv3, a broken security protocol.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Ardeolas: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Tuilleadh Eolais…">
