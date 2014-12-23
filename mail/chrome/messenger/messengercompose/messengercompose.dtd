@@ -43,7 +43,7 @@
 <!ENTITY saveAsDraftCmd.label "Taslak">
 <!ENTITY saveAsDraftCmd.accesskey "T">
 <!ENTITY saveAsTemplateCmd.label "Şablon">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY saveAsTemplateCmd.accesskey "a">
 <!ENTITY sendNowCmd.label "Şimdi gönder">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
@@ -60,7 +60,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Düzenle">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "ü">
 <!ENTITY undoCmd.label "Geri al">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "G">
@@ -72,10 +72,10 @@
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "a">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "e">
@@ -83,8 +83,8 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY editRewrapCmd.label "Yeniden kaydır">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Ekin ismini değiştir…">
-<!ENTITY renameAttachmentCmd.accesskey "s">
+<!ENTITY renameAttachmentCmd.label "Ekin adını değiştir…">
+<!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "e">
@@ -95,11 +95,11 @@
 <!ENTITY findReplaceCmd.accesskey "d">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.accesskey "b">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Öncekini bul">
-<!ENTITY findPrevCmd.accesskey "n">
+<!ENTITY findPrevCmd.accesskey "Ö">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!-- View Menu -->
@@ -114,13 +114,13 @@
 <!ENTITY showCompositionToolbarCmd.accesskey "D">
 <!ENTITY showFormattingBarCmd.label "Biçimlendirme çubuğu">
 <!ENTITY showFormattingBarCmd.accesskey "B">
-<!ENTITY showTaskbarCmd.label "Durum Çubuğu">
-<!ENTITY showTaskbarCmd.accesskey "m">
+<!ENTITY showTaskbarCmd.label "Durum çubuğu">
+<!ENTITY showTaskbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Özelleştir…">
-<!ENTITY customizeToolbar.accesskey "l">
+<!ENTITY customizeToolbar.accesskey "Ö">
 
 <!ENTITY addressSidebar.label "Kişiler kenar çubuğu">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.accesskey "K">
 <!-- Format Menu -->
 
 <!ENTITY formatMenu.label "Biçim">
@@ -136,7 +136,7 @@
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimi yap">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY quoteCmd.label "İletiyi alıntıla">
-<!ENTITY quoteCmd.accesskey "y">
+<!ENTITY quoteCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
 <!ENTITY attachVCard.label "Kişisel kart ekle (vCard)">
@@ -146,27 +146,27 @@
 <!ENTITY returnReceiptMenu.accesskey "A">
 <!ENTITY dsnMenu.label "Teslimat durumu bildirimi">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY deliveryFormatMenu.label "Teslimat Biçimi">
+<!ENTITY deliveryFormatMenu.label "Teslimat biçimi">
 <!ENTITY deliveryFormatMenu.accesskey "T">
 <!ENTITY autoFormatCmd.label "Otomatik tanı">
-<!ENTITY autoFormatCmd.accesskey "t">
+<!ENTITY autoFormatCmd.accesskey "O">
 <!ENTITY plainTextFormatCmd.label "Sadece düz metin">
-<!ENTITY plainTextFormatCmd.accesskey "c">
+<!ENTITY plainTextFormatCmd.accesskey "d">
 <!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
 <!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
-<!ENTITY bothFormatCmd.accesskey "z">
+<!ENTITY bothFormatCmd.accesskey "v">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.label "Öncelik:">
 <!ENTITY lowestPriorityCmd.label "En düşük">
-<!ENTITY lowestPriorityCmd.accesskey "d">
-<!ENTITY lowPriorityCmd.label "Düşük">
-<!ENTITY lowPriorityCmd.accesskey "ş">
+<!ENTITY lowestPriorityCmd.accesskey "n">
+<!ENTITY lowPriorityCmd.label "&#037;Düşük">
+<!ENTITY lowPriorityCmd.accesskey "o">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Yüksek">
-<!ENTITY highPriorityCmd.accesskey "ü">
+<!ENTITY highPriorityCmd.accesskey "Y">
 <!ENTITY highestPriorityCmd.label "En yüksek">
 <!ENTITY highestPriorityCmd.accesskey "E">
 <!ENTITY fileCarbonCopyCmd.label "Bir kopyasını gönder">
@@ -182,9 +182,9 @@
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Hesap ayarları…">
+<!ENTITY accountManagerCmd2.label "Hesap ayarları">
 <!ENTITY accountManagerCmd2.accesskey "a">
-
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Seçenekler">
 <!ENTITY preferencesCmd2.accesskey "S">
 <!ENTITY preferencesCmdUnix.label "Tercihler">
@@ -193,7 +193,7 @@
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
-<!ENTITY bringAllToFront.label "Ön plana getir">
+<!ENTITY bringAllToFront.label "Tümünü ön plana getir">
 <!ENTITY zoomWindow.label "Yakınlaştır">
 <!ENTITY windowMenu.label "Pencere">
 <!-- Mail Toolbar -->
@@ -267,9 +267,9 @@
 <!ENTITY cut.label "Kes">
 <!ENTITY cut.accesskey "K">
 <!ENTITY copy.label "Kopyala">
-<!ENTITY copy.accesskey "K">
+<!ENTITY copy.accesskey "o">
 <!ENTITY paste.label "Yapıştır">
-<!ENTITY paste.accesskey "p">
+<!ENTITY paste.accesskey "a">
 <!ENTITY pasteQuote.label "Alıntı olarak yapıştır">
 <!ENTITY pasteQuote.accesskey "A">
 

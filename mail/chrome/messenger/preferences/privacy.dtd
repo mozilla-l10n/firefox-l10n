@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Çerezleri göster…">
 <!ENTITY showCookies.accesskey "z">
 
-<!ENTITY dntTrackingNopref.label2 "Sitelere izlenme tercihlerimle ilgili bir şey söyleme">
-<!ENTITY dntTrackingNopref.accesskey "ö">
 <!ENTITY dntTrackingNotOkay.label2 "Sitelere izlenmek istemediğimi söyle">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Sitelere izlenmek istediğimi söyle">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Beni İzleme hakkında bilgi alın">
-

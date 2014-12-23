@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Göndereni yanıtla'yı her zaman göster">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "G">
 
-<!ENTITY otherActionsButton1.label "Diğer eylemler">
+<!ENTITY otherActionsButton2.label "Daha fazla">
+
 <!ENTITY otherActionsOpenConversation1.label "Dizi görünümünde aç">
 <!ENTITY otherActionsOpenConversation1.accesskey "D">
 <!ENTITY otherActionsOpenInNewWindow1.label "Yeni pencerede aç">

@@ -47,7 +47,7 @@
 <!ENTITY ignoreThread.label "Diziyi görmezden gel">
 <!ENTITY ignoreSubthread.label "Alt diziyi görmezden gel">
 <!ENTITY watchThread.label "Diziyi takip et">
-<!ENTITY stopExecution.label "Süzgeç yürütümünü durdur">
+<!ENTITY stopExecution.label "Süzgeci çalıştırmayı durdur">
 
 <!ENTITY addAction.tooltip "Yeni eylem ekle">
 <!ENTITY removeAction.tooltip "Bu eylemi kaldır">

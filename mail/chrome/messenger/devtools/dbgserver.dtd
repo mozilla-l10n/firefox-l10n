@@ -1,4 +1,4 @@
-
+<!ENTITY options.title "Geliştirici araçları seçenekleri">
 <!ENTITY options.status.label "Durum:">
-
-
+<!ENTITY options.port.label "Port:">
+<!ENTITY options.forcelocal.label "Diğer bilgisayarlardan bağlantılara izin ver">

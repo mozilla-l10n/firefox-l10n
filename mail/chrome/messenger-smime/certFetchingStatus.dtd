@@ -5,5 +5,5 @@
 
 
 <!ENTITY title.label "Onay belgeleri indiriliyor">
-<!ENTITY info.message "Alıcı onay belgeleri dizinde aranıyor. Bu işlem birkaç dakika sürebilir.">
+<!ENTITY info.message "Alıcı sertifikaları dizinde aranıyor. Bu işlem birkaç dakika sürebilir.">
 <!ENTITY stop.label "Aramayı durdur">

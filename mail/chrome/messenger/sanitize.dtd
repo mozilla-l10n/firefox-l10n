@@ -24,7 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Ayrıntılar">
 <!ENTITY detailsProgressiveDisclosure.accesskey "y">
 
-
+<!ENTITY itemHistory.label                 "Tarama geçmişi">
+<!ENTITY itemHistory.accesskey             "T">
 <!ENTITY itemCookies.label                 "Çerezler">
 <!ENTITY itemCookies.accesskey             "Ç">
 <!ENTITY itemCache.label                   "Önbellek">
