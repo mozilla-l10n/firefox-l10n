@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Der is in ferifikaasjekeppeling ferstjoerd nei &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'E-mail opnij ferstjoere'>
+<!ENTITY fxaccount_confirm_account_change_email 'Dit e-mailadres ferjitte?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Ferifikaasje-e-mail ferstjoerd'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kin gjin ferifikaasje-e-mail ferstjoere'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Oanmeld as'>
 <!ENTITY fxaccount_status_auth_server 'Accounttsjinner'>
+<!ENTITY fxaccount_status_sync_now 'No syngronisearje'>
+<!ENTITY fxaccount_status_syncing2 'Syngronisearje…'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnamme'>
 <!ENTITY fxaccount_status_sync_server 'Synctsjinner'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
