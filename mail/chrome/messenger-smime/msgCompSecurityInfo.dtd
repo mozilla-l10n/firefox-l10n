@@ -5,7 +5,7 @@
 
 
 <!ENTITY title.label "Varnost sporočila">
-<!ENTITY subject.plaintextWarning "Opomba: Zadeve e-pošte nikoli niso šifrirane.">
+<!ENTITY subject.plaintextWarning "Opomba: zadeve e-pošte niso nikoli šifrirane.">
 <!ENTITY status.heading "Vsebino vašega sporočila se bo poslalo kot sledi:">
 <!ENTITY status.signed "Digitalno podpisano:">
 <!ENTITY status.encrypted "Šifrirano:">
