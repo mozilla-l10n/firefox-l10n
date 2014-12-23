@@ -33,11 +33,7 @@
 <!ENTITY showCookies.label "Toan cookies…">
 <!ENTITY showCookies.accesskey "T">
 
-<!ENTITY dntTrackingNopref.label2 "Fertel websites neat oer myn folchfoarkarren">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Websites witte litte dat ik net folge wurde wol.">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Fertel websites dat ik folge wurde wold">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Mear ynfo oer Do Not Track">
 

@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label		"Feed-abonneminten">
-<!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikelen dy't al ynladen binne.">
+<!ENTITY learnMore.label             "Mear ynfo oer feeds">
 
 <!ENTITY feedTitle.label				"Titel:">
 <!ENTITY feedTitle.accesskey         "T">
