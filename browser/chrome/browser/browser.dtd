@@ -750,7 +750,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Beskerming is útskeakele">
 
 <!ENTITY trackingContentBlocked.message "Folgjen">
-<!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online activiteiten folgje binne blokkearre.">
+<!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online aktiviteiten folgje binne blokkearre.">
 <!ENTITY trackingContentBlocked.learnMore "Lês mear">
 <!ENTITY trackingContentBlocked.options "Opsjes">
 <!ENTITY trackingContentBlocked.unblock2.label "Beskerming útskeakelje foar dizze site">
