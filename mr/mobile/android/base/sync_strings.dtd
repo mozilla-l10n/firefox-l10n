@@ -161,6 +161,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "माहिती पडताळणीसाठी, &formatS;वर एक दुवा पाठविला गेला आहे">
 <!ENTITY fxaccount_confirm_account_resend_email "इमेल पुन्हा पाठवा">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "तपासणी इमेल रवाना">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "तपासणी इमेल पाठवु नाही शकले">
 
@@ -179,6 +180,8 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
+
+
 
 
 

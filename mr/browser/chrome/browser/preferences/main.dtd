@@ -30,3 +30,12 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "नेहमी मला फाइल कुठे साठवायचे ते विचारा">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; सध्या तुमचे पूर्वनिर्धारित ब्राउजर आहे">
+
+
+
+

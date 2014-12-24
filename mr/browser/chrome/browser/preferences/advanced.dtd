@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "परस्पर लिहीतेवेळी शुध्दलेखन तपासा">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "प्रणाली मुलभूत">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "प्रारंभ होतेवेळी &brandShortName; पूर्वनिर्धारित ब्राऊजर आहे याची खात्री करा">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; याला पूर्वनिर्धारित ब्राउजर बनवा">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; सध्या तुमचे पूर्वनिर्धारित ब्राउजर आहे">
-
 <!ENTITY dataChoicesTab.label            "माहिती पर्याय">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">

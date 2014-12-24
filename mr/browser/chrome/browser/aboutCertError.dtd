@@ -25,6 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "सहसा या स्थळाशी 
 अडचणी विना जुळवणी स्थापीत केल्यास, या त्रुटीचा अर्थ असा होतो की कुणितरी हे स्थळ सदोषीत 
 करण्याचा प्रयत्न करीत आहे, व तुम्ही पुढे जाऊ नका.">
+
 <!ENTITY certerror.getMeOutOfHere.label "मला येथून बाहेर काढा!">
 
 <!ENTITY certerror.expert.heading "मला यातील धोके कळतात">
