@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "व्यक्तिगत कळ निर्माण करत आहे">
 <!ENTITY createCertInfo.msg1 "व्यक्तिगत कळ निर्माण करत आहे… याला काहीक मिनिटे लागेल…">
 <!ENTITY createCertInfo.msg2 "कृपया थांबा…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "मजकुर स्वाक्षरी विनंती">
-<!ENTITY formSigning.cert "स्वाक्षरी प्रमाणपत्र">
-<!ENTITY formSigning.confirmPassword "तुम्ही निवडलेले प्रमाणपत्र वापरून मजकुरावर सही करण्यास तयार आहात अशी कबुली देण्याकरीता, कृपया मुख्य गुप्तशब्द प्रविष्ट करा:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "सुरक्षीत टोकन अधिप्रमाणता">

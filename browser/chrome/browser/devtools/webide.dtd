@@ -1,0 +1,133 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "खंडीत करा">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "दृश्य">
+
+
+
+<!ENTITY viewMenu_zoomin_label "मोठे करा">
+
+<!ENTITY viewMenu_zoomout_label "छोटे करा">
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimePanel_other "इतर">
+<!ENTITY runtimePanel_installsimulator "सिम्युलेटर इंस्टॉल करा">
+
+
+<!-- Lense -->
+
+
+
+
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "बंद करा">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+
+<!ENTITY prefs_restore "पूर्वनिर्धारित पुनःस्थापीत करा">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_detectindentation_tooltip "स्रोत अंतर्भुत माहितीवर आधारित इंडेंटेशन ओळखा">
+
+
+<!ENTITY prefs_options_autoclosebrackets "कंस स्व बंद करा">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "बंद कंस स्वतः अंतर्भुत करा">
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "नाव">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "मदत">

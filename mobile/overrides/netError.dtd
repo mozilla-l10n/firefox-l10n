@@ -17,7 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
 
 <!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -30,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणामुळे, हे पृष्ठ दाखल करू शकत नाही.</p>">
 
 <!ENTITY malformedURI.title "पत्ता वैध नाही">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>वेब पत्ता शक्यतो खालील प्रमाणे लिहीले जातो 
-<strong>http://www.example.com/</strong></li> 
-<li>फॉरवर्ड स्लॅश वापरत आहात याची खात्री करा (जसे 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
 
@@ -44,7 +41,8 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरी म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजाची पुनःविनंती करत नाही.</li><li>संकेतस्थळावरून दस्तऐवज परत मागविण्यासाठी पुनःप्रयत्न करा या बटनला क्लिक करा.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -75,7 +73,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -103,10 +102,11 @@
 <li>आपण या सर्वरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व तुम्ही 
 पुनःप्रयत्न करू शकता.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-
-<!ENTITY cspFrameAncestorBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
+<!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
+<!ENTITY cspBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
 
 <!ENTITY corruptedContentError.title "दुषीत मजकूर त्रुटी">
 <!ENTITY corruptedContentError.longDesc "<p>माहिती स्थानांतरणवेळी त्रुटी आढळल्याने, अपेक्षीत पान दाखवणे शक्य नाही.</p><ul><li>या अडचणीविषयी माहिती देण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क साधा.</li></ul>">

@@ -76,9 +76,11 @@
 <!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
 <!ENTITY pref_browser_locale "ब्राउझर भाषा">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -91,6 +93,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
 
+
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -102,8 +106,11 @@
 <!ENTITY pref_category_search3 "शोधा">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
 <!ENTITY pref_category_display "दृश्य">
+
 <!ENTITY pref_category_privacy_short "गुप्तता">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
 <!ENTITY pref_learn_more "आणखी शिका">
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
@@ -118,6 +125,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
+
 
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
 <!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
@@ -152,10 +160,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
-<!ENTITY pref_donottrack_menu "मार्गनिरीक्षण">
-<!ENTITY pref_donottrack_disallow_tracking "साईट्सला माझे मार्गनिरिक्षण करण्यास नकार सांगा">
-<!ENTITY pref_donottrack_allow_tracking "साईट्सला माझे मार्गनिरिक्षण करण्यास सांगा">
-<!ENTITY pref_donottrack_no_pref "माझ्या मार्गनिरिक्षण प्राधान्यांबद्दल साईट्सला सांगू नका">
+
 
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
@@ -191,10 +196,14 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
+
+
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync "ताळमेळ">
+
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
+
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म आणि शोध इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
@@ -244,11 +253,10 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
-<!ENTITY datareporting_wifi_geolocation_summary "पडद्यामागे चालु असताना वाय-फाय आणि सेल्युलर स्थान माहिती मिळवते आणि आमची जिओलोकेशन सेवा सुधारण्यासाठी &vendorShortName;सोबत शेअर करते">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload2 "सुधारणा स्वयं डाऊनलोड करा">
 <!ENTITY pref_update_autodownload_wifi "फक्त वाय-फाय असेल तर">
 <!ENTITY pref_update_autodownload_never "कधीच नाही">
@@ -278,6 +286,7 @@ size. -->
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY tabs_synced "ताळमेळीत">
 <!ENTITY set_image_fail "प्रतिमा सेट करण्यात असमर्थ">
+
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -333,8 +342,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
 
 <!ENTITY reading_list_added "पान तुमच्या वाचन यादीत जोडले गेले">
-<!ENTITY reading_list_failed "तुमच्या वाचन यादीत पान जोडण्यात अयशस्वी">
 <!ENTITY reading_list_duplicate "पान अगोदरच तुमच्या वाचन यादीत">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -357,7 +369,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साईट जोडा">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; मुख्यपृष्ठ">
 <!ENTITY home_history_title "इतिहास">
 
 
@@ -367,6 +382,8 @@ size. -->
 <!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
 
 <!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "नंतरसाठी साठवलेले लेख येथे दिसतील.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -385,7 +402,25 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; पर्यंत">
 
+
+<!ENTITY home_remote_tabs_unable_to_connect "जोडणी होऊ शकत नाही">
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
 <!ENTITY private_browsing_title "खाजगी रीत्या ब्राउझिंग">
+
+
+
 
 
 
@@ -410,11 +445,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "यांकडून चालविले जाते">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "हे पान आशय दाखवत आहे जे सुरक्षित नाही.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName;ने आशय अडवले आहे जे असुरक्षित आहे.">
 <!ENTITY blocked_mixed_content_message_bottom "हा आशय अडवल्यावरही अनेक संकेतस्थळे योग्यरित्या कार्य करतील.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "आणखी शिका">
 <!ENTITY enable_protection "सुरक्षा सक्रीय करा">
 <!ENTITY disable_protection "सुरक्षा निष्क्रिय करा">
@@ -442,8 +485,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "ॲप">
 
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
-
-<!ENTITY devtools_remote_debugging_forward "पोर्ट फॉरवर्डींग सेट करण्यास विसरू नका!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
@@ -456,6 +497,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययावतासाठी स्पर्श करा">
+<!-- New tablet UI -->
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नवीन अतिथी सत्र">
@@ -464,6 +508,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "रद्द करा">
 <!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
 <!ENTITY new_guest_session_text "जी व्यक्ती हे वापरत असेल त्याला तुमची वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा तुमच्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःस्थापित होईल.">
+
+
 
 <!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
 <!ENTITY exit_guest_session_text "या सत्राची ब्राउझिंग माहिती काढून टाकली जाईल.">
@@ -474,7 +520,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY ellipsis "…">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "मेनू">
@@ -485,3 +531,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
