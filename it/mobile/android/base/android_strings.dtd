@@ -241,9 +241,6 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
-<!ENTITY pref_titlebar_mode "Barra del titolo">
-<!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
-<!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY page_removed "Pagina rimossa">
