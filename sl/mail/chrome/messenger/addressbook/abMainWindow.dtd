@@ -9,8 +9,8 @@
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Stik imenika …">
-<!ENTITY newContact.accesskey                           "n">
+<!ENTITY newContact.label                               "Stik iz imenika …">
+<!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Dopisni seznam …">
 <!ENTITY newListCmd.accesskey                           "D">

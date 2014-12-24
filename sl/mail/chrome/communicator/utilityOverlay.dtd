@@ -13,7 +13,7 @@
 <!ENTITY editMenu.accesskey        "U">
 <!ENTITY undoCmd.label            "Razveljavi">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "z">
+<!ENTITY undoCmd.accesskey          "R">
 <!ENTITY redoCmd.label            "Uveljavi">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "U">
