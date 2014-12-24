@@ -70,8 +70,8 @@
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
-
-
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mis proyectos">
 <!ENTITY projectPanel_runtimeApps "Tiempo de ejecución de aplicaciones">
@@ -113,7 +113,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurar los valores predeterminados">
-
+<!ENTITY prefs_manage_components "Administrar los componentes extras">
 <!ENTITY prefs_options_rememberlastproject "Recordar el último proyecto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restablecer el proyecto previo cuando WebIDE inicie">
 <!ENTITY prefs_options_templatesurl "Plantillas URL">
@@ -145,6 +145,8 @@
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilegios más altos">
 <!ENTITY runtimedetails_privilegesWarning "(Se reiniciará el dispositivo. Requiere acceso root.)">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreferences_title "Preferencias del dispositivo">
 <!ENTITY devicepreferences_search "Preferencias de búsqueda">
 <!ENTITY devicepreferences_newname "Nombre nuevo de preferencia">
 <!ENTITY devicepreferences_newtext "Valor de preferencia">
