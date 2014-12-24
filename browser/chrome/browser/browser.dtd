@@ -367,7 +367,7 @@
 <!ENTITY emailVideoCmd.label "Invia video per email…">
 <!ENTITY emailVideoCmd.accesskey "n">
 <!ENTITY castVideoCmd.label "Invia video a dispositivo">
-<!ENTITY castVideoCmd.accesskey "n"> 
+<!ENTITY castVideoCmd.accesskey "n">
 <!ENTITY emailAudioCmd.label "Invia audio per email…">
 <!ENTITY emailAudioCmd.accesskey "n">
 <!ENTITY playPluginCmd.label "Attiva questo plugin">
