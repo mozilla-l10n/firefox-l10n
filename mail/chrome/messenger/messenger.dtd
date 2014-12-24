@@ -56,7 +56,7 @@
 <!ENTITY sendUnsentCmd.label "Pošlji neposlana sporočila">
 <!ENTITY sendUnsentCmd.accesskey "š">
 <!ENTITY subscribeCmd.label "Naroči se …">
-<!ENTITY subscribeCmd.accesskey "N">
+<!ENTITY subscribeCmd.accesskey "č">
 <!ENTITY deleteFolder.label "Izbriši mapo">
 <!ENTITY deleteFolder.accesskey "b">
 <!ENTITY renameFolder.label "Preimenuj mapo …">
