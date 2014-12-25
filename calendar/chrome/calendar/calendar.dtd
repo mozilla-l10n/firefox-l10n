@@ -181,7 +181,7 @@
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label              "Napredek">
-<!ENTITY calendar.context.progress.accesskey          "a">
+<!ENTITY calendar.context.progress.accesskey          "e">
 <!ENTITY calendar.context.priority.label              "Prednost">
 <!ENTITY calendar.context.priority.accesskey          "r">
 <!ENTITY calendar.context.postpone.label              "Odloži opravilo">

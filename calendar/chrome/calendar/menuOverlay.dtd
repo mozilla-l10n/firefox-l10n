@@ -4,28 +4,28 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Nov dogodek …">
-<!ENTITY event.new.event.accesskey              "g">
+<!ENTITY event.new.event.accesskey              "d">
 
 <!ENTITY event.new.task                         "Novo opravilo …">
-<!ENTITY event.new.task.accesskey               "o">
+<!ENTITY event.new.task.accesskey               "a">
 
 <!ENTITY calendar.import.label                  "Uvozi …">
 <!ENTITY calendar.import.accesskey              "U">
 
 <!ENTITY calendar.export.label                  "Izvozi …">
-<!ENTITY calendar.export.accesskey              "I">
+<!ENTITY calendar.export.accesskey              "z">
 
 <!ENTITY calendar.publish.label                 "Objavi …">
 <!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Izbriši izbrani koledar …">
-<!ENTITY calendar.deletecalendar.accesskey      "z">
+<!ENTITY calendar.deletecalendar.accesskey      "b">
 
 <!ENTITY calendar.menu.customize.label          "Prilagodi …">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
 <!ENTITY showUnifinderCmd.label                 "Najdi dogodke">
-<!ENTITY showUnifinderCmd.accesskey             "i">
+<!ENTITY showUnifinderCmd.accesskey             "N">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Prikaži opravila v koledarju">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "o">
