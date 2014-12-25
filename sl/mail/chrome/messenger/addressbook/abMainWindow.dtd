@@ -108,7 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.label                           "Prikazano ime">
 <!ENTITY displayNameCmd.accesskey                       "r">
 <!ENTITY sortMenu.label                                 "Razvrsti po">
-<!ENTITY sortMenu.accesskey                             "a">
+<!ENTITY sortMenu.accesskey                             "s">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label                                "Orodja">

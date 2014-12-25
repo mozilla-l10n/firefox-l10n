@@ -5,9 +5,9 @@
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
 <!ENTITY generalInfo.label                       "Splošni podatki">
-<!ENTITY folderCharsetFallback.label             "Pomožni nabor znakov:">
+<!ENTITY folderCharsetFallback.label             "Pomožno kodiranje znakov:">
 <!ENTITY folderCharsetFallback.accesskey         "P">
-<!ENTITY folderCharsetEnforce.label              "Uveljavi nabor za vsa sporočila v mapi (nastavitve nabora znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
+<!ENTITY folderCharsetEnforce.label              "Uveljavi kodiranje za vsa sporočila v mapi (nastavitve kodiranja znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
 <!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
