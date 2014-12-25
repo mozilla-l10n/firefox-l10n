@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY progress.title                  "Download em progresso...">
 
 
-
+<!ENTITY cmd.resume.tooltip              "Continuar">
+<!ENTITY cmd.retry.tooltip               "Tentar novamente">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
