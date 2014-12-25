@@ -11,7 +11,7 @@
 <!ENTITY SearchHighlight1.text "Buscar de forma instantánea en cualquier de estos sitios sin cambiar tu sitio predeterminado.">
 
 <!ENTITY SearchHighlight2.title "Sugerencias inteligentes">
-
+<!ENTITY SearchHighlight2.text "Aparecen sugerencias desde tu motor de búsqueda mientras tecleas.">
 
 <!ENTITY SearchHighlightNext "Siguiente">
 <!ENTITY SearchHighlightClose "¡Gracias!">

@@ -11,14 +11,15 @@
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
+<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de ubicación">
 
 <!ENTITY  locbar.suggest.label          "Cuando se usa la barra de ubicación, sugerir:">
-
-
-
-
+<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Abrir pestañas">
 <!ENTITY  locbar.openpage.accesskey     "O">
 
