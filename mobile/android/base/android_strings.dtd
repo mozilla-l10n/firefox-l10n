@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-
+<!ENTITY pref_donottrack_title "Do Not Track">
+<!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Azeri laranja azkarrak zure aurreikuspenen gainetik egiten du jauzi abiadura, malgutasun eta segurtasun gehiagorekin. Irabazi-asmorik gabeko modura, libre gara zure alde berrikuntzak egiteko inongo akordioen presiorik gabe. Zuretzako esperientzia hobean eta webarentzat etorkizun argiagoan itzultzen da hori.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Baimendu auto-erreprodukzioa">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolatu webguneek bideoak eta bestelako multimedia-edukiak automatikoki erreproduzi ditzaketen ala ez">
 
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
 <!ENTITY pref_sync "Sync">

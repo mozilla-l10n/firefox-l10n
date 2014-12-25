@@ -95,7 +95,6 @@
 <!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
 <!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala idaztean nortasun iruzur bat egiteko aukera dago.</p> <p>Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira.</p>">
 
-<!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 
 
 <!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
