@@ -66,10 +66,10 @@
 
 <!ENTITY cmd.pause.label                 "Pausar">
 <!ENTITY cmd.pause.accesskey             "P">
-
-
-
-
+<!ENTITY cmd.resume.label                "Continuar">
+<!ENTITY cmd.resume.accesskey            "C">
+<!ENTITY cmd.retry.label                 "Tentar novamente">
+<!ENTITY cmd.retry.accesskey             "n">
 
 
 
