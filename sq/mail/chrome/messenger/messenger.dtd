@@ -605,7 +605,7 @@
 <!ENTITY folderContextGetMessages.label "Merr Mesazhet">
 <!ENTITY folderContextGetMessages.accesskey "M">
 <!ENTITY folderContextOpenInNewWindow.label "Hape në Dritare të Re">
-<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.accesskey "D">
 <!ENTITY folderContextOpenNewTab.label "Hape në Skedë të Re">
 <!ENTITY folderContextOpenNewTab.accesskey "S">
 <!ENTITY folderContextNew.label "Nëndosje e Re…">
