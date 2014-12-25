@@ -395,11 +395,11 @@
 <!ENTITY markMenu.accesskey "č">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Kot prebrano">
-<!ENTITY markAsReadCmd.accesskey "p">
+<!ENTITY markAsReadCmd.accesskey "r">
 <!ENTITY markAsUnreadCmd.label "Kot neprebrano">
-<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd.accesskey "e">
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
-<!ENTITY markThreadAsReadCmd.accesskey "r">
+<!ENTITY markThreadAsReadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.key "p">
 <!ENTITY markReadByDateCmd.label "Kot prebrano na datum …">
 <!ENTITY markReadByDateCmd.accesskey "d">
@@ -411,7 +411,7 @@
 <!ENTITY markStarredCmd.accesskey "D">
 <!ENTITY markStarredCmd.key "Z">
 <!ENTITY markAsJunkCmd.label "Kot neželeno">
-<!ENTITY markAsJunkCmd.accesskey "K">
+<!ENTITY markAsJunkCmd.accesskey "ž">
 <!ENTITY markAsJunkCmd.key "n">
 <!ENTITY markAsNotJunkCmd.label "Ne kot neželeno">
 <!ENTITY markAsNotJunkCmd.accesskey "e">
@@ -449,7 +449,7 @@
 <!ENTITY addons.label "Dodatki">
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Upravitelj dejavnosti">
-<!ENTITY activitymanager.accesskey "U">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Stanje klepeta">
 <!ENTITY imAccountsStatus.accesskey "n">
 <!ENTITY imStatus.available          "Dosegljiv">
