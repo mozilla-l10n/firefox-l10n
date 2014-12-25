@@ -44,7 +44,7 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Auto-txukundu txikitutako iturburuak">
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "t">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
@@ -65,7 +65,7 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           "Pausatu salbuespenetan">
-
+<!ENTITY debuggerUI.pauseExceptions.accesskey "s">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
@@ -80,7 +80,7 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Erakutsi aldagaien iragazte-koadroa">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "d">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
@@ -115,7 +115,7 @@
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "Bilatu fitxategi guztietan">
-
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "f">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->

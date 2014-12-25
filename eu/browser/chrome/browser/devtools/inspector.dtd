@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Itsatsi barruko HTMLa">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "b">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -39,22 +41,32 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Itsatsi…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "Aurretik">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "Ondoren">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "Lehen ume gisa">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "L">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "Azken ume gisa">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
@@ -68,7 +80,7 @@
      the placeholder in inspector search box -->
 
 <!ENTITY inspectorSearchHTML.label          "Bilatu HTMLa">
-
+<!ENTITY inspectorSearchHTML.key            "F">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
