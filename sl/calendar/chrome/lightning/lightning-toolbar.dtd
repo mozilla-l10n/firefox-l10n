@@ -10,7 +10,7 @@
 <!ENTITY lightning.toolbar.sync.label "Uskladi">
 <!ENTITY lightning.toolbar.delete.label "Izbriši">
 <!ENTITY lightning.toolbar.edit.label "Uredi">
-<!ENTITY lightning.toolbar.gototoday.label "Pojdi na Danes">
+<!ENTITY lightning.toolbar.gototoday.label "Pojdi na današnji dan">
 <!ENTITY lightning.toolbar.print.label "Natisni">
 <!-- Mode Toolbar -->
 
