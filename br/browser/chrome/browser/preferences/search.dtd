@@ -6,16 +6,21 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Dibabit ho keflusker enklask dre ziouer. Implijet e vo er varenn lec'hiadur, er varenn enklask, ha war ar bajenn degemer gant &brandShortName;.">
 
-
+<!ENTITY provideSearchSuggestions.label        "Kinnig alioù enklask">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
 <!ENTITY oneClickSearchEngines.label           "Kefluskerioù enklask gant ur c'hlik.">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Laosket oc'h da glask kefluskerioù enklask disheñvel war-eeun. Dibabit peseurt hini vo diskouezet.">
 
+<!ENTITY engineNameColumn.label                "Kefluskerioù enklask">
 <!ENTITY engineKeywordColumn.label             "Gerioù alc'hwez">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Assav ar c'hefluskerioù enklask dre ziouer">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
+<!ENTITY removeEngine.label                    "Dilemel">
+<!ENTITY removeEngine.accesskey                "D">
 
-
-
+<!ENTITY addMoreSearchEngines.label            "Ouzhpennañ muioc'h a gefluskerioù enklask…">
