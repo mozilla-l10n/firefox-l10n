@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Argibide gehiago">
 <!ENTITY doNotTrackInfo.label           "Argibide gehiago">
 
+<!ENTITY  history.label                 "Historia">
 
 <!ENTITY  locationBar.label             "Helbide-barra">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Helbide-barra erabiltzean, gomendatu:">
+<!ENTITY  locbar.history.label          "Historia">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Laster-markak">
+<!ENTITY  locbar.bookmarks.accesskey    "L">
+<!ENTITY  locbar.openpage.label         "Irekitako fitxak">
+<!ENTITY  locbar.openpage.accesskey     "I">
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">
