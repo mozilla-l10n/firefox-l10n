@@ -719,12 +719,12 @@
 <!ENTITY contextReplyList.accesskey "s">
 <!ENTITY contextForward.label "Encaminhar">
 <!ENTITY contextForward.accesskey "E">
+<!ENTITY contextForwardAsMenu.label "Encaminhar como">
+<!ENTITY contextForwardAsMenu.accesskey "h">
 
 
-
-
-
-
+<!ENTITY contextForwardAsAttachmentItem.label "Anexo">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "x">
 
 
 <!ENTITY contextMoveMsgMenu.label "Mover para">
@@ -736,7 +736,7 @@
 
 
 
-
+<!ENTITY contextWatchThreadMenu.label "Monitorar tópico">
 <!ENTITY contextSaveAs.label "Salvar como arquivo…">
 <!ENTITY contextSaveAs.accesskey "l">
 <!ENTITY contextPrint.label "Imprimir…">
@@ -835,8 +835,8 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Adicionar ao catálogo de endereços">
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
-
-
+<!ENTITY EditContact1.label "Editar contato">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Exibir contato">
 <!ENTITY ViewContact.accesskey "x">
 <!ENTITY SubscribeToNewsgroup.label "Inscrever o newsgroup">
