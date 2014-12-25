@@ -40,8 +40,8 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 
-
-
+<!ENTITY cmd.delete.label               "Excluir esta página">
+<!ENTITY cmd.delete.accesskey           "E">
 
 
 
@@ -86,8 +86,8 @@
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 
-
-
+<!ENTITY search.scopeBookmarks.label               "Favoritos">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY saveSearch.label                          "Salvar">
 <!ENTITY saveSearch.accesskey                      "v">
 
