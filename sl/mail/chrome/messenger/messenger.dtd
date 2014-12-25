@@ -173,7 +173,7 @@
 <!ENTITY sortByStarCmd.label "Zvezdici">
 <!ENTITY sortByStarCmd.accesskey "Z">
 <!ENTITY sortByAttachmentsCmd.label "Priponkah">
-<!ENTITY sortByAttachmentsCmd.accesskey "n">
+<!ENTITY sortByAttachmentsCmd.accesskey "h">
 <!ENTITY sortByPriorityCmd.label "Prednosti">
 <!ENTITY sortByPriorityCmd.accesskey "r">
 <!ENTITY sortBySizeCmd.label "Velikosti">
@@ -191,7 +191,7 @@
 <!ENTITY sortByRecipientCmd.label "Prejemniku">
 <!ENTITY sortByRecipientCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Prebrano">
-<!ENTITY sortByUnreadCmd.accesskey "b">
+<!ENTITY sortByUnreadCmd.accesskey "n">
 <!ENTITY sortByOrderReceivedCmd.label "Vrstnem redu prejema">
 <!ENTITY sortByOrderReceivedCmd.accesskey "m">
 <!ENTITY sortAscending.label "Naraščajoče">
@@ -201,7 +201,7 @@
 <!ENTITY sortThreaded.label "V niti">
 <!ENTITY sortThreaded.accesskey "V">
 <!ENTITY sortUnthreaded.label "Brez niti">
-<!ENTITY sortUnthreaded.accesskey "t">
+<!ENTITY sortUnthreaded.accesskey "B">
 <!ENTITY groupBySort.label "V skupinah po razvrstitvi">
 <!ENTITY groupBySort.accesskey "u">
 <!ENTITY msgsMenu.label "Sporočila">
@@ -214,14 +214,14 @@
 <!ENTITY expandAllThreadsCmd.accesskey "R">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Strni vse niti">
-<!ENTITY collapseAllThreadsCmd.accesskey "v">
+<!ENTITY collapseAllThreadsCmd.accesskey "S">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Neprebrane">
-<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY unreadMsgsCmd.accesskey "e">
 <!ENTITY threadsWithUnreadCmd.label "Niti z neprebranimi">
-<!ENTITY threadsWithUnreadCmd.accesskey "z">
+<!ENTITY threadsWithUnreadCmd.accesskey "N">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Spremljane niti z neprebranimi">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "S">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Prezrte niti">
 <!ENTITY ignoredThreadsCmd.accesskey "P">
 
