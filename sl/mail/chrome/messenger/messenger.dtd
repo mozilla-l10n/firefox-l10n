@@ -377,10 +377,10 @@
 <!ENTITY killSubthreadMenu.accesskey "t">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
-<!ENTITY watchThreadMenu.accesskey "l">
+<!ENTITY watchThreadMenu.accesskey "i">
 <!ENTITY watchThreadMenu.key "s">
 <!ENTITY tagMenu.label "Dodaj oznako">
-<!ENTITY tagMenu.accesskey "j">
+<!ENTITY tagMenu.accesskey "a">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -422,7 +422,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Odpri kot pogovor">
-<!ENTITY openConversationCmd.accesskey "v">
+<!ENTITY openConversationCmd.accesskey "p">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Priponke">
 <!ENTITY openAttachmentListCmd.accesskey "r">
@@ -731,7 +731,7 @@
 <!ENTITY contextMoveMsgMenu.label "Premakni v">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "e">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "v">
 <!ENTITY contextKillThreadMenu.label "Prezri nit">
