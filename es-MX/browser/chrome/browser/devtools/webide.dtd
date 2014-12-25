@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Abrir aplicación…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Instalar y ejecutar">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Detener aplicación">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Depurar Aplicación">
@@ -151,8 +151,8 @@
 <!ENTITY devicepreferences_newname "Nombre nuevo de preferencia">
 <!ENTITY devicepreferences_newtext "Valor de preferencia">
 <!ENTITY devicepreferences_addnew "Agregar una nueva preferencia">
-
-
+<!ENTITY devicepreferences_typeboolean "Booleano">
+<!ENTITY devicepreferences_typenumber "Entero">
 <!ENTITY devicepreferences_typestring "Cadena">
 <!ENTITY devicepreferences_typenone "Selecciona un tipo">
 <!-- Monitor -->

@@ -14,10 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "La barra de búsqueda te permite usar otros buscadores directamente. Elige cuáles se mostrarán.">
 
+<!ENTITY engineNameColumn.label                "Motor de búsqueda">
 <!ENTITY engineKeywordColumn.label             "Palabra clave">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de búsqueda predeterminados">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
-
-
+<!ENTITY removeEngine.label                    "Eiminar">
+<!ENTITY removeEngine.accesskey                "R">
 
 <!ENTITY addMoreSearchEngines.label            "Añadir más buscadores…">
