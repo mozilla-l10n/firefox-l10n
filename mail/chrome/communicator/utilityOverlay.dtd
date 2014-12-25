@@ -41,7 +41,7 @@
 <!ENTITY viewToolbarsMenu.label        "Orodne vrstice">
 <!ENTITY viewToolbarsMenu.accesskey      "r">
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
-<!ENTITY showTaskbarCmd.accesskey        "s">
+<!ENTITY showTaskbarCmd.accesskey        "n">
 
 <!ENTITY closeCmd.label      "Izhod">
 <!ENTITY closeCmd.key      "W">

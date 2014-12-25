@@ -136,7 +136,7 @@
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY messagePaneLayoutStyle.label "Razporeditev">
-<!ENTITY messagePaneLayoutStyle.accesskey "R">
+<!ENTITY messagePaneLayoutStyle.accesskey "z">
 <!ENTITY messagePaneClassic.label "Običajna">
 <!ENTITY messagePaneClassic.accesskey "O">
 <!ENTITY messagePaneWide.label "Široka">
@@ -252,7 +252,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "r">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Prikaži priponke v besedilu">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "P">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "ž">
 
 <!ENTITY pageSourceCmd.label "Vir sporočila">
 <!ENTITY pageSourceCmd.accesskey "V">
