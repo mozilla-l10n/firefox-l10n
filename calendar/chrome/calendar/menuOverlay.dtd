@@ -30,8 +30,8 @@
 <!ENTITY calendar.displaytodos.checkbox.label       "Prikaži opravila v koledarju">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "o">
 
-<!ENTITY goTodayCmd.label                       "Danes">
-<!ENTITY goTodayCmd.accesskey                   "s">
+<!ENTITY goTodayCmd.label                       "Današnji dan">
+<!ENTITY goTodayCmd.accesskey                   "D">
 
 <!ENTITY showCurrentView.label                  "Trenutni pogled">
 <!ENTITY showCurrentView.accesskey              "r">
