@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Hírforrások">
-<!ENTITY learnMore.label             "További tudnivalók a Hírforrásokról">
+
 
 <!ENTITY feedTitle.label             "Cím:">
 <!ENTITY feedTitle.accesskey         "C">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Hírforrás URL: ">
 <!ENTITY feedLocation.accesskey      "H">
 <!ENTITY feedLocation.placeholder    "Érvényes hírforrás hozzáadása">
+<!ENTITY locationValidate.label      "Ellenőrzés">
+<!ENTITY validateText.label          "Ellenőrzés és érvényes URL letöltése.">
 
 <!ENTITY feedFolder.label            "Letöltött cikkek tárolása: ">
 <!ENTITY feedFolder.accesskey        "L">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Címkék előtagja:">
 <!ENTITY autotagUsePrefix.accesskey  "e">
 <!ENTITY autoTagPrefix.placeholder   "Írjon be egy címkeelőtagot">
-
-<!ENTITY locationValidate.label      "Ellenőrzés">
-<!ENTITY validateText.label          "Ellenőrzés és érvényes URL letöltése.">
 
 <!ENTITY button.addFeed.label        "Hozzáadás">
 <!ENTITY button.addFeed.accesskey    "H">
@@ -42,3 +41,5 @@
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Bezárás">
+
+<!ENTITY learnMore.label             "További tudnivalók">
