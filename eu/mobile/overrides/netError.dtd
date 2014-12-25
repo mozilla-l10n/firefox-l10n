@@ -137,7 +137,8 @@
 </li> 
 </ul>">
 
-
+<!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
 <!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
 <!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
