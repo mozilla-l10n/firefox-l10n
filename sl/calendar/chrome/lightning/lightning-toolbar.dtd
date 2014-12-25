@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lightning.toolbar.calendar.name "Orodna vrstica za Calendar">
+<!ENTITY lightning.toolbar.calendar.name "Orodna vrstica za Koledar">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Orodna vrstica za opravila">
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
@@ -16,9 +16,9 @@
 
 <!ENTITY lightning.toolbar.calendar.label     "Koledar">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Preklopi na zavihek koledar">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.accesskey "e">
 <!ENTITY lightning.toolbar.task.label         "Opravila">
-<!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek Opravili">
+<!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek z opravili">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 <!-- Toolbar write button -->
 
