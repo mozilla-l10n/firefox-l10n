@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "M">
 <!ENTITY synchronizeOfflineCmd.label "Receber/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "b">
-
-
+<!ENTITY settingsOfflineCmd2.label "Configurar modo off-line">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Receber mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Receber mensagens com estrela">
@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "C">
 <!ENTITY selectMenu.label "Selecionar">
 <!ENTITY selectMenu.accesskey "S">
-
-
+<!ENTITY all.label "Todos">
+<!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Tópico">
 <!ENTITY selectThreadCmd.accesskey "c">
 <!ENTITY selectThreadCmd.key "A">
@@ -288,7 +288,7 @@
 <!ENTITY nextMsgCmd.key "F">
 <!ENTITY nextUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY nextUnreadMsgCmd.accesskey "l">
-
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Tópico não lido">
@@ -352,8 +352,8 @@
 <!ENTITY forwardAsMenu.accesskey "h">
 
 
-
-
+<!ENTITY forwardAsAttachmentCmd.label "Anexo">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
@@ -407,23 +407,23 @@
 <!ENTITY markAllReadCmd.label "Tudo como lido">
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "C">
-<!ENTITY markStarredCmd.label "Com estrela">
-<!ENTITY markStarredCmd.accesskey "e">
+<!ENTITY markStarredCmd.label "Adicionar estrela">
+<!ENTITY markStarredCmd.accesskey "s">
 
 <!ENTITY markAsJunkCmd.label "Como spam">
 <!ENTITY markAsJunkCmd.accesskey "s">
-<!ENTITY markAsJunkCmd.key "J">
+<!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Como não spam">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
-<!ENTITY markAsNotJunkCmd.key "J">
+<!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Aplicar antispam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "b">
-<!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Abrir como conversa">
-<!ENTITY openConversationCmd.accesskey "r">
-<!ENTITY openConversationCmd.key "O">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Anexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 <!ENTITY openFeedMessage1.label "Ao abrir mensagens RSS">
@@ -461,8 +461,8 @@
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "J">
-
-
+<!ENTITY filtersCmd2.label "Filtros de mensagens">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Aplicar filtros na pasta">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Aplicar filtros nas mensagens selecionadas">
@@ -522,7 +522,7 @@
 <!ENTITY folderLocationToolbarItem.title "Endereço da pasta">
 <!ENTITY tagButton.label "Tags">
 <!ENTITY compactButton.label "Condensar">
-<!ENTITY appmenuButton.label "Menu &brandShortName;">
+<!ENTITY appmenuButton.label "AppMenu">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
@@ -626,8 +626,8 @@
 <!ENTITY folderContextSubscribe.accesskey "v">
 <!ENTITY folderContextSearchForMessages.label "Pesquisar mensagens…">
 <!ENTITY folderContextSearchForMessages.accesskey "e">
-
-
+<!ENTITY folderContextProperties2.label "Propriedades">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Pasta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "P">
 <!ENTITY folderContextSettings2.label "Configurações">
@@ -735,7 +735,7 @@
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 
 
-
+<!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY contextWatchThreadMenu.label "Monitorar tópico">
 <!ENTITY contextSaveAs.label "Salvar como arquivo…">
 <!ENTITY contextSaveAs.accesskey "l">

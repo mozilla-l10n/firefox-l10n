@@ -4,7 +4,7 @@
 
 <!ENTITY toField4.label "Para">
 <!ENTITY fromField4.label "De">
-
+<!ENTITY senderField4.label "Remetente">
 <!ENTITY organizationField4.label "Empresa">
 
 
@@ -12,12 +12,12 @@
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Cco">
 <!ENTITY newsgroupsField4.label "Newsgroups">
-
+<!ENTITY followupToField4.label "Repassar para">
 <!ENTITY tagsHdr4.label "Tags">
 <!ENTITY dateField4.label "Data">
-
+<!ENTITY userAgentField4.label "Agente de usuário">
 <!ENTITY referencesField4.label "Referências">
-
+<!ENTITY messageIdField4.label "ID da mensagem">
 <!ENTITY inReplyToField4.label "Em resposta a">
 <!ENTITY originalWebsite4.label "Site da web">
 
@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder à lista de e-mails">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Postar uma resposta neste grupo">
-
+<!ENTITY hdrMenuForwardButton.label "Encaminhar como">
 <!ENTITY hdrForwardButton1.label "Encaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Encaminhar mensagem">
 <!ENTITY hdrJunkButton1.label "Spam">
