@@ -35,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
-<!ENTITY profilerUI.clearButton "Limpar">
+<!ENTITY profilerUI.clearButton "Borrar">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
