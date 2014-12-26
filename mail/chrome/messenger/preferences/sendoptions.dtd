@@ -19,7 +19,7 @@
 <!ENTITY HTMLTab.label                "Domene za pošto HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Domene za pošto v golem besedilu">
-<!ENTITY PlainTextTab.accesskey       "g">
+<!ENTITY PlainTextTab.accesskey       "b">
 <!ENTITY AddHtmlDomain.label          "Dodaj …">
 <!ENTITY AddHtmlDomain.accesskey      "D">
 <!ENTITY AddPlainText.label           "Dodaj …">

@@ -6,9 +6,9 @@
 <!ENTITY captionMailContent.label "Vsebina pošte">
 
 <!ENTITY acceptRemoteContent.label "Dovoli oddaljeno vsebino v sporočilih">
-<!ENTITY acceptRemoteContent.accesskey "D">
+<!ENTITY acceptRemoteContent.accesskey "a">
 <!ENTITY remoteContentExceptions.label "Izjeme ...">
-<!ENTITY remoteContentExceptions.accesskey "I">
+<!ENTITY remoteContentExceptions.accesskey "e">
 <!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih zasebnosti oddaljene vsebine">
 <!-- Web Content -->
 
@@ -17,13 +17,13 @@
 <!ENTITY keepHistory.label "Zapomni si spletna mesta in povezave, ki sem jih obiskal">
 <!ENTITY keepHistory.accesskey "Z">
 <!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke.">
-<!ENTITY acceptCookies.accesskey "D">
+<!ENTITY acceptCookies.accesskey "s">
 <!ENTITY acceptThirdParty.pre.label "Dovoli piškotke tretjih oseb:">
-<!ENTITY acceptThirdParty.pre.accesskey "v">
+<!ENTITY acceptThirdParty.pre.accesskey "š">
 <!ENTITY acceptThirdParty.always.label "vedno">
 <!ENTITY acceptThirdParty.never.label "nikoli">
 <!ENTITY acceptThirdParty.visited.label "od obiskanih">
-<!ENTITY keepUntil.label "Obdrži dokler:">
+<!ENTITY keepUntil.label "Obdrži jih dokler:">
 <!ENTITY keepUntil.accesskey "O">
 <!ENTITY expire.label "ne pretečejo">
 <!ENTITY close.label "ne zaprem &brandShortName;">
@@ -34,5 +34,5 @@
 <!ENTITY showCookies.accesskey "P">
 
 <!ENTITY dntTrackingNotOkay.label2 "Obvesti spletna mesta, naj mi ne sledijo">
-<!ENTITY dntTrackingNotOkay.accesskey "O">
-<!ENTITY doNotTrackInfo.label "Več o Ne sledi">
+<!ENTITY dntTrackingNotOkay.accesskey "b">
+<!ENTITY doNotTrackInfo.label "Več o značilnosti Do Not Track">

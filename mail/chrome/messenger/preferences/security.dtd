@@ -11,10 +11,10 @@
 <!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Nastavitve neželene pošte za posamezni račun lahko prilagodite v nastavitvah računa.">
 <!ENTITY manualMark.label "Med označevanjem sporočil kot neželenih:">
 <!ENTITY manualMark.accesskey "M">
-<!ENTITY manualMarkModeMove.label "jih prestavi jih v mapo &quot;Neželeno&quot;">
+<!ENTITY manualMarkModeMove.label "jih prestavi v mapo &quot;Neželeno&quot;">
 <!ENTITY manualMarkModeMove.accesskey "r">
 <!ENTITY manualMarkModeDelete.label "jih izbriši">
-<!ENTITY manualMarkModeDelete.accesskey "z">
+<!ENTITY manualMarkModeDelete.accesskey "b">
 <!ENTITY markAsReadOnSpam.label "Označi neželena sporočila kot prebrana">
 <!ENTITY markAsReadOnSpam.accesskey "O">
 <!ENTITY enableAdaptiveJunkLogging.label "Omogoči dnevnik prilagodljivega filtra neželenih sporočil">

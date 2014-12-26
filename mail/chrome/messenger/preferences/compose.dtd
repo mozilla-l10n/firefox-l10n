@@ -16,8 +16,8 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pisava:">
 <!ENTITY font.accesskey                       "s">
-<!ENTITY size.label                           "$Velikost:">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY size.label                           "Velikost:">
+<!ENTITY size.accesskey                       "V">
 <!ENTITY fontColor.label                      "Barva besedila:">
 <!ENTITY fontColor.accesskey                  "b">
 <!ENTITY bgColor.label                        "Barva ozadja:">
@@ -46,7 +46,7 @@
 <!ENTITY addressingEnable.label                "krajevnih imenikih">
 <!ENTITY addressingEnable.accesskey            "k">
 <!ENTITY directories.label                     "imeniškem strežniku:">
-<!ENTITY directories.accesskey                 "i">
+<!ENTITY directories.accesskey                 "m">
 <!ENTITY directoriesNone.label                 "Brez">
 <!ENTITY editDirectories.label                 "Uredi imenike …">
 <!ENTITY editDirectories.accesskey             "U">
