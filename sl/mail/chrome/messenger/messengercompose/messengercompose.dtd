@@ -37,7 +37,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Shrani kot">
-<!ENTITY saveAsCmd.accesskey "r">
+<!ENTITY saveAsCmd.accesskey "k">
 <!ENTITY saveAsFileCmd.label "Datoteko …">
 <!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsDraftCmd.label "Osnutek">
@@ -49,7 +49,7 @@
 <!ENTITY sendNowCmd.accesskey "z">
 <!ENTITY sendLaterCmd.label "Pošlji kasneje">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "k">
+<!ENTITY sendLaterCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
@@ -60,7 +60,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Uredi">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "U">
 <!ENTITY undoCmd.label "Razveljavi">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "R">
@@ -175,7 +175,7 @@
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Orodja">
-<!ENTITY tasksMenu.accesskey "O">
+<!ENTITY tasksMenu.accesskey "r">
 <!ENTITY messengerCmd.label "Pošta in novičarske skupine">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
