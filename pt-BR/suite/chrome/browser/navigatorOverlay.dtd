@@ -6,8 +6,8 @@
 <!ENTITY tabCmd.label "Aba do navegador">
 <!ENTITY tabCmd.accesskey "A">
 <!ENTITY tabCmd.commandkey "t">
-
-
+<!ENTITY openCmd.label "Abrir localização web…">
+<!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Abrir arquivo...">
 <!ENTITY openFileCmd.accesskey "o">
