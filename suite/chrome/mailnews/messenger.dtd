@@ -9,7 +9,7 @@
 
 
 <!ENTITY tabmailCloseButton.tooltip "Fechar aba atual">
-<!ENTITY tabmailAllTabs.tooltip "Listar todas as abas">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -484,8 +484,8 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
-<!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
-<!ENTITY folderContextOpenNewTab.accesskey "a">
+
+
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">
