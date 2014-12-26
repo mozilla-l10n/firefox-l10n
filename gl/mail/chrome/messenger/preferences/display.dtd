@@ -22,24 +22,24 @@
 <!ENTITY displayText.label                "Cando se amose texto sen formato entre comiñas:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Mostrar as emoticonas como imaxes">
-<!ENTITY convertEmoticons.accesskey    "M">
+<!ENTITY convertEmoticons.label        "Amosar as emoticonas como imaxes">
+<!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "As etiquetas poden utilizarse para categorizar e ordenar as mensaxes.">
 <!ENTITY addTagButton.label        "Engadir">
-<!ENTITY addTagButton.accesskey    "d">
+<!ENTITY addTagButton.accesskey    "a">
 <!ENTITY editTagButton.label       "Editar">
-<!ENTITY editTagButton.accesskey   "t">
-<!ENTITY removeTagButton.label     "Borrar">
-<!ENTITY removeTagButton.accesskey "o">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Eliminar">
+<!ENTITY removeTagButton.accesskey "m">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Tipos de letra e cores">
 <!ENTITY defaultFont.label       "Tipo de letra predeterminado:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Tamaño:">
-<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY defaultSize.accesskey   "ñ">
 <!ENTITY fontOptions.accesskey   "a">
 <!ENTITY fontOptions.label       "Tipos de letra…">
 <!ENTITY colorButton.label       "Cores…">

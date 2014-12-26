@@ -57,8 +57,8 @@
 <!ENTITY pasteCmd.label                                 "Pegar">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
-<!ENTITY deleteCmd.label                                "Borrar">
-<!ENTITY deleteCmd.accesskey                            "o">
+<!ENTITY deleteCmd.label                                "Eliminar">
+<!ENTITY deleteCmd.accesskey                            "l">
 <!ENTITY deleteAbCmd.label                              "Eliminar a axenda de enderezos">
 <!ENTITY deleteContactCmd.label                         "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
@@ -138,8 +138,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "b">
 <!ENTITY newIM.label                                    "Mensaxe instantánea">
 <!ENTITY newIM.accesskey                                "a">
-<!ENTITY deleteButton2.label                            "Borrar">
-<!ENTITY deleteButton2.accesskey                        "o">
+<!ENTITY deleteButton2.label                            "Eliminar">
+<!ENTITY deleteButton2.accesskey                        "l">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear un novo contacto na axenda de enderezos">
