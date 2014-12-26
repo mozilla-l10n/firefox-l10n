@@ -44,19 +44,19 @@
 
 <!ENTITY autoMarkAsRead.label          "Samodejno označi sporočila kot prebrana">
 <!ENTITY autoMarkAsRead.accesskey      "S">
-<!ENTITY markAsReadNoDelay.label       "Takoj na zaslonu">
-<!ENTITY markAsReadNoDelay.accesskey   "T">
+<!ENTITY markAsReadNoDelay.label       "takoj na zaslonu">
+<!ENTITY markAsReadNoDelay.accesskey   "a">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Potem, ko so prikazana za">
-<!ENTITY markAsReadDelay.accesskey     "P">
+<!ENTITY markAsReadDelay.label         "potem, ko so prikazana za">
+<!ENTITY markAsReadDelay.accesskey     "o">
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY openMsgIn.label               "Odpri sporočila v:">
 <!ENTITY openMsgInNewTab.label         "novem zavihku">
-<!ENTITY openMsgInNewTab.accesskey     "n">
+<!ENTITY openMsgInNewTab.accesskey     "h">
 <!ENTITY reuseExpRadio0.label          "novem oknu">
-<!ENTITY reuseExpRadio0.accesskey      "v">
+<!ENTITY reuseExpRadio0.accesskey      "k">
 <!ENTITY reuseExpRadio1.label          "obstoječem oknu za sporočila">
 <!ENTITY reuseExpRadio1.accesskey      "o">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
@@ -84,14 +84,14 @@
 <!ENTITY proxiesConfigure.label        "Nastavite, kako naj se &brandShortName; poveže na internet.">
 <!ENTITY connectionsInfo.caption       "Povezava">
 <!ENTITY offlineInfo.caption           "Brez povezave">
-<!ENTITY offlineInfo.label             "Uredi nastavitve za stanje brez povezave">
+<!ENTITY offlineInfo.label             "Uredite nastavitve za stanje brez povezave">
 <!ENTITY showOffline.label             "Brez povezave …">
 <!ENTITY showOffline.accesskey         "B">
 
 <!ENTITY Diskspace                       "Prostor na disku">
-<!ENTITY offlineCompactFolders.label     "Strni mape, kadar bo to prihranilo več kot">
+<!ENTITY offlineCompactFolders.label     "Strni mape, kadar bo to skupaj prihranilo več kot">
 <!ENTITY offlineCompactFolders.accesskey "S">
-<!ENTITY offlineCompactFoldersMB.label   "MB skupaj">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
