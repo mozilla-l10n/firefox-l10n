@@ -38,6 +38,6 @@
 <!ENTITY isDefault.label                  "&brandShortName; nabigatzaile lehenetsia da une honetan">
 <!ENTITY isNotDefault.label               "&brandShortName; ez da zure nabigatzaile lehenetsia">
 
-<!ENTITY separateProfileMode.label        "Onartu &brandShortName; eta Firefox aldi berean exekutatzea">
+<!ENTITY separateProfileMode.label        "Baimendu &brandShortName; eta Firefox aldi berean exekutatzea">
 <!ENTITY useFirefoxSync.label             "Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili Sync hauen artean datuak partekatzeko.">
 <!ENTITY getStarted.label                 "Hasi Sync erabiltzen…">

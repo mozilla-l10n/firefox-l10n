@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Irten pantaila osoko ikuspegitik">
 <!ENTITY fullScreenExit.accesskey "p">
-<!ENTITY fullscreenAllowButton.label "Onartu">
+<!ENTITY fullscreenAllowButton.label "Baimendu">
 <!ENTITY fullscreenExitButton.label "Ukatu">
 
 <!ENTITY fullscreenExitHint2.value "Sakatu ESK edozein unetan irteteko.">
