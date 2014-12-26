@@ -54,3 +54,6 @@
 <!ENTITY welcome.signIn.label "Conectarse">
 <!ENTITY welcome.createAccount.label "Crear una cuenta">
 <!ENTITY welcome.useOldSync.label "¿Usando una versión anterior de Sync?">
+
+<!-- Sync Migration -->
+<!ENTITY migrate.upgradeNeeded      "El sistema de cuentas de sync está siendo descontinuado. Una nueva cuenta de Firefox es requerida para sincronizar.">
