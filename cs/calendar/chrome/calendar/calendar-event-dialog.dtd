@@ -127,8 +127,8 @@
 <!ENTITY event.menu.options.privacy.private.accesskey "r">
 <!ENTITY event.menu.options.show.time.label "Zobrazit čas jako">
 <!ENTITY event.menu.options.show.time.accesskey "j">
-<!ENTITY event.menu.options.show.time.busy.label "Obsazený">
-<!ENTITY event.menu.options.show.time.busy.accesskey "b">
+<!ENTITY event.menu.options.show.time.busy.label "Není volno">
+<!ENTITY event.menu.options.show.time.busy.accesskey "e">
 <!ENTITY event.menu.options.show.time.free.label "Volný">
 <!ENTITY event.menu.options.show.time.free.accesskey "l">
 
