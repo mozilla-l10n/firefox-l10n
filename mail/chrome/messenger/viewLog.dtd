@@ -4,7 +4,7 @@
 
 <!ENTITY viewLog.title "Rexistro de filtros">
 <!ENTITY viewLogInfo.text "O rexistro de filtros documenta os filtros que foron executados nesta conta. Pode activar o rexistro na seguinte caixa de verificación.">
-<!ENTITY clearLog.label "Limpar rexistro">
+<!ENTITY clearLog.label "Borrar rexistro">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY enableLog.label "Activar o rexistro de filtros">
 <!ENTITY enableLog.accesskey "A">

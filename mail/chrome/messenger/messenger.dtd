@@ -57,7 +57,7 @@
 <!ENTITY sendUnsentCmd.accesskey "t">
 <!ENTITY subscribeCmd.label "Subscribir…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Borrar o cartafol">
+<!ENTITY deleteFolder.label "Eliminar o cartafol">
 <!ENTITY deleteFolder.accesskey "t">
 <!ENTITY renameFolder.label "Renomear cartafol…">
 <!ENTITY renameFolder.accesskey "R">
@@ -95,7 +95,7 @@
 <!ENTITY deleteMsgsCmd.accesskey "s">
 <!ENTITY undeleteMsgsCmd.label "Restaurar as mensaxes seleccionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "t">
-<!ENTITY deleteFolderCmd.label "Borrar o cartafol">
+<!ENTITY deleteFolderCmd.label "Eliminar o cartafol">
 <!ENTITY deleteFolderCmd.accesskey "t">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar subscrición">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
@@ -505,8 +505,8 @@
 <!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Atrás">
 <!ENTITY goForwardButton1.label "Adiante">
-<!ENTITY deleteItem.title "Borrar">
-<!ENTITY deleteButton.label "Borrar">
+<!ENTITY deleteItem.title "Eliminar">
+<!ENTITY deleteButton.label "Eliminar">
 <!ENTITY undeleteButton.label "Desfacer Eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">

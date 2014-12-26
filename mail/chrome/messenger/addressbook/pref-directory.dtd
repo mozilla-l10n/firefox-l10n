@@ -13,5 +13,5 @@
 <!ENTITY addDirectory.accesskey    "g">
 <!ENTITY editDirectory.label       "Editar">
 <!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "Borrar">
-<!ENTITY deleteDirectory.accesskey "o">
+<!ENTITY deleteDirectory.label     "Eliminar">
+<!ENTITY deleteDirectory.accesskey "l">

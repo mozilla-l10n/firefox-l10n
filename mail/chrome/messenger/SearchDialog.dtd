@@ -9,12 +9,12 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY searchOnServer.label        "Executar busca no servidor">
 <!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Limpar">
-<!ENTITY resetButton.accesskey       "L">
+<!ENTITY resetButton.label           "Borrar">
+<!ENTITY resetButton.accesskey       "o">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "b">
-<!ENTITY deleteButton.label          "Borrar">
-<!ENTITY deleteButton.accesskey      "o">
+<!ENTITY deleteButton.label          "Eliminar">
+<!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
 <!ENTITY results.label               "Resultados">
 <!ENTITY moveButton.label            "Mover a">
@@ -33,7 +33,7 @@
 <!ENTITY composeButton.label         "Escribir">
 <!ENTITY composeButton.accesskey     "E">
 <!ENTITY deleteCardButton.label      "Eliminar">
-<!ENTITY deleteCardButton.accesskey  "E">
+<!ENTITY deleteCardButton.accesskey  "n">
 <!ENTITY abSearchDialogTitle.label   "Busca avanzada na axenda de enderezos">
 
 <!-- Thread Pane -->

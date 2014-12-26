@@ -4,30 +4,30 @@
 
 <!ENTITY dialog.title                 "Opcións de envío">
 <!ENTITY sendMail.title               "Formato de texto">
-<!ENTITY sendMaildesc.label           "Cando se envíen mensaxes en formato HTML e un/ha ou máis destinatarios/as non se encontren na lista dos que poden recibilas:">
+<!ENTITY sendMaildesc.label           "Cando se envíen mensaxes en formato HTML e un/ha ou máis destinatarios/as non se atopen na lista dos que poden recibilas:">
 <!ENTITY askMe.label                  "Preguntar que facer">
-<!ENTITY askMe.accesskey              "r">
+<!ENTITY askMe.accesskey              "q">
 <!ENTITY convertPlain.label           "Converter a mensaxe en texto sen formato">
-<!ENTITY convertPlain.accesskey       "s">
+<!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "Aínda así enviar como HTML">
-<!ENTITY sendHTML.accesskey           "H">
+<!ENTITY sendHTML.accesskey           "s">
 <!ENTITY sendBoth.label               "Enviar a mensaxe tanto en HTML como en texto sen formato">
-<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Nota: Utilice a axenda de enderezos para especificar os formatos de texto preferidos para cada destinatario/a.">
 
-<!ENTITY domaindesc.label             "Se envía mensaxes a enderezos cuxos nomes de domino se encontran na seguinte lista, &brandShortName; farao automaticamente no formato adecuado.">
+<!ENTITY domaindesc.label             "Se envía mensaxes a enderezos cuxos nomes de domino se atopan na seguinte lista, &brandShortName; farao automaticamente no formato adecuado.">
 <!ENTITY HTMLTab.label                "Dominios HTML">
-<!ENTITY HTMLTab.accesskey            "T">
+<!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Dominios de texto sen formato">
 <!ENTITY PlainTextTab.accesskey       "x">
 <!ENTITY AddHtmlDomain.label          "Engadir…">
 <!ENTITY AddHtmlDomain.accesskey      "d">
 <!ENTITY AddPlainText.label           "Engadir…">
-<!ENTITY AddPlainText.accesskey       "E">
-<!ENTITY DeleteHtmlDomain.label       "Borrar">
-<!ENTITY DeleteHtmlDomain.accesskey   "o">
-<!ENTITY DeletePlainText.label        "Borrar">
-<!ENTITY DeletePlainText.accesskey    "o">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteHtmlDomain.label       "Eliminar">
+<!ENTITY DeleteHtmlDomain.accesskey   "a">
+<!ENTITY DeletePlainText.label        "Eliminar">
+<!ENTITY DeletePlainText.accesskey    "a">
 
 <!ENTITY add.htmltitle                "Engadir nome de dominio HTML">
 <!ENTITY add.htmldomain               "Nome de dominio HTML:">

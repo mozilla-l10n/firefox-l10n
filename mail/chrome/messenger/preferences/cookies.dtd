@@ -8,9 +8,9 @@
 <!ENTITY cookiename.label                  "Nome da cookie">
 <!ENTITY cookiedomain.label                "Sitio">
 <!ENTITY button.removecookie.label         "Eliminar cookie">
-<!ENTITY button.removecookie.accesskey     "E">
+<!ENTITY button.removecookie.accesskey     "r">
 <!ENTITY button.removeallcookies.label     "Eliminar todas as cookies">
-<!ENTITY button.removeallcookies.accesskey "t">
+<!ENTITY button.removeallcookies.accesskey "a">
 
 <!ENTITY props.name.label                  "Nome:">
 <!ENTITY props.value.label                 "Contido:">
@@ -28,5 +28,5 @@
 <!ENTITY filter.accesskey                  "B">
 
 <!ENTITY button.close.label                "Pechar">
-<!ENTITY button.close.accesskey            "P">
+<!ENTITY button.close.accesskey            "c">
 
