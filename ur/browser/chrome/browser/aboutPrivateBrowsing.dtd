@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "آپ رازداری سے براؤز کر رہے ہیں">
+<!ENTITY aboutPrivateBrowsing.title.normal     "نجی دریچہ کھولیں؟">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; اس دریچے کے لیے کوئی سابقات نہیں یاد رکھے گا۔">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; نجی دریچوں کے کوئی سابقات نہیں یاد رکھے گا۔">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "آپ فی الحال نجی دریچے میں نہیں۔">
 
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore        "مزید سیکھیں۔">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "آیک نجی دریچہ کھولیں">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
