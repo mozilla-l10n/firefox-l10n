@@ -76,7 +76,7 @@
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label                           "Propriedades">
 <!ENTITY propertiesCmd2.accesskey                       "P">
-
+<!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Exibir">

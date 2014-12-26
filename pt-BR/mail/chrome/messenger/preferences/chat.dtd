@@ -29,8 +29,8 @@ sentence. -->
 
 <!ENTITY  buddyInfoOnly.label                 "com o nome do remetente apenas">
 <!ENTITY  dummyNotification.label             "sem qualquer informação">
-
-
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Reproduzir um som">
 <!ENTITY  play.label                          "Reproduzir">
 <!ENTITY  play.accesskey                      "p">
 
