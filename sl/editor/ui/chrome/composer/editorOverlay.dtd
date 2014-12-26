@@ -9,12 +9,12 @@
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
-<!ENTITY pasteNoFormatting.accesskey "b">
+<!ENTITY pasteNoFormatting.accesskey "a">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepi kot">
 <!ENTITY pasteAs.accesskey "k">
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
-<!ENTITY pasteAsQuotationCmd.accesskey "n">
+<!ENTITY pasteAsQuotationCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Najdi ...">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj ...">
@@ -124,17 +124,17 @@
 <!ENTITY styleStrong.label "Močnejši poudarek">
 <!ENTITY styleStrong.accesskey "M">
 <!ENTITY styleCite.label "Navedek">
-<!ENTITY styleCite.accesskey "a">
+<!ENTITY styleCite.accesskey "v">
 <!ENTITY styleAbbr.label "Okrajšava">
-<!ENTITY styleAbbr.accesskey "k">
+<!ENTITY styleAbbr.accesskey "š">
 <!ENTITY styleAcronym.label "Kratica">
 <!ENTITY styleAcronym.accesskey "c">
 <!ENTITY styleCode.label "Koda">
 <!ENTITY styleCode.accesskey "d">
 <!ENTITY styleSamp.label "Vzorec izpisa">
-<!ENTITY styleSamp.accesskey "V">
+<!ENTITY styleSamp.accesskey "z">
 <!ENTITY styleVar.label "Spremenljivo">
-<!ENTITY styleVar.accesskey "e">
+<!ENTITY styleVar.accesskey "S">
 
 <!ENTITY formatFontColor.label "Barva besedila …">
 <!ENTITY formatFontColor.accesskey "B">
@@ -170,7 +170,7 @@
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Seznam">
-<!ENTITY formatlistMenu.accesskey "e">
+<!ENTITY formatlistMenu.accesskey "z">
 <!ENTITY noneCmd.label "Brez">
 <!ENTITY noneCmd.accesskey "B">
 <!ENTITY listBulletCmd.label "S seznamskimi točkami">
@@ -221,7 +221,7 @@
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Barve strani in ozadja …">
-<!ENTITY colorsAndBackground.accesskey "v">
+<!ENTITY colorsAndBackground.accesskey "i">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Tabela">
@@ -249,25 +249,25 @@
 <!ENTITY tableRowAbove.label "Vrstico nad">
 <!ENTITY tableRowAbove.accesskey "n">
 <!ENTITY tableRowBelow.label "Vrstico pod">
-<!ENTITY tableRowBelow.accesskey "p">
+<!ENTITY tableRowBelow.accesskey "d">
 <!ENTITY tableColumn.label "Stolpec">
 <!ENTITY tableColumns.label "Stolpce">
 <!ENTITY tableColumn.accesskey "S">
 <!ENTITY tableColumnBefore.label "Stolpec pred">
-<!ENTITY tableColumnBefore.accesskey "o">
+<!ENTITY tableColumnBefore.accesskey "r">
 <!ENTITY tableColumnAfter.label "Stolpec za">
-<!ENTITY tableColumnAfter.accesskey "e">
+<!ENTITY tableColumnAfter.accesskey "z">
 <!ENTITY tableCell.label "Celico">
 <!ENTITY tableCells.label "Celice">
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Vsebino celice">
-<!ENTITY tableCellContents.accesskey "V">
+<!ENTITY tableCellContents.accesskey "e">
 <!ENTITY tableAllCells.label "Vse celice">
-<!ENTITY tableAllCells.accesskey "V">
+<!ENTITY tableAllCells.accesskey "e">
 <!ENTITY tableCellBefore.label "Celico pred">
-<!ENTITY tableCellBefore.accesskey "C">
+<!ENTITY tableCellBefore.accesskey "e">
 <!ENTITY tableCellAfter.label "Celico za">
-<!ENTITY tableCellAfter.accesskey "o">
+<!ENTITY tableCellAfter.accesskey "a">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Izbriši">
 <!ENTITY tableDeleteMenu.accesskey "b">
@@ -342,7 +342,7 @@
 <!ENTITY insertTOC.label          "Vstavi">
 <!ENTITY insertTOC.accesskey      "V">
 <!ENTITY updateTOC.label          "Posodobi">
-<!ENTITY updateTOC.accesskey      "b">
+<!ENTITY updateTOC.accesskey      "P">
 <!ENTITY removeTOC.label          "Odstrani">
 <!ENTITY removeTOC.accesskey      "O">
 <!ENTITY tocMenu.label            "Kazalo vsebine ...">

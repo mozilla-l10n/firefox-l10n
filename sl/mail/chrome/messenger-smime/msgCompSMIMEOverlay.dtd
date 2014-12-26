@@ -5,7 +5,7 @@
 
 
 <!ENTITY menu_securityEncryptRequire.label "Šifriraj to sporočilo">
-<!ENTITY menu_securityEncryptRequire.accesskey "Š">
+<!ENTITY menu_securityEncryptRequire.accesskey "r">
 
 <!ENTITY menu_securitySign.label "Digitalno podpiši to sporočilo">
 <!ENTITY menu_securitySign.accesskey "D">

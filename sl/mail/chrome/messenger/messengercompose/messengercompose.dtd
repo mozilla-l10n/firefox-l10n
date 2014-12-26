@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "S">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "S">
-<!ENTITY newContact.label "Stik imenika …">
+<!ENTITY newContact.label "Stik iz imenika …">
 <!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Pripni">
 <!ENTITY attachMenu.accesskey "P">
@@ -49,7 +49,7 @@
 <!ENTITY sendNowCmd.accesskey "z">
 <!ENTITY sendLaterCmd.label "Pošlji kasneje">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "a">
+<!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
@@ -81,7 +81,7 @@
 <!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Izbriši">
 <!ENTITY deleteCmd.accesskey "b">
-<!ENTITY editRewrapCmd.label "Ponovno oblij">
+<!ENTITY editRewrapCmd.label "Ponovno prelomi">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Preimenuj prilogo …">
 <!ENTITY renameAttachmentCmd.accesskey "e">
@@ -92,10 +92,10 @@
 <!ENTITY findBarCmd.accesskey "N">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj …">
-<!ENTITY findReplaceCmd.accesskey "a">
+<!ENTITY findReplaceCmd.accesskey "m">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Najdi znova">
-<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Najdi prejšnje">
@@ -111,11 +111,11 @@
 <!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Orodna vrstica za sestavljanje">
-<!ENTITY showCompositionToolbarCmd.accesskey "s">
+<!ENTITY showCompositionToolbarCmd.accesskey "e">
 <!ENTITY showFormattingBarCmd.label "Orodna vrstica za oblikovanje">
 <!ENTITY showFormattingBarCmd.accesskey "b">
 <!ENTITY showTaskbarCmd.label "Vrstica stanja">
-<!ENTITY showTaskbarCmd.accesskey "a">
+<!ENTITY showTaskbarCmd.accesskey "n">
 <!ENTITY customizeToolbar.label "Prilagodi …">
 <!ENTITY customizeToolbar.accesskey "P">
 
@@ -151,11 +151,11 @@
 <!ENTITY autoFormatCmd.label "Samodejno zaznaj">
 <!ENTITY autoFormatCmd.accesskey "S">
 <!ENTITY plainTextFormatCmd.label "Samo golo besedilo">
-<!ENTITY plainTextFormatCmd.accesskey "g">
+<!ENTITY plainTextFormatCmd.accesskey "a">
 <!ENTITY htmlFormatCmd.label "Samo obogateno besedilo (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "o">
+<!ENTITY htmlFormatCmd.accesskey "b">
 <!ENTITY bothFormatCmd.label "Golo in obogateno (HTML) besedilo">
-<!ENTITY bothFormatCmd.accesskey "b">
+<!ENTITY bothFormatCmd.accesskey "G">
 <!ENTITY priorityMenu.label "Prednost">
 <!ENTITY priorityMenu.accesskey "r">
 <!ENTITY priorityButton.label "Prednost:">
