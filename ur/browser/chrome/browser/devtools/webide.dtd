@@ -23,7 +23,11 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
+
+
 
 
 
@@ -38,6 +42,10 @@
 
 
 
+<!ENTITY viewMenu_zoomin_label "اندر زوم کریں">
+
+<!ENTITY viewMenu_zoomout_label "باہر زوم کریں">
+
 
 
 
@@ -49,6 +57,7 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
 
 
 
@@ -56,6 +65,9 @@
 
 
 
+
+
+<!ENTITY runtimePanel_other "دیگر">
 <!ENTITY runtimePanel_installsimulator "سمیولیٹر کو تنصیب کریں">
 
 
@@ -98,12 +110,19 @@
 
 
 
-
-
 <!ENTITY prefs_options_keybindings_default "طے شدہ">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

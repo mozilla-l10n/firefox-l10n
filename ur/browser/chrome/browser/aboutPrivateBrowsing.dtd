@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "آیک نجی دریچہ کھولیں">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &gt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">

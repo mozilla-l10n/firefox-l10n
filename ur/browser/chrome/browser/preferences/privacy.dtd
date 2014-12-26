@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 
-<!ENTITY dntTrackingNopref.label2       "سائٹوں کو میری سراغ کاری ترجیحات کے بارے میں میں کچھ بھی نہیں بتائیں">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-
 
 
 
 <!ENTITY doNotTrackInfo.label           "اور سیکھیں">
 
-<!ENTITY  history.label                 "سابقات">
 
 <!ENTITY  locationBar.label             "مقام بند">
 
-<!ENTITY  locbar.pre.label              "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
-<!ENTITY  locbar.pre.accessKey          "ا">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "سابقات اور نشانیاں">
-<!ENTITY  locbar.history.label          "سابقات">
-<!ENTITY  locbar.bookmarks.label        "نشانیاں">
-<!ENTITY  locbar.nothing.label          "کچھ بھی نہیں">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "کبھی نہیں">
 <!ENTITY  acceptThirdParty.visited.label  "ملاحظہ شدہ سے">
 
-<!ENTITY  keepUntil.label               "رکھیں جب تک:">
-<!ENTITY  keepUntil.accesskey           "ر">
+
 
 <!ENTITY  expire.label                  "یہ ایکسبائر ہو جائیں">
 <!ENTITY  close.label                   "میں &brandShortName; بند کروں">

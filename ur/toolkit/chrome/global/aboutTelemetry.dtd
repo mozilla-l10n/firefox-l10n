@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  ٹیلیمٹری <span>نا اہل</span> ہے۔">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  سست SQL سٹیٹمنٹ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  براؤزر جاتا ہے">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  ڈوری پھنس جاتی ہے">
 
 <!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  سادہ پیمائشیں">
 

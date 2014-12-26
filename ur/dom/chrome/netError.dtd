@@ -80,8 +80,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحہ پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کوئی اور فراڈ ہو سکتا ہے۔</p> 
 <p>اس قسم کی ویب نقلیں سکیموں میں استعمال کی جاتی ہیں جنہیں فشنگ اٹیکس کہا جاتا ہے۔ اس میں فراڈ ویب صفحے اور ای میلیں ایسی چیزوں کین نقل کرنے کے لیے استعمال کی جاتی ہیں جن پر آپ بھروسا کرتے ہیں۔</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "مواد سکیورٹی پالیسی کے تحت بلاک">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p><p>براوزر نے اس صفحے کو لوڈ ہونے سے روک دیا کیونکہ صفحے کی مواد سکیورٹی پالیسی اس کی اجازت نہیں دیتی۔</p>">
+<!ENTITY cspBlocked.title "مواد سکیورٹی پالیسی کے تحت بلاک">
+<!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p><p>براوزر نے اس صفحے کو لوڈ ہونے سے روک دیا کیونکہ صفحے کی مواد سکیورٹی پالیسی اس کی اجازت نہیں دیتی۔</p>">
 
 <!ENTITY corruptedContentError.title "خراب مواد نقص">
 <!ENTITY corruptedContentError.longDesc "<p>جو صفحہ آپ دیکھنا چاہ رہے ہیں نہیں دکھایا جا سکتا کیونکہ قوائف کی منتقلی میں نقص آ گیا۔</p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul>">

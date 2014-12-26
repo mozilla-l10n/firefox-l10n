@@ -133,8 +133,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 
 <p>اس قسم کی ویب نقلیں فراڈ کے لیے استعمال کی جاتی ہیں اور انہیں فشنگ اٹیک کے نام سے جانا جاتا ہے۔ آس کے اندر نقلی ویب صفحے اور ای میل آپ کی جانی ہوئی چیزوں کی نقل کرنے کے لیے استعمال کیے جاتے ہیں۔</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
+<!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
+<!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
 
 <!ENTITY corruptedContentError.title "خراب مواد نقص">
 <!ENTITY corruptedContentError.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
@@ -154,5 +154,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "مزید سیکھیں…">
+
+
+
+
+
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+
