@@ -29,6 +29,6 @@
 <!ENTITY sidebar.open.tooltip        "Abrir Painel">
 
 <!ENTITY sidebar.search.label         "Pesquisar">
-
+<!ENTITY sidebar.client-bookmarks.label     "Favoritos">
 <!ENTITY sidebar.client-history.label       "Histórico">
 <!ENTITY sidebar.client-addressbook.label   "Catálogo de Endereços">
