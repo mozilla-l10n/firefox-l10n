@@ -338,10 +338,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
 
-<!ENTITY pref_titlebar_mode "Panel s titulkom okna">
-<!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
-<!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
-
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
