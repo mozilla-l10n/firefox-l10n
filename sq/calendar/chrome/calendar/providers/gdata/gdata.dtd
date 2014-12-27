@@ -11,7 +11,7 @@
 <!ENTITY gdata.migration.description "Mundësuesi për Google Calendar ka zbuluar se keni kalendarë ekzistues që mundet të hyjnë në Google Calendar vetëm nën mënyrën lexim. Nëse doni të përditësoni ndonjë prej këtyre kalendarëve, ju lutemi, përzgjidhini më poshtë">
 <!ENTITY gdata.migration.upgrade.label "Përmirësoji">
 <!ENTITY gdata.migration.upgrade.accesskey "P">
-<!ENTITY gdata.migration.showagain.label "Kontrollo përherë ">
+<!ENTITY gdata.migration.showagain.label "Kontrollo Përherë ">
 
 <!ENTITY gdata.reminder.default "Kujtues Parazgjedhje">
 <!ENTITY gdata.reminder.action.sms.label "Dërgo një Mesazh Tekst">
