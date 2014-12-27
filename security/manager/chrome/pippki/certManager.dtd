@@ -18,7 +18,7 @@
 <!ENTITY certmgr.deletecert.aftername "Jeni i sigurt se doni të fshihet kjo dëshmi?">
 <!ENTITY certmgr.deletecert.beforename "Keni kërkuar të fshihet kjo dëshmi:">
 <!ENTITY certmgr.deletecert.title "Fshini Dëshmi">
-<!ENTITY certmgr.deleteusercert.aftername "Pasi të keni fshirë këtë dëshmi, nuk do të mundni të lexoni postë që është shifruar me të.">
+<!ENTITY certmgr.deleteusercert.aftername "Pasi të keni fshirë këtë dëshmi, nuk do të mundni të lexoni postë që është fshehtëzuar me të.">
 <!ENTITY certmgr.deleteusercert.beforename "Keni kërkuar të fshihet kjo dëshmi:">
 <!ENTITY certmgr.deleteusercert.title "Fshini Dëshminë Tuaj">
 <!ENTITY certmgr.detail.general_tab.title "Të përgjithshme">
