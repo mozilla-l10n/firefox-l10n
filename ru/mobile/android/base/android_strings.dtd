@@ -240,9 +240,6 @@
 <!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
 <!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
 <!ENTITY contextmenu_add_search_engine "Добавить поисковую систему">
-<!ENTITY pref_titlebar_mode "Панель заголовка">
-<!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
-<!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary "Скрывать панель заголовка &brandShortName; при прокрутке страницы вниз">
 <!ENTITY page_removed "Страница удалена">
