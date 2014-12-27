@@ -79,8 +79,8 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "x">
-<!ENTITY deleteCmd.label "Borrar">
-<!ENTITY deleteCmd.accesskey "o">
+<!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY deleteCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renomear anexo…">
@@ -257,7 +257,7 @@
 <!ENTITY smiley16Cmd.label "Labios selados">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Non se encontraron suxestións">
+<!ENTITY spellCheckNoSuggestions.label "Non se atoparon suxestións">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar a palabra">
 <!ENTITY spellCheckIgnoreWord.accesskey "a">
 <!ENTITY spellCheckAddToDictionary.label "Engadir ao dicionario">
@@ -275,8 +275,8 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "b">
-<!ENTITY delete.label "Borrar">
-<!ENTITY delete.accesskey "o">
+<!ENTITY delete.label "Eliminar">
+<!ENTITY delete.accesskey "m">
 <!ENTITY removeAttachment.label "Retirar anexo">
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Renomear…">

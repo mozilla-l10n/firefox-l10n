@@ -41,7 +41,7 @@
 <!ENTITY hdrTrashButton1.tooltip "Eliminar esta mensaxe">
 
 <!ENTITY hdrViewToolbarShowFull.label "Amosar iconas e texto">
-<!ENTITY hdrViewToolbarShowFull.accesskey "M">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Amosar só as iconas">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Amosar só o texto">
@@ -58,9 +58,9 @@
 <!ENTITY otherActionsOpenInNewTab1.label "Abrir nunha nova lapela">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "h">
 <!ENTITY markAsReadMenuItem1.label "Marcar como lido">
-<!ENTITY markAsReadMenuItem1.accesskey "l">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
 <!ENTITY markAsUnreadMenuItem1.label "Marcar como non lido">
-<!ENTITY markAsUnreadMenuItem1.accesskey "n">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "Gardar como…">
 <!ENTITY saveAsMenuItem1.accesskey "G">
 <!ENTITY viewSourceMenuItem1.label "Ver fonte…">
@@ -79,15 +79,15 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Desanexar…">
 <!ENTITY detachAttachmentCmd.accesskey    "x">
-<!ENTITY deleteAttachmentCmd.label    "Borrar">
-<!ENTITY deleteAttachmentCmd.accesskey    "B">
+<!ENTITY deleteAttachmentCmd.label    "Eliminar">
+<!ENTITY deleteAttachmentCmd.accesskey    "E">
 <!ENTITY openAllAttachmentsCmd.label    "Abrir todo…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Gardar todo…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "G">
 <!ENTITY detachAllAttachmentsCmd.label    "Desanexar todo…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar todo…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">
 
 <!ENTITY openAttachment.tooltip "Abrir o ficheiro anexado">
@@ -106,4 +106,4 @@
 <!ENTITY OpenMessageForMsgId.label "Abrir mensaxe por ID">
 <!ENTITY OpenMessageForMsgId.accesskey "o">
 <!ENTITY OpenBrowserWithMsgId.label "Abrir navegador co ID da mensaxe">
-<!ENTITY OpenBrowserWithMsgId.accesskey "e">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">
