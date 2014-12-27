@@ -16,10 +16,10 @@
 
 
 
-
-
-
-
+<!ENTITY  locbar.bookmarks.label        "Adresynas">
+<!ENTITY  locbar.bookmarks.accesskey    "y">
+<!ENTITY  locbar.openpage.label         "Atverti korteles">
+<!ENTITY  locbar.openpage.accesskey     "v">
 
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "L">
@@ -30,7 +30,8 @@
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
 
-
+<!ENTITY  keepUntil.label               "Laikyti iki:">
+<!ENTITY  keepUntil.accesskey           "k">
 
 <!ENTITY  expire.label                  "jų galiojimo laiko pabaigos">
 <!ENTITY  close.label                   "„&brandShortName;“ seanso pabaigos">
