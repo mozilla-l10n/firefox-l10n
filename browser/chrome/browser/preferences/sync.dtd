@@ -78,3 +78,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Crear unha conta">
 
 <!ENTITY welcome.useOldSync.label "Usa unha versión antiga de Sync?">
+
+<!-- Sync Migration -->
+<!ENTITY migrate.upgradeNeeded      "O sistema de conta Sync está en proceso de peche. Requírese unha conta Firefox para sincronizar.">
