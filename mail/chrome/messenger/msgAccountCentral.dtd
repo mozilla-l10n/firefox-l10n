@@ -13,13 +13,13 @@
 <!ENTITY subscribeFeeds.label         "Gerenciar inscrições">
 
 <!ENTITY chat.label                   "Bate-papo">
-
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
 <!ENTITY settingsLink.label           "Configurar esta conta">
 <!ENTITY newAcctLink.label            "Criar uma nova conta">
-
+<!ENTITY newAcct.label                "Criar uma nova conta:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Recursos avançados">
 <!ENTITY searchMsgsLink.label         "Pesquisar">

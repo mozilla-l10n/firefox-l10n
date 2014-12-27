@@ -5,8 +5,11 @@
 # the about dialog.
 -->
 
-<!ENTITY update.updateButton.label2               "Reiniciar o &brandShortName; para atualizar">
 
+<!ENTITY update.checkForUpdatesButton.label       "Verificar atualizações">
+<!ENTITY update.checkForUpdatesButton.accesskey   "V">
+<!ENTITY update.updateButton.label2               "Reiniciar o &brandShortName; para atualizar">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplicar atualização…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
@@ -63,7 +66,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "Você não pode executar mais atualizações neste sistema. ">
-
+<!ENTITY update.unsupported.linkText "Saiba mais">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

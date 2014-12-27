@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Restaurar o padrão">
 <!ENTITY useDefault.accesskey             "R">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone">
+<!ENTITY dockOptions.label                "Opções do ícone…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">

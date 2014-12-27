@@ -4,22 +4,22 @@
 
 <!ENTITY toField4.label "Para">
 <!ENTITY fromField4.label "De">
-
+<!ENTITY senderField4.label "Remetente">
 <!ENTITY organizationField4.label "Empresa">
-
+<!ENTITY replyToField4.label "Resposta para">
 
 <!ENTITY subjectField4.label "Assunto">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Cco">
 <!ENTITY newsgroupsField4.label "Newsgroups">
-
+<!ENTITY followupToField4.label "Repassar para">
 <!ENTITY tagsHdr4.label "Tags">
 <!ENTITY dateField4.label "Data">
-
+<!ENTITY userAgentField4.label "Agente de usuário">
 <!ENTITY referencesField4.label "Referências">
-
-
-
+<!ENTITY messageIdField4.label "ID da mensagem">
+<!ENTITY inReplyToField4.label "Em resposta a">
+<!ENTITY originalWebsite4.label "Site da web">
 
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquivar esta mensagem">
@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder à lista de e-mails">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Postar uma resposta neste grupo">
-
+<!ENTITY hdrMenuForwardButton.label "Encaminhar como">
 <!ENTITY hdrForwardButton1.label "Encaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Encaminhar mensagem">
 <!ENTITY hdrJunkButton1.label "Spam">
@@ -49,7 +49,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre exibir o “Responder a”">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "S">
 
-<!ENTITY otherActionsButton1.label "Outras ações">
+<!ENTITY otherActionsButton1.label "Mais ações">
 <!ENTITY otherActionsOpenConversation1.label "Abrir como conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "r">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir em nova janela">
