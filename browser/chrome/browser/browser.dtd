@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "">
+<!ENTITY searchFor.label              "Search for ">
 <!ENTITY searchWith.label             " terimini bununla ara:">
 <!ENTITY changeSearchSettings.button  "Arama ayarlarını değiştir">
 
@@ -624,7 +624,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle…">
+<!ENTITY editPopupSettingsUnix.label "Açılır pencere engelleyici tercihlerini düzenle…">
 <!ENTITY editPopupSettings.label "İstenmeyen pencere seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "g">
