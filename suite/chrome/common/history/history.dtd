@@ -12,7 +12,7 @@
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Ver">
 
-<!ENTITY view.columns.label             "Mostrar as columnas">
+<!ENTITY view.columns.label             "Amosar as columnas">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sortBy.label              "Ordenar por">
 <!ENTITY view.sortBy.accesskey          "O">

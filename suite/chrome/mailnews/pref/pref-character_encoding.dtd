@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Codificación de caracteres">
 <!ENTITY messageDisplay.caption          "Visualización da mensaxe">
-<!ENTITY viewDefaultCharset.label        "Codificación de caracteres predeterminada:">
-<!ENTITY viewDefaultCharset.accesskey    "d">
+
+
+
 
 <!ENTITY composingMessages.caption       "Redacción de mensaxes">
 <!ENTITY useMIME.label                   "Usar codificación MIME 'quoted printable' nas mensaxes que conteñen caracteres de 8 bits. Déixea sen marcar para enviar a mensaxe tal cal.">

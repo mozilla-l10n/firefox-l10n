@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label "Contrasinais principais">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificados">
-<!ENTITY validation.label "Validación">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Opcións avanzadas">
 <!ENTITY down.label "Descargar">

@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Rolda de correo">
+<!ENTITY mailListWindow.title           "Lista de correo">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Engadir a: ">
 
-<!ENTITY ListName.label                 "Nome da rolda: ">
-<!ENTITY ListNickName.label             "Alcume da rolda: ">
+<!ENTITY ListName.label                 "Nome da lista: ">
+<!ENTITY ListNickName.label             "Alcume da lista: ">
 <!ENTITY ListDescription.label          "Descrición: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Escriba os enderezos de correo electrónico para engadilos na rolda de correo:">

@@ -19,8 +19,14 @@
 <!ENTITY setDefaultFeed.label             "Fontes">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+
+
+
+
+
+
 <!ENTITY messengerStartPage.caption       "Páxina de inicio do correo">
-<!ENTITY enableStartPage.label            "Mostrar a páxina de inicio na área de mensaxes cando se inicia o Correo">
+<!ENTITY enableStartPage.label            "Amosar a páxina de inicio na área de mensaxes cando se inicia o Correo">
 <!ENTITY enableStartPage.accesskey        "M">
 <!ENTITY location.label                   "Localización:">
 <!ENTITY location.accesskey               "L">
