@@ -63,15 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 <!-- Update -->
 
-
-
-
-
-
-
-
-
-
+<!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca verificar se há atualizações (não recomendado: risco de segurança)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avise-me se isto vai desabilitar algum de meus complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateHistory.label             "Exibir histórico de atualizações">
+<!ENTITY updateHistory.accesskey         "l">
 
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
@@ -108,9 +110,9 @@
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Perguntar quando necessário">
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
+<!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY viewCertificates.label         "Certificados">
 <!ENTITY viewCertificates.accesskey     "C">

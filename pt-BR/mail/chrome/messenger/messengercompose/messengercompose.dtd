@@ -28,13 +28,13 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
 <!ENTITY attachVCardCmd.accesskey "v">
-
-
+<!ENTITY remindLater.label "Lembrar-me depois">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "F">
 <!ENTITY saveCmd.label "Salvar">
-
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "v">
 <!ENTITY saveAsCmd.label "Salvar como">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -88,12 +88,12 @@
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "S">
-
-
-
-
-
-
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituir…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar próxima">
 <!ENTITY findAgainCmd.accesskey "L">
 <!ENTITY findAgainCmd.key "g">
@@ -182,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-
-
-
-
-
+<!ENTITY accountManagerCmd2.label "Configurações de contas">
+<!ENTITY accountManagerCmd2.accesskey "s">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 <!--  Mac OS X Window Menu -->

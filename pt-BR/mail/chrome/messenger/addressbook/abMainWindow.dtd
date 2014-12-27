@@ -74,9 +74,9 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
-
+<!ENTITY propertiesCmd2.label                           "Propriedades">
+<!ENTITY propertiesCmd2.accesskey                       "P">
+<!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Exibir">
