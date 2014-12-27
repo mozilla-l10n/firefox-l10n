@@ -110,6 +110,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "Kas un danevell evit ar fazi-mañ">
 <!ENTITY errorReporting.longDesc "Kas un danevell a-zivout chomlec'h ha stlennoù an testeni evit <span id='hostname'></span> a skoazello ac'hanomp da hennadiñ ha kaelat ouzh al lec'hiennoù arvarus. Trugarez d'hor skoazellañ da sevel ur genrouedad diogeloc'h.">
 <!ENTITY errorReporting.automatic "Kas un danevell a-fet fazioù ent emgefreek en dazont">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
@@ -128,4 +129,4 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Titouroù kempleshoc'h : <span id='errorcode'></span>">
-
+<!ENTITY oldSecurityProtocol.learnMore "Gouzout hiroc'h…">
