@@ -8,7 +8,7 @@
 <!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "Migro kalendarë vetëm-lexim">
-<!ENTITY gdata.migration.description "Mundësuesi i Kalendarëve Google ka zbuluar se keni kalendarë ekzistues që mundet të hyjnë në Kalendarët Google vetëm nën mënyrën lexim. Nëse doni të përditësoni ndonjë prej këtyre kalendarëve, ju lutemi, përzgjidhini më poshtë">
+<!ENTITY gdata.migration.description "Mundësuesi për Google Calendar ka zbuluar se keni kalendarë ekzistues që mundet të hyjnë në Google Calendar vetëm nën mënyrën lexim. Nëse doni të përditësoni ndonjë prej këtyre kalendarëve, ju lutemi, përzgjidhini më poshtë">
 <!ENTITY gdata.migration.upgrade.label "Përmirësoji">
 <!ENTITY gdata.migration.upgrade.accesskey "P">
 <!ENTITY gdata.migration.showagain.label "Kontrollo Përherë ">
