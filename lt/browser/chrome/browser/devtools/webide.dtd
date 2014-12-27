@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "š">
 <!ENTITY projectMenu_showPrefs_label "Nuostatos">
 <!ENTITY projectMenu_showPrefs_accesskey "s">
-
+<!ENTITY projectMenu_manageComponents_label "Tvarkyti papildomus komponentus">
 
 
 <!ENTITY runtimeMenu_label "Įrenginys">
@@ -68,9 +68,9 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Jūsų projektai">
 <!ENTITY projectPanel_runtimeApps "Programos įrenginyje">
@@ -78,7 +78,7 @@
 <!ENTITY runtimePanel_usb "USB įrenginiai">
 <!ENTITY runtimePanel_wifi "Belaidžiai įrenginiai">
 <!ENTITY runtimePanel_simulator "Simuliatoriai">
-
+<!ENTITY runtimePanel_other "Kita…">
 <!ENTITY runtimePanel_installsimulator "Įdiegti simuliatorių">
 <!ENTITY runtimePanel_noadbhelper "Įdiegti ADB pagelbiklį">
 <!ENTITY runtimePanel_nousbdevice "Nematote savo įrenginio?">
@@ -112,7 +112,7 @@
 <!ENTITY prefs_editor_title "Rengyklė">
 <!ENTITY prefs_general_title "Bendrosios">
 <!ENTITY prefs_restore "Grąžinti numatytąsias nuostatas">
-
+<!ENTITY prefs_manage_components "Tvarkyti papildomus komponentus">
 <!ENTITY prefs_options_rememberlastproject "Įsiminti paskutinį projektą">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Atverti ankstesnį projektą, paleidus „WebIDE“">
 <!ENTITY prefs_options_templatesurl "Šablonų URL adresas">
@@ -145,8 +145,10 @@
 <!ENTITY runtimedetails_privilegesWarning "(Įrenginys bus perleistas. Reikalingos „root“ teisės.)">
 <!-- Device Preferences -->
 
-
-
+<!ENTITY devicepreferences_title "Įrenginio nuostatos">
+<!ENTITY devicepreferences_search "Paieškos nuostatos">
+<!ENTITY devicepreferences_newname "Naujo nuostatų parametro pavadinimas">
+<!ENTITY devicepreferences_newtext "Parametro reikšmė">
 
 
 

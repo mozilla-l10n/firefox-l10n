@@ -2,11 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Numatytoji paieškos sistema">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Pasirinkite numatytąją paieškos sistemą. „&brandShortName;“ naudos ją adreso lauke, paieškos lauke bei pradžios puslapyje.">
+
+<!ENTITY provideSearchSuggestions.label        "Pateikti paieškos pasiūlymus">
+<!ENTITY provideSearchSuggestions.accesskey    "i">
 
 
+<!ENTITY oneClickSearchEngines.label           "Vieno paspaudimo paieškos sistemos">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Paieškos laukas leidžia ieškoti tiesiogiai per alternatyvias sistemas. Pasirinkite, kurias norėtumėte matyti.">
 
-
+<!ENTITY engineNameColumn.label                "Paieškos sistema">
 <!ENTITY engineKeywordColumn.label             "Reikšminis žodis">
 
 

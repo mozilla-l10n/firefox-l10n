@@ -150,19 +150,22 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Pranešti apie klaidą">
+<!ENTITY errorReporting.longDesc "Pateikdami <span id='hostname'></span> adresą ir sertifikato informaciją padedate mums atpažinti ir užblokuoti kenksmingas svetaines. Ačiū, kad padedate kurti saugesnį saityną!">
+<!ENTITY errorReporting.automatic "Automatiškai siųsti klaidų pranešimus ateityje">
 <!ENTITY errorReporting.learnMore "Sužinoti daugiau…">
-
-
-
-
+<!ENTITY errorReporting.sending "Siunčiamas pranešimas">
+<!ENTITY errorReporting.sent "Pranešimas išsiųstas">
+<!ENTITY errorReporting.report "Pranešti">
+<!ENTITY errorReporting.tryAgain "Bandyti dar kartą">
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Nepavyko prisijungti saugiai">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "„&brandShortName;“ negali garantuoti jūsų duomenų saugumo, kai lankotės <span id='hostname'></span>, nes jie naudoja SSLv3, įveiktą saugumo protokolą.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 
