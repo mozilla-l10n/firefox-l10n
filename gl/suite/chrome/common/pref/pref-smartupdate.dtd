@@ -29,5 +29,5 @@
 <!ENTITY appModeAutomatic.accesskey           "u">
 <!ENTITY appModeAutoAddonWarn.label           "Avisarme se isto desactivase algún dos meus complementos">
 <!ENTITY appModeAutoAddonWarn.accesskey       "n">
-<!ENTITY updateHistoryButton.label            "Mostrar o historial de actualizacións…">
+<!ENTITY updateHistoryButton.label            "Amosar o historial de actualizacións…">
 <!ENTITY updateHistoryButton.accesskey        "s">

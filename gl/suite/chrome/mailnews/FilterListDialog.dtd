@@ -15,7 +15,7 @@
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Baixar">
 <!ENTITY reorderDownButton.accesskey "B">
-<!ENTITY filterHeader.label "Os filtro activados actívanse automaticamente na orde mostrada a seguir.">
+<!ENTITY filterHeader.label "Os filtro activados actívanse automaticamente na orde amosada a seguir.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Rexistro de filtros">

@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Caché">
 <!ENTITY pref.cache.caption              "Estabelecer as opcións da caché">
-<!ENTITY cachePara                       "A caché conserva copias das páxinas web visitadas frecuentemente no disco duro. (Premendo no botón Recargar sempre se mostra a última versión dunha páxina.)">
+<!ENTITY cachePara                       "A caché conserva copias das páxinas web visitadas frecuentemente no disco duro. (Premendo no botón Recargar sempre se amosa a última versión dunha páxina.)">
 <!ENTITY cacheCheck.label                "Permtir que o &brandShortName; xestione o tamaño da caché">
 <!ENTITY cacheCheck.accesskey            "x">
 <!ENTITY diskCacheUpTo.label             "Usar ata">

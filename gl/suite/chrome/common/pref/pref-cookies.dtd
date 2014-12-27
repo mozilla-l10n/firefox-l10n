@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Política de aceptación de cookies">
 
-<!ENTITY accAllCookiesRadio.label       "Permitir todas as cookies">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "Só permitir as cookies para o sitio web orixinal">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "Bloquear as cookies">
 <!ENTITY disableCookies.accesskey       "B">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY cookieRetentionPolicy.label    "Política de retención de cookies">
 

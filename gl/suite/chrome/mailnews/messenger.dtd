@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; identificou esta mensaxe como correo non desexado.">
-<!ENTITY junkBarButton.label "Isto non é correo non desexado">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Para protexer a súa privacidade, &brandShortName; bloqueou o contido remoto.">
-<!ENTITY loadRemoteContentButton.label "Amosar contido remoto">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; identificou esta mensaxe como posíbel correo electrónico fraudulento.">
-<!ENTITY removePhishingBarButton.label "Non é correo fraudulento">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Enviar pedido">
-<!ENTITY mdnBarSendButton.accesskey "d">

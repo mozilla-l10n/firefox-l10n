@@ -25,11 +25,11 @@
 <!ENTITY playSoundButton.label          "Reproducir">
 <!ENTITY playSoundButton.accesskey      "R">
 
-<!ENTITY displayIcon.label              "Mostrar unha icona na barra de estado do navegador">
+<!ENTITY displayIcon.label              "Amosar unha icona na barra de estado do navegador">
 <!ENTITY displayIcon.accesskey          "d">
 
-<!ENTITY displayNotification.label      "Mostrar unha barra de notificación na parte superior da área de contido">
+<!ENTITY displayNotification.label      "Amosar unha barra de notificación na parte superior da área de contido">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Nota: Bloqueando todas as xanelas emerxentes pode impedir que funcionen características importantes dalgúns sitios web, como xanelas de inicio de sesión para bancos e sitios web de compra en liña. Para máis detalles sobre como permitir que sitios web específicos usen xanelas emerxentes sen deixar de bloquealas para o resto, prema na Axuda. Incluso co bloqueo activado, algúns sitios web poden usar outros métodos para mostrar xanelas emerxentes.">
+<!ENTITY popupNote.description          "Nota: Bloqueando todas as xanelas emerxentes pode impedir que funcionen características importantes dalgúns sitios web, como xanelas de inicio de sesión para bancos e sitios web de compra en liña. Para máis detalles sobre como permitir que sitios web específicos usen xanelas emerxentes sen deixar de bloquealas para o resto, prema na Axuda. Incluso co bloqueo activado, algúns sitios web poden usar outros métodos para amosar xanelas emerxentes.">
 

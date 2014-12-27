@@ -12,6 +12,7 @@
 <!ENTITY select.preferences.label "Só preferencias">
 <!ENTITY select.passwords.label "Só contrasinais">
 
+
 <!ENTITY domain.search.placeholder "Dominios de busca">
 <!ENTITY domain.search.key "f">
 
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Permisos">
 <!ENTITY tab.preferences.label "Preferencias">
 <!ENTITY tab.passwords.label "Contrasinais">
+
 <!ENTITY tab.formdata.label "Datos do formulario">
 <!ENTITY tab.forget.label "Esquecer">
 
@@ -44,7 +46,7 @@
 <!ENTITY cookies.info.value.label "Contido:">
 <!ENTITY cookies.info.host.label "Servidor:">
 <!ENTITY cookies.info.domain.label "Dominio:">
-<!ENTITY cookies.info.path.label "Camiño:">
+<!ENTITY cookies.info.path.label "Ruta:">
 <!ENTITY cookies.info.sendtype.label "Enviar a:">
 <!ENTITY cookies.info.expires.label "Caduca:">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Eliminar">
 <!ENTITY pwd.button.remove.accesskey "r">
 
+<!-- storage -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Buscar nos datos do campo">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Contrasinais">
 <!ENTITY forget.passwords.accesskey "a">
+
+
 <!ENTITY forget.formdata.label "Datos do formulario">
 <!ENTITY forget.formdata.accesskey "D">
 

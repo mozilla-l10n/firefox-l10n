@@ -12,6 +12,8 @@
 <!ENTITY  clearHistory.accesskey            "s">
 
 <!ENTITY  locationBarHistory.caption        "Historial da barra de localización">
+
+
 <!ENTITY  clearLocationBar.label            "Limpa a lista de sitios web almacenados no menú da barra de localización.">
 <!ENTITY  clearLocationBarButton.label      "Limpar a barra de localización">
 <!ENTITY  clearLocationBarButton.accesskey  "L">
