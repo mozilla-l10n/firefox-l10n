@@ -4,8 +4,6 @@
 <!-- extracted from content/pref-offlineapps.xul -->
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
 
-<!ENTITY pref.offlineapps.title             "Aplicações web offline">
-
 
 <!ENTITY clearOfflineAppCache.label         "Limpar">
 <!ENTITY clearOfflineAppCache.accesskey     "L">
