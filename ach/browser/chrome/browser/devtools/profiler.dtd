@@ -38,15 +38,21 @@
 <!ENTITY profilerUI.clearButton "Jwa">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "Lok Yat me Lwongo">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "Loko yat me lwongo nyuto yo me lwongo ma kicoyo cake ki i pem matidi kadong yare woko wa ikom pem macon.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
-
+<!ENTITY profilerUI.table.totalDuration   "Wel cawa weng (ms)">
+<!ENTITY profilerUI.table.selfDuration    "Cawa kene (ms)">
+<!ENTITY profilerUI.table.totalPercentage "Wel duc">
+<!ENTITY profilerUI.table.selfPercentage  "Wel kene">
 <!ENTITY profilerUI.table.samples         "Me atema">
-
+<!ENTITY profilerUI.table.function        "Tic">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
