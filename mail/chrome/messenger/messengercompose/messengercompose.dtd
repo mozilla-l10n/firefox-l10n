@@ -90,10 +90,10 @@
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findBarCmd.accesskey "z">
-
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Localizar e substituir…">
 <!ENTITY findReplaceCmd.accesskey "l">
-
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar próxima">
 <!ENTITY findAgainCmd.accesskey "L">
 <!ENTITY findAgainCmd.key "g">
@@ -184,9 +184,9 @@
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY accountManagerCmd2.label "Configurações de contas">
 <!ENTITY accountManagerCmd2.accesskey "s">
-
-
-
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 <!--  Mac OS X Window Menu -->

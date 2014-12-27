@@ -121,8 +121,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Ocultar controles de mídia">
 <!ENTITY mediaHideControls.accesskey  "a">
-<!ENTITY videoFullScreen.label        "Tela cheia">
-<!ENTITY videoFullScreen.accesskey    "T">
+
+
 
 
 

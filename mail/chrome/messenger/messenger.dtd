@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Propriedades">
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
-
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Desfazer (Mover mensagem)">
@@ -302,15 +302,15 @@
 <!ENTITY prevUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "P">
-
-
+<!ENTITY goForwardCmd.label "Avançar">
+<!ENTITY goForwardCmd.accesskey "A">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Voltar">
 <!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Bate-papo">
 <!ENTITY goChatCmd.accesskey "B">
-
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Pasta">
@@ -350,8 +350,8 @@
 <!ENTITY forwardMsgCmd.key  "L">
 <!ENTITY forwardAsMenu.label "Encaminhar como">
 <!ENTITY forwardAsMenu.accesskey "h">
-
-
+<!ENTITY forwardAsInline.label "Texto na mensagem">
+<!ENTITY forwardAsInline.accesskey "T">
 <!ENTITY forwardAsAttachmentCmd.label "Anexo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
@@ -409,7 +409,7 @@
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markStarredCmd.label "Adicionar estrela">
 <!ENTITY markStarredCmd.accesskey "s">
-
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Como spam">
 <!ENTITY markAsJunkCmd.accesskey "s">
 <!ENTITY markAsJunkCmd.key "j">
@@ -484,6 +484,7 @@
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Permitir depuração remota">
 <!ENTITY allowRemoteDebugging.accesskey "d">
 <!-- Mail Toolbar -->
@@ -682,7 +683,7 @@
 <!ENTITY accountColumn2.tooltip "Ordenar por conta">
 <!ENTITY statusColumn2.tooltip "Ordenar por status">
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
-
+<!ENTITY junkStatusColumn2.tooltip "Ordernar por status de spam">
 <!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas na discussão">
 <!ENTITY totalColumn2.tooltip "Número total de mensagens na discussão">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
@@ -721,20 +722,20 @@
 <!ENTITY contextForward.accesskey "E">
 <!ENTITY contextForwardAsMenu.label "Encaminhar como">
 <!ENTITY contextForwardAsMenu.accesskey "h">
-
-
+<!ENTITY contextForwardAsInline.label "Texto na mensagem">
+<!ENTITY contextForwardAsInline.accesskey "T">
 <!ENTITY contextForwardAsAttachmentItem.label "Anexo">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "x">
-
-
+<!ENTITY contextMultiForwardAsAttachment.label "Encaminhar como anexos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mover para">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recentes">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
-
-
+<!ENTITY contextKillThreadMenu.label "Ignorar tópico">
+<!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY contextWatchThreadMenu.label "Monitorar tópico">
 <!ENTITY contextSaveAs.label "Salvar como arquivo…">

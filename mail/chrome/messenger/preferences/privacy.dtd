@@ -22,11 +22,11 @@
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Sempre">
 <!ENTITY acceptThirdParty.never.label "Nunca">
-
+<!ENTITY acceptThirdParty.visited.label "De sites visitados">
 <!ENTITY keepUntil.label "Manter até:">
 <!ENTITY keepUntil.accesskey "a">
 <!ENTITY expire.label "eles expiram">
-
+<!ENTITY close.label "eu feche o &brandShortName;">
 <!ENTITY askEachTime.label "perguntar todas as vezes">
 <!ENTITY cookieExceptions.label "Exceções…">
 <!ENTITY cookieExceptions.accesskey "E">
@@ -34,5 +34,5 @@
 <!ENTITY showCookies.accesskey "M">
 
 <!ENTITY dntTrackingNotOkay.label2 "Avisar aos sites que eu não quero ser rastreado">
-
-
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Saiba mais sobre o Não rastrear">
