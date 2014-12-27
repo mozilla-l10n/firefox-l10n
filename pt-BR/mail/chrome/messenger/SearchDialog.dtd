@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "r">
 <!ENTITY composeButton.label         "Nova mensagem">
 <!ENTITY composeButton.accesskey     "N">
-
-
+<!ENTITY deleteCardButton.label      "Excluir">
+<!ENTITY deleteCardButton.accesskey  "x">
 <!ENTITY abSearchDialogTitle.label   "Pesquisar catálogo">
 <!-- Thread Pane -->
 
@@ -68,7 +68,7 @@
 <!ENTITY accountColumn2.tooltip "Ordenar por conta">
 <!ENTITY statusColumn2.tooltip "Ordenar por estado">
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
-
+<!ENTITY junkStatusColumn2.tooltip "Ordernar por status de spam">
 <!ENTITY unreadColumn2.tooltip "O número de mensagens não lidas na lista de discussão">
 <!ENTITY totalColumn2.tooltip "Número total de mensagens no tópico">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
