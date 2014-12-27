@@ -6,7 +6,7 @@
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remetente">
 <!ENTITY organizationField4.label "Empresa">
-
+<!ENTITY replyToField4.label "Responder para">
 
 <!ENTITY subjectField4.label "Assunto">
 <!ENTITY ccField4.label "Cc">
