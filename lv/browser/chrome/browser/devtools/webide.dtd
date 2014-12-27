@@ -157,7 +157,7 @@
 <!-- Device Preferences -->
 <!ENTITY devicepreferences_title "Ierīces iestatījumi">
 <!ENTITY devicepreferences_search "Meklēšanas iestatījumi">
-<!ENTITY devicepreferences_newname "Jauns iestatījuma nosaukums>
+<!ENTITY devicepreferences_newname "Jauns iestatījuma nosaukums">
 <!ENTITY devicepreferences_newtext "Iestatījuma vērtība">
 <!ENTITY devicepreferences_addnew "Pievienot jaunu iestatījumu">
 <!ENTITY devicepreferences_typeboolean "Būla">
