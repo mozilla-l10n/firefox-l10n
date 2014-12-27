@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Įdėti vidinį HTML">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "d">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:

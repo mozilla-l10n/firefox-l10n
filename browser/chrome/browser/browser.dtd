@@ -271,6 +271,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Naršyklės turinio įrankinė">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Užverti programuotojų juostą">
 <!ENTITY devToolbarMenu.label              "Programuotojų juosta">
 <!ENTITY devToolbarMenu.accesskey          "o">
@@ -416,7 +418,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-
+<!ENTITY searchFor.label              "Ieškoti ">
+<!ENTITY searchWith.label             " su:">
+<!ENTITY changeSearchSettings.button  "Keisti paieškos nuostatas">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -728,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "Naudoti „Developer Edition“ grafinį apvalkalą">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusuoti pokalbius">
