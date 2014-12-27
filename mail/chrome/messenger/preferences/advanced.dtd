@@ -59,7 +59,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "x">
 <!ENTITY reuseExpRadio1.label          "Nunha xanela de mensaxe existente">
 <!ENTITY reuseExpRadio1.accesskey      "u">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/lapela da mensaxe ao mover ou borrar">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/lapela da mensaxe ao mover ou eliminar">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->
@@ -102,7 +102,7 @@
 <!ENTITY useCacheBefore.label            "Usar ata">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espazo en caché">
-<!ENTITY clearCacheNow.label             "Limpar agora">
+<!ENTITY clearCacheNow.label             "Borrar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!-- Certificates -->
