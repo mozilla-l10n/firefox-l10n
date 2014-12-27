@@ -7,3 +7,10 @@
 
 
 
+<!ENTITY engineKeywordColumn.label             "Reikšminis žodis">
+
+
+
+<!ENTITY removeEngine.label                    "Pašalinti">
+<!ENTITY removeEngine.accesskey                "š">
+
