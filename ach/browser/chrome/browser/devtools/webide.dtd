@@ -2,23 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "WebIDE me Firefox">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_label "Tic">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Purugram manyen…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Yab purugram ma kiboyo…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Yab purugram ma iye lapok tic…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Yab purugram…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Ket kadong i caki">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Juk purugram">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Nong bal i purugram">
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Kwany tic woko">
-
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Ma imaro">
 
 
@@ -32,24 +35,24 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Cal me wang kio">
 
 
-
-
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Nen">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ma imaro pi nonyo">
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Nen">
-
-
-
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Lok kacoc">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Kwot Madit">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Jwik Matidi">
+<!ENTITY viewMenu_zoomout_accesskey "O">
 
 
 
-
-
+<!ENTITY runtimeButton_label "Yer me cawa tic">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -58,18 +61,19 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!-- zoom -->
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
-
+<!ENTITY projectPanel_myProjects "Tic mamega">
+<!ENTITY projectPanel_runtimeApps "Purugram me cawa tic">
 <!ENTITY projectPanel_tabs "Dirica matidi">
-
-
-
+<!ENTITY runtimePanel_usb "Nyonyo me USB">
+<!ENTITY runtimePanel_wifi "Nyonyo me Wi-Fi">
+<!ENTITY runtimePanel_simulator "Lapor">
 <!ENTITY runtimePanel_other "Mukene">
 <!ENTITY runtimePanel_installsimulator "Ket Cuma">
-
+<!ENTITY runtimePanel_noadbhelper "Ket lakony me ADB">
 
 <!-- Lense -->
 <!ENTITY details_warning_header "cik">
@@ -95,8 +99,8 @@
 
 <!ENTITY prefs_general_title "Lumuku">
 <!ENTITY prefs_restore "Dwok i ma pire kene">
-
-
+<!ENTITY prefs_manage_components "Lo gin ma iye makato">
+<!ENTITY prefs_options_rememberlastproject "Po ikom tic me agiki">
 
 
 
