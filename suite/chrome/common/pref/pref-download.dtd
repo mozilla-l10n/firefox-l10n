@@ -22,18 +22,19 @@
 
 
 
+<!ENTITY downloadHistory.label          "Histórico de downloads">
 
 
 
 
-
+<!ENTITY neverRemove.label              "Nunca">
 
 <!ENTITY finishedBehavior.label         "Quando o download for concluído">
 <!ENTITY playSound.label                "Tocar um som">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Exibir uma notificação">
 <!ENTITY showAlert.accesskey            "x">
-<!ENTITY browse.label                   "Procurar...">
-<!ENTITY browse.accesskey               "P">
-
-
+<!ENTITY browse.label                   "Navegar…">
+<!ENTITY browse.accesskey               "N">
+<!ENTITY playButton.label               "Reproduzir">
+<!ENTITY playButton.accesskey           "R">

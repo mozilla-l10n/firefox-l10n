@@ -51,8 +51,8 @@
 
 
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-
-
+<!ENTITY incomingUsername.label "Nome de usuário:">
+<!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news (NNTP) (por exemplo, &quot;news.example.com.br&quot;).">
 <!ENTITY newsServerLabel.label "Servidor de news:">
