@@ -61,11 +61,11 @@
 <!ENTITY perm.NeverSave "Nunca salvar">
 <!ENTITY perm.Allow "Permitir">
 <!ENTITY perm.AllowSameDomain "Permitir para o mesmo domínio">
-
+<!ENTITY perm.AllowSession "Excluir ao sair">
 <!ENTITY perm.Block "Bloquear">
 
-
-
+<!ENTITY perm.button.add.label "Adicionar">
+<!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
 
 <!ENTITY prefs.tree.name.label "Nome da preferência">
@@ -81,7 +81,7 @@
 <!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
 
 <!ENTITY pwd.tree.username.label "Nome de usuário">
-
+<!ENTITY pwd.tree.password.label "Senha">
 
 
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
@@ -117,12 +117,12 @@
 
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Permissões">
+<!ENTITY forget.permissions.accesskey "P">
 
 
-
-
-
-
+<!ENTITY forget.passwords.label "Senhas">
+<!ENTITY forget.passwords.accesskey "a">
 <!ENTITY forget.storage.label "Armazenamento">
 <!ENTITY forget.storage.accesskey "m">
 

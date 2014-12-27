@@ -4,7 +4,7 @@
 
 <!ENTITY progress.title                  "Download em progresso...">
 
-
+<!ENTITY cmd.pause.tooltip               "Pausar">
 <!ENTITY cmd.resume.tooltip              "Continuar">
 <!ENTITY cmd.retry.tooltip               "Tentar novamente">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">

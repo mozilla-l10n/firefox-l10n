@@ -82,5 +82,5 @@
 
 
 
-
-
+<!ENTITY cmd.properties.label            "Propriedades…">
+<!ENTITY cmd.properties.accesskey        "s">

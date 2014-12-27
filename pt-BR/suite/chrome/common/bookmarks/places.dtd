@@ -39,7 +39,8 @@
 <!ENTITY cmd.restoreFromFile.label      "Escolher arquivo...">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-
+<!ENTITY cmd.bookmarkLink.label         "Adicionar aos favoritos…">
+<!ENTITY cmd.bookmarkLink.accesskey     "f">
 <!ENTITY cmd.delete.label               "Excluir esta página">
 <!ENTITY cmd.delete.accesskey           "E">
 
@@ -60,8 +61,8 @@
 
 
 
-
-
+<!ENTITY cmd.new_folder.label              "Nova pasta...">
+<!ENTITY cmd.new_folder.accesskey          "o">
 
 <!ENTITY cmd.new_separator.label           "Novo separador">
 <!ENTITY cmd.new_separator.accesskey       "s">
@@ -81,20 +82,22 @@
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Modificado">
 
+<!ENTITY search.label                              "Pesquisar:">
 <!ENTITY search.placeholder                        "Pesquisar nos Favoritos">
 
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 
-
-
+<!ENTITY search.scopeBookmarks.label               "Favoritos">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY saveSearch.label                          "Salvar">
 <!ENTITY saveSearch.accesskey                      "v">
 
 
 
 
-
+<!ENTITY detailsPane.more.label "Mais">
+<!ENTITY detailsPane.more.accesskey "M">
 
 
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para visualizar e editar as suas propriedades">

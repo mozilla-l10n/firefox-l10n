@@ -8,6 +8,7 @@
 <!ENTITY menuBar.tooltip                "Menu (clique para exibir)">
 <!ENTITY searchBar.tooltip              "Barra de pesquisa">
 
+<!ENTITY search.placeholder             "Localizar no histórico">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Visualizar">
 
