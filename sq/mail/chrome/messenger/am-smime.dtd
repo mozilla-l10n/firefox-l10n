@@ -4,14 +4,14 @@
 
 <!ENTITY securityTitle.label "Siguri">
 <!ENTITY securityTab.label "Siguri">
-<!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të shifruar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi shifrimesh.">
-<!ENTITY encryptionGroupTitle.label "Shifrim">
-<!ENTITY encryptionChoiceLabel.label "Rregullime parazgjedhje shifrimi për dërgim mesazhesh:">
-<!ENTITY neverEncrypt.label "Kurrë (mos përdor shifrim)">
+<!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të fshehtëzuar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi fshehtëzimesh.">
+<!ENTITY encryptionGroupTitle.label "Fshehtëzim">
+<!ENTITY encryptionChoiceLabel.label "Rregullime parazgjedhje fshehtëzimi për dërgim mesazhesh:">
+<!ENTITY neverEncrypt.label "Kurrë (mos përdor fshehtëzim)">
 <!ENTITY neverEncrypt.accesskey "K">
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
 <!ENTITY alwaysEncryptMessage.accesskey "E">
-<!ENTITY encryptionCert.message "Përdor këtë dëshmi për të shifruar &amp; çshifruar mesazhe të dërguar te ju:">
+<!ENTITY encryptionCert.message "Përdorni këtë dëshmi për të fshehtëzuar &amp; çfshehtëzuar mesazhe të dërguar te ju:">
 <!ENTITY digitalSign.certificate.button "Përzgjidhni…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Pastroje">

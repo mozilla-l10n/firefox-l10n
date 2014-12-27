@@ -741,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "Shumica e sajteve prapë do të funksionojnë si duhet, edhe kur bllokohet lëndë.">
 
 <!ENTITY mixedContentBlocked2.message "Lëndë e pasigurt">
-<!ENTITY mixedContentBlocked2.moreinfo "U bllokuan disa elementë të pakoduar në këtë sajt.">
+<!ENTITY mixedContentBlocked2.moreinfo "U bllokuan disa elementë të pafshehtëzuar në këtë sajt.">
 <!ENTITY mixedContentBlocked2.learnMore "Mësoni Më Tepër">
 <!ENTITY mixedContentBlocked2.options "Mundësi">
 <!ENTITY mixedContentBlocked2.unblock.label "Tani për tani çaktivizoje mbrojtjen">
