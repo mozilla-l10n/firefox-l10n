@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "K">
 <!ENTITY gdata.migration.showagain.label "Tikrinti visada ">
 
+<!ENTITY gdata.reminder.default "Numatytasis priminimas">
 <!ENTITY gdata.reminder.action.sms.label "Nusiųsti trumpąją žinutę">
 
+<!ENTITY gdata.wizard.session.description "Pasirinkite jau egzistuojantį seansą arba įveskite savo el. pašto adresą naujam seansui sukurti. Vienai paskyrai reikia tik vieno seanso.">
+<!ENTITY gdata.wizard.calendars.description "Pasirinkite kalendorius ir darbų sąrašus, kuriuos norite prenumeruoti.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Kalendorių konfigūravimui pereikite į tolesnį žingsnį.">
