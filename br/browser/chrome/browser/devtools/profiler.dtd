@@ -38,8 +38,12 @@
 <!ENTITY profilerUI.clearButton "Clear">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "Tuginañ ar wezennad c'hervel">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "Tuginañ ar wezennad c'hervel a dalv da skrammañ an treugoù gervel bet lakaet en aelad diouzh ar frammoù nevesañ hag o astenn betek ar re goshañ. ">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
