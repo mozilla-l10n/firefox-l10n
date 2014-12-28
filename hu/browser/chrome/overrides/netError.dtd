@@ -155,13 +155,13 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Hiba jelentése">
-
-
+<!ENTITY errorReporting.longDesc "A(z) <span id='hostname'></span> cím- és tanúsítványinformációinak jelentése segít a rosszindulatú webhelyek azonosításában és blokkolásában. Köszönjük, hogy segít biztonságosabbá tenni az internetet!">
+<!ENTITY errorReporting.automatic "Hibák automatikus jelentése a jövőben">
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
-
-
-
-
+<!ENTITY errorReporting.sending "Jelentés küldése">
+<!ENTITY errorReporting.sent "Jelentés elküldve">
+<!ENTITY errorReporting.report "Jelentés">
+<!ENTITY errorReporting.tryAgain "Próbálja újra">
 
 <!ENTITY remoteXUL.title "Távoli XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
