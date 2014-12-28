@@ -154,6 +154,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "Hiba jelentése">
 
 
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
