@@ -72,7 +72,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "ՓՈԽԵԼ">
+<!ENTITY switch_button_message "ԱՆՑՆԵԼ">
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
@@ -474,7 +474,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "որի կառավարիչն է՝">
-
+<!ENTITY identity_no_info "Այս վեբ կայքը չի տրամադրում իր նույնացման տեղեկատվություն:">
 <!ENTITY identity_not_encrypted "Կապակցումը այս կայքի հետ գաղտնագրված չէ:">
 <!-- Mixed content notifications in site identity popup -->
 
@@ -483,8 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Կայքերի մեծամասնությունը կշարունակի նորմալ աշխատել, անգամ եթե բովանդակությունը արգելափակված լինի:">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Պաշտպանությունը հետևելուց անջատված է:">
+<!ENTITY loaded_tracking_content_message_bottom "Էջի որոշ մասեր կարող են հետևել ձեր առցանց ակտիվությանը:">
+<!ENTITY blocked_tracking_content_message_top2 "Պաշտպանությունը հետևելուց միացված է: ">
+<!ENTITY blocked_tracking_content_message_bottom2 "Էջի որոշ մասեր, որոնք կարող են հետևել ձեր առցանց ակտիվությանը, արգելափակված են: ">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Մանրամասն">
