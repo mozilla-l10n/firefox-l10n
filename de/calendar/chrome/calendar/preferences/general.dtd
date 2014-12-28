@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lang">
 <!ENTITY pref.dateformat.short "Kurz">
 
+<!ENTITY pref.timezones.caption "Zeitzone">
+<!ENTITY pref.timezones.label "Wählen Sie den nächstgelegenen Ort in Ihrer Zeitzone aus:">
+<!ENTITY pref.timezones.accesskey "Z">
+
 <!ENTITY pref.defaults.label "Standardwerte für neue Ereignisse">
 <!ENTITY pref.events.label "Termine">
 <!ENTITY pref.tasks.label "Aufgaben">
