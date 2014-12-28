@@ -14,11 +14,11 @@
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
-<!ENTITY savePageCmd.label "Faklı kaydet…">
-<!ENTITY savePageCmd.accesskey "a">
+<!ENTITY savePageCmd.label "Sayfayı faklı kaydet…">
+<!ENTITY savePageCmd.accesskey "f">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Sayfa düzeni…">
-<!ENTITY pageSetupCmd.accesskey "f">
+<!ENTITY pageSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır…">
