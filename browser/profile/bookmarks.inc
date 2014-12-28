@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Yardım Belgeleri ve Eğiticiler
+#define firefox_help Yardım ve Eğiticiler
 
 
 # LOCALIZATION NOTE (firefox_customize):
