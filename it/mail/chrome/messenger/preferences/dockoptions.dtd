@@ -4,11 +4,11 @@
 
 <!ENTITY dockOptionsDialog.title "Opzioni icona applicazione">
 <!ENTITY window.macWidth "44em">
-<!ENTITY bounceSystemDockIcon.label "Anima l'icona della app quando arriva un nuovo messaggio">
+<!ENTITY bounceSystemDockIcon.label "Anima l'icona dell'app quando arriva un nuovo messaggio">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 <!ENTITY newMessagesCountDock.label "Contatore nuovi messaggi">
 <!ENTITY newMessagesCountDock.accesskey "n">
-<!ENTITY showAllUnreadMessagesCount.label "Contatore nuovi messaggi">
+<!ENTITY showAllUnreadMessagesCount.label "Contatore messaggi non letti">
 <!ENTITY showAllUnreadMessagesCount.accesskey "C">
 <!ENTITY dockIconBadge.label "Contrassegno nell'icona dell'applicazione">
 <!ENTITY dockIconShow.label "Contrassegna l'icona dell'applicazione con:">
