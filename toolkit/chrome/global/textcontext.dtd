@@ -21,6 +21,6 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "g">
 <!ENTITY spellCheckToggle.label "Yazım denetimi">
 <!ENTITY spellCheckToggle.accesskey "Y">
-<!ENTITY spellNoSuggestions.label "(İmla önerisi yok)">
+<!ENTITY spellNoSuggestions.label "(Yazım önerisi yok)">
 <!ENTITY spellDictionaries.label "Diller">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.accesskey "D">
