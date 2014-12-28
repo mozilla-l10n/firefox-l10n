@@ -495,7 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label          "Resmi e-posta ile gönder…">
 <!ENTITY emailImageCmd.accesskey      "ö">
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
-<!ENTITY emailVideoCmd.accesskey      "ö">
+<!ENTITY emailVideoCmd.accesskey      "u">
 <!ENTITY castVideoCmd.label           "Videoyu aygıta gönder">
 <!ENTITY castVideoCmd.accesskey       "a">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
@@ -511,7 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.label   "Resmi kopyala">
 <!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Video konumunu kopyala">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "V">
 <!ENTITY copyAudioURLCmd.label        "Ses konumunu kopyala">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-posta adresini kopyala">
@@ -562,9 +562,9 @@ items are mutually exclusive. -->
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "İstatistikleri göster">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "İstatistikleri gizle">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
