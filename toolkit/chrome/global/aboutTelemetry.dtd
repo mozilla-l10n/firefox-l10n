@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  A telemetria <span>kikapcsolva</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection " Általános adatok">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Lassú SQL utasítások">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Hisztogramok kulccsal">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Egyszerű mérési eszközök">
 

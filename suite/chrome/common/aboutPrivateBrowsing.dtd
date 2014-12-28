@@ -14,7 +14,7 @@
 
 <!ENTITY privatebrowsingpage.common.description  "A privát böngészési ablakban a &brandShortName; nem tartja meg a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
 <!ENTITY privatebrowsingpage.track.warn          "Bár ezen a számítógépen nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
-<!ENTITY privatebrowsingpage.learnmore.label     "További tudnivalók">
+<!ENTITY privatebrowsingpage.learnmore.label     "További tudnivaló">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "T">
 
 <!ENTITY privatebrowsingpage.close.info          "A privát böngészés befejezéséhez zárja be ezt az ablakot.">

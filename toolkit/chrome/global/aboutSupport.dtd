@@ -92,3 +92,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Szöveg másolása a vágólapra">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nyers adatok másolása a vágólapra">
 
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
