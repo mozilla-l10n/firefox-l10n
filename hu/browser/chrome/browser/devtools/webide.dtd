@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "App megnyitása…">
 <!ENTITY projectMenu_selectApp_accesskey "n">
 <!ENTITY projectMenu_play_label "Telepítés és futtatás">
-
+<!ENTITY projectMenu_play_accesskey "T">
 <!ENTITY projectMenu_stop_label "App leállítása">
 <!ENTITY projectMenu_stop_accesskey "l">
 <!ENTITY projectMenu_debug_label "App hibakeresése">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "P">
 <!ENTITY projectMenu_showPrefs_label "Beállítások">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Extra összetevők kezelése">
+<!ENTITY projectMenu_manageComponents_accesskey "E">
 
 <!ENTITY runtimeMenu_label "Futtatókörnyezet">
 <!ENTITY runtimeMenu_accesskey "F">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "u">
 <!ENTITY runtimeMenu_showMonitor_label "Figyelés">
 <!ENTITY runtimeMenu_showMonitor_accesskey "F">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Eszközbeállítások">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 
 <!ENTITY viewMenu_label "Nézet">
 <!ENTITY viewMenu_accesskey "z">
 <!ENTITY viewMenu_toggleEditor_label "Szerkesztő be/ki">
 <!ENTITY viewMenu_toggleEditor_accesskey "S">
 <!ENTITY viewMenu_zoomin_label "Nagyítás">
-
+<!ENTITY viewMenu_zoomin_accesskey "N">
 <!ENTITY viewMenu_zoomout_label "Kicsinyítés">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "K">
+<!ENTITY viewMenu_resetzoom_label "Nagyítás visszaállítása">
+<!ENTITY viewMenu_resetzoom_accesskey "v">
 
 <!ENTITY projectButton_label "App megnyitása">
 <!ENTITY runtimeButton_label "Futtatókörnyezet kiválasztása">
