@@ -38,6 +38,7 @@
 <!ENTITY community.creditsLink      "nemzetközi közösség">
 <!ENTITY community.end3             " amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
 
+<!ENTITY helpus.start               "Szeretne segíteni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Küldjön pénzadományt">
 <!ENTITY helpus.middle              " vagy ">

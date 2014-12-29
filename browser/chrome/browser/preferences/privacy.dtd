@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "További információ">
 <!ENTITY doNotTrackInfo.label           "További információ">
 
+<!ENTITY  history.label                 "Előzmények">
 
 <!ENTITY  locationBar.label             "Címsáv">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "A címsáv használatakor jelenjen meg:">
+<!ENTITY  locbar.history.label          "Előzmények">
+<!ENTITY  locbar.history.accesskey      "E">
+<!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
+<!ENTITY  locbar.bookmarks.accesskey    "K">
+<!ENTITY  locbar.openpage.label         "Lapok megnyitása">
+<!ENTITY  locbar.openpage.accesskey     "L">
 
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Soha">
 <!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
 
-
+<!ENTITY  keepUntil.label               "Sütik megtartása:">
+<!ENTITY  keepUntil.accesskey           "m">
 
 <!ENTITY  expire.label                  "amíg le nem járnak">
 <!ENTITY  close.label                   "a &brandShortName; bezárásáig">
