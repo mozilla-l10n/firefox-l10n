@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Zoeken met &formatS;'>
 
-<!ENTITY search_empty_title2 'Start zoeken'>
+<!ENTITY search_empty_title2 'Zoeken starten'>
 <!ENTITY search_empty_message 'Snel zoeken naar wat u maar wilt'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
