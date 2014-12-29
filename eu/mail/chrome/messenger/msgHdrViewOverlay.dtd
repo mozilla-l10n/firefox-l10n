@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Gehiago">
-
+<!ENTITY otherActionsButton.tooltip "Ekintza gehiago">
 <!ENTITY otherActionsOpenConversation1.label "Ireki hizketaldian">
 <!ENTITY otherActionsOpenConversation1.accesskey "h">
 <!ENTITY otherActionsOpenInNewWindow1.label "Ireki leiho berrian">

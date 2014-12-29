@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Jario harpidetzak">
-
+<!ENTITY learnMore.label             "Jarioei buruzko argibide gehiago">
 
 <!ENTITY feedTitle.label             "Izenburua:">
 <!ENTITY feedTitle.accesskey         "I">

@@ -116,5 +116,5 @@
 
 <!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
 <!ENTITY viewCertificates.accesskey     "a">
-
-
+<!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
+<!ENTITY viewSecurityDevices.accesskey  "u">
