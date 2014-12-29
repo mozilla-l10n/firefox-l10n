@@ -28,7 +28,7 @@
 <!ENTITY  crash_comment "Legg til ein kommentar (kommentarar er offentleg synlege)">
 <!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakta meg om denne rapporten">
 <!ENTITY  crash_email "Di e-postadresse">
-<!ENTITY  crash_closing_alert "Avslutt utan å senda krasjrapport?">
+<!ENTITY  crash_closing_alert "Avslutta utan å senda krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
 <!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Innstillingar">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
+<!ENTITY pref_category_customize_summary "Heim, søk, faner, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Språk">
+<!ENTITY pref_category_language_summary "Endra språket til nettlesaren">
 <!ENTITY pref_browser_locale "Nettlesarspråk">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,22 +102,27 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
 <!ENTITY overlay_share_reading_list_btn_label "Legg til i leseliste">
-<!ENTITY overlay_share_send_other "Send til ei anna eining">
+<!ENTITY overlay_share_bookmark_btn_label_already "Er allereie i bokmerke">
+<!ENTITY overlay_share_reading_list_btn_label_already "Er allereie i leselista">
+<!ENTITY overlay_share_send_other "Send til anna eining">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send til ei anna eining">
-<!ENTITY overlay_share_no_url "Inga lenke funnen i denne delinga">
-<!ENTITY overlay_share_retry "Prøv igjen">
+<!ENTITY overlay_share_send_tab_btn_label "Send til anna eining">
+<!ENTITY overlay_share_no_url "Inga lenkje funnen i denne delinga">
+<!ENTITY overlay_share_retry "Prøv om att">
 <!ENTITY overlay_share_select_device "Vel eining">
 
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary "Tilpass søkjetilbydarar">
 <!ENTITY pref_category_display "Vising">
+<!ENTITY pref_category_display_summary "Tekst, tittellinje, nettlesing i fullskjerm">
 <!ENTITY pref_category_privacy_short "Personvern">
+<!ENTITY pref_category_privacy_summary "Handsame passord, infokapslar, sporing, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, OSS, dataval">
 <!ENTITY pref_category_datareporting "Dataval">
 <!ENTITY pref_learn_more "Les meir">
 <!ENTITY pref_category_installed_search_engines "Installerte søkjemotorar">
@@ -130,6 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Legg til ein nettstad som søkjetilbydar ved å lang-trykkje på søkjefeltet og deretter velja &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utvklarverktøy">
+<!ENTITY pref_category_devtools_summary "Ekstern feilsøking og markering av skjermteikning">
 <!ENTITY pref_developer_paint_flashing "Markering av skjermteikning">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_remember_signons "Hugs passord">
@@ -174,7 +182,7 @@
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
 <!ENTITY pref_clear_private_data2 "Tøm no">
 <!ENTITY pref_clear_private_data_category "Slett private data">
-<!ENTITY pref_clear_on_exit_title "Alltid tøm ved avslutting">
+<!ENTITY pref_clear_on_exit_title2 "Slett ved avslutting">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dataa dine kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_plugins "Programtillegg">
@@ -205,20 +213,22 @@ size. -->
 
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Vis søkeforslag">
+<!ENTITY pref_sync_summary "Synkroniserer faner, bokmerke, passords, historikk">
+<!ENTITY pref_search_suggestions "Vis søkjeforslag">
 <!ENTITY pref_import_android "Importer frå Android">
+<!ENTITY pref_import_android_summary "Importer bokmerke og historikk frå den opphavelege nettlesaren">
 <!ENTITY pref_private_data_history2 "Nettlesarhistorikk">
-<!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
+<!ENTITY pref_private_data_formdata "Skjema- og søkjehistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapslar og aktive innloggingar">
 <!ENTITY pref_private_data_passwords "Lagra passord">
 <!ENTITY pref_private_data_cache "Snøgglager">
-<!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
+<!ENTITY pref_private_data_offlineApps "Fråkopla nettstad-data">
 <!ENTITY pref_private_data_siteSettings2 "Nettstadinnstillingar">
 <!ENTITY pref_private_data_downloadFiles2 "Nedlastingar">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "OSS">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
 
 <!ENTITY pref_dialog_set_default "Vel som standard">
@@ -256,8 +266,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; stadteneste">
-<!ENTITY datareporting_wifi_geolocation_summary "Tek imot Wi-Fi og mobilnett-info når han køyrer i bakgrunnen, og deler det med &vendorShortName; for å betra geolokasjon-tenesta vår.">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Deler omtrentleg Wi-Fi og mobilnett-posisjon for eininga di med &vendorShortName; for å forbetra geolokasjon-tenesta vår">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -281,9 +290,9 @@ size. -->
 <!ENTITY share_image_failed "Klarte ikkje å dela dette bildet">
 <!ENTITY save_as_pdf "Lagra som PDF">
 <!ENTITY find_in_page "Finn på sida">
-<!ENTITY desktop_mode "Hent side som desktop">
+<!ENTITY desktop_mode "Hent sida som desktop">
 <!ENTITY page "Side">
-<!ENTITY tools "Verktøy">
+<!ENTITY tools "Verkty">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lukk alle faner">
@@ -292,7 +301,8 @@ size. -->
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
 <!ENTITY set_image_fail "Klarte ikkje å velja bilde">
-<!ENTITY set_image_chooser_title "Bruk bilde som">
+<!ENTITY set_image_path_fail "Klarte ikkje å lagra bilde">
+<!ENTITY set_image_chooser_title "Bruk bildet som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -368,7 +378,7 @@ size. -->
 <!ENTITY button_yes "Ja">
 <!ENTITY button_no "Nei">
 <!ENTITY button_clear_data "Tøm data">
-<!ENTITY button_set "Set">
+<!ENTITY button_set "Vel">
 <!ENTITY button_clear "Tøm">
 
 <!ENTITY home_top_sites_title "Toppliste">
@@ -403,9 +413,33 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Opp til &formatS;">
 
+<!ENTITY home_remote_tabs_title "Synkroniserte faner">
+<!ENTITY home_remote_tabs_empty "Faner frå andre einingar vert viste her.">
+<!ENTITY home_remote_tabs_unable_to_connect "Klarte ikkje å kopla til">
+<!ENTITY home_remote_tabs_need_to_sign_in "Logg inn for å kopla til Firefox-kontoen din på nytt og halda fram synkronisering.">
+<!ENTITY home_remote_tabs_trouble_verifying "Problem med stadfesting av kontoen?">
+<!ENTITY home_remote_tabs_need_to_verify "Stadfest Firefox-kontoen din for å starta synkronisering.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 eining gøymde">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; einingar gøymde">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Gøymde einingar">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Opphev gøyming av einingar">
+
 <!ENTITY private_browsing_title "Privat nettlesing">
 <!ENTITY private_tabs_panel_empty_desc "Dine private faner vert viste her. Sjølv om nettlesarhistorikk eller infokapslar ikkje vert lagra, vil bokmerke og filer du lastar ned framleis lagrast på eininga.">
 <!ENTITY private_tabs_panel_learn_more "Vil du lesa meir?">
+
+<!ENTITY remote_tabs_panel_moved_title "Kvar forsvann fanene mine?">
+<!ENTITY remote_tabs_panel_moved_desc "Vi har flytta fanene dine frå andre einingar til eit panel på startsida di, som du enkelt kan få tilgang til kvar gong du opnar ei ny fane.">
+<!ENTITY remote_tabs_panel_moved_link "Tak meg til det nye panelet.">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn eit søkjeord">
 
@@ -430,7 +464,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som er driven av">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er sikra.">
+<!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungera sjølv om dette innhaldet vert blokkert.">
 <!ENTITY learn_more "Les meir">
@@ -475,6 +509,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengeleg for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatera">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Start nettlesaren på nytt for å bruka endringane">
+<!ENTITY new_tablet_pref "Slå på nytt nettbrett-UI">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gjesteøkt">
 <!ENTITY exit_guest_session "Avslutt gjesteøkt">
@@ -482,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; vil starta på nytt no">
 <!ENTITY new_guest_session_text "Personen som brukar den vil ikkje sjå nokre av nettlesardataa dine (som lagra passord, historikk eller bokmerke).\n\nNår gjesten er ferdig vert nettlesardataa hans/hennar sletta, og nettlesarøkta di vert gjenoppretta.">
+<!ENTITY guest_browsing_notification_title "Gjestenettlesing er slått på">
+<!ENTITY guest_browsing_notification_text "Trykk for å avslutta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; vil starta på nytt no">
 <!ENTITY exit_guest_session_text "Nettlesardata frå denne økta vert sletta.">
