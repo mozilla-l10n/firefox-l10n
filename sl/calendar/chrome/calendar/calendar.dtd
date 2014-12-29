@@ -185,7 +185,7 @@
 <!ENTITY calendar.context.priority.label              "Prednost">
 <!ENTITY calendar.context.priority.accesskey          "r">
 <!ENTITY calendar.context.postpone.label              "Odloži opravilo">
-<!ENTITY calendar.context.postpone.accesskey          "d">
+<!ENTITY calendar.context.postpone.accesskey          "ž">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;" >
