@@ -32,7 +32,7 @@
      HTML in the current node -->
 
 <!ENTITY inspectorHTMLPasteInner.label      "Pegar HTML interno">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "i">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -42,13 +42,13 @@
      - as the last child of the current node -->
 
 <!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Pegar…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "g">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
 <!ENTITY inspectorHTMLPasteBefore.label      "Antes">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
