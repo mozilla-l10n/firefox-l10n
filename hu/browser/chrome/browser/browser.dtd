@@ -271,6 +271,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Böngészőtartalom eszközkészlet">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Fejlesztői eszköztár bezárása">
 <!ENTITY devToolbarMenu.label              "Fejlesztői eszköztár">
 <!ENTITY devToolbarMenu.accesskey          "F">
@@ -728,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témék letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "A Developer Edition téma használata">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Csevegések fókuszba">
