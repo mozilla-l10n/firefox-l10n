@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normál">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Magas">
-
+<!ENTITY priority.level.high.accesskey      "M">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 óra">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "r">
@@ -245,10 +245,14 @@
 <!ENTITY calendar.context.properties.accesskey         "T">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.togglevisible.accesskey      "N">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
-
+<!ENTITY calendar.context.showonly.accesskey           "c">
+<!ENTITY calendar.context.showall.label                "Minden naptár megjelenítése">
+<!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Konvertálás">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

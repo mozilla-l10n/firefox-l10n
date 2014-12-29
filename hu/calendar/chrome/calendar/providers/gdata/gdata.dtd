@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "F">
 <!ENTITY gdata.migration.showagain.label "Ellenőrzés mindig">
 
+<!ENTITY gdata.reminder.default "Alapértelmezett emlékeztető">
 <!ENTITY gdata.reminder.action.sms.label "Szöveges üzenet küldése">
 
+<!ENTITY gdata.wizard.session.description "Válasszon egy meglévő munkamenetet, vagy adja meg e-mail címét új létrehozásához. Fiókonként csak egy munkamenet szükséges.">
+<!ENTITY gdata.wizard.calendars.description "Válassza ki a naptárakat és feladatlistákat, amelyekre fel szeretne iratkozni.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Lépjen tovább a naptárak beállításához.">
