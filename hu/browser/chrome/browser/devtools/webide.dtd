@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projektjeim">
 <!ENTITY projectPanel_runtimeApps "Futtatókörnyezet appok">
@@ -112,7 +113,7 @@
 <!ENTITY prefs_editor_title "Szerkesztő">
 <!ENTITY prefs_general_title "Általános">
 <!ENTITY prefs_restore "Alapértelmezések visszaállítása">
-
+<!ENTITY prefs_manage_components "Extra összetevők kezelése">
 <!ENTITY prefs_options_rememberlastproject "Utolsó projekt megjegyzése">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Előző projekt helyreállítása a WebIDE indulásakor">
 <!ENTITY prefs_options_templatesurl "Sablonok URL-je">
@@ -145,13 +146,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Újraindítja az eszközt. Root hozzáférést igényel.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Eszközbeállítások">
+<!ENTITY devicepreferences_search "Beállítások keresése">
+<!ENTITY devicepreferences_newname "Új beállításnév">
+<!ENTITY devicepreferences_newtext "Beállítás értéke">
+<!ENTITY devicepreferences_addnew "Új beállítás hozzáadása">
+<!ENTITY devicepreferences_typeboolean "Logikai">
+<!ENTITY devicepreferences_typenumber "Egész">
+<!ENTITY devicepreferences_typestring "Karakterlánc">
+<!ENTITY devicepreferences_typenone "Válasszon típust">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Figyelés">
