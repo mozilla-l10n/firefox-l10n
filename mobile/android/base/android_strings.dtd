@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-
+<!ENTITY pref_donottrack_title "Ne kövessenek">
+<!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "A gyors narancssárga róka sebességben, rugalmasságban és biztonságban is megugorja várakozásait. Non-profit szervezetként szabadon innoválhatunk az Ön érdekében, nem kell semmilyen kompromisszumot kötnünk. Ez Önnek jobb élményt, a webnek pedig fényesebb jövőt jelent.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Automatikus lejátszás">
+<!ENTITY pref_media_autoplay_enabled_summary "A webhelyek automatikusan lejátszhatnak-e videókat és más médiatartalmakat">
 
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
 <!ENTITY pref_sync "Sync">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; p">
+<!ENTITY reading_list_time_over_an_hour "Egy óránál több">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
