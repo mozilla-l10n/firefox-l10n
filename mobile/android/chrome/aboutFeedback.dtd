@@ -17,15 +17,15 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Du kan også besøkje">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " for meir info.">
+<!ENTITY support.pre3              "Vitja">
+<!ENTITY support.link2             "brukarnettstaden vår">
+<!ENTITY support.post3             " for å få svar på vanlege spørsmål.">
 
-<!ENTITY happy.header              "Det er flott å høyra!">
+<!ENTITY happy.header              "Det er bra å høyra!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Vil du dele entusiasmen din og gje oss ei femstjerners tilbakemelding på Google Play?">
+<!ENTITY happy.message             "Vil du dela entusiasmen din og gje oss ei femstjerners tilbakemelding på Google Play?">
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
@@ -35,23 +35,23 @@
 <!ENTITY happy.maybeLater2         "Kanskje seinare">
 <!ENTITY happy.noThanks            "Nei takk">
 
-<!ENTITY sad.message               "Me orsakar at du hadde problem med &brandShortName;. Fortel oss kva som skjedde slik at vi kan retta det.">
+<!ENTITY sad.header                "Å, nei!">
+<!ENTITY sad.message               "Me er leie oss for at du hadde problem med &brandShortName;. Fortel oss kva som hende so me kan retta det.">
 <!ENTITY sad.placeholder           "Skriv inn tilbakemeldinga di her">
-<!ENTITY sad.lastSite              "Sist besøkte nettstad (valfritt)">
+<!ENTITY sad.lastSite2             "Ta med info om siste vitja nettstad">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Takk for at du fortel oss dette.">
+<!ENTITY sad.thanksHeader2         "Takk skal du ha.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Vi jobbar heile tida med å gjera &brandShortName; betre. Du kan vera viss på at det er nokon som vil lesa tilbakemeldinga di og prøva å løysa problemet.">
+<!ENTITY sad.thanksMessageTop      "Vi jobbar heile tida med å gjera &brandShortName; betre. Du kan vera viss på at det er nokon som vil lesa tilbakemeldinga di og freista å løysa problemet.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "For å ta vare på personvernet ditt bør du unngå ta med personleg identifiserbar informasjon i tilbakemeldinga.
-  ">
+<!ENTITY feedback.privacy2         "Av omsyn til eige personvern, bør du ikkje taka med personleg informasjon i tilbakemeldinga.">
 <!ENTITY feedback.send             "Send tilbakemelding">
