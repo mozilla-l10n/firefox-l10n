@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "B">
 <!ENTITY offlineGoOfflineCmd.label "Delaj brez povezave">
 <!ENTITY offlineGoOfflineCmd.accesskey "D">
-<!ENTITY synchronizeOfflineCmd.label "Prenesi/uskladi zdaj …">
+<!ENTITY synchronizeOfflineCmd.label "Prenesi/Uskladi zdaj …">
 <!ENTITY synchronizeOfflineCmd.accesskey "P">
 <!ENTITY settingsOfflineCmd2.label "Nastavitve za nepovezan način …">
 <!ENTITY settingsOfflineCmd2.accesskey "N">
