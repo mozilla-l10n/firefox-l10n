@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "तुम्हाला &brandShortName; ला 
-<b>#1</b> सह जुळवणी स्थपीत करायची इच्छा आहे, परंतु जुळवणी सुरक्षीत आहे याची हमी आम्ही देऊ शकत नाही.">
+<!ENTITY certerror.introPara1 "आपण &brandShortName; शी 
+<b>#1</b> सह जुळवणी स्थापीत करायला सांगीतले आहे, परंतु ती जुळवणी सुरक्षीत आहे याची हमी आम्ही देऊ शकत नाही.">
 <!ENTITY certerror.introPara2 "सहसा, जेव्हा तुम्ही सुरक्षीत जुळवणी करण्याचा प्रत्यत्न करता, 
 तेव्ह तुम्ही योग्य मार्गवर आहात हे स्थळ द्वारे विश्वासर्ह ओळख प्रस्तुत 
 केल्यावर होते. तरी, या स्थळाची ओळख तपासले जाऊ शकत नाही.">
