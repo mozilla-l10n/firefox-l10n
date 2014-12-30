@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Трака за претрагу Вам омогућава да промените претраживач. Изаберите онај који желите да прикажете.">
 
+<!ENTITY engineNameColumn.label                "Претраживач>
+<!ENTITY engineKeywordColumn.label             "Кључна реч">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Врати на подразумеване претраживаче">
+<!ENTITY restoreDefaultSearchEngines.accesskey "В">
+
+<!ENTITY removeEngine.label                    "Уклони">
+<!ENTITY removeEngine.accesskey                "У">
+
 <!ENTITY addMoreSearchEngines.label            "Додај још претраживача…">
