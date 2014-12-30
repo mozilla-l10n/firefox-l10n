@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostrar todos os rótulos">
 <!ENTITY editBookmarkOverlay.choose.label                    "Escolha…">
-
-
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova pasta">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
 <!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Criar nova pasta">

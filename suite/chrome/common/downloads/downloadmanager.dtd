@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY downloadManager.title           "Gerenciador de downloads">
+
 <!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
@@ -17,16 +19,16 @@
 <!ENTITY col.name.tooltip                "Nome do arquivo">
 <!ENTITY col.status.label                "Status">
 <!ENTITY col.status.accesskey            "S">
+<!ENTITY col.status.tooltip              "Estado">
 
 
 
 
 
 
-
-
-
-
+<!ENTITY col.progress.label              "Andamento">
+<!ENTITY col.progress.accesskey          "A">
+<!ENTITY col.progress.tooltip            "Andamento">
 
 
 <!ENTITY col.timeremaining.tooltip       "Tempo restante">
@@ -38,13 +40,13 @@
 <!ENTITY col.transferrate.tooltip        "Velocidade">
 
 
+<!ENTITY col.timeelapsed.tooltip         "Tempo decorrido">
 
 
+<!ENTITY col.starttime.tooltip           "Hora de início">
 
 
-
-
-
+<!ENTITY col.endtime.tooltip             "Hora de término">
 
 
 <!ENTITY col.progresstext.tooltip        "Progresso (&#037;)">
@@ -70,17 +72,17 @@
 <!ENTITY cmd.resume.accesskey            "C">
 <!ENTITY cmd.retry.label                 "Tentar novamente">
 <!ENTITY cmd.retry.accesskey             "n">
-
-
+<!ENTITY cmd.cancel.label                "Cancelar">
+<!ENTITY cmd.cancel.accesskey            "C">
 
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
 
 
-
-
-
-
+<!ENTITY cmd.goToDownloadPage.label      "Abrir página de download">
+<!ENTITY cmd.goToDownloadPage.accesskey  "A">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar link do download">
+<!ENTITY cmd.copyDownloadLink.accesskey  "L">
 <!ENTITY cmd.properties.label            "Propriedades…">
 <!ENTITY cmd.properties.accesskey        "s">
