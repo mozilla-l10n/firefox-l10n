@@ -4,9 +4,9 @@
 
 <!ENTITY tracking.label                 "Tracio">
 
-<!ENTITY dntTrackingNotOkay.label2      "Dweud wrth wefannau: Peidio tracio">
+<!ENTITY dntTrackingNotOkay.label2      "Dweud wrth wefannau: Dim tracio">
 <!ENTITY dntTrackingNotOkay.accesskey   "P">
-<!ENTITY trackingProtection.label       "Rhwystro gwefannau rhag fy nilyn">
+<!ENTITY trackingProtection.label       "Rhwystro gwefannau rhag fy nrhacio">
 <!ENTITY trackingProtection.accesskey   "R">
 <!ENTITY trackingProtectionLearnMore.label "Dysgu rhagor">
 <!ENTITY doNotTrackInfo.label           "Dysgu Rhagor">

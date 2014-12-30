@@ -763,7 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Diogelu wedi ei anablu">
 
 <!ENTITY trackingContentBlocked.message "Tracio">
-<!ENTITY trackingContentBlocked.moreinfo "Mae'r rhannau sy'n dilyn eich gweithgaredd ar-lein wedi eu rhwystro.">
+<!ENTITY trackingContentBlocked.moreinfo "Mae'r rhannau o'r dudalen sy'n tracio'ch gweithgaredd ar-lein wedi eu rhwystro.">
 <!ENTITY trackingContentBlocked.learnMore "Dysgu Rhagor">
 <!ENTITY trackingContentBlocked.options "Dewisiadau">
 <!ENTITY trackingContentBlocked.unblock2.label "Analluogi diogelwch y wefan hon">
