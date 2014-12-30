@@ -60,7 +60,7 @@
 ">
 
 <!ENTITY netInterrupt.title "连接被中断">
-<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "文档已过期">
 <!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
