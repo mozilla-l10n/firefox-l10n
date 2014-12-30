@@ -80,8 +80,6 @@
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
 
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>આ રીતે લોડ કરવાથી બ્રાઉઝરે આ પાનાંને અટકાવેલ છે કારણ કે પાનાં પાસે સમાવિષ્ટ સુરક્ષા પોલિસી છે કે જે તેને પરવાનગી આપતુ નથી.</p>">
-<!ENTITY cspFrameAncestorBlocked.title "સમાવિષ્ટ સુરક્ષા પોલિસી દ્દારા બ્લોક થયેલ છે">
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
 

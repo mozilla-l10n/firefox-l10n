@@ -10,12 +10,6 @@
 <!ENTITY intro.happyLink "મને પ્રિય છે">
 <!ENTITY intro.sadLink "મને અમુક સમસ્યાઓ આવી">
 <!ENTITY intro.maybeLater "કદાચ પછીથી">
-<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
-<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
-<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2 "તમે આની પણ મુલાકાત લઇ શકો">
-<!ENTITY support.link "&brandShortName; આધાર">
-<!ENTITY support.post2 " વધુ જાણકારી માટે.">
 <!ENTITY happy.header "સાંભળવા માટે શ્રેષ્ઠ છે!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -28,10 +22,8 @@
 <!ENTITY happy.noThanks "ના આભાર">
 <!ENTITY sad.message "અમને ખેદ છે તમને &brandShortName; સાથે અમુક સમસ્યાઓ આવી. મહેરબાની કરીને અમને કહો કે શું થયુ જેથી અમે તેને સુધારી શકીએ.">
 <!ENTITY sad.placeholder "તમારો અભિપ્રાય અહીં દાખલ કરો">
-<!ENTITY sad.lastSite "છેલ્લી મુલાકાત લીધેલી સાઇટ (વૈકલ્પિક)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "અમને જણાવવા બદલ આભાર.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 <!ENTITY sad.thanksMessageTop "અમે હંમેશા &brandShortName; ને સારુ બનાવવા માટે કામ કરીએ છીએ. ખાતરી રાખો કે વાસ્તવિક લોકો તમારા અભિપ્રાયને જોશે અને તમારા મુદ્દાઓ ઉકેલવા માટે તેમનું શ્રેષ્ઠ આપશે.">
@@ -39,5 +31,4 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom "અથવા સિવાય.">
-<!ENTITY feedback.privacy "તમારા ખાનગીપણા માટે, મહેરબાની કરીને તમારા અભિપ્રાયમાં કોઇપણ વ્યક્તિગત ઓળખસંબંધી માહિતી સમાવશો નહિ.">
 <!ENTITY feedback.send "અભિપ્રાય મોકલો">

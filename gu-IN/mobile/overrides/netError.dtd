@@ -11,21 +11,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "જોડાવામાં અસમર્થ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "આ સરનામું પ્રતિબંધિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "સર્વર મળ્યું નહિં">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>લખતી વખતની ભૂલો જેવી કે
-    <strong>www</strong>.example.com</li> ની જગ્યાએ
-    <strong>ww</strong>.example.com
-	માટે સરનામું ચકાસો
-  <li>જો તમે કોઇપણ પાનાં લાવવામાં અસમર્થ હોય, તો તમારા ઉપકરણનો નેટવર્ક કે Wi-Fi જોડાણ તપાસો.</li>
-</ul>
-">
 
 <!ENTITY fileNotFound.title "ફાઇલ મળી નહિં">
 <!ENTITY fileNotFound.longDesc "
@@ -42,27 +32,13 @@
 ">
 
 <!ENTITY malformedURI.title "સરનામું બરાબર નથી">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>વેબ સરનામાઓ સામાન્ય રીતે આ પ્રમાણે લખાય છે
-    <strong>http://www.example.com/</strong></li>
-  <li>ખાતરી કરો કે તમે આગળ આવતા સ્લેશ વાપરી રહ્યા છો (એટલે કે
-    <strong>/</strong>).</li>
-</ul>
-">
 
 <!ENTITY netInterrupt.title "જોડાણ તૂટી ગયું હતુ">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
 <!ENTITY notCached.longDesc "<p>અરજી થયેલ દસ્તાવેજ &brandShortName; ની કૅશમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવધાની હેઠળ, &brandShortName; સંવેદનશીલ દસ્તાવેજો માટે આપોઆપ પુનઃઅરજી કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની પુનઃઅરજી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>ફરી પ્રયાસ કરો. &brandShortName; જોડાણ ખોલવાનો અને પાનું પુનઃલાવવાનો પ્રયાસ કરશે.</li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "વસ્તુ સંગ્રહપદ્ધતિ ક્ષતિ">
 <!ENTITY contentEncodingError.longDesc "
@@ -79,10 +55,8 @@
 ">
 
 <!ENTITY netReset.title "જોડાણ રીસેટ થઇ ગયું હતુ">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -93,12 +67,6 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "પ્રૉક્સી સર્વર શોધવામાં અસમર્થ">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li>
-  <li>તમારા ઉપકરણમાં કામ આપતું ડૅટા કે Wi-Fi જોડાણ છે તેની ખાતરી કરો.</li>
-</ul>
-">
 
 <!ENTITY redirectLoop.title "પાનું બરાબર પુનઃદિશામાન થતું નથી">
 <!ENTITY redirectLoop.longDesc "
@@ -116,12 +84,6 @@
 ">
 
 <!ENTITY nssFailure2.title "સુરક્ષિત જોડાણ નિષ્ફળ">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિ કારણ કે પ્રાપ્ત થયેલ માહિતીની સાત્વિકતા તપાસી શકાઇ નહિ.</li>
-  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો. વૈકલ્પિકરૂપે, આ ભાંગેલી સાઇટનો અહેવાલ આપવા માટે મદદ મેનુમાંથી મળી આવતા આદેશનો ઉપયોગ કરો.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 <!ENTITY nssBadCert.longDesc2 "
@@ -130,16 +92,6 @@
   <li>જો તમે ભૂતકાળમાં આ સર્વર સાથે સફળતાપૂર્વક જોડાણ કર્યું હોય, તો ક્ષતિ ક્ષણિક હોઇ શકે, અને તમે પછીથી ફરી પ્રયાસ કરી શકો.</li>
 </ul>
 ">
-
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>સાઇટ ક્ષણિકવાર માટે ઉપલબ્ધ નહિ હોઇ શકે અથવા ખૂબ વ્યસ્ત હોઇ શકે. થોડી ક્ષણોમાં ફરી પ્રયાસ કરો.</li>
-  <li>જો તમે કોઇપણ પાનાં લાવવામાં અસમર્થ હોવ, તો તમારા મોબાઇલ ઉપકરણના ડૅટા અથવા Wi-Fi જોડાણને તપાસો.</li>
-</ul>
-">
-
-<!ENTITY cspFrameAncestorBlocked.title "વસ્તુ સુરક્ષા પૉલીસિ દ્વારા બ્લૉક કરવામાં આવેલ છે">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; એ આ પાનાને આ રીતે લાવવાથી અટકાવ્યું છે કારણ કે પાનામાં વસ્તુ સુરક્ષા પૉલીસિ છે કે જે તેને પરવાનગી આપતું નથી.</p>">
 
 <!ENTITY corruptedContentError.title "બગડેલ વસ્તુ ક્ષતિ">
 <!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
