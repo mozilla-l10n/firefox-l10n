@@ -7,32 +7,35 @@
 
 <!ENTITY lightning.toolbar.delete.label "Excluir">
 
-
+<!ENTITY lightning.toolbar.gototoday.label "Ir para hoje">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Calendário">
-
+<!ENTITY lightning.toolbar.calendar.tooltip   "Alterne para a aba do calendário">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-
-
-
+<!ENTITY lightning.toolbar.task.label         "Tarefas">
+<!ENTITY lightning.toolbar.task.tooltip       "Alternar para a aba de tarefas">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
 <!ENTITY lightning.toolbar.newtask.label      "Tarefa">
 <!-- Calendar and Task Mode Toolbar -->
 
+<!ENTITY lightning.toolbar.day.label                 "Dia">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
 
 
 
 
-
-
+<!ENTITY lightning.toolbar.month.label               "Mês">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Exibir o menu do &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Painel do calendário">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 
 

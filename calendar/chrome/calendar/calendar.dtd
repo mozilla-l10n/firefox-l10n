@@ -34,23 +34,23 @@
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar por prioridade">
 <!ENTITY calendar.unifinder.tree.title.label               "Título">
-
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordenar por título">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; completada">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordenar por &#037; completo">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Início">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordenar pela data de início">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fim">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordenar pela data de término">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Vencimento">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordenar pela data de vencimento">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Completada em">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordenar por data de conclusão">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categoria">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ordenar por categoria">
 <!ENTITY calendar.unifinder.tree.location.label            "Local">
-
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Ordenar por localização">
 <!ENTITY calendar.unifinder.tree.status.label              "Posição">
-
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ordenar por estado">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nome do calendário">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar por nome de calendário">
 <!ENTITY calendar.unifinder.tree.duration.label            "Vencimento">
@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Somente leitura">
 <!ENTITY calendarproperties.firealarms.label               "Exibir alarmes">
-
+<!ENTITY calendarproperties.cache3.label                   "Suporte off-line">
 <!ENTITY calendarproperties.enabled.label                  "Habilitar este calendário">
 <!ENTITY calendarproperties.forceDisabled.label            "O provedor deste calendário não foi encontrado. Isto normalmente ocorre se você desabilitou ou desinstalou alguns complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar inscrição">
@@ -347,5 +347,7 @@
 <!ENTITY calendar.error.title "Erro">
 <!-- Extract buttons in message header -->
 
-
-
+<!ENTITY calendar.extract.event.button         "Adicionar como evento">
+<!ENTITY calendar.extract.task.button          "Adicionar como tarefa">
+<!ENTITY calendar.extract.event.button.tooltip "Extrair informações do calendário a partir da mensagem e adicioná-la ao seu calendário como um evento">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrair informações de calendário a partir da mensagem e adicioná-la ao seu calendário como uma tarefa">
