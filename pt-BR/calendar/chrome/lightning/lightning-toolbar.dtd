@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY lightning.toolbar.calendar.name "Barra de ferramentas do calendário">
+
+<!ENTITY lightning.toolbar.task.name "Barra de ferramentas de tarefas">
 
 
-
+<!ENTITY lightning.toolbar.sync.label "Sincronizar">
 <!ENTITY lightning.toolbar.delete.label "Excluir">
-
+<!ENTITY lightning.toolbar.edit.label "Editar">
 <!ENTITY lightning.toolbar.gototoday.label "Ir para hoje">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
 <!-- Mode Toolbar -->
@@ -37,5 +40,5 @@
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Exibir o menu do &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Painel do calendário">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
-
-
+<!ENTITY lightning.toolbar.calendarpane.label        "Mostrar o painel do calendário">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "p">
