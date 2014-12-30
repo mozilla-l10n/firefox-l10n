@@ -74,11 +74,6 @@
 <!ENTITY createCertInfo.title "અંગત કી બનાવે છે">
 <!ENTITY createCertInfo.msg1 "કી બનવાનુ પ્રગતિ પર છે... આ થોડી મિનિટો લેશે....">
 <!ENTITY createCertInfo.msg2 "મહેરબાની કરીને રાહ જુઓ...">
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "લખાણમાં સહી કરવાની વિનંતી">
-<!ENTITY formSigning.cert "પ્રમાણપત્રમાં સહી કરી રહ્યા છીએ">
-<!ENTITY formSigning.confirmPassword "તમે પસંદ કરેલા પ્રમાણપત્ર દ્રારા તમે આ લેખિત સંદેશ પર સહી કરવા તૈયાર છો એ પાક્કુ કરવા મુખ્ય પાસવર્ડ દાખલ
-કરો:">
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "સુરક્ષિત ટોકન સત્તાધિકરણ">
 <!ENTITY protectedAuth.msg "મહેરબાની કરીને ટોકનને સત્તાધિકારીત કરો. સત્તાધિકરણ પદ્ધતિ તમારા ટોકનના પ્રકાર પર આધાર રાખે છે.">

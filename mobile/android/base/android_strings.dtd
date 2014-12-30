@@ -25,7 +25,6 @@
 <!ENTITY launcher_shortcuts_title "&brandShortName; વેબ કાર્યક્રમો">
 <!ENTITY launcher_shortcuts_empty "કોઇ વેબ કાર્યક્રમો મળ્યા નહિં">
 <!ENTITY choose_file "ફાઇલ પસંદ કરો">
-<!ENTITY url_bar_default_text "શોધ અથવા સરનામું દાખલ કરો">
 <!ENTITY bookmark "બુકમાર્ક">
 <!ENTITY bookmark_added "બુકમાર્ક ઉમેરાઇ">
 <!ENTITY bookmark_removed "બુકમાર્ક દૂર થઇ">
@@ -33,8 +32,6 @@
 <!ENTITY bookmark_options "વિકલ્પો">
 <!ENTITY history_today_section "આજે">
 <!ENTITY history_yesterday_section "ગઇ કાલે">
-<!ENTITY history_week_section "૭ દિવસો અગાઉ">
-<!ENTITY history_older_section "૭ દિવસો કરતાં જૂનું">
 <!ENTITY go "જાવ">
 <!ENTITY search "શોધો">
 <!ENTITY reload "પુનઃલાવો">
@@ -78,7 +75,6 @@
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY pref_category_home_panels "પેનલો">
-<!ENTITY pref_home_add_panel "પેનલ ઉમેરો">
 <!ENTITY home_add_panel_title "નવી પેનલ ઉમેરો">
 <!ENTITY home_add_panel_empty "માફ કરજો, અમે તમારા માટે ઉમેરવા માટે કોઇપણ પેનલો શોધી શક્યા નથી.">
 <!-- Localization note (home_add_panel_installed):
@@ -100,14 +96,9 @@
 <!ENTITY pref_cookies_accept_all "સક્રિય કરેલ">
 <!ENTITY pref_cookies_not_accept_foreign "સક્રિય કરેલ, ત્રીજી વ્યક્તિને નહિ સમાવીને">
 <!ENTITY pref_cookies_disabled "નિષ્ક્રિય કરેલ">
-<!ENTITY pref_donottrack_menu "ટ્રૅકીંગ">
-<!ENTITY pref_donottrack_disallow_tracking "સાઇટોને કહો કે મારે ટ્રૅક થવું નથી">
-<!ENTITY pref_donottrack_allow_tracking "સાઇટોને કહો કે મારે ટ્રૅક થવું છે">
-<!ENTITY pref_donottrack_no_pref "સાઇટોને મારી ટ્રૅકીંગ પસંદગીઓ વિશે કંઇ કહેશો નહિ">
 <!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
 <!ENTITY pref_char_encoding_off "મેનુ બતાવશો નહિં">
-<!ENTITY pref_clear_private_data "ખાનગી માહિતી સાફ કરો">
 <!ENTITY pref_plugins "પ્લગઇનો">
 <!ENTITY pref_plugins_enabled "સક્રિય કરેલ">
 <!ENTITY pref_plugins_tap_to_play "વગાડવા માટે ઠપકારો">
@@ -133,7 +124,6 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "ઝડપી કેસરી શિયાળ તમારી આશાઓ ઉપર વધુ ઝડપથી, વધુ નમ્રતાથી અને વધુ સુરક્ષા સાથે કૂદે છે. બિન-ફાયદાકીય સંસ્થા તરીકે, અમે તમારા વતી કોઇપણ દબાણ હેઠળ કામ કર્યા વિના સંશોધન કરવા માટે મુક્ત છીએ. એનો અર્થ એ થાય કે તમારા માટે શ્રેષ્ઠ અનુભવ અને વેબ માટે તેજસ્વી ભવિષ્ય.">
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
-<!ENTITY pref_show_product_announcements "પ્રોડક્ટ જાહેરાતો બતાવો">
 <!ENTITY pref_sync "સીંક">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
 <!ENTITY pref_import_android "Android માંથી આયાત કરો">
@@ -179,7 +169,6 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ભંગાણનો અહેવાલ આપનાર">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; સ્થાન સેવા">
-<!ENTITY datareporting_wifi_geolocation_summary "Wi-Fi અને સેલ્યુલર સ્થાન માહિતી મેળવે છે જ્યારે પાશ્વભાગમાં ચાલે છે અને અમારી geolocation સેવા સુધારવા માટે તેને &vendorShortName; સાથે વહેંચે છે">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -214,15 +203,11 @@ size. -->
 <!ENTITY find_prev "પાછળ">
 <!ENTITY find_next "આગળ">
 <!ENTITY find_close "બંધ કરો">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
-     as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "ઉપકરણને ચડાવો">
 <!ENTITY media_play "વગાડો">
 <!ENTITY media_pause "અટકાવો">
 <!ENTITY media_stop "બંધ">
 <!ENTITY contextmenu_open_new_tab "નવી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
-<!ENTITY contextmenu_open_in_reader "વાંચકમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
 <!ENTITY contextmenu_add_to_launcher "ઘર સ્ક્રીનમાં ઉમેરો">
 <!ENTITY contextmenu_share "વહેંચો">
@@ -239,10 +224,6 @@ size. -->
 <!ENTITY pref_titlebar_mode "શીર્ષક પટ્ટી">
 <!ENTITY pref_titlebar_mode_title "પાનાં શીર્ષક બતાવો">
 <!ENTITY pref_titlebar_mode_url "પાનાં સરનામુ બતાવો">
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
-     whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "શીર્ષક પટ્ટી સરકાવો">
-<!ENTITY history_removed "પાનું દૂર થઇ ગયુ">
 <!ENTITY bookmark_edit_title "બુકમાર્કમાં ફેરફાર કરો">
 <!ENTITY bookmark_edit_name "નામ">
 <!ENTITY bookmark_edit_location "સ્થાન">
@@ -254,8 +235,6 @@ size. -->
 <!ENTITY site_settings_clear "સાફ કરો">
 <!ENTITY site_settings_no_settings "સાફ કરવા માટે કોઇપણ સેટીંગ નથી.">
 <!ENTITY reading_list_added "પાનું તમારી વાંચન યાદીમાં ઉમેરાઇ ગયું">
-<!ENTITY reading_list_removed "પાનું તમારી વાંચન યાદીમાંથી દૂર થઇ ગયું">
-<!ENTITY reading_list_failed "પાનાંને તમારી વાંચન યાદીમાં ઉમેરવામાં નિષ્ફળ">
 <!ENTITY reading_list_duplicate "પાનું પહેલાથી જ તમારી વાંચન યાદીમાં છે">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -278,9 +257,7 @@ size. -->
 <!ENTITY home_history_title "ઇતિહાસ">
 <!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
 <!ENTITY home_last_tabs_title "છેલ્લા સમયની ટૅબ">
-<!ENTITY home_last_tabs_open "છેલ્લા સમયની બધી ટૅબ ખોલો">
 <!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં ખોલો.">
-<!ENTITY home_most_recent_title "એકદમ છેલ્લી">
 <!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!ENTITY home_reading_list_empty "તમે પછીથી જોવા માટે જે લેખો સંગ્રહો તે અહીં દેખાય છે.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -341,7 +318,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; ને &formatS2; માટે શોધો">
 <!ENTITY webapp_generic_name "કાર્યક્રમ">
 <!ENTITY searchable_description "બુકમાર્કો અને ઇતિહાસ">
-<!ENTITY devtools_remote_debugging_forward "પોર્ટ ફોરવર્ડીંગ સુયોજીત કરવાનું ભૂલશો નહિ!">
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; માટે સુધારો ઉપલબ્ધ">
 <!ENTITY updater_start_select2 "ડાઉનલોડ કરવા માટે સ્પર્શ કરો">

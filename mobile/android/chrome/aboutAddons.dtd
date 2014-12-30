@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "ઍડ-ઑન">
 <!ENTITY aboutAddons.header2                    "તમારા ઍડ-ઓન">
 <!ENTITY aboutAddons.options                    "વિકલ્પો">
-<!ENTITY aboutAddons.browseAll                  "બધા Firefox ઍડ-ઓન બ્રાઉઝ કરો">
 
 <!ENTITY addonAction.enable                     "સક્રિય કરો">
 <!ENTITY addonAction.disable                    "નિષ્ક્રિય કરો">
