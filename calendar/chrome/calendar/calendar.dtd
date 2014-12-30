@@ -30,9 +30,9 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Completada">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por finalizaçao">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
-
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar por prioridade">
 <!ENTITY calendar.unifinder.tree.title.label               "Título">
 
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; completada">
@@ -52,7 +52,7 @@
 <!ENTITY calendar.unifinder.tree.status.label              "Posição">
 
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nome do calendário">
-
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar por nome de calendário">
 <!ENTITY calendar.unifinder.tree.duration.label            "Vencimento">
 
 <!ENTITY calendar.unifinder.close.tooltip                  "Fecha a busca e a lista de eventos">
@@ -87,8 +87,8 @@
 
 <!ENTITY calendar.newevent.button.label         "Novo evento" >
 <!ENTITY calendar.newtask.button.label          "Nova tarefa" >
-
-
+<!ENTITY calendar.print.button.label            "Imprimir" >
+<!ENTITY calendar.print.button.accesskey        "p">
 
 <!ENTITY calendar.day.button.label              "Dia" >
 <!ENTITY calendar.week.button.label             "Semana" >
@@ -140,8 +140,8 @@
 <!ENTITY calendar.task-details.category.label        "categoria">
 <!ENTITY calendar.task-details.repeat.label          "repete">
 <!ENTITY calendar.task-details.attachments.label     "anexos">
-
-
+<!ENTITY calendar.task-details.start.label           "data inicial">
+<!ENTITY calendar.task-details.due.label             "data de conclusão">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como completadas">
@@ -173,8 +173,8 @@
 <!ENTITY calendar.context.button.accesskey            "h" >
 
 
-
-
+<!ENTITY calendar.context.attendance.occurrence.label "Esta ocorrência" >
+<!ENTITY calendar.context.attendance.all.label        "Todas as ocorrências" >
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label              "Andamento">
@@ -287,6 +287,8 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "Cancelar soneca">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Editar calendário">
@@ -299,8 +301,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Local:">
-
-
+<!ENTITY calendarproperties.refreshInterval.label          "Atualizar calendário:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Somente leitura">
 <!ENTITY calendarproperties.firealarms.label               "Exibir alarmes">
