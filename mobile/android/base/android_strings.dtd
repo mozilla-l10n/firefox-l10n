@@ -220,7 +220,7 @@ size. -->
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
 <!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
-<!ENTITY pref_private_data_passwords "Shranjena gelsa">
+<!ENTITY pref_private_data_passwords "Shranjena gesla">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
 <!ENTITY pref_private_data_offlineApps "Podatke pri delu brez povezave">
 <!ENTITY pref_private_data_siteSettings2 "Nastavitve strani">
