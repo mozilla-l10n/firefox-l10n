@@ -36,13 +36,21 @@
   -  on a button that remvoes all the recordings. -->
 
 <!ENTITY profilerUI.clearButton "Temizle">
+<!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
+  -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "Çağrı ağacını ters çevir">
+<!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
+  -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "Çağrı ağacını tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration   "Toplam süre (ms)">
-
-
-
+<!ENTITY profilerUI.table.selfDuration    "Kendi süresi (ms)">
+<!ENTITY profilerUI.table.totalPercentage "Toplam maliyet">
+<!ENTITY profilerUI.table.selfPercentage  "Kendi maliyeti">
 <!ENTITY profilerUI.table.samples         "Örnekler">
 <!ENTITY profilerUI.table.function        "Fonksiyon">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
