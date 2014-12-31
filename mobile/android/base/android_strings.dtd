@@ -377,12 +377,12 @@ size. -->
 <!ENTITY home_title "หน้าหลัก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 
-
+<!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
-
+<!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
-
+<!ENTITY home_open_all "เปิดทั้งหมด">
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -400,9 +400,9 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
-
+<!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่นๆ จะถูกแสดงขึ้นที่นี่">
 <!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อได้">
-
+<!ENTITY home_remote_tabs_need_to_sign_in "กรุณาลงชื่อเข้าใช้เพื่อเชื่อมต่อบัญชี Firefox อีกครั้งและทำการซิงค์ต่อไป">
 
 
 
@@ -412,12 +412,14 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "อุปกรณ์ที่ถูกซ่อน">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
 
 <!ENTITY private_browsing_title "การดูเว็บแบบส่วนตัว">
 
-
+<!ENTITY private_tabs_panel_learn_more "ต้องการเรียนรู้เพิ่มเติมไหม?">
 
 
 
@@ -443,8 +445,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ให้บริการโดย">
-
-
+<!ENTITY identity_no_info "เว็บไซต์นี้ไม่ระบุข้อมูลอัตลักษณ์">
+<!ENTITY identity_not_encrypted "การเชื่อมต่อไปยังเว็บไซต์นี้ไม่มีการเข้ารหัส">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "หน้าเว็บนี้กำลังแสดงเนื้อหาที่ไม่ปลอดภัย">
@@ -506,7 +508,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY new_guest_session_text "ผู้ที่ใช้จะไม่เห็นข้อมูลการท่องเว็บส่วนตัวของคุณ (เช่น รหัสผ่านที่บันทึกไว้, ประวัติการท่องเว็บ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จแล้ว ข้อมูลการท่องเว็บของเขาจะถูกลบ และวาระของคุณจะถูกเรียกคืนมา">
 
-
+<!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
@@ -515,6 +517,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -526,6 +531,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "ครั้งล่าสุดที่ซิงค์: &formatS;">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

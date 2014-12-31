@@ -156,7 +156,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "ส่งลิงก์สำหรับยืนยันไปที่ &formatS; แล้ว">
 <!ENTITY fxaccount_confirm_account_resend_email "ส่งอีเมลยืนยันอีกครั้ง">
-
+<!ENTITY fxaccount_confirm_account_change_email "ลืมที่อยู่อีเมล?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ส่งอีเมลยืนยันแล้ว">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ไม่สามารถส่งอีเมลยืนยันได้">
 
@@ -173,7 +173,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "เข้าสู่ระบบ">
 <!ENTITY fxaccount_update_credentials_unknown_error "ไม่สามารถเข้าสู่ระบบ">
 
-
+<!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
 
 
 
@@ -198,10 +198,13 @@
 
 
 
-
+<!ENTITY fxaccount_remove_account_dialog_title "ลบบัญชี Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเข้าเว็บบนอุปกรณ์นี้">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "บัญชี Firefox &formatS; ถูกลบแล้ว">
 
+<!ENTITY fxaccount_remove_account_menu_item "ลบบัญชี">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
