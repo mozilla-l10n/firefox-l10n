@@ -6,8 +6,9 @@
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
+<!ENTITY  onboard_start_message "ยินดีต้อนรับสู่ &brandShortName;!">
 
-
+<!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -15,11 +16,11 @@
 <!ENTITY  bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  history_title "ประวัติ">
 <!ENTITY  reading_list_title "รายการอ่าน">
-
+<!ENTITY  recent_tabs_title "แท็บที่เคยใช้">
 
 <!ENTITY  switch_to_tab "สลับแท็บ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
+<!ENTITY  crash_reporter_title "&brandShortName; ตัวรายงานข้อบกพร่อง">
 <!ENTITY  crash_message2 "&brandShortName; เกิดการขัดข้อง แท็บที่เปิดไว้จะแสดงเป็นรายการในหน้าแรกของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
 <!ENTITY  crash_send_report_message3 "แจ้งการขัดข้องนี้ให้ &vendorShortName; ทราบและดำเนินการแก้ไข ">
 <!ENTITY  crash_include_url2 "รวมที่อยู่เว็บที่ฉันเข้าด้วย">
@@ -46,8 +47,8 @@
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
-
-
+<!ENTITY history_week_section2 "สัปดาห์ที่แล้ว">
+<!ENTITY history_older_section2 "เดือนที่แล้ว">
 
 <!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
@@ -65,7 +66,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่">
-
+<!ENTITY new_private_tab_opened "เปิดแท็บแบบส่วนตัวแล้ว">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -79,10 +80,14 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "ภาษา">
+<!ENTITY pref_category_language_summary "เปลี่ยนภาษาของเบราว์เซอร์คุณ">
+<!ENTITY pref_browser_locale "ภาษาของเบราว์เซอร์">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "ค่าปริยายของระบบ">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -90,7 +95,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่งเข้ารายการอ่าน">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
 
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -128,7 +133,7 @@
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
 
 <!ENTITY pref_category_home "หน้าหลัก">
-
+<!ENTITY pref_category_home_summary "ปรับแต่งโฮมเพจของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
 
 
@@ -140,14 +145,14 @@
 
 
 
-
+<!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
 <!ENTITY pref_header_display "การแสดงผล">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
 
-
+<!ENTITY pref_header_language "ภาษา">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
 
@@ -156,16 +161,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
-
+<!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
+<!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-
+<!ENTITY pref_clear_private_data2 "ล้างทันที">
 <!ENTITY pref_clear_private_data_category "ล้างข้อมูลส่วนตัว">
+<!ENTITY pref_clear_on_exit_title2 "ล้างเมื่อออก">
 
-
-
+<!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "เปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
@@ -192,6 +198,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "หมาป่าว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการพัฒนาตามเพื่อคุณ โดยไม่มีแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
 
+<!ENTITY pref_media_autoplay_enabled "อนุญาติการเล่นอัตโนมัติ">
 
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
@@ -200,9 +207,9 @@ size. -->
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
 
+<!ENTITY pref_private_data_history2 "ประวัติการท่องเน็ต">
 
-
-
+<!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
 <!ENTITY pref_private_data_passwords "รหัสผ่านที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
@@ -271,12 +278,12 @@ size. -->
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
 <!ENTITY desktop_mode "เรียกเว็บสำหรับเดสก์ท็อป">
-
+<!ENTITY page "หน้า">
 <!ENTITY tools "เครื่องมือ">
 <!ENTITY new_tab "แท็บใหม่">
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
 <!ENTITY close_all_tabs "ปิดทุกแท็บ">
-
+<!ENTITY close_private_tabs "ปิดแท็บแบบส่วนตัว">
 <!ENTITY tabs_normal "แท็บ">
 <!ENTITY tabs_private "ส่วนตัว">
 <!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
@@ -301,7 +308,7 @@ size. -->
 <!ENTITY contextmenu_remove "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
-
+<!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "คัดลอกที่อยู่">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
