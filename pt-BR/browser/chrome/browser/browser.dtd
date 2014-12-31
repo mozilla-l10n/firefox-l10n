@@ -153,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "h">
 
 
-<!ENTITY shareImage.label "Share This Image">
+<!ENTITY shareImage.label "Compartilhar esta imagem">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "Compartilhar seleção">
 <!ENTITY shareSelect.accesskey "h">
