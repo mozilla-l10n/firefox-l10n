@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Iniciar no modo de segurança">
-<!ENTITY refreshProfile.label         "Refresh &brandShortName;">
+<!ENTITY refreshProfile.label         "Restaurar o &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "O modo de segurança é um estado especial do &brandShortName;. Pode ser usado resolver problemas.">
 <!ENTITY safeModeDescription4.label   "Suas extensões e preferências serão temporariamente desativadas.">

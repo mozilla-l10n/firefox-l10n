@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "Código-fonte HTML…">
 <!ENTITY insertHTMLCmd.accesskey "f">
-<!ENTITY insertMathCmd.label "Math…">
-<!ENTITY insertMathCmd.accesskey "M">
+<!ENTITY insertMathCmd.label "Fórmula…">
+<!ENTITY insertMathCmd.accesskey "r">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Quebrar abaixo da imagem">
