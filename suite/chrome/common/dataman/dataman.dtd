@@ -48,8 +48,8 @@
 <!ENTITY cookies.info.expires.label "Válido até:">
 
 
-
-
+<!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY cookies.ctx.selectAll.accesskey "a">
 
 
 

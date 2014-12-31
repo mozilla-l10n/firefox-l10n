@@ -22,9 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPrivateWindowCmd.label "Janela privativa">
 
-
-
+<!ENTITY newPrivateWindowCmd.accesskey "J">
 
 
 <!ENTITY printPreviewCmd.label "Visualizar impressão">

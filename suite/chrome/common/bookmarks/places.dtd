@@ -43,8 +43,8 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "f">
 <!ENTITY cmd.delete.label               "Excluir esta página">
 <!ENTITY cmd.delete.accesskey           "E">
-
-
+<!ENTITY cmd.deleteDomainData.label     "Esquecer sobre este site">
+<!ENTITY cmd.deleteDomainData.accesskey "E">
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
@@ -52,22 +52,25 @@
 <!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_tab.label              "Abrir em uma nova aba">
 <!ENTITY cmd.open_tab.accesskey          "a">
-
-
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em abas">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 
 <!ENTITY cmd.properties.label      "Propriedades">
 <!ENTITY cmd.properties.accesskey  "i">
 
+<!ENTITY cmd.sortby_name.label              "Ordenar por nome">
+<!ENTITY cmd.sortby_name.accesskey          "r">
 
-
-
+<!ENTITY cmd.new_bookmark.label            "Novo favorito…">
+<!ENTITY cmd.new_bookmark.accesskey        "f">
 <!ENTITY cmd.new_folder.label              "Nova pasta...">
 <!ENTITY cmd.new_folder.accesskey          "o">
 
 <!ENTITY cmd.new_separator.label           "Novo separador">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-
+<!ENTITY cmd.reloadLivebookmark.label      "Recarregar RSS">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -88,8 +91,8 @@
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 
-
-
+<!ENTITY search.scopeBookmarks.label               "Favoritos">
+<!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY saveSearch.label                          "Salvar">
 <!ENTITY saveSearch.accesskey                      "v">
 
@@ -98,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Mais">
 <!ENTITY detailsPane.more.accesskey "M">
-
-
+<!ENTITY detailsPane.fewer.label "Menos">
+<!ENTITY detailsPane.fewer.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para visualizar e editar as suas propriedades">
 
 <!ENTITY editBookmark.done.label "Concluído">

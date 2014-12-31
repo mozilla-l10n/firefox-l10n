@@ -11,8 +11,9 @@
 
 
 
-
-
+<!ENTITY cmd.clearList.label             "Limpar lista">
+<!ENTITY cmd.clearList.tooltip           "Remove transferências concluídas, canceladas e falhas da lista">
+<!ENTITY cmd.clearList.accesskey         "L">
 
 <!ENTITY col.name.label                  "Nome">
 <!ENTITY col.name.accesskey              "N">
@@ -29,29 +30,29 @@
 <!ENTITY col.progress.label              "Andamento">
 <!ENTITY col.progress.accesskey          "A">
 <!ENTITY col.progress.tooltip            "Andamento">
-
-
+<!ENTITY col.timeremaining.label         "Tempo restante">
+<!ENTITY col.timeremaining.accesskey     "r">
 <!ENTITY col.timeremaining.tooltip       "Tempo restante">
 
 
 
-
-
+<!ENTITY col.transferrate.label          "Velocidade">
+<!ENTITY col.transferrate.accesskey      "d">
 <!ENTITY col.transferrate.tooltip        "Velocidade">
-
-
+<!ENTITY col.timeelapsed.label           "Tempo decorrido">
+<!ENTITY col.timeelapsed.accesskey       "e">
 <!ENTITY col.timeelapsed.tooltip         "Tempo decorrido">
-
-
+<!ENTITY col.starttime.label             "Hora de Início">
+<!ENTITY col.starttime.accesskey         "a">
 <!ENTITY col.starttime.tooltip           "Hora de início">
-
-
+<!ENTITY col.endtime.label               "Hora de término">
+<!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "Hora de término">
-
-
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
 <!ENTITY col.progresstext.tooltip        "Progresso (&#037;)">
-
-
+<!ENTITY col.source.label                "Fonte">
+<!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "Origem">
 
 <!ENTITY view.columns.label              "Exibir colunas">
