@@ -21,8 +21,8 @@
 
 <!ENTITY selectSound.label              "Selecionar...">
 <!ENTITY selectSound.accesskey          "S">
-
-
+<!ENTITY playSoundButton.label          "Reproduzir">
+<!ENTITY playSoundButton.accesskey      "R">
 
 <!ENTITY displayIcon.label              "Exibir um ícone na barra de status">
 <!ENTITY displayIcon.accesskey          "x">
