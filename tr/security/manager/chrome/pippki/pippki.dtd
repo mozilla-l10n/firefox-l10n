@@ -4,7 +4,7 @@
 <!-- Values for changepassword.xul -->
 
 <!ENTITY setPassword.title  "Ana parolayı değiştir">
-<!ENTITY setPassword.tokenName.label "Güvenlik Aygıtları">
+<!ENTITY setPassword.tokenName.label "Güvenlik aygıtı">
 <!ENTITY setPassword.oldPassword.label "Güncel parola:">
 <!ENTITY setPassword.newPassword.label "Yeni parola:">
 <!ENTITY setPassword.reenterPassword.label "Yeni parola (tekrar):">
@@ -14,7 +14,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Sıfırla">
 <!ENTITY resetPassword.title  "Ana Parolayı Sıfırla">
-<!ENTITY resetPassword.text  "Eğer ana parolanızı sıfırlarsanız, web ve e-posta parolanız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
+<!ENTITY resetPassword.text  "Eğer ana parolanızı sıfırlarsanız, web ve e-posta parolanız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız kaybolur. Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Ana parolanızı girin">
@@ -23,14 +23,14 @@
 <!-- These should be common -->
 
 <!ENTITY piperror.title "Hata">
-<!ENTITY pipalert.title "Hata - düzeltilemedi">
+<!ENTITY pipalert.title "Hata - kurtarılamadı">
 <!-- Prefs panel strings -->
 
 <!ENTITY pref.security.general.lHeader "Güvenlik">
 <!ENTITY pref.security.general.rHeader "Genel güvenlik ayarları">
 <!ENTITY pref.security.general.header "Genel güvenlik ayarları">
 <!ENTITY pref.security.general.level.title "Güvenlik Düzeyi">
-<!ENTITY pref.security.general.paranoid.label "Paranoid güvenlik ayarlarını kullan">
+<!ENTITY pref.security.general.paranoid.label "Paranoyak güvenlik ayarlarını kullan">
 <!ENTITY pref.security.general.certificates.title "Sertifikalar">
 <!ENTITY pref.security.general.manageCert.label "Sertifikaları yönet">
 <!-- Downloading a cert -->
@@ -38,8 +38,8 @@
 <!ENTITY downloadCert.title "Sertifika indiriliyor">
 <!ENTITY downloadCert.message1 "Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.">
 <!ENTITY downloadCert.trustSSL "Siteleri tanımlamak için bu sertifika yetkilisine güven.">
-<!ENTITY downloadCert.trustEmail "Bu CA E-Posta kullanıcılarını belirlemek için güvenilir.">
-<!ENTITY downloadCert.trustObjSign "Bu CA yazılım geliştiricilerin belirlenmesinde güvenilir.">
+<!ENTITY downloadCert.trustEmail "E-posta kullanıcılarını tanımlamak için bu CA'ya güven.">
+<!ENTITY downloadCert.trustObjSign "Yazılım geliştiricileri tanımlamak için bu CA'ya güven. ">
 <!ENTITY downloadCert.message3 "Herhangi bir amaçla bu CA'e güvenmeden önce sertifikasını, ilkelerini ve prosedürlerini (varsa) incelemelisiniz.">
 <!ENTITY downloadCert.viewCert.label "Göster">
 <!ENTITY downloadCert.viewPolicy.label "Güvenlik">
@@ -84,4 +84,4 @@
 
 <!ENTITY protectedAuth.title "Korunmuş İşaretin Kimlik Doğrulaması">
 <!ENTITY protectedAuth.msg "Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.">
-<!ENTITY protectedAuth.tokenName.label "İşaret:">
+<!ENTITY protectedAuth.tokenName.label "Jeton:">

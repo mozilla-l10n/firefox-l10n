@@ -10,8 +10,8 @@
 <!ENTITY certmgr.tab.ca                       "Yetkili">
 <!ENTITY certmgr.tab.orphan2                  "Diğerleri">
 
-<!ENTITY certmgr.ca.builtins                  "Yerleşik CA">
-<!ENTITY certmgr.ca.mycas                     "Tarafınızdan yönetilen CA">
+<!ENTITY certmgr.ca.builtins                  "Yerleşik CA'lar">
+<!ENTITY certmgr.ca.mycas                     "Yönettiğiniz CA'lar">
 
 <!ENTITY certmgr.mine                         "Sizi tanımlayan bu kuruluşlardan sertifikalarınız var:">
 <!ENTITY certmgr.others                       "Bu kişileri tanımlayan kayıtlı sertifikalarınız var:">
