@@ -35,4 +35,10 @@
 
 <!ENTITY dntTrackingNotOkay.label2 "Avisar aos sites que eu não quero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
+
+<!ENTITY dntTrackingNopref.label2 "Não avisar aos sites sobre minhas preferências de rastreamento">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingOkay.label2 "Avisar aos sites que eu quero ser rastreado">
+<!ENTITY dntTrackingOkay.accesskey "t">
+
 <!ENTITY doNotTrackInfo.label "Saiba mais sobre o Não rastrear">
