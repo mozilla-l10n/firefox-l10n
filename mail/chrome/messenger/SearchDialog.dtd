@@ -4,9 +4,9 @@
 <!-- for SearchDialog.xul -->
 
 <!ENTITY searchHeading.label         "Išči po sporočilih v:">
-<!ENTITY searchHeading.accesskey     "s">
+<!ENTITY searchHeading.accesskey     "č">
 <!ENTITY searchSubfolders.label      "Išči v podmapah">
-<!ENTITY searchSubfolders.accesskey  "p">
+<!ENTITY searchSubfolders.accesskey  "d">
 <!ENTITY searchOnServer.label        "Zaženi iskanje na strežniku">
 <!ENTITY searchOnServer.accesskey    "Z">
 <!ENTITY resetButton.label           "Počisti">
@@ -18,10 +18,10 @@
 <!ENTITY searchDialogTitle.label     "Išči po sporočilih">
 <!ENTITY results.label               "Rezultati">
 <!ENTITY moveButton.label            "Premakni v">
-<!ENTITY moveButton.accesskey        "P">
+<!ENTITY moveButton.accesskey        "r">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Odpri v mapi">
-<!ENTITY openInFolder.accesskey      "O">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
 <!ENTITY saveAsVFButton.accesskey    "S">
 <!-- for ABSearchDialog.xul -->
