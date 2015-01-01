@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY feedSubscriptions.label "Sottoscrizioni ai feed">
-<!ENTITY subscriptionDesc.label "Nota: rimuovere o cambiare la cartella per un feed non influenzerà gli articoli già scaricati.">
+<!ENTITY learnMore.label "Maggiori informazioni sui Feed">
 <!ENTITY feedTitle.label "Titolo:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY feedLocation.label "URL per il feed:">
 <!ENTITY feedLocation.accesskey "U">
 <!ENTITY feedLocation.placeholder "Inserire un URL valido per il feed da aggiungere">
+<!ENTITY locationValidate.label "Controllo">
+<!ENTITY validateText.label "Controlla la correttezza e ottieni un url valido.">
 <!ENTITY feedFolder.label "Memorizza gli articoli su:">
 <!ENTITY feedFolder.accesskey "o">
 <!ENTITY quickMode.label "Mostra il sommario dell'articolo invece di caricare la pagina web">
@@ -18,8 +20,6 @@
 <!ENTITY autotagUsePrefix.label "Usa questo prefisso per le etichette:">
 <!ENTITY autotagUsePrefix.accesskey "U">
 <!ENTITY autoTagPrefix.placeholder "Fornire il prefisso dell'etichetta">
-<!ENTITY locationValidate.label "Controllo">
-<!ENTITY validateText.label "Controlla la correttezza e ottieni un url valido.">
 <!ENTITY button.addFeed.label "Aggiungi">
 <!ENTITY button.addFeed.accesskey "A">
 <!ENTITY button.editFeed.label "Modifica">

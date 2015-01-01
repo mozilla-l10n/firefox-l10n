@@ -27,10 +27,6 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "o">
-<!ENTITY dntTrackingNopref.label2 "Non rivelare nulla ai siti circa le mie preferenze di tracciamento">
-<!ENTITY dntTrackingNopref.accesskey "N">
 <!ENTITY dntTrackingNotOkay.label2 "Informare i siti che non desidero essere tracciato">
 <!ENTITY dntTrackingNotOkay.accesskey "I">
-<!ENTITY dntTrackingOkay.label2 "Informare i siti che desidero essere tracciato">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">
