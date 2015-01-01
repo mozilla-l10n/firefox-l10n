@@ -23,15 +23,15 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY newPrivateWindowCmd.label "Janela privativa">
-
+<!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "J">
-
-
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "I">
-
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">
@@ -50,35 +50,38 @@
 <!ENTITY pasteCmd.label                   "Colar">
 <!ENTITY pasteCmd.key                     "V">
 <!ENTITY pasteCmd.accesskey               "o">
-
-
+<!ENTITY pasteGoCmd.label                 "Colar &amp; Ir">
+<!ENTITY pasteGoCmd.accesskey             "C">
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
 
+<!ENTITY pasteSearchCmd.label             "Colar &amp; Pesquisar">
+<!ENTITY pasteSearchCmd.accesskey         "P">
 <!ENTITY deleteCmd.label                  "Excluir">
 <!ENTITY deleteCmd.accesskey              "x">
 <!ENTITY selectAllCmd.label               "Selecionar tudo">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "S">
-
-
-
-
+<!ENTITY clearHistoryCmd.label    "Limpar histórico de pesquisa">  
+<!ENTITY clearHistoryCmd.accesskey   "h"> 
+<!ENTITY showSuggestionsCmd.label   "Mostrar sugestões">  
+<!ENTITY showSuggestionsCmd.accesskey  "s"> 
 <!ENTITY preferencesCmd.label    "Preferências">
 <!ENTITY preferencesCmd.key     "E">  
 <!ENTITY preferencesCmd.accesskey   "P"> 
-
+<!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
-
-
-
-
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findReplaceCmd.accesskey "I">
+<!ENTITY findAgainCmd.label "Encontrar novamente">
+<!ENTITY findAgainCmd.key "t">
+<!ENTITY findAgainCmd.accesskey "t">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
-
-
+<!ENTITY findPrevCmd.key "t">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao digitar">
 <!ENTITY findTypeTextCmd.accesskey "g">
@@ -95,11 +98,12 @@
 <!ENTITY helpMenu.label     "Ajuda"> 
 <!ENTITY helpMenu.accesskey    "u"> 
 
-
+<!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
+<!ENTITY helpTroubleshootingInfo.accesskey  "t">
 <!ENTITY releaseCmd.label                   "Notas de lançamento">
 <!ENTITY releaseCmd.accesskey               "n">
-
-
+<!ENTITY helpSafeMode.label                 "Reiniciar com complementos desabilitados">
+<!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                    "Buscar por atualizações…">
 <!ENTITY updateCmd.accesskey                "B">
 <!ENTITY aboutCmd.label     "Sobre o &brandShortName;">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label        "Falha no carregamento da página">
-
-
+<!ENTITY gopherAddon.title      "Protocolo Gopher">
+<!ENTITY gopherAddon.shortDesc  "gopher não é um protocolo registrado.">
 
 <!ENTITY goToAddOn.label        "Abrir página de complementos">
