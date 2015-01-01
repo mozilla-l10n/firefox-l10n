@@ -48,8 +48,8 @@
 <!ENTITY incomingServer.description "Forneça o nome do servidor utilizado para receber mensagens (por exemplo, &quot;mail.exemplo.com.br&quot;).">
 <!ENTITY incomingServer.label "Receber mensagens através deste servidor:">
 <!ENTITY incomingServer.accesskey "R">
-
-
+<!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.label "Nome de usuário:">
 <!ENTITY incomingUsername.accesskey "u">
