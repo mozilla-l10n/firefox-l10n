@@ -12,9 +12,9 @@
 <!ENTITY cmd.open.accesskey              "A">
 
 
-<!ENTITY cmd.goToDownloadPage.label      "Abrir página de download">
-<!ENTITY cmd.goToDownloadPage.accesskey  "A">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de download">
+<!ENTITY cmd.goToDownloadPage.accesskey  "I">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar link do download">
-<!ENTITY cmd.copyDownloadLink.accesskey  "L">
-
-
+<!ENTITY cmd.copyDownloadLink.accesskey  "l">
+<!ENTITY closeWhenDone.label             "Fechar esta janela quando o download for concluído.">
+<!ENTITY closeWhenDone.accesskey         "j">

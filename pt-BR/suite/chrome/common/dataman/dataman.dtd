@@ -64,6 +64,7 @@
 <!ENTITY perm.AllowSession "Excluir ao sair">
 <!ENTITY perm.Block "Bloquear">
 
+<!ENTITY perm.host.placeholder "Digite um nome de servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
@@ -72,8 +73,8 @@
 <!ENTITY prefs.tree.value.label "Valor">
 
 
-
-
+<!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY prefs.ctx.selectAll.accesskey "a">
 
 
 <!-- passwords -->
@@ -86,8 +87,8 @@
 
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
-
-
+<!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY pwd.ctx.selectAll.accesskey "a">
 
 
 <!-- storage -->
@@ -96,8 +97,8 @@
 <!ENTITY storage.tree.size.label "Tamanho">
 
 
-
-
+<!ENTITY storage.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
 
 
 <!-- form data -->
@@ -109,8 +110,8 @@
 <!ENTITY fdata.tree.lastused.label "Última utilização">
 
 
-
-
+<!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY fdata.ctx.selectAll.accesskey "a">
 
 
 <!-- forget -->
@@ -119,13 +120,14 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissões">
 <!ENTITY forget.permissions.accesskey "P">
-
-
+<!ENTITY forget.preferences.label "Preferências de conteúdo">
+<!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Senhas">
 <!ENTITY forget.passwords.accesskey "a">
 <!ENTITY forget.storage.label "Armazenamento">
 <!ENTITY forget.storage.accesskey "m">
+<!ENTITY forget.formdata.label "Dados de formulário">
+<!ENTITY forget.formdata.accesskey "D">
 
-
-
-
+<!ENTITY forget.button.label "Esquecer esses dados">
+<!ENTITY forget.button.accesskey "E">

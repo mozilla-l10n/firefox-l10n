@@ -7,8 +7,9 @@
 <!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
-
-
+<!ENTITY search.placeholder              "Pesquisar nos downloads">
+<!ENTITY search.label                    "Pesquisar nos downloads">
+<!ENTITY search.accesskey                "s">
 
 
 <!ENTITY cmd.clearList.label             "Limpar lista">
@@ -75,8 +76,8 @@
 <!ENTITY cmd.retry.accesskey             "n">
 <!ENTITY cmd.cancel.label                "Cancelar">
 <!ENTITY cmd.cancel.accesskey            "C">
-
-
+<!ENTITY cmd.remove.label                "Remover da lista">
+<!ENTITY cmd.remove.accesskey            "e">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
 
