@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Ein Verifizierungslink wurde an &formatS; gesendet.'>
 <!ENTITY fxaccount_confirm_account_resend_email 'E-Mail erneut anfordern'>
+<!ENTITY fxaccount_confirm_account_change_email 'Diese E-Mail-Adresse vergessen?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verifizierungs-E-Mail gesendet'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Verifizierungs-E-Mail konnte nicht gesendet werden.'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox-Konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Angemeldet als'>
 <!ENTITY fxaccount_status_auth_server 'Konto-Server'>
+<!ENTITY fxaccount_status_sync_now 'Jetzt synchronisieren'>
+<!ENTITY fxaccount_status_syncing2 'Synchronisierung durchführen…'>
 <!ENTITY fxaccount_status_device_name 'Gerätename'>
 <!ENTITY fxaccount_status_sync_server 'Sync-Server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
