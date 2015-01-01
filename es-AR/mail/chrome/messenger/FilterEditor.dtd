@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "e">
 <!ENTITY contextBeforeCls.label "Filtrar antes de la clasificación de basura">
 <!ENTITY contextAfterCls.label "Filtrar después de la clasificación de basura">
+<!ENTITY contextOutgoing.label "Después de enviar">
+<!ENTITY contextOutgoing.accesskey "s">
 
 <!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "E">

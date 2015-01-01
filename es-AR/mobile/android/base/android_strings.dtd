@@ -337,10 +337,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Despegar sitio">
 <!ENTITY contextmenu_add_search_engine "Agregar un buscador">
 
-<!ENTITY pref_titlebar_mode "Barra de título">
-<!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
-<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
-
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
@@ -535,9 +531,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- New tablet UI -->
 
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Reiniciar el navegador para que los cambios tengan efecto">
-<!ENTITY new_tablet_pref "Habilitar nueva UI de tablet">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nueva sesión de invitado">
