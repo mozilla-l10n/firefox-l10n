@@ -16,9 +16,9 @@
 <!ENTITY views.label                    "Views">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Cambia tu vista">
-<!ENTITY view.columns.label             "Mostrar Columns">
+<!ENTITY view.columns.label             "Mostrar columnas">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Sort">
+<!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Unsorted">
 <!ENTITY view.unsorted.accesskey        "U">
@@ -60,7 +60,7 @@
 <!ENTITY cmd.properties.label      "Properties">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Sort por nombre">
+<!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
