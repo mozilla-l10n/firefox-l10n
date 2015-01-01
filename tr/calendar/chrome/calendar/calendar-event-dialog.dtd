@@ -34,7 +34,7 @@
 
 <!ENTITY event.attendees.notify.label               "Katılımcıları uyar">
 <!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
-
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
