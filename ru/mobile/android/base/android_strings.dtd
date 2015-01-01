@@ -341,8 +341,6 @@
 <!ENTITY updater_downloading_retry2 "Нажмите для повтора">
 <!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_apply_select2 "Нажмите для обновления">
-<!ENTITY new_tablet_restart "Перезапустите браузер, чтобы изменения вступили в силу">
-<!ENTITY new_tablet_pref "Включить новый планшетный интерфейс">
 <!ENTITY new_guest_session "Новая гостевая сессия">
 <!ENTITY exit_guest_session "Выйти из гостевой сессии">
 <!ENTITY guest_session_dialog_continue "Продолжить">
