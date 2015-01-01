@@ -10,7 +10,7 @@
 <!ENTITY newtab.customize.blank "Leer">
 <!ENTITY newtab.customize.what "Über diese Seite">
 <!ENTITY newtab.intro.header "Über diese Seite">
-<!ENTITY newtab.undo.removedLabel "Miniaturansicht enfernt">
+<!ENTITY newtab.undo.removedLabel "Miniaturansicht entfernt">
 <!ENTITY newtab.undo.undoButton "Rückgängig">
 <!ENTITY newtab.undo.restoreButton "Alle wiederherstellen">
 <!ENTITY newtab.undo.closeTooltip "Ausblenden">
