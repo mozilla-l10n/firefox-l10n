@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Inscrições RSS">
-
+<!ENTITY subscriptionDesc.label      "Atenção: Remover ou mudar a pasta para um RSS não afetará os artigos já baixados.">
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 

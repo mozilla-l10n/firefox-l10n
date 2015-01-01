@@ -33,8 +33,8 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Reproduzir um som">
 <!ENTITY  play.label                          "Reproduzir">
 <!ENTITY  play.accesskey                      "p">
-
-
+<!ENTITY  systemSound.label                   "Som padrão para novos e-mails">
+<!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Usar este arquivo de som:">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Procurar…">
