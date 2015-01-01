@@ -65,11 +65,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "y">
+<!ENTITY printSetupCmd.accesskey "ü">
 <!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "ö">
 <!ENTITY printCmd.label "Yazdır…">
-<!ENTITY printCmd.accesskey "Y">
+<!ENTITY printCmd.accesskey "z">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.accesskey "a">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
-<!ENTITY pageInfoCmd.accesskey "S">
+<!ENTITY pageInfoCmd.accesskey "b">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -149,13 +149,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "u">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Bu bağlantıyı paylaş">
-<!ENTITY shareLink.accesskey "B">
+<!ENTITY shareLink.accesskey "a">
 <!ENTITY shareImage.label "Bu resmi paylaş">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "s">
 <!ENTITY shareSelect.label "Seçimi paylaş">
 <!ENTITY shareSelect.accesskey "m">
 <!ENTITY shareVideo.label "Bu videoyu paylaş">
-<!ENTITY shareVideo.accesskey "B">
+<!ENTITY shareVideo.accesskey "v">
 <!ENTITY feedsMenu.label "Abone ol">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
@@ -238,7 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "T">
 
-<!ENTITY inspectContextMenu.label     "Ögeyi incele">
+<!ENTITY inspectContextMenu.label     "Öğeyi incele">
 <!ENTITY inspectContextMenu.accesskey "c">
 
 <!ENTITY responsiveDesignTool.label   "Uyumlu tasarım modu">
@@ -267,6 +267,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Tarayıcı alet çantası">
 <!ENTITY browserToolboxMenu.accesskey "a">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "Tarayıcı içeriği alet çantası">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Geliştirici araç çubuğunu kapat">
 <!ENTITY devToolbarMenu.label              "Geliştirici araç çubuğu">
@@ -294,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Yeni pencere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
-<!ENTITY newPrivateWindow.label     "\u00ADYeni gizli pencere">
+<!ENTITY newPrivateWindow.label     "Yeni gizli pencere">
 <!ENTITY newPrivateWindow.accesskey "n">
 
 <!ENTITY editMenu.label         "Düzen"> 
@@ -304,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.accesskey          "G"> 
 <!ENTITY redoCmd.label            "Yinele">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Y"> 
+<!ENTITY redoCmd.accesskey          "n"> 
 <!ENTITY cutCmd.label           "Kes">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "e"> 
@@ -454,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "Resme bak">
 <!ENTITY viewImageCmd.accesskey       "R">
 <!ENTITY viewImageInfoCmd.label       "Resim bilgilerini göster">
-<!ENTITY viewImageInfoCmd.accesskey   "b">
+<!ENTITY viewImageInfoCmd.accesskey   "n">
 <!ENTITY viewImageDescCmd.label       "Açıklamayı göster">
 <!ENTITY viewImageDescCmd.accesskey   "A">
 <!ENTITY viewVideoCmd.label           "Videoyu izle">
@@ -488,13 +493,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "Sesi farklı kaydet…">
 <!ENTITY saveAudioCmd.accesskey       "f">
 <!ENTITY emailImageCmd.label          "Resmi e-posta ile gönder…">
-<!ENTITY emailImageCmd.accesskey      "e">
+<!ENTITY emailImageCmd.accesskey      "ö">
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
-<!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY emailVideoCmd.accesskey      "u">
 <!ENTITY castVideoCmd.label           "Videoyu aygıta gönder">
 <!ENTITY castVideoCmd.accesskey       "a">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
-<!ENTITY emailAudioCmd.accesskey      "e">
+<!ENTITY emailAudioCmd.accesskey      "ö">
 <!ENTITY playPluginCmd.label          "Bu yan uygulamayı etkinleştir">
 <!ENTITY playPluginCmd.accesskey      "e">
 <!ENTITY hidePluginCmd.label          "Bu yan uygulamayı gizle">
@@ -506,7 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.label   "Resmi kopyala">
 <!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Video konumunu kopyala">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "V">
 <!ENTITY copyAudioURLCmd.label        "Ses konumunu kopyala">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-posta adresini kopyala">
@@ -557,9 +562,9 @@ items are mutually exclusive. -->
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "İstatistikleri göster">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "İstatistikleri gizle">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -619,7 +624,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle…">
+<!ENTITY editPopupSettingsUnix.label "Açılır pencere engelleyici tercihlerini düzenle…">
 <!ENTITY editPopupSettings.label "İstenmeyen pencere seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "g">
@@ -727,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Y">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha fazla tema indirin">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.deveditionTheme.label "&brandShortName; temasını kullan">
+<!ENTITY customizeMode.deveditionTheme.label2 "Developer Edition temasını kullan">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sohbetlere odaklan">
@@ -785,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Sekme çöktü">
-<!ENTITY tabCrashed.message "Söylemekten utanıyoruz ama... Görüntülemeye çalıştığınız bu sayfa yanıt vermiyor.">
+<!ENTITY tabCrashed.message "Söylemekten utanıyoruz ama… Görüntülemeye çalıştığınız bu sayfa yanıt vermiyor.">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; bu çökmeden haberdar edilsin ki sorunu düzeltebilsin.">
 <!ENTITY tabCrashed.tryAgain "Yeniden dene">
 
