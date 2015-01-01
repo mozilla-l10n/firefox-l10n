@@ -25,6 +25,8 @@
 <!ENTITY contextManual.accesskey "n">
 <!ENTITY contextBeforeCls.label "Filtern vor Junk-Klassifizierung">
 <!ENTITY contextAfterCls.label "Filtern nach Junk-Klassifizierung">
+<!ENTITY contextOutgoing.label "Nach dem Senden">
+<!ENTITY contextOutgoing.accesskey "S">
 
 <!ENTITY filterActionDesc.label "Diese Aktionen ausführen:">
 <!ENTITY filterActionDesc.accesskey "D">
