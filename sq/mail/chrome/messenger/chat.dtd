@@ -6,7 +6,7 @@
 <!ENTITY offlineContactsHeader.label   "Kontakte Jo Në Linjë">
 <!ENTITY conversationsHeader.label     "Biseda">
 <!ENTITY searchResultConversation.label "Përfundime kërkimi">
-<!ENTITY chat.noConv.title             "Biseda do të shfaqen këtu.">
+<!ENTITY chat.noConv.title             "Bisedat do të shfaqen këtu.">
 <!ENTITY chat.noConv.description       "Përdorni listën e kontakteve te kuadrati majtas që të nisni një bisedë.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;-i hëpërhë nuk ka ndonjë bisedë të mëparshme të ruajtur për këtë kontakt.">
 <!ENTITY chat.noAccount.title             "Ende nuk keni të rregulluar ndonjë llogari fjalosjeje.">
