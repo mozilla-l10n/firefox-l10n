@@ -8,12 +8,12 @@
 <!ENTITY tracking.label                   "Benutzerdaten-Aufzeichnung">
 <!ENTITY trackingIntro.label              "Websites könnten verfolgen, wie Sie sie verwenden, und damit Ihre Privatsphäre beeinflussen.">
 
-<!ENTITY dntTellSites.label               "Websites über Verfolgungs-Vorlieben informieren">
-<!ENTITY dntTellSites.accesskey           "V">
-<!ENTITY dntTrackingNotOkay.label         "Aktionen sollen nicht verfolgt werden">
-<!ENTITY dntTrackingNotOkay.accesskey     "k">
-<!ENTITY dntTrackingOkay.label            "Aktionen dürfen verfolgt werden">
-<!ENTITY dntTrackingOkay.accesskey        "o">
+<!ENTITY doNotTrack.label                 "Websites mitteilen, dass ich nicht verfolgt werden will">
+<!ENTITY doNotTrack.accesskey             "s">
+<!ENTITY trackProtect.label               "Verfolgungsaktivitäten von bekannten Websites verhinden">
+<!ENTITY trackProtect.accesskey           "V">
+<!ENTITY warnTrackContent.label           "Warnen, wenn bekannte Verfolgungsaktivitäten erkannt wurden">
+<!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "Standortbezogenes Browsen">
 <!ENTITY geoIntro.label                   "Websites können Anfragen für weitere Informationen zu Ihrem Standort senden">
