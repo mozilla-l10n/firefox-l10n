@@ -166,9 +166,9 @@
 <!ENTITY calendar.context.modifyorviewtask.label      "Öppna uppgift…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "p">
 <!ENTITY calendar.context.newevent.label              "Ny händelse">
-<!ENTITY calendar.context.newevent.accesskey          "I">
+<!ENTITY calendar.context.newevent.accesskey          "h">
 <!ENTITY calendar.context.newtodo.label               "Ny uppgift">
-<!ENTITY calendar.context.newtodo.accesskey           "D">
+<!ENTITY calendar.context.newtodo.accesskey           "u">
 <!ENTITY calendar.context.deletetask.label            "Ta bort uppgift">
 <!ENTITY calendar.context.deletetask.accesskey        "a">
 <!ENTITY calendar.context.deleteevent.label            "Ta bort händelse">

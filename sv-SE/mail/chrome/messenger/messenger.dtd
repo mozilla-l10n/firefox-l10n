@@ -32,8 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Chattkonto…">
 <!ENTITY newIMAccountCmd.accesskey "c">
-<!ENTITY newFeedAccountCmd.label "RSS-kanelkonto…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newFeedAccountCmd.label "RSS-kanalkonto…">
+<!ENTITY newFeedAccountCmd.accesskey "r">
 <!ENTITY newIMContactCmd.label "Ny chattkontakt…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">

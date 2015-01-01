@@ -11,7 +11,7 @@
 <!ENTITY optionInline.label "Infogat läge">
 <!ENTITY optionInline.accesskey "N">
 <!ENTITY optionDisplay.label "Visningsläge">
-<!ENTITY optionDisplay.accesskey "D">
+<!ENTITY optionDisplay.accesskey "l">
 <!ENTITY optionLTR.label "Läsriktning vänster till höger">
 <!ENTITY optionLTR.accesskey "v">
 <!ENTITY optionRTL.label "Läsriktning höger till vänster">
