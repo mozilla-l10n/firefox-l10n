@@ -2,5 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile3 "O envio de arquivos maiores que 50 MB não é suportado para contas que não são premium.">
-<!ENTITY fileExceedsLimit.style "width:40em; min-height:20em;">
+<!ENTITY fileExceedsLimit.thatsBigFile   "O envio de arquivos maiores que 50 MB">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "não é suportado para contas que não são premium.">
+<!ENTITY fileExceedsLimit.accept "Atualizar">
+<!ENTITY fileExceedsLimit.cancel "Cancelar">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "Atualize agora para enviar esse arquivo, além de:">
+<!ENTITY fileExceedsLimit.pros1 "Envie arquivos e pastas até 2GB">
+<!ENTITY fileExceedsLimit.pros2 "Armazene arquivos ilimitados online">
+<!ENTITY fileExceedsLimit.pros3 "Acesse e compartilhe teus arquivos de qualquer lugar">
