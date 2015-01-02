@@ -1,24 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Ardoer an arloadoù">
 <!ENTITY index.projects2 "Arloadoù">
 <!ENTITY index.device2 "Trevnad">
 <!ENTITY index.help "Skoazell">
 
-
+<!ENTITY device.debugMainProcess "Argerzh pennañ diveugañ">
+<!ENTITY device.debugMainProcessTooltip "Digeriñ ostilhoù an diorroerien kennasket ouzh an argerzh pennañ war an trevnad">
 <!ENTITY device.screenshot "Tapadenn-skramm">
-
-
-
+<!ENTITY device.screenshotTooltip "Digeriñ un dapadenn skramm eus ar stad vremanel eus an trevnad en un ivinell nevez">
+<!ENTITY device.title "Kreizenn reoliñ an trevnadoù">
+<!ENTITY device.notConnected "N'eo ket kennasket. Kennaskit ho trevnad amañ dindan, mar plij.">
 <!ENTITY device.startApp "Loc'hañ">
-
+<!ENTITY device.startAppTooltip "Loc'hañ an arload-mañ war an trevnad">
 <!ENTITY device.stopApp "Arsaviñ">
 <!ENTITY device.stopAppTooltip "Stop this app on the device">
 <!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Open the Developer Tools connected to this app on the device">
 <!ENTITY device.name "Anv">
 <!ENTITY device.plain "Unvan (dre ziouer)">
-
+<!ENTITY device.privileged "Gant brientoù">
 
 <!ENTITY device.allow "Aotren">
 
