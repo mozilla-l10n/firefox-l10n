@@ -27,8 +27,8 @@
 
 <!ENTITY playSound.label                  "Tocar este som:">
 <!ENTITY playSound.accesskey              "o">
-<!ENTITY playButton.label                 "Reproduzir">
-<!ENTITY playButton.accesskey             "R">
+
+
 <!ENTITY systemsound.label                "Som padrão do sistema">
 <!ENTITY systemsound.accesskey            "p">
 <!ENTITY customsound.label                "Arquivo wav:">
