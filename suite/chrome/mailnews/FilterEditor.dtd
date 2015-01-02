@@ -18,10 +18,10 @@
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
 <!ENTITY contextDesc.label "Aplicar filtro quando:">
-
-
-
-
+<!ENTITY contextIncomingMail.label "Ao receber novas mensagens:">
+<!ENTITY contextIncomingMail.accesskey "g">
+<!ENTITY contextManual.label "Aplicar manualmente">
+<!ENTITY contextManual.accesskey "m">
 
 
 
