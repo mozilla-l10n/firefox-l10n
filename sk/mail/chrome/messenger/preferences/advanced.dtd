@@ -13,8 +13,10 @@
 <!ENTITY submitTelemetry.label         "Odosielať údaje o výkonnosti">
 <!ENTITY submitTelemetry.accesskey     "d">
 <!ENTITY telemetryInfoLink.label       "Ďalšie informácie o údajoch výkonnosti">
-<!ENTITY enableGlodaSearch.label        "Povoliť globálne vyhľadávanie a indexovanie správ">
-<!ENTITY enableGlodaSearch.accesskey    "o">
+<!ENTITY enableGlodaSearch.label       "Povoliť globálne vyhľadávanie a indexovanie správ">
+<!ENTITY enableGlodaSearch.accesskey   "o">
+<!ENTITY allowHWAccel.label            "Použiť hardvérové urýchľovanie (ak je dostupné)">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label           "Použiť automatický posun">
