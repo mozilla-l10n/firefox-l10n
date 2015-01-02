@@ -9,7 +9,7 @@
 
 
 <!ENTITY tabmailCloseButton.tooltip "Fechar aba atual">
-
+<!ENTITY tabmailAllTabs.tooltip "Listar todas as abas">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -22,9 +22,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 
 
-
-
-
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Fechar aba">
+<!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Conta...">
 <!ENTITY newAccountCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo...">
@@ -40,13 +40,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Receber">
 <!ENTITY getNewMsgCmd.accesskey "b">
-
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Receber da conta">
 <!ENTITY getNewMsgForCmd.accesskey "d">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getAllNewMsgCmd.label "Todas as contas">
-
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Receber as próximas 500 mensagens">
 <!ENTITY getNextNMsgCmd.accesskey "r">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens de &quot;Saída&quot;">
@@ -114,8 +114,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY showSearchToolbarCmd.label "Modo de visualização">
 <!ENTITY showSearchToolbarCmd.accesskey "v">
-
-
+<!ENTITY showTabsToolbarCmd.label "Barra de ferramentas de abas">
+<!ENTITY showTabsToolbarCmd.accesskey "b">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -127,8 +127,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessagePaneCmd.label "Mensagem">
 <!ENTITY showMessagePaneCmd.accesskey "M">
-
-
+<!ENTITY showThreadPaneCmd.label "Painel de tópicos">
+<!ENTITY showThreadPaneCmd.accesskey "t">
 <!ENTITY showFolderPaneCmd.label "Pastas">
 <!ENTITY showFolderPaneCmd.accesskey "P">
 <!-- sortMenu is also used by addressbook -->
@@ -209,8 +209,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "T">
-
-
+<!ENTITY bodyAllParts.label "Todas as seções da mensagem">
+<!ENTITY bodyAllParts.accesskey "a">
 
 
 
@@ -362,10 +362,10 @@
 <!ENTITY markAsNotPhishCmd.key "p">
 
 
-
-
-
-
+<!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
+<!ENTITY openFeedWebPageInWindow.accesskey "w">
+<!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
+<!ENTITY openFeedSummaryInWindow.accesskey "s">
 
 
 <!-- Tools Menu -->
@@ -484,8 +484,8 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
-
-
+<!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
+<!ENTITY folderContextOpenNewTab.accesskey "a">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">
