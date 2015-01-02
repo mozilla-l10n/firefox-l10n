@@ -30,7 +30,7 @@
 <!ENTITY device.deny "Mohoja">
 <!ENTITY device.denyTooltip "Kjo leje mohohet për aplikacione të këtij lloji">
 <!ENTITY device.installedApps "Aplikacione të Instaluara">
-<!ENTITY device.installedAppsTooltip "Shihni një listë të aplikacioneve të instaluara te pajisja. Disa plikacione, të tilla si aplikacionet e certifikuara, mund të përjashtohen nga kjo listë.">
+<!ENTITY device.installedAppsTooltip "Shihni një listë të aplikacioneve të instaluara te pajisja. Disa aplikacione, të tilla si aplikacionet e certifikuara, mund të përjashtohen nga kjo listë.">
 <!ENTITY device.permissions "Leje">
 <!ENTITY device.permissionsTooltip "Shihni një tabelë të lejeve të mundshme për lloje të ndryshme aplikacionesh">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
