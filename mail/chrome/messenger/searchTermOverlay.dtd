@@ -5,7 +5,7 @@
 <!ENTITY matchAll.label "Správy spĺňajúce všetky nasledujúce podmienky">
 <!ENTITY matchAll.accesskey "S">
 <!ENTITY matchAny.label "Správy spĺňajúce aspoň jednu podmienku">
-<!ENTITY matchAny.accesskey "a">
+<!ENTITY matchAny.accesskey "c">
 <!ENTITY matchAllMsgs.label     "Všetky správy">
 <!ENTITY matchAllMsgs.accesskey "e">
 
