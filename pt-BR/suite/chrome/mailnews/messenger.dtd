@@ -146,7 +146,7 @@
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Tamanho">
 <!ENTITY sortBySizeCmd.accesskey "h">
-<!ENTITY sortByStatusCmd.label "Situação">
+<!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Rótulo">
 <!ENTITY sortByTagsCmd.accesskey "t">

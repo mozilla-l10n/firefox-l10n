@@ -11,7 +11,7 @@
 <!ENTITY priorityColumn.label "Prioridade">
 <!ENTITY tagsColumn.label "Rótulo">
 <!ENTITY accountColumn.label "Conta">
-<!ENTITY statusColumn.label "Situação">
+<!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
 <!ENTITY unreadColumn.label "Não lidas no tópico">
