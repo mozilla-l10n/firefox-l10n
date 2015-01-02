@@ -49,7 +49,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;-i ofron shërbime opsionale (&quot;Shërbime&quot;), të tillë si shërbimi i përditësimit të shtesave, të cilët janë gati për përdorim nga ana juaj me këtë version dyor të &brandShortName;-it siç përshkruhet më poshtë. Nëse nuk doni t&apos;i përdorni këto Shërbime, ose kushtet më poshtë janë të papranueshme për ju, mund ta çaktivizoni shërbimin e përditësimit të shtesave duke hapur parapëlqimet për zbatimin, duke përzgjedhur ">
+<!ENTITY rights.webservices-a "&brandFullName;-i ofron shërbime opsionale (&quot;Shërbime&quot;), të tillë si shërbimi i përditësimit të shtesave, të cilët janë gati për përdorim nga ana juaj me këtë version dyor të &brandShortName;-it siç përshkruhet më poshtë. Nëse nuk doni t&apos;i përdorni këto Shërbime, ose kushtet më poshtë janë të papranueshme për ju, mund ta çaktivizoni shërbimin e përditësimit të shtesave duke hapur parapëlqimet për aplikacionin, duke përzgjedhur ">
 <!ENTITY rights.webservices-b "Të mëtejshme,">
 <!ENTITY rights.webservices-c " pasuar nga ">
 <!ENTITY rights.webservices-d "skeda Përditëso,">

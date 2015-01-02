@@ -359,7 +359,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Dorazi">
 
 <!-- Extract buttons in message header -->
-<!ENTITY calendar.extract.event.button         "Shtoni një veprimtari">
-<!ENTITY calendar.extract.task.button          "Shtoni një punë">
-<!ENTITY calendar.extract.event.button.tooltip "Përftoni nga mesazhi të dhëna kalendari dhe shtojini te kalendari juaj si veprimtari">
-<!ENTITY calendar.extract.task.button.tooltip  "Përftoni nga mesazhi të dhëna kalendari dhe shtojini te kalendari juaj si punë">
+<!ENTITY calendar.extract.event.button         "Shtoje si veprimtari">
+<!ENTITY calendar.extract.task.button          "Shtoje si punë">
+<!ENTITY calendar.extract.event.button.tooltip "Përftoni prej mesazhit të dhëna kalendarike dhe shtojini ato te kalendari juaj si një veprimtari">
+<!ENTITY calendar.extract.task.button.tooltip  "Përftoni prej mesazhit të dhëna kalendarike dhe shtojini ato te kalendari juaj si një punë">

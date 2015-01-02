@@ -528,7 +528,7 @@
 <!ENTITY folderLocationToolbarItem.title "Vend Dosjeje">
 <!ENTITY tagButton.label "Etiketë">
 <!ENTITY compactButton.label "Ngjeshe">
-<!ENTITY appmenuButton.label "Menu Zbatimesh">
+<!ENTITY appmenuButton.label "Menu Aplikacionesh">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Kërkim i mëtejshëm në mesazhe">
@@ -907,4 +907,4 @@
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Mundësi Ikone Zbatimi…">
+<!ENTITY dockOptions.label              "Mundësi Ikone Aplikacioni…">
