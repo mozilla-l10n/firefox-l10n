@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Ndodhi një gabim, teksa provohej ngarkimi i kartelave të domosdoshme për xhirimin e &brandShortName;-ut">
 
 <!ENTITY  onboard_start_message "Mirë se vini te &brandShortName;-i!">
-<!ENTITY  onboard_start_subtext "I përkushtuar juve, privatësisë suaj dhe një Web të Hapur">
+<!ENTITY  onboard_start_subtext "I përkushtuar juve, privatësisë suaj dhe një Web-i të Hapur">
 <!ENTITY  onboard_start_button_account "Hyni te &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 
@@ -35,12 +35,12 @@
 <!ENTITY  exit_label "Dilni">
 
 
-<!ENTITY  launcher_shortcuts_title "Zbatime Web &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Nuk u gjetën zbatime web">
+<!ENTITY  launcher_shortcuts_title "Aplikacione Web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nuk u gjetën aplikacione web">
 
 <!ENTITY choose_file "Zgjidhni Kartelë">
 
-<!ENTITY url_bar_default_text2 "Kërkoni ose jepni adresë">
+<!ENTITY url_bar_default_text2 "Kërkoni ose shkruani adresë">
 
 <!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
@@ -79,7 +79,7 @@
 <!ENTITY settings_title "Rregullime">
 <!ENTITY pref_category_advanced "Të mëtejshme">
 <!ENTITY pref_category_customize "Personalizim">
-<!ENTITY pref_category_customize_summary "Krye, kërkim, skeda, importim">
+<!ENTITY pref_category_customize_summary "Kreu, kërkim, skeda, importim">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -287,7 +287,7 @@ size. -->
 
 <!ENTITY addons "Shtesa">
 <!ENTITY downloads "Shkarkime">
-<!ENTITY apps "Zbatime">
+<!ENTITY apps "Aplikacione">
 <!ENTITY char_encoding "Kodim Shkronjash">
 
 <!ENTITY share "Ndajeni me të tjerët">
@@ -496,7 +496,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Kërko me &formatS1; për &formatS2;">
 
-<!ENTITY webapp_generic_name "Zbatim">
+<!ENTITY webapp_generic_name "Aplikacione">
 
 <!ENTITY searchable_description "Faqerojtës dhe historik">
 
