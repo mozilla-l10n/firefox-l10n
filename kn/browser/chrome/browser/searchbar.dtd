@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "ಹುಡುಕು ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು...">
 <!ENTITY searchEndCap.label             "ಹುಡುಕು">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "ಮುಂದಕ್ಕೆ">
+<!ENTITY SearchHighlightClose "ಧನ್ಯವಾದಗಳು!">
