@@ -114,11 +114,16 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* 不支持当前的工具箱目标">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "选择开发工具的主题风格：">
+<!ENTITY options.selectDevToolsTheme.label2   "主题">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
+<!ENTITY options.usedeveditiontheme.label   "使用开发者版本的浏览器主题">
+<!ENTITY options.usedeveditiontheme.tooltip "切换使用开发者版本的浏览器主题 。">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -183,3 +188,4 @@
 <!ENTITY options.sourceeditor.keybinding.label          "按键绑定">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "默认设置">
+

@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "超过了存储限制">
-<!ENTITY fileExceedsQuota.accept "升级">
-<!ENTITY fileExceedsQuota.cancel "取消">
 <!ENTITY fileExceedsQuota.description "您已经超过了您账户的 2GB 存储限制。">
 <!ENTITY fileExceedsQuota.description1 "您当前的存储使用情况为 #XXX GB。">
-<!ENTITY fileExceedsQuota.description2 "今天就升级至 Pro Plus 账户并获得更多的存储空间。">
-<!ENTITY fileExceedsQuota.description3 "您也可以选择删除您账户中的文件来腾出更多的空间。">

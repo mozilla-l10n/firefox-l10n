@@ -131,8 +131,8 @@
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>此页面的内容安全策略不允许 &brandShortName; 以该方式加载此页面。</p>">
+<!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面的载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
 <!ENTITY corruptedContentError.title "内容损坏错误">
 <!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系网站所有者告知此问题。</li></ul>">

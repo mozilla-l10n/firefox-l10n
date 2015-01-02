@@ -267,6 +267,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "浏览器工具箱">
 <!ENTITY browserToolboxMenu.accesskey "e">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "浏览器内容工具栏">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "关闭开发者工具栏">
 <!ENTITY devToolbarMenu.label              "开发者工具栏">
@@ -409,6 +414,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "搜索">
+<!ENTITY searchWith.label             "使用：">
+<!ENTITY changeSearchSettings.button  "更改搜索设置">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -720,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label "使用 &brandShortName; 主题">
+<!ENTITY customizeMode.deveditionTheme.label2 "使用开发者版本主题">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "聚焦聊天">

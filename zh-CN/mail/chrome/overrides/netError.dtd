@@ -104,8 +104,8 @@
 <!ENTITY phishingBlocked.title "涉嫌站点伪造!">
 <!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
 
-<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>此页面的内容安全策略不允许 &brandShortName; 以该方式加载此页面。</p>">
+<!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
 <!ENTITY corruptedContentError.title "内容损坏错误">
 <!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">

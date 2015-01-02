@@ -167,7 +167,7 @@
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
 
 
-#define seamonkey_l10n 
+#define seamonkey_l10n Mozilla China Comminity (Mozest)
 
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
@@ -179,7 +179,7 @@
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
 
 
-#define seamonkey_l10n_long 
+#define seamonkey_l10n_long <DT><A HREF="http://g.mozest.com/">Mozilla China Comminity (Mozest)</a>
 
 
 #unfilter emptyLines

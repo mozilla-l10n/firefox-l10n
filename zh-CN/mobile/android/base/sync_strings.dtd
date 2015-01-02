@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "一个验证链接已发送到 &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "重发邮件">
+<!ENTITY fxaccount_confirm_account_change_email "要忘记此电子邮件地址？">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "发送验证邮件">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "无法发送验证邮件">
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Firefox 账户">
 <!ENTITY fxaccount_status_signed_in_as "已登录为">
 <!ENTITY fxaccount_status_auth_server "账户服务器">
+<!ENTITY fxaccount_status_sync_now "立即同步">
+<!ENTITY fxaccount_status_syncing2 "正在同步…">
 <!ENTITY fxaccount_status_device_name "设备名称">
 <!ENTITY fxaccount_status_sync_server "同步服务器">
 <!ENTITY fxaccount_status_sync "服务">

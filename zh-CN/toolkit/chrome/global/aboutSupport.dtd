@@ -89,3 +89,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "复制文本到剪贴板">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "复制原始数据到剪贴板">
+
+<!ENTITY aboutSupport.sandboxTitle "沙盒">
