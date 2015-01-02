@@ -18,7 +18,7 @@
 <!ENTITY  exit_label "Dilni">
 <!ENTITY  continue_label "Vazhdo">
 
-<!ENTITY  launcher_shortcuts_title "Zbatime Web &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Nuk u gjetën zbatime web">
+<!ENTITY  launcher_shortcuts_title "Aplikacione Web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nuk u gjetën aplikacione web">
 
 <!ENTITY choose_file "Zgjidhni Kartelë">

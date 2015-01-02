@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Mirë se vini te &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Bëni hyrjen që të njëkohësoni skedat, faqerojtësit, fjalëkalimet tuaja &amp; etj.">
 <!ENTITY fxaccount_getting_started_get_started "Fillojani">
-<!ENTITY fxaccount_getting_started_old_firefox "Po përdorni një version të vjetër të &syncBrand.shortName.label;-it">
+<!ENTITY fxaccount_getting_started_old_firefox "Po përdorni një version të vjetër të &syncBrand.shortName.label;-ut">
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
