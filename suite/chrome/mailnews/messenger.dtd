@@ -7,7 +7,9 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- tabmail -->
 
-
+<!ENTITY tabmailClose.label "Fechar aba">
+<!ENTITY tabmailClose.tooltip "Fechar aba">
+<!ENTITY tabmailNewButton.tooltip "Duplicar a aba atual">
 <!ENTITY tabmailCloseButton.tooltip "Fechar aba atual">
 <!ENTITY tabmailAllTabs.tooltip "Listar todas as abas">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
@@ -20,8 +22,8 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-
-
+<!ENTITY newTabCmd.label "Duplicar aba">
+<!ENTITY newTabCmd.accesskey "b">
 <!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "Fechar aba">
 <!ENTITY closeTabCmd.accesskey "e">
@@ -212,13 +214,14 @@
 <!ENTITY bodyAllParts.label "Todas as seções da mensagem">
 <!ENTITY bodyAllParts.accesskey "a">
 
-
-
-
-
-
-
-
+<!ENTITY bodyMenuFeed.label "Formatação do RSS como">
+<!ENTITY bodyMenuFeed.accesskey "S">
+<!ENTITY viewFeedWebPage.label "Página da web">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "Resumo">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato padrão">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Exibir anexos na mensagem">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
@@ -233,6 +236,8 @@
 <!ENTITY findCmd.label "Localizar na mensagem...">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
+
+<!ENTITY quickFilterBar.show.key2 "K">
 <!-- Go Menu -->
 
 
@@ -280,8 +285,8 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
-
-
+<!ENTITY replyListCmd.label "Responder à lista">
+<!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Responder ao newsgroup">
 <!ENTITY replyNewsgroupCmd.accesskey "n">
 <!ENTITY replySenderCmd.label "Responder">
@@ -307,9 +312,9 @@
 
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
-
-
-
+<!ENTITY archiveMsgCmd.label "Arquivar">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Mover para">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copiar endereço da mensagem">
@@ -360,14 +365,14 @@
 <!ENTITY markAsNotPhishCmd.label "Como não Scam">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
 <!ENTITY markAsNotPhishCmd.key "p">
-
-
+<!ENTITY openFeedMessage.label "Abrir mensagem RSS">
+<!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
 <!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
 <!ENTITY openFeedSummaryInWindow.accesskey "s">
-
-
+<!ENTITY openFeedWebPageInMP.label "Alternar entre página web e resumo no painel de mensagens">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 <!-- Tools Menu -->
 
 <!ENTITY searchMailCmd.label "Pesquisar mensagens...">
@@ -398,10 +403,10 @@
 
 <!ENTITY getMsgButton.label "Receber">
 <!ENTITY newMsgButton.label "Escrever">
-
-
-
-
+<!ENTITY newHTMLMessageCmd.label "Compor em HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Compor mensagem sem formatação">
+<!ENTITY newPlainTextMessageCmd.accesskey "m">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Re: Todos">
 <!ENTITY forwardButton.label "Encaminhar">
@@ -410,17 +415,17 @@
 <!ENTITY goBackButton.label "Voltar">
 <!ENTITY goForwardButton.label "Avançar">
 <!ENTITY deleteButton.label "Excluir ">
-
+<!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY stopButton.label "Parar ">
 <!ENTITY junkButton.label "Spam  ">
 <!ENTITY notJunkButton.label "Não spam">
-
+<!ENTITY searchButton.title "Pesquisa avançada">
 <!-- Tooltips -->
 
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
 <!ENTITY mailToolbar.tooltip "Barra de ferramentas (clique para exibir)">
-
+<!ENTITY searchToolbar.tooltip "Barra de pesquisa">
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
 <!ENTITY getMsgButton.tooltip "Receber mensagens desta conta">
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
@@ -433,7 +438,7 @@
 <!ENTITY goBackButton.tooltip "Voltar uma mensagem">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY deleteButton.tooltip "Excluir os itens selecionados">
-
+<!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionadas">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY stopButton.tooltip "Interromper a transferência atual">
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
@@ -446,14 +451,14 @@
 
 <!ENTITY contextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-
-
+<!ENTITY contextOpenNewTab.label "Abrir mensagem em nova aba">
+<!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextEditAsNew.label "Editar como nova">
 <!ENTITY contextEditAsNew.accesskey "d">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
-
-
+<!ENTITY contextReplyList.label "Responder à lista">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
 <!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label "Responder a todos">
@@ -464,8 +469,8 @@
 <!ENTITY contextForward.accesskey "E">
 <!ENTITY contextForwardAsAttachment.label "Encaminhar como anexos">
 <!ENTITY contextForwardAsAttachment.accesskey "e">
-
-
+<!ENTITY contextArchive.label "Arquivar">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Mover para">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
@@ -485,7 +490,7 @@
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
-<!ENTITY folderContextOpenNewTab.accesskey "a">
+<!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">
@@ -508,8 +513,8 @@
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextSubscribe.label "Inscrever...">
 <!ENTITY folderContextSubscribe.accesskey "r">
-
-
+<!ENTITY folderContextSearchMessages.label "Pesquisar mensagens…">
+<!ENTITY folderContextSearchMessages.accesskey "P">
 <!ENTITY folderContextProperties.label "Propriedades">
 <!ENTITY folderContextProperties.accesskey "o">
 <!ENTITY folderContextSettings.label "Configurações…">
@@ -519,8 +524,8 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Avançado...">
 <!ENTITY advancedButton.accesskey "v">
-
-
+<!ENTITY searchButton.label "Pesquisar mensagens…">
+<!ENTITY searchButton.accesskey "P">
 
 <!ENTITY all.label "Todas">
 <!ENTITY all.accesskey "T">
