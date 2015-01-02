@@ -23,7 +23,7 @@
 <!ENTITY moveToNewWindow.label "Mover a unha nova xanela">
 <!ENTITY moveToNewWindow.accesskey "h">
 <!ENTITY newVirtualFolderCmd.label "Busca gardada…">
-<!ENTITY newVirtualFolderCmd.accesskey "B">
+<!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Outras contas…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Obter unha nova conta de correo…">
@@ -31,7 +31,7 @@
 <!ENTITY newExistingEmailAccountCmd.label "Conta de correo existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Conta de conversas…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.accesskey "a">
 <!ENTITY newFeedAccountCmd.label "Conta de fontes…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Contacto de conversas…">
@@ -39,14 +39,14 @@
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe gardada…">
 <!ENTITY openMessageFileCmd.accesskey "m">
 <!ENTITY saveAsMenu.label "Gardar como">
-<!ENTITY saveAsMenu.accesskey "c">
+<!ENTITY saveAsMenu.accesskey "G">
 <!ENTITY saveAsFileCmd.label "Ficheiro">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "d">
 <!ENTITY getNewMsgForCmd.label "Obter novas mensaxes de">
-<!ENTITY getNewMsgForCmd.accesskey "r">
+<!ENTITY getNewMsgForCmd.accesskey "x">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "s">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conta actual">
@@ -54,20 +54,20 @@
 <!ENTITY getNextNMsgCmd.label "Obter as seguintes 500 mensaxes">
 <!ENTITY getNextNMsgCmd.accesskey "x">
 <!ENTITY sendUnsentCmd.label "Enviar mensaxes pendentes">
-<!ENTITY sendUnsentCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Subscribir…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Eliminar o cartafol">
-<!ENTITY deleteFolder.accesskey "t">
+<!ENTITY deleteFolder.accesskey "E">
 <!ENTITY renameFolder.label "Renomear cartafol…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar cartafoles">
-<!ENTITY compactFolders.accesskey    "r">
+<!ENTITY compactFolders.accesskey    "f">
 <!ENTITY emptyTrashCmd.label "Baleirar a papeleira">
-<!ENTITY emptyTrashCmd.accesskey    "B">
+<!ENTITY emptyTrashCmd.accesskey    "l">
 <!ENTITY offlineMenu.label "Sen conexión">
-<!ENTITY offlineMenu.accesskey "o">
+<!ENTITY offlineMenu.accesskey "S">
 <!ENTITY offlineGoOfflineCmd.label "Traballar sen conexión">
 <!ENTITY offlineGoOfflineCmd.accesskey "r">
 <!ENTITY synchronizeOfflineCmd.label "Descargar/Sincronizar agora…">
@@ -79,12 +79,12 @@
 <!ENTITY downloadStarredCmd.label "Obter mensaxes con estrela">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "m">
+<!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Previsualización">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "n">
+<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eliminar mensaxe">
@@ -109,7 +109,7 @@
 <!ENTITY selectFlaggedCmd.label "Mensaxes con estrela">
 <!ENTITY selectFlaggedCmd.accesskey "n">
 <!ENTITY menuFavoriteFolder.label "Cartafol favorito">
-<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Propiedades">
 <!ENTITY folderPropsFolderCmd2.label "Propiedades do cartafol">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propiedades do grupo de novas…">
@@ -131,7 +131,7 @@
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas do correo">
-<!ENTITY showMessengerToolbarCmd.accesskey "B">
+<!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "z">
 
@@ -151,7 +151,7 @@
 <!ENTITY folderView.label "Cartafoles">
 <!ENTITY folderView.accesskey "r">
 <!ENTITY unifiedFolders.label "Unificado">
-<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY unifiedFolders.accesskey "U">
 <!ENTITY allFolders.label "Todas">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Non lida">
@@ -159,7 +159,7 @@
 <!ENTITY favoriteFolders.label "Favorito">
 <!ENTITY favoriteFolders.accesskey "r">
 <!ENTITY recentFolders.label "Recente">
-<!ENTITY recentFolders.accesskey "c">
+<!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "c">
 
@@ -211,17 +211,17 @@
 <!ENTITY allMsgsCmd.label "Todas">
 <!ENTITY allMsgsCmd.accesskey "T">
 <!ENTITY expandAllThreadsCmd.label "Expandir todas as conversas">
-<!ENTITY expandAllThreadsCmd.accesskey "t">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Contraer todas as conversas">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Non lida">
-<!ENTITY unreadMsgsCmd.accesskey "n">
+<!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Conversas con mensaxes non lidas">
 <!ENTITY threadsWithUnreadCmd.accesskey "m">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Conversas monitorizadas non lidas">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label "Conversas ignoradas">
 <!ENTITY ignoredThreadsCmd.accesskey "o">
 
@@ -255,7 +255,7 @@
 <!ENTITY viewAttachmentsInlineCmd.accesskey "x">
 
 <!ENTITY pageSourceCmd.label "Código fonte da mensaxe">
-<!ENTITY pageSourceCmd.accesskey "d">
+<!ENTITY pageSourceCmd.accesskey "g">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
@@ -264,7 +264,7 @@
 <!ENTITY findMenu.label "Localizar">
 <!ENTITY findMenu.accesskey "L">
 <!ENTITY findCmd.label "Localizar nesta mensaxe…">
-<!ENTITY findCmd.accesskey "n">
+<!ENTITY findCmd.accesskey "L">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Localizar de novo">
 <!ENTITY findAgainCmd.accesskey "v">
@@ -287,7 +287,7 @@
 <!ENTITY nextMsgCmd.accesskey "x">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Mensaxe non lida">
-<!ENTITY nextUnreadMsgCmd.accesskey "x">
+<!ENTITY nextUnreadMsgCmd.accesskey "M">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Mensaxe con estrela">
 <!ENTITY nextStarredMsgCmd.accesskey "n">
@@ -295,7 +295,7 @@
 <!ENTITY nextUnreadThread.accesskey "d">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
-<!ENTITY prevMenu.accesskey "A">
+<!ENTITY prevMenu.accesskey "t">
 <!ENTITY prevMsgCmd.label "Mensaxe">
 <!ENTITY prevMsgCmd.accesskey "x">
 <!ENTITY prevMsgCmd.key "b">
@@ -318,7 +318,7 @@
 <!ENTITY goRecentlyClosedTabs.label "Lapelas pechadas recentemente">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Páxina de inicio do correo">
-<!ENTITY startPageCmd.accesskey "n">
+<!ENTITY startPageCmd.accesskey "P">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mensaxe">
