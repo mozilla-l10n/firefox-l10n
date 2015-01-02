@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Hapni Aplikacion të Strehuar…">
 <!ENTITY projectMenu_importHostedApp_accesskey "S">
 <!ENTITY projectMenu_selectApp_label "Hapni Aplikacion…">
-<!ENTITY projectMenu_selectApp_accesskey "Z">
+<!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instaloje dhe Xhiroje">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Ndale Aplikacionin">
