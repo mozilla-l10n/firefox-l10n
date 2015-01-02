@@ -13,7 +13,7 @@
 <!ENTITY feat_filters.label "Filtros de mensagens">
 <!ENTITY feat_htmlmsg.label "Suporte a mensagens HTML">
 <!ENTITY feat_abook.label "Catálogo de Endereços">
-
+<!ENTITY feat_tags.label "Rótulos e modos de visualização customizáveis">
 <!ENTITY feat_integration.label "Integração com os demais programas do &brandShortName;">
 <!ENTITY dict.title "Dicionários">
 <!ENTITY dict_intro.label "Dicionários são utilizados para revisar a ortografia das suas mensagens.">
