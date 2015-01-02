@@ -22,24 +22,25 @@
 <!ENTITY device.name "Anv">
 <!ENTITY device.plain "Unvan (dre ziouer)">
 <!ENTITY device.privileged "Gant brientoù">
-
+<!ENTITY device.certified "Testeniekaet">
 <!ENTITY device.allow "Aotren">
-
-
-
+<!ENTITY device.allowTooltip "Roet e vez an aotre-mañ evit arloadoù gant ar rizh-mañ">
+<!ENTITY device.prompt "Pediñ">
+<!ENTITY device.promptTooltip "Ur bedadenn eus un arveriad zo azgoulennet gant an aotre-mañ evit an arloadoù gant ar rizh-mañ">
 <!ENTITY device.deny "Nac'hañ">
 <!ENTITY device.denyTooltip "This permission is denied for apps of this type">
 <!ENTITY device.installedApps "Installed Apps">
 <!ENTITY device.installedAppsTooltip "View a list of apps installed on the device. Some apps, such as certified apps, may be excluded from this view.">
 <!ENTITY device.permissions "Permissions">
-
+<!ENTITY device.permissionsTooltip "Gwelout un daolenn eus an aotreoù a vez haezet gant ar rizhoù arloadoù-mañ">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
-
+<!ENTITY device.browserTabs "Ivinelloù ar merdeer">
+<!ENTITY device.browserTabsTooltip "Gwelout ur roll eus an ivinelloù e merdeer an trevnad kennasket">
 <!ENTITY device.debugBrowserTab "Diveugañ">
-
+<!ENTITY device.debugBrowserTabTooltip "Digeriñ ostilhoù an diorroerien kennasket ouzh ivinell ar merdeer war an trevnad">
 <!ENTITY device.help "Skoazell">
 
+<!ENTITY connection.connectTooltip "Kennaskañ ouzh an trevnad">
 <!ENTITY connection.disconnect "Digennaskañ">
 <!ENTITY connection.disconnectTooltip "Disconnect from the current device or simulator">
 <!ENTITY connection.notConnected2 "Not Connected.">
@@ -73,9 +74,9 @@
 <!ENTITY projects.appDetails "Munudoù an arload">
 
 <!ENTITY projects.updateApp "Hizivaat">
-
+<!ENTITY projects.updateAppTooltip "Erounit prouadoù talvoudekaat hag hizivadurioù an arload en trevnad kennasket">
 <!ENTITY projects.debugApp "Diveugañ">
-
+<!ENTITY projects.debugAppTooltip "Digeriñ ostilhoù an diorroerien kennasket ouzh an arload-mañ">
 <!ENTITY projects.saveManifest "Enrollañ">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
