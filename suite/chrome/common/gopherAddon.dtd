@@ -5,5 +5,5 @@
 <!ENTITY loadError.label        "Falha no carregamento da página">
 <!ENTITY gopherAddon.title      "Protocolo Gopher">
 <!ENTITY gopherAddon.shortDesc  "gopher não é um protocolo registrado.">
-
+<!ENTITY gopherAddon.longDesc   "O endereço especifica o protocolo gopher, que já não é mais suportado, portanto o navegador não pode se conectar ao site. Você pode obter um complemento compatível para acessar este servidor a partir de Complementos Mozilla.">
 <!ENTITY goToAddOn.label        "Abrir página de complementos">

@@ -65,7 +65,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "f">
 <!ENTITY cmd.new_folder.label              "Nova pasta...">
 <!ENTITY cmd.new_folder.accesskey          "o">
-
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Novo separador">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
@@ -90,12 +90,13 @@
 
 <!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
-
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "Favoritos">
 <!ENTITY search.scopeBookmarks.accesskey           "F">
 <!ENTITY saveSearch.label                          "Salvar">
 <!ENTITY saveSearch.accesskey                      "v">
 
+<!ENTITY cmd.find.key  "f">
 
 
 
@@ -107,4 +108,4 @@
 
 <!ENTITY editBookmark.done.label "Concluído">
 <!ENTITY editBookmark.cancel.label "Cancelar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey "R">

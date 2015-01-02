@@ -4,6 +4,7 @@
 
 <!ENTITY dataman.windowTitle "Gerenciador de dados">
 
+<!ENTITY selectAll.key "a">
 
 <!ENTITY select.all.label "Todos os tipos de dados">
 <!ENTITY select.cookies.label "Somente os cookies">
@@ -13,14 +14,16 @@
 <!ENTITY select.storage.label "Somente o armazenamento">
 
 <!ENTITY domain.search.placeholder "Domínios de pesquisa">
-
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Domínio">
 
+<!ENTITY domain.ctx.forgetdomain.label "Esquecer esse domínio">
+<!ENTITY domain.ctx.forgetdomain.accesskey "E">
+<!ENTITY domain.ctx.forgetglobal.label "Esquecer dados globais">
+<!ENTITY domain.ctx.forgetglobal.accesskey "g">
 
-
-
-
+<!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
@@ -53,7 +56,8 @@
 
 
 
-
+<!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sites listados de definir cookies futuramente">
+<!ENTITY cookies.blockOnRemove.accesskey "A">
 <!-- permissions -->
 
 <!ENTITY perm.UseDefault "Usar padrão">
@@ -68,6 +72,8 @@
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
+
+<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; salvar configurações, como níveis de zoom, especificamente para um site.">
 
 <!ENTITY prefs.tree.name.label "Nome da preferência">
 <!ENTITY prefs.tree.value.label "Valor">
@@ -93,6 +99,8 @@
 
 <!-- storage -->
 
+<!ENTITY storage.description "Esse domínio utiliza os seguintes armazenamentos remotos em seu computador:">
+
 <!ENTITY storage.tree.type.label "Tipo">
 <!ENTITY storage.tree.size.label "Tamanho">
 
@@ -102,6 +110,8 @@
 
 
 <!-- form data -->
+
+<!ENTITY fdata.search.placeholder "Dados do campo de pesquisa">
 
 <!ENTITY fdata.tree.fieldname.label "Nome">
 <!ENTITY fdata.tree.value.label "Valor digitado">

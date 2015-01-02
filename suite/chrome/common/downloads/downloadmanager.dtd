@@ -34,9 +34,9 @@
 <!ENTITY col.timeremaining.label         "Tempo restante">
 <!ENTITY col.timeremaining.accesskey     "r">
 <!ENTITY col.timeremaining.tooltip       "Tempo restante">
-
-
-
+<!ENTITY col.transferred.label           "Transferido">
+<!ENTITY col.transferred.accesskey       "T">
+<!ENTITY col.transferred.tooltip         "Transferido">
 <!ENTITY col.transferrate.label          "Velocidade">
 <!ENTITY col.transferrate.accesskey      "d">
 <!ENTITY col.transferrate.tooltip        "Velocidade">
@@ -80,8 +80,8 @@
 <!ENTITY cmd.remove.accesskey            "e">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-
-
+<!ENTITY cmd.show.label                  "Abrir pasta">
+<!ENTITY cmd.show.accesskey              "p">
 <!ENTITY cmd.goToDownloadPage.label      "Abrir página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey  "A">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar link do download">
